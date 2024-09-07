@@ -1,6 +1,8 @@
 
 Cataclysm-DDA experimental build 2024-09-07-2028 (772b0e9)
 * Jika-tabi footwear (#76100)
+
+Cataclysm-DDA 0.H release candidate 2024-09-07-2118 (c513797)
 * Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H (#76175)
 * Heat immune cleanup (#76218)
 * Pruning the old ``to-hit`` syntax - Part 7 (#76238)
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2024-09-03-0707 (c0f8c04)
 
 Cataclysm-DDA experimental build 2024-09-03-0505 (01a0c36)
 * wrap the description in the zone menu to avoid a ridiculous width (#76157)
-
-Cataclysm-DDA experimental build 2024-09-02-2126 (9c0bc47)
 * Add indoor flagpole and use it for Hub01 American flags (#76111)
 * Shorten skull-specific harvestgroups with the power of ``extend`` (#76117)
 * Print church/school bell ringing sound in the message log once again (#76146)

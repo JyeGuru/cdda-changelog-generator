@@ -4,6 +4,11 @@
 #### Cataclysm-DDA experimental build 2024-09-07-2028 ([772b0e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-07-2028))
 
 * Jika-tabi footwear ([#76100](https://github.com/CleverRaven/Cataclysm-DDA/pull/76100))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-07-2118 ([c513797](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-07-2118))
+
 * Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H ([#76175](https://github.com/CleverRaven/Cataclysm-DDA/pull/76175))
 * Heat immune cleanup ([#76218](https://github.com/CleverRaven/Cataclysm-DDA/pull/76218))
 * Pruning the old ``to-hit`` syntax - Part 7 ([#76238](https://github.com/CleverRaven/Cataclysm-DDA/pull/76238))
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-09-03-0505 ([01a0c36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-0505))
 
 * wrap the description in the zone menu to avoid a ridiculous width ([#76157](https://github.com/CleverRaven/Cataclysm-DDA/pull/76157))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-02-2126 ([9c0bc47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-2126))
-
 * Add indoor flagpole and use it for Hub01 American flags ([#76111](https://github.com/CleverRaven/Cataclysm-DDA/pull/76111))
 * Shorten skull-specific harvestgroups with the power of ``extend`` ([#76117](https://github.com/CleverRaven/Cataclysm-DDA/pull/76117))
 * Print church/school bell ringing sound in the message log once again ([#76146](https://github.com/CleverRaven/Cataclysm-DDA/pull/76146))
