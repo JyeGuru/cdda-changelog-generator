@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-08-1836 ([92be803](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-1836))
+
+* Custom loading screen ([#76251](https://github.com/CleverRaven/Cataclysm-DDA/pull/76251))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-09-08-0454 ([c6ba9a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-08-0454))
 
 * Fix point hash to be well distributed. ([#76250](https://github.com/CleverRaven/Cataclysm-DDA/pull/76250))
@@ -134,7 +140,6 @@
 * fix the skill editor to use the text property instead of textformatted ([#76141](https://github.com/CleverRaven/Cataclysm-DDA/pull/76141))
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
-* [Xedra Evolved] Extend hedge magic research system, part 2 ([#76061](https://github.com/CleverRaven/Cataclysm-DDA/pull/76061))
 * [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction ([#76136](https://github.com/CleverRaven/Cataclysm-DDA/pull/76136))
 * properly compute colors for palette indexes above 15 in curses builds ([#76124](https://github.com/CleverRaven/Cataclysm-DDA/pull/76124))
 * Add ClangCL to CMake Visual Studio ([#76116](https://github.com/CleverRaven/Cataclysm-DDA/pull/76116))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-09-04-0157 ([ca3289b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-0157))
 
 * Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-03-1837 ([fe410bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-1837))
-
 * out ot -> out of ([#76144](https://github.com/CleverRaven/Cataclysm-DDA/pull/76144))
 * Fixed a typo ([#76139](https://github.com/CleverRaven/Cataclysm-DDA/pull/76139))
 * Add the FBI Profession ([#76068](https://github.com/CleverRaven/Cataclysm-DDA/pull/76068))

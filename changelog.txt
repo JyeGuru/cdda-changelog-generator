@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-08-1836 (92be803)
+* Custom loading screen (#76251)
+
 Cataclysm-DDA 0.H release candidate 2024-09-08-0454 (c6ba9a2)
 * Fix point hash to be well distributed. (#76250)
 
@@ -77,7 +80,6 @@ Cataclysm-DDA experimental build 2024-09-05-0221 (7c664e1)
 * fix the skill editor to use the text property instead of textformatted (#76141)
 * Updated default keybindings for changing start dates in character creation menu (#76164)
 * Migrate ACT_PULP to the new activity actor system (#76163)
-* [Xedra Evolved] Extend hedge magic research system, part 2 (#76061)
 * [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction (#76136)
 * properly compute colors for palette indexes above 15 in curses builds (#76124)
 * Add ClangCL to CMake Visual Studio (#76116)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-09-04-0426 (03f7d9b)
 
 Cataclysm-DDA experimental build 2024-09-04-0157 (ca3289b)
 * Remove the music action from AR bionic (#76177)
-
-Cataclysm-DDA experimental build 2024-09-03-1837 (fe410bf)
 * out ot -> out of (#76144)
 * Fixed a typo (#76139)
 * Add the FBI Profession (#76068)
