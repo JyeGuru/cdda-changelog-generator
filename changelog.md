@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-08-0259 ([6dc777e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-0259))
+
 * Added 'link_up' action to smart_lamp_on in line with other items ([#76261](https://github.com/CleverRaven/Cataclysm-DDA/pull/76261))
 * Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
 * More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-09-03-1615 ([3a672af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-1615))
 
 * Fixed a typo ([#76139](https://github.com/CleverRaven/Cataclysm-DDA/pull/76139))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-03-0707 ([c0f8c04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-0707))
-
 * Add the FBI Profession ([#76068](https://github.com/CleverRaven/Cataclysm-DDA/pull/76068))
 * [MOM] Add electrokinetic override for internal battery compartment ([#76101](https://github.com/CleverRaven/Cataclysm-DDA/pull/76101))
 * fix Segfault when trying to cast a spell ([#76155](https://github.com/CleverRaven/Cataclysm-DDA/pull/76155))
