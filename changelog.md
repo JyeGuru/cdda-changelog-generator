@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-08-2312 ([ced900e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-2312))
+
 * [Magiclysm] Add spell school deficiency traits ([#76230](https://github.com/CleverRaven/Cataclysm-DDA/pull/76230))
 
 ---
@@ -184,11 +189,6 @@
 
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Animist/biomancer edition) ([#76160](https://github.com/CleverRaven/Cataclysm-DDA/pull/76160))
 * Maybe fix 0.H tests ([#76185](https://github.com/CleverRaven/Cataclysm-DDA/pull/76185))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-04-0426 ([03f7d9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-0426))
-
 * Correct naming of Desert Tec > Desert Tech in the MDRX assembly descriptions ([#76171](https://github.com/CleverRaven/Cataclysm-DDA/pull/76171))
 * fix GitHub errors; save `overmap_fast_travel` & `overmap_fast_scroll` ([#76145](https://github.com/CleverRaven/Cataclysm-DDA/pull/76145))
 * Kill a pointless slur ([#76161](https://github.com/CleverRaven/Cataclysm-DDA/pull/76161))
