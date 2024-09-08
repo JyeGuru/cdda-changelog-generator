@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-08-2121 ([515ac7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-2121))
+
+* [Magiclysm] Change "Vocalize" to "The Inner Voice" ([#76274](https://github.com/CleverRaven/Cataclysm-DDA/pull/76274))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-08-1836 ([92be803](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-1836))
 
 * Custom loading screen ([#76251](https://github.com/CleverRaven/Cataclysm-DDA/pull/76251))
@@ -187,11 +193,6 @@
 * fix GitHub errors; save `overmap_fast_travel` & `overmap_fast_scroll` ([#76145](https://github.com/CleverRaven/Cataclysm-DDA/pull/76145))
 * Kill a pointless slur ([#76161](https://github.com/CleverRaven/Cataclysm-DDA/pull/76161))
 * Correct naming of Arisaka calibre ([#76169](https://github.com/CleverRaven/Cataclysm-DDA/pull/76169))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-04-0157 ([ca3289b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-0157))
-
 * Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))
 * out ot -> out of ([#76144](https://github.com/CleverRaven/Cataclysm-DDA/pull/76144))
 * Fixed a typo ([#76139](https://github.com/CleverRaven/Cataclysm-DDA/pull/76139))
@@ -209,7 +210,6 @@
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
 * Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
-* add damage spellcasting_adjustment ([#76064](https://github.com/CleverRaven/Cataclysm-DDA/pull/76064))
 * Massively increase overmap UI search range ([#76072](https://github.com/CleverRaven/Cataclysm-DDA/pull/76072))
 * fix vitamins in vitamins ([#76075](https://github.com/CleverRaven/Cataclysm-DDA/pull/76075))
 * Routine tileset updates on 01 September 2024 ([#76094](https://github.com/CleverRaven/Cataclysm-DDA/pull/76094))
