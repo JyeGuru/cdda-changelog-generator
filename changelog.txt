@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-09-1631 (bbf0077)
 * Isolation Protocol: Fix generation of microlab_chunks_level (#76289)
 
 Cataclysm-DDA experimental build 2024-09-09-0239 (1fe4256)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-09-04-2028 (33970f5)
 * Fix overlook in #76029 (#76167)
 * [Sky Island] Fix pond recipe failed refunds (#76179)
 * [MoM] Add extra possible learning conditions for Extended Channeling (#76148)
-
-Cataclysm-DDA experimental build 2024-09-04-1749 (2212ca2)
 * Autodrive works on forest trails again (for tiny vehicles) (#76184)
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Animist/biomancer edition) (#76160)
 * Maybe fix 0.H tests (#76185)
