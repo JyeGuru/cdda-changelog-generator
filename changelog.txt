@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2024-09-09-2259 (791baaf)
+* [Xedra Evolved]Fix electronic halo adds weapon dispersion (#76280)
+* [Xedra Evolved] Gossamer Artisan does not need to be Active (#76304)
+
 Cataclysm-DDA experimental build 2024-09-09-2059 (7553387)
 * Hub01 now gives NRE recorder with fitting battery on their quest (#76313)
 
@@ -76,12 +80,7 @@ Cataclysm-DDA experimental build 2024-09-06-0432 (84eace8)
 
 Cataclysm-DDA experimental build 2024-09-06-0015 (7d7dd4b)
 * Machete proliferation (#76176)
-
-Cataclysm-DDA 0.H release candidate 2024-09-05-1853 (675ea0d)
 * Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 (#76174)
-
-Cataclysm-DDA experimental build 2024-09-05-2020 (c017e94)
-* Update numbers on some Tacoma ranch missions (#76073)
 * Correct some ``copy-from`` weirdness caught in #76180 (#76188)
 * Functioning toasters (#76074)
 * fix you being able to "see" impossible shape when blind (#76206)
@@ -136,7 +135,6 @@ Cataclysm-DDA experimental build 2024-09-05-0221 (7c664e1)
 * Backport #75717 (#76123)
 * Update notice about camp zones changing... five years ago (#76114)
 * Update the autolabeler (#76112)
-* Massively increase overmap UI search range (#76072)
 * fix vitamins in vitamins (#76075)
 * Routine tileset updates on 01 September 2024 (#76094)
 * Remove extraneous copy of lake_cabin_water terrain from lighthouse (#76104)

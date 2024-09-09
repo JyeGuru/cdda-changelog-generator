@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-09-2259 ([791baaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-2259))
+
+* [Xedra Evolved]Fix electronic halo adds weapon dispersion ([#76280](https://github.com/CleverRaven/Cataclysm-DDA/pull/76280))
+* [Xedra Evolved] Gossamer Artisan does not need to be Active ([#76304](https://github.com/CleverRaven/Cataclysm-DDA/pull/76304))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-09-2059 ([7553387](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-2059))
 
 * Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
@@ -139,18 +146,7 @@
 #### Cataclysm-DDA experimental build 2024-09-06-0015 ([7d7dd4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-0015))
 
 * Machete proliferation ([#76176](https://github.com/CleverRaven/Cataclysm-DDA/pull/76176))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-05-1853 ([675ea0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-05-1853))
-
 * Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 ([#76174](https://github.com/CleverRaven/Cataclysm-DDA/pull/76174))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-05-2020 ([c017e94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-05-2020))
-
-* Update numbers on some Tacoma ranch missions ([#76073](https://github.com/CleverRaven/Cataclysm-DDA/pull/76073))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * Functioning toasters ([#76074](https://github.com/CleverRaven/Cataclysm-DDA/pull/76074))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
@@ -214,7 +210,6 @@
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
 * Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
-* Massively increase overmap UI search range ([#76072](https://github.com/CleverRaven/Cataclysm-DDA/pull/76072))
 * fix vitamins in vitamins ([#76075](https://github.com/CleverRaven/Cataclysm-DDA/pull/76075))
 * Routine tileset updates on 01 September 2024 ([#76094](https://github.com/CleverRaven/Cataclysm-DDA/pull/76094))
 * Remove extraneous copy of lake_cabin_water terrain from lighthouse ([#76104](https://github.com/CleverRaven/Cataclysm-DDA/pull/76104))
