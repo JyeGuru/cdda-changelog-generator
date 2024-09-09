@@ -188,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-09-04-1749 ([2212ca2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-1749))
 
 * Autodrive works on forest trails again (for tiny vehicles) ([#76184](https://github.com/CleverRaven/Cataclysm-DDA/pull/76184))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-04-1259 ([9633d7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-1259))
-
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Animist/biomancer edition) ([#76160](https://github.com/CleverRaven/Cataclysm-DDA/pull/76160))
 * Maybe fix 0.H tests ([#76185](https://github.com/CleverRaven/Cataclysm-DDA/pull/76185))
 * Correct naming of Desert Tec > Desert Tech in the MDRX assembly descriptions ([#76171](https://github.com/CleverRaven/Cataclysm-DDA/pull/76171))
