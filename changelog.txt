@@ -1,3 +1,4 @@
+* [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. (#76277)
 * [ Xedra Evolved ] Shade Skin Overlay Fix (#76279)
 
 Cataclysm-DDA experimental build 2024-09-09-1631 (bbf0077)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2024-09-04-2028 (33970f5)
 * Remove extraneous copy of lake_cabin_water terrain from lighthouse (#76104)
 * roof innawood caves (#76109)
 * Remove generic bird egg, replace its role with chicken egg (#76090)
-* fix the crash by bulding the font atlas (#76070)
 * Fix clang error from new warning (#76078)
 * Make skill rust related mutations display as mixed effect (#76076)
 * fix light_cell_rechargeable not fitting in batteries itemgroup (#76081)
