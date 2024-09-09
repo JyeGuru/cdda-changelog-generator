@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-09-2059 ([7553387](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-2059))
+
+* Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-09-1838 ([c06e515](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-1838))
 
 * [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. ([#76277](https://github.com/CleverRaven/Cataclysm-DDA/pull/76277))
@@ -177,11 +183,6 @@
 * add baby_monster_group ([#76122](https://github.com/CleverRaven/Cataclysm-DDA/pull/76122))
 * Pruning the old ``to-hit`` syntax - Part 5 ([#76140](https://github.com/CleverRaven/Cataclysm-DDA/pull/76140))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-04-2342 ([6f95906](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-2342))
-
 * show spell components in new spell ui and fix color tags in it ([#76149](https://github.com/CleverRaven/Cataclysm-DDA/pull/76149))
 * fix explosion in bubble ([#76113](https://github.com/CleverRaven/Cataclysm-DDA/pull/76113))
 * Weekly Changelog 2024-08-26 to 2024-09-02 ([#76132](https://github.com/CleverRaven/Cataclysm-DDA/pull/76132))
@@ -223,4 +224,3 @@
 * Make skill rust related mutations display as mixed effect ([#76076](https://github.com/CleverRaven/Cataclysm-DDA/pull/76076))
 * fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
-* Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))

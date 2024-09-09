@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-09-2059 (7553387)
+* Hub01 now gives NRE recorder with fitting battery on their quest (#76313)
+
 Cataclysm-DDA experimental build 2024-09-09-1838 (c06e515)
 * [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. (#76277)
 * [ Xedra Evolved ] Shade Skin Overlay Fix (#76279)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2024-09-05-0221 (7c664e1)
 * add baby_monster_group (#76122)
 * Pruning the old ``to-hit`` syntax - Part 5 (#76140)
 * bump version of actions/download-artifact (#76181)
-
-Cataclysm-DDA experimental build 2024-09-04-2342 (6f95906)
 * show spell components in new spell ui and fix color tags in it (#76149)
 * fix explosion in bubble (#76113)
 * Weekly Changelog 2024-08-26 to 2024-09-02 (#76132)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2024-09-04-2342 (6f95906)
 * Make skill rust related mutations display as mixed effect (#76076)
 * fix light_cell_rechargeable not fitting in batteries itemgroup (#76081)
 * Remove gates from FEMA camp fence corners (#76089)
-* Routine i18n updates on 31 August 2024 (#76071)
