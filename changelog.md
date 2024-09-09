@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-09-0239 ([1fe4256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-0239))
+
+* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Kelvinist/Magus edition) ([#76242](https://github.com/CleverRaven/Cataclysm-DDA/pull/76242))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-08-2312 ([ced900e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-2312))
 
 * [Magiclysm] Add spell school deficiency traits ([#76230](https://github.com/CleverRaven/Cataclysm-DDA/pull/76230))
@@ -222,5 +228,4 @@
 * fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
 * Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))
-* backport #71875 and #75815 ([#76066](https://github.com/CleverRaven/Cataclysm-DDA/pull/76066))
 * Backport #76058 ([#76067](https://github.com/CleverRaven/Cataclysm-DDA/pull/76067))

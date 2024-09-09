@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-09-0239 (1fe4256)
+* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Kelvinist/Magus edition) (#76242)
+
 Cataclysm-DDA experimental build 2024-09-08-2312 (ced900e)
 * [Magiclysm] Add spell school deficiency traits (#76230)
 
@@ -144,5 +147,4 @@ Cataclysm-DDA experimental build 2024-09-04-1259 (9633d7f)
 * fix light_cell_rechargeable not fitting in batteries itemgroup (#76081)
 * Remove gates from FEMA camp fence corners (#76089)
 * Routine i18n updates on 31 August 2024 (#76071)
-* backport #71875 and #75815 (#76066)
 * Backport #76058 (#76067)
