@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-09-1838 (c06e515)
 * [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. (#76277)
 * [ Xedra Evolved ] Shade Skin Overlay Fix (#76279)
 
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2024-09-05-0221 (7c664e1)
 
 Cataclysm-DDA experimental build 2024-09-04-2342 (6f95906)
 * show spell components in new spell ui and fix color tags in it (#76149)
-
-Cataclysm-DDA experimental build 2024-09-04-2028 (33970f5)
 * fix explosion in bubble (#76113)
 * Weekly Changelog 2024-08-26 to 2024-09-02 (#76132)
 * Prevent XEDRA mercenary officer from evolving, which otherwise prevents finishing the haunting fight (#76127)
