@@ -1,3 +1,4 @@
+* Pipe cleaners recipe fix ([#76201](https://github.com/CleverRaven/Cataclysm-DDA/pull/76201))
 
 ---
 
