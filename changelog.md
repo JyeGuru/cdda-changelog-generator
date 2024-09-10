@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-10-1443 ([9dea210](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-1443))
+
 * Add TRANSLUCENT terrain flag which blocks vision but not light ([#76290](https://github.com/CleverRaven/Cataclysm-DDA/pull/76290))
 
 ---

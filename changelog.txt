@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-10-1443 (9dea210)
 * Add TRANSLUCENT terrain flag which blocks vision but not light (#76290)
 
 Cataclysm-DDA experimental build 2024-09-10-1238 (ab86595)
