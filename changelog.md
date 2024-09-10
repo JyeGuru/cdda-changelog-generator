@@ -1,3 +1,4 @@
+* [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
 
 ---
 
@@ -225,6 +226,5 @@
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
 * Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
-* Routine tileset updates on 01 September 2024 ([#76094](https://github.com/CleverRaven/Cataclysm-DDA/pull/76094))
 * Remove extraneous copy of lake_cabin_water terrain from lighthouse ([#76104](https://github.com/CleverRaven/Cataclysm-DDA/pull/76104))
 * roof innawood caves ([#76109](https://github.com/CleverRaven/Cataclysm-DDA/pull/76109))
