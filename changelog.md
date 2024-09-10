@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-10-2224 ([dd272dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-2224))
+
+* Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
 * [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
 
 ---
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-09-06-0432 ([84eace8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-0432))
 
 * [MoM] Add Leukocyte Accumulation vitakinetic power, obsolete Damage Balancing ([#76125](https://github.com/CleverRaven/Cataclysm-DDA/pull/76125))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-06-0015 ([7d7dd4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-0015))
-
 * Machete proliferation ([#76176](https://github.com/CleverRaven/Cataclysm-DDA/pull/76176))
 * Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 ([#76174](https://github.com/CleverRaven/Cataclysm-DDA/pull/76174))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
@@ -215,7 +216,6 @@
 * Add indoor flagpole and use it for Hub01 American flags ([#76111](https://github.com/CleverRaven/Cataclysm-DDA/pull/76111))
 * Shorten skull-specific harvestgroups with the power of ``extend`` ([#76117](https://github.com/CleverRaven/Cataclysm-DDA/pull/76117))
 * Print church/school bell ringing sound in the message log once again ([#76146](https://github.com/CleverRaven/Cataclysm-DDA/pull/76146))
-* [XEDRA] Fix Inventor Grenade launcher mod definition ([#76096](https://github.com/CleverRaven/Cataclysm-DDA/pull/76096))
 * Put player under during CBM surgery initiated from Rubik's dialogue ([#76120](https://github.com/CleverRaven/Cataclysm-DDA/pull/76120))
 * Refugee center adds food you sell/give them to their camp storage ([#76105](https://github.com/CleverRaven/Cataclysm-DDA/pull/76105))
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
