@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-10-0339 ([c73e4c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-0339))
+
 * Pipe cleaners recipe fix ([#76201](https://github.com/CleverRaven/Cataclysm-DDA/pull/76201))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-09-05-1516 ([67159f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-05-1516))
 
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-05-0451 ([5d5ef55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-05-0451))
-
 * casting a spell casts the wrong spell ([#76137](https://github.com/CleverRaven/Cataclysm-DDA/pull/76137))
 * Fix inconsistent crafting range ([#76143](https://github.com/CleverRaven/Cataclysm-DDA/pull/76143))
 * fix the skill editor to use the text property instead of textformatted ([#76141](https://github.com/CleverRaven/Cataclysm-DDA/pull/76141))
