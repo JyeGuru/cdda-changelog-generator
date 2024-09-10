@@ -1,3 +1,4 @@
+* New Mod: Martial Mastery ([#76278](https://github.com/CleverRaven/Cataclysm-DDA/pull/76278))
 
 ---
 
@@ -124,7 +125,6 @@
 #### Cataclysm-DDA experimental build 2024-09-07-0110 ([e398be1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-07-0110))
 
 * [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
-* Clean up some vanilla-unused itemgroups ([#76086](https://github.com/CleverRaven/Cataclysm-DDA/pull/76086))
 * Move some IDs only used in mods to corresponding mod files, remove ``VERMIN`` flag ([#76091](https://github.com/CleverRaven/Cataclysm-DDA/pull/76091))
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Druid/Earthshaper edition)  ([#76197](https://github.com/CleverRaven/Cataclysm-DDA/pull/76197))
 * [MoM] Add two snippets ([#76219](https://github.com/CleverRaven/Cataclysm-DDA/pull/76219))
