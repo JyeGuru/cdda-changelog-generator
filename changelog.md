@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-10-0532 ([43dd78a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-0532))
+
 * New Mod: Martial Mastery ([#76278](https://github.com/CleverRaven/Cataclysm-DDA/pull/76278))
 
 ---
@@ -166,11 +171,6 @@
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
 * Butchering proficiencies ([#76156](https://github.com/CleverRaven/Cataclysm-DDA/pull/76156))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-05-1516 ([67159f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-05-1516))
-
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
 * casting a spell casts the wrong spell ([#76137](https://github.com/CleverRaven/Cataclysm-DDA/pull/76137))
 * Fix inconsistent crafting range ([#76143](https://github.com/CleverRaven/Cataclysm-DDA/pull/76143))
