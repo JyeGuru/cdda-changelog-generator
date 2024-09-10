@@ -1,3 +1,10 @@
+* Add TRANSLUCENT terrain flag which blocks vision but not light ([#76290](https://github.com/CleverRaven/Cataclysm-DDA/pull/76290))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-10-1238 ([ab86595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-1238))
+
+* replace baby_egg, baby_monster, baby_monster_group with struct ([#76266](https://github.com/CleverRaven/Cataclysm-DDA/pull/76266))
 
 ---
 
@@ -130,7 +137,6 @@
 #### Cataclysm-DDA experimental build 2024-09-07-0110 ([e398be1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-07-0110))
 
 * [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
-* Move some IDs only used in mods to corresponding mod files, remove ``VERMIN`` flag ([#76091](https://github.com/CleverRaven/Cataclysm-DDA/pull/76091))
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Druid/Earthshaper edition)  ([#76197](https://github.com/CleverRaven/Cataclysm-DDA/pull/76197))
 * [MoM] Add two snippets ([#76219](https://github.com/CleverRaven/Cataclysm-DDA/pull/76219))
 * Fix point hash to be well distributed. ([#76153](https://github.com/CleverRaven/Cataclysm-DDA/pull/76153))
@@ -217,4 +223,3 @@
 * Routine tileset updates on 01 September 2024 ([#76094](https://github.com/CleverRaven/Cataclysm-DDA/pull/76094))
 * Remove extraneous copy of lake_cabin_water terrain from lighthouse ([#76104](https://github.com/CleverRaven/Cataclysm-DDA/pull/76104))
 * roof innawood caves ([#76109](https://github.com/CleverRaven/Cataclysm-DDA/pull/76109))
-* Remove generic bird egg, replace its role with chicken egg ([#76090](https://github.com/CleverRaven/Cataclysm-DDA/pull/76090))
