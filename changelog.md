@@ -146,11 +146,6 @@
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Druid/Earthshaper edition)  ([#76197](https://github.com/CleverRaven/Cataclysm-DDA/pull/76197))
 * [MoM] Add two snippets ([#76219](https://github.com/CleverRaven/Cataclysm-DDA/pull/76219))
 * Fix point hash to be well distributed. ([#76153](https://github.com/CleverRaven/Cataclysm-DDA/pull/76153))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-06-1852 ([dec9eec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-06-1852))
-
 * [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H ([#76225](https://github.com/CleverRaven/Cataclysm-DDA/pull/76225))
 * Capitalize “Scan” ([#76237](https://github.com/CleverRaven/Cataclysm-DDA/pull/76237))
 

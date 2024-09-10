@@ -80,8 +80,6 @@ Cataclysm-DDA experimental build 2024-09-07-0110 (e398be1)
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Druid/Earthshaper edition)  (#76197)
 * [MoM] Add two snippets (#76219)
 * Fix point hash to be well distributed. (#76153)
-
-Cataclysm-DDA 0.H release candidate 2024-09-06-1852 (dec9eec)
 * [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H (#76225)
 * Capitalize “Scan” (#76237)
 
