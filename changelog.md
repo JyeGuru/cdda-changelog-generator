@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-10-0133 ([7538565](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-0133))
+
+* [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
 * Hear No Evil, Speak No Evil ([#76199](https://github.com/CleverRaven/Cataclysm-DDA/pull/76199))
 * Pruning the old ``to-hit`` syntax - Part 8 ([#76281](https://github.com/CleverRaven/Cataclysm-DDA/pull/76281))
 * Weekly Changelog 2024-09-02 to 2024-09-09 ([#76299](https://github.com/CleverRaven/Cataclysm-DDA/pull/76299))
@@ -167,11 +173,6 @@
 
 * casting a spell casts the wrong spell ([#76137](https://github.com/CleverRaven/Cataclysm-DDA/pull/76137))
 * Fix inconsistent crafting range ([#76143](https://github.com/CleverRaven/Cataclysm-DDA/pull/76143))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-05-0221 ([7c664e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-05-0221))
-
 * fix the skill editor to use the text property instead of textformatted ([#76141](https://github.com/CleverRaven/Cataclysm-DDA/pull/76141))
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
@@ -216,5 +217,4 @@
 * Remove extraneous copy of lake_cabin_water terrain from lighthouse ([#76104](https://github.com/CleverRaven/Cataclysm-DDA/pull/76104))
 * roof innawood caves ([#76109](https://github.com/CleverRaven/Cataclysm-DDA/pull/76109))
 * Remove generic bird egg, replace its role with chicken egg ([#76090](https://github.com/CleverRaven/Cataclysm-DDA/pull/76090))
-* fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
