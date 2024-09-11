@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-11-1814 ([d445f70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-11-1814))
+
 * Digging clay gets clay ([#76119](https://github.com/CleverRaven/Cataclysm-DDA/pull/76119))
 * Spawn triggered bear trap only after creature escapes from it ([#76312](https://github.com/CleverRaven/Cataclysm-DDA/pull/76312))
 
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2024-09-06-1722 ([faa10bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-1722))
 
 * overmap: don't initialize redundant ui_adaptor by default ([#76220](https://github.com/CleverRaven/Cataclysm-DDA/pull/76220))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-06-0627 ([1a13be3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-0627))
-
 * Re-added ability to launch nuclear missile to No Hope mod, once again ([#76214](https://github.com/CleverRaven/Cataclysm-DDA/pull/76214))
 * Pruning the old ``to-hit`` syntax - Part 6 ([#76213](https://github.com/CleverRaven/Cataclysm-DDA/pull/76213))
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
