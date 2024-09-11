@@ -112,12 +112,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-09-07-2028 ([772b0e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-07-2028))
-
-* Jika-tabi footwear ([#76100](https://github.com/CleverRaven/Cataclysm-DDA/pull/76100))
-
----
-
 #### Cataclysm-DDA 0.H release candidate 2024-09-07-2118 ([c513797](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-07-2118))
 
 * Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H ([#76175](https://github.com/CleverRaven/Cataclysm-DDA/pull/76175))

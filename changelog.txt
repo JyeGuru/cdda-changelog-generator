@@ -59,9 +59,6 @@ Cataclysm-DDA experimental build 2024-09-08-0259 (6dc777e)
 Cataclysm-DDA experimental build 2024-09-08-0107 (057c145)
 * allow scrolling of spell info again (#76265)
 
-Cataclysm-DDA experimental build 2024-09-07-2028 (772b0e9)
-* Jika-tabi footwear (#76100)
-
 Cataclysm-DDA 0.H release candidate 2024-09-07-2118 (c513797)
 * Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H (#76175)
 * Heat immune cleanup (#76218)
