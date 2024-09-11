@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Dreamless forever (#76302)
 
 Cataclysm-DDA experimental build 2024-09-11-1814 (d445f70)
 * Digging clay gets clay (#76119)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2024-09-06-1722 (faa10bf)
 * Backport #75717 (#76123)
 * Update notice about camp zones changing... five years ago (#76114)
 * Update the autolabeler (#76112)
-* roof innawood caves (#76109)
