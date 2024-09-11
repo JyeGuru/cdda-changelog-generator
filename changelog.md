@@ -1,3 +1,4 @@
+* Digging clay gets clay ([#76119](https://github.com/CleverRaven/Cataclysm-DDA/pull/76119))
 * Spawn triggered bear trap only after creature escapes from it ([#76312](https://github.com/CleverRaven/Cataclysm-DDA/pull/76312))
 
 ---
@@ -184,7 +185,6 @@
 * [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction ([#76136](https://github.com/CleverRaven/Cataclysm-DDA/pull/76136))
 * properly compute colors for palette indexes above 15 in curses builds ([#76124](https://github.com/CleverRaven/Cataclysm-DDA/pull/76124))
 * Add ClangCL to CMake Visual Studio ([#76116](https://github.com/CleverRaven/Cataclysm-DDA/pull/76116))
-* Fix haircutting ([#76106](https://github.com/CleverRaven/Cataclysm-DDA/pull/76106))
 * add baby_monster_group ([#76122](https://github.com/CleverRaven/Cataclysm-DDA/pull/76122))
 * Pruning the old ``to-hit`` syntax - Part 5 ([#76140](https://github.com/CleverRaven/Cataclysm-DDA/pull/76140))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))

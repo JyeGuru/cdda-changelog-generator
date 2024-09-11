@@ -1,3 +1,4 @@
+* Digging clay gets clay (#76119)
 * Spawn triggered bear trap only after creature escapes from it (#76312)
 
 Cataclysm-DDA experimental build 2024-09-11-1609 (368e05b)
@@ -109,7 +110,6 @@ Cataclysm-DDA experimental build 2024-09-06-0627 (1a13be3)
 * [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction (#76136)
 * properly compute colors for palette indexes above 15 in curses builds (#76124)
 * Add ClangCL to CMake Visual Studio (#76116)
-* Fix haircutting (#76106)
 * add baby_monster_group (#76122)
 * Pruning the old ``to-hit`` syntax - Part 5 (#76140)
 * bump version of actions/download-artifact (#76181)
