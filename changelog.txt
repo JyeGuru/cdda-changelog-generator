@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-11-2226 (3f2229b)
 * Cleanup loading screen when loading fails (#76361)
 
 Cataclysm-DDA experimental build 2024-09-11-2031 (9b1ab0b)
