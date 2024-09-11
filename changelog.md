@@ -204,7 +204,6 @@
 * Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))
 * out ot -> out of ([#76144](https://github.com/CleverRaven/Cataclysm-DDA/pull/76144))
 * Fixed a typo ([#76139](https://github.com/CleverRaven/Cataclysm-DDA/pull/76139))
-* [MOM] Add electrokinetic override for internal battery compartment ([#76101](https://github.com/CleverRaven/Cataclysm-DDA/pull/76101))
 * fix Segfault when trying to cast a spell ([#76155](https://github.com/CleverRaven/Cataclysm-DDA/pull/76155))
 * wrap the description in the zone menu to avoid a ridiculous width ([#76157](https://github.com/CleverRaven/Cataclysm-DDA/pull/76157))
 * Add indoor flagpole and use it for Hub01 American flags ([#76111](https://github.com/CleverRaven/Cataclysm-DDA/pull/76111))
