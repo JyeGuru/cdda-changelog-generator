@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-11-2031 (9b1ab0b)
 * [ Xedra Evolved ] Dreamless forever (#76302)
 
 Cataclysm-DDA experimental build 2024-09-11-1814 (d445f70)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2024-09-07-0110 (e398be1)
 * Fix point hash to be well distributed. (#76153)
 * [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H (#76225)
 * Capitalize “Scan” (#76237)
-
-Cataclysm-DDA experimental build 2024-09-06-1722 (faa10bf)
 * overmap: don't initialize redundant ui_adaptor by default (#76220)
 * Re-added ability to launch nuclear missile to No Hope mod, once again (#76214)
 * Pruning the old ``to-hit`` syntax - Part 6 (#76213)
