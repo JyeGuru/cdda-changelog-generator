@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-12-1533 ([1b831d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-12-1533))
+
+* Code fix for #71971 Water purification tablets only purify up to 4 water each ([#76326](https://github.com/CleverRaven/Cataclysm-DDA/pull/76326))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-12-1206 ([6341fd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-12-1206))
 
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
@@ -150,11 +156,6 @@
 * Pruning the old ``to-hit`` syntax - Part 7 ([#76238](https://github.com/CleverRaven/Cataclysm-DDA/pull/76238))
 * [Magiclysm] Add three new spells ([#76240](https://github.com/CleverRaven/Cataclysm-DDA/pull/76240))
 * [Magiclysm] Druid brambles burn ([#76243](https://github.com/CleverRaven/Cataclysm-DDA/pull/76243))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-07-1839 ([d80c1f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-07-1839))
-
 * [MoM] Backport #70956, #71061, and remaining parts of #71437 ([#76248](https://github.com/CleverRaven/Cataclysm-DDA/pull/76248))
 
 ---
@@ -197,7 +198,6 @@
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
 * [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction ([#76136](https://github.com/CleverRaven/Cataclysm-DDA/pull/76136))
 * properly compute colors for palette indexes above 15 in curses builds ([#76124](https://github.com/CleverRaven/Cataclysm-DDA/pull/76124))
-* Add ClangCL to CMake Visual Studio ([#76116](https://github.com/CleverRaven/Cataclysm-DDA/pull/76116))
 * add baby_monster_group ([#76122](https://github.com/CleverRaven/Cataclysm-DDA/pull/76122))
 * Pruning the old ``to-hit`` syntax - Part 5 ([#76140](https://github.com/CleverRaven/Cataclysm-DDA/pull/76140))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
