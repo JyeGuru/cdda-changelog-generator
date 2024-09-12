@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-12-1816 ([2473620](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-12-1816))
+
 * Fix GCC9 compilation error ([#76363](https://github.com/CleverRaven/Cataclysm-DDA/pull/76363))
 * bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
 * json bump to yrigger merge queue in parallell ([#76386](https://github.com/CleverRaven/Cataclysm-DDA/pull/76386))
@@ -143,11 +148,6 @@
 #### Cataclysm-DDA experimental build 2024-09-08-0107 ([057c145](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-0107))
 
 * allow scrolling of spell info again ([#76265](https://github.com/CleverRaven/Cataclysm-DDA/pull/76265))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-07-2118 ([c513797](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-07-2118))
-
 * Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H ([#76175](https://github.com/CleverRaven/Cataclysm-DDA/pull/76175))
 * Heat immune cleanup ([#76218](https://github.com/CleverRaven/Cataclysm-DDA/pull/76218))
 * Pruning the old ``to-hit`` syntax - Part 7 ([#76238](https://github.com/CleverRaven/Cataclysm-DDA/pull/76238))
