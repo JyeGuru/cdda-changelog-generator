@@ -196,7 +196,6 @@
 * Pruning the old ``to-hit`` syntax - Part 5 ([#76140](https://github.com/CleverRaven/Cataclysm-DDA/pull/76140))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
 * show spell components in new spell ui and fix color tags in it ([#76149](https://github.com/CleverRaven/Cataclysm-DDA/pull/76149))
-* fix explosion in bubble ([#76113](https://github.com/CleverRaven/Cataclysm-DDA/pull/76113))
 * Weekly Changelog 2024-08-26 to 2024-09-02 ([#76132](https://github.com/CleverRaven/Cataclysm-DDA/pull/76132))
 * Prevent XEDRA mercenary officer from evolving, which otherwise prevents finishing the haunting fight ([#76127](https://github.com/CleverRaven/Cataclysm-DDA/pull/76127))
 * Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
