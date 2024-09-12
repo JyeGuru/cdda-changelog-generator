@@ -1,3 +1,4 @@
+* Fix GCC9 compilation error (#76363)
 * bump to trigger build (merge queue) (#76385)
 * json bump to yrigger merge queue in parallell (#76386)
 
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2024-09-07-0110 (e398be1)
 * fix Segfault when trying to cast a spell (#76155)
 * wrap the description in the zone menu to avoid a ridiculous width (#76157)
 * Print church/school bell ringing sound in the message log once again (#76146)
-* Put player under during CBM surgery initiated from Rubik's dialogue (#76120)
 * Backport #75717 (#76123)

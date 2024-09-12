@@ -1,3 +1,4 @@
+* Fix GCC9 compilation error ([#76363](https://github.com/CleverRaven/Cataclysm-DDA/pull/76363))
 * bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
 * json bump to yrigger merge queue in parallell ([#76386](https://github.com/CleverRaven/Cataclysm-DDA/pull/76386))
 
@@ -217,5 +218,4 @@
 * fix Segfault when trying to cast a spell ([#76155](https://github.com/CleverRaven/Cataclysm-DDA/pull/76155))
 * wrap the description in the zone menu to avoid a ridiculous width ([#76157](https://github.com/CleverRaven/Cataclysm-DDA/pull/76157))
 * Print church/school bell ringing sound in the message log once again ([#76146](https://github.com/CleverRaven/Cataclysm-DDA/pull/76146))
-* Put player under during CBM surgery initiated from Rubik's dialogue ([#76120](https://github.com/CleverRaven/Cataclysm-DDA/pull/76120))
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
