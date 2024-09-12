@@ -220,4 +220,3 @@
 * Put player under during CBM surgery initiated from Rubik's dialogue ([#76120](https://github.com/CleverRaven/Cataclysm-DDA/pull/76120))
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
 * Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
-* Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
