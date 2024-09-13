@@ -1,6 +1,8 @@
 * uilist line padding accounts for number of lines in text (#76356)
 * Add help text to Martial Art perks menu (#76344)
 * Isolation: Add the geas trait to the knight (#76343)
+
+Cataclysm-DDA experimental build 2024-09-13-1401 (0221f6e)
 * Fixes fast travel overmap UI when failing to reach destination (#76396)
 
 Cataclysm-DDA experimental build 2024-09-12-1816 (2473620)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-09-07-1828 (aaa7892)
 
 Cataclysm-DDA experimental build 2024-09-07-1600 (63ec544)
 * Make Chris react to Barry rescue (#76259)
-
-Cataclysm-DDA experimental build 2024-09-07-0110 (e398be1)
 * [MoM] Remove remaining Damage Balancing references (#76244)
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Druid/Earthshaper edition)  (#76197)
 * [MoM] Add two snippets (#76219)
