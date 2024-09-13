@@ -1,3 +1,4 @@
+* remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
 * uilist line padding accounts for number of lines in text ([#76356](https://github.com/CleverRaven/Cataclysm-DDA/pull/76356))
 * Add help text to Martial Art perks menu ([#76344](https://github.com/CleverRaven/Cataclysm-DDA/pull/76344))
 * Isolation: Add the geas trait to the knight ([#76343](https://github.com/CleverRaven/Cataclysm-DDA/pull/76343))
@@ -196,7 +197,6 @@
 * fix the skill editor to use the text property instead of textformatted ([#76141](https://github.com/CleverRaven/Cataclysm-DDA/pull/76141))
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
-* [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction ([#76136](https://github.com/CleverRaven/Cataclysm-DDA/pull/76136))
 * Pruning the old ``to-hit`` syntax - Part 5 ([#76140](https://github.com/CleverRaven/Cataclysm-DDA/pull/76140))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
 * show spell components in new spell ui and fix color tags in it ([#76149](https://github.com/CleverRaven/Cataclysm-DDA/pull/76149))
