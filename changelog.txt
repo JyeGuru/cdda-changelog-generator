@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-13-1634 (f785f58)
 * remove unused mutation (#76390)
 * uilist line padding accounts for number of lines in text (#76356)
 * Add help text to Martial Art perks menu (#76344)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-09-08-0107 (057c145)
 
 Cataclysm-DDA experimental build 2024-09-07-1828 (aaa7892)
 * Routine i18n updates on 07 September 2024 (#76254)
-
-Cataclysm-DDA experimental build 2024-09-07-1600 (63ec544)
 * Make Chris react to Barry rescue (#76259)
 * [MoM] Remove remaining Damage Balancing references (#76244)
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Druid/Earthshaper edition)  (#76197)
