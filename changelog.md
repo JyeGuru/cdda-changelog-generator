@@ -1,3 +1,7 @@
+* uilist line padding accounts for number of lines in text ([#76356](https://github.com/CleverRaven/Cataclysm-DDA/pull/76356))
+* Add help text to Martial Art perks menu ([#76344](https://github.com/CleverRaven/Cataclysm-DDA/pull/76344))
+* Isolation: Add the geas trait to the knight ([#76343](https://github.com/CleverRaven/Cataclysm-DDA/pull/76343))
+* Fixes fast travel overmap UI when failing to reach destination ([#76396](https://github.com/CleverRaven/Cataclysm-DDA/pull/76396))
 
 ---
 
@@ -181,7 +185,6 @@
 * Re-added ability to launch nuclear missile to No Hope mod, once again ([#76214](https://github.com/CleverRaven/Cataclysm-DDA/pull/76214))
 * Pruning the old ``to-hit`` syntax - Part 6 ([#76213](https://github.com/CleverRaven/Cataclysm-DDA/pull/76213))
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
-* [MoM] Add Leukocyte Accumulation vitakinetic power, obsolete Damage Balancing ([#76125](https://github.com/CleverRaven/Cataclysm-DDA/pull/76125))
 * Machete proliferation ([#76176](https://github.com/CleverRaven/Cataclysm-DDA/pull/76176))
 * Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 ([#76174](https://github.com/CleverRaven/Cataclysm-DDA/pull/76174))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
@@ -194,12 +197,9 @@
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
 * [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction ([#76136](https://github.com/CleverRaven/Cataclysm-DDA/pull/76136))
-* properly compute colors for palette indexes above 15 in curses builds ([#76124](https://github.com/CleverRaven/Cataclysm-DDA/pull/76124))
 * Pruning the old ``to-hit`` syntax - Part 5 ([#76140](https://github.com/CleverRaven/Cataclysm-DDA/pull/76140))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
 * show spell components in new spell ui and fix color tags in it ([#76149](https://github.com/CleverRaven/Cataclysm-DDA/pull/76149))
-* Weekly Changelog 2024-08-26 to 2024-09-02 ([#76132](https://github.com/CleverRaven/Cataclysm-DDA/pull/76132))
-* Prevent XEDRA mercenary officer from evolving, which otherwise prevents finishing the haunting fight ([#76127](https://github.com/CleverRaven/Cataclysm-DDA/pull/76127))
 * Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
 * Fix overlook in #76029 ([#76167](https://github.com/CleverRaven/Cataclysm-DDA/pull/76167))
 * [Sky Island] Fix pond recipe failed refunds ([#76179](https://github.com/CleverRaven/Cataclysm-DDA/pull/76179))
