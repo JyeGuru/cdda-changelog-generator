@@ -192,7 +192,6 @@
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
 * Butchering proficiencies ([#76156](https://github.com/CleverRaven/Cataclysm-DDA/pull/76156))
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
-* casting a spell casts the wrong spell ([#76137](https://github.com/CleverRaven/Cataclysm-DDA/pull/76137))
 * Fix inconsistent crafting range ([#76143](https://github.com/CleverRaven/Cataclysm-DDA/pull/76143))
 * fix the skill editor to use the text property instead of textformatted ([#76141](https://github.com/CleverRaven/Cataclysm-DDA/pull/76141))
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
