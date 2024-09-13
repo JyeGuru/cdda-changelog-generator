@@ -195,7 +195,6 @@
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
 * [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction ([#76136](https://github.com/CleverRaven/Cataclysm-DDA/pull/76136))
 * properly compute colors for palette indexes above 15 in curses builds ([#76124](https://github.com/CleverRaven/Cataclysm-DDA/pull/76124))
-* add baby_monster_group ([#76122](https://github.com/CleverRaven/Cataclysm-DDA/pull/76122))
 * Pruning the old ``to-hit`` syntax - Part 5 ([#76140](https://github.com/CleverRaven/Cataclysm-DDA/pull/76140))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
 * show spell components in new spell ui and fix color tags in it ([#76149](https://github.com/CleverRaven/Cataclysm-DDA/pull/76149))
