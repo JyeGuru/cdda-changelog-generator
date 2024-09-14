@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-14-1821 ([f37fb0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-1821))
+
 * Mods harvest update ([#76410](https://github.com/CleverRaven/Cataclysm-DDA/pull/76410))
 * Safer vehicle grabbing/dragging ([#76338](https://github.com/CleverRaven/Cataclysm-DDA/pull/76338))
 * Added NPC Text Snippets ([#76394](https://github.com/CleverRaven/Cataclysm-DDA/pull/76394))
@@ -174,11 +179,6 @@
 
 * Custom loading screen ([#76251](https://github.com/CleverRaven/Cataclysm-DDA/pull/76251))
 * Fix point hash to be well distributed. ([#76250](https://github.com/CleverRaven/Cataclysm-DDA/pull/76250))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-08-0259 ([6dc777e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-0259))
-
 * Added 'link_up' action to smart_lamp_on in line with other items ([#76261](https://github.com/CleverRaven/Cataclysm-DDA/pull/76261))
 * Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
 * More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
