@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-14-0515 (b8b5c5c)
 * [MoM] Rebalance Banked Fire (the item) (#76395)
 
 Cataclysm-DDA experimental build 2024-09-14-0259 (c0d5ef0)
