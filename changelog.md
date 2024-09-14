@@ -1,3 +1,9 @@
+* Remove Rivtech LMG/battle rifle ([#76393](https://github.com/CleverRaven/Cataclysm-DDA/pull/76393))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-14-1609 ([b35342f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-1609))
+
 * add chance field for jmapgen_field ([#76380](https://github.com/CleverRaven/Cataclysm-DDA/pull/76380))
 * Remove solder from remaining furniture disassembly and uncraft recipes ([#76403](https://github.com/CleverRaven/Cataclysm-DDA/pull/76403))
 * Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
@@ -172,11 +178,6 @@
 * Added 'link_up' action to smart_lamp_on in line with other items ([#76261](https://github.com/CleverRaven/Cataclysm-DDA/pull/76261))
 * Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
 * More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-08-0107 ([057c145](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-0107))
-
 * allow scrolling of spell info again ([#76265](https://github.com/CleverRaven/Cataclysm-DDA/pull/76265))
 * Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H ([#76175](https://github.com/CleverRaven/Cataclysm-DDA/pull/76175))
 * Heat immune cleanup ([#76218](https://github.com/CleverRaven/Cataclysm-DDA/pull/76218))
