@@ -1,3 +1,5 @@
+* Allow multiple possible loading screens, including from mods (#76362)
+* Math mutation category (#76341)
 
 Cataclysm-DDA experimental build 2024-09-14-0515 (b8b5c5c)
 * [MoM] Rebalance Banked Fire (the item) (#76395)
@@ -83,8 +85,6 @@ Cataclysm-DDA experimental build 2024-09-08-2121 (515ac7b)
 
 Cataclysm-DDA experimental build 2024-09-08-1836 (92be803)
 * Custom loading screen (#76251)
-
-Cataclysm-DDA 0.H release candidate 2024-09-08-0454 (c6ba9a2)
 * Fix point hash to be well distributed. (#76250)
 
 Cataclysm-DDA experimental build 2024-09-08-0259 (6dc777e)
@@ -118,8 +118,6 @@ Cataclysm-DDA experimental build 2024-09-08-0107 (057c145)
 * fix you being able to "see" impossible shape when blind (#76206)
 * Butchering proficiencies (#76156)
 * allow pipe cleaner to be crafted using any sort of wire (#76187)
-* Fix inconsistent crafting range (#76143)
-* fix the skill editor to use the text property instead of textformatted (#76141)
 * Updated default keybindings for changing start dates in character creation menu (#76164)
 * Migrate ACT_PULP to the new activity actor system (#76163)
 * bump version of actions/download-artifact (#76181)

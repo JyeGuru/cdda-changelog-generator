@@ -1,3 +1,5 @@
+* Allow multiple possible loading screens, including from mods ([#76362](https://github.com/CleverRaven/Cataclysm-DDA/pull/76362))
+* Math mutation category ([#76341](https://github.com/CleverRaven/Cataclysm-DDA/pull/76341))
 
 ---
 
@@ -155,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2024-09-08-1836 ([92be803](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-1836))
 
 * Custom loading screen ([#76251](https://github.com/CleverRaven/Cataclysm-DDA/pull/76251))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-08-0454 ([c6ba9a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-08-0454))
-
 * Fix point hash to be well distributed. ([#76250](https://github.com/CleverRaven/Cataclysm-DDA/pull/76250))
 
 ---
@@ -199,8 +196,6 @@
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
 * Butchering proficiencies ([#76156](https://github.com/CleverRaven/Cataclysm-DDA/pull/76156))
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
-* Fix inconsistent crafting range ([#76143](https://github.com/CleverRaven/Cataclysm-DDA/pull/76143))
-* fix the skill editor to use the text property instead of textformatted ([#76141](https://github.com/CleverRaven/Cataclysm-DDA/pull/76141))
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
