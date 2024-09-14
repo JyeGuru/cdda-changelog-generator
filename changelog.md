@@ -1,3 +1,6 @@
+* Safer vehicle grabbing/dragging ([#76338](https://github.com/CleverRaven/Cataclysm-DDA/pull/76338))
+* Added NPC Text Snippets ([#76394](https://github.com/CleverRaven/Cataclysm-DDA/pull/76394))
+* Remove milk_allergen from hard cheeses ([#76333](https://github.com/CleverRaven/Cataclysm-DDA/pull/76333))
 * Remove Rivtech LMG/battle rifle ([#76393](https://github.com/CleverRaven/Cataclysm-DDA/pull/76393))
 
 ---
@@ -200,7 +203,6 @@
 * Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 ([#76174](https://github.com/CleverRaven/Cataclysm-DDA/pull/76174))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
-* Butchering proficiencies ([#76156](https://github.com/CleverRaven/Cataclysm-DDA/pull/76156))
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
@@ -215,5 +217,3 @@
 * Kill a pointless slur ([#76161](https://github.com/CleverRaven/Cataclysm-DDA/pull/76161))
 * Correct naming of Arisaka calibre ([#76169](https://github.com/CleverRaven/Cataclysm-DDA/pull/76169))
 * Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))
-* fix Segfault when trying to cast a spell ([#76155](https://github.com/CleverRaven/Cataclysm-DDA/pull/76155))
-* wrap the description in the zone menu to avoid a ridiculous width ([#76157](https://github.com/CleverRaven/Cataclysm-DDA/pull/76157))
