@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-14-0259 ([c0d5ef0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-0259))
+
+* jsonifny water_from ([#76366](https://github.com/CleverRaven/Cataclysm-DDA/pull/76366))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-13-1634 ([f785f58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-13-1634))
 
 * remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
@@ -169,11 +175,6 @@
 * [Magiclysm] Add three new spells ([#76240](https://github.com/CleverRaven/Cataclysm-DDA/pull/76240))
 * [Magiclysm] Druid brambles burn ([#76243](https://github.com/CleverRaven/Cataclysm-DDA/pull/76243))
 * [MoM] Backport #70956, #71061, and remaining parts of #71437 ([#76248](https://github.com/CleverRaven/Cataclysm-DDA/pull/76248))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-07-1828 ([aaa7892](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-07-1828))
-
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
 * [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
@@ -212,7 +213,6 @@
 * Correct naming of Arisaka calibre ([#76169](https://github.com/CleverRaven/Cataclysm-DDA/pull/76169))
 * Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))
 * out ot -> out of ([#76144](https://github.com/CleverRaven/Cataclysm-DDA/pull/76144))
-* Fixed a typo ([#76139](https://github.com/CleverRaven/Cataclysm-DDA/pull/76139))
 * fix Segfault when trying to cast a spell ([#76155](https://github.com/CleverRaven/Cataclysm-DDA/pull/76155))
 * wrap the description in the zone menu to avoid a ridiculous width ([#76157](https://github.com/CleverRaven/Cataclysm-DDA/pull/76157))
 * Print church/school bell ringing sound in the message log once again ([#76146](https://github.com/CleverRaven/Cataclysm-DDA/pull/76146))
