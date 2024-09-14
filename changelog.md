@@ -1,3 +1,4 @@
+* [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
 
 ---
 
@@ -197,7 +198,6 @@
 * fix the skill editor to use the text property instead of textformatted ([#76141](https://github.com/CleverRaven/Cataclysm-DDA/pull/76141))
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
-* Pruning the old ``to-hit`` syntax - Part 5 ([#76140](https://github.com/CleverRaven/Cataclysm-DDA/pull/76140))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
 * show spell components in new spell ui and fix color tags in it ([#76149](https://github.com/CleverRaven/Cataclysm-DDA/pull/76149))
 * Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
