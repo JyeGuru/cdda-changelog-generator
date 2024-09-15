@@ -210,7 +210,6 @@
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
 * Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
-* Fix overlook in #76029 ([#76167](https://github.com/CleverRaven/Cataclysm-DDA/pull/76167))
 * [Sky Island] Fix pond recipe failed refunds ([#76179](https://github.com/CleverRaven/Cataclysm-DDA/pull/76179))
 * Autodrive works on forest trails again (for tiny vehicles) ([#76184](https://github.com/CleverRaven/Cataclysm-DDA/pull/76184))
 * Maybe fix 0.H tests ([#76185](https://github.com/CleverRaven/Cataclysm-DDA/pull/76185))
