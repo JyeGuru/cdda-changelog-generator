@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add playable changelings ([#76276](https://github.com/CleverRaven/Cataclysm-DDA/pull/76276))
 * Martial Mastery: Insight. ([#76437](https://github.com/CleverRaven/Cataclysm-DDA/pull/76437))
 
 ---
@@ -206,7 +207,6 @@
 * Pruning the old ``to-hit`` syntax - Part 6 ([#76213](https://github.com/CleverRaven/Cataclysm-DDA/pull/76213))
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
 * Machete proliferation ([#76176](https://github.com/CleverRaven/Cataclysm-DDA/pull/76176))
-* Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 ([#76174](https://github.com/CleverRaven/Cataclysm-DDA/pull/76174))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
