@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-15-2150 ([24ee8ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-15-2150))
+
+* make shrink_wrap not loadable ([#76451](https://github.com/CleverRaven/Cataclysm-DDA/pull/76451))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-15-0626 ([1925be0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-15-0626))
 
 * Adds Engineering Professions ([#76328](https://github.com/CleverRaven/Cataclysm-DDA/pull/76328))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-09-09-1631 ([bbf0077](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-1631))
 
 * Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-09-0239 ([1fe4256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-0239))
-
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Kelvinist/Magus edition) ([#76242](https://github.com/CleverRaven/Cataclysm-DDA/pull/76242))
 * [Magiclysm] Add spell school deficiency traits ([#76230](https://github.com/CleverRaven/Cataclysm-DDA/pull/76230))
 * [Magiclysm] Change "Vocalize" to "The Inner Voice" ([#76274](https://github.com/CleverRaven/Cataclysm-DDA/pull/76274))
@@ -214,5 +215,4 @@
 * Autodrive works on forest trails again (for tiny vehicles) ([#76184](https://github.com/CleverRaven/Cataclysm-DDA/pull/76184))
 * Maybe fix 0.H tests ([#76185](https://github.com/CleverRaven/Cataclysm-DDA/pull/76185))
 * Correct naming of Desert Tec > Desert Tech in the MDRX assembly descriptions ([#76171](https://github.com/CleverRaven/Cataclysm-DDA/pull/76171))
-* Correct naming of Arisaka calibre ([#76169](https://github.com/CleverRaven/Cataclysm-DDA/pull/76169))
 * Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))
