@@ -1,3 +1,4 @@
+* Martial Mastery: Insight. ([#76437](https://github.com/CleverRaven/Cataclysm-DDA/pull/76437))
 
 ---
 
@@ -214,5 +215,4 @@
 * [Sky Island] Fix pond recipe failed refunds ([#76179](https://github.com/CleverRaven/Cataclysm-DDA/pull/76179))
 * Autodrive works on forest trails again (for tiny vehicles) ([#76184](https://github.com/CleverRaven/Cataclysm-DDA/pull/76184))
 * Maybe fix 0.H tests ([#76185](https://github.com/CleverRaven/Cataclysm-DDA/pull/76185))
-* Correct naming of Desert Tec > Desert Tech in the MDRX assembly descriptions ([#76171](https://github.com/CleverRaven/Cataclysm-DDA/pull/76171))
 * Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))

@@ -1,3 +1,4 @@
+* Martial Mastery: Insight. (#76437)
 
 Cataclysm-DDA experimental build 2024-09-15-2150 (24ee8ff)
 * make shrink_wrap not loadable (#76451)
@@ -136,5 +137,4 @@ Cataclysm-DDA experimental build 2024-09-09-1631 (bbf0077)
 * [Sky Island] Fix pond recipe failed refunds (#76179)
 * Autodrive works on forest trails again (for tiny vehicles) (#76184)
 * Maybe fix 0.H tests (#76185)
-* Correct naming of Desert Tec > Desert Tech in the MDRX assembly descriptions (#76171)
 * Remove the music action from AR bionic (#76177)
