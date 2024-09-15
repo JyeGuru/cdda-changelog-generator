@@ -1,3 +1,7 @@
+* Adds Engineering Professions (#76328)
+
+Cataclysm-DDA experimental build 2024-09-15-0411 (9a984a1)
+* Audit NPCs with debug traits (#76428)
 
 Cataclysm-DDA experimental build 2024-09-14-2038 (6be7b99)
 * Make grazing actually work, with grass regrowth (#76422)
@@ -97,8 +101,6 @@ Cataclysm-DDA experimental build 2024-09-09-0239 (1fe4256)
 
 Cataclysm-DDA experimental build 2024-09-08-2312 (ced900e)
 * [Magiclysm] Add spell school deficiency traits (#76230)
-
-Cataclysm-DDA experimental build 2024-09-08-2121 (515ac7b)
 * [Magiclysm] Change "Vocalize" to "The Inner Voice" (#76274)
 * Custom loading screen (#76251)
 * Fix point hash to be well distributed. (#76250)
@@ -128,8 +130,6 @@ Cataclysm-DDA experimental build 2024-09-08-2121 (515ac7b)
 * Correct some ``copy-from`` weirdness caught in #76180 (#76188)
 * fix you being able to "see" impossible shape when blind (#76206)
 * allow pipe cleaner to be crafted using any sort of wire (#76187)
-* Updated default keybindings for changing start dates in character creation menu (#76164)
-* Migrate ACT_PULP to the new activity actor system (#76163)
 * bump version of actions/download-artifact (#76181)
 * Improved companion order failure reporting somewhat (#76193)
 * Fix overlook in #76029 (#76167)

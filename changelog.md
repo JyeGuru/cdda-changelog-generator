@@ -1,3 +1,10 @@
+* Adds Engineering Professions ([#76328](https://github.com/CleverRaven/Cataclysm-DDA/pull/76328))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-15-0411 ([9a984a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-15-0411))
+
+* Audit NPCs with debug traits ([#76428](https://github.com/CleverRaven/Cataclysm-DDA/pull/76428))
 
 ---
 
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-09-08-2312 ([ced900e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-2312))
 
 * [Magiclysm] Add spell school deficiency traits ([#76230](https://github.com/CleverRaven/Cataclysm-DDA/pull/76230))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-08-2121 ([515ac7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-08-2121))
-
 * [Magiclysm] Change "Vocalize" to "The Inner Voice" ([#76274](https://github.com/CleverRaven/Cataclysm-DDA/pull/76274))
 * Custom loading screen ([#76251](https://github.com/CleverRaven/Cataclysm-DDA/pull/76251))
 * Fix point hash to be well distributed. ([#76250](https://github.com/CleverRaven/Cataclysm-DDA/pull/76250))
@@ -206,8 +208,6 @@
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
-* Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
-* Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
 * bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
 * Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
 * Fix overlook in #76029 ([#76167](https://github.com/CleverRaven/Cataclysm-DDA/pull/76167))
