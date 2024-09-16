@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-16-0217 ([122862c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-0217))
+
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
 
 ---
@@ -180,11 +185,6 @@
 
 * [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. ([#76277](https://github.com/CleverRaven/Cataclysm-DDA/pull/76277))
 * [ Xedra Evolved ] Shade Skin Overlay Fix ([#76279](https://github.com/CleverRaven/Cataclysm-DDA/pull/76279))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-09-1631 ([bbf0077](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-1631))
-
 * Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Kelvinist/Magus edition) ([#76242](https://github.com/CleverRaven/Cataclysm-DDA/pull/76242))
 * [Magiclysm] Add spell school deficiency traits ([#76230](https://github.com/CleverRaven/Cataclysm-DDA/pull/76230))
