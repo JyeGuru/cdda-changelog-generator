@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-16-2209 (688dac1)
+* [Magiclysm] Add feral magus/high magus (#76469)
+
 Cataclysm-DDA experimental build 2024-09-16-1837 (182ec6c)
 * Removes MD trait from Combat Medic (#76449)
 
@@ -101,11 +104,8 @@ Cataclysm-DDA experimental build 2024-09-10-1238 (ab86595)
 
 Cataclysm-DDA experimental build 2024-09-10-0532 (43dd78a)
 * New Mod: Martial Mastery (#76278)
-
-Cataclysm-DDA experimental build 2024-09-10-0339 (c73e4c6)
 * Pipe cleaners recipe fix (#76201)
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits (#76300)
-* Hear No Evil, Speak No Evil (#76199)
 * Pruning the old ``to-hit`` syntax - Part 8 (#76281)
 * Weekly Changelog 2024-09-02 to 2024-09-09 (#76299)
 * Migrate ACT_WAIT_STAMINA to the activity_actor system. (#76231)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-16-2209 ([688dac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-2209))
+
+* [Magiclysm] Add feral magus/high magus ([#76469](https://github.com/CleverRaven/Cataclysm-DDA/pull/76469))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-16-1837 ([182ec6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-1837))
 
 * Removes MD trait from Combat Medic ([#76449](https://github.com/CleverRaven/Cataclysm-DDA/pull/76449))
@@ -179,14 +185,8 @@
 #### Cataclysm-DDA experimental build 2024-09-10-0532 ([43dd78a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-0532))
 
 * New Mod: Martial Mastery ([#76278](https://github.com/CleverRaven/Cataclysm-DDA/pull/76278))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-10-0339 ([c73e4c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-0339))
-
 * Pipe cleaners recipe fix ([#76201](https://github.com/CleverRaven/Cataclysm-DDA/pull/76201))
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
-* Hear No Evil, Speak No Evil ([#76199](https://github.com/CleverRaven/Cataclysm-DDA/pull/76199))
 * Pruning the old ``to-hit`` syntax - Part 8 ([#76281](https://github.com/CleverRaven/Cataclysm-DDA/pull/76281))
 * Weekly Changelog 2024-09-02 to 2024-09-09 ([#76299](https://github.com/CleverRaven/Cataclysm-DDA/pull/76299))
 * Migrate ACT_WAIT_STAMINA to the activity_actor system. ([#76231](https://github.com/CleverRaven/Cataclysm-DDA/pull/76231))
