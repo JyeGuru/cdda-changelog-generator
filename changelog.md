@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-16-1632 ([3197800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-1632))
+
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Finish)  ([#76443](https://github.com/CleverRaven/Cataclysm-DDA/pull/76443))
 * Toggle between the map and look around ([#76433](https://github.com/CleverRaven/Cataclysm-DDA/pull/76433))
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
@@ -184,11 +189,6 @@
 * Pruning the old ``to-hit`` syntax - Part 8 ([#76281](https://github.com/CleverRaven/Cataclysm-DDA/pull/76281))
 * Weekly Changelog 2024-09-02 to 2024-09-09 ([#76299](https://github.com/CleverRaven/Cataclysm-DDA/pull/76299))
 * Migrate ACT_WAIT_STAMINA to the activity_actor system. ([#76231](https://github.com/CleverRaven/Cataclysm-DDA/pull/76231))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-09-2259 ([791baaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-2259))
-
 * [Xedra Evolved]Fix electronic halo adds weapon dispersion ([#76280](https://github.com/CleverRaven/Cataclysm-DDA/pull/76280))
 * [Xedra Evolved] Gossamer Artisan does not need to be Active ([#76304](https://github.com/CleverRaven/Cataclysm-DDA/pull/76304))
 * Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
