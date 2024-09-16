@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-16-0019 ([5e06aad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-0019))
+
 * [Xedra Evolved] Add playable changelings ([#76276](https://github.com/CleverRaven/Cataclysm-DDA/pull/76276))
 * Martial Mastery: Insight. ([#76437](https://github.com/CleverRaven/Cataclysm-DDA/pull/76437))
 
