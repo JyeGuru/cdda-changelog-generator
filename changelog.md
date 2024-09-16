@@ -1,3 +1,4 @@
+* Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
 
 ---
 
@@ -219,5 +220,4 @@
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
-* allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
 * Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
