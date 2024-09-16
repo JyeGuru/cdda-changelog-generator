@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-16-1837 ([182ec6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-1837))
+
+* Removes MD trait from Combat Medic ([#76449](https://github.com/CleverRaven/Cataclysm-DDA/pull/76449))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-16-1632 ([3197800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-1632))
 
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Finish)  ([#76443](https://github.com/CleverRaven/Cataclysm-DDA/pull/76443))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-09-10-0339 ([c73e4c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-0339))
 
 * Pipe cleaners recipe fix ([#76201](https://github.com/CleverRaven/Cataclysm-DDA/pull/76201))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-10-0133 ([7538565](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-0133))
-
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
 * Hear No Evil, Speak No Evil ([#76199](https://github.com/CleverRaven/Cataclysm-DDA/pull/76199))
 * Pruning the old ``to-hit`` syntax - Part 8 ([#76281](https://github.com/CleverRaven/Cataclysm-DDA/pull/76281))
@@ -212,7 +213,6 @@
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
 * [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
-* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Druid/Earthshaper edition)  ([#76197](https://github.com/CleverRaven/Cataclysm-DDA/pull/76197))
 * [MoM] Add two snippets ([#76219](https://github.com/CleverRaven/Cataclysm-DDA/pull/76219))
 * [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H ([#76225](https://github.com/CleverRaven/Cataclysm-DDA/pull/76225))
 * Capitalize “Scan” ([#76237](https://github.com/CleverRaven/Cataclysm-DDA/pull/76237))
