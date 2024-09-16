@@ -1,3 +1,5 @@
+* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Finish)  ([#76443](https://github.com/CleverRaven/Cataclysm-DDA/pull/76443))
+* Toggle between the map and look around ([#76433](https://github.com/CleverRaven/Cataclysm-DDA/pull/76433))
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
 
 ---
@@ -218,6 +220,4 @@
 * Re-added ability to launch nuclear missile to No Hope mod, once again ([#76214](https://github.com/CleverRaven/Cataclysm-DDA/pull/76214))
 * Pruning the old ``to-hit`` syntax - Part 6 ([#76213](https://github.com/CleverRaven/Cataclysm-DDA/pull/76213))
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
-* Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
-* Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
