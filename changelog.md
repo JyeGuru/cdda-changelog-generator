@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-16-0441 ([e186f1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-0441))
+
 * tidy up fault code a bit ([#76314](https://github.com/CleverRaven/Cataclysm-DDA/pull/76314))
 * [Magiclysm] Fix meat component ([#76407](https://github.com/CleverRaven/Cataclysm-DDA/pull/76407))
 * Routine i18n updates on 14 September 2024 ([#76418](https://github.com/CleverRaven/Cataclysm-DDA/pull/76418))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-09-09-2059 ([7553387](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-2059))
 
 * Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-09-1838 ([c06e515](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-09-1838))
-
 * [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. ([#76277](https://github.com/CleverRaven/Cataclysm-DDA/pull/76277))
 * [ Xedra Evolved ] Shade Skin Overlay Fix ([#76279](https://github.com/CleverRaven/Cataclysm-DDA/pull/76279))
 * Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
