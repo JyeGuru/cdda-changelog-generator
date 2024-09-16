@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-16-1404 (af366d1)
+* Fix mutation that should be visible (#76477)
+
 Cataclysm-DDA experimental build 2024-09-16-0441 (e186f1b)
 * tidy up fault code a bit (#76314)
 * [Magiclysm] Fix meat component (#76407)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2024-09-10-0133 (7538565)
 Cataclysm-DDA experimental build 2024-09-09-2259 (791baaf)
 * [Xedra Evolved]Fix electronic halo adds weapon dispersion (#76280)
 * [Xedra Evolved] Gossamer Artisan does not need to be Active (#76304)
-
-Cataclysm-DDA experimental build 2024-09-09-2059 (7553387)
 * Hub01 now gives NRE recorder with fitting battery on their quest (#76313)
 * [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. (#76277)
 * [ Xedra Evolved ] Shade Skin Overlay Fix (#76279)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-09-09-2059 (7553387)
 * fix you being able to "see" impossible shape when blind (#76206)
 * allow pipe cleaner to be crafted using any sort of wire (#76187)
 * Improved companion order failure reporting somewhat (#76193)
-* Maybe fix 0.H tests (#76185)
