@@ -1,3 +1,8 @@
+* tidy up fault code a bit ([#76314](https://github.com/CleverRaven/Cataclysm-DDA/pull/76314))
+* [Magiclysm] Fix meat component ([#76407](https://github.com/CleverRaven/Cataclysm-DDA/pull/76407))
+* Routine i18n updates on 14 September 2024 ([#76418](https://github.com/CleverRaven/Cataclysm-DDA/pull/76418))
+* Fix turning engine on from controls interact menu ([#76426](https://github.com/CleverRaven/Cataclysm-DDA/pull/76426))
+* Replace kevlar in patchwork armor ([#76430](https://github.com/CleverRaven/Cataclysm-DDA/pull/76430))
 
 ---
 
@@ -211,13 +216,8 @@
 * Re-added ability to launch nuclear missile to No Hope mod, once again ([#76214](https://github.com/CleverRaven/Cataclysm-DDA/pull/76214))
 * Pruning the old ``to-hit`` syntax - Part 6 ([#76213](https://github.com/CleverRaven/Cataclysm-DDA/pull/76213))
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
-* Machete proliferation ([#76176](https://github.com/CleverRaven/Cataclysm-DDA/pull/76176))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
 * allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
-* bump version of actions/download-artifact ([#76181](https://github.com/CleverRaven/Cataclysm-DDA/pull/76181))
 * Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
-* [Sky Island] Fix pond recipe failed refunds ([#76179](https://github.com/CleverRaven/Cataclysm-DDA/pull/76179))
-* Autodrive works on forest trails again (for tiny vehicles) ([#76184](https://github.com/CleverRaven/Cataclysm-DDA/pull/76184))
 * Maybe fix 0.H tests ([#76185](https://github.com/CleverRaven/Cataclysm-DDA/pull/76185))
-* Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))
