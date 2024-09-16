@@ -1,3 +1,4 @@
+* Update JSON_INFO.md (#76466)
 
 Cataclysm-DDA experimental build 2024-09-16-0019 (5e06aad)
 * [Xedra Evolved] Add playable changelings (#76276)
@@ -113,7 +114,6 @@ Cataclysm-DDA experimental build 2024-09-09-1631 (bbf0077)
 * Fix pulp acid-filled corpses (#76262)
 * More NO_UNLOAD fixes (#76263)
 * allow scrolling of spell info again (#76265)
-* Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H (#76175)
 * Heat immune cleanup (#76218)
 * Pruning the old ``to-hit`` syntax - Part 7 (#76238)
 * [Magiclysm] Add three new spells (#76240)
