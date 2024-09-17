@@ -1,3 +1,4 @@
+* [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * add faults to a guns that can have them ([#76307](https://github.com/CleverRaven/Cataclysm-DDA/pull/76307))
 * Migrate extended description (`x`->`e`) to imgui ([#76308](https://github.com/CleverRaven/Cataclysm-DDA/pull/76308))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
@@ -220,4 +221,3 @@
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
 * [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
-* Capitalize “Scan” ([#76237](https://github.com/CleverRaven/Cataclysm-DDA/pull/76237))
