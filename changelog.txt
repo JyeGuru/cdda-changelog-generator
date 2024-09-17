@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-17-1841 (4d695c2)
+* Update MAGIC.md (#76493)
+
 Cataclysm-DDA experimental build 2024-09-17-1552 (aae02aa)
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes (#76484)
 
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2024-09-12-1206 (6341fd2)
 
 Cataclysm-DDA experimental build 2024-09-11-2226 (3f2229b)
 * Cleanup loading screen when loading fails (#76361)
-
-Cataclysm-DDA experimental build 2024-09-11-2031 (9b1ab0b)
 * [ Xedra Evolved ] Dreamless forever (#76302)
 * Spawn triggered bear trap only after creature escapes from it (#76312)
 * fix compilation error calling Character::spawn_items (#76349)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2024-09-11-2031 (9b1ab0b)
 * Fix pulp acid-filled corpses (#76262)
 * More NO_UNLOAD fixes (#76263)
 * allow scrolling of spell info again (#76265)
-* [Magiclysm] Druid brambles burn (#76243)
 * [MoM] Backport #70956, #71061, and remaining parts of #71437 (#76248)
 * Routine i18n updates on 07 September 2024 (#76254)
 * Make Chris react to Barry rescue (#76259)

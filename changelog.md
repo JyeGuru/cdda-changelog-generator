@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-17-1841 ([4d695c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-1841))
+
+* Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-17-1552 ([aae02aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-1552))
 
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-09-11-2226 ([3f2229b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-11-2226))
 
 * Cleanup loading screen when loading fails ([#76361](https://github.com/CleverRaven/Cataclysm-DDA/pull/76361))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-11-2031 ([9b1ab0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-11-2031))
-
 * [ Xedra Evolved ] Dreamless forever ([#76302](https://github.com/CleverRaven/Cataclysm-DDA/pull/76302))
 * Spawn triggered bear trap only after creature escapes from it ([#76312](https://github.com/CleverRaven/Cataclysm-DDA/pull/76312))
 * fix compilation error calling Character::spawn_items ([#76349](https://github.com/CleverRaven/Cataclysm-DDA/pull/76349))
@@ -221,7 +222,6 @@
 * Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
 * More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
 * allow scrolling of spell info again ([#76265](https://github.com/CleverRaven/Cataclysm-DDA/pull/76265))
-* [Magiclysm] Druid brambles burn ([#76243](https://github.com/CleverRaven/Cataclysm-DDA/pull/76243))
 * [MoM] Backport #70956, #71061, and remaining parts of #71437 ([#76248](https://github.com/CleverRaven/Cataclysm-DDA/pull/76248))
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
