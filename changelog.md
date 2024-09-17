@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-17-0912 ([d5e57fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0912))
+
 * [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. ([#76435](https://github.com/CleverRaven/Cataclysm-DDA/pull/76435))
 
 ---
@@ -188,11 +193,6 @@
 
 * [ Xedra Evolved ] Dreamless forever ([#76302](https://github.com/CleverRaven/Cataclysm-DDA/pull/76302))
 * Spawn triggered bear trap only after creature escapes from it ([#76312](https://github.com/CleverRaven/Cataclysm-DDA/pull/76312))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-11-1609 ([368e05b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-11-1609))
-
 * fix compilation error calling Character::spawn_items ([#76349](https://github.com/CleverRaven/Cataclysm-DDA/pull/76349))
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
 * [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
