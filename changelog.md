@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-17-0238 ([c03b36a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0238))
+
 * Remove spacing at start of ImGui uilist and right-align context text. ([#76404](https://github.com/CleverRaven/Cataclysm-DDA/pull/76404))
 
 ---
@@ -185,11 +190,6 @@
 
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
 * [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-10-1443 ([9dea210](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-1443))
-
 * Add TRANSLUCENT terrain flag which blocks vision but not light ([#76290](https://github.com/CleverRaven/Cataclysm-DDA/pull/76290))
 * replace baby_egg, baby_monster, baby_monster_group with struct ([#76266](https://github.com/CleverRaven/Cataclysm-DDA/pull/76266))
 * New Mod: Martial Mastery ([#76278](https://github.com/CleverRaven/Cataclysm-DDA/pull/76278))

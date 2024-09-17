@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-17-0238 (c03b36a)
 * Remove spacing at start of ImGui uilist and right-align context text. (#76404)
 
 Cataclysm-DDA 0.H release candidate 2024-09-17-0121 (1198995)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2024-09-11-1609 (368e05b)
 Cataclysm-DDA experimental build 2024-09-10-2224 (dd272dd)
 * Isolation Protocol: Geas knight starting class (#76320)
 * [My Sweet Cataclysm] Add Gum Spiderlings (#76297)
-
-Cataclysm-DDA experimental build 2024-09-10-1443 (9dea210)
 * Add TRANSLUCENT terrain flag which blocks vision but not light (#76290)
 * replace baby_egg, baby_monster, baby_monster_group with struct (#76266)
 * New Mod: Martial Mastery (#76278)
