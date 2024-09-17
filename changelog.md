@@ -1,3 +1,4 @@
+* Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
 
 ---
 
@@ -219,6 +220,5 @@
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
 * [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
-* [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H ([#76225](https://github.com/CleverRaven/Cataclysm-DDA/pull/76225))
 * Capitalize “Scan” ([#76237](https://github.com/CleverRaven/Cataclysm-DDA/pull/76237))
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))

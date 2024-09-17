@@ -1,3 +1,4 @@
+* Release instructions and extend some jq tools (#76465)
 
 Cataclysm-DDA experimental build 2024-09-17-0238 (c03b36a)
 * Remove spacing at start of ImGui uilist and right-align context text. (#76404)
@@ -138,6 +139,5 @@ Cataclysm-DDA experimental build 2024-09-10-2224 (dd272dd)
 * Routine i18n updates on 07 September 2024 (#76254)
 * Make Chris react to Barry rescue (#76259)
 * [MoM] Remove remaining Damage Balancing references (#76244)
-* [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H (#76225)
 * Capitalize “Scan” (#76237)
 * change the loading screen to a png file instead of avif (#76226)
