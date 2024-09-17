@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-17-0006 ([0e93cd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0006))
+
 * Fix some random NPC's mission ([#76478](https://github.com/CleverRaven/Cataclysm-DDA/pull/76478))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-09-10-1238 ([ab86595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-1238))
 
 * replace baby_egg, baby_monster, baby_monster_group with struct ([#76266](https://github.com/CleverRaven/Cataclysm-DDA/pull/76266))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-10-0532 ([43dd78a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-0532))
-
 * New Mod: Martial Mastery ([#76278](https://github.com/CleverRaven/Cataclysm-DDA/pull/76278))
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
 * Pruning the old ``to-hit`` syntax - Part 8 ([#76281](https://github.com/CleverRaven/Cataclysm-DDA/pull/76281))
