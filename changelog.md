@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-17-2229 ([69fc6e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-2229))
+
+* Yrax protocols part1 ([#76291](https://github.com/CleverRaven/Cataclysm-DDA/pull/76291))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-17-1841 ([4d695c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-1841))
 
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-09-12-1206 ([6341fd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-12-1206))
 
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-11-2226 ([3f2229b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-11-2226))
-
 * Cleanup loading screen when loading fails ([#76361](https://github.com/CleverRaven/Cataclysm-DDA/pull/76361))
 * [ Xedra Evolved ] Dreamless forever ([#76302](https://github.com/CleverRaven/Cataclysm-DDA/pull/76302))
 * Spawn triggered bear trap only after creature escapes from it ([#76312](https://github.com/CleverRaven/Cataclysm-DDA/pull/76312))
@@ -225,4 +226,3 @@
 * [MoM] Backport #70956, #71061, and remaining parts of #71437 ([#76248](https://github.com/CleverRaven/Cataclysm-DDA/pull/76248))
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
-* [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))

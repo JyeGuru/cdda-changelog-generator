@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-17-2229 (69fc6e7)
+* Yrax protocols part1 (#76291)
+
 Cataclysm-DDA experimental build 2024-09-17-1841 (4d695c2)
 * Update MAGIC.md (#76493)
 
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2024-09-12-1533 (1b831d8)
 
 Cataclysm-DDA experimental build 2024-09-12-1206 (6341fd2)
 * wrap the menu descriptions in the Zone menu (#76369)
-
-Cataclysm-DDA experimental build 2024-09-11-2226 (3f2229b)
 * Cleanup loading screen when loading fails (#76361)
 * [ Xedra Evolved ] Dreamless forever (#76302)
 * Spawn triggered bear trap only after creature escapes from it (#76312)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2024-09-11-2226 (3f2229b)
 * [MoM] Backport #70956, #71061, and remaining parts of #71437 (#76248)
 * Routine i18n updates on 07 September 2024 (#76254)
 * Make Chris react to Barry rescue (#76259)
-* [MoM] Remove remaining Damage Balancing references (#76244)
