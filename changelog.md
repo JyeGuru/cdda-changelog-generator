@@ -1,3 +1,15 @@
+* Remove spacing at start of ImGui uilist and right-align context text. ([#76404](https://github.com/CleverRaven/Cataclysm-DDA/pull/76404))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-17-0121 ([1198995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-17-0121))
+
+* Add data-driven changelog summary for 0.H ([#76464](https://github.com/CleverRaven/Cataclysm-DDA/pull/76464))
+* Add ammo category to clips ([#76375](https://github.com/CleverRaven/Cataclysm-DDA/pull/76375))
+* [DinoMod] Astrodon ([#76417](https://github.com/CleverRaven/Cataclysm-DDA/pull/76417))
+* [MoM] Cancelling Gateway area attunement cancels attunement ([#76456](https://github.com/CleverRaven/Cataclysm-DDA/pull/76456))
+* [MoM] The liquid from the black Nether pools is now collectible and drinkable ([#76458](https://github.com/CleverRaven/Cataclysm-DDA/pull/76458))
+* [DinoMod] monster attack fixes ([#76480](https://github.com/CleverRaven/Cataclysm-DDA/pull/76480))
 
 ---
 
@@ -179,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-09-10-1443 ([9dea210](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-1443))
 
 * Add TRANSLUCENT terrain flag which blocks vision but not light ([#76290](https://github.com/CleverRaven/Cataclysm-DDA/pull/76290))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-10-1238 ([ab86595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-1238))
-
 * replace baby_egg, baby_monster, baby_monster_group with struct ([#76266](https://github.com/CleverRaven/Cataclysm-DDA/pull/76266))
 * New Mod: Martial Mastery ([#76278](https://github.com/CleverRaven/Cataclysm-DDA/pull/76278))
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
@@ -205,7 +212,6 @@
 * Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
 * More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
 * allow scrolling of spell info again ([#76265](https://github.com/CleverRaven/Cataclysm-DDA/pull/76265))
-* Heat immune cleanup ([#76218](https://github.com/CleverRaven/Cataclysm-DDA/pull/76218))
 * Pruning the old ``to-hit`` syntax - Part 7 ([#76238](https://github.com/CleverRaven/Cataclysm-DDA/pull/76238))
 * [Magiclysm] Add three new spells ([#76240](https://github.com/CleverRaven/Cataclysm-DDA/pull/76240))
 * [Magiclysm] Druid brambles burn ([#76243](https://github.com/CleverRaven/Cataclysm-DDA/pull/76243))
@@ -213,11 +219,6 @@
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
 * [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
-* [MoM] Add two snippets ([#76219](https://github.com/CleverRaven/Cataclysm-DDA/pull/76219))
 * [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H ([#76225](https://github.com/CleverRaven/Cataclysm-DDA/pull/76225))
 * Capitalize “Scan” ([#76237](https://github.com/CleverRaven/Cataclysm-DDA/pull/76237))
-* overmap: don't initialize redundant ui_adaptor by default ([#76220](https://github.com/CleverRaven/Cataclysm-DDA/pull/76220))
-* Re-added ability to launch nuclear missile to No Hope mod, once again ([#76214](https://github.com/CleverRaven/Cataclysm-DDA/pull/76214))
-* Pruning the old ``to-hit`` syntax - Part 6 ([#76213](https://github.com/CleverRaven/Cataclysm-DDA/pull/76213))
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
-* fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
