@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-17-1552 ([aae02aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-1552))
+
+* [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-17-0912 ([d5e57fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0912))
 
 * [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. ([#76435](https://github.com/CleverRaven/Cataclysm-DDA/pull/76435))
@@ -208,7 +214,6 @@
 * [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. ([#76277](https://github.com/CleverRaven/Cataclysm-DDA/pull/76277))
 * [ Xedra Evolved ] Shade Skin Overlay Fix ([#76279](https://github.com/CleverRaven/Cataclysm-DDA/pull/76279))
 * Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
-* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Kelvinist/Magus edition) ([#76242](https://github.com/CleverRaven/Cataclysm-DDA/pull/76242))
 * [Magiclysm] Change "Vocalize" to "The Inner Voice" ([#76274](https://github.com/CleverRaven/Cataclysm-DDA/pull/76274))
 * Custom loading screen ([#76251](https://github.com/CleverRaven/Cataclysm-DDA/pull/76251))
 * Fix point hash to be well distributed. ([#76250](https://github.com/CleverRaven/Cataclysm-DDA/pull/76250))
