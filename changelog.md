@@ -1,3 +1,5 @@
+* add faults to a guns that can have them ([#76307](https://github.com/CleverRaven/Cataclysm-DDA/pull/76307))
+* Migrate extended description (`x`->`e`) to imgui ([#76308](https://github.com/CleverRaven/Cataclysm-DDA/pull/76308))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
 
 ---
@@ -205,7 +207,6 @@
 * [ Xedra Evolved ] Shade Skin Overlay Fix ([#76279](https://github.com/CleverRaven/Cataclysm-DDA/pull/76279))
 * Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Kelvinist/Magus edition) ([#76242](https://github.com/CleverRaven/Cataclysm-DDA/pull/76242))
-* [Magiclysm] Add spell school deficiency traits ([#76230](https://github.com/CleverRaven/Cataclysm-DDA/pull/76230))
 * [Magiclysm] Change "Vocalize" to "The Inner Voice" ([#76274](https://github.com/CleverRaven/Cataclysm-DDA/pull/76274))
 * Custom loading screen ([#76251](https://github.com/CleverRaven/Cataclysm-DDA/pull/76251))
 * Fix point hash to be well distributed. ([#76250](https://github.com/CleverRaven/Cataclysm-DDA/pull/76250))
@@ -221,4 +222,3 @@
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
 * [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
 * Capitalize “Scan” ([#76237](https://github.com/CleverRaven/Cataclysm-DDA/pull/76237))
-* change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
