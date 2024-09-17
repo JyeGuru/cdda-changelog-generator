@@ -1,3 +1,10 @@
+* [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. ([#76435](https://github.com/CleverRaven/Cataclysm-DDA/pull/76435))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-17-0744 ([293c761](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-17-0744))
+
+* Backport tiles from experimental to 0.H ([#76453](https://github.com/CleverRaven/Cataclysm-DDA/pull/76453))
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * add faults to a guns that can have them ([#76307](https://github.com/CleverRaven/Cataclysm-DDA/pull/76307))
 * Migrate extended description (`x`->`e`) to imgui ([#76308](https://github.com/CleverRaven/Cataclysm-DDA/pull/76308))
@@ -187,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-09-11-1609 ([368e05b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-11-1609))
 
 * fix compilation error calling Character::spawn_items ([#76349](https://github.com/CleverRaven/Cataclysm-DDA/pull/76349))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-10-2224 ([dd272dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-10-2224))
-
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
 * [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
 * Add TRANSLUCENT terrain flag which blocks vision but not light ([#76290](https://github.com/CleverRaven/Cataclysm-DDA/pull/76290))
@@ -214,8 +216,6 @@
 * Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
 * More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
 * allow scrolling of spell info again ([#76265](https://github.com/CleverRaven/Cataclysm-DDA/pull/76265))
-* Pruning the old ``to-hit`` syntax - Part 7 ([#76238](https://github.com/CleverRaven/Cataclysm-DDA/pull/76238))
-* [Magiclysm] Add three new spells ([#76240](https://github.com/CleverRaven/Cataclysm-DDA/pull/76240))
 * [Magiclysm] Druid brambles burn ([#76243](https://github.com/CleverRaven/Cataclysm-DDA/pull/76243))
 * [MoM] Backport #70956, #71061, and remaining parts of #71437 ([#76248](https://github.com/CleverRaven/Cataclysm-DDA/pull/76248))
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
