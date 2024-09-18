@@ -1,3 +1,11 @@
+* [DEBUG] Modify hordes through overmap editor ([#76269](https://github.com/CleverRaven/Cataclysm-DDA/pull/76269))
+* Adds a new fungal monster: Whispering fungi ([#76372](https://github.com/CleverRaven/Cataclysm-DDA/pull/76372))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-18-0513 ([7b773c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-18-0513))
+
+* Can't grab a solid vehicle while boarding it ([#76482](https://github.com/CleverRaven/Cataclysm-DDA/pull/76482))
 
 ---
 
@@ -192,11 +200,6 @@
 * Fix GCC9 compilation error ([#76363](https://github.com/CleverRaven/Cataclysm-DDA/pull/76363))
 * bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
 * json bump to yrigger merge queue in parallell ([#76386](https://github.com/CleverRaven/Cataclysm-DDA/pull/76386))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-12-1533 ([1b831d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-12-1533))
-
 * Code fix for #71971 Water purification tablets only purify up to 4 water each ([#76326](https://github.com/CleverRaven/Cataclysm-DDA/pull/76326))
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
 * Cleanup loading screen when loading fails ([#76361](https://github.com/CleverRaven/Cataclysm-DDA/pull/76361))
@@ -218,10 +221,8 @@
 * [ Xedra Evolved ] Shade Skin Overlay Fix ([#76279](https://github.com/CleverRaven/Cataclysm-DDA/pull/76279))
 * Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
 * [Magiclysm] Change "Vocalize" to "The Inner Voice" ([#76274](https://github.com/CleverRaven/Cataclysm-DDA/pull/76274))
-* Custom loading screen ([#76251](https://github.com/CleverRaven/Cataclysm-DDA/pull/76251))
 * Added 'link_up' action to smart_lamp_on in line with other items ([#76261](https://github.com/CleverRaven/Cataclysm-DDA/pull/76261))
 * Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
 * More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
 * allow scrolling of spell info again ([#76265](https://github.com/CleverRaven/Cataclysm-DDA/pull/76265))
-* Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 * Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
