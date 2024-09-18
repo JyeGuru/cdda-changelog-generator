@@ -220,4 +220,3 @@
 * Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
 * More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
 * allow scrolling of spell info again ([#76265](https://github.com/CleverRaven/Cataclysm-DDA/pull/76265))
-* Make Chris react to Barry rescue ([#76259](https://github.com/CleverRaven/Cataclysm-DDA/pull/76259))
