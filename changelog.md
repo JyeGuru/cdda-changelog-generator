@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-18-0046 ([af75887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-18-0046))
+
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
 
 ---
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-09-12-1533 ([1b831d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-12-1533))
 
 * Code fix for #71971 Water purification tablets only purify up to 4 water each ([#76326](https://github.com/CleverRaven/Cataclysm-DDA/pull/76326))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-12-1206 ([6341fd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-12-1206))
-
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
 * Cleanup loading screen when loading fails ([#76361](https://github.com/CleverRaven/Cataclysm-DDA/pull/76361))
 * [ Xedra Evolved ] Dreamless forever ([#76302](https://github.com/CleverRaven/Cataclysm-DDA/pull/76302))

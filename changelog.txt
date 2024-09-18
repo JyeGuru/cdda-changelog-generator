@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-18-0046 (af75887)
 * Update JSON_INFO.md (#76491)
 
 Cataclysm-DDA experimental build 2024-09-17-2229 (69fc6e7)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2024-09-12-1816 (2473620)
 
 Cataclysm-DDA experimental build 2024-09-12-1533 (1b831d8)
 * Code fix for #71971 Water purification tablets only purify up to 4 water each (#76326)
-
-Cataclysm-DDA experimental build 2024-09-12-1206 (6341fd2)
 * wrap the menu descriptions in the Zone menu (#76369)
 * Cleanup loading screen when loading fails (#76361)
 * [ Xedra Evolved ] Dreamless forever (#76302)
