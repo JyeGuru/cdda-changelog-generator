@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-19-0408 ([f2eec56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-0408))
+
 * Weekly Changelog 2024-09-09 to 2024-09-16 ([#76470](https://github.com/CleverRaven/Cataclysm-DDA/pull/76470))
 * [Magiclysm] Add `NO_SPELLCASTING` flag to magic-using monster conditions ([#76497](https://github.com/CleverRaven/Cataclysm-DDA/pull/76497))
 * discount loaded ammo from smoking rack even when not allowing removal ([#76500](https://github.com/CleverRaven/Cataclysm-DDA/pull/76500))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-09-14-0259 ([c0d5ef0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-0259))
 
 * jsonifny water_from ([#76366](https://github.com/CleverRaven/Cataclysm-DDA/pull/76366))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-13-1634 ([f785f58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-13-1634))
-
 * remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
 * uilist line padding accounts for number of lines in text ([#76356](https://github.com/CleverRaven/Cataclysm-DDA/pull/76356))
 * Add help text to Martial Art perks menu ([#76344](https://github.com/CleverRaven/Cataclysm-DDA/pull/76344))
