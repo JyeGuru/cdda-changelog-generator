@@ -1,3 +1,4 @@
+* Allow magic rings to resize to fit anyone ([#76474](https://github.com/CleverRaven/Cataclysm-DDA/pull/76474))
 * Multimeters & Voltmeters Power Draw Rebalance ([#76544](https://github.com/CleverRaven/Cataclysm-DDA/pull/76544))
 
 ---
@@ -219,4 +220,3 @@
 * Weekly Changelog 2024-09-02 to 2024-09-09 ([#76299](https://github.com/CleverRaven/Cataclysm-DDA/pull/76299))
 * [Xedra Evolved] Gossamer Artisan does not need to be Active ([#76304](https://github.com/CleverRaven/Cataclysm-DDA/pull/76304))
 * Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
-* Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
