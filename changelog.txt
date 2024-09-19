@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-19-0617 (e00a779)
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag (#76501)
 * [MoM] Fix channeling-modifying traits math (#76519)
 
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-09-14-1609 (b35342f)
 
 Cataclysm-DDA experimental build 2024-09-14-0515 (b8b5c5c)
 * [MoM] Rebalance Banked Fire (the item) (#76395)
-
-Cataclysm-DDA experimental build 2024-09-14-0259 (c0d5ef0)
 * jsonifny water_from (#76366)
 * remove unused mutation (#76390)
 * uilist line padding accounts for number of lines in text (#76356)

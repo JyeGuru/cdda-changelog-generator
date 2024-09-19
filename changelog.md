@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-19-0617 ([e00a779](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-0617))
+
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag ([#76501](https://github.com/CleverRaven/Cataclysm-DDA/pull/76501))
 * [MoM] Fix channeling-modifying traits math ([#76519](https://github.com/CleverRaven/Cataclysm-DDA/pull/76519))
 
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-09-14-0515 ([b8b5c5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-0515))
 
 * [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-14-0259 ([c0d5ef0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-0259))
-
 * jsonifny water_from ([#76366](https://github.com/CleverRaven/Cataclysm-DDA/pull/76366))
 * remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
 * uilist line padding accounts for number of lines in text ([#76356](https://github.com/CleverRaven/Cataclysm-DDA/pull/76356))
