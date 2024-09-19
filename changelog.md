@@ -1,4 +1,15 @@
-* [DEBUG] Modify hordes through overmap editor ([#76269](https://github.com/CleverRaven/Cataclysm-DDA/pull/76269))
+* Weekly Changelog 2024-09-09 to 2024-09-16 ([#76470](https://github.com/CleverRaven/Cataclysm-DDA/pull/76470))
+* [Magiclysm] Add `NO_SPELLCASTING` flag to magic-using monster conditions ([#76497](https://github.com/CleverRaven/Cataclysm-DDA/pull/76497))
+* discount loaded ammo from smoking rack even when not allowing removal ([#76500](https://github.com/CleverRaven/Cataclysm-DDA/pull/76500))
+* Remove open container flag from vacuum sealed bags ([#76507](https://github.com/CleverRaven/Cataclysm-DDA/pull/76507))
+* Refactor: Remove unnecessary parameter `avatar` ([#76498](https://github.com/CleverRaven/Cataclysm-DDA/pull/76498))
+* Replace activity `ACT_ADV_INVENTORY` with `uistate.open_menu`, remove `ACT_VIEW_RECIPE` ([#76490](https://github.com/CleverRaven/Cataclysm-DDA/pull/76490))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-19-0124 ([3cf4b80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-0124))
+
+* Adds the first fungal house! ([#76463](https://github.com/CleverRaven/Cataclysm-DDA/pull/76463))
 * Adds a new fungal monster: Whispering fungi ([#76372](https://github.com/CleverRaven/Cataclysm-DDA/pull/76372))
 
 ---
@@ -186,11 +197,6 @@
 * uilist line padding accounts for number of lines in text ([#76356](https://github.com/CleverRaven/Cataclysm-DDA/pull/76356))
 * Add help text to Martial Art perks menu ([#76344](https://github.com/CleverRaven/Cataclysm-DDA/pull/76344))
 * Isolation: Add the geas trait to the knight ([#76343](https://github.com/CleverRaven/Cataclysm-DDA/pull/76343))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-13-1401 ([0221f6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-13-1401))
-
 * Fixes fast travel overmap UI when failing to reach destination ([#76396](https://github.com/CleverRaven/Cataclysm-DDA/pull/76396))
 * Fix GCC9 compilation error ([#76363](https://github.com/CleverRaven/Cataclysm-DDA/pull/76363))
 * bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
@@ -204,7 +210,6 @@
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
 * [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
 * Add TRANSLUCENT terrain flag which blocks vision but not light ([#76290](https://github.com/CleverRaven/Cataclysm-DDA/pull/76290))
-* replace baby_egg, baby_monster, baby_monster_group with struct ([#76266](https://github.com/CleverRaven/Cataclysm-DDA/pull/76266))
 * New Mod: Martial Mastery ([#76278](https://github.com/CleverRaven/Cataclysm-DDA/pull/76278))
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
 * Pruning the old ``to-hit`` syntax - Part 8 ([#76281](https://github.com/CleverRaven/Cataclysm-DDA/pull/76281))
@@ -215,8 +220,3 @@
 * [Xedra Evolved ] Gracken Update Stomach size -1 to KCAL -1  Fix CTD. ([#76277](https://github.com/CleverRaven/Cataclysm-DDA/pull/76277))
 * [ Xedra Evolved ] Shade Skin Overlay Fix ([#76279](https://github.com/CleverRaven/Cataclysm-DDA/pull/76279))
 * Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
-* [Magiclysm] Change "Vocalize" to "The Inner Voice" ([#76274](https://github.com/CleverRaven/Cataclysm-DDA/pull/76274))
-* Added 'link_up' action to smart_lamp_on in line with other items ([#76261](https://github.com/CleverRaven/Cataclysm-DDA/pull/76261))
-* Fix pulp acid-filled corpses ([#76262](https://github.com/CleverRaven/Cataclysm-DDA/pull/76262))
-* More NO_UNLOAD fixes ([#76263](https://github.com/CleverRaven/Cataclysm-DDA/pull/76263))
-* allow scrolling of spell info again ([#76265](https://github.com/CleverRaven/Cataclysm-DDA/pull/76265))
