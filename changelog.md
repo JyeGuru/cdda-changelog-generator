@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-19-2323 ([431e003](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-2323))
+
+* [Sky Island] Fix climate control ([#76539](https://github.com/CleverRaven/Cataclysm-DDA/pull/76539))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-19-1821 ([3562662](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-1821))
 
 * Update NPC_Aleesha_Seward.json ([#76515](https://github.com/CleverRaven/Cataclysm-DDA/pull/76515))
@@ -181,11 +187,6 @@
 * Added NPC Text Snippets ([#76394](https://github.com/CleverRaven/Cataclysm-DDA/pull/76394))
 * Remove milk_allergen from hard cheeses ([#76333](https://github.com/CleverRaven/Cataclysm-DDA/pull/76333))
 * Remove Rivtech LMG/battle rifle ([#76393](https://github.com/CleverRaven/Cataclysm-DDA/pull/76393))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-14-1609 ([b35342f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-1609))
-
 * add chance field for jmapgen_field ([#76380](https://github.com/CleverRaven/Cataclysm-DDA/pull/76380))
 * Remove solder from remaining furniture disassembly and uncraft recipes ([#76403](https://github.com/CleverRaven/Cataclysm-DDA/pull/76403))
 * Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
@@ -216,7 +217,6 @@
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
 * Pruning the old ``to-hit`` syntax - Part 8 ([#76281](https://github.com/CleverRaven/Cataclysm-DDA/pull/76281))
 * Weekly Changelog 2024-09-02 to 2024-09-09 ([#76299](https://github.com/CleverRaven/Cataclysm-DDA/pull/76299))
-* [Xedra Evolved]Fix electronic halo adds weapon dispersion ([#76280](https://github.com/CleverRaven/Cataclysm-DDA/pull/76280))
 * [Xedra Evolved] Gossamer Artisan does not need to be Active ([#76304](https://github.com/CleverRaven/Cataclysm-DDA/pull/76304))
 * Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
 * Isolation Protocol: Fix generation of microlab_chunks_level ([#76289](https://github.com/CleverRaven/Cataclysm-DDA/pull/76289))
