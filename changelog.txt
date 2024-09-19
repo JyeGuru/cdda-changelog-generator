@@ -1,3 +1,4 @@
+* Update NPC_Aleesha_Seward.json (#76515)
 
 Cataclysm-DDA experimental build 2024-09-19-1512 (04fb20a)
 * Removed some leftover commented-out code (#76545)
@@ -135,5 +136,4 @@ Cataclysm-DDA experimental build 2024-09-14-1609 (b35342f)
 * [Xedra Evolved]Fix electronic halo adds weapon dispersion (#76280)
 * [Xedra Evolved] Gossamer Artisan does not need to be Active (#76304)
 * Hub01 now gives NRE recorder with fitting battery on their quest (#76313)
-* [ Xedra Evolved ] Shade Skin Overlay Fix (#76279)
 * Isolation Protocol: Fix generation of microlab_chunks_level (#76289)
