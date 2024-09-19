@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-19-1512 ([04fb20a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-1512))
+
+* Removed some leftover commented-out code ([#76545](https://github.com/CleverRaven/Cataclysm-DDA/pull/76545))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-19-0617 ([e00a779](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-0617))
 
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag ([#76501](https://github.com/CleverRaven/Cataclysm-DDA/pull/76501))
@@ -182,11 +188,6 @@
 * changed the descriptions of crow and raven so they more accurately describe their relative sizes. ([#76296](https://github.com/CleverRaven/Cataclysm-DDA/pull/76296))
 * Allow multiple possible loading screens, including from mods ([#76362](https://github.com/CleverRaven/Cataclysm-DDA/pull/76362))
 * Math mutation category ([#76341](https://github.com/CleverRaven/Cataclysm-DDA/pull/76341))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-14-0515 ([b8b5c5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-0515))
-
 * [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
 * jsonifny water_from ([#76366](https://github.com/CleverRaven/Cataclysm-DDA/pull/76366))
 * remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
@@ -206,7 +207,6 @@
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
 * [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
 * Add TRANSLUCENT terrain flag which blocks vision but not light ([#76290](https://github.com/CleverRaven/Cataclysm-DDA/pull/76290))
-* New Mod: Martial Mastery ([#76278](https://github.com/CleverRaven/Cataclysm-DDA/pull/76278))
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
 * Pruning the old ``to-hit`` syntax - Part 8 ([#76281](https://github.com/CleverRaven/Cataclysm-DDA/pull/76281))
 * Weekly Changelog 2024-09-02 to 2024-09-09 ([#76299](https://github.com/CleverRaven/Cataclysm-DDA/pull/76299))
