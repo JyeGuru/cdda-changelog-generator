@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-19-1821 ([3562662](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-1821))
+
 * Update NPC_Aleesha_Seward.json ([#76515](https://github.com/CleverRaven/Cataclysm-DDA/pull/76515))
 
 ---
