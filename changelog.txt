@@ -1,3 +1,4 @@
+* Multimeters & Voltmeters Power Draw Rebalance (#76544)
 
 Cataclysm-DDA experimental build 2024-09-19-2323 (431e003)
 * [Sky Island] Fix climate control (#76539)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-09-14-1821 (f37fb0f)
 * [My Sweet Cataclysm] Add Gum Spiderlings (#76297)
 * Add TRANSLUCENT terrain flag which blocks vision but not light (#76290)
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits (#76300)
-* Pruning the old ``to-hit`` syntax - Part 8 (#76281)
 * Weekly Changelog 2024-09-02 to 2024-09-09 (#76299)
 * [Xedra Evolved] Gossamer Artisan does not need to be Active (#76304)
 * Hub01 now gives NRE recorder with fitting battery on their quest (#76313)
