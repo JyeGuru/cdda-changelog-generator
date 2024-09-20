@@ -1,3 +1,4 @@
+* Remove Rivtech 20x66 Ammo and Guns  (#76486)
 
 Cataclysm-DDA experimental build 2024-09-20-0149 (da181c9)
 * Allow magic rings to resize to fit anyone (#76474)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-09-14-2038 (6be7b99)
 * fix compilation error calling Character::spawn_items (#76349)
 * Isolation Protocol: Geas knight starting class (#76320)
 * [My Sweet Cataclysm] Add Gum Spiderlings (#76297)
-* Add TRANSLUCENT terrain flag which blocks vision but not light (#76290)
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits (#76300)
 * Weekly Changelog 2024-09-02 to 2024-09-09 (#76299)
 * [Xedra Evolved] Gossamer Artisan does not need to be Active (#76304)

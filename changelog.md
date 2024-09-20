@@ -1,3 +1,4 @@
+* Remove Rivtech 20x66 Ammo and Guns  ([#76486](https://github.com/CleverRaven/Cataclysm-DDA/pull/76486))
 
 ---
 
@@ -215,7 +216,6 @@
 * fix compilation error calling Character::spawn_items ([#76349](https://github.com/CleverRaven/Cataclysm-DDA/pull/76349))
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
 * [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
-* Add TRANSLUCENT terrain flag which blocks vision but not light ([#76290](https://github.com/CleverRaven/Cataclysm-DDA/pull/76290))
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
 * Weekly Changelog 2024-09-02 to 2024-09-09 ([#76299](https://github.com/CleverRaven/Cataclysm-DDA/pull/76299))
 * [Xedra Evolved] Gossamer Artisan does not need to be Active ([#76304](https://github.com/CleverRaven/Cataclysm-DDA/pull/76304))
