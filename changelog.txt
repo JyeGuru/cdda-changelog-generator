@@ -1,3 +1,4 @@
+* Remove missed RM121 references (#76573)
 * [Magiclysm] Add Mana Extraction classless spell (#76559)
 
 Cataclysm-DDA experimental build 2024-09-20-2225 (09de5fe)
@@ -134,6 +135,5 @@ Cataclysm-DDA experimental build 2024-09-16-0217 (122862c)
 * Spawn triggered bear trap only after creature escapes from it (#76312)
 * fix compilation error calling Character::spawn_items (#76349)
 * Isolation Protocol: Geas knight starting class (#76320)
-* [ Xedra Evolved ] Fix Metabolism in the vampire traits (#76300)
 * [Xedra Evolved] Gossamer Artisan does not need to be Active (#76304)
 * Hub01 now gives NRE recorder with fitting battery on their quest (#76313)
