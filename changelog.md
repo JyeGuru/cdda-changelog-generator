@@ -1,3 +1,10 @@
+* [Magiclysm] Add Mana Extraction classless spell ([#76559](https://github.com/CleverRaven/Cataclysm-DDA/pull/76559))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-20-2225 ([09de5fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-2225))
+
+* Homemade corn dog audit ([#76562](https://github.com/CleverRaven/Cataclysm-DDA/pull/76562))
 
 ---
 
@@ -172,11 +179,6 @@
 
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
 * Martial Mastery: Insight. ([#76437](https://github.com/CleverRaven/Cataclysm-DDA/pull/76437))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-15-2150 ([24ee8ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-15-2150))
-
 * make shrink_wrap not loadable ([#76451](https://github.com/CleverRaven/Cataclysm-DDA/pull/76451))
 * Adds Engineering Professions ([#76328](https://github.com/CleverRaven/Cataclysm-DDA/pull/76328))
 * Audit NPCs with debug traits ([#76428](https://github.com/CleverRaven/Cataclysm-DDA/pull/76428))
@@ -210,8 +212,6 @@
 * Spawn triggered bear trap only after creature escapes from it ([#76312](https://github.com/CleverRaven/Cataclysm-DDA/pull/76312))
 * fix compilation error calling Character::spawn_items ([#76349](https://github.com/CleverRaven/Cataclysm-DDA/pull/76349))
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
-* [My Sweet Cataclysm] Add Gum Spiderlings ([#76297](https://github.com/CleverRaven/Cataclysm-DDA/pull/76297))
 * [ Xedra Evolved ] Fix Metabolism in the vampire traits ([#76300](https://github.com/CleverRaven/Cataclysm-DDA/pull/76300))
-* Weekly Changelog 2024-09-02 to 2024-09-09 ([#76299](https://github.com/CleverRaven/Cataclysm-DDA/pull/76299))
 * [Xedra Evolved] Gossamer Artisan does not need to be Active ([#76304](https://github.com/CleverRaven/Cataclysm-DDA/pull/76304))
 * Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
