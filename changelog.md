@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-20-0149 ([da181c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-0149))
+
 * Allow magic rings to resize to fit anyone ([#76474](https://github.com/CleverRaven/Cataclysm-DDA/pull/76474))
 * Multimeters & Voltmeters Power Draw Rebalance ([#76544](https://github.com/CleverRaven/Cataclysm-DDA/pull/76544))
 
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-09-14-2038 ([6be7b99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-2038))
 
 * Make grazing actually work, with grass regrowth ([#76422](https://github.com/CleverRaven/Cataclysm-DDA/pull/76422))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-14-1821 ([f37fb0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-1821))
-
 * Mods harvest update ([#76410](https://github.com/CleverRaven/Cataclysm-DDA/pull/76410))
 * Safer vehicle grabbing/dragging ([#76338](https://github.com/CleverRaven/Cataclysm-DDA/pull/76338))
 * Added NPC Text Snippets ([#76394](https://github.com/CleverRaven/Cataclysm-DDA/pull/76394))
