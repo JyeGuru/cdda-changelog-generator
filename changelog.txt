@@ -1,3 +1,4 @@
+* Fix unobtainable gas mask ammo drop (#76551)
 * Remove Rivtech 20x66 Ammo and Guns  (#76486)
 
 Cataclysm-DDA experimental build 2024-09-20-0149 (da181c9)
@@ -34,9 +35,6 @@ Cataclysm-DDA experimental build 2024-09-18-0513 (7b773c1)
 
 Cataclysm-DDA experimental build 2024-09-18-0046 (af75887)
 * Update JSON_INFO.md (#76491)
-
-Cataclysm-DDA experimental build 2024-09-17-2229 (69fc6e7)
-* Yrax protocols part1 (#76291)
 
 Cataclysm-DDA experimental build 2024-09-17-1841 (4d695c2)
 * Update MAGIC.md (#76493)
