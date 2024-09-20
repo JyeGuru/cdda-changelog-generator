@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-20-0346 ([e966010](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-20-0346))
+
 * Fix unobtainable gas mask ammo drop ([#76551](https://github.com/CleverRaven/Cataclysm-DDA/pull/76551))
 * Remove Rivtech 20x66 Ammo and Guns  ([#76486](https://github.com/CleverRaven/Cataclysm-DDA/pull/76486))
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-09-15-0411 ([9a984a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-15-0411))
 
 * Audit NPCs with debug traits ([#76428](https://github.com/CleverRaven/Cataclysm-DDA/pull/76428))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-14-2038 ([6be7b99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-14-2038))
-
 * Make grazing actually work, with grass regrowth ([#76422](https://github.com/CleverRaven/Cataclysm-DDA/pull/76422))
 * Mods harvest update ([#76410](https://github.com/CleverRaven/Cataclysm-DDA/pull/76410))
 * Safer vehicle grabbing/dragging ([#76338](https://github.com/CleverRaven/Cataclysm-DDA/pull/76338))
