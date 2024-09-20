@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-20-1705 ([03b8d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-1705))
+
+* small fixes in batteries ([#76517](https://github.com/CleverRaven/Cataclysm-DDA/pull/76517))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-09-20-0346 ([e966010](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-20-0346))
 
 * Fix unobtainable gas mask ammo drop ([#76551](https://github.com/CleverRaven/Cataclysm-DDA/pull/76551))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-09-15-2150 ([24ee8ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-15-2150))
 
 * make shrink_wrap not loadable ([#76451](https://github.com/CleverRaven/Cataclysm-DDA/pull/76451))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-15-0626 ([1925be0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-15-0626))
-
 * Adds Engineering Professions ([#76328](https://github.com/CleverRaven/Cataclysm-DDA/pull/76328))
 * Audit NPCs with debug traits ([#76428](https://github.com/CleverRaven/Cataclysm-DDA/pull/76428))
 * Make grazing actually work, with grass regrowth ([#76422](https://github.com/CleverRaven/Cataclysm-DDA/pull/76422))
@@ -190,7 +191,6 @@
 * Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
 * Kill Vending Machines 2: Electric Boogalo ([#76400](https://github.com/CleverRaven/Cataclysm-DDA/pull/76400))
 * Map UI: hint custom keybind for `CHOOSE_DESTINATION` ([#76406](https://github.com/CleverRaven/Cataclysm-DDA/pull/76406))
-* changed the descriptions of crow and raven so they more accurately describe their relative sizes. ([#76296](https://github.com/CleverRaven/Cataclysm-DDA/pull/76296))
 * Allow multiple possible loading screens, including from mods ([#76362](https://github.com/CleverRaven/Cataclysm-DDA/pull/76362))
 * Math mutation category ([#76341](https://github.com/CleverRaven/Cataclysm-DDA/pull/76341))
 * [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
