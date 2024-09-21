@@ -1,3 +1,4 @@
+* Added notes for constructing dummies (#76584)
 * Binoculars now also increase "detailed" vision range, not only max vision range (#76585)
 
 Cataclysm-DDA experimental build 2024-09-21-2048 (2c596cc)

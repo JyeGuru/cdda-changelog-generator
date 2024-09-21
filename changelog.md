@@ -1,3 +1,4 @@
+* Added notes for constructing dummies ([#76584](https://github.com/CleverRaven/Cataclysm-DDA/pull/76584))
 * Binoculars now also increase "detailed" vision range, not only max vision range ([#76585](https://github.com/CleverRaven/Cataclysm-DDA/pull/76585))
 
 ---
