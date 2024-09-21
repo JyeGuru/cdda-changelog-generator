@@ -1,3 +1,5 @@
+* Fix issues with beartrap ([#76525](https://github.com/CleverRaven/Cataclysm-DDA/pull/76525))
+* Fix zone dialog missing for translation ([#76580](https://github.com/CleverRaven/Cataclysm-DDA/pull/76580))
 * Add shopping bags to the kitchen ([#76577](https://github.com/CleverRaven/Cataclysm-DDA/pull/76577))
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 
@@ -220,7 +222,6 @@
 * jsonifny water_from ([#76366](https://github.com/CleverRaven/Cataclysm-DDA/pull/76366))
 * remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
 * Fixes fast travel overmap UI when failing to reach destination ([#76396](https://github.com/CleverRaven/Cataclysm-DDA/pull/76396))
-* Fix GCC9 compilation error ([#76363](https://github.com/CleverRaven/Cataclysm-DDA/pull/76363))
 * bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
 * json bump to yrigger merge queue in parallell ([#76386](https://github.com/CleverRaven/Cataclysm-DDA/pull/76386))
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))

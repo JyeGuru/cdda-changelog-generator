@@ -1,3 +1,5 @@
+* Fix issues with beartrap (#76525)
+* Fix zone dialog missing for translation (#76580)
 * Add shopping bags to the kitchen (#76577)
 * [XEDRA Evolved] Gracken Self-Defense (#76570)
 
@@ -139,7 +141,6 @@ Cataclysm-DDA experimental build 2024-09-16-1837 (182ec6c)
 * jsonifny water_from (#76366)
 * remove unused mutation (#76390)
 * Fixes fast travel overmap UI when failing to reach destination (#76396)
-* Fix GCC9 compilation error (#76363)
 * bump to trigger build (merge queue) (#76385)
 * json bump to yrigger merge queue in parallell (#76386)
 * wrap the menu descriptions in the Zone menu (#76369)
