@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-21-1412 ([e66affb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-1412))
+
+* Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-21-0622 ([a6e3f8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-0622))
 
 * Follow-up to #76338: convenience balances to safer vehicle grabbing ([#76442](https://github.com/CleverRaven/Cataclysm-DDA/pull/76442))
@@ -189,11 +195,6 @@
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Finish)  ([#76443](https://github.com/CleverRaven/Cataclysm-DDA/pull/76443))
 * Toggle between the map and look around ([#76433](https://github.com/CleverRaven/Cataclysm-DDA/pull/76433))
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-16-1404 ([af366d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-1404))
-
 * Fix mutation that should be visible ([#76477](https://github.com/CleverRaven/Cataclysm-DDA/pull/76477))
 * [Magiclysm] Fix meat component ([#76407](https://github.com/CleverRaven/Cataclysm-DDA/pull/76407))
 * Routine i18n updates on 14 September 2024 ([#76418](https://github.com/CleverRaven/Cataclysm-DDA/pull/76418))
@@ -216,7 +217,6 @@
 * [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
 * jsonifny water_from ([#76366](https://github.com/CleverRaven/Cataclysm-DDA/pull/76366))
 * remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
-* uilist line padding accounts for number of lines in text ([#76356](https://github.com/CleverRaven/Cataclysm-DDA/pull/76356))
 * Fixes fast travel overmap UI when failing to reach destination ([#76396](https://github.com/CleverRaven/Cataclysm-DDA/pull/76396))
 * Fix GCC9 compilation error ([#76363](https://github.com/CleverRaven/Cataclysm-DDA/pull/76363))
 * bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
