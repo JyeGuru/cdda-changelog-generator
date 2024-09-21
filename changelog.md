@@ -1,3 +1,10 @@
+* Add shopping bags to the kitchen ([#76577](https://github.com/CleverRaven/Cataclysm-DDA/pull/76577))
+* [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-21-1656 ([6805e26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-1656))
+
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 
 ---
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-09-16-1837 ([182ec6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-1837))
 
 * Removes MD trait from Combat Medic ([#76449](https://github.com/CleverRaven/Cataclysm-DDA/pull/76449))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-16-1632 ([3197800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-1632))
-
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Finish)  ([#76443](https://github.com/CleverRaven/Cataclysm-DDA/pull/76443))
 * Toggle between the map and look around ([#76433](https://github.com/CleverRaven/Cataclysm-DDA/pull/76433))
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
@@ -214,7 +216,6 @@
 * Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
 * Kill Vending Machines 2: Electric Boogalo ([#76400](https://github.com/CleverRaven/Cataclysm-DDA/pull/76400))
 * Map UI: hint custom keybind for `CHOOSE_DESTINATION` ([#76406](https://github.com/CleverRaven/Cataclysm-DDA/pull/76406))
-* Allow multiple possible loading screens, including from mods ([#76362](https://github.com/CleverRaven/Cataclysm-DDA/pull/76362))
 * [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
 * jsonifny water_from ([#76366](https://github.com/CleverRaven/Cataclysm-DDA/pull/76366))
 * remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
@@ -223,4 +224,3 @@
 * bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
 * json bump to yrigger merge queue in parallell ([#76386](https://github.com/CleverRaven/Cataclysm-DDA/pull/76386))
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
-* Cleanup loading screen when loading fails ([#76361](https://github.com/CleverRaven/Cataclysm-DDA/pull/76361))
