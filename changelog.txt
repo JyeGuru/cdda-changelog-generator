@@ -1,3 +1,4 @@
+* Binoculars now also increase "detailed" vision range, not only max vision range (#76585)
 
 Cataclysm-DDA experimental build 2024-09-21-2048 (2c596cc)
 * Bows don't accept ergonomic grip (#76591)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-09-17-0006 (0e93cd0)
 * Mods harvest update (#76410)
 * Added NPC Text Snippets (#76394)
 * Remove Rivtech LMG/battle rifle (#76393)
-* add chance field for jmapgen_field (#76380)
 * Remove solder from remaining furniture disassembly and uncraft recipes (#76403)
 * Fix zone display on rotation (#76411)
 * Kill Vending Machines 2: Electric Boogalo (#76400)

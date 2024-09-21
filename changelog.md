@@ -1,3 +1,4 @@
+* Binoculars now also increase "detailed" vision range, not only max vision range ([#76585](https://github.com/CleverRaven/Cataclysm-DDA/pull/76585))
 
 ---
 
@@ -215,7 +216,6 @@
 * Mods harvest update ([#76410](https://github.com/CleverRaven/Cataclysm-DDA/pull/76410))
 * Added NPC Text Snippets ([#76394](https://github.com/CleverRaven/Cataclysm-DDA/pull/76394))
 * Remove Rivtech LMG/battle rifle ([#76393](https://github.com/CleverRaven/Cataclysm-DDA/pull/76393))
-* add chance field for jmapgen_field ([#76380](https://github.com/CleverRaven/Cataclysm-DDA/pull/76380))
 * Remove solder from remaining furniture disassembly and uncraft recipes ([#76403](https://github.com/CleverRaven/Cataclysm-DDA/pull/76403))
 * Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
 * Kill Vending Machines 2: Electric Boogalo ([#76400](https://github.com/CleverRaven/Cataclysm-DDA/pull/76400))
