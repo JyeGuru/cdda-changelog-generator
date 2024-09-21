@@ -1,3 +1,4 @@
+* Bows don't accept ergonomic grip (#76591)
 
 Cataclysm-DDA experimental build 2024-09-21-1852 (788e4e0)
 * Update the table of contents in doc/JSON_INFO.md (#76419)
@@ -106,7 +107,6 @@ Cataclysm-DDA experimental build 2024-09-17-0238 (c03b36a)
 
 Cataclysm-DDA 0.H release candidate 2024-09-17-0121 (1198995)
 * Add data-driven changelog summary for 0.H (#76464)
-* Add ammo category to clips (#76375)
 * [DinoMod] Astrodon (#76417)
 * [MoM] Cancelling Gateway area attunement cancels attunement (#76456)
 * [MoM] The liquid from the black Nether pools is now collectible and drinkable (#76458)

@@ -1,3 +1,4 @@
+* Bows don't accept ergonomic grip ([#76591](https://github.com/CleverRaven/Cataclysm-DDA/pull/76591))
 
 ---
 
@@ -181,7 +182,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-09-17-0121 ([1198995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-17-0121))
 
 * Add data-driven changelog summary for 0.H ([#76464](https://github.com/CleverRaven/Cataclysm-DDA/pull/76464))
-* Add ammo category to clips ([#76375](https://github.com/CleverRaven/Cataclysm-DDA/pull/76375))
 * [DinoMod] Astrodon ([#76417](https://github.com/CleverRaven/Cataclysm-DDA/pull/76417))
 * [MoM] Cancelling Gateway area attunement cancels attunement ([#76456](https://github.com/CleverRaven/Cataclysm-DDA/pull/76456))
 * [MoM] The liquid from the black Nether pools is now collectible and drinkable ([#76458](https://github.com/CleverRaven/Cataclysm-DDA/pull/76458))
