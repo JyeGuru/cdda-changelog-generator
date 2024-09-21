@@ -1,3 +1,9 @@
+* New characters get random natural hair color during character generation ([#76555](https://github.com/CleverRaven/Cataclysm-DDA/pull/76555))
+* [Magiclysm] Add two magical rings ([#76561](https://github.com/CleverRaven/Cataclysm-DDA/pull/76561))
+* Snippet typo fixes ([#76563](https://github.com/CleverRaven/Cataclysm-DDA/pull/76563))
+* [Magiclysm] Add cat form as possible shifter druid form ([#76565](https://github.com/CleverRaven/Cataclysm-DDA/pull/76565))
+* Enhance battery.json : Improve consistency in descriptions and naming ([#76567](https://github.com/CleverRaven/Cataclysm-DDA/pull/76567))
+* Add myself to GitHub commands ([#76568](https://github.com/CleverRaven/Cataclysm-DDA/pull/76568))
 * [Xedra Evolved] Add more pooka changeling traits ([#76503](https://github.com/CleverRaven/Cataclysm-DDA/pull/76503))
 * Fixes Ierde's allergy to their own spell. ([#76537](https://github.com/CleverRaven/Cataclysm-DDA/pull/76537))
 
@@ -124,8 +130,6 @@
 
 * Backport tiles from experimental to 0.H ([#76453](https://github.com/CleverRaven/Cataclysm-DDA/pull/76453))
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
-* add faults to a guns that can have them ([#76307](https://github.com/CleverRaven/Cataclysm-DDA/pull/76307))
-* Migrate extended description (`x`->`e`) to imgui ([#76308](https://github.com/CleverRaven/Cataclysm-DDA/pull/76308))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
 
 ---
@@ -176,12 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-09-16-1404 ([af366d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-1404))
 
 * Fix mutation that should be visible ([#76477](https://github.com/CleverRaven/Cataclysm-DDA/pull/76477))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-16-0441 ([e186f1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-0441))
-
-* tidy up fault code a bit ([#76314](https://github.com/CleverRaven/Cataclysm-DDA/pull/76314))
 * [Magiclysm] Fix meat component ([#76407](https://github.com/CleverRaven/Cataclysm-DDA/pull/76407))
 * Routine i18n updates on 14 September 2024 ([#76418](https://github.com/CleverRaven/Cataclysm-DDA/pull/76418))
 * Fix turning engine on from controls interact menu ([#76426](https://github.com/CleverRaven/Cataclysm-DDA/pull/76426))
@@ -217,7 +215,5 @@
 * Code fix for #71971 Water purification tablets only purify up to 4 water each ([#76326](https://github.com/CleverRaven/Cataclysm-DDA/pull/76326))
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
 * Cleanup loading screen when loading fails ([#76361](https://github.com/CleverRaven/Cataclysm-DDA/pull/76361))
-* Spawn triggered bear trap only after creature escapes from it ([#76312](https://github.com/CleverRaven/Cataclysm-DDA/pull/76312))
 * fix compilation error calling Character::spawn_items ([#76349](https://github.com/CleverRaven/Cataclysm-DDA/pull/76349))
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
-* Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
