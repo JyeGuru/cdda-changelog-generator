@@ -1,3 +1,4 @@
+* Follow-up to #76338: convenience balances to safer vehicle grabbing ([#76442](https://github.com/CleverRaven/Cataclysm-DDA/pull/76442))
 * [Xedra Evolved] Rework alchemical doll imbuement ([#76520](https://github.com/CleverRaven/Cataclysm-DDA/pull/76520))
 * Fix item auto pickup for npc ([#76532](https://github.com/CleverRaven/Cataclysm-DDA/pull/76532))
 * Gun-shy ([#76536](https://github.com/CleverRaven/Cataclysm-DDA/pull/76536))
@@ -217,4 +218,3 @@
 * json bump to yrigger merge queue in parallell ([#76386](https://github.com/CleverRaven/Cataclysm-DDA/pull/76386))
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
 * Cleanup loading screen when loading fails ([#76361](https://github.com/CleverRaven/Cataclysm-DDA/pull/76361))
-* fix compilation error calling Character::spawn_items ([#76349](https://github.com/CleverRaven/Cataclysm-DDA/pull/76349))
