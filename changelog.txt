@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-21-1852 (788e4e0)
 * Update the table of contents in doc/JSON_INFO.md (#76419)
 * Martial Mastery: Fix Insight Message Spam (#76581)
 * Martial Mastery: Nerf Insight Stacking from Sixth Sense (#76583)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2024-09-17-0006 (0e93cd0)
 
 Cataclysm-DDA experimental build 2024-09-16-2209 (688dac1)
 * [Magiclysm] Add feral magus/high magus (#76469)
-
-Cataclysm-DDA experimental build 2024-09-16-1837 (182ec6c)
 * Removes MD trait from Combat Medic (#76449)
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Finish)  (#76443)
 * Toggle between the map and look around (#76433)
