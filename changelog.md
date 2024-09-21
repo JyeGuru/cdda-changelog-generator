@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-09-21-2318 ([f1ec14f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-21-2318))
+
+* Backport: Fix item auto pickup condition for npc ([#76543](https://github.com/CleverRaven/Cataclysm-DDA/pull/76543))
+* MORPHIC Sizing Flag ([#76560](https://github.com/CleverRaven/Cataclysm-DDA/pull/76560))
+* Fixes Judge Ammo Error ([#76593](https://github.com/CleverRaven/Cataclysm-DDA/pull/76593))
+* LIXA Walls ([#76473](https://github.com/CleverRaven/Cataclysm-DDA/pull/76473))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-21-2247 ([0064d3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-2247))
 
 * Added notes for constructing dummies ([#76584](https://github.com/CleverRaven/Cataclysm-DDA/pull/76584))
@@ -188,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-09-17-0238 ([c03b36a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0238))
 
 * Remove spacing at start of ImGui uilist and right-align context text. ([#76404](https://github.com/CleverRaven/Cataclysm-DDA/pull/76404))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-17-0121 ([1198995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-17-0121))
-
 * Add data-driven changelog summary for 0.H ([#76464](https://github.com/CleverRaven/Cataclysm-DDA/pull/76464))
 * [DinoMod] Astrodon ([#76417](https://github.com/CleverRaven/Cataclysm-DDA/pull/76417))
 * [MoM] Cancelling Gateway area attunement cancels attunement ([#76456](https://github.com/CleverRaven/Cataclysm-DDA/pull/76456))
@@ -216,13 +220,9 @@
 * Make grazing actually work, with grass regrowth ([#76422](https://github.com/CleverRaven/Cataclysm-DDA/pull/76422))
 * Mods harvest update ([#76410](https://github.com/CleverRaven/Cataclysm-DDA/pull/76410))
 * Added NPC Text Snippets ([#76394](https://github.com/CleverRaven/Cataclysm-DDA/pull/76394))
-* Remove Rivtech LMG/battle rifle ([#76393](https://github.com/CleverRaven/Cataclysm-DDA/pull/76393))
 * Remove solder from remaining furniture disassembly and uncraft recipes ([#76403](https://github.com/CleverRaven/Cataclysm-DDA/pull/76403))
 * Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
 * Kill Vending Machines 2: Electric Boogalo ([#76400](https://github.com/CleverRaven/Cataclysm-DDA/pull/76400))
 * Map UI: hint custom keybind for `CHOOSE_DESTINATION` ([#76406](https://github.com/CleverRaven/Cataclysm-DDA/pull/76406))
 * [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
-* remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
 * Fixes fast travel overmap UI when failing to reach destination ([#76396](https://github.com/CleverRaven/Cataclysm-DDA/pull/76396))
-* bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
-* json bump to yrigger merge queue in parallell ([#76386](https://github.com/CleverRaven/Cataclysm-DDA/pull/76386))
