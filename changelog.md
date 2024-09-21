@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-21-2048 ([2c596cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-2048))
+
 * Bows don't accept ergonomic grip ([#76591](https://github.com/CleverRaven/Cataclysm-DDA/pull/76591))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-09-17-0006 ([0e93cd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0006))
 
 * Fix some random NPC's mission ([#76478](https://github.com/CleverRaven/Cataclysm-DDA/pull/76478))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-16-2209 ([688dac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-2209))
-
 * [Magiclysm] Add feral magus/high magus ([#76469](https://github.com/CleverRaven/Cataclysm-DDA/pull/76469))
 * Removes MD trait from Combat Medic ([#76449](https://github.com/CleverRaven/Cataclysm-DDA/pull/76449))
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Finish)  ([#76443](https://github.com/CleverRaven/Cataclysm-DDA/pull/76443))
