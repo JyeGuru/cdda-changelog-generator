@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-21-0622 ([a6e3f8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-0622))
+
 * Follow-up to #76338: convenience balances to safer vehicle grabbing ([#76442](https://github.com/CleverRaven/Cataclysm-DDA/pull/76442))
 * [Xedra Evolved] Rework alchemical doll imbuement ([#76520](https://github.com/CleverRaven/Cataclysm-DDA/pull/76520))
 * Fix item auto pickup for npc ([#76532](https://github.com/CleverRaven/Cataclysm-DDA/pull/76532))
