@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-21-2247 ([0064d3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-2247))
+
 * Added notes for constructing dummies ([#76584](https://github.com/CleverRaven/Cataclysm-DDA/pull/76584))
 * Binoculars now also increase "detailed" vision range, not only max vision range ([#76585](https://github.com/CleverRaven/Cataclysm-DDA/pull/76585))
 
@@ -193,11 +198,6 @@
 * [MoM] Cancelling Gateway area attunement cancels attunement ([#76456](https://github.com/CleverRaven/Cataclysm-DDA/pull/76456))
 * [MoM] The liquid from the black Nether pools is now collectible and drinkable ([#76458](https://github.com/CleverRaven/Cataclysm-DDA/pull/76458))
 * [DinoMod] monster attack fixes ([#76480](https://github.com/CleverRaven/Cataclysm-DDA/pull/76480))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-17-0006 ([0e93cd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0006))
-
 * Fix some random NPC's mission ([#76478](https://github.com/CleverRaven/Cataclysm-DDA/pull/76478))
 * [Magiclysm] Add feral magus/high magus ([#76469](https://github.com/CleverRaven/Cataclysm-DDA/pull/76469))
 * Removes MD trait from Combat Medic ([#76449](https://github.com/CleverRaven/Cataclysm-DDA/pull/76449))
