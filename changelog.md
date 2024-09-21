@@ -1,3 +1,6 @@
+* Update the table of contents in doc/JSON_INFO.md ([#76419](https://github.com/CleverRaven/Cataclysm-DDA/pull/76419))
+* Martial Mastery: Fix Insight Message Spam ([#76581](https://github.com/CleverRaven/Cataclysm-DDA/pull/76581))
+* Martial Mastery: Nerf Insight Stacking from Sixth Sense ([#76583](https://github.com/CleverRaven/Cataclysm-DDA/pull/76583))
 * Fix issues with beartrap ([#76525](https://github.com/CleverRaven/Cataclysm-DDA/pull/76525))
 * Fix zone dialog missing for translation ([#76580](https://github.com/CleverRaven/Cataclysm-DDA/pull/76580))
 * Add shopping bags to the kitchen ([#76577](https://github.com/CleverRaven/Cataclysm-DDA/pull/76577))
@@ -123,7 +126,6 @@
 #### Cataclysm-DDA experimental build 2024-09-19-0124 ([3cf4b80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-0124))
 
 * Adds the first fungal house! ([#76463](https://github.com/CleverRaven/Cataclysm-DDA/pull/76463))
-* Adds a new fungal monster: Whispering fungi ([#76372](https://github.com/CleverRaven/Cataclysm-DDA/pull/76372))
 
 ---
 
@@ -219,9 +221,7 @@
 * Kill Vending Machines 2: Electric Boogalo ([#76400](https://github.com/CleverRaven/Cataclysm-DDA/pull/76400))
 * Map UI: hint custom keybind for `CHOOSE_DESTINATION` ([#76406](https://github.com/CleverRaven/Cataclysm-DDA/pull/76406))
 * [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
-* jsonifny water_from ([#76366](https://github.com/CleverRaven/Cataclysm-DDA/pull/76366))
 * remove unused mutation ([#76390](https://github.com/CleverRaven/Cataclysm-DDA/pull/76390))
 * Fixes fast travel overmap UI when failing to reach destination ([#76396](https://github.com/CleverRaven/Cataclysm-DDA/pull/76396))
 * bump to trigger build (merge queue) ([#76385](https://github.com/CleverRaven/Cataclysm-DDA/pull/76385))
 * json bump to yrigger merge queue in parallell ([#76386](https://github.com/CleverRaven/Cataclysm-DDA/pull/76386))
-* wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
