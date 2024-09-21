@@ -1,3 +1,11 @@
+* [Xedra Evolved] Add more pooka changeling traits ([#76503](https://github.com/CleverRaven/Cataclysm-DDA/pull/76503))
+* Fixes Ierde's allergy to their own spell. ([#76537](https://github.com/CleverRaven/Cataclysm-DDA/pull/76537))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-21-0421 ([266b536](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-0421))
+
+* Remove death drops for whispering fungi ([#76564](https://github.com/CleverRaven/Cataclysm-DDA/pull/76564))
 
 ---
 
@@ -178,11 +186,6 @@
 * Routine i18n updates on 14 September 2024 ([#76418](https://github.com/CleverRaven/Cataclysm-DDA/pull/76418))
 * Fix turning engine on from controls interact menu ([#76426](https://github.com/CleverRaven/Cataclysm-DDA/pull/76426))
 * Replace kevlar in patchwork armor ([#76430](https://github.com/CleverRaven/Cataclysm-DDA/pull/76430))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-16-0217 ([122862c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-16-0217))
-
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
 * Martial Mastery: Insight. ([#76437](https://github.com/CleverRaven/Cataclysm-DDA/pull/76437))
 * make shrink_wrap not loadable ([#76451](https://github.com/CleverRaven/Cataclysm-DDA/pull/76451))
@@ -214,9 +217,7 @@
 * Code fix for #71971 Water purification tablets only purify up to 4 water each ([#76326](https://github.com/CleverRaven/Cataclysm-DDA/pull/76326))
 * wrap the menu descriptions in the Zone menu ([#76369](https://github.com/CleverRaven/Cataclysm-DDA/pull/76369))
 * Cleanup loading screen when loading fails ([#76361](https://github.com/CleverRaven/Cataclysm-DDA/pull/76361))
-* [ Xedra Evolved ] Dreamless forever ([#76302](https://github.com/CleverRaven/Cataclysm-DDA/pull/76302))
 * Spawn triggered bear trap only after creature escapes from it ([#76312](https://github.com/CleverRaven/Cataclysm-DDA/pull/76312))
 * fix compilation error calling Character::spawn_items ([#76349](https://github.com/CleverRaven/Cataclysm-DDA/pull/76349))
 * Isolation Protocol: Geas knight starting class ([#76320](https://github.com/CleverRaven/Cataclysm-DDA/pull/76320))
-* [Xedra Evolved] Gossamer Artisan does not need to be Active ([#76304](https://github.com/CleverRaven/Cataclysm-DDA/pull/76304))
 * Hub01 now gives NRE recorder with fitting battery on their quest ([#76313](https://github.com/CleverRaven/Cataclysm-DDA/pull/76313))
