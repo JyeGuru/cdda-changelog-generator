@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-22-1658 (45d31e8)
 * [Magiclysm] Add Catoblepas monster (#76530)
 * [Magiclysm] Fantasy species zombies (#76569)
 * [Bombastic] Add All Terrain Perk (#76599)
