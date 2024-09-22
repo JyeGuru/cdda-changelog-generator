@@ -1,3 +1,6 @@
+* [Magiclysm] Move yulecat to holiday spawns ([#76601](https://github.com/CleverRaven/Cataclysm-DDA/pull/76601))
+* Rodentkin fixes ([#76556](https://github.com/CleverRaven/Cataclysm-DDA/pull/76556))
+* Removed POLEARMS weapon category from big number of weapons in spears_and_polearms.json ([#76590](https://github.com/CleverRaven/Cataclysm-DDA/pull/76590))
 
 ---
 
@@ -220,8 +223,5 @@
 * Audit NPCs with debug traits ([#76428](https://github.com/CleverRaven/Cataclysm-DDA/pull/76428))
 * Make grazing actually work, with grass regrowth ([#76422](https://github.com/CleverRaven/Cataclysm-DDA/pull/76422))
 * Mods harvest update ([#76410](https://github.com/CleverRaven/Cataclysm-DDA/pull/76410))
-* Remove solder from remaining furniture disassembly and uncraft recipes ([#76403](https://github.com/CleverRaven/Cataclysm-DDA/pull/76403))
 * Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
-* Kill Vending Machines 2: Electric Boogalo ([#76400](https://github.com/CleverRaven/Cataclysm-DDA/pull/76400))
 * Map UI: hint custom keybind for `CHOOSE_DESTINATION` ([#76406](https://github.com/CleverRaven/Cataclysm-DDA/pull/76406))
-* Fixes fast travel overmap UI when failing to reach destination ([#76396](https://github.com/CleverRaven/Cataclysm-DDA/pull/76396))
