@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-22-2034 ([50a97f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-2034))
+
 * Made Scout a starting trait ([#76587](https://github.com/CleverRaven/Cataclysm-DDA/pull/76587))
 
 ---
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2024-09-17-1841 ([4d695c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-1841))
 
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-17-1552 ([aae02aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-1552))
-
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))
 * [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. ([#76435](https://github.com/CleverRaven/Cataclysm-DDA/pull/76435))
 * Backport tiles from experimental to 0.H ([#76453](https://github.com/CleverRaven/Cataclysm-DDA/pull/76453))
