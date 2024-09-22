@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-22-1843 (04238c8)
 * [Aftershock] Handle welding requirements via ``extend`` instead of overwriting vanilla (#76611)
 
 Cataclysm-DDA experimental build 2024-09-22-1658 (45d31e8)
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2024-09-17-1841 (4d695c2)
 
 Cataclysm-DDA experimental build 2024-09-17-1552 (aae02aa)
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes (#76484)
-
-Cataclysm-DDA experimental build 2024-09-17-0912 (d5e57fa)
 * [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. (#76435)
 * Backport tiles from experimental to 0.H (#76453)
 * [Magiclysm] Feral ravenfolk are blinged out (#76483)
