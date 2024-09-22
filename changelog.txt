@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.H release candidate 2024-09-22-2259 (14edf5b)
+* Backport #76478 (#76607)
+
 Cataclysm-DDA experimental build 2024-09-22-2034 (50a97f7)
 * Made Scout a starting trait (#76587)
 
@@ -118,8 +121,6 @@ Cataclysm-DDA experimental build 2024-09-18-0513 (7b773c1)
 
 Cataclysm-DDA experimental build 2024-09-18-0046 (af75887)
 * Update JSON_INFO.md (#76491)
-
-Cataclysm-DDA experimental build 2024-09-17-1841 (4d695c2)
 * Update MAGIC.md (#76493)
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes (#76484)
 * [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. (#76435)
