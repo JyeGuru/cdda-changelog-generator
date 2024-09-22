@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.H release candidate 2024-09-21-2318 ([f1ec14f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-21-2318))
 
 * Backport: Fix item auto pickup condition for npc ([#76543](https://github.com/CleverRaven/Cataclysm-DDA/pull/76543))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-22-0113 ([0376347](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-0113))
+
 * MORPHIC Sizing Flag ([#76560](https://github.com/CleverRaven/Cataclysm-DDA/pull/76560))
 * Fixes Judge Ammo Error ([#76593](https://github.com/CleverRaven/Cataclysm-DDA/pull/76593))
 * LIXA Walls ([#76473](https://github.com/CleverRaven/Cataclysm-DDA/pull/76473))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-09-17-0912 ([d5e57fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0912))
 
 * [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. ([#76435](https://github.com/CleverRaven/Cataclysm-DDA/pull/76435))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-17-0744 ([293c761](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-17-0744))
-
 * Backport tiles from experimental to 0.H ([#76453](https://github.com/CleverRaven/Cataclysm-DDA/pull/76453))
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))

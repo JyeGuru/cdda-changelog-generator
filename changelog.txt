@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.H release candidate 2024-09-21-2318 (f1ec14f)
 * Backport: Fix item auto pickup condition for npc (#76543)
+
+Cataclysm-DDA experimental build 2024-09-22-0113 (0376347)
 * MORPHIC Sizing Flag (#76560)
 * Fixes Judge Ammo Error (#76593)
 * LIXA Walls (#76473)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-09-17-1552 (aae02aa)
 
 Cataclysm-DDA experimental build 2024-09-17-0912 (d5e57fa)
 * [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. (#76435)
-
-Cataclysm-DDA 0.H release candidate 2024-09-17-0744 (293c761)
 * Backport tiles from experimental to 0.H (#76453)
 * [Magiclysm] Feral ravenfolk are blinged out (#76483)
 * Release instructions and extend some jq tools (#76465)
