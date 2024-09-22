@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-22-1507 ([db64136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-1507))
+
+* [XE/Magiclysm] No wizard cats ([#76598](https://github.com/CleverRaven/Cataclysm-DDA/pull/76598))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-09-21-2318 ([f1ec14f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-21-2318))
 
 * Backport: Fix item auto pickup condition for npc ([#76543](https://github.com/CleverRaven/Cataclysm-DDA/pull/76543))
@@ -191,11 +197,6 @@
 * Backport tiles from experimental to 0.H ([#76453](https://github.com/CleverRaven/Cataclysm-DDA/pull/76453))
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-17-0238 ([c03b36a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-17-0238))
-
 * Remove spacing at start of ImGui uilist and right-align context text. ([#76404](https://github.com/CleverRaven/Cataclysm-DDA/pull/76404))
 * Add data-driven changelog summary for 0.H ([#76464](https://github.com/CleverRaven/Cataclysm-DDA/pull/76464))
 * [DinoMod] Astrodon ([#76417](https://github.com/CleverRaven/Cataclysm-DDA/pull/76417))
@@ -223,5 +224,4 @@
 * Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
 * Kill Vending Machines 2: Electric Boogalo ([#76400](https://github.com/CleverRaven/Cataclysm-DDA/pull/76400))
 * Map UI: hint custom keybind for `CHOOSE_DESTINATION` ([#76406](https://github.com/CleverRaven/Cataclysm-DDA/pull/76406))
-* [MoM] Rebalance Banked Fire (the item) ([#76395](https://github.com/CleverRaven/Cataclysm-DDA/pull/76395))
 * Fixes fast travel overmap UI when failing to reach destination ([#76396](https://github.com/CleverRaven/Cataclysm-DDA/pull/76396))
