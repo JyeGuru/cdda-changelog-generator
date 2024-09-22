@@ -1,3 +1,4 @@
+* Made Scout a starting trait ([#76587](https://github.com/CleverRaven/Cataclysm-DDA/pull/76587))
 
 ---
 
@@ -229,4 +230,3 @@
 * make shrink_wrap not loadable ([#76451](https://github.com/CleverRaven/Cataclysm-DDA/pull/76451))
 * Audit NPCs with debug traits ([#76428](https://github.com/CleverRaven/Cataclysm-DDA/pull/76428))
 * Make grazing actually work, with grass regrowth ([#76422](https://github.com/CleverRaven/Cataclysm-DDA/pull/76422))
-* Fix zone display on rotation ([#76411](https://github.com/CleverRaven/Cataclysm-DDA/pull/76411))
