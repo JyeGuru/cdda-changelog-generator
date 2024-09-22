@@ -1,3 +1,4 @@
+* [Aftershock] Handle welding requirements via ``extend`` instead of overwriting vanilla (#76611)
 
 Cataclysm-DDA experimental build 2024-09-22-1658 (45d31e8)
 * [Magiclysm] Add Catoblepas monster (#76530)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2024-09-17-0912 (d5e57fa)
 * make shrink_wrap not loadable (#76451)
 * Audit NPCs with debug traits (#76428)
 * Make grazing actually work, with grass regrowth (#76422)
-* Mods harvest update (#76410)
 * Fix zone display on rotation (#76411)
