@@ -1,3 +1,4 @@
+* [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
 
 ---
 
@@ -212,7 +213,6 @@
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
 * Add data-driven changelog summary for 0.H ([#76464](https://github.com/CleverRaven/Cataclysm-DDA/pull/76464))
-* [DinoMod] Astrodon ([#76417](https://github.com/CleverRaven/Cataclysm-DDA/pull/76417))
 * [MoM] Cancelling Gateway area attunement cancels attunement ([#76456](https://github.com/CleverRaven/Cataclysm-DDA/pull/76456))
 * [MoM] The liquid from the black Nether pools is now collectible and drinkable ([#76458](https://github.com/CleverRaven/Cataclysm-DDA/pull/76458))
 * [DinoMod] monster attack fixes ([#76480](https://github.com/CleverRaven/Cataclysm-DDA/pull/76480))

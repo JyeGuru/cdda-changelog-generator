@@ -1,3 +1,4 @@
+* [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items (#76619)
 
 Cataclysm-DDA 0.H release candidate 2024-09-22-2259 (14edf5b)
 * Backport #76478 (#76607)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2024-09-18-0046 (af75887)
 * [Magiclysm] Feral ravenfolk are blinged out (#76483)
 * Release instructions and extend some jq tools (#76465)
 * Add data-driven changelog summary for 0.H (#76464)
-* [DinoMod] Astrodon (#76417)
 * [MoM] Cancelling Gateway area attunement cancels attunement (#76456)
 * [MoM] The liquid from the black Nether pools is now collectible and drinkable (#76458)
 * [DinoMod] monster attack fixes (#76480)
