@@ -200,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-09-18-0513 ([7b773c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-18-0513))
 
 * Can't grab a solid vehicle while boarding it ([#76482](https://github.com/CleverRaven/Cataclysm-DDA/pull/76482))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-18-0046 ([af75887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-18-0046))
-
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))
