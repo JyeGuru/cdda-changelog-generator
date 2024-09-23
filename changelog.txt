@@ -1,3 +1,4 @@
+* Remove SUN_GLASSES flag from all survivor half masks  (#76618)
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items (#76619)
 
 Cataclysm-DDA 0.H release candidate 2024-09-22-2259 (14edf5b)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2024-09-18-0513 (7b773c1)
 * Toggle between the map and look around (#76433)
 * Corrected rotation alignment correction (#76452)
 * Fix mutation that should be visible (#76477)
-* Routine i18n updates on 14 September 2024 (#76418)
 * Fix turning engine on from controls interact menu (#76426)
 * Replace kevlar in patchwork armor (#76430)
 * Update JSON_INFO.md (#76466)

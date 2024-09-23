@@ -1,3 +1,4 @@
+* Remove SUN_GLASSES flag from all survivor half masks  ([#76618](https://github.com/CleverRaven/Cataclysm-DDA/pull/76618))
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
 
 ---
@@ -218,7 +219,6 @@
 * Toggle between the map and look around ([#76433](https://github.com/CleverRaven/Cataclysm-DDA/pull/76433))
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
 * Fix mutation that should be visible ([#76477](https://github.com/CleverRaven/Cataclysm-DDA/pull/76477))
-* Routine i18n updates on 14 September 2024 ([#76418](https://github.com/CleverRaven/Cataclysm-DDA/pull/76418))
 * Fix turning engine on from controls interact menu ([#76426](https://github.com/CleverRaven/Cataclysm-DDA/pull/76426))
 * Replace kevlar in patchwork armor ([#76430](https://github.com/CleverRaven/Cataclysm-DDA/pull/76430))
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
