@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-23-0356 ([194ca27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-23-0356))
+
 * Remove SUN_GLASSES flag from all survivor half masks  ([#76618](https://github.com/CleverRaven/Cataclysm-DDA/pull/76618))
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
 
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-09-19-0124 ([3cf4b80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-0124))
 
 * Adds the first fungal house! ([#76463](https://github.com/CleverRaven/Cataclysm-DDA/pull/76463))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-18-0513 ([7b773c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-18-0513))
-
 * Can't grab a solid vehicle while boarding it ([#76482](https://github.com/CleverRaven/Cataclysm-DDA/pull/76482))
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
