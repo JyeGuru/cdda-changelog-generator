@@ -187,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2024-09-19-1821 ([3562662](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-1821))
 
 * Update NPC_Aleesha_Seward.json ([#76515](https://github.com/CleverRaven/Cataclysm-DDA/pull/76515))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-19-1512 ([04fb20a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-1512))
-
 * Removed some leftover commented-out code ([#76545](https://github.com/CleverRaven/Cataclysm-DDA/pull/76545))
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag ([#76501](https://github.com/CleverRaven/Cataclysm-DDA/pull/76501))
 * [MoM] Fix channeling-modifying traits math ([#76519](https://github.com/CleverRaven/Cataclysm-DDA/pull/76519))

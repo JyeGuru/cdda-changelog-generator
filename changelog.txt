@@ -112,8 +112,6 @@ Cataclysm-DDA experimental build 2024-09-19-2323 (431e003)
 
 Cataclysm-DDA experimental build 2024-09-19-1821 (3562662)
 * Update NPC_Aleesha_Seward.json (#76515)
-
-Cataclysm-DDA experimental build 2024-09-19-1512 (04fb20a)
 * Removed some leftover commented-out code (#76545)
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag (#76501)
 * [MoM] Fix channeling-modifying traits math (#76519)
