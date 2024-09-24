@@ -1,3 +1,4 @@
+* Weekly Changelog 2024-09-16 to 2024-09-23 ([#76622](https://github.com/CleverRaven/Cataclysm-DDA/pull/76622))
 
 ---
 
@@ -211,7 +212,6 @@
 * Fix some random NPC's mission ([#76478](https://github.com/CleverRaven/Cataclysm-DDA/pull/76478))
 * [Magiclysm] Add feral magus/high magus ([#76469](https://github.com/CleverRaven/Cataclysm-DDA/pull/76469))
 * Removes MD trait from Combat Medic ([#76449](https://github.com/CleverRaven/Cataclysm-DDA/pull/76449))
-* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Finish)  ([#76443](https://github.com/CleverRaven/Cataclysm-DDA/pull/76443))
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
 * Fix mutation that should be visible ([#76477](https://github.com/CleverRaven/Cataclysm-DDA/pull/76477))
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
