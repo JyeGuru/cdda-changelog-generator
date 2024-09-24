@@ -1,3 +1,12 @@
+* Remove duplicate line in changelog.txt ([#76628](https://github.com/CleverRaven/Cataclysm-DDA/pull/76628))
+* [Magiclysm] Earthshapers cannot Stone Slumber unsafely ([#76615](https://github.com/CleverRaven/Cataclysm-DDA/pull/76615))
+* Fix the Kord mission ([#76626](https://github.com/CleverRaven/Cataclysm-DDA/pull/76626))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-24-0119 ([749aaac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-0119))
+
+* replace mon_turret_riot with better suited enemies ([#76467](https://github.com/CleverRaven/Cataclysm-DDA/pull/76467))
 
 ---
 
@@ -67,12 +76,6 @@
 #### Cataclysm-DDA experimental build 2024-09-21-2048 ([2c596cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-2048))
 
 * Bows don't accept ergonomic grip ([#76591](https://github.com/CleverRaven/Cataclysm-DDA/pull/76591))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-21-1852 ([788e4e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-1852))
-
-* Update the table of contents in doc/JSON_INFO.md ([#76419](https://github.com/CleverRaven/Cataclysm-DDA/pull/76419))
 * Martial Mastery: Fix Insight Message Spam ([#76581](https://github.com/CleverRaven/Cataclysm-DDA/pull/76581))
 * Martial Mastery: Nerf Insight Stacking from Sixth Sense ([#76583](https://github.com/CleverRaven/Cataclysm-DDA/pull/76583))
 * Fix issues with beartrap ([#76525](https://github.com/CleverRaven/Cataclysm-DDA/pull/76525))
@@ -219,10 +222,7 @@
 * Toggle between the map and look around ([#76433](https://github.com/CleverRaven/Cataclysm-DDA/pull/76433))
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
 * Fix mutation that should be visible ([#76477](https://github.com/CleverRaven/Cataclysm-DDA/pull/76477))
-* Fix turning engine on from controls interact menu ([#76426](https://github.com/CleverRaven/Cataclysm-DDA/pull/76426))
 * Replace kevlar in patchwork armor ([#76430](https://github.com/CleverRaven/Cataclysm-DDA/pull/76430))
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
 * Martial Mastery: Insight. ([#76437](https://github.com/CleverRaven/Cataclysm-DDA/pull/76437))
 * make shrink_wrap not loadable ([#76451](https://github.com/CleverRaven/Cataclysm-DDA/pull/76451))
-* Audit NPCs with debug traits ([#76428](https://github.com/CleverRaven/Cataclysm-DDA/pull/76428))
-* Make grazing actually work, with grass regrowth ([#76422](https://github.com/CleverRaven/Cataclysm-DDA/pull/76422))
