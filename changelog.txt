@@ -66,9 +66,6 @@ Cataclysm-DDA experimental build 2024-09-21-1656 (6805e26)
 
 Cataclysm-DDA experimental build 2024-09-21-1412 (e66affb)
 * Routine i18n updates on 21 September 2024 (#76578)
-
-Cataclysm-DDA experimental build 2024-09-21-0622 (a6e3f8c)
-* Follow-up to #76338: convenience balances to safer vehicle grabbing (#76442)
 * [Xedra Evolved] Rework alchemical doll imbuement (#76520)
 * Fix item auto pickup for npc (#76532)
 * Gun-shy (#76536)
