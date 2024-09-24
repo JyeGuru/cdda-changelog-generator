@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-24-2221 (78ebcd0)
+* [MoM] Add remaining matrix elixirs, add more drops (#76633)
+
 Cataclysm-DDA experimental build 2024-09-24-1915 (7ee3ce7)
 * Weekly Changelog 2024-09-16 to 2024-09-23 (#76622)
 
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2024-09-20-0455 (4254b22)
 Cataclysm-DDA experimental build 2024-09-20-0149 (da181c9)
 * Allow magic rings to resize to fit anyone (#76474)
 * Multimeters & Voltmeters Power Draw Rebalance (#76544)
-
-Cataclysm-DDA experimental build 2024-09-19-2323 (431e003)
 * [Sky Island] Fix climate control (#76539)
 * Update NPC_Aleesha_Seward.json (#76515)
 * Removed some leftover commented-out code (#76545)

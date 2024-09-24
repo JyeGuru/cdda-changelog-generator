@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-24-2221 ([78ebcd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-2221))
+
+* [MoM] Add remaining matrix elixirs, add more drops ([#76633](https://github.com/CleverRaven/Cataclysm-DDA/pull/76633))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-24-1915 ([7ee3ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-1915))
 
 * Weekly Changelog 2024-09-16 to 2024-09-23 ([#76622](https://github.com/CleverRaven/Cataclysm-DDA/pull/76622))
@@ -181,11 +187,6 @@
 
 * Allow magic rings to resize to fit anyone ([#76474](https://github.com/CleverRaven/Cataclysm-DDA/pull/76474))
 * Multimeters & Voltmeters Power Draw Rebalance ([#76544](https://github.com/CleverRaven/Cataclysm-DDA/pull/76544))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-19-2323 ([431e003](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-2323))
-
 * [Sky Island] Fix climate control ([#76539](https://github.com/CleverRaven/Cataclysm-DDA/pull/76539))
 * Update NPC_Aleesha_Seward.json ([#76515](https://github.com/CleverRaven/Cataclysm-DDA/pull/76515))
 * Removed some leftover commented-out code ([#76545](https://github.com/CleverRaven/Cataclysm-DDA/pull/76545))
