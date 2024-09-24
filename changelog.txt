@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-24-1425 (c4bbf99)
 * [Xedra Evolved] Werewolves only regenerate when they need to (#76630)
 
 Cataclysm-DDA experimental build 2024-09-24-1228 (27992ec)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2024-09-19-1821 (3562662)
 
 Cataclysm-DDA experimental build 2024-09-19-1512 (04fb20a)
 * Removed some leftover commented-out code (#76545)
-
-Cataclysm-DDA experimental build 2024-09-19-0617 (e00a779)
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag (#76501)
 * [MoM] Fix channeling-modifying traits math (#76519)
 * Weekly Changelog 2024-09-09 to 2024-09-16 (#76470)
