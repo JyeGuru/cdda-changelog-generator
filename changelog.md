@@ -1,3 +1,10 @@
+* [Xedra Evolved] Werewolves only regenerate when they need to ([#76630](https://github.com/CleverRaven/Cataclysm-DDA/pull/76630))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-24-1228 ([27992ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-1228))
+
+* [Magiclysm] Rapid Regeneration's effect only triggers if you need healing ([#76631](https://github.com/CleverRaven/Cataclysm-DDA/pull/76631))
 
 ---
 
@@ -194,11 +201,6 @@
 
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag ([#76501](https://github.com/CleverRaven/Cataclysm-DDA/pull/76501))
 * [MoM] Fix channeling-modifying traits math ([#76519](https://github.com/CleverRaven/Cataclysm-DDA/pull/76519))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-19-0408 ([f2eec56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-0408))
-
 * Weekly Changelog 2024-09-09 to 2024-09-16 ([#76470](https://github.com/CleverRaven/Cataclysm-DDA/pull/76470))
 * [Magiclysm] Add `NO_SPELLCASTING` flag to magic-using monster conditions ([#76497](https://github.com/CleverRaven/Cataclysm-DDA/pull/76497))
 * discount loaded ammo from smoking rack even when not allowing removal ([#76500](https://github.com/CleverRaven/Cataclysm-DDA/pull/76500))
@@ -210,7 +212,6 @@
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))
-* [ Xedra Evolved ]Give Gracken stomach some climate control to offset the metabolism coldness. ([#76435](https://github.com/CleverRaven/Cataclysm-DDA/pull/76435))
 * Backport tiles from experimental to 0.H ([#76453](https://github.com/CleverRaven/Cataclysm-DDA/pull/76453))
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
@@ -225,5 +226,4 @@
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
 * Fix mutation that should be visible ([#76477](https://github.com/CleverRaven/Cataclysm-DDA/pull/76477))
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
-* Martial Mastery: Insight. ([#76437](https://github.com/CleverRaven/Cataclysm-DDA/pull/76437))
 * make shrink_wrap not loadable ([#76451](https://github.com/CleverRaven/Cataclysm-DDA/pull/76451))
