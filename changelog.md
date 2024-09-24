@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-24-0351 ([cc46ab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-0351))
+
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
 * Replace activity `ACT_PICKUP_MENU` with `uistate.open_menu` ([#76610](https://github.com/CleverRaven/Cataclysm-DDA/pull/76610))
 * Fix error popping up when trying to draw blood from acidic zombie ([#76625](https://github.com/CleverRaven/Cataclysm-DDA/pull/76625))
@@ -200,11 +205,6 @@
 * Remove open container flag from vacuum sealed bags ([#76507](https://github.com/CleverRaven/Cataclysm-DDA/pull/76507))
 * Refactor: Remove unnecessary parameter `avatar` ([#76498](https://github.com/CleverRaven/Cataclysm-DDA/pull/76498))
 * Replace activity `ACT_ADV_INVENTORY` with `uistate.open_menu`, remove `ACT_VIEW_RECIPE` ([#76490](https://github.com/CleverRaven/Cataclysm-DDA/pull/76490))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-19-0124 ([3cf4b80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-19-0124))
-
 * Adds the first fungal house! ([#76463](https://github.com/CleverRaven/Cataclysm-DDA/pull/76463))
 * Can't grab a solid vehicle while boarding it ([#76482](https://github.com/CleverRaven/Cataclysm-DDA/pull/76482))
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
