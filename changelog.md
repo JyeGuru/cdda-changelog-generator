@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-25-0552 ([a4182b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-0552))
+
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-09-20-1705 ([03b8d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-1705))
 
 * small fixes in batteries ([#76517](https://github.com/CleverRaven/Cataclysm-DDA/pull/76517))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-20-0346 ([e966010](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-20-0346))
-
 * Fix unobtainable gas mask ammo drop ([#76551](https://github.com/CleverRaven/Cataclysm-DDA/pull/76551))
 
 ---

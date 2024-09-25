@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-25-0552 (a4182b7)
 * Insert git checkout line into vcpkg setup command block. (#76650)
 
 Cataclysm-DDA experimental build 2024-09-25-0334 (c05979c)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-09-20-2225 (09de5fe)
 
 Cataclysm-DDA experimental build 2024-09-20-1705 (03b8d34)
 * small fixes in batteries (#76517)
-
-Cataclysm-DDA 0.H release candidate 2024-09-20-0346 (e966010)
 * Fix unobtainable gas mask ammo drop (#76551)
 
 Cataclysm-DDA experimental build 2024-09-20-0455 (4254b22)
