@@ -1,3 +1,4 @@
+* [MoM] Blazing Aura is an actual aura effect and harms anyone nearby (#76648)
 
 Cataclysm-DDA experimental build 2024-09-25-2153 (b974155)
 * Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 (#76647)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-09-20-1705 (03b8d34)
 * [Magiclysm] Feral ravenfolk are blinged out (#76483)
 * Release instructions and extend some jq tools (#76465)
 * Add data-driven changelog summary for 0.H (#76464)
-* [MoM] Cancelling Gateway area attunement cancels attunement (#76456)
 * [MoM] The liquid from the black Nether pools is now collectible and drinkable (#76458)
 * [DinoMod] monster attack fixes (#76480)
 * Fix some random NPC's mission (#76478)
