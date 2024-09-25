@@ -1,3 +1,4 @@
+* Fix changelog containing duplicate entries ([#76649](https://github.com/CleverRaven/Cataclysm-DDA/pull/76649))
 * [MoM] Blazing Aura is an actual aura effect and harms anyone nearby ([#76648](https://github.com/CleverRaven/Cataclysm-DDA/pull/76648))
 
 ---
@@ -210,7 +211,6 @@
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
 * Add data-driven changelog summary for 0.H ([#76464](https://github.com/CleverRaven/Cataclysm-DDA/pull/76464))
-* [MoM] The liquid from the black Nether pools is now collectible and drinkable ([#76458](https://github.com/CleverRaven/Cataclysm-DDA/pull/76458))
 * [DinoMod] monster attack fixes ([#76480](https://github.com/CleverRaven/Cataclysm-DDA/pull/76480))
 * Fix some random NPC's mission ([#76478](https://github.com/CleverRaven/Cataclysm-DDA/pull/76478))
 * [Magiclysm] Add feral magus/high magus ([#76469](https://github.com/CleverRaven/Cataclysm-DDA/pull/76469))
