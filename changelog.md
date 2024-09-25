@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-25-0334 ([c05979c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-0334))
+
+* Adjust trap difficulty ([#76638](https://github.com/CleverRaven/Cataclysm-DDA/pull/76638))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-24-2221 ([78ebcd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-2221))
 
 * [MoM] Add remaining matrix elixirs, add more drops ([#76633](https://github.com/CleverRaven/Cataclysm-DDA/pull/76633))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-09-20-0455 ([4254b22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-0455))
 
 * Remove Rivtech 20x66 Ammo and Guns  ([#76486](https://github.com/CleverRaven/Cataclysm-DDA/pull/76486))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-20-0149 ([da181c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-0149))
-
 * Allow magic rings to resize to fit anyone ([#76474](https://github.com/CleverRaven/Cataclysm-DDA/pull/76474))
 * Multimeters & Voltmeters Power Draw Rebalance ([#76544](https://github.com/CleverRaven/Cataclysm-DDA/pull/76544))
 * [Sky Island] Fix climate control ([#76539](https://github.com/CleverRaven/Cataclysm-DDA/pull/76539))
@@ -212,7 +213,6 @@
 * [DinoMod] monster attack fixes ([#76480](https://github.com/CleverRaven/Cataclysm-DDA/pull/76480))
 * Fix some random NPC's mission ([#76478](https://github.com/CleverRaven/Cataclysm-DDA/pull/76478))
 * [Magiclysm] Add feral magus/high magus ([#76469](https://github.com/CleverRaven/Cataclysm-DDA/pull/76469))
-* Removes MD trait from Combat Medic ([#76449](https://github.com/CleverRaven/Cataclysm-DDA/pull/76449))
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
 * Fix mutation that should be visible ([#76477](https://github.com/CleverRaven/Cataclysm-DDA/pull/76477))
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
