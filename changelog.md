@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-25-2153 ([b974155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-2153))
+
+* Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 ([#76647](https://github.com/CleverRaven/Cataclysm-DDA/pull/76647))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-25-0552 ([a4182b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-0552))
 
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
@@ -181,11 +187,6 @@
 
 * small fixes in batteries ([#76517](https://github.com/CleverRaven/Cataclysm-DDA/pull/76517))
 * Fix unobtainable gas mask ammo drop ([#76551](https://github.com/CleverRaven/Cataclysm-DDA/pull/76551))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-20-0455 ([4254b22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-0455))
-
 * Remove Rivtech 20x66 Ammo and Guns  ([#76486](https://github.com/CleverRaven/Cataclysm-DDA/pull/76486))
 * Allow magic rings to resize to fit anyone ([#76474](https://github.com/CleverRaven/Cataclysm-DDA/pull/76474))
 * Multimeters & Voltmeters Power Draw Rebalance ([#76544](https://github.com/CleverRaven/Cataclysm-DDA/pull/76544))
@@ -205,7 +206,6 @@
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))
-* Backport tiles from experimental to 0.H ([#76453](https://github.com/CleverRaven/Cataclysm-DDA/pull/76453))
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
 * Add data-driven changelog summary for 0.H ([#76464](https://github.com/CleverRaven/Cataclysm-DDA/pull/76464))

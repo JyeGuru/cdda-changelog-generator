@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-25-2153 (b974155)
+* Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 (#76647)
+
 Cataclysm-DDA experimental build 2024-09-25-0552 (a4182b7)
 * Insert git checkout line into vcpkg setup command block. (#76650)
 
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2024-09-20-2225 (09de5fe)
 Cataclysm-DDA experimental build 2024-09-20-1705 (03b8d34)
 * small fixes in batteries (#76517)
 * Fix unobtainable gas mask ammo drop (#76551)
-
-Cataclysm-DDA experimental build 2024-09-20-0455 (4254b22)
 * Remove Rivtech 20x66 Ammo and Guns  (#76486)
 * Allow magic rings to resize to fit anyone (#76474)
 * Multimeters & Voltmeters Power Draw Rebalance (#76544)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2024-09-20-0455 (4254b22)
 * Update JSON_INFO.md (#76491)
 * Update MAGIC.md (#76493)
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes (#76484)
-* Backport tiles from experimental to 0.H (#76453)
 * [Magiclysm] Feral ravenfolk are blinged out (#76483)
 * Release instructions and extend some jq tools (#76465)
 * Add data-driven changelog summary for 0.H (#76464)
