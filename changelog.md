@@ -216,4 +216,3 @@
 * Corrected rotation alignment correction ([#76452](https://github.com/CleverRaven/Cataclysm-DDA/pull/76452))
 * Fix mutation that should be visible ([#76477](https://github.com/CleverRaven/Cataclysm-DDA/pull/76477))
 * Update JSON_INFO.md ([#76466](https://github.com/CleverRaven/Cataclysm-DDA/pull/76466))
-* make shrink_wrap not loadable ([#76451](https://github.com/CleverRaven/Cataclysm-DDA/pull/76451))
