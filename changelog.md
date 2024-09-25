@@ -205,7 +205,6 @@
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))
-* Backport tiles from experimental to 0.H ([#76453](https://github.com/CleverRaven/Cataclysm-DDA/pull/76453))
 * [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
 * Release instructions and extend some jq tools ([#76465](https://github.com/CleverRaven/Cataclysm-DDA/pull/76465))
 * Add data-driven changelog summary for 0.H ([#76464](https://github.com/CleverRaven/Cataclysm-DDA/pull/76464))
