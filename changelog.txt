@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-26-0016 (c27e4b9)
 * Dont extract monster guns and spells for translation (#76656)
 * Use typed tripoints in npcmove and adjacent code (#76623)
 * Fix changelog containing duplicate entries (#76649)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2024-09-21-0046 (cf0cfa5)
 
 Cataclysm-DDA experimental build 2024-09-20-2225 (09de5fe)
 * Homemade corn dog audit (#76562)
-
-Cataclysm-DDA experimental build 2024-09-20-1705 (03b8d34)
 * small fixes in batteries (#76517)
 * Fix unobtainable gas mask ammo drop (#76551)
 * Remove Rivtech 20x66 Ammo and Guns  (#76486)

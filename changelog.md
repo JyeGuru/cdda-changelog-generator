@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-26-0016 ([c27e4b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-0016))
+
 * Dont extract monster guns and spells for translation ([#76656](https://github.com/CleverRaven/Cataclysm-DDA/pull/76656))
 * Use typed tripoints in npcmove and adjacent code ([#76623](https://github.com/CleverRaven/Cataclysm-DDA/pull/76623))
 * Fix changelog containing duplicate entries ([#76649](https://github.com/CleverRaven/Cataclysm-DDA/pull/76649))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-09-20-2225 ([09de5fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-2225))
 
 * Homemade corn dog audit ([#76562](https://github.com/CleverRaven/Cataclysm-DDA/pull/76562))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-20-1705 ([03b8d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-20-1705))
-
 * small fixes in batteries ([#76517](https://github.com/CleverRaven/Cataclysm-DDA/pull/76517))
 * Fix unobtainable gas mask ammo drop ([#76551](https://github.com/CleverRaven/Cataclysm-DDA/pull/76551))
 * Remove Rivtech 20x66 Ammo and Guns  ([#76486](https://github.com/CleverRaven/Cataclysm-DDA/pull/76486))
