@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-26-1624 ([55b8eb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-1624))
+
+* Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-26-0701 ([39eabf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-0701))
 
 * [Bombastic Perks] Two gun-related perks ([#76487](https://github.com/CleverRaven/Cataclysm-DDA/pull/76487))
@@ -116,11 +122,6 @@
 #### Cataclysm-DDA experimental build 2024-09-22-1507 ([db64136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-1507))
 
 * [XE/Magiclysm] No wizard cats ([#76598](https://github.com/CleverRaven/Cataclysm-DDA/pull/76598))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-21-2318 ([f1ec14f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-21-2318))
-
 * Backport: Fix item auto pickup condition for npc ([#76543](https://github.com/CleverRaven/Cataclysm-DDA/pull/76543))
 
 ---

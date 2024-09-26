@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-26-1624 (55b8eb3)
+* Added NOCOLLIDE flags to most 'hanging rope'-types of furniture (#76677)
+
 Cataclysm-DDA experimental build 2024-09-26-0701 (39eabf6)
 * [Bombastic Perks] Two gun-related perks (#76487)
 * Adjusted item grid connection points on grid merge (#76644)
@@ -65,8 +68,6 @@ Cataclysm-DDA experimental build 2024-09-22-1658 (45d31e8)
 
 Cataclysm-DDA experimental build 2024-09-22-1507 (db64136)
 * [XE/Magiclysm] No wizard cats (#76598)
-
-Cataclysm-DDA 0.H release candidate 2024-09-21-2318 (f1ec14f)
 * Backport: Fix item auto pickup condition for npc (#76543)
 
 Cataclysm-DDA experimental build 2024-09-22-0113 (0376347)
