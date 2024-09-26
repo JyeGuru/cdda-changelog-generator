@@ -1,3 +1,4 @@
+* Night vision goggles no longer draw green overlay after their batteries ran out of energy (#76657)
 
 Cataclysm-DDA experimental build 2024-09-26-1624 (55b8eb3)
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture (#76677)
@@ -73,7 +74,6 @@ Cataclysm-DDA experimental build 2024-09-22-1507 (db64136)
 Cataclysm-DDA experimental build 2024-09-22-0113 (0376347)
 * MORPHIC Sizing Flag (#76560)
 * Fixes Judge Ammo Error (#76593)
-* LIXA Walls (#76473)
 
 Cataclysm-DDA experimental build 2024-09-21-2247 (0064d3a)
 * Added notes for constructing dummies (#76584)

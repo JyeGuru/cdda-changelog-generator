@@ -1,3 +1,4 @@
+* Night vision goggles no longer draw green overlay after their batteries ran out of energy ([#76657](https://github.com/CleverRaven/Cataclysm-DDA/pull/76657))
 
 ---
 
@@ -130,7 +131,6 @@
 
 * MORPHIC Sizing Flag ([#76560](https://github.com/CleverRaven/Cataclysm-DDA/pull/76560))
 * Fixes Judge Ammo Error ([#76593](https://github.com/CleverRaven/Cataclysm-DDA/pull/76593))
-* LIXA Walls ([#76473](https://github.com/CleverRaven/Cataclysm-DDA/pull/76473))
 
 ---
 
