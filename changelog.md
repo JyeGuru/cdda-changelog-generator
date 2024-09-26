@@ -197,7 +197,6 @@
 * Removed some leftover commented-out code ([#76545](https://github.com/CleverRaven/Cataclysm-DDA/pull/76545))
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag ([#76501](https://github.com/CleverRaven/Cataclysm-DDA/pull/76501))
 * [MoM] Fix channeling-modifying traits math ([#76519](https://github.com/CleverRaven/Cataclysm-DDA/pull/76519))
-* Weekly Changelog 2024-09-09 to 2024-09-16 ([#76470](https://github.com/CleverRaven/Cataclysm-DDA/pull/76470))
 * [Magiclysm] Add `NO_SPELLCASTING` flag to magic-using monster conditions ([#76497](https://github.com/CleverRaven/Cataclysm-DDA/pull/76497))
 * discount loaded ammo from smoking rack even when not allowing removal ([#76500](https://github.com/CleverRaven/Cataclysm-DDA/pull/76500))
 * Remove open container flag from vacuum sealed bags ([#76507](https://github.com/CleverRaven/Cataclysm-DDA/pull/76507))
