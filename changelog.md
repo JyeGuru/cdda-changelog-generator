@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-26-0701 ([39eabf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-0701))
+
 * [Bombastic Perks] Two gun-related perks ([#76487](https://github.com/CleverRaven/Cataclysm-DDA/pull/76487))
 * Adjusted item grid connection points on grid merge ([#76644](https://github.com/CleverRaven/Cataclysm-DDA/pull/76644))
 * remove traps skill from construction worker ([#76666](https://github.com/CleverRaven/Cataclysm-DDA/pull/76666))
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-09-21-0421 ([266b536](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-0421))
 
 * Remove death drops for whispering fungi ([#76564](https://github.com/CleverRaven/Cataclysm-DDA/pull/76564))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-21-0046 ([cf0cfa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-0046))
-
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
 * [Magiclysm] Add Mana Extraction classless spell ([#76559](https://github.com/CleverRaven/Cataclysm-DDA/pull/76559))
 * Homemade corn dog audit ([#76562](https://github.com/CleverRaven/Cataclysm-DDA/pull/76562))

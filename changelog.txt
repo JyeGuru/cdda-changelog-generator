@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-26-0701 (39eabf6)
 * [Bombastic Perks] Two gun-related perks (#76487)
 * Adjusted item grid connection points on grid merge (#76644)
 * remove traps skill from construction worker (#76666)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-09-21-1412 (e66affb)
 
 Cataclysm-DDA experimental build 2024-09-21-0421 (266b536)
 * Remove death drops for whispering fungi (#76564)
-
-Cataclysm-DDA experimental build 2024-09-21-0046 (cf0cfa5)
 * Remove missed RM121 references (#76573)
 * [Magiclysm] Add Mana Extraction classless spell (#76559)
 * Homemade corn dog audit (#76562)
