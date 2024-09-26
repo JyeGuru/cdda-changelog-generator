@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-26-1840 ([d127432](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-1840))
+
 * Night vision goggles no longer draw green overlay after their batteries ran out of energy ([#76657](https://github.com/CleverRaven/Cataclysm-DDA/pull/76657))
 
 ---
@@ -179,11 +184,6 @@
 * Add myself to GitHub commands ([#76568](https://github.com/CleverRaven/Cataclysm-DDA/pull/76568))
 * [Xedra Evolved] Add more pooka changeling traits ([#76503](https://github.com/CleverRaven/Cataclysm-DDA/pull/76503))
 * Fixes Ierde's allergy to their own spell. ([#76537](https://github.com/CleverRaven/Cataclysm-DDA/pull/76537))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-21-0421 ([266b536](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-0421))
-
 * Remove death drops for whispering fungi ([#76564](https://github.com/CleverRaven/Cataclysm-DDA/pull/76564))
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
 * [Magiclysm] Add Mana Extraction classless spell ([#76559](https://github.com/CleverRaven/Cataclysm-DDA/pull/76559))
