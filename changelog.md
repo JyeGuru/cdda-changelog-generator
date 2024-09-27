@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-27-0318 ([b4ca7ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-0318))
+
 * Magiclysm] Add Bracers of Archery ([#76663](https://github.com/CleverRaven/Cataclysm-DDA/pull/76663))
 * [Magiclysm] Goblins and dwarves can craft in the dark ([#76669](https://github.com/CleverRaven/Cataclysm-DDA/pull/76669))
 * Reset forced temperature on save and quit from tutorial world ([#76674](https://github.com/CleverRaven/Cataclysm-DDA/pull/76674))
@@ -170,11 +175,6 @@
 * Fix zone dialog missing for translation ([#76580](https://github.com/CleverRaven/Cataclysm-DDA/pull/76580))
 * Add shopping bags to the kitchen ([#76577](https://github.com/CleverRaven/Cataclysm-DDA/pull/76577))
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-21-1656 ([6805e26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-1656))
-
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
 * [Xedra Evolved] Rework alchemical doll imbuement ([#76520](https://github.com/CleverRaven/Cataclysm-DDA/pull/76520))
