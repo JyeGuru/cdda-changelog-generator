@@ -1,3 +1,4 @@
+* Use typed tripoints in ranged.h and adjacent code ([#76671](https://github.com/CleverRaven/Cataclysm-DDA/pull/76671))
 
 ---
 
@@ -42,12 +43,6 @@
 #### Cataclysm-DDA experimental build 2024-09-26-1624 ([55b8eb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-1624))
 
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-26-0701 ([39eabf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-0701))
-
-* [Bombastic Perks] Two gun-related perks ([#76487](https://github.com/CleverRaven/Cataclysm-DDA/pull/76487))
 * Adjusted item grid connection points on grid merge ([#76644](https://github.com/CleverRaven/Cataclysm-DDA/pull/76644))
 * remove traps skill from construction worker ([#76666](https://github.com/CleverRaven/Cataclysm-DDA/pull/76666))
 

@@ -1,3 +1,4 @@
+* Use typed tripoints in ranged.h and adjacent code (#76671)
 
 Cataclysm-DDA experimental build 2024-09-27-1722 (3c56e3c)
 * The pair of butterfly swords are now just a butterfly sword. Singular. (#76605)
@@ -21,9 +22,6 @@ Cataclysm-DDA experimental build 2024-09-26-1840 (d127432)
 
 Cataclysm-DDA experimental build 2024-09-26-1624 (55b8eb3)
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture (#76677)
-
-Cataclysm-DDA experimental build 2024-09-26-0701 (39eabf6)
-* [Bombastic Perks] Two gun-related perks (#76487)
 * Adjusted item grid connection points on grid merge (#76644)
 * remove traps skill from construction worker (#76666)
 
