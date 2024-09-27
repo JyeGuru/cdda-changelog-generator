@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-27-1952 (4c69e47)
 * Use typed tripoints in ranged.h and adjacent code (#76671)
 
 Cataclysm-DDA experimental build 2024-09-27-1722 (3c56e3c)
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2024-09-22-1507 (db64136)
 Cataclysm-DDA experimental build 2024-09-22-0113 (0376347)
 * MORPHIC Sizing Flag (#76560)
 * Fixes Judge Ammo Error (#76593)
-
-Cataclysm-DDA experimental build 2024-09-21-2247 (0064d3a)
 * Added notes for constructing dummies (#76584)
 * Binoculars now also increase "detailed" vision range, not only max vision range (#76585)
 * Bows don't accept ergonomic grip (#76591)
