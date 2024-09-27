@@ -1,3 +1,4 @@
+* [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
 
 ---
 
@@ -214,4 +215,3 @@
 * Replace activity `ACT_ADV_INVENTORY` with `uistate.open_menu`, remove `ACT_VIEW_RECIPE` ([#76490](https://github.com/CleverRaven/Cataclysm-DDA/pull/76490))
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
-* [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))

@@ -1,3 +1,4 @@
+* [DinoMod] tougher day 3 predators (#76634)
 
 Cataclysm-DDA experimental build 2024-09-27-0318 (b4ca7ca)
 * Magiclysm] Add Bracers of Archery (#76663)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-09-21-2048 (2c596cc)
 * Replace activity `ACT_ADV_INVENTORY` with `uistate.open_menu`, remove `ACT_VIEW_RECIPE` (#76490)
 * Update JSON_INFO.md (#76491)
 * Update MAGIC.md (#76493)
-* [Xedra Evolved] Add more Brownie changeling traits +bugfixes (#76484)
