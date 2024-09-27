@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-27-1722 ([3c56e3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-1722))
+
+* The pair of butterfly swords are now just a butterfly sword. Singular. ([#76605](https://github.com/CleverRaven/Cataclysm-DDA/pull/76605))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-27-0529 ([918a370](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-0529))
 
 * [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
@@ -169,11 +175,6 @@
 
 * Added notes for constructing dummies ([#76584](https://github.com/CleverRaven/Cataclysm-DDA/pull/76584))
 * Binoculars now also increase "detailed" vision range, not only max vision range ([#76585](https://github.com/CleverRaven/Cataclysm-DDA/pull/76585))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-21-2048 ([2c596cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-2048))
-
 * Bows don't accept ergonomic grip ([#76591](https://github.com/CleverRaven/Cataclysm-DDA/pull/76591))
 * Martial Mastery: Fix Insight Message Spam ([#76581](https://github.com/CleverRaven/Cataclysm-DDA/pull/76581))
 * Martial Mastery: Nerf Insight Stacking from Sixth Sense ([#76583](https://github.com/CleverRaven/Cataclysm-DDA/pull/76583))
@@ -206,7 +207,6 @@
 * Homemade corn dog audit ([#76562](https://github.com/CleverRaven/Cataclysm-DDA/pull/76562))
 * small fixes in batteries ([#76517](https://github.com/CleverRaven/Cataclysm-DDA/pull/76517))
 * Fix unobtainable gas mask ammo drop ([#76551](https://github.com/CleverRaven/Cataclysm-DDA/pull/76551))
-* Remove Rivtech 20x66 Ammo and Guns  ([#76486](https://github.com/CleverRaven/Cataclysm-DDA/pull/76486))
 * Multimeters & Voltmeters Power Draw Rebalance ([#76544](https://github.com/CleverRaven/Cataclysm-DDA/pull/76544))
 * [Sky Island] Fix climate control ([#76539](https://github.com/CleverRaven/Cataclysm-DDA/pull/76539))
 * Update NPC_Aleesha_Seward.json ([#76515](https://github.com/CleverRaven/Cataclysm-DDA/pull/76515))
