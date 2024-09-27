@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-27-0529 ([918a370](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-0529))
+
 * [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
 
 ---

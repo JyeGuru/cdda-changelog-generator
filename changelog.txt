@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-27-0529 (918a370)
 * [DinoMod] tougher day 3 predators (#76634)
 
 Cataclysm-DDA experimental build 2024-09-27-0318 (b4ca7ca)
