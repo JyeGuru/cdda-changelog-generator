@@ -89,8 +89,6 @@ Cataclysm-DDA experimental build 2024-09-22-1658 (45d31e8)
 Cataclysm-DDA experimental build 2024-09-22-1507 (db64136)
 * [XE/Magiclysm] No wizard cats (#76598)
 * Backport: Fix item auto pickup condition for npc (#76543)
-
-Cataclysm-DDA experimental build 2024-09-22-0113 (0376347)
 * MORPHIC Sizing Flag (#76560)
 * Fixes Judge Ammo Error (#76593)
 * Added notes for constructing dummies (#76584)

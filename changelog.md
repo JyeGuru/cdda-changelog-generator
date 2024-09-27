@@ -161,11 +161,6 @@
 
 * [XE/Magiclysm] No wizard cats ([#76598](https://github.com/CleverRaven/Cataclysm-DDA/pull/76598))
 * Backport: Fix item auto pickup condition for npc ([#76543](https://github.com/CleverRaven/Cataclysm-DDA/pull/76543))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-22-0113 ([0376347](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-0113))
-
 * MORPHIC Sizing Flag ([#76560](https://github.com/CleverRaven/Cataclysm-DDA/pull/76560))
 * Fixes Judge Ammo Error ([#76593](https://github.com/CleverRaven/Cataclysm-DDA/pull/76593))
 * Added notes for constructing dummies ([#76584](https://github.com/CleverRaven/Cataclysm-DDA/pull/76584))
