@@ -1,3 +1,12 @@
+* Magiclysm] Add Bracers of Archery ([#76663](https://github.com/CleverRaven/Cataclysm-DDA/pull/76663))
+* [Magiclysm] Goblins and dwarves can craft in the dark ([#76669](https://github.com/CleverRaven/Cataclysm-DDA/pull/76669))
+* Reset forced temperature on save and quit from tutorial world ([#76674](https://github.com/CleverRaven/Cataclysm-DDA/pull/76674))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-27-0126 ([a335913](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-0126))
+
+* Added check for stealing prior to wearing ([#76675](https://github.com/CleverRaven/Cataclysm-DDA/pull/76675))
 
 ---
 
@@ -167,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-09-21-1656 ([6805e26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-1656))
 
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-21-1412 ([e66affb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-21-1412))
-
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
 * [Xedra Evolved] Rework alchemical doll imbuement ([#76520](https://github.com/CleverRaven/Cataclysm-DDA/pull/76520))
 * Fix item auto pickup for npc ([#76532](https://github.com/CleverRaven/Cataclysm-DDA/pull/76532))
@@ -208,10 +212,6 @@
 * Remove open container flag from vacuum sealed bags ([#76507](https://github.com/CleverRaven/Cataclysm-DDA/pull/76507))
 * Refactor: Remove unnecessary parameter `avatar` ([#76498](https://github.com/CleverRaven/Cataclysm-DDA/pull/76498))
 * Replace activity `ACT_ADV_INVENTORY` with `uistate.open_menu`, remove `ACT_VIEW_RECIPE` ([#76490](https://github.com/CleverRaven/Cataclysm-DDA/pull/76490))
-* Can't grab a solid vehicle while boarding it ([#76482](https://github.com/CleverRaven/Cataclysm-DDA/pull/76482))
 * Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
 * Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
 * [Xedra Evolved] Add more Brownie changeling traits +bugfixes ([#76484](https://github.com/CleverRaven/Cataclysm-DDA/pull/76484))
-* [Magiclysm] Feral ravenfolk are blinged out ([#76483](https://github.com/CleverRaven/Cataclysm-DDA/pull/76483))
-* [DinoMod] monster attack fixes ([#76480](https://github.com/CleverRaven/Cataclysm-DDA/pull/76480))
-* Fix some random NPC's mission ([#76478](https://github.com/CleverRaven/Cataclysm-DDA/pull/76478))
