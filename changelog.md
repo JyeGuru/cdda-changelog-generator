@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-28-2040 ([5213009](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-28-2040))
+
+* Make the three types of sand and gravel mounds connect ([#76709](https://github.com/CleverRaven/Cataclysm-DDA/pull/76709))
 * fix gun shy trait ([#76660](https://github.com/CleverRaven/Cataclysm-DDA/pull/76660))
 * Amending item: vibrator ([#76691](https://github.com/CleverRaven/Cataclysm-DDA/pull/76691))
 * Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))
@@ -143,11 +149,6 @@
 #### Cataclysm-DDA experimental build 2024-09-22-2034 ([50a97f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-2034))
 
 * Made Scout a starting trait ([#76587](https://github.com/CleverRaven/Cataclysm-DDA/pull/76587))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-22-1843 ([04238c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-1843))
-
 * [Aftershock] Handle welding requirements via ``extend`` instead of overwriting vanilla ([#76611](https://github.com/CleverRaven/Cataclysm-DDA/pull/76611))
 * [Magiclysm] Add Catoblepas monster ([#76530](https://github.com/CleverRaven/Cataclysm-DDA/pull/76530))
 * [Magiclysm] Fantasy species zombies ([#76569](https://github.com/CleverRaven/Cataclysm-DDA/pull/76569))
@@ -199,5 +200,4 @@
 * Removed some leftover commented-out code ([#76545](https://github.com/CleverRaven/Cataclysm-DDA/pull/76545))
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag ([#76501](https://github.com/CleverRaven/Cataclysm-DDA/pull/76501))
 * [MoM] Fix channeling-modifying traits math ([#76519](https://github.com/CleverRaven/Cataclysm-DDA/pull/76519))
-* discount loaded ammo from smoking rack even when not allowing removal ([#76500](https://github.com/CleverRaven/Cataclysm-DDA/pull/76500))
 * Remove open container flag from vacuum sealed bags ([#76507](https://github.com/CleverRaven/Cataclysm-DDA/pull/76507))
