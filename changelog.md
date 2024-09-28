@@ -149,11 +149,6 @@
 #### Cataclysm-DDA experimental build 2024-09-22-1843 ([04238c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-1843))
 
 * [Aftershock] Handle welding requirements via ``extend`` instead of overwriting vanilla ([#76611](https://github.com/CleverRaven/Cataclysm-DDA/pull/76611))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-22-1658 ([45d31e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-1658))
-
 * [Magiclysm] Add Catoblepas monster ([#76530](https://github.com/CleverRaven/Cataclysm-DDA/pull/76530))
 * [Magiclysm] Fantasy species zombies ([#76569](https://github.com/CleverRaven/Cataclysm-DDA/pull/76569))
 * [Bombastic] Add All Terrain Perk ([#76599](https://github.com/CleverRaven/Cataclysm-DDA/pull/76599))
