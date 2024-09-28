@@ -1,3 +1,4 @@
+* Don't extract the remaining abstract things (#76702)
 
 Cataclysm-DDA experimental build 2024-09-28-2040 (5213009)
 * Make the three types of sand and gravel mounds connect (#76709)
@@ -132,6 +133,5 @@ Cataclysm-DDA experimental build 2024-09-22-2034 (50a97f7)
 * [Sky Island] Fix climate control (#76539)
 * Update NPC_Aleesha_Seward.json (#76515)
 * Removed some leftover commented-out code (#76545)
-* [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag (#76501)
 * [MoM] Fix channeling-modifying traits math (#76519)
 * Remove open container flag from vacuum sealed bags (#76507)

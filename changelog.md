@@ -1,3 +1,4 @@
+* Don't extract the remaining abstract things ([#76702](https://github.com/CleverRaven/Cataclysm-DDA/pull/76702))
 
 ---
 
@@ -198,6 +199,5 @@
 * [Sky Island] Fix climate control ([#76539](https://github.com/CleverRaven/Cataclysm-DDA/pull/76539))
 * Update NPC_Aleesha_Seward.json ([#76515](https://github.com/CleverRaven/Cataclysm-DDA/pull/76515))
 * Removed some leftover commented-out code ([#76545](https://github.com/CleverRaven/Cataclysm-DDA/pull/76545))
-* [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag ([#76501](https://github.com/CleverRaven/Cataclysm-DDA/pull/76501))
 * [MoM] Fix channeling-modifying traits math ([#76519](https://github.com/CleverRaven/Cataclysm-DDA/pull/76519))
 * Remove open container flag from vacuum sealed bags ([#76507](https://github.com/CleverRaven/Cataclysm-DDA/pull/76507))
