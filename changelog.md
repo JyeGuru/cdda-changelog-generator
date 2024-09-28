@@ -125,11 +125,6 @@
 
 * Remove SUN_GLASSES flag from all survivor half masks  ([#76618](https://github.com/CleverRaven/Cataclysm-DDA/pull/76618))
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-22-2259 ([14edf5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-22-2259))
-
 * Backport #76478 ([#76607](https://github.com/CleverRaven/Cataclysm-DDA/pull/76607))
 
 ---
