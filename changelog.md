@@ -1,3 +1,14 @@
+* fix gun shy trait ([#76660](https://github.com/CleverRaven/Cataclysm-DDA/pull/76660))
+* Amending item: vibrator ([#76691](https://github.com/CleverRaven/Cataclysm-DDA/pull/76691))
+* Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))
+* Fix mission reference to nonexistent om_terrain ([#76684](https://github.com/CleverRaven/Cataclysm-DDA/pull/76684))
+* Extract blood analysis descriptions and end screen text ([#76676](https://github.com/CleverRaven/Cataclysm-DDA/pull/76676))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-28-1600 ([82c06b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-28-1600))
+
+* [Isolation Protocol] Add Bionic Vampire class ([#76621](https://github.com/CleverRaven/Cataclysm-DDA/pull/76621))
 
 ---
 
@@ -149,11 +160,6 @@
 * [Magiclysm] Move yulecat to holiday spawns ([#76601](https://github.com/CleverRaven/Cataclysm-DDA/pull/76601))
 * Rodentkin fixes ([#76556](https://github.com/CleverRaven/Cataclysm-DDA/pull/76556))
 * Removed POLEARMS weapon category from big number of weapons in spears_and_polearms.json ([#76590](https://github.com/CleverRaven/Cataclysm-DDA/pull/76590))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-22-1507 ([db64136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-22-1507))
-
 * [XE/Magiclysm] No wizard cats ([#76598](https://github.com/CleverRaven/Cataclysm-DDA/pull/76598))
 * Backport: Fix item auto pickup condition for npc ([#76543](https://github.com/CleverRaven/Cataclysm-DDA/pull/76543))
 * MORPHIC Sizing Flag ([#76560](https://github.com/CleverRaven/Cataclysm-DDA/pull/76560))
@@ -198,10 +204,5 @@
 * Removed some leftover commented-out code ([#76545](https://github.com/CleverRaven/Cataclysm-DDA/pull/76545))
 * [MoM] Replace specific effect check in monster powers with check for `NO_PSIONICS` flag ([#76501](https://github.com/CleverRaven/Cataclysm-DDA/pull/76501))
 * [MoM] Fix channeling-modifying traits math ([#76519](https://github.com/CleverRaven/Cataclysm-DDA/pull/76519))
-* [Magiclysm] Add `NO_SPELLCASTING` flag to magic-using monster conditions ([#76497](https://github.com/CleverRaven/Cataclysm-DDA/pull/76497))
 * discount loaded ammo from smoking rack even when not allowing removal ([#76500](https://github.com/CleverRaven/Cataclysm-DDA/pull/76500))
 * Remove open container flag from vacuum sealed bags ([#76507](https://github.com/CleverRaven/Cataclysm-DDA/pull/76507))
-* Refactor: Remove unnecessary parameter `avatar` ([#76498](https://github.com/CleverRaven/Cataclysm-DDA/pull/76498))
-* Replace activity `ACT_ADV_INVENTORY` with `uistate.open_menu`, remove `ACT_VIEW_RECIPE` ([#76490](https://github.com/CleverRaven/Cataclysm-DDA/pull/76490))
-* Update JSON_INFO.md ([#76491](https://github.com/CleverRaven/Cataclysm-DDA/pull/76491))
-* Update MAGIC.md ([#76493](https://github.com/CleverRaven/Cataclysm-DDA/pull/76493))
