@@ -1,3 +1,4 @@
+* Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file ([#76713](https://github.com/CleverRaven/Cataclysm-DDA/pull/76713))
 
 ---
 
@@ -187,7 +188,6 @@
 * [Magiclysm] Add cat form as possible shifter druid form ([#76565](https://github.com/CleverRaven/Cataclysm-DDA/pull/76565))
 * Enhance battery.json : Improve consistency in descriptions and naming ([#76567](https://github.com/CleverRaven/Cataclysm-DDA/pull/76567))
 * Add myself to GitHub commands ([#76568](https://github.com/CleverRaven/Cataclysm-DDA/pull/76568))
-* [Xedra Evolved] Add more pooka changeling traits ([#76503](https://github.com/CleverRaven/Cataclysm-DDA/pull/76503))
 * Fixes Ierde's allergy to their own spell. ([#76537](https://github.com/CleverRaven/Cataclysm-DDA/pull/76537))
 * Remove death drops for whispering fungi ([#76564](https://github.com/CleverRaven/Cataclysm-DDA/pull/76564))
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
