@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-29-1908 (3901005)
 * Clang-tidy fix for #76696 (#76719)
 
 Cataclysm-DDA experimental build 2024-09-29-0806 (26de5a1)

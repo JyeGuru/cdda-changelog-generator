@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-29-1908 ([3901005](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-29-1908))
+
 * Clang-tidy fix for #76696 ([#76719](https://github.com/CleverRaven/Cataclysm-DDA/pull/76719))
 
 ---
