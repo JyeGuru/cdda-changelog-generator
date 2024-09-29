@@ -1,3 +1,4 @@
+* Clang-tidy fix for #76696 ([#76719](https://github.com/CleverRaven/Cataclysm-DDA/pull/76719))
 
 ---
 
@@ -162,11 +163,6 @@
 * Remove duplicate line in changelog.txt ([#76628](https://github.com/CleverRaven/Cataclysm-DDA/pull/76628))
 * [Magiclysm] Earthshapers cannot Stone Slumber unsafely ([#76615](https://github.com/CleverRaven/Cataclysm-DDA/pull/76615))
 * Fix the Kord mission ([#76626](https://github.com/CleverRaven/Cataclysm-DDA/pull/76626))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-23-0356 ([194ca27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-23-0356))
-
 * Remove SUN_GLASSES flag from all survivor half masks  ([#76618](https://github.com/CleverRaven/Cataclysm-DDA/pull/76618))
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
 * Backport #76478 ([#76607](https://github.com/CleverRaven/Cataclysm-DDA/pull/76607))
@@ -191,7 +187,6 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* Gun-shy ([#76536](https://github.com/CleverRaven/Cataclysm-DDA/pull/76536))
 * Move the plastic bag ascii image to shopping bag ([#76538](https://github.com/CleverRaven/Cataclysm-DDA/pull/76538))
 * Updated Bird Wings mutation description ([#76546](https://github.com/CleverRaven/Cataclysm-DDA/pull/76546))
 * fix hallucinations making you speak with items in your hands if you have nothing in your hands ([#76548](https://github.com/CleverRaven/Cataclysm-DDA/pull/76548))
