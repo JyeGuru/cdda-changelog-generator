@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-29-2237 ([454846f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-29-2237))
+
+* Add Garter Belt Variant ([#76704](https://github.com/CleverRaven/Cataclysm-DDA/pull/76704))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-29-1908 ([3901005](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-29-1908))
 
 * Clang-tidy fix for #76696 ([#76719](https://github.com/CleverRaven/Cataclysm-DDA/pull/76719))
@@ -157,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2024-09-24-1228 ([27992ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-1228))
 
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing ([#76631](https://github.com/CleverRaven/Cataclysm-DDA/pull/76631))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-24-0351 ([cc46ab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-0351))
-
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
 * Replace activity `ACT_PICKUP_MENU` with `uistate.open_menu` ([#76610](https://github.com/CleverRaven/Cataclysm-DDA/pull/76610))
 * Fix error popping up when trying to draw blood from acidic zombie ([#76625](https://github.com/CleverRaven/Cataclysm-DDA/pull/76625))
@@ -192,7 +193,6 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* Move the plastic bag ascii image to shopping bag ([#76538](https://github.com/CleverRaven/Cataclysm-DDA/pull/76538))
 * Updated Bird Wings mutation description ([#76546](https://github.com/CleverRaven/Cataclysm-DDA/pull/76546))
 * fix hallucinations making you speak with items in your hands if you have nothing in your hands ([#76548](https://github.com/CleverRaven/Cataclysm-DDA/pull/76548))
 * HULK NO SMASH! fungal spires ([#76549](https://github.com/CleverRaven/Cataclysm-DDA/pull/76549))
