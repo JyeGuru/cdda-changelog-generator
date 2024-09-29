@@ -1,3 +1,4 @@
+* Routine i18n updates on 28 September 2024 ([#76699](https://github.com/CleverRaven/Cataclysm-DDA/pull/76699))
 * Use typed tripoints in magic.h and adjacent code ([#76696](https://github.com/CleverRaven/Cataclysm-DDA/pull/76696))
 * Debug menu: dialogue menu + talk_topic menu ([#76566](https://github.com/CleverRaven/Cataclysm-DDA/pull/76566))
 * Plastic tub audit ([#76596](https://github.com/CleverRaven/Cataclysm-DDA/pull/76596))
@@ -184,7 +185,6 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* Fix item auto pickup for npc ([#76532](https://github.com/CleverRaven/Cataclysm-DDA/pull/76532))
 * Gun-shy ([#76536](https://github.com/CleverRaven/Cataclysm-DDA/pull/76536))
 * Move the plastic bag ascii image to shopping bag ([#76538](https://github.com/CleverRaven/Cataclysm-DDA/pull/76538))
 * Updated Bird Wings mutation description ([#76546](https://github.com/CleverRaven/Cataclysm-DDA/pull/76546))
