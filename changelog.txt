@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-29-0806 (26de5a1)
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources (#76697)
 * Routine i18n updates on 28 September 2024 (#76699)
 * Use typed tripoints in magic.h and adjacent code (#76696)
