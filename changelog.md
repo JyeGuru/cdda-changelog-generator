@@ -199,7 +199,6 @@
 * [Magiclysm] Add cat form as possible shifter druid form ([#76565](https://github.com/CleverRaven/Cataclysm-DDA/pull/76565))
 * Enhance battery.json : Improve consistency in descriptions and naming ([#76567](https://github.com/CleverRaven/Cataclysm-DDA/pull/76567))
 * Add myself to GitHub commands ([#76568](https://github.com/CleverRaven/Cataclysm-DDA/pull/76568))
-* Fixes Ierde's allergy to their own spell. ([#76537](https://github.com/CleverRaven/Cataclysm-DDA/pull/76537))
 * Remove death drops for whispering fungi ([#76564](https://github.com/CleverRaven/Cataclysm-DDA/pull/76564))
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
 * [Magiclysm] Add Mana Extraction classless spell ([#76559](https://github.com/CleverRaven/Cataclysm-DDA/pull/76559))
