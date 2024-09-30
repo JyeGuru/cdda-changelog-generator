@@ -157,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2024-09-24-1425 ([c4bbf99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-1425))
 
 * [Xedra Evolved] Werewolves only regenerate when they need to ([#76630](https://github.com/CleverRaven/Cataclysm-DDA/pull/76630))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-24-1228 ([27992ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-1228))
-
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing ([#76631](https://github.com/CleverRaven/Cataclysm-DDA/pull/76631))
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
 * Replace activity `ACT_PICKUP_MENU` with `uistate.open_menu` ([#76610](https://github.com/CleverRaven/Cataclysm-DDA/pull/76610))
