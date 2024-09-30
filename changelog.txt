@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-09-30-1520 (45a93aa)
+* Fix condition of learning mortar recipe from cement bag (#76741)
 * Audit/NO_I18N for effects.json (#76698)
 
 Cataclysm-DDA 0.H release candidate 2024-09-30-0411 (71dcd14)
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2024-09-25-0334 (c05979c)
 
 Cataclysm-DDA experimental build 2024-09-24-2221 (78ebcd0)
 * [MoM] Add remaining matrix elixirs, add more drops (#76633)
-
-Cataclysm-DDA experimental build 2024-09-24-1915 (7ee3ce7)
 * Weekly Changelog 2024-09-16 to 2024-09-23 (#76622)
 * [Xedra Evolved] Werewolves only regenerate when they need to (#76630)
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing (#76631)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2024-09-24-1915 (7ee3ce7)
 * [Magiclysm] Add Mana Extraction classless spell (#76559)
 * Homemade corn dog audit (#76562)
 * Fix unobtainable gas mask ammo drop (#76551)
-* Removed some leftover commented-out code (#76545)
