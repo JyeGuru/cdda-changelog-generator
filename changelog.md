@@ -1,3 +1,11 @@
+* Audit/NO_I18N for effects.json ([#76698](https://github.com/CleverRaven/Cataclysm-DDA/pull/76698))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-30-0411 ([71dcd14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-30-0411))
+
+* Backport "Don't unnecessarily copy items in a tight loop in get_uncraft_components" ([#76603](https://github.com/CleverRaven/Cataclysm-DDA/pull/76603))
+* Closes #76534 Hair Growth After Haircutting is normal now. ([#76705](https://github.com/CleverRaven/Cataclysm-DDA/pull/76705))
 
 ---
 
@@ -151,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-09-24-1915 ([7ee3ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-1915))
 
 * Weekly Changelog 2024-09-16 to 2024-09-23 ([#76622](https://github.com/CleverRaven/Cataclysm-DDA/pull/76622))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-24-1425 ([c4bbf99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-24-1425))
-
 * [Xedra Evolved] Werewolves only regenerate when they need to ([#76630](https://github.com/CleverRaven/Cataclysm-DDA/pull/76630))
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing ([#76631](https://github.com/CleverRaven/Cataclysm-DDA/pull/76631))
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
@@ -175,7 +178,6 @@
 * Rodentkin fixes ([#76556](https://github.com/CleverRaven/Cataclysm-DDA/pull/76556))
 * Removed POLEARMS weapon category from big number of weapons in spears_and_polearms.json ([#76590](https://github.com/CleverRaven/Cataclysm-DDA/pull/76590))
 * [XE/Magiclysm] No wizard cats ([#76598](https://github.com/CleverRaven/Cataclysm-DDA/pull/76598))
-* Backport: Fix item auto pickup condition for npc ([#76543](https://github.com/CleverRaven/Cataclysm-DDA/pull/76543))
 * MORPHIC Sizing Flag ([#76560](https://github.com/CleverRaven/Cataclysm-DDA/pull/76560))
 * Fixes Judge Ammo Error ([#76593](https://github.com/CleverRaven/Cataclysm-DDA/pull/76593))
 * Added notes for constructing dummies ([#76584](https://github.com/CleverRaven/Cataclysm-DDA/pull/76584))
@@ -204,6 +206,4 @@
 * [Magiclysm] Add Mana Extraction classless spell ([#76559](https://github.com/CleverRaven/Cataclysm-DDA/pull/76559))
 * Homemade corn dog audit ([#76562](https://github.com/CleverRaven/Cataclysm-DDA/pull/76562))
 * Fix unobtainable gas mask ammo drop ([#76551](https://github.com/CleverRaven/Cataclysm-DDA/pull/76551))
-* Multimeters & Voltmeters Power Draw Rebalance ([#76544](https://github.com/CleverRaven/Cataclysm-DDA/pull/76544))
-* [Sky Island] Fix climate control ([#76539](https://github.com/CleverRaven/Cataclysm-DDA/pull/76539))
 * Removed some leftover commented-out code ([#76545](https://github.com/CleverRaven/Cataclysm-DDA/pull/76545))
