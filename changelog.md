@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-01-1424 ([45b3b4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-01-1424))
+
+* New end screens ! ([#76732](https://github.com/CleverRaven/Cataclysm-DDA/pull/76732))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-01-0515 ([62d3a93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-01-0515))
 
 * Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))
@@ -153,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-09-25-0552 ([a4182b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-0552))
 
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-25-0334 ([c05979c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-0334))
-
 * Adjust trap difficulty ([#76638](https://github.com/CleverRaven/Cataclysm-DDA/pull/76638))
 * [MoM] Add remaining matrix elixirs, add more drops ([#76633](https://github.com/CleverRaven/Cataclysm-DDA/pull/76633))
 * Weekly Changelog 2024-09-16 to 2024-09-23 ([#76622](https://github.com/CleverRaven/Cataclysm-DDA/pull/76622))
@@ -192,7 +193,6 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* fix hallucinations making you speak with items in your hands if you have nothing in your hands ([#76548](https://github.com/CleverRaven/Cataclysm-DDA/pull/76548))
 * HULK NO SMASH! fungal spires ([#76549](https://github.com/CleverRaven/Cataclysm-DDA/pull/76549))
 * [Magiclysm] Deer form update for natural stance ([#76553](https://github.com/CleverRaven/Cataclysm-DDA/pull/76553))
 * [Xedra Evolved] Ethereal wings actually let you fly ([#76554](https://github.com/CleverRaven/Cataclysm-DDA/pull/76554))
