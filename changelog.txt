@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-01-0515 (62d3a93)
+* Routine tileset updates on 01 October 2024 (#76749)
+
 Cataclysm-DDA experimental build 2024-09-30-1520 (45a93aa)
 * Fix condition of learning mortar recipe from cement bag (#76741)
 * Audit/NO_I18N for effects.json (#76698)
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2024-09-25-0552 (a4182b7)
 
 Cataclysm-DDA experimental build 2024-09-25-0334 (c05979c)
 * Adjust trap difficulty (#76638)
-
-Cataclysm-DDA experimental build 2024-09-24-2221 (78ebcd0)
 * [MoM] Add remaining matrix elixirs, add more drops (#76633)
 * Weekly Changelog 2024-09-16 to 2024-09-23 (#76622)
 * [Xedra Evolved] Werewolves only regenerate when they need to (#76630)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2024-09-24-2221 (78ebcd0)
 * [XEDRA Evolved] Gracken Self-Defense (#76570)
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components (#76574)
 * Routine i18n updates on 21 September 2024 (#76578)
-* Updated Bird Wings mutation description (#76546)
 * fix hallucinations making you speak with items in your hands if you have nothing in your hands (#76548)
 * HULK NO SMASH! fungal spires (#76549)
 * [Magiclysm] Deer form update for natural stance (#76553)
