@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-01-1948 ([800b756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-01-1948))
+
 * Override dont change the names of monsters to the old ones ([#76737](https://github.com/CleverRaven/Cataclysm-DDA/pull/76737))
 * HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
 * Remove the baseball with barbed wire wrapped around it ([#76745](https://github.com/CleverRaven/Cataclysm-DDA/pull/76745))
@@ -153,11 +158,6 @@
 * Use typed tripoints in npcmove and adjacent code ([#76623](https://github.com/CleverRaven/Cataclysm-DDA/pull/76623))
 * Fix changelog containing duplicate entries ([#76649](https://github.com/CleverRaven/Cataclysm-DDA/pull/76649))
 * [MoM] Blazing Aura is an actual aura effect and harms anyone nearby ([#76648](https://github.com/CleverRaven/Cataclysm-DDA/pull/76648))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-25-2153 ([b974155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-2153))
-
 * Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 ([#76647](https://github.com/CleverRaven/Cataclysm-DDA/pull/76647))
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
 * Adjust trap difficulty ([#76638](https://github.com/CleverRaven/Cataclysm-DDA/pull/76638))
