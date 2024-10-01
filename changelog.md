@@ -1,3 +1,4 @@
+* Override dont change the names of monsters to the old ones ([#76737](https://github.com/CleverRaven/Cataclysm-DDA/pull/76737))
 * HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
 * Remove the baseball with barbed wire wrapped around it ([#76745](https://github.com/CleverRaven/Cataclysm-DDA/pull/76745))
 * [DinoMod] sauropods out of the water ([#76639](https://github.com/CleverRaven/Cataclysm-DDA/pull/76639))
@@ -178,7 +179,6 @@
 * [Magiclysm] Fantasy species zombies ([#76569](https://github.com/CleverRaven/Cataclysm-DDA/pull/76569))
 * [Bombastic] Add All Terrain Perk ([#76599](https://github.com/CleverRaven/Cataclysm-DDA/pull/76599))
 * [Magiclysm] Move yulecat to holiday spawns ([#76601](https://github.com/CleverRaven/Cataclysm-DDA/pull/76601))
-* Rodentkin fixes ([#76556](https://github.com/CleverRaven/Cataclysm-DDA/pull/76556))
 * Removed POLEARMS weapon category from big number of weapons in spears_and_polearms.json ([#76590](https://github.com/CleverRaven/Cataclysm-DDA/pull/76590))
 * [XE/Magiclysm] No wizard cats ([#76598](https://github.com/CleverRaven/Cataclysm-DDA/pull/76598))
 * MORPHIC Sizing Flag ([#76560](https://github.com/CleverRaven/Cataclysm-DDA/pull/76560))
