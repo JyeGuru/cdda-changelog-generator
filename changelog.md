@@ -1,3 +1,6 @@
+* [DinoMod] sauropods out of the water ([#76639](https://github.com/CleverRaven/Cataclysm-DDA/pull/76639))
+* [DinoMod] longer tail attacks ([#76716](https://github.com/CleverRaven/Cataclysm-DDA/pull/76716))
+* Update NPCs.md ([#76750](https://github.com/CleverRaven/Cataclysm-DDA/pull/76750))
 
 ---
 
@@ -193,8 +196,6 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* HULK NO SMASH! fungal spires ([#76549](https://github.com/CleverRaven/Cataclysm-DDA/pull/76549))
-* [Magiclysm] Deer form update for natural stance ([#76553](https://github.com/CleverRaven/Cataclysm-DDA/pull/76553))
 * [Xedra Evolved] Ethereal wings actually let you fly ([#76554](https://github.com/CleverRaven/Cataclysm-DDA/pull/76554))
 * New characters get random natural hair color during character generation ([#76555](https://github.com/CleverRaven/Cataclysm-DDA/pull/76555))
 * [Magiclysm] Add two magical rings ([#76561](https://github.com/CleverRaven/Cataclysm-DDA/pull/76561))
@@ -206,4 +207,3 @@
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
 * [Magiclysm] Add Mana Extraction classless spell ([#76559](https://github.com/CleverRaven/Cataclysm-DDA/pull/76559))
 * Homemade corn dog audit ([#76562](https://github.com/CleverRaven/Cataclysm-DDA/pull/76562))
-* Fix unobtainable gas mask ammo drop ([#76551](https://github.com/CleverRaven/Cataclysm-DDA/pull/76551))
