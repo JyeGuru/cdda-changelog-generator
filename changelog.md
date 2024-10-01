@@ -1,3 +1,4 @@
+* HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
 * Remove the baseball with barbed wire wrapped around it ([#76745](https://github.com/CleverRaven/Cataclysm-DDA/pull/76745))
 * [DinoMod] sauropods out of the water ([#76639](https://github.com/CleverRaven/Cataclysm-DDA/pull/76639))
 * [DinoMod] longer tail attacks ([#76716](https://github.com/CleverRaven/Cataclysm-DDA/pull/76716))
@@ -192,7 +193,6 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* New characters get random natural hair color during character generation ([#76555](https://github.com/CleverRaven/Cataclysm-DDA/pull/76555))
 * [Magiclysm] Add two magical rings ([#76561](https://github.com/CleverRaven/Cataclysm-DDA/pull/76561))
 * Snippet typo fixes ([#76563](https://github.com/CleverRaven/Cataclysm-DDA/pull/76563))
 * [Magiclysm] Add cat form as possible shifter druid form ([#76565](https://github.com/CleverRaven/Cataclysm-DDA/pull/76565))
