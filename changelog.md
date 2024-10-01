@@ -156,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2024-09-25-2153 ([b974155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-2153))
 
 * Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 ([#76647](https://github.com/CleverRaven/Cataclysm-DDA/pull/76647))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-25-0552 ([a4182b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-25-0552))
-
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
 * Adjust trap difficulty ([#76638](https://github.com/CleverRaven/Cataclysm-DDA/pull/76638))
 * [MoM] Add remaining matrix elixirs, add more drops ([#76633](https://github.com/CleverRaven/Cataclysm-DDA/pull/76633))
