@@ -1,3 +1,4 @@
+* Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
 * Flagify animal empathy/discord traits ([#76661](https://github.com/CleverRaven/Cataclysm-DDA/pull/76661))
 
 ---
@@ -196,7 +197,6 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* [Magiclysm] Add cat form as possible shifter druid form ([#76565](https://github.com/CleverRaven/Cataclysm-DDA/pull/76565))
 * Enhance battery.json : Improve consistency in descriptions and naming ([#76567](https://github.com/CleverRaven/Cataclysm-DDA/pull/76567))
 * Add myself to GitHub commands ([#76568](https://github.com/CleverRaven/Cataclysm-DDA/pull/76568))
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
