@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-02-1516 ([e50203b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-1516))
+
+* Gun spawn overhaul ([#76714](https://github.com/CleverRaven/Cataclysm-DDA/pull/76714))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-02-0553 ([558f770](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-0553))
 
 * [MoM] Add the unstoppable force (final rank feral telekinetic) ([#76667](https://github.com/CleverRaven/Cataclysm-DDA/pull/76667))
@@ -152,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2024-09-26-2116 ([523bc28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-2116))
 
 * [XEDRA Evolved] Adds MORPHIC flag to all Mad Genius equipment ([#76600](https://github.com/CleverRaven/Cataclysm-DDA/pull/76600))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-26-1840 ([d127432](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-1840))
-
 * Night vision goggles no longer draw green overlay after their batteries ran out of energy ([#76657](https://github.com/CleverRaven/Cataclysm-DDA/pull/76657))
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
 * Adjusted item grid connection points on grid merge ([#76644](https://github.com/CleverRaven/Cataclysm-DDA/pull/76644))
@@ -196,7 +197,6 @@
 * Martial Mastery: Nerf Insight Stacking from Sixth Sense ([#76583](https://github.com/CleverRaven/Cataclysm-DDA/pull/76583))
 * Fix zone dialog missing for translation ([#76580](https://github.com/CleverRaven/Cataclysm-DDA/pull/76580))
 * Add shopping bags to the kitchen ([#76577](https://github.com/CleverRaven/Cataclysm-DDA/pull/76577))
-* [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
