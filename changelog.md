@@ -1,3 +1,4 @@
+* [MoM] Add the unstoppable force (final rank feral telekinetic) ([#76667](https://github.com/CleverRaven/Cataclysm-DDA/pull/76667))
 * [Isolation Protocol] Fix trailing spaces ([#76760](https://github.com/CleverRaven/Cataclysm-DDA/pull/76760))
 * Removed obsoleted faction camp stuff ([#76753](https://github.com/CleverRaven/Cataclysm-DDA/pull/76753))
 * Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
@@ -183,7 +184,6 @@
 * Backport #76478 ([#76607](https://github.com/CleverRaven/Cataclysm-DDA/pull/76607))
 * Made Scout a starting trait ([#76587](https://github.com/CleverRaven/Cataclysm-DDA/pull/76587))
 * [Aftershock] Handle welding requirements via ``extend`` instead of overwriting vanilla ([#76611](https://github.com/CleverRaven/Cataclysm-DDA/pull/76611))
-* [Magiclysm] Fantasy species zombies ([#76569](https://github.com/CleverRaven/Cataclysm-DDA/pull/76569))
 * [Bombastic] Add All Terrain Perk ([#76599](https://github.com/CleverRaven/Cataclysm-DDA/pull/76599))
 * [Magiclysm] Move yulecat to holiday spawns ([#76601](https://github.com/CleverRaven/Cataclysm-DDA/pull/76601))
 * Removed POLEARMS weapon category from big number of weapons in spears_and_polearms.json ([#76590](https://github.com/CleverRaven/Cataclysm-DDA/pull/76590))
