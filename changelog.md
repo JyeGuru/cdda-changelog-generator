@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-02-1800 ([98b100c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-1800))
+
 * Fix all cameras not having a charge action ([#76762](https://github.com/CleverRaven/Cataclysm-DDA/pull/76762))
 * Dialogue debug: toggle display of conditionals/effects ([#76681](https://github.com/CleverRaven/Cataclysm-DDA/pull/76681))
 
@@ -154,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-09-27-0126 ([a335913](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-0126))
 
 * Added check for stealing prior to wearing ([#76675](https://github.com/CleverRaven/Cataclysm-DDA/pull/76675))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-26-2116 ([523bc28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-2116))
-
 * [XEDRA Evolved] Adds MORPHIC flag to all Mad Genius equipment ([#76600](https://github.com/CleverRaven/Cataclysm-DDA/pull/76600))
 * Night vision goggles no longer draw green overlay after their batteries ran out of energy ([#76657](https://github.com/CleverRaven/Cataclysm-DDA/pull/76657))
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-02-1800 (98b100c)
 * Fix all cameras not having a charge action (#76762)
 * Dialogue debug: toggle display of conditionals/effects (#76681)
 
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2024-09-27-0318 (b4ca7ca)
 
 Cataclysm-DDA experimental build 2024-09-27-0126 (a335913)
 * Added check for stealing prior to wearing (#76675)
-
-Cataclysm-DDA experimental build 2024-09-26-2116 (523bc28)
 * [XEDRA Evolved] Adds MORPHIC flag to all Mad Genius equipment (#76600)
 * Night vision goggles no longer draw green overlay after their batteries ran out of energy (#76657)
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture (#76677)
