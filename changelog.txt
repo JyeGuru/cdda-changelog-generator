@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-02-0553 (558f770)
 * [MoM] Add the unstoppable force (final rank feral telekinetic) (#76667)
 * [Isolation Protocol] Fix trailing spaces (#76760)
 * Removed obsoleted faction camp stuff (#76753)
