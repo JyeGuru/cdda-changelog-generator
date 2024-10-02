@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-02-2303 (05365a3)
+* replace landmines with beartraps in the bandit cabin (#76768)
+
 Cataclysm-DDA experimental build 2024-10-02-2002 (b65db27)
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power (#76773)
 * Clarify that artifact effects should be hidden (#76774)
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2024-09-27-1722 (3c56e3c)
 
 Cataclysm-DDA experimental build 2024-09-27-0529 (918a370)
 * [DinoMod] tougher day 3 predators (#76634)
-
-Cataclysm-DDA experimental build 2024-09-27-0318 (b4ca7ca)
 * Magiclysm] Add Bracers of Archery (#76663)
 * [Magiclysm] Goblins and dwarves can craft in the dark (#76669)
 * Reset forced temperature on save and quit from tutorial world (#76674)
@@ -133,4 +134,3 @@ Cataclysm-DDA experimental build 2024-09-27-0318 (b4ca7ca)
 * Bows don't accept ergonomic grip (#76591)
 * Martial Mastery: Fix Insight Message Spam (#76581)
 * Martial Mastery: Nerf Insight Stacking from Sixth Sense (#76583)
-* Fix zone dialog missing for translation (#76580)
