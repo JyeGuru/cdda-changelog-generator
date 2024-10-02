@@ -1,3 +1,5 @@
+* Fix all cameras not having a charge action (#76762)
+* Dialogue debug: toggle display of conditionals/effects (#76681)
 
 Cataclysm-DDA experimental build 2024-10-02-1516 (e50203b)
 * Gun spawn overhaul (#76714)
@@ -131,6 +133,4 @@ Cataclysm-DDA experimental build 2024-09-26-2116 (523bc28)
 * Martial Mastery: Nerf Insight Stacking from Sixth Sense (#76583)
 * Fix zone dialog missing for translation (#76580)
 * Add shopping bags to the kitchen (#76577)
-* Don't unnecessarily copy items in a tight loop in get_uncraft_components (#76574)
 * Routine i18n updates on 21 September 2024 (#76578)
-* Remove missed RM121 references (#76573)
