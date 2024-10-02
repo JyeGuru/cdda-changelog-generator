@@ -1,3 +1,6 @@
+* [Isolation Protocol] Fix trailing spaces ([#76760](https://github.com/CleverRaven/Cataclysm-DDA/pull/76760))
+* Removed obsoleted faction camp stuff ([#76753](https://github.com/CleverRaven/Cataclysm-DDA/pull/76753))
+* Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
 * Flagify animal empathy/discord traits ([#76661](https://github.com/CleverRaven/Cataclysm-DDA/pull/76661))
 
@@ -70,7 +73,6 @@
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources ([#76697](https://github.com/CleverRaven/Cataclysm-DDA/pull/76697))
 * Routine i18n updates on 28 September 2024 ([#76699](https://github.com/CleverRaven/Cataclysm-DDA/pull/76699))
 * Use typed tripoints in magic.h and adjacent code ([#76696](https://github.com/CleverRaven/Cataclysm-DDA/pull/76696))
-* Debug menu: dialogue menu + talk_topic menu ([#76566](https://github.com/CleverRaven/Cataclysm-DDA/pull/76566))
 * Plastic tub audit ([#76596](https://github.com/CleverRaven/Cataclysm-DDA/pull/76596))
 * [Xedra Evolved] Add more Selkie powers ([#76602](https://github.com/CleverRaven/Cataclysm-DDA/pull/76602))
 * Evolution fixes part 2 ([#76636](https://github.com/CleverRaven/Cataclysm-DDA/pull/76636))
@@ -197,6 +199,4 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* Enhance battery.json : Improve consistency in descriptions and naming ([#76567](https://github.com/CleverRaven/Cataclysm-DDA/pull/76567))
-* Add myself to GitHub commands ([#76568](https://github.com/CleverRaven/Cataclysm-DDA/pull/76568))
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
