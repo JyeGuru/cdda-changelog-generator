@@ -1,3 +1,4 @@
+* [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power (#76773)
 * Clarify that artifact effects should be hidden (#76774)
 
 Cataclysm-DDA experimental build 2024-10-02-1800 (98b100c)
@@ -133,4 +134,3 @@ Cataclysm-DDA experimental build 2024-09-27-0126 (a335913)
 * Martial Mastery: Fix Insight Message Spam (#76581)
 * Martial Mastery: Nerf Insight Stacking from Sixth Sense (#76583)
 * Fix zone dialog missing for translation (#76580)
-* Routine i18n updates on 21 September 2024 (#76578)

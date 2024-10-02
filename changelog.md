@@ -1,3 +1,4 @@
+* [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power ([#76773](https://github.com/CleverRaven/Cataclysm-DDA/pull/76773))
 * Clarify that artifact effects should be hidden ([#76774](https://github.com/CleverRaven/Cataclysm-DDA/pull/76774))
 
 ---
@@ -199,4 +200,3 @@
 * Martial Mastery: Fix Insight Message Spam ([#76581](https://github.com/CleverRaven/Cataclysm-DDA/pull/76581))
 * Martial Mastery: Nerf Insight Stacking from Sixth Sense ([#76583](https://github.com/CleverRaven/Cataclysm-DDA/pull/76583))
 * Fix zone dialog missing for translation ([#76580](https://github.com/CleverRaven/Cataclysm-DDA/pull/76580))
-* Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
