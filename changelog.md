@@ -1,3 +1,12 @@
+* Flagify animal empathy/discord traits ([#76661](https://github.com/CleverRaven/Cataclysm-DDA/pull/76661))
+* [MoM] Fix Missing mind shield (0.H Backport) ([#76731](https://github.com/CleverRaven/Cataclysm-DDA/pull/76731))
+* [Magiclysm] Condense Attunement UI and simplify json code ([#76701](https://github.com/CleverRaven/Cataclysm-DDA/pull/76701))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-02-0206 ([ce658ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-0206))
+
+* Electronic devices spawn rate rework ([#76759](https://github.com/CleverRaven/Cataclysm-DDA/pull/76759))
 
 ---
 
@@ -149,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2024-09-26-0433 ([69a70a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-0433))
 
 * Dont extract abstract names for translation ([#76655](https://github.com/CleverRaven/Cataclysm-DDA/pull/76655))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-26-0016 ([c27e4b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-0016))
-
 * Dont extract monster guns and spells for translation ([#76656](https://github.com/CleverRaven/Cataclysm-DDA/pull/76656))
 * Use typed tripoints in npcmove and adjacent code ([#76623](https://github.com/CleverRaven/Cataclysm-DDA/pull/76623))
 * Fix changelog containing duplicate entries ([#76649](https://github.com/CleverRaven/Cataclysm-DDA/pull/76649))
@@ -192,11 +196,7 @@
 * [XEDRA Evolved] Gracken Self-Defense ([#76570](https://github.com/CleverRaven/Cataclysm-DDA/pull/76570))
 * Don't unnecessarily copy items in a tight loop in get_uncraft_components ([#76574](https://github.com/CleverRaven/Cataclysm-DDA/pull/76574))
 * Routine i18n updates on 21 September 2024 ([#76578](https://github.com/CleverRaven/Cataclysm-DDA/pull/76578))
-* [Magiclysm] Add two magical rings ([#76561](https://github.com/CleverRaven/Cataclysm-DDA/pull/76561))
-* Snippet typo fixes ([#76563](https://github.com/CleverRaven/Cataclysm-DDA/pull/76563))
 * [Magiclysm] Add cat form as possible shifter druid form ([#76565](https://github.com/CleverRaven/Cataclysm-DDA/pull/76565))
 * Enhance battery.json : Improve consistency in descriptions and naming ([#76567](https://github.com/CleverRaven/Cataclysm-DDA/pull/76567))
 * Add myself to GitHub commands ([#76568](https://github.com/CleverRaven/Cataclysm-DDA/pull/76568))
-* Remove death drops for whispering fungi ([#76564](https://github.com/CleverRaven/Cataclysm-DDA/pull/76564))
 * Remove missed RM121 references ([#76573](https://github.com/CleverRaven/Cataclysm-DDA/pull/76573))
-* Homemade corn dog audit ([#76562](https://github.com/CleverRaven/Cataclysm-DDA/pull/76562))
