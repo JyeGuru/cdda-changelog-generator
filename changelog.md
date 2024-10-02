@@ -1,4 +1,9 @@
 * Flagify animal empathy/discord traits ([#76661](https://github.com/CleverRaven/Cataclysm-DDA/pull/76661))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-02-0323 ([1240ace](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-02-0323))
+
 * [MoM] Fix Missing mind shield (0.H Backport) ([#76731](https://github.com/CleverRaven/Cataclysm-DDA/pull/76731))
 * [Magiclysm] Condense Attunement UI and simplify json code ([#76701](https://github.com/CleverRaven/Cataclysm-DDA/pull/76701))
 
@@ -152,11 +157,6 @@
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
 * Adjusted item grid connection points on grid merge ([#76644](https://github.com/CleverRaven/Cataclysm-DDA/pull/76644))
 * remove traps skill from construction worker ([#76666](https://github.com/CleverRaven/Cataclysm-DDA/pull/76666))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-26-0433 ([69a70a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-26-0433))
-
 * Dont extract abstract names for translation ([#76655](https://github.com/CleverRaven/Cataclysm-DDA/pull/76655))
 * Dont extract monster guns and spells for translation ([#76656](https://github.com/CleverRaven/Cataclysm-DDA/pull/76656))
 * Use typed tripoints in npcmove and adjacent code ([#76623](https://github.com/CleverRaven/Cataclysm-DDA/pull/76623))

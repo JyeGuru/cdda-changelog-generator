@@ -1,4 +1,6 @@
 * Flagify animal empathy/discord traits (#76661)
+
+Cataclysm-DDA 0.H release candidate 2024-10-02-0323 (1240ace)
 * [MoM] Fix Missing mind shield (0.H Backport) (#76731)
 * [Magiclysm] Condense Attunement UI and simplify json code (#76701)
 
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2024-09-26-1624 (55b8eb3)
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture (#76677)
 * Adjusted item grid connection points on grid merge (#76644)
 * remove traps skill from construction worker (#76666)
-
-Cataclysm-DDA experimental build 2024-09-26-0433 (69a70a6)
 * Dont extract abstract names for translation (#76655)
 * Dont extract monster guns and spells for translation (#76656)
 * Use typed tripoints in npcmove and adjacent code (#76623)
