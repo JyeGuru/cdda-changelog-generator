@@ -92,8 +92,6 @@ Cataclysm-DDA experimental build 2024-09-26-2116 (523bc28)
 
 Cataclysm-DDA experimental build 2024-09-26-1840 (d127432)
 * Night vision goggles no longer draw green overlay after their batteries ran out of energy (#76657)
-
-Cataclysm-DDA experimental build 2024-09-26-1624 (55b8eb3)
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture (#76677)
 * Adjusted item grid connection points on grid merge (#76644)
 * remove traps skill from construction worker (#76666)
