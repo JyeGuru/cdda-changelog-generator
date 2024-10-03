@@ -1,3 +1,4 @@
+* [MoM] Allow Intuitive Artisan to craft in complete darkness (because you close your eyes and let the visions take over) ([#76763](https://github.com/CleverRaven/Cataclysm-DDA/pull/76763))
 * Avoid JSON errors on Windows with no sound devices ([#76782](https://github.com/CleverRaven/Cataclysm-DDA/pull/76782))
 * [Magiclysm] Add feral stormshapers ([#76766](https://github.com/CleverRaven/Cataclysm-DDA/pull/76766))
 * Replace medication activation messages with a template ([#76775](https://github.com/CleverRaven/Cataclysm-DDA/pull/76775))
@@ -199,4 +200,3 @@
 * [Magiclysm] Move yulecat to holiday spawns ([#76601](https://github.com/CleverRaven/Cataclysm-DDA/pull/76601))
 * [XE/Magiclysm] No wizard cats ([#76598](https://github.com/CleverRaven/Cataclysm-DDA/pull/76598))
 * Fixes Judge Ammo Error ([#76593](https://github.com/CleverRaven/Cataclysm-DDA/pull/76593))
-* Bows don't accept ergonomic grip ([#76591](https://github.com/CleverRaven/Cataclysm-DDA/pull/76591))
