@@ -199,5 +199,4 @@
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
 * Backport #76478 ([#76607](https://github.com/CleverRaven/Cataclysm-DDA/pull/76607))
 * [Aftershock] Handle welding requirements via ``extend`` instead of overwriting vanilla ([#76611](https://github.com/CleverRaven/Cataclysm-DDA/pull/76611))
-* [Bombastic] Add All Terrain Perk ([#76599](https://github.com/CleverRaven/Cataclysm-DDA/pull/76599))
 * [Magiclysm] Move yulecat to holiday spawns ([#76601](https://github.com/CleverRaven/Cataclysm-DDA/pull/76601))
