@@ -167,7 +167,6 @@
 * [Magiclysm] Goblins and dwarves can craft in the dark ([#76669](https://github.com/CleverRaven/Cataclysm-DDA/pull/76669))
 * Reset forced temperature on save and quit from tutorial world ([#76674](https://github.com/CleverRaven/Cataclysm-DDA/pull/76674))
 * Added check for stealing prior to wearing ([#76675](https://github.com/CleverRaven/Cataclysm-DDA/pull/76675))
-* [XEDRA Evolved] Adds MORPHIC flag to all Mad Genius equipment ([#76600](https://github.com/CleverRaven/Cataclysm-DDA/pull/76600))
 * Night vision goggles no longer draw green overlay after their batteries ran out of energy ([#76657](https://github.com/CleverRaven/Cataclysm-DDA/pull/76657))
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
 * Adjusted item grid connection points on grid merge ([#76644](https://github.com/CleverRaven/Cataclysm-DDA/pull/76644))
