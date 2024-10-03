@@ -1,3 +1,11 @@
+* Fix CI for 0.H by not running tests with with wip limbs mod and Magiclysm together ([#76765](https://github.com/CleverRaven/Cataclysm-DDA/pull/76765))
+* Added doc to 'CARGO_PASSABLE' flag ([#76784](https://github.com/CleverRaven/Cataclysm-DDA/pull/76784))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-03-0351 ([ab829c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-03-0351))
+
+* Turn the .300 BLK X95 into 556 ([#76786](https://github.com/CleverRaven/Cataclysm-DDA/pull/76786))
 
 ---
 
@@ -152,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2024-09-27-1722 ([3c56e3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-1722))
 
 * The pair of butterfly swords are now just a butterfly sword. Singular. ([#76605](https://github.com/CleverRaven/Cataclysm-DDA/pull/76605))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-27-0529 ([918a370](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-0529))
-
 * [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
 * Magiclysm] Add Bracers of Archery ([#76663](https://github.com/CleverRaven/Cataclysm-DDA/pull/76663))
 * [Magiclysm] Goblins and dwarves can craft in the dark ([#76669](https://github.com/CleverRaven/Cataclysm-DDA/pull/76669))
@@ -195,8 +198,5 @@
 * Removed POLEARMS weapon category from big number of weapons in spears_and_polearms.json ([#76590](https://github.com/CleverRaven/Cataclysm-DDA/pull/76590))
 * [XE/Magiclysm] No wizard cats ([#76598](https://github.com/CleverRaven/Cataclysm-DDA/pull/76598))
 * Fixes Judge Ammo Error ([#76593](https://github.com/CleverRaven/Cataclysm-DDA/pull/76593))
-* Added notes for constructing dummies ([#76584](https://github.com/CleverRaven/Cataclysm-DDA/pull/76584))
 * Binoculars now also increase "detailed" vision range, not only max vision range ([#76585](https://github.com/CleverRaven/Cataclysm-DDA/pull/76585))
 * Bows don't accept ergonomic grip ([#76591](https://github.com/CleverRaven/Cataclysm-DDA/pull/76591))
-* Martial Mastery: Fix Insight Message Spam ([#76581](https://github.com/CleverRaven/Cataclysm-DDA/pull/76581))
-* Martial Mastery: Nerf Insight Stacking from Sixth Sense ([#76583](https://github.com/CleverRaven/Cataclysm-DDA/pull/76583))
