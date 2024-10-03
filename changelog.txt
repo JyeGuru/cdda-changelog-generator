@@ -98,8 +98,6 @@ Cataclysm-DDA experimental build 2024-09-28-1600 (82c06b0)
 
 Cataclysm-DDA experimental build 2024-09-27-1952 (4c69e47)
 * Use typed tripoints in ranged.h and adjacent code (#76671)
-
-Cataclysm-DDA experimental build 2024-09-27-1722 (3c56e3c)
 * The pair of butterfly swords are now just a butterfly sword. Singular. (#76605)
 * [DinoMod] tougher day 3 predators (#76634)
 * Magiclysm] Add Bracers of Archery (#76663)
