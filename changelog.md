@@ -1,3 +1,4 @@
+* Character randomization sometimes produces 'crossdressing' characters ([#76812](https://github.com/CleverRaven/Cataclysm-DDA/pull/76812))
 
 ---
 
@@ -195,7 +196,6 @@
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
 * Fix error popping up when trying to draw blood from acidic zombie ([#76625](https://github.com/CleverRaven/Cataclysm-DDA/pull/76625))
 * Remove duplicate line in changelog.txt ([#76628](https://github.com/CleverRaven/Cataclysm-DDA/pull/76628))
-* [Magiclysm] Earthshapers cannot Stone Slumber unsafely ([#76615](https://github.com/CleverRaven/Cataclysm-DDA/pull/76615))
 * Fix the Kord mission ([#76626](https://github.com/CleverRaven/Cataclysm-DDA/pull/76626))
 * Remove SUN_GLASSES flag from all survivor half masks  ([#76618](https://github.com/CleverRaven/Cataclysm-DDA/pull/76618))
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
