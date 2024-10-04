@@ -1,3 +1,10 @@
+* Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-04-0444 ([f9790c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-0444))
+
+* human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
 
 ---
 
@@ -100,12 +107,6 @@
 
 * Fix condition of learning mortar recipe from cement bag ([#76741](https://github.com/CleverRaven/Cataclysm-DDA/pull/76741))
 * Audit/NO_I18N for effects.json ([#76698](https://github.com/CleverRaven/Cataclysm-DDA/pull/76698))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-30-0411 ([71dcd14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-30-0411))
-
-* Backport "Don't unnecessarily copy items in a tight loop in get_uncraft_components" ([#76603](https://github.com/CleverRaven/Cataclysm-DDA/pull/76603))
 * Closes #76534 Hair Growth After Haircutting is normal now. ([#76705](https://github.com/CleverRaven/Cataclysm-DDA/pull/76705))
 
 ---
@@ -127,7 +128,6 @@
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources ([#76697](https://github.com/CleverRaven/Cataclysm-DDA/pull/76697))
 * Routine i18n updates on 28 September 2024 ([#76699](https://github.com/CleverRaven/Cataclysm-DDA/pull/76699))
 * Use typed tripoints in magic.h and adjacent code ([#76696](https://github.com/CleverRaven/Cataclysm-DDA/pull/76696))
-* [Xedra Evolved] Add more Selkie powers ([#76602](https://github.com/CleverRaven/Cataclysm-DDA/pull/76602))
 * Evolution fixes part 2 ([#76636](https://github.com/CleverRaven/Cataclysm-DDA/pull/76636))
 * Display colliding vehicle name in mapgen failure messages ([#76659](https://github.com/CleverRaven/Cataclysm-DDA/pull/76659))
 * Fix Stillsuit Move Cost Effect ([#76708](https://github.com/CleverRaven/Cataclysm-DDA/pull/76708))
