@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-04-0225 ([91438e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-0225))
+
+* Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
 * Cleaner frogs ([#76680](https://github.com/CleverRaven/Cataclysm-DDA/pull/76680))
 * typified a bit of map.h/cpp + dependents ([#76712](https://github.com/CleverRaven/Cataclysm-DDA/pull/76712))
 * Adjust .22 Ammo Spawns ([#76727](https://github.com/CleverRaven/Cataclysm-DDA/pull/76727))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2024-09-28-1600 ([82c06b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-28-1600))
 
 * [Isolation Protocol] Add Bionic Vampire class ([#76621](https://github.com/CleverRaven/Cataclysm-DDA/pull/76621))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-27-1952 ([4c69e47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-27-1952))
-
 * Use typed tripoints in ranged.h and adjacent code ([#76671](https://github.com/CleverRaven/Cataclysm-DDA/pull/76671))
 * The pair of butterfly swords are now just a butterfly sword. Singular. ([#76605](https://github.com/CleverRaven/Cataclysm-DDA/pull/76605))
 * [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
@@ -193,4 +194,3 @@
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
 * Backport #76478 ([#76607](https://github.com/CleverRaven/Cataclysm-DDA/pull/76607))
 * [Aftershock] Handle welding requirements via ``extend`` instead of overwriting vanilla ([#76611](https://github.com/CleverRaven/Cataclysm-DDA/pull/76611))
-* [Magiclysm] Move yulecat to holiday spawns ([#76601](https://github.com/CleverRaven/Cataclysm-DDA/pull/76601))
