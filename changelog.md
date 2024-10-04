@@ -167,6 +167,7 @@
 
 * [Isolation Protocol] Add Bionic Vampire class ([#76621](https://github.com/CleverRaven/Cataclysm-DDA/pull/76621))
 * Use typed tripoints in ranged.h and adjacent code ([#76671](https://github.com/CleverRaven/Cataclysm-DDA/pull/76671))
+* The pair of butterfly swords are now just a butterfly sword. Singular. ([#76605](https://github.com/CleverRaven/Cataclysm-DDA/pull/76605))
 * [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
 * Magiclysm] Add Bracers of Archery ([#76663](https://github.com/CleverRaven/Cataclysm-DDA/pull/76663))
 * [Magiclysm] Goblins and dwarves can craft in the dark ([#76669](https://github.com/CleverRaven/Cataclysm-DDA/pull/76669))
