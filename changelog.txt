@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-04-0532 (5f6f5e0)
 * Remove Military Professions mod (#76805)
 
 Cataclysm-DDA experimental build 2024-10-04-0444 (f9790c2)
