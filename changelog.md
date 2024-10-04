@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-04-2157 ([0c8023e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-2157))
+
 * do not suppress missing/failed to load json error ([#76803](https://github.com/CleverRaven/Cataclysm-DDA/pull/76803))
 * typed tripoints in iexamine functions ([#76722](https://github.com/CleverRaven/Cataclysm-DDA/pull/76722))
 * Ruin the ballista, ruin the game ([#76809](https://github.com/CleverRaven/Cataclysm-DDA/pull/76809))
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2024-09-28-2243 ([de3f2b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-28-2243))
 
 * Don't extract the remaining abstract things ([#76702](https://github.com/CleverRaven/Cataclysm-DDA/pull/76702))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-28-2040 ([5213009](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-28-2040))
-
 * Make the three types of sand and gravel mounds connect ([#76709](https://github.com/CleverRaven/Cataclysm-DDA/pull/76709))
 * fix gun shy trait ([#76660](https://github.com/CleverRaven/Cataclysm-DDA/pull/76660))
 * Amending item: vibrator ([#76691](https://github.com/CleverRaven/Cataclysm-DDA/pull/76691))
