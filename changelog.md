@@ -1,3 +1,6 @@
+* do not suppress missing/failed to load json error ([#76803](https://github.com/CleverRaven/Cataclysm-DDA/pull/76803))
+* typed tripoints in iexamine functions ([#76722](https://github.com/CleverRaven/Cataclysm-DDA/pull/76722))
+* Ruin the ballista, ruin the game ([#76809](https://github.com/CleverRaven/Cataclysm-DDA/pull/76809))
 
 ---
 
@@ -190,12 +193,9 @@
 * [Xedra Evolved] Werewolves only regenerate when they need to ([#76630](https://github.com/CleverRaven/Cataclysm-DDA/pull/76630))
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing ([#76631](https://github.com/CleverRaven/Cataclysm-DDA/pull/76631))
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
-* Replace activity `ACT_PICKUP_MENU` with `uistate.open_menu` ([#76610](https://github.com/CleverRaven/Cataclysm-DDA/pull/76610))
 * Fix error popping up when trying to draw blood from acidic zombie ([#76625](https://github.com/CleverRaven/Cataclysm-DDA/pull/76625))
 * Remove duplicate line in changelog.txt ([#76628](https://github.com/CleverRaven/Cataclysm-DDA/pull/76628))
 * [Magiclysm] Earthshapers cannot Stone Slumber unsafely ([#76615](https://github.com/CleverRaven/Cataclysm-DDA/pull/76615))
 * Fix the Kord mission ([#76626](https://github.com/CleverRaven/Cataclysm-DDA/pull/76626))
 * Remove SUN_GLASSES flag from all survivor half masks  ([#76618](https://github.com/CleverRaven/Cataclysm-DDA/pull/76618))
 * [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
-* Backport #76478 ([#76607](https://github.com/CleverRaven/Cataclysm-DDA/pull/76607))
-* [Aftershock] Handle welding requirements via ``extend`` instead of overwriting vanilla ([#76611](https://github.com/CleverRaven/Cataclysm-DDA/pull/76611))
