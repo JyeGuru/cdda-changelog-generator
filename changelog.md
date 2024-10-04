@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-04-2005 ([a9f6b50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-2005))
+
+* Remove even more unused stuff ([#76813](https://github.com/CleverRaven/Cataclysm-DDA/pull/76813))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-04-0532 ([5f6f5e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-0532))
 
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
@@ -160,14 +166,8 @@
 * Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))
 * Fix mission reference to nonexistent om_terrain ([#76684](https://github.com/CleverRaven/Cataclysm-DDA/pull/76684))
 * Extract blood analysis descriptions and end screen text ([#76676](https://github.com/CleverRaven/Cataclysm-DDA/pull/76676))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-28-1600 ([82c06b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-28-1600))
-
 * [Isolation Protocol] Add Bionic Vampire class ([#76621](https://github.com/CleverRaven/Cataclysm-DDA/pull/76621))
 * Use typed tripoints in ranged.h and adjacent code ([#76671](https://github.com/CleverRaven/Cataclysm-DDA/pull/76671))
-* The pair of butterfly swords are now just a butterfly sword. Singular. ([#76605](https://github.com/CleverRaven/Cataclysm-DDA/pull/76605))
 * [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
 * Magiclysm] Add Bracers of Archery ([#76663](https://github.com/CleverRaven/Cataclysm-DDA/pull/76663))
 * [Magiclysm] Goblins and dwarves can craft in the dark ([#76669](https://github.com/CleverRaven/Cataclysm-DDA/pull/76669))
