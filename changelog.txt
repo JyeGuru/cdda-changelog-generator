@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-04-2322 (34aab02)
 * Character randomization sometimes produces 'crossdressing' characters (#76812)
 
 Cataclysm-DDA experimental build 2024-10-04-2157 (0c8023e)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-09-29-0806 (26de5a1)
 Cataclysm-DDA experimental build 2024-09-29-0516 (3ea499e)
 * [Xedra Evolved] Fix a "Heater" can't be linked correctly (#76703)
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file (#76713)
-
-Cataclysm-DDA experimental build 2024-09-28-2243 (de3f2b6)
 * Don't extract the remaining abstract things (#76702)
 * Make the three types of sand and gravel mounds connect (#76709)
 * fix gun shy trait (#76660)
