@@ -153,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2024-09-29-1908 ([3901005](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-29-1908))
 
 * Clang-tidy fix for #76696 ([#76719](https://github.com/CleverRaven/Cataclysm-DDA/pull/76719))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-29-0806 ([26de5a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-29-0806))
-
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources ([#76697](https://github.com/CleverRaven/Cataclysm-DDA/pull/76697))
 * Routine i18n updates on 28 September 2024 ([#76699](https://github.com/CleverRaven/Cataclysm-DDA/pull/76699))
 * Use typed tripoints in magic.h and adjacent code ([#76696](https://github.com/CleverRaven/Cataclysm-DDA/pull/76696))
