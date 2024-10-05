@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-05-0602 ([65aca7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-05-0602))
+
 * Increase the batch size of the calcium carbide producing reaction ([#76788](https://github.com/CleverRaven/Cataclysm-DDA/pull/76788))
 * wrap sound_init_success in #if defined(SDL_SOUND) block ([#76802](https://github.com/CleverRaven/Cataclysm-DDA/pull/76802))
 * [DinoMod] DinoZoo update ([#76781](https://github.com/CleverRaven/Cataclysm-DDA/pull/76781))
