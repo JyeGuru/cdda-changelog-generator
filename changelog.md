@@ -1,3 +1,11 @@
+* wrap sound_init_success in #if defined(SDL_SOUND) block ([#76802](https://github.com/CleverRaven/Cataclysm-DDA/pull/76802))
+* [DinoMod] DinoZoo update ([#76781](https://github.com/CleverRaven/Cataclysm-DDA/pull/76781))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-05-0257 ([6815c0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-05-0257))
+
+* Dialogue: JSON fields for displaying hidden responses ([#76804](https://github.com/CleverRaven/Cataclysm-DDA/pull/76804))
 
 ---
 
@@ -156,11 +164,6 @@
 * Evolution fixes part 2 ([#76636](https://github.com/CleverRaven/Cataclysm-DDA/pull/76636))
 * Display colliding vehicle name in mapgen failure messages ([#76659](https://github.com/CleverRaven/Cataclysm-DDA/pull/76659))
 * Fix Stillsuit Move Cost Effect ([#76708](https://github.com/CleverRaven/Cataclysm-DDA/pull/76708))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-29-0516 ([3ea499e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-29-0516))
-
 * [Xedra Evolved] Fix a "Heater" can't be linked correctly ([#76703](https://github.com/CleverRaven/Cataclysm-DDA/pull/76703))
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file ([#76713](https://github.com/CleverRaven/Cataclysm-DDA/pull/76713))
 * Don't extract the remaining abstract things ([#76702](https://github.com/CleverRaven/Cataclysm-DDA/pull/76702))
@@ -170,7 +173,6 @@
 * Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))
 * Fix mission reference to nonexistent om_terrain ([#76684](https://github.com/CleverRaven/Cataclysm-DDA/pull/76684))
 * Extract blood analysis descriptions and end screen text ([#76676](https://github.com/CleverRaven/Cataclysm-DDA/pull/76676))
-* [Isolation Protocol] Add Bionic Vampire class ([#76621](https://github.com/CleverRaven/Cataclysm-DDA/pull/76621))
 * Use typed tripoints in ranged.h and adjacent code ([#76671](https://github.com/CleverRaven/Cataclysm-DDA/pull/76671))
 * [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
 * Magiclysm] Add Bracers of Archery ([#76663](https://github.com/CleverRaven/Cataclysm-DDA/pull/76663))
@@ -197,5 +199,3 @@
 * Fix error popping up when trying to draw blood from acidic zombie ([#76625](https://github.com/CleverRaven/Cataclysm-DDA/pull/76625))
 * Remove duplicate line in changelog.txt ([#76628](https://github.com/CleverRaven/Cataclysm-DDA/pull/76628))
 * Fix the Kord mission ([#76626](https://github.com/CleverRaven/Cataclysm-DDA/pull/76626))
-* Remove SUN_GLASSES flag from all survivor half masks  ([#76618](https://github.com/CleverRaven/Cataclysm-DDA/pull/76618))
-* [Magiclysm] Add `UNRESTRICTED` flag to several Magiclysm summoned items ([#76619](https://github.com/CleverRaven/Cataclysm-DDA/pull/76619))
