@@ -1,3 +1,4 @@
+* Increase the batch size of the calcium carbide producing reaction ([#76788](https://github.com/CleverRaven/Cataclysm-DDA/pull/76788))
 * wrap sound_init_success in #if defined(SDL_SOUND) block ([#76802](https://github.com/CleverRaven/Cataclysm-DDA/pull/76802))
 * [DinoMod] DinoZoo update ([#76781](https://github.com/CleverRaven/Cataclysm-DDA/pull/76781))
 
@@ -187,7 +188,6 @@
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
 * Adjust trap difficulty ([#76638](https://github.com/CleverRaven/Cataclysm-DDA/pull/76638))
 * [MoM] Add remaining matrix elixirs, add more drops ([#76633](https://github.com/CleverRaven/Cataclysm-DDA/pull/76633))
-* Weekly Changelog 2024-09-16 to 2024-09-23 ([#76622](https://github.com/CleverRaven/Cataclysm-DDA/pull/76622))
 * [Xedra Evolved] Werewolves only regenerate when they need to ([#76630](https://github.com/CleverRaven/Cataclysm-DDA/pull/76630))
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing ([#76631](https://github.com/CleverRaven/Cataclysm-DDA/pull/76631))
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
