@@ -1,3 +1,4 @@
+* Small patch to ranged balance test flakiness (#76824)
 
 Cataclysm-DDA experimental build 2024-10-05-0602 (65aca7f)
 * Increase the batch size of the calcium carbide producing reaction (#76788)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2024-09-29-1908 (3901005)
 * remove traps skill from construction worker (#76666)
 * Dont extract abstract names for translation (#76655)
 * Dont extract monster guns and spells for translation (#76656)
-* Use typed tripoints in npcmove and adjacent code (#76623)
 * Fix changelog containing duplicate entries (#76649)
 * [MoM] Blazing Aura is an actual aura effect and harms anyone nearby (#76648)
 * Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 (#76647)
