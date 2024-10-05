@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-10-05-2141 (f71f48d)
+* Added check for stealing prior to inserting items into container (#76826)
 * Small patch to ranged balance test flakiness (#76824)
 
 Cataclysm-DDA experimental build 2024-10-05-0602 (65aca7f)
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2024-09-30-1520 (45a93aa)
 
 Cataclysm-DDA experimental build 2024-09-29-2237 (454846f)
 * Add Garter Belt Variant (#76704)
-
-Cataclysm-DDA experimental build 2024-09-29-1908 (3901005)
 * Clang-tidy fix for #76696 (#76719)
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources (#76697)
 * Routine i18n updates on 28 September 2024 (#76699)
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2024-09-29-1908 (3901005)
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing (#76631)
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else (#76635)
 * Remove duplicate line in changelog.txt (#76628)
-* Fix the Kord mission (#76626)
