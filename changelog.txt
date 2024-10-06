@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-06-1942 (b65f3e6)
 * Fixed crash on trying to unwield heavy items when trying to drive (#76829)
 * [Xedra Evolved] No werealfs (#76848)
 

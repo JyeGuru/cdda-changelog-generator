@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-06-1942 ([b65f3e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-06-1942))
+
 * Fixed crash on trying to unwield heavy items when trying to drive ([#76829](https://github.com/CleverRaven/Cataclysm-DDA/pull/76829))
 * [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
 
