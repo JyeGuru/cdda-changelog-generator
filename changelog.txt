@@ -1,3 +1,4 @@
+* Make garlic smokable (#76847)
 
 Cataclysm-DDA experimental build 2024-10-06-1646 (d1f34b5)
 * Un-popup the Beautiful Nether Lily Messages (#76834)
@@ -117,7 +118,6 @@ Cataclysm-DDA experimental build 2024-09-30-1520 (45a93aa)
 * Fix mission reference to nonexistent om_terrain (#76684)
 * Extract blood analysis descriptions and end screen text (#76676)
 * Use typed tripoints in ranged.h and adjacent code (#76671)
-* [DinoMod] tougher day 3 predators (#76634)
 * Magiclysm] Add Bracers of Archery (#76663)
 * [Magiclysm] Goblins and dwarves can craft in the dark (#76669)
 * Reset forced temperature on save and quit from tutorial world (#76674)

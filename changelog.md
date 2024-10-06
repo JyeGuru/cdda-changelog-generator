@@ -1,3 +1,4 @@
+* Make garlic smokable ([#76847](https://github.com/CleverRaven/Cataclysm-DDA/pull/76847))
 
 ---
 
@@ -186,7 +187,6 @@
 * Fix mission reference to nonexistent om_terrain ([#76684](https://github.com/CleverRaven/Cataclysm-DDA/pull/76684))
 * Extract blood analysis descriptions and end screen text ([#76676](https://github.com/CleverRaven/Cataclysm-DDA/pull/76676))
 * Use typed tripoints in ranged.h and adjacent code ([#76671](https://github.com/CleverRaven/Cataclysm-DDA/pull/76671))
-* [DinoMod] tougher day 3 predators ([#76634](https://github.com/CleverRaven/Cataclysm-DDA/pull/76634))
 * Magiclysm] Add Bracers of Archery ([#76663](https://github.com/CleverRaven/Cataclysm-DDA/pull/76663))
 * [Magiclysm] Goblins and dwarves can craft in the dark ([#76669](https://github.com/CleverRaven/Cataclysm-DDA/pull/76669))
 * Reset forced temperature on save and quit from tutorial world ([#76674](https://github.com/CleverRaven/Cataclysm-DDA/pull/76674))
