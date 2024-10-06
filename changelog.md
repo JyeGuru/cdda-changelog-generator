@@ -1,3 +1,4 @@
+* Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
 * Make garlic smokable ([#76847](https://github.com/CleverRaven/Cataclysm-DDA/pull/76847))
 
 ---
@@ -202,4 +203,3 @@
 * Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 ([#76647](https://github.com/CleverRaven/Cataclysm-DDA/pull/76647))
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
 * Adjust trap difficulty ([#76638](https://github.com/CleverRaven/Cataclysm-DDA/pull/76638))
-* [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
