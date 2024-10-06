@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-06-1410 (818c3ef)
+* Make more zombies wear wedding rings (#76852)
+
 Cataclysm-DDA experimental build 2024-10-05-2141 (f71f48d)
 * Added check for stealing prior to inserting items into container (#76826)
 * Small patch to ranged balance test flakiness (#76824)
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2024-09-30-1520 (45a93aa)
 * Fix condition of learning mortar recipe from cement bag (#76741)
 * Audit/NO_I18N for effects.json (#76698)
 * Closes #76534 Hair Growth After Haircutting is normal now. (#76705)
-
-Cataclysm-DDA experimental build 2024-09-29-2237 (454846f)
 * Add Garter Belt Variant (#76704)
 * Clang-tidy fix for #76696 (#76719)
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources (#76697)
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2024-09-29-2237 (454846f)
 * [Xedra Evolved] Werewolves only regenerate when they need to (#76630)
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing (#76631)
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else (#76635)
-* Remove duplicate line in changelog.txt (#76628)

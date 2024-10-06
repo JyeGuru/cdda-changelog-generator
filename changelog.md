@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-06-1410 ([818c3ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-06-1410))
+
+* Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-05-2141 ([f71f48d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-05-2141))
 
 * Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
@@ -154,11 +160,6 @@
 * Fix condition of learning mortar recipe from cement bag ([#76741](https://github.com/CleverRaven/Cataclysm-DDA/pull/76741))
 * Audit/NO_I18N for effects.json ([#76698](https://github.com/CleverRaven/Cataclysm-DDA/pull/76698))
 * Closes #76534 Hair Growth After Haircutting is normal now. ([#76705](https://github.com/CleverRaven/Cataclysm-DDA/pull/76705))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-29-2237 ([454846f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-29-2237))
-
 * Add Garter Belt Variant ([#76704](https://github.com/CleverRaven/Cataclysm-DDA/pull/76704))
 * Clang-tidy fix for #76696 ([#76719](https://github.com/CleverRaven/Cataclysm-DDA/pull/76719))
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources ([#76697](https://github.com/CleverRaven/Cataclysm-DDA/pull/76697))
@@ -197,4 +198,3 @@
 * [Xedra Evolved] Werewolves only regenerate when they need to ([#76630](https://github.com/CleverRaven/Cataclysm-DDA/pull/76630))
 * [Magiclysm] Rapid Regeneration's effect only triggers if you need healing ([#76631](https://github.com/CleverRaven/Cataclysm-DDA/pull/76631))
 * [XEDRA Evolved] Grackens No Longer Attacks Bystanding Player when Fighting Something Else ([#76635](https://github.com/CleverRaven/Cataclysm-DDA/pull/76635))
-* Remove duplicate line in changelog.txt ([#76628](https://github.com/CleverRaven/Cataclysm-DDA/pull/76628))
