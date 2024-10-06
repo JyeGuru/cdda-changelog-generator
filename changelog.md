@@ -1,3 +1,9 @@
+* [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-06-1748 ([7ba06d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-06-1748))
+
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
 * Make garlic smokable ([#76847](https://github.com/CleverRaven/Cataclysm-DDA/pull/76847))
 
@@ -175,7 +181,6 @@
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources ([#76697](https://github.com/CleverRaven/Cataclysm-DDA/pull/76697))
 * Routine i18n updates on 28 September 2024 ([#76699](https://github.com/CleverRaven/Cataclysm-DDA/pull/76699))
 * Use typed tripoints in magic.h and adjacent code ([#76696](https://github.com/CleverRaven/Cataclysm-DDA/pull/76696))
-* Evolution fixes part 2 ([#76636](https://github.com/CleverRaven/Cataclysm-DDA/pull/76636))
 * Display colliding vehicle name in mapgen failure messages ([#76659](https://github.com/CleverRaven/Cataclysm-DDA/pull/76659))
 * Fix Stillsuit Move Cost Effect ([#76708](https://github.com/CleverRaven/Cataclysm-DDA/pull/76708))
 * [Xedra Evolved] Fix a "Heater" can't be linked correctly ([#76703](https://github.com/CleverRaven/Cataclysm-DDA/pull/76703))
