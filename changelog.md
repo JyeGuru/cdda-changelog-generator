@@ -1,4 +1,10 @@
+* [Backport?] Fix feral wizard species from #71275 ([#76825](https://github.com/CleverRaven/Cataclysm-DDA/pull/76825))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-06-2107 ([57ba47d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-06-2107))
+
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))
 
 ---
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-10-01-0515 ([62d3a93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-01-0515))
 
 * Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-30-1520 ([45a93aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-30-1520))
-
 * Fix condition of learning mortar recipe from cement bag ([#76741](https://github.com/CleverRaven/Cataclysm-DDA/pull/76741))
 * Audit/NO_I18N for effects.json ([#76698](https://github.com/CleverRaven/Cataclysm-DDA/pull/76698))
 * Closes #76534 Hair Growth After Haircutting is normal now. ([#76705](https://github.com/CleverRaven/Cataclysm-DDA/pull/76705))
