@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-06-1646 ([d1f34b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-06-1646))
+
 * Un-popup the Beautiful Nether Lily Messages ([#76834](https://github.com/CleverRaven/Cataclysm-DDA/pull/76834))
 * fix typo in dreamsmith hammer spell ([#76840](https://github.com/CleverRaven/Cataclysm-DDA/pull/76840))
 * fix mutation spell not checking stamina ([#76841](https://github.com/CleverRaven/Cataclysm-DDA/pull/76841))
