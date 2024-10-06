@@ -1,3 +1,4 @@
+* Fixed crash on trying to unwield heavy items when trying to drive ([#76829](https://github.com/CleverRaven/Cataclysm-DDA/pull/76829))
 * [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
 
 ---
@@ -207,4 +208,3 @@
 * [MoM] Blazing Aura is an actual aura effect and harms anyone nearby ([#76648](https://github.com/CleverRaven/Cataclysm-DDA/pull/76648))
 * Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 ([#76647](https://github.com/CleverRaven/Cataclysm-DDA/pull/76647))
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
-* Adjust trap difficulty ([#76638](https://github.com/CleverRaven/Cataclysm-DDA/pull/76638))

@@ -1,3 +1,4 @@
+* Fixed crash on trying to unwield heavy items when trying to drive (#76829)
 * [Xedra Evolved] No werealfs (#76848)
 
 Cataclysm-DDA 0.H release candidate 2024-10-06-1748 (7ba06d7)
@@ -135,4 +136,3 @@ Cataclysm-DDA experimental build 2024-09-30-1520 (45a93aa)
 * [MoM] Blazing Aura is an actual aura effect and harms anyone nearby (#76648)
 * Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 (#76647)
 * Insert git checkout line into vcpkg setup command block. (#76650)
-* Adjust trap difficulty (#76638)
