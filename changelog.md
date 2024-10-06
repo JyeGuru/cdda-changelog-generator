@@ -1,3 +1,5 @@
+* Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
+* Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))
 
 ---
 
@@ -159,7 +161,6 @@
 * Override dont change the names of monsters to the old ones ([#76737](https://github.com/CleverRaven/Cataclysm-DDA/pull/76737))
 * HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
 * Remove the baseball with barbed wire wrapped around it ([#76745](https://github.com/CleverRaven/Cataclysm-DDA/pull/76745))
-* [DinoMod] sauropods out of the water ([#76639](https://github.com/CleverRaven/Cataclysm-DDA/pull/76639))
 * [DinoMod] longer tail attacks ([#76716](https://github.com/CleverRaven/Cataclysm-DDA/pull/76716))
 * Update NPCs.md ([#76750](https://github.com/CleverRaven/Cataclysm-DDA/pull/76750))
 
@@ -205,7 +206,6 @@
 * Added check for stealing prior to wearing ([#76675](https://github.com/CleverRaven/Cataclysm-DDA/pull/76675))
 * Night vision goggles no longer draw green overlay after their batteries ran out of energy ([#76657](https://github.com/CleverRaven/Cataclysm-DDA/pull/76657))
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
-* Adjusted item grid connection points on grid merge ([#76644](https://github.com/CleverRaven/Cataclysm-DDA/pull/76644))
 * remove traps skill from construction worker ([#76666](https://github.com/CleverRaven/Cataclysm-DDA/pull/76666))
 * Dont extract abstract names for translation ([#76655](https://github.com/CleverRaven/Cataclysm-DDA/pull/76655))
 * Dont extract monster guns and spells for translation ([#76656](https://github.com/CleverRaven/Cataclysm-DDA/pull/76656))
