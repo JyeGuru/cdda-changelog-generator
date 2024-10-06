@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-06-2353 ([ec77c5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-06-2353))
+
 * [Backport?] Fix feral wizard species from #71275 ([#76825](https://github.com/CleverRaven/Cataclysm-DDA/pull/76825))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
 
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-10-01-1424 ([45b3b4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-01-1424))
 
 * New end screens ! ([#76732](https://github.com/CleverRaven/Cataclysm-DDA/pull/76732))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-01-0515 ([62d3a93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-01-0515))
-
 * Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))
 * Fix condition of learning mortar recipe from cement bag ([#76741](https://github.com/CleverRaven/Cataclysm-DDA/pull/76741))
 * Audit/NO_I18N for effects.json ([#76698](https://github.com/CleverRaven/Cataclysm-DDA/pull/76698))
