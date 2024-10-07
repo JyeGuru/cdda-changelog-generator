@@ -1,3 +1,4 @@
+* Fix consume activity creation from liquid handler ([#76819](https://github.com/CleverRaven/Cataclysm-DDA/pull/76819))
 * [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
 * Ravenfolk updates ([#76725](https://github.com/CleverRaven/Cataclysm-DDA/pull/76725))
 
@@ -213,5 +214,4 @@
 * remove traps skill from construction worker ([#76666](https://github.com/CleverRaven/Cataclysm-DDA/pull/76666))
 * Dont extract abstract names for translation ([#76655](https://github.com/CleverRaven/Cataclysm-DDA/pull/76655))
 * Dont extract monster guns and spells for translation ([#76656](https://github.com/CleverRaven/Cataclysm-DDA/pull/76656))
-* Fix changelog containing duplicate entries ([#76649](https://github.com/CleverRaven/Cataclysm-DDA/pull/76649))
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
