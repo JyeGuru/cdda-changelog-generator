@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-07-2238 ([8f19d8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-2238))
+
 * typified map.h + dependents, end of first pass ([#76888](https://github.com/CleverRaven/Cataclysm-DDA/pull/76888))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-10-02-1516 ([e50203b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-1516))
 
 * Gun spawn overhaul ([#76714](https://github.com/CleverRaven/Cataclysm-DDA/pull/76714))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-02-0553 ([558f770](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-0553))
-
 * [MoM] Add the unstoppable force (final rank feral telekinetic) ([#76667](https://github.com/CleverRaven/Cataclysm-DDA/pull/76667))
 * [Isolation Protocol] Fix trailing spaces ([#76760](https://github.com/CleverRaven/Cataclysm-DDA/pull/76760))
 * Removed obsoleted faction camp stuff ([#76753](https://github.com/CleverRaven/Cataclysm-DDA/pull/76753))

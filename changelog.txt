@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-07-2238 (8f19d8e)
 * typified map.h + dependents, end of first pass (#76888)
 
 Cataclysm-DDA experimental build 2024-10-07-2003 (2fb734c)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2024-10-02-1800 (98b100c)
 
 Cataclysm-DDA experimental build 2024-10-02-1516 (e50203b)
 * Gun spawn overhaul (#76714)
-
-Cataclysm-DDA experimental build 2024-10-02-0553 (558f770)
 * [MoM] Add the unstoppable force (final rank feral telekinetic) (#76667)
 * [Isolation Protocol] Fix trailing spaces (#76760)
 * Removed obsoleted faction camp stuff (#76753)
