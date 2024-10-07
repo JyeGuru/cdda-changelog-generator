@@ -1,3 +1,4 @@
+* typified map.h + dependents, end of first pass (#76888)
 
 Cataclysm-DDA experimental build 2024-10-07-2003 (2fb734c)
 * Remove recipe for leather out of tainted hide, human hide (#76891)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2024-10-02-0553 (558f770)
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources (#76697)
 * Routine i18n updates on 28 September 2024 (#76699)
 * Use typed tripoints in magic.h and adjacent code (#76696)
-* Display colliding vehicle name in mapgen failure messages (#76659)
 * Fix Stillsuit Move Cost Effect (#76708)
 * [Xedra Evolved] Fix a "Heater" can't be linked correctly (#76703)
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file (#76713)

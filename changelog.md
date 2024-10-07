@@ -1,3 +1,4 @@
+* typified map.h + dependents, end of first pass ([#76888](https://github.com/CleverRaven/Cataclysm-DDA/pull/76888))
 
 ---
 
@@ -202,7 +203,6 @@
 * [XEDRA][MAGICLYSM] Create and use READ_IN_DARKNESS and distribute CRAFT_IN_DARKNESS to magic night vision sources ([#76697](https://github.com/CleverRaven/Cataclysm-DDA/pull/76697))
 * Routine i18n updates on 28 September 2024 ([#76699](https://github.com/CleverRaven/Cataclysm-DDA/pull/76699))
 * Use typed tripoints in magic.h and adjacent code ([#76696](https://github.com/CleverRaven/Cataclysm-DDA/pull/76696))
-* Display colliding vehicle name in mapgen failure messages ([#76659](https://github.com/CleverRaven/Cataclysm-DDA/pull/76659))
 * Fix Stillsuit Move Cost Effect ([#76708](https://github.com/CleverRaven/Cataclysm-DDA/pull/76708))
 * [Xedra Evolved] Fix a "Heater" can't be linked correctly ([#76703](https://github.com/CleverRaven/Cataclysm-DDA/pull/76703))
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file ([#76713](https://github.com/CleverRaven/Cataclysm-DDA/pull/76713))
