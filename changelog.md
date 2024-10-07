@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-07-0632 ([442da86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-0632))
+
 * Fix consume activity creation from liquid handler ([#76819](https://github.com/CleverRaven/Cataclysm-DDA/pull/76819))
 * [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
 * Ravenfolk updates ([#76725](https://github.com/CleverRaven/Cataclysm-DDA/pull/76725))

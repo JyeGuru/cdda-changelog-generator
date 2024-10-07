@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-07-0632 (442da86)
 * Fix consume activity creation from liquid handler (#76819)
 * [MoM] Add Attunement meter to Spacebar UI (#76850)
 * Ravenfolk updates (#76725)
