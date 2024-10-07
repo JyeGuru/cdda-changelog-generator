@@ -1,3 +1,11 @@
+* Make chilis smokable ([#76851](https://github.com/CleverRaven/Cataclysm-DDA/pull/76851))
+* Add some NPC pilots to the world ([#76862](https://github.com/CleverRaven/Cataclysm-DDA/pull/76862))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-07-1309 ([129eb0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-1309))
+
+* Cabin in Safe Place scenario is now actually safe ([#76870](https://github.com/CleverRaven/Cataclysm-DDA/pull/76870))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-10-02-0206 ([ce658ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-0206))
 
 * Electronic devices spawn rate rework ([#76759](https://github.com/CleverRaven/Cataclysm-DDA/pull/76759))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-01-1948 ([800b756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-01-1948))
-
 * Override dont change the names of monsters to the old ones ([#76737](https://github.com/CleverRaven/Cataclysm-DDA/pull/76737))
 * HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
 * Remove the baseball with barbed wire wrapped around it ([#76745](https://github.com/CleverRaven/Cataclysm-DDA/pull/76745))
@@ -217,6 +220,3 @@
 * Night vision goggles no longer draw green overlay after their batteries ran out of energy ([#76657](https://github.com/CleverRaven/Cataclysm-DDA/pull/76657))
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
 * remove traps skill from construction worker ([#76666](https://github.com/CleverRaven/Cataclysm-DDA/pull/76666))
-* Dont extract abstract names for translation ([#76655](https://github.com/CleverRaven/Cataclysm-DDA/pull/76655))
-* Dont extract monster guns and spells for translation ([#76656](https://github.com/CleverRaven/Cataclysm-DDA/pull/76656))
-* Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
