@@ -1,3 +1,10 @@
+* Ravenfolk updates ([#76725](https://github.com/CleverRaven/Cataclysm-DDA/pull/76725))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-07-0342 ([128e941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-0342))
+
+* typified a bit of map.h/cpp + dependencies ([#76795](https://github.com/CleverRaven/Cataclysm-DDA/pull/76795))
 
 ---
 
@@ -174,11 +181,6 @@
 * Remove the baseball with barbed wire wrapped around it ([#76745](https://github.com/CleverRaven/Cataclysm-DDA/pull/76745))
 * [DinoMod] longer tail attacks ([#76716](https://github.com/CleverRaven/Cataclysm-DDA/pull/76716))
 * Update NPCs.md ([#76750](https://github.com/CleverRaven/Cataclysm-DDA/pull/76750))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-01-1424 ([45b3b4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-01-1424))
-
 * New end screens ! ([#76732](https://github.com/CleverRaven/Cataclysm-DDA/pull/76732))
 * Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))
 * Fix condition of learning mortar recipe from cement bag ([#76741](https://github.com/CleverRaven/Cataclysm-DDA/pull/76741))
@@ -212,5 +214,4 @@
 * Dont extract monster guns and spells for translation ([#76656](https://github.com/CleverRaven/Cataclysm-DDA/pull/76656))
 * Fix changelog containing duplicate entries ([#76649](https://github.com/CleverRaven/Cataclysm-DDA/pull/76649))
 * [MoM] Blazing Aura is an actual aura effect and harms anyone nearby ([#76648](https://github.com/CleverRaven/Cataclysm-DDA/pull/76648))
-* Remove THRESH_SPECIES_ELF from ANIMALEMPATH2 ([#76647](https://github.com/CleverRaven/Cataclysm-DDA/pull/76647))
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))
