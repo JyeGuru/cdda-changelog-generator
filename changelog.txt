@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-07-1634 (35153de)
 * Make chilis smokable (#76851)
 * Add some NPC pilots to the world (#76862)
 
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2024-10-02-0553 (558f770)
 * Remove `kill_advanced_inv` (#76755)
 * Update JSON_INFO.md (#76770)
 * Flagify animal empathy/discord traits (#76661)
-
-Cataclysm-DDA 0.H release candidate 2024-10-02-0323 (1240ace)
 * [MoM] Fix Missing mind shield (0.H Backport) (#76731)
 * [Magiclysm] Condense Attunement UI and simplify json code (#76701)
 

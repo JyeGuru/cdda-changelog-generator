@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-07-1634 ([35153de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-1634))
+
 * Make chilis smokable ([#76851](https://github.com/CleverRaven/Cataclysm-DDA/pull/76851))
 * Add some NPC pilots to the world ([#76862](https://github.com/CleverRaven/Cataclysm-DDA/pull/76862))
 
@@ -173,11 +178,6 @@
 * Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
 * Flagify animal empathy/discord traits ([#76661](https://github.com/CleverRaven/Cataclysm-DDA/pull/76661))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-02-0323 ([1240ace](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-02-0323))
-
 * [MoM] Fix Missing mind shield (0.H Backport) ([#76731](https://github.com/CleverRaven/Cataclysm-DDA/pull/76731))
 * [Magiclysm] Condense Attunement UI and simplify json code ([#76701](https://github.com/CleverRaven/Cataclysm-DDA/pull/76701))
 
