@@ -1,3 +1,4 @@
+* [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
 * Ravenfolk updates ([#76725](https://github.com/CleverRaven/Cataclysm-DDA/pull/76725))
 
 ---
@@ -213,5 +214,4 @@
 * Dont extract abstract names for translation ([#76655](https://github.com/CleverRaven/Cataclysm-DDA/pull/76655))
 * Dont extract monster guns and spells for translation ([#76656](https://github.com/CleverRaven/Cataclysm-DDA/pull/76656))
 * Fix changelog containing duplicate entries ([#76649](https://github.com/CleverRaven/Cataclysm-DDA/pull/76649))
-* [MoM] Blazing Aura is an actual aura effect and harms anyone nearby ([#76648](https://github.com/CleverRaven/Cataclysm-DDA/pull/76648))
 * Insert git checkout line into vcpkg setup command block. ([#76650](https://github.com/CleverRaven/Cataclysm-DDA/pull/76650))

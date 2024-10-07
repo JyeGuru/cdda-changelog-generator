@@ -1,3 +1,4 @@
+* [MoM] Add Attunement meter to Spacebar UI (#76850)
 * Ravenfolk updates (#76725)
 
 Cataclysm-DDA experimental build 2024-10-07-0342 (128e941)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-10-01-1948 (800b756)
 * Dont extract abstract names for translation (#76655)
 * Dont extract monster guns and spells for translation (#76656)
 * Fix changelog containing duplicate entries (#76649)
-* [MoM] Blazing Aura is an actual aura effect and harms anyone nearby (#76648)
 * Insert git checkout line into vcpkg setup command block. (#76650)
