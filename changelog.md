@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-08-0751 ([00c9ead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-08-0751))
+
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
@@ -183,11 +188,6 @@
 
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power ([#76773](https://github.com/CleverRaven/Cataclysm-DDA/pull/76773))
 * Clarify that artifact effects should be hidden ([#76774](https://github.com/CleverRaven/Cataclysm-DDA/pull/76774))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-02-1800 ([98b100c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-1800))
-
 * Fix all cameras not having a charge action ([#76762](https://github.com/CleverRaven/Cataclysm-DDA/pull/76762))
 * Dialogue debug: toggle display of conditionals/effects ([#76681](https://github.com/CleverRaven/Cataclysm-DDA/pull/76681))
 * Gun spawn overhaul ([#76714](https://github.com/CleverRaven/Cataclysm-DDA/pull/76714))

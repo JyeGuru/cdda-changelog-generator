@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-08-0751 (00c9ead)
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) (#76893)
 * [MoM] Portal storm awakening EoC fix (#76895)
 * [MoM] Two bugfixes (#76898)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2024-10-02-2303 (05365a3)
 Cataclysm-DDA experimental build 2024-10-02-2002 (b65db27)
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power (#76773)
 * Clarify that artifact effects should be hidden (#76774)
-
-Cataclysm-DDA experimental build 2024-10-02-1800 (98b100c)
 * Fix all cameras not having a charge action (#76762)
 * Dialogue debug: toggle display of conditionals/effects (#76681)
 * Gun spawn overhaul (#76714)
