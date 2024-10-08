@@ -1,3 +1,6 @@
+* [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
+* [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
+* [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
 
 ---
 
@@ -188,7 +191,6 @@
 * Fix all cameras not having a charge action ([#76762](https://github.com/CleverRaven/Cataclysm-DDA/pull/76762))
 * Dialogue debug: toggle display of conditionals/effects ([#76681](https://github.com/CleverRaven/Cataclysm-DDA/pull/76681))
 * Gun spawn overhaul ([#76714](https://github.com/CleverRaven/Cataclysm-DDA/pull/76714))
-* [MoM] Add the unstoppable force (final rank feral telekinetic) ([#76667](https://github.com/CleverRaven/Cataclysm-DDA/pull/76667))
 * [Isolation Protocol] Fix trailing spaces ([#76760](https://github.com/CleverRaven/Cataclysm-DDA/pull/76760))
 * Removed obsoleted faction camp stuff ([#76753](https://github.com/CleverRaven/Cataclysm-DDA/pull/76753))
 * Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
@@ -225,4 +227,3 @@
 * Reset forced temperature on save and quit from tutorial world ([#76674](https://github.com/CleverRaven/Cataclysm-DDA/pull/76674))
 * Added check for stealing prior to wearing ([#76675](https://github.com/CleverRaven/Cataclysm-DDA/pull/76675))
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
-* remove traps skill from construction worker ([#76666](https://github.com/CleverRaven/Cataclysm-DDA/pull/76666))
