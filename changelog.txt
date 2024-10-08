@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-08-0550 (e2c3c32)
 * Removed High Adrenaline as a background trait for Fire Performing hobby (#76871)
 * fix junk_allergen name (#76884)
 * fix natural spring visibility (#76885)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2024-10-02-2002 (b65db27)
 Cataclysm-DDA experimental build 2024-10-02-1800 (98b100c)
 * Fix all cameras not having a charge action (#76762)
 * Dialogue debug: toggle display of conditionals/effects (#76681)
-
-Cataclysm-DDA experimental build 2024-10-02-1516 (e50203b)
 * Gun spawn overhaul (#76714)
 * [MoM] Add the unstoppable force (final rank feral telekinetic) (#76667)
 * [Isolation Protocol] Fix trailing spaces (#76760)

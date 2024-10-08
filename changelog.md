@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-08-0550 ([e2c3c32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-08-0550))
+
 * Removed High Adrenaline as a background trait for Fire Performing hobby ([#76871](https://github.com/CleverRaven/Cataclysm-DDA/pull/76871))
 * fix junk_allergen name ([#76884](https://github.com/CleverRaven/Cataclysm-DDA/pull/76884))
 * fix natural spring visibility ([#76885](https://github.com/CleverRaven/Cataclysm-DDA/pull/76885))
@@ -182,11 +187,6 @@
 
 * Fix all cameras not having a charge action ([#76762](https://github.com/CleverRaven/Cataclysm-DDA/pull/76762))
 * Dialogue debug: toggle display of conditionals/effects ([#76681](https://github.com/CleverRaven/Cataclysm-DDA/pull/76681))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-02-1516 ([e50203b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-02-1516))
-
 * Gun spawn overhaul ([#76714](https://github.com/CleverRaven/Cataclysm-DDA/pull/76714))
 * [MoM] Add the unstoppable force (final rank feral telekinetic) ([#76667](https://github.com/CleverRaven/Cataclysm-DDA/pull/76667))
 * [Isolation Protocol] Fix trailing spaces ([#76760](https://github.com/CleverRaven/Cataclysm-DDA/pull/76760))
