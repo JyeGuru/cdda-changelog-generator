@@ -1,3 +1,5 @@
+* Add barrel length to Taurus Spectrum ([#76874](https://github.com/CleverRaven/Cataclysm-DDA/pull/76874))
+* Fix Mosin battle rifle barrel length ([#76872](https://github.com/CleverRaven/Cataclysm-DDA/pull/76872))
 * limit stomach_contents::capacity to be no less than 250 ml ([#76883](https://github.com/CleverRaven/Cataclysm-DDA/pull/76883))
 * Rotten blood can't be analyzed on centrifuge ([#76889](https://github.com/CleverRaven/Cataclysm-DDA/pull/76889))
 * EOCs modifying calories track spent calories ([#76890](https://github.com/CleverRaven/Cataclysm-DDA/pull/76890))
@@ -219,6 +221,4 @@
 * Amending item: vibrator ([#76691](https://github.com/CleverRaven/Cataclysm-DDA/pull/76691))
 * Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))
 * Fix mission reference to nonexistent om_terrain ([#76684](https://github.com/CleverRaven/Cataclysm-DDA/pull/76684))
-* Extract blood analysis descriptions and end screen text ([#76676](https://github.com/CleverRaven/Cataclysm-DDA/pull/76676))
-* Added check for stealing prior to wearing ([#76675](https://github.com/CleverRaven/Cataclysm-DDA/pull/76675))
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture ([#76677](https://github.com/CleverRaven/Cataclysm-DDA/pull/76677))
