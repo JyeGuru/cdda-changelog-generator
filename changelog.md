@@ -1,3 +1,12 @@
+* Removed High Adrenaline as a background trait for Fire Performing hobby ([#76871](https://github.com/CleverRaven/Cataclysm-DDA/pull/76871))
+* fix junk_allergen name ([#76884](https://github.com/CleverRaven/Cataclysm-DDA/pull/76884))
+* fix natural spring visibility ([#76885](https://github.com/CleverRaven/Cataclysm-DDA/pull/76885))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-08-0308 ([9edad62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-08-0308))
+
+* Fix vitamin documentation ([#76887](https://github.com/CleverRaven/Cataclysm-DDA/pull/76887))
 
 ---
 
@@ -184,7 +193,6 @@
 * Removed obsoleted faction camp stuff ([#76753](https://github.com/CleverRaven/Cataclysm-DDA/pull/76753))
 * Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
-* Flagify animal empathy/discord traits ([#76661](https://github.com/CleverRaven/Cataclysm-DDA/pull/76661))
 * [MoM] Fix Missing mind shield (0.H Backport) ([#76731](https://github.com/CleverRaven/Cataclysm-DDA/pull/76731))
 * [Magiclysm] Condense Attunement UI and simplify json code ([#76701](https://github.com/CleverRaven/Cataclysm-DDA/pull/76701))
 * Electronic devices spawn rate rework ([#76759](https://github.com/CleverRaven/Cataclysm-DDA/pull/76759))
@@ -208,13 +216,11 @@
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file ([#76713](https://github.com/CleverRaven/Cataclysm-DDA/pull/76713))
 * Don't extract the remaining abstract things ([#76702](https://github.com/CleverRaven/Cataclysm-DDA/pull/76702))
 * Make the three types of sand and gravel mounds connect ([#76709](https://github.com/CleverRaven/Cataclysm-DDA/pull/76709))
-* fix gun shy trait ([#76660](https://github.com/CleverRaven/Cataclysm-DDA/pull/76660))
 * Amending item: vibrator ([#76691](https://github.com/CleverRaven/Cataclysm-DDA/pull/76691))
 * Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))
 * Fix mission reference to nonexistent om_terrain ([#76684](https://github.com/CleverRaven/Cataclysm-DDA/pull/76684))
 * Extract blood analysis descriptions and end screen text ([#76676](https://github.com/CleverRaven/Cataclysm-DDA/pull/76676))
 * Use typed tripoints in ranged.h and adjacent code ([#76671](https://github.com/CleverRaven/Cataclysm-DDA/pull/76671))
-* Magiclysm] Add Bracers of Archery ([#76663](https://github.com/CleverRaven/Cataclysm-DDA/pull/76663))
 * [Magiclysm] Goblins and dwarves can craft in the dark ([#76669](https://github.com/CleverRaven/Cataclysm-DDA/pull/76669))
 * Reset forced temperature on save and quit from tutorial world ([#76674](https://github.com/CleverRaven/Cataclysm-DDA/pull/76674))
 * Added check for stealing prior to wearing ([#76675](https://github.com/CleverRaven/Cataclysm-DDA/pull/76675))
