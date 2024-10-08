@@ -1,3 +1,5 @@
+* limit stomach_contents::capacity to be no less than 250 ml (#76883)
+* Rotten blood can't be analyzed on centrifuge (#76889)
 * EOCs modifying calories track spent calories (#76890)
 
 Cataclysm-DDA experimental build 2024-10-08-0751 (00c9ead)
@@ -140,7 +142,5 @@ Cataclysm-DDA experimental build 2024-10-02-2303 (05365a3)
 * Remove some raw tripoints (#76693)
 * Fix mission reference to nonexistent om_terrain (#76684)
 * Extract blood analysis descriptions and end screen text (#76676)
-* Use typed tripoints in ranged.h and adjacent code (#76671)
-* Reset forced temperature on save and quit from tutorial world (#76674)
 * Added check for stealing prior to wearing (#76675)
 * Added NOCOLLIDE flags to most 'hanging rope'-types of furniture (#76677)
