@@ -1,3 +1,4 @@
+* [MoM/CrazyCata Interaction] Rename Metaphysics to "woo woo" ([#76902](https://github.com/CleverRaven/Cataclysm-DDA/pull/76902))
 
 ---
 
@@ -210,7 +211,6 @@
 * Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
 * [MoM] Fix Missing mind shield (0.H Backport) ([#76731](https://github.com/CleverRaven/Cataclysm-DDA/pull/76731))
-* [Magiclysm] Condense Attunement UI and simplify json code ([#76701](https://github.com/CleverRaven/Cataclysm-DDA/pull/76701))
 * Electronic devices spawn rate rework ([#76759](https://github.com/CleverRaven/Cataclysm-DDA/pull/76759))
 * Override dont change the names of monsters to the old ones ([#76737](https://github.com/CleverRaven/Cataclysm-DDA/pull/76737))
 * HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
