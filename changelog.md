@@ -1,3 +1,4 @@
+* [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
 
 ---
 
@@ -226,4 +227,3 @@
 * Make the three types of sand and gravel mounds connect ([#76709](https://github.com/CleverRaven/Cataclysm-DDA/pull/76709))
 * Amending item: vibrator ([#76691](https://github.com/CleverRaven/Cataclysm-DDA/pull/76691))
 * Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))
-* Fix mission reference to nonexistent om_terrain ([#76684](https://github.com/CleverRaven/Cataclysm-DDA/pull/76684))
