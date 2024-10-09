@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-09-1605 ([853937d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-1605))
+
 * [MoM/CrazyCata Interaction] Rename Metaphysics to "woo woo" ([#76902](https://github.com/CleverRaven/Cataclysm-DDA/pull/76902))
 
 ---
@@ -182,11 +187,6 @@
 * do not suppress missing/failed to load json error ([#76803](https://github.com/CleverRaven/Cataclysm-DDA/pull/76803))
 * typed tripoints in iexamine functions ([#76722](https://github.com/CleverRaven/Cataclysm-DDA/pull/76722))
 * Ruin the ballista, ruin the game ([#76809](https://github.com/CleverRaven/Cataclysm-DDA/pull/76809))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-04-2005 ([a9f6b50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-2005))
-
 * Remove even more unused stuff ([#76813](https://github.com/CleverRaven/Cataclysm-DDA/pull/76813))
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
