@@ -1,3 +1,4 @@
+* Vest and jacket tweaks ([#76863](https://github.com/CleverRaven/Cataclysm-DDA/pull/76863))
 * Denim Clothing Warmth Changes ([#76861](https://github.com/CleverRaven/Cataclysm-DDA/pull/76861))
 
 ---
@@ -190,7 +191,6 @@
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power ([#76773](https://github.com/CleverRaven/Cataclysm-DDA/pull/76773))
 * Clarify that artifact effects should be hidden ([#76774](https://github.com/CleverRaven/Cataclysm-DDA/pull/76774))
 * Fix all cameras not having a charge action ([#76762](https://github.com/CleverRaven/Cataclysm-DDA/pull/76762))
-* Dialogue debug: toggle display of conditionals/effects ([#76681](https://github.com/CleverRaven/Cataclysm-DDA/pull/76681))
 * Gun spawn overhaul ([#76714](https://github.com/CleverRaven/Cataclysm-DDA/pull/76714))
 * [Isolation Protocol] Fix trailing spaces ([#76760](https://github.com/CleverRaven/Cataclysm-DDA/pull/76760))
 * Removed obsoleted faction camp stuff ([#76753](https://github.com/CleverRaven/Cataclysm-DDA/pull/76753))

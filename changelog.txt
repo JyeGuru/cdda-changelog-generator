@@ -1,3 +1,4 @@
+* Vest and jacket tweaks (#76863)
 * Denim Clothing Warmth Changes (#76861)
 
 Cataclysm-DDA experimental build 2024-10-09-0208 (7c6e988)
@@ -112,7 +113,6 @@ Cataclysm-DDA experimental build 2024-10-04-0225 (91438e2)
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power (#76773)
 * Clarify that artifact effects should be hidden (#76774)
 * Fix all cameras not having a charge action (#76762)
-* Dialogue debug: toggle display of conditionals/effects (#76681)
 * Gun spawn overhaul (#76714)
 * [Isolation Protocol] Fix trailing spaces (#76760)
 * Removed obsoleted faction camp stuff (#76753)
