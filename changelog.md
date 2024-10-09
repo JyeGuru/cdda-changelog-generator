@@ -1,3 +1,5 @@
+* Routine i18n updates on 05 October 2024 ([#76822](https://github.com/CleverRaven/Cataclysm-DDA/pull/76822))
+* Terraforming series ID and name mismatch repair ([#76867](https://github.com/CleverRaven/Cataclysm-DDA/pull/76867))
 
 ---
 
@@ -217,7 +219,6 @@
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power ([#76773](https://github.com/CleverRaven/Cataclysm-DDA/pull/76773))
 * Clarify that artifact effects should be hidden ([#76774](https://github.com/CleverRaven/Cataclysm-DDA/pull/76774))
 * Fix all cameras not having a charge action ([#76762](https://github.com/CleverRaven/Cataclysm-DDA/pull/76762))
-* Gun spawn overhaul ([#76714](https://github.com/CleverRaven/Cataclysm-DDA/pull/76714))
 * [Isolation Protocol] Fix trailing spaces ([#76760](https://github.com/CleverRaven/Cataclysm-DDA/pull/76760))
 * Removed obsoleted faction camp stuff ([#76753](https://github.com/CleverRaven/Cataclysm-DDA/pull/76753))
 * Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
@@ -227,7 +228,6 @@
 * Override dont change the names of monsters to the old ones ([#76737](https://github.com/CleverRaven/Cataclysm-DDA/pull/76737))
 * HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
 * Remove the baseball with barbed wire wrapped around it ([#76745](https://github.com/CleverRaven/Cataclysm-DDA/pull/76745))
-* [DinoMod] longer tail attacks ([#76716](https://github.com/CleverRaven/Cataclysm-DDA/pull/76716))
 * Update NPCs.md ([#76750](https://github.com/CleverRaven/Cataclysm-DDA/pull/76750))
 * New end screens ! ([#76732](https://github.com/CleverRaven/Cataclysm-DDA/pull/76732))
 * Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))
