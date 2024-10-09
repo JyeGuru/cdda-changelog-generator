@@ -1,3 +1,4 @@
+* Add character ID to solo faction IDs to ensure uniqueness (#76866)
 * reduce weight and volume of the jika-tabi sneakers (#76877)
 
 Cataclysm-DDA experimental build 2024-10-09-0748 (2cccbde)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2024-10-04-0444 (f9790c2)
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file (#76713)
 * Don't extract the remaining abstract things (#76702)
 * Make the three types of sand and gravel mounds connect (#76709)
-* Remove some raw tripoints (#76693)

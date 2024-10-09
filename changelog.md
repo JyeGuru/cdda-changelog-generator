@@ -1,3 +1,4 @@
+* Add character ID to solo faction IDs to ensure uniqueness ([#76866](https://github.com/CleverRaven/Cataclysm-DDA/pull/76866))
 * reduce weight and volume of the jika-tabi sneakers ([#76877](https://github.com/CleverRaven/Cataclysm-DDA/pull/76877))
 
 ---
@@ -226,4 +227,3 @@
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file ([#76713](https://github.com/CleverRaven/Cataclysm-DDA/pull/76713))
 * Don't extract the remaining abstract things ([#76702](https://github.com/CleverRaven/Cataclysm-DDA/pull/76702))
 * Make the three types of sand and gravel mounds connect ([#76709](https://github.com/CleverRaven/Cataclysm-DDA/pull/76709))
-* Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))
