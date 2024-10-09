@@ -1,3 +1,4 @@
+* [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
 * Fix #76733 ([#76914](https://github.com/CleverRaven/Cataclysm-DDA/pull/76914))
 
 ---
@@ -222,7 +223,6 @@
 * Closes #76534 Hair Growth After Haircutting is normal now. ([#76705](https://github.com/CleverRaven/Cataclysm-DDA/pull/76705))
 * Add Garter Belt Variant ([#76704](https://github.com/CleverRaven/Cataclysm-DDA/pull/76704))
 * Clang-tidy fix for #76696 ([#76719](https://github.com/CleverRaven/Cataclysm-DDA/pull/76719))
-* Routine i18n updates on 28 September 2024 ([#76699](https://github.com/CleverRaven/Cataclysm-DDA/pull/76699))
 * Fix Stillsuit Move Cost Effect ([#76708](https://github.com/CleverRaven/Cataclysm-DDA/pull/76708))
 * [Xedra Evolved] Fix a "Heater" can't be linked correctly ([#76703](https://github.com/CleverRaven/Cataclysm-DDA/pull/76703))
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file ([#76713](https://github.com/CleverRaven/Cataclysm-DDA/pull/76713))
