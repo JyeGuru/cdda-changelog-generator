@@ -1,3 +1,9 @@
+* reduce weight and volume of the jika-tabi sneakers ([#76877](https://github.com/CleverRaven/Cataclysm-DDA/pull/76877))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-09-0748 ([2cccbde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-0748))
+
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
 
 ---
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-10-04-0444 ([f9790c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-0444))
 
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-04-0225 ([91438e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-0225))
-
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
 * typified a bit of map.h/cpp + dependents ([#76712](https://github.com/CleverRaven/Cataclysm-DDA/pull/76712))
 * Adjust .22 Ammo Spawns ([#76727](https://github.com/CleverRaven/Cataclysm-DDA/pull/76727))
@@ -225,5 +226,4 @@
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file ([#76713](https://github.com/CleverRaven/Cataclysm-DDA/pull/76713))
 * Don't extract the remaining abstract things ([#76702](https://github.com/CleverRaven/Cataclysm-DDA/pull/76702))
 * Make the three types of sand and gravel mounds connect ([#76709](https://github.com/CleverRaven/Cataclysm-DDA/pull/76709))
-* Amending item: vibrator ([#76691](https://github.com/CleverRaven/Cataclysm-DDA/pull/76691))
 * Remove some raw tripoints ([#76693](https://github.com/CleverRaven/Cataclysm-DDA/pull/76693))

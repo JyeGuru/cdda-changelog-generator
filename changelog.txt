@@ -1,3 +1,6 @@
+* reduce weight and volume of the jika-tabi sneakers (#76877)
+
+Cataclysm-DDA experimental build 2024-10-09-0748 (2cccbde)
 * [MoM] NPCs can awaken in portal storms (#76906)
 
 Cataclysm-DDA experimental build 2024-10-09-0422 (ed3999a)
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2024-10-04-0532 (5f6f5e0)
 
 Cataclysm-DDA experimental build 2024-10-04-0444 (f9790c2)
 * human lard less calorie dense (#76806)
-
-Cataclysm-DDA experimental build 2024-10-04-0225 (91438e2)
 * Don't take integrated and no-takeoff items when mugging (#76787)
 * typified a bit of map.h/cpp + dependents (#76712)
 * Adjust .22 Ammo Spawns (#76727)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2024-10-04-0225 (91438e2)
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file (#76713)
 * Don't extract the remaining abstract things (#76702)
 * Make the three types of sand and gravel mounds connect (#76709)
-* Amending item: vibrator (#76691)
 * Remove some raw tripoints (#76693)
