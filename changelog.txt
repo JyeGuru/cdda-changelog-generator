@@ -1,3 +1,6 @@
+* [Sky Island] Add side storage (or whatever) rooms (#76846)
+
+Cataclysm-DDA experimental build 2024-10-09-0004 (f512d1f)
 * Add barrel length to Taurus Spectrum (#76874)
 * Fix Mosin battle rifle barrel length (#76872)
 * limit stomach_contents::capacity to be no less than 250 ml (#76883)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2024-10-04-0225 (91438e2)
 
 Cataclysm-DDA experimental build 2024-10-03-0351 (ab829c3)
 * Turn the .300 BLK X95 into 556 (#76786)
-
-Cataclysm-DDA experimental build 2024-10-02-2303 (05365a3)
 * replace landmines with beartraps in the bandit cabin (#76768)
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power (#76773)
 * Clarify that artifact effects should be hidden (#76774)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-10-02-2303 (05365a3)
 * Amending item: vibrator (#76691)
 * Remove some raw tripoints (#76693)
 * Fix mission reference to nonexistent om_terrain (#76684)
-* Added NOCOLLIDE flags to most 'hanging rope'-types of furniture (#76677)
