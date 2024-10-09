@@ -1,3 +1,4 @@
+* Denim Clothing Warmth Changes ([#76861](https://github.com/CleverRaven/Cataclysm-DDA/pull/76861))
 
 ---
 
@@ -175,7 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-10-04-0225 ([91438e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-0225))
 
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
-* Cleaner frogs ([#76680](https://github.com/CleverRaven/Cataclysm-DDA/pull/76680))
 * typified a bit of map.h/cpp + dependents ([#76712](https://github.com/CleverRaven/Cataclysm-DDA/pull/76712))
 * Adjust .22 Ammo Spawns ([#76727](https://github.com/CleverRaven/Cataclysm-DDA/pull/76727))
 * Move Zombie Bio Operators to No Hope ([#76744](https://github.com/CleverRaven/Cataclysm-DDA/pull/76744))

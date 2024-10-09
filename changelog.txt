@@ -1,3 +1,4 @@
+* Denim Clothing Warmth Changes (#76861)
 
 Cataclysm-DDA experimental build 2024-10-09-0208 (7c6e988)
 * [Sky Island] Add side storage (or whatever) rooms (#76846)
@@ -97,7 +98,6 @@ Cataclysm-DDA experimental build 2024-10-04-0444 (f9790c2)
 
 Cataclysm-DDA experimental build 2024-10-04-0225 (91438e2)
 * Don't take integrated and no-takeoff items when mugging (#76787)
-* Cleaner frogs (#76680)
 * typified a bit of map.h/cpp + dependents (#76712)
 * Adjust .22 Ammo Spawns (#76727)
 * Move Zombie Bio Operators to No Hope (#76744)
