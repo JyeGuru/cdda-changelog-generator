@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-09-0208 ([7c6e988](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-0208))
+
 * [Sky Island] Add side storage (or whatever) rooms ([#76846](https://github.com/CleverRaven/Cataclysm-DDA/pull/76846))
 
 ---
@@ -180,11 +185,6 @@
 * Replace medication activation messages with a template ([#76775](https://github.com/CleverRaven/Cataclysm-DDA/pull/76775))
 * Fix CI for 0.H by not running tests with with wip limbs mod and Magiclysm together ([#76765](https://github.com/CleverRaven/Cataclysm-DDA/pull/76765))
 * Added doc to 'CARGO_PASSABLE' flag ([#76784](https://github.com/CleverRaven/Cataclysm-DDA/pull/76784))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-03-0351 ([ab829c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-03-0351))
-
 * Turn the .300 BLK X95 into 556 ([#76786](https://github.com/CleverRaven/Cataclysm-DDA/pull/76786))
 * replace landmines with beartraps in the bandit cabin ([#76768](https://github.com/CleverRaven/Cataclysm-DDA/pull/76768))
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power ([#76773](https://github.com/CleverRaven/Cataclysm-DDA/pull/76773))
