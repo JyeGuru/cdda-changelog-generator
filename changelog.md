@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-09-1847 ([bed2910](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-1847))
+
 * Spend time when taking off items via 'T' in item examine menu ([#76869](https://github.com/CleverRaven/Cataclysm-DDA/pull/76869))
 * Add barrel length to Beretta 90-two ([#76873](https://github.com/CleverRaven/Cataclysm-DDA/pull/76873))
 * [Xedra Evolved] Little cleanups ([#76881](https://github.com/CleverRaven/Cataclysm-DDA/pull/76881))
