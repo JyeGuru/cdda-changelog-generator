@@ -1,3 +1,6 @@
+* Only call loading_ui::done when actually done ([#76807](https://github.com/CleverRaven/Cataclysm-DDA/pull/76807))
+* Replaced 'motel' and '2-floor motel' with twd motel as possible start location for Low Profile scenario ([#76794](https://github.com/CleverRaven/Cataclysm-DDA/pull/76794))
+* [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
 
 ---
 
@@ -220,10 +223,7 @@
 * New end screens ! ([#76732](https://github.com/CleverRaven/Cataclysm-DDA/pull/76732))
 * Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))
 * Fix condition of learning mortar recipe from cement bag ([#76741](https://github.com/CleverRaven/Cataclysm-DDA/pull/76741))
-* Closes #76534 Hair Growth After Haircutting is normal now. ([#76705](https://github.com/CleverRaven/Cataclysm-DDA/pull/76705))
-* Add Garter Belt Variant ([#76704](https://github.com/CleverRaven/Cataclysm-DDA/pull/76704))
 * Clang-tidy fix for #76696 ([#76719](https://github.com/CleverRaven/Cataclysm-DDA/pull/76719))
 * Fix Stillsuit Move Cost Effect ([#76708](https://github.com/CleverRaven/Cataclysm-DDA/pull/76708))
-* [Xedra Evolved] Fix a "Heater" can't be linked correctly ([#76703](https://github.com/CleverRaven/Cataclysm-DDA/pull/76703))
 * Remove message.h/cpp includes from Cataclysm-lib-vcpkg-static project file ([#76713](https://github.com/CleverRaven/Cataclysm-DDA/pull/76713))
 * Make the three types of sand and gravel mounds connect ([#76709](https://github.com/CleverRaven/Cataclysm-DDA/pull/76709))
