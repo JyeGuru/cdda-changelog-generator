@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-09-1302 ([71a9cbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-1302))
+
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
 * Fix #76733 ([#76914](https://github.com/CleverRaven/Cataclysm-DDA/pull/76914))
 
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2024-10-04-2005 ([a9f6b50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-2005))
 
 * Remove even more unused stuff ([#76813](https://github.com/CleverRaven/Cataclysm-DDA/pull/76813))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-04-0532 ([5f6f5e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-0532))
-
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))

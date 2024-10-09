@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-09-1302 (71a9cbb)
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment (#76911)
 * Fix #76733 (#76914)
 
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2024-10-04-2157 (0c8023e)
 
 Cataclysm-DDA experimental build 2024-10-04-2005 (a9f6b50)
 * Remove even more unused stuff (#76813)
-
-Cataclysm-DDA experimental build 2024-10-04-0532 (5f6f5e0)
 * Remove Military Professions mod (#76805)
 * human lard less calorie dense (#76806)
 * Don't take integrated and no-takeoff items when mugging (#76787)
