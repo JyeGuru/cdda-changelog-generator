@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-09-0422 (ed3999a)
 * Vest and jacket tweaks (#76863)
 * Denim Clothing Warmth Changes (#76861)
 
