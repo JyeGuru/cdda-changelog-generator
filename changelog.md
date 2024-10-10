@@ -1,3 +1,6 @@
+* Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
+* Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
+* [Bombastic Perks/MoM] Add MoM-specific perks ([#76853](https://github.com/CleverRaven/Cataclysm-DDA/pull/76853))
 
 ---
 
@@ -125,7 +128,6 @@
 
 * Fix consume activity creation from liquid handler ([#76819](https://github.com/CleverRaven/Cataclysm-DDA/pull/76819))
 * [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
-* Ravenfolk updates ([#76725](https://github.com/CleverRaven/Cataclysm-DDA/pull/76725))
 
 ---
 
@@ -196,13 +198,11 @@
 * Dialogue: JSON fields for displaying hidden responses ([#76804](https://github.com/CleverRaven/Cataclysm-DDA/pull/76804))
 * Character randomization sometimes produces 'crossdressing' characters ([#76812](https://github.com/CleverRaven/Cataclysm-DDA/pull/76812))
 * do not suppress missing/failed to load json error ([#76803](https://github.com/CleverRaven/Cataclysm-DDA/pull/76803))
-* typed tripoints in iexamine functions ([#76722](https://github.com/CleverRaven/Cataclysm-DDA/pull/76722))
 * Ruin the ballista, ruin the game ([#76809](https://github.com/CleverRaven/Cataclysm-DDA/pull/76809))
 * Remove even more unused stuff ([#76813](https://github.com/CleverRaven/Cataclysm-DDA/pull/76813))
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
-* Adjust .22 Ammo Spawns ([#76727](https://github.com/CleverRaven/Cataclysm-DDA/pull/76727))
 * Move Zombie Bio Operators to No Hope ([#76744](https://github.com/CleverRaven/Cataclysm-DDA/pull/76744))
 * [MoM] Allow Intuitive Artisan to craft in complete darkness (because you close your eyes and let the visions take over) ([#76763](https://github.com/CleverRaven/Cataclysm-DDA/pull/76763))
 * Avoid JSON errors on Windows with no sound devices ([#76782](https://github.com/CleverRaven/Cataclysm-DDA/pull/76782))
