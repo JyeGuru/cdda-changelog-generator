@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-10-2138 ([6b8bda9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-2138))
+
 * disable support for `x-min`/`x-max` itemgroup fields ([#76917](https://github.com/CleverRaven/Cataclysm-DDA/pull/76917))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-10-06-1410 ([818c3ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-06-1410))
 
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-05-2141 ([f71f48d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-05-2141))
-
 * Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
 * Small patch to ranged balance test flakiness ([#76824](https://github.com/CleverRaven/Cataclysm-DDA/pull/76824))
 * Increase the batch size of the calcium carbide producing reaction ([#76788](https://github.com/CleverRaven/Cataclysm-DDA/pull/76788))

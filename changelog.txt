@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-10-2138 (6b8bda9)
 * disable support for `x-min`/`x-max` itemgroup fields (#76917)
 
 Cataclysm-DDA experimental build 2024-10-10-1840 (a44d848)
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2024-10-06-1646 (d1f34b5)
 
 Cataclysm-DDA experimental build 2024-10-06-1410 (818c3ef)
 * Make more zombies wear wedding rings (#76852)
-
-Cataclysm-DDA experimental build 2024-10-05-2141 (f71f48d)
 * Added check for stealing prior to inserting items into container (#76826)
 * Small patch to ranged balance test flakiness (#76824)
 * Increase the batch size of the calcium carbide producing reaction (#76788)
