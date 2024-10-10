@@ -1,3 +1,5 @@
+* Remove dead code, move doc to `.h` ([#76789](https://github.com/CleverRaven/Cataclysm-DDA/pull/76789))
+* Start of cataclysm day and start of game day now respect season length ([#76752](https://github.com/CleverRaven/Cataclysm-DDA/pull/76752))
 
 ---
 
@@ -230,5 +232,3 @@
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
 * Electronic devices spawn rate rework ([#76759](https://github.com/CleverRaven/Cataclysm-DDA/pull/76759))
 * HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
-* Update NPCs.md ([#76750](https://github.com/CleverRaven/Cataclysm-DDA/pull/76750))
-* Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))

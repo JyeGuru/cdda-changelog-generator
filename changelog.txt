@@ -1,3 +1,5 @@
+* Remove dead code, move doc to `.h` (#76789)
+* Start of cataclysm day and start of game day now respect season length (#76752)
 
 Cataclysm-DDA experimental build 2024-10-10-2138 (6b8bda9)
 * disable support for `x-min`/`x-max` itemgroup fields (#76917)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2024-10-06-1410 (818c3ef)
 * Update JSON_INFO.md (#76770)
 * Electronic devices spawn rate rework (#76759)
 * HUB01 templates' spawn is more predictable (#76751)
-* Update NPCs.md (#76750)
-* Routine tileset updates on 01 October 2024 (#76749)
