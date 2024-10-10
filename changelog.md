@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-10-1840 ([a44d848](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-1840))
+
+* Add reload_one flag to benelli_sa ([#76937](https://github.com/CleverRaven/Cataclysm-DDA/pull/76937))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-10-0837 ([f18d1e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-0837))
 
 * Port the TropiCata guineafowl to vanilla ([#76816](https://github.com/CleverRaven/Cataclysm-DDA/pull/76816))
@@ -195,11 +201,6 @@
 
 * Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
 * Small patch to ranged balance test flakiness ([#76824](https://github.com/CleverRaven/Cataclysm-DDA/pull/76824))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-05-0602 ([65aca7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-05-0602))
-
 * Increase the batch size of the calcium carbide producing reaction ([#76788](https://github.com/CleverRaven/Cataclysm-DDA/pull/76788))
 * wrap sound_init_success in #if defined(SDL_SOUND) block ([#76802](https://github.com/CleverRaven/Cataclysm-DDA/pull/76802))
 * [DinoMod] DinoZoo update ([#76781](https://github.com/CleverRaven/Cataclysm-DDA/pull/76781))
@@ -232,4 +233,3 @@
 * Remove the baseball with barbed wire wrapped around it ([#76745](https://github.com/CleverRaven/Cataclysm-DDA/pull/76745))
 * Update NPCs.md ([#76750](https://github.com/CleverRaven/Cataclysm-DDA/pull/76750))
 * Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))
-* Fix condition of learning mortar recipe from cement bag ([#76741](https://github.com/CleverRaven/Cataclysm-DDA/pull/76741))

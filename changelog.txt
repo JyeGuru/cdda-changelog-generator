@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-10-1840 (a44d848)
+* Add reload_one flag to benelli_sa (#76937)
+
 Cataclysm-DDA experimental build 2024-10-10-0837 (f18d1e3)
 * Port the TropiCata guineafowl to vanilla (#76816)
 * Spells can damage other limbs (#76818)
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2024-10-06-1410 (818c3ef)
 Cataclysm-DDA experimental build 2024-10-05-2141 (f71f48d)
 * Added check for stealing prior to inserting items into container (#76826)
 * Small patch to ranged balance test flakiness (#76824)
-
-Cataclysm-DDA experimental build 2024-10-05-0602 (65aca7f)
 * Increase the batch size of the calcium carbide producing reaction (#76788)
 * wrap sound_init_success in #if defined(SDL_SOUND) block (#76802)
 * [DinoMod] DinoZoo update (#76781)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2024-10-05-0602 (65aca7f)
 * Remove the baseball with barbed wire wrapped around it (#76745)
 * Update NPCs.md (#76750)
 * Routine tileset updates on 01 October 2024 (#76749)
-* Fix condition of learning mortar recipe from cement bag (#76741)
