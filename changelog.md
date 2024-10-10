@@ -1,3 +1,4 @@
+* disable support for `x-min`/`x-max` itemgroup fields ([#76917](https://github.com/CleverRaven/Cataclysm-DDA/pull/76917))
 
 ---
 
@@ -212,7 +213,6 @@
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
-* Move Zombie Bio Operators to No Hope ([#76744](https://github.com/CleverRaven/Cataclysm-DDA/pull/76744))
 * [MoM] Allow Intuitive Artisan to craft in complete darkness (because you close your eyes and let the visions take over) ([#76763](https://github.com/CleverRaven/Cataclysm-DDA/pull/76763))
 * Avoid JSON errors on Windows with no sound devices ([#76782](https://github.com/CleverRaven/Cataclysm-DDA/pull/76782))
 * [Magiclysm] Add feral stormshapers ([#76766](https://github.com/CleverRaven/Cataclysm-DDA/pull/76766))
