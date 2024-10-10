@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-10-0631 ([9c531b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-0631))
+
+* Always show player's destination as possible goto-location option ([#76922](https://github.com/CleverRaven/Cataclysm-DDA/pull/76922))
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * [Bombastic Perks/MoM] Add MoM-specific perks ([#76853](https://github.com/CleverRaven/Cataclysm-DDA/pull/76853))
@@ -190,11 +196,6 @@
 * Increase the batch size of the calcium carbide producing reaction ([#76788](https://github.com/CleverRaven/Cataclysm-DDA/pull/76788))
 * wrap sound_init_success in #if defined(SDL_SOUND) block ([#76802](https://github.com/CleverRaven/Cataclysm-DDA/pull/76802))
 * [DinoMod] DinoZoo update ([#76781](https://github.com/CleverRaven/Cataclysm-DDA/pull/76781))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-05-0257 ([6815c0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-05-0257))
-
 * Dialogue: JSON fields for displaying hidden responses ([#76804](https://github.com/CleverRaven/Cataclysm-DDA/pull/76804))
 * Character randomization sometimes produces 'crossdressing' characters ([#76812](https://github.com/CleverRaven/Cataclysm-DDA/pull/76812))
 * do not suppress missing/failed to load json error ([#76803](https://github.com/CleverRaven/Cataclysm-DDA/pull/76803))
@@ -219,7 +220,6 @@
 * Removed obsoleted faction camp stuff ([#76753](https://github.com/CleverRaven/Cataclysm-DDA/pull/76753))
 * Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
-* [MoM] Fix Missing mind shield (0.H Backport) ([#76731](https://github.com/CleverRaven/Cataclysm-DDA/pull/76731))
 * Electronic devices spawn rate rework ([#76759](https://github.com/CleverRaven/Cataclysm-DDA/pull/76759))
 * Override dont change the names of monsters to the old ones ([#76737](https://github.com/CleverRaven/Cataclysm-DDA/pull/76737))
 * HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
