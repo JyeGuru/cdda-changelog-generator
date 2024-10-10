@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-10-0437 ([77d6189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-0437))
+
+* Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
 * Routine i18n updates on 05 October 2024 ([#76822](https://github.com/CleverRaven/Cataclysm-DDA/pull/76822))
 * Terraforming series ID and name mismatch repair ([#76867](https://github.com/CleverRaven/Cataclysm-DDA/pull/76867))
 
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-10-05-0257 ([6815c0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-05-0257))
 
 * Dialogue: JSON fields for displaying hidden responses ([#76804](https://github.com/CleverRaven/Cataclysm-DDA/pull/76804))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-04-2322 ([34aab02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-04-2322))
-
 * Character randomization sometimes produces 'crossdressing' characters ([#76812](https://github.com/CleverRaven/Cataclysm-DDA/pull/76812))
 * do not suppress missing/failed to load json error ([#76803](https://github.com/CleverRaven/Cataclysm-DDA/pull/76803))
 * typed tripoints in iexamine functions ([#76722](https://github.com/CleverRaven/Cataclysm-DDA/pull/76722))
@@ -227,4 +228,3 @@
 * New end screens ! ([#76732](https://github.com/CleverRaven/Cataclysm-DDA/pull/76732))
 * Routine tileset updates on 01 October 2024 ([#76749](https://github.com/CleverRaven/Cataclysm-DDA/pull/76749))
 * Fix condition of learning mortar recipe from cement bag ([#76741](https://github.com/CleverRaven/Cataclysm-DDA/pull/76741))
-* Clang-tidy fix for #76696 ([#76719](https://github.com/CleverRaven/Cataclysm-DDA/pull/76719))
