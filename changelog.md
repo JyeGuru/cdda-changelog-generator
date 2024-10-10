@@ -1,5 +1,6 @@
+* Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
+* Fix #76414: Can't activate item - character instead tries to eat it. ([#76823](https://github.com/CleverRaven/Cataclysm-DDA/pull/76823))
 * Remove dead code, move doc to `.h` ([#76789](https://github.com/CleverRaven/Cataclysm-DDA/pull/76789))
-* Start of cataclysm day and start of game day now respect season length ([#76752](https://github.com/CleverRaven/Cataclysm-DDA/pull/76752))
 
 ---
 
@@ -231,4 +232,3 @@
 * Remove `kill_advanced_inv` ([#76755](https://github.com/CleverRaven/Cataclysm-DDA/pull/76755))
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
 * Electronic devices spawn rate rework ([#76759](https://github.com/CleverRaven/Cataclysm-DDA/pull/76759))
-* HUB01 templates' spawn is more predictable ([#76751](https://github.com/CleverRaven/Cataclysm-DDA/pull/76751))
