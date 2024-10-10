@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-10-0837 ([f18d1e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-0837))
+
 * Port the TropiCata guineafowl to vanilla ([#76816](https://github.com/CleverRaven/Cataclysm-DDA/pull/76816))
 * Spells can damage other limbs ([#76818](https://github.com/CleverRaven/Cataclysm-DDA/pull/76818))
 
