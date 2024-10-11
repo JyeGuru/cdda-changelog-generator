@@ -1,3 +1,4 @@
+* No more multiple wedding rings per zombie ([#76951](https://github.com/CleverRaven/Cataclysm-DDA/pull/76951))
 * Allow rot_spawn use monster id directly ([#76845](https://github.com/CleverRaven/Cataclysm-DDA/pull/76845))
 * Portal Storm Voice's Subtle Foreshadowing ([#76947](https://github.com/CleverRaven/Cataclysm-DDA/pull/76947))
 
@@ -231,5 +232,4 @@
 * replace landmines with beartraps in the bandit cabin ([#76768](https://github.com/CleverRaven/Cataclysm-DDA/pull/76768))
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power ([#76773](https://github.com/CleverRaven/Cataclysm-DDA/pull/76773))
 * Clarify that artifact effects should be hidden ([#76774](https://github.com/CleverRaven/Cataclysm-DDA/pull/76774))
-* Fix all cameras not having a charge action ([#76762](https://github.com/CleverRaven/Cataclysm-DDA/pull/76762))
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
