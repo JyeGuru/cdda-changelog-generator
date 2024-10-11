@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-10-2358 ([11886ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-2358))
+
 * Forbid modding integrated tools ([#76941](https://github.com/CleverRaven/Cataclysm-DDA/pull/76941))
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere ([#76928](https://github.com/CleverRaven/Cataclysm-DDA/pull/76928))
 * Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
@@ -184,11 +189,6 @@
 
 * Fixed crash on trying to unwield heavy items when trying to drive ([#76829](https://github.com/CleverRaven/Cataclysm-DDA/pull/76829))
 * [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-06-1748 ([7ba06d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-06-1748))
-
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
 * Make garlic smokable ([#76847](https://github.com/CleverRaven/Cataclysm-DDA/pull/76847))
 
