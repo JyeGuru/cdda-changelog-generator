@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-11-2346 ([9437078](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-11-2346))
+
 * No more multiple wedding rings per zombie ([#76951](https://github.com/CleverRaven/Cataclysm-DDA/pull/76951))
 * Allow rot_spawn use monster id directly ([#76845](https://github.com/CleverRaven/Cataclysm-DDA/pull/76845))
 * Portal Storm Voice's Subtle Foreshadowing ([#76947](https://github.com/CleverRaven/Cataclysm-DDA/pull/76947))
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-10-07-0342 ([128e941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-0342))
 
 * typified a bit of map.h/cpp + dependencies ([#76795](https://github.com/CleverRaven/Cataclysm-DDA/pull/76795))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-06-2353 ([ec77c5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-06-2353))
-
 * [Backport?] Fix feral wizard species from #71275 ([#76825](https://github.com/CleverRaven/Cataclysm-DDA/pull/76825))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))

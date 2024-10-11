@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-11-2346 (9437078)
 * No more multiple wedding rings per zombie (#76951)
 * Allow rot_spawn use monster id directly (#76845)
 * Portal Storm Voice's Subtle Foreshadowing (#76947)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-10-07-0632 (442da86)
 
 Cataclysm-DDA experimental build 2024-10-07-0342 (128e941)
 * typified a bit of map.h/cpp + dependencies (#76795)
-
-Cataclysm-DDA 0.H release candidate 2024-10-06-2353 (ec77c5f)
 * [Backport?] Fix feral wizard species from #71275 (#76825)
 * Backport #76175 (grass regrows for grazing) to 0.H (#76855)
 * Backport #72234 (Refactor camp hunting function) for 0.H (#76858)
