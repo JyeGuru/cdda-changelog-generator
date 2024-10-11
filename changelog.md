@@ -1,3 +1,11 @@
+* Allow rot_spawn use monster id directly ([#76845](https://github.com/CleverRaven/Cataclysm-DDA/pull/76845))
+* Portal Storm Voice's Subtle Foreshadowing ([#76947](https://github.com/CleverRaven/Cataclysm-DDA/pull/76947))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-11-2113 ([405e875](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-11-2113))
+
+* [Xedra Evolved] Dreamforged Nail ([#76952](https://github.com/CleverRaven/Cataclysm-DDA/pull/76952))
 
 ---
 
@@ -176,11 +184,6 @@
 
 * [Backport?] Fix feral wizard species from #71275 ([#76825](https://github.com/CleverRaven/Cataclysm-DDA/pull/76825))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-06-2107 ([57ba47d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-06-2107))
-
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))
 
 ---
@@ -229,6 +232,4 @@
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power ([#76773](https://github.com/CleverRaven/Cataclysm-DDA/pull/76773))
 * Clarify that artifact effects should be hidden ([#76774](https://github.com/CleverRaven/Cataclysm-DDA/pull/76774))
 * Fix all cameras not having a charge action ([#76762](https://github.com/CleverRaven/Cataclysm-DDA/pull/76762))
-* [Isolation Protocol] Fix trailing spaces ([#76760](https://github.com/CleverRaven/Cataclysm-DDA/pull/76760))
 * Update JSON_INFO.md ([#76770](https://github.com/CleverRaven/Cataclysm-DDA/pull/76770))
-* Electronic devices spawn rate rework ([#76759](https://github.com/CleverRaven/Cataclysm-DDA/pull/76759))

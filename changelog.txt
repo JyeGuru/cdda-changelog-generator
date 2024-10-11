@@ -1,3 +1,8 @@
+* Allow rot_spawn use monster id directly (#76845)
+* Portal Storm Voice's Subtle Foreshadowing (#76947)
+
+Cataclysm-DDA experimental build 2024-10-11-2113 (405e875)
+* [Xedra Evolved] Dreamforged Nail (#76952)
 
 Cataclysm-DDA experimental build 2024-10-10-2358 (11886ea)
 * Forbid modding integrated tools (#76941)
@@ -104,8 +109,6 @@ Cataclysm-DDA experimental build 2024-10-07-0342 (128e941)
 Cataclysm-DDA 0.H release candidate 2024-10-06-2353 (ec77c5f)
 * [Backport?] Fix feral wizard species from #71275 (#76825)
 * Backport #76175 (grass regrows for grazing) to 0.H (#76855)
-
-Cataclysm-DDA 0.H release candidate 2024-10-06-2107 (57ba47d)
 * Backport #72234 (Refactor camp hunting function) for 0.H (#76858)
 
 Cataclysm-DDA experimental build 2024-10-06-1942 (b65f3e6)
@@ -145,6 +148,4 @@ Cataclysm-DDA experimental build 2024-10-06-1410 (818c3ef)
 * [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power (#76773)
 * Clarify that artifact effects should be hidden (#76774)
 * Fix all cameras not having a charge action (#76762)
-* [Isolation Protocol] Fix trailing spaces (#76760)
 * Update JSON_INFO.md (#76770)
-* Electronic devices spawn rate rework (#76759)
