@@ -1,3 +1,4 @@
+* Lab entrance misdirection no longer needed thanks to vision levels ([#76967](https://github.com/CleverRaven/Cataclysm-DDA/pull/76967))
 * add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
 * fungalize stages for zombies ([#76849](https://github.com/CleverRaven/Cataclysm-DDA/pull/76849))
 * Don't apply additional move cost for moving barefoot in deep water ([#76949](https://github.com/CleverRaven/Cataclysm-DDA/pull/76949))
@@ -232,4 +233,3 @@
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
-* Turn the .300 BLK X95 into 556 ([#76786](https://github.com/CleverRaven/Cataclysm-DDA/pull/76786))
