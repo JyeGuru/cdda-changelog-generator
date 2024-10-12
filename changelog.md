@@ -1,3 +1,12 @@
+* Routine i18n updates on 12 October 2024 ([#76985](https://github.com/CleverRaven/Cataclysm-DDA/pull/76985))
+* Wrap run_eocs properly ([#76970](https://github.com/CleverRaven/Cataclysm-DDA/pull/76970))
+* Fix set of clothes crash ([#76978](https://github.com/CleverRaven/Cataclysm-DDA/pull/76978))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-12-1520 ([edd6787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-1520))
+
+* Colored cropped hoodies ([#76984](https://github.com/CleverRaven/Cataclysm-DDA/pull/76984))
 
 ---
 
@@ -48,7 +57,6 @@
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere ([#76928](https://github.com/CleverRaven/Cataclysm-DDA/pull/76928))
 * Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
 * Fix #76414: Can't activate item - character instead tries to eat it. ([#76823](https://github.com/CleverRaven/Cataclysm-DDA/pull/76823))
-* Remove dead code, move doc to `.h` ([#76789](https://github.com/CleverRaven/Cataclysm-DDA/pull/76789))
 
 ---
 
@@ -204,11 +212,6 @@
 
 * Fix consume activity creation from liquid handler ([#76819](https://github.com/CleverRaven/Cataclysm-DDA/pull/76819))
 * [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-07-0342 ([128e941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-0342))
-
 * typified a bit of map.h/cpp + dependencies ([#76795](https://github.com/CleverRaven/Cataclysm-DDA/pull/76795))
 * [Backport?] Fix feral wizard species from #71275 ([#76825](https://github.com/CleverRaven/Cataclysm-DDA/pull/76825))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
@@ -223,7 +226,6 @@
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
 * Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
 * Small patch to ranged balance test flakiness ([#76824](https://github.com/CleverRaven/Cataclysm-DDA/pull/76824))
-* Increase the batch size of the calcium carbide producing reaction ([#76788](https://github.com/CleverRaven/Cataclysm-DDA/pull/76788))
 * wrap sound_init_success in #if defined(SDL_SOUND) block ([#76802](https://github.com/CleverRaven/Cataclysm-DDA/pull/76802))
 * Dialogue: JSON fields for displaying hidden responses ([#76804](https://github.com/CleverRaven/Cataclysm-DDA/pull/76804))
 * Character randomization sometimes produces 'crossdressing' characters ([#76812](https://github.com/CleverRaven/Cataclysm-DDA/pull/76812))
@@ -232,4 +234,3 @@
 * Remove even more unused stuff ([#76813](https://github.com/CleverRaven/Cataclysm-DDA/pull/76813))
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
-* Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
