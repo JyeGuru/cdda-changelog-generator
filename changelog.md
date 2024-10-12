@@ -3,6 +3,11 @@
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-12-0338 ([e177a96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-0338))
+
 * No longer able to wear already worn items ([#76879](https://github.com/CleverRaven/Cataclysm-DDA/pull/76879))
 * typified a bit of map.cpp and dependents ([#76900](https://github.com/CleverRaven/Cataclysm-DDA/pull/76900))
 
@@ -210,11 +215,6 @@
 * [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
 * Make garlic smokable ([#76847](https://github.com/CleverRaven/Cataclysm-DDA/pull/76847))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-06-1646 ([d1f34b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-06-1646))
-
 * Un-popup the Beautiful Nether Lily Messages ([#76834](https://github.com/CleverRaven/Cataclysm-DDA/pull/76834))
 * fix typo in dreamsmith hammer spell ([#76840](https://github.com/CleverRaven/Cataclysm-DDA/pull/76840))
 * fix mutation spell not checking stamina ([#76841](https://github.com/CleverRaven/Cataclysm-DDA/pull/76841))
