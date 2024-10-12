@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-12-0722 ([b2e7940](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-0722))
+
 * Lab entrance misdirection no longer needed thanks to vision levels ([#76967](https://github.com/CleverRaven/Cataclysm-DDA/pull/76967))
 * add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
 * fungalize stages for zombies ([#76849](https://github.com/CleverRaven/Cataclysm-DDA/pull/76849))
@@ -208,11 +213,6 @@
 * [Backport?] Fix feral wizard species from #71275 ([#76825](https://github.com/CleverRaven/Cataclysm-DDA/pull/76825))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-06-1942 ([b65f3e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-06-1942))
-
 * Fixed crash on trying to unwield heavy items when trying to drive ([#76829](https://github.com/CleverRaven/Cataclysm-DDA/pull/76829))
 * [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
