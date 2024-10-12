@@ -1,3 +1,4 @@
+* transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
 
 ---
 
@@ -212,7 +213,6 @@
 * Cabin in Safe Place scenario is now actually safe ([#76870](https://github.com/CleverRaven/Cataclysm-DDA/pull/76870))
 * Fix consume activity creation from liquid handler ([#76819](https://github.com/CleverRaven/Cataclysm-DDA/pull/76819))
 * [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
-* typified a bit of map.h/cpp + dependencies ([#76795](https://github.com/CleverRaven/Cataclysm-DDA/pull/76795))
 * [Backport?] Fix feral wizard species from #71275 ([#76825](https://github.com/CleverRaven/Cataclysm-DDA/pull/76825))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))

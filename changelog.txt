@@ -1,3 +1,4 @@
+* transpiration typo (#76995)
 
 Cataclysm-DDA experimental build 2024-10-12-1758 (38fc3b4)
 * Fix some Britishisms in the JSON files. (#76981)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2024-10-07-1309 (129eb0b)
 * Cabin in Safe Place scenario is now actually safe (#76870)
 * Fix consume activity creation from liquid handler (#76819)
 * [MoM] Add Attunement meter to Spacebar UI (#76850)
-* typified a bit of map.h/cpp + dependencies (#76795)
 * [Backport?] Fix feral wizard species from #71275 (#76825)
 * Backport #76175 (grass regrows for grazing) to 0.H (#76855)
 * Backport #72234 (Refactor camp hunting function) for 0.H (#76858)
