@@ -222,7 +222,6 @@
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
-* [MoM] Allow Intuitive Artisan to craft in complete darkness (because you close your eyes and let the visions take over) ([#76763](https://github.com/CleverRaven/Cataclysm-DDA/pull/76763))
 * Avoid JSON errors on Windows with no sound devices ([#76782](https://github.com/CleverRaven/Cataclysm-DDA/pull/76782))
 * [Magiclysm] Add feral stormshapers ([#76766](https://github.com/CleverRaven/Cataclysm-DDA/pull/76766))
 * Replace medication activation messages with a template ([#76775](https://github.com/CleverRaven/Cataclysm-DDA/pull/76775))
