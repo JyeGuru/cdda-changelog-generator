@@ -1,3 +1,4 @@
+* fix spells segfaulting from wrong creature ([#76969](https://github.com/CleverRaven/Cataclysm-DDA/pull/76969))
 * Zombie corpses rot into bones + Clean up zombie harvestlist hell ([#76865](https://github.com/CleverRaven/Cataclysm-DDA/pull/76865))
 
 ---
@@ -227,7 +228,6 @@
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
 * Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
 * Small patch to ranged balance test flakiness ([#76824](https://github.com/CleverRaven/Cataclysm-DDA/pull/76824))
-* wrap sound_init_success in #if defined(SDL_SOUND) block ([#76802](https://github.com/CleverRaven/Cataclysm-DDA/pull/76802))
 * Dialogue: JSON fields for displaying hidden responses ([#76804](https://github.com/CleverRaven/Cataclysm-DDA/pull/76804))
 * Character randomization sometimes produces 'crossdressing' characters ([#76812](https://github.com/CleverRaven/Cataclysm-DDA/pull/76812))
 * do not suppress missing/failed to load json error ([#76803](https://github.com/CleverRaven/Cataclysm-DDA/pull/76803))

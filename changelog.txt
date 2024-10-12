@@ -1,3 +1,4 @@
+* fix spells segfaulting from wrong creature (#76969)
 * Zombie corpses rot into bones + Clean up zombie harvestlist hell (#76865)
 
 Cataclysm-DDA experimental build 2024-10-12-2045 (4038ffe)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2024-10-07-1634 (35153de)
 * Make more zombies wear wedding rings (#76852)
 * Added check for stealing prior to inserting items into container (#76826)
 * Small patch to ranged balance test flakiness (#76824)
-* wrap sound_init_success in #if defined(SDL_SOUND) block (#76802)
 * Dialogue: JSON fields for displaying hidden responses (#76804)
 * Character randomization sometimes produces 'crossdressing' characters (#76812)
 * do not suppress missing/failed to load json error (#76803)
