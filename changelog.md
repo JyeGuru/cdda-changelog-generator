@@ -1,3 +1,4 @@
+* add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
 * fungalize stages for zombies ([#76849](https://github.com/CleverRaven/Cataclysm-DDA/pull/76849))
 * Don't apply additional move cost for moving barefoot in deep water ([#76949](https://github.com/CleverRaven/Cataclysm-DDA/pull/76949))
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
@@ -231,5 +232,4 @@
 * Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
-* Added doc to 'CARGO_PASSABLE' flag ([#76784](https://github.com/CleverRaven/Cataclysm-DDA/pull/76784))
 * Turn the .300 BLK X95 into 556 ([#76786](https://github.com/CleverRaven/Cataclysm-DDA/pull/76786))
