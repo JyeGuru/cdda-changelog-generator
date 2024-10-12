@@ -1,3 +1,4 @@
+* Zombie corpses rot into bones + Clean up zombie harvestlist hell (#76865)
 
 Cataclysm-DDA experimental build 2024-10-12-2045 (4038ffe)
 * transpiration typo (#76995)

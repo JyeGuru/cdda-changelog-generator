@@ -1,3 +1,4 @@
+* Zombie corpses rot into bones + Clean up zombie harvestlist hell ([#76865](https://github.com/CleverRaven/Cataclysm-DDA/pull/76865))
 
 ---
 
