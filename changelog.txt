@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-12-2045 (4038ffe)
 * transpiration typo (#76995)
 
 Cataclysm-DDA experimental build 2024-10-12-1758 (38fc3b4)
@@ -124,8 +126,6 @@ Cataclysm-DDA experimental build 2024-10-07-2003 (2fb734c)
 Cataclysm-DDA experimental build 2024-10-07-1634 (35153de)
 * Make chilis smokable (#76851)
 * Add some NPC pilots to the world (#76862)
-
-Cataclysm-DDA experimental build 2024-10-07-1309 (129eb0b)
 * Cabin in Safe Place scenario is now actually safe (#76870)
 * Fix consume activity creation from liquid handler (#76819)
 * [MoM] Add Attunement meter to Spacebar UI (#76850)
