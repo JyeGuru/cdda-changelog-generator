@@ -1,5 +1,13 @@
+* Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
+* "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
+* Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
 * No longer able to wear already worn items ([#76879](https://github.com/CleverRaven/Cataclysm-DDA/pull/76879))
 * typified a bit of map.cpp and dependents ([#76900](https://github.com/CleverRaven/Cataclysm-DDA/pull/76900))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-12-0310 ([ce80b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-12-0310))
+
 * Backport #73043 to allow shotgun speedloader chutes to function ([#76939](https://github.com/CleverRaven/Cataclysm-DDA/pull/76939))
 * [Sky Island] Add tokens to warp floor into new floor types ([#76954](https://github.com/CleverRaven/Cataclysm-DDA/pull/76954))
 * Remove mention of parkour from t_concrete_wall_rope ([#76961](https://github.com/CleverRaven/Cataclysm-DDA/pull/76961))
@@ -208,11 +216,6 @@
 * Un-popup the Beautiful Nether Lily Messages ([#76834](https://github.com/CleverRaven/Cataclysm-DDA/pull/76834))
 * fix typo in dreamsmith hammer spell ([#76840](https://github.com/CleverRaven/Cataclysm-DDA/pull/76840))
 * fix mutation spell not checking stamina ([#76841](https://github.com/CleverRaven/Cataclysm-DDA/pull/76841))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-06-1410 ([818c3ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-06-1410))
-
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
 * Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
 * Small patch to ranged balance test flakiness ([#76824](https://github.com/CleverRaven/Cataclysm-DDA/pull/76824))
@@ -228,8 +231,5 @@
 * human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
 * Don't take integrated and no-takeoff items when mugging ([#76787](https://github.com/CleverRaven/Cataclysm-DDA/pull/76787))
 * Avoid JSON errors on Windows with no sound devices ([#76782](https://github.com/CleverRaven/Cataclysm-DDA/pull/76782))
-* Replace medication activation messages with a template ([#76775](https://github.com/CleverRaven/Cataclysm-DDA/pull/76775))
 * Added doc to 'CARGO_PASSABLE' flag ([#76784](https://github.com/CleverRaven/Cataclysm-DDA/pull/76784))
 * Turn the .300 BLK X95 into 556 ([#76786](https://github.com/CleverRaven/Cataclysm-DDA/pull/76786))
-* [MoM] Give the human whirlwind (and feral security captain, Ψ Division) the Hurricane Blows power ([#76773](https://github.com/CleverRaven/Cataclysm-DDA/pull/76773))
-* Clarify that artifact effects should be hidden ([#76774](https://github.com/CleverRaven/Cataclysm-DDA/pull/76774))
