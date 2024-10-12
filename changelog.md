@@ -1,3 +1,4 @@
+* Fix some Britishisms in the JSON files. ([#76981](https://github.com/CleverRaven/Cataclysm-DDA/pull/76981))
 * Routine i18n updates on 12 October 2024 ([#76985](https://github.com/CleverRaven/Cataclysm-DDA/pull/76985))
 * Wrap run_eocs properly ([#76970](https://github.com/CleverRaven/Cataclysm-DDA/pull/76970))
 * Fix set of clothes crash ([#76978](https://github.com/CleverRaven/Cataclysm-DDA/pull/76978))
@@ -104,7 +105,6 @@
 * Fix display of loudness multiplier of gunmods ([#76821](https://github.com/CleverRaven/Cataclysm-DDA/pull/76821))
 * Fix crash when pickaxe expires during mining ([#76820](https://github.com/CleverRaven/Cataclysm-DDA/pull/76820))
 * Only call loading_ui::done when actually done ([#76807](https://github.com/CleverRaven/Cataclysm-DDA/pull/76807))
-* Replaced 'motel' and '2-floor motel' with twd motel as possible start location for Low Profile scenario ([#76794](https://github.com/CleverRaven/Cataclysm-DDA/pull/76794))
 * [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
 
 ---
