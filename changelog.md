@@ -1,3 +1,4 @@
+* Change option groups to sentence case ([#76973](https://github.com/CleverRaven/Cataclysm-DDA/pull/76973))
 
 ---
 
@@ -131,7 +132,6 @@
 * [Xedra Evolved] Little cleanups ([#76881](https://github.com/CleverRaven/Cataclysm-DDA/pull/76881))
 * Fix display of loudness multiplier of gunmods ([#76821](https://github.com/CleverRaven/Cataclysm-DDA/pull/76821))
 * Fix crash when pickaxe expires during mining ([#76820](https://github.com/CleverRaven/Cataclysm-DDA/pull/76820))
-* Only call loading_ui::done when actually done ([#76807](https://github.com/CleverRaven/Cataclysm-DDA/pull/76807))
 * [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
 
 ---
