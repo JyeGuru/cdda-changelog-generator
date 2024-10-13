@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-13-0040 ([d3f030a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-0040))
+
 * fix spells segfaulting from wrong creature ([#76969](https://github.com/CleverRaven/Cataclysm-DDA/pull/76969))
 * Zombie corpses rot into bones + Clean up zombie harvestlist hell ([#76865](https://github.com/CleverRaven/Cataclysm-DDA/pull/76865))
 
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2024-10-07-2003 ([2fb734c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-2003))
 
 * Remove recipe for leather out of tainted hide, human hide ([#76891](https://github.com/CleverRaven/Cataclysm-DDA/pull/76891))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-07-1634 ([35153de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-1634))
-
 * Make chilis smokable ([#76851](https://github.com/CleverRaven/Cataclysm-DDA/pull/76851))
 * Add some NPC pilots to the world ([#76862](https://github.com/CleverRaven/Cataclysm-DDA/pull/76862))
 * Cabin in Safe Place scenario is now actually safe ([#76870](https://github.com/CleverRaven/Cataclysm-DDA/pull/76870))
