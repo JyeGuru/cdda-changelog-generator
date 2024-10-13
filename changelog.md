@@ -140,7 +140,6 @@
 #### Cataclysm-DDA experimental build 2024-10-10-0437 ([77d6189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-0437))
 
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
-* Routine i18n updates on 05 October 2024 ([#76822](https://github.com/CleverRaven/Cataclysm-DDA/pull/76822))
 * Terraforming series ID and name mismatch repair ([#76867](https://github.com/CleverRaven/Cataclysm-DDA/pull/76867))
 
 ---

@@ -83,7 +83,6 @@ Cataclysm-DDA experimental build 2024-10-10-0631 (9c531b0)
 
 Cataclysm-DDA experimental build 2024-10-10-0437 (77d6189)
 * Use accurate invlet in mutation ui examine instructions (#76933)
-* Routine i18n updates on 05 October 2024 (#76822)
 * Terraforming series ID and name mismatch repair (#76867)
 
 Cataclysm-DDA experimental build 2024-10-09-1847 (bed2910)
