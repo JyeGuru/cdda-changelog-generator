@@ -1,3 +1,7 @@
+* [Xedra Evolved] Dreamsmithing procgen expansion (enchants) ([#76957](https://github.com/CleverRaven/Cataclysm-DDA/pull/76957))
+* [MoM] Wakeful Rest and Revitalizing Meditation now grant XP, drain focus while using them ([#76976](https://github.com/CleverRaven/Cataclysm-DDA/pull/76976))
+* Dedupe button code in worldfactory, also redraw UI ([#76964](https://github.com/CleverRaven/Cataclysm-DDA/pull/76964))
+* Change "Weapon categories" to sentence case in initialization string ([#76989](https://github.com/CleverRaven/Cataclysm-DDA/pull/76989))
 
 ---
 
@@ -228,10 +232,6 @@
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
 * Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
 * Small patch to ranged balance test flakiness ([#76824](https://github.com/CleverRaven/Cataclysm-DDA/pull/76824))
-* Dialogue: JSON fields for displaying hidden responses ([#76804](https://github.com/CleverRaven/Cataclysm-DDA/pull/76804))
 * Character randomization sometimes produces 'crossdressing' characters ([#76812](https://github.com/CleverRaven/Cataclysm-DDA/pull/76812))
-* do not suppress missing/failed to load json error ([#76803](https://github.com/CleverRaven/Cataclysm-DDA/pull/76803))
 * Ruin the ballista, ruin the game ([#76809](https://github.com/CleverRaven/Cataclysm-DDA/pull/76809))
 * Remove even more unused stuff ([#76813](https://github.com/CleverRaven/Cataclysm-DDA/pull/76813))
-* Remove Military Professions mod ([#76805](https://github.com/CleverRaven/Cataclysm-DDA/pull/76805))
-* human lard less calorie dense ([#76806](https://github.com/CleverRaven/Cataclysm-DDA/pull/76806))
