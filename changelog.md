@@ -1,3 +1,10 @@
+* Xedra Evolved - make oneiric hammer use deduction skill to repair ([#76998](https://github.com/CleverRaven/Cataclysm-DDA/pull/76998))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-13-1432 ([287caa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-1432))
+
+* [DinoMod] Destroy the mosasaurus egg ([#76988](https://github.com/CleverRaven/Cataclysm-DDA/pull/76988))
 
 ---
 
@@ -206,11 +213,6 @@
 * Removed High Adrenaline as a background trait for Fire Performing hobby ([#76871](https://github.com/CleverRaven/Cataclysm-DDA/pull/76871))
 * fix junk_allergen name ([#76884](https://github.com/CleverRaven/Cataclysm-DDA/pull/76884))
 * fix natural spring visibility ([#76885](https://github.com/CleverRaven/Cataclysm-DDA/pull/76885))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-08-0308 ([9edad62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-08-0308))
-
 * Fix vitamin documentation ([#76887](https://github.com/CleverRaven/Cataclysm-DDA/pull/76887))
 * typified map.h + dependents, end of first pass ([#76888](https://github.com/CleverRaven/Cataclysm-DDA/pull/76888))
 * Remove recipe for leather out of tainted hide, human hide ([#76891](https://github.com/CleverRaven/Cataclysm-DDA/pull/76891))
@@ -232,5 +234,3 @@
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
 * Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
 * Small patch to ranged balance test flakiness ([#76824](https://github.com/CleverRaven/Cataclysm-DDA/pull/76824))
-* Character randomization sometimes produces 'crossdressing' characters ([#76812](https://github.com/CleverRaven/Cataclysm-DDA/pull/76812))
-* Remove even more unused stuff ([#76813](https://github.com/CleverRaven/Cataclysm-DDA/pull/76813))

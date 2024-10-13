@@ -1,3 +1,7 @@
+* Xedra Evolved - make oneiric hammer use deduction skill to repair (#76998)
+
+Cataclysm-DDA experimental build 2024-10-13-1432 (287caa6)
+* [DinoMod] Destroy the mosasaurus egg (#76988)
 
 Cataclysm-DDA experimental build 2024-10-13-0546 (1fb836e)
 * Change option groups to sentence case (#76973)
@@ -125,8 +129,6 @@ Cataclysm-DDA experimental build 2024-10-08-0550 (e2c3c32)
 * Removed High Adrenaline as a background trait for Fire Performing hobby (#76871)
 * fix junk_allergen name (#76884)
 * fix natural spring visibility (#76885)
-
-Cataclysm-DDA experimental build 2024-10-08-0308 (9edad62)
 * Fix vitamin documentation (#76887)
 * typified map.h + dependents, end of first pass (#76888)
 * Remove recipe for leather out of tainted hide, human hide (#76891)
@@ -148,5 +150,3 @@ Cataclysm-DDA experimental build 2024-10-08-0308 (9edad62)
 * Make more zombies wear wedding rings (#76852)
 * Added check for stealing prior to inserting items into container (#76826)
 * Small patch to ranged balance test flakiness (#76824)
-* Character randomization sometimes produces 'crossdressing' characters (#76812)
-* Remove even more unused stuff (#76813)
