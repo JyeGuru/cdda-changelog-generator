@@ -1,3 +1,5 @@
+* Prompt if you really want to crash the game ([#77002](https://github.com/CleverRaven/Cataclysm-DDA/pull/77002))
+* Change Acclimatization from all caps to title case ([#77006](https://github.com/CleverRaven/Cataclysm-DDA/pull/77006))
 * Xedra Evolved - make oneiric hammer use deduction skill to repair ([#76998](https://github.com/CleverRaven/Cataclysm-DDA/pull/76998))
 
 ---
@@ -110,13 +112,6 @@
 #### Cataclysm-DDA experimental build 2024-10-10-1840 ([a44d848](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-1840))
 
 * Add reload_one flag to benelli_sa ([#76937](https://github.com/CleverRaven/Cataclysm-DDA/pull/76937))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-10-0837 ([f18d1e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-0837))
-
-* Port the TropiCata guineafowl to vanilla ([#76816](https://github.com/CleverRaven/Cataclysm-DDA/pull/76816))
-* Spells can damage other limbs ([#76818](https://github.com/CleverRaven/Cataclysm-DDA/pull/76818))
 
 ---
 
