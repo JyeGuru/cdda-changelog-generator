@@ -1,3 +1,4 @@
+* Colored crop tops ([#77005](https://github.com/CleverRaven/Cataclysm-DDA/pull/77005))
 
 ---
 
@@ -144,7 +145,6 @@
 * Spend time when taking off items via 'T' in item examine menu ([#76869](https://github.com/CleverRaven/Cataclysm-DDA/pull/76869))
 * Add barrel length to Beretta 90-two ([#76873](https://github.com/CleverRaven/Cataclysm-DDA/pull/76873))
 * [Xedra Evolved] Little cleanups ([#76881](https://github.com/CleverRaven/Cataclysm-DDA/pull/76881))
-* Fix display of loudness multiplier of gunmods ([#76821](https://github.com/CleverRaven/Cataclysm-DDA/pull/76821))
 * [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
 
 ---

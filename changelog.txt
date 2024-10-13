@@ -1,3 +1,4 @@
+* Colored crop tops (#77005)
 
 Cataclysm-DDA experimental build 2024-10-13-1658 (27e354c)
 * Correct llama skull size (#77014)
@@ -87,7 +88,6 @@ Cataclysm-DDA experimental build 2024-10-09-1847 (bed2910)
 * Spend time when taking off items via 'T' in item examine menu (#76869)
 * Add barrel length to Beretta 90-two (#76873)
 * [Xedra Evolved] Little cleanups (#76881)
-* Fix display of loudness multiplier of gunmods (#76821)
 * [Magiclysm] Add one ring and one set of bracers (#76908)
 
 Cataclysm-DDA experimental build 2024-10-09-1605 (853937d)
