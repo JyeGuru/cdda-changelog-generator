@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-13-0546 ([1fb836e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-0546))
+
 * Change option groups to sentence case ([#76973](https://github.com/CleverRaven/Cataclysm-DDA/pull/76973))
 
 ---
@@ -207,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2024-10-08-0308 ([9edad62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-08-0308))
 
 * Fix vitamin documentation ([#76887](https://github.com/CleverRaven/Cataclysm-DDA/pull/76887))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-07-2238 ([8f19d8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-07-2238))
-
 * typified map.h + dependents, end of first pass ([#76888](https://github.com/CleverRaven/Cataclysm-DDA/pull/76888))
 * Remove recipe for leather out of tainted hide, human hide ([#76891](https://github.com/CleverRaven/Cataclysm-DDA/pull/76891))
 * Make chilis smokable ([#76851](https://github.com/CleverRaven/Cataclysm-DDA/pull/76851))
