@@ -112,7 +112,6 @@
 * Forbid modding integrated tools ([#76941](https://github.com/CleverRaven/Cataclysm-DDA/pull/76941))
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere ([#76928](https://github.com/CleverRaven/Cataclysm-DDA/pull/76928))
 * Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
-* Fix #76414: Can't activate item - character instead tries to eat it. ([#76823](https://github.com/CleverRaven/Cataclysm-DDA/pull/76823))
 
 ---
 
