@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-13-0339 (2c7c0c7)
 * [Xedra Evolved] Dreamsmithing procgen expansion (enchants) (#76957)
 * [MoM] Wakeful Rest and Revitalizing Meditation now grant XP, drain focus while using them (#76976)
 * Dedupe button code in worldfactory, also redraw UI (#76964)
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2024-10-08-0308 (9edad62)
 
 Cataclysm-DDA experimental build 2024-10-07-2238 (8f19d8e)
 * typified map.h + dependents, end of first pass (#76888)
-
-Cataclysm-DDA experimental build 2024-10-07-2003 (2fb734c)
 * Remove recipe for leather out of tainted hide, human hide (#76891)
 * Make chilis smokable (#76851)
 * Add some NPC pilots to the world (#76862)
