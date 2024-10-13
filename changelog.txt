@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-13-1658 (27e354c)
 * Correct llama skull size (#77014)
 * Fix non-battery fueled items using charges (#76997)
 * Prompt if you really want to crash the game (#77002)
@@ -123,8 +125,6 @@ Cataclysm-DDA experimental build 2024-10-08-0751 (00c9ead)
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) (#76893)
 * [MoM] Portal storm awakening EoC fix (#76895)
 * [MoM] Two bugfixes (#76898)
-
-Cataclysm-DDA experimental build 2024-10-08-0550 (e2c3c32)
 * Removed High Adrenaline as a background trait for Fire Performing hobby (#76871)
 * fix junk_allergen name (#76884)
 * fix natural spring visibility (#76885)

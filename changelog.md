@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-13-1658 ([27e354c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-1658))
+
 * Correct llama skull size ([#77014](https://github.com/CleverRaven/Cataclysm-DDA/pull/77014))
 * Fix non-battery fueled items using charges ([#76997](https://github.com/CleverRaven/Cataclysm-DDA/pull/76997))
 * Prompt if you really want to crash the game ([#77002](https://github.com/CleverRaven/Cataclysm-DDA/pull/77002))
@@ -201,11 +206,6 @@
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-08-0550 ([e2c3c32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-08-0550))
-
 * Removed High Adrenaline as a background trait for Fire Performing hobby ([#76871](https://github.com/CleverRaven/Cataclysm-DDA/pull/76871))
 * fix junk_allergen name ([#76884](https://github.com/CleverRaven/Cataclysm-DDA/pull/76884))
 * fix natural spring visibility ([#76885](https://github.com/CleverRaven/Cataclysm-DDA/pull/76885))
