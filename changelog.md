@@ -1,3 +1,4 @@
+* Correct llama skull size ([#77014](https://github.com/CleverRaven/Cataclysm-DDA/pull/77014))
 * Fix non-battery fueled items using charges ([#76997](https://github.com/CleverRaven/Cataclysm-DDA/pull/76997))
 * Prompt if you really want to crash the game ([#77002](https://github.com/CleverRaven/Cataclysm-DDA/pull/77002))
 * Change Acclimatization from all caps to title case ([#77006](https://github.com/CleverRaven/Cataclysm-DDA/pull/77006))
@@ -139,7 +140,6 @@
 * Add barrel length to Beretta 90-two ([#76873](https://github.com/CleverRaven/Cataclysm-DDA/pull/76873))
 * [Xedra Evolved] Little cleanups ([#76881](https://github.com/CleverRaven/Cataclysm-DDA/pull/76881))
 * Fix display of loudness multiplier of gunmods ([#76821](https://github.com/CleverRaven/Cataclysm-DDA/pull/76821))
-* Fix crash when pickaxe expires during mining ([#76820](https://github.com/CleverRaven/Cataclysm-DDA/pull/76820))
 * [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
 
 ---

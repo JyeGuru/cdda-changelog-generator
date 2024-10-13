@@ -1,3 +1,4 @@
+* Correct llama skull size (#77014)
 * Fix non-battery fueled items using charges (#76997)
 * Prompt if you really want to crash the game (#77002)
 * Change Acclimatization from all caps to title case (#77006)
@@ -85,7 +86,6 @@ Cataclysm-DDA experimental build 2024-10-09-1847 (bed2910)
 * Add barrel length to Beretta 90-two (#76873)
 * [Xedra Evolved] Little cleanups (#76881)
 * Fix display of loudness multiplier of gunmods (#76821)
-* Fix crash when pickaxe expires during mining (#76820)
 * [Magiclysm] Add one ring and one set of bracers (#76908)
 
 Cataclysm-DDA experimental build 2024-10-09-1605 (853937d)
