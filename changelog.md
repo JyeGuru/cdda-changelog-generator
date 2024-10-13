@@ -1,3 +1,4 @@
+* Fix non-battery fueled items using charges ([#76997](https://github.com/CleverRaven/Cataclysm-DDA/pull/76997))
 * Prompt if you really want to crash the game ([#77002](https://github.com/CleverRaven/Cataclysm-DDA/pull/77002))
 * Change Acclimatization from all caps to title case ([#77006](https://github.com/CleverRaven/Cataclysm-DDA/pull/77006))
 * Xedra Evolved - make oneiric hammer use deduction skill to repair ([#76998](https://github.com/CleverRaven/Cataclysm-DDA/pull/76998))
@@ -214,7 +215,6 @@
 * Make chilis smokable ([#76851](https://github.com/CleverRaven/Cataclysm-DDA/pull/76851))
 * Add some NPC pilots to the world ([#76862](https://github.com/CleverRaven/Cataclysm-DDA/pull/76862))
 * Cabin in Safe Place scenario is now actually safe ([#76870](https://github.com/CleverRaven/Cataclysm-DDA/pull/76870))
-* Fix consume activity creation from liquid handler ([#76819](https://github.com/CleverRaven/Cataclysm-DDA/pull/76819))
 * [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
 * [Backport?] Fix feral wizard species from #71275 ([#76825](https://github.com/CleverRaven/Cataclysm-DDA/pull/76825))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
