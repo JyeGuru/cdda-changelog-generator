@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-13-1854 (f85808d)
 * Colored crop tops (#77005)
 
 Cataclysm-DDA experimental build 2024-10-13-1658 (27e354c)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-10-09-0004 (f512d1f)
 * limit stomach_contents::capacity to be no less than 250 ml (#76883)
 * Rotten blood can't be analyzed on centrifuge (#76889)
 * EOCs modifying calories track spent calories (#76890)
-
-Cataclysm-DDA experimental build 2024-10-08-0751 (00c9ead)
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) (#76893)
 * [MoM] Portal storm awakening EoC fix (#76895)
 * [MoM] Two bugfixes (#76898)

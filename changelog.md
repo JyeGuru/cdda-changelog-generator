@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-13-1854 ([f85808d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-1854))
+
 * Colored crop tops ([#77005](https://github.com/CleverRaven/Cataclysm-DDA/pull/77005))
 
 ---
@@ -198,11 +203,6 @@
 * limit stomach_contents::capacity to be no less than 250 ml ([#76883](https://github.com/CleverRaven/Cataclysm-DDA/pull/76883))
 * Rotten blood can't be analyzed on centrifuge ([#76889](https://github.com/CleverRaven/Cataclysm-DDA/pull/76889))
 * EOCs modifying calories track spent calories ([#76890](https://github.com/CleverRaven/Cataclysm-DDA/pull/76890))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-08-0751 ([00c9ead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-08-0751))
-
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
