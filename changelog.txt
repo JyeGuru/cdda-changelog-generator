@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-14-0109 (7d4507a)
+* Enable Giant Pincer Mutation (#76986)
+
 Cataclysm-DDA experimental build 2024-10-13-1854 (f85808d)
 * Colored crop tops (#77005)
 
@@ -145,4 +148,3 @@ Cataclysm-DDA experimental build 2024-10-09-0004 (f512d1f)
 * fix mutation spell not checking stamina (#76841)
 * Make more zombies wear wedding rings (#76852)
 * Added check for stealing prior to inserting items into container (#76826)
-* Small patch to ranged balance test flakiness (#76824)
