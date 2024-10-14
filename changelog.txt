@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.H release candidate 2024-10-14-1533 (e9f130b)
+* Backport #76986 (Enable Giant Pincer Mutation) for 0.H (#77032)
+
 Cataclysm-DDA experimental build 2024-10-14-0551 (2e5b3cf)
 * Fix floating-point precision problem in apply_light_arc (#76959)
 * move volume and weight vals to math (#76968)
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2024-10-09-1005 (4fc2b6b)
 
 Cataclysm-DDA experimental build 2024-10-09-0748 (2cccbde)
 * [MoM] NPCs can awaken in portal storms (#76906)
-
-Cataclysm-DDA experimental build 2024-10-09-0422 (ed3999a)
 * Vest and jacket tweaks (#76863)
 * Denim Clothing Warmth Changes (#76861)
 * [Sky Island] Add side storage (or whatever) rooms (#76846)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2024-10-09-0422 (ed3999a)
 * [Xedra Evolved] No werealfs (#76848)
 * Backport #75642 Prevent div by zero crash in mana widget (#76859)
 * Make garlic smokable (#76847)
-* Un-popup the Beautiful Nether Lily Messages (#76834)
 * fix typo in dreamsmith hammer spell (#76840)
 * fix mutation spell not checking stamina (#76841)
 * Make more zombies wear wedding rings (#76852)

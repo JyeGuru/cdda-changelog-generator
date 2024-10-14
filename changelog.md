@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-10-14-1533 ([e9f130b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-14-1533))
+
+* Backport #76986 (Enable Giant Pincer Mutation) for 0.H ([#77032](https://github.com/CleverRaven/Cataclysm-DDA/pull/77032))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-14-0551 ([2e5b3cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-0551))
 
 * Fix floating-point precision problem in apply_light_arc ([#76959](https://github.com/CleverRaven/Cataclysm-DDA/pull/76959))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2024-10-09-0748 ([2cccbde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-0748))
 
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-09-0422 ([ed3999a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-0422))
-
 * Vest and jacket tweaks ([#76863](https://github.com/CleverRaven/Cataclysm-DDA/pull/76863))
 * Denim Clothing Warmth Changes ([#76861](https://github.com/CleverRaven/Cataclysm-DDA/pull/76861))
 * [Sky Island] Add side storage (or whatever) rooms ([#76846](https://github.com/CleverRaven/Cataclysm-DDA/pull/76846))
@@ -228,7 +229,6 @@
 * [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
 * Make garlic smokable ([#76847](https://github.com/CleverRaven/Cataclysm-DDA/pull/76847))
-* Un-popup the Beautiful Nether Lily Messages ([#76834](https://github.com/CleverRaven/Cataclysm-DDA/pull/76834))
 * fix typo in dreamsmith hammer spell ([#76840](https://github.com/CleverRaven/Cataclysm-DDA/pull/76840))
 * fix mutation spell not checking stamina ([#76841](https://github.com/CleverRaven/Cataclysm-DDA/pull/76841))
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
