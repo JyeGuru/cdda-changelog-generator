@@ -1,3 +1,6 @@
+* [DinoMod] eolambia ([#77020](https://github.com/CleverRaven/Cataclysm-DDA/pull/77020))
+* [MoM] Update MoM for spells damaging other limbs ([#77024](https://github.com/CleverRaven/Cataclysm-DDA/pull/77024))
+* Log correct tileset name on loading ([#77040](https://github.com/CleverRaven/Cataclysm-DDA/pull/77040))
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
 
 ---
@@ -122,7 +125,6 @@
 #### Cataclysm-DDA experimental build 2024-10-11-2346 ([9437078](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-11-2346))
 
 * No more multiple wedding rings per zombie ([#76951](https://github.com/CleverRaven/Cataclysm-DDA/pull/76951))
-* Allow rot_spawn use monster id directly ([#76845](https://github.com/CleverRaven/Cataclysm-DDA/pull/76845))
 * Portal Storm Voice's Subtle Foreshadowing ([#76947](https://github.com/CleverRaven/Cataclysm-DDA/pull/76947))
 
 ---
@@ -206,7 +208,6 @@
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
 * Vest and jacket tweaks ([#76863](https://github.com/CleverRaven/Cataclysm-DDA/pull/76863))
 * Denim Clothing Warmth Changes ([#76861](https://github.com/CleverRaven/Cataclysm-DDA/pull/76861))
-* [Sky Island] Add side storage (or whatever) rooms ([#76846](https://github.com/CleverRaven/Cataclysm-DDA/pull/76846))
 * Add barrel length to Taurus Spectrum ([#76874](https://github.com/CleverRaven/Cataclysm-DDA/pull/76874))
 * Fix Mosin battle rifle barrel length ([#76872](https://github.com/CleverRaven/Cataclysm-DDA/pull/76872))
 * limit stomach_contents::capacity to be no less than 250 ml ([#76883](https://github.com/CleverRaven/Cataclysm-DDA/pull/76883))
@@ -230,5 +231,4 @@
 * [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
 * Make garlic smokable ([#76847](https://github.com/CleverRaven/Cataclysm-DDA/pull/76847))
-* fix mutation spell not checking stamina ([#76841](https://github.com/CleverRaven/Cataclysm-DDA/pull/76841))
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
