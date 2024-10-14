@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-14-0551 ([2e5b3cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-0551))
+
 * Fix floating-point precision problem in apply_light_arc ([#76959](https://github.com/CleverRaven/Cataclysm-DDA/pull/76959))
 * move volume and weight vals to math ([#76968](https://github.com/CleverRaven/Cataclysm-DDA/pull/76968))
 
@@ -199,11 +204,6 @@
 
 * Vest and jacket tweaks ([#76863](https://github.com/CleverRaven/Cataclysm-DDA/pull/76863))
 * Denim Clothing Warmth Changes ([#76861](https://github.com/CleverRaven/Cataclysm-DDA/pull/76861))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-09-0208 ([7c6e988](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-0208))
-
 * [Sky Island] Add side storage (or whatever) rooms ([#76846](https://github.com/CleverRaven/Cataclysm-DDA/pull/76846))
 * Add barrel length to Taurus Spectrum ([#76874](https://github.com/CleverRaven/Cataclysm-DDA/pull/76874))
 * Fix Mosin battle rifle barrel length ([#76872](https://github.com/CleverRaven/Cataclysm-DDA/pull/76872))

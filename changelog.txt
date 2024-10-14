@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-14-0551 (2e5b3cf)
 * Fix floating-point precision problem in apply_light_arc (#76959)
 * move volume and weight vals to math (#76968)
 
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2024-10-09-0748 (2cccbde)
 Cataclysm-DDA experimental build 2024-10-09-0422 (ed3999a)
 * Vest and jacket tweaks (#76863)
 * Denim Clothing Warmth Changes (#76861)
-
-Cataclysm-DDA experimental build 2024-10-09-0208 (7c6e988)
 * [Sky Island] Add side storage (or whatever) rooms (#76846)
 * Add barrel length to Taurus Spectrum (#76874)
 * Fix Mosin battle rifle barrel length (#76872)
