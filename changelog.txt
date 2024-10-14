@@ -1,6 +1,8 @@
 * [DinoMod] eolambia (#77020)
 * [MoM] Update MoM for spells damaging other limbs (#77024)
 * Log correct tileset name on loading (#77040)
+
+Cataclysm-DDA experimental build 2024-10-14-2142 (6153d60)
 * Kill loadscreen on tutorial start (#77037)
 
 Cataclysm-DDA 0.H release candidate 2024-10-14-1533 (e9f130b)
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2024-10-09-1005 (4fc2b6b)
 * Bunny ears (#76919)
 * Add character ID to solo faction IDs to ensure uniqueness (#76866)
 * reduce weight and volume of the jika-tabi sneakers (#76877)
-
-Cataclysm-DDA experimental build 2024-10-09-0748 (2cccbde)
 * [MoM] NPCs can awaken in portal storms (#76906)
 * Vest and jacket tweaks (#76863)
 * Denim Clothing Warmth Changes (#76861)

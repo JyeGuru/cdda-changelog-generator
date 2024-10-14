@@ -1,6 +1,11 @@
 * [DinoMod] eolambia ([#77020](https://github.com/CleverRaven/Cataclysm-DDA/pull/77020))
 * [MoM] Update MoM for spells damaging other limbs ([#77024](https://github.com/CleverRaven/Cataclysm-DDA/pull/77024))
 * Log correct tileset name on loading ([#77040](https://github.com/CleverRaven/Cataclysm-DDA/pull/77040))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-14-2142 ([6153d60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-2142))
+
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
 
 ---
@@ -200,11 +205,6 @@
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
 * Add character ID to solo faction IDs to ensure uniqueness ([#76866](https://github.com/CleverRaven/Cataclysm-DDA/pull/76866))
 * reduce weight and volume of the jika-tabi sneakers ([#76877](https://github.com/CleverRaven/Cataclysm-DDA/pull/76877))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-09-0748 ([2cccbde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-0748))
-
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
 * Vest and jacket tweaks ([#76863](https://github.com/CleverRaven/Cataclysm-DDA/pull/76863))
 * Denim Clothing Warmth Changes ([#76861](https://github.com/CleverRaven/Cataclysm-DDA/pull/76861))
