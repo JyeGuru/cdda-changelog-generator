@@ -1,3 +1,5 @@
+* Fix floating-point precision problem in apply_light_arc ([#76959](https://github.com/CleverRaven/Cataclysm-DDA/pull/76959))
+* move volume and weight vals to math ([#76968](https://github.com/CleverRaven/Cataclysm-DDA/pull/76968))
 
 ---
 
@@ -223,7 +225,6 @@
 * [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))
-* Fixed crash on trying to unwield heavy items when trying to drive ([#76829](https://github.com/CleverRaven/Cataclysm-DDA/pull/76829))
 * [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
 * Make garlic smokable ([#76847](https://github.com/CleverRaven/Cataclysm-DDA/pull/76847))
@@ -231,4 +232,3 @@
 * fix typo in dreamsmith hammer spell ([#76840](https://github.com/CleverRaven/Cataclysm-DDA/pull/76840))
 * fix mutation spell not checking stamina ([#76841](https://github.com/CleverRaven/Cataclysm-DDA/pull/76841))
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
-* Added check for stealing prior to inserting items into container ([#76826](https://github.com/CleverRaven/Cataclysm-DDA/pull/76826))
