@@ -1,3 +1,10 @@
+* Fix sling staff ([#77029](https://github.com/CleverRaven/Cataclysm-DDA/pull/77029))
+* Make search data able to evaluate json variables ([#76892](https://github.com/CleverRaven/Cataclysm-DDA/pull/76892))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-15-0135 ([848308d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-0135))
+
 * Debugging new population horde actually sets population ([#77034](https://github.com/CleverRaven/Cataclysm-DDA/pull/77034))
 * Don't inform player they're wounded if they're actually just plain dead ([#77035](https://github.com/CleverRaven/Cataclysm-DDA/pull/77035))
 * [DinoMod] eolambia ([#77020](https://github.com/CleverRaven/Cataclysm-DDA/pull/77020))
@@ -106,7 +113,6 @@
 
 * Lab entrance misdirection no longer needed thanks to vision levels ([#76967](https://github.com/CleverRaven/Cataclysm-DDA/pull/76967))
 * add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
-* fungalize stages for zombies ([#76849](https://github.com/CleverRaven/Cataclysm-DDA/pull/76849))
 * Don't apply additional move cost for moving barefoot in deep water ([#76949](https://github.com/CleverRaven/Cataclysm-DDA/pull/76949))
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
@@ -197,11 +203,6 @@
 
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
 * Fix #76733 ([#76914](https://github.com/CleverRaven/Cataclysm-DDA/pull/76914))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-09-1005 ([4fc2b6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-1005))
-
 * [MoM/XE Interaction] Ierde and powerful vampires are immune to telepathy ([#76897](https://github.com/CleverRaven/Cataclysm-DDA/pull/76897))
 * [Magiclysm/Xedra Evolved] Magiclysm/xe updates for #76890 ([#76894](https://github.com/CleverRaven/Cataclysm-DDA/pull/76894))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
@@ -227,7 +228,6 @@
 * Make chilis smokable ([#76851](https://github.com/CleverRaven/Cataclysm-DDA/pull/76851))
 * Add some NPC pilots to the world ([#76862](https://github.com/CleverRaven/Cataclysm-DDA/pull/76862))
 * Cabin in Safe Place scenario is now actually safe ([#76870](https://github.com/CleverRaven/Cataclysm-DDA/pull/76870))
-* [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
