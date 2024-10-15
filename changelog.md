@@ -225,7 +225,6 @@
 * Fix vitamin documentation ([#76887](https://github.com/CleverRaven/Cataclysm-DDA/pull/76887))
 * typified map.h + dependents, end of first pass ([#76888](https://github.com/CleverRaven/Cataclysm-DDA/pull/76888))
 * Remove recipe for leather out of tainted hide, human hide ([#76891](https://github.com/CleverRaven/Cataclysm-DDA/pull/76891))
-* Make chilis smokable ([#76851](https://github.com/CleverRaven/Cataclysm-DDA/pull/76851))
 * Add some NPC pilots to the world ([#76862](https://github.com/CleverRaven/Cataclysm-DDA/pull/76862))
 * Cabin in Safe Place scenario is now actually safe ([#76870](https://github.com/CleverRaven/Cataclysm-DDA/pull/76870))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
