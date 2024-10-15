@@ -1,3 +1,4 @@
+* Debugging new population horde actually sets population ([#77034](https://github.com/CleverRaven/Cataclysm-DDA/pull/77034))
 * Don't inform player they're wounded if they're actually just plain dead ([#77035](https://github.com/CleverRaven/Cataclysm-DDA/pull/77035))
 * [DinoMod] eolambia ([#77020](https://github.com/CleverRaven/Cataclysm-DDA/pull/77020))
 * [MoM] Update MoM for spells damaging other limbs ([#77024](https://github.com/CleverRaven/Cataclysm-DDA/pull/77024))
@@ -229,6 +230,5 @@
 * [MoM] Add Attunement meter to Spacebar UI ([#76850](https://github.com/CleverRaven/Cataclysm-DDA/pull/76850))
 * Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))
-* [Xedra Evolved] No werealfs ([#76848](https://github.com/CleverRaven/Cataclysm-DDA/pull/76848))
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
 * Make more zombies wear wedding rings ([#76852](https://github.com/CleverRaven/Cataclysm-DDA/pull/76852))
