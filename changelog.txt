@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-15-1828 (61076ba)
+* [MoM] Monster_takes_damage updates (#77044)
+
 Cataclysm-DDA experimental build 2024-10-15-0518 (ec0b796)
 * Fix sling staff (#77029)
 * Make search data able to evaluate json variables (#76892)
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2024-10-09-1847 (bed2910)
 * Add barrel length to Beretta 90-two (#76873)
 * [Xedra Evolved] Little cleanups (#76881)
 * [Magiclysm] Add one ring and one set of bracers (#76908)
-
-Cataclysm-DDA experimental build 2024-10-09-1605 (853937d)
 * [MoM/CrazyCata Interaction] Rename Metaphysics to "woo woo" (#76902)
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment (#76911)
 * Fix #76733 (#76914)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2024-10-09-1605 (853937d)
 * Backport #76175 (grass regrows for grazing) to 0.H (#76855)
 * Backport #72234 (Refactor camp hunting function) for 0.H (#76858)
 * Backport #75642 Prevent div by zero crash in mana widget (#76859)
-* Make more zombies wear wedding rings (#76852)
