@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-15-0518 ([ec0b796](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-0518))
+
 * Fix sling staff ([#77029](https://github.com/CleverRaven/Cataclysm-DDA/pull/77029))
 * Make search data able to evaluate json variables ([#76892](https://github.com/CleverRaven/Cataclysm-DDA/pull/76892))
 
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-10-09-1605 ([853937d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-1605))
 
 * [MoM/CrazyCata Interaction] Rename Metaphysics to "woo woo" ([#76902](https://github.com/CleverRaven/Cataclysm-DDA/pull/76902))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-09-1302 ([71a9cbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-1302))
-
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
 * Fix #76733 ([#76914](https://github.com/CleverRaven/Cataclysm-DDA/pull/76914))
 * [MoM/XE Interaction] Ierde and powerful vampires are immune to telepathy ([#76897](https://github.com/CleverRaven/Cataclysm-DDA/pull/76897))
