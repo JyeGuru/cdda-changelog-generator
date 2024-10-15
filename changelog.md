@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-15-2059 ([e3ddac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-2059))
+
+* [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-15-1828 ([61076ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-1828))
 
 * [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
@@ -184,7 +190,6 @@
 * Always show player's destination as possible goto-location option ([#76922](https://github.com/CleverRaven/Cataclysm-DDA/pull/76922))
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
-* [Bombastic Perks/MoM] Add MoM-specific perks ([#76853](https://github.com/CleverRaven/Cataclysm-DDA/pull/76853))
 
 ---
 
@@ -192,11 +197,6 @@
 
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
 * Terraforming series ID and name mismatch repair ([#76867](https://github.com/CleverRaven/Cataclysm-DDA/pull/76867))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-09-1847 ([bed2910](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-09-1847))
-
 * Spend time when taking off items via 'T' in item examine menu ([#76869](https://github.com/CleverRaven/Cataclysm-DDA/pull/76869))
 * Add barrel length to Beretta 90-two ([#76873](https://github.com/CleverRaven/Cataclysm-DDA/pull/76873))
 * [Xedra Evolved] Little cleanups ([#76881](https://github.com/CleverRaven/Cataclysm-DDA/pull/76881))

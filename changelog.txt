@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-15-2059 (e3ddac1)
+* [MoM] Onyx Lightning, Now in Uniform (#77054)
+
 Cataclysm-DDA experimental build 2024-10-15-1828 (61076ba)
 * [MoM] Monster_takes_damage updates (#77044)
 
@@ -106,13 +109,10 @@ Cataclysm-DDA experimental build 2024-10-10-0631 (9c531b0)
 * Always show player's destination as possible goto-location option (#76922)
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission (#76925)
 * Only list non-zero damage types on melee weapons (#76929)
-* [Bombastic Perks/MoM] Add MoM-specific perks (#76853)
 
 Cataclysm-DDA experimental build 2024-10-10-0437 (77d6189)
 * Use accurate invlet in mutation ui examine instructions (#76933)
 * Terraforming series ID and name mismatch repair (#76867)
-
-Cataclysm-DDA experimental build 2024-10-09-1847 (bed2910)
 * Spend time when taking off items via 'T' in item examine menu (#76869)
 * Add barrel length to Beretta 90-two (#76873)
 * [Xedra Evolved] Little cleanups (#76881)
