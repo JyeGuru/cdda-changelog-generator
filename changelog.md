@@ -228,6 +228,5 @@
 * Remove recipe for leather out of tainted hide, human hide ([#76891](https://github.com/CleverRaven/Cataclysm-DDA/pull/76891))
 * Add some NPC pilots to the world ([#76862](https://github.com/CleverRaven/Cataclysm-DDA/pull/76862))
 * Cabin in Safe Place scenario is now actually safe ([#76870](https://github.com/CleverRaven/Cataclysm-DDA/pull/76870))
-* Backport #76175 (grass regrows for grazing) to 0.H ([#76855](https://github.com/CleverRaven/Cataclysm-DDA/pull/76855))
 * Backport #72234 (Refactor camp hunting function) for 0.H ([#76858](https://github.com/CleverRaven/Cataclysm-DDA/pull/76858))
 * Backport #75642 Prevent div by zero crash in mana widget ([#76859](https://github.com/CleverRaven/Cataclysm-DDA/pull/76859))
