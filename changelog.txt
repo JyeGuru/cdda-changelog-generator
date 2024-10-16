@@ -1,3 +1,4 @@
+* Missions track when they were completed/failed (#77052)
 * Increased width of overmap editor window (#77069)
 * Use float instead of int for slip chance (#76953)
 * [MoM] Anabolic Rejuvenation / Accelerated Resuscitation updates (#77027)
@@ -63,7 +64,6 @@ Cataclysm-DDA experimental build 2024-10-13-0339 (2c7c0c7)
 
 Cataclysm-DDA experimental build 2024-10-13-0040 (d3f030a)
 * fix spells segfaulting from wrong creature (#76969)
-* Zombie corpses rot into bones + Clean up zombie harvestlist hell (#76865)
 
 Cataclysm-DDA experimental build 2024-10-12-2045 (4038ffe)
 * transpiration typo (#76995)

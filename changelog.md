@@ -1,3 +1,4 @@
+* Missions track when they were completed/failed ([#77052](https://github.com/CleverRaven/Cataclysm-DDA/pull/77052))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
 * Use float instead of int for slip chance ([#76953](https://github.com/CleverRaven/Cataclysm-DDA/pull/76953))
 * [MoM] Anabolic Rejuvenation / Accelerated Resuscitation updates ([#77027](https://github.com/CleverRaven/Cataclysm-DDA/pull/77027))
@@ -111,7 +112,6 @@
 #### Cataclysm-DDA experimental build 2024-10-13-0040 ([d3f030a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-0040))
 
 * fix spells segfaulting from wrong creature ([#76969](https://github.com/CleverRaven/Cataclysm-DDA/pull/76969))
-* Zombie corpses rot into bones + Clean up zombie harvestlist hell ([#76865](https://github.com/CleverRaven/Cataclysm-DDA/pull/76865))
 
 ---
 
