@@ -199,11 +199,6 @@
 * Always show player's destination as possible goto-location option ([#76922](https://github.com/CleverRaven/Cataclysm-DDA/pull/76922))
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-10-0437 ([77d6189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-0437))
-
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
 * Terraforming series ID and name mismatch repair ([#76867](https://github.com/CleverRaven/Cataclysm-DDA/pull/76867))
 * Spend time when taking off items via 'T' in item examine menu ([#76869](https://github.com/CleverRaven/Cataclysm-DDA/pull/76869))
