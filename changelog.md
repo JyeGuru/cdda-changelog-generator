@@ -1,3 +1,4 @@
+* [DinoMod] easy to shoot skeletal dinos ([#77077](https://github.com/CleverRaven/Cataclysm-DDA/pull/77077))
 * Fixed issue where extra cursor was drawn in ImGui InputText field on TUI builds erroneously ([#77089](https://github.com/CleverRaven/Cataclysm-DDA/pull/77089))
 
 ---
@@ -212,7 +213,6 @@
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
-* Add barrel length to Beretta 90-two ([#76873](https://github.com/CleverRaven/Cataclysm-DDA/pull/76873))
 * [Xedra Evolved] Little cleanups ([#76881](https://github.com/CleverRaven/Cataclysm-DDA/pull/76881))
 * [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
 * [MoM/CrazyCata Interaction] Rename Metaphysics to "woo woo" ([#76902](https://github.com/CleverRaven/Cataclysm-DDA/pull/76902))

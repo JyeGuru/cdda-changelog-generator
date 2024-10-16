@@ -1,3 +1,4 @@
+* [DinoMod] easy to shoot skeletal dinos (#77077)
 * Fixed issue where extra cursor was drawn in ImGui InputText field on TUI builds erroneously (#77089)
 
 Cataclysm-DDA experimental build 2024-10-16-2048 (aa27c22)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2024-10-10-2138 (6b8bda9)
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission (#76925)
 * Only list non-zero damage types on melee weapons (#76929)
 * Use accurate invlet in mutation ui examine instructions (#76933)
-* Add barrel length to Beretta 90-two (#76873)
 * [Xedra Evolved] Little cleanups (#76881)
 * [Magiclysm] Add one ring and one set of bracers (#76908)
 * [MoM/CrazyCata Interaction] Rename Metaphysics to "woo woo" (#76902)
