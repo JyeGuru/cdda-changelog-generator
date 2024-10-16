@@ -1,3 +1,4 @@
+* RM13 premature shutdown fix, the Sequel: I need to learn how to Github better ([#77023](https://github.com/CleverRaven/Cataclysm-DDA/pull/77023))
 * Missions track when they were completed/failed ([#77052](https://github.com/CleverRaven/Cataclysm-DDA/pull/77052))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
 * Use float instead of int for slip chance ([#76953](https://github.com/CleverRaven/Cataclysm-DDA/pull/76953))
@@ -212,7 +213,6 @@
 * [MoM/XE Interaction] Ierde and powerful vampires are immune to telepathy ([#76897](https://github.com/CleverRaven/Cataclysm-DDA/pull/76897))
 * [Magiclysm/Xedra Evolved] Magiclysm/xe updates for #76890 ([#76894](https://github.com/CleverRaven/Cataclysm-DDA/pull/76894))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
-* Add character ID to solo faction IDs to ensure uniqueness ([#76866](https://github.com/CleverRaven/Cataclysm-DDA/pull/76866))
 * reduce weight and volume of the jika-tabi sneakers ([#76877](https://github.com/CleverRaven/Cataclysm-DDA/pull/76877))
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
 * Add barrel length to Taurus Spectrum ([#76874](https://github.com/CleverRaven/Cataclysm-DDA/pull/76874))
