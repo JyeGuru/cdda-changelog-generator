@@ -1,3 +1,12 @@
+* [Aftershock] Fix incorrect EoC name ([#77082](https://github.com/CleverRaven/Cataclysm-DDA/pull/77082))
+* Track kills through grenades and other explosives ([#77056](https://github.com/CleverRaven/Cataclysm-DDA/pull/77056))
+* [MoM] Spread Electron Overflow charge value out over the number of items it's charging ([#77059](https://github.com/CleverRaven/Cataclysm-DDA/pull/77059))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-16-1821 ([66303be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-1821))
+
+* Cache dialogue conditional results, fix dialogue hotkeys ([#77061](https://github.com/CleverRaven/Cataclysm-DDA/pull/77061))
 
 ---
 
@@ -202,8 +211,6 @@
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
-* Terraforming series ID and name mismatch repair ([#76867](https://github.com/CleverRaven/Cataclysm-DDA/pull/76867))
-* Spend time when taking off items via 'T' in item examine menu ([#76869](https://github.com/CleverRaven/Cataclysm-DDA/pull/76869))
 * Add barrel length to Beretta 90-two ([#76873](https://github.com/CleverRaven/Cataclysm-DDA/pull/76873))
 * [Xedra Evolved] Little cleanups ([#76881](https://github.com/CleverRaven/Cataclysm-DDA/pull/76881))
 * [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
@@ -223,10 +230,8 @@
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
-* Removed High Adrenaline as a background trait for Fire Performing hobby ([#76871](https://github.com/CleverRaven/Cataclysm-DDA/pull/76871))
 * fix junk_allergen name ([#76884](https://github.com/CleverRaven/Cataclysm-DDA/pull/76884))
 * fix natural spring visibility ([#76885](https://github.com/CleverRaven/Cataclysm-DDA/pull/76885))
 * Fix vitamin documentation ([#76887](https://github.com/CleverRaven/Cataclysm-DDA/pull/76887))
 * typified map.h + dependents, end of first pass ([#76888](https://github.com/CleverRaven/Cataclysm-DDA/pull/76888))
 * Remove recipe for leather out of tainted hide, human hide ([#76891](https://github.com/CleverRaven/Cataclysm-DDA/pull/76891))
-* Cabin in Safe Place scenario is now actually safe ([#76870](https://github.com/CleverRaven/Cataclysm-DDA/pull/76870))
