@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-16-0438 (8c9ca7a)
 * RM13 premature shutdown fix, the Sequel: I need to learn how to Github better (#77023)
 * Missions track when they were completed/failed (#77052)
 * Increased width of overmap editor window (#77069)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2024-10-10-2138 (6b8bda9)
 
 Cataclysm-DDA experimental build 2024-10-10-1840 (a44d848)
 * Add reload_one flag to benelli_sa (#76937)
-
-Cataclysm-DDA experimental build 2024-10-10-0631 (9c531b0)
 * Always show player's destination as possible goto-location option (#76922)
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission (#76925)
 * Only list non-zero damage types on melee weapons (#76929)
