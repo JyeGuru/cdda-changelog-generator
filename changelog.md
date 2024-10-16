@@ -1,3 +1,4 @@
+* Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
 * Use float instead of int for slip chance ([#76953](https://github.com/CleverRaven/Cataclysm-DDA/pull/76953))
 * [MoM] Anabolic Rejuvenation / Accelerated Resuscitation updates ([#77027](https://github.com/CleverRaven/Cataclysm-DDA/pull/77027))
 * Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
@@ -214,7 +215,6 @@
 * Add character ID to solo faction IDs to ensure uniqueness ([#76866](https://github.com/CleverRaven/Cataclysm-DDA/pull/76866))
 * reduce weight and volume of the jika-tabi sneakers ([#76877](https://github.com/CleverRaven/Cataclysm-DDA/pull/76877))
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
-* Vest and jacket tweaks ([#76863](https://github.com/CleverRaven/Cataclysm-DDA/pull/76863))
 * Add barrel length to Taurus Spectrum ([#76874](https://github.com/CleverRaven/Cataclysm-DDA/pull/76874))
 * Fix Mosin battle rifle barrel length ([#76872](https://github.com/CleverRaven/Cataclysm-DDA/pull/76872))
 * limit stomach_contents::capacity to be no less than 250 ml ([#76883](https://github.com/CleverRaven/Cataclysm-DDA/pull/76883))
