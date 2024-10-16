@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-16-2048 ([aa27c22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-2048))
+
 * [Aftershock] Fix incorrect EoC name ([#77082](https://github.com/CleverRaven/Cataclysm-DDA/pull/77082))
 * Track kills through grenades and other explosives ([#77056](https://github.com/CleverRaven/Cataclysm-DDA/pull/77056))
 * [MoM] Spread Electron Overflow charge value out over the number of items it's charging ([#77059](https://github.com/CleverRaven/Cataclysm-DDA/pull/77059))
@@ -201,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-10-10-2138 ([6b8bda9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-2138))
 
 * disable support for `x-min`/`x-max` itemgroup fields ([#76917](https://github.com/CleverRaven/Cataclysm-DDA/pull/76917))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-10-1840 ([a44d848](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-1840))
-
 * Add reload_one flag to benelli_sa ([#76937](https://github.com/CleverRaven/Cataclysm-DDA/pull/76937))
 * Always show player's destination as possible goto-location option ([#76922](https://github.com/CleverRaven/Cataclysm-DDA/pull/76922))
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
