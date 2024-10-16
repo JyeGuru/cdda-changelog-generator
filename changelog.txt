@@ -1,3 +1,4 @@
+* Option to start bash activity on partial bash (#77057)
 * Allow any grade of steel chunk for the makeshift hammer (#77072)
 * [Aftershock] Update Electron Overflow for multiple item charging (#77081)
 * [DinoMod] easy to shoot skeletal dinos (#77077)
