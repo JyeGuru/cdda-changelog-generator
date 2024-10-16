@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-16-2302 (9ebe91d)
 * [Aftershock] Fix electron overflow energy cost (#77079)
 * Spawn emergency drugs in pharmacy, update quests text (#77043)
 * Several skin mutations now allow for installation of Alloy Plating CBM (#77063)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2024-10-10-2358 (11886ea)
 * Forbid modding integrated tools (#76941)
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere (#76928)
 * Kill loadscreen during character creation (#76943)
-
-Cataclysm-DDA experimental build 2024-10-10-2138 (6b8bda9)
 * disable support for `x-min`/`x-max` itemgroup fields (#76917)
 * Add reload_one flag to benelli_sa (#76937)
 * Always show player's destination as possible goto-location option (#76922)

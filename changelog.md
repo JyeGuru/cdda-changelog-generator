@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-16-2302 ([9ebe91d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-2302))
+
 * [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
 * Spawn emergency drugs in pharmacy, update quests text ([#77043](https://github.com/CleverRaven/Cataclysm-DDA/pull/77043))
 * Several skin mutations now allow for installation of Alloy Plating CBM ([#77063](https://github.com/CleverRaven/Cataclysm-DDA/pull/77063))
@@ -203,11 +208,6 @@
 * Forbid modding integrated tools ([#76941](https://github.com/CleverRaven/Cataclysm-DDA/pull/76941))
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere ([#76928](https://github.com/CleverRaven/Cataclysm-DDA/pull/76928))
 * Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-10-2138 ([6b8bda9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-2138))
-
 * disable support for `x-min`/`x-max` itemgroup fields ([#76917](https://github.com/CleverRaven/Cataclysm-DDA/pull/76917))
 * Add reload_one flag to benelli_sa ([#76937](https://github.com/CleverRaven/Cataclysm-DDA/pull/76937))
 * Always show player's destination as possible goto-location option ([#76922](https://github.com/CleverRaven/Cataclysm-DDA/pull/76922))
