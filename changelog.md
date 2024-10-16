@@ -1,3 +1,4 @@
+* Fixed issue where extra cursor was drawn in ImGui InputText field on TUI builds erroneously ([#77089](https://github.com/CleverRaven/Cataclysm-DDA/pull/77089))
 
 ---
 
@@ -223,7 +224,6 @@
 * reduce weight and volume of the jika-tabi sneakers ([#76877](https://github.com/CleverRaven/Cataclysm-DDA/pull/76877))
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
 * Add barrel length to Taurus Spectrum ([#76874](https://github.com/CleverRaven/Cataclysm-DDA/pull/76874))
-* Fix Mosin battle rifle barrel length ([#76872](https://github.com/CleverRaven/Cataclysm-DDA/pull/76872))
 * limit stomach_contents::capacity to be no less than 250 ml ([#76883](https://github.com/CleverRaven/Cataclysm-DDA/pull/76883))
 * Rotten blood can't be analyzed on centrifuge ([#76889](https://github.com/CleverRaven/Cataclysm-DDA/pull/76889))
 * EOCs modifying calories track spent calories ([#76890](https://github.com/CleverRaven/Cataclysm-DDA/pull/76890))
