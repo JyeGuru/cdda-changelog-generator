@@ -1,3 +1,7 @@
+* [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
+* Spawn emergency drugs in pharmacy, update quests text ([#77043](https://github.com/CleverRaven/Cataclysm-DDA/pull/77043))
+* Several skin mutations now allow for installation of Alloy Plating CBM ([#77063](https://github.com/CleverRaven/Cataclysm-DDA/pull/77063))
+* [Magiclysm] Add Goodberry druid spell ([#77071](https://github.com/CleverRaven/Cataclysm-DDA/pull/77071))
 * Option to start bash activity on partial bash ([#77057](https://github.com/CleverRaven/Cataclysm-DDA/pull/77057))
 * Allow any grade of steel chunk for the makeshift hammer ([#77072](https://github.com/CleverRaven/Cataclysm-DDA/pull/77072))
 * [Aftershock] Update Electron Overflow for multiple item charging ([#77081](https://github.com/CleverRaven/Cataclysm-DDA/pull/77081))
@@ -169,12 +173,6 @@
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-12-0338 ([e177a96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-0338))
-
-* No longer able to wear already worn items ([#76879](https://github.com/CleverRaven/Cataclysm-DDA/pull/76879))
 * typified a bit of map.cpp and dependents ([#76900](https://github.com/CleverRaven/Cataclysm-DDA/pull/76900))
 
 ---
@@ -216,7 +214,6 @@
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
-* [Xedra Evolved] Little cleanups ([#76881](https://github.com/CleverRaven/Cataclysm-DDA/pull/76881))
 * [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
 * [MoM/CrazyCata Interaction] Rename Metaphysics to "woo woo" ([#76902](https://github.com/CleverRaven/Cataclysm-DDA/pull/76902))
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
@@ -225,13 +222,11 @@
 * [Magiclysm/Xedra Evolved] Magiclysm/xe updates for #76890 ([#76894](https://github.com/CleverRaven/Cataclysm-DDA/pull/76894))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
-* limit stomach_contents::capacity to be no less than 250 ml ([#76883](https://github.com/CleverRaven/Cataclysm-DDA/pull/76883))
 * Rotten blood can't be analyzed on centrifuge ([#76889](https://github.com/CleverRaven/Cataclysm-DDA/pull/76889))
 * EOCs modifying calories track spent calories ([#76890](https://github.com/CleverRaven/Cataclysm-DDA/pull/76890))
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
-* fix junk_allergen name ([#76884](https://github.com/CleverRaven/Cataclysm-DDA/pull/76884))
 * fix natural spring visibility ([#76885](https://github.com/CleverRaven/Cataclysm-DDA/pull/76885))
 * Fix vitamin documentation ([#76887](https://github.com/CleverRaven/Cataclysm-DDA/pull/76887))
 * typified map.h + dependents, end of first pass ([#76888](https://github.com/CleverRaven/Cataclysm-DDA/pull/76888))
