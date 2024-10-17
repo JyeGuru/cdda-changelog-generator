@@ -224,7 +224,6 @@
 * [Magiclysm/Xedra Evolved] Magiclysm/xe updates for #76890 ([#76894](https://github.com/CleverRaven/Cataclysm-DDA/pull/76894))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
-* Rotten blood can't be analyzed on centrifuge ([#76889](https://github.com/CleverRaven/Cataclysm-DDA/pull/76889))
 * EOCs modifying calories track spent calories ([#76890](https://github.com/CleverRaven/Cataclysm-DDA/pull/76890))
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
