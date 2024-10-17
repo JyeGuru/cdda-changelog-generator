@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-17-1814 ([cc3ab7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-1814))
+
+* Obsolete generic NPC common classes; use the avatar character generator instead ([#76935](https://github.com/CleverRaven/Cataclysm-DDA/pull/76935))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-17-1504 ([655cdea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-1504))
 
 * Refactor map travel prompting ([#77074](https://github.com/CleverRaven/Cataclysm-DDA/pull/77074))
@@ -199,11 +205,6 @@
 * Backport #73043 to allow shotgun speedloader chutes to function ([#76939](https://github.com/CleverRaven/Cataclysm-DDA/pull/76939))
 * [Sky Island] Add tokens to warp floor into new floor types ([#76954](https://github.com/CleverRaven/Cataclysm-DDA/pull/76954))
 * Remove mention of parkour from t_concrete_wall_rope ([#76961](https://github.com/CleverRaven/Cataclysm-DDA/pull/76961))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-11-2346 ([9437078](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-11-2346))
-
 * No more multiple wedding rings per zombie ([#76951](https://github.com/CleverRaven/Cataclysm-DDA/pull/76951))
 * Portal Storm Voice's Subtle Foreshadowing ([#76947](https://github.com/CleverRaven/Cataclysm-DDA/pull/76947))
 * [Xedra Evolved] Dreamforged Nail ([#76952](https://github.com/CleverRaven/Cataclysm-DDA/pull/76952))
@@ -224,7 +225,6 @@
 * [Magiclysm/Xedra Evolved] Magiclysm/xe updates for #76890 ([#76894](https://github.com/CleverRaven/Cataclysm-DDA/pull/76894))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
-* EOCs modifying calories track spent calories ([#76890](https://github.com/CleverRaven/Cataclysm-DDA/pull/76890))
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
