@@ -1,3 +1,5 @@
+* Clean up monster eating code, part 1/??? ([#77090](https://github.com/CleverRaven/Cataclysm-DDA/pull/77090))
+* [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  ([#77095](https://github.com/CleverRaven/Cataclysm-DDA/pull/77095))
 
 ---
 
@@ -229,8 +231,6 @@
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
 * Fix #76733 ([#76914](https://github.com/CleverRaven/Cataclysm-DDA/pull/76914))
 * [MoM/XE Interaction] Ierde and powerful vampires are immune to telepathy ([#76897](https://github.com/CleverRaven/Cataclysm-DDA/pull/76897))
-* [Magiclysm/Xedra Evolved] Magiclysm/xe updates for #76890 ([#76894](https://github.com/CleverRaven/Cataclysm-DDA/pull/76894))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
-* [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
