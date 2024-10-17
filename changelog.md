@@ -1,3 +1,11 @@
+* [MoM] Add the Mesmerize telepathic power ([#77051](https://github.com/CleverRaven/Cataclysm-DDA/pull/77051))
+* [MoM] Check for beta talker on damage EoCs ([#77087](https://github.com/CleverRaven/Cataclysm-DDA/pull/77087))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-17-2052 ([f89f977](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-2052))
+
+* [MoM] Some bug fixes ([#77045](https://github.com/CleverRaven/Cataclysm-DDA/pull/77045))
 
 ---
 
@@ -79,7 +87,6 @@
 #### Cataclysm-DDA experimental build 2024-10-15-0518 ([ec0b796](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-0518))
 
 * Fix sling staff ([#77029](https://github.com/CleverRaven/Cataclysm-DDA/pull/77029))
-* Make search data able to evaluate json variables ([#76892](https://github.com/CleverRaven/Cataclysm-DDA/pull/76892))
 
 ---
 
@@ -197,11 +204,6 @@
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
 * typified a bit of map.cpp and dependents ([#76900](https://github.com/CleverRaven/Cataclysm-DDA/pull/76900))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-12-0310 ([ce80b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-12-0310))
-
 * Backport #73043 to allow shotgun speedloader chutes to function ([#76939](https://github.com/CleverRaven/Cataclysm-DDA/pull/76939))
 * [Sky Island] Add tokens to warp floor into new floor types ([#76954](https://github.com/CleverRaven/Cataclysm-DDA/pull/76954))
 * Remove mention of parkour from t_concrete_wall_rope ([#76961](https://github.com/CleverRaven/Cataclysm-DDA/pull/76961))
@@ -225,7 +227,5 @@
 * [Magiclysm/Xedra Evolved] Magiclysm/xe updates for #76890 ([#76894](https://github.com/CleverRaven/Cataclysm-DDA/pull/76894))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
 * [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
-* [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
-* Remove recipe for leather out of tainted hide, human hide ([#76891](https://github.com/CleverRaven/Cataclysm-DDA/pull/76891))

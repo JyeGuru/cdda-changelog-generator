@@ -1,3 +1,8 @@
+* [MoM] Add the Mesmerize telepathic power (#77051)
+* [MoM] Check for beta talker on damage EoCs (#77087)
+
+Cataclysm-DDA experimental build 2024-10-17-2052 (f89f977)
+* [MoM] Some bug fixes (#77045)
 
 Cataclysm-DDA experimental build 2024-10-17-1814 (cc3ab7f)
 * Obsolete generic NPC common classes; use the avatar character generator instead (#76935)
@@ -46,7 +51,6 @@ Cataclysm-DDA experimental build 2024-10-15-1828 (61076ba)
 
 Cataclysm-DDA experimental build 2024-10-15-0518 (ec0b796)
 * Fix sling staff (#77029)
-* Make search data able to evaluate json variables (#76892)
 
 Cataclysm-DDA experimental build 2024-10-15-0135 (848308d)
 * Debugging new population horde actually sets population (#77034)
@@ -116,8 +120,6 @@ Cataclysm-DDA experimental build 2024-10-12-0722 (b2e7940)
 * "Center view" centers to player's current z-level (#76975)
 * Use sentence case in options descriptions consistently (#76977)
 * typified a bit of map.cpp and dependents (#76900)
-
-Cataclysm-DDA 0.H release candidate 2024-10-12-0310 (ce80b05)
 * Backport #73043 to allow shotgun speedloader chutes to function (#76939)
 * [Sky Island] Add tokens to warp floor into new floor types (#76954)
 * Remove mention of parkour from t_concrete_wall_rope (#76961)
@@ -141,7 +143,5 @@ Cataclysm-DDA 0.H release candidate 2024-10-12-0310 (ce80b05)
 * [Magiclysm/Xedra Evolved] Magiclysm/xe updates for #76890 (#76894)
 * Bunny ears (#76919)
 * [MoM] NPCs can awaken in portal storms (#76906)
-* [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) (#76893)
 * [MoM] Portal storm awakening EoC fix (#76895)
 * [MoM] Two bugfixes (#76898)
-* Remove recipe for leather out of tainted hide, human hide (#76891)
