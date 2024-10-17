@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-17-1504 (655cdea)
+* Refactor map travel prompting (#77074)
+
 Cataclysm-DDA experimental build 2024-10-17-0538 (36b1e9e)
 * Remove code for auto derivation of count-max (#77033)
 
@@ -119,8 +122,6 @@ Cataclysm-DDA 0.H release candidate 2024-10-12-0310 (ce80b05)
 Cataclysm-DDA experimental build 2024-10-11-2346 (9437078)
 * No more multiple wedding rings per zombie (#76951)
 * Portal Storm Voice's Subtle Foreshadowing (#76947)
-
-Cataclysm-DDA experimental build 2024-10-11-2113 (405e875)
 * [Xedra Evolved] Dreamforged Nail (#76952)
 * Forbid modding integrated tools (#76941)
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere (#76928)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2024-10-11-2113 (405e875)
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) (#76893)
 * [MoM] Portal storm awakening EoC fix (#76895)
 * [MoM] Two bugfixes (#76898)
-* typified map.h + dependents, end of first pass (#76888)
 * Remove recipe for leather out of tainted hide, human hide (#76891)
