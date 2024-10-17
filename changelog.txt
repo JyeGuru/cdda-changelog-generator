@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-17-0538 (36b1e9e)
+* Remove code for auto derivation of count-max (#77033)
+
 Cataclysm-DDA experimental build 2024-10-16-2302 (9ebe91d)
 * [Aftershock] Fix electron overflow energy cost (#77079)
 * Spawn emergency drugs in pharmacy, update quests text (#77043)
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2024-10-11-2346 (9437078)
 
 Cataclysm-DDA experimental build 2024-10-11-2113 (405e875)
 * [Xedra Evolved] Dreamforged Nail (#76952)
-
-Cataclysm-DDA experimental build 2024-10-10-2358 (11886ea)
 * Forbid modding integrated tools (#76941)
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere (#76928)
 * Kill loadscreen during character creation (#76943)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2024-10-10-2358 (11886ea)
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) (#76893)
 * [MoM] Portal storm awakening EoC fix (#76895)
 * [MoM] Two bugfixes (#76898)
-* fix natural spring visibility (#76885)
 * Fix vitamin documentation (#76887)
 * typified map.h + dependents, end of first pass (#76888)
 * Remove recipe for leather out of tainted hide, human hide (#76891)

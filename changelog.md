@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-17-0538 ([36b1e9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-0538))
+
+* Remove code for auto derivation of count-max ([#77033](https://github.com/CleverRaven/Cataclysm-DDA/pull/77033))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-16-2302 ([9ebe91d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-2302))
 
 * [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
@@ -200,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-10-11-2113 ([405e875](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-11-2113))
 
 * [Xedra Evolved] Dreamforged Nail ([#76952](https://github.com/CleverRaven/Cataclysm-DDA/pull/76952))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-10-2358 ([11886ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-10-2358))
-
 * Forbid modding integrated tools ([#76941](https://github.com/CleverRaven/Cataclysm-DDA/pull/76941))
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere ([#76928](https://github.com/CleverRaven/Cataclysm-DDA/pull/76928))
 * Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
@@ -227,7 +228,6 @@
 * [MoM] Marksman's Eye edits (lower range bonus, makes hitting weakpoints more likely) ([#76893](https://github.com/CleverRaven/Cataclysm-DDA/pull/76893))
 * [MoM] Portal storm awakening EoC fix ([#76895](https://github.com/CleverRaven/Cataclysm-DDA/pull/76895))
 * [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
-* fix natural spring visibility ([#76885](https://github.com/CleverRaven/Cataclysm-DDA/pull/76885))
 * Fix vitamin documentation ([#76887](https://github.com/CleverRaven/Cataclysm-DDA/pull/76887))
 * typified map.h + dependents, end of first pass ([#76888](https://github.com/CleverRaven/Cataclysm-DDA/pull/76888))
 * Remove recipe for leather out of tainted hide, human hide ([#76891](https://github.com/CleverRaven/Cataclysm-DDA/pull/76891))
