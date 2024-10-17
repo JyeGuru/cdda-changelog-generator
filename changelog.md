@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-17-2246 ([6b7ded3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-2246))
+
 * [MoM] Add the Mesmerize telepathic power ([#77051](https://github.com/CleverRaven/Cataclysm-DDA/pull/77051))
 * [MoM] Check for beta talker on damage EoCs ([#77087](https://github.com/CleverRaven/Cataclysm-DDA/pull/77087))
 
