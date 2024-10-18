@@ -1,3 +1,4 @@
+* Adds clay cup item and recipe, changes ceramic cup recipe (#77103)
 
 Cataclysm-DDA experimental build 2024-10-18-1352 (3d61de3)
 * some devil and angel costume accessories (#77096)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2024-10-13-0339 (2c7c0c7)
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission (#76925)
 * Only list non-zero damage types on melee weapons (#76929)
 * Use accurate invlet in mutation ui examine instructions (#76933)
-* Bunny ears (#76919)

@@ -1,3 +1,4 @@
+* Adds clay cup item and recipe, changes ceramic cup recipe ([#77103](https://github.com/CleverRaven/Cataclysm-DDA/pull/77103))
 
 ---
 
@@ -233,4 +234,3 @@
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
-* Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
