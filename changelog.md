@@ -1,3 +1,4 @@
+* some devil and angel costume accessories ([#77096](https://github.com/CleverRaven/Cataclysm-DDA/pull/77096))
 
 ---
 
