@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-18-0902 ([77e1ead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0902))
+
+* Deduplicate origin string generation ([#77030](https://github.com/CleverRaven/Cataclysm-DDA/pull/77030))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-18-0246 ([d2943c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0246))
 
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it ([#77062](https://github.com/CleverRaven/Cataclysm-DDA/pull/77062))
@@ -200,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-10-12-2045 ([4038ffe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-2045))
 
 * transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-12-1758 ([38fc3b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-1758))
-
 * Fix some Britishisms in the JSON files. ([#76981](https://github.com/CleverRaven/Cataclysm-DDA/pull/76981))
 * Routine i18n updates on 12 October 2024 ([#76985](https://github.com/CleverRaven/Cataclysm-DDA/pull/76985))
 * Wrap run_eocs properly ([#76970](https://github.com/CleverRaven/Cataclysm-DDA/pull/76970))
@@ -231,6 +232,5 @@
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
-* [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
 * Fix #76733 ([#76914](https://github.com/CleverRaven/Cataclysm-DDA/pull/76914))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))

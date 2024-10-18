@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-18-0902 (77e1ead)
+* Deduplicate origin string generation (#77030)
+
 Cataclysm-DDA experimental build 2024-10-18-0246 (d2943c9)
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it (#77062)
 
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2024-10-13-0040 (d3f030a)
 
 Cataclysm-DDA experimental build 2024-10-12-2045 (4038ffe)
 * transpiration typo (#76995)
-
-Cataclysm-DDA experimental build 2024-10-12-1758 (38fc3b4)
 * Fix some Britishisms in the JSON files. (#76981)
 * Routine i18n updates on 12 October 2024 (#76985)
 * Wrap run_eocs properly (#76970)
@@ -144,6 +145,5 @@ Cataclysm-DDA experimental build 2024-10-12-1758 (38fc3b4)
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission (#76925)
 * Only list non-zero damage types on melee weapons (#76929)
 * Use accurate invlet in mutation ui examine instructions (#76933)
-* [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment (#76911)
 * Fix #76733 (#76914)
 * Bunny ears (#76919)
