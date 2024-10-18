@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-18-1352 ([3d61de3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1352))
+
 * some devil and angel costume accessories ([#77096](https://github.com/CleverRaven/Cataclysm-DDA/pull/77096))
 
 ---
@@ -201,11 +206,6 @@
 * [MoM] Wakeful Rest and Revitalizing Meditation now grant XP, drain focus while using them ([#76976](https://github.com/CleverRaven/Cataclysm-DDA/pull/76976))
 * Dedupe button code in worldfactory, also redraw UI ([#76964](https://github.com/CleverRaven/Cataclysm-DDA/pull/76964))
 * Change "Weapon categories" to sentence case in initialization string ([#76989](https://github.com/CleverRaven/Cataclysm-DDA/pull/76989))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-13-0040 ([d3f030a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-0040))
-
 * fix spells segfaulting from wrong creature ([#76969](https://github.com/CleverRaven/Cataclysm-DDA/pull/76969))
 * transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
 * Fix some Britishisms in the JSON files. ([#76981](https://github.com/CleverRaven/Cataclysm-DDA/pull/76981))
