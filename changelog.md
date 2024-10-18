@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-18-1953 ([79d21b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1953))
+
 * Atoning for my mistake ([#77132](https://github.com/CleverRaven/Cataclysm-DDA/pull/77132))
 
 ---
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-10-13-1432 ([287caa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-1432))
 
 * [DinoMod] Destroy the mosasaurus egg ([#76988](https://github.com/CleverRaven/Cataclysm-DDA/pull/76988))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-13-0546 ([1fb836e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-0546))
-
 * Change option groups to sentence case ([#76973](https://github.com/CleverRaven/Cataclysm-DDA/pull/76973))
 * [Xedra Evolved] Dreamsmithing procgen expansion (enchants) ([#76957](https://github.com/CleverRaven/Cataclysm-DDA/pull/76957))
 * [MoM] Wakeful Rest and Revitalizing Meditation now grant XP, drain focus while using them ([#76976](https://github.com/CleverRaven/Cataclysm-DDA/pull/76976))
