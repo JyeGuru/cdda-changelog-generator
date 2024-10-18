@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-18-1621 ([79b8ed9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1621))
+
 * Replace ``rot_spawn`` groups with direct ID references ([#76991](https://github.com/CleverRaven/Cataclysm-DDA/pull/76991))
 * Adds clay cup item and recipe, changes ceramic cup recipe ([#77103](https://github.com/CleverRaven/Cataclysm-DDA/pull/77103))
 
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-10-13-0546 ([1fb836e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-0546))
 
 * Change option groups to sentence case ([#76973](https://github.com/CleverRaven/Cataclysm-DDA/pull/76973))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-13-0339 ([2c7c0c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-0339))
-
 * [Xedra Evolved] Dreamsmithing procgen expansion (enchants) ([#76957](https://github.com/CleverRaven/Cataclysm-DDA/pull/76957))
 * [MoM] Wakeful Rest and Revitalizing Meditation now grant XP, drain focus while using them ([#76976](https://github.com/CleverRaven/Cataclysm-DDA/pull/76976))
 * Dedupe button code in worldfactory, also redraw UI ([#76964](https://github.com/CleverRaven/Cataclysm-DDA/pull/76964))
