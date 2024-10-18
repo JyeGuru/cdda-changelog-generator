@@ -1,3 +1,13 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-18-0041 ([0764d84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0041))
+
+* Mod Compatibility 2: Prevent Error from duplicate ids within mod_interactions folder ([#76983](https://github.com/CleverRaven/Cataclysm-DDA/pull/76983))
+* Add EoC effect that deal damage ([#77009](https://github.com/CleverRaven/Cataclysm-DDA/pull/77009))
+* Make mutations able to use mana as resourse without EoC ([#77013](https://github.com/CleverRaven/Cataclysm-DDA/pull/77013))
+* Bring back poultry chunks ([#77015](https://github.com/CleverRaven/Cataclysm-DDA/pull/77015))
+* Avatar death also sends character death/character kill character event pulses ([#77039](https://github.com/CleverRaven/Cataclysm-DDA/pull/77039))
 * Clean up monster eating code, part 1/??? ([#77090](https://github.com/CleverRaven/Cataclysm-DDA/pull/77090))
 * [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  ([#77095](https://github.com/CleverRaven/Cataclysm-DDA/pull/77095))
 
@@ -199,18 +209,12 @@
 #### Cataclysm-DDA experimental build 2024-10-12-1520 ([edd6787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-1520))
 
 * Colored cropped hoodies ([#76984](https://github.com/CleverRaven/Cataclysm-DDA/pull/76984))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-12-0722 ([b2e7940](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-0722))
-
 * Lab entrance misdirection no longer needed thanks to vision levels ([#76967](https://github.com/CleverRaven/Cataclysm-DDA/pull/76967))
 * add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
 * Don't apply additional move cost for moving barefoot in deep water ([#76949](https://github.com/CleverRaven/Cataclysm-DDA/pull/76949))
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
-* typified a bit of map.cpp and dependents ([#76900](https://github.com/CleverRaven/Cataclysm-DDA/pull/76900))
 * Backport #73043 to allow shotgun speedloader chutes to function ([#76939](https://github.com/CleverRaven/Cataclysm-DDA/pull/76939))
 * [Sky Island] Add tokens to warp floor into new floor types ([#76954](https://github.com/CleverRaven/Cataclysm-DDA/pull/76954))
 * Remove mention of parkour from t_concrete_wall_rope ([#76961](https://github.com/CleverRaven/Cataclysm-DDA/pull/76961))
@@ -227,10 +231,6 @@
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
 * [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
-* [MoM/CrazyCata Interaction] Rename Metaphysics to "woo woo" ([#76902](https://github.com/CleverRaven/Cataclysm-DDA/pull/76902))
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
 * Fix #76733 ([#76914](https://github.com/CleverRaven/Cataclysm-DDA/pull/76914))
-* [MoM/XE Interaction] Ierde and powerful vampires are immune to telepathy ([#76897](https://github.com/CleverRaven/Cataclysm-DDA/pull/76897))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
-* [MoM] NPCs can awaken in portal storms ([#76906](https://github.com/CleverRaven/Cataclysm-DDA/pull/76906))
-* [MoM] Two bugfixes ([#76898](https://github.com/CleverRaven/Cataclysm-DDA/pull/76898))
