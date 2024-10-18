@@ -1,3 +1,4 @@
+* [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it ([#77062](https://github.com/CleverRaven/Cataclysm-DDA/pull/77062))
 
 ---
 
@@ -230,7 +231,6 @@
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission ([#76925](https://github.com/CleverRaven/Cataclysm-DDA/pull/76925))
 * Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
-* [Magiclysm] Add one ring and one set of bracers ([#76908](https://github.com/CleverRaven/Cataclysm-DDA/pull/76908))
 * [MoM] Reduce psionics calorie costs by 20%, remove Nether Attunement adjustment ([#76911](https://github.com/CleverRaven/Cataclysm-DDA/pull/76911))
 * Fix #76733 ([#76914](https://github.com/CleverRaven/Cataclysm-DDA/pull/76914))
 * Bunny ears ([#76919](https://github.com/CleverRaven/Cataclysm-DDA/pull/76919))
