@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-18-0246 (d2943c9)
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it (#77062)
 
 Cataclysm-DDA experimental build 2024-10-18-0041 (0764d84)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-10-12-1758 (38fc3b4)
 * Routine i18n updates on 12 October 2024 (#76985)
 * Wrap run_eocs properly (#76970)
 * Fix set of clothes crash (#76978)
-
-Cataclysm-DDA experimental build 2024-10-12-1520 (edd6787)
 * Colored cropped hoodies (#76984)
 * Lab entrance misdirection no longer needed thanks to vision levels (#76967)
 * add new event of monster taking damage/dying (#76972)

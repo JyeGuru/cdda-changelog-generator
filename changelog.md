@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-18-0246 ([d2943c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0246))
+
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it ([#77062](https://github.com/CleverRaven/Cataclysm-DDA/pull/77062))
 
 ---
@@ -204,11 +209,6 @@
 * Routine i18n updates on 12 October 2024 ([#76985](https://github.com/CleverRaven/Cataclysm-DDA/pull/76985))
 * Wrap run_eocs properly ([#76970](https://github.com/CleverRaven/Cataclysm-DDA/pull/76970))
 * Fix set of clothes crash ([#76978](https://github.com/CleverRaven/Cataclysm-DDA/pull/76978))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-12-1520 ([edd6787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-12-1520))
-
 * Colored cropped hoodies ([#76984](https://github.com/CleverRaven/Cataclysm-DDA/pull/76984))
 * Lab entrance misdirection no longer needed thanks to vision levels ([#76967](https://github.com/CleverRaven/Cataclysm-DDA/pull/76967))
 * add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
