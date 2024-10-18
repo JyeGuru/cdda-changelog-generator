@@ -1,3 +1,4 @@
+* Replace ``rot_spawn`` groups with direct ID references (#76991)
 * Adds clay cup item and recipe, changes ceramic cup recipe (#77103)
 
 Cataclysm-DDA experimental build 2024-10-18-1352 (3d61de3)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2024-10-13-0339 (2c7c0c7)
 * [MoM] Centralize calorie EoC in one place and refer to it elsewhere (#76928)
 * Kill loadscreen during character creation (#76943)
 * Add reload_one flag to benelli_sa (#76937)
-* Always show player's destination as possible goto-location option (#76922)
 * Now it's possible to complete Gemma Johnstone's 'Retrieve the fertility supplements' mission (#76925)
 * Only list non-zero damage types on melee weapons (#76929)
 * Use accurate invlet in mutation ui examine instructions (#76933)
