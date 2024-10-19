@@ -1,3 +1,7 @@
+* OMT description fixes ([#77115](https://github.com/CleverRaven/Cataclysm-DDA/pull/77115))
+* hub repairs now reply with correct time ([#77118](https://github.com/CleverRaven/Cataclysm-DDA/pull/77118))
+* destroy miniscule bugs ([#77133](https://github.com/CleverRaven/Cataclysm-DDA/pull/77133))
+* My Sweet Cataclysm loading screen image ([#77138](https://github.com/CleverRaven/Cataclysm-DDA/pull/77138))
 
 ---
 
@@ -66,12 +70,6 @@
 #### Cataclysm-DDA experimental build 2024-10-17-2052 ([f89f977](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-2052))
 
 * [MoM] Some bug fixes ([#77045](https://github.com/CleverRaven/Cataclysm-DDA/pull/77045))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-17-1814 ([cc3ab7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-1814))
-
-* Obsolete generic NPC common classes; use the avatar character generator instead ([#76935](https://github.com/CleverRaven/Cataclysm-DDA/pull/76935))
 
 ---
 
@@ -223,7 +221,6 @@
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
-* Backport #73043 to allow shotgun speedloader chutes to function ([#76939](https://github.com/CleverRaven/Cataclysm-DDA/pull/76939))
 * [Sky Island] Add tokens to warp floor into new floor types ([#76954](https://github.com/CleverRaven/Cataclysm-DDA/pull/76954))
 * Remove mention of parkour from t_concrete_wall_rope ([#76961](https://github.com/CleverRaven/Cataclysm-DDA/pull/76961))
 * No more multiple wedding rings per zombie ([#76951](https://github.com/CleverRaven/Cataclysm-DDA/pull/76951))
@@ -231,5 +228,3 @@
 * [Xedra Evolved] Dreamforged Nail ([#76952](https://github.com/CleverRaven/Cataclysm-DDA/pull/76952))
 * Forbid modding integrated tools ([#76941](https://github.com/CleverRaven/Cataclysm-DDA/pull/76941))
 * Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
-* Add reload_one flag to benelli_sa ([#76937](https://github.com/CleverRaven/Cataclysm-DDA/pull/76937))
-* Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
