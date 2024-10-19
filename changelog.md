@@ -226,5 +226,4 @@
 * No more multiple wedding rings per zombie ([#76951](https://github.com/CleverRaven/Cataclysm-DDA/pull/76951))
 * Portal Storm Voice's Subtle Foreshadowing ([#76947](https://github.com/CleverRaven/Cataclysm-DDA/pull/76947))
 * [Xedra Evolved] Dreamforged Nail ([#76952](https://github.com/CleverRaven/Cataclysm-DDA/pull/76952))
-* Forbid modding integrated tools ([#76941](https://github.com/CleverRaven/Cataclysm-DDA/pull/76941))
 * Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
