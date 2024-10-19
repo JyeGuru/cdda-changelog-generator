@@ -2,7 +2,17 @@
 * Numbered pockets in pocket description ([#77093](https://github.com/CleverRaven/Cataclysm-DDA/pull/77093))
 * Replace danger note prompt with note dialog heading ([#77078](https://github.com/CleverRaven/Cataclysm-DDA/pull/77078))
 * Check `unknown_terrain` instead of `unknown` for overmap tileset ([#77041](https://github.com/CleverRaven/Cataclysm-DDA/pull/77041))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-19-2307 ([f7af889](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-19-2307))
+
 * Backport fix to not being able to put smaller mags into tac vest ([#77121](https://github.com/CleverRaven/Cataclysm-DDA/pull/77121))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-19-2306 ([d125ec8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-2306))
+
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
 
@@ -185,18 +195,8 @@
 
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
 * Backport #76986 (Enable Giant Pincer Mutation) for 0.H ([#77032](https://github.com/CleverRaven/Cataclysm-DDA/pull/77032))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-14-0551 ([2e5b3cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-0551))
-
 * Fix floating-point precision problem in apply_light_arc ([#76959](https://github.com/CleverRaven/Cataclysm-DDA/pull/76959))
 * move volume and weight vals to math ([#76968](https://github.com/CleverRaven/Cataclysm-DDA/pull/76968))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-14-0350 ([32eb1d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-0350))
-
 * Fix game not compiling on GCC ([#77017](https://github.com/CleverRaven/Cataclysm-DDA/pull/77017))
 * Enable Giant Pincer Mutation ([#76986](https://github.com/CleverRaven/Cataclysm-DDA/pull/76986))
 * Colored crop tops ([#77005](https://github.com/CleverRaven/Cataclysm-DDA/pull/77005))
