@@ -1,3 +1,4 @@
+* Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
 
 ---
@@ -145,12 +146,6 @@
 * Use float instead of int for slip chance ([#76953](https://github.com/CleverRaven/Cataclysm-DDA/pull/76953))
 * [MoM] Anabolic Rejuvenation / Accelerated Resuscitation updates ([#77027](https://github.com/CleverRaven/Cataclysm-DDA/pull/77027))
 * Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-15-2357 ([b7cfa5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-2357))
-
-* Optimize get_dangerous_tile, also is_ and prompt_ ([#76950](https://github.com/CleverRaven/Cataclysm-DDA/pull/76950))
 
 ---
 

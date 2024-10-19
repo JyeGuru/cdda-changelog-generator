@@ -1,3 +1,4 @@
+* Routine i18n updates on 19 October 2024 (#77146)
 * Requirements warn if loading components as tools (#77144)
 
 Cataclysm-DDA experimental build 2024-10-19-1852 (f2a0326)
@@ -85,9 +86,6 @@ Cataclysm-DDA experimental build 2024-10-16-0438 (8c9ca7a)
 * Use float instead of int for slip chance (#76953)
 * [MoM] Anabolic Rejuvenation / Accelerated Resuscitation updates (#77027)
 * Talk to companion without making them following you afterwards (#77049)
-
-Cataclysm-DDA experimental build 2024-10-15-2357 (b7cfa5d)
-* Optimize get_dangerous_tile, also is_ and prompt_ (#76950)
 
 Cataclysm-DDA experimental build 2024-10-15-2059 (e3ddac1)
 * [MoM] Onyx Lightning, Now in Uniform (#77054)
