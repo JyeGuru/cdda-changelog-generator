@@ -1,4 +1,6 @@
 * Requirements warn if loading components as tools (#77144)
+
+Cataclysm-DDA experimental build 2024-10-19-1852 (f2a0326)
 * making to-hit in character creation sign consistent (#77127)
 * Change behavior of selecting ground tiles in vehicle in advanced inventory (#77140)
 
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-10-14-0551 (2e5b3cf)
 
 Cataclysm-DDA experimental build 2024-10-14-0350 (32eb1d6)
 * Fix game not compiling on GCC (#77017)
-
-Cataclysm-DDA experimental build 2024-10-14-0109 (7d4507a)
 * Enable Giant Pincer Mutation (#76986)
 * Colored crop tops (#77005)
 * Correct llama skull size (#77014)

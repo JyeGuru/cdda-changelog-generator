@@ -1,4 +1,9 @@
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-19-1852 ([f2a0326](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-1852))
+
 * making to-hit in character creation sign consistent ([#77127](https://github.com/CleverRaven/Cataclysm-DDA/pull/77127))
 * Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
 
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-10-14-0350 ([32eb1d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-0350))
 
 * Fix game not compiling on GCC ([#77017](https://github.com/CleverRaven/Cataclysm-DDA/pull/77017))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-14-0109 ([7d4507a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-0109))
-
 * Enable Giant Pincer Mutation ([#76986](https://github.com/CleverRaven/Cataclysm-DDA/pull/76986))
 * Colored crop tops ([#77005](https://github.com/CleverRaven/Cataclysm-DDA/pull/77005))
 * Correct llama skull size ([#77014](https://github.com/CleverRaven/Cataclysm-DDA/pull/77014))
