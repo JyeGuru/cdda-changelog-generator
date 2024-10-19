@@ -1,3 +1,5 @@
+* making to-hit in character creation sign consistent ([#77127](https://github.com/CleverRaven/Cataclysm-DDA/pull/77127))
+* Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
 
 ---
 
@@ -225,5 +227,4 @@
 * [Sky Island] Add tokens to warp floor into new floor types ([#76954](https://github.com/CleverRaven/Cataclysm-DDA/pull/76954))
 * Remove mention of parkour from t_concrete_wall_rope ([#76961](https://github.com/CleverRaven/Cataclysm-DDA/pull/76961))
 * No more multiple wedding rings per zombie ([#76951](https://github.com/CleverRaven/Cataclysm-DDA/pull/76951))
-* Portal Storm Voice's Subtle Foreshadowing ([#76947](https://github.com/CleverRaven/Cataclysm-DDA/pull/76947))
 * [Xedra Evolved] Dreamforged Nail ([#76952](https://github.com/CleverRaven/Cataclysm-DDA/pull/76952))

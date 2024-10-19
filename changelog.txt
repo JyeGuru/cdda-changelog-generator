@@ -1,3 +1,5 @@
+* making to-hit in character creation sign consistent (#77127)
+* Change behavior of selecting ground tiles in vehicle in advanced inventory (#77140)
 
 Cataclysm-DDA experimental build 2024-10-19-1447 (3841a67)
 * Added check for stealing prior to unloading containers (#77129)
@@ -141,5 +143,4 @@ Cataclysm-DDA experimental build 2024-10-14-0109 (7d4507a)
 * [Sky Island] Add tokens to warp floor into new floor types (#76954)
 * Remove mention of parkour from t_concrete_wall_rope (#76961)
 * No more multiple wedding rings per zombie (#76951)
-* Portal Storm Voice's Subtle Foreshadowing (#76947)
 * [Xedra Evolved] Dreamforged Nail (#76952)
