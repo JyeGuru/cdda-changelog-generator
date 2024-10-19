@@ -1,3 +1,4 @@
+* Requirements warn if loading components as tools (#77144)
 * making to-hit in character creation sign consistent (#77127)
 * Change behavior of selecting ground tiles in vehicle in advanced inventory (#77140)
 
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2024-10-14-0109 (7d4507a)
 * Colored cropped hoodies (#76984)
 * Lab entrance misdirection no longer needed thanks to vision levels (#76967)
 * add new event of monster taking damage/dying (#76972)
-* Don't apply additional move cost for moving barefoot in deep water (#76949)
 * Faulty guns don't lock your view (#76974)
 * "Center view" centers to player's current z-level (#76975)
 * Use sentence case in options descriptions consistently (#76977)

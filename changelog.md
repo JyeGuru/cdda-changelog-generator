@@ -1,3 +1,4 @@
+* Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
 * making to-hit in character creation sign consistent ([#77127](https://github.com/CleverRaven/Cataclysm-DDA/pull/77127))
 * Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
 
@@ -220,7 +221,6 @@
 * Colored cropped hoodies ([#76984](https://github.com/CleverRaven/Cataclysm-DDA/pull/76984))
 * Lab entrance misdirection no longer needed thanks to vision levels ([#76967](https://github.com/CleverRaven/Cataclysm-DDA/pull/76967))
 * add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
-* Don't apply additional move cost for moving barefoot in deep water ([#76949](https://github.com/CleverRaven/Cataclysm-DDA/pull/76949))
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
