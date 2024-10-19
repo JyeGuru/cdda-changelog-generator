@@ -1,3 +1,6 @@
+* cranberry conversations now slightly more human ([#77119](https://github.com/CleverRaven/Cataclysm-DDA/pull/77119))
+* Numbered pockets in pocket description ([#77093](https://github.com/CleverRaven/Cataclysm-DDA/pull/77093))
+* Replace danger note prompt with note dialog heading ([#77078](https://github.com/CleverRaven/Cataclysm-DDA/pull/77078))
 * Check `unknown_terrain` instead of `unknown` for overmap tileset ([#77041](https://github.com/CleverRaven/Cataclysm-DDA/pull/77041))
 * Backport fix to not being able to put smaller mags into tac vest ([#77121](https://github.com/CleverRaven/Cataclysm-DDA/pull/77121))
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
@@ -145,7 +148,6 @@
 * RM13 premature shutdown fix, the Sequel: I need to learn how to Github better ([#77023](https://github.com/CleverRaven/Cataclysm-DDA/pull/77023))
 * Missions track when they were completed/failed ([#77052](https://github.com/CleverRaven/Cataclysm-DDA/pull/77052))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
-* Use float instead of int for slip chance ([#76953](https://github.com/CleverRaven/Cataclysm-DDA/pull/76953))
 * [MoM] Anabolic Rejuvenation / Accelerated Resuscitation updates ([#77027](https://github.com/CleverRaven/Cataclysm-DDA/pull/77027))
 * Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
 
@@ -205,7 +207,6 @@
 * Xedra Evolved - make oneiric hammer use deduction skill to repair ([#76998](https://github.com/CleverRaven/Cataclysm-DDA/pull/76998))
 * [DinoMod] Destroy the mosasaurus egg ([#76988](https://github.com/CleverRaven/Cataclysm-DDA/pull/76988))
 * Change option groups to sentence case ([#76973](https://github.com/CleverRaven/Cataclysm-DDA/pull/76973))
-* [Xedra Evolved] Dreamsmithing procgen expansion (enchants) ([#76957](https://github.com/CleverRaven/Cataclysm-DDA/pull/76957))
 * [MoM] Wakeful Rest and Revitalizing Meditation now grant XP, drain focus while using them ([#76976](https://github.com/CleverRaven/Cataclysm-DDA/pull/76976))
 * Dedupe button code in worldfactory, also redraw UI ([#76964](https://github.com/CleverRaven/Cataclysm-DDA/pull/76964))
 * Change "Weapon categories" to sentence case in initialization string ([#76989](https://github.com/CleverRaven/Cataclysm-DDA/pull/76989))
@@ -221,5 +222,4 @@
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
-* [Sky Island] Add tokens to warp floor into new floor types ([#76954](https://github.com/CleverRaven/Cataclysm-DDA/pull/76954))
 * Remove mention of parkour from t_concrete_wall_rope ([#76961](https://github.com/CleverRaven/Cataclysm-DDA/pull/76961))
