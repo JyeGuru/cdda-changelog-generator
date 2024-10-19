@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-19-0005 ([576d639](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-0005))
+
+* Weekly Changelog 2024-10-07 to 2024-10-14 ([#77028](https://github.com/CleverRaven/Cataclysm-DDA/pull/77028))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-18-1953 ([79d21b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1953))
 
 * Atoning for my mistake ([#77132](https://github.com/CleverRaven/Cataclysm-DDA/pull/77132))
@@ -198,11 +204,6 @@
 * Prompt if you really want to crash the game ([#77002](https://github.com/CleverRaven/Cataclysm-DDA/pull/77002))
 * Change Acclimatization from all caps to title case ([#77006](https://github.com/CleverRaven/Cataclysm-DDA/pull/77006))
 * Xedra Evolved - make oneiric hammer use deduction skill to repair ([#76998](https://github.com/CleverRaven/Cataclysm-DDA/pull/76998))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-13-1432 ([287caa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-1432))
-
 * [DinoMod] Destroy the mosasaurus egg ([#76988](https://github.com/CleverRaven/Cataclysm-DDA/pull/76988))
 * Change option groups to sentence case ([#76973](https://github.com/CleverRaven/Cataclysm-DDA/pull/76973))
 * [Xedra Evolved] Dreamsmithing procgen expansion (enchants) ([#76957](https://github.com/CleverRaven/Cataclysm-DDA/pull/76957))
@@ -229,8 +230,6 @@
 * Portal Storm Voice's Subtle Foreshadowing ([#76947](https://github.com/CleverRaven/Cataclysm-DDA/pull/76947))
 * [Xedra Evolved] Dreamforged Nail ([#76952](https://github.com/CleverRaven/Cataclysm-DDA/pull/76952))
 * Forbid modding integrated tools ([#76941](https://github.com/CleverRaven/Cataclysm-DDA/pull/76941))
-* [MoM] Centralize calorie EoC in one place and refer to it elsewhere ([#76928](https://github.com/CleverRaven/Cataclysm-DDA/pull/76928))
 * Kill loadscreen during character creation ([#76943](https://github.com/CleverRaven/Cataclysm-DDA/pull/76943))
 * Add reload_one flag to benelli_sa ([#76937](https://github.com/CleverRaven/Cataclysm-DDA/pull/76937))
-* Only list non-zero damage types on melee weapons ([#76929](https://github.com/CleverRaven/Cataclysm-DDA/pull/76929))
 * Use accurate invlet in mutation ui examine instructions ([#76933](https://github.com/CleverRaven/Cataclysm-DDA/pull/76933))
