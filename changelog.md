@@ -1,3 +1,5 @@
+* Check `unknown_terrain` instead of `unknown` for overmap tileset ([#77041](https://github.com/CleverRaven/Cataclysm-DDA/pull/77041))
+* Backport fix to not being able to put smaller mags into tac vest ([#77121](https://github.com/CleverRaven/Cataclysm-DDA/pull/77121))
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
 
@@ -221,5 +223,3 @@
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
 * [Sky Island] Add tokens to warp floor into new floor types ([#76954](https://github.com/CleverRaven/Cataclysm-DDA/pull/76954))
 * Remove mention of parkour from t_concrete_wall_rope ([#76961](https://github.com/CleverRaven/Cataclysm-DDA/pull/76961))
-* No more multiple wedding rings per zombie ([#76951](https://github.com/CleverRaven/Cataclysm-DDA/pull/76951))
-* [Xedra Evolved] Dreamforged Nail ([#76952](https://github.com/CleverRaven/Cataclysm-DDA/pull/76952))
