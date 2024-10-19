@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-19-0858 ([ac689be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-0858))
+
 * OMT description fixes ([#77115](https://github.com/CleverRaven/Cataclysm-DDA/pull/77115))
 * hub repairs now reply with correct time ([#77118](https://github.com/CleverRaven/Cataclysm-DDA/pull/77118))
 * destroy miniscule bugs ([#77133](https://github.com/CleverRaven/Cataclysm-DDA/pull/77133))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-10-14-0109 ([7d4507a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-0109))
 
 * Enable Giant Pincer Mutation ([#76986](https://github.com/CleverRaven/Cataclysm-DDA/pull/76986))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-13-1854 ([f85808d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-13-1854))
-
 * Colored crop tops ([#77005](https://github.com/CleverRaven/Cataclysm-DDA/pull/77005))
 * Correct llama skull size ([#77014](https://github.com/CleverRaven/Cataclysm-DDA/pull/77014))
 * Fix non-battery fueled items using charges ([#76997](https://github.com/CleverRaven/Cataclysm-DDA/pull/76997))

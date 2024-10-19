@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-19-0858 (ac689be)
 * OMT description fixes (#77115)
 * hub repairs now reply with correct time (#77118)
 * destroy miniscule bugs (#77133)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-10-14-0350 (32eb1d6)
 
 Cataclysm-DDA experimental build 2024-10-14-0109 (7d4507a)
 * Enable Giant Pincer Mutation (#76986)
-
-Cataclysm-DDA experimental build 2024-10-13-1854 (f85808d)
 * Colored crop tops (#77005)
 * Correct llama skull size (#77014)
 * Fix non-battery fueled items using charges (#76997)
