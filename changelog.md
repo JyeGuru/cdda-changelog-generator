@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-19-1447 ([3841a67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-1447))
+
 * Added check for stealing prior to unloading containers ([#77129](https://github.com/CleverRaven/Cataclysm-DDA/pull/77129))
 
 ---
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-10-14-2142 ([6153d60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-14-2142))
 
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-14-1533 ([e9f130b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-14-1533))
-
 * Backport #76986 (Enable Giant Pincer Mutation) for 0.H ([#77032](https://github.com/CleverRaven/Cataclysm-DDA/pull/77032))
 
 ---

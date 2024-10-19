@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-19-1447 (3841a67)
 * Added check for stealing prior to unloading containers (#77129)
 
 Cataclysm-DDA experimental build 2024-10-19-0858 (ac689be)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2024-10-15-0135 (848308d)
 
 Cataclysm-DDA experimental build 2024-10-14-2142 (6153d60)
 * Kill loadscreen on tutorial start (#77037)
-
-Cataclysm-DDA 0.H release candidate 2024-10-14-1533 (e9f130b)
 * Backport #76986 (Enable Giant Pincer Mutation) for 0.H (#77032)
 
 Cataclysm-DDA experimental build 2024-10-14-0551 (2e5b3cf)
