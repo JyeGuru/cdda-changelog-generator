@@ -1,6 +1,8 @@
 * OMT description fixes (#77115)
 * hub repairs now reply with correct time (#77118)
 * destroy miniscule bugs (#77133)
+
+Cataclysm-DDA experimental build 2024-10-19-0446 (fad5181)
 * My Sweet Cataclysm loading screen image (#77138)
 
 Cataclysm-DDA experimental build 2024-10-19-0005 (576d639)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2024-10-14-0109 (7d4507a)
 
 Cataclysm-DDA experimental build 2024-10-13-1854 (f85808d)
 * Colored crop tops (#77005)
-
-Cataclysm-DDA experimental build 2024-10-13-1658 (27e354c)
 * Correct llama skull size (#77014)
 * Fix non-battery fueled items using charges (#76997)
 * Prompt if you really want to crash the game (#77002)
