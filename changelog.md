@@ -1,3 +1,5 @@
+* No repeatedly lighting fires on same tile ([#77149](https://github.com/CleverRaven/Cataclysm-DDA/pull/77149))
+* Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced ([#77152](https://github.com/CleverRaven/Cataclysm-DDA/pull/77152))
 * cranberry conversations now slightly more human ([#77119](https://github.com/CleverRaven/Cataclysm-DDA/pull/77119))
 * Numbered pockets in pocket description ([#77093](https://github.com/CleverRaven/Cataclysm-DDA/pull/77093))
 * Replace danger note prompt with note dialog heading ([#77078](https://github.com/CleverRaven/Cataclysm-DDA/pull/77078))
@@ -195,7 +197,6 @@
 
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
 * Backport #76986 (Enable Giant Pincer Mutation) for 0.H ([#77032](https://github.com/CleverRaven/Cataclysm-DDA/pull/77032))
-* Fix floating-point precision problem in apply_light_arc ([#76959](https://github.com/CleverRaven/Cataclysm-DDA/pull/76959))
 * move volume and weight vals to math ([#76968](https://github.com/CleverRaven/Cataclysm-DDA/pull/76968))
 * Fix game not compiling on GCC ([#77017](https://github.com/CleverRaven/Cataclysm-DDA/pull/77017))
 * Enable Giant Pincer Mutation ([#76986](https://github.com/CleverRaven/Cataclysm-DDA/pull/76986))
