@@ -1,3 +1,4 @@
+* Adding new 2x2 library building ([#77154](https://github.com/CleverRaven/Cataclysm-DDA/pull/77154))
 * [Innawood] Exchange soldering to surface heat in battery car clay recipe ([#77097](https://github.com/CleverRaven/Cataclysm-DDA/pull/77097))
 * No robot snippets ([#77122](https://github.com/CleverRaven/Cataclysm-DDA/pull/77122))
 * Add Procyonae's nice highway interchange maps ([#77117](https://github.com/CleverRaven/Cataclysm-DDA/pull/77117))
@@ -220,7 +221,6 @@
 * Routine i18n updates on 12 October 2024 ([#76985](https://github.com/CleverRaven/Cataclysm-DDA/pull/76985))
 * Fix set of clothes crash ([#76978](https://github.com/CleverRaven/Cataclysm-DDA/pull/76978))
 * Colored cropped hoodies ([#76984](https://github.com/CleverRaven/Cataclysm-DDA/pull/76984))
-* add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
 * Faulty guns don't lock your view ([#76974](https://github.com/CleverRaven/Cataclysm-DDA/pull/76974))
 * "Center view" centers to player's current z-level ([#76975](https://github.com/CleverRaven/Cataclysm-DDA/pull/76975))
 * Use sentence case in options descriptions consistently ([#76977](https://github.com/CleverRaven/Cataclysm-DDA/pull/76977))
