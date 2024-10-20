@@ -213,7 +213,6 @@
 * Change Acclimatization from all caps to title case ([#77006](https://github.com/CleverRaven/Cataclysm-DDA/pull/77006))
 * Xedra Evolved - make oneiric hammer use deduction skill to repair ([#76998](https://github.com/CleverRaven/Cataclysm-DDA/pull/76998))
 * [DinoMod] Destroy the mosasaurus egg ([#76988](https://github.com/CleverRaven/Cataclysm-DDA/pull/76988))
-* Change option groups to sentence case ([#76973](https://github.com/CleverRaven/Cataclysm-DDA/pull/76973))
 * [MoM] Wakeful Rest and Revitalizing Meditation now grant XP, drain focus while using them ([#76976](https://github.com/CleverRaven/Cataclysm-DDA/pull/76976))
 * Change "Weapon categories" to sentence case in initialization string ([#76989](https://github.com/CleverRaven/Cataclysm-DDA/pull/76989))
 * transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
