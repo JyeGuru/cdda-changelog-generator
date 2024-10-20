@@ -1,3 +1,4 @@
+* Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
 
 ---
 
@@ -95,12 +96,6 @@
 #### Cataclysm-DDA experimental build 2024-10-18-1953 ([79d21b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1953))
 
 * Atoning for my mistake ([#77132](https://github.com/CleverRaven/Cataclysm-DDA/pull/77132))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-18-1621 ([79b8ed9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1621))
-
-* Replace ``rot_spawn`` groups with direct ID references ([#76991](https://github.com/CleverRaven/Cataclysm-DDA/pull/76991))
 * Adds clay cup item and recipe, changes ceramic cup recipe ([#77103](https://github.com/CleverRaven/Cataclysm-DDA/pull/77103))
 
 ---
