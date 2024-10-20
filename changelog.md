@@ -1,5 +1,14 @@
+* Auditing portable charcoal kiln ([#77139](https://github.com/CleverRaven/Cataclysm-DDA/pull/77139))
+* [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% ([#77147](https://github.com/CleverRaven/Cataclysm-DDA/pull/77147))
+* [ Magiclysm ] Forge Wall won't hold items ([#77151](https://github.com/CleverRaven/Cataclysm-DDA/pull/77151))
+* Bump Android API level to 34 ([#77159](https://github.com/CleverRaven/Cataclysm-DDA/pull/77159))
 * Allow KEYBDINGS ImGui window title to be translated ([#77018](https://github.com/CleverRaven/Cataclysm-DDA/pull/77018))
 * add f_map_run_eocs effect ([#76994](https://github.com/CleverRaven/Cataclysm-DDA/pull/76994))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-20-1137 ([bf93256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-20-1137))
+
 * Remove leftover leg stub references in 0.H ([#77187](https://github.com/CleverRaven/Cataclysm-DDA/pull/77187))
 
 ---
@@ -192,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-10-15-1828 ([61076ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-1828))
 
 * [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-15-0518 ([ec0b796](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-0518))
-
 * Fix sling staff ([#77029](https://github.com/CleverRaven/Cataclysm-DDA/pull/77029))
 * Debugging new population horde actually sets population ([#77034](https://github.com/CleverRaven/Cataclysm-DDA/pull/77034))
 * Don't inform player they're wounded if they're actually just plain dead ([#77035](https://github.com/CleverRaven/Cataclysm-DDA/pull/77035))
@@ -206,7 +210,6 @@
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
 * Backport #76986 (Enable Giant Pincer Mutation) for 0.H ([#77032](https://github.com/CleverRaven/Cataclysm-DDA/pull/77032))
 * Fix game not compiling on GCC ([#77017](https://github.com/CleverRaven/Cataclysm-DDA/pull/77017))
-* Enable Giant Pincer Mutation ([#76986](https://github.com/CleverRaven/Cataclysm-DDA/pull/76986))
 * Colored crop tops ([#77005](https://github.com/CleverRaven/Cataclysm-DDA/pull/77005))
 * Correct llama skull size ([#77014](https://github.com/CleverRaven/Cataclysm-DDA/pull/77014))
 * Fix non-battery fueled items using charges ([#76997](https://github.com/CleverRaven/Cataclysm-DDA/pull/76997))
@@ -216,5 +219,3 @@
 * [DinoMod] Destroy the mosasaurus egg ([#76988](https://github.com/CleverRaven/Cataclysm-DDA/pull/76988))
 * Change "Weapon categories" to sentence case in initialization string ([#76989](https://github.com/CleverRaven/Cataclysm-DDA/pull/76989))
 * transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
-* Routine i18n updates on 12 October 2024 ([#76985](https://github.com/CleverRaven/Cataclysm-DDA/pull/76985))
-* Colored cropped hoodies ([#76984](https://github.com/CleverRaven/Cataclysm-DDA/pull/76984))
