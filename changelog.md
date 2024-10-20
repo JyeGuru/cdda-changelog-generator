@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-20-1406 ([fb7fcae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-20-1406))
+
 * asf: don't append near identical descriptions ([#77046](https://github.com/CleverRaven/Cataclysm-DDA/pull/77046))
 * Auditing portable charcoal kiln ([#77139](https://github.com/CleverRaven/Cataclysm-DDA/pull/77139))
 * [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% ([#77147](https://github.com/CleverRaven/Cataclysm-DDA/pull/77147))
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-10-15-2059 ([e3ddac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-2059))
 
 * [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-15-1828 ([61076ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-15-1828))
-
 * [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
 * Fix sling staff ([#77029](https://github.com/CleverRaven/Cataclysm-DDA/pull/77029))
 * Debugging new population horde actually sets population ([#77034](https://github.com/CleverRaven/Cataclysm-DDA/pull/77034))
