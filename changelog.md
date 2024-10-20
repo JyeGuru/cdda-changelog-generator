@@ -1,3 +1,4 @@
+* asf: don't append near identical descriptions ([#77046](https://github.com/CleverRaven/Cataclysm-DDA/pull/77046))
 * Auditing portable charcoal kiln ([#77139](https://github.com/CleverRaven/Cataclysm-DDA/pull/77139))
 * [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% ([#77147](https://github.com/CleverRaven/Cataclysm-DDA/pull/77147))
 * [ Magiclysm ] Forge Wall won't hold items ([#77151](https://github.com/CleverRaven/Cataclysm-DDA/pull/77151))
@@ -216,6 +217,4 @@
 * Prompt if you really want to crash the game ([#77002](https://github.com/CleverRaven/Cataclysm-DDA/pull/77002))
 * Change Acclimatization from all caps to title case ([#77006](https://github.com/CleverRaven/Cataclysm-DDA/pull/77006))
 * Xedra Evolved - make oneiric hammer use deduction skill to repair ([#76998](https://github.com/CleverRaven/Cataclysm-DDA/pull/76998))
-* [DinoMod] Destroy the mosasaurus egg ([#76988](https://github.com/CleverRaven/Cataclysm-DDA/pull/76988))
-* Change "Weapon categories" to sentence case in initialization string ([#76989](https://github.com/CleverRaven/Cataclysm-DDA/pull/76989))
 * transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
