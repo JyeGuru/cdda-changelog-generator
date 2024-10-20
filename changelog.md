@@ -1,3 +1,4 @@
+* Allow KEYBDINGS ImGui window title to be translated ([#77018](https://github.com/CleverRaven/Cataclysm-DDA/pull/77018))
 * add f_map_run_eocs effect ([#76994](https://github.com/CleverRaven/Cataclysm-DDA/pull/76994))
 * Remove leftover leg stub references in 0.H ([#77187](https://github.com/CleverRaven/Cataclysm-DDA/pull/77187))
 
@@ -110,12 +111,6 @@
 #### Cataclysm-DDA experimental build 2024-10-18-0246 ([d2943c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0246))
 
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it ([#77062](https://github.com/CleverRaven/Cataclysm-DDA/pull/77062))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-18-0041 ([0764d84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0041))
-
-* Mod Compatibility 2: Prevent Error from duplicate ids within mod_interactions folder ([#76983](https://github.com/CleverRaven/Cataclysm-DDA/pull/76983))
 * Add EoC effect that deal damage ([#77009](https://github.com/CleverRaven/Cataclysm-DDA/pull/77009))
 * Make mutations able to use mana as resourse without EoC ([#77013](https://github.com/CleverRaven/Cataclysm-DDA/pull/77013))
 * Bring back poultry chunks ([#77015](https://github.com/CleverRaven/Cataclysm-DDA/pull/77015))
