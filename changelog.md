@@ -1,3 +1,4 @@
+* [Innawood] Exchange soldering to surface heat in battery car clay recipe ([#77097](https://github.com/CleverRaven/Cataclysm-DDA/pull/77097))
 * No robot snippets ([#77122](https://github.com/CleverRaven/Cataclysm-DDA/pull/77122))
 * Add Procyonae's nice highway interchange maps ([#77117](https://github.com/CleverRaven/Cataclysm-DDA/pull/77117))
 * add a tab bar to the uilist showing categories, if there are any ([#77123](https://github.com/CleverRaven/Cataclysm-DDA/pull/77123))
@@ -217,7 +218,6 @@
 * transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
 * Fix some Britishisms in the JSON files. ([#76981](https://github.com/CleverRaven/Cataclysm-DDA/pull/76981))
 * Routine i18n updates on 12 October 2024 ([#76985](https://github.com/CleverRaven/Cataclysm-DDA/pull/76985))
-* Wrap run_eocs properly ([#76970](https://github.com/CleverRaven/Cataclysm-DDA/pull/76970))
 * Fix set of clothes crash ([#76978](https://github.com/CleverRaven/Cataclysm-DDA/pull/76978))
 * Colored cropped hoodies ([#76984](https://github.com/CleverRaven/Cataclysm-DDA/pull/76984))
 * add new event of monster taking damage/dying ([#76972](https://github.com/CleverRaven/Cataclysm-DDA/pull/76972))
