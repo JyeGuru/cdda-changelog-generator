@@ -1,3 +1,5 @@
+* add f_map_run_eocs effect (#76994)
+* Remove leftover leg stub references in 0.H (#77187)
 
 Cataclysm-DDA experimental build 2024-10-20-0906 (74e77cc)
 * eoc/math: show JSON context for math errors (#77176)
@@ -138,7 +140,5 @@ Cataclysm-DDA experimental build 2024-10-15-0518 (ec0b796)
 * [DinoMod] Destroy the mosasaurus egg (#76988)
 * Change "Weapon categories" to sentence case in initialization string (#76989)
 * transpiration typo (#76995)
-* Fix some Britishisms in the JSON files. (#76981)
 * Routine i18n updates on 12 October 2024 (#76985)
-* Fix set of clothes crash (#76978)
 * Colored cropped hoodies (#76984)

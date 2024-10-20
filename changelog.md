@@ -1,3 +1,5 @@
+* add f_map_run_eocs effect ([#76994](https://github.com/CleverRaven/Cataclysm-DDA/pull/76994))
+* Remove leftover leg stub references in 0.H ([#77187](https://github.com/CleverRaven/Cataclysm-DDA/pull/77187))
 
 ---
 
@@ -219,7 +221,5 @@
 * [DinoMod] Destroy the mosasaurus egg ([#76988](https://github.com/CleverRaven/Cataclysm-DDA/pull/76988))
 * Change "Weapon categories" to sentence case in initialization string ([#76989](https://github.com/CleverRaven/Cataclysm-DDA/pull/76989))
 * transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
-* Fix some Britishisms in the JSON files. ([#76981](https://github.com/CleverRaven/Cataclysm-DDA/pull/76981))
 * Routine i18n updates on 12 October 2024 ([#76985](https://github.com/CleverRaven/Cataclysm-DDA/pull/76985))
-* Fix set of clothes crash ([#76978](https://github.com/CleverRaven/Cataclysm-DDA/pull/76978))
 * Colored cropped hoodies ([#76984](https://github.com/CleverRaven/Cataclysm-DDA/pull/76984))
