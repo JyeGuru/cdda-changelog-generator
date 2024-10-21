@@ -1,3 +1,5 @@
+* Deconstruct simple furniture in the dark ([#77165](https://github.com/CleverRaven/Cataclysm-DDA/pull/77165))
+* Create an external option for disabling zombify_into. Apply it to both Aftershock:Exoplanet and DDtD ([#77169](https://github.com/CleverRaven/Cataclysm-DDA/pull/77169))
 * Adjust naming of vision level deployed appliances ([#77173](https://github.com/CleverRaven/Cataclysm-DDA/pull/77173))
 * Add daily health widget ([#77195](https://github.com/CleverRaven/Cataclysm-DDA/pull/77195))
 * Fix effect duration of techniques. ([#77200](https://github.com/CleverRaven/Cataclysm-DDA/pull/77200))
@@ -119,12 +121,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-10-19-0005 ([576d639](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-0005))
-
-* Weekly Changelog 2024-10-07 to 2024-10-14 ([#77028](https://github.com/CleverRaven/Cataclysm-DDA/pull/77028))
-
----
-
 #### Cataclysm-DDA experimental build 2024-10-18-1953 ([79d21b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1953))
 
 * Atoning for my mistake ([#77132](https://github.com/CleverRaven/Cataclysm-DDA/pull/77132))
@@ -214,7 +210,6 @@
 * Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
 * [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
 * [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
-* Fix sling staff ([#77029](https://github.com/CleverRaven/Cataclysm-DDA/pull/77029))
 * Debugging new population horde actually sets population ([#77034](https://github.com/CleverRaven/Cataclysm-DDA/pull/77034))
 * Don't inform player they're wounded if they're actually just plain dead ([#77035](https://github.com/CleverRaven/Cataclysm-DDA/pull/77035))
 * Log correct tileset name on loading ([#77040](https://github.com/CleverRaven/Cataclysm-DDA/pull/77040))
