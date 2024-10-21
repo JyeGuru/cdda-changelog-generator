@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-21-2303 ([7fc0414](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-21-2303))
+
 * Correct wrong values in animal growth timers ([#77161](https://github.com/CleverRaven/Cataclysm-DDA/pull/77161))
 * [Xedra Evolved] Moon's tears weapons ([#77183](https://github.com/CleverRaven/Cataclysm-DDA/pull/77183))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
