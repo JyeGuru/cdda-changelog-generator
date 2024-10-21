@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-21-0327 (5762e89)
 * Added check for stealing prior to obtaining book to read (#77167)
 * Remove secret science/military stuff from bank/industry/mall vaults (#77155)
 * add whispering fungi as a possible spawn in group_fungi_zombie (#77174)

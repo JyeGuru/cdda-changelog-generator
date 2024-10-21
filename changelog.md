@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-21-0327 ([5762e89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-21-0327))
+
 * Added check for stealing prior to obtaining book to read ([#77167](https://github.com/CleverRaven/Cataclysm-DDA/pull/77167))
 * Remove secret science/military stuff from bank/industry/mall vaults ([#77155](https://github.com/CleverRaven/Cataclysm-DDA/pull/77155))
 * add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
