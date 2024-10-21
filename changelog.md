@@ -1,4 +1,5 @@
-* Unload zone properly clears auto whitelists ([#77036](https://github.com/CleverRaven/Cataclysm-DDA/pull/77036))
+* Fix bad Boolean logic example ([#77134](https://github.com/CleverRaven/Cataclysm-DDA/pull/77134))
+* Add labels to structured tiny bodygraphs ([#77143](https://github.com/CleverRaven/Cataclysm-DDA/pull/77143))
 * Re-implement #73588 damaged appliances track damage when transformed to item and back ([#77092](https://github.com/CleverRaven/Cataclysm-DDA/pull/77092))
 * Deconstruct simple furniture in the dark ([#77165](https://github.com/CleverRaven/Cataclysm-DDA/pull/77165))
 * Create an external option for disabling zombify_into. Apply it to both Aftershock:Exoplanet and DDtD ([#77169](https://github.com/CleverRaven/Cataclysm-DDA/pull/77169))
@@ -200,6 +201,5 @@
 * Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
 * [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
 * [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
-* Don't inform player they're wounded if they're actually just plain dead ([#77035](https://github.com/CleverRaven/Cataclysm-DDA/pull/77035))
 * Log correct tileset name on loading ([#77040](https://github.com/CleverRaven/Cataclysm-DDA/pull/77040))
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
