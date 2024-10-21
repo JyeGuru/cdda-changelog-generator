@@ -1,3 +1,4 @@
+* Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
 
 ---
 
@@ -197,4 +198,3 @@
 * [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
 * [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
 * Log correct tileset name on loading ([#77040](https://github.com/CleverRaven/Cataclysm-DDA/pull/77040))
-* Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))

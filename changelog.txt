@@ -1,3 +1,4 @@
+* Decrease amount of spawns in cave (#77214)
 
 Cataclysm-DDA experimental build 2024-10-21-1947 (4b8bd2e)
 * Fix bad Boolean logic example (#77134)
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2024-10-17-1504 (655cdea)
 * [MoM] Onyx Lightning, Now in Uniform (#77054)
 * [MoM] Monster_takes_damage updates (#77044)
 * Log correct tileset name on loading (#77040)
-* Kill loadscreen on tutorial start (#77037)
