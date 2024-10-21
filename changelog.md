@@ -1,3 +1,5 @@
+* Correct wrong values in animal growth timers ([#77161](https://github.com/CleverRaven/Cataclysm-DDA/pull/77161))
+* [Xedra Evolved] Moon's tears weapons ([#77183](https://github.com/CleverRaven/Cataclysm-DDA/pull/77183))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
 
 ---
@@ -157,7 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-10-18-0246 ([d2943c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0246))
 
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it ([#77062](https://github.com/CleverRaven/Cataclysm-DDA/pull/77062))
-* Avatar death also sends character death/character kill character event pulses ([#77039](https://github.com/CleverRaven/Cataclysm-DDA/pull/77039))
 * Clean up monster eating code, part 1/??? ([#77090](https://github.com/CleverRaven/Cataclysm-DDA/pull/77090))
 * [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  ([#77095](https://github.com/CleverRaven/Cataclysm-DDA/pull/77095))
 
@@ -197,4 +198,3 @@
 * Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
 * [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
 * [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
-* Log correct tileset name on loading ([#77040](https://github.com/CleverRaven/Cataclysm-DDA/pull/77040))

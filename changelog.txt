@@ -1,3 +1,5 @@
+* Correct wrong values in animal growth timers (#77161)
+* [Xedra Evolved] Moon's tears weapons (#77183)
 * Decrease amount of spawns in cave (#77214)
 
 Cataclysm-DDA experimental build 2024-10-21-1947 (4b8bd2e)
@@ -100,7 +102,6 @@ Cataclysm-DDA experimental build 2024-10-18-1116 (4466eb1)
 
 Cataclysm-DDA experimental build 2024-10-18-0246 (d2943c9)
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it (#77062)
-* Avatar death also sends character death/character kill character event pulses (#77039)
 * Clean up monster eating code, part 1/??? (#77090)
 * [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  (#77095)
 
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2024-10-17-1504 (655cdea)
 * Talk to companion without making them following you afterwards (#77049)
 * [MoM] Onyx Lightning, Now in Uniform (#77054)
 * [MoM] Monster_takes_damage updates (#77044)
-* Log correct tileset name on loading (#77040)
