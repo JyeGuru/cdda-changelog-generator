@@ -1,3 +1,7 @@
+* Fix effect duration of techniques. ([#77200](https://github.com/CleverRaven/Cataclysm-DDA/pull/77200))
+* Correct typo in the last COLOR.md update ([#77201](https://github.com/CleverRaven/Cataclysm-DDA/pull/77201))
+* Backport 77159 Bump Android API level to 34 ([#77204](https://github.com/CleverRaven/Cataclysm-DDA/pull/77204))
+* Minor house fixes ([#77208](https://github.com/CleverRaven/Cataclysm-DDA/pull/77208))
 * Fix the volume and mass of kiln_full and kiln_done that I missed in t… ([#77215](https://github.com/CleverRaven/Cataclysm-DDA/pull/77215))
 * Infected scenario mission is completed by all antibiotics ([#77217](https://github.com/CleverRaven/Cataclysm-DDA/pull/77217))
 * Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77220](https://github.com/CleverRaven/Cataclysm-DDA/pull/77220))
@@ -37,7 +41,6 @@
 * [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% ([#77147](https://github.com/CleverRaven/Cataclysm-DDA/pull/77147))
 * [ Magiclysm ] Forge Wall won't hold items ([#77151](https://github.com/CleverRaven/Cataclysm-DDA/pull/77151))
 * Bump Android API level to 34 ([#77159](https://github.com/CleverRaven/Cataclysm-DDA/pull/77159))
-* Allow KEYBDINGS ImGui window title to be translated ([#77018](https://github.com/CleverRaven/Cataclysm-DDA/pull/77018))
 
 ---
 
@@ -204,7 +207,6 @@
 #### Cataclysm-DDA experimental build 2024-10-16-1821 ([66303be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-1821))
 
 * Cache dialogue conditional results, fix dialogue hotkeys ([#77061](https://github.com/CleverRaven/Cataclysm-DDA/pull/77061))
-* RM13 premature shutdown fix, the Sequel: I need to learn how to Github better ([#77023](https://github.com/CleverRaven/Cataclysm-DDA/pull/77023))
 * Missions track when they were completed/failed ([#77052](https://github.com/CleverRaven/Cataclysm-DDA/pull/77052))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
 * [MoM] Anabolic Rejuvenation / Accelerated Resuscitation updates ([#77027](https://github.com/CleverRaven/Cataclysm-DDA/pull/77027))
@@ -214,9 +216,7 @@
 * Fix sling staff ([#77029](https://github.com/CleverRaven/Cataclysm-DDA/pull/77029))
 * Debugging new population horde actually sets population ([#77034](https://github.com/CleverRaven/Cataclysm-DDA/pull/77034))
 * Don't inform player they're wounded if they're actually just plain dead ([#77035](https://github.com/CleverRaven/Cataclysm-DDA/pull/77035))
-* [DinoMod] eolambia ([#77020](https://github.com/CleverRaven/Cataclysm-DDA/pull/77020))
 * [MoM] Update MoM for spells damaging other limbs ([#77024](https://github.com/CleverRaven/Cataclysm-DDA/pull/77024))
 * Log correct tileset name on loading ([#77040](https://github.com/CleverRaven/Cataclysm-DDA/pull/77040))
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
 * Backport #76986 (Enable Giant Pincer Mutation) for 0.H ([#77032](https://github.com/CleverRaven/Cataclysm-DDA/pull/77032))
-* Fix game not compiling on GCC ([#77017](https://github.com/CleverRaven/Cataclysm-DDA/pull/77017))
