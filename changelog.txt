@@ -66,7 +66,6 @@ Cataclysm-DDA experimental build 2024-10-20-0346 (406229c)
 * cranberry conversations now slightly more human (#77119)
 * Numbered pockets in pocket description (#77093)
 * Replace danger note prompt with note dialog heading (#77078)
-* Check `unknown_terrain` instead of `unknown` for overmap tileset (#77041)
 
 Cataclysm-DDA 0.H release candidate 2024-10-19-2307 (f7af889)
 * Backport fix to not being able to put smaller mags into tac vest (#77121)

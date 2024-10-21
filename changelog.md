@@ -93,7 +93,6 @@
 * cranberry conversations now slightly more human ([#77119](https://github.com/CleverRaven/Cataclysm-DDA/pull/77119))
 * Numbered pockets in pocket description ([#77093](https://github.com/CleverRaven/Cataclysm-DDA/pull/77093))
 * Replace danger note prompt with note dialog heading ([#77078](https://github.com/CleverRaven/Cataclysm-DDA/pull/77078))
-* Check `unknown_terrain` instead of `unknown` for overmap tileset ([#77041](https://github.com/CleverRaven/Cataclysm-DDA/pull/77041))
 
 ---
 
