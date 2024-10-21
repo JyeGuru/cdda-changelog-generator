@@ -1,3 +1,8 @@
+* Added check for stealing prior to obtaining book to read ([#77167](https://github.com/CleverRaven/Cataclysm-DDA/pull/77167))
+* Remove secret science/military stuff from bank/industry/mall vaults ([#77155](https://github.com/CleverRaven/Cataclysm-DDA/pull/77155))
+* add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
+* [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
+* Unify name suffix and profession ([#77130](https://github.com/CleverRaven/Cataclysm-DDA/pull/77130))
 
 ---
 
@@ -15,7 +20,6 @@
 * [ Magiclysm ] Forge Wall won't hold items ([#77151](https://github.com/CleverRaven/Cataclysm-DDA/pull/77151))
 * Bump Android API level to 34 ([#77159](https://github.com/CleverRaven/Cataclysm-DDA/pull/77159))
 * Allow KEYBDINGS ImGui window title to be translated ([#77018](https://github.com/CleverRaven/Cataclysm-DDA/pull/77018))
-* add f_map_run_eocs effect ([#76994](https://github.com/CleverRaven/Cataclysm-DDA/pull/76994))
 
 ---
 
@@ -208,8 +212,5 @@
 * Fix game not compiling on GCC ([#77017](https://github.com/CleverRaven/Cataclysm-DDA/pull/77017))
 * Colored crop tops ([#77005](https://github.com/CleverRaven/Cataclysm-DDA/pull/77005))
 * Correct llama skull size ([#77014](https://github.com/CleverRaven/Cataclysm-DDA/pull/77014))
-* Fix non-battery fueled items using charges ([#76997](https://github.com/CleverRaven/Cataclysm-DDA/pull/76997))
 * Prompt if you really want to crash the game ([#77002](https://github.com/CleverRaven/Cataclysm-DDA/pull/77002))
 * Change Acclimatization from all caps to title case ([#77006](https://github.com/CleverRaven/Cataclysm-DDA/pull/77006))
-* Xedra Evolved - make oneiric hammer use deduction skill to repair ([#76998](https://github.com/CleverRaven/Cataclysm-DDA/pull/76998))
-* transpiration typo ([#76995](https://github.com/CleverRaven/Cataclysm-DDA/pull/76995))
