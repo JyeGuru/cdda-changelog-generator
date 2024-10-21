@@ -1,3 +1,4 @@
+* Re-implement #73588 damaged appliances track damage when transformed to item and back ([#77092](https://github.com/CleverRaven/Cataclysm-DDA/pull/77092))
 * Deconstruct simple furniture in the dark ([#77165](https://github.com/CleverRaven/Cataclysm-DDA/pull/77165))
 * Create an external option for disabling zombify_into. Apply it to both Aftershock:Exoplanet and DDtD ([#77169](https://github.com/CleverRaven/Cataclysm-DDA/pull/77169))
 * Adjust naming of vision level deployed appliances ([#77173](https://github.com/CleverRaven/Cataclysm-DDA/pull/77173))
@@ -137,12 +138,6 @@
 #### Cataclysm-DDA experimental build 2024-10-18-1116 ([4466eb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1116))
 
 * [XE] Buff FBI Paranormal Investigator Into Line With Vanilla Equivalent ([#77105](https://github.com/CleverRaven/Cataclysm-DDA/pull/77105))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-18-0902 ([77e1ead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0902))
-
-* Deduplicate origin string generation ([#77030](https://github.com/CleverRaven/Cataclysm-DDA/pull/77030))
 
 ---
 
