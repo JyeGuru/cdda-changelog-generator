@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-21-1947 ([4b8bd2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-21-1947))
+
 * Fix bad Boolean logic example ([#77134](https://github.com/CleverRaven/Cataclysm-DDA/pull/77134))
 * Add labels to structured tiny bodygraphs ([#77143](https://github.com/CleverRaven/Cataclysm-DDA/pull/77143))
 * Re-implement #73588 damaged appliances track damage when transformed to item and back ([#77092](https://github.com/CleverRaven/Cataclysm-DDA/pull/77092))
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-10-17-1504 ([655cdea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-1504))
 
 * Refactor map travel prompting ([#77074](https://github.com/CleverRaven/Cataclysm-DDA/pull/77074))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-16-2302 ([9ebe91d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-2302))
-
 * [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
 * Spawn emergency drugs in pharmacy, update quests text ([#77043](https://github.com/CleverRaven/Cataclysm-DDA/pull/77043))
 * Several skin mutations now allow for installation of Alloy Plating CBM ([#77063](https://github.com/CleverRaven/Cataclysm-DDA/pull/77063))
