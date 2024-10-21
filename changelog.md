@@ -1,3 +1,16 @@
+* Fix the volume and mass of kiln_full and kiln_done that I missed in t… ([#77215](https://github.com/CleverRaven/Cataclysm-DDA/pull/77215))
+* Infected scenario mission is completed by all antibiotics ([#77217](https://github.com/CleverRaven/Cataclysm-DDA/pull/77217))
+* Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77220](https://github.com/CleverRaven/Cataclysm-DDA/pull/77220))
+* correct height when a uilist has desired_bounds not including height ([#77219](https://github.com/CleverRaven/Cataclysm-DDA/pull/77219))
+* Added check for stealing prior to activating items ([#77221](https://github.com/CleverRaven/Cataclysm-DDA/pull/77221))
+* Added check for stealing prior to reloading items ([#77222](https://github.com/CleverRaven/Cataclysm-DDA/pull/77222))
+* Not too generous Smokes ([#77225](https://github.com/CleverRaven/Cataclysm-DDA/pull/77225))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-21-1323 ([2357a3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-21-1323))
+
+* Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
 
 ---
 
@@ -135,9 +148,6 @@
 #### Cataclysm-DDA experimental build 2024-10-18-0246 ([d2943c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-0246))
 
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it ([#77062](https://github.com/CleverRaven/Cataclysm-DDA/pull/77062))
-* Add EoC effect that deal damage ([#77009](https://github.com/CleverRaven/Cataclysm-DDA/pull/77009))
-* Make mutations able to use mana as resourse without EoC ([#77013](https://github.com/CleverRaven/Cataclysm-DDA/pull/77013))
-* Bring back poultry chunks ([#77015](https://github.com/CleverRaven/Cataclysm-DDA/pull/77015))
 * Avatar death also sends character death/character kill character event pulses ([#77039](https://github.com/CleverRaven/Cataclysm-DDA/pull/77039))
 * Clean up monster eating code, part 1/??? ([#77090](https://github.com/CleverRaven/Cataclysm-DDA/pull/77090))
 * [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  ([#77095](https://github.com/CleverRaven/Cataclysm-DDA/pull/77095))
@@ -194,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-10-16-1821 ([66303be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-1821))
 
 * Cache dialogue conditional results, fix dialogue hotkeys ([#77061](https://github.com/CleverRaven/Cataclysm-DDA/pull/77061))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-16-0438 ([8c9ca7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-0438))
-
 * RM13 premature shutdown fix, the Sequel: I need to learn how to Github better ([#77023](https://github.com/CleverRaven/Cataclysm-DDA/pull/77023))
 * Missions track when they were completed/failed ([#77052](https://github.com/CleverRaven/Cataclysm-DDA/pull/77052))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
@@ -215,7 +220,3 @@
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
 * Backport #76986 (Enable Giant Pincer Mutation) for 0.H ([#77032](https://github.com/CleverRaven/Cataclysm-DDA/pull/77032))
 * Fix game not compiling on GCC ([#77017](https://github.com/CleverRaven/Cataclysm-DDA/pull/77017))
-* Colored crop tops ([#77005](https://github.com/CleverRaven/Cataclysm-DDA/pull/77005))
-* Correct llama skull size ([#77014](https://github.com/CleverRaven/Cataclysm-DDA/pull/77014))
-* Prompt if you really want to crash the game ([#77002](https://github.com/CleverRaven/Cataclysm-DDA/pull/77002))
-* Change Acclimatization from all caps to title case ([#77006](https://github.com/CleverRaven/Cataclysm-DDA/pull/77006))
