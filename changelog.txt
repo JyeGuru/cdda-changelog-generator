@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-20-2356 (6345530)
 * Add steel tankard item and recipe (#77171)
 
 Cataclysm-DDA experimental build 2024-10-20-1406 (fb7fcae)

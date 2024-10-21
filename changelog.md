@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-20-2356 ([6345530](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-20-2356))
+
 * Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
 
 ---
