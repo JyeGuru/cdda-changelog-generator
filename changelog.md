@@ -6,6 +6,11 @@
 * Add daily health widget ([#77195](https://github.com/CleverRaven/Cataclysm-DDA/pull/77195))
 * Fix effect duration of techniques. ([#77200](https://github.com/CleverRaven/Cataclysm-DDA/pull/77200))
 * Correct typo in the last COLOR.md update ([#77201](https://github.com/CleverRaven/Cataclysm-DDA/pull/77201))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-21-1442 ([a379db3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-21-1442))
+
 * Backport 77159 Bump Android API level to 34 ([#77204](https://github.com/CleverRaven/Cataclysm-DDA/pull/77204))
 * Minor house fixes ([#77208](https://github.com/CleverRaven/Cataclysm-DDA/pull/77208))
 * Fix the volume and mass of kiln_full and kiln_done that I missed in t… ([#77215](https://github.com/CleverRaven/Cataclysm-DDA/pull/77215))
@@ -189,11 +194,6 @@
 * [Aftershock] Fix incorrect EoC name ([#77082](https://github.com/CleverRaven/Cataclysm-DDA/pull/77082))
 * Track kills through grenades and other explosives ([#77056](https://github.com/CleverRaven/Cataclysm-DDA/pull/77056))
 * [MoM] Spread Electron Overflow charge value out over the number of items it's charging ([#77059](https://github.com/CleverRaven/Cataclysm-DDA/pull/77059))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-16-1821 ([66303be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-1821))
-
 * Cache dialogue conditional results, fix dialogue hotkeys ([#77061](https://github.com/CleverRaven/Cataclysm-DDA/pull/77061))
 * Missions track when they were completed/failed ([#77052](https://github.com/CleverRaven/Cataclysm-DDA/pull/77052))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
