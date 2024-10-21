@@ -1,3 +1,4 @@
+* Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 (#77206)
 
 Cataclysm-DDA experimental build 2024-10-21-2303 (7fc0414)
 * Correct wrong values in animal growth timers (#77161)
@@ -116,7 +117,6 @@ Cataclysm-DDA experimental build 2024-10-17-2052 (f89f977)
 Cataclysm-DDA experimental build 2024-10-17-1504 (655cdea)
 * Refactor map travel prompting (#77074)
 * [Aftershock] Fix electron overflow energy cost (#77079)
-* Spawn emergency drugs in pharmacy, update quests text (#77043)
 * Several skin mutations now allow for installation of Alloy Plating CBM (#77063)
 * [Magiclysm] Add Goodberry druid spell (#77071)
 * Option to start bash activity on partial bash (#77057)
