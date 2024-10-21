@@ -1,3 +1,4 @@
+* Unload zone properly clears auto whitelists ([#77036](https://github.com/CleverRaven/Cataclysm-DDA/pull/77036))
 * Re-implement #73588 damaged appliances track damage when transformed to item and back ([#77092](https://github.com/CleverRaven/Cataclysm-DDA/pull/77092))
 * Deconstruct simple furniture in the dark ([#77165](https://github.com/CleverRaven/Cataclysm-DDA/pull/77165))
 * Create an external option for disabling zombify_into. Apply it to both Aftershock:Exoplanet and DDtD ([#77169](https://github.com/CleverRaven/Cataclysm-DDA/pull/77169))
@@ -169,12 +170,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-10-17-0538 ([36b1e9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-0538))
-
-* Remove code for auto derivation of count-max ([#77033](https://github.com/CleverRaven/Cataclysm-DDA/pull/77033))
-
----
-
 #### Cataclysm-DDA experimental build 2024-10-16-2302 ([9ebe91d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-16-2302))
 
 * [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
@@ -205,8 +200,6 @@
 * Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
 * [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
 * [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
-* Debugging new population horde actually sets population ([#77034](https://github.com/CleverRaven/Cataclysm-DDA/pull/77034))
 * Don't inform player they're wounded if they're actually just plain dead ([#77035](https://github.com/CleverRaven/Cataclysm-DDA/pull/77035))
 * Log correct tileset name on loading ([#77040](https://github.com/CleverRaven/Cataclysm-DDA/pull/77040))
 * Kill loadscreen on tutorial start ([#77037](https://github.com/CleverRaven/Cataclysm-DDA/pull/77037))
-* Backport #76986 (Enable Giant Pincer Mutation) for 0.H ([#77032](https://github.com/CleverRaven/Cataclysm-DDA/pull/77032))
