@@ -1,3 +1,8 @@
+* Flamethrowers count as firestarters for lighting up bombs ([#77227](https://github.com/CleverRaven/Cataclysm-DDA/pull/77227))
+* Fix linoleum in bangalow04 ([#77231](https://github.com/CleverRaven/Cataclysm-DDA/pull/77231))
+* [MoM] Torrential Channeling power maintenance also raises Nether Attunement ([#77233](https://github.com/CleverRaven/Cataclysm-DDA/pull/77233))
+* fix drinking hat being able to store everything ([#77243](https://github.com/CleverRaven/Cataclysm-DDA/pull/77243))
+* Adjust Raw Butter recipes, Adds raw butter to recipes that use butter ([#77245](https://github.com/CleverRaven/Cataclysm-DDA/pull/77245))
 
 ---
 
@@ -177,12 +182,6 @@
 * [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it ([#77062](https://github.com/CleverRaven/Cataclysm-DDA/pull/77062))
 * Clean up monster eating code, part 1/??? ([#77090](https://github.com/CleverRaven/Cataclysm-DDA/pull/77090))
 * [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  ([#77095](https://github.com/CleverRaven/Cataclysm-DDA/pull/77095))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-17-2246 ([6b7ded3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-2246))
-
-* [MoM] Add the Mesmerize telepathic power ([#77051](https://github.com/CleverRaven/Cataclysm-DDA/pull/77051))
 * [MoM] Check for beta talker on damage EoCs ([#77087](https://github.com/CleverRaven/Cataclysm-DDA/pull/77087))
 * Refactor map travel prompting ([#77074](https://github.com/CleverRaven/Cataclysm-DDA/pull/77074))
 * [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
@@ -197,7 +196,4 @@
 * Track kills through grenades and other explosives ([#77056](https://github.com/CleverRaven/Cataclysm-DDA/pull/77056))
 * [MoM] Spread Electron Overflow charge value out over the number of items it's charging ([#77059](https://github.com/CleverRaven/Cataclysm-DDA/pull/77059))
 * Cache dialogue conditional results, fix dialogue hotkeys ([#77061](https://github.com/CleverRaven/Cataclysm-DDA/pull/77061))
-* Missions track when they were completed/failed ([#77052](https://github.com/CleverRaven/Cataclysm-DDA/pull/77052))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
-* Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
-* [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
