@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-22-1936 (8b12815)
+* [Xedra Evolved] Add playable Lilin with appropriate scenario (#77178)
+
 Cataclysm-DDA experimental build 2024-10-22-1601 (8f226e5)
 * Addressed light map adjustments resulting in no net change dirtying c… (#77193)
 
@@ -44,9 +47,6 @@ Cataclysm-DDA experimental build 2024-10-21-0327 (5762e89)
 
 Cataclysm-DDA experimental build 2024-10-20-2356 (6345530)
 * Add steel tankard item and recipe (#77171)
-
-Cataclysm-DDA experimental build 2024-10-20-1406 (fb7fcae)
-* asf: don't append near identical descriptions (#77046)
 * Auditing portable charcoal kiln (#77139)
 * [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% (#77147)
 * [ Magiclysm ] Forge Wall won't hold items (#77151)

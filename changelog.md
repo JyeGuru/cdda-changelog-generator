@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-22-1936 ([8b12815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-1936))
+
+* [Xedra Evolved] Add playable Lilin with appropriate scenario ([#77178](https://github.com/CleverRaven/Cataclysm-DDA/pull/77178))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-22-1601 ([8f226e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-1601))
 
 * Addressed light map adjustments resulting in no net change dirtying c… ([#77193](https://github.com/CleverRaven/Cataclysm-DDA/pull/77193))
@@ -68,12 +74,6 @@
 #### Cataclysm-DDA experimental build 2024-10-20-2356 ([6345530](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-20-2356))
 
 * Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-20-1406 ([fb7fcae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-20-1406))
-
-* asf: don't append near identical descriptions ([#77046](https://github.com/CleverRaven/Cataclysm-DDA/pull/77046))
 * Auditing portable charcoal kiln ([#77139](https://github.com/CleverRaven/Cataclysm-DDA/pull/77139))
 * [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% ([#77147](https://github.com/CleverRaven/Cataclysm-DDA/pull/77147))
 * [ Magiclysm ] Forge Wall won't hold items ([#77151](https://github.com/CleverRaven/Cataclysm-DDA/pull/77151))
