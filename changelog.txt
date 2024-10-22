@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-22-1601 (8f226e5)
+* Addressed light map adjustments resulting in no net change dirtying c… (#77193)
+
 Cataclysm-DDA experimental build 2024-10-22-0120 (b246d05)
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 (#77206)
 
@@ -112,9 +115,6 @@ Cataclysm-DDA experimental build 2024-10-18-0246 (d2943c9)
 Cataclysm-DDA experimental build 2024-10-17-2246 (6b7ded3)
 * [MoM] Add the Mesmerize telepathic power (#77051)
 * [MoM] Check for beta talker on damage EoCs (#77087)
-
-Cataclysm-DDA experimental build 2024-10-17-2052 (f89f977)
-* [MoM] Some bug fixes (#77045)
 * Refactor map travel prompting (#77074)
 * [Aftershock] Fix electron overflow energy cost (#77079)
 * Several skin mutations now allow for installation of Alloy Plating CBM (#77063)
