@@ -198,7 +198,6 @@
 * [DinoMod] easy to shoot skeletal dinos ([#77077](https://github.com/CleverRaven/Cataclysm-DDA/pull/77077))
 * Fixed issue where extra cursor was drawn in ImGui InputText field on TUI builds erroneously ([#77089](https://github.com/CleverRaven/Cataclysm-DDA/pull/77089))
 * [Aftershock] Fix incorrect EoC name ([#77082](https://github.com/CleverRaven/Cataclysm-DDA/pull/77082))
-* Track kills through grenades and other explosives ([#77056](https://github.com/CleverRaven/Cataclysm-DDA/pull/77056))
 * [MoM] Spread Electron Overflow charge value out over the number of items it's charging ([#77059](https://github.com/CleverRaven/Cataclysm-DDA/pull/77059))
 * Cache dialogue conditional results, fix dialogue hotkeys ([#77061](https://github.com/CleverRaven/Cataclysm-DDA/pull/77061))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
