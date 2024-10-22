@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-22-2215 (aeaca88)
 * Flamethrowers count as firestarters for lighting up bombs (#77227)
 * Fix linoleum in bangalow04 (#77231)
 * [MoM] Torrential Channeling power maintenance also raises Nether Attunement (#77233)

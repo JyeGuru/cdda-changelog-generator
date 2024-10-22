@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-22-2215 ([aeaca88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-2215))
+
 * Flamethrowers count as firestarters for lighting up bombs ([#77227](https://github.com/CleverRaven/Cataclysm-DDA/pull/77227))
 * Fix linoleum in bangalow04 ([#77231](https://github.com/CleverRaven/Cataclysm-DDA/pull/77231))
 * [MoM] Torrential Channeling power maintenance also raises Nether Attunement ([#77233](https://github.com/CleverRaven/Cataclysm-DDA/pull/77233))
