@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-22-0120 ([b246d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-0120))
+
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-10-17-2052 ([f89f977](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-2052))
 
 * [MoM] Some bug fixes ([#77045](https://github.com/CleverRaven/Cataclysm-DDA/pull/77045))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-17-1504 ([655cdea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-17-1504))
-
 * Refactor map travel prompting ([#77074](https://github.com/CleverRaven/Cataclysm-DDA/pull/77074))
 * [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
 * Several skin mutations now allow for installation of Alloy Plating CBM ([#77063](https://github.com/CleverRaven/Cataclysm-DDA/pull/77063))
