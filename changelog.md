@@ -201,4 +201,3 @@
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
 * Talk to companion without making them following you afterwards ([#77049](https://github.com/CleverRaven/Cataclysm-DDA/pull/77049))
 * [MoM] Onyx Lightning, Now in Uniform ([#77054](https://github.com/CleverRaven/Cataclysm-DDA/pull/77054))
-* [MoM] Monster_takes_damage updates ([#77044](https://github.com/CleverRaven/Cataclysm-DDA/pull/77044))
