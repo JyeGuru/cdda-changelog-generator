@@ -192,7 +192,6 @@
 * [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
 * Several skin mutations now allow for installation of Alloy Plating CBM ([#77063](https://github.com/CleverRaven/Cataclysm-DDA/pull/77063))
 * [Magiclysm] Add Goodberry druid spell ([#77071](https://github.com/CleverRaven/Cataclysm-DDA/pull/77071))
-* Option to start bash activity on partial bash ([#77057](https://github.com/CleverRaven/Cataclysm-DDA/pull/77057))
 * Allow any grade of steel chunk for the makeshift hammer ([#77072](https://github.com/CleverRaven/Cataclysm-DDA/pull/77072))
 * [Aftershock] Update Electron Overflow for multiple item charging ([#77081](https://github.com/CleverRaven/Cataclysm-DDA/pull/77081))
 * [DinoMod] easy to shoot skeletal dinos ([#77077](https://github.com/CleverRaven/Cataclysm-DDA/pull/77077))
