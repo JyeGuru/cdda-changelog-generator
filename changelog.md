@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-23-0354 ([e3278c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-0354))
+
+* Aftershock: Remove swims flag from terrestrial creatures. ([#77257](https://github.com/CleverRaven/Cataclysm-DDA/pull/77257))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-22-2215 ([aeaca88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-2215))
 
 * Flamethrowers count as firestarters for lighting up bombs ([#77227](https://github.com/CleverRaven/Cataclysm-DDA/pull/77227))
@@ -101,7 +107,6 @@
 
 * eoc/math: show JSON context for math errors ([#77176](https://github.com/CleverRaven/Cataclysm-DDA/pull/77176))
 * Update JSON_INFO.md ([#77172](https://github.com/CleverRaven/Cataclysm-DDA/pull/77172))
-* [MoM] Fix `EOC_PERK_BURNING_BRIGHT_RAISE_ATTUNEMENT` error ([#77058](https://github.com/CleverRaven/Cataclysm-DDA/pull/77058))
 * Update COLOR.md ([#77175](https://github.com/CleverRaven/Cataclysm-DDA/pull/77175))
 * Adding new 2x2 library building ([#77154](https://github.com/CleverRaven/Cataclysm-DDA/pull/77154))
 * [Innawood] Exchange soldering to surface heat in battery car clay recipe ([#77097](https://github.com/CleverRaven/Cataclysm-DDA/pull/77097))
