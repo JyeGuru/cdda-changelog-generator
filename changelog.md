@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-23-1516 ([99d27e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-1516))
+
+* hide fullscreen option to emscripten builds ([#77270](https://github.com/CleverRaven/Cataclysm-DDA/pull/77270))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-23-0605 ([5d32050](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-0605))
 
 * Forbid starting fires on water tiles ([#77250](https://github.com/CleverRaven/Cataclysm-DDA/pull/77250))
@@ -203,5 +209,4 @@
 * [DinoMod] easy to shoot skeletal dinos ([#77077](https://github.com/CleverRaven/Cataclysm-DDA/pull/77077))
 * Fixed issue where extra cursor was drawn in ImGui InputText field on TUI builds erroneously ([#77089](https://github.com/CleverRaven/Cataclysm-DDA/pull/77089))
 * [Aftershock] Fix incorrect EoC name ([#77082](https://github.com/CleverRaven/Cataclysm-DDA/pull/77082))
-* Cache dialogue conditional results, fix dialogue hotkeys ([#77061](https://github.com/CleverRaven/Cataclysm-DDA/pull/77061))
 * Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
