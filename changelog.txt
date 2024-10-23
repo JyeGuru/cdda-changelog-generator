@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-23-2158 (3edfea1)
 * [MoM] Fix """""missing""""" EoC id (#77234)
 * Print message for failed prying attempt regardless of whether terrain/furniture has `breakable` defined (#77251)
 * Removes the hoodie pocket from cropped hoodies (#77249)
@@ -130,8 +132,6 @@ Cataclysm-DDA experimental build 2024-10-19-0858 (ac689be)
 
 Cataclysm-DDA experimental build 2024-10-19-0446 (fad5181)
 * My Sweet Cataclysm loading screen image (#77138)
-
-Cataclysm-DDA experimental build 2024-10-18-1953 (79d21b2)
 * Atoning for my mistake (#77132)
 * Adds clay cup item and recipe, changes ceramic cup recipe (#77103)
 * some devil and angel costume accessories (#77096)
