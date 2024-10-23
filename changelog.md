@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-23-1739 ([d75cf96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-1739))
+
 * Eliminate faction camp storage zones cache ([#77182](https://github.com/CleverRaven/Cataclysm-DDA/pull/77182))
 * No free wiring in log walls ([#77203](https://github.com/CleverRaven/Cataclysm-DDA/pull/77203))
 * Don't spawn safe on top of ladder up at military base radio tower ([#77247](https://github.com/CleverRaven/Cataclysm-DDA/pull/77247))
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2024-10-18-1352 ([3d61de3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1352))
 
 * some devil and angel costume accessories ([#77096](https://github.com/CleverRaven/Cataclysm-DDA/pull/77096))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-18-1116 ([4466eb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1116))
-
 * [XE] Buff FBI Paranormal Investigator Into Line With Vanilla Equivalent ([#77105](https://github.com/CleverRaven/Cataclysm-DDA/pull/77105))
 * Clean up monster eating code, part 1/??? ([#77090](https://github.com/CleverRaven/Cataclysm-DDA/pull/77090))
 * [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  ([#77095](https://github.com/CleverRaven/Cataclysm-DDA/pull/77095))
