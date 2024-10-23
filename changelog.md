@@ -1,3 +1,9 @@
+* No free wiring in log walls ([#77203](https://github.com/CleverRaven/Cataclysm-DDA/pull/77203))
+* Don't spawn safe on top of ladder up at military base radio tower ([#77247](https://github.com/CleverRaven/Cataclysm-DDA/pull/77247))
+* [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
+* Fragile and Sturdy flags cannot be inherited ([#77256](https://github.com/CleverRaven/Cataclysm-DDA/pull/77256))
+* [MoM] Feral psion updates with copy-from ([#77259](https://github.com/CleverRaven/Cataclysm-DDA/pull/77259))
+* [Xedra Evolved] Fix Eater's sixth sense trait ([#77260](https://github.com/CleverRaven/Cataclysm-DDA/pull/77260))
 
 ---
 
@@ -196,17 +202,12 @@
 #### Cataclysm-DDA experimental build 2024-10-18-1116 ([4466eb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-18-1116))
 
 * [XE] Buff FBI Paranormal Investigator Into Line With Vanilla Equivalent ([#77105](https://github.com/CleverRaven/Cataclysm-DDA/pull/77105))
-* [MOM][Aftershock] Adds new 'uses_energy' search data and converts electron overflow powers to use it ([#77062](https://github.com/CleverRaven/Cataclysm-DDA/pull/77062))
 * Clean up monster eating code, part 1/??? ([#77090](https://github.com/CleverRaven/Cataclysm-DDA/pull/77090))
 * [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  ([#77095](https://github.com/CleverRaven/Cataclysm-DDA/pull/77095))
 * [MoM] Check for beta talker on damage EoCs ([#77087](https://github.com/CleverRaven/Cataclysm-DDA/pull/77087))
 * Refactor map travel prompting ([#77074](https://github.com/CleverRaven/Cataclysm-DDA/pull/77074))
 * [Aftershock] Fix electron overflow energy cost ([#77079](https://github.com/CleverRaven/Cataclysm-DDA/pull/77079))
-* Several skin mutations now allow for installation of Alloy Plating CBM ([#77063](https://github.com/CleverRaven/Cataclysm-DDA/pull/77063))
-* [Magiclysm] Add Goodberry druid spell ([#77071](https://github.com/CleverRaven/Cataclysm-DDA/pull/77071))
-* Allow any grade of steel chunk for the makeshift hammer ([#77072](https://github.com/CleverRaven/Cataclysm-DDA/pull/77072))
 * [Aftershock] Update Electron Overflow for multiple item charging ([#77081](https://github.com/CleverRaven/Cataclysm-DDA/pull/77081))
 * [DinoMod] easy to shoot skeletal dinos ([#77077](https://github.com/CleverRaven/Cataclysm-DDA/pull/77077))
 * Fixed issue where extra cursor was drawn in ImGui InputText field on TUI builds erroneously ([#77089](https://github.com/CleverRaven/Cataclysm-DDA/pull/77089))
 * [Aftershock] Fix incorrect EoC name ([#77082](https://github.com/CleverRaven/Cataclysm-DDA/pull/77082))
-* Increased width of overmap editor window ([#77069](https://github.com/CleverRaven/Cataclysm-DDA/pull/77069))
