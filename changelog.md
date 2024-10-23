@@ -1,3 +1,4 @@
+* [MoM] Fix """""missing""""" EoC id ([#77234](https://github.com/CleverRaven/Cataclysm-DDA/pull/77234))
 * Print message for failed prying attempt regardless of whether terrain/furniture has `breakable` defined ([#77251](https://github.com/CleverRaven/Cataclysm-DDA/pull/77251))
 * Removes the hoodie pocket from cropped hoodies ([#77249](https://github.com/CleverRaven/Cataclysm-DDA/pull/77249))
 * Add DECONSTRUCT category, skip in blueprint calculations, deprioritize DECORATE ([#77163](https://github.com/CleverRaven/Cataclysm-DDA/pull/77163))
