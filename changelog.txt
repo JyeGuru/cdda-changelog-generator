@@ -131,8 +131,6 @@ Cataclysm-DDA experimental build 2024-10-19-0858 (ac689be)
 * OMT description fixes (#77115)
 * hub repairs now reply with correct time (#77118)
 * destroy miniscule bugs (#77133)
-
-Cataclysm-DDA experimental build 2024-10-19-0446 (fad5181)
 * My Sweet Cataclysm loading screen image (#77138)
 * Atoning for my mistake (#77132)
 * Adds clay cup item and recipe, changes ceramic cup recipe (#77103)
