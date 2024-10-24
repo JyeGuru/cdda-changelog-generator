@@ -209,5 +209,4 @@
 * My Sweet Cataclysm loading screen image ([#77138](https://github.com/CleverRaven/Cataclysm-DDA/pull/77138))
 * Atoning for my mistake ([#77132](https://github.com/CleverRaven/Cataclysm-DDA/pull/77132))
 * Adds clay cup item and recipe, changes ceramic cup recipe ([#77103](https://github.com/CleverRaven/Cataclysm-DDA/pull/77103))
-* some devil and angel costume accessories ([#77096](https://github.com/CleverRaven/Cataclysm-DDA/pull/77096))
 * [XE] Buff FBI Paranormal Investigator Into Line With Vanilla Equivalent ([#77105](https://github.com/CleverRaven/Cataclysm-DDA/pull/77105))
