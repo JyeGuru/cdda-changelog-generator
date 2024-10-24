@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-24-1253 ([2d90bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-1253))
+
+* Added imgui_freetype.cpp to MSVC project file to fix broken build. ([#77289](https://github.com/CleverRaven/Cataclysm-DDA/pull/77289))
 * Allow setting duration for all types of prying, not only for prying nails ([#77252](https://github.com/CleverRaven/Cataclysm-DDA/pull/77252))
 * Change electric blanket materials ([#77272](https://github.com/CleverRaven/Cataclysm-DDA/pull/77272))
 * Add EOD suit to military areas ([#77271](https://github.com/CleverRaven/Cataclysm-DDA/pull/77271))
@@ -163,7 +169,6 @@
 * Update JSON_INFO.md ([#77172](https://github.com/CleverRaven/Cataclysm-DDA/pull/77172))
 * Update COLOR.md ([#77175](https://github.com/CleverRaven/Cataclysm-DDA/pull/77175))
 * Adding new 2x2 library building ([#77154](https://github.com/CleverRaven/Cataclysm-DDA/pull/77154))
-* [Innawood] Exchange soldering to surface heat in battery car clay recipe ([#77097](https://github.com/CleverRaven/Cataclysm-DDA/pull/77097))
 * No robot snippets ([#77122](https://github.com/CleverRaven/Cataclysm-DDA/pull/77122))
 * Add Procyonae's nice highway interchange maps ([#77117](https://github.com/CleverRaven/Cataclysm-DDA/pull/77117))
 * add a tab bar to the uilist showing categories, if there are any ([#77123](https://github.com/CleverRaven/Cataclysm-DDA/pull/77123))
@@ -198,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2024-10-19-1447 ([3841a67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-1447))
 
 * Added check for stealing prior to unloading containers ([#77129](https://github.com/CleverRaven/Cataclysm-DDA/pull/77129))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-19-0858 ([ac689be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-0858))
-
 * OMT description fixes ([#77115](https://github.com/CleverRaven/Cataclysm-DDA/pull/77115))
 * hub repairs now reply with correct time ([#77118](https://github.com/CleverRaven/Cataclysm-DDA/pull/77118))
 * destroy miniscule bugs ([#77133](https://github.com/CleverRaven/Cataclysm-DDA/pull/77133))
