@@ -1,3 +1,5 @@
+* fix zoo scenario spawn (#77237)
+* Tutorial bugfixes and tweaks (#77294)
 * fix 76710 (#77303)
 * [ Xedra Evolved ] Remove regen on Dreamer Artifacts (#77179)
 
@@ -121,9 +123,6 @@ Cataclysm-DDA experimental build 2024-10-20-0906 (74e77cc)
 * Add controlling_vehicle EOC condition (#77148)
 * No repeatedly lighting fires on same tile (#77149)
 * Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced (#77152)
-
-Cataclysm-DDA experimental build 2024-10-20-0346 (406229c)
-* cranberry conversations now slightly more human (#77119)
 * Backport fix to not being able to put smaller mags into tac vest (#77121)
 
 Cataclysm-DDA experimental build 2024-10-19-2306 (d125ec8)
@@ -132,7 +131,6 @@ Cataclysm-DDA experimental build 2024-10-19-2306 (d125ec8)
 * making to-hit in character creation sign consistent (#77127)
 * Change behavior of selecting ground tiles in vehicle in advanced inventory (#77140)
 * Added check for stealing prior to unloading containers (#77129)
-* hub repairs now reply with correct time (#77118)
 * destroy miniscule bugs (#77133)
 * My Sweet Cataclysm loading screen image (#77138)
 * Atoning for my mistake (#77132)
