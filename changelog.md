@@ -1,3 +1,12 @@
+* Allow setting duration for all types of prying, not only for prying nails ([#77252](https://github.com/CleverRaven/Cataclysm-DDA/pull/77252))
+* Change electric blanket materials ([#77272](https://github.com/CleverRaven/Cataclysm-DDA/pull/77272))
+* Add EOD suit to military areas ([#77271](https://github.com/CleverRaven/Cataclysm-DDA/pull/77271))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-24-0244 ([19807c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-0244))
+
+* Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
 
 ---
 
@@ -93,7 +102,6 @@
 
 * Fix bad Boolean logic example ([#77134](https://github.com/CleverRaven/Cataclysm-DDA/pull/77134))
 * Add labels to structured tiny bodygraphs ([#77143](https://github.com/CleverRaven/Cataclysm-DDA/pull/77143))
-* Re-implement #73588 damaged appliances track damage when transformed to item and back ([#77092](https://github.com/CleverRaven/Cataclysm-DDA/pull/77092))
 * Deconstruct simple furniture in the dark ([#77165](https://github.com/CleverRaven/Cataclysm-DDA/pull/77165))
 * Create an external option for disabling zombify_into. Apply it to both Aftershock:Exoplanet and DDtD ([#77169](https://github.com/CleverRaven/Cataclysm-DDA/pull/77169))
 * Adjust naming of vision level deployed appliances ([#77173](https://github.com/CleverRaven/Cataclysm-DDA/pull/77173))
@@ -169,12 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-10-20-0346 ([406229c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-20-0346))
 
 * cranberry conversations now slightly more human ([#77119](https://github.com/CleverRaven/Cataclysm-DDA/pull/77119))
-* Numbered pockets in pocket description ([#77093](https://github.com/CleverRaven/Cataclysm-DDA/pull/77093))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-19-2307 ([f7af889](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-19-2307))
-
 * Backport fix to not being able to put smaller mags into tac vest ([#77121](https://github.com/CleverRaven/Cataclysm-DDA/pull/77121))
 
 ---
@@ -214,7 +216,4 @@
 * Adds clay cup item and recipe, changes ceramic cup recipe ([#77103](https://github.com/CleverRaven/Cataclysm-DDA/pull/77103))
 * some devil and angel costume accessories ([#77096](https://github.com/CleverRaven/Cataclysm-DDA/pull/77096))
 * [XE] Buff FBI Paranormal Investigator Into Line With Vanilla Equivalent ([#77105](https://github.com/CleverRaven/Cataclysm-DDA/pull/77105))
-* Clean up monster eating code, part 1/??? ([#77090](https://github.com/CleverRaven/Cataclysm-DDA/pull/77090))
 * [Vanilla/AFS/Magiclysm] Add limb interaction flags for spells  ([#77095](https://github.com/CleverRaven/Cataclysm-DDA/pull/77095))
-* [MoM] Check for beta talker on damage EoCs ([#77087](https://github.com/CleverRaven/Cataclysm-DDA/pull/77087))
-* Fixed issue where extra cursor was drawn in ImGui InputText field on TUI builds erroneously ([#77089](https://github.com/CleverRaven/Cataclysm-DDA/pull/77089))
