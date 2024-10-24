@@ -1,3 +1,4 @@
+* Fix NPCs stealing player default name ([#77268](https://github.com/CleverRaven/Cataclysm-DDA/pull/77268))
 
 ---
 
@@ -209,5 +210,4 @@
 * destroy miniscule bugs ([#77133](https://github.com/CleverRaven/Cataclysm-DDA/pull/77133))
 * My Sweet Cataclysm loading screen image ([#77138](https://github.com/CleverRaven/Cataclysm-DDA/pull/77138))
 * Atoning for my mistake ([#77132](https://github.com/CleverRaven/Cataclysm-DDA/pull/77132))
-* Adds clay cup item and recipe, changes ceramic cup recipe ([#77103](https://github.com/CleverRaven/Cataclysm-DDA/pull/77103))
 * [XE] Buff FBI Paranormal Investigator Into Line With Vanilla Equivalent ([#77105](https://github.com/CleverRaven/Cataclysm-DDA/pull/77105))

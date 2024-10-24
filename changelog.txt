@@ -1,3 +1,4 @@
+* Fix NPCs stealing player default name (#77268)
 
 Cataclysm-DDA experimental build 2024-10-24-1718 (2d445e3)
 * Adding a welding store (#77279)
@@ -134,5 +135,4 @@ Cataclysm-DDA experimental build 2024-10-19-1852 (f2a0326)
 * destroy miniscule bugs (#77133)
 * My Sweet Cataclysm loading screen image (#77138)
 * Atoning for my mistake (#77132)
-* Adds clay cup item and recipe, changes ceramic cup recipe (#77103)
 * [XE] Buff FBI Paranormal Investigator Into Line With Vanilla Equivalent (#77105)
