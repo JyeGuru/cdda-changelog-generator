@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-24-2254 (12b4e6c)
 * fix zoo scenario spawn (#77237)
 * Tutorial bugfixes and tweaks (#77294)
 * fix 76710 (#77303)
@@ -124,8 +126,6 @@ Cataclysm-DDA experimental build 2024-10-20-0906 (74e77cc)
 * No repeatedly lighting fires on same tile (#77149)
 * Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced (#77152)
 * Backport fix to not being able to put smaller mags into tac vest (#77121)
-
-Cataclysm-DDA experimental build 2024-10-19-2306 (d125ec8)
 * Routine i18n updates on 19 October 2024 (#77146)
 * Requirements warn if loading components as tools (#77144)
 * making to-hit in character creation sign consistent (#77127)
