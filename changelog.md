@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-24-1718 ([2d445e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-1718))
+
+* Adding a welding store ([#77279](https://github.com/CleverRaven/Cataclysm-DDA/pull/77279))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-24-1253 ([2d90bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-1253))
 
 * Added imgui_freetype.cpp to MSVC project file to fix broken build. ([#77289](https://github.com/CleverRaven/Cataclysm-DDA/pull/77289))
@@ -197,11 +203,6 @@
 
 * making to-hit in character creation sign consistent ([#77127](https://github.com/CleverRaven/Cataclysm-DDA/pull/77127))
 * Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-19-1447 ([3841a67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-1447))
-
 * Added check for stealing prior to unloading containers ([#77129](https://github.com/CleverRaven/Cataclysm-DDA/pull/77129))
 * OMT description fixes ([#77115](https://github.com/CleverRaven/Cataclysm-DDA/pull/77115))
 * hub repairs now reply with correct time ([#77118](https://github.com/CleverRaven/Cataclysm-DDA/pull/77118))
