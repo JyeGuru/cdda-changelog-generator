@@ -1,3 +1,5 @@
+* fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
+* [ Xedra Evolved ] Remove regen on Dreamer Artifacts ([#77179](https://github.com/CleverRaven/Cataclysm-DDA/pull/77179))
 
 ---
 
@@ -183,7 +185,6 @@
 * Update COLOR.md ([#77175](https://github.com/CleverRaven/Cataclysm-DDA/pull/77175))
 * Adding new 2x2 library building ([#77154](https://github.com/CleverRaven/Cataclysm-DDA/pull/77154))
 * No robot snippets ([#77122](https://github.com/CleverRaven/Cataclysm-DDA/pull/77122))
-* Add Procyonae's nice highway interchange maps ([#77117](https://github.com/CleverRaven/Cataclysm-DDA/pull/77117))
 * add a tab bar to the uilist showing categories, if there are any ([#77123](https://github.com/CleverRaven/Cataclysm-DDA/pull/77123))
 * Deconstruct f_room_divider ([#77145](https://github.com/CleverRaven/Cataclysm-DDA/pull/77145))
 * Add controlling_vehicle EOC condition ([#77148](https://github.com/CleverRaven/Cataclysm-DDA/pull/77148))
@@ -206,7 +207,6 @@
 * making to-hit in character creation sign consistent ([#77127](https://github.com/CleverRaven/Cataclysm-DDA/pull/77127))
 * Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
 * Added check for stealing prior to unloading containers ([#77129](https://github.com/CleverRaven/Cataclysm-DDA/pull/77129))
-* OMT description fixes ([#77115](https://github.com/CleverRaven/Cataclysm-DDA/pull/77115))
 * hub repairs now reply with correct time ([#77118](https://github.com/CleverRaven/Cataclysm-DDA/pull/77118))
 * destroy miniscule bugs ([#77133](https://github.com/CleverRaven/Cataclysm-DDA/pull/77133))
 * My Sweet Cataclysm loading screen image ([#77138](https://github.com/CleverRaven/Cataclysm-DDA/pull/77138))
