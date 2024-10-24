@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-24-2011 ([99dfc62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-2011))
+
 * AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
 * Fix NPCs stealing player default name ([#77268](https://github.com/CleverRaven/Cataclysm-DDA/pull/77268))
 
@@ -198,11 +203,6 @@
 
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-19-1852 ([f2a0326](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-19-1852))
-
 * making to-hit in character creation sign consistent ([#77127](https://github.com/CleverRaven/Cataclysm-DDA/pull/77127))
 * Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
 * Added check for stealing prior to unloading containers ([#77129](https://github.com/CleverRaven/Cataclysm-DDA/pull/77129))
