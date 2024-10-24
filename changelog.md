@@ -1,3 +1,4 @@
+* AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
 * Fix NPCs stealing player default name ([#77268](https://github.com/CleverRaven/Cataclysm-DDA/pull/77268))
 
 ---

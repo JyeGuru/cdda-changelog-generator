@@ -1,3 +1,4 @@
+* AFS Titanium Density (#77292)
 * Fix NPCs stealing player default name (#77268)
 
 Cataclysm-DDA experimental build 2024-10-24-1718 (2d445e3)
