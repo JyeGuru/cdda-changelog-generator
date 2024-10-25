@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-25-1449 ([6ae4cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-1449))
+
+* fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-24-2254 ([12b4e6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-2254))
 
 * fix zoo scenario spawn ([#77237](https://github.com/CleverRaven/Cataclysm-DDA/pull/77237))
@@ -176,11 +182,6 @@
 * [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% ([#77147](https://github.com/CleverRaven/Cataclysm-DDA/pull/77147))
 * [ Magiclysm ] Forge Wall won't hold items ([#77151](https://github.com/CleverRaven/Cataclysm-DDA/pull/77151))
 * Bump Android API level to 34 ([#77159](https://github.com/CleverRaven/Cataclysm-DDA/pull/77159))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-20-1137 ([bf93256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-20-1137))
-
 * Remove leftover leg stub references in 0.H ([#77187](https://github.com/CleverRaven/Cataclysm-DDA/pull/77187))
 
 ---
@@ -197,7 +198,6 @@
 * Add controlling_vehicle EOC condition ([#77148](https://github.com/CleverRaven/Cataclysm-DDA/pull/77148))
 * No repeatedly lighting fires on same tile ([#77149](https://github.com/CleverRaven/Cataclysm-DDA/pull/77149))
 * Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced ([#77152](https://github.com/CleverRaven/Cataclysm-DDA/pull/77152))
-* Backport fix to not being able to put smaller mags into tac vest ([#77121](https://github.com/CleverRaven/Cataclysm-DDA/pull/77121))
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
 * making to-hit in character creation sign consistent ([#77127](https://github.com/CleverRaven/Cataclysm-DDA/pull/77127))
