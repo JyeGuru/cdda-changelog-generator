@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-25-2317 ([0d65968](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-2317))
+
+* fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-25-1449 ([6ae4cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-1449))
 
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
@@ -187,7 +193,6 @@
 * Update JSON_INFO.md ([#77172](https://github.com/CleverRaven/Cataclysm-DDA/pull/77172))
 * Update COLOR.md ([#77175](https://github.com/CleverRaven/Cataclysm-DDA/pull/77175))
 * Adding new 2x2 library building ([#77154](https://github.com/CleverRaven/Cataclysm-DDA/pull/77154))
-* add a tab bar to the uilist showing categories, if there are any ([#77123](https://github.com/CleverRaven/Cataclysm-DDA/pull/77123))
 * Deconstruct f_room_divider ([#77145](https://github.com/CleverRaven/Cataclysm-DDA/pull/77145))
 * Add controlling_vehicle EOC condition ([#77148](https://github.com/CleverRaven/Cataclysm-DDA/pull/77148))
 * No repeatedly lighting fires on same tile ([#77149](https://github.com/CleverRaven/Cataclysm-DDA/pull/77149))
