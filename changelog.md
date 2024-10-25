@@ -192,7 +192,6 @@
 * Update JSON_INFO.md ([#77172](https://github.com/CleverRaven/Cataclysm-DDA/pull/77172))
 * Update COLOR.md ([#77175](https://github.com/CleverRaven/Cataclysm-DDA/pull/77175))
 * Adding new 2x2 library building ([#77154](https://github.com/CleverRaven/Cataclysm-DDA/pull/77154))
-* No robot snippets ([#77122](https://github.com/CleverRaven/Cataclysm-DDA/pull/77122))
 * add a tab bar to the uilist showing categories, if there are any ([#77123](https://github.com/CleverRaven/Cataclysm-DDA/pull/77123))
 * Deconstruct f_room_divider ([#77145](https://github.com/CleverRaven/Cataclysm-DDA/pull/77145))
 * Add controlling_vehicle EOC condition ([#77148](https://github.com/CleverRaven/Cataclysm-DDA/pull/77148))
