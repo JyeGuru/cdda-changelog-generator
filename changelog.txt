@@ -114,8 +114,6 @@ Cataclysm-DDA experimental build 2024-10-20-2356 (6345530)
 * [ Magiclysm ] Forge Wall won't hold items (#77151)
 * Bump Android API level to 34 (#77159)
 * Remove leftover leg stub references in 0.H (#77187)
-
-Cataclysm-DDA experimental build 2024-10-20-0906 (74e77cc)
 * eoc/math: show JSON context for math errors (#77176)
 * Update JSON_INFO.md (#77172)
 * Update COLOR.md (#77175)
