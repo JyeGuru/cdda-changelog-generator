@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-10-26-2200 ([1fdcf81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-26-2200))
+
+* Fix Android window size ([#77330](https://github.com/CleverRaven/Cataclysm-DDA/pull/77330))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-26-2012 ([2633215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-2012))
 
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
@@ -156,12 +162,6 @@
 * Correct wrong values in animal growth timers ([#77161](https://github.com/CleverRaven/Cataclysm-DDA/pull/77161))
 * [Xedra Evolved] Moon's tears weapons ([#77183](https://github.com/CleverRaven/Cataclysm-DDA/pull/77183))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-21-1947 ([4b8bd2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-21-1947))
-
-* Fix bad Boolean logic example ([#77134](https://github.com/CleverRaven/Cataclysm-DDA/pull/77134))
 * Add labels to structured tiny bodygraphs ([#77143](https://github.com/CleverRaven/Cataclysm-DDA/pull/77143))
 * Deconstruct simple furniture in the dark ([#77165](https://github.com/CleverRaven/Cataclysm-DDA/pull/77165))
 * Create an external option for disabling zombify_into. Apply it to both Aftershock:Exoplanet and DDtD ([#77169](https://github.com/CleverRaven/Cataclysm-DDA/pull/77169))
@@ -178,11 +178,6 @@
 * Added check for stealing prior to activating items ([#77221](https://github.com/CleverRaven/Cataclysm-DDA/pull/77221))
 * Added check for stealing prior to reloading items ([#77222](https://github.com/CleverRaven/Cataclysm-DDA/pull/77222))
 * Not too generous Smokes ([#77225](https://github.com/CleverRaven/Cataclysm-DDA/pull/77225))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-21-1323 ([2357a3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-21-1323))
-
 * Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
 * Added check for stealing prior to obtaining book to read ([#77167](https://github.com/CleverRaven/Cataclysm-DDA/pull/77167))
 * Remove secret science/military stuff from bank/industry/mall vaults ([#77155](https://github.com/CleverRaven/Cataclysm-DDA/pull/77155))
