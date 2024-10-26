@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-26-2337 ([0425f0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-2337))
+
+* Add a new widget to display weight with the format "##.#/##.#[unit]" ([#77212](https://github.com/CleverRaven/Cataclysm-DDA/pull/77212))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-10-26-2200 ([1fdcf81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-26-2200))
 
 * Fix Android window size ([#77330](https://github.com/CleverRaven/Cataclysm-DDA/pull/77330))
@@ -200,4 +206,3 @@
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
 * Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
-* My Sweet Cataclysm loading screen image ([#77138](https://github.com/CleverRaven/Cataclysm-DDA/pull/77138))
