@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-26-0601 (303ea65)
 * Beaver audit (#77283)
 * "all" option for distraction manager (#77342)
 * Allow debug revealing any OM (#77339)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-10-21-1947 (4b8bd2e)
 * Add daily health widget (#77195)
 * Fix effect duration of techniques. (#77200)
 * Correct typo in the last COLOR.md update (#77201)
-
-Cataclysm-DDA 0.H release candidate 2024-10-21-1442 (a379db3)
 * Backport 77159 Bump Android API level to 34 (#77204)
 * Minor house fixes (#77208)
 * Fix the volume and mass of kiln_full and kiln_done that I missed in t… (#77215)
