@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-26-0327 ([ca974a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-0327))
+
+* Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-25-2317 ([0d65968](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-2317))
 
 * fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
@@ -178,11 +184,6 @@
 * add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
 * [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
 * Unify name suffix and profession ([#77130](https://github.com/CleverRaven/Cataclysm-DDA/pull/77130))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-20-2356 ([6345530](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-20-2356))
-
 * Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
 * Auditing portable charcoal kiln ([#77139](https://github.com/CleverRaven/Cataclysm-DDA/pull/77139))
 * [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% ([#77147](https://github.com/CleverRaven/Cataclysm-DDA/pull/77147))
