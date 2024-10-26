@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-10-26-2012 (2633215)
+* [Innawood] Makes electronics progressable again again (#77352)
+
 Cataclysm-DDA experimental build 2024-10-26-0601 (303ea65)
 * Beaver audit (#77283)
 * "all" option for distraction manager (#77342)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2024-10-21-1947 (4b8bd2e)
 
 Cataclysm-DDA experimental build 2024-10-21-1323 (2357a3c)
 * Fixed the segfault when trying to exit the Read menu (#77229)
-
-Cataclysm-DDA experimental build 2024-10-21-0327 (5762e89)
 * Added check for stealing prior to obtaining book to read (#77167)
 * Remove secret science/military stuff from bank/industry/mall vaults (#77155)
 * add whispering fungi as a possible spawn in group_fungi_zombie (#77174)
@@ -132,5 +133,4 @@ Cataclysm-DDA experimental build 2024-10-21-0327 (5762e89)
 * Routine i18n updates on 19 October 2024 (#77146)
 * Requirements warn if loading components as tools (#77144)
 * Change behavior of selecting ground tiles in vehicle in advanced inventory (#77140)
-* destroy miniscule bugs (#77133)
 * My Sweet Cataclysm loading screen image (#77138)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-26-2012 ([2633215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-2012))
+
+* [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-26-0601 ([303ea65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-0601))
 
 * Beaver audit ([#77283](https://github.com/CleverRaven/Cataclysm-DDA/pull/77283))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-10-21-1323 ([2357a3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-21-1323))
 
 * Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-21-0327 ([5762e89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-21-0327))
-
 * Added check for stealing prior to obtaining book to read ([#77167](https://github.com/CleverRaven/Cataclysm-DDA/pull/77167))
 * Remove secret science/military stuff from bank/industry/mall vaults ([#77155](https://github.com/CleverRaven/Cataclysm-DDA/pull/77155))
 * add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
@@ -204,5 +205,4 @@
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
 * Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
-* destroy miniscule bugs ([#77133](https://github.com/CleverRaven/Cataclysm-DDA/pull/77133))
 * My Sweet Cataclysm loading screen image ([#77138](https://github.com/CleverRaven/Cataclysm-DDA/pull/77138))
