@@ -1,3 +1,4 @@
+* [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
 
 ---
 
@@ -210,4 +211,3 @@
 * No repeatedly lighting fires on same tile ([#77149](https://github.com/CleverRaven/Cataclysm-DDA/pull/77149))
 * Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced ([#77152](https://github.com/CleverRaven/Cataclysm-DDA/pull/77152))
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
-* Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))

@@ -1,3 +1,4 @@
+* [ Aftershock ] Make Flesh Golem heart a mission item (#77351)
 
 Cataclysm-DDA experimental build 2024-10-27-0214 (1864618)
 * wrap long text in the menu for choosing the type of faction camp to create (#77326)
@@ -135,4 +136,3 @@ Cataclysm-DDA experimental build 2024-10-21-2303 (7fc0414)
 * No repeatedly lighting fires on same tile (#77149)
 * Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced (#77152)
 * Routine i18n updates on 19 October 2024 (#77146)
-* Requirements warn if loading components as tools (#77144)
