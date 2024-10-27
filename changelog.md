@@ -1,3 +1,5 @@
+* Fix cotton patch being unusable to stop bleeding ([#77354](https://github.com/CleverRaven/Cataclysm-DDA/pull/77354))
+* Routine i18n updates on 26 October 2024 ([#77348](https://github.com/CleverRaven/Cataclysm-DDA/pull/77348))
 * [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
 
 ---
@@ -206,8 +208,6 @@
 * Update JSON_INFO.md ([#77172](https://github.com/CleverRaven/Cataclysm-DDA/pull/77172))
 * Update COLOR.md ([#77175](https://github.com/CleverRaven/Cataclysm-DDA/pull/77175))
 * Adding new 2x2 library building ([#77154](https://github.com/CleverRaven/Cataclysm-DDA/pull/77154))
-* Deconstruct f_room_divider ([#77145](https://github.com/CleverRaven/Cataclysm-DDA/pull/77145))
 * Add controlling_vehicle EOC condition ([#77148](https://github.com/CleverRaven/Cataclysm-DDA/pull/77148))
 * No repeatedly lighting fires on same tile ([#77149](https://github.com/CleverRaven/Cataclysm-DDA/pull/77149))
 * Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced ([#77152](https://github.com/CleverRaven/Cataclysm-DDA/pull/77152))
-* Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
