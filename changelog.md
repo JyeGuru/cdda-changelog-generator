@@ -1,3 +1,6 @@
+* wrap long text in the menu for choosing the type of faction camp to create ([#77326](https://github.com/CleverRaven/Cataclysm-DDA/pull/77326))
+* Fixed broken Android build due to missing FreeType library ([#77314](https://github.com/CleverRaven/Cataclysm-DDA/pull/77314))
+* Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
 
 ---
 
@@ -168,7 +171,6 @@
 * Correct wrong values in animal growth timers ([#77161](https://github.com/CleverRaven/Cataclysm-DDA/pull/77161))
 * [Xedra Evolved] Moon's tears weapons ([#77183](https://github.com/CleverRaven/Cataclysm-DDA/pull/77183))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
-* Add labels to structured tiny bodygraphs ([#77143](https://github.com/CleverRaven/Cataclysm-DDA/pull/77143))
 * Deconstruct simple furniture in the dark ([#77165](https://github.com/CleverRaven/Cataclysm-DDA/pull/77165))
 * Create an external option for disabling zombify_into. Apply it to both Aftershock:Exoplanet and DDtD ([#77169](https://github.com/CleverRaven/Cataclysm-DDA/pull/77169))
 * Adjust naming of vision level deployed appliances ([#77173](https://github.com/CleverRaven/Cataclysm-DDA/pull/77173))
@@ -190,7 +192,6 @@
 * add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
 * [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
 * Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
-* Auditing portable charcoal kiln ([#77139](https://github.com/CleverRaven/Cataclysm-DDA/pull/77139))
 * [ Xedra Evolved ] Dreamer Traits reduce Max Mana by 10% ([#77147](https://github.com/CleverRaven/Cataclysm-DDA/pull/77147))
 * [ Magiclysm ] Forge Wall won't hold items ([#77151](https://github.com/CleverRaven/Cataclysm-DDA/pull/77151))
 * Bump Android API level to 34 ([#77159](https://github.com/CleverRaven/Cataclysm-DDA/pull/77159))
@@ -205,4 +206,3 @@
 * Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced ([#77152](https://github.com/CleverRaven/Cataclysm-DDA/pull/77152))
 * Routine i18n updates on 19 October 2024 ([#77146](https://github.com/CleverRaven/Cataclysm-DDA/pull/77146))
 * Requirements warn if loading components as tools ([#77144](https://github.com/CleverRaven/Cataclysm-DDA/pull/77144))
-* Change behavior of selecting ground tiles in vehicle in advanced inventory ([#77140](https://github.com/CleverRaven/Cataclysm-DDA/pull/77140))
