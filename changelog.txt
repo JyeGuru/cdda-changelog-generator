@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-10-27-0214 (1864618)
 * wrap long text in the menu for choosing the type of faction camp to create (#77326)
 * Fixed broken Android build due to missing FreeType library (#77314)
 * Add Vitamin C Supplements (#77363)
