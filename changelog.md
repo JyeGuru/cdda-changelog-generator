@@ -1,5 +1,10 @@
 * [MoM/Magiclysm interaction] Synchronize anti-Stare powers, Thought Shield spell protects from telepathy ([#77277](https://github.com/CleverRaven/Cataclysm-DDA/pull/77277))
 * Fix CMake build after adding freetype ([#77360](https://github.com/CleverRaven/Cataclysm-DDA/pull/77360))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-28-0634 ([ba07ee6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-28-0634))
+
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
 
 ---
@@ -157,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2024-10-23-0354 ([e3278c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-0354))
 
 * Aftershock: Remove swims flag from terrestrial creatures. ([#77257](https://github.com/CleverRaven/Cataclysm-DDA/pull/77257))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-22-2215 ([aeaca88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-2215))
-
 * Flamethrowers count as firestarters for lighting up bombs ([#77227](https://github.com/CleverRaven/Cataclysm-DDA/pull/77227))
 * Fix linoleum in bangalow04 ([#77231](https://github.com/CleverRaven/Cataclysm-DDA/pull/77231))
 * [MoM] Torrential Channeling power maintenance also raises Nether Attunement ([#77233](https://github.com/CleverRaven/Cataclysm-DDA/pull/77233))
