@@ -170,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2024-10-22-1601 ([8f226e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-1601))
 
 * Addressed light map adjustments resulting in no net change dirtying c… ([#77193](https://github.com/CleverRaven/Cataclysm-DDA/pull/77193))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-22-0120 ([b246d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-0120))
-
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
 * Correct wrong values in animal growth timers ([#77161](https://github.com/CleverRaven/Cataclysm-DDA/pull/77161))
 * [Xedra Evolved] Moon's tears weapons ([#77183](https://github.com/CleverRaven/Cataclysm-DDA/pull/77183))
