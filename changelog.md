@@ -164,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2024-10-22-1936 ([8b12815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-1936))
 
 * [Xedra Evolved] Add playable Lilin with appropriate scenario ([#77178](https://github.com/CleverRaven/Cataclysm-DDA/pull/77178))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-22-1601 ([8f226e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-22-1601))
-
 * Addressed light map adjustments resulting in no net change dirtying c… ([#77193](https://github.com/CleverRaven/Cataclysm-DDA/pull/77193))
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
 * Correct wrong values in animal growth timers ([#77161](https://github.com/CleverRaven/Cataclysm-DDA/pull/77161))
