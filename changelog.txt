@@ -1,3 +1,4 @@
+* [MoM/Magiclysm interaction] Synchronize anti-Stare powers, Thought Shield spell protects from telepathy (#77277)
 * Fix CMake build after adding freetype (#77360)
 * Backport 77354 Fix cotton patch being unusable to stop bleeding (#77366)
 
