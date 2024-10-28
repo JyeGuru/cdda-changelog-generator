@@ -120,11 +120,6 @@
 * Removes the hoodie pocket from cropped hoodies ([#77249](https://github.com/CleverRaven/Cataclysm-DDA/pull/77249))
 * Add DECONSTRUCT category, skip in blueprint calculations, deprioritize DECORATE ([#77163](https://github.com/CleverRaven/Cataclysm-DDA/pull/77163))
 * Debug radiation on characters and map tiles ([#77192](https://github.com/CleverRaven/Cataclysm-DDA/pull/77192))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-23-2018 ([318b2c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-23-2018))
-
 * Backport: Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77242](https://github.com/CleverRaven/Cataclysm-DDA/pull/77242))
 
 ---
