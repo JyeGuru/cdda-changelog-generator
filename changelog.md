@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.H release candidate 2024-10-29-1914 ([30ea495](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-29-1914))
 
 * Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-29-2004 ([f909df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-2004))
+
 * Lever action rifles ([#77409](https://github.com/CleverRaven/Cataclysm-DDA/pull/77409))
 * Set owner for new appliances ([#77211](https://github.com/CleverRaven/Cataclysm-DDA/pull/77211))
 
@@ -148,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2024-10-23-1954 ([21859a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-1954))
 
 * Aftershock: Suit batteries ([#77254](https://github.com/CleverRaven/Cataclysm-DDA/pull/77254))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-23-1739 ([d75cf96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-1739))
-
 * Eliminate faction camp storage zones cache ([#77182](https://github.com/CleverRaven/Cataclysm-DDA/pull/77182))
 * No free wiring in log walls ([#77203](https://github.com/CleverRaven/Cataclysm-DDA/pull/77203))
 * Don't spawn safe on top of ladder up at military base radio tower ([#77247](https://github.com/CleverRaven/Cataclysm-DDA/pull/77247))
