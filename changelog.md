@@ -1,3 +1,11 @@
+* Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
+* [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-29-1419 ([64914b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-1419))
+
+* Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
 * [MoM/Magiclysm interaction] Synchronize anti-Stare powers, Thought Shield spell protects from telepathy ([#77277](https://github.com/CleverRaven/Cataclysm-DDA/pull/77277))
 * Fix CMake build after adding freetype ([#77360](https://github.com/CleverRaven/Cataclysm-DDA/pull/77360))
 
@@ -151,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-10-23-0605 ([5d32050](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-0605))
 
 * Forbid starting fires on water tiles ([#77250](https://github.com/CleverRaven/Cataclysm-DDA/pull/77250))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-23-0354 ([e3278c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-0354))
-
 * Aftershock: Remove swims flag from terrestrial creatures. ([#77257](https://github.com/CleverRaven/Cataclysm-DDA/pull/77257))
 * Flamethrowers count as firestarters for lighting up bombs ([#77227](https://github.com/CleverRaven/Cataclysm-DDA/pull/77227))
 * Fix linoleum in bangalow04 ([#77231](https://github.com/CleverRaven/Cataclysm-DDA/pull/77231))
@@ -185,7 +188,6 @@
 * Not too generous Smokes ([#77225](https://github.com/CleverRaven/Cataclysm-DDA/pull/77225))
 * Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
 * Added check for stealing prior to obtaining book to read ([#77167](https://github.com/CleverRaven/Cataclysm-DDA/pull/77167))
-* Remove secret science/military stuff from bank/industry/mall vaults ([#77155](https://github.com/CleverRaven/Cataclysm-DDA/pull/77155))
 * add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
 * [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
 * Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
@@ -194,5 +196,3 @@
 * eoc/math: show JSON context for math errors ([#77176](https://github.com/CleverRaven/Cataclysm-DDA/pull/77176))
 * Update JSON_INFO.md ([#77172](https://github.com/CleverRaven/Cataclysm-DDA/pull/77172))
 * Update COLOR.md ([#77175](https://github.com/CleverRaven/Cataclysm-DDA/pull/77175))
-* Adding new 2x2 library building ([#77154](https://github.com/CleverRaven/Cataclysm-DDA/pull/77154))
-* Reinforced combat exoskeleton reinforced leg armor no longer quite as reinforced ([#77152](https://github.com/CleverRaven/Cataclysm-DDA/pull/77152))
