@@ -189,7 +189,6 @@
 * add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
 * [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
 * Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
-* [ Magiclysm ] Forge Wall won't hold items ([#77151](https://github.com/CleverRaven/Cataclysm-DDA/pull/77151))
 * Bump Android API level to 34 ([#77159](https://github.com/CleverRaven/Cataclysm-DDA/pull/77159))
 * Remove leftover leg stub references in 0.H ([#77187](https://github.com/CleverRaven/Cataclysm-DDA/pull/77187))
 * eoc/math: show JSON context for math errors ([#77176](https://github.com/CleverRaven/Cataclysm-DDA/pull/77176))
