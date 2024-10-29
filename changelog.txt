@@ -1,3 +1,4 @@
+* Fix recent clang-tidy errors. (#77420)
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions (#77401)
 * [Xedra Evolve] Add Ruach counter to sidebars (#77422)
 
