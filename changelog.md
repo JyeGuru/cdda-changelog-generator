@@ -1,3 +1,4 @@
+* Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
 * Misc gun fixes ([#77411](https://github.com/CleverRaven/Cataclysm-DDA/pull/77411))
 
 ---
@@ -192,7 +193,6 @@
 * Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
 * add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
 * [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
-* Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
 * Remove leftover leg stub references in 0.H ([#77187](https://github.com/CleverRaven/Cataclysm-DDA/pull/77187))
 * eoc/math: show JSON context for math errors ([#77176](https://github.com/CleverRaven/Cataclysm-DDA/pull/77176))
 * Update JSON_INFO.md ([#77172](https://github.com/CleverRaven/Cataclysm-DDA/pull/77172))
