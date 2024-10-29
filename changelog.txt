@@ -1,3 +1,4 @@
+* Misc gun fixes (#77411)
 
 Cataclysm-DDA experimental build 2024-10-29-2253 (1e44a5c)
 * [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island (#77414)
@@ -109,7 +110,6 @@ Cataclysm-DDA experimental build 2024-10-23-2158 (3edfea1)
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 (#77206)
 * [Xedra Evolved] Moon's tears weapons (#77183)
 * Decrease amount of spawns in cave (#77214)
-* Create an external option for disabling zombify_into. Apply it to both Aftershock:Exoplanet and DDtD (#77169)
 * Adjust naming of vision level deployed appliances (#77173)
 * Add daily health widget (#77195)
 * Fix effect duration of techniques. (#77200)
