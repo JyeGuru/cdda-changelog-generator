@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-29-1914 ([30ea495](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-29-1914))
+
+* Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
+* Lever action rifles ([#77409](https://github.com/CleverRaven/Cataclysm-DDA/pull/77409))
 * Set owner for new appliances ([#77211](https://github.com/CleverRaven/Cataclysm-DDA/pull/77211))
 
 ---
@@ -133,7 +140,6 @@
 * [MoM] Fix """""missing""""" EoC id ([#77234](https://github.com/CleverRaven/Cataclysm-DDA/pull/77234))
 * Print message for failed prying attempt regardless of whether terrain/furniture has `breakable` defined ([#77251](https://github.com/CleverRaven/Cataclysm-DDA/pull/77251))
 * Removes the hoodie pocket from cropped hoodies ([#77249](https://github.com/CleverRaven/Cataclysm-DDA/pull/77249))
-* Add DECONSTRUCT category, skip in blueprint calculations, deprioritize DECORATE ([#77163](https://github.com/CleverRaven/Cataclysm-DDA/pull/77163))
 * Debug radiation on characters and map tiles ([#77192](https://github.com/CleverRaven/Cataclysm-DDA/pull/77192))
 * Backport: Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77242](https://github.com/CleverRaven/Cataclysm-DDA/pull/77242))
 
@@ -154,11 +160,6 @@
 * Fragile and Sturdy flags cannot be inherited ([#77256](https://github.com/CleverRaven/Cataclysm-DDA/pull/77256))
 * [MoM] Feral psion updates with copy-from ([#77259](https://github.com/CleverRaven/Cataclysm-DDA/pull/77259))
 * [Xedra Evolved] Fix Eater's sixth sense trait ([#77260](https://github.com/CleverRaven/Cataclysm-DDA/pull/77260))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-23-1516 ([99d27e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-1516))
-
 * hide fullscreen option to emscripten builds ([#77270](https://github.com/CleverRaven/Cataclysm-DDA/pull/77270))
 * Forbid starting fires on water tiles ([#77250](https://github.com/CleverRaven/Cataclysm-DDA/pull/77250))
 * Aftershock: Remove swims flag from terrestrial creatures. ([#77257](https://github.com/CleverRaven/Cataclysm-DDA/pull/77257))
@@ -170,7 +171,6 @@
 * [Xedra Evolved] Add playable Lilin with appropriate scenario ([#77178](https://github.com/CleverRaven/Cataclysm-DDA/pull/77178))
 * Addressed light map adjustments resulting in no net change dirtying c… ([#77193](https://github.com/CleverRaven/Cataclysm-DDA/pull/77193))
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
-* Correct wrong values in animal growth timers ([#77161](https://github.com/CleverRaven/Cataclysm-DDA/pull/77161))
 * [Xedra Evolved] Moon's tears weapons ([#77183](https://github.com/CleverRaven/Cataclysm-DDA/pull/77183))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
 * Deconstruct simple furniture in the dark ([#77165](https://github.com/CleverRaven/Cataclysm-DDA/pull/77165))
