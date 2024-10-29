@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-29-2253 ([1e44a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-2253))
+
+* [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island ([#77414](https://github.com/CleverRaven/Cataclysm-DDA/pull/77414))
 * Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
 
 ---
@@ -148,11 +154,6 @@
 * Removes the hoodie pocket from cropped hoodies ([#77249](https://github.com/CleverRaven/Cataclysm-DDA/pull/77249))
 * Debug radiation on characters and map tiles ([#77192](https://github.com/CleverRaven/Cataclysm-DDA/pull/77192))
 * Backport: Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77242](https://github.com/CleverRaven/Cataclysm-DDA/pull/77242))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-23-1954 ([21859a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-1954))
-
 * Aftershock: Suit batteries ([#77254](https://github.com/CleverRaven/Cataclysm-DDA/pull/77254))
 * Eliminate faction camp storage zones cache ([#77182](https://github.com/CleverRaven/Cataclysm-DDA/pull/77182))
 * No free wiring in log walls ([#77203](https://github.com/CleverRaven/Cataclysm-DDA/pull/77203))
@@ -189,7 +190,6 @@
 * Added check for stealing prior to reloading items ([#77222](https://github.com/CleverRaven/Cataclysm-DDA/pull/77222))
 * Not too generous Smokes ([#77225](https://github.com/CleverRaven/Cataclysm-DDA/pull/77225))
 * Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
-* Added check for stealing prior to obtaining book to read ([#77167](https://github.com/CleverRaven/Cataclysm-DDA/pull/77167))
 * add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
 * [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
 * Add steel tankard item and recipe ([#77171](https://github.com/CleverRaven/Cataclysm-DDA/pull/77171))
