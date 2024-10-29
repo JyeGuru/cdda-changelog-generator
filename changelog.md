@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-29-1635 ([0d9cbd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-1635))
+
 * Fix recent clang-tidy errors. ([#77420](https://github.com/CleverRaven/Cataclysm-DDA/pull/77420))
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
@@ -154,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-10-23-1516 ([99d27e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-1516))
 
 * hide fullscreen option to emscripten builds ([#77270](https://github.com/CleverRaven/Cataclysm-DDA/pull/77270))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-23-0605 ([5d32050](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-0605))
-
 * Forbid starting fires on water tiles ([#77250](https://github.com/CleverRaven/Cataclysm-DDA/pull/77250))
 * Aftershock: Remove swims flag from terrestrial creatures. ([#77257](https://github.com/CleverRaven/Cataclysm-DDA/pull/77257))
 * Flamethrowers count as firestarters for lighting up bombs ([#77227](https://github.com/CleverRaven/Cataclysm-DDA/pull/77227))
