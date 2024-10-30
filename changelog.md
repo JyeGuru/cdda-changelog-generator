@@ -1,3 +1,12 @@
+* Make battery chargers work outside the reality bubble ([#77390](https://github.com/CleverRaven/Cataclysm-DDA/pull/77390))
+* Mutations can have a custom activation message ([#77419](https://github.com/CleverRaven/Cataclysm-DDA/pull/77419))
+* Apply copy-from to mod scenarios ([#77417](https://github.com/CleverRaven/Cataclysm-DDA/pull/77417))
+* Feral Agent fix and loot update ([#77421](https://github.com/CleverRaven/Cataclysm-DDA/pull/77421))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-30-0120 ([af9bc7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-30-0120))
+
 * Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
 * Misc gun fixes ([#77411](https://github.com/CleverRaven/Cataclysm-DDA/pull/77411))
 
@@ -146,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-10-24-0244 ([19807c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-0244))
 
 * Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-23-2158 ([3edfea1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-23-2158))
-
 * [MoM] Fix """""missing""""" EoC id ([#77234](https://github.com/CleverRaven/Cataclysm-DDA/pull/77234))
 * Print message for failed prying attempt regardless of whether terrain/furniture has `breakable` defined ([#77251](https://github.com/CleverRaven/Cataclysm-DDA/pull/77251))
 * Removes the hoodie pocket from cropped hoodies ([#77249](https://github.com/CleverRaven/Cataclysm-DDA/pull/77249))
@@ -177,7 +181,6 @@
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
 * [Xedra Evolved] Moon's tears weapons ([#77183](https://github.com/CleverRaven/Cataclysm-DDA/pull/77183))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
-* Adjust naming of vision level deployed appliances ([#77173](https://github.com/CleverRaven/Cataclysm-DDA/pull/77173))
 * Add daily health widget ([#77195](https://github.com/CleverRaven/Cataclysm-DDA/pull/77195))
 * Fix effect duration of techniques. ([#77200](https://github.com/CleverRaven/Cataclysm-DDA/pull/77200))
 * Correct typo in the last COLOR.md update ([#77201](https://github.com/CleverRaven/Cataclysm-DDA/pull/77201))
@@ -191,9 +194,6 @@
 * Added check for stealing prior to reloading items ([#77222](https://github.com/CleverRaven/Cataclysm-DDA/pull/77222))
 * Not too generous Smokes ([#77225](https://github.com/CleverRaven/Cataclysm-DDA/pull/77225))
 * Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
-* add whispering fungi as a possible spawn in group_fungi_zombie ([#77174](https://github.com/CleverRaven/Cataclysm-DDA/pull/77174))
 * [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
 * Remove leftover leg stub references in 0.H ([#77187](https://github.com/CleverRaven/Cataclysm-DDA/pull/77187))
 * eoc/math: show JSON context for math errors ([#77176](https://github.com/CleverRaven/Cataclysm-DDA/pull/77176))
-* Update JSON_INFO.md ([#77172](https://github.com/CleverRaven/Cataclysm-DDA/pull/77172))
-* Update COLOR.md ([#77175](https://github.com/CleverRaven/Cataclysm-DDA/pull/77175))
