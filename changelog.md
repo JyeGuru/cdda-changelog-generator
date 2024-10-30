@@ -1,3 +1,5 @@
+* Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
+* Armor order refactoring ([#77425](https://github.com/CleverRaven/Cataclysm-DDA/pull/77425))
 
 ---
 
@@ -177,7 +179,6 @@
 * [MoM] Torrential Channeling power maintenance also raises Nether Attunement ([#77233](https://github.com/CleverRaven/Cataclysm-DDA/pull/77233))
 * fix drinking hat being able to store everything ([#77243](https://github.com/CleverRaven/Cataclysm-DDA/pull/77243))
 * Adjust Raw Butter recipes, Adds raw butter to recipes that use butter ([#77245](https://github.com/CleverRaven/Cataclysm-DDA/pull/77245))
-* [Xedra Evolved] Add playable Lilin with appropriate scenario ([#77178](https://github.com/CleverRaven/Cataclysm-DDA/pull/77178))
 * Addressed light map adjustments resulting in no net change dirtying c… ([#77193](https://github.com/CleverRaven/Cataclysm-DDA/pull/77193))
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
 * [Xedra Evolved] Moon's tears weapons ([#77183](https://github.com/CleverRaven/Cataclysm-DDA/pull/77183))
