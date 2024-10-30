@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-30-1526 ([aad7acc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-30-1526))
+
+* Dropped lit cigarette won't start fires if there's no flammable terrain, furniture, or items on that tile ([#77447](https://github.com/CleverRaven/Cataclysm-DDA/pull/77447))
 * Make battery chargers work outside the reality bubble ([#77390](https://github.com/CleverRaven/Cataclysm-DDA/pull/77390))
 * Mutations can have a custom activation message ([#77419](https://github.com/CleverRaven/Cataclysm-DDA/pull/77419))
 * Apply copy-from to mod scenarios ([#77417](https://github.com/CleverRaven/Cataclysm-DDA/pull/77417))
@@ -191,4 +197,3 @@
 * Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
 * [MoM] Purifiable updates ([#77184](https://github.com/CleverRaven/Cataclysm-DDA/pull/77184))
 * Remove leftover leg stub references in 0.H ([#77187](https://github.com/CleverRaven/Cataclysm-DDA/pull/77187))
-* eoc/math: show JSON context for math errors ([#77176](https://github.com/CleverRaven/Cataclysm-DDA/pull/77176))

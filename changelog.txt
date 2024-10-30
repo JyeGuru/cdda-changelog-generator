@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-10-30-1526 (aad7acc)
+* Dropped lit cigarette won't start fires if there's no flammable terrain, furniture, or items on that tile (#77447)
 * Make battery chargers work outside the reality bubble (#77390)
 * Mutations can have a custom activation message (#77419)
 * Apply copy-from to mod scenarios (#77417)
@@ -128,4 +131,3 @@ Cataclysm-DDA experimental build 2024-10-24-1253 (2d90bfe)
 * Fixed the segfault when trying to exit the Read menu (#77229)
 * [MoM] Purifiable updates (#77184)
 * Remove leftover leg stub references in 0.H (#77187)
-* eoc/math: show JSON context for math errors (#77176)
