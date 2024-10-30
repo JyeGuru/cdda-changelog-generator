@@ -149,11 +149,6 @@
 * Allow setting duration for all types of prying, not only for prying nails ([#77252](https://github.com/CleverRaven/Cataclysm-DDA/pull/77252))
 * Change electric blanket materials ([#77272](https://github.com/CleverRaven/Cataclysm-DDA/pull/77272))
 * Add EOD suit to military areas ([#77271](https://github.com/CleverRaven/Cataclysm-DDA/pull/77271))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-24-0244 ([19807c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-0244))
-
 * Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
 * [MoM] Fix """""missing""""" EoC id ([#77234](https://github.com/CleverRaven/Cataclysm-DDA/pull/77234))
 * Print message for failed prying attempt regardless of whether terrain/furniture has `breakable` defined ([#77251](https://github.com/CleverRaven/Cataclysm-DDA/pull/77251))
