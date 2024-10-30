@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.H release candidate 2024-10-30-1555 (9cdd625)
 * Backport #77029 Fix sling staff (#77427)
 * Armor order refactoring (#77425)
 

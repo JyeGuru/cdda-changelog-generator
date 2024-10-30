@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-10-30-1555 ([9cdd625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-30-1555))
+
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
 * Armor order refactoring ([#77425](https://github.com/CleverRaven/Cataclysm-DDA/pull/77425))
 
