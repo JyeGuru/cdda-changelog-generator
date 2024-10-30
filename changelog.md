@@ -1,3 +1,4 @@
+* migo sideplates ([#77304](https://github.com/CleverRaven/Cataclysm-DDA/pull/77304))
 
 ---
 
@@ -139,7 +140,6 @@
 * fix zoo scenario spawn ([#77237](https://github.com/CleverRaven/Cataclysm-DDA/pull/77237))
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
-* [ Xedra Evolved ] Remove regen on Dreamer Artifacts ([#77179](https://github.com/CleverRaven/Cataclysm-DDA/pull/77179))
 
 ---
 

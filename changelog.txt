@@ -1,3 +1,4 @@
+* migo sideplates (#77304)
 
 Cataclysm-DDA 0.H release candidate 2024-10-30-1555 (9cdd625)
 * Backport #77029 Fix sling staff (#77427)
@@ -79,7 +80,6 @@ Cataclysm-DDA experimental build 2024-10-24-2254 (12b4e6c)
 * fix zoo scenario spawn (#77237)
 * Tutorial bugfixes and tweaks (#77294)
 * fix 76710 (#77303)
-* [ Xedra Evolved ] Remove regen on Dreamer Artifacts (#77179)
 
 Cataclysm-DDA experimental build 2024-10-24-2011 (99dfc62)
 * AFS Titanium Density (#77292)
