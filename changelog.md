@@ -169,7 +169,6 @@
 * Debug radiation on characters and map tiles ([#77192](https://github.com/CleverRaven/Cataclysm-DDA/pull/77192))
 * Backport: Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77242](https://github.com/CleverRaven/Cataclysm-DDA/pull/77242))
 * Aftershock: Suit batteries ([#77254](https://github.com/CleverRaven/Cataclysm-DDA/pull/77254))
-* Eliminate faction camp storage zones cache ([#77182](https://github.com/CleverRaven/Cataclysm-DDA/pull/77182))
 * No free wiring in log walls ([#77203](https://github.com/CleverRaven/Cataclysm-DDA/pull/77203))
 * Don't spawn safe on top of ladder up at military base radio tower ([#77247](https://github.com/CleverRaven/Cataclysm-DDA/pull/77247))
 * [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
