@@ -152,11 +152,6 @@
 
 * AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
 * Fix NPCs stealing player default name ([#77268](https://github.com/CleverRaven/Cataclysm-DDA/pull/77268))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-24-1718 ([2d445e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-1718))
-
 * Adding a welding store ([#77279](https://github.com/CleverRaven/Cataclysm-DDA/pull/77279))
 * Added imgui_freetype.cpp to MSVC project file to fix broken build. ([#77289](https://github.com/CleverRaven/Cataclysm-DDA/pull/77289))
 * Allow setting duration for all types of prying, not only for prying nails ([#77252](https://github.com/CleverRaven/Cataclysm-DDA/pull/77252))
