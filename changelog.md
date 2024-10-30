@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-30-1821 ([a61a138](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-30-1821))
+
 * migo sideplates ([#77304](https://github.com/CleverRaven/Cataclysm-DDA/pull/77304))
 
 ---
@@ -153,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2024-10-24-1718 ([2d445e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-1718))
 
 * Adding a welding store ([#77279](https://github.com/CleverRaven/Cataclysm-DDA/pull/77279))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-24-1253 ([2d90bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-1253))
-
 * Added imgui_freetype.cpp to MSVC project file to fix broken build. ([#77289](https://github.com/CleverRaven/Cataclysm-DDA/pull/77289))
 * Allow setting duration for all types of prying, not only for prying nails ([#77252](https://github.com/CleverRaven/Cataclysm-DDA/pull/77252))
 * Change electric blanket materials ([#77272](https://github.com/CleverRaven/Cataclysm-DDA/pull/77272))
