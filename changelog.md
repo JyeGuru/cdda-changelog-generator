@@ -1,3 +1,12 @@
+* fix two supressors in m4_cqbr ([#77389](https://github.com/CleverRaven/Cataclysm-DDA/pull/77389))
+* Flush debug log writes immediately ([#77381](https://github.com/CleverRaven/Cataclysm-DDA/pull/77381))
+* Fix food calcs for items with non-food components ([#77377](https://github.com/CleverRaven/Cataclysm-DDA/pull/77377))
+* Faction relationships can be modified through dialogue ([#77371](https://github.com/CleverRaven/Cataclysm-DDA/pull/77371))
+* Allow any grade of steel for the metal axe head ([#77364](https://github.com/CleverRaven/Cataclysm-DDA/pull/77364))
+* eoc: clean up run_eocs ([#77359](https://github.com/CleverRaven/Cataclysm-DDA/pull/77359))
+* Remove Calcium from Rare Drugs ([#77349](https://github.com/CleverRaven/Cataclysm-DDA/pull/77349))
+* Refugee center cleanups ([#77331](https://github.com/CleverRaven/Cataclysm-DDA/pull/77331))
+* Stop 20x Melatonin Spawns ([#77347](https://github.com/CleverRaven/Cataclysm-DDA/pull/77347))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
@@ -118,12 +127,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-10-26-2337 ([0425f0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-2337))
-
-* Add a new widget to display weight with the format "##.#/##.#[unit]" ([#77212](https://github.com/CleverRaven/Cataclysm-DDA/pull/77212))
-
----
-
 #### Cataclysm-DDA 0.H release candidate 2024-10-26-2200 ([1fdcf81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-26-2200))
 
 * Fix Android window size ([#77330](https://github.com/CleverRaven/Cataclysm-DDA/pull/77330))
@@ -189,12 +192,4 @@
 * [MoM] Torrential Channeling power maintenance also raises Nether Attunement ([#77233](https://github.com/CleverRaven/Cataclysm-DDA/pull/77233))
 * fix drinking hat being able to store everything ([#77243](https://github.com/CleverRaven/Cataclysm-DDA/pull/77243))
 * Adjust Raw Butter recipes, Adds raw butter to recipes that use butter ([#77245](https://github.com/CleverRaven/Cataclysm-DDA/pull/77245))
-* Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
-* Fix the volume and mass of kiln_full and kiln_done that I missed in t… ([#77215](https://github.com/CleverRaven/Cataclysm-DDA/pull/77215))
-* Infected scenario mission is completed by all antibiotics ([#77217](https://github.com/CleverRaven/Cataclysm-DDA/pull/77217))
-* Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77220](https://github.com/CleverRaven/Cataclysm-DDA/pull/77220))
-* correct height when a uilist has desired_bounds not including height ([#77219](https://github.com/CleverRaven/Cataclysm-DDA/pull/77219))
-* Added check for stealing prior to activating items ([#77221](https://github.com/CleverRaven/Cataclysm-DDA/pull/77221))
-* Added check for stealing prior to reloading items ([#77222](https://github.com/CleverRaven/Cataclysm-DDA/pull/77222))
-* Not too generous Smokes ([#77225](https://github.com/CleverRaven/Cataclysm-DDA/pull/77225))
 * Fixed the segfault when trying to exit the Read menu ([#77229](https://github.com/CleverRaven/Cataclysm-DDA/pull/77229))
