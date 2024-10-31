@@ -186,7 +186,6 @@
 * Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
 * Print message for failed prying attempt regardless of whether terrain/furniture has `breakable` defined ([#77251](https://github.com/CleverRaven/Cataclysm-DDA/pull/77251))
 * Removes the hoodie pocket from cropped hoodies ([#77249](https://github.com/CleverRaven/Cataclysm-DDA/pull/77249))
-* Backport: Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77242](https://github.com/CleverRaven/Cataclysm-DDA/pull/77242))
 * Aftershock: Suit batteries ([#77254](https://github.com/CleverRaven/Cataclysm-DDA/pull/77254))
 * Don't spawn safe on top of ladder up at military base radio tower ([#77247](https://github.com/CleverRaven/Cataclysm-DDA/pull/77247))
 * [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
