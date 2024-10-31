@@ -1,3 +1,8 @@
+* Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
+* fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
+* eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
+* Fix #77179 and a Book in Magiclysm ([#77408](https://github.com/CleverRaven/Cataclysm-DDA/pull/77408))
+* Throwing items while piloting mechs (with the mech's assist) ([#77403](https://github.com/CleverRaven/Cataclysm-DDA/pull/77403))
 * add terminal punctuation to bulletin board examination message ([#77404](https://github.com/CleverRaven/Cataclysm-DDA/pull/77404))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 
@@ -66,7 +71,6 @@
 #### Cataclysm-DDA experimental build 2024-10-29-2004 ([f909df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-2004))
 
 * Lever action rifles ([#77409](https://github.com/CleverRaven/Cataclysm-DDA/pull/77409))
-* Set owner for new appliances ([#77211](https://github.com/CleverRaven/Cataclysm-DDA/pull/77211))
 
 ---
 
@@ -185,10 +189,7 @@
 * [MoM] Torrential Channeling power maintenance also raises Nether Attunement ([#77233](https://github.com/CleverRaven/Cataclysm-DDA/pull/77233))
 * fix drinking hat being able to store everything ([#77243](https://github.com/CleverRaven/Cataclysm-DDA/pull/77243))
 * Adjust Raw Butter recipes, Adds raw butter to recipes that use butter ([#77245](https://github.com/CleverRaven/Cataclysm-DDA/pull/77245))
-* Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
-* Backport 77159 Bump Android API level to 34 ([#77204](https://github.com/CleverRaven/Cataclysm-DDA/pull/77204))
-* Minor house fixes ([#77208](https://github.com/CleverRaven/Cataclysm-DDA/pull/77208))
 * Fix the volume and mass of kiln_full and kiln_done that I missed in t… ([#77215](https://github.com/CleverRaven/Cataclysm-DDA/pull/77215))
 * Infected scenario mission is completed by all antibiotics ([#77217](https://github.com/CleverRaven/Cataclysm-DDA/pull/77217))
 * Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77220](https://github.com/CleverRaven/Cataclysm-DDA/pull/77220))
