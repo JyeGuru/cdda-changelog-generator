@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-10-31-1853 ([6d904d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-1853))
+
+* [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-10-31-0712 ([47225ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-0712))
 
 * fix: satisfy -Werror=range-loop-construct ([#77302](https://github.com/CleverRaven/Cataclysm-DDA/pull/77302))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-10-25-2317 ([0d65968](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-2317))
 
 * fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-25-1449 ([6ae4cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-1449))
-
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
@@ -195,5 +196,4 @@
 * hide fullscreen option to emscripten builds ([#77270](https://github.com/CleverRaven/Cataclysm-DDA/pull/77270))
 * Forbid starting fires on water tiles ([#77250](https://github.com/CleverRaven/Cataclysm-DDA/pull/77250))
 * Aftershock: Remove swims flag from terrestrial creatures. ([#77257](https://github.com/CleverRaven/Cataclysm-DDA/pull/77257))
-* fix drinking hat being able to store everything ([#77243](https://github.com/CleverRaven/Cataclysm-DDA/pull/77243))
 * Adjust Raw Butter recipes, Adds raw butter to recipes that use butter ([#77245](https://github.com/CleverRaven/Cataclysm-DDA/pull/77245))
