@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-31-0210 ([b39baa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-0210))
+
 * Use parametrized carpets where appropriate ([#77287](https://github.com/CleverRaven/Cataclysm-DDA/pull/77287))
 * Removing and/or using some unused itemgroup IDs ([#77356](https://github.com/CleverRaven/Cataclysm-DDA/pull/77356))
 * Use corner symbols for vehicle Corner variations ([#77378](https://github.com/CleverRaven/Cataclysm-DDA/pull/77378))
@@ -151,11 +156,6 @@
 * fix zoo scenario spawn ([#77237](https://github.com/CleverRaven/Cataclysm-DDA/pull/77237))
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-24-2011 ([99dfc62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-2011))
-
 * AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
 * Fix NPCs stealing player default name ([#77268](https://github.com/CleverRaven/Cataclysm-DDA/pull/77268))
 * Adding a welding store ([#77279](https://github.com/CleverRaven/Cataclysm-DDA/pull/77279))
