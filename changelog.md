@@ -1,3 +1,4 @@
+* fix: satisfy -Werror=range-loop-construct ([#77302](https://github.com/CleverRaven/Cataclysm-DDA/pull/77302))
 * Rejecting some area threats near 'safe' locations during overmap generation ([#77276](https://github.com/CleverRaven/Cataclysm-DDA/pull/77276))
 * simple knife spear quest options ([#77335](https://github.com/CleverRaven/Cataclysm-DDA/pull/77335))
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes ([#77387](https://github.com/CleverRaven/Cataclysm-DDA/pull/77387))
@@ -168,7 +169,6 @@
 #### Cataclysm-DDA experimental build 2024-10-25-1449 ([6ae4cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-1449))
 
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
-* fix zoo scenario spawn ([#77237](https://github.com/CleverRaven/Cataclysm-DDA/pull/77237))
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
 * AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
