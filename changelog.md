@@ -1,3 +1,4 @@
+* add terminal punctuation to bulletin board examination message ([#77404](https://github.com/CleverRaven/Cataclysm-DDA/pull/77404))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 
 ---
@@ -171,7 +172,6 @@
 * Removes the hoodie pocket from cropped hoodies ([#77249](https://github.com/CleverRaven/Cataclysm-DDA/pull/77249))
 * Backport: Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug ([#77242](https://github.com/CleverRaven/Cataclysm-DDA/pull/77242))
 * Aftershock: Suit batteries ([#77254](https://github.com/CleverRaven/Cataclysm-DDA/pull/77254))
-* No free wiring in log walls ([#77203](https://github.com/CleverRaven/Cataclysm-DDA/pull/77203))
 * Don't spawn safe on top of ladder up at military base radio tower ([#77247](https://github.com/CleverRaven/Cataclysm-DDA/pull/77247))
 * [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
 * Fragile and Sturdy flags cannot be inherited ([#77256](https://github.com/CleverRaven/Cataclysm-DDA/pull/77256))

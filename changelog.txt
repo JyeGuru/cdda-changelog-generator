@@ -1,3 +1,4 @@
+* add terminal punctuation to bulletin board examination message (#77404)
 * [MoM] Fix Ehēcatl spelling (#77467)
 
 Cataclysm-DDA experimental build 2024-10-31-0437 (a0d6057)
@@ -105,7 +106,6 @@ Cataclysm-DDA experimental build 2024-10-25-1449 (6ae4cb0)
 * Removes the hoodie pocket from cropped hoodies (#77249)
 * Backport: Fix: weariness makes hauling faster instead of slower; set weariness tracker in debug (#77242)
 * Aftershock: Suit batteries (#77254)
-* No free wiring in log walls (#77203)
 * Don't spawn safe on top of ladder up at military base radio tower (#77247)
 * [Xedra Evolved] Lo Ra'ab (#77266)
 * Fragile and Sturdy flags cannot be inherited (#77256)
