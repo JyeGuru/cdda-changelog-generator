@@ -1,3 +1,4 @@
+* Small mapgen fix (#77469)
 
 Cataclysm-DDA experimental build 2024-10-31-0210 (b39baa0)
 * Use parametrized carpets where appropriate (#77287)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2024-10-24-2254 (12b4e6c)
 * Adjust Raw Butter recipes, Adds raw butter to recipes that use butter (#77245)
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 (#77206)
 * Decrease amount of spawns in cave (#77214)
-* Fix effect duration of techniques. (#77200)
 * Correct typo in the last COLOR.md update (#77201)
 * Backport 77159 Bump Android API level to 34 (#77204)
 * Minor house fixes (#77208)

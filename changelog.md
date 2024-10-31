@@ -1,3 +1,4 @@
+* Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
 
 ---
 
@@ -185,7 +186,6 @@
 * Adjust Raw Butter recipes, Adds raw butter to recipes that use butter ([#77245](https://github.com/CleverRaven/Cataclysm-DDA/pull/77245))
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
-* Fix effect duration of techniques. ([#77200](https://github.com/CleverRaven/Cataclysm-DDA/pull/77200))
 * Correct typo in the last COLOR.md update ([#77201](https://github.com/CleverRaven/Cataclysm-DDA/pull/77201))
 * Backport 77159 Bump Android API level to 34 ([#77204](https://github.com/CleverRaven/Cataclysm-DDA/pull/77204))
 * Minor house fixes ([#77208](https://github.com/CleverRaven/Cataclysm-DDA/pull/77208))
