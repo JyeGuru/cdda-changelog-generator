@@ -1,3 +1,9 @@
+* [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-10-31-0437 ([a0d6057](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-0437))
+
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
 
 ---
@@ -149,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-10-25-1449 ([6ae4cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-1449))
 
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-24-2254 ([12b4e6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-24-2254))
-
 * fix zoo scenario spawn ([#77237](https://github.com/CleverRaven/Cataclysm-DDA/pull/77237))
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
@@ -186,7 +187,6 @@
 * Adjust Raw Butter recipes, Adds raw butter to recipes that use butter ([#77245](https://github.com/CleverRaven/Cataclysm-DDA/pull/77245))
 * Remove STI 2011, P-3AT, PF-9, M714, Taurus Spectrum, ZPAP 85, .40 PPQ, .40 90-two, P230, ARX-160, CX4, Saiga 410 ([#77206](https://github.com/CleverRaven/Cataclysm-DDA/pull/77206))
 * Decrease amount of spawns in cave ([#77214](https://github.com/CleverRaven/Cataclysm-DDA/pull/77214))
-* Correct typo in the last COLOR.md update ([#77201](https://github.com/CleverRaven/Cataclysm-DDA/pull/77201))
 * Backport 77159 Bump Android API level to 34 ([#77204](https://github.com/CleverRaven/Cataclysm-DDA/pull/77204))
 * Minor house fixes ([#77208](https://github.com/CleverRaven/Cataclysm-DDA/pull/77208))
 * Fix the volume and mass of kiln_full and kiln_done that I missed in t… ([#77215](https://github.com/CleverRaven/Cataclysm-DDA/pull/77215))
