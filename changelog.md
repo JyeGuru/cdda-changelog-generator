@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.H release candidate 2024-11-01-0655 ([1e1dcd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-01-0655))
 
 * Backport #74075 Correctly display the cost to learn the proficiency ([#77497](https://github.com/CleverRaven/Cataclysm-DDA/pull/77497))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-01-0729 ([1e022d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-01-0729))
+
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
 * Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
 * [MoM] Update mutated animals to match vanilla changes ([#77431](https://github.com/CleverRaven/Cataclysm-DDA/pull/77431))
@@ -172,11 +177,6 @@
 * "all" option for distraction manager ([#77342](https://github.com/CleverRaven/Cataclysm-DDA/pull/77342))
 * Allow debug revealing any OM ([#77339](https://github.com/CleverRaven/Cataclysm-DDA/pull/77339))
 * Allow debug placing multiple terrain/specials of the same id without searching for them again ([#77343](https://github.com/CleverRaven/Cataclysm-DDA/pull/77343))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-26-0327 ([ca974a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-0327))
-
 * Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
 * fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
