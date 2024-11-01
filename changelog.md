@@ -1,3 +1,6 @@
+* [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
+* Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
+* [MoM] Update mutated animals to match vanilla changes ([#77431](https://github.com/CleverRaven/Cataclysm-DDA/pull/77431))
 
 ---
 
@@ -187,13 +190,10 @@
 * Add EOD suit to military areas ([#77271](https://github.com/CleverRaven/Cataclysm-DDA/pull/77271))
 * Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
 * Print message for failed prying attempt regardless of whether terrain/furniture has `breakable` defined ([#77251](https://github.com/CleverRaven/Cataclysm-DDA/pull/77251))
-* Removes the hoodie pocket from cropped hoodies ([#77249](https://github.com/CleverRaven/Cataclysm-DDA/pull/77249))
 * Aftershock: Suit batteries ([#77254](https://github.com/CleverRaven/Cataclysm-DDA/pull/77254))
-* Don't spawn safe on top of ladder up at military base radio tower ([#77247](https://github.com/CleverRaven/Cataclysm-DDA/pull/77247))
 * [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
 * Fragile and Sturdy flags cannot be inherited ([#77256](https://github.com/CleverRaven/Cataclysm-DDA/pull/77256))
 * [MoM] Feral psion updates with copy-from ([#77259](https://github.com/CleverRaven/Cataclysm-DDA/pull/77259))
 * [Xedra Evolved] Fix Eater's sixth sense trait ([#77260](https://github.com/CleverRaven/Cataclysm-DDA/pull/77260))
 * hide fullscreen option to emscripten builds ([#77270](https://github.com/CleverRaven/Cataclysm-DDA/pull/77270))
-* Forbid starting fires on water tiles ([#77250](https://github.com/CleverRaven/Cataclysm-DDA/pull/77250))
 * Aftershock: Remove swims flag from terrestrial creatures. ([#77257](https://github.com/CleverRaven/Cataclysm-DDA/pull/77257))
