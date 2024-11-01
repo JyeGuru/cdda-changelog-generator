@@ -174,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-10-26-0327 ([ca974a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-0327))
 
 * Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-25-2317 ([0d65968](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-25-2317))
-
 * fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
