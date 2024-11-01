@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-11-01-0655 ([1e1dcd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-01-0655))
+
+* Backport #74075 Correctly display the cost to learn the proficiency ([#77497](https://github.com/CleverRaven/Cataclysm-DDA/pull/77497))
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
 * Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
 * [MoM] Update mutated animals to match vanilla changes ([#77431](https://github.com/CleverRaven/Cataclysm-DDA/pull/77431))
@@ -150,11 +156,6 @@
 * wrap long text in the menu for choosing the type of faction camp to create ([#77326](https://github.com/CleverRaven/Cataclysm-DDA/pull/77326))
 * Fixed broken Android build due to missing FreeType library ([#77314](https://github.com/CleverRaven/Cataclysm-DDA/pull/77314))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-26-2200 ([1fdcf81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-26-2200))
-
 * Fix Android window size ([#77330](https://github.com/CleverRaven/Cataclysm-DDA/pull/77330))
 
 ---
@@ -189,7 +190,6 @@
 * Change electric blanket materials ([#77272](https://github.com/CleverRaven/Cataclysm-DDA/pull/77272))
 * Add EOD suit to military areas ([#77271](https://github.com/CleverRaven/Cataclysm-DDA/pull/77271))
 * Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
-* Print message for failed prying attempt regardless of whether terrain/furniture has `breakable` defined ([#77251](https://github.com/CleverRaven/Cataclysm-DDA/pull/77251))
 * Aftershock: Suit batteries ([#77254](https://github.com/CleverRaven/Cataclysm-DDA/pull/77254))
 * [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
 * Fragile and Sturdy flags cannot be inherited ([#77256](https://github.com/CleverRaven/Cataclysm-DDA/pull/77256))
