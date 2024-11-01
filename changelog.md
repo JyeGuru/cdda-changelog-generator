@@ -168,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2024-10-26-2012 ([2633215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-2012))
 
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-26-0601 ([303ea65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-0601))
-
 * Beaver audit ([#77283](https://github.com/CleverRaven/Cataclysm-DDA/pull/77283))
 * "all" option for distraction manager ([#77342](https://github.com/CleverRaven/Cataclysm-DDA/pull/77342))
 * Allow debug revealing any OM ([#77339](https://github.com/CleverRaven/Cataclysm-DDA/pull/77339))
