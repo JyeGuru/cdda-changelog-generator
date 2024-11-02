@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-02-1735 ([a7fc626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-1735))
+
+* Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-02-0909 ([55335a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0909))
 
 * rename debug nightvision trait for clarity and improve some other debug trait descriptions ([#77367](https://github.com/CleverRaven/Cataclysm-DDA/pull/77367))
@@ -171,7 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-10-29-1419 ([64914b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-1419))
 
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
-* [MoM/Magiclysm interaction] Synchronize anti-Stare powers, Thought Shield spell protects from telepathy ([#77277](https://github.com/CleverRaven/Cataclysm-DDA/pull/77277))
 * Fix CMake build after adding freetype ([#77360](https://github.com/CleverRaven/Cataclysm-DDA/pull/77360))
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
 
