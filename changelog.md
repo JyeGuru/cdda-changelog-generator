@@ -1,3 +1,4 @@
+* Some factions claim only one OMT ([#77428](https://github.com/CleverRaven/Cataclysm-DDA/pull/77428))
 
 ---
 
@@ -200,4 +201,3 @@
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
-* AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
