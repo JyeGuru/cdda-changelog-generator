@@ -1,3 +1,6 @@
+* Backport #73234 Not to use meat chunks in the smoking rack ([#77472](https://github.com/CleverRaven/Cataclysm-DDA/pull/77472))
+* [MoM] Remove monster inherent speed boosts, replace with actual powers that have to be used ([#77492](https://github.com/CleverRaven/Cataclysm-DDA/pull/77492))
+* [Magiclysm] Feral dabblers: add small chance ferals know a single spell ([#77509](https://github.com/CleverRaven/Cataclysm-DDA/pull/77509))
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
 
@@ -106,12 +109,6 @@
 #### Cataclysm-DDA experimental build 2024-10-31-0437 ([a0d6057](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-0437))
 
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-31-0210 ([b39baa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-0210))
-
-* Use parametrized carpets where appropriate ([#77287](https://github.com/CleverRaven/Cataclysm-DDA/pull/77287))
 * Removing and/or using some unused itemgroup IDs ([#77356](https://github.com/CleverRaven/Cataclysm-DDA/pull/77356))
 * Use corner symbols for vehicle Corner variations ([#77378](https://github.com/CleverRaven/Cataclysm-DDA/pull/77378))
 * [DinoMod] mountable and harnessable audit ([#77391](https://github.com/CleverRaven/Cataclysm-DDA/pull/77391))
@@ -195,7 +192,6 @@
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
 * Fix Android window size ([#77330](https://github.com/CleverRaven/Cataclysm-DDA/pull/77330))
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
-* Beaver audit ([#77283](https://github.com/CleverRaven/Cataclysm-DDA/pull/77283))
 * "all" option for distraction manager ([#77342](https://github.com/CleverRaven/Cataclysm-DDA/pull/77342))
 * Allow debug revealing any OM ([#77339](https://github.com/CleverRaven/Cataclysm-DDA/pull/77339))
 * Allow debug placing multiple terrain/specials of the same id without searching for them again ([#77343](https://github.com/CleverRaven/Cataclysm-DDA/pull/77343))
@@ -205,4 +201,3 @@
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
 * AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
-* Added imgui_freetype.cpp to MSVC project file to fix broken build. ([#77289](https://github.com/CleverRaven/Cataclysm-DDA/pull/77289))
