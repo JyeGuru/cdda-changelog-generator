@@ -1,3 +1,11 @@
+* [MoM] Update everglow matrix lighting recipes ([#77478](https://github.com/CleverRaven/Cataclysm-DDA/pull/77478))
+* Apparel in school itemgroups spawns ``UNDERSIZE`` ([#77480](https://github.com/CleverRaven/Cataclysm-DDA/pull/77480))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-11-02-0431 ([17ce896](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-02-0431))
+
+* Backport #73386 "Fix obtain cost when reloading, and a typo." ([#77496](https://github.com/CleverRaven/Cataclysm-DDA/pull/77496))
 * Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
 * fix ALARMED flag ([#77493](https://github.com/CleverRaven/Cataclysm-DDA/pull/77493))
 * Fix shelter and burning building starts ([#77483](https://github.com/CleverRaven/Cataclysm-DDA/pull/77483))
@@ -190,5 +198,4 @@
 * Add EOD suit to military areas ([#77271](https://github.com/CleverRaven/Cataclysm-DDA/pull/77271))
 * Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
 * [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
-* [Xedra Evolved] Fix Eater's sixth sense trait ([#77260](https://github.com/CleverRaven/Cataclysm-DDA/pull/77260))
 * hide fullscreen option to emscripten builds ([#77270](https://github.com/CleverRaven/Cataclysm-DDA/pull/77270))
