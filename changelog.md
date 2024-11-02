@@ -1,3 +1,5 @@
+* Melee weapon item groups for random NPCs ([#77490](https://github.com/CleverRaven/Cataclysm-DDA/pull/77490))
+* Update fence posts and bollards ([#77539](https://github.com/CleverRaven/Cataclysm-DDA/pull/77539))
 
 ---
 
@@ -123,12 +125,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-10-30-1821 ([a61a138](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-30-1821))
-
-* migo sideplates ([#77304](https://github.com/CleverRaven/Cataclysm-DDA/pull/77304))
-
----
-
 #### Cataclysm-DDA 0.H release candidate 2024-10-30-1555 ([9cdd625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-30-1555))
 
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
@@ -200,4 +196,3 @@
 * Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
 * fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
-* fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))

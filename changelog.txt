@@ -1,3 +1,5 @@
+* Melee weapon item groups for random NPCs (#77490)
+* Update fence posts and bollards (#77539)
 
 Cataclysm-DDA experimental build 2024-11-02-2034 (3442f08)
 * Fix typo and an incorrect comma in XE Shredder Shotgun (#77512)
@@ -82,9 +84,6 @@ Cataclysm-DDA experimental build 2024-10-31-0437 (a0d6057)
 * [DinoMod] mountable and harnessable audit (#77391)
 * Modify random NPC starting equipment based on time passed (#77334)
 
-Cataclysm-DDA experimental build 2024-10-30-1821 (a61a138)
-* migo sideplates (#77304)
-
 Cataclysm-DDA 0.H release candidate 2024-10-30-1555 (9cdd625)
 * Backport #77029 Fix sling staff (#77427)
 * Armor order refactoring (#77425)
@@ -134,4 +133,3 @@ Cataclysm-DDA experimental build 2024-10-29-1419 (64914b4)
 * Fix edges in microlabs (#77345)
 * fix 5 round shotgun magazine having 20 rounds (#77338)
 * fix recent regression of #77191 (#77317)
-* fix 76710 (#77303)
