@@ -1,3 +1,9 @@
+* no more duplicate teamster quests ([#77358](https://github.com/CleverRaven/Cataclysm-DDA/pull/77358))
+* remove unused variable ([#77353](https://github.com/CleverRaven/Cataclysm-DDA/pull/77353))
+* less usage of generic rewards: Refugee Center ([#77454](https://github.com/CleverRaven/Cataclysm-DDA/pull/77454))
+* debug: check for SIGINT during debug prompt ([#77457](https://github.com/CleverRaven/Cataclysm-DDA/pull/77457))
+* Add new no-lid variant of large clay pot, make it usable for the slow sand water filter ([#77463](https://github.com/CleverRaven/Cataclysm-DDA/pull/77463))
+* Fix profession parser ([#77477](https://github.com/CleverRaven/Cataclysm-DDA/pull/77477))
 * [MoM] Update everglow matrix lighting recipes ([#77478](https://github.com/CleverRaven/Cataclysm-DDA/pull/77478))
 * Apparel in school itemgroups spawns ``UNDERSIZE`` ([#77480](https://github.com/CleverRaven/Cataclysm-DDA/pull/77480))
 
@@ -85,7 +91,6 @@
 * Use corner symbols for vehicle Corner variations ([#77378](https://github.com/CleverRaven/Cataclysm-DDA/pull/77378))
 * [DinoMod] mountable and harnessable audit ([#77391](https://github.com/CleverRaven/Cataclysm-DDA/pull/77391))
 * Modify random NPC starting equipment based on time passed ([#77334](https://github.com/CleverRaven/Cataclysm-DDA/pull/77334))
-* [Xedra Evolved] More Lilin powers ([#77269](https://github.com/CleverRaven/Cataclysm-DDA/pull/77269))
 
 ---
 
@@ -191,11 +196,6 @@
 * Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))
 * AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
-* Fix NPCs stealing player default name ([#77268](https://github.com/CleverRaven/Cataclysm-DDA/pull/77268))
 * Adding a welding store ([#77279](https://github.com/CleverRaven/Cataclysm-DDA/pull/77279))
 * Added imgui_freetype.cpp to MSVC project file to fix broken build. ([#77289](https://github.com/CleverRaven/Cataclysm-DDA/pull/77289))
-* Change electric blanket materials ([#77272](https://github.com/CleverRaven/Cataclysm-DDA/pull/77272))
-* Add EOD suit to military areas ([#77271](https://github.com/CleverRaven/Cataclysm-DDA/pull/77271))
 * Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
-* [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
-* hide fullscreen option to emscripten builds ([#77270](https://github.com/CleverRaven/Cataclysm-DDA/pull/77270))
