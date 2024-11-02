@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-11-02-1824 ([2e031cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-02-1824))
+
 * Backport #73234 Not to use meat chunks in the smoking rack ([#77472](https://github.com/CleverRaven/Cataclysm-DDA/pull/77472))
 * [MoM] Remove monster inherent speed boosts, replace with actual powers that have to be used ([#77492](https://github.com/CleverRaven/Cataclysm-DDA/pull/77492))
 * [Magiclysm] Feral dabblers: add small chance ferals know a single spell ([#77509](https://github.com/CleverRaven/Cataclysm-DDA/pull/77509))
@@ -178,11 +183,6 @@
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
 * Fix CMake build after adding freetype ([#77360](https://github.com/CleverRaven/Cataclysm-DDA/pull/77360))
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-28-0543 ([3c2684e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-28-0543))
-
 * Heating elements no longer drop from smashing the fume hood ([#77388](https://github.com/CleverRaven/Cataclysm-DDA/pull/77388))
 * Fix cotton patch being unusable to stop bleeding ([#77354](https://github.com/CleverRaven/Cataclysm-DDA/pull/77354))
 * Routine i18n updates on 26 October 2024 ([#77348](https://github.com/CleverRaven/Cataclysm-DDA/pull/77348))
