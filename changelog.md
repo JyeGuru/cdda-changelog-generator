@@ -1,3 +1,5 @@
+* Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
+* [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
 * Some factions claim only one OMT ([#77428](https://github.com/CleverRaven/Cataclysm-DDA/pull/77428))
 
 ---
@@ -83,12 +85,6 @@
 #### Cataclysm-DDA experimental build 2024-10-31-1853 ([6d904d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-1853))
 
 * [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-31-0712 ([47225ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-0712))
-
-* fix: satisfy -Werror=range-loop-construct ([#77302](https://github.com/CleverRaven/Cataclysm-DDA/pull/77302))
 * simple knife spear quest options ([#77335](https://github.com/CleverRaven/Cataclysm-DDA/pull/77335))
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes ([#77387](https://github.com/CleverRaven/Cataclysm-DDA/pull/77387))
 * less NPC conversation option that go only into itself ([#77305](https://github.com/CleverRaven/Cataclysm-DDA/pull/77305))
@@ -199,5 +195,4 @@
 * Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
 * fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
 * fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
-* Tutorial bugfixes and tweaks ([#77294](https://github.com/CleverRaven/Cataclysm-DDA/pull/77294))
 * fix 76710 ([#77303](https://github.com/CleverRaven/Cataclysm-DDA/pull/77303))

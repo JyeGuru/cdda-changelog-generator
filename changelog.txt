@@ -1,3 +1,5 @@
+* Fix typo and an incorrect comma in XE Shredder Shotgun (#77512)
+* [XE] fix two bugs about learning new blood gifts (#77533)
 * Some factions claim only one OMT (#77428)
 
 Cataclysm-DDA 0.H release candidate 2024-11-02-1824 (2e031cf)
@@ -50,9 +52,6 @@ Cataclysm-DDA experimental build 2024-11-01-0145 (6b0a666)
 
 Cataclysm-DDA experimental build 2024-10-31-1853 (6d904d9)
 * [DinoMod] eggs directly into hatchlings (#77465)
-
-Cataclysm-DDA experimental build 2024-10-31-0712 (47225ca)
-* fix: satisfy -Werror=range-loop-construct (#77302)
 * simple knife spear quest options (#77335)
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes (#77387)
 * less NPC conversation option that go only into itself (#77305)
@@ -133,5 +132,4 @@ Cataclysm-DDA experimental build 2024-10-29-1419 (64914b4)
 * Fix edges in microlabs (#77345)
 * fix 5 round shotgun magazine having 20 rounds (#77338)
 * fix recent regression of #77191 (#77317)
-* Tutorial bugfixes and tweaks (#77294)
 * fix 76710 (#77303)
