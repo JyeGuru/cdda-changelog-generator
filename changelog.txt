@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-02-0909 (55335a2)
 * rename debug nightvision trait for clarity and improve some other debug trait descriptions (#77367)
 
 Cataclysm-DDA 0.H release candidate 2024-11-02-0831 (0492a40)

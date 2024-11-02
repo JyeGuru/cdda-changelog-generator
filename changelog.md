@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-02-0909 ([55335a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0909))
+
 * rename debug nightvision trait for clarity and improve some other debug trait descriptions ([#77367](https://github.com/CleverRaven/Cataclysm-DDA/pull/77367))
 
 ---
