@@ -1,4 +1,9 @@
 * rename debug nightvision trait for clarity and improve some other debug trait descriptions ([#77367](https://github.com/CleverRaven/Cataclysm-DDA/pull/77367))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-11-02-0831 ([0492a40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-02-0831))
+
 * Backport #76966 ([#77407](https://github.com/CleverRaven/Cataclysm-DDA/pull/77407))
 * less usage of generic rewards: Tacoma ([#77453](https://github.com/CleverRaven/Cataclysm-DDA/pull/77453))
 
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-10-28-0543 ([3c2684e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-28-0543))
 
 * Heating elements no longer drop from smashing the fume hood ([#77388](https://github.com/CleverRaven/Cataclysm-DDA/pull/77388))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-27-0438 ([d515611](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-27-0438))
-
 * Fix cotton patch being unusable to stop bleeding ([#77354](https://github.com/CleverRaven/Cataclysm-DDA/pull/77354))
 * Routine i18n updates on 26 October 2024 ([#77348](https://github.com/CleverRaven/Cataclysm-DDA/pull/77348))
 * [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
