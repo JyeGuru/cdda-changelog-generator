@@ -1,6 +1,8 @@
 * rename debug nightvision trait for clarity and improve some other debug trait descriptions (#77367)
 * Backport #76966 (#77407)
 * less usage of generic rewards: Tacoma (#77453)
+
+Cataclysm-DDA experimental build 2024-11-02-0556 (46ce09b)
 * no more duplicate teamster quests (#77358)
 * remove unused variable (#77353)
 * less usage of generic rewards: Refugee Center (#77454)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2024-10-27-0438 (d515611)
 * Fix cotton patch being unusable to stop bleeding (#77354)
 * Routine i18n updates on 26 October 2024 (#77348)
 * [ Aftershock ] Make Flesh Golem heart a mission item (#77351)
-
-Cataclysm-DDA experimental build 2024-10-27-0214 (1864618)
 * wrap long text in the menu for choosing the type of faction camp to create (#77326)
 * Fixed broken Android build due to missing FreeType library (#77314)
 * Add Vitamin C Supplements (#77363)

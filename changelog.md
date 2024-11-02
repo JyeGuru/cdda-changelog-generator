@@ -1,6 +1,11 @@
 * rename debug nightvision trait for clarity and improve some other debug trait descriptions ([#77367](https://github.com/CleverRaven/Cataclysm-DDA/pull/77367))
 * Backport #76966 ([#77407](https://github.com/CleverRaven/Cataclysm-DDA/pull/77407))
 * less usage of generic rewards: Tacoma ([#77453](https://github.com/CleverRaven/Cataclysm-DDA/pull/77453))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-02-0556 ([46ce09b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0556))
+
 * no more duplicate teamster quests ([#77358](https://github.com/CleverRaven/Cataclysm-DDA/pull/77358))
 * remove unused variable ([#77353](https://github.com/CleverRaven/Cataclysm-DDA/pull/77353))
 * less usage of generic rewards: Refugee Center ([#77454](https://github.com/CleverRaven/Cataclysm-DDA/pull/77454))
@@ -178,11 +183,6 @@
 * Fix cotton patch being unusable to stop bleeding ([#77354](https://github.com/CleverRaven/Cataclysm-DDA/pull/77354))
 * Routine i18n updates on 26 October 2024 ([#77348](https://github.com/CleverRaven/Cataclysm-DDA/pull/77348))
 * [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-27-0214 ([1864618](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-27-0214))
-
 * wrap long text in the menu for choosing the type of faction camp to create ([#77326](https://github.com/CleverRaven/Cataclysm-DDA/pull/77326))
 * Fixed broken Android build due to missing FreeType library ([#77314](https://github.com/CleverRaven/Cataclysm-DDA/pull/77314))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
