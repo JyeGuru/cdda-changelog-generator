@@ -42,6 +42,7 @@ Cataclysm-DDA experimental build 2024-10-31-1853 (6d904d9)
 
 Cataclysm-DDA experimental build 2024-10-31-0712 (47225ca)
 * fix: satisfy -Werror=range-loop-construct (#77302)
+* Rejecting some area threats near 'safe' locations during overmap generation (#77276)
 * simple knife spear quest options (#77335)
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes (#77387)
 * less NPC conversation option that go only into itself (#77305)
