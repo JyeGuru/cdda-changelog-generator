@@ -1,3 +1,5 @@
+* Fix two typos in Rifles skill description (#77526)
+* Only update PC location if it's inbounds (#77528)
 
 Cataclysm-DDA experimental build 2024-11-02-1735 (a7fc626)
 * Balance/fix ranged weapon selection for random NPCs (#77510)
@@ -134,5 +136,4 @@ Cataclysm-DDA experimental build 2024-10-28-0543 (3c2684e)
 * Tutorial bugfixes and tweaks (#77294)
 * fix 76710 (#77303)
 * AFS Titanium Density (#77292)
-* Adding a welding store (#77279)
 * Added imgui_freetype.cpp to MSVC project file to fix broken build. (#77289)
