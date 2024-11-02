@@ -173,11 +173,6 @@
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
 * [MoM/Magiclysm interaction] Synchronize anti-Stare powers, Thought Shield spell protects from telepathy ([#77277](https://github.com/CleverRaven/Cataclysm-DDA/pull/77277))
 * Fix CMake build after adding freetype ([#77360](https://github.com/CleverRaven/Cataclysm-DDA/pull/77360))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-28-0634 ([ba07ee6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-28-0634))
-
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
 
 ---

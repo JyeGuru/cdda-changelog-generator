@@ -110,8 +110,6 @@ Cataclysm-DDA experimental build 2024-10-29-1419 (64914b4)
 * Factions don't mind the player smashing zombie corpses (#77426)
 * [MoM/Magiclysm interaction] Synchronize anti-Stare powers, Thought Shield spell protects from telepathy (#77277)
 * Fix CMake build after adding freetype (#77360)
-
-Cataclysm-DDA 0.H release candidate 2024-10-28-0634 (ba07ee6)
 * Backport 77354 Fix cotton patch being unusable to stop bleeding (#77366)
 
 Cataclysm-DDA experimental build 2024-10-28-0543 (3c2684e)
