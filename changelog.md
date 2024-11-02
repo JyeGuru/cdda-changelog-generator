@@ -1,3 +1,12 @@
+* fix ALARMED flag ([#77493](https://github.com/CleverRaven/Cataclysm-DDA/pull/77493))
+* Fix shelter and burning building starts ([#77483](https://github.com/CleverRaven/Cataclysm-DDA/pull/77483))
+* Parametrize all walls: Part 1 ([#77459](https://github.com/CleverRaven/Cataclysm-DDA/pull/77459))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-02-0225 ([199ca4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0225))
+
+* [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies ([#77513](https://github.com/CleverRaven/Cataclysm-DDA/pull/77513))
 
 ---
 
@@ -162,11 +171,6 @@
 * Fixed broken Android build due to missing FreeType library ([#77314](https://github.com/CleverRaven/Cataclysm-DDA/pull/77314))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
 * Fix Android window size ([#77330](https://github.com/CleverRaven/Cataclysm-DDA/pull/77330))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-26-2012 ([2633215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-26-2012))
-
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
 * Beaver audit ([#77283](https://github.com/CleverRaven/Cataclysm-DDA/pull/77283))
 * "all" option for distraction manager ([#77342](https://github.com/CleverRaven/Cataclysm-DDA/pull/77342))
@@ -181,14 +185,10 @@
 * Fix NPCs stealing player default name ([#77268](https://github.com/CleverRaven/Cataclysm-DDA/pull/77268))
 * Adding a welding store ([#77279](https://github.com/CleverRaven/Cataclysm-DDA/pull/77279))
 * Added imgui_freetype.cpp to MSVC project file to fix broken build. ([#77289](https://github.com/CleverRaven/Cataclysm-DDA/pull/77289))
-* Allow setting duration for all types of prying, not only for prying nails ([#77252](https://github.com/CleverRaven/Cataclysm-DDA/pull/77252))
 * Change electric blanket materials ([#77272](https://github.com/CleverRaven/Cataclysm-DDA/pull/77272))
 * Add EOD suit to military areas ([#77271](https://github.com/CleverRaven/Cataclysm-DDA/pull/77271))
 * Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
-* Aftershock: Suit batteries ([#77254](https://github.com/CleverRaven/Cataclysm-DDA/pull/77254))
 * [Xedra Evolved] Lo Ra'ab ([#77266](https://github.com/CleverRaven/Cataclysm-DDA/pull/77266))
-* Fragile and Sturdy flags cannot be inherited ([#77256](https://github.com/CleverRaven/Cataclysm-DDA/pull/77256))
 * [MoM] Feral psion updates with copy-from ([#77259](https://github.com/CleverRaven/Cataclysm-DDA/pull/77259))
 * [Xedra Evolved] Fix Eater's sixth sense trait ([#77260](https://github.com/CleverRaven/Cataclysm-DDA/pull/77260))
 * hide fullscreen option to emscripten builds ([#77270](https://github.com/CleverRaven/Cataclysm-DDA/pull/77270))
-* Aftershock: Remove swims flag from terrestrial creatures. ([#77257](https://github.com/CleverRaven/Cataclysm-DDA/pull/77257))
