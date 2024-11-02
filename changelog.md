@@ -1,3 +1,5 @@
+* Backport #76966 ([#77407](https://github.com/CleverRaven/Cataclysm-DDA/pull/77407))
+* less usage of generic rewards: Tacoma ([#77453](https://github.com/CleverRaven/Cataclysm-DDA/pull/77453))
 * no more duplicate teamster quests ([#77358](https://github.com/CleverRaven/Cataclysm-DDA/pull/77358))
 * remove unused variable ([#77353](https://github.com/CleverRaven/Cataclysm-DDA/pull/77353))
 * less usage of generic rewards: Refugee Center ([#77454](https://github.com/CleverRaven/Cataclysm-DDA/pull/77454))
@@ -198,4 +200,3 @@
 * AFS Titanium Density ([#77292](https://github.com/CleverRaven/Cataclysm-DDA/pull/77292))
 * Adding a welding store ([#77279](https://github.com/CleverRaven/Cataclysm-DDA/pull/77279))
 * Added imgui_freetype.cpp to MSVC project file to fix broken build. ([#77289](https://github.com/CleverRaven/Cataclysm-DDA/pull/77289))
-* Add a few palettes for more general parameter use ([#77273](https://github.com/CleverRaven/Cataclysm-DDA/pull/77273))
