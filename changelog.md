@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-02-2034 ([3442f08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-2034))
+
 * Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
 * Some factions claim only one OMT ([#77428](https://github.com/CleverRaven/Cataclysm-DDA/pull/77428))
