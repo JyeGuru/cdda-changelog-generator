@@ -1,3 +1,5 @@
+* Don't apply parkour bonus when moving prone ([#77557](https://github.com/CleverRaven/Cataclysm-DDA/pull/77557))
+* Nerf several vitamin-based supplement prices ([#77555](https://github.com/CleverRaven/Cataclysm-DDA/pull/77555))
 
 ---
 
@@ -151,7 +153,6 @@
 * Removing and/or using some unused itemgroup IDs ([#77356](https://github.com/CleverRaven/Cataclysm-DDA/pull/77356))
 * Use corner symbols for vehicle Corner variations ([#77378](https://github.com/CleverRaven/Cataclysm-DDA/pull/77378))
 * [DinoMod] mountable and harnessable audit ([#77391](https://github.com/CleverRaven/Cataclysm-DDA/pull/77391))
-* Modify random NPC starting equipment based on time passed ([#77334](https://github.com/CleverRaven/Cataclysm-DDA/pull/77334))
 
 ---
 

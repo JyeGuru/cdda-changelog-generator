@@ -1,3 +1,5 @@
+* Don't apply parkour bonus when moving prone (#77557)
+* Nerf several vitamin-based supplement prices (#77555)
 
 Cataclysm-DDA experimental build 2024-11-03-1954 (fd79db8)
 * Bail out of choosing activity for multiple NPCs if none chosen (#77536)
@@ -97,7 +99,6 @@ Cataclysm-DDA experimental build 2024-10-31-0437 (a0d6057)
 * Removing and/or using some unused itemgroup IDs (#77356)
 * Use corner symbols for vehicle Corner variations (#77378)
 * [DinoMod] mountable and harnessable audit (#77391)
-* Modify random NPC starting equipment based on time passed (#77334)
 
 Cataclysm-DDA 0.H release candidate 2024-10-30-1555 (9cdd625)
 * Backport #77029 Fix sling staff (#77427)
