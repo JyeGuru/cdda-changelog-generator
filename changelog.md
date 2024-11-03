@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-03-0844 ([9f98a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0844))
+
 * Remove furniture/terrain legacy alias code and JSON ([#77523](https://github.com/CleverRaven/Cataclysm-DDA/pull/77523))
 
 ---
@@ -174,11 +179,6 @@
 * [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island ([#77414](https://github.com/CleverRaven/Cataclysm-DDA/pull/77414))
 * Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
 * Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-29-2004 ([f909df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-2004))
-
 * Lever action rifles ([#77409](https://github.com/CleverRaven/Cataclysm-DDA/pull/77409))
 * Fix recent clang-tidy errors. ([#77420](https://github.com/CleverRaven/Cataclysm-DDA/pull/77420))
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
