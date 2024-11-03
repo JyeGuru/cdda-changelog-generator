@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-03-1954 ([fd79db8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-1954))
+
 * Bail out of choosing activity for multiple NPCs if none chosen ([#77536](https://github.com/CleverRaven/Cataclysm-DDA/pull/77536))
 
 ---
@@ -164,11 +169,6 @@
 * Mutations can have a custom activation message ([#77419](https://github.com/CleverRaven/Cataclysm-DDA/pull/77419))
 * Apply copy-from to mod scenarios ([#77417](https://github.com/CleverRaven/Cataclysm-DDA/pull/77417))
 * Feral Agent fix and loot update ([#77421](https://github.com/CleverRaven/Cataclysm-DDA/pull/77421))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-30-0120 ([af9bc7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-30-0120))
-
 * Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
 * Misc gun fixes ([#77411](https://github.com/CleverRaven/Cataclysm-DDA/pull/77411))
 * [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island ([#77414](https://github.com/CleverRaven/Cataclysm-DDA/pull/77414))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-03-1954 (fd79db8)
 * Bail out of choosing activity for multiple NPCs if none chosen (#77536)
 
 Cataclysm-DDA experimental build 2024-11-03-0844 (9f98a02)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2024-10-30-1526 (aad7acc)
 * Mutations can have a custom activation message (#77419)
 * Apply copy-from to mod scenarios (#77417)
 * Feral Agent fix and loot update (#77421)
-
-Cataclysm-DDA experimental build 2024-10-30-0120 (af9bc7f)
 * Fix flatlander not using special attack (#77435)
 * Misc gun fixes (#77411)
 * [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island (#77414)
