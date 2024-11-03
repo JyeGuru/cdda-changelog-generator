@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-03-0005 (70820f5)
 * Melee weapon item groups for random NPCs (#77490)
 * Update fence posts and bollards (#77539)
 
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2024-10-30-0120 (af9bc7f)
 Cataclysm-DDA experimental build 2024-10-29-2253 (1e44a5c)
 * [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island (#77414)
 * Add myself to comment-commands.yml (#77438)
-
-Cataclysm-DDA 0.H release candidate 2024-10-29-1914 (30ea495)
 * Backport #73444 - Not to try to set charges for item without charge. (#77424)
 
 Cataclysm-DDA experimental build 2024-10-29-2004 (f909df9)
