@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-03-0302 ([1f0daba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0302))
+
+* Refactoring Hub01's prototype menu ([#77471](https://github.com/CleverRaven/Cataclysm-DDA/pull/77471))
+* NO_I18N for base game ([#77498](https://github.com/CleverRaven/Cataclysm-DDA/pull/77498))
+* Actually stop bleeding with bandages ([#77537](https://github.com/CleverRaven/Cataclysm-DDA/pull/77537))
+* Distribute faction camp food from vehicle cargo zone ([#77540](https://github.com/CleverRaven/Cataclysm-DDA/pull/77540))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-03-0005 ([70820f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0005))
 
 * Melee weapon item groups for random NPCs ([#77490](https://github.com/CleverRaven/Cataclysm-DDA/pull/77490))
@@ -99,7 +108,6 @@
 * [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
 * simple knife spear quest options ([#77335](https://github.com/CleverRaven/Cataclysm-DDA/pull/77335))
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes ([#77387](https://github.com/CleverRaven/Cataclysm-DDA/pull/77387))
-* less NPC conversation option that go only into itself ([#77305](https://github.com/CleverRaven/Cataclysm-DDA/pull/77305))
 * magus.json description change for the Slow spell ([#77392](https://github.com/CleverRaven/Cataclysm-DDA/pull/77392))
 * fix two supressors in m4_cqbr ([#77389](https://github.com/CleverRaven/Cataclysm-DDA/pull/77389))
 * Flush debug log writes immediately ([#77381](https://github.com/CleverRaven/Cataclysm-DDA/pull/77381))
@@ -173,11 +181,6 @@
 * Fix recent clang-tidy errors. ([#77420](https://github.com/CleverRaven/Cataclysm-DDA/pull/77420))
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-29-1419 ([64914b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-1419))
-
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
 * Fix CMake build after adding freetype ([#77360](https://github.com/CleverRaven/Cataclysm-DDA/pull/77360))
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
@@ -186,7 +189,6 @@
 * Routine i18n updates on 26 October 2024 ([#77348](https://github.com/CleverRaven/Cataclysm-DDA/pull/77348))
 * [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
 * wrap long text in the menu for choosing the type of faction camp to create ([#77326](https://github.com/CleverRaven/Cataclysm-DDA/pull/77326))
-* Fixed broken Android build due to missing FreeType library ([#77314](https://github.com/CleverRaven/Cataclysm-DDA/pull/77314))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
 * Fix Android window size ([#77330](https://github.com/CleverRaven/Cataclysm-DDA/pull/77330))
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
@@ -195,4 +197,3 @@
 * Allow debug placing multiple terrain/specials of the same id without searching for them again ([#77343](https://github.com/CleverRaven/Cataclysm-DDA/pull/77343))
 * Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
 * fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
-* fix recent regression of #77191 ([#77317](https://github.com/CleverRaven/Cataclysm-DDA/pull/77317))
