@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-03-2221 ([6b98896](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-2221))
+
 * Don't apply parkour bonus when moving prone ([#77557](https://github.com/CleverRaven/Cataclysm-DDA/pull/77557))
 * Nerf several vitamin-based supplement prices ([#77555](https://github.com/CleverRaven/Cataclysm-DDA/pull/77555))
 
@@ -153,11 +158,6 @@
 * Removing and/or using some unused itemgroup IDs ([#77356](https://github.com/CleverRaven/Cataclysm-DDA/pull/77356))
 * Use corner symbols for vehicle Corner variations ([#77378](https://github.com/CleverRaven/Cataclysm-DDA/pull/77378))
 * [DinoMod] mountable and harnessable audit ([#77391](https://github.com/CleverRaven/Cataclysm-DDA/pull/77391))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-10-30-1555 ([9cdd625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-10-30-1555))
-
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
 * Armor order refactoring ([#77425](https://github.com/CleverRaven/Cataclysm-DDA/pull/77425))
 
