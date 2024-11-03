@@ -1,3 +1,7 @@
+* Remove furniture/terrain legacy alias code and JSON (#77523)
+
+Cataclysm-DDA experimental build 2024-11-03-0625 (9ed75c9)
+* [Magiclysm] Add a trait that prevents magical spellcasting (#77543)
 
 Cataclysm-DDA experimental build 2024-11-03-0302 (1f0daba)
 * Refactoring Hub01's prototype menu (#77471)
@@ -113,8 +117,6 @@ Cataclysm-DDA experimental build 2024-10-29-2253 (1e44a5c)
 
 Cataclysm-DDA experimental build 2024-10-29-2004 (f909df9)
 * Lever action rifles (#77409)
-
-Cataclysm-DDA experimental build 2024-10-29-1635 (0d9cbd1)
 * Fix recent clang-tidy errors. (#77420)
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions (#77401)
 * [Xedra Evolve] Add Ruach counter to sidebars (#77422)
@@ -125,9 +127,7 @@ Cataclysm-DDA experimental build 2024-10-29-1635 (0d9cbd1)
 * Fix cotton patch being unusable to stop bleeding (#77354)
 * Routine i18n updates on 26 October 2024 (#77348)
 * [ Aftershock ] Make Flesh Golem heart a mission item (#77351)
-* wrap long text in the menu for choosing the type of faction camp to create (#77326)
 * Add Vitamin C Supplements (#77363)
-* Fix Android window size (#77330)
 * [Innawood] Makes electronics progressable again again (#77352)
 * "all" option for distraction manager (#77342)
 * Allow debug revealing any OM (#77339)

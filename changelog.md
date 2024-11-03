@@ -1,3 +1,10 @@
+* Remove furniture/terrain legacy alias code and JSON ([#77523](https://github.com/CleverRaven/Cataclysm-DDA/pull/77523))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-03-0625 ([9ed75c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0625))
+
+* [Magiclysm] Add a trait that prevents magical spellcasting ([#77543](https://github.com/CleverRaven/Cataclysm-DDA/pull/77543))
 
 ---
 
@@ -173,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-10-29-2004 ([f909df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-2004))
 
 * Lever action rifles ([#77409](https://github.com/CleverRaven/Cataclysm-DDA/pull/77409))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-29-1635 ([0d9cbd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-1635))
-
 * Fix recent clang-tidy errors. ([#77420](https://github.com/CleverRaven/Cataclysm-DDA/pull/77420))
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
@@ -188,9 +190,7 @@
 * Fix cotton patch being unusable to stop bleeding ([#77354](https://github.com/CleverRaven/Cataclysm-DDA/pull/77354))
 * Routine i18n updates on 26 October 2024 ([#77348](https://github.com/CleverRaven/Cataclysm-DDA/pull/77348))
 * [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
-* wrap long text in the menu for choosing the type of faction camp to create ([#77326](https://github.com/CleverRaven/Cataclysm-DDA/pull/77326))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
-* Fix Android window size ([#77330](https://github.com/CleverRaven/Cataclysm-DDA/pull/77330))
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
 * "all" option for distraction manager ([#77342](https://github.com/CleverRaven/Cataclysm-DDA/pull/77342))
 * Allow debug revealing any OM ([#77339](https://github.com/CleverRaven/Cataclysm-DDA/pull/77339))
