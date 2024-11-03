@@ -1,3 +1,4 @@
+* Bail out of choosing activity for multiple NPCs if none chosen ([#77536](https://github.com/CleverRaven/Cataclysm-DDA/pull/77536))
 
 ---
 
@@ -128,7 +129,6 @@
 * Allow any grade of steel for the metal axe head ([#77364](https://github.com/CleverRaven/Cataclysm-DDA/pull/77364))
 * eoc: clean up run_eocs ([#77359](https://github.com/CleverRaven/Cataclysm-DDA/pull/77359))
 * Remove Calcium from Rare Drugs ([#77349](https://github.com/CleverRaven/Cataclysm-DDA/pull/77349))
-* Refugee center cleanups ([#77331](https://github.com/CleverRaven/Cataclysm-DDA/pull/77331))
 * Stop 20x Melatonin Spawns ([#77347](https://github.com/CleverRaven/Cataclysm-DDA/pull/77347))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
@@ -171,11 +171,6 @@
 
 * Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
 * Misc gun fixes ([#77411](https://github.com/CleverRaven/Cataclysm-DDA/pull/77411))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-29-2253 ([1e44a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-29-2253))
-
 * [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island ([#77414](https://github.com/CleverRaven/Cataclysm-DDA/pull/77414))
 * Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
 * Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
