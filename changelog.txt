@@ -1,3 +1,4 @@
+* [Xedra Evolved/Innawood] Remove modern items from XE spawns Innawood, allow starting with XE-specific scenarios (#77546)
 
 Cataclysm-DDA experimental build 2024-11-05-0847 (cbe022d)
 * [ Xedra Evolved ] Feral Agent Variety (#77399)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2024-10-31-0437 (a0d6057)
 * [ Aftershock ] Make Flesh Golem heart a mission item (#77351)
 * Add Vitamin C Supplements (#77363)
 * [Innawood] Makes electronics progressable again again (#77352)
-* Fix edges in microlabs (#77345)

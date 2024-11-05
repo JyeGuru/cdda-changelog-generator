@@ -1,3 +1,4 @@
+* [Xedra Evolved/Innawood] Remove modern items from XE spawns Innawood, allow starting with XE-specific scenarios ([#77546](https://github.com/CleverRaven/Cataclysm-DDA/pull/77546))
 
 ---
 
@@ -202,4 +203,3 @@
 * [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
-* Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
