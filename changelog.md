@@ -1,3 +1,11 @@
+* remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
+* Shift towards making the tutorial work as a mod behind the scenes ([#77455](https://github.com/CleverRaven/Cataclysm-DDA/pull/77455))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-05-0400 ([c878dbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-0400))
+
+* Add interface to set all companion job priorities at once ([#77573](https://github.com/CleverRaven/Cataclysm-DDA/pull/77573))
 
 ---
 
@@ -131,7 +139,6 @@
 #### Cataclysm-DDA experimental build 2024-10-31-1853 ([6d904d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-1853))
 
 * [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
-* simple knife spear quest options ([#77335](https://github.com/CleverRaven/Cataclysm-DDA/pull/77335))
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes ([#77387](https://github.com/CleverRaven/Cataclysm-DDA/pull/77387))
 * magus.json description change for the Slow spell ([#77392](https://github.com/CleverRaven/Cataclysm-DDA/pull/77392))
 * fix two supressors in m4_cqbr ([#77389](https://github.com/CleverRaven/Cataclysm-DDA/pull/77389))
@@ -189,7 +196,5 @@
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
 * "all" option for distraction manager ([#77342](https://github.com/CleverRaven/Cataclysm-DDA/pull/77342))
-* Allow debug revealing any OM ([#77339](https://github.com/CleverRaven/Cataclysm-DDA/pull/77339))
 * Allow debug placing multiple terrain/specials of the same id without searching for them again ([#77343](https://github.com/CleverRaven/Cataclysm-DDA/pull/77343))
 * Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
-* fix 5 round shotgun magazine having 20 rounds ([#77338](https://github.com/CleverRaven/Cataclysm-DDA/pull/77338))
