@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-05-1616 ([0968b5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-1616))
+
 * Add diagonal directions to pc/npc pathfinding ([#77556](https://github.com/CleverRaven/Cataclysm-DDA/pull/77556))
 * Add optional message to display when choosing map point ([#77569](https://github.com/CleverRaven/Cataclysm-DDA/pull/77569))
 * [Sky Island] Fix side room recipe volume ([#77588](https://github.com/CleverRaven/Cataclysm-DDA/pull/77588))
@@ -177,11 +182,6 @@
 * Throwing items while piloting mechs (with the mech's assist) ([#77403](https://github.com/CleverRaven/Cataclysm-DDA/pull/77403))
 * add terminal punctuation to bulletin board examination message ([#77404](https://github.com/CleverRaven/Cataclysm-DDA/pull/77404))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-31-0437 ([a0d6057](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-31-0437))
-
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
 * Removing and/or using some unused itemgroup IDs ([#77356](https://github.com/CleverRaven/Cataclysm-DDA/pull/77356))
 * Use corner symbols for vehicle Corner variations ([#77378](https://github.com/CleverRaven/Cataclysm-DDA/pull/77378))
