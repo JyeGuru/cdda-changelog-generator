@@ -1,3 +1,5 @@
+* [ Xedra Evolved ] Feral Agent Variety (#77399)
+* Add `IRRITANT_IMMUNE` to more armors and exoskeletons (#77524)
 
 Cataclysm-DDA experimental build 2024-11-05-0625 (f37338e)
 * remove sulfurless gunpowder recipe (#77586)
@@ -132,6 +134,4 @@ Cataclysm-DDA experimental build 2024-10-31-0437 (a0d6057)
 * [ Aftershock ] Make Flesh Golem heart a mission item (#77351)
 * Add Vitamin C Supplements (#77363)
 * [Innawood] Makes electronics progressable again again (#77352)
-* "all" option for distraction manager (#77342)
-* Allow debug placing multiple terrain/specials of the same id without searching for them again (#77343)
 * Fix edges in microlabs (#77345)

@@ -1,3 +1,5 @@
+* [ Xedra Evolved ] Feral Agent Variety ([#77399](https://github.com/CleverRaven/Cataclysm-DDA/pull/77399))
+* Add `IRRITANT_IMMUNE` to more armors and exoskeletons ([#77524](https://github.com/CleverRaven/Cataclysm-DDA/pull/77524))
 
 ---
 
@@ -195,6 +197,4 @@
 * [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
 * [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
-* "all" option for distraction manager ([#77342](https://github.com/CleverRaven/Cataclysm-DDA/pull/77342))
-* Allow debug placing multiple terrain/specials of the same id without searching for them again ([#77343](https://github.com/CleverRaven/Cataclysm-DDA/pull/77343))
 * Fix edges in microlabs ([#77345](https://github.com/CleverRaven/Cataclysm-DDA/pull/77345))
