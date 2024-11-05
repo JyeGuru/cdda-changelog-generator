@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-05-0625 ([f37338e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-0625))
+
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
 * Shift towards making the tutorial work as a mod behind the scenes ([#77455](https://github.com/CleverRaven/Cataclysm-DDA/pull/77455))
 
@@ -167,11 +172,6 @@
 * [DinoMod] mountable and harnessable audit ([#77391](https://github.com/CleverRaven/Cataclysm-DDA/pull/77391))
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
 * Armor order refactoring ([#77425](https://github.com/CleverRaven/Cataclysm-DDA/pull/77425))
-
----
-
-#### Cataclysm-DDA experimental build 2024-10-30-1526 ([aad7acc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-10-30-1526))
-
 * Dropped lit cigarette won't start fires if there's no flammable terrain, furniture, or items on that tile ([#77447](https://github.com/CleverRaven/Cataclysm-DDA/pull/77447))
 * Make battery chargers work outside the reality bubble ([#77390](https://github.com/CleverRaven/Cataclysm-DDA/pull/77390))
 * Mutations can have a custom activation message ([#77419](https://github.com/CleverRaven/Cataclysm-DDA/pull/77419))
