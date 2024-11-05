@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-05-1114 ([e647c67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-1114))
+
 * [Xedra Evolved/Innawood] Remove modern items from XE spawns Innawood, allow starting with XE-specific scenarios ([#77546](https://github.com/CleverRaven/Cataclysm-DDA/pull/77546))
 
 ---
