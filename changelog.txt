@@ -98,8 +98,6 @@ Cataclysm-DDA experimental build 2024-11-01-0729 (1e022d2)
 
 Cataclysm-DDA experimental build 2024-11-01-0145 (6b0a666)
 * [XEDRA Evolved] loading screen images (#77491)
-
-Cataclysm-DDA experimental build 2024-10-31-1853 (6d904d9)
 * [DinoMod] eggs directly into hatchlings (#77465)
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes (#77387)
 * magus.json description change for the Slow spell (#77392)
