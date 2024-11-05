@@ -1,3 +1,4 @@
+* Add myself to comment commands list ([#77603](https://github.com/CleverRaven/Cataclysm-DDA/pull/77603))
 * [CR] Pathfinding accounts for SMALL_PASSAGE ([#77446](https://github.com/CleverRaven/Cataclysm-DDA/pull/77446))
 
 ---
@@ -183,7 +184,6 @@
 * add terminal punctuation to bulletin board examination message ([#77404](https://github.com/CleverRaven/Cataclysm-DDA/pull/77404))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
-* Removing and/or using some unused itemgroup IDs ([#77356](https://github.com/CleverRaven/Cataclysm-DDA/pull/77356))
 * Use corner symbols for vehicle Corner variations ([#77378](https://github.com/CleverRaven/Cataclysm-DDA/pull/77378))
 * [DinoMod] mountable and harnessable audit ([#77391](https://github.com/CleverRaven/Cataclysm-DDA/pull/77391))
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
