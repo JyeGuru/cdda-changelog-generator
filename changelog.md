@@ -1,3 +1,8 @@
+* Add diagonal directions to pc/npc pathfinding ([#77556](https://github.com/CleverRaven/Cataclysm-DDA/pull/77556))
+* Add optional message to display when choosing map point ([#77569](https://github.com/CleverRaven/Cataclysm-DDA/pull/77569))
+* [Sky Island] Fix side room recipe volume ([#77588](https://github.com/CleverRaven/Cataclysm-DDA/pull/77588))
+* [Xedra Evolved] Add Forestwalker trait to Arvore ([#77596](https://github.com/CleverRaven/Cataclysm-DDA/pull/77596))
+* Fix #77500 - Repeatable crash when interacting with an item ([#77551](https://github.com/CleverRaven/Cataclysm-DDA/pull/77551))
 
 ---
 
@@ -165,8 +170,6 @@
 * Faction relationships can be modified through dialogue ([#77371](https://github.com/CleverRaven/Cataclysm-DDA/pull/77371))
 * Allow any grade of steel for the metal axe head ([#77364](https://github.com/CleverRaven/Cataclysm-DDA/pull/77364))
 * eoc: clean up run_eocs ([#77359](https://github.com/CleverRaven/Cataclysm-DDA/pull/77359))
-* Remove Calcium from Rare Drugs ([#77349](https://github.com/CleverRaven/Cataclysm-DDA/pull/77349))
-* Stop 20x Melatonin Spawns ([#77347](https://github.com/CleverRaven/Cataclysm-DDA/pull/77347))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
@@ -204,7 +207,4 @@
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
 * Heating elements no longer drop from smashing the fume hood ([#77388](https://github.com/CleverRaven/Cataclysm-DDA/pull/77388))
 * Fix cotton patch being unusable to stop bleeding ([#77354](https://github.com/CleverRaven/Cataclysm-DDA/pull/77354))
-* Routine i18n updates on 26 October 2024 ([#77348](https://github.com/CleverRaven/Cataclysm-DDA/pull/77348))
-* [ Aftershock ] Make Flesh Golem heart a mission item ([#77351](https://github.com/CleverRaven/Cataclysm-DDA/pull/77351))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
-* [Innawood] Makes electronics progressable again again ([#77352](https://github.com/CleverRaven/Cataclysm-DDA/pull/77352))
