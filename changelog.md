@@ -1,3 +1,4 @@
+* [CR] Pathfinding accounts for SMALL_PASSAGE ([#77446](https://github.com/CleverRaven/Cataclysm-DDA/pull/77446))
 
 ---
 
@@ -118,7 +119,6 @@
 #### Cataclysm-DDA experimental build 2024-11-02-0556 ([46ce09b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0556))
 
 * no more duplicate teamster quests ([#77358](https://github.com/CleverRaven/Cataclysm-DDA/pull/77358))
-* remove unused variable ([#77353](https://github.com/CleverRaven/Cataclysm-DDA/pull/77353))
 * less usage of generic rewards: Refugee Center ([#77454](https://github.com/CleverRaven/Cataclysm-DDA/pull/77454))
 * debug: check for SIGINT during debug prompt ([#77457](https://github.com/CleverRaven/Cataclysm-DDA/pull/77457))
 * Add new no-lid variant of large clay pot, make it usable for the slow sand water filter ([#77463](https://github.com/CleverRaven/Cataclysm-DDA/pull/77463))
@@ -206,5 +206,4 @@
 * Fix CMake build after adding freetype ([#77360](https://github.com/CleverRaven/Cataclysm-DDA/pull/77360))
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
 * Heating elements no longer drop from smashing the fume hood ([#77388](https://github.com/CleverRaven/Cataclysm-DDA/pull/77388))
-* Fix cotton patch being unusable to stop bleeding ([#77354](https://github.com/CleverRaven/Cataclysm-DDA/pull/77354))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
