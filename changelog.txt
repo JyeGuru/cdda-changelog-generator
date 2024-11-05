@@ -1,3 +1,4 @@
+* Fix crash when not wielding item from map/vehicle after reloading (#77613)
 * Add myself to comment commands list (#77603)
 
 Cataclysm-DDA experimental build 2024-11-05-1858 (582f33f)
@@ -115,7 +116,6 @@ Cataclysm-DDA experimental build 2024-11-01-0145 (6b0a666)
 * add terminal punctuation to bulletin board examination message (#77404)
 * [MoM] Fix Ehēcatl spelling (#77467)
 * Small mapgen fix (#77469)
-* Removing and/or using some unused itemgroup IDs (#77356)
 * Use corner symbols for vehicle Corner variations (#77378)
 * [DinoMod] mountable and harnessable audit (#77391)
 * Backport #77029 Fix sling staff (#77427)
