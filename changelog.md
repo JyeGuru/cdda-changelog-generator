@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-05-0847 ([cbe022d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-0847))
+
 * [ Xedra Evolved ] Feral Agent Variety ([#77399](https://github.com/CleverRaven/Cataclysm-DDA/pull/77399))
 * Add `IRRITANT_IMMUNE` to more armors and exoskeletons ([#77524](https://github.com/CleverRaven/Cataclysm-DDA/pull/77524))
 
