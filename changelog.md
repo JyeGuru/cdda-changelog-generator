@@ -1,3 +1,4 @@
+* Fix garage mapgen ([#77584](https://github.com/CleverRaven/Cataclysm-DDA/pull/77584))
 * Bunny suits ([#77600](https://github.com/CleverRaven/Cataclysm-DDA/pull/77600))
 
 ---
@@ -208,4 +209,3 @@
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
 * Heating elements no longer drop from smashing the fume hood ([#77388](https://github.com/CleverRaven/Cataclysm-DDA/pull/77388))
-* Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))

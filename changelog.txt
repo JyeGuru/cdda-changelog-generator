@@ -1,3 +1,4 @@
+* Fix garage mapgen (#77584)
 * Bunny suits (#77600)
 
 Cataclysm-DDA 0.H release candidate 2024-11-06-0515 (f929eb3)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-11-01-0729 (1e022d2)
 * Factions don't mind the player smashing zombie corpses (#77426)
 * Backport 77354 Fix cotton patch being unusable to stop bleeding (#77366)
 * Heating elements no longer drop from smashing the fume hood (#77388)
-* Add Vitamin C Supplements (#77363)
