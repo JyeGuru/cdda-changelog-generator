@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-06-1638 ([60cf27e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-1638))
+
+* Empty blocks getting attunements ([#77618](https://github.com/CleverRaven/Cataclysm-DDA/pull/77618))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-06-0845 ([93c608c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-0845))
 
 * Fix garage mapgen ([#77584](https://github.com/CleverRaven/Cataclysm-DDA/pull/77584))
@@ -184,7 +190,6 @@
 * Flush debug log writes immediately ([#77381](https://github.com/CleverRaven/Cataclysm-DDA/pull/77381))
 * Fix food calcs for items with non-food components ([#77377](https://github.com/CleverRaven/Cataclysm-DDA/pull/77377))
 * Faction relationships can be modified through dialogue ([#77371](https://github.com/CleverRaven/Cataclysm-DDA/pull/77371))
-* Allow any grade of steel for the metal axe head ([#77364](https://github.com/CleverRaven/Cataclysm-DDA/pull/77364))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
