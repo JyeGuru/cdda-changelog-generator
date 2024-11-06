@@ -1,4 +1,6 @@
 * Fix garage mapgen (#77584)
+
+Cataclysm-DDA experimental build 2024-11-06-0557 (e3b9d98)
 * Bunny suits (#77600)
 
 Cataclysm-DDA 0.H release candidate 2024-11-06-0515 (f929eb3)

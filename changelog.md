@@ -1,4 +1,9 @@
 * Fix garage mapgen ([#77584](https://github.com/CleverRaven/Cataclysm-DDA/pull/77584))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-06-0557 ([e3b9d98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-0557))
+
 * Bunny suits ([#77600](https://github.com/CleverRaven/Cataclysm-DDA/pull/77600))
 
 ---
