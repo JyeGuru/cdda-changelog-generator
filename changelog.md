@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-06-0250 ([99bd819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-0250))
+
+* Allow the game to build on OSX ([#77413](https://github.com/CleverRaven/Cataclysm-DDA/pull/77413))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-06-0003 ([dae649f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-0003))
 
 * Fix crash when not wielding item from map/vehicle after reloading ([#77613](https://github.com/CleverRaven/Cataclysm-DDA/pull/77613))
@@ -153,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-11-02-0225 ([199ca4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0225))
 
 * [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies ([#77513](https://github.com/CleverRaven/Cataclysm-DDA/pull/77513))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-01-0655 ([1e1dcd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-01-0655))
-
 * Backport #74075 Correctly display the cost to learn the proficiency ([#77497](https://github.com/CleverRaven/Cataclysm-DDA/pull/77497))
 
 ---

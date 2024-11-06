@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-06-0250 (99bd819)
+* Allow the game to build on OSX (#77413)
+
 Cataclysm-DDA experimental build 2024-11-06-0003 (dae649f)
 * Fix crash when not wielding item from map/vehicle after reloading (#77613)
 * Add myself to comment commands list (#77603)
@@ -90,8 +93,6 @@ Cataclysm-DDA 0.H release candidate 2024-11-02-0431 (17ce896)
 
 Cataclysm-DDA experimental build 2024-11-02-0225 (199ca4a)
 * [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies (#77513)
-
-Cataclysm-DDA 0.H release candidate 2024-11-01-0655 (1e1dcd4)
 * Backport #74075 Correctly display the cost to learn the proficiency (#77497)
 
 Cataclysm-DDA experimental build 2024-11-01-0729 (1e022d2)
