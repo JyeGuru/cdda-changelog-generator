@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-11-06-1742 ([31b113c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-06-1742))
+
+* Backport #77446 for 0.H (Pathfinding accounts for SMALL_PASSAGE) ([#77550](https://github.com/CleverRaven/Cataclysm-DDA/pull/77550))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-06-1638 ([60cf27e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-1638))
 
 * Empty blocks getting attunements ([#77618](https://github.com/CleverRaven/Cataclysm-DDA/pull/77618))
@@ -162,11 +168,6 @@
 * Fix profession parser ([#77477](https://github.com/CleverRaven/Cataclysm-DDA/pull/77477))
 * [MoM] Update everglow matrix lighting recipes ([#77478](https://github.com/CleverRaven/Cataclysm-DDA/pull/77478))
 * Apparel in school itemgroups spawns ``UNDERSIZE`` ([#77480](https://github.com/CleverRaven/Cataclysm-DDA/pull/77480))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-02-0431 ([17ce896](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-02-0431))
-
 * Backport #73386 "Fix obtain cost when reloading, and a typo." ([#77496](https://github.com/CleverRaven/Cataclysm-DDA/pull/77496))
 * Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
 * fix ALARMED flag ([#77493](https://github.com/CleverRaven/Cataclysm-DDA/pull/77493))
@@ -217,5 +218,4 @@
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
-* Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
 * Heating elements no longer drop from smashing the fume hood ([#77388](https://github.com/CleverRaven/Cataclysm-DDA/pull/77388))
