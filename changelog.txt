@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-06-0845 (93c608c)
 * Fix garage mapgen (#77584)
 
 Cataclysm-DDA experimental build 2024-11-06-0557 (e3b9d98)
@@ -99,8 +101,6 @@ Cataclysm-DDA 0.H release candidate 2024-11-02-0431 (17ce896)
 Cataclysm-DDA experimental build 2024-11-02-0225 (199ca4a)
 * [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies (#77513)
 * Backport #74075 Correctly display the cost to learn the proficiency (#77497)
-
-Cataclysm-DDA experimental build 2024-11-01-0729 (1e022d2)
 * [Xedra Evolved] Fix homullus trait regressions (#77486)
 * Routine tileset updates on 01 November 2024 (#77495)
 * [MoM] Update mutated animals to match vanilla changes (#77431)
