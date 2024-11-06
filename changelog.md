@@ -1,3 +1,11 @@
+* Bunny suits ([#77600](https://github.com/CleverRaven/Cataclysm-DDA/pull/77600))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-11-06-0515 ([f929eb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-06-0515))
+
+* [0.H] Fix crash when not wielding item from map/vehicle after reloading ([#77612](https://github.com/CleverRaven/Cataclysm-DDA/pull/77612))
+* [Innawood/Xedra Evolved] Fix double id ([#77610](https://github.com/CleverRaven/Cataclysm-DDA/pull/77610))
 
 ---
 
@@ -131,12 +139,6 @@
 
 * Backport #76966 ([#77407](https://github.com/CleverRaven/Cataclysm-DDA/pull/77407))
 * less usage of generic rewards: Tacoma ([#77453](https://github.com/CleverRaven/Cataclysm-DDA/pull/77453))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-02-0556 ([46ce09b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0556))
-
-* no more duplicate teamster quests ([#77358](https://github.com/CleverRaven/Cataclysm-DDA/pull/77358))
 * less usage of generic rewards: Refugee Center ([#77454](https://github.com/CleverRaven/Cataclysm-DDA/pull/77454))
 * debug: check for SIGINT during debug prompt ([#77457](https://github.com/CleverRaven/Cataclysm-DDA/pull/77457))
 * Add new no-lid variant of large clay pot, make it usable for the slow sand water filter ([#77463](https://github.com/CleverRaven/Cataclysm-DDA/pull/77463))
@@ -168,11 +170,6 @@
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
 * Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
 * [MoM] Update mutated animals to match vanilla changes ([#77431](https://github.com/CleverRaven/Cataclysm-DDA/pull/77431))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-01-0145 ([6b0a666](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-01-0145))
-
 * [XEDRA Evolved] loading screen images ([#77491](https://github.com/CleverRaven/Cataclysm-DDA/pull/77491))
 * [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes ([#77387](https://github.com/CleverRaven/Cataclysm-DDA/pull/77387))
@@ -182,7 +179,6 @@
 * Fix food calcs for items with non-food components ([#77377](https://github.com/CleverRaven/Cataclysm-DDA/pull/77377))
 * Faction relationships can be modified through dialogue ([#77371](https://github.com/CleverRaven/Cataclysm-DDA/pull/77371))
 * Allow any grade of steel for the metal axe head ([#77364](https://github.com/CleverRaven/Cataclysm-DDA/pull/77364))
-* eoc: clean up run_eocs ([#77359](https://github.com/CleverRaven/Cataclysm-DDA/pull/77359))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
@@ -210,7 +206,6 @@
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
-* Fix CMake build after adding freetype ([#77360](https://github.com/CleverRaven/Cataclysm-DDA/pull/77360))
 * Backport 77354 Fix cotton patch being unusable to stop bleeding ([#77366](https://github.com/CleverRaven/Cataclysm-DDA/pull/77366))
 * Heating elements no longer drop from smashing the fume hood ([#77388](https://github.com/CleverRaven/Cataclysm-DDA/pull/77388))
 * Add Vitamin C Supplements ([#77363](https://github.com/CleverRaven/Cataclysm-DDA/pull/77363))
