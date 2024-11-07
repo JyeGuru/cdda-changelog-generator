@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-07-1646 ([c9808dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-1646))
+
+* Adjust headlamp to match flashlight ([#77461](https://github.com/CleverRaven/Cataclysm-DDA/pull/77461))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-07-0841 ([052442d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-0841))
 
 * [ Magiclysm ] Make Forge Dwellers Smarter ([#77398](https://github.com/CleverRaven/Cataclysm-DDA/pull/77398))
@@ -175,11 +181,6 @@
 * fix ALARMED flag ([#77493](https://github.com/CleverRaven/Cataclysm-DDA/pull/77493))
 * Fix shelter and burning building starts ([#77483](https://github.com/CleverRaven/Cataclysm-DDA/pull/77483))
 * Parametrize all walls: Part 1 ([#77459](https://github.com/CleverRaven/Cataclysm-DDA/pull/77459))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-02-0225 ([199ca4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0225))
-
 * [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies ([#77513](https://github.com/CleverRaven/Cataclysm-DDA/pull/77513))
 * Backport #74075 Correctly display the cost to learn the proficiency ([#77497](https://github.com/CleverRaven/Cataclysm-DDA/pull/77497))
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
@@ -196,7 +197,6 @@
 * add terminal punctuation to bulletin board examination message ([#77404](https://github.com/CleverRaven/Cataclysm-DDA/pull/77404))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
-* [DinoMod] mountable and harnessable audit ([#77391](https://github.com/CleverRaven/Cataclysm-DDA/pull/77391))
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
 * Armor order refactoring ([#77425](https://github.com/CleverRaven/Cataclysm-DDA/pull/77425))
 * Dropped lit cigarette won't start fires if there's no flammable terrain, furniture, or items on that tile ([#77447](https://github.com/CleverRaven/Cataclysm-DDA/pull/77447))
