@@ -188,7 +188,6 @@
 * [MoM] Update mutated animals to match vanilla changes ([#77431](https://github.com/CleverRaven/Cataclysm-DDA/pull/77431))
 * [XEDRA Evolved] loading screen images ([#77491](https://github.com/CleverRaven/Cataclysm-DDA/pull/77491))
 * [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
-* magus.json description change for the Slow spell ([#77392](https://github.com/CleverRaven/Cataclysm-DDA/pull/77392))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
