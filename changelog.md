@@ -1,3 +1,13 @@
+* [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
+* Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
+* Adds drill requirement to aluminum tank (100 L) ([#77634](https://github.com/CleverRaven/Cataclysm-DDA/pull/77634))
+* Fix arcade mapgen ([#77593](https://github.com/CleverRaven/Cataclysm-DDA/pull/77593))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-07-0605 ([6ba540b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-0605))
+
+* [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
 
 ---
 
@@ -149,17 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-11-02-1735 ([a7fc626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-1735))
 
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-02-0909 ([55335a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-0909))
-
-* rename debug nightvision trait for clarity and improve some other debug trait descriptions ([#77367](https://github.com/CleverRaven/Cataclysm-DDA/pull/77367))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-02-0831 ([0492a40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-02-0831))
-
 * Backport #76966 ([#77407](https://github.com/CleverRaven/Cataclysm-DDA/pull/77407))
 * less usage of generic rewards: Tacoma ([#77453](https://github.com/CleverRaven/Cataclysm-DDA/pull/77453))
 * less usage of generic rewards: Refugee Center ([#77454](https://github.com/CleverRaven/Cataclysm-DDA/pull/77454))
@@ -188,9 +187,6 @@
 * `Burst-fire wielded weapon` now actually sets wielded weapon to burst or auto firing modes ([#77387](https://github.com/CleverRaven/Cataclysm-DDA/pull/77387))
 * magus.json description change for the Slow spell ([#77392](https://github.com/CleverRaven/Cataclysm-DDA/pull/77392))
 * fix two supressors in m4_cqbr ([#77389](https://github.com/CleverRaven/Cataclysm-DDA/pull/77389))
-* Flush debug log writes immediately ([#77381](https://github.com/CleverRaven/Cataclysm-DDA/pull/77381))
-* Fix food calcs for items with non-food components ([#77377](https://github.com/CleverRaven/Cataclysm-DDA/pull/77377))
-* Faction relationships can be modified through dialogue ([#77371](https://github.com/CleverRaven/Cataclysm-DDA/pull/77371))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
@@ -199,7 +195,6 @@
 * add terminal punctuation to bulletin board examination message ([#77404](https://github.com/CleverRaven/Cataclysm-DDA/pull/77404))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
-* Use corner symbols for vehicle Corner variations ([#77378](https://github.com/CleverRaven/Cataclysm-DDA/pull/77378))
 * [DinoMod] mountable and harnessable audit ([#77391](https://github.com/CleverRaven/Cataclysm-DDA/pull/77391))
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
 * Armor order refactoring ([#77425](https://github.com/CleverRaven/Cataclysm-DDA/pull/77425))
