@@ -1,3 +1,4 @@
+* [Sky Island] Re-add zombie bio operators to Sky Island ([#77412](https://github.com/CleverRaven/Cataclysm-DDA/pull/77412))
 * [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
 * Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
 * Adds drill requirement to aluminum tank (100 L) ([#77634](https://github.com/CleverRaven/Cataclysm-DDA/pull/77634))
@@ -212,4 +213,3 @@
 * Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
-* Heating elements no longer drop from smashing the fume hood ([#77388](https://github.com/CleverRaven/Cataclysm-DDA/pull/77388))
