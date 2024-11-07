@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-07-0841 ([052442d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-0841))
+
 * [ Magiclysm ] Make Forge Dwellers Smarter ([#77398](https://github.com/CleverRaven/Cataclysm-DDA/pull/77398))
 * UNIQUE -> OVERMAP_UNIQUE ([#77475](https://github.com/CleverRaven/Cataclysm-DDA/pull/77475))
 * [Sky Island] Re-add zombie bio operators to Sky Island ([#77412](https://github.com/CleverRaven/Cataclysm-DDA/pull/77412))
@@ -146,11 +151,6 @@
 * Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
 * Some factions claim only one OMT ([#77428](https://github.com/CleverRaven/Cataclysm-DDA/pull/77428))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-02-1824 ([2e031cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-02-1824))
-
 * Backport #73234 Not to use meat chunks in the smoking rack ([#77472](https://github.com/CleverRaven/Cataclysm-DDA/pull/77472))
 * [MoM] Remove monster inherent speed boosts, replace with actual powers that have to be used ([#77492](https://github.com/CleverRaven/Cataclysm-DDA/pull/77492))
 * [Magiclysm] Feral dabblers: add small chance ferals know a single spell ([#77509](https://github.com/CleverRaven/Cataclysm-DDA/pull/77509))
