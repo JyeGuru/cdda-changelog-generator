@@ -1,3 +1,6 @@
+* Replace rock floor in gas station ([#77635](https://github.com/CleverRaven/Cataclysm-DDA/pull/77635))
+* [Xedra Evolved] Fix talker errors with a couple lilin spells ([#77660](https://github.com/CleverRaven/Cataclysm-DDA/pull/77660))
+* [MoM] Update Anabolic Rejuvenation and Accelerated Resuscitation with EoCified healing ([#77658](https://github.com/CleverRaven/Cataclysm-DDA/pull/77658))
 * [Xedra Evolved] Move werewolf healing over to EoC ([#77657](https://github.com/CleverRaven/Cataclysm-DDA/pull/77657))
 * [Xedra Evolved] Add direct number ruach gauge for lilin ([#77659](https://github.com/CleverRaven/Cataclysm-DDA/pull/77659))
 * Add Portuguese translation ([#77649](https://github.com/CleverRaven/Cataclysm-DDA/pull/77649))
@@ -165,7 +168,6 @@
 #### Cataclysm-DDA experimental build 2024-11-02-1735 ([a7fc626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-1735))
 
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
-* Backport #76966 ([#77407](https://github.com/CleverRaven/Cataclysm-DDA/pull/77407))
 * less usage of generic rewards: Tacoma ([#77453](https://github.com/CleverRaven/Cataclysm-DDA/pull/77453))
 * less usage of generic rewards: Refugee Center ([#77454](https://github.com/CleverRaven/Cataclysm-DDA/pull/77454))
 * debug: check for SIGINT during debug prompt ([#77457](https://github.com/CleverRaven/Cataclysm-DDA/pull/77457))
@@ -188,8 +190,6 @@
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
-* Fix #77179 and a Book in Magiclysm ([#77408](https://github.com/CleverRaven/Cataclysm-DDA/pull/77408))
-* add terminal punctuation to bulletin board examination message ([#77404](https://github.com/CleverRaven/Cataclysm-DDA/pull/77404))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
