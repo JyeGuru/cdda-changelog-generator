@@ -206,7 +206,6 @@
 * Apply copy-from to mod scenarios ([#77417](https://github.com/CleverRaven/Cataclysm-DDA/pull/77417))
 * Feral Agent fix and loot update ([#77421](https://github.com/CleverRaven/Cataclysm-DDA/pull/77421))
 * Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
-* [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island ([#77414](https://github.com/CleverRaven/Cataclysm-DDA/pull/77414))
 * Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
 * Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
 * Fix recent clang-tidy errors. ([#77420](https://github.com/CleverRaven/Cataclysm-DDA/pull/77420))
