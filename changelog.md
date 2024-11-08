@@ -1,3 +1,4 @@
+* Disable diff for .po files in .gitattributes ([#77650](https://github.com/CleverRaven/Cataclysm-DDA/pull/77650))
 
 ---
 
@@ -210,5 +211,4 @@
 * Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
 * Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
 * Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
-* [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))

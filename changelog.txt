@@ -1,3 +1,4 @@
+* Disable diff for .po files in .gitattributes (#77650)
 
 Cataclysm-DDA experimental build 2024-11-08-2315 (926d5d6)
 * Pathfinding uses field cost for faction camp (#77627)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-11-03-0005 (70820f5)
 * Fix flatlander not using special attack (#77435)
 * Add myself to comment-commands.yml (#77438)
 * Backport #73444 - Not to try to set charges for item without charge. (#77424)
-* [Xedra Evolve] Add Ruach counter to sidebars (#77422)
 * Factions don't mind the player smashing zombie corpses (#77426)
