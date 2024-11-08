@@ -1,9 +1,9 @@
 
+Cataclysm-DDA experimental build 2024-11-08-0239 (95a029c)
+* Allow mission UI to scroll (#77625)
+
 Cataclysm-DDA experimental build 2024-11-07-1646 (c9808dd)
 * Adjust headlamp to match flashlight (#77461)
-
-Cataclysm-DDA experimental build 2024-11-07-0841 (052442d)
-* [ Magiclysm ] Make Forge Dwellers Smarter (#77398)
 * UNIQUE -> OVERMAP_UNIQUE (#77475)
 * [Sky Island] Re-add zombie bio operators to Sky Island (#77412)
 * [Magiclysm] Add `FERAL` species to all fantasy ferals (#77630)

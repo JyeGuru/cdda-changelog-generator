@@ -1,15 +1,15 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-11-07-1646 ([c9808dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-1646))
+#### Cataclysm-DDA experimental build 2024-11-08-0239 ([95a029c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-0239))
 
-* Adjust headlamp to match flashlight ([#77461](https://github.com/CleverRaven/Cataclysm-DDA/pull/77461))
+* Allow mission UI to scroll ([#77625](https://github.com/CleverRaven/Cataclysm-DDA/pull/77625))
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-11-07-0841 ([052442d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-0841))
+#### Cataclysm-DDA experimental build 2024-11-07-1646 ([c9808dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-1646))
 
-* [ Magiclysm ] Make Forge Dwellers Smarter ([#77398](https://github.com/CleverRaven/Cataclysm-DDA/pull/77398))
+* Adjust headlamp to match flashlight ([#77461](https://github.com/CleverRaven/Cataclysm-DDA/pull/77461))
 * UNIQUE -> OVERMAP_UNIQUE ([#77475](https://github.com/CleverRaven/Cataclysm-DDA/pull/77475))
 * [Sky Island] Re-add zombie bio operators to Sky Island ([#77412](https://github.com/CleverRaven/Cataclysm-DDA/pull/77412))
 * [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
