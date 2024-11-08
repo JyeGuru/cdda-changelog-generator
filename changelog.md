@@ -1,3 +1,12 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-08-2315 ([926d5d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-2315))
+
+* Pathfinding uses field cost for faction camp ([#77627](https://github.com/CleverRaven/Cataclysm-DDA/pull/77627))
+* Added information to crafting menu about crafting speed modifier gained by mutations ([#77628](https://github.com/CleverRaven/Cataclysm-DDA/pull/77628))
+* Terrain/furniture: code deduplication and improved "copy-from" support ([#77637](https://github.com/CleverRaven/Cataclysm-DDA/pull/77637))
+* Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
 
 ---
@@ -162,11 +171,6 @@
 
 * Melee weapon item groups for random NPCs ([#77490](https://github.com/CleverRaven/Cataclysm-DDA/pull/77490))
 * Update fence posts and bollards ([#77539](https://github.com/CleverRaven/Cataclysm-DDA/pull/77539))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-02-2034 ([3442f08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-2034))
-
 * Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
 * Some factions claim only one OMT ([#77428](https://github.com/CleverRaven/Cataclysm-DDA/pull/77428))
@@ -203,12 +207,8 @@
 * Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
 * Armor order refactoring ([#77425](https://github.com/CleverRaven/Cataclysm-DDA/pull/77425))
 * Dropped lit cigarette won't start fires if there's no flammable terrain, furniture, or items on that tile ([#77447](https://github.com/CleverRaven/Cataclysm-DDA/pull/77447))
-* Mutations can have a custom activation message ([#77419](https://github.com/CleverRaven/Cataclysm-DDA/pull/77419))
-* Apply copy-from to mod scenarios ([#77417](https://github.com/CleverRaven/Cataclysm-DDA/pull/77417))
-* Feral Agent fix and loot update ([#77421](https://github.com/CleverRaven/Cataclysm-DDA/pull/77421))
 * Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
 * Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
 * Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
-* Fix recent clang-tidy errors. ([#77420](https://github.com/CleverRaven/Cataclysm-DDA/pull/77420))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
