@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-08-2048 ([fed6481](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-2048))
+
+* teleport_to_point() tweaks ([#77611](https://github.com/CleverRaven/Cataclysm-DDA/pull/77611))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-08-0819 ([df56dc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-0819))
 
 * [MoM] Insight proficiencies prevent overload from high Nether Attunement ([#77655](https://github.com/CleverRaven/Cataclysm-DDA/pull/77655))
@@ -71,12 +77,6 @@
 
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading ([#77612](https://github.com/CleverRaven/Cataclysm-DDA/pull/77612))
 * [Innawood/Xedra Evolved] Fix double id ([#77610](https://github.com/CleverRaven/Cataclysm-DDA/pull/77610))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-06-0250 ([99bd819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-0250))
-
-* Allow the game to build on OSX ([#77413](https://github.com/CleverRaven/Cataclysm-DDA/pull/77413))
 
 ---
 
@@ -174,11 +174,6 @@
 * [Magiclysm] Feral dabblers: add small chance ferals know a single spell ([#77509](https://github.com/CleverRaven/Cataclysm-DDA/pull/77509))
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-02-1735 ([a7fc626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-02-1735))
-
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
 * less usage of generic rewards: Tacoma ([#77453](https://github.com/CleverRaven/Cataclysm-DDA/pull/77453))
 * less usage of generic rewards: Refugee Center ([#77454](https://github.com/CleverRaven/Cataclysm-DDA/pull/77454))
