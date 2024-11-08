@@ -1,3 +1,5 @@
+* [Xedra Evolved] Move werewolf healing over to EoC ([#77657](https://github.com/CleverRaven/Cataclysm-DDA/pull/77657))
+* [Xedra Evolved] Add direct number ruach gauge for lilin ([#77659](https://github.com/CleverRaven/Cataclysm-DDA/pull/77659))
 * Add Portuguese translation ([#77649](https://github.com/CleverRaven/Cataclysm-DDA/pull/77649))
 
 ---
@@ -187,7 +189,6 @@
 * fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
 * Fix #77179 and a Book in Magiclysm ([#77408](https://github.com/CleverRaven/Cataclysm-DDA/pull/77408))
-* Throwing items while piloting mechs (with the mech's assist) ([#77403](https://github.com/CleverRaven/Cataclysm-DDA/pull/77403))
 * add terminal punctuation to bulletin board examination message ([#77404](https://github.com/CleverRaven/Cataclysm-DDA/pull/77404))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
@@ -204,6 +205,5 @@
 * Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
 * Lever action rifles ([#77409](https://github.com/CleverRaven/Cataclysm-DDA/pull/77409))
 * Fix recent clang-tidy errors. ([#77420](https://github.com/CleverRaven/Cataclysm-DDA/pull/77420))
-* Forbid drinking liquids underwater for characters with `Aqueous Repose` and `Embrace of the Waters` mutations, as it stated in mutations' descriptions ([#77401](https://github.com/CleverRaven/Cataclysm-DDA/pull/77401))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
