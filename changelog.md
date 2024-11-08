@@ -1,3 +1,4 @@
+* Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
 
 ---
 

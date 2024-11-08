@@ -1,3 +1,4 @@
+* Remove adobe & rock walls from param wall palette (#77679)
 
 Cataclysm-DDA experimental build 2024-11-08-2048 (fed6481)
 * teleport_to_point() tweaks (#77611)
