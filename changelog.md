@@ -1,3 +1,11 @@
+* [MoM] Insight proficiencies prevent overload from high Nether Attunement ([#77655](https://github.com/CleverRaven/Cataclysm-DDA/pull/77655))
+* Move NPC bye message to snippet ([#77648](https://github.com/CleverRaven/Cataclysm-DDA/pull/77648))
+* Spell activated EoCs are passed the target as a context val ([#77656](https://github.com/CleverRaven/Cataclysm-DDA/pull/77656))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-08-0551 ([a0591f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-0551))
+
 * Replace rock floor in gas station ([#77635](https://github.com/CleverRaven/Cataclysm-DDA/pull/77635))
 * [Xedra Evolved] Fix talker errors with a couple lilin spells ([#77660](https://github.com/CleverRaven/Cataclysm-DDA/pull/77660))
 * [MoM] Update Anabolic Rejuvenation and Accelerated Resuscitation with EoCified healing ([#77658](https://github.com/CleverRaven/Cataclysm-DDA/pull/77658))
@@ -17,7 +25,6 @@
 
 * Adjust headlamp to match flashlight ([#77461](https://github.com/CleverRaven/Cataclysm-DDA/pull/77461))
 * UNIQUE -> OVERMAP_UNIQUE ([#77475](https://github.com/CleverRaven/Cataclysm-DDA/pull/77475))
-* [Sky Island] Re-add zombie bio operators to Sky Island ([#77412](https://github.com/CleverRaven/Cataclysm-DDA/pull/77412))
 * [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
 * Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
 * Adds drill requirement to aluminum tank (100 L) ([#77634](https://github.com/CleverRaven/Cataclysm-DDA/pull/77634))
@@ -199,11 +206,9 @@
 * Apply copy-from to mod scenarios ([#77417](https://github.com/CleverRaven/Cataclysm-DDA/pull/77417))
 * Feral Agent fix and loot update ([#77421](https://github.com/CleverRaven/Cataclysm-DDA/pull/77421))
 * Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
-* Misc gun fixes ([#77411](https://github.com/CleverRaven/Cataclysm-DDA/pull/77411))
 * [Sky Island/MoM/XE interactions] Allow starting with XE/MoM scenario-limited professions in Sky Island ([#77414](https://github.com/CleverRaven/Cataclysm-DDA/pull/77414))
 * Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
 * Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
-* Lever action rifles ([#77409](https://github.com/CleverRaven/Cataclysm-DDA/pull/77409))
 * Fix recent clang-tidy errors. ([#77420](https://github.com/CleverRaven/Cataclysm-DDA/pull/77420))
 * [Xedra Evolve] Add Ruach counter to sidebars ([#77422](https://github.com/CleverRaven/Cataclysm-DDA/pull/77422))
 * Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
