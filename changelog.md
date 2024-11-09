@@ -1,3 +1,4 @@
+* Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
 
 ---
 
@@ -202,4 +203,3 @@
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
 * Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
 * [XEDRA Evolved] loading screen images ([#77491](https://github.com/CleverRaven/Cataclysm-DDA/pull/77491))
-* Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))

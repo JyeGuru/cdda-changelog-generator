@@ -1,3 +1,4 @@
+* Fix placement of the aftershock landing pad (#77701)
 
 Cataclysm-DDA experimental build 2024-11-09-1904 (a05e593)
 * Remove spurious double semi colons (#77702)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2024-11-03-2221 (6b98896)
 * [Xedra Evolved] Fix homullus trait regressions (#77486)
 * Routine tileset updates on 01 November 2024 (#77495)
 * [XEDRA Evolved] loading screen images (#77491)
-* Small mapgen fix (#77469)
