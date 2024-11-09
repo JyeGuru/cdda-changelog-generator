@@ -1,3 +1,6 @@
+* Label palette changes as "Map / Mapgen" ([#77673](https://github.com/CleverRaven/Cataclysm-DDA/pull/77673))
+* Make enchantment influence dps shown in item ([#77687](https://github.com/CleverRaven/Cataclysm-DDA/pull/77687))
+* Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
 
 ---
 
@@ -66,12 +69,6 @@
 #### Cataclysm-DDA experimental build 2024-11-08-0239 ([95a029c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-0239))
 
 * Allow mission UI to scroll ([#77625](https://github.com/CleverRaven/Cataclysm-DDA/pull/77625))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-07-1646 ([c9808dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-1646))
-
-* Adjust headlamp to match flashlight ([#77461](https://github.com/CleverRaven/Cataclysm-DDA/pull/77461))
 * UNIQUE -> OVERMAP_UNIQUE ([#77475](https://github.com/CleverRaven/Cataclysm-DDA/pull/77475))
 * [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
 * Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
@@ -189,7 +186,6 @@
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
-* Add new no-lid variant of large clay pot, make it usable for the slow sand water filter ([#77463](https://github.com/CleverRaven/Cataclysm-DDA/pull/77463))
 * Fix profession parser ([#77477](https://github.com/CleverRaven/Cataclysm-DDA/pull/77477))
 * [MoM] Update everglow matrix lighting recipes ([#77478](https://github.com/CleverRaven/Cataclysm-DDA/pull/77478))
 * Apparel in school itemgroups spawns ``UNDERSIZE`` ([#77480](https://github.com/CleverRaven/Cataclysm-DDA/pull/77480))
@@ -197,7 +193,6 @@
 * Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
 * fix ALARMED flag ([#77493](https://github.com/CleverRaven/Cataclysm-DDA/pull/77493))
 * Fix shelter and burning building starts ([#77483](https://github.com/CleverRaven/Cataclysm-DDA/pull/77483))
-* Parametrize all walls: Part 1 ([#77459](https://github.com/CleverRaven/Cataclysm-DDA/pull/77459))
 * [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies ([#77513](https://github.com/CleverRaven/Cataclysm-DDA/pull/77513))
 * Backport #74075 Correctly display the cost to learn the proficiency ([#77497](https://github.com/CleverRaven/Cataclysm-DDA/pull/77497))
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
