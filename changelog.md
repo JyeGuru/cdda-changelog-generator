@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-09-2132 ([af98298](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-2132))
+
 * Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-11-05-0400 ([c878dbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-0400))
 
 * Add interface to set all companion job priorities at once ([#77573](https://github.com/CleverRaven/Cataclysm-DDA/pull/77573))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-03-2221 ([6b98896](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-2221))
-
 * Don't apply parkour bonus when moving prone ([#77557](https://github.com/CleverRaven/Cataclysm-DDA/pull/77557))
 * Nerf several vitamin-based supplement prices ([#77555](https://github.com/CleverRaven/Cataclysm-DDA/pull/77555))
 * Bail out of choosing activity for multiple NPCs if none chosen ([#77536](https://github.com/CleverRaven/Cataclysm-DDA/pull/77536))
