@@ -1,3 +1,15 @@
+* Tweaks for visibility checks regarding vehicles and furniture ([#77599](https://github.com/CleverRaven/Cataclysm-DDA/pull/77599))
+* Made tree tops burn and more collapse on wall loss ([#77605](https://github.com/CleverRaven/Cataclysm-DDA/pull/77605))
+* Scouting is less exercise than Combat patrol ([#77620](https://github.com/CleverRaven/Cataclysm-DDA/pull/77620))
+* Replace point and tripoint sentinel values with constants ([#77626](https://github.com/CleverRaven/Cataclysm-DDA/pull/77626))
+* ask rubik about peculiar weaponmaster goods ([#77645](https://github.com/CleverRaven/Cataclysm-DDA/pull/77645))
+* Unrevert #77339 ([#77654](https://github.com/CleverRaven/Cataclysm-DDA/pull/77654))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-09-0326 ([243622b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-0326))
+
+* DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
 * Disable diff for .po files in .gitattributes ([#77650](https://github.com/CleverRaven/Cataclysm-DDA/pull/77650))
 
 ---
@@ -165,16 +177,10 @@
 * NO_I18N for base game ([#77498](https://github.com/CleverRaven/Cataclysm-DDA/pull/77498))
 * Actually stop bleeding with bandages ([#77537](https://github.com/CleverRaven/Cataclysm-DDA/pull/77537))
 * Distribute faction camp food from vehicle cargo zone ([#77540](https://github.com/CleverRaven/Cataclysm-DDA/pull/77540))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-03-0005 ([70820f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0005))
-
 * Melee weapon item groups for random NPCs ([#77490](https://github.com/CleverRaven/Cataclysm-DDA/pull/77490))
 * Update fence posts and bollards ([#77539](https://github.com/CleverRaven/Cataclysm-DDA/pull/77539))
 * Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
-* Some factions claim only one OMT ([#77428](https://github.com/CleverRaven/Cataclysm-DDA/pull/77428))
 * Backport #73234 Not to use meat chunks in the smoking rack ([#77472](https://github.com/CleverRaven/Cataclysm-DDA/pull/77472))
 * [MoM] Remove monster inherent speed boosts, replace with actual powers that have to be used ([#77492](https://github.com/CleverRaven/Cataclysm-DDA/pull/77492))
 * [Magiclysm] Feral dabblers: add small chance ferals know a single spell ([#77509](https://github.com/CleverRaven/Cataclysm-DDA/pull/77509))
@@ -197,7 +203,6 @@
 * Backport #74075 Correctly display the cost to learn the proficiency ([#77497](https://github.com/CleverRaven/Cataclysm-DDA/pull/77497))
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
 * Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
-* [MoM] Update mutated animals to match vanilla changes ([#77431](https://github.com/CleverRaven/Cataclysm-DDA/pull/77431))
 * [XEDRA Evolved] loading screen images ([#77491](https://github.com/CleverRaven/Cataclysm-DDA/pull/77491))
 * [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
@@ -205,10 +210,6 @@
 * eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
-* Backport #77029 Fix sling staff ([#77427](https://github.com/CleverRaven/Cataclysm-DDA/pull/77427))
-* Armor order refactoring ([#77425](https://github.com/CleverRaven/Cataclysm-DDA/pull/77425))
 * Dropped lit cigarette won't start fires if there's no flammable terrain, furniture, or items on that tile ([#77447](https://github.com/CleverRaven/Cataclysm-DDA/pull/77447))
 * Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
 * Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
-* Backport #73444 - Not to try to set charges for item without charge. ([#77424](https://github.com/CleverRaven/Cataclysm-DDA/pull/77424))
-* Factions don't mind the player smashing zombie corpses ([#77426](https://github.com/CleverRaven/Cataclysm-DDA/pull/77426))
