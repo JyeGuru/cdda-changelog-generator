@@ -1,4 +1,9 @@
 * Label palette changes as "Map / Mapgen" ([#77673](https://github.com/CleverRaven/Cataclysm-DDA/pull/77673))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-09-0812 ([09f30df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-0812))
+
 * Make enchantment influence dps shown in item ([#77687](https://github.com/CleverRaven/Cataclysm-DDA/pull/77687))
 * Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
 
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2024-11-03-0844 ([9f98a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0844))
 
 * Remove furniture/terrain legacy alias code and JSON ([#77523](https://github.com/CleverRaven/Cataclysm-DDA/pull/77523))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-03-0625 ([9ed75c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0625))
-
 * [Magiclysm] Add a trait that prevents magical spellcasting ([#77543](https://github.com/CleverRaven/Cataclysm-DDA/pull/77543))
 * Refactoring Hub01's prototype menu ([#77471](https://github.com/CleverRaven/Cataclysm-DDA/pull/77471))
 * NO_I18N for base game ([#77498](https://github.com/CleverRaven/Cataclysm-DDA/pull/77498))

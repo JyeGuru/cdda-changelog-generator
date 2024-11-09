@@ -1,4 +1,6 @@
 * Label palette changes as "Map / Mapgen" (#77673)
+
+Cataclysm-DDA experimental build 2024-11-09-0812 (09f30df)
 * Make enchantment influence dps shown in item (#77687)
 * Routine i18n updates on 09 November 2024 (#77688)
 
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2024-11-03-1954 (fd79db8)
 
 Cataclysm-DDA experimental build 2024-11-03-0844 (9f98a02)
 * Remove furniture/terrain legacy alias code and JSON (#77523)
-
-Cataclysm-DDA experimental build 2024-11-03-0625 (9ed75c9)
 * [Magiclysm] Add a trait that prevents magical spellcasting (#77543)
 * Refactoring Hub01's prototype menu (#77471)
 * NO_I18N for base game (#77498)
