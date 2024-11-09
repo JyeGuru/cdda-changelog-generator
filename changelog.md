@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-09-2348 ([d1b14bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-2348))
+
 * deprecate melee damage enchantments ([#77662](https://github.com/CleverRaven/Cataclysm-DDA/pull/77662))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-11-05-0625 ([f37338e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-0625))
 
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-05-0400 ([c878dbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-0400))
-
 * Add interface to set all companion job priorities at once ([#77573](https://github.com/CleverRaven/Cataclysm-DDA/pull/77573))
 * Don't apply parkour bonus when moving prone ([#77557](https://github.com/CleverRaven/Cataclysm-DDA/pull/77557))
 * Nerf several vitamin-based supplement prices ([#77555](https://github.com/CleverRaven/Cataclysm-DDA/pull/77555))

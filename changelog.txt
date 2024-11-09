@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-09-2348 (d1b14bf)
 * deprecate melee damage enchantments (#77662)
 
 Cataclysm-DDA experimental build 2024-11-09-2132 (af98298)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2024-11-05-1114 (e647c67)
 
 Cataclysm-DDA experimental build 2024-11-05-0625 (f37338e)
 * remove sulfurless gunpowder recipe (#77586)
-
-Cataclysm-DDA experimental build 2024-11-05-0400 (c878dbb)
 * Add interface to set all companion job priorities at once (#77573)
 * Don't apply parkour bonus when moving prone (#77557)
 * Nerf several vitamin-based supplement prices (#77555)
