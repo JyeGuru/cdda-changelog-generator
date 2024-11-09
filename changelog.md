@@ -1,3 +1,4 @@
+* Remove spurious double semi colons ([#77702](https://github.com/CleverRaven/Cataclysm-DDA/pull/77702))
 * [Perf] Cache the absolute map square position of the first submap ([#77668](https://github.com/CleverRaven/Cataclysm-DDA/pull/77668))
 * Make exodii weaponmaster mute ([#77647](https://github.com/CleverRaven/Cataclysm-DDA/pull/77647))
 
