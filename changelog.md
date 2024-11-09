@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-09-1334 ([adfd963](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-1334))
+
+* [Xedra Evolved] Only humans can learn dream magick ([#77685](https://github.com/CleverRaven/Cataclysm-DDA/pull/77685))
 * Label palette changes as "Map / Mapgen" ([#77673](https://github.com/CleverRaven/Cataclysm-DDA/pull/77673))
 
 ---
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2024-11-03-1954 ([fd79db8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-1954))
 
 * Bail out of choosing activity for multiple NPCs if none chosen ([#77536](https://github.com/CleverRaven/Cataclysm-DDA/pull/77536))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-03-0844 ([9f98a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0844))
-
 * Remove furniture/terrain legacy alias code and JSON ([#77523](https://github.com/CleverRaven/Cataclysm-DDA/pull/77523))
 * [Magiclysm] Add a trait that prevents magical spellcasting ([#77543](https://github.com/CleverRaven/Cataclysm-DDA/pull/77543))
 * Refactoring Hub01's prototype menu ([#77471](https://github.com/CleverRaven/Cataclysm-DDA/pull/77471))
@@ -198,7 +199,6 @@
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
 * Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
 * [XEDRA Evolved] loading screen images ([#77491](https://github.com/CleverRaven/Cataclysm-DDA/pull/77491))
-* [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
