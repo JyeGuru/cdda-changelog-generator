@@ -1,3 +1,4 @@
+* deprecate melee damage enchantments ([#77662](https://github.com/CleverRaven/Cataclysm-DDA/pull/77662))
 
 ---
 
@@ -177,7 +178,6 @@
 * Bail out of choosing activity for multiple NPCs if none chosen ([#77536](https://github.com/CleverRaven/Cataclysm-DDA/pull/77536))
 * Remove furniture/terrain legacy alias code and JSON ([#77523](https://github.com/CleverRaven/Cataclysm-DDA/pull/77523))
 * [Magiclysm] Add a trait that prevents magical spellcasting ([#77543](https://github.com/CleverRaven/Cataclysm-DDA/pull/77543))
-* Refactoring Hub01's prototype menu ([#77471](https://github.com/CleverRaven/Cataclysm-DDA/pull/77471))
 * NO_I18N for base game ([#77498](https://github.com/CleverRaven/Cataclysm-DDA/pull/77498))
 * Actually stop bleeding with bandages ([#77537](https://github.com/CleverRaven/Cataclysm-DDA/pull/77537))
 * Distribute faction camp food from vehicle cargo zone ([#77540](https://github.com/CleverRaven/Cataclysm-DDA/pull/77540))
