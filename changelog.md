@@ -1,3 +1,7 @@
+* some eoc improvements ([#77571](https://github.com/CleverRaven/Cataclysm-DDA/pull/77571))
+* Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
+* [MoM] Fix swapped min/max in overload chance on failed channeling ([#77547](https://github.com/CleverRaven/Cataclysm-DDA/pull/77547))
+* Add comments for obsolete strings in translations ([#77549](https://github.com/CleverRaven/Cataclysm-DDA/pull/77549))
 * Optimize search for possible expansion locations ([#77572](https://github.com/CleverRaven/Cataclysm-DDA/pull/77572))
 * [MoM] Add the hellhound, a pyrokinetic dog ([#77617](https://github.com/CleverRaven/Cataclysm-DDA/pull/77617))
 * Tweaks for visibility checks regarding vehicles and furniture ([#77599](https://github.com/CleverRaven/Cataclysm-DDA/pull/77599))
@@ -112,12 +116,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-11-05-1858 ([582f33f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-1858))
-
-* [CR] Pathfinding accounts for SMALL_PASSAGE ([#77446](https://github.com/CleverRaven/Cataclysm-DDA/pull/77446))
-
----
-
 #### Cataclysm-DDA experimental build 2024-11-05-1616 ([0968b5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-1616))
 
 * Add diagonal directions to pc/npc pathfinding ([#77556](https://github.com/CleverRaven/Cataclysm-DDA/pull/77556))
@@ -208,8 +206,5 @@
 * [XEDRA Evolved] loading screen images ([#77491](https://github.com/CleverRaven/Cataclysm-DDA/pull/77491))
 * [DinoMod] eggs directly into hatchlings ([#77465](https://github.com/CleverRaven/Cataclysm-DDA/pull/77465))
 * Add recommended palettes to MAPGEN.md ([#77466](https://github.com/CleverRaven/Cataclysm-DDA/pull/77466))
-* fix scenario spawns ([#77451](https://github.com/CleverRaven/Cataclysm-DDA/pull/77451))
-* eoc: clear deferred math on error ([#77445](https://github.com/CleverRaven/Cataclysm-DDA/pull/77445))
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
-* Dropped lit cigarette won't start fires if there's no flammable terrain, furniture, or items on that tile ([#77447](https://github.com/CleverRaven/Cataclysm-DDA/pull/77447))
