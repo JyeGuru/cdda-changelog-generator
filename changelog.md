@@ -1,3 +1,5 @@
+* Optimize search for possible expansion locations ([#77572](https://github.com/CleverRaven/Cataclysm-DDA/pull/77572))
+* [MoM] Add the hellhound, a pyrokinetic dog ([#77617](https://github.com/CleverRaven/Cataclysm-DDA/pull/77617))
 * Tweaks for visibility checks regarding vehicles and furniture ([#77599](https://github.com/CleverRaven/Cataclysm-DDA/pull/77599))
 * Made tree tops burn and more collapse on wall loss ([#77605](https://github.com/CleverRaven/Cataclysm-DDA/pull/77605))
 * Scouting is less exercise than Combat patrol ([#77620](https://github.com/CleverRaven/Cataclysm-DDA/pull/77620))
@@ -211,5 +213,3 @@
 * [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
 * Dropped lit cigarette won't start fires if there's no flammable terrain, furniture, or items on that tile ([#77447](https://github.com/CleverRaven/Cataclysm-DDA/pull/77447))
-* Fix flatlander not using special attack ([#77435](https://github.com/CleverRaven/Cataclysm-DDA/pull/77435))
-* Add myself to comment-commands.yml ([#77438](https://github.com/CleverRaven/Cataclysm-DDA/pull/77438))
