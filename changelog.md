@@ -1,3 +1,4 @@
+* Armor destroyed Event ([#77508](https://github.com/CleverRaven/Cataclysm-DDA/pull/77508))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
 * [MoM] Add MIND_SEEING flag, give it to the hidebehind, rework hidebehind so it uses its powers to hide (and thus you can see it if you have Telepathic Shield up) ([#77566](https://github.com/CleverRaven/Cataclysm-DDA/pull/77566))
 * some eoc improvements ([#77571](https://github.com/CleverRaven/Cataclysm-DDA/pull/77571))
@@ -138,7 +139,6 @@
 #### Cataclysm-DDA experimental build 2024-11-05-0625 ([f37338e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-0625))
 
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
-* Shift towards making the tutorial work as a mod behind the scenes ([#77455](https://github.com/CleverRaven/Cataclysm-DDA/pull/77455))
 
 ---
 
@@ -189,7 +189,6 @@
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
-* debug: check for SIGINT during debug prompt ([#77457](https://github.com/CleverRaven/Cataclysm-DDA/pull/77457))
 * Add new no-lid variant of large clay pot, make it usable for the slow sand water filter ([#77463](https://github.com/CleverRaven/Cataclysm-DDA/pull/77463))
 * Fix profession parser ([#77477](https://github.com/CleverRaven/Cataclysm-DDA/pull/77477))
 * [MoM] Update everglow matrix lighting recipes ([#77478](https://github.com/CleverRaven/Cataclysm-DDA/pull/77478))
