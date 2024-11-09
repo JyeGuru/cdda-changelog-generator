@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-09-0555 ([5c5df5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-0555))
+
 * Armor destroyed Event ([#77508](https://github.com/CleverRaven/Cataclysm-DDA/pull/77508))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
 * [MoM] Add MIND_SEEING flag, give it to the hidebehind, rework hidebehind so it uses its powers to hide (and thus you can see it if you have Telepathic Shield up) ([#77566](https://github.com/CleverRaven/Cataclysm-DDA/pull/77566))
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-11-03-0625 ([9ed75c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0625))
 
 * [Magiclysm] Add a trait that prevents magical spellcasting ([#77543](https://github.com/CleverRaven/Cataclysm-DDA/pull/77543))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-03-0302 ([1f0daba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-03-0302))
-
 * Refactoring Hub01's prototype menu ([#77471](https://github.com/CleverRaven/Cataclysm-DDA/pull/77471))
 * NO_I18N for base game ([#77498](https://github.com/CleverRaven/Cataclysm-DDA/pull/77498))
 * Actually stop bleeding with bandages ([#77537](https://github.com/CleverRaven/Cataclysm-DDA/pull/77537))
