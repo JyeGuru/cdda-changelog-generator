@@ -1,3 +1,4 @@
+* [Perf] Cache the absolute map square position of the first submap ([#77668](https://github.com/CleverRaven/Cataclysm-DDA/pull/77668))
 * Make exodii weaponmaster mute ([#77647](https://github.com/CleverRaven/Cataclysm-DDA/pull/77647))
 
 ---
@@ -200,5 +201,4 @@
 * [Xedra Evolved] Fix homullus trait regressions ([#77486](https://github.com/CleverRaven/Cataclysm-DDA/pull/77486))
 * Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
 * [XEDRA Evolved] loading screen images ([#77491](https://github.com/CleverRaven/Cataclysm-DDA/pull/77491))
-* [MoM] Fix Ehēcatl spelling ([#77467](https://github.com/CleverRaven/Cataclysm-DDA/pull/77467))
 * Small mapgen fix ([#77469](https://github.com/CleverRaven/Cataclysm-DDA/pull/77469))
