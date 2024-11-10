@@ -1,5 +1,12 @@
+* Add new high-rise walls palette ([#77583](https://github.com/CleverRaven/Cataclysm-DDA/pull/77583))
+* [Xedra Evolved] Add (very small) chance of being attacked by a lilit in your sleep ([#77614](https://github.com/CleverRaven/Cataclysm-DDA/pull/77614))
 * Allow furniture/terrain copy-from for symbol, color ([#77692](https://github.com/CleverRaven/Cataclysm-DDA/pull/77692))
 * Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-11-10-1737 ([22690fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-10-1737))
+
 * [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod ([#77695](https://github.com/CleverRaven/Cataclysm-DDA/pull/77695))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
 * Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
@@ -175,11 +182,6 @@
 
 * Fix crash when not wielding item from map/vehicle after reloading ([#77613](https://github.com/CleverRaven/Cataclysm-DDA/pull/77613))
 * Add myself to comment commands list ([#77603](https://github.com/CleverRaven/Cataclysm-DDA/pull/77603))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-05-1616 ([0968b5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-1616))
-
 * Add diagonal directions to pc/npc pathfinding ([#77556](https://github.com/CleverRaven/Cataclysm-DDA/pull/77556))
 * Add optional message to display when choosing map point ([#77569](https://github.com/CleverRaven/Cataclysm-DDA/pull/77569))
 * [Sky Island] Fix side room recipe volume ([#77588](https://github.com/CleverRaven/Cataclysm-DDA/pull/77588))
@@ -204,7 +206,5 @@
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
-* Backport #73386 "Fix obtain cost when reloading, and a typo." ([#77496](https://github.com/CleverRaven/Cataclysm-DDA/pull/77496))
 * Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
 * [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies ([#77513](https://github.com/CleverRaven/Cataclysm-DDA/pull/77513))
-* Backport #74075 Correctly display the cost to learn the proficiency ([#77497](https://github.com/CleverRaven/Cataclysm-DDA/pull/77497))
