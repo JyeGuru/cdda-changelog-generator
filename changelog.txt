@@ -1,3 +1,4 @@
+* deprecate type and context in dialogues (json side) (#77516)
 
 Cataclysm-DDA experimental build 2024-11-09-2348 (d1b14bf)
 * deprecate melee damage enchantments (#77662)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2024-11-05-0625 (f37338e)
 * Update fence posts and bollards (#77539)
 * Fix typo and an incorrect comma in XE Shredder Shotgun (#77512)
 * [XE] fix two bugs about learning new blood gifts (#77533)
-* Backport #73234 Not to use meat chunks in the smoking rack (#77472)
 * [MoM] Remove monster inherent speed boosts, replace with actual powers that have to be used (#77492)
 * [Magiclysm] Feral dabblers: add small chance ferals know a single spell (#77509)
 * Fix two typos in Rifles skill description (#77526)

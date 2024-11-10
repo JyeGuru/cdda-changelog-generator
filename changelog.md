@@ -1,3 +1,4 @@
+* deprecate type and context in dialogues (json side) ([#77516](https://github.com/CleverRaven/Cataclysm-DDA/pull/77516))
 
 ---
 
@@ -185,7 +186,6 @@
 * Update fence posts and bollards ([#77539](https://github.com/CleverRaven/Cataclysm-DDA/pull/77539))
 * Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
-* Backport #73234 Not to use meat chunks in the smoking rack ([#77472](https://github.com/CleverRaven/Cataclysm-DDA/pull/77472))
 * [MoM] Remove monster inherent speed boosts, replace with actual powers that have to be used ([#77492](https://github.com/CleverRaven/Cataclysm-DDA/pull/77492))
 * [Magiclysm] Feral dabblers: add small chance ferals know a single spell ([#77509](https://github.com/CleverRaven/Cataclysm-DDA/pull/77509))
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
