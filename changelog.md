@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-10-0444 ([d1d2d02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-10-0444))
+
 * [DinoMod] predator nest improvements ([#77638](https://github.com/CleverRaven/Cataclysm-DDA/pull/77638))
 
 ---
