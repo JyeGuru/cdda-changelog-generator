@@ -1,3 +1,6 @@
+* Cache mutation trait flags ([#77671](https://github.com/CleverRaven/Cataclysm-DDA/pull/77671))
+* Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
+* [Xedra Evolved] Add new Ierde trait ([#77718](https://github.com/CleverRaven/Cataclysm-DDA/pull/77718))
 
 ---
 
@@ -196,8 +199,6 @@
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
-* [MoM] Update everglow matrix lighting recipes ([#77478](https://github.com/CleverRaven/Cataclysm-DDA/pull/77478))
-* Apparel in school itemgroups spawns ``UNDERSIZE`` ([#77480](https://github.com/CleverRaven/Cataclysm-DDA/pull/77480))
 * Backport #73386 "Fix obtain cost when reloading, and a typo." ([#77496](https://github.com/CleverRaven/Cataclysm-DDA/pull/77496))
 * Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
 * fix ALARMED flag ([#77493](https://github.com/CleverRaven/Cataclysm-DDA/pull/77493))
