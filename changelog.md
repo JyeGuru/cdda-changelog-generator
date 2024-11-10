@@ -1,3 +1,4 @@
+* Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
 
 ---
 
@@ -192,7 +193,6 @@
 * NO_I18N for base game ([#77498](https://github.com/CleverRaven/Cataclysm-DDA/pull/77498))
 * Actually stop bleeding with bandages ([#77537](https://github.com/CleverRaven/Cataclysm-DDA/pull/77537))
 * Distribute faction camp food from vehicle cargo zone ([#77540](https://github.com/CleverRaven/Cataclysm-DDA/pull/77540))
-* Melee weapon item groups for random NPCs ([#77490](https://github.com/CleverRaven/Cataclysm-DDA/pull/77490))
 * Update fence posts and bollards ([#77539](https://github.com/CleverRaven/Cataclysm-DDA/pull/77539))
 * Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))

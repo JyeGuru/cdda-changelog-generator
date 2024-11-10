@@ -1,3 +1,4 @@
+* Fix compiling with HEADERPOPULARITY=1 (#77712)
 
 Cataclysm-DDA experimental build 2024-11-10-0706 (66098b4)
 * weaponmaster dialogue keeps you for not as long (#77646)
@@ -123,7 +124,6 @@ Cataclysm-DDA experimental build 2024-11-05-1616 (0968b5e)
 * NO_I18N for base game (#77498)
 * Actually stop bleeding with bandages (#77537)
 * Distribute faction camp food from vehicle cargo zone (#77540)
-* Melee weapon item groups for random NPCs (#77490)
 * Update fence posts and bollards (#77539)
 * Fix typo and an incorrect comma in XE Shredder Shotgun (#77512)
 * [XE] fix two bugs about learning new blood gifts (#77533)
