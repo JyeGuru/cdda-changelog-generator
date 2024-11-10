@@ -65,7 +65,6 @@ Cataclysm-DDA experimental build 2024-11-08-0551 (a0591f1)
 
 Cataclysm-DDA experimental build 2024-11-08-0239 (95a029c)
 * Allow mission UI to scroll (#77625)
-* UNIQUE -> OVERMAP_UNIQUE (#77475)
 * [Magiclysm] Add `FERAL` species to all fantasy ferals (#77630)
 * Fix .303 Charger spawning loaded (#77633)
 * Adds drill requirement to aluminum tank (100 L) (#77634)

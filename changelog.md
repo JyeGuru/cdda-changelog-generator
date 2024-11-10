@@ -101,7 +101,6 @@
 #### Cataclysm-DDA experimental build 2024-11-08-0239 ([95a029c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-0239))
 
 * Allow mission UI to scroll ([#77625](https://github.com/CleverRaven/Cataclysm-DDA/pull/77625))
-* UNIQUE -> OVERMAP_UNIQUE ([#77475](https://github.com/CleverRaven/Cataclysm-DDA/pull/77475))
 * [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
 * Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
 * Adds drill requirement to aluminum tank (100 L) ([#77634](https://github.com/CleverRaven/Cataclysm-DDA/pull/77634))
