@@ -1,3 +1,6 @@
+* [DinoMod] predator nest improvements (#77638)
+
+Cataclysm-DDA experimental build 2024-11-10-0217 (82f1f45)
 * deprecate type and context in dialogues (json side) (#77516)
 
 Cataclysm-DDA experimental build 2024-11-09-2348 (d1b14bf)
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2024-11-05-1616 (0968b5e)
 Cataclysm-DDA experimental build 2024-11-05-1114 (e647c67)
 * [Xedra Evolved/Innawood] Remove modern items from XE spawns Innawood, allow starting with XE-specific scenarios (#77546)
 * Add `IRRITANT_IMMUNE` to more armors and exoskeletons (#77524)
-
-Cataclysm-DDA experimental build 2024-11-05-0625 (f37338e)
 * remove sulfurless gunpowder recipe (#77586)
 * Add interface to set all companion job priorities at once (#77573)
 * Don't apply parkour bonus when moving prone (#77557)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2024-11-05-0625 (f37338e)
 * Fix two typos in Rifles skill description (#77526)
 * Only update PC location if it's inbounds (#77528)
 * Balance/fix ranged weapon selection for random NPCs (#77510)
-* Fix profession parser (#77477)
 * [MoM] Update everglow matrix lighting recipes (#77478)
 * Apparel in school itemgroups spawns ``UNDERSIZE`` (#77480)
 * Backport #73386 "Fix obtain cost when reloading, and a typo." (#77496)

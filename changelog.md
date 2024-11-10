@@ -1,3 +1,9 @@
+* [DinoMod] predator nest improvements ([#77638](https://github.com/CleverRaven/Cataclysm-DDA/pull/77638))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-10-0217 ([82f1f45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-10-0217))
+
 * deprecate type and context in dialogues (json side) ([#77516](https://github.com/CleverRaven/Cataclysm-DDA/pull/77516))
 
 ---
@@ -166,11 +172,6 @@
 
 * [Xedra Evolved/Innawood] Remove modern items from XE spawns Innawood, allow starting with XE-specific scenarios ([#77546](https://github.com/CleverRaven/Cataclysm-DDA/pull/77546))
 * Add `IRRITANT_IMMUNE` to more armors and exoskeletons ([#77524](https://github.com/CleverRaven/Cataclysm-DDA/pull/77524))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-05-0625 ([f37338e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-0625))
-
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
 * Add interface to set all companion job priorities at once ([#77573](https://github.com/CleverRaven/Cataclysm-DDA/pull/77573))
 * Don't apply parkour bonus when moving prone ([#77557](https://github.com/CleverRaven/Cataclysm-DDA/pull/77557))
@@ -190,7 +191,6 @@
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
-* Fix profession parser ([#77477](https://github.com/CleverRaven/Cataclysm-DDA/pull/77477))
 * [MoM] Update everglow matrix lighting recipes ([#77478](https://github.com/CleverRaven/Cataclysm-DDA/pull/77478))
 * Apparel in school itemgroups spawns ``UNDERSIZE`` ([#77480](https://github.com/CleverRaven/Cataclysm-DDA/pull/77480))
 * Backport #73386 "Fix obtain cost when reloading, and a typo." ([#77496](https://github.com/CleverRaven/Cataclysm-DDA/pull/77496))
