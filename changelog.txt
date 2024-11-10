@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-10-0706 (66098b4)
 * weaponmaster dialogue keeps you for not as long (#77646)
 * input: fix no-op input loop when quitting (#77651)
 * Cache mutation trait flags (#77671)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2024-11-05-1616 (0968b5e)
 * [Sky Island] Fix side room recipe volume (#77588)
 * [Xedra Evolved] Add Forestwalker trait to Arvore (#77596)
 * Fix #77500 - Repeatable crash when interacting with an item (#77551)
-
-Cataclysm-DDA experimental build 2024-11-05-1114 (e647c67)
 * [Xedra Evolved/Innawood] Remove modern items from XE spawns Innawood, allow starting with XE-specific scenarios (#77546)
 * Add `IRRITANT_IMMUNE` to more armors and exoskeletons (#77524)
 * remove sulfurless gunpowder recipe (#77586)

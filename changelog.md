@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-10-0706 ([66098b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-10-0706))
+
 * weaponmaster dialogue keeps you for not as long ([#77646](https://github.com/CleverRaven/Cataclysm-DDA/pull/77646))
 * input: fix no-op input loop when quitting ([#77651](https://github.com/CleverRaven/Cataclysm-DDA/pull/77651))
 * Cache mutation trait flags ([#77671](https://github.com/CleverRaven/Cataclysm-DDA/pull/77671))
@@ -175,11 +180,6 @@
 * [Sky Island] Fix side room recipe volume ([#77588](https://github.com/CleverRaven/Cataclysm-DDA/pull/77588))
 * [Xedra Evolved] Add Forestwalker trait to Arvore ([#77596](https://github.com/CleverRaven/Cataclysm-DDA/pull/77596))
 * Fix #77500 - Repeatable crash when interacting with an item ([#77551](https://github.com/CleverRaven/Cataclysm-DDA/pull/77551))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-05-1114 ([e647c67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-05-1114))
-
 * [Xedra Evolved/Innawood] Remove modern items from XE spawns Innawood, allow starting with XE-specific scenarios ([#77546](https://github.com/CleverRaven/Cataclysm-DDA/pull/77546))
 * Add `IRRITANT_IMMUNE` to more armors and exoskeletons ([#77524](https://github.com/CleverRaven/Cataclysm-DDA/pull/77524))
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
