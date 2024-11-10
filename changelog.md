@@ -1,3 +1,7 @@
+* Allow furniture/terrain copy-from for symbol, color ([#77692](https://github.com/CleverRaven/Cataclysm-DDA/pull/77692))
+* Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
+* [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod ([#77695](https://github.com/CleverRaven/Cataclysm-DDA/pull/77695))
+* Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
 * Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
 
 ---
@@ -196,15 +200,11 @@
 * Update fence posts and bollards ([#77539](https://github.com/CleverRaven/Cataclysm-DDA/pull/77539))
 * Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
-* [MoM] Remove monster inherent speed boosts, replace with actual powers that have to be used ([#77492](https://github.com/CleverRaven/Cataclysm-DDA/pull/77492))
 * [Magiclysm] Feral dabblers: add small chance ferals know a single spell ([#77509](https://github.com/CleverRaven/Cataclysm-DDA/pull/77509))
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
 * Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
 * Backport #73386 "Fix obtain cost when reloading, and a typo." ([#77496](https://github.com/CleverRaven/Cataclysm-DDA/pull/77496))
 * Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
-* fix ALARMED flag ([#77493](https://github.com/CleverRaven/Cataclysm-DDA/pull/77493))
 * [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies ([#77513](https://github.com/CleverRaven/Cataclysm-DDA/pull/77513))
 * Backport #74075 Correctly display the cost to learn the proficiency ([#77497](https://github.com/CleverRaven/Cataclysm-DDA/pull/77497))
-* Routine tileset updates on 01 November 2024 ([#77495](https://github.com/CleverRaven/Cataclysm-DDA/pull/77495))
-* [XEDRA Evolved] loading screen images ([#77491](https://github.com/CleverRaven/Cataclysm-DDA/pull/77491))
