@@ -1,3 +1,4 @@
+* Typo in MSVC.cmake (/DYNAMICBASE) ([#77734](https://github.com/CleverRaven/Cataclysm-DDA/pull/77734))
 
 ---
 
@@ -42,12 +43,6 @@
 #### Cataclysm-DDA experimental build 2024-11-10-0444 ([d1d2d02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-10-0444))
 
 * [DinoMod] predator nest improvements ([#77638](https://github.com/CleverRaven/Cataclysm-DDA/pull/77638))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-10-0217 ([82f1f45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-10-0217))
-
-* deprecate type and context in dialogues (json side) ([#77516](https://github.com/CleverRaven/Cataclysm-DDA/pull/77516))
 
 ---
 

@@ -1,3 +1,4 @@
+* Typo in MSVC.cmake (/DYNAMICBASE) (#77734)
 
 Cataclysm-DDA experimental build 2024-11-11-0430 (64920f9)
 * Reduce IWI Tavor's min_cycle_recoil (.223) (#77741)
@@ -27,9 +28,6 @@ Cataclysm-DDA experimental build 2024-11-10-0706 (66098b4)
 
 Cataclysm-DDA experimental build 2024-11-10-0444 (d1d2d02)
 * [DinoMod] predator nest improvements (#77638)
-
-Cataclysm-DDA experimental build 2024-11-10-0217 (82f1f45)
-* deprecate type and context in dialogues (json side) (#77516)
 
 Cataclysm-DDA experimental build 2024-11-09-2348 (d1b14bf)
 * deprecate melee damage enchantments (#77662)
