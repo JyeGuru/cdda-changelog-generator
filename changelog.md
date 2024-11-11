@@ -104,7 +104,6 @@
 * [MoM] Add MIND_SEEING flag, give it to the hidebehind, rework hidebehind so it uses its powers to hide (and thus you can see it if you have Telepathic Shield up) ([#77566](https://github.com/CleverRaven/Cataclysm-DDA/pull/77566))
 * some eoc improvements ([#77571](https://github.com/CleverRaven/Cataclysm-DDA/pull/77571))
 * Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
-* Add comments for obsolete strings in translations ([#77549](https://github.com/CleverRaven/Cataclysm-DDA/pull/77549))
 * Optimize search for possible expansion locations ([#77572](https://github.com/CleverRaven/Cataclysm-DDA/pull/77572))
 * [MoM] Add the hellhound, a pyrokinetic dog ([#77617](https://github.com/CleverRaven/Cataclysm-DDA/pull/77617))
 * Tweaks for visibility checks regarding vehicles and furniture ([#77599](https://github.com/CleverRaven/Cataclysm-DDA/pull/77599))
