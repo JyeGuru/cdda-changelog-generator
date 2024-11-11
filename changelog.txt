@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-11-0430 (64920f9)
 * Reduce IWI Tavor's min_cycle_recoil (.223) (#77741)
 * Washing soda & baking soda barter price reduction (#77746)
 
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-11-06-0845 (93c608c)
 
 Cataclysm-DDA experimental build 2024-11-06-0557 (e3b9d98)
 * Bunny suits (#77600)
-
-Cataclysm-DDA 0.H release candidate 2024-11-06-0515 (f929eb3)
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading (#77612)
 * [Innawood/Xedra Evolved] Fix double id (#77610)
 * Fix crash when not wielding item from map/vehicle after reloading (#77613)
