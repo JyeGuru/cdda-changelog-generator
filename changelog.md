@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-11-2310 ([6e7f4ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-2310))
+
 * using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-11-06-1638 ([60cf27e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-1638))
 
 * Empty blocks getting attunements ([#77618](https://github.com/CleverRaven/Cataclysm-DDA/pull/77618))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-06-0845 ([93c608c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-0845))
-
 * Fix garage mapgen ([#77584](https://github.com/CleverRaven/Cataclysm-DDA/pull/77584))
 * Bunny suits ([#77600](https://github.com/CleverRaven/Cataclysm-DDA/pull/77600))
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading ([#77612](https://github.com/CleverRaven/Cataclysm-DDA/pull/77612))

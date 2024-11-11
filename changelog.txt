@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-11-2310 (6e7f4ff)
 * using vines to descend no longer produces grappling hooks (#77758)
 
 Cataclysm-DDA experimental build 2024-11-11-1942 (9ac0424)
@@ -117,8 +119,6 @@ Cataclysm-DDA experimental build 2024-11-07-0605 (6ba540b)
 
 Cataclysm-DDA experimental build 2024-11-06-1638 (60cf27e)
 * Empty blocks getting attunements (#77618)
-
-Cataclysm-DDA experimental build 2024-11-06-0845 (93c608c)
 * Fix garage mapgen (#77584)
 * Bunny suits (#77600)
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading (#77612)
