@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-11-1632 ([5497025](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-1632))
+
+* Further destruction of the economy ([#77755](https://github.com/CleverRaven/Cataclysm-DDA/pull/77755))
 * Typo in MSVC.cmake (/DYNAMICBASE) ([#77734](https://github.com/CleverRaven/Cataclysm-DDA/pull/77734))
 
 ---
@@ -149,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-11-07-0605 ([6ba540b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-0605))
 
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-06-1742 ([31b113c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-06-1742))
-
 * Backport #77446 for 0.H (Pathfinding accounts for SMALL_PASSAGE) ([#77550](https://github.com/CleverRaven/Cataclysm-DDA/pull/77550))
 
 ---
@@ -197,4 +198,3 @@
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
-* Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
