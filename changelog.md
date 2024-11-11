@@ -1,3 +1,5 @@
+* Reduce IWI Tavor's min_cycle_recoil (.223) ([#77741](https://github.com/CleverRaven/Cataclysm-DDA/pull/77741))
+* Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
 
 ---
 
@@ -197,9 +199,7 @@
 * Actually stop bleeding with bandages ([#77537](https://github.com/CleverRaven/Cataclysm-DDA/pull/77537))
 * Distribute faction camp food from vehicle cargo zone ([#77540](https://github.com/CleverRaven/Cataclysm-DDA/pull/77540))
 * Update fence posts and bollards ([#77539](https://github.com/CleverRaven/Cataclysm-DDA/pull/77539))
-* Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
 * Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
-* [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies ([#77513](https://github.com/CleverRaven/Cataclysm-DDA/pull/77513))
