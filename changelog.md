@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-11-1942 ([9ac0424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-1942))
+
 * Add a radio tower palette and make them use it ([#77729](https://github.com/CleverRaven/Cataclysm-DDA/pull/77729))
 * Magiclysm: Make Mana Crystals Rigid containers ([#77717](https://github.com/CleverRaven/Cataclysm-DDA/pull/77717))
 * Silenced compiler warnings ([#77675](https://github.com/CleverRaven/Cataclysm-DDA/pull/77675))
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-11-06-0845 ([93c608c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-0845))
 
 * Fix garage mapgen ([#77584](https://github.com/CleverRaven/Cataclysm-DDA/pull/77584))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-06-0557 ([e3b9d98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-0557))
-
 * Bunny suits ([#77600](https://github.com/CleverRaven/Cataclysm-DDA/pull/77600))
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading ([#77612](https://github.com/CleverRaven/Cataclysm-DDA/pull/77612))
 * [Innawood/Xedra Evolved] Fix double id ([#77610](https://github.com/CleverRaven/Cataclysm-DDA/pull/77610))
