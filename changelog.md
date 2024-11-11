@@ -1,3 +1,6 @@
+* Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
+* Parametrize all walls: Part 2 ([#77567](https://github.com/CleverRaven/Cataclysm-DDA/pull/77567))
+* Rework lumbermill ([#77621](https://github.com/CleverRaven/Cataclysm-DDA/pull/77621))
 * typified a bit of vehicle.h and dependents ([#77554](https://github.com/CleverRaven/Cataclysm-DDA/pull/77554))
 * Add new high-rise walls palette ([#77583](https://github.com/CleverRaven/Cataclysm-DDA/pull/77583))
 * [Xedra Evolved] Add (very small) chance of being attacked by a lilit in your sleep ([#77614](https://github.com/CleverRaven/Cataclysm-DDA/pull/77614))
@@ -67,12 +70,6 @@
 
 * Make enchantment influence dps shown in item ([#77687](https://github.com/CleverRaven/Cataclysm-DDA/pull/77687))
 * Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-09-0555 ([5c5df5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-0555))
-
-* Armor destroyed Event ([#77508](https://github.com/CleverRaven/Cataclysm-DDA/pull/77508))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
 * [MoM] Add MIND_SEEING flag, give it to the hidebehind, rework hidebehind so it uses its powers to hide (and thus you can see it if you have Telepathic Shield up) ([#77566](https://github.com/CleverRaven/Cataclysm-DDA/pull/77566))
 * some eoc improvements ([#77571](https://github.com/CleverRaven/Cataclysm-DDA/pull/77571))
@@ -202,9 +199,7 @@
 * Update fence posts and bollards ([#77539](https://github.com/CleverRaven/Cataclysm-DDA/pull/77539))
 * Fix typo and an incorrect comma in XE Shredder Shotgun ([#77512](https://github.com/CleverRaven/Cataclysm-DDA/pull/77512))
 * [XE] fix two bugs about learning new blood gifts ([#77533](https://github.com/CleverRaven/Cataclysm-DDA/pull/77533))
-* [Magiclysm] Feral dabblers: add small chance ferals know a single spell ([#77509](https://github.com/CleverRaven/Cataclysm-DDA/pull/77509))
 * Fix two typos in Rifles skill description ([#77526](https://github.com/CleverRaven/Cataclysm-DDA/pull/77526))
 * Only update PC location if it's inbounds ([#77528](https://github.com/CleverRaven/Cataclysm-DDA/pull/77528))
-* Balance/fix ranged weapon selection for random NPCs ([#77510](https://github.com/CleverRaven/Cataclysm-DDA/pull/77510))
 * Routine i18n updates on 02 November 2024 ([#77519](https://github.com/CleverRaven/Cataclysm-DDA/pull/77519))
 * [Magiclysm] Zombie versions of lizardfolk and ravenfolk drop tainted flesh like all other zombies ([#77513](https://github.com/CleverRaven/Cataclysm-DDA/pull/77513))
