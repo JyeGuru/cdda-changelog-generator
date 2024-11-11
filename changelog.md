@@ -1,3 +1,4 @@
+* using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
 
 ---
 
@@ -10,7 +11,6 @@
 * Don't try to shoot with empty gun ([#77624](https://github.com/CleverRaven/Cataclysm-DDA/pull/77624))
 * Add more concrete walls to the parametrized walls palette ([#77574](https://github.com/CleverRaven/Cataclysm-DDA/pull/77574))
 * Update JSON_INHERITANCE.md ([#77568](https://github.com/CleverRaven/Cataclysm-DDA/pull/77568))
-* There can be only one ([#77548](https://github.com/CleverRaven/Cataclysm-DDA/pull/77548))
 * Add Portuguese (Portugal) to options menu ([#77706](https://github.com/CleverRaven/Cataclysm-DDA/pull/77706))
 * Weekly Changelog 2024-11-04 to 2024-11-11 ([#77750](https://github.com/CleverRaven/Cataclysm-DDA/pull/77750))
 * Several tweaks to Respirator bionic ([#77753](https://github.com/CleverRaven/Cataclysm-DDA/pull/77753))
