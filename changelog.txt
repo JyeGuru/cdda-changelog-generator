@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-11-0155 (e74037e)
 * Aftershock: Make UICA share public goods. (#77735)
 * Parametrize all walls: Part 2 (#77567)
 * Rework lumbermill (#77621)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-11-06-0557 (e3b9d98)
 Cataclysm-DDA 0.H release candidate 2024-11-06-0515 (f929eb3)
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading (#77612)
 * [Innawood/Xedra Evolved] Fix double id (#77610)
-
-Cataclysm-DDA experimental build 2024-11-06-0003 (dae649f)
 * Fix crash when not wielding item from map/vehicle after reloading (#77613)
 * Add myself to comment commands list (#77603)
 * Add diagonal directions to pc/npc pathfinding (#77556)
