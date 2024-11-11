@@ -1,3 +1,5 @@
+* [Xedra Evolved] Simplify Take the Line JSON (#77740)
+* [Xedra Evolved] Fish are immune to the evil eye (#77739)
 
 Cataclysm-DDA experimental build 2024-11-11-2310 (6e7f4ff)
 * using vines to descend no longer produces grappling hooks (#77758)
@@ -115,7 +117,6 @@ Cataclysm-DDA experimental build 2024-11-08-0239 (95a029c)
 
 Cataclysm-DDA experimental build 2024-11-07-0605 (6ba540b)
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup (#77641)
-* Backport #77446 for 0.H (Pathfinding accounts for SMALL_PASSAGE) (#77550)
 
 Cataclysm-DDA experimental build 2024-11-06-1638 (60cf27e)
 * Empty blocks getting attunements (#77618)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2024-11-06-1638 (60cf27e)
 * Add optional message to display when choosing map point (#77569)
 * [Sky Island] Fix side room recipe volume (#77588)
 * [Xedra Evolved] Add Forestwalker trait to Arvore (#77596)
-* Fix #77500 - Repeatable crash when interacting with an item (#77551)
 * remove sulfurless gunpowder recipe (#77586)
 * Add interface to set all companion job priorities at once (#77573)
 * Don't apply parkour bonus when moving prone (#77557)

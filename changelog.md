@@ -1,3 +1,5 @@
+* [Xedra Evolved] Simplify Take the Line JSON ([#77740](https://github.com/CleverRaven/Cataclysm-DDA/pull/77740))
+* [Xedra Evolved] Fish are immune to the evil eye ([#77739](https://github.com/CleverRaven/Cataclysm-DDA/pull/77739))
 
 ---
 
@@ -175,7 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-11-07-0605 ([6ba540b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-0605))
 
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
-* Backport #77446 for 0.H (Pathfinding accounts for SMALL_PASSAGE) ([#77550](https://github.com/CleverRaven/Cataclysm-DDA/pull/77550))
 
 ---
 
@@ -192,7 +193,6 @@
 * Add optional message to display when choosing map point ([#77569](https://github.com/CleverRaven/Cataclysm-DDA/pull/77569))
 * [Sky Island] Fix side room recipe volume ([#77588](https://github.com/CleverRaven/Cataclysm-DDA/pull/77588))
 * [Xedra Evolved] Add Forestwalker trait to Arvore ([#77596](https://github.com/CleverRaven/Cataclysm-DDA/pull/77596))
-* Fix #77500 - Repeatable crash when interacting with an item ([#77551](https://github.com/CleverRaven/Cataclysm-DDA/pull/77551))
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
 * Add interface to set all companion job priorities at once ([#77573](https://github.com/CleverRaven/Cataclysm-DDA/pull/77573))
 * Don't apply parkour bonus when moving prone ([#77557](https://github.com/CleverRaven/Cataclysm-DDA/pull/77557))
