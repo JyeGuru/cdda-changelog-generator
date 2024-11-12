@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-12-1951 ([d7f0e5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-1951))
+
 * Remove Bathroom Scale Recipe ([#77778](https://github.com/CleverRaven/Cataclysm-DDA/pull/77778))
 
 ---
@@ -168,11 +173,6 @@
 * [MoM] Insight proficiencies prevent overload from high Nether Attunement ([#77655](https://github.com/CleverRaven/Cataclysm-DDA/pull/77655))
 * Move NPC bye message to snippet ([#77648](https://github.com/CleverRaven/Cataclysm-DDA/pull/77648))
 * Spell activated EoCs are passed the target as a context val ([#77656](https://github.com/CleverRaven/Cataclysm-DDA/pull/77656))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-08-0551 ([a0591f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-0551))
-
 * Replace rock floor in gas station ([#77635](https://github.com/CleverRaven/Cataclysm-DDA/pull/77635))
 * [Xedra Evolved] Fix talker errors with a couple lilin spells ([#77660](https://github.com/CleverRaven/Cataclysm-DDA/pull/77660))
 * [MoM] Update Anabolic Rejuvenation and Accelerated Resuscitation with EoCified healing ([#77658](https://github.com/CleverRaven/Cataclysm-DDA/pull/77658))
