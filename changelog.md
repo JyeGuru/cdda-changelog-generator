@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-12-1434 ([0b76c57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-1434))
+
+* Simple cloth quiver for holding various ammo ([#77774](https://github.com/CleverRaven/Cataclysm-DDA/pull/77774))
 * [Sky Island] Add possibility of autodocs or CBMs to Exodii crash pods ([#77738](https://github.com/CleverRaven/Cataclysm-DDA/pull/77738))
 * [MoM] Fix mesmerism EoC ([#77769](https://github.com/CleverRaven/Cataclysm-DDA/pull/77769))
 * [MOM] Adjust Electron Overflow EOC logic to allow charging values above 5 ([#77754](https://github.com/CleverRaven/Cataclysm-DDA/pull/77754))
@@ -191,4 +197,3 @@
 * [Xedra Evolved] Add Forestwalker trait to Arvore ([#77596](https://github.com/CleverRaven/Cataclysm-DDA/pull/77596))
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
 * Add interface to set all companion job priorities at once ([#77573](https://github.com/CleverRaven/Cataclysm-DDA/pull/77573))
-* Don't apply parkour bonus when moving prone ([#77557](https://github.com/CleverRaven/Cataclysm-DDA/pull/77557))
