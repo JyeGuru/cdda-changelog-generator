@@ -1,3 +1,4 @@
+* Updates for melee enchantment bonuses ([#77742](https://github.com/CleverRaven/Cataclysm-DDA/pull/77742))
 
 ---
 
@@ -121,7 +122,6 @@
 * Make enchantment influence dps shown in item ([#77687](https://github.com/CleverRaven/Cataclysm-DDA/pull/77687))
 * Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
-* [MoM] Add MIND_SEEING flag, give it to the hidebehind, rework hidebehind so it uses its powers to hide (and thus you can see it if you have Telepathic Shield up) ([#77566](https://github.com/CleverRaven/Cataclysm-DDA/pull/77566))
 * some eoc improvements ([#77571](https://github.com/CleverRaven/Cataclysm-DDA/pull/77571))
 * Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
 * Optimize search for possible expansion locations ([#77572](https://github.com/CleverRaven/Cataclysm-DDA/pull/77572))
