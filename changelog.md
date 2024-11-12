@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-12-1726 ([b8a6d08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-1726))
+
 * Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
 * Updates for melee enchantment bonuses ([#77742](https://github.com/CleverRaven/Cataclysm-DDA/pull/77742))
 
@@ -174,11 +179,6 @@
 * [Xedra Evolved] Move werewolf healing over to EoC ([#77657](https://github.com/CleverRaven/Cataclysm-DDA/pull/77657))
 * [Xedra Evolved] Add direct number ruach gauge for lilin ([#77659](https://github.com/CleverRaven/Cataclysm-DDA/pull/77659))
 * Add Portuguese translation ([#77649](https://github.com/CleverRaven/Cataclysm-DDA/pull/77649))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-08-0239 ([95a029c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-0239))
-
 * Allow mission UI to scroll ([#77625](https://github.com/CleverRaven/Cataclysm-DDA/pull/77625))
 * [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
 * Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
