@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-12-0158 ([0c29c27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-0158))
+
 * [Xedra Evolved] Simplify Take the Line JSON ([#77740](https://github.com/CleverRaven/Cataclysm-DDA/pull/77740))
 * [Xedra Evolved] Fish are immune to the evil eye ([#77739](https://github.com/CleverRaven/Cataclysm-DDA/pull/77739))
 
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-11-07-0605 ([6ba540b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-07-0605))
 
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-06-1638 ([60cf27e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-06-1638))
-
 * Empty blocks getting attunements ([#77618](https://github.com/CleverRaven/Cataclysm-DDA/pull/77618))
 * Fix garage mapgen ([#77584](https://github.com/CleverRaven/Cataclysm-DDA/pull/77584))
 * Bunny suits ([#77600](https://github.com/CleverRaven/Cataclysm-DDA/pull/77600))
