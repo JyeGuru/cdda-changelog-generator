@@ -1,3 +1,4 @@
+* [MoM] Fix mesmerism EoC ([#77769](https://github.com/CleverRaven/Cataclysm-DDA/pull/77769))
 * [MOM] Adjust Electron Overflow EOC logic to allow charging values above 5 ([#77754](https://github.com/CleverRaven/Cataclysm-DDA/pull/77754))
 
 ---
@@ -191,4 +192,3 @@
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
 * Add interface to set all companion job priorities at once ([#77573](https://github.com/CleverRaven/Cataclysm-DDA/pull/77573))
 * Don't apply parkour bonus when moving prone ([#77557](https://github.com/CleverRaven/Cataclysm-DDA/pull/77557))
-* Nerf several vitamin-based supplement prices ([#77555](https://github.com/CleverRaven/Cataclysm-DDA/pull/77555))

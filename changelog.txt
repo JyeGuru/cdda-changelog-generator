@@ -1,3 +1,4 @@
+* [MoM] Fix mesmerism EoC (#77769)
 * [MOM] Adjust Electron Overflow EOC logic to allow charging values above 5 (#77754)
 
 Cataclysm-DDA experimental build 2024-11-12-0158 (0c29c27)
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2024-11-08-0239 (95a029c)
 * remove sulfurless gunpowder recipe (#77586)
 * Add interface to set all companion job priorities at once (#77573)
 * Don't apply parkour bonus when moving prone (#77557)
-* Nerf several vitamin-based supplement prices (#77555)
