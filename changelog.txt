@@ -1,3 +1,4 @@
+* [MOM] Adjust Electron Overflow EOC logic to allow charging values above 5 (#77754)
 
 Cataclysm-DDA experimental build 2024-11-12-0158 (0c29c27)
 * [Xedra Evolved] Simplify Take the Line JSON (#77740)
@@ -31,7 +32,6 @@ Cataclysm-DDA experimental build 2024-11-11-0155 (e74037e)
 * Aftershock: Make UICA share public goods. (#77735)
 * Parametrize all walls: Part 2 (#77567)
 * Rework lumbermill (#77621)
-* typified a bit of vehicle.h and dependents (#77554)
 * Add new high-rise walls palette (#77583)
 * [Xedra Evolved] Add (very small) chance of being attacked by a lilit in your sleep (#77614)
 * Allow furniture/terrain copy-from for symbol, color (#77692)

@@ -1,3 +1,4 @@
+* [MOM] Adjust Electron Overflow EOC logic to allow charging values above 5 ([#77754](https://github.com/CleverRaven/Cataclysm-DDA/pull/77754))
 
 ---
 
@@ -49,7 +50,6 @@
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
 * Parametrize all walls: Part 2 ([#77567](https://github.com/CleverRaven/Cataclysm-DDA/pull/77567))
 * Rework lumbermill ([#77621](https://github.com/CleverRaven/Cataclysm-DDA/pull/77621))
-* typified a bit of vehicle.h and dependents ([#77554](https://github.com/CleverRaven/Cataclysm-DDA/pull/77554))
 * Add new high-rise walls palette ([#77583](https://github.com/CleverRaven/Cataclysm-DDA/pull/77583))
 * [Xedra Evolved] Add (very small) chance of being attacked by a lilit in your sleep ([#77614](https://github.com/CleverRaven/Cataclysm-DDA/pull/77614))
 * Allow furniture/terrain copy-from for symbol, color ([#77692](https://github.com/CleverRaven/Cataclysm-DDA/pull/77692))
