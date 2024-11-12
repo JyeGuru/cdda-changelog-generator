@@ -1,3 +1,4 @@
+* Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
 * Updates for melee enchantment bonuses ([#77742](https://github.com/CleverRaven/Cataclysm-DDA/pull/77742))
 
 ---
@@ -57,7 +58,6 @@
 #### Cataclysm-DDA experimental build 2024-11-11-0155 ([e74037e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-0155))
 
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
-* Parametrize all walls: Part 2 ([#77567](https://github.com/CleverRaven/Cataclysm-DDA/pull/77567))
 * Rework lumbermill ([#77621](https://github.com/CleverRaven/Cataclysm-DDA/pull/77621))
 * Add new high-rise walls palette ([#77583](https://github.com/CleverRaven/Cataclysm-DDA/pull/77583))
 * [Xedra Evolved] Add (very small) chance of being attacked by a lilit in your sleep ([#77614](https://github.com/CleverRaven/Cataclysm-DDA/pull/77614))
