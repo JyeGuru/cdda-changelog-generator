@@ -116,8 +116,6 @@ Cataclysm-DDA experimental build 2024-11-08-0239 (95a029c)
 * Fix .303 Charger spawning loaded (#77633)
 * Adds drill requirement to aluminum tank (100 L) (#77634)
 * Fix arcade mapgen (#77593)
-
-Cataclysm-DDA experimental build 2024-11-07-0605 (6ba540b)
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup (#77641)
 * Empty blocks getting attunements (#77618)
 * Fix garage mapgen (#77584)
