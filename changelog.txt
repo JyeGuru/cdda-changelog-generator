@@ -1,3 +1,4 @@
+* [Sky Island] Add possibility of autodocs or CBMs to Exodii crash pods (#77738)
 * [MoM] Fix mesmerism EoC (#77769)
 * [MOM] Adjust Electron Overflow EOC logic to allow charging values above 5 (#77754)
 
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2024-11-08-0239 (95a029c)
 * [Innawood/Xedra Evolved] Fix double id (#77610)
 * Fix crash when not wielding item from map/vehicle after reloading (#77613)
 * Add myself to comment commands list (#77603)
-* Add diagonal directions to pc/npc pathfinding (#77556)
 * Add optional message to display when choosing map point (#77569)
 * [Sky Island] Fix side room recipe volume (#77588)
 * [Xedra Evolved] Add Forestwalker trait to Arvore (#77596)
