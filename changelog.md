@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-13-0344 ([b007301](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-0344))
+
 * [Magiclysm] Fix high druid typo ([#77787](https://github.com/CleverRaven/Cataclysm-DDA/pull/77787))
 * Audit some more of the aztec stuff ([#77779](https://github.com/CleverRaven/Cataclysm-DDA/pull/77779))
 * sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
@@ -157,11 +162,6 @@
 
 * DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
 * Disable diff for .po files in .gitattributes ([#77650](https://github.com/CleverRaven/Cataclysm-DDA/pull/77650))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-08-2315 ([926d5d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-2315))
-
 * Pathfinding uses field cost for faction camp ([#77627](https://github.com/CleverRaven/Cataclysm-DDA/pull/77627))
 * Added information to crafting menu about crafting speed modifier gained by mutations ([#77628](https://github.com/CleverRaven/Cataclysm-DDA/pull/77628))
 * Terrain/furniture: code deduplication and improved "copy-from" support ([#77637](https://github.com/CleverRaven/Cataclysm-DDA/pull/77637))
