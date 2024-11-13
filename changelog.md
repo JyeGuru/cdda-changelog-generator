@@ -1,3 +1,4 @@
+* Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
 * Only remove airtight from containers that don't hold gases well ([#77643](https://github.com/CleverRaven/Cataclysm-DDA/pull/77643))
 * Fix: Show consistent healing quality ([#77699](https://github.com/CleverRaven/Cataclysm-DDA/pull/77699))
 * Crisp Air Buff ([#77711](https://github.com/CleverRaven/Cataclysm-DDA/pull/77711))
@@ -187,4 +188,3 @@
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading ([#77612](https://github.com/CleverRaven/Cataclysm-DDA/pull/77612))
 * [Innawood/Xedra Evolved] Fix double id ([#77610](https://github.com/CleverRaven/Cataclysm-DDA/pull/77610))
 * Fix crash when not wielding item from map/vehicle after reloading ([#77613](https://github.com/CleverRaven/Cataclysm-DDA/pull/77613))
-* Add myself to comment commands list ([#77603](https://github.com/CleverRaven/Cataclysm-DDA/pull/77603))
