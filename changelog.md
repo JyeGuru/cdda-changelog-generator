@@ -151,11 +151,6 @@
 
 * [Xedra Evolved] Only humans can learn dream magick ([#77685](https://github.com/CleverRaven/Cataclysm-DDA/pull/77685))
 * Label palette changes as "Map / Mapgen" ([#77673](https://github.com/CleverRaven/Cataclysm-DDA/pull/77673))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-09-0812 ([09f30df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-0812))
-
 * Make enchantment influence dps shown in item ([#77687](https://github.com/CleverRaven/Cataclysm-DDA/pull/77687))
 * Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
