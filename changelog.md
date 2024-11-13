@@ -1,3 +1,4 @@
+* Make petstore have walls again ([#77783](https://github.com/CleverRaven/Cataclysm-DDA/pull/77783))
 
 ---
 
@@ -84,7 +85,6 @@
 
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
 * Rework lumbermill ([#77621](https://github.com/CleverRaven/Cataclysm-DDA/pull/77621))
-* Add new high-rise walls palette ([#77583](https://github.com/CleverRaven/Cataclysm-DDA/pull/77583))
 * [Xedra Evolved] Add (very small) chance of being attacked by a lilit in your sleep ([#77614](https://github.com/CleverRaven/Cataclysm-DDA/pull/77614))
 * Allow furniture/terrain copy-from for symbol, color ([#77692](https://github.com/CleverRaven/Cataclysm-DDA/pull/77692))
 * Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
