@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-13-2329 ([a562b30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-2329))
+
+* Sloppy Joes with human meat is Sloppy Joseph, not manwiches ([#77814](https://github.com/CleverRaven/Cataclysm-DDA/pull/77814))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-13-2010 ([daebd7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-2010))
 
 * [DinoMod] lokiceratops ([#77759](https://github.com/CleverRaven/Cataclysm-DDA/pull/77759))
@@ -149,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-11-09-2132 ([af98298](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-2132))
 
 * Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-09-1904 ([a05e593](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-1904))
-
 * Remove spurious double semi colons ([#77702](https://github.com/CleverRaven/Cataclysm-DDA/pull/77702))
 * [Perf] Cache the absolute map square position of the first submap ([#77668](https://github.com/CleverRaven/Cataclysm-DDA/pull/77668))
 * Make exodii weaponmaster mute ([#77647](https://github.com/CleverRaven/Cataclysm-DDA/pull/77647))
@@ -175,7 +176,6 @@
 * Terrain/furniture: code deduplication and improved "copy-from" support ([#77637](https://github.com/CleverRaven/Cataclysm-DDA/pull/77637))
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
-* teleport_to_point() tweaks ([#77611](https://github.com/CleverRaven/Cataclysm-DDA/pull/77611))
 * [MoM] Insight proficiencies prevent overload from high Nether Attunement ([#77655](https://github.com/CleverRaven/Cataclysm-DDA/pull/77655))
 * Move NPC bye message to snippet ([#77648](https://github.com/CleverRaven/Cataclysm-DDA/pull/77648))
 * Spell activated EoCs are passed the target as a context val ([#77656](https://github.com/CleverRaven/Cataclysm-DDA/pull/77656))
