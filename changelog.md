@@ -1,3 +1,5 @@
+* Update Guide_for_beginning_mapgen.md ([#77745](https://github.com/CleverRaven/Cataclysm-DDA/pull/77745))
+* Make pet interaction strings sound more natural ([#77757](https://github.com/CleverRaven/Cataclysm-DDA/pull/77757))
 
 ---
 
@@ -190,6 +192,4 @@
 * [Innawood/Xedra Evolved] Fix double id ([#77610](https://github.com/CleverRaven/Cataclysm-DDA/pull/77610))
 * Fix crash when not wielding item from map/vehicle after reloading ([#77613](https://github.com/CleverRaven/Cataclysm-DDA/pull/77613))
 * Add myself to comment commands list ([#77603](https://github.com/CleverRaven/Cataclysm-DDA/pull/77603))
-* [Sky Island] Fix side room recipe volume ([#77588](https://github.com/CleverRaven/Cataclysm-DDA/pull/77588))
 * [Xedra Evolved] Add Forestwalker trait to Arvore ([#77596](https://github.com/CleverRaven/Cataclysm-DDA/pull/77596))
-* remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))

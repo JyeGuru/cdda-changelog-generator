@@ -1,3 +1,5 @@
+* Update Guide_for_beginning_mapgen.md (#77745)
+* Make pet interaction strings sound more natural (#77757)
 
 Cataclysm-DDA experimental build 2024-11-13-0609 (c7b8e84)
 * Show the power draw of battery chargers (#77726)
@@ -130,6 +132,4 @@ Cataclysm-DDA experimental build 2024-11-09-0812 (09f30df)
 * [Innawood/Xedra Evolved] Fix double id (#77610)
 * Fix crash when not wielding item from map/vehicle after reloading (#77613)
 * Add myself to comment commands list (#77603)
-* [Sky Island] Fix side room recipe volume (#77588)
 * [Xedra Evolved] Add Forestwalker trait to Arvore (#77596)
-* remove sulfurless gunpowder recipe (#77586)
