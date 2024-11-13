@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-13-2010 ([daebd7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-2010))
+
+* [DinoMod] lokiceratops ([#77759](https://github.com/CleverRaven/Cataclysm-DDA/pull/77759))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-13-1503 ([918bc6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-1503))
 
 * [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   ([#77775](https://github.com/CleverRaven/Cataclysm-DDA/pull/77775))
@@ -186,5 +192,4 @@
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
 * Empty blocks getting attunements ([#77618](https://github.com/CleverRaven/Cataclysm-DDA/pull/77618))
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading ([#77612](https://github.com/CleverRaven/Cataclysm-DDA/pull/77612))
-* [Innawood/Xedra Evolved] Fix double id ([#77610](https://github.com/CleverRaven/Cataclysm-DDA/pull/77610))
 * Fix crash when not wielding item from map/vehicle after reloading ([#77613](https://github.com/CleverRaven/Cataclysm-DDA/pull/77613))

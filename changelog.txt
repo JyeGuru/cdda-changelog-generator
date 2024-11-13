@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-13-2010 (daebd7d)
+* [DinoMod] lokiceratops (#77759)
+
 Cataclysm-DDA experimental build 2024-11-13-1503 (918bc6f)
 * [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   (#77775)
 * Ensure crushed characters are fetched from the correct location (#77805)
@@ -129,5 +132,4 @@ Cataclysm-DDA experimental build 2024-11-09-1904 (a05e593)
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup (#77641)
 * Empty blocks getting attunements (#77618)
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading (#77612)
-* [Innawood/Xedra Evolved] Fix double id (#77610)
 * Fix crash when not wielding item from map/vehicle after reloading (#77613)
