@@ -1,3 +1,4 @@
+* [Magiclysm] Fix high druid typo (#77787)
 * Audit some more of the aztec stuff (#77779)
 * sanify some longest_sides (#77790)
 * Cannibals are pariahs (#77793)
