@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-13-0052 ([f51474b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-0052))
+
+* Unify all run_eocs in single function [2/2] ([#77661](https://github.com/CleverRaven/Cataclysm-DDA/pull/77661))
+* Camp crafting uses the normal crafting GUI ([#77715](https://github.com/CleverRaven/Cataclysm-DDA/pull/77715))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-12-1951 ([d7f0e5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-1951))
 
 * Remove Bathroom Scale Recipe ([#77778](https://github.com/CleverRaven/Cataclysm-DDA/pull/77778))
@@ -132,7 +139,6 @@
 * Make enchantment influence dps shown in item ([#77687](https://github.com/CleverRaven/Cataclysm-DDA/pull/77687))
 * Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
-* some eoc improvements ([#77571](https://github.com/CleverRaven/Cataclysm-DDA/pull/77571))
 * Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
 * Optimize search for possible expansion locations ([#77572](https://github.com/CleverRaven/Cataclysm-DDA/pull/77572))
 * [MoM] Add the hellhound, a pyrokinetic dog ([#77617](https://github.com/CleverRaven/Cataclysm-DDA/pull/77617))
@@ -159,11 +165,6 @@
 * Terrain/furniture: code deduplication and improved "copy-from" support ([#77637](https://github.com/CleverRaven/Cataclysm-DDA/pull/77637))
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-08-2048 ([fed6481](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-08-2048))
-
 * teleport_to_point() tweaks ([#77611](https://github.com/CleverRaven/Cataclysm-DDA/pull/77611))
 * [MoM] Insight proficiencies prevent overload from high Nether Attunement ([#77655](https://github.com/CleverRaven/Cataclysm-DDA/pull/77655))
 * Move NPC bye message to snippet ([#77648](https://github.com/CleverRaven/Cataclysm-DDA/pull/77648))
@@ -187,7 +188,6 @@
 * [Innawood/Xedra Evolved] Fix double id ([#77610](https://github.com/CleverRaven/Cataclysm-DDA/pull/77610))
 * Fix crash when not wielding item from map/vehicle after reloading ([#77613](https://github.com/CleverRaven/Cataclysm-DDA/pull/77613))
 * Add myself to comment commands list ([#77603](https://github.com/CleverRaven/Cataclysm-DDA/pull/77603))
-* Add optional message to display when choosing map point ([#77569](https://github.com/CleverRaven/Cataclysm-DDA/pull/77569))
 * [Sky Island] Fix side room recipe volume ([#77588](https://github.com/CleverRaven/Cataclysm-DDA/pull/77588))
 * [Xedra Evolved] Add Forestwalker trait to Arvore ([#77596](https://github.com/CleverRaven/Cataclysm-DDA/pull/77596))
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
