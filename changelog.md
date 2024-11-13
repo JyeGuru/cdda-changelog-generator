@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-13-0609 ([c7b8e84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-0609))
+
 * Show the power draw of battery chargers ([#77726](https://github.com/CleverRaven/Cataclysm-DDA/pull/77726))
 * Make petstore have walls again ([#77783](https://github.com/CleverRaven/Cataclysm-DDA/pull/77783))
 
@@ -156,11 +161,6 @@
 * Replace point and tripoint sentinel values with constants ([#77626](https://github.com/CleverRaven/Cataclysm-DDA/pull/77626))
 * ask rubik about peculiar weaponmaster goods ([#77645](https://github.com/CleverRaven/Cataclysm-DDA/pull/77645))
 * Unrevert #77339 ([#77654](https://github.com/CleverRaven/Cataclysm-DDA/pull/77654))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-09-0326 ([243622b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-0326))
-
 * DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
 * Disable diff for .po files in .gitattributes ([#77650](https://github.com/CleverRaven/Cataclysm-DDA/pull/77650))
 * Pathfinding uses field cost for faction camp ([#77627](https://github.com/CleverRaven/Cataclysm-DDA/pull/77627))
