@@ -1,3 +1,6 @@
+* Audit some more of the aztec stuff ([#77779](https://github.com/CleverRaven/Cataclysm-DDA/pull/77779))
+* sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
+* Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))
 
 ---
 
@@ -50,7 +53,6 @@
 * Silenced compiler warnings ([#77675](https://github.com/CleverRaven/Cataclysm-DDA/pull/77675))
 * Adjust heavyduty lights ([#77667](https://github.com/CleverRaven/Cataclysm-DDA/pull/77667))
 * Don't try to shoot with empty gun ([#77624](https://github.com/CleverRaven/Cataclysm-DDA/pull/77624))
-* Add more concrete walls to the parametrized walls palette ([#77574](https://github.com/CleverRaven/Cataclysm-DDA/pull/77574))
 * Add Portuguese (Portugal) to options menu ([#77706](https://github.com/CleverRaven/Cataclysm-DDA/pull/77706))
 * Weekly Changelog 2024-11-04 to 2024-11-11 ([#77750](https://github.com/CleverRaven/Cataclysm-DDA/pull/77750))
 * Several tweaks to Respirator bionic ([#77753](https://github.com/CleverRaven/Cataclysm-DDA/pull/77753))
@@ -140,7 +142,6 @@
 * Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
 * Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
-* Optimize search for possible expansion locations ([#77572](https://github.com/CleverRaven/Cataclysm-DDA/pull/77572))
 * [MoM] Add the hellhound, a pyrokinetic dog ([#77617](https://github.com/CleverRaven/Cataclysm-DDA/pull/77617))
 * Tweaks for visibility checks regarding vehicles and furniture ([#77599](https://github.com/CleverRaven/Cataclysm-DDA/pull/77599))
 * Made tree tops burn and more collapse on wall loss ([#77605](https://github.com/CleverRaven/Cataclysm-DDA/pull/77605))
@@ -191,4 +192,3 @@
 * [Sky Island] Fix side room recipe volume ([#77588](https://github.com/CleverRaven/Cataclysm-DDA/pull/77588))
 * [Xedra Evolved] Add Forestwalker trait to Arvore ([#77596](https://github.com/CleverRaven/Cataclysm-DDA/pull/77596))
 * remove sulfurless gunpowder recipe ([#77586](https://github.com/CleverRaven/Cataclysm-DDA/pull/77586))
-* Add interface to set all companion job priorities at once ([#77573](https://github.com/CleverRaven/Cataclysm-DDA/pull/77573))
