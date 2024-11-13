@@ -1,3 +1,4 @@
+* Show the power draw of battery chargers ([#77726](https://github.com/CleverRaven/Cataclysm-DDA/pull/77726))
 * Make petstore have walls again ([#77783](https://github.com/CleverRaven/Cataclysm-DDA/pull/77783))
 
 ---
@@ -184,7 +185,6 @@
 * Fix arcade mapgen ([#77593](https://github.com/CleverRaven/Cataclysm-DDA/pull/77593))
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
 * Empty blocks getting attunements ([#77618](https://github.com/CleverRaven/Cataclysm-DDA/pull/77618))
-* Fix garage mapgen ([#77584](https://github.com/CleverRaven/Cataclysm-DDA/pull/77584))
 * Bunny suits ([#77600](https://github.com/CleverRaven/Cataclysm-DDA/pull/77600))
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading ([#77612](https://github.com/CleverRaven/Cataclysm-DDA/pull/77612))
 * [Innawood/Xedra Evolved] Fix double id ([#77610](https://github.com/CleverRaven/Cataclysm-DDA/pull/77610))

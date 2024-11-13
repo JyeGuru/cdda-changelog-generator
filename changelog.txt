@@ -1,3 +1,4 @@
+* Show the power draw of battery chargers (#77726)
 * Make petstore have walls again (#77783)
 
 Cataclysm-DDA experimental build 2024-11-13-0344 (b007301)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2024-11-09-0326 (243622b)
 * Fix arcade mapgen (#77593)
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup (#77641)
 * Empty blocks getting attunements (#77618)
-* Fix garage mapgen (#77584)
 * Bunny suits (#77600)
 * [0.H] Fix crash when not wielding item from map/vehicle after reloading (#77612)
 * [Innawood/Xedra Evolved] Fix double id (#77610)
