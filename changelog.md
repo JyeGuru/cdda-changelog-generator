@@ -1,3 +1,4 @@
+* [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   ([#77775](https://github.com/CleverRaven/Cataclysm-DDA/pull/77775))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
 * Only remove airtight from containers that don't hold gases well ([#77643](https://github.com/CleverRaven/Cataclysm-DDA/pull/77643))
 * Fix: Show consistent healing quality ([#77699](https://github.com/CleverRaven/Cataclysm-DDA/pull/77699))
@@ -157,7 +158,6 @@
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
 * Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
 * [MoM] Add the hellhound, a pyrokinetic dog ([#77617](https://github.com/CleverRaven/Cataclysm-DDA/pull/77617))
-* Made tree tops burn and more collapse on wall loss ([#77605](https://github.com/CleverRaven/Cataclysm-DDA/pull/77605))
 * Scouting is less exercise than Combat patrol ([#77620](https://github.com/CleverRaven/Cataclysm-DDA/pull/77620))
 * Replace point and tripoint sentinel values with constants ([#77626](https://github.com/CleverRaven/Cataclysm-DDA/pull/77626))
 * ask rubik about peculiar weaponmaster goods ([#77645](https://github.com/CleverRaven/Cataclysm-DDA/pull/77645))
