@@ -1,3 +1,4 @@
+* Riemann Shields (#77691)
 
 Cataclysm-DDA experimental build 2024-11-14-0219 (d39cf9b)
 * Forest trash updates, make field stone a bit more common and useful (#77788)
@@ -132,4 +133,3 @@ Cataclysm-DDA experimental build 2024-11-09-2348 (d1b14bf)
 * Adds drill requirement to aluminum tank (100 L) (#77634)
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup (#77641)
 * Empty blocks getting attunements (#77618)
-* Fix crash when not wielding item from map/vehicle after reloading (#77613)
