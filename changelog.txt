@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-14-1240 (65b3721)
 * Fix double preposition typos (#77830)
 * Pruning the old ``to-hit`` syntax - Part 10 (#77815)
 
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2024-11-10-0706 (66098b4)
 * Cache mutation trait flags (#77671)
 * Return a few persk that were removed by accident (#77713)
 * [Xedra Evolved] Add new Ierde trait (#77718)
-
-Cataclysm-DDA experimental build 2024-11-10-0444 (d1d2d02)
 * [DinoMod] predator nest improvements (#77638)
 * deprecate melee damage enchantments (#77662)
 * Fix placement of the aftershock landing pad (#77701)

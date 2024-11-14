@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-14-1240 ([65b3721](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-1240))
+
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
 * Pruning the old ``to-hit`` syntax - Part 10 ([#77815](https://github.com/CleverRaven/Cataclysm-DDA/pull/77815))
 
@@ -157,11 +162,6 @@
 * Cache mutation trait flags ([#77671](https://github.com/CleverRaven/Cataclysm-DDA/pull/77671))
 * Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
 * [Xedra Evolved] Add new Ierde trait ([#77718](https://github.com/CleverRaven/Cataclysm-DDA/pull/77718))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-10-0444 ([d1d2d02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-10-0444))
-
 * [DinoMod] predator nest improvements ([#77638](https://github.com/CleverRaven/Cataclysm-DDA/pull/77638))
 * deprecate melee damage enchantments ([#77662](https://github.com/CleverRaven/Cataclysm-DDA/pull/77662))
 * Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
