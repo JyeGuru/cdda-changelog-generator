@@ -122,7 +122,6 @@
 * Magiclysm: Make Mana Crystals Rigid containers ([#77717](https://github.com/CleverRaven/Cataclysm-DDA/pull/77717))
 * Silenced compiler warnings ([#77675](https://github.com/CleverRaven/Cataclysm-DDA/pull/77675))
 * Adjust heavyduty lights ([#77667](https://github.com/CleverRaven/Cataclysm-DDA/pull/77667))
-* Don't try to shoot with empty gun ([#77624](https://github.com/CleverRaven/Cataclysm-DDA/pull/77624))
 * Add Portuguese (Portugal) to options menu ([#77706](https://github.com/CleverRaven/Cataclysm-DDA/pull/77706))
 * Weekly Changelog 2024-11-04 to 2024-11-11 ([#77750](https://github.com/CleverRaven/Cataclysm-DDA/pull/77750))
 * Several tweaks to Respirator bionic ([#77753](https://github.com/CleverRaven/Cataclysm-DDA/pull/77753))
