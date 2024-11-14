@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-14-0438 ([2445365](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0438))
+
 * Riemann Shields ([#77691](https://github.com/CleverRaven/Cataclysm-DDA/pull/77691))
 
 ---
@@ -150,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-11-10-0444 ([d1d2d02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-10-0444))
 
 * [DinoMod] predator nest improvements ([#77638](https://github.com/CleverRaven/Cataclysm-DDA/pull/77638))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-09-2348 ([d1b14bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-2348))
-
 * deprecate melee damage enchantments ([#77662](https://github.com/CleverRaven/Cataclysm-DDA/pull/77662))
 * Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
 * Remove spurious double semi colons ([#77702](https://github.com/CleverRaven/Cataclysm-DDA/pull/77702))

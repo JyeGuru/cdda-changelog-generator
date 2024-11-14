@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-14-0438 (2445365)
 * Riemann Shields (#77691)
 
 Cataclysm-DDA experimental build 2024-11-14-0219 (d39cf9b)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2024-11-10-0706 (66098b4)
 
 Cataclysm-DDA experimental build 2024-11-10-0444 (d1d2d02)
 * [DinoMod] predator nest improvements (#77638)
-
-Cataclysm-DDA experimental build 2024-11-09-2348 (d1b14bf)
 * deprecate melee damage enchantments (#77662)
 * Fix placement of the aftershock landing pad (#77701)
 * Remove spurious double semi colons (#77702)
