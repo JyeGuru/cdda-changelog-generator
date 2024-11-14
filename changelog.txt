@@ -1,3 +1,4 @@
+* Fix double preposition typos (#77830)
 * Pruning the old ``to-hit`` syntax - Part 10 (#77815)
 
 Cataclysm-DDA experimental build 2024-11-14-0916 (e6dade6)
@@ -84,7 +85,6 @@ Cataclysm-DDA experimental build 2024-11-11-0430 (64920f9)
 
 Cataclysm-DDA experimental build 2024-11-11-0155 (e74037e)
 * Aftershock: Make UICA share public goods. (#77735)
-* Rework lumbermill (#77621)
 * Allow furniture/terrain copy-from for symbol, color (#77692)
 * Allow mods to override and cancel OMT migrations (#77696)
 * [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod (#77695)

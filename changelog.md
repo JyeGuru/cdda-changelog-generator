@@ -1,3 +1,4 @@
+* Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
 * Pruning the old ``to-hit`` syntax - Part 10 ([#77815](https://github.com/CleverRaven/Cataclysm-DDA/pull/77815))
 
 ---
@@ -141,7 +142,6 @@
 #### Cataclysm-DDA experimental build 2024-11-11-0155 ([e74037e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-0155))
 
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
-* Rework lumbermill ([#77621](https://github.com/CleverRaven/Cataclysm-DDA/pull/77621))
 * Allow furniture/terrain copy-from for symbol, color ([#77692](https://github.com/CleverRaven/Cataclysm-DDA/pull/77692))
 * Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
 * [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod ([#77695](https://github.com/CleverRaven/Cataclysm-DDA/pull/77695))
