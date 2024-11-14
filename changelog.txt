@@ -1,3 +1,4 @@
+* Further price adjusting (#77810)
 
 Cataclysm-DDA experimental build 2024-11-14-0438 (2445365)
 * Riemann Shields (#77691)
@@ -77,7 +78,6 @@ Cataclysm-DDA experimental build 2024-11-11-0430 (64920f9)
 Cataclysm-DDA experimental build 2024-11-11-0155 (e74037e)
 * Aftershock: Make UICA share public goods. (#77735)
 * Rework lumbermill (#77621)
-* [Xedra Evolved] Add (very small) chance of being attacked by a lilit in your sleep (#77614)
 * Allow furniture/terrain copy-from for symbol, color (#77692)
 * Allow mods to override and cancel OMT migrations (#77696)
 
