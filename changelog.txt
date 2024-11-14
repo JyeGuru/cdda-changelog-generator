@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-14-0650 (51f014f)
 * Further price adjusting (#77810)
 
 Cataclysm-DDA experimental build 2024-11-14-0438 (2445365)
@@ -80,8 +82,6 @@ Cataclysm-DDA experimental build 2024-11-11-0155 (e74037e)
 * Rework lumbermill (#77621)
 * Allow furniture/terrain copy-from for symbol, color (#77692)
 * Allow mods to override and cancel OMT migrations (#77696)
-
-Cataclysm-DDA 0.H release candidate 2024-11-10-1737 (22690fe)
 * [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod (#77695)
 * Fix failing builds (#77727)
 * Fix compiling with HEADERPOPULARITY=1 (#77712)

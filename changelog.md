@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-14-0650 ([51f014f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0650))
+
 * Further price adjusting ([#77810](https://github.com/CleverRaven/Cataclysm-DDA/pull/77810))
 
 ---
@@ -131,11 +136,6 @@
 * Rework lumbermill ([#77621](https://github.com/CleverRaven/Cataclysm-DDA/pull/77621))
 * Allow furniture/terrain copy-from for symbol, color ([#77692](https://github.com/CleverRaven/Cataclysm-DDA/pull/77692))
 * Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-10-1737 ([22690fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-10-1737))
-
 * [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod ([#77695](https://github.com/CleverRaven/Cataclysm-DDA/pull/77695))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
 * Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
