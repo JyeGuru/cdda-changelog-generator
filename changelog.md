@@ -1,3 +1,10 @@
+* Pruning the old ``to-hit`` syntax - Part 10 ([#77815](https://github.com/CleverRaven/Cataclysm-DDA/pull/77815))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-14-0916 ([e6dade6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0916))
+
+* Crafting GUI Search: cancel the search with ESC ([#77782](https://github.com/CleverRaven/Cataclysm-DDA/pull/77782))
 * Fix non .json files from being read as json ([#77821](https://github.com/CleverRaven/Cataclysm-DDA/pull/77821))
 
 ---
@@ -167,7 +174,6 @@
 * Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
 * Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
-* Scouting is less exercise than Combat patrol ([#77620](https://github.com/CleverRaven/Cataclysm-DDA/pull/77620))
 * Replace point and tripoint sentinel values with constants ([#77626](https://github.com/CleverRaven/Cataclysm-DDA/pull/77626))
 * ask rubik about peculiar weaponmaster goods ([#77645](https://github.com/CleverRaven/Cataclysm-DDA/pull/77645))
 * Unrevert #77339 ([#77654](https://github.com/CleverRaven/Cataclysm-DDA/pull/77654))
@@ -192,4 +198,3 @@
 * Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
 * Adds drill requirement to aluminum tank (100 L) ([#77634](https://github.com/CleverRaven/Cataclysm-DDA/pull/77634))
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
-* Empty blocks getting attunements ([#77618](https://github.com/CleverRaven/Cataclysm-DDA/pull/77618))
