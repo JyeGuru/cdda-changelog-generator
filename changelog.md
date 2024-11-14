@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-14-0219 ([d39cf9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0219))
+
 * Forest trash updates, make field stone a bit more common and useful ([#77788](https://github.com/CleverRaven/Cataclysm-DDA/pull/77788))
 
 ---
@@ -150,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-11-09-2348 ([d1b14bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-2348))
 
 * deprecate melee damage enchantments ([#77662](https://github.com/CleverRaven/Cataclysm-DDA/pull/77662))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-09-2132 ([af98298](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-09-2132))
-
 * Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
 * Remove spurious double semi colons ([#77702](https://github.com/CleverRaven/Cataclysm-DDA/pull/77702))
 * [Perf] Cache the absolute map square position of the first submap ([#77668](https://github.com/CleverRaven/Cataclysm-DDA/pull/77668))
