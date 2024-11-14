@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-14-2153 ([27b424d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-2153))
+
+* Increased volume of pillows, body-pillow, and volume capacity of pillowcase ([#77801](https://github.com/CleverRaven/Cataclysm-DDA/pull/77801))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-14-1240 ([65b3721](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-1240))
 
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
@@ -151,11 +157,6 @@
 * [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod ([#77695](https://github.com/CleverRaven/Cataclysm-DDA/pull/77695))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
 * Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-10-0706 ([66098b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-10-0706))
-
 * weaponmaster dialogue keeps you for not as long ([#77646](https://github.com/CleverRaven/Cataclysm-DDA/pull/77646))
 * input: fix no-op input loop when quitting ([#77651](https://github.com/CleverRaven/Cataclysm-DDA/pull/77651))
 * Cache mutation trait flags ([#77671](https://github.com/CleverRaven/Cataclysm-DDA/pull/77671))
@@ -192,7 +193,6 @@
 * [Xedra Evolved] Move werewolf healing over to EoC ([#77657](https://github.com/CleverRaven/Cataclysm-DDA/pull/77657))
 * [Xedra Evolved] Add direct number ruach gauge for lilin ([#77659](https://github.com/CleverRaven/Cataclysm-DDA/pull/77659))
 * Add Portuguese translation ([#77649](https://github.com/CleverRaven/Cataclysm-DDA/pull/77649))
-* Allow mission UI to scroll ([#77625](https://github.com/CleverRaven/Cataclysm-DDA/pull/77625))
 * [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
 * Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
 * Adds drill requirement to aluminum tank (100 L) ([#77634](https://github.com/CleverRaven/Cataclysm-DDA/pull/77634))
