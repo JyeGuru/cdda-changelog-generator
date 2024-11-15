@@ -1,3 +1,6 @@
+* Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
+* Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
+* Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
 * No lit cigs in inventory anymore, only in hands or in mouth ([#77834](https://github.com/CleverRaven/Cataclysm-DDA/pull/77834))
 
 ---
@@ -188,7 +191,6 @@
 * Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
 * Remove spurious double semi colons ([#77702](https://github.com/CleverRaven/Cataclysm-DDA/pull/77702))
 * [Perf] Cache the absolute map square position of the first submap ([#77668](https://github.com/CleverRaven/Cataclysm-DDA/pull/77668))
-* Make exodii weaponmaster mute ([#77647](https://github.com/CleverRaven/Cataclysm-DDA/pull/77647))
 * [Xedra Evolved] Only humans can learn dream magick ([#77685](https://github.com/CleverRaven/Cataclysm-DDA/pull/77685))
 * Label palette changes as "Map / Mapgen" ([#77673](https://github.com/CleverRaven/Cataclysm-DDA/pull/77673))
 * Make enchantment influence dps shown in item ([#77687](https://github.com/CleverRaven/Cataclysm-DDA/pull/77687))
@@ -201,10 +203,8 @@
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
 * [MoM] Insight proficiencies prevent overload from high Nether Attunement ([#77655](https://github.com/CleverRaven/Cataclysm-DDA/pull/77655))
-* Move NPC bye message to snippet ([#77648](https://github.com/CleverRaven/Cataclysm-DDA/pull/77648))
 * Spell activated EoCs are passed the target as a context val ([#77656](https://github.com/CleverRaven/Cataclysm-DDA/pull/77656))
 * [Xedra Evolved] Fix talker errors with a couple lilin spells ([#77660](https://github.com/CleverRaven/Cataclysm-DDA/pull/77660))
 * [MoM] Update Anabolic Rejuvenation and Accelerated Resuscitation with EoCified healing ([#77658](https://github.com/CleverRaven/Cataclysm-DDA/pull/77658))
 * [Xedra Evolved] Move werewolf healing over to EoC ([#77657](https://github.com/CleverRaven/Cataclysm-DDA/pull/77657))
 * [Xedra Evolved] Add direct number ruach gauge for lilin ([#77659](https://github.com/CleverRaven/Cataclysm-DDA/pull/77659))
-* Add Portuguese translation ([#77649](https://github.com/CleverRaven/Cataclysm-DDA/pull/77649))
