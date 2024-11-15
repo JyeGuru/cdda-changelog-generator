@@ -1,3 +1,4 @@
+* [CR] Stop warning the player about harmless critters ([#77704](https://github.com/CleverRaven/Cataclysm-DDA/pull/77704))
 * Monsters spawned via `place_critter_within` now gain ammo on spawn ([#77762](https://github.com/CleverRaven/Cataclysm-DDA/pull/77762))
 * some cooking proficiencies added to existing recipes once again ([#77804](https://github.com/CleverRaven/Cataclysm-DDA/pull/77804))
 * [MOM] Add power to cancel specific concentration effects ([#77832](https://github.com/CleverRaven/Cataclysm-DDA/pull/77832))
@@ -206,4 +207,3 @@
 * [Xedra Evolved] Move werewolf healing over to EoC ([#77657](https://github.com/CleverRaven/Cataclysm-DDA/pull/77657))
 * [Xedra Evolved] Add direct number ruach gauge for lilin ([#77659](https://github.com/CleverRaven/Cataclysm-DDA/pull/77659))
 * Add Portuguese translation ([#77649](https://github.com/CleverRaven/Cataclysm-DDA/pull/77649))
-* [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
