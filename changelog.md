@@ -1,3 +1,12 @@
+* Parametrize all walls: Palettes part 1  ([#77846](https://github.com/CleverRaven/Cataclysm-DDA/pull/77846))
+* Assorted debug menu fixes ([#77867](https://github.com/CleverRaven/Cataclysm-DDA/pull/77867))
+* Fix has_ammo and has_ammo_info ([#77887](https://github.com/CleverRaven/Cataclysm-DDA/pull/77887))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-15-2329 ([c0dd793](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2329))
+
+* bee balm nutrient audit ([#77891](https://github.com/CleverRaven/Cataclysm-DDA/pull/77891))
 
 ---
 
@@ -33,7 +42,6 @@
 
 * [0.H] Silence obsoleted EOC errors ([#77697](https://github.com/CleverRaven/Cataclysm-DDA/pull/77697))
 * Reserve space for vectors before allocating in a loop. ([#77728](https://github.com/CleverRaven/Cataclysm-DDA/pull/77728))
-* Fix EOC_Nunez_Travel's mapgen_updates searches ([#77664](https://github.com/CleverRaven/Cataclysm-DDA/pull/77664))
 * [CR] Stop warning the player about harmless critters ([#77704](https://github.com/CleverRaven/Cataclysm-DDA/pull/77704))
 * Monsters spawned via `place_critter_within` now gain ammo on spawn ([#77762](https://github.com/CleverRaven/Cataclysm-DDA/pull/77762))
 * some cooking proficiencies added to existing recipes once again ([#77804](https://github.com/CleverRaven/Cataclysm-DDA/pull/77804))
@@ -132,12 +140,6 @@
 * Audit some more of the aztec stuff ([#77779](https://github.com/CleverRaven/Cataclysm-DDA/pull/77779))
 * sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
 * Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-13-0052 ([f51474b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-0052))
-
-* Unify all run_eocs in single function [2/2] ([#77661](https://github.com/CleverRaven/Cataclysm-DDA/pull/77661))
 * Camp crafting uses the normal crafting GUI ([#77715](https://github.com/CleverRaven/Cataclysm-DDA/pull/77715))
 
 ---
@@ -168,11 +170,6 @@
 
 * [Xedra Evolved] Simplify Take the Line JSON ([#77740](https://github.com/CleverRaven/Cataclysm-DDA/pull/77740))
 * [Xedra Evolved] Fish are immune to the evil eye ([#77739](https://github.com/CleverRaven/Cataclysm-DDA/pull/77739))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-11-2310 ([6e7f4ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-2310))
-
 * using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
 * Add a radio tower palette and make them use it ([#77729](https://github.com/CleverRaven/Cataclysm-DDA/pull/77729))
 * Magiclysm: Make Mana Crystals Rigid containers ([#77717](https://github.com/CleverRaven/Cataclysm-DDA/pull/77717))
@@ -195,7 +192,6 @@
 * Cache mutation trait flags ([#77671](https://github.com/CleverRaven/Cataclysm-DDA/pull/77671))
 * Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
 * [Xedra Evolved] Add new Ierde trait ([#77718](https://github.com/CleverRaven/Cataclysm-DDA/pull/77718))
-* deprecate melee damage enchantments ([#77662](https://github.com/CleverRaven/Cataclysm-DDA/pull/77662))
 * Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
 * Remove spurious double semi colons ([#77702](https://github.com/CleverRaven/Cataclysm-DDA/pull/77702))
 * [Perf] Cache the absolute map square position of the first submap ([#77668](https://github.com/CleverRaven/Cataclysm-DDA/pull/77668))
@@ -207,4 +203,3 @@
 * DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
-* [Xedra Evolved] Fix talker errors with a couple lilin spells ([#77660](https://github.com/CleverRaven/Cataclysm-DDA/pull/77660))
