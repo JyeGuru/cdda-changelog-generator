@@ -1,4 +1,6 @@
 * fix popup messages that show up the wrong size until the next input (#77876)
+
+Cataclysm-DDA experimental build 2024-11-15-1420 (a8deffc)
 * Fix map items categorization (#77874)
 * Remove thousands separators (#77868)
 * Add missing clause id in Aftershock mod (#77870)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2024-11-11-1942 (9ac0424)
 Cataclysm-DDA experimental build 2024-11-11-1632 (5497025)
 * Further destruction of the economy (#77755)
 * Typo in MSVC.cmake (/DYNAMICBASE) (#77734)
-
-Cataclysm-DDA experimental build 2024-11-11-0430 (64920f9)
 * Reduce IWI Tavor's min_cycle_recoil (.223) (#77741)
 * Washing soda & baking soda barter price reduction (#77746)
 * Aftershock: Make UICA share public goods. (#77735)

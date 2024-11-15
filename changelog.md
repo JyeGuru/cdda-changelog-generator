@@ -1,4 +1,9 @@
 * fix popup messages that show up the wrong size until the next input ([#77876](https://github.com/CleverRaven/Cataclysm-DDA/pull/77876))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-15-1420 ([a8deffc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-1420))
+
 * Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
 * Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
@@ -171,11 +176,6 @@
 
 * Further destruction of the economy ([#77755](https://github.com/CleverRaven/Cataclysm-DDA/pull/77755))
 * Typo in MSVC.cmake (/DYNAMICBASE) ([#77734](https://github.com/CleverRaven/Cataclysm-DDA/pull/77734))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-11-0430 ([64920f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-0430))
-
 * Reduce IWI Tavor's min_cycle_recoil (.223) ([#77741](https://github.com/CleverRaven/Cataclysm-DDA/pull/77741))
 * Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
