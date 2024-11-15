@@ -1,3 +1,4 @@
+* fix popup messages that show up the wrong size until the next input ([#77876](https://github.com/CleverRaven/Cataclysm-DDA/pull/77876))
 * Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
 * Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
@@ -199,7 +200,6 @@
 * Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
 * Unrevert #77339 ([#77654](https://github.com/CleverRaven/Cataclysm-DDA/pull/77654))
 * DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
-* Disable diff for .po files in .gitattributes ([#77650](https://github.com/CleverRaven/Cataclysm-DDA/pull/77650))
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
 * [MoM] Insight proficiencies prevent overload from high Nether Attunement ([#77655](https://github.com/CleverRaven/Cataclysm-DDA/pull/77655))
