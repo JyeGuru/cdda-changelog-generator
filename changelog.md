@@ -1,3 +1,5 @@
+* [0.H] Silence obsoleted EOC errors ([#77697](https://github.com/CleverRaven/Cataclysm-DDA/pull/77697))
+* Reserve space for vectors before allocating in a loop. ([#77728](https://github.com/CleverRaven/Cataclysm-DDA/pull/77728))
 * Fix EOC_Nunez_Travel's mapgen_updates searches ([#77664](https://github.com/CleverRaven/Cataclysm-DDA/pull/77664))
 * [CR] Stop warning the player about harmless critters ([#77704](https://github.com/CleverRaven/Cataclysm-DDA/pull/77704))
 * Monsters spawned via `place_critter_within` now gain ammo on spawn ([#77762](https://github.com/CleverRaven/Cataclysm-DDA/pull/77762))
@@ -76,7 +78,6 @@
 
 * [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   ([#77775](https://github.com/CleverRaven/Cataclysm-DDA/pull/77775))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
-* Only remove airtight from containers that don't hold gases well ([#77643](https://github.com/CleverRaven/Cataclysm-DDA/pull/77643))
 * Fix: Show consistent healing quality ([#77699](https://github.com/CleverRaven/Cataclysm-DDA/pull/77699))
 * Crisp Air Buff ([#77711](https://github.com/CleverRaven/Cataclysm-DDA/pull/77711))
 * Fix Feral Soldier Drops ([#77737](https://github.com/CleverRaven/Cataclysm-DDA/pull/77737))
@@ -194,7 +195,6 @@
 * Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
 * Fix godco mapgen_updates searches ([#77665](https://github.com/CleverRaven/Cataclysm-DDA/pull/77665))
 * Fix Dino Dave mapgen_update referencing an obsoleted omt ([#77652](https://github.com/CleverRaven/Cataclysm-DDA/pull/77652))
-* ask rubik about peculiar weaponmaster goods ([#77645](https://github.com/CleverRaven/Cataclysm-DDA/pull/77645))
 * Unrevert #77339 ([#77654](https://github.com/CleverRaven/Cataclysm-DDA/pull/77654))
 * DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
 * Disable diff for .po files in .gitattributes ([#77650](https://github.com/CleverRaven/Cataclysm-DDA/pull/77650))
