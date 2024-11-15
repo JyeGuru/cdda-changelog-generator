@@ -1,3 +1,4 @@
+* [Xedra Evolved] Cryptid missions hang ups ([#77848](https://github.com/CleverRaven/Cataclysm-DDA/pull/77848))
 
 ---
 
@@ -184,7 +185,6 @@
 * Unrevert #77339 ([#77654](https://github.com/CleverRaven/Cataclysm-DDA/pull/77654))
 * DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
 * Disable diff for .po files in .gitattributes ([#77650](https://github.com/CleverRaven/Cataclysm-DDA/pull/77650))
-* Added information to crafting menu about crafting speed modifier gained by mutations ([#77628](https://github.com/CleverRaven/Cataclysm-DDA/pull/77628))
 * Terrain/furniture: code deduplication and improved "copy-from" support ([#77637](https://github.com/CleverRaven/Cataclysm-DDA/pull/77637))
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
