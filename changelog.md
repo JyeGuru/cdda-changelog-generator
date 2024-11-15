@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-15-2006 ([1b9e076](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2006))
+
 * Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
 * Fix duplicate "an" in exterminatron description ([#77849](https://github.com/CleverRaven/Cataclysm-DDA/pull/77849))
 * Fix font config issues ([#77871](https://github.com/CleverRaven/Cataclysm-DDA/pull/77871))
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-11-11-2310 ([6e7f4ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-2310))
 
 * using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-11-1942 ([9ac0424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-1942))
-
 * Add a radio tower palette and make them use it ([#77729](https://github.com/CleverRaven/Cataclysm-DDA/pull/77729))
 * Magiclysm: Make Mana Crystals Rigid containers ([#77717](https://github.com/CleverRaven/Cataclysm-DDA/pull/77717))
 * Silenced compiler warnings ([#77675](https://github.com/CleverRaven/Cataclysm-DDA/pull/77675))

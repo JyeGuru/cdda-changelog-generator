@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-15-2006 (1b9e076)
 * Add myself as the maintainer for TropiCata (#77886)
 * Fix duplicate "an" in exterminatron description (#77849)
 * Fix font config issues (#77871)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2024-11-12-0158 (0c29c27)
 
 Cataclysm-DDA experimental build 2024-11-11-2310 (6e7f4ff)
 * using vines to descend no longer produces grappling hooks (#77758)
-
-Cataclysm-DDA experimental build 2024-11-11-1942 (9ac0424)
 * Add a radio tower palette and make them use it (#77729)
 * Magiclysm: Make Mana Crystals Rigid containers (#77717)
 * Silenced compiler warnings (#77675)
