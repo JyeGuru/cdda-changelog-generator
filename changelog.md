@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-15-0247 ([36d1e0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-0247))
+
+* Fix candle not fitting candlestick ([#77862](https://github.com/CleverRaven/Cataclysm-DDA/pull/77862))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-14-2153 ([27b424d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-2153))
 
 * Increased volume of pillows, body-pillow, and volume capacity of pillowcase ([#77801](https://github.com/CleverRaven/Cataclysm-DDA/pull/77801))
@@ -178,7 +184,6 @@
 * Unrevert #77339 ([#77654](https://github.com/CleverRaven/Cataclysm-DDA/pull/77654))
 * DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
 * Disable diff for .po files in .gitattributes ([#77650](https://github.com/CleverRaven/Cataclysm-DDA/pull/77650))
-* Pathfinding uses field cost for faction camp ([#77627](https://github.com/CleverRaven/Cataclysm-DDA/pull/77627))
 * Added information to crafting menu about crafting speed modifier gained by mutations ([#77628](https://github.com/CleverRaven/Cataclysm-DDA/pull/77628))
 * Terrain/furniture: code deduplication and improved "copy-from" support ([#77637](https://github.com/CleverRaven/Cataclysm-DDA/pull/77637))
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
