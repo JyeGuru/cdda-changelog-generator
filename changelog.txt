@@ -1,4 +1,6 @@
 * No lit cigs in inventory anymore, only in hands or in mouth (#77834)
+
+Cataclysm-DDA 0.H release candidate 2024-11-15-1111 (e0f2e56)
 * [0.H] Silence obsoleted EOC errors (#77697)
 * Reserve space for vectors before allocating in a loop. (#77728)
 * Fix EOC_Nunez_Travel's mapgen_updates searches (#77664)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2024-11-11-1632 (5497025)
 Cataclysm-DDA experimental build 2024-11-11-0430 (64920f9)
 * Reduce IWI Tavor's min_cycle_recoil (.223) (#77741)
 * Washing soda & baking soda barter price reduction (#77746)
-
-Cataclysm-DDA experimental build 2024-11-11-0155 (e74037e)
 * Aftershock: Make UICA share public goods. (#77735)
 * Allow furniture/terrain copy-from for symbol, color (#77692)
 * Allow mods to override and cancel OMT migrations (#77696)

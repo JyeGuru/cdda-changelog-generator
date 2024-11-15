@@ -1,4 +1,9 @@
 * No lit cigs in inventory anymore, only in hands or in mouth ([#77834](https://github.com/CleverRaven/Cataclysm-DDA/pull/77834))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-11-15-1111 ([e0f2e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-15-1111))
+
 * [0.H] Silence obsoleted EOC errors ([#77697](https://github.com/CleverRaven/Cataclysm-DDA/pull/77697))
 * Reserve space for vectors before allocating in a loop. ([#77728](https://github.com/CleverRaven/Cataclysm-DDA/pull/77728))
 * Fix EOC_Nunez_Travel's mapgen_updates searches ([#77664](https://github.com/CleverRaven/Cataclysm-DDA/pull/77664))
@@ -169,11 +174,6 @@
 
 * Reduce IWI Tavor's min_cycle_recoil (.223) ([#77741](https://github.com/CleverRaven/Cataclysm-DDA/pull/77741))
 * Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-11-0155 ([e74037e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-0155))
-
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
 * Allow furniture/terrain copy-from for symbol, color ([#77692](https://github.com/CleverRaven/Cataclysm-DDA/pull/77692))
 * Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
