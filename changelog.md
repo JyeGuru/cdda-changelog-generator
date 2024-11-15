@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-15-1722 ([45a67ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-1722))
+
 * [Magiclysm] Dont extract monster/fake spells for translation ([#77869](https://github.com/CleverRaven/Cataclysm-DDA/pull/77869))
 * Do not access overmap during character creation ([#77872](https://github.com/CleverRaven/Cataclysm-DDA/pull/77872))
 * Pruning the old ``to-hit`` syntax - Part 11 ([#77838](https://github.com/CleverRaven/Cataclysm-DDA/pull/77838))
@@ -174,11 +179,6 @@
 * Weekly Changelog 2024-11-04 to 2024-11-11 ([#77750](https://github.com/CleverRaven/Cataclysm-DDA/pull/77750))
 * Several tweaks to Respirator bionic ([#77753](https://github.com/CleverRaven/Cataclysm-DDA/pull/77753))
 * [Xedra Evolved/Dinomod] You can drain dinosaur's ruach ([#77736](https://github.com/CleverRaven/Cataclysm-DDA/pull/77736))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-11-1632 ([5497025](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-11-1632))
-
 * Further destruction of the economy ([#77755](https://github.com/CleverRaven/Cataclysm-DDA/pull/77755))
 * Typo in MSVC.cmake (/DYNAMICBASE) ([#77734](https://github.com/CleverRaven/Cataclysm-DDA/pull/77734))
 * Reduce IWI Tavor's min_cycle_recoil (.223) ([#77741](https://github.com/CleverRaven/Cataclysm-DDA/pull/77741))

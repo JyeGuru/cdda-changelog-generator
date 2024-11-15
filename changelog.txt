@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-15-1722 (45a67ea)
 * [Magiclysm] Dont extract monster/fake spells for translation (#77869)
 * Do not access overmap during character creation (#77872)
 * Pruning the old ``to-hit`` syntax - Part 11 (#77838)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-11-11-1942 (9ac0424)
 * Weekly Changelog 2024-11-04 to 2024-11-11 (#77750)
 * Several tweaks to Respirator bionic (#77753)
 * [Xedra Evolved/Dinomod] You can drain dinosaur's ruach (#77736)
-
-Cataclysm-DDA experimental build 2024-11-11-1632 (5497025)
 * Further destruction of the economy (#77755)
 * Typo in MSVC.cmake (/DYNAMICBASE) (#77734)
 * Reduce IWI Tavor's min_cycle_recoil (.223) (#77741)
