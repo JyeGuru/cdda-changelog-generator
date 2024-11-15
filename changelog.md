@@ -1,3 +1,4 @@
+* Do not access overmap during character creation ([#77872](https://github.com/CleverRaven/Cataclysm-DDA/pull/77872))
 * Pruning the old ``to-hit`` syntax - Part 11 ([#77838](https://github.com/CleverRaven/Cataclysm-DDA/pull/77838))
 * Some more knife related price changes ([#77878](https://github.com/CleverRaven/Cataclysm-DDA/pull/77878))
 * Fix debugmsg on tear gas grenade and smoke bomb finish emitting fields ([#77836](https://github.com/CleverRaven/Cataclysm-DDA/pull/77836))
@@ -202,7 +203,6 @@
 * DoT spell fixes ([#77674](https://github.com/CleverRaven/Cataclysm-DDA/pull/77674))
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
-* [MoM] Insight proficiencies prevent overload from high Nether Attunement ([#77655](https://github.com/CleverRaven/Cataclysm-DDA/pull/77655))
 * Spell activated EoCs are passed the target as a context val ([#77656](https://github.com/CleverRaven/Cataclysm-DDA/pull/77656))
 * [Xedra Evolved] Fix talker errors with a couple lilin spells ([#77660](https://github.com/CleverRaven/Cataclysm-DDA/pull/77660))
 * [MoM] Update Anabolic Rejuvenation and Accelerated Resuscitation with EoCified healing ([#77658](https://github.com/CleverRaven/Cataclysm-DDA/pull/77658))
