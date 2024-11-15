@@ -1,3 +1,4 @@
+* Fix EOC_Nunez_Travel's mapgen_updates searches ([#77664](https://github.com/CleverRaven/Cataclysm-DDA/pull/77664))
 * [CR] Stop warning the player about harmless critters ([#77704](https://github.com/CleverRaven/Cataclysm-DDA/pull/77704))
 * Monsters spawned via `place_critter_within` now gain ammo on spawn ([#77762](https://github.com/CleverRaven/Cataclysm-DDA/pull/77762))
 * some cooking proficiencies added to existing recipes once again ([#77804](https://github.com/CleverRaven/Cataclysm-DDA/pull/77804))
