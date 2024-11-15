@@ -1,3 +1,4 @@
+* No lit cigs in inventory anymore, only in hands or in mouth ([#77834](https://github.com/CleverRaven/Cataclysm-DDA/pull/77834))
 * [0.H] Silence obsoleted EOC errors ([#77697](https://github.com/CleverRaven/Cataclysm-DDA/pull/77697))
 * Reserve space for vectors before allocating in a loop. ([#77728](https://github.com/CleverRaven/Cataclysm-DDA/pull/77728))
 * Fix EOC_Nunez_Travel's mapgen_updates searches ([#77664](https://github.com/CleverRaven/Cataclysm-DDA/pull/77664))
@@ -179,7 +180,6 @@
 * [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod ([#77695](https://github.com/CleverRaven/Cataclysm-DDA/pull/77695))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
 * Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
-* weaponmaster dialogue keeps you for not as long ([#77646](https://github.com/CleverRaven/Cataclysm-DDA/pull/77646))
 * input: fix no-op input loop when quitting ([#77651](https://github.com/CleverRaven/Cataclysm-DDA/pull/77651))
 * Cache mutation trait flags ([#77671](https://github.com/CleverRaven/Cataclysm-DDA/pull/77671))
 * Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
