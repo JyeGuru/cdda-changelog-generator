@@ -1,3 +1,5 @@
+* Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
+* Fix duplicate "an" in exterminatron description ([#77849](https://github.com/CleverRaven/Cataclysm-DDA/pull/77849))
 * Fix font config issues ([#77871](https://github.com/CleverRaven/Cataclysm-DDA/pull/77871))
 
 ---
@@ -206,5 +208,3 @@
 * Changes hair dye barter price to a more reasonable amount ([#77686](https://github.com/CleverRaven/Cataclysm-DDA/pull/77686))
 * Remove adobe & rock walls from param wall palette ([#77679](https://github.com/CleverRaven/Cataclysm-DDA/pull/77679))
 * [Xedra Evolved] Fix talker errors with a couple lilin spells ([#77660](https://github.com/CleverRaven/Cataclysm-DDA/pull/77660))
-* [MoM] Update Anabolic Rejuvenation and Accelerated Resuscitation with EoCified healing ([#77658](https://github.com/CleverRaven/Cataclysm-DDA/pull/77658))
-* [Xedra Evolved] Add direct number ruach gauge for lilin ([#77659](https://github.com/CleverRaven/Cataclysm-DDA/pull/77659))

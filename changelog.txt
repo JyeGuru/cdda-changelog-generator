@@ -1,3 +1,5 @@
+* Add myself as the maintainer for TropiCata (#77886)
+* Fix duplicate "an" in exterminatron description (#77849)
 * Fix font config issues (#77871)
 
 Cataclysm-DDA experimental build 2024-11-15-1722 (45a67ea)
@@ -137,5 +139,3 @@ Cataclysm-DDA experimental build 2024-11-11-1942 (9ac0424)
 * Changes hair dye barter price to a more reasonable amount (#77686)
 * Remove adobe & rock walls from param wall palette (#77679)
 * [Xedra Evolved] Fix talker errors with a couple lilin spells (#77660)
-* [MoM] Update Anabolic Rejuvenation and Accelerated Resuscitation with EoCified healing (#77658)
-* [Xedra Evolved] Add direct number ruach gauge for lilin (#77659)
