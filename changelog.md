@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-15-0512 ([0f2c155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-0512))
+
+* Add more nests to the roof palette ([#77864](https://github.com/CleverRaven/Cataclysm-DDA/pull/77864))
+* Don't release spores when destroyed by fire ([#77841](https://github.com/CleverRaven/Cataclysm-DDA/pull/77841))
 * [Xedra Evolved] Cryptid missions hang ups ([#77848](https://github.com/CleverRaven/Cataclysm-DDA/pull/77848))
 
 ---
@@ -197,7 +204,5 @@
 * [Xedra Evolved] Move werewolf healing over to EoC ([#77657](https://github.com/CleverRaven/Cataclysm-DDA/pull/77657))
 * [Xedra Evolved] Add direct number ruach gauge for lilin ([#77659](https://github.com/CleverRaven/Cataclysm-DDA/pull/77659))
 * Add Portuguese translation ([#77649](https://github.com/CleverRaven/Cataclysm-DDA/pull/77649))
-* [Magiclysm] Add `FERAL` species to all fantasy ferals ([#77630](https://github.com/CleverRaven/Cataclysm-DDA/pull/77630))
-* Fix .303 Charger spawning loaded ([#77633](https://github.com/CleverRaven/Cataclysm-DDA/pull/77633))
 * Adds drill requirement to aluminum tank (100 L) ([#77634](https://github.com/CleverRaven/Cataclysm-DDA/pull/77634))
 * [MoM] Fix `GROUP_FERAL_TELEPORTER` mongroup ([#77641](https://github.com/CleverRaven/Cataclysm-DDA/pull/77641))
