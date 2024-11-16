@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-16-1726 ([4a03734](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-1726))
+
+* Lower Stream Item Spawns ([#77904](https://github.com/CleverRaven/Cataclysm-DDA/pull/77904))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-16-1121 ([2d4306f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-1121))
 
 * Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-11-12-1951 ([d7f0e5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-1951))
 
 * Remove Bathroom Scale Recipe ([#77778](https://github.com/CleverRaven/Cataclysm-DDA/pull/77778))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-12-1726 ([b8a6d08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-1726))
-
 * Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
 * Updates for melee enchantment bonuses ([#77742](https://github.com/CleverRaven/Cataclysm-DDA/pull/77742))
 * Simple cloth quiver for holding various ammo ([#77774](https://github.com/CleverRaven/Cataclysm-DDA/pull/77774))
@@ -199,7 +200,6 @@
 * Reduce IWI Tavor's min_cycle_recoil (.223) ([#77741](https://github.com/CleverRaven/Cataclysm-DDA/pull/77741))
 * Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
-* Allow furniture/terrain copy-from for symbol, color ([#77692](https://github.com/CleverRaven/Cataclysm-DDA/pull/77692))
 * Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
 * [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod ([#77695](https://github.com/CleverRaven/Cataclysm-DDA/pull/77695))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
