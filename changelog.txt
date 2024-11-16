@@ -1,3 +1,5 @@
+* Abstractify basic walls (#77797)
+* Obsolete unused generic NPC classes (#77772)
 
 Cataclysm-DDA experimental build 2024-11-16-0631 (747fb91)
 * Routine i18n updates on 16 November 2024 (#77899)
@@ -134,7 +136,5 @@ Cataclysm-DDA experimental build 2024-11-12-1434 (0b76c57)
 * [Xedra Evolved] Add new Ierde trait (#77718)
 * Fix placement of the aftershock landing pad (#77701)
 * Remove spurious double semi colons (#77702)
-* [Xedra Evolved] Only humans can learn dream magick (#77685)
 * Make enchantment influence dps shown in item (#77687)
 * Routine i18n updates on 09 November 2024 (#77688)
-* Changes hair dye barter price to a more reasonable amount (#77686)
