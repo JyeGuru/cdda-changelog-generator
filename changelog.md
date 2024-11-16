@@ -1,3 +1,5 @@
+* Allow to use long sticks in earth ramp leading up ([#77892](https://github.com/CleverRaven/Cataclysm-DDA/pull/77892))
+* Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
 * Abstractify basic walls ([#77797](https://github.com/CleverRaven/Cataclysm-DDA/pull/77797))
 * Obsolete unused generic NPC classes ([#77772](https://github.com/CleverRaven/Cataclysm-DDA/pull/77772))
 
@@ -205,5 +207,3 @@
 * [Xedra Evolved] Add new Ierde trait ([#77718](https://github.com/CleverRaven/Cataclysm-DDA/pull/77718))
 * Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
 * Remove spurious double semi colons ([#77702](https://github.com/CleverRaven/Cataclysm-DDA/pull/77702))
-* Make enchantment influence dps shown in item ([#77687](https://github.com/CleverRaven/Cataclysm-DDA/pull/77687))
-* Routine i18n updates on 09 November 2024 ([#77688](https://github.com/CleverRaven/Cataclysm-DDA/pull/77688))
