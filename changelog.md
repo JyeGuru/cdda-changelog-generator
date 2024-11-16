@@ -201,7 +201,6 @@
 * Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
 * Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
-* [0.H] Migrate railroad station OMTs and cancel said migration in railroads mod ([#77695](https://github.com/CleverRaven/Cataclysm-DDA/pull/77695))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
 * Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
 * Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
