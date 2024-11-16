@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-16-1121 ([2d4306f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-1121))
+
 * Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
 
 ---
@@ -176,11 +181,6 @@
 
 * Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
 * Updates for melee enchantment bonuses ([#77742](https://github.com/CleverRaven/Cataclysm-DDA/pull/77742))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-12-1434 ([0b76c57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-1434))
-
 * Simple cloth quiver for holding various ammo ([#77774](https://github.com/CleverRaven/Cataclysm-DDA/pull/77774))
 * [Sky Island] Add possibility of autodocs or CBMs to Exodii crash pods ([#77738](https://github.com/CleverRaven/Cataclysm-DDA/pull/77738))
 * [MoM] Fix mesmerism EoC ([#77769](https://github.com/CleverRaven/Cataclysm-DDA/pull/77769))
