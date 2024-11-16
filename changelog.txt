@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-16-0847 (22cdb84)
 * Remove magic roof addition on manual construction (#77873)
 * Allow to use long sticks in earth ramp leading up (#77892)
 * Allow Placement of Motorbike Batteries as Appliances (#77901)
