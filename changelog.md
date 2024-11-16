@@ -1,3 +1,4 @@
+* Routine i18n updates on 16 November 2024 ([#77899](https://github.com/CleverRaven/Cataclysm-DDA/pull/77899))
 * 'Fix' Small Squeeze Tube Description ([#77894](https://github.com/CleverRaven/Cataclysm-DDA/pull/77894))
 * item: let translators reorder tname segments ([#77885](https://github.com/CleverRaven/Cataclysm-DDA/pull/77885))
 
@@ -179,7 +180,6 @@
 * using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
 * Add a radio tower palette and make them use it ([#77729](https://github.com/CleverRaven/Cataclysm-DDA/pull/77729))
 * Magiclysm: Make Mana Crystals Rigid containers ([#77717](https://github.com/CleverRaven/Cataclysm-DDA/pull/77717))
-* Silenced compiler warnings ([#77675](https://github.com/CleverRaven/Cataclysm-DDA/pull/77675))
 * Add Portuguese (Portugal) to options menu ([#77706](https://github.com/CleverRaven/Cataclysm-DDA/pull/77706))
 * Weekly Changelog 2024-11-04 to 2024-11-11 ([#77750](https://github.com/CleverRaven/Cataclysm-DDA/pull/77750))
 * Several tweaks to Respirator bionic ([#77753](https://github.com/CleverRaven/Cataclysm-DDA/pull/77753))
