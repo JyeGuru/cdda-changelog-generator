@@ -1,3 +1,4 @@
+* Remove magic roof addition on manual construction ([#77873](https://github.com/CleverRaven/Cataclysm-DDA/pull/77873))
 * Allow to use long sticks in earth ramp leading up ([#77892](https://github.com/CleverRaven/Cataclysm-DDA/pull/77892))
 * Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
 * Abstractify basic walls ([#77797](https://github.com/CleverRaven/Cataclysm-DDA/pull/77797))
