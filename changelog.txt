@@ -1,3 +1,4 @@
+* Allow a heavy training dummy in place of light (#77905)
 
 Cataclysm-DDA experimental build 2024-11-16-0847 (22cdb84)
 * Remove magic roof addition on manual construction (#77873)
@@ -73,9 +74,6 @@ Cataclysm-DDA experimental build 2024-11-14-0916 (e6dade6)
 
 Cataclysm-DDA experimental build 2024-11-14-0650 (51f014f)
 * Further price adjusting (#77810)
-
-Cataclysm-DDA experimental build 2024-11-14-0438 (2445365)
-* Riemann Shields (#77691)
 
 Cataclysm-DDA experimental build 2024-11-14-0219 (d39cf9b)
 * Forest trash updates, make field stone a bit more common and useful (#77788)

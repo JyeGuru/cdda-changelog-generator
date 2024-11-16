@@ -1,3 +1,4 @@
+* Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
 
 ---
 
@@ -115,12 +116,6 @@
 #### Cataclysm-DDA experimental build 2024-11-14-0650 ([51f014f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0650))
 
 * Further price adjusting ([#77810](https://github.com/CleverRaven/Cataclysm-DDA/pull/77810))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-14-0438 ([2445365](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0438))
-
-* Riemann Shields ([#77691](https://github.com/CleverRaven/Cataclysm-DDA/pull/77691))
 
 ---
 
