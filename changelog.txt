@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-16-0631 (747fb91)
 * Routine i18n updates on 16 November 2024 (#77899)
 * 'Fix' Small Squeeze Tube Description (#77894)
 * item: let translators reorder tname segments (#77885)

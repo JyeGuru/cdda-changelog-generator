@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-16-0631 ([747fb91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-0631))
+
 * Routine i18n updates on 16 November 2024 ([#77899](https://github.com/CleverRaven/Cataclysm-DDA/pull/77899))
 * 'Fix' Small Squeeze Tube Description ([#77894](https://github.com/CleverRaven/Cataclysm-DDA/pull/77894))
 * item: let translators reorder tname segments ([#77885](https://github.com/CleverRaven/Cataclysm-DDA/pull/77885))
