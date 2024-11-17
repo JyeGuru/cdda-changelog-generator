@@ -1,3 +1,6 @@
+* u_/npc_forget_recipe can use categories and subcategories in place of individual ids ([#77705](https://github.com/CleverRaven/Cataclysm-DDA/pull/77705))
+* Fix nunez bullet trailer appearing out of nowhere ([#77879](https://github.com/CleverRaven/Cataclysm-DDA/pull/77879))
+* Aftershock: Disable portal storms in Exoplanet ([#77924](https://github.com/CleverRaven/Cataclysm-DDA/pull/77924))
 * Lead Acid Battery breaks_into Audit ([#77921](https://github.com/CleverRaven/Cataclysm-DDA/pull/77921))
 * Remove debug message in add_profession_items() causing basic build failure ([#77922](https://github.com/CleverRaven/Cataclysm-DDA/pull/77922))
 
@@ -83,7 +86,6 @@
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
 * No lit cigs in inventory anymore, only in hands or in mouth ([#77834](https://github.com/CleverRaven/Cataclysm-DDA/pull/77834))
 * Reserve space for vectors before allocating in a loop. ([#77728](https://github.com/CleverRaven/Cataclysm-DDA/pull/77728))
-* [CR] Stop warning the player about harmless critters ([#77704](https://github.com/CleverRaven/Cataclysm-DDA/pull/77704))
 * Monsters spawned via `place_critter_within` now gain ammo on spawn ([#77762](https://github.com/CleverRaven/Cataclysm-DDA/pull/77762))
 * some cooking proficiencies added to existing recipes once again ([#77804](https://github.com/CleverRaven/Cataclysm-DDA/pull/77804))
 * [MOM] Add power to cancel specific concentration effects ([#77832](https://github.com/CleverRaven/Cataclysm-DDA/pull/77832))
@@ -200,5 +202,3 @@
 * Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
 * Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
 * [Xedra Evolved] Add new Ierde trait ([#77718](https://github.com/CleverRaven/Cataclysm-DDA/pull/77718))
-* Fix placement of the aftershock landing pad ([#77701](https://github.com/CleverRaven/Cataclysm-DDA/pull/77701))
-* Remove spurious double semi colons ([#77702](https://github.com/CleverRaven/Cataclysm-DDA/pull/77702))
