@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-17-0712 ([9ac7d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-17-0712))
+
 * Transformation use action can pick random item from itemgroups ([#77893](https://github.com/CleverRaven/Cataclysm-DDA/pull/77893))
 * remove buckwheat from foraging, add to seed group ([#77912](https://github.com/CleverRaven/Cataclysm-DDA/pull/77912))
 * [Magiclysm] Fix demonic possession causing starvation penalties ([#77927](https://github.com/CleverRaven/Cataclysm-DDA/pull/77927))
