@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-17-2026 ([2ca630f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-17-2026))
+
+* Remove leftovers of "ident" ([#77796](https://github.com/CleverRaven/Cataclysm-DDA/pull/77796))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-17-0712 ([9ac7d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-17-0712))
 
 * Transformation use action can pick random item from itemgroups ([#77893](https://github.com/CleverRaven/Cataclysm-DDA/pull/77893))
@@ -205,5 +211,4 @@
 * Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
-* Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
 * [Xedra Evolved] Add new Ierde trait ([#77718](https://github.com/CleverRaven/Cataclysm-DDA/pull/77718))

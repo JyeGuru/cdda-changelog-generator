@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-17-2026 (2ca630f)
+* Remove leftovers of "ident" (#77796)
+
 Cataclysm-DDA experimental build 2024-11-17-0712 (9ac7d05)
 * Transformation use action can pick random item from itemgroups (#77893)
 * remove buckwheat from foraging, add to seed group (#77912)
@@ -136,5 +139,4 @@ Cataclysm-DDA experimental build 2024-11-13-0344 (b007301)
 * Washing soda & baking soda barter price reduction (#77746)
 * Aftershock: Make UICA share public goods. (#77735)
 * Fix failing builds (#77727)
-* Return a few persk that were removed by accident (#77713)
 * [Xedra Evolved] Add new Ierde trait (#77718)
