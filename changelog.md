@@ -1,3 +1,11 @@
+* Lead Acid Battery breaks_into Audit ([#77921](https://github.com/CleverRaven/Cataclysm-DDA/pull/77921))
+* Remove debug message in add_profession_items() causing basic build failure ([#77922](https://github.com/CleverRaven/Cataclysm-DDA/pull/77922))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-17-0450 ([e5cdaca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-17-0450))
+
+* Allow safecracking prof to identify safe mechanisms ([#77925](https://github.com/CleverRaven/Cataclysm-DDA/pull/77925))
 
 ---
 
@@ -74,12 +82,6 @@
 * Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
 * No lit cigs in inventory anymore, only in hands or in mouth ([#77834](https://github.com/CleverRaven/Cataclysm-DDA/pull/77834))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-15-1111 ([e0f2e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-15-1111))
-
-* [0.H] Silence obsoleted EOC errors ([#77697](https://github.com/CleverRaven/Cataclysm-DDA/pull/77697))
 * Reserve space for vectors before allocating in a loop. ([#77728](https://github.com/CleverRaven/Cataclysm-DDA/pull/77728))
 * [CR] Stop warning the player about harmless critters ([#77704](https://github.com/CleverRaven/Cataclysm-DDA/pull/77704))
 * Monsters spawned via `place_critter_within` now gain ammo on spawn ([#77762](https://github.com/CleverRaven/Cataclysm-DDA/pull/77762))
@@ -152,7 +154,6 @@
 
 * [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   ([#77775](https://github.com/CleverRaven/Cataclysm-DDA/pull/77775))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
-* Fix: Show consistent healing quality ([#77699](https://github.com/CleverRaven/Cataclysm-DDA/pull/77699))
 * Crisp Air Buff ([#77711](https://github.com/CleverRaven/Cataclysm-DDA/pull/77711))
 * Fix Feral Soldier Drops ([#77737](https://github.com/CleverRaven/Cataclysm-DDA/pull/77737))
 * Update Guide_for_beginning_mapgen.md ([#77745](https://github.com/CleverRaven/Cataclysm-DDA/pull/77745))
@@ -174,11 +175,6 @@
 * sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
 * Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))
 * Camp crafting uses the normal crafting GUI ([#77715](https://github.com/CleverRaven/Cataclysm-DDA/pull/77715))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-12-1951 ([d7f0e5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-12-1951))
-
 * Remove Bathroom Scale Recipe ([#77778](https://github.com/CleverRaven/Cataclysm-DDA/pull/77778))
 * Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
 * Updates for melee enchantment bonuses ([#77742](https://github.com/CleverRaven/Cataclysm-DDA/pull/77742))
@@ -200,7 +196,6 @@
 * Reduce IWI Tavor's min_cycle_recoil (.223) ([#77741](https://github.com/CleverRaven/Cataclysm-DDA/pull/77741))
 * Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
-* Allow mods to override and cancel OMT migrations ([#77696](https://github.com/CleverRaven/Cataclysm-DDA/pull/77696))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
 * Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
 * Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
