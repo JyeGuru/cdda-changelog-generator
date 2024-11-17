@@ -1,3 +1,5 @@
+* Transformation use action can pick random item from itemgroups ([#77893](https://github.com/CleverRaven/Cataclysm-DDA/pull/77893))
+* remove buckwheat from foraging, add to seed group ([#77912](https://github.com/CleverRaven/Cataclysm-DDA/pull/77912))
 * [Magiclysm] Fix demonic possession causing starvation penalties ([#77927](https://github.com/CleverRaven/Cataclysm-DDA/pull/77927))
 * Obsolete OM_MOVE ([#77917](https://github.com/CleverRaven/Cataclysm-DDA/pull/77917))
 * Fix nunez bullet trailer appearing out of nowhere ([#77879](https://github.com/CleverRaven/Cataclysm-DDA/pull/77879))
@@ -157,7 +159,6 @@
 
 * [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   ([#77775](https://github.com/CleverRaven/Cataclysm-DDA/pull/77775))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
-* Crisp Air Buff ([#77711](https://github.com/CleverRaven/Cataclysm-DDA/pull/77711))
 * Fix Feral Soldier Drops ([#77737](https://github.com/CleverRaven/Cataclysm-DDA/pull/77737))
 * Update Guide_for_beginning_mapgen.md ([#77745](https://github.com/CleverRaven/Cataclysm-DDA/pull/77745))
 * Make pet interaction strings sound more natural ([#77757](https://github.com/CleverRaven/Cataclysm-DDA/pull/77757))
@@ -199,6 +200,5 @@
 * Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
-* Fix compiling with HEADERPOPULARITY=1 ([#77712](https://github.com/CleverRaven/Cataclysm-DDA/pull/77712))
 * Return a few persk that were removed by accident ([#77713](https://github.com/CleverRaven/Cataclysm-DDA/pull/77713))
 * [Xedra Evolved] Add new Ierde trait ([#77718](https://github.com/CleverRaven/Cataclysm-DDA/pull/77718))
