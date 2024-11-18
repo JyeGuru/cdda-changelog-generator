@@ -1,3 +1,4 @@
+* Cache item info for crafting GUI full-text search ([#77914](https://github.com/CleverRaven/Cataclysm-DDA/pull/77914))
 * Improve f_consume_item_sum and f_has_items_sum, use it more ([#77791](https://github.com/CleverRaven/Cataclysm-DDA/pull/77791))
 * Sanity pass on the fungal acidic zombie ([#77880](https://github.com/CleverRaven/Cataclysm-DDA/pull/77880))
 * Aftershock: Nerf spawn % of broken cyborg in basement_bionic ([#77897](https://github.com/CleverRaven/Cataclysm-DDA/pull/77897))
@@ -213,4 +214,3 @@
 * Remove Bathroom Scale Recipe ([#77778](https://github.com/CleverRaven/Cataclysm-DDA/pull/77778))
 * Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
 * Simple cloth quiver for holding various ammo ([#77774](https://github.com/CleverRaven/Cataclysm-DDA/pull/77774))
-* [MoM] Fix mesmerism EoC ([#77769](https://github.com/CleverRaven/Cataclysm-DDA/pull/77769))
