@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-18-1457 ([c544d81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-1457))
+
 * [Xedra Evolved] Dont extract fake spells/stuff for translation ([#77940](https://github.com/CleverRaven/Cataclysm-DDA/pull/77940))
 * Cache item info for crafting GUI full-text search ([#77914](https://github.com/CleverRaven/Cataclysm-DDA/pull/77914))
 * Improve f_consume_item_sum and f_has_items_sum, use it more ([#77791](https://github.com/CleverRaven/Cataclysm-DDA/pull/77791))
