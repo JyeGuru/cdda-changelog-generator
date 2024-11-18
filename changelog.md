@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-18-0406 ([0f63065](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0406))
+
 * Fix typo, add comma for Lisa Isherwood ([#77926](https://github.com/CleverRaven/Cataclysm-DDA/pull/77926))
 * Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
 * [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
@@ -182,11 +187,6 @@
 * Fix Feral Soldier Drops ([#77737](https://github.com/CleverRaven/Cataclysm-DDA/pull/77737))
 * Update Guide_for_beginning_mapgen.md ([#77745](https://github.com/CleverRaven/Cataclysm-DDA/pull/77745))
 * Make pet interaction strings sound more natural ([#77757](https://github.com/CleverRaven/Cataclysm-DDA/pull/77757))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-13-0609 ([c7b8e84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-0609))
-
 * Show the power draw of battery chargers ([#77726](https://github.com/CleverRaven/Cataclysm-DDA/pull/77726))
 * Make petstore have walls again ([#77783](https://github.com/CleverRaven/Cataclysm-DDA/pull/77783))
 * [Magiclysm] Fix high druid typo ([#77787](https://github.com/CleverRaven/Cataclysm-DDA/pull/77787))
