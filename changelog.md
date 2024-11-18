@@ -1,3 +1,4 @@
+* replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
 * Parametrize all walls: Palettes part 2 ([#77822](https://github.com/CleverRaven/Cataclysm-DDA/pull/77822))
 * Add more colored walls to parametrized palettes + adjust ratios ([#77828](https://github.com/CleverRaven/Cataclysm-DDA/pull/77828))
 * More fix duplicate words typos ([#77859](https://github.com/CleverRaven/Cataclysm-DDA/pull/77859))
@@ -211,5 +212,4 @@
 * [MoM] Fix mesmerism EoC ([#77769](https://github.com/CleverRaven/Cataclysm-DDA/pull/77769))
 * [MOM] Adjust Electron Overflow EOC logic to allow charging values above 5 ([#77754](https://github.com/CleverRaven/Cataclysm-DDA/pull/77754))
 * using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
-* Several tweaks to Respirator bionic ([#77753](https://github.com/CleverRaven/Cataclysm-DDA/pull/77753))
 * Further destruction of the economy ([#77755](https://github.com/CleverRaven/Cataclysm-DDA/pull/77755))
