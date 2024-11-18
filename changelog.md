@@ -1,3 +1,10 @@
+* [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-18-0136 ([df1cd87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0136))
+
+* Add missing longest_side ([#77850](https://github.com/CleverRaven/Cataclysm-DDA/pull/77850))
 
 ---
 
@@ -180,16 +187,10 @@
 
 * Show the power draw of battery chargers ([#77726](https://github.com/CleverRaven/Cataclysm-DDA/pull/77726))
 * Make petstore have walls again ([#77783](https://github.com/CleverRaven/Cataclysm-DDA/pull/77783))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-13-0344 ([b007301](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-0344))
-
 * [Magiclysm] Fix high druid typo ([#77787](https://github.com/CleverRaven/Cataclysm-DDA/pull/77787))
 * Audit some more of the aztec stuff ([#77779](https://github.com/CleverRaven/Cataclysm-DDA/pull/77779))
 * sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
 * Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))
-* Camp crafting uses the normal crafting GUI ([#77715](https://github.com/CleverRaven/Cataclysm-DDA/pull/77715))
 * Remove Bathroom Scale Recipe ([#77778](https://github.com/CleverRaven/Cataclysm-DDA/pull/77778))
 * Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
 * Updates for melee enchantment bonuses ([#77742](https://github.com/CleverRaven/Cataclysm-DDA/pull/77742))
