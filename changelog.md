@@ -1,3 +1,13 @@
+* Improve f_consume_item_sum and f_has_items_sum, use it more ([#77791](https://github.com/CleverRaven/Cataclysm-DDA/pull/77791))
+* Sanity pass on the fungal acidic zombie ([#77880](https://github.com/CleverRaven/Cataclysm-DDA/pull/77880))
+* Aftershock: Nerf spawn % of broken cyborg in basement_bionic ([#77897](https://github.com/CleverRaven/Cataclysm-DDA/pull/77897))
+* Fix military base battery issues ([#77942](https://github.com/CleverRaven/Cataclysm-DDA/pull/77942))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-18-0946 ([7fdfc4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0946))
+
+* Weekly Changelog 2024-11-11 to 2024-11-18 ([#77965](https://github.com/CleverRaven/Cataclysm-DDA/pull/77965))
 
 ---
 
@@ -137,7 +147,6 @@
 * Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
 * No lit cigs in inventory anymore, only in hands or in mouth ([#77834](https://github.com/CleverRaven/Cataclysm-DDA/pull/77834))
-* Monsters spawned via `place_critter_within` now gain ammo on spawn ([#77762](https://github.com/CleverRaven/Cataclysm-DDA/pull/77762))
 * some cooking proficiencies added to existing recipes once again ([#77804](https://github.com/CleverRaven/Cataclysm-DDA/pull/77804))
 * [MOM] Add power to cancel specific concentration effects ([#77832](https://github.com/CleverRaven/Cataclysm-DDA/pull/77832))
 * [AFS] Dont extract pseudo things for translation ([#77833](https://github.com/CleverRaven/Cataclysm-DDA/pull/77833))
@@ -197,17 +206,10 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-11-13-2010 ([daebd7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-2010))
-
-* [DinoMod] lokiceratops ([#77759](https://github.com/CleverRaven/Cataclysm-DDA/pull/77759))
-
----
-
 #### Cataclysm-DDA experimental build 2024-11-13-1503 ([918bc6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-1503))
 
 * [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   ([#77775](https://github.com/CleverRaven/Cataclysm-DDA/pull/77775))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
-* Make pet interaction strings sound more natural ([#77757](https://github.com/CleverRaven/Cataclysm-DDA/pull/77757))
 * Make petstore have walls again ([#77783](https://github.com/CleverRaven/Cataclysm-DDA/pull/77783))
 * [Magiclysm] Fix high druid typo ([#77787](https://github.com/CleverRaven/Cataclysm-DDA/pull/77787))
 * Audit some more of the aztec stuff ([#77779](https://github.com/CleverRaven/Cataclysm-DDA/pull/77779))
@@ -217,4 +219,3 @@
 * Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
 * Simple cloth quiver for holding various ammo ([#77774](https://github.com/CleverRaven/Cataclysm-DDA/pull/77774))
 * [MoM] Fix mesmerism EoC ([#77769](https://github.com/CleverRaven/Cataclysm-DDA/pull/77769))
-* using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
