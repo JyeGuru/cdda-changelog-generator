@@ -1,3 +1,4 @@
+* Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
 * Parametrize all walls: Palettes part 2 ([#77822](https://github.com/CleverRaven/Cataclysm-DDA/pull/77822))
@@ -212,4 +213,3 @@
 * Simple cloth quiver for holding various ammo ([#77774](https://github.com/CleverRaven/Cataclysm-DDA/pull/77774))
 * [MoM] Fix mesmerism EoC ([#77769](https://github.com/CleverRaven/Cataclysm-DDA/pull/77769))
 * using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
-* Further destruction of the economy ([#77755](https://github.com/CleverRaven/Cataclysm-DDA/pull/77755))
