@@ -1,3 +1,5 @@
+* Fix typo, add comma for Lisa Isherwood ([#77926](https://github.com/CleverRaven/Cataclysm-DDA/pull/77926))
+* Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
 * [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
 
 ---
@@ -202,7 +204,6 @@
 * [Xedra Evolved] Fish are immune to the evil eye ([#77739](https://github.com/CleverRaven/Cataclysm-DDA/pull/77739))
 * using vines to descend no longer produces grappling hooks ([#77758](https://github.com/CleverRaven/Cataclysm-DDA/pull/77758))
 * Add a radio tower palette and make them use it ([#77729](https://github.com/CleverRaven/Cataclysm-DDA/pull/77729))
-* Magiclysm: Make Mana Crystals Rigid containers ([#77717](https://github.com/CleverRaven/Cataclysm-DDA/pull/77717))
 * Weekly Changelog 2024-11-04 to 2024-11-11 ([#77750](https://github.com/CleverRaven/Cataclysm-DDA/pull/77750))
 * Several tweaks to Respirator bionic ([#77753](https://github.com/CleverRaven/Cataclysm-DDA/pull/77753))
 * [Xedra Evolved/Dinomod] You can drain dinosaur's ruach ([#77736](https://github.com/CleverRaven/Cataclysm-DDA/pull/77736))
@@ -212,4 +213,3 @@
 * Washing soda & baking soda barter price reduction ([#77746](https://github.com/CleverRaven/Cataclysm-DDA/pull/77746))
 * Aftershock: Make UICA share public goods. ([#77735](https://github.com/CleverRaven/Cataclysm-DDA/pull/77735))
 * Fix failing builds ([#77727](https://github.com/CleverRaven/Cataclysm-DDA/pull/77727))
-* [Xedra Evolved] Add new Ierde trait ([#77718](https://github.com/CleverRaven/Cataclysm-DDA/pull/77718))
