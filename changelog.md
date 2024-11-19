@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-19-1133 ([82a4ba9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-19-1133))
+
+* Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
 
 ---
@@ -204,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2024-11-14-0219 ([d39cf9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0219))
 
 * Forest trash updates, make field stone a bit more common and useful ([#77788](https://github.com/CleverRaven/Cataclysm-DDA/pull/77788))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-13-2329 ([a562b30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-13-2329))
-
 * Sloppy Joes with human meat is Sloppy Joseph, not manwiches ([#77814](https://github.com/CleverRaven/Cataclysm-DDA/pull/77814))
 * [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   ([#77775](https://github.com/CleverRaven/Cataclysm-DDA/pull/77775))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
@@ -219,4 +220,3 @@
 * Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))
 * Remove Bathroom Scale Recipe ([#77778](https://github.com/CleverRaven/Cataclysm-DDA/pull/77778))
 * Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
-* Simple cloth quiver for holding various ammo ([#77774](https://github.com/CleverRaven/Cataclysm-DDA/pull/77774))
