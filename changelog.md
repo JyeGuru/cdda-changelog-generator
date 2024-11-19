@@ -1,3 +1,4 @@
+* make dry stone wall an obstacle and fix its description ([#77936](https://github.com/CleverRaven/Cataclysm-DDA/pull/77936))
 
 ---
 
@@ -219,4 +220,3 @@
 * sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
 * Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))
 * Remove Bathroom Scale Recipe ([#77778](https://github.com/CleverRaven/Cataclysm-DDA/pull/77778))
-* Beat the hell out of the atlatl with the nerf bat ([#77776](https://github.com/CleverRaven/Cataclysm-DDA/pull/77776))
