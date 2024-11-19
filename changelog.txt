@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-11-19-1456 (bbc0d00)
+* Remove dirt walls from unfinished evac shelter (#77973)
 * make dry stone wall an obstacle and fix its description (#77936)
 
 Cataclysm-DDA experimental build 2024-11-19-1224 (c4a030c)
@@ -144,4 +147,3 @@ Cataclysm-DDA experimental build 2024-11-14-0650 (51f014f)
 * Audit some more of the aztec stuff (#77779)
 * sanify some longest_sides (#77790)
 * Cannibals are pariahs (#77793)
-* Remove Bathroom Scale Recipe (#77778)
