@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-19-1224 ([c4a030c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-19-1224))
+
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
 
 ---
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2024-11-14-0650 ([51f014f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0650))
 
 * Further price adjusting ([#77810](https://github.com/CleverRaven/Cataclysm-DDA/pull/77810))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-14-0219 ([d39cf9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0219))
-
 * Forest trash updates, make field stone a bit more common and useful ([#77788](https://github.com/CleverRaven/Cataclysm-DDA/pull/77788))
 * Sloppy Joes with human meat is Sloppy Joseph, not manwiches ([#77814](https://github.com/CleverRaven/Cataclysm-DDA/pull/77814))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
