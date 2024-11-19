@@ -1,3 +1,4 @@
+* fix incorrect variable migration (#77992)
 
 Cataclysm-DDA experimental build 2024-11-19-1133 (82a4ba9)
 * Parametrize all walls: Part 3 (#77976)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2024-11-14-0650 (51f014f)
 Cataclysm-DDA experimental build 2024-11-14-0219 (d39cf9b)
 * Forest trash updates, make field stone a bit more common and useful (#77788)
 * Sloppy Joes with human meat is Sloppy Joseph, not manwiches (#77814)
-* [Suggestions requested ] Portuguese for Portugal is still missing in options.  Attempts to fix   (#77775)
 * Ensure crushed characters are fetched from the correct location (#77805)
 * Make petstore have walls again (#77783)
 * [Magiclysm] Fix high druid typo (#77787)
