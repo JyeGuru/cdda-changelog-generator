@@ -1,3 +1,4 @@
+* Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
 
 ---
 
@@ -99,7 +100,6 @@
 * Allow to use long sticks in earth ramp leading up ([#77892](https://github.com/CleverRaven/Cataclysm-DDA/pull/77892))
 * Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
 * Abstractify basic walls ([#77797](https://github.com/CleverRaven/Cataclysm-DDA/pull/77797))
-* Obsolete unused generic NPC classes ([#77772](https://github.com/CleverRaven/Cataclysm-DDA/pull/77772))
 
 ---
 

@@ -1,3 +1,4 @@
+* Label palette changes as mapgen (#77975)
 
 Cataclysm-DDA experimental build 2024-11-18-1457 (c544d81)
 * [Xedra Evolved] Dont extract fake spells/stuff for translation (#77940)
@@ -66,7 +67,6 @@ Cataclysm-DDA experimental build 2024-11-16-0847 (22cdb84)
 * Allow to use long sticks in earth ramp leading up (#77892)
 * Allow Placement of Motorbike Batteries as Appliances (#77901)
 * Abstractify basic walls (#77797)
-* Obsolete unused generic NPC classes (#77772)
 
 Cataclysm-DDA experimental build 2024-11-16-0631 (747fb91)
 * Routine i18n updates on 16 November 2024 (#77899)
