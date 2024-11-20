@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-20-2004 ([3691d1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-2004))
+
 * [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
 
 ---
@@ -216,10 +221,5 @@
 * Add more nests to the roof palette ([#77864](https://github.com/CleverRaven/Cataclysm-DDA/pull/77864))
 * Don't release spores when destroyed by fire ([#77841](https://github.com/CleverRaven/Cataclysm-DDA/pull/77841))
 * [Xedra Evolved] Cryptid missions hang ups ([#77848](https://github.com/CleverRaven/Cataclysm-DDA/pull/77848))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-15-0247 ([36d1e0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-0247))
-
 * Fix candle not fitting candlestick ([#77862](https://github.com/CleverRaven/Cataclysm-DDA/pull/77862))
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
