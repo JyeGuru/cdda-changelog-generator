@@ -152,7 +152,6 @@
 #### Cataclysm-DDA experimental build 2024-11-16-0414 ([63e17e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-0414))
 
 * Use the player's theme colors in ImGui ([#77842](https://github.com/CleverRaven/Cataclysm-DDA/pull/77842))
-* Give "bodysuit_lycra" a fallback sprite of "jumpsuit" ([#77811](https://github.com/CleverRaven/Cataclysm-DDA/pull/77811))
 * `BIO_OP_DISARM` tweak ([#77843](https://github.com/CleverRaven/Cataclysm-DDA/pull/77843))
 * [Xedra Evolved] Add dinomod check for lilit kcal drain ([#77884](https://github.com/CleverRaven/Cataclysm-DDA/pull/77884))
 * Parametrize all walls: Palettes part 1  ([#77846](https://github.com/CleverRaven/Cataclysm-DDA/pull/77846))
