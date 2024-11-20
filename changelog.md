@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-20-1735 ([30f1da0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-1735))
+
 * [MoM] Add the Gamma Sterilization photokinetic power ([#77978](https://github.com/CleverRaven/Cataclysm-DDA/pull/77978))
 
 ---

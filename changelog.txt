@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-20-1735 (30f1da0)
 * [MoM] Add the Gamma Sterilization photokinetic power (#77978)
 
 Cataclysm-DDA experimental build 2024-11-20-1502 (a720a63)
