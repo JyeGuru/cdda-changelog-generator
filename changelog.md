@@ -1,3 +1,4 @@
+* Allow Lilin to drain ruach while under the effects of NO_SPELLCASTING ([#77998](https://github.com/CleverRaven/Cataclysm-DDA/pull/77998))
 * reorder the cardinal direction indicators in the AIM drop window ([#77987](https://github.com/CleverRaven/Cataclysm-DDA/pull/77987))
 
 ---
@@ -216,6 +217,5 @@
 * Forest trash updates, make field stone a bit more common and useful ([#77788](https://github.com/CleverRaven/Cataclysm-DDA/pull/77788))
 * Sloppy Joes with human meat is Sloppy Joseph, not manwiches ([#77814](https://github.com/CleverRaven/Cataclysm-DDA/pull/77814))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
-* [Magiclysm] Fix high druid typo ([#77787](https://github.com/CleverRaven/Cataclysm-DDA/pull/77787))
 * sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
 * Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))
