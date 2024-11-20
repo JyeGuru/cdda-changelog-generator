@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-20-0526 ([d65bfa1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-0526))
+
+* Fix camp expansion recipes not being available ([#77984](https://github.com/CleverRaven/Cataclysm-DDA/pull/77984))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-19-1456 ([bbc0d00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-19-1456))
 
 * Remove dirt walls from unfinished evac shelter ([#77973](https://github.com/CleverRaven/Cataclysm-DDA/pull/77973))
@@ -204,24 +210,12 @@
 
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
 * Pruning the old ``to-hit`` syntax - Part 10 ([#77815](https://github.com/CleverRaven/Cataclysm-DDA/pull/77815))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-14-0916 ([e6dade6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0916))
-
-* Crafting GUI Search: cancel the search with ESC ([#77782](https://github.com/CleverRaven/Cataclysm-DDA/pull/77782))
 * Fix non .json files from being read as json ([#77821](https://github.com/CleverRaven/Cataclysm-DDA/pull/77821))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-14-0650 ([51f014f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-0650))
-
 * Further price adjusting ([#77810](https://github.com/CleverRaven/Cataclysm-DDA/pull/77810))
 * Forest trash updates, make field stone a bit more common and useful ([#77788](https://github.com/CleverRaven/Cataclysm-DDA/pull/77788))
 * Sloppy Joes with human meat is Sloppy Joseph, not manwiches ([#77814](https://github.com/CleverRaven/Cataclysm-DDA/pull/77814))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
 * Make petstore have walls again ([#77783](https://github.com/CleverRaven/Cataclysm-DDA/pull/77783))
 * [Magiclysm] Fix high druid typo ([#77787](https://github.com/CleverRaven/Cataclysm-DDA/pull/77787))
-* Audit some more of the aztec stuff ([#77779](https://github.com/CleverRaven/Cataclysm-DDA/pull/77779))
 * sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
 * Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))

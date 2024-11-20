@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-20-0526 (d65bfa1)
+* Fix camp expansion recipes not being available (#77984)
+
 Cataclysm-DDA experimental build 2024-11-19-1456 (bbc0d00)
 * Remove dirt walls from unfinished evac shelter (#77973)
 * make dry stone wall an obstacle and fix its description (#77936)
@@ -132,18 +135,12 @@ Cataclysm-DDA experimental build 2024-11-14-2153 (27b424d)
 Cataclysm-DDA experimental build 2024-11-14-1240 (65b3721)
 * Fix double preposition typos (#77830)
 * Pruning the old ``to-hit`` syntax - Part 10 (#77815)
-
-Cataclysm-DDA experimental build 2024-11-14-0916 (e6dade6)
-* Crafting GUI Search: cancel the search with ESC (#77782)
 * Fix non .json files from being read as json (#77821)
-
-Cataclysm-DDA experimental build 2024-11-14-0650 (51f014f)
 * Further price adjusting (#77810)
 * Forest trash updates, make field stone a bit more common and useful (#77788)
 * Sloppy Joes with human meat is Sloppy Joseph, not manwiches (#77814)
 * Ensure crushed characters are fetched from the correct location (#77805)
 * Make petstore have walls again (#77783)
 * [Magiclysm] Fix high druid typo (#77787)
-* Audit some more of the aztec stuff (#77779)
 * sanify some longest_sides (#77790)
 * Cannibals are pariahs (#77793)
