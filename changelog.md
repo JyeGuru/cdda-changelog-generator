@@ -1,3 +1,8 @@
+* [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
+* rename `BATTERY_HEAVY` ([#77969](https://github.com/CleverRaven/Cataclysm-DDA/pull/77969))
+* Parametrize all walls: Final part ([#77999](https://github.com/CleverRaven/Cataclysm-DDA/pull/77999))
+* Silenced switch fallthrough warnings ([#77994](https://github.com/CleverRaven/Cataclysm-DDA/pull/77994))
+* Have mansions use parametrized carpets ([#78001](https://github.com/CleverRaven/Cataclysm-DDA/pull/78001))
 * Fix temperature input query in debug menu ([#77990](https://github.com/CleverRaven/Cataclysm-DDA/pull/77990))
 * Optimized scent_map::shift ([#77997](https://github.com/CleverRaven/Cataclysm-DDA/pull/77997))
 * Add MISSION_ITEM to all vitrification items ([#78010](https://github.com/CleverRaven/Cataclysm-DDA/pull/78010))
@@ -128,7 +133,6 @@
 * Remove magic roof addition on manual construction ([#77873](https://github.com/CleverRaven/Cataclysm-DDA/pull/77873))
 * Allow to use long sticks in earth ramp leading up ([#77892](https://github.com/CleverRaven/Cataclysm-DDA/pull/77892))
 * Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
-* Abstractify basic walls ([#77797](https://github.com/CleverRaven/Cataclysm-DDA/pull/77797))
 
 ---
 
@@ -183,7 +187,6 @@
 * Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
 * No lit cigs in inventory anymore, only in hands or in mouth ([#77834](https://github.com/CleverRaven/Cataclysm-DDA/pull/77834))
-* some cooking proficiencies added to existing recipes once again ([#77804](https://github.com/CleverRaven/Cataclysm-DDA/pull/77804))
 * [MOM] Add power to cancel specific concentration effects ([#77832](https://github.com/CleverRaven/Cataclysm-DDA/pull/77832))
 * [AFS] Dont extract pseudo things for translation ([#77833](https://github.com/CleverRaven/Cataclysm-DDA/pull/77833))
 * Spawn fully loaded medium battery instead of light battery in tutorial ([#77835](https://github.com/CleverRaven/Cataclysm-DDA/pull/77835))
@@ -204,17 +207,9 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-11-14-2153 ([27b424d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-2153))
-
-* Increased volume of pillows, body-pillow, and volume capacity of pillowcase ([#77801](https://github.com/CleverRaven/Cataclysm-DDA/pull/77801))
-
----
-
 #### Cataclysm-DDA experimental build 2024-11-14-1240 ([65b3721](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-1240))
 
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
 * Pruning the old ``to-hit`` syntax - Part 10 ([#77815](https://github.com/CleverRaven/Cataclysm-DDA/pull/77815))
 * Fix non .json files from being read as json ([#77821](https://github.com/CleverRaven/Cataclysm-DDA/pull/77821))
-* Further price adjusting ([#77810](https://github.com/CleverRaven/Cataclysm-DDA/pull/77810))
 * Sloppy Joes with human meat is Sloppy Joseph, not manwiches ([#77814](https://github.com/CleverRaven/Cataclysm-DDA/pull/77814))
-* Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
