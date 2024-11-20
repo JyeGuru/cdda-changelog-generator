@@ -1,3 +1,4 @@
+* drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
 
 ---
 
@@ -211,4 +212,3 @@
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
 * Pruning the old ``to-hit`` syntax - Part 10 ([#77815](https://github.com/CleverRaven/Cataclysm-DDA/pull/77815))
 * Fix non .json files from being read as json ([#77821](https://github.com/CleverRaven/Cataclysm-DDA/pull/77821))
-* Sloppy Joes with human meat is Sloppy Joseph, not manwiches ([#77814](https://github.com/CleverRaven/Cataclysm-DDA/pull/77814))
