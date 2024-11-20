@@ -1,3 +1,7 @@
+* [MoM] Add the Gamma Sterilization photokinetic power (#77978)
+
+Cataclysm-DDA experimental build 2024-11-20-1502 (a720a63)
+* some more cooking proficiencies added to existing recipes (#77972)
 * drying_rate test displays weather, clears map (#78014)
 
 Cataclysm-DDA experimental build 2024-11-20-1035 (766449f)
@@ -138,5 +142,4 @@ Cataclysm-DDA experimental build 2024-11-15-0512 (0f2c155)
 Cataclysm-DDA experimental build 2024-11-15-0247 (36d1e0c)
 * Fix candle not fitting candlestick (#77862)
 * Fix double preposition typos (#77830)
-* Pruning the old ``to-hit`` syntax - Part 10 (#77815)
 * Fix non .json files from being read as json (#77821)

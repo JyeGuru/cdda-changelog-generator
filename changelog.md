@@ -1,3 +1,10 @@
+* [MoM] Add the Gamma Sterilization photokinetic power ([#77978](https://github.com/CleverRaven/Cataclysm-DDA/pull/77978))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-20-1502 ([a720a63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-1502))
+
+* some more cooking proficiencies added to existing recipes ([#77972](https://github.com/CleverRaven/Cataclysm-DDA/pull/77972))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
 
 ---
@@ -210,5 +217,4 @@
 
 * Fix candle not fitting candlestick ([#77862](https://github.com/CleverRaven/Cataclysm-DDA/pull/77862))
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
-* Pruning the old ``to-hit`` syntax - Part 10 ([#77815](https://github.com/CleverRaven/Cataclysm-DDA/pull/77815))
 * Fix non .json files from being read as json ([#77821](https://github.com/CleverRaven/Cataclysm-DDA/pull/77821))
