@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-20-1035 ([766449f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-1035))
+
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
 * rename `BATTERY_HEAVY` ([#77969](https://github.com/CleverRaven/Cataclysm-DDA/pull/77969))
 * Parametrize all walls: Final part ([#77999](https://github.com/CleverRaven/Cataclysm-DDA/pull/77999))
@@ -204,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2024-11-15-0247 ([36d1e0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-0247))
 
 * Fix candle not fitting candlestick ([#77862](https://github.com/CleverRaven/Cataclysm-DDA/pull/77862))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-14-1240 ([65b3721](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-14-1240))
-
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
 * Pruning the old ``to-hit`` syntax - Part 10 ([#77815](https://github.com/CleverRaven/Cataclysm-DDA/pull/77815))
 * Fix non .json files from being read as json ([#77821](https://github.com/CleverRaven/Cataclysm-DDA/pull/77821))
