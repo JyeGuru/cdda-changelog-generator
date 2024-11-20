@@ -1,3 +1,7 @@
+* Fix temperature input query in debug menu ([#77990](https://github.com/CleverRaven/Cataclysm-DDA/pull/77990))
+* Optimized scent_map::shift ([#77997](https://github.com/CleverRaven/Cataclysm-DDA/pull/77997))
+* Add MISSION_ITEM to all vitrification items ([#78010](https://github.com/CleverRaven/Cataclysm-DDA/pull/78010))
+* Remove unused palette + move militia palette to correct folder ([#78000](https://github.com/CleverRaven/Cataclysm-DDA/pull/78000))
 
 ---
 
@@ -38,7 +42,6 @@
 
 * [Xedra Evolved] Dont extract fake spells/stuff for translation ([#77940](https://github.com/CleverRaven/Cataclysm-DDA/pull/77940))
 * Cache item info for crafting GUI full-text search ([#77914](https://github.com/CleverRaven/Cataclysm-DDA/pull/77914))
-* Improve f_consume_item_sum and f_has_items_sum, use it more ([#77791](https://github.com/CleverRaven/Cataclysm-DDA/pull/77791))
 * Sanity pass on the fungal acidic zombie ([#77880](https://github.com/CleverRaven/Cataclysm-DDA/pull/77880))
 * Aftershock: Nerf spawn % of broken cyborg in basement_bionic ([#77897](https://github.com/CleverRaven/Cataclysm-DDA/pull/77897))
 * Fix military base battery issues ([#77942](https://github.com/CleverRaven/Cataclysm-DDA/pull/77942))
@@ -86,12 +89,6 @@
 #### Cataclysm-DDA experimental build 2024-11-18-0136 ([df1cd87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0136))
 
 * Add missing longest_side ([#77850](https://github.com/CleverRaven/Cataclysm-DDA/pull/77850))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-17-2026 ([2ca630f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-17-2026))
-
-* Remove leftovers of "ident" ([#77796](https://github.com/CleverRaven/Cataclysm-DDA/pull/77796))
 
 ---
 
@@ -221,5 +218,3 @@
 * Further price adjusting ([#77810](https://github.com/CleverRaven/Cataclysm-DDA/pull/77810))
 * Sloppy Joes with human meat is Sloppy Joseph, not manwiches ([#77814](https://github.com/CleverRaven/Cataclysm-DDA/pull/77814))
 * Ensure crushed characters are fetched from the correct location ([#77805](https://github.com/CleverRaven/Cataclysm-DDA/pull/77805))
-* sanify some longest_sides ([#77790](https://github.com/CleverRaven/Cataclysm-DDA/pull/77790))
-* Cannibals are pariahs ([#77793](https://github.com/CleverRaven/Cataclysm-DDA/pull/77793))
