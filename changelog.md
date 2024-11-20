@@ -1,3 +1,4 @@
+* [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
 
 ---
 
@@ -222,4 +223,3 @@
 
 * Fix candle not fitting candlestick ([#77862](https://github.com/CleverRaven/Cataclysm-DDA/pull/77862))
 * Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))
-* Fix non .json files from being read as json ([#77821](https://github.com/CleverRaven/Cataclysm-DDA/pull/77821))

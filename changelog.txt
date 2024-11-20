@@ -1,3 +1,4 @@
+* [Magiclysm] Fix soul afterburner granting infinite moves (#78034)
 
 Cataclysm-DDA experimental build 2024-11-20-1735 (30f1da0)
 * [MoM] Add the Gamma Sterilization photokinetic power (#77978)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-11-15-0512 (0f2c155)
 Cataclysm-DDA experimental build 2024-11-15-0247 (36d1e0c)
 * Fix candle not fitting candlestick (#77862)
 * Fix double preposition typos (#77830)
-* Fix non .json files from being read as json (#77821)
