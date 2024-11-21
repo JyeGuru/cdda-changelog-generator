@@ -1,3 +1,4 @@
+* Cleared avatar prior to vehicle_turret test (#78021)
 * Add self (terribleperson) to comment-commands.yml (#78040)
 
 Cataclysm-DDA experimental build 2024-11-20-2004 (3691d1e)
@@ -53,7 +54,6 @@ Cataclysm-DDA experimental build 2024-11-18-0627 (fc8e177)
 * Food price scales with freshness (#77960)
 * NECC mapgen wrong symbol fix (#77966)
 * replace garlic with wild garlic during foraging (#77937)
-* Add more colored walls to parametrized palettes + adjust ratios (#77828)
 * More fix duplicate words typos (#77859)
 * [XE] More Lilin traits and features (#77883)
 * No Hope: Nerf spawn % of broken cyborg in basement_bionic (#77898)
