@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-21-2122 ([f0d2f50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-2122))
+
+* Items salvaged from cutting will now be placed in vehicle, if you're cutting them in vehicle ([#77910](https://github.com/CleverRaven/Cataclysm-DDA/pull/77910))
 * Better margin of error for test shot_custom_damage_type ([#77989](https://github.com/CleverRaven/Cataclysm-DDA/pull/77989))
 
 ---
@@ -207,4 +213,3 @@
 #### Cataclysm-DDA experimental build 2024-11-15-2006 ([1b9e076](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2006))
 
 * Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
-* Some more knife related price changes ([#77878](https://github.com/CleverRaven/Cataclysm-DDA/pull/77878))

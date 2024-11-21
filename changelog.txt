@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-11-21-2122 (f0d2f50)
+* Items salvaged from cutting will now be placed in vehicle, if you're cutting them in vehicle (#77910)
 * Better margin of error for test shot_custom_damage_type (#77989)
 
 Cataclysm-DDA experimental build 2024-11-21-1756 (c5b5049)
@@ -138,4 +141,3 @@ Cataclysm-DDA experimental build 2024-11-15-2329 (c0dd793)
 
 Cataclysm-DDA experimental build 2024-11-15-2006 (1b9e076)
 * Add myself as the maintainer for TropiCata (#77886)
-* Some more knife related price changes (#77878)
