@@ -1,3 +1,13 @@
+* Add std::string wrappers for ImGui::InputText* methods ([#77979](https://github.com/CleverRaven/Cataclysm-DDA/pull/77979))
+* Fix archery_damage_test CI occasional failure ([#77970](https://github.com/CleverRaven/Cataclysm-DDA/pull/77970))
+* Add a storage unit palette ([#78022](https://github.com/CleverRaven/Cataclysm-DDA/pull/78022))
+* Fix Tacoma ranch silo having solar panels ([#78027](https://github.com/CleverRaven/Cataclysm-DDA/pull/78027))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
+
+* Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
 * Decreased volume of pillows but made them a little bit heavier.json ([#77890](https://github.com/CleverRaven/Cataclysm-DDA/pull/77890))
 * Items with "POST_UP" use_action can be put up on walls  ([#77903](https://github.com/CleverRaven/Cataclysm-DDA/pull/77903))
 * New scenario: Moonlit Night ([#77909](https://github.com/CleverRaven/Cataclysm-DDA/pull/77909))
@@ -108,7 +118,6 @@
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
-* More fix duplicate words typos ([#77859](https://github.com/CleverRaven/Cataclysm-DDA/pull/77859))
 * [XE] More Lilin traits and features ([#77883](https://github.com/CleverRaven/Cataclysm-DDA/pull/77883))
 * No Hope: Nerf spawn % of broken cyborg in basement_bionic ([#77898](https://github.com/CleverRaven/Cataclysm-DDA/pull/77898))
 * Make rural church not spawn water heaters in walls ([#77900](https://github.com/CleverRaven/Cataclysm-DDA/pull/77900))
@@ -130,12 +139,6 @@
 * Fix typo, add comma for Lisa Isherwood ([#77926](https://github.com/CleverRaven/Cataclysm-DDA/pull/77926))
 * Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
 * [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-18-0136 ([df1cd87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0136))
-
-* Add missing longest_side ([#77850](https://github.com/CleverRaven/Cataclysm-DDA/pull/77850))
 
 ---
 
@@ -184,7 +187,6 @@
 * 'Fix' Small Squeeze Tube Description ([#77894](https://github.com/CleverRaven/Cataclysm-DDA/pull/77894))
 * item: let translators reorder tname segments ([#77885](https://github.com/CleverRaven/Cataclysm-DDA/pull/77885))
 * [Xedra Evolved] Add dinomod check for lilit kcal drain ([#77884](https://github.com/CleverRaven/Cataclysm-DDA/pull/77884))
-* Assorted debug menu fixes ([#77867](https://github.com/CleverRaven/Cataclysm-DDA/pull/77867))
 * Fix has_ammo and has_ammo_info ([#77887](https://github.com/CleverRaven/Cataclysm-DDA/pull/77887))
 
 ---
@@ -216,5 +218,3 @@
 * Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
 * Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
-* Add more nests to the roof palette ([#77864](https://github.com/CleverRaven/Cataclysm-DDA/pull/77864))
-* Fix candle not fitting candlestick ([#77862](https://github.com/CleverRaven/Cataclysm-DDA/pull/77862))
