@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-21-0734 ([a8cb24e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-0734))
+
+* Fix roofs that use the roof palette ([#78038](https://github.com/CleverRaven/Cataclysm-DDA/pull/78038))
 * Cleared avatar prior to vehicle_turret test ([#78021](https://github.com/CleverRaven/Cataclysm-DDA/pull/78021))
 * Add self (terribleperson) to comment-commands.yml ([#78040](https://github.com/CleverRaven/Cataclysm-DDA/pull/78040))
 
@@ -213,13 +219,7 @@
 * [MOM] Add power to cancel specific concentration effects ([#77832](https://github.com/CleverRaven/Cataclysm-DDA/pull/77832))
 * [AFS] Dont extract pseudo things for translation ([#77833](https://github.com/CleverRaven/Cataclysm-DDA/pull/77833))
 * Spawn fully loaded medium battery instead of light battery in tutorial ([#77835](https://github.com/CleverRaven/Cataclysm-DDA/pull/77835))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-15-0512 ([0f2c155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-0512))
-
 * Add more nests to the roof palette ([#77864](https://github.com/CleverRaven/Cataclysm-DDA/pull/77864))
 * Don't release spores when destroyed by fire ([#77841](https://github.com/CleverRaven/Cataclysm-DDA/pull/77841))
 * [Xedra Evolved] Cryptid missions hang ups ([#77848](https://github.com/CleverRaven/Cataclysm-DDA/pull/77848))
 * Fix candle not fitting candlestick ([#77862](https://github.com/CleverRaven/Cataclysm-DDA/pull/77862))
-* Fix double preposition typos ([#77830](https://github.com/CleverRaven/Cataclysm-DDA/pull/77830))

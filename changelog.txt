@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-11-21-0734 (a8cb24e)
+* Fix roofs that use the roof palette (#78038)
 * Cleared avatar prior to vehicle_turret test (#78021)
 * Add self (terribleperson) to comment-commands.yml (#78040)
 
@@ -138,10 +141,7 @@ Cataclysm-DDA experimental build 2024-11-15-1420 (a8deffc)
 * [MOM] Add power to cancel specific concentration effects (#77832)
 * [AFS] Dont extract pseudo things for translation (#77833)
 * Spawn fully loaded medium battery instead of light battery in tutorial (#77835)
-
-Cataclysm-DDA experimental build 2024-11-15-0512 (0f2c155)
 * Add more nests to the roof palette (#77864)
 * Don't release spores when destroyed by fire (#77841)
 * [Xedra Evolved] Cryptid missions hang ups (#77848)
 * Fix candle not fitting candlestick (#77862)
-* Fix double preposition typos (#77830)
