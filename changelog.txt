@@ -1,3 +1,6 @@
+* Dangerous field distractions factor in in_vehicle immunity (#78055)
+* Allow Custom Variables in Widgets (#78042)
+* Don't run item::on_pickup when the item is wielded (#78048)
 * Add MELEE_TO_HIT enchantment (#78023)
 * move ax(wood axe) from "real_axes" to "real_great_axes" in melee.json (#78019)
 * Fix `bio_blindfold` not working correctly after a save & load cycle (#78035)
@@ -117,9 +120,6 @@ Cataclysm-DDA experimental build 2024-11-16-1726 (4a03734)
 
 Cataclysm-DDA experimental build 2024-11-16-1121 (2d4306f)
 * Allow a heavy training dummy in place of light (#77905)
-
-Cataclysm-DDA experimental build 2024-11-16-0847 (22cdb84)
-* Remove magic roof addition on manual construction (#77873)
 * Allow to use long sticks in earth ramp leading up (#77892)
 * Allow Placement of Motorbike Batteries as Appliances (#77901)
 
@@ -135,9 +135,5 @@ Cataclysm-DDA experimental build 2024-11-15-2329 (c0dd793)
 
 Cataclysm-DDA experimental build 2024-11-15-2006 (1b9e076)
 * Add myself as the maintainer for TropiCata (#77886)
-* Do not access overmap during character creation (#77872)
 * Some more knife related price changes (#77878)
 * fix popup messages that show up the wrong size until the next input (#77876)
-
-Cataclysm-DDA experimental build 2024-11-15-1420 (a8deffc)
-* Fix map items categorization (#77874)

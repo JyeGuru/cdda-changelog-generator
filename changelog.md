@@ -1,3 +1,6 @@
+* Dangerous field distractions factor in in_vehicle immunity ([#78055](https://github.com/CleverRaven/Cataclysm-DDA/pull/78055))
+* Allow Custom Variables in Widgets ([#78042](https://github.com/CleverRaven/Cataclysm-DDA/pull/78042))
+* Don't run item::on_pickup when the item is wielded ([#78048](https://github.com/CleverRaven/Cataclysm-DDA/pull/78048))
 * Add MELEE_TO_HIT enchantment ([#78023](https://github.com/CleverRaven/Cataclysm-DDA/pull/78023))
 * move ax(wood axe) from "real_axes" to "real_great_axes" in melee.json ([#78019](https://github.com/CleverRaven/Cataclysm-DDA/pull/78019))
 * Fix `bio_blindfold` not working correctly after a save & load cycle ([#78035](https://github.com/CleverRaven/Cataclysm-DDA/pull/78035))
@@ -174,12 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-11-16-1121 ([2d4306f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-1121))
 
 * Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-16-0847 ([22cdb84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-0847))
-
-* Remove magic roof addition on manual construction ([#77873](https://github.com/CleverRaven/Cataclysm-DDA/pull/77873))
 * Allow to use long sticks in earth ramp leading up ([#77892](https://github.com/CleverRaven/Cataclysm-DDA/pull/77892))
 * Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
 
@@ -204,12 +201,5 @@
 #### Cataclysm-DDA experimental build 2024-11-15-2006 ([1b9e076](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2006))
 
 * Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
-* Do not access overmap during character creation ([#77872](https://github.com/CleverRaven/Cataclysm-DDA/pull/77872))
 * Some more knife related price changes ([#77878](https://github.com/CleverRaven/Cataclysm-DDA/pull/77878))
 * fix popup messages that show up the wrong size until the next input ([#77876](https://github.com/CleverRaven/Cataclysm-DDA/pull/77876))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-15-1420 ([a8deffc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-1420))
-
-* Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
