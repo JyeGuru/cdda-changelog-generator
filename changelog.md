@@ -1,3 +1,5 @@
+* Add MELEE_TO_HIT enchantment ([#78023](https://github.com/CleverRaven/Cataclysm-DDA/pull/78023))
+* move ax(wood axe) from "real_axes" to "real_great_axes" in melee.json ([#78019](https://github.com/CleverRaven/Cataclysm-DDA/pull/78019))
 * Fix `bio_blindfold` not working correctly after a save & load cycle ([#78035](https://github.com/CleverRaven/Cataclysm-DDA/pull/78035))
 * Reign in carbide craft quantity ([#77964](https://github.com/CleverRaven/Cataclysm-DDA/pull/77964))
 * Add std::string wrappers for ImGui::InputText* methods ([#77979](https://github.com/CleverRaven/Cataclysm-DDA/pull/77979))
@@ -202,7 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-11-15-2006 ([1b9e076](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2006))
 
 * Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
-* Fix font config issues ([#77871](https://github.com/CleverRaven/Cataclysm-DDA/pull/77871))
 * Do not access overmap during character creation ([#77872](https://github.com/CleverRaven/Cataclysm-DDA/pull/77872))
 * Some more knife related price changes ([#77878](https://github.com/CleverRaven/Cataclysm-DDA/pull/77878))
 * fix popup messages that show up the wrong size until the next input ([#77876](https://github.com/CleverRaven/Cataclysm-DDA/pull/77876))
@@ -212,4 +213,3 @@
 #### Cataclysm-DDA experimental build 2024-11-15-1420 ([a8deffc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-1420))
 
 * Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
-* Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
