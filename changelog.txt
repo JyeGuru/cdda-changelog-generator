@@ -1,3 +1,4 @@
+* Better margin of error for test shot_custom_damage_type (#77989)
 
 Cataclysm-DDA experimental build 2024-11-21-1756 (c5b5049)
 * Dangerous field distractions factor in in_vehicle immunity (#78055)
@@ -138,4 +139,3 @@ Cataclysm-DDA experimental build 2024-11-15-2329 (c0dd793)
 Cataclysm-DDA experimental build 2024-11-15-2006 (1b9e076)
 * Add myself as the maintainer for TropiCata (#77886)
 * Some more knife related price changes (#77878)
-* fix popup messages that show up the wrong size until the next input (#77876)

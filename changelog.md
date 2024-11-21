@@ -1,3 +1,4 @@
+* Better margin of error for test shot_custom_damage_type ([#77989](https://github.com/CleverRaven/Cataclysm-DDA/pull/77989))
 
 ---
 
@@ -207,4 +208,3 @@
 
 * Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
 * Some more knife related price changes ([#77878](https://github.com/CleverRaven/Cataclysm-DDA/pull/77878))
-* fix popup messages that show up the wrong size until the next input ([#77876](https://github.com/CleverRaven/Cataclysm-DDA/pull/77876))
