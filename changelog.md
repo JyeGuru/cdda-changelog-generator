@@ -1,3 +1,5 @@
+* Fix `bio_blindfold` not working correctly after a save & load cycle ([#78035](https://github.com/CleverRaven/Cataclysm-DDA/pull/78035))
+* Reign in carbide craft quantity ([#77964](https://github.com/CleverRaven/Cataclysm-DDA/pull/77964))
 * Add std::string wrappers for ImGui::InputText* methods ([#77979](https://github.com/CleverRaven/Cataclysm-DDA/pull/77979))
 * Fix archery_damage_test CI occasional failure ([#77970](https://github.com/CleverRaven/Cataclysm-DDA/pull/77970))
 * Add a storage unit palette ([#78022](https://github.com/CleverRaven/Cataclysm-DDA/pull/78022))
@@ -201,12 +203,6 @@
 
 * Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
 * Fix font config issues ([#77871](https://github.com/CleverRaven/Cataclysm-DDA/pull/77871))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-15-1722 ([45a67ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-1722))
-
-* [Magiclysm] Dont extract monster/fake spells for translation ([#77869](https://github.com/CleverRaven/Cataclysm-DDA/pull/77869))
 * Do not access overmap during character creation ([#77872](https://github.com/CleverRaven/Cataclysm-DDA/pull/77872))
 * Some more knife related price changes ([#77878](https://github.com/CleverRaven/Cataclysm-DDA/pull/77878))
 * fix popup messages that show up the wrong size until the next input ([#77876](https://github.com/CleverRaven/Cataclysm-DDA/pull/77876))
@@ -216,5 +212,4 @@
 #### Cataclysm-DDA experimental build 2024-11-15-1420 ([a8deffc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-1420))
 
 * Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
-* Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
