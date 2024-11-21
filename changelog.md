@@ -1,3 +1,6 @@
+* Refactor item::made_of_any_food_components ([#77959](https://github.com/CleverRaven/Cataclysm-DDA/pull/77959))
+* [MoM] Update creature mindsight to be variable, apply to Eater ([#77963](https://github.com/CleverRaven/Cataclysm-DDA/pull/77963))
+* Allow customizing imgui colors more flexibly. ([#77985](https://github.com/CleverRaven/Cataclysm-DDA/pull/77985))
 
 ---
 
@@ -215,9 +218,6 @@
 * Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
 * Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
-* No lit cigs in inventory anymore, only in hands or in mouth ([#77834](https://github.com/CleverRaven/Cataclysm-DDA/pull/77834))
-* [MOM] Add power to cancel specific concentration effects ([#77832](https://github.com/CleverRaven/Cataclysm-DDA/pull/77832))
-* [AFS] Dont extract pseudo things for translation ([#77833](https://github.com/CleverRaven/Cataclysm-DDA/pull/77833))
 * Spawn fully loaded medium battery instead of light battery in tutorial ([#77835](https://github.com/CleverRaven/Cataclysm-DDA/pull/77835))
 * Add more nests to the roof palette ([#77864](https://github.com/CleverRaven/Cataclysm-DDA/pull/77864))
 * Don't release spores when destroyed by fire ([#77841](https://github.com/CleverRaven/Cataclysm-DDA/pull/77841))
