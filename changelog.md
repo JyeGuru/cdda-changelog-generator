@@ -1,3 +1,4 @@
+* Decreased volume of pillows but made them a little bit heavier.json ([#77890](https://github.com/CleverRaven/Cataclysm-DDA/pull/77890))
 * Items with "POST_UP" use_action can be put up on walls  ([#77903](https://github.com/CleverRaven/Cataclysm-DDA/pull/77903))
 * New scenario: Moonlit Night ([#77909](https://github.com/CleverRaven/Cataclysm-DDA/pull/77909))
 * mics eoc changes ([#77941](https://github.com/CleverRaven/Cataclysm-DDA/pull/77941))
@@ -197,7 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-11-15-2006 ([1b9e076](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2006))
 
 * Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
-* Fix duplicate "an" in exterminatron description ([#77849](https://github.com/CleverRaven/Cataclysm-DDA/pull/77849))
 * Fix font config issues ([#77871](https://github.com/CleverRaven/Cataclysm-DDA/pull/77871))
 
 ---
