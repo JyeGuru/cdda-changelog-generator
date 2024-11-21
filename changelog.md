@@ -1,3 +1,11 @@
+* Items with "POST_UP" use_action can be put up on walls  ([#77903](https://github.com/CleverRaven/Cataclysm-DDA/pull/77903))
+* New scenario: Moonlit Night ([#77909](https://github.com/CleverRaven/Cataclysm-DDA/pull/77909))
+* mics eoc changes ([#77941](https://github.com/CleverRaven/Cataclysm-DDA/pull/77941))
+* Remove _has_var ([#77946](https://github.com/CleverRaven/Cataclysm-DDA/pull/77946))
+* remove 300 blk and 338 guns and ammo from arsenal groups ([#77944](https://github.com/CleverRaven/Cataclysm-DDA/pull/77944))
+* Add recipe for big brass catcher ([#77947](https://github.com/CleverRaven/Cataclysm-DDA/pull/77947))
+* Add missing uncraft recipe for 30-06 JSP rounds ([#77948](https://github.com/CleverRaven/Cataclysm-DDA/pull/77948))
+* tests/eoc: use standard NPC in the EOC_run_eocs test ([#77950](https://github.com/CleverRaven/Cataclysm-DDA/pull/77950))
 * Refactor item::made_of_any_food_components ([#77959](https://github.com/CleverRaven/Cataclysm-DDA/pull/77959))
 * [MoM] Update creature mindsight to be variable, apply to Eater ([#77963](https://github.com/CleverRaven/Cataclysm-DDA/pull/77963))
 * Allow customizing imgui colors more flexibly. ([#77985](https://github.com/CleverRaven/Cataclysm-DDA/pull/77985))
@@ -174,15 +182,7 @@
 * Routine i18n updates on 16 November 2024 ([#77899](https://github.com/CleverRaven/Cataclysm-DDA/pull/77899))
 * 'Fix' Small Squeeze Tube Description ([#77894](https://github.com/CleverRaven/Cataclysm-DDA/pull/77894))
 * item: let translators reorder tname segments ([#77885](https://github.com/CleverRaven/Cataclysm-DDA/pull/77885))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-16-0414 ([63e17e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-0414))
-
-* Use the player's theme colors in ImGui ([#77842](https://github.com/CleverRaven/Cataclysm-DDA/pull/77842))
-* `BIO_OP_DISARM` tweak ([#77843](https://github.com/CleverRaven/Cataclysm-DDA/pull/77843))
 * [Xedra Evolved] Add dinomod check for lilit kcal drain ([#77884](https://github.com/CleverRaven/Cataclysm-DDA/pull/77884))
-* Parametrize all walls: Palettes part 1  ([#77846](https://github.com/CleverRaven/Cataclysm-DDA/pull/77846))
 * Assorted debug menu fixes ([#77867](https://github.com/CleverRaven/Cataclysm-DDA/pull/77867))
 * Fix has_ammo and has_ammo_info ([#77887](https://github.com/CleverRaven/Cataclysm-DDA/pull/77887))
 
@@ -206,9 +206,7 @@
 
 * [Magiclysm] Dont extract monster/fake spells for translation ([#77869](https://github.com/CleverRaven/Cataclysm-DDA/pull/77869))
 * Do not access overmap during character creation ([#77872](https://github.com/CleverRaven/Cataclysm-DDA/pull/77872))
-* Pruning the old ``to-hit`` syntax - Part 11 ([#77838](https://github.com/CleverRaven/Cataclysm-DDA/pull/77838))
 * Some more knife related price changes ([#77878](https://github.com/CleverRaven/Cataclysm-DDA/pull/77878))
-* Fix debugmsg on tear gas grenade and smoke bomb finish emitting fields ([#77836](https://github.com/CleverRaven/Cataclysm-DDA/pull/77836))
 * fix popup messages that show up the wrong size until the next input ([#77876](https://github.com/CleverRaven/Cataclysm-DDA/pull/77876))
 
 ---
@@ -218,8 +216,5 @@
 * Fix map items categorization ([#77874](https://github.com/CleverRaven/Cataclysm-DDA/pull/77874))
 * Remove thousands separators ([#77868](https://github.com/CleverRaven/Cataclysm-DDA/pull/77868))
 * Add missing clause id in Aftershock mod ([#77870](https://github.com/CleverRaven/Cataclysm-DDA/pull/77870))
-* Spawn fully loaded medium battery instead of light battery in tutorial ([#77835](https://github.com/CleverRaven/Cataclysm-DDA/pull/77835))
 * Add more nests to the roof palette ([#77864](https://github.com/CleverRaven/Cataclysm-DDA/pull/77864))
-* Don't release spores when destroyed by fire ([#77841](https://github.com/CleverRaven/Cataclysm-DDA/pull/77841))
-* [Xedra Evolved] Cryptid missions hang ups ([#77848](https://github.com/CleverRaven/Cataclysm-DDA/pull/77848))
 * Fix candle not fitting candlestick ([#77862](https://github.com/CleverRaven/Cataclysm-DDA/pull/77862))
