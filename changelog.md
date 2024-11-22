@@ -1,3 +1,11 @@
+* Even less items around streams ([#78065](https://github.com/CleverRaven/Cataclysm-DDA/pull/78065))
+* national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-22-0239 ([366b79e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-22-0239))
+
+* Add open crates to farm supply store ([#78060](https://github.com/CleverRaven/Cataclysm-DDA/pull/78060))
 
 ---
 
@@ -120,7 +128,6 @@
 
 * [Xedra Evolved] Dont extract fake spells/stuff for translation ([#77940](https://github.com/CleverRaven/Cataclysm-DDA/pull/77940))
 * Cache item info for crafting GUI full-text search ([#77914](https://github.com/CleverRaven/Cataclysm-DDA/pull/77914))
-* Sanity pass on the fungal acidic zombie ([#77880](https://github.com/CleverRaven/Cataclysm-DDA/pull/77880))
 * Aftershock: Nerf spawn % of broken cyborg in basement_bionic ([#77897](https://github.com/CleverRaven/Cataclysm-DDA/pull/77897))
 * Fix military base battery issues ([#77942](https://github.com/CleverRaven/Cataclysm-DDA/pull/77942))
 
@@ -137,7 +144,6 @@
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
-* [XE] More Lilin traits and features ([#77883](https://github.com/CleverRaven/Cataclysm-DDA/pull/77883))
 * No Hope: Nerf spawn % of broken cyborg in basement_bionic ([#77898](https://github.com/CleverRaven/Cataclysm-DDA/pull/77898))
 * Make rural church not spawn water heaters in walls ([#77900](https://github.com/CleverRaven/Cataclysm-DDA/pull/77900))
 * github/workflows: move macOS job to the end of the list ([#77934](https://github.com/CleverRaven/Cataclysm-DDA/pull/77934))
@@ -167,7 +173,6 @@
 * remove buckwheat from foraging, add to seed group ([#77912](https://github.com/CleverRaven/Cataclysm-DDA/pull/77912))
 * [Magiclysm] Fix demonic possession causing starvation penalties ([#77927](https://github.com/CleverRaven/Cataclysm-DDA/pull/77927))
 * Obsolete OM_MOVE ([#77917](https://github.com/CleverRaven/Cataclysm-DDA/pull/77917))
-* Fix nunez bullet trailer appearing out of nowhere ([#77879](https://github.com/CleverRaven/Cataclysm-DDA/pull/77879))
 * Aftershock: Disable portal storms in Exoplanet ([#77924](https://github.com/CleverRaven/Cataclysm-DDA/pull/77924))
 * Lead Acid Battery breaks_into Audit ([#77921](https://github.com/CleverRaven/Cataclysm-DDA/pull/77921))
 * Remove debug message in add_profession_items() causing basic build failure ([#77922](https://github.com/CleverRaven/Cataclysm-DDA/pull/77922))
@@ -207,9 +212,4 @@
 #### Cataclysm-DDA experimental build 2024-11-15-2329 ([c0dd793](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2329))
 
 * bee balm nutrient audit ([#77891](https://github.com/CleverRaven/Cataclysm-DDA/pull/77891))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-15-2006 ([1b9e076](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2006))
-
 * Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
