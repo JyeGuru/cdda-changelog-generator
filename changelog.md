@@ -1,3 +1,5 @@
+* Make creature overlay icons optional ([#78053](https://github.com/CleverRaven/Cataclysm-DDA/pull/78053))
+* Fix format mismatches in tripoint item vars ([#78054](https://github.com/CleverRaven/Cataclysm-DDA/pull/78054))
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality ([#78063](https://github.com/CleverRaven/Cataclysm-DDA/pull/78063))
 * Update cramped space effect messages ([#78059](https://github.com/CleverRaven/Cataclysm-DDA/pull/78059))
 
@@ -43,7 +45,6 @@
 #### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
 
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
-* Decreased volume of pillows but made them a little bit heavier.json ([#77890](https://github.com/CleverRaven/Cataclysm-DDA/pull/77890))
 * Items with "POST_UP" use_action can be put up on walls  ([#77903](https://github.com/CleverRaven/Cataclysm-DDA/pull/77903))
 * New scenario: Moonlit Night ([#77909](https://github.com/CleverRaven/Cataclysm-DDA/pull/77909))
 * mics eoc changes ([#77941](https://github.com/CleverRaven/Cataclysm-DDA/pull/77941))
@@ -211,5 +212,4 @@
 
 * Routine i18n updates on 16 November 2024 ([#77899](https://github.com/CleverRaven/Cataclysm-DDA/pull/77899))
 * 'Fix' Small Squeeze Tube Description ([#77894](https://github.com/CleverRaven/Cataclysm-DDA/pull/77894))
-* Fix has_ammo and has_ammo_info ([#77887](https://github.com/CleverRaven/Cataclysm-DDA/pull/77887))
 * bee balm nutrient audit ([#77891](https://github.com/CleverRaven/Cataclysm-DDA/pull/77891))
