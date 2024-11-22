@@ -1,3 +1,11 @@
+* [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality ([#78063](https://github.com/CleverRaven/Cataclysm-DDA/pull/78063))
+* Update cramped space effect messages ([#78059](https://github.com/CleverRaven/Cataclysm-DDA/pull/78059))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-11-22-0429 ([4c8fd24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-22-0429))
+
+* Fix reference after removal error in grab break code ([#78067](https://github.com/CleverRaven/Cataclysm-DDA/pull/78067))
 * Even less items around streams ([#78065](https://github.com/CleverRaven/Cataclysm-DDA/pull/78065))
 * national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
 
@@ -203,13 +211,5 @@
 
 * Routine i18n updates on 16 November 2024 ([#77899](https://github.com/CleverRaven/Cataclysm-DDA/pull/77899))
 * 'Fix' Small Squeeze Tube Description ([#77894](https://github.com/CleverRaven/Cataclysm-DDA/pull/77894))
-* item: let translators reorder tname segments ([#77885](https://github.com/CleverRaven/Cataclysm-DDA/pull/77885))
-* [Xedra Evolved] Add dinomod check for lilit kcal drain ([#77884](https://github.com/CleverRaven/Cataclysm-DDA/pull/77884))
 * Fix has_ammo and has_ammo_info ([#77887](https://github.com/CleverRaven/Cataclysm-DDA/pull/77887))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-15-2329 ([c0dd793](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-15-2329))
-
 * bee balm nutrient audit ([#77891](https://github.com/CleverRaven/Cataclysm-DDA/pull/77891))
-* Add myself as the maintainer for TropiCata ([#77886](https://github.com/CleverRaven/Cataclysm-DDA/pull/77886))
