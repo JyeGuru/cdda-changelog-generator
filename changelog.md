@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-22-0525 ([d42cfd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-22-0525))
+
 * Make creature overlay icons optional ([#78053](https://github.com/CleverRaven/Cataclysm-DDA/pull/78053))
 * Fix format mismatches in tripoint item vars ([#78054](https://github.com/CleverRaven/Cataclysm-DDA/pull/78054))
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality ([#78063](https://github.com/CleverRaven/Cataclysm-DDA/pull/78063))
