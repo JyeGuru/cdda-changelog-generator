@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.H release candidate 2024-11-22-2227 (ee08452)
+* Stash mission ids and remove after loop for 0.H (#78082)
+
 Cataclysm-DDA experimental build 2024-11-22-0525 (d42cfd9)
 * Make creature overlay icons optional (#78053)
 * Fix format mismatches in tripoint item vars (#78054)
@@ -140,4 +143,3 @@ Cataclysm-DDA experimental build 2024-11-16-1121 (2d4306f)
 * Allow Placement of Motorbike Batteries as Appliances (#77901)
 * Routine i18n updates on 16 November 2024 (#77899)
 * 'Fix' Small Squeeze Tube Description (#77894)
-* bee balm nutrient audit (#77891)

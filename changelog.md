@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-11-22-2227 ([ee08452](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-22-2227))
+
+* Stash mission ids and remove after loop for 0.H ([#78082](https://github.com/CleverRaven/Cataclysm-DDA/pull/78082))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-22-0525 ([d42cfd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-22-0525))
 
 * Make creature overlay icons optional ([#78053](https://github.com/CleverRaven/Cataclysm-DDA/pull/78053))
@@ -212,4 +218,3 @@
 * Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
 * Routine i18n updates on 16 November 2024 ([#77899](https://github.com/CleverRaven/Cataclysm-DDA/pull/77899))
 * 'Fix' Small Squeeze Tube Description ([#77894](https://github.com/CleverRaven/Cataclysm-DDA/pull/77894))
-* bee balm nutrient audit ([#77891](https://github.com/CleverRaven/Cataclysm-DDA/pull/77891))
