@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-23-2130 ([98baf15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-23-2130))
+
+* Add a concrete carpet parametrized palette and apply it ([#78004](https://github.com/CleverRaven/Cataclysm-DDA/pull/78004))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-23-0704 ([8ff5859](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-23-0704))
 
 * Stash mission ids and remove them after loop for 0.I ([#78083](https://github.com/CleverRaven/Cataclysm-DDA/pull/78083))
@@ -161,7 +167,6 @@
 
 * [Xedra Evolved] Dont extract fake spells/stuff for translation ([#77940](https://github.com/CleverRaven/Cataclysm-DDA/pull/77940))
 * Cache item info for crafting GUI full-text search ([#77914](https://github.com/CleverRaven/Cataclysm-DDA/pull/77914))
-* Aftershock: Nerf spawn % of broken cyborg in basement_bionic ([#77897](https://github.com/CleverRaven/Cataclysm-DDA/pull/77897))
 * Fix military base battery issues ([#77942](https://github.com/CleverRaven/Cataclysm-DDA/pull/77942))
 
 ---
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-11-18-0946 ([7fdfc4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0946))
 
 * Weekly Changelog 2024-11-11 to 2024-11-18 ([#77965](https://github.com/CleverRaven/Cataclysm-DDA/pull/77965))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-18-0627 ([fc8e177](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0627))
-
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
