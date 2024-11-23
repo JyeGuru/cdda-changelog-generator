@@ -1,3 +1,4 @@
+* Stash mission ids and remove them after loop for 0.I (#78083)
 * Unhardcode slime pits (#78077)
 
 Cataclysm-DDA experimental build 2024-11-23-0355 (0ca1937)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2024-11-18-0406 (0f63065)
 * Allow a heavy training dummy in place of light (#77905)
 * Allow Placement of Motorbike Batteries as Appliances (#77901)
 * Routine i18n updates on 16 November 2024 (#77899)
-* 'Fix' Small Squeeze Tube Description (#77894)
