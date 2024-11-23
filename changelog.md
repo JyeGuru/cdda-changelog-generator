@@ -179,7 +179,6 @@
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
-* Make rural church not spawn water heaters in walls ([#77900](https://github.com/CleverRaven/Cataclysm-DDA/pull/77900))
 * github/workflows: move macOS job to the end of the list ([#77934](https://github.com/CleverRaven/Cataclysm-DDA/pull/77934))
 * Fix mining using a pickaxe always causes an error ([#77906](https://github.com/CleverRaven/Cataclysm-DDA/pull/77906))
 * shorten `memorize` hint in crafting GUI search ([#77916](https://github.com/CleverRaven/Cataclysm-DDA/pull/77916))
