@@ -1,4 +1,6 @@
 * Unhardcode slime pits (#78077)
+
+Cataclysm-DDA experimental build 2024-11-23-0355 (0ca1937)
 * Routine i18n updates on 23 November 2024 (#78085)
 
 Cataclysm-DDA 0.H release candidate 2024-11-22-2227 (ee08452)
@@ -129,8 +131,6 @@ Cataclysm-DDA experimental build 2024-11-18-0406 (0f63065)
 * Aftershock: Disable portal storms in Exoplanet (#77924)
 * Lead Acid Battery breaks_into Audit (#77921)
 * Remove debug message in add_profession_items() causing basic build failure (#77922)
-
-Cataclysm-DDA experimental build 2024-11-17-0450 (e5cdaca)
 * Allow safecracking prof to identify safe mechanisms (#77925)
 * Lower Stream Item Spawns (#77904)
 * Allow a heavy training dummy in place of light (#77905)

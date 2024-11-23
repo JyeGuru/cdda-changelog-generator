@@ -1,4 +1,9 @@
 * Unhardcode slime pits ([#78077](https://github.com/CleverRaven/Cataclysm-DDA/pull/78077))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-23-0355 ([0ca1937](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-23-0355))
+
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
 
 ---
@@ -192,11 +197,6 @@
 * Aftershock: Disable portal storms in Exoplanet ([#77924](https://github.com/CleverRaven/Cataclysm-DDA/pull/77924))
 * Lead Acid Battery breaks_into Audit ([#77921](https://github.com/CleverRaven/Cataclysm-DDA/pull/77921))
 * Remove debug message in add_profession_items() causing basic build failure ([#77922](https://github.com/CleverRaven/Cataclysm-DDA/pull/77922))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-17-0450 ([e5cdaca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-17-0450))
-
 * Allow safecracking prof to identify safe mechanisms ([#77925](https://github.com/CleverRaven/Cataclysm-DDA/pull/77925))
 * Lower Stream Item Spawns ([#77904](https://github.com/CleverRaven/Cataclysm-DDA/pull/77904))
 * Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
