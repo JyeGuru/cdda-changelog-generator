@@ -189,11 +189,6 @@
 * Add trait property to supress traits being granted at random in chargen ([#77953](https://github.com/CleverRaven/Cataclysm-DDA/pull/77953))
 * Add graffiti to parametrized wall palette ([#77952](https://github.com/CleverRaven/Cataclysm-DDA/pull/77952))
 * [Xedra Evolved] More Ierde powers ([#77930](https://github.com/CleverRaven/Cataclysm-DDA/pull/77930))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-18-0406 ([0f63065](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0406))
-
 * Fix typo, add comma for Lisa Isherwood ([#77926](https://github.com/CleverRaven/Cataclysm-DDA/pull/77926))
 * Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
 * [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
