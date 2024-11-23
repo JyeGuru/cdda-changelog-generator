@@ -1,3 +1,5 @@
+* Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
+* Re-allow camps to craft liquid items ([#77986](https://github.com/CleverRaven/Cataclysm-DDA/pull/77986))
 
 ---
 
@@ -177,7 +179,6 @@
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
-* No Hope: Nerf spawn % of broken cyborg in basement_bionic ([#77898](https://github.com/CleverRaven/Cataclysm-DDA/pull/77898))
 * Make rural church not spawn water heaters in walls ([#77900](https://github.com/CleverRaven/Cataclysm-DDA/pull/77900))
 * github/workflows: move macOS job to the end of the list ([#77934](https://github.com/CleverRaven/Cataclysm-DDA/pull/77934))
 * Fix mining using a pickaxe always causes an error ([#77906](https://github.com/CleverRaven/Cataclysm-DDA/pull/77906))
@@ -202,4 +203,3 @@
 * Lower Stream Item Spawns ([#77904](https://github.com/CleverRaven/Cataclysm-DDA/pull/77904))
 * Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
 * Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
-* Routine i18n updates on 16 November 2024 ([#77899](https://github.com/CleverRaven/Cataclysm-DDA/pull/77899))
