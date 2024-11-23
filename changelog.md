@@ -1,3 +1,5 @@
+* Unhardcode slime pits ([#78077](https://github.com/CleverRaven/Cataclysm-DDA/pull/78077))
+* Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
 
 ---
 
@@ -184,12 +186,6 @@
 * Fix typo, add comma for Lisa Isherwood ([#77926](https://github.com/CleverRaven/Cataclysm-DDA/pull/77926))
 * Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
 * [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-17-0712 ([9ac7d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-17-0712))
-
-* Transformation use action can pick random item from itemgroups ([#77893](https://github.com/CleverRaven/Cataclysm-DDA/pull/77893))
 * remove buckwheat from foraging, add to seed group ([#77912](https://github.com/CleverRaven/Cataclysm-DDA/pull/77912))
 * [Magiclysm] Fix demonic possession causing starvation penalties ([#77927](https://github.com/CleverRaven/Cataclysm-DDA/pull/77927))
 * Obsolete OM_MOVE ([#77917](https://github.com/CleverRaven/Cataclysm-DDA/pull/77917))
@@ -202,14 +198,8 @@
 #### Cataclysm-DDA experimental build 2024-11-17-0450 ([e5cdaca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-17-0450))
 
 * Allow safecracking prof to identify safe mechanisms ([#77925](https://github.com/CleverRaven/Cataclysm-DDA/pull/77925))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-16-1726 ([4a03734](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-1726))
-
 * Lower Stream Item Spawns ([#77904](https://github.com/CleverRaven/Cataclysm-DDA/pull/77904))
 * Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
-* Allow to use long sticks in earth ramp leading up ([#77892](https://github.com/CleverRaven/Cataclysm-DDA/pull/77892))
 * Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
 * Routine i18n updates on 16 November 2024 ([#77899](https://github.com/CleverRaven/Cataclysm-DDA/pull/77899))
 * 'Fix' Small Squeeze Tube Description ([#77894](https://github.com/CleverRaven/Cataclysm-DDA/pull/77894))
