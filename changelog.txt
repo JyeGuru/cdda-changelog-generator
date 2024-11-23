@@ -1,3 +1,4 @@
+* fill_ter accepts parameters (#78036)
 * Add imgui_stdlib to CMake (#78099)
 * Re-allow camps to craft liquid items (#77986)
 
@@ -135,4 +136,3 @@ Cataclysm-DDA experimental build 2024-11-18-0946 (7fdfc4d)
 * Allow safecracking prof to identify safe mechanisms (#77925)
 * Lower Stream Item Spawns (#77904)
 * Allow a heavy training dummy in place of light (#77905)
-* Allow Placement of Motorbike Batteries as Appliances (#77901)

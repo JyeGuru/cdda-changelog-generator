@@ -1,3 +1,4 @@
+* fill_ter accepts parameters ([#78036](https://github.com/CleverRaven/Cataclysm-DDA/pull/78036))
 * Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
 * Re-allow camps to craft liquid items ([#77986](https://github.com/CleverRaven/Cataclysm-DDA/pull/77986))
 
@@ -201,4 +202,3 @@
 * Allow safecracking prof to identify safe mechanisms ([#77925](https://github.com/CleverRaven/Cataclysm-DDA/pull/77925))
 * Lower Stream Item Spawns ([#77904](https://github.com/CleverRaven/Cataclysm-DDA/pull/77904))
 * Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
-* Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
