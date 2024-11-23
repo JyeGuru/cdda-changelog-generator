@@ -136,8 +136,6 @@ Cataclysm-DDA experimental build 2024-11-17-0450 (e5cdaca)
 
 Cataclysm-DDA experimental build 2024-11-16-1726 (4a03734)
 * Lower Stream Item Spawns (#77904)
-
-Cataclysm-DDA experimental build 2024-11-16-1121 (2d4306f)
 * Allow a heavy training dummy in place of light (#77905)
 * Allow to use long sticks in earth ramp leading up (#77892)
 * Allow Placement of Motorbike Batteries as Appliances (#77901)

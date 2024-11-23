@@ -208,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2024-11-16-1726 ([4a03734](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-1726))
 
 * Lower Stream Item Spawns ([#77904](https://github.com/CleverRaven/Cataclysm-DDA/pull/77904))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-16-1121 ([2d4306f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-16-1121))
-
 * Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))
 * Allow to use long sticks in earth ramp leading up ([#77892](https://github.com/CleverRaven/Cataclysm-DDA/pull/77892))
 * Allow Placement of Motorbike Batteries as Appliances ([#77901](https://github.com/CleverRaven/Cataclysm-DDA/pull/77901))
