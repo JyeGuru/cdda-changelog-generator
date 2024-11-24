@@ -173,11 +173,6 @@
 
 * Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-18-1457 ([c544d81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-1457))
-
 * [Xedra Evolved] Dont extract fake spells/stuff for translation ([#77940](https://github.com/CleverRaven/Cataclysm-DDA/pull/77940))
 * Fix military base battery issues ([#77942](https://github.com/CleverRaven/Cataclysm-DDA/pull/77942))
 * Weekly Changelog 2024-11-11 to 2024-11-18 ([#77965](https://github.com/CleverRaven/Cataclysm-DDA/pull/77965))
