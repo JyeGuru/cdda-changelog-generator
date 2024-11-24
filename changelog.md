@@ -1,3 +1,10 @@
+* add spicebush and chokeberries ([#78066](https://github.com/CleverRaven/Cataclysm-DDA/pull/78066))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-24-0847 ([e53a339](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-24-0847))
+
+* [Magiclysm] Add the mana-shackled challenge trait  ([#78049](https://github.com/CleverRaven/Cataclysm-DDA/pull/78049))
 * Survivor Hoods and Cowl Update Take 2 ([#78098](https://github.com/CleverRaven/Cataclysm-DDA/pull/78098))
 * ALLOWS_TALONS is about talons for feet, not for hands ([#78095](https://github.com/CleverRaven/Cataclysm-DDA/pull/78095))
 * Tile layering supports item variants ([#78101](https://github.com/CleverRaven/Cataclysm-DDA/pull/78101))
@@ -166,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2024-11-19-1224 ([c4a030c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-19-1224))
 
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-19-1133 ([82a4ba9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-19-1133))
-
 * Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
 * [Xedra Evolved] Dont extract fake spells/stuff for translation ([#77940](https://github.com/CleverRaven/Cataclysm-DDA/pull/77940))
@@ -180,7 +182,6 @@
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
 * github/workflows: move macOS job to the end of the list ([#77934](https://github.com/CleverRaven/Cataclysm-DDA/pull/77934))
-* shorten `memorize` hint in crafting GUI search ([#77916](https://github.com/CleverRaven/Cataclysm-DDA/pull/77916))
 * Revert the horizontal separator color back to dark-gray ([#77935](https://github.com/CleverRaven/Cataclysm-DDA/pull/77935))
 * Fix example json in WEATHER_TYPE.md ([#77933](https://github.com/CleverRaven/Cataclysm-DDA/pull/77933))
 * Enable Multiple Anvils for Isherwood Mission ([#77931](https://github.com/CleverRaven/Cataclysm-DDA/pull/77931))
