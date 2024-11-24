@@ -195,6 +195,5 @@
 * [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
 * [Magiclysm] Fix demonic possession causing starvation penalties ([#77927](https://github.com/CleverRaven/Cataclysm-DDA/pull/77927))
 * Aftershock: Disable portal storms in Exoplanet ([#77924](https://github.com/CleverRaven/Cataclysm-DDA/pull/77924))
-* Lead Acid Battery breaks_into Audit ([#77921](https://github.com/CleverRaven/Cataclysm-DDA/pull/77921))
 * Remove debug message in add_profession_items() causing basic build failure ([#77922](https://github.com/CleverRaven/Cataclysm-DDA/pull/77922))
 * Allow safecracking prof to identify safe mechanisms ([#77925](https://github.com/CleverRaven/Cataclysm-DDA/pull/77925))
