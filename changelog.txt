@@ -1,3 +1,4 @@
+* Fix penentrating strike (#78076)
 * Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md (#78100)
 
 Cataclysm-DDA experimental build 2024-11-24-0240 (5b0c138)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2024-11-18-1457 (c544d81)
 * NECC mapgen wrong symbol fix (#77966)
 * replace garlic with wild garlic during foraging (#77937)
 * github/workflows: move macOS job to the end of the list (#77934)
-* Fix mining using a pickaxe always causes an error (#77906)
 * shorten `memorize` hint in crafting GUI search (#77916)
 * Revert the horizontal separator color back to dark-gray (#77935)
 * Fix example json in WEATHER_TYPE.md (#77933)

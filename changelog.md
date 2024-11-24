@@ -1,3 +1,4 @@
+* Fix penentrating strike ([#78076](https://github.com/CleverRaven/Cataclysm-DDA/pull/78076))
 * Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md ([#78100](https://github.com/CleverRaven/Cataclysm-DDA/pull/78100))
 
 ---
@@ -188,7 +189,6 @@
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
 * github/workflows: move macOS job to the end of the list ([#77934](https://github.com/CleverRaven/Cataclysm-DDA/pull/77934))
-* Fix mining using a pickaxe always causes an error ([#77906](https://github.com/CleverRaven/Cataclysm-DDA/pull/77906))
 * shorten `memorize` hint in crafting GUI search ([#77916](https://github.com/CleverRaven/Cataclysm-DDA/pull/77916))
 * Revert the horizontal separator color back to dark-gray ([#77935](https://github.com/CleverRaven/Cataclysm-DDA/pull/77935))
 * Fix example json in WEATHER_TYPE.md ([#77933](https://github.com/CleverRaven/Cataclysm-DDA/pull/77933))
