@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-24-1805 (71b3dbe)
 * enchantify special vision [2/2] (#78080)
 * Remove sees_player_hitbutton mod (#77974)
 * typified end of 'a' (#78093)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2024-11-20-1035 (766449f)
 * Optimized scent_map::shift (#77997)
 * Add MISSION_ITEM to all vitrification items (#78010)
 * Remove unused palette + move militia palette to correct folder (#78000)
-
-Cataclysm-DDA experimental build 2024-11-20-0814 (91af05b)
 * Allow Lilin to drain ruach while under the effects of NO_SPELLCASTING (#77998)
 * reorder the cardinal direction indicators in the AIM drop window (#77987)
 * Fix camp expansion recipes not being available (#77984)
