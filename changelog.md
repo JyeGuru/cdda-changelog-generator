@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-24-0240 ([5b0c138](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-24-0240))
+
 * Fix crashing in CURSES without ASCII title art ([#78103](https://github.com/CleverRaven/Cataclysm-DDA/pull/78103))
 * Merge commits from 0-H-Branch into master and update appstream file ([#78106](https://github.com/CleverRaven/Cataclysm-DDA/pull/78106))
 
