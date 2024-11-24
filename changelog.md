@@ -1,3 +1,4 @@
+* enchantify special vision [2/2] ([#78080](https://github.com/CleverRaven/Cataclysm-DDA/pull/78080))
 * Remove sees_player_hitbutton mod ([#77974](https://github.com/CleverRaven/Cataclysm-DDA/pull/77974))
 * typified end of 'a' ([#78093](https://github.com/CleverRaven/Cataclysm-DDA/pull/78093))
 * Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn ([#78090](https://github.com/CleverRaven/Cataclysm-DDA/pull/78090))
@@ -180,6 +181,5 @@
 * Severely up rock volume from mined tiles, add limestone to digging results ([#77951](https://github.com/CleverRaven/Cataclysm-DDA/pull/77951))
 * Add trait property to supress traits being granted at random in chargen ([#77953](https://github.com/CleverRaven/Cataclysm-DDA/pull/77953))
 * Add graffiti to parametrized wall palette ([#77952](https://github.com/CleverRaven/Cataclysm-DDA/pull/77952))
-* [Xedra Evolved] More Ierde powers ([#77930](https://github.com/CleverRaven/Cataclysm-DDA/pull/77930))
 * Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
 * [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
