@@ -1,3 +1,4 @@
+* Survivor Hoods and Cowl Update Take 2 (#78098)
 * ALLOWS_TALONS is about talons for feet, not for hands (#78095)
 * Tile layering supports item variants (#78101)
 * Add parametrized carpet to fill_ter (#78108)
@@ -112,7 +113,6 @@ Cataclysm-DDA experimental build 2024-11-19-1133 (82a4ba9)
 
 Cataclysm-DDA experimental build 2024-11-18-1457 (c544d81)
 * [Xedra Evolved] Dont extract fake spells/stuff for translation (#77940)
-* Cache item info for crafting GUI full-text search (#77914)
 * Fix military base battery issues (#77942)
 * Weekly Changelog 2024-11-11 to 2024-11-18 (#77965)
 * Food price scales with freshness (#77960)
