@@ -1,3 +1,4 @@
+* Remove sees_player_hitbutton mod (#77974)
 * typified end of 'a' (#78093)
 * Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn (#78090)
 * Wildlife food's adjust morale (#78088)
