@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2024-11-20-0526 (d65bfa1)
 Cataclysm-DDA experimental build 2024-11-19-1456 (bbc0d00)
 * Remove dirt walls from unfinished evac shelter (#77973)
 * make dry stone wall an obstacle and fix its description (#77936)
-
-Cataclysm-DDA experimental build 2024-11-19-1224 (c4a030c)
 * fix incorrect variable migration (#77992)
 * Parametrize all walls: Part 3 (#77976)
 * Label palette changes as mapgen (#77975)

@@ -168,11 +168,6 @@
 
 * Remove dirt walls from unfinished evac shelter ([#77973](https://github.com/CleverRaven/Cataclysm-DDA/pull/77973))
 * make dry stone wall an obstacle and fix its description ([#77936](https://github.com/CleverRaven/Cataclysm-DDA/pull/77936))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-19-1224 ([c4a030c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-19-1224))
-
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
 * Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
