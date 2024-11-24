@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-24-0016 ([78d8461](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-24-0016))
+
 * fill_ter accepts parameters ([#78036](https://github.com/CleverRaven/Cataclysm-DDA/pull/78036))
 * Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
 * Re-allow camps to craft liquid items ([#77986](https://github.com/CleverRaven/Cataclysm-DDA/pull/77986))
@@ -171,11 +176,6 @@
 * [Xedra Evolved] Dont extract fake spells/stuff for translation ([#77940](https://github.com/CleverRaven/Cataclysm-DDA/pull/77940))
 * Cache item info for crafting GUI full-text search ([#77914](https://github.com/CleverRaven/Cataclysm-DDA/pull/77914))
 * Fix military base battery issues ([#77942](https://github.com/CleverRaven/Cataclysm-DDA/pull/77942))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-18-0946 ([7fdfc4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-18-0946))
-
 * Weekly Changelog 2024-11-11 to 2024-11-18 ([#77965](https://github.com/CleverRaven/Cataclysm-DDA/pull/77965))
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
