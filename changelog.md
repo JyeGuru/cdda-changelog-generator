@@ -1,3 +1,4 @@
+* Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md ([#78100](https://github.com/CleverRaven/Cataclysm-DDA/pull/78100))
 
 ---
 
@@ -206,4 +207,3 @@
 * Lead Acid Battery breaks_into Audit ([#77921](https://github.com/CleverRaven/Cataclysm-DDA/pull/77921))
 * Remove debug message in add_profession_items() causing basic build failure ([#77922](https://github.com/CleverRaven/Cataclysm-DDA/pull/77922))
 * Allow safecracking prof to identify safe mechanisms ([#77925](https://github.com/CleverRaven/Cataclysm-DDA/pull/77925))
-* Allow a heavy training dummy in place of light ([#77905](https://github.com/CleverRaven/Cataclysm-DDA/pull/77905))

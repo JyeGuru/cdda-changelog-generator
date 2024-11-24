@@ -1,3 +1,4 @@
+* Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md (#78100)
 
 Cataclysm-DDA experimental build 2024-11-24-0240 (5b0c138)
 * Fix crashing in CURSES without ASCII title art (#78103)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2024-11-18-1457 (c544d81)
 * Lead Acid Battery breaks_into Audit (#77921)
 * Remove debug message in add_profession_items() causing basic build failure (#77922)
 * Allow safecracking prof to identify safe mechanisms (#77925)
-* Allow a heavy training dummy in place of light (#77905)
