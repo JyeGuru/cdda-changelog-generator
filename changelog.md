@@ -1,3 +1,5 @@
+* ALLOWS_TALONS is about talons for feet, not for hands ([#78095](https://github.com/CleverRaven/Cataclysm-DDA/pull/78095))
+* Tile layering supports item variants ([#78101](https://github.com/CleverRaven/Cataclysm-DDA/pull/78101))
 * Add parametrized carpet to fill_ter ([#78108](https://github.com/CleverRaven/Cataclysm-DDA/pull/78108))
 * Fix penentrating strike ([#78076](https://github.com/CleverRaven/Cataclysm-DDA/pull/78076))
 * Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md ([#78100](https://github.com/CleverRaven/Cataclysm-DDA/pull/78100))
@@ -64,12 +66,6 @@
 #### Cataclysm-DDA experimental build 2024-11-22-0239 ([366b79e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-22-0239))
 
 * Add open crates to farm supply store ([#78060](https://github.com/CleverRaven/Cataclysm-DDA/pull/78060))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-21-2122 ([f0d2f50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-2122))
-
-* Items salvaged from cutting will now be placed in vehicle, if you're cutting them in vehicle ([#77910](https://github.com/CleverRaven/Cataclysm-DDA/pull/77910))
 * Better margin of error for test shot_custom_damage_type ([#77989](https://github.com/CleverRaven/Cataclysm-DDA/pull/77989))
 
 ---
@@ -200,7 +196,6 @@
 * Fix typo, add comma for Lisa Isherwood ([#77926](https://github.com/CleverRaven/Cataclysm-DDA/pull/77926))
 * Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
 * [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
-* remove buckwheat from foraging, add to seed group ([#77912](https://github.com/CleverRaven/Cataclysm-DDA/pull/77912))
 * [Magiclysm] Fix demonic possession causing starvation penalties ([#77927](https://github.com/CleverRaven/Cataclysm-DDA/pull/77927))
 * Obsolete OM_MOVE ([#77917](https://github.com/CleverRaven/Cataclysm-DDA/pull/77917))
 * Aftershock: Disable portal storms in Exoplanet ([#77924](https://github.com/CleverRaven/Cataclysm-DDA/pull/77924))
