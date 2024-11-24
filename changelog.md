@@ -161,11 +161,6 @@
 
 * Allow Lilin to drain ruach while under the effects of NO_SPELLCASTING ([#77998](https://github.com/CleverRaven/Cataclysm-DDA/pull/77998))
 * reorder the cardinal direction indicators in the AIM drop window ([#77987](https://github.com/CleverRaven/Cataclysm-DDA/pull/77987))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-20-0526 ([d65bfa1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-0526))
-
 * Fix camp expansion recipes not being available ([#77984](https://github.com/CleverRaven/Cataclysm-DDA/pull/77984))
 * Remove dirt walls from unfinished evac shelter ([#77973](https://github.com/CleverRaven/Cataclysm-DDA/pull/77973))
 * make dry stone wall an obstacle and fix its description ([#77936](https://github.com/CleverRaven/Cataclysm-DDA/pull/77936))
