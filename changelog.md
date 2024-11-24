@@ -1,3 +1,4 @@
+* Add parametrized carpet to fill_ter ([#78108](https://github.com/CleverRaven/Cataclysm-DDA/pull/78108))
 * Fix penentrating strike ([#78076](https://github.com/CleverRaven/Cataclysm-DDA/pull/78076))
 * Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md ([#78100](https://github.com/CleverRaven/Cataclysm-DDA/pull/78100))
 
@@ -92,7 +93,6 @@
 #### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
 
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
-* New scenario: Moonlit Night ([#77909](https://github.com/CleverRaven/Cataclysm-DDA/pull/77909))
 * mics eoc changes ([#77941](https://github.com/CleverRaven/Cataclysm-DDA/pull/77941))
 * Remove _has_var ([#77946](https://github.com/CleverRaven/Cataclysm-DDA/pull/77946))
 * remove 300 blk and 338 guns and ammo from arsenal groups ([#77944](https://github.com/CleverRaven/Cataclysm-DDA/pull/77944))
