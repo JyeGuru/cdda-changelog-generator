@@ -1,3 +1,4 @@
+* Weekly Changelog 2024-11-18 to 2024-11-25 ([#78128](https://github.com/CleverRaven/Cataclysm-DDA/pull/78128))
 * Give fungal vector to alien fungus chunk ([#78124](https://github.com/CleverRaven/Cataclysm-DDA/pull/78124))
 * [DinoMod] smell audit ([#78117](https://github.com/CleverRaven/Cataclysm-DDA/pull/78117))
 * BIRD_LEGS should provide TOUGH_FEET like other foot mutations ([#78130](https://github.com/CleverRaven/Cataclysm-DDA/pull/78130))
@@ -182,4 +183,3 @@
 * Add trait property to supress traits being granted at random in chargen ([#77953](https://github.com/CleverRaven/Cataclysm-DDA/pull/77953))
 * Add graffiti to parametrized wall palette ([#77952](https://github.com/CleverRaven/Cataclysm-DDA/pull/77952))
 * Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
-* [Xedra Evolved] Gracken can't learn dream magick either ([#77943](https://github.com/CleverRaven/Cataclysm-DDA/pull/77943))
