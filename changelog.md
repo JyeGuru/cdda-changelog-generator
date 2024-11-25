@@ -1,3 +1,4 @@
+* Give fungal vector to alien fungus chunk ([#78124](https://github.com/CleverRaven/Cataclysm-DDA/pull/78124))
 * [DinoMod] smell audit ([#78117](https://github.com/CleverRaven/Cataclysm-DDA/pull/78117))
 * BIRD_LEGS should provide TOUGH_FEET like other foot mutations ([#78130](https://github.com/CleverRaven/Cataclysm-DDA/pull/78130))
 * Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
@@ -174,7 +175,6 @@
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
 * Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
-* Fix military base battery issues ([#77942](https://github.com/CleverRaven/Cataclysm-DDA/pull/77942))
 * Weekly Changelog 2024-11-11 to 2024-11-18 ([#77965](https://github.com/CleverRaven/Cataclysm-DDA/pull/77965))
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
