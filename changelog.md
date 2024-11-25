@@ -1,3 +1,4 @@
+* Autoreview me on weekly changelog updates ([#78142](https://github.com/CleverRaven/Cataclysm-DDA/pull/78142))
 
 ---
 
@@ -146,7 +147,6 @@
 #### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
 
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
-* Add recipe for big brass catcher ([#77947](https://github.com/CleverRaven/Cataclysm-DDA/pull/77947))
 * Add missing uncraft recipe for 30-06 JSP rounds ([#77948](https://github.com/CleverRaven/Cataclysm-DDA/pull/77948))
 * tests/eoc: use standard NPC in the EOC_run_eocs test ([#77950](https://github.com/CleverRaven/Cataclysm-DDA/pull/77950))
 * Refactor item::made_of_any_food_components ([#77959](https://github.com/CleverRaven/Cataclysm-DDA/pull/77959))
