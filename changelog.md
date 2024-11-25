@@ -141,7 +141,6 @@
 
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
 * Remove _has_var ([#77946](https://github.com/CleverRaven/Cataclysm-DDA/pull/77946))
-* remove 300 blk and 338 guns and ammo from arsenal groups ([#77944](https://github.com/CleverRaven/Cataclysm-DDA/pull/77944))
 * Add recipe for big brass catcher ([#77947](https://github.com/CleverRaven/Cataclysm-DDA/pull/77947))
 * Add missing uncraft recipe for 30-06 JSP rounds ([#77948](https://github.com/CleverRaven/Cataclysm-DDA/pull/77948))
 * tests/eoc: use standard NPC in the EOC_run_eocs test ([#77950](https://github.com/CleverRaven/Cataclysm-DDA/pull/77950))
