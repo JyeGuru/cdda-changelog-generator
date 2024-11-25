@@ -1,3 +1,11 @@
+* Don't spawn prison dog handler's utility stuff on counters in prison mess hall ([#77968](https://github.com/CleverRaven/Cataclysm-DDA/pull/77968))
+* Several tweaks for using musical instruments ([#78074](https://github.com/CleverRaven/Cataclysm-DDA/pull/78074))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-25-0002 ([2bb6a46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0002))
+
+* [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
 
 ---
 
@@ -146,11 +154,6 @@
 
 * some more cooking proficiencies added to existing recipes ([#77972](https://github.com/CleverRaven/Cataclysm-DDA/pull/77972))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-20-1035 ([766449f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-1035))
-
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
 * rename `BATTERY_HEAVY` ([#77969](https://github.com/CleverRaven/Cataclysm-DDA/pull/77969))
 * Parametrize all walls: Final part ([#77999](https://github.com/CleverRaven/Cataclysm-DDA/pull/77999))
@@ -174,10 +177,7 @@
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
-* github/workflows: move macOS job to the end of the list ([#77934](https://github.com/CleverRaven/Cataclysm-DDA/pull/77934))
 * Revert the horizontal separator color back to dark-gray ([#77935](https://github.com/CleverRaven/Cataclysm-DDA/pull/77935))
-* Fix example json in WEATHER_TYPE.md ([#77933](https://github.com/CleverRaven/Cataclysm-DDA/pull/77933))
-* Enable Multiple Anvils for Isherwood Mission ([#77931](https://github.com/CleverRaven/Cataclysm-DDA/pull/77931))
 * Severely up rock volume from mined tiles, add limestone to digging results ([#77951](https://github.com/CleverRaven/Cataclysm-DDA/pull/77951))
 * Add trait property to supress traits being granted at random in chargen ([#77953](https://github.com/CleverRaven/Cataclysm-DDA/pull/77953))
 * Add graffiti to parametrized wall palette ([#77952](https://github.com/CleverRaven/Cataclysm-DDA/pull/77952))
