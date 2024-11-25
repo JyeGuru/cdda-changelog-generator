@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-25-1207 ([703746d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-1207))
+
+* Fix typo in riot armor suit ([#78133](https://github.com/CleverRaven/Cataclysm-DDA/pull/78133))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-25-0819 ([d0cc91b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0819))
 
 * Weekly Changelog 2024-11-18 to 2024-11-25 ([#78128](https://github.com/CleverRaven/Cataclysm-DDA/pull/78128))
@@ -140,18 +146,12 @@
 #### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
 
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
-* Remove _has_var ([#77946](https://github.com/CleverRaven/Cataclysm-DDA/pull/77946))
 * Add recipe for big brass catcher ([#77947](https://github.com/CleverRaven/Cataclysm-DDA/pull/77947))
 * Add missing uncraft recipe for 30-06 JSP rounds ([#77948](https://github.com/CleverRaven/Cataclysm-DDA/pull/77948))
 * tests/eoc: use standard NPC in the EOC_run_eocs test ([#77950](https://github.com/CleverRaven/Cataclysm-DDA/pull/77950))
 * Refactor item::made_of_any_food_components ([#77959](https://github.com/CleverRaven/Cataclysm-DDA/pull/77959))
 * [MoM] Update creature mindsight to be variable, apply to Eater ([#77963](https://github.com/CleverRaven/Cataclysm-DDA/pull/77963))
 * Allow customizing imgui colors more flexibly. ([#77985](https://github.com/CleverRaven/Cataclysm-DDA/pull/77985))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-21-0734 ([a8cb24e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-0734))
-
 * Fix roofs that use the roof palette ([#78038](https://github.com/CleverRaven/Cataclysm-DDA/pull/78038))
 * Cleared avatar prior to vehicle_turret test ([#78021](https://github.com/CleverRaven/Cataclysm-DDA/pull/78021))
 * Add self (terribleperson) to comment-commands.yml ([#78040](https://github.com/CleverRaven/Cataclysm-DDA/pull/78040))
