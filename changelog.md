@@ -1,3 +1,10 @@
+* [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-25-0553 ([9cb8112](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0553))
+
+* Tests: clear_map() clears basecamps ([#78016](https://github.com/CleverRaven/Cataclysm-DDA/pull/78016))
 
 ---
 
@@ -146,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2024-11-20-2004 ([3691d1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-2004))
 
 * [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-20-1735 ([30f1da0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-1735))
-
 * [MoM] Add the Gamma Sterilization photokinetic power ([#77978](https://github.com/CleverRaven/Cataclysm-DDA/pull/77978))
 * some more cooking proficiencies added to existing recipes ([#77972](https://github.com/CleverRaven/Cataclysm-DDA/pull/77972))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
@@ -167,7 +169,6 @@
 * reorder the cardinal direction indicators in the AIM drop window ([#77987](https://github.com/CleverRaven/Cataclysm-DDA/pull/77987))
 * Fix camp expansion recipes not being available ([#77984](https://github.com/CleverRaven/Cataclysm-DDA/pull/77984))
 * Remove dirt walls from unfinished evac shelter ([#77973](https://github.com/CleverRaven/Cataclysm-DDA/pull/77973))
-* make dry stone wall an obstacle and fix its description ([#77936](https://github.com/CleverRaven/Cataclysm-DDA/pull/77936))
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
 * Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
@@ -177,7 +178,6 @@
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
 * replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
-* Revert the horizontal separator color back to dark-gray ([#77935](https://github.com/CleverRaven/Cataclysm-DDA/pull/77935))
 * Severely up rock volume from mined tiles, add limestone to digging results ([#77951](https://github.com/CleverRaven/Cataclysm-DDA/pull/77951))
 * Add trait property to supress traits being granted at random in chargen ([#77953](https://github.com/CleverRaven/Cataclysm-DDA/pull/77953))
 * Add graffiti to parametrized wall palette ([#77952](https://github.com/CleverRaven/Cataclysm-DDA/pull/77952))
