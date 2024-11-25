@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-25-0222 ([dd67958](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0222))
+
 * Don't spawn prison dog handler's utility stuff on counters in prison mess hall ([#77968](https://github.com/CleverRaven/Cataclysm-DDA/pull/77968))
 * Several tweaks for using musical instruments ([#78074](https://github.com/CleverRaven/Cataclysm-DDA/pull/78074))
 
@@ -147,11 +152,6 @@
 #### Cataclysm-DDA experimental build 2024-11-20-1735 ([30f1da0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-1735))
 
 * [MoM] Add the Gamma Sterilization photokinetic power ([#77978](https://github.com/CleverRaven/Cataclysm-DDA/pull/77978))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-20-1502 ([a720a63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-20-1502))
-
 * some more cooking proficiencies added to existing recipes ([#77972](https://github.com/CleverRaven/Cataclysm-DDA/pull/77972))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))

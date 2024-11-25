@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-25-0222 (dd67958)
 * Don't spawn prison dog handler's utility stuff on counters in prison mess hall (#77968)
 * Several tweaks for using musical instruments (#78074)
 
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2024-11-20-2004 (3691d1e)
 
 Cataclysm-DDA experimental build 2024-11-20-1735 (30f1da0)
 * [MoM] Add the Gamma Sterilization photokinetic power (#77978)
-
-Cataclysm-DDA experimental build 2024-11-20-1502 (a720a63)
 * some more cooking proficiencies added to existing recipes (#77972)
 * drying_rate test displays weather, clears map (#78014)
 * [MoM] Parameterize PHAVIAN skyscraper lab (#78013)
