@@ -1,3 +1,6 @@
+* [DinoMod] smell audit ([#78117](https://github.com/CleverRaven/Cataclysm-DDA/pull/78117))
+* BIRD_LEGS should provide TOUGH_FEET like other foot mutations ([#78130](https://github.com/CleverRaven/Cataclysm-DDA/pull/78130))
+* Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
 
 ---
@@ -130,7 +133,6 @@
 #### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
 
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
-* mics eoc changes ([#77941](https://github.com/CleverRaven/Cataclysm-DDA/pull/77941))
 * Remove _has_var ([#77946](https://github.com/CleverRaven/Cataclysm-DDA/pull/77946))
 * remove 300 blk and 338 guns and ammo from arsenal groups ([#77944](https://github.com/CleverRaven/Cataclysm-DDA/pull/77944))
 * Add recipe for big brass catcher ([#77947](https://github.com/CleverRaven/Cataclysm-DDA/pull/77947))
@@ -172,12 +174,10 @@
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
 * Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
-* [Xedra Evolved] Dont extract fake spells/stuff for translation ([#77940](https://github.com/CleverRaven/Cataclysm-DDA/pull/77940))
 * Fix military base battery issues ([#77942](https://github.com/CleverRaven/Cataclysm-DDA/pull/77942))
 * Weekly Changelog 2024-11-11 to 2024-11-18 ([#77965](https://github.com/CleverRaven/Cataclysm-DDA/pull/77965))
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
-* replace garlic with wild garlic during foraging ([#77937](https://github.com/CleverRaven/Cataclysm-DDA/pull/77937))
 * Severely up rock volume from mined tiles, add limestone to digging results ([#77951](https://github.com/CleverRaven/Cataclysm-DDA/pull/77951))
 * Add trait property to supress traits being granted at random in chargen ([#77953](https://github.com/CleverRaven/Cataclysm-DDA/pull/77953))
 * Add graffiti to parametrized wall palette ([#77952](https://github.com/CleverRaven/Cataclysm-DDA/pull/77952))
