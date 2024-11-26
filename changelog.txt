@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-26-1546 (f5814da)
+* Fix counters in military surplus walls (#78169)
+
 Cataclysm-DDA experimental build 2024-11-26-1255 (c01fe14)
 * Make parameter names consistent in definition and declaration (#78167)
 
@@ -79,8 +82,6 @@ Cataclysm-DDA experimental build 2024-11-23-0704 (8ff5859)
 
 Cataclysm-DDA experimental build 2024-11-23-0355 (0ca1937)
 * Routine i18n updates on 23 November 2024 (#78085)
-
-Cataclysm-DDA 0.H release candidate 2024-11-22-2227 (ee08452)
 * Stash mission ids and remove after loop for 0.H (#78082)
 
 Cataclysm-DDA experimental build 2024-11-22-0525 (d42cfd9)
@@ -111,7 +112,6 @@ Cataclysm-DDA experimental build 2024-11-22-0239 (366b79e)
 * Add self (terribleperson) to comment-commands.yml (#78040)
 * [Magiclysm] Fix soul afterburner granting infinite moves (#78034)
 * [MoM] Add the Gamma Sterilization photokinetic power (#77978)
-* some more cooking proficiencies added to existing recipes (#77972)
 * drying_rate test displays weather, clears map (#78014)
 * [MoM] Parameterize PHAVIAN skyscraper lab (#78013)
 * Parametrize all walls: Final part (#77999)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-26-1546 ([f5814da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-1546))
+
+* Fix counters in military surplus walls ([#78169](https://github.com/CleverRaven/Cataclysm-DDA/pull/78169))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-26-1255 ([c01fe14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-1255))
 
 * Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
@@ -124,11 +130,6 @@
 #### Cataclysm-DDA experimental build 2024-11-23-0355 ([0ca1937](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-23-0355))
 
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-22-2227 ([ee08452](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-22-2227))
-
 * Stash mission ids and remove after loop for 0.H ([#78082](https://github.com/CleverRaven/Cataclysm-DDA/pull/78082))
 
 ---
@@ -165,7 +166,6 @@
 * Add self (terribleperson) to comment-commands.yml ([#78040](https://github.com/CleverRaven/Cataclysm-DDA/pull/78040))
 * [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
 * [MoM] Add the Gamma Sterilization photokinetic power ([#77978](https://github.com/CleverRaven/Cataclysm-DDA/pull/77978))
-* some more cooking proficiencies added to existing recipes ([#77972](https://github.com/CleverRaven/Cataclysm-DDA/pull/77972))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
 * Parametrize all walls: Final part ([#77999](https://github.com/CleverRaven/Cataclysm-DDA/pull/77999))
