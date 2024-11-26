@@ -142,11 +142,6 @@
 
 * Add open crates to farm supply store ([#78060](https://github.com/CleverRaven/Cataclysm-DDA/pull/78060))
 * Better margin of error for test shot_custom_damage_type ([#77989](https://github.com/CleverRaven/Cataclysm-DDA/pull/77989))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-21-1756 ([c5b5049](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1756))
-
 * Dangerous field distractions factor in in_vehicle immunity ([#78055](https://github.com/CleverRaven/Cataclysm-DDA/pull/78055))
 * Allow Custom Variables in Widgets ([#78042](https://github.com/CleverRaven/Cataclysm-DDA/pull/78042))
 * Don't run item::on_pickup when the item is wielded ([#78048](https://github.com/CleverRaven/Cataclysm-DDA/pull/78048))
