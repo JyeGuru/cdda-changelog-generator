@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-26-0525 ([040f4e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-0525))
+
 * Add static so game compiles ([#78147](https://github.com/CleverRaven/Cataclysm-DDA/pull/78147))
 * No counters in petstore walls ([#78145](https://github.com/CleverRaven/Cataclysm-DDA/pull/78145))
 * [MoM] Change id of Sense Minds sensing effect to use new tileset sprite ([#78143](https://github.com/CleverRaven/Cataclysm-DDA/pull/78143))
@@ -152,11 +157,6 @@
 * Fix archery_damage_test CI occasional failure ([#77970](https://github.com/CleverRaven/Cataclysm-DDA/pull/77970))
 * Add a storage unit palette ([#78022](https://github.com/CleverRaven/Cataclysm-DDA/pull/78022))
 * Fix Tacoma ranch silo having solar panels ([#78027](https://github.com/CleverRaven/Cataclysm-DDA/pull/78027))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
-
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
 * Allow customizing imgui colors more flexibly. ([#77985](https://github.com/CleverRaven/Cataclysm-DDA/pull/77985))
 * Fix roofs that use the roof palette ([#78038](https://github.com/CleverRaven/Cataclysm-DDA/pull/78038))
