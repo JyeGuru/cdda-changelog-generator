@@ -1,3 +1,4 @@
+* Don't search forks for build artifacts in CI ([#78170](https://github.com/CleverRaven/Cataclysm-DDA/pull/78170))
 
 ---
 
@@ -178,7 +179,6 @@
 * Allow Lilin to drain ruach while under the effects of NO_SPELLCASTING ([#77998](https://github.com/CleverRaven/Cataclysm-DDA/pull/77998))
 * reorder the cardinal direction indicators in the AIM drop window ([#77987](https://github.com/CleverRaven/Cataclysm-DDA/pull/77987))
 * Fix camp expansion recipes not being available ([#77984](https://github.com/CleverRaven/Cataclysm-DDA/pull/77984))
-* Remove dirt walls from unfinished evac shelter ([#77973](https://github.com/CleverRaven/Cataclysm-DDA/pull/77973))
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
 * Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
