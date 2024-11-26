@@ -47,7 +47,6 @@ Cataclysm-DDA experimental build 2024-11-25-0002 (2bb6a46)
 
 Cataclysm-DDA experimental build 2024-11-24-1805 (71b3dbe)
 * enchantify special vision [2/2] (#78080)
-* Remove sees_player_hitbutton mod (#77974)
 * typified end of 'a' (#78093)
 * Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn (#78090)
 * Wildlife food's adjust morale (#78088)
