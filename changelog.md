@@ -1,3 +1,15 @@
+* Add new wildlife flags to raw fruit and vegetables ([#78135](https://github.com/CleverRaven/Cataclysm-DDA/pull/78135))
+* Skip loading screen image check for invalid mods ([#78134](https://github.com/CleverRaven/Cataclysm-DDA/pull/78134))
+* [MoM] Danger Sense senses danger ([#78131](https://github.com/CleverRaven/Cataclysm-DDA/pull/78131))
+* Mods can add categories to the help menu ([#78126](https://github.com/CleverRaven/Cataclysm-DDA/pull/78126))
+* Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
+* Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-26-0258 ([5ccd8ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-0258))
+
+* Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
 * Autoreview me on weekly changelog updates ([#78142](https://github.com/CleverRaven/Cataclysm-DDA/pull/78142))
 
 ---
@@ -147,9 +159,6 @@
 #### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
 
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
-* Add missing uncraft recipe for 30-06 JSP rounds ([#77948](https://github.com/CleverRaven/Cataclysm-DDA/pull/77948))
-* tests/eoc: use standard NPC in the EOC_run_eocs test ([#77950](https://github.com/CleverRaven/Cataclysm-DDA/pull/77950))
-* Refactor item::made_of_any_food_components ([#77959](https://github.com/CleverRaven/Cataclysm-DDA/pull/77959))
 * [MoM] Update creature mindsight to be variable, apply to Eater ([#77963](https://github.com/CleverRaven/Cataclysm-DDA/pull/77963))
 * Allow customizing imgui colors more flexibly. ([#77985](https://github.com/CleverRaven/Cataclysm-DDA/pull/77985))
 * Fix roofs that use the roof palette ([#78038](https://github.com/CleverRaven/Cataclysm-DDA/pull/78038))
@@ -178,7 +187,3 @@
 * Weekly Changelog 2024-11-11 to 2024-11-18 ([#77965](https://github.com/CleverRaven/Cataclysm-DDA/pull/77965))
 * Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
 * NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
-* Severely up rock volume from mined tiles, add limestone to digging results ([#77951](https://github.com/CleverRaven/Cataclysm-DDA/pull/77951))
-* Add trait property to supress traits being granted at random in chargen ([#77953](https://github.com/CleverRaven/Cataclysm-DDA/pull/77953))
-* Add graffiti to parametrized wall palette ([#77952](https://github.com/CleverRaven/Cataclysm-DDA/pull/77952))
-* Sidebar widget to show faction territory ([#77956](https://github.com/CleverRaven/Cataclysm-DDA/pull/77956))
