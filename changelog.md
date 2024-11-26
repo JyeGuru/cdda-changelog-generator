@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-26-1255 ([c01fe14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-1255))
+
+* Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-26-0822 ([1ecb260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-0822))
 
 * Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
@@ -133,11 +139,6 @@
 * Fix format mismatches in tripoint item vars ([#78054](https://github.com/CleverRaven/Cataclysm-DDA/pull/78054))
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality ([#78063](https://github.com/CleverRaven/Cataclysm-DDA/pull/78063))
 * Update cramped space effect messages ([#78059](https://github.com/CleverRaven/Cataclysm-DDA/pull/78059))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-11-22-0429 ([4c8fd24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-11-22-0429))
-
 * Fix reference after removal error in grab break code ([#78067](https://github.com/CleverRaven/Cataclysm-DDA/pull/78067))
 * Even less items around streams ([#78065](https://github.com/CleverRaven/Cataclysm-DDA/pull/78065))
 * national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
@@ -155,7 +156,6 @@
 * move ax(wood axe) from "real_axes" to "real_great_axes" in melee.json ([#78019](https://github.com/CleverRaven/Cataclysm-DDA/pull/78019))
 * Fix `bio_blindfold` not working correctly after a save & load cycle ([#78035](https://github.com/CleverRaven/Cataclysm-DDA/pull/78035))
 * Add std::string wrappers for ImGui::InputText* methods ([#77979](https://github.com/CleverRaven/Cataclysm-DDA/pull/77979))
-* Fix archery_damage_test CI occasional failure ([#77970](https://github.com/CleverRaven/Cataclysm-DDA/pull/77970))
 * Add a storage unit palette ([#78022](https://github.com/CleverRaven/Cataclysm-DDA/pull/78022))
 * Fix Tacoma ranch silo having solar panels ([#78027](https://github.com/CleverRaven/Cataclysm-DDA/pull/78027))
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
