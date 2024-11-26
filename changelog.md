@@ -1,3 +1,8 @@
+* No counters in petstore walls ([#78145](https://github.com/CleverRaven/Cataclysm-DDA/pull/78145))
+* [MoM] Change id of Sense Minds sensing effect to use new tileset sprite ([#78143](https://github.com/CleverRaven/Cataclysm-DDA/pull/78143))
+* Martial Mastery: Insight is cleared when using other martial arts ([#78139](https://github.com/CleverRaven/Cataclysm-DDA/pull/78139))
+* Use linoleum params where possible ([#78146](https://github.com/CleverRaven/Cataclysm-DDA/pull/78146))
+* fix EOC_vitrified_farm_entry ([#78136](https://github.com/CleverRaven/Cataclysm-DDA/pull/78136))
 * Add new wildlife flags to raw fruit and vegetables ([#78135](https://github.com/CleverRaven/Cataclysm-DDA/pull/78135))
 * Skip loading screen image check for invalid mods ([#78134](https://github.com/CleverRaven/Cataclysm-DDA/pull/78134))
 * [MoM] Danger Sense senses danger ([#78131](https://github.com/CleverRaven/Cataclysm-DDA/pull/78131))
@@ -34,12 +39,6 @@
 #### Cataclysm-DDA experimental build 2024-11-25-0553 ([9cb8112](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0553))
 
 * Tests: clear_map() clears basecamps ([#78016](https://github.com/CleverRaven/Cataclysm-DDA/pull/78016))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-25-0222 ([dd67958](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0222))
-
-* Don't spawn prison dog handler's utility stuff on counters in prison mess hall ([#77968](https://github.com/CleverRaven/Cataclysm-DDA/pull/77968))
 * Several tweaks for using musical instruments ([#78074](https://github.com/CleverRaven/Cataclysm-DDA/pull/78074))
 
 ---
@@ -148,7 +147,6 @@
 * Add MELEE_TO_HIT enchantment ([#78023](https://github.com/CleverRaven/Cataclysm-DDA/pull/78023))
 * move ax(wood axe) from "real_axes" to "real_great_axes" in melee.json ([#78019](https://github.com/CleverRaven/Cataclysm-DDA/pull/78019))
 * Fix `bio_blindfold` not working correctly after a save & load cycle ([#78035](https://github.com/CleverRaven/Cataclysm-DDA/pull/78035))
-* Reign in carbide craft quantity ([#77964](https://github.com/CleverRaven/Cataclysm-DDA/pull/77964))
 * Add std::string wrappers for ImGui::InputText* methods ([#77979](https://github.com/CleverRaven/Cataclysm-DDA/pull/77979))
 * Fix archery_damage_test CI occasional failure ([#77970](https://github.com/CleverRaven/Cataclysm-DDA/pull/77970))
 * Add a storage unit palette ([#78022](https://github.com/CleverRaven/Cataclysm-DDA/pull/78022))
@@ -159,7 +157,6 @@
 #### Cataclysm-DDA experimental build 2024-11-21-1525 ([39344dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-21-1525))
 
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
-* [MoM] Update creature mindsight to be variable, apply to Eater ([#77963](https://github.com/CleverRaven/Cataclysm-DDA/pull/77963))
 * Allow customizing imgui colors more flexibly. ([#77985](https://github.com/CleverRaven/Cataclysm-DDA/pull/77985))
 * Fix roofs that use the roof palette ([#78038](https://github.com/CleverRaven/Cataclysm-DDA/pull/78038))
 * Cleared avatar prior to vehicle_turret test ([#78021](https://github.com/CleverRaven/Cataclysm-DDA/pull/78021))
@@ -184,6 +181,3 @@
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
 * Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
 * Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
-* Weekly Changelog 2024-11-11 to 2024-11-18 ([#77965](https://github.com/CleverRaven/Cataclysm-DDA/pull/77965))
-* Food price scales with freshness ([#77960](https://github.com/CleverRaven/Cataclysm-DDA/pull/77960))
-* NECC mapgen wrong symbol fix ([#77966](https://github.com/CleverRaven/Cataclysm-DDA/pull/77966))
