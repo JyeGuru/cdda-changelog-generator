@@ -1,3 +1,4 @@
+* Add static so game compiles ([#78147](https://github.com/CleverRaven/Cataclysm-DDA/pull/78147))
 * No counters in petstore walls ([#78145](https://github.com/CleverRaven/Cataclysm-DDA/pull/78145))
 * [MoM] Change id of Sense Minds sensing effect to use new tileset sprite ([#78143](https://github.com/CleverRaven/Cataclysm-DDA/pull/78143))
 * Martial Mastery: Insight is cleared when using other martial arts ([#78139](https://github.com/CleverRaven/Cataclysm-DDA/pull/78139))
@@ -166,7 +167,6 @@
 * some more cooking proficiencies added to existing recipes ([#77972](https://github.com/CleverRaven/Cataclysm-DDA/pull/77972))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
-* rename `BATTERY_HEAVY` ([#77969](https://github.com/CleverRaven/Cataclysm-DDA/pull/77969))
 * Parametrize all walls: Final part ([#77999](https://github.com/CleverRaven/Cataclysm-DDA/pull/77999))
 * Silenced switch fallthrough warnings ([#77994](https://github.com/CleverRaven/Cataclysm-DDA/pull/77994))
 * Have mansions use parametrized carpets ([#78001](https://github.com/CleverRaven/Cataclysm-DDA/pull/78001))
