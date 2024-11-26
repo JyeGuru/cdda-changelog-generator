@@ -93,8 +93,6 @@ Cataclysm-DDA experimental build 2024-11-22-0525 (d42cfd9)
 * Fix reference after removal error in grab break code (#78067)
 * Even less items around streams (#78065)
 * national weather transcripts grammar fix (#78062)
-
-Cataclysm-DDA experimental build 2024-11-22-0239 (366b79e)
 * Add open crates to farm supply store (#78060)
 * Better margin of error for test shot_custom_damage_type (#77989)
 * Dangerous field distractions factor in in_vehicle immunity (#78055)
