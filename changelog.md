@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-27-0422 ([94731d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-27-0422))
+
 * Fix General Store Carpets ([#78171](https://github.com/CleverRaven/Cataclysm-DDA/pull/78171))
 * add long sticks to forest trash ([#78172](https://github.com/CleverRaven/Cataclysm-DDA/pull/78172))
 
