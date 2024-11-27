@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-27-1335 ([ad13310](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-27-1335))
+
+* Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
 * Make existing math basic assignment operator single string ([#78153](https://github.com/CleverRaven/Cataclysm-DDA/pull/78153))
 * Add dormant zombies to cities and hordes ([#78150](https://github.com/CleverRaven/Cataclysm-DDA/pull/78150))
 * Reduce Trash in creek beds ([#78180](https://github.com/CleverRaven/Cataclysm-DDA/pull/78180))
@@ -155,7 +161,6 @@
 * Even less items around streams ([#78065](https://github.com/CleverRaven/Cataclysm-DDA/pull/78065))
 * national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
 * Add open crates to farm supply store ([#78060](https://github.com/CleverRaven/Cataclysm-DDA/pull/78060))
-* Better margin of error for test shot_custom_damage_type ([#77989](https://github.com/CleverRaven/Cataclysm-DDA/pull/77989))
 * Dangerous field distractions factor in in_vehicle immunity ([#78055](https://github.com/CleverRaven/Cataclysm-DDA/pull/78055))
 * Allow Custom Variables in Widgets ([#78042](https://github.com/CleverRaven/Cataclysm-DDA/pull/78042))
 * Don't run item::on_pickup when the item is wielded ([#78048](https://github.com/CleverRaven/Cataclysm-DDA/pull/78048))
