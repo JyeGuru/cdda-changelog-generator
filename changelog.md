@@ -1,3 +1,7 @@
+* Make existing math basic assignment operator single string ([#78153](https://github.com/CleverRaven/Cataclysm-DDA/pull/78153))
+* Add dormant zombies to cities and hordes ([#78150](https://github.com/CleverRaven/Cataclysm-DDA/pull/78150))
+* Reduce Trash in creek beds ([#78180](https://github.com/CleverRaven/Cataclysm-DDA/pull/78180))
+* remove avatar_action::move overload; fix Clang-tidy ([#78178](https://github.com/CleverRaven/Cataclysm-DDA/pull/78178))
 
 ---
 
@@ -123,7 +127,6 @@
 
 * fill_ter accepts parameters ([#78036](https://github.com/CleverRaven/Cataclysm-DDA/pull/78036))
 * Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
-* Re-allow camps to craft liquid items ([#77986](https://github.com/CleverRaven/Cataclysm-DDA/pull/77986))
 
 ---
 
@@ -159,11 +162,9 @@
 * Add MELEE_TO_HIT enchantment ([#78023](https://github.com/CleverRaven/Cataclysm-DDA/pull/78023))
 * move ax(wood axe) from "real_axes" to "real_great_axes" in melee.json ([#78019](https://github.com/CleverRaven/Cataclysm-DDA/pull/78019))
 * Fix `bio_blindfold` not working correctly after a save & load cycle ([#78035](https://github.com/CleverRaven/Cataclysm-DDA/pull/78035))
-* Add std::string wrappers for ImGui::InputText* methods ([#77979](https://github.com/CleverRaven/Cataclysm-DDA/pull/77979))
 * Add a storage unit palette ([#78022](https://github.com/CleverRaven/Cataclysm-DDA/pull/78022))
 * Fix Tacoma ranch silo having solar panels ([#78027](https://github.com/CleverRaven/Cataclysm-DDA/pull/78027))
 * Stop spawning boilers in walls on refugee center roof ([#78029](https://github.com/CleverRaven/Cataclysm-DDA/pull/78029))
-* Allow customizing imgui colors more flexibly. ([#77985](https://github.com/CleverRaven/Cataclysm-DDA/pull/77985))
 * Fix roofs that use the roof palette ([#78038](https://github.com/CleverRaven/Cataclysm-DDA/pull/78038))
 * Cleared avatar prior to vehicle_turret test ([#78021](https://github.com/CleverRaven/Cataclysm-DDA/pull/78021))
 * Add self (terribleperson) to comment-commands.yml ([#78040](https://github.com/CleverRaven/Cataclysm-DDA/pull/78040))
@@ -179,5 +180,4 @@
 * Remove unused palette + move militia palette to correct folder ([#78000](https://github.com/CleverRaven/Cataclysm-DDA/pull/78000))
 * Allow Lilin to drain ruach while under the effects of NO_SPELLCASTING ([#77998](https://github.com/CleverRaven/Cataclysm-DDA/pull/77998))
 * reorder the cardinal direction indicators in the AIM drop window ([#77987](https://github.com/CleverRaven/Cataclysm-DDA/pull/77987))
-* Fix camp expansion recipes not being available ([#77984](https://github.com/CleverRaven/Cataclysm-DDA/pull/77984))
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
