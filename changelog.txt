@@ -1,3 +1,7 @@
+* add long sticks to forest trash (#78172)
+
+Cataclysm-DDA experimental build 2024-11-27-0156 (86b2a00)
+* Load and move crash fix (#78168)
 * Don't search forks for build artifacts in CI (#78170)
 
 Cataclysm-DDA experimental build 2024-11-26-1546 (f5814da)
@@ -83,8 +87,6 @@ Cataclysm-DDA experimental build 2024-11-23-0704 (8ff5859)
 Cataclysm-DDA experimental build 2024-11-23-0355 (0ca1937)
 * Routine i18n updates on 23 November 2024 (#78085)
 * Stash mission ids and remove after loop for 0.H (#78082)
-
-Cataclysm-DDA experimental build 2024-11-22-0525 (d42cfd9)
 * Make creature overlay icons optional (#78053)
 * Fix format mismatches in tripoint item vars (#78054)
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality (#78063)
@@ -123,5 +125,3 @@ Cataclysm-DDA experimental build 2024-11-22-0525 (d42cfd9)
 * reorder the cardinal direction indicators in the AIM drop window (#77987)
 * Fix camp expansion recipes not being available (#77984)
 * fix incorrect variable migration (#77992)
-* Parametrize all walls: Part 3 (#77976)
-* Label palette changes as mapgen (#77975)

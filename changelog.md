@@ -1,3 +1,10 @@
+* add long sticks to forest trash ([#78172](https://github.com/CleverRaven/Cataclysm-DDA/pull/78172))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-27-0156 ([86b2a00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-27-0156))
+
+* Load and move crash fix ([#78168](https://github.com/CleverRaven/Cataclysm-DDA/pull/78168))
 * Don't search forks for build artifacts in CI ([#78170](https://github.com/CleverRaven/Cataclysm-DDA/pull/78170))
 
 ---
@@ -131,11 +138,6 @@
 
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
 * Stash mission ids and remove after loop for 0.H ([#78082](https://github.com/CleverRaven/Cataclysm-DDA/pull/78082))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-22-0525 ([d42cfd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-22-0525))
-
 * Make creature overlay icons optional ([#78053](https://github.com/CleverRaven/Cataclysm-DDA/pull/78053))
 * Fix format mismatches in tripoint item vars ([#78054](https://github.com/CleverRaven/Cataclysm-DDA/pull/78054))
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality ([#78063](https://github.com/CleverRaven/Cataclysm-DDA/pull/78063))
@@ -174,5 +176,3 @@
 * reorder the cardinal direction indicators in the AIM drop window ([#77987](https://github.com/CleverRaven/Cataclysm-DDA/pull/77987))
 * Fix camp expansion recipes not being available ([#77984](https://github.com/CleverRaven/Cataclysm-DDA/pull/77984))
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
-* Parametrize all walls: Part 3 ([#77976](https://github.com/CleverRaven/Cataclysm-DDA/pull/77976))
-* Label palette changes as mapgen ([#77975](https://github.com/CleverRaven/Cataclysm-DDA/pull/77975))
