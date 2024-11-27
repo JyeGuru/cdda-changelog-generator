@@ -1,3 +1,4 @@
+* Fix General Store Carpets ([#78171](https://github.com/CleverRaven/Cataclysm-DDA/pull/78171))
 * add long sticks to forest trash ([#78172](https://github.com/CleverRaven/Cataclysm-DDA/pull/78172))
 
 ---
@@ -162,7 +163,6 @@
 * Cleared avatar prior to vehicle_turret test ([#78021](https://github.com/CleverRaven/Cataclysm-DDA/pull/78021))
 * Add self (terribleperson) to comment-commands.yml ([#78040](https://github.com/CleverRaven/Cataclysm-DDA/pull/78040))
 * [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
-* [MoM] Add the Gamma Sterilization photokinetic power ([#77978](https://github.com/CleverRaven/Cataclysm-DDA/pull/77978))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
 * Parametrize all walls: Final part ([#77999](https://github.com/CleverRaven/Cataclysm-DDA/pull/77999))

@@ -1,3 +1,4 @@
+* Fix General Store Carpets (#78171)
 * add long sticks to forest trash (#78172)
 
 Cataclysm-DDA experimental build 2024-11-27-0156 (86b2a00)
@@ -111,7 +112,6 @@ Cataclysm-DDA experimental build 2024-11-23-0355 (0ca1937)
 * Cleared avatar prior to vehicle_turret test (#78021)
 * Add self (terribleperson) to comment-commands.yml (#78040)
 * [Magiclysm] Fix soul afterburner granting infinite moves (#78034)
-* [MoM] Add the Gamma Sterilization photokinetic power (#77978)
 * drying_rate test displays weather, clears map (#78014)
 * [MoM] Parameterize PHAVIAN skyscraper lab (#78013)
 * Parametrize all walls: Final part (#77999)
