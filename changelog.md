@@ -179,5 +179,4 @@
 * Add MISSION_ITEM to all vitrification items ([#78010](https://github.com/CleverRaven/Cataclysm-DDA/pull/78010))
 * Remove unused palette + move militia palette to correct folder ([#78000](https://github.com/CleverRaven/Cataclysm-DDA/pull/78000))
 * Allow Lilin to drain ruach while under the effects of NO_SPELLCASTING ([#77998](https://github.com/CleverRaven/Cataclysm-DDA/pull/77998))
-* reorder the cardinal direction indicators in the AIM drop window ([#77987](https://github.com/CleverRaven/Cataclysm-DDA/pull/77987))
 * fix incorrect variable migration ([#77992](https://github.com/CleverRaven/Cataclysm-DDA/pull/77992))
