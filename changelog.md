@@ -1,3 +1,9 @@
+* Corrected 'check_support' ([#78209](https://github.com/CleverRaven/Cataclysm-DDA/pull/78209))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-28-1541 ([75431d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-1541))
+
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone ([#78161](https://github.com/CleverRaven/Cataclysm-DDA/pull/78161))
 
 ---
@@ -160,12 +166,6 @@
 
 * fill_ter accepts parameters ([#78036](https://github.com/CleverRaven/Cataclysm-DDA/pull/78036))
 * Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-23-2130 ([98baf15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-23-2130))
-
-* Add a concrete carpet parametrized palette and apply it ([#78004](https://github.com/CleverRaven/Cataclysm-DDA/pull/78004))
 * Stash mission ids and remove them after loop for 0.I ([#78083](https://github.com/CleverRaven/Cataclysm-DDA/pull/78083))
 * Unhardcode slime pits ([#78077](https://github.com/CleverRaven/Cataclysm-DDA/pull/78077))
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
@@ -193,5 +193,4 @@
 * [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
-* Have mansions use parametrized carpets ([#78001](https://github.com/CleverRaven/Cataclysm-DDA/pull/78001))
 * Add MISSION_ITEM to all vitrification items ([#78010](https://github.com/CleverRaven/Cataclysm-DDA/pull/78010))

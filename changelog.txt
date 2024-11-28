@@ -1,3 +1,6 @@
+* Corrected 'check_support' (#78209)
+
+Cataclysm-DDA experimental build 2024-11-28-1541 (75431d4)
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone (#78161)
 
 Cataclysm-DDA experimental build 2024-11-28-1212 (7df1b91)
@@ -100,9 +103,6 @@ Cataclysm-DDA experimental build 2024-11-24-0240 (5b0c138)
 Cataclysm-DDA experimental build 2024-11-24-0016 (78d8461)
 * fill_ter accepts parameters (#78036)
 * Add imgui_stdlib to CMake (#78099)
-
-Cataclysm-DDA experimental build 2024-11-23-2130 (98baf15)
-* Add a concrete carpet parametrized palette and apply it (#78004)
 * Stash mission ids and remove them after loop for 0.I (#78083)
 * Unhardcode slime pits (#78077)
 * Routine i18n updates on 23 November 2024 (#78085)
@@ -130,5 +130,4 @@ Cataclysm-DDA experimental build 2024-11-23-2130 (98baf15)
 * [Magiclysm] Fix soul afterburner granting infinite moves (#78034)
 * drying_rate test displays weather, clears map (#78014)
 * [MoM] Parameterize PHAVIAN skyscraper lab (#78013)
-* Have mansions use parametrized carpets (#78001)
 * Add MISSION_ITEM to all vitrification items (#78010)
