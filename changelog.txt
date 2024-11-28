@@ -1,3 +1,4 @@
+* fix crash on keybind reset in UILIST context (#78198)
 * Fix limb drying rate test (#78189)
 * Require a lot more rock, time and mortar for the stone wall (#78196)
 
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2024-11-23-0355 (0ca1937)
 * Have mansions use parametrized carpets (#78001)
 * Add MISSION_ITEM to all vitrification items (#78010)
 * Remove unused palette + move militia palette to correct folder (#78000)
-* Allow Lilin to drain ruach while under the effects of NO_SPELLCASTING (#77998)
