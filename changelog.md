@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-28-1212 ([7df1b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-1212))
+
+* Upgrade ImGui version to 1.91.5 ([#78144](https://github.com/CleverRaven/Cataclysm-DDA/pull/78144))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-28-0741 ([286cff2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-0741))
 
 * fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2024-11-23-2130 ([98baf15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-23-2130))
 
 * Add a concrete carpet parametrized palette and apply it ([#78004](https://github.com/CleverRaven/Cataclysm-DDA/pull/78004))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-23-0704 ([8ff5859](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-23-0704))
-
 * Stash mission ids and remove them after loop for 0.I ([#78083](https://github.com/CleverRaven/Cataclysm-DDA/pull/78083))
 * Unhardcode slime pits ([#78077](https://github.com/CleverRaven/Cataclysm-DDA/pull/78077))
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
@@ -191,7 +192,6 @@
 * [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
 * drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
-* Parametrize all walls: Final part ([#77999](https://github.com/CleverRaven/Cataclysm-DDA/pull/77999))
 * Have mansions use parametrized carpets ([#78001](https://github.com/CleverRaven/Cataclysm-DDA/pull/78001))
 * Add MISSION_ITEM to all vitrification items ([#78010](https://github.com/CleverRaven/Cataclysm-DDA/pull/78010))
 * Remove unused palette + move militia palette to correct folder ([#78000](https://github.com/CleverRaven/Cataclysm-DDA/pull/78000))

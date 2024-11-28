@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-28-1212 (7df1b91)
+* Upgrade ImGui version to 1.91.5 (#78144)
+
 Cataclysm-DDA experimental build 2024-11-28-0741 (286cff2)
 * fix crash on keybind reset in UILIST context (#78198)
 * Fix limb drying rate test (#78189)
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2024-11-24-0016 (78d8461)
 
 Cataclysm-DDA experimental build 2024-11-23-2130 (98baf15)
 * Add a concrete carpet parametrized palette and apply it (#78004)
-
-Cataclysm-DDA experimental build 2024-11-23-0704 (8ff5859)
 * Stash mission ids and remove them after loop for 0.I (#78083)
 * Unhardcode slime pits (#78077)
 * Routine i18n updates on 23 November 2024 (#78085)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2024-11-23-0704 (8ff5859)
 * [Magiclysm] Fix soul afterburner granting infinite moves (#78034)
 * drying_rate test displays weather, clears map (#78014)
 * [MoM] Parameterize PHAVIAN skyscraper lab (#78013)
-* Parametrize all walls: Final part (#77999)
 * Have mansions use parametrized carpets (#78001)
 * Add MISSION_ITEM to all vitrification items (#78010)
 * Remove unused palette + move militia palette to correct folder (#78000)
