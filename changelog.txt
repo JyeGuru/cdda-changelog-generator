@@ -1,3 +1,4 @@
+* [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone (#78161)
 
 Cataclysm-DDA experimental build 2024-11-28-1212 (7df1b91)
 * Upgrade ImGui version to 1.91.5 (#78144)
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2024-11-23-2130 (98baf15)
 * [MoM] Parameterize PHAVIAN skyscraper lab (#78013)
 * Have mansions use parametrized carpets (#78001)
 * Add MISSION_ITEM to all vitrification items (#78010)
-* Remove unused palette + move militia palette to correct folder (#78000)

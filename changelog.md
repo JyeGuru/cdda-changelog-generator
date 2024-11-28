@@ -1,3 +1,4 @@
+* [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone ([#78161](https://github.com/CleverRaven/Cataclysm-DDA/pull/78161))
 
 ---
 
@@ -194,4 +195,3 @@
 * [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
 * Have mansions use parametrized carpets ([#78001](https://github.com/CleverRaven/Cataclysm-DDA/pull/78001))
 * Add MISSION_ITEM to all vitrification items ([#78010](https://github.com/CleverRaven/Cataclysm-DDA/pull/78010))
-* Remove unused palette + move militia palette to correct folder ([#78000](https://github.com/CleverRaven/Cataclysm-DDA/pull/78000))
