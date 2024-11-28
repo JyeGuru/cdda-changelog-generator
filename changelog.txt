@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-28-1752 (9704dc9)
 * Corrected 'check_support' (#78209)
 
 Cataclysm-DDA experimental build 2024-11-28-1541 (75431d4)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2024-11-24-0847 (e53a339)
 Cataclysm-DDA experimental build 2024-11-24-0240 (5b0c138)
 * Fix crashing in CURSES without ASCII title art (#78103)
 * Merge commits from 0-H-Branch into master and update appstream file (#78106)
-
-Cataclysm-DDA experimental build 2024-11-24-0016 (78d8461)
 * fill_ter accepts parameters (#78036)
 * Add imgui_stdlib to CMake (#78099)
 * Stash mission ids and remove them after loop for 0.I (#78083)
