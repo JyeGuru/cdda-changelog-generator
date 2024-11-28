@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-28-2236 (da51345)
+* Nerf tooth macuahuitl cut damage (#78215)
+
 Cataclysm-DDA experimental build 2024-11-28-1752 (9704dc9)
 * Corrected 'check_support' (#78209)
 
@@ -130,4 +133,3 @@ Cataclysm-DDA experimental build 2024-11-24-0240 (5b0c138)
 * [Magiclysm] Fix soul afterburner granting infinite moves (#78034)
 * drying_rate test displays weather, clears map (#78014)
 * [MoM] Parameterize PHAVIAN skyscraper lab (#78013)
-* Add MISSION_ITEM to all vitrification items (#78010)
