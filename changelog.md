@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-28-0210 ([d16889e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-0210))
+
+* [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-27-1335 ([ad13310](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-27-1335))
 
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
@@ -179,7 +185,6 @@
 * Parametrize all walls: Final part ([#77999](https://github.com/CleverRaven/Cataclysm-DDA/pull/77999))
 * Silenced switch fallthrough warnings ([#77994](https://github.com/CleverRaven/Cataclysm-DDA/pull/77994))
 * Have mansions use parametrized carpets ([#78001](https://github.com/CleverRaven/Cataclysm-DDA/pull/78001))
-* Fix temperature input query in debug menu ([#77990](https://github.com/CleverRaven/Cataclysm-DDA/pull/77990))
 * Optimized scent_map::shift ([#77997](https://github.com/CleverRaven/Cataclysm-DDA/pull/77997))
 * Add MISSION_ITEM to all vitrification items ([#78010](https://github.com/CleverRaven/Cataclysm-DDA/pull/78010))
 * Remove unused palette + move militia palette to correct folder ([#78000](https://github.com/CleverRaven/Cataclysm-DDA/pull/78000))

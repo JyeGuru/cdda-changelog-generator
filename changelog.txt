@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-28-0210 (d16889e)
+* [Aftershock] Fix Elevator Controls in Urban Greenhouse (#78192)
+
 Cataclysm-DDA experimental build 2024-11-27-1335 (ad13310)
 * Draw item name in separate column of item action menu (#78185)
 * Make existing math basic assignment operator single string (#78153)
@@ -122,7 +125,6 @@ Cataclysm-DDA experimental build 2024-11-23-0355 (0ca1937)
 * Parametrize all walls: Final part (#77999)
 * Silenced switch fallthrough warnings (#77994)
 * Have mansions use parametrized carpets (#78001)
-* Fix temperature input query in debug menu (#77990)
 * Optimized scent_map::shift (#77997)
 * Add MISSION_ITEM to all vitrification items (#78010)
 * Remove unused palette + move militia palette to correct folder (#78000)
