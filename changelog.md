@@ -1,3 +1,10 @@
+* Minor dissoluted devourer corrections ([#78228](https://github.com/CleverRaven/Cataclysm-DDA/pull/78228))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-29-2224 ([e3dd19d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-29-2224))
+
+* Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 
 ---
 
@@ -173,7 +180,6 @@
 * Fix reference after removal error in grab break code ([#78068](https://github.com/CleverRaven/Cataclysm-DDA/pull/78068))
 * [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
 * add spicebush and chokeberries ([#78066](https://github.com/CleverRaven/Cataclysm-DDA/pull/78066))
-* [Magiclysm] Add the mana-shackled challenge trait  ([#78049](https://github.com/CleverRaven/Cataclysm-DDA/pull/78049))
 * Survivor Hoods and Cowl Update Take 2 ([#78098](https://github.com/CleverRaven/Cataclysm-DDA/pull/78098))
 * ALLOWS_TALONS is about talons for feet, not for hands ([#78095](https://github.com/CleverRaven/Cataclysm-DDA/pull/78095))
 * Tile layering supports item variants ([#78101](https://github.com/CleverRaven/Cataclysm-DDA/pull/78101))
@@ -196,5 +202,3 @@
 * national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
 * Add open crates to farm supply store ([#78060](https://github.com/CleverRaven/Cataclysm-DDA/pull/78060))
 * Dangerous field distractions factor in in_vehicle immunity ([#78055](https://github.com/CleverRaven/Cataclysm-DDA/pull/78055))
-* Allow Custom Variables in Widgets ([#78042](https://github.com/CleverRaven/Cataclysm-DDA/pull/78042))
-* Don't run item::on_pickup when the item is wielded ([#78048](https://github.com/CleverRaven/Cataclysm-DDA/pull/78048))
