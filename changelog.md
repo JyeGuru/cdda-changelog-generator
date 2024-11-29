@@ -1,3 +1,4 @@
+* add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
 
 ---
 
@@ -195,4 +196,3 @@
 * Fix `bio_blindfold` not working correctly after a save & load cycle ([#78035](https://github.com/CleverRaven/Cataclysm-DDA/pull/78035))
 * Fix roofs that use the roof palette ([#78038](https://github.com/CleverRaven/Cataclysm-DDA/pull/78038))
 * Add self (terribleperson) to comment-commands.yml ([#78040](https://github.com/CleverRaven/Cataclysm-DDA/pull/78040))
-* [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
