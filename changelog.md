@@ -1,3 +1,8 @@
+* add missing comma ([#78217](https://github.com/CleverRaven/Cataclysm-DDA/pull/78217))
+* Make washing kits craftable in the dark.json ([#78218](https://github.com/CleverRaven/Cataclysm-DDA/pull/78218))
+* [Magiclysm/Xedra Evolved] Update tree ter transforms for nannyberry/tupelo/spicebush/chokeberries ([#78221](https://github.com/CleverRaven/Cataclysm-DDA/pull/78221))
+* Update MUTATIONS.md ([#78225](https://github.com/CleverRaven/Cataclysm-DDA/pull/78225))
+* [Xedra Evolved] One more loading screen image ([#78220](https://github.com/CleverRaven/Cataclysm-DDA/pull/78220))
 
 ---
 
@@ -125,12 +130,6 @@
 * BIRD_LEGS should provide TOUGH_FEET like other foot mutations ([#78130](https://github.com/CleverRaven/Cataclysm-DDA/pull/78130))
 * Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-25-0553 ([9cb8112](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0553))
-
-* Tests: clear_map() clears basecamps ([#78016](https://github.com/CleverRaven/Cataclysm-DDA/pull/78016))
 * Several tweaks for using musical instruments ([#78074](https://github.com/CleverRaven/Cataclysm-DDA/pull/78074))
 
 ---
@@ -163,11 +162,6 @@
 * Add parametrized carpet to fill_ter ([#78108](https://github.com/CleverRaven/Cataclysm-DDA/pull/78108))
 * Fix penentrating strike ([#78076](https://github.com/CleverRaven/Cataclysm-DDA/pull/78076))
 * Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md ([#78100](https://github.com/CleverRaven/Cataclysm-DDA/pull/78100))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-24-0240 ([5b0c138](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-24-0240))
-
 * Fix crashing in CURSES without ASCII title art ([#78103](https://github.com/CleverRaven/Cataclysm-DDA/pull/78103))
 * Merge commits from 0-H-Branch into master and update appstream file ([#78106](https://github.com/CleverRaven/Cataclysm-DDA/pull/78106))
 * fill_ter accepts parameters ([#78036](https://github.com/CleverRaven/Cataclysm-DDA/pull/78036))
@@ -197,5 +191,3 @@
 * Cleared avatar prior to vehicle_turret test ([#78021](https://github.com/CleverRaven/Cataclysm-DDA/pull/78021))
 * Add self (terribleperson) to comment-commands.yml ([#78040](https://github.com/CleverRaven/Cataclysm-DDA/pull/78040))
 * [Magiclysm] Fix soul afterburner granting infinite moves ([#78034](https://github.com/CleverRaven/Cataclysm-DDA/pull/78034))
-* drying_rate test displays weather, clears map ([#78014](https://github.com/CleverRaven/Cataclysm-DDA/pull/78014))
-* [MoM] Parameterize PHAVIAN skyscraper lab ([#78013](https://github.com/CleverRaven/Cataclysm-DDA/pull/78013))
