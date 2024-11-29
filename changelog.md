@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-29-0753 ([91e1ec8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-29-0753))
+
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
 
 ---
@@ -162,11 +167,6 @@
 * Fix reference after removal error in grab break code ([#78068](https://github.com/CleverRaven/Cataclysm-DDA/pull/78068))
 * [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
 * add spicebush and chokeberries ([#78066](https://github.com/CleverRaven/Cataclysm-DDA/pull/78066))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-24-0847 ([e53a339](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-24-0847))
-
 * [Magiclysm] Add the mana-shackled challenge trait  ([#78049](https://github.com/CleverRaven/Cataclysm-DDA/pull/78049))
 * Survivor Hoods and Cowl Update Take 2 ([#78098](https://github.com/CleverRaven/Cataclysm-DDA/pull/78098))
 * ALLOWS_TALONS is about talons for feet, not for hands ([#78095](https://github.com/CleverRaven/Cataclysm-DDA/pull/78095))
