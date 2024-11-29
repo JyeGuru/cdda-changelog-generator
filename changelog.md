@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-29-0509 ([e8d3c45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-29-0509))
+
 * vision_transparency_cache improvements ([#78104](https://github.com/CleverRaven/Cataclysm-DDA/pull/78104))
 * new exodii rifle ([#78163](https://github.com/CleverRaven/Cataclysm-DDA/pull/78163))
 * discharged smartphone read fix ([#78184](https://github.com/CleverRaven/Cataclysm-DDA/pull/78184))

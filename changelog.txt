@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-29-0509 (e8d3c45)
 * vision_transparency_cache improvements (#78104)
 * new exodii rifle (#78163)
 * discharged smartphone read fix (#78184)
