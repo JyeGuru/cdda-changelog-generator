@@ -198,5 +198,4 @@
 * Dangerous field distractions factor in in_vehicle immunity ([#78055](https://github.com/CleverRaven/Cataclysm-DDA/pull/78055))
 * Allow Custom Variables in Widgets ([#78042](https://github.com/CleverRaven/Cataclysm-DDA/pull/78042))
 * Don't run item::on_pickup when the item is wielded ([#78048](https://github.com/CleverRaven/Cataclysm-DDA/pull/78048))
-* Fix roofs that use the roof palette ([#78038](https://github.com/CleverRaven/Cataclysm-DDA/pull/78038))
 * Add self (terribleperson) to comment-commands.yml ([#78040](https://github.com/CleverRaven/Cataclysm-DDA/pull/78040))
