@@ -207,7 +207,6 @@
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
 * Stash mission ids and remove after loop for 0.H ([#78082](https://github.com/CleverRaven/Cataclysm-DDA/pull/78082))
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality ([#78063](https://github.com/CleverRaven/Cataclysm-DDA/pull/78063))
-* Update cramped space effect messages ([#78059](https://github.com/CleverRaven/Cataclysm-DDA/pull/78059))
 * Fix reference after removal error in grab break code ([#78067](https://github.com/CleverRaven/Cataclysm-DDA/pull/78067))
 * Even less items around streams ([#78065](https://github.com/CleverRaven/Cataclysm-DDA/pull/78065))
 * national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
