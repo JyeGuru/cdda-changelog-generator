@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-30-0040 (eb90c6b)
 * Minor dissoluted devourer corrections (#78228)
 
 Cataclysm-DDA experimental build 2024-11-29-2224 (e3dd19d)
