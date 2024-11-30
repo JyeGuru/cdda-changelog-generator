@@ -1,3 +1,4 @@
+* Fix EOC loop performance issue (#78253)
 
 Cataclysm-DDA experimental build 2024-11-30-1513 (b53cf93)
 * Add globally unique to more npc locations (#78246)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2024-11-25-1207 (703746d)
 * Unhardcode slime pits (#78077)
 * Routine i18n updates on 23 November 2024 (#78085)
 * Stash mission ids and remove after loop for 0.H (#78082)
-* [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality (#78063)
 * Fix reference after removal error in grab break code (#78067)
 * Even less items around streams (#78065)
