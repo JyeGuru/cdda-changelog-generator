@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-30-0708 ([3b34699](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0708))
+
 * Weather works with region overlay ([#78234](https://github.com/CleverRaven/Cataclysm-DDA/pull/78234))
 
 ---
@@ -174,11 +179,6 @@
 * Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
 * Several tweaks for using musical instruments ([#78074](https://github.com/CleverRaven/Cataclysm-DDA/pull/78074))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-25-0002 ([2bb6a46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0002))
-
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
 * enchantify special vision [2/2] ([#78080](https://github.com/CleverRaven/Cataclysm-DDA/pull/78080))
 * typified end of 'a' ([#78093](https://github.com/CleverRaven/Cataclysm-DDA/pull/78093))
