@@ -1,3 +1,4 @@
+* Add globally unique to more npc locations (#78246)
 
 Cataclysm-DDA experimental build 2024-11-30-1237 (9b7b74c)
 * Less verbose reading of layering.json (#78199)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2024-11-25-0819 (d0cc91b)
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality (#78063)
 * Fix reference after removal error in grab break code (#78067)
 * Even less items around streams (#78065)
-* national weather transcripts grammar fix (#78062)

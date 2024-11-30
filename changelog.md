@@ -1,3 +1,4 @@
+* Add globally unique to more npc locations ([#78246](https://github.com/CleverRaven/Cataclysm-DDA/pull/78246))
 
 ---
 
@@ -215,4 +216,3 @@
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality ([#78063](https://github.com/CleverRaven/Cataclysm-DDA/pull/78063))
 * Fix reference after removal error in grab break code ([#78067](https://github.com/CleverRaven/Cataclysm-DDA/pull/78067))
 * Even less items around streams ([#78065](https://github.com/CleverRaven/Cataclysm-DDA/pull/78065))
-* national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
