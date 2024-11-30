@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-30-1704 ([f3eb058](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1704))
+
 * Fix EOC loop performance issue ([#78253](https://github.com/CleverRaven/Cataclysm-DDA/pull/78253))
 
 ---
@@ -180,11 +185,6 @@
 
 * Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
 * Autoreview me on weekly changelog updates ([#78142](https://github.com/CleverRaven/Cataclysm-DDA/pull/78142))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-25-1207 ([703746d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-1207))
-
 * Fix typo in riot armor suit ([#78133](https://github.com/CleverRaven/Cataclysm-DDA/pull/78133))
 * Weekly Changelog 2024-11-18 to 2024-11-25 ([#78128](https://github.com/CleverRaven/Cataclysm-DDA/pull/78128))
 * Give fungal vector to alien fungus chunk ([#78124](https://github.com/CleverRaven/Cataclysm-DDA/pull/78124))
