@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-30-0919 ([62dc950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0919))
+
 * Add water flags to ponds and springs ([#78237](https://github.com/CleverRaven/Cataclysm-DDA/pull/78237))
 
 ---
