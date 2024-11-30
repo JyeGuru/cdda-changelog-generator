@@ -1,3 +1,4 @@
+* Add water flags to ponds and springs ([#78237](https://github.com/CleverRaven/Cataclysm-DDA/pull/78237))
 
 ---
 
@@ -206,4 +207,3 @@
 * Even less items around streams ([#78065](https://github.com/CleverRaven/Cataclysm-DDA/pull/78065))
 * national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
 * Add open crates to farm supply store ([#78060](https://github.com/CleverRaven/Cataclysm-DDA/pull/78060))
-* Dangerous field distractions factor in in_vehicle immunity ([#78055](https://github.com/CleverRaven/Cataclysm-DDA/pull/78055))

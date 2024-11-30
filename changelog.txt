@@ -1,3 +1,4 @@
+* Add water flags to ponds and springs (#78237)
 
 Cataclysm-DDA experimental build 2024-11-30-0708 (3b34699)
 * Weather works with region overlay (#78234)
@@ -134,4 +135,3 @@ Cataclysm-DDA experimental build 2024-11-25-0819 (d0cc91b)
 * Even less items around streams (#78065)
 * national weather transcripts grammar fix (#78062)
 * Add open crates to farm supply store (#78060)
-* Dangerous field distractions factor in in_vehicle immunity (#78055)
