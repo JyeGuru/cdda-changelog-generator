@@ -1,3 +1,4 @@
+* Fix clang-tidy lints (#78255)
 
 Cataclysm-DDA experimental build 2024-11-30-1704 (f3eb058)
 * Fix EOC loop performance issue (#78253)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2024-11-26-0258 (5ccd8ae)
 * Routine i18n updates on 23 November 2024 (#78085)
 * Stash mission ids and remove after loop for 0.H (#78082)
 * Fix reference after removal error in grab break code (#78067)
-* Even less items around streams (#78065)
