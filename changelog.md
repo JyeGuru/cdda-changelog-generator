@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-11-30-1513 ([b53cf93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1513))
+
 * Add globally unique to more npc locations ([#78246](https://github.com/CleverRaven/Cataclysm-DDA/pull/78246))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-11-25-1207 ([703746d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-1207))
 
 * Fix typo in riot armor suit ([#78133](https://github.com/CleverRaven/Cataclysm-DDA/pull/78133))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-25-0819 ([d0cc91b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0819))
-
 * Weekly Changelog 2024-11-18 to 2024-11-25 ([#78128](https://github.com/CleverRaven/Cataclysm-DDA/pull/78128))
 * Give fungal vector to alien fungus chunk ([#78124](https://github.com/CleverRaven/Cataclysm-DDA/pull/78124))
 * [DinoMod] smell audit ([#78117](https://github.com/CleverRaven/Cataclysm-DDA/pull/78117))

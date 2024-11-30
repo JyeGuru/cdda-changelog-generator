@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-11-30-1513 (b53cf93)
 * Add globally unique to more npc locations (#78246)
 
 Cataclysm-DDA experimental build 2024-11-30-1237 (9b7b74c)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2024-11-26-0258 (5ccd8ae)
 
 Cataclysm-DDA experimental build 2024-11-25-1207 (703746d)
 * Fix typo in riot armor suit (#78133)
-
-Cataclysm-DDA experimental build 2024-11-25-0819 (d0cc91b)
 * Weekly Changelog 2024-11-18 to 2024-11-25 (#78128)
 * Give fungal vector to alien fungus chunk (#78124)
 * [DinoMod] smell audit (#78117)
