@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-11-30-0440 (447eda8)
+* Fix UB in city-tiles flood fill (#78238)
+
 Cataclysm-DDA experimental build 2024-11-30-0040 (eb90c6b)
 * Minor dissoluted devourer corrections (#78228)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2024-11-25-0819 (d0cc91b)
 
 Cataclysm-DDA experimental build 2024-11-25-0002 (2bb6a46)
 * [Xedra Evolved] Update Ierde stone fists to fix oddities (#78115)
-
-Cataclysm-DDA experimental build 2024-11-24-1805 (71b3dbe)
 * enchantify special vision [2/2] (#78080)
 * typified end of 'a' (#78093)
 * Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn (#78090)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2024-11-24-1805 (71b3dbe)
 * Unhardcode slime pits (#78077)
 * Routine i18n updates on 23 November 2024 (#78085)
 * Stash mission ids and remove after loop for 0.H (#78082)
-* Make creature overlay icons optional (#78053)
 * Fix format mismatches in tripoint item vars (#78054)
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality (#78063)
 * Update cramped space effect messages (#78059)

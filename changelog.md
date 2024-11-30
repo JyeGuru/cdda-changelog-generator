@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-30-0440 ([447eda8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0440))
+
+* Fix UB in city-tiles flood fill ([#78238](https://github.com/CleverRaven/Cataclysm-DDA/pull/78238))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-30-0040 ([eb90c6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0040))
 
 * Minor dissoluted devourer corrections ([#78228](https://github.com/CleverRaven/Cataclysm-DDA/pull/78228))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-11-25-0002 ([2bb6a46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-25-0002))
 
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-24-1805 ([71b3dbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-24-1805))
-
 * enchantify special vision [2/2] ([#78080](https://github.com/CleverRaven/Cataclysm-DDA/pull/78080))
 * typified end of 'a' ([#78093](https://github.com/CleverRaven/Cataclysm-DDA/pull/78093))
 * Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn ([#78090](https://github.com/CleverRaven/Cataclysm-DDA/pull/78090))
@@ -198,7 +199,6 @@
 * Unhardcode slime pits ([#78077](https://github.com/CleverRaven/Cataclysm-DDA/pull/78077))
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
 * Stash mission ids and remove after loop for 0.H ([#78082](https://github.com/CleverRaven/Cataclysm-DDA/pull/78082))
-* Make creature overlay icons optional ([#78053](https://github.com/CleverRaven/Cataclysm-DDA/pull/78053))
 * Fix format mismatches in tripoint item vars ([#78054](https://github.com/CleverRaven/Cataclysm-DDA/pull/78054))
 * [Xedra Evolved] Add Lilit ruach gauge using custom variable functionality ([#78063](https://github.com/CleverRaven/Cataclysm-DDA/pull/78063))
 * Update cramped space effect messages ([#78059](https://github.com/CleverRaven/Cataclysm-DDA/pull/78059))
