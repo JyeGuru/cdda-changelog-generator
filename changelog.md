@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-11-30-1237 ([9b7b74c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1237))
+
+* Less verbose reading of layering.json ([#78199](https://github.com/CleverRaven/Cataclysm-DDA/pull/78199))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-30-0919 ([62dc950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0919))
 
 * Add water flags to ponds and springs ([#78237](https://github.com/CleverRaven/Cataclysm-DDA/pull/78237))
@@ -210,4 +216,3 @@
 * Fix reference after removal error in grab break code ([#78067](https://github.com/CleverRaven/Cataclysm-DDA/pull/78067))
 * Even less items around streams ([#78065](https://github.com/CleverRaven/Cataclysm-DDA/pull/78065))
 * national weather transcripts grammar fix ([#78062](https://github.com/CleverRaven/Cataclysm-DDA/pull/78062))
-* Add open crates to farm supply store ([#78060](https://github.com/CleverRaven/Cataclysm-DDA/pull/78060))
