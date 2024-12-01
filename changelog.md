@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-01-0247 ([fdd53e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-0247))
+
+* Update error message when parent pocket full ([#78263](https://github.com/CleverRaven/Cataclysm-DDA/pull/78263))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-11-30-2141 ([8540bf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-2141))
 
 * Fix clang-tidy lints ([#78255](https://github.com/CleverRaven/Cataclysm-DDA/pull/78255))
@@ -184,11 +190,6 @@
 * Mods can add categories to the help menu ([#78126](https://github.com/CleverRaven/Cataclysm-DDA/pull/78126))
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-26-0258 ([5ccd8ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-0258))
-
 * Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
 * Autoreview me on weekly changelog updates ([#78142](https://github.com/CleverRaven/Cataclysm-DDA/pull/78142))
 * Fix typo in riot armor suit ([#78133](https://github.com/CleverRaven/Cataclysm-DDA/pull/78133))
@@ -206,7 +207,6 @@
 * Wildlife food's adjust morale ([#78088](https://github.com/CleverRaven/Cataclysm-DDA/pull/78088))
 * Fix reference after removal error in grab break code ([#78068](https://github.com/CleverRaven/Cataclysm-DDA/pull/78068))
 * [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
-* add spicebush and chokeberries ([#78066](https://github.com/CleverRaven/Cataclysm-DDA/pull/78066))
 * Survivor Hoods and Cowl Update Take 2 ([#78098](https://github.com/CleverRaven/Cataclysm-DDA/pull/78098))
 * ALLOWS_TALONS is about talons for feet, not for hands ([#78095](https://github.com/CleverRaven/Cataclysm-DDA/pull/78095))
 * Tile layering supports item variants ([#78101](https://github.com/CleverRaven/Cataclysm-DDA/pull/78101))

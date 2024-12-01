@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-01-0247 (fdd53e9)
+* Update error message when parent pocket full (#78263)
+
 Cataclysm-DDA experimental build 2024-11-30-2141 (8540bf4)
 * Fix clang-tidy lints (#78255)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2024-11-26-0525 (040f4e8)
 * Mods can add categories to the help menu (#78126)
 * Add items to crates in hazardous waste sarcophagus (#78155)
 * Align path to door in urban_8 (#78154)
-
-Cataclysm-DDA experimental build 2024-11-26-0258 (5ccd8ae)
 * Small mapgen error fixes (#78152)
 * Autoreview me on weekly changelog updates (#78142)
 * Fix typo in riot armor suit (#78133)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2024-11-26-0258 (5ccd8ae)
 * Wildlife food's adjust morale (#78088)
 * Fix reference after removal error in grab break code (#78068)
 * [Xedra Evolved] Arvore Cleanup (#78107)
-* add spicebush and chokeberries (#78066)
 * Survivor Hoods and Cowl Update Take 2 (#78098)
 * ALLOWS_TALONS is about talons for feet, not for hands (#78095)
 * Tile layering supports item variants (#78101)
