@@ -1,3 +1,4 @@
+* Update request-review used commit ([#78256](https://github.com/CleverRaven/Cataclysm-DDA/pull/78256))
 
 ---
 
@@ -225,5 +226,4 @@
 * Fix crashing in CURSES without ASCII title art ([#78103](https://github.com/CleverRaven/Cataclysm-DDA/pull/78103))
 * Merge commits from 0-H-Branch into master and update appstream file ([#78106](https://github.com/CleverRaven/Cataclysm-DDA/pull/78106))
 * Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
-* Stash mission ids and remove them after loop for 0.I ([#78083](https://github.com/CleverRaven/Cataclysm-DDA/pull/78083))
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))

@@ -1,3 +1,4 @@
+* Update request-review used commit (#78256)
 
 Cataclysm-DDA experimental build 2024-12-01-1834 (de4743c)
 * Increased weight of zombie hulk (#78165)
@@ -141,5 +142,4 @@ Cataclysm-DDA experimental build 2024-11-27-0156 (86b2a00)
 * Fix crashing in CURSES without ASCII title art (#78103)
 * Merge commits from 0-H-Branch into master and update appstream file (#78106)
 * Add imgui_stdlib to CMake (#78099)
-* Stash mission ids and remove them after loop for 0.I (#78083)
 * Routine i18n updates on 23 November 2024 (#78085)
