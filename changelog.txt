@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-12-01-1525 (ec9962c)
+* Fix Shapeshifter attunement effect with MoM (#78260)
 * Don't Panic and clang-tidy everything if there are no eligible files (#78272)
 
 Cataclysm-DDA experimental build 2024-12-01-0818 (549290b)
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2024-11-27-0156 (86b2a00)
 
 Cataclysm-DDA experimental build 2024-11-26-1546 (f5814da)
 * Fix counters in military surplus walls (#78169)
-
-Cataclysm-DDA experimental build 2024-11-26-1255 (c01fe14)
 * Make parameter names consistent in definition and declaration (#78167)
 * Commented codes related to mongroup functionality. (#78159)
 * Add static so game compiles (#78147)
@@ -137,6 +138,5 @@ Cataclysm-DDA experimental build 2024-11-26-1255 (c01fe14)
 * Merge commits from 0-H-Branch into master and update appstream file (#78106)
 * Add imgui_stdlib to CMake (#78099)
 * Stash mission ids and remove them after loop for 0.I (#78083)
-* Unhardcode slime pits (#78077)
 * Routine i18n updates on 23 November 2024 (#78085)
 * Stash mission ids and remove after loop for 0.H (#78082)

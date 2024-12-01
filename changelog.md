@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-01-1525 ([ec9962c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-1525))
+
+* Fix Shapeshifter attunement effect with MoM ([#78260](https://github.com/CleverRaven/Cataclysm-DDA/pull/78260))
 * Don't Panic and clang-tidy everything if there are no eligible files ([#78272](https://github.com/CleverRaven/Cataclysm-DDA/pull/78272))
 
 ---
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-11-26-1546 ([f5814da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-1546))
 
 * Fix counters in military surplus walls ([#78169](https://github.com/CleverRaven/Cataclysm-DDA/pull/78169))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-26-1255 ([c01fe14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-1255))
-
 * Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
 * Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
 * Add static so game compiles ([#78147](https://github.com/CleverRaven/Cataclysm-DDA/pull/78147))
@@ -218,6 +219,5 @@
 * Merge commits from 0-H-Branch into master and update appstream file ([#78106](https://github.com/CleverRaven/Cataclysm-DDA/pull/78106))
 * Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
 * Stash mission ids and remove them after loop for 0.I ([#78083](https://github.com/CleverRaven/Cataclysm-DDA/pull/78083))
-* Unhardcode slime pits ([#78077](https://github.com/CleverRaven/Cataclysm-DDA/pull/78077))
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
 * Stash mission ids and remove after loop for 0.H ([#78082](https://github.com/CleverRaven/Cataclysm-DDA/pull/78082))
