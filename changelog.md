@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-01-0547 ([42731be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-0547))
+
+* Migrate scores window to imgui ([#78247](https://github.com/CleverRaven/Cataclysm-DDA/pull/78247))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-01-0247 ([fdd53e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-0247))
 
 * Update error message when parent pocket full ([#78263](https://github.com/CleverRaven/Cataclysm-DDA/pull/78263))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-11-26-0822 ([1ecb260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-0822))
 
 * Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-26-0525 ([040f4e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-0525))
-
 * Add static so game compiles ([#78147](https://github.com/CleverRaven/Cataclysm-DDA/pull/78147))
 * No counters in petstore walls ([#78145](https://github.com/CleverRaven/Cataclysm-DDA/pull/78145))
 * [MoM] Change id of Sense Minds sensing effect to use new tileset sprite ([#78143](https://github.com/CleverRaven/Cataclysm-DDA/pull/78143))
@@ -220,4 +221,3 @@
 * Unhardcode slime pits ([#78077](https://github.com/CleverRaven/Cataclysm-DDA/pull/78077))
 * Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
 * Stash mission ids and remove after loop for 0.H ([#78082](https://github.com/CleverRaven/Cataclysm-DDA/pull/78082))
-* Fix reference after removal error in grab break code ([#78067](https://github.com/CleverRaven/Cataclysm-DDA/pull/78067))
