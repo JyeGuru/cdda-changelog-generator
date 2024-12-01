@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-01-2347 ([5d2f6bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-2347))
+
+* Fix mac tests running as raw binary. ([#78265](https://github.com/CleverRaven/Cataclysm-DDA/pull/78265))
 * Update request-review used commit ([#78256](https://github.com/CleverRaven/Cataclysm-DDA/pull/78256))
 
 ---
@@ -182,11 +188,6 @@
 
 * Fix General Store Carpets ([#78171](https://github.com/CleverRaven/Cataclysm-DDA/pull/78171))
 * add long sticks to forest trash ([#78172](https://github.com/CleverRaven/Cataclysm-DDA/pull/78172))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-27-0156 ([86b2a00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-27-0156))
-
 * Load and move crash fix ([#78168](https://github.com/CleverRaven/Cataclysm-DDA/pull/78168))
 * Don't search forks for build artifacts in CI ([#78170](https://github.com/CleverRaven/Cataclysm-DDA/pull/78170))
 * Fix counters in military surplus walls ([#78169](https://github.com/CleverRaven/Cataclysm-DDA/pull/78169))
@@ -226,4 +227,3 @@
 * Fix crashing in CURSES without ASCII title art ([#78103](https://github.com/CleverRaven/Cataclysm-DDA/pull/78103))
 * Merge commits from 0-H-Branch into master and update appstream file ([#78106](https://github.com/CleverRaven/Cataclysm-DDA/pull/78106))
 * Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
-* Routine i18n updates on 23 November 2024 ([#78085](https://github.com/CleverRaven/Cataclysm-DDA/pull/78085))
