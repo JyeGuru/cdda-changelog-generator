@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-01-1610 ([621294e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-1610))
+
 * Fix linux release builds. ([#78262](https://github.com/CleverRaven/Cataclysm-DDA/pull/78262))
 
 ---
@@ -176,11 +181,6 @@
 
 * Load and move crash fix ([#78168](https://github.com/CleverRaven/Cataclysm-DDA/pull/78168))
 * Don't search forks for build artifacts in CI ([#78170](https://github.com/CleverRaven/Cataclysm-DDA/pull/78170))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-26-1546 ([f5814da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-26-1546))
-
 * Fix counters in military surplus walls ([#78169](https://github.com/CleverRaven/Cataclysm-DDA/pull/78169))
 * Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
 * Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
