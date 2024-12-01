@@ -1,3 +1,4 @@
+* Unbreak clang-tidy from wonky grep ([#78279](https://github.com/CleverRaven/Cataclysm-DDA/pull/78279))
 
 ---
 
