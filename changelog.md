@@ -1,3 +1,5 @@
+* External option documentation ([#78242](https://github.com/CleverRaven/Cataclysm-DDA/pull/78242))
+* Make the set of files that causes clang-tidy to rerun everything much more specific ([#78271](https://github.com/CleverRaven/Cataclysm-DDA/pull/78271))
 
 ---
 
@@ -200,13 +202,11 @@
 * BIRD_LEGS should provide TOUGH_FEET like other foot mutations ([#78130](https://github.com/CleverRaven/Cataclysm-DDA/pull/78130))
 * Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
-* Several tweaks for using musical instruments ([#78074](https://github.com/CleverRaven/Cataclysm-DDA/pull/78074))
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
 * enchantify special vision [2/2] ([#78080](https://github.com/CleverRaven/Cataclysm-DDA/pull/78080))
 * typified end of 'a' ([#78093](https://github.com/CleverRaven/Cataclysm-DDA/pull/78093))
 * Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn ([#78090](https://github.com/CleverRaven/Cataclysm-DDA/pull/78090))
 * Wildlife food's adjust morale ([#78088](https://github.com/CleverRaven/Cataclysm-DDA/pull/78088))
-* Fix reference after removal error in grab break code ([#78068](https://github.com/CleverRaven/Cataclysm-DDA/pull/78068))
 * [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
 * Survivor Hoods and Cowl Update Take 2 ([#78098](https://github.com/CleverRaven/Cataclysm-DDA/pull/78098))
 * ALLOWS_TALONS is about talons for feet, not for hands ([#78095](https://github.com/CleverRaven/Cataclysm-DDA/pull/78095))
