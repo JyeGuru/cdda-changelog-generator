@@ -1,3 +1,4 @@
+* Fix linux release builds. (#78262)
 
 Cataclysm-DDA experimental build 2024-12-01-1525 (ec9962c)
 * Fix Shapeshifter attunement effect with MoM (#78260)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2024-11-26-1546 (f5814da)
 * Fix mana-using mutations (#78121)
 * [Innawoods] Remove man-made trash from stream palette loot (#78129)
 * [Xedra Evolved] Update Ierde stone fists to fix oddities (#78115)
-* enchantify special vision [2/2] (#78080)
 * typified end of 'a' (#78093)
 * Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn (#78090)
 * Wildlife food's adjust morale (#78088)

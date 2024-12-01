@@ -1,3 +1,4 @@
+* Fix linux release builds. ([#78262](https://github.com/CleverRaven/Cataclysm-DDA/pull/78262))
 
 ---
 
@@ -205,7 +206,6 @@
 * Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
-* enchantify special vision [2/2] ([#78080](https://github.com/CleverRaven/Cataclysm-DDA/pull/78080))
 * typified end of 'a' ([#78093](https://github.com/CleverRaven/Cataclysm-DDA/pull/78093))
 * Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn ([#78090](https://github.com/CleverRaven/Cataclysm-DDA/pull/78090))
 * Wildlife food's adjust morale ([#78088](https://github.com/CleverRaven/Cataclysm-DDA/pull/78088))
