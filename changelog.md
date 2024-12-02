@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-02-1658 ([6713b28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-1658))
+
 * Weekly Changelog 2024-11-25 to 2024-12-02 ([#78290](https://github.com/CleverRaven/Cataclysm-DDA/pull/78290))
 * [MoM] Extend Nether Attunement widget to other sidebars ([#78273](https://github.com/CleverRaven/Cataclysm-DDA/pull/78273))
 
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-11-28-1212 ([7df1b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-1212))
 
 * Upgrade ImGui version to 1.91.5 ([#78144](https://github.com/CleverRaven/Cataclysm-DDA/pull/78144))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-28-0741 ([286cff2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-0741))
-
 * fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
 * Fix limb drying rate test ([#78189](https://github.com/CleverRaven/Cataclysm-DDA/pull/78189))
 * Require a lot more rock, time and mortar for the stone wall ([#78196](https://github.com/CleverRaven/Cataclysm-DDA/pull/78196))
