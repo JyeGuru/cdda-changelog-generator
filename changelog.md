@@ -1,3 +1,10 @@
+* Routine tileset updates on 01 December 2024 ([#78270](https://github.com/CleverRaven/Cataclysm-DDA/pull/78270))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-02-2030 ([4165bf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-2030))
+
+* [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). ([#78293](https://github.com/CleverRaven/Cataclysm-DDA/pull/78293))
 
 ---
 
@@ -182,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-11-28-1541 ([75431d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-1541))
 
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone ([#78161](https://github.com/CleverRaven/Cataclysm-DDA/pull/78161))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-28-1212 ([7df1b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-1212))
-
 * Upgrade ImGui version to 1.91.5 ([#78144](https://github.com/CleverRaven/Cataclysm-DDA/pull/78144))
 * fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
 * Fix limb drying rate test ([#78189](https://github.com/CleverRaven/Cataclysm-DDA/pull/78189))
@@ -227,5 +229,3 @@
 * Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
-* [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
-* Add parametrized carpet to fill_ter ([#78108](https://github.com/CleverRaven/Cataclysm-DDA/pull/78108))

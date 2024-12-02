@@ -1,3 +1,7 @@
+* Routine tileset updates on 01 December 2024 (#78270)
+
+Cataclysm-DDA experimental build 2024-12-02-2030 (4165bf8)
+* [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). (#78293)
 
 Cataclysm-DDA experimental build 2024-12-02-1658 (6713b28)
 * Weekly Changelog 2024-11-25 to 2024-12-02 (#78290)
@@ -101,8 +105,6 @@ Cataclysm-DDA experimental build 2024-11-28-1752 (9704dc9)
 
 Cataclysm-DDA experimental build 2024-11-28-1541 (75431d4)
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone (#78161)
-
-Cataclysm-DDA experimental build 2024-11-28-1212 (7df1b91)
 * Upgrade ImGui version to 1.91.5 (#78144)
 * fix crash on keybind reset in UILIST context (#78198)
 * Fix limb drying rate test (#78189)
@@ -143,5 +145,3 @@ Cataclysm-DDA experimental build 2024-11-28-1212 (7df1b91)
 * Fix mana-using mutations (#78121)
 * [Innawoods] Remove man-made trash from stream palette loot (#78129)
 * [Xedra Evolved] Update Ierde stone fists to fix oddities (#78115)
-* [Xedra Evolved] Arvore Cleanup (#78107)
-* Add parametrized carpet to fill_ter (#78108)
