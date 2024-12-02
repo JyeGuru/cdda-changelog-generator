@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-02-0821 ([3173580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-0821))
+
 * Correct grammar in gun fault clearing messages ([#78261](https://github.com/CleverRaven/Cataclysm-DDA/pull/78261))
 * Audit `satiety`. ([#78206](https://github.com/CleverRaven/Cataclysm-DDA/pull/78206))
 * Aftershock: Replace exosuit forcefield with backpack generator ([#78267](https://github.com/CleverRaven/Cataclysm-DDA/pull/78267))
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-11-28-0524 ([77c5fc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-0524))
 
 * Add tupelo and nannyberry trees ([#78176](https://github.com/CleverRaven/Cataclysm-DDA/pull/78176))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-28-0210 ([d16889e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-0210))
-
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
 * Make existing math basic assignment operator single string ([#78153](https://github.com/CleverRaven/Cataclysm-DDA/pull/78153))

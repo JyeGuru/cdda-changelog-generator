@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-02-0821 (3173580)
 * Correct grammar in gun fault clearing messages (#78261)
 * Audit `satiety`. (#78206)
 * Aftershock: Replace exosuit forcefield with backpack generator (#78267)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-11-28-0741 (286cff2)
 
 Cataclysm-DDA experimental build 2024-11-28-0524 (77c5fc2)
 * Add tupelo and nannyberry trees (#78176)
-
-Cataclysm-DDA experimental build 2024-11-28-0210 (d16889e)
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse (#78192)
 * Draw item name in separate column of item action menu (#78185)
 * Make existing math basic assignment operator single string (#78153)
