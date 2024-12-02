@@ -1,3 +1,13 @@
+* [Xedra Evolved] Add UNCANNY_DODGE hidden trait to appropriate Paraclesian effect + use new enchant  ([#78175](https://github.com/CleverRaven/Cataclysm-DDA/pull/78175))
+* [Xedra Evolved] Fix seedbearer trait ([#78243](https://github.com/CleverRaven/Cataclysm-DDA/pull/78243))
+* Fix museum cannons ([#78214](https://github.com/CleverRaven/Cataclysm-DDA/pull/78214))
+* [Xedra Evolved] Add Commanding the Grasses as an intro trait for Arvore, make Hungry Thirsty Roots require leveling other spells ([#78281](https://github.com/CleverRaven/Cataclysm-DDA/pull/78281))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-02-0446 ([5d4db0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-0446))
+
+* [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
 * Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
 
 ---
@@ -217,13 +227,9 @@
 * Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
-* typified end of 'a' ([#78093](https://github.com/CleverRaven/Cataclysm-DDA/pull/78093))
 * [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
-* Survivor Hoods and Cowl Update Take 2 ([#78098](https://github.com/CleverRaven/Cataclysm-DDA/pull/78098))
-* ALLOWS_TALONS is about talons for feet, not for hands ([#78095](https://github.com/CleverRaven/Cataclysm-DDA/pull/78095))
 * Tile layering supports item variants ([#78101](https://github.com/CleverRaven/Cataclysm-DDA/pull/78101))
 * Add parametrized carpet to fill_ter ([#78108](https://github.com/CleverRaven/Cataclysm-DDA/pull/78108))
 * Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md ([#78100](https://github.com/CleverRaven/Cataclysm-DDA/pull/78100))
 * Fix crashing in CURSES without ASCII title art ([#78103](https://github.com/CleverRaven/Cataclysm-DDA/pull/78103))
 * Merge commits from 0-H-Branch into master and update appstream file ([#78106](https://github.com/CleverRaven/Cataclysm-DDA/pull/78106))
-* Add imgui_stdlib to CMake ([#78099](https://github.com/CleverRaven/Cataclysm-DDA/pull/78099))
