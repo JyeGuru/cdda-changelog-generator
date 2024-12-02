@@ -1,3 +1,4 @@
+* [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest (#78292)
 * Routine tileset updates on 01 December 2024 (#78270)
 
 Cataclysm-DDA experimental build 2024-12-02-2030 (4165bf8)
@@ -24,9 +25,6 @@ Cataclysm-DDA experimental build 2024-12-02-0634 (413d2b9)
 Cataclysm-DDA experimental build 2024-12-02-0446 (5d4db0c)
 * [Xedra Evolved] Fix Ruach sidebar descriptions (#78274)
 * Fix mac OS market share script (#78282)
-
-Cataclysm-DDA experimental build 2024-12-02-0249 (207286f)
-* [Xedra Evolved] Add new time related powers for each default dream class (#78111)
 
 Cataclysm-DDA experimental build 2024-12-01-2347 (5d2f6bb)
 * Fix mac tests running as raw binary. (#78265)
