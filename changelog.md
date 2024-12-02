@@ -1,3 +1,10 @@
+* [MoM] Extend Nether Attunement widget to other sidebars ([#78273](https://github.com/CleverRaven/Cataclysm-DDA/pull/78273))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-02-1509 ([6c476f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-1509))
+
+* Make Police Batons Nonconductive ([#78284](https://github.com/CleverRaven/Cataclysm-DDA/pull/78284))
 
 ---
 
@@ -140,12 +147,6 @@
 #### Cataclysm-DDA experimental build 2024-11-29-0753 ([91e1ec8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-29-0753))
 
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-29-0509 ([e8d3c45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-29-0509))
-
-* vision_transparency_cache improvements ([#78104](https://github.com/CleverRaven/Cataclysm-DDA/pull/78104))
 * new exodii rifle ([#78163](https://github.com/CleverRaven/Cataclysm-DDA/pull/78163))
 * discharged smartphone read fix ([#78184](https://github.com/CleverRaven/Cataclysm-DDA/pull/78184))
 * Fix macOS build after data/help folder removal ([#78201](https://github.com/CleverRaven/Cataclysm-DDA/pull/78201))
@@ -189,11 +190,6 @@
 * fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
 * Fix limb drying rate test ([#78189](https://github.com/CleverRaven/Cataclysm-DDA/pull/78189))
 * Require a lot more rock, time and mortar for the stone wall ([#78196](https://github.com/CleverRaven/Cataclysm-DDA/pull/78196))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-28-0524 ([77c5fc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-0524))
-
 * Add tupelo and nannyberry trees ([#78176](https://github.com/CleverRaven/Cataclysm-DDA/pull/78176))
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
