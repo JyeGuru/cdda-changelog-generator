@@ -1,3 +1,4 @@
+* Weekly Changelog 2024-11-25 to 2024-12-02 (#78290)
 * [MoM] Extend Nether Attunement widget to other sidebars (#78273)
 
 Cataclysm-DDA experimental build 2024-12-02-1509 (6c476f5)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-11-28-0741 (286cff2)
 * [Xedra Evolved] Update Ierde stone fists to fix oddities (#78115)
 * [Xedra Evolved] Arvore Cleanup (#78107)
 * Add parametrized carpet to fill_ter (#78108)
-* Merge commits from 0-H-Branch into master and update appstream file (#78106)
