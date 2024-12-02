@@ -1,3 +1,5 @@
+* Audit `satiety`. ([#78206](https://github.com/CleverRaven/Cataclysm-DDA/pull/78206))
+* Aftershock: Replace exosuit forcefield with backpack generator ([#78267](https://github.com/CleverRaven/Cataclysm-DDA/pull/78267))
 
 ---
 
@@ -228,8 +230,6 @@
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
 * [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
-* Tile layering supports item variants ([#78101](https://github.com/CleverRaven/Cataclysm-DDA/pull/78101))
 * Add parametrized carpet to fill_ter ([#78108](https://github.com/CleverRaven/Cataclysm-DDA/pull/78108))
-* Update and rename MOD_COMPATABILITY.md to MOD_COMPATIBILITY.md ([#78100](https://github.com/CleverRaven/Cataclysm-DDA/pull/78100))
 * Fix crashing in CURSES without ASCII title art ([#78103](https://github.com/CleverRaven/Cataclysm-DDA/pull/78103))
 * Merge commits from 0-H-Branch into master and update appstream file ([#78106](https://github.com/CleverRaven/Cataclysm-DDA/pull/78106))
