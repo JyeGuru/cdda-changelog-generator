@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-02-0634 ([413d2b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-0634))
+
 * [Xedra Evolved] Add UNCANNY_DODGE hidden trait to appropriate Paraclesian effect + use new enchant  ([#78175](https://github.com/CleverRaven/Cataclysm-DDA/pull/78175))
 * [Xedra Evolved] Fix seedbearer trait ([#78243](https://github.com/CleverRaven/Cataclysm-DDA/pull/78243))
 * Fix museum cannons ([#78214](https://github.com/CleverRaven/Cataclysm-DDA/pull/78214))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-11-28-0210 ([d16889e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-0210))
 
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-27-1335 ([ad13310](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-27-1335))
-
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
 * Make existing math basic assignment operator single string ([#78153](https://github.com/CleverRaven/Cataclysm-DDA/pull/78153))
 * Add dormant zombies to cities and hordes ([#78150](https://github.com/CleverRaven/Cataclysm-DDA/pull/78150))

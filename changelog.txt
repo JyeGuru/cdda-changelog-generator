@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-02-0634 (413d2b9)
 * [Xedra Evolved] Add UNCANNY_DODGE hidden trait to appropriate Paraclesian effect + use new enchant  (#78175)
 * [Xedra Evolved] Fix seedbearer trait (#78243)
 * Fix museum cannons (#78214)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2024-11-28-0524 (77c5fc2)
 
 Cataclysm-DDA experimental build 2024-11-28-0210 (d16889e)
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse (#78192)
-
-Cataclysm-DDA experimental build 2024-11-27-1335 (ad13310)
 * Draw item name in separate column of item action menu (#78185)
 * Make existing math basic assignment operator single string (#78153)
 * Add dormant zombies to cities and hordes (#78150)
