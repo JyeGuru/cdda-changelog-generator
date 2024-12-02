@@ -1,3 +1,4 @@
+* Correct grammar in gun fault clearing messages ([#78261](https://github.com/CleverRaven/Cataclysm-DDA/pull/78261))
 * Audit `satiety`. ([#78206](https://github.com/CleverRaven/Cataclysm-DDA/pull/78206))
 * Aftershock: Replace exosuit forcefield with backpack generator ([#78267](https://github.com/CleverRaven/Cataclysm-DDA/pull/78267))
 
@@ -231,5 +232,4 @@
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
 * [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
 * Add parametrized carpet to fill_ter ([#78108](https://github.com/CleverRaven/Cataclysm-DDA/pull/78108))
-* Fix crashing in CURSES without ASCII title art ([#78103](https://github.com/CleverRaven/Cataclysm-DDA/pull/78103))
 * Merge commits from 0-H-Branch into master and update appstream file ([#78106](https://github.com/CleverRaven/Cataclysm-DDA/pull/78106))
