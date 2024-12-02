@@ -1,3 +1,10 @@
+* Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-02-0249 ([207286f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-0249))
+
+* [Xedra Evolved] Add new time related powers for each default dream class ([#78111](https://github.com/CleverRaven/Cataclysm-DDA/pull/78111))
 
 ---
 
@@ -181,11 +188,6 @@
 * Add dormant zombies to cities and hordes ([#78150](https://github.com/CleverRaven/Cataclysm-DDA/pull/78150))
 * Reduce Trash in creek beds ([#78180](https://github.com/CleverRaven/Cataclysm-DDA/pull/78180))
 * remove avatar_action::move overload; fix Clang-tidy ([#78178](https://github.com/CleverRaven/Cataclysm-DDA/pull/78178))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-27-0422 ([94731d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-27-0422))
-
 * Fix General Store Carpets ([#78171](https://github.com/CleverRaven/Cataclysm-DDA/pull/78171))
 * add long sticks to forest trash ([#78172](https://github.com/CleverRaven/Cataclysm-DDA/pull/78172))
 * Load and move crash fix ([#78168](https://github.com/CleverRaven/Cataclysm-DDA/pull/78168))
@@ -216,8 +218,6 @@
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
 * [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))
 * typified end of 'a' ([#78093](https://github.com/CleverRaven/Cataclysm-DDA/pull/78093))
-* Fix Toggle bionics/deactivate mutations causes bonus stats ignored until next turn ([#78090](https://github.com/CleverRaven/Cataclysm-DDA/pull/78090))
-* Wildlife food's adjust morale ([#78088](https://github.com/CleverRaven/Cataclysm-DDA/pull/78088))
 * [Xedra Evolved] Arvore Cleanup ([#78107](https://github.com/CleverRaven/Cataclysm-DDA/pull/78107))
 * Survivor Hoods and Cowl Update Take 2 ([#78098](https://github.com/CleverRaven/Cataclysm-DDA/pull/78098))
 * ALLOWS_TALONS is about talons for feet, not for hands ([#78095](https://github.com/CleverRaven/Cataclysm-DDA/pull/78095))
