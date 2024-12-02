@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-02-2222 ([2a0db1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-2222))
+
 * [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest ([#78292](https://github.com/CleverRaven/Cataclysm-DDA/pull/78292))
 * Routine tileset updates on 01 December 2024 ([#78270](https://github.com/CleverRaven/Cataclysm-DDA/pull/78270))
 
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-11-28-1752 ([9704dc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-1752))
 
 * Corrected 'check_support' ([#78209](https://github.com/CleverRaven/Cataclysm-DDA/pull/78209))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-28-1541 ([75431d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-1541))
-
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone ([#78161](https://github.com/CleverRaven/Cataclysm-DDA/pull/78161))
 * Upgrade ImGui version to 1.91.5 ([#78144](https://github.com/CleverRaven/Cataclysm-DDA/pull/78144))
 * fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
