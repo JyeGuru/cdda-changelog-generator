@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-03-0308 ([723edad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-03-0308))
+
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
 
 ---
@@ -178,11 +183,6 @@
 * [Magiclysm/Xedra Evolved] Update tree ter transforms for nannyberry/tupelo/spicebush/chokeberries ([#78221](https://github.com/CleverRaven/Cataclysm-DDA/pull/78221))
 * Update MUTATIONS.md ([#78225](https://github.com/CleverRaven/Cataclysm-DDA/pull/78225))
 * [Xedra Evolved] One more loading screen image ([#78220](https://github.com/CleverRaven/Cataclysm-DDA/pull/78220))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-28-2236 ([da51345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-2236))
-
 * Nerf tooth macuahuitl cut damage ([#78215](https://github.com/CleverRaven/Cataclysm-DDA/pull/78215))
 * Corrected 'check_support' ([#78209](https://github.com/CleverRaven/Cataclysm-DDA/pull/78209))
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone ([#78161](https://github.com/CleverRaven/Cataclysm-DDA/pull/78161))
