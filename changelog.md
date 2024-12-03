@@ -1,3 +1,10 @@
+* [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-03-0107 ([50b291a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-03-0107))
+
+* Revamp the 3x3 hospital ([#78250](https://github.com/CleverRaven/Cataclysm-DDA/pull/78250))
 
 ---
 
@@ -177,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-11-28-2236 ([da51345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-2236))
 
 * Nerf tooth macuahuitl cut damage ([#78215](https://github.com/CleverRaven/Cataclysm-DDA/pull/78215))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-28-1752 ([9704dc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-28-1752))
-
 * Corrected 'check_support' ([#78209](https://github.com/CleverRaven/Cataclysm-DDA/pull/78209))
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone ([#78161](https://github.com/CleverRaven/Cataclysm-DDA/pull/78161))
 * Upgrade ImGui version to 1.91.5 ([#78144](https://github.com/CleverRaven/Cataclysm-DDA/pull/78144))
@@ -219,8 +221,6 @@
 * Fix typo in riot armor suit ([#78133](https://github.com/CleverRaven/Cataclysm-DDA/pull/78133))
 * Weekly Changelog 2024-11-18 to 2024-11-25 ([#78128](https://github.com/CleverRaven/Cataclysm-DDA/pull/78128))
 * Give fungal vector to alien fungus chunk ([#78124](https://github.com/CleverRaven/Cataclysm-DDA/pull/78124))
-* [DinoMod] smell audit ([#78117](https://github.com/CleverRaven/Cataclysm-DDA/pull/78117))
 * BIRD_LEGS should provide TOUGH_FEET like other foot mutations ([#78130](https://github.com/CleverRaven/Cataclysm-DDA/pull/78130))
 * Fix mana-using mutations ([#78121](https://github.com/CleverRaven/Cataclysm-DDA/pull/78121))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
-* [Xedra Evolved] Update Ierde stone fists to fix oddities ([#78115](https://github.com/CleverRaven/Cataclysm-DDA/pull/78115))

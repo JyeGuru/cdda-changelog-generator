@@ -1,3 +1,7 @@
+* [Xedra Evolved] Add The Root of the Mountain trait for Ierde (#78304)
+
+Cataclysm-DDA experimental build 2024-12-03-0107 (50b291a)
+* Revamp the 3x3 hospital (#78250)
 
 Cataclysm-DDA experimental build 2024-12-02-2222 (2a0db1d)
 * [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest (#78292)
@@ -99,8 +103,6 @@ Cataclysm-DDA experimental build 2024-11-29-0753 (91e1ec8)
 
 Cataclysm-DDA experimental build 2024-11-28-2236 (da51345)
 * Nerf tooth macuahuitl cut damage (#78215)
-
-Cataclysm-DDA experimental build 2024-11-28-1752 (9704dc9)
 * Corrected 'check_support' (#78209)
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone (#78161)
 * Upgrade ImGui version to 1.91.5 (#78144)
@@ -138,8 +140,6 @@ Cataclysm-DDA experimental build 2024-11-28-1752 (9704dc9)
 * Fix typo in riot armor suit (#78133)
 * Weekly Changelog 2024-11-18 to 2024-11-25 (#78128)
 * Give fungal vector to alien fungus chunk (#78124)
-* [DinoMod] smell audit (#78117)
 * BIRD_LEGS should provide TOUGH_FEET like other foot mutations (#78130)
 * Fix mana-using mutations (#78121)
 * [Innawoods] Remove man-made trash from stream palette loot (#78129)
-* [Xedra Evolved] Update Ierde stone fists to fix oddities (#78115)
