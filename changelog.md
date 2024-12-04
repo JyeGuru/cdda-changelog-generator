@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-04-2101 ([c2fdece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-2101))
+
 * Magic: bugfix spawn ethereal item effect ([#78332](https://github.com/CleverRaven/Cataclysm-DDA/pull/78332))
 * Debug and summon_vehicle spell spawning ignore VEHICLE_STATUS_AT_SPAWN ([#78277](https://github.com/CleverRaven/Cataclysm-DDA/pull/78277))
 
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-11-30-0708 ([3b34699](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0708))
 
 * Weather works with region overlay ([#78234](https://github.com/CleverRaven/Cataclysm-DDA/pull/78234))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-30-0440 ([447eda8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0440))
-
 * Fix UB in city-tiles flood fill ([#78238](https://github.com/CleverRaven/Cataclysm-DDA/pull/78238))
 * Minor dissoluted devourer corrections ([#78228](https://github.com/CleverRaven/Cataclysm-DDA/pull/78228))
 * Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
