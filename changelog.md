@@ -1,3 +1,12 @@
+* typified item.h + cpp ([#78140](https://github.com/CleverRaven/Cataclysm-DDA/pull/78140))
+* [DinoMod] nedcolbertia ([#78241](https://github.com/CleverRaven/Cataclysm-DDA/pull/78241))
+* missing Liam/Luo dialog ([#78276](https://github.com/CleverRaven/Cataclysm-DDA/pull/78276))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-04-0446 ([3f1e088](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-0446))
+
+* Added ownership to several places of Tacoma Commune ranch camp ([#78305](https://github.com/CleverRaven/Cataclysm-DDA/pull/78305))
 
 ---
 
@@ -172,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-11-29-1640 ([808c72f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-29-1640))
 
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-29-0753 ([91e1ec8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-29-0753))
-
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
 * new exodii rifle ([#78163](https://github.com/CleverRaven/Cataclysm-DDA/pull/78163))
 * discharged smartphone read fix ([#78184](https://github.com/CleverRaven/Cataclysm-DDA/pull/78184))
@@ -219,13 +223,10 @@
 * Add new wildlife flags to raw fruit and vegetables ([#78135](https://github.com/CleverRaven/Cataclysm-DDA/pull/78135))
 * Skip loading screen image check for invalid mods ([#78134](https://github.com/CleverRaven/Cataclysm-DDA/pull/78134))
 * [MoM] Danger Sense senses danger ([#78131](https://github.com/CleverRaven/Cataclysm-DDA/pull/78131))
-* Mods can add categories to the help menu ([#78126](https://github.com/CleverRaven/Cataclysm-DDA/pull/78126))
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
 * Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
 * Autoreview me on weekly changelog updates ([#78142](https://github.com/CleverRaven/Cataclysm-DDA/pull/78142))
 * Fix typo in riot armor suit ([#78133](https://github.com/CleverRaven/Cataclysm-DDA/pull/78133))
-* Weekly Changelog 2024-11-18 to 2024-11-25 ([#78128](https://github.com/CleverRaven/Cataclysm-DDA/pull/78128))
-* Give fungal vector to alien fungus chunk ([#78124](https://github.com/CleverRaven/Cataclysm-DDA/pull/78124))
 * BIRD_LEGS should provide TOUGH_FEET like other foot mutations ([#78130](https://github.com/CleverRaven/Cataclysm-DDA/pull/78130))
 * [Innawoods] Remove man-made trash from stream palette loot ([#78129](https://github.com/CleverRaven/Cataclysm-DDA/pull/78129))
