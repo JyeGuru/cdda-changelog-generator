@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-04-0832 ([04cb3d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-0832))
+
 * [MoM] Fix In the Zone perk ([#78319](https://github.com/CleverRaven/Cataclysm-DDA/pull/78319))
 * [MoM] Feral vitakinetics can drain your weariness ([#78314](https://github.com/CleverRaven/Cataclysm-DDA/pull/78314))
 * [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates ([#78302](https://github.com/CleverRaven/Cataclysm-DDA/pull/78302))
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-11-30-0040 ([eb90c6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0040))
 
 * Minor dissoluted devourer corrections ([#78228](https://github.com/CleverRaven/Cataclysm-DDA/pull/78228))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-29-2224 ([e3dd19d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-29-2224))
-
 * Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
