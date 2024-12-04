@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-04-1839 (73a8a40)
+* Forbid learning spells from spellbooks with low morale (#78298)
+
 Cataclysm-DDA experimental build 2024-12-04-0832 (04cb3d9)
 * [MoM] Fix In the Zone perk (#78319)
 * [MoM] Feral vitakinetics can drain your weariness (#78314)
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2024-11-30-0708 (3b34699)
 
 Cataclysm-DDA experimental build 2024-11-30-0440 (447eda8)
 * Fix UB in city-tiles flood fill (#78238)
-
-Cataclysm-DDA experimental build 2024-11-30-0040 (eb90c6b)
 * Minor dissoluted devourer corrections (#78228)
 * Make Items droppable on crashed airliner wings (#78213)
 * parameterized internal shelter Walls (#78230)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2024-11-30-0040 (eb90c6b)
 * Martial Mastery: Insight is cleared when using other martial arts (#78139)
 * Use linoleum params where possible (#78146)
 * fix EOC_vitrified_farm_entry (#78136)
-* Add new wildlife flags to raw fruit and vegetables (#78135)
 * Add items to crates in hazardous waste sarcophagus (#78155)
 * Align path to door in urban_8 (#78154)
 * Small mapgen error fixes (#78152)

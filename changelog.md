@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-04-1839 ([73a8a40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-1839))
+
+* Forbid learning spells from spellbooks with low morale ([#78298](https://github.com/CleverRaven/Cataclysm-DDA/pull/78298))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-04-0832 ([04cb3d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-0832))
 
 * [MoM] Fix In the Zone perk ([#78319](https://github.com/CleverRaven/Cataclysm-DDA/pull/78319))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-11-30-0440 ([447eda8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0440))
 
 * Fix UB in city-tiles flood fill ([#78238](https://github.com/CleverRaven/Cataclysm-DDA/pull/78238))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-30-0040 ([eb90c6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0040))
-
 * Minor dissoluted devourer corrections ([#78228](https://github.com/CleverRaven/Cataclysm-DDA/pull/78228))
 * Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
@@ -220,7 +221,6 @@
 * Martial Mastery: Insight is cleared when using other martial arts ([#78139](https://github.com/CleverRaven/Cataclysm-DDA/pull/78139))
 * Use linoleum params where possible ([#78146](https://github.com/CleverRaven/Cataclysm-DDA/pull/78146))
 * fix EOC_vitrified_farm_entry ([#78136](https://github.com/CleverRaven/Cataclysm-DDA/pull/78136))
-* Add new wildlife flags to raw fruit and vegetables ([#78135](https://github.com/CleverRaven/Cataclysm-DDA/pull/78135))
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
 * Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
