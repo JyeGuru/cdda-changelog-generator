@@ -94,8 +94,6 @@ Cataclysm-DDA experimental build 2024-11-30-0040 (eb90c6b)
 
 Cataclysm-DDA experimental build 2024-11-29-2224 (e3dd19d)
 * Make Items droppable on crashed airliner wings (#78213)
-
-Cataclysm-DDA experimental build 2024-11-29-1640 (808c72f)
 * parameterized internal shelter Walls (#78230)
 * add hobblebush and autumn olive (#78227)
 * new exodii rifle (#78163)
