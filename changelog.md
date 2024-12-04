@@ -1,3 +1,4 @@
+* Magic: bugfix spawn ethereal item effect ([#78332](https://github.com/CleverRaven/Cataclysm-DDA/pull/78332))
 * Debug and summon_vehicle spell spawning ignore VEHICLE_STATUS_AT_SPAWN ([#78277](https://github.com/CleverRaven/Cataclysm-DDA/pull/78277))
 
 ---
@@ -219,7 +220,6 @@
 * Add static so game compiles ([#78147](https://github.com/CleverRaven/Cataclysm-DDA/pull/78147))
 * No counters in petstore walls ([#78145](https://github.com/CleverRaven/Cataclysm-DDA/pull/78145))
 * [MoM] Change id of Sense Minds sensing effect to use new tileset sprite ([#78143](https://github.com/CleverRaven/Cataclysm-DDA/pull/78143))
-* Martial Mastery: Insight is cleared when using other martial arts ([#78139](https://github.com/CleverRaven/Cataclysm-DDA/pull/78139))
 * Use linoleum params where possible ([#78146](https://github.com/CleverRaven/Cataclysm-DDA/pull/78146))
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
