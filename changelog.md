@@ -1,3 +1,4 @@
+* Debug and summon_vehicle spell spawning ignore VEHICLE_STATUS_AT_SPAWN ([#78277](https://github.com/CleverRaven/Cataclysm-DDA/pull/78277))
 
 ---
 
@@ -220,7 +221,6 @@
 * [MoM] Change id of Sense Minds sensing effect to use new tileset sprite ([#78143](https://github.com/CleverRaven/Cataclysm-DDA/pull/78143))
 * Martial Mastery: Insight is cleared when using other martial arts ([#78139](https://github.com/CleverRaven/Cataclysm-DDA/pull/78139))
 * Use linoleum params where possible ([#78146](https://github.com/CleverRaven/Cataclysm-DDA/pull/78146))
-* fix EOC_vitrified_farm_entry ([#78136](https://github.com/CleverRaven/Cataclysm-DDA/pull/78136))
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
 * Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
