@@ -1,3 +1,4 @@
+* typified iuse & iuse_actor (#78336)
 
 Cataclysm-DDA experimental build 2024-12-05-0531 (bde3f93)
 * [DinoMod] shady rework (#78337)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2024-11-30-0919 (62dc950)
 * Nerf tooth macuahuitl cut damage (#78215)
 * Corrected 'check_support' (#78209)
 * [MoM/XE] Add deactivate_conditions to recurring EoCs that don't need to recur for everyone (#78161)
-* Upgrade ImGui version to 1.91.5 (#78144)
 * fix crash on keybind reset in UILIST context (#78198)
 * Fix limb drying rate test (#78189)
 * Require a lot more rock, time and mortar for the stone wall (#78196)
