@@ -1,3 +1,4 @@
+* Add Quick and Quick-NoTiles configurations to MSVC solution ([#78344](https://github.com/CleverRaven/Cataclysm-DDA/pull/78344))
 * typified iuse & iuse_actor ([#78336](https://github.com/CleverRaven/Cataclysm-DDA/pull/78336))
 
 ---
@@ -220,7 +221,6 @@
 * Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
 * Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
 * Add static so game compiles ([#78147](https://github.com/CleverRaven/Cataclysm-DDA/pull/78147))
-* No counters in petstore walls ([#78145](https://github.com/CleverRaven/Cataclysm-DDA/pull/78145))
 * Use linoleum params where possible ([#78146](https://github.com/CleverRaven/Cataclysm-DDA/pull/78146))
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
