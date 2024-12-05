@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-05-1419 ([9017e19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-1419))
+
+* fix schizo weapon talk ([#78354](https://github.com/CleverRaven/Cataclysm-DDA/pull/78354))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-05-1025 ([943529c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-1025))
 
 * Fixes to scores menu ([#78335](https://github.com/CleverRaven/Cataclysm-DDA/pull/78335))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-11-30-1704 ([f3eb058](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1704))
 
 * Fix EOC loop performance issue ([#78253](https://github.com/CleverRaven/Cataclysm-DDA/pull/78253))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-30-1513 ([b53cf93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1513))
-
 * Add globally unique to more npc locations ([#78246](https://github.com/CleverRaven/Cataclysm-DDA/pull/78246))
 * Less verbose reading of layering.json ([#78199](https://github.com/CleverRaven/Cataclysm-DDA/pull/78199))
 * Add water flags to ponds and springs ([#78237](https://github.com/CleverRaven/Cataclysm-DDA/pull/78237))
@@ -212,7 +213,6 @@
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
 * Make existing math basic assignment operator single string ([#78153](https://github.com/CleverRaven/Cataclysm-DDA/pull/78153))
-* Add dormant zombies to cities and hordes ([#78150](https://github.com/CleverRaven/Cataclysm-DDA/pull/78150))
 * Reduce Trash in creek beds ([#78180](https://github.com/CleverRaven/Cataclysm-DDA/pull/78180))
 * remove avatar_action::move overload; fix Clang-tidy ([#78178](https://github.com/CleverRaven/Cataclysm-DDA/pull/78178))
 * Fix General Store Carpets ([#78171](https://github.com/CleverRaven/Cataclysm-DDA/pull/78171))
