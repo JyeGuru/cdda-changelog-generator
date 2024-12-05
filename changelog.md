@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-05-1025 ([943529c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-1025))
+
+* Fixes to scores menu ([#78335](https://github.com/CleverRaven/Cataclysm-DDA/pull/78335))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-05-0718 ([29a8021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-0718))
 
 * Move a space into the `diamond` flag string ([#78352](https://github.com/CleverRaven/Cataclysm-DDA/pull/78352))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-11-30-1513 ([b53cf93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1513))
 
 * Add globally unique to more npc locations ([#78246](https://github.com/CleverRaven/Cataclysm-DDA/pull/78246))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-30-1237 ([9b7b74c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1237))
-
 * Less verbose reading of layering.json ([#78199](https://github.com/CleverRaven/Cataclysm-DDA/pull/78199))
 * Add water flags to ponds and springs ([#78237](https://github.com/CleverRaven/Cataclysm-DDA/pull/78237))
 * Weather works with region overlay ([#78234](https://github.com/CleverRaven/Cataclysm-DDA/pull/78234))
@@ -221,7 +222,6 @@
 * Fix counters in military surplus walls ([#78169](https://github.com/CleverRaven/Cataclysm-DDA/pull/78169))
 * Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
 * Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
-* Add static so game compiles ([#78147](https://github.com/CleverRaven/Cataclysm-DDA/pull/78147))
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
 * Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
