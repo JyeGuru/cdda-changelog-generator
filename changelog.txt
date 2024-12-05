@@ -1,3 +1,5 @@
+* Improve readability of skip clauses for matrix build (#78347)
+* Skip enscripten build on no-code-changes PRs (#78348)
 
 Cataclysm-DDA experimental build 2024-12-04-2101 (c2fdece)
 * Magic: bugfix spawn ethereal item effect (#78332)
@@ -12,7 +14,6 @@ Cataclysm-DDA experimental build 2024-12-04-0832 (04cb3d9)
 * [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates (#78302)
 * Add a domestic construction palette (#78297)
 * [ Xedra Evolved ] Improve Dreamsmith Dreamdross Inquiry failure messaging (#78291)
-* typified item.h + cpp (#78140)
 * [DinoMod] nedcolbertia (#78241)
 * missing Liam/Luo dialog (#78276)
 
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-11-30-0708 (3b34699)
 * Add items to crates in hazardous waste sarcophagus (#78155)
 * Align path to door in urban_8 (#78154)
 * Small mapgen error fixes (#78152)
-* Autoreview me on weekly changelog updates (#78142)

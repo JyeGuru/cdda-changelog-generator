@@ -1,3 +1,5 @@
+* Improve readability of skip clauses for matrix build ([#78347](https://github.com/CleverRaven/Cataclysm-DDA/pull/78347))
+* Skip enscripten build on no-code-changes PRs ([#78348](https://github.com/CleverRaven/Cataclysm-DDA/pull/78348))
 
 ---
 
@@ -21,7 +23,6 @@
 * [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates ([#78302](https://github.com/CleverRaven/Cataclysm-DDA/pull/78302))
 * Add a domestic construction palette ([#78297](https://github.com/CleverRaven/Cataclysm-DDA/pull/78297))
 * [ Xedra Evolved ] Improve Dreamsmith Dreamdross Inquiry failure messaging ([#78291](https://github.com/CleverRaven/Cataclysm-DDA/pull/78291))
-* typified item.h + cpp ([#78140](https://github.com/CleverRaven/Cataclysm-DDA/pull/78140))
 * [DinoMod] nedcolbertia ([#78241](https://github.com/CleverRaven/Cataclysm-DDA/pull/78241))
 * missing Liam/Luo dialog ([#78276](https://github.com/CleverRaven/Cataclysm-DDA/pull/78276))
 
@@ -224,4 +225,3 @@
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
 * Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
-* Autoreview me on weekly changelog updates ([#78142](https://github.com/CleverRaven/Cataclysm-DDA/pull/78142))
