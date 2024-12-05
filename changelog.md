@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-05-0718 ([29a8021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-0718))
+
+* Move a space into the `diamond` flag string ([#78352](https://github.com/CleverRaven/Cataclysm-DDA/pull/78352))
 * Add Quick and Quick-NoTiles configurations to MSVC solution ([#78344](https://github.com/CleverRaven/Cataclysm-DDA/pull/78344))
 * typified iuse & iuse_actor ([#78336](https://github.com/CleverRaven/Cataclysm-DDA/pull/78336))
 
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-11-30-1237 ([9b7b74c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1237))
 
 * Less verbose reading of layering.json ([#78199](https://github.com/CleverRaven/Cataclysm-DDA/pull/78199))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-30-0919 ([62dc950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-0919))
-
 * Add water flags to ponds and springs ([#78237](https://github.com/CleverRaven/Cataclysm-DDA/pull/78237))
 * Weather works with region overlay ([#78234](https://github.com/CleverRaven/Cataclysm-DDA/pull/78234))
 * Fix UB in city-tiles flood fill ([#78238](https://github.com/CleverRaven/Cataclysm-DDA/pull/78238))
@@ -221,7 +222,6 @@
 * Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
 * Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
 * Add static so game compiles ([#78147](https://github.com/CleverRaven/Cataclysm-DDA/pull/78147))
-* Use linoleum params where possible ([#78146](https://github.com/CleverRaven/Cataclysm-DDA/pull/78146))
 * Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
 * Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
 * Small mapgen error fixes ([#78152](https://github.com/CleverRaven/Cataclysm-DDA/pull/78152))
