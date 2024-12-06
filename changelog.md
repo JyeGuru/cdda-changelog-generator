@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-06-0813 ([4de75b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0813))
+
 * [Xedra Evolved] Fix sylph translocate text ([#78358](https://github.com/CleverRaven/Cataclysm-DDA/pull/78358))
 * [Xedra Evolved] Fix lilit ruach draining crash ([#78356](https://github.com/CleverRaven/Cataclysm-DDA/pull/78356))
 * [DinoMod] pluralize CBM dino names ([#78355](https://github.com/CleverRaven/Cataclysm-DDA/pull/78355))
@@ -181,11 +186,6 @@
 
 * External option documentation ([#78242](https://github.com/CleverRaven/Cataclysm-DDA/pull/78242))
 * Make the set of files that causes clang-tidy to rerun everything much more specific ([#78271](https://github.com/CleverRaven/Cataclysm-DDA/pull/78271))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-01-0547 ([42731be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-0547))
-
 * Migrate scores window to imgui ([#78247](https://github.com/CleverRaven/Cataclysm-DDA/pull/78247))
 * Update error message when parent pocket full ([#78263](https://github.com/CleverRaven/Cataclysm-DDA/pull/78263))
 * Fix clang-tidy lints ([#78255](https://github.com/CleverRaven/Cataclysm-DDA/pull/78255))
