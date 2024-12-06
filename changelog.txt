@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-06-2100 (f0b2843)
 * Convert star vampire blood-drinking attack to EoC (#78367)
 * [Xedra Evolved] Add Viridescent Vessel spell to Arvore (#78359)
 
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2024-12-01-2347 (5d2f6bb)
 * Fix mac tests running as raw binary. (#78265)
 * Update request-review used commit (#78256)
 * Unbreak clang-tidy from wonky grep (#78279)
-
-Cataclysm-DDA experimental build 2024-12-01-1610 (621294e)
 * Fix linux release builds. (#78262)
 * Fix Shapeshifter attunement effect with MoM (#78260)
 * Don't Panic and clang-tidy everything if there are no eligible files (#78272)
