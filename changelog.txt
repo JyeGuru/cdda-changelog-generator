@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-06-0411 (9d3c4c6)
 * Disarm Typo Fix (#78365)
 
 Cataclysm-DDA experimental build 2024-12-06-0222 (c422020)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2024-12-01-0547 (42731be)
 
 Cataclysm-DDA experimental build 2024-12-01-0247 (fdd53e9)
 * Update error message when parent pocket full (#78263)
-
-Cataclysm-DDA experimental build 2024-11-30-2141 (8540bf4)
 * Fix clang-tidy lints (#78255)
 * Fix EOC loop performance issue (#78253)
 * Add globally unique to more npc locations (#78246)
