@@ -1,3 +1,4 @@
+* Crafting GUI filter: by bodypart coverage; Add filter by layer (for crafting GUI, AIM, inventory etc.) (#78346)
 
 Cataclysm-DDA experimental build 2024-12-06-0605 (1cdc9f2)
 * Tiny acetylene tank, a new default magazine for acetylene lamps (#78323)
@@ -115,7 +116,6 @@ Cataclysm-DDA experimental build 2024-12-01-0547 (42731be)
 * Make Items droppable on crashed airliner wings (#78213)
 * parameterized internal shelter Walls (#78230)
 * add hobblebush and autumn olive (#78227)
-* new exodii rifle (#78163)
 * discharged smartphone read fix (#78184)
 * Fix macOS build after data/help folder removal (#78201)
 * fix: reset keybinding to `Unbound locally!` now works (#78203)

@@ -1,3 +1,4 @@
+* Crafting GUI filter: by bodypart coverage; Add filter by layer (for crafting GUI, AIM, inventory etc.) ([#78346](https://github.com/CleverRaven/Cataclysm-DDA/pull/78346))
 
 ---
 
@@ -196,7 +197,6 @@
 * Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
-* new exodii rifle ([#78163](https://github.com/CleverRaven/Cataclysm-DDA/pull/78163))
 * discharged smartphone read fix ([#78184](https://github.com/CleverRaven/Cataclysm-DDA/pull/78184))
 * Fix macOS build after data/help folder removal ([#78201](https://github.com/CleverRaven/Cataclysm-DDA/pull/78201))
 * fix: reset keybinding to `Unbound locally!` now works ([#78203](https://github.com/CleverRaven/Cataclysm-DDA/pull/78203))
