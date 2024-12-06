@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-12-06-0222 (c422020)
+* Avoid const params in declarations (#78350)
 * fix weird YAML multiline truthiness issue (#78364)
 
 Cataclysm-DDA experimental build 2024-12-05-1419 (9017e19)
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2024-12-01-0247 (fdd53e9)
 
 Cataclysm-DDA experimental build 2024-11-30-2141 (8540bf4)
 * Fix clang-tidy lints (#78255)
-
-Cataclysm-DDA experimental build 2024-11-30-1704 (f3eb058)
 * Fix EOC loop performance issue (#78253)
 * Add globally unique to more npc locations (#78246)
 * Less verbose reading of layering.json (#78199)
@@ -141,5 +142,3 @@ Cataclysm-DDA experimental build 2024-11-30-1704 (f3eb058)
 * Fix counters in military surplus walls (#78169)
 * Make parameter names consistent in definition and declaration (#78167)
 * Commented codes related to mongroup functionality. (#78159)
-* Add items to crates in hazardous waste sarcophagus (#78155)
-* Align path to door in urban_8 (#78154)

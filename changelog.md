@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-06-0222 ([c422020](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0222))
+
+* Avoid const params in declarations ([#78350](https://github.com/CleverRaven/Cataclysm-DDA/pull/78350))
 * fix weird YAML multiline truthiness issue ([#78364](https://github.com/CleverRaven/Cataclysm-DDA/pull/78364))
 
 ---
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-11-30-2141 ([8540bf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-2141))
 
 * Fix clang-tidy lints ([#78255](https://github.com/CleverRaven/Cataclysm-DDA/pull/78255))
-
----
-
-#### Cataclysm-DDA experimental build 2024-11-30-1704 ([f3eb058](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-11-30-1704))
-
 * Fix EOC loop performance issue ([#78253](https://github.com/CleverRaven/Cataclysm-DDA/pull/78253))
 * Add globally unique to more npc locations ([#78246](https://github.com/CleverRaven/Cataclysm-DDA/pull/78246))
 * Less verbose reading of layering.json ([#78199](https://github.com/CleverRaven/Cataclysm-DDA/pull/78199))
@@ -222,5 +223,3 @@
 * Fix counters in military surplus walls ([#78169](https://github.com/CleverRaven/Cataclysm-DDA/pull/78169))
 * Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
 * Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
-* Add items to crates in hazardous waste sarcophagus ([#78155](https://github.com/CleverRaven/Cataclysm-DDA/pull/78155))
-* Align path to door in urban_8 ([#78154](https://github.com/CleverRaven/Cataclysm-DDA/pull/78154))
