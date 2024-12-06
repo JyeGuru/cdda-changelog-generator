@@ -1,3 +1,5 @@
+* Convert star vampire blood-drinking attack to EoC ([#78367](https://github.com/CleverRaven/Cataclysm-DDA/pull/78367))
+* [Xedra Evolved] Add Viridescent Vessel spell to Arvore ([#78359](https://github.com/CleverRaven/Cataclysm-DDA/pull/78359))
 
 ---
 
@@ -148,12 +150,6 @@
 * Correct grammar in gun fault clearing messages ([#78261](https://github.com/CleverRaven/Cataclysm-DDA/pull/78261))
 * Audit `satiety`. ([#78206](https://github.com/CleverRaven/Cataclysm-DDA/pull/78206))
 * Aftershock: Replace exosuit forcefield with backpack generator ([#78267](https://github.com/CleverRaven/Cataclysm-DDA/pull/78267))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-02-0634 ([413d2b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-0634))
-
-* [Xedra Evolved] Add UNCANNY_DODGE hidden trait to appropriate Paraclesian effect + use new enchant  ([#78175](https://github.com/CleverRaven/Cataclysm-DDA/pull/78175))
 * [Xedra Evolved] Fix seedbearer trait ([#78243](https://github.com/CleverRaven/Cataclysm-DDA/pull/78243))
 * Fix museum cannons ([#78214](https://github.com/CleverRaven/Cataclysm-DDA/pull/78214))
 * [Xedra Evolved] Add Commanding the Grasses as an intro trait for Arvore, make Hungry Thirsty Roots require leveling other spells ([#78281](https://github.com/CleverRaven/Cataclysm-DDA/pull/78281))
@@ -210,7 +206,6 @@
 * fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
 * Fix limb drying rate test ([#78189](https://github.com/CleverRaven/Cataclysm-DDA/pull/78189))
 * Require a lot more rock, time and mortar for the stone wall ([#78196](https://github.com/CleverRaven/Cataclysm-DDA/pull/78196))
-* Add tupelo and nannyberry trees ([#78176](https://github.com/CleverRaven/Cataclysm-DDA/pull/78176))
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
 * Reduce Trash in creek beds ([#78180](https://github.com/CleverRaven/Cataclysm-DDA/pull/78180))
