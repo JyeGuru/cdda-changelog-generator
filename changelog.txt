@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix sylph translocate text (#78358)
 * [Xedra Evolved] Fix lilit ruach draining crash (#78356)
 * [DinoMod] pluralize CBM dino names (#78355)
 * Appliance interaction menu is no longer cut off at the bottom (#78353)
