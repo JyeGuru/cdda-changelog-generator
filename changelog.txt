@@ -1,3 +1,4 @@
+* fix weird YAML multiline truthiness issue (#78364)
 
 Cataclysm-DDA experimental build 2024-12-05-1419 (9017e19)
 * fix schizo weapon talk (#78354)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2024-11-30-1704 (f3eb058)
 * Add tupelo and nannyberry trees (#78176)
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse (#78192)
 * Draw item name in separate column of item action menu (#78185)
-* Make existing math basic assignment operator single string (#78153)
 * Reduce Trash in creek beds (#78180)
 * remove avatar_action::move overload; fix Clang-tidy (#78178)
 * Fix General Store Carpets (#78171)
