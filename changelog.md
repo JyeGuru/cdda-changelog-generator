@@ -179,11 +179,6 @@
 
 * Fix Shapeshifter attunement effect with MoM ([#78260](https://github.com/CleverRaven/Cataclysm-DDA/pull/78260))
 * Don't Panic and clang-tidy everything if there are no eligible files ([#78272](https://github.com/CleverRaven/Cataclysm-DDA/pull/78272))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-01-0818 ([549290b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-0818))
-
 * External option documentation ([#78242](https://github.com/CleverRaven/Cataclysm-DDA/pull/78242))
 * Make the set of files that causes clang-tidy to rerun everything much more specific ([#78271](https://github.com/CleverRaven/Cataclysm-DDA/pull/78271))
 * Migrate scores window to imgui ([#78247](https://github.com/CleverRaven/Cataclysm-DDA/pull/78247))
