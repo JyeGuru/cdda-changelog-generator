@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-06-2258 (54511af)
 * Fix invalid dereference of empty pre_terrain end iterator (#78372)
 
 Cataclysm-DDA experimental build 2024-12-06-2100 (f0b2843)
