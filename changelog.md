@@ -1,3 +1,4 @@
+* typified half of game.h ([#78357](https://github.com/CleverRaven/Cataclysm-DDA/pull/78357))
 
 ---
 

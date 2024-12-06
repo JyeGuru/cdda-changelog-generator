@@ -1,3 +1,4 @@
+* typified half of game.h (#78357)
 
 Cataclysm-DDA experimental build 2024-12-06-0813 (4de75b0)
 * [Xedra Evolved] Fix sylph translocate text (#78358)
