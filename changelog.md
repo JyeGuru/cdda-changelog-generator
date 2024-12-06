@@ -1,3 +1,4 @@
+* Disarm Typo Fix ([#78365](https://github.com/CleverRaven/Cataclysm-DDA/pull/78365))
 
 ---
 
@@ -222,4 +223,3 @@
 * Don't search forks for build artifacts in CI ([#78170](https://github.com/CleverRaven/Cataclysm-DDA/pull/78170))
 * Fix counters in military surplus walls ([#78169](https://github.com/CleverRaven/Cataclysm-DDA/pull/78169))
 * Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
-* Commented codes related to mongroup functionality. ([#78159](https://github.com/CleverRaven/Cataclysm-DDA/pull/78159))
