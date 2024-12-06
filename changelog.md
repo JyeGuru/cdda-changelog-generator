@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-06-0605 ([1cdc9f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0605))
+
 * Tiny acetylene tank, a new default magazine for acetylene lamps ([#78323](https://github.com/CleverRaven/Cataclysm-DDA/pull/78323))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-12-01-0547 ([42731be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-0547))
 
 * Migrate scores window to imgui ([#78247](https://github.com/CleverRaven/Cataclysm-DDA/pull/78247))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-01-0247 ([fdd53e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-0247))
-
 * Update error message when parent pocket full ([#78263](https://github.com/CleverRaven/Cataclysm-DDA/pull/78263))
 * Fix clang-tidy lints ([#78255](https://github.com/CleverRaven/Cataclysm-DDA/pull/78255))
 * Fix EOC loop performance issue ([#78253](https://github.com/CleverRaven/Cataclysm-DDA/pull/78253))

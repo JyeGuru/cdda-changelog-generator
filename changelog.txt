@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-06-0605 (1cdc9f2)
 * Tiny acetylene tank, a new default magazine for acetylene lamps (#78323)
 
 Cataclysm-DDA experimental build 2024-12-06-0411 (9d3c4c6)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2024-12-01-0818 (549290b)
 
 Cataclysm-DDA experimental build 2024-12-01-0547 (42731be)
 * Migrate scores window to imgui (#78247)
-
-Cataclysm-DDA experimental build 2024-12-01-0247 (fdd53e9)
 * Update error message when parent pocket full (#78263)
 * Fix clang-tidy lints (#78255)
 * Fix EOC loop performance issue (#78253)
