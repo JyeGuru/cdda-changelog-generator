@@ -1,3 +1,4 @@
+* Fix invalid dereference of empty pre_terrain end iterator (#78372)
 
 Cataclysm-DDA experimental build 2024-12-06-2100 (f0b2843)
 * Convert star vampire blood-drinking attack to EoC (#78367)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2024-12-01-2347 (5d2f6bb)
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse (#78192)
 * Draw item name in separate column of item action menu (#78185)
 * Reduce Trash in creek beds (#78180)
-* remove avatar_action::move overload; fix Clang-tidy (#78178)

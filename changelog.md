@@ -1,3 +1,4 @@
+* Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))
 
 ---
 
@@ -209,4 +210,3 @@
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
 * Reduce Trash in creek beds ([#78180](https://github.com/CleverRaven/Cataclysm-DDA/pull/78180))
-* remove avatar_action::move overload; fix Clang-tidy ([#78178](https://github.com/CleverRaven/Cataclysm-DDA/pull/78178))
