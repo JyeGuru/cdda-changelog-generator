@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-06-1857 (c4c4fea)
 * typified half of game.h (#78357)
 
 Cataclysm-DDA experimental build 2024-12-06-0813 (4de75b0)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2024-12-01-2347 (5d2f6bb)
 
 Cataclysm-DDA experimental build 2024-12-01-1610 (621294e)
 * Fix linux release builds. (#78262)
-
-Cataclysm-DDA experimental build 2024-12-01-1525 (ec9962c)
 * Fix Shapeshifter attunement effect with MoM (#78260)
 * Don't Panic and clang-tidy everything if there are no eligible files (#78272)
 * External option documentation (#78242)

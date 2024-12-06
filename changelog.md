@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-06-1857 ([c4c4fea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-1857))
+
 * typified half of game.h ([#78357](https://github.com/CleverRaven/Cataclysm-DDA/pull/78357))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-12-01-1610 ([621294e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-1610))
 
 * Fix linux release builds. ([#78262](https://github.com/CleverRaven/Cataclysm-DDA/pull/78262))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-01-1525 ([ec9962c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-1525))
-
 * Fix Shapeshifter attunement effect with MoM ([#78260](https://github.com/CleverRaven/Cataclysm-DDA/pull/78260))
 * Don't Panic and clang-tidy everything if there are no eligible files ([#78272](https://github.com/CleverRaven/Cataclysm-DDA/pull/78272))
 * External option documentation ([#78242](https://github.com/CleverRaven/Cataclysm-DDA/pull/78242))
