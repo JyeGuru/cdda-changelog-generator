@@ -1,3 +1,10 @@
+* [Xedra Evolved] Fix lilit ruach draining crash ([#78356](https://github.com/CleverRaven/Cataclysm-DDA/pull/78356))
+* [DinoMod] pluralize CBM dino names ([#78355](https://github.com/CleverRaven/Cataclysm-DDA/pull/78355))
+* Appliance interaction menu is no longer cut off at the bottom ([#78353](https://github.com/CleverRaven/Cataclysm-DDA/pull/78353))
+* Fix mutations with `remove_rigid` removing `INTEGRATED` armor ([#78351](https://github.com/CleverRaven/Cataclysm-DDA/pull/78351))
+* fix standing tank deconstruction ([#78333](https://github.com/CleverRaven/Cataclysm-DDA/pull/78333))
+* math: use sstream for number conversion ([#78368](https://github.com/CleverRaven/Cataclysm-DDA/pull/78368))
+* [Xedra Evolved] Reasonable Werewolf nerfs ([#78361](https://github.com/CleverRaven/Cataclysm-DDA/pull/78361))
 * Crafting GUI filter: by bodypart coverage; Add filter by layer (for crafting GUI, AIM, inventory etc.) ([#78346](https://github.com/CleverRaven/Cataclysm-DDA/pull/78346))
 
 ---
@@ -152,12 +159,6 @@
 
 * Fix mac tests running as raw binary. ([#78265](https://github.com/CleverRaven/Cataclysm-DDA/pull/78265))
 * Update request-review used commit ([#78256](https://github.com/CleverRaven/Cataclysm-DDA/pull/78256))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-01-1834 ([de4743c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-1834))
-
-* Increased weight of zombie hulk ([#78165](https://github.com/CleverRaven/Cataclysm-DDA/pull/78165))
 * Unbreak clang-tidy from wonky grep ([#78279](https://github.com/CleverRaven/Cataclysm-DDA/pull/78279))
 
 ---
@@ -217,9 +218,3 @@
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
 * Reduce Trash in creek beds ([#78180](https://github.com/CleverRaven/Cataclysm-DDA/pull/78180))
 * remove avatar_action::move overload; fix Clang-tidy ([#78178](https://github.com/CleverRaven/Cataclysm-DDA/pull/78178))
-* Fix General Store Carpets ([#78171](https://github.com/CleverRaven/Cataclysm-DDA/pull/78171))
-* add long sticks to forest trash ([#78172](https://github.com/CleverRaven/Cataclysm-DDA/pull/78172))
-* Load and move crash fix ([#78168](https://github.com/CleverRaven/Cataclysm-DDA/pull/78168))
-* Don't search forks for build artifacts in CI ([#78170](https://github.com/CleverRaven/Cataclysm-DDA/pull/78170))
-* Fix counters in military surplus walls ([#78169](https://github.com/CleverRaven/Cataclysm-DDA/pull/78169))
-* Make parameter names consistent in definition and declaration ([#78167](https://github.com/CleverRaven/Cataclysm-DDA/pull/78167))
