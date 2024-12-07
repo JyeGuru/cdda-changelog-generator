@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-07-0523 ([cfe9f6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-0523))
+
+* heavy lights use batteries ([#78374](https://github.com/CleverRaven/Cataclysm-DDA/pull/78374))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-06-2258 ([54511af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-2258))
 
 * Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))
@@ -171,11 +177,6 @@
 
 * [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
 * Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-01-2347 ([5d2f6bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-01-2347))
-
 * Fix mac tests running as raw binary. ([#78265](https://github.com/CleverRaven/Cataclysm-DDA/pull/78265))
 * Update request-review used commit ([#78256](https://github.com/CleverRaven/Cataclysm-DDA/pull/78256))
 * Unbreak clang-tidy from wonky grep ([#78279](https://github.com/CleverRaven/Cataclysm-DDA/pull/78279))
@@ -214,4 +215,3 @@
 * Require a lot more rock, time and mortar for the stone wall ([#78196](https://github.com/CleverRaven/Cataclysm-DDA/pull/78196))
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
 * Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
-* Reduce Trash in creek beds ([#78180](https://github.com/CleverRaven/Cataclysm-DDA/pull/78180))

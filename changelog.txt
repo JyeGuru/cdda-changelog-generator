@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-07-0523 (cfe9f6c)
+* heavy lights use batteries (#78374)
+
 Cataclysm-DDA experimental build 2024-12-06-2258 (54511af)
 * Fix invalid dereference of empty pre_terrain end iterator (#78372)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2024-12-02-0821 (3173580)
 Cataclysm-DDA experimental build 2024-12-02-0446 (5d4db0c)
 * [Xedra Evolved] Fix Ruach sidebar descriptions (#78274)
 * Fix mac OS market share script (#78282)
-
-Cataclysm-DDA experimental build 2024-12-01-2347 (5d2f6bb)
 * Fix mac tests running as raw binary. (#78265)
 * Update request-review used commit (#78256)
 * Unbreak clang-tidy from wonky grep (#78279)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-12-01-2347 (5d2f6bb)
 * Require a lot more rock, time and mortar for the stone wall (#78196)
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse (#78192)
 * Draw item name in separate column of item action menu (#78185)
-* Reduce Trash in creek beds (#78180)
