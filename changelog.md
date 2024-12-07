@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-07-1629 ([df0d134](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-1629))
+
 * Adding a bong and its spawn conditions ([#78342](https://github.com/CleverRaven/Cataclysm-DDA/pull/78342))
 
 ---
@@ -177,11 +182,6 @@
 * [Xedra Evolved] Fix seedbearer trait ([#78243](https://github.com/CleverRaven/Cataclysm-DDA/pull/78243))
 * Fix museum cannons ([#78214](https://github.com/CleverRaven/Cataclysm-DDA/pull/78214))
 * [Xedra Evolved] Add Commanding the Grasses as an intro trait for Arvore, make Hungry Thirsty Roots require leveling other spells ([#78281](https://github.com/CleverRaven/Cataclysm-DDA/pull/78281))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-02-0446 ([5d4db0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-0446))
-
 * [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
 * Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
 * Fix mac tests running as raw binary. ([#78265](https://github.com/CleverRaven/Cataclysm-DDA/pull/78265))
