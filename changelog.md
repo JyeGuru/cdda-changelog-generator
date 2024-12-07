@@ -1,3 +1,10 @@
+* Adding a bong and its spawn conditions ([#78342](https://github.com/CleverRaven/Cataclysm-DDA/pull/78342))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-07-1441 ([e44a5bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-1441))
+
+* DDotD's/Classic zombies' region settings -> region overlay ([#78378](https://github.com/CleverRaven/Cataclysm-DDA/pull/78378))
 
 ---
 
@@ -198,7 +205,6 @@
 * Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
-* discharged smartphone read fix ([#78184](https://github.com/CleverRaven/Cataclysm-DDA/pull/78184))
 * Fix macOS build after data/help folder removal ([#78201](https://github.com/CleverRaven/Cataclysm-DDA/pull/78201))
 * fix: reset keybinding to `Unbound locally!` now works ([#78203](https://github.com/CleverRaven/Cataclysm-DDA/pull/78203))
 * Make evac shelters in No hope not spawn with dirt walls ([#78210](https://github.com/CleverRaven/Cataclysm-DDA/pull/78210))
@@ -214,4 +220,3 @@
 * Fix limb drying rate test ([#78189](https://github.com/CleverRaven/Cataclysm-DDA/pull/78189))
 * Require a lot more rock, time and mortar for the stone wall ([#78196](https://github.com/CleverRaven/Cataclysm-DDA/pull/78196))
 * [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
-* Draw item name in separate column of item action menu ([#78185](https://github.com/CleverRaven/Cataclysm-DDA/pull/78185))
