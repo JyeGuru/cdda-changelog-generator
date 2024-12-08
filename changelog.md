@@ -1,3 +1,4 @@
+* Switch the category of furniture items back to ``other`` ([#78369](https://github.com/CleverRaven/Cataclysm-DDA/pull/78369))
 * Increment decrement operators single string ([#78229](https://github.com/CleverRaven/Cataclysm-DDA/pull/78229))
 
 ---
@@ -224,4 +225,3 @@
 * Nerf tooth macuahuitl cut damage ([#78215](https://github.com/CleverRaven/Cataclysm-DDA/pull/78215))
 * Corrected 'check_support' ([#78209](https://github.com/CleverRaven/Cataclysm-DDA/pull/78209))
 * fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
-* Require a lot more rock, time and mortar for the stone wall ([#78196](https://github.com/CleverRaven/Cataclysm-DDA/pull/78196))
