@@ -1,3 +1,10 @@
+* Increment decrement operators single string ([#78229](https://github.com/CleverRaven/Cataclysm-DDA/pull/78229))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-08-0253 ([0207dfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-0253))
+
+* Add "tucked" pocket to leather backpack ([#78285](https://github.com/CleverRaven/Cataclysm-DDA/pull/78285))
 
 ---
 
@@ -217,6 +224,4 @@
 * Nerf tooth macuahuitl cut damage ([#78215](https://github.com/CleverRaven/Cataclysm-DDA/pull/78215))
 * Corrected 'check_support' ([#78209](https://github.com/CleverRaven/Cataclysm-DDA/pull/78209))
 * fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
-* Fix limb drying rate test ([#78189](https://github.com/CleverRaven/Cataclysm-DDA/pull/78189))
 * Require a lot more rock, time and mortar for the stone wall ([#78196](https://github.com/CleverRaven/Cataclysm-DDA/pull/78196))
-* [Aftershock] Fix Elevator Controls in Urban Greenhouse ([#78192](https://github.com/CleverRaven/Cataclysm-DDA/pull/78192))
