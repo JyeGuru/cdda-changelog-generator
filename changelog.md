@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-08-1745 ([9bd8345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-1745))
+
 * Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
 * Move the mass of zombie spiders to No Hope ([#78370](https://github.com/CleverRaven/Cataclysm-DDA/pull/78370))
 
@@ -179,11 +184,6 @@
 
 * [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest ([#78292](https://github.com/CleverRaven/Cataclysm-DDA/pull/78292))
 * Routine tileset updates on 01 December 2024 ([#78270](https://github.com/CleverRaven/Cataclysm-DDA/pull/78270))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-02-2030 ([4165bf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-2030))
-
 * [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). ([#78293](https://github.com/CleverRaven/Cataclysm-DDA/pull/78293))
 * Weekly Changelog 2024-11-25 to 2024-12-02 ([#78290](https://github.com/CleverRaven/Cataclysm-DDA/pull/78290))
 * [MoM] Extend Nether Attunement widget to other sidebars ([#78273](https://github.com/CleverRaven/Cataclysm-DDA/pull/78273))
