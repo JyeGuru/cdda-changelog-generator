@@ -1,3 +1,5 @@
+* Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
+* Move the mass of zombie spiders to No Hope ([#78370](https://github.com/CleverRaven/Cataclysm-DDA/pull/78370))
 
 ---
 
@@ -214,8 +216,6 @@
 * Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
-* Fix macOS build after data/help folder removal ([#78201](https://github.com/CleverRaven/Cataclysm-DDA/pull/78201))
-* fix: reset keybinding to `Unbound locally!` now works ([#78203](https://github.com/CleverRaven/Cataclysm-DDA/pull/78203))
 * Make evac shelters in No hope not spawn with dirt walls ([#78210](https://github.com/CleverRaven/Cataclysm-DDA/pull/78210))
 * More alarmed windows ([#78212](https://github.com/CleverRaven/Cataclysm-DDA/pull/78212))
 * add missing comma ([#78217](https://github.com/CleverRaven/Cataclysm-DDA/pull/78217))
