@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-08-1515 (0e3cc76)
+* Make hiking backpack sheaths hold a single item (#78420)
+
 Cataclysm-DDA experimental build 2024-12-08-0917 (44180c3)
 * Build fixies (#78385)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2024-12-02-2222 (2a0db1d)
 
 Cataclysm-DDA experimental build 2024-12-02-2030 (4165bf8)
 * [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). (#78293)
-
-Cataclysm-DDA experimental build 2024-12-02-1658 (6713b28)
 * Weekly Changelog 2024-11-25 to 2024-12-02 (#78290)
 * [MoM] Extend Nether Attunement widget to other sidebars (#78273)
 * Make Police Batons Nonconductive (#78284)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2024-12-02-1658 (6713b28)
 * Fix clang-tidy lints (#78255)
 * Fix EOC loop performance issue (#78253)
 * Add globally unique to more npc locations (#78246)
-* Less verbose reading of layering.json (#78199)
 * Add water flags to ponds and springs (#78237)
 * Weather works with region overlay (#78234)
 * Fix UB in city-tiles flood fill (#78238)
