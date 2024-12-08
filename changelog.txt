@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-08-0439 (c5cf777)
 * Switch the category of furniture items back to ``other`` (#78369)
 * Increment decrement operators single string (#78229)
 
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2024-12-02-1658 (6713b28)
 
 Cataclysm-DDA experimental build 2024-12-02-1509 (6c476f5)
 * Make Police Batons Nonconductive (#78284)
-
-Cataclysm-DDA experimental build 2024-12-02-0821 (3173580)
 * Correct grammar in gun fault clearing messages (#78261)
 * Audit `satiety`. (#78206)
 * Aftershock: Replace exosuit forcefield with backpack generator (#78267)

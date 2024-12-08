@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-08-0439 ([c5cf777](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-0439))
+
 * Switch the category of furniture items back to ``other`` ([#78369](https://github.com/CleverRaven/Cataclysm-DDA/pull/78369))
 * Increment decrement operators single string ([#78229](https://github.com/CleverRaven/Cataclysm-DDA/pull/78229))
 
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-12-02-1509 ([6c476f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-1509))
 
 * Make Police Batons Nonconductive ([#78284](https://github.com/CleverRaven/Cataclysm-DDA/pull/78284))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-02-0821 ([3173580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-0821))
-
 * Correct grammar in gun fault clearing messages ([#78261](https://github.com/CleverRaven/Cataclysm-DDA/pull/78261))
 * Audit `satiety`. ([#78206](https://github.com/CleverRaven/Cataclysm-DDA/pull/78206))
 * Aftershock: Replace exosuit forcefield with backpack generator ([#78267](https://github.com/CleverRaven/Cataclysm-DDA/pull/78267))
