@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-08-2048 ([3ea37bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-2048))
+
+* Make the grocery store use a palette ([#78425](https://github.com/CleverRaven/Cataclysm-DDA/pull/78425))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-08-1745 ([9bd8345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-1745))
 
 * Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-12-03-0107 ([50b291a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-03-0107))
 
 * Revamp the 3x3 hospital ([#78250](https://github.com/CleverRaven/Cataclysm-DDA/pull/78250))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-02-2222 ([2a0db1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-2222))
-
 * [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest ([#78292](https://github.com/CleverRaven/Cataclysm-DDA/pull/78292))
 * Routine tileset updates on 01 December 2024 ([#78270](https://github.com/CleverRaven/Cataclysm-DDA/pull/78270))
 * [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). ([#78293](https://github.com/CleverRaven/Cataclysm-DDA/pull/78293))
