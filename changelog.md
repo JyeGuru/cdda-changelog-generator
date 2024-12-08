@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-08-0917 ([44180c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-0917))
+
+* Build fixies ([#78385](https://github.com/CleverRaven/Cataclysm-DDA/pull/78385))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-08-0439 ([c5cf777](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-0439))
 
 * Switch the category of furniture items back to ``other`` ([#78369](https://github.com/CleverRaven/Cataclysm-DDA/pull/78369))
@@ -178,11 +184,6 @@
 
 * Weekly Changelog 2024-11-25 to 2024-12-02 ([#78290](https://github.com/CleverRaven/Cataclysm-DDA/pull/78290))
 * [MoM] Extend Nether Attunement widget to other sidebars ([#78273](https://github.com/CleverRaven/Cataclysm-DDA/pull/78273))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-02-1509 ([6c476f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-02-1509))
-
 * Make Police Batons Nonconductive ([#78284](https://github.com/CleverRaven/Cataclysm-DDA/pull/78284))
 * Correct grammar in gun fault clearing messages ([#78261](https://github.com/CleverRaven/Cataclysm-DDA/pull/78261))
 * Audit `satiety`. ([#78206](https://github.com/CleverRaven/Cataclysm-DDA/pull/78206))
@@ -224,4 +225,3 @@
 * [Xedra Evolved] One more loading screen image ([#78220](https://github.com/CleverRaven/Cataclysm-DDA/pull/78220))
 * Nerf tooth macuahuitl cut damage ([#78215](https://github.com/CleverRaven/Cataclysm-DDA/pull/78215))
 * Corrected 'check_support' ([#78209](https://github.com/CleverRaven/Cataclysm-DDA/pull/78209))
-* fix crash on keybind reset in UILIST context ([#78198](https://github.com/CleverRaven/Cataclysm-DDA/pull/78198))
