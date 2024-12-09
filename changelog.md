@@ -1,3 +1,4 @@
+* Merge peanut butter and imitation peanutbutter ([#78311](https://github.com/CleverRaven/Cataclysm-DDA/pull/78311))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
 * [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
@@ -230,4 +231,3 @@
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
 * [Magiclysm/Xedra Evolved] Update tree ter transforms for nannyberry/tupelo/spicebush/chokeberries ([#78221](https://github.com/CleverRaven/Cataclysm-DDA/pull/78221))
 * Update MUTATIONS.md ([#78225](https://github.com/CleverRaven/Cataclysm-DDA/pull/78225))
-* [Xedra Evolved] One more loading screen image ([#78220](https://github.com/CleverRaven/Cataclysm-DDA/pull/78220))
