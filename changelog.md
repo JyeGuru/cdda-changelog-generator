@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-09-0933 ([bb75c38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0933))
+
 * Merge peanut butter and imitation peanutbutter ([#78311](https://github.com/CleverRaven/Cataclysm-DDA/pull/78311))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
@@ -189,11 +194,6 @@
 * [ Xedra Evolved ] Improve Dreamsmith Dreamdross Inquiry failure messaging ([#78291](https://github.com/CleverRaven/Cataclysm-DDA/pull/78291))
 * [DinoMod] nedcolbertia ([#78241](https://github.com/CleverRaven/Cataclysm-DDA/pull/78241))
 * missing Liam/Luo dialog ([#78276](https://github.com/CleverRaven/Cataclysm-DDA/pull/78276))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-04-0446 ([3f1e088](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-0446))
-
 * Added ownership to several places of Tacoma Commune ranch camp ([#78305](https://github.com/CleverRaven/Cataclysm-DDA/pull/78305))
 * bugfix: Allow attacking with CANNOT_MOVE flag ([#78310](https://github.com/CleverRaven/Cataclysm-DDA/pull/78310))
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
