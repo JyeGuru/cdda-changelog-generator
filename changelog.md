@@ -208,7 +208,6 @@
 * [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates ([#78302](https://github.com/CleverRaven/Cataclysm-DDA/pull/78302))
 * Add a domestic construction palette ([#78297](https://github.com/CleverRaven/Cataclysm-DDA/pull/78297))
 * [ Xedra Evolved ] Improve Dreamsmith Dreamdross Inquiry failure messaging ([#78291](https://github.com/CleverRaven/Cataclysm-DDA/pull/78291))
-* [DinoMod] nedcolbertia ([#78241](https://github.com/CleverRaven/Cataclysm-DDA/pull/78241))
 * missing Liam/Luo dialog ([#78276](https://github.com/CleverRaven/Cataclysm-DDA/pull/78276))
 * Added ownership to several places of Tacoma Commune ranch camp ([#78305](https://github.com/CleverRaven/Cataclysm-DDA/pull/78305))
 * bugfix: Allow attacking with CANNOT_MOVE flag ([#78310](https://github.com/CleverRaven/Cataclysm-DDA/pull/78310))
