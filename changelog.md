@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-09-0027 ([ff8b5d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0027))
+
 * Fix table in OVERMAP.md ([#78328](https://github.com/CleverRaven/Cataclysm-DDA/pull/78328))
 
 ---
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-12-03-0525 ([eba9c9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-03-0525))
 
 * bugfix: Allow attacking with CANNOT_MOVE flag ([#78310](https://github.com/CleverRaven/Cataclysm-DDA/pull/78310))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-03-0308 ([723edad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-03-0308))
-
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
 * Revamp the 3x3 hospital ([#78250](https://github.com/CleverRaven/Cataclysm-DDA/pull/78250))
 * [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest ([#78292](https://github.com/CleverRaven/Cataclysm-DDA/pull/78292))
