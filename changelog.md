@@ -1,3 +1,4 @@
+* Structure Damage: Car Crashes, initial implementation ([#78382](https://github.com/CleverRaven/Cataclysm-DDA/pull/78382))
 * Lore tab tweaks ([#78413](https://github.com/CleverRaven/Cataclysm-DDA/pull/78413))
 * Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
 * fix checks for charges in EoC, excluding items with flags that do not have own charges ([#78427](https://github.com/CleverRaven/Cataclysm-DDA/pull/78427))
@@ -237,4 +238,3 @@
 * Fix clang-tidy lints ([#78255](https://github.com/CleverRaven/Cataclysm-DDA/pull/78255))
 * Fix EOC loop performance issue ([#78253](https://github.com/CleverRaven/Cataclysm-DDA/pull/78253))
 * Add globally unique to more npc locations ([#78246](https://github.com/CleverRaven/Cataclysm-DDA/pull/78246))
-* Fix UB in city-tiles flood fill ([#78238](https://github.com/CleverRaven/Cataclysm-DDA/pull/78238))
