@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-09-1822 ([7b67e86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-1822))
+
 * Aftershock: Shield bionics deploy Riemman shields ([#78266](https://github.com/CleverRaven/Cataclysm-DDA/pull/78266))
 * Structure Damage: Car Crashes, initial implementation ([#78382](https://github.com/CleverRaven/Cataclysm-DDA/pull/78382))
 * Lore tab tweaks ([#78413](https://github.com/CleverRaven/Cataclysm-DDA/pull/78413))
@@ -198,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2024-12-04-1839 ([73a8a40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-1839))
 
 * Forbid learning spells from spellbooks with low morale ([#78298](https://github.com/CleverRaven/Cataclysm-DDA/pull/78298))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-04-0832 ([04cb3d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-0832))
-
 * [MoM] Fix In the Zone perk ([#78319](https://github.com/CleverRaven/Cataclysm-DDA/pull/78319))
 * [MoM] Feral vitakinetics can drain your weariness ([#78314](https://github.com/CleverRaven/Cataclysm-DDA/pull/78314))
 * [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates ([#78302](https://github.com/CleverRaven/Cataclysm-DDA/pull/78302))

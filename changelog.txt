@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-09-1822 (7b67e86)
 * Aftershock: Shield bionics deploy Riemman shields (#78266)
 * Structure Damage: Car Crashes, initial implementation (#78382)
 * Lore tab tweaks (#78413)
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2024-12-04-2101 (c2fdece)
 
 Cataclysm-DDA experimental build 2024-12-04-1839 (73a8a40)
 * Forbid learning spells from spellbooks with low morale (#78298)
-
-Cataclysm-DDA experimental build 2024-12-04-0832 (04cb3d9)
 * [MoM] Fix In the Zone perk (#78319)
 * [MoM] Feral vitakinetics can drain your weariness (#78314)
 * [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates (#78302)
