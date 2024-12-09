@@ -1,3 +1,4 @@
+* Aftershock: Shield bionics deploy Riemman shields ([#78266](https://github.com/CleverRaven/Cataclysm-DDA/pull/78266))
 * Structure Damage: Car Crashes, initial implementation ([#78382](https://github.com/CleverRaven/Cataclysm-DDA/pull/78382))
 * Lore tab tweaks ([#78413](https://github.com/CleverRaven/Cataclysm-DDA/pull/78413))
 * Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
