@@ -1,3 +1,12 @@
+* Fix recyclecenter ([#78390](https://github.com/CleverRaven/Cataclysm-DDA/pull/78390))
+* Update COMPILER_SUPPORT.md ([#78404](https://github.com/CleverRaven/Cataclysm-DDA/pull/78404))
+* Update HELP_MENU.md ([#78397](https://github.com/CleverRaven/Cataclysm-DDA/pull/78397))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-09-1553 ([5ac97d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-1553))
+
+* [MoM] Add help files ([#78389](https://github.com/CleverRaven/Cataclysm-DDA/pull/78389))
 
 ---
 
@@ -226,8 +235,4 @@
 * Add water flags to ponds and springs ([#78237](https://github.com/CleverRaven/Cataclysm-DDA/pull/78237))
 * Weather works with region overlay ([#78234](https://github.com/CleverRaven/Cataclysm-DDA/pull/78234))
 * Fix UB in city-tiles flood fill ([#78238](https://github.com/CleverRaven/Cataclysm-DDA/pull/78238))
-* Minor dissoluted devourer corrections ([#78228](https://github.com/CleverRaven/Cataclysm-DDA/pull/78228))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
-* add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
-* [Magiclysm/Xedra Evolved] Update tree ter transforms for nannyberry/tupelo/spicebush/chokeberries ([#78221](https://github.com/CleverRaven/Cataclysm-DDA/pull/78221))
-* Update MUTATIONS.md ([#78225](https://github.com/CleverRaven/Cataclysm-DDA/pull/78225))

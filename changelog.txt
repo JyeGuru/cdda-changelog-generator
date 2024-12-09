@@ -1,3 +1,9 @@
+* Fix recyclecenter (#78390)
+* Update COMPILER_SUPPORT.md (#78404)
+* Update HELP_MENU.md (#78397)
+
+Cataclysm-DDA experimental build 2024-12-09-1553 (5ac97d0)
+* [MoM] Add help files (#78389)
 
 Cataclysm-DDA experimental build 2024-12-09-0933 (bb75c38)
 * Merge peanut butter and imitation peanutbutter (#78311)
@@ -142,8 +148,4 @@ Cataclysm-DDA experimental build 2024-12-04-0832 (04cb3d9)
 * Add water flags to ponds and springs (#78237)
 * Weather works with region overlay (#78234)
 * Fix UB in city-tiles flood fill (#78238)
-* Minor dissoluted devourer corrections (#78228)
 * parameterized internal shelter Walls (#78230)
-* add hobblebush and autumn olive (#78227)
-* [Magiclysm/Xedra Evolved] Update tree ter transforms for nannyberry/tupelo/spicebush/chokeberries (#78221)
-* Update MUTATIONS.md (#78225)
