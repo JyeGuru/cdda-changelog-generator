@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-09-0505 (b12d4f4)
+* Stop letters spawning outside post office (#78341)
+
 Cataclysm-DDA experimental build 2024-12-09-0317 (86fcd36)
 * Set transparency cache dirty when placing a vehicle. (#78428)
 
@@ -138,7 +141,6 @@ Cataclysm-DDA experimental build 2024-12-04-0446 (3f1e088)
 * Make Items droppable on crashed airliner wings (#78213)
 * parameterized internal shelter Walls (#78230)
 * add hobblebush and autumn olive (#78227)
-* More alarmed windows (#78212)
 * add missing comma (#78217)
 * Make washing kits craftable in the dark.json (#78218)
 * [Magiclysm/Xedra Evolved] Update tree ter transforms for nannyberry/tupelo/spicebush/chokeberries (#78221)

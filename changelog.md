@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-09-0505 ([b12d4f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0505))
+
+* Stop letters spawning outside post office ([#78341](https://github.com/CleverRaven/Cataclysm-DDA/pull/78341))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-09-0317 ([86fcd36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0317))
 
 * Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
@@ -219,7 +225,6 @@
 * Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
-* More alarmed windows ([#78212](https://github.com/CleverRaven/Cataclysm-DDA/pull/78212))
 * add missing comma ([#78217](https://github.com/CleverRaven/Cataclysm-DDA/pull/78217))
 * Make washing kits craftable in the dark.json ([#78218](https://github.com/CleverRaven/Cataclysm-DDA/pull/78218))
 * [Magiclysm/Xedra Evolved] Update tree ter transforms for nannyberry/tupelo/spicebush/chokeberries ([#78221](https://github.com/CleverRaven/Cataclysm-DDA/pull/78221))
