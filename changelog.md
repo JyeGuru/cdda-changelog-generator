@@ -1,3 +1,8 @@
+* [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
+* [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
+* [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
+* [Xedra Evolved] Moon's tears battleaxe copies from hardened steel battleaxe ([#78380](https://github.com/CleverRaven/Cataclysm-DDA/pull/78380))
+* Naming the newspaper snippets ([#78424](https://github.com/CleverRaven/Cataclysm-DDA/pull/78424))
 
 ---
 
@@ -201,7 +206,6 @@
 * Correct grammar in gun fault clearing messages ([#78261](https://github.com/CleverRaven/Cataclysm-DDA/pull/78261))
 * Aftershock: Replace exosuit forcefield with backpack generator ([#78267](https://github.com/CleverRaven/Cataclysm-DDA/pull/78267))
 * [Xedra Evolved] Fix seedbearer trait ([#78243](https://github.com/CleverRaven/Cataclysm-DDA/pull/78243))
-* Fix museum cannons ([#78214](https://github.com/CleverRaven/Cataclysm-DDA/pull/78214))
 * [Xedra Evolved] Add Commanding the Grasses as an intro trait for Arvore, make Hungry Thirsty Roots require leveling other spells ([#78281](https://github.com/CleverRaven/Cataclysm-DDA/pull/78281))
 * [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
 * Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
@@ -222,12 +226,8 @@
 * Weather works with region overlay ([#78234](https://github.com/CleverRaven/Cataclysm-DDA/pull/78234))
 * Fix UB in city-tiles flood fill ([#78238](https://github.com/CleverRaven/Cataclysm-DDA/pull/78238))
 * Minor dissoluted devourer corrections ([#78228](https://github.com/CleverRaven/Cataclysm-DDA/pull/78228))
-* Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
-* add missing comma ([#78217](https://github.com/CleverRaven/Cataclysm-DDA/pull/78217))
-* Make washing kits craftable in the dark.json ([#78218](https://github.com/CleverRaven/Cataclysm-DDA/pull/78218))
 * [Magiclysm/Xedra Evolved] Update tree ter transforms for nannyberry/tupelo/spicebush/chokeberries ([#78221](https://github.com/CleverRaven/Cataclysm-DDA/pull/78221))
 * Update MUTATIONS.md ([#78225](https://github.com/CleverRaven/Cataclysm-DDA/pull/78225))
 * [Xedra Evolved] One more loading screen image ([#78220](https://github.com/CleverRaven/Cataclysm-DDA/pull/78220))
-* Nerf tooth macuahuitl cut damage ([#78215](https://github.com/CleverRaven/Cataclysm-DDA/pull/78215))
