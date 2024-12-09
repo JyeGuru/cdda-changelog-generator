@@ -1,3 +1,9 @@
+* Lore tab tweaks ([#78413](https://github.com/CleverRaven/Cataclysm-DDA/pull/78413))
+* Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
+* fix checks for charges in EoC, excluding items with flags that do not have own charges ([#78427](https://github.com/CleverRaven/Cataclysm-DDA/pull/78427))
+* Throw an error when you do [ max, min ] instead of [ min, max ] ([#78403](https://github.com/CleverRaven/Cataclysm-DDA/pull/78403))
+* Fix #78383 Cellphones can't be charged ([#78399](https://github.com/CleverRaven/Cataclysm-DDA/pull/78399))
+* Make black box always retrievable ([#78395](https://github.com/CleverRaven/Cataclysm-DDA/pull/78395))
 * Fix recyclecenter ([#78390](https://github.com/CleverRaven/Cataclysm-DDA/pull/78390))
 * Update COMPILER_SUPPORT.md ([#78404](https://github.com/CleverRaven/Cataclysm-DDA/pull/78404))
 * Update HELP_MENU.md ([#78397](https://github.com/CleverRaven/Cataclysm-DDA/pull/78397))
@@ -73,7 +79,6 @@
 #### Cataclysm-DDA experimental build 2024-12-08-0439 ([c5cf777](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-0439))
 
 * Switch the category of furniture items back to ``other`` ([#78369](https://github.com/CleverRaven/Cataclysm-DDA/pull/78369))
-* Increment decrement operators single string ([#78229](https://github.com/CleverRaven/Cataclysm-DDA/pull/78229))
 
 ---
 
@@ -232,7 +237,4 @@
 * Fix clang-tidy lints ([#78255](https://github.com/CleverRaven/Cataclysm-DDA/pull/78255))
 * Fix EOC loop performance issue ([#78253](https://github.com/CleverRaven/Cataclysm-DDA/pull/78253))
 * Add globally unique to more npc locations ([#78246](https://github.com/CleverRaven/Cataclysm-DDA/pull/78246))
-* Add water flags to ponds and springs ([#78237](https://github.com/CleverRaven/Cataclysm-DDA/pull/78237))
-* Weather works with region overlay ([#78234](https://github.com/CleverRaven/Cataclysm-DDA/pull/78234))
 * Fix UB in city-tiles flood fill ([#78238](https://github.com/CleverRaven/Cataclysm-DDA/pull/78238))
-* parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
