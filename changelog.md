@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-09-0317 ([86fcd36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0317))
+
+* Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-09-0027 ([ff8b5d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0027))
 
 * Fix table in OVERMAP.md ([#78328](https://github.com/CleverRaven/Cataclysm-DDA/pull/78328))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-12-04-0446 ([3f1e088](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-0446))
 
 * Added ownership to several places of Tacoma Commune ranch camp ([#78305](https://github.com/CleverRaven/Cataclysm-DDA/pull/78305))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-03-0525 ([eba9c9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-03-0525))
-
 * bugfix: Allow attacking with CANNOT_MOVE flag ([#78310](https://github.com/CleverRaven/Cataclysm-DDA/pull/78310))
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
 * Revamp the 3x3 hospital ([#78250](https://github.com/CleverRaven/Cataclysm-DDA/pull/78250))
@@ -218,7 +219,6 @@
 * Make Items droppable on crashed airliner wings ([#78213](https://github.com/CleverRaven/Cataclysm-DDA/pull/78213))
 * parameterized internal shelter Walls ([#78230](https://github.com/CleverRaven/Cataclysm-DDA/pull/78230))
 * add hobblebush and autumn olive ([#78227](https://github.com/CleverRaven/Cataclysm-DDA/pull/78227))
-* Make evac shelters in No hope not spawn with dirt walls ([#78210](https://github.com/CleverRaven/Cataclysm-DDA/pull/78210))
 * More alarmed windows ([#78212](https://github.com/CleverRaven/Cataclysm-DDA/pull/78212))
 * add missing comma ([#78217](https://github.com/CleverRaven/Cataclysm-DDA/pull/78217))
 * Make washing kits craftable in the dark.json ([#78218](https://github.com/CleverRaven/Cataclysm-DDA/pull/78218))

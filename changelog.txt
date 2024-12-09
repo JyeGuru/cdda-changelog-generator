@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-09-0317 (86fcd36)
+* Set transparency cache dirty when placing a vehicle. (#78428)
+
 Cataclysm-DDA experimental build 2024-12-09-0027 (ff8b5d3)
 * Fix table in OVERMAP.md (#78328)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2024-12-04-0832 (04cb3d9)
 
 Cataclysm-DDA experimental build 2024-12-04-0446 (3f1e088)
 * Added ownership to several places of Tacoma Commune ranch camp (#78305)
-
-Cataclysm-DDA experimental build 2024-12-03-0525 (eba9c9f)
 * bugfix: Allow attacking with CANNOT_MOVE flag (#78310)
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde (#78304)
 * Revamp the 3x3 hospital (#78250)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2024-12-03-0525 (eba9c9f)
 * Make Items droppable on crashed airliner wings (#78213)
 * parameterized internal shelter Walls (#78230)
 * add hobblebush and autumn olive (#78227)
-* Make evac shelters in No hope not spawn with dirt walls (#78210)
 * More alarmed windows (#78212)
 * add missing comma (#78217)
 * Make washing kits craftable in the dark.json (#78218)
