@@ -1,3 +1,6 @@
+* Add cut produce to more recipes ([#78454](https://github.com/CleverRaven/Cataclysm-DDA/pull/78454))
+* rabbit-overcoat-typo.json ([#78455](https://github.com/CleverRaven/Cataclysm-DDA/pull/78455))
+* Categorically fix type issues with restore_on_out_of_scope ([#78460](https://github.com/CleverRaven/Cataclysm-DDA/pull/78460))
 
 ---
 
@@ -197,11 +200,6 @@
 * [DinoMod] shady rework ([#78337](https://github.com/CleverRaven/Cataclysm-DDA/pull/78337))
 * Improve readability of skip clauses for matrix build ([#78347](https://github.com/CleverRaven/Cataclysm-DDA/pull/78347))
 * Skip enscripten build on no-code-changes PRs ([#78348](https://github.com/CleverRaven/Cataclysm-DDA/pull/78348))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-04-2101 ([c2fdece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-2101))
-
 * Magic: bugfix spawn ethereal item effect ([#78332](https://github.com/CleverRaven/Cataclysm-DDA/pull/78332))
 * Debug and summon_vehicle spell spawning ignore VEHICLE_STATUS_AT_SPAWN ([#78277](https://github.com/CleverRaven/Cataclysm-DDA/pull/78277))
 * Forbid learning spells from spellbooks with low morale ([#78298](https://github.com/CleverRaven/Cataclysm-DDA/pull/78298))
@@ -233,8 +231,6 @@
 * Fix Shapeshifter attunement effect with MoM ([#78260](https://github.com/CleverRaven/Cataclysm-DDA/pull/78260))
 * Don't Panic and clang-tidy everything if there are no eligible files ([#78272](https://github.com/CleverRaven/Cataclysm-DDA/pull/78272))
 * Make the set of files that causes clang-tidy to rerun everything much more specific ([#78271](https://github.com/CleverRaven/Cataclysm-DDA/pull/78271))
-* Migrate scores window to imgui ([#78247](https://github.com/CleverRaven/Cataclysm-DDA/pull/78247))
 * Update error message when parent pocket full ([#78263](https://github.com/CleverRaven/Cataclysm-DDA/pull/78263))
 * Fix clang-tidy lints ([#78255](https://github.com/CleverRaven/Cataclysm-DDA/pull/78255))
 * Fix EOC loop performance issue ([#78253](https://github.com/CleverRaven/Cataclysm-DDA/pull/78253))
-* Add globally unique to more npc locations ([#78246](https://github.com/CleverRaven/Cataclysm-DDA/pull/78246))
