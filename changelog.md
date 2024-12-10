@@ -1,3 +1,4 @@
+* Add cut pepper byproduct to bell pepper & chili pepper seeds recipes ([#78449](https://github.com/CleverRaven/Cataclysm-DDA/pull/78449))
 * Add cut produce to more recipes ([#78454](https://github.com/CleverRaven/Cataclysm-DDA/pull/78454))
 * rabbit-overcoat-typo.json ([#78455](https://github.com/CleverRaven/Cataclysm-DDA/pull/78455))
 * Categorically fix type issues with restore_on_out_of_scope ([#78460](https://github.com/CleverRaven/Cataclysm-DDA/pull/78460))
@@ -212,7 +213,6 @@
 * Added ownership to several places of Tacoma Commune ranch camp ([#78305](https://github.com/CleverRaven/Cataclysm-DDA/pull/78305))
 * bugfix: Allow attacking with CANNOT_MOVE flag ([#78310](https://github.com/CleverRaven/Cataclysm-DDA/pull/78310))
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
-* Revamp the 3x3 hospital ([#78250](https://github.com/CleverRaven/Cataclysm-DDA/pull/78250))
 * [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest ([#78292](https://github.com/CleverRaven/Cataclysm-DDA/pull/78292))
 * Routine tileset updates on 01 December 2024 ([#78270](https://github.com/CleverRaven/Cataclysm-DDA/pull/78270))
 * [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). ([#78293](https://github.com/CleverRaven/Cataclysm-DDA/pull/78293))
