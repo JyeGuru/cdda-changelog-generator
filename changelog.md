@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-10-1825 ([52e00eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1825))
+
+* [Magiclysm] Add Mind Crush spell ([#78450](https://github.com/CleverRaven/Cataclysm-DDA/pull/78450))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-10-1632 ([ff1d0cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1632))
 
 * [Xedra Evolved] Add Exhalation of Ashes spell to salamanders ([#78446](https://github.com/CleverRaven/Cataclysm-DDA/pull/78446))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-12-06-0411 ([9d3c4c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0411))
 
 * Disarm Typo Fix ([#78365](https://github.com/CleverRaven/Cataclysm-DDA/pull/78365))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-06-0222 ([c422020](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0222))
-
 * Avoid const params in declarations ([#78350](https://github.com/CleverRaven/Cataclysm-DDA/pull/78350))
 * fix weird YAML multiline truthiness issue ([#78364](https://github.com/CleverRaven/Cataclysm-DDA/pull/78364))
 * fix schizo weapon talk ([#78354](https://github.com/CleverRaven/Cataclysm-DDA/pull/78354))
@@ -231,7 +232,6 @@
 * Fix mac tests running as raw binary. ([#78265](https://github.com/CleverRaven/Cataclysm-DDA/pull/78265))
 * Unbreak clang-tidy from wonky grep ([#78279](https://github.com/CleverRaven/Cataclysm-DDA/pull/78279))
 * Fix linux release builds. ([#78262](https://github.com/CleverRaven/Cataclysm-DDA/pull/78262))
-* Fix Shapeshifter attunement effect with MoM ([#78260](https://github.com/CleverRaven/Cataclysm-DDA/pull/78260))
 * Don't Panic and clang-tidy everything if there are no eligible files ([#78272](https://github.com/CleverRaven/Cataclysm-DDA/pull/78272))
 * Make the set of files that causes clang-tidy to rerun everything much more specific ([#78271](https://github.com/CleverRaven/Cataclysm-DDA/pull/78271))
 * Update error message when parent pocket full ([#78263](https://github.com/CleverRaven/Cataclysm-DDA/pull/78263))
