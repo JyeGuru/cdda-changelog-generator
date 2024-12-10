@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-10-1441 ([5fdef02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1441))
+
+* Fix the last mention of tier 4 vampirism being described as unobtainable ([#78458](https://github.com/CleverRaven/Cataclysm-DDA/pull/78458))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-10-1201 ([12a9782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1201))
 
 * Relaxing with Alonso is now fun ([#78457](https://github.com/CleverRaven/Cataclysm-DDA/pull/78457))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-12-05-1419 ([9017e19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-1419))
 
 * fix schizo weapon talk ([#78354](https://github.com/CleverRaven/Cataclysm-DDA/pull/78354))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-05-1025 ([943529c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-1025))
-
 * Fixes to scores menu ([#78335](https://github.com/CleverRaven/Cataclysm-DDA/pull/78335))
 * Move a space into the `diamond` flag string ([#78352](https://github.com/CleverRaven/Cataclysm-DDA/pull/78352))
 * Add Quick and Quick-NoTiles configurations to MSVC solution ([#78344](https://github.com/CleverRaven/Cataclysm-DDA/pull/78344))
@@ -234,4 +235,3 @@
 * Don't Panic and clang-tidy everything if there are no eligible files ([#78272](https://github.com/CleverRaven/Cataclysm-DDA/pull/78272))
 * Make the set of files that causes clang-tidy to rerun everything much more specific ([#78271](https://github.com/CleverRaven/Cataclysm-DDA/pull/78271))
 * Update error message when parent pocket full ([#78263](https://github.com/CleverRaven/Cataclysm-DDA/pull/78263))
-* Fix clang-tidy lints ([#78255](https://github.com/CleverRaven/Cataclysm-DDA/pull/78255))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-10-1441 (5fdef02)
+* Fix the last mention of tier 4 vampirism being described as unobtainable (#78458)
+
 Cataclysm-DDA experimental build 2024-12-10-1201 (12a9782)
 * Relaxing with Alonso is now fun (#78457)
 
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2024-12-06-0222 (c422020)
 
 Cataclysm-DDA experimental build 2024-12-05-1419 (9017e19)
 * fix schizo weapon talk (#78354)
-
-Cataclysm-DDA experimental build 2024-12-05-1025 (943529c)
 * Fixes to scores menu (#78335)
 * Move a space into the `diamond` flag string (#78352)
 * Add Quick and Quick-NoTiles configurations to MSVC solution (#78344)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2024-12-05-1025 (943529c)
 * Don't Panic and clang-tidy everything if there are no eligible files (#78272)
 * Make the set of files that causes clang-tidy to rerun everything much more specific (#78271)
 * Update error message when parent pocket full (#78263)
-* Fix clang-tidy lints (#78255)
