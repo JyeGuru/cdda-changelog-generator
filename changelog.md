@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-10-0538 ([cf7ef9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-0538))
+
+* Fix typo in 'f_empty_spike' bash drops ([#78451](https://github.com/CleverRaven/Cataclysm-DDA/pull/78451))
 * Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
 
 ---
@@ -198,11 +204,6 @@
 
 * Magic: bugfix spawn ethereal item effect ([#78332](https://github.com/CleverRaven/Cataclysm-DDA/pull/78332))
 * Debug and summon_vehicle spell spawning ignore VEHICLE_STATUS_AT_SPAWN ([#78277](https://github.com/CleverRaven/Cataclysm-DDA/pull/78277))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-04-1839 ([73a8a40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-04-1839))
-
 * Forbid learning spells from spellbooks with low morale ([#78298](https://github.com/CleverRaven/Cataclysm-DDA/pull/78298))
 * [MoM] Fix In the Zone perk ([#78319](https://github.com/CleverRaven/Cataclysm-DDA/pull/78319))
 * [MoM] Feral vitakinetics can drain your weariness ([#78314](https://github.com/CleverRaven/Cataclysm-DDA/pull/78314))
@@ -222,7 +223,6 @@
 * Make Police Batons Nonconductive ([#78284](https://github.com/CleverRaven/Cataclysm-DDA/pull/78284))
 * Correct grammar in gun fault clearing messages ([#78261](https://github.com/CleverRaven/Cataclysm-DDA/pull/78261))
 * Aftershock: Replace exosuit forcefield with backpack generator ([#78267](https://github.com/CleverRaven/Cataclysm-DDA/pull/78267))
-* [Xedra Evolved] Fix seedbearer trait ([#78243](https://github.com/CleverRaven/Cataclysm-DDA/pull/78243))
 * [Xedra Evolved] Add Commanding the Grasses as an intro trait for Arvore, make Hungry Thirsty Roots require leveling other spells ([#78281](https://github.com/CleverRaven/Cataclysm-DDA/pull/78281))
 * [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
 * Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
