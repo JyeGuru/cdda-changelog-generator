@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-10-1201 ([12a9782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1201))
+
 * Relaxing with Alonso is now fun ([#78457](https://github.com/CleverRaven/Cataclysm-DDA/pull/78457))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-12-05-1025 ([943529c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-1025))
 
 * Fixes to scores menu ([#78335](https://github.com/CleverRaven/Cataclysm-DDA/pull/78335))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-05-0718 ([29a8021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-0718))
-
 * Move a space into the `diamond` flag string ([#78352](https://github.com/CleverRaven/Cataclysm-DDA/pull/78352))
 * Add Quick and Quick-NoTiles configurations to MSVC solution ([#78344](https://github.com/CleverRaven/Cataclysm-DDA/pull/78344))
 * typified iuse & iuse_actor ([#78336](https://github.com/CleverRaven/Cataclysm-DDA/pull/78336))
