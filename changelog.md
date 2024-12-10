@@ -1,3 +1,4 @@
+* Explicitly instantiate ~relic() for compile time win. ([#78461](https://github.com/CleverRaven/Cataclysm-DDA/pull/78461))
 * Add cut pepper byproduct to bell pepper & chili pepper seeds recipes ([#78449](https://github.com/CleverRaven/Cataclysm-DDA/pull/78449))
 * Add cut produce to more recipes ([#78454](https://github.com/CleverRaven/Cataclysm-DDA/pull/78454))
 * rabbit-overcoat-typo.json ([#78455](https://github.com/CleverRaven/Cataclysm-DDA/pull/78455))
