@@ -1,3 +1,4 @@
+* Relaxing with Alonso is now fun (#78457)
 
 Cataclysm-DDA experimental build 2024-12-10-1008 (237ae0e)
 * Explicitly instantiate ~relic() for compile time win. (#78461)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2024-12-05-0718 (29a8021)
 * Make the set of files that causes clang-tidy to rerun everything much more specific (#78271)
 * Update error message when parent pocket full (#78263)
 * Fix clang-tidy lints (#78255)
-* Fix EOC loop performance issue (#78253)
