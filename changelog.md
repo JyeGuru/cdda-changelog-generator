@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-10-1632 ([ff1d0cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1632))
+
 * [Xedra Evolved] Add Exhalation of Ashes spell to salamanders ([#78446](https://github.com/CleverRaven/Cataclysm-DDA/pull/78446))
 
 ---
@@ -192,11 +197,6 @@
 
 * Avoid const params in declarations ([#78350](https://github.com/CleverRaven/Cataclysm-DDA/pull/78350))
 * fix weird YAML multiline truthiness issue ([#78364](https://github.com/CleverRaven/Cataclysm-DDA/pull/78364))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-05-1419 ([9017e19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-1419))
-
 * fix schizo weapon talk ([#78354](https://github.com/CleverRaven/Cataclysm-DDA/pull/78354))
 * Fixes to scores menu ([#78335](https://github.com/CleverRaven/Cataclysm-DDA/pull/78335))
 * Move a space into the `diamond` flag string ([#78352](https://github.com/CleverRaven/Cataclysm-DDA/pull/78352))
