@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Exhalation of Ashes spell to salamanders ([#78446](https://github.com/CleverRaven/Cataclysm-DDA/pull/78446))
 
 ---
 
@@ -228,7 +229,6 @@
 * [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
 * Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
 * Fix mac tests running as raw binary. ([#78265](https://github.com/CleverRaven/Cataclysm-DDA/pull/78265))
-* Update request-review used commit ([#78256](https://github.com/CleverRaven/Cataclysm-DDA/pull/78256))
 * Unbreak clang-tidy from wonky grep ([#78279](https://github.com/CleverRaven/Cataclysm-DDA/pull/78279))
 * Fix linux release builds. ([#78262](https://github.com/CleverRaven/Cataclysm-DDA/pull/78262))
 * Fix Shapeshifter attunement effect with MoM ([#78260](https://github.com/CleverRaven/Cataclysm-DDA/pull/78260))
