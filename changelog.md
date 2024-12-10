@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-10-1008 ([237ae0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1008))
+
 * Explicitly instantiate ~relic() for compile time win. ([#78461](https://github.com/CleverRaven/Cataclysm-DDA/pull/78461))
 * Add cut pepper byproduct to bell pepper & chili pepper seeds recipes ([#78449](https://github.com/CleverRaven/Cataclysm-DDA/pull/78449))
 * Add cut produce to more recipes ([#78454](https://github.com/CleverRaven/Cataclysm-DDA/pull/78454))
@@ -194,11 +199,6 @@
 * Move a space into the `diamond` flag string ([#78352](https://github.com/CleverRaven/Cataclysm-DDA/pull/78352))
 * Add Quick and Quick-NoTiles configurations to MSVC solution ([#78344](https://github.com/CleverRaven/Cataclysm-DDA/pull/78344))
 * typified iuse & iuse_actor ([#78336](https://github.com/CleverRaven/Cataclysm-DDA/pull/78336))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-05-0531 ([bde3f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-05-0531))
-
 * [DinoMod] shady rework ([#78337](https://github.com/CleverRaven/Cataclysm-DDA/pull/78337))
 * Improve readability of skip clauses for matrix build ([#78347](https://github.com/CleverRaven/Cataclysm-DDA/pull/78347))
 * Skip enscripten build on no-code-changes PRs ([#78348](https://github.com/CleverRaven/Cataclysm-DDA/pull/78348))
