@@ -1,4 +1,9 @@
 * Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-11-0610 ([1684d63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-0610))
+
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-12-06-1857 ([c4c4fea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-1857))
 
 * typified half of game.h ([#78357](https://github.com/CleverRaven/Cataclysm-DDA/pull/78357))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-06-0813 ([4de75b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0813))
-
 * [Xedra Evolved] Fix sylph translocate text ([#78358](https://github.com/CleverRaven/Cataclysm-DDA/pull/78358))
 * [Xedra Evolved] Fix lilit ruach draining crash ([#78356](https://github.com/CleverRaven/Cataclysm-DDA/pull/78356))
 * [DinoMod] pluralize CBM dino names ([#78355](https://github.com/CleverRaven/Cataclysm-DDA/pull/78355))

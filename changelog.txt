@@ -1,4 +1,6 @@
 * Fix emscripten build referencing deleted resource folder. (#78478)
+
+Cataclysm-DDA experimental build 2024-12-11-0610 (1684d63)
 * Fix issue with bashing satalight dish and negative noise (#78482)
 
 Cataclysm-DDA experimental build 2024-12-11-0401 (4049f3e)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2024-12-06-2100 (f0b2843)
 
 Cataclysm-DDA experimental build 2024-12-06-1857 (c4c4fea)
 * typified half of game.h (#78357)
-
-Cataclysm-DDA experimental build 2024-12-06-0813 (4de75b0)
 * [Xedra Evolved] Fix sylph translocate text (#78358)
 * [Xedra Evolved] Fix lilit ruach draining crash (#78356)
 * [DinoMod] pluralize CBM dino names (#78355)
