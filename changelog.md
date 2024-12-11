@@ -1,3 +1,10 @@
+* Update Gentoo dependencies ([#78412](https://github.com/CleverRaven/Cataclysm-DDA/pull/78412))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-11-1916 ([45a6633](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-1916))
+
+* Weekly Changelog 2024-12-02 to 2024-12-09 ([#78437](https://github.com/CleverRaven/Cataclysm-DDA/pull/78437))
 
 ---
 
@@ -159,12 +166,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-12-08-0253 ([0207dfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-0253))
-
-* Add "tucked" pocket to leather backpack ([#78285](https://github.com/CleverRaven/Cataclysm-DDA/pull/78285))
-
----
-
 #### Cataclysm-DDA experimental build 2024-12-07-1629 ([df0d134](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-1629))
 
 * Adding a bong and its spawn conditions ([#78342](https://github.com/CleverRaven/Cataclysm-DDA/pull/78342))
@@ -186,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2024-12-06-2258 ([54511af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-2258))
 
 * Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-06-2100 ([f0b2843](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-2100))
-
 * Convert star vampire blood-drinking attack to EoC ([#78367](https://github.com/CleverRaven/Cataclysm-DDA/pull/78367))
 * [Xedra Evolved] Add Viridescent Vessel spell to Arvore ([#78359](https://github.com/CleverRaven/Cataclysm-DDA/pull/78359))
 * typified half of game.h ([#78357](https://github.com/CleverRaven/Cataclysm-DDA/pull/78357))
@@ -228,4 +224,3 @@
 * [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest ([#78292](https://github.com/CleverRaven/Cataclysm-DDA/pull/78292))
 * [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). ([#78293](https://github.com/CleverRaven/Cataclysm-DDA/pull/78293))
 * Weekly Changelog 2024-11-25 to 2024-12-02 ([#78290](https://github.com/CleverRaven/Cataclysm-DDA/pull/78290))
-* Make Police Batons Nonconductive ([#78284](https://github.com/CleverRaven/Cataclysm-DDA/pull/78284))
