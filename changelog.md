@@ -1,3 +1,5 @@
+* Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
+* Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
 
 ---
 
@@ -52,12 +54,6 @@
 
 * Fix typo in 'f_empty_spike' bash drops ([#78451](https://github.com/CleverRaven/Cataclysm-DDA/pull/78451))
 * Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-09-1822 ([7b67e86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-1822))
-
-* Aftershock: Shield bionics deploy Riemman shields ([#78266](https://github.com/CleverRaven/Cataclysm-DDA/pull/78266))
 * Structure Damage: Car Crashes, initial implementation ([#78382](https://github.com/CleverRaven/Cataclysm-DDA/pull/78382))
 * Lore tab tweaks ([#78413](https://github.com/CleverRaven/Cataclysm-DDA/pull/78413))
 * Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
@@ -231,7 +227,6 @@
 * [Xedra Evolved] Add Commanding the Grasses as an intro trait for Arvore, make Hungry Thirsty Roots require leveling other spells ([#78281](https://github.com/CleverRaven/Cataclysm-DDA/pull/78281))
 * [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
 * Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
-* Fix mac tests running as raw binary. ([#78265](https://github.com/CleverRaven/Cataclysm-DDA/pull/78265))
 * Unbreak clang-tidy from wonky grep ([#78279](https://github.com/CleverRaven/Cataclysm-DDA/pull/78279))
 * Don't Panic and clang-tidy everything if there are no eligible files ([#78272](https://github.com/CleverRaven/Cataclysm-DDA/pull/78272))
 * Make the set of files that causes clang-tidy to rerun everything much more specific ([#78271](https://github.com/CleverRaven/Cataclysm-DDA/pull/78271))
