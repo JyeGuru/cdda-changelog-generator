@@ -1,3 +1,5 @@
+* [MoM] Psi passives turn off if you can't use psionics (#78447)
+* Allow color replacements in cataimgui (#78462)
 
 Cataclysm-DDA experimental build 2024-12-11-0207 (77f981a)
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices (#78470)
@@ -147,7 +149,5 @@ Cataclysm-DDA experimental build 2024-12-06-0605 (1cdc9f2)
 * Fix mac OS market share script (#78282)
 * Fix mac tests running as raw binary. (#78265)
 * Unbreak clang-tidy from wonky grep (#78279)
-* Fix linux release builds. (#78262)
 * Don't Panic and clang-tidy everything if there are no eligible files (#78272)
 * Make the set of files that causes clang-tidy to rerun everything much more specific (#78271)
-* Update error message when parent pocket full (#78263)
