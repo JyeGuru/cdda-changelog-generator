@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-11-0401 ([4049f3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-0401))
+
 * [MoM] Psi passives turn off if you can't use psionics ([#78447](https://github.com/CleverRaven/Cataclysm-DDA/pull/78447))
 * Allow color replacements in cataimgui ([#78462](https://github.com/CleverRaven/Cataclysm-DDA/pull/78462))
 
@@ -192,11 +197,6 @@
 * math: use sstream for number conversion ([#78368](https://github.com/CleverRaven/Cataclysm-DDA/pull/78368))
 * [Xedra Evolved] Reasonable Werewolf nerfs ([#78361](https://github.com/CleverRaven/Cataclysm-DDA/pull/78361))
 * Crafting GUI filter: by bodypart coverage; Add filter by layer (for crafting GUI, AIM, inventory etc.) ([#78346](https://github.com/CleverRaven/Cataclysm-DDA/pull/78346))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-06-0605 ([1cdc9f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0605))
-
 * Tiny acetylene tank, a new default magazine for acetylene lamps ([#78323](https://github.com/CleverRaven/Cataclysm-DDA/pull/78323))
 * Disarm Typo Fix ([#78365](https://github.com/CleverRaven/Cataclysm-DDA/pull/78365))
 * Avoid const params in declarations ([#78350](https://github.com/CleverRaven/Cataclysm-DDA/pull/78350))
