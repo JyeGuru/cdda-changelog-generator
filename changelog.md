@@ -1,3 +1,5 @@
+* Migrate popups in pocket settings menu to ImGui ([#78453](https://github.com/CleverRaven/Cataclysm-DDA/pull/78453))
+* combine snippets into single array ([#78464](https://github.com/CleverRaven/Cataclysm-DDA/pull/78464))
 * Crafting GUI: Filter recipes by what can fit into the result (longest_side, volume, mass) ([#78384](https://github.com/CleverRaven/Cataclysm-DDA/pull/78384))
 * Make barter / volume sorting account for stack size ([#78475](https://github.com/CleverRaven/Cataclysm-DDA/pull/78475))
 * Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
@@ -228,5 +230,3 @@
 * [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
 * Fix mac OS market share script ([#78282](https://github.com/CleverRaven/Cataclysm-DDA/pull/78282))
 * Unbreak clang-tidy from wonky grep ([#78279](https://github.com/CleverRaven/Cataclysm-DDA/pull/78279))
-* Don't Panic and clang-tidy everything if there are no eligible files ([#78272](https://github.com/CleverRaven/Cataclysm-DDA/pull/78272))
-* Make the set of files that causes clang-tidy to rerun everything much more specific ([#78271](https://github.com/CleverRaven/Cataclysm-DDA/pull/78271))
