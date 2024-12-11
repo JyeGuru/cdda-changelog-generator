@@ -1,3 +1,4 @@
+* fungalize stages for rest of zombies ([#78313](https://github.com/CleverRaven/Cataclysm-DDA/pull/78313))
 * Update Gentoo dependencies ([#78412](https://github.com/CleverRaven/Cataclysm-DDA/pull/78412))
 
 ---
@@ -223,4 +224,3 @@
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
 * [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest ([#78292](https://github.com/CleverRaven/Cataclysm-DDA/pull/78292))
 * [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). ([#78293](https://github.com/CleverRaven/Cataclysm-DDA/pull/78293))
-* Weekly Changelog 2024-11-25 to 2024-12-02 ([#78290](https://github.com/CleverRaven/Cataclysm-DDA/pull/78290))
