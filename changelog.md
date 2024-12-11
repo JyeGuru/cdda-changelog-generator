@@ -193,11 +193,6 @@
 
 * Convert star vampire blood-drinking attack to EoC ([#78367](https://github.com/CleverRaven/Cataclysm-DDA/pull/78367))
 * [Xedra Evolved] Add Viridescent Vessel spell to Arvore ([#78359](https://github.com/CleverRaven/Cataclysm-DDA/pull/78359))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-06-1857 ([c4c4fea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-1857))
-
 * typified half of game.h ([#78357](https://github.com/CleverRaven/Cataclysm-DDA/pull/78357))
 * [Xedra Evolved] Fix sylph translocate text ([#78358](https://github.com/CleverRaven/Cataclysm-DDA/pull/78358))
 * [Xedra Evolved] Fix lilit ruach draining crash ([#78356](https://github.com/CleverRaven/Cataclysm-DDA/pull/78356))
