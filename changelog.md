@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-11-2206 ([651881e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-2206))
+
 * fungalize stages for rest of zombies ([#78313](https://github.com/CleverRaven/Cataclysm-DDA/pull/78313))
 * Update Gentoo dependencies ([#78412](https://github.com/CleverRaven/Cataclysm-DDA/pull/78412))
 
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2024-12-07-0523 ([cfe9f6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-0523))
 
 * heavy lights use batteries ([#78374](https://github.com/CleverRaven/Cataclysm-DDA/pull/78374))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-06-2258 ([54511af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-2258))
-
 * Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))
 * Convert star vampire blood-drinking attack to EoC ([#78367](https://github.com/CleverRaven/Cataclysm-DDA/pull/78367))
 * [Xedra Evolved] Add Viridescent Vessel spell to Arvore ([#78359](https://github.com/CleverRaven/Cataclysm-DDA/pull/78359))
