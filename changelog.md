@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-11-0207 ([77f981a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-0207))
+
+* [Magiclysm] Balance everburning torch and magical reading light by swapping their prices ([#78470](https://github.com/CleverRaven/Cataclysm-DDA/pull/78470))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-10-1825 ([52e00eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1825))
 
 * [Magiclysm] Add Mind Crush spell ([#78450](https://github.com/CleverRaven/Cataclysm-DDA/pull/78450))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-12-06-0605 ([1cdc9f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0605))
 
 * Tiny acetylene tank, a new default magazine for acetylene lamps ([#78323](https://github.com/CleverRaven/Cataclysm-DDA/pull/78323))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-06-0411 ([9d3c4c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-06-0411))
-
 * Disarm Typo Fix ([#78365](https://github.com/CleverRaven/Cataclysm-DDA/pull/78365))
 * Avoid const params in declarations ([#78350](https://github.com/CleverRaven/Cataclysm-DDA/pull/78350))
 * fix weird YAML multiline truthiness issue ([#78364](https://github.com/CleverRaven/Cataclysm-DDA/pull/78364))
@@ -224,7 +225,6 @@
 * Weekly Changelog 2024-11-25 to 2024-12-02 ([#78290](https://github.com/CleverRaven/Cataclysm-DDA/pull/78290))
 * [MoM] Extend Nether Attunement widget to other sidebars ([#78273](https://github.com/CleverRaven/Cataclysm-DDA/pull/78273))
 * Make Police Batons Nonconductive ([#78284](https://github.com/CleverRaven/Cataclysm-DDA/pull/78284))
-* Correct grammar in gun fault clearing messages ([#78261](https://github.com/CleverRaven/Cataclysm-DDA/pull/78261))
 * Aftershock: Replace exosuit forcefield with backpack generator ([#78267](https://github.com/CleverRaven/Cataclysm-DDA/pull/78267))
 * [Xedra Evolved] Add Commanding the Grasses as an intro trait for Arvore, make Hungry Thirsty Roots require leveling other spells ([#78281](https://github.com/CleverRaven/Cataclysm-DDA/pull/78281))
 * [Xedra Evolved] Fix Ruach sidebar descriptions ([#78274](https://github.com/CleverRaven/Cataclysm-DDA/pull/78274))
