@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-11-0835 (653a131)
 * Additional info for batteries and electricity document (#78440)
 * Use enums instead of bool for ImGui::BeginChild (#78487)
 * [Magiclysm] Ravenfolk tweaks (#78484)
