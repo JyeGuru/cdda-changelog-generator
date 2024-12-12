@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-12-1428 (2a8e243)
+* Fix perspective shift in construction (#78493)
+
 Cataclysm-DDA experimental build 2024-12-12-0727 (b871679)
 * [Magiclysm/Innawood] Revamp goblin/orc drops to separate itemgroups, make them fit Innawood (#78503)
 * lcmatch instead of wildcard_match for (by)product filter `r:` (#78423)
@@ -144,4 +147,3 @@ Cataclysm-DDA experimental build 2024-12-08-0439 (c5cf777)
 * Magic: bugfix spawn ethereal item effect (#78332)
 * [MoM] Fix In the Zone perk (#78319)
 * [MoM] Feral vitakinetics can drain your weariness (#78314)
-* bugfix: Allow attacking with CANNOT_MOVE flag (#78310)
