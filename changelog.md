@@ -1,3 +1,8 @@
+* Update MARTIALART_JSON.md ([#78400](https://github.com/CleverRaven/Cataclysm-DDA/pull/78400))
+* Add awl quality to swiss army knife ([#78444](https://github.com/CleverRaven/Cataclysm-DDA/pull/78444))
+* Adding names to child notes ([#78494](https://github.com/CleverRaven/Cataclysm-DDA/pull/78494))
+* [Magiclysm] Rock trolls actually turn to stone ([#78510](https://github.com/CleverRaven/Cataclysm-DDA/pull/78510))
+* [Magiclysm/Innawood] Allow troll caves to spawn innawood ([#78509](https://github.com/CleverRaven/Cataclysm-DDA/pull/78509))
 
 ---
 
@@ -157,12 +162,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-12-09-0027 ([ff8b5d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0027))
-
-* Fix table in OVERMAP.md ([#78328](https://github.com/CleverRaven/Cataclysm-DDA/pull/78328))
-
----
-
 #### Cataclysm-DDA experimental build 2024-12-08-2245 ([b3de2db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-2245))
 
 * Make Pulp Fiction pawnshop unique ([#78418](https://github.com/CleverRaven/Cataclysm-DDA/pull/78418))
@@ -203,7 +202,6 @@
 * math: use sstream for number conversion ([#78368](https://github.com/CleverRaven/Cataclysm-DDA/pull/78368))
 * [Xedra Evolved] Reasonable Werewolf nerfs ([#78361](https://github.com/CleverRaven/Cataclysm-DDA/pull/78361))
 * Crafting GUI filter: by bodypart coverage; Add filter by layer (for crafting GUI, AIM, inventory etc.) ([#78346](https://github.com/CleverRaven/Cataclysm-DDA/pull/78346))
-* Tiny acetylene tank, a new default magazine for acetylene lamps ([#78323](https://github.com/CleverRaven/Cataclysm-DDA/pull/78323))
 * Disarm Typo Fix ([#78365](https://github.com/CleverRaven/Cataclysm-DDA/pull/78365))
 * Avoid const params in declarations ([#78350](https://github.com/CleverRaven/Cataclysm-DDA/pull/78350))
 * fix weird YAML multiline truthiness issue ([#78364](https://github.com/CleverRaven/Cataclysm-DDA/pull/78364))
@@ -216,5 +214,3 @@
 * Improve readability of skip clauses for matrix build ([#78347](https://github.com/CleverRaven/Cataclysm-DDA/pull/78347))
 * Skip enscripten build on no-code-changes PRs ([#78348](https://github.com/CleverRaven/Cataclysm-DDA/pull/78348))
 * Magic: bugfix spawn ethereal item effect ([#78332](https://github.com/CleverRaven/Cataclysm-DDA/pull/78332))
-* [MoM] Fix In the Zone perk ([#78319](https://github.com/CleverRaven/Cataclysm-DDA/pull/78319))
-* [MoM] Feral vitakinetics can drain your weariness ([#78314](https://github.com/CleverRaven/Cataclysm-DDA/pull/78314))
