@@ -1,4 +1,9 @@
 * Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-12-0522 ([ce7d69c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0522))
+
 * Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-12-07-1629 ([df0d134](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-1629))
 
 * Adding a bong and its spawn conditions ([#78342](https://github.com/CleverRaven/Cataclysm-DDA/pull/78342))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-07-1441 ([e44a5bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-1441))
-
 * DDotD's/Classic zombies' region settings -> region overlay ([#78378](https://github.com/CleverRaven/Cataclysm-DDA/pull/78378))
 * heavy lights use batteries ([#78374](https://github.com/CleverRaven/Cataclysm-DDA/pull/78374))
 * Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))

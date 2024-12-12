@@ -1,4 +1,6 @@
 * Fix executable name for notiles targets (#78498)
+
+Cataclysm-DDA experimental build 2024-12-12-0522 (ce7d69c)
 * Desk fan audit (#78499)
 
 Cataclysm-DDA experimental build 2024-12-12-0330 (e10cfc1)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-12-08-0439 (c5cf777)
 
 Cataclysm-DDA experimental build 2024-12-07-1629 (df0d134)
 * Adding a bong and its spawn conditions (#78342)
-
-Cataclysm-DDA experimental build 2024-12-07-1441 (e44a5bf)
 * DDotD's/Classic zombies' region settings -> region overlay (#78378)
 * heavy lights use batteries (#78374)
 * Fix invalid dereference of empty pre_terrain end iterator (#78372)
