@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-12-2203 ([585643b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-2203))
+
+* [Magiclysm] The Forge of Wonders puts no value on food or drink, minimal value on guns and ammo (except the pirates) ([#78513](https://github.com/CleverRaven/Cataclysm-DDA/pull/78513))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-12-1804 ([d8b8100](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-1804))
 
 * Pruning the old ``to-hit`` syntax - Part 12 ([#78496](https://github.com/CleverRaven/Cataclysm-DDA/pull/78496))
@@ -32,12 +38,6 @@
 #### Cataclysm-DDA experimental build 2024-12-12-0330 ([e10cfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0330))
 
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-11-2206 ([651881e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-2206))
-
-* fungalize stages for rest of zombies ([#78313](https://github.com/CleverRaven/Cataclysm-DDA/pull/78313))
 * Update Gentoo dependencies ([#78412](https://github.com/CleverRaven/Cataclysm-DDA/pull/78412))
 
 ---
@@ -185,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-12-08-1515 ([0e3cc76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-1515))
 
 * Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-08-0917 ([44180c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-0917))
-
 * Build fixies ([#78385](https://github.com/CleverRaven/Cataclysm-DDA/pull/78385))
 * Switch the category of furniture items back to ``other`` ([#78369](https://github.com/CleverRaven/Cataclysm-DDA/pull/78369))
 * Adding a bong and its spawn conditions ([#78342](https://github.com/CleverRaven/Cataclysm-DDA/pull/78342))
