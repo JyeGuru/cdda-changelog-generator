@@ -1,3 +1,4 @@
+* Pruning the old ``to-hit`` syntax - Part 12 ([#78496](https://github.com/CleverRaven/Cataclysm-DDA/pull/78496))
 
 ---
 
@@ -131,12 +132,6 @@
 #### Cataclysm-DDA experimental build 2024-12-09-1553 ([5ac97d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-1553))
 
 * [MoM] Add help files ([#78389](https://github.com/CleverRaven/Cataclysm-DDA/pull/78389))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-09-0933 ([bb75c38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0933))
-
-* Merge peanut butter and imitation peanutbutter ([#78311](https://github.com/CleverRaven/Cataclysm-DDA/pull/78311))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
 * [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
