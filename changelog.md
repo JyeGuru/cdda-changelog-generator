@@ -1,3 +1,7 @@
+* [Magiclysm/Innawood] Revamp goblin/orc drops to separate itemgroups, make them fit Innawood ([#78503](https://github.com/CleverRaven/Cataclysm-DDA/pull/78503))
+* lcmatch instead of wildcard_match for (by)product filter `r:` ([#78423](https://github.com/CleverRaven/Cataclysm-DDA/pull/78423))
+* [MoM] Add `mon_hologram` appearance to Astral Projection ([#78500](https://github.com/CleverRaven/Cataclysm-DDA/pull/78500))
+* Remove mingw cross build ([#78495](https://github.com/CleverRaven/Cataclysm-DDA/pull/78495))
 * Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
 
 ---
@@ -216,10 +220,6 @@
 * Improve readability of skip clauses for matrix build ([#78347](https://github.com/CleverRaven/Cataclysm-DDA/pull/78347))
 * Skip enscripten build on no-code-changes PRs ([#78348](https://github.com/CleverRaven/Cataclysm-DDA/pull/78348))
 * Magic: bugfix spawn ethereal item effect ([#78332](https://github.com/CleverRaven/Cataclysm-DDA/pull/78332))
-* Forbid learning spells from spellbooks with low morale ([#78298](https://github.com/CleverRaven/Cataclysm-DDA/pull/78298))
 * [MoM] Fix In the Zone perk ([#78319](https://github.com/CleverRaven/Cataclysm-DDA/pull/78319))
 * [MoM] Feral vitakinetics can drain your weariness ([#78314](https://github.com/CleverRaven/Cataclysm-DDA/pull/78314))
-* [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates ([#78302](https://github.com/CleverRaven/Cataclysm-DDA/pull/78302))
-* Added ownership to several places of Tacoma Commune ranch camp ([#78305](https://github.com/CleverRaven/Cataclysm-DDA/pull/78305))
 * bugfix: Allow attacking with CANNOT_MOVE flag ([#78310](https://github.com/CleverRaven/Cataclysm-DDA/pull/78310))
-* [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
