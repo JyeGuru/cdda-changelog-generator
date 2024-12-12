@@ -1,3 +1,4 @@
+* Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
 * Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
 
 ---
@@ -219,7 +220,6 @@
 * [MoM] Fix In the Zone perk ([#78319](https://github.com/CleverRaven/Cataclysm-DDA/pull/78319))
 * [MoM] Feral vitakinetics can drain your weariness ([#78314](https://github.com/CleverRaven/Cataclysm-DDA/pull/78314))
 * [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates ([#78302](https://github.com/CleverRaven/Cataclysm-DDA/pull/78302))
-* Add a domestic construction palette ([#78297](https://github.com/CleverRaven/Cataclysm-DDA/pull/78297))
 * Added ownership to several places of Tacoma Commune ranch camp ([#78305](https://github.com/CleverRaven/Cataclysm-DDA/pull/78305))
 * bugfix: Allow attacking with CANNOT_MOVE flag ([#78310](https://github.com/CleverRaven/Cataclysm-DDA/pull/78310))
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))

@@ -1,3 +1,4 @@
+* Fix executable name for notiles targets (#78498)
 * Desk fan audit (#78499)
 
 Cataclysm-DDA experimental build 2024-12-12-0330 (e10cfc1)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2024-12-07-1441 (e44a5bf)
 * [MoM] Fix In the Zone perk (#78319)
 * [MoM] Feral vitakinetics can drain your weariness (#78314)
 * [Xedra Evolved] Arvore One with the Forest + the Forest's Warning updates (#78302)
-* Add a domestic construction palette (#78297)
 * Added ownership to several places of Tacoma Commune ranch camp (#78305)
 * bugfix: Allow attacking with CANNOT_MOVE flag (#78310)
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde (#78304)
