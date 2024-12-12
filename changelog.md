@@ -1,3 +1,10 @@
+* Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-12-0330 ([e10cfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0330))
+
+* Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
 
 ---
 
@@ -181,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-12-07-1441 ([e44a5bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-1441))
 
 * DDotD's/Classic zombies' region settings -> region overlay ([#78378](https://github.com/CleverRaven/Cataclysm-DDA/pull/78378))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-07-0523 ([cfe9f6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-07-0523))
-
 * heavy lights use batteries ([#78374](https://github.com/CleverRaven/Cataclysm-DDA/pull/78374))
 * Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))
 * Convert star vampire blood-drinking attack to EoC ([#78367](https://github.com/CleverRaven/Cataclysm-DDA/pull/78367))
@@ -221,5 +223,3 @@
 * Added ownership to several places of Tacoma Commune ranch camp ([#78305](https://github.com/CleverRaven/Cataclysm-DDA/pull/78305))
 * bugfix: Allow attacking with CANNOT_MOVE flag ([#78310](https://github.com/CleverRaven/Cataclysm-DDA/pull/78310))
 * [Xedra Evolved] Add The Root of the Mountain trait for Ierde ([#78304](https://github.com/CleverRaven/Cataclysm-DDA/pull/78304))
-* [MoM] Add new `u_cancel_activity` to unlocking new power/wakeful rest ([#78292](https://github.com/CleverRaven/Cataclysm-DDA/pull/78292))
-* [Innawoods] Delays the shadow lieutenant boss spawn (and warnings) by three seasons (mid winter by default). ([#78293](https://github.com/CleverRaven/Cataclysm-DDA/pull/78293))
