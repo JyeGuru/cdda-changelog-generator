@@ -1,3 +1,4 @@
+* [MoM] Add the Font of Vitality, the tier 3 feral vitakinetic ([#78486](https://github.com/CleverRaven/Cataclysm-DDA/pull/78486))
 * Add sorting by price to weight ratio ([#78477](https://github.com/CleverRaven/Cataclysm-DDA/pull/78477))
 * [Magiclysm] Freshup up bile fix ([#78514](https://github.com/CleverRaven/Cataclysm-DDA/pull/78514))
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
@@ -181,7 +182,6 @@
 * Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
 * Build fixies ([#78385](https://github.com/CleverRaven/Cataclysm-DDA/pull/78385))
 * Switch the category of furniture items back to ``other`` ([#78369](https://github.com/CleverRaven/Cataclysm-DDA/pull/78369))
-* Adding a bong and its spawn conditions ([#78342](https://github.com/CleverRaven/Cataclysm-DDA/pull/78342))
 * DDotD's/Classic zombies' region settings -> region overlay ([#78378](https://github.com/CleverRaven/Cataclysm-DDA/pull/78378))
 * heavy lights use batteries ([#78374](https://github.com/CleverRaven/Cataclysm-DDA/pull/78374))
 * Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))
