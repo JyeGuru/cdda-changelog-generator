@@ -1,3 +1,5 @@
+* Add sorting by price to weight ratio (#78477)
+* [Magiclysm] Freshup up bile fix (#78514)
 * carcrash-new-houses-bungalows (#78521)
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. (#78516)
 * change armored gauntlets from iron to steel (#78523)
@@ -100,9 +102,6 @@ Cataclysm-DDA experimental build 2024-12-09-1553 (5ac97d0)
 * [Xedra Evolved] Moon's tears battleaxe copies from hardened steel battleaxe (#78380)
 * Naming the newspaper snippets (#78424)
 
-Cataclysm-DDA experimental build 2024-12-09-0505 (b12d4f4)
-* Stop letters spawning outside post office (#78341)
-
 Cataclysm-DDA experimental build 2024-12-09-0317 (86fcd36)
 * Set transparency cache dirty when placing a vehicle. (#78428)
 
@@ -137,6 +136,5 @@ Cataclysm-DDA experimental build 2024-12-08-2048 (3ea37bf)
 * fix schizo weapon talk (#78354)
 * Move a space into the `diamond` flag string (#78352)
 * Add Quick and Quick-NoTiles configurations to MSVC solution (#78344)
-* [DinoMod] shady rework (#78337)
 * Improve readability of skip clauses for matrix build (#78347)
 * Skip enscripten build on no-code-changes PRs (#78348)

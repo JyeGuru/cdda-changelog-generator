@@ -1,3 +1,5 @@
+* Add sorting by price to weight ratio ([#78477](https://github.com/CleverRaven/Cataclysm-DDA/pull/78477))
+* [Magiclysm] Freshup up bile fix ([#78514](https://github.com/CleverRaven/Cataclysm-DDA/pull/78514))
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. ([#78516](https://github.com/CleverRaven/Cataclysm-DDA/pull/78516))
 * change armored gauntlets from iron to steel ([#78523](https://github.com/CleverRaven/Cataclysm-DDA/pull/78523))
@@ -159,12 +161,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-12-09-0505 ([b12d4f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0505))
-
-* Stop letters spawning outside post office ([#78341](https://github.com/CleverRaven/Cataclysm-DDA/pull/78341))
-
----
-
 #### Cataclysm-DDA experimental build 2024-12-09-0317 ([86fcd36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0317))
 
 * Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
@@ -206,6 +202,5 @@
 * fix schizo weapon talk ([#78354](https://github.com/CleverRaven/Cataclysm-DDA/pull/78354))
 * Move a space into the `diamond` flag string ([#78352](https://github.com/CleverRaven/Cataclysm-DDA/pull/78352))
 * Add Quick and Quick-NoTiles configurations to MSVC solution ([#78344](https://github.com/CleverRaven/Cataclysm-DDA/pull/78344))
-* [DinoMod] shady rework ([#78337](https://github.com/CleverRaven/Cataclysm-DDA/pull/78337))
 * Improve readability of skip clauses for matrix build ([#78347](https://github.com/CleverRaven/Cataclysm-DDA/pull/78347))
 * Skip enscripten build on no-code-changes PRs ([#78348](https://github.com/CleverRaven/Cataclysm-DDA/pull/78348))
