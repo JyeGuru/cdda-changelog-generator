@@ -1,3 +1,12 @@
+* carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
+* [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. ([#78516](https://github.com/CleverRaven/Cataclysm-DDA/pull/78516))
+* change armored gauntlets from iron to steel ([#78523](https://github.com/CleverRaven/Cataclysm-DDA/pull/78523))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-13-0534 ([a1306e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-13-0534))
+
+* Prompt before oxytorch activity if you don't have enough gas ([#78432](https://github.com/CleverRaven/Cataclysm-DDA/pull/78432))
 * Update MARTIALART_JSON.md ([#78400](https://github.com/CleverRaven/Cataclysm-DDA/pull/78400))
 * Add awl quality to swiss army knife ([#78444](https://github.com/CleverRaven/Cataclysm-DDA/pull/78444))
 * Adding names to child notes ([#78494](https://github.com/CleverRaven/Cataclysm-DDA/pull/78494))
@@ -171,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-12-08-2048 ([3ea37bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-2048))
 
 * Make the grocery store use a palette ([#78425](https://github.com/CleverRaven/Cataclysm-DDA/pull/78425))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-08-1745 ([9bd8345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-1745))
-
 * Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
 * Move the mass of zombie spiders to No Hope ([#78370](https://github.com/CleverRaven/Cataclysm-DDA/pull/78370))
 * Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
@@ -193,7 +197,6 @@
 * [DinoMod] pluralize CBM dino names ([#78355](https://github.com/CleverRaven/Cataclysm-DDA/pull/78355))
 * Appliance interaction menu is no longer cut off at the bottom ([#78353](https://github.com/CleverRaven/Cataclysm-DDA/pull/78353))
 * Fix mutations with `remove_rigid` removing `INTEGRATED` armor ([#78351](https://github.com/CleverRaven/Cataclysm-DDA/pull/78351))
-* fix standing tank deconstruction ([#78333](https://github.com/CleverRaven/Cataclysm-DDA/pull/78333))
 * math: use sstream for number conversion ([#78368](https://github.com/CleverRaven/Cataclysm-DDA/pull/78368))
 * [Xedra Evolved] Reasonable Werewolf nerfs ([#78361](https://github.com/CleverRaven/Cataclysm-DDA/pull/78361))
 * Crafting GUI filter: by bodypart coverage; Add filter by layer (for crafting GUI, AIM, inventory etc.) ([#78346](https://github.com/CleverRaven/Cataclysm-DDA/pull/78346))
@@ -201,11 +204,8 @@
 * Avoid const params in declarations ([#78350](https://github.com/CleverRaven/Cataclysm-DDA/pull/78350))
 * fix weird YAML multiline truthiness issue ([#78364](https://github.com/CleverRaven/Cataclysm-DDA/pull/78364))
 * fix schizo weapon talk ([#78354](https://github.com/CleverRaven/Cataclysm-DDA/pull/78354))
-* Fixes to scores menu ([#78335](https://github.com/CleverRaven/Cataclysm-DDA/pull/78335))
 * Move a space into the `diamond` flag string ([#78352](https://github.com/CleverRaven/Cataclysm-DDA/pull/78352))
 * Add Quick and Quick-NoTiles configurations to MSVC solution ([#78344](https://github.com/CleverRaven/Cataclysm-DDA/pull/78344))
-* typified iuse & iuse_actor ([#78336](https://github.com/CleverRaven/Cataclysm-DDA/pull/78336))
 * [DinoMod] shady rework ([#78337](https://github.com/CleverRaven/Cataclysm-DDA/pull/78337))
 * Improve readability of skip clauses for matrix build ([#78347](https://github.com/CleverRaven/Cataclysm-DDA/pull/78347))
 * Skip enscripten build on no-code-changes PRs ([#78348](https://github.com/CleverRaven/Cataclysm-DDA/pull/78348))
-* Magic: bugfix spawn ethereal item effect ([#78332](https://github.com/CleverRaven/Cataclysm-DDA/pull/78332))
