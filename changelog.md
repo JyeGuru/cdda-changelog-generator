@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-13-1433 ([791bd3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-13-1433))
+
+* fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-13-0740 ([a7c5b6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-13-0740))
 
 * Wall wiring tweaks ([#78515](https://github.com/CleverRaven/Cataclysm-DDA/pull/78515))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-12-09-0317 ([86fcd36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0317))
 
 * Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-08-2245 ([b3de2db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-2245))
-
 * Make Pulp Fiction pawnshop unique ([#78418](https://github.com/CleverRaven/Cataclysm-DDA/pull/78418))
 * Make the grocery store use a palette ([#78425](https://github.com/CleverRaven/Cataclysm-DDA/pull/78425))
 * Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
@@ -198,7 +199,6 @@
 * [Xedra Evolved] Fix sylph translocate text ([#78358](https://github.com/CleverRaven/Cataclysm-DDA/pull/78358))
 * [Xedra Evolved] Fix lilit ruach draining crash ([#78356](https://github.com/CleverRaven/Cataclysm-DDA/pull/78356))
 * [DinoMod] pluralize CBM dino names ([#78355](https://github.com/CleverRaven/Cataclysm-DDA/pull/78355))
-* Appliance interaction menu is no longer cut off at the bottom ([#78353](https://github.com/CleverRaven/Cataclysm-DDA/pull/78353))
 * math: use sstream for number conversion ([#78368](https://github.com/CleverRaven/Cataclysm-DDA/pull/78368))
 * [Xedra Evolved] Reasonable Werewolf nerfs ([#78361](https://github.com/CleverRaven/Cataclysm-DDA/pull/78361))
 * Disarm Typo Fix ([#78365](https://github.com/CleverRaven/Cataclysm-DDA/pull/78365))
