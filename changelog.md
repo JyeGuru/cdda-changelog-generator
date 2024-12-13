@@ -178,11 +178,6 @@
 
 * Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
 * Move the mass of zombie spiders to No Hope ([#78370](https://github.com/CleverRaven/Cataclysm-DDA/pull/78370))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-08-1515 ([0e3cc76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-08-1515))
-
 * Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
 * Build fixies ([#78385](https://github.com/CleverRaven/Cataclysm-DDA/pull/78385))
 * Switch the category of furniture items back to ``other`` ([#78369](https://github.com/CleverRaven/Cataclysm-DDA/pull/78369))

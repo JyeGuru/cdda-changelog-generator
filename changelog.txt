@@ -109,8 +109,6 @@ Cataclysm-DDA experimental build 2024-12-08-2048 (3ea37bf)
 Cataclysm-DDA experimental build 2024-12-08-1745 (9bd8345)
 * Fix roe requirement group (#78387)
 * Move the mass of zombie spiders to No Hope (#78370)
-
-Cataclysm-DDA experimental build 2024-12-08-1515 (0e3cc76)
 * Make hiking backpack sheaths hold a single item (#78420)
 * Build fixies (#78385)
 * Switch the category of furniture items back to ``other`` (#78369)
