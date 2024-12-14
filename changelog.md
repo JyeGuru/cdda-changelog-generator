@@ -1,9 +1,17 @@
+* Remove robot spawns from military outpost ([#78443](https://github.com/CleverRaven/Cataclysm-DDA/pull/78443))
+* Replace alot of raw strings in faction_camp.cpp and make use of static const where appropriate ([#78490](https://github.com/CleverRaven/Cataclysm-DDA/pull/78490))
+* [Magiclysm] Sacrificial Regrowth / Renewing the Forest rework ([#78533](https://github.com/CleverRaven/Cataclysm-DDA/pull/78533))
+* attempt to identify randomly failed vehicle_turret_test cause ([#78540](https://github.com/CleverRaven/Cataclysm-DDA/pull/78540))
 * Update vcpkg to new mainline commit and instructions ([#78548](https://github.com/CleverRaven/Cataclysm-DDA/pull/78548))
-* No hope region settings -> region overlay ([#78375](https://github.com/CleverRaven/Cataclysm-DDA/pull/78375))
 * typified game.h and .cpp ([#78405](https://github.com/CleverRaven/Cataclysm-DDA/pull/78405))
 * Add qualities to copy-from recipes in mods ([#78536](https://github.com/CleverRaven/Cataclysm-DDA/pull/78536))
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
 * [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-12-14-0313 ([36ea6bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-12-14-0313))
+
 * Backport #77665 ([#78545](https://github.com/CleverRaven/Cataclysm-DDA/pull/78545))
 * [Magiclysm] Add PHASE_DISTANCE to Traverse the Wilds ([#78542](https://github.com/CleverRaven/Cataclysm-DDA/pull/78542))
 * [Magiclysm] Add sprite override to Spirit-Walking (+1 square of Phase Distance) ([#78541](https://github.com/CleverRaven/Cataclysm-DDA/pull/78541))
@@ -195,18 +203,10 @@
 * [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
 * [Xedra Evolved] Moon's tears battleaxe copies from hardened steel battleaxe ([#78380](https://github.com/CleverRaven/Cataclysm-DDA/pull/78380))
 * Naming the newspaper snippets ([#78424](https://github.com/CleverRaven/Cataclysm-DDA/pull/78424))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-09-0317 ([86fcd36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-0317))
-
 * Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
 * Make Pulp Fiction pawnshop unique ([#78418](https://github.com/CleverRaven/Cataclysm-DDA/pull/78418))
 * Make the grocery store use a palette ([#78425](https://github.com/CleverRaven/Cataclysm-DDA/pull/78425))
 * Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
-* Move the mass of zombie spiders to No Hope ([#78370](https://github.com/CleverRaven/Cataclysm-DDA/pull/78370))
 * Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
 * Build fixies ([#78385](https://github.com/CleverRaven/Cataclysm-DDA/pull/78385))
 * DDotD's/Classic zombies' region settings -> region overlay ([#78378](https://github.com/CleverRaven/Cataclysm-DDA/pull/78378))
-* heavy lights use batteries ([#78374](https://github.com/CleverRaven/Cataclysm-DDA/pull/78374))
-* Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))
