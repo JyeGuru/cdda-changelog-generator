@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-14-1138 (45999cb)
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag (#78560)
 * Check transforming items for consistency wrt cables (#78556)
 
@@ -132,8 +134,6 @@ Cataclysm-DDA experimental build 2024-12-10-0538 (cf7ef9b)
 * Fix recyclecenter (#78390)
 * Update COMPILER_SUPPORT.md (#78404)
 * Update HELP_MENU.md (#78397)
-
-Cataclysm-DDA experimental build 2024-12-09-1553 (5ac97d0)
 * [MoM] Add help files (#78389)
 * [MoM] Add Vitakinetic power Degenerating Touch (#78415)
 * [MoM] Eaters can't attack through walls (#78416)

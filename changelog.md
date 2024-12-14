@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-14-1138 ([45999cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-1138))
+
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag ([#78560](https://github.com/CleverRaven/Cataclysm-DDA/pull/78560))
 * Check transforming items for consistency wrt cables ([#78556](https://github.com/CleverRaven/Cataclysm-DDA/pull/78556))
 
@@ -204,11 +209,6 @@
 * Fix recyclecenter ([#78390](https://github.com/CleverRaven/Cataclysm-DDA/pull/78390))
 * Update COMPILER_SUPPORT.md ([#78404](https://github.com/CleverRaven/Cataclysm-DDA/pull/78404))
 * Update HELP_MENU.md ([#78397](https://github.com/CleverRaven/Cataclysm-DDA/pull/78397))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-09-1553 ([5ac97d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-09-1553))
-
 * [MoM] Add help files ([#78389](https://github.com/CleverRaven/Cataclysm-DDA/pull/78389))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
