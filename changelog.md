@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-14-0622 ([eba840f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-0622))
+
 * Remove robot spawns from military outpost ([#78443](https://github.com/CleverRaven/Cataclysm-DDA/pull/78443))
 * Replace alot of raw strings in faction_camp.cpp and make use of static const where appropriate ([#78490](https://github.com/CleverRaven/Cataclysm-DDA/pull/78490))
 * [Magiclysm] Sacrificial Regrowth / Renewing the Forest rework ([#78533](https://github.com/CleverRaven/Cataclysm-DDA/pull/78533))
