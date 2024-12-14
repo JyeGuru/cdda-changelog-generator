@@ -1,3 +1,5 @@
+* cataimgui::TextColoredParagraph can now handle a < followed by a tag ([#78560](https://github.com/CleverRaven/Cataclysm-DDA/pull/78560))
+* Check transforming items for consistency wrt cables ([#78556](https://github.com/CleverRaven/Cataclysm-DDA/pull/78556))
 
 ---
 
@@ -193,7 +195,6 @@
 
 * Fix typo in 'f_empty_spike' bash drops ([#78451](https://github.com/CleverRaven/Cataclysm-DDA/pull/78451))
 * Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
-* Structure Damage: Car Crashes, initial implementation ([#78382](https://github.com/CleverRaven/Cataclysm-DDA/pull/78382))
 * Lore tab tweaks ([#78413](https://github.com/CleverRaven/Cataclysm-DDA/pull/78413))
 * Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
 * fix checks for charges in EoC, excluding items with flags that do not have own charges ([#78427](https://github.com/CleverRaven/Cataclysm-DDA/pull/78427))
@@ -212,7 +213,6 @@
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
 * [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
-* [Xedra Evolved] Moon's tears battleaxe copies from hardened steel battleaxe ([#78380](https://github.com/CleverRaven/Cataclysm-DDA/pull/78380))
 * Naming the newspaper snippets ([#78424](https://github.com/CleverRaven/Cataclysm-DDA/pull/78424))
 * Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
 * Make Pulp Fiction pawnshop unique ([#78418](https://github.com/CleverRaven/Cataclysm-DDA/pull/78418))
