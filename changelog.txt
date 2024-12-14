@@ -1,3 +1,4 @@
+* Rename the zombie llama, reword hospitalized human description (#78563)
 
 Cataclysm-DDA experimental build 2024-12-14-1138 (45999cb)
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag (#78560)
@@ -89,7 +90,6 @@ Cataclysm-DDA experimental build 2024-12-11-0835 (653a131)
 * [Magiclysm] Reduce zombie dwarves' speed (#78485)
 * Migrate popups in pocket settings menu to ImGui (#78453)
 * combine snippets into single array (#78464)
-* Crafting GUI: Filter recipes by what can fit into the result (longest_side, volume, mass) (#78384)
 * Make barter / volume sorting account for stack size (#78475)
 * Fix emscripten build referencing deleted resource folder. (#78478)
 

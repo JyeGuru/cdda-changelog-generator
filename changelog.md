@@ -1,3 +1,4 @@
+* Rename the zombie llama, reword hospitalized human description ([#78563](https://github.com/CleverRaven/Cataclysm-DDA/pull/78563))
 
 ---
 
@@ -137,7 +138,6 @@
 * [Magiclysm] Reduce zombie dwarves' speed ([#78485](https://github.com/CleverRaven/Cataclysm-DDA/pull/78485))
 * Migrate popups in pocket settings menu to ImGui ([#78453](https://github.com/CleverRaven/Cataclysm-DDA/pull/78453))
 * combine snippets into single array ([#78464](https://github.com/CleverRaven/Cataclysm-DDA/pull/78464))
-* Crafting GUI: Filter recipes by what can fit into the result (longest_side, volume, mass) ([#78384](https://github.com/CleverRaven/Cataclysm-DDA/pull/78384))
 * Make barter / volume sorting account for stack size ([#78475](https://github.com/CleverRaven/Cataclysm-DDA/pull/78475))
 * Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
 
