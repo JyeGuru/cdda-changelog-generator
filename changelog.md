@@ -203,4 +203,3 @@
 * [Xedra Evolved] Reasonable Werewolf nerfs ([#78361](https://github.com/CleverRaven/Cataclysm-DDA/pull/78361))
 * Disarm Typo Fix ([#78365](https://github.com/CleverRaven/Cataclysm-DDA/pull/78365))
 * fix weird YAML multiline truthiness issue ([#78364](https://github.com/CleverRaven/Cataclysm-DDA/pull/78364))
-* fix schizo weapon talk ([#78354](https://github.com/CleverRaven/Cataclysm-DDA/pull/78354))
