@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-14-0905 (36bc580)
+* Add missing <cwctype> header (#78558)
+
 Cataclysm-DDA experimental build 2024-12-14-0622 (eba840f)
 * Remove robot spawns from military outpost (#78443)
 * Replace alot of raw strings in faction_camp.cpp and make use of static const where appropriate (#78490)
@@ -142,4 +145,3 @@ Cataclysm-DDA experimental build 2024-12-09-1553 (5ac97d0)
 * Fix roe requirement group (#78387)
 * Make hiking backpack sheaths hold a single item (#78420)
 * Build fixies (#78385)
-* DDotD's/Classic zombies' region settings -> region overlay (#78378)

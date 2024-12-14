@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-14-0905 ([36bc580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-0905))
+
+* Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-14-0622 ([eba840f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-0622))
 
 * Remove robot spawns from military outpost ([#78443](https://github.com/CleverRaven/Cataclysm-DDA/pull/78443))
@@ -214,4 +220,3 @@
 * Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
 * Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
 * Build fixies ([#78385](https://github.com/CleverRaven/Cataclysm-DDA/pull/78385))
-* DDotD's/Classic zombies' region settings -> region overlay ([#78378](https://github.com/CleverRaven/Cataclysm-DDA/pull/78378))
