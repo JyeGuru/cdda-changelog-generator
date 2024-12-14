@@ -1,3 +1,10 @@
+* Fix selected item name not being visible in some menus ([#78398](https://github.com/CleverRaven/Cataclysm-DDA/pull/78398))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-14-1419 ([0974229](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-1419))
+
+* Update COMPILING-VS-VCPKG.md ([#78561](https://github.com/CleverRaven/Cataclysm-DDA/pull/78561))
 * Rename the zombie llama, reword hospitalized human description ([#78563](https://github.com/CleverRaven/Cataclysm-DDA/pull/78563))
 
 ---
@@ -217,6 +224,4 @@
 * Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
 * Make Pulp Fiction pawnshop unique ([#78418](https://github.com/CleverRaven/Cataclysm-DDA/pull/78418))
 * Make the grocery store use a palette ([#78425](https://github.com/CleverRaven/Cataclysm-DDA/pull/78425))
-* Fix roe requirement group ([#78387](https://github.com/CleverRaven/Cataclysm-DDA/pull/78387))
 * Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
-* Build fixies ([#78385](https://github.com/CleverRaven/Cataclysm-DDA/pull/78385))

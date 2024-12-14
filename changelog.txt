@@ -1,3 +1,7 @@
+* Fix selected item name not being visible in some menus (#78398)
+
+Cataclysm-DDA experimental build 2024-12-14-1419 (0974229)
+* Update COMPILING-VS-VCPKG.md (#78561)
 * Rename the zombie llama, reword hospitalized human description (#78563)
 
 Cataclysm-DDA experimental build 2024-12-14-1138 (45999cb)
@@ -142,6 +146,4 @@ Cataclysm-DDA experimental build 2024-12-10-0538 (cf7ef9b)
 * Set transparency cache dirty when placing a vehicle. (#78428)
 * Make Pulp Fiction pawnshop unique (#78418)
 * Make the grocery store use a palette (#78425)
-* Fix roe requirement group (#78387)
 * Make hiking backpack sheaths hold a single item (#78420)
-* Build fixies (#78385)
