@@ -1,3 +1,21 @@
+* Update vcpkg to new mainline commit and instructions ([#78548](https://github.com/CleverRaven/Cataclysm-DDA/pull/78548))
+* No hope region settings -> region overlay ([#78375](https://github.com/CleverRaven/Cataclysm-DDA/pull/78375))
+* typified game.h and .cpp ([#78405](https://github.com/CleverRaven/Cataclysm-DDA/pull/78405))
+* Add qualities to copy-from recipes in mods ([#78536](https://github.com/CleverRaven/Cataclysm-DDA/pull/78536))
+* use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
+* [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
+* Backport #77665 ([#78545](https://github.com/CleverRaven/Cataclysm-DDA/pull/78545))
+* [Magiclysm] Add PHASE_DISTANCE to Traverse the Wilds ([#78542](https://github.com/CleverRaven/Cataclysm-DDA/pull/78542))
+* [Magiclysm] Add sprite override to Spirit-Walking (+1 square of Phase Distance) ([#78541](https://github.com/CleverRaven/Cataclysm-DDA/pull/78541))
+* Fix Megastore Parking OMT Obsoletion ([#78538](https://github.com/CleverRaven/Cataclysm-DDA/pull/78538))
+* [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
+* [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-14-0223 ([9962573](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-0223))
+
+* A bunch of random density fixes ([#78501](https://github.com/CleverRaven/Cataclysm-DDA/pull/78501))
 
 ---
 
@@ -189,17 +207,6 @@
 * Move the mass of zombie spiders to No Hope ([#78370](https://github.com/CleverRaven/Cataclysm-DDA/pull/78370))
 * Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
 * Build fixies ([#78385](https://github.com/CleverRaven/Cataclysm-DDA/pull/78385))
-* Switch the category of furniture items back to ``other`` ([#78369](https://github.com/CleverRaven/Cataclysm-DDA/pull/78369))
 * DDotD's/Classic zombies' region settings -> region overlay ([#78378](https://github.com/CleverRaven/Cataclysm-DDA/pull/78378))
 * heavy lights use batteries ([#78374](https://github.com/CleverRaven/Cataclysm-DDA/pull/78374))
 * Fix invalid dereference of empty pre_terrain end iterator ([#78372](https://github.com/CleverRaven/Cataclysm-DDA/pull/78372))
-* Convert star vampire blood-drinking attack to EoC ([#78367](https://github.com/CleverRaven/Cataclysm-DDA/pull/78367))
-* [Xedra Evolved] Add Viridescent Vessel spell to Arvore ([#78359](https://github.com/CleverRaven/Cataclysm-DDA/pull/78359))
-* typified half of game.h ([#78357](https://github.com/CleverRaven/Cataclysm-DDA/pull/78357))
-* [Xedra Evolved] Fix sylph translocate text ([#78358](https://github.com/CleverRaven/Cataclysm-DDA/pull/78358))
-* [Xedra Evolved] Fix lilit ruach draining crash ([#78356](https://github.com/CleverRaven/Cataclysm-DDA/pull/78356))
-* [DinoMod] pluralize CBM dino names ([#78355](https://github.com/CleverRaven/Cataclysm-DDA/pull/78355))
-* math: use sstream for number conversion ([#78368](https://github.com/CleverRaven/Cataclysm-DDA/pull/78368))
-* [Xedra Evolved] Reasonable Werewolf nerfs ([#78361](https://github.com/CleverRaven/Cataclysm-DDA/pull/78361))
-* Disarm Typo Fix ([#78365](https://github.com/CleverRaven/Cataclysm-DDA/pull/78365))
-* fix weird YAML multiline truthiness issue ([#78364](https://github.com/CleverRaven/Cataclysm-DDA/pull/78364))
