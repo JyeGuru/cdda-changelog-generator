@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-12-10-1441 ([5fdef02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1441))
 
 * Fix the last mention of tier 4 vampirism being described as unobtainable ([#78458](https://github.com/CleverRaven/Cataclysm-DDA/pull/78458))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-10-1201 ([12a9782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1201))
-
 * Relaxing with Alonso is now fun ([#78457](https://github.com/CleverRaven/Cataclysm-DDA/pull/78457))
 * Explicitly instantiate ~relic() for compile time win. ([#78461](https://github.com/CleverRaven/Cataclysm-DDA/pull/78461))
 * Add cut pepper byproduct to bell pepper & chili pepper seeds recipes ([#78449](https://github.com/CleverRaven/Cataclysm-DDA/pull/78449))
