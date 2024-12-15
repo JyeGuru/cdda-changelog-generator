@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-15-0831 ([7acb286](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-0831))
+
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
 
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-12-10-1632 ([ff1d0cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1632))
 
 * [Xedra Evolved] Add Exhalation of Ashes spell to salamanders ([#78446](https://github.com/CleverRaven/Cataclysm-DDA/pull/78446))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-10-1441 ([5fdef02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1441))
-
 * Fix the last mention of tier 4 vampirism being described as unobtainable ([#78458](https://github.com/CleverRaven/Cataclysm-DDA/pull/78458))
 * Relaxing with Alonso is now fun ([#78457](https://github.com/CleverRaven/Cataclysm-DDA/pull/78457))
 * Explicitly instantiate ~relic() for compile time win. ([#78461](https://github.com/CleverRaven/Cataclysm-DDA/pull/78461))

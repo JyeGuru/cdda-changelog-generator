@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-15-0831 (7acb286)
 * filter: use the O(log(n)) instead of O(n) method (#78569)
 * Jewelry store fix and terrain pruning (#78578)
 
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-12-10-1825 (52e00eb)
 
 Cataclysm-DDA experimental build 2024-12-10-1632 (ff1d0cd)
 * [Xedra Evolved] Add Exhalation of Ashes spell to salamanders (#78446)
-
-Cataclysm-DDA experimental build 2024-12-10-1441 (5fdef02)
 * Fix the last mention of tier 4 vampirism being described as unobtainable (#78458)
 * Relaxing with Alonso is now fun (#78457)
 * Explicitly instantiate ~relic() for compile time win. (#78461)
