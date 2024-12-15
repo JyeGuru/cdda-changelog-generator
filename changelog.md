@@ -1,3 +1,4 @@
+* filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
 
 ---
