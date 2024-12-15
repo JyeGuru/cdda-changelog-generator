@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-15-1729 ([7cef5e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-1729))
+
+* android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-15-0831 ([7acb286](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-0831))
 
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-12-10-1825 ([52e00eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1825))
 
 * [Magiclysm] Add Mind Crush spell ([#78450](https://github.com/CleverRaven/Cataclysm-DDA/pull/78450))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-10-1632 ([ff1d0cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1632))
-
 * [Xedra Evolved] Add Exhalation of Ashes spell to salamanders ([#78446](https://github.com/CleverRaven/Cataclysm-DDA/pull/78446))
 * Fix the last mention of tier 4 vampirism being described as unobtainable ([#78458](https://github.com/CleverRaven/Cataclysm-DDA/pull/78458))
 * Relaxing with Alonso is now fun ([#78457](https://github.com/CleverRaven/Cataclysm-DDA/pull/78457))
@@ -212,7 +213,6 @@
 * Throw an error when you do [ max, min ] instead of [ min, max ] ([#78403](https://github.com/CleverRaven/Cataclysm-DDA/pull/78403))
 * Fix #78383 Cellphones can't be charged ([#78399](https://github.com/CleverRaven/Cataclysm-DDA/pull/78399))
 * Update COMPILER_SUPPORT.md ([#78404](https://github.com/CleverRaven/Cataclysm-DDA/pull/78404))
-* Update HELP_MENU.md ([#78397](https://github.com/CleverRaven/Cataclysm-DDA/pull/78397))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
 * [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
