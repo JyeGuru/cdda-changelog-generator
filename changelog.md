@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-12-15-0412 ([c26c229](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-12-15-0412))
+
 * Fix Backport #77665 ([#78568](https://github.com/CleverRaven/Cataclysm-DDA/pull/78568))
 
 ---
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2024-12-10-1201 ([12a9782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1201))
 
 * Relaxing with Alonso is now fun ([#78457](https://github.com/CleverRaven/Cataclysm-DDA/pull/78457))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-10-1008 ([237ae0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1008))
-
 * Explicitly instantiate ~relic() for compile time win. ([#78461](https://github.com/CleverRaven/Cataclysm-DDA/pull/78461))
 * Add cut pepper byproduct to bell pepper & chili pepper seeds recipes ([#78449](https://github.com/CleverRaven/Cataclysm-DDA/pull/78449))
 * Add cut produce to more recipes ([#78454](https://github.com/CleverRaven/Cataclysm-DDA/pull/78454))

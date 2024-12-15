@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.H release candidate 2024-12-15-0412 (c26c229)
 * Fix Backport #77665 (#78568)
 
 Cataclysm-DDA experimental build 2024-12-15-0250 (fcbcd0b)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2024-12-10-1441 (5fdef02)
 
 Cataclysm-DDA experimental build 2024-12-10-1201 (12a9782)
 * Relaxing with Alonso is now fun (#78457)
-
-Cataclysm-DDA experimental build 2024-12-10-1008 (237ae0e)
 * Explicitly instantiate ~relic() for compile time win. (#78461)
 * Add cut pepper byproduct to bell pepper & chili pepper seeds recipes (#78449)
 * Add cut produce to more recipes (#78454)
