@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-12-15-0250 (fcbcd0b)
+* Routine i18n updates on 14 December 2024 (#78555)
 * Fix selected item name not being visible in some menus (#78398)
 
 Cataclysm-DDA experimental build 2024-12-14-1419 (0974229)
@@ -136,7 +139,6 @@ Cataclysm-DDA experimental build 2024-12-10-1008 (237ae0e)
 * Fix recyclecenter (#78390)
 * Update COMPILER_SUPPORT.md (#78404)
 * Update HELP_MENU.md (#78397)
-* [MoM] Add help files (#78389)
 * [MoM] Add Vitakinetic power Degenerating Touch (#78415)
 * [MoM] Eaters can't attack through walls (#78416)
 * [Xedra Evolved] Fix ierde faction relations (#78417)

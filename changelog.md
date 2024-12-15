@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-15-0250 ([fcbcd0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-0250))
+
+* Routine i18n updates on 14 December 2024 ([#78555](https://github.com/CleverRaven/Cataclysm-DDA/pull/78555))
 * Fix selected item name not being visible in some menus ([#78398](https://github.com/CleverRaven/Cataclysm-DDA/pull/78398))
 
 ---
@@ -211,7 +217,6 @@
 * Fix recyclecenter ([#78390](https://github.com/CleverRaven/Cataclysm-DDA/pull/78390))
 * Update COMPILER_SUPPORT.md ([#78404](https://github.com/CleverRaven/Cataclysm-DDA/pull/78404))
 * Update HELP_MENU.md ([#78397](https://github.com/CleverRaven/Cataclysm-DDA/pull/78397))
-* [MoM] Add help files ([#78389](https://github.com/CleverRaven/Cataclysm-DDA/pull/78389))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
 * [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
