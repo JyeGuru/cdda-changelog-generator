@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-15-1943 ([9dfe80e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-1943))
+
 * Fix vehicle_turret test ([#78567](https://github.com/CleverRaven/Cataclysm-DDA/pull/78567))
 * [Magiclysm/Innawood] Add the giant trees as points of interest (sans druid base) ([#78534](https://github.com/CleverRaven/Cataclysm-DDA/pull/78534))
 
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-12-11-0207 ([77f981a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-0207))
 
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices ([#78470](https://github.com/CleverRaven/Cataclysm-DDA/pull/78470))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-10-1825 ([52e00eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-10-1825))
-
 * [Magiclysm] Add Mind Crush spell ([#78450](https://github.com/CleverRaven/Cataclysm-DDA/pull/78450))
 * [Xedra Evolved] Add Exhalation of Ashes spell to salamanders ([#78446](https://github.com/CleverRaven/Cataclysm-DDA/pull/78446))
 * Fix the last mention of tier 4 vampirism being described as unobtainable ([#78458](https://github.com/CleverRaven/Cataclysm-DDA/pull/78458))
