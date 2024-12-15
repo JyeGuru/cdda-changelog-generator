@@ -121,8 +121,6 @@ Cataclysm-DDA experimental build 2024-12-11-0610 (1684d63)
 Cataclysm-DDA experimental build 2024-12-11-0401 (4049f3e)
 * [MoM] Psi passives turn off if you can't use psionics (#78447)
 * Allow color replacements in cataimgui (#78462)
-
-Cataclysm-DDA experimental build 2024-12-11-0207 (77f981a)
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices (#78470)
 * [Magiclysm] Add Mind Crush spell (#78450)
 * [Xedra Evolved] Add Exhalation of Ashes spell to salamanders (#78446)
