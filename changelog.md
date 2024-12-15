@@ -1,3 +1,4 @@
+* Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
 * Pruning the old ``to-hit`` syntax - Part 14 ([#78564](https://github.com/CleverRaven/Cataclysm-DDA/pull/78564))
 * [Xedra Evolved] Add Time Related Monsters ([#78579](https://github.com/CleverRaven/Cataclysm-DDA/pull/78579))
 * [Magiclysm] Rework Wildshape cloaks ([#78550](https://github.com/CleverRaven/Cataclysm-DDA/pull/78550))
@@ -63,7 +64,6 @@
 * [Magiclysm] Sacrificial Regrowth / Renewing the Forest rework ([#78533](https://github.com/CleverRaven/Cataclysm-DDA/pull/78533))
 * attempt to identify randomly failed vehicle_turret_test cause ([#78540](https://github.com/CleverRaven/Cataclysm-DDA/pull/78540))
 * Update vcpkg to new mainline commit and instructions ([#78548](https://github.com/CleverRaven/Cataclysm-DDA/pull/78548))
-* typified game.h and .cpp ([#78405](https://github.com/CleverRaven/Cataclysm-DDA/pull/78405))
 * Add qualities to copy-from recipes in mods ([#78536](https://github.com/CleverRaven/Cataclysm-DDA/pull/78536))
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
 * [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
