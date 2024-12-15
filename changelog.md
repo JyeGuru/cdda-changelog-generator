@@ -1,3 +1,5 @@
+* Fix vehicle_turret test ([#78567](https://github.com/CleverRaven/Cataclysm-DDA/pull/78567))
+* [Magiclysm/Innawood] Add the giant trees as points of interest (sans druid base) ([#78534](https://github.com/CleverRaven/Cataclysm-DDA/pull/78534))
 
 ---
 
@@ -23,7 +25,6 @@
 #### Cataclysm-DDA experimental build 2024-12-15-0250 ([fcbcd0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-0250))
 
 * Routine i18n updates on 14 December 2024 ([#78555](https://github.com/CleverRaven/Cataclysm-DDA/pull/78555))
-* Fix selected item name not being visible in some menus ([#78398](https://github.com/CleverRaven/Cataclysm-DDA/pull/78398))
 
 ---
 
@@ -211,7 +212,6 @@
 * Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
 * fix checks for charges in EoC, excluding items with flags that do not have own charges ([#78427](https://github.com/CleverRaven/Cataclysm-DDA/pull/78427))
 * Throw an error when you do [ max, min ] instead of [ min, max ] ([#78403](https://github.com/CleverRaven/Cataclysm-DDA/pull/78403))
-* Fix #78383 Cellphones can't be charged ([#78399](https://github.com/CleverRaven/Cataclysm-DDA/pull/78399))
 * Update COMPILER_SUPPORT.md ([#78404](https://github.com/CleverRaven/Cataclysm-DDA/pull/78404))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
