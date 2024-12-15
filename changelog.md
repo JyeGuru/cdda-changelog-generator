@@ -1,3 +1,4 @@
+* [Magiclysm] Rework Wildshape cloaks ([#78550](https://github.com/CleverRaven/Cataclysm-DDA/pull/78550))
 
 ---
 
@@ -111,7 +112,6 @@
 #### Cataclysm-DDA experimental build 2024-12-13-0534 ([a1306e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-13-0534))
 
 * Prompt before oxytorch activity if you don't have enough gas ([#78432](https://github.com/CleverRaven/Cataclysm-DDA/pull/78432))
-* Update MARTIALART_JSON.md ([#78400](https://github.com/CleverRaven/Cataclysm-DDA/pull/78400))
 * Add awl quality to swiss army knife ([#78444](https://github.com/CleverRaven/Cataclysm-DDA/pull/78444))
 * Adding names to child notes ([#78494](https://github.com/CleverRaven/Cataclysm-DDA/pull/78494))
 * [Magiclysm] Rock trolls actually turn to stone ([#78510](https://github.com/CleverRaven/Cataclysm-DDA/pull/78510))
