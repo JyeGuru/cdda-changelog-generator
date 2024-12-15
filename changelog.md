@@ -1,3 +1,4 @@
+* Fix Backport #77665 ([#78568](https://github.com/CleverRaven/Cataclysm-DDA/pull/78568))
 
 ---
 
@@ -214,7 +215,6 @@
 * Throw an error when you do [ max, min ] instead of [ min, max ] ([#78403](https://github.com/CleverRaven/Cataclysm-DDA/pull/78403))
 * Fix #78383 Cellphones can't be charged ([#78399](https://github.com/CleverRaven/Cataclysm-DDA/pull/78399))
 * Make black box always retrievable ([#78395](https://github.com/CleverRaven/Cataclysm-DDA/pull/78395))
-* Fix recyclecenter ([#78390](https://github.com/CleverRaven/Cataclysm-DDA/pull/78390))
 * Update COMPILER_SUPPORT.md ([#78404](https://github.com/CleverRaven/Cataclysm-DDA/pull/78404))
 * Update HELP_MENU.md ([#78397](https://github.com/CleverRaven/Cataclysm-DDA/pull/78397))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))

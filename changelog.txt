@@ -1,3 +1,4 @@
+* Fix Backport #77665 (#78568)
 
 Cataclysm-DDA experimental build 2024-12-15-0250 (fcbcd0b)
 * Routine i18n updates on 14 December 2024 (#78555)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2024-12-10-1008 (237ae0e)
 * Throw an error when you do [ max, min ] instead of [ min, max ] (#78403)
 * Fix #78383 Cellphones can't be charged (#78399)
 * Make black box always retrievable (#78395)
-* Fix recyclecenter (#78390)
 * Update COMPILER_SUPPORT.md (#78404)
 * Update HELP_MENU.md (#78397)
 * [MoM] Add Vitakinetic power Degenerating Touch (#78415)
