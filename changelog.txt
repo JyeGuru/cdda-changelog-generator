@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-12-16-1602 (e26a6c5)
+* Fix displaying of stats for ablative armor (#78590)
 * Add a note about skill rust in FMS (#78512)
 
 Cataclysm-DDA experimental build 2024-12-16-0517 (6133c56)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2024-12-12-0330 (e10cfc1)
 
 Cataclysm-DDA experimental build 2024-12-11-1916 (45a6633)
 * Weekly Changelog 2024-12-02 to 2024-12-09 (#78437)
-
-Cataclysm-DDA experimental build 2024-12-11-0835 (653a131)
 * Additional info for batteries and electricity document (#78440)
 * Use enums instead of bool for ImGui::BeginChild (#78487)
 * [Magiclysm] Ravenfolk tweaks (#78484)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-12-11-0835 (653a131)
 * Fix ASAN error in limb test. (#78452)
 * Microlab glass walls and door should break into reinf concrete floor (#78421)
 * fix checks for charges in EoC, excluding items with flags that do not have own charges (#78427)
-* [MoM] Add Vitakinetic power Degenerating Touch (#78415)
 * [MoM] Eaters can't attack through walls (#78416)
 * [Xedra Evolved] Fix ierde faction relations (#78417)
 * Naming the newspaper snippets (#78424)

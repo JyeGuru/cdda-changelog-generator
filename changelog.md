@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-16-1602 ([e26a6c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-1602))
+
+* Fix displaying of stats for ablative armor ([#78590](https://github.com/CleverRaven/Cataclysm-DDA/pull/78590))
 * Add a note about skill rust in FMS ([#78512](https://github.com/CleverRaven/Cataclysm-DDA/pull/78512))
 
 ---
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-12-11-1916 ([45a6633](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-1916))
 
 * Weekly Changelog 2024-12-02 to 2024-12-09 ([#78437](https://github.com/CleverRaven/Cataclysm-DDA/pull/78437))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-11-0835 ([653a131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-0835))
-
 * Additional info for batteries and electricity document ([#78440](https://github.com/CleverRaven/Cataclysm-DDA/pull/78440))
 * Use enums instead of bool for ImGui::BeginChild ([#78487](https://github.com/CleverRaven/Cataclysm-DDA/pull/78487))
 * [Magiclysm] Ravenfolk tweaks ([#78484](https://github.com/CleverRaven/Cataclysm-DDA/pull/78484))
@@ -203,7 +204,6 @@
 * Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
 * Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
 * fix checks for charges in EoC, excluding items with flags that do not have own charges ([#78427](https://github.com/CleverRaven/Cataclysm-DDA/pull/78427))
-* [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))
 * [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
 * [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
 * Naming the newspaper snippets ([#78424](https://github.com/CleverRaven/Cataclysm-DDA/pull/78424))
