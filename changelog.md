@@ -1,3 +1,10 @@
+* Add a note about skill rust in FMS ([#78512](https://github.com/CleverRaven/Cataclysm-DDA/pull/78512))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-16-0517 ([6133c56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-0517))
+
+* allow open cardboard door to be closed ([#78595](https://github.com/CleverRaven/Cataclysm-DDA/pull/78595))
 * Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
 * Pruning the old ``to-hit`` syntax - Part 14 ([#78564](https://github.com/CleverRaven/Cataclysm-DDA/pull/78564))
 * [Xedra Evolved] Add Time Related Monsters ([#78579](https://github.com/CleverRaven/Cataclysm-DDA/pull/78579))
@@ -158,7 +165,6 @@
 #### Cataclysm-DDA experimental build 2024-12-12-0330 ([e10cfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0330))
 
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
-* Update Gentoo dependencies ([#78412](https://github.com/CleverRaven/Cataclysm-DDA/pull/78412))
 
 ---
 
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-12-11-0610 ([1684d63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-0610))
 
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-11-0401 ([4049f3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-0401))
-
 * [MoM] Psi passives turn off if you can't use psionics ([#78447](https://github.com/CleverRaven/Cataclysm-DDA/pull/78447))
 * Allow color replacements in cataimgui ([#78462](https://github.com/CleverRaven/Cataclysm-DDA/pull/78462))
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices ([#78470](https://github.com/CleverRaven/Cataclysm-DDA/pull/78470))
@@ -205,7 +206,6 @@
 * Categorically fix type issues with restore_on_out_of_scope ([#78460](https://github.com/CleverRaven/Cataclysm-DDA/pull/78460))
 * Fix typo in 'f_empty_spike' bash drops ([#78451](https://github.com/CleverRaven/Cataclysm-DDA/pull/78451))
 * Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
-* Lore tab tweaks ([#78413](https://github.com/CleverRaven/Cataclysm-DDA/pull/78413))
 * Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
 * fix checks for charges in EoC, excluding items with flags that do not have own charges ([#78427](https://github.com/CleverRaven/Cataclysm-DDA/pull/78427))
 * [MoM] Add Vitakinetic power Degenerating Touch ([#78415](https://github.com/CleverRaven/Cataclysm-DDA/pull/78415))

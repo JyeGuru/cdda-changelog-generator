@@ -1,3 +1,7 @@
+* Add a note about skill rust in FMS (#78512)
+
+Cataclysm-DDA experimental build 2024-12-16-0517 (6133c56)
+* allow open cardboard door to be closed (#78595)
 * Bump ccaches 50% (#78591)
 * Pruning the old ``to-hit`` syntax - Part 14 (#78564)
 * [Xedra Evolved] Add Time Related Monsters (#78579)
@@ -98,7 +102,6 @@ Cataclysm-DDA experimental build 2024-12-12-0522 (ce7d69c)
 
 Cataclysm-DDA experimental build 2024-12-12-0330 (e10cfc1)
 * Migrate martial arts details window to imgui (#78497)
-* Update Gentoo dependencies (#78412)
 
 Cataclysm-DDA experimental build 2024-12-11-1916 (45a6633)
 * Weekly Changelog 2024-12-02 to 2024-12-09 (#78437)
@@ -117,8 +120,6 @@ Cataclysm-DDA experimental build 2024-12-11-0835 (653a131)
 
 Cataclysm-DDA experimental build 2024-12-11-0610 (1684d63)
 * Fix issue with bashing satalight dish and negative noise (#78482)
-
-Cataclysm-DDA experimental build 2024-12-11-0401 (4049f3e)
 * [MoM] Psi passives turn off if you can't use psionics (#78447)
 * Allow color replacements in cataimgui (#78462)
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices (#78470)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2024-12-11-0401 (4049f3e)
 * Categorically fix type issues with restore_on_out_of_scope (#78460)
 * Fix typo in 'f_empty_spike' bash drops (#78451)
 * Fix ASAN error in limb test. (#78452)
-* Lore tab tweaks (#78413)
 * Microlab glass walls and door should break into reinf concrete floor (#78421)
 * fix checks for charges in EoC, excluding items with flags that do not have own charges (#78427)
 * [MoM] Add Vitakinetic power Degenerating Touch (#78415)
