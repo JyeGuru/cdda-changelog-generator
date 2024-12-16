@@ -186,11 +186,6 @@
 * combine snippets into single array ([#78464](https://github.com/CleverRaven/Cataclysm-DDA/pull/78464))
 * Make barter / volume sorting account for stack size ([#78475](https://github.com/CleverRaven/Cataclysm-DDA/pull/78475))
 * Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-11-0610 ([1684d63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-0610))
-
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
 * [MoM] Psi passives turn off if you can't use psionics ([#78447](https://github.com/CleverRaven/Cataclysm-DDA/pull/78447))
 * Allow color replacements in cataimgui ([#78462](https://github.com/CleverRaven/Cataclysm-DDA/pull/78462))
