@@ -1,3 +1,12 @@
+* New car for dwarves ([#78507](https://github.com/CleverRaven/Cataclysm-DDA/pull/78507))
+* Fix wrapping in ma details menu ([#78511](https://github.com/CleverRaven/Cataclysm-DDA/pull/78511))
+* [Magiclysm] Some spell tweaks ([#78586](https://github.com/CleverRaven/Cataclysm-DDA/pull/78586))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-16-2025 ([8ee7e77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-2025))
+
+* [Magiclysm] Progressive Difficulty reduction the more spells of that school you know ([#78602](https://github.com/CleverRaven/Cataclysm-DDA/pull/78602))
 
 ---
 
@@ -204,10 +213,6 @@
 * Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
 * Microlab glass walls and door should break into reinf concrete floor ([#78421](https://github.com/CleverRaven/Cataclysm-DDA/pull/78421))
 * fix checks for charges in EoC, excluding items with flags that do not have own charges ([#78427](https://github.com/CleverRaven/Cataclysm-DDA/pull/78427))
-* [MoM] Eaters can't attack through walls ([#78416](https://github.com/CleverRaven/Cataclysm-DDA/pull/78416))
-* [Xedra Evolved] Fix ierde faction relations ([#78417](https://github.com/CleverRaven/Cataclysm-DDA/pull/78417))
 * Naming the newspaper snippets ([#78424](https://github.com/CleverRaven/Cataclysm-DDA/pull/78424))
 * Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
-* Make Pulp Fiction pawnshop unique ([#78418](https://github.com/CleverRaven/Cataclysm-DDA/pull/78418))
 * Make the grocery store use a palette ([#78425](https://github.com/CleverRaven/Cataclysm-DDA/pull/78425))
-* Make hiking backpack sheaths hold a single item ([#78420](https://github.com/CleverRaven/Cataclysm-DDA/pull/78420))
