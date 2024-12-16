@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-16-2220 ([e4f5f67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-2220))
+
 * New car for dwarves ([#78507](https://github.com/CleverRaven/Cataclysm-DDA/pull/78507))
 * Fix wrapping in ma details menu ([#78511](https://github.com/CleverRaven/Cataclysm-DDA/pull/78511))
 * [Magiclysm] Some spell tweaks ([#78586](https://github.com/CleverRaven/Cataclysm-DDA/pull/78586))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-12-12-0330 ([e10cfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0330))
 
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-11-1916 ([45a6633](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-11-1916))
-
 * Weekly Changelog 2024-12-02 to 2024-12-09 ([#78437](https://github.com/CleverRaven/Cataclysm-DDA/pull/78437))
 * Additional info for batteries and electricity document ([#78440](https://github.com/CleverRaven/Cataclysm-DDA/pull/78440))
 * Use enums instead of bool for ImGui::BeginChild ([#78487](https://github.com/CleverRaven/Cataclysm-DDA/pull/78487))

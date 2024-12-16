@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-16-2220 (e4f5f67)
 * New car for dwarves (#78507)
 * Fix wrapping in ma details menu (#78511)
 * [Magiclysm] Some spell tweaks (#78586)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2024-12-12-0522 (ce7d69c)
 
 Cataclysm-DDA experimental build 2024-12-12-0330 (e10cfc1)
 * Migrate martial arts details window to imgui (#78497)
-
-Cataclysm-DDA experimental build 2024-12-11-1916 (45a6633)
 * Weekly Changelog 2024-12-02 to 2024-12-09 (#78437)
 * Additional info for batteries and electricity document (#78440)
 * Use enums instead of bool for ImGui::BeginChild (#78487)
