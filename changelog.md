@@ -1,3 +1,10 @@
+* Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-17-1607 ([669e5e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-1607))
+
+* Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))
 
 ---
 
@@ -182,14 +189,8 @@
 * [MoM] Add `mon_hologram` appearance to Astral Projection ([#78500](https://github.com/CleverRaven/Cataclysm-DDA/pull/78500))
 * Remove mingw cross build ([#78495](https://github.com/CleverRaven/Cataclysm-DDA/pull/78495))
 * Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-12-0522 ([ce7d69c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0522))
-
 * Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
-* Weekly Changelog 2024-12-02 to 2024-12-09 ([#78437](https://github.com/CleverRaven/Cataclysm-DDA/pull/78437))
 * Additional info for batteries and electricity document ([#78440](https://github.com/CleverRaven/Cataclysm-DDA/pull/78440))
 * Use enums instead of bool for ImGui::BeginChild ([#78487](https://github.com/CleverRaven/Cataclysm-DDA/pull/78487))
 * [Magiclysm] Ravenfolk tweaks ([#78484](https://github.com/CleverRaven/Cataclysm-DDA/pull/78484))

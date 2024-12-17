@@ -1,3 +1,7 @@
+* Don't assign missions during testing (#78614)
+
+Cataclysm-DDA experimental build 2024-12-17-1607 (669e5e1)
+* Various misc improvements to camp crafting (#78612)
 
 Cataclysm-DDA experimental build 2024-12-17-0625 (32e2b3c)
 * Migrate compare item menu to imgui (#78557)
@@ -113,11 +117,8 @@ Cataclysm-DDA experimental build 2024-12-12-0727 (b871679)
 * [MoM] Add `mon_hologram` appearance to Astral Projection (#78500)
 * Remove mingw cross build (#78495)
 * Fix executable name for notiles targets (#78498)
-
-Cataclysm-DDA experimental build 2024-12-12-0522 (ce7d69c)
 * Desk fan audit (#78499)
 * Migrate martial arts details window to imgui (#78497)
-* Weekly Changelog 2024-12-02 to 2024-12-09 (#78437)
 * Additional info for batteries and electricity document (#78440)
 * Use enums instead of bool for ImGui::BeginChild (#78487)
 * [Magiclysm] Ravenfolk tweaks (#78484)
