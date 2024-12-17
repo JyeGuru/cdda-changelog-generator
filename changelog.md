@@ -104,12 +104,6 @@
 #### Cataclysm-DDA experimental build 2024-12-14-0905 ([36bc580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-0905))
 
 * Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-14-0622 ([eba840f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-0622))
-
-* Remove robot spawns from military outpost ([#78443](https://github.com/CleverRaven/Cataclysm-DDA/pull/78443))
 * Replace alot of raw strings in faction_camp.cpp and make use of static const where appropriate ([#78490](https://github.com/CleverRaven/Cataclysm-DDA/pull/78490))
 * [Magiclysm] Sacrificial Regrowth / Renewing the Forest rework ([#78533](https://github.com/CleverRaven/Cataclysm-DDA/pull/78533))
 * attempt to identify randomly failed vehicle_turret_test cause ([#78540](https://github.com/CleverRaven/Cataclysm-DDA/pull/78540))
@@ -191,7 +185,6 @@
 * Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
 * Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
-* Additional info for batteries and electricity document ([#78440](https://github.com/CleverRaven/Cataclysm-DDA/pull/78440))
 * Use enums instead of bool for ImGui::BeginChild ([#78487](https://github.com/CleverRaven/Cataclysm-DDA/pull/78487))
 * [Magiclysm] Ravenfolk tweaks ([#78484](https://github.com/CleverRaven/Cataclysm-DDA/pull/78484))
 * [Magiclysm/Xedra Evolved] Animals can't do that ([#78472](https://github.com/CleverRaven/Cataclysm-DDA/pull/78472))
