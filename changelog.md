@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-17-0625 ([32e2b3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-0625))
+
+* Migrate compare item menu to imgui ([#78557](https://github.com/CleverRaven/Cataclysm-DDA/pull/78557))
 * fert_supplement is MISSION_ITEM ([#78606](https://github.com/CleverRaven/Cataclysm-DDA/pull/78606))
 * typified creature.h and monster.h ([#78565](https://github.com/CleverRaven/Cataclysm-DDA/pull/78565))
 * [Sky Island] Progressive autodoc improvement ([#78581](https://github.com/CleverRaven/Cataclysm-DDA/pull/78581))
@@ -145,12 +151,6 @@
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. ([#78516](https://github.com/CleverRaven/Cataclysm-DDA/pull/78516))
 * change armored gauntlets from iron to steel ([#78523](https://github.com/CleverRaven/Cataclysm-DDA/pull/78523))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-13-0534 ([a1306e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-13-0534))
-
-* Prompt before oxytorch activity if you don't have enough gas ([#78432](https://github.com/CleverRaven/Cataclysm-DDA/pull/78432))
 * Add awl quality to swiss army knife ([#78444](https://github.com/CleverRaven/Cataclysm-DDA/pull/78444))
 * Adding names to child notes ([#78494](https://github.com/CleverRaven/Cataclysm-DDA/pull/78494))
 * [Magiclysm] Rock trolls actually turn to stone ([#78510](https://github.com/CleverRaven/Cataclysm-DDA/pull/78510))
@@ -188,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-12-12-0522 ([ce7d69c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0522))
 
 * Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-12-0330 ([e10cfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0330))
-
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
 * Weekly Changelog 2024-12-02 to 2024-12-09 ([#78437](https://github.com/CleverRaven/Cataclysm-DDA/pull/78437))
 * Additional info for batteries and electricity document ([#78440](https://github.com/CleverRaven/Cataclysm-DDA/pull/78440))
