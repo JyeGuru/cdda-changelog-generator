@@ -1,3 +1,4 @@
+* fert_supplement is MISSION_ITEM ([#78606](https://github.com/CleverRaven/Cataclysm-DDA/pull/78606))
 * typified creature.h and monster.h ([#78565](https://github.com/CleverRaven/Cataclysm-DDA/pull/78565))
 * [Sky Island] Progressive autodoc improvement ([#78581](https://github.com/CleverRaven/Cataclysm-DDA/pull/78581))
 * [Magiclysm] Add feral technomancers ([#78599](https://github.com/CleverRaven/Cataclysm-DDA/pull/78599))
@@ -219,4 +220,3 @@
 * Categorically fix type issues with restore_on_out_of_scope ([#78460](https://github.com/CleverRaven/Cataclysm-DDA/pull/78460))
 * Fix typo in 'f_empty_spike' bash drops ([#78451](https://github.com/CleverRaven/Cataclysm-DDA/pull/78451))
 * Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
-* Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
