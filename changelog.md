@@ -1,3 +1,12 @@
+* typified creature.h and monster.h ([#78565](https://github.com/CleverRaven/Cataclysm-DDA/pull/78565))
+* [Sky Island] Progressive autodoc improvement ([#78581](https://github.com/CleverRaven/Cataclysm-DDA/pull/78581))
+* [Magiclysm] Add feral technomancers ([#78599](https://github.com/CleverRaven/Cataclysm-DDA/pull/78599))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-17-0410 ([05bd332](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-0410))
+
+* [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood ([#78610](https://github.com/CleverRaven/Cataclysm-DDA/pull/78610))
 
 ---
 
@@ -169,7 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-12-12-0727 ([b871679](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-0727))
 
 * [Magiclysm/Innawood] Revamp goblin/orc drops to separate itemgroups, make them fit Innawood ([#78503](https://github.com/CleverRaven/Cataclysm-DDA/pull/78503))
-* lcmatch instead of wildcard_match for (by)product filter `r:` ([#78423](https://github.com/CleverRaven/Cataclysm-DDA/pull/78423))
 * [MoM] Add `mon_hologram` appearance to Astral Projection ([#78500](https://github.com/CleverRaven/Cataclysm-DDA/pull/78500))
 * Remove mingw cross build ([#78495](https://github.com/CleverRaven/Cataclysm-DDA/pull/78495))
 * Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
@@ -211,7 +219,4 @@
 * Categorically fix type issues with restore_on_out_of_scope ([#78460](https://github.com/CleverRaven/Cataclysm-DDA/pull/78460))
 * Fix typo in 'f_empty_spike' bash drops ([#78451](https://github.com/CleverRaven/Cataclysm-DDA/pull/78451))
 * Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
-* fix checks for charges in EoC, excluding items with flags that do not have own charges ([#78427](https://github.com/CleverRaven/Cataclysm-DDA/pull/78427))
-* Naming the newspaper snippets ([#78424](https://github.com/CleverRaven/Cataclysm-DDA/pull/78424))
 * Set transparency cache dirty when placing a vehicle. ([#78428](https://github.com/CleverRaven/Cataclysm-DDA/pull/78428))
-* Make the grocery store use a palette ([#78425](https://github.com/CleverRaven/Cataclysm-DDA/pull/78425))
