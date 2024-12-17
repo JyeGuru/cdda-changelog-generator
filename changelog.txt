@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-17-2237 (de687d3)
 * Bagpipes Volume Change (#78627)
 
 Cataclysm-DDA experimental build 2024-12-17-2026 (0a7708b)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2024-12-13-0740 (a7c5b6f)
 
 Cataclysm-DDA experimental build 2024-12-12-2203 (585643b)
 * [Magiclysm] The Forge of Wonders puts no value on food or drink, minimal value on guns and ammo (except the pirates) (#78513)
-
-Cataclysm-DDA experimental build 2024-12-12-1804 (d8b8100)
 * Pruning the old ``to-hit`` syntax - Part 12 (#78496)
 * Fix perspective shift in construction (#78493)
 * [Magiclysm/Innawood] Revamp goblin/orc drops to separate itemgroups, make them fit Innawood (#78503)
