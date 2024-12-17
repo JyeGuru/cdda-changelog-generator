@@ -1,3 +1,4 @@
+* Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
 
 ---
 
@@ -199,7 +200,6 @@
 * Allow color replacements in cataimgui ([#78462](https://github.com/CleverRaven/Cataclysm-DDA/pull/78462))
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices ([#78470](https://github.com/CleverRaven/Cataclysm-DDA/pull/78470))
 * [Magiclysm] Add Mind Crush spell ([#78450](https://github.com/CleverRaven/Cataclysm-DDA/pull/78450))
-* [Xedra Evolved] Add Exhalation of Ashes spell to salamanders ([#78446](https://github.com/CleverRaven/Cataclysm-DDA/pull/78446))
 * Fix the last mention of tier 4 vampirism being described as unobtainable ([#78458](https://github.com/CleverRaven/Cataclysm-DDA/pull/78458))
 * Relaxing with Alonso is now fun ([#78457](https://github.com/CleverRaven/Cataclysm-DDA/pull/78457))
 * Explicitly instantiate ~relic() for compile time win. ([#78461](https://github.com/CleverRaven/Cataclysm-DDA/pull/78461))
