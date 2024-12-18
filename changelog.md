@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-18-2113 ([8028a07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-2113))
+
 * Basic beach decorations ([#78638](https://github.com/CleverRaven/Cataclysm-DDA/pull/78638))
 * Add keybindings for throw and blind throw of wielded item ([#78625](https://github.com/CleverRaven/Cataclysm-DDA/pull/78625))
 * Fixes SegFault w/ flashlights & attached power ([#78633](https://github.com/CleverRaven/Cataclysm-DDA/pull/78633))
