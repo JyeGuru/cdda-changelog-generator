@@ -1,3 +1,11 @@
+* Add keybindings for throw and blind throw of wielded item ([#78625](https://github.com/CleverRaven/Cataclysm-DDA/pull/78625))
+* Fixes SegFault w/ flashlights & attached power ([#78633](https://github.com/CleverRaven/Cataclysm-DDA/pull/78633))
+* fix gateway typos ([#78640](https://github.com/CleverRaven/Cataclysm-DDA/pull/78640))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-18-1855 ([df5a26e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-1855))
+
 * [ Xedra Evolved ] Gracken Stomach Recipes and Herbivore Code ([#78505](https://github.com/CleverRaven/Cataclysm-DDA/pull/78505))
 
 ---
@@ -193,7 +201,6 @@
 * [Magiclysm/Xedra Evolved] Animals can't do that ([#78472](https://github.com/CleverRaven/Cataclysm-DDA/pull/78472))
 * AIM cache filter function once ([#78480](https://github.com/CleverRaven/Cataclysm-DDA/pull/78480))
 * [Magiclysm] Reduce zombie dwarves' speed ([#78485](https://github.com/CleverRaven/Cataclysm-DDA/pull/78485))
-* Migrate popups in pocket settings menu to ImGui ([#78453](https://github.com/CleverRaven/Cataclysm-DDA/pull/78453))
 * combine snippets into single array ([#78464](https://github.com/CleverRaven/Cataclysm-DDA/pull/78464))
 * Make barter / volume sorting account for stack size ([#78475](https://github.com/CleverRaven/Cataclysm-DDA/pull/78475))
 * Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
@@ -206,5 +213,3 @@
 * Add cut produce to more recipes ([#78454](https://github.com/CleverRaven/Cataclysm-DDA/pull/78454))
 * rabbit-overcoat-typo.json ([#78455](https://github.com/CleverRaven/Cataclysm-DDA/pull/78455))
 * Categorically fix type issues with restore_on_out_of_scope ([#78460](https://github.com/CleverRaven/Cataclysm-DDA/pull/78460))
-* Fix typo in 'f_empty_spike' bash drops ([#78451](https://github.com/CleverRaven/Cataclysm-DDA/pull/78451))
-* Fix ASAN error in limb test. ([#78452](https://github.com/CleverRaven/Cataclysm-DDA/pull/78452))
