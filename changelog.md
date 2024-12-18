@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-18-0250 ([c085521](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-0250))
+
+* Subtle Foreshadowing: Quiet Farm Edition ([#78624](https://github.com/CleverRaven/Cataclysm-DDA/pull/78624))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-17-2237 ([de687d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-2237))
 
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
@@ -172,11 +178,6 @@
 * Adding names to child notes ([#78494](https://github.com/CleverRaven/Cataclysm-DDA/pull/78494))
 * [Magiclysm] Rock trolls actually turn to stone ([#78510](https://github.com/CleverRaven/Cataclysm-DDA/pull/78510))
 * [Magiclysm/Innawood] Allow troll caves to spawn innawood ([#78509](https://github.com/CleverRaven/Cataclysm-DDA/pull/78509))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-12-2203 ([585643b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-12-2203))
-
 * [Magiclysm] The Forge of Wonders puts no value on food or drink, minimal value on guns and ammo (except the pirates) ([#78513](https://github.com/CleverRaven/Cataclysm-DDA/pull/78513))
 * Pruning the old ``to-hit`` syntax - Part 12 ([#78496](https://github.com/CleverRaven/Cataclysm-DDA/pull/78496))
 * Fix perspective shift in construction ([#78493](https://github.com/CleverRaven/Cataclysm-DDA/pull/78493))
@@ -196,7 +197,6 @@
 * Make barter / volume sorting account for stack size ([#78475](https://github.com/CleverRaven/Cataclysm-DDA/pull/78475))
 * Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
-* [MoM] Psi passives turn off if you can't use psionics ([#78447](https://github.com/CleverRaven/Cataclysm-DDA/pull/78447))
 * Allow color replacements in cataimgui ([#78462](https://github.com/CleverRaven/Cataclysm-DDA/pull/78462))
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices ([#78470](https://github.com/CleverRaven/Cataclysm-DDA/pull/78470))
 * [Magiclysm] Add Mind Crush spell ([#78450](https://github.com/CleverRaven/Cataclysm-DDA/pull/78450))
