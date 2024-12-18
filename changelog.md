@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-18-2307 ([109a8a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-2307))
+
 * [Magiclysm] Fix animist convert spell missing damage type ([#78621](https://github.com/CleverRaven/Cataclysm-DDA/pull/78621))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-12-13-1433 ([791bd3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-13-1433))
 
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-13-0740 ([a7c5b6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-13-0740))
-
 * Wall wiring tweaks ([#78515](https://github.com/CleverRaven/Cataclysm-DDA/pull/78515))
 * Deprecate ARMOR_, EXTRA_ and ITEM_ARMOR_ enchantments ([#78474](https://github.com/CleverRaven/Cataclysm-DDA/pull/78474))
 * Refactor filters in crafting GUI to use a template ([#78518](https://github.com/CleverRaven/Cataclysm-DDA/pull/78518))
