@@ -1,3 +1,4 @@
+* [Magiclysm] Fix animist convert spell missing damage type (#78621)
 
 Cataclysm-DDA experimental build 2024-12-18-2113 (8028a07)
 * Basic beach decorations (#78638)
@@ -141,5 +142,4 @@ Cataclysm-DDA experimental build 2024-12-13-0740 (a7c5b6f)
 * Fix the last mention of tier 4 vampirism being described as unobtainable (#78458)
 * Relaxing with Alonso is now fun (#78457)
 * Explicitly instantiate ~relic() for compile time win. (#78461)
-* rabbit-overcoat-typo.json (#78455)
 * Categorically fix type issues with restore_on_out_of_scope (#78460)
