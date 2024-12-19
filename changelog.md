@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-19-0629 ([2e80c6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-0629))
+
 * pre_ effects accounts for NO_DISEASE flag ([#78605](https://github.com/CleverRaven/Cataclysm-DDA/pull/78605))
 * Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
 * [Magiclysm] Add some new high Difficulty spells ([#78582](https://github.com/CleverRaven/Cataclysm-DDA/pull/78582))
@@ -171,11 +176,6 @@
 * Fix Megastore Parking OMT Obsoletion ([#78538](https://github.com/CleverRaven/Cataclysm-DDA/pull/78538))
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-14-0223 ([9962573](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-0223))
-
 * A bunch of random density fixes ([#78501](https://github.com/CleverRaven/Cataclysm-DDA/pull/78501))
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
 * Wall wiring tweaks ([#78515](https://github.com/CleverRaven/Cataclysm-DDA/pull/78515))

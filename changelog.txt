@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-19-0629 (2e80c6e)
 * pre_ effects accounts for NO_DISEASE flag (#78605)
 * Raise basic build cache size even more. (#78650)
 * [Magiclysm] Add some new high Difficulty spells (#78582)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2024-12-14-0905 (36bc580)
 * Fix Megastore Parking OMT Obsoletion (#78538)
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed (#78543)
 * [MoM] Fix Suppression Belt (#78544)
-
-Cataclysm-DDA experimental build 2024-12-14-0223 (9962573)
 * A bunch of random density fixes (#78501)
 * fix cellphone (#78537)
 * Wall wiring tweaks (#78515)
