@@ -1,3 +1,4 @@
+* [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains ([#78646](https://github.com/CleverRaven/Cataclysm-DDA/pull/78646))
 * clang-tidy ui.cpp ([#78616](https://github.com/CleverRaven/Cataclysm-DDA/pull/78616))
 
@@ -181,7 +182,6 @@
 * A bunch of random density fixes ([#78501](https://github.com/CleverRaven/Cataclysm-DDA/pull/78501))
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
 * Wall wiring tweaks ([#78515](https://github.com/CleverRaven/Cataclysm-DDA/pull/78515))
-* Deprecate ARMOR_, EXTRA_ and ITEM_ARMOR_ enchantments ([#78474](https://github.com/CleverRaven/Cataclysm-DDA/pull/78474))
 * Refactor filters in crafting GUI to use a template ([#78518](https://github.com/CleverRaven/Cataclysm-DDA/pull/78518))
 * Pruning the old ``to-hit`` syntax - Part 13 ([#78517](https://github.com/CleverRaven/Cataclysm-DDA/pull/78517))
 * Filter items by can_contain `L:`, `V:`, `M:` (longest_side, volume, mass); affects AIM, inventory… ([#78519](https://github.com/CleverRaven/Cataclysm-DDA/pull/78519))
