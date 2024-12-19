@@ -1,3 +1,4 @@
+* typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
 
 ---
 
@@ -214,6 +215,5 @@
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
 * Use enums instead of bool for ImGui::BeginChild ([#78487](https://github.com/CleverRaven/Cataclysm-DDA/pull/78487))
 * [Magiclysm] Ravenfolk tweaks ([#78484](https://github.com/CleverRaven/Cataclysm-DDA/pull/78484))
-* AIM cache filter function once ([#78480](https://github.com/CleverRaven/Cataclysm-DDA/pull/78480))
 * [Magiclysm] Reduce zombie dwarves' speed ([#78485](https://github.com/CleverRaven/Cataclysm-DDA/pull/78485))
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))

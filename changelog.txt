@@ -1,3 +1,4 @@
+* typified character, npc and explosion stuff (#78655)
 
 Cataclysm-DDA experimental build 2024-12-19-2246 (47fa616)
 * Add some tests for NPC rules (#78524)
@@ -139,6 +140,5 @@ Cataclysm-DDA experimental build 2024-12-15-0250 (fcbcd0b)
 * Migrate martial arts details window to imgui (#78497)
 * Use enums instead of bool for ImGui::BeginChild (#78487)
 * [Magiclysm] Ravenfolk tweaks (#78484)
-* AIM cache filter function once (#78480)
 * [Magiclysm] Reduce zombie dwarves' speed (#78485)
 * Fix issue with bashing satalight dish and negative noise (#78482)
