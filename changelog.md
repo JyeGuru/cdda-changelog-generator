@@ -1,3 +1,6 @@
+* pre_ effects accounts for NO_DISEASE flag ([#78605](https://github.com/CleverRaven/Cataclysm-DDA/pull/78605))
+* Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
+* [Magiclysm] Add some new high Difficulty spells ([#78582](https://github.com/CleverRaven/Cataclysm-DDA/pull/78582))
 
 ---
 
@@ -205,10 +208,7 @@
 * [Magiclysm/Xedra Evolved] Animals can't do that ([#78472](https://github.com/CleverRaven/Cataclysm-DDA/pull/78472))
 * AIM cache filter function once ([#78480](https://github.com/CleverRaven/Cataclysm-DDA/pull/78480))
 * [Magiclysm] Reduce zombie dwarves' speed ([#78485](https://github.com/CleverRaven/Cataclysm-DDA/pull/78485))
-* combine snippets into single array ([#78464](https://github.com/CleverRaven/Cataclysm-DDA/pull/78464))
 * Make barter / volume sorting account for stack size ([#78475](https://github.com/CleverRaven/Cataclysm-DDA/pull/78475))
 * Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
-* Allow color replacements in cataimgui ([#78462](https://github.com/CleverRaven/Cataclysm-DDA/pull/78462))
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices ([#78470](https://github.com/CleverRaven/Cataclysm-DDA/pull/78470))
-* Explicitly instantiate ~relic() for compile time win. ([#78461](https://github.com/CleverRaven/Cataclysm-DDA/pull/78461))
