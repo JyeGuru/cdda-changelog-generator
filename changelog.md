@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-19-2246 ([47fa616](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-2246))
+
+* Add some tests for NPC rules ([#78524](https://github.com/CleverRaven/Cataclysm-DDA/pull/78524))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-19-1919 ([cda8807](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-1919))
 
 * More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
@@ -163,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2024-12-15-0250 ([fcbcd0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-0250))
 
 * Routine i18n updates on 14 December 2024 ([#78555](https://github.com/CleverRaven/Cataclysm-DDA/pull/78555))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-14-1419 ([0974229](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-1419))
-
 * Update COMPILING-VS-VCPKG.md ([#78561](https://github.com/CleverRaven/Cataclysm-DDA/pull/78561))
 * Rename the zombie llama, reword hospitalized human description ([#78563](https://github.com/CleverRaven/Cataclysm-DDA/pull/78563))
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag ([#78560](https://github.com/CleverRaven/Cataclysm-DDA/pull/78560))
@@ -215,5 +216,4 @@
 * [Magiclysm] Ravenfolk tweaks ([#78484](https://github.com/CleverRaven/Cataclysm-DDA/pull/78484))
 * AIM cache filter function once ([#78480](https://github.com/CleverRaven/Cataclysm-DDA/pull/78480))
 * [Magiclysm] Reduce zombie dwarves' speed ([#78485](https://github.com/CleverRaven/Cataclysm-DDA/pull/78485))
-* Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
