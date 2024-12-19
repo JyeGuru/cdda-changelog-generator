@@ -1,3 +1,4 @@
+* Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains (#78646)
 * clang-tidy ui.cpp (#78616)
 
 Cataclysm-DDA experimental build 2024-12-19-0629 (2e80c6e)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-12-14-0905 (36bc580)
 * Migrate martial arts details window to imgui (#78497)
 * Use enums instead of bool for ImGui::BeginChild (#78487)
 * [Magiclysm] Ravenfolk tweaks (#78484)
-* [Magiclysm/Xedra Evolved] Animals can't do that (#78472)
 * AIM cache filter function once (#78480)
 * [Magiclysm] Reduce zombie dwarves' speed (#78485)
 * Make barter / volume sorting account for stack size (#78475)
