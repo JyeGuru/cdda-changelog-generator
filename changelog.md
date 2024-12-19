@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-19-1919 ([cda8807](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-1919))
+
 * More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
 
 ---
@@ -165,11 +170,6 @@
 
 * Update COMPILING-VS-VCPKG.md ([#78561](https://github.com/CleverRaven/Cataclysm-DDA/pull/78561))
 * Rename the zombie llama, reword hospitalized human description ([#78563](https://github.com/CleverRaven/Cataclysm-DDA/pull/78563))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-14-1138 ([45999cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-1138))
-
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag ([#78560](https://github.com/CleverRaven/Cataclysm-DDA/pull/78560))
 * Check transforming items for consistency wrt cables ([#78556](https://github.com/CleverRaven/Cataclysm-DDA/pull/78556))
 * Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))

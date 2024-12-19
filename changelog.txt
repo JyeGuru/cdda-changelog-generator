@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-19-1919 (cda8807)
 * More snippet names (#78642)
 
 Cataclysm-DDA experimental build 2024-12-19-1717 (a3dbe00)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2024-12-15-0250 (fcbcd0b)
 Cataclysm-DDA experimental build 2024-12-14-1419 (0974229)
 * Update COMPILING-VS-VCPKG.md (#78561)
 * Rename the zombie llama, reword hospitalized human description (#78563)
-
-Cataclysm-DDA experimental build 2024-12-14-1138 (45999cb)
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag (#78560)
 * Check transforming items for consistency wrt cables (#78556)
 * Add missing <cwctype> header (#78558)
