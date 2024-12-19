@@ -1,3 +1,5 @@
+* typified character.h + npc.h ([#78623](https://github.com/CleverRaven/Cataclysm-DDA/pull/78623))
+* Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
 
 ---
 
@@ -172,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-12-14-0223 ([9962573](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-14-0223))
 
 * A bunch of random density fixes ([#78501](https://github.com/CleverRaven/Cataclysm-DDA/pull/78501))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-13-1433 ([791bd3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-13-1433))
-
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
 * Wall wiring tweaks ([#78515](https://github.com/CleverRaven/Cataclysm-DDA/pull/78515))
 * Deprecate ARMOR_, EXTRA_ and ITEM_ARMOR_ enchantments ([#78474](https://github.com/CleverRaven/Cataclysm-DDA/pull/78474))
@@ -214,6 +211,4 @@
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
 * Allow color replacements in cataimgui ([#78462](https://github.com/CleverRaven/Cataclysm-DDA/pull/78462))
 * [Magiclysm] Balance everburning torch and magical reading light by swapping their prices ([#78470](https://github.com/CleverRaven/Cataclysm-DDA/pull/78470))
-* Fix the last mention of tier 4 vampirism being described as unobtainable ([#78458](https://github.com/CleverRaven/Cataclysm-DDA/pull/78458))
 * Explicitly instantiate ~relic() for compile time win. ([#78461](https://github.com/CleverRaven/Cataclysm-DDA/pull/78461))
-* Categorically fix type issues with restore_on_out_of_scope ([#78460](https://github.com/CleverRaven/Cataclysm-DDA/pull/78460))
