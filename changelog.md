@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-19-0411 ([26eb173](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-0411))
+
 * typified character.h + npc.h ([#78623](https://github.com/CleverRaven/Cataclysm-DDA/pull/78623))
 * Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
 
@@ -157,11 +162,6 @@
 * Add qualities to copy-from recipes in mods ([#78536](https://github.com/CleverRaven/Cataclysm-DDA/pull/78536))
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
 * [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-12-14-0313 ([36ea6bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-12-14-0313))
-
 * Backport #77665 ([#78545](https://github.com/CleverRaven/Cataclysm-DDA/pull/78545))
 * [Magiclysm] Add PHASE_DISTANCE to Traverse the Wilds ([#78542](https://github.com/CleverRaven/Cataclysm-DDA/pull/78542))
 * [Magiclysm] Add sprite override to Spirit-Walking (+1 square of Phase Distance) ([#78541](https://github.com/CleverRaven/Cataclysm-DDA/pull/78541))
