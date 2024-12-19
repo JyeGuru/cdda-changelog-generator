@@ -1,3 +1,4 @@
+* clang-tidy ui.cpp ([#78616](https://github.com/CleverRaven/Cataclysm-DDA/pull/78616))
 
 ---
 
@@ -211,4 +212,3 @@
 * Make barter / volume sorting account for stack size ([#78475](https://github.com/CleverRaven/Cataclysm-DDA/pull/78475))
 * Fix emscripten build referencing deleted resource folder. ([#78478](https://github.com/CleverRaven/Cataclysm-DDA/pull/78478))
 * Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))
-* [Magiclysm] Balance everburning torch and magical reading light by swapping their prices ([#78470](https://github.com/CleverRaven/Cataclysm-DDA/pull/78470))

@@ -1,3 +1,4 @@
+* clang-tidy ui.cpp (#78616)
 
 Cataclysm-DDA experimental build 2024-12-19-0629 (2e80c6e)
 * pre_ effects accounts for NO_DISEASE flag (#78605)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-12-14-0905 (36bc580)
 * Make barter / volume sorting account for stack size (#78475)
 * Fix emscripten build referencing deleted resource folder. (#78478)
 * Fix issue with bashing satalight dish and negative noise (#78482)
-* [Magiclysm] Balance everburning torch and magical reading light by swapping their prices (#78470)
