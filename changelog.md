@@ -1,3 +1,4 @@
+* More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
 
 ---
 
@@ -194,7 +195,6 @@
 * [Magiclysm] Add Imperishable Light spell ([#78522](https://github.com/CleverRaven/Cataclysm-DDA/pull/78522))
 * [Magiclysm] Fix Sacrificial Regrowth ([#78525](https://github.com/CleverRaven/Cataclysm-DDA/pull/78525))
 * [MoM] Add the Font of Vitality, the tier 3 feral vitakinetic ([#78486](https://github.com/CleverRaven/Cataclysm-DDA/pull/78486))
-* Add sorting by price to weight ratio ([#78477](https://github.com/CleverRaven/Cataclysm-DDA/pull/78477))
 * [Magiclysm] Freshup up bile fix ([#78514](https://github.com/CleverRaven/Cataclysm-DDA/pull/78514))
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. ([#78516](https://github.com/CleverRaven/Cataclysm-DDA/pull/78516))

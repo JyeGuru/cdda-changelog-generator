@@ -1,3 +1,4 @@
+* More snippet names (#78642)
 
 Cataclysm-DDA experimental build 2024-12-19-1717 (a3dbe00)
 * Weekly Changelog 2024-12-09 to 2024-12-16 (#78598)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2024-12-14-1138 (45999cb)
 * [Magiclysm] Add Imperishable Light spell (#78522)
 * [Magiclysm] Fix Sacrificial Regrowth (#78525)
 * [MoM] Add the Font of Vitality, the tier 3 feral vitakinetic (#78486)
-* Add sorting by price to weight ratio (#78477)
 * [Magiclysm] Freshup up bile fix (#78514)
 * carcrash-new-houses-bungalows (#78521)
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. (#78516)
