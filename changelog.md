@@ -1,3 +1,5 @@
+* Allow more customizable XP costs for spell leveling ([#78583](https://github.com/CleverRaven/Cataclysm-DDA/pull/78583))
+* [Sky Island] Death EoC cures modded conditions too ([#78644](https://github.com/CleverRaven/Cataclysm-DDA/pull/78644))
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure ([#78665](https://github.com/CleverRaven/Cataclysm-DDA/pull/78665))
 
 ---
@@ -215,12 +217,10 @@
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. ([#78516](https://github.com/CleverRaven/Cataclysm-DDA/pull/78516))
 * change armored gauntlets from iron to steel ([#78523](https://github.com/CleverRaven/Cataclysm-DDA/pull/78523))
-* Adding names to child notes ([#78494](https://github.com/CleverRaven/Cataclysm-DDA/pull/78494))
 * [Magiclysm] Rock trolls actually turn to stone ([#78510](https://github.com/CleverRaven/Cataclysm-DDA/pull/78510))
 * [Magiclysm/Innawood] Allow troll caves to spawn innawood ([#78509](https://github.com/CleverRaven/Cataclysm-DDA/pull/78509))
 * [Magiclysm] The Forge of Wonders puts no value on food or drink, minimal value on guns and ammo (except the pirates) ([#78513](https://github.com/CleverRaven/Cataclysm-DDA/pull/78513))
 * Pruning the old ``to-hit`` syntax - Part 12 ([#78496](https://github.com/CleverRaven/Cataclysm-DDA/pull/78496))
-* Fix perspective shift in construction ([#78493](https://github.com/CleverRaven/Cataclysm-DDA/pull/78493))
 * [Magiclysm/Innawood] Revamp goblin/orc drops to separate itemgroups, make them fit Innawood ([#78503](https://github.com/CleverRaven/Cataclysm-DDA/pull/78503))
 * [MoM] Add `mon_hologram` appearance to Astral Projection ([#78500](https://github.com/CleverRaven/Cataclysm-DDA/pull/78500))
 * Remove mingw cross build ([#78495](https://github.com/CleverRaven/Cataclysm-DDA/pull/78495))
