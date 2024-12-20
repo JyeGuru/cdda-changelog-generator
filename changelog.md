@@ -1,3 +1,11 @@
+* Fix Small Lighthouse Tower Floor ([#78628](https://github.com/CleverRaven/Cataclysm-DDA/pull/78628))
+* Added randomize hotkey to traits selector ([#78634](https://github.com/CleverRaven/Cataclysm-DDA/pull/78634))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-20-0706 ([b0299b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-0706))
+
+* grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
 
 ---
 
@@ -163,11 +171,6 @@
 
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-12-15-0412 ([c26c229](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-12-15-0412))
-
 * Fix Backport #77665 ([#78568](https://github.com/CleverRaven/Cataclysm-DDA/pull/78568))
 
 ---
@@ -219,6 +222,3 @@
 * Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
 * Use enums instead of bool for ImGui::BeginChild ([#78487](https://github.com/CleverRaven/Cataclysm-DDA/pull/78487))
-* [Magiclysm] Ravenfolk tweaks ([#78484](https://github.com/CleverRaven/Cataclysm-DDA/pull/78484))
-* [Magiclysm] Reduce zombie dwarves' speed ([#78485](https://github.com/CleverRaven/Cataclysm-DDA/pull/78485))
-* Fix issue with bashing satalight dish and negative noise ([#78482](https://github.com/CleverRaven/Cataclysm-DDA/pull/78482))

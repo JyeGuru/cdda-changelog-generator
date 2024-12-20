@@ -1,3 +1,8 @@
+* Fix Small Lighthouse Tower Floor (#78628)
+* Added randomize hotkey to traits selector (#78634)
+
+Cataclysm-DDA experimental build 2024-12-20-0706 (b0299b4)
+* grocery store fix (#78671)
 
 Cataclysm-DDA experimental build 2024-12-20-0038 (a9416b4)
 * typified character, npc and explosion stuff (#78655)
@@ -91,8 +96,6 @@ Cataclysm-DDA experimental build 2024-12-15-1729 (7cef5e8)
 Cataclysm-DDA experimental build 2024-12-15-0831 (7acb286)
 * filter: use the O(log(n)) instead of O(n) method (#78569)
 * Jewelry store fix and terrain pruning (#78578)
-
-Cataclysm-DDA 0.H release candidate 2024-12-15-0412 (c26c229)
 * Fix Backport #77665 (#78568)
 
 Cataclysm-DDA experimental build 2024-12-15-0250 (fcbcd0b)
@@ -141,6 +144,3 @@ Cataclysm-DDA experimental build 2024-12-15-0250 (fcbcd0b)
 * Desk fan audit (#78499)
 * Migrate martial arts details window to imgui (#78497)
 * Use enums instead of bool for ImGui::BeginChild (#78487)
-* [Magiclysm] Ravenfolk tweaks (#78484)
-* [Magiclysm] Reduce zombie dwarves' speed (#78485)
-* Fix issue with bashing satalight dish and negative noise (#78482)
