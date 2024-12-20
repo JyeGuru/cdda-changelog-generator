@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-20-2211 ([66fe7dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-2211))
+
 * Allow more customizable XP costs for spell leveling ([#78583](https://github.com/CleverRaven/Cataclysm-DDA/pull/78583))
 * [Sky Island] Death EoC cures modded conditions too ([#78644](https://github.com/CleverRaven/Cataclysm-DDA/pull/78644))
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure ([#78665](https://github.com/CleverRaven/Cataclysm-DDA/pull/78665))
@@ -178,11 +183,6 @@
 
 * Fix vehicle_turret test ([#78567](https://github.com/CleverRaven/Cataclysm-DDA/pull/78567))
 * [Magiclysm/Innawood] Add the giant trees as points of interest (sans druid base) ([#78534](https://github.com/CleverRaven/Cataclysm-DDA/pull/78534))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-15-1729 ([7cef5e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-1729))
-
 * android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
