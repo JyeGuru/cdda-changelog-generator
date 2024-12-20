@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-20-2018 (b3000e5)
+* Remove repology badge (#78680)
+
 Cataclysm-DDA experimental build 2024-12-20-1655 (475f2c3)
 * pianos give piano wire on disassembly (#78672)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2024-12-15-1943 (9dfe80e)
 
 Cataclysm-DDA experimental build 2024-12-15-1729 (7cef5e8)
 * android pos -> pos_bub (#78587)
-
-Cataclysm-DDA experimental build 2024-12-15-0831 (7acb286)
 * filter: use the O(log(n)) instead of O(n) method (#78569)
 * Jewelry store fix and terrain pruning (#78578)
 * Fix Backport #77665 (#78568)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2024-12-15-0831 (7acb286)
 * Fix executable name for notiles targets (#78498)
 * Desk fan audit (#78499)
 * Migrate martial arts details window to imgui (#78497)
-* Use enums instead of bool for ImGui::BeginChild (#78487)

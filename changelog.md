@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-20-2018 ([b3000e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-2018))
+
+* Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-20-1655 ([475f2c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-1655))
 
 * pianos give piano wire on disassembly ([#78672](https://github.com/CleverRaven/Cataclysm-DDA/pull/78672))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-12-15-1729 ([7cef5e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-1729))
 
 * android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-15-0831 ([7acb286](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-0831))
-
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
 * Fix Backport #77665 ([#78568](https://github.com/CleverRaven/Cataclysm-DDA/pull/78568))
@@ -226,4 +227,3 @@
 * Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
 * Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
-* Use enums instead of bool for ImGui::BeginChild ([#78487](https://github.com/CleverRaven/Cataclysm-DDA/pull/78487))
