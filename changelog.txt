@@ -1,3 +1,4 @@
+* [Magiclysm] Spells cost 1/5 of their normal cost on spell failure (#78665)
 
 Cataclysm-DDA experimental build 2024-12-20-2018 (b3000e5)
 * Remove repology badge (#78680)
@@ -109,7 +110,6 @@ Cataclysm-DDA experimental build 2024-12-15-1729 (7cef5e8)
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag (#78560)
 * Check transforming items for consistency wrt cables (#78556)
 * Add missing <cwctype> header (#78558)
-* Replace alot of raw strings in faction_camp.cpp and make use of static const where appropriate (#78490)
 * [Magiclysm] Sacrificial Regrowth / Renewing the Forest rework (#78533)
 * attempt to identify randomly failed vehicle_turret_test cause (#78540)
 * Update vcpkg to new mainline commit and instructions (#78548)
