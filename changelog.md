@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-20-0038 ([a9416b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-0038))
+
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
 
 ---
