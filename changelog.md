@@ -1,3 +1,9 @@
+* Fix peeking out of windows causing you to fall ([#78662](https://github.com/CleverRaven/Cataclysm-DDA/pull/78662))
+* [Magiclysm] Give feral radiation mages Magic Fissile (and make them copy-from) ([#78660](https://github.com/CleverRaven/Cataclysm-DDA/pull/78660))
+* General map editor improvements ([#78656](https://github.com/CleverRaven/Cataclysm-DDA/pull/78656))
+* [Magiclysm] The Great Damage Randomization and Normalization ([#78611](https://github.com/CleverRaven/Cataclysm-DDA/pull/78611))
+* [ Xedra Evolved ] Help Files ([#78664](https://github.com/CleverRaven/Cataclysm-DDA/pull/78664))
+* Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
 
 ---
 
@@ -206,7 +212,6 @@
 * Fix Megastore Parking OMT Obsoletion ([#78538](https://github.com/CleverRaven/Cataclysm-DDA/pull/78538))
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
-* A bunch of random density fixes ([#78501](https://github.com/CleverRaven/Cataclysm-DDA/pull/78501))
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
 * Wall wiring tweaks ([#78515](https://github.com/CleverRaven/Cataclysm-DDA/pull/78515))
 * Refactor filters in crafting GUI to use a template ([#78518](https://github.com/CleverRaven/Cataclysm-DDA/pull/78518))
@@ -221,9 +226,4 @@
 * [Magiclysm] Rock trolls actually turn to stone ([#78510](https://github.com/CleverRaven/Cataclysm-DDA/pull/78510))
 * [Magiclysm/Innawood] Allow troll caves to spawn innawood ([#78509](https://github.com/CleverRaven/Cataclysm-DDA/pull/78509))
 * [Magiclysm] The Forge of Wonders puts no value on food or drink, minimal value on guns and ammo (except the pirates) ([#78513](https://github.com/CleverRaven/Cataclysm-DDA/pull/78513))
-* Pruning the old ``to-hit`` syntax - Part 12 ([#78496](https://github.com/CleverRaven/Cataclysm-DDA/pull/78496))
 * [Magiclysm/Innawood] Revamp goblin/orc drops to separate itemgroups, make them fit Innawood ([#78503](https://github.com/CleverRaven/Cataclysm-DDA/pull/78503))
-* [MoM] Add `mon_hologram` appearance to Astral Projection ([#78500](https://github.com/CleverRaven/Cataclysm-DDA/pull/78500))
-* Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
-* Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
-* Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
