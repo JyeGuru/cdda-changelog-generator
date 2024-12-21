@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-21-0058 ([f4932f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-0058))
+
+* fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-20-2211 ([66fe7dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-2211))
 
 * Allow more customizable XP costs for spell leveling ([#78583](https://github.com/CleverRaven/Cataclysm-DDA/pull/78583))
@@ -176,11 +182,6 @@
 * Pruning the old ``to-hit`` syntax - Part 14 ([#78564](https://github.com/CleverRaven/Cataclysm-DDA/pull/78564))
 * [Xedra Evolved] Add Time Related Monsters ([#78579](https://github.com/CleverRaven/Cataclysm-DDA/pull/78579))
 * [Magiclysm] Rework Wildshape cloaks ([#78550](https://github.com/CleverRaven/Cataclysm-DDA/pull/78550))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-15-1943 ([9dfe80e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-15-1943))
-
 * Fix vehicle_turret test ([#78567](https://github.com/CleverRaven/Cataclysm-DDA/pull/78567))
 * [Magiclysm/Innawood] Add the giant trees as points of interest (sans druid base) ([#78534](https://github.com/CleverRaven/Cataclysm-DDA/pull/78534))
 * android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
@@ -223,7 +224,6 @@
 * Pruning the old ``to-hit`` syntax - Part 12 ([#78496](https://github.com/CleverRaven/Cataclysm-DDA/pull/78496))
 * [Magiclysm/Innawood] Revamp goblin/orc drops to separate itemgroups, make them fit Innawood ([#78503](https://github.com/CleverRaven/Cataclysm-DDA/pull/78503))
 * [MoM] Add `mon_hologram` appearance to Astral Projection ([#78500](https://github.com/CleverRaven/Cataclysm-DDA/pull/78500))
-* Remove mingw cross build ([#78495](https://github.com/CleverRaven/Cataclysm-DDA/pull/78495))
 * Fix executable name for notiles targets ([#78498](https://github.com/CleverRaven/Cataclysm-DDA/pull/78498))
 * Desk fan audit ([#78499](https://github.com/CleverRaven/Cataclysm-DDA/pull/78499))
 * Migrate martial arts details window to imgui ([#78497](https://github.com/CleverRaven/Cataclysm-DDA/pull/78497))
