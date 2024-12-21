@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-21-0444 (5ccd156)
 * Fix peeking out of windows causing you to fall (#78662)
 * [Magiclysm] Give feral radiation mages Magic Fissile (and make them copy-from) (#78660)
 * General map editor improvements (#78656)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2024-12-16-2025 (8ee7e77)
 Cataclysm-DDA experimental build 2024-12-16-1602 (e26a6c5)
 * Fix displaying of stats for ablative armor (#78590)
 * Add a note about skill rust in FMS (#78512)
-
-Cataclysm-DDA experimental build 2024-12-16-0517 (6133c56)
 * allow open cardboard door to be closed (#78595)
 * Bump ccaches 50% (#78591)
 * Pruning the old ``to-hit`` syntax - Part 14 (#78564)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-21-0444 ([5ccd156](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-0444))
+
 * Fix peeking out of windows causing you to fall ([#78662](https://github.com/CleverRaven/Cataclysm-DDA/pull/78662))
 * [Magiclysm] Give feral radiation mages Magic Fissile (and make them copy-from) ([#78660](https://github.com/CleverRaven/Cataclysm-DDA/pull/78660))
 * General map editor improvements ([#78656](https://github.com/CleverRaven/Cataclysm-DDA/pull/78656))
@@ -178,11 +183,6 @@
 
 * Fix displaying of stats for ablative armor ([#78590](https://github.com/CleverRaven/Cataclysm-DDA/pull/78590))
 * Add a note about skill rust in FMS ([#78512](https://github.com/CleverRaven/Cataclysm-DDA/pull/78512))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-16-0517 ([6133c56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-0517))
-
 * allow open cardboard door to be closed ([#78595](https://github.com/CleverRaven/Cataclysm-DDA/pull/78595))
 * Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
 * Pruning the old ``to-hit`` syntax - Part 14 ([#78564](https://github.com/CleverRaven/Cataclysm-DDA/pull/78564))
