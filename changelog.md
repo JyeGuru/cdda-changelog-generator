@@ -1,3 +1,4 @@
+* Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
 
 ---
 

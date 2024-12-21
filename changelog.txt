@@ -1,3 +1,4 @@
+* Improve test coverage of mod combinations with mod_interactions (#78676)
 
 Cataclysm-DDA experimental build 2024-12-21-0444 (5ccd156)
 * Fix peeking out of windows causing you to fall (#78662)
