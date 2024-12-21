@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-21-1911 ([aba1ffb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-1911))
+
+* Convection-shmonvection ([#78697](https://github.com/CleverRaven/Cataclysm-DDA/pull/78697))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-21-1610 ([562d799](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-1610))
 
 * [XE] Chronomagic Adjustments ([#78689](https://github.com/CleverRaven/Cataclysm-DDA/pull/78689))
@@ -120,12 +126,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-12-18-1855 ([df5a26e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-1855))
-
-* [ Xedra Evolved ] Gracken Stomach Recipes and Herbivore Code ([#78505](https://github.com/CleverRaven/Cataclysm-DDA/pull/78505))
-
----
-
 #### Cataclysm-DDA experimental build 2024-12-18-0250 ([c085521](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-0250))
 
 * Subtle Foreshadowing: Quiet Farm Edition ([#78624](https://github.com/CleverRaven/Cataclysm-DDA/pull/78624))
@@ -183,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-12-16-2025 ([8ee7e77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-2025))
 
 * [Magiclysm] Progressive Difficulty reduction the more spells of that school you know ([#78602](https://github.com/CleverRaven/Cataclysm-DDA/pull/78602))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-16-1602 ([e26a6c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-1602))
-
 * Fix displaying of stats for ablative armor ([#78590](https://github.com/CleverRaven/Cataclysm-DDA/pull/78590))
 * Add a note about skill rust in FMS ([#78512](https://github.com/CleverRaven/Cataclysm-DDA/pull/78512))
 * allow open cardboard door to be closed ([#78595](https://github.com/CleverRaven/Cataclysm-DDA/pull/78595))

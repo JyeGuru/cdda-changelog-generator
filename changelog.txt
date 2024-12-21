@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-21-1911 (aba1ffb)
+* Convection-shmonvection (#78697)
+
 Cataclysm-DDA experimental build 2024-12-21-1610 (562d799)
 * [XE] Chronomagic Adjustments (#78689)
 * Improve test coverage of mod combinations with mod_interactions (#78676)
@@ -67,9 +70,6 @@ Cataclysm-DDA experimental build 2024-12-18-2113 (8028a07)
 * Fixes SegFault w/ flashlights & attached power (#78633)
 * fix gateway typos (#78640)
 
-Cataclysm-DDA experimental build 2024-12-18-1855 (df5a26e)
-* [ Xedra Evolved ] Gracken Stomach Recipes and Herbivore Code (#78505)
-
 Cataclysm-DDA experimental build 2024-12-18-0250 (c085521)
 * Subtle Foreshadowing: Quiet Farm Edition (#78624)
 
@@ -102,8 +102,6 @@ Cataclysm-DDA experimental build 2024-12-16-2220 (e4f5f67)
 
 Cataclysm-DDA experimental build 2024-12-16-2025 (8ee7e77)
 * [Magiclysm] Progressive Difficulty reduction the more spells of that school you know (#78602)
-
-Cataclysm-DDA experimental build 2024-12-16-1602 (e26a6c5)
 * Fix displaying of stats for ablative armor (#78590)
 * Add a note about skill rust in FMS (#78512)
 * allow open cardboard door to be closed (#78595)
