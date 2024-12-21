@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-12-21-1610 (562d799)
+* [XE] Chronomagic Adjustments (#78689)
 * Improve test coverage of mod combinations with mod_interactions (#78676)
 
 Cataclysm-DDA experimental build 2024-12-21-0444 (5ccd156)
@@ -146,4 +149,3 @@ Cataclysm-DDA experimental build 2024-12-16-1602 (e26a6c5)
 * [Magiclysm] Rock trolls actually turn to stone (#78510)
 * [Magiclysm/Innawood] Allow troll caves to spawn innawood (#78509)
 * [Magiclysm] The Forge of Wonders puts no value on food or drink, minimal value on guns and ammo (except the pirates) (#78513)
-* [Magiclysm/Innawood] Revamp goblin/orc drops to separate itemgroups, make them fit Innawood (#78503)
