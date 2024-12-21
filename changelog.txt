@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-21-2217 (5c79031)
+* Canonical test ordering - lexicographic (#78570)
+
 Cataclysm-DDA experimental build 2024-12-21-1911 (aba1ffb)
 * Convection-shmonvection (#78697)
 
@@ -94,13 +97,8 @@ Cataclysm-DDA experimental build 2024-12-17-0625 (32e2b3c)
 
 Cataclysm-DDA experimental build 2024-12-17-0410 (05bd332)
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood (#78610)
-
-Cataclysm-DDA experimental build 2024-12-16-2220 (e4f5f67)
-* New car for dwarves (#78507)
 * Fix wrapping in ma details menu (#78511)
 * [Magiclysm] Some spell tweaks (#78586)
-
-Cataclysm-DDA experimental build 2024-12-16-2025 (8ee7e77)
 * [Magiclysm] Progressive Difficulty reduction the more spells of that school you know (#78602)
 * Fix displaying of stats for ablative armor (#78590)
 * Add a note about skill rust in FMS (#78512)

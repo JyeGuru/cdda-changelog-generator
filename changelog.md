@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-21-2217 ([5c79031](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-2217))
+
+* Canonical test ordering - lexicographic ([#78570](https://github.com/CleverRaven/Cataclysm-DDA/pull/78570))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-21-1911 ([aba1ffb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-1911))
 
 * Convection-shmonvection ([#78697](https://github.com/CleverRaven/Cataclysm-DDA/pull/78697))
@@ -169,19 +175,8 @@
 #### Cataclysm-DDA experimental build 2024-12-17-0410 ([05bd332](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-0410))
 
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood ([#78610](https://github.com/CleverRaven/Cataclysm-DDA/pull/78610))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-16-2220 ([e4f5f67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-2220))
-
-* New car for dwarves ([#78507](https://github.com/CleverRaven/Cataclysm-DDA/pull/78507))
 * Fix wrapping in ma details menu ([#78511](https://github.com/CleverRaven/Cataclysm-DDA/pull/78511))
 * [Magiclysm] Some spell tweaks ([#78586](https://github.com/CleverRaven/Cataclysm-DDA/pull/78586))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-16-2025 ([8ee7e77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-16-2025))
-
 * [Magiclysm] Progressive Difficulty reduction the more spells of that school you know ([#78602](https://github.com/CleverRaven/Cataclysm-DDA/pull/78602))
 * Fix displaying of stats for ablative armor ([#78590](https://github.com/CleverRaven/Cataclysm-DDA/pull/78590))
 * Add a note about skill rust in FMS ([#78512](https://github.com/CleverRaven/Cataclysm-DDA/pull/78512))
