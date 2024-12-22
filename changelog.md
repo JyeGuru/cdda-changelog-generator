@@ -1,3 +1,10 @@
+* Fix water heater in window small lighthouse ([#78701](https://github.com/CleverRaven/Cataclysm-DDA/pull/78701))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-22-0813 ([53cbd1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-0813))
+
+* Make enchantment mutations work again ([#78659](https://github.com/CleverRaven/Cataclysm-DDA/pull/78659))
 
 ---
 
@@ -171,22 +178,15 @@
 #### Cataclysm-DDA experimental build 2024-12-17-1607 ([669e5e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-1607))
 
 * Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-17-0625 ([32e2b3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-0625))
-
 * Migrate compare item menu to imgui ([#78557](https://github.com/CleverRaven/Cataclysm-DDA/pull/78557))
 * fert_supplement is MISSION_ITEM ([#78606](https://github.com/CleverRaven/Cataclysm-DDA/pull/78606))
 * typified creature.h and monster.h ([#78565](https://github.com/CleverRaven/Cataclysm-DDA/pull/78565))
 * [Sky Island] Progressive autodoc improvement ([#78581](https://github.com/CleverRaven/Cataclysm-DDA/pull/78581))
 * [Magiclysm] Add feral technomancers ([#78599](https://github.com/CleverRaven/Cataclysm-DDA/pull/78599))
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood ([#78610](https://github.com/CleverRaven/Cataclysm-DDA/pull/78610))
-* Fix wrapping in ma details menu ([#78511](https://github.com/CleverRaven/Cataclysm-DDA/pull/78511))
 * [Magiclysm] Some spell tweaks ([#78586](https://github.com/CleverRaven/Cataclysm-DDA/pull/78586))
 * [Magiclysm] Progressive Difficulty reduction the more spells of that school you know ([#78602](https://github.com/CleverRaven/Cataclysm-DDA/pull/78602))
 * Fix displaying of stats for ablative armor ([#78590](https://github.com/CleverRaven/Cataclysm-DDA/pull/78590))
-* Add a note about skill rust in FMS ([#78512](https://github.com/CleverRaven/Cataclysm-DDA/pull/78512))
 * allow open cardboard door to be closed ([#78595](https://github.com/CleverRaven/Cataclysm-DDA/pull/78595))
 * Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
 * Pruning the old ``to-hit`` syntax - Part 14 ([#78564](https://github.com/CleverRaven/Cataclysm-DDA/pull/78564))
