@@ -1,3 +1,4 @@
+* Routine i18n updates on 21 December 2024 ([#78688](https://github.com/CleverRaven/Cataclysm-DDA/pull/78688))
 
 ---
 
@@ -219,7 +220,6 @@
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
-* Wall wiring tweaks ([#78515](https://github.com/CleverRaven/Cataclysm-DDA/pull/78515))
 * Refactor filters in crafting GUI to use a template ([#78518](https://github.com/CleverRaven/Cataclysm-DDA/pull/78518))
 * Pruning the old ``to-hit`` syntax - Part 13 ([#78517](https://github.com/CleverRaven/Cataclysm-DDA/pull/78517))
 * Filter items by can_contain `L:`, `V:`, `M:` (longest_side, volume, mass); affects AIM, inventory… ([#78519](https://github.com/CleverRaven/Cataclysm-DDA/pull/78519))
