@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-22-1804 ([954e0ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-1804))
+
+* remove a bit of dead code ([#78708](https://github.com/CleverRaven/Cataclysm-DDA/pull/78708))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-22-1018 ([25aabc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-1018))
 
 * Prevent one instance of falling on spawn, fix falling after climbing ([#78695](https://github.com/CleverRaven/Cataclysm-DDA/pull/78695))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-12-17-2026 ([0a7708b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-2026))
 
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-17-1823 ([1be27d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-1823))
-
 * Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
 * Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))
 * Migrate compare item menu to imgui ([#78557](https://github.com/CleverRaven/Cataclysm-DDA/pull/78557))
@@ -224,7 +225,6 @@
 * Filter items by can_contain `L:`, `V:`, `M:` (longest_side, volume, mass); affects AIM, inventory… ([#78519](https://github.com/CleverRaven/Cataclysm-DDA/pull/78519))
 * [Magiclysm] Add Imperishable Light spell ([#78522](https://github.com/CleverRaven/Cataclysm-DDA/pull/78522))
 * [Magiclysm] Fix Sacrificial Regrowth ([#78525](https://github.com/CleverRaven/Cataclysm-DDA/pull/78525))
-* [Magiclysm] Freshup up bile fix ([#78514](https://github.com/CleverRaven/Cataclysm-DDA/pull/78514))
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. ([#78516](https://github.com/CleverRaven/Cataclysm-DDA/pull/78516))
 * change armored gauntlets from iron to steel ([#78523](https://github.com/CleverRaven/Cataclysm-DDA/pull/78523))
