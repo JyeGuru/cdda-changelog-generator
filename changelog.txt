@@ -1,3 +1,4 @@
+* Prevent one instance of falling on spawn, fix falling after climbing (#78695)
 * Fix water heater in window small lighthouse (#78701)
 
 Cataclysm-DDA experimental build 2024-12-22-0813 (53cbd1e)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2024-12-17-1607 (669e5e1)
 * carcrash-new-houses-bungalows (#78521)
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. (#78516)
 * change armored gauntlets from iron to steel (#78523)
-* [Magiclysm] The Forge of Wonders puts no value on food or drink, minimal value on guns and ammo (except the pirates) (#78513)

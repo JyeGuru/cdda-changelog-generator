@@ -1,3 +1,4 @@
+* Prevent one instance of falling on spawn, fix falling after climbing ([#78695](https://github.com/CleverRaven/Cataclysm-DDA/pull/78695))
 * Fix water heater in window small lighthouse ([#78701](https://github.com/CleverRaven/Cataclysm-DDA/pull/78701))
 
 ---
@@ -227,4 +228,3 @@
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
 * [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. ([#78516](https://github.com/CleverRaven/Cataclysm-DDA/pull/78516))
 * change armored gauntlets from iron to steel ([#78523](https://github.com/CleverRaven/Cataclysm-DDA/pull/78523))
-* [Magiclysm] The Forge of Wonders puts no value on food or drink, minimal value on guns and ammo (except the pirates) ([#78513](https://github.com/CleverRaven/Cataclysm-DDA/pull/78513))
