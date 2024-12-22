@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-22-2344 ([48dfdab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-2344))
+
 * Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-12-18-0250 ([c085521](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-0250))
 
 * Subtle Foreshadowing: Quiet Farm Edition ([#78624](https://github.com/CleverRaven/Cataclysm-DDA/pull/78624))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-17-2237 ([de687d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-2237))
-
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
 * Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))

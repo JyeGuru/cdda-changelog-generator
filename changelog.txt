@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-22-2344 (48dfdab)
 * Make empty window frames with curtains terrain constructable (#78704)
 
 Cataclysm-DDA experimental build 2024-12-22-2014 (47ff924)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-12-18-2113 (8028a07)
 
 Cataclysm-DDA experimental build 2024-12-18-0250 (c085521)
 * Subtle Foreshadowing: Quiet Farm Edition (#78624)
-
-Cataclysm-DDA experimental build 2024-12-17-2237 (de687d3)
 * Bagpipes Volume Change (#78627)
 * [Xedra Evolved] Add Arvore imbuement recipe (#78617)
 * Don't assign missions during testing (#78614)
