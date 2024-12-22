@@ -1,3 +1,4 @@
+* Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
 
 ---
 
@@ -226,5 +227,4 @@
 * [Magiclysm] Add Imperishable Light spell ([#78522](https://github.com/CleverRaven/Cataclysm-DDA/pull/78522))
 * [Magiclysm] Fix Sacrificial Regrowth ([#78525](https://github.com/CleverRaven/Cataclysm-DDA/pull/78525))
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
-* [Magiclysm] Give elves their own sight trait instead of using fey vision, slightly reduce their hearing. ([#78516](https://github.com/CleverRaven/Cataclysm-DDA/pull/78516))
 * change armored gauntlets from iron to steel ([#78523](https://github.com/CleverRaven/Cataclysm-DDA/pull/78523))
