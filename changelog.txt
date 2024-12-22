@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-22-1018 (25aabc1)
 * Prevent one instance of falling on spawn, fix falling after climbing (#78695)
 * Fix water heater in window small lighthouse (#78701)
 
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-12-17-2026 (0a7708b)
 
 Cataclysm-DDA experimental build 2024-12-17-1823 (1be27d7)
 * Don't assign missions during testing (#78614)
-
-Cataclysm-DDA experimental build 2024-12-17-1607 (669e5e1)
 * Various misc improvements to camp crafting (#78612)
 * Migrate compare item menu to imgui (#78557)
 * fert_supplement is MISSION_ITEM (#78606)
