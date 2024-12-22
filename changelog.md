@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-22-0410 ([248e058](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-0410))
+
 * Streamline Vertical Movement While Levitating and Flying ([#78686](https://github.com/CleverRaven/Cataclysm-DDA/pull/78686))
 
 ---
@@ -176,11 +181,6 @@
 * typified creature.h and monster.h ([#78565](https://github.com/CleverRaven/Cataclysm-DDA/pull/78565))
 * [Sky Island] Progressive autodoc improvement ([#78581](https://github.com/CleverRaven/Cataclysm-DDA/pull/78581))
 * [Magiclysm] Add feral technomancers ([#78599](https://github.com/CleverRaven/Cataclysm-DDA/pull/78599))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-17-0410 ([05bd332](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-0410))
-
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood ([#78610](https://github.com/CleverRaven/Cataclysm-DDA/pull/78610))
 * Fix wrapping in ma details menu ([#78511](https://github.com/CleverRaven/Cataclysm-DDA/pull/78511))
 * [Magiclysm] Some spell tweaks ([#78586](https://github.com/CleverRaven/Cataclysm-DDA/pull/78586))

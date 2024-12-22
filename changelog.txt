@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-22-0410 (248e058)
 * Streamline Vertical Movement While Levitating and Flying (#78686)
 
 Cataclysm-DDA experimental build 2024-12-22-0202 (aaee61b)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2024-12-17-0625 (32e2b3c)
 * typified creature.h and monster.h (#78565)
 * [Sky Island] Progressive autodoc improvement (#78581)
 * [Magiclysm] Add feral technomancers (#78599)
-
-Cataclysm-DDA experimental build 2024-12-17-0410 (05bd332)
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood (#78610)
 * Fix wrapping in ma details menu (#78511)
 * [Magiclysm] Some spell tweaks (#78586)
