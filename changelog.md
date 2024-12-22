@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-22-2014 ([47ff924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-2014))
+
 * Routine i18n updates on 21 December 2024 ([#78688](https://github.com/CleverRaven/Cataclysm-DDA/pull/78688))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-12-17-2237 ([de687d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-2237))
 
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-17-2026 ([0a7708b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-17-2026))
-
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
 * Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
 * Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-22-2014 (47ff924)
 * Routine i18n updates on 21 December 2024 (#78688)
 
 Cataclysm-DDA experimental build 2024-12-22-1804 (954e0ab)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-12-18-0250 (c085521)
 
 Cataclysm-DDA experimental build 2024-12-17-2237 (de687d3)
 * Bagpipes Volume Change (#78627)
-
-Cataclysm-DDA experimental build 2024-12-17-2026 (0a7708b)
 * [Xedra Evolved] Add Arvore imbuement recipe (#78617)
 * Don't assign missions during testing (#78614)
 * Various misc improvements to camp crafting (#78612)
