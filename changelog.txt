@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-23-2051 (0664114)
 * Unhardcode mx_jabberwock (#78714)
 * expose speed to math (#78694)
 * move health evaluation and assignment to math (#78702)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2024-12-19-0411 (26eb173)
 
 Cataclysm-DDA experimental build 2024-12-18-2307 (109a8a0)
 * [Magiclysm] Fix animist convert spell missing damage type (#78621)
-
-Cataclysm-DDA experimental build 2024-12-18-2113 (8028a07)
 * Basic beach decorations (#78638)
 * Add keybindings for throw and blind throw of wielded item (#78625)
 * Fixes SegFault w/ flashlights & attached power (#78633)

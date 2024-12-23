@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-23-2051 ([0664114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-2051))
+
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
 * expose speed to math ([#78694](https://github.com/CleverRaven/Cataclysm-DDA/pull/78694))
 * move health evaluation and assignment to math ([#78702](https://github.com/CleverRaven/Cataclysm-DDA/pull/78702))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-12-18-2307 ([109a8a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-2307))
 
 * [Magiclysm] Fix animist convert spell missing damage type ([#78621](https://github.com/CleverRaven/Cataclysm-DDA/pull/78621))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-18-2113 ([8028a07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-2113))
-
 * Basic beach decorations ([#78638](https://github.com/CleverRaven/Cataclysm-DDA/pull/78638))
 * Add keybindings for throw and blind throw of wielded item ([#78625](https://github.com/CleverRaven/Cataclysm-DDA/pull/78625))
 * Fixes SegFault w/ flashlights & attached power ([#78633](https://github.com/CleverRaven/Cataclysm-DDA/pull/78633))
