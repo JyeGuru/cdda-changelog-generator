@@ -72,9 +72,6 @@ Cataclysm-DDA experimental build 2024-12-20-0706 (b0299b4)
 Cataclysm-DDA experimental build 2024-12-20-0038 (a9416b4)
 * typified character, npc and explosion stuff (#78655)
 
-Cataclysm-DDA experimental build 2024-12-19-2246 (47fa616)
-* Add some tests for NPC rules (#78524)
-
 Cataclysm-DDA experimental build 2024-12-19-1919 (cda8807)
 * More snippet names (#78642)
 

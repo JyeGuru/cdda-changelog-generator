@@ -134,12 +134,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-12-19-2246 ([47fa616](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-2246))
-
-* Add some tests for NPC rules ([#78524](https://github.com/CleverRaven/Cataclysm-DDA/pull/78524))
-
----
-
 #### Cataclysm-DDA experimental build 2024-12-19-1919 ([cda8807](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-1919))
 
 * More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
