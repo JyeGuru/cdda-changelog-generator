@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-23-1840 ([f9ae19e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-1840))
+
+* Prevent segfault from `EOC_random_mutate` ([#78718](https://github.com/CleverRaven/Cataclysm-DDA/pull/78718))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-23-0842 ([fdeeb8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-0842))
 
 * Add Hazelnut Milk, Walnut Milk, and added them to various recipes ([#78687](https://github.com/CleverRaven/Cataclysm-DDA/pull/78687))
@@ -222,7 +228,6 @@
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
-* Filter items by can_contain `L:`, `V:`, `M:` (longest_side, volume, mass); affects AIM, inventory… ([#78519](https://github.com/CleverRaven/Cataclysm-DDA/pull/78519))
 * [Magiclysm] Add Imperishable Light spell ([#78522](https://github.com/CleverRaven/Cataclysm-DDA/pull/78522))
 * [Magiclysm] Fix Sacrificial Regrowth ([#78525](https://github.com/CleverRaven/Cataclysm-DDA/pull/78525))
 * carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
