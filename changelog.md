@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-23-2245 ([0f016e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-2245))
+
+* Fixes infinite sleeping pill/chamomile tea bug ([#78684](https://github.com/CleverRaven/Cataclysm-DDA/pull/78684))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-23-2051 ([0664114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-2051))
 
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
@@ -171,11 +177,6 @@
 
 * typified character.h + npc.h ([#78623](https://github.com/CleverRaven/Cataclysm-DDA/pull/78623))
 * Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-18-2307 ([109a8a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-2307))
-
 * [Magiclysm] Fix animist convert spell missing damage type ([#78621](https://github.com/CleverRaven/Cataclysm-DDA/pull/78621))
 * Basic beach decorations ([#78638](https://github.com/CleverRaven/Cataclysm-DDA/pull/78638))
 * Add keybindings for throw and blind throw of wielded item ([#78625](https://github.com/CleverRaven/Cataclysm-DDA/pull/78625))
@@ -225,4 +226,3 @@
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
-* [Magiclysm] Fix Sacrificial Regrowth ([#78525](https://github.com/CleverRaven/Cataclysm-DDA/pull/78525))

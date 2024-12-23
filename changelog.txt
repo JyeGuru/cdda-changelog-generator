@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-23-2245 (0f016e4)
+* Fixes infinite sleeping pill/chamomile tea bug (#78684)
+
 Cataclysm-DDA experimental build 2024-12-23-2051 (0664114)
 * Unhardcode mx_jabberwock (#78714)
 * expose speed to math (#78694)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2024-12-19-0629 (2e80c6e)
 Cataclysm-DDA experimental build 2024-12-19-0411 (26eb173)
 * typified character.h + npc.h (#78623)
 * Don't assign missions during testing, for real this time (#78649)
-
-Cataclysm-DDA experimental build 2024-12-18-2307 (109a8a0)
 * [Magiclysm] Fix animist convert spell missing damage type (#78621)
 * Basic beach decorations (#78638)
 * Add keybindings for throw and blind throw of wielded item (#78625)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-12-18-2307 (109a8a0)
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed (#78543)
 * [MoM] Fix Suppression Belt (#78544)
 * fix cellphone (#78537)
-* [Magiclysm] Fix Sacrificial Regrowth (#78525)
