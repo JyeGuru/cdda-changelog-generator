@@ -213,7 +213,6 @@
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag ([#78560](https://github.com/CleverRaven/Cataclysm-DDA/pull/78560))
 * Check transforming items for consistency wrt cables ([#78556](https://github.com/CleverRaven/Cataclysm-DDA/pull/78556))
 * Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))
-* [Magiclysm] Sacrificial Regrowth / Renewing the Forest rework ([#78533](https://github.com/CleverRaven/Cataclysm-DDA/pull/78533))
 * attempt to identify randomly failed vehicle_turret_test cause ([#78540](https://github.com/CleverRaven/Cataclysm-DDA/pull/78540))
 * Update vcpkg to new mainline commit and instructions ([#78548](https://github.com/CleverRaven/Cataclysm-DDA/pull/78548))
 * Add qualities to copy-from recipes in mods ([#78536](https://github.com/CleverRaven/Cataclysm-DDA/pull/78536))
