@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-23-0842 ([fdeeb8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-0842))
+
+* Add Hazelnut Milk, Walnut Milk, and added them to various recipes ([#78687](https://github.com/CleverRaven/Cataclysm-DDA/pull/78687))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-22-2344 ([48dfdab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-2344))
 
 * Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
@@ -172,11 +178,6 @@
 * Add keybindings for throw and blind throw of wielded item ([#78625](https://github.com/CleverRaven/Cataclysm-DDA/pull/78625))
 * Fixes SegFault w/ flashlights & attached power ([#78633](https://github.com/CleverRaven/Cataclysm-DDA/pull/78633))
 * fix gateway typos ([#78640](https://github.com/CleverRaven/Cataclysm-DDA/pull/78640))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-18-0250 ([c085521](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-18-0250))
-
 * Subtle Foreshadowing: Quiet Farm Edition ([#78624](https://github.com/CleverRaven/Cataclysm-DDA/pull/78624))
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
@@ -222,7 +223,6 @@
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
 * Refactor filters in crafting GUI to use a template ([#78518](https://github.com/CleverRaven/Cataclysm-DDA/pull/78518))
-* Pruning the old ``to-hit`` syntax - Part 13 ([#78517](https://github.com/CleverRaven/Cataclysm-DDA/pull/78517))
 * Filter items by can_contain `L:`, `V:`, `M:` (longest_side, volume, mass); affects AIM, inventory… ([#78519](https://github.com/CleverRaven/Cataclysm-DDA/pull/78519))
 * [Magiclysm] Add Imperishable Light spell ([#78522](https://github.com/CleverRaven/Cataclysm-DDA/pull/78522))
 * [Magiclysm] Fix Sacrificial Regrowth ([#78525](https://github.com/CleverRaven/Cataclysm-DDA/pull/78525))
