@@ -1,3 +1,6 @@
+* Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
+* expose speed to math ([#78694](https://github.com/CleverRaven/Cataclysm-DDA/pull/78694))
+* move health evaluation and assignment to math ([#78702](https://github.com/CleverRaven/Cataclysm-DDA/pull/78702))
 
 ---
 
@@ -228,7 +231,4 @@
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
 * fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
-* [Magiclysm] Add Imperishable Light spell ([#78522](https://github.com/CleverRaven/Cataclysm-DDA/pull/78522))
 * [Magiclysm] Fix Sacrificial Regrowth ([#78525](https://github.com/CleverRaven/Cataclysm-DDA/pull/78525))
-* carcrash-new-houses-bungalows ([#78521](https://github.com/CleverRaven/Cataclysm-DDA/pull/78521))
-* change armored gauntlets from iron to steel ([#78523](https://github.com/CleverRaven/Cataclysm-DDA/pull/78523))
