@@ -1,3 +1,4 @@
+* Remove manhole stair magic (#78705)
 
 Cataclysm-DDA experimental build 2024-12-24-1439 (bc462a8)
 * Magiclysm: Fix assertion failure due to resizing child window (#78652)
@@ -143,6 +144,5 @@ Cataclysm-DDA experimental build 2024-12-19-1717 (a3dbe00)
 * [Magiclysm] Add Carmine Infusion biomancer spell (#78549)
 * Backport #77665 (#78545)
 * [Magiclysm] Add PHASE_DISTANCE to Traverse the Wilds (#78542)
-* [Magiclysm] Add sprite override to Spirit-Walking (+1 square of Phase Distance) (#78541)
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed (#78543)
 * [MoM] Fix Suppression Belt (#78544)
