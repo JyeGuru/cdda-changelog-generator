@@ -1,3 +1,4 @@
+* Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
 
 ---
 
@@ -227,6 +228,5 @@
 * Backport #77665 ([#78545](https://github.com/CleverRaven/Cataclysm-DDA/pull/78545))
 * [Magiclysm] Add PHASE_DISTANCE to Traverse the Wilds ([#78542](https://github.com/CleverRaven/Cataclysm-DDA/pull/78542))
 * [Magiclysm] Add sprite override to Spirit-Walking (+1 square of Phase Distance) ([#78541](https://github.com/CleverRaven/Cataclysm-DDA/pull/78541))
-* Fix Megastore Parking OMT Obsoletion ([#78538](https://github.com/CleverRaven/Cataclysm-DDA/pull/78538))
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
