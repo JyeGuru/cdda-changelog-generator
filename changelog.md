@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-24-1919 ([47faee4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-1919))
+
 * Fix "remove_vehicles" when used without or with empty "vehicles" ([#78724](https://github.com/CleverRaven/Cataclysm-DDA/pull/78724))
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
 
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-12-20-0038 ([a9416b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-0038))
 
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-19-1919 ([cda8807](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-1919))
-
 * More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
 * Weekly Changelog 2024-12-09 to 2024-12-16 ([#78598](https://github.com/CleverRaven/Cataclysm-DDA/pull/78598))
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
