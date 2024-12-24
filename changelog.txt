@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-24-0431 (8fd2039)
 * Fix place terrain special performance (#78663)
 * Typified zones (#78677)
 
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2024-12-19-0629 (2e80c6e)
 * pre_ effects accounts for NO_DISEASE flag (#78605)
 * Raise basic build cache size even more. (#78650)
 * [Magiclysm] Add some new high Difficulty spells (#78582)
-
-Cataclysm-DDA experimental build 2024-12-19-0411 (26eb173)
 * typified character.h + npc.h (#78623)
 * Don't assign missions during testing, for real this time (#78649)
 * [Magiclysm] Fix animist convert spell missing damage type (#78621)
