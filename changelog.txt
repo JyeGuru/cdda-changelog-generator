@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-24-1439 (bc462a8)
+* Magiclysm: Fix assertion failure due to resizing child window (#78652)
+
 Cataclysm-DDA experimental build 2024-12-24-0628 (44b3817)
 * Fix enchantment (#78739)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2024-12-19-1919 (cda8807)
 
 Cataclysm-DDA experimental build 2024-12-19-1717 (a3dbe00)
 * Weekly Changelog 2024-12-09 to 2024-12-16 (#78598)
-
-Cataclysm-DDA experimental build 2024-12-19-0827 (438b5e4)
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay (#78651)
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains (#78646)
 * clang-tidy ui.cpp (#78616)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2024-12-19-0827 (438b5e4)
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag (#78560)
 * Check transforming items for consistency wrt cables (#78556)
 * Add missing <cwctype> header (#78558)
-* attempt to identify randomly failed vehicle_turret_test cause (#78540)
 * Update vcpkg to new mainline commit and instructions (#78548)
 * use wide chars in remove_punctuations (#78552)
 * [Magiclysm] Add Carmine Infusion biomancer spell (#78549)

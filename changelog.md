@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-24-1439 ([bc462a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-1439))
+
+* Magiclysm: Fix assertion failure due to resizing child window ([#78652](https://github.com/CleverRaven/Cataclysm-DDA/pull/78652))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-24-0628 ([44b3817](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-0628))
 
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-12-19-1717 ([a3dbe00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-1717))
 
 * Weekly Changelog 2024-12-09 to 2024-12-16 ([#78598](https://github.com/CleverRaven/Cataclysm-DDA/pull/78598))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-19-0827 ([438b5e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-0827))
-
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains ([#78646](https://github.com/CleverRaven/Cataclysm-DDA/pull/78646))
 * clang-tidy ui.cpp ([#78616](https://github.com/CleverRaven/Cataclysm-DDA/pull/78616))
@@ -221,7 +222,6 @@
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag ([#78560](https://github.com/CleverRaven/Cataclysm-DDA/pull/78560))
 * Check transforming items for consistency wrt cables ([#78556](https://github.com/CleverRaven/Cataclysm-DDA/pull/78556))
 * Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))
-* attempt to identify randomly failed vehicle_turret_test cause ([#78540](https://github.com/CleverRaven/Cataclysm-DDA/pull/78540))
 * Update vcpkg to new mainline commit and instructions ([#78548](https://github.com/CleverRaven/Cataclysm-DDA/pull/78548))
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
 * [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
