@@ -1,3 +1,11 @@
+* Fix place terrain special performance ([#78663](https://github.com/CleverRaven/Cataclysm-DDA/pull/78663))
+* Typified zones ([#78677](https://github.com/CleverRaven/Cataclysm-DDA/pull/78677))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-24-0238 ([ee568d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-0238))
+
+* Adds disassembly recipe for denim sheet and patchwork denim sheet ([#78675](https://github.com/CleverRaven/Cataclysm-DDA/pull/78675))
 
 ---
 
@@ -202,7 +210,6 @@
 * [Xedra Evolved] Add Time Related Monsters ([#78579](https://github.com/CleverRaven/Cataclysm-DDA/pull/78579))
 * [Magiclysm] Rework Wildshape cloaks ([#78550](https://github.com/CleverRaven/Cataclysm-DDA/pull/78550))
 * Fix vehicle_turret test ([#78567](https://github.com/CleverRaven/Cataclysm-DDA/pull/78567))
-* [Magiclysm/Innawood] Add the giant trees as points of interest (sans druid base) ([#78534](https://github.com/CleverRaven/Cataclysm-DDA/pull/78534))
 * android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
@@ -215,7 +222,6 @@
 * Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))
 * attempt to identify randomly failed vehicle_turret_test cause ([#78540](https://github.com/CleverRaven/Cataclysm-DDA/pull/78540))
 * Update vcpkg to new mainline commit and instructions ([#78548](https://github.com/CleverRaven/Cataclysm-DDA/pull/78548))
-* Add qualities to copy-from recipes in mods ([#78536](https://github.com/CleverRaven/Cataclysm-DDA/pull/78536))
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
 * [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
 * Backport #77665 ([#78545](https://github.com/CleverRaven/Cataclysm-DDA/pull/78545))
@@ -224,4 +230,3 @@
 * Fix Megastore Parking OMT Obsoletion ([#78538](https://github.com/CleverRaven/Cataclysm-DDA/pull/78538))
 * [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
-* fix cellphone ([#78537](https://github.com/CleverRaven/Cataclysm-DDA/pull/78537))
