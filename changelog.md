@@ -1,3 +1,4 @@
+* Fix "remove_vehicles" when used without or with empty "vehicles" ([#78724](https://github.com/CleverRaven/Cataclysm-DDA/pull/78724))
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
 
 ---
@@ -228,5 +229,4 @@
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
 * [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
 * Backport #77665 ([#78545](https://github.com/CleverRaven/Cataclysm-DDA/pull/78545))
-* [MoM] Gateway now auto-ends activity, attunes slightly faster, documention fixed ([#78543](https://github.com/CleverRaven/Cataclysm-DDA/pull/78543))
 * [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))
