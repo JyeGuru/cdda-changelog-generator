@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-24-0628 (44b3817)
 * Fix enchantment (#78739)
 
 Cataclysm-DDA experimental build 2024-12-24-0431 (8fd2039)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-12-19-0827 (438b5e4)
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay (#78651)
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains (#78646)
 * clang-tidy ui.cpp (#78616)
-
-Cataclysm-DDA experimental build 2024-12-19-0629 (2e80c6e)
 * pre_ effects accounts for NO_DISEASE flag (#78605)
 * Raise basic build cache size even more. (#78650)
 * [Magiclysm] Add some new high Difficulty spells (#78582)

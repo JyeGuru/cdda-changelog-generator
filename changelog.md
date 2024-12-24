@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-24-0628 ([44b3817](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-0628))
+
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
 
 ---
@@ -176,11 +181,6 @@
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains ([#78646](https://github.com/CleverRaven/Cataclysm-DDA/pull/78646))
 * clang-tidy ui.cpp ([#78616](https://github.com/CleverRaven/Cataclysm-DDA/pull/78616))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-19-0629 ([2e80c6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-19-0629))
-
 * pre_ effects accounts for NO_DISEASE flag ([#78605](https://github.com/CleverRaven/Cataclysm-DDA/pull/78605))
 * Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
 * [Magiclysm] Add some new high Difficulty spells ([#78582](https://github.com/CleverRaven/Cataclysm-DDA/pull/78582))
