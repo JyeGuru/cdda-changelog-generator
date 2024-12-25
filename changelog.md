@@ -1,3 +1,10 @@
+* [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-25-0459 ([3f09bef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-25-0459))
+
+* Eggplants can be smoked in the rack ([#78751](https://github.com/CleverRaven/Cataclysm-DDA/pull/78751))
 
 ---
 
@@ -228,5 +235,3 @@
 * Update vcpkg to new mainline commit and instructions ([#78548](https://github.com/CleverRaven/Cataclysm-DDA/pull/78548))
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
 * [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
-* Backport #77665 ([#78545](https://github.com/CleverRaven/Cataclysm-DDA/pull/78545))
-* [MoM] Fix Suppression Belt ([#78544](https://github.com/CleverRaven/Cataclysm-DDA/pull/78544))

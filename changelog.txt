@@ -1,3 +1,7 @@
+* [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  (#78746)
+
+Cataclysm-DDA experimental build 2024-12-25-0459 (3f09bef)
+* Eggplants can be smoked in the rack (#78751)
 
 Cataclysm-DDA experimental build 2024-12-24-1919 (47faee4)
 * Fix "remove_vehicles" when used without or with empty "vehicles" (#78724)
@@ -144,5 +148,3 @@ Cataclysm-DDA experimental build 2024-12-20-0038 (a9416b4)
 * Update vcpkg to new mainline commit and instructions (#78548)
 * use wide chars in remove_punctuations (#78552)
 * [Magiclysm] Add Carmine Infusion biomancer spell (#78549)
-* Backport #77665 (#78545)
-* [MoM] Fix Suppression Belt (#78544)
