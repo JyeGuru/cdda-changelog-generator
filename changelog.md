@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-25-1535 ([7ba4c09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-25-1535))
+
+* [Magiclysm] Freshen Up removes skunk spray ([#78759](https://github.com/CleverRaven/Cataclysm-DDA/pull/78759))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-25-0654 ([124c494](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-25-0654))
 
 * [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
@@ -180,11 +186,6 @@
 
 * Fix Small Lighthouse Tower Floor ([#78628](https://github.com/CleverRaven/Cataclysm-DDA/pull/78628))
 * Added randomize hotkey to traits selector ([#78634](https://github.com/CleverRaven/Cataclysm-DDA/pull/78634))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-20-0706 ([b0299b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-0706))
-
 * grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
 * More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
@@ -232,6 +233,5 @@
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag ([#78560](https://github.com/CleverRaven/Cataclysm-DDA/pull/78560))
 * Check transforming items for consistency wrt cables ([#78556](https://github.com/CleverRaven/Cataclysm-DDA/pull/78556))
 * Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))
-* Update vcpkg to new mainline commit and instructions ([#78548](https://github.com/CleverRaven/Cataclysm-DDA/pull/78548))
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
 * [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
