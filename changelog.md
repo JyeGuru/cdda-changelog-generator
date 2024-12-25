@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-25-0654 ([124c494](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-25-0654))
+
 * [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-12-20-0706 ([b0299b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-0706))
 
 * grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-20-0038 ([a9416b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-0038))
-
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
 * More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
 * Weekly Changelog 2024-12-09 to 2024-12-16 ([#78598](https://github.com/CleverRaven/Cataclysm-DDA/pull/78598))
