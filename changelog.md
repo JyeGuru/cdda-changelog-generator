@@ -1,3 +1,4 @@
+* typified stuff ([#78753](https://github.com/CleverRaven/Cataclysm-DDA/pull/78753))
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
 * Corrects recipe for water purifying ([#78773](https://github.com/CleverRaven/Cataclysm-DDA/pull/78773))
@@ -233,5 +234,4 @@
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
 * Fix Backport #77665 ([#78568](https://github.com/CleverRaven/Cataclysm-DDA/pull/78568))
-* Update COMPILING-VS-VCPKG.md ([#78561](https://github.com/CleverRaven/Cataclysm-DDA/pull/78561))
 * Rename the zombie llama, reword hospitalized human description ([#78563](https://github.com/CleverRaven/Cataclysm-DDA/pull/78563))
