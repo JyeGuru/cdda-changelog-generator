@@ -1,3 +1,10 @@
+* Weekly Changelog 2024-12-16 to 2024-12-23 ([#78734](https://github.com/CleverRaven/Cataclysm-DDA/pull/78734))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-26-1755 ([9a0d234](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-26-1755))
+
+* Expand and use cataimgui scrolling function ([#78763](https://github.com/CleverRaven/Cataclysm-DDA/pull/78763))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-12-20-1655 ([475f2c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-1655))
 
 * pianos give piano wire on disassembly ([#78672](https://github.com/CleverRaven/Cataclysm-DDA/pull/78672))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-20-0855 ([41efa55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-0855))
-
 * Fix Small Lighthouse Tower Floor ([#78628](https://github.com/CleverRaven/Cataclysm-DDA/pull/78628))
 * Added randomize hotkey to traits selector ([#78634](https://github.com/CleverRaven/Cataclysm-DDA/pull/78634))
 * grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
@@ -221,7 +223,6 @@
 * Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
 * Pruning the old ``to-hit`` syntax - Part 14 ([#78564](https://github.com/CleverRaven/Cataclysm-DDA/pull/78564))
 * [Xedra Evolved] Add Time Related Monsters ([#78579](https://github.com/CleverRaven/Cataclysm-DDA/pull/78579))
-* [Magiclysm] Rework Wildshape cloaks ([#78550](https://github.com/CleverRaven/Cataclysm-DDA/pull/78550))
 * Fix vehicle_turret test ([#78567](https://github.com/CleverRaven/Cataclysm-DDA/pull/78567))
 * android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
@@ -234,4 +235,3 @@
 * Check transforming items for consistency wrt cables ([#78556](https://github.com/CleverRaven/Cataclysm-DDA/pull/78556))
 * Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))
 * use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
-* [Magiclysm] Add Carmine Infusion biomancer spell ([#78549](https://github.com/CleverRaven/Cataclysm-DDA/pull/78549))
