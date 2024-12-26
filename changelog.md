@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-26-2002 ([ef49525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-26-2002))
+
 * typified stuff ([#78753](https://github.com/CleverRaven/Cataclysm-DDA/pull/78753))
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-12-20-2018 ([b3000e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-2018))
 
 * Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-20-1655 ([475f2c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-1655))
-
 * pianos give piano wire on disassembly ([#78672](https://github.com/CleverRaven/Cataclysm-DDA/pull/78672))
 * Fix Small Lighthouse Tower Floor ([#78628](https://github.com/CleverRaven/Cataclysm-DDA/pull/78628))
 * Added randomize hotkey to traits selector ([#78634](https://github.com/CleverRaven/Cataclysm-DDA/pull/78634))
