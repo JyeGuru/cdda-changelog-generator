@@ -1,3 +1,8 @@
+* [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
+* Corrects recipe for water purifying ([#78773](https://github.com/CleverRaven/Cataclysm-DDA/pull/78773))
+* [DinoMod] fona ([#78713](https://github.com/CleverRaven/Cataclysm-DDA/pull/78713))
+* fix duplicate integrated armor ([#78762](https://github.com/CleverRaven/Cataclysm-DDA/pull/78762))
+* Fix special_vision serialization ([#78764](https://github.com/CleverRaven/Cataclysm-DDA/pull/78764))
 * Weekly Changelog 2024-12-16 to 2024-12-23 ([#78734](https://github.com/CleverRaven/Cataclysm-DDA/pull/78734))
 
 ---
@@ -210,7 +215,6 @@
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
 * Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
 * Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))
-* Migrate compare item menu to imgui ([#78557](https://github.com/CleverRaven/Cataclysm-DDA/pull/78557))
 * fert_supplement is MISSION_ITEM ([#78606](https://github.com/CleverRaven/Cataclysm-DDA/pull/78606))
 * typified creature.h and monster.h ([#78565](https://github.com/CleverRaven/Cataclysm-DDA/pull/78565))
 * [Sky Island] Progressive autodoc improvement ([#78581](https://github.com/CleverRaven/Cataclysm-DDA/pull/78581))
@@ -228,10 +232,6 @@
 * filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
 * Fix Backport #77665 ([#78568](https://github.com/CleverRaven/Cataclysm-DDA/pull/78568))
-* Routine i18n updates on 14 December 2024 ([#78555](https://github.com/CleverRaven/Cataclysm-DDA/pull/78555))
 * Update COMPILING-VS-VCPKG.md ([#78561](https://github.com/CleverRaven/Cataclysm-DDA/pull/78561))
 * Rename the zombie llama, reword hospitalized human description ([#78563](https://github.com/CleverRaven/Cataclysm-DDA/pull/78563))
 * cataimgui::TextColoredParagraph can now handle a < followed by a tag ([#78560](https://github.com/CleverRaven/Cataclysm-DDA/pull/78560))
-* Check transforming items for consistency wrt cables ([#78556](https://github.com/CleverRaven/Cataclysm-DDA/pull/78556))
-* Add missing <cwctype> header ([#78558](https://github.com/CleverRaven/Cataclysm-DDA/pull/78558))
-* use wide chars in remove_punctuations ([#78552](https://github.com/CleverRaven/Cataclysm-DDA/pull/78552))
