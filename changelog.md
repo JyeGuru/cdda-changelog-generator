@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-27-1919 ([a014c17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-1919))
+
 * Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
 
 ---
@@ -180,11 +185,6 @@
 
 * [XE] Chronomagic Adjustments ([#78689](https://github.com/CleverRaven/Cataclysm-DDA/pull/78689))
 * Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-21-0444 ([5ccd156](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-0444))
-
 * Fix peeking out of windows causing you to fall ([#78662](https://github.com/CleverRaven/Cataclysm-DDA/pull/78662))
 * [Magiclysm] Give feral radiation mages Magic Fissile (and make them copy-from) ([#78660](https://github.com/CleverRaven/Cataclysm-DDA/pull/78660))
 * General map editor improvements ([#78656](https://github.com/CleverRaven/Cataclysm-DDA/pull/78656))
