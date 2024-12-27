@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-27-0310 (163ee18)
+* eoc: clear deferred math on type errors too (#78775)
+
 Cataclysm-DDA experimental build 2024-12-27-0054 (8bd4c5d)
 * Unhardcode mx_clay_deposit (#78722)
 
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2024-12-21-0444 (5ccd156)
 * [Magiclysm] The Great Damage Randomization and Normalization (#78611)
 * [ Xedra Evolved ] Help Files (#78664)
 * Clear npcs before terrain and vehicles (#78679)
-
-Cataclysm-DDA experimental build 2024-12-21-0058 (f4932f9)
 * fix sloppy removal of obsolete operation (#78674)
 * Allow more customizable XP costs for spell leveling (#78583)
 * [Sky Island] Death EoC cures modded conditions too (#78644)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2024-12-21-0058 (f4932f9)
 * Fix displaying of stats for ablative armor (#78590)
 * allow open cardboard door to be closed (#78595)
 * Bump ccaches 50% (#78591)
-* Pruning the old ``to-hit`` syntax - Part 14 (#78564)
 * [Xedra Evolved] Add Time Related Monsters (#78579)
 * Fix vehicle_turret test (#78567)
 * android pos -> pos_bub (#78587)

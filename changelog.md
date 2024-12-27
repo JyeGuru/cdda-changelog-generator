@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-27-0310 ([163ee18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-0310))
+
+* eoc: clear deferred math on type errors too ([#78775](https://github.com/CleverRaven/Cataclysm-DDA/pull/78775))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-27-0054 ([8bd4c5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-0054))
 
 * Unhardcode mx_clay_deposit ([#78722](https://github.com/CleverRaven/Cataclysm-DDA/pull/78722))
@@ -184,11 +190,6 @@
 * [Magiclysm] The Great Damage Randomization and Normalization ([#78611](https://github.com/CleverRaven/Cataclysm-DDA/pull/78611))
 * [ Xedra Evolved ] Help Files ([#78664](https://github.com/CleverRaven/Cataclysm-DDA/pull/78664))
 * Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-21-0058 ([f4932f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-0058))
-
 * fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
 * Allow more customizable XP costs for spell leveling ([#78583](https://github.com/CleverRaven/Cataclysm-DDA/pull/78583))
 * [Sky Island] Death EoC cures modded conditions too ([#78644](https://github.com/CleverRaven/Cataclysm-DDA/pull/78644))
@@ -229,7 +230,6 @@
 * Fix displaying of stats for ablative armor ([#78590](https://github.com/CleverRaven/Cataclysm-DDA/pull/78590))
 * allow open cardboard door to be closed ([#78595](https://github.com/CleverRaven/Cataclysm-DDA/pull/78595))
 * Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
-* Pruning the old ``to-hit`` syntax - Part 14 ([#78564](https://github.com/CleverRaven/Cataclysm-DDA/pull/78564))
 * [Xedra Evolved] Add Time Related Monsters ([#78579](https://github.com/CleverRaven/Cataclysm-DDA/pull/78579))
 * Fix vehicle_turret test ([#78567](https://github.com/CleverRaven/Cataclysm-DDA/pull/78567))
 * android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
