@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-27-0054 (8bd4c5d)
 * Unhardcode mx_clay_deposit (#78722)
 
 Cataclysm-DDA experimental build 2024-12-26-2300 (1e44b42)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2024-12-21-0444 (5ccd156)
 
 Cataclysm-DDA experimental build 2024-12-21-0058 (f4932f9)
 * fix sloppy removal of obsolete operation (#78674)
-
-Cataclysm-DDA experimental build 2024-12-20-2211 (66fe7dd)
 * Allow more customizable XP costs for spell leveling (#78583)
 * [Sky Island] Death EoC cures modded conditions too (#78644)
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure (#78665)

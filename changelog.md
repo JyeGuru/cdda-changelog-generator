@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-27-0054 ([8bd4c5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-0054))
+
 * Unhardcode mx_clay_deposit ([#78722](https://github.com/CleverRaven/Cataclysm-DDA/pull/78722))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-12-21-0058 ([f4932f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-0058))
 
 * fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-20-2211 ([66fe7dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-20-2211))
-
 * Allow more customizable XP costs for spell leveling ([#78583](https://github.com/CleverRaven/Cataclysm-DDA/pull/78583))
 * [Sky Island] Death EoC cures modded conditions too ([#78644](https://github.com/CleverRaven/Cataclysm-DDA/pull/78644))
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure ([#78665](https://github.com/CleverRaven/Cataclysm-DDA/pull/78665))
