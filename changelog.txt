@@ -1,3 +1,4 @@
+* Items in transparent pockets on the map illuminate surroundings (#78789)
 
 Cataclysm-DDA experimental build 2024-12-27-0310 (163ee18)
 * eoc: clear deferred math on type errors too (#78775)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2024-12-21-0444 (5ccd156)
 * Bump ccaches 50% (#78591)
 * [Xedra Evolved] Add Time Related Monsters (#78579)
 * android pos -> pos_bub (#78587)
-* filter: use the O(log(n)) instead of O(n) method (#78569)
 * Jewelry store fix and terrain pruning (#78578)

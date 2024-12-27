@@ -1,3 +1,4 @@
+* Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
 
 ---
 
@@ -231,5 +232,4 @@
 * Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
 * [Xedra Evolved] Add Time Related Monsters ([#78579](https://github.com/CleverRaven/Cataclysm-DDA/pull/78579))
 * android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
-* filter: use the O(log(n)) instead of O(n) method ([#78569](https://github.com/CleverRaven/Cataclysm-DDA/pull/78569))
 * Jewelry store fix and terrain pruning ([#78578](https://github.com/CleverRaven/Cataclysm-DDA/pull/78578))
