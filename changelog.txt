@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-28-0549 (9dff505)
 * Unhardcode burned ground extras (#78721)
 * Mark some specific furnitures/terrains examine as always allowed in faction territory (#78631)
 

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-28-0549 ([9dff505](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-0549))
+
 * Unhardcode burned ground extras ([#78721](https://github.com/CleverRaven/Cataclysm-DDA/pull/78721))
 * Mark some specific furnitures/terrains examine as always allowed in faction territory ([#78631](https://github.com/CleverRaven/Cataclysm-DDA/pull/78631))
 
