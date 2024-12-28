@@ -1,3 +1,4 @@
+* Unhardcode burned ground extras ([#78721](https://github.com/CleverRaven/Cataclysm-DDA/pull/78721))
 * Mark some specific furnitures/terrains examine as always allowed in faction territory ([#78631](https://github.com/CleverRaven/Cataclysm-DDA/pull/78631))
 
 ---
@@ -219,7 +220,6 @@
 * Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
 * Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))
 * fert_supplement is MISSION_ITEM ([#78606](https://github.com/CleverRaven/Cataclysm-DDA/pull/78606))
-* [Sky Island] Progressive autodoc improvement ([#78581](https://github.com/CleverRaven/Cataclysm-DDA/pull/78581))
 * [Magiclysm] Add feral technomancers ([#78599](https://github.com/CleverRaven/Cataclysm-DDA/pull/78599))
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood ([#78610](https://github.com/CleverRaven/Cataclysm-DDA/pull/78610))
 * [Magiclysm] Some spell tweaks ([#78586](https://github.com/CleverRaven/Cataclysm-DDA/pull/78586))

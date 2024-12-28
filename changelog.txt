@@ -1,3 +1,4 @@
+* Unhardcode burned ground extras (#78721)
 * Mark some specific furnitures/terrains examine as always allowed in faction territory (#78631)
 
 Cataclysm-DDA experimental build 2024-12-28-0404 (090a73f)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2024-12-22-0202 (aaee61b)
 * Don't assign missions during testing (#78614)
 * Various misc improvements to camp crafting (#78612)
 * fert_supplement is MISSION_ITEM (#78606)
-* [Sky Island] Progressive autodoc improvement (#78581)
 * [Magiclysm] Add feral technomancers (#78599)
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood (#78610)
 * [Magiclysm] Some spell tweaks (#78586)
