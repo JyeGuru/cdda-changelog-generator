@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-28-0805 (a078529)
 * typified stuff (#78793)
 * Revert "pianos give piano wire on disassembly" (#78799)
 
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2024-12-22-0813 (53cbd1e)
 
 Cataclysm-DDA experimental build 2024-12-22-0410 (248e058)
 * Streamline Vertical Movement While Levitating and Flying (#78686)
-
-Cataclysm-DDA experimental build 2024-12-22-0202 (aaee61b)
 * Update MAGIC.md (#78699)
 * Convection-shmonvection (#78697)
 * [XE] Chronomagic Adjustments (#78689)

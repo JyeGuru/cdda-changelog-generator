@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-28-0805 ([a078529](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-0805))
+
 * typified stuff ([#78793](https://github.com/CleverRaven/Cataclysm-DDA/pull/78793))
 * Revert "pianos give piano wire on disassembly" ([#78799](https://github.com/CleverRaven/Cataclysm-DDA/pull/78799))
 
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-12-22-0410 ([248e058](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-0410))
 
 * Streamline Vertical Movement While Levitating and Flying ([#78686](https://github.com/CleverRaven/Cataclysm-DDA/pull/78686))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-22-0202 ([aaee61b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-0202))
-
 * Update MAGIC.md ([#78699](https://github.com/CleverRaven/Cataclysm-DDA/pull/78699))
 * Convection-shmonvection ([#78697](https://github.com/CleverRaven/Cataclysm-DDA/pull/78697))
 * [XE] Chronomagic Adjustments ([#78689](https://github.com/CleverRaven/Cataclysm-DDA/pull/78689))
