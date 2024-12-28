@@ -1,3 +1,5 @@
+* typified stuff ([#78793](https://github.com/CleverRaven/Cataclysm-DDA/pull/78793))
+* Revert "pianos give piano wire on disassembly" ([#78799](https://github.com/CleverRaven/Cataclysm-DDA/pull/78799))
 
 ---
 
@@ -195,7 +197,6 @@
 * [ Xedra Evolved ] Help Files ([#78664](https://github.com/CleverRaven/Cataclysm-DDA/pull/78664))
 * Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
 * fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
-* Allow more customizable XP costs for spell leveling ([#78583](https://github.com/CleverRaven/Cataclysm-DDA/pull/78583))
 * [Sky Island] Death EoC cures modded conditions too ([#78644](https://github.com/CleverRaven/Cataclysm-DDA/pull/78644))
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure ([#78665](https://github.com/CleverRaven/Cataclysm-DDA/pull/78665))
 * Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))
@@ -211,7 +212,6 @@
 * clang-tidy ui.cpp ([#78616](https://github.com/CleverRaven/Cataclysm-DDA/pull/78616))
 * pre_ effects accounts for NO_DISEASE flag ([#78605](https://github.com/CleverRaven/Cataclysm-DDA/pull/78605))
 * Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
-* [Magiclysm] Add some new high Difficulty spells ([#78582](https://github.com/CleverRaven/Cataclysm-DDA/pull/78582))
 * typified character.h + npc.h ([#78623](https://github.com/CleverRaven/Cataclysm-DDA/pull/78623))
 * Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
 * [Magiclysm] Fix animist convert spell missing damage type ([#78621](https://github.com/CleverRaven/Cataclysm-DDA/pull/78621))
