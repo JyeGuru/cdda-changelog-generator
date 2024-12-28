@@ -1,3 +1,4 @@
+* Mark some specific furnitures/terrains examine as always allowed in faction territory (#78631)
 
 Cataclysm-DDA experimental build 2024-12-28-0404 (090a73f)
 * Routine i18n updates on 28 December 2024 (#78804)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2024-12-22-0202 (aaee61b)
 * Fix displaying of stats for ablative armor (#78590)
 * allow open cardboard door to be closed (#78595)
 * Bump ccaches 50% (#78591)
-* [Xedra Evolved] Add Time Related Monsters (#78579)
 * android pos -> pos_bub (#78587)

@@ -1,3 +1,4 @@
+* Mark some specific furnitures/terrains examine as always allowed in faction territory ([#78631](https://github.com/CleverRaven/Cataclysm-DDA/pull/78631))
 
 ---
 
@@ -226,5 +227,4 @@
 * Fix displaying of stats for ablative armor ([#78590](https://github.com/CleverRaven/Cataclysm-DDA/pull/78590))
 * allow open cardboard door to be closed ([#78595](https://github.com/CleverRaven/Cataclysm-DDA/pull/78595))
 * Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
-* [Xedra Evolved] Add Time Related Monsters ([#78579](https://github.com/CleverRaven/Cataclysm-DDA/pull/78579))
 * android pos -> pos_bub ([#78587](https://github.com/CleverRaven/Cataclysm-DDA/pull/78587))
