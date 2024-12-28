@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-28-0404 (090a73f)
+* Routine i18n updates on 28 December 2024 (#78804)
+
 Cataclysm-DDA experimental build 2024-12-28-0132 (676f5e2)
 * Make monsters being able to evaluate enchantment conditions (#78745)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2024-12-22-0410 (248e058)
 
 Cataclysm-DDA experimental build 2024-12-22-0202 (aaee61b)
 * Update MAGIC.md (#78699)
-
-Cataclysm-DDA experimental build 2024-12-21-1911 (aba1ffb)
 * Convection-shmonvection (#78697)
 * [XE] Chronomagic Adjustments (#78689)
 * Improve test coverage of mod combinations with mod_interactions (#78676)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-12-21-1911 (aba1ffb)
 * Bump ccaches 50% (#78591)
 * [Xedra Evolved] Add Time Related Monsters (#78579)
 * android pos -> pos_bub (#78587)
-* Jewelry store fix and terrain pruning (#78578)
