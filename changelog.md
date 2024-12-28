@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-28-1910 ([00ded91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-1910))
+
 * [DinoMod] fix zombie evolution pluralization ([#78778](https://github.com/CleverRaven/Cataclysm-DDA/pull/78778))
 
 ---
@@ -181,11 +186,6 @@
 
 * Prevent one instance of falling on spawn, fix falling after climbing ([#78695](https://github.com/CleverRaven/Cataclysm-DDA/pull/78695))
 * Fix water heater in window small lighthouse ([#78701](https://github.com/CleverRaven/Cataclysm-DDA/pull/78701))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-22-0813 ([53cbd1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-0813))
-
 * Make enchantment mutations work again ([#78659](https://github.com/CleverRaven/Cataclysm-DDA/pull/78659))
 * Streamline Vertical Movement While Levitating and Flying ([#78686](https://github.com/CleverRaven/Cataclysm-DDA/pull/78686))
 * Update MAGIC.md ([#78699](https://github.com/CleverRaven/Cataclysm-DDA/pull/78699))
