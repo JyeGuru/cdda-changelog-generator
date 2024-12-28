@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-28-0132 ([676f5e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-0132))
+
+* Make monsters being able to evaluate enchantment conditions ([#78745](https://github.com/CleverRaven/Cataclysm-DDA/pull/78745))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-27-1919 ([a014c17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-1919))
 
 * Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
@@ -169,20 +175,9 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-12-21-2217 ([5c79031](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-2217))
-
-* Canonical test ordering - lexicographic ([#78570](https://github.com/CleverRaven/Cataclysm-DDA/pull/78570))
-
----
-
 #### Cataclysm-DDA experimental build 2024-12-21-1911 ([aba1ffb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-1911))
 
 * Convection-shmonvection ([#78697](https://github.com/CleverRaven/Cataclysm-DDA/pull/78697))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-21-1610 ([562d799](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-21-1610))
-
 * [XE] Chronomagic Adjustments ([#78689](https://github.com/CleverRaven/Cataclysm-DDA/pull/78689))
 * Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
 * Fix peeking out of windows causing you to fall ([#78662](https://github.com/CleverRaven/Cataclysm-DDA/pull/78662))

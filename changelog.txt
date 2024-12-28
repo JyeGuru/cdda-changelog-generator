@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-28-0132 (676f5e2)
+* Make monsters being able to evaluate enchantment conditions (#78745)
+
 Cataclysm-DDA experimental build 2024-12-27-1919 (a014c17)
 * Items in transparent pockets on the map illuminate surroundings (#78789)
 
@@ -89,13 +92,8 @@ Cataclysm-DDA experimental build 2024-12-22-0410 (248e058)
 Cataclysm-DDA experimental build 2024-12-22-0202 (aaee61b)
 * Update MAGIC.md (#78699)
 
-Cataclysm-DDA experimental build 2024-12-21-2217 (5c79031)
-* Canonical test ordering - lexicographic (#78570)
-
 Cataclysm-DDA experimental build 2024-12-21-1911 (aba1ffb)
 * Convection-shmonvection (#78697)
-
-Cataclysm-DDA experimental build 2024-12-21-1610 (562d799)
 * [XE] Chronomagic Adjustments (#78689)
 * Improve test coverage of mod combinations with mod_interactions (#78676)
 * Fix peeking out of windows causing you to fall (#78662)
