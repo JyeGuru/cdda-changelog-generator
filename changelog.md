@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-29-2346 ([f676f9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-2346))
+
 * [Magiclysm/MoM/Xedra Evolved] Update potion fruit / matrix elixirs / goblin fruit to use consumption EoCs ([#78712](https://github.com/CleverRaven/Cataclysm-DDA/pull/78712))
 
 ---
@@ -176,11 +181,6 @@
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
 * expose speed to math ([#78694](https://github.com/CleverRaven/Cataclysm-DDA/pull/78694))
 * move health evaluation and assignment to math ([#78702](https://github.com/CleverRaven/Cataclysm-DDA/pull/78702))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-23-1840 ([f9ae19e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-1840))
-
 * Prevent segfault from `EOC_random_mutate` ([#78718](https://github.com/CleverRaven/Cataclysm-DDA/pull/78718))
 * Add Hazelnut Milk, Walnut Milk, and added them to various recipes ([#78687](https://github.com/CleverRaven/Cataclysm-DDA/pull/78687))
 * Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
