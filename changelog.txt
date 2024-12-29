@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-29-0006 (e0b3658)
+* Add history to Construction Search (#78819)
+
 Cataclysm-DDA experimental build 2024-12-28-1910 (00ded91)
 * [DinoMod] fix zombie evolution pluralization (#78778)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2024-12-22-2014 (47ff924)
 
 Cataclysm-DDA experimental build 2024-12-22-1804 (954e0ab)
 * remove a bit of dead code (#78708)
-
-Cataclysm-DDA experimental build 2024-12-22-1018 (25aabc1)
 * Prevent one instance of falling on spawn, fix falling after climbing (#78695)
 * Fix water heater in window small lighthouse (#78701)
 * Make enchantment mutations work again (#78659)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-12-22-1018 (25aabc1)
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood (#78610)
 * [Magiclysm] Progressive Difficulty reduction the more spells of that school you know (#78602)
 * allow open cardboard door to be closed (#78595)
-* Bump ccaches 50% (#78591)

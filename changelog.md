@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-29-0006 ([e0b3658](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-0006))
+
+* Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-28-1910 ([00ded91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-1910))
 
 * [DinoMod] fix zombie evolution pluralization ([#78778](https://github.com/CleverRaven/Cataclysm-DDA/pull/78778))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-12-22-1804 ([954e0ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-1804))
 
 * remove a bit of dead code ([#78708](https://github.com/CleverRaven/Cataclysm-DDA/pull/78708))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-22-1018 ([25aabc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-1018))
-
 * Prevent one instance of falling on spawn, fix falling after climbing ([#78695](https://github.com/CleverRaven/Cataclysm-DDA/pull/78695))
 * Fix water heater in window small lighthouse ([#78701](https://github.com/CleverRaven/Cataclysm-DDA/pull/78701))
 * Make enchantment mutations work again ([#78659](https://github.com/CleverRaven/Cataclysm-DDA/pull/78659))
@@ -231,4 +232,3 @@
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood ([#78610](https://github.com/CleverRaven/Cataclysm-DDA/pull/78610))
 * [Magiclysm] Progressive Difficulty reduction the more spells of that school you know ([#78602](https://github.com/CleverRaven/Cataclysm-DDA/pull/78602))
 * allow open cardboard door to be closed ([#78595](https://github.com/CleverRaven/Cataclysm-DDA/pull/78595))
-* Bump ccaches 50% ([#78591](https://github.com/CleverRaven/Cataclysm-DDA/pull/78591))
