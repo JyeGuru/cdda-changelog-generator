@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-29-2156 ([a16268b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-2156))
+
 * Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
 * NPC should not wield integrated armor ([#78810](https://github.com/CleverRaven/Cataclysm-DDA/pull/78810))
 * [Magiclysm] Fix wands ([#78825](https://github.com/CleverRaven/Cataclysm-DDA/pull/78825))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-12-23-1840 ([f9ae19e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-1840))
 
 * Prevent segfault from `EOC_random_mutate` ([#78718](https://github.com/CleverRaven/Cataclysm-DDA/pull/78718))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-23-0842 ([fdeeb8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-0842))
-
 * Add Hazelnut Milk, Walnut Milk, and added them to various recipes ([#78687](https://github.com/CleverRaven/Cataclysm-DDA/pull/78687))
 * Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
 * Routine i18n updates on 21 December 2024 ([#78688](https://github.com/CleverRaven/Cataclysm-DDA/pull/78688))
