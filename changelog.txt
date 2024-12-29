@@ -97,8 +97,6 @@ Cataclysm-DDA experimental build 2024-12-23-1840 (f9ae19e)
 
 Cataclysm-DDA experimental build 2024-12-23-0842 (fdeeb8d)
 * Add Hazelnut Milk, Walnut Milk, and added them to various recipes (#78687)
-
-Cataclysm-DDA experimental build 2024-12-22-2344 (48dfdab)
 * Make empty window frames with curtains terrain constructable (#78704)
 * Routine i18n updates on 21 December 2024 (#78688)
 * remove a bit of dead code (#78708)

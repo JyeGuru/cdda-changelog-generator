@@ -181,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-12-23-0842 ([fdeeb8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-0842))
 
 * Add Hazelnut Milk, Walnut Milk, and added them to various recipes ([#78687](https://github.com/CleverRaven/Cataclysm-DDA/pull/78687))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-22-2344 ([48dfdab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-22-2344))
-
 * Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
 * Routine i18n updates on 21 December 2024 ([#78688](https://github.com/CleverRaven/Cataclysm-DDA/pull/78688))
 * remove a bit of dead code ([#78708](https://github.com/CleverRaven/Cataclysm-DDA/pull/78708))
