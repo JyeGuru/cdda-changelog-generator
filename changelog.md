@@ -210,7 +210,6 @@
 * grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
 * More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
-* Weekly Changelog 2024-12-09 to 2024-12-16 ([#78598](https://github.com/CleverRaven/Cataclysm-DDA/pull/78598))
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains ([#78646](https://github.com/CleverRaven/Cataclysm-DDA/pull/78646))
 * clang-tidy ui.cpp ([#78616](https://github.com/CleverRaven/Cataclysm-DDA/pull/78616))
