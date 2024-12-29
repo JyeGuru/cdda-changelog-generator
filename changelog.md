@@ -1,3 +1,4 @@
+* [Magiclysm/MoM/Xedra Evolved] Update potion fruit / matrix elixirs / goblin fruit to use consumption EoCs ([#78712](https://github.com/CleverRaven/Cataclysm-DDA/pull/78712))
 
 ---
 
@@ -225,4 +226,3 @@
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
 * Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
 * Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))
-* [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood ([#78610](https://github.com/CleverRaven/Cataclysm-DDA/pull/78610))

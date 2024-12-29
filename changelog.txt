@@ -1,3 +1,4 @@
+* [Magiclysm/MoM/Xedra Evolved] Update potion fruit / matrix elixirs / goblin fruit to use consumption EoCs (#78712)
 
 Cataclysm-DDA experimental build 2024-12-29-2156 (a16268b)
 * Remove Feral Archaelogist (#78840)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2024-12-23-1840 (f9ae19e)
 * [Xedra Evolved] Add Arvore imbuement recipe (#78617)
 * Don't assign missions during testing (#78614)
 * Various misc improvements to camp crafting (#78612)
-* [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood (#78610)
