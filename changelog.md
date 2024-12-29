@@ -1,3 +1,4 @@
+* Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
 * NPC should not wield integrated armor ([#78810](https://github.com/CleverRaven/Cataclysm-DDA/pull/78810))
 * [Magiclysm] Fix wands ([#78825](https://github.com/CleverRaven/Cataclysm-DDA/pull/78825))
 
@@ -224,5 +225,4 @@
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
 * Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
 * Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))
-* fert_supplement is MISSION_ITEM ([#78606](https://github.com/CleverRaven/Cataclysm-DDA/pull/78606))
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood ([#78610](https://github.com/CleverRaven/Cataclysm-DDA/pull/78610))

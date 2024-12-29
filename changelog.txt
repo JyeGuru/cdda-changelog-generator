@@ -1,3 +1,4 @@
+* Remove Feral Archaelogist (#78840)
 * NPC should not wield integrated armor (#78810)
 * [Magiclysm] Fix wands (#78825)
 
@@ -140,5 +141,4 @@ Cataclysm-DDA experimental build 2024-12-23-0842 (fdeeb8d)
 * [Xedra Evolved] Add Arvore imbuement recipe (#78617)
 * Don't assign missions during testing (#78614)
 * Various misc improvements to camp crafting (#78612)
-* fert_supplement is MISSION_ITEM (#78606)
 * [Magiclysm/Innawood] Blacklist iron and plastic golems Innawood (#78610)
