@@ -1,3 +1,10 @@
+* Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-30-1551 ([8f6c5af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-1551))
+
+* [DinoMod] shorter names ([#78827](https://github.com/CleverRaven/Cataclysm-DDA/pull/78827))
 
 ---
 
@@ -174,11 +181,6 @@
 
 * Fix place terrain special performance ([#78663](https://github.com/CleverRaven/Cataclysm-DDA/pull/78663))
 * Typified zones ([#78677](https://github.com/CleverRaven/Cataclysm-DDA/pull/78677))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-24-0238 ([ee568d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-0238))
-
 * Adds disassembly recipe for denim sheet and patchwork denim sheet ([#78675](https://github.com/CleverRaven/Cataclysm-DDA/pull/78675))
 * Fixes infinite sleeping pill/chamomile tea bug ([#78684](https://github.com/CleverRaven/Cataclysm-DDA/pull/78684))
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
@@ -214,7 +216,6 @@
 * More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains ([#78646](https://github.com/CleverRaven/Cataclysm-DDA/pull/78646))
-* clang-tidy ui.cpp ([#78616](https://github.com/CleverRaven/Cataclysm-DDA/pull/78616))
 * Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
 * typified character.h + npc.h ([#78623](https://github.com/CleverRaven/Cataclysm-DDA/pull/78623))
 * Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
@@ -226,4 +227,3 @@
 * Subtle Foreshadowing: Quiet Farm Edition ([#78624](https://github.com/CleverRaven/Cataclysm-DDA/pull/78624))
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
-* Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
