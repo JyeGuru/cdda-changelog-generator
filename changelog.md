@@ -1,3 +1,4 @@
+* Fixed atmic smarphone and intergrated AR unable to read stored books. ([#78831](https://github.com/CleverRaven/Cataclysm-DDA/pull/78831))
 * [Magiclysm] Add the aenor, a giant heron riding mount ([#78782](https://github.com/CleverRaven/Cataclysm-DDA/pull/78782))
 * Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
 
@@ -220,7 +221,6 @@
 * Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
 * typified character.h + npc.h ([#78623](https://github.com/CleverRaven/Cataclysm-DDA/pull/78623))
 * Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
-* [Magiclysm] Fix animist convert spell missing damage type ([#78621](https://github.com/CleverRaven/Cataclysm-DDA/pull/78621))
 * Basic beach decorations ([#78638](https://github.com/CleverRaven/Cataclysm-DDA/pull/78638))
 * Add keybindings for throw and blind throw of wielded item ([#78625](https://github.com/CleverRaven/Cataclysm-DDA/pull/78625))
 * Fixes SegFault w/ flashlights & attached power ([#78633](https://github.com/CleverRaven/Cataclysm-DDA/pull/78633))
