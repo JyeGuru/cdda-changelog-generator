@@ -1,3 +1,4 @@
+* [Magiclysm] Add the aenor, a giant heron riding mount ([#78782](https://github.com/CleverRaven/Cataclysm-DDA/pull/78782))
 * Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
 
 ---
@@ -226,4 +227,3 @@
 * fix gateway typos ([#78640](https://github.com/CleverRaven/Cataclysm-DDA/pull/78640))
 * Subtle Foreshadowing: Quiet Farm Edition ([#78624](https://github.com/CleverRaven/Cataclysm-DDA/pull/78624))
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
-* [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
