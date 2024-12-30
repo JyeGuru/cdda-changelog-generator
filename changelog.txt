@@ -1,3 +1,4 @@
+* [Magiclysm] Stop workshop elves and their workshop from spawning (#78842)
 
 Cataclysm-DDA experimental build 2024-12-30-1811 (0f6295e)
 * Fixed atmic smarphone and intergrated AR unable to read stored books. (#78831)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2024-12-24-0628 (44b3817)
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay (#78651)
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains (#78646)
 * Raise basic build cache size even more. (#78650)
-* typified character.h + npc.h (#78623)
 * Don't assign missions during testing, for real this time (#78649)
 * Basic beach decorations (#78638)
 * Add keybindings for throw and blind throw of wielded item (#78625)
