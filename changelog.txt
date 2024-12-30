@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-12-30-2259 (76c2d10)
+* Prune nanofab_recipes (#78859)
+
 Cataclysm-DDA experimental build 2024-12-30-2005 (2bfc782)
 * Remove Dragonskin Vest and WS-47G Suit (#78851)
 * [Magiclysm] Stop workshop elves and their workshop from spawning (#78842)
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2024-12-24-1919 (47faee4)
 
 Cataclysm-DDA experimental build 2024-12-24-1654 (e384df8)
 * Remove manhole stair magic (#78705)
-
-Cataclysm-DDA experimental build 2024-12-24-1439 (bc462a8)
 * Magiclysm: Fix assertion failure due to resizing child window (#78652)
 * Fix enchantment (#78739)
 * Fix place terrain special performance (#78663)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2024-12-24-1439 (bc462a8)
 * Raise basic build cache size even more. (#78650)
 * Don't assign missions during testing, for real this time (#78649)
 * Basic beach decorations (#78638)
-* Add keybindings for throw and blind throw of wielded item (#78625)
 * Fixes SegFault w/ flashlights & attached power (#78633)
 * fix gateway typos (#78640)
 * Bagpipes Volume Change (#78627)

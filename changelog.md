@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-30-2259 ([76c2d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-2259))
+
+* Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-30-2005 ([2bfc782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-2005))
 
 * Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-12-24-1654 ([e384df8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-1654))
 
 * Remove manhole stair magic ([#78705](https://github.com/CleverRaven/Cataclysm-DDA/pull/78705))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-24-1439 ([bc462a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-1439))
-
 * Magiclysm: Fix assertion failure due to resizing child window ([#78652](https://github.com/CleverRaven/Cataclysm-DDA/pull/78652))
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
 * Fix place terrain special performance ([#78663](https://github.com/CleverRaven/Cataclysm-DDA/pull/78663))
@@ -223,7 +224,6 @@
 * Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
 * Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
 * Basic beach decorations ([#78638](https://github.com/CleverRaven/Cataclysm-DDA/pull/78638))
-* Add keybindings for throw and blind throw of wielded item ([#78625](https://github.com/CleverRaven/Cataclysm-DDA/pull/78625))
 * Fixes SegFault w/ flashlights & attached power ([#78633](https://github.com/CleverRaven/Cataclysm-DDA/pull/78633))
 * fix gateway typos ([#78640](https://github.com/CleverRaven/Cataclysm-DDA/pull/78640))
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
