@@ -1,3 +1,10 @@
+* wp_skill makes you avoid bad weakpoint ([#78797](https://github.com/CleverRaven/Cataclysm-DDA/pull/78797))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-30-0637 ([9a59660](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-0637))
+
+* [Magiclysm] Add technomantic augmentation clinic ([#78829](https://github.com/CleverRaven/Cataclysm-DDA/pull/78829))
 
 ---
 
@@ -173,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-12-23-2245 ([0f016e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-2245))
 
 * Fixes infinite sleeping pill/chamomile tea bug ([#78684](https://github.com/CleverRaven/Cataclysm-DDA/pull/78684))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-23-2051 ([0664114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-2051))
-
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
 * expose speed to math ([#78694](https://github.com/CleverRaven/Cataclysm-DDA/pull/78694))
 * move health evaluation and assignment to math ([#78702](https://github.com/CleverRaven/Cataclysm-DDA/pull/78702))
@@ -197,7 +199,6 @@
 * Fix peeking out of windows causing you to fall ([#78662](https://github.com/CleverRaven/Cataclysm-DDA/pull/78662))
 * [Magiclysm] Give feral radiation mages Magic Fissile (and make them copy-from) ([#78660](https://github.com/CleverRaven/Cataclysm-DDA/pull/78660))
 * General map editor improvements ([#78656](https://github.com/CleverRaven/Cataclysm-DDA/pull/78656))
-* [Magiclysm] The Great Damage Randomization and Normalization ([#78611](https://github.com/CleverRaven/Cataclysm-DDA/pull/78611))
 * [ Xedra Evolved ] Help Files ([#78664](https://github.com/CleverRaven/Cataclysm-DDA/pull/78664))
 * Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
 * fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
@@ -225,4 +226,3 @@
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
 * [Xedra Evolved] Add Arvore imbuement recipe ([#78617](https://github.com/CleverRaven/Cataclysm-DDA/pull/78617))
 * Don't assign missions during testing ([#78614](https://github.com/CleverRaven/Cataclysm-DDA/pull/78614))
-* Various misc improvements to camp crafting ([#78612](https://github.com/CleverRaven/Cataclysm-DDA/pull/78612))
