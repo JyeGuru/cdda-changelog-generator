@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-30-0827 ([7f812e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-0827))
+
 * Zombified humans are still humans ([#78796](https://github.com/CleverRaven/Cataclysm-DDA/pull/78796))
 * wp_skill makes you avoid bad weakpoint ([#78797](https://github.com/CleverRaven/Cataclysm-DDA/pull/78797))
 
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-12-24-0238 ([ee568d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-0238))
 
 * Adds disassembly recipe for denim sheet and patchwork denim sheet ([#78675](https://github.com/CleverRaven/Cataclysm-DDA/pull/78675))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-23-2245 ([0f016e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-23-2245))
-
 * Fixes infinite sleeping pill/chamomile tea bug ([#78684](https://github.com/CleverRaven/Cataclysm-DDA/pull/78684))
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
 * expose speed to math ([#78694](https://github.com/CleverRaven/Cataclysm-DDA/pull/78694))
