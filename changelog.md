@@ -1,3 +1,4 @@
+* Zombified humans are still humans ([#78796](https://github.com/CleverRaven/Cataclysm-DDA/pull/78796))
 * wp_skill makes you avoid bad weakpoint ([#78797](https://github.com/CleverRaven/Cataclysm-DDA/pull/78797))
 
 ---
