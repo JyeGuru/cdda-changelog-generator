@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-30-2005 ([2bfc782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-2005))
+
+* Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
 * [Magiclysm] Stop workshop elves and their workshop from spawning ([#78842](https://github.com/CleverRaven/Cataclysm-DDA/pull/78842))
 
 ---
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-12-24-1439 ([bc462a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-1439))
 
 * Magiclysm: Fix assertion failure due to resizing child window ([#78652](https://github.com/CleverRaven/Cataclysm-DDA/pull/78652))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-24-0628 ([44b3817](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-0628))
-
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
 * Fix place terrain special performance ([#78663](https://github.com/CleverRaven/Cataclysm-DDA/pull/78663))
 * Typified zones ([#78677](https://github.com/CleverRaven/Cataclysm-DDA/pull/78677))
@@ -225,5 +226,4 @@
 * Add keybindings for throw and blind throw of wielded item ([#78625](https://github.com/CleverRaven/Cataclysm-DDA/pull/78625))
 * Fixes SegFault w/ flashlights & attached power ([#78633](https://github.com/CleverRaven/Cataclysm-DDA/pull/78633))
 * fix gateway typos ([#78640](https://github.com/CleverRaven/Cataclysm-DDA/pull/78640))
-* Subtle Foreshadowing: Quiet Farm Edition ([#78624](https://github.com/CleverRaven/Cataclysm-DDA/pull/78624))
 * Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
