@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-12-30-1811 (0f6295e)
 * Fixed atmic smarphone and intergrated AR unable to read stored books. (#78831)
 * [Magiclysm] Add the aenor, a giant heron riding mount (#78782)
 * Paracleasian energy_increment Fix (#78849)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2024-12-24-1439 (bc462a8)
 
 Cataclysm-DDA experimental build 2024-12-24-0628 (44b3817)
 * Fix enchantment (#78739)
-
-Cataclysm-DDA experimental build 2024-12-24-0431 (8fd2039)
 * Fix place terrain special performance (#78663)
 * Typified zones (#78677)
 * Adds disassembly recipe for denim sheet and patchwork denim sheet (#78675)

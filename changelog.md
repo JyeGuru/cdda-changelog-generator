@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-30-1811 ([0f6295e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-1811))
+
 * Fixed atmic smarphone and intergrated AR unable to read stored books. ([#78831](https://github.com/CleverRaven/Cataclysm-DDA/pull/78831))
 * [Magiclysm] Add the aenor, a giant heron riding mount ([#78782](https://github.com/CleverRaven/Cataclysm-DDA/pull/78782))
 * Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-12-24-0628 ([44b3817](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-0628))
 
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-24-0431 ([8fd2039](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-0431))
-
 * Fix place terrain special performance ([#78663](https://github.com/CleverRaven/Cataclysm-DDA/pull/78663))
 * Typified zones ([#78677](https://github.com/CleverRaven/Cataclysm-DDA/pull/78677))
 * Adds disassembly recipe for denim sheet and patchwork denim sheet ([#78675](https://github.com/CleverRaven/Cataclysm-DDA/pull/78675))
