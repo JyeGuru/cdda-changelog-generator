@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-12-31-1117 ([af9c8c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-1117))
+
+* fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-12-30-2259 ([76c2d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-2259))
 
 * Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
@@ -176,11 +182,6 @@
 
 * Fix "remove_vehicles" when used without or with empty "vehicles" ([#78724](https://github.com/CleverRaven/Cataclysm-DDA/pull/78724))
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-24-1654 ([e384df8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-1654))
-
 * Remove manhole stair magic ([#78705](https://github.com/CleverRaven/Cataclysm-DDA/pull/78705))
 * Magiclysm: Fix assertion failure due to resizing child window ([#78652](https://github.com/CleverRaven/Cataclysm-DDA/pull/78652))
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
