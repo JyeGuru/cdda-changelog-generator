@@ -1,3 +1,8 @@
+* [Magiclysm] Add zombie dwarves to mines (#78855)
+
+Cataclysm-DDA experimental build 2024-12-31-1547 (cb710d8)
+* add ctiric acid as alternative to lemons to mascarpone recipe (#78868)
+* Make branch name message less scary (#78835)
 
 Cataclysm-DDA experimental build 2024-12-31-1117 (af9c8c9)
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 (#78870)
@@ -53,7 +58,6 @@ Cataclysm-DDA experimental build 2024-12-28-0805 (a078529)
 
 Cataclysm-DDA experimental build 2024-12-28-0549 (9dff505)
 * Unhardcode burned ground extras (#78721)
-* Mark some specific furnitures/terrains examine as always allowed in faction territory (#78631)
 
 Cataclysm-DDA experimental build 2024-12-28-0404 (090a73f)
 * Routine i18n updates on 28 December 2024 (#78804)
@@ -94,8 +98,6 @@ Cataclysm-DDA experimental build 2024-12-25-0654 (124c494)
 
 Cataclysm-DDA experimental build 2024-12-25-0459 (3f09bef)
 * Eggplants can be smoked in the rack (#78751)
-
-Cataclysm-DDA experimental build 2024-12-24-1919 (47faee4)
 * Fix "remove_vehicles" when used without or with empty "vehicles" (#78724)
 * Use ccache --evict-older-than for more accurate and leaner ccaches. (#78743)
 * Remove manhole stair magic (#78705)
@@ -131,7 +133,6 @@ Cataclysm-DDA experimental build 2024-12-24-1919 (47faee4)
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure (#78665)
 * Remove repology badge (#78680)
 * pianos give piano wire on disassembly (#78672)
-* Fix Small Lighthouse Tower Floor (#78628)
 * Added randomize hotkey to traits selector (#78634)
 * grocery store fix (#78671)
 * typified character, npc and explosion stuff (#78655)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-12-24-1919 (47faee4)
 * Basic beach decorations (#78638)
 * Fixes SegFault w/ flashlights & attached power (#78633)
 * fix gateway typos (#78640)
-* Bagpipes Volume Change (#78627)

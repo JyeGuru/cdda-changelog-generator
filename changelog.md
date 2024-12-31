@@ -1,3 +1,11 @@
+* [Magiclysm] Add zombie dwarves to mines ([#78855](https://github.com/CleverRaven/Cataclysm-DDA/pull/78855))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-31-1547 ([cb710d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-1547))
+
+* add ctiric acid as alternative to lemons to mascarpone recipe ([#78868](https://github.com/CleverRaven/Cataclysm-DDA/pull/78868))
+* Make branch name message less scary ([#78835](https://github.com/CleverRaven/Cataclysm-DDA/pull/78835))
 
 ---
 
@@ -101,7 +109,6 @@
 #### Cataclysm-DDA experimental build 2024-12-28-0549 ([9dff505](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-0549))
 
 * Unhardcode burned ground extras ([#78721](https://github.com/CleverRaven/Cataclysm-DDA/pull/78721))
-* Mark some specific furnitures/terrains examine as always allowed in faction territory ([#78631](https://github.com/CleverRaven/Cataclysm-DDA/pull/78631))
 
 ---
 
@@ -175,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-12-25-0459 ([3f09bef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-25-0459))
 
 * Eggplants can be smoked in the rack ([#78751](https://github.com/CleverRaven/Cataclysm-DDA/pull/78751))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-24-1919 ([47faee4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-24-1919))
-
 * Fix "remove_vehicles" when used without or with empty "vehicles" ([#78724](https://github.com/CleverRaven/Cataclysm-DDA/pull/78724))
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
 * Remove manhole stair magic ([#78705](https://github.com/CleverRaven/Cataclysm-DDA/pull/78705))
@@ -215,7 +217,6 @@
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure ([#78665](https://github.com/CleverRaven/Cataclysm-DDA/pull/78665))
 * Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))
 * pianos give piano wire on disassembly ([#78672](https://github.com/CleverRaven/Cataclysm-DDA/pull/78672))
-* Fix Small Lighthouse Tower Floor ([#78628](https://github.com/CleverRaven/Cataclysm-DDA/pull/78628))
 * Added randomize hotkey to traits selector ([#78634](https://github.com/CleverRaven/Cataclysm-DDA/pull/78634))
 * grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
@@ -227,4 +228,3 @@
 * Basic beach decorations ([#78638](https://github.com/CleverRaven/Cataclysm-DDA/pull/78638))
 * Fixes SegFault w/ flashlights & attached power ([#78633](https://github.com/CleverRaven/Cataclysm-DDA/pull/78633))
 * fix gateway typos ([#78640](https://github.com/CleverRaven/Cataclysm-DDA/pull/78640))
-* Bagpipes Volume Change ([#78627](https://github.com/CleverRaven/Cataclysm-DDA/pull/78627))
