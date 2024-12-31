@@ -1,3 +1,8 @@
+* Better skill requirement UI for martial arts ([#78852](https://github.com/CleverRaven/Cataclysm-DDA/pull/78852))
+* Correct some canning recipes ([#78854](https://github.com/CleverRaven/Cataclysm-DDA/pull/78854))
+* [Magiclysm] Set feral wizards to copy-from ([#78856](https://github.com/CleverRaven/Cataclysm-DDA/pull/78856))
+* [DinoMod] more accurate adulthood numbers ([#78858](https://github.com/CleverRaven/Cataclysm-DDA/pull/78858))
+* Removes sees_player_retro mod ([#78872](https://github.com/CleverRaven/Cataclysm-DDA/pull/78872))
 
 ---
 
@@ -218,13 +223,9 @@
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure ([#78665](https://github.com/CleverRaven/Cataclysm-DDA/pull/78665))
 * Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))
 * pianos give piano wire on disassembly ([#78672](https://github.com/CleverRaven/Cataclysm-DDA/pull/78672))
-* Added randomize hotkey to traits selector ([#78634](https://github.com/CleverRaven/Cataclysm-DDA/pull/78634))
 * grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
-* More snippet names ([#78642](https://github.com/CleverRaven/Cataclysm-DDA/pull/78642))
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
 * Structure Damage: Car Crashes, migration to ter_furn_transform to retain terrains ([#78646](https://github.com/CleverRaven/Cataclysm-DDA/pull/78646))
 * Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
 * Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
-* Basic beach decorations ([#78638](https://github.com/CleverRaven/Cataclysm-DDA/pull/78638))
-* fix gateway typos ([#78640](https://github.com/CleverRaven/Cataclysm-DDA/pull/78640))
