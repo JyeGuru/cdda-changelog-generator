@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-31-2151 ([2546cd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-2151))
+
 * Better skill requirement UI for martial arts ([#78852](https://github.com/CleverRaven/Cataclysm-DDA/pull/78852))
 * Correct some canning recipes ([#78854](https://github.com/CleverRaven/Cataclysm-DDA/pull/78854))
 * [Magiclysm] Set feral wizards to copy-from ([#78856](https://github.com/CleverRaven/Cataclysm-DDA/pull/78856))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-12-26-1755 ([9a0d234](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-26-1755))
 
 * Expand and use cataimgui scrolling function ([#78763](https://github.com/CleverRaven/Cataclysm-DDA/pull/78763))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-25-1535 ([7ba4c09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-25-1535))
-
 * [Magiclysm] Freshen Up removes skunk spray ([#78759](https://github.com/CleverRaven/Cataclysm-DDA/pull/78759))
 * [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
 * Eggplants can be smoked in the rack ([#78751](https://github.com/CleverRaven/Cataclysm-DDA/pull/78751))
