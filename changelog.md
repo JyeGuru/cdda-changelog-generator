@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-31-2335 ([2d8e07d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-2335))
+
 * Suppress debug message when dragging furniture off the ledge ([#78847](https://github.com/CleverRaven/Cataclysm-DDA/pull/78847))
 
 ---
@@ -180,11 +185,6 @@
 * fix duplicate integrated armor ([#78762](https://github.com/CleverRaven/Cataclysm-DDA/pull/78762))
 * Fix special_vision serialization ([#78764](https://github.com/CleverRaven/Cataclysm-DDA/pull/78764))
 * Weekly Changelog 2024-12-16 to 2024-12-23 ([#78734](https://github.com/CleverRaven/Cataclysm-DDA/pull/78734))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-26-1755 ([9a0d234](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-26-1755))
-
 * Expand and use cataimgui scrolling function ([#78763](https://github.com/CleverRaven/Cataclysm-DDA/pull/78763))
 * [Magiclysm] Freshen Up removes skunk spray ([#78759](https://github.com/CleverRaven/Cataclysm-DDA/pull/78759))
 * [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
