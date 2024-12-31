@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-12-31-1935 ([1a410b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-1935))
+
 * Remove 460 Rowland ([#78867](https://github.com/CleverRaven/Cataclysm-DDA/pull/78867))
 
 ---
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-12-25-1535 ([7ba4c09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-25-1535))
 
 * [Magiclysm] Freshen Up removes skunk spray ([#78759](https://github.com/CleverRaven/Cataclysm-DDA/pull/78759))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-25-0654 ([124c494](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-25-0654))
-
 * [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
 * Eggplants can be smoked in the rack ([#78751](https://github.com/CleverRaven/Cataclysm-DDA/pull/78751))
 * Fix "remove_vehicles" when used without or with empty "vehicles" ([#78724](https://github.com/CleverRaven/Cataclysm-DDA/pull/78724))
