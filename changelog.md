@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-01-2342 ([5a00b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-2342))
+
 * [Magicylsm] Forge of Wonders Redesign ([#78846](https://github.com/CleverRaven/Cataclysm-DDA/pull/78846))
 *  Scale spell window to spell list and terminal size ([#78883](https://github.com/CleverRaven/Cataclysm-DDA/pull/78883))
 * [Magiclysm] Obsolete shambling mound, give shaman the Keeper of the Glades summon ([#78826](https://github.com/CleverRaven/Cataclysm-DDA/pull/78826))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-12-28-0132 ([676f5e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-0132))
 
 * Make monsters being able to evaluate enchantment conditions ([#78745](https://github.com/CleverRaven/Cataclysm-DDA/pull/78745))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-27-1919 ([a014c17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-1919))
-
 * Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
 * eoc: clear deferred math on type errors too ([#78775](https://github.com/CleverRaven/Cataclysm-DDA/pull/78775))
 * Unhardcode mx_clay_deposit ([#78722](https://github.com/CleverRaven/Cataclysm-DDA/pull/78722))
