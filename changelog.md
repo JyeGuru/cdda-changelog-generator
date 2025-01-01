@@ -1,3 +1,4 @@
+* [Magicylsm] Forge of Wonders Redesign ([#78846](https://github.com/CleverRaven/Cataclysm-DDA/pull/78846))
 *  Scale spell window to spell list and terminal size ([#78883](https://github.com/CleverRaven/Cataclysm-DDA/pull/78883))
 * [Magiclysm] Obsolete shambling mound, give shaman the Keeper of the Glades summon ([#78826](https://github.com/CleverRaven/Cataclysm-DDA/pull/78826))
 * Eyebot removal from Lore Doc ([#78884](https://github.com/CleverRaven/Cataclysm-DDA/pull/78884))
@@ -226,7 +227,6 @@
 * Convection-shmonvection ([#78697](https://github.com/CleverRaven/Cataclysm-DDA/pull/78697))
 * [XE] Chronomagic Adjustments ([#78689](https://github.com/CleverRaven/Cataclysm-DDA/pull/78689))
 * Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
-* Fix peeking out of windows causing you to fall ([#78662](https://github.com/CleverRaven/Cataclysm-DDA/pull/78662))
 * [ Xedra Evolved ] Help Files ([#78664](https://github.com/CleverRaven/Cataclysm-DDA/pull/78664))
 * Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
 * fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
