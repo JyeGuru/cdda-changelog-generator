@@ -1,3 +1,4 @@
+* Remove a few nonsense recipes (#78863)
 
 Cataclysm-DDA experimental build 2025-01-01-0451 (23c17a7)
 * Prune a few military related itemgroups (#78860)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-12-27-0054 (8bd4c5d)
 * pianos give piano wire on disassembly (#78672)
 * grocery store fix (#78671)
 * typified character, npc and explosion stuff (#78655)
-* [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay (#78651)
