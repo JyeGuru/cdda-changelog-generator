@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-01-0451 ([23c17a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-0451))
+
+* Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-01-0136 ([19c0aa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-0136))
 
 * [innawood] fix modern dog drops ([#78821](https://github.com/CleverRaven/Cataclysm-DDA/pull/78821))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-12-27-0054 ([8bd4c5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-0054))
 
 * Unhardcode mx_clay_deposit ([#78722](https://github.com/CleverRaven/Cataclysm-DDA/pull/78722))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-26-2300 ([1e44b42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-26-2300))
-
 * Allow proper overlaying of weather_generator ([#78726](https://github.com/CleverRaven/Cataclysm-DDA/pull/78726))
 * typified stuff ([#78753](https://github.com/CleverRaven/Cataclysm-DDA/pull/78753))
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
@@ -228,4 +229,3 @@
 * grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
-* Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
