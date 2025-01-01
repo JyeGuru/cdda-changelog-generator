@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-01-1758 (3f81cc3)
+* [Magiclysm] More Forge price adjustments (#78882)
+
 Cataclysm-DDA experimental build 2025-01-01-0713 (5c87f27)
 * Remove a few nonsense recipes (#78863)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2024-12-28-0132 (676f5e2)
 
 Cataclysm-DDA experimental build 2024-12-27-1919 (a014c17)
 * Items in transparent pockets on the map illuminate surroundings (#78789)
-
-Cataclysm-DDA experimental build 2024-12-27-0310 (163ee18)
 * eoc: clear deferred math on type errors too (#78775)
 * Unhardcode mx_clay_deposit (#78722)
 * Allow proper overlaying of weather_generator (#78726)
@@ -112,7 +113,6 @@ Cataclysm-DDA experimental build 2024-12-27-0310 (163ee18)
 * Fix "remove_vehicles" when used without or with empty "vehicles" (#78724)
 * Use ccache --evict-older-than for more accurate and leaner ccaches. (#78743)
 * Remove manhole stair magic (#78705)
-* Magiclysm: Fix assertion failure due to resizing child window (#78652)
 * Fix enchantment (#78739)
 * Fix place terrain special performance (#78663)
 * Typified zones (#78677)
