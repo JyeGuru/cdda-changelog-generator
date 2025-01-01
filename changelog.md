@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-01-0713 ([5c87f27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-0713))
+
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-12-27-0310 ([163ee18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-0310))
 
 * eoc: clear deferred math on type errors too ([#78775](https://github.com/CleverRaven/Cataclysm-DDA/pull/78775))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-27-0054 ([8bd4c5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-27-0054))
-
 * Unhardcode mx_clay_deposit ([#78722](https://github.com/CleverRaven/Cataclysm-DDA/pull/78722))
 * Allow proper overlaying of weather_generator ([#78726](https://github.com/CleverRaven/Cataclysm-DDA/pull/78726))
 * typified stuff ([#78753](https://github.com/CleverRaven/Cataclysm-DDA/pull/78753))

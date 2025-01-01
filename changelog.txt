@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-01-0713 (5c87f27)
 * Remove a few nonsense recipes (#78863)
 
 Cataclysm-DDA experimental build 2025-01-01-0451 (23c17a7)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2024-12-27-1919 (a014c17)
 
 Cataclysm-DDA experimental build 2024-12-27-0310 (163ee18)
 * eoc: clear deferred math on type errors too (#78775)
-
-Cataclysm-DDA experimental build 2024-12-27-0054 (8bd4c5d)
 * Unhardcode mx_clay_deposit (#78722)
 * Allow proper overlaying of weather_generator (#78726)
 * typified stuff (#78753)
