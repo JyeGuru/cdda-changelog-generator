@@ -229,4 +229,3 @@
 * typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
 * [Magiclysm/Innawood] Fix mod loading error in builds by deleting region overlay ([#78651](https://github.com/CleverRaven/Cataclysm-DDA/pull/78651))
 * Raise basic build cache size even more. ([#78650](https://github.com/CleverRaven/Cataclysm-DDA/pull/78650))
-* Don't assign missions during testing, for real this time ([#78649](https://github.com/CleverRaven/Cataclysm-DDA/pull/78649))
