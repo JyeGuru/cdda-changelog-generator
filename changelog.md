@@ -1,3 +1,10 @@
+* Eyebot removal from Lore Doc ([#78884](https://github.com/CleverRaven/Cataclysm-DDA/pull/78884))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-01-2159 ([e65b0d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-2159))
+
+* Fix title menu tileset layering error ([#78670](https://github.com/CleverRaven/Cataclysm-DDA/pull/78670))
 
 ---
 
@@ -220,7 +227,6 @@
 * Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
 * Fix peeking out of windows causing you to fall ([#78662](https://github.com/CleverRaven/Cataclysm-DDA/pull/78662))
 * [Magiclysm] Give feral radiation mages Magic Fissile (and make them copy-from) ([#78660](https://github.com/CleverRaven/Cataclysm-DDA/pull/78660))
-* General map editor improvements ([#78656](https://github.com/CleverRaven/Cataclysm-DDA/pull/78656))
 * [ Xedra Evolved ] Help Files ([#78664](https://github.com/CleverRaven/Cataclysm-DDA/pull/78664))
 * Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
 * fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
@@ -228,4 +234,3 @@
 * Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))
 * pianos give piano wire on disassembly ([#78672](https://github.com/CleverRaven/Cataclysm-DDA/pull/78672))
 * grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
-* typified character, npc and explosion stuff ([#78655](https://github.com/CleverRaven/Cataclysm-DDA/pull/78655))
