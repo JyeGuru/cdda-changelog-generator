@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-01-0136 ([19c0aa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-0136))
+
 * [innawood] fix modern dog drops ([#78821](https://github.com/CleverRaven/Cataclysm-DDA/pull/78821))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-12-26-2300 ([1e44b42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-26-2300))
 
 * Allow proper overlaying of weather_generator ([#78726](https://github.com/CleverRaven/Cataclysm-DDA/pull/78726))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-26-2002 ([ef49525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-26-2002))
-
 * typified stuff ([#78753](https://github.com/CleverRaven/Cataclysm-DDA/pull/78753))
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
