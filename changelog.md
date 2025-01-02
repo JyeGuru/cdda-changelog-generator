@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-02-0456 ([1fa91ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-02-0456))
+
+* [Magiclysm] Augmentation clinic adjustments ([#78889](https://github.com/CleverRaven/Cataclysm-DDA/pull/78889))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-02-0132 ([1c57e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-02-0132))
 
 * [XEDRA Evolved] I want to believe ([#78878](https://github.com/CleverRaven/Cataclysm-DDA/pull/78878))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-12-28-0549 ([9dff505](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-0549))
 
 * Unhardcode burned ground extras ([#78721](https://github.com/CleverRaven/Cataclysm-DDA/pull/78721))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-28-0404 ([090a73f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-0404))
-
 * Routine i18n updates on 28 December 2024 ([#78804](https://github.com/CleverRaven/Cataclysm-DDA/pull/78804))
 * Make monsters being able to evaluate enchantment conditions ([#78745](https://github.com/CleverRaven/Cataclysm-DDA/pull/78745))
 * Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
@@ -227,7 +228,6 @@
 * Convection-shmonvection ([#78697](https://github.com/CleverRaven/Cataclysm-DDA/pull/78697))
 * [XE] Chronomagic Adjustments ([#78689](https://github.com/CleverRaven/Cataclysm-DDA/pull/78689))
 * Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
-* [ Xedra Evolved ] Help Files ([#78664](https://github.com/CleverRaven/Cataclysm-DDA/pull/78664))
 * Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
 * fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
 * [Magiclysm] Spells cost 1/5 of their normal cost on spell failure ([#78665](https://github.com/CleverRaven/Cataclysm-DDA/pull/78665))
