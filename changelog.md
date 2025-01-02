@@ -22,12 +22,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-01-01-2159 ([e65b0d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-2159))
-
-* Fix title menu tileset layering error ([#78670](https://github.com/CleverRaven/Cataclysm-DDA/pull/78670))
-
----
-
 #### Cataclysm-DDA experimental build 2025-01-01-1758 ([3f81cc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-1758))
 
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))
@@ -230,7 +224,5 @@
 * Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
 * Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
 * fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
-* [Magiclysm] Spells cost 1/5 of their normal cost on spell failure ([#78665](https://github.com/CleverRaven/Cataclysm-DDA/pull/78665))
 * Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))
 * pianos give piano wire on disassembly ([#78672](https://github.com/CleverRaven/Cataclysm-DDA/pull/78672))
-* grocery store fix ([#78671](https://github.com/CleverRaven/Cataclysm-DDA/pull/78671))
