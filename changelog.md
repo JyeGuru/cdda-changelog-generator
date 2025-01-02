@@ -1,3 +1,4 @@
+* [XEDRA Evolved] I want to believe ([#78878](https://github.com/CleverRaven/Cataclysm-DDA/pull/78878))
 
 ---
 
@@ -208,7 +209,6 @@
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
 * Remove manhole stair magic ([#78705](https://github.com/CleverRaven/Cataclysm-DDA/pull/78705))
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
-* Fix place terrain special performance ([#78663](https://github.com/CleverRaven/Cataclysm-DDA/pull/78663))
 * Typified zones ([#78677](https://github.com/CleverRaven/Cataclysm-DDA/pull/78677))
 * Adds disassembly recipe for denim sheet and patchwork denim sheet ([#78675](https://github.com/CleverRaven/Cataclysm-DDA/pull/78675))
 * Fixes infinite sleeping pill/chamomile tea bug ([#78684](https://github.com/CleverRaven/Cataclysm-DDA/pull/78684))
