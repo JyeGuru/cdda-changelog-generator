@@ -1,3 +1,4 @@
+* Pin gcc 9 and 11 workflows to 22.04 (#78894)
 
 Cataclysm-DDA experimental build 2025-01-02-0456 (1fa91ba)
 * [Magiclysm] Augmentation clinic adjustments (#78889)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2024-12-28-0549 (9dff505)
 * Clear npcs before terrain and vehicles (#78679)
 * fix sloppy removal of obsolete operation (#78674)
 * Remove repology badge (#78680)
-* pianos give piano wire on disassembly (#78672)
