@@ -1,3 +1,4 @@
+* Add recast last spell (Repeat last supernatural ability) ([#78919](https://github.com/CleverRaven/Cataclysm-DDA/pull/78919))
 * Pin gcc 9 and 11 workflows to 22.04 ([#78894](https://github.com/CleverRaven/Cataclysm-DDA/pull/78894))
 
 ---
@@ -224,5 +225,4 @@
 * [XE] Chronomagic Adjustments ([#78689](https://github.com/CleverRaven/Cataclysm-DDA/pull/78689))
 * Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
 * Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
-* fix sloppy removal of obsolete operation ([#78674](https://github.com/CleverRaven/Cataclysm-DDA/pull/78674))
 * Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))

@@ -1,3 +1,4 @@
+* Add recast last spell (Repeat last supernatural ability) (#78919)
 * Pin gcc 9 and 11 workflows to 22.04 (#78894)
 
 Cataclysm-DDA experimental build 2025-01-02-0456 (1fa91ba)
@@ -140,5 +141,4 @@ Cataclysm-DDA experimental build 2024-12-28-0549 (9dff505)
 * [XE] Chronomagic Adjustments (#78689)
 * Improve test coverage of mod combinations with mod_interactions (#78676)
 * Clear npcs before terrain and vehicles (#78679)
-* fix sloppy removal of obsolete operation (#78674)
 * Remove repology badge (#78680)
