@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-03-0558 (b342634)
 * Add recast last spell (Repeat last supernatural ability) (#78919)
 * Pin gcc 9 and 11 workflows to 22.04 (#78894)
 
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2024-12-28-1716 (ef5cd7c)
 Cataclysm-DDA experimental build 2024-12-28-0805 (a078529)
 * typified stuff (#78793)
 * Revert "pianos give piano wire on disassembly" (#78799)
-
-Cataclysm-DDA experimental build 2024-12-28-0549 (9dff505)
 * Unhardcode burned ground extras (#78721)
 * Routine i18n updates on 28 December 2024 (#78804)
 * Make monsters being able to evaluate enchantment conditions (#78745)
