@@ -1,3 +1,12 @@
+* Make pillowcase volume in line with pillow volume ([#78927](https://github.com/CleverRaven/Cataclysm-DDA/pull/78927))
+* fix falling while dragging vehicle ([#78928](https://github.com/CleverRaven/Cataclysm-DDA/pull/78928))
+* [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM ([#78843](https://github.com/CleverRaven/Cataclysm-DDA/pull/78843))
+* Add imgui demo to the debug menu ([#78771](https://github.com/CleverRaven/Cataclysm-DDA/pull/78771))
+* fix: color tags texts drawn in item info ([#78784](https://github.com/CleverRaven/Cataclysm-DDA/pull/78784))
+* Jsonise uniform terrain ([#78711](https://github.com/CleverRaven/Cataclysm-DDA/pull/78711))
+* Unhardcode mx_city_trap ([#78728](https://github.com/CleverRaven/Cataclysm-DDA/pull/78728))
+* Remove cargoculted predecessor_mapgen on incomplete campsite roof ([#78861](https://github.com/CleverRaven/Cataclysm-DDA/pull/78861))
+* Make parameters fit on debug overmap ([#78896](https://github.com/CleverRaven/Cataclysm-DDA/pull/78896))
 
 ---
 
@@ -176,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-12-28-1910 ([00ded91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-1910))
 
 * [DinoMod] fix zombie evolution pluralization ([#78778](https://github.com/CleverRaven/Cataclysm-DDA/pull/78778))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-28-1716 ([ef5cd7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-28-1716))
-
 * Deweaponize the foam bat ([#78812](https://github.com/CleverRaven/Cataclysm-DDA/pull/78812))
 * typified stuff ([#78793](https://github.com/CleverRaven/Cataclysm-DDA/pull/78793))
 * Revert "pianos give piano wire on disassembly" ([#78799](https://github.com/CleverRaven/Cataclysm-DDA/pull/78799))
@@ -207,22 +211,13 @@
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
 * Remove manhole stair magic ([#78705](https://github.com/CleverRaven/Cataclysm-DDA/pull/78705))
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
-* Typified zones ([#78677](https://github.com/CleverRaven/Cataclysm-DDA/pull/78677))
-* Fixes infinite sleeping pill/chamomile tea bug ([#78684](https://github.com/CleverRaven/Cataclysm-DDA/pull/78684))
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
 * expose speed to math ([#78694](https://github.com/CleverRaven/Cataclysm-DDA/pull/78694))
 * move health evaluation and assignment to math ([#78702](https://github.com/CleverRaven/Cataclysm-DDA/pull/78702))
 * Prevent segfault from `EOC_random_mutate` ([#78718](https://github.com/CleverRaven/Cataclysm-DDA/pull/78718))
-* Add Hazelnut Milk, Walnut Milk, and added them to various recipes ([#78687](https://github.com/CleverRaven/Cataclysm-DDA/pull/78687))
 * Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
-* Routine i18n updates on 21 December 2024 ([#78688](https://github.com/CleverRaven/Cataclysm-DDA/pull/78688))
 * remove a bit of dead code ([#78708](https://github.com/CleverRaven/Cataclysm-DDA/pull/78708))
 * Prevent one instance of falling on spawn, fix falling after climbing ([#78695](https://github.com/CleverRaven/Cataclysm-DDA/pull/78695))
 * Fix water heater in window small lighthouse ([#78701](https://github.com/CleverRaven/Cataclysm-DDA/pull/78701))
-* Streamline Vertical Movement While Levitating and Flying ([#78686](https://github.com/CleverRaven/Cataclysm-DDA/pull/78686))
 * Update MAGIC.md ([#78699](https://github.com/CleverRaven/Cataclysm-DDA/pull/78699))
 * Convection-shmonvection ([#78697](https://github.com/CleverRaven/Cataclysm-DDA/pull/78697))
-* [XE] Chronomagic Adjustments ([#78689](https://github.com/CleverRaven/Cataclysm-DDA/pull/78689))
-* Improve test coverage of mod combinations with mod_interactions ([#78676](https://github.com/CleverRaven/Cataclysm-DDA/pull/78676))
-* Clear npcs before terrain and vehicles ([#78679](https://github.com/CleverRaven/Cataclysm-DDA/pull/78679))
-* Remove repology badge ([#78680](https://github.com/CleverRaven/Cataclysm-DDA/pull/78680))
