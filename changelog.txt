@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-03-1416 (b20ae04)
+* Fix hub01 ancilla chatting var name typo (#78848)
+
 Cataclysm-DDA experimental build 2025-01-03-0558 (b342634)
 * Add recast last spell (Repeat last supernatural ability) (#78919)
 * Pin gcc 9 and 11 workflows to 22.04 (#78894)
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2024-12-28-1910 (00ded91)
 
 Cataclysm-DDA experimental build 2024-12-28-1716 (ef5cd7c)
 * Deweaponize the foam bat (#78812)
-
-Cataclysm-DDA experimental build 2024-12-28-0805 (a078529)
 * typified stuff (#78793)
 * Revert "pianos give piano wire on disassembly" (#78799)
 * Unhardcode burned ground extras (#78721)
@@ -123,7 +124,6 @@ Cataclysm-DDA experimental build 2024-12-28-0805 (a078529)
 * Remove manhole stair magic (#78705)
 * Fix enchantment (#78739)
 * Typified zones (#78677)
-* Adds disassembly recipe for denim sheet and patchwork denim sheet (#78675)
 * Fixes infinite sleeping pill/chamomile tea bug (#78684)
 * Unhardcode mx_jabberwock (#78714)
 * expose speed to math (#78694)
