@@ -1,3 +1,4 @@
+* [DinoMod] shonisaurus ([#78911](https://github.com/CleverRaven/Cataclysm-DDA/pull/78911))
 * [ Xedra Evolved ] Update more comestibles to use effect_on_consumption ([#78805](https://github.com/CleverRaven/Cataclysm-DDA/pull/78805))
 * Add missing luthier proficiency to appropriate recipes ([#78808](https://github.com/CleverRaven/Cataclysm-DDA/pull/78808))
 * Zombie Humanity Audit ([#78902](https://github.com/CleverRaven/Cataclysm-DDA/pull/78902))
@@ -209,7 +210,6 @@
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
 * Corrects recipe for water purifying ([#78773](https://github.com/CleverRaven/Cataclysm-DDA/pull/78773))
-* [DinoMod] fona ([#78713](https://github.com/CleverRaven/Cataclysm-DDA/pull/78713))
 * fix duplicate integrated armor ([#78762](https://github.com/CleverRaven/Cataclysm-DDA/pull/78762))
 * Fix special_vision serialization ([#78764](https://github.com/CleverRaven/Cataclysm-DDA/pull/78764))
 * Weekly Changelog 2024-12-16 to 2024-12-23 ([#78734](https://github.com/CleverRaven/Cataclysm-DDA/pull/78734))
