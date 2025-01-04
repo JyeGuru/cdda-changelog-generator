@@ -1,3 +1,7 @@
+* [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn (#78930)
+* Update the table of contents in doc/JSON_INFO.md (#78936)
+
+Cataclysm-DDA experimental build 2025-01-04-2214 (fda59d7)
 * [DinoMod] shonisaurus (#78911)
 * [ Xedra Evolved ] Update more comestibles to use effect_on_consumption (#78805)
 * Add missing luthier proficiency to appropriate recipes (#78808)
@@ -106,8 +110,6 @@ Cataclysm-DDA experimental build 2024-12-30-0827 (7f812e6)
 
 Cataclysm-DDA experimental build 2024-12-30-0637 (9a59660)
 * [Magiclysm] Add technomantic augmentation clinic (#78829)
-
-Cataclysm-DDA experimental build 2024-12-29-2156 (a16268b)
 * Remove Feral Archaelogist (#78840)
 * NPC should not wield integrated armor (#78810)
 * [Magiclysm] Fix wands (#78825)
@@ -139,5 +141,4 @@ Cataclysm-DDA experimental build 2024-12-29-2156 (a16268b)
 * Fix "remove_vehicles" when used without or with empty "vehicles" (#78724)
 * Use ccache --evict-older-than for more accurate and leaner ccaches. (#78743)
 * Fix enchantment (#78739)
-* Unhardcode mx_jabberwock (#78714)
 * Prevent segfault from `EOC_random_mutate` (#78718)
