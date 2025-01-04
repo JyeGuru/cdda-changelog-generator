@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-04-0909 (c36d390)
 * Update furniture & terrain docs (#78891)
 * [Magiclysm] Forge values denarii but no one else does (#78901)
 * Add more generator types (#78910)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-12-29-2156 (a16268b)
 
 Cataclysm-DDA experimental build 2024-12-29-1827 (25f11da)
 * Add the menorah and small candles to put in it (#78795)
-
-Cataclysm-DDA experimental build 2024-12-29-0232 (52e013b)
 * [Magiclysm] Goblins and wargs are best friends (#78824)
 * Add history to Construction Search (#78819)
 * [DinoMod] fix zombie evolution pluralization (#78778)

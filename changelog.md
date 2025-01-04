@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-04-0909 ([c36d390](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-0909))
+
 * Update furniture & terrain docs ([#78891](https://github.com/CleverRaven/Cataclysm-DDA/pull/78891))
 * [Magiclysm] Forge values denarii but no one else does ([#78901](https://github.com/CleverRaven/Cataclysm-DDA/pull/78901))
 * Add more generator types ([#78910](https://github.com/CleverRaven/Cataclysm-DDA/pull/78910))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-12-29-1827 ([25f11da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-1827))
 
 * Add the menorah and small candles to put in it ([#78795](https://github.com/CleverRaven/Cataclysm-DDA/pull/78795))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-29-0232 ([52e013b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-0232))
-
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
 * [DinoMod] fix zombie evolution pluralization ([#78778](https://github.com/CleverRaven/Cataclysm-DDA/pull/78778))
