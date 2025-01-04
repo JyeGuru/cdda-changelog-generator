@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Update more comestibles to use effect_on_consumption ([#78805](https://github.com/CleverRaven/Cataclysm-DDA/pull/78805))
 * Add missing luthier proficiency to appropriate recipes ([#78808](https://github.com/CleverRaven/Cataclysm-DDA/pull/78808))
 * Zombie Humanity Audit ([#78902](https://github.com/CleverRaven/Cataclysm-DDA/pull/78902))
 
@@ -182,12 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-12-30-0637 ([9a59660](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-0637))
 
 * [Magiclysm] Add technomantic augmentation clinic ([#78829](https://github.com/CleverRaven/Cataclysm-DDA/pull/78829))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-29-2346 ([f676f9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-2346))
-
-* [Magiclysm/MoM/Xedra Evolved] Update potion fruit / matrix elixirs / goblin fruit to use consumption EoCs ([#78712](https://github.com/CleverRaven/Cataclysm-DDA/pull/78712))
 
 ---
 
