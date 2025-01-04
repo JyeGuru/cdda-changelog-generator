@@ -1,3 +1,13 @@
+* Add more generator types ([#78910](https://github.com/CleverRaven/Cataclysm-DDA/pull/78910))
+* [MoM] Ephemeral riftwalkers can use Breach ([#78914](https://github.com/CleverRaven/Cataclysm-DDA/pull/78914))
+* Fix Ancilla template seller speech training exploit ([#78924](https://github.com/CleverRaven/Cataclysm-DDA/pull/78924))
+* Routine i18n updates on 04 January 2025 ([#78934](https://github.com/CleverRaven/Cataclysm-DDA/pull/78934))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-04-0714 ([774f85b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-0714))
+
+* make ammo_effect_WIDE actually work ([#78935](https://github.com/CleverRaven/Cataclysm-DDA/pull/78935))
 
 ---
 
@@ -178,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-12-29-0232 ([52e013b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-0232))
 
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-29-0006 ([e0b3658](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-0006))
-
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
 * [DinoMod] fix zombie evolution pluralization ([#78778](https://github.com/CleverRaven/Cataclysm-DDA/pull/78778))
 * Deweaponize the foam bat ([#78812](https://github.com/CleverRaven/Cataclysm-DDA/pull/78812))
@@ -212,11 +217,6 @@
 * Remove manhole stair magic ([#78705](https://github.com/CleverRaven/Cataclysm-DDA/pull/78705))
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
-* move health evaluation and assignment to math ([#78702](https://github.com/CleverRaven/Cataclysm-DDA/pull/78702))
 * Prevent segfault from `EOC_random_mutate` ([#78718](https://github.com/CleverRaven/Cataclysm-DDA/pull/78718))
 * Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
 * remove a bit of dead code ([#78708](https://github.com/CleverRaven/Cataclysm-DDA/pull/78708))
-* Prevent one instance of falling on spawn, fix falling after climbing ([#78695](https://github.com/CleverRaven/Cataclysm-DDA/pull/78695))
-* Fix water heater in window small lighthouse ([#78701](https://github.com/CleverRaven/Cataclysm-DDA/pull/78701))
-* Update MAGIC.md ([#78699](https://github.com/CleverRaven/Cataclysm-DDA/pull/78699))
-* Convection-shmonvection ([#78697](https://github.com/CleverRaven/Cataclysm-DDA/pull/78697))
