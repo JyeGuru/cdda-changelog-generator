@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-04-1537 ([005a9fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-1537))
+
+* Properly show variant's prefix/suffix in the crafting menu ([#78904](https://github.com/CleverRaven/Cataclysm-DDA/pull/78904))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-04-0909 ([c36d390](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-0909))
 
 * Update furniture & terrain docs ([#78891](https://github.com/CleverRaven/Cataclysm-DDA/pull/78891))
@@ -183,11 +189,6 @@
 * Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
 * NPC should not wield integrated armor ([#78810](https://github.com/CleverRaven/Cataclysm-DDA/pull/78810))
 * [Magiclysm] Fix wands ([#78825](https://github.com/CleverRaven/Cataclysm-DDA/pull/78825))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-29-1827 ([25f11da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-29-1827))
-
 * Add the menorah and small candles to put in it ([#78795](https://github.com/CleverRaven/Cataclysm-DDA/pull/78795))
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
@@ -220,5 +221,4 @@
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
 * Prevent segfault from `EOC_random_mutate` ([#78718](https://github.com/CleverRaven/Cataclysm-DDA/pull/78718))
-* Make empty window frames with curtains terrain constructable ([#78704](https://github.com/CleverRaven/Cataclysm-DDA/pull/78704))
 * remove a bit of dead code ([#78708](https://github.com/CleverRaven/Cataclysm-DDA/pull/78708))
