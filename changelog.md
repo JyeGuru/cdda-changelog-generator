@@ -1,3 +1,11 @@
+* Add missing luthier proficiency to appropriate recipes ([#78808](https://github.com/CleverRaven/Cataclysm-DDA/pull/78808))
+* Zombie Humanity Audit ([#78902](https://github.com/CleverRaven/Cataclysm-DDA/pull/78902))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-04-2028 ([049ea1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-2028))
+
+* [Magiclysm] Krabgeks get their union breaks ([#78917](https://github.com/CleverRaven/Cataclysm-DDA/pull/78917))
 
 ---
 
@@ -31,7 +39,6 @@
 * [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM ([#78843](https://github.com/CleverRaven/Cataclysm-DDA/pull/78843))
 * Add imgui demo to the debug menu ([#78771](https://github.com/CleverRaven/Cataclysm-DDA/pull/78771))
 * fix: color tags texts drawn in item info ([#78784](https://github.com/CleverRaven/Cataclysm-DDA/pull/78784))
-* Jsonise uniform terrain ([#78711](https://github.com/CleverRaven/Cataclysm-DDA/pull/78711))
 * Unhardcode mx_city_trap ([#78728](https://github.com/CleverRaven/Cataclysm-DDA/pull/78728))
 * Remove cargoculted predecessor_mapgen on incomplete campsite roof ([#78861](https://github.com/CleverRaven/Cataclysm-DDA/pull/78861))
 * Make parameters fit on debug overmap ([#78896](https://github.com/CleverRaven/Cataclysm-DDA/pull/78896))
@@ -217,8 +224,6 @@
 * Eggplants can be smoked in the rack ([#78751](https://github.com/CleverRaven/Cataclysm-DDA/pull/78751))
 * Fix "remove_vehicles" when used without or with empty "vehicles" ([#78724](https://github.com/CleverRaven/Cataclysm-DDA/pull/78724))
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
-* Remove manhole stair magic ([#78705](https://github.com/CleverRaven/Cataclysm-DDA/pull/78705))
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
 * Unhardcode mx_jabberwock ([#78714](https://github.com/CleverRaven/Cataclysm-DDA/pull/78714))
 * Prevent segfault from `EOC_random_mutate` ([#78718](https://github.com/CleverRaven/Cataclysm-DDA/pull/78718))
-* remove a bit of dead code ([#78708](https://github.com/CleverRaven/Cataclysm-DDA/pull/78708))
