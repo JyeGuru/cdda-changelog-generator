@@ -1,3 +1,4 @@
+* [MoM] Melded Teleporter Force ([#78968](https://github.com/CleverRaven/Cataclysm-DDA/pull/78968))
 * Fix NPC rules window scaling for small terminal sizes ([#78963](https://github.com/CleverRaven/Cataclysm-DDA/pull/78963))
 * [Magicylsm] Audit Magiclysm Organization ([#78931](https://github.com/CleverRaven/Cataclysm-DDA/pull/78931))
 * Adjust Prices of .223 Rifles ([#78947](https://github.com/CleverRaven/Cataclysm-DDA/pull/78947))
@@ -225,7 +226,6 @@
 * Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
 * NPC should not wield integrated armor ([#78810](https://github.com/CleverRaven/Cataclysm-DDA/pull/78810))
 * [Magiclysm] Fix wands ([#78825](https://github.com/CleverRaven/Cataclysm-DDA/pull/78825))
-* Add the menorah and small candles to put in it ([#78795](https://github.com/CleverRaven/Cataclysm-DDA/pull/78795))
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
 * Deweaponize the foam bat ([#78812](https://github.com/CleverRaven/Cataclysm-DDA/pull/78812))
