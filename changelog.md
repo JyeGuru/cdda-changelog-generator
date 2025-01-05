@@ -1,3 +1,4 @@
+* Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
 * Fix EOC vitamin evaluation for items ([#78790](https://github.com/CleverRaven/Cataclysm-DDA/pull/78790))
 * Don't truncate allergy vitamins out of existence ([#78792](https://github.com/CleverRaven/Cataclysm-DDA/pull/78792))
@@ -101,7 +102,6 @@
 * Make pillowcase volume in line with pillow volume ([#78927](https://github.com/CleverRaven/Cataclysm-DDA/pull/78927))
 * fix falling while dragging vehicle ([#78928](https://github.com/CleverRaven/Cataclysm-DDA/pull/78928))
 * [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM ([#78843](https://github.com/CleverRaven/Cataclysm-DDA/pull/78843))
-* Add imgui demo to the debug menu ([#78771](https://github.com/CleverRaven/Cataclysm-DDA/pull/78771))
 * fix: color tags texts drawn in item info ([#78784](https://github.com/CleverRaven/Cataclysm-DDA/pull/78784))
 * Remove cargoculted predecessor_mapgen on incomplete campsite roof ([#78861](https://github.com/CleverRaven/Cataclysm-DDA/pull/78861))
 * Make parameters fit on debug overmap ([#78896](https://github.com/CleverRaven/Cataclysm-DDA/pull/78896))
