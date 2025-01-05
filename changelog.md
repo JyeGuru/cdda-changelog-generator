@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-05-2158 ([30ede24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-2158))
+
 * [MoM] Melded Teleporter Force ([#78968](https://github.com/CleverRaven/Cataclysm-DDA/pull/78968))
 * Fix NPC rules window scaling for small terminal sizes ([#78963](https://github.com/CleverRaven/Cataclysm-DDA/pull/78963))
 * [Magicylsm] Audit Magiclysm Organization ([#78931](https://github.com/CleverRaven/Cataclysm-DDA/pull/78931))
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-12-31-2335 ([2d8e07d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-2335))
 
 * Suppress debug message when dragging furniture off the ledge ([#78847](https://github.com/CleverRaven/Cataclysm-DDA/pull/78847))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-31-2151 ([2546cd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-2151))
-
 * Better skill requirement UI for martial arts ([#78852](https://github.com/CleverRaven/Cataclysm-DDA/pull/78852))
 * Correct some canning recipes ([#78854](https://github.com/CleverRaven/Cataclysm-DDA/pull/78854))
 * [Magiclysm] Set feral wizards to copy-from ([#78856](https://github.com/CleverRaven/Cataclysm-DDA/pull/78856))
