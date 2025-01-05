@@ -1,3 +1,10 @@
+* [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-05-0431 ([ffd7741](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-0431))
+
+* Exodii: Caotel Sr2.2 DEW ([#78932](https://github.com/CleverRaven/Cataclysm-DDA/pull/78932))
 
 ---
 
@@ -190,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-12-30-1551 ([8f6c5af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-1551))
 
 * [DinoMod] shorter names ([#78827](https://github.com/CleverRaven/Cataclysm-DDA/pull/78827))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-30-0827 ([7f812e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-0827))
-
 * Zombified humans are still humans ([#78796](https://github.com/CleverRaven/Cataclysm-DDA/pull/78796))
 * wp_skill makes you avoid bad weakpoint ([#78797](https://github.com/CleverRaven/Cataclysm-DDA/pull/78797))
 * [Magiclysm] Add technomantic augmentation clinic ([#78829](https://github.com/CleverRaven/Cataclysm-DDA/pull/78829))
@@ -212,7 +214,6 @@
 * Make monsters being able to evaluate enchantment conditions ([#78745](https://github.com/CleverRaven/Cataclysm-DDA/pull/78745))
 * Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
 * eoc: clear deferred math on type errors too ([#78775](https://github.com/CleverRaven/Cataclysm-DDA/pull/78775))
-* Unhardcode mx_clay_deposit ([#78722](https://github.com/CleverRaven/Cataclysm-DDA/pull/78722))
 * Allow proper overlaying of weather_generator ([#78726](https://github.com/CleverRaven/Cataclysm-DDA/pull/78726))
 * typified stuff ([#78753](https://github.com/CleverRaven/Cataclysm-DDA/pull/78753))
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
@@ -225,6 +226,5 @@
 * [Magiclysm] Freshen Up removes skunk spray ([#78759](https://github.com/CleverRaven/Cataclysm-DDA/pull/78759))
 * [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
 * Eggplants can be smoked in the rack ([#78751](https://github.com/CleverRaven/Cataclysm-DDA/pull/78751))
-* Fix "remove_vehicles" when used without or with empty "vehicles" ([#78724](https://github.com/CleverRaven/Cataclysm-DDA/pull/78724))
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
 * Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
