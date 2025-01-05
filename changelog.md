@@ -1,3 +1,6 @@
+* Thermal electric gear power draw reduction ([#78834](https://github.com/CleverRaven/Cataclysm-DDA/pull/78834))
+* typified cata_tiles and sdl_tiles ([#78815](https://github.com/CleverRaven/Cataclysm-DDA/pull/78815))
+* Remove "military" itemgroup ([#78965](https://github.com/CleverRaven/Cataclysm-DDA/pull/78965))
 
 ---
 
@@ -220,8 +223,6 @@
 * Fixed atmic smarphone and intergrated AR unable to read stored books. ([#78831](https://github.com/CleverRaven/Cataclysm-DDA/pull/78831))
 * Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
 * [DinoMod] shorter names ([#78827](https://github.com/CleverRaven/Cataclysm-DDA/pull/78827))
-* Zombified humans are still humans ([#78796](https://github.com/CleverRaven/Cataclysm-DDA/pull/78796))
-* wp_skill makes you avoid bad weakpoint ([#78797](https://github.com/CleverRaven/Cataclysm-DDA/pull/78797))
 * [Magiclysm] Add technomantic augmentation clinic ([#78829](https://github.com/CleverRaven/Cataclysm-DDA/pull/78829))
 * Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
 * NPC should not wield integrated armor ([#78810](https://github.com/CleverRaven/Cataclysm-DDA/pull/78810))
@@ -229,5 +230,4 @@
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
 * Deweaponize the foam bat ([#78812](https://github.com/CleverRaven/Cataclysm-DDA/pull/78812))
-* Revert "pianos give piano wire on disassembly" ([#78799](https://github.com/CleverRaven/Cataclysm-DDA/pull/78799))
 * Routine i18n updates on 28 December 2024 ([#78804](https://github.com/CleverRaven/Cataclysm-DDA/pull/78804))
