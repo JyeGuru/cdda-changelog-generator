@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-05-1353 (caafa67)
 * Make auto-whitelist logic also auto-collapse the container (#78886)
 * Update some battery related recipes (#78929)
 * Fix EOC vitamin evaluation for items (#78790)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2024-12-31-1750 (a7510f4)
 Cataclysm-DDA experimental build 2024-12-31-1547 (cb710d8)
 * add ctiric acid as alternative to lemons to mascarpone recipe (#78868)
 * Make branch name message less scary (#78835)
-
-Cataclysm-DDA experimental build 2024-12-31-1117 (af9c8c9)
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 (#78870)
 * Prune nanofab_recipes (#78859)
 * Remove Dragonskin Vest and WS-47G Suit (#78851)

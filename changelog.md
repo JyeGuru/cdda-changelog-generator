@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-05-1353 ([caafa67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1353))
+
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
 * Fix EOC vitamin evaluation for items ([#78790](https://github.com/CleverRaven/Cataclysm-DDA/pull/78790))
@@ -199,11 +204,6 @@
 
 * add ctiric acid as alternative to lemons to mascarpone recipe ([#78868](https://github.com/CleverRaven/Cataclysm-DDA/pull/78868))
 * Make branch name message less scary ([#78835](https://github.com/CleverRaven/Cataclysm-DDA/pull/78835))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-31-1117 ([af9c8c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-1117))
-
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
 * Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
 * Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
