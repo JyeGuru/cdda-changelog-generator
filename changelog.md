@@ -1,3 +1,4 @@
+* Fix vehicle not moving when being remotely controlled ([#78850](https://github.com/CleverRaven/Cataclysm-DDA/pull/78850))
 
 ---
 
@@ -217,7 +218,6 @@
 * typified stuff ([#78793](https://github.com/CleverRaven/Cataclysm-DDA/pull/78793))
 * Revert "pianos give piano wire on disassembly" ([#78799](https://github.com/CleverRaven/Cataclysm-DDA/pull/78799))
 * Routine i18n updates on 28 December 2024 ([#78804](https://github.com/CleverRaven/Cataclysm-DDA/pull/78804))
-* Make monsters being able to evaluate enchantment conditions ([#78745](https://github.com/CleverRaven/Cataclysm-DDA/pull/78745))
 * Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
 * eoc: clear deferred math on type errors too ([#78775](https://github.com/CleverRaven/Cataclysm-DDA/pull/78775))
 * typified stuff ([#78753](https://github.com/CleverRaven/Cataclysm-DDA/pull/78753))
