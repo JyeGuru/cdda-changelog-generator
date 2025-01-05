@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-05-1740 ([f2be256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1740))
+
 * Bugfix kickboxing and boxing technique conditions ([#78962](https://github.com/CleverRaven/Cataclysm-DDA/pull/78962))
 * [CR] Add audio support for curses mode ([#78880](https://github.com/CleverRaven/Cataclysm-DDA/pull/78880))
 * Fix crash when zone-harvesting crops with bad data ([#78939](https://github.com/CleverRaven/Cataclysm-DDA/pull/78939))
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2024-12-31-1935 ([1a410b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-1935))
 
 * Remove 460 Rowland ([#78867](https://github.com/CleverRaven/Cataclysm-DDA/pull/78867))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-31-1750 ([a7510f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-1750))
-
 * [Magiclysm] Add zombie dwarves to mines ([#78855](https://github.com/CleverRaven/Cataclysm-DDA/pull/78855))
 * add ctiric acid as alternative to lemons to mascarpone recipe ([#78868](https://github.com/CleverRaven/Cataclysm-DDA/pull/78868))
 * Make branch name message less scary ([#78835](https://github.com/CleverRaven/Cataclysm-DDA/pull/78835))
