@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-05-1539 (c818cf9)
+* Make Jabberwock hunting make sense (#78955)
+
 Cataclysm-DDA experimental build 2025-01-05-1353 (caafa67)
 * Make auto-whitelist logic also auto-collapse the container (#78886)
 * Update some battery related recipes (#78929)
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2024-12-31-1935 (1a410b2)
 
 Cataclysm-DDA experimental build 2024-12-31-1750 (a7510f4)
 * [Magiclysm] Add zombie dwarves to mines (#78855)
-
-Cataclysm-DDA experimental build 2024-12-31-1547 (cb710d8)
 * add ctiric acid as alternative to lemons to mascarpone recipe (#78868)
 * Make branch name message less scary (#78835)
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 (#78870)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-12-31-1547 (cb710d8)
 * Routine i18n updates on 28 December 2024 (#78804)
 * Items in transparent pockets on the map illuminate surroundings (#78789)
 * eoc: clear deferred math on type errors too (#78775)
-* Corrects recipe for water purifying (#78773)
