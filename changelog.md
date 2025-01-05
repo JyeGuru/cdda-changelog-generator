@@ -1,3 +1,4 @@
+* Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
 * Fix EOC vitamin evaluation for items ([#78790](https://github.com/CleverRaven/Cataclysm-DDA/pull/78790))
 * Don't truncate allergy vitamins out of existence ([#78792](https://github.com/CleverRaven/Cataclysm-DDA/pull/78792))
 * Make clang-tidy diagnostics on windows a tad more manageable ([#78787](https://github.com/CleverRaven/Cataclysm-DDA/pull/78787))
@@ -227,6 +228,5 @@
 * Routine i18n updates on 28 December 2024 ([#78804](https://github.com/CleverRaven/Cataclysm-DDA/pull/78804))
 * Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
 * eoc: clear deferred math on type errors too ([#78775](https://github.com/CleverRaven/Cataclysm-DDA/pull/78775))
-* [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
 * Corrects recipe for water purifying ([#78773](https://github.com/CleverRaven/Cataclysm-DDA/pull/78773))
