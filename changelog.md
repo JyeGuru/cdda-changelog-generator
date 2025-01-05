@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-05-1004 ([9c33dea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1004))
+
 * fix box full of spent candles ([#78869](https://github.com/CleverRaven/Cataclysm-DDA/pull/78869))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-12-30-2259 ([76c2d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-2259))
 
 * Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-30-2005 ([2bfc782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-2005))
-
 * Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
 * [Magiclysm] Stop workshop elves and their workshop from spawning ([#78842](https://github.com/CleverRaven/Cataclysm-DDA/pull/78842))
 * Fixed atmic smarphone and intergrated AR unable to read stored books. ([#78831](https://github.com/CleverRaven/Cataclysm-DDA/pull/78831))
