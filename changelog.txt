@@ -1,3 +1,4 @@
+* [CR] Add audio support for curses mode (#78880)
 * Fix crash when zone-harvesting crops with bad data (#78939)
 * fix pulping being too fast (#78948)
 * Remove Night-Pryanik from reviewers.yml (#78958)
@@ -72,7 +73,6 @@ Cataclysm-DDA experimental build 2025-01-03-2016 (58db8be)
 * Make pillowcase volume in line with pillow volume (#78927)
 * fix falling while dragging vehicle (#78928)
 * [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM (#78843)
-* fix: color tags texts drawn in item info (#78784)
 * Remove cargoculted predecessor_mapgen on incomplete campsite roof (#78861)
 * Make parameters fit on debug overmap (#78896)
 
