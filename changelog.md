@@ -1,3 +1,5 @@
+* Make font hinting user-configurable. ([#78830](https://github.com/CleverRaven/Cataclysm-DDA/pull/78830))
+* [innawood] Add makeshift hand-crank charger and magnetite ore ([#78844](https://github.com/CleverRaven/Cataclysm-DDA/pull/78844))
 * Fix vehicle not moving when being remotely controlled ([#78850](https://github.com/CleverRaven/Cataclysm-DDA/pull/78850))
 
 ---
@@ -228,5 +230,3 @@
 * Fix special_vision serialization ([#78764](https://github.com/CleverRaven/Cataclysm-DDA/pull/78764))
 * Expand and use cataimgui scrolling function ([#78763](https://github.com/CleverRaven/Cataclysm-DDA/pull/78763))
 * [Magiclysm] Freshen Up removes skunk spray ([#78759](https://github.com/CleverRaven/Cataclysm-DDA/pull/78759))
-* [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
-* Eggplants can be smoked in the rack ([#78751](https://github.com/CleverRaven/Cataclysm-DDA/pull/78751))
