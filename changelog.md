@@ -1,3 +1,10 @@
+* Make clang-tidy diagnostics on windows a tad more manageable ([#78787](https://github.com/CleverRaven/Cataclysm-DDA/pull/78787))
+* Set minimum sizes for missions menu window ([#78811](https://github.com/CleverRaven/Cataclysm-DDA/pull/78811))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-05-1147 ([4e49a50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1147))
+
 * Fix enchantment ugliness and expose ugliness to math ([#78817](https://github.com/CleverRaven/Cataclysm-DDA/pull/78817))
 * Make font hinting user-configurable. ([#78830](https://github.com/CleverRaven/Cataclysm-DDA/pull/78830))
 * [innawood] Add makeshift hand-crank charger and magnetite ore ([#78844](https://github.com/CleverRaven/Cataclysm-DDA/pull/78844))
@@ -195,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2024-12-31-1117 ([af9c8c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-1117))
 
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-30-2259 ([76c2d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-2259))
-
 * Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
 * Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
 * [Magiclysm] Stop workshop elves and their workshop from spawning ([#78842](https://github.com/CleverRaven/Cataclysm-DDA/pull/78842))
@@ -226,7 +228,5 @@
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
 * Corrects recipe for water purifying ([#78773](https://github.com/CleverRaven/Cataclysm-DDA/pull/78773))
-* fix duplicate integrated armor ([#78762](https://github.com/CleverRaven/Cataclysm-DDA/pull/78762))
 * Fix special_vision serialization ([#78764](https://github.com/CleverRaven/Cataclysm-DDA/pull/78764))
 * Expand and use cataimgui scrolling function ([#78763](https://github.com/CleverRaven/Cataclysm-DDA/pull/78763))
-* [Magiclysm] Freshen Up removes skunk spray ([#78759](https://github.com/CleverRaven/Cataclysm-DDA/pull/78759))
