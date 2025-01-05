@@ -1,3 +1,4 @@
+* Check validity of plant data on load (#78960)
 
 Cataclysm-DDA experimental build 2025-01-05-1740 (f2be256)
 * Bugfix kickboxing and boxing technique conditions (#78962)
@@ -15,7 +16,6 @@ Cataclysm-DDA experimental build 2025-01-05-1353 (caafa67)
 * Update some battery related recipes (#78929)
 * Fix EOC vitamin evaluation for items (#78790)
 * Don't truncate allergy vitamins out of existence (#78792)
-* Make clang-tidy diagnostics on windows a tad more manageable (#78787)
 * Set minimum sizes for missions menu window (#78811)
 
 Cataclysm-DDA experimental build 2025-01-05-1147 (4e49a50)

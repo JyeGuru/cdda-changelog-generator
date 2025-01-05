@@ -1,3 +1,4 @@
+* Check validity of plant data on load ([#78960](https://github.com/CleverRaven/Cataclysm-DDA/pull/78960))
 
 ---
 
@@ -24,7 +25,6 @@
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
 * Fix EOC vitamin evaluation for items ([#78790](https://github.com/CleverRaven/Cataclysm-DDA/pull/78790))
 * Don't truncate allergy vitamins out of existence ([#78792](https://github.com/CleverRaven/Cataclysm-DDA/pull/78792))
-* Make clang-tidy diagnostics on windows a tad more manageable ([#78787](https://github.com/CleverRaven/Cataclysm-DDA/pull/78787))
 * Set minimum sizes for missions menu window ([#78811](https://github.com/CleverRaven/Cataclysm-DDA/pull/78811))
 
 ---
