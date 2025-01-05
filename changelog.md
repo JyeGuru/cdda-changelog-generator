@@ -1,3 +1,4 @@
+* Fix enchantment ugliness and expose ugliness to math ([#78817](https://github.com/CleverRaven/Cataclysm-DDA/pull/78817))
 * Make font hinting user-configurable. ([#78830](https://github.com/CleverRaven/Cataclysm-DDA/pull/78830))
 * [innawood] Add makeshift hand-crank charger and magnetite ore ([#78844](https://github.com/CleverRaven/Cataclysm-DDA/pull/78844))
 * Fix vehicle not moving when being remotely controlled ([#78850](https://github.com/CleverRaven/Cataclysm-DDA/pull/78850))
@@ -222,7 +223,6 @@
 * Routine i18n updates on 28 December 2024 ([#78804](https://github.com/CleverRaven/Cataclysm-DDA/pull/78804))
 * Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
 * eoc: clear deferred math on type errors too ([#78775](https://github.com/CleverRaven/Cataclysm-DDA/pull/78775))
-* typified stuff ([#78753](https://github.com/CleverRaven/Cataclysm-DDA/pull/78753))
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
 * Corrects recipe for water purifying ([#78773](https://github.com/CleverRaven/Cataclysm-DDA/pull/78773))
