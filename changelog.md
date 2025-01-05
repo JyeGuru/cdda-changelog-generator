@@ -1,3 +1,5 @@
+* Fix crash when zone-harvesting crops with bad data ([#78939](https://github.com/CleverRaven/Cataclysm-DDA/pull/78939))
+* fix pulping being too fast ([#78948](https://github.com/CleverRaven/Cataclysm-DDA/pull/78948))
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Combine crit hit and wp hit and tweak damage calculation for ranged attack ([#78877](https://github.com/CleverRaven/Cataclysm-DDA/pull/78877))
 
@@ -212,7 +214,6 @@
 * Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
 * [Magiclysm] Stop workshop elves and their workshop from spawning ([#78842](https://github.com/CleverRaven/Cataclysm-DDA/pull/78842))
 * Fixed atmic smarphone and intergrated AR unable to read stored books. ([#78831](https://github.com/CleverRaven/Cataclysm-DDA/pull/78831))
-* [Magiclysm] Add the aenor, a giant heron riding mount ([#78782](https://github.com/CleverRaven/Cataclysm-DDA/pull/78782))
 * Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
 * [DinoMod] shorter names ([#78827](https://github.com/CleverRaven/Cataclysm-DDA/pull/78827))
 * Zombified humans are still humans ([#78796](https://github.com/CleverRaven/Cataclysm-DDA/pull/78796))
