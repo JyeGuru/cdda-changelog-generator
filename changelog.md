@@ -1,3 +1,7 @@
+* Fix NPC rules window scaling for small terminal sizes ([#78963](https://github.com/CleverRaven/Cataclysm-DDA/pull/78963))
+* [Magicylsm] Audit Magiclysm Organization ([#78931](https://github.com/CleverRaven/Cataclysm-DDA/pull/78931))
+* Adjust Prices of .223 Rifles ([#78947](https://github.com/CleverRaven/Cataclysm-DDA/pull/78947))
+* [Magiclysm] Demon spider rework ([#78953](https://github.com/CleverRaven/Cataclysm-DDA/pull/78953))
 
 ---
 
@@ -28,8 +32,6 @@
 
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-* Fix EOC vitamin evaluation for items ([#78790](https://github.com/CleverRaven/Cataclysm-DDA/pull/78790))
-* Don't truncate allergy vitamins out of existence ([#78792](https://github.com/CleverRaven/Cataclysm-DDA/pull/78792))
 * Set minimum sizes for missions menu window ([#78811](https://github.com/CleverRaven/Cataclysm-DDA/pull/78811))
 
 ---
@@ -230,4 +232,3 @@
 * typified stuff ([#78793](https://github.com/CleverRaven/Cataclysm-DDA/pull/78793))
 * Revert "pianos give piano wire on disassembly" ([#78799](https://github.com/CleverRaven/Cataclysm-DDA/pull/78799))
 * Routine i18n updates on 28 December 2024 ([#78804](https://github.com/CleverRaven/Cataclysm-DDA/pull/78804))
-* Items in transparent pockets on the map illuminate surroundings ([#78789](https://github.com/CleverRaven/Cataclysm-DDA/pull/78789))
