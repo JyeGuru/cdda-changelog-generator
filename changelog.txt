@@ -1,3 +1,4 @@
+* [Magiclysm] Add a couple more CBMs (#78951)
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC (#78954)
 
 Cataclysm-DDA experimental build 2025-01-05-0431 (ffd7741)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2024-12-30-1551 (8f6c5af)
 * Make monsters being able to evaluate enchantment conditions (#78745)
 * Items in transparent pockets on the map illuminate surroundings (#78789)
 * eoc: clear deferred math on type errors too (#78775)
-* Allow proper overlaying of weather_generator (#78726)
 * typified stuff (#78753)
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers (#78769)
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks (#78770)
