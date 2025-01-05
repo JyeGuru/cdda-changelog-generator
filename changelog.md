@@ -1,3 +1,7 @@
+* Improve extension cord connecting prompt ([#78888](https://github.com/CleverRaven/Cataclysm-DDA/pull/78888))
+* Fix floor under flowerpots in house_37 ([#78898](https://github.com/CleverRaven/Cataclysm-DDA/pull/78898))
+* Remove domestic party palette ([#78893](https://github.com/CleverRaven/Cataclysm-DDA/pull/78893))
+* Add a small kindergarten ([#78897](https://github.com/CleverRaven/Cataclysm-DDA/pull/78897))
 
 ---
 
@@ -221,10 +225,8 @@
 * Corrects recipe for water purifying ([#78773](https://github.com/CleverRaven/Cataclysm-DDA/pull/78773))
 * fix duplicate integrated armor ([#78762](https://github.com/CleverRaven/Cataclysm-DDA/pull/78762))
 * Fix special_vision serialization ([#78764](https://github.com/CleverRaven/Cataclysm-DDA/pull/78764))
-* Weekly Changelog 2024-12-16 to 2024-12-23 ([#78734](https://github.com/CleverRaven/Cataclysm-DDA/pull/78734))
 * Expand and use cataimgui scrolling function ([#78763](https://github.com/CleverRaven/Cataclysm-DDA/pull/78763))
 * [Magiclysm] Freshen Up removes skunk spray ([#78759](https://github.com/CleverRaven/Cataclysm-DDA/pull/78759))
 * [MoM] Sitting at high Nether Attunement costs additional calories/additional weariness when maintaining powers  ([#78746](https://github.com/CleverRaven/Cataclysm-DDA/pull/78746))
 * Eggplants can be smoked in the rack ([#78751](https://github.com/CleverRaven/Cataclysm-DDA/pull/78751))
 * Use ccache --evict-older-than for more accurate and leaner ccaches. ([#78743](https://github.com/CleverRaven/Cataclysm-DDA/pull/78743))
-* Fix enchantment ([#78739](https://github.com/CleverRaven/Cataclysm-DDA/pull/78739))
