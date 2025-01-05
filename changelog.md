@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-05-0632 ([76d49c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-0632))
+
 * [MOM] Add some Teleporter Powers ([#78903](https://github.com/CleverRaven/Cataclysm-DDA/pull/78903))
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
@@ -192,11 +197,6 @@
 * Fixed atmic smarphone and intergrated AR unable to read stored books. ([#78831](https://github.com/CleverRaven/Cataclysm-DDA/pull/78831))
 * [Magiclysm] Add the aenor, a giant heron riding mount ([#78782](https://github.com/CleverRaven/Cataclysm-DDA/pull/78782))
 * Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-30-1551 ([8f6c5af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-30-1551))
-
 * [DinoMod] shorter names ([#78827](https://github.com/CleverRaven/Cataclysm-DDA/pull/78827))
 * Zombified humans are still humans ([#78796](https://github.com/CleverRaven/Cataclysm-DDA/pull/78796))
 * wp_skill makes you avoid bad weakpoint ([#78797](https://github.com/CleverRaven/Cataclysm-DDA/pull/78797))
