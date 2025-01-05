@@ -1,3 +1,4 @@
+* [MOM] Add some Teleporter Powers ([#78903](https://github.com/CleverRaven/Cataclysm-DDA/pull/78903))
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
 
@@ -68,7 +69,6 @@
 * [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM ([#78843](https://github.com/CleverRaven/Cataclysm-DDA/pull/78843))
 * Add imgui demo to the debug menu ([#78771](https://github.com/CleverRaven/Cataclysm-DDA/pull/78771))
 * fix: color tags texts drawn in item info ([#78784](https://github.com/CleverRaven/Cataclysm-DDA/pull/78784))
-* Unhardcode mx_city_trap ([#78728](https://github.com/CleverRaven/Cataclysm-DDA/pull/78728))
 * Remove cargoculted predecessor_mapgen on incomplete campsite roof ([#78861](https://github.com/CleverRaven/Cataclysm-DDA/pull/78861))
 * Make parameters fit on debug overmap ([#78896](https://github.com/CleverRaven/Cataclysm-DDA/pull/78896))
 
