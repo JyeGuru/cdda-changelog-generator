@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-05-1952 (7a6ab2d)
 * Check validity of plant data on load (#78960)
 
 Cataclysm-DDA experimental build 2025-01-05-1740 (f2be256)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-12-31-2151 (2546cd8)
 * [Magiclysm] Set feral wizards to copy-from (#78856)
 * [DinoMod] more accurate adulthood numbers (#78858)
 * Removes sees_player_retro mod (#78872)
-
-Cataclysm-DDA experimental build 2024-12-31-1935 (1a410b2)
 * Remove 460 Rowland (#78867)
 * [Magiclysm] Add zombie dwarves to mines (#78855)
 * add ctiric acid as alternative to lemons to mascarpone recipe (#78868)

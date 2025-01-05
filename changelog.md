@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-05-1952 ([7a6ab2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1952))
+
 * Check validity of plant data on load ([#78960](https://github.com/CleverRaven/Cataclysm-DDA/pull/78960))
 
 ---
@@ -201,11 +206,6 @@
 * [Magiclysm] Set feral wizards to copy-from ([#78856](https://github.com/CleverRaven/Cataclysm-DDA/pull/78856))
 * [DinoMod] more accurate adulthood numbers ([#78858](https://github.com/CleverRaven/Cataclysm-DDA/pull/78858))
 * Removes sees_player_retro mod ([#78872](https://github.com/CleverRaven/Cataclysm-DDA/pull/78872))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-31-1935 ([1a410b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-1935))
-
 * Remove 460 Rowland ([#78867](https://github.com/CleverRaven/Cataclysm-DDA/pull/78867))
 * [Magiclysm] Add zombie dwarves to mines ([#78855](https://github.com/CleverRaven/Cataclysm-DDA/pull/78855))
 * add ctiric acid as alternative to lemons to mascarpone recipe ([#78868](https://github.com/CleverRaven/Cataclysm-DDA/pull/78868))
