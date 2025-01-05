@@ -1,3 +1,4 @@
+* Remove Night-Pryanik from reviewers.yml (#78958)
 * Combine crit hit and wp hit and tweak damage calculation for ranged attack (#78877)
 
 Cataclysm-DDA experimental build 2025-01-05-1539 (c818cf9)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2024-12-31-1750 (a7510f4)
 * Add the menorah and small candles to put in it (#78795)
 * [Magiclysm] Goblins and wargs are best friends (#78824)
 * Add history to Construction Search (#78819)
-* [DinoMod] fix zombie evolution pluralization (#78778)
 * Deweaponize the foam bat (#78812)
 * typified stuff (#78793)
 * Revert "pianos give piano wire on disassembly" (#78799)

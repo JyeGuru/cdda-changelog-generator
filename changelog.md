@@ -1,3 +1,4 @@
+* Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Combine crit hit and wp hit and tweak damage calculation for ranged attack ([#78877](https://github.com/CleverRaven/Cataclysm-DDA/pull/78877))
 
 ---
@@ -223,7 +224,6 @@
 * Add the menorah and small candles to put in it ([#78795](https://github.com/CleverRaven/Cataclysm-DDA/pull/78795))
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
-* [DinoMod] fix zombie evolution pluralization ([#78778](https://github.com/CleverRaven/Cataclysm-DDA/pull/78778))
 * Deweaponize the foam bat ([#78812](https://github.com/CleverRaven/Cataclysm-DDA/pull/78812))
 * typified stuff ([#78793](https://github.com/CleverRaven/Cataclysm-DDA/pull/78793))
 * Revert "pianos give piano wire on disassembly" ([#78799](https://github.com/CleverRaven/Cataclysm-DDA/pull/78799))
