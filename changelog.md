@@ -1,3 +1,4 @@
+* Bugfix kickboxing and boxing technique conditions ([#78962](https://github.com/CleverRaven/Cataclysm-DDA/pull/78962))
 * [CR] Add audio support for curses mode ([#78880](https://github.com/CleverRaven/Cataclysm-DDA/pull/78880))
 * Fix crash when zone-harvesting crops with bad data ([#78939](https://github.com/CleverRaven/Cataclysm-DDA/pull/78939))
 * fix pulping being too fast ([#78948](https://github.com/CleverRaven/Cataclysm-DDA/pull/78948))
