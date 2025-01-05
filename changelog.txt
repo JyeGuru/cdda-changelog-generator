@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-05-0207 (2000b9f)
 * Aftershock: Zenit Security Drones (#78923)
 * Cache item info, reducing time of crafting filter `d:` to ~32% (#78945)
 
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2024-12-30-1551 (8f6c5af)
 Cataclysm-DDA experimental build 2024-12-30-0827 (7f812e6)
 * Zombified humans are still humans (#78796)
 * wp_skill makes you avoid bad weakpoint (#78797)
-
-Cataclysm-DDA experimental build 2024-12-30-0637 (9a59660)
 * [Magiclysm] Add technomantic augmentation clinic (#78829)
 * Remove Feral Archaelogist (#78840)
 * NPC should not wield integrated armor (#78810)
