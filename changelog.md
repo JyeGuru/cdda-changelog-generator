@@ -1,3 +1,5 @@
+* Fix EOC vitamin evaluation for items ([#78790](https://github.com/CleverRaven/Cataclysm-DDA/pull/78790))
+* Don't truncate allergy vitamins out of existence ([#78792](https://github.com/CleverRaven/Cataclysm-DDA/pull/78792))
 * Make clang-tidy diagnostics on windows a tad more manageable ([#78787](https://github.com/CleverRaven/Cataclysm-DDA/pull/78787))
 * Set minimum sizes for missions menu window ([#78811](https://github.com/CleverRaven/Cataclysm-DDA/pull/78811))
 
@@ -228,5 +230,3 @@
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers ([#78769](https://github.com/CleverRaven/Cataclysm-DDA/pull/78769))
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks ([#78770](https://github.com/CleverRaven/Cataclysm-DDA/pull/78770))
 * Corrects recipe for water purifying ([#78773](https://github.com/CleverRaven/Cataclysm-DDA/pull/78773))
-* Fix special_vision serialization ([#78764](https://github.com/CleverRaven/Cataclysm-DDA/pull/78764))
-* Expand and use cataimgui scrolling function ([#78763](https://github.com/CleverRaven/Cataclysm-DDA/pull/78763))

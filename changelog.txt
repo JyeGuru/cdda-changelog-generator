@@ -1,3 +1,5 @@
+* Fix EOC vitamin evaluation for items (#78790)
+* Don't truncate allergy vitamins out of existence (#78792)
 * Make clang-tidy diagnostics on windows a tad more manageable (#78787)
 * Set minimum sizes for missions menu window (#78811)
 
@@ -144,5 +146,3 @@ Cataclysm-DDA experimental build 2024-12-31-1117 (af9c8c9)
 * [MoM] High Nether Attunement (level 5 and level 11) reduce your ability to concentrate on powers (#78769)
 * [MoM] Add hitting Nether Attunement 5 and Nether Attunement 11 to the list of things that call for concentration checks (#78770)
 * Corrects recipe for water purifying (#78773)
-* Fix special_vision serialization (#78764)
-* Expand and use cataimgui scrolling function (#78763)
