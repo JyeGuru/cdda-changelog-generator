@@ -1,3 +1,4 @@
+* [Aftershock] Fix Frontier Cyromask uses wrong battery (#78990)
 
 Cataclysm-DDA experimental build 2025-01-06-2242 (248b22d)
 * [Xedra Evolved] Badgers are not worms, fix faction problems (#78987)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-01-02-0132 (1c57e79)
 * Remove Feral Archaelogist (#78840)
 * [Magiclysm] Fix wands (#78825)
 * [Magiclysm] Goblins and wargs are best friends (#78824)
-* Add history to Construction Search (#78819)
