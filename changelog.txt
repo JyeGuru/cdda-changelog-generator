@@ -1,3 +1,4 @@
+* [MoM] Genericize Enervating Touch (#78971)
 
 Cataclysm-DDA experimental build 2025-01-06-1845 (9d60e47)
 * Remove mission search radius from most missions (#78949)

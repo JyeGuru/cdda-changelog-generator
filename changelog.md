@@ -1,3 +1,4 @@
+* [MoM] Genericize Enervating Touch ([#78971](https://github.com/CleverRaven/Cataclysm-DDA/pull/78971))
 
 ---
 
