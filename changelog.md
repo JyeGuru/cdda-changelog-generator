@@ -1,3 +1,4 @@
+* Remove mission search radius from most missions ([#78949](https://github.com/CleverRaven/Cataclysm-DDA/pull/78949))
 * Give Chimera Natural Stance ([#78982](https://github.com/CleverRaven/Cataclysm-DDA/pull/78982))
 
 ---
@@ -230,4 +231,3 @@
 * [Magiclysm] Fix wands ([#78825](https://github.com/CleverRaven/Cataclysm-DDA/pull/78825))
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
-* Deweaponize the foam bat ([#78812](https://github.com/CleverRaven/Cataclysm-DDA/pull/78812))

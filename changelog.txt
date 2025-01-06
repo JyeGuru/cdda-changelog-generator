@@ -1,3 +1,4 @@
+* Remove mission search radius from most missions (#78949)
 * Give Chimera Natural Stance (#78982)
 
 Cataclysm-DDA experimental build 2025-01-06-1647 (8d40d7f)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-01-01-1758 (3f81cc3)
 * [Magiclysm] Fix wands (#78825)
 * [Magiclysm] Goblins and wargs are best friends (#78824)
 * Add history to Construction Search (#78819)
-* Deweaponize the foam bat (#78812)
