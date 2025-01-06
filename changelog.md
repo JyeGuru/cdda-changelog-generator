@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-06-0016 ([337b4d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-0016))
+
 * Thermal electric gear power draw reduction ([#78834](https://github.com/CleverRaven/Cataclysm-DDA/pull/78834))
 * typified cata_tiles and sdl_tiles ([#78815](https://github.com/CleverRaven/Cataclysm-DDA/pull/78815))
 * Remove "military" itemgroup ([#78965](https://github.com/CleverRaven/Cataclysm-DDA/pull/78965))
@@ -201,11 +206,6 @@
 
 * [innawood] fix modern dog drops ([#78821](https://github.com/CleverRaven/Cataclysm-DDA/pull/78821))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
-
----
-
-#### Cataclysm-DDA experimental build 2024-12-31-2335 ([2d8e07d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-12-31-2335))
-
 * Suppress debug message when dragging furniture off the ledge ([#78847](https://github.com/CleverRaven/Cataclysm-DDA/pull/78847))
 * Better skill requirement UI for martial arts ([#78852](https://github.com/CleverRaven/Cataclysm-DDA/pull/78852))
 * Correct some canning recipes ([#78854](https://github.com/CleverRaven/Cataclysm-DDA/pull/78854))
