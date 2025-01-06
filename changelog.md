@@ -1,3 +1,10 @@
+* Routine tileset updates on 01 January 2025 ([#78881](https://github.com/CleverRaven/Cataclysm-DDA/pull/78881))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-06-0650 ([ebf3401](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-0650))
+
+* put foil wrappers inside of the roll ([#78964](https://github.com/CleverRaven/Cataclysm-DDA/pull/78964))
 
 ---
 
@@ -105,7 +112,6 @@
 #### Cataclysm-DDA experimental build 2025-01-04-2214 ([fda59d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-2214))
 
 * [DinoMod] shonisaurus ([#78911](https://github.com/CleverRaven/Cataclysm-DDA/pull/78911))
-* [ Xedra Evolved ] Update more comestibles to use effect_on_consumption ([#78805](https://github.com/CleverRaven/Cataclysm-DDA/pull/78805))
 * Add missing luthier proficiency to appropriate recipes ([#78808](https://github.com/CleverRaven/Cataclysm-DDA/pull/78808))
 * Zombie Humanity Audit ([#78902](https://github.com/CleverRaven/Cataclysm-DDA/pull/78902))
 
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-01-01-0451 ([23c17a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-0451))
 
 * Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-01-0136 ([19c0aa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-0136))
-
 * [innawood] fix modern dog drops ([#78821](https://github.com/CleverRaven/Cataclysm-DDA/pull/78821))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
 * Suppress debug message when dragging furniture off the ledge ([#78847](https://github.com/CleverRaven/Cataclysm-DDA/pull/78847))
@@ -230,4 +231,3 @@
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))
 * Deweaponize the foam bat ([#78812](https://github.com/CleverRaven/Cataclysm-DDA/pull/78812))
-* Routine i18n updates on 28 December 2024 ([#78804](https://github.com/CleverRaven/Cataclysm-DDA/pull/78804))
