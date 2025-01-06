@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-06-2242 ([248b22d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-2242))
+
 * [Xedra Evolved] Badgers are not worms, fix faction problems ([#78987](https://github.com/CleverRaven/Cataclysm-DDA/pull/78987))
 * Aftershock: Gameified EMP mechanics ([#78974](https://github.com/CleverRaven/Cataclysm-DDA/pull/78974))
 * [MoM] Genericize Enervating Touch ([#78971](https://github.com/CleverRaven/Cataclysm-DDA/pull/78971))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-01-02-0132 ([1c57e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-02-0132))
 
 * [XEDRA Evolved] I want to believe ([#78878](https://github.com/CleverRaven/Cataclysm-DDA/pull/78878))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-01-2342 ([5a00b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-2342))
-
 * [Magicylsm] Forge of Wonders Redesign ([#78846](https://github.com/CleverRaven/Cataclysm-DDA/pull/78846))
 *  Scale spell window to spell list and terminal size ([#78883](https://github.com/CleverRaven/Cataclysm-DDA/pull/78883))
 * [Magiclysm] Obsolete shambling mound, give shaman the Keeper of the Glades summon ([#78826](https://github.com/CleverRaven/Cataclysm-DDA/pull/78826))
