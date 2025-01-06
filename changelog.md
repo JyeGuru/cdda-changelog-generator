@@ -1,3 +1,4 @@
+* [Xedra Evolved] Badgers are not worms, fix faction problems ([#78987](https://github.com/CleverRaven/Cataclysm-DDA/pull/78987))
 * Aftershock: Gameified EMP mechanics ([#78974](https://github.com/CleverRaven/Cataclysm-DDA/pull/78974))
 * [MoM] Genericize Enervating Touch ([#78971](https://github.com/CleverRaven/Cataclysm-DDA/pull/78971))
 
@@ -73,12 +74,6 @@
 
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-1147 ([4e49a50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1147))
-
-* Fix enchantment ugliness and expose ugliness to math ([#78817](https://github.com/CleverRaven/Cataclysm-DDA/pull/78817))
 * Make font hinting user-configurable. ([#78830](https://github.com/CleverRaven/Cataclysm-DDA/pull/78830))
 * [innawood] Add makeshift hand-crank charger and magnetite ore ([#78844](https://github.com/CleverRaven/Cataclysm-DDA/pull/78844))
 * Fix vehicle not moving when being remotely controlled ([#78850](https://github.com/CleverRaven/Cataclysm-DDA/pull/78850))
