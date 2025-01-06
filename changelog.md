@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-06-1647 ([8d40d7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-1647))
+
+* Fire Ax has a spike not a hook ([#78973](https://github.com/CleverRaven/Cataclysm-DDA/pull/78973))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-06-0852 ([bf9445f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-0852))
 
 * obsolete makeshift_solar_farm ([#78969](https://github.com/CleverRaven/Cataclysm-DDA/pull/78969))
@@ -198,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-01-01-1758 ([3f81cc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-1758))
 
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-01-0713 ([5c87f27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-01-0713))
-
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))
 * Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
 * [innawood] fix modern dog drops ([#78821](https://github.com/CleverRaven/Cataclysm-DDA/pull/78821))
@@ -226,7 +227,6 @@
 * [DinoMod] shorter names ([#78827](https://github.com/CleverRaven/Cataclysm-DDA/pull/78827))
 * [Magiclysm] Add technomantic augmentation clinic ([#78829](https://github.com/CleverRaven/Cataclysm-DDA/pull/78829))
 * Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
-* NPC should not wield integrated armor ([#78810](https://github.com/CleverRaven/Cataclysm-DDA/pull/78810))
 * [Magiclysm] Fix wands ([#78825](https://github.com/CleverRaven/Cataclysm-DDA/pull/78825))
 * [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))
 * Add history to Construction Search ([#78819](https://github.com/CleverRaven/Cataclysm-DDA/pull/78819))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-06-1647 (8d40d7f)
+* Fire Ax has a spike not a hook (#78973)
+
 Cataclysm-DDA experimental build 2025-01-06-0852 (bf9445f)
 * obsolete makeshift_solar_farm (#78969)
 * Routine tileset updates on 01 January 2025 (#78881)
@@ -117,8 +120,6 @@ Cataclysm-DDA experimental build 2025-01-01-2342 (5a00b91)
 
 Cataclysm-DDA experimental build 2025-01-01-1758 (3f81cc3)
 * [Magiclysm] More Forge price adjustments (#78882)
-
-Cataclysm-DDA experimental build 2025-01-01-0713 (5c87f27)
 * Remove a few nonsense recipes (#78863)
 * Prune a few military related itemgroups (#78860)
 * [innawood] fix modern dog drops (#78821)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2025-01-01-0713 (5c87f27)
 * [DinoMod] shorter names (#78827)
 * [Magiclysm] Add technomantic augmentation clinic (#78829)
 * Remove Feral Archaelogist (#78840)
-* NPC should not wield integrated armor (#78810)
 * [Magiclysm] Fix wands (#78825)
 * [Magiclysm] Goblins and wargs are best friends (#78824)
 * Add history to Construction Search (#78819)
