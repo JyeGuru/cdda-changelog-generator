@@ -1,3 +1,4 @@
+* Give Chimera Natural Stance ([#78982](https://github.com/CleverRaven/Cataclysm-DDA/pull/78982))
 
 ---
 
@@ -65,7 +66,6 @@
 
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-* Set minimum sizes for missions menu window ([#78811](https://github.com/CleverRaven/Cataclysm-DDA/pull/78811))
 
 ---
 
