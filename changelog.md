@@ -1,3 +1,4 @@
+* obsolete makeshift_solar_farm ([#78969](https://github.com/CleverRaven/Cataclysm-DDA/pull/78969))
 * Routine tileset updates on 01 January 2025 ([#78881](https://github.com/CleverRaven/Cataclysm-DDA/pull/78881))
 
 ---
@@ -112,7 +113,6 @@
 #### Cataclysm-DDA experimental build 2025-01-04-2214 ([fda59d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-2214))
 
 * [DinoMod] shonisaurus ([#78911](https://github.com/CleverRaven/Cataclysm-DDA/pull/78911))
-* Add missing luthier proficiency to appropriate recipes ([#78808](https://github.com/CleverRaven/Cataclysm-DDA/pull/78808))
 * Zombie Humanity Audit ([#78902](https://github.com/CleverRaven/Cataclysm-DDA/pull/78902))
 
 ---
