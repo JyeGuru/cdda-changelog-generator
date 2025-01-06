@@ -1,3 +1,4 @@
+* Aftershock: Gameified EMP mechanics ([#78974](https://github.com/CleverRaven/Cataclysm-DDA/pull/78974))
 * [MoM] Genericize Enervating Touch ([#78971](https://github.com/CleverRaven/Cataclysm-DDA/pull/78971))
 
 ---
@@ -31,7 +32,6 @@
 #### Cataclysm-DDA experimental build 2025-01-06-0016 ([337b4d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-0016))
 
 * Thermal electric gear power draw reduction ([#78834](https://github.com/CleverRaven/Cataclysm-DDA/pull/78834))
-* typified cata_tiles and sdl_tiles ([#78815](https://github.com/CleverRaven/Cataclysm-DDA/pull/78815))
 * Remove "military" itemgroup ([#78965](https://github.com/CleverRaven/Cataclysm-DDA/pull/78965))
 
 ---
