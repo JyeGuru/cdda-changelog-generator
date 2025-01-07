@@ -1,3 +1,4 @@
+* Gas field effects stuff ([#79006](https://github.com/CleverRaven/Cataclysm-DDA/pull/79006))
 
 ---
 
@@ -66,12 +67,6 @@
 #### Cataclysm-DDA experimental build 2025-01-06-0650 ([ebf3401](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-0650))
 
 * put foil wrappers inside of the roll ([#78964](https://github.com/CleverRaven/Cataclysm-DDA/pull/78964))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-06-0016 ([337b4d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-0016))
-
-* Thermal electric gear power draw reduction ([#78834](https://github.com/CleverRaven/Cataclysm-DDA/pull/78834))
 * Remove "military" itemgroup ([#78965](https://github.com/CleverRaven/Cataclysm-DDA/pull/78965))
 
 ---
