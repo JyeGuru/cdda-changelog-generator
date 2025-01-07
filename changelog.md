@@ -1,3 +1,4 @@
+* [MoM] Add Water-Walking Telekinetic power ([#78988](https://github.com/CleverRaven/Cataclysm-DDA/pull/78988))
 
 ---
 
@@ -201,7 +202,6 @@
 * [XEDRA Evolved] I want to believe ([#78878](https://github.com/CleverRaven/Cataclysm-DDA/pull/78878))
 * [Magicylsm] Forge of Wonders Redesign ([#78846](https://github.com/CleverRaven/Cataclysm-DDA/pull/78846))
 *  Scale spell window to spell list and terminal size ([#78883](https://github.com/CleverRaven/Cataclysm-DDA/pull/78883))
-* [Magiclysm] Obsolete shambling mound, give shaman the Keeper of the Glades summon ([#78826](https://github.com/CleverRaven/Cataclysm-DDA/pull/78826))
 * Eyebot removal from Lore Doc ([#78884](https://github.com/CleverRaven/Cataclysm-DDA/pull/78884))
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))

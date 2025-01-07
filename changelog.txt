@@ -1,3 +1,4 @@
+* [MoM] Add Water-Walking Telekinetic power (#78988)
 
 Cataclysm-DDA experimental build 2025-01-07-0426 (befd448)
 * sundry typification (#78985)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2025-01-03-0558 (b342634)
 * [XEDRA Evolved] I want to believe (#78878)
 * [Magicylsm] Forge of Wonders Redesign (#78846)
 *  Scale spell window to spell list and terminal size (#78883)
-* [Magiclysm] Obsolete shambling mound, give shaman the Keeper of the Glades summon (#78826)
 * Eyebot removal from Lore Doc (#78884)
 * [Magiclysm] More Forge price adjustments (#78882)
 * Remove a few nonsense recipes (#78863)
