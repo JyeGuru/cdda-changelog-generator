@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-07-1925 (8a63331)
 * Gas field effects stuff (#79006)
 
 Cataclysm-DDA experimental build 2025-01-07-1719 (3be8cc8)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2025-01-04-0909 (c36d390)
 * [MoM] Ephemeral riftwalkers can use Breach (#78914)
 * Fix Ancilla template seller speech training exploit (#78924)
 * Routine i18n updates on 04 January 2025 (#78934)
-
-Cataclysm-DDA experimental build 2025-01-04-0714 (774f85b)
 * make ammo_effect_WIDE actually work (#78935)
 * Make pillowcase volume in line with pillow volume (#78927)
 * fix falling while dragging vehicle (#78928)
