@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-07-2348 ([53638c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-2348))
+
+* [MoM] Proficiency reshuffling, some crafts require that you are a psion ([#78992](https://github.com/CleverRaven/Cataclysm-DDA/pull/78992))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-07-1925 ([8a63331](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-1925))
 
 * Gas field effects stuff ([#79006](https://github.com/CleverRaven/Cataclysm-DDA/pull/79006))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-01-04-1537 ([005a9fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-1537))
 
 * Properly show variant's prefix/suffix in the crafting menu ([#78904](https://github.com/CleverRaven/Cataclysm-DDA/pull/78904))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-04-0909 ([c36d390](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-0909))
-
 * Update furniture & terrain docs ([#78891](https://github.com/CleverRaven/Cataclysm-DDA/pull/78891))
 * [Magiclysm] Forge values denarii but no one else does ([#78901](https://github.com/CleverRaven/Cataclysm-DDA/pull/78901))
 * Add more generator types ([#78910](https://github.com/CleverRaven/Cataclysm-DDA/pull/78910))
@@ -215,7 +216,6 @@
 * Remove 460 Rowland ([#78867](https://github.com/CleverRaven/Cataclysm-DDA/pull/78867))
 * [Magiclysm] Add zombie dwarves to mines ([#78855](https://github.com/CleverRaven/Cataclysm-DDA/pull/78855))
 * add ctiric acid as alternative to lemons to mascarpone recipe ([#78868](https://github.com/CleverRaven/Cataclysm-DDA/pull/78868))
-* Make branch name message less scary ([#78835](https://github.com/CleverRaven/Cataclysm-DDA/pull/78835))
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
 * Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
 * Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
