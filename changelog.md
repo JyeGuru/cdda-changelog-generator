@@ -1,3 +1,4 @@
+* Single quoted empty string in stale handler. ([#78995](https://github.com/CleverRaven/Cataclysm-DDA/pull/78995))
 
 ---
 
@@ -225,4 +226,3 @@
 * [Magiclysm] Add technomantic augmentation clinic ([#78829](https://github.com/CleverRaven/Cataclysm-DDA/pull/78829))
 * Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
 * [Magiclysm] Fix wands ([#78825](https://github.com/CleverRaven/Cataclysm-DDA/pull/78825))
-* [Magiclysm] Goblins and wargs are best friends ([#78824](https://github.com/CleverRaven/Cataclysm-DDA/pull/78824))

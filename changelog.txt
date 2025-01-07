@@ -1,3 +1,4 @@
+* Single quoted empty string in stale handler. (#78995)
 
 Cataclysm-DDA experimental build 2025-01-07-0046 (a483553)
 * [Aftershock] Fix Frontier Cyromask uses wrong battery (#78990)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-01-02-0456 (1fa91ba)
 * [Magiclysm] Add technomantic augmentation clinic (#78829)
 * Remove Feral Archaelogist (#78840)
 * [Magiclysm] Fix wands (#78825)
-* [Magiclysm] Goblins and wargs are best friends (#78824)
