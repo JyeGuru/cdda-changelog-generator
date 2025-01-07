@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-07-0046 ([a483553](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-0046))
+
 * [Aftershock] Fix Frontier Cyromask uses wrong battery ([#78990](https://github.com/CleverRaven/Cataclysm-DDA/pull/78990))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-01-02-0456 ([1fa91ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-02-0456))
 
 * [Magiclysm] Augmentation clinic adjustments ([#78889](https://github.com/CleverRaven/Cataclysm-DDA/pull/78889))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-02-0132 ([1c57e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-02-0132))
-
 * [XEDRA Evolved] I want to believe ([#78878](https://github.com/CleverRaven/Cataclysm-DDA/pull/78878))
 * [Magicylsm] Forge of Wonders Redesign ([#78846](https://github.com/CleverRaven/Cataclysm-DDA/pull/78846))
 *  Scale spell window to spell list and terminal size ([#78883](https://github.com/CleverRaven/Cataclysm-DDA/pull/78883))
@@ -204,7 +204,6 @@
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))
 * Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
-* [innawood] fix modern dog drops ([#78821](https://github.com/CleverRaven/Cataclysm-DDA/pull/78821))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
 * Suppress debug message when dragging furniture off the ledge ([#78847](https://github.com/CleverRaven/Cataclysm-DDA/pull/78847))
 * Better skill requirement UI for martial arts ([#78852](https://github.com/CleverRaven/Cataclysm-DDA/pull/78852))
