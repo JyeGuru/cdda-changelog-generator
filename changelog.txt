@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-01-07-1203 (4198790)
+* Update COMPILER_SUPPORT.md (#78943)
 * [MoM] Add Water-Walking Telekinetic power (#78988)
 
 Cataclysm-DDA experimental build 2025-01-07-0426 (befd448)
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2025-01-03-2016 (58db8be)
 * [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM (#78843)
 * Remove cargoculted predecessor_mapgen on incomplete campsite roof (#78861)
 * Make parameters fit on debug overmap (#78896)
-
-Cataclysm-DDA experimental build 2025-01-03-1416 (b20ae04)
 * Fix hub01 ancilla chatting var name typo (#78848)
 * Add recast last spell (Repeat last supernatural ability) (#78919)
 * Pin gcc 9 and 11 workflows to 22.04 (#78894)
@@ -140,6 +141,5 @@ Cataclysm-DDA experimental build 2025-01-03-1416 (b20ae04)
 * [Magiclysm] Stop workshop elves and their workshop from spawning (#78842)
 * Fixed atmic smarphone and intergrated AR unable to read stored books. (#78831)
 * Paracleasian energy_increment Fix (#78849)
-* [DinoMod] shorter names (#78827)
 * [Magiclysm] Add technomantic augmentation clinic (#78829)
 * Remove Feral Archaelogist (#78840)

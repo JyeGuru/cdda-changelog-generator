@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-07-1203 ([4198790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-1203))
+
+* Update COMPILER_SUPPORT.md ([#78943](https://github.com/CleverRaven/Cataclysm-DDA/pull/78943))
 * [MoM] Add Water-Walking Telekinetic power ([#78988](https://github.com/CleverRaven/Cataclysm-DDA/pull/78988))
 
 ---
@@ -185,11 +191,6 @@
 * [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM ([#78843](https://github.com/CleverRaven/Cataclysm-DDA/pull/78843))
 * Remove cargoculted predecessor_mapgen on incomplete campsite roof ([#78861](https://github.com/CleverRaven/Cataclysm-DDA/pull/78861))
 * Make parameters fit on debug overmap ([#78896](https://github.com/CleverRaven/Cataclysm-DDA/pull/78896))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-03-1416 ([b20ae04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-03-1416))
-
 * Fix hub01 ancilla chatting var name typo ([#78848](https://github.com/CleverRaven/Cataclysm-DDA/pull/78848))
 * Add recast last spell (Repeat last supernatural ability) ([#78919](https://github.com/CleverRaven/Cataclysm-DDA/pull/78919))
 * Pin gcc 9 and 11 workflows to 22.04 ([#78894](https://github.com/CleverRaven/Cataclysm-DDA/pull/78894))
@@ -218,6 +219,5 @@
 * [Magiclysm] Stop workshop elves and their workshop from spawning ([#78842](https://github.com/CleverRaven/Cataclysm-DDA/pull/78842))
 * Fixed atmic smarphone and intergrated AR unable to read stored books. ([#78831](https://github.com/CleverRaven/Cataclysm-DDA/pull/78831))
 * Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
-* [DinoMod] shorter names ([#78827](https://github.com/CleverRaven/Cataclysm-DDA/pull/78827))
 * [Magiclysm] Add technomantic augmentation clinic ([#78829](https://github.com/CleverRaven/Cataclysm-DDA/pull/78829))
 * Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
