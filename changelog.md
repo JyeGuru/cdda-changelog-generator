@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-07-0426 ([befd448](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-0426))
+
+* sundry typification ([#78985](https://github.com/CleverRaven/Cataclysm-DDA/pull/78985))
 * Single quoted empty string in stale handler. ([#78995](https://github.com/CleverRaven/Cataclysm-DDA/pull/78995))
 
 ---
@@ -191,11 +197,6 @@
 
 * Add recast last spell (Repeat last supernatural ability) ([#78919](https://github.com/CleverRaven/Cataclysm-DDA/pull/78919))
 * Pin gcc 9 and 11 workflows to 22.04 ([#78894](https://github.com/CleverRaven/Cataclysm-DDA/pull/78894))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-02-0456 ([1fa91ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-02-0456))
-
 * [Magiclysm] Augmentation clinic adjustments ([#78889](https://github.com/CleverRaven/Cataclysm-DDA/pull/78889))
 * [XEDRA Evolved] I want to believe ([#78878](https://github.com/CleverRaven/Cataclysm-DDA/pull/78878))
 * [Magicylsm] Forge of Wonders Redesign ([#78846](https://github.com/CleverRaven/Cataclysm-DDA/pull/78846))
@@ -225,4 +226,3 @@
 * [DinoMod] shorter names ([#78827](https://github.com/CleverRaven/Cataclysm-DDA/pull/78827))
 * [Magiclysm] Add technomantic augmentation clinic ([#78829](https://github.com/CleverRaven/Cataclysm-DDA/pull/78829))
 * Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
-* [Magiclysm] Fix wands ([#78825](https://github.com/CleverRaven/Cataclysm-DDA/pull/78825))
