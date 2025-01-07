@@ -191,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-01-03-1416 ([b20ae04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-03-1416))
 
 * Fix hub01 ancilla chatting var name typo ([#78848](https://github.com/CleverRaven/Cataclysm-DDA/pull/78848))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-03-0558 ([b342634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-03-0558))
-
 * Add recast last spell (Repeat last supernatural ability) ([#78919](https://github.com/CleverRaven/Cataclysm-DDA/pull/78919))
 * Pin gcc 9 and 11 workflows to 22.04 ([#78894](https://github.com/CleverRaven/Cataclysm-DDA/pull/78894))
 * [Magiclysm] Augmentation clinic adjustments ([#78889](https://github.com/CleverRaven/Cataclysm-DDA/pull/78889))
