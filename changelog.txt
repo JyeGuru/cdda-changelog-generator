@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-07-1719 (3be8cc8)
 * Draw effect overlay over monsters (#78961)
 * [XE] Change book required for vampire best friend quest (#78998)
 * [Xedra Evolved] fix goblin_fruit_gacha (#79003)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2025-01-04-0909 (c36d390)
 
 Cataclysm-DDA experimental build 2025-01-04-0714 (774f85b)
 * make ammo_effect_WIDE actually work (#78935)
-
-Cataclysm-DDA experimental build 2025-01-03-2016 (58db8be)
 * Make pillowcase volume in line with pillow volume (#78927)
 * fix falling while dragging vehicle (#78928)
 * [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM (#78843)
