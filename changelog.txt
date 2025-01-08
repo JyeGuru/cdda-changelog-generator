@@ -106,8 +106,6 @@ Cataclysm-DDA experimental build 2025-01-05-0207 (2000b9f)
 Cataclysm-DDA experimental build 2025-01-05-0002 (1d63ab7)
 * [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn (#78930)
 * Update the table of contents in doc/JSON_INFO.md (#78936)
-
-Cataclysm-DDA experimental build 2025-01-04-2214 (fda59d7)
 * [DinoMod] shonisaurus (#78911)
 * Zombie Humanity Audit (#78902)
 * [Magiclysm] Krabgeks get their union breaks (#78917)
