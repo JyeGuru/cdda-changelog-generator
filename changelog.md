@@ -1,3 +1,4 @@
+* [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
 * whitelist test failing terrains ([#78933](https://github.com/CleverRaven/Cataclysm-DDA/pull/78933))
 * The Point Of Fighting ([#78979](https://github.com/CleverRaven/Cataclysm-DDA/pull/78979))
 
@@ -127,7 +128,6 @@
 
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-* [innawood] Add makeshift hand-crank charger and magnetite ore ([#78844](https://github.com/CleverRaven/Cataclysm-DDA/pull/78844))
 * Fix vehicle not moving when being remotely controlled ([#78850](https://github.com/CleverRaven/Cataclysm-DDA/pull/78850))
 
 ---
