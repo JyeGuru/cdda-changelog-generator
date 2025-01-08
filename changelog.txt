@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-08-1657 (8fe32de)
 * Require denomination pricing for price and price_postapoc (#78905)
 * remove dead code (#79004)
 * Revert "Give Chimera Natural Stance" (#78996)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2025-01-05-0632 (76d49c0)
 * [MOM] Add some Teleporter Powers (#78903)
 * [Magiclysm] Add a couple more CBMs (#78951)
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC (#78954)
-
-Cataclysm-DDA experimental build 2025-01-05-0431 (ffd7741)
 * Exodii: Caotel Sr2.2 DEW (#78932)
 * Aftershock: Zenit Security Drones (#78923)
 * Cache item info, reducing time of crafting filter `d:` to ~32% (#78945)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-08-1657 ([8fe32de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-08-1657))
+
 * Require denomination pricing for price and price_postapoc ([#78905](https://github.com/CleverRaven/Cataclysm-DDA/pull/78905))
 * remove dead code ([#79004](https://github.com/CleverRaven/Cataclysm-DDA/pull/79004))
 * Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))
@@ -161,11 +166,6 @@
 * [MOM] Add some Teleporter Powers ([#78903](https://github.com/CleverRaven/Cataclysm-DDA/pull/78903))
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-0431 ([ffd7741](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-0431))
-
 * Exodii: Caotel Sr2.2 DEW ([#78932](https://github.com/CleverRaven/Cataclysm-DDA/pull/78932))
 * Aftershock: Zenit Security Drones ([#78923](https://github.com/CleverRaven/Cataclysm-DDA/pull/78923))
 * Cache item info, reducing time of crafting filter `d:` to ~32% ([#78945](https://github.com/CleverRaven/Cataclysm-DDA/pull/78945))
