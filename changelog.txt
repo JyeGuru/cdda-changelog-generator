@@ -1,3 +1,4 @@
+* Require denomination pricing for price and price_postapoc (#78905)
 * remove dead code (#79004)
 * Revert "Give Chimera Natural Stance" (#78996)
 * Docs: standardize comments in item*.h somewhat (#78975)
@@ -80,7 +81,6 @@ Cataclysm-DDA experimental build 2025-01-05-1539 (c818cf9)
 Cataclysm-DDA experimental build 2025-01-05-1353 (caafa67)
 * Make auto-whitelist logic also auto-collapse the container (#78886)
 * Update some battery related recipes (#78929)
-* Fix vehicle not moving when being remotely controlled (#78850)
 
 Cataclysm-DDA experimental build 2025-01-05-1004 (9c33dea)
 * fix box full of spent candles (#78869)
@@ -98,8 +98,6 @@ Cataclysm-DDA experimental build 2025-01-05-0632 (76d49c0)
 
 Cataclysm-DDA experimental build 2025-01-05-0431 (ffd7741)
 * Exodii: Caotel Sr2.2 DEW (#78932)
-
-Cataclysm-DDA experimental build 2025-01-05-0207 (2000b9f)
 * Aftershock: Zenit Security Drones (#78923)
 * Cache item info, reducing time of crafting filter `d:` to ~32% (#78945)
 * [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn (#78930)

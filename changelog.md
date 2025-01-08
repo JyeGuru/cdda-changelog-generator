@@ -1,3 +1,4 @@
+* Require denomination pricing for price and price_postapoc ([#78905](https://github.com/CleverRaven/Cataclysm-DDA/pull/78905))
 * remove dead code ([#79004](https://github.com/CleverRaven/Cataclysm-DDA/pull/79004))
 * Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))
 * Docs: standardize comments in item*.h somewhat ([#78975](https://github.com/CleverRaven/Cataclysm-DDA/pull/78975))
@@ -137,7 +138,6 @@
 
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-* Fix vehicle not moving when being remotely controlled ([#78850](https://github.com/CleverRaven/Cataclysm-DDA/pull/78850))
 
 ---
 
@@ -167,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-01-05-0431 ([ffd7741](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-0431))
 
 * Exodii: Caotel Sr2.2 DEW ([#78932](https://github.com/CleverRaven/Cataclysm-DDA/pull/78932))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-0207 ([2000b9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-0207))
-
 * Aftershock: Zenit Security Drones ([#78923](https://github.com/CleverRaven/Cataclysm-DDA/pull/78923))
 * Cache item info, reducing time of crafting filter `d:` to ~32% ([#78945](https://github.com/CleverRaven/Cataclysm-DDA/pull/78945))
 * [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn ([#78930](https://github.com/CleverRaven/Cataclysm-DDA/pull/78930))
