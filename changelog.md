@@ -1,3 +1,4 @@
+* updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
 
 ---
 
@@ -202,7 +203,6 @@
 * Pin gcc 9 and 11 workflows to 22.04 ([#78894](https://github.com/CleverRaven/Cataclysm-DDA/pull/78894))
 * [Magiclysm] Augmentation clinic adjustments ([#78889](https://github.com/CleverRaven/Cataclysm-DDA/pull/78889))
 * [XEDRA Evolved] I want to believe ([#78878](https://github.com/CleverRaven/Cataclysm-DDA/pull/78878))
-* [Magicylsm] Forge of Wonders Redesign ([#78846](https://github.com/CleverRaven/Cataclysm-DDA/pull/78846))
 *  Scale spell window to spell list and terminal size ([#78883](https://github.com/CleverRaven/Cataclysm-DDA/pull/78883))
 * Eyebot removal from Lore Doc ([#78884](https://github.com/CleverRaven/Cataclysm-DDA/pull/78884))
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))

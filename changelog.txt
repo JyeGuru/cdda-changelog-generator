@@ -1,3 +1,4 @@
+* updates (#79020)
 
 Cataclysm-DDA experimental build 2025-01-08-0539 (9d108ee)
 * [MoM] Add electronoetic batteries (#79010)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2025-01-04-2214 (fda59d7)
 * Pin gcc 9 and 11 workflows to 22.04 (#78894)
 * [Magiclysm] Augmentation clinic adjustments (#78889)
 * [XEDRA Evolved] I want to believe (#78878)
-* [Magicylsm] Forge of Wonders Redesign (#78846)
 *  Scale spell window to spell list and terminal size (#78883)
 * Eyebot removal from Lore Doc (#78884)
 * [Magiclysm] More Forge price adjustments (#78882)
