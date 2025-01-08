@@ -174,11 +174,6 @@
 
 * Aftershock: Zenit Security Drones ([#78923](https://github.com/CleverRaven/Cataclysm-DDA/pull/78923))
 * Cache item info, reducing time of crafting filter `d:` to ~32% ([#78945](https://github.com/CleverRaven/Cataclysm-DDA/pull/78945))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-0002 ([1d63ab7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-0002))
-
 * [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn ([#78930](https://github.com/CleverRaven/Cataclysm-DDA/pull/78930))
 * Update the table of contents in doc/JSON_INFO.md ([#78936](https://github.com/CleverRaven/Cataclysm-DDA/pull/78936))
 * [DinoMod] shonisaurus ([#78911](https://github.com/CleverRaven/Cataclysm-DDA/pull/78911))
