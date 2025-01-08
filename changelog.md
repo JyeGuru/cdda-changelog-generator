@@ -1,3 +1,11 @@
+* whitelist test failing terrains ([#78933](https://github.com/CleverRaven/Cataclysm-DDA/pull/78933))
+* The Point Of Fighting ([#78979](https://github.com/CleverRaven/Cataclysm-DDA/pull/78979))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-08-0349 ([bf978d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-08-0349))
+
+* Fix vehicle_split_section test by only destroying the vehicle and not the terrain ([#78994](https://github.com/CleverRaven/Cataclysm-DDA/pull/78994))
 
 ---
 
@@ -177,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-01-04-2028 ([049ea1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-2028))
 
 * [Magiclysm] Krabgeks get their union breaks ([#78917](https://github.com/CleverRaven/Cataclysm-DDA/pull/78917))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-04-1537 ([005a9fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-1537))
-
 * Properly show variant's prefix/suffix in the crafting menu ([#78904](https://github.com/CleverRaven/Cataclysm-DDA/pull/78904))
 * Update furniture & terrain docs ([#78891](https://github.com/CleverRaven/Cataclysm-DDA/pull/78891))
 * [Magiclysm] Forge values denarii but no one else does ([#78901](https://github.com/CleverRaven/Cataclysm-DDA/pull/78901))
@@ -192,7 +195,6 @@
 * make ammo_effect_WIDE actually work ([#78935](https://github.com/CleverRaven/Cataclysm-DDA/pull/78935))
 * Make pillowcase volume in line with pillow volume ([#78927](https://github.com/CleverRaven/Cataclysm-DDA/pull/78927))
 * fix falling while dragging vehicle ([#78928](https://github.com/CleverRaven/Cataclysm-DDA/pull/78928))
-* [Magiclysm] Add Witchsight Animist spell and Witchfinder Eye CBM ([#78843](https://github.com/CleverRaven/Cataclysm-DDA/pull/78843))
 * Remove cargoculted predecessor_mapgen on incomplete campsite roof ([#78861](https://github.com/CleverRaven/Cataclysm-DDA/pull/78861))
 * Make parameters fit on debug overmap ([#78896](https://github.com/CleverRaven/Cataclysm-DDA/pull/78896))
 * Fix hub01 ancilla chatting var name typo ([#78848](https://github.com/CleverRaven/Cataclysm-DDA/pull/78848))
@@ -219,6 +221,4 @@
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
 * Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
 * Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
-* [Magiclysm] Stop workshop elves and their workshop from spawning ([#78842](https://github.com/CleverRaven/Cataclysm-DDA/pull/78842))
 * Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
-* Remove Feral Archaelogist ([#78840](https://github.com/CleverRaven/Cataclysm-DDA/pull/78840))
