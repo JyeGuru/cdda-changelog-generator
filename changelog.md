@@ -1,3 +1,4 @@
+* remove dead code ([#79004](https://github.com/CleverRaven/Cataclysm-DDA/pull/79004))
 * Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))
 * Docs: standardize comments in item*.h somewhat ([#78975](https://github.com/CleverRaven/Cataclysm-DDA/pull/78975))
 * updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
@@ -221,4 +222,3 @@
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
 * Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
 * Remove Dragonskin Vest and WS-47G Suit ([#78851](https://github.com/CleverRaven/Cataclysm-DDA/pull/78851))
-* Paracleasian energy_increment Fix ([#78849](https://github.com/CleverRaven/Cataclysm-DDA/pull/78849))
