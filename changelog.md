@@ -1,3 +1,5 @@
+* Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))
+* Docs: standardize comments in item*.h somewhat ([#78975](https://github.com/CleverRaven/Cataclysm-DDA/pull/78975))
 * updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
 
 ---
@@ -198,7 +200,6 @@
 * fix falling while dragging vehicle ([#78928](https://github.com/CleverRaven/Cataclysm-DDA/pull/78928))
 * Remove cargoculted predecessor_mapgen on incomplete campsite roof ([#78861](https://github.com/CleverRaven/Cataclysm-DDA/pull/78861))
 * Make parameters fit on debug overmap ([#78896](https://github.com/CleverRaven/Cataclysm-DDA/pull/78896))
-* Fix hub01 ancilla chatting var name typo ([#78848](https://github.com/CleverRaven/Cataclysm-DDA/pull/78848))
 * Add recast last spell (Repeat last supernatural ability) ([#78919](https://github.com/CleverRaven/Cataclysm-DDA/pull/78919))
 * Pin gcc 9 and 11 workflows to 22.04 ([#78894](https://github.com/CleverRaven/Cataclysm-DDA/pull/78894))
 * [Magiclysm] Augmentation clinic adjustments ([#78889](https://github.com/CleverRaven/Cataclysm-DDA/pull/78889))
@@ -209,7 +210,6 @@
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))
 * Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
-* Suppress debug message when dragging furniture off the ledge ([#78847](https://github.com/CleverRaven/Cataclysm-DDA/pull/78847))
 * Better skill requirement UI for martial arts ([#78852](https://github.com/CleverRaven/Cataclysm-DDA/pull/78852))
 * Correct some canning recipes ([#78854](https://github.com/CleverRaven/Cataclysm-DDA/pull/78854))
 * [Magiclysm] Set feral wizards to copy-from ([#78856](https://github.com/CleverRaven/Cataclysm-DDA/pull/78856))
