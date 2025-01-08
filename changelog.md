@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-08-0539 ([9d108ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-08-0539))
+
 * [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
 * whitelist test failing terrains ([#78933](https://github.com/CleverRaven/Cataclysm-DDA/pull/78933))
 * The Point Of Fighting ([#78979](https://github.com/CleverRaven/Cataclysm-DDA/pull/78979))
@@ -179,11 +184,6 @@
 
 * [DinoMod] shonisaurus ([#78911](https://github.com/CleverRaven/Cataclysm-DDA/pull/78911))
 * Zombie Humanity Audit ([#78902](https://github.com/CleverRaven/Cataclysm-DDA/pull/78902))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-04-2028 ([049ea1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-04-2028))
-
 * [Magiclysm] Krabgeks get their union breaks ([#78917](https://github.com/CleverRaven/Cataclysm-DDA/pull/78917))
 * Properly show variant's prefix/suffix in the crafting menu ([#78904](https://github.com/CleverRaven/Cataclysm-DDA/pull/78904))
 * Update furniture & terrain docs ([#78891](https://github.com/CleverRaven/Cataclysm-DDA/pull/78891))

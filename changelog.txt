@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-08-0539 (9d108ee)
 * [MoM] Add electronoetic batteries (#79010)
 * whitelist test failing terrains (#78933)
 * The Point Of Fighting (#78979)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-01-05-0002 (1d63ab7)
 Cataclysm-DDA experimental build 2025-01-04-2214 (fda59d7)
 * [DinoMod] shonisaurus (#78911)
 * Zombie Humanity Audit (#78902)
-
-Cataclysm-DDA experimental build 2025-01-04-2028 (049ea1a)
 * [Magiclysm] Krabgeks get their union breaks (#78917)
 * Properly show variant's prefix/suffix in the crafting menu (#78904)
 * Update furniture & terrain docs (#78891)
