@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-09-1614 (f0f3705)
+* obsolete units::legacy_volume_factor (#78972)
+
 Cataclysm-DDA experimental build 2025-01-09-1427 (4c96886)
 * [hotfix] fix integer price in xedra evolved (#79028)
 * Fix bad roof replacement (#79026)
@@ -82,8 +85,6 @@ Cataclysm-DDA experimental build 2025-01-05-2158 (30ede24)
 
 Cataclysm-DDA experimental build 2025-01-05-1952 (7a6ab2d)
 * Check validity of plant data on load (#78960)
-
-Cataclysm-DDA experimental build 2025-01-05-1740 (f2be256)
 * Bugfix kickboxing and boxing technique conditions (#78962)
 * [CR] Add audio support for curses mode (#78880)
 * Fix crash when zone-harvesting crops with bad data (#78939)
@@ -135,4 +136,3 @@ Cataclysm-DDA experimental build 2025-01-05-1740 (f2be256)
 * Remove 460 Rowland (#78867)
 * add ctiric acid as alternative to lemons to mascarpone recipe (#78868)
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 (#78870)
-* Prune nanofab_recipes (#78859)
