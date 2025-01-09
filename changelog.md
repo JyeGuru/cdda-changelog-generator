@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-09-0518 ([2fbfe92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0518))
+
+* [MoM] Add Water Walking to Concentration stopping powers ([#79019](https://github.com/CleverRaven/Cataclysm-DDA/pull/79019))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-09-0303 ([b0eb712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0303))
 
 * Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2025-01-05-1004 ([9c33dea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1004))
 
 * fix box full of spent candles ([#78869](https://github.com/CleverRaven/Cataclysm-DDA/pull/78869))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-0816 ([03329fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-0816))
-
 * Improve extension cord connecting prompt ([#78888](https://github.com/CleverRaven/Cataclysm-DDA/pull/78888))
 * Fix floor under flowerpots in house_37 ([#78898](https://github.com/CleverRaven/Cataclysm-DDA/pull/78898))
 * Remove domestic party palette ([#78893](https://github.com/CleverRaven/Cataclysm-DDA/pull/78893))

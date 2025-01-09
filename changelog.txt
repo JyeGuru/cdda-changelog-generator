@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-09-0518 (2fbfe92)
+* [MoM] Add Water Walking to Concentration stopping powers (#79019)
+
 Cataclysm-DDA experimental build 2025-01-09-0303 (b0eb712)
 * Typified stuff (#79007)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-01-05-1353 (caafa67)
 
 Cataclysm-DDA experimental build 2025-01-05-1004 (9c33dea)
 * fix box full of spent candles (#78869)
-
-Cataclysm-DDA experimental build 2025-01-05-0816 (03329fc)
 * Improve extension cord connecting prompt (#78888)
 * Fix floor under flowerpots in house_37 (#78898)
 * Remove domestic party palette (#78893)
