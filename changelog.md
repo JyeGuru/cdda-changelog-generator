@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-09-1427 ([4c96886](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-1427))
+
+* [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
 * Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
 * load all of the user’s chosen font files as fallbacks for ImGui to use ([#78999](https://github.com/CleverRaven/Cataclysm-DDA/pull/78999))
 
@@ -150,11 +156,6 @@
 * fix pulping being too fast ([#78948](https://github.com/CleverRaven/Cataclysm-DDA/pull/78948))
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Combine crit hit and wp hit and tweak damage calculation for ranged attack ([#78877](https://github.com/CleverRaven/Cataclysm-DDA/pull/78877))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-1539 ([c818cf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1539))
-
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
@@ -196,7 +197,6 @@
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))
 * Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
-* [DinoMod] more accurate adulthood numbers ([#78858](https://github.com/CleverRaven/Cataclysm-DDA/pull/78858))
 * Removes sees_player_retro mod ([#78872](https://github.com/CleverRaven/Cataclysm-DDA/pull/78872))
 * Remove 460 Rowland ([#78867](https://github.com/CleverRaven/Cataclysm-DDA/pull/78867))
 * add ctiric acid as alternative to lemons to mascarpone recipe ([#78868](https://github.com/CleverRaven/Cataclysm-DDA/pull/78868))
