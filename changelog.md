@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-09-0303 ([b0eb712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0303))
+
+* Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-08-1657 ([8fe32de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-08-1657))
 
 * Require denomination pricing for price and price_postapoc ([#78905](https://github.com/CleverRaven/Cataclysm-DDA/pull/78905))
@@ -158,11 +164,6 @@
 * Fix floor under flowerpots in house_37 ([#78898](https://github.com/CleverRaven/Cataclysm-DDA/pull/78898))
 * Remove domestic party palette ([#78893](https://github.com/CleverRaven/Cataclysm-DDA/pull/78893))
 * Add a small kindergarten ([#78897](https://github.com/CleverRaven/Cataclysm-DDA/pull/78897))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-0632 ([76d49c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-0632))
-
 * [MOM] Add some Teleporter Powers ([#78903](https://github.com/CleverRaven/Cataclysm-DDA/pull/78903))
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
@@ -196,7 +197,6 @@
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))
 * Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
-* Better skill requirement UI for martial arts ([#78852](https://github.com/CleverRaven/Cataclysm-DDA/pull/78852))
 * Correct some canning recipes ([#78854](https://github.com/CleverRaven/Cataclysm-DDA/pull/78854))
 * [Magiclysm] Set feral wizards to copy-from ([#78856](https://github.com/CleverRaven/Cataclysm-DDA/pull/78856))
 * [DinoMod] more accurate adulthood numbers ([#78858](https://github.com/CleverRaven/Cataclysm-DDA/pull/78858))
