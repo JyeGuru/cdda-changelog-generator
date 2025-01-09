@@ -1,3 +1,11 @@
+* Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
+* load all of the user’s chosen font files as fallbacks for ImGui to use ([#78999](https://github.com/CleverRaven/Cataclysm-DDA/pull/78999))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-09-0702 ([3a434d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0702))
+
+* Update Pot Helmet Flags ([#79018](https://github.com/CleverRaven/Cataclysm-DDA/pull/79018))
 
 ---
 
@@ -155,11 +163,6 @@
 
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-1004 ([9c33dea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1004))
-
 * fix box full of spent candles ([#78869](https://github.com/CleverRaven/Cataclysm-DDA/pull/78869))
 * Improve extension cord connecting prompt ([#78888](https://github.com/CleverRaven/Cataclysm-DDA/pull/78888))
 * Fix floor under flowerpots in house_37 ([#78898](https://github.com/CleverRaven/Cataclysm-DDA/pull/78898))
@@ -198,12 +201,9 @@
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))
 * Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
-* Correct some canning recipes ([#78854](https://github.com/CleverRaven/Cataclysm-DDA/pull/78854))
-* [Magiclysm] Set feral wizards to copy-from ([#78856](https://github.com/CleverRaven/Cataclysm-DDA/pull/78856))
 * [DinoMod] more accurate adulthood numbers ([#78858](https://github.com/CleverRaven/Cataclysm-DDA/pull/78858))
 * Removes sees_player_retro mod ([#78872](https://github.com/CleverRaven/Cataclysm-DDA/pull/78872))
 * Remove 460 Rowland ([#78867](https://github.com/CleverRaven/Cataclysm-DDA/pull/78867))
-* [Magiclysm] Add zombie dwarves to mines ([#78855](https://github.com/CleverRaven/Cataclysm-DDA/pull/78855))
 * add ctiric acid as alternative to lemons to mascarpone recipe ([#78868](https://github.com/CleverRaven/Cataclysm-DDA/pull/78868))
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
 * Prune nanofab_recipes ([#78859](https://github.com/CleverRaven/Cataclysm-DDA/pull/78859))
