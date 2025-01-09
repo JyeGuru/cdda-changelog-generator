@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-09-2011 (5e1277a)
+* [Aftershock] Craftable Outpost Appliances (#79024)
+
 Cataclysm-DDA experimental build 2025-01-09-1614 (f0f3705)
 * obsolete units::legacy_volume_factor (#78972)
 
@@ -82,8 +85,6 @@ Cataclysm-DDA experimental build 2025-01-05-2158 (30ede24)
 * [Magicylsm] Audit Magiclysm Organization (#78931)
 * Adjust Prices of .223 Rifles (#78947)
 * [Magiclysm] Demon spider rework (#78953)
-
-Cataclysm-DDA experimental build 2025-01-05-1952 (7a6ab2d)
 * Check validity of plant data on load (#78960)
 * Bugfix kickboxing and boxing technique conditions (#78962)
 * [CR] Add audio support for curses mode (#78880)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2025-01-05-1952 (7a6ab2d)
 * Eyebot removal from Lore Doc (#78884)
 * [Magiclysm] More Forge price adjustments (#78882)
 * Remove a few nonsense recipes (#78863)
-* Prune a few military related itemgroups (#78860)
 * Update weapon_copy_extensions.json (#78873)
 * Removes sees_player_retro mod (#78872)
 * Remove 460 Rowland (#78867)

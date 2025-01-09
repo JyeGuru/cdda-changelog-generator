@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-09-2011 ([5e1277a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-2011))
+
+* [Aftershock] Craftable Outpost Appliances ([#79024](https://github.com/CleverRaven/Cataclysm-DDA/pull/79024))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-09-1614 ([f0f3705](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-1614))
 
 * obsolete units::legacy_volume_factor ([#78972](https://github.com/CleverRaven/Cataclysm-DDA/pull/78972))
@@ -145,11 +151,6 @@
 * [Magicylsm] Audit Magiclysm Organization ([#78931](https://github.com/CleverRaven/Cataclysm-DDA/pull/78931))
 * Adjust Prices of .223 Rifles ([#78947](https://github.com/CleverRaven/Cataclysm-DDA/pull/78947))
 * [Magiclysm] Demon spider rework ([#78953](https://github.com/CleverRaven/Cataclysm-DDA/pull/78953))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-1952 ([7a6ab2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1952))
-
 * Check validity of plant data on load ([#78960](https://github.com/CleverRaven/Cataclysm-DDA/pull/78960))
 * Bugfix kickboxing and boxing technique conditions ([#78962](https://github.com/CleverRaven/Cataclysm-DDA/pull/78962))
 * [CR] Add audio support for curses mode ([#78880](https://github.com/CleverRaven/Cataclysm-DDA/pull/78880))
@@ -196,7 +197,6 @@
 * Eyebot removal from Lore Doc ([#78884](https://github.com/CleverRaven/Cataclysm-DDA/pull/78884))
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))
 * Remove a few nonsense recipes ([#78863](https://github.com/CleverRaven/Cataclysm-DDA/pull/78863))
-* Prune a few military related itemgroups ([#78860](https://github.com/CleverRaven/Cataclysm-DDA/pull/78860))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
 * Removes sees_player_retro mod ([#78872](https://github.com/CleverRaven/Cataclysm-DDA/pull/78872))
 * Remove 460 Rowland ([#78867](https://github.com/CleverRaven/Cataclysm-DDA/pull/78867))
