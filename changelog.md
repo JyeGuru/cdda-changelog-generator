@@ -156,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2025-01-05-1539 ([c818cf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1539))
 
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-1353 ([caafa67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-1353))
-
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
 * fix box full of spent candles ([#78869](https://github.com/CleverRaven/Cataclysm-DDA/pull/78869))
