@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-09-2208 ([42e255b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-2208))
+
 * [Aftershock] Add the Geist (telekinetic) esper profession and powers ([#79013](https://github.com/CleverRaven/Cataclysm-DDA/pull/79013))
 
 ---
@@ -142,11 +147,6 @@
 
 * put foil wrappers inside of the roll ([#78964](https://github.com/CleverRaven/Cataclysm-DDA/pull/78964))
 * Remove "military" itemgroup ([#78965](https://github.com/CleverRaven/Cataclysm-DDA/pull/78965))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-05-2158 ([30ede24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-05-2158))
-
 * [MoM] Melded Teleporter Force ([#78968](https://github.com/CleverRaven/Cataclysm-DDA/pull/78968))
 * Fix NPC rules window scaling for small terminal sizes ([#78963](https://github.com/CleverRaven/Cataclysm-DDA/pull/78963))
 * [Magicylsm] Audit Magiclysm Organization ([#78931](https://github.com/CleverRaven/Cataclysm-DDA/pull/78931))
