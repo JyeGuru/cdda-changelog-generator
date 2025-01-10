@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-10-0824 ([0df6e42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-0824))
+
 * [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence ([#79042](https://github.com/CleverRaven/Cataclysm-DDA/pull/79042))
 * [MoM] Metabolic Hyperefficiency properly removed by combat ([#79033](https://github.com/CleverRaven/Cataclysm-DDA/pull/79033))
 
@@ -147,11 +152,6 @@
 #### Cataclysm-DDA experimental build 2025-01-06-1647 ([8d40d7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-1647))
 
 * Fire Ax has a spike not a hook ([#78973](https://github.com/CleverRaven/Cataclysm-DDA/pull/78973))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-06-0852 ([bf9445f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-0852))
-
 * obsolete makeshift_solar_farm ([#78969](https://github.com/CleverRaven/Cataclysm-DDA/pull/78969))
 * Routine tileset updates on 01 January 2025 ([#78881](https://github.com/CleverRaven/Cataclysm-DDA/pull/78881))
 * put foil wrappers inside of the roll ([#78964](https://github.com/CleverRaven/Cataclysm-DDA/pull/78964))
