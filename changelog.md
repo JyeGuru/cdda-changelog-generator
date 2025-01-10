@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-10-1838 ([5f3e1f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-1838))
+
 * whitelist roadstop overmap terrain test ([#79034](https://github.com/CleverRaven/Cataclysm-DDA/pull/79034))
 * Reset seed in sections even when no explicit seed given ([#79044](https://github.com/CleverRaven/Cataclysm-DDA/pull/79044))
 * [MoM] Remove Melded Teleporter Force MIND_SEEING ([#79039](https://github.com/CleverRaven/Cataclysm-DDA/pull/79039))

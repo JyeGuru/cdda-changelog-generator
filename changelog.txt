@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-10-1838 (5f3e1f5)
 * whitelist roadstop overmap terrain test (#79034)
 * Reset seed in sections even when no explicit seed given (#79044)
 * [MoM] Remove Melded Teleporter Force MIND_SEEING (#79039)
