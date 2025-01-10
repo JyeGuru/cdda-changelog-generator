@@ -1,3 +1,6 @@
+* [Aftershock] Price Related Bug-smashing ([#79036](https://github.com/CleverRaven/Cataclysm-DDA/pull/79036))
+* Allow commercial fertilizer to be used by zone manager ([#79051](https://github.com/CleverRaven/Cataclysm-DDA/pull/79051))
+* [MOM] Fix Loci Establishment Formula ([#79048](https://github.com/CleverRaven/Cataclysm-DDA/pull/79048))
 
 ---
 
@@ -169,7 +172,6 @@
 * Fix crash when zone-harvesting crops with bad data ([#78939](https://github.com/CleverRaven/Cataclysm-DDA/pull/78939))
 * fix pulping being too fast ([#78948](https://github.com/CleverRaven/Cataclysm-DDA/pull/78948))
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
-* Combine crit hit and wp hit and tweak damage calculation for ranged attack ([#78877](https://github.com/CleverRaven/Cataclysm-DDA/pull/78877))
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
@@ -206,5 +208,3 @@
 *  Scale spell window to spell list and terminal size ([#78883](https://github.com/CleverRaven/Cataclysm-DDA/pull/78883))
 * Eyebot removal from Lore Doc ([#78884](https://github.com/CleverRaven/Cataclysm-DDA/pull/78884))
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))
-* Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
-* Removes sees_player_retro mod ([#78872](https://github.com/CleverRaven/Cataclysm-DDA/pull/78872))
