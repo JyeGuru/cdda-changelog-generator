@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-10-1648 ([60c265e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-1648))
+
+* Refactor `ammo_effect_BOUNCE` ([#79035](https://github.com/CleverRaven/Cataclysm-DDA/pull/79035))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-10-1114 ([47cfe9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-1114))
 
 * [MoM] Fix infinite speed ([#79038](https://github.com/CleverRaven/Cataclysm-DDA/pull/79038))
@@ -145,11 +151,6 @@
 * [Xedra Evolved] Badgers are not worms, fix faction problems ([#78987](https://github.com/CleverRaven/Cataclysm-DDA/pull/78987))
 * Aftershock: Gameified EMP mechanics ([#78974](https://github.com/CleverRaven/Cataclysm-DDA/pull/78974))
 * [MoM] Genericize Enervating Touch ([#78971](https://github.com/CleverRaven/Cataclysm-DDA/pull/78971))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-06-1845 ([9d60e47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-1845))
-
 * Remove mission search radius from most missions ([#78949](https://github.com/CleverRaven/Cataclysm-DDA/pull/78949))
 * Give Chimera Natural Stance ([#78982](https://github.com/CleverRaven/Cataclysm-DDA/pull/78982))
 * Fire Ax has a spike not a hook ([#78973](https://github.com/CleverRaven/Cataclysm-DDA/pull/78973))
