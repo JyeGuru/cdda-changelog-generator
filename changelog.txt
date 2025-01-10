@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-10-1114 (47cfe9a)
+* [MoM] Fix infinite speed (#79038)
+
 Cataclysm-DDA experimental build 2025-01-10-0824 (0df6e42)
 * [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence (#79042)
 * [MoM] Metabolic Hyperefficiency properly removed by combat (#79033)
@@ -80,8 +83,6 @@ Cataclysm-DDA experimental build 2025-01-06-2242 (248b22d)
 Cataclysm-DDA experimental build 2025-01-06-1845 (9d60e47)
 * Remove mission search radius from most missions (#78949)
 * Give Chimera Natural Stance (#78982)
-
-Cataclysm-DDA experimental build 2025-01-06-1647 (8d40d7f)
 * Fire Ax has a spike not a hook (#78973)
 * obsolete makeshift_solar_farm (#78969)
 * Routine tileset updates on 01 January 2025 (#78881)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2025-01-06-1647 (8d40d7f)
 * [Magiclysm] More Forge price adjustments (#78882)
 * Update weapon_copy_extensions.json (#78873)
 * Removes sees_player_retro mod (#78872)
-* fix issue where SDL was always initialized without audio support, even when building with SOUND=1 (#78870)

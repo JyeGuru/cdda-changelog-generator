@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-10-1114 ([47cfe9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-1114))
+
+* [MoM] Fix infinite speed ([#79038](https://github.com/CleverRaven/Cataclysm-DDA/pull/79038))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-10-0824 ([0df6e42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-0824))
 
 * [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence ([#79042](https://github.com/CleverRaven/Cataclysm-DDA/pull/79042))
@@ -146,11 +152,6 @@
 
 * Remove mission search radius from most missions ([#78949](https://github.com/CleverRaven/Cataclysm-DDA/pull/78949))
 * Give Chimera Natural Stance ([#78982](https://github.com/CleverRaven/Cataclysm-DDA/pull/78982))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-06-1647 ([8d40d7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-1647))
-
 * Fire Ax has a spike not a hook ([#78973](https://github.com/CleverRaven/Cataclysm-DDA/pull/78973))
 * obsolete makeshift_solar_farm ([#78969](https://github.com/CleverRaven/Cataclysm-DDA/pull/78969))
 * Routine tileset updates on 01 January 2025 ([#78881](https://github.com/CleverRaven/Cataclysm-DDA/pull/78881))
@@ -206,4 +207,3 @@
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
 * Removes sees_player_retro mod ([#78872](https://github.com/CleverRaven/Cataclysm-DDA/pull/78872))
-* fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
