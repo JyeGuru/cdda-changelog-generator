@@ -1,3 +1,11 @@
+* [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence ([#79042](https://github.com/CleverRaven/Cataclysm-DDA/pull/79042))
+* [MoM] Metabolic Hyperefficiency properly removed by combat ([#79033](https://github.com/CleverRaven/Cataclysm-DDA/pull/79033))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-10-0630 ([26428a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-0630))
+
+* [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects ([#79046](https://github.com/CleverRaven/Cataclysm-DDA/pull/79046))
 
 ---
 
@@ -146,11 +154,6 @@
 
 * obsolete makeshift_solar_farm ([#78969](https://github.com/CleverRaven/Cataclysm-DDA/pull/78969))
 * Routine tileset updates on 01 January 2025 ([#78881](https://github.com/CleverRaven/Cataclysm-DDA/pull/78881))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-06-0650 ([ebf3401](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-06-0650))
-
 * put foil wrappers inside of the roll ([#78964](https://github.com/CleverRaven/Cataclysm-DDA/pull/78964))
 * Remove "military" itemgroup ([#78965](https://github.com/CleverRaven/Cataclysm-DDA/pull/78965))
 * [MoM] Melded Teleporter Force ([#78968](https://github.com/CleverRaven/Cataclysm-DDA/pull/78968))
@@ -168,7 +171,6 @@
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
 * Make auto-whitelist logic also auto-collapse the container ([#78886](https://github.com/CleverRaven/Cataclysm-DDA/pull/78886))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-* fix box full of spent candles ([#78869](https://github.com/CleverRaven/Cataclysm-DDA/pull/78869))
 * Improve extension cord connecting prompt ([#78888](https://github.com/CleverRaven/Cataclysm-DDA/pull/78888))
 * Fix floor under flowerpots in house_37 ([#78898](https://github.com/CleverRaven/Cataclysm-DDA/pull/78898))
 * Remove domestic party palette ([#78893](https://github.com/CleverRaven/Cataclysm-DDA/pull/78893))
@@ -204,6 +206,4 @@
 * [Magiclysm] More Forge price adjustments ([#78882](https://github.com/CleverRaven/Cataclysm-DDA/pull/78882))
 * Update weapon_copy_extensions.json ([#78873](https://github.com/CleverRaven/Cataclysm-DDA/pull/78873))
 * Removes sees_player_retro mod ([#78872](https://github.com/CleverRaven/Cataclysm-DDA/pull/78872))
-* Remove 460 Rowland ([#78867](https://github.com/CleverRaven/Cataclysm-DDA/pull/78867))
-* add ctiric acid as alternative to lemons to mascarpone recipe ([#78868](https://github.com/CleverRaven/Cataclysm-DDA/pull/78868))
 * fix issue where SDL was always initialized without audio support, even when building with SOUND=1 ([#78870](https://github.com/CleverRaven/Cataclysm-DDA/pull/78870))
