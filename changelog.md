@@ -1,3 +1,13 @@
+* fixes various text input issues on ncurses ([#79049](https://github.com/CleverRaven/Cataclysm-DDA/pull/79049))
+* [MoM] Autolearn matrix elixir recipes ([#79055](https://github.com/CleverRaven/Cataclysm-DDA/pull/79055))
+* Don't place null monsters or on null positions ([#79053](https://github.com/CleverRaven/Cataclysm-DDA/pull/79053))
+* [MoM] Remove unused EoC ([#79067](https://github.com/CleverRaven/Cataclysm-DDA/pull/79067))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-11-1112 ([a4a7f1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-1112))
+
+* [MoM] Remove Wave of Force EoC, change to direct ([#79068](https://github.com/CleverRaven/Cataclysm-DDA/pull/79068))
 
 ---
 
@@ -158,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2025-01-07-1520 ([d988263](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-1520))
 
 * [Magiclysm] Use EoCs to allow Magiclysm fantasy species to gain mutation paths/purify themselves ([#79000](https://github.com/CleverRaven/Cataclysm-DDA/pull/79000))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-07-1203 ([4198790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-1203))
-
 * Update COMPILER_SUPPORT.md ([#78943](https://github.com/CleverRaven/Cataclysm-DDA/pull/78943))
 * [MoM] Add Water-Walking Telekinetic power ([#78988](https://github.com/CleverRaven/Cataclysm-DDA/pull/78988))
 * sundry typification ([#78985](https://github.com/CleverRaven/Cataclysm-DDA/pull/78985))
@@ -189,9 +194,6 @@
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-* Fix floor under flowerpots in house_37 ([#78898](https://github.com/CleverRaven/Cataclysm-DDA/pull/78898))
-* Remove domestic party palette ([#78893](https://github.com/CleverRaven/Cataclysm-DDA/pull/78893))
-* Add a small kindergarten ([#78897](https://github.com/CleverRaven/Cataclysm-DDA/pull/78897))
 * [MOM] Add some Teleporter Powers ([#78903](https://github.com/CleverRaven/Cataclysm-DDA/pull/78903))
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
@@ -212,6 +214,4 @@
 * make ammo_effect_WIDE actually work ([#78935](https://github.com/CleverRaven/Cataclysm-DDA/pull/78935))
 * Make pillowcase volume in line with pillow volume ([#78927](https://github.com/CleverRaven/Cataclysm-DDA/pull/78927))
 * fix falling while dragging vehicle ([#78928](https://github.com/CleverRaven/Cataclysm-DDA/pull/78928))
-* Make parameters fit on debug overmap ([#78896](https://github.com/CleverRaven/Cataclysm-DDA/pull/78896))
 * Add recast last spell (Repeat last supernatural ability) ([#78919](https://github.com/CleverRaven/Cataclysm-DDA/pull/78919))
-* Pin gcc 9 and 11 workflows to 22.04 ([#78894](https://github.com/CleverRaven/Cataclysm-DDA/pull/78894))
