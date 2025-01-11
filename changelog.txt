@@ -1,3 +1,4 @@
+* update outcrop PR (#79088)
 
 Cataclysm-DDA experimental build 2025-01-11-2118 (dbf4dca)
 * [Xedra Evolved ] Obsidian Looks likes (#79074)
@@ -72,9 +73,6 @@ Cataclysm-DDA experimental build 2025-01-09-0518 (2fbfe92)
 
 Cataclysm-DDA experimental build 2025-01-09-0303 (b0eb712)
 * Typified stuff (#79007)
-
-Cataclysm-DDA experimental build 2025-01-08-1657 (8fe32de)
-* Require denomination pricing for price and price_postapoc (#78905)
 * remove dead code (#79004)
 * Revert "Give Chimera Natural Stance" (#78996)
 * Docs: standardize comments in item*.h somewhat (#78975)

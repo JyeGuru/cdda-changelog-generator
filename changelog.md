@@ -1,3 +1,4 @@
+* update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
 
 ---
 
@@ -132,12 +133,6 @@
 #### Cataclysm-DDA experimental build 2025-01-09-0303 ([b0eb712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0303))
 
 * Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-08-1657 ([8fe32de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-08-1657))
-
-* Require denomination pricing for price and price_postapoc ([#78905](https://github.com/CleverRaven/Cataclysm-DDA/pull/78905))
 * remove dead code ([#79004](https://github.com/CleverRaven/Cataclysm-DDA/pull/79004))
 * Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))
 * Docs: standardize comments in item*.h somewhat ([#78975](https://github.com/CleverRaven/Cataclysm-DDA/pull/78975))
