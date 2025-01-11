@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-11-0846 ([70c21d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0846))
+
 * obsolete old generators ([#78970](https://github.com/CleverRaven/Cataclysm-DDA/pull/78970))
 
 ---

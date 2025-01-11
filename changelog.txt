@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-11-0846 (70c21d3)
 * obsolete old generators (#78970)
 
 Cataclysm-DDA experimental build 2025-01-11-0706 (fb138e8)
