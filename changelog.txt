@@ -1,3 +1,4 @@
+* [Magiclysm] Add vision levels (#79059)
 
 Cataclysm-DDA experimental build 2025-01-11-0309 (bad461d)
 * [Aftershock] Replace combination lock safes with electronically locked safes. (#79062)
@@ -109,7 +110,6 @@ Cataclysm-DDA experimental build 2025-01-07-0046 (a483553)
 * Remove Night-Pryanik from reviewers.yml (#78958)
 * Make Jabberwock hunting make sense (#78955)
 * Update some battery related recipes (#78929)
-* Improve extension cord connecting prompt (#78888)
 * Fix floor under flowerpots in house_37 (#78898)
 * Remove domestic party palette (#78893)
 * Add a small kindergarten (#78897)

@@ -1,3 +1,4 @@
+* [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
 
 ---
 
@@ -181,7 +182,6 @@
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-* Improve extension cord connecting prompt ([#78888](https://github.com/CleverRaven/Cataclysm-DDA/pull/78888))
 * Fix floor under flowerpots in house_37 ([#78898](https://github.com/CleverRaven/Cataclysm-DDA/pull/78898))
 * Remove domestic party palette ([#78893](https://github.com/CleverRaven/Cataclysm-DDA/pull/78893))
 * Add a small kindergarten ([#78897](https://github.com/CleverRaven/Cataclysm-DDA/pull/78897))
