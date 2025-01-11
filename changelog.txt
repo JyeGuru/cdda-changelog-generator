@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-01-11-1749 (14a4ece)
+* [Aftershock] Small mapgen fixes. (#79060)
 * Man Of The Nineteenth Hour becomes hostile if significantly harmed. (#79041)
 * Remove raw string item constructor (#79056)
 * fixes various text input issues on ncurses (#79049)
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2025-01-07-2348 (53638c9)
 
 Cataclysm-DDA experimental build 2025-01-07-1925 (8a63331)
 * Gas field effects stuff (#79006)
-
-Cataclysm-DDA experimental build 2025-01-07-1719 (3be8cc8)
 * Draw effect overlay over monsters (#78961)
 * [XE] Change book required for vampire best friend quest (#78998)
 * [Xedra Evolved] fix goblin_fruit_gacha (#79003)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2025-01-07-1719 (3be8cc8)
 * Remove Night-Pryanik from reviewers.yml (#78958)
 * Make Jabberwock hunting make sense (#78955)
 * Update some battery related recipes (#78929)
-* [MOM] Add some Teleporter Powers (#78903)
 * [Magiclysm] Add a couple more CBMs (#78951)
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC (#78954)
 * Exodii: Caotel Sr2.2 DEW (#78932)

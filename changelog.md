@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-11-1749 ([14a4ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-1749))
+
+* [Aftershock] Small mapgen fixes. ([#79060](https://github.com/CleverRaven/Cataclysm-DDA/pull/79060))
 * Man Of The Nineteenth Hour becomes hostile if significantly harmed. ([#79041](https://github.com/CleverRaven/Cataclysm-DDA/pull/79041))
 * Remove raw string item constructor ([#79056](https://github.com/CleverRaven/Cataclysm-DDA/pull/79056))
 * fixes various text input issues on ncurses ([#79049](https://github.com/CleverRaven/Cataclysm-DDA/pull/79049))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2025-01-07-1925 ([8a63331](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-1925))
 
 * Gas field effects stuff ([#79006](https://github.com/CleverRaven/Cataclysm-DDA/pull/79006))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-07-1719 ([3be8cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-1719))
-
 * Draw effect overlay over monsters ([#78961](https://github.com/CleverRaven/Cataclysm-DDA/pull/78961))
 * [XE] Change book required for vampire best friend quest ([#78998](https://github.com/CleverRaven/Cataclysm-DDA/pull/78998))
 * [Xedra Evolved] fix goblin_fruit_gacha ([#79003](https://github.com/CleverRaven/Cataclysm-DDA/pull/79003))
@@ -191,7 +192,6 @@
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
 * Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
-* [MOM] Add some Teleporter Powers ([#78903](https://github.com/CleverRaven/Cataclysm-DDA/pull/78903))
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
 * Exodii: Caotel Sr2.2 DEW ([#78932](https://github.com/CleverRaven/Cataclysm-DDA/pull/78932))
