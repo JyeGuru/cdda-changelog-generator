@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-11-0501 (064b395)
 * [Magiclysm] Add vision levels (#79059)
 
 Cataclysm-DDA experimental build 2025-01-11-0309 (bad461d)
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2025-01-07-1203 (4198790)
 Cataclysm-DDA experimental build 2025-01-07-0426 (befd448)
 * sundry typification (#78985)
 * Single quoted empty string in stale handler. (#78995)
-
-Cataclysm-DDA experimental build 2025-01-07-0046 (a483553)
 * [Aftershock] Fix Frontier Cyromask uses wrong battery (#78990)
 * [Xedra Evolved] Badgers are not worms, fix faction problems (#78987)
 * Aftershock: Gameified EMP mechanics (#78974)
