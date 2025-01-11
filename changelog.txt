@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-11-2118 (dbf4dca)
+* [Xedra Evolved ] Obsidian Looks likes (#79074)
+
 Cataclysm-DDA experimental build 2025-01-11-1749 (14a4ece)
 * [Aftershock] Small mapgen fixes. (#79060)
 * Man Of The Nineteenth Hour becomes hostile if significantly harmed. (#79041)
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2025-01-08-0349 (bf978d6)
 
 Cataclysm-DDA experimental build 2025-01-07-2348 (53638c9)
 * [MoM] Proficiency reshuffling, some crafts require that you are a psion (#78992)
-
-Cataclysm-DDA experimental build 2025-01-07-1925 (8a63331)
 * Gas field effects stuff (#79006)
 * Draw effect overlay over monsters (#78961)
 * [XE] Change book required for vampire best friend quest (#78998)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2025-01-07-1925 (8a63331)
 * Update the table of contents in doc/JSON_INFO.md (#78936)
 * [DinoMod] shonisaurus (#78911)
 * [Magiclysm] Krabgeks get their union breaks (#78917)
-* Properly show variant's prefix/suffix in the crafting menu (#78904)
 * Add more generator types (#78910)
 * [MoM] Ephemeral riftwalkers can use Breach (#78914)
 * Fix Ancilla template seller speech training exploit (#78924)

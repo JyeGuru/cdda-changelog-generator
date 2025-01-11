@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-11-2118 ([dbf4dca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-2118))
+
+* [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-11-1749 ([14a4ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-1749))
 
 * [Aftershock] Small mapgen fixes. ([#79060](https://github.com/CleverRaven/Cataclysm-DDA/pull/79060))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2025-01-07-2348 ([53638c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-2348))
 
 * [MoM] Proficiency reshuffling, some crafts require that you are a psion ([#78992](https://github.com/CleverRaven/Cataclysm-DDA/pull/78992))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-07-1925 ([8a63331](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-1925))
-
 * Gas field effects stuff ([#79006](https://github.com/CleverRaven/Cataclysm-DDA/pull/79006))
 * Draw effect overlay over monsters ([#78961](https://github.com/CleverRaven/Cataclysm-DDA/pull/78961))
 * [XE] Change book required for vampire best friend quest ([#78998](https://github.com/CleverRaven/Cataclysm-DDA/pull/78998))
@@ -201,7 +202,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#78936](https://github.com/CleverRaven/Cataclysm-DDA/pull/78936))
 * [DinoMod] shonisaurus ([#78911](https://github.com/CleverRaven/Cataclysm-DDA/pull/78911))
 * [Magiclysm] Krabgeks get their union breaks ([#78917](https://github.com/CleverRaven/Cataclysm-DDA/pull/78917))
-* Properly show variant's prefix/suffix in the crafting menu ([#78904](https://github.com/CleverRaven/Cataclysm-DDA/pull/78904))
 * Add more generator types ([#78910](https://github.com/CleverRaven/Cataclysm-DDA/pull/78910))
 * [MoM] Ephemeral riftwalkers can use Breach ([#78914](https://github.com/CleverRaven/Cataclysm-DDA/pull/78914))
 * Fix Ancilla template seller speech training exploit ([#78924](https://github.com/CleverRaven/Cataclysm-DDA/pull/78924))
