@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-11-0706 (fb138e8)
+* [innawood] Crafted batteries are fully charged (#79061)
+
 Cataclysm-DDA experimental build 2025-01-11-0501 (064b395)
 * [Magiclysm] Add vision levels (#79059)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2025-01-07-1520 (d988263)
 Cataclysm-DDA experimental build 2025-01-07-1203 (4198790)
 * Update COMPILER_SUPPORT.md (#78943)
 * [MoM] Add Water-Walking Telekinetic power (#78988)
-
-Cataclysm-DDA experimental build 2025-01-07-0426 (befd448)
 * sundry typification (#78985)
 * Single quoted empty string in stale handler. (#78995)
 * [Aftershock] Fix Frontier Cyromask uses wrong battery (#78990)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2025-01-07-0426 (befd448)
 * Make parameters fit on debug overmap (#78896)
 * Add recast last spell (Repeat last supernatural ability) (#78919)
 * Pin gcc 9 and 11 workflows to 22.04 (#78894)
-* [Magiclysm] Augmentation clinic adjustments (#78889)
