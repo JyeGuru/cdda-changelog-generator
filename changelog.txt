@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-11-0309 (bad461d)
+* [Aftershock] Replace combination lock safes with electronically locked safes. (#79062)
+
 Cataclysm-DDA experimental build 2025-01-10-1838 (5f3e1f5)
 * whitelist roadstop overmap terrain test (#79034)
 * Reset seed in sections even when no explicit seed given (#79044)
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2025-01-07-0426 (befd448)
 
 Cataclysm-DDA experimental build 2025-01-07-0046 (a483553)
 * [Aftershock] Fix Frontier Cyromask uses wrong battery (#78990)
-
-Cataclysm-DDA experimental build 2025-01-06-2242 (248b22d)
 * [Xedra Evolved] Badgers are not worms, fix faction problems (#78987)
 * Aftershock: Gameified EMP mechanics (#78974)
 * [MoM] Genericize Enervating Touch (#78971)
@@ -107,7 +108,6 @@ Cataclysm-DDA experimental build 2025-01-06-2242 (248b22d)
 * fix pulping being too fast (#78948)
 * Remove Night-Pryanik from reviewers.yml (#78958)
 * Make Jabberwock hunting make sense (#78955)
-* Make auto-whitelist logic also auto-collapse the container (#78886)
 * Update some battery related recipes (#78929)
 * Improve extension cord connecting prompt (#78888)
 * Fix floor under flowerpots in house_37 (#78898)
