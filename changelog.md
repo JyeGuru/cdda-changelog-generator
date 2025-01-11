@@ -1,3 +1,4 @@
+* obsolete old generators ([#78970](https://github.com/CleverRaven/Cataclysm-DDA/pull/78970))
 
 ---
 
@@ -198,7 +199,6 @@
 * Zombie Humanity Audit ([#78902](https://github.com/CleverRaven/Cataclysm-DDA/pull/78902))
 * [Magiclysm] Krabgeks get their union breaks ([#78917](https://github.com/CleverRaven/Cataclysm-DDA/pull/78917))
 * Properly show variant's prefix/suffix in the crafting menu ([#78904](https://github.com/CleverRaven/Cataclysm-DDA/pull/78904))
-* Update furniture & terrain docs ([#78891](https://github.com/CleverRaven/Cataclysm-DDA/pull/78891))
 * [Magiclysm] Forge values denarii but no one else does ([#78901](https://github.com/CleverRaven/Cataclysm-DDA/pull/78901))
 * Add more generator types ([#78910](https://github.com/CleverRaven/Cataclysm-DDA/pull/78910))
 * [MoM] Ephemeral riftwalkers can use Breach ([#78914](https://github.com/CleverRaven/Cataclysm-DDA/pull/78914))

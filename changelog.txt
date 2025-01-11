@@ -1,3 +1,4 @@
+* obsolete old generators (#78970)
 
 Cataclysm-DDA experimental build 2025-01-11-0706 (fb138e8)
 * [innawood] Crafted batteries are fully charged (#79061)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2025-01-07-1203 (4198790)
 * Zombie Humanity Audit (#78902)
 * [Magiclysm] Krabgeks get their union breaks (#78917)
 * Properly show variant's prefix/suffix in the crafting menu (#78904)
-* Update furniture & terrain docs (#78891)
 * [Magiclysm] Forge values denarii but no one else does (#78901)
 * Add more generator types (#78910)
 * [MoM] Ephemeral riftwalkers can use Breach (#78914)
