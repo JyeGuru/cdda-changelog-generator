@@ -164,11 +164,6 @@
 * Draw effect overlay over monsters ([#78961](https://github.com/CleverRaven/Cataclysm-DDA/pull/78961))
 * [XE] Change book required for vampire best friend quest ([#78998](https://github.com/CleverRaven/Cataclysm-DDA/pull/78998))
 * [Xedra Evolved] fix goblin_fruit_gacha ([#79003](https://github.com/CleverRaven/Cataclysm-DDA/pull/79003))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-07-1520 ([d988263](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-07-1520))
-
 * [Magiclysm] Use EoCs to allow Magiclysm fantasy species to gain mutation paths/purify themselves ([#79000](https://github.com/CleverRaven/Cataclysm-DDA/pull/79000))
 * Update COMPILER_SUPPORT.md ([#78943](https://github.com/CleverRaven/Cataclysm-DDA/pull/78943))
 * [MoM] Add Water-Walking Telekinetic power ([#78988](https://github.com/CleverRaven/Cataclysm-DDA/pull/78988))
