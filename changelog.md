@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-12-2212 ([33bd0e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-2212))
+
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * Fix mutation spells learned don't lose when mutation lost ([#79093](https://github.com/CleverRaven/Cataclysm-DDA/pull/79093))
 * [ Magiclysm ] Fantastic species that were part of society count as Human ([#79083](https://github.com/CleverRaven/Cataclysm-DDA/pull/79083))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-01-09-0518 ([2fbfe92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0518))
 
 * [MoM] Add Water Walking to Concentration stopping powers ([#79019](https://github.com/CleverRaven/Cataclysm-DDA/pull/79019))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-09-0303 ([b0eb712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0303))
-
 * Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
 * remove dead code ([#79004](https://github.com/CleverRaven/Cataclysm-DDA/pull/79004))
 * Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))

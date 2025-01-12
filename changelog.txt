@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-12-2212 (33bd0e9)
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) (#79098)
 * Fix mutation spells learned don't lose when mutation lost (#79093)
 * [ Magiclysm ] Fantastic species that were part of society count as Human (#79083)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-01-09-0702 (3a434d1)
 
 Cataclysm-DDA experimental build 2025-01-09-0518 (2fbfe92)
 * [MoM] Add Water Walking to Concentration stopping powers (#79019)
-
-Cataclysm-DDA experimental build 2025-01-09-0303 (b0eb712)
 * Typified stuff (#79007)
 * remove dead code (#79004)
 * Revert "Give Chimera Natural Stance" (#78996)
