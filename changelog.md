@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-12-0336 ([866966f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-0336))
+
+* Fix infinite bounce ([#79072](https://github.com/CleverRaven/Cataclysm-DDA/pull/79072))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-11-2357 ([2461cef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-2357))
 
 * Routine i18n updates on 11 January 2025 ([#79071](https://github.com/CleverRaven/Cataclysm-DDA/pull/79071))
@@ -151,11 +157,6 @@
 * [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
 * whitelist test failing terrains ([#78933](https://github.com/CleverRaven/Cataclysm-DDA/pull/78933))
 * The Point Of Fighting ([#78979](https://github.com/CleverRaven/Cataclysm-DDA/pull/78979))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-08-0349 ([bf978d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-08-0349))
-
 * Fix vehicle_split_section test by only destroying the vehicle and not the terrain ([#78994](https://github.com/CleverRaven/Cataclysm-DDA/pull/78994))
 * [MoM] Proficiency reshuffling, some crafts require that you are a psion ([#78992](https://github.com/CleverRaven/Cataclysm-DDA/pull/78992))
 * Gas field effects stuff ([#79006](https://github.com/CleverRaven/Cataclysm-DDA/pull/79006))
