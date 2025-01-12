@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add categories to Arvore traits (#79095)
 
 Cataclysm-DDA experimental build 2025-01-12-1321 (bdc7dca)
 * Magic Infrastructure: Add magic_type to deduplicate shared spell fields and reduce hardcoding (#79016)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2025-01-09-0303 (b0eb712)
 * make ammo_effect_WIDE actually work (#78935)
 * Make pillowcase volume in line with pillow volume (#78927)
 * fix falling while dragging vehicle (#78928)
-* Add recast last spell (Repeat last supernatural ability) (#78919)
