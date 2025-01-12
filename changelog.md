@@ -215,5 +215,4 @@
 * Update the table of contents in doc/JSON_INFO.md ([#78936](https://github.com/CleverRaven/Cataclysm-DDA/pull/78936))
 * Routine i18n updates on 04 January 2025 ([#78934](https://github.com/CleverRaven/Cataclysm-DDA/pull/78934))
 * make ammo_effect_WIDE actually work ([#78935](https://github.com/CleverRaven/Cataclysm-DDA/pull/78935))
-* Make pillowcase volume in line with pillow volume ([#78927](https://github.com/CleverRaven/Cataclysm-DDA/pull/78927))
 * fix falling while dragging vehicle ([#78928](https://github.com/CleverRaven/Cataclysm-DDA/pull/78928))
