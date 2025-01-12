@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-12-1321 ([bdc7dca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-1321))
+
+* Magic Infrastructure: Add magic_type to deduplicate shared spell fields and reduce hardcoding ([#79016](https://github.com/CleverRaven/Cataclysm-DDA/pull/79016))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
 
 ---

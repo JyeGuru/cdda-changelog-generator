@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-01-12-1321 (bdc7dca)
+* Magic Infrastructure: Add magic_type to deduplicate shared spell fields and reduce hardcoding (#79016)
 * Extract snippet names (#79101)
 
 Cataclysm-DDA experimental build 2025-01-12-0738 (9a3e97c)
