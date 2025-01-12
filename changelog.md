@@ -205,7 +205,6 @@
 * [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn ([#78930](https://github.com/CleverRaven/Cataclysm-DDA/pull/78930))
 * Update the table of contents in doc/JSON_INFO.md ([#78936](https://github.com/CleverRaven/Cataclysm-DDA/pull/78936))
 * [Magiclysm] Krabgeks get their union breaks ([#78917](https://github.com/CleverRaven/Cataclysm-DDA/pull/78917))
-* [MoM] Ephemeral riftwalkers can use Breach ([#78914](https://github.com/CleverRaven/Cataclysm-DDA/pull/78914))
 * Fix Ancilla template seller speech training exploit ([#78924](https://github.com/CleverRaven/Cataclysm-DDA/pull/78924))
 * Routine i18n updates on 04 January 2025 ([#78934](https://github.com/CleverRaven/Cataclysm-DDA/pull/78934))
 * make ammo_effect_WIDE actually work ([#78935](https://github.com/CleverRaven/Cataclysm-DDA/pull/78935))
