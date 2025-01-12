@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-12-0738 (9a3e97c)
 * typified map.h etc. (#79032)
 
 Cataclysm-DDA experimental build 2025-01-12-0546 (a759eda)

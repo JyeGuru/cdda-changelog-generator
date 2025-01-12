@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-12-0738 ([9a3e97c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-0738))
+
 * typified map.h etc. ([#79032](https://github.com/CleverRaven/Cataclysm-DDA/pull/79032))
 
 ---
