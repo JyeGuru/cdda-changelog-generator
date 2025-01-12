@@ -1,3 +1,4 @@
+* typified map.h etc. (#79032)
 
 Cataclysm-DDA experimental build 2025-01-12-0546 (a759eda)
 * Render WORN overlays for ablative pockets (#79069)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2025-01-09-0303 (b0eb712)
 * Cache item info, reducing time of crafting filter `d:` to ~32% (#78945)
 * [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn (#78930)
 * Update the table of contents in doc/JSON_INFO.md (#78936)
-* [DinoMod] shonisaurus (#78911)
 * [Magiclysm] Krabgeks get their union breaks (#78917)
 * [MoM] Ephemeral riftwalkers can use Breach (#78914)
 * Fix Ancilla template seller speech training exploit (#78924)
