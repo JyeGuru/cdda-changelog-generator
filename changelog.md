@@ -1,3 +1,4 @@
+* Render WORN overlays for ablative pockets ([#79069](https://github.com/CleverRaven/Cataclysm-DDA/pull/79069))
 
 ---
 
@@ -199,7 +200,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#78936](https://github.com/CleverRaven/Cataclysm-DDA/pull/78936))
 * [DinoMod] shonisaurus ([#78911](https://github.com/CleverRaven/Cataclysm-DDA/pull/78911))
 * [Magiclysm] Krabgeks get their union breaks ([#78917](https://github.com/CleverRaven/Cataclysm-DDA/pull/78917))
-* Add more generator types ([#78910](https://github.com/CleverRaven/Cataclysm-DDA/pull/78910))
 * [MoM] Ephemeral riftwalkers can use Breach ([#78914](https://github.com/CleverRaven/Cataclysm-DDA/pull/78914))
 * Fix Ancilla template seller speech training exploit ([#78924](https://github.com/CleverRaven/Cataclysm-DDA/pull/78924))
 * Routine i18n updates on 04 January 2025 ([#78934](https://github.com/CleverRaven/Cataclysm-DDA/pull/78934))
