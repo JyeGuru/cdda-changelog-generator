@@ -1,3 +1,4 @@
+* Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
 
 ---
 
@@ -204,7 +205,6 @@
 * Cache item info, reducing time of crafting filter `d:` to ~32% ([#78945](https://github.com/CleverRaven/Cataclysm-DDA/pull/78945))
 * [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn ([#78930](https://github.com/CleverRaven/Cataclysm-DDA/pull/78930))
 * Update the table of contents in doc/JSON_INFO.md ([#78936](https://github.com/CleverRaven/Cataclysm-DDA/pull/78936))
-* [Magiclysm] Krabgeks get their union breaks ([#78917](https://github.com/CleverRaven/Cataclysm-DDA/pull/78917))
 * Fix Ancilla template seller speech training exploit ([#78924](https://github.com/CleverRaven/Cataclysm-DDA/pull/78924))
 * Routine i18n updates on 04 January 2025 ([#78934](https://github.com/CleverRaven/Cataclysm-DDA/pull/78934))
 * make ammo_effect_WIDE actually work ([#78935](https://github.com/CleverRaven/Cataclysm-DDA/pull/78935))
