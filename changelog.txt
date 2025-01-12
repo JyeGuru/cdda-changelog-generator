@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-12-0546 (a759eda)
 * Render WORN overlays for ablative pockets (#79069)
 
 Cataclysm-DDA experimental build 2025-01-12-0336 (866966f)
@@ -84,8 +86,6 @@ Cataclysm-DDA experimental build 2025-01-09-0303 (b0eb712)
 * Revert "Give Chimera Natural Stance" (#78996)
 * Docs: standardize comments in item*.h somewhat (#78975)
 * updates (#79020)
-
-Cataclysm-DDA experimental build 2025-01-08-0539 (9d108ee)
 * [MoM] Add electronoetic batteries (#79010)
 * whitelist test failing terrains (#78933)
 * The Point Of Fighting (#78979)

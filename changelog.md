@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-12-0546 ([a759eda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-0546))
+
 * Render WORN overlays for ablative pockets ([#79069](https://github.com/CleverRaven/Cataclysm-DDA/pull/79069))
 
 ---
@@ -150,11 +155,6 @@
 * Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))
 * Docs: standardize comments in item*.h somewhat ([#78975](https://github.com/CleverRaven/Cataclysm-DDA/pull/78975))
 * updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-08-0539 ([9d108ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-08-0539))
-
 * [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
 * whitelist test failing terrains ([#78933](https://github.com/CleverRaven/Cataclysm-DDA/pull/78933))
 * The Point Of Fighting ([#78979](https://github.com/CleverRaven/Cataclysm-DDA/pull/78979))
