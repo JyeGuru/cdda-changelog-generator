@@ -1,3 +1,4 @@
+* Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * Fix mutation spells learned don't lose when mutation lost ([#79093](https://github.com/CleverRaven/Cataclysm-DDA/pull/79093))
 * [ Magiclysm ] Fantastic species that were part of society count as Human ([#79083](https://github.com/CleverRaven/Cataclysm-DDA/pull/79083))
 * Debug spawn item groups ([#79070](https://github.com/CleverRaven/Cataclysm-DDA/pull/79070))
