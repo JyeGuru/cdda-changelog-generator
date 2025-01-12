@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-12-1820 ([dca8e06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-1820))
+
 * Prevent segfault when search gives no hits ([#79077](https://github.com/CleverRaven/Cataclysm-DDA/pull/79077))
 * [MoM] Remove muscle seizures from electrokinetic overload, make downed and stun random duration ([#79089](https://github.com/CleverRaven/Cataclysm-DDA/pull/79089))
 
