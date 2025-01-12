@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-12-1514 ([a275ae6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-1514))
+
 * [ Xedra Evolved ]  Reduce Salamder Eruption radius for monster spawn ([#79085](https://github.com/CleverRaven/Cataclysm-DDA/pull/79085))
 * Mutating a mutation that conflicts with an installed bionic causes damage ([#79087](https://github.com/CleverRaven/Cataclysm-DDA/pull/79087))
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))

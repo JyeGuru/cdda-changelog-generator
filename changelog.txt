@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-12-1514 (a275ae6)
 * [ Xedra Evolved ]  Reduce Salamder Eruption radius for monster spawn (#79085)
 * Mutating a mutation that conflicts with an installed bionic causes damage (#79087)
 * [Xedra Evolved] Add categories to Arvore traits (#79095)
