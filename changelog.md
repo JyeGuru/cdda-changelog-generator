@@ -1,3 +1,5 @@
+* [ Xedra Evolved ]  Reduce Salamder Eruption radius for monster spawn ([#79085](https://github.com/CleverRaven/Cataclysm-DDA/pull/79085))
+* Mutating a mutation that conflicts with an installed bionic causes damage ([#79087](https://github.com/CleverRaven/Cataclysm-DDA/pull/79087))
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
 
 ---
@@ -208,11 +210,9 @@
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
 * Exodii: Caotel Sr2.2 DEW ([#78932](https://github.com/CleverRaven/Cataclysm-DDA/pull/78932))
-* Aftershock: Zenit Security Drones ([#78923](https://github.com/CleverRaven/Cataclysm-DDA/pull/78923))
 * Cache item info, reducing time of crafting filter `d:` to ~32% ([#78945](https://github.com/CleverRaven/Cataclysm-DDA/pull/78945))
 * [Magiclysm] Make Magic Shop NPC no longer guaranteed spawn ([#78930](https://github.com/CleverRaven/Cataclysm-DDA/pull/78930))
 * Update the table of contents in doc/JSON_INFO.md ([#78936](https://github.com/CleverRaven/Cataclysm-DDA/pull/78936))
-* Fix Ancilla template seller speech training exploit ([#78924](https://github.com/CleverRaven/Cataclysm-DDA/pull/78924))
 * Routine i18n updates on 04 January 2025 ([#78934](https://github.com/CleverRaven/Cataclysm-DDA/pull/78934))
 * make ammo_effect_WIDE actually work ([#78935](https://github.com/CleverRaven/Cataclysm-DDA/pull/78935))
 * Make pillowcase volume in line with pillow volume ([#78927](https://github.com/CleverRaven/Cataclysm-DDA/pull/78927))
