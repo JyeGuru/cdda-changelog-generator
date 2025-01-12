@@ -1,3 +1,5 @@
+* Prevent segfault when search gives no hits ([#79077](https://github.com/CleverRaven/Cataclysm-DDA/pull/79077))
+* [MoM] Remove muscle seizures from electrokinetic overload, make downed and stun random duration ([#79089](https://github.com/CleverRaven/Cataclysm-DDA/pull/79089))
 
 ---
 
@@ -211,7 +213,6 @@
 * fix pulping being too fast ([#78948](https://github.com/CleverRaven/Cataclysm-DDA/pull/78948))
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
-* Update some battery related recipes ([#78929](https://github.com/CleverRaven/Cataclysm-DDA/pull/78929))
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
 * Exodii: Caotel Sr2.2 DEW ([#78932](https://github.com/CleverRaven/Cataclysm-DDA/pull/78932))
@@ -220,4 +221,3 @@
 * Update the table of contents in doc/JSON_INFO.md ([#78936](https://github.com/CleverRaven/Cataclysm-DDA/pull/78936))
 * Routine i18n updates on 04 January 2025 ([#78934](https://github.com/CleverRaven/Cataclysm-DDA/pull/78934))
 * make ammo_effect_WIDE actually work ([#78935](https://github.com/CleverRaven/Cataclysm-DDA/pull/78935))
-* fix falling while dragging vehicle ([#78928](https://github.com/CleverRaven/Cataclysm-DDA/pull/78928))
