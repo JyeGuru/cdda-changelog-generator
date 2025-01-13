@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * Obsolete some unused CBM snippets ([#79099](https://github.com/CleverRaven/Cataclysm-DDA/pull/79099))
 * [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
 * Misc gun variant script fixes ([#79025](https://github.com/CleverRaven/Cataclysm-DDA/pull/79025))
@@ -119,12 +120,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-01-11-0846 ([70c21d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0846))
-
-* obsolete old generators ([#78970](https://github.com/CleverRaven/Cataclysm-DDA/pull/78970))
-
----
-
 #### Cataclysm-DDA experimental build 2025-01-11-0706 ([fb138e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0706))
 
 * [innawood] Crafted batteries are fully charged ([#79061](https://github.com/CleverRaven/Cataclysm-DDA/pull/79061))
@@ -232,4 +227,3 @@
 * [MoM] Genericize Enervating Touch ([#78971](https://github.com/CleverRaven/Cataclysm-DDA/pull/78971))
 * Give Chimera Natural Stance ([#78982](https://github.com/CleverRaven/Cataclysm-DDA/pull/78982))
 * Fire Ax has a spike not a hook ([#78973](https://github.com/CleverRaven/Cataclysm-DDA/pull/78973))
-* obsolete makeshift_solar_farm ([#78969](https://github.com/CleverRaven/Cataclysm-DDA/pull/78969))
