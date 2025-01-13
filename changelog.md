@@ -1,3 +1,4 @@
+* Extract special vision descriptions for translation ([#79108](https://github.com/CleverRaven/Cataclysm-DDA/pull/79108))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 
 ---
@@ -229,6 +230,5 @@
 * [Aftershock] Fix Frontier Cyromask uses wrong battery ([#78990](https://github.com/CleverRaven/Cataclysm-DDA/pull/78990))
 * [Xedra Evolved] Badgers are not worms, fix faction problems ([#78987](https://github.com/CleverRaven/Cataclysm-DDA/pull/78987))
 * Aftershock: Gameified EMP mechanics ([#78974](https://github.com/CleverRaven/Cataclysm-DDA/pull/78974))
-* [MoM] Genericize Enervating Touch ([#78971](https://github.com/CleverRaven/Cataclysm-DDA/pull/78971))
 * Give Chimera Natural Stance ([#78982](https://github.com/CleverRaven/Cataclysm-DDA/pull/78982))
 * Fire Ax has a spike not a hook ([#78973](https://github.com/CleverRaven/Cataclysm-DDA/pull/78973))
