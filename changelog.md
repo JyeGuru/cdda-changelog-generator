@@ -1,4 +1,9 @@
 * Fix various flake8 errors ([#79138](https://github.com/CleverRaven/Cataclysm-DDA/pull/79138))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-13-2030 ([d1c650d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-2030))
+
 * use test monsters in shotgun tests ([#79141](https://github.com/CleverRaven/Cataclysm-DDA/pull/79141))
 
 ---
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-01-10-0213 ([43ccb71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-0213))
 
 * [Aftershock] Fix Police bots (Again) ([#79040](https://github.com/CleverRaven/Cataclysm-DDA/pull/79040))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-09-2208 ([42e255b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-2208))
-
 * [Aftershock] Add the Geist (telekinetic) esper profession and powers ([#79013](https://github.com/CleverRaven/Cataclysm-DDA/pull/79013))
 * [Aftershock] Craftable Outpost Appliances ([#79024](https://github.com/CleverRaven/Cataclysm-DDA/pull/79024))
 * [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
