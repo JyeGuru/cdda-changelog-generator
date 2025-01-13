@@ -1,3 +1,4 @@
+* [Xedra Evolved] Homullus murder fae ban comes into play earlier (#79114)
 
 Cataclysm-DDA experimental build 2025-01-13-0319 (c123bfe)
 * [Xedra Evolved] Add `fey_magick` magic type (#79113)

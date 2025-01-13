@@ -1,3 +1,4 @@
+* [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
 
 ---
 
