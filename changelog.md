@@ -1,3 +1,5 @@
+* Extended description window shows potential deconstruction and bash yields ([#79107](https://github.com/CleverRaven/Cataclysm-DDA/pull/79107))
+* makes lit candle more distinct ([#79110](https://github.com/CleverRaven/Cataclysm-DDA/pull/79110))
 * [MoM] Fix Mind-sight goggles special vision sprite ([#79119](https://github.com/CleverRaven/Cataclysm-DDA/pull/79119))
 * A couple of small fixes for C++20 compliance ([#79115](https://github.com/CleverRaven/Cataclysm-DDA/pull/79115))
 
@@ -226,10 +228,8 @@
 * Remove "military" itemgroup ([#78965](https://github.com/CleverRaven/Cataclysm-DDA/pull/78965))
 * [MoM] Melded Teleporter Force ([#78968](https://github.com/CleverRaven/Cataclysm-DDA/pull/78968))
 * Fix NPC rules window scaling for small terminal sizes ([#78963](https://github.com/CleverRaven/Cataclysm-DDA/pull/78963))
-* [Magiclysm] Demon spider rework ([#78953](https://github.com/CleverRaven/Cataclysm-DDA/pull/78953))
 * Check validity of plant data on load ([#78960](https://github.com/CleverRaven/Cataclysm-DDA/pull/78960))
 * Bugfix kickboxing and boxing technique conditions ([#78962](https://github.com/CleverRaven/Cataclysm-DDA/pull/78962))
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
-* [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
