@@ -1,9 +1,11 @@
+* Fix various flake8 errors ([#79138](https://github.com/CleverRaven/Cataclysm-DDA/pull/79138))
+* use test monsters in shotgun tests ([#79141](https://github.com/CleverRaven/Cataclysm-DDA/pull/79141))
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-01-13-1402 ([4f55ff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-1402))
+#### Cataclysm-DDA experimental build 2025-01-13-1822 ([566eb1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-1822))
 
-* Weekly Changelog 2024-12-30 to 2025-01-06 ([#78977](https://github.com/CleverRaven/Cataclysm-DDA/pull/78977))
+* Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
 * {CR} Adds three new lore log snippets! ([#79058](https://github.com/CleverRaven/Cataclysm-DDA/pull/79058))
 * Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
@@ -203,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-01-09-2208 ([42e255b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-2208))
 
 * [Aftershock] Add the Geist (telekinetic) esper profession and powers ([#79013](https://github.com/CleverRaven/Cataclysm-DDA/pull/79013))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-09-2011 ([5e1277a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-2011))
-
 * [Aftershock] Craftable Outpost Appliances ([#79024](https://github.com/CleverRaven/Cataclysm-DDA/pull/79024))
 * [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
 * Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
@@ -219,7 +216,6 @@
 * Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))
 * updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
 * [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
-* The Point Of Fighting ([#78979](https://github.com/CleverRaven/Cataclysm-DDA/pull/78979))
 * Fix vehicle_split_section test by only destroying the vehicle and not the terrain ([#78994](https://github.com/CleverRaven/Cataclysm-DDA/pull/78994))
 * [MoM] Proficiency reshuffling, some crafts require that you are a psion ([#78992](https://github.com/CleverRaven/Cataclysm-DDA/pull/78992))
 * Gas field effects stuff ([#79006](https://github.com/CleverRaven/Cataclysm-DDA/pull/79006))
