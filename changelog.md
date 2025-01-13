@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-13-1402 ([4f55ff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-1402))
+
 * Weekly Changelog 2024-12-30 to 2025-01-06 ([#78977](https://github.com/CleverRaven/Cataclysm-DDA/pull/78977))
 * {CR} Adds three new lore log snippets! ([#79058](https://github.com/CleverRaven/Cataclysm-DDA/pull/79058))
 * Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
