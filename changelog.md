@@ -1,3 +1,5 @@
+* {CR} Adds three new lore log snippets! ([#79058](https://github.com/CleverRaven/Cataclysm-DDA/pull/79058))
+* Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
 
 ---
@@ -224,6 +226,4 @@
 * Single quoted empty string in stale handler. ([#78995](https://github.com/CleverRaven/Cataclysm-DDA/pull/78995))
 * [Aftershock] Fix Frontier Cyromask uses wrong battery ([#78990](https://github.com/CleverRaven/Cataclysm-DDA/pull/78990))
 * [Xedra Evolved] Badgers are not worms, fix faction problems ([#78987](https://github.com/CleverRaven/Cataclysm-DDA/pull/78987))
-* Aftershock: Gameified EMP mechanics ([#78974](https://github.com/CleverRaven/Cataclysm-DDA/pull/78974))
 * Give Chimera Natural Stance ([#78982](https://github.com/CleverRaven/Cataclysm-DDA/pull/78982))
-* Fire Ax has a spike not a hook ([#78973](https://github.com/CleverRaven/Cataclysm-DDA/pull/78973))

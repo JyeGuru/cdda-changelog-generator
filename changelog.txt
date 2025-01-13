@@ -1,3 +1,5 @@
+* {CR} Adds three new lore log snippets! (#79058)
+* Weekly Changelog 2025-01-06 to 2025-01-13 (#79127)
 * Fix ClangBuildAnalyzer workflow (#79133)
 
 Cataclysm-DDA experimental build 2025-01-13-1205 (2772dff)
@@ -143,6 +145,4 @@ Cataclysm-DDA experimental build 2025-01-09-2011 (5e1277a)
 * Single quoted empty string in stale handler. (#78995)
 * [Aftershock] Fix Frontier Cyromask uses wrong battery (#78990)
 * [Xedra Evolved] Badgers are not worms, fix faction problems (#78987)
-* Aftershock: Gameified EMP mechanics (#78974)
 * Give Chimera Natural Stance (#78982)
-* Fire Ax has a spike not a hook (#78973)
