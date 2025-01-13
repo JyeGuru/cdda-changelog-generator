@@ -1,3 +1,6 @@
+* Update NPC.md ([#79111](https://github.com/CleverRaven/Cataclysm-DDA/pull/79111))
+* [Magiclysm] Biomancy is disturbing ([#79117](https://github.com/CleverRaven/Cataclysm-DDA/pull/79117))
+* [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
 
 ---
 
@@ -202,7 +205,6 @@
 * [XE] Change book required for vampire best friend quest ([#78998](https://github.com/CleverRaven/Cataclysm-DDA/pull/78998))
 * [Xedra Evolved] fix goblin_fruit_gacha ([#79003](https://github.com/CleverRaven/Cataclysm-DDA/pull/79003))
 * [Magiclysm] Use EoCs to allow Magiclysm fantasy species to gain mutation paths/purify themselves ([#79000](https://github.com/CleverRaven/Cataclysm-DDA/pull/79000))
-* Update COMPILER_SUPPORT.md ([#78943](https://github.com/CleverRaven/Cataclysm-DDA/pull/78943))
 * [MoM] Add Water-Walking Telekinetic power ([#78988](https://github.com/CleverRaven/Cataclysm-DDA/pull/78988))
 * sundry typification ([#78985](https://github.com/CleverRaven/Cataclysm-DDA/pull/78985))
 * Single quoted empty string in stale handler. ([#78995](https://github.com/CleverRaven/Cataclysm-DDA/pull/78995))
@@ -218,7 +220,6 @@
 * Remove "military" itemgroup ([#78965](https://github.com/CleverRaven/Cataclysm-DDA/pull/78965))
 * [MoM] Melded Teleporter Force ([#78968](https://github.com/CleverRaven/Cataclysm-DDA/pull/78968))
 * Fix NPC rules window scaling for small terminal sizes ([#78963](https://github.com/CleverRaven/Cataclysm-DDA/pull/78963))
-* Adjust Prices of .223 Rifles ([#78947](https://github.com/CleverRaven/Cataclysm-DDA/pull/78947))
 * [Magiclysm] Demon spider rework ([#78953](https://github.com/CleverRaven/Cataclysm-DDA/pull/78953))
 * Check validity of plant data on load ([#78960](https://github.com/CleverRaven/Cataclysm-DDA/pull/78960))
 * Bugfix kickboxing and boxing technique conditions ([#78962](https://github.com/CleverRaven/Cataclysm-DDA/pull/78962))
@@ -227,4 +228,3 @@
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
 * [Magiclysm] Add a couple more CBMs ([#78951](https://github.com/CleverRaven/Cataclysm-DDA/pull/78951))
 * [Magiclysm] Change Iron Intolerance trait to use a recurring EoC ([#78954](https://github.com/CleverRaven/Cataclysm-DDA/pull/78954))
-* Cache item info, reducing time of crafting filter `d:` to ~32% ([#78945](https://github.com/CleverRaven/Cataclysm-DDA/pull/78945))
