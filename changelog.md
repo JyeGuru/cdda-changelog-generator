@@ -1,3 +1,9 @@
+* Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-13-1205 ([2772dff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-1205))
+
 * Extract special vision descriptions for translation ([#79108](https://github.com/CleverRaven/Cataclysm-DDA/pull/79108))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 
@@ -195,17 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-01-09-2011 ([5e1277a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-2011))
 
 * [Aftershock] Craftable Outpost Appliances ([#79024](https://github.com/CleverRaven/Cataclysm-DDA/pull/79024))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-09-1614 ([f0f3705](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-1614))
-
-* obsolete units::legacy_volume_factor ([#78972](https://github.com/CleverRaven/Cataclysm-DDA/pull/78972))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-09-1427 ([4c96886](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-1427))
-
 * [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
 * Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
 * load all of the user’s chosen font files as fallbacks for ImGui to use ([#78999](https://github.com/CleverRaven/Cataclysm-DDA/pull/78999))

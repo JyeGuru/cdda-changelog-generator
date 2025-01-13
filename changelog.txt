@@ -1,3 +1,6 @@
+* Fix ClangBuildAnalyzer workflow (#79133)
+
+Cataclysm-DDA experimental build 2025-01-13-1205 (2772dff)
 * Extract special vision descriptions for translation (#79108)
 * [Xedra Evolved] Fix treesung baselard recipe (#79131)
 
@@ -117,11 +120,6 @@ Cataclysm-DDA experimental build 2025-01-09-2208 (42e255b)
 
 Cataclysm-DDA experimental build 2025-01-09-2011 (5e1277a)
 * [Aftershock] Craftable Outpost Appliances (#79024)
-
-Cataclysm-DDA experimental build 2025-01-09-1614 (f0f3705)
-* obsolete units::legacy_volume_factor (#78972)
-
-Cataclysm-DDA experimental build 2025-01-09-1427 (4c96886)
 * [hotfix] fix integer price in xedra evolved (#79028)
 * Fix bad roof replacement (#79026)
 * load all of the user’s chosen font files as fallbacks for ImGui to use (#78999)
