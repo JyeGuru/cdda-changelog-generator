@@ -1,3 +1,4 @@
+* Weekly Changelog 2024-12-30 to 2025-01-06 ([#78977](https://github.com/CleverRaven/Cataclysm-DDA/pull/78977))
 * {CR} Adds three new lore log snippets! ([#79058](https://github.com/CleverRaven/Cataclysm-DDA/pull/79058))
 * Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
@@ -211,7 +212,6 @@
 * Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
 * remove dead code ([#79004](https://github.com/CleverRaven/Cataclysm-DDA/pull/79004))
 * Revert "Give Chimera Natural Stance" ([#78996](https://github.com/CleverRaven/Cataclysm-DDA/pull/78996))
-* Docs: standardize comments in item*.h somewhat ([#78975](https://github.com/CleverRaven/Cataclysm-DDA/pull/78975))
 * updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
 * [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
 * The Point Of Fighting ([#78979](https://github.com/CleverRaven/Cataclysm-DDA/pull/78979))
