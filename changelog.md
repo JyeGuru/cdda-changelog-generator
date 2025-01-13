@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-13-0726 ([4586288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0726))
+
 * Update NPC.md ([#79111](https://github.com/CleverRaven/Cataclysm-DDA/pull/79111))
 * [Magiclysm] Biomancy is disturbing ([#79117](https://github.com/CleverRaven/Cataclysm-DDA/pull/79117))
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
