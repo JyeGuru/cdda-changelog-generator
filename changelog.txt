@@ -1,3 +1,4 @@
+* Don't try to GENERATE typed coordinates (#79137)
 * Fix various flake8 errors (#79138)
 
 Cataclysm-DDA experimental build 2025-01-13-2030 (d1c650d)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-01-10-0213 (43ccb71)
 * Single quoted empty string in stale handler. (#78995)
 * [Aftershock] Fix Frontier Cyromask uses wrong battery (#78990)
 * [Xedra Evolved] Badgers are not worms, fix faction problems (#78987)
-* Give Chimera Natural Stance (#78982)

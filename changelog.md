@@ -1,3 +1,4 @@
+* Don't try to GENERATE typed coordinates ([#79137](https://github.com/CleverRaven/Cataclysm-DDA/pull/79137))
 * Fix various flake8 errors ([#79138](https://github.com/CleverRaven/Cataclysm-DDA/pull/79138))
 
 ---
@@ -227,4 +228,3 @@
 * Single quoted empty string in stale handler. ([#78995](https://github.com/CleverRaven/Cataclysm-DDA/pull/78995))
 * [Aftershock] Fix Frontier Cyromask uses wrong battery ([#78990](https://github.com/CleverRaven/Cataclysm-DDA/pull/78990))
 * [Xedra Evolved] Badgers are not worms, fix faction problems ([#78987](https://github.com/CleverRaven/Cataclysm-DDA/pull/78987))
-* Give Chimera Natural Stance ([#78982](https://github.com/CleverRaven/Cataclysm-DDA/pull/78982))
