@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-13-0319 (c123bfe)
+* [Xedra Evolved] Add `fey_magick` magic type (#79113)
+
 Cataclysm-DDA experimental build 2025-01-12-2212 (33bd0e9)
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) (#79098)
 * Fix mutation spells learned don't lose when mutation lost (#79093)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-01-09-1427 (4c96886)
 
 Cataclysm-DDA experimental build 2025-01-09-0702 (3a434d1)
 * Update Pot Helmet Flags (#79018)
-
-Cataclysm-DDA experimental build 2025-01-09-0518 (2fbfe92)
 * [MoM] Add Water Walking to Concentration stopping powers (#79019)
 * Typified stuff (#79007)
 * remove dead code (#79004)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-01-09-0518 (2fbfe92)
 * [Magiclysm] Demon spider rework (#78953)
 * Check validity of plant data on load (#78960)
 * Bugfix kickboxing and boxing technique conditions (#78962)
-* Fix crash when zone-harvesting crops with bad data (#78939)
 * fix pulping being too fast (#78948)
 * Remove Night-Pryanik from reviewers.yml (#78958)
 * Make Jabberwock hunting make sense (#78955)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-13-0319 ([c123bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0319))
+
+* [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-12-2212 ([33bd0e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-2212))
 
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-01-09-0702 ([3a434d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0702))
 
 * Update Pot Helmet Flags ([#79018](https://github.com/CleverRaven/Cataclysm-DDA/pull/79018))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-09-0518 ([2fbfe92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0518))
-
 * [MoM] Add Water Walking to Concentration stopping powers ([#79019](https://github.com/CleverRaven/Cataclysm-DDA/pull/79019))
 * Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
 * remove dead code ([#79004](https://github.com/CleverRaven/Cataclysm-DDA/pull/79004))
@@ -220,7 +221,6 @@
 * [Magiclysm] Demon spider rework ([#78953](https://github.com/CleverRaven/Cataclysm-DDA/pull/78953))
 * Check validity of plant data on load ([#78960](https://github.com/CleverRaven/Cataclysm-DDA/pull/78960))
 * Bugfix kickboxing and boxing technique conditions ([#78962](https://github.com/CleverRaven/Cataclysm-DDA/pull/78962))
-* Fix crash when zone-harvesting crops with bad data ([#78939](https://github.com/CleverRaven/Cataclysm-DDA/pull/78939))
 * fix pulping being too fast ([#78948](https://github.com/CleverRaven/Cataclysm-DDA/pull/78948))
 * Remove Night-Pryanik from reviewers.yml ([#78958](https://github.com/CleverRaven/Cataclysm-DDA/pull/78958))
 * Make Jabberwock hunting make sense ([#78955](https://github.com/CleverRaven/Cataclysm-DDA/pull/78955))
