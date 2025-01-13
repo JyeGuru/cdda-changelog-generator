@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-13-0536 (3f13c46)
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier (#79114)
 
 Cataclysm-DDA experimental build 2025-01-13-0319 (c123bfe)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-01-09-1427 (4c96886)
 * [hotfix] fix integer price in xedra evolved (#79028)
 * Fix bad roof replacement (#79026)
 * load all of the user’s chosen font files as fallbacks for ImGui to use (#78999)
-
-Cataclysm-DDA experimental build 2025-01-09-0702 (3a434d1)
 * Update Pot Helmet Flags (#79018)
 * [MoM] Add Water Walking to Concentration stopping powers (#79019)
 * Typified stuff (#79007)

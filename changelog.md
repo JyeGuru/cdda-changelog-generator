@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-13-0536 ([3f13c46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0536))
+
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
 
 ---
@@ -181,11 +186,6 @@
 * [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
 * Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
 * load all of the user’s chosen font files as fallbacks for ImGui to use ([#78999](https://github.com/CleverRaven/Cataclysm-DDA/pull/78999))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-09-0702 ([3a434d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-09-0702))
-
 * Update Pot Helmet Flags ([#79018](https://github.com/CleverRaven/Cataclysm-DDA/pull/79018))
 * [MoM] Add Water Walking to Concentration stopping powers ([#79019](https://github.com/CleverRaven/Cataclysm-DDA/pull/79019))
 * Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
