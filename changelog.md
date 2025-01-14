@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-14-0432 ([ca1949d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-0432))
+
+* [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
 * Create user mods dir automatically. ([#79057](https://github.com/CleverRaven/Cataclysm-DDA/pull/79057))
 * [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
 * Don't try to GENERATE typed coordinates ([#79137](https://github.com/CleverRaven/Cataclysm-DDA/pull/79137))
@@ -201,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2025-01-10-0630 ([26428a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-0630))
 
 * [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects ([#79046](https://github.com/CleverRaven/Cataclysm-DDA/pull/79046))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-10-0213 ([43ccb71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-0213))
-
 * [Aftershock] Fix Police bots (Again) ([#79040](https://github.com/CleverRaven/Cataclysm-DDA/pull/79040))
 * [Aftershock] Add the Geist (telekinetic) esper profession and powers ([#79013](https://github.com/CleverRaven/Cataclysm-DDA/pull/79013))
 * [Aftershock] Craftable Outpost Appliances ([#79024](https://github.com/CleverRaven/Cataclysm-DDA/pull/79024))
@@ -226,4 +227,3 @@
 * [Xedra Evolved] fix goblin_fruit_gacha ([#79003](https://github.com/CleverRaven/Cataclysm-DDA/pull/79003))
 * [Magiclysm] Use EoCs to allow Magiclysm fantasy species to gain mutation paths/purify themselves ([#79000](https://github.com/CleverRaven/Cataclysm-DDA/pull/79000))
 * Single quoted empty string in stale handler. ([#78995](https://github.com/CleverRaven/Cataclysm-DDA/pull/78995))
-* [Aftershock] Fix Frontier Cyromask uses wrong battery ([#78990](https://github.com/CleverRaven/Cataclysm-DDA/pull/78990))
