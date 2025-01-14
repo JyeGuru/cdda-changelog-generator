@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-14-1553 ([2538a4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-1553))
+
 * [ Xedrea Evolved ] Gracken Legs first tier ([#79122](https://github.com/CleverRaven/Cataclysm-DDA/pull/79122))
 * [Aftershock] UICA Shuttle Bases ([#79144](https://github.com/CleverRaven/Cataclysm-DDA/pull/79144))
 * [Aftershock] Add human++ genemods ([#79149](https://github.com/CleverRaven/Cataclysm-DDA/pull/79149))
@@ -204,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2025-01-10-1648 ([60c265e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-1648))
 
 * Refactor `ammo_effect_BOUNCE` ([#79035](https://github.com/CleverRaven/Cataclysm-DDA/pull/79035))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-10-1114 ([47cfe9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-1114))
-
 * [MoM] Fix infinite speed ([#79038](https://github.com/CleverRaven/Cataclysm-DDA/pull/79038))
 * [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence ([#79042](https://github.com/CleverRaven/Cataclysm-DDA/pull/79042))
 * [MoM] Metabolic Hyperefficiency properly removed by combat ([#79033](https://github.com/CleverRaven/Cataclysm-DDA/pull/79033))
