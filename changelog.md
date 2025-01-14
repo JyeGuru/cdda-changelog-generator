@@ -1,3 +1,5 @@
+* Create user mods dir automatically. ([#79057](https://github.com/CleverRaven/Cataclysm-DDA/pull/79057))
+* [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
 * Don't try to GENERATE typed coordinates ([#79137](https://github.com/CleverRaven/Cataclysm-DDA/pull/79137))
 * Fix various flake8 errors ([#79138](https://github.com/CleverRaven/Cataclysm-DDA/pull/79138))
 
@@ -223,7 +225,5 @@
 * [XE] Change book required for vampire best friend quest ([#78998](https://github.com/CleverRaven/Cataclysm-DDA/pull/78998))
 * [Xedra Evolved] fix goblin_fruit_gacha ([#79003](https://github.com/CleverRaven/Cataclysm-DDA/pull/79003))
 * [Magiclysm] Use EoCs to allow Magiclysm fantasy species to gain mutation paths/purify themselves ([#79000](https://github.com/CleverRaven/Cataclysm-DDA/pull/79000))
-* [MoM] Add Water-Walking Telekinetic power ([#78988](https://github.com/CleverRaven/Cataclysm-DDA/pull/78988))
 * Single quoted empty string in stale handler. ([#78995](https://github.com/CleverRaven/Cataclysm-DDA/pull/78995))
 * [Aftershock] Fix Frontier Cyromask uses wrong battery ([#78990](https://github.com/CleverRaven/Cataclysm-DDA/pull/78990))
-* [Xedra Evolved] Badgers are not worms, fix faction problems ([#78987](https://github.com/CleverRaven/Cataclysm-DDA/pull/78987))
