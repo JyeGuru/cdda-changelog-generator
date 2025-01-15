@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-15-0828 ([11cb27d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-0828))
+
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
 
 ---
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-01-11-0309 ([bad461d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0309))
 
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-10-1838 ([5f3e1f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-1838))
-
 * whitelist roadstop overmap terrain test ([#79034](https://github.com/CleverRaven/Cataclysm-DDA/pull/79034))
 * Reset seed in sections even when no explicit seed given ([#79044](https://github.com/CleverRaven/Cataclysm-DDA/pull/79044))
 * [MoM] Remove Melded Teleporter Force MIND_SEEING ([#79039](https://github.com/CleverRaven/Cataclysm-DDA/pull/79039))
