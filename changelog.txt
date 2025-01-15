@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-15-1725 (b050729)
 * Fix compile error (#79172)
 
 Cataclysm-DDA experimental build 2025-01-15-0828 (11cb27d)
@@ -121,8 +123,6 @@ Cataclysm-DDA experimental build 2025-01-11-0706 (fb138e8)
 
 Cataclysm-DDA experimental build 2025-01-11-0501 (064b395)
 * [Magiclysm] Add vision levels (#79059)
-
-Cataclysm-DDA experimental build 2025-01-11-0309 (bad461d)
 * [Aftershock] Replace combination lock safes with electronically locked safes. (#79062)
 * whitelist roadstop overmap terrain test (#79034)
 * Reset seed in sections even when no explicit seed given (#79044)

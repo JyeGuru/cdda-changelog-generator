@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-15-1725 ([b050729](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-1725))
+
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
 
 ---
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-01-11-0501 ([064b395](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0501))
 
 * [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-11-0309 ([bad461d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0309))
-
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
 * whitelist roadstop overmap terrain test ([#79034](https://github.com/CleverRaven/Cataclysm-DDA/pull/79034))
 * Reset seed in sections even when no explicit seed given ([#79044](https://github.com/CleverRaven/Cataclysm-DDA/pull/79044))
