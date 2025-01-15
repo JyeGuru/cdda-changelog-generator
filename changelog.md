@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-15-0643 ([7a1d021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-0643))
+
+* typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-14-1553 ([2538a4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-1553))
 
 * [ Xedrea Evolved ] Gracken Legs first tier ([#79122](https://github.com/CleverRaven/Cataclysm-DDA/pull/79122))
@@ -203,11 +209,6 @@
 * [Aftershock] Price Related Bug-smashing ([#79036](https://github.com/CleverRaven/Cataclysm-DDA/pull/79036))
 * Allow commercial fertilizer to be used by zone manager ([#79051](https://github.com/CleverRaven/Cataclysm-DDA/pull/79051))
 * [MOM] Fix Loci Establishment Formula ([#79048](https://github.com/CleverRaven/Cataclysm-DDA/pull/79048))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-10-1648 ([60c265e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-10-1648))
-
 * Refactor `ammo_effect_BOUNCE` ([#79035](https://github.com/CleverRaven/Cataclysm-DDA/pull/79035))
 * [MoM] Fix infinite speed ([#79038](https://github.com/CleverRaven/Cataclysm-DDA/pull/79038))
 * [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence ([#79042](https://github.com/CleverRaven/Cataclysm-DDA/pull/79042))
@@ -218,7 +219,6 @@
 * [Aftershock] Craftable Outpost Appliances ([#79024](https://github.com/CleverRaven/Cataclysm-DDA/pull/79024))
 * [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
 * Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
-* load all of the user’s chosen font files as fallbacks for ImGui to use ([#78999](https://github.com/CleverRaven/Cataclysm-DDA/pull/78999))
 * Update Pot Helmet Flags ([#79018](https://github.com/CleverRaven/Cataclysm-DDA/pull/79018))
 * [MoM] Add Water Walking to Concentration stopping powers ([#79019](https://github.com/CleverRaven/Cataclysm-DDA/pull/79019))
 * Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
