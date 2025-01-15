@@ -1,3 +1,4 @@
+* [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash (#79163)
 
 Cataclysm-DDA experimental build 2025-01-15-0643 (7a1d021)
 * typified a-f (#79155)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-01-10-1838 (5f3e1f5)
 * [MoM] Add electronoetic batteries (#79010)
 * Gas field effects stuff (#79006)
 * [Xedra Evolved] fix goblin_fruit_gacha (#79003)
-* [Magiclysm] Use EoCs to allow Magiclysm fantasy species to gain mutation paths/purify themselves (#79000)
