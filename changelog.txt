@@ -1,3 +1,4 @@
+* Fix compile error (#79172)
 
 Cataclysm-DDA experimental build 2025-01-15-0828 (11cb27d)
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash (#79163)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-01-11-0309 (bad461d)
 * updates (#79020)
 * [MoM] Add electronoetic batteries (#79010)
 * Gas field effects stuff (#79006)
-* [Xedra Evolved] fix goblin_fruit_gacha (#79003)

@@ -1,3 +1,4 @@
+* Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
 
 ---
 
@@ -227,4 +228,3 @@
 * updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
 * [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
 * Gas field effects stuff ([#79006](https://github.com/CleverRaven/Cataclysm-DDA/pull/79006))
-* [Xedra Evolved] fix goblin_fruit_gacha ([#79003](https://github.com/CleverRaven/Cataclysm-DDA/pull/79003))
