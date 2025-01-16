@@ -1,3 +1,15 @@
+* Assort doc files into appropriate subfolders for easier navigation ([#79160](https://github.com/CleverRaven/Cataclysm-DDA/pull/79160))
+* [ Xedra Evolved ] Fix Renfield Drops ([#79166](https://github.com/CleverRaven/Cataclysm-DDA/pull/79166))
+* [Magiclysm] Remove duplicate religious professions ([#79162](https://github.com/CleverRaven/Cataclysm-DDA/pull/79162))
+* Rename map:: get_global->get_abs, bub_from_abs->get_bub, omt_from_abs->get_omt ([#79167](https://github.com/CleverRaven/Cataclysm-DDA/pull/79167))
+* Remove useless mapgen weights ([#79168](https://github.com/CleverRaven/Cataclysm-DDA/pull/79168))
+* monstergroup "name" to "id" ([#79177](https://github.com/CleverRaven/Cataclysm-DDA/pull/79177))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-16-0803 ([7fc30c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-16-0803))
+
+* Remove string spawn item overloads ([#79173](https://github.com/CleverRaven/Cataclysm-DDA/pull/79173))
 * Fix MSVC build with lld linker ([#79178](https://github.com/CleverRaven/Cataclysm-DDA/pull/79178))
 
 ---
@@ -137,12 +149,6 @@
 * [ Xedra Evolved ]  Reduce Salamder Eruption radius for monster spawn ([#79085](https://github.com/CleverRaven/Cataclysm-DDA/pull/79085))
 * Mutating a mutation that conflicts with an installed bionic causes damage ([#79087](https://github.com/CleverRaven/Cataclysm-DDA/pull/79087))
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-12-1321 ([bdc7dca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-1321))
-
-* Magic Infrastructure: Add magic_type to deduplicate shared spell fields and reduce hardcoding ([#79016](https://github.com/CleverRaven/Cataclysm-DDA/pull/79016))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
 
 ---
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-01-11-0706 ([fb138e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0706))
 
 * [innawood] Crafted batteries are fully charged ([#79061](https://github.com/CleverRaven/Cataclysm-DDA/pull/79061))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-11-0501 ([064b395](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0501))
-
 * [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
 * whitelist roadstop overmap terrain test ([#79034](https://github.com/CleverRaven/Cataclysm-DDA/pull/79034))
@@ -218,12 +219,6 @@
 * [MoM] Metabolic Hyperefficiency properly removed by combat ([#79033](https://github.com/CleverRaven/Cataclysm-DDA/pull/79033))
 * [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects ([#79046](https://github.com/CleverRaven/Cataclysm-DDA/pull/79046))
 * [Aftershock] Fix Police bots (Again) ([#79040](https://github.com/CleverRaven/Cataclysm-DDA/pull/79040))
-* [Aftershock] Add the Geist (telekinetic) esper profession and powers ([#79013](https://github.com/CleverRaven/Cataclysm-DDA/pull/79013))
 * [Aftershock] Craftable Outpost Appliances ([#79024](https://github.com/CleverRaven/Cataclysm-DDA/pull/79024))
 * [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
 * Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
-* Update Pot Helmet Flags ([#79018](https://github.com/CleverRaven/Cataclysm-DDA/pull/79018))
-* [MoM] Add Water Walking to Concentration stopping powers ([#79019](https://github.com/CleverRaven/Cataclysm-DDA/pull/79019))
-* Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
-* updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
-* [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
