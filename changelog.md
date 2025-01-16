@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-16-0953 ([69a4eb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-16-0953))
+
 * Assort doc files into appropriate subfolders for easier navigation ([#79160](https://github.com/CleverRaven/Cataclysm-DDA/pull/79160))
 * [ Xedra Evolved ] Fix Renfield Drops ([#79166](https://github.com/CleverRaven/Cataclysm-DDA/pull/79166))
 * [Magiclysm] Remove duplicate religious professions ([#79162](https://github.com/CleverRaven/Cataclysm-DDA/pull/79162))
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-01-11-1112 ([a4a7f1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-1112))
 
 * [MoM] Remove Wave of Force EoC, change to direct ([#79068](https://github.com/CleverRaven/Cataclysm-DDA/pull/79068))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-11-0706 ([fb138e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-0706))
-
 * [innawood] Crafted batteries are fully charged ([#79061](https://github.com/CleverRaven/Cataclysm-DDA/pull/79061))
 * [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
