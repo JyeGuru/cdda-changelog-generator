@@ -1,3 +1,4 @@
+* Fix MSVC build with lld linker (#79178)
 
 Cataclysm-DDA experimental build 2025-01-15-1725 (b050729)
 * Fix compile error (#79172)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-01-11-0501 (064b395)
 * Typified stuff (#79007)
 * updates (#79020)
 * [MoM] Add electronoetic batteries (#79010)
-* Gas field effects stuff (#79006)

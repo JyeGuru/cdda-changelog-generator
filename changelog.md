@@ -1,3 +1,4 @@
+* Fix MSVC build with lld linker ([#79178](https://github.com/CleverRaven/Cataclysm-DDA/pull/79178))
 
 ---
 
@@ -226,4 +227,3 @@
 * Typified stuff ([#79007](https://github.com/CleverRaven/Cataclysm-DDA/pull/79007))
 * updates ([#79020](https://github.com/CleverRaven/Cataclysm-DDA/pull/79020))
 * [MoM] Add electronoetic batteries ([#79010](https://github.com/CleverRaven/Cataclysm-DDA/pull/79010))
-* Gas field effects stuff ([#79006](https://github.com/CleverRaven/Cataclysm-DDA/pull/79006))
