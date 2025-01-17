@@ -1,3 +1,4 @@
+* [MoM] Fix Research Facility having an oldlab underneath ([#79191](https://github.com/CleverRaven/Cataclysm-DDA/pull/79191))
 
 ---
 
@@ -106,7 +107,6 @@
 
 * Obsolete some unused CBM snippets ([#79099](https://github.com/CleverRaven/Cataclysm-DDA/pull/79099))
 * [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
-* Misc gun variant script fixes ([#79025](https://github.com/CleverRaven/Cataclysm-DDA/pull/79025))
 * Battery compartment mod can use medium storage batteries ([#79091](https://github.com/CleverRaven/Cataclysm-DDA/pull/79091))
 * Remove ghc/filesystem polyfill now that we are on C++17 ([#79092](https://github.com/CleverRaven/Cataclysm-DDA/pull/79092))
 * [Xedra Evolved] Increase mana cost on Arvore mana-using traits ([#79096](https://github.com/CleverRaven/Cataclysm-DDA/pull/79096))
