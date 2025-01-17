@@ -1,3 +1,4 @@
+* [Magiclysm] Forge merchants start with denarii ([#79189](https://github.com/CleverRaven/Cataclysm-DDA/pull/79189))
 
 ---
 
@@ -232,4 +233,3 @@
 * [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects ([#79046](https://github.com/CleverRaven/Cataclysm-DDA/pull/79046))
 * [Aftershock] Fix Police bots (Again) ([#79040](https://github.com/CleverRaven/Cataclysm-DDA/pull/79040))
 * [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
-* Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
