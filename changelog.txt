@@ -1,3 +1,4 @@
+* Slime body can't hold cbms (#79086)
 * [Aftershock] Gene Clinics (#79197)
 
 Cataclysm-DDA experimental build 2025-01-17-0508 (acd0756)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-01-11-2118 (dbf4dca)
 * [MOM] Fix Loci Establishment Formula (#79048)
 * [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence (#79042)
 * [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects (#79046)
-* [Aftershock] Fix Police bots (Again) (#79040)
