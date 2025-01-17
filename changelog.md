@@ -1,3 +1,9 @@
+* Evacuee wording ([#79203](https://github.com/CleverRaven/Cataclysm-DDA/pull/79203))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-17-1809 ([6af24d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-1809))
+
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit ([#79218](https://github.com/CleverRaven/Cataclysm-DDA/pull/79218))
 
 ---
@@ -227,4 +233,3 @@
 * [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
 * Allow commercial fertilizer to be used by zone manager ([#79051](https://github.com/CleverRaven/Cataclysm-DDA/pull/79051))
-* [MOM] Fix Loci Establishment Formula ([#79048](https://github.com/CleverRaven/Cataclysm-DDA/pull/79048))
