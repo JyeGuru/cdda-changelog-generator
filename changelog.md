@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-17-0849 ([4e971bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0849))
+
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
 
 ---
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2025-01-12-0336 ([866966f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-0336))
 
 * Fix infinite bounce ([#79072](https://github.com/CleverRaven/Cataclysm-DDA/pull/79072))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-11-2357 ([2461cef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-2357))
-
 * Routine i18n updates on 11 January 2025 ([#79071](https://github.com/CleverRaven/Cataclysm-DDA/pull/79071))
 * update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
 * [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
