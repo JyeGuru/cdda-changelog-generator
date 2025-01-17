@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-17-2034 (006a634)
 * Evacuee wording (#79203)
 
 Cataclysm-DDA experimental build 2025-01-17-1809 (6af24d4)

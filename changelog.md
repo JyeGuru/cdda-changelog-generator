@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-17-2034 ([006a634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-2034))
+
 * Evacuee wording ([#79203](https://github.com/CleverRaven/Cataclysm-DDA/pull/79203))
 
 ---
