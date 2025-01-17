@@ -1,3 +1,4 @@
+* [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
 
 ---
 
@@ -213,7 +214,6 @@
 * update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
 * [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
 * [Aftershock] Small mapgen fixes. ([#79060](https://github.com/CleverRaven/Cataclysm-DDA/pull/79060))
-* Man Of The Nineteenth Hour becomes hostile if significantly harmed. ([#79041](https://github.com/CleverRaven/Cataclysm-DDA/pull/79041))
 * Remove raw string item constructor ([#79056](https://github.com/CleverRaven/Cataclysm-DDA/pull/79056))
 * fixes various text input issues on ncurses ([#79049](https://github.com/CleverRaven/Cataclysm-DDA/pull/79049))
 * [MoM] Autolearn matrix elixir recipes ([#79055](https://github.com/CleverRaven/Cataclysm-DDA/pull/79055))
