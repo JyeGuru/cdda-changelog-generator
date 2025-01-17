@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-17-0508 ([acd0756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0508))
+
 * Fix CMake Linux VCPKG build ([#79104](https://github.com/CleverRaven/Cataclysm-DDA/pull/79104))
 * use typed point in android code ([#79182](https://github.com/CleverRaven/Cataclysm-DDA/pull/79182))
 * fix not being able to move items with charges with AIM ([#79183](https://github.com/CleverRaven/Cataclysm-DDA/pull/79183))
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2025-01-11-2118 ([dbf4dca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-2118))
 
 * [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-11-1749 ([14a4ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-1749))
-
 * [Aftershock] Small mapgen fixes. ([#79060](https://github.com/CleverRaven/Cataclysm-DDA/pull/79060))
 * Man Of The Nineteenth Hour becomes hostile if significantly harmed. ([#79041](https://github.com/CleverRaven/Cataclysm-DDA/pull/79041))
 * Remove raw string item constructor ([#79056](https://github.com/CleverRaven/Cataclysm-DDA/pull/79056))
