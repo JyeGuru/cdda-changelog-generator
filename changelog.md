@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-17-1248 ([eff9ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-1248))
+
+* Prevent initialising an activity actor's type every turn it's active ([#79194](https://github.com/CleverRaven/Cataclysm-DDA/pull/79194))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-17-0849 ([4e971bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0849))
 
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
@@ -204,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2025-01-12-0546 ([a759eda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-0546))
 
 * Render WORN overlays for ablative pockets ([#79069](https://github.com/CleverRaven/Cataclysm-DDA/pull/79069))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-12-0336 ([866966f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-0336))
-
 * Fix infinite bounce ([#79072](https://github.com/CleverRaven/Cataclysm-DDA/pull/79072))
 * Routine i18n updates on 11 January 2025 ([#79071](https://github.com/CleverRaven/Cataclysm-DDA/pull/79071))
 * update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
@@ -226,5 +227,4 @@
 * Reset seed in sections even when no explicit seed given ([#79044](https://github.com/CleverRaven/Cataclysm-DDA/pull/79044))
 * Allow commercial fertilizer to be used by zone manager ([#79051](https://github.com/CleverRaven/Cataclysm-DDA/pull/79051))
 * [MOM] Fix Loci Establishment Formula ([#79048](https://github.com/CleverRaven/Cataclysm-DDA/pull/79048))
-* [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence ([#79042](https://github.com/CleverRaven/Cataclysm-DDA/pull/79042))
 * [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects ([#79046](https://github.com/CleverRaven/Cataclysm-DDA/pull/79046))
