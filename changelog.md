@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-17-0654 ([56f9562](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0654))
+
 * Slime body can't hold cbms ([#79086](https://github.com/CleverRaven/Cataclysm-DDA/pull/79086))
 * [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
 
@@ -206,11 +211,6 @@
 
 * Routine i18n updates on 11 January 2025 ([#79071](https://github.com/CleverRaven/Cataclysm-DDA/pull/79071))
 * update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-11-2118 ([dbf4dca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-2118))
-
 * [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
 * [Aftershock] Small mapgen fixes. ([#79060](https://github.com/CleverRaven/Cataclysm-DDA/pull/79060))
 * Man Of The Nineteenth Hour becomes hostile if significantly harmed. ([#79041](https://github.com/CleverRaven/Cataclysm-DDA/pull/79041))

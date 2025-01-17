@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-17-0654 (56f9562)
 * Slime body can't hold cbms (#79086)
 * [Aftershock] Gene Clinics (#79197)
 
@@ -128,8 +130,6 @@ Cataclysm-DDA experimental build 2025-01-12-0336 (866966f)
 Cataclysm-DDA experimental build 2025-01-11-2357 (2461cef)
 * Routine i18n updates on 11 January 2025 (#79071)
 * update outcrop PR (#79088)
-
-Cataclysm-DDA experimental build 2025-01-11-2118 (dbf4dca)
 * [Xedra Evolved ] Obsidian Looks likes (#79074)
 * [Aftershock] Small mapgen fixes. (#79060)
 * Man Of The Nineteenth Hour becomes hostile if significantly harmed. (#79041)
