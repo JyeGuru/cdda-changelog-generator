@@ -1,3 +1,4 @@
+* [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
 
 ---
 
@@ -222,7 +223,6 @@
 * [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
 * Reset seed in sections even when no explicit seed given ([#79044](https://github.com/CleverRaven/Cataclysm-DDA/pull/79044))
-* [MoM] Remove Melded Teleporter Force MIND_SEEING ([#79039](https://github.com/CleverRaven/Cataclysm-DDA/pull/79039))
 * Allow commercial fertilizer to be used by zone manager ([#79051](https://github.com/CleverRaven/Cataclysm-DDA/pull/79051))
 * [MOM] Fix Loci Establishment Formula ([#79048](https://github.com/CleverRaven/Cataclysm-DDA/pull/79048))
 * [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence ([#79042](https://github.com/CleverRaven/Cataclysm-DDA/pull/79042))
