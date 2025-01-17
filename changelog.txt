@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-17-1542 (25adee5)
+* I want to shoot a mortar (but first i need tools for it) (#79136)
+
 Cataclysm-DDA experimental build 2025-01-17-1248 (eff9ffd)
 * Prevent initialising an activity actor's type every turn it's active (#79194)
 
@@ -126,8 +129,6 @@ Cataclysm-DDA experimental build 2025-01-12-1514 (a275ae6)
 * Mutating a mutation that conflicts with an installed bionic causes damage (#79087)
 * [Xedra Evolved] Add categories to Arvore traits (#79095)
 * Extract snippet names (#79101)
-
-Cataclysm-DDA experimental build 2025-01-12-0546 (a759eda)
 * Render WORN overlays for ablative pockets (#79069)
 * Fix infinite bounce (#79072)
 * Routine i18n updates on 11 January 2025 (#79071)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2025-01-12-0546 (a759eda)
 * [innawood] Crafted batteries are fully charged (#79061)
 * [Magiclysm] Add vision levels (#79059)
 * [Aftershock] Replace combination lock safes with electronically locked safes. (#79062)
-* Reset seed in sections even when no explicit seed given (#79044)
 * Allow commercial fertilizer to be used by zone manager (#79051)
 * [MOM] Fix Loci Establishment Formula (#79048)
 * [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects (#79046)
