@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-17-0129 ([f246f9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0129))
+
+* [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-16-1402 ([d7b675d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-16-1402))
 
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
@@ -204,11 +210,6 @@
 * [MoM] Autolearn matrix elixir recipes ([#79055](https://github.com/CleverRaven/Cataclysm-DDA/pull/79055))
 * Don't place null monsters or on null positions ([#79053](https://github.com/CleverRaven/Cataclysm-DDA/pull/79053))
 * [MoM] Remove unused EoC ([#79067](https://github.com/CleverRaven/Cataclysm-DDA/pull/79067))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-11-1112 ([a4a7f1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-11-1112))
-
 * [MoM] Remove Wave of Force EoC, change to direct ([#79068](https://github.com/CleverRaven/Cataclysm-DDA/pull/79068))
 * [innawood] Crafted batteries are fully charged ([#79061](https://github.com/CleverRaven/Cataclysm-DDA/pull/79061))
 * [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
@@ -225,6 +226,5 @@
 * [MoM] Metabolic Hyperefficiency properly removed by combat ([#79033](https://github.com/CleverRaven/Cataclysm-DDA/pull/79033))
 * [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects ([#79046](https://github.com/CleverRaven/Cataclysm-DDA/pull/79046))
 * [Aftershock] Fix Police bots (Again) ([#79040](https://github.com/CleverRaven/Cataclysm-DDA/pull/79040))
-* [Aftershock] Craftable Outpost Appliances ([#79024](https://github.com/CleverRaven/Cataclysm-DDA/pull/79024))
 * [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
 * Fix bad roof replacement ([#79026](https://github.com/CleverRaven/Cataclysm-DDA/pull/79026))
