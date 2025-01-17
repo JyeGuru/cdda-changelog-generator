@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-17-0321 ([9a3043e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0321))
+
 * [MoM] Fix Research Facility having an oldlab underneath ([#79191](https://github.com/CleverRaven/Cataclysm-DDA/pull/79191))
 
 ---
