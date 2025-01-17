@@ -1,3 +1,10 @@
+* Fix CMake Linux VCPKG build ([#79104](https://github.com/CleverRaven/Cataclysm-DDA/pull/79104))
+* use typed point in android code ([#79182](https://github.com/CleverRaven/Cataclysm-DDA/pull/79182))
+* fix not being able to move items with charges with AIM ([#79183](https://github.com/CleverRaven/Cataclysm-DDA/pull/79183))
+* Typify g - lightmap ([#79185](https://github.com/CleverRaven/Cataclysm-DDA/pull/79185))
+* [MoM] Concentration level/proficiencies affect your odds of backlash during concentration ([#79188](https://github.com/CleverRaven/Cataclysm-DDA/pull/79188))
+* Expand NULL_ID() usage ([#79190](https://github.com/CleverRaven/Cataclysm-DDA/pull/79190))
+* Fix Debug configuration linking with MSVS + lld ([#79196](https://github.com/CleverRaven/Cataclysm-DDA/pull/79196))
 * [Magiclysm] Forge merchants start with denarii ([#79189](https://github.com/CleverRaven/Cataclysm-DDA/pull/79189))
 
 ---
@@ -176,12 +183,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-01-12-0738 ([9a3e97c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-0738))
-
-* typified map.h etc. ([#79032](https://github.com/CleverRaven/Cataclysm-DDA/pull/79032))
-
----
-
 #### Cataclysm-DDA experimental build 2025-01-12-0546 ([a759eda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-0546))
 
 * Render WORN overlays for ablative pockets ([#79069](https://github.com/CleverRaven/Cataclysm-DDA/pull/79069))
@@ -220,16 +221,10 @@
 * [innawood] Crafted batteries are fully charged ([#79061](https://github.com/CleverRaven/Cataclysm-DDA/pull/79061))
 * [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
-* whitelist roadstop overmap terrain test ([#79034](https://github.com/CleverRaven/Cataclysm-DDA/pull/79034))
 * Reset seed in sections even when no explicit seed given ([#79044](https://github.com/CleverRaven/Cataclysm-DDA/pull/79044))
 * [MoM] Remove Melded Teleporter Force MIND_SEEING ([#79039](https://github.com/CleverRaven/Cataclysm-DDA/pull/79039))
-* [Aftershock] Price Related Bug-smashing ([#79036](https://github.com/CleverRaven/Cataclysm-DDA/pull/79036))
 * Allow commercial fertilizer to be used by zone manager ([#79051](https://github.com/CleverRaven/Cataclysm-DDA/pull/79051))
 * [MOM] Fix Loci Establishment Formula ([#79048](https://github.com/CleverRaven/Cataclysm-DDA/pull/79048))
-* Refactor `ammo_effect_BOUNCE` ([#79035](https://github.com/CleverRaven/Cataclysm-DDA/pull/79035))
-* [MoM] Fix infinite speed ([#79038](https://github.com/CleverRaven/Cataclysm-DDA/pull/79038))
 * [MoM] Allow Enhance Mobility to scale with Nether Attunement and intelligence ([#79042](https://github.com/CleverRaven/Cataclysm-DDA/pull/79042))
-* [MoM] Metabolic Hyperefficiency properly removed by combat ([#79033](https://github.com/CleverRaven/Cataclysm-DDA/pull/79033))
 * [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects ([#79046](https://github.com/CleverRaven/Cataclysm-DDA/pull/79046))
 * [Aftershock] Fix Police bots (Again) ([#79040](https://github.com/CleverRaven/Cataclysm-DDA/pull/79040))
-* [hotfix] fix integer price in xedra evolved ([#79028](https://github.com/CleverRaven/Cataclysm-DDA/pull/79028))
