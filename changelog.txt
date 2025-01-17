@@ -1,3 +1,4 @@
+* [Aftershock] Ensure Outfitter always has at least one full EVA suit (#79218)
 
 Cataclysm-DDA experimental build 2025-01-17-1542 (25adee5)
 * I want to shoot a mortar (but first i need tools for it) (#79136)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-01-12-1514 (a275ae6)
 * [Aftershock] Replace combination lock safes with electronically locked safes. (#79062)
 * Allow commercial fertilizer to be used by zone manager (#79051)
 * [MOM] Fix Loci Establishment Formula (#79048)
-* [Magiclysm] Convert Caustic Blood and Lashing Tentacles to effects (#79046)
