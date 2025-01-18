@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-18-1735 (8977bf7)
 * [XEDRA] Adjust dream magic xp requirements to jmath (#79126)
 * Mics EoC edits (#79169)
 
@@ -121,8 +123,6 @@ Cataclysm-DDA experimental build 2025-01-13-0939 (3671224)
 * makes lit candle more distinct (#79110)
 * [MoM] Fix Mind-sight goggles special vision sprite (#79119)
 * A couple of small fixes for C++20 compliance (#79115)
-
-Cataclysm-DDA experimental build 2025-01-13-0726 (4586288)
 * Update NPC.md (#79111)
 * [Magiclysm] Biomancy is disturbing (#79117)
 * [Xedra] Make translocator furnitures examinable in faction territory (#79124)

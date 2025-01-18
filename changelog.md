@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-18-1735 ([8977bf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1735))
+
 * [XEDRA] Adjust dream magic xp requirements to jmath ([#79126](https://github.com/CleverRaven/Cataclysm-DDA/pull/79126))
 * Mics EoC edits ([#79169](https://github.com/CleverRaven/Cataclysm-DDA/pull/79169))
 
@@ -205,11 +210,6 @@
 * makes lit candle more distinct ([#79110](https://github.com/CleverRaven/Cataclysm-DDA/pull/79110))
 * [MoM] Fix Mind-sight goggles special vision sprite ([#79119](https://github.com/CleverRaven/Cataclysm-DDA/pull/79119))
 * A couple of small fixes for C++20 compliance ([#79115](https://github.com/CleverRaven/Cataclysm-DDA/pull/79115))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-13-0726 ([4586288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0726))
-
 * Update NPC.md ([#79111](https://github.com/CleverRaven/Cataclysm-DDA/pull/79111))
 * [Magiclysm] Biomancy is disturbing ([#79117](https://github.com/CleverRaven/Cataclysm-DDA/pull/79117))
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
