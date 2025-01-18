@@ -1,3 +1,4 @@
+* Mics EoC edits ([#79169](https://github.com/CleverRaven/Cataclysm-DDA/pull/79169))
 
 ---
 
@@ -236,5 +237,4 @@
 * [MoM] Remove unused EoC ([#79067](https://github.com/CleverRaven/Cataclysm-DDA/pull/79067))
 * [MoM] Remove Wave of Force EoC, change to direct ([#79068](https://github.com/CleverRaven/Cataclysm-DDA/pull/79068))
 * [innawood] Crafted batteries are fully charged ([#79061](https://github.com/CleverRaven/Cataclysm-DDA/pull/79061))
-* [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
