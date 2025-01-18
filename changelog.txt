@@ -1,3 +1,4 @@
+* Ensure bleed test isn't failing due to clothing (#79227)
 
 Cataclysm-DDA experimental build 2025-01-18-2131 (d21d5f2)
 * typified sm_pos in vehicle (#79208)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-01-13-1822 (566eb1c)
 * Routine i18n updates on 11 January 2025 (#79071)
 * update outcrop PR (#79088)
 * [Xedra Evolved ] Obsidian Looks likes (#79074)
-* [MoM] Remove Wave of Force EoC, change to direct (#79068)
