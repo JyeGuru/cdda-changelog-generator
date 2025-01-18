@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-18-1544 ([dc48884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1544))
+
+* Routine i18n updates on 18 January 2025 ([#79223](https://github.com/CleverRaven/Cataclysm-DDA/pull/79223))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-18-1111 ([ac53e7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1111))
 
 * Fix cmake lint ([#79224](https://github.com/CleverRaven/Cataclysm-DDA/pull/79224))
@@ -170,7 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-01-13-1822 ([566eb1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-1822))
 
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
-* {CR} Adds three new lore log snippets! ([#79058](https://github.com/CleverRaven/Cataclysm-DDA/pull/79058))
 * Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
 
@@ -206,11 +211,6 @@
 * Update NPC.md ([#79111](https://github.com/CleverRaven/Cataclysm-DDA/pull/79111))
 * [Magiclysm] Biomancy is disturbing ([#79117](https://github.com/CleverRaven/Cataclysm-DDA/pull/79117))
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-13-0536 ([3f13c46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0536))
-
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
 * [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
