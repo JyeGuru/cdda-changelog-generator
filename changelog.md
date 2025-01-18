@@ -1,3 +1,12 @@
+* [Aftershock] Audit Aftershock Mapgen for lighting consistency ([#79221](https://github.com/CleverRaven/Cataclysm-DDA/pull/79221))
+* Add unload hotkey to AIM menu ([#79187](https://github.com/CleverRaven/Cataclysm-DDA/pull/79187))
+* Sabatons are armor ([#79201](https://github.com/CleverRaven/Cataclysm-DDA/pull/79201))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-18-0148 ([3479f4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-0148))
+
+* [Xedra Evolved] Fix Paraclesian summon spells ([#79215](https://github.com/CleverRaven/Cataclysm-DDA/pull/79215))
 
 ---
 
@@ -213,11 +222,6 @@
 
 * Prevent segfault when search gives no hits ([#79077](https://github.com/CleverRaven/Cataclysm-DDA/pull/79077))
 * [MoM] Remove muscle seizures from electrokinetic overload, make downed and stun random duration ([#79089](https://github.com/CleverRaven/Cataclysm-DDA/pull/79089))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-12-1514 ([a275ae6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-1514))
-
 * [ Xedra Evolved ]  Reduce Salamder Eruption radius for monster spawn ([#79085](https://github.com/CleverRaven/Cataclysm-DDA/pull/79085))
 * Mutating a mutation that conflicts with an installed bionic causes damage ([#79087](https://github.com/CleverRaven/Cataclysm-DDA/pull/79087))
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
@@ -229,12 +233,8 @@
 * [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
 * [Aftershock] Small mapgen fixes. ([#79060](https://github.com/CleverRaven/Cataclysm-DDA/pull/79060))
 * Remove raw string item constructor ([#79056](https://github.com/CleverRaven/Cataclysm-DDA/pull/79056))
-* fixes various text input issues on ncurses ([#79049](https://github.com/CleverRaven/Cataclysm-DDA/pull/79049))
-* [MoM] Autolearn matrix elixir recipes ([#79055](https://github.com/CleverRaven/Cataclysm-DDA/pull/79055))
-* Don't place null monsters or on null positions ([#79053](https://github.com/CleverRaven/Cataclysm-DDA/pull/79053))
 * [MoM] Remove unused EoC ([#79067](https://github.com/CleverRaven/Cataclysm-DDA/pull/79067))
 * [MoM] Remove Wave of Force EoC, change to direct ([#79068](https://github.com/CleverRaven/Cataclysm-DDA/pull/79068))
 * [innawood] Crafted batteries are fully charged ([#79061](https://github.com/CleverRaven/Cataclysm-DDA/pull/79061))
 * [Magiclysm] Add vision levels ([#79059](https://github.com/CleverRaven/Cataclysm-DDA/pull/79059))
 * [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
-* Allow commercial fertilizer to be used by zone manager ([#79051](https://github.com/CleverRaven/Cataclysm-DDA/pull/79051))
