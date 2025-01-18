@@ -1,3 +1,10 @@
+* Fix cmake lint ([#79224](https://github.com/CleverRaven/Cataclysm-DDA/pull/79224))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-18-0925 ([36ff082](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-0925))
+
+* Commit zstd source and license to notices ([#79220](https://github.com/CleverRaven/Cataclysm-DDA/pull/79220))
 
 ---
 
@@ -143,7 +150,6 @@
 #### Cataclysm-DDA experimental build 2025-01-14-0432 ([ca1949d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-0432))
 
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
-* Create user mods dir automatically. ([#79057](https://github.com/CleverRaven/Cataclysm-DDA/pull/79057))
 * [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
 * Don't try to GENERATE typed coordinates ([#79137](https://github.com/CleverRaven/Cataclysm-DDA/pull/79137))
 * Fix various flake8 errors ([#79138](https://github.com/CleverRaven/Cataclysm-DDA/pull/79138))
@@ -207,11 +213,6 @@
 #### Cataclysm-DDA experimental build 2025-01-13-0319 ([c123bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0319))
 
 * [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-12-2212 ([33bd0e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-2212))
-
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * Fix mutation spells learned don't lose when mutation lost ([#79093](https://github.com/CleverRaven/Cataclysm-DDA/pull/79093))
 * [ Magiclysm ] Fantastic species that were part of society count as Human ([#79083](https://github.com/CleverRaven/Cataclysm-DDA/pull/79083))
@@ -232,7 +233,6 @@
 * update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
 * [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
 * [Aftershock] Small mapgen fixes. ([#79060](https://github.com/CleverRaven/Cataclysm-DDA/pull/79060))
-* Remove raw string item constructor ([#79056](https://github.com/CleverRaven/Cataclysm-DDA/pull/79056))
 * [MoM] Remove unused EoC ([#79067](https://github.com/CleverRaven/Cataclysm-DDA/pull/79067))
 * [MoM] Remove Wave of Force EoC, change to direct ([#79068](https://github.com/CleverRaven/Cataclysm-DDA/pull/79068))
 * [innawood] Crafted batteries are fully charged ([#79061](https://github.com/CleverRaven/Cataclysm-DDA/pull/79061))

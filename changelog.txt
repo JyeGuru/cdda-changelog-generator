@@ -1,3 +1,7 @@
+* Fix cmake lint (#79224)
+
+Cataclysm-DDA experimental build 2025-01-18-0925 (36ff082)
+* Commit zstd source and license to notices (#79220)
 
 Cataclysm-DDA experimental build 2025-01-18-0339 (679244f)
 * [Aftershock] Audit Aftershock Mapgen for lighting consistency (#79221)
@@ -80,7 +84,6 @@ Cataclysm-DDA experimental build 2025-01-14-0701 (3e8c1a5)
 
 Cataclysm-DDA experimental build 2025-01-14-0432 (ca1949d)
 * [Magiclysm] Fix werewolf aura (#79151)
-* Create user mods dir automatically. (#79057)
 * [MoM] Add null grenades (#79147)
 * Don't try to GENERATE typed coordinates (#79137)
 * Fix various flake8 errors (#79138)
@@ -123,8 +126,6 @@ Cataclysm-DDA experimental build 2025-01-13-0536 (3f13c46)
 
 Cataclysm-DDA experimental build 2025-01-13-0319 (c123bfe)
 * [Xedra Evolved] Add `fey_magick` magic type (#79113)
-
-Cataclysm-DDA experimental build 2025-01-12-2212 (33bd0e9)
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) (#79098)
 * Fix mutation spells learned don't lose when mutation lost (#79093)
 * [ Magiclysm ] Fantastic species that were part of society count as Human (#79083)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2025-01-12-2212 (33bd0e9)
 * update outcrop PR (#79088)
 * [Xedra Evolved ] Obsidian Looks likes (#79074)
 * [Aftershock] Small mapgen fixes. (#79060)
-* Remove raw string item constructor (#79056)
 * [MoM] Remove unused EoC (#79067)
 * [MoM] Remove Wave of Force EoC, change to direct (#79068)
 * [innawood] Crafted batteries are fully charged (#79061)
