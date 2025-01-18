@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-18-1111 (ac53e7f)
 * Fix cmake lint (#79224)
 
 Cataclysm-DDA experimental build 2025-01-18-0925 (36ff082)
@@ -123,8 +125,6 @@ Cataclysm-DDA experimental build 2025-01-13-0726 (4586288)
 
 Cataclysm-DDA experimental build 2025-01-13-0536 (3f13c46)
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier (#79114)
-
-Cataclysm-DDA experimental build 2025-01-13-0319 (c123bfe)
 * [Xedra Evolved] Add `fey_magick` magic type (#79113)
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) (#79098)
 * Fix mutation spells learned don't lose when mutation lost (#79093)

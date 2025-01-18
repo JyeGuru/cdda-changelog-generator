@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-18-1111 ([ac53e7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1111))
+
 * Fix cmake lint ([#79224](https://github.com/CleverRaven/Cataclysm-DDA/pull/79224))
 
 ---
@@ -207,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2025-01-13-0536 ([3f13c46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0536))
 
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-13-0319 ([c123bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0319))
-
 * [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * Fix mutation spells learned don't lose when mutation lost ([#79093](https://github.com/CleverRaven/Cataclysm-DDA/pull/79093))
