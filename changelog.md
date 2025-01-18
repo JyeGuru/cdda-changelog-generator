@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-18-0339 ([679244f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-0339))
+
 * [Aftershock] Audit Aftershock Mapgen for lighting consistency ([#79221](https://github.com/CleverRaven/Cataclysm-DDA/pull/79221))
 * Add unload hotkey to AIM menu ([#79187](https://github.com/CleverRaven/Cataclysm-DDA/pull/79187))
 * Sabatons are armor ([#79201](https://github.com/CleverRaven/Cataclysm-DDA/pull/79201))
@@ -215,11 +220,6 @@
 * Xanax withdrawals aren't like sleeping pill withdrawals. ([#79076](https://github.com/CleverRaven/Cataclysm-DDA/pull/79076))
 * Reworked map::spawn_monsters_submap to handle non bubble maps ([#79081](https://github.com/CleverRaven/Cataclysm-DDA/pull/79081))
 * typified map.h and dependents ([#79106](https://github.com/CleverRaven/Cataclysm-DDA/pull/79106))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-12-1820 ([dca8e06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-12-1820))
-
 * Prevent segfault when search gives no hits ([#79077](https://github.com/CleverRaven/Cataclysm-DDA/pull/79077))
 * [MoM] Remove muscle seizures from electrokinetic overload, make downed and stun random duration ([#79089](https://github.com/CleverRaven/Cataclysm-DDA/pull/79089))
 * [ Xedra Evolved ]  Reduce Salamder Eruption radius for monster spawn ([#79085](https://github.com/CleverRaven/Cataclysm-DDA/pull/79085))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-18-0339 (679244f)
 * [Aftershock] Audit Aftershock Mapgen for lighting consistency (#79221)
 * Add unload hotkey to AIM menu (#79187)
 * Sabatons are armor (#79201)
@@ -131,8 +133,6 @@ Cataclysm-DDA experimental build 2025-01-12-2212 (33bd0e9)
 * Xanax withdrawals aren't like sleeping pill withdrawals. (#79076)
 * Reworked map::spawn_monsters_submap to handle non bubble maps (#79081)
 * typified map.h and dependents (#79106)
-
-Cataclysm-DDA experimental build 2025-01-12-1820 (dca8e06)
 * Prevent segfault when search gives no hits (#79077)
 * [MoM] Remove muscle seizures from electrokinetic overload, make downed and stun random duration (#79089)
 * [ Xedra Evolved ]  Reduce Salamder Eruption radius for monster spawn (#79085)
