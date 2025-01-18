@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-18-2131 ([d21d5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-2131))
+
 * typified sm_pos in vehicle ([#79208](https://github.com/CleverRaven/Cataclysm-DDA/pull/79208))
 
 ---
@@ -192,11 +197,6 @@
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
 * Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-13-1205 ([2772dff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-1205))
-
 * Extract special vision descriptions for translation ([#79108](https://github.com/CleverRaven/Cataclysm-DDA/pull/79108))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * Obsolete some unused CBM snippets ([#79099](https://github.com/CleverRaven/Cataclysm-DDA/pull/79099))

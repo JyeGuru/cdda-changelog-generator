@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-18-2131 (d21d5f2)
 * typified sm_pos in vehicle (#79208)
 
 Cataclysm-DDA experimental build 2025-01-18-1942 (018223c)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2025-01-13-1822 (566eb1c)
 * Move refugee center start from isolationist to its own scenario (#79140)
 * Weekly Changelog 2025-01-06 to 2025-01-13 (#79127)
 * Fix ClangBuildAnalyzer workflow (#79133)
-
-Cataclysm-DDA experimental build 2025-01-13-1205 (2772dff)
 * Extract special vision descriptions for translation (#79108)
 * [Xedra Evolved] Fix treesung baselard recipe (#79131)
 * Obsolete some unused CBM snippets (#79099)
