@@ -1,3 +1,4 @@
+* [XEDRA] Adjust dream magic xp requirements to jmath (#79126)
 * Mics EoC edits (#79169)
 
 Cataclysm-DDA experimental build 2025-01-18-1544 (dc48884)
@@ -146,7 +147,6 @@ Cataclysm-DDA experimental build 2025-01-13-0726 (4586288)
 * Routine i18n updates on 11 January 2025 (#79071)
 * update outcrop PR (#79088)
 * [Xedra Evolved ] Obsidian Looks likes (#79074)
-* [Aftershock] Small mapgen fixes. (#79060)
 * [MoM] Remove unused EoC (#79067)
 * [MoM] Remove Wave of Force EoC, change to direct (#79068)
 * [innawood] Crafted batteries are fully charged (#79061)
