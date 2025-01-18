@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-18-1942 ([018223c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1942))
+
+* Fix font mistake on zh_CN and zh_TW ([#79228](https://github.com/CleverRaven/Cataclysm-DDA/pull/79228))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-18-1735 ([8977bf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1735))
 
 * [XEDRA] Adjust dream magic xp requirements to jmath ([#79126](https://github.com/CleverRaven/Cataclysm-DDA/pull/79126))
@@ -192,11 +198,6 @@
 
 * Extract special vision descriptions for translation ([#79108](https://github.com/CleverRaven/Cataclysm-DDA/pull/79108))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-13-0939 ([3671224](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-0939))
-
 * Obsolete some unused CBM snippets ([#79099](https://github.com/CleverRaven/Cataclysm-DDA/pull/79099))
 * [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
 * Battery compartment mod can use medium storage batteries ([#79091](https://github.com/CleverRaven/Cataclysm-DDA/pull/79091))
@@ -236,4 +237,3 @@
 * [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
 * [MoM] Remove unused EoC ([#79067](https://github.com/CleverRaven/Cataclysm-DDA/pull/79067))
 * [MoM] Remove Wave of Force EoC, change to direct ([#79068](https://github.com/CleverRaven/Cataclysm-DDA/pull/79068))
-* [Aftershock] Replace combination lock safes with electronically locked safes. ([#79062](https://github.com/CleverRaven/Cataclysm-DDA/pull/79062))
