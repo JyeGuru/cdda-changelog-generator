@@ -1,3 +1,4 @@
+* Fix minor issues with clang-tidy workflow ([#79234](https://github.com/CleverRaven/Cataclysm-DDA/pull/79234))
 * Ensure bleed test isn't failing due to clothing ([#79227](https://github.com/CleverRaven/Cataclysm-DDA/pull/79227))
 
 ---
@@ -232,7 +233,6 @@
 * Mutating a mutation that conflicts with an installed bionic causes damage ([#79087](https://github.com/CleverRaven/Cataclysm-DDA/pull/79087))
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
-* Render WORN overlays for ablative pockets ([#79069](https://github.com/CleverRaven/Cataclysm-DDA/pull/79069))
 * Fix infinite bounce ([#79072](https://github.com/CleverRaven/Cataclysm-DDA/pull/79072))
 * Routine i18n updates on 11 January 2025 ([#79071](https://github.com/CleverRaven/Cataclysm-DDA/pull/79071))
 * update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
