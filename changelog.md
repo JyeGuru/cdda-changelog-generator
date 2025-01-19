@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-19-1749 ([69dc010](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-19-1749))
+
+* [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))
 * Fix minor issues with clang-tidy workflow ([#79234](https://github.com/CleverRaven/Cataclysm-DDA/pull/79234))
 * Ensure bleed test isn't failing due to clothing ([#79227](https://github.com/CleverRaven/Cataclysm-DDA/pull/79227))
 
@@ -222,7 +228,6 @@
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * Fix mutation spells learned don't lose when mutation lost ([#79093](https://github.com/CleverRaven/Cataclysm-DDA/pull/79093))
 * [ Magiclysm ] Fantastic species that were part of society count as Human ([#79083](https://github.com/CleverRaven/Cataclysm-DDA/pull/79083))
-* Debug spawn item groups ([#79070](https://github.com/CleverRaven/Cataclysm-DDA/pull/79070))
 * [ Xedra Evolved ] Stone Meditations ([#79073](https://github.com/CleverRaven/Cataclysm-DDA/pull/79073))
 * Xanax withdrawals aren't like sleeping pill withdrawals. ([#79076](https://github.com/CleverRaven/Cataclysm-DDA/pull/79076))
 * Reworked map::spawn_monsters_submap to handle non bubble maps ([#79081](https://github.com/CleverRaven/Cataclysm-DDA/pull/79081))
