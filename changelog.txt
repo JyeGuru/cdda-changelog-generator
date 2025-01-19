@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-19-2314 (5391dcd)
+* Aftershock: fix aegis ammo mismatch (#79242)
+
 Cataclysm-DDA experimental build 2025-01-19-1749 (69dc010)
 * [Aftershock] Update Moderately Dangerous Robot Monster Group (#79246)
 * Fix minor issues with clang-tidy workflow (#79234)
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2025-01-14-0432 (ca1949d)
 
 Cataclysm-DDA experimental build 2025-01-13-2030 (d1c650d)
 * use test monsters in shotgun tests (#79141)
-
-Cataclysm-DDA experimental build 2025-01-13-1822 (566eb1c)
 * Move refugee center start from isolationist to its own scenario (#79140)
 * Weekly Changelog 2025-01-06 to 2025-01-13 (#79127)
 * Fix ClangBuildAnalyzer workflow (#79133)
@@ -149,6 +150,5 @@ Cataclysm-DDA experimental build 2025-01-13-1822 (566eb1c)
 * [Xedra Evolved] Add categories to Arvore traits (#79095)
 * Extract snippet names (#79101)
 * Fix infinite bounce (#79072)
-* Routine i18n updates on 11 January 2025 (#79071)
 * update outcrop PR (#79088)
 * [Xedra Evolved ] Obsidian Looks likes (#79074)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-19-2314 ([5391dcd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-19-2314))
+
+* Aftershock: fix aegis ammo mismatch ([#79242](https://github.com/CleverRaven/Cataclysm-DDA/pull/79242))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-19-1749 ([69dc010](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-19-1749))
 
 * [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2025-01-13-2030 ([d1c650d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-2030))
 
 * use test monsters in shotgun tests ([#79141](https://github.com/CleverRaven/Cataclysm-DDA/pull/79141))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-13-1822 ([566eb1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-13-1822))
-
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
 * Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
@@ -239,6 +240,5 @@
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
 * Fix infinite bounce ([#79072](https://github.com/CleverRaven/Cataclysm-DDA/pull/79072))
-* Routine i18n updates on 11 January 2025 ([#79071](https://github.com/CleverRaven/Cataclysm-DDA/pull/79071))
 * update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
 * [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
