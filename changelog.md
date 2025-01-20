@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-20-0425 ([860a7f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0425))
+
 * [MoM] Psionics `magic_type` edits ([#79238](https://github.com/CleverRaven/Cataclysm-DDA/pull/79238))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-01-14-0701 ([3e8c1a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-0701))
 
 * Aftershock: Fix Irradiant weapon attack ([#79143](https://github.com/CleverRaven/Cataclysm-DDA/pull/79143))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-14-0432 ([ca1949d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-0432))
-
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
 * [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
 * Don't try to GENERATE typed coordinates ([#79137](https://github.com/CleverRaven/Cataclysm-DDA/pull/79137))
