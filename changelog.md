@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-20-2037 ([5e4134a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-2037))
+
+* [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-20-1720 ([542c248](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-1720))
 
 * Reorder leather backpack pockets ([#79204](https://github.com/CleverRaven/Cataclysm-DDA/pull/79204))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-01-15-1725 ([b050729](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-1725))
 
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-15-0828 ([11cb27d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-0828))
-
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
 * typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
 * [ Xedrea Evolved ] Gracken Legs first tier ([#79122](https://github.com/CleverRaven/Cataclysm-DDA/pull/79122))
@@ -234,5 +235,4 @@
 * [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * typified map.h and dependents ([#79106](https://github.com/CleverRaven/Cataclysm-DDA/pull/79106))
-* [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
