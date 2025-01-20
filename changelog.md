@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-20-0858 ([7278eab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0858))
+
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
 * Standardized get/set pos operations for talker/creature class hierarchy ([#79206](https://github.com/CleverRaven/Cataclysm-DDA/pull/79206))
 * Shotgun shell dispersion refactor ([#79217](https://github.com/CleverRaven/Cataclysm-DDA/pull/79217))
@@ -197,11 +202,6 @@
 * [Aftershock] UICA Shuttle Bases ([#79144](https://github.com/CleverRaven/Cataclysm-DDA/pull/79144))
 * [Aftershock] Add human++ genemods ([#79149](https://github.com/CleverRaven/Cataclysm-DDA/pull/79149))
 * Aftershock: Genetech Mutation system or Genetically engineered Catgirls. ([#79128](https://github.com/CleverRaven/Cataclysm-DDA/pull/79128))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-14-1404 ([8f42f6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-1404))
-
 * [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' ([#79153](https://github.com/CleverRaven/Cataclysm-DDA/pull/79153))
 * Aftershock: Fix Irradiant weapon attack ([#79143](https://github.com/CleverRaven/Cataclysm-DDA/pull/79143))
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
