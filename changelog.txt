@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-20-1221 (1ddd25a)
+* [DinoMod] moabosaurus (#79112)
+
 Cataclysm-DDA experimental build 2025-01-20-0858 (7278eab)
 * [MoM] Add focus to magic_type calculation (#79254)
 * Standardized get/set pos operations for talker/creature class hierarchy (#79206)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2025-01-15-0828 (11cb27d)
 
 Cataclysm-DDA experimental build 2025-01-15-0643 (7a1d021)
 * typified a-f (#79155)
-
-Cataclysm-DDA experimental build 2025-01-14-1553 (2538a4d)
 * [ Xedrea Evolved ] Gracken Legs first tier (#79122)
 * [Aftershock] UICA Shuttle Bases (#79144)
 * [Aftershock] Add human++ genemods (#79149)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2025-01-14-1553 (2538a4d)
 * [Xedra Evolved] Fix treesung baselard recipe (#79131)
 * Obsolete some unused CBM snippets (#79099)
 * [MoM] Fix Leukocyte Accumulation class (#79123)
-* Battery compartment mod can use medium storage batteries (#79091)
 * Remove ghc/filesystem polyfill now that we are on C++17 (#79092)
 * [Xedra Evolved] Increase mana cost on Arvore mana-using traits (#79096)
 * Reuse built clang-tidy plugin across the shards (#79100)

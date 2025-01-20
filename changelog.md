@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-20-1221 ([1ddd25a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-1221))
+
+* [DinoMod] moabosaurus ([#79112](https://github.com/CleverRaven/Cataclysm-DDA/pull/79112))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-20-0858 ([7278eab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0858))
 
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-01-15-0643 ([7a1d021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-0643))
 
 * typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-14-1553 ([2538a4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-1553))
-
 * [ Xedrea Evolved ] Gracken Legs first tier ([#79122](https://github.com/CleverRaven/Cataclysm-DDA/pull/79122))
 * [Aftershock] UICA Shuttle Bases ([#79144](https://github.com/CleverRaven/Cataclysm-DDA/pull/79144))
 * [Aftershock] Add human++ genemods ([#79149](https://github.com/CleverRaven/Cataclysm-DDA/pull/79149))
@@ -216,7 +217,6 @@
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * Obsolete some unused CBM snippets ([#79099](https://github.com/CleverRaven/Cataclysm-DDA/pull/79099))
 * [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
-* Battery compartment mod can use medium storage batteries ([#79091](https://github.com/CleverRaven/Cataclysm-DDA/pull/79091))
 * Remove ghc/filesystem polyfill now that we are on C++17 ([#79092](https://github.com/CleverRaven/Cataclysm-DDA/pull/79092))
 * [Xedra Evolved] Increase mana cost on Arvore mana-using traits ([#79096](https://github.com/CleverRaven/Cataclysm-DDA/pull/79096))
 * Reuse built clang-tidy plugin across the shards ([#79100](https://github.com/CleverRaven/Cataclysm-DDA/pull/79100))
