@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-20-1720 ([542c248](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-1720))
+
+* Reorder leather backpack pockets ([#79204](https://github.com/CleverRaven/Cataclysm-DDA/pull/79204))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-20-1221 ([1ddd25a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-1221))
 
 * [DinoMod] moabosaurus ([#79112](https://github.com/CleverRaven/Cataclysm-DDA/pull/79112))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-01-15-0828 ([11cb27d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-0828))
 
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-15-0643 ([7a1d021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-0643))
-
 * typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
 * [ Xedrea Evolved ] Gracken Legs first tier ([#79122](https://github.com/CleverRaven/Cataclysm-DDA/pull/79122))
 * [Aftershock] UICA Shuttle Bases ([#79144](https://github.com/CleverRaven/Cataclysm-DDA/pull/79144))
@@ -232,7 +233,6 @@
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
 * [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
-* Fix mutation spells learned don't lose when mutation lost ([#79093](https://github.com/CleverRaven/Cataclysm-DDA/pull/79093))
 * typified map.h and dependents ([#79106](https://github.com/CleverRaven/Cataclysm-DDA/pull/79106))
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
