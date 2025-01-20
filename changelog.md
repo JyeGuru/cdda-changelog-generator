@@ -1,3 +1,4 @@
+* [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
 * Standardized get/set pos operations for talker/creature class hierarchy ([#79206](https://github.com/CleverRaven/Cataclysm-DDA/pull/79206))
 * Shotgun shell dispersion refactor ([#79217](https://github.com/CleverRaven/Cataclysm-DDA/pull/79217))
 * optimize sorting loot activity ([#79230](https://github.com/CleverRaven/Cataclysm-DDA/pull/79230))
@@ -234,6 +235,5 @@
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * Fix mutation spells learned don't lose when mutation lost ([#79093](https://github.com/CleverRaven/Cataclysm-DDA/pull/79093))
 * typified map.h and dependents ([#79106](https://github.com/CleverRaven/Cataclysm-DDA/pull/79106))
-* [MoM] Remove muscle seizures from electrokinetic overload, make downed and stun random duration ([#79089](https://github.com/CleverRaven/Cataclysm-DDA/pull/79089))
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
