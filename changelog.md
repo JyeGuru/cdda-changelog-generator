@@ -217,7 +217,6 @@
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * Obsolete some unused CBM snippets ([#79099](https://github.com/CleverRaven/Cataclysm-DDA/pull/79099))
 * [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
-* Remove ghc/filesystem polyfill now that we are on C++17 ([#79092](https://github.com/CleverRaven/Cataclysm-DDA/pull/79092))
 * [Xedra Evolved] Increase mana cost on Arvore mana-using traits ([#79096](https://github.com/CleverRaven/Cataclysm-DDA/pull/79096))
 * Reuse built clang-tidy plugin across the shards ([#79100](https://github.com/CleverRaven/Cataclysm-DDA/pull/79100))
 * Add versioning to vcpkg setup ([#79121](https://github.com/CleverRaven/Cataclysm-DDA/pull/79121))
