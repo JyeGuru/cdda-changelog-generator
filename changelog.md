@@ -1,3 +1,11 @@
+* [Xedra Evolved] Fix ierde sleep of stone trait / ban interaction ([#79245](https://github.com/CleverRaven/Cataclysm-DDA/pull/79245))
+* Fix clang-tidy running on pushes to master branch ([#79247](https://github.com/CleverRaven/Cataclysm-DDA/pull/79247))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-20-0709 ([4e55a48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0709))
+
+* [MoM] Add Loci Establishment to power ending EOCs ([#79251](https://github.com/CleverRaven/Cataclysm-DDA/pull/79251))
 
 ---
 
@@ -194,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-01-14-1404 ([8f42f6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-1404))
 
 * [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' ([#79153](https://github.com/CleverRaven/Cataclysm-DDA/pull/79153))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-14-0701 ([3e8c1a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-14-0701))
-
 * Aftershock: Fix Irradiant weapon attack ([#79143](https://github.com/CleverRaven/Cataclysm-DDA/pull/79143))
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
 * [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
@@ -231,14 +234,11 @@
 * Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * Fix mutation spells learned don't lose when mutation lost ([#79093](https://github.com/CleverRaven/Cataclysm-DDA/pull/79093))
 * [ Magiclysm ] Fantastic species that were part of society count as Human ([#79083](https://github.com/CleverRaven/Cataclysm-DDA/pull/79083))
-* Xanax withdrawals aren't like sleeping pill withdrawals. ([#79076](https://github.com/CleverRaven/Cataclysm-DDA/pull/79076))
 * Reworked map::spawn_monsters_submap to handle non bubble maps ([#79081](https://github.com/CleverRaven/Cataclysm-DDA/pull/79081))
 * typified map.h and dependents ([#79106](https://github.com/CleverRaven/Cataclysm-DDA/pull/79106))
-* Prevent segfault when search gives no hits ([#79077](https://github.com/CleverRaven/Cataclysm-DDA/pull/79077))
 * [MoM] Remove muscle seizures from electrokinetic overload, make downed and stun random duration ([#79089](https://github.com/CleverRaven/Cataclysm-DDA/pull/79089))
 * [ Xedra Evolved ]  Reduce Salamder Eruption radius for monster spawn ([#79085](https://github.com/CleverRaven/Cataclysm-DDA/pull/79085))
 * Mutating a mutation that conflicts with an installed bionic causes damage ([#79087](https://github.com/CleverRaven/Cataclysm-DDA/pull/79087))
 * [Xedra Evolved] Add categories to Arvore traits ([#79095](https://github.com/CleverRaven/Cataclysm-DDA/pull/79095))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
 * update outcrop PR ([#79088](https://github.com/CleverRaven/Cataclysm-DDA/pull/79088))
-* [Xedra Evolved ] Obsidian Looks likes ([#79074](https://github.com/CleverRaven/Cataclysm-DDA/pull/79074))
