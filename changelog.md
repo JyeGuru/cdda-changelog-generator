@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-21-0816 ([953dbcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0816))
+
 * SKIP_DEFAULT_BACKGROUND ([#79243](https://github.com/CleverRaven/Cataclysm-DDA/pull/79243))
 * Aftershock: Miscelaneous small fixes ([#79244](https://github.com/CleverRaven/Cataclysm-DDA/pull/79244))
 * Bugfix: Fix spell cost from magic type ([#79259](https://github.com/CleverRaven/Cataclysm-DDA/pull/79259))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-01-17-0129 ([f246f9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0129))
 
 * [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-16-1402 ([d7b675d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-16-1402))
-
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
 * Assort doc files into appropriate subfolders for easier navigation ([#79160](https://github.com/CleverRaven/Cataclysm-DDA/pull/79160))
 * [ Xedra Evolved ] Fix Renfield Drops ([#79166](https://github.com/CleverRaven/Cataclysm-DDA/pull/79166))
