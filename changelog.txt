@@ -1,3 +1,4 @@
+* [Aftershock] Labbits eat lichen and aren't born as adults (#79252)
 * Fix batteries (#79264)
 
 Cataclysm-DDA experimental build 2025-01-21-0222 (39c7c9a)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2025-01-16-0803 (7fc30c0)
 * Fix ClangBuildAnalyzer workflow (#79133)
 * Extract special vision descriptions for translation (#79108)
 * [Xedra Evolved] Fix treesung baselard recipe (#79131)
-* Obsolete some unused CBM snippets (#79099)
 * [MoM] Fix Leukocyte Accumulation class (#79123)
 * Reuse built clang-tidy plugin across the shards (#79100)
 * Add versioning to vcpkg setup (#79121)
