@@ -1,3 +1,9 @@
+* [MOM] Make experience formulas take into account focus enchants ([#79262](https://github.com/CleverRaven/Cataclysm-DDA/pull/79262))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-21-0415 ([8e21b2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0415))
+
 * [Aftershock] Labbits eat lichen and aren't born as adults ([#79252](https://github.com/CleverRaven/Cataclysm-DDA/pull/79252))
 * Fix batteries ([#79264](https://github.com/CleverRaven/Cataclysm-DDA/pull/79264))
 
@@ -194,11 +200,6 @@
 * Rename map:: get_global->get_abs, bub_from_abs->get_bub, omt_from_abs->get_omt ([#79167](https://github.com/CleverRaven/Cataclysm-DDA/pull/79167))
 * Remove useless mapgen weights ([#79168](https://github.com/CleverRaven/Cataclysm-DDA/pull/79168))
 * monstergroup "name" to "id" ([#79177](https://github.com/CleverRaven/Cataclysm-DDA/pull/79177))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-16-0803 ([7fc30c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-16-0803))
-
 * Remove string spawn item overloads ([#79173](https://github.com/CleverRaven/Cataclysm-DDA/pull/79173))
 * Fix MSVC build with lld linker ([#79178](https://github.com/CleverRaven/Cataclysm-DDA/pull/79178))
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
@@ -221,7 +222,6 @@
 * Extract special vision descriptions for translation ([#79108](https://github.com/CleverRaven/Cataclysm-DDA/pull/79108))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
-* Reuse built clang-tidy plugin across the shards ([#79100](https://github.com/CleverRaven/Cataclysm-DDA/pull/79100))
 * Add versioning to vcpkg setup ([#79121](https://github.com/CleverRaven/Cataclysm-DDA/pull/79121))
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))
 * Set `SDL_HINT_APP_NAME` for tiles ([#79125](https://github.com/CleverRaven/Cataclysm-DDA/pull/79125))
