@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-21-0222 ([39c7c9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0222))
+
+* Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-20-2037 ([5e4134a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-2037))
 
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
@@ -193,11 +199,6 @@
 
 * Remove string spawn item overloads ([#79173](https://github.com/CleverRaven/Cataclysm-DDA/pull/79173))
 * Fix MSVC build with lld linker ([#79178](https://github.com/CleverRaven/Cataclysm-DDA/pull/79178))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-15-1725 ([b050729](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-15-1725))
-
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
 * typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
@@ -219,7 +220,6 @@
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * Obsolete some unused CBM snippets ([#79099](https://github.com/CleverRaven/Cataclysm-DDA/pull/79099))
 * [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
-* [Xedra Evolved] Increase mana cost on Arvore mana-using traits ([#79096](https://github.com/CleverRaven/Cataclysm-DDA/pull/79096))
 * Reuse built clang-tidy plugin across the shards ([#79100](https://github.com/CleverRaven/Cataclysm-DDA/pull/79100))
 * Add versioning to vcpkg setup ([#79121](https://github.com/CleverRaven/Cataclysm-DDA/pull/79121))
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-21-0222 (39c7c9a)
+* Roadstop Foodcart Generator (#79268)
+
 Cataclysm-DDA experimental build 2025-01-20-2037 (5e4134a)
 * [Aftershock] Shuttlepad Salvor Encampment mapgen (#79257)
 
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2025-01-16-0953 (69a4eb7)
 Cataclysm-DDA experimental build 2025-01-16-0803 (7fc30c0)
 * Remove string spawn item overloads (#79173)
 * Fix MSVC build with lld linker (#79178)
-
-Cataclysm-DDA experimental build 2025-01-15-1725 (b050729)
 * Fix compile error (#79172)
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash (#79163)
 * typified a-f (#79155)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2025-01-15-1725 (b050729)
 * [Xedra Evolved] Fix treesung baselard recipe (#79131)
 * Obsolete some unused CBM snippets (#79099)
 * [MoM] Fix Leukocyte Accumulation class (#79123)
-* [Xedra Evolved] Increase mana cost on Arvore mana-using traits (#79096)
 * Reuse built clang-tidy plugin across the shards (#79100)
 * Add versioning to vcpkg setup (#79121)
 * Focus the default selection in query popups (#79129)
