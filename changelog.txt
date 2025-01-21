@@ -1,3 +1,4 @@
+* Fix batteries (#79264)
 
 Cataclysm-DDA experimental build 2025-01-21-0222 (39c7c9a)
 * Roadstop Foodcart Generator (#79268)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2025-01-16-0803 (7fc30c0)
 * [Xedra] Make translocator furnitures examinable in faction territory (#79124)
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier (#79114)
 * [Xedra Evolved] Add `fey_magick` magic type (#79113)
-* Bump minimum supported macOS version to 10.15 (macOS Catalina) (#79098)
 * typified map.h and dependents (#79106)
 * Extract snippet names (#79101)

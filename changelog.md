@@ -1,3 +1,4 @@
+* Fix batteries ([#79264](https://github.com/CleverRaven/Cataclysm-DDA/pull/79264))
 
 ---
 
@@ -233,6 +234,5 @@
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
 * [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
-* Bump minimum supported macOS version to 10.15 (macOS Catalina) ([#79098](https://github.com/CleverRaven/Cataclysm-DDA/pull/79098))
 * typified map.h and dependents ([#79106](https://github.com/CleverRaven/Cataclysm-DDA/pull/79106))
 * Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
