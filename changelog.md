@@ -1,3 +1,5 @@
+* typified l-n ([#79265](https://github.com/CleverRaven/Cataclysm-DDA/pull/79265))
+* [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 
 ---
 
@@ -225,10 +227,8 @@
 * Add versioning to vcpkg setup ([#79121](https://github.com/CleverRaven/Cataclysm-DDA/pull/79121))
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))
 * Set `SDL_HINT_APP_NAME` for tiles ([#79125](https://github.com/CleverRaven/Cataclysm-DDA/pull/79125))
-* makes lit candle more distinct ([#79110](https://github.com/CleverRaven/Cataclysm-DDA/pull/79110))
 * [MoM] Fix Mind-sight goggles special vision sprite ([#79119](https://github.com/CleverRaven/Cataclysm-DDA/pull/79119))
 * A couple of small fixes for C++20 compliance ([#79115](https://github.com/CleverRaven/Cataclysm-DDA/pull/79115))
-* Update NPC.md ([#79111](https://github.com/CleverRaven/Cataclysm-DDA/pull/79111))
 * [Magiclysm] Biomancy is disturbing ([#79117](https://github.com/CleverRaven/Cataclysm-DDA/pull/79117))
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
