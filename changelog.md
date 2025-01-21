@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-21-0620 ([0012d9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0620))
+
 * [MOM] Make experience formulas take into account focus enchants ([#79262](https://github.com/CleverRaven/Cataclysm-DDA/pull/79262))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-01-16-1402 ([d7b675d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-16-1402))
 
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-16-0953 ([69a4eb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-16-0953))
-
 * Assort doc files into appropriate subfolders for easier navigation ([#79160](https://github.com/CleverRaven/Cataclysm-DDA/pull/79160))
 * [ Xedra Evolved ] Fix Renfield Drops ([#79166](https://github.com/CleverRaven/Cataclysm-DDA/pull/79166))
 * [Magiclysm] Remove duplicate religious professions ([#79162](https://github.com/CleverRaven/Cataclysm-DDA/pull/79162))

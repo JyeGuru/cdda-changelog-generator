@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-21-0620 (0012d9d)
 * [MOM] Make experience formulas take into account focus enchants (#79262)
 
 Cataclysm-DDA experimental build 2025-01-21-0415 (8e21b2c)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-01-17-0129 (f246f9c)
 
 Cataclysm-DDA experimental build 2025-01-16-1402 (d7b675d)
 * [MoM] Update and simplify Nether Attunement backlash EoC (#79175)
-
-Cataclysm-DDA experimental build 2025-01-16-0953 (69a4eb7)
 * Assort doc files into appropriate subfolders for easier navigation (#79160)
 * [ Xedra Evolved ] Fix Renfield Drops (#79166)
 * [Magiclysm] Remove duplicate religious professions (#79162)
