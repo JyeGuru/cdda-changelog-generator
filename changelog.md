@@ -1,3 +1,7 @@
+* SKIP_DEFAULT_BACKGROUND ([#79243](https://github.com/CleverRaven/Cataclysm-DDA/pull/79243))
+* Aftershock: Miscelaneous small fixes ([#79244](https://github.com/CleverRaven/Cataclysm-DDA/pull/79244))
+* Bugfix: Fix spell cost from magic type ([#79259](https://github.com/CleverRaven/Cataclysm-DDA/pull/79259))
+* Homullus Fae Sight Requirement and Undine Fish Magic Fix ([#79266](https://github.com/CleverRaven/Cataclysm-DDA/pull/79266))
 * Add message when trying to hack unhackable card-readers ([#79267](https://github.com/CleverRaven/Cataclysm-DDA/pull/79267))
 * [Xedra Evolved] Paraclesian spell scaling fixes ([#79271](https://github.com/CleverRaven/Cataclysm-DDA/pull/79271))
 
@@ -165,12 +169,6 @@
 
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
 * [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-17-0508 ([acd0756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0508))
-
-* Fix CMake Linux VCPKG build ([#79104](https://github.com/CleverRaven/Cataclysm-DDA/pull/79104))
 * use typed point in android code ([#79182](https://github.com/CleverRaven/Cataclysm-DDA/pull/79182))
 * fix not being able to move items with charges with AIM ([#79183](https://github.com/CleverRaven/Cataclysm-DDA/pull/79183))
 * Typify g - lightmap ([#79185](https://github.com/CleverRaven/Cataclysm-DDA/pull/79185))
@@ -221,13 +219,11 @@
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
 * Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
-* Extract special vision descriptions for translation ([#79108](https://github.com/CleverRaven/Cataclysm-DDA/pull/79108))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
 * Add versioning to vcpkg setup ([#79121](https://github.com/CleverRaven/Cataclysm-DDA/pull/79121))
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))
 * Set `SDL_HINT_APP_NAME` for tiles ([#79125](https://github.com/CleverRaven/Cataclysm-DDA/pull/79125))
-* Extended description window shows potential deconstruction and bash yields ([#79107](https://github.com/CleverRaven/Cataclysm-DDA/pull/79107))
 * makes lit candle more distinct ([#79110](https://github.com/CleverRaven/Cataclysm-DDA/pull/79110))
 * [MoM] Fix Mind-sight goggles special vision sprite ([#79119](https://github.com/CleverRaven/Cataclysm-DDA/pull/79119))
 * A couple of small fixes for C++20 compliance ([#79115](https://github.com/CleverRaven/Cataclysm-DDA/pull/79115))
@@ -236,4 +232,3 @@
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
 * [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
-* typified map.h and dependents ([#79106](https://github.com/CleverRaven/Cataclysm-DDA/pull/79106))
