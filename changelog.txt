@@ -1,3 +1,5 @@
+* Add message when trying to hack unhackable card-readers (#79267)
+* [Xedra Evolved] Paraclesian spell scaling fixes (#79271)
 
 Cataclysm-DDA experimental build 2025-01-21-0620 (0012d9d)
 * [MOM] Make experience formulas take into account focus enchants (#79262)
@@ -148,4 +150,3 @@ Cataclysm-DDA experimental build 2025-01-16-1402 (d7b675d)
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier (#79114)
 * [Xedra Evolved] Add `fey_magick` magic type (#79113)
 * typified map.h and dependents (#79106)
-* Extract snippet names (#79101)

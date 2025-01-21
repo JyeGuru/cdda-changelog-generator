@@ -1,3 +1,5 @@
+* Add message when trying to hack unhackable card-readers ([#79267](https://github.com/CleverRaven/Cataclysm-DDA/pull/79267))
+* [Xedra Evolved] Paraclesian spell scaling fixes ([#79271](https://github.com/CleverRaven/Cataclysm-DDA/pull/79271))
 
 ---
 
@@ -235,4 +237,3 @@
 * [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
 * [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
 * typified map.h and dependents ([#79106](https://github.com/CleverRaven/Cataclysm-DDA/pull/79106))
-* Extract snippet names ([#79101](https://github.com/CleverRaven/Cataclysm-DDA/pull/79101))
