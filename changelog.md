@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-21-2254 ([0230a96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-2254))
+
+* [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-21-0816 ([953dbcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0816))
 
 * SKIP_DEFAULT_BACKGROUND ([#79243](https://github.com/CleverRaven/Cataclysm-DDA/pull/79243))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-01-17-0321 ([9a3043e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0321))
 
 * [MoM] Fix Research Facility having an oldlab underneath ([#79191](https://github.com/CleverRaven/Cataclysm-DDA/pull/79191))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-17-0129 ([f246f9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0129))
-
 * [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
 * Assort doc files into appropriate subfolders for easier navigation ([#79160](https://github.com/CleverRaven/Cataclysm-DDA/pull/79160))
