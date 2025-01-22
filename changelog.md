@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-22-0037 ([f681a80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-0037))
+
 * typified l-n ([#79265](https://github.com/CleverRaven/Cataclysm-DDA/pull/79265))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 
@@ -189,11 +194,6 @@
 * Expand NULL_ID() usage ([#79190](https://github.com/CleverRaven/Cataclysm-DDA/pull/79190))
 * Fix Debug configuration linking with MSVS + lld ([#79196](https://github.com/CleverRaven/Cataclysm-DDA/pull/79196))
 * [Magiclysm] Forge merchants start with denarii ([#79189](https://github.com/CleverRaven/Cataclysm-DDA/pull/79189))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-17-0321 ([9a3043e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0321))
-
 * [MoM] Fix Research Facility having an oldlab underneath ([#79191](https://github.com/CleverRaven/Cataclysm-DDA/pull/79191))
 * [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
