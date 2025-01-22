@@ -1,3 +1,4 @@
+* fix wrong temp-delta conversion for windchill message  ([#79274](https://github.com/CleverRaven/Cataclysm-DDA/pull/79274))
 * Don't hardcode help text: Zones Manager ([#79286](https://github.com/CleverRaven/Cataclysm-DDA/pull/79286))
 * Weekly Changelog 2025-01-13 to 2025-01-20 ([#79255](https://github.com/CleverRaven/Cataclysm-DDA/pull/79255))
 
@@ -230,6 +231,5 @@
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))
 * Set `SDL_HINT_APP_NAME` for tiles ([#79125](https://github.com/CleverRaven/Cataclysm-DDA/pull/79125))
 * [MoM] Fix Mind-sight goggles special vision sprite ([#79119](https://github.com/CleverRaven/Cataclysm-DDA/pull/79119))
-* A couple of small fixes for C++20 compliance ([#79115](https://github.com/CleverRaven/Cataclysm-DDA/pull/79115))
 * [Magiclysm] Biomancy is disturbing ([#79117](https://github.com/CleverRaven/Cataclysm-DDA/pull/79117))
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
