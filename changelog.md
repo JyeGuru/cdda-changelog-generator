@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-22-0552 ([eb012c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-0552))
+
+* [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. ([#79283](https://github.com/CleverRaven/Cataclysm-DDA/pull/79283))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-22-0037 ([f681a80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-0037))
 
 * typified l-n ([#79265](https://github.com/CleverRaven/Cataclysm-DDA/pull/79265))
@@ -53,12 +59,6 @@
 #### Cataclysm-DDA experimental build 2025-01-20-1720 ([542c248](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-1720))
 
 * Reorder leather backpack pockets ([#79204](https://github.com/CleverRaven/Cataclysm-DDA/pull/79204))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-20-1221 ([1ddd25a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-1221))
-
-* [DinoMod] moabosaurus ([#79112](https://github.com/CleverRaven/Cataclysm-DDA/pull/79112))
 
 ---
 
