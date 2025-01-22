@@ -1,3 +1,5 @@
+* Don't hardcode help text: Zones Manager ([#79286](https://github.com/CleverRaven/Cataclysm-DDA/pull/79286))
+* Weekly Changelog 2025-01-13 to 2025-01-20 ([#79255](https://github.com/CleverRaven/Cataclysm-DDA/pull/79255))
 
 ---
 
@@ -231,5 +233,3 @@
 * A couple of small fixes for C++20 compliance ([#79115](https://github.com/CleverRaven/Cataclysm-DDA/pull/79115))
 * [Magiclysm] Biomancy is disturbing ([#79117](https://github.com/CleverRaven/Cataclysm-DDA/pull/79117))
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
-* [Xedra Evolved] Homullus murder fae ban comes into play earlier ([#79114](https://github.com/CleverRaven/Cataclysm-DDA/pull/79114))
-* [Xedra Evolved] Add `fey_magick` magic type ([#79113](https://github.com/CleverRaven/Cataclysm-DDA/pull/79113))
