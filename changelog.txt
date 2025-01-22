@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-22-1256 (18f379b)
+* [Sky Island] Update clear missions eoc (#79289)
+
 Cataclysm-DDA experimental build 2025-01-22-0742 (e22281c)
 * fix wrong temp-delta conversion for windchill message  (#79274)
 * Don't hardcode help text: Zones Manager (#79286)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-01-17-1542 (25adee5)
 
 Cataclysm-DDA experimental build 2025-01-17-1248 (eff9ffd)
 * Prevent initialising an activity actor's type every turn it's active (#79194)
-
-Cataclysm-DDA experimental build 2025-01-17-0849 (4e971bd)
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack (#79199)
 * [Aftershock] Gene Clinics (#79197)
 * use typed point in android code (#79182)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2025-01-17-0849 (4e971bd)
 * Focus the default selection in query popups (#79129)
 * Set `SDL_HINT_APP_NAME` for tiles (#79125)
 * [MoM] Fix Mind-sight goggles special vision sprite (#79119)
-* [Magiclysm] Biomancy is disturbing (#79117)
 * [Xedra] Make translocator furnitures examinable in faction territory (#79124)

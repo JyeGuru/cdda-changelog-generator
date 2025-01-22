@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-22-1256 ([18f379b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-1256))
+
+* [Sky Island] Update clear missions eoc ([#79289](https://github.com/CleverRaven/Cataclysm-DDA/pull/79289))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-22-0742 ([e22281c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-0742))
 
 * fix wrong temp-delta conversion for windchill message  ([#79274](https://github.com/CleverRaven/Cataclysm-DDA/pull/79274))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-01-17-1248 ([eff9ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-1248))
 
 * Prevent initialising an activity actor's type every turn it's active ([#79194](https://github.com/CleverRaven/Cataclysm-DDA/pull/79194))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-17-0849 ([4e971bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-0849))
-
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
 * [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
 * use typed point in android code ([#79182](https://github.com/CleverRaven/Cataclysm-DDA/pull/79182))
@@ -236,5 +237,4 @@
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))
 * Set `SDL_HINT_APP_NAME` for tiles ([#79125](https://github.com/CleverRaven/Cataclysm-DDA/pull/79125))
 * [MoM] Fix Mind-sight goggles special vision sprite ([#79119](https://github.com/CleverRaven/Cataclysm-DDA/pull/79119))
-* [Magiclysm] Biomancy is disturbing ([#79117](https://github.com/CleverRaven/Cataclysm-DDA/pull/79117))
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
