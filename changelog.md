@@ -1,3 +1,6 @@
+* Simple parts are always simple ([#79275](https://github.com/CleverRaven/Cataclysm-DDA/pull/79275))
+* [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
+* [Innawoods] Add cable to innawoods-specific electrolysis kit ([#79295](https://github.com/CleverRaven/Cataclysm-DDA/pull/79295))
 * Loot sorting: stop moving crafts in progress ([#79279](https://github.com/CleverRaven/Cataclysm-DDA/pull/79279))
 * [Xedra Evolved] Boann island updates ([#79284](https://github.com/CleverRaven/Cataclysm-DDA/pull/79284))
 * Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))
@@ -140,12 +143,6 @@
 #### Cataclysm-DDA experimental build 2025-01-18-1942 ([018223c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1942))
 
 * Fix font mistake on zh_CN and zh_TW ([#79228](https://github.com/CleverRaven/Cataclysm-DDA/pull/79228))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-18-1735 ([8977bf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1735))
-
-* [XEDRA] Adjust dream magic xp requirements to jmath ([#79126](https://github.com/CleverRaven/Cataclysm-DDA/pull/79126))
 * Mics EoC edits ([#79169](https://github.com/CleverRaven/Cataclysm-DDA/pull/79169))
 
 ---
@@ -232,8 +229,6 @@
 * Fix various flake8 errors ([#79138](https://github.com/CleverRaven/Cataclysm-DDA/pull/79138))
 * use test monsters in shotgun tests ([#79141](https://github.com/CleverRaven/Cataclysm-DDA/pull/79141))
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
-* Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))
-* Set `SDL_HINT_APP_NAME` for tiles ([#79125](https://github.com/CleverRaven/Cataclysm-DDA/pull/79125))
