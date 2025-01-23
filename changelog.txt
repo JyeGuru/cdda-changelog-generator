@@ -1,3 +1,5 @@
+* Pin versions in setup-sdl2 workflow step since SDL3 was released (#79297)
+* fix practice recipes giving progress item (#79278)
 
 Cataclysm-DDA experimental build 2025-01-23-1057 (2d254a7)
 * ensure critters are loaded around explosion (#79291)
@@ -147,4 +149,3 @@ Cataclysm-DDA experimental build 2025-01-18-0148 (3479f4b)
 * use test monsters in shotgun tests (#79141)
 * Move refugee center start from isolationist to its own scenario (#79140)
 * Fix ClangBuildAnalyzer workflow (#79133)
-* [Xedra Evolved] Fix treesung baselard recipe (#79131)

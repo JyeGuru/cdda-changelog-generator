@@ -1,3 +1,5 @@
+* Pin versions in setup-sdl2 workflow step since SDL3 was released ([#79297](https://github.com/CleverRaven/Cataclysm-DDA/pull/79297))
+* fix practice recipes giving progress item ([#79278](https://github.com/CleverRaven/Cataclysm-DDA/pull/79278))
 
 ---
 
@@ -231,4 +233,3 @@
 * use test monsters in shotgun tests ([#79141](https://github.com/CleverRaven/Cataclysm-DDA/pull/79141))
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
-* [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
