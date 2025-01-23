@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-23-0707 ([77939d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-0707))
+
 * Simple parts are always simple ([#79275](https://github.com/CleverRaven/Cataclysm-DDA/pull/79275))
 * [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
 * [Innawoods] Add cable to innawoods-specific electrolysis kit ([#79295](https://github.com/CleverRaven/Cataclysm-DDA/pull/79295))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-01-17-1809 ([6af24d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-1809))
 
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit ([#79218](https://github.com/CleverRaven/Cataclysm-DDA/pull/79218))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-17-1542 ([25adee5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-1542))
-
 * I want to shoot a mortar (but first i need tools for it) ([#79136](https://github.com/CleverRaven/Cataclysm-DDA/pull/79136))
 * Prevent initialising an activity actor's type every turn it's active ([#79194](https://github.com/CleverRaven/Cataclysm-DDA/pull/79194))
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
