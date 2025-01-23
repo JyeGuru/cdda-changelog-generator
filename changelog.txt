@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-23-1057 (2d254a7)
 * ensure critters are loaded around explosion (#79291)
 
 Cataclysm-DDA experimental build 2025-01-23-0904 (c6a1f2d)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-01-18-0339 (679244f)
 
 Cataclysm-DDA experimental build 2025-01-18-0148 (3479f4b)
 * [Xedra Evolved] Fix Paraclesian summon spells (#79215)
-
-Cataclysm-DDA experimental build 2025-01-17-2034 (006a634)
 * Evacuee wording (#79203)
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit (#79218)
 * I want to shoot a mortar (but first i need tools for it) (#79136)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-23-1057 ([2d254a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-1057))
+
 * ensure critters are loaded around explosion ([#79291](https://github.com/CleverRaven/Cataclysm-DDA/pull/79291))
 
 ---
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-01-18-0148 ([3479f4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-0148))
 
 * [Xedra Evolved] Fix Paraclesian summon spells ([#79215](https://github.com/CleverRaven/Cataclysm-DDA/pull/79215))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-17-2034 ([006a634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-2034))
-
 * Evacuee wording ([#79203](https://github.com/CleverRaven/Cataclysm-DDA/pull/79203))
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit ([#79218](https://github.com/CleverRaven/Cataclysm-DDA/pull/79218))
 * I want to shoot a mortar (but first i need tools for it) ([#79136](https://github.com/CleverRaven/Cataclysm-DDA/pull/79136))
