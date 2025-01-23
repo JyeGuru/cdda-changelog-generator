@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-23-0904 ([c6a1f2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-0904))
+
+* [Aftershock] Add Salvor Camp Vehicle Merchant ([#79287](https://github.com/CleverRaven/Cataclysm-DDA/pull/79287))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-23-0707 ([77939d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-0707))
 
 * Simple parts are always simple ([#79275](https://github.com/CleverRaven/Cataclysm-DDA/pull/79275))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-01-17-2034 ([006a634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-2034))
 
 * Evacuee wording ([#79203](https://github.com/CleverRaven/Cataclysm-DDA/pull/79203))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-17-1809 ([6af24d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-17-1809))
-
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit ([#79218](https://github.com/CleverRaven/Cataclysm-DDA/pull/79218))
 * I want to shoot a mortar (but first i need tools for it) ([#79136](https://github.com/CleverRaven/Cataclysm-DDA/pull/79136))
 * Prevent initialising an activity actor's type every turn it's active ([#79194](https://github.com/CleverRaven/Cataclysm-DDA/pull/79194))
@@ -220,7 +221,6 @@
 * typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
 * [Aftershock] UICA Shuttle Bases ([#79144](https://github.com/CleverRaven/Cataclysm-DDA/pull/79144))
 * [Aftershock] Add human++ genemods ([#79149](https://github.com/CleverRaven/Cataclysm-DDA/pull/79149))
-* Aftershock: Genetech Mutation system or Genetically engineered Catgirls. ([#79128](https://github.com/CleverRaven/Cataclysm-DDA/pull/79128))
 * [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' ([#79153](https://github.com/CleverRaven/Cataclysm-DDA/pull/79153))
 * Aftershock: Fix Irradiant weapon attack ([#79143](https://github.com/CleverRaven/Cataclysm-DDA/pull/79143))
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))

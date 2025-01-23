@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-23-0904 (c6a1f2d)
+* [Aftershock] Add Salvor Camp Vehicle Merchant (#79287)
+
 Cataclysm-DDA experimental build 2025-01-23-0707 (77939d0)
 * Simple parts are always simple (#79275)
 * [MoM] Fix loci establishment message (#79293)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-01-18-0148 (3479f4b)
 
 Cataclysm-DDA experimental build 2025-01-17-2034 (006a634)
 * Evacuee wording (#79203)
-
-Cataclysm-DDA experimental build 2025-01-17-1809 (6af24d4)
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit (#79218)
 * I want to shoot a mortar (but first i need tools for it) (#79136)
 * Prevent initialising an activity actor's type every turn it's active (#79194)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2025-01-17-1809 (6af24d4)
 * typified a-f (#79155)
 * [Aftershock] UICA Shuttle Bases (#79144)
 * [Aftershock] Add human++ genemods (#79149)
-* Aftershock: Genetech Mutation system or Genetically engineered Catgirls. (#79128)
 * [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' (#79153)
 * Aftershock: Fix Irradiant weapon attack (#79143)
 * [Magiclysm] Fix werewolf aura (#79151)
