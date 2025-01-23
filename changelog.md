@@ -237,4 +237,3 @@
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))
 * Set `SDL_HINT_APP_NAME` for tiles ([#79125](https://github.com/CleverRaven/Cataclysm-DDA/pull/79125))
-* [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
