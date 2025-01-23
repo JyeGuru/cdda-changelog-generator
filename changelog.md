@@ -1,3 +1,4 @@
+* ensure critters are loaded around explosion ([#79291](https://github.com/CleverRaven/Cataclysm-DDA/pull/79291))
 
 ---
 
@@ -231,4 +232,3 @@
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
-* Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))

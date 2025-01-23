@@ -1,3 +1,4 @@
+* ensure critters are loaded around explosion (#79291)
 
 Cataclysm-DDA experimental build 2025-01-23-0904 (c6a1f2d)
 * [Aftershock] Add Salvor Camp Vehicle Merchant (#79287)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-01-17-2034 (006a634)
 * Move refugee center start from isolationist to its own scenario (#79140)
 * Fix ClangBuildAnalyzer workflow (#79133)
 * [Xedra Evolved] Fix treesung baselard recipe (#79131)
-* Focus the default selection in query popups (#79129)
