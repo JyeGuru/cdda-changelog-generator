@@ -1,3 +1,5 @@
+* Loot sorting: stop moving crafts in progress ([#79279](https://github.com/CleverRaven/Cataclysm-DDA/pull/79279))
+* [Xedra Evolved] Boann island updates ([#79284](https://github.com/CleverRaven/Cataclysm-DDA/pull/79284))
 * Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))
 
 ---
@@ -219,7 +221,6 @@
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
 * typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
-* [ Xedrea Evolved ] Gracken Legs first tier ([#79122](https://github.com/CleverRaven/Cataclysm-DDA/pull/79122))
 * [Aftershock] UICA Shuttle Bases ([#79144](https://github.com/CleverRaven/Cataclysm-DDA/pull/79144))
 * [Aftershock] Add human++ genemods ([#79149](https://github.com/CleverRaven/Cataclysm-DDA/pull/79149))
 * Aftershock: Genetech Mutation system or Genetically engineered Catgirls. ([#79128](https://github.com/CleverRaven/Cataclysm-DDA/pull/79128))
@@ -234,7 +235,6 @@
 * Weekly Changelog 2025-01-06 to 2025-01-13 ([#79127](https://github.com/CleverRaven/Cataclysm-DDA/pull/79127))
 * Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
 * [Xedra Evolved] Fix treesung baselard recipe ([#79131](https://github.com/CleverRaven/Cataclysm-DDA/pull/79131))
-* [MoM] Fix Leukocyte Accumulation class ([#79123](https://github.com/CleverRaven/Cataclysm-DDA/pull/79123))
 * Focus the default selection in query popups ([#79129](https://github.com/CleverRaven/Cataclysm-DDA/pull/79129))
 * Set `SDL_HINT_APP_NAME` for tiles ([#79125](https://github.com/CleverRaven/Cataclysm-DDA/pull/79125))
 * [Xedra] Make translocator furnitures examinable in faction territory ([#79124](https://github.com/CleverRaven/Cataclysm-DDA/pull/79124))
