@@ -230,6 +230,5 @@
 * Aftershock: Fix Irradiant weapon attack ([#79143](https://github.com/CleverRaven/Cataclysm-DDA/pull/79143))
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
 * [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
-* Fix various flake8 errors ([#79138](https://github.com/CleverRaven/Cataclysm-DDA/pull/79138))
 * use test monsters in shotgun tests ([#79141](https://github.com/CleverRaven/Cataclysm-DDA/pull/79141))
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
