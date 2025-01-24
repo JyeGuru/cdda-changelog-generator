@@ -1,3 +1,4 @@
+* Update Overmap documentation to include missing field. (#79309)
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` (#79304)
 
 Cataclysm-DDA experimental build 2025-01-24-0453 (d4bf6c9)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-01-18-1111 (ac53e7f)
 * Aftershock: Fix Irradiant weapon attack (#79143)
 * [Magiclysm] Fix werewolf aura (#79151)
 * [MoM] Add null grenades (#79147)
-* use test monsters in shotgun tests (#79141)
