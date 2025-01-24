@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-24-1813 (42b6916)
+* NECC Mission Clarification: Renewable Energy (#79318)
+
 Cataclysm-DDA experimental build 2025-01-24-0651 (d3be85f)
 * Update Overmap documentation to include missing field. (#79309)
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` (#79304)
@@ -144,6 +147,5 @@ Cataclysm-DDA experimental build 2025-01-18-1942 (018223c)
 * [Aftershock] UICA Shuttle Bases (#79144)
 * [Aftershock] Add human++ genemods (#79149)
 * [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' (#79153)
-* Aftershock: Fix Irradiant weapon attack (#79143)
 * [Magiclysm] Fix werewolf aura (#79151)
 * [MoM] Add null grenades (#79147)
