@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-24-0651 ([d3be85f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-24-0651))
+
 * Update Overmap documentation to include missing field. ([#79309](https://github.com/CleverRaven/Cataclysm-DDA/pull/79309))
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` ([#79304](https://github.com/CleverRaven/Cataclysm-DDA/pull/79304))
 
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-01-18-1544 ([dc48884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1544))
 
 * Routine i18n updates on 18 January 2025 ([#79223](https://github.com/CleverRaven/Cataclysm-DDA/pull/79223))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-18-1111 ([ac53e7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1111))
-
 * Fix cmake lint ([#79224](https://github.com/CleverRaven/Cataclysm-DDA/pull/79224))
 * Commit zstd source and license to notices ([#79220](https://github.com/CleverRaven/Cataclysm-DDA/pull/79220))
 * [Aftershock] Audit Aftershock Mapgen for lighting consistency ([#79221](https://github.com/CleverRaven/Cataclysm-DDA/pull/79221))

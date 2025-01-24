@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-24-0651 (d3be85f)
 * Update Overmap documentation to include missing field. (#79309)
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` (#79304)
 
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2025-01-18-1942 (018223c)
 
 Cataclysm-DDA experimental build 2025-01-18-1544 (dc48884)
 * Routine i18n updates on 18 January 2025 (#79223)
-
-Cataclysm-DDA experimental build 2025-01-18-1111 (ac53e7f)
 * Fix cmake lint (#79224)
 * Commit zstd source and license to notices (#79220)
 * [Aftershock] Audit Aftershock Mapgen for lighting consistency (#79221)
