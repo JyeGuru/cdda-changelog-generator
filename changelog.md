@@ -1,3 +1,11 @@
+* Expand responses for first exodii mission ([#79280](https://github.com/CleverRaven/Cataclysm-DDA/pull/79280))
+* Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-24-0229 ([6f03c5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-24-0229))
+
+* [MoM] Add some more nether attunement consequences ([#79159](https://github.com/CleverRaven/Cataclysm-DDA/pull/79159))
 
 ---
 
@@ -186,18 +194,12 @@
 #### Cataclysm-DDA experimental build 2025-01-18-0925 ([36ff082](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-0925))
 
 * Commit zstd source and license to notices ([#79220](https://github.com/CleverRaven/Cataclysm-DDA/pull/79220))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-18-0339 ([679244f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-0339))
-
 * [Aftershock] Audit Aftershock Mapgen for lighting consistency ([#79221](https://github.com/CleverRaven/Cataclysm-DDA/pull/79221))
 * Add unload hotkey to AIM menu ([#79187](https://github.com/CleverRaven/Cataclysm-DDA/pull/79187))
 * Sabatons are armor ([#79201](https://github.com/CleverRaven/Cataclysm-DDA/pull/79201))
 * [Xedra Evolved] Fix Paraclesian summon spells ([#79215](https://github.com/CleverRaven/Cataclysm-DDA/pull/79215))
 * Evacuee wording ([#79203](https://github.com/CleverRaven/Cataclysm-DDA/pull/79203))
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit ([#79218](https://github.com/CleverRaven/Cataclysm-DDA/pull/79218))
-* I want to shoot a mortar (but first i need tools for it) ([#79136](https://github.com/CleverRaven/Cataclysm-DDA/pull/79136))
 * Prevent initialising an activity actor's type every turn it's active ([#79194](https://github.com/CleverRaven/Cataclysm-DDA/pull/79194))
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
 * [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
@@ -228,8 +230,6 @@
 * Aftershock: Fix Irradiant weapon attack ([#79143](https://github.com/CleverRaven/Cataclysm-DDA/pull/79143))
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
 * [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
-* Don't try to GENERATE typed coordinates ([#79137](https://github.com/CleverRaven/Cataclysm-DDA/pull/79137))
 * Fix various flake8 errors ([#79138](https://github.com/CleverRaven/Cataclysm-DDA/pull/79138))
 * use test monsters in shotgun tests ([#79141](https://github.com/CleverRaven/Cataclysm-DDA/pull/79141))
 * Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
-* Fix ClangBuildAnalyzer workflow ([#79133](https://github.com/CleverRaven/Cataclysm-DDA/pull/79133))
