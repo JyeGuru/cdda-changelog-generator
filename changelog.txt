@@ -1,3 +1,4 @@
+* [Aftershock] Fix: You need an armament license to buy combat suits (#79308)
 * Expand responses for first exodii mission (#79280)
 * Adjusted pos getter names in vehicle & map_selector (#79298)
 
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-01-18-0925 (36ff082)
 * [Magiclysm] Fix werewolf aura (#79151)
 * [MoM] Add null grenades (#79147)
 * use test monsters in shotgun tests (#79141)
-* Move refugee center start from isolationist to its own scenario (#79140)

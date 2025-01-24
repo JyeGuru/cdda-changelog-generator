@@ -1,3 +1,4 @@
+* [Aftershock] Fix: You need an armament license to buy combat suits ([#79308](https://github.com/CleverRaven/Cataclysm-DDA/pull/79308))
 * Expand responses for first exodii mission ([#79280](https://github.com/CleverRaven/Cataclysm-DDA/pull/79280))
 * Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
 
@@ -231,4 +232,3 @@
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
 * [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
 * use test monsters in shotgun tests ([#79141](https://github.com/CleverRaven/Cataclysm-DDA/pull/79141))
-* Move refugee center start from isolationist to its own scenario ([#79140](https://github.com/CleverRaven/Cataclysm-DDA/pull/79140))
