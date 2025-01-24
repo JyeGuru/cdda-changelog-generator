@@ -189,11 +189,6 @@
 
 * Fix font mistake on zh_CN and zh_TW ([#79228](https://github.com/CleverRaven/Cataclysm-DDA/pull/79228))
 * Mics EoC edits ([#79169](https://github.com/CleverRaven/Cataclysm-DDA/pull/79169))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-18-1544 ([dc48884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1544))
-
 * Routine i18n updates on 18 January 2025 ([#79223](https://github.com/CleverRaven/Cataclysm-DDA/pull/79223))
 * Fix cmake lint ([#79224](https://github.com/CleverRaven/Cataclysm-DDA/pull/79224))
 * Commit zstd source and license to notices ([#79220](https://github.com/CleverRaven/Cataclysm-DDA/pull/79220))

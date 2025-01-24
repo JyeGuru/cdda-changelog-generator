@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2025-01-18-2131 (d21d5f2)
 Cataclysm-DDA experimental build 2025-01-18-1942 (018223c)
 * Fix font mistake on zh_CN and zh_TW (#79228)
 * Mics EoC edits (#79169)
-
-Cataclysm-DDA experimental build 2025-01-18-1544 (dc48884)
 * Routine i18n updates on 18 January 2025 (#79223)
 * Fix cmake lint (#79224)
 * Commit zstd source and license to notices (#79220)
