@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-25-1852 (1985889)
+* Add Exodii castle starting scenario (#79321)
+
 Cataclysm-DDA experimental build 2025-01-25-1139 (a40b4ff)
 * Remove legacy electronic storage code + small e-storage fixes (#79306)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-01-20-0425 (860a7f6)
 
 Cataclysm-DDA experimental build 2025-01-20-0227 (7dfc0c4)
 * set default_value bodypart_str_id::NULL_ID() correctly (#79248)
-
-Cataclysm-DDA experimental build 2025-01-19-2314 (5391dcd)
 * Aftershock: fix aegis ammo mismatch (#79242)
 * [Aftershock] Update Moderately Dangerous Robot Monster Group (#79246)
 * Fix minor issues with clang-tidy workflow (#79234)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-01-19-2314 (5391dcd)
 * Fix compile error (#79172)
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash (#79163)
 * typified a-f (#79155)
-* [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' (#79153)

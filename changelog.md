@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-25-1852 ([1985889](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-1852))
+
+* Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-25-1139 ([a40b4ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-1139))
 
 * Remove legacy electronic storage code + small e-storage fixes ([#79306](https://github.com/CleverRaven/Cataclysm-DDA/pull/79306))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-01-20-0227 ([7dfc0c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0227))
 
 * set default_value bodypart_str_id::NULL_ID() correctly ([#79248](https://github.com/CleverRaven/Cataclysm-DDA/pull/79248))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-19-2314 ([5391dcd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-19-2314))
-
 * Aftershock: fix aegis ammo mismatch ([#79242](https://github.com/CleverRaven/Cataclysm-DDA/pull/79242))
 * [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))
 * Fix minor issues with clang-tidy workflow ([#79234](https://github.com/CleverRaven/Cataclysm-DDA/pull/79234))
@@ -232,4 +233,3 @@
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
 * typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
-* [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' ([#79153](https://github.com/CleverRaven/Cataclysm-DDA/pull/79153))
