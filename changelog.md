@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-25-2247 ([e2c41d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-2247))
+
 * misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
 
 ---
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-01-20-0709 ([4e55a48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0709))
 
 * [MoM] Add Loci Establishment to power ending EOCs ([#79251](https://github.com/CleverRaven/Cataclysm-DDA/pull/79251))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-20-0425 ([860a7f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0425))
-
 * [MoM] Psionics `magic_type` edits ([#79238](https://github.com/CleverRaven/Cataclysm-DDA/pull/79238))
 * set default_value bodypart_str_id::NULL_ID() correctly ([#79248](https://github.com/CleverRaven/Cataclysm-DDA/pull/79248))
 * Aftershock: fix aegis ammo mismatch ([#79242](https://github.com/CleverRaven/Cataclysm-DDA/pull/79242))
