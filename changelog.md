@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-25-0243 ([e1dae62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-0243))
+
 * Refactor pocket ([#79305](https://github.com/CleverRaven/Cataclysm-DDA/pull/79305))
 * Better descriptions for brewing ([#79273](https://github.com/CleverRaven/Cataclysm-DDA/pull/79273))
 
@@ -190,11 +195,6 @@
 * [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))
 * Fix minor issues with clang-tidy workflow ([#79234](https://github.com/CleverRaven/Cataclysm-DDA/pull/79234))
 * Ensure bleed test isn't failing due to clothing ([#79227](https://github.com/CleverRaven/Cataclysm-DDA/pull/79227))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-18-2131 ([d21d5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-2131))
-
 * typified sm_pos in vehicle ([#79208](https://github.com/CleverRaven/Cataclysm-DDA/pull/79208))
 * Fix font mistake on zh_CN and zh_TW ([#79228](https://github.com/CleverRaven/Cataclysm-DDA/pull/79228))
 * Mics EoC edits ([#79169](https://github.com/CleverRaven/Cataclysm-DDA/pull/79169))
