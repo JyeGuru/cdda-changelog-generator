@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-25-1139 (a40b4ff)
+* Remove legacy electronic storage code + small e-storage fixes (#79306)
+
 Cataclysm-DDA experimental build 2025-01-25-0243 (e1dae62)
 * Refactor pocket (#79305)
 * Better descriptions for brewing (#79273)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-01-20-0227 (7dfc0c4)
 
 Cataclysm-DDA experimental build 2025-01-19-2314 (5391dcd)
 * Aftershock: fix aegis ammo mismatch (#79242)
-
-Cataclysm-DDA experimental build 2025-01-19-1749 (69dc010)
 * [Aftershock] Update Moderately Dangerous Robot Monster Group (#79246)
 * Fix minor issues with clang-tidy workflow (#79234)
 * Ensure bleed test isn't failing due to clothing (#79227)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-01-19-1749 (69dc010)
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash (#79163)
 * typified a-f (#79155)
 * [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' (#79153)
-* [Magiclysm] Fix werewolf aura (#79151)
