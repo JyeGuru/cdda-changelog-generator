@@ -1,3 +1,10 @@
+* misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-25-2051 ([c6822e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-2051))
+
+* Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
 
 ---
 
@@ -44,12 +51,6 @@
 * [Aftershock] Fix: You need an armament license to buy combat suits ([#79308](https://github.com/CleverRaven/Cataclysm-DDA/pull/79308))
 * Expand responses for first exodii mission ([#79280](https://github.com/CleverRaven/Cataclysm-DDA/pull/79280))
 * Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-24-0229 ([6f03c5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-24-0229))
-
-* [MoM] Add some more nether attunement consequences ([#79159](https://github.com/CleverRaven/Cataclysm-DDA/pull/79159))
 
 ---
 
@@ -187,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-01-20-0425 ([860a7f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0425))
 
 * [MoM] Psionics `magic_type` edits ([#79238](https://github.com/CleverRaven/Cataclysm-DDA/pull/79238))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-20-0227 ([7dfc0c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0227))
-
 * set default_value bodypart_str_id::NULL_ID() correctly ([#79248](https://github.com/CleverRaven/Cataclysm-DDA/pull/79248))
 * Aftershock: fix aegis ammo mismatch ([#79242](https://github.com/CleverRaven/Cataclysm-DDA/pull/79242))
 * [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))
@@ -232,4 +228,3 @@
 * Fix MSVC build with lld linker ([#79178](https://github.com/CleverRaven/Cataclysm-DDA/pull/79178))
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
-* typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
