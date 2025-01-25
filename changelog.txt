@@ -1,3 +1,8 @@
+* Refactor pocket (#79305)
+* Better descriptions for brewing (#79273)
+
+Cataclysm-DDA experimental build 2025-01-25-0046 (968b321)
+* [MoM] Update PowerDescriptionSpoilers.md (#79315)
 
 Cataclysm-DDA experimental build 2025-01-24-1813 (42b6916)
 * NECC Mission Clarification: Renewable Energy (#79318)
@@ -107,8 +112,6 @@ Cataclysm-DDA experimental build 2025-01-19-1749 (69dc010)
 
 Cataclysm-DDA experimental build 2025-01-18-2131 (d21d5f2)
 * typified sm_pos in vehicle (#79208)
-
-Cataclysm-DDA experimental build 2025-01-18-1942 (018223c)
 * Fix font mistake on zh_CN and zh_TW (#79228)
 * Mics EoC edits (#79169)
 * Routine i18n updates on 18 January 2025 (#79223)
@@ -144,8 +147,5 @@ Cataclysm-DDA experimental build 2025-01-18-1942 (018223c)
 * Fix compile error (#79172)
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash (#79163)
 * typified a-f (#79155)
-* [Aftershock] UICA Shuttle Bases (#79144)
-* [Aftershock] Add human++ genemods (#79149)
 * [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' (#79153)
 * [Magiclysm] Fix werewolf aura (#79151)
-* [MoM] Add null grenades (#79147)

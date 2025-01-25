@@ -1,3 +1,11 @@
+* Refactor pocket ([#79305](https://github.com/CleverRaven/Cataclysm-DDA/pull/79305))
+* Better descriptions for brewing ([#79273](https://github.com/CleverRaven/Cataclysm-DDA/pull/79273))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-25-0046 ([968b321](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-0046))
+
+* [MoM] Update PowerDescriptionSpoilers.md ([#79315](https://github.com/CleverRaven/Cataclysm-DDA/pull/79315))
 
 ---
 
@@ -188,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-01-18-2131 ([d21d5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-2131))
 
 * typified sm_pos in vehicle ([#79208](https://github.com/CleverRaven/Cataclysm-DDA/pull/79208))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-18-1942 ([018223c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-18-1942))
-
 * Fix font mistake on zh_CN and zh_TW ([#79228](https://github.com/CleverRaven/Cataclysm-DDA/pull/79228))
 * Mics EoC edits ([#79169](https://github.com/CleverRaven/Cataclysm-DDA/pull/79169))
 * Routine i18n updates on 18 January 2025 ([#79223](https://github.com/CleverRaven/Cataclysm-DDA/pull/79223))
@@ -228,8 +231,5 @@
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
 * [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
 * typified a-f ([#79155](https://github.com/CleverRaven/Cataclysm-DDA/pull/79155))
-* [Aftershock] UICA Shuttle Bases ([#79144](https://github.com/CleverRaven/Cataclysm-DDA/pull/79144))
-* [Aftershock] Add human++ genemods ([#79149](https://github.com/CleverRaven/Cataclysm-DDA/pull/79149))
 * [Magiclysm] Rename 'Introduction to the Divine' to 'The Limits of Magical Recovery' ([#79153](https://github.com/CleverRaven/Cataclysm-DDA/pull/79153))
 * [Magiclysm] Fix werewolf aura ([#79151](https://github.com/CleverRaven/Cataclysm-DDA/pull/79151))
-* [MoM] Add null grenades ([#79147](https://github.com/CleverRaven/Cataclysm-DDA/pull/79147))
