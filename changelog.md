@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-26-1616 ([0e5716c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-1616))
+
+* Electronic storage overhaul migration fix ([#79311](https://github.com/CleverRaven/Cataclysm-DDA/pull/79311))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-26-0153 ([1f55014](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-0153))
 
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-01-20-1720 ([542c248](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-1720))
 
 * Reorder leather backpack pockets ([#79204](https://github.com/CleverRaven/Cataclysm-DDA/pull/79204))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-20-0858 ([7278eab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0858))
-
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
 * Standardized get/set pos operations for talker/creature class hierarchy ([#79206](https://github.com/CleverRaven/Cataclysm-DDA/pull/79206))
 * Shotgun shell dispersion refactor ([#79217](https://github.com/CleverRaven/Cataclysm-DDA/pull/79217))
@@ -220,7 +221,6 @@
 * [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
 * [ Xedra Evolved ] Fix Renfield Drops ([#79166](https://github.com/CleverRaven/Cataclysm-DDA/pull/79166))
-* [Magiclysm] Remove duplicate religious professions ([#79162](https://github.com/CleverRaven/Cataclysm-DDA/pull/79162))
 * Rename map:: get_global->get_abs, bub_from_abs->get_bub, omt_from_abs->get_omt ([#79167](https://github.com/CleverRaven/Cataclysm-DDA/pull/79167))
 * Remove useless mapgen weights ([#79168](https://github.com/CleverRaven/Cataclysm-DDA/pull/79168))
 * monstergroup "name" to "id" ([#79177](https://github.com/CleverRaven/Cataclysm-DDA/pull/79177))

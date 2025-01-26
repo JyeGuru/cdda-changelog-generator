@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-26-1616 (0e5716c)
+* Electronic storage overhaul migration fix (#79311)
+
 Cataclysm-DDA experimental build 2025-01-26-0153 (1f55014)
 * refactor `map::shoot` bashing, part 1 (#79333)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2025-01-20-2037 (5e4134a)
 
 Cataclysm-DDA experimental build 2025-01-20-1720 (542c248)
 * Reorder leather backpack pockets (#79204)
-
-Cataclysm-DDA experimental build 2025-01-20-0858 (7278eab)
 * [MoM] Add focus to magic_type calculation (#79254)
 * Standardized get/set pos operations for talker/creature class hierarchy (#79206)
 * Shotgun shell dispersion refactor (#79217)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-01-20-0858 (7278eab)
 * [MoM] Astral form can walk on water (#79192)
 * [MoM] Update and simplify Nether Attunement backlash EoC (#79175)
 * [ Xedra Evolved ] Fix Renfield Drops (#79166)
-* [Magiclysm] Remove duplicate religious professions (#79162)
 * Rename map:: get_global->get_abs, bub_from_abs->get_bub, omt_from_abs->get_omt (#79167)
 * Remove useless mapgen weights (#79168)
 * monstergroup "name" to "id" (#79177)
