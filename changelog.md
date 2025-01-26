@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-26-0153 ([1f55014](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-0153))
+
+* refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-25-2247 ([e2c41d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-2247))
 
 * misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
@@ -181,11 +187,6 @@
 * [Xedra Evolved] Paraclesians passively gain traits (if they spend time in their native environment) ([#79240](https://github.com/CleverRaven/Cataclysm-DDA/pull/79240))
 * [Xedra Evolved] Fix ierde sleep of stone trait / ban interaction ([#79245](https://github.com/CleverRaven/Cataclysm-DDA/pull/79245))
 * Fix clang-tidy running on pushes to master branch ([#79247](https://github.com/CleverRaven/Cataclysm-DDA/pull/79247))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-20-0709 ([4e55a48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-0709))
-
 * [MoM] Add Loci Establishment to power ending EOCs ([#79251](https://github.com/CleverRaven/Cataclysm-DDA/pull/79251))
 * [MoM] Psionics `magic_type` edits ([#79238](https://github.com/CleverRaven/Cataclysm-DDA/pull/79238))
 * set default_value bodypart_str_id::NULL_ID() correctly ([#79248](https://github.com/CleverRaven/Cataclysm-DDA/pull/79248))
@@ -218,7 +219,6 @@
 * [MoM] Fix Research Facility having an oldlab underneath ([#79191](https://github.com/CleverRaven/Cataclysm-DDA/pull/79191))
 * [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
-* Assort doc files into appropriate subfolders for easier navigation ([#79160](https://github.com/CleverRaven/Cataclysm-DDA/pull/79160))
 * [ Xedra Evolved ] Fix Renfield Drops ([#79166](https://github.com/CleverRaven/Cataclysm-DDA/pull/79166))
 * [Magiclysm] Remove duplicate religious professions ([#79162](https://github.com/CleverRaven/Cataclysm-DDA/pull/79162))
 * Rename map:: get_global->get_abs, bub_from_abs->get_bub, omt_from_abs->get_omt ([#79167](https://github.com/CleverRaven/Cataclysm-DDA/pull/79167))
