@@ -1,3 +1,6 @@
+* Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
+* Pathfinding: Prevent NPCs to jump to open air ([#79314](https://github.com/CleverRaven/Cataclysm-DDA/pull/79314))
+* Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
 
 ---
 
@@ -220,11 +223,9 @@
 * [MoM] Fix Research Facility having an oldlab underneath ([#79191](https://github.com/CleverRaven/Cataclysm-DDA/pull/79191))
 * [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
-* [ Xedra Evolved ] Fix Renfield Drops ([#79166](https://github.com/CleverRaven/Cataclysm-DDA/pull/79166))
 * Rename map:: get_global->get_abs, bub_from_abs->get_bub, omt_from_abs->get_omt ([#79167](https://github.com/CleverRaven/Cataclysm-DDA/pull/79167))
 * Remove useless mapgen weights ([#79168](https://github.com/CleverRaven/Cataclysm-DDA/pull/79168))
 * monstergroup "name" to "id" ([#79177](https://github.com/CleverRaven/Cataclysm-DDA/pull/79177))
 * Remove string spawn item overloads ([#79173](https://github.com/CleverRaven/Cataclysm-DDA/pull/79173))
 * Fix MSVC build with lld linker ([#79178](https://github.com/CleverRaven/Cataclysm-DDA/pull/79178))
 * Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
-* [MoM] Concentrating on powers at higher Nether Attunement has a chance of backlash ([#79163](https://github.com/CleverRaven/Cataclysm-DDA/pull/79163))
