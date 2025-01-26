@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-26-1825 (aea8979)
 * fix `map cache` item/EOC (#79307)
 * Aftershock: Add ETC firmware gunmods to Caseless military weapons. (#79313)
 * Don't hardcode help text: Overmap filter popup (#79325)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-26-1825 ([aea8979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-1825))
+
 * fix `map cache` item/EOC ([#79307](https://github.com/CleverRaven/Cataclysm-DDA/pull/79307))
 * Aftershock: Add ETC firmware gunmods to Caseless military weapons. ([#79313](https://github.com/CleverRaven/Cataclysm-DDA/pull/79313))
 * Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
