@@ -230,7 +230,6 @@
 * [Xedra Evolved] Fix Paraclesian summon spells ([#79215](https://github.com/CleverRaven/Cataclysm-DDA/pull/79215))
 * Evacuee wording ([#79203](https://github.com/CleverRaven/Cataclysm-DDA/pull/79203))
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit ([#79218](https://github.com/CleverRaven/Cataclysm-DDA/pull/79218))
-* Prevent initialising an activity actor's type every turn it's active ([#79194](https://github.com/CleverRaven/Cataclysm-DDA/pull/79194))
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
 * [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
 * Fix Debug configuration linking with MSVS + lld ([#79196](https://github.com/CleverRaven/Cataclysm-DDA/pull/79196))
