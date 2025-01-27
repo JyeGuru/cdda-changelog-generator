@@ -1,5 +1,10 @@
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
 * clear items in npc_test ([#79300](https://github.com/CleverRaven/Cataclysm-DDA/pull/79300))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-27-0950 ([f7598f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-0950))
+
 * [XE] Add new goblin fruits ([#79319](https://github.com/CleverRaven/Cataclysm-DDA/pull/79319))
 * Don't do map processing of critters off the map ([#79336](https://github.com/CleverRaven/Cataclysm-DDA/pull/79336))
 * Clarify ALLOWS_BODY_BLOCKS flag description ([#79346](https://github.com/CleverRaven/Cataclysm-DDA/pull/79346))
@@ -196,11 +201,6 @@
 
 * [Aftershock] Labbits eat lichen and aren't born as adults ([#79252](https://github.com/CleverRaven/Cataclysm-DDA/pull/79252))
 * Fix batteries ([#79264](https://github.com/CleverRaven/Cataclysm-DDA/pull/79264))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-21-0222 ([39c7c9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0222))
-
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
 * Reorder leather backpack pockets ([#79204](https://github.com/CleverRaven/Cataclysm-DDA/pull/79204))

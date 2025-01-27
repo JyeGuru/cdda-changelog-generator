@@ -1,5 +1,7 @@
 * Fix broken EFilePocket on Integrated AR Bionic (#79361)
 * clear items in npc_test (#79300)
+
+Cataclysm-DDA experimental build 2025-01-27-0950 (f7598f1)
 * [XE] Add new goblin fruits (#79319)
 * Don't do map processing of critters off the map (#79336)
 * Clarify ALLOWS_BODY_BLOCKS flag description (#79346)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2025-01-21-0620 (0012d9d)
 Cataclysm-DDA experimental build 2025-01-21-0415 (8e21b2c)
 * [Aftershock] Labbits eat lichen and aren't born as adults (#79252)
 * Fix batteries (#79264)
-
-Cataclysm-DDA experimental build 2025-01-21-0222 (39c7c9a)
 * Roadstop Foodcart Generator (#79268)
 * [Aftershock] Shuttlepad Salvor Encampment mapgen (#79257)
 * Reorder leather backpack pockets (#79204)
