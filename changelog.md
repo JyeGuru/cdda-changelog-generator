@@ -1,3 +1,5 @@
+* add an electric rechargeable lighter ([#79337](https://github.com/CleverRaven/Cataclysm-DDA/pull/79337))
+* [Aftershock] Augustmoon Traders use loot zones ([#79349](https://github.com/CleverRaven/Cataclysm-DDA/pull/79349))
 * Add apt-get update step into the clang-tidy job ([#79344](https://github.com/CleverRaven/Cataclysm-DDA/pull/79344))
 * Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
 
@@ -226,8 +228,6 @@
 * Prevent initialising an activity actor's type every turn it's active ([#79194](https://github.com/CleverRaven/Cataclysm-DDA/pull/79194))
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
 * [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
-* fix not being able to move items with charges with AIM ([#79183](https://github.com/CleverRaven/Cataclysm-DDA/pull/79183))
-* Typify g - lightmap ([#79185](https://github.com/CleverRaven/Cataclysm-DDA/pull/79185))
 * [MoM] Concentration level/proficiencies affect your odds of backlash during concentration ([#79188](https://github.com/CleverRaven/Cataclysm-DDA/pull/79188))
 * Expand NULL_ID() usage ([#79190](https://github.com/CleverRaven/Cataclysm-DDA/pull/79190))
 * Fix Debug configuration linking with MSVS + lld ([#79196](https://github.com/CleverRaven/Cataclysm-DDA/pull/79196))
