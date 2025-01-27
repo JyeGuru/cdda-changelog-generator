@@ -1,3 +1,5 @@
+* Add part bonus to rotor diameter in thrust calculations ([#79328](https://github.com/CleverRaven/Cataclysm-DDA/pull/79328))
+* [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 
 ---
 
@@ -231,6 +233,4 @@
 * [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
 * [MoM] Update and simplify Nether Attunement backlash EoC ([#79175](https://github.com/CleverRaven/Cataclysm-DDA/pull/79175))
 * monstergroup "name" to "id" ([#79177](https://github.com/CleverRaven/Cataclysm-DDA/pull/79177))
-* Remove string spawn item overloads ([#79173](https://github.com/CleverRaven/Cataclysm-DDA/pull/79173))
 * Fix MSVC build with lld linker ([#79178](https://github.com/CleverRaven/Cataclysm-DDA/pull/79178))
-* Fix compile error ([#79172](https://github.com/CleverRaven/Cataclysm-DDA/pull/79172))
