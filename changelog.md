@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-27-0310 ([7bb0568](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-0310))
+
+* [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-26-1825 ([aea8979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-1825))
 
 * fix `map cache` item/EOC ([#79307](https://github.com/CleverRaven/Cataclysm-DDA/pull/79307))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-01-20-2037 ([5e4134a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-2037))
 
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-20-1720 ([542c248](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-1720))
-
 * Reorder leather backpack pockets ([#79204](https://github.com/CleverRaven/Cataclysm-DDA/pull/79204))
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
 * Standardized get/set pos operations for talker/creature class hierarchy ([#79206](https://github.com/CleverRaven/Cataclysm-DDA/pull/79206))
@@ -207,7 +208,6 @@
 * Ensure bleed test isn't failing due to clothing ([#79227](https://github.com/CleverRaven/Cataclysm-DDA/pull/79227))
 * typified sm_pos in vehicle ([#79208](https://github.com/CleverRaven/Cataclysm-DDA/pull/79208))
 * Fix font mistake on zh_CN and zh_TW ([#79228](https://github.com/CleverRaven/Cataclysm-DDA/pull/79228))
-* Mics EoC edits ([#79169](https://github.com/CleverRaven/Cataclysm-DDA/pull/79169))
 * Routine i18n updates on 18 January 2025 ([#79223](https://github.com/CleverRaven/Cataclysm-DDA/pull/79223))
 * Fix cmake lint ([#79224](https://github.com/CleverRaven/Cataclysm-DDA/pull/79224))
 * Commit zstd source and license to notices ([#79220](https://github.com/CleverRaven/Cataclysm-DDA/pull/79220))
