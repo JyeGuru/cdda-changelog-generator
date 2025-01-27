@@ -1,3 +1,10 @@
+* Add apt-get update step into the clang-tidy job ([#79344](https://github.com/CleverRaven/Cataclysm-DDA/pull/79344))
+* Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-27-0615 ([6892702](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-0615))
+
 * Fix dirt floor durability and materials ([#79348](https://github.com/CleverRaven/Cataclysm-DDA/pull/79348))
 * Don't hardcode help text: List Items filter popup ([#79355](https://github.com/CleverRaven/Cataclysm-DDA/pull/79355))
 * Add part bonus to rotor diameter in thrust calculations ([#79328](https://github.com/CleverRaven/Cataclysm-DDA/pull/79328))
@@ -187,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-01-21-0222 ([39c7c9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0222))
 
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-20-2037 ([5e4134a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-20-2037))
-
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
 * Reorder leather backpack pockets ([#79204](https://github.com/CleverRaven/Cataclysm-DDA/pull/79204))
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
@@ -224,7 +226,6 @@
 * Prevent initialising an activity actor's type every turn it's active ([#79194](https://github.com/CleverRaven/Cataclysm-DDA/pull/79194))
 * [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
 * [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
-* use typed point in android code ([#79182](https://github.com/CleverRaven/Cataclysm-DDA/pull/79182))
 * fix not being able to move items with charges with AIM ([#79183](https://github.com/CleverRaven/Cataclysm-DDA/pull/79183))
 * Typify g - lightmap ([#79185](https://github.com/CleverRaven/Cataclysm-DDA/pull/79185))
 * [MoM] Concentration level/proficiencies affect your odds of backlash during concentration ([#79188](https://github.com/CleverRaven/Cataclysm-DDA/pull/79188))
@@ -233,4 +234,3 @@
 * [Magiclysm] Forge merchants start with denarii ([#79189](https://github.com/CleverRaven/Cataclysm-DDA/pull/79189))
 * [MoM] Fix Research Facility having an oldlab underneath ([#79191](https://github.com/CleverRaven/Cataclysm-DDA/pull/79191))
 * [MoM] Astral form can walk on water ([#79192](https://github.com/CleverRaven/Cataclysm-DDA/pull/79192))
-* Fix MSVC build with lld linker ([#79178](https://github.com/CleverRaven/Cataclysm-DDA/pull/79178))
