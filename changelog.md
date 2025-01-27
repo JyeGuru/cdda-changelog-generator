@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-27-1239 ([d95d165](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-1239))
+
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
 * clear items in npc_test ([#79300](https://github.com/CleverRaven/Cataclysm-DDA/pull/79300))
 
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-01-21-0620 ([0012d9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0620))
 
 * [MOM] Make experience formulas take into account focus enchants ([#79262](https://github.com/CleverRaven/Cataclysm-DDA/pull/79262))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-21-0415 ([8e21b2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0415))
-
 * [Aftershock] Labbits eat lichen and aren't born as adults ([#79252](https://github.com/CleverRaven/Cataclysm-DDA/pull/79252))
 * Fix batteries ([#79264](https://github.com/CleverRaven/Cataclysm-DDA/pull/79264))
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))

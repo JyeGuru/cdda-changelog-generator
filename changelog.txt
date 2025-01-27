@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-27-1239 (d95d165)
 * Fix broken EFilePocket on Integrated AR Bionic (#79361)
 * clear items in npc_test (#79300)
 
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2025-01-21-0816 (953dbcf)
 
 Cataclysm-DDA experimental build 2025-01-21-0620 (0012d9d)
 * [MOM] Make experience formulas take into account focus enchants (#79262)
-
-Cataclysm-DDA experimental build 2025-01-21-0415 (8e21b2c)
 * [Aftershock] Labbits eat lichen and aren't born as adults (#79252)
 * Fix batteries (#79264)
 * Roadstop Foodcart Generator (#79268)
