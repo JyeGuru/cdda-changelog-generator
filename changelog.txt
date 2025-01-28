@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-28-0547 (98b513f)
 * [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain (#79384)
 
 Cataclysm-DDA experimental build 2025-01-28-0308 (9001cba)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2025-01-22-0552 (eb012c4)
 Cataclysm-DDA experimental build 2025-01-22-0037 (f681a80)
 * typified l-n (#79265)
 * [Xedra Evolved] Update Iron Allergy EoCs (#79272)
-
-Cataclysm-DDA experimental build 2025-01-21-2254 (0230a96)
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you (#79269)
 * SKIP_DEFAULT_BACKGROUND (#79243)
 * Aftershock: Miscelaneous small fixes (#79244)
