@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-28-1359 ([82ff1e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-1359))
+
+* Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-28-0753 ([e433893](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0753))
 
 * [Xedra Evolved] Add more changeling traits ([#79312](https://github.com/CleverRaven/Cataclysm-DDA/pull/79312))
@@ -198,11 +204,6 @@
 * fix wrong temp-delta conversion for windchill message  ([#79274](https://github.com/CleverRaven/Cataclysm-DDA/pull/79274))
 * Don't hardcode help text: Zones Manager ([#79286](https://github.com/CleverRaven/Cataclysm-DDA/pull/79286))
 * Weekly Changelog 2025-01-13 to 2025-01-20 ([#79255](https://github.com/CleverRaven/Cataclysm-DDA/pull/79255))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-22-0552 ([eb012c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-0552))
-
 * [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. ([#79283](https://github.com/CleverRaven/Cataclysm-DDA/pull/79283))
 * typified l-n ([#79265](https://github.com/CleverRaven/Cataclysm-DDA/pull/79265))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
@@ -231,4 +232,3 @@
 * Aftershock: fix aegis ammo mismatch ([#79242](https://github.com/CleverRaven/Cataclysm-DDA/pull/79242))
 * [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))
 * Fix minor issues with clang-tidy workflow ([#79234](https://github.com/CleverRaven/Cataclysm-DDA/pull/79234))
-* Fix font mistake on zh_CN and zh_TW ([#79228](https://github.com/CleverRaven/Cataclysm-DDA/pull/79228))
