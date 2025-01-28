@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-28-0308 ([9001cba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0308))
+
+* Add boards and amenities to NPC faction camps ([#79367](https://github.com/CleverRaven/Cataclysm-DDA/pull/79367))
 * [MoM] Change the Power Spoilers document for ease of browsing ([#79345](https://github.com/CleverRaven/Cataclysm-DDA/pull/79345))
 * Ebooks: fix scanning and crafting menu info ([#79354](https://github.com/CleverRaven/Cataclysm-DDA/pull/79354))
 * [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-01-21-2254 ([0230a96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-2254))
 
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-21-0816 ([953dbcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0816))
-
 * SKIP_DEFAULT_BACKGROUND ([#79243](https://github.com/CleverRaven/Cataclysm-DDA/pull/79243))
 * Aftershock: Miscelaneous small fixes ([#79244](https://github.com/CleverRaven/Cataclysm-DDA/pull/79244))
 * Bugfix: Fix spell cost from magic type ([#79259](https://github.com/CleverRaven/Cataclysm-DDA/pull/79259))
@@ -207,7 +208,6 @@
 * Fix batteries ([#79264](https://github.com/CleverRaven/Cataclysm-DDA/pull/79264))
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
-* Reorder leather backpack pockets ([#79204](https://github.com/CleverRaven/Cataclysm-DDA/pull/79204))
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
 * Standardized get/set pos operations for talker/creature class hierarchy ([#79206](https://github.com/CleverRaven/Cataclysm-DDA/pull/79206))
 * Shotgun shell dispersion refactor ([#79217](https://github.com/CleverRaven/Cataclysm-DDA/pull/79217))
