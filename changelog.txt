@@ -1,3 +1,4 @@
+* [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain (#79384)
 
 Cataclysm-DDA experimental build 2025-01-28-0308 (9001cba)
 * Add boards and amenities to NPC faction camps (#79367)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2025-01-21-2254 (0230a96)
 * Roadstop Foodcart Generator (#79268)
 * [Aftershock] Shuttlepad Salvor Encampment mapgen (#79257)
 * [MoM] Add focus to magic_type calculation (#79254)
-* Standardized get/set pos operations for talker/creature class hierarchy (#79206)
 * Shotgun shell dispersion refactor (#79217)
 * optimize sorting loot activity (#79230)
 * Aftershock: Two new bionics (#79232)

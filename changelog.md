@@ -1,3 +1,4 @@
+* [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain ([#79384](https://github.com/CleverRaven/Cataclysm-DDA/pull/79384))
 
 ---
 
@@ -209,7 +210,6 @@
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
-* Standardized get/set pos operations for talker/creature class hierarchy ([#79206](https://github.com/CleverRaven/Cataclysm-DDA/pull/79206))
 * Shotgun shell dispersion refactor ([#79217](https://github.com/CleverRaven/Cataclysm-DDA/pull/79217))
 * optimize sorting loot activity ([#79230](https://github.com/CleverRaven/Cataclysm-DDA/pull/79230))
 * Aftershock: Two new bionics ([#79232](https://github.com/CleverRaven/Cataclysm-DDA/pull/79232))
