@@ -1,3 +1,12 @@
+* [MoM] Change the Power Spoilers document for ease of browsing ([#79345](https://github.com/CleverRaven/Cataclysm-DDA/pull/79345))
+* Ebooks: fix scanning and crafting menu info ([#79354](https://github.com/CleverRaven/Cataclysm-DDA/pull/79354))
+* [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-28-0117 ([0e1b467](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0117))
+
+* document keg_capacity changes ([#79368](https://github.com/CleverRaven/Cataclysm-DDA/pull/79368))
 
 ---
 
@@ -193,11 +202,6 @@
 * Homullus Fae Sight Requirement and Undine Fish Magic Fix ([#79266](https://github.com/CleverRaven/Cataclysm-DDA/pull/79266))
 * Add message when trying to hack unhackable card-readers ([#79267](https://github.com/CleverRaven/Cataclysm-DDA/pull/79267))
 * [Xedra Evolved] Paraclesian spell scaling fixes ([#79271](https://github.com/CleverRaven/Cataclysm-DDA/pull/79271))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-21-0620 ([0012d9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-21-0620))
-
 * [MOM] Make experience formulas take into account focus enchants ([#79262](https://github.com/CleverRaven/Cataclysm-DDA/pull/79262))
 * [Aftershock] Labbits eat lichen and aren't born as adults ([#79252](https://github.com/CleverRaven/Cataclysm-DDA/pull/79252))
 * Fix batteries ([#79264](https://github.com/CleverRaven/Cataclysm-DDA/pull/79264))
@@ -226,9 +230,5 @@
 * Fix cmake lint ([#79224](https://github.com/CleverRaven/Cataclysm-DDA/pull/79224))
 * Commit zstd source and license to notices ([#79220](https://github.com/CleverRaven/Cataclysm-DDA/pull/79220))
 * [Aftershock] Audit Aftershock Mapgen for lighting consistency ([#79221](https://github.com/CleverRaven/Cataclysm-DDA/pull/79221))
-* Sabatons are armor ([#79201](https://github.com/CleverRaven/Cataclysm-DDA/pull/79201))
 * [Xedra Evolved] Fix Paraclesian summon spells ([#79215](https://github.com/CleverRaven/Cataclysm-DDA/pull/79215))
-* Evacuee wording ([#79203](https://github.com/CleverRaven/Cataclysm-DDA/pull/79203))
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit ([#79218](https://github.com/CleverRaven/Cataclysm-DDA/pull/79218))
-* [MoM] Switch mi-go psions to copy-from, giver the mindrender a power-based telepathic attack ([#79199](https://github.com/CleverRaven/Cataclysm-DDA/pull/79199))
-* [Aftershock] Gene Clinics ([#79197](https://github.com/CleverRaven/Cataclysm-DDA/pull/79197))
