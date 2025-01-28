@@ -1,3 +1,6 @@
+* Allow AIM unload into container ([#79375](https://github.com/CleverRaven/Cataclysm-DDA/pull/79375))
+* Minor generator-related fixes ([#79379](https://github.com/CleverRaven/Cataclysm-DDA/pull/79379))
+* Update MSVC builds' reported version ([#79383](https://github.com/CleverRaven/Cataclysm-DDA/pull/79383))
 
 ---
 
@@ -210,7 +213,6 @@
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
-* Shotgun shell dispersion refactor ([#79217](https://github.com/CleverRaven/Cataclysm-DDA/pull/79217))
 * optimize sorting loot activity ([#79230](https://github.com/CleverRaven/Cataclysm-DDA/pull/79230))
 * Aftershock: Two new bionics ([#79232](https://github.com/CleverRaven/Cataclysm-DDA/pull/79232))
 * Aftershock: Direct trade of cash cards and Mercurial faction ([#79236](https://github.com/CleverRaven/Cataclysm-DDA/pull/79236))
@@ -224,11 +226,9 @@
 * [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))
 * Fix minor issues with clang-tidy workflow ([#79234](https://github.com/CleverRaven/Cataclysm-DDA/pull/79234))
 * Ensure bleed test isn't failing due to clothing ([#79227](https://github.com/CleverRaven/Cataclysm-DDA/pull/79227))
-* typified sm_pos in vehicle ([#79208](https://github.com/CleverRaven/Cataclysm-DDA/pull/79208))
 * Fix font mistake on zh_CN and zh_TW ([#79228](https://github.com/CleverRaven/Cataclysm-DDA/pull/79228))
 * Routine i18n updates on 18 January 2025 ([#79223](https://github.com/CleverRaven/Cataclysm-DDA/pull/79223))
 * Fix cmake lint ([#79224](https://github.com/CleverRaven/Cataclysm-DDA/pull/79224))
 * Commit zstd source and license to notices ([#79220](https://github.com/CleverRaven/Cataclysm-DDA/pull/79220))
 * [Aftershock] Audit Aftershock Mapgen for lighting consistency ([#79221](https://github.com/CleverRaven/Cataclysm-DDA/pull/79221))
-* [Xedra Evolved] Fix Paraclesian summon spells ([#79215](https://github.com/CleverRaven/Cataclysm-DDA/pull/79215))
 * [Aftershock] Ensure Outfitter always has at least one full EVA suit ([#79218](https://github.com/CleverRaven/Cataclysm-DDA/pull/79218))
