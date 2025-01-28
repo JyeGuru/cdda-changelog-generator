@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-28-0753 ([e433893](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0753))
+
 * [Xedra Evolved] Add more changeling traits ([#79312](https://github.com/CleverRaven/Cataclysm-DDA/pull/79312))
 * Uncaring is annoying not intimidating ([#79320](https://github.com/CleverRaven/Cataclysm-DDA/pull/79320))
 * Add an option to allow players add full Chinese glyphs ranges. ([#79322](https://github.com/CleverRaven/Cataclysm-DDA/pull/79322))
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-01-22-0552 ([eb012c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-0552))
 
 * [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. ([#79283](https://github.com/CleverRaven/Cataclysm-DDA/pull/79283))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-22-0037 ([f681a80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-0037))
-
 * typified l-n ([#79265](https://github.com/CleverRaven/Cataclysm-DDA/pull/79265))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
