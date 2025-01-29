@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-29-2148 ([e02f107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-2148))
+
 * Chapters are Character-mapped for unique books ([#79388](https://github.com/CleverRaven/Cataclysm-DDA/pull/79388))
 
 ---
@@ -199,11 +204,6 @@
 * [Aftershock] Fix: You need an armament license to buy combat suits ([#79308](https://github.com/CleverRaven/Cataclysm-DDA/pull/79308))
 * Expand responses for first exodii mission ([#79280](https://github.com/CleverRaven/Cataclysm-DDA/pull/79280))
 * Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-23-1256 ([5ad4199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-1256))
-
 * Pin versions in setup-sdl2 workflow step since SDL3 was released ([#79297](https://github.com/CleverRaven/Cataclysm-DDA/pull/79297))
 * fix practice recipes giving progress item ([#79278](https://github.com/CleverRaven/Cataclysm-DDA/pull/79278))
 * ensure critters are loaded around explosion ([#79291](https://github.com/CleverRaven/Cataclysm-DDA/pull/79291))
