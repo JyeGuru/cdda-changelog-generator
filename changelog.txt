@@ -1,3 +1,4 @@
+* [Magiclysm] Valzain book selling fix (#79405)
 * "fix" angled include headers (#79390)
 
 Cataclysm-DDA experimental build 2025-01-29-1339 (a96bf09)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-01-23-0904 (c6a1f2d)
 * Fix clang-tidy running on pushes to master branch (#79247)
 * [MoM] Add Loci Establishment to power ending EOCs (#79251)
 * set default_value bodypart_str_id::NULL_ID() correctly (#79248)
-* [Aftershock] Update Moderately Dangerous Robot Monster Group (#79246)
