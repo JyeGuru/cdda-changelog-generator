@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-01-29-1944 (9baaa00)
+* fix aim move query amount showing wrong max amount (#79409)
+
 Cataclysm-DDA experimental build 2025-01-29-1641 (d478d52)
 * Add marshmallow fluff and fluffernutters (#79408)
 * [Magiclysm] Valzain book selling fix (#79405)
@@ -118,8 +121,6 @@ Cataclysm-DDA experimental build 2025-01-24-0453 (d4bf6c9)
 Cataclysm-DDA experimental build 2025-01-23-1256 (5ad4199)
 * Pin versions in setup-sdl2 workflow step since SDL3 was released (#79297)
 * fix practice recipes giving progress item (#79278)
-
-Cataclysm-DDA experimental build 2025-01-23-1057 (2d254a7)
 * ensure critters are loaded around explosion (#79291)
 * [Aftershock] Add Salvor Camp Vehicle Merchant (#79287)
 * Simple parts are always simple (#79275)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-01-23-1057 (2d254a7)
 * [Aftershock] Shuttlepad Salvor Encampment mapgen (#79257)
 * [MoM] Add focus to magic_type calculation (#79254)
 * [MoM] Add Loci Establishment to power ending EOCs (#79251)
-* set default_value bodypart_str_id::NULL_ID() correctly (#79248)
