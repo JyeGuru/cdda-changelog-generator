@@ -1,3 +1,4 @@
+* [Sky Island] Minor typo correction ([#79335](https://github.com/CleverRaven/Cataclysm-DDA/pull/79335))
 
 ---
 
@@ -231,5 +232,4 @@
 * Fix clang-tidy running on pushes to master branch ([#79247](https://github.com/CleverRaven/Cataclysm-DDA/pull/79247))
 * [MoM] Add Loci Establishment to power ending EOCs ([#79251](https://github.com/CleverRaven/Cataclysm-DDA/pull/79251))
 * set default_value bodypart_str_id::NULL_ID() correctly ([#79248](https://github.com/CleverRaven/Cataclysm-DDA/pull/79248))
-* Aftershock: fix aegis ammo mismatch ([#79242](https://github.com/CleverRaven/Cataclysm-DDA/pull/79242))
 * [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))

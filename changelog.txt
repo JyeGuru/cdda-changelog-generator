@@ -1,3 +1,4 @@
+* [Sky Island] Minor typo correction (#79335)
 
 Cataclysm-DDA experimental build 2025-01-29-0338 (255ea81)
 * Update gas mask item flags (#79369)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2025-01-23-0518 (a44eef2)
 * Fix clang-tidy running on pushes to master branch (#79247)
 * [MoM] Add Loci Establishment to power ending EOCs (#79251)
 * set default_value bodypart_str_id::NULL_ID() correctly (#79248)
-* Aftershock: fix aegis ammo mismatch (#79242)
 * [Aftershock] Update Moderately Dangerous Robot Monster Group (#79246)
