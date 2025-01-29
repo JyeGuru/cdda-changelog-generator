@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-29-0613 ([e78df8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-0613))
+
 * Add numpad binds for panning uilists ([#79330](https://github.com/CleverRaven/Cataclysm-DDA/pull/79330))
 * [Sky Island] Minor typo correction ([#79335](https://github.com/CleverRaven/Cataclysm-DDA/pull/79335))
 
@@ -203,11 +208,6 @@
 * Loot sorting: stop moving crafts in progress ([#79279](https://github.com/CleverRaven/Cataclysm-DDA/pull/79279))
 * [Xedra Evolved] Boann island updates ([#79284](https://github.com/CleverRaven/Cataclysm-DDA/pull/79284))
 * Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-23-0518 ([a44eef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-0518))
-
 * [Xedra Evolved] Arvore with enough power have neutrality from the triffids ([#79296](https://github.com/CleverRaven/Cataclysm-DDA/pull/79296))
 * [Sky Island] Update clear missions eoc ([#79289](https://github.com/CleverRaven/Cataclysm-DDA/pull/79289))
 * fix wrong temp-delta conversion for windchill message  ([#79274](https://github.com/CleverRaven/Cataclysm-DDA/pull/79274))

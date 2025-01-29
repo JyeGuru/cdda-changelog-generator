@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-29-0613 (e78df8b)
 * Add numpad binds for panning uilists (#79330)
 * [Sky Island] Minor typo correction (#79335)
 
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2025-01-23-0707 (77939d0)
 * Loot sorting: stop moving crafts in progress (#79279)
 * [Xedra Evolved] Boann island updates (#79284)
 * Make the pump station sewer station stinky (#79294)
-
-Cataclysm-DDA experimental build 2025-01-23-0518 (a44eef2)
 * [Xedra Evolved] Arvore with enough power have neutrality from the triffids (#79296)
 * [Sky Island] Update clear missions eoc (#79289)
 * fix wrong temp-delta conversion for windchill message  (#79274)
