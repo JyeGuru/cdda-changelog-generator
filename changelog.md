@@ -1,3 +1,4 @@
+* Chapters are Character-mapped for unique books ([#79388](https://github.com/CleverRaven/Cataclysm-DDA/pull/79388))
 
 ---
 
@@ -232,4 +233,3 @@
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
-* [MoM] Add Loci Establishment to power ending EOCs ([#79251](https://github.com/CleverRaven/Cataclysm-DDA/pull/79251))
