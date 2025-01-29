@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-01-29-1641 (d478d52)
 * Add marshmallow fluff and fluffernutters (#79408)
 * [Magiclysm] Valzain book selling fix (#79405)
 * "fix" angled include headers (#79390)
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2025-01-23-1256 (5ad4199)
 
 Cataclysm-DDA experimental build 2025-01-23-1057 (2d254a7)
 * ensure critters are loaded around explosion (#79291)
-
-Cataclysm-DDA experimental build 2025-01-23-0904 (c6a1f2d)
 * [Aftershock] Add Salvor Camp Vehicle Merchant (#79287)
 * Simple parts are always simple (#79275)
 * [MoM] Fix loci establishment message (#79293)

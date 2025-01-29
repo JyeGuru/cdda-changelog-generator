@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-29-1641 ([d478d52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-1641))
+
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
 * "fix" angled include headers ([#79390](https://github.com/CleverRaven/Cataclysm-DDA/pull/79390))
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-01-23-1057 ([2d254a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-1057))
 
 * ensure critters are loaded around explosion ([#79291](https://github.com/CleverRaven/Cataclysm-DDA/pull/79291))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-23-0904 ([c6a1f2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-0904))
-
 * [Aftershock] Add Salvor Camp Vehicle Merchant ([#79287](https://github.com/CleverRaven/Cataclysm-DDA/pull/79287))
 * Simple parts are always simple ([#79275](https://github.com/CleverRaven/Cataclysm-DDA/pull/79275))
 * [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
