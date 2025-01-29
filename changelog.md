@@ -1,3 +1,10 @@
+* "fix" angled include headers ([#79390](https://github.com/CleverRaven/Cataclysm-DDA/pull/79390))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-29-1339 ([a96bf09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-1339))
+
+* [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
 
 ---
 
@@ -197,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-01-23-0904 ([c6a1f2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-0904))
 
 * [Aftershock] Add Salvor Camp Vehicle Merchant ([#79287](https://github.com/CleverRaven/Cataclysm-DDA/pull/79287))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-23-0707 ([77939d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-23-0707))
-
 * Simple parts are always simple ([#79275](https://github.com/CleverRaven/Cataclysm-DDA/pull/79275))
 * [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
 * [Innawoods] Add cable to innawoods-specific electrolysis kit ([#79295](https://github.com/CleverRaven/Cataclysm-DDA/pull/79295))
@@ -217,7 +219,6 @@
 * typified l-n ([#79265](https://github.com/CleverRaven/Cataclysm-DDA/pull/79265))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
-* Aftershock: Miscelaneous small fixes ([#79244](https://github.com/CleverRaven/Cataclysm-DDA/pull/79244))
 * Bugfix: Fix spell cost from magic type ([#79259](https://github.com/CleverRaven/Cataclysm-DDA/pull/79259))
 * Homullus Fae Sight Requirement and Undine Fish Magic Fix ([#79266](https://github.com/CleverRaven/Cataclysm-DDA/pull/79266))
 * Add message when trying to hack unhackable card-readers ([#79267](https://github.com/CleverRaven/Cataclysm-DDA/pull/79267))
@@ -228,7 +229,6 @@
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
-* [Xedra Evolved] Fix ierde sleep of stone trait / ban interaction ([#79245](https://github.com/CleverRaven/Cataclysm-DDA/pull/79245))
 * Fix clang-tidy running on pushes to master branch ([#79247](https://github.com/CleverRaven/Cataclysm-DDA/pull/79247))
 * [MoM] Add Loci Establishment to power ending EOCs ([#79251](https://github.com/CleverRaven/Cataclysm-DDA/pull/79251))
 * set default_value bodypart_str_id::NULL_ID() correctly ([#79248](https://github.com/CleverRaven/Cataclysm-DDA/pull/79248))
