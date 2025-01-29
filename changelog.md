@@ -1,3 +1,4 @@
+* Add numpad binds for panning uilists ([#79330](https://github.com/CleverRaven/Cataclysm-DDA/pull/79330))
 * [Sky Island] Minor typo correction ([#79335](https://github.com/CleverRaven/Cataclysm-DDA/pull/79335))
 
 ---
@@ -216,7 +217,6 @@
 * typified l-n ([#79265](https://github.com/CleverRaven/Cataclysm-DDA/pull/79265))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
-* SKIP_DEFAULT_BACKGROUND ([#79243](https://github.com/CleverRaven/Cataclysm-DDA/pull/79243))
 * Aftershock: Miscelaneous small fixes ([#79244](https://github.com/CleverRaven/Cataclysm-DDA/pull/79244))
 * Bugfix: Fix spell cost from magic type ([#79259](https://github.com/CleverRaven/Cataclysm-DDA/pull/79259))
 * Homullus Fae Sight Requirement and Undine Fish Magic Fix ([#79266](https://github.com/CleverRaven/Cataclysm-DDA/pull/79266))

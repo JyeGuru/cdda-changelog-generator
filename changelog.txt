@@ -1,3 +1,4 @@
+* Add numpad binds for panning uilists (#79330)
 * [Sky Island] Minor typo correction (#79335)
 
 Cataclysm-DDA experimental build 2025-01-29-0338 (255ea81)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2025-01-23-0518 (a44eef2)
 * typified l-n (#79265)
 * [Xedra Evolved] Update Iron Allergy EoCs (#79272)
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you (#79269)
-* SKIP_DEFAULT_BACKGROUND (#79243)
 * Aftershock: Miscelaneous small fixes (#79244)
 * Bugfix: Fix spell cost from magic type (#79259)
 * Homullus Fae Sight Requirement and Undine Fish Magic Fix (#79266)
