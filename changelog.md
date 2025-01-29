@@ -1,3 +1,15 @@
+* Update gas mask item flags ([#79369](https://github.com/CleverRaven/Cataclysm-DDA/pull/79369))
+* typified p-u ([#79373](https://github.com/CleverRaven/Cataclysm-DDA/pull/79373))
+* Fix clang-tidy warning about mispositioned translation comment ([#79394](https://github.com/CleverRaven/Cataclysm-DDA/pull/79394))
+* Implement (R)eading e-book requirements, fix etransfer_rate segfault ([#79387](https://github.com/CleverRaven/Cataclysm-DDA/pull/79387))
+* fix query popup not wrapping ([#79396](https://github.com/CleverRaven/Cataclysm-DDA/pull/79396))
+* Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-29-0126 ([3f77ca4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-0126))
+
+* Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
 
 ---
 
@@ -196,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2025-01-22-1256 ([18f379b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-1256))
 
 * [Sky Island] Update clear missions eoc ([#79289](https://github.com/CleverRaven/Cataclysm-DDA/pull/79289))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-22-0742 ([e22281c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-22-0742))
-
 * fix wrong temp-delta conversion for windchill message  ([#79274](https://github.com/CleverRaven/Cataclysm-DDA/pull/79274))
 * Don't hardcode help text: Zones Manager ([#79286](https://github.com/CleverRaven/Cataclysm-DDA/pull/79286))
 * Weekly Changelog 2025-01-13 to 2025-01-20 ([#79255](https://github.com/CleverRaven/Cataclysm-DDA/pull/79255))
@@ -220,15 +227,9 @@
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
 * [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
 * [MoM] Add focus to magic_type calculation ([#79254](https://github.com/CleverRaven/Cataclysm-DDA/pull/79254))
-* optimize sorting loot activity ([#79230](https://github.com/CleverRaven/Cataclysm-DDA/pull/79230))
-* Aftershock: Two new bionics ([#79232](https://github.com/CleverRaven/Cataclysm-DDA/pull/79232))
-* Aftershock: Direct trade of cash cards and Mercurial faction ([#79236](https://github.com/CleverRaven/Cataclysm-DDA/pull/79236))
-* [Xedra Evolved] Paraclesians passively gain traits (if they spend time in their native environment) ([#79240](https://github.com/CleverRaven/Cataclysm-DDA/pull/79240))
 * [Xedra Evolved] Fix ierde sleep of stone trait / ban interaction ([#79245](https://github.com/CleverRaven/Cataclysm-DDA/pull/79245))
 * Fix clang-tidy running on pushes to master branch ([#79247](https://github.com/CleverRaven/Cataclysm-DDA/pull/79247))
 * [MoM] Add Loci Establishment to power ending EOCs ([#79251](https://github.com/CleverRaven/Cataclysm-DDA/pull/79251))
-* [MoM] Psionics `magic_type` edits ([#79238](https://github.com/CleverRaven/Cataclysm-DDA/pull/79238))
 * set default_value bodypart_str_id::NULL_ID() correctly ([#79248](https://github.com/CleverRaven/Cataclysm-DDA/pull/79248))
 * Aftershock: fix aegis ammo mismatch ([#79242](https://github.com/CleverRaven/Cataclysm-DDA/pull/79242))
 * [Aftershock] Update Moderately Dangerous Robot Monster Group ([#79246](https://github.com/CleverRaven/Cataclysm-DDA/pull/79246))
-* Fix minor issues with clang-tidy workflow ([#79234](https://github.com/CleverRaven/Cataclysm-DDA/pull/79234))
