@@ -1,3 +1,6 @@
+* Optionally accept precise OMT coordinates in debug "Teleport - to specific overmap" function ([#79343](https://github.com/CleverRaven/Cataclysm-DDA/pull/79343))
+* a small handful of random insignificant code cleanups ([#79389](https://github.com/CleverRaven/Cataclysm-DDA/pull/79389))
+* Set system locale decimal separator as imgui Platform_LocaleDecimalPoint ([#79406](https://github.com/CleverRaven/Cataclysm-DDA/pull/79406))
 * typify the last of mapgen ([#79413](https://github.com/CleverRaven/Cataclysm-DDA/pull/79413))
 
 ---
@@ -225,16 +228,13 @@
 * [Sky Island] Update clear missions eoc ([#79289](https://github.com/CleverRaven/Cataclysm-DDA/pull/79289))
 * fix wrong temp-delta conversion for windchill message  ([#79274](https://github.com/CleverRaven/Cataclysm-DDA/pull/79274))
 * Don't hardcode help text: Zones Manager ([#79286](https://github.com/CleverRaven/Cataclysm-DDA/pull/79286))
-* Weekly Changelog 2025-01-13 to 2025-01-20 ([#79255](https://github.com/CleverRaven/Cataclysm-DDA/pull/79255))
 * [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. ([#79283](https://github.com/CleverRaven/Cataclysm-DDA/pull/79283))
 * typified l-n ([#79265](https://github.com/CleverRaven/Cataclysm-DDA/pull/79265))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
-* Bugfix: Fix spell cost from magic type ([#79259](https://github.com/CleverRaven/Cataclysm-DDA/pull/79259))
 * Homullus Fae Sight Requirement and Undine Fish Magic Fix ([#79266](https://github.com/CleverRaven/Cataclysm-DDA/pull/79266))
 * Add message when trying to hack unhackable card-readers ([#79267](https://github.com/CleverRaven/Cataclysm-DDA/pull/79267))
 * [Xedra Evolved] Paraclesian spell scaling fixes ([#79271](https://github.com/CleverRaven/Cataclysm-DDA/pull/79271))
 * [MOM] Make experience formulas take into account focus enchants ([#79262](https://github.com/CleverRaven/Cataclysm-DDA/pull/79262))
 * Fix batteries ([#79264](https://github.com/CleverRaven/Cataclysm-DDA/pull/79264))
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
-* [Aftershock] Shuttlepad Salvor Encampment mapgen ([#79257](https://github.com/CleverRaven/Cataclysm-DDA/pull/79257))
