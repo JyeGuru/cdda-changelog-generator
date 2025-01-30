@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-30-0905 ([8762277](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-0905))
+
 * Optionally accept precise OMT coordinates in debug "Teleport - to specific overmap" function ([#79343](https://github.com/CleverRaven/Cataclysm-DDA/pull/79343))
 * a small handful of random insignificant code cleanups ([#79389](https://github.com/CleverRaven/Cataclysm-DDA/pull/79389))
 * Set system locale decimal separator as imgui Platform_LocaleDecimalPoint ([#79406](https://github.com/CleverRaven/Cataclysm-DDA/pull/79406))
@@ -206,11 +211,6 @@
 
 * Update Overmap documentation to include missing field. ([#79309](https://github.com/CleverRaven/Cataclysm-DDA/pull/79309))
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` ([#79304](https://github.com/CleverRaven/Cataclysm-DDA/pull/79304))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-24-0453 ([d4bf6c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-24-0453))
-
 * [Aftershock] Fix: You need an armament license to buy combat suits ([#79308](https://github.com/CleverRaven/Cataclysm-DDA/pull/79308))
 * Expand responses for first exodii mission ([#79280](https://github.com/CleverRaven/Cataclysm-DDA/pull/79280))
 * Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
