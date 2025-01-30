@@ -1,3 +1,4 @@
+* FMS: losing limbs ([#79277](https://github.com/CleverRaven/Cataclysm-DDA/pull/79277))
 * [Xedra Evolved ] Casings from dreamsmith ([#79366](https://github.com/CleverRaven/Cataclysm-DDA/pull/79366))
 * [ Xedra Evolved ] Mad genius pocket dark age ([#79407](https://github.com/CleverRaven/Cataclysm-DDA/pull/79407))
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE ([#79415](https://github.com/CleverRaven/Cataclysm-DDA/pull/79415))
@@ -236,7 +237,6 @@
 * [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. ([#79283](https://github.com/CleverRaven/Cataclysm-DDA/pull/79283))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
-* Homullus Fae Sight Requirement and Undine Fish Magic Fix ([#79266](https://github.com/CleverRaven/Cataclysm-DDA/pull/79266))
 * Add message when trying to hack unhackable card-readers ([#79267](https://github.com/CleverRaven/Cataclysm-DDA/pull/79267))
 * [Xedra Evolved] Paraclesian spell scaling fixes ([#79271](https://github.com/CleverRaven/Cataclysm-DDA/pull/79271))
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
