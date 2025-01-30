@@ -1,3 +1,4 @@
+* Add options to sort item list by item name ([#79393](https://github.com/CleverRaven/Cataclysm-DDA/pull/79393))
 
 ---
 
@@ -237,6 +238,5 @@
 * [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. ([#79283](https://github.com/CleverRaven/Cataclysm-DDA/pull/79283))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
-* Add message when trying to hack unhackable card-readers ([#79267](https://github.com/CleverRaven/Cataclysm-DDA/pull/79267))
 * [Xedra Evolved] Paraclesian spell scaling fixes ([#79271](https://github.com/CleverRaven/Cataclysm-DDA/pull/79271))
 * Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
