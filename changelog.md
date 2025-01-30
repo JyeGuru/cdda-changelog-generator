@@ -1,3 +1,10 @@
+* [XE] Boann will use her magic against those who attack her. ([#79420](https://github.com/CleverRaven/Cataclysm-DDA/pull/79420))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-30-1229 ([79018e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1229))
+
+* Music Genre snippets ([#79417](https://github.com/CleverRaven/Cataclysm-DDA/pull/79417))
 
 ---
 
@@ -204,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2025-01-24-1813 ([42b6916](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-24-1813))
 
 * NECC Mission Clarification: Renewable Energy ([#79318](https://github.com/CleverRaven/Cataclysm-DDA/pull/79318))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-24-0651 ([d3be85f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-24-0651))
-
 * Update Overmap documentation to include missing field. ([#79309](https://github.com/CleverRaven/Cataclysm-DDA/pull/79309))
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` ([#79304](https://github.com/CleverRaven/Cataclysm-DDA/pull/79304))
 * [Aftershock] Fix: You need an armament license to buy combat suits ([#79308](https://github.com/CleverRaven/Cataclysm-DDA/pull/79308))
