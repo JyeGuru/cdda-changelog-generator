@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-30-1658 ([117147f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1658))
+
 * FMS: losing limbs ([#79277](https://github.com/CleverRaven/Cataclysm-DDA/pull/79277))
 * [Xedra Evolved ] Casings from dreamsmith ([#79366](https://github.com/CleverRaven/Cataclysm-DDA/pull/79366))
 * [ Xedra Evolved ] Mad genius pocket dark age ([#79407](https://github.com/CleverRaven/Cataclysm-DDA/pull/79407))
@@ -209,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2025-01-25-0046 ([968b321](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-0046))
 
 * [MoM] Update PowerDescriptionSpoilers.md ([#79315](https://github.com/CleverRaven/Cataclysm-DDA/pull/79315))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-24-1813 ([42b6916](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-24-1813))
-
 * NECC Mission Clarification: Renewable Energy ([#79318](https://github.com/CleverRaven/Cataclysm-DDA/pull/79318))
 * Update Overmap documentation to include missing field. ([#79309](https://github.com/CleverRaven/Cataclysm-DDA/pull/79309))
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` ([#79304](https://github.com/CleverRaven/Cataclysm-DDA/pull/79304))
