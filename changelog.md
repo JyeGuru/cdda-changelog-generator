@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-30-1903 ([f510ba6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1903))
+
 * Add options to sort item list by item name ([#79393](https://github.com/CleverRaven/Cataclysm-DDA/pull/79393))
 
 ---
@@ -209,11 +214,6 @@
 
 * Refactor pocket ([#79305](https://github.com/CleverRaven/Cataclysm-DDA/pull/79305))
 * Better descriptions for brewing ([#79273](https://github.com/CleverRaven/Cataclysm-DDA/pull/79273))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-25-0046 ([968b321](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-0046))
-
 * [MoM] Update PowerDescriptionSpoilers.md ([#79315](https://github.com/CleverRaven/Cataclysm-DDA/pull/79315))
 * NECC Mission Clarification: Renewable Energy ([#79318](https://github.com/CleverRaven/Cataclysm-DDA/pull/79318))
 * Update Overmap documentation to include missing field. ([#79309](https://github.com/CleverRaven/Cataclysm-DDA/pull/79309))
