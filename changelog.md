@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-31-0814 ([2eaa72c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-0814))
+
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
 * Refactor finger touch counting ([#79412](https://github.com/CleverRaven/Cataclysm-DDA/pull/79412))
 * [Aftershock] Esper tweaks ([#79403](https://github.com/CleverRaven/Cataclysm-DDA/pull/79403))
@@ -210,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2025-01-25-2051 ([c6822e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-2051))
 
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-25-1852 ([1985889](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-1852))
-
 * Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
 * Remove legacy electronic storage code + small e-storage fixes ([#79306](https://github.com/CleverRaven/Cataclysm-DDA/pull/79306))
 * Refactor pocket ([#79305](https://github.com/CleverRaven/Cataclysm-DDA/pull/79305))
