@@ -1,3 +1,5 @@
+* [MoM] Fix Thought-Form Exercises Recipe (#79425)
+* [Aftershock] Make UICA chit ATM-compatible (#79426)
 
 Cataclysm-DDA experimental build 2025-01-31-0415 (08f25b0)
 * Check if debug.log exists (#79436)
@@ -151,5 +153,3 @@ Cataclysm-DDA experimental build 2025-01-25-1139 (a40b4ff)
 * Don't hardcode help text: Zones Manager (#79286)
 * [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. (#79283)
 * [Xedra Evolved] Update Iron Allergy EoCs (#79272)
-* [Xedra Evolved] If you habitually murder the Fair Folk they all hate you (#79269)
-* [Xedra Evolved] Paraclesian spell scaling fixes (#79271)

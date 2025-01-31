@@ -1,3 +1,5 @@
+* [MoM] Fix Thought-Form Exercises Recipe ([#79425](https://github.com/CleverRaven/Cataclysm-DDA/pull/79425))
+* [Aftershock] Make UICA chit ATM-compatible ([#79426](https://github.com/CleverRaven/Cataclysm-DDA/pull/79426))
 
 ---
 
@@ -238,5 +240,3 @@
 * Don't hardcode help text: Zones Manager ([#79286](https://github.com/CleverRaven/Cataclysm-DDA/pull/79286))
 * [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. ([#79283](https://github.com/CleverRaven/Cataclysm-DDA/pull/79283))
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
-* [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
-* [Xedra Evolved] Paraclesian spell scaling fixes ([#79271](https://github.com/CleverRaven/Cataclysm-DDA/pull/79271))
