@@ -1,3 +1,12 @@
+* [Xedra Evolved] Rework how elemental fae gain terrain bonuses ([#79427](https://github.com/CleverRaven/Cataclysm-DDA/pull/79427))
+* [Xedra Evolved/Sky Island] Elemental fae are at home on the island ([#79432](https://github.com/CleverRaven/Cataclysm-DDA/pull/79432))
+* Aftershock: Add manhole road mapgen to exoplanet ([#79440](https://github.com/CleverRaven/Cataclysm-DDA/pull/79440))
+* [Xedra Evolved] Rein in vampire perception bonuses ([#79438](https://github.com/CleverRaven/Cataclysm-DDA/pull/79438))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-01-31-0612 ([ec34dc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-0612))
+
 * [MoM] Fix Thought-Form Exercises Recipe ([#79425](https://github.com/CleverRaven/Cataclysm-DDA/pull/79425))
 * [Aftershock] Make UICA chit ATM-compatible ([#79426](https://github.com/CleverRaven/Cataclysm-DDA/pull/79426))
 
@@ -209,14 +218,8 @@
 #### Cataclysm-DDA experimental build 2025-01-25-1852 ([1985889](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-1852))
 
 * Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-25-1139 ([a40b4ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-1139))
-
 * Remove legacy electronic storage code + small e-storage fixes ([#79306](https://github.com/CleverRaven/Cataclysm-DDA/pull/79306))
 * Refactor pocket ([#79305](https://github.com/CleverRaven/Cataclysm-DDA/pull/79305))
-* Better descriptions for brewing ([#79273](https://github.com/CleverRaven/Cataclysm-DDA/pull/79273))
 * [MoM] Update PowerDescriptionSpoilers.md ([#79315](https://github.com/CleverRaven/Cataclysm-DDA/pull/79315))
 * NECC Mission Clarification: Renewable Energy ([#79318](https://github.com/CleverRaven/Cataclysm-DDA/pull/79318))
 * Update Overmap documentation to include missing field. ([#79309](https://github.com/CleverRaven/Cataclysm-DDA/pull/79309))
@@ -228,7 +231,6 @@
 * fix practice recipes giving progress item ([#79278](https://github.com/CleverRaven/Cataclysm-DDA/pull/79278))
 * ensure critters are loaded around explosion ([#79291](https://github.com/CleverRaven/Cataclysm-DDA/pull/79291))
 * [Aftershock] Add Salvor Camp Vehicle Merchant ([#79287](https://github.com/CleverRaven/Cataclysm-DDA/pull/79287))
-* Simple parts are always simple ([#79275](https://github.com/CleverRaven/Cataclysm-DDA/pull/79275))
 * [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
 * [Innawoods] Add cable to innawoods-specific electrolysis kit ([#79295](https://github.com/CleverRaven/Cataclysm-DDA/pull/79295))
 * Loot sorting: stop moving crafts in progress ([#79279](https://github.com/CleverRaven/Cataclysm-DDA/pull/79279))
@@ -236,7 +238,5 @@
 * Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))
 * [Xedra Evolved] Arvore with enough power have neutrality from the triffids ([#79296](https://github.com/CleverRaven/Cataclysm-DDA/pull/79296))
 * [Sky Island] Update clear missions eoc ([#79289](https://github.com/CleverRaven/Cataclysm-DDA/pull/79289))
-* fix wrong temp-delta conversion for windchill message  ([#79274](https://github.com/CleverRaven/Cataclysm-DDA/pull/79274))
 * Don't hardcode help text: Zones Manager ([#79286](https://github.com/CleverRaven/Cataclysm-DDA/pull/79286))
 * [Aftershock] Introduce Combat EVA suits to the spawn groups. Small audit to EVA suit spawning. ([#79283](https://github.com/CleverRaven/Cataclysm-DDA/pull/79283))
-* [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
