@@ -1,3 +1,5 @@
+* [Aftershock] Esper tweaks ([#79403](https://github.com/CleverRaven/Cataclysm-DDA/pull/79403))
+* remove incorrect comment ([#79421](https://github.com/CleverRaven/Cataclysm-DDA/pull/79421))
 * [Xedra Evolved] Rework how elemental fae gain terrain bonuses ([#79427](https://github.com/CleverRaven/Cataclysm-DDA/pull/79427))
 * [Xedra Evolved/Sky Island] Elemental fae are at home on the island ([#79432](https://github.com/CleverRaven/Cataclysm-DDA/pull/79432))
 * Aftershock: Add manhole road mapgen to exoplanet ([#79440](https://github.com/CleverRaven/Cataclysm-DDA/pull/79440))
@@ -21,12 +23,6 @@
 #### Cataclysm-DDA experimental build 2025-01-30-1903 ([f510ba6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1903))
 
 * Add options to sort item list by item name ([#79393](https://github.com/CleverRaven/Cataclysm-DDA/pull/79393))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-30-1658 ([117147f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1658))
-
-* FMS: losing limbs ([#79277](https://github.com/CleverRaven/Cataclysm-DDA/pull/79277))
 * [Xedra Evolved ] Casings from dreamsmith ([#79366](https://github.com/CleverRaven/Cataclysm-DDA/pull/79366))
 * [ Xedra Evolved ] Mad genius pocket dark age ([#79407](https://github.com/CleverRaven/Cataclysm-DDA/pull/79407))
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE ([#79415](https://github.com/CleverRaven/Cataclysm-DDA/pull/79415))
@@ -228,7 +224,6 @@
 * Expand responses for first exodii mission ([#79280](https://github.com/CleverRaven/Cataclysm-DDA/pull/79280))
 * Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
 * Pin versions in setup-sdl2 workflow step since SDL3 was released ([#79297](https://github.com/CleverRaven/Cataclysm-DDA/pull/79297))
-* fix practice recipes giving progress item ([#79278](https://github.com/CleverRaven/Cataclysm-DDA/pull/79278))
 * ensure critters are loaded around explosion ([#79291](https://github.com/CleverRaven/Cataclysm-DDA/pull/79291))
 * [Aftershock] Add Salvor Camp Vehicle Merchant ([#79287](https://github.com/CleverRaven/Cataclysm-DDA/pull/79287))
 * [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
