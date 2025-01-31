@@ -1,3 +1,4 @@
+* Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
 
 ---
 
@@ -228,7 +229,6 @@
 * Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
 * Pin versions in setup-sdl2 workflow step since SDL3 was released ([#79297](https://github.com/CleverRaven/Cataclysm-DDA/pull/79297))
 * ensure critters are loaded around explosion ([#79291](https://github.com/CleverRaven/Cataclysm-DDA/pull/79291))
-* [Aftershock] Add Salvor Camp Vehicle Merchant ([#79287](https://github.com/CleverRaven/Cataclysm-DDA/pull/79287))
 * [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
 * [Innawoods] Add cable to innawoods-specific electrolysis kit ([#79295](https://github.com/CleverRaven/Cataclysm-DDA/pull/79295))
 * Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))

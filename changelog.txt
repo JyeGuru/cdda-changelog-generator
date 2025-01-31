@@ -1,3 +1,4 @@
+* Remove keybind from move view options (#79453)
 
 Cataclysm-DDA experimental build 2025-01-31-2227 (7b6d7b0)
 * Prevent item::charges_per_weight to return overflowed values (#79422)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-01-26-0153 (1f55014)
 * Adjusted pos getter names in vehicle & map_selector (#79298)
 * Pin versions in setup-sdl2 workflow step since SDL3 was released (#79297)
 * ensure critters are loaded around explosion (#79291)
-* [Aftershock] Add Salvor Camp Vehicle Merchant (#79287)
 * [MoM] Fix loci establishment message (#79293)
 * [Innawoods] Add cable to innawoods-specific electrolysis kit (#79295)
 * Make the pump station sewer station stinky (#79294)
