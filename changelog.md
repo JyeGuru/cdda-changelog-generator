@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-31-0415 ([08f25b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-0415))
+
+* Check if debug.log exists ([#79436](https://github.com/CleverRaven/Cataclysm-DDA/pull/79436))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-30-1903 ([f510ba6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1903))
 
 * Add options to sort item list by item name ([#79393](https://github.com/CleverRaven/Cataclysm-DDA/pull/79393))
@@ -207,11 +213,6 @@
 #### Cataclysm-DDA experimental build 2025-01-25-1139 ([a40b4ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-1139))
 
 * Remove legacy electronic storage code + small e-storage fixes ([#79306](https://github.com/CleverRaven/Cataclysm-DDA/pull/79306))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-25-0243 ([e1dae62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-0243))
-
 * Refactor pocket ([#79305](https://github.com/CleverRaven/Cataclysm-DDA/pull/79305))
 * Better descriptions for brewing ([#79273](https://github.com/CleverRaven/Cataclysm-DDA/pull/79273))
 * [MoM] Update PowerDescriptionSpoilers.md ([#79315](https://github.com/CleverRaven/Cataclysm-DDA/pull/79315))
@@ -239,4 +240,3 @@
 * [Xedra Evolved] Update Iron Allergy EoCs ([#79272](https://github.com/CleverRaven/Cataclysm-DDA/pull/79272))
 * [Xedra Evolved] If you habitually murder the Fair Folk they all hate you ([#79269](https://github.com/CleverRaven/Cataclysm-DDA/pull/79269))
 * [Xedra Evolved] Paraclesian spell scaling fixes ([#79271](https://github.com/CleverRaven/Cataclysm-DDA/pull/79271))
-* Roadstop Foodcart Generator ([#79268](https://github.com/CleverRaven/Cataclysm-DDA/pull/79268))
