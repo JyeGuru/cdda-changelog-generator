@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-31-1525 ([ec9f2ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-1525))
+
+* Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-31-0814 ([2eaa72c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-0814))
 
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
@@ -209,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2025-01-25-2247 ([e2c41d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-2247))
 
 * misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-25-2051 ([c6822e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-2051))
-
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
 * Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
 * Remove legacy electronic storage code + small e-storage fixes ([#79306](https://github.com/CleverRaven/Cataclysm-DDA/pull/79306))
@@ -229,7 +230,6 @@
 * [Aftershock] Add Salvor Camp Vehicle Merchant ([#79287](https://github.com/CleverRaven/Cataclysm-DDA/pull/79287))
 * [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
 * [Innawoods] Add cable to innawoods-specific electrolysis kit ([#79295](https://github.com/CleverRaven/Cataclysm-DDA/pull/79295))
-* [Xedra Evolved] Boann island updates ([#79284](https://github.com/CleverRaven/Cataclysm-DDA/pull/79284))
 * Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))
 * [Xedra Evolved] Arvore with enough power have neutrality from the triffids ([#79296](https://github.com/CleverRaven/Cataclysm-DDA/pull/79296))
 * [Sky Island] Update clear missions eoc ([#79289](https://github.com/CleverRaven/Cataclysm-DDA/pull/79289))
