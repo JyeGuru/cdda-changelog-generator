@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-01-31-2227 ([7b6d7b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-2227))
+
+* Prevent item::charges_per_weight to return overflowed values ([#79422](https://github.com/CleverRaven/Cataclysm-DDA/pull/79422))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-01-31-1525 ([ec9f2ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-1525))
 
 * Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
@@ -209,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2025-01-26-0153 ([1f55014](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-0153))
 
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-25-2247 ([e2c41d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-25-2247))
-
 * misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
 * Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
@@ -233,4 +234,3 @@
 * Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))
 * [Xedra Evolved] Arvore with enough power have neutrality from the triffids ([#79296](https://github.com/CleverRaven/Cataclysm-DDA/pull/79296))
 * [Sky Island] Update clear missions eoc ([#79289](https://github.com/CleverRaven/Cataclysm-DDA/pull/79289))
-* Don't hardcode help text: Zones Manager ([#79286](https://github.com/CleverRaven/Cataclysm-DDA/pull/79286))
