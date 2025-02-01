@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-01-2321 (acd9d2f)
 * Magic Infrastructure: Add failure_chance field (#79470)
 
 Cataclysm-DDA experimental build 2025-02-01-2125 (5a3d433)
@@ -117,8 +119,6 @@ Cataclysm-DDA experimental build 2025-01-28-1359 (82ff1e8)
 
 Cataclysm-DDA experimental build 2025-01-28-0547 (98b513f)
 * [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain (#79384)
-
-Cataclysm-DDA experimental build 2025-01-28-0308 (9001cba)
 * Add boards and amenities to NPC faction camps (#79367)
 * [MoM] Change the Power Spoilers document for ease of browsing (#79345)
 * Ebooks: fix scanning and crafting menu info (#79354)

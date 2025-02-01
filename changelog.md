@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-01-2321 ([acd9d2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-2321))
+
 * Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-01-28-0547 ([98b513f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0547))
 
 * [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain ([#79384](https://github.com/CleverRaven/Cataclysm-DDA/pull/79384))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-28-0308 ([9001cba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0308))
-
 * Add boards and amenities to NPC faction camps ([#79367](https://github.com/CleverRaven/Cataclysm-DDA/pull/79367))
 * [MoM] Change the Power Spoilers document for ease of browsing ([#79345](https://github.com/CleverRaven/Cataclysm-DDA/pull/79345))
 * Ebooks: fix scanning and crafting menu info ([#79354](https://github.com/CleverRaven/Cataclysm-DDA/pull/79354))
