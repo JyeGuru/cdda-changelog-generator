@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-01-2125 ([5a3d433](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-2125))
+
+* expand revivification ([#79429](https://github.com/CleverRaven/Cataclysm-DDA/pull/79429))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-01-1640 ([128e933](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1640))
 
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
@@ -174,12 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-01-28-1359 ([82ff1e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-1359))
 
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-28-0753 ([e433893](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0753))
-
-* [Xedra Evolved] Add more changeling traits ([#79312](https://github.com/CleverRaven/Cataclysm-DDA/pull/79312))
 * Uncaring is annoying not intimidating ([#79320](https://github.com/CleverRaven/Cataclysm-DDA/pull/79320))
 * Add an option to allow players add full Chinese glyphs ranges. ([#79322](https://github.com/CleverRaven/Cataclysm-DDA/pull/79322))
 * Make zone manager width expand up to sidebar width ([#79347](https://github.com/CleverRaven/Cataclysm-DDA/pull/79347))
@@ -203,11 +203,6 @@
 * [MoM] Change the Power Spoilers document for ease of browsing ([#79345](https://github.com/CleverRaven/Cataclysm-DDA/pull/79345))
 * Ebooks: fix scanning and crafting menu info ([#79354](https://github.com/CleverRaven/Cataclysm-DDA/pull/79354))
 * [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-28-0117 ([0e1b467](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0117))
-
 * document keg_capacity changes ([#79368](https://github.com/CleverRaven/Cataclysm-DDA/pull/79368))
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
 * [XE] Add new goblin fruits ([#79319](https://github.com/CleverRaven/Cataclysm-DDA/pull/79319))

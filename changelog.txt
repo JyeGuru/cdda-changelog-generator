@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-01-2125 (5a3d433)
+* expand revivification (#79429)
+
 Cataclysm-DDA experimental build 2025-02-01-1640 (128e933)
 * Allows vehicles to cross at train crossings (#79476)
 * [MoM] Item Gateway Power (#79441)
@@ -102,9 +105,6 @@ Cataclysm-DDA experimental build 2025-01-29-0126 (3f77ca4)
 
 Cataclysm-DDA experimental build 2025-01-28-1359 (82ff1e8)
 * Mission Clarifications: Tacoma Foreman Missions (#79386)
-
-Cataclysm-DDA experimental build 2025-01-28-0753 (e433893)
-* [Xedra Evolved] Add more changeling traits (#79312)
 * Uncaring is annoying not intimidating (#79320)
 * Add an option to allow players add full Chinese glyphs ranges. (#79322)
 * Make zone manager width expand up to sidebar width (#79347)
@@ -122,8 +122,6 @@ Cataclysm-DDA experimental build 2025-01-28-0308 (9001cba)
 * [MoM] Change the Power Spoilers document for ease of browsing (#79345)
 * Ebooks: fix scanning and crafting menu info (#79354)
 * [Xedra Evolved] Fix Unsleeping Earth Vigil (#79376)
-
-Cataclysm-DDA experimental build 2025-01-28-0117 (0e1b467)
 * document keg_capacity changes (#79368)
 * Fix broken EFilePocket on Integrated AR Bionic (#79361)
 * [XE] Add new goblin fruits (#79319)
