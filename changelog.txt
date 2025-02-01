@@ -1,3 +1,4 @@
+* [MoM] Item Gateway Power (#79441)
 * Vending Machines can optionally use your Bank Balance (#79442)
 
 Cataclysm-DDA experimental build 2025-02-01-1441 (f741f43)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-01-27-1239 (d95d165)
 * Add Exodii castle starting scenario (#79321)
 * [MoM] Update PowerDescriptionSpoilers.md (#79315)
 * NECC Mission Clarification: Renewable Energy (#79318)
-* Update Overmap documentation to include missing field. (#79309)

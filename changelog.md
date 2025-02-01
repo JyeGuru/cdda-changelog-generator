@@ -1,3 +1,4 @@
+* [MoM] Item Gateway Power ([#79441](https://github.com/CleverRaven/Cataclysm-DDA/pull/79441))
 * Vending Machines can optionally use your Bank Balance ([#79442](https://github.com/CleverRaven/Cataclysm-DDA/pull/79442))
 
 ---
@@ -232,4 +233,3 @@
 * Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
 * [MoM] Update PowerDescriptionSpoilers.md ([#79315](https://github.com/CleverRaven/Cataclysm-DDA/pull/79315))
 * NECC Mission Clarification: Renewable Energy ([#79318](https://github.com/CleverRaven/Cataclysm-DDA/pull/79318))
-* Update Overmap documentation to include missing field. ([#79309](https://github.com/CleverRaven/Cataclysm-DDA/pull/79309))
