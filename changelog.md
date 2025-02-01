@@ -1,3 +1,7 @@
+* [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
+* remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types ([#79448](https://github.com/CleverRaven/Cataclysm-DDA/pull/79448))
+* Move item stuff from json_info.md to it's own doc, move crafting stuff to crafting doc ([#79395](https://github.com/CleverRaven/Cataclysm-DDA/pull/79395))
+* [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
 
 ---
 
@@ -228,9 +232,6 @@
 * [Aftershock] Fix: You need an armament license to buy combat suits ([#79308](https://github.com/CleverRaven/Cataclysm-DDA/pull/79308))
 * Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
 * Pin versions in setup-sdl2 workflow step since SDL3 was released ([#79297](https://github.com/CleverRaven/Cataclysm-DDA/pull/79297))
-* ensure critters are loaded around explosion ([#79291](https://github.com/CleverRaven/Cataclysm-DDA/pull/79291))
-* [MoM] Fix loci establishment message ([#79293](https://github.com/CleverRaven/Cataclysm-DDA/pull/79293))
 * [Innawoods] Add cable to innawoods-specific electrolysis kit ([#79295](https://github.com/CleverRaven/Cataclysm-DDA/pull/79295))
 * Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))
 * [Xedra Evolved] Arvore with enough power have neutrality from the triffids ([#79296](https://github.com/CleverRaven/Cataclysm-DDA/pull/79296))
-* [Sky Island] Update clear missions eoc ([#79289](https://github.com/CleverRaven/Cataclysm-DDA/pull/79289))
