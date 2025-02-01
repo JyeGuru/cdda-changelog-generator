@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-01-1157 ([360fe2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1157))
+
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
 * Professions can define your starting bank balance ([#79450](https://github.com/CleverRaven/Cataclysm-DDA/pull/79450))
 * Audit small turbine engine ([#79449](https://github.com/CleverRaven/Cataclysm-DDA/pull/79449))
@@ -209,11 +214,6 @@
 * [Aftershock] Augustmoon Traders use loot zones ([#79349](https://github.com/CleverRaven/Cataclysm-DDA/pull/79349))
 * Add apt-get update step into the clang-tidy job ([#79344](https://github.com/CleverRaven/Cataclysm-DDA/pull/79344))
 * Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-27-0615 ([6892702](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-0615))
-
 * Fix dirt floor durability and materials ([#79348](https://github.com/CleverRaven/Cataclysm-DDA/pull/79348))
 * Don't hardcode help text: List Items filter popup ([#79355](https://github.com/CleverRaven/Cataclysm-DDA/pull/79355))
 * Add part bonus to rotor diameter in thrust calculations ([#79328](https://github.com/CleverRaven/Cataclysm-DDA/pull/79328))

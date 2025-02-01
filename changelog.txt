@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-01-1157 (360fe2c)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#79475)
 * Professions can define your starting bank balance (#79450)
 * Audit small turbine engine (#79449)
@@ -128,8 +130,6 @@ Cataclysm-DDA experimental build 2025-01-27-0950 (f7598f1)
 * [Aftershock] Augustmoon Traders use loot zones (#79349)
 * Add apt-get update step into the clang-tidy job (#79344)
 * Fix a build error with the object creator (#79360)
-
-Cataclysm-DDA experimental build 2025-01-27-0615 (6892702)
 * Fix dirt floor durability and materials (#79348)
 * Don't hardcode help text: List Items filter popup (#79355)
 * Add part bonus to rotor diameter in thrust calculations (#79328)
