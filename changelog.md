@@ -1,3 +1,4 @@
+* Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 
 ---
 
@@ -218,7 +219,6 @@
 * Add part bonus to rotor diameter in thrust calculations ([#79328](https://github.com/CleverRaven/Cataclysm-DDA/pull/79328))
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
-* Aftershock: Add ETC firmware gunmods to Caseless military weapons. ([#79313](https://github.com/CleverRaven/Cataclysm-DDA/pull/79313))
 * Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
 * Pathfinding: Prevent NPCs to jump to open air ([#79314](https://github.com/CleverRaven/Cataclysm-DDA/pull/79314))
 * Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
