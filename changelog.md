@@ -1,4 +1,9 @@
 * [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-01-0306 ([043c17c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0306))
+
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types ([#79448](https://github.com/CleverRaven/Cataclysm-DDA/pull/79448))
 * Move item stuff from json_info.md to it's own doc, move crafting stuff to crafting doc ([#79395](https://github.com/CleverRaven/Cataclysm-DDA/pull/79395))
 * [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
@@ -213,11 +218,6 @@
 * Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
 * Pathfinding: Prevent NPCs to jump to open air ([#79314](https://github.com/CleverRaven/Cataclysm-DDA/pull/79314))
 * Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-26-1616 ([0e5716c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-1616))
-
 * Electronic storage overhaul migration fix ([#79311](https://github.com/CleverRaven/Cataclysm-DDA/pull/79311))
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
 * misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))

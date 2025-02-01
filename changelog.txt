@@ -1,4 +1,6 @@
 * [MoM] Add Apportation teleportation power (#79454)
+
+Cataclysm-DDA experimental build 2025-02-01-0306 (043c17c)
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types (#79448)
 * Move item stuff from json_info.md to it's own doc, move crafting stuff to crafting doc (#79395)
 * [MoM] New power documentation updates (#79455)
@@ -132,8 +134,6 @@ Cataclysm-DDA experimental build 2025-01-26-1825 (aea8979)
 * Don't hardcode help text: Overmap filter popup (#79325)
 * Pathfinding: Prevent NPCs to jump to open air (#79314)
 * Fix "Build Dirt Floor" requirements (#79334)
-
-Cataclysm-DDA experimental build 2025-01-26-1616 (0e5716c)
 * Electronic storage overhaul migration fix (#79311)
 * refactor `map::shoot` bashing, part 1 (#79333)
 * misc fixes for unloading via AIM (#79316)
