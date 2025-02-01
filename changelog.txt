@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-01-0033 (a5161ce)
 * Remove keybind from move view options (#79453)
 
 Cataclysm-DDA experimental build 2025-01-31-2227 (7b6d7b0)
@@ -129,8 +131,6 @@ Cataclysm-DDA experimental build 2025-01-26-1825 (aea8979)
 
 Cataclysm-DDA experimental build 2025-01-26-1616 (0e5716c)
 * Electronic storage overhaul migration fix (#79311)
-
-Cataclysm-DDA experimental build 2025-01-26-0153 (1f55014)
 * refactor `map::shoot` bashing, part 1 (#79333)
 * misc fixes for unloading via AIM (#79316)
 * Routine i18n updates on 25 January 2025 (#79331)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-01-0033 ([a5161ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0033))
+
 * Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
 
 ---
@@ -210,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2025-01-26-1616 ([0e5716c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-1616))
 
 * Electronic storage overhaul migration fix ([#79311](https://github.com/CleverRaven/Cataclysm-DDA/pull/79311))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-26-0153 ([1f55014](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-0153))
-
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
 * misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
