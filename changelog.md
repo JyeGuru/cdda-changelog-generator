@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-01-1640 ([128e933](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1640))
+
+* Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * [MoM] Item Gateway Power ([#79441](https://github.com/CleverRaven/Cataclysm-DDA/pull/79441))
 * Vending Machines can optionally use your Bank Balance ([#79442](https://github.com/CleverRaven/Cataclysm-DDA/pull/79442))
 
@@ -203,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2025-01-28-0117 ([0e1b467](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0117))
 
 * document keg_capacity changes ([#79368](https://github.com/CleverRaven/Cataclysm-DDA/pull/79368))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-27-1239 ([d95d165](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-1239))
-
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
 * [XE] Add new goblin fruits ([#79319](https://github.com/CleverRaven/Cataclysm-DDA/pull/79319))
 * Don't do map processing of critters off the map ([#79336](https://github.com/CleverRaven/Cataclysm-DDA/pull/79336))
@@ -226,7 +227,6 @@
 * Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
 * Pathfinding: Prevent NPCs to jump to open air ([#79314](https://github.com/CleverRaven/Cataclysm-DDA/pull/79314))
 * Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
-* Electronic storage overhaul migration fix ([#79311](https://github.com/CleverRaven/Cataclysm-DDA/pull/79311))
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
 * misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
