@@ -1,3 +1,11 @@
+* Update tools.json ([#79462](https://github.com/CleverRaven/Cataclysm-DDA/pull/79462))
+* Routine tileset updates on 01 February 2025 ([#79467](https://github.com/CleverRaven/Cataclysm-DDA/pull/79467))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-01-0952 ([b9732f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0952))
+
+* Routine i18n updates on 01 February 2025 ([#79469](https://github.com/CleverRaven/Cataclysm-DDA/pull/79469))
 
 ---
 
@@ -185,7 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-01-27-1239 ([d95d165](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-1239))
 
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
-* clear items in npc_test ([#79300](https://github.com/CleverRaven/Cataclysm-DDA/pull/79300))
 
 ---
 
@@ -208,11 +215,6 @@
 * Don't hardcode help text: List Items filter popup ([#79355](https://github.com/CleverRaven/Cataclysm-DDA/pull/79355))
 * Add part bonus to rotor diameter in thrust calculations ([#79328](https://github.com/CleverRaven/Cataclysm-DDA/pull/79328))
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-27-0310 ([7bb0568](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-0310))
-
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
 * fix `map cache` item/EOC ([#79307](https://github.com/CleverRaven/Cataclysm-DDA/pull/79307))
 * Aftershock: Add ETC firmware gunmods to Caseless military weapons. ([#79313](https://github.com/CleverRaven/Cataclysm-DDA/pull/79313))
@@ -231,5 +233,3 @@
 * Update Overmap documentation to include missing field. ([#79309](https://github.com/CleverRaven/Cataclysm-DDA/pull/79309))
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` ([#79304](https://github.com/CleverRaven/Cataclysm-DDA/pull/79304))
 * [Aftershock] Fix: You need an armament license to buy combat suits ([#79308](https://github.com/CleverRaven/Cataclysm-DDA/pull/79308))
-* Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
-* Pin versions in setup-sdl2 workflow step since SDL3 was released ([#79297](https://github.com/CleverRaven/Cataclysm-DDA/pull/79297))

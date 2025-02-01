@@ -1,3 +1,8 @@
+* Update tools.json (#79462)
+* Routine tileset updates on 01 February 2025 (#79467)
+
+Cataclysm-DDA experimental build 2025-02-01-0952 (b9732f7)
+* Routine i18n updates on 01 February 2025 (#79469)
 
 Cataclysm-DDA experimental build 2025-02-01-0607 (8c76186)
 * Start to make vehicle coordinates make sense (#79457)
@@ -110,7 +115,6 @@ Cataclysm-DDA experimental build 2025-01-28-0117 (0e1b467)
 
 Cataclysm-DDA experimental build 2025-01-27-1239 (d95d165)
 * Fix broken EFilePocket on Integrated AR Bionic (#79361)
-* clear items in npc_test (#79300)
 
 Cataclysm-DDA experimental build 2025-01-27-0950 (f7598f1)
 * [XE] Add new goblin fruits (#79319)
@@ -127,8 +131,6 @@ Cataclysm-DDA experimental build 2025-01-27-0615 (6892702)
 * Don't hardcode help text: List Items filter popup (#79355)
 * Add part bonus to rotor diameter in thrust calculations (#79328)
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs (#79351)
-
-Cataclysm-DDA experimental build 2025-01-27-0310 (7bb0568)
 * [Aftershock] Fix EFile pockets on Electronics (#79359)
 * fix `map cache` item/EOC (#79307)
 * Aftershock: Add ETC firmware gunmods to Caseless military weapons. (#79313)
@@ -147,5 +149,3 @@ Cataclysm-DDA experimental build 2025-01-27-0310 (7bb0568)
 * Update Overmap documentation to include missing field. (#79309)
 * [MoM] Differentiate XEDRA lab-made and makeshift inferno grenades, add `pyrokinetic matrix crystal bomb` (#79304)
 * [Aftershock] Fix: You need an armament license to buy combat suits (#79308)
-* Adjusted pos getter names in vehicle & map_selector (#79298)
-* Pin versions in setup-sdl2 workflow step since SDL3 was released (#79297)
