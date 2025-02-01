@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-01-1441 ([f741f43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1441))
+
+* [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic ([#79456](https://github.com/CleverRaven/Cataclysm-DDA/pull/79456))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-01-1157 ([360fe2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1157))
 
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
@@ -201,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2025-01-27-1239 ([d95d165](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-1239))
 
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-27-0950 ([f7598f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-0950))
-
 * [XE] Add new goblin fruits ([#79319](https://github.com/CleverRaven/Cataclysm-DDA/pull/79319))
 * Don't do map processing of critters off the map ([#79336](https://github.com/CleverRaven/Cataclysm-DDA/pull/79336))
 * Clarify ALLOWS_BODY_BLOCKS flag description ([#79346](https://github.com/CleverRaven/Cataclysm-DDA/pull/79346))
@@ -219,7 +220,6 @@
 * Add part bonus to rotor diameter in thrust calculations ([#79328](https://github.com/CleverRaven/Cataclysm-DDA/pull/79328))
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
-* fix `map cache` item/EOC ([#79307](https://github.com/CleverRaven/Cataclysm-DDA/pull/79307))
 * Aftershock: Add ETC firmware gunmods to Caseless military weapons. ([#79313](https://github.com/CleverRaven/Cataclysm-DDA/pull/79313))
 * Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
 * Pathfinding: Prevent NPCs to jump to open air ([#79314](https://github.com/CleverRaven/Cataclysm-DDA/pull/79314))
