@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-01-0607 ([8c76186](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0607))
+
+* Start to make vehicle coordinates make sense ([#79457](https://github.com/CleverRaven/Cataclysm-DDA/pull/79457))
 * [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
 
 ---
@@ -208,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2025-01-27-0310 ([7bb0568](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-27-0310))
 
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-26-1825 ([aea8979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-26-1825))
-
 * fix `map cache` item/EOC ([#79307](https://github.com/CleverRaven/Cataclysm-DDA/pull/79307))
 * Aftershock: Add ETC firmware gunmods to Caseless military weapons. ([#79313](https://github.com/CleverRaven/Cataclysm-DDA/pull/79313))
 * Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
@@ -233,5 +234,4 @@
 * Adjusted pos getter names in vehicle & map_selector ([#79298](https://github.com/CleverRaven/Cataclysm-DDA/pull/79298))
 * Pin versions in setup-sdl2 workflow step since SDL3 was released ([#79297](https://github.com/CleverRaven/Cataclysm-DDA/pull/79297))
 * [Innawoods] Add cable to innawoods-specific electrolysis kit ([#79295](https://github.com/CleverRaven/Cataclysm-DDA/pull/79295))
-* Make the pump station sewer station stinky ([#79294](https://github.com/CleverRaven/Cataclysm-DDA/pull/79294))
 * [Xedra Evolved] Arvore with enough power have neutrality from the triffids ([#79296](https://github.com/CleverRaven/Cataclysm-DDA/pull/79296))
