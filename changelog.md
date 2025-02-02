@@ -196,7 +196,6 @@
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
-* Uncaring is annoying not intimidating ([#79320](https://github.com/CleverRaven/Cataclysm-DDA/pull/79320))
 * Add an option to allow players add full Chinese glyphs ranges. ([#79322](https://github.com/CleverRaven/Cataclysm-DDA/pull/79322))
 * Make zone manager width expand up to sidebar width ([#79347](https://github.com/CleverRaven/Cataclysm-DDA/pull/79347))
 * Fix trading: NPC no longer accept items that would be deleted. ([#79364](https://github.com/CleverRaven/Cataclysm-DDA/pull/79364))
