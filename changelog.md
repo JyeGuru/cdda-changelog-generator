@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
 
 ---
@@ -224,7 +225,6 @@
 * Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
 * Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
-* misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
 * Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
 * NECC Mission Clarification: Renewable Energy ([#79318](https://github.com/CleverRaven/Cataclysm-DDA/pull/79318))

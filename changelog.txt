@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix commoner fae CBMs (#79484)
 * Move surface rail lines closer and add junctions (#79481)
 
 Cataclysm-DDA experimental build 2025-02-02-0310 (806f84f)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2025-01-28-1359 (82ff1e8)
 * Don't hardcode help text: Overmap filter popup (#79325)
 * Fix "Build Dirt Floor" requirements (#79334)
 * refactor `map::shoot` bashing, part 1 (#79333)
-* misc fixes for unloading via AIM (#79316)
 * Routine i18n updates on 25 January 2025 (#79331)
 * Add Exodii castle starting scenario (#79321)
 * NECC Mission Clarification: Renewable Energy (#79318)
