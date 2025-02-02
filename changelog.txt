@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-02-0512 (2b7d5de)
 * [Xedra Evolved] Fix commoner fae CBMs (#79484)
 * Move surface rail lines closer and add junctions (#79481)
 
