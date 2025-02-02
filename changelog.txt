@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-02-1958 (33c22b3)
+* Add lucky/unlucky traits (Crazy Cata) (#79499)
+
 Cataclysm-DDA experimental build 2025-02-02-1030 (3dfe45d)
 * add some missing flags to allow better mapgen control (#79474)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-01-29-1339 (a96bf09)
 Cataclysm-DDA experimental build 2025-01-29-0613 (e78df8b)
 * Add numpad binds for panning uilists (#79330)
 * [Sky Island] Minor typo correction (#79335)
-
-Cataclysm-DDA experimental build 2025-01-29-0338 (255ea81)
 * Update gas mask item flags (#79369)
 * typified p-u (#79373)
 * Fix clang-tidy warning about mispositioned translation comment (#79394)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2025-01-29-0338 (255ea81)
 * [Xedra Evolved] Fix Unsleeping Earth Vigil (#79376)
 * document keg_capacity changes (#79368)
 * Fix broken EFilePocket on Integrated AR Bionic (#79361)
-* [XE] Add new goblin fruits (#79319)
 * Don't do map processing of critters off the map (#79336)
 * Clarify ALLOWS_BODY_BLOCKS flag description (#79346)
 * Weekly Changelog 2025-01-20 to 2025-01-27 (#79365)
