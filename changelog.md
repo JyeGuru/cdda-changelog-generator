@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-02-1030 ([3dfe45d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-1030))
+
+* add some missing flags to allow better mapgen control ([#79474](https://github.com/CleverRaven/Cataclysm-DDA/pull/79474))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-02-0512 ([2b7d5de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-0512))
 
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-01-29-0126 ([3f77ca4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-0126))
 
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-28-1359 ([82ff1e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-1359))
-
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
 * Uncaring is annoying not intimidating ([#79320](https://github.com/CleverRaven/Cataclysm-DDA/pull/79320))
 * Add an option to allow players add full Chinese glyphs ranges. ([#79322](https://github.com/CleverRaven/Cataclysm-DDA/pull/79322))
@@ -232,4 +233,3 @@
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
 * Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
-* NECC Mission Clarification: Renewable Energy ([#79318](https://github.com/CleverRaven/Cataclysm-DDA/pull/79318))
