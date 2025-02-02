@@ -1,3 +1,10 @@
+* Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-02-0310 ([806f84f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-0310))
+
+* Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
 
 ---
 
@@ -194,11 +201,6 @@
 * Allow AIM unload into container ([#79375](https://github.com/CleverRaven/Cataclysm-DDA/pull/79375))
 * Minor generator-related fixes ([#79379](https://github.com/CleverRaven/Cataclysm-DDA/pull/79379))
 * Update MSVC builds' reported version ([#79383](https://github.com/CleverRaven/Cataclysm-DDA/pull/79383))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-28-0547 ([98b513f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-28-0547))
-
 * [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain ([#79384](https://github.com/CleverRaven/Cataclysm-DDA/pull/79384))
 * Add boards and amenities to NPC faction camps ([#79367](https://github.com/CleverRaven/Cataclysm-DDA/pull/79367))
 * [MoM] Change the Power Spoilers document for ease of browsing ([#79345](https://github.com/CleverRaven/Cataclysm-DDA/pull/79345))
@@ -220,11 +222,9 @@
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
 * Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
-* Pathfinding: Prevent NPCs to jump to open air ([#79314](https://github.com/CleverRaven/Cataclysm-DDA/pull/79314))
 * Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
 * misc fixes for unloading via AIM ([#79316](https://github.com/CleverRaven/Cataclysm-DDA/pull/79316))
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
 * Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
-* [MoM] Update PowerDescriptionSpoilers.md ([#79315](https://github.com/CleverRaven/Cataclysm-DDA/pull/79315))
 * NECC Mission Clarification: Renewable Energy ([#79318](https://github.com/CleverRaven/Cataclysm-DDA/pull/79318))
