@@ -193,11 +193,6 @@
 * Implement (R)eading e-book requirements, fix etransfer_rate segfault ([#79387](https://github.com/CleverRaven/Cataclysm-DDA/pull/79387))
 * fix query popup not wrapping ([#79396](https://github.com/CleverRaven/Cataclysm-DDA/pull/79396))
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-29-0126 ([3f77ca4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-0126))
-
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
 * Uncaring is annoying not intimidating ([#79320](https://github.com/CleverRaven/Cataclysm-DDA/pull/79320))
