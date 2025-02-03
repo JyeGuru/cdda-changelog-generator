@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-03-0802 ([d875aa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0802))
+
+* Remove morale penalty from dismemberment ([#79479](https://github.com/CleverRaven/Cataclysm-DDA/pull/79479))
 * [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
 * Convert some vehicle operations to be map aware ([#79477](https://github.com/CleverRaven/Cataclysm-DDA/pull/79477))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2025-01-29-2148 ([e02f107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-2148))
 
 * Chapters are Character-mapped for unique books ([#79388](https://github.com/CleverRaven/Cataclysm-DDA/pull/79388))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-29-1944 ([9baaa00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-1944))
-
 * fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
@@ -219,7 +220,6 @@
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
 * Clarify ALLOWS_BODY_BLOCKS flag description ([#79346](https://github.com/CleverRaven/Cataclysm-DDA/pull/79346))
 * Weekly Changelog 2025-01-20 to 2025-01-27 ([#79365](https://github.com/CleverRaven/Cataclysm-DDA/pull/79365))
-* add an electric rechargeable lighter ([#79337](https://github.com/CleverRaven/Cataclysm-DDA/pull/79337))
 * [Aftershock] Augustmoon Traders use loot zones ([#79349](https://github.com/CleverRaven/Cataclysm-DDA/pull/79349))
 * Add apt-get update step into the clang-tidy job ([#79344](https://github.com/CleverRaven/Cataclysm-DDA/pull/79344))
 * Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
