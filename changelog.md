@@ -1,3 +1,11 @@
+* Fixing bounding box errors ([#79493](https://github.com/CleverRaven/Cataclysm-DDA/pull/79493))
+* Remove some more POLEARMS category from spears ([#79497](https://github.com/CleverRaven/Cataclysm-DDA/pull/79497))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-03-0147 ([9d4478e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0147))
+
+* [XEDERA] Homullus: Add revive mutation ([#79487](https://github.com/CleverRaven/Cataclysm-DDA/pull/79487))
 
 ---
 
@@ -181,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-01-29-1339 ([a96bf09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-1339))
 
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-29-0613 ([e78df8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-0613))
-
 * Add numpad binds for panning uilists ([#79330](https://github.com/CleverRaven/Cataclysm-DDA/pull/79330))
 * [Sky Island] Minor typo correction ([#79335](https://github.com/CleverRaven/Cataclysm-DDA/pull/79335))
 * Update gas mask item flags ([#79369](https://github.com/CleverRaven/Cataclysm-DDA/pull/79369))
@@ -196,7 +199,6 @@
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
-* Add an option to allow players add full Chinese glyphs ranges. ([#79322](https://github.com/CleverRaven/Cataclysm-DDA/pull/79322))
 * Make zone manager width expand up to sidebar width ([#79347](https://github.com/CleverRaven/Cataclysm-DDA/pull/79347))
 * Fix trading: NPC no longer accept items that would be deleted. ([#79364](https://github.com/CleverRaven/Cataclysm-DDA/pull/79364))
 * add workflow_dispatch for CI ([#79372](https://github.com/CleverRaven/Cataclysm-DDA/pull/79372))
@@ -222,8 +224,6 @@
 * Add part bonus to rotor diameter in thrust calculations ([#79328](https://github.com/CleverRaven/Cataclysm-DDA/pull/79328))
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
-* Don't hardcode help text: Overmap filter popup ([#79325](https://github.com/CleverRaven/Cataclysm-DDA/pull/79325))
 * Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
 * Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
-* Add Exodii castle starting scenario ([#79321](https://github.com/CleverRaven/Cataclysm-DDA/pull/79321))
