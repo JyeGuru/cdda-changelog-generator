@@ -1,3 +1,6 @@
+* add self (moxian) to comment-commands.yml (#79504)
+
+Cataclysm-DDA experimental build 2025-02-03-0556 (1b8b7d5)
 * Add radishes and seeds to the game (#79490)
 
 Cataclysm-DDA experimental build 2025-02-03-0356 (f72fb5c)
@@ -103,13 +106,10 @@ Cataclysm-DDA experimental build 2025-01-29-2148 (e02f107)
 
 Cataclysm-DDA experimental build 2025-01-29-1944 (9baaa00)
 * fix aim move query amount showing wrong max amount (#79409)
-
-Cataclysm-DDA experimental build 2025-01-29-1641 (d478d52)
 * Add marshmallow fluff and fluffernutters (#79408)
 * [Magiclysm] Valzain book selling fix (#79405)
 * "fix" angled include headers (#79390)
 * [Xedra Evolved] Fix Lilit trait gain EoC (#79404)
-* Add numpad binds for panning uilists (#79330)
 * [Sky Island] Minor typo correction (#79335)
 * Update gas mask item flags (#79369)
 * typified p-u (#79373)

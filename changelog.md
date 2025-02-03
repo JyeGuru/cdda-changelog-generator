@@ -1,3 +1,9 @@
+* add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-03-0556 ([1b8b7d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0556))
+
 * Add radishes and seeds to the game ([#79490](https://github.com/CleverRaven/Cataclysm-DDA/pull/79490))
 
 ---
@@ -181,16 +187,10 @@
 #### Cataclysm-DDA experimental build 2025-01-29-1944 ([9baaa00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-1944))
 
 * fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-29-1641 ([d478d52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-1641))
-
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
 * "fix" angled include headers ([#79390](https://github.com/CleverRaven/Cataclysm-DDA/pull/79390))
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
-* Add numpad binds for panning uilists ([#79330](https://github.com/CleverRaven/Cataclysm-DDA/pull/79330))
 * [Sky Island] Minor typo correction ([#79335](https://github.com/CleverRaven/Cataclysm-DDA/pull/79335))
 * Update gas mask item flags ([#79369](https://github.com/CleverRaven/Cataclysm-DDA/pull/79369))
 * typified p-u ([#79373](https://github.com/CleverRaven/Cataclysm-DDA/pull/79373))
