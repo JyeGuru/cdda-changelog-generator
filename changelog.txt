@@ -1,3 +1,4 @@
+* Variant Docs (#79482)
 * add self (moxian) to comment-commands.yml (#79504)
 
 Cataclysm-DDA experimental build 2025-02-03-0556 (1b8b7d5)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-01-29-1944 (9baaa00)
 * [Aftershock] Fix EFile pockets on Electronics (#79359)
 * Fix "Build Dirt Floor" requirements (#79334)
 * refactor `map::shoot` bashing, part 1 (#79333)
-* Routine i18n updates on 25 January 2025 (#79331)

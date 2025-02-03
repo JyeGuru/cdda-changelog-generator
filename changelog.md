@@ -1,3 +1,4 @@
+* Variant Docs ([#79482](https://github.com/CleverRaven/Cataclysm-DDA/pull/79482))
 * add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
 
 ---
@@ -226,4 +227,3 @@
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
 * Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
 * refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
-* Routine i18n updates on 25 January 2025 ([#79331](https://github.com/CleverRaven/Cataclysm-DDA/pull/79331))
