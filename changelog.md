@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-03-1932 ([c4a84a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-1932))
+
+* `Uncaring` characters can socialize with NPCs but they don't like it ([#79512](https://github.com/CleverRaven/Cataclysm-DDA/pull/79512))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-03-0802 ([d875aa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0802))
 
 * Remove morale penalty from dismemberment ([#79479](https://github.com/CleverRaven/Cataclysm-DDA/pull/79479))
@@ -171,12 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-01-30-1229 ([79018e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1229))
 
 * Music Genre snippets ([#79417](https://github.com/CleverRaven/Cataclysm-DDA/pull/79417))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-30-0905 ([8762277](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-0905))
-
-* Optionally accept precise OMT coordinates in debug "Teleport - to specific overmap" function ([#79343](https://github.com/CleverRaven/Cataclysm-DDA/pull/79343))
 * a small handful of random insignificant code cleanups ([#79389](https://github.com/CleverRaven/Cataclysm-DDA/pull/79389))
 * Set system locale decimal separator as imgui Platform_LocaleDecimalPoint ([#79406](https://github.com/CleverRaven/Cataclysm-DDA/pull/79406))
 * typify the last of mapgen ([#79413](https://github.com/CleverRaven/Cataclysm-DDA/pull/79413))
@@ -186,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-01-30-0716 ([f53c0f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-0716))
 
 * typify v-w ([#79410](https://github.com/CleverRaven/Cataclysm-DDA/pull/79410))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-29-2148 ([e02f107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-2148))
-
 * Chapters are Character-mapped for unique books ([#79388](https://github.com/CleverRaven/Cataclysm-DDA/pull/79388))
 * fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
