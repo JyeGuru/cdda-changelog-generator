@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2025-01-30-1229 (79018e6)
 * a small handful of random insignificant code cleanups (#79389)
 * Set system locale decimal separator as imgui Platform_LocaleDecimalPoint (#79406)
 * typify the last of mapgen (#79413)
-
-Cataclysm-DDA experimental build 2025-01-30-0716 (f53c0f2)
 * typify v-w (#79410)
 * Chapters are Character-mapped for unique books (#79388)
 * fix aim move query amount showing wrong max amount (#79409)
