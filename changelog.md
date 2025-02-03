@@ -1,3 +1,4 @@
+* [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
 * Convert some vehicle operations to be map aware ([#79477](https://github.com/CleverRaven/Cataclysm-DDA/pull/79477))
 * [MoM] Change relocation to require apportation ([#79478](https://github.com/CleverRaven/Cataclysm-DDA/pull/79478))
@@ -216,7 +217,6 @@
 * [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
 * document keg_capacity changes ([#79368](https://github.com/CleverRaven/Cataclysm-DDA/pull/79368))
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
-* Don't do map processing of critters off the map ([#79336](https://github.com/CleverRaven/Cataclysm-DDA/pull/79336))
 * Clarify ALLOWS_BODY_BLOCKS flag description ([#79346](https://github.com/CleverRaven/Cataclysm-DDA/pull/79346))
 * Weekly Changelog 2025-01-20 to 2025-01-27 ([#79365](https://github.com/CleverRaven/Cataclysm-DDA/pull/79365))
 * add an electric rechargeable lighter ([#79337](https://github.com/CleverRaven/Cataclysm-DDA/pull/79337))
