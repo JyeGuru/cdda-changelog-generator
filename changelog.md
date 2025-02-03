@@ -1,3 +1,4 @@
+* Add radishes and seeds to the game ([#79490](https://github.com/CleverRaven/Cataclysm-DDA/pull/79490))
 
 ---
 
@@ -221,7 +222,6 @@
 * Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
 * Fix dirt floor durability and materials ([#79348](https://github.com/CleverRaven/Cataclysm-DDA/pull/79348))
 * Don't hardcode help text: List Items filter popup ([#79355](https://github.com/CleverRaven/Cataclysm-DDA/pull/79355))
-* Add part bonus to rotor diameter in thrust calculations ([#79328](https://github.com/CleverRaven/Cataclysm-DDA/pull/79328))
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
 * Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
