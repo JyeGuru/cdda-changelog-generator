@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-03-0356 (f72fb5c)
 * Fixing bounding box errors (#79493)
 * Remove some more POLEARMS category from spears (#79497)
 
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-01-29-1641 (d478d52)
 * Add marshmallow fluff and fluffernutters (#79408)
 * [Magiclysm] Valzain book selling fix (#79405)
 * "fix" angled include headers (#79390)
-
-Cataclysm-DDA experimental build 2025-01-29-1339 (a96bf09)
 * [Xedra Evolved] Fix Lilit trait gain EoC (#79404)
 * Add numpad binds for panning uilists (#79330)
 * [Sky Island] Minor typo correction (#79335)

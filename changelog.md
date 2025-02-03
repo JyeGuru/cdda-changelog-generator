@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-03-0356 ([f72fb5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0356))
+
 * Fixing bounding box errors ([#79493](https://github.com/CleverRaven/Cataclysm-DDA/pull/79493))
 * Remove some more POLEARMS category from spears ([#79497](https://github.com/CleverRaven/Cataclysm-DDA/pull/79497))
 
@@ -183,11 +188,6 @@
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
 * "fix" angled include headers ([#79390](https://github.com/CleverRaven/Cataclysm-DDA/pull/79390))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-29-1339 ([a96bf09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-29-1339))
-
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
 * Add numpad binds for panning uilists ([#79330](https://github.com/CleverRaven/Cataclysm-DDA/pull/79330))
 * [Sky Island] Minor typo correction ([#79335](https://github.com/CleverRaven/Cataclysm-DDA/pull/79335))
