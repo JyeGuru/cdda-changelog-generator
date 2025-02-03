@@ -1,3 +1,6 @@
+* [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
+* Convert some vehicle operations to be map aware ([#79477](https://github.com/CleverRaven/Cataclysm-DDA/pull/79477))
+* [MoM] Change relocation to require apportation ([#79478](https://github.com/CleverRaven/Cataclysm-DDA/pull/79478))
 * Variant Docs ([#79482](https://github.com/CleverRaven/Cataclysm-DDA/pull/79482))
 * add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
 
@@ -192,7 +195,6 @@
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
 * "fix" angled include headers ([#79390](https://github.com/CleverRaven/Cataclysm-DDA/pull/79390))
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
-* [Sky Island] Minor typo correction ([#79335](https://github.com/CleverRaven/Cataclysm-DDA/pull/79335))
 * Update gas mask item flags ([#79369](https://github.com/CleverRaven/Cataclysm-DDA/pull/79369))
 * typified p-u ([#79373](https://github.com/CleverRaven/Cataclysm-DDA/pull/79373))
 * Fix clang-tidy warning about mispositioned translation comment ([#79394](https://github.com/CleverRaven/Cataclysm-DDA/pull/79394))
@@ -225,5 +227,3 @@
 * Don't hardcode help text: List Items filter popup ([#79355](https://github.com/CleverRaven/Cataclysm-DDA/pull/79355))
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
-* Fix "Build Dirt Floor" requirements ([#79334](https://github.com/CleverRaven/Cataclysm-DDA/pull/79334))
-* refactor `map::shoot` bashing, part 1 ([#79333](https://github.com/CleverRaven/Cataclysm-DDA/pull/79333))
