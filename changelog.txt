@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-04-0334 (9351cfe)
+* Sky Island vampire compatibility (#79507)
+
 Cataclysm-DDA experimental build 2025-02-03-1932 (c4a84a2)
 * `Uncaring` characters can socialize with NPCs but they don't like it (#79512)
 
@@ -136,7 +139,6 @@ Cataclysm-DDA experimental build 2025-01-30-1229 (79018e6)
 * Clarify ALLOWS_BODY_BLOCKS flag description (#79346)
 * Weekly Changelog 2025-01-20 to 2025-01-27 (#79365)
 * [Aftershock] Augustmoon Traders use loot zones (#79349)
-* Add apt-get update step into the clang-tidy job (#79344)
 * Fix a build error with the object creator (#79360)
 * Fix dirt floor durability and materials (#79348)
 * Don't hardcode help text: List Items filter popup (#79355)

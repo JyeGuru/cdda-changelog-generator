@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-04-0334 ([9351cfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-04-0334))
+
+* Sky Island vampire compatibility ([#79507](https://github.com/CleverRaven/Cataclysm-DDA/pull/79507))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-03-1932 ([c4a84a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-1932))
 
 * `Uncaring` characters can socialize with NPCs but they don't like it ([#79512](https://github.com/CleverRaven/Cataclysm-DDA/pull/79512))
@@ -211,7 +217,6 @@
 * Clarify ALLOWS_BODY_BLOCKS flag description ([#79346](https://github.com/CleverRaven/Cataclysm-DDA/pull/79346))
 * Weekly Changelog 2025-01-20 to 2025-01-27 ([#79365](https://github.com/CleverRaven/Cataclysm-DDA/pull/79365))
 * [Aftershock] Augustmoon Traders use loot zones ([#79349](https://github.com/CleverRaven/Cataclysm-DDA/pull/79349))
-* Add apt-get update step into the clang-tidy job ([#79344](https://github.com/CleverRaven/Cataclysm-DDA/pull/79344))
 * Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
 * Fix dirt floor durability and materials ([#79348](https://github.com/CleverRaven/Cataclysm-DDA/pull/79348))
 * Don't hardcode help text: List Items filter popup ([#79355](https://github.com/CleverRaven/Cataclysm-DDA/pull/79355))
