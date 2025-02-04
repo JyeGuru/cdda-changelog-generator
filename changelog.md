@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-04-0524 ([fcaebb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-04-0524))
+
 * fix roll_remainder eoc effect ([#79526](https://github.com/CleverRaven/Cataclysm-DDA/pull/79526))
 
 ---
@@ -178,11 +183,6 @@
 * [ Xedra Evolved ] Mad genius pocket dark age ([#79407](https://github.com/CleverRaven/Cataclysm-DDA/pull/79407))
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE ([#79415](https://github.com/CleverRaven/Cataclysm-DDA/pull/79415))
 * [XE] Boann will use her magic against those who attack her. ([#79420](https://github.com/CleverRaven/Cataclysm-DDA/pull/79420))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-30-1229 ([79018e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1229))
-
 * Music Genre snippets ([#79417](https://github.com/CleverRaven/Cataclysm-DDA/pull/79417))
 * a small handful of random insignificant code cleanups ([#79389](https://github.com/CleverRaven/Cataclysm-DDA/pull/79389))
 * Set system locale decimal separator as imgui Platform_LocaleDecimalPoint ([#79406](https://github.com/CleverRaven/Cataclysm-DDA/pull/79406))
