@@ -1,3 +1,12 @@
+* Magic Infrastructure: Make magic_type spell fail chance still affected by spell specific flags ([#79506](https://github.com/CleverRaven/Cataclysm-DDA/pull/79506))
+* Add an island-only sun protection to Sky island ([#79525](https://github.com/CleverRaven/Cataclysm-DDA/pull/79525))
+* Vehicle position -> absolute ([#79528](https://github.com/CleverRaven/Cataclysm-DDA/pull/79528))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-04-1543 ([3c801a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-04-1543))
+
+* Allow EOCs to read item tool qualities ([#79511](https://github.com/CleverRaven/Cataclysm-DDA/pull/79511))
 
 ---
 
@@ -202,7 +211,6 @@
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
-* Make zone manager width expand up to sidebar width ([#79347](https://github.com/CleverRaven/Cataclysm-DDA/pull/79347))
 * Fix trading: NPC no longer accept items that would be deleted. ([#79364](https://github.com/CleverRaven/Cataclysm-DDA/pull/79364))
 * add workflow_dispatch for CI ([#79372](https://github.com/CleverRaven/Cataclysm-DDA/pull/79372))
 * Allow AIM unload into container ([#79375](https://github.com/CleverRaven/Cataclysm-DDA/pull/79375))
@@ -214,11 +222,8 @@
 * [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
 * document keg_capacity changes ([#79368](https://github.com/CleverRaven/Cataclysm-DDA/pull/79368))
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
-* Clarify ALLOWS_BODY_BLOCKS flag description ([#79346](https://github.com/CleverRaven/Cataclysm-DDA/pull/79346))
 * Weekly Changelog 2025-01-20 to 2025-01-27 ([#79365](https://github.com/CleverRaven/Cataclysm-DDA/pull/79365))
-* [Aftershock] Augustmoon Traders use loot zones ([#79349](https://github.com/CleverRaven/Cataclysm-DDA/pull/79349))
 * Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
-* Fix dirt floor durability and materials ([#79348](https://github.com/CleverRaven/Cataclysm-DDA/pull/79348))
 * Don't hardcode help text: List Items filter popup ([#79355](https://github.com/CleverRaven/Cataclysm-DDA/pull/79355))
 * [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
