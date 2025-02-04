@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-04-2039 ([b6438a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-04-2039))
+
+* Fix E_FILE_STORAGE item location serialization ([#79522](https://github.com/CleverRaven/Cataclysm-DDA/pull/79522))
 * Magic Infrastructure: Make magic_type spell fail chance still affected by spell specific flags ([#79506](https://github.com/CleverRaven/Cataclysm-DDA/pull/79506))
 * Add an island-only sun protection to Sky island ([#79525](https://github.com/CleverRaven/Cataclysm-DDA/pull/79525))
 * Vehicle position -> absolute ([#79528](https://github.com/CleverRaven/Cataclysm-DDA/pull/79528))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-01-31-0415 ([08f25b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-0415))
 
 * Check if debug.log exists ([#79436](https://github.com/CleverRaven/Cataclysm-DDA/pull/79436))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-30-1903 ([f510ba6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-30-1903))
-
 * Add options to sort item list by item name ([#79393](https://github.com/CleverRaven/Cataclysm-DDA/pull/79393))
 * [Xedra Evolved ] Casings from dreamsmith ([#79366](https://github.com/CleverRaven/Cataclysm-DDA/pull/79366))
 * [ Xedra Evolved ] Mad genius pocket dark age ([#79407](https://github.com/CleverRaven/Cataclysm-DDA/pull/79407))
@@ -225,5 +226,4 @@
 * Weekly Changelog 2025-01-20 to 2025-01-27 ([#79365](https://github.com/CleverRaven/Cataclysm-DDA/pull/79365))
 * Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
 * Don't hardcode help text: List Items filter popup ([#79355](https://github.com/CleverRaven/Cataclysm-DDA/pull/79355))
-* [DinoMod] Raw cat/dog food can be used to tame dinosaurs ([#79351](https://github.com/CleverRaven/Cataclysm-DDA/pull/79351))
 * [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
