@@ -1,3 +1,4 @@
+* fix roll_remainder eoc effect (#79526)
 
 Cataclysm-DDA experimental build 2025-02-04-0334 (9351cfe)
 * Sky Island vampire compatibility (#79507)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2025-01-30-1229 (79018e6)
 * Update MSVC builds' reported version (#79383)
 * [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain (#79384)
 * Add boards and amenities to NPC faction camps (#79367)
-* [MoM] Change the Power Spoilers document for ease of browsing (#79345)
 * Ebooks: fix scanning and crafting menu info (#79354)
 * [Xedra Evolved] Fix Unsleeping Earth Vigil (#79376)
 * document keg_capacity changes (#79368)
