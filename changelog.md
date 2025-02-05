@@ -1,3 +1,11 @@
+* Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
+* Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-05-1502 ([7273fae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-05-1502))
+
+* Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
 
 ---
 
@@ -175,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-01-31-1525 ([ec9f2ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-1525))
 
 * Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-31-0814 ([2eaa72c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-0814))
-
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
 * Refactor finger touch counting ([#79412](https://github.com/CleverRaven/Cataclysm-DDA/pull/79412))
 * [Aftershock] Esper tweaks ([#79403](https://github.com/CleverRaven/Cataclysm-DDA/pull/79403))
@@ -224,6 +227,4 @@
 * Add boards and amenities to NPC faction camps ([#79367](https://github.com/CleverRaven/Cataclysm-DDA/pull/79367))
 * [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
 * document keg_capacity changes ([#79368](https://github.com/CleverRaven/Cataclysm-DDA/pull/79368))
-* Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
 * Weekly Changelog 2025-01-20 to 2025-01-27 ([#79365](https://github.com/CleverRaven/Cataclysm-DDA/pull/79365))
-* Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
