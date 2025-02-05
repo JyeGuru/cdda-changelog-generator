@@ -1,3 +1,4 @@
+* Fix map cache segfault, remove omt tripoints from map items' operations (#79537)
 * Revert "Refactor finger touch counting" (#79516)
 
 Cataclysm-DDA experimental build 2025-02-05-0551 (8796836)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-01-31-0612 (ec34dc3)
 * Fix broken EFilePocket on Integrated AR Bionic (#79361)
 * Weekly Changelog 2025-01-20 to 2025-01-27 (#79365)
 * Fix a build error with the object creator (#79360)
-* [Aftershock] Fix EFile pockets on Electronics (#79359)

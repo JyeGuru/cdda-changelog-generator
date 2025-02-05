@@ -1,3 +1,4 @@
+* Fix map cache segfault, remove omt tripoints from map items' operations ([#79537](https://github.com/CleverRaven/Cataclysm-DDA/pull/79537))
 * Revert "Refactor finger touch counting" ([#79516](https://github.com/CleverRaven/Cataclysm-DDA/pull/79516))
 
 ---
@@ -226,4 +227,3 @@
 * Fix broken EFilePocket on Integrated AR Bionic ([#79361](https://github.com/CleverRaven/Cataclysm-DDA/pull/79361))
 * Weekly Changelog 2025-01-20 to 2025-01-27 ([#79365](https://github.com/CleverRaven/Cataclysm-DDA/pull/79365))
 * Fix a build error with the object creator ([#79360](https://github.com/CleverRaven/Cataclysm-DDA/pull/79360))
-* [Aftershock] Fix EFile pockets on Electronics ([#79359](https://github.com/CleverRaven/Cataclysm-DDA/pull/79359))
