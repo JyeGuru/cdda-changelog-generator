@@ -1,3 +1,10 @@
+* Weekly Changelog 2025-01-27 to 2025-02-03 ([#79508](https://github.com/CleverRaven/Cataclysm-DDA/pull/79508))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-06-0628 ([ada81a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-0628))
+
+* [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
 
 ---
 
@@ -176,11 +183,6 @@
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types ([#79448](https://github.com/CleverRaven/Cataclysm-DDA/pull/79448))
 * Move item stuff from json_info.md to it's own doc, move crafting stuff to crafting doc ([#79395](https://github.com/CleverRaven/Cataclysm-DDA/pull/79395))
 * [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-01-0033 ([a5161ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0033))
-
 * Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
 * Prevent item::charges_per_weight to return overflowed values ([#79422](https://github.com/CleverRaven/Cataclysm-DDA/pull/79422))
 * Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
@@ -196,7 +198,6 @@
 * [Aftershock] Make UICA chit ATM-compatible ([#79426](https://github.com/CleverRaven/Cataclysm-DDA/pull/79426))
 * Check if debug.log exists ([#79436](https://github.com/CleverRaven/Cataclysm-DDA/pull/79436))
 * Add options to sort item list by item name ([#79393](https://github.com/CleverRaven/Cataclysm-DDA/pull/79393))
-* [Xedra Evolved ] Casings from dreamsmith ([#79366](https://github.com/CleverRaven/Cataclysm-DDA/pull/79366))
 * [ Xedra Evolved ] Mad genius pocket dark age ([#79407](https://github.com/CleverRaven/Cataclysm-DDA/pull/79407))
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE ([#79415](https://github.com/CleverRaven/Cataclysm-DDA/pull/79415))
 * [XE] Boann will use her magic against those who attack her. ([#79420](https://github.com/CleverRaven/Cataclysm-DDA/pull/79420))
@@ -227,4 +228,3 @@
 * Add boards and amenities to NPC faction camps ([#79367](https://github.com/CleverRaven/Cataclysm-DDA/pull/79367))
 * [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
 * document keg_capacity changes ([#79368](https://github.com/CleverRaven/Cataclysm-DDA/pull/79368))
-* Weekly Changelog 2025-01-20 to 2025-01-27 ([#79365](https://github.com/CleverRaven/Cataclysm-DDA/pull/79365))
