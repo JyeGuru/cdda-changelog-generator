@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-06-0250 ([bbc845d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-0250))
+
+* [Aftershock] Update and Expand Hacking System ([#79496](https://github.com/CleverRaven/Cataclysm-DDA/pull/79496))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-05-1708 ([4fbc240](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-05-1708))
 
 * Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-02-01-0033 ([a5161ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0033))
 
 * Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
-
----
-
-#### Cataclysm-DDA experimental build 2025-01-31-2227 ([7b6d7b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-01-31-2227))
-
 * Prevent item::charges_per_weight to return overflowed values ([#79422](https://github.com/CleverRaven/Cataclysm-DDA/pull/79422))
 * Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
@@ -218,7 +219,6 @@
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
-* Fix trading: NPC no longer accept items that would be deleted. ([#79364](https://github.com/CleverRaven/Cataclysm-DDA/pull/79364))
 * add workflow_dispatch for CI ([#79372](https://github.com/CleverRaven/Cataclysm-DDA/pull/79372))
 * Allow AIM unload into container ([#79375](https://github.com/CleverRaven/Cataclysm-DDA/pull/79375))
 * Minor generator-related fixes ([#79379](https://github.com/CleverRaven/Cataclysm-DDA/pull/79379))
