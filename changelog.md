@@ -1,3 +1,4 @@
+* [WIP] Ma firearm data import ([#79538](https://github.com/CleverRaven/Cataclysm-DDA/pull/79538))
 * Implement riot damage in cities ([#79535](https://github.com/CleverRaven/Cataclysm-DDA/pull/79535))
 * Remove Obsoleted Mod lacking maintainer Blaze Industries ([#79534](https://github.com/CleverRaven/Cataclysm-DDA/pull/79534))
 * made more vehicle stuff map aware ([#79544](https://github.com/CleverRaven/Cataclysm-DDA/pull/79544))
@@ -222,7 +223,6 @@
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
-* add workflow_dispatch for CI ([#79372](https://github.com/CleverRaven/Cataclysm-DDA/pull/79372))
 * Allow AIM unload into container ([#79375](https://github.com/CleverRaven/Cataclysm-DDA/pull/79375))
 * Minor generator-related fixes ([#79379](https://github.com/CleverRaven/Cataclysm-DDA/pull/79379))
 * Update MSVC builds' reported version ([#79383](https://github.com/CleverRaven/Cataclysm-DDA/pull/79383))
