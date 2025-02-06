@@ -1,3 +1,13 @@
+* Add myself as No Hope maintainer, minor reorganisation/clean up ([#79547](https://github.com/CleverRaven/Cataclysm-DDA/pull/79547))
+* [Xedra Evolved] Add seasonal magic for changelings ([#79460](https://github.com/CleverRaven/Cataclysm-DDA/pull/79460))
+* [ Xedra Evolved ] Fix monster spawns in Vampire Cathedral basement ([#79542](https://github.com/CleverRaven/Cataclysm-DDA/pull/79542))
+* Fix clang-tidy plugin compilation on windows and document the process. ([#79553](https://github.com/CleverRaven/Cataclysm-DDA/pull/79553))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-06-1359 ([0bbc4d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-1359))
+
+* minor typo fix for Caotel 2.2 ([#79558](https://github.com/CleverRaven/Cataclysm-DDA/pull/79558))
 
 ---
 
@@ -177,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-02-01-0952 ([b9732f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0952))
 
 * Routine i18n updates on 01 February 2025 ([#79469](https://github.com/CleverRaven/Cataclysm-DDA/pull/79469))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-01-0607 ([8c76186](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0607))
-
 * Start to make vehicle coordinates make sense ([#79457](https://github.com/CleverRaven/Cataclysm-DDA/pull/79457))
 * [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types ([#79448](https://github.com/CleverRaven/Cataclysm-DDA/pull/79448))
@@ -216,15 +221,10 @@
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
 * "fix" angled include headers ([#79390](https://github.com/CleverRaven/Cataclysm-DDA/pull/79390))
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
-* typified p-u ([#79373](https://github.com/CleverRaven/Cataclysm-DDA/pull/79373))
 * Fix clang-tidy warning about mispositioned translation comment ([#79394](https://github.com/CleverRaven/Cataclysm-DDA/pull/79394))
 * Implement (R)eading e-book requirements, fix etransfer_rate segfault ([#79387](https://github.com/CleverRaven/Cataclysm-DDA/pull/79387))
 * fix query popup not wrapping ([#79396](https://github.com/CleverRaven/Cataclysm-DDA/pull/79396))
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
 * Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
-* Allow AIM unload into container ([#79375](https://github.com/CleverRaven/Cataclysm-DDA/pull/79375))
-* Minor generator-related fixes ([#79379](https://github.com/CleverRaven/Cataclysm-DDA/pull/79379))
-* Update MSVC builds' reported version ([#79383](https://github.com/CleverRaven/Cataclysm-DDA/pull/79383))
 * [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain ([#79384](https://github.com/CleverRaven/Cataclysm-DDA/pull/79384))
-* [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
