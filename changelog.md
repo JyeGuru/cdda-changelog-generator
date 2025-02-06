@@ -1,3 +1,4 @@
+* made more vehicle stuff map aware ([#79544](https://github.com/CleverRaven/Cataclysm-DDA/pull/79544))
 * Weekly Changelog 2025-01-27 to 2025-02-03 ([#79508](https://github.com/CleverRaven/Cataclysm-DDA/pull/79508))
 
 ---
@@ -225,6 +226,5 @@
 * Minor generator-related fixes ([#79379](https://github.com/CleverRaven/Cataclysm-DDA/pull/79379))
 * Update MSVC builds' reported version ([#79383](https://github.com/CleverRaven/Cataclysm-DDA/pull/79383))
 * [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain ([#79384](https://github.com/CleverRaven/Cataclysm-DDA/pull/79384))
-* Add boards and amenities to NPC faction camps ([#79367](https://github.com/CleverRaven/Cataclysm-DDA/pull/79367))
 * [Xedra Evolved] Fix Unsleeping Earth Vigil ([#79376](https://github.com/CleverRaven/Cataclysm-DDA/pull/79376))
 * document keg_capacity changes ([#79368](https://github.com/CleverRaven/Cataclysm-DDA/pull/79368))
