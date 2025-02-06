@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-06-1621 ([bfaee8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-1621))
+
 * Add myself as No Hope maintainer, minor reorganisation/clean up ([#79547](https://github.com/CleverRaven/Cataclysm-DDA/pull/79547))
 * [Xedra Evolved] Add seasonal magic for changelings ([#79460](https://github.com/CleverRaven/Cataclysm-DDA/pull/79460))
 * [ Xedra Evolved ] Fix monster spawns in Vampire Cathedral basement ([#79542](https://github.com/CleverRaven/Cataclysm-DDA/pull/79542))
@@ -181,11 +186,6 @@
 * Audit small turbine engine ([#79449](https://github.com/CleverRaven/Cataclysm-DDA/pull/79449))
 * Update tools.json ([#79462](https://github.com/CleverRaven/Cataclysm-DDA/pull/79462))
 * Routine tileset updates on 01 February 2025 ([#79467](https://github.com/CleverRaven/Cataclysm-DDA/pull/79467))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-01-0952 ([b9732f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0952))
-
 * Routine i18n updates on 01 February 2025 ([#79469](https://github.com/CleverRaven/Cataclysm-DDA/pull/79469))
 * Start to make vehicle coordinates make sense ([#79457](https://github.com/CleverRaven/Cataclysm-DDA/pull/79457))
 * [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
