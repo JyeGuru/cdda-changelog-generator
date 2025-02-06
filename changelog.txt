@@ -1,3 +1,8 @@
+* Spell Infrastructure: Make spell difficulty accessible in math (#79554)
+* fix plural form of generators (#79557)
+
+Cataclysm-DDA experimental build 2025-02-06-2218 (4091893)
+* fix insert item segfault (#79556)
 
 Cataclysm-DDA experimental build 2025-02-06-1621 (bfaee8a)
 * Add myself as No Hope maintainer, minor reorganisation/clean up (#79547)
@@ -98,8 +103,6 @@ Cataclysm-DDA experimental build 2025-02-01-1640 (128e933)
 
 Cataclysm-DDA experimental build 2025-02-01-1441 (f741f43)
 * [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic (#79456)
-
-Cataclysm-DDA experimental build 2025-02-01-1157 (360fe2c)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#79475)
 * Professions can define your starting bank balance (#79450)
 * Audit small turbine engine (#79449)
@@ -145,5 +148,3 @@ Cataclysm-DDA experimental build 2025-02-01-1157 (360fe2c)
 * fix query popup not wrapping (#79396)
 * Fix vehicle parts being unrepairable after removing from vehicle (#79391)
 * Remove survivor's note from textbooks itemgroup (#79399)
-* Mission Clarifications: Tacoma Foreman Missions (#79386)
-* [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain (#79384)

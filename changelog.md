@@ -1,3 +1,11 @@
+* Spell Infrastructure: Make spell difficulty accessible in math ([#79554](https://github.com/CleverRaven/Cataclysm-DDA/pull/79554))
+* fix plural form of generators ([#79557](https://github.com/CleverRaven/Cataclysm-DDA/pull/79557))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-06-2218 ([4091893](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-2218))
+
+* fix insert item segfault ([#79556](https://github.com/CleverRaven/Cataclysm-DDA/pull/79556))
 
 ---
 
@@ -176,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-02-01-1441 ([f741f43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1441))
 
 * [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic ([#79456](https://github.com/CleverRaven/Cataclysm-DDA/pull/79456))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-01-1157 ([360fe2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1157))
-
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
 * Professions can define your starting bank balance ([#79450](https://github.com/CleverRaven/Cataclysm-DDA/pull/79450))
 * Audit small turbine engine ([#79449](https://github.com/CleverRaven/Cataclysm-DDA/pull/79449))
@@ -226,5 +229,3 @@
 * fix query popup not wrapping ([#79396](https://github.com/CleverRaven/Cataclysm-DDA/pull/79396))
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
-* Mission Clarifications: Tacoma Foreman Missions ([#79386](https://github.com/CleverRaven/Cataclysm-DDA/pull/79386))
-* [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain ([#79384](https://github.com/CleverRaven/Cataclysm-DDA/pull/79384))
