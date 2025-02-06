@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-06-0843 (6eaaf7b)
 * [WIP] Ma firearm data import (#79538)
 * Implement riot damage in cities (#79535)
 * Remove Obsoleted Mod lacking maintainer Blaze Industries (#79534)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2025-02-01-0952 (b9732f7)
 Cataclysm-DDA experimental build 2025-02-01-0607 (8c76186)
 * Start to make vehicle coordinates make sense (#79457)
 * [MoM] Add Apportation teleportation power (#79454)
-
-Cataclysm-DDA experimental build 2025-02-01-0306 (043c17c)
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types (#79448)
 * Move item stuff from json_info.md to it's own doc, move crafting stuff to crafting doc (#79395)
 * [MoM] New power documentation updates (#79455)

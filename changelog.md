@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-06-0843 ([6eaaf7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-0843))
+
 * [WIP] Ma firearm data import ([#79538](https://github.com/CleverRaven/Cataclysm-DDA/pull/79538))
 * Implement riot damage in cities ([#79535](https://github.com/CleverRaven/Cataclysm-DDA/pull/79535))
 * Remove Obsoleted Mod lacking maintainer Blaze Industries ([#79534](https://github.com/CleverRaven/Cataclysm-DDA/pull/79534))
@@ -179,11 +184,6 @@
 
 * Start to make vehicle coordinates make sense ([#79457](https://github.com/CleverRaven/Cataclysm-DDA/pull/79457))
 * [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-01-0306 ([043c17c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-0306))
-
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types ([#79448](https://github.com/CleverRaven/Cataclysm-DDA/pull/79448))
 * Move item stuff from json_info.md to it's own doc, move crafting stuff to crafting doc ([#79395](https://github.com/CleverRaven/Cataclysm-DDA/pull/79395))
 * [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
