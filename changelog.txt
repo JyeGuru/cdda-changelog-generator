@@ -1,3 +1,4 @@
+* Remove Obsoleted Mod lacking maintainer Blaze Industries (#79534)
 * made more vehicle stuff map aware (#79544)
 * Weekly Changelog 2025-01-27 to 2025-02-03 (#79508)
 
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-02-01-0306 (043c17c)
 * Update MSVC builds' reported version (#79383)
 * [Xedra Evolved] Allow Ierde to deactivate The Root of the Mountain (#79384)
 * [Xedra Evolved] Fix Unsleeping Earth Vigil (#79376)
-* document keg_capacity changes (#79368)
