@@ -1,3 +1,4 @@
+* Hobbies can give recipes (#79555)
 
 Cataclysm-DDA experimental build 2025-02-07-0644 (6f4035b)
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes (#79562)
@@ -146,5 +147,4 @@ Cataclysm-DDA experimental build 2025-02-02-0310 (806f84f)
 * [Xedra Evolved] Fix Lilit trait gain EoC (#79404)
 * Fix clang-tidy warning about mispositioned translation comment (#79394)
 * fix query popup not wrapping (#79396)
-* Fix vehicle parts being unrepairable after removing from vehicle (#79391)
 * Remove survivor's note from textbooks itemgroup (#79399)

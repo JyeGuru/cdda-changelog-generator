@@ -1,3 +1,4 @@
+* Hobbies can give recipes ([#79555](https://github.com/CleverRaven/Cataclysm-DDA/pull/79555))
 
 ---
 
@@ -227,5 +228,4 @@
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
 * Fix clang-tidy warning about mispositioned translation comment ([#79394](https://github.com/CleverRaven/Cataclysm-DDA/pull/79394))
 * fix query popup not wrapping ([#79396](https://github.com/CleverRaven/Cataclysm-DDA/pull/79396))
-* Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
