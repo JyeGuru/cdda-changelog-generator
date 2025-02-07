@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-07-0854 ([c346c0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0854))
+
 * Hobbies can give recipes ([#79555](https://github.com/CleverRaven/Cataclysm-DDA/pull/79555))
 
 ---
@@ -177,11 +182,6 @@
 
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-02-0310 ([806f84f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-0310))
-
 * Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
 * Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 * expand revivification ([#79429](https://github.com/CleverRaven/Cataclysm-DDA/pull/79429))
