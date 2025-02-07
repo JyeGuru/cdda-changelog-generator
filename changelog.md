@@ -1,3 +1,14 @@
+* made iuse_actor use map aware + some vehicle operation ([#79561](https://github.com/CleverRaven/Cataclysm-DDA/pull/79561))
+* [Xedra Evolved] Seasonal magic casting failure adjustments ([#79567](https://github.com/CleverRaven/Cataclysm-DDA/pull/79567))
+* NO_HANDS flag added twice ([#79578](https://github.com/CleverRaven/Cataclysm-DDA/pull/79578))
+* [Magiclysm] Fix Goodberry EoC ([#79576](https://github.com/CleverRaven/Cataclysm-DDA/pull/79576))
+* Add stone fireplace back ([#79577](https://github.com/CleverRaven/Cataclysm-DDA/pull/79577))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-07-1351 ([87ca5d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-1351))
+
+* remove a missed mention of bionics in a piece of furniture ([#79571](https://github.com/CleverRaven/Cataclysm-DDA/pull/79571))
 
 ---
 
@@ -175,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-02-02-1030 ([3dfe45d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-1030))
 
 * add some missing flags to allow better mapgen control ([#79474](https://github.com/CleverRaven/Cataclysm-DDA/pull/79474))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-02-0512 ([2b7d5de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-0512))
-
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
 * Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
@@ -198,14 +204,12 @@
 * Start to make vehicle coordinates make sense ([#79457](https://github.com/CleverRaven/Cataclysm-DDA/pull/79457))
 * [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types ([#79448](https://github.com/CleverRaven/Cataclysm-DDA/pull/79448))
-* Move item stuff from json_info.md to it's own doc, move crafting stuff to crafting doc ([#79395](https://github.com/CleverRaven/Cataclysm-DDA/pull/79395))
 * [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
 * Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
 * Prevent item::charges_per_weight to return overflowed values ([#79422](https://github.com/CleverRaven/Cataclysm-DDA/pull/79422))
 * Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
 * Refactor finger touch counting ([#79412](https://github.com/CleverRaven/Cataclysm-DDA/pull/79412))
-* [Aftershock] Esper tweaks ([#79403](https://github.com/CleverRaven/Cataclysm-DDA/pull/79403))
 * remove incorrect comment ([#79421](https://github.com/CleverRaven/Cataclysm-DDA/pull/79421))
 * [Xedra Evolved] Rework how elemental fae gain terrain bonuses ([#79427](https://github.com/CleverRaven/Cataclysm-DDA/pull/79427))
 * [Xedra Evolved/Sky Island] Elemental fae are at home on the island ([#79432](https://github.com/CleverRaven/Cataclysm-DDA/pull/79432))
@@ -214,7 +218,6 @@
 * [MoM] Fix Thought-Form Exercises Recipe ([#79425](https://github.com/CleverRaven/Cataclysm-DDA/pull/79425))
 * [Aftershock] Make UICA chit ATM-compatible ([#79426](https://github.com/CleverRaven/Cataclysm-DDA/pull/79426))
 * Check if debug.log exists ([#79436](https://github.com/CleverRaven/Cataclysm-DDA/pull/79436))
-* Add options to sort item list by item name ([#79393](https://github.com/CleverRaven/Cataclysm-DDA/pull/79393))
 * [ Xedra Evolved ] Mad genius pocket dark age ([#79407](https://github.com/CleverRaven/Cataclysm-DDA/pull/79407))
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE ([#79415](https://github.com/CleverRaven/Cataclysm-DDA/pull/79415))
 * [XE] Boann will use her magic against those who attack her. ([#79420](https://github.com/CleverRaven/Cataclysm-DDA/pull/79420))
@@ -226,6 +229,3 @@
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
-* Fix clang-tidy warning about mispositioned translation comment ([#79394](https://github.com/CleverRaven/Cataclysm-DDA/pull/79394))
-* fix query popup not wrapping ([#79396](https://github.com/CleverRaven/Cataclysm-DDA/pull/79396))
-* Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
