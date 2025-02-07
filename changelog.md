@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-07-0026 ([e8e124e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0026))
+
 * Spell Infrastructure: Make spell difficulty accessible in math ([#79554](https://github.com/CleverRaven/Cataclysm-DDA/pull/79554))
 * fix plural form of generators ([#79557](https://github.com/CleverRaven/Cataclysm-DDA/pull/79557))
 
@@ -178,11 +183,6 @@
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * [MoM] Item Gateway Power ([#79441](https://github.com/CleverRaven/Cataclysm-DDA/pull/79441))
 * Vending Machines can optionally use your Bank Balance ([#79442](https://github.com/CleverRaven/Cataclysm-DDA/pull/79442))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-01-1441 ([f741f43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1441))
-
 * [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic ([#79456](https://github.com/CleverRaven/Cataclysm-DDA/pull/79456))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
 * Professions can define your starting bank balance ([#79450](https://github.com/CleverRaven/Cataclysm-DDA/pull/79450))

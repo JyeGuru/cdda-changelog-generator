@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-07-0026 (e8e124e)
 * Spell Infrastructure: Make spell difficulty accessible in math (#79554)
 * fix plural form of generators (#79557)
 
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-02-01-1640 (128e933)
 * Allows vehicles to cross at train crossings (#79476)
 * [MoM] Item Gateway Power (#79441)
 * Vending Machines can optionally use your Bank Balance (#79442)
-
-Cataclysm-DDA experimental build 2025-02-01-1441 (f741f43)
 * [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic (#79456)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#79475)
 * Professions can define your starting bank balance (#79450)
