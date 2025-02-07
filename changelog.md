@@ -1,3 +1,4 @@
+* Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
 * made iuse_actor use map aware + some vehicle operation ([#79561](https://github.com/CleverRaven/Cataclysm-DDA/pull/79561))
 * [Xedra Evolved] Seasonal magic casting failure adjustments ([#79567](https://github.com/CleverRaven/Cataclysm-DDA/pull/79567))
 * NO_HANDS flag added twice ([#79578](https://github.com/CleverRaven/Cataclysm-DDA/pull/79578))
@@ -228,4 +229,3 @@
 * fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
-* [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
