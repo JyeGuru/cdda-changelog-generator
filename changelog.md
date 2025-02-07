@@ -1,3 +1,4 @@
+* [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
 
 ---
 
@@ -223,7 +224,6 @@
 * fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
-* "fix" angled include headers ([#79390](https://github.com/CleverRaven/Cataclysm-DDA/pull/79390))
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
 * Fix clang-tidy warning about mispositioned translation comment ([#79394](https://github.com/CleverRaven/Cataclysm-DDA/pull/79394))
 * fix query popup not wrapping ([#79396](https://github.com/CleverRaven/Cataclysm-DDA/pull/79396))
