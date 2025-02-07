@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-07-0644 ([6f4035b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0644))
+
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-02-02-0310 ([806f84f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-0310))
 
 * Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-01-2321 ([acd9d2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-2321))
-
 * Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 * expand revivification ([#79429](https://github.com/CleverRaven/Cataclysm-DDA/pull/79429))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
