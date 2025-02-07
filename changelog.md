@@ -1,3 +1,11 @@
+* Dont show liquids from held or worn container in AIM [I]nventory-panel ([#79560](https://github.com/CleverRaven/Cataclysm-DDA/pull/79560))
+* E-device selection ignores empty browsed devices when moving/copying ([#79539](https://github.com/CleverRaven/Cataclysm-DDA/pull/79539))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-07-0243 ([848ecd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0243))
+
+* Initial support for GNU Make for Windows ([#79500](https://github.com/CleverRaven/Cataclysm-DDA/pull/79500))
 
 ---
 
@@ -175,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-02-01-2125 ([5a3d433](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-2125))
 
 * expand revivification ([#79429](https://github.com/CleverRaven/Cataclysm-DDA/pull/79429))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-01-1640 ([128e933](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-01-1640))
-
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * [MoM] Item Gateway Power ([#79441](https://github.com/CleverRaven/Cataclysm-DDA/pull/79441))
 * Vending Machines can optionally use your Bank Balance ([#79442](https://github.com/CleverRaven/Cataclysm-DDA/pull/79442))
@@ -214,18 +217,15 @@
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE ([#79415](https://github.com/CleverRaven/Cataclysm-DDA/pull/79415))
 * [XE] Boann will use her magic against those who attack her. ([#79420](https://github.com/CleverRaven/Cataclysm-DDA/pull/79420))
 * Music Genre snippets ([#79417](https://github.com/CleverRaven/Cataclysm-DDA/pull/79417))
-* a small handful of random insignificant code cleanups ([#79389](https://github.com/CleverRaven/Cataclysm-DDA/pull/79389))
 * Set system locale decimal separator as imgui Platform_LocaleDecimalPoint ([#79406](https://github.com/CleverRaven/Cataclysm-DDA/pull/79406))
 * typify the last of mapgen ([#79413](https://github.com/CleverRaven/Cataclysm-DDA/pull/79413))
 * typify v-w ([#79410](https://github.com/CleverRaven/Cataclysm-DDA/pull/79410))
-* Chapters are Character-mapped for unique books ([#79388](https://github.com/CleverRaven/Cataclysm-DDA/pull/79388))
 * fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))
 * Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))
 * [Magiclysm] Valzain book selling fix ([#79405](https://github.com/CleverRaven/Cataclysm-DDA/pull/79405))
 * "fix" angled include headers ([#79390](https://github.com/CleverRaven/Cataclysm-DDA/pull/79390))
 * [Xedra Evolved] Fix Lilit trait gain EoC ([#79404](https://github.com/CleverRaven/Cataclysm-DDA/pull/79404))
 * Fix clang-tidy warning about mispositioned translation comment ([#79394](https://github.com/CleverRaven/Cataclysm-DDA/pull/79394))
-* Implement (R)eading e-book requirements, fix etransfer_rate segfault ([#79387](https://github.com/CleverRaven/Cataclysm-DDA/pull/79387))
 * fix query popup not wrapping ([#79396](https://github.com/CleverRaven/Cataclysm-DDA/pull/79396))
 * Fix vehicle parts being unrepairable after removing from vehicle ([#79391](https://github.com/CleverRaven/Cataclysm-DDA/pull/79391))
 * Remove survivor's note from textbooks itemgroup ([#79399](https://github.com/CleverRaven/Cataclysm-DDA/pull/79399))
