@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-07-1605 (3403981)
 * Attach some debug info to release runner errors (#79569)
 * made iuse_actor use map aware + some vehicle operation (#79561)
 * [Xedra Evolved] Seasonal magic casting failure adjustments (#79567)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-02-03-0147 (9d4478e)
 
 Cataclysm-DDA experimental build 2025-02-02-1958 (33c22b3)
 * Add lucky/unlucky traits (Crazy Cata) (#79499)
-
-Cataclysm-DDA experimental build 2025-02-02-1030 (3dfe45d)
 * add some missing flags to allow better mapgen control (#79474)
 * [Xedra Evolved] Fix commoner fae CBMs (#79484)
 * Move surface rail lines closer and add junctions (#79481)

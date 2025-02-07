@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-07-1605 ([3403981](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-1605))
+
 * Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
 * made iuse_actor use map aware + some vehicle operation ([#79561](https://github.com/CleverRaven/Cataclysm-DDA/pull/79561))
 * [Xedra Evolved] Seasonal magic casting failure adjustments ([#79567](https://github.com/CleverRaven/Cataclysm-DDA/pull/79567))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-02-02-1958 ([33c22b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-1958))
 
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-02-1030 ([3dfe45d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-1030))
-
 * add some missing flags to allow better mapgen control ([#79474](https://github.com/CleverRaven/Cataclysm-DDA/pull/79474))
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
