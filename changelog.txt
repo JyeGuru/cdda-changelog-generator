@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-07-0453 (baa0ca2)
 * Dont show liquids from held or worn container in AIM [I]nventory-panel (#79560)
 * E-device selection ignores empty browsed devices when moving/copying (#79539)
 
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2025-02-02-0310 (806f84f)
 
 Cataclysm-DDA experimental build 2025-02-01-2321 (acd9d2f)
 * Magic Infrastructure: Add failure_chance field (#79470)
-
-Cataclysm-DDA experimental build 2025-02-01-2125 (5a3d433)
 * expand revivification (#79429)
 * Allows vehicles to cross at train crossings (#79476)
 * [MoM] Item Gateway Power (#79441)
