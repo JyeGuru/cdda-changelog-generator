@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-08-0452 ([2b8297e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-0452))
+
+* [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-07-1605 ([3403981](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-1605))
 
 * Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
@@ -223,7 +229,6 @@
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE ([#79415](https://github.com/CleverRaven/Cataclysm-DDA/pull/79415))
 * [XE] Boann will use her magic against those who attack her. ([#79420](https://github.com/CleverRaven/Cataclysm-DDA/pull/79420))
 * Music Genre snippets ([#79417](https://github.com/CleverRaven/Cataclysm-DDA/pull/79417))
-* Set system locale decimal separator as imgui Platform_LocaleDecimalPoint ([#79406](https://github.com/CleverRaven/Cataclysm-DDA/pull/79406))
 * typify the last of mapgen ([#79413](https://github.com/CleverRaven/Cataclysm-DDA/pull/79413))
 * typify v-w ([#79410](https://github.com/CleverRaven/Cataclysm-DDA/pull/79410))
 * fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))

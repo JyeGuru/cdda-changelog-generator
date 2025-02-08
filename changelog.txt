@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-08-0452 (2b8297e)
+* [Xedra Evolved] Add missing deduction skill to spells (#79589)
+
 Cataclysm-DDA experimental build 2025-02-07-1605 (3403981)
 * Attach some debug info to release runner errors (#79569)
 * made iuse_actor use map aware + some vehicle operation (#79561)
@@ -142,7 +145,6 @@ Cataclysm-DDA experimental build 2025-02-02-1958 (33c22b3)
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE (#79415)
 * [XE] Boann will use her magic against those who attack her. (#79420)
 * Music Genre snippets (#79417)
-* Set system locale decimal separator as imgui Platform_LocaleDecimalPoint (#79406)
 * typify the last of mapgen (#79413)
 * typify v-w (#79410)
 * fix aim move query amount showing wrong max amount (#79409)
