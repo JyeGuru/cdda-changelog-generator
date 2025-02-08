@@ -1,3 +1,5 @@
+* Fix Riot Damage not applying properly to structures multiple z-levels tall ([#79598](https://github.com/CleverRaven/Cataclysm-DDA/pull/79598))
+* Improve blood placement on Riot Damage ([#79575](https://github.com/CleverRaven/Cataclysm-DDA/pull/79575))
 * Add pronoun/pride pins ([#79572](https://github.com/CleverRaven/Cataclysm-DDA/pull/79572))
 * Don't hardcode help text: Autopickup Manager ([#79564](https://github.com/CleverRaven/Cataclysm-DDA/pull/79564))
 * Fix prices ([#79563](https://github.com/CleverRaven/Cataclysm-DDA/pull/79563))
@@ -223,7 +225,6 @@
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types ([#79448](https://github.com/CleverRaven/Cataclysm-DDA/pull/79448))
 * [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
 * Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
-* Prevent item::charges_per_weight to return overflowed values ([#79422](https://github.com/CleverRaven/Cataclysm-DDA/pull/79422))
 * Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
 * [Xedra Evolved] Rework how elemental fae gain terrain bonuses ([#79427](https://github.com/CleverRaven/Cataclysm-DDA/pull/79427))
