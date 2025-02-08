@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-08-2130 (8228a8d)
+* Fix typo {LAWRICK -> LARWICK} (#79591)
+
 Cataclysm-DDA experimental build 2025-02-08-1934 (d59a5d6)
 * Repaired mapbuffer uniform map generation (#79586)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2025-02-03-0802 (d875aa6)
 * [MoM] Change relocation to require apportation (#79478)
 * Variant Docs (#79482)
 * add self (moxian) to comment-commands.yml (#79504)
-
-Cataclysm-DDA experimental build 2025-02-03-0556 (1b8b7d5)
 * Add radishes and seeds to the game (#79490)
 * Fixing bounding box errors (#79493)
 * Remove some more POLEARMS category from spears (#79497)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2025-02-03-0556 (1b8b7d5)
 * Prevent item::charges_per_weight to return overflowed values (#79422)
 * Fix clang test (#79445)
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp (#79437)
-* Refactor finger touch counting (#79412)
 * remove incorrect comment (#79421)
 * [Xedra Evolved] Rework how elemental fae gain terrain bonuses (#79427)
 * [Xedra Evolved/Sky Island] Elemental fae are at home on the island (#79432)
