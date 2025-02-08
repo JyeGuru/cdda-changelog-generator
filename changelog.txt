@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-08-1934 (d59a5d6)
 * Repaired mapbuffer uniform map generation (#79586)
 
 Cataclysm-DDA experimental build 2025-02-08-1735 (a473f3c)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2025-02-03-0802 (d875aa6)
 
 Cataclysm-DDA experimental build 2025-02-03-0556 (1b8b7d5)
 * Add radishes and seeds to the game (#79490)
-
-Cataclysm-DDA experimental build 2025-02-03-0356 (f72fb5c)
 * Fixing bounding box errors (#79493)
 * Remove some more POLEARMS category from spears (#79497)
 * [XEDERA] Homullus: Add revive mutation (#79487)

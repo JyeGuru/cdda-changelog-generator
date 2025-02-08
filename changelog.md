@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-08-1934 ([d59a5d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-1934))
+
 * Repaired mapbuffer uniform map generation ([#79586](https://github.com/CleverRaven/Cataclysm-DDA/pull/79586))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2025-02-03-0556 ([1b8b7d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0556))
 
 * Add radishes and seeds to the game ([#79490](https://github.com/CleverRaven/Cataclysm-DDA/pull/79490))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-03-0356 ([f72fb5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0356))
-
 * Fixing bounding box errors ([#79493](https://github.com/CleverRaven/Cataclysm-DDA/pull/79493))
 * Remove some more POLEARMS category from spears ([#79497](https://github.com/CleverRaven/Cataclysm-DDA/pull/79497))
 * [XEDERA] Homullus: Add revive mutation ([#79487](https://github.com/CleverRaven/Cataclysm-DDA/pull/79487))
