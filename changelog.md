@@ -1,3 +1,4 @@
+* Repaired mapbuffer uniform map generation ([#79586](https://github.com/CleverRaven/Cataclysm-DDA/pull/79586))
 
 ---
 
@@ -232,4 +233,3 @@
 * [XE] Boann will use her magic against those who attack her. ([#79420](https://github.com/CleverRaven/Cataclysm-DDA/pull/79420))
 * Music Genre snippets ([#79417](https://github.com/CleverRaven/Cataclysm-DDA/pull/79417))
 * typify the last of mapgen ([#79413](https://github.com/CleverRaven/Cataclysm-DDA/pull/79413))
-* typify v-w ([#79410](https://github.com/CleverRaven/Cataclysm-DDA/pull/79410))
