@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-08-2332 (4d611a0)
 * Fix Riot Damage not applying properly to structures multiple z-levels tall (#79598)
 * Improve blood placement on Riot Damage (#79575)
 * Add pronoun/pride pins (#79572)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2025-02-04-0334 (9351cfe)
 
 Cataclysm-DDA experimental build 2025-02-03-1932 (c4a84a2)
 * `Uncaring` characters can socialize with NPCs but they don't like it (#79512)
-
-Cataclysm-DDA experimental build 2025-02-03-0802 (d875aa6)
 * Remove morale penalty from dismemberment (#79479)
 * [MoM] Fix Force Shove always asking the avatar about how to use it (#79510)
 * [MoM]Fix missed EOC rename (#79509)

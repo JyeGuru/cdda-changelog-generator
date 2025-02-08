@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-08-2332 ([4d611a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-2332))
+
 * Fix Riot Damage not applying properly to structures multiple z-levels tall ([#79598](https://github.com/CleverRaven/Cataclysm-DDA/pull/79598))
 * Improve blood placement on Riot Damage ([#79575](https://github.com/CleverRaven/Cataclysm-DDA/pull/79575))
 * Add pronoun/pride pins ([#79572](https://github.com/CleverRaven/Cataclysm-DDA/pull/79572))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2025-02-03-1932 ([c4a84a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-1932))
 
 * `Uncaring` characters can socialize with NPCs but they don't like it ([#79512](https://github.com/CleverRaven/Cataclysm-DDA/pull/79512))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-03-0802 ([d875aa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0802))
-
 * Remove morale penalty from dismemberment ([#79479](https://github.com/CleverRaven/Cataclysm-DDA/pull/79479))
 * [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
