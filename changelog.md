@@ -1,3 +1,10 @@
+* Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-08-1518 ([f55bf06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-1518))
+
+* More Rail Vehicles ([#79498](https://github.com/CleverRaven/Cataclysm-DDA/pull/79498))
 
 ---
 
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-02-03-0147 ([9d4478e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0147))
 
 * [XEDERA] Homullus: Add revive mutation ([#79487](https://github.com/CleverRaven/Cataclysm-DDA/pull/79487))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-02-1958 ([33c22b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-02-1958))
-
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
 * add some missing flags to allow better mapgen control ([#79474](https://github.com/CleverRaven/Cataclysm-DDA/pull/79474))
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
@@ -225,11 +227,9 @@
 * [MoM] Fix Thought-Form Exercises Recipe ([#79425](https://github.com/CleverRaven/Cataclysm-DDA/pull/79425))
 * [Aftershock] Make UICA chit ATM-compatible ([#79426](https://github.com/CleverRaven/Cataclysm-DDA/pull/79426))
 * Check if debug.log exists ([#79436](https://github.com/CleverRaven/Cataclysm-DDA/pull/79436))
-* [ Xedra Evolved ] Mad genius pocket dark age ([#79407](https://github.com/CleverRaven/Cataclysm-DDA/pull/79407))
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE ([#79415](https://github.com/CleverRaven/Cataclysm-DDA/pull/79415))
 * [XE] Boann will use her magic against those who attack her. ([#79420](https://github.com/CleverRaven/Cataclysm-DDA/pull/79420))
 * Music Genre snippets ([#79417](https://github.com/CleverRaven/Cataclysm-DDA/pull/79417))
 * typify the last of mapgen ([#79413](https://github.com/CleverRaven/Cataclysm-DDA/pull/79413))
 * typify v-w ([#79410](https://github.com/CleverRaven/Cataclysm-DDA/pull/79410))
 * fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))
-* Add marshmallow fluff and fluffernutters ([#79408](https://github.com/CleverRaven/Cataclysm-DDA/pull/79408))

@@ -1,3 +1,7 @@
+* Routine i18n updates on 08 February 2025 (#79596)
+
+Cataclysm-DDA experimental build 2025-02-08-1518 (f55bf06)
+* More Rail Vehicles (#79498)
 
 Cataclysm-DDA experimental build 2025-02-08-0452 (2b8297e)
 * [Xedra Evolved] Add missing deduction skill to spells (#79589)
@@ -105,8 +109,6 @@ Cataclysm-DDA experimental build 2025-02-03-0356 (f72fb5c)
 
 Cataclysm-DDA experimental build 2025-02-03-0147 (9d4478e)
 * [XEDERA] Homullus: Add revive mutation (#79487)
-
-Cataclysm-DDA experimental build 2025-02-02-1958 (33c22b3)
 * Add lucky/unlucky traits (Crazy Cata) (#79499)
 * add some missing flags to allow better mapgen control (#79474)
 * [Xedra Evolved] Fix commoner fae CBMs (#79484)
@@ -141,11 +143,9 @@ Cataclysm-DDA experimental build 2025-02-02-1958 (33c22b3)
 * [MoM] Fix Thought-Form Exercises Recipe (#79425)
 * [Aftershock] Make UICA chit ATM-compatible (#79426)
 * Check if debug.log exists (#79436)
-* [ Xedra Evolved ] Mad genius pocket dark age (#79407)
 * [XEDRA Evolved] Give Smoke Mephit NO_BREATHE (#79415)
 * [XE] Boann will use her magic against those who attack her. (#79420)
 * Music Genre snippets (#79417)
 * typify the last of mapgen (#79413)
 * typify v-w (#79410)
 * fix aim move query amount showing wrong max amount (#79409)
-* Add marshmallow fluff and fluffernutters (#79408)
