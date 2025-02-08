@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-08-1735 ([a473f3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-1735))
+
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
 
@@ -188,11 +193,6 @@
 
 * Fixing bounding box errors ([#79493](https://github.com/CleverRaven/Cataclysm-DDA/pull/79493))
 * Remove some more POLEARMS category from spears ([#79497](https://github.com/CleverRaven/Cataclysm-DDA/pull/79497))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-03-0147 ([9d4478e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-03-0147))
-
 * [XEDERA] Homullus: Add revive mutation ([#79487](https://github.com/CleverRaven/Cataclysm-DDA/pull/79487))
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
 * add some missing flags to allow better mapgen control ([#79474](https://github.com/CleverRaven/Cataclysm-DDA/pull/79474))
