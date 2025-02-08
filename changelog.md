@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
 
 ---
@@ -232,4 +233,3 @@
 * Music Genre snippets ([#79417](https://github.com/CleverRaven/Cataclysm-DDA/pull/79417))
 * typify the last of mapgen ([#79413](https://github.com/CleverRaven/Cataclysm-DDA/pull/79413))
 * typify v-w ([#79410](https://github.com/CleverRaven/Cataclysm-DDA/pull/79410))
-* fix aim move query amount showing wrong max amount ([#79409](https://github.com/CleverRaven/Cataclysm-DDA/pull/79409))

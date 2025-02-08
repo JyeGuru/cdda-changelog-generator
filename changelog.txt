@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add changeling magic to deduction EoC (#79588)
 * Routine i18n updates on 08 February 2025 (#79596)
 
 Cataclysm-DDA experimental build 2025-02-08-1518 (f55bf06)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-02-03-0147 (9d4478e)
 * Music Genre snippets (#79417)
 * typify the last of mapgen (#79413)
 * typify v-w (#79410)
-* fix aim move query amount showing wrong max amount (#79409)
