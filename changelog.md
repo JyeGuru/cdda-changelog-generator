@@ -1,3 +1,4 @@
+* Remove the limit on concurrent build matrix jobs in forks ([#79605](https://github.com/CleverRaven/Cataclysm-DDA/pull/79605))
 
 ---
 
@@ -232,5 +233,4 @@
 * [Xedra Evolved/Sky Island] Elemental fae are at home on the island ([#79432](https://github.com/CleverRaven/Cataclysm-DDA/pull/79432))
 * Aftershock: Add manhole road mapgen to exoplanet ([#79440](https://github.com/CleverRaven/Cataclysm-DDA/pull/79440))
 * [Xedra Evolved] Rein in vampire perception bonuses ([#79438](https://github.com/CleverRaven/Cataclysm-DDA/pull/79438))
-* [Aftershock] Make UICA chit ATM-compatible ([#79426](https://github.com/CleverRaven/Cataclysm-DDA/pull/79426))
 * Check if debug.log exists ([#79436](https://github.com/CleverRaven/Cataclysm-DDA/pull/79436))

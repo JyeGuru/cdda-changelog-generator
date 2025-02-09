@@ -1,3 +1,4 @@
+* Remove the limit on concurrent build matrix jobs in forks (#79605)
 
 Cataclysm-DDA experimental build 2025-02-09-0144 (778d40a)
 * Audit Overmap Terrains for correct application of Riot Damage (#79593)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2025-02-04-0334 (9351cfe)
 * [Xedra Evolved/Sky Island] Elemental fae are at home on the island (#79432)
 * Aftershock: Add manhole road mapgen to exoplanet (#79440)
 * [Xedra Evolved] Rein in vampire perception bonuses (#79438)
-* [Aftershock] Make UICA chit ATM-compatible (#79426)
 * Check if debug.log exists (#79436)
