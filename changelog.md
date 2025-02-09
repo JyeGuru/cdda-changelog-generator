@@ -1,3 +1,10 @@
+* make some vehicle operations map aware ([#79599](https://github.com/CleverRaven/Cataclysm-DDA/pull/79599))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-09-0406 ([64a737c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-09-0406))
+
+* Add SW 617, Ruger PCC, Marlin 60 ([#79602](https://github.com/CleverRaven/Cataclysm-DDA/pull/79602))
 * Remove the limit on concurrent build matrix jobs in forks ([#79605](https://github.com/CleverRaven/Cataclysm-DDA/pull/79605))
 
 ---
@@ -211,7 +218,6 @@
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
 * Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
 * Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
-* expand revivification ([#79429](https://github.com/CleverRaven/Cataclysm-DDA/pull/79429))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * [MoM] Item Gateway Power ([#79441](https://github.com/CleverRaven/Cataclysm-DDA/pull/79441))
 * Vending Machines can optionally use your Bank Balance ([#79442](https://github.com/CleverRaven/Cataclysm-DDA/pull/79442))
@@ -229,7 +235,6 @@
 * Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
 * Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
-* [Xedra Evolved] Rework how elemental fae gain terrain bonuses ([#79427](https://github.com/CleverRaven/Cataclysm-DDA/pull/79427))
 * [Xedra Evolved/Sky Island] Elemental fae are at home on the island ([#79432](https://github.com/CleverRaven/Cataclysm-DDA/pull/79432))
 * Aftershock: Add manhole road mapgen to exoplanet ([#79440](https://github.com/CleverRaven/Cataclysm-DDA/pull/79440))
 * [Xedra Evolved] Rein in vampire perception bonuses ([#79438](https://github.com/CleverRaven/Cataclysm-DDA/pull/79438))
