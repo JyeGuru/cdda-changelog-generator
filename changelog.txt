@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-09-0144 (778d40a)
+* Audit Overmap Terrains for correct application of Riot Damage (#79593)
+
 Cataclysm-DDA experimental build 2025-02-08-2332 (4d611a0)
 * Fix Riot Damage not applying properly to structures multiple z-levels tall (#79598)
 * Improve blood placement on Riot Damage (#79575)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2025-02-04-0524 (fcaebb3)
 
 Cataclysm-DDA experimental build 2025-02-04-0334 (9351cfe)
 * Sky Island vampire compatibility (#79507)
-
-Cataclysm-DDA experimental build 2025-02-03-1932 (c4a84a2)
 * `Uncaring` characters can socialize with NPCs but they don't like it (#79512)
 * Remove morale penalty from dismemberment (#79479)
 * [MoM] Fix Force Shove always asking the avatar about how to use it (#79510)
@@ -147,6 +148,5 @@ Cataclysm-DDA experimental build 2025-02-03-1932 (c4a84a2)
 * [Xedra Evolved/Sky Island] Elemental fae are at home on the island (#79432)
 * Aftershock: Add manhole road mapgen to exoplanet (#79440)
 * [Xedra Evolved] Rein in vampire perception bonuses (#79438)
-* [MoM] Fix Thought-Form Exercises Recipe (#79425)
 * [Aftershock] Make UICA chit ATM-compatible (#79426)
 * Check if debug.log exists (#79436)
