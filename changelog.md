@@ -1,3 +1,4 @@
+* Disable more debug mode msvc flags ([#79606](https://github.com/CleverRaven/Cataclysm-DDA/pull/79606))
 
 ---
 
@@ -235,7 +236,6 @@
 * Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
 * Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
-* [Xedra Evolved/Sky Island] Elemental fae are at home on the island ([#79432](https://github.com/CleverRaven/Cataclysm-DDA/pull/79432))
 * Aftershock: Add manhole road mapgen to exoplanet ([#79440](https://github.com/CleverRaven/Cataclysm-DDA/pull/79440))
 * [Xedra Evolved] Rein in vampire perception bonuses ([#79438](https://github.com/CleverRaven/Cataclysm-DDA/pull/79438))
 * Check if debug.log exists ([#79436](https://github.com/CleverRaven/Cataclysm-DDA/pull/79436))
