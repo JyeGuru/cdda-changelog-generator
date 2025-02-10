@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-10-0708 ([f88cc1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-0708))
+
+* Infrastructure: Add max_worn field, migrate ONLY_ONE flag ([#79607](https://github.com/CleverRaven/Cataclysm-DDA/pull/79607))
 * Disable more debug mode msvc flags ([#79606](https://github.com/CleverRaven/Cataclysm-DDA/pull/79606))
 
 ---
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-02-04-1543 ([3c801a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-04-1543))
 
 * Allow EOCs to read item tool qualities ([#79511](https://github.com/CleverRaven/Cataclysm-DDA/pull/79511))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-04-0524 ([fcaebb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-04-0524))
-
 * fix roll_remainder eoc effect ([#79526](https://github.com/CleverRaven/Cataclysm-DDA/pull/79526))
 * Sky Island vampire compatibility ([#79507](https://github.com/CleverRaven/Cataclysm-DDA/pull/79507))
 * `Uncaring` characters can socialize with NPCs but they don't like it ([#79512](https://github.com/CleverRaven/Cataclysm-DDA/pull/79512))
@@ -238,4 +239,3 @@
 * [Aftershock] Add the Salvor Fabricator to the Shuttlepad Camp ([#79437](https://github.com/CleverRaven/Cataclysm-DDA/pull/79437))
 * Aftershock: Add manhole road mapgen to exoplanet ([#79440](https://github.com/CleverRaven/Cataclysm-DDA/pull/79440))
 * [Xedra Evolved] Rein in vampire perception bonuses ([#79438](https://github.com/CleverRaven/Cataclysm-DDA/pull/79438))
-* Check if debug.log exists ([#79436](https://github.com/CleverRaven/Cataclysm-DDA/pull/79436))
