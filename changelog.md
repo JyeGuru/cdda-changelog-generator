@@ -1,3 +1,10 @@
+* mapified a lot of vehicle stuff ([#79611](https://github.com/CleverRaven/Cataclysm-DDA/pull/79611))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-10-2325 ([f8bdc7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-2325))
+
+* Martial Mastery: Duelist Combos & Five point Exploding Heart Technique ([#79614](https://github.com/CleverRaven/Cataclysm-DDA/pull/79614))
 
 ---
 
@@ -197,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-02-05-0551 ([8796836](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-05-0551))
 
 * Ask to wield container if parent container is too small to insert items ([#79518](https://github.com/CleverRaven/Cataclysm-DDA/pull/79518))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-04-2039 ([b6438a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-04-2039))
-
 * Fix E_FILE_STORAGE item location serialization ([#79522](https://github.com/CleverRaven/Cataclysm-DDA/pull/79522))
 * Magic Infrastructure: Make magic_type spell fail chance still affected by spell specific flags ([#79506](https://github.com/CleverRaven/Cataclysm-DDA/pull/79506))
 * Add an island-only sun protection to Sky island ([#79525](https://github.com/CleverRaven/Cataclysm-DDA/pull/79525))
@@ -228,7 +230,6 @@
 * Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
 * Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
-* Vending Machines can optionally use your Bank Balance ([#79442](https://github.com/CleverRaven/Cataclysm-DDA/pull/79442))
 * [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic ([#79456](https://github.com/CleverRaven/Cataclysm-DDA/pull/79456))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
 * Professions can define your starting bank balance ([#79450](https://github.com/CleverRaven/Cataclysm-DDA/pull/79450))
@@ -241,4 +242,3 @@
 * remove SCENARIO_SPECIFIC and PROFESSION_SPECIFIC eoc types ([#79448](https://github.com/CleverRaven/Cataclysm-DDA/pull/79448))
 * [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
 * Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
-* Fix clang test ([#79445](https://github.com/CleverRaven/Cataclysm-DDA/pull/79445))
