@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-10-0905 ([e70f37c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-0905))
+
 * Update custom_gloves.json ([#79603](https://github.com/CleverRaven/Cataclysm-DDA/pull/79603))
 
 ---
@@ -195,11 +200,6 @@
 * Magic Infrastructure: Make magic_type spell fail chance still affected by spell specific flags ([#79506](https://github.com/CleverRaven/Cataclysm-DDA/pull/79506))
 * Add an island-only sun protection to Sky island ([#79525](https://github.com/CleverRaven/Cataclysm-DDA/pull/79525))
 * Vehicle position -> absolute ([#79528](https://github.com/CleverRaven/Cataclysm-DDA/pull/79528))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-04-1543 ([3c801a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-04-1543))
-
 * Allow EOCs to read item tool qualities ([#79511](https://github.com/CleverRaven/Cataclysm-DDA/pull/79511))
 * fix roll_remainder eoc effect ([#79526](https://github.com/CleverRaven/Cataclysm-DDA/pull/79526))
 * Sky Island vampire compatibility ([#79507](https://github.com/CleverRaven/Cataclysm-DDA/pull/79507))
