@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-11-1547 ([01fb075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-1547))
+
+* resolve talker issues with amigara horrors ([#79630](https://github.com/CleverRaven/Cataclysm-DDA/pull/79630))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-11-0949 ([f7b2117](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-0949))
 
 * Add place arc furnace recipe, obsolete industrial arc furnace ([#79618](https://github.com/CleverRaven/Cataclysm-DDA/pull/79618))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-02-06-0628 ([ada81a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-0628))
 
 * [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-06-0250 ([bbc845d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-0250))
-
 * [Aftershock] Update and Expand Hacking System ([#79496](https://github.com/CleverRaven/Cataclysm-DDA/pull/79496))
 * Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
@@ -236,4 +237,3 @@
 * Start to make vehicle coordinates make sense ([#79457](https://github.com/CleverRaven/Cataclysm-DDA/pull/79457))
 * [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
 * [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
-* Remove keybind from move view options ([#79453](https://github.com/CleverRaven/Cataclysm-DDA/pull/79453))
