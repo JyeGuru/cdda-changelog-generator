@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-11-0949 ([f7b2117](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-0949))
+
 * Add place arc furnace recipe, obsolete industrial arc furnace ([#79618](https://github.com/CleverRaven/Cataclysm-DDA/pull/79618))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-02-06-0250 ([bbc845d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-0250))
 
 * [Aftershock] Update and Expand Hacking System ([#79496](https://github.com/CleverRaven/Cataclysm-DDA/pull/79496))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-05-1708 ([4fbc240](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-05-1708))
-
 * Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
 * Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
