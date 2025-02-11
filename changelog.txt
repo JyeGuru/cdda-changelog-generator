@@ -1,3 +1,4 @@
+* Fix #79551 (#79566)
 
 Cataclysm-DDA experimental build 2025-02-11-2219 (06e0f4b)
 * remove martial arts compat from makeshift/primitive axes. (#79637)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-02-06-0843 (6eaaf7b)
 * Routine tileset updates on 01 February 2025 (#79467)
 * Routine i18n updates on 01 February 2025 (#79469)
 * Start to make vehicle coordinates make sense (#79457)
-* [MoM] New power documentation updates (#79455)

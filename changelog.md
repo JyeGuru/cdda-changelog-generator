@@ -1,3 +1,4 @@
+* Fix #79551 ([#79566](https://github.com/CleverRaven/Cataclysm-DDA/pull/79566))
 
 ---
 
@@ -236,4 +237,3 @@
 * Routine tileset updates on 01 February 2025 ([#79467](https://github.com/CleverRaven/Cataclysm-DDA/pull/79467))
 * Routine i18n updates on 01 February 2025 ([#79469](https://github.com/CleverRaven/Cataclysm-DDA/pull/79469))
 * Start to make vehicle coordinates make sense ([#79457](https://github.com/CleverRaven/Cataclysm-DDA/pull/79457))
-* [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
