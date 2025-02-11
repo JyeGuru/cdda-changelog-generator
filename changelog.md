@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-11-0124 ([470e131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-0124))
+
 * mapified a lot of vehicle stuff ([#79611](https://github.com/CleverRaven/Cataclysm-DDA/pull/79611))
 
 ---
@@ -198,11 +203,6 @@
 
 * Fix map cache segfault, remove omt tripoints from map items' operations ([#79537](https://github.com/CleverRaven/Cataclysm-DDA/pull/79537))
 * Revert "Refactor finger touch counting" ([#79516](https://github.com/CleverRaven/Cataclysm-DDA/pull/79516))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-05-0551 ([8796836](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-05-0551))
-
 * Ask to wield container if parent container is too small to insert items ([#79518](https://github.com/CleverRaven/Cataclysm-DDA/pull/79518))
 * Fix E_FILE_STORAGE item location serialization ([#79522](https://github.com/CleverRaven/Cataclysm-DDA/pull/79522))
 * Magic Infrastructure: Make magic_type spell fail chance still affected by spell specific flags ([#79506](https://github.com/CleverRaven/Cataclysm-DDA/pull/79506))
