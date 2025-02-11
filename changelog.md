@@ -1,3 +1,4 @@
+* Random mutant bug JSON cleanup ([#79635](https://github.com/CleverRaven/Cataclysm-DDA/pull/79635))
 * Fix #79551 ([#79566](https://github.com/CleverRaven/Cataclysm-DDA/pull/79566))
 
 ---
@@ -231,7 +232,6 @@
 * Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
 * Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
-* [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic ([#79456](https://github.com/CleverRaven/Cataclysm-DDA/pull/79456))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
 * Update tools.json ([#79462](https://github.com/CleverRaven/Cataclysm-DDA/pull/79462))
 * Routine tileset updates on 01 February 2025 ([#79467](https://github.com/CleverRaven/Cataclysm-DDA/pull/79467))
