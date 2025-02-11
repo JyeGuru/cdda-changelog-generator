@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-11-2219 ([06e0f4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-2219))
+
+* remove martial arts compat from makeshift/primitive axes. ([#79637](https://github.com/CleverRaven/Cataclysm-DDA/pull/79637))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-11-1547 ([01fb075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-1547))
 
 * resolve talker issues with amigara horrors ([#79630](https://github.com/CleverRaven/Cataclysm-DDA/pull/79630))
@@ -190,11 +196,6 @@
 * Remove Obsoleted Mod lacking maintainer Blaze Industries ([#79534](https://github.com/CleverRaven/Cataclysm-DDA/pull/79534))
 * made more vehicle stuff map aware ([#79544](https://github.com/CleverRaven/Cataclysm-DDA/pull/79544))
 * Weekly Changelog 2025-01-27 to 2025-02-03 ([#79508](https://github.com/CleverRaven/Cataclysm-DDA/pull/79508))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-06-0628 ([ada81a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-0628))
-
 * [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
 * [Aftershock] Update and Expand Hacking System ([#79496](https://github.com/CleverRaven/Cataclysm-DDA/pull/79496))
 * Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
@@ -235,5 +236,4 @@
 * Routine tileset updates on 01 February 2025 ([#79467](https://github.com/CleverRaven/Cataclysm-DDA/pull/79467))
 * Routine i18n updates on 01 February 2025 ([#79469](https://github.com/CleverRaven/Cataclysm-DDA/pull/79469))
 * Start to make vehicle coordinates make sense ([#79457](https://github.com/CleverRaven/Cataclysm-DDA/pull/79457))
-* [MoM] Add Apportation teleportation power ([#79454](https://github.com/CleverRaven/Cataclysm-DDA/pull/79454))
 * [MoM] New power documentation updates ([#79455](https://github.com/CleverRaven/Cataclysm-DDA/pull/79455))
