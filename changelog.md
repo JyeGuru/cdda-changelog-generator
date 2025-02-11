@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-02-05-1502 ([7273fae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-05-1502))
 
 * Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-05-0810 ([6882f8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-05-0810))
-
 * Fix map cache segfault, remove omt tripoints from map items' operations ([#79537](https://github.com/CleverRaven/Cataclysm-DDA/pull/79537))
 * Revert "Refactor finger touch counting" ([#79516](https://github.com/CleverRaven/Cataclysm-DDA/pull/79516))
 * Ask to wield container if parent container is too small to insert items ([#79518](https://github.com/CleverRaven/Cataclysm-DDA/pull/79518))

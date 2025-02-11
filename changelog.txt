@@ -109,8 +109,6 @@ Cataclysm-DDA experimental build 2025-02-05-1708 (4fbc240)
 
 Cataclysm-DDA experimental build 2025-02-05-1502 (7273fae)
 * Update NPC JSON doc (#79540)
-
-Cataclysm-DDA experimental build 2025-02-05-0810 (6882f8b)
 * Fix map cache segfault, remove omt tripoints from map items' operations (#79537)
 * Revert "Refactor finger touch counting" (#79516)
 * Ask to wield container if parent container is too small to insert items (#79518)
