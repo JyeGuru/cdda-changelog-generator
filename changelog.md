@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-11-0738 ([f6de338](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-0738))
+
 * [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") ([#79628](https://github.com/CleverRaven/Cataclysm-DDA/pull/79628))
 * make gas masks compatible with NVG ([#79621](https://github.com/CleverRaven/Cataclysm-DDA/pull/79621))
 
@@ -192,11 +197,6 @@
 
 * Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-05-1502 ([7273fae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-05-1502))
-
 * Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
 * Fix map cache segfault, remove omt tripoints from map items' operations ([#79537](https://github.com/CleverRaven/Cataclysm-DDA/pull/79537))
 * Revert "Refactor finger touch counting" ([#79516](https://github.com/CleverRaven/Cataclysm-DDA/pull/79516))
