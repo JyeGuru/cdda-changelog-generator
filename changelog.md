@@ -1,3 +1,4 @@
+* Add place arc furnace recipe, obsolete industrial arc furnace ([#79618](https://github.com/CleverRaven/Cataclysm-DDA/pull/79618))
 
 ---
 
@@ -229,7 +230,6 @@
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic ([#79456](https://github.com/CleverRaven/Cataclysm-DDA/pull/79456))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
-* Professions can define your starting bank balance ([#79450](https://github.com/CleverRaven/Cataclysm-DDA/pull/79450))
 * Update tools.json ([#79462](https://github.com/CleverRaven/Cataclysm-DDA/pull/79462))
 * Routine tileset updates on 01 February 2025 ([#79467](https://github.com/CleverRaven/Cataclysm-DDA/pull/79467))
 * Routine i18n updates on 01 February 2025 ([#79469](https://github.com/CleverRaven/Cataclysm-DDA/pull/79469))

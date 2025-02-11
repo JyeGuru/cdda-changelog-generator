@@ -1,3 +1,4 @@
+* Add place arc furnace recipe, obsolete industrial arc furnace (#79618)
 
 Cataclysm-DDA experimental build 2025-02-11-0738 (f6de338)
 * [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") (#79628)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2025-02-05-1708 (4fbc240)
 * Allows vehicles to cross at train crossings (#79476)
 * [MoM] Fixes Hounds of Tindalos following you when teleporting mechanic (#79456)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#79475)
-* Professions can define your starting bank balance (#79450)
 * Update tools.json (#79462)
 * Routine tileset updates on 01 February 2025 (#79467)
 * Routine i18n updates on 01 February 2025 (#79469)
