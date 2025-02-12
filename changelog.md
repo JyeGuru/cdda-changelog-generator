@@ -1,3 +1,4 @@
+* Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
 
 ---
 
@@ -184,7 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-02-06-1621 ([bfaee8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-1621))
 
 * Add myself as No Hope maintainer, minor reorganisation/clean up ([#79547](https://github.com/CleverRaven/Cataclysm-DDA/pull/79547))
-* [Xedra Evolved] Add seasonal magic for changelings ([#79460](https://github.com/CleverRaven/Cataclysm-DDA/pull/79460))
 * [ Xedra Evolved ] Fix monster spawns in Vampire Cathedral basement ([#79542](https://github.com/CleverRaven/Cataclysm-DDA/pull/79542))
 * Fix clang-tidy plugin compilation on windows and document the process. ([#79553](https://github.com/CleverRaven/Cataclysm-DDA/pull/79553))
 
