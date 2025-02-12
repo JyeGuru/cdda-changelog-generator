@@ -234,5 +234,4 @@
 * Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
-* Routine tileset updates on 01 February 2025 ([#79467](https://github.com/CleverRaven/Cataclysm-DDA/pull/79467))
 * Routine i18n updates on 01 February 2025 ([#79469](https://github.com/CleverRaven/Cataclysm-DDA/pull/79469))
