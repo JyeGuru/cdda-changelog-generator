@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-12-2006 ([0ff6d92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-12-2006))
+
+* Fix MISSION_GET_SOFTWARE not finding software ([#79639](https://github.com/CleverRaven/Cataclysm-DDA/pull/79639))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-12-1549 ([f0569d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-12-1549))
 
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-02-06-2218 ([4091893](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-2218))
 
 * fix insert item segfault ([#79556](https://github.com/CleverRaven/Cataclysm-DDA/pull/79556))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-06-1621 ([bfaee8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-1621))
-
 * Add myself as No Hope maintainer, minor reorganisation/clean up ([#79547](https://github.com/CleverRaven/Cataclysm-DDA/pull/79547))
 * [ Xedra Evolved ] Fix monster spawns in Vampire Cathedral basement ([#79542](https://github.com/CleverRaven/Cataclysm-DDA/pull/79542))
 * Fix clang-tidy plugin compilation on windows and document the process. ([#79553](https://github.com/CleverRaven/Cataclysm-DDA/pull/79553))
@@ -233,6 +234,5 @@
 * Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
-* Update tools.json ([#79462](https://github.com/CleverRaven/Cataclysm-DDA/pull/79462))
 * Routine tileset updates on 01 February 2025 ([#79467](https://github.com/CleverRaven/Cataclysm-DDA/pull/79467))
 * Routine i18n updates on 01 February 2025 ([#79469](https://github.com/CleverRaven/Cataclysm-DDA/pull/79469))
