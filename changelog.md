@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-12-1549 ([f0569d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-12-1549))
+
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
 
 ---
@@ -187,11 +192,6 @@
 * Add myself as No Hope maintainer, minor reorganisation/clean up ([#79547](https://github.com/CleverRaven/Cataclysm-DDA/pull/79547))
 * [ Xedra Evolved ] Fix monster spawns in Vampire Cathedral basement ([#79542](https://github.com/CleverRaven/Cataclysm-DDA/pull/79542))
 * Fix clang-tidy plugin compilation on windows and document the process. ([#79553](https://github.com/CleverRaven/Cataclysm-DDA/pull/79553))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-06-1359 ([0bbc4d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-06-1359))
-
 * minor typo fix for Caotel 2.2 ([#79558](https://github.com/CleverRaven/Cataclysm-DDA/pull/79558))
 * [WIP] Ma firearm data import ([#79538](https://github.com/CleverRaven/Cataclysm-DDA/pull/79538))
 * Implement riot damage in cities ([#79535](https://github.com/CleverRaven/Cataclysm-DDA/pull/79535))
