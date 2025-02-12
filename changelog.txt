@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-12-0107 (5059d85)
 * Random mutant bug JSON cleanup (#79635)
 * Fix #79551 (#79566)
 
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-02-06-1621 (bfaee8a)
 
 Cataclysm-DDA experimental build 2025-02-06-1359 (0bbc4d6)
 * minor typo fix for Caotel 2.2 (#79558)
-
-Cataclysm-DDA experimental build 2025-02-06-0843 (6eaaf7b)
 * [WIP] Ma firearm data import (#79538)
 * Implement riot damage in cities (#79535)
 * Remove Obsoleted Mod lacking maintainer Blaze Industries (#79534)
