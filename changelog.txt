@@ -1,3 +1,4 @@
+* Fail IWYU CI job on IWYU error (#79648)
 
 Cataclysm-DDA experimental build 2025-02-13-0757 (26712e3)
 * Upgrade clang-tidy to LLVM 18, and fix (some) newly firing lints (#79633)
@@ -145,6 +146,5 @@ Cataclysm-DDA experimental build 2025-02-07-0243 (848ecd4)
 * add some missing flags to allow better mapgen control (#79474)
 * [Xedra Evolved] Fix commoner fae CBMs (#79484)
 * Move surface rail lines closer and add junctions (#79481)
-* Flesh out e-device item groups (#79471)
 * Allows vehicles to cross at train crossings (#79476)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#79475)

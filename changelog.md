@@ -1,3 +1,4 @@
+* Fail IWYU CI job on IWYU error ([#79648](https://github.com/CleverRaven/Cataclysm-DDA/pull/79648))
 
 ---
 
@@ -232,6 +233,5 @@
 * add some missing flags to allow better mapgen control ([#79474](https://github.com/CleverRaven/Cataclysm-DDA/pull/79474))
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
-* Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
