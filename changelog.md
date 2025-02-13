@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-13-0757 ([26712e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-13-0757))
+
+* Upgrade clang-tidy to LLVM 18, and fix (some) newly firing lints ([#79633](https://github.com/CleverRaven/Cataclysm-DDA/pull/79633))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-13-0222 ([723f7d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-13-0222))
 
 * [Xedra Evolved] More seasonal magic ([#79592](https://github.com/CleverRaven/Cataclysm-DDA/pull/79592))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-02-07-0243 ([848ecd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0243))
 
 * Initial support for GNU Make for Windows ([#79500](https://github.com/CleverRaven/Cataclysm-DDA/pull/79500))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-07-0026 ([e8e124e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0026))
-
 * Spell Infrastructure: Make spell difficulty accessible in math ([#79554](https://github.com/CleverRaven/Cataclysm-DDA/pull/79554))
 * fix plural form of generators ([#79557](https://github.com/CleverRaven/Cataclysm-DDA/pull/79557))
 * fix insert item segfault ([#79556](https://github.com/CleverRaven/Cataclysm-DDA/pull/79556))
@@ -232,6 +233,5 @@
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
 * Flesh out e-device item groups ([#79471](https://github.com/CleverRaven/Cataclysm-DDA/pull/79471))
-* Magic Infrastructure: Add failure_chance field ([#79470](https://github.com/CleverRaven/Cataclysm-DDA/pull/79470))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))
