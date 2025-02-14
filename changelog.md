@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-14-2023 ([dfb0d6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-14-2023))
+
+* Query climb target when trying to ascend stairs into open air ([#79656](https://github.com/CleverRaven/Cataclysm-DDA/pull/79656))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-14-0744 ([a881c85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-14-0744))
 
 * Implement Riot Damage in City Roads and Subway Stations. Adjust Fire and Blood placement over time. ([#79641](https://github.com/CleverRaven/Cataclysm-DDA/pull/79641))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-02-07-0854 ([c346c0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0854))
 
 * Hobbies can give recipes ([#79555](https://github.com/CleverRaven/Cataclysm-DDA/pull/79555))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-07-0644 ([6f4035b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0644))
-
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
 * Dont show liquids from held or worn container in AIM [I]nventory-panel ([#79560](https://github.com/CleverRaven/Cataclysm-DDA/pull/79560))
 * E-device selection ignores empty browsed devices when moving/copying ([#79539](https://github.com/CleverRaven/Cataclysm-DDA/pull/79539))
@@ -236,4 +237,3 @@
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
 * Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))
-* Update the table of contents in doc/JSON/JSON_INFO.md ([#79475](https://github.com/CleverRaven/Cataclysm-DDA/pull/79475))

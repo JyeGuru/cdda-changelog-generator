@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-14-2023 (dfb0d6b)
+* Query climb target when trying to ascend stairs into open air (#79656)
+
 Cataclysm-DDA experimental build 2025-02-14-0744 (a881c85)
 * Implement Riot Damage in City Roads and Subway Stations. Adjust Fire and Blood placement over time. (#79641)
 * Glazed / roasted carrot audit (#79650)
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2025-02-07-1351 (87ca5d9)
 
 Cataclysm-DDA experimental build 2025-02-07-0854 (c346c0b)
 * Hobbies can give recipes (#79555)
-
-Cataclysm-DDA experimental build 2025-02-07-0644 (6f4035b)
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes (#79562)
 * Dont show liquids from held or worn container in AIM [I]nventory-panel (#79560)
 * E-device selection ignores empty browsed devices when moving/copying (#79539)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-02-07-0644 (6f4035b)
 * [Xedra Evolved] Fix commoner fae CBMs (#79484)
 * Move surface rail lines closer and add junctions (#79481)
 * Allows vehicles to cross at train crossings (#79476)
-* Update the table of contents in doc/JSON/JSON_INFO.md (#79475)
