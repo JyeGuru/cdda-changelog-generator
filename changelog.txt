@@ -1,3 +1,5 @@
+* Implement Riot Damage in City Roads and Subway Stations. Adjust Fire and Blood placement over time. (#79641)
+* Glazed / roasted carrot audit (#79650)
 
 Cataclysm-DDA experimental build 2025-02-14-0535 (959495f)
 * Adds large wicker baskets (#79649)
@@ -144,7 +146,6 @@ Cataclysm-DDA experimental build 2025-02-07-0453 (baa0ca2)
 * Remove some more POLEARMS category from spears (#79497)
 * [XEDERA] Homullus: Add revive mutation (#79487)
 * Add lucky/unlucky traits (Crazy Cata) (#79499)
-* add some missing flags to allow better mapgen control (#79474)
 * [Xedra Evolved] Fix commoner fae CBMs (#79484)
 * Move surface rail lines closer and add junctions (#79481)
 * Allows vehicles to cross at train crossings (#79476)
