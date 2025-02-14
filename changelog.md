@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-14-0535 ([959495f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-14-0535))
+
+* Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))
 * Fail IWYU CI job on IWYU error ([#79648](https://github.com/CleverRaven/Cataclysm-DDA/pull/79648))
 
 ---
@@ -184,11 +190,6 @@
 
 * Dont show liquids from held or worn container in AIM [I]nventory-panel ([#79560](https://github.com/CleverRaven/Cataclysm-DDA/pull/79560))
 * E-device selection ignores empty browsed devices when moving/copying ([#79539](https://github.com/CleverRaven/Cataclysm-DDA/pull/79539))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-07-0243 ([848ecd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0243))
-
 * Initial support for GNU Make for Windows ([#79500](https://github.com/CleverRaven/Cataclysm-DDA/pull/79500))
 * Spell Infrastructure: Make spell difficulty accessible in math ([#79554](https://github.com/CleverRaven/Cataclysm-DDA/pull/79554))
 * fix plural form of generators ([#79557](https://github.com/CleverRaven/Cataclysm-DDA/pull/79557))
