@@ -1,3 +1,7 @@
+* unrack vehicle on destroyed bike rack ([#79634](https://github.com/CleverRaven/Cataclysm-DDA/pull/79634))
+* Reduce max weight of laundry basket ([#79655](https://github.com/CleverRaven/Cataclysm-DDA/pull/79655))
+* Minor 12 gauge audit ([#79662](https://github.com/CleverRaven/Cataclysm-DDA/pull/79662))
+* Minor clothing itemgroup change ([#79663](https://github.com/CleverRaven/Cataclysm-DDA/pull/79663))
 
 ---
 
@@ -223,11 +227,8 @@
 * fix roll_remainder eoc effect ([#79526](https://github.com/CleverRaven/Cataclysm-DDA/pull/79526))
 * Sky Island vampire compatibility ([#79507](https://github.com/CleverRaven/Cataclysm-DDA/pull/79507))
 * `Uncaring` characters can socialize with NPCs but they don't like it ([#79512](https://github.com/CleverRaven/Cataclysm-DDA/pull/79512))
-* Remove morale penalty from dismemberment ([#79479](https://github.com/CleverRaven/Cataclysm-DDA/pull/79479))
 * [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
-* Convert some vehicle operations to be map aware ([#79477](https://github.com/CleverRaven/Cataclysm-DDA/pull/79477))
-* [MoM] Change relocation to require apportation ([#79478](https://github.com/CleverRaven/Cataclysm-DDA/pull/79478))
 * Variant Docs ([#79482](https://github.com/CleverRaven/Cataclysm-DDA/pull/79482))
 * add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
 * Add radishes and seeds to the game ([#79490](https://github.com/CleverRaven/Cataclysm-DDA/pull/79490))
@@ -236,4 +237,3 @@
 * [XEDERA] Homullus: Add revive mutation ([#79487](https://github.com/CleverRaven/Cataclysm-DDA/pull/79487))
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
-* Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
