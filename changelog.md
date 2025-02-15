@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-15-2145 ([038de4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-2145))
+
+* [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-15-1708 ([bc015b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-1708))
 
 * Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-02-08-1518 ([f55bf06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-1518))
 
 * More Rail Vehicles ([#79498](https://github.com/CleverRaven/Cataclysm-DDA/pull/79498))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-08-0452 ([2b8297e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-0452))
-
 * [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
 * Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
 * made iuse_actor use map aware + some vehicle operation ([#79561](https://github.com/CleverRaven/Cataclysm-DDA/pull/79561))
@@ -232,7 +233,6 @@
 * [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
 * add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
-* Add radishes and seeds to the game ([#79490](https://github.com/CleverRaven/Cataclysm-DDA/pull/79490))
 * Fixing bounding box errors ([#79493](https://github.com/CleverRaven/Cataclysm-DDA/pull/79493))
 * Remove some more POLEARMS category from spears ([#79497](https://github.com/CleverRaven/Cataclysm-DDA/pull/79497))
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
