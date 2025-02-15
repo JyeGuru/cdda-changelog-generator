@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-15-1708 ([bc015b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-1708))
+
+* Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-15-1010 ([4a533cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-1010))
 
 * mapified a little item prompting a lot of vehicle ([#79636](https://github.com/CleverRaven/Cataclysm-DDA/pull/79636))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-02-08-0452 ([2b8297e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-0452))
 
 * [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-07-1605 ([3403981](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-1605))
-
 * Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
 * made iuse_actor use map aware + some vehicle operation ([#79561](https://github.com/CleverRaven/Cataclysm-DDA/pull/79561))
 * [Xedra Evolved] Seasonal magic casting failure adjustments ([#79567](https://github.com/CleverRaven/Cataclysm-DDA/pull/79567))
@@ -236,4 +237,3 @@
 * Remove some more POLEARMS category from spears ([#79497](https://github.com/CleverRaven/Cataclysm-DDA/pull/79497))
 * [XEDERA] Homullus: Add revive mutation ([#79487](https://github.com/CleverRaven/Cataclysm-DDA/pull/79487))
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
-* [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))

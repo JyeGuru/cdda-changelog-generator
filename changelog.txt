@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-15-1708 (bc015b8)
+* Fix Chainsmoker Perk making accuracy worse instead of better. (#79667)
+
 Cataclysm-DDA experimental build 2025-02-15-1010 (4a533cc)
 * mapified a little item prompting a lot of vehicle (#79636)
 * unrack vehicle on destroyed bike rack (#79634)
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2025-02-08-1518 (f55bf06)
 
 Cataclysm-DDA experimental build 2025-02-08-0452 (2b8297e)
 * [Xedra Evolved] Add missing deduction skill to spells (#79589)
-
-Cataclysm-DDA experimental build 2025-02-07-1605 (3403981)
 * Attach some debug info to release runner errors (#79569)
 * made iuse_actor use map aware + some vehicle operation (#79561)
 * [Xedra Evolved] Seasonal magic casting failure adjustments (#79567)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-02-07-1605 (3403981)
 * Remove some more POLEARMS category from spears (#79497)
 * [XEDERA] Homullus: Add revive mutation (#79487)
 * Add lucky/unlucky traits (Crazy Cata) (#79499)
-* [Xedra Evolved] Fix commoner fae CBMs (#79484)
