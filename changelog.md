@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-15-0803 ([d748205](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-0803))
+
+* Routine i18n updates on 15 February 2025 ([#79665](https://github.com/CleverRaven/Cataclysm-DDA/pull/79665))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-14-2023 ([dfb0d6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-14-2023))
 
 * Query climb target when trying to ascend stairs into open air ([#79656](https://github.com/CleverRaven/Cataclysm-DDA/pull/79656))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-02-07-1351 ([87ca5d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-1351))
 
 * remove a missed mention of bionics in a piece of furniture ([#79571](https://github.com/CleverRaven/Cataclysm-DDA/pull/79571))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-07-0854 ([c346c0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-07-0854))
-
 * Hobbies can give recipes ([#79555](https://github.com/CleverRaven/Cataclysm-DDA/pull/79555))
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
 * Dont show liquids from held or worn container in AIM [I]nventory-panel ([#79560](https://github.com/CleverRaven/Cataclysm-DDA/pull/79560))
@@ -236,4 +237,3 @@
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
 * [Xedra Evolved] Fix commoner fae CBMs ([#79484](https://github.com/CleverRaven/Cataclysm-DDA/pull/79484))
 * Move surface rail lines closer and add junctions ([#79481](https://github.com/CleverRaven/Cataclysm-DDA/pull/79481))
-* Allows vehicles to cross at train crossings ([#79476](https://github.com/CleverRaven/Cataclysm-DDA/pull/79476))

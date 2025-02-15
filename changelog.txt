@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-15-0803 (d748205)
+* Routine i18n updates on 15 February 2025 (#79665)
+
 Cataclysm-DDA experimental build 2025-02-14-2023 (dfb0d6b)
 * Query climb target when trying to ascend stairs into open air (#79656)
 
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2025-02-07-1605 (3403981)
 
 Cataclysm-DDA experimental build 2025-02-07-1351 (87ca5d9)
 * remove a missed mention of bionics in a piece of furniture (#79571)
-
-Cataclysm-DDA experimental build 2025-02-07-0854 (c346c0b)
 * Hobbies can give recipes (#79555)
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes (#79562)
 * Dont show liquids from held or worn container in AIM [I]nventory-panel (#79560)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-02-07-0854 (c346c0b)
 * Add lucky/unlucky traits (Crazy Cata) (#79499)
 * [Xedra Evolved] Fix commoner fae CBMs (#79484)
 * Move surface rail lines closer and add junctions (#79481)
-* Allows vehicles to cross at train crossings (#79476)
