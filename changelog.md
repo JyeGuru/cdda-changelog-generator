@@ -1,3 +1,4 @@
+* mapified a little item prompting a lot of vehicle ([#79636](https://github.com/CleverRaven/Cataclysm-DDA/pull/79636))
 * unrack vehicle on destroyed bike rack ([#79634](https://github.com/CleverRaven/Cataclysm-DDA/pull/79634))
 * Reduce max weight of laundry basket ([#79655](https://github.com/CleverRaven/Cataclysm-DDA/pull/79655))
 * Minor 12 gauge audit ([#79662](https://github.com/CleverRaven/Cataclysm-DDA/pull/79662))
@@ -229,7 +230,6 @@
 * `Uncaring` characters can socialize with NPCs but they don't like it ([#79512](https://github.com/CleverRaven/Cataclysm-DDA/pull/79512))
 * [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
-* Variant Docs ([#79482](https://github.com/CleverRaven/Cataclysm-DDA/pull/79482))
 * add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
 * Add radishes and seeds to the game ([#79490](https://github.com/CleverRaven/Cataclysm-DDA/pull/79490))
 * Fixing bounding box errors ([#79493](https://github.com/CleverRaven/Cataclysm-DDA/pull/79493))
