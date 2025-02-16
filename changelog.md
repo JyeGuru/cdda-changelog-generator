@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-16-2050 ([f9900fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-2050))
+
+* mapify: split ammo remaining into link and non link ([#79670](https://github.com/CleverRaven/Cataclysm-DDA/pull/79670))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-16-0826 ([b117062](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-0826))
 
 * Remove electric fields from irradiation plant ([#79677](https://github.com/CleverRaven/Cataclysm-DDA/pull/79677))
@@ -183,16 +189,10 @@
 * Fix prices ([#79563](https://github.com/CleverRaven/Cataclysm-DDA/pull/79563))
 * Bump CI compiler versions (and update the docs) ([#79517](https://github.com/CleverRaven/Cataclysm-DDA/pull/79517))
 * Variant Trimming ([#79529](https://github.com/CleverRaven/Cataclysm-DDA/pull/79529))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-08-2130 ([8228a8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-2130))
-
 * Fix typo {LAWRICK -> LARWICK} ([#79591](https://github.com/CleverRaven/Cataclysm-DDA/pull/79591))
 * Repaired mapbuffer uniform map generation ([#79586](https://github.com/CleverRaven/Cataclysm-DDA/pull/79586))
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
-* More Rail Vehicles ([#79498](https://github.com/CleverRaven/Cataclysm-DDA/pull/79498))
 * [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
 * Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
 * made iuse_actor use map aware + some vehicle operation ([#79561](https://github.com/CleverRaven/Cataclysm-DDA/pull/79561))
