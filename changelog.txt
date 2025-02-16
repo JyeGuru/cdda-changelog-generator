@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-16-0225 (1fef6f9)
+* Minor bug fixes (#79672)
+
 Cataclysm-DDA experimental build 2025-02-15-2145 (038de4d)
 * [MoM] Run proper EoC when casting relocation (#79669)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2025-02-08-1934 (d59a5d6)
 Cataclysm-DDA experimental build 2025-02-08-1735 (a473f3c)
 * [Xedra Evolved] Add changeling magic to deduction EoC (#79588)
 * Routine i18n updates on 08 February 2025 (#79596)
-
-Cataclysm-DDA experimental build 2025-02-08-1518 (f55bf06)
 * More Rail Vehicles (#79498)
 * [Xedra Evolved] Add missing deduction skill to spells (#79589)
 * Attach some debug info to release runner errors (#79569)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2025-02-08-1518 (f55bf06)
 * [MoM] Fix Force Shove always asking the avatar about how to use it (#79510)
 * [MoM]Fix missed EOC rename (#79509)
 * add self (moxian) to comment-commands.yml (#79504)
-* Fixing bounding box errors (#79493)
 * Remove some more POLEARMS category from spears (#79497)
 * Add lucky/unlucky traits (Crazy Cata) (#79499)

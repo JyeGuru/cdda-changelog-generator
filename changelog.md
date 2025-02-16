@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-16-0225 ([1fef6f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-0225))
+
+* Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-15-2145 ([038de4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-2145))
 
 * [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
@@ -183,11 +189,6 @@
 
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-08-1518 ([f55bf06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-1518))
-
 * More Rail Vehicles ([#79498](https://github.com/CleverRaven/Cataclysm-DDA/pull/79498))
 * [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
 * Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
@@ -233,6 +234,5 @@
 * [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
 * add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
-* Fixing bounding box errors ([#79493](https://github.com/CleverRaven/Cataclysm-DDA/pull/79493))
 * Remove some more POLEARMS category from spears ([#79497](https://github.com/CleverRaven/Cataclysm-DDA/pull/79497))
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
