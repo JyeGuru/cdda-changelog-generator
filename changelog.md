@@ -1,3 +1,11 @@
+* Remove electric fields from irradiation plant ([#79677](https://github.com/CleverRaven/Cataclysm-DDA/pull/79677))
+* Remove radiation and beasts from NPP ([#79676](https://github.com/CleverRaven/Cataclysm-DDA/pull/79676))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-16-0609 ([c6b4d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-0609))
+
+* Remove skill rust resist from "Flawless memory" perk ([#79674](https://github.com/CleverRaven/Cataclysm-DDA/pull/79674))
 
 ---
 
@@ -182,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-02-08-1934 ([d59a5d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-1934))
 
 * Repaired mapbuffer uniform map generation ([#79586](https://github.com/CleverRaven/Cataclysm-DDA/pull/79586))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-08-1735 ([a473f3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-1735))
-
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
 * More Rail Vehicles ([#79498](https://github.com/CleverRaven/Cataclysm-DDA/pull/79498))
@@ -216,7 +219,6 @@
 * made more vehicle stuff map aware ([#79544](https://github.com/CleverRaven/Cataclysm-DDA/pull/79544))
 * Weekly Changelog 2025-01-27 to 2025-02-03 ([#79508](https://github.com/CleverRaven/Cataclysm-DDA/pull/79508))
 * [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
-* [Aftershock] Update and Expand Hacking System ([#79496](https://github.com/CleverRaven/Cataclysm-DDA/pull/79496))
 * Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
 * Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
@@ -234,5 +236,4 @@
 * [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
 * add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
-* Remove some more POLEARMS category from spears ([#79497](https://github.com/CleverRaven/Cataclysm-DDA/pull/79497))
 * Add lucky/unlucky traits (Crazy Cata) ([#79499](https://github.com/CleverRaven/Cataclysm-DDA/pull/79499))
