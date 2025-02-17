@@ -1,3 +1,6 @@
+* Ammo type name changes ([#79678](https://github.com/CleverRaven/Cataclysm-DDA/pull/79678))
+* [MoM] Update māchīuhpōhualhuaztli description ([#79694](https://github.com/CleverRaven/Cataclysm-DDA/pull/79694))
+* Aftershock:  Wraitheon Vahagn 10XR Smart Rifle ([#79679](https://github.com/CleverRaven/Cataclysm-DDA/pull/79679))
 
 ---
 
@@ -226,13 +229,10 @@
 * Revert "Refactor finger touch counting" ([#79516](https://github.com/CleverRaven/Cataclysm-DDA/pull/79516))
 * Ask to wield container if parent container is too small to insert items ([#79518](https://github.com/CleverRaven/Cataclysm-DDA/pull/79518))
 * Fix E_FILE_STORAGE item location serialization ([#79522](https://github.com/CleverRaven/Cataclysm-DDA/pull/79522))
-* Magic Infrastructure: Make magic_type spell fail chance still affected by spell specific flags ([#79506](https://github.com/CleverRaven/Cataclysm-DDA/pull/79506))
 * Add an island-only sun protection to Sky island ([#79525](https://github.com/CleverRaven/Cataclysm-DDA/pull/79525))
 * Vehicle position -> absolute ([#79528](https://github.com/CleverRaven/Cataclysm-DDA/pull/79528))
 * Allow EOCs to read item tool qualities ([#79511](https://github.com/CleverRaven/Cataclysm-DDA/pull/79511))
 * fix roll_remainder eoc effect ([#79526](https://github.com/CleverRaven/Cataclysm-DDA/pull/79526))
-* Sky Island vampire compatibility ([#79507](https://github.com/CleverRaven/Cataclysm-DDA/pull/79507))
 * `Uncaring` characters can socialize with NPCs but they don't like it ([#79512](https://github.com/CleverRaven/Cataclysm-DDA/pull/79512))
 * [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
 * [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
-* add self (moxian) to comment-commands.yml ([#79504](https://github.com/CleverRaven/Cataclysm-DDA/pull/79504))
