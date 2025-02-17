@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-17-1148 ([0985380](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-17-1148))
+
+* Weekly Changelog 2025-02-03 to 2025-02-10 ([#79615](https://github.com/CleverRaven/Cataclysm-DDA/pull/79615))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-16-2050 ([f9900fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-2050))
 
 * mapify: split ammo remaining into link and non link ([#79670](https://github.com/CleverRaven/Cataclysm-DDA/pull/79670))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-02-09-0144 ([778d40a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-09-0144))
 
 * Audit Overmap Terrains for correct application of Riot Damage ([#79593](https://github.com/CleverRaven/Cataclysm-DDA/pull/79593))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-08-2332 ([4d611a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-08-2332))
-
 * Fix Riot Damage not applying properly to structures multiple z-levels tall ([#79598](https://github.com/CleverRaven/Cataclysm-DDA/pull/79598))
 * Improve blood placement on Riot Damage ([#79575](https://github.com/CleverRaven/Cataclysm-DDA/pull/79575))
 * Add pronoun/pride pins ([#79572](https://github.com/CleverRaven/Cataclysm-DDA/pull/79572))
@@ -205,7 +206,6 @@
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
 * Dont show liquids from held or worn container in AIM [I]nventory-panel ([#79560](https://github.com/CleverRaven/Cataclysm-DDA/pull/79560))
 * E-device selection ignores empty browsed devices when moving/copying ([#79539](https://github.com/CleverRaven/Cataclysm-DDA/pull/79539))
-* Initial support for GNU Make for Windows ([#79500](https://github.com/CleverRaven/Cataclysm-DDA/pull/79500))
 * Spell Infrastructure: Make spell difficulty accessible in math ([#79554](https://github.com/CleverRaven/Cataclysm-DDA/pull/79554))
 * fix plural form of generators ([#79557](https://github.com/CleverRaven/Cataclysm-DDA/pull/79557))
 * fix insert item segfault ([#79556](https://github.com/CleverRaven/Cataclysm-DDA/pull/79556))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-17-1148 (0985380)
+* Weekly Changelog 2025-02-03 to 2025-02-10 (#79615)
+
 Cataclysm-DDA experimental build 2025-02-16-2050 (f9900fc)
 * mapify: split ammo remaining into link and non link (#79670)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-02-09-0406 (64a737c)
 
 Cataclysm-DDA experimental build 2025-02-09-0144 (778d40a)
 * Audit Overmap Terrains for correct application of Riot Damage (#79593)
-
-Cataclysm-DDA experimental build 2025-02-08-2332 (4d611a0)
 * Fix Riot Damage not applying properly to structures multiple z-levels tall (#79598)
 * Improve blood placement on Riot Damage (#79575)
 * Add pronoun/pride pins (#79572)
@@ -118,7 +119,6 @@ Cataclysm-DDA experimental build 2025-02-08-2332 (4d611a0)
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes (#79562)
 * Dont show liquids from held or worn container in AIM [I]nventory-panel (#79560)
 * E-device selection ignores empty browsed devices when moving/copying (#79539)
-* Initial support for GNU Make for Windows (#79500)
 * Spell Infrastructure: Make spell difficulty accessible in math (#79554)
 * fix plural form of generators (#79557)
 * fix insert item segfault (#79556)
