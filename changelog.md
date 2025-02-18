@@ -1,3 +1,15 @@
+* Remove recursision from weapon_talk_hallucination ([#79695](https://github.com/CleverRaven/Cataclysm-DDA/pull/79695))
+* Only run IWYU on affected files + minor `get_affected_files.py` refactor ([#79690](https://github.com/CleverRaven/Cataclysm-DDA/pull/79690))
+* add *.output files to .gitignore ([#79696](https://github.com/CleverRaven/Cataclysm-DDA/pull/79696))
+* add walls to standard_domestic_abandoned_palette ([#79697](https://github.com/CleverRaven/Cataclysm-DDA/pull/79697))
+* also mark 'child' recipes when marking nested recipes as read ([#79698](https://github.com/CleverRaven/Cataclysm-DDA/pull/79698))
+* Audit bowl, drinking glass, plate length ([#79709](https://github.com/CleverRaven/Cataclysm-DDA/pull/79709))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-18-0639 ([85c0e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-0639))
+
+* Fix craftable nomad cowl without blueprint ([#79705](https://github.com/CleverRaven/Cataclysm-DDA/pull/79705))
 
 ---
 
@@ -178,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-02-09-0553 ([4fb5f14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-09-0553))
 
 * make some vehicle operations map aware ([#79599](https://github.com/CleverRaven/Cataclysm-DDA/pull/79599))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-09-0406 ([64a737c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-09-0406))
-
 * Add SW 617, Ruger PCC, Marlin 60 ([#79602](https://github.com/CleverRaven/Cataclysm-DDA/pull/79602))
 * Remove the limit on concurrent build matrix jobs in forks ([#79605](https://github.com/CleverRaven/Cataclysm-DDA/pull/79605))
 * Audit Overmap Terrains for correct application of Riot Damage ([#79593](https://github.com/CleverRaven/Cataclysm-DDA/pull/79593))
@@ -191,7 +198,6 @@
 * Add pronoun/pride pins ([#79572](https://github.com/CleverRaven/Cataclysm-DDA/pull/79572))
 * Don't hardcode help text: Autopickup Manager ([#79564](https://github.com/CleverRaven/Cataclysm-DDA/pull/79564))
 * Fix prices ([#79563](https://github.com/CleverRaven/Cataclysm-DDA/pull/79563))
-* Bump CI compiler versions (and update the docs) ([#79517](https://github.com/CleverRaven/Cataclysm-DDA/pull/79517))
 * Variant Trimming ([#79529](https://github.com/CleverRaven/Cataclysm-DDA/pull/79529))
 * Fix typo {LAWRICK -> LARWICK} ([#79591](https://github.com/CleverRaven/Cataclysm-DDA/pull/79591))
 * Repaired mapbuffer uniform map generation ([#79586](https://github.com/CleverRaven/Cataclysm-DDA/pull/79586))
@@ -220,19 +226,13 @@
 * Implement riot damage in cities ([#79535](https://github.com/CleverRaven/Cataclysm-DDA/pull/79535))
 * Remove Obsoleted Mod lacking maintainer Blaze Industries ([#79534](https://github.com/CleverRaven/Cataclysm-DDA/pull/79534))
 * made more vehicle stuff map aware ([#79544](https://github.com/CleverRaven/Cataclysm-DDA/pull/79544))
-* Weekly Changelog 2025-01-27 to 2025-02-03 ([#79508](https://github.com/CleverRaven/Cataclysm-DDA/pull/79508))
 * [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
 * Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
 * Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
 * Fix map cache segfault, remove omt tripoints from map items' operations ([#79537](https://github.com/CleverRaven/Cataclysm-DDA/pull/79537))
-* Revert "Refactor finger touch counting" ([#79516](https://github.com/CleverRaven/Cataclysm-DDA/pull/79516))
 * Ask to wield container if parent container is too small to insert items ([#79518](https://github.com/CleverRaven/Cataclysm-DDA/pull/79518))
 * Fix E_FILE_STORAGE item location serialization ([#79522](https://github.com/CleverRaven/Cataclysm-DDA/pull/79522))
 * Add an island-only sun protection to Sky island ([#79525](https://github.com/CleverRaven/Cataclysm-DDA/pull/79525))
 * Vehicle position -> absolute ([#79528](https://github.com/CleverRaven/Cataclysm-DDA/pull/79528))
-* Allow EOCs to read item tool qualities ([#79511](https://github.com/CleverRaven/Cataclysm-DDA/pull/79511))
 * fix roll_remainder eoc effect ([#79526](https://github.com/CleverRaven/Cataclysm-DDA/pull/79526))
-* `Uncaring` characters can socialize with NPCs but they don't like it ([#79512](https://github.com/CleverRaven/Cataclysm-DDA/pull/79512))
-* [MoM] Fix Force Shove always asking the avatar about how to use it ([#79510](https://github.com/CleverRaven/Cataclysm-DDA/pull/79510))
-* [MoM]Fix missed EOC rename ([#79509](https://github.com/CleverRaven/Cataclysm-DDA/pull/79509))
