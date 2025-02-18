@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-18-1220 ([187cf76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-1220))
+
 * Return equipment to "Otaku" profession ([#79687](https://github.com/CleverRaven/Cataclysm-DDA/pull/79687))
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-02-10-0905 ([e70f37c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-0905))
 
 * Update custom_gloves.json ([#79603](https://github.com/CleverRaven/Cataclysm-DDA/pull/79603))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-10-0708 ([f88cc1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-0708))
-
 * Infrastructure: Add max_worn field, migrate ONLY_ONE flag ([#79607](https://github.com/CleverRaven/Cataclysm-DDA/pull/79607))
 * Disable more debug mode msvc flags ([#79606](https://github.com/CleverRaven/Cataclysm-DDA/pull/79606))
 * make some vehicle operations map aware ([#79599](https://github.com/CleverRaven/Cataclysm-DDA/pull/79599))
