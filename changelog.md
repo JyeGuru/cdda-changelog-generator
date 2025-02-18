@@ -1,3 +1,4 @@
+* Make test logging a bit more verbose by adding current test name ([#79681](https://github.com/CleverRaven/Cataclysm-DDA/pull/79681))
 * Remove recursision from weapon_talk_hallucination ([#79695](https://github.com/CleverRaven/Cataclysm-DDA/pull/79695))
 * Only run IWYU on affected files + minor `get_affected_files.py` refactor ([#79690](https://github.com/CleverRaven/Cataclysm-DDA/pull/79690))
 * add *.output files to .gitignore ([#79696](https://github.com/CleverRaven/Cataclysm-DDA/pull/79696))
@@ -231,7 +232,6 @@
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
 * Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
 * Fix map cache segfault, remove omt tripoints from map items' operations ([#79537](https://github.com/CleverRaven/Cataclysm-DDA/pull/79537))
-* Ask to wield container if parent container is too small to insert items ([#79518](https://github.com/CleverRaven/Cataclysm-DDA/pull/79518))
 * Fix E_FILE_STORAGE item location serialization ([#79522](https://github.com/CleverRaven/Cataclysm-DDA/pull/79522))
 * Add an island-only sun protection to Sky island ([#79525](https://github.com/CleverRaven/Cataclysm-DDA/pull/79525))
 * Vehicle position -> absolute ([#79528](https://github.com/CleverRaven/Cataclysm-DDA/pull/79528))
