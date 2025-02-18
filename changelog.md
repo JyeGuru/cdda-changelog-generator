@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-18-1529 ([586cf5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-1529))
+
+* Mapify: character etc. sees + sundry others ([#79699](https://github.com/CleverRaven/Cataclysm-DDA/pull/79699))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-18-1220 ([187cf76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-1220))
 
 * Return equipment to "Otaku" profession ([#79687](https://github.com/CleverRaven/Cataclysm-DDA/pull/79687))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-02-10-1111 ([e201310](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-1111))
 
 * [ Xedra Evolved ] Fix dreamsmith casing recipes ([#79597](https://github.com/CleverRaven/Cataclysm-DDA/pull/79597))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-10-0905 ([e70f37c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-0905))
-
 * Update custom_gloves.json ([#79603](https://github.com/CleverRaven/Cataclysm-DDA/pull/79603))
 * Infrastructure: Add max_worn field, migrate ONLY_ONE flag ([#79607](https://github.com/CleverRaven/Cataclysm-DDA/pull/79607))
 * Disable more debug mode msvc flags ([#79606](https://github.com/CleverRaven/Cataclysm-DDA/pull/79606))
@@ -204,7 +205,6 @@
 * Add pronoun/pride pins ([#79572](https://github.com/CleverRaven/Cataclysm-DDA/pull/79572))
 * Don't hardcode help text: Autopickup Manager ([#79564](https://github.com/CleverRaven/Cataclysm-DDA/pull/79564))
 * Fix prices ([#79563](https://github.com/CleverRaven/Cataclysm-DDA/pull/79563))
-* Variant Trimming ([#79529](https://github.com/CleverRaven/Cataclysm-DDA/pull/79529))
 * Fix typo {LAWRICK -> LARWICK} ([#79591](https://github.com/CleverRaven/Cataclysm-DDA/pull/79591))
 * Repaired mapbuffer uniform map generation ([#79586](https://github.com/CleverRaven/Cataclysm-DDA/pull/79586))
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
