@@ -1,3 +1,5 @@
+* NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
+* Aggressively whitelist terrain for overmap_terrain_coverage test ([#79711](https://github.com/CleverRaven/Cataclysm-DDA/pull/79711))
 
 ---
 
@@ -229,10 +231,8 @@
 * Remove Obsoleted Mod lacking maintainer Blaze Industries ([#79534](https://github.com/CleverRaven/Cataclysm-DDA/pull/79534))
 * made more vehicle stuff map aware ([#79544](https://github.com/CleverRaven/Cataclysm-DDA/pull/79544))
 * [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
-* Prevent storing multiple copies of the same book ([#79523](https://github.com/CleverRaven/Cataclysm-DDA/pull/79523))
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
 * Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
 * Fix map cache segfault, remove omt tripoints from map items' operations ([#79537](https://github.com/CleverRaven/Cataclysm-DDA/pull/79537))
-* Add an island-only sun protection to Sky island ([#79525](https://github.com/CleverRaven/Cataclysm-DDA/pull/79525))
 * Vehicle position -> absolute ([#79528](https://github.com/CleverRaven/Cataclysm-DDA/pull/79528))
 * fix roll_remainder eoc effect ([#79526](https://github.com/CleverRaven/Cataclysm-DDA/pull/79526))
