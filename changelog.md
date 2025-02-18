@@ -1,3 +1,4 @@
+* Return equipment to "Otaku" profession ([#79687](https://github.com/CleverRaven/Cataclysm-DDA/pull/79687))
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
 * Aggressively whitelist terrain for overmap_terrain_coverage test ([#79711](https://github.com/CleverRaven/Cataclysm-DDA/pull/79711))
@@ -235,4 +236,3 @@
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
 * Update NPC JSON doc ([#79540](https://github.com/CleverRaven/Cataclysm-DDA/pull/79540))
 * Fix map cache segfault, remove omt tripoints from map items' operations ([#79537](https://github.com/CleverRaven/Cataclysm-DDA/pull/79537))
-* Vehicle position -> absolute ([#79528](https://github.com/CleverRaven/Cataclysm-DDA/pull/79528))
