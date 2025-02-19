@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-19-0047 ([2e73680](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-0047))
+
+* Move laundry basket and large wicker basket into a container ([#79688](https://github.com/CleverRaven/Cataclysm-DDA/pull/79688))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-18-1529 ([586cf5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-1529))
 
 * Mapify: character etc. sees + sundry others ([#79699](https://github.com/CleverRaven/Cataclysm-DDA/pull/79699))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-02-10-2325 ([f8bdc7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-2325))
 
 * Martial Mastery: Duelist Combos & Five point Exploding Heart Technique ([#79614](https://github.com/CleverRaven/Cataclysm-DDA/pull/79614))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-10-1111 ([e201310](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-10-1111))
-
 * [ Xedra Evolved ] Fix dreamsmith casing recipes ([#79597](https://github.com/CleverRaven/Cataclysm-DDA/pull/79597))
 * Update custom_gloves.json ([#79603](https://github.com/CleverRaven/Cataclysm-DDA/pull/79603))
 * Infrastructure: Add max_worn field, migrate ONLY_ONE flag ([#79607](https://github.com/CleverRaven/Cataclysm-DDA/pull/79607))
@@ -230,7 +231,6 @@
 * minor typo fix for Caotel 2.2 ([#79558](https://github.com/CleverRaven/Cataclysm-DDA/pull/79558))
 * [WIP] Ma firearm data import ([#79538](https://github.com/CleverRaven/Cataclysm-DDA/pull/79538))
 * Implement riot damage in cities ([#79535](https://github.com/CleverRaven/Cataclysm-DDA/pull/79535))
-* Remove Obsoleted Mod lacking maintainer Blaze Industries ([#79534](https://github.com/CleverRaven/Cataclysm-DDA/pull/79534))
 * made more vehicle stuff map aware ([#79544](https://github.com/CleverRaven/Cataclysm-DDA/pull/79544))
 * [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
 * Allow EOCs to assign the character cash value ([#79541](https://github.com/CleverRaven/Cataclysm-DDA/pull/79541))
