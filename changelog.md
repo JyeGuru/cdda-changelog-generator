@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-19-1544 ([0021a43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-1544))
+
 * [MoM] Add two psionic amalgamations ([#79701](https://github.com/CleverRaven/Cataclysm-DDA/pull/79701))
 
 ---
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-02-11-0949 ([f7b2117](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-0949))
 
 * Add place arc furnace recipe, obsolete industrial arc furnace ([#79618](https://github.com/CleverRaven/Cataclysm-DDA/pull/79618))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-11-0738 ([f6de338](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-0738))
-
 * [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") ([#79628](https://github.com/CleverRaven/Cataclysm-DDA/pull/79628))
 * make gas masks compatible with NVG ([#79621](https://github.com/CleverRaven/Cataclysm-DDA/pull/79621))
 * mapified a lot of vehicle stuff ([#79611](https://github.com/CleverRaven/Cataclysm-DDA/pull/79611))
