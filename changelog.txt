@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-19-0902 (a8b8c37)
 * Generic factory std::map support, islot_comestible to generic factory (#79590)
 * [MoM] Fix spark sight (#79729)
 * Handaxes practice needs handaxes (#79725)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2025-02-11-0949 (f7b2117)
 Cataclysm-DDA experimental build 2025-02-11-0738 (f6de338)
 * [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") (#79628)
 * make gas masks compatible with NVG (#79621)
-
-Cataclysm-DDA experimental build 2025-02-11-0124 (470e131)
 * mapified a lot of vehicle stuff (#79611)
 * Martial Mastery: Duelist Combos & Five point Exploding Heart Technique (#79614)
 * [ Xedra Evolved ] Fix dreamsmith casing recipes (#79597)

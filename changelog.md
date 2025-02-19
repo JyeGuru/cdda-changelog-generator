@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-19-0902 ([a8b8c37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-0902))
+
 * Generic factory std::map support, islot_comestible to generic factory ([#79590](https://github.com/CleverRaven/Cataclysm-DDA/pull/79590))
 * [MoM] Fix spark sight ([#79729](https://github.com/CleverRaven/Cataclysm-DDA/pull/79729))
 * Handaxes practice needs handaxes ([#79725](https://github.com/CleverRaven/Cataclysm-DDA/pull/79725))
@@ -192,11 +197,6 @@
 
 * [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") ([#79628](https://github.com/CleverRaven/Cataclysm-DDA/pull/79628))
 * make gas masks compatible with NVG ([#79621](https://github.com/CleverRaven/Cataclysm-DDA/pull/79621))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-11-0124 ([470e131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-0124))
-
 * mapified a lot of vehicle stuff ([#79611](https://github.com/CleverRaven/Cataclysm-DDA/pull/79611))
 * Martial Mastery: Duelist Combos & Five point Exploding Heart Technique ([#79614](https://github.com/CleverRaven/Cataclysm-DDA/pull/79614))
 * [ Xedra Evolved ] Fix dreamsmith casing recipes ([#79597](https://github.com/CleverRaven/Cataclysm-DDA/pull/79597))
