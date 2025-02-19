@@ -1,3 +1,10 @@
+* [MoM] Add two psionic amalgamations ([#79701](https://github.com/CleverRaven/Cataclysm-DDA/pull/79701))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-19-1314 ([9c2acad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-1314))
+
+* Add a bank palette, fix isolated safe in bank ([#79731](https://github.com/CleverRaven/Cataclysm-DDA/pull/79731))
 
 ---
 
@@ -231,8 +238,6 @@
 * fix plural form of generators ([#79557](https://github.com/CleverRaven/Cataclysm-DDA/pull/79557))
 * fix insert item segfault ([#79556](https://github.com/CleverRaven/Cataclysm-DDA/pull/79556))
 * Add myself as No Hope maintainer, minor reorganisation/clean up ([#79547](https://github.com/CleverRaven/Cataclysm-DDA/pull/79547))
-* [ Xedra Evolved ] Fix monster spawns in Vampire Cathedral basement ([#79542](https://github.com/CleverRaven/Cataclysm-DDA/pull/79542))
 * Fix clang-tidy plugin compilation on windows and document the process. ([#79553](https://github.com/CleverRaven/Cataclysm-DDA/pull/79553))
 * minor typo fix for Caotel 2.2 ([#79558](https://github.com/CleverRaven/Cataclysm-DDA/pull/79558))
-* made more vehicle stuff map aware ([#79544](https://github.com/CleverRaven/Cataclysm-DDA/pull/79544))
 * [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
