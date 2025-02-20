@@ -1,3 +1,11 @@
+* [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
+* Fix smoking rack lighting time bug ([#79627](https://github.com/CleverRaven/Cataclysm-DDA/pull/79627))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-20-0039 ([4581dea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0039))
+
+* [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
 
 ---
 
@@ -196,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-02-11-1547 ([01fb075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-1547))
 
 * resolve talker issues with amigara horrors ([#79630](https://github.com/CleverRaven/Cataclysm-DDA/pull/79630))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-11-0949 ([f7b2117](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-0949))
-
 * Add place arc furnace recipe, obsolete industrial arc furnace ([#79618](https://github.com/CleverRaven/Cataclysm-DDA/pull/79618))
 * [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") ([#79628](https://github.com/CleverRaven/Cataclysm-DDA/pull/79628))
 * make gas masks compatible with NVG ([#79621](https://github.com/CleverRaven/Cataclysm-DDA/pull/79621))
@@ -234,10 +237,6 @@
 * Hobbies can give recipes ([#79555](https://github.com/CleverRaven/Cataclysm-DDA/pull/79555))
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
 * Dont show liquids from held or worn container in AIM [I]nventory-panel ([#79560](https://github.com/CleverRaven/Cataclysm-DDA/pull/79560))
-* Spell Infrastructure: Make spell difficulty accessible in math ([#79554](https://github.com/CleverRaven/Cataclysm-DDA/pull/79554))
 * fix plural form of generators ([#79557](https://github.com/CleverRaven/Cataclysm-DDA/pull/79557))
 * fix insert item segfault ([#79556](https://github.com/CleverRaven/Cataclysm-DDA/pull/79556))
-* Add myself as No Hope maintainer, minor reorganisation/clean up ([#79547](https://github.com/CleverRaven/Cataclysm-DDA/pull/79547))
-* Fix clang-tidy plugin compilation on windows and document the process. ([#79553](https://github.com/CleverRaven/Cataclysm-DDA/pull/79553))
 * minor typo fix for Caotel 2.2 ([#79558](https://github.com/CleverRaven/Cataclysm-DDA/pull/79558))
-* [DinoMod] restore dino weights ([#79545](https://github.com/CleverRaven/Cataclysm-DDA/pull/79545))
