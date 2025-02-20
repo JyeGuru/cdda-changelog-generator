@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-20-1917 (39b0571)
+* Add dormant map extra (#79741)
+
 Cataclysm-DDA experimental build 2025-02-20-1110 (460a215)
 * Nuke the stylish trait from orbit (#79745)
 
@@ -112,8 +115,6 @@ Cataclysm-DDA experimental build 2025-02-13-0757 (26712e3)
 
 Cataclysm-DDA experimental build 2025-02-13-0222 (723f7d2)
 * [Xedra Evolved] More seasonal magic (#79592)
-
-Cataclysm-DDA experimental build 2025-02-12-2006 (0ff6d92)
 * Fix MISSION_GET_SOFTWARE not finding software (#79639)
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. (#79631)
 * Random mutant bug JSON cleanup (#79635)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-02-12-2006 (0ff6d92)
 * [Magiclysm] Fix Goodberry EoC (#79576)
 * Add stone fireplace back (#79577)
 * remove a missed mention of bionics in a piece of furniture (#79571)
-* [MoM/Innawood] Auto-learn refined matrix crystal dust recipes (#79562)

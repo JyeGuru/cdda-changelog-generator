@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-20-1917 ([39b0571](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-1917))
+
+* Add dormant map extra ([#79741](https://github.com/CleverRaven/Cataclysm-DDA/pull/79741))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-20-1110 ([460a215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-1110))
 
 * Nuke the stylish trait from orbit ([#79745](https://github.com/CleverRaven/Cataclysm-DDA/pull/79745))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-02-13-0222 ([723f7d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-13-0222))
 
 * [Xedra Evolved] More seasonal magic ([#79592](https://github.com/CleverRaven/Cataclysm-DDA/pull/79592))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-12-2006 ([0ff6d92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-12-2006))
-
 * Fix MISSION_GET_SOFTWARE not finding software ([#79639](https://github.com/CleverRaven/Cataclysm-DDA/pull/79639))
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
 * Random mutant bug JSON cleanup ([#79635](https://github.com/CleverRaven/Cataclysm-DDA/pull/79635))
@@ -239,4 +240,3 @@
 * [Magiclysm] Fix Goodberry EoC ([#79576](https://github.com/CleverRaven/Cataclysm-DDA/pull/79576))
 * Add stone fireplace back ([#79577](https://github.com/CleverRaven/Cataclysm-DDA/pull/79577))
 * remove a missed mention of bionics in a piece of furniture ([#79571](https://github.com/CleverRaven/Cataclysm-DDA/pull/79571))
-* [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
