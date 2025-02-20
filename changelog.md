@@ -1,3 +1,11 @@
+* converted item_location and computer to use absolute coordinates ([#79733](https://github.com/CleverRaven/Cataclysm-DDA/pull/79733))
+* Fix bug in fiction books overspawning in vandalized libraries simplify itemgroups ([#79723](https://github.com/CleverRaven/Cataclysm-DDA/pull/79723))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-20-0641 ([40bdff2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0641))
+
+* [ Xedra Evolved ] Chronomancer XP redesign: Menus and effects ([#79666](https://github.com/CleverRaven/Cataclysm-DDA/pull/79666))
 
 ---
 
@@ -197,11 +205,6 @@
 
 * Random mutant bug JSON cleanup ([#79635](https://github.com/CleverRaven/Cataclysm-DDA/pull/79635))
 * Fix #79551 ([#79566](https://github.com/CleverRaven/Cataclysm-DDA/pull/79566))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-11-2219 ([06e0f4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-11-2219))
-
 * remove martial arts compat from makeshift/primitive axes. ([#79637](https://github.com/CleverRaven/Cataclysm-DDA/pull/79637))
 * resolve talker issues with amigara horrors ([#79630](https://github.com/CleverRaven/Cataclysm-DDA/pull/79630))
 * Add place arc furnace recipe, obsolete industrial arc furnace ([#79618](https://github.com/CleverRaven/Cataclysm-DDA/pull/79618))
@@ -234,9 +237,6 @@
 * [Magiclysm] Fix Goodberry EoC ([#79576](https://github.com/CleverRaven/Cataclysm-DDA/pull/79576))
 * Add stone fireplace back ([#79577](https://github.com/CleverRaven/Cataclysm-DDA/pull/79577))
 * remove a missed mention of bionics in a piece of furniture ([#79571](https://github.com/CleverRaven/Cataclysm-DDA/pull/79571))
-* Hobbies can give recipes ([#79555](https://github.com/CleverRaven/Cataclysm-DDA/pull/79555))
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
 * Dont show liquids from held or worn container in AIM [I]nventory-panel ([#79560](https://github.com/CleverRaven/Cataclysm-DDA/pull/79560))
-* fix plural form of generators ([#79557](https://github.com/CleverRaven/Cataclysm-DDA/pull/79557))
-* fix insert item segfault ([#79556](https://github.com/CleverRaven/Cataclysm-DDA/pull/79556))
 * minor typo fix for Caotel 2.2 ([#79558](https://github.com/CleverRaven/Cataclysm-DDA/pull/79558))
