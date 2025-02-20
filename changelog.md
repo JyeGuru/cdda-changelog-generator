@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-20-2227 ([cd2c0fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-2227))
+
+* Fix android build ([#79760](https://github.com/CleverRaven/Cataclysm-DDA/pull/79760))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-20-1917 ([39b0571](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-1917))
 
 * Add dormant map extra ([#79741](https://github.com/CleverRaven/Cataclysm-DDA/pull/79741))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-02-13-0757 ([26712e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-13-0757))
 
 * Upgrade clang-tidy to LLVM 18, and fix (some) newly firing lints ([#79633](https://github.com/CleverRaven/Cataclysm-DDA/pull/79633))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-13-0222 ([723f7d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-13-0222))
-
 * [Xedra Evolved] More seasonal magic ([#79592](https://github.com/CleverRaven/Cataclysm-DDA/pull/79592))
 * Fix MISSION_GET_SOFTWARE not finding software ([#79639](https://github.com/CleverRaven/Cataclysm-DDA/pull/79639))
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
@@ -228,7 +229,6 @@
 * Improve blood placement on Riot Damage ([#79575](https://github.com/CleverRaven/Cataclysm-DDA/pull/79575))
 * Add pronoun/pride pins ([#79572](https://github.com/CleverRaven/Cataclysm-DDA/pull/79572))
 * Don't hardcode help text: Autopickup Manager ([#79564](https://github.com/CleverRaven/Cataclysm-DDA/pull/79564))
-* Fix prices ([#79563](https://github.com/CleverRaven/Cataclysm-DDA/pull/79563))
 * Fix typo {LAWRICK -> LARWICK} ([#79591](https://github.com/CleverRaven/Cataclysm-DDA/pull/79591))
 * Repaired mapbuffer uniform map generation ([#79586](https://github.com/CleverRaven/Cataclysm-DDA/pull/79586))
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
