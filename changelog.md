@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-20-0853 ([27152a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0853))
+
 * Aftershock: Balance tables ([#79746](https://github.com/CleverRaven/Cataclysm-DDA/pull/79746))
 * Weekly Changelog 2025-02-10 to 2025-02-17 ([#79691](https://github.com/CleverRaven/Cataclysm-DDA/pull/79691))
 * converted item_location and computer to use absolute coordinates ([#79733](https://github.com/CleverRaven/Cataclysm-DDA/pull/79733))
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-02-12-1549 ([f0569d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-12-1549))
 
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-12-0107 ([5059d85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-12-0107))
-
 * Random mutant bug JSON cleanup ([#79635](https://github.com/CleverRaven/Cataclysm-DDA/pull/79635))
 * Fix #79551 ([#79566](https://github.com/CleverRaven/Cataclysm-DDA/pull/79566))
 * remove martial arts compat from makeshift/primitive axes. ([#79637](https://github.com/CleverRaven/Cataclysm-DDA/pull/79637))
