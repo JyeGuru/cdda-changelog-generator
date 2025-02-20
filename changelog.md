@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-20-1110 ([460a215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-1110))
+
 * Nuke the stylish trait from orbit ([#79745](https://github.com/CleverRaven/Cataclysm-DDA/pull/79745))
 
 ---
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-02-12-2006 ([0ff6d92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-12-2006))
 
 * Fix MISSION_GET_SOFTWARE not finding software ([#79639](https://github.com/CleverRaven/Cataclysm-DDA/pull/79639))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-12-1549 ([f0569d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-12-1549))
-
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
 * Random mutant bug JSON cleanup ([#79635](https://github.com/CleverRaven/Cataclysm-DDA/pull/79635))
 * Fix #79551 ([#79566](https://github.com/CleverRaven/Cataclysm-DDA/pull/79566))
