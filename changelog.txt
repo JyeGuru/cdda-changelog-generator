@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-02-10 to 2025-02-17 (#79691)
 * converted item_location and computer to use absolute coordinates (#79733)
 * Fix bug in fiction books overspawning in vandalized libraries simplify itemgroups (#79723)
 
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-02-12-0107 (5059d85)
 * remove a missed mention of bionics in a piece of furniture (#79571)
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes (#79562)
 * Dont show liquids from held or worn container in AIM [I]nventory-panel (#79560)
-* minor typo fix for Caotel 2.2 (#79558)

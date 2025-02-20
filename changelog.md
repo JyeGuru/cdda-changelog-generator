@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-02-10 to 2025-02-17 ([#79691](https://github.com/CleverRaven/Cataclysm-DDA/pull/79691))
 * converted item_location and computer to use absolute coordinates ([#79733](https://github.com/CleverRaven/Cataclysm-DDA/pull/79733))
 * Fix bug in fiction books overspawning in vandalized libraries simplify itemgroups ([#79723](https://github.com/CleverRaven/Cataclysm-DDA/pull/79723))
 
@@ -239,4 +240,3 @@
 * remove a missed mention of bionics in a piece of furniture ([#79571](https://github.com/CleverRaven/Cataclysm-DDA/pull/79571))
 * [MoM/Innawood] Auto-learn refined matrix crystal dust recipes ([#79562](https://github.com/CleverRaven/Cataclysm-DDA/pull/79562))
 * Dont show liquids from held or worn container in AIM [I]nventory-panel ([#79560](https://github.com/CleverRaven/Cataclysm-DDA/pull/79560))
-* minor typo fix for Caotel 2.2 ([#79558](https://github.com/CleverRaven/Cataclysm-DDA/pull/79558))
