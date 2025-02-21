@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-02-21-1926 (e45ec59)
+* add scar_h_mk20 (#79748)
 * Configure skip-duplicates jobs to not skip duplicates (yes, really) (#79764)
 
 Cataclysm-DDA experimental build 2025-02-21-0912 (b5728d0)
@@ -112,8 +115,6 @@ Cataclysm-DDA experimental build 2025-02-15-1010 (4a533cc)
 
 Cataclysm-DDA experimental build 2025-02-15-0803 (d748205)
 * Routine i18n updates on 15 February 2025 (#79665)
-
-Cataclysm-DDA experimental build 2025-02-14-2023 (dfb0d6b)
 * Query climb target when trying to ascend stairs into open air (#79656)
 * Implement Riot Damage in City Roads and Subway Stations. Adjust Fire and Blood placement over time. (#79641)
 * Glazed / roasted carrot audit (#79650)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-02-14-2023 (dfb0d6b)
 * Routine i18n updates on 08 February 2025 (#79596)
 * [Xedra Evolved] Add missing deduction skill to spells (#79589)
 * NO_HANDS flag added twice (#79578)
-* Add stone fireplace back (#79577)
