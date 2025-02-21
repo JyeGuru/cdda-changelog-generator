@@ -1,3 +1,11 @@
+* Slightly rework the missile silo ([#79756](https://github.com/CleverRaven/Cataclysm-DDA/pull/79756))
+* make Fishy Business quest require 3 cans of fish ([#79752](https://github.com/CleverRaven/Cataclysm-DDA/pull/79752))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-21-0421 ([11ae75f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-21-0421))
+
+* Add weeds to standard_domestic_landscaping_palette ([#79759](https://github.com/CleverRaven/Cataclysm-DDA/pull/79759))
 
 ---
 
@@ -199,17 +207,11 @@
 
 * Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))
 * Fail IWYU CI job on IWYU error ([#79648](https://github.com/CleverRaven/Cataclysm-DDA/pull/79648))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-13-0757 ([26712e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-13-0757))
-
 * Upgrade clang-tidy to LLVM 18, and fix (some) newly firing lints ([#79633](https://github.com/CleverRaven/Cataclysm-DDA/pull/79633))
 * [Xedra Evolved] More seasonal magic ([#79592](https://github.com/CleverRaven/Cataclysm-DDA/pull/79592))
 * Fix MISSION_GET_SOFTWARE not finding software ([#79639](https://github.com/CleverRaven/Cataclysm-DDA/pull/79639))
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
 * Random mutant bug JSON cleanup ([#79635](https://github.com/CleverRaven/Cataclysm-DDA/pull/79635))
-* Fix #79551 ([#79566](https://github.com/CleverRaven/Cataclysm-DDA/pull/79566))
 * remove martial arts compat from makeshift/primitive axes. ([#79637](https://github.com/CleverRaven/Cataclysm-DDA/pull/79637))
 * resolve talker issues with amigara horrors ([#79630](https://github.com/CleverRaven/Cataclysm-DDA/pull/79630))
 * Add place arc furnace recipe, obsolete industrial arc furnace ([#79618](https://github.com/CleverRaven/Cataclysm-DDA/pull/79618))
@@ -228,14 +230,12 @@
 * Fix Riot Damage not applying properly to structures multiple z-levels tall ([#79598](https://github.com/CleverRaven/Cataclysm-DDA/pull/79598))
 * Improve blood placement on Riot Damage ([#79575](https://github.com/CleverRaven/Cataclysm-DDA/pull/79575))
 * Add pronoun/pride pins ([#79572](https://github.com/CleverRaven/Cataclysm-DDA/pull/79572))
-* Don't hardcode help text: Autopickup Manager ([#79564](https://github.com/CleverRaven/Cataclysm-DDA/pull/79564))
 * Fix typo {LAWRICK -> LARWICK} ([#79591](https://github.com/CleverRaven/Cataclysm-DDA/pull/79591))
 * Repaired mapbuffer uniform map generation ([#79586](https://github.com/CleverRaven/Cataclysm-DDA/pull/79586))
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
 * [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
 * Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
-* [Xedra Evolved] Seasonal magic casting failure adjustments ([#79567](https://github.com/CleverRaven/Cataclysm-DDA/pull/79567))
 * NO_HANDS flag added twice ([#79578](https://github.com/CleverRaven/Cataclysm-DDA/pull/79578))
 * [Magiclysm] Fix Goodberry EoC ([#79576](https://github.com/CleverRaven/Cataclysm-DDA/pull/79576))
 * Add stone fireplace back ([#79577](https://github.com/CleverRaven/Cataclysm-DDA/pull/79577))
