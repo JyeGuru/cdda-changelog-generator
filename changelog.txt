@@ -1,3 +1,4 @@
+* Fix gym walls (#79742)
 * Slightly rework the missile silo (#79756)
 * make Fishy Business quest require 3 cans of fish (#79752)
 
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-02-14-0744 (a881c85)
 * NO_HANDS flag added twice (#79578)
 * [Magiclysm] Fix Goodberry EoC (#79576)
 * Add stone fireplace back (#79577)
-* remove a missed mention of bionics in a piece of furniture (#79571)

@@ -1,3 +1,4 @@
+* Fix gym walls ([#79742](https://github.com/CleverRaven/Cataclysm-DDA/pull/79742))
 * Slightly rework the missile silo ([#79756](https://github.com/CleverRaven/Cataclysm-DDA/pull/79756))
 * make Fishy Business quest require 3 cans of fish ([#79752](https://github.com/CleverRaven/Cataclysm-DDA/pull/79752))
 
@@ -233,4 +234,3 @@
 * NO_HANDS flag added twice ([#79578](https://github.com/CleverRaven/Cataclysm-DDA/pull/79578))
 * [Magiclysm] Fix Goodberry EoC ([#79576](https://github.com/CleverRaven/Cataclysm-DDA/pull/79576))
 * Add stone fireplace back ([#79577](https://github.com/CleverRaven/Cataclysm-DDA/pull/79577))
-* remove a missed mention of bionics in a piece of furniture ([#79571](https://github.com/CleverRaven/Cataclysm-DDA/pull/79571))
