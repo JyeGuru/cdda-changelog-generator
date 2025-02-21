@@ -1,3 +1,4 @@
+* [Xedra Evolved] Homullus Feral Summon Fix (#79783)
 
 Cataclysm-DDA experimental build 2025-02-21-2155 (0f6af57)
 * Tables and workbenches can be activated to be deployed (#79774)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2025-02-15-1010 (4a533cc)
 * Audit Overmap Terrains for correct application of Riot Damage (#79593)
 * Fix Riot Damage not applying properly to structures multiple z-levels tall (#79598)
 * Fix typo {LAWRICK -> LARWICK} (#79591)
-* [Xedra Evolved] Add changeling magic to deduction EoC (#79588)
 * Routine i18n updates on 08 February 2025 (#79596)
 * [Xedra Evolved] Add missing deduction skill to spells (#79589)
