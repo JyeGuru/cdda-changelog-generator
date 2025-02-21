@@ -235,7 +235,6 @@
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
 * [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
-* Attach some debug info to release runner errors ([#79569](https://github.com/CleverRaven/Cataclysm-DDA/pull/79569))
 * NO_HANDS flag added twice ([#79578](https://github.com/CleverRaven/Cataclysm-DDA/pull/79578))
 * [Magiclysm] Fix Goodberry EoC ([#79576](https://github.com/CleverRaven/Cataclysm-DDA/pull/79576))
 * Add stone fireplace back ([#79577](https://github.com/CleverRaven/Cataclysm-DDA/pull/79577))
