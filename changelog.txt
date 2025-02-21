@@ -1,3 +1,5 @@
+* Emergency blanket stats update (#79778)
+* Change symbol for weeds in palette (#79777)
 
 Cataclysm-DDA experimental build 2025-02-21-1926 (e45ec59)
 * add scar_h_mk20 (#79748)
@@ -146,4 +148,3 @@ Cataclysm-DDA experimental build 2025-02-15-0803 (d748205)
 * [Xedra Evolved] Add changeling magic to deduction EoC (#79588)
 * Routine i18n updates on 08 February 2025 (#79596)
 * [Xedra Evolved] Add missing deduction skill to spells (#79589)
-* NO_HANDS flag added twice (#79578)

@@ -1,3 +1,5 @@
+* Emergency blanket stats update ([#79778](https://github.com/CleverRaven/Cataclysm-DDA/pull/79778))
+* Change symbol for weeds in palette ([#79777](https://github.com/CleverRaven/Cataclysm-DDA/pull/79777))
 
 ---
 
@@ -233,4 +235,3 @@
 * [Xedra Evolved] Add changeling magic to deduction EoC ([#79588](https://github.com/CleverRaven/Cataclysm-DDA/pull/79588))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
 * [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
-* NO_HANDS flag added twice ([#79578](https://github.com/CleverRaven/Cataclysm-DDA/pull/79578))
