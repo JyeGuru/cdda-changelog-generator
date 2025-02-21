@@ -200,11 +200,6 @@
 
 * Implement Riot Damage in City Roads and Subway Stations. Adjust Fire and Blood placement over time. ([#79641](https://github.com/CleverRaven/Cataclysm-DDA/pull/79641))
 * Glazed / roasted carrot audit ([#79650](https://github.com/CleverRaven/Cataclysm-DDA/pull/79650))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-14-0535 ([959495f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-14-0535))
-
 * Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))
 * Fail IWYU CI job on IWYU error ([#79648](https://github.com/CleverRaven/Cataclysm-DDA/pull/79648))
 * Upgrade clang-tidy to LLVM 18, and fix (some) newly firing lints ([#79633](https://github.com/CleverRaven/Cataclysm-DDA/pull/79633))
