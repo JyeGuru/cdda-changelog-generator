@@ -1,4 +1,9 @@
 * Configure skip-duplicates jobs to not skip duplicates (yes, really) ([#79764](https://github.com/CleverRaven/Cataclysm-DDA/pull/79764))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-21-0912 ([b5728d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-21-0912))
+
 * [Xedra Evolved] Add Offworld Acquisitions Materials Processing ([#79763](https://github.com/CleverRaven/Cataclysm-DDA/pull/79763))
 * Remove house_w_foundation_palette & house_w_nest_palette ([#79758](https://github.com/CleverRaven/Cataclysm-DDA/pull/79758))
 * Fix gym walls ([#79742](https://github.com/CleverRaven/Cataclysm-DDA/pull/79742))
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-02-14-2023 ([dfb0d6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-14-2023))
 
 * Query climb target when trying to ascend stairs into open air ([#79656](https://github.com/CleverRaven/Cataclysm-DDA/pull/79656))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-14-0744 ([a881c85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-14-0744))
-
 * Implement Riot Damage in City Roads and Subway Stations. Adjust Fire and Blood placement over time. ([#79641](https://github.com/CleverRaven/Cataclysm-DDA/pull/79641))
 * Glazed / roasted carrot audit ([#79650](https://github.com/CleverRaven/Cataclysm-DDA/pull/79650))
 * Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))
