@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-21-2155 ([0f6af57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-21-2155))
+
 * Tables and workbenches can be activated to be deployed ([#79774](https://github.com/CleverRaven/Cataclysm-DDA/pull/79774))
 * Touch up no hope palettes ([#79779](https://github.com/CleverRaven/Cataclysm-DDA/pull/79779))
 * Emergency blanket stats update ([#79778](https://github.com/CleverRaven/Cataclysm-DDA/pull/79778))
@@ -200,11 +205,6 @@
 * Reduce max weight of laundry basket ([#79655](https://github.com/CleverRaven/Cataclysm-DDA/pull/79655))
 * Minor 12 gauge audit ([#79662](https://github.com/CleverRaven/Cataclysm-DDA/pull/79662))
 * Minor clothing itemgroup change ([#79663](https://github.com/CleverRaven/Cataclysm-DDA/pull/79663))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-15-0803 ([d748205](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-0803))
-
 * Routine i18n updates on 15 February 2025 ([#79665](https://github.com/CleverRaven/Cataclysm-DDA/pull/79665))
 * Query climb target when trying to ascend stairs into open air ([#79656](https://github.com/CleverRaven/Cataclysm-DDA/pull/79656))
 * Implement Riot Damage in City Roads and Subway Stations. Adjust Fire and Blood placement over time. ([#79641](https://github.com/CleverRaven/Cataclysm-DDA/pull/79641))
