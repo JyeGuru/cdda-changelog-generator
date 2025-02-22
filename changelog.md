@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-22-0434 ([89bb1ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-0434))
+
 * IWYU a bunch of "easy" files ([#79767](https://github.com/CleverRaven/Cataclysm-DDA/pull/79767))
 
 ---
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-02-16-0225 ([1fef6f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-0225))
 
 * Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-15-2145 ([038de4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-2145))
-
 * [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
 * Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
 * mapified a little item prompting a lot of vehicle ([#79636](https://github.com/CleverRaven/Cataclysm-DDA/pull/79636))
