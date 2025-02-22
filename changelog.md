@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-22-1241 ([337582d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-1241))
+
 * Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
 
 ---
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-02-16-2050 ([f9900fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-2050))
 
 * mapify: split ammo remaining into link and non link ([#79670](https://github.com/CleverRaven/Cataclysm-DDA/pull/79670))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-16-0826 ([b117062](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-0826))
-
 * Remove electric fields from irradiation plant ([#79677](https://github.com/CleverRaven/Cataclysm-DDA/pull/79677))
 * Remove radiation and beasts from NPP ([#79676](https://github.com/CleverRaven/Cataclysm-DDA/pull/79676))
 * Remove skill rust resist from "Flawless memory" perk ([#79674](https://github.com/CleverRaven/Cataclysm-DDA/pull/79674))
