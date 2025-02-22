@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-22-1524 ([22abd27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-1524))
+
 * Exodii weaponmaster has more guns on the rack behind ([#79751](https://github.com/CleverRaven/Cataclysm-DDA/pull/79751))
 
 ---
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-02-17-1148 ([0985380](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-17-1148))
 
 * Weekly Changelog 2025-02-03 to 2025-02-10 ([#79615](https://github.com/CleverRaven/Cataclysm-DDA/pull/79615))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-16-2050 ([f9900fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-2050))
-
 * mapify: split ammo remaining into link and non link ([#79670](https://github.com/CleverRaven/Cataclysm-DDA/pull/79670))
 * Remove electric fields from irradiation plant ([#79677](https://github.com/CleverRaven/Cataclysm-DDA/pull/79677))
 * Remove radiation and beasts from NPP ([#79676](https://github.com/CleverRaven/Cataclysm-DDA/pull/79676))
