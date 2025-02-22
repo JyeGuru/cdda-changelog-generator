@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-22-0017 ([6d3d4a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-0017))
+
 * [Xedra Evolved] Homullus Feral Summon Fix ([#79783](https://github.com/CleverRaven/Cataclysm-DDA/pull/79783))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-02-15-1708 ([bc015b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-1708))
 
 * Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-15-1010 ([4a533cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-1010))
-
 * mapified a little item prompting a lot of vehicle ([#79636](https://github.com/CleverRaven/Cataclysm-DDA/pull/79636))
 * unrack vehicle on destroyed bike rack ([#79634](https://github.com/CleverRaven/Cataclysm-DDA/pull/79634))
 * Reduce max weight of laundry basket ([#79655](https://github.com/CleverRaven/Cataclysm-DDA/pull/79655))
