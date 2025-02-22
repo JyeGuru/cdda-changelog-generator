@@ -1,3 +1,10 @@
+* Remove autodocs from hospitals, aircraft carrier ([#79799](https://github.com/CleverRaven/Cataclysm-DDA/pull/79799))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-22-0816 ([1fac784](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-0816))
+
+* Apply PULP_PRYING to different monsters ([#79773](https://github.com/CleverRaven/Cataclysm-DDA/pull/79773))
 
 ---
 
@@ -189,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-02-16-0609 ([c6b4d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-0609))
 
 * Remove skill rust resist from "Flawless memory" perk ([#79674](https://github.com/CleverRaven/Cataclysm-DDA/pull/79674))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-16-0225 ([1fef6f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-0225))
-
 * Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
 * [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
 * Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
@@ -209,7 +211,6 @@
 * Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))
 * Fail IWYU CI job on IWYU error ([#79648](https://github.com/CleverRaven/Cataclysm-DDA/pull/79648))
 * Upgrade clang-tidy to LLVM 18, and fix (some) newly firing lints ([#79633](https://github.com/CleverRaven/Cataclysm-DDA/pull/79633))
-* [Xedra Evolved] More seasonal magic ([#79592](https://github.com/CleverRaven/Cataclysm-DDA/pull/79592))
 * Fix MISSION_GET_SOFTWARE not finding software ([#79639](https://github.com/CleverRaven/Cataclysm-DDA/pull/79639))
 * Run codebase through IWYU and add a CI check. ~7-10% improvements to build times. ([#79631](https://github.com/CleverRaven/Cataclysm-DDA/pull/79631))
 * Random mutant bug JSON cleanup ([#79635](https://github.com/CleverRaven/Cataclysm-DDA/pull/79635))
@@ -229,5 +230,4 @@
 * Remove the limit on concurrent build matrix jobs in forks ([#79605](https://github.com/CleverRaven/Cataclysm-DDA/pull/79605))
 * Audit Overmap Terrains for correct application of Riot Damage ([#79593](https://github.com/CleverRaven/Cataclysm-DDA/pull/79593))
 * Fix Riot Damage not applying properly to structures multiple z-levels tall ([#79598](https://github.com/CleverRaven/Cataclysm-DDA/pull/79598))
-* Fix typo {LAWRICK -> LARWICK} ([#79591](https://github.com/CleverRaven/Cataclysm-DDA/pull/79591))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
