@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-22-1031 ([e3cd13c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-1031))
+
 * [Aftershock] Expand Frontier Outposts (Part 1) ([#79787](https://github.com/CleverRaven/Cataclysm-DDA/pull/79787))
 * Aftershock: Damage rebalance I (Ballistic weapons) ([#79762](https://github.com/CleverRaven/Cataclysm-DDA/pull/79762))
 *  Aftershock: Damage rebalance II (Laser weapons) ([#79789](https://github.com/CleverRaven/Cataclysm-DDA/pull/79789))
@@ -195,11 +200,6 @@
 
 * Remove electric fields from irradiation plant ([#79677](https://github.com/CleverRaven/Cataclysm-DDA/pull/79677))
 * Remove radiation and beasts from NPP ([#79676](https://github.com/CleverRaven/Cataclysm-DDA/pull/79676))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-16-0609 ([c6b4d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-16-0609))
-
 * Remove skill rust resist from "Flawless memory" perk ([#79674](https://github.com/CleverRaven/Cataclysm-DDA/pull/79674))
 * Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
 * [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
