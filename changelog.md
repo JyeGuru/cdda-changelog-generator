@@ -1,3 +1,4 @@
+* Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
 
 ---
 
@@ -229,6 +230,5 @@
 * Update custom_gloves.json ([#79603](https://github.com/CleverRaven/Cataclysm-DDA/pull/79603))
 * Infrastructure: Add max_worn field, migrate ONLY_ONE flag ([#79607](https://github.com/CleverRaven/Cataclysm-DDA/pull/79607))
 * Disable more debug mode msvc flags ([#79606](https://github.com/CleverRaven/Cataclysm-DDA/pull/79606))
-* make some vehicle operations map aware ([#79599](https://github.com/CleverRaven/Cataclysm-DDA/pull/79599))
 * Add SW 617, Ruger PCC, Marlin 60 ([#79602](https://github.com/CleverRaven/Cataclysm-DDA/pull/79602))
 * Remove the limit on concurrent build matrix jobs in forks ([#79605](https://github.com/CleverRaven/Cataclysm-DDA/pull/79605))

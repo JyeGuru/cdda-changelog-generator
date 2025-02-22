@@ -1,3 +1,4 @@
+* Remove "Slowdown Fungal Growth" mod (#79801)
 
 Cataclysm-DDA experimental build 2025-02-22-1031 (e3cd13c)
 * [Aftershock] Expand Frontier Outposts (Part 1) (#79787)
@@ -145,6 +146,5 @@ Cataclysm-DDA experimental build 2025-02-16-0826 (b117062)
 * Update custom_gloves.json (#79603)
 * Infrastructure: Add max_worn field, migrate ONLY_ONE flag (#79607)
 * Disable more debug mode msvc flags (#79606)
-* make some vehicle operations map aware (#79599)
 * Add SW 617, Ruger PCC, Marlin 60 (#79602)
 * Remove the limit on concurrent build matrix jobs in forks (#79605)
