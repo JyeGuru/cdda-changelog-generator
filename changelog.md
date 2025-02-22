@@ -1,3 +1,4 @@
+* [Bombastic Perk] Below the belt ([#79780](https://github.com/CleverRaven/Cataclysm-DDA/pull/79780))
 
 ---
 
@@ -235,4 +236,3 @@
 * Fix Riot Damage not applying properly to structures multiple z-levels tall ([#79598](https://github.com/CleverRaven/Cataclysm-DDA/pull/79598))
 * Fix typo {LAWRICK -> LARWICK} ([#79591](https://github.com/CleverRaven/Cataclysm-DDA/pull/79591))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
-* [Xedra Evolved] Add missing deduction skill to spells ([#79589](https://github.com/CleverRaven/Cataclysm-DDA/pull/79589))
