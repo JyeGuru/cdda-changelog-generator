@@ -1,3 +1,4 @@
+* IWYU a bunch of "easy" files (#79767)
 
 Cataclysm-DDA experimental build 2025-02-22-0227 (3d6ed96)
 * [Bombastic Perk] Below the belt (#79780)
@@ -55,9 +56,6 @@ Cataclysm-DDA experimental build 2025-02-19-1544 (0021a43)
 
 Cataclysm-DDA experimental build 2025-02-19-1314 (9c2acad)
 * Add a bank palette, fix isolated safe in bank (#79731)
-
-Cataclysm-DDA experimental build 2025-02-19-0902 (a8b8c37)
-* Generic factory std::map support, islot_comestible to generic factory (#79590)
 * [MoM] Fix spark sight (#79729)
 * Handaxes practice needs handaxes (#79725)
 * Added ground protection from bashing (#79722)

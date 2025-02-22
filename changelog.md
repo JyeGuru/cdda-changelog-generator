@@ -1,3 +1,4 @@
+* IWYU a bunch of "easy" files ([#79767](https://github.com/CleverRaven/Cataclysm-DDA/pull/79767))
 
 ---
 
@@ -100,12 +101,6 @@
 #### Cataclysm-DDA experimental build 2025-02-19-1314 ([9c2acad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-1314))
 
 * Add a bank palette, fix isolated safe in bank ([#79731](https://github.com/CleverRaven/Cataclysm-DDA/pull/79731))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-19-0902 ([a8b8c37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-0902))
-
-* Generic factory std::map support, islot_comestible to generic factory ([#79590](https://github.com/CleverRaven/Cataclysm-DDA/pull/79590))
 * [MoM] Fix spark sight ([#79729](https://github.com/CleverRaven/Cataclysm-DDA/pull/79729))
 * Handaxes practice needs handaxes ([#79725](https://github.com/CleverRaven/Cataclysm-DDA/pull/79725))
 * Added ground protection from bashing ([#79722](https://github.com/CleverRaven/Cataclysm-DDA/pull/79722))
