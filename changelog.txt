@@ -1,3 +1,4 @@
+* Routine i18n updates on 22 February 2025 (#79796)
 * Remove autodocs from hospitals, aircraft carrier (#79799)
 
 Cataclysm-DDA experimental build 2025-02-22-0816 (1fac784)
@@ -144,6 +145,5 @@ Cataclysm-DDA experimental build 2025-02-16-0609 (c6b4d3f)
 * make some vehicle operations map aware (#79599)
 * Add SW 617, Ruger PCC, Marlin 60 (#79602)
 * Remove the limit on concurrent build matrix jobs in forks (#79605)
-* Audit Overmap Terrains for correct application of Riot Damage (#79593)
 * Fix Riot Damage not applying properly to structures multiple z-levels tall (#79598)
 * Routine i18n updates on 08 February 2025 (#79596)

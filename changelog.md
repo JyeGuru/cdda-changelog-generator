@@ -1,3 +1,4 @@
+* Routine i18n updates on 22 February 2025 ([#79796](https://github.com/CleverRaven/Cataclysm-DDA/pull/79796))
 * Remove autodocs from hospitals, aircraft carrier ([#79799](https://github.com/CleverRaven/Cataclysm-DDA/pull/79799))
 
 ---
@@ -228,6 +229,5 @@
 * make some vehicle operations map aware ([#79599](https://github.com/CleverRaven/Cataclysm-DDA/pull/79599))
 * Add SW 617, Ruger PCC, Marlin 60 ([#79602](https://github.com/CleverRaven/Cataclysm-DDA/pull/79602))
 * Remove the limit on concurrent build matrix jobs in forks ([#79605](https://github.com/CleverRaven/Cataclysm-DDA/pull/79605))
-* Audit Overmap Terrains for correct application of Riot Damage ([#79593](https://github.com/CleverRaven/Cataclysm-DDA/pull/79593))
 * Fix Riot Damage not applying properly to structures multiple z-levels tall ([#79598](https://github.com/CleverRaven/Cataclysm-DDA/pull/79598))
 * Routine i18n updates on 08 February 2025 ([#79596](https://github.com/CleverRaven/Cataclysm-DDA/pull/79596))
