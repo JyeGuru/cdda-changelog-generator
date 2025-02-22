@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-22-0227 ([3d6ed96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-0227))
+
 * [Bombastic Perk] Below the belt ([#79780](https://github.com/CleverRaven/Cataclysm-DDA/pull/79780))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-02-15-2145 ([038de4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-2145))
 
 * [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-15-1708 ([bc015b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-15-1708))
-
 * Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
 * mapified a little item prompting a lot of vehicle ([#79636](https://github.com/CleverRaven/Cataclysm-DDA/pull/79636))
 * unrack vehicle on destroyed bike rack ([#79634](https://github.com/CleverRaven/Cataclysm-DDA/pull/79634))
