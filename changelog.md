@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-23-1432 ([71d5d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-1432))
+
+* [Xedra Evolved] Add alchemical hobby basements ([#79790](https://github.com/CleverRaven/Cataclysm-DDA/pull/79790))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-23-0607 ([5546de7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-0607))
 
 * De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
@@ -192,11 +198,6 @@
 * add walls to standard_domestic_abandoned_palette ([#79697](https://github.com/CleverRaven/Cataclysm-DDA/pull/79697))
 * also mark 'child' recipes when marking nested recipes as read ([#79698](https://github.com/CleverRaven/Cataclysm-DDA/pull/79698))
 * Audit bowl, drinking glass, plate length ([#79709](https://github.com/CleverRaven/Cataclysm-DDA/pull/79709))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-18-0639 ([85c0e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-0639))
-
 * Fix craftable nomad cowl without blueprint ([#79705](https://github.com/CleverRaven/Cataclysm-DDA/pull/79705))
 * Ammo type name changes ([#79678](https://github.com/CleverRaven/Cataclysm-DDA/pull/79678))
 * [MoM] Update māchīuhpōhualhuaztli description ([#79694](https://github.com/CleverRaven/Cataclysm-DDA/pull/79694))
@@ -231,4 +232,3 @@
 * make gas masks compatible with NVG ([#79621](https://github.com/CleverRaven/Cataclysm-DDA/pull/79621))
 * mapified a lot of vehicle stuff ([#79611](https://github.com/CleverRaven/Cataclysm-DDA/pull/79611))
 * Martial Mastery: Duelist Combos & Five point Exploding Heart Technique ([#79614](https://github.com/CleverRaven/Cataclysm-DDA/pull/79614))
-* Infrastructure: Add max_worn field, migrate ONLY_ONE flag ([#79607](https://github.com/CleverRaven/Cataclysm-DDA/pull/79607))
