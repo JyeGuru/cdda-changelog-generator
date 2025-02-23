@@ -185,11 +185,6 @@
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
 * Aggressively whitelist terrain for overmap_terrain_coverage test ([#79711](https://github.com/CleverRaven/Cataclysm-DDA/pull/79711))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-18-0903 ([2665bf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-0903))
-
 * 40mm audit ([#79675](https://github.com/CleverRaven/Cataclysm-DDA/pull/79675))
 * Make test logging a bit more verbose by adding current test name ([#79681](https://github.com/CleverRaven/Cataclysm-DDA/pull/79681))
 * Remove recursision from weapon_talk_hallucination ([#79695](https://github.com/CleverRaven/Cataclysm-DDA/pull/79695))
