@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-23-0607 ([5546de7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-0607))
+
 * De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
 * Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
 
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-02-18-0639 ([85c0e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-0639))
 
 * Fix craftable nomad cowl without blueprint ([#79705](https://github.com/CleverRaven/Cataclysm-DDA/pull/79705))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-17-1422 ([5a46143](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-17-1422))
-
 * Ammo type name changes ([#79678](https://github.com/CleverRaven/Cataclysm-DDA/pull/79678))
 * [MoM] Update māchīuhpōhualhuaztli description ([#79694](https://github.com/CleverRaven/Cataclysm-DDA/pull/79694))
 * Aftershock:  Wraitheon Vahagn 10XR Smart Rifle ([#79679](https://github.com/CleverRaven/Cataclysm-DDA/pull/79679))
