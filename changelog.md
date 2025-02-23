@@ -1,3 +1,4 @@
+* De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
 * Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
 
 ---
@@ -231,4 +232,3 @@
 * mapified a lot of vehicle stuff ([#79611](https://github.com/CleverRaven/Cataclysm-DDA/pull/79611))
 * Martial Mastery: Duelist Combos & Five point Exploding Heart Technique ([#79614](https://github.com/CleverRaven/Cataclysm-DDA/pull/79614))
 * Infrastructure: Add max_worn field, migrate ONLY_ONE flag ([#79607](https://github.com/CleverRaven/Cataclysm-DDA/pull/79607))
-* Disable more debug mode msvc flags ([#79606](https://github.com/CleverRaven/Cataclysm-DDA/pull/79606))
