@@ -1,3 +1,4 @@
+* Update decorative.json ([#79802](https://github.com/CleverRaven/Cataclysm-DDA/pull/79802))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
 * Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))
 
@@ -199,7 +200,6 @@
 * Ammo type name changes ([#79678](https://github.com/CleverRaven/Cataclysm-DDA/pull/79678))
 * [MoM] Update māchīuhpōhualhuaztli description ([#79694](https://github.com/CleverRaven/Cataclysm-DDA/pull/79694))
 * Aftershock:  Wraitheon Vahagn 10XR Smart Rifle ([#79679](https://github.com/CleverRaven/Cataclysm-DDA/pull/79679))
-* Weekly Changelog 2025-02-03 to 2025-02-10 ([#79615](https://github.com/CleverRaven/Cataclysm-DDA/pull/79615))
 * mapify: split ammo remaining into link and non link ([#79670](https://github.com/CleverRaven/Cataclysm-DDA/pull/79670))
 * Remove electric fields from irradiation plant ([#79677](https://github.com/CleverRaven/Cataclysm-DDA/pull/79677))
 * Remove radiation and beasts from NPP ([#79676](https://github.com/CleverRaven/Cataclysm-DDA/pull/79676))
