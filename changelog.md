@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-23-2345 ([ae70766](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-2345))
+
 * Update decorative.json ([#79802](https://github.com/CleverRaven/Cataclysm-DDA/pull/79802))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
 * Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-02-18-1529 ([586cf5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-1529))
 
 * Mapify: character etc. sees + sundry others ([#79699](https://github.com/CleverRaven/Cataclysm-DDA/pull/79699))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-18-1220 ([187cf76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-1220))
-
 * Return equipment to "Otaku" profession ([#79687](https://github.com/CleverRaven/Cataclysm-DDA/pull/79687))
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
