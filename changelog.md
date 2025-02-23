@@ -1,3 +1,10 @@
+* Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-23-0341 ([694ddc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-0341))
+
+* [XEDRA] Add monochrome boomer ([#79800](https://github.com/CleverRaven/Cataclysm-DDA/pull/79800))
 
 ---
 
@@ -193,11 +200,6 @@
 * Ammo type name changes ([#79678](https://github.com/CleverRaven/Cataclysm-DDA/pull/79678))
 * [MoM] Update māchīuhpōhualhuaztli description ([#79694](https://github.com/CleverRaven/Cataclysm-DDA/pull/79694))
 * Aftershock:  Wraitheon Vahagn 10XR Smart Rifle ([#79679](https://github.com/CleverRaven/Cataclysm-DDA/pull/79679))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-17-1148 ([0985380](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-17-1148))
-
 * Weekly Changelog 2025-02-03 to 2025-02-10 ([#79615](https://github.com/CleverRaven/Cataclysm-DDA/pull/79615))
 * mapify: split ammo remaining into link and non link ([#79670](https://github.com/CleverRaven/Cataclysm-DDA/pull/79670))
 * Remove electric fields from irradiation plant ([#79677](https://github.com/CleverRaven/Cataclysm-DDA/pull/79677))
@@ -228,7 +230,5 @@
 * make gas masks compatible with NVG ([#79621](https://github.com/CleverRaven/Cataclysm-DDA/pull/79621))
 * mapified a lot of vehicle stuff ([#79611](https://github.com/CleverRaven/Cataclysm-DDA/pull/79611))
 * Martial Mastery: Duelist Combos & Five point Exploding Heart Technique ([#79614](https://github.com/CleverRaven/Cataclysm-DDA/pull/79614))
-* Update custom_gloves.json ([#79603](https://github.com/CleverRaven/Cataclysm-DDA/pull/79603))
 * Infrastructure: Add max_worn field, migrate ONLY_ONE flag ([#79607](https://github.com/CleverRaven/Cataclysm-DDA/pull/79607))
 * Disable more debug mode msvc flags ([#79606](https://github.com/CleverRaven/Cataclysm-DDA/pull/79606))
-* Remove the limit on concurrent build matrix jobs in forks ([#79605](https://github.com/CleverRaven/Cataclysm-DDA/pull/79605))
