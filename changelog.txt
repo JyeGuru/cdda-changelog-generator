@@ -1,3 +1,5 @@
+* [MoM] Sensory Disintegration absolutely tanks your concentration ability (#79821)
+* Fix MSVC Debug build (#79817)
 
 Cataclysm-DDA experimental build 2025-02-23-1432 (71d5d10)
 * [Xedra Evolved] Add alchemical hobby basements (#79790)
@@ -144,5 +146,3 @@ Cataclysm-DDA experimental build 2025-02-18-1220 (187cf76)
 * Add place arc furnace recipe, obsolete industrial arc furnace (#79618)
 * [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") (#79628)
 * make gas masks compatible with NVG (#79621)
-* mapified a lot of vehicle stuff (#79611)
-* Martial Mastery: Duelist Combos & Five point Exploding Heart Technique (#79614)
