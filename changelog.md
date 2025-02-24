@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-24-1103 ([98d54ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-1103))
+
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * Add a FMS entry for disabling features ([#79645](https://github.com/CleverRaven/Cataclysm-DDA/pull/79645))
@@ -184,11 +189,6 @@
 * Handaxes practice needs handaxes ([#79725](https://github.com/CleverRaven/Cataclysm-DDA/pull/79725))
 * Added ground protection from bashing ([#79722](https://github.com/CleverRaven/Cataclysm-DDA/pull/79722))
 * Vampire typo fix & small tweaks ([#79726](https://github.com/CleverRaven/Cataclysm-DDA/pull/79726))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-19-0637 ([bd78f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-0637))
-
 * Fix item dupe when wielding after reloading ([#79716](https://github.com/CleverRaven/Cataclysm-DDA/pull/79716))
 * Move laundry basket and large wicker basket into a container ([#79688](https://github.com/CleverRaven/Cataclysm-DDA/pull/79688))
 * Mapify: character etc. sees + sundry others ([#79699](https://github.com/CleverRaven/Cataclysm-DDA/pull/79699))

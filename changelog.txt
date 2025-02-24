@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-24-1103 (98d54ac)
 * Fix charcoal kilns (#79827)
 * Add `--limit-debug-level` to test main (#79824)
 * Add a FMS entry for disabling features (#79645)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2025-02-19-1314 (9c2acad)
 * Handaxes practice needs handaxes (#79725)
 * Added ground protection from bashing (#79722)
 * Vampire typo fix & small tweaks (#79726)
-
-Cataclysm-DDA experimental build 2025-02-19-0637 (bd78f93)
 * Fix item dupe when wielding after reloading (#79716)
 * Move laundry basket and large wicker basket into a container (#79688)
 * Mapify: character etc. sees + sundry others (#79699)
