@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-24-1642 ([1a5f207](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-1642))
+
+* Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-24-1103 ([98d54ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-1103))
 
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
@@ -220,7 +226,6 @@
 * Minor clothing itemgroup change ([#79663](https://github.com/CleverRaven/Cataclysm-DDA/pull/79663))
 * Routine i18n updates on 15 February 2025 ([#79665](https://github.com/CleverRaven/Cataclysm-DDA/pull/79665))
 * Query climb target when trying to ascend stairs into open air ([#79656](https://github.com/CleverRaven/Cataclysm-DDA/pull/79656))
-* Implement Riot Damage in City Roads and Subway Stations. Adjust Fire and Blood placement over time. ([#79641](https://github.com/CleverRaven/Cataclysm-DDA/pull/79641))
 * Glazed / roasted carrot audit ([#79650](https://github.com/CleverRaven/Cataclysm-DDA/pull/79650))
 * Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))
 * Fail IWYU CI job on IWYU error ([#79648](https://github.com/CleverRaven/Cataclysm-DDA/pull/79648))
