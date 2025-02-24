@@ -110,8 +110,6 @@ Cataclysm-DDA experimental build 2025-02-19-1314 (9c2acad)
 
 Cataclysm-DDA experimental build 2025-02-19-0637 (bd78f93)
 * Fix item dupe when wielding after reloading (#79716)
-
-Cataclysm-DDA experimental build 2025-02-19-0047 (2e73680)
 * Move laundry basket and large wicker basket into a container (#79688)
 * Mapify: character etc. sees + sundry others (#79699)
 * Return equipment to "Otaku" profession (#79687)

@@ -188,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-02-19-0637 ([bd78f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-0637))
 
 * Fix item dupe when wielding after reloading ([#79716](https://github.com/CleverRaven/Cataclysm-DDA/pull/79716))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-19-0047 ([2e73680](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-0047))
-
 * Move laundry basket and large wicker basket into a container ([#79688](https://github.com/CleverRaven/Cataclysm-DDA/pull/79688))
 * Mapify: character etc. sees + sundry others ([#79699](https://github.com/CleverRaven/Cataclysm-DDA/pull/79699))
 * Return equipment to "Otaku" profession ([#79687](https://github.com/CleverRaven/Cataclysm-DDA/pull/79687))
