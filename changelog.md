@@ -1,3 +1,5 @@
+* Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
+* Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * Add a FMS entry for disabling features ([#79645](https://github.com/CleverRaven/Cataclysm-DDA/pull/79645))
 * [ Xedra Evolved ]  Chronomancy spells no longer gain xp.  Unique level up mechanics. ([#79768](https://github.com/CleverRaven/Cataclysm-DDA/pull/79768))
 * Mapified pos_bub, posx, and posy in the talker class hierarchy ([#79753](https://github.com/CleverRaven/Cataclysm-DDA/pull/79753))
@@ -222,4 +224,3 @@
 * Glazed / roasted carrot audit ([#79650](https://github.com/CleverRaven/Cataclysm-DDA/pull/79650))
 * Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))
 * Fail IWYU CI job on IWYU error ([#79648](https://github.com/CleverRaven/Cataclysm-DDA/pull/79648))
-* Fix MISSION_GET_SOFTWARE not finding software ([#79639](https://github.com/CleverRaven/Cataclysm-DDA/pull/79639))
