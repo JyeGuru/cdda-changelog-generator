@@ -1,3 +1,9 @@
+* [Aftershock] Expand Frontier Outposts (Part 2) (#79811)
+* [ Xedra Evolved ] Pulp prying where appropriate (#79795)
+* Fixed explosion leaving roofless soil, cleaned up repair (#79813)
+
+Cataclysm-DDA experimental build 2025-02-24-0629 (b501a7e)
+* [Bombastic Perks] Below the Belt do not error anymore (#79825)
 
 Cataclysm-DDA experimental build 2025-02-23-2345 (ae70766)
 * Update decorative.json (#79802)
@@ -80,7 +86,6 @@ Cataclysm-DDA experimental build 2025-02-20-0641 (40bdff2)
 
 Cataclysm-DDA experimental build 2025-02-20-0259 (169bac9)
 * [MoM] Small typo fix (#79735)
-* Fix smoking rack lighting time bug (#79627)
 
 Cataclysm-DDA experimental build 2025-02-20-0039 (4581dea)
 * [Xedra Evolved] Fix Changeling multi-court prompting (#79734)
@@ -100,8 +105,6 @@ Cataclysm-DDA experimental build 2025-02-19-0637 (bd78f93)
 
 Cataclysm-DDA experimental build 2025-02-19-0047 (2e73680)
 * Move laundry basket and large wicker basket into a container (#79688)
-
-Cataclysm-DDA experimental build 2025-02-18-1529 (586cf5f)
 * Mapify: character etc. sees + sundry others (#79699)
 * Return equipment to "Otaku" profession (#79687)
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug (#79713)
@@ -143,6 +146,3 @@ Cataclysm-DDA experimental build 2025-02-18-1529 (586cf5f)
 * Random mutant bug JSON cleanup (#79635)
 * remove martial arts compat from makeshift/primitive axes. (#79637)
 * resolve talker issues with amigara horrors (#79630)
-* Add place arc furnace recipe, obsolete industrial arc furnace (#79618)
-* [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") (#79628)
-* make gas masks compatible with NVG (#79621)

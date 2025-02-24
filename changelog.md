@@ -1,3 +1,12 @@
+* [Aftershock] Expand Frontier Outposts (Part 2) ([#79811](https://github.com/CleverRaven/Cataclysm-DDA/pull/79811))
+* [ Xedra Evolved ] Pulp prying where appropriate ([#79795](https://github.com/CleverRaven/Cataclysm-DDA/pull/79795))
+* Fixed explosion leaving roofless soil, cleaned up repair ([#79813](https://github.com/CleverRaven/Cataclysm-DDA/pull/79813))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-24-0629 ([b501a7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-0629))
+
+* [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
 
 ---
 
@@ -143,7 +152,6 @@
 #### Cataclysm-DDA experimental build 2025-02-20-0259 ([169bac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0259))
 
 * [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
-* Fix smoking rack lighting time bug ([#79627](https://github.com/CleverRaven/Cataclysm-DDA/pull/79627))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-02-19-0047 ([2e73680](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-0047))
 
 * Move laundry basket and large wicker basket into a container ([#79688](https://github.com/CleverRaven/Cataclysm-DDA/pull/79688))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-18-1529 ([586cf5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-18-1529))
-
 * Mapify: character etc. sees + sundry others ([#79699](https://github.com/CleverRaven/Cataclysm-DDA/pull/79699))
 * Return equipment to "Otaku" profession ([#79687](https://github.com/CleverRaven/Cataclysm-DDA/pull/79687))
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
@@ -224,6 +227,3 @@
 * Random mutant bug JSON cleanup ([#79635](https://github.com/CleverRaven/Cataclysm-DDA/pull/79635))
 * remove martial arts compat from makeshift/primitive axes. ([#79637](https://github.com/CleverRaven/Cataclysm-DDA/pull/79637))
 * resolve talker issues with amigara horrors ([#79630](https://github.com/CleverRaven/Cataclysm-DDA/pull/79630))
-* Add place arc furnace recipe, obsolete industrial arc furnace ([#79618](https://github.com/CleverRaven/Cataclysm-DDA/pull/79618))
-* [MoM] Swap the Itzcuauhtli Corps Liaison's wristwatch for a māchīuhpōhualhuaztli ("wrist computer") ([#79628](https://github.com/CleverRaven/Cataclysm-DDA/pull/79628))
-* make gas masks compatible with NVG ([#79621](https://github.com/CleverRaven/Cataclysm-DDA/pull/79621))
