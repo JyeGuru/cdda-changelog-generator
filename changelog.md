@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-25-1919 ([5e5cf9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-1919))
+
+* Isolation Protocol Office levels ([#79852](https://github.com/CleverRaven/Cataclysm-DDA/pull/79852))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-25-0902 ([7505ea6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-0902))
 
 * Ammo Overhaul (Part 1) ([#79794](https://github.com/CleverRaven/Cataclysm-DDA/pull/79794))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-02-20-0641 ([40bdff2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0641))
 
 * [ Xedra Evolved ] Chronomancer XP redesign: Menus and effects ([#79666](https://github.com/CleverRaven/Cataclysm-DDA/pull/79666))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-20-0259 ([169bac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0259))
-
 * [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
 * [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
 * [MoM] Add two psionic amalgamations ([#79701](https://github.com/CleverRaven/Cataclysm-DDA/pull/79701))
@@ -224,7 +225,6 @@
 * Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
 * [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
 * Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
-* Reduce max weight of laundry basket ([#79655](https://github.com/CleverRaven/Cataclysm-DDA/pull/79655))
 * Minor 12 gauge audit ([#79662](https://github.com/CleverRaven/Cataclysm-DDA/pull/79662))
 * Minor clothing itemgroup change ([#79663](https://github.com/CleverRaven/Cataclysm-DDA/pull/79663))
 * Routine i18n updates on 15 February 2025 ([#79665](https://github.com/CleverRaven/Cataclysm-DDA/pull/79665))
