@@ -1,3 +1,5 @@
+* Ammo Overhaul (Part 1) ([#79794](https://github.com/CleverRaven/Cataclysm-DDA/pull/79794))
+* Fix android build (?) ([#79834](https://github.com/CleverRaven/Cataclysm-DDA/pull/79834))
 
 ---
 
@@ -227,5 +229,3 @@
 * Minor clothing itemgroup change ([#79663](https://github.com/CleverRaven/Cataclysm-DDA/pull/79663))
 * Routine i18n updates on 15 February 2025 ([#79665](https://github.com/CleverRaven/Cataclysm-DDA/pull/79665))
 * Query climb target when trying to ascend stairs into open air ([#79656](https://github.com/CleverRaven/Cataclysm-DDA/pull/79656))
-* Glazed / roasted carrot audit ([#79650](https://github.com/CleverRaven/Cataclysm-DDA/pull/79650))
-* Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))

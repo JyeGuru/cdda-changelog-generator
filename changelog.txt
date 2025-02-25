@@ -1,3 +1,5 @@
+* Ammo Overhaul (Part 1) (#79794)
+* Fix android build (?) (#79834)
 
 Cataclysm-DDA experimental build 2025-02-25-0648 (f2ed07e)
 * [Xedra Evolvd] Yet even more seasonal magic (#79738)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2025-02-20-0039 (4581dea)
 * Minor clothing itemgroup change (#79663)
 * Routine i18n updates on 15 February 2025 (#79665)
 * Query climb target when trying to ascend stairs into open air (#79656)
-* Glazed / roasted carrot audit (#79650)
-* Adds large wicker baskets (#79649)
