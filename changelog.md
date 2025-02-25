@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-25-0648 ([f2ed07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-0648))
+
 * [Xedra Evolvd] Yet even more seasonal magic ([#79738](https://github.com/CleverRaven/Cataclysm-DDA/pull/79738))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-02-20-0039 ([4581dea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0039))
 
 * [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-19-1544 ([0021a43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-1544))
-
 * [MoM] Add two psionic amalgamations ([#79701](https://github.com/CleverRaven/Cataclysm-DDA/pull/79701))
 * Add a bank palette, fix isolated safe in bank ([#79731](https://github.com/CleverRaven/Cataclysm-DDA/pull/79731))
 * [MoM] Fix spark sight ([#79729](https://github.com/CleverRaven/Cataclysm-DDA/pull/79729))
