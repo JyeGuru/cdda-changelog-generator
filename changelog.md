@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-25-0902 ([7505ea6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-0902))
+
 * Ammo Overhaul (Part 1) ([#79794](https://github.com/CleverRaven/Cataclysm-DDA/pull/79794))
 * Fix android build (?) ([#79834](https://github.com/CleverRaven/Cataclysm-DDA/pull/79834))
 
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-02-20-0259 ([169bac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0259))
 
 * [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-20-0039 ([4581dea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0039))
-
 * [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
 * [MoM] Add two psionic amalgamations ([#79701](https://github.com/CleverRaven/Cataclysm-DDA/pull/79701))
 * Add a bank palette, fix isolated safe in bank ([#79731](https://github.com/CleverRaven/Cataclysm-DDA/pull/79731))
