@@ -1,3 +1,4 @@
+* [Xedra Evolvd] Yet even more seasonal magic (#79738)
 
 Cataclysm-DDA experimental build 2025-02-25-0439 (b41b498)
 * [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree (#79823)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-02-19-1544 (0021a43)
 * Query climb target when trying to ascend stairs into open air (#79656)
 * Glazed / roasted carrot audit (#79650)
 * Adds large wicker baskets (#79649)
-* Fail IWYU CI job on IWYU error (#79648)

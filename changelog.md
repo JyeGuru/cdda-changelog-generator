@@ -1,3 +1,4 @@
+* [Xedra Evolvd] Yet even more seasonal magic ([#79738](https://github.com/CleverRaven/Cataclysm-DDA/pull/79738))
 
 ---
 
@@ -228,4 +229,3 @@
 * Query climb target when trying to ascend stairs into open air ([#79656](https://github.com/CleverRaven/Cataclysm-DDA/pull/79656))
 * Glazed / roasted carrot audit ([#79650](https://github.com/CleverRaven/Cataclysm-DDA/pull/79650))
 * Adds large wicker baskets ([#79649](https://github.com/CleverRaven/Cataclysm-DDA/pull/79649))
-* Fail IWYU CI job on IWYU error ([#79648](https://github.com/CleverRaven/Cataclysm-DDA/pull/79648))
