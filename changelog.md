@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-25-0439 ([b41b498](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-0439))
+
+* [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree ([#79823](https://github.com/CleverRaven/Cataclysm-DDA/pull/79823))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-24-1642 ([1a5f207](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-1642))
 
 * Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))
@@ -11,7 +17,6 @@
 
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
-* Add a FMS entry for disabling features ([#79645](https://github.com/CleverRaven/Cataclysm-DDA/pull/79645))
 * [ Xedra Evolved ]  Chronomancy spells no longer gain xp.  Unique level up mechanics. ([#79768](https://github.com/CleverRaven/Cataclysm-DDA/pull/79768))
 * Mapified pos_bub, posx, and posy in the talker class hierarchy ([#79753](https://github.com/CleverRaven/Cataclysm-DDA/pull/79753))
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-02-19-1544 ([0021a43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-1544))
 
 * [MoM] Add two psionic amalgamations ([#79701](https://github.com/CleverRaven/Cataclysm-DDA/pull/79701))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-19-1314 ([9c2acad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-19-1314))
-
 * Add a bank palette, fix isolated safe in bank ([#79731](https://github.com/CleverRaven/Cataclysm-DDA/pull/79731))
 * [MoM] Fix spark sight ([#79729](https://github.com/CleverRaven/Cataclysm-DDA/pull/79729))
 * Handaxes practice needs handaxes ([#79725](https://github.com/CleverRaven/Cataclysm-DDA/pull/79725))

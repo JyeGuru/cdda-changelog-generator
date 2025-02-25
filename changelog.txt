@@ -1,11 +1,13 @@
 
+Cataclysm-DDA experimental build 2025-02-25-0439 (b41b498)
+* [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree (#79823)
+
 Cataclysm-DDA experimental build 2025-02-24-1642 (1a5f207)
 * Don't spawn blacklisted items from `container-item` entries in item groups (#79832)
 
 Cataclysm-DDA experimental build 2025-02-24-1103 (98d54ac)
 * Fix charcoal kilns (#79827)
 * Add `--limit-debug-level` to test main (#79824)
-* Add a FMS entry for disabling features (#79645)
 * [ Xedra Evolved ]  Chronomancy spells no longer gain xp.  Unique level up mechanics. (#79768)
 * Mapified pos_bub, posx, and posy in the talker class hierarchy (#79753)
 * Possibly maybe try and fix pulping crash on android (unlikely) (#79829)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-02-20-0039 (4581dea)
 
 Cataclysm-DDA experimental build 2025-02-19-1544 (0021a43)
 * [MoM] Add two psionic amalgamations (#79701)
-
-Cataclysm-DDA experimental build 2025-02-19-1314 (9c2acad)
 * Add a bank palette, fix isolated safe in bank (#79731)
 * [MoM] Fix spark sight (#79729)
 * Handaxes practice needs handaxes (#79725)
