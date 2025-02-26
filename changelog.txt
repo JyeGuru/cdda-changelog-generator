@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-26-0333 (1d1839b)
+* [MoM] Finish Heightened Senses docs (#79851)
+
 Cataclysm-DDA experimental build 2025-02-25-1919 (5e5cf9d)
 * Isolation Protocol Office levels (#79852)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2025-02-20-0853 (27152a9)
 * Weekly Changelog 2025-02-10 to 2025-02-17 (#79691)
 * converted item_location and computer to use absolute coordinates (#79733)
 * Fix bug in fiction books overspawning in vandalized libraries simplify itemgroups (#79723)
-
-Cataclysm-DDA experimental build 2025-02-20-0641 (40bdff2)
 * [ Xedra Evolved ] Chronomancer XP redesign: Menus and effects (#79666)
 * [MoM] Small typo fix (#79735)
 * [Xedra Evolved] Fix Changeling multi-court prompting (#79734)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-02-20-0641 (40bdff2)
 * Minor 12 gauge audit (#79662)
 * Minor clothing itemgroup change (#79663)
 * Routine i18n updates on 15 February 2025 (#79665)
-* Query climb target when trying to ascend stairs into open air (#79656)

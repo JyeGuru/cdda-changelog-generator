@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-26-0333 ([1d1839b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-26-0333))
+
+* [MoM] Finish Heightened Senses docs ([#79851](https://github.com/CleverRaven/Cataclysm-DDA/pull/79851))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-25-1919 ([5e5cf9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-1919))
 
 * Isolation Protocol Office levels ([#79852](https://github.com/CleverRaven/Cataclysm-DDA/pull/79852))
@@ -185,11 +191,6 @@
 * Weekly Changelog 2025-02-10 to 2025-02-17 ([#79691](https://github.com/CleverRaven/Cataclysm-DDA/pull/79691))
 * converted item_location and computer to use absolute coordinates ([#79733](https://github.com/CleverRaven/Cataclysm-DDA/pull/79733))
 * Fix bug in fiction books overspawning in vandalized libraries simplify itemgroups ([#79723](https://github.com/CleverRaven/Cataclysm-DDA/pull/79723))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-20-0641 ([40bdff2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-0641))
-
 * [ Xedra Evolved ] Chronomancer XP redesign: Menus and effects ([#79666](https://github.com/CleverRaven/Cataclysm-DDA/pull/79666))
 * [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
 * [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
@@ -228,4 +229,3 @@
 * Minor 12 gauge audit ([#79662](https://github.com/CleverRaven/Cataclysm-DDA/pull/79662))
 * Minor clothing itemgroup change ([#79663](https://github.com/CleverRaven/Cataclysm-DDA/pull/79663))
 * Routine i18n updates on 15 February 2025 ([#79665](https://github.com/CleverRaven/Cataclysm-DDA/pull/79665))
-* Query climb target when trying to ascend stairs into open air ([#79656](https://github.com/CleverRaven/Cataclysm-DDA/pull/79656))
