@@ -1,3 +1,4 @@
+* [Xedra Evolved] Singular Boann's Island (#79856)
 
 Cataclysm-DDA experimental build 2025-02-26-0648 (e0f1612)
 * Rework the trash itemgroups: part 1 (#79855)
@@ -146,5 +147,4 @@ Cataclysm-DDA experimental build 2025-02-20-1110 (460a215)
 * Minor bug fixes (#79672)
 * [MoM] Run proper EoC when casting relocation (#79669)
 * Fix Chainsmoker Perk making accuracy worse instead of better. (#79667)
-* Minor clothing itemgroup change (#79663)
 * Routine i18n updates on 15 February 2025 (#79665)
