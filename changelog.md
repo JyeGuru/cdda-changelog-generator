@@ -1,3 +1,4 @@
+* Generic factory support for damage_instance and islot_gun ([#79830](https://github.com/CleverRaven/Cataclysm-DDA/pull/79830))
 * [MOM] Add some biokinesis utility powers ([#79814](https://github.com/CleverRaven/Cataclysm-DDA/pull/79814))
 * [Xedra Evolved] Singular Boann's Island ([#79856](https://github.com/CleverRaven/Cataclysm-DDA/pull/79856))
 
@@ -229,4 +230,3 @@
 * Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
 * [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
 * Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
-* Routine i18n updates on 15 February 2025 ([#79665](https://github.com/CleverRaven/Cataclysm-DDA/pull/79665))
