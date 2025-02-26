@@ -1,3 +1,4 @@
+* Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
 * Generic factory support for damage_instance and islot_gun ([#79830](https://github.com/CleverRaven/Cataclysm-DDA/pull/79830))
 * [MOM] Add some biokinesis utility powers ([#79814](https://github.com/CleverRaven/Cataclysm-DDA/pull/79814))
@@ -229,4 +230,3 @@
 * Remove skill rust resist from "Flawless memory" perk ([#79674](https://github.com/CleverRaven/Cataclysm-DDA/pull/79674))
 * Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
 * [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
-* Fix Chainsmoker Perk making accuracy worse instead of better. ([#79667](https://github.com/CleverRaven/Cataclysm-DDA/pull/79667))
