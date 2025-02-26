@@ -1,3 +1,4 @@
+* [MOM] Add some biokinesis utility powers ([#79814](https://github.com/CleverRaven/Cataclysm-DDA/pull/79814))
 * [Xedra Evolved] Singular Boann's Island ([#79856](https://github.com/CleverRaven/Cataclysm-DDA/pull/79856))
 
 ---

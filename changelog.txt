@@ -1,3 +1,4 @@
+* [MOM] Add some biokinesis utility powers (#79814)
 * [Xedra Evolved] Singular Boann's Island (#79856)
 
 Cataclysm-DDA experimental build 2025-02-26-0648 (e0f1612)
