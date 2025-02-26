@@ -229,4 +229,3 @@
 * Remove radiation and beasts from NPP ([#79676](https://github.com/CleverRaven/Cataclysm-DDA/pull/79676))
 * Remove skill rust resist from "Flawless memory" perk ([#79674](https://github.com/CleverRaven/Cataclysm-DDA/pull/79674))
 * Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
-* [MoM] Run proper EoC when casting relocation ([#79669](https://github.com/CleverRaven/Cataclysm-DDA/pull/79669))
