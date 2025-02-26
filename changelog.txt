@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-02-26-2341 (676d1a6)
+* Mics eoc stuff (#79816)
+
 Cataclysm-DDA experimental build 2025-02-26-0918 (38938d4)
 * Improve dialogue condition cache (#79860)
 * Adding WASP and SPIDER flags to appropriate overmap specials (#79862)
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2025-02-21-0421 (11ae75f)
 
 Cataclysm-DDA experimental build 2025-02-20-2227 (cd2c0fc)
 * Fix android build (#79760)
-
-Cataclysm-DDA experimental build 2025-02-20-1917 (39b0571)
 * Add dormant map extra (#79741)
 * Nuke the stylish trait from orbit (#79745)
 * Aftershock: Balance tables (#79746)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2025-02-20-1917 (39b0571)
 * Ammo type name changes (#79678)
 * [MoM] Update māchīuhpōhualhuaztli description (#79694)
 * Aftershock:  Wraitheon Vahagn 10XR Smart Rifle (#79679)
-* mapify: split ammo remaining into link and non link (#79670)
 * Remove electric fields from irradiation plant (#79677)
 * Remove radiation and beasts from NPP (#79676)
 * Remove skill rust resist from "Flawless memory" perk (#79674)
