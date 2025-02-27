@@ -1,3 +1,4 @@
+* Rework the trash itemgroups: part 2 (#79848)
 
 Cataclysm-DDA experimental build 2025-02-27-1804 (72fb836)
 * Missile silo spawn fixes (#79886)
@@ -146,7 +147,6 @@ Cataclysm-DDA experimental build 2025-02-21-1926 (e45ec59)
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug (#79713)
 * NO_I18N: abstract software (#79714)
 * Aggressively whitelist terrain for overmap_terrain_coverage test (#79711)
-* add *.output files to .gitignore (#79696)
 * add walls to standard_domestic_abandoned_palette (#79697)
 * also mark 'child' recipes when marking nested recipes as read (#79698)
 * Audit bowl, drinking glass, plate length (#79709)

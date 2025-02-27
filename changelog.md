@@ -1,3 +1,4 @@
+* Rework the trash itemgroups: part 2 ([#79848](https://github.com/CleverRaven/Cataclysm-DDA/pull/79848))
 
 ---
 
@@ -230,7 +231,6 @@
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
 * Aggressively whitelist terrain for overmap_terrain_coverage test ([#79711](https://github.com/CleverRaven/Cataclysm-DDA/pull/79711))
-* add *.output files to .gitignore ([#79696](https://github.com/CleverRaven/Cataclysm-DDA/pull/79696))
 * add walls to standard_domestic_abandoned_palette ([#79697](https://github.com/CleverRaven/Cataclysm-DDA/pull/79697))
 * also mark 'child' recipes when marking nested recipes as read ([#79698](https://github.com/CleverRaven/Cataclysm-DDA/pull/79698))
 * Audit bowl, drinking glass, plate length ([#79709](https://github.com/CleverRaven/Cataclysm-DDA/pull/79709))
