@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-27-0614 ([b951222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-0614))
+
 * [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))
 
 ---
@@ -187,11 +192,6 @@
 * Fix gym walls ([#79742](https://github.com/CleverRaven/Cataclysm-DDA/pull/79742))
 * Slightly rework the missile silo ([#79756](https://github.com/CleverRaven/Cataclysm-DDA/pull/79756))
 * make Fishy Business quest require 3 cans of fish ([#79752](https://github.com/CleverRaven/Cataclysm-DDA/pull/79752))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-21-0421 ([11ae75f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-21-0421))
-
 * Add weeds to standard_domestic_landscaping_palette ([#79759](https://github.com/CleverRaven/Cataclysm-DDA/pull/79759))
 * Fix android build ([#79760](https://github.com/CleverRaven/Cataclysm-DDA/pull/79760))
 * Add dormant map extra ([#79741](https://github.com/CleverRaven/Cataclysm-DDA/pull/79741))
