@@ -1,3 +1,4 @@
+* Triffid flesh is no longer safe ([#79883](https://github.com/CleverRaven/Cataclysm-DDA/pull/79883))
 * Fix basements spawning furnaces instead of fridges ([#79879](https://github.com/CleverRaven/Cataclysm-DDA/pull/79879))
 * fix description typo ([#79877](https://github.com/CleverRaven/Cataclysm-DDA/pull/79877))
 * newchar: allow SCROLL_UP, PAGE_DOWN, HOME etc. ([#79875](https://github.com/CleverRaven/Cataclysm-DDA/pull/79875))
@@ -207,7 +208,6 @@
 * Add dormant map extra ([#79741](https://github.com/CleverRaven/Cataclysm-DDA/pull/79741))
 * Nuke the stylish trait from orbit ([#79745](https://github.com/CleverRaven/Cataclysm-DDA/pull/79745))
 * Aftershock: Balance tables ([#79746](https://github.com/CleverRaven/Cataclysm-DDA/pull/79746))
-* Weekly Changelog 2025-02-10 to 2025-02-17 ([#79691](https://github.com/CleverRaven/Cataclysm-DDA/pull/79691))
 * converted item_location and computer to use absolute coordinates ([#79733](https://github.com/CleverRaven/Cataclysm-DDA/pull/79733))
 * Fix bug in fiction books overspawning in vandalized libraries simplify itemgroups ([#79723](https://github.com/CleverRaven/Cataclysm-DDA/pull/79723))
 * [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
