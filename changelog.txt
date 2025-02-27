@@ -1,3 +1,4 @@
+* Add some missing e-storage fields (#79863)
 * Flooded basements: Part 2? (#79880)
 * [Bugfixes] Fix missed check < 0 with an unsigned int (#79882)
 
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-02-21-0912 (b5728d0)
 * Ammo type name changes (#79678)
 * [MoM] Update māchīuhpōhualhuaztli description (#79694)
 * Aftershock:  Wraitheon Vahagn 10XR Smart Rifle (#79679)
-* Remove electric fields from irradiation plant (#79677)
