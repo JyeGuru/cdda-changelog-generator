@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-02-27-1804 ([72fb836](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-1804))
+
+* Missile silo spawn fixes ([#79886](https://github.com/CleverRaven/Cataclysm-DDA/pull/79886))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-27-0823 ([e6d0d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-0823))
 
 * [MOM] Add warped strikes teleporter power ([#79864](https://github.com/CleverRaven/Cataclysm-DDA/pull/79864))
@@ -199,11 +205,6 @@
 
 * add scar_h_mk20 ([#79748](https://github.com/CleverRaven/Cataclysm-DDA/pull/79748))
 * Configure skip-duplicates jobs to not skip duplicates (yes, really) ([#79764](https://github.com/CleverRaven/Cataclysm-DDA/pull/79764))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-21-0912 ([b5728d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-21-0912))
-
 * [Xedra Evolved] Add Offworld Acquisitions Materials Processing ([#79763](https://github.com/CleverRaven/Cataclysm-DDA/pull/79763))
 * Remove house_w_foundation_palette & house_w_nest_palette ([#79758](https://github.com/CleverRaven/Cataclysm-DDA/pull/79758))
 * Fix gym walls ([#79742](https://github.com/CleverRaven/Cataclysm-DDA/pull/79742))
@@ -229,7 +230,6 @@
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
 * Aggressively whitelist terrain for overmap_terrain_coverage test ([#79711](https://github.com/CleverRaven/Cataclysm-DDA/pull/79711))
-* Remove recursision from weapon_talk_hallucination ([#79695](https://github.com/CleverRaven/Cataclysm-DDA/pull/79695))
 * add *.output files to .gitignore ([#79696](https://github.com/CleverRaven/Cataclysm-DDA/pull/79696))
 * add walls to standard_domestic_abandoned_palette ([#79697](https://github.com/CleverRaven/Cataclysm-DDA/pull/79697))
 * also mark 'child' recipes when marking nested recipes as read ([#79698](https://github.com/CleverRaven/Cataclysm-DDA/pull/79698))
