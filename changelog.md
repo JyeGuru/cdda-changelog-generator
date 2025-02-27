@@ -1,3 +1,4 @@
+* [MOM] Add warped strikes teleporter power ([#79864](https://github.com/CleverRaven/Cataclysm-DDA/pull/79864))
 * Triffid flesh is no longer safe ([#79883](https://github.com/CleverRaven/Cataclysm-DDA/pull/79883))
 * Fix basements spawning furnaces instead of fridges ([#79879](https://github.com/CleverRaven/Cataclysm-DDA/pull/79879))
 * fix description typo ([#79877](https://github.com/CleverRaven/Cataclysm-DDA/pull/79877))
@@ -229,4 +230,3 @@
 * also mark 'child' recipes when marking nested recipes as read ([#79698](https://github.com/CleverRaven/Cataclysm-DDA/pull/79698))
 * Audit bowl, drinking glass, plate length ([#79709](https://github.com/CleverRaven/Cataclysm-DDA/pull/79709))
 * Fix craftable nomad cowl without blueprint ([#79705](https://github.com/CleverRaven/Cataclysm-DDA/pull/79705))
-* [MoM] Update māchīuhpōhualhuaztli description ([#79694](https://github.com/CleverRaven/Cataclysm-DDA/pull/79694))
