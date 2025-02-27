@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-27-2028 ([e1d2288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-2028))
+
 * [Bombastic Perks] Below the Belt do not error anymore. Seriously ([#79835](https://github.com/CleverRaven/Cataclysm-DDA/pull/79835))
 * Rework the trash itemgroups: part 2 ([#79848](https://github.com/CleverRaven/Cataclysm-DDA/pull/79848))
 
@@ -200,11 +205,6 @@
 * Touch up no hope palettes ([#79779](https://github.com/CleverRaven/Cataclysm-DDA/pull/79779))
 * Emergency blanket stats update ([#79778](https://github.com/CleverRaven/Cataclysm-DDA/pull/79778))
 * Change symbol for weeds in palette ([#79777](https://github.com/CleverRaven/Cataclysm-DDA/pull/79777))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-21-1926 ([e45ec59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-21-1926))
-
 * add scar_h_mk20 ([#79748](https://github.com/CleverRaven/Cataclysm-DDA/pull/79748))
 * Configure skip-duplicates jobs to not skip duplicates (yes, really) ([#79764](https://github.com/CleverRaven/Cataclysm-DDA/pull/79764))
 * [Xedra Evolved] Add Offworld Acquisitions Materials Processing ([#79763](https://github.com/CleverRaven/Cataclysm-DDA/pull/79763))
