@@ -1,3 +1,7 @@
+* [MoM] Guided Evolution requires additional concentration (#79871)
+
+Cataclysm-DDA experimental build 2025-02-27-0409 (4dcfaa0)
+* [Xedra Evolved] Fix instant chronomancy leveling to max (#79874)
 
 Cataclysm-DDA experimental build 2025-02-26-2341 (676d1a6)
 * Mics eoc stuff (#79816)
@@ -108,8 +112,6 @@ Cataclysm-DDA experimental build 2025-02-21-0912 (b5728d0)
 
 Cataclysm-DDA experimental build 2025-02-21-0421 (11ae75f)
 * Add weeds to standard_domestic_landscaping_palette (#79759)
-
-Cataclysm-DDA experimental build 2025-02-20-2227 (cd2c0fc)
 * Fix android build (#79760)
 * Add dormant map extra (#79741)
 * Nuke the stylish trait from orbit (#79745)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2025-02-20-2227 (cd2c0fc)
 * Aftershock:  Wraitheon Vahagn 10XR Smart Rifle (#79679)
 * Remove electric fields from irradiation plant (#79677)
 * Remove radiation and beasts from NPP (#79676)
-* Remove skill rust resist from "Flawless memory" perk (#79674)
-* Minor bug fixes (#79672)

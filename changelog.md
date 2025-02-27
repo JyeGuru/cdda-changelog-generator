@@ -1,3 +1,10 @@
+* [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-27-0409 ([4dcfaa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-0409))
+
+* [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
 
 ---
 
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-02-21-0421 ([11ae75f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-21-0421))
 
 * Add weeds to standard_domestic_landscaping_palette ([#79759](https://github.com/CleverRaven/Cataclysm-DDA/pull/79759))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-20-2227 ([cd2c0fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-20-2227))
-
 * Fix android build ([#79760](https://github.com/CleverRaven/Cataclysm-DDA/pull/79760))
 * Add dormant map extra ([#79741](https://github.com/CleverRaven/Cataclysm-DDA/pull/79741))
 * Nuke the stylish trait from orbit ([#79745](https://github.com/CleverRaven/Cataclysm-DDA/pull/79745))
@@ -227,5 +229,3 @@
 * Aftershock:  Wraitheon Vahagn 10XR Smart Rifle ([#79679](https://github.com/CleverRaven/Cataclysm-DDA/pull/79679))
 * Remove electric fields from irradiation plant ([#79677](https://github.com/CleverRaven/Cataclysm-DDA/pull/79677))
 * Remove radiation and beasts from NPP ([#79676](https://github.com/CleverRaven/Cataclysm-DDA/pull/79676))
-* Remove skill rust resist from "Flawless memory" perk ([#79674](https://github.com/CleverRaven/Cataclysm-DDA/pull/79674))
-* Minor bug fixes ([#79672](https://github.com/CleverRaven/Cataclysm-DDA/pull/79672))
