@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-27-0823 ([e6d0d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-0823))
+
 * [MOM] Add warped strikes teleporter power ([#79864](https://github.com/CleverRaven/Cataclysm-DDA/pull/79864))
 * Triffid flesh is no longer safe ([#79883](https://github.com/CleverRaven/Cataclysm-DDA/pull/79883))
 * Fix basements spawning furnaces instead of fridges ([#79879](https://github.com/CleverRaven/Cataclysm-DDA/pull/79879))
