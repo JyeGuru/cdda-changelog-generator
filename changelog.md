@@ -1,3 +1,4 @@
+* [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
 
 ---
 
@@ -215,7 +216,6 @@
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
 * Aggressively whitelist terrain for overmap_terrain_coverage test ([#79711](https://github.com/CleverRaven/Cataclysm-DDA/pull/79711))
-* 40mm audit ([#79675](https://github.com/CleverRaven/Cataclysm-DDA/pull/79675))
 * Make test logging a bit more verbose by adding current test name ([#79681](https://github.com/CleverRaven/Cataclysm-DDA/pull/79681))
 * Remove recursision from weapon_talk_hallucination ([#79695](https://github.com/CleverRaven/Cataclysm-DDA/pull/79695))
 * Only run IWYU on affected files + minor `get_affected_files.py` refactor ([#79690](https://github.com/CleverRaven/Cataclysm-DDA/pull/79690))
