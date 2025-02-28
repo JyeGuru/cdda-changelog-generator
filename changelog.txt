@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-02-28-1723 (bb57380)
 * flight_helmet has NVG attachment (#79888)
 
 Cataclysm-DDA experimental build 2025-02-28-1147 (8d20bf8)
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2025-02-22-1031 (e3cd13c)
 
 Cataclysm-DDA experimental build 2025-02-22-0816 (1fac784)
 * Apply PULP_PRYING to different monsters (#79773)
-
-Cataclysm-DDA experimental build 2025-02-22-0434 (89bb1ae)
 * IWYU a bunch of "easy" files (#79767)
 * [Bombastic Perk] Below the belt (#79780)
 * [Xedra Evolved] Homullus Feral Summon Fix (#79783)
