@@ -1,3 +1,10 @@
+* islot_gun: remove bad default ranged damage value ([#79900](https://github.com/CleverRaven/Cataclysm-DDA/pull/79900))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-02-28-0608 ([f92cdf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-28-0608))
+
+* [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() ([#79903](https://github.com/CleverRaven/Cataclysm-DDA/pull/79903))
 
 ---
 
@@ -196,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2025-02-22-0017 ([6d3d4a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-0017))
 
 * [Xedra Evolved] Homullus Feral Summon Fix ([#79783](https://github.com/CleverRaven/Cataclysm-DDA/pull/79783))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-21-2155 ([0f6af57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-21-2155))
-
 * Tables and workbenches can be activated to be deployed ([#79774](https://github.com/CleverRaven/Cataclysm-DDA/pull/79774))
 * Touch up no hope palettes ([#79779](https://github.com/CleverRaven/Cataclysm-DDA/pull/79779))
 * Emergency blanket stats update ([#79778](https://github.com/CleverRaven/Cataclysm-DDA/pull/79778))
@@ -228,10 +230,8 @@
 * Added ground protection from bashing ([#79722](https://github.com/CleverRaven/Cataclysm-DDA/pull/79722))
 * Vampire typo fix & small tweaks ([#79726](https://github.com/CleverRaven/Cataclysm-DDA/pull/79726))
 * Fix item dupe when wielding after reloading ([#79716](https://github.com/CleverRaven/Cataclysm-DDA/pull/79716))
-* Mapify: character etc. sees + sundry others ([#79699](https://github.com/CleverRaven/Cataclysm-DDA/pull/79699))
 * [Xedra_Evolved] Fix error after choose "Magicks of Winter" in changeling wake up menu bug ([#79713](https://github.com/CleverRaven/Cataclysm-DDA/pull/79713))
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
 * Aggressively whitelist terrain for overmap_terrain_coverage test ([#79711](https://github.com/CleverRaven/Cataclysm-DDA/pull/79711))
-* also mark 'child' recipes when marking nested recipes as read ([#79698](https://github.com/CleverRaven/Cataclysm-DDA/pull/79698))
 * Audit bowl, drinking glass, plate length ([#79709](https://github.com/CleverRaven/Cataclysm-DDA/pull/79709))
 * Fix craftable nomad cowl without blueprint ([#79705](https://github.com/CleverRaven/Cataclysm-DDA/pull/79705))
