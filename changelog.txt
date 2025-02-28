@@ -1,3 +1,4 @@
+* flight_helmet has NVG attachment (#79888)
 
 Cataclysm-DDA experimental build 2025-02-28-1147 (8d20bf8)
 * Add toilet supplies to most toilets (#79887)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2025-02-22-0434 (89bb1ae)
 * [MoM] Small typo fix (#79735)
 * [Xedra Evolved] Fix Changeling multi-court prompting (#79734)
 * Add a bank palette, fix isolated safe in bank (#79731)
-* [MoM] Fix spark sight (#79729)

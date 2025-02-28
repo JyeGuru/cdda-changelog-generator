@@ -1,3 +1,4 @@
+* flight_helmet has NVG attachment ([#79888](https://github.com/CleverRaven/Cataclysm-DDA/pull/79888))
 
 ---
 
@@ -235,4 +236,3 @@
 * [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
 * [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
 * Add a bank palette, fix isolated safe in bank ([#79731](https://github.com/CleverRaven/Cataclysm-DDA/pull/79731))
-* [MoM] Fix spark sight ([#79729](https://github.com/CleverRaven/Cataclysm-DDA/pull/79729))
