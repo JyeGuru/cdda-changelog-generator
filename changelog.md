@@ -1,3 +1,6 @@
+* Return radiation back to NPP ([#79849](https://github.com/CleverRaven/Cataclysm-DDA/pull/79849))
+* [MoM] Fix LV429 looks_like ([#79895](https://github.com/CleverRaven/Cataclysm-DDA/pull/79895))
+* [Magiclysm] Add `Morphogenic Mastery` Biomancer spell ([#79898](https://github.com/CleverRaven/Cataclysm-DDA/pull/79898))
 * islot_gun: remove bad default ranged damage value ([#79900](https://github.com/CleverRaven/Cataclysm-DDA/pull/79900))
 
 ---
@@ -223,7 +226,6 @@
 * Fix bug in fiction books overspawning in vandalized libraries simplify itemgroups ([#79723](https://github.com/CleverRaven/Cataclysm-DDA/pull/79723))
 * [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
 * [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
-* [MoM] Add two psionic amalgamations ([#79701](https://github.com/CleverRaven/Cataclysm-DDA/pull/79701))
 * Add a bank palette, fix isolated safe in bank ([#79731](https://github.com/CleverRaven/Cataclysm-DDA/pull/79731))
 * [MoM] Fix spark sight ([#79729](https://github.com/CleverRaven/Cataclysm-DDA/pull/79729))
 * Handaxes practice needs handaxes ([#79725](https://github.com/CleverRaven/Cataclysm-DDA/pull/79725))
@@ -234,4 +236,3 @@
 * NO_I18N: abstract software ([#79714](https://github.com/CleverRaven/Cataclysm-DDA/pull/79714))
 * Aggressively whitelist terrain for overmap_terrain_coverage test ([#79711](https://github.com/CleverRaven/Cataclysm-DDA/pull/79711))
 * Audit bowl, drinking glass, plate length ([#79709](https://github.com/CleverRaven/Cataclysm-DDA/pull/79709))
-* Fix craftable nomad cowl without blueprint ([#79705](https://github.com/CleverRaven/Cataclysm-DDA/pull/79705))
