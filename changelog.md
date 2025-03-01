@@ -198,11 +198,6 @@
 
 * De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
 * Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-23-0341 ([694ddc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-0341))
-
 * [XEDRA] Add monochrome boomer ([#79800](https://github.com/CleverRaven/Cataclysm-DDA/pull/79800))
 * Exodii weaponmaster has more guns on the rack behind ([#79751](https://github.com/CleverRaven/Cataclysm-DDA/pull/79751))
 * Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
