@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Dreamsparks as fuel for seasonal glamours (#79914)
 * Remove riot damage from gunstores (#79916)
 * Routine tileset updates on 01 March 2025 (#79919)
 
@@ -79,9 +80,6 @@ Cataclysm-DDA experimental build 2025-02-25-1919 (5e5cf9d)
 Cataclysm-DDA experimental build 2025-02-25-0902 (7505ea6)
 * Ammo Overhaul (Part 1) (#79794)
 * Fix android build (?) (#79834)
-
-Cataclysm-DDA experimental build 2025-02-25-0648 (f2ed07e)
-* [Xedra Evolvd] Yet even more seasonal magic (#79738)
 
 Cataclysm-DDA experimental build 2025-02-25-0439 (b41b498)
 * [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree (#79823)
