@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-01-1406 ([bdf114b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-01-1406))
+
 * [Xedra Evolved] Add Dreamsparks as fuel for seasonal glamours ([#79914](https://github.com/CleverRaven/Cataclysm-DDA/pull/79914))
 * Remove riot damage from gunstores ([#79916](https://github.com/CleverRaven/Cataclysm-DDA/pull/79916))
 * Routine tileset updates on 01 March 2025 ([#79919](https://github.com/CleverRaven/Cataclysm-DDA/pull/79919))
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-02-22-1524 ([22abd27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-1524))
 
 * Exodii weaponmaster has more guns on the rack behind ([#79751](https://github.com/CleverRaven/Cataclysm-DDA/pull/79751))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-22-1241 ([337582d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-1241))
-
 * Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
 * [Aftershock] Expand Frontier Outposts (Part 1) ([#79787](https://github.com/CleverRaven/Cataclysm-DDA/pull/79787))
 * Aftershock: Damage rebalance I (Ballistic weapons) ([#79762](https://github.com/CleverRaven/Cataclysm-DDA/pull/79762))
