@@ -1,3 +1,11 @@
+* Remove riot damage from gunstores ([#79916](https://github.com/CleverRaven/Cataclysm-DDA/pull/79916))
+* Routine tileset updates on 01 March 2025 ([#79919](https://github.com/CleverRaven/Cataclysm-DDA/pull/79919))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-01-1148 ([88d867e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-01-1148))
+
+* Routine i18n updates on 01 March 2025 ([#79920](https://github.com/CleverRaven/Cataclysm-DDA/pull/79920))
 
 ---
 
@@ -202,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2025-02-22-1241 ([337582d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-1241))
 
 * Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-22-1031 ([e3cd13c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-1031))
-
 * [Aftershock] Expand Frontier Outposts (Part 1) ([#79787](https://github.com/CleverRaven/Cataclysm-DDA/pull/79787))
 * Aftershock: Damage rebalance I (Ballistic weapons) ([#79762](https://github.com/CleverRaven/Cataclysm-DDA/pull/79762))
 *  Aftershock: Damage rebalance II (Laser weapons) ([#79789](https://github.com/CleverRaven/Cataclysm-DDA/pull/79789))
@@ -233,6 +236,3 @@
 * Add dormant map extra ([#79741](https://github.com/CleverRaven/Cataclysm-DDA/pull/79741))
 * Nuke the stylish trait from orbit ([#79745](https://github.com/CleverRaven/Cataclysm-DDA/pull/79745))
 * Aftershock: Balance tables ([#79746](https://github.com/CleverRaven/Cataclysm-DDA/pull/79746))
-* converted item_location and computer to use absolute coordinates ([#79733](https://github.com/CleverRaven/Cataclysm-DDA/pull/79733))
-* [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
-* [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
