@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-01-0554 ([bb8197a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-01-0554))
+
+* fixing shockstorm check ([#79909](https://github.com/CleverRaven/Cataclysm-DDA/pull/79909))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-02-28-1723 ([bb57380](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-28-1723))
 
 * flight_helmet has NVG attachment ([#79888](https://github.com/CleverRaven/Cataclysm-DDA/pull/79888))
@@ -207,11 +213,6 @@
 * Climbing down from a roof does not anger locals ([#79798](https://github.com/CleverRaven/Cataclysm-DDA/pull/79798))
 * Routine i18n updates on 22 February 2025 ([#79796](https://github.com/CleverRaven/Cataclysm-DDA/pull/79796))
 * Remove autodocs from hospitals, aircraft carrier ([#79799](https://github.com/CleverRaven/Cataclysm-DDA/pull/79799))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-22-0816 ([1fac784](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-22-0816))
-
 * Apply PULP_PRYING to different monsters ([#79773](https://github.com/CleverRaven/Cataclysm-DDA/pull/79773))
 * IWYU a bunch of "easy" files ([#79767](https://github.com/CleverRaven/Cataclysm-DDA/pull/79767))
 * [Bombastic Perk] Below the belt ([#79780](https://github.com/CleverRaven/Cataclysm-DDA/pull/79780))
@@ -235,4 +236,3 @@
 * converted item_location and computer to use absolute coordinates ([#79733](https://github.com/CleverRaven/Cataclysm-DDA/pull/79733))
 * [MoM] Small typo fix ([#79735](https://github.com/CleverRaven/Cataclysm-DDA/pull/79735))
 * [Xedra Evolved] Fix Changeling multi-court prompting ([#79734](https://github.com/CleverRaven/Cataclysm-DDA/pull/79734))
-* Add a bank palette, fix isolated safe in bank ([#79731](https://github.com/CleverRaven/Cataclysm-DDA/pull/79731))
