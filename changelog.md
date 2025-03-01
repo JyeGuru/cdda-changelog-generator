@@ -1,3 +1,4 @@
+* Pulping tweaks (+CI) ([#79804](https://github.com/CleverRaven/Cataclysm-DDA/pull/79804))
 
 ---
 
@@ -219,7 +220,6 @@
 * Configure skip-duplicates jobs to not skip duplicates (yes, really) ([#79764](https://github.com/CleverRaven/Cataclysm-DDA/pull/79764))
 * [Xedra Evolved] Add Offworld Acquisitions Materials Processing ([#79763](https://github.com/CleverRaven/Cataclysm-DDA/pull/79763))
 * Remove house_w_foundation_palette & house_w_nest_palette ([#79758](https://github.com/CleverRaven/Cataclysm-DDA/pull/79758))
-* Fix gym walls ([#79742](https://github.com/CleverRaven/Cataclysm-DDA/pull/79742))
 * Slightly rework the missile silo ([#79756](https://github.com/CleverRaven/Cataclysm-DDA/pull/79756))
 * make Fishy Business quest require 3 cans of fish ([#79752](https://github.com/CleverRaven/Cataclysm-DDA/pull/79752))
 * Add weeds to standard_domestic_landscaping_palette ([#79759](https://github.com/CleverRaven/Cataclysm-DDA/pull/79759))
