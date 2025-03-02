@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-02-0344 ([56a76a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-0344))
+
+* Remove road vehicles from mine field ([#79908](https://github.com/CleverRaven/Cataclysm-DDA/pull/79908))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-02-0012 ([0d12391](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-0012))
 
 * Pulping tweaks (+CI) ([#79804](https://github.com/CleverRaven/Cataclysm-DDA/pull/79804))
@@ -191,11 +197,6 @@
 * Update decorative.json ([#79802](https://github.com/CleverRaven/Cataclysm-DDA/pull/79802))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
 * Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-23-1432 ([71d5d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-1432))
-
 * [Xedra Evolved] Add alchemical hobby basements ([#79790](https://github.com/CleverRaven/Cataclysm-DDA/pull/79790))
 * De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
 * Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
@@ -224,5 +225,4 @@
 * make Fishy Business quest require 3 cans of fish ([#79752](https://github.com/CleverRaven/Cataclysm-DDA/pull/79752))
 * Add weeds to standard_domestic_landscaping_palette ([#79759](https://github.com/CleverRaven/Cataclysm-DDA/pull/79759))
 * Fix android build ([#79760](https://github.com/CleverRaven/Cataclysm-DDA/pull/79760))
-* Nuke the stylish trait from orbit ([#79745](https://github.com/CleverRaven/Cataclysm-DDA/pull/79745))
 * Aftershock: Balance tables ([#79746](https://github.com/CleverRaven/Cataclysm-DDA/pull/79746))
