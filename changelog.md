@@ -1,3 +1,4 @@
+* Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
 
 ---
 
@@ -225,4 +226,3 @@
 * make Fishy Business quest require 3 cans of fish ([#79752](https://github.com/CleverRaven/Cataclysm-DDA/pull/79752))
 * Add weeds to standard_domestic_landscaping_palette ([#79759](https://github.com/CleverRaven/Cataclysm-DDA/pull/79759))
 * Fix android build ([#79760](https://github.com/CleverRaven/Cataclysm-DDA/pull/79760))
-* Aftershock: Balance tables ([#79746](https://github.com/CleverRaven/Cataclysm-DDA/pull/79746))
