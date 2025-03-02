@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-02-1841 ([19a277e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1841))
+
 * [MoM] Project TURQUOISE KEYSTONE ([#79929](https://github.com/CleverRaven/Cataclysm-DDA/pull/79929))
 * Audit of Wood Panel Recipes to use Result Multi instead of Byproduct ([#79922](https://github.com/CleverRaven/Cataclysm-DDA/pull/79922))
 * fix garage wall ([#79931](https://github.com/CleverRaven/Cataclysm-DDA/pull/79931))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-02-24-1642 ([1a5f207](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-1642))
 
 * Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-24-1103 ([98d54ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-1103))
-
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * [ Xedra Evolved ]  Chronomancy spells no longer gain xp.  Unique level up mechanics. ([#79768](https://github.com/CleverRaven/Cataclysm-DDA/pull/79768))
