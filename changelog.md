@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-02-2118 ([af6c18c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-2118))
+
 * Fix fences under console in lumbermill ([#79911](https://github.com/CleverRaven/Cataclysm-DDA/pull/79911))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-02-25-0439 ([b41b498](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-0439))
 
 * [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree ([#79823](https://github.com/CleverRaven/Cataclysm-DDA/pull/79823))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-24-1642 ([1a5f207](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-1642))
-
 * Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
