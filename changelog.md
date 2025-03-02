@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-02-1426 ([267d105](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1426))
+
 * Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
 * Weekly Changelog 2025-02-17 to 2025-02-24 ([#79831](https://github.com/CleverRaven/Cataclysm-DDA/pull/79831))
 
@@ -197,11 +202,6 @@
 * [Aftershock] Expand Frontier Outposts (Part 2) ([#79811](https://github.com/CleverRaven/Cataclysm-DDA/pull/79811))
 * [ Xedra Evolved ] Pulp prying where appropriate ([#79795](https://github.com/CleverRaven/Cataclysm-DDA/pull/79795))
 * Fixed explosion leaving roofless soil, cleaned up repair ([#79813](https://github.com/CleverRaven/Cataclysm-DDA/pull/79813))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-24-0629 ([b501a7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-0629))
-
 * [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
 * Update decorative.json ([#79802](https://github.com/CleverRaven/Cataclysm-DDA/pull/79802))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
