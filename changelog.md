@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-02-0012 ([0d12391](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-0012))
+
 * Pulping tweaks (+CI) ([#79804](https://github.com/CleverRaven/Cataclysm-DDA/pull/79804))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-02-23-1432 ([71d5d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-1432))
 
 * [Xedra Evolved] Add alchemical hobby basements ([#79790](https://github.com/CleverRaven/Cataclysm-DDA/pull/79790))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-23-0607 ([5546de7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-0607))
-
 * De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
 * Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
 * [XEDRA] Add monochrome boomer ([#79800](https://github.com/CleverRaven/Cataclysm-DDA/pull/79800))
