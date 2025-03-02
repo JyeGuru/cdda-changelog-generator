@@ -1,3 +1,7 @@
+* Audit of Wood Panel Recipes to use Result Multi instead of Byproduct ([#79922](https://github.com/CleverRaven/Cataclysm-DDA/pull/79922))
+* fix garage wall ([#79931](https://github.com/CleverRaven/Cataclysm-DDA/pull/79931))
+* Prevent killer drive from being randomly assigned at chargen ([#79932](https://github.com/CleverRaven/Cataclysm-DDA/pull/79932))
+* fix forage item group ([#79933](https://github.com/CleverRaven/Cataclysm-DDA/pull/79933))
 * Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
 
 ---
@@ -227,7 +231,3 @@
 * Change symbol for weeds in palette ([#79777](https://github.com/CleverRaven/Cataclysm-DDA/pull/79777))
 * Configure skip-duplicates jobs to not skip duplicates (yes, really) ([#79764](https://github.com/CleverRaven/Cataclysm-DDA/pull/79764))
 * [Xedra Evolved] Add Offworld Acquisitions Materials Processing ([#79763](https://github.com/CleverRaven/Cataclysm-DDA/pull/79763))
-* Remove house_w_foundation_palette & house_w_nest_palette ([#79758](https://github.com/CleverRaven/Cataclysm-DDA/pull/79758))
-* Slightly rework the missile silo ([#79756](https://github.com/CleverRaven/Cataclysm-DDA/pull/79756))
-* Add weeds to standard_domestic_landscaping_palette ([#79759](https://github.com/CleverRaven/Cataclysm-DDA/pull/79759))
-* Fix android build ([#79760](https://github.com/CleverRaven/Cataclysm-DDA/pull/79760))
