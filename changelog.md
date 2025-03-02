@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-02-1202 ([9ad62e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1202))
+
+* Ammo Overhaul (Part 2) ([#79912](https://github.com/CleverRaven/Cataclysm-DDA/pull/79912))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-02-0618 ([60fe23a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-0618))
 
 * Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-02-24-0629 ([b501a7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-24-0629))
 
 * [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-23-2345 ([ae70766](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-23-2345))
-
 * Update decorative.json ([#79802](https://github.com/CleverRaven/Cataclysm-DDA/pull/79802))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
 * Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))
@@ -223,7 +224,6 @@
 * Touch up no hope palettes ([#79779](https://github.com/CleverRaven/Cataclysm-DDA/pull/79779))
 * Emergency blanket stats update ([#79778](https://github.com/CleverRaven/Cataclysm-DDA/pull/79778))
 * Change symbol for weeds in palette ([#79777](https://github.com/CleverRaven/Cataclysm-DDA/pull/79777))
-* add scar_h_mk20 ([#79748](https://github.com/CleverRaven/Cataclysm-DDA/pull/79748))
 * Configure skip-duplicates jobs to not skip duplicates (yes, really) ([#79764](https://github.com/CleverRaven/Cataclysm-DDA/pull/79764))
 * [Xedra Evolved] Add Offworld Acquisitions Materials Processing ([#79763](https://github.com/CleverRaven/Cataclysm-DDA/pull/79763))
 * Remove house_w_foundation_palette & house_w_nest_palette ([#79758](https://github.com/CleverRaven/Cataclysm-DDA/pull/79758))
