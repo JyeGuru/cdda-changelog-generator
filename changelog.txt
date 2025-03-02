@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-02-0618 (60fe23a)
 * Fix missing period (#79926)
 
 Cataclysm-DDA experimental build 2025-03-02-0344 (56a76a2)
