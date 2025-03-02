@@ -1,3 +1,4 @@
+* Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
 
 ---
 
@@ -193,7 +194,6 @@
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * [ Xedra Evolved ]  Chronomancy spells no longer gain xp.  Unique level up mechanics. ([#79768](https://github.com/CleverRaven/Cataclysm-DDA/pull/79768))
-* Mapified pos_bub, posx, and posy in the talker class hierarchy ([#79753](https://github.com/CleverRaven/Cataclysm-DDA/pull/79753))
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
 * Don't hardcode `ccache` executable path in CMake ([#79775](https://github.com/CleverRaven/Cataclysm-DDA/pull/79775))
 * Basement palette cleanup ([#79788](https://github.com/CleverRaven/Cataclysm-DDA/pull/79788))
