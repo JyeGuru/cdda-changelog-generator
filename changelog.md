@@ -1,3 +1,5 @@
+* Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
+* Weekly Changelog 2025-02-17 to 2025-02-24 ([#79831](https://github.com/CleverRaven/Cataclysm-DDA/pull/79831))
 
 ---
 
@@ -208,7 +210,6 @@
 * De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
 * Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
 * [XEDRA] Add monochrome boomer ([#79800](https://github.com/CleverRaven/Cataclysm-DDA/pull/79800))
-* Exodii weaponmaster has more guns on the rack behind ([#79751](https://github.com/CleverRaven/Cataclysm-DDA/pull/79751))
 * Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
 * [Aftershock] Expand Frontier Outposts (Part 1) ([#79787](https://github.com/CleverRaven/Cataclysm-DDA/pull/79787))
 * Aftershock: Damage rebalance I (Ballistic weapons) ([#79762](https://github.com/CleverRaven/Cataclysm-DDA/pull/79762))
@@ -228,6 +229,5 @@
 * [Xedra Evolved] Add Offworld Acquisitions Materials Processing ([#79763](https://github.com/CleverRaven/Cataclysm-DDA/pull/79763))
 * Remove house_w_foundation_palette & house_w_nest_palette ([#79758](https://github.com/CleverRaven/Cataclysm-DDA/pull/79758))
 * Slightly rework the missile silo ([#79756](https://github.com/CleverRaven/Cataclysm-DDA/pull/79756))
-* make Fishy Business quest require 3 cans of fish ([#79752](https://github.com/CleverRaven/Cataclysm-DDA/pull/79752))
 * Add weeds to standard_domestic_landscaping_palette ([#79759](https://github.com/CleverRaven/Cataclysm-DDA/pull/79759))
 * Fix android build ([#79760](https://github.com/CleverRaven/Cataclysm-DDA/pull/79760))
