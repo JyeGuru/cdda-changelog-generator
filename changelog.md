@@ -1,3 +1,4 @@
+* [MoM] Project TURQUOISE KEYSTONE ([#79929](https://github.com/CleverRaven/Cataclysm-DDA/pull/79929))
 * Audit of Wood Panel Recipes to use Result Multi instead of Byproduct ([#79922](https://github.com/CleverRaven/Cataclysm-DDA/pull/79922))
 * fix garage wall ([#79931](https://github.com/CleverRaven/Cataclysm-DDA/pull/79931))
 * Prevent killer drive from being randomly assigned at chargen ([#79932](https://github.com/CleverRaven/Cataclysm-DDA/pull/79932))
@@ -216,7 +217,6 @@
 * [XEDRA] Add monochrome boomer ([#79800](https://github.com/CleverRaven/Cataclysm-DDA/pull/79800))
 * Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
 * [Aftershock] Expand Frontier Outposts (Part 1) ([#79787](https://github.com/CleverRaven/Cataclysm-DDA/pull/79787))
-* Aftershock: Damage rebalance I (Ballistic weapons) ([#79762](https://github.com/CleverRaven/Cataclysm-DDA/pull/79762))
 *  Aftershock: Damage rebalance II (Laser weapons) ([#79789](https://github.com/CleverRaven/Cataclysm-DDA/pull/79789))
 * Climbing down from a roof does not anger locals ([#79798](https://github.com/CleverRaven/Cataclysm-DDA/pull/79798))
 * Routine i18n updates on 22 February 2025 ([#79796](https://github.com/CleverRaven/Cataclysm-DDA/pull/79796))
