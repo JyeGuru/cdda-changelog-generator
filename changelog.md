@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-03-0952 ([d02bb3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0952))
+
+* Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. ([#79913](https://github.com/CleverRaven/Cataclysm-DDA/pull/79913))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-03-0845 ([86ddac8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0845))
 
 * Editmap: debug toggle for post-process generators ([#79941](https://github.com/CleverRaven/Cataclysm-DDA/pull/79941))
@@ -206,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2025-02-26-0648 ([e0f1612](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-26-0648))
 
 * Rework the trash itemgroups: part 1 ([#79855](https://github.com/CleverRaven/Cataclysm-DDA/pull/79855))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-26-0333 ([1d1839b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-26-0333))
-
 * [MoM] Finish Heightened Senses docs ([#79851](https://github.com/CleverRaven/Cataclysm-DDA/pull/79851))
 * Isolation Protocol Office levels ([#79852](https://github.com/CleverRaven/Cataclysm-DDA/pull/79852))
 * Ammo Overhaul (Part 1) ([#79794](https://github.com/CleverRaven/Cataclysm-DDA/pull/79794))
@@ -220,7 +221,6 @@
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
-* General IWYU CI improvements ([#79793](https://github.com/CleverRaven/Cataclysm-DDA/pull/79793))
 *  Aftershock: Damage rebalance III (Plasma and Voltaics)  ([#79810](https://github.com/CleverRaven/Cataclysm-DDA/pull/79810))
 * [Aftershock] Expand Frontier Outposts (Part 2) ([#79811](https://github.com/CleverRaven/Cataclysm-DDA/pull/79811))
 * [ Xedra Evolved ] Pulp prying where appropriate ([#79795](https://github.com/CleverRaven/Cataclysm-DDA/pull/79795))
