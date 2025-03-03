@@ -1,3 +1,10 @@
+* Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-03-0037 ([7c87357](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0037))
+
+* Modded palette extending ([#79946](https://github.com/CleverRaven/Cataclysm-DDA/pull/79946))
 
 ---
 
@@ -190,11 +197,6 @@
 
 * Ammo Overhaul (Part 1) ([#79794](https://github.com/CleverRaven/Cataclysm-DDA/pull/79794))
 * Fix android build (?) ([#79834](https://github.com/CleverRaven/Cataclysm-DDA/pull/79834))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-25-0439 ([b41b498](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-0439))
-
 * [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree ([#79823](https://github.com/CleverRaven/Cataclysm-DDA/pull/79823))
 * Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
@@ -223,11 +225,9 @@
 * Routine i18n updates on 22 February 2025 ([#79796](https://github.com/CleverRaven/Cataclysm-DDA/pull/79796))
 * Remove autodocs from hospitals, aircraft carrier ([#79799](https://github.com/CleverRaven/Cataclysm-DDA/pull/79799))
 * Apply PULP_PRYING to different monsters ([#79773](https://github.com/CleverRaven/Cataclysm-DDA/pull/79773))
-* IWYU a bunch of "easy" files ([#79767](https://github.com/CleverRaven/Cataclysm-DDA/pull/79767))
 * [Bombastic Perk] Below the belt ([#79780](https://github.com/CleverRaven/Cataclysm-DDA/pull/79780))
 * [Xedra Evolved] Homullus Feral Summon Fix ([#79783](https://github.com/CleverRaven/Cataclysm-DDA/pull/79783))
 * Tables and workbenches can be activated to be deployed ([#79774](https://github.com/CleverRaven/Cataclysm-DDA/pull/79774))
 * Touch up no hope palettes ([#79779](https://github.com/CleverRaven/Cataclysm-DDA/pull/79779))
 * Emergency blanket stats update ([#79778](https://github.com/CleverRaven/Cataclysm-DDA/pull/79778))
 * Change symbol for weeds in palette ([#79777](https://github.com/CleverRaven/Cataclysm-DDA/pull/79777))
-* Configure skip-duplicates jobs to not skip duplicates (yes, really) ([#79764](https://github.com/CleverRaven/Cataclysm-DDA/pull/79764))
