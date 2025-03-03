@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-03-0845 (86ddac8)
 * Editmap: debug toggle for post-process generators (#79941)
 * Debug option to view used palette symbols (#79949)
 * Generic factory: bound_reader (#79928)
@@ -126,8 +128,6 @@ Cataclysm-DDA experimental build 2025-02-26-0648 (e0f1612)
 
 Cataclysm-DDA experimental build 2025-02-26-0333 (1d1839b)
 * [MoM] Finish Heightened Senses docs (#79851)
-
-Cataclysm-DDA experimental build 2025-02-25-1919 (5e5cf9d)
 * Isolation Protocol Office levels (#79852)
 * Ammo Overhaul (Part 1) (#79794)
 * Fix android build (?) (#79834)
