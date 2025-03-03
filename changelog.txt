@@ -1,3 +1,4 @@
+* Fix builderror for linux-sound (#79979)
 
 Cataclysm-DDA experimental build 2025-03-03-2210 (10b21d2)
 * fix Segfault when adding gunmod (#79978)
@@ -150,5 +151,4 @@ Cataclysm-DDA experimental build 2025-02-27-0409 (4dcfaa0)
 * Fix MSVC Debug build (#79817)
 * De-bash the Sheathes (#79805)
 * Add a 26 and 153 round magazine for the Pa md 68 (#79803)
-* [XEDRA] Add monochrome boomer (#79800)
 * Remove "Slowdown Fungal Growth" mod (#79801)

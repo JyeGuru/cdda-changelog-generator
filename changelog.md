@@ -1,3 +1,4 @@
+* Fix builderror for linux-sound ([#79979](https://github.com/CleverRaven/Cataclysm-DDA/pull/79979))
 
 ---
 
@@ -234,5 +235,4 @@
 * Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))
 * De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
 * Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
-* [XEDRA] Add monochrome boomer ([#79800](https://github.com/CleverRaven/Cataclysm-DDA/pull/79800))
 * Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
