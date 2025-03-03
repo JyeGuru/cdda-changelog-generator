@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-03-1936 ([716df1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-1936))
+
+* Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * remove --reporter cata-ci-reporter ([#79845](https://github.com/CleverRaven/Cataclysm-DDA/pull/79845))
 
 ---
@@ -203,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2025-02-26-2341 ([676d1a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-26-2341))
 
 * Mics eoc stuff ([#79816](https://github.com/CleverRaven/Cataclysm-DDA/pull/79816))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-26-0918 ([38938d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-26-0918))
-
 * Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
 * Generic factory support for damage_instance and islot_gun ([#79830](https://github.com/CleverRaven/Cataclysm-DDA/pull/79830))
@@ -234,5 +235,4 @@
 * [XEDRA] Add monochrome boomer ([#79800](https://github.com/CleverRaven/Cataclysm-DDA/pull/79800))
 * Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
 * Climbing down from a roof does not anger locals ([#79798](https://github.com/CleverRaven/Cataclysm-DDA/pull/79798))
-* Routine i18n updates on 22 February 2025 ([#79796](https://github.com/CleverRaven/Cataclysm-DDA/pull/79796))
 * Remove autodocs from hospitals, aircraft carrier ([#79799](https://github.com/CleverRaven/Cataclysm-DDA/pull/79799))

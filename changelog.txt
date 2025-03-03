@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-03-03-1936 (716df1c)
+* Remove few power tool recipes (#79977)
 * remove --reporter cata-ci-reporter (#79845)
 
 Cataclysm-DDA experimental build 2025-03-03-1100 (39319db)
@@ -122,8 +125,6 @@ Cataclysm-DDA experimental build 2025-02-27-0409 (4dcfaa0)
 
 Cataclysm-DDA experimental build 2025-02-26-2341 (676d1a6)
 * Mics eoc stuff (#79816)
-
-Cataclysm-DDA experimental build 2025-02-26-0918 (38938d4)
 * Improve dialogue condition cache (#79860)
 * Adding WASP and SPIDER flags to appropriate overmap specials (#79862)
 * Generic factory support for damage_instance and islot_gun (#79830)
@@ -150,5 +151,4 @@ Cataclysm-DDA experimental build 2025-02-26-0918 (38938d4)
 * [XEDRA] Add monochrome boomer (#79800)
 * Remove "Slowdown Fungal Growth" mod (#79801)
 * Climbing down from a roof does not anger locals (#79798)
-* Routine i18n updates on 22 February 2025 (#79796)
 * Remove autodocs from hospitals, aircraft carrier (#79799)
