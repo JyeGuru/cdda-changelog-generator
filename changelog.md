@@ -1,3 +1,6 @@
+* Fix 0.5 L I1 Diesel engine not consuming fuel ([#79964](https://github.com/CleverRaven/Cataclysm-DDA/pull/79964))
+* Remove old stylish glasses ([#79965](https://github.com/CleverRaven/Cataclysm-DDA/pull/79965))
+* [ Xedra Evolved ] Fix broken itemgroup from #79914 ([#79970](https://github.com/CleverRaven/Cataclysm-DDA/pull/79970))
 * [MoM] Rework Combat Dance ([#79954](https://github.com/CleverRaven/Cataclysm-DDA/pull/79954))
 
 ---
@@ -210,7 +213,6 @@
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
-* Don't hardcode `ccache` executable path in CMake ([#79775](https://github.com/CleverRaven/Cataclysm-DDA/pull/79775))
 * Basement palette cleanup ([#79788](https://github.com/CleverRaven/Cataclysm-DDA/pull/79788))
 * General IWYU CI improvements ([#79793](https://github.com/CleverRaven/Cataclysm-DDA/pull/79793))
 *  Aftershock: Damage rebalance III (Plasma and Voltaics)  ([#79810](https://github.com/CleverRaven/Cataclysm-DDA/pull/79810))
@@ -234,5 +236,3 @@
 * [Bombastic Perk] Below the belt ([#79780](https://github.com/CleverRaven/Cataclysm-DDA/pull/79780))
 * [Xedra Evolved] Homullus Feral Summon Fix ([#79783](https://github.com/CleverRaven/Cataclysm-DDA/pull/79783))
 * Touch up no hope palettes ([#79779](https://github.com/CleverRaven/Cataclysm-DDA/pull/79779))
-* Emergency blanket stats update ([#79778](https://github.com/CleverRaven/Cataclysm-DDA/pull/79778))
-* Change symbol for weeds in palette ([#79777](https://github.com/CleverRaven/Cataclysm-DDA/pull/79777))
