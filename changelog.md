@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-03-1100 ([39319db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-1100))
+
+* Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-03-0952 ([d02bb3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0952))
 
 * Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. ([#79913](https://github.com/CleverRaven/Cataclysm-DDA/pull/79913))
@@ -206,15 +212,9 @@
 * Generic factory support for damage_instance and islot_gun ([#79830](https://github.com/CleverRaven/Cataclysm-DDA/pull/79830))
 * [MOM] Add some biokinesis utility powers ([#79814](https://github.com/CleverRaven/Cataclysm-DDA/pull/79814))
 * [Xedra Evolved] Singular Boann's Island ([#79856](https://github.com/CleverRaven/Cataclysm-DDA/pull/79856))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-26-0648 ([e0f1612](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-26-0648))
-
 * Rework the trash itemgroups: part 1 ([#79855](https://github.com/CleverRaven/Cataclysm-DDA/pull/79855))
 * [MoM] Finish Heightened Senses docs ([#79851](https://github.com/CleverRaven/Cataclysm-DDA/pull/79851))
 * Isolation Protocol Office levels ([#79852](https://github.com/CleverRaven/Cataclysm-DDA/pull/79852))
-* Ammo Overhaul (Part 1) ([#79794](https://github.com/CleverRaven/Cataclysm-DDA/pull/79794))
 * Fix android build (?) ([#79834](https://github.com/CleverRaven/Cataclysm-DDA/pull/79834))
 * [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree ([#79823](https://github.com/CleverRaven/Cataclysm-DDA/pull/79823))
 * Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))

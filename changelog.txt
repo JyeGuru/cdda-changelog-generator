@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-03-1100 (39319db)
+* Fix uilist.h include (#79975)
+
 Cataclysm-DDA experimental build 2025-03-03-0952 (d02bb3d)
 * Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. (#79913)
 
@@ -125,12 +128,9 @@ Cataclysm-DDA experimental build 2025-02-26-0918 (38938d4)
 * Generic factory support for damage_instance and islot_gun (#79830)
 * [MOM] Add some biokinesis utility powers (#79814)
 * [Xedra Evolved] Singular Boann's Island (#79856)
-
-Cataclysm-DDA experimental build 2025-02-26-0648 (e0f1612)
 * Rework the trash itemgroups: part 1 (#79855)
 * [MoM] Finish Heightened Senses docs (#79851)
 * Isolation Protocol Office levels (#79852)
-* Ammo Overhaul (Part 1) (#79794)
 * Fix android build (?) (#79834)
 * [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree (#79823)
 * Don't spawn blacklisted items from `container-item` entries in item groups (#79832)
