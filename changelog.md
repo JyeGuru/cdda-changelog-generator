@@ -1,3 +1,4 @@
+* Clarify that infection is always a case of sepsis, not "zombie virus" ([#79956](https://github.com/CleverRaven/Cataclysm-DDA/pull/79956))
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 
 ---
@@ -229,7 +230,6 @@
 * Climbing down from a roof does not anger locals ([#79798](https://github.com/CleverRaven/Cataclysm-DDA/pull/79798))
 * Routine i18n updates on 22 February 2025 ([#79796](https://github.com/CleverRaven/Cataclysm-DDA/pull/79796))
 * Remove autodocs from hospitals, aircraft carrier ([#79799](https://github.com/CleverRaven/Cataclysm-DDA/pull/79799))
-* Apply PULP_PRYING to different monsters ([#79773](https://github.com/CleverRaven/Cataclysm-DDA/pull/79773))
 * [Bombastic Perk] Below the belt ([#79780](https://github.com/CleverRaven/Cataclysm-DDA/pull/79780))
 * [Xedra Evolved] Homullus Feral Summon Fix ([#79783](https://github.com/CleverRaven/Cataclysm-DDA/pull/79783))
 * Tables and workbenches can be activated to be deployed ([#79774](https://github.com/CleverRaven/Cataclysm-DDA/pull/79774))
