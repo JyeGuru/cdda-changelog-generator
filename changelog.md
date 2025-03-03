@@ -1,3 +1,4 @@
+* [MoM] Rework Combat Dance ([#79954](https://github.com/CleverRaven/Cataclysm-DDA/pull/79954))
 
 ---
 
@@ -232,7 +233,6 @@
 * Remove autodocs from hospitals, aircraft carrier ([#79799](https://github.com/CleverRaven/Cataclysm-DDA/pull/79799))
 * [Bombastic Perk] Below the belt ([#79780](https://github.com/CleverRaven/Cataclysm-DDA/pull/79780))
 * [Xedra Evolved] Homullus Feral Summon Fix ([#79783](https://github.com/CleverRaven/Cataclysm-DDA/pull/79783))
-* Tables and workbenches can be activated to be deployed ([#79774](https://github.com/CleverRaven/Cataclysm-DDA/pull/79774))
 * Touch up no hope palettes ([#79779](https://github.com/CleverRaven/Cataclysm-DDA/pull/79779))
 * Emergency blanket stats update ([#79778](https://github.com/CleverRaven/Cataclysm-DDA/pull/79778))
 * Change symbol for weeds in palette ([#79777](https://github.com/CleverRaven/Cataclysm-DDA/pull/79777))

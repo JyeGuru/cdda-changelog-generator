@@ -1,3 +1,4 @@
+* [MoM] Rework Combat Dance (#79954)
 
 Cataclysm-DDA experimental build 2025-03-03-0605 (4efea6a)
 * Clarify that infection is always a case of sepsis, not "zombie virus" (#79956)
@@ -148,7 +149,6 @@ Cataclysm-DDA experimental build 2025-02-25-1919 (5e5cf9d)
 * Remove autodocs from hospitals, aircraft carrier (#79799)
 * [Bombastic Perk] Below the belt (#79780)
 * [Xedra Evolved] Homullus Feral Summon Fix (#79783)
-* Tables and workbenches can be activated to be deployed (#79774)
 * Touch up no hope palettes (#79779)
 * Emergency blanket stats update (#79778)
 * Change symbol for weeds in palette (#79777)
