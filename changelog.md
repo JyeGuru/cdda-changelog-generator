@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-03-0605 ([4efea6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0605))
+
 * Clarify that infection is always a case of sepsis, not "zombie virus" ([#79956](https://github.com/CleverRaven/Cataclysm-DDA/pull/79956))
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-02-25-1919 ([5e5cf9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-1919))
 
 * Isolation Protocol Office levels ([#79852](https://github.com/CleverRaven/Cataclysm-DDA/pull/79852))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-25-0902 ([7505ea6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-25-0902))
-
 * Ammo Overhaul (Part 1) ([#79794](https://github.com/CleverRaven/Cataclysm-DDA/pull/79794))
 * Fix android build (?) ([#79834](https://github.com/CleverRaven/Cataclysm-DDA/pull/79834))
 * [MoM] Add Heightened Senses Clairsentient starter ability, move Night Eyes later in the tree ([#79823](https://github.com/CleverRaven/Cataclysm-DDA/pull/79823))
