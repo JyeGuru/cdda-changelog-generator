@@ -1,3 +1,4 @@
+* [Xedra Evolved] Finish Imbuement of the Flames (#79980)
 
 Cataclysm-DDA experimental build 2025-03-03-1936 (716df1c)
 * Remove few power tool recipes (#79977)
@@ -150,5 +151,4 @@ Cataclysm-DDA experimental build 2025-02-26-2341 (676d1a6)
 * Add a 26 and 153 round magazine for the Pa md 68 (#79803)
 * [XEDRA] Add monochrome boomer (#79800)
 * Remove "Slowdown Fungal Growth" mod (#79801)
-* Climbing down from a roof does not anger locals (#79798)
 * Remove autodocs from hospitals, aircraft carrier (#79799)
