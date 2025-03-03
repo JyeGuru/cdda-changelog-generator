@@ -1,3 +1,4 @@
+* Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 
 ---
 
