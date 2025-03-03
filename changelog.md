@@ -201,7 +201,6 @@
 * Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
-* [ Xedra Evolved ]  Chronomancy spells no longer gain xp.  Unique level up mechanics. ([#79768](https://github.com/CleverRaven/Cataclysm-DDA/pull/79768))
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
 * Don't hardcode `ccache` executable path in CMake ([#79775](https://github.com/CleverRaven/Cataclysm-DDA/pull/79775))
 * Basement palette cleanup ([#79788](https://github.com/CleverRaven/Cataclysm-DDA/pull/79788))
