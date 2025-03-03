@@ -1,3 +1,4 @@
+* remove --reporter cata-ci-reporter ([#79845](https://github.com/CleverRaven/Cataclysm-DDA/pull/79845))
 
 ---
 
@@ -223,7 +224,6 @@
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
 *  Aftershock: Damage rebalance III (Plasma and Voltaics)  ([#79810](https://github.com/CleverRaven/Cataclysm-DDA/pull/79810))
 * [Aftershock] Expand Frontier Outposts (Part 2) ([#79811](https://github.com/CleverRaven/Cataclysm-DDA/pull/79811))
-* [ Xedra Evolved ] Pulp prying where appropriate ([#79795](https://github.com/CleverRaven/Cataclysm-DDA/pull/79795))
 * Fixed explosion leaving roofless soil, cleaned up repair ([#79813](https://github.com/CleverRaven/Cataclysm-DDA/pull/79813))
 * [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
 * Update decorative.json ([#79802](https://github.com/CleverRaven/Cataclysm-DDA/pull/79802))
