@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-03-2210 ([10b21d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-2210))
+
 * fix Segfault when adding gunmod ([#79978](https://github.com/CleverRaven/Cataclysm-DDA/pull/79978))
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
 
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2025-02-27-0409 ([4dcfaa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-0409))
 
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-26-2341 ([676d1a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-26-2341))
-
 * Mics eoc stuff ([#79816](https://github.com/CleverRaven/Cataclysm-DDA/pull/79816))
 * Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
