@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-04-1845 (f98fcea)
+* Add pre_note for fenses with DIGGABLE requirement (#80002)
+
 Cataclysm-DDA experimental build 2025-03-04-0830 (27834d3)
 * Reduce the dog suit drop rate (#79906)
 
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2025-02-28-0827 (a123b39)
 
 Cataclysm-DDA experimental build 2025-02-28-0608 (f92cdf2)
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() (#79903)
-
-Cataclysm-DDA experimental build 2025-02-27-2028 (e1d2288)
 * [Bombastic Perks] Below the Belt do not error anymore. Seriously (#79835)
 * Rework the trash itemgroups: part 2 (#79848)
 * Missile silo spawn fixes (#79886)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2025-02-27-2028 (e1d2288)
 * Improve dialogue condition cache (#79860)
 * Adding WASP and SPIDER flags to appropriate overmap specials (#79862)
 * Generic factory support for damage_instance and islot_gun (#79830)
-* [MOM] Add some biokinesis utility powers (#79814)
 * [Xedra Evolved] Singular Boann's Island (#79856)
 * Rework the trash itemgroups: part 1 (#79855)
 * [MoM] Finish Heightened Senses docs (#79851)

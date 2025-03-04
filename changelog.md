@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-04-1845 ([f98fcea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-1845))
+
+* Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-04-0830 ([27834d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-0830))
 
 * Reduce the dog suit drop rate ([#79906](https://github.com/CleverRaven/Cataclysm-DDA/pull/79906))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-02-28-0608 ([f92cdf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-28-0608))
 
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() ([#79903](https://github.com/CleverRaven/Cataclysm-DDA/pull/79903))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-27-2028 ([e1d2288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-2028))
-
 * [Bombastic Perks] Below the Belt do not error anymore. Seriously ([#79835](https://github.com/CleverRaven/Cataclysm-DDA/pull/79835))
 * Rework the trash itemgroups: part 2 ([#79848](https://github.com/CleverRaven/Cataclysm-DDA/pull/79848))
 * Missile silo spawn fixes ([#79886](https://github.com/CleverRaven/Cataclysm-DDA/pull/79886))
@@ -206,7 +207,6 @@
 * Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
 * Generic factory support for damage_instance and islot_gun ([#79830](https://github.com/CleverRaven/Cataclysm-DDA/pull/79830))
-* [MOM] Add some biokinesis utility powers ([#79814](https://github.com/CleverRaven/Cataclysm-DDA/pull/79814))
 * [Xedra Evolved] Singular Boann's Island ([#79856](https://github.com/CleverRaven/Cataclysm-DDA/pull/79856))
 * Rework the trash itemgroups: part 1 ([#79855](https://github.com/CleverRaven/Cataclysm-DDA/pull/79855))
 * [MoM] Finish Heightened Senses docs ([#79851](https://github.com/CleverRaven/Cataclysm-DDA/pull/79851))
