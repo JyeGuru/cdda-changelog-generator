@@ -1,3 +1,4 @@
+* New baseball bat modification, nerf the steel chains damage ([#79955](https://github.com/CleverRaven/Cataclysm-DDA/pull/79955))
 
 ---
 
@@ -203,7 +204,6 @@
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
 * [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
-* Mics eoc stuff ([#79816](https://github.com/CleverRaven/Cataclysm-DDA/pull/79816))
 * Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
 * Generic factory support for damage_instance and islot_gun ([#79830](https://github.com/CleverRaven/Cataclysm-DDA/pull/79830))
