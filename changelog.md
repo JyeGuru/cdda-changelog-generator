@@ -1,3 +1,7 @@
+* Load vehicles before explosion + leaks at right map ([#79853](https://github.com/CleverRaven/Cataclysm-DDA/pull/79853))
+* [Xedra Evolved] The Exodii hate people who literally hunted them for parts ([#79918](https://github.com/CleverRaven/Cataclysm-DDA/pull/79918))
+* Ammo Overhaul Part 3 ([#79952](https://github.com/CleverRaven/Cataclysm-DDA/pull/79952))
+* [MoM] Displacement (and Reactive Displacement) now has a volume limit ([#79983](https://github.com/CleverRaven/Cataclysm-DDA/pull/79983))
 
 ---
 
@@ -112,12 +116,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-03-02-0012 ([0d12391](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-0012))
-
-* Pulping tweaks (+CI) ([#79804](https://github.com/CleverRaven/Cataclysm-DDA/pull/79804))
-
----
-
 #### Cataclysm-DDA experimental build 2025-03-01-1634 ([c7660bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-01-1634))
 
 * Audio - sounds now affected by artifacts/CBMs that slow down time. ([#79812](https://github.com/CleverRaven/Cataclysm-DDA/pull/79812))
@@ -228,11 +226,8 @@
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
-*  Aftershock: Damage rebalance III (Plasma and Voltaics)  ([#79810](https://github.com/CleverRaven/Cataclysm-DDA/pull/79810))
 * [Aftershock] Expand Frontier Outposts (Part 2) ([#79811](https://github.com/CleverRaven/Cataclysm-DDA/pull/79811))
 * Fixed explosion leaving roofless soil, cleaned up repair ([#79813](https://github.com/CleverRaven/Cataclysm-DDA/pull/79813))
 * [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
 * Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))
-* De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
-* Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
