@@ -204,11 +204,6 @@
 * Add some missing e-storage fields ([#79863](https://github.com/CleverRaven/Cataclysm-DDA/pull/79863))
 * Flooded basements: Part 2? ([#79880](https://github.com/CleverRaven/Cataclysm-DDA/pull/79880))
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-27-0614 ([b951222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-0614))
-
 * [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
 * Mics eoc stuff ([#79816](https://github.com/CleverRaven/Cataclysm-DDA/pull/79816))
@@ -226,7 +221,6 @@
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
-* [Aftershock] Expand Frontier Outposts (Part 2) ([#79811](https://github.com/CleverRaven/Cataclysm-DDA/pull/79811))
 * Fixed explosion leaving roofless soil, cleaned up repair ([#79813](https://github.com/CleverRaven/Cataclysm-DDA/pull/79813))
 * [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
