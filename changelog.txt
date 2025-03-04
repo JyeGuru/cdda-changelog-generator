@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-04-0830 (27834d3)
 * Reduce the dog suit drop rate (#79906)
 
 Cataclysm-DDA experimental build 2025-03-04-0559 (e21a73d)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2025-02-28-0608 (f92cdf2)
 Cataclysm-DDA experimental build 2025-02-27-2028 (e1d2288)
 * [Bombastic Perks] Below the Belt do not error anymore. Seriously (#79835)
 * Rework the trash itemgroups: part 2 (#79848)
-
-Cataclysm-DDA experimental build 2025-02-27-1804 (72fb836)
 * Missile silo spawn fixes (#79886)
 * [MOM] Add warped strikes teleporter power (#79864)
 * Triffid flesh is no longer safe (#79883)
