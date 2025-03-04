@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-04-0057 ([c49560c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-0057))
+
+* [Aftershock] Fix Telepathic Shield Id ([#79974](https://github.com/CleverRaven/Cataclysm-DDA/pull/79974))
+* Add "MODULE_HOLDER" to flight_helmet so it inherits enchantment from NVGs, fixes #79948 ([#79982](https://github.com/CleverRaven/Cataclysm-DDA/pull/79982))
 * Fix builderror for linux-sound ([#79979](https://github.com/CleverRaven/Cataclysm-DDA/pull/79979))
 
 ---
@@ -205,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2025-02-27-0614 ([b951222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-0614))
 
 * [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))
-
----
-
-#### Cataclysm-DDA experimental build 2025-02-27-0409 ([4dcfaa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-02-27-0409))
-
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
 * Mics eoc stuff ([#79816](https://github.com/CleverRaven/Cataclysm-DDA/pull/79816))
 * Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
@@ -230,9 +232,7 @@
 * [Aftershock] Expand Frontier Outposts (Part 2) ([#79811](https://github.com/CleverRaven/Cataclysm-DDA/pull/79811))
 * Fixed explosion leaving roofless soil, cleaned up repair ([#79813](https://github.com/CleverRaven/Cataclysm-DDA/pull/79813))
 * [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
-* Update decorative.json ([#79802](https://github.com/CleverRaven/Cataclysm-DDA/pull/79802))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
 * Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))
 * De-bash the Sheathes ([#79805](https://github.com/CleverRaven/Cataclysm-DDA/pull/79805))
 * Add a 26 and 153 round magazine for the Pa md 68 ([#79803](https://github.com/CleverRaven/Cataclysm-DDA/pull/79803))
-* Remove "Slowdown Fungal Growth" mod ([#79801](https://github.com/CleverRaven/Cataclysm-DDA/pull/79801))
