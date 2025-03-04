@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-04-0559 (e21a73d)
 * [MoM] Gateway now has a volume limit (#79985)
 * Load vehicles before explosion + leaks at right map (#79853)
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts (#79918)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2025-02-27-2028 (e1d2288)
 
 Cataclysm-DDA experimental build 2025-02-27-1804 (72fb836)
 * Missile silo spawn fixes (#79886)
-
-Cataclysm-DDA experimental build 2025-02-27-0823 (e6d0d30)
 * [MOM] Add warped strikes teleporter power (#79864)
 * Triffid flesh is no longer safe (#79883)
 * Fix basements spawning furnaces instead of fridges (#79879)
