@@ -1,3 +1,4 @@
+* Reduce the dog suit drop rate ([#79906](https://github.com/CleverRaven/Cataclysm-DDA/pull/79906))
 
 ---
 
@@ -216,7 +217,6 @@
 * Fix charcoal kilns ([#79827](https://github.com/CleverRaven/Cataclysm-DDA/pull/79827))
 * Add `--limit-debug-level` to test main ([#79824](https://github.com/CleverRaven/Cataclysm-DDA/pull/79824))
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
-* Fixed explosion leaving roofless soil, cleaned up repair ([#79813](https://github.com/CleverRaven/Cataclysm-DDA/pull/79813))
 * [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
 * Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))
