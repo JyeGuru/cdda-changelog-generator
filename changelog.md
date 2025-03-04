@@ -1,3 +1,4 @@
+* [Infrastructure] Uncanny Dodge Logic Update ([#79988](https://github.com/CleverRaven/Cataclysm-DDA/pull/79988))
 * New baseball bat modification, nerf the steel chains damage ([#79955](https://github.com/CleverRaven/Cataclysm-DDA/pull/79955))
 
 ---
@@ -219,4 +220,3 @@
 * Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
 * [Bombastic Perks] Below the Belt do not error anymore ([#79825](https://github.com/CleverRaven/Cataclysm-DDA/pull/79825))
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability ([#79821](https://github.com/CleverRaven/Cataclysm-DDA/pull/79821))
-* Fix MSVC Debug build ([#79817](https://github.com/CleverRaven/Cataclysm-DDA/pull/79817))

@@ -1,3 +1,4 @@
+* [Infrastructure] Uncanny Dodge Logic Update (#79988)
 * New baseball bat modification, nerf the steel chains damage (#79955)
 
 Cataclysm-DDA experimental build 2025-03-04-1845 (f98fcea)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-02-28-0608 (f92cdf2)
 * Possibly maybe try and fix pulping crash on android (unlikely) (#79829)
 * [Bombastic Perks] Below the Belt do not error anymore (#79825)
 * [MoM] Sensory Disintegration absolutely tanks your concentration ability (#79821)
-* Fix MSVC Debug build (#79817)
