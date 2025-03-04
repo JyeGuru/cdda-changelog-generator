@@ -1,3 +1,4 @@
+* [MoM] Gateway now has a volume limit ([#79985](https://github.com/CleverRaven/Cataclysm-DDA/pull/79985))
 * Load vehicles before explosion + leaks at right map ([#79853](https://github.com/CleverRaven/Cataclysm-DDA/pull/79853))
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts ([#79918](https://github.com/CleverRaven/Cataclysm-DDA/pull/79918))
 * Ammo Overhaul Part 3 ([#79952](https://github.com/CleverRaven/Cataclysm-DDA/pull/79952))
@@ -113,12 +114,6 @@
 #### Cataclysm-DDA experimental build 2025-03-02-0344 ([56a76a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-0344))
 
 * Remove road vehicles from mine field ([#79908](https://github.com/CleverRaven/Cataclysm-DDA/pull/79908))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-01-1634 ([c7660bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-01-1634))
-
-* Audio - sounds now affected by artifacts/CBMs that slow down time. ([#79812](https://github.com/CleverRaven/Cataclysm-DDA/pull/79812))
 
 ---
 
