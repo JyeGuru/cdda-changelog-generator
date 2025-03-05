@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-05-1729 (0e2b411)
 * Clarify how and when recipe is learned from durasack cement bag (#80016)
 * Silence compiler warning (#79996)
 * added missing NULL_ID (#79995)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-03-02-0618 (60fe23a)
 
 Cataclysm-DDA experimental build 2025-03-02-0344 (56a76a2)
 * Remove road vehicles from mine field (#79908)
-
-Cataclysm-DDA experimental build 2025-03-01-1406 (bdf114b)
 * [Xedra Evolved] Add Dreamsparks as fuel for seasonal glamours (#79914)
 * Remove riot damage from gunstores (#79916)
 * Routine tileset updates on 01 March 2025 (#79919)
