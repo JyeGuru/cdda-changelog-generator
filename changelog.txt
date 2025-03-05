@@ -1,3 +1,4 @@
+* Fixing Aftershock Vehicular Autotravel (#80027)
 
 Cataclysm-DDA experimental build 2025-03-05-2001 (4d8e2d7)
 * [MoM] Add extra mutation to Alpha to make awakening new paths easier (#80026)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-03-02-0344 (56a76a2)
 * Improve dialogue condition cache (#79860)
 * Adding WASP and SPIDER flags to appropriate overmap specials (#79862)
 * [Xedra Evolved] Singular Boann's Island (#79856)
-* Rework the trash itemgroups: part 1 (#79855)

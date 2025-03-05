@@ -1,3 +1,4 @@
+* Fixing Aftershock Vehicular Autotravel ([#80027](https://github.com/CleverRaven/Cataclysm-DDA/pull/80027))
 
 ---
 
@@ -224,4 +225,3 @@
 * Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
 * [Xedra Evolved] Singular Boann's Island ([#79856](https://github.com/CleverRaven/Cataclysm-DDA/pull/79856))
-* Rework the trash itemgroups: part 1 ([#79855](https://github.com/CleverRaven/Cataclysm-DDA/pull/79855))
