@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-05-2001 (4d8e2d7)
+* [MoM] Add extra mutation to Alpha to make awakening new paths easier (#80026)
+
 Cataclysm-DDA experimental build 2025-03-05-1729 (0e2b411)
 * Clarify how and when recipe is learned from durasack cement bag (#80016)
 * Silence compiler warning (#79996)
@@ -41,7 +44,6 @@ Cataclysm-DDA experimental build 2025-03-04-0830 (27834d3)
 
 Cataclysm-DDA experimental build 2025-03-04-0559 (e21a73d)
 * [MoM] Gateway now has a volume limit (#79985)
-* Load vehicles before explosion + leaks at right map (#79853)
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts (#79918)
 * Ammo Overhaul Part 3 (#79952)
 * [MoM] Displacement (and Reactive Displacement) now has a volume limit (#79983)

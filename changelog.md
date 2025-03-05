@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-05-2001 ([4d8e2d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-2001))
+
+* [MoM] Add extra mutation to Alpha to make awakening new paths easier ([#80026](https://github.com/CleverRaven/Cataclysm-DDA/pull/80026))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-05-1729 ([0e2b411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-1729))
 
 * Clarify how and when recipe is learned from durasack cement bag ([#80016](https://github.com/CleverRaven/Cataclysm-DDA/pull/80016))
@@ -71,7 +77,6 @@
 #### Cataclysm-DDA experimental build 2025-03-04-0559 ([e21a73d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-0559))
 
 * [MoM] Gateway now has a volume limit ([#79985](https://github.com/CleverRaven/Cataclysm-DDA/pull/79985))
-* Load vehicles before explosion + leaks at right map ([#79853](https://github.com/CleverRaven/Cataclysm-DDA/pull/79853))
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts ([#79918](https://github.com/CleverRaven/Cataclysm-DDA/pull/79918))
 * Ammo Overhaul Part 3 ([#79952](https://github.com/CleverRaven/Cataclysm-DDA/pull/79952))
 * [MoM] Displacement (and Reactive Displacement) now has a volume limit ([#79983](https://github.com/CleverRaven/Cataclysm-DDA/pull/79983))
