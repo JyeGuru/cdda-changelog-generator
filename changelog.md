@@ -1,3 +1,4 @@
+* Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
 * [MoM] Person is immune to psionics ([#79986](https://github.com/CleverRaven/Cataclysm-DDA/pull/79986))
 * Aftershock: Damage rebalance part V (The Wraitheonator) ([#79957](https://github.com/CleverRaven/Cataclysm-DDA/pull/79957))
 * Crazy Firearm Stuff ([#79925](https://github.com/CleverRaven/Cataclysm-DDA/pull/79925))
@@ -219,4 +220,3 @@
 * Isolation Protocol Office levels ([#79852](https://github.com/CleverRaven/Cataclysm-DDA/pull/79852))
 * Fix android build (?) ([#79834](https://github.com/CleverRaven/Cataclysm-DDA/pull/79834))
 * Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))
-* Possibly maybe try and fix pulping crash on android (unlikely) ([#79829](https://github.com/CleverRaven/Cataclysm-DDA/pull/79829))
