@@ -1,3 +1,4 @@
+* Clarify how and when recipe is learned from durasack cement bag ([#80016](https://github.com/CleverRaven/Cataclysm-DDA/pull/80016))
 * Silence compiler warning ([#79996](https://github.com/CleverRaven/Cataclysm-DDA/pull/79996))
 * added missing NULL_ID ([#79995](https://github.com/CleverRaven/Cataclysm-DDA/pull/79995))
 * Generic factory: islot_ammo, islot_bionic, islot_magazine; general islot cleanup ([#79981](https://github.com/CleverRaven/Cataclysm-DDA/pull/79981))
@@ -219,4 +220,3 @@
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
 * [Xedra Evolved] Singular Boann's Island ([#79856](https://github.com/CleverRaven/Cataclysm-DDA/pull/79856))
 * Rework the trash itemgroups: part 1 ([#79855](https://github.com/CleverRaven/Cataclysm-DDA/pull/79855))
-* Isolation Protocol Office levels ([#79852](https://github.com/CleverRaven/Cataclysm-DDA/pull/79852))
