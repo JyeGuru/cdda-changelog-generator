@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-05-1140 (54cd467)
+* Add New England flag (#80010)
+
 Cataclysm-DDA experimental build 2025-03-05-0740 (51d2bc2)
 * Make AIM actions testable part1: Infrastructure (#79976)
 * [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn (#79969)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-03-01-1406 (bdf114b)
 
 Cataclysm-DDA experimental build 2025-03-01-1148 (88d867e)
 * Routine i18n updates on 01 March 2025 (#79920)
-
-Cataclysm-DDA experimental build 2025-03-01-0554 (bb8197a)
 * fixing shockstorm check (#79909)
 * flight_helmet has NVG attachment (#79888)
 * Add toilet supplies to most toilets (#79887)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-03-01-0554 (bb8197a)
 * [MoM] Finish Heightened Senses docs (#79851)
 * Isolation Protocol Office levels (#79852)
 * Fix android build (?) (#79834)
-* Don't spawn blacklisted items from `container-item` entries in item groups (#79832)

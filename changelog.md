@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-05-1140 ([54cd467](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-1140))
+
+* Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-05-0740 ([51d2bc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-0740))
 
 * Make AIM actions testable part1: Infrastructure ([#79976](https://github.com/CleverRaven/Cataclysm-DDA/pull/79976))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-03-01-1148 ([88d867e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-01-1148))
 
 * Routine i18n updates on 01 March 2025 ([#79920](https://github.com/CleverRaven/Cataclysm-DDA/pull/79920))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-01-0554 ([bb8197a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-01-0554))
-
 * fixing shockstorm check ([#79909](https://github.com/CleverRaven/Cataclysm-DDA/pull/79909))
 * flight_helmet has NVG attachment ([#79888](https://github.com/CleverRaven/Cataclysm-DDA/pull/79888))
 * Add toilet supplies to most toilets ([#79887](https://github.com/CleverRaven/Cataclysm-DDA/pull/79887))
@@ -219,4 +220,3 @@
 * [MoM] Finish Heightened Senses docs ([#79851](https://github.com/CleverRaven/Cataclysm-DDA/pull/79851))
 * Isolation Protocol Office levels ([#79852](https://github.com/CleverRaven/Cataclysm-DDA/pull/79852))
 * Fix android build (?) ([#79834](https://github.com/CleverRaven/Cataclysm-DDA/pull/79834))
-* Don't spawn blacklisted items from `container-item` entries in item groups ([#79832](https://github.com/CleverRaven/Cataclysm-DDA/pull/79832))
