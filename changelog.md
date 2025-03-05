@@ -1,3 +1,5 @@
+* Make AIM actions testable part1: Infrastructure ([#79976](https://github.com/CleverRaven/Cataclysm-DDA/pull/79976))
+* [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn ([#79969](https://github.com/CleverRaven/Cataclysm-DDA/pull/79969))
 * Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
 * [MoM] Person is immune to psionics ([#79986](https://github.com/CleverRaven/Cataclysm-DDA/pull/79986))
 * Aftershock: Damage rebalance part V (The Wraitheonator) ([#79957](https://github.com/CleverRaven/Cataclysm-DDA/pull/79957))
@@ -135,7 +137,6 @@
 #### Cataclysm-DDA experimental build 2025-03-02-1426 ([267d105](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1426))
 
 * Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
-* Weekly Changelog 2025-02-17 to 2025-02-24 ([#79831](https://github.com/CleverRaven/Cataclysm-DDA/pull/79831))
 
 ---
 
@@ -213,7 +214,6 @@
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
 * Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
-* Generic factory support for damage_instance and islot_gun ([#79830](https://github.com/CleverRaven/Cataclysm-DDA/pull/79830))
 * [Xedra Evolved] Singular Boann's Island ([#79856](https://github.com/CleverRaven/Cataclysm-DDA/pull/79856))
 * Rework the trash itemgroups: part 1 ([#79855](https://github.com/CleverRaven/Cataclysm-DDA/pull/79855))
 * [MoM] Finish Heightened Senses docs ([#79851](https://github.com/CleverRaven/Cataclysm-DDA/pull/79851))
