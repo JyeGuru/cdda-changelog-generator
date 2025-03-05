@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-05-2228 ([2f6ce06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-2228))
+
 * Fixing Aftershock Vehicular Autotravel ([#80027](https://github.com/CleverRaven/Cataclysm-DDA/pull/80027))
 
 ---
