@@ -1,3 +1,4 @@
+* Generic_factory: islot_mod, islot_gunmod, islot_tool ([#80029](https://github.com/CleverRaven/Cataclysm-DDA/pull/80029))
 
 ---
 
@@ -229,7 +230,6 @@
 * Clarify fixed-wing aircraft policy ([#79870](https://github.com/CleverRaven/Cataclysm-DDA/pull/79870))
 * Fix Large Biogas Tank Recipe ([#79868](https://github.com/CleverRaven/Cataclysm-DDA/pull/79868))
 * Move camp-specific recipes to their own category ([#79865](https://github.com/CleverRaven/Cataclysm-DDA/pull/79865))
-* Add some missing e-storage fields ([#79863](https://github.com/CleverRaven/Cataclysm-DDA/pull/79863))
 * Flooded basements: Part 2? ([#79880](https://github.com/CleverRaven/Cataclysm-DDA/pull/79880))
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
 * [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))

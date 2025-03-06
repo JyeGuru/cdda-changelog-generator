@@ -1,3 +1,4 @@
+* Generic_factory: islot_mod, islot_gunmod, islot_tool (#80029)
 
 Cataclysm-DDA experimental build 2025-03-06-1111 (bdc44d2)
 * [ Xedra Evolved ] More Lab Computer snippets (#79935)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2025-03-02-1202 (9ad62e4)
 * Clarify fixed-wing aircraft policy (#79870)
 * Fix Large Biogas Tank Recipe (#79868)
 * Move camp-specific recipes to their own category (#79865)
-* Add some missing e-storage fields (#79863)
 * Flooded basements: Part 2? (#79880)
 * [Bugfixes] Fix missed check < 0 with an unsigned int (#79882)
 * [MoM] Guided Evolution requires additional concentration (#79871)
