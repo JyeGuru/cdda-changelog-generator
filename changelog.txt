@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-06-0635 (f3cc809)
+* fix: allow negative floats in external options (#79994)
+
 Cataclysm-DDA experimental build 2025-03-05-2228 (2f6ce06)
 * Fixing Aftershock Vehicular Autotravel (#80027)
 
@@ -121,7 +124,6 @@ Cataclysm-DDA experimental build 2025-03-02-0344 (56a76a2)
 * fixing shockstorm check (#79909)
 * flight_helmet has NVG attachment (#79888)
 * Add toilet supplies to most toilets (#79887)
-* Remove generic garter belt description duplication (#79858)
 * Add more bugs to basements (#79894)
 * Tiny typo (#79885)
 * [MoM] Give feral teleporters Warped Strikes (#79902)

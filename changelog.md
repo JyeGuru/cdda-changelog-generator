@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-06-0635 ([f3cc809](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-0635))
+
+* fix: allow negative floats in external options ([#79994](https://github.com/CleverRaven/Cataclysm-DDA/pull/79994))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-05-2228 ([2f6ce06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-2228))
 
 * Fixing Aftershock Vehicular Autotravel ([#80027](https://github.com/CleverRaven/Cataclysm-DDA/pull/80027))
@@ -202,7 +208,6 @@
 * fixing shockstorm check ([#79909](https://github.com/CleverRaven/Cataclysm-DDA/pull/79909))
 * flight_helmet has NVG attachment ([#79888](https://github.com/CleverRaven/Cataclysm-DDA/pull/79888))
 * Add toilet supplies to most toilets ([#79887](https://github.com/CleverRaven/Cataclysm-DDA/pull/79887))
-* Remove generic garter belt description duplication ([#79858](https://github.com/CleverRaven/Cataclysm-DDA/pull/79858))
 * Add more bugs to basements ([#79894](https://github.com/CleverRaven/Cataclysm-DDA/pull/79894))
 * Tiny typo ([#79885](https://github.com/CleverRaven/Cataclysm-DDA/pull/79885))
 * [MoM] Give feral teleporters Warped Strikes ([#79902](https://github.com/CleverRaven/Cataclysm-DDA/pull/79902))
