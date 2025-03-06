@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-06-2100 ([be17db6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-2100))
+
+* Make bag_durasack_cement teach recipe like an actual book ([#80034](https://github.com/CleverRaven/Cataclysm-DDA/pull/80034))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-06-1337 ([e6dfc3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-1337))
 
 * Generic_factory: islot_mod, islot_gunmod, islot_tool ([#80029](https://github.com/CleverRaven/Cataclysm-DDA/pull/80029))
@@ -195,11 +201,6 @@
 * Prevent killer drive from being randomly assigned at chargen ([#79932](https://github.com/CleverRaven/Cataclysm-DDA/pull/79932))
 * fix forage item group ([#79933](https://github.com/CleverRaven/Cataclysm-DDA/pull/79933))
 * Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-02-1426 ([267d105](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1426))
-
 * Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
 * Ammo Overhaul (Part 2) ([#79912](https://github.com/CleverRaven/Cataclysm-DDA/pull/79912))
 * Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
@@ -221,7 +222,6 @@
 * islot_gun: remove bad default ranged damage value ([#79900](https://github.com/CleverRaven/Cataclysm-DDA/pull/79900))
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() ([#79903](https://github.com/CleverRaven/Cataclysm-DDA/pull/79903))
 * Missile silo spawn fixes ([#79886](https://github.com/CleverRaven/Cataclysm-DDA/pull/79886))
-* [MOM] Add warped strikes teleporter power ([#79864](https://github.com/CleverRaven/Cataclysm-DDA/pull/79864))
 * Triffid flesh is no longer safe ([#79883](https://github.com/CleverRaven/Cataclysm-DDA/pull/79883))
 * Fix basements spawning furnaces instead of fridges ([#79879](https://github.com/CleverRaven/Cataclysm-DDA/pull/79879))
 * fix description typo ([#79877](https://github.com/CleverRaven/Cataclysm-DDA/pull/79877))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-06-2100 (be17db6)
+* Make bag_durasack_cement teach recipe like an actual book (#80034)
+
 Cataclysm-DDA experimental build 2025-03-06-1337 (e6dfc3e)
 * Generic_factory: islot_mod, islot_gunmod, islot_tool (#80029)
 
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2025-03-02-1841 (19a277e)
 * Prevent killer drive from being randomly assigned at chargen (#79932)
 * fix forage item group (#79933)
 * Remove "slowdown fungal growth" from being a default mod (#79938)
-
-Cataclysm-DDA experimental build 2025-03-02-1426 (267d105)
 * Update some social practice recipes.(#79702) (#79924)
 * Ammo Overhaul (Part 2) (#79912)
 * Fix missing period (#79926)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2025-03-02-1426 (267d105)
 * islot_gun: remove bad default ranged damage value (#79900)
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() (#79903)
 * Missile silo spawn fixes (#79886)
-* [MOM] Add warped strikes teleporter power (#79864)
 * Triffid flesh is no longer safe (#79883)
 * Fix basements spawning furnaces instead of fridges (#79879)
 * fix description typo (#79877)
