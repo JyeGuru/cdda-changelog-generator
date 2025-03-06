@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-06-1337 ([e6dfc3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-1337))
+
 * Generic_factory: islot_mod, islot_gunmod, islot_tool ([#80029](https://github.com/CleverRaven/Cataclysm-DDA/pull/80029))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-03-02-1426 ([267d105](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1426))
 
 * Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-02-1202 ([9ad62e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1202))
-
 * Ammo Overhaul (Part 2) ([#79912](https://github.com/CleverRaven/Cataclysm-DDA/pull/79912))
 * Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
 * Remove road vehicles from mine field ([#79908](https://github.com/CleverRaven/Cataclysm-DDA/pull/79908))
