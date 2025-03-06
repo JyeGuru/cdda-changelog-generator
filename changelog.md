@@ -229,4 +229,3 @@
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
 * Improve dialogue condition cache ([#79860](https://github.com/CleverRaven/Cataclysm-DDA/pull/79860))
 * Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
-* [Xedra Evolved] Singular Boann's Island ([#79856](https://github.com/CleverRaven/Cataclysm-DDA/pull/79856))
