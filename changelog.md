@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-06-1111 ([bdc44d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-1111))
+
+* [ Xedra Evolved ] More Lab Computer snippets ([#79935](https://github.com/CleverRaven/Cataclysm-DDA/pull/79935))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-06-0849 ([f95068f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-0849))
 
 * Move the dancing zombie red jeans to Crazy Cata where they actually spawn ([#80030](https://github.com/CleverRaven/Cataclysm-DDA/pull/80030))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-03-02-1202 ([9ad62e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1202))
 
 * Ammo Overhaul (Part 2) ([#79912](https://github.com/CleverRaven/Cataclysm-DDA/pull/79912))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-02-0618 ([60fe23a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-0618))
-
 * Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
 * Remove road vehicles from mine field ([#79908](https://github.com/CleverRaven/Cataclysm-DDA/pull/79908))
 * [Xedra Evolved] Add Dreamsparks as fuel for seasonal glamours ([#79914](https://github.com/CleverRaven/Cataclysm-DDA/pull/79914))
@@ -233,4 +234,3 @@
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
 * [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
-* Adding WASP and SPIDER flags to appropriate overmap specials ([#79862](https://github.com/CleverRaven/Cataclysm-DDA/pull/79862))
