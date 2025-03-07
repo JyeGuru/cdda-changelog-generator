@@ -1,3 +1,10 @@
+* Fix calorie CBM ([#80038](https://github.com/CleverRaven/Cataclysm-DDA/pull/80038))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-07-0027 ([c901477](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0027))
+
+* Houses have more clothes ([#80041](https://github.com/CleverRaven/Cataclysm-DDA/pull/80041))
 
 ---
 
@@ -228,8 +235,6 @@
 * newchar: allow SCROLL_UP, PAGE_DOWN, HOME etc. ([#79875](https://github.com/CleverRaven/Cataclysm-DDA/pull/79875))
 * Auto Pickup menu: fix crash on removing last, add hint, remove artefact after switch from `False` ([#79873](https://github.com/CleverRaven/Cataclysm-DDA/pull/79873))
 * Clarify fixed-wing aircraft policy ([#79870](https://github.com/CleverRaven/Cataclysm-DDA/pull/79870))
-* Fix Large Biogas Tank Recipe ([#79868](https://github.com/CleverRaven/Cataclysm-DDA/pull/79868))
-* Move camp-specific recipes to their own category ([#79865](https://github.com/CleverRaven/Cataclysm-DDA/pull/79865))
 * Flooded basements: Part 2? ([#79880](https://github.com/CleverRaven/Cataclysm-DDA/pull/79880))
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
 * [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))

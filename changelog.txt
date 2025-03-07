@@ -1,3 +1,7 @@
+* Fix calorie CBM (#80038)
+
+Cataclysm-DDA experimental build 2025-03-07-0027 (c901477)
+* Houses have more clothes (#80041)
 
 Cataclysm-DDA experimental build 2025-03-06-2100 (be17db6)
 * Make bag_durasack_cement teach recipe like an actual book (#80034)
@@ -144,8 +148,6 @@ Cataclysm-DDA experimental build 2025-03-02-1841 (19a277e)
 * newchar: allow SCROLL_UP, PAGE_DOWN, HOME etc. (#79875)
 * Auto Pickup menu: fix crash on removing last, add hint, remove artefact after switch from `False` (#79873)
 * Clarify fixed-wing aircraft policy (#79870)
-* Fix Large Biogas Tank Recipe (#79868)
-* Move camp-specific recipes to their own category (#79865)
 * Flooded basements: Part 2? (#79880)
 * [Bugfixes] Fix missed check < 0 with an unsigned int (#79882)
 * [MoM] Guided Evolution requires additional concentration (#79871)
