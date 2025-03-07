@@ -1,3 +1,10 @@
+* Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-07-2147 ([e73430d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-2147))
+
+* Smartgun Mod Location Overhaul ([#80017](https://github.com/CleverRaven/Cataclysm-DDA/pull/80017))
 
 ---
 
@@ -29,7 +36,6 @@
 
 * Cache item factory all to speed up `d:` filter by ~2s or ~10% ([#80040](https://github.com/CleverRaven/Cataclysm-DDA/pull/80040))
 * Milspec Searchlights Don't Explode ([#80046](https://github.com/CleverRaven/Cataclysm-DDA/pull/80046))
-* [Xedra Evolved] Keep adding more seasonal glamours ([#79878](https://github.com/CleverRaven/Cataclysm-DDA/pull/79878))
 * Fix calorie CBM ([#80038](https://github.com/CleverRaven/Cataclysm-DDA/pull/80038))
 
 ---
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-03-03-1100 ([39319db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-1100))
 
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-03-0952 ([d02bb3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0952))
-
 * Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. ([#79913](https://github.com/CleverRaven/Cataclysm-DDA/pull/79913))
 * Editmap: debug toggle for post-process generators ([#79941](https://github.com/CleverRaven/Cataclysm-DDA/pull/79941))
 * Debug option to view used palette symbols ([#79949](https://github.com/CleverRaven/Cataclysm-DDA/pull/79949))
@@ -232,6 +233,5 @@
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() ([#79903](https://github.com/CleverRaven/Cataclysm-DDA/pull/79903))
 * Missile silo spawn fixes ([#79886](https://github.com/CleverRaven/Cataclysm-DDA/pull/79886))
 * Triffid flesh is no longer safe ([#79883](https://github.com/CleverRaven/Cataclysm-DDA/pull/79883))
-* Fix basements spawning furnaces instead of fridges ([#79879](https://github.com/CleverRaven/Cataclysm-DDA/pull/79879))
 * Flooded basements: Part 2? ([#79880](https://github.com/CleverRaven/Cataclysm-DDA/pull/79880))
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
