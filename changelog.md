@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-07-0539 ([2e6dffb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0539))
+
+* Leather jacket variants ([#80042](https://github.com/CleverRaven/Cataclysm-DDA/pull/80042))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-07-0252 ([9e12107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0252))
 
 * Cache item factory all to speed up `d:` filter by ~2s or ~10% ([#80040](https://github.com/CleverRaven/Cataclysm-DDA/pull/80040))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-03-03-0037 ([7c87357](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0037))
 
 * Modded palette extending ([#79946](https://github.com/CleverRaven/Cataclysm-DDA/pull/79946))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-02-2118 ([af6c18c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-2118))
-
 * Fix fences under console in lumbermill ([#79911](https://github.com/CleverRaven/Cataclysm-DDA/pull/79911))
 * [MoM] Project TURQUOISE KEYSTONE ([#79929](https://github.com/CleverRaven/Cataclysm-DDA/pull/79929))
 * Audit of Wood Panel Recipes to use Result Multi instead of Byproduct ([#79922](https://github.com/CleverRaven/Cataclysm-DDA/pull/79922))
@@ -236,7 +237,6 @@
 * Fix basements spawning furnaces instead of fridges ([#79879](https://github.com/CleverRaven/Cataclysm-DDA/pull/79879))
 * fix description typo ([#79877](https://github.com/CleverRaven/Cataclysm-DDA/pull/79877))
 * newchar: allow SCROLL_UP, PAGE_DOWN, HOME etc. ([#79875](https://github.com/CleverRaven/Cataclysm-DDA/pull/79875))
-* Auto Pickup menu: fix crash on removing last, add hint, remove artefact after switch from `False` ([#79873](https://github.com/CleverRaven/Cataclysm-DDA/pull/79873))
 * Flooded basements: Part 2? ([#79880](https://github.com/CleverRaven/Cataclysm-DDA/pull/79880))
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
