@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-07-0252 ([9e12107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0252))
+
 * Cache item factory all to speed up `d:` filter by ~2s or ~10% ([#80040](https://github.com/CleverRaven/Cataclysm-DDA/pull/80040))
 * Milspec Searchlights Don't Explode ([#80046](https://github.com/CleverRaven/Cataclysm-DDA/pull/80046))
 * [Xedra Evolved] Keep adding more seasonal glamours ([#79878](https://github.com/CleverRaven/Cataclysm-DDA/pull/79878))
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-03-02-2118 ([af6c18c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-2118))
 
 * Fix fences under console in lumbermill ([#79911](https://github.com/CleverRaven/Cataclysm-DDA/pull/79911))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-02-1841 ([19a277e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-02-1841))
-
 * [MoM] Project TURQUOISE KEYSTONE ([#79929](https://github.com/CleverRaven/Cataclysm-DDA/pull/79929))
 * Audit of Wood Panel Recipes to use Result Multi instead of Byproduct ([#79922](https://github.com/CleverRaven/Cataclysm-DDA/pull/79922))
 * fix garage wall ([#79931](https://github.com/CleverRaven/Cataclysm-DDA/pull/79931))
