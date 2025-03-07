@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-07-1354 (8507b0a)
 * Update social.json (#79984)
 
 Cataclysm-DDA experimental build 2025-03-07-1132 (06f7a82)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2025-03-03-0845 (86ddac8)
 * Remove old stylish glasses (#79965)
 * [ Xedra Evolved ] Fix broken itemgroup from #79914 (#79970)
 * [MoM] Rework Combat Dance (#79954)
-
-Cataclysm-DDA experimental build 2025-03-03-0605 (4efea6a)
 * Clarify that infection is always a case of sepsis, not "zombie virus" (#79956)
 * Fix crash on exiting wield dialog (#79967)
 * Clean up item_demographics ammo (#79960)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-07-1354 ([8507b0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-1354))
+
 * Update social.json ([#79984](https://github.com/CleverRaven/Cataclysm-DDA/pull/79984))
 
 ---
@@ -199,11 +204,6 @@
 * Remove old stylish glasses ([#79965](https://github.com/CleverRaven/Cataclysm-DDA/pull/79965))
 * [ Xedra Evolved ] Fix broken itemgroup from #79914 ([#79970](https://github.com/CleverRaven/Cataclysm-DDA/pull/79970))
 * [MoM] Rework Combat Dance ([#79954](https://github.com/CleverRaven/Cataclysm-DDA/pull/79954))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-03-0605 ([4efea6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0605))
-
 * Clarify that infection is always a case of sepsis, not "zombie virus" ([#79956](https://github.com/CleverRaven/Cataclysm-DDA/pull/79956))
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 * Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
