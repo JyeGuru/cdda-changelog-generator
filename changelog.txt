@@ -1,3 +1,4 @@
+* Update social.json (#79984)
 
 Cataclysm-DDA experimental build 2025-03-07-1132 (06f7a82)
 * Fix typo in Rossi Gallery description (#80047)
@@ -150,6 +151,5 @@ Cataclysm-DDA experimental build 2025-03-03-0605 (4efea6a)
 * Missile silo spawn fixes (#79886)
 * Triffid flesh is no longer safe (#79883)
 * Fix basements spawning furnaces instead of fridges (#79879)
-* fix description typo (#79877)
 * Flooded basements: Part 2? (#79880)
 * [Bugfixes] Fix missed check < 0 with an unsigned int (#79882)

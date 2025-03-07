@@ -1,3 +1,4 @@
+* Update social.json ([#79984](https://github.com/CleverRaven/Cataclysm-DDA/pull/79984))
 
 ---
 
@@ -237,6 +238,5 @@
 * Missile silo spawn fixes ([#79886](https://github.com/CleverRaven/Cataclysm-DDA/pull/79886))
 * Triffid flesh is no longer safe ([#79883](https://github.com/CleverRaven/Cataclysm-DDA/pull/79883))
 * Fix basements spawning furnaces instead of fridges ([#79879](https://github.com/CleverRaven/Cataclysm-DDA/pull/79879))
-* fix description typo ([#79877](https://github.com/CleverRaven/Cataclysm-DDA/pull/79877))
 * Flooded basements: Part 2? ([#79880](https://github.com/CleverRaven/Cataclysm-DDA/pull/79880))
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
