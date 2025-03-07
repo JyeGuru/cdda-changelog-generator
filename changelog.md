@@ -188,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-03-03-0952 ([d02bb3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0952))
 
 * Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. ([#79913](https://github.com/CleverRaven/Cataclysm-DDA/pull/79913))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-03-0845 ([86ddac8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0845))
-
 * Editmap: debug toggle for post-process generators ([#79941](https://github.com/CleverRaven/Cataclysm-DDA/pull/79941))
 * Debug option to view used palette symbols ([#79949](https://github.com/CleverRaven/Cataclysm-DDA/pull/79949))
 * Generic factory: bound_reader ([#79928](https://github.com/CleverRaven/Cataclysm-DDA/pull/79928))
