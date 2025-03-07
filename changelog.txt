@@ -1,42 +1,18 @@
 * Fix typo in Rossi Gallery description (#80047)
-
-Cataclysm-DDA experimental build 2025-03-07-0906 (d232e70)
 * Non-brand names for Exodii magazines (#80048)
-
-Cataclysm-DDA experimental build 2025-03-07-0539 (2e6dffb)
 * Leather jacket variants (#80042)
-
-Cataclysm-DDA experimental build 2025-03-07-0252 (9e12107)
 * Cache item factory all to speed up `d:` filter by ~2s or ~10% (#80040)
 * Milspec Searchlights Don't Explode (#80046)
 * [Xedra Evolved] Keep adding more seasonal glamours (#79878)
 * Fix calorie CBM (#80038)
-
-Cataclysm-DDA experimental build 2025-03-07-0027 (c901477)
 * Houses have more clothes (#80041)
-
-Cataclysm-DDA experimental build 2025-03-06-2100 (be17db6)
 * Make bag_durasack_cement teach recipe like an actual book (#80034)
-
-Cataclysm-DDA experimental build 2025-03-06-1337 (e6dfc3e)
 * Generic_factory: islot_mod, islot_gunmod, islot_tool (#80029)
-
-Cataclysm-DDA experimental build 2025-03-06-1111 (bdc44d2)
 * [ Xedra Evolved ] More Lab Computer snippets (#79935)
-
-Cataclysm-DDA experimental build 2025-03-06-0849 (f95068f)
 * Move the dancing zombie red jeans to Crazy Cata where they actually spawn (#80030)
-
-Cataclysm-DDA experimental build 2025-03-06-0635 (f3cc809)
 * fix: allow negative floats in external options (#79994)
-
-Cataclysm-DDA experimental build 2025-03-05-2228 (2f6ce06)
 * Fixing Aftershock Vehicular Autotravel (#80027)
-
-Cataclysm-DDA experimental build 2025-03-05-2001 (4d8e2d7)
 * [MoM] Add extra mutation to Alpha to make awakening new paths easier (#80026)
-
-Cataclysm-DDA experimental build 2025-03-05-1729 (0e2b411)
 * Clarify how and when recipe is learned from durasack cement bag (#80016)
 * Silence compiler warning (#79996)
 * added missing NULL_ID (#79995)
@@ -45,62 +21,32 @@ Cataclysm-DDA experimental build 2025-03-05-1729 (0e2b411)
 * Add more items to cars (#80018)
 * [No hope] More palette cleanup (#80015)
 * Revamp FEMA camp into a mutable (#80013)
-
-Cataclysm-DDA experimental build 2025-03-05-1459 (c5082c8)
 * Military basement & quiet farm fixes (#80014)
-
-Cataclysm-DDA experimental build 2025-03-05-1140 (54cd467)
 * Add New England flag (#80010)
-
-Cataclysm-DDA experimental build 2025-03-05-0740 (51d2bc2)
 * Make AIM actions testable part1: Infrastructure (#79976)
 * [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn (#79969)
 * Add variants of glasses (#80012)
 * [MoM] Person is immune to psionics (#79986)
 * Aftershock: Damage rebalance part V (The Wraitheonator) (#79957)
 * Crazy Firearm Stuff (#79925)
-
-Cataclysm-DDA experimental build 2025-03-05-0437 (90661fc)
 * Added ASCII picture for the Mauser C96 (#80008)
-
-Cataclysm-DDA experimental build 2025-03-04-2330 (c2c3cbd)
 * Move calorie burn visibility to json flag, make smart watch show calorie burn (#80001)
-
-Cataclysm-DDA experimental build 2025-03-04-2109 (ff53e21)
 * [Infrastructure] Uncanny Dodge Logic Update (#79988)
 * New baseball bat modification, nerf the steel chains damage (#79955)
-
-Cataclysm-DDA experimental build 2025-03-04-1845 (f98fcea)
 * Add pre_note for fenses with DIGGABLE requirement (#80002)
-
-Cataclysm-DDA experimental build 2025-03-04-0830 (27834d3)
 * Reduce the dog suit drop rate (#79906)
-
-Cataclysm-DDA experimental build 2025-03-04-0559 (e21a73d)
 * [MoM] Gateway now has a volume limit (#79985)
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts (#79918)
 * Ammo Overhaul Part 3 (#79952)
 * [MoM] Displacement (and Reactive Displacement) now has a volume limit (#79983)
-
-Cataclysm-DDA experimental build 2025-03-04-0057 (c49560c)
 * [Aftershock] Fix Telepathic Shield Id (#79974)
 * Add "MODULE_HOLDER" to flight_helmet so it inherits enchantment from NVGs, fixes #79948 (#79982)
 * Fix builderror for linux-sound (#79979)
-
-Cataclysm-DDA experimental build 2025-03-03-2210 (10b21d2)
 * fix Segfault when adding gunmod (#79978)
 * [Xedra Evolved] Finish Imbuement of the Flames (#79980)
-
-Cataclysm-DDA experimental build 2025-03-03-1936 (716df1c)
 * Remove few power tool recipes (#79977)
-
-Cataclysm-DDA experimental build 2025-03-03-1100 (39319db)
 * Fix uilist.h include (#79975)
-
-Cataclysm-DDA experimental build 2025-03-03-0952 (d02bb3d)
 * Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. (#79913)
-
-Cataclysm-DDA experimental build 2025-03-03-0845 (86ddac8)
 * Editmap: debug toggle for post-process generators (#79941)
 * Debug option to view used palette symbols (#79949)
 * Generic factory: bound_reader (#79928)
@@ -112,12 +58,8 @@ Cataclysm-DDA experimental build 2025-03-03-0845 (86ddac8)
 * Remove old stylish glasses (#79965)
 * [ Xedra Evolved ] Fix broken itemgroup from #79914 (#79970)
 * [MoM] Rework Combat Dance (#79954)
-
-Cataclysm-DDA experimental build 2025-03-03-0605 (4efea6a)
 * Clarify that infection is always a case of sepsis, not "zombie virus" (#79956)
 * Fix crash on exiting wield dialog (#79967)
-
-Cataclysm-DDA experimental build 2025-03-03-0336 (2c63bde)
 * Clean up item_demographics ammo (#79960)
 * Modded palette extending (#79946)
 * Fix fences under console in lumbermill (#79911)
