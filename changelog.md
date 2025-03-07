@@ -1,3 +1,6 @@
+* Cache item factory all to speed up `d:` filter by ~2s or ~10% ([#80040](https://github.com/CleverRaven/Cataclysm-DDA/pull/80040))
+* Milspec Searchlights Don't Explode ([#80046](https://github.com/CleverRaven/Cataclysm-DDA/pull/80046))
+* [Xedra Evolved] Keep adding more seasonal glamours ([#79878](https://github.com/CleverRaven/Cataclysm-DDA/pull/79878))
 * Fix calorie CBM ([#80038](https://github.com/CleverRaven/Cataclysm-DDA/pull/80038))
 
 ---
@@ -234,8 +237,6 @@
 * fix description typo ([#79877](https://github.com/CleverRaven/Cataclysm-DDA/pull/79877))
 * newchar: allow SCROLL_UP, PAGE_DOWN, HOME etc. ([#79875](https://github.com/CleverRaven/Cataclysm-DDA/pull/79875))
 * Auto Pickup menu: fix crash on removing last, add hint, remove artefact after switch from `False` ([#79873](https://github.com/CleverRaven/Cataclysm-DDA/pull/79873))
-* Clarify fixed-wing aircraft policy ([#79870](https://github.com/CleverRaven/Cataclysm-DDA/pull/79870))
 * Flooded basements: Part 2? ([#79880](https://github.com/CleverRaven/Cataclysm-DDA/pull/79880))
 * [Bugfixes] Fix missed check < 0 with an unsigned int ([#79882](https://github.com/CleverRaven/Cataclysm-DDA/pull/79882))
-* [MoM] Guided Evolution requires additional concentration ([#79871](https://github.com/CleverRaven/Cataclysm-DDA/pull/79871))
 * [Xedra Evolved] Fix instant chronomancy leveling to max ([#79874](https://github.com/CleverRaven/Cataclysm-DDA/pull/79874))
