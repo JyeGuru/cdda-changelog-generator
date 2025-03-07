@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-07-1132 ([06f7a82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-1132))
+
 * Fix typo in Rossi Gallery description ([#80047](https://github.com/CleverRaven/Cataclysm-DDA/pull/80047))
 
 ---
@@ -200,11 +205,6 @@
 
 * Clarify that infection is always a case of sepsis, not "zombie virus" ([#79956](https://github.com/CleverRaven/Cataclysm-DDA/pull/79956))
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-03-0336 ([2c63bde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-0336))
-
 * Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
 * Modded palette extending ([#79946](https://github.com/CleverRaven/Cataclysm-DDA/pull/79946))
 * Fix fences under console in lumbermill ([#79911](https://github.com/CleverRaven/Cataclysm-DDA/pull/79911))
