@@ -1,3 +1,4 @@
+* Fix audio crash ([#80033](https://github.com/CleverRaven/Cataclysm-DDA/pull/80033))
 * Remove camera function from normal smart watch, add advanced smart watch with file storage and camera. ([#80054](https://github.com/CleverRaven/Cataclysm-DDA/pull/80054))
 * Routine i18n updates on 08 March 2025 ([#80065](https://github.com/CleverRaven/Cataclysm-DDA/pull/80065))
 * [Magiclysm] Fix Stormglove enchant ([#80062](https://github.com/CleverRaven/Cataclysm-DDA/pull/80062))
@@ -230,7 +231,6 @@
 * fixing shockstorm check ([#79909](https://github.com/CleverRaven/Cataclysm-DDA/pull/79909))
 * Add more bugs to basements ([#79894](https://github.com/CleverRaven/Cataclysm-DDA/pull/79894))
 * [MoM] Give feral teleporters Warped Strikes ([#79902](https://github.com/CleverRaven/Cataclysm-DDA/pull/79902))
-* Add a new house ([#79893](https://github.com/CleverRaven/Cataclysm-DDA/pull/79893))
 * [MoM] Fix LV429 looks_like ([#79895](https://github.com/CleverRaven/Cataclysm-DDA/pull/79895))
 * [Magiclysm] Add `Morphogenic Mastery` Biomancer spell ([#79898](https://github.com/CleverRaven/Cataclysm-DDA/pull/79898))
 * islot_gun: remove bad default ranged damage value ([#79900](https://github.com/CleverRaven/Cataclysm-DDA/pull/79900))
