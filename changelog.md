@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-08-0530 ([4b4c435](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-0530))
+
+* [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs ([#80059](https://github.com/CleverRaven/Cataclysm-DDA/pull/80059))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-08-0229 ([95d634e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-0229))
 
 * Move sword bayonet from cutting to piercing weapon crafting submenu ([#80044](https://github.com/CleverRaven/Cataclysm-DDA/pull/80044))
@@ -181,11 +187,6 @@
 * [Aftershock] Fix Telepathic Shield Id ([#79974](https://github.com/CleverRaven/Cataclysm-DDA/pull/79974))
 * Add "MODULE_HOLDER" to flight_helmet so it inherits enchantment from NVGs, fixes #79948 ([#79982](https://github.com/CleverRaven/Cataclysm-DDA/pull/79982))
 * Fix builderror for linux-sound ([#79979](https://github.com/CleverRaven/Cataclysm-DDA/pull/79979))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-03-2210 ([10b21d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-2210))
-
 * fix Segfault when adding gunmod ([#79978](https://github.com/CleverRaven/Cataclysm-DDA/pull/79978))
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
@@ -234,4 +235,3 @@
 * islot_gun: remove bad default ranged damage value ([#79900](https://github.com/CleverRaven/Cataclysm-DDA/pull/79900))
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() ([#79903](https://github.com/CleverRaven/Cataclysm-DDA/pull/79903))
 * Missile silo spawn fixes ([#79886](https://github.com/CleverRaven/Cataclysm-DDA/pull/79886))
-* Triffid flesh is no longer safe ([#79883](https://github.com/CleverRaven/Cataclysm-DDA/pull/79883))
