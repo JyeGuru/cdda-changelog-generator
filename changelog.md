@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-08-0229 ([95d634e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-0229))
+
 * Move sword bayonet from cutting to piercing weapon crafting submenu ([#80044](https://github.com/CleverRaven/Cataclysm-DDA/pull/80044))
 * New gun + ammo: 460 S&W ([#80050](https://github.com/CleverRaven/Cataclysm-DDA/pull/80050))
 
@@ -183,11 +188,6 @@
 
 * fix Segfault when adding gunmod ([#79978](https://github.com/CleverRaven/Cataclysm-DDA/pull/79978))
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-03-1936 ([716df1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-1936))
-
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
 * Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. ([#79913](https://github.com/CleverRaven/Cataclysm-DDA/pull/79913))

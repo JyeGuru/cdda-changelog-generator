@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-08-0229 (95d634e)
 * Move sword bayonet from cutting to piercing weapon crafting submenu (#80044)
 * New gun + ammo: 460 S&W (#80050)
 
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2025-03-04-0057 (c49560c)
 Cataclysm-DDA experimental build 2025-03-03-2210 (10b21d2)
 * fix Segfault when adding gunmod (#79978)
 * [Xedra Evolved] Finish Imbuement of the Flames (#79980)
-
-Cataclysm-DDA experimental build 2025-03-03-1936 (716df1c)
 * Remove few power tool recipes (#79977)
 * Fix uilist.h include (#79975)
 * Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. (#79913)
