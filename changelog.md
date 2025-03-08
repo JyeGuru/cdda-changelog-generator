@@ -1,3 +1,13 @@
+* Remove camera function from normal smart watch, add advanced smart watch with file storage and camera. ([#80054](https://github.com/CleverRaven/Cataclysm-DDA/pull/80054))
+* Routine i18n updates on 08 March 2025 ([#80065](https://github.com/CleverRaven/Cataclysm-DDA/pull/80065))
+* [Magiclysm] Fix Stormglove enchant ([#80062](https://github.com/CleverRaven/Cataclysm-DDA/pull/80062))
+* Fix private resort mapgen ([#80057](https://github.com/CleverRaven/Cataclysm-DDA/pull/80057))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-08-1527 ([2ce0c33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-1527))
+
+* Fast food building with drive-through ([#80064](https://github.com/CleverRaven/Cataclysm-DDA/pull/80064))
 
 ---
 
@@ -179,11 +189,6 @@
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts ([#79918](https://github.com/CleverRaven/Cataclysm-DDA/pull/79918))
 * Ammo Overhaul Part 3 ([#79952](https://github.com/CleverRaven/Cataclysm-DDA/pull/79952))
 * [MoM] Displacement (and Reactive Displacement) now has a volume limit ([#79983](https://github.com/CleverRaven/Cataclysm-DDA/pull/79983))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-04-0057 ([c49560c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-0057))
-
 * [Aftershock] Fix Telepathic Shield Id ([#79974](https://github.com/CleverRaven/Cataclysm-DDA/pull/79974))
 * Add "MODULE_HOLDER" to flight_helmet so it inherits enchantment from NVGs, fixes #79948 ([#79982](https://github.com/CleverRaven/Cataclysm-DDA/pull/79982))
 * Fix builderror for linux-sound ([#79979](https://github.com/CleverRaven/Cataclysm-DDA/pull/79979))
@@ -223,15 +228,10 @@
 * Routine tileset updates on 01 March 2025 ([#79919](https://github.com/CleverRaven/Cataclysm-DDA/pull/79919))
 * Routine i18n updates on 01 March 2025 ([#79920](https://github.com/CleverRaven/Cataclysm-DDA/pull/79920))
 * fixing shockstorm check ([#79909](https://github.com/CleverRaven/Cataclysm-DDA/pull/79909))
-* flight_helmet has NVG attachment ([#79888](https://github.com/CleverRaven/Cataclysm-DDA/pull/79888))
-* Add toilet supplies to most toilets ([#79887](https://github.com/CleverRaven/Cataclysm-DDA/pull/79887))
 * Add more bugs to basements ([#79894](https://github.com/CleverRaven/Cataclysm-DDA/pull/79894))
-* Tiny typo ([#79885](https://github.com/CleverRaven/Cataclysm-DDA/pull/79885))
 * [MoM] Give feral teleporters Warped Strikes ([#79902](https://github.com/CleverRaven/Cataclysm-DDA/pull/79902))
 * Add a new house ([#79893](https://github.com/CleverRaven/Cataclysm-DDA/pull/79893))
-* Fix lighthouse walls ([#79890](https://github.com/CleverRaven/Cataclysm-DDA/pull/79890))
 * [MoM] Fix LV429 looks_like ([#79895](https://github.com/CleverRaven/Cataclysm-DDA/pull/79895))
 * [Magiclysm] Add `Morphogenic Mastery` Biomancer spell ([#79898](https://github.com/CleverRaven/Cataclysm-DDA/pull/79898))
 * islot_gun: remove bad default ranged damage value ([#79900](https://github.com/CleverRaven/Cataclysm-DDA/pull/79900))
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() ([#79903](https://github.com/CleverRaven/Cataclysm-DDA/pull/79903))
-* Missile silo spawn fixes ([#79886](https://github.com/CleverRaven/Cataclysm-DDA/pull/79886))
