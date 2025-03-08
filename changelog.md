@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-08-1836 ([9035c8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-1836))
+
 * Fix audio crash ([#80033](https://github.com/CleverRaven/Cataclysm-DDA/pull/80033))
 * Remove camera function from normal smart watch, add advanced smart watch with file storage and camera. ([#80054](https://github.com/CleverRaven/Cataclysm-DDA/pull/80054))
 * Routine i18n updates on 08 March 2025 ([#80065](https://github.com/CleverRaven/Cataclysm-DDA/pull/80065))
