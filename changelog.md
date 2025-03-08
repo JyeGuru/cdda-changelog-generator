@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-08-0004 ([53e2a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-0004))
+
 * Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
 
 ---
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-03-03-1936 ([716df1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-1936))
 
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-03-1100 ([39319db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-03-1100))
-
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
 * Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. ([#79913](https://github.com/CleverRaven/Cataclysm-DDA/pull/79913))
 * Editmap: debug toggle for post-process generators ([#79941](https://github.com/CleverRaven/Cataclysm-DDA/pull/79941))
