@@ -1,3 +1,4 @@
+* Move sword bayonet from cutting to piercing weapon crafting submenu (#80044)
 * New gun + ammo: 460 S&W (#80050)
 
 Cataclysm-DDA experimental build 2025-03-08-0004 (53e2a8c)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-03-03-1936 (716df1c)
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() (#79903)
 * Missile silo spawn fixes (#79886)
 * Triffid flesh is no longer safe (#79883)
-* [Bugfixes] Fix missed check < 0 with an unsigned int (#79882)
