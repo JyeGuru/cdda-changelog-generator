@@ -234,7 +234,6 @@
 * Routine tileset updates on 01 March 2025 ([#79919](https://github.com/CleverRaven/Cataclysm-DDA/pull/79919))
 * Routine i18n updates on 01 March 2025 ([#79920](https://github.com/CleverRaven/Cataclysm-DDA/pull/79920))
 * fixing shockstorm check ([#79909](https://github.com/CleverRaven/Cataclysm-DDA/pull/79909))
-* Add more bugs to basements ([#79894](https://github.com/CleverRaven/Cataclysm-DDA/pull/79894))
 * [MoM] Give feral teleporters Warped Strikes ([#79902](https://github.com/CleverRaven/Cataclysm-DDA/pull/79902))
 * [MoM] Fix LV429 looks_like ([#79895](https://github.com/CleverRaven/Cataclysm-DDA/pull/79895))
 * [Magiclysm] Add `Morphogenic Mastery` Biomancer spell ([#79898](https://github.com/CleverRaven/Cataclysm-DDA/pull/79898))
