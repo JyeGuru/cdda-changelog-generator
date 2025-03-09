@@ -1,3 +1,7 @@
+* Easier cattail mission (#80083)
+
+Cataclysm-DDA experimental build 2025-03-09-1925 (706ad39)
+* Edit slime primer description (#80088)
 
 Cataclysm-DDA experimental build 2025-03-09-0542 (47fbf51)
 * 460 S&W reloads (#80071)
@@ -102,10 +106,7 @@ Cataclysm-DDA experimental build 2025-03-04-2330 (c2c3cbd)
 Cataclysm-DDA experimental build 2025-03-04-2109 (ff53e21)
 * [Infrastructure] Uncanny Dodge Logic Update (#79988)
 * New baseball bat modification, nerf the steel chains damage (#79955)
-
-Cataclysm-DDA experimental build 2025-03-04-1845 (f98fcea)
 * Add pre_note for fenses with DIGGABLE requirement (#80002)
-* Reduce the dog suit drop rate (#79906)
 * [MoM] Gateway now has a volume limit (#79985)
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts (#79918)
 * Ammo Overhaul Part 3 (#79952)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-03-04-1845 (f98fcea)
 * Routine tileset updates on 01 March 2025 (#79919)
 * Routine i18n updates on 01 March 2025 (#79920)
 * fixing shockstorm check (#79909)
-* [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() (#79903)
