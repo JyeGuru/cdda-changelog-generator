@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-09-2158 ([70c9324](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-09-2158))
+
 * Easier cattail mission ([#80083](https://github.com/CleverRaven/Cataclysm-DDA/pull/80083))
 
 ---
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-03-04-2330 ([c2c3cbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-2330))
 
 * Move calorie burn visibility to json flag, make smart watch show calorie burn ([#80001](https://github.com/CleverRaven/Cataclysm-DDA/pull/80001))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-04-2109 ([ff53e21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-2109))
-
 * [Infrastructure] Uncanny Dodge Logic Update ([#79988](https://github.com/CleverRaven/Cataclysm-DDA/pull/79988))
 * New baseball bat modification, nerf the steel chains damage ([#79955](https://github.com/CleverRaven/Cataclysm-DDA/pull/79955))
 * Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
