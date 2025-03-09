@@ -1,3 +1,10 @@
+* 460 S&W reloads ([#80071](https://github.com/CleverRaven/Cataclysm-DDA/pull/80071))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-09-0326 ([8ca1beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-09-0326))
+
+* Change 7.62 and 9mm clip names ([#80075](https://github.com/CleverRaven/Cataclysm-DDA/pull/80075))
 
 ---
 
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-03-04-0830 ([27834d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-0830))
 
 * Reduce the dog suit drop rate ([#79906](https://github.com/CleverRaven/Cataclysm-DDA/pull/79906))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-04-0559 ([e21a73d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-0559))
-
 * [MoM] Gateway now has a volume limit ([#79985](https://github.com/CleverRaven/Cataclysm-DDA/pull/79985))
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts ([#79918](https://github.com/CleverRaven/Cataclysm-DDA/pull/79918))
 * Ammo Overhaul Part 3 ([#79952](https://github.com/CleverRaven/Cataclysm-DDA/pull/79952))
@@ -235,7 +237,5 @@
 * Routine i18n updates on 01 March 2025 ([#79920](https://github.com/CleverRaven/Cataclysm-DDA/pull/79920))
 * fixing shockstorm check ([#79909](https://github.com/CleverRaven/Cataclysm-DDA/pull/79909))
 * [MoM] Give feral teleporters Warped Strikes ([#79902](https://github.com/CleverRaven/Cataclysm-DDA/pull/79902))
-* [MoM] Fix LV429 looks_like ([#79895](https://github.com/CleverRaven/Cataclysm-DDA/pull/79895))
-* [Magiclysm] Add `Morphogenic Mastery` Biomancer spell ([#79898](https://github.com/CleverRaven/Cataclysm-DDA/pull/79898))
 * islot_gun: remove bad default ranged damage value ([#79900](https://github.com/CleverRaven/Cataclysm-DDA/pull/79900))
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() ([#79903](https://github.com/CleverRaven/Cataclysm-DDA/pull/79903))
