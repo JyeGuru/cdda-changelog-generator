@@ -237,5 +237,4 @@
 * Routine i18n updates on 01 March 2025 ([#79920](https://github.com/CleverRaven/Cataclysm-DDA/pull/79920))
 * fixing shockstorm check ([#79909](https://github.com/CleverRaven/Cataclysm-DDA/pull/79909))
 * [MoM] Give feral teleporters Warped Strikes ([#79902](https://github.com/CleverRaven/Cataclysm-DDA/pull/79902))
-* islot_gun: remove bad default ranged damage value ([#79900](https://github.com/CleverRaven/Cataclysm-DDA/pull/79900))
 * [Bugfixes] Hook Up MUT_ADDITIONAL_OPTIONS to mutate_category() ([#79903](https://github.com/CleverRaven/Cataclysm-DDA/pull/79903))
