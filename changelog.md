@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-09-0542 ([47fbf51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-09-0542))
+
 * 460 S&W reloads ([#80071](https://github.com/CleverRaven/Cataclysm-DDA/pull/80071))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2025-03-04-1845 ([f98fcea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-1845))
 
 * Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-04-0830 ([27834d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-04-0830))
-
 * Reduce the dog suit drop rate ([#79906](https://github.com/CleverRaven/Cataclysm-DDA/pull/79906))
 * [MoM] Gateway now has a volume limit ([#79985](https://github.com/CleverRaven/Cataclysm-DDA/pull/79985))
 * [Xedra Evolved] The Exodii hate people who literally hunted them for parts ([#79918](https://github.com/CleverRaven/Cataclysm-DDA/pull/79918))
