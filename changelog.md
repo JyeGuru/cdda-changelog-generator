@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-10-1200 ([ba492a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-1200))
+
 * Add simple syrup/corn syrup ([#80073](https://github.com/CleverRaven/Cataclysm-DDA/pull/80073))
 * Allow spells to target vehicles ([#80072](https://github.com/CleverRaven/Cataclysm-DDA/pull/80072))
 * Include a blurb on feature request template to introduce contributing ([#80076](https://github.com/CleverRaven/Cataclysm-DDA/pull/80076))
@@ -187,11 +192,6 @@
 * Add more items to cars ([#80018](https://github.com/CleverRaven/Cataclysm-DDA/pull/80018))
 * [No hope] More palette cleanup ([#80015](https://github.com/CleverRaven/Cataclysm-DDA/pull/80015))
 * Revamp FEMA camp into a mutable ([#80013](https://github.com/CleverRaven/Cataclysm-DDA/pull/80013))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-05-1459 ([c5082c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-1459))
-
 * Military basement & quiet farm fixes ([#80014](https://github.com/CleverRaven/Cataclysm-DDA/pull/80014))
 * Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
 * Make AIM actions testable part1: Infrastructure ([#79976](https://github.com/CleverRaven/Cataclysm-DDA/pull/79976))
