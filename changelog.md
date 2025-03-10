@@ -1,3 +1,9 @@
+* Weekly Changelog 2025-02-24 to 2025-03-03 ([#79968](https://github.com/CleverRaven/Cataclysm-DDA/pull/79968))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-10-0713 ([31b61af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0713))
+
 * 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
 
 ---
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-03-05-1140 ([54cd467](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-1140))
 
 * Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-05-0740 ([51d2bc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-0740))
-
 * Make AIM actions testable part1: Infrastructure ([#79976](https://github.com/CleverRaven/Cataclysm-DDA/pull/79976))
 * [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn ([#79969](https://github.com/CleverRaven/Cataclysm-DDA/pull/79969))
 * Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
@@ -233,7 +234,6 @@
 * Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
 * Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
 * Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
-* [Xedra Evolved] Add Dreamsparks as fuel for seasonal glamours ([#79914](https://github.com/CleverRaven/Cataclysm-DDA/pull/79914))
 * Remove riot damage from gunstores ([#79916](https://github.com/CleverRaven/Cataclysm-DDA/pull/79916))
 * Routine tileset updates on 01 March 2025 ([#79919](https://github.com/CleverRaven/Cataclysm-DDA/pull/79919))
 * Routine i18n updates on 01 March 2025 ([#79920](https://github.com/CleverRaven/Cataclysm-DDA/pull/79920))
