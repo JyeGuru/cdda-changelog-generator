@@ -1,3 +1,4 @@
+* Helicopters don't fall out of the sky on z-level 0 (#80091)
 
 Cataclysm-DDA experimental build 2025-03-10-0211 (407fadd)
 * [Mods] Adapt for new `character_takeoff_item` event (#80061)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-03-05-0437 (90661fc)
 * Remove riot damage from gunstores (#79916)
 * Routine tileset updates on 01 March 2025 (#79919)
 * Routine i18n updates on 01 March 2025 (#79920)
-* fixing shockstorm check (#79909)
