@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-10-0211 (407fadd)
+* [Mods] Adapt for new `character_takeoff_item` event (#80061)
+
 Cataclysm-DDA experimental build 2025-03-09-2158 (70c9324)
 * Easier cattail mission (#80083)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2025-03-05-0740 (51d2bc2)
 
 Cataclysm-DDA experimental build 2025-03-05-0437 (90661fc)
 * Added ASCII picture for the Mauser C96 (#80008)
-
-Cataclysm-DDA experimental build 2025-03-04-2330 (c2c3cbd)
 * Move calorie burn visibility to json flag, make smart watch show calorie burn (#80001)
 * [Infrastructure] Uncanny Dodge Logic Update (#79988)
 * New baseball bat modification, nerf the steel chains damage (#79955)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-03-04-2330 (c2c3cbd)
 * Update some social practice recipes.(#79702) (#79924)
 * Ammo Overhaul (Part 2) (#79912)
 * Fix missing period (#79926)
-* Remove road vehicles from mine field (#79908)
 * [Xedra Evolved] Add Dreamsparks as fuel for seasonal glamours (#79914)
 * Remove riot damage from gunstores (#79916)
 * Routine tileset updates on 01 March 2025 (#79919)
