@@ -1,3 +1,4 @@
+* Ammo box / sunglasses typo fix (#80066)
 * Helicopters don't fall out of the sky on z-level 0 (#80091)
 
 Cataclysm-DDA experimental build 2025-03-10-0211 (407fadd)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2025-03-05-0437 (90661fc)
 * Fix crash on exiting wield dialog (#79967)
 * Clean up item_demographics ammo (#79960)
 * Modded palette extending (#79946)
-* Fix fences under console in lumbermill (#79911)
 * [MoM] Project TURQUOISE KEYSTONE (#79929)
 * Audit of Wood Panel Recipes to use Result Multi instead of Byproduct (#79922)
 * fix garage wall (#79931)
