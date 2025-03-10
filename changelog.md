@@ -1,3 +1,4 @@
+* Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
 * Getting rid of "container" field + general item and itemgroups cleanup, 1/? ([#79999](https://github.com/CleverRaven/Cataclysm-DDA/pull/79999))
 
 ---
@@ -221,7 +222,6 @@
 * Generic factory: bound_reader ([#79928](https://github.com/CleverRaven/Cataclysm-DDA/pull/79928))
 * Speed up big zone construction of `Turn forest floor into dirt` by 166% (from 96 sec to 36 sec) ([#79951](https://github.com/CleverRaven/Cataclysm-DDA/pull/79951))
 * Rename ui.cpp/ui.h ---> uilist.cpp/uilist.h ([#79953](https://github.com/CleverRaven/Cataclysm-DDA/pull/79953))
-* Aftershock: Damage Rebalance IV (update monster hp and armor values) ([#79923](https://github.com/CleverRaven/Cataclysm-DDA/pull/79923))
 * 'light_multiplier' property for weather_type.json  ([#79963](https://github.com/CleverRaven/Cataclysm-DDA/pull/79963))
 * Fix 0.5 L I1 Diesel engine not consuming fuel ([#79964](https://github.com/CleverRaven/Cataclysm-DDA/pull/79964))
 * Remove old stylish glasses ([#79965](https://github.com/CleverRaven/Cataclysm-DDA/pull/79965))
