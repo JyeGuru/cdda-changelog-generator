@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-10-0441 ([2708cd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0441))
+
+* Level spell class dialogue function ([#80080](https://github.com/CleverRaven/Cataclysm-DDA/pull/80080))
 * Ammo box / sunglasses typo fix ([#80066](https://github.com/CleverRaven/Cataclysm-DDA/pull/80066))
 * Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
 
@@ -187,11 +193,6 @@
 * [MoM] Person is immune to psionics ([#79986](https://github.com/CleverRaven/Cataclysm-DDA/pull/79986))
 * Aftershock: Damage rebalance part V (The Wraitheonator) ([#79957](https://github.com/CleverRaven/Cataclysm-DDA/pull/79957))
 * Crazy Firearm Stuff ([#79925](https://github.com/CleverRaven/Cataclysm-DDA/pull/79925))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-05-0437 ([90661fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-0437))
-
 * Added ASCII picture for the Mauser C96 ([#80008](https://github.com/CleverRaven/Cataclysm-DDA/pull/80008))
 * Move calorie burn visibility to json flag, make smart watch show calorie burn ([#80001](https://github.com/CleverRaven/Cataclysm-DDA/pull/80001))
 * [Infrastructure] Uncanny Dodge Logic Update ([#79988](https://github.com/CleverRaven/Cataclysm-DDA/pull/79988))
@@ -231,7 +232,6 @@
 * fix forage item group ([#79933](https://github.com/CleverRaven/Cataclysm-DDA/pull/79933))
 * Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
 * Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
-* Ammo Overhaul (Part 2) ([#79912](https://github.com/CleverRaven/Cataclysm-DDA/pull/79912))
 * Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
 * [Xedra Evolved] Add Dreamsparks as fuel for seasonal glamours ([#79914](https://github.com/CleverRaven/Cataclysm-DDA/pull/79914))
 * Remove riot damage from gunstores ([#79916](https://github.com/CleverRaven/Cataclysm-DDA/pull/79916))
