@@ -1,3 +1,8 @@
+* Add simple syrup/corn syrup ([#80073](https://github.com/CleverRaven/Cataclysm-DDA/pull/80073))
+* Allow spells to target vehicles ([#80072](https://github.com/CleverRaven/Cataclysm-DDA/pull/80072))
+* Include a blurb on feature request template to introduce contributing ([#80076](https://github.com/CleverRaven/Cataclysm-DDA/pull/80076))
+* [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs ([#80087](https://github.com/CleverRaven/Cataclysm-DDA/pull/80087))
+* Made horde spawn on correct location for remote explosion ([#80086](https://github.com/CleverRaven/Cataclysm-DDA/pull/80086))
 
 ---
 
@@ -201,7 +206,6 @@
 * New baseball bat modification, nerf the steel chains damage ([#79955](https://github.com/CleverRaven/Cataclysm-DDA/pull/79955))
 * Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
 * [MoM] Gateway now has a volume limit ([#79985](https://github.com/CleverRaven/Cataclysm-DDA/pull/79985))
-* [Xedra Evolved] The Exodii hate people who literally hunted them for parts ([#79918](https://github.com/CleverRaven/Cataclysm-DDA/pull/79918))
 * Ammo Overhaul Part 3 ([#79952](https://github.com/CleverRaven/Cataclysm-DDA/pull/79952))
 * [MoM] Displacement (and Reactive Displacement) now has a volume limit ([#79983](https://github.com/CleverRaven/Cataclysm-DDA/pull/79983))
 * [Aftershock] Fix Telepathic Shield Id ([#79974](https://github.com/CleverRaven/Cataclysm-DDA/pull/79974))
@@ -234,6 +238,3 @@
 * Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
 * Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
 * Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
-* Remove riot damage from gunstores ([#79916](https://github.com/CleverRaven/Cataclysm-DDA/pull/79916))
-* Routine tileset updates on 01 March 2025 ([#79919](https://github.com/CleverRaven/Cataclysm-DDA/pull/79919))
-* Routine i18n updates on 01 March 2025 ([#79920](https://github.com/CleverRaven/Cataclysm-DDA/pull/79920))
