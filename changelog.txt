@@ -1,3 +1,4 @@
+* Getting rid of "container" field + general item and itemgroups cleanup, 1/? (#79999)
 
 Cataclysm-DDA experimental build 2025-03-10-1200 (ba492a9)
 * Add simple syrup/corn syrup (#80073)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-03-05-1729 (0e2b411)
 * Clean up item_demographics ammo (#79960)
 * Modded palette extending (#79946)
 * [MoM] Project TURQUOISE KEYSTONE (#79929)
-* Audit of Wood Panel Recipes to use Result Multi instead of Byproduct (#79922)
 * fix garage wall (#79931)
 * Prevent killer drive from being randomly assigned at chargen (#79932)
 * fix forage item group (#79933)

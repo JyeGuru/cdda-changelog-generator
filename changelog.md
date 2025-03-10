@@ -1,3 +1,4 @@
+* Getting rid of "container" field + general item and itemgroups cleanup, 1/? ([#79999](https://github.com/CleverRaven/Cataclysm-DDA/pull/79999))
 
 ---
 
@@ -231,7 +232,6 @@
 * Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
 * Modded palette extending ([#79946](https://github.com/CleverRaven/Cataclysm-DDA/pull/79946))
 * [MoM] Project TURQUOISE KEYSTONE ([#79929](https://github.com/CleverRaven/Cataclysm-DDA/pull/79929))
-* Audit of Wood Panel Recipes to use Result Multi instead of Byproduct ([#79922](https://github.com/CleverRaven/Cataclysm-DDA/pull/79922))
 * fix garage wall ([#79931](https://github.com/CleverRaven/Cataclysm-DDA/pull/79931))
 * Prevent killer drive from being randomly assigned at chargen ([#79932](https://github.com/CleverRaven/Cataclysm-DDA/pull/79932))
 * fix forage item group ([#79933](https://github.com/CleverRaven/Cataclysm-DDA/pull/79933))
