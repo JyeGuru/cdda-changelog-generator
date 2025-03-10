@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-10-1421 ([e9a4348](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-1421))
+
 * Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
 * Getting rid of "container" field + general item and itemgroups cleanup, 1/? ([#79999](https://github.com/CleverRaven/Cataclysm-DDA/pull/79999))
 
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-03-05-2001 ([4d8e2d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-2001))
 
 * [MoM] Add extra mutation to Alpha to make awakening new paths easier ([#80026](https://github.com/CleverRaven/Cataclysm-DDA/pull/80026))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-05-1729 ([0e2b411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-1729))
-
 * Clarify how and when recipe is learned from durasack cement bag ([#80016](https://github.com/CleverRaven/Cataclysm-DDA/pull/80016))
 * Silence compiler warning ([#79996](https://github.com/CleverRaven/Cataclysm-DDA/pull/79996))
 * added missing NULL_ID ([#79995](https://github.com/CleverRaven/Cataclysm-DDA/pull/79995))
