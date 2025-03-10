@@ -236,5 +236,4 @@
 * Prevent killer drive from being randomly assigned at chargen ([#79932](https://github.com/CleverRaven/Cataclysm-DDA/pull/79932))
 * fix forage item group ([#79933](https://github.com/CleverRaven/Cataclysm-DDA/pull/79933))
 * Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
-* Update some social practice recipes.(#79702) ([#79924](https://github.com/CleverRaven/Cataclysm-DDA/pull/79924))
 * Fix missing period ([#79926](https://github.com/CleverRaven/Cataclysm-DDA/pull/79926))
