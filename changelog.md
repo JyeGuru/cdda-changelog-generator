@@ -1,3 +1,4 @@
+* 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
 
 ---
 
@@ -209,7 +210,6 @@
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
-* Add “allow_nested” option and signature comments to item::best_pocket and item_contents::best_pocket. ([#79913](https://github.com/CleverRaven/Cataclysm-DDA/pull/79913))
 * Editmap: debug toggle for post-process generators ([#79941](https://github.com/CleverRaven/Cataclysm-DDA/pull/79941))
 * Debug option to view used palette symbols ([#79949](https://github.com/CleverRaven/Cataclysm-DDA/pull/79949))
 * Generic factory: bound_reader ([#79928](https://github.com/CleverRaven/Cataclysm-DDA/pull/79928))
