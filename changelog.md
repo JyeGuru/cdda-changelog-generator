@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-10-0931 ([214c11a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0931))
+
 * Weekly Changelog 2025-02-24 to 2025-03-03 ([#79968](https://github.com/CleverRaven/Cataclysm-DDA/pull/79968))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-03-05-1459 ([c5082c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-1459))
 
 * Military basement & quiet farm fixes ([#80014](https://github.com/CleverRaven/Cataclysm-DDA/pull/80014))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-05-1140 ([54cd467](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-05-1140))
-
 * Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
 * Make AIM actions testable part1: Infrastructure ([#79976](https://github.com/CleverRaven/Cataclysm-DDA/pull/79976))
 * [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn ([#79969](https://github.com/CleverRaven/Cataclysm-DDA/pull/79969))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-10-0931 (214c11a)
 * Weekly Changelog 2025-02-24 to 2025-03-03 (#79968)
 
 Cataclysm-DDA experimental build 2025-03-10-0713 (31b61af)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2025-03-05-1729 (0e2b411)
 
 Cataclysm-DDA experimental build 2025-03-05-1459 (c5082c8)
 * Military basement & quiet farm fixes (#80014)
-
-Cataclysm-DDA experimental build 2025-03-05-1140 (54cd467)
 * Add New England flag (#80010)
 * Make AIM actions testable part1: Infrastructure (#79976)
 * [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn (#79969)
