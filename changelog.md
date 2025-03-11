@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-11-0242 ([a1db706](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-0242))
+
 * Prevent advanced item management move count_by_charge item  into nested pocket. ([#80039](https://github.com/CleverRaven/Cataclysm-DDA/pull/80039))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-03-06-1111 ([bdc44d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-1111))
 
 * [ Xedra Evolved ] More Lab Computer snippets ([#79935](https://github.com/CleverRaven/Cataclysm-DDA/pull/79935))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-06-0849 ([f95068f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-0849))
-
 * Move the dancing zombie red jeans to Crazy Cata where they actually spawn ([#80030](https://github.com/CleverRaven/Cataclysm-DDA/pull/80030))
 * fix: allow negative floats in external options ([#79994](https://github.com/CleverRaven/Cataclysm-DDA/pull/79994))
 * Fixing Aftershock Vehicular Autotravel ([#80027](https://github.com/CleverRaven/Cataclysm-DDA/pull/80027))
