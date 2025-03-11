@@ -1,3 +1,5 @@
+* Spreading dogbane is now harvestable (#80111)
+* Isolation Protocol: XEDRA remediator >> Rework of  officer class (#80107)
 
 Cataclysm-DDA experimental build 2025-03-11-0500 (0e6fe89)
 * Inhaler and Antibiotics Mission Audit (#80115)
@@ -147,6 +149,4 @@ Cataclysm-DDA experimental build 2025-03-06-1337 (e6dfc3e)
 * Fix crash on exiting wield dialog (#79967)
 * Clean up item_demographics ammo (#79960)
 * Modded palette extending (#79946)
-* Prevent killer drive from being randomly assigned at chargen (#79932)
-* fix forage item group (#79933)
 * Remove "slowdown fungal growth" from being a default mod (#79938)

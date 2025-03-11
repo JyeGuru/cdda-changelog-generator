@@ -1,3 +1,5 @@
+* Spreading dogbane is now harvestable ([#80111](https://github.com/CleverRaven/Cataclysm-DDA/pull/80111))
+* Isolation Protocol: XEDRA remediator >> Rework of  officer class ([#80107](https://github.com/CleverRaven/Cataclysm-DDA/pull/80107))
 
 ---
 
@@ -234,6 +236,4 @@
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 * Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
 * Modded palette extending ([#79946](https://github.com/CleverRaven/Cataclysm-DDA/pull/79946))
-* Prevent killer drive from being randomly assigned at chargen ([#79932](https://github.com/CleverRaven/Cataclysm-DDA/pull/79932))
-* fix forage item group ([#79933](https://github.com/CleverRaven/Cataclysm-DDA/pull/79933))
 * Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
