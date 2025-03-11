@@ -1,3 +1,4 @@
+* Prevent advanced item management move count_by_charge item  into nested pocket. ([#80039](https://github.com/CleverRaven/Cataclysm-DDA/pull/80039))
 
 ---
 
@@ -232,7 +233,6 @@
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 * Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
 * Modded palette extending ([#79946](https://github.com/CleverRaven/Cataclysm-DDA/pull/79946))
-* [MoM] Project TURQUOISE KEYSTONE ([#79929](https://github.com/CleverRaven/Cataclysm-DDA/pull/79929))
 * fix garage wall ([#79931](https://github.com/CleverRaven/Cataclysm-DDA/pull/79931))
 * Prevent killer drive from being randomly assigned at chargen ([#79932](https://github.com/CleverRaven/Cataclysm-DDA/pull/79932))
 * fix forage item group ([#79933](https://github.com/CleverRaven/Cataclysm-DDA/pull/79933))
