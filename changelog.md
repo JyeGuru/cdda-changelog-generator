@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-11-1347 ([fbc6652](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-1347))
+
+* IWYU the codebase, part 3/? ([#80116](https://github.com/CleverRaven/Cataclysm-DDA/pull/80116))
+* Further IWYU CI fixes ([#80089](https://github.com/CleverRaven/Cataclysm-DDA/pull/80089))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-11-0717 ([db6fe2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-0717))
 
 * Spreading dogbane is now harvestable ([#80111](https://github.com/CleverRaven/Cataclysm-DDA/pull/80111))
@@ -181,14 +188,8 @@
 #### Cataclysm-DDA experimental build 2025-03-07-0027 ([c901477](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0027))
 
 * Houses have more clothes ([#80041](https://github.com/CleverRaven/Cataclysm-DDA/pull/80041))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-06-2100 ([be17db6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-2100))
-
 * Make bag_durasack_cement teach recipe like an actual book ([#80034](https://github.com/CleverRaven/Cataclysm-DDA/pull/80034))
 * Generic_factory: islot_mod, islot_gunmod, islot_tool ([#80029](https://github.com/CleverRaven/Cataclysm-DDA/pull/80029))
-* [ Xedra Evolved ] More Lab Computer snippets ([#79935](https://github.com/CleverRaven/Cataclysm-DDA/pull/79935))
 * Move the dancing zombie red jeans to Crazy Cata where they actually spawn ([#80030](https://github.com/CleverRaven/Cataclysm-DDA/pull/80030))
 * fix: allow negative floats in external options ([#79994](https://github.com/CleverRaven/Cataclysm-DDA/pull/79994))
 * Fixing Aftershock Vehicular Autotravel ([#80027](https://github.com/CleverRaven/Cataclysm-DDA/pull/80027))
@@ -236,4 +237,3 @@
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 * Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
 * Modded palette extending ([#79946](https://github.com/CleverRaven/Cataclysm-DDA/pull/79946))
-* Remove "slowdown fungal growth" from being a default mod ([#79938](https://github.com/CleverRaven/Cataclysm-DDA/pull/79938))
