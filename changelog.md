@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-11-0016 ([391b420](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-0016))
+
+* Chill down prepper zed spawns ([#80110](https://github.com/CleverRaven/Cataclysm-DDA/pull/80110))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-10-1951 ([c14c3b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-1951))
 
 * 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-03-06-0849 ([f95068f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-0849))
 
 * Move the dancing zombie red jeans to Crazy Cata where they actually spawn ([#80030](https://github.com/CleverRaven/Cataclysm-DDA/pull/80030))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-06-0635 ([f3cc809](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-0635))
-
 * fix: allow negative floats in external options ([#79994](https://github.com/CleverRaven/Cataclysm-DDA/pull/79994))
 * Fixing Aftershock Vehicular Autotravel ([#80027](https://github.com/CleverRaven/Cataclysm-DDA/pull/80027))
 * [MoM] Add extra mutation to Alpha to make awakening new paths easier ([#80026](https://github.com/CleverRaven/Cataclysm-DDA/pull/80026))
@@ -220,7 +221,6 @@
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
 * Editmap: debug toggle for post-process generators ([#79941](https://github.com/CleverRaven/Cataclysm-DDA/pull/79941))
 * Debug option to view used palette symbols ([#79949](https://github.com/CleverRaven/Cataclysm-DDA/pull/79949))
-* Generic factory: bound_reader ([#79928](https://github.com/CleverRaven/Cataclysm-DDA/pull/79928))
 * Speed up big zone construction of `Turn forest floor into dirt` by 166% (from 96 sec to 36 sec) ([#79951](https://github.com/CleverRaven/Cataclysm-DDA/pull/79951))
 * Rename ui.cpp/ui.h ---> uilist.cpp/uilist.h ([#79953](https://github.com/CleverRaven/Cataclysm-DDA/pull/79953))
 * 'light_multiplier' property for weather_type.json  ([#79963](https://github.com/CleverRaven/Cataclysm-DDA/pull/79963))
