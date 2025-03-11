@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-11-0717 ([db6fe2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-0717))
+
 * Spreading dogbane is now harvestable ([#80111](https://github.com/CleverRaven/Cataclysm-DDA/pull/80111))
 * Isolation Protocol: XEDRA remediator >> Rework of  officer class ([#80107](https://github.com/CleverRaven/Cataclysm-DDA/pull/80107))
 
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-03-06-2100 ([be17db6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-2100))
 
 * Make bag_durasack_cement teach recipe like an actual book ([#80034](https://github.com/CleverRaven/Cataclysm-DDA/pull/80034))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-06-1337 ([e6dfc3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-06-1337))
-
 * Generic_factory: islot_mod, islot_gunmod, islot_tool ([#80029](https://github.com/CleverRaven/Cataclysm-DDA/pull/80029))
 * [ Xedra Evolved ] More Lab Computer snippets ([#79935](https://github.com/CleverRaven/Cataclysm-DDA/pull/79935))
 * Move the dancing zombie red jeans to Crazy Cata where they actually spawn ([#80030](https://github.com/CleverRaven/Cataclysm-DDA/pull/80030))
