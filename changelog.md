@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-12-0852 ([2645e5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-12-0852))
+
 * Fix aim query charges not considering pocket limitations ([#80118](https://github.com/CleverRaven/Cataclysm-DDA/pull/80118))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-03-07-0539 ([2e6dffb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0539))
 
 * Leather jacket variants ([#80042](https://github.com/CleverRaven/Cataclysm-DDA/pull/80042))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-07-0252 ([9e12107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0252))
-
 * Cache item factory all to speed up `d:` filter by ~2s or ~10% ([#80040](https://github.com/CleverRaven/Cataclysm-DDA/pull/80040))
 * Milspec Searchlights Don't Explode ([#80046](https://github.com/CleverRaven/Cataclysm-DDA/pull/80046))
 * Fix calorie CBM ([#80038](https://github.com/CleverRaven/Cataclysm-DDA/pull/80038))
