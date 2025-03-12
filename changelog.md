@@ -1,3 +1,10 @@
+* [Isolation Protocol] Add the Last Scion class ([#80043](https://github.com/CleverRaven/Cataclysm-DDA/pull/80043))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-12-1420 ([2003df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-12-1420))
+
+* expand _die eoc function ([#80092](https://github.com/CleverRaven/Cataclysm-DDA/pull/80092))
 
 ---
 
@@ -180,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-03-07-0906 ([d232e70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0906))
 
 * Non-brand names for Exodii magazines ([#80048](https://github.com/CleverRaven/Cataclysm-DDA/pull/80048))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-07-0539 ([2e6dffb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0539))
-
 * Leather jacket variants ([#80042](https://github.com/CleverRaven/Cataclysm-DDA/pull/80042))
 * Cache item factory all to speed up `d:` filter by ~2s or ~10% ([#80040](https://github.com/CleverRaven/Cataclysm-DDA/pull/80040))
 * Milspec Searchlights Don't Explode ([#80046](https://github.com/CleverRaven/Cataclysm-DDA/pull/80046))
@@ -226,8 +228,6 @@
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
-* Debug option to view used palette symbols ([#79949](https://github.com/CleverRaven/Cataclysm-DDA/pull/79949))
-* Speed up big zone construction of `Turn forest floor into dirt` by 166% (from 96 sec to 36 sec) ([#79951](https://github.com/CleverRaven/Cataclysm-DDA/pull/79951))
 * Rename ui.cpp/ui.h ---> uilist.cpp/uilist.h ([#79953](https://github.com/CleverRaven/Cataclysm-DDA/pull/79953))
 * 'light_multiplier' property for weather_type.json  ([#79963](https://github.com/CleverRaven/Cataclysm-DDA/pull/79963))
 * Fix 0.5 L I1 Diesel engine not consuming fuel ([#79964](https://github.com/CleverRaven/Cataclysm-DDA/pull/79964))
