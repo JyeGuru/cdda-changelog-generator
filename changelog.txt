@@ -1,3 +1,4 @@
+* Update snow shovel, metal rake deconstruction recipe (#80123)
 * [Isolation Protocol] Add the Last Scion class (#80043)
 
 Cataclysm-DDA experimental build 2025-03-12-1420 (2003df9)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2025-03-07-0906 (d232e70)
 * New baseball bat modification, nerf the steel chains damage (#79955)
 * Add pre_note for fenses with DIGGABLE requirement (#80002)
 * [MoM] Gateway now has a volume limit (#79985)
-* Ammo Overhaul Part 3 (#79952)
 * [MoM] Displacement (and Reactive Displacement) now has a volume limit (#79983)
 * [Aftershock] Fix Telepathic Shield Id (#79974)
 * Add "MODULE_HOLDER" to flight_helmet so it inherits enchantment from NVGs, fixes #79948 (#79982)
