@@ -1,3 +1,4 @@
+* Fix aim query charges not considering pocket limitations (#80118)
 
 Cataclysm-DDA experimental build 2025-03-12-0634 (507a271)
 * Add TOUGH_FEET to Rabbit Feet Mutation (#80124)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-03-07-0252 (9e12107)
 * Clarify that infection is always a case of sepsis, not "zombie virus" (#79956)
 * Fix crash on exiting wield dialog (#79967)
 * Clean up item_demographics ammo (#79960)
-* Modded palette extending (#79946)

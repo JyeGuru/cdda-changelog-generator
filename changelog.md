@@ -1,3 +1,4 @@
+* Fix aim query charges not considering pocket limitations ([#80118](https://github.com/CleverRaven/Cataclysm-DDA/pull/80118))
 
 ---
 
@@ -236,4 +237,3 @@
 * Clarify that infection is always a case of sepsis, not "zombie virus" ([#79956](https://github.com/CleverRaven/Cataclysm-DDA/pull/79956))
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 * Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
-* Modded palette extending ([#79946](https://github.com/CleverRaven/Cataclysm-DDA/pull/79946))
