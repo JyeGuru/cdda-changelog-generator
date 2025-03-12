@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-12-1652 (3e7c41d)
 * Update snow shovel, metal rake deconstruction recipe (#80123)
 * [Isolation Protocol] Add the Last Scion class (#80043)
 
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2025-03-07-1354 (8507b0a)
 
 Cataclysm-DDA experimental build 2025-03-07-1132 (06f7a82)
 * Fix typo in Rossi Gallery description (#80047)
-
-Cataclysm-DDA experimental build 2025-03-07-0906 (d232e70)
 * Non-brand names for Exodii magazines (#80048)
 * Leather jacket variants (#80042)
 * Cache item factory all to speed up `d:` filter by ~2s or ~10% (#80040)
