@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-12-0634 ([507a271](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-12-0634))
+
+* Add TOUGH_FEET to Rabbit Feet Mutation ([#80124](https://github.com/CleverRaven/Cataclysm-DDA/pull/80124))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-11-1347 ([fbc6652](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-1347))
 
 * IWYU the codebase, part 3/? ([#80116](https://github.com/CleverRaven/Cataclysm-DDA/pull/80116))
@@ -182,11 +188,6 @@
 * Cache item factory all to speed up `d:` filter by ~2s or ~10% ([#80040](https://github.com/CleverRaven/Cataclysm-DDA/pull/80040))
 * Milspec Searchlights Don't Explode ([#80046](https://github.com/CleverRaven/Cataclysm-DDA/pull/80046))
 * Fix calorie CBM ([#80038](https://github.com/CleverRaven/Cataclysm-DDA/pull/80038))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-07-0027 ([c901477](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-0027))
-
 * Houses have more clothes ([#80041](https://github.com/CleverRaven/Cataclysm-DDA/pull/80041))
 * Make bag_durasack_cement teach recipe like an actual book ([#80034](https://github.com/CleverRaven/Cataclysm-DDA/pull/80034))
 * Generic_factory: islot_mod, islot_gunmod, islot_tool ([#80029](https://github.com/CleverRaven/Cataclysm-DDA/pull/80029))
@@ -224,7 +225,6 @@
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
-* Editmap: debug toggle for post-process generators ([#79941](https://github.com/CleverRaven/Cataclysm-DDA/pull/79941))
 * Debug option to view used palette symbols ([#79949](https://github.com/CleverRaven/Cataclysm-DDA/pull/79949))
 * Speed up big zone construction of `Turn forest floor into dirt` by 166% (from 96 sec to 36 sec) ([#79951](https://github.com/CleverRaven/Cataclysm-DDA/pull/79951))
 * Rename ui.cpp/ui.h ---> uilist.cpp/uilist.h ([#79953](https://github.com/CleverRaven/Cataclysm-DDA/pull/79953))
