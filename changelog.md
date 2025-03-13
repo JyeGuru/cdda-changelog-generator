@@ -1,3 +1,4 @@
+* [MoM] Fix Electron Overflow description ([#80145](https://github.com/CleverRaven/Cataclysm-DDA/pull/80145))
 
 ---
 
