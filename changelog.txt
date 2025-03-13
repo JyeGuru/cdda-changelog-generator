@@ -1,3 +1,4 @@
+* [MoM] Further telekinetic throwing elements (#80144)
 
 Cataclysm-DDA experimental build 2025-03-13-1946 (a7c058a)
 * [MoM] Items with bionic power aren't part of the Electron Overflow count (#80135)
@@ -148,6 +149,5 @@ Cataclysm-DDA experimental build 2025-03-08-0229 (95d634e)
 * [Xedra Evolved] Finish Imbuement of the Flames (#79980)
 * Remove few power tool recipes (#79977)
 * Fix uilist.h include (#79975)
-* Remove old stylish glasses (#79965)
 * [ Xedra Evolved ] Fix broken itemgroup from #79914 (#79970)
 * Fix crash on exiting wield dialog (#79967)
