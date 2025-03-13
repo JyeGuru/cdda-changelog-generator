@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-13-0617 ([de84a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-0617))
+
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
 * Some Profession Worn Item Fix ([#80133](https://github.com/CleverRaven/Cataclysm-DDA/pull/80133))
 * Allow generic-factory loaded objects to defer load ([#80127](https://github.com/CleverRaven/Cataclysm-DDA/pull/80127))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-03-07-2147 ([e73430d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-2147))
 
 * Smartgun Mod Location Overhaul ([#80017](https://github.com/CleverRaven/Cataclysm-DDA/pull/80017))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-07-1354 ([8507b0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-1354))
-
 * Update social.json ([#79984](https://github.com/CleverRaven/Cataclysm-DDA/pull/79984))
 * Fix typo in Rossi Gallery description ([#80047](https://github.com/CleverRaven/Cataclysm-DDA/pull/80047))
 * Non-brand names for Exodii magazines ([#80048](https://github.com/CleverRaven/Cataclysm-DDA/pull/80048))
