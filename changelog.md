@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-13-0328 ([1345a1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-0328))
+
+* Remove `edible` field from materials ([#80097](https://github.com/CleverRaven/Cataclysm-DDA/pull/80097))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-12-1652 ([3e7c41d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-12-1652))
 
 * Update snow shovel, metal rake deconstruction recipe ([#80123](https://github.com/CleverRaven/Cataclysm-DDA/pull/80123))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-03-07-1354 ([8507b0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-1354))
 
 * Update social.json ([#79984](https://github.com/CleverRaven/Cataclysm-DDA/pull/79984))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-07-1132 ([06f7a82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-1132))
-
 * Fix typo in Rossi Gallery description ([#80047](https://github.com/CleverRaven/Cataclysm-DDA/pull/80047))
 * Non-brand names for Exodii magazines ([#80048](https://github.com/CleverRaven/Cataclysm-DDA/pull/80048))
 * Leather jacket variants ([#80042](https://github.com/CleverRaven/Cataclysm-DDA/pull/80042))
@@ -228,7 +229,6 @@
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
-* Rename ui.cpp/ui.h ---> uilist.cpp/uilist.h ([#79953](https://github.com/CleverRaven/Cataclysm-DDA/pull/79953))
 * 'light_multiplier' property for weather_type.json  ([#79963](https://github.com/CleverRaven/Cataclysm-DDA/pull/79963))
 * Fix 0.5 L I1 Diesel engine not consuming fuel ([#79964](https://github.com/CleverRaven/Cataclysm-DDA/pull/79964))
 * Remove old stylish glasses ([#79965](https://github.com/CleverRaven/Cataclysm-DDA/pull/79965))
