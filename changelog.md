@@ -1,3 +1,6 @@
+* Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
+* Some Profession Worn Item Fix ([#80133](https://github.com/CleverRaven/Cataclysm-DDA/pull/80133))
+* Allow generic-factory loaded objects to defer load ([#80127](https://github.com/CleverRaven/Cataclysm-DDA/pull/80127))
 
 ---
 
@@ -214,11 +217,9 @@
 * [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn ([#79969](https://github.com/CleverRaven/Cataclysm-DDA/pull/79969))
 * Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
 * [MoM] Person is immune to psionics ([#79986](https://github.com/CleverRaven/Cataclysm-DDA/pull/79986))
-* Aftershock: Damage rebalance part V (The Wraitheonator) ([#79957](https://github.com/CleverRaven/Cataclysm-DDA/pull/79957))
 * Added ASCII picture for the Mauser C96 ([#80008](https://github.com/CleverRaven/Cataclysm-DDA/pull/80008))
 * Move calorie burn visibility to json flag, make smart watch show calorie burn ([#80001](https://github.com/CleverRaven/Cataclysm-DDA/pull/80001))
 * [Infrastructure] Uncanny Dodge Logic Update ([#79988](https://github.com/CleverRaven/Cataclysm-DDA/pull/79988))
-* New baseball bat modification, nerf the steel chains damage ([#79955](https://github.com/CleverRaven/Cataclysm-DDA/pull/79955))
 * Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
 * [MoM] Gateway now has a volume limit ([#79985](https://github.com/CleverRaven/Cataclysm-DDA/pull/79985))
 * [MoM] Displacement (and Reactive Displacement) now has a volume limit ([#79983](https://github.com/CleverRaven/Cataclysm-DDA/pull/79983))
@@ -233,7 +234,5 @@
 * Fix 0.5 L I1 Diesel engine not consuming fuel ([#79964](https://github.com/CleverRaven/Cataclysm-DDA/pull/79964))
 * Remove old stylish glasses ([#79965](https://github.com/CleverRaven/Cataclysm-DDA/pull/79965))
 * [ Xedra Evolved ] Fix broken itemgroup from #79914 ([#79970](https://github.com/CleverRaven/Cataclysm-DDA/pull/79970))
-* [MoM] Rework Combat Dance ([#79954](https://github.com/CleverRaven/Cataclysm-DDA/pull/79954))
-* Clarify that infection is always a case of sepsis, not "zombie virus" ([#79956](https://github.com/CleverRaven/Cataclysm-DDA/pull/79956))
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
 * Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
