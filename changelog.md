@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-13-1227 ([862e7d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-1227))
+
+* [MoM] Allow Force Shove to hurl the target in different directions ([#80132](https://github.com/CleverRaven/Cataclysm-DDA/pull/80132))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-13-1002 ([db4cae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-1002))
 
 * Fix typo within design-balance.md ([#80138](https://github.com/CleverRaven/Cataclysm-DDA/pull/80138))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-03-08-0004 ([53e2a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-0004))
 
 * Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-07-2147 ([e73430d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-07-2147))
-
 * Smartgun Mod Location Overhaul ([#80017](https://github.com/CleverRaven/Cataclysm-DDA/pull/80017))
 * Update social.json ([#79984](https://github.com/CleverRaven/Cataclysm-DDA/pull/79984))
 * Fix typo in Rossi Gallery description ([#80047](https://github.com/CleverRaven/Cataclysm-DDA/pull/80047))
@@ -236,7 +237,6 @@
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
-* 'light_multiplier' property for weather_type.json  ([#79963](https://github.com/CleverRaven/Cataclysm-DDA/pull/79963))
 * Fix 0.5 L I1 Diesel engine not consuming fuel ([#79964](https://github.com/CleverRaven/Cataclysm-DDA/pull/79964))
 * Remove old stylish glasses ([#79965](https://github.com/CleverRaven/Cataclysm-DDA/pull/79965))
 * [ Xedra Evolved ] Fix broken itemgroup from #79914 ([#79970](https://github.com/CleverRaven/Cataclysm-DDA/pull/79970))
