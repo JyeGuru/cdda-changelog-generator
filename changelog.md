@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-13-1002 ([db4cae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-1002))
+
+* Fix typo within design-balance.md ([#80138](https://github.com/CleverRaven/Cataclysm-DDA/pull/80138))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-13-0617 ([de84a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-0617))
 
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
@@ -235,4 +241,3 @@
 * Remove old stylish glasses ([#79965](https://github.com/CleverRaven/Cataclysm-DDA/pull/79965))
 * [ Xedra Evolved ] Fix broken itemgroup from #79914 ([#79970](https://github.com/CleverRaven/Cataclysm-DDA/pull/79970))
 * Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
-* Clean up item_demographics ammo ([#79960](https://github.com/CleverRaven/Cataclysm-DDA/pull/79960))
