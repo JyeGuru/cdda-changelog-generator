@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-14-1340 ([2576cdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-14-1340))
+
+* fix crash on wielding nullitem and restore old npc behavior ([#80142](https://github.com/CleverRaven/Cataclysm-DDA/pull/80142))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-14-0032 ([21b6691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-14-0032))
 
 * [MoM] Fix Electron Overflow description ([#80145](https://github.com/CleverRaven/Cataclysm-DDA/pull/80145))
@@ -188,11 +194,6 @@
 * Routine i18n updates on 08 March 2025 ([#80065](https://github.com/CleverRaven/Cataclysm-DDA/pull/80065))
 * [Magiclysm] Fix Stormglove enchant ([#80062](https://github.com/CleverRaven/Cataclysm-DDA/pull/80062))
 * Fix private resort mapgen ([#80057](https://github.com/CleverRaven/Cataclysm-DDA/pull/80057))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-08-1527 ([2ce0c33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-1527))
-
 * Fast food building with drive-through ([#80064](https://github.com/CleverRaven/Cataclysm-DDA/pull/80064))
 * [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs ([#80059](https://github.com/CleverRaven/Cataclysm-DDA/pull/80059))
 * Move sword bayonet from cutting to piercing weapon crafting submenu ([#80044](https://github.com/CleverRaven/Cataclysm-DDA/pull/80044))
@@ -241,4 +242,3 @@
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
 * [ Xedra Evolved ] Fix broken itemgroup from #79914 ([#79970](https://github.com/CleverRaven/Cataclysm-DDA/pull/79970))
-* Fix crash on exiting wield dialog ([#79967](https://github.com/CleverRaven/Cataclysm-DDA/pull/79967))
