@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-15-0553 ([c494234](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-15-0553))
+
 * Fix propane lanterns not consuming propane ([#80148](https://github.com/CleverRaven/Cataclysm-DDA/pull/80148))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-03-09-0542 ([47fbf51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-09-0542))
 
 * 460 S&W reloads ([#80071](https://github.com/CleverRaven/Cataclysm-DDA/pull/80071))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-09-0326 ([8ca1beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-09-0326))
-
 * Change 7.62 and 9mm clip names ([#80075](https://github.com/CleverRaven/Cataclysm-DDA/pull/80075))
 * Fix audio crash ([#80033](https://github.com/CleverRaven/Cataclysm-DDA/pull/80033))
 * Remove camera function from normal smart watch, add advanced smart watch with file storage and camera. ([#80054](https://github.com/CleverRaven/Cataclysm-DDA/pull/80054))
