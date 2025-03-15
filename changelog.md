@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-15-1556 ([c6a738a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-15-1556))
+
 * Update gunstore_nested.json ([#80153](https://github.com/CleverRaven/Cataclysm-DDA/pull/80153))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-03-09-2158 ([70c9324](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-09-2158))
 
 * Easier cattail mission ([#80083](https://github.com/CleverRaven/Cataclysm-DDA/pull/80083))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-09-1925 ([706ad39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-09-1925))
-
 * Edit slime primer description ([#80088](https://github.com/CleverRaven/Cataclysm-DDA/pull/80088))
 * 460 S&W reloads ([#80071](https://github.com/CleverRaven/Cataclysm-DDA/pull/80071))
 * Change 7.62 and 9mm clip names ([#80075](https://github.com/CleverRaven/Cataclysm-DDA/pull/80075))
