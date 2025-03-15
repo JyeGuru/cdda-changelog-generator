@@ -1,3 +1,4 @@
+* Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
 
 ---
 
@@ -236,4 +237,3 @@
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
 * Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
 * Fix uilist.h include ([#79975](https://github.com/CleverRaven/Cataclysm-DDA/pull/79975))
-* [ Xedra Evolved ] Fix broken itemgroup from #79914 ([#79970](https://github.com/CleverRaven/Cataclysm-DDA/pull/79970))
