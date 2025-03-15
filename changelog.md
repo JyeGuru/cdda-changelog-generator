@@ -231,7 +231,6 @@
 * Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
 * [MoM] Gateway now has a volume limit ([#79985](https://github.com/CleverRaven/Cataclysm-DDA/pull/79985))
 * [MoM] Displacement (and Reactive Displacement) now has a volume limit ([#79983](https://github.com/CleverRaven/Cataclysm-DDA/pull/79983))
-* [Aftershock] Fix Telepathic Shield Id ([#79974](https://github.com/CleverRaven/Cataclysm-DDA/pull/79974))
 * Add "MODULE_HOLDER" to flight_helmet so it inherits enchantment from NVGs, fixes #79948 ([#79982](https://github.com/CleverRaven/Cataclysm-DDA/pull/79982))
 * Fix builderror for linux-sound ([#79979](https://github.com/CleverRaven/Cataclysm-DDA/pull/79979))
 * fix Segfault when adding gunmod ([#79978](https://github.com/CleverRaven/Cataclysm-DDA/pull/79978))
