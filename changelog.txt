@@ -1,3 +1,6 @@
+* Update gunstore_nested.json (#80153)
+
+Cataclysm-DDA experimental build 2025-03-15-1309 (581c6c7)
 * Routine i18n updates on 15 March 2025 (#80163)
 
 Cataclysm-DDA experimental build 2025-03-15-0553 (c494234)
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2025-03-09-2158 (70c9324)
 
 Cataclysm-DDA experimental build 2025-03-09-1925 (706ad39)
 * Edit slime primer description (#80088)
-
-Cataclysm-DDA experimental build 2025-03-09-0542 (47fbf51)
 * 460 S&W reloads (#80071)
 * Change 7.62 and 9mm clip names (#80075)
 * Fix audio crash (#80033)
