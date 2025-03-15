@@ -1,3 +1,10 @@
+* Fix propane lanterns not consuming propane ([#80148](https://github.com/CleverRaven/Cataclysm-DDA/pull/80148))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-15-0323 ([8be27ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-15-0323))
+
+* Fix Motorcycle jacket. ([#80158](https://github.com/CleverRaven/Cataclysm-DDA/pull/80158))
 
 ---
 
@@ -137,12 +144,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-03-10-0931 ([214c11a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0931))
-
-* Weekly Changelog 2025-02-24 to 2025-03-03 ([#79968](https://github.com/CleverRaven/Cataclysm-DDA/pull/79968))
-
----
-
 #### Cataclysm-DDA experimental build 2025-03-10-0713 ([31b61af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0713))
 
 * 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
@@ -184,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-03-09-0326 ([8ca1beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-09-0326))
 
 * Change 7.62 and 9mm clip names ([#80075](https://github.com/CleverRaven/Cataclysm-DDA/pull/80075))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-08-1836 ([9035c8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-08-1836))
-
 * Fix audio crash ([#80033](https://github.com/CleverRaven/Cataclysm-DDA/pull/80033))
 * Remove camera function from normal smart watch, add advanced smart watch with file storage and camera. ([#80054](https://github.com/CleverRaven/Cataclysm-DDA/pull/80054))
 * Routine i18n updates on 08 March 2025 ([#80065](https://github.com/CleverRaven/Cataclysm-DDA/pull/80065))
@@ -225,7 +221,6 @@
 * Military basement & quiet farm fixes ([#80014](https://github.com/CleverRaven/Cataclysm-DDA/pull/80014))
 * Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
 * Make AIM actions testable part1: Infrastructure ([#79976](https://github.com/CleverRaven/Cataclysm-DDA/pull/79976))
-* [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn ([#79969](https://github.com/CleverRaven/Cataclysm-DDA/pull/79969))
 * Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
 * [MoM] Person is immune to psionics ([#79986](https://github.com/CleverRaven/Cataclysm-DDA/pull/79986))
 * Added ASCII picture for the Mauser C96 ([#80008](https://github.com/CleverRaven/Cataclysm-DDA/pull/80008))

@@ -1,3 +1,7 @@
+* Fix propane lanterns not consuming propane (#80148)
+
+Cataclysm-DDA experimental build 2025-03-15-0323 (8be27ba)
+* Fix Motorcycle jacket. (#80158)
 
 Cataclysm-DDA experimental build 2025-03-14-1340 (2576cdb)
 * fix crash on wielding nullitem and restore old npc behavior (#80142)
@@ -72,9 +76,6 @@ Cataclysm-DDA experimental build 2025-03-10-1200 (ba492a9)
 * [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs (#80087)
 * Made horde spawn on correct location for remote explosion (#80086)
 
-Cataclysm-DDA experimental build 2025-03-10-0931 (214c11a)
-* Weekly Changelog 2025-02-24 to 2025-03-03 (#79968)
-
 Cataclysm-DDA experimental build 2025-03-10-0713 (31b61af)
 * 460 s&w casings can be used for the pistol cartridge necklaces (#80095)
 
@@ -97,8 +98,6 @@ Cataclysm-DDA experimental build 2025-03-09-0542 (47fbf51)
 
 Cataclysm-DDA experimental build 2025-03-09-0326 (8ca1beb)
 * Change 7.62 and 9mm clip names (#80075)
-
-Cataclysm-DDA experimental build 2025-03-08-1836 (9035c8d)
 * Fix audio crash (#80033)
 * Remove camera function from normal smart watch, add advanced smart watch with file storage and camera. (#80054)
 * Routine i18n updates on 08 March 2025 (#80065)
@@ -135,7 +134,6 @@ Cataclysm-DDA experimental build 2025-03-08-1836 (9035c8d)
 * Military basement & quiet farm fixes (#80014)
 * Add New England flag (#80010)
 * Make AIM actions testable part1: Infrastructure (#79976)
-* [ Xedra Evolved ] Gossamer clothing recipes shouldn't autolearn (#79969)
 * Add variants of glasses (#80012)
 * [MoM] Person is immune to psionics (#79986)
 * Added ASCII picture for the Mauser C96 (#80008)
