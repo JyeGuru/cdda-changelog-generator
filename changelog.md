@@ -223,7 +223,6 @@
 * Revamp FEMA camp into a mutable ([#80013](https://github.com/CleverRaven/Cataclysm-DDA/pull/80013))
 * Military basement & quiet farm fixes ([#80014](https://github.com/CleverRaven/Cataclysm-DDA/pull/80014))
 * Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
-* Make AIM actions testable part1: Infrastructure ([#79976](https://github.com/CleverRaven/Cataclysm-DDA/pull/79976))
 * Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
 * [MoM] Person is immune to psionics ([#79986](https://github.com/CleverRaven/Cataclysm-DDA/pull/79986))
 * Added ASCII picture for the Mauser C96 ([#80008](https://github.com/CleverRaven/Cataclysm-DDA/pull/80008))
