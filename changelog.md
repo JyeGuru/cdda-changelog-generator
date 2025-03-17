@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-17-0016 ([4709821](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-0016))
+
+* XE - Add vampire blood + misc. small vampire changes. ([#80162](https://github.com/CleverRaven/Cataclysm-DDA/pull/80162))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-16-1740 ([65fead0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-16-1740))
 
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
@@ -178,11 +184,6 @@
 * Level spell class dialogue function ([#80080](https://github.com/CleverRaven/Cataclysm-DDA/pull/80080))
 * Ammo box / sunglasses typo fix ([#80066](https://github.com/CleverRaven/Cataclysm-DDA/pull/80066))
 * Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-10-0211 ([407fadd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0211))
-
 * [Mods] Adapt for new `character_takeoff_item` event ([#80061](https://github.com/CleverRaven/Cataclysm-DDA/pull/80061))
 * Easier cattail mission ([#80083](https://github.com/CleverRaven/Cataclysm-DDA/pull/80083))
 * Edit slime primer description ([#80088](https://github.com/CleverRaven/Cataclysm-DDA/pull/80088))
@@ -235,4 +236,3 @@
 * Fix builderror for linux-sound ([#79979](https://github.com/CleverRaven/Cataclysm-DDA/pull/79979))
 * fix Segfault when adding gunmod ([#79978](https://github.com/CleverRaven/Cataclysm-DDA/pull/79978))
 * [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
-* Remove few power tool recipes ([#79977](https://github.com/CleverRaven/Cataclysm-DDA/pull/79977))
