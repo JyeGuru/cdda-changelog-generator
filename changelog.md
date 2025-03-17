@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-17-1628 ([402bcac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-1628))
+
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
 
 ---
@@ -190,11 +195,6 @@
 
 * Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
 * Getting rid of "container" field + general item and itemgroups cleanup, 1/? ([#79999](https://github.com/CleverRaven/Cataclysm-DDA/pull/79999))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-10-1200 ([ba492a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-1200))
-
 * Add simple syrup/corn syrup ([#80073](https://github.com/CleverRaven/Cataclysm-DDA/pull/80073))
 * Allow spells to target vehicles ([#80072](https://github.com/CleverRaven/Cataclysm-DDA/pull/80072))
 * Include a blurb on feature request template to introduce contributing ([#80076](https://github.com/CleverRaven/Cataclysm-DDA/pull/80076))
