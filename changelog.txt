@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Bugfix Gracken Harvest adjustments (#80195)
 
 Cataclysm-DDA experimental build 2025-03-17-1407 (c7ababc)
 * [ Xedra Evolved ] Hedge Luck Spell makes Hedge spells have tab (#80165)
