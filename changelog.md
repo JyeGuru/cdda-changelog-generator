@@ -1,3 +1,16 @@
+* Adjust AR pistol weight ([#80176](https://github.com/CleverRaven/Cataclysm-DDA/pull/80176))
+* Tainted human skulls can be broken down into tainted bones. ([#80150](https://github.com/CleverRaven/Cataclysm-DDA/pull/80150))
+* Fix horde spawn logic ([#80181](https://github.com/CleverRaven/Cataclysm-DDA/pull/80181))
+* Rebalance default zombie evolution possibilites ([#80180](https://github.com/CleverRaven/Cataclysm-DDA/pull/80180))
+* Fix revolver name to match standards ([#80160](https://github.com/CleverRaven/Cataclysm-DDA/pull/80160))
+* Case Hardening is Mild Steel ([#80170](https://github.com/CleverRaven/Cataclysm-DDA/pull/80170))
+* Rename karting to go-kart track ([#80187](https://github.com/CleverRaven/Cataclysm-DDA/pull/80187))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-17-0339 ([6292158](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-0339))
+
+* Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
 
 ---
 
@@ -176,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-03-10-0713 ([31b61af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0713))
 
 * 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-10-0441 ([2708cd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0441))
-
 * Level spell class dialogue function ([#80080](https://github.com/CleverRaven/Cataclysm-DDA/pull/80080))
 * Ammo box / sunglasses typo fix ([#80066](https://github.com/CleverRaven/Cataclysm-DDA/pull/80066))
 * Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
@@ -200,7 +208,6 @@
 * New gun + ammo: 460 S&W ([#80050](https://github.com/CleverRaven/Cataclysm-DDA/pull/80050))
 * Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
 * Smartgun Mod Location Overhaul ([#80017](https://github.com/CleverRaven/Cataclysm-DDA/pull/80017))
-* Update social.json ([#79984](https://github.com/CleverRaven/Cataclysm-DDA/pull/79984))
 * Fix typo in Rossi Gallery description ([#80047](https://github.com/CleverRaven/Cataclysm-DDA/pull/80047))
 * Non-brand names for Exodii magazines ([#80048](https://github.com/CleverRaven/Cataclysm-DDA/pull/80048))
 * Leather jacket variants ([#80042](https://github.com/CleverRaven/Cataclysm-DDA/pull/80042))
@@ -217,7 +224,6 @@
 * Clarify how and when recipe is learned from durasack cement bag ([#80016](https://github.com/CleverRaven/Cataclysm-DDA/pull/80016))
 * Silence compiler warning ([#79996](https://github.com/CleverRaven/Cataclysm-DDA/pull/79996))
 * added missing NULL_ID ([#79995](https://github.com/CleverRaven/Cataclysm-DDA/pull/79995))
-* Generic factory: islot_ammo, islot_bionic, islot_magazine; general islot cleanup ([#79981](https://github.com/CleverRaven/Cataclysm-DDA/pull/79981))
 * Change default vehicle placement chance to 100% ([#80007](https://github.com/CleverRaven/Cataclysm-DDA/pull/80007))
 * Add more items to cars ([#80018](https://github.com/CleverRaven/Cataclysm-DDA/pull/80018))
 * [No hope] More palette cleanup ([#80015](https://github.com/CleverRaven/Cataclysm-DDA/pull/80015))
@@ -230,9 +236,3 @@
 * Move calorie burn visibility to json flag, make smart watch show calorie burn ([#80001](https://github.com/CleverRaven/Cataclysm-DDA/pull/80001))
 * [Infrastructure] Uncanny Dodge Logic Update ([#79988](https://github.com/CleverRaven/Cataclysm-DDA/pull/79988))
 * Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
-* [MoM] Gateway now has a volume limit ([#79985](https://github.com/CleverRaven/Cataclysm-DDA/pull/79985))
-* [MoM] Displacement (and Reactive Displacement) now has a volume limit ([#79983](https://github.com/CleverRaven/Cataclysm-DDA/pull/79983))
-* Add "MODULE_HOLDER" to flight_helmet so it inherits enchantment from NVGs, fixes #79948 ([#79982](https://github.com/CleverRaven/Cataclysm-DDA/pull/79982))
-* Fix builderror for linux-sound ([#79979](https://github.com/CleverRaven/Cataclysm-DDA/pull/79979))
-* fix Segfault when adding gunmod ([#79978](https://github.com/CleverRaven/Cataclysm-DDA/pull/79978))
-* [Xedra Evolved] Finish Imbuement of the Flames ([#79980](https://github.com/CleverRaven/Cataclysm-DDA/pull/79980))
