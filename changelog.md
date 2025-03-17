@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-17-0607 ([30efd18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-0607))
+
 * Add in a few restricted magazines ([#80183](https://github.com/CleverRaven/Cataclysm-DDA/pull/80183))
 * Fix spawn rate of pizzaiolos ([#80179](https://github.com/CleverRaven/Cataclysm-DDA/pull/80179))
 * Casing spawn audit ([#80177](https://github.com/CleverRaven/Cataclysm-DDA/pull/80177))
@@ -188,11 +193,6 @@
 * Include a blurb on feature request template to introduce contributing ([#80076](https://github.com/CleverRaven/Cataclysm-DDA/pull/80076))
 * [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs ([#80087](https://github.com/CleverRaven/Cataclysm-DDA/pull/80087))
 * Made horde spawn on correct location for remote explosion ([#80086](https://github.com/CleverRaven/Cataclysm-DDA/pull/80086))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-10-0713 ([31b61af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-0713))
-
 * 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
 * Level spell class dialogue function ([#80080](https://github.com/CleverRaven/Cataclysm-DDA/pull/80080))
 * Ammo box / sunglasses typo fix ([#80066](https://github.com/CleverRaven/Cataclysm-DDA/pull/80066))
