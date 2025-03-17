@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-17-1407 ([c7ababc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-1407))
+
+* [ Xedra Evolved ] Hedge Luck Spell makes Hedge spells have tab ([#80165](https://github.com/CleverRaven/Cataclysm-DDA/pull/80165))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-17-0607 ([30efd18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-0607))
 
 * Add in a few restricted magazines ([#80183](https://github.com/CleverRaven/Cataclysm-DDA/pull/80183))
@@ -226,7 +232,6 @@
 * Fixing Aftershock Vehicular Autotravel ([#80027](https://github.com/CleverRaven/Cataclysm-DDA/pull/80027))
 * [MoM] Add extra mutation to Alpha to make awakening new paths easier ([#80026](https://github.com/CleverRaven/Cataclysm-DDA/pull/80026))
 * Clarify how and when recipe is learned from durasack cement bag ([#80016](https://github.com/CleverRaven/Cataclysm-DDA/pull/80016))
-* Silence compiler warning ([#79996](https://github.com/CleverRaven/Cataclysm-DDA/pull/79996))
 * Change default vehicle placement chance to 100% ([#80007](https://github.com/CleverRaven/Cataclysm-DDA/pull/80007))
 * Add more items to cars ([#80018](https://github.com/CleverRaven/Cataclysm-DDA/pull/80018))
 * [No hope] More palette cleanup ([#80015](https://github.com/CleverRaven/Cataclysm-DDA/pull/80015))
