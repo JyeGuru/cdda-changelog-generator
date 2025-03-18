@@ -1,3 +1,4 @@
+* Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
 
 ---
 
@@ -241,5 +242,4 @@
 * Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
 * Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
 * Added ASCII picture for the Mauser C96 ([#80008](https://github.com/CleverRaven/Cataclysm-DDA/pull/80008))
-* Move calorie burn visibility to json flag, make smart watch show calorie burn ([#80001](https://github.com/CleverRaven/Cataclysm-DDA/pull/80001))
 * Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
