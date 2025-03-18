@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-18-0937 ([431ea8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-0937))
+
 * Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-03-10-1951 ([c14c3b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-1951))
 
 * 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-10-1731 ([b6fcf1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-1731))
-
 * fixed audio (we're done here) ([#80084](https://github.com/CleverRaven/Cataclysm-DDA/pull/80084))
 * Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
 * Add simple syrup/corn syrup ([#80073](https://github.com/CleverRaven/Cataclysm-DDA/pull/80073))
