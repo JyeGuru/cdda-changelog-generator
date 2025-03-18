@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-18-1735 ([b0df3aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-1735))
+
+* Fix t_reinforced_glass_lab breaks microlab's computer release actions #80175 ([#80196](https://github.com/CleverRaven/Cataclysm-DDA/pull/80196))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-18-0937 ([431ea8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-0937))
 
 * Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-03-11-0016 ([391b420](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-0016))
 
 * Chill down prepper zed spawns ([#80110](https://github.com/CleverRaven/Cataclysm-DDA/pull/80110))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-10-1951 ([c14c3b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-10-1951))
-
 * 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
 * fixed audio (we're done here) ([#80084](https://github.com/CleverRaven/Cataclysm-DDA/pull/80084))
 * Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
@@ -242,4 +243,3 @@
 * Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
 * Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
 * Added ASCII picture for the Mauser C96 ([#80008](https://github.com/CleverRaven/Cataclysm-DDA/pull/80008))
-* Add pre_note for fenses with DIGGABLE requirement ([#80002](https://github.com/CleverRaven/Cataclysm-DDA/pull/80002))
