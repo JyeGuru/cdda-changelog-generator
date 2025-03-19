@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-19-2127 ([342dfa1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-2127))
+
 * Amalgamations can spawn naturally ([#80219](https://github.com/CleverRaven/Cataclysm-DDA/pull/80219))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-03-12-0634 ([507a271](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-12-0634))
 
 * Add TOUGH_FEET to Rabbit Feet Mutation ([#80124](https://github.com/CleverRaven/Cataclysm-DDA/pull/80124))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-11-1347 ([fbc6652](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-1347))
-
 * IWYU the codebase, part 3/? ([#80116](https://github.com/CleverRaven/Cataclysm-DDA/pull/80116))
 * Further IWYU CI fixes ([#80089](https://github.com/CleverRaven/Cataclysm-DDA/pull/80089))
 * Spreading dogbane is now harvestable ([#80111](https://github.com/CleverRaven/Cataclysm-DDA/pull/80111))
