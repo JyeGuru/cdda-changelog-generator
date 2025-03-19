@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-19-0756 ([5a3788e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-0756))
+
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk ([#80202](https://github.com/CleverRaven/Cataclysm-DDA/pull/80202))
 * checkwielded->has_item BEFORE unwielding ([#80197](https://github.com/CleverRaven/Cataclysm-DDA/pull/80197))
 * Aftershock: Damage rebalance part VI (Moster melee die) ([#80174](https://github.com/CleverRaven/Cataclysm-DDA/pull/80174))
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-03-11-0500 ([0e6fe89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-0500))
 
 * Inhaler and Antibiotics Mission Audit ([#80115](https://github.com/CleverRaven/Cataclysm-DDA/pull/80115))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-11-0242 ([a1db706](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-0242))
-
 * Prevent advanced item management move count_by_charge item  into nested pocket. ([#80039](https://github.com/CleverRaven/Cataclysm-DDA/pull/80039))
 * Chill down prepper zed spawns ([#80110](https://github.com/CleverRaven/Cataclysm-DDA/pull/80110))
 * 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
