@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-19-1018 ([165202a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-1018))
+
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
 
 ---
@@ -197,11 +202,6 @@
 
 * Spreading dogbane is now harvestable ([#80111](https://github.com/CleverRaven/Cataclysm-DDA/pull/80111))
 * Isolation Protocol: XEDRA remediator >> Rework of  officer class ([#80107](https://github.com/CleverRaven/Cataclysm-DDA/pull/80107))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-11-0500 ([0e6fe89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-11-0500))
-
 * Inhaler and Antibiotics Mission Audit ([#80115](https://github.com/CleverRaven/Cataclysm-DDA/pull/80115))
 * Prevent advanced item management move count_by_charge item  into nested pocket. ([#80039](https://github.com/CleverRaven/Cataclysm-DDA/pull/80039))
 * Chill down prepper zed spawns ([#80110](https://github.com/CleverRaven/Cataclysm-DDA/pull/80110))
