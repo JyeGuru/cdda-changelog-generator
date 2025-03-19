@@ -1,3 +1,4 @@
+* fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
 
 ---
 
@@ -241,4 +242,3 @@
 * Make bag_durasack_cement teach recipe like an actual book ([#80034](https://github.com/CleverRaven/Cataclysm-DDA/pull/80034))
 * Generic_factory: islot_mod, islot_gunmod, islot_tool ([#80029](https://github.com/CleverRaven/Cataclysm-DDA/pull/80029))
 * Move the dancing zombie red jeans to Crazy Cata where they actually spawn ([#80030](https://github.com/CleverRaven/Cataclysm-DDA/pull/80030))
-* Fixing Aftershock Vehicular Autotravel ([#80027](https://github.com/CleverRaven/Cataclysm-DDA/pull/80027))
