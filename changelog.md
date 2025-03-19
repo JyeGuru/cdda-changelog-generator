@@ -1,3 +1,7 @@
+* passable -> passable_through ([#80186](https://github.com/CleverRaven/Cataclysm-DDA/pull/80186))
+* Add android build to the CI matrix ([#80212](https://github.com/CleverRaven/Cataclysm-DDA/pull/80212))
+* Add a few common guns ([#80200](https://github.com/CleverRaven/Cataclysm-DDA/pull/80200))
+* Aftershock Damage rebalance VII??:  Actually reblanace the entire game's armor damage formula instead ([#80193](https://github.com/CleverRaven/Cataclysm-DDA/pull/80193))
 * [MoM] Fix Apportation ([#80207](https://github.com/CleverRaven/Cataclysm-DDA/pull/80207))
 
 ---
@@ -239,7 +243,3 @@
 * Clarify how and when recipe is learned from durasack cement bag ([#80016](https://github.com/CleverRaven/Cataclysm-DDA/pull/80016))
 * Add more items to cars ([#80018](https://github.com/CleverRaven/Cataclysm-DDA/pull/80018))
 * [No hope] More palette cleanup ([#80015](https://github.com/CleverRaven/Cataclysm-DDA/pull/80015))
-* Revamp FEMA camp into a mutable ([#80013](https://github.com/CleverRaven/Cataclysm-DDA/pull/80013))
-* Military basement & quiet farm fixes ([#80014](https://github.com/CleverRaven/Cataclysm-DDA/pull/80014))
-* Add New England flag ([#80010](https://github.com/CleverRaven/Cataclysm-DDA/pull/80010))
-* Add variants of glasses ([#80012](https://github.com/CleverRaven/Cataclysm-DDA/pull/80012))
