@@ -242,4 +242,3 @@
 * [MoM] Add extra mutation to Alpha to make awakening new paths easier ([#80026](https://github.com/CleverRaven/Cataclysm-DDA/pull/80026))
 * Clarify how and when recipe is learned from durasack cement bag ([#80016](https://github.com/CleverRaven/Cataclysm-DDA/pull/80016))
 * Add more items to cars ([#80018](https://github.com/CleverRaven/Cataclysm-DDA/pull/80018))
-* [No hope] More palette cleanup ([#80015](https://github.com/CleverRaven/Cataclysm-DDA/pull/80015))
