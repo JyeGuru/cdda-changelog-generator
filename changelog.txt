@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-20-1339 (3371cdf)
+* Weekly Changelog 2025-03-10 to 2025-03-17 (#80194)
+
 Cataclysm-DDA experimental build 2025-03-20-1021 (1fa0840)
 * Weekly Changelog 2025-03-03 to 2025-03-10 (#80104)
 * Add primitive_ranged_weapon flag to rail-mounted crossbow (#80235)
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2025-03-13-0617 (de84a10)
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster (#80129)
 * Some Profession Worn Item Fix (#80133)
 * Allow generic-factory loaded objects to defer load (#80127)
-
-Cataclysm-DDA experimental build 2025-03-13-0328 (1345a1e)
 * Remove `edible` field from materials (#80097)
 * Update snow shovel, metal rake deconstruction recipe (#80123)
 * expand _die eoc function (#80092)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2025-03-13-0328 (1345a1e)
 * Add ``character_takeoff_item`` event (#80051)
 * Fix typo in Rossi Gallery description (#80047)
 * Non-brand names for Exodii magazines (#80048)
-* Milspec Searchlights Don't Explode (#80046)

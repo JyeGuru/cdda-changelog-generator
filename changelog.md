@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-20-1339 ([3371cdf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1339))
+
+* Weekly Changelog 2025-03-10 to 2025-03-17 ([#80194](https://github.com/CleverRaven/Cataclysm-DDA/pull/80194))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-20-1021 ([1fa0840](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1021))
 
 * Weekly Changelog 2025-03-03 to 2025-03-10 ([#80104](https://github.com/CleverRaven/Cataclysm-DDA/pull/80104))
@@ -198,11 +204,6 @@
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
 * Some Profession Worn Item Fix ([#80133](https://github.com/CleverRaven/Cataclysm-DDA/pull/80133))
 * Allow generic-factory loaded objects to defer load ([#80127](https://github.com/CleverRaven/Cataclysm-DDA/pull/80127))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-13-0328 ([1345a1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-0328))
-
 * Remove `edible` field from materials ([#80097](https://github.com/CleverRaven/Cataclysm-DDA/pull/80097))
 * Update snow shovel, metal rake deconstruction recipe ([#80123](https://github.com/CleverRaven/Cataclysm-DDA/pull/80123))
 * expand _die eoc function ([#80092](https://github.com/CleverRaven/Cataclysm-DDA/pull/80092))
@@ -241,4 +242,3 @@
 * Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
 * Fix typo in Rossi Gallery description ([#80047](https://github.com/CleverRaven/Cataclysm-DDA/pull/80047))
 * Non-brand names for Exodii magazines ([#80048](https://github.com/CleverRaven/Cataclysm-DDA/pull/80048))
-* Milspec Searchlights Don't Explode ([#80046](https://github.com/CleverRaven/Cataclysm-DDA/pull/80046))
