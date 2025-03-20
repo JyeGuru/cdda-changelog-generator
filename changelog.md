@@ -1,3 +1,4 @@
+* Port over stop signs from CTLG ([#80231](https://github.com/CleverRaven/Cataclysm-DDA/pull/80231))
 
 ---
 
@@ -208,7 +209,6 @@
 * Spreading dogbane is now harvestable ([#80111](https://github.com/CleverRaven/Cataclysm-DDA/pull/80111))
 * Isolation Protocol: XEDRA remediator >> Rework of  officer class ([#80107](https://github.com/CleverRaven/Cataclysm-DDA/pull/80107))
 * Inhaler and Antibiotics Mission Audit ([#80115](https://github.com/CleverRaven/Cataclysm-DDA/pull/80115))
-* Prevent advanced item management move count_by_charge item  into nested pocket. ([#80039](https://github.com/CleverRaven/Cataclysm-DDA/pull/80039))
 * Chill down prepper zed spawns ([#80110](https://github.com/CleverRaven/Cataclysm-DDA/pull/80110))
 * 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
 * fixed audio (we're done here) ([#80084](https://github.com/CleverRaven/Cataclysm-DDA/pull/80084))

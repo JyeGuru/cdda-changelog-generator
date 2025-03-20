@@ -1,3 +1,4 @@
+* Port over stop signs from CTLG (#80231)
 
 Cataclysm-DDA experimental build 2025-03-20-0440 (4e2dc71)
 * FEMA camp mutable bus area (#80222)
@@ -118,7 +119,6 @@ Cataclysm-DDA experimental build 2025-03-12-1420 (2003df9)
 * Spreading dogbane is now harvestable (#80111)
 * Isolation Protocol: XEDRA remediator >> Rework of  officer class (#80107)
 * Inhaler and Antibiotics Mission Audit (#80115)
-* Prevent advanced item management move count_by_charge item  into nested pocket. (#80039)
 * Chill down prepper zed spawns (#80110)
 * 'None'-skill crafting counts as max level, not level 0 (#80101)
 * fixed audio (we're done here) (#80084)
