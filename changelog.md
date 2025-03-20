@@ -1,3 +1,10 @@
+* Weekly Changelog 2025-03-03 to 2025-03-10 ([#80104](https://github.com/CleverRaven/Cataclysm-DDA/pull/80104))
+* Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-20-0710 ([934464d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-0710))
+
 * Light industry car & zombie spawns ([#80223](https://github.com/CleverRaven/Cataclysm-DDA/pull/80223))
 * Add more damage to dumpsites ([#80224](https://github.com/CleverRaven/Cataclysm-DDA/pull/80224))
 * Remove AI reference in alarm barred windows ([#80225](https://github.com/CleverRaven/Cataclysm-DDA/pull/80225))
@@ -198,12 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-03-12-1652 ([3e7c41d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-12-1652))
 
 * Update snow shovel, metal rake deconstruction recipe ([#80123](https://github.com/CleverRaven/Cataclysm-DDA/pull/80123))
-* [Isolation Protocol] Add the Last Scion class ([#80043](https://github.com/CleverRaven/Cataclysm-DDA/pull/80043))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-12-1420 ([2003df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-12-1420))
-
 * expand _die eoc function ([#80092](https://github.com/CleverRaven/Cataclysm-DDA/pull/80092))
 * Fix aim query charges not considering pocket limitations ([#80118](https://github.com/CleverRaven/Cataclysm-DDA/pull/80118))
 * Add TOUGH_FEET to Rabbit Feet Mutation ([#80124](https://github.com/CleverRaven/Cataclysm-DDA/pull/80124))
@@ -236,7 +237,6 @@
 * Fix private resort mapgen ([#80057](https://github.com/CleverRaven/Cataclysm-DDA/pull/80057))
 * Fast food building with drive-through ([#80064](https://github.com/CleverRaven/Cataclysm-DDA/pull/80064))
 * [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs ([#80059](https://github.com/CleverRaven/Cataclysm-DDA/pull/80059))
-* Move sword bayonet from cutting to piercing weapon crafting submenu ([#80044](https://github.com/CleverRaven/Cataclysm-DDA/pull/80044))
 * New gun + ammo: 460 S&W ([#80050](https://github.com/CleverRaven/Cataclysm-DDA/pull/80050))
 * Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
 * Fix typo in Rossi Gallery description ([#80047](https://github.com/CleverRaven/Cataclysm-DDA/pull/80047))
