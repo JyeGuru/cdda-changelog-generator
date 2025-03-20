@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-20-1645 ([2c29d9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1645))
+
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
 
 ---
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-03-13-1002 ([db4cae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-1002))
 
 * Fix typo within design-balance.md ([#80138](https://github.com/CleverRaven/Cataclysm-DDA/pull/80138))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-13-0617 ([de84a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-0617))
-
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
 * Some Profession Worn Item Fix ([#80133](https://github.com/CleverRaven/Cataclysm-DDA/pull/80133))
 * Allow generic-factory loaded objects to defer load ([#80127](https://github.com/CleverRaven/Cataclysm-DDA/pull/80127))
