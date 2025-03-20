@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-20-2152 (e2f348b)
+* fix incorrect punctuation in techniques (#80239)
+
 Cataclysm-DDA experimental build 2025-03-20-1645 (2c29d9a)
 * Add baking soda to pantries (#80240)
 
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2025-03-13-1946 (a7c058a)
 
 Cataclysm-DDA experimental build 2025-03-13-1227 (862e7d3)
 * [MoM] Allow Force Shove to hurl the target in different directions (#80132)
-
-Cataclysm-DDA experimental build 2025-03-13-1002 (db4cae5)
 * Fix typo within design-balance.md (#80138)
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster (#80129)
 * Some Profession Worn Item Fix (#80133)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2025-03-13-1002 (db4cae5)
 * Fix private resort mapgen (#80057)
 * Fast food building with drive-through (#80064)
 * [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs (#80059)
-* New gun + ammo: 460 S&W (#80050)
 * Add ``character_takeoff_item`` event (#80051)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-20-2152 ([e2f348b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-2152))
+
+* fix incorrect punctuation in techniques ([#80239](https://github.com/CleverRaven/Cataclysm-DDA/pull/80239))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-20-1645 ([2c29d9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1645))
 
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
@@ -196,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-03-13-1227 ([862e7d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-1227))
 
 * [MoM] Allow Force Shove to hurl the target in different directions ([#80132](https://github.com/CleverRaven/Cataclysm-DDA/pull/80132))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-13-1002 ([db4cae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-1002))
-
 * Fix typo within design-balance.md ([#80138](https://github.com/CleverRaven/Cataclysm-DDA/pull/80138))
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
 * Some Profession Worn Item Fix ([#80133](https://github.com/CleverRaven/Cataclysm-DDA/pull/80133))
@@ -239,5 +240,4 @@
 * Fix private resort mapgen ([#80057](https://github.com/CleverRaven/Cataclysm-DDA/pull/80057))
 * Fast food building with drive-through ([#80064](https://github.com/CleverRaven/Cataclysm-DDA/pull/80064))
 * [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs ([#80059](https://github.com/CleverRaven/Cataclysm-DDA/pull/80059))
-* New gun + ammo: 460 S&W ([#80050](https://github.com/CleverRaven/Cataclysm-DDA/pull/80050))
 * Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
