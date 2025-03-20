@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-20-1021 ([1fa0840](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1021))
+
 * Weekly Changelog 2025-03-03 to 2025-03-10 ([#80104](https://github.com/CleverRaven/Cataclysm-DDA/pull/80104))
 * Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
 
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-03-13-0328 ([1345a1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-0328))
 
 * Remove `edible` field from materials ([#80097](https://github.com/CleverRaven/Cataclysm-DDA/pull/80097))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-12-1652 ([3e7c41d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-12-1652))
-
 * Update snow shovel, metal rake deconstruction recipe ([#80123](https://github.com/CleverRaven/Cataclysm-DDA/pull/80123))
 * expand _die eoc function ([#80092](https://github.com/CleverRaven/Cataclysm-DDA/pull/80092))
 * Fix aim query charges not considering pocket limitations ([#80118](https://github.com/CleverRaven/Cataclysm-DDA/pull/80118))
