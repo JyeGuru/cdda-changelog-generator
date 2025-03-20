@@ -1,3 +1,4 @@
+* Add baking soda to pantries (#80240)
 
 Cataclysm-DDA experimental build 2025-03-20-1339 (3371cdf)
 * Weekly Changelog 2025-03-10 to 2025-03-17 (#80194)
@@ -150,5 +151,4 @@ Cataclysm-DDA experimental build 2025-03-13-0617 (de84a10)
 * [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs (#80059)
 * New gun + ammo: 460 S&W (#80050)
 * Add ``character_takeoff_item`` event (#80051)
-* Fix typo in Rossi Gallery description (#80047)
 * Non-brand names for Exodii magazines (#80048)

@@ -1,3 +1,4 @@
+* Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
 
 ---
 
@@ -240,5 +241,4 @@
 * [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs ([#80059](https://github.com/CleverRaven/Cataclysm-DDA/pull/80059))
 * New gun + ammo: 460 S&W ([#80050](https://github.com/CleverRaven/Cataclysm-DDA/pull/80050))
 * Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
-* Fix typo in Rossi Gallery description ([#80047](https://github.com/CleverRaven/Cataclysm-DDA/pull/80047))
 * Non-brand names for Exodii magazines ([#80048](https://github.com/CleverRaven/Cataclysm-DDA/pull/80048))
