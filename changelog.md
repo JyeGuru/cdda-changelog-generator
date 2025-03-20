@@ -241,4 +241,3 @@
 * [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs ([#80059](https://github.com/CleverRaven/Cataclysm-DDA/pull/80059))
 * New gun + ammo: 460 S&W ([#80050](https://github.com/CleverRaven/Cataclysm-DDA/pull/80050))
 * Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
-* Non-brand names for Exodii magazines ([#80048](https://github.com/CleverRaven/Cataclysm-DDA/pull/80048))
