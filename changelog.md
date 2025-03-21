@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-21-1725 ([0033293](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-1725))
+
 * Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
 
 ---
@@ -212,11 +217,6 @@
 #### Cataclysm-DDA experimental build 2025-03-14-1340 ([2576cdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-14-1340))
 
 * fix crash on wielding nullitem and restore old npc behavior ([#80142](https://github.com/CleverRaven/Cataclysm-DDA/pull/80142))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-14-0032 ([21b6691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-14-0032))
-
 * [MoM] Fix Electron Overflow description ([#80145](https://github.com/CleverRaven/Cataclysm-DDA/pull/80145))
 * [MoM] Further telekinetic throwing elements ([#80144](https://github.com/CleverRaven/Cataclysm-DDA/pull/80144))
 * [MoM] Items with bionic power aren't part of the Electron Overflow count ([#80135](https://github.com/CleverRaven/Cataclysm-DDA/pull/80135))
