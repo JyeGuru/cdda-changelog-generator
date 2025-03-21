@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-21-1503 ([6c219f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-1503))
+
+* Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-21-0858 ([b97884a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-0858))
 
 * Vampire weaknesses ([#80204](https://github.com/CleverRaven/Cataclysm-DDA/pull/80204))
@@ -211,11 +217,6 @@
 #### Cataclysm-DDA experimental build 2025-03-14-0032 ([21b6691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-14-0032))
 
 * [MoM] Fix Electron Overflow description ([#80145](https://github.com/CleverRaven/Cataclysm-DDA/pull/80145))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-13-2209 ([e38c367](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-2209))
-
 * [MoM] Further telekinetic throwing elements ([#80144](https://github.com/CleverRaven/Cataclysm-DDA/pull/80144))
 * [MoM] Items with bionic power aren't part of the Electron Overflow count ([#80135](https://github.com/CleverRaven/Cataclysm-DDA/pull/80135))
 * [MoM] Allow Force Shove to hurl the target in different directions ([#80132](https://github.com/CleverRaven/Cataclysm-DDA/pull/80132))
@@ -241,5 +242,4 @@
 * Made horde spawn on correct location for remote explosion ([#80086](https://github.com/CleverRaven/Cataclysm-DDA/pull/80086))
 * 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
 * Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
-* Easier cattail mission ([#80083](https://github.com/CleverRaven/Cataclysm-DDA/pull/80083))
 * Edit slime primer description ([#80088](https://github.com/CleverRaven/Cataclysm-DDA/pull/80088))
