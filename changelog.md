@@ -1,3 +1,4 @@
+* Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
 
 ---
 
@@ -236,7 +237,6 @@
 * Inhaler and Antibiotics Mission Audit ([#80115](https://github.com/CleverRaven/Cataclysm-DDA/pull/80115))
 * Chill down prepper zed spawns ([#80110](https://github.com/CleverRaven/Cataclysm-DDA/pull/80110))
 * 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
-* fixed audio (we're done here) ([#80084](https://github.com/CleverRaven/Cataclysm-DDA/pull/80084))
 * Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
 * [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs ([#80087](https://github.com/CleverRaven/Cataclysm-DDA/pull/80087))
 * Made horde spawn on correct location for remote explosion ([#80086](https://github.com/CleverRaven/Cataclysm-DDA/pull/80086))
