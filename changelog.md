@@ -1,3 +1,5 @@
+* Vampire weaknesses ([#80204](https://github.com/CleverRaven/Cataclysm-DDA/pull/80204))
+* More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
 * [Xedra Evolved] More changeling seasonal glamours ([#80125](https://github.com/CleverRaven/Cataclysm-DDA/pull/80125))
 * Item description: Expand `Can be stored in:` from (broken) holsters to all wearables. ([#80203](https://github.com/CleverRaven/Cataclysm-DDA/pull/80203))
 * 5.7 SS195LF Civilian Rounds ([#80232](https://github.com/CleverRaven/Cataclysm-DDA/pull/80232))
@@ -238,7 +240,6 @@
 * [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs ([#80087](https://github.com/CleverRaven/Cataclysm-DDA/pull/80087))
 * Made horde spawn on correct location for remote explosion ([#80086](https://github.com/CleverRaven/Cataclysm-DDA/pull/80086))
 * 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
-* Level spell class dialogue function ([#80080](https://github.com/CleverRaven/Cataclysm-DDA/pull/80080))
 * Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
 * Easier cattail mission ([#80083](https://github.com/CleverRaven/Cataclysm-DDA/pull/80083))
 * Edit slime primer description ([#80088](https://github.com/CleverRaven/Cataclysm-DDA/pull/80088))
