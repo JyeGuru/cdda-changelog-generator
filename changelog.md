@@ -1,3 +1,14 @@
+* [MoM] Fix teleportation EoCs checking integrated item volume ([#80242](https://github.com/CleverRaven/Cataclysm-DDA/pull/80242))
+* Fix #80245 null pointer while swapping position with a monster ([#80254](https://github.com/CleverRaven/Cataclysm-DDA/pull/80254))
+* Weed snippet fix ([#80248](https://github.com/CleverRaven/Cataclysm-DDA/pull/80248))
+* Electronic stores have more appliances ([#80247](https://github.com/CleverRaven/Cataclysm-DDA/pull/80247))
+* Fix palette issue in house_w_5 ([#80246](https://github.com/CleverRaven/Cataclysm-DDA/pull/80246))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-21-0628 ([24a9884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-0628))
+
+* Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))
 
 ---
 
@@ -196,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2025-03-13-1946 ([a7c058a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-1946))
 
 * [MoM] Items with bionic power aren't part of the Electron Overflow count ([#80135](https://github.com/CleverRaven/Cataclysm-DDA/pull/80135))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-13-1227 ([862e7d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-13-1227))
-
 * [MoM] Allow Force Shove to hurl the target in different directions ([#80132](https://github.com/CleverRaven/Cataclysm-DDA/pull/80132))
 * Fix typo within design-balance.md ([#80138](https://github.com/CleverRaven/Cataclysm-DDA/pull/80138))
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
@@ -229,15 +235,9 @@
 * Level spell class dialogue function ([#80080](https://github.com/CleverRaven/Cataclysm-DDA/pull/80080))
 * Ammo box / sunglasses typo fix ([#80066](https://github.com/CleverRaven/Cataclysm-DDA/pull/80066))
 * Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
-* [Mods] Adapt for new `character_takeoff_item` event ([#80061](https://github.com/CleverRaven/Cataclysm-DDA/pull/80061))
 * Easier cattail mission ([#80083](https://github.com/CleverRaven/Cataclysm-DDA/pull/80083))
 * Edit slime primer description ([#80088](https://github.com/CleverRaven/Cataclysm-DDA/pull/80088))
 * 460 S&W reloads ([#80071](https://github.com/CleverRaven/Cataclysm-DDA/pull/80071))
 * Change 7.62 and 9mm clip names ([#80075](https://github.com/CleverRaven/Cataclysm-DDA/pull/80075))
-* Remove camera function from normal smart watch, add advanced smart watch with file storage and camera. ([#80054](https://github.com/CleverRaven/Cataclysm-DDA/pull/80054))
 * Routine i18n updates on 08 March 2025 ([#80065](https://github.com/CleverRaven/Cataclysm-DDA/pull/80065))
-* [Magiclysm] Fix Stormglove enchant ([#80062](https://github.com/CleverRaven/Cataclysm-DDA/pull/80062))
-* Fix private resort mapgen ([#80057](https://github.com/CleverRaven/Cataclysm-DDA/pull/80057))
 * Fast food building with drive-through ([#80064](https://github.com/CleverRaven/Cataclysm-DDA/pull/80064))
-* [Xedra Evolved] Add Breeze-Cutting Blows trait/spell for Sylphs ([#80059](https://github.com/CleverRaven/Cataclysm-DDA/pull/80059))
-* Add ``character_takeoff_item`` event ([#80051](https://github.com/CleverRaven/Cataclysm-DDA/pull/80051))
