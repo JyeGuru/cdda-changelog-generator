@@ -1,3 +1,5 @@
+* [Xedra Evolved] More changeling seasonal glamours ([#80125](https://github.com/CleverRaven/Cataclysm-DDA/pull/80125))
+* Item description: Expand `Can be stored in:` from (broken) holsters to all wearables. ([#80203](https://github.com/CleverRaven/Cataclysm-DDA/pull/80203))
 * 5.7 SS195LF Civilian Rounds ([#80232](https://github.com/CleverRaven/Cataclysm-DDA/pull/80232))
 * Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
 * Fix Character::recalc_speed_bonus call position error，which cause #75484 and some other bugs. ([#80218](https://github.com/CleverRaven/Cataclysm-DDA/pull/80218))
@@ -233,7 +235,6 @@
 * 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
 * fixed audio (we're done here) ([#80084](https://github.com/CleverRaven/Cataclysm-DDA/pull/80084))
 * Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
-* Include a blurb on feature request template to introduce contributing ([#80076](https://github.com/CleverRaven/Cataclysm-DDA/pull/80076))
 * [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs ([#80087](https://github.com/CleverRaven/Cataclysm-DDA/pull/80087))
 * Made horde spawn on correct location for remote explosion ([#80086](https://github.com/CleverRaven/Cataclysm-DDA/pull/80086))
 * 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
