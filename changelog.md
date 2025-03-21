@@ -1,3 +1,4 @@
+* Show appropriate message when trying to pulp acid corpses without protection or immunity ([#80249](https://github.com/CleverRaven/Cataclysm-DDA/pull/80249))
 
 ---
 
@@ -239,7 +240,6 @@
 * 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
 * Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
 * [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs ([#80087](https://github.com/CleverRaven/Cataclysm-DDA/pull/80087))
-* Made horde spawn on correct location for remote explosion ([#80086](https://github.com/CleverRaven/Cataclysm-DDA/pull/80086))
 * 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
 * Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
 * Edit slime primer description ([#80088](https://github.com/CleverRaven/Cataclysm-DDA/pull/80088))

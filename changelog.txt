@@ -1,3 +1,4 @@
+* Show appropriate message when trying to pulp acid corpses without protection or immunity (#80249)
 
 Cataclysm-DDA experimental build 2025-03-21-1725 (0033293)
 * Remove duplicate character_takeoff_item entries from the document. (#80266)
@@ -149,7 +150,6 @@ Cataclysm-DDA experimental build 2025-03-14-1340 (2576cdb)
 * 'None'-skill crafting counts as max level, not level 0 (#80101)
 * Add some debug plumbing to NPC query_yn (#80102)
 * [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs (#80087)
-* Made horde spawn on correct location for remote explosion (#80086)
 * 460 s&w casings can be used for the pistol cartridge necklaces (#80095)
 * Helicopters don't fall out of the sky on z-level 0 (#80091)
 * Edit slime primer description (#80088)
