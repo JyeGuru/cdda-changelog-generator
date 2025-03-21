@@ -1,3 +1,4 @@
+* 5.7 SS195LF Civilian Rounds ([#80232](https://github.com/CleverRaven/Cataclysm-DDA/pull/80232))
 * Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
 * Fix Character::recalc_speed_bonus call position error，which cause #75484 and some other bugs. ([#80218](https://github.com/CleverRaven/Cataclysm-DDA/pull/80218))
 * Fix apiary bash results ([#80234](https://github.com/CleverRaven/Cataclysm-DDA/pull/80234))
@@ -240,4 +241,3 @@
 * Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
 * Easier cattail mission ([#80083](https://github.com/CleverRaven/Cataclysm-DDA/pull/80083))
 * Edit slime primer description ([#80088](https://github.com/CleverRaven/Cataclysm-DDA/pull/80088))
-* Change 7.62 and 9mm clip names ([#80075](https://github.com/CleverRaven/Cataclysm-DDA/pull/80075))
