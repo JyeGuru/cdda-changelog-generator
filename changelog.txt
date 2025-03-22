@@ -1,3 +1,7 @@
+* Leech plants are part of EOC_IS_ELECTRIC (#80259)
+
+Cataclysm-DDA experimental build 2025-03-22-0318 (340dc01)
+* Fix mortar typo (#80270)
 
 Cataclysm-DDA experimental build 2025-03-21-1953 (11b4b17)
 * Show appropriate message when trying to pulp acid corpses without protection or immunity (#80249)
@@ -124,8 +128,6 @@ Cataclysm-DDA experimental build 2025-03-15-1309 (581c6c7)
 
 Cataclysm-DDA experimental build 2025-03-15-0553 (c494234)
 * Fix propane lanterns not consuming propane (#80148)
-
-Cataclysm-DDA experimental build 2025-03-15-0323 (8be27ba)
 * Fix Motorcycle jacket. (#80158)
 * fix crash on wielding nullitem and restore old npc behavior (#80142)
 * [MoM] Fix Electron Overflow description (#80145)
@@ -149,7 +151,5 @@ Cataclysm-DDA experimental build 2025-03-15-0323 (8be27ba)
 * Chill down prepper zed spawns (#80110)
 * 'None'-skill crafting counts as max level, not level 0 (#80101)
 * Add some debug plumbing to NPC query_yn (#80102)
-* [Infrastructure] Extend CANNOT_ATTACK and CANNOT_MOVE flags to NPCs (#80087)
 * 460 s&w casings can be used for the pistol cartridge necklaces (#80095)
 * Helicopters don't fall out of the sky on z-level 0 (#80091)
-* Edit slime primer description (#80088)
