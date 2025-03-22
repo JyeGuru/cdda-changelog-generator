@@ -1,3 +1,14 @@
+* [XEDRA Evolved] The Noon ([#80280](https://github.com/CleverRaven/Cataclysm-DDA/pull/80280))
+* Fix palette issues in hosue_inner_garden ([#80276](https://github.com/CleverRaven/Cataclysm-DDA/pull/80276))
+* The Flat-coated retriever: In memory of Elwood ([#80272](https://github.com/CleverRaven/Cataclysm-DDA/pull/80272))
+* Revamp the gas station ([#80262](https://github.com/CleverRaven/Cataclysm-DDA/pull/80262))
+* Add some more empty containers to trash itemgroups ([#80281](https://github.com/CleverRaven/Cataclysm-DDA/pull/80281))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-22-1417 ([65ec7c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-22-1417))
+
+* Routine i18n updates on 22 March 2025 ([#80278](https://github.com/CleverRaven/Cataclysm-DDA/pull/80278))
 
 ---
 
@@ -212,11 +223,6 @@
 #### Cataclysm-DDA experimental build 2025-03-15-1556 ([c6a738a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-15-1556))
 
 * Update gunstore_nested.json ([#80153](https://github.com/CleverRaven/Cataclysm-DDA/pull/80153))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-15-1309 ([581c6c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-15-1309))
-
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
 * Fix propane lanterns not consuming propane ([#80148](https://github.com/CleverRaven/Cataclysm-DDA/pull/80148))
 * Fix Motorcycle jacket. ([#80158](https://github.com/CleverRaven/Cataclysm-DDA/pull/80158))
@@ -229,9 +235,7 @@
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
 * Some Profession Worn Item Fix ([#80133](https://github.com/CleverRaven/Cataclysm-DDA/pull/80133))
 * Allow generic-factory loaded objects to defer load ([#80127](https://github.com/CleverRaven/Cataclysm-DDA/pull/80127))
-* Remove `edible` field from materials ([#80097](https://github.com/CleverRaven/Cataclysm-DDA/pull/80097))
 * Update snow shovel, metal rake deconstruction recipe ([#80123](https://github.com/CleverRaven/Cataclysm-DDA/pull/80123))
-* expand _die eoc function ([#80092](https://github.com/CleverRaven/Cataclysm-DDA/pull/80092))
 * Fix aim query charges not considering pocket limitations ([#80118](https://github.com/CleverRaven/Cataclysm-DDA/pull/80118))
 * Add TOUGH_FEET to Rabbit Feet Mutation ([#80124](https://github.com/CleverRaven/Cataclysm-DDA/pull/80124))
 * IWYU the codebase, part 3/? ([#80116](https://github.com/CleverRaven/Cataclysm-DDA/pull/80116))
@@ -239,7 +243,4 @@
 * Isolation Protocol: XEDRA remediator >> Rework of  officer class ([#80107](https://github.com/CleverRaven/Cataclysm-DDA/pull/80107))
 * Inhaler and Antibiotics Mission Audit ([#80115](https://github.com/CleverRaven/Cataclysm-DDA/pull/80115))
 * Chill down prepper zed spawns ([#80110](https://github.com/CleverRaven/Cataclysm-DDA/pull/80110))
-* 'None'-skill crafting counts as max level, not level 0 ([#80101](https://github.com/CleverRaven/Cataclysm-DDA/pull/80101))
 * Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
-* 460 s&w casings can be used for the pistol cartridge necklaces ([#80095](https://github.com/CleverRaven/Cataclysm-DDA/pull/80095))
-* Helicopters don't fall out of the sky on z-level 0 ([#80091](https://github.com/CleverRaven/Cataclysm-DDA/pull/80091))
