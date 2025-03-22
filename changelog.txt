@@ -1,3 +1,4 @@
+* [MoM] Raise Blink limit and add debug messages (#80269)
 * Leech plants are part of EOC_IS_ELECTRIC (#80259)
 
 Cataclysm-DDA experimental build 2025-03-22-0318 (340dc01)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-03-15-0553 (c494234)
 * Fix aim query charges not considering pocket limitations (#80118)
 * Add TOUGH_FEET to Rabbit Feet Mutation (#80124)
 * IWYU the codebase, part 3/? (#80116)
-* Further IWYU CI fixes (#80089)
 * Spreading dogbane is now harvestable (#80111)
 * Isolation Protocol: XEDRA remediator >> Rework of  officer class (#80107)
 * Inhaler and Antibiotics Mission Audit (#80115)
