@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-22-1631 ([68f8252](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-22-1631))
+
 * [XEDRA Evolved] The Noon ([#80280](https://github.com/CleverRaven/Cataclysm-DDA/pull/80280))
 * Fix palette issues in hosue_inner_garden ([#80276](https://github.com/CleverRaven/Cataclysm-DDA/pull/80276))
 * The Flat-coated retriever: In memory of Elwood ([#80272](https://github.com/CleverRaven/Cataclysm-DDA/pull/80272))
@@ -217,11 +222,6 @@
 #### Cataclysm-DDA experimental build 2025-03-16-1740 ([65fead0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-16-1740))
 
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-15-1556 ([c6a738a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-15-1556))
-
 * Update gunstore_nested.json ([#80153](https://github.com/CleverRaven/Cataclysm-DDA/pull/80153))
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
 * Fix propane lanterns not consuming propane ([#80148](https://github.com/CleverRaven/Cataclysm-DDA/pull/80148))
