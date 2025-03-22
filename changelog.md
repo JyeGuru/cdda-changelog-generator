@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-22-0556 ([8d0675f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-22-0556))
+
 * [MoM] Raise Blink limit and add debug messages ([#80269](https://github.com/CleverRaven/Cataclysm-DDA/pull/80269))
 * Leech plants are part of EOC_IS_ELECTRIC ([#80259](https://github.com/CleverRaven/Cataclysm-DDA/pull/80259))
 
@@ -213,11 +218,6 @@
 #### Cataclysm-DDA experimental build 2025-03-15-1309 ([581c6c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-15-1309))
 
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-15-0553 ([c494234](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-15-0553))
-
 * Fix propane lanterns not consuming propane ([#80148](https://github.com/CleverRaven/Cataclysm-DDA/pull/80148))
 * Fix Motorcycle jacket. ([#80158](https://github.com/CleverRaven/Cataclysm-DDA/pull/80158))
 * fix crash on wielding nullitem and restore old npc behavior ([#80142](https://github.com/CleverRaven/Cataclysm-DDA/pull/80142))
