@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-23-1452 ([d11d43c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-23-1452))
+
 * handle empty travel path ([#80285](https://github.com/CleverRaven/Cataclysm-DDA/pull/80285))
 * New England Community Church fixes 1 ([#80288](https://github.com/CleverRaven/Cataclysm-DDA/pull/80288))
 * Fix Pneumatic mission ([#80287](https://github.com/CleverRaven/Cataclysm-DDA/pull/80287))
@@ -208,11 +213,6 @@
 #### Cataclysm-DDA experimental build 2025-03-17-0339 ([6292158](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-0339))
 
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-17-0016 ([4709821](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-0016))
-
 * XE - Add vampire blood + misc. small vampire changes. ([#80162](https://github.com/CleverRaven/Cataclysm-DDA/pull/80162))
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
 * Update gunstore_nested.json ([#80153](https://github.com/CleverRaven/Cataclysm-DDA/pull/80153))
