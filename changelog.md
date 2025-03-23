@@ -1,3 +1,7 @@
+* handle empty travel path ([#80285](https://github.com/CleverRaven/Cataclysm-DDA/pull/80285))
+* New England Community Church fixes 1 ([#80288](https://github.com/CleverRaven/Cataclysm-DDA/pull/80288))
+* Fix Pneumatic mission ([#80287](https://github.com/CleverRaven/Cataclysm-DDA/pull/80287))
+* Fix some vampiric weaknesses triggering for everyone. ([#80282](https://github.com/CleverRaven/Cataclysm-DDA/pull/80282))
 
 ---
 
@@ -90,12 +94,6 @@
 #### Cataclysm-DDA experimental build 2025-03-20-1339 ([3371cdf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1339))
 
 * Weekly Changelog 2025-03-10 to 2025-03-17 ([#80194](https://github.com/CleverRaven/Cataclysm-DDA/pull/80194))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-20-1021 ([1fa0840](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1021))
-
-* Weekly Changelog 2025-03-03 to 2025-03-10 ([#80104](https://github.com/CleverRaven/Cataclysm-DDA/pull/80104))
 * Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
 
 ---
@@ -216,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2025-03-17-0016 ([4709821](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-0016))
 
 * XE - Add vampire blood + misc. small vampire changes. ([#80162](https://github.com/CleverRaven/Cataclysm-DDA/pull/80162))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-16-1740 ([65fead0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-16-1740))
-
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
 * Update gunstore_nested.json ([#80153](https://github.com/CleverRaven/Cataclysm-DDA/pull/80153))
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
@@ -240,7 +233,4 @@
 * Add TOUGH_FEET to Rabbit Feet Mutation ([#80124](https://github.com/CleverRaven/Cataclysm-DDA/pull/80124))
 * IWYU the codebase, part 3/? ([#80116](https://github.com/CleverRaven/Cataclysm-DDA/pull/80116))
 * Spreading dogbane is now harvestable ([#80111](https://github.com/CleverRaven/Cataclysm-DDA/pull/80111))
-* Isolation Protocol: XEDRA remediator >> Rework of  officer class ([#80107](https://github.com/CleverRaven/Cataclysm-DDA/pull/80107))
 * Inhaler and Antibiotics Mission Audit ([#80115](https://github.com/CleverRaven/Cataclysm-DDA/pull/80115))
-* Chill down prepper zed spawns ([#80110](https://github.com/CleverRaven/Cataclysm-DDA/pull/80110))
-* Add some debug plumbing to NPC query_yn ([#80102](https://github.com/CleverRaven/Cataclysm-DDA/pull/80102))
