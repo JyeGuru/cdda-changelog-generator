@@ -1,3 +1,10 @@
+* Fix #80290 Riot damage's random moving of items for SEALED CONTAINER ([#80298](https://github.com/CleverRaven/Cataclysm-DDA/pull/80298))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-24-2006 ([c8a5b17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-2006))
+
+*  [MoM] Add new Photokinetic power, Phantom Legion ([#80309](https://github.com/CleverRaven/Cataclysm-DDA/pull/80309))
 
 ---
 
@@ -198,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-03-17-1628 ([402bcac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-1628))
 
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-17-1407 ([c7ababc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-1407))
-
 * [ Xedra Evolved ] Hedge Luck Spell makes Hedge spells have tab ([#80165](https://github.com/CleverRaven/Cataclysm-DDA/pull/80165))
 * Add in a few restricted magazines ([#80183](https://github.com/CleverRaven/Cataclysm-DDA/pull/80183))
 * Fix spawn rate of pizzaiolos ([#80179](https://github.com/CleverRaven/Cataclysm-DDA/pull/80179))
@@ -232,6 +234,4 @@
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
 * Some Profession Worn Item Fix ([#80133](https://github.com/CleverRaven/Cataclysm-DDA/pull/80133))
 * Allow generic-factory loaded objects to defer load ([#80127](https://github.com/CleverRaven/Cataclysm-DDA/pull/80127))
-* Update snow shovel, metal rake deconstruction recipe ([#80123](https://github.com/CleverRaven/Cataclysm-DDA/pull/80123))
-* Fix aim query charges not considering pocket limitations ([#80118](https://github.com/CleverRaven/Cataclysm-DDA/pull/80118))
 * Add TOUGH_FEET to Rabbit Feet Mutation ([#80124](https://github.com/CleverRaven/Cataclysm-DDA/pull/80124))

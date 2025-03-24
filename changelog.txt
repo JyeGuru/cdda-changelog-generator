@@ -1,3 +1,7 @@
+* Fix #80290 Riot damage's random moving of items for SEALED CONTAINER (#80298)
+
+Cataclysm-DDA experimental build 2025-03-24-2006 (c8a5b17)
+*  [MoM] Add new Photokinetic power, Phantom Legion (#80309)
 
 Cataclysm-DDA experimental build 2025-03-24-0557 (1ebb8bb)
 * Final mission giver fix in vainilla (#80295)
@@ -117,8 +121,6 @@ Cataclysm-DDA experimental build 2025-03-18-0717 (3629680)
 
 Cataclysm-DDA experimental build 2025-03-17-1628 (402bcac)
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments (#80195)
-
-Cataclysm-DDA experimental build 2025-03-17-1407 (c7ababc)
 * [ Xedra Evolved ] Hedge Luck Spell makes Hedge spells have tab (#80165)
 * Add in a few restricted magazines (#80183)
 * Fix spawn rate of pizzaiolos (#80179)
@@ -148,6 +150,4 @@ Cataclysm-DDA experimental build 2025-03-17-1407 (c7ababc)
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster (#80129)
 * Some Profession Worn Item Fix (#80133)
 * Allow generic-factory loaded objects to defer load (#80127)
-* Update snow shovel, metal rake deconstruction recipe (#80123)
-* Fix aim query charges not considering pocket limitations (#80118)
 * Add TOUGH_FEET to Rabbit Feet Mutation (#80124)
