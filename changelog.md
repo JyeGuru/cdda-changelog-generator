@@ -1,3 +1,4 @@
+* Final mission giver fix in vainilla ([#80295](https://github.com/CleverRaven/Cataclysm-DDA/pull/80295))
 * Add a Bombastic Perk “Damage Dice” and add ammo context var to event character_ranged_attacks_character and character_ranged_attacks_monster ([#80168](https://github.com/CleverRaven/Cataclysm-DDA/pull/80168))
 * Fixes Dana's sourdough mission ([#80293](https://github.com/CleverRaven/Cataclysm-DDA/pull/80293))
 
@@ -234,4 +235,3 @@
 * Update snow shovel, metal rake deconstruction recipe ([#80123](https://github.com/CleverRaven/Cataclysm-DDA/pull/80123))
 * Fix aim query charges not considering pocket limitations ([#80118](https://github.com/CleverRaven/Cataclysm-DDA/pull/80118))
 * Add TOUGH_FEET to Rabbit Feet Mutation ([#80124](https://github.com/CleverRaven/Cataclysm-DDA/pull/80124))
-* IWYU the codebase, part 3/? ([#80116](https://github.com/CleverRaven/Cataclysm-DDA/pull/80116))
