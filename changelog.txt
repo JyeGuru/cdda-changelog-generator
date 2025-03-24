@@ -1,3 +1,4 @@
+* MISSION_GODCO_COOK_FOOD_2 requires 40x 3 liter glass jar now (#80263)
 * Fix #80290 Riot damage's random moving of items for SEALED CONTAINER (#80298)
 
 Cataclysm-DDA experimental build 2025-03-24-2006 (c8a5b17)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-03-17-1628 (402bcac)
 * Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster (#80129)
 * Some Profession Worn Item Fix (#80133)
 * Allow generic-factory loaded objects to defer load (#80127)
-* Add TOUGH_FEET to Rabbit Feet Mutation (#80124)
