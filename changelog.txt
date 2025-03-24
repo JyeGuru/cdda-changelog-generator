@@ -1,3 +1,8 @@
+* Add a Bombastic Perk “Damage Dice” and add ammo context var to event character_ranged_attacks_character and character_ranged_attacks_monster (#80168)
+* Fixes Dana's sourdough mission (#80293)
+
+Cataclysm-DDA experimental build 2025-03-24-0334 (e188b4b)
+* [MoM] Rework teleportation volume calculations (again) (#80291)
 
 Cataclysm-DDA experimental build 2025-03-23-1452 (d11d43c)
 * handle empty travel path (#80285)
@@ -126,8 +131,6 @@ Cataclysm-DDA experimental build 2025-03-17-0607 (30efd18)
 * Fix revolver name to match standards (#80160)
 * Case Hardening is Mild Steel (#80170)
 * Rename karting to go-kart track (#80187)
-
-Cataclysm-DDA experimental build 2025-03-17-0339 (6292158)
 * Add feral prisoner (#80190)
 * XE - Add vampire blood + misc. small vampire changes. (#80162)
 * Spices, sugar and lemonade mixes is now dissolved in water (#80171)
@@ -148,5 +151,3 @@ Cataclysm-DDA experimental build 2025-03-17-0339 (6292158)
 * Fix aim query charges not considering pocket limitations (#80118)
 * Add TOUGH_FEET to Rabbit Feet Mutation (#80124)
 * IWYU the codebase, part 3/? (#80116)
-* Spreading dogbane is now harvestable (#80111)
-* Inhaler and Antibiotics Mission Audit (#80115)

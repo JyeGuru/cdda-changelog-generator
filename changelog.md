@@ -1,3 +1,11 @@
+* Add a Bombastic Perk “Damage Dice” and add ammo context var to event character_ranged_attacks_character and character_ranged_attacks_monster ([#80168](https://github.com/CleverRaven/Cataclysm-DDA/pull/80168))
+* Fixes Dana's sourdough mission ([#80293](https://github.com/CleverRaven/Cataclysm-DDA/pull/80293))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-24-0334 ([e188b4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-0334))
+
+* [MoM] Rework teleportation volume calculations (again) ([#80291](https://github.com/CleverRaven/Cataclysm-DDA/pull/80291))
 
 ---
 
@@ -207,11 +215,6 @@
 * Fix revolver name to match standards ([#80160](https://github.com/CleverRaven/Cataclysm-DDA/pull/80160))
 * Case Hardening is Mild Steel ([#80170](https://github.com/CleverRaven/Cataclysm-DDA/pull/80170))
 * Rename karting to go-kart track ([#80187](https://github.com/CleverRaven/Cataclysm-DDA/pull/80187))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-17-0339 ([6292158](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-0339))
-
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
 * XE - Add vampire blood + misc. small vampire changes. ([#80162](https://github.com/CleverRaven/Cataclysm-DDA/pull/80162))
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
@@ -232,5 +235,3 @@
 * Fix aim query charges not considering pocket limitations ([#80118](https://github.com/CleverRaven/Cataclysm-DDA/pull/80118))
 * Add TOUGH_FEET to Rabbit Feet Mutation ([#80124](https://github.com/CleverRaven/Cataclysm-DDA/pull/80124))
 * IWYU the codebase, part 3/? ([#80116](https://github.com/CleverRaven/Cataclysm-DDA/pull/80116))
-* Spreading dogbane is now harvestable ([#80111](https://github.com/CleverRaven/Cataclysm-DDA/pull/80111))
-* Inhaler and Antibiotics Mission Audit ([#80115](https://github.com/CleverRaven/Cataclysm-DDA/pull/80115))
