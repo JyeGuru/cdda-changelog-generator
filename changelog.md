@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-24-2253 ([f3458d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-2253))
+
 * MISSION_GODCO_COOK_FOOD_2 requires 40x 3 liter glass jar now ([#80263](https://github.com/CleverRaven/Cataclysm-DDA/pull/80263))
 * Fix #80290 Riot damage's random moving of items for SEALED CONTAINER ([#80298](https://github.com/CleverRaven/Cataclysm-DDA/pull/80298))
 
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-03-18-0717 ([3629680](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-0717))
 
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-17-1628 ([402bcac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-17-1628))
-
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
 * [ Xedra Evolved ] Hedge Luck Spell makes Hedge spells have tab ([#80165](https://github.com/CleverRaven/Cataclysm-DDA/pull/80165))
 * Add in a few restricted magazines ([#80183](https://github.com/CleverRaven/Cataclysm-DDA/pull/80183))
