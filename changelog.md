@@ -1,3 +1,7 @@
+* New England Community Church Improvements 2 ([#80300](https://github.com/CleverRaven/Cataclysm-DDA/pull/80300))
+* New cigarette variants ([#80304](https://github.com/CleverRaven/Cataclysm-DDA/pull/80304))
+* Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
+* Add denatured alcohols to houses ([#80315](https://github.com/CleverRaven/Cataclysm-DDA/pull/80315))
 
 ---
 
@@ -215,7 +219,6 @@
 * Fix spawn rate of pizzaiolos ([#80179](https://github.com/CleverRaven/Cataclysm-DDA/pull/80179))
 * Casing spawn audit ([#80177](https://github.com/CleverRaven/Cataclysm-DDA/pull/80177))
 * Scopes attached to weapon will double overmap sight range ([#80172](https://github.com/CleverRaven/Cataclysm-DDA/pull/80172))
-* Added separate trait to allow natural growth of beards be switched independently to natural growth of hair ([#80143](https://github.com/CleverRaven/Cataclysm-DDA/pull/80143))
 * Adjust AR pistol weight ([#80176](https://github.com/CleverRaven/Cataclysm-DDA/pull/80176))
 * Tainted human skulls can be broken down into tainted bones. ([#80150](https://github.com/CleverRaven/Cataclysm-DDA/pull/80150))
 * Fix horde spawn logic ([#80181](https://github.com/CleverRaven/Cataclysm-DDA/pull/80181))
@@ -230,8 +233,5 @@
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
 * Fix propane lanterns not consuming propane ([#80148](https://github.com/CleverRaven/Cataclysm-DDA/pull/80148))
 * Fix Motorcycle jacket. ([#80158](https://github.com/CleverRaven/Cataclysm-DDA/pull/80158))
-* fix crash on wielding nullitem and restore old npc behavior ([#80142](https://github.com/CleverRaven/Cataclysm-DDA/pull/80142))
 * [MoM] Fix Electron Overflow description ([#80145](https://github.com/CleverRaven/Cataclysm-DDA/pull/80145))
 * [MoM] Further telekinetic throwing elements ([#80144](https://github.com/CleverRaven/Cataclysm-DDA/pull/80144))
-* [MoM] Items with bionic power aren't part of the Electron Overflow count ([#80135](https://github.com/CleverRaven/Cataclysm-DDA/pull/80135))
-* Fix typo within design-balance.md ([#80138](https://github.com/CleverRaven/Cataclysm-DDA/pull/80138))
