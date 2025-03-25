@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-25-0401 ([616dea2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-0401))
+
 * fix both AIM-panels selected ([#80303](https://github.com/CleverRaven/Cataclysm-DDA/pull/80303))
 
 ---
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-03-18-1735 ([b0df3aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-1735))
 
 * Fix t_reinforced_glass_lab breaks microlab's computer release actions #80175 ([#80196](https://github.com/CleverRaven/Cataclysm-DDA/pull/80196))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-18-0937 ([431ea8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-0937))
-
 * Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
