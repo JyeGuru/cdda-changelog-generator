@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-25-1223 ([54063aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-1223))
+
 * Fix messenger bag's sided function  ([#80312](https://github.com/CleverRaven/Cataclysm-DDA/pull/80312))
 * Church zombie & car spawns ([#80317](https://github.com/CleverRaven/Cataclysm-DDA/pull/80317))
 
@@ -200,11 +205,6 @@
 * Add a few common guns ([#80200](https://github.com/CleverRaven/Cataclysm-DDA/pull/80200))
 * Aftershock Damage rebalance VII??:  Actually reblanace the entire game's armor damage formula instead ([#80193](https://github.com/CleverRaven/Cataclysm-DDA/pull/80193))
 * [MoM] Fix Apportation ([#80207](https://github.com/CleverRaven/Cataclysm-DDA/pull/80207))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-19-0534 ([b6fe654](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-0534))
-
 * [MoM] Add volume limits to Blink and Farstep ([#80208](https://github.com/CleverRaven/Cataclysm-DDA/pull/80208))
 * Fix t_reinforced_glass_lab breaks microlab's computer release actions #80175 ([#80196](https://github.com/CleverRaven/Cataclysm-DDA/pull/80196))
 * Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
