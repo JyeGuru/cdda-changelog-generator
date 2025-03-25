@@ -1,3 +1,11 @@
+* Fix messenger bag's sided function  ([#80312](https://github.com/CleverRaven/Cataclysm-DDA/pull/80312))
+* Church zombie & car spawns ([#80317](https://github.com/CleverRaven/Cataclysm-DDA/pull/80317))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-25-0942 ([e657d36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-0942))
+
+* Road trash spawns ([#80316](https://github.com/CleverRaven/Cataclysm-DDA/pull/80316))
 
 ---
 
@@ -198,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2025-03-19-0534 ([b6fe654](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-0534))
 
 * [MoM] Add volume limits to Blink and Farstep ([#80208](https://github.com/CleverRaven/Cataclysm-DDA/pull/80208))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-18-1735 ([b0df3aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-1735))
-
 * Fix t_reinforced_glass_lab breaks microlab's computer release actions #80175 ([#80196](https://github.com/CleverRaven/Cataclysm-DDA/pull/80196))
 * Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
@@ -231,7 +234,4 @@
 * [MoM] Fix Electron Overflow description ([#80145](https://github.com/CleverRaven/Cataclysm-DDA/pull/80145))
 * [MoM] Further telekinetic throwing elements ([#80144](https://github.com/CleverRaven/Cataclysm-DDA/pull/80144))
 * [MoM] Items with bionic power aren't part of the Electron Overflow count ([#80135](https://github.com/CleverRaven/Cataclysm-DDA/pull/80135))
-* [MoM] Allow Force Shove to hurl the target in different directions ([#80132](https://github.com/CleverRaven/Cataclysm-DDA/pull/80132))
 * Fix typo within design-balance.md ([#80138](https://github.com/CleverRaven/Cataclysm-DDA/pull/80138))
-* Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster ([#80129](https://github.com/CleverRaven/Cataclysm-DDA/pull/80129))
-* Some Profession Worn Item Fix ([#80133](https://github.com/CleverRaven/Cataclysm-DDA/pull/80133))

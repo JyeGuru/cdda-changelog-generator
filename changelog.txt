@@ -1,3 +1,8 @@
+* Fix messenger bag's sided function  (#80312)
+* Church zombie & car spawns (#80317)
+
+Cataclysm-DDA experimental build 2025-03-25-0942 (e657d36)
+* Road trash spawns (#80316)
 
 Cataclysm-DDA experimental build 2025-03-25-0401 (616dea2)
 * fix both AIM-panels selected (#80303)
@@ -117,8 +122,6 @@ Cataclysm-DDA experimental build 2025-03-19-0756 (5a3788e)
 
 Cataclysm-DDA experimental build 2025-03-19-0534 (b6fe654)
 * [MoM] Add volume limits to Blink and Farstep (#80208)
-
-Cataclysm-DDA experimental build 2025-03-18-1735 (b0df3aa)
 * Fix t_reinforced_glass_lab breaks microlab's computer release actions #80175 (#80196)
 * Player Fungal Dusted Apply Message (#80192)
 * guneet singh wears scabbard (#80198)
@@ -147,7 +150,4 @@ Cataclysm-DDA experimental build 2025-03-18-1735 (b0df3aa)
 * [MoM] Fix Electron Overflow description (#80145)
 * [MoM] Further telekinetic throwing elements (#80144)
 * [MoM] Items with bionic power aren't part of the Electron Overflow count (#80135)
-* [MoM] Allow Force Shove to hurl the target in different directions (#80132)
 * Fix typo within design-balance.md (#80138)
-* Monsters now stop grabbing if grabbed monster was killed while grabbing the first monster (#80129)
-* Some Profession Worn Item Fix (#80133)
