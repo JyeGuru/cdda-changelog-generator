@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-25-0137 ([afbb09c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-0137))
+
+* Delayed NPC angry due to construct until confirm construction in menu. ([#80301](https://github.com/CleverRaven/Cataclysm-DDA/pull/80301))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-24-2253 ([f3458d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-2253))
 
 * MISSION_GODCO_COOK_FOOD_2 requires 40x 3 liter glass jar now ([#80263](https://github.com/CleverRaven/Cataclysm-DDA/pull/80263))
@@ -88,7 +94,6 @@
 
 * Vampire weaknesses ([#80204](https://github.com/CleverRaven/Cataclysm-DDA/pull/80204))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
-* [Xedra Evolved] More changeling seasonal glamours ([#80125](https://github.com/CleverRaven/Cataclysm-DDA/pull/80125))
 * Item description: Expand `Can be stored in:` from (broken) holsters to all wearables. ([#80203](https://github.com/CleverRaven/Cataclysm-DDA/pull/80203))
 * 5.7 SS195LF Civilian Rounds ([#80232](https://github.com/CleverRaven/Cataclysm-DDA/pull/80232))
 * Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-03-18-0937 ([431ea8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-0937))
 
 * Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-18-0717 ([3629680](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-18-0717))
-
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
 * [ Xedra Evolved ] Hedge Luck Spell makes Hedge spells have tab ([#80165](https://github.com/CleverRaven/Cataclysm-DDA/pull/80165))

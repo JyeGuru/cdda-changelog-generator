@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-03-25-0137 (afbb09c)
+* Delayed NPC angry due to construct until confirm construction in menu. (#80301)
+
 Cataclysm-DDA experimental build 2025-03-24-2253 (f3458d8)
 * MISSION_GODCO_COOK_FOOD_2 requires 40x 3 liter glass jar now (#80263)
 * Fix #80290 Riot damage's random moving of items for SEALED CONTAINER (#80298)
@@ -49,7 +52,6 @@ Cataclysm-DDA experimental build 2025-03-21-1503 (6c219f0)
 Cataclysm-DDA experimental build 2025-03-21-0858 (b97884a)
 * Vampire weaknesses (#80204)
 * More pieces of clothing can allow you to block with them (#80260)
-* [Xedra Evolved] More changeling seasonal glamours (#80125)
 * Item description: Expand `Can be stored in:` from (broken) holsters to all wearables. (#80203)
 * 5.7 SS195LF Civilian Rounds (#80232)
 * Fix changelog still saying it's 0.H (#80243)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2025-03-18-1735 (b0df3aa)
 
 Cataclysm-DDA experimental build 2025-03-18-0937 (431ea8c)
 * Player Fungal Dusted Apply Message (#80192)
-
-Cataclysm-DDA experimental build 2025-03-18-0717 (3629680)
 * guneet singh wears scabbard (#80198)
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments (#80195)
 * [ Xedra Evolved ] Hedge Luck Spell makes Hedge spells have tab (#80165)
