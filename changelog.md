@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-25-1451 ([53c762e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-1451))
+
 * New England Community Church Improvements 2 ([#80300](https://github.com/CleverRaven/Cataclysm-DDA/pull/80300))
 * New cigarette variants ([#80304](https://github.com/CleverRaven/Cataclysm-DDA/pull/80304))
 * Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-03-19-1018 ([165202a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-1018))
 
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-19-0756 ([5a3788e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-0756))
-
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk ([#80202](https://github.com/CleverRaven/Cataclysm-DDA/pull/80202))
 * checkwielded->has_item BEFORE unwielding ([#80197](https://github.com/CleverRaven/Cataclysm-DDA/pull/80197))
 * Aftershock: Damage rebalance part VI (Moster melee die) ([#80174](https://github.com/CleverRaven/Cataclysm-DDA/pull/80174))
