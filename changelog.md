@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-26-1649 ([6459960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-1649))
+
 * [Magiclysm] Add Translocation Portal ([#80314](https://github.com/CleverRaven/Cataclysm-DDA/pull/80314))
 
 ---
@@ -189,11 +194,6 @@
 
 * FEMA camp mutable bus area ([#80222](https://github.com/CleverRaven/Cataclysm-DDA/pull/80222))
 * Add more item spawns to hardware stores ([#80228](https://github.com/CleverRaven/Cataclysm-DDA/pull/80228))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-20-0201 ([24bfa7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-0201))
-
 * Make airdrops actually spawn monsters ([#80229](https://github.com/CleverRaven/Cataclysm-DDA/pull/80229))
 * Amalgamations can spawn naturally ([#80219](https://github.com/CleverRaven/Cataclysm-DDA/pull/80219))
 * fix not being able to unwield ([#80221](https://github.com/CleverRaven/Cataclysm-DDA/pull/80221))
