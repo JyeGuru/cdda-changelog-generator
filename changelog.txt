@@ -1,3 +1,7 @@
+* [Magiclysm] Add Translocation Portal (#80314)
+
+Cataclysm-DDA experimental build 2025-03-26-1422 (d5ffade)
+* Weekly Changelog 2025-03-17 to 2025-03-24 (#80297)
 
 Cataclysm-DDA experimental build 2025-03-26-0327 (f1a1638)
 * Continue replacing steel (#80241)
@@ -110,8 +114,6 @@ Cataclysm-DDA experimental build 2025-03-20-0440 (4e2dc71)
 
 Cataclysm-DDA experimental build 2025-03-20-0201 (24bfa7e)
 * Make airdrops actually spawn monsters (#80229)
-
-Cataclysm-DDA experimental build 2025-03-19-2127 (342dfa1)
 * Amalgamations can spawn naturally (#80219)
 * fix not being able to unwield (#80221)
 * fix #80035 and maybe other crash/segfault on quit (#80214)
@@ -146,6 +148,4 @@ Cataclysm-DDA experimental build 2025-03-19-2127 (342dfa1)
 * Spices, sugar and lemonade mixes is now dissolved in water (#80171)
 * Update gunstore_nested.json (#80153)
 * Routine i18n updates on 15 March 2025 (#80163)
-* Fix propane lanterns not consuming propane (#80148)
 * Fix Motorcycle jacket. (#80158)
-* [MoM] Fix Electron Overflow description (#80145)

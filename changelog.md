@@ -1,3 +1,10 @@
+* [Magiclysm] Add Translocation Portal ([#80314](https://github.com/CleverRaven/Cataclysm-DDA/pull/80314))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-26-1422 ([d5ffade](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-1422))
+
+* Weekly Changelog 2025-03-17 to 2025-03-24 ([#80297](https://github.com/CleverRaven/Cataclysm-DDA/pull/80297))
 
 ---
 
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-03-20-0201 ([24bfa7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-0201))
 
 * Make airdrops actually spawn monsters ([#80229](https://github.com/CleverRaven/Cataclysm-DDA/pull/80229))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-19-2127 ([342dfa1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-2127))
-
 * Amalgamations can spawn naturally ([#80219](https://github.com/CleverRaven/Cataclysm-DDA/pull/80219))
 * fix not being able to unwield ([#80221](https://github.com/CleverRaven/Cataclysm-DDA/pull/80221))
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
@@ -227,6 +229,4 @@
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
 * Update gunstore_nested.json ([#80153](https://github.com/CleverRaven/Cataclysm-DDA/pull/80153))
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
-* Fix propane lanterns not consuming propane ([#80148](https://github.com/CleverRaven/Cataclysm-DDA/pull/80148))
 * Fix Motorcycle jacket. ([#80158](https://github.com/CleverRaven/Cataclysm-DDA/pull/80158))
-* [MoM] Fix Electron Overflow description ([#80145](https://github.com/CleverRaven/Cataclysm-DDA/pull/80145))
