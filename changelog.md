@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-26-0327 ([f1a1638](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-0327))
+
+* Continue replacing steel ([#80241](https://github.com/CleverRaven/Cataclysm-DDA/pull/80241))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-25-1451 ([53c762e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-1451))
 
 * New England Community Church Improvements 2 ([#80300](https://github.com/CleverRaven/Cataclysm-DDA/pull/80300))
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-03-19-1904 ([d1a2502](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-1904))
 
 * fix not being able to unwield ([#80221](https://github.com/CleverRaven/Cataclysm-DDA/pull/80221))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-19-1018 ([165202a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-19-1018))
-
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk ([#80202](https://github.com/CleverRaven/Cataclysm-DDA/pull/80202))
 * checkwielded->has_item BEFORE unwielding ([#80197](https://github.com/CleverRaven/Cataclysm-DDA/pull/80197))
@@ -234,4 +235,3 @@
 * Fix propane lanterns not consuming propane ([#80148](https://github.com/CleverRaven/Cataclysm-DDA/pull/80148))
 * Fix Motorcycle jacket. ([#80158](https://github.com/CleverRaven/Cataclysm-DDA/pull/80158))
 * [MoM] Fix Electron Overflow description ([#80145](https://github.com/CleverRaven/Cataclysm-DDA/pull/80145))
-* [MoM] Further telekinetic throwing elements ([#80144](https://github.com/CleverRaven/Cataclysm-DDA/pull/80144))
