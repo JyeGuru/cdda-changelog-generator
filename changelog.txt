@@ -113,8 +113,6 @@ Cataclysm-DDA experimental build 2025-03-20-0201 (24bfa7e)
 
 Cataclysm-DDA experimental build 2025-03-19-2127 (342dfa1)
 * Amalgamations can spawn naturally (#80219)
-
-Cataclysm-DDA experimental build 2025-03-19-1904 (d1a2502)
 * fix not being able to unwield (#80221)
 * fix #80035 and maybe other crash/segfault on quit (#80214)
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk (#80202)
