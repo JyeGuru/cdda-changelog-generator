@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-27-0147 ([a3f49a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-0147))
+
+* Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-26-1649 ([6459960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-1649))
 
 * [Magiclysm] Add Translocation Portal ([#80314](https://github.com/CleverRaven/Cataclysm-DDA/pull/80314))
@@ -187,11 +193,6 @@
 * Add more damage to dumpsites ([#80224](https://github.com/CleverRaven/Cataclysm-DDA/pull/80224))
 * Remove AI reference in alarm barred windows ([#80225](https://github.com/CleverRaven/Cataclysm-DDA/pull/80225))
 * Port over stop signs from CTLG ([#80231](https://github.com/CleverRaven/Cataclysm-DDA/pull/80231))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-20-0440 ([4e2dc71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-0440))
-
 * FEMA camp mutable bus area ([#80222](https://github.com/CleverRaven/Cataclysm-DDA/pull/80222))
 * Add more item spawns to hardware stores ([#80228](https://github.com/CleverRaven/Cataclysm-DDA/pull/80228))
 * Make airdrops actually spawn monsters ([#80229](https://github.com/CleverRaven/Cataclysm-DDA/pull/80229))
@@ -218,7 +219,6 @@
 * Casing spawn audit ([#80177](https://github.com/CleverRaven/Cataclysm-DDA/pull/80177))
 * Scopes attached to weapon will double overmap sight range ([#80172](https://github.com/CleverRaven/Cataclysm-DDA/pull/80172))
 * Adjust AR pistol weight ([#80176](https://github.com/CleverRaven/Cataclysm-DDA/pull/80176))
-* Tainted human skulls can be broken down into tainted bones. ([#80150](https://github.com/CleverRaven/Cataclysm-DDA/pull/80150))
 * Fix horde spawn logic ([#80181](https://github.com/CleverRaven/Cataclysm-DDA/pull/80181))
 * Rebalance default zombie evolution possibilites ([#80180](https://github.com/CleverRaven/Cataclysm-DDA/pull/80180))
 * Fix revolver name to match standards ([#80160](https://github.com/CleverRaven/Cataclysm-DDA/pull/80160))
