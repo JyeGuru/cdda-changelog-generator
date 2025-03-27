@@ -1,3 +1,4 @@
+* fix typo in labeler (#80339)
 
 Cataclysm-DDA experimental build 2025-03-27-1344 (02bdc99)
 * Fix missing period (#80338)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-03-20-1339 (3371cdf)
 * Rename karting to go-kart track (#80187)
 * Add feral prisoner (#80190)
 * Spices, sugar and lemonade mixes is now dissolved in water (#80171)
-* Routine i18n updates on 15 March 2025 (#80163)
