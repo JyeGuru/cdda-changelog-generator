@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-27-1644 ([2c65586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-1644))
+
 * [Bugfixes] Fix mutating resetting stats and stamina ([#80325](https://github.com/CleverRaven/Cataclysm-DDA/pull/80325))
 * Candy Butchery update ([#80322](https://github.com/CleverRaven/Cataclysm-DDA/pull/80322))
 * [MoM] Jmath updates in power learning ([#80311](https://github.com/CleverRaven/Cataclysm-DDA/pull/80311))
