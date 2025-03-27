@@ -1,3 +1,4 @@
+* Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
 
 ---
 
@@ -227,6 +228,5 @@
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
 * XE - Add vampire blood + misc. small vampire changes. ([#80162](https://github.com/CleverRaven/Cataclysm-DDA/pull/80162))
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
-* Update gunstore_nested.json ([#80153](https://github.com/CleverRaven/Cataclysm-DDA/pull/80153))
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
 * Fix Motorcycle jacket. ([#80158](https://github.com/CleverRaven/Cataclysm-DDA/pull/80158))

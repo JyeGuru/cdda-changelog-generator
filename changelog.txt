@@ -1,3 +1,4 @@
+* Add My Sweet Cataclysm to Autolabeler (#80324)
 
 Cataclysm-DDA experimental build 2025-03-27-0147 (a3f49a3)
 * Fix f_sign_stop drop (#80319)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2025-03-20-0710 (934464d)
 * Add feral prisoner (#80190)
 * XE - Add vampire blood + misc. small vampire changes. (#80162)
 * Spices, sugar and lemonade mixes is now dissolved in water (#80171)
-* Update gunstore_nested.json (#80153)
 * Routine i18n updates on 15 March 2025 (#80163)
 * Fix Motorcycle jacket. (#80158)
