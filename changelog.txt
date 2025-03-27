@@ -1,3 +1,4 @@
+* Prevent characters from lowering movecost below 1 (#80327)
 * Make irradiation plant spawn enemies (#80335)
 
 Cataclysm-DDA experimental build 2025-03-27-1932 (d1d565f)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2025-03-20-1645 (2c29d9a)
 * fix #80035 and maybe other crash/segfault on quit (#80214)
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk (#80202)
 * checkwielded->has_item BEFORE unwielding (#80197)
-* Aftershock: Damage rebalance part VI (Moster melee die) (#80174)
 * Civilian SCARs (#80184)
 * passable -> passable_through (#80186)
 * Add android build to the CI matrix (#80212)

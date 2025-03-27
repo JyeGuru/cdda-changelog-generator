@@ -1,3 +1,4 @@
+* Prevent characters from lowering movecost below 1 ([#80327](https://github.com/CleverRaven/Cataclysm-DDA/pull/80327))
 * Make irradiation plant spawn enemies ([#80335](https://github.com/CleverRaven/Cataclysm-DDA/pull/80335))
 
 ---
@@ -213,7 +214,6 @@
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk ([#80202](https://github.com/CleverRaven/Cataclysm-DDA/pull/80202))
 * checkwielded->has_item BEFORE unwielding ([#80197](https://github.com/CleverRaven/Cataclysm-DDA/pull/80197))
-* Aftershock: Damage rebalance part VI (Moster melee die) ([#80174](https://github.com/CleverRaven/Cataclysm-DDA/pull/80174))
 * Civilian SCARs ([#80184](https://github.com/CleverRaven/Cataclysm-DDA/pull/80184))
 * passable -> passable_through ([#80186](https://github.com/CleverRaven/Cataclysm-DDA/pull/80186))
 * Add android build to the CI matrix ([#80212](https://github.com/CleverRaven/Cataclysm-DDA/pull/80212))
