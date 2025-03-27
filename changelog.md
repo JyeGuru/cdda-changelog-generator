@@ -1,3 +1,4 @@
+* [MoM] Jmath updates in power learning ([#80311](https://github.com/CleverRaven/Cataclysm-DDA/pull/80311))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
 
 ---
@@ -216,7 +217,6 @@
 * Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
-* [ Xedra Evolved ] Hedge Luck Spell makes Hedge spells have tab ([#80165](https://github.com/CleverRaven/Cataclysm-DDA/pull/80165))
 * Add in a few restricted magazines ([#80183](https://github.com/CleverRaven/Cataclysm-DDA/pull/80183))
 * Fix spawn rate of pizzaiolos ([#80179](https://github.com/CleverRaven/Cataclysm-DDA/pull/80179))
 * Casing spawn audit ([#80177](https://github.com/CleverRaven/Cataclysm-DDA/pull/80177))
