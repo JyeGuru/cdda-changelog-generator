@@ -116,8 +116,6 @@ Cataclysm-DDA experimental build 2025-03-21-0628 (24a9884)
 
 Cataclysm-DDA experimental build 2025-03-20-2152 (e2f348b)
 * fix incorrect punctuation in techniques (#80239)
-
-Cataclysm-DDA experimental build 2025-03-20-1645 (2c29d9a)
 * Add baking soda to pantries (#80240)
 * Weekly Changelog 2025-03-10 to 2025-03-17 (#80194)
 * Add primitive_ranged_weapon flag to rail-mounted crossbow (#80235)
