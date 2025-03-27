@@ -1,3 +1,10 @@
+* Make irradiation plant spawn enemies ([#80335](https://github.com/CleverRaven/Cataclysm-DDA/pull/80335))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-27-1932 ([d1d565f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-1932))
+
+* Military outpost revamp ([#80337](https://github.com/CleverRaven/Cataclysm-DDA/pull/80337))
 
 ---
 
@@ -192,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-03-20-1645 ([2c29d9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1645))
 
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-20-1339 ([3371cdf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-1339))
-
 * Weekly Changelog 2025-03-10 to 2025-03-17 ([#80194](https://github.com/CleverRaven/Cataclysm-DDA/pull/80194))
 * Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
 * Light industry car & zombie spawns ([#80223](https://github.com/CleverRaven/Cataclysm-DDA/pull/80223))
@@ -226,10 +228,8 @@
 * Add in a few restricted magazines ([#80183](https://github.com/CleverRaven/Cataclysm-DDA/pull/80183))
 * Fix spawn rate of pizzaiolos ([#80179](https://github.com/CleverRaven/Cataclysm-DDA/pull/80179))
 * Casing spawn audit ([#80177](https://github.com/CleverRaven/Cataclysm-DDA/pull/80177))
-* Scopes attached to weapon will double overmap sight range ([#80172](https://github.com/CleverRaven/Cataclysm-DDA/pull/80172))
 * Adjust AR pistol weight ([#80176](https://github.com/CleverRaven/Cataclysm-DDA/pull/80176))
 * Fix horde spawn logic ([#80181](https://github.com/CleverRaven/Cataclysm-DDA/pull/80181))
 * Rebalance default zombie evolution possibilites ([#80180](https://github.com/CleverRaven/Cataclysm-DDA/pull/80180))
 * Rename karting to go-kart track ([#80187](https://github.com/CleverRaven/Cataclysm-DDA/pull/80187))
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
-* Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
