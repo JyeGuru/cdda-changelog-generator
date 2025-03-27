@@ -229,4 +229,3 @@
 * XE - Add vampire blood + misc. small vampire changes. ([#80162](https://github.com/CleverRaven/Cataclysm-DDA/pull/80162))
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
-* Fix Motorcycle jacket. ([#80158](https://github.com/CleverRaven/Cataclysm-DDA/pull/80158))
