@@ -1,3 +1,4 @@
+* Candy Butchery update ([#80322](https://github.com/CleverRaven/Cataclysm-DDA/pull/80322))
 * [MoM] Jmath updates in power learning ([#80311](https://github.com/CleverRaven/Cataclysm-DDA/pull/80311))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
 
@@ -84,7 +85,6 @@
 #### Cataclysm-DDA experimental build 2025-03-24-0557 ([1ebb8bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-0557))
 
 * Final mission giver fix in vainilla ([#80295](https://github.com/CleverRaven/Cataclysm-DDA/pull/80295))
-* Add a Bombastic Perk “Damage Dice” and add ammo context var to event character_ranged_attacks_character and character_ranged_attacks_monster ([#80168](https://github.com/CleverRaven/Cataclysm-DDA/pull/80168))
 * Fixes Dana's sourdough mission ([#80293](https://github.com/CleverRaven/Cataclysm-DDA/pull/80293))
 
 ---
