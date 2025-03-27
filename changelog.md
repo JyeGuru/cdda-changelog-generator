@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-27-1344 ([02bdc99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-1344))
+
+* Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
 * Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
 
 ---
@@ -185,11 +191,6 @@
 
 * Weekly Changelog 2025-03-10 to 2025-03-17 ([#80194](https://github.com/CleverRaven/Cataclysm-DDA/pull/80194))
 * Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-20-0710 ([934464d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-0710))
-
 * Light industry car & zombie spawns ([#80223](https://github.com/CleverRaven/Cataclysm-DDA/pull/80223))
 * Add more damage to dumpsites ([#80224](https://github.com/CleverRaven/Cataclysm-DDA/pull/80224))
 * Remove AI reference in alarm barred windows ([#80225](https://github.com/CleverRaven/Cataclysm-DDA/pull/80225))
@@ -222,10 +223,8 @@
 * Adjust AR pistol weight ([#80176](https://github.com/CleverRaven/Cataclysm-DDA/pull/80176))
 * Fix horde spawn logic ([#80181](https://github.com/CleverRaven/Cataclysm-DDA/pull/80181))
 * Rebalance default zombie evolution possibilites ([#80180](https://github.com/CleverRaven/Cataclysm-DDA/pull/80180))
-* Fix revolver name to match standards ([#80160](https://github.com/CleverRaven/Cataclysm-DDA/pull/80160))
 * Case Hardening is Mild Steel ([#80170](https://github.com/CleverRaven/Cataclysm-DDA/pull/80170))
 * Rename karting to go-kart track ([#80187](https://github.com/CleverRaven/Cataclysm-DDA/pull/80187))
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
-* XE - Add vampire blood + misc. small vampire changes. ([#80162](https://github.com/CleverRaven/Cataclysm-DDA/pull/80162))
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
 * Routine i18n updates on 15 March 2025 ([#80163](https://github.com/CleverRaven/Cataclysm-DDA/pull/80163))
