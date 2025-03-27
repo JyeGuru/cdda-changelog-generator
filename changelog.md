@@ -1,3 +1,4 @@
+* [Bugfixes] Fix mutating resetting stats and stamina ([#80325](https://github.com/CleverRaven/Cataclysm-DDA/pull/80325))
 * Candy Butchery update ([#80322](https://github.com/CleverRaven/Cataclysm-DDA/pull/80322))
 * [MoM] Jmath updates in power learning ([#80311](https://github.com/CleverRaven/Cataclysm-DDA/pull/80311))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
@@ -224,7 +225,6 @@
 * Adjust AR pistol weight ([#80176](https://github.com/CleverRaven/Cataclysm-DDA/pull/80176))
 * Fix horde spawn logic ([#80181](https://github.com/CleverRaven/Cataclysm-DDA/pull/80181))
 * Rebalance default zombie evolution possibilites ([#80180](https://github.com/CleverRaven/Cataclysm-DDA/pull/80180))
-* Case Hardening is Mild Steel ([#80170](https://github.com/CleverRaven/Cataclysm-DDA/pull/80170))
 * Rename karting to go-kart track ([#80187](https://github.com/CleverRaven/Cataclysm-DDA/pull/80187))
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
 * Spices, sugar and lemonade mixes is now dissolved in water ([#80171](https://github.com/CleverRaven/Cataclysm-DDA/pull/80171))
