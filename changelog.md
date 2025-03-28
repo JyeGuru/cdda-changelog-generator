@@ -191,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-03-21-0628 ([24a9884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-0628))
 
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-20-2152 ([e2f348b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-20-2152))
-
 * fix incorrect punctuation in techniques ([#80239](https://github.com/CleverRaven/Cataclysm-DDA/pull/80239))
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
 * Weekly Changelog 2025-03-10 to 2025-03-17 ([#80194](https://github.com/CleverRaven/Cataclysm-DDA/pull/80194))
