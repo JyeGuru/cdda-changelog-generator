@@ -1,3 +1,4 @@
+* Gun copyfrom fixes (#80323)
 
 Cataclysm-DDA experimental build 2025-03-28-1628 (75f2d7f)
 * Add billboards (#80351)
@@ -142,6 +143,5 @@ Cataclysm-DDA experimental build 2025-03-21-1503 (6c219f0)
 * Player Fungal Dusted Apply Message (#80192)
 * guneet singh wears scabbard (#80198)
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments (#80195)
-* Add in a few restricted magazines (#80183)
 * Rename karting to go-kart track (#80187)
 * Add feral prisoner (#80190)
