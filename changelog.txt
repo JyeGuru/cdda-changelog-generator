@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-03-28-1847 (144fb4e)
 * Gun copyfrom fixes (#80323)
 
 Cataclysm-DDA experimental build 2025-03-28-1628 (75f2d7f)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-03-21-1953 (11b4b17)
 
 Cataclysm-DDA experimental build 2025-03-21-1725 (0033293)
 * Remove duplicate character_takeoff_item entries from the document. (#80266)
-
-Cataclysm-DDA experimental build 2025-03-21-1503 (6c219f0)
 * Prune pawnstore itemgroup (#80264)
 * Vampire weaknesses (#80204)
 * More pieces of clothing can allow you to block with them (#80260)
