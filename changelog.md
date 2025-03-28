@@ -1,3 +1,10 @@
+* Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-28-1404 ([23713e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-28-1404))
+
+* [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
 * define magic number for max (unsafe) weight capacity ([#80320](https://github.com/CleverRaven/Cataclysm-DDA/pull/80320))
 * The Great Berry Crash of 2025 ([#80332](https://github.com/CleverRaven/Cataclysm-DDA/pull/80332))
 * Remove how-to instructions on cheating ([#80328](https://github.com/CleverRaven/Cataclysm-DDA/pull/80328))
@@ -185,11 +192,6 @@
 * Weed snippet fix ([#80248](https://github.com/CleverRaven/Cataclysm-DDA/pull/80248))
 * Electronic stores have more appliances ([#80247](https://github.com/CleverRaven/Cataclysm-DDA/pull/80247))
 * Fix palette issue in house_w_5 ([#80246](https://github.com/CleverRaven/Cataclysm-DDA/pull/80246))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-21-0628 ([24a9884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-0628))
-
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))
 * fix incorrect punctuation in techniques ([#80239](https://github.com/CleverRaven/Cataclysm-DDA/pull/80239))
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
@@ -219,8 +221,6 @@
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
 * Add in a few restricted magazines ([#80183](https://github.com/CleverRaven/Cataclysm-DDA/pull/80183))
-* Fix spawn rate of pizzaiolos ([#80179](https://github.com/CleverRaven/Cataclysm-DDA/pull/80179))
 * Fix horde spawn logic ([#80181](https://github.com/CleverRaven/Cataclysm-DDA/pull/80181))
-* Rebalance default zombie evolution possibilites ([#80180](https://github.com/CleverRaven/Cataclysm-DDA/pull/80180))
 * Rename karting to go-kart track ([#80187](https://github.com/CleverRaven/Cataclysm-DDA/pull/80187))
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
