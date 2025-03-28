@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-28-1628 ([75f2d7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-28-1628))
+
 * Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
 
 ---
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-03-21-1503 ([6c219f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-1503))
 
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-21-0858 ([b97884a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-0858))
-
 * Vampire weaknesses ([#80204](https://github.com/CleverRaven/Cataclysm-DDA/pull/80204))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
 * Item description: Expand `Can be stored in:` from (broken) holsters to all wearables. ([#80203](https://github.com/CleverRaven/Cataclysm-DDA/pull/80203))
