@@ -221,6 +221,5 @@
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
 * Add in a few restricted magazines ([#80183](https://github.com/CleverRaven/Cataclysm-DDA/pull/80183))
-* Fix horde spawn logic ([#80181](https://github.com/CleverRaven/Cataclysm-DDA/pull/80181))
 * Rename karting to go-kart track ([#80187](https://github.com/CleverRaven/Cataclysm-DDA/pull/80187))
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
