@@ -1,3 +1,11 @@
+* Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
+* [Balance] Adjust Alpha Mutations Point Balance + minor changes ([#80362](https://github.com/CleverRaven/Cataclysm-DDA/pull/80362))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-29-1412 ([c910dfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-1412))
+
+* [Bugfixes] Spells consume energy before casting effects ([#80361](https://github.com/CleverRaven/Cataclysm-DDA/pull/80361))
 
 ---
 
@@ -171,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-03-22-1417 ([65ec7c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-22-1417))
 
 * Routine i18n updates on 22 March 2025 ([#80278](https://github.com/CleverRaven/Cataclysm-DDA/pull/80278))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-22-0556 ([8d0675f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-22-0556))
-
 * [MoM] Raise Blink limit and add debug messages ([#80269](https://github.com/CleverRaven/Cataclysm-DDA/pull/80269))
 * Leech plants are part of EOC_IS_ELECTRIC ([#80259](https://github.com/CleverRaven/Cataclysm-DDA/pull/80259))
 * Fix mortar typo ([#80270](https://github.com/CleverRaven/Cataclysm-DDA/pull/80270))
@@ -216,11 +219,8 @@
 * checkwielded->has_item BEFORE unwielding ([#80197](https://github.com/CleverRaven/Cataclysm-DDA/pull/80197))
 * Add android build to the CI matrix ([#80212](https://github.com/CleverRaven/Cataclysm-DDA/pull/80212))
 * Add a few common guns ([#80200](https://github.com/CleverRaven/Cataclysm-DDA/pull/80200))
-* Aftershock Damage rebalance VII??:  Actually reblanace the entire game's armor damage formula instead ([#80193](https://github.com/CleverRaven/Cataclysm-DDA/pull/80193))
 * [MoM] Fix Apportation ([#80207](https://github.com/CleverRaven/Cataclysm-DDA/pull/80207))
 * [MoM] Add volume limits to Blink and Farstep ([#80208](https://github.com/CleverRaven/Cataclysm-DDA/pull/80208))
 * Fix t_reinforced_glass_lab breaks microlab's computer release actions #80175 ([#80196](https://github.com/CleverRaven/Cataclysm-DDA/pull/80196))
-* Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
-* Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
