@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-29-1626 ([1b65424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-1626))
+
 * Futile fighter profession ([#80313](https://github.com/CleverRaven/Cataclysm-DDA/pull/80313))
 * Ferals scream/yell/overall try to be mean ([#80346](https://github.com/CleverRaven/Cataclysm-DDA/pull/80346))
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
@@ -175,11 +180,6 @@
 * The Flat-coated retriever: In memory of Elwood ([#80272](https://github.com/CleverRaven/Cataclysm-DDA/pull/80272))
 * Revamp the gas station ([#80262](https://github.com/CleverRaven/Cataclysm-DDA/pull/80262))
 * Add some more empty containers to trash itemgroups ([#80281](https://github.com/CleverRaven/Cataclysm-DDA/pull/80281))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-22-1417 ([65ec7c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-22-1417))
-
 * Routine i18n updates on 22 March 2025 ([#80278](https://github.com/CleverRaven/Cataclysm-DDA/pull/80278))
 * [MoM] Raise Blink limit and add debug messages ([#80269](https://github.com/CleverRaven/Cataclysm-DDA/pull/80269))
 * Leech plants are part of EOC_IS_ELECTRIC ([#80259](https://github.com/CleverRaven/Cataclysm-DDA/pull/80259))
