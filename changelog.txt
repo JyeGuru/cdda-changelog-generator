@@ -1,3 +1,7 @@
+* Spells can parse tags now (#80343)
+
+Cataclysm-DDA experimental build 2025-03-29-0118 (dd46dc8)
+* [Magiclysm/XE] Fix accidentally-deleted custom integrated armor (#80354)
 
 Cataclysm-DDA experimental build 2025-03-28-1847 (144fb4e)
 * Gun copyfrom fixes (#80323)
@@ -96,8 +100,6 @@ Cataclysm-DDA experimental build 2025-03-22-0318 (340dc01)
 
 Cataclysm-DDA experimental build 2025-03-21-1953 (11b4b17)
 * Show appropriate message when trying to pulp acid corpses without protection or immunity (#80249)
-
-Cataclysm-DDA experimental build 2025-03-21-1725 (0033293)
 * Remove duplicate character_takeoff_item entries from the document. (#80266)
 * Prune pawnstore itemgroup (#80264)
 * Vampire weaknesses (#80204)
@@ -132,8 +134,6 @@ Cataclysm-DDA experimental build 2025-03-21-1725 (0033293)
 * fix #80035 and maybe other crash/segfault on quit (#80214)
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk (#80202)
 * checkwielded->has_item BEFORE unwielding (#80197)
-* Civilian SCARs (#80184)
-* passable -> passable_through (#80186)
 * Add android build to the CI matrix (#80212)
 * Add a few common guns (#80200)
 * Aftershock Damage rebalance VII??:  Actually reblanace the entire game's armor damage formula instead (#80193)

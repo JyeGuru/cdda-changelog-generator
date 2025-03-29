@@ -1,3 +1,10 @@
+* Spells can parse tags now ([#80343](https://github.com/CleverRaven/Cataclysm-DDA/pull/80343))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-29-0118 ([dd46dc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-0118))
+
+* [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
 
 ---
 
@@ -171,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-03-21-1953 ([11b4b17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-1953))
 
 * Show appropriate message when trying to pulp acid corpses without protection or immunity ([#80249](https://github.com/CleverRaven/Cataclysm-DDA/pull/80249))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-21-1725 ([0033293](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-21-1725))
-
 * Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
 * Vampire weaknesses ([#80204](https://github.com/CleverRaven/Cataclysm-DDA/pull/80204))
@@ -210,8 +212,6 @@
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk ([#80202](https://github.com/CleverRaven/Cataclysm-DDA/pull/80202))
 * checkwielded->has_item BEFORE unwielding ([#80197](https://github.com/CleverRaven/Cataclysm-DDA/pull/80197))
-* Civilian SCARs ([#80184](https://github.com/CleverRaven/Cataclysm-DDA/pull/80184))
-* passable -> passable_through ([#80186](https://github.com/CleverRaven/Cataclysm-DDA/pull/80186))
 * Add android build to the CI matrix ([#80212](https://github.com/CleverRaven/Cataclysm-DDA/pull/80212))
 * Add a few common guns ([#80200](https://github.com/CleverRaven/Cataclysm-DDA/pull/80200))
 * Aftershock Damage rebalance VII??:  Actually reblanace the entire game's armor damage formula instead ([#80193](https://github.com/CleverRaven/Cataclysm-DDA/pull/80193))
