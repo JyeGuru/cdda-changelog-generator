@@ -1,3 +1,4 @@
+* Ferals scream/yell/overall try to be mean ([#80346](https://github.com/CleverRaven/Cataclysm-DDA/pull/80346))
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes ([#80362](https://github.com/CleverRaven/Cataclysm-DDA/pull/80362))
 
@@ -203,7 +204,6 @@
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))
 * fix incorrect punctuation in techniques ([#80239](https://github.com/CleverRaven/Cataclysm-DDA/pull/80239))
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
-* Weekly Changelog 2025-03-10 to 2025-03-17 ([#80194](https://github.com/CleverRaven/Cataclysm-DDA/pull/80194))
 * Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
 * Light industry car & zombie spawns ([#80223](https://github.com/CleverRaven/Cataclysm-DDA/pull/80223))
 * Add more damage to dumpsites ([#80224](https://github.com/CleverRaven/Cataclysm-DDA/pull/80224))
