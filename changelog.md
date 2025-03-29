@@ -1,3 +1,5 @@
+* Allow summoned monsters to look like a summoner or monsters to look like an avatar ([#80341](https://github.com/CleverRaven/Cataclysm-DDA/pull/80341))
+* [XE] Adds a special boss encounter for tier 5 vampires ([#80347](https://github.com/CleverRaven/Cataclysm-DDA/pull/80347))
 
 ---
 
@@ -221,5 +223,4 @@
 * Player Fungal Dusted Apply Message ([#80192](https://github.com/CleverRaven/Cataclysm-DDA/pull/80192))
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
 * [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
-* Rename karting to go-kart track ([#80187](https://github.com/CleverRaven/Cataclysm-DDA/pull/80187))
 * Add feral prisoner ([#80190](https://github.com/CleverRaven/Cataclysm-DDA/pull/80190))
