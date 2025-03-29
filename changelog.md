@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-29-1841 ([f7f0d77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-1841))
+
 * fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
 
 ---
@@ -171,11 +176,6 @@
 * New England Community Church fixes 1 ([#80288](https://github.com/CleverRaven/Cataclysm-DDA/pull/80288))
 * Fix Pneumatic mission ([#80287](https://github.com/CleverRaven/Cataclysm-DDA/pull/80287))
 * Fix some vampiric weaknesses triggering for everyone. ([#80282](https://github.com/CleverRaven/Cataclysm-DDA/pull/80282))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-22-1631 ([68f8252](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-22-1631))
-
 * [XEDRA Evolved] The Noon ([#80280](https://github.com/CleverRaven/Cataclysm-DDA/pull/80280))
 * Fix palette issues in hosue_inner_garden ([#80276](https://github.com/CleverRaven/Cataclysm-DDA/pull/80276))
 * The Flat-coated retriever: In memory of Elwood ([#80272](https://github.com/CleverRaven/Cataclysm-DDA/pull/80272))
