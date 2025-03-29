@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-29-0545 ([36f192f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-0545))
+
 * Allow summoned monsters to look like a summoner or monsters to look like an avatar ([#80341](https://github.com/CleverRaven/Cataclysm-DDA/pull/80341))
 * [XE] Adds a special boss encounter for tier 5 vampires ([#80347](https://github.com/CleverRaven/Cataclysm-DDA/pull/80347))
 
@@ -173,11 +178,6 @@
 
 * [MoM] Raise Blink limit and add debug messages ([#80269](https://github.com/CleverRaven/Cataclysm-DDA/pull/80269))
 * Leech plants are part of EOC_IS_ELECTRIC ([#80259](https://github.com/CleverRaven/Cataclysm-DDA/pull/80259))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-22-0318 ([340dc01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-22-0318))
-
 * Fix mortar typo ([#80270](https://github.com/CleverRaven/Cataclysm-DDA/pull/80270))
 * Show appropriate message when trying to pulp acid corpses without protection or immunity ([#80249](https://github.com/CleverRaven/Cataclysm-DDA/pull/80249))
 * Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
