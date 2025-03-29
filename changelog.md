@@ -1,3 +1,4 @@
+* fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
 
 ---
 
@@ -222,5 +223,4 @@
 * Add a few common guns ([#80200](https://github.com/CleverRaven/Cataclysm-DDA/pull/80200))
 * [MoM] Fix Apportation ([#80207](https://github.com/CleverRaven/Cataclysm-DDA/pull/80207))
 * [MoM] Add volume limits to Blink and Farstep ([#80208](https://github.com/CleverRaven/Cataclysm-DDA/pull/80208))
-* Fix t_reinforced_glass_lab breaks microlab's computer release actions #80175 ([#80196](https://github.com/CleverRaven/Cataclysm-DDA/pull/80196))
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
