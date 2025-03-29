@@ -1,3 +1,4 @@
+* Futile fighter profession ([#80313](https://github.com/CleverRaven/Cataclysm-DDA/pull/80313))
 * Ferals scream/yell/overall try to be mean ([#80346](https://github.com/CleverRaven/Cataclysm-DDA/pull/80346))
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes ([#80362](https://github.com/CleverRaven/Cataclysm-DDA/pull/80362))
@@ -223,4 +224,3 @@
 * [MoM] Add volume limits to Blink and Farstep ([#80208](https://github.com/CleverRaven/Cataclysm-DDA/pull/80208))
 * Fix t_reinforced_glass_lab breaks microlab's computer release actions #80175 ([#80196](https://github.com/CleverRaven/Cataclysm-DDA/pull/80196))
 * guneet singh wears scabbard ([#80198](https://github.com/CleverRaven/Cataclysm-DDA/pull/80198))
-* [ Xedra Evolved ] Bugfix Gracken Harvest adjustments ([#80195](https://github.com/CleverRaven/Cataclysm-DDA/pull/80195))
