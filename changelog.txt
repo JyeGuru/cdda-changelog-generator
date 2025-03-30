@@ -1,3 +1,4 @@
+* Update flawless_memory.json (#80378)
 * Pin cmake version in windows build (#80379)
 
 Cataclysm-DDA experimental build 2025-03-30-0007 (6908379)
@@ -145,6 +146,5 @@ Cataclysm-DDA experimental build 2025-03-23-1452 (d11d43c)
 * fix #80035 and maybe other crash/segfault on quit (#80214)
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk (#80202)
 * Add android build to the CI matrix (#80212)
-* Add a few common guns (#80200)
 * [MoM] Fix Apportation (#80207)
 * [MoM] Add volume limits to Blink and Farstep (#80208)

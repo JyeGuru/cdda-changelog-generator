@@ -1,3 +1,4 @@
+* Update flawless_memory.json ([#80378](https://github.com/CleverRaven/Cataclysm-DDA/pull/80378))
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
 
 ---
@@ -226,6 +227,5 @@
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk ([#80202](https://github.com/CleverRaven/Cataclysm-DDA/pull/80202))
 * Add android build to the CI matrix ([#80212](https://github.com/CleverRaven/Cataclysm-DDA/pull/80212))
-* Add a few common guns ([#80200](https://github.com/CleverRaven/Cataclysm-DDA/pull/80200))
 * [MoM] Fix Apportation ([#80207](https://github.com/CleverRaven/Cataclysm-DDA/pull/80207))
 * [MoM] Add volume limits to Blink and Farstep ([#80208](https://github.com/CleverRaven/Cataclysm-DDA/pull/80208))
