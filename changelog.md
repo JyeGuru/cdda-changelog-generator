@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-03-30-0007 ([6908379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-30-0007))
+
+* Manual recipe for long wooden post for innawoods ([#80374](https://github.com/CleverRaven/Cataclysm-DDA/pull/80374))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-03-29-1841 ([f7f0d77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-1841))
 
 * fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
@@ -218,7 +224,6 @@
 * fix not being able to unwield ([#80221](https://github.com/CleverRaven/Cataclysm-DDA/pull/80221))
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
 * Added Colt M1860 Army to Bombatic Perks' Olde Reliables Perk ([#80202](https://github.com/CleverRaven/Cataclysm-DDA/pull/80202))
-* checkwielded->has_item BEFORE unwielding ([#80197](https://github.com/CleverRaven/Cataclysm-DDA/pull/80197))
 * Add android build to the CI matrix ([#80212](https://github.com/CleverRaven/Cataclysm-DDA/pull/80212))
 * Add a few common guns ([#80200](https://github.com/CleverRaven/Cataclysm-DDA/pull/80200))
 * [MoM] Fix Apportation ([#80207](https://github.com/CleverRaven/Cataclysm-DDA/pull/80207))
