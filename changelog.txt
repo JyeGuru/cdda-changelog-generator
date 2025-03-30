@@ -1,3 +1,4 @@
+* Pin cmake version in windows build (#80379)
 
 Cataclysm-DDA experimental build 2025-03-30-0007 (6908379)
 * Manual recipe for long wooden post for innawoods (#80374)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-03-23-1452 (d11d43c)
 * Add a few common guns (#80200)
 * [MoM] Fix Apportation (#80207)
 * [MoM] Add volume limits to Blink and Farstep (#80208)
-* guneet singh wears scabbard (#80198)
