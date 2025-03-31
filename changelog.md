@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-31-0504 ([10d139a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-31-0504))
+
+* Revamp gunmod locations ([#80360](https://github.com/CleverRaven/Cataclysm-DDA/pull/80360))
 * Audit the existence of a few gunmods ([#80372](https://github.com/CleverRaven/Cataclysm-DDA/pull/80372))
 * Fix Magiclysm fireproof mortar recipe ([#80377](https://github.com/CleverRaven/Cataclysm-DDA/pull/80377))
 * Allow character_ranged_attacks_* events catch throw attack, add context val is_throw to determine whether the event was triggered by a thrown attack. ([#80333](https://github.com/CleverRaven/Cataclysm-DDA/pull/80333))
@@ -179,11 +185,6 @@
 
 * Final mission giver fix in vainilla ([#80295](https://github.com/CleverRaven/Cataclysm-DDA/pull/80295))
 * Fixes Dana's sourdough mission ([#80293](https://github.com/CleverRaven/Cataclysm-DDA/pull/80293))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-24-0334 ([e188b4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-0334))
-
 * [MoM] Rework teleportation volume calculations (again) ([#80291](https://github.com/CleverRaven/Cataclysm-DDA/pull/80291))
 * handle empty travel path ([#80285](https://github.com/CleverRaven/Cataclysm-DDA/pull/80285))
 * New England Community Church fixes 1 ([#80288](https://github.com/CleverRaven/Cataclysm-DDA/pull/80288))
@@ -228,4 +229,3 @@
 * Amalgamations can spawn naturally ([#80219](https://github.com/CleverRaven/Cataclysm-DDA/pull/80219))
 * fix not being able to unwield ([#80221](https://github.com/CleverRaven/Cataclysm-DDA/pull/80221))
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
-* Add android build to the CI matrix ([#80212](https://github.com/CleverRaven/Cataclysm-DDA/pull/80212))
