@@ -1,3 +1,4 @@
+* [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
 * [Sky Island] Add healing salve ([#80345](https://github.com/CleverRaven/Cataclysm-DDA/pull/80345))
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling ([#80366](https://github.com/CleverRaven/Cataclysm-DDA/pull/80366))
 
@@ -227,5 +228,4 @@
 * FEMA camp mutable bus area ([#80222](https://github.com/CleverRaven/Cataclysm-DDA/pull/80222))
 * Add more item spawns to hardware stores ([#80228](https://github.com/CleverRaven/Cataclysm-DDA/pull/80228))
 * Make airdrops actually spawn monsters ([#80229](https://github.com/CleverRaven/Cataclysm-DDA/pull/80229))
-* Amalgamations can spawn naturally ([#80219](https://github.com/CleverRaven/Cataclysm-DDA/pull/80219))
 * fix not being able to unwield ([#80221](https://github.com/CleverRaven/Cataclysm-DDA/pull/80221))
