@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-03-31-0727 ([09e8d39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-31-0727))
+
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
 * [Sky Island] Add healing salve ([#80345](https://github.com/CleverRaven/Cataclysm-DDA/pull/80345))
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling ([#80366](https://github.com/CleverRaven/Cataclysm-DDA/pull/80366))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-03-24-2006 ([c8a5b17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-2006))
 
 *  [MoM] Add new Photokinetic power, Phantom Legion ([#80309](https://github.com/CleverRaven/Cataclysm-DDA/pull/80309))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-24-0557 ([1ebb8bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-0557))
-
 * Final mission giver fix in vainilla ([#80295](https://github.com/CleverRaven/Cataclysm-DDA/pull/80295))
 * Fixes Dana's sourdough mission ([#80293](https://github.com/CleverRaven/Cataclysm-DDA/pull/80293))
 * [MoM] Rework teleportation volume calculations (again) ([#80291](https://github.com/CleverRaven/Cataclysm-DDA/pull/80291))
