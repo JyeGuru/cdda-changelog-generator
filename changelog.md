@@ -1,3 +1,4 @@
+* Fix Magiclysm fireproof mortar recipe ([#80377](https://github.com/CleverRaven/Cataclysm-DDA/pull/80377))
 * Allow character_ranged_attacks_* events catch throw attack, add context val is_throw to determine whether the event was triggered by a thrown attack. ([#80333](https://github.com/CleverRaven/Cataclysm-DDA/pull/80333))
 * Add a new nether monster, Eldritch Huntsman ([#80305](https://github.com/CleverRaven/Cataclysm-DDA/pull/80305))
 
@@ -227,5 +228,4 @@
 * fix not being able to unwield ([#80221](https://github.com/CleverRaven/Cataclysm-DDA/pull/80221))
 * fix #80035 and maybe other crash/segfault on quit ([#80214](https://github.com/CleverRaven/Cataclysm-DDA/pull/80214))
 * Add android build to the CI matrix ([#80212](https://github.com/CleverRaven/Cataclysm-DDA/pull/80212))
-* [MoM] Fix Apportation ([#80207](https://github.com/CleverRaven/Cataclysm-DDA/pull/80207))
 * [MoM] Add volume limits to Blink and Farstep ([#80208](https://github.com/CleverRaven/Cataclysm-DDA/pull/80208))

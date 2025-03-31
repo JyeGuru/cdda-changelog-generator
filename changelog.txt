@@ -1,3 +1,4 @@
+* Fix Magiclysm fireproof mortar recipe (#80377)
 * Allow character_ranged_attacks_* events catch throw attack, add context val is_throw to determine whether the event was triggered by a thrown attack. (#80333)
 * Add a new nether monster, Eldritch Huntsman (#80305)
 
@@ -146,5 +147,4 @@ Cataclysm-DDA experimental build 2025-03-24-0334 (e188b4b)
 * fix not being able to unwield (#80221)
 * fix #80035 and maybe other crash/segfault on quit (#80214)
 * Add android build to the CI matrix (#80212)
-* [MoM] Fix Apportation (#80207)
 * [MoM] Add volume limits to Blink and Farstep (#80208)
