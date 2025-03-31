@@ -1,3 +1,5 @@
+* Allow character_ranged_attacks_* events catch throw attack, add context val is_throw to determine whether the event was triggered by a thrown attack. ([#80333](https://github.com/CleverRaven/Cataclysm-DDA/pull/80333))
+* Add a new nether monster, Eldritch Huntsman ([#80305](https://github.com/CleverRaven/Cataclysm-DDA/pull/80305))
 
 ---
 
@@ -197,9 +199,7 @@
 * Show appropriate message when trying to pulp acid corpses without protection or immunity ([#80249](https://github.com/CleverRaven/Cataclysm-DDA/pull/80249))
 * Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
-* Vampire weaknesses ([#80204](https://github.com/CleverRaven/Cataclysm-DDA/pull/80204))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
-* Item description: Expand `Can be stored in:` from (broken) holsters to all wearables. ([#80203](https://github.com/CleverRaven/Cataclysm-DDA/pull/80203))
 * 5.7 SS195LF Civilian Rounds ([#80232](https://github.com/CleverRaven/Cataclysm-DDA/pull/80232))
 * Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
 * Fix Character::recalc_speed_bonus call position error，which cause #75484 and some other bugs. ([#80218](https://github.com/CleverRaven/Cataclysm-DDA/pull/80218))
