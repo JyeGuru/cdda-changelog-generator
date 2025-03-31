@@ -1,3 +1,4 @@
+* [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling (#80366)
 
 Cataclysm-DDA experimental build 2025-03-31-0504 (10d139a)
 * Revamp gunmod locations (#80360)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-03-24-0557 (1ebb8bb)
 * Make airdrops actually spawn monsters (#80229)
 * Amalgamations can spawn naturally (#80219)
 * fix not being able to unwield (#80221)
-* fix #80035 and maybe other crash/segfault on quit (#80214)
