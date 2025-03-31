@@ -1,3 +1,4 @@
+* [Sky Island] Add healing salve ([#80345](https://github.com/CleverRaven/Cataclysm-DDA/pull/80345))
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling ([#80366](https://github.com/CleverRaven/Cataclysm-DDA/pull/80366))
 
 ---
@@ -206,7 +207,6 @@
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
 * 5.7 SS195LF Civilian Rounds ([#80232](https://github.com/CleverRaven/Cataclysm-DDA/pull/80232))
 * Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
-* Fix Character::recalc_speed_bonus call position error，which cause #75484 and some other bugs. ([#80218](https://github.com/CleverRaven/Cataclysm-DDA/pull/80218))
 * Fix apiary bash results ([#80234](https://github.com/CleverRaven/Cataclysm-DDA/pull/80234))
 * Aftershock Damage Rebalance VIII: Rebalance player Armors ([#80236](https://github.com/CleverRaven/Cataclysm-DDA/pull/80236))
 * Add an is_browsed condition to display recipes on an estorage (fix #80199) ([#80237](https://github.com/CleverRaven/Cataclysm-DDA/pull/80237))
