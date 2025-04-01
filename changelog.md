@@ -1,3 +1,8 @@
+* Weekly Changelog 2025-03-24 to 2025-03-31 ([#80388](https://github.com/CleverRaven/Cataclysm-DDA/pull/80388))
+* [Xedra Evolved] Fix Magiclysm haste interactions ([#80396](https://github.com/CleverRaven/Cataclysm-DDA/pull/80396))
+* Routine tileset updates on 01 April 2025 ([#80405](https://github.com/CleverRaven/Cataclysm-DDA/pull/80405))
+* Add category to ammo boxes ([#80397](https://github.com/CleverRaven/Cataclysm-DDA/pull/80397))
+* Fix up garden_house_1 ([#80403](https://github.com/CleverRaven/Cataclysm-DDA/pull/80403))
 * Punctuation! ([#80393](https://github.com/CleverRaven/Cataclysm-DDA/pull/80393))
 
 ---
@@ -224,8 +229,3 @@
 * fix incorrect punctuation in techniques ([#80239](https://github.com/CleverRaven/Cataclysm-DDA/pull/80239))
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
 * Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
-* Add more damage to dumpsites ([#80224](https://github.com/CleverRaven/Cataclysm-DDA/pull/80224))
-* Remove AI reference in alarm barred windows ([#80225](https://github.com/CleverRaven/Cataclysm-DDA/pull/80225))
-* Port over stop signs from CTLG ([#80231](https://github.com/CleverRaven/Cataclysm-DDA/pull/80231))
-* Add more item spawns to hardware stores ([#80228](https://github.com/CleverRaven/Cataclysm-DDA/pull/80228))
-* Make airdrops actually spawn monsters ([#80229](https://github.com/CleverRaven/Cataclysm-DDA/pull/80229))
