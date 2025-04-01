@@ -1,3 +1,10 @@
+* Punctuation! ([#80393](https://github.com/CleverRaven/Cataclysm-DDA/pull/80393))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-01-0617 ([01e18c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-0617))
+
+* [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-03-25-0137 ([afbb09c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-0137))
 
 * Delayed NPC angry due to construct until confirm construction in menu. ([#80301](https://github.com/CleverRaven/Cataclysm-DDA/pull/80301))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-24-2253 ([f3458d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-24-2253))
-
 * MISSION_GODCO_COOK_FOOD_2 requires 40x 3 liter glass jar now ([#80263](https://github.com/CleverRaven/Cataclysm-DDA/pull/80263))
 * Fix #80290 Riot damage's random moving of items for SEALED CONTAINER ([#80298](https://github.com/CleverRaven/Cataclysm-DDA/pull/80298))
 *  [MoM] Add new Photokinetic power, Phantom Legion ([#80309](https://github.com/CleverRaven/Cataclysm-DDA/pull/80309))
@@ -222,10 +224,8 @@
 * fix incorrect punctuation in techniques ([#80239](https://github.com/CleverRaven/Cataclysm-DDA/pull/80239))
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
 * Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
-* Light industry car & zombie spawns ([#80223](https://github.com/CleverRaven/Cataclysm-DDA/pull/80223))
 * Add more damage to dumpsites ([#80224](https://github.com/CleverRaven/Cataclysm-DDA/pull/80224))
 * Remove AI reference in alarm barred windows ([#80225](https://github.com/CleverRaven/Cataclysm-DDA/pull/80225))
 * Port over stop signs from CTLG ([#80231](https://github.com/CleverRaven/Cataclysm-DDA/pull/80231))
-* FEMA camp mutable bus area ([#80222](https://github.com/CleverRaven/Cataclysm-DDA/pull/80222))
 * Add more item spawns to hardware stores ([#80228](https://github.com/CleverRaven/Cataclysm-DDA/pull/80228))
 * Make airdrops actually spawn monsters ([#80229](https://github.com/CleverRaven/Cataclysm-DDA/pull/80229))
