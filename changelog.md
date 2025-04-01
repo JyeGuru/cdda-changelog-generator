@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-01-0855 ([053a605](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-0855))
+
 * Weekly Changelog 2025-03-24 to 2025-03-31 ([#80388](https://github.com/CleverRaven/Cataclysm-DDA/pull/80388))
 * [Xedra Evolved] Fix Magiclysm haste interactions ([#80396](https://github.com/CleverRaven/Cataclysm-DDA/pull/80396))
 * Routine tileset updates on 01 April 2025 ([#80405](https://github.com/CleverRaven/Cataclysm-DDA/pull/80405))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-03-25-0401 ([616dea2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-0401))
 
 * fix both AIM-panels selected ([#80303](https://github.com/CleverRaven/Cataclysm-DDA/pull/80303))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-25-0137 ([afbb09c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-0137))
-
 * Delayed NPC angry due to construct until confirm construction in menu. ([#80301](https://github.com/CleverRaven/Cataclysm-DDA/pull/80301))
 * MISSION_GODCO_COOK_FOOD_2 requires 40x 3 liter glass jar now ([#80263](https://github.com/CleverRaven/Cataclysm-DDA/pull/80263))
 * Fix #80290 Riot damage's random moving of items for SEALED CONTAINER ([#80298](https://github.com/CleverRaven/Cataclysm-DDA/pull/80298))
