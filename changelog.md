@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-02-0749 ([0fb25fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-0749))
+
 * [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-03-26-0327 ([f1a1638](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-0327))
 
 * Continue replacing steel ([#80241](https://github.com/CleverRaven/Cataclysm-DDA/pull/80241))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-25-1451 ([53c762e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-1451))
-
 * New England Community Church Improvements 2 ([#80300](https://github.com/CleverRaven/Cataclysm-DDA/pull/80300))
 * New cigarette variants ([#80304](https://github.com/CleverRaven/Cataclysm-DDA/pull/80304))
 * Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
