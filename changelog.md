@@ -1,3 +1,10 @@
+* [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-02-0527 ([169e23f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-0527))
+
+* Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
 
 ---
 
@@ -183,11 +190,6 @@
 * New cigarette variants ([#80304](https://github.com/CleverRaven/Cataclysm-DDA/pull/80304))
 * Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
 * Add denatured alcohols to houses ([#80315](https://github.com/CleverRaven/Cataclysm-DDA/pull/80315))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-25-1223 ([54063aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-1223))
-
 * Fix messenger bag's sided function  ([#80312](https://github.com/CleverRaven/Cataclysm-DDA/pull/80312))
 * Church zombie & car spawns ([#80317](https://github.com/CleverRaven/Cataclysm-DDA/pull/80317))
 * Road trash spawns ([#80316](https://github.com/CleverRaven/Cataclysm-DDA/pull/80316))
@@ -217,7 +219,6 @@
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
 * Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
-* Aftershock Damage Rebalance VIII: Rebalance player Armors ([#80236](https://github.com/CleverRaven/Cataclysm-DDA/pull/80236))
 * Add an is_browsed condition to display recipes on an estorage (fix #80199) ([#80237](https://github.com/CleverRaven/Cataclysm-DDA/pull/80237))
 * Removes 'used_ifak' from 'trashcan_full' and 'trashcan_half' itemgroups ([#80238](https://github.com/CleverRaven/Cataclysm-DDA/pull/80238))
 * [MoM] Fix teleportation EoCs checking integrated item volume ([#80242](https://github.com/CleverRaven/Cataclysm-DDA/pull/80242))
@@ -228,4 +229,3 @@
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))
 * fix incorrect punctuation in techniques ([#80239](https://github.com/CleverRaven/Cataclysm-DDA/pull/80239))
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
-* Add primitive_ranged_weapon flag to rail-mounted crossbow ([#80235](https://github.com/CleverRaven/Cataclysm-DDA/pull/80235))
