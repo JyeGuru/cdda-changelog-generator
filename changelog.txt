@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-02-0006 (f61901a)
+* Involuntary Traveler do not speak english (#80408)
+
 Cataclysm-DDA experimental build 2025-04-01-1957 (4bdc898)
 * update clang-tidy docs to reflect our switch to llvm-18 and clang++-18 (#80394)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-03-25-1451 (53c762e)
 Cataclysm-DDA experimental build 2025-03-25-1223 (54063aa)
 * Fix messenger bag's sided function  (#80312)
 * Church zombie & car spawns (#80317)
-
-Cataclysm-DDA experimental build 2025-03-25-0942 (e657d36)
 * Road trash spawns (#80316)
 * fix both AIM-panels selected (#80303)
 * Delayed NPC angry due to construct until confirm construction in menu. (#80301)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2025-03-25-0942 (e657d36)
 * Prune pawnstore itemgroup (#80264)
 * More pieces of clothing can allow you to block with them (#80260)
 * Fix changelog still saying it's 0.H (#80243)
-* Fix apiary bash results (#80234)
 * Aftershock Damage Rebalance VIII: Rebalance player Armors (#80236)
 * Add an is_browsed condition to display recipes on an estorage (fix #80199) (#80237)
 * Removes 'used_ifak' from 'trashcan_full' and 'trashcan_half' itemgroups (#80238)

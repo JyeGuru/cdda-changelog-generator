@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-02-0006 ([f61901a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-0006))
+
+* Involuntary Traveler do not speak english ([#80408](https://github.com/CleverRaven/Cataclysm-DDA/pull/80408))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-01-1957 ([4bdc898](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-1957))
 
 * update clang-tidy docs to reflect our switch to llvm-18 and clang++-18 ([#80394](https://github.com/CleverRaven/Cataclysm-DDA/pull/80394))
@@ -184,11 +190,6 @@
 
 * Fix messenger bag's sided function  ([#80312](https://github.com/CleverRaven/Cataclysm-DDA/pull/80312))
 * Church zombie & car spawns ([#80317](https://github.com/CleverRaven/Cataclysm-DDA/pull/80317))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-25-0942 ([e657d36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-25-0942))
-
 * Road trash spawns ([#80316](https://github.com/CleverRaven/Cataclysm-DDA/pull/80316))
 * fix both AIM-panels selected ([#80303](https://github.com/CleverRaven/Cataclysm-DDA/pull/80303))
 * Delayed NPC angry due to construct until confirm construction in menu. ([#80301](https://github.com/CleverRaven/Cataclysm-DDA/pull/80301))
@@ -216,7 +217,6 @@
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
 * Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
-* Fix apiary bash results ([#80234](https://github.com/CleverRaven/Cataclysm-DDA/pull/80234))
 * Aftershock Damage Rebalance VIII: Rebalance player Armors ([#80236](https://github.com/CleverRaven/Cataclysm-DDA/pull/80236))
 * Add an is_browsed condition to display recipes on an estorage (fix #80199) ([#80237](https://github.com/CleverRaven/Cataclysm-DDA/pull/80237))
 * Removes 'used_ifak' from 'trashcan_full' and 'trashcan_half' itemgroups ([#80238](https://github.com/CleverRaven/Cataclysm-DDA/pull/80238))
