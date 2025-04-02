@@ -1,3 +1,11 @@
+* Add AIM tests (part 2) - Basic transfer / pick up ([#80308](https://github.com/CleverRaven/Cataclysm-DDA/pull/80308))
+* Fix an obsolete snippet in src/activity_handlers.cpp ([#80387](https://github.com/CleverRaven/Cataclysm-DDA/pull/80387))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-02-1315 ([2ba1e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-1315))
+
+* Add items with NO_TEMP flag to temperature removal blacklist ([#80398](https://github.com/CleverRaven/Cataclysm-DDA/pull/80398))
 
 ---
 
@@ -180,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-03-26-1422 ([d5ffade](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-1422))
 
 * Weekly Changelog 2025-03-17 to 2025-03-24 ([#80297](https://github.com/CleverRaven/Cataclysm-DDA/pull/80297))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-26-0327 ([f1a1638](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-0327))
-
 * Continue replacing steel ([#80241](https://github.com/CleverRaven/Cataclysm-DDA/pull/80241))
 * New England Community Church Improvements 2 ([#80300](https://github.com/CleverRaven/Cataclysm-DDA/pull/80300))
 * New cigarette variants ([#80304](https://github.com/CleverRaven/Cataclysm-DDA/pull/80304))
@@ -219,13 +222,10 @@
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
 * Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
-* Add an is_browsed condition to display recipes on an estorage (fix #80199) ([#80237](https://github.com/CleverRaven/Cataclysm-DDA/pull/80237))
-* Removes 'used_ifak' from 'trashcan_full' and 'trashcan_half' itemgroups ([#80238](https://github.com/CleverRaven/Cataclysm-DDA/pull/80238))
 * [MoM] Fix teleportation EoCs checking integrated item volume ([#80242](https://github.com/CleverRaven/Cataclysm-DDA/pull/80242))
 * Fix #80245 null pointer while swapping position with a monster ([#80254](https://github.com/CleverRaven/Cataclysm-DDA/pull/80254))
 * Weed snippet fix ([#80248](https://github.com/CleverRaven/Cataclysm-DDA/pull/80248))
 * Electronic stores have more appliances ([#80247](https://github.com/CleverRaven/Cataclysm-DDA/pull/80247))
 * Fix palette issue in house_w_5 ([#80246](https://github.com/CleverRaven/Cataclysm-DDA/pull/80246))
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))
-* fix incorrect punctuation in techniques ([#80239](https://github.com/CleverRaven/Cataclysm-DDA/pull/80239))
 * Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))
