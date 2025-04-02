@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-02-2031 ([a8d5628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-2031))
+
+* Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-02-1546 ([fa78e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-1546))
 
 * Add AIM tests (part 2) - Basic transfer / pick up ([#80308](https://github.com/CleverRaven/Cataclysm-DDA/pull/80308))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-03-26-1649 ([6459960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-1649))
 
 * [Magiclysm] Add Translocation Portal ([#80314](https://github.com/CleverRaven/Cataclysm-DDA/pull/80314))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-26-1422 ([d5ffade](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-1422))
-
 * Weekly Changelog 2025-03-17 to 2025-03-24 ([#80297](https://github.com/CleverRaven/Cataclysm-DDA/pull/80297))
 * Continue replacing steel ([#80241](https://github.com/CleverRaven/Cataclysm-DDA/pull/80241))
 * New England Community Church Improvements 2 ([#80300](https://github.com/CleverRaven/Cataclysm-DDA/pull/80300))
@@ -233,4 +234,3 @@
 * Electronic stores have more appliances ([#80247](https://github.com/CleverRaven/Cataclysm-DDA/pull/80247))
 * Fix palette issue in house_w_5 ([#80246](https://github.com/CleverRaven/Cataclysm-DDA/pull/80246))
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))
-* Add baking soda to pantries ([#80240](https://github.com/CleverRaven/Cataclysm-DDA/pull/80240))

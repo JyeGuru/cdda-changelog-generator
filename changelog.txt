@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-02-2031 (a8d5628)
+* Remove weird metal flooring around shipwrecks (#80410)
+
 Cataclysm-DDA experimental build 2025-04-02-1546 (fa78e93)
 * Add AIM tests (part 2) - Basic transfer / pick up (#80308)
 * Fix an obsolete snippet in src/activity_handlers.cpp (#80387)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-03-27-0147 (a3f49a3)
 
 Cataclysm-DDA experimental build 2025-03-26-1649 (6459960)
 * [Magiclysm] Add Translocation Portal (#80314)
-
-Cataclysm-DDA experimental build 2025-03-26-1422 (d5ffade)
 * Weekly Changelog 2025-03-17 to 2025-03-24 (#80297)
 * Continue replacing steel (#80241)
 * New England Community Church Improvements 2 (#80300)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-03-26-1422 (d5ffade)
 * Electronic stores have more appliances (#80247)
 * Fix palette issue in house_w_5 (#80246)
 * Draft NO AI policy in contributing doc (#80253)
-* Add baking soda to pantries (#80240)
