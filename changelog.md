@@ -1,3 +1,4 @@
+* Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
 * sanify ebooksave energy consumptions ([#80406](https://github.com/CleverRaven/Cataclysm-DDA/pull/80406))
 * Make u_die fields properly optional ([#80389](https://github.com/CleverRaven/Cataclysm-DDA/pull/80389))
 
@@ -232,5 +233,4 @@
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
 * Fix #80245 null pointer while swapping position with a monster ([#80254](https://github.com/CleverRaven/Cataclysm-DDA/pull/80254))
 * Weed snippet fix ([#80248](https://github.com/CleverRaven/Cataclysm-DDA/pull/80248))
-* Electronic stores have more appliances ([#80247](https://github.com/CleverRaven/Cataclysm-DDA/pull/80247))
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))

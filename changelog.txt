@@ -1,3 +1,4 @@
+* Used/unused names for map cache + lore files (#80402)
 * sanify ebooksave energy consumptions (#80406)
 * Make u_die fields properly optional (#80389)
 
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2025-03-27-1344 (02bdc99)
 * More pieces of clothing can allow you to block with them (#80260)
 * Fix #80245 null pointer while swapping position with a monster (#80254)
 * Weed snippet fix (#80248)
-* Electronic stores have more appliances (#80247)
 * Draft NO AI policy in contributing doc (#80253)
