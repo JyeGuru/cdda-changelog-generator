@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-03-0707 (a4c4e21)
 * Used/unused names for map cache + lore files (#80402)
 * sanify ebooksave energy consumptions (#80406)
 * Make u_die fields properly optional (#80389)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2025-03-27-1644 (2c65586)
 * Candy Butchery update (#80322)
 * [MoM] Jmath updates in power learning (#80311)
 * fix typo in labeler (#80339)
-
-Cataclysm-DDA experimental build 2025-03-27-1344 (02bdc99)
 * Fix missing period (#80338)
 * Add My Sweet Cataclysm to Autolabeler (#80324)
 * Fix f_sign_stop drop (#80319)

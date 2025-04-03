@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-03-0707 ([a4c4e21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0707))
+
 * Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
 * sanify ebooksave energy consumptions ([#80406](https://github.com/CleverRaven/Cataclysm-DDA/pull/80406))
 * Make u_die fields properly optional ([#80389](https://github.com/CleverRaven/Cataclysm-DDA/pull/80389))
@@ -189,11 +194,6 @@
 * Candy Butchery update ([#80322](https://github.com/CleverRaven/Cataclysm-DDA/pull/80322))
 * [MoM] Jmath updates in power learning ([#80311](https://github.com/CleverRaven/Cataclysm-DDA/pull/80311))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-27-1344 ([02bdc99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-1344))
-
 * Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
 * Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
 * Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
