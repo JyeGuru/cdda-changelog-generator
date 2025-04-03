@@ -1,3 +1,11 @@
+* sanify ebooksave energy consumptions ([#80406](https://github.com/CleverRaven/Cataclysm-DDA/pull/80406))
+* Make u_die fields properly optional ([#80389](https://github.com/CleverRaven/Cataclysm-DDA/pull/80389))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-03-0446 ([387b5b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0446))
+
+* Fix furniture tool pocket error and segfault error ([#80417](https://github.com/CleverRaven/Cataclysm-DDA/pull/80417))
 
 ---
 
@@ -187,11 +195,6 @@
 
 * Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
 * Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-27-0147 ([a3f49a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-0147))
-
 * Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
 * [Magiclysm] Add Translocation Portal ([#80314](https://github.com/CleverRaven/Cataclysm-DDA/pull/80314))
 * Weekly Changelog 2025-03-17 to 2025-03-24 ([#80297](https://github.com/CleverRaven/Cataclysm-DDA/pull/80297))
@@ -227,10 +230,7 @@
 * Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
-* Fix changelog still saying it's 0.H ([#80243](https://github.com/CleverRaven/Cataclysm-DDA/pull/80243))
-* [MoM] Fix teleportation EoCs checking integrated item volume ([#80242](https://github.com/CleverRaven/Cataclysm-DDA/pull/80242))
 * Fix #80245 null pointer while swapping position with a monster ([#80254](https://github.com/CleverRaven/Cataclysm-DDA/pull/80254))
 * Weed snippet fix ([#80248](https://github.com/CleverRaven/Cataclysm-DDA/pull/80248))
 * Electronic stores have more appliances ([#80247](https://github.com/CleverRaven/Cataclysm-DDA/pull/80247))
-* Fix palette issue in house_w_5 ([#80246](https://github.com/CleverRaven/Cataclysm-DDA/pull/80246))
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))
