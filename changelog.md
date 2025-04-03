@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-03-0128 ([1714d51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0128))
+
+* Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-02-2031 ([a8d5628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-2031))
 
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
@@ -187,14 +193,8 @@
 #### Cataclysm-DDA experimental build 2025-03-27-0147 ([a3f49a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-0147))
 
 * Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-26-1649 ([6459960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-26-1649))
-
 * [Magiclysm] Add Translocation Portal ([#80314](https://github.com/CleverRaven/Cataclysm-DDA/pull/80314))
 * Weekly Changelog 2025-03-17 to 2025-03-24 ([#80297](https://github.com/CleverRaven/Cataclysm-DDA/pull/80297))
-* Continue replacing steel ([#80241](https://github.com/CleverRaven/Cataclysm-DDA/pull/80241))
 * New England Community Church Improvements 2 ([#80300](https://github.com/CleverRaven/Cataclysm-DDA/pull/80300))
 * New cigarette variants ([#80304](https://github.com/CleverRaven/Cataclysm-DDA/pull/80304))
 * Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
