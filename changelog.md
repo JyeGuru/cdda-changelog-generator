@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-03-2309 ([840aabf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-2309))
+
+* Underground Temperature now depends on Region Settings ([#80416](https://github.com/CleverRaven/Cataclysm-DDA/pull/80416))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-03-0707 ([a4c4e21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0707))
 
 * Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-03-27-1932 ([d1d565f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-1932))
 
 * Military outpost revamp ([#80337](https://github.com/CleverRaven/Cataclysm-DDA/pull/80337))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-27-1644 ([2c65586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-1644))
-
 * [Bugfixes] Fix mutating resetting stats and stamina ([#80325](https://github.com/CleverRaven/Cataclysm-DDA/pull/80325))
 * Candy Butchery update ([#80322](https://github.com/CleverRaven/Cataclysm-DDA/pull/80322))
 * [MoM] Jmath updates in power learning ([#80311](https://github.com/CleverRaven/Cataclysm-DDA/pull/80311))
@@ -232,5 +233,4 @@
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
 * Fix #80245 null pointer while swapping position with a monster ([#80254](https://github.com/CleverRaven/Cataclysm-DDA/pull/80254))
-* Weed snippet fix ([#80248](https://github.com/CleverRaven/Cataclysm-DDA/pull/80248))
 * Draft NO AI policy in contributing doc ([#80253](https://github.com/CleverRaven/Cataclysm-DDA/pull/80253))

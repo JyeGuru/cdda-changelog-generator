@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-03-2309 (840aabf)
+* Underground Temperature now depends on Region Settings (#80416)
+
 Cataclysm-DDA experimental build 2025-04-03-0707 (a4c4e21)
 * Used/unused names for map cache + lore files (#80402)
 * sanify ebooksave energy consumptions (#80406)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-03-28-1404 (23713e8)
 
 Cataclysm-DDA experimental build 2025-03-27-1932 (d1d565f)
 * Military outpost revamp (#80337)
-
-Cataclysm-DDA experimental build 2025-03-27-1644 (2c65586)
 * [Bugfixes] Fix mutating resetting stats and stamina (#80325)
 * Candy Butchery update (#80322)
 * [MoM] Jmath updates in power learning (#80311)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2025-03-27-1644 (2c65586)
 * Prune pawnstore itemgroup (#80264)
 * More pieces of clothing can allow you to block with them (#80260)
 * Fix #80245 null pointer while swapping position with a monster (#80254)
-* Weed snippet fix (#80248)
 * Draft NO AI policy in contributing doc (#80253)
