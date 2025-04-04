@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-04-0133 ([befe456](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0133))
+
 * 75% of smartphones are locked ([#80399](https://github.com/CleverRaven/Cataclysm-DDA/pull/80399))
 
 ---
@@ -186,11 +191,6 @@
 * Remove how-to instructions on cheating ([#80328](https://github.com/CleverRaven/Cataclysm-DDA/pull/80328))
 * Prevent characters from lowering movecost below 1 ([#80327](https://github.com/CleverRaven/Cataclysm-DDA/pull/80327))
 * Make irradiation plant spawn enemies ([#80335](https://github.com/CleverRaven/Cataclysm-DDA/pull/80335))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-27-1932 ([d1d565f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-27-1932))
-
 * Military outpost revamp ([#80337](https://github.com/CleverRaven/Cataclysm-DDA/pull/80337))
 * [Bugfixes] Fix mutating resetting stats and stamina ([#80325](https://github.com/CleverRaven/Cataclysm-DDA/pull/80325))
 * Candy Butchery update ([#80322](https://github.com/CleverRaven/Cataclysm-DDA/pull/80322))
