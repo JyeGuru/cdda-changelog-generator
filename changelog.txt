@@ -1,3 +1,4 @@
+* 75% of smartphones are locked (#80399)
 
 Cataclysm-DDA experimental build 2025-04-03-2309 (840aabf)
 * Underground Temperature now depends on Region Settings (#80416)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-03-27-1932 (d1d565f)
 * [MoM] Raise Blink limit and add debug messages (#80269)
 * Leech plants are part of EOC_IS_ELECTRIC (#80259)
 * Fix mortar typo (#80270)
-* Show appropriate message when trying to pulp acid corpses without protection or immunity (#80249)
 * Remove duplicate character_takeoff_item entries from the document. (#80266)
 * Prune pawnstore itemgroup (#80264)
 * More pieces of clothing can allow you to block with them (#80260)

@@ -1,3 +1,4 @@
+* 75% of smartphones are locked ([#80399](https://github.com/CleverRaven/Cataclysm-DDA/pull/80399))
 
 ---
 
@@ -228,7 +229,6 @@
 * [MoM] Raise Blink limit and add debug messages ([#80269](https://github.com/CleverRaven/Cataclysm-DDA/pull/80269))
 * Leech plants are part of EOC_IS_ELECTRIC ([#80259](https://github.com/CleverRaven/Cataclysm-DDA/pull/80259))
 * Fix mortar typo ([#80270](https://github.com/CleverRaven/Cataclysm-DDA/pull/80270))
-* Show appropriate message when trying to pulp acid corpses without protection or immunity ([#80249](https://github.com/CleverRaven/Cataclysm-DDA/pull/80249))
 * Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
