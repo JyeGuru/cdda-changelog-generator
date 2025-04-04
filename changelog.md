@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-04-0348 ([94d17a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0348))
+
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
 
 ---
