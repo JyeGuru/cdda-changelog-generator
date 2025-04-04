@@ -1,3 +1,4 @@
+* [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` (#80426)
 
 Cataclysm-DDA experimental build 2025-04-04-0133 (befe456)
 * 75% of smartphones are locked (#80399)

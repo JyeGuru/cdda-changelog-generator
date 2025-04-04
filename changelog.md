@@ -1,3 +1,4 @@
+* [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
 
 ---
 
