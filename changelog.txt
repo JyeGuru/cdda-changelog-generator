@@ -1,3 +1,4 @@
+* Missing nested mapgen flags (#80447)
 
 Cataclysm-DDA experimental build 2025-04-04-0600 (09a31ab)
 * Add a dump palette & increase amount of trash (#80424)
@@ -154,4 +155,3 @@ Cataclysm-DDA experimental build 2025-03-28-1404 (23713e8)
 * Remove duplicate character_takeoff_item entries from the document. (#80266)
 * Prune pawnstore itemgroup (#80264)
 * More pieces of clothing can allow you to block with them (#80260)
-* Fix #80245 null pointer while swapping position with a monster (#80254)

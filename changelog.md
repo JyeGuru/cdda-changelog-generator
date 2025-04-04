@@ -1,3 +1,4 @@
+* Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
 
 ---
 
@@ -244,4 +245,3 @@
 * Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
 * Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
 * More pieces of clothing can allow you to block with them ([#80260](https://github.com/CleverRaven/Cataclysm-DDA/pull/80260))
-* Fix #80245 null pointer while swapping position with a monster ([#80254](https://github.com/CleverRaven/Cataclysm-DDA/pull/80254))
