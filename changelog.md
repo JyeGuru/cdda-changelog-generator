@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-04-0811 ([a3cb5dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0811))
+
 * Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
 
 ---
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-03-28-1628 ([75f2d7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-28-1628))
 
 * Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-28-1404 ([23713e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-28-1404))
-
 * [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
 * define magic number for max (unsafe) weight capacity ([#80320](https://github.com/CleverRaven/Cataclysm-DDA/pull/80320))
 * The Great Berry Crash of 2025 ([#80332](https://github.com/CleverRaven/Cataclysm-DDA/pull/80332))
