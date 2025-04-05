@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-05-0157 ([c674f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-0157))
+
+* Evolution now defaults to 1, rescale existing saves and fields to account for it ([#80438](https://github.com/CleverRaven/Cataclysm-DDA/pull/80438))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-04-2200 ([aa4e123](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-2200))
 
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-03-29-0325 ([8d7b32f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-0325))
 
 * Spells can parse tags now ([#80343](https://github.com/CleverRaven/Cataclysm-DDA/pull/80343))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-29-0118 ([dd46dc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-0118))
-
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
 * Gun copyfrom fixes ([#80323](https://github.com/CleverRaven/Cataclysm-DDA/pull/80323))
 * Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
@@ -244,4 +245,3 @@
 * [MoM] Raise Blink limit and add debug messages ([#80269](https://github.com/CleverRaven/Cataclysm-DDA/pull/80269))
 * Fix mortar typo ([#80270](https://github.com/CleverRaven/Cataclysm-DDA/pull/80270))
 * Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
-* Prune pawnstore itemgroup ([#80264](https://github.com/CleverRaven/Cataclysm-DDA/pull/80264))
