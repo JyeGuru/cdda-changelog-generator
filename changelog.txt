@@ -1,3 +1,4 @@
+* [MoM] Fix medicinal touch contemplation (#80450)
 
 Cataclysm-DDA experimental build 2025-04-05-2017 (050b1ae)
 * Split up domestic palette in item and no item (#80456)
@@ -154,4 +155,3 @@ Cataclysm-DDA experimental build 2025-03-29-1412 (c910dfe)
 * The Flat-coated retriever: In memory of Elwood (#80272)
 * Add some more empty containers to trash itemgroups (#80281)
 * Routine i18n updates on 22 March 2025 (#80278)
-* Fix mortar typo (#80270)

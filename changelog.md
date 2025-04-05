@@ -1,3 +1,4 @@
+* [MoM] Fix medicinal touch contemplation ([#80450](https://github.com/CleverRaven/Cataclysm-DDA/pull/80450))
 
 ---
 
@@ -244,4 +245,3 @@
 * The Flat-coated retriever: In memory of Elwood ([#80272](https://github.com/CleverRaven/Cataclysm-DDA/pull/80272))
 * Add some more empty containers to trash itemgroups ([#80281](https://github.com/CleverRaven/Cataclysm-DDA/pull/80281))
 * Routine i18n updates on 22 March 2025 ([#80278](https://github.com/CleverRaven/Cataclysm-DDA/pull/80278))
-* Fix mortar typo ([#80270](https://github.com/CleverRaven/Cataclysm-DDA/pull/80270))
