@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-05-1457 ([35e25f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-1457))
+
+* Hotel Luggage Itemgroup had recursive suitcases ([#80439](https://github.com/CleverRaven/Cataclysm-DDA/pull/80439))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-05-0157 ([c674f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-0157))
 
 * Evolution now defaults to 1, rescale existing saves and fields to account for it ([#80438](https://github.com/CleverRaven/Cataclysm-DDA/pull/80438))
@@ -194,11 +200,6 @@
 
 * Allow summoned monsters to look like a summoner or monsters to look like an avatar ([#80341](https://github.com/CleverRaven/Cataclysm-DDA/pull/80341))
 * [XE] Adds a special boss encounter for tier 5 vampires ([#80347](https://github.com/CleverRaven/Cataclysm-DDA/pull/80347))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-29-0325 ([8d7b32f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-0325))
-
 * Spells can parse tags now ([#80343](https://github.com/CleverRaven/Cataclysm-DDA/pull/80343))
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
 * Gun copyfrom fixes ([#80323](https://github.com/CleverRaven/Cataclysm-DDA/pull/80323))
@@ -244,4 +245,3 @@
 * Routine i18n updates on 22 March 2025 ([#80278](https://github.com/CleverRaven/Cataclysm-DDA/pull/80278))
 * [MoM] Raise Blink limit and add debug messages ([#80269](https://github.com/CleverRaven/Cataclysm-DDA/pull/80269))
 * Fix mortar typo ([#80270](https://github.com/CleverRaven/Cataclysm-DDA/pull/80270))
-* Remove duplicate character_takeoff_item entries from the document. ([#80266](https://github.com/CleverRaven/Cataclysm-DDA/pull/80266))
