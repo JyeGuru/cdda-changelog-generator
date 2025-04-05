@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-05-2017 (050b1ae)
+* Split up domestic palette in item and no item (#80456)
+
 Cataclysm-DDA experimental build 2025-04-05-1457 (35e25f2)
 * Hotel Luggage Itemgroup had recursive suitcases (#80439)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-03-29-1626 (1b65424)
 
 Cataclysm-DDA experimental build 2025-03-29-1412 (c910dfe)
 * [Bugfixes] Spells consume energy before casting effects (#80361)
-
-Cataclysm-DDA experimental build 2025-03-29-0545 (36f192f)
 * Allow summoned monsters to look like a summoner or monsters to look like an avatar (#80341)
 * [XE] Adds a special boss encounter for tier 5 vampires (#80347)
 * Spells can parse tags now (#80343)
@@ -153,5 +154,4 @@ Cataclysm-DDA experimental build 2025-03-29-0545 (36f192f)
 * The Flat-coated retriever: In memory of Elwood (#80272)
 * Add some more empty containers to trash itemgroups (#80281)
 * Routine i18n updates on 22 March 2025 (#80278)
-* [MoM] Raise Blink limit and add debug messages (#80269)
 * Fix mortar typo (#80270)

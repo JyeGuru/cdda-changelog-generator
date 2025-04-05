@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-05-2017 ([050b1ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-2017))
+
+* Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-05-1457 ([35e25f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-1457))
 
 * Hotel Luggage Itemgroup had recursive suitcases ([#80439](https://github.com/CleverRaven/Cataclysm-DDA/pull/80439))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-03-29-1412 ([c910dfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-1412))
 
 * [Bugfixes] Spells consume energy before casting effects ([#80361](https://github.com/CleverRaven/Cataclysm-DDA/pull/80361))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-29-0545 ([36f192f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-0545))
-
 * Allow summoned monsters to look like a summoner or monsters to look like an avatar ([#80341](https://github.com/CleverRaven/Cataclysm-DDA/pull/80341))
 * [XE] Adds a special boss encounter for tier 5 vampires ([#80347](https://github.com/CleverRaven/Cataclysm-DDA/pull/80347))
 * Spells can parse tags now ([#80343](https://github.com/CleverRaven/Cataclysm-DDA/pull/80343))
@@ -243,5 +244,4 @@
 * The Flat-coated retriever: In memory of Elwood ([#80272](https://github.com/CleverRaven/Cataclysm-DDA/pull/80272))
 * Add some more empty containers to trash itemgroups ([#80281](https://github.com/CleverRaven/Cataclysm-DDA/pull/80281))
 * Routine i18n updates on 22 March 2025 ([#80278](https://github.com/CleverRaven/Cataclysm-DDA/pull/80278))
-* [MoM] Raise Blink limit and add debug messages ([#80269](https://github.com/CleverRaven/Cataclysm-DDA/pull/80269))
 * Fix mortar typo ([#80270](https://github.com/CleverRaven/Cataclysm-DDA/pull/80270))
