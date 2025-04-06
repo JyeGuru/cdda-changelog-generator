@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-06-1519 ([d7ba78d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-1519))
+
 * tests: add roadstop_b to coverage whitelist ([#80480](https://github.com/CleverRaven/Cataclysm-DDA/pull/80480))
 * Routine i18n updates on 05 April 2025 ([#80462](https://github.com/CleverRaven/Cataclysm-DDA/pull/80462))
 * eoc: replace u_loc_relative with u_location_variable ([#80452](https://github.com/CleverRaven/Cataclysm-DDA/pull/80452))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2025-04-01-0129 ([d7c5cc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-0129))
 
 * Fix charcoal kilns producing no charcoal ([#80365](https://github.com/CleverRaven/Cataclysm-DDA/pull/80365))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-31-0727 ([09e8d39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-31-0727))
-
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
 * [Sky Island] Add healing salve ([#80345](https://github.com/CleverRaven/Cataclysm-DDA/pull/80345))
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling ([#80366](https://github.com/CleverRaven/Cataclysm-DDA/pull/80366))

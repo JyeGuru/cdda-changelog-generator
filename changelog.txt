@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-06-1519 (d7ba78d)
 * tests: add roadstop_b to coverage whitelist (#80480)
 * Routine i18n updates on 05 April 2025 (#80462)
 * eoc: replace u_loc_relative with u_location_variable (#80452)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-04-01-0617 (01e18c4)
 
 Cataclysm-DDA experimental build 2025-04-01-0129 (d7c5cc7)
 * Fix charcoal kilns producing no charcoal (#80365)
-
-Cataclysm-DDA experimental build 2025-03-31-0727 (09e8d39)
 * [MoM] Add compound XV471 schematics (#80385)
 * [Sky Island] Add healing salve (#80345)
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling (#80366)
