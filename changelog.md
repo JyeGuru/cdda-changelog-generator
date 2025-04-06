@@ -1,3 +1,4 @@
+* tests: add roadstop_b to coverage whitelist ([#80480](https://github.com/CleverRaven/Cataclysm-DDA/pull/80480))
 * Routine i18n updates on 05 April 2025 ([#80462](https://github.com/CleverRaven/Cataclysm-DDA/pull/80462))
 * eoc: replace u_loc_relative with u_location_variable ([#80452](https://github.com/CleverRaven/Cataclysm-DDA/pull/80452))
 
@@ -244,4 +245,3 @@
 *  [MoM] Add new Photokinetic power, Phantom Legion ([#80309](https://github.com/CleverRaven/Cataclysm-DDA/pull/80309))
 * Final mission giver fix in vainilla ([#80295](https://github.com/CleverRaven/Cataclysm-DDA/pull/80295))
 * Fixes Dana's sourdough mission ([#80293](https://github.com/CleverRaven/Cataclysm-DDA/pull/80293))
-* [MoM] Rework teleportation volume calculations (again) ([#80291](https://github.com/CleverRaven/Cataclysm-DDA/pull/80291))
