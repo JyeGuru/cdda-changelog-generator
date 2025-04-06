@@ -1,3 +1,5 @@
+* Routine i18n updates on 05 April 2025 (#80462)
+* eoc: replace u_loc_relative with u_location_variable (#80452)
 
 Cataclysm-DDA experimental build 2025-04-06-1253 (d8f220f)
 * math: un-lambda-ify dialogue functions (#80453)
@@ -153,5 +155,3 @@ Cataclysm-DDA experimental build 2025-03-31-0727 (09e8d39)
 * Final mission giver fix in vainilla (#80295)
 * Fixes Dana's sourdough mission (#80293)
 * [MoM] Rework teleportation volume calculations (again) (#80291)
-* New England Community Church fixes 1 (#80288)
-* Fix Pneumatic mission (#80287)
