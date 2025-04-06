@@ -100,8 +100,6 @@ Cataclysm-DDA experimental build 2025-04-01-0855 (053a605)
 
 Cataclysm-DDA experimental build 2025-04-01-0617 (01e18c4)
 * [Sky Island] Fix possible painkiller death loop (#80395)
-
-Cataclysm-DDA experimental build 2025-04-01-0129 (d7c5cc7)
 * Fix charcoal kilns producing no charcoal (#80365)
 * [MoM] Add compound XV471 schematics (#80385)
 * [Sky Island] Add healing salve (#80345)

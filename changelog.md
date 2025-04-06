@@ -187,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-04-01-0617 ([01e18c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-0617))
 
 * [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-01-0129 ([d7c5cc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-0129))
-
 * Fix charcoal kilns producing no charcoal ([#80365](https://github.com/CleverRaven/Cataclysm-DDA/pull/80365))
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
 * [Sky Island] Add healing salve ([#80345](https://github.com/CleverRaven/Cataclysm-DDA/pull/80345))
