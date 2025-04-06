@@ -1,3 +1,11 @@
+* Add Nicotine Pouches and Adjust Cig Effect Name and Description ([#80443](https://github.com/CleverRaven/Cataclysm-DDA/pull/80443))
+* add some wield tests i wish I had ([#80448](https://github.com/CleverRaven/Cataclysm-DDA/pull/80448))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-06-0333 ([d159ce8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-0333))
+
+* [Xedra Evolved] Add playable dhampirs ([#80444](https://github.com/CleverRaven/Cataclysm-DDA/pull/80444))
 
 ---
 
@@ -190,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-03-29-1841 ([f7f0d77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-1841))
 
 * fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-29-1626 ([1b65424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-1626))
-
 * Futile fighter profession ([#80313](https://github.com/CleverRaven/Cataclysm-DDA/pull/80313))
 * Ferals scream/yell/overall try to be mean ([#80346](https://github.com/CleverRaven/Cataclysm-DDA/pull/80346))
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
@@ -241,7 +244,4 @@
 * Fix Pneumatic mission ([#80287](https://github.com/CleverRaven/Cataclysm-DDA/pull/80287))
 * Fix some vampiric weaknesses triggering for everyone. ([#80282](https://github.com/CleverRaven/Cataclysm-DDA/pull/80282))
 * [XEDRA Evolved] The Noon ([#80280](https://github.com/CleverRaven/Cataclysm-DDA/pull/80280))
-* Fix palette issues in hosue_inner_garden ([#80276](https://github.com/CleverRaven/Cataclysm-DDA/pull/80276))
-* The Flat-coated retriever: In memory of Elwood ([#80272](https://github.com/CleverRaven/Cataclysm-DDA/pull/80272))
 * Add some more empty containers to trash itemgroups ([#80281](https://github.com/CleverRaven/Cataclysm-DDA/pull/80281))
-* Routine i18n updates on 22 March 2025 ([#80278](https://github.com/CleverRaven/Cataclysm-DDA/pull/80278))
