@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-06-0549 (fdf760e)
 * Add Nicotine Pouches and Adjust Cig Effect Name and Description (#80443)
 * add some wield tests i wish I had (#80448)
 
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-03-31-0237 (25cfb23)
 
 Cataclysm-DDA experimental build 2025-03-30-0007 (6908379)
 * Manual recipe for long wooden post for innawoods (#80374)
-
-Cataclysm-DDA experimental build 2025-03-29-1841 (f7f0d77)
 * fix can_contain copies_remaining amount for sheaths (#80349)
 * Futile fighter profession (#80313)
 * Ferals scream/yell/overall try to be mean (#80346)

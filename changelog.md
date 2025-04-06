@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-06-0549 ([fdf760e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-0549))
+
 * Add Nicotine Pouches and Adjust Cig Effect Name and Description ([#80443](https://github.com/CleverRaven/Cataclysm-DDA/pull/80443))
 * add some wield tests i wish I had ([#80448](https://github.com/CleverRaven/Cataclysm-DDA/pull/80448))
 
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-03-30-0007 ([6908379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-30-0007))
 
 * Manual recipe for long wooden post for innawoods ([#80374](https://github.com/CleverRaven/Cataclysm-DDA/pull/80374))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-29-1841 ([f7f0d77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-29-1841))
-
 * fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
 * Futile fighter profession ([#80313](https://github.com/CleverRaven/Cataclysm-DDA/pull/80313))
 * Ferals scream/yell/overall try to be mean ([#80346](https://github.com/CleverRaven/Cataclysm-DDA/pull/80346))
