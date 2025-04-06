@@ -1,3 +1,4 @@
+* More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))
 * [Xedra Evolved] Remove `teeth` type from active fangs trait ([#80478](https://github.com/CleverRaven/Cataclysm-DDA/pull/80478))
 
 ---
@@ -239,4 +240,3 @@
 * Delayed NPC angry due to construct until confirm construction in menu. ([#80301](https://github.com/CleverRaven/Cataclysm-DDA/pull/80301))
 * Fix #80290 Riot damage's random moving of items for SEALED CONTAINER ([#80298](https://github.com/CleverRaven/Cataclysm-DDA/pull/80298))
 *  [MoM] Add new Photokinetic power, Phantom Legion ([#80309](https://github.com/CleverRaven/Cataclysm-DDA/pull/80309))
-* Final mission giver fix in vainilla ([#80295](https://github.com/CleverRaven/Cataclysm-DDA/pull/80295))
