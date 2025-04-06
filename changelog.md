@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-06-2002 ([018b10c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-2002))
+
 * More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))
 * [Xedra Evolved] Remove `teeth` type from active fangs trait ([#80478](https://github.com/CleverRaven/Cataclysm-DDA/pull/80478))
 
@@ -182,11 +187,6 @@
 * Add category to ammo boxes ([#80397](https://github.com/CleverRaven/Cataclysm-DDA/pull/80397))
 * Fix up garden_house_1 ([#80403](https://github.com/CleverRaven/Cataclysm-DDA/pull/80403))
 * Punctuation! ([#80393](https://github.com/CleverRaven/Cataclysm-DDA/pull/80393))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-01-0617 ([01e18c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-0617))
-
 * [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
 * Fix charcoal kilns producing no charcoal ([#80365](https://github.com/CleverRaven/Cataclysm-DDA/pull/80365))
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
