@@ -1,3 +1,11 @@
+* Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
+* Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-06-0829 ([228ba43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-0829))
+
+* eoc: hoist default var value to helper structs ([#80454](https://github.com/CleverRaven/Cataclysm-DDA/pull/80454))
 
 ---
 
@@ -191,11 +199,6 @@
 * Re-fix release workflow T_T ([#80380](https://github.com/CleverRaven/Cataclysm-DDA/pull/80380))
 * Update flawless_memory.json ([#80378](https://github.com/CleverRaven/Cataclysm-DDA/pull/80378))
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-30-0007 ([6908379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-30-0007))
-
 * Manual recipe for long wooden post for innawoods ([#80374](https://github.com/CleverRaven/Cataclysm-DDA/pull/80374))
 * fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
 * Futile fighter profession ([#80313](https://github.com/CleverRaven/Cataclysm-DDA/pull/80313))
@@ -242,6 +245,3 @@
 * handle empty travel path ([#80285](https://github.com/CleverRaven/Cataclysm-DDA/pull/80285))
 * New England Community Church fixes 1 ([#80288](https://github.com/CleverRaven/Cataclysm-DDA/pull/80288))
 * Fix Pneumatic mission ([#80287](https://github.com/CleverRaven/Cataclysm-DDA/pull/80287))
-* Fix some vampiric weaknesses triggering for everyone. ([#80282](https://github.com/CleverRaven/Cataclysm-DDA/pull/80282))
-* [XEDRA Evolved] The Noon ([#80280](https://github.com/CleverRaven/Cataclysm-DDA/pull/80280))
-* Add some more empty containers to trash itemgroups ([#80281](https://github.com/CleverRaven/Cataclysm-DDA/pull/80281))
