@@ -1,3 +1,4 @@
+* math: un-lambda-ify dialogue functions (#80453)
 
 Cataclysm-DDA experimental build 2025-04-06-1044 (bc614c8)
 * Fix CI by adding some on_overflows where appropriate (#80474)
@@ -152,6 +153,5 @@ Cataclysm-DDA experimental build 2025-03-31-0504 (10d139a)
 * Final mission giver fix in vainilla (#80295)
 * Fixes Dana's sourdough mission (#80293)
 * [MoM] Rework teleportation volume calculations (again) (#80291)
-* handle empty travel path (#80285)
 * New England Community Church fixes 1 (#80288)
 * Fix Pneumatic mission (#80287)
