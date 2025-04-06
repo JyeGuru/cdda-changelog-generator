@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-06-1253 ([d8f220f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-1253))
+
 * math: un-lambda-ify dialogue functions ([#80453](https://github.com/CleverRaven/Cataclysm-DDA/pull/80453))
 
 ---
@@ -187,11 +192,6 @@
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
 * [Sky Island] Add healing salve ([#80345](https://github.com/CleverRaven/Cataclysm-DDA/pull/80345))
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling ([#80366](https://github.com/CleverRaven/Cataclysm-DDA/pull/80366))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-31-0504 ([10d139a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-31-0504))
-
 * Revamp gunmod locations ([#80360](https://github.com/CleverRaven/Cataclysm-DDA/pull/80360))
 * Audit the existence of a few gunmods ([#80372](https://github.com/CleverRaven/Cataclysm-DDA/pull/80372))
 * Fix Magiclysm fireproof mortar recipe ([#80377](https://github.com/CleverRaven/Cataclysm-DDA/pull/80377))
