@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-06-1044 (bc614c8)
 * Fix CI by adding some on_overflows where appropriate (#80474)
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together (#80465)
 
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-03-31-0504 (10d139a)
 * Fix Magiclysm fireproof mortar recipe (#80377)
 * Allow character_ranged_attacks_* events catch throw attack, add context val is_throw to determine whether the event was triggered by a thrown attack. (#80333)
 * Add a new nether monster, Eldritch Huntsman (#80305)
-
-Cataclysm-DDA experimental build 2025-03-31-0237 (25cfb23)
 * Re-fix release workflow T_T (#80380)
 * Update flawless_memory.json (#80378)
 * Pin cmake version in windows build (#80379)

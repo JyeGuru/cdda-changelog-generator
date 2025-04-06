@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-06-1044 ([bc614c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-1044))
+
 * Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
 
@@ -191,11 +196,6 @@
 * Fix Magiclysm fireproof mortar recipe ([#80377](https://github.com/CleverRaven/Cataclysm-DDA/pull/80377))
 * Allow character_ranged_attacks_* events catch throw attack, add context val is_throw to determine whether the event was triggered by a thrown attack. ([#80333](https://github.com/CleverRaven/Cataclysm-DDA/pull/80333))
 * Add a new nether monster, Eldritch Huntsman ([#80305](https://github.com/CleverRaven/Cataclysm-DDA/pull/80305))
-
----
-
-#### Cataclysm-DDA experimental build 2025-03-31-0237 ([25cfb23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-03-31-0237))
-
 * Re-fix release workflow T_T ([#80380](https://github.com/CleverRaven/Cataclysm-DDA/pull/80380))
 * Update flawless_memory.json ([#80378](https://github.com/CleverRaven/Cataclysm-DDA/pull/80378))
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
