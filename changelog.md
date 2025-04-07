@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-07-0009 ([c899c79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-0009))
+
+* Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC ([#80483](https://github.com/CleverRaven/Cataclysm-DDA/pull/80483))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-06-2002 ([018b10c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-2002))
 
 * More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-04-01-1957 ([4bdc898](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-1957))
 
 * update clang-tidy docs to reflect our switch to llvm-18 and clang++-18 ([#80394](https://github.com/CleverRaven/Cataclysm-DDA/pull/80394))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-01-0855 ([053a605](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-01-0855))
-
 * Weekly Changelog 2025-03-24 to 2025-03-31 ([#80388](https://github.com/CleverRaven/Cataclysm-DDA/pull/80388))
 * [Xedra Evolved] Fix Magiclysm haste interactions ([#80396](https://github.com/CleverRaven/Cataclysm-DDA/pull/80396))
 * Routine tileset updates on 01 April 2025 ([#80405](https://github.com/CleverRaven/Cataclysm-DDA/pull/80405))
@@ -228,7 +229,6 @@
 * Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
 * Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
 * [Magiclysm] Add Translocation Portal ([#80314](https://github.com/CleverRaven/Cataclysm-DDA/pull/80314))
-* Weekly Changelog 2025-03-17 to 2025-03-24 ([#80297](https://github.com/CleverRaven/Cataclysm-DDA/pull/80297))
 * New England Community Church Improvements 2 ([#80300](https://github.com/CleverRaven/Cataclysm-DDA/pull/80300))
 * New cigarette variants ([#80304](https://github.com/CleverRaven/Cataclysm-DDA/pull/80304))
 * Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
