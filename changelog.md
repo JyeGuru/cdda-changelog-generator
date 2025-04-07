@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-07-0655 ([6819531](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-0655))
+
 * [MoM] Wary Sleeper Fix ([#80487](https://github.com/CleverRaven/Cataclysm-DDA/pull/80487))
 * Switched usage of m to use get_map() ([#80367](https://github.com/CleverRaven/Cataclysm-DDA/pull/80367))
 * Expose emp_blast and scrambler_blast to eoc ([#80488](https://github.com/CleverRaven/Cataclysm-DDA/pull/80488))
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-04-02-0527 ([169e23f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-0527))
 
 * Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-02-0006 ([f61901a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-0006))
-
 * Involuntary Traveler do not speak english ([#80408](https://github.com/CleverRaven/Cataclysm-DDA/pull/80408))
 * update clang-tidy docs to reflect our switch to llvm-18 and clang++-18 ([#80394](https://github.com/CleverRaven/Cataclysm-DDA/pull/80394))
 * Weekly Changelog 2025-03-24 to 2025-03-31 ([#80388](https://github.com/CleverRaven/Cataclysm-DDA/pull/80388))
