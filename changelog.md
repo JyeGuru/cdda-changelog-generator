@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-07-1339 ([677823b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-1339))
+
 * [Xedra Evolved] Vampires can drink blood ([#80476](https://github.com/CleverRaven/Cataclysm-DDA/pull/80476))
 * Recover invalidated bubble coordinate ([#80479](https://github.com/CleverRaven/Cataclysm-DDA/pull/80479))
 * Add gun mod locations to glock 19 ([#80489](https://github.com/CleverRaven/Cataclysm-DDA/pull/80489))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-04-02-1315 ([2ba1e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-1315))
 
 * Add items with NO_TEMP flag to temperature removal blacklist ([#80398](https://github.com/CleverRaven/Cataclysm-DDA/pull/80398))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-02-0749 ([0fb25fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-0749))
-
 * [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
 * Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
 * Involuntary Traveler do not speak english ([#80408](https://github.com/CleverRaven/Cataclysm-DDA/pull/80408))

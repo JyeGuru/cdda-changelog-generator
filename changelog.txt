@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-07-1339 (677823b)
 * [Xedra Evolved] Vampires can drink blood (#80476)
 * Recover invalidated bubble coordinate (#80479)
 * Add gun mod locations to glock 19 (#80489)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2025-04-02-2031 (a8d5628)
 
 Cataclysm-DDA experimental build 2025-04-02-1315 (2ba1e56)
 * Add items with NO_TEMP flag to temperature removal blacklist (#80398)
-
-Cataclysm-DDA experimental build 2025-04-02-0749 (0fb25fe)
 * [April Fools Day] Pancor Jackhammer (#80412)
 * Make dairy farm spawn either zombie or non-zombie cows (#80411)
 * Involuntary Traveler do not speak english (#80408)
