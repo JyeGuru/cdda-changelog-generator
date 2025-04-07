@@ -1,3 +1,14 @@
+* [Xedra Evolved] Vampires can drink blood ([#80476](https://github.com/CleverRaven/Cataclysm-DDA/pull/80476))
+* Recover invalidated bubble coordinate ([#80479](https://github.com/CleverRaven/Cataclysm-DDA/pull/80479))
+* Add gun mod locations to glock 19 ([#80489](https://github.com/CleverRaven/Cataclysm-DDA/pull/80489))
+* More spawns for cut-resistant clothing ([#80496](https://github.com/CleverRaven/Cataclysm-DDA/pull/80496))
+* Rename map::add_item_ret_loc to add_item_or_charges_ret_loc ([#80491](https://github.com/CleverRaven/Cataclysm-DDA/pull/80491))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-07-1117 ([c6997b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-1117))
+
+* [Xedra Evolved] Remove obsolete homullus-specific jmath statement ([#80495](https://github.com/CleverRaven/Cataclysm-DDA/pull/80495))
 
 ---
 
@@ -175,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-04-02-0749 ([0fb25fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-0749))
 
 * [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-02-0527 ([169e23f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-0527))
-
 * Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
 * Involuntary Traveler do not speak english ([#80408](https://github.com/CleverRaven/Cataclysm-DDA/pull/80408))
 * update clang-tidy docs to reflect our switch to llvm-18 and clang++-18 ([#80394](https://github.com/CleverRaven/Cataclysm-DDA/pull/80394))
@@ -203,7 +209,6 @@
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
 * Manual recipe for long wooden post for innawoods ([#80374](https://github.com/CleverRaven/Cataclysm-DDA/pull/80374))
 * fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
-* Futile fighter profession ([#80313](https://github.com/CleverRaven/Cataclysm-DDA/pull/80313))
 * Ferals scream/yell/overall try to be mean ([#80346](https://github.com/CleverRaven/Cataclysm-DDA/pull/80346))
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes ([#80362](https://github.com/CleverRaven/Cataclysm-DDA/pull/80362))
@@ -223,15 +228,10 @@
 * Military outpost revamp ([#80337](https://github.com/CleverRaven/Cataclysm-DDA/pull/80337))
 * [Bugfixes] Fix mutating resetting stats and stamina ([#80325](https://github.com/CleverRaven/Cataclysm-DDA/pull/80325))
 * Candy Butchery update ([#80322](https://github.com/CleverRaven/Cataclysm-DDA/pull/80322))
-* [MoM] Jmath updates in power learning ([#80311](https://github.com/CleverRaven/Cataclysm-DDA/pull/80311))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
 * Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
 * Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
 * Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
-* [Magiclysm] Add Translocation Portal ([#80314](https://github.com/CleverRaven/Cataclysm-DDA/pull/80314))
 * Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
-* Add denatured alcohols to houses ([#80315](https://github.com/CleverRaven/Cataclysm-DDA/pull/80315))
-* Fix messenger bag's sided function  ([#80312](https://github.com/CleverRaven/Cataclysm-DDA/pull/80312))
 * Church zombie & car spawns ([#80317](https://github.com/CleverRaven/Cataclysm-DDA/pull/80317))
 * Road trash spawns ([#80316](https://github.com/CleverRaven/Cataclysm-DDA/pull/80316))
-*  [MoM] Add new Photokinetic power, Phantom Legion ([#80309](https://github.com/CleverRaven/Cataclysm-DDA/pull/80309))
