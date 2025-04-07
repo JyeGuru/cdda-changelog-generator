@@ -162,12 +162,6 @@
 #### Cataclysm-DDA experimental build 2025-04-02-2031 ([a8d5628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-2031))
 
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-02-1546 ([fa78e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-1546))
-
-* Add AIM tests (part 2) - Basic transfer / pick up ([#80308](https://github.com/CleverRaven/Cataclysm-DDA/pull/80308))
 * Fix an obsolete snippet in src/activity_handlers.cpp ([#80387](https://github.com/CleverRaven/Cataclysm-DDA/pull/80387))
 
 ---
