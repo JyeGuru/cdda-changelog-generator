@@ -233,4 +233,3 @@
 * Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
 * Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
 * Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
-* Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
