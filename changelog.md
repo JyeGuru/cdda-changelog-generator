@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-07-2032 ([0099f72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-2032))
+
+* Aftershock: The Unification ([#80401](https://github.com/CleverRaven/Cataclysm-DDA/pull/80401))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-07-1339 ([677823b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-1339))
 
 * [Xedra Evolved] Vampires can drink blood ([#80476](https://github.com/CleverRaven/Cataclysm-DDA/pull/80476))
@@ -179,11 +185,6 @@
 
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
 * Fix an obsolete snippet in src/activity_handlers.cpp ([#80387](https://github.com/CleverRaven/Cataclysm-DDA/pull/80387))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-02-1315 ([2ba1e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-1315))
-
 * Add items with NO_TEMP flag to temperature removal blacklist ([#80398](https://github.com/CleverRaven/Cataclysm-DDA/pull/80398))
 * [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
 * Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
@@ -233,4 +234,3 @@
 * Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
 * Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
 * Change variant weights of grocery stores ([#80318](https://github.com/CleverRaven/Cataclysm-DDA/pull/80318))
-* Church zombie & car spawns ([#80317](https://github.com/CleverRaven/Cataclysm-DDA/pull/80317))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-07-2032 (0099f72)
+* Aftershock: The Unification (#80401)
+
 Cataclysm-DDA experimental build 2025-04-07-1339 (677823b)
 * [Xedra Evolved] Vampires can drink blood (#80476)
 * Recover invalidated bubble coordinate (#80479)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2025-04-03-0128 (1714d51)
 Cataclysm-DDA experimental build 2025-04-02-2031 (a8d5628)
 * Remove weird metal flooring around shipwrecks (#80410)
 * Fix an obsolete snippet in src/activity_handlers.cpp (#80387)
-
-Cataclysm-DDA experimental build 2025-04-02-1315 (2ba1e56)
 * Add items with NO_TEMP flag to temperature removal blacklist (#80398)
 * [April Fools Day] Pancor Jackhammer (#80412)
 * Make dairy farm spawn either zombie or non-zombie cows (#80411)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-04-02-1315 (2ba1e56)
 * Add My Sweet Cataclysm to Autolabeler (#80324)
 * Fix f_sign_stop drop (#80319)
 * Change variant weights of grocery stores (#80318)
-* Church zombie & car spawns (#80317)
