@@ -1,3 +1,4 @@
+* Fix - Allow healing items that only do instant healing ([#80458](https://github.com/CleverRaven/Cataclysm-DDA/pull/80458))
 
 ---
 
@@ -237,4 +238,3 @@
 * Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
 * [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
-* Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))

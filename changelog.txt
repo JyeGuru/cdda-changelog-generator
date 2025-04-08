@@ -1,3 +1,4 @@
+* Fix - Allow healing items that only do instant healing (#80458)
 
 Cataclysm-DDA experimental build 2025-04-08-2105 (ad08f7e)
 * Allow [R]eading from nearby ebooks (#80508)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-04-03-2309 (840aabf)
 * Add billboards (#80351)
 * [MoM] Rework Oubliette to use new u_/n_die functionality (#80348)
 * fix typo in labeler (#80339)
-* Fix missing period (#80338)
