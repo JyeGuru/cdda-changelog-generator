@@ -1,3 +1,13 @@
+* [XE] Add a new vampire-exclusive mutation path ([#80384](https://github.com/CleverRaven/Cataclysm-DDA/pull/80384))
+* Weekly Changelog 2025-03-31 to 2025-04-07 ([#80492](https://github.com/CleverRaven/Cataclysm-DDA/pull/80492))
+* Clean up some eoc bool reading ([#80497](https://github.com/CleverRaven/Cataclysm-DDA/pull/80497))
+* Move is_efile, fix not able to read from e-device with full inventory ([#80498](https://github.com/CleverRaven/Cataclysm-DDA/pull/80498))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-08-0159 ([7fcac50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-0159))
+
+* [Xedra Evolved] Vampire traits are now positive ([#80500](https://github.com/CleverRaven/Cataclysm-DDA/pull/80500))
 
 ---
 
@@ -218,18 +228,13 @@
 * [XE] Adds a special boss encounter for tier 5 vampires ([#80347](https://github.com/CleverRaven/Cataclysm-DDA/pull/80347))
 * Spells can parse tags now ([#80343](https://github.com/CleverRaven/Cataclysm-DDA/pull/80343))
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
-* Gun copyfrom fixes ([#80323](https://github.com/CleverRaven/Cataclysm-DDA/pull/80323))
 * Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
 * [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
-* define magic number for max (unsafe) weight capacity ([#80320](https://github.com/CleverRaven/Cataclysm-DDA/pull/80320))
 * The Great Berry Crash of 2025 ([#80332](https://github.com/CleverRaven/Cataclysm-DDA/pull/80332))
 * Remove how-to instructions on cheating ([#80328](https://github.com/CleverRaven/Cataclysm-DDA/pull/80328))
 * Prevent characters from lowering movecost below 1 ([#80327](https://github.com/CleverRaven/Cataclysm-DDA/pull/80327))
 * Make irradiation plant spawn enemies ([#80335](https://github.com/CleverRaven/Cataclysm-DDA/pull/80335))
 * Military outpost revamp ([#80337](https://github.com/CleverRaven/Cataclysm-DDA/pull/80337))
 * [Bugfixes] Fix mutating resetting stats and stamina ([#80325](https://github.com/CleverRaven/Cataclysm-DDA/pull/80325))
-* Candy Butchery update ([#80322](https://github.com/CleverRaven/Cataclysm-DDA/pull/80322))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
 * Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
-* Add My Sweet Cataclysm to Autolabeler ([#80324](https://github.com/CleverRaven/Cataclysm-DDA/pull/80324))
-* Fix f_sign_stop drop ([#80319](https://github.com/CleverRaven/Cataclysm-DDA/pull/80319))
