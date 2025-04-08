@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-08-2105 ([ad08f7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-2105))
+
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
 * Remove unconditional "aim on wait" for NPCs ([#80463](https://github.com/CleverRaven/Cataclysm-DDA/pull/80463))
 * Rename duplicate item JSON fields ([#80490](https://github.com/CleverRaven/Cataclysm-DDA/pull/80490))
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-04-03-2309 ([840aabf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-2309))
 
 * Underground Temperature now depends on Region Settings ([#80416](https://github.com/CleverRaven/Cataclysm-DDA/pull/80416))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-03-0707 ([a4c4e21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0707))
-
 * Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
 * sanify ebooksave energy consumptions ([#80406](https://github.com/CleverRaven/Cataclysm-DDA/pull/80406))
 * Make u_die fields properly optional ([#80389](https://github.com/CleverRaven/Cataclysm-DDA/pull/80389))

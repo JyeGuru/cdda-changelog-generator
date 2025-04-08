@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-08-2105 (ad08f7e)
 * Allow [R]eading from nearby ebooks (#80508)
 * Remove unconditional "aim on wait" for NPCs (#80463)
 * Rename duplicate item JSON fields (#80490)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2025-04-04-0133 (befe456)
 
 Cataclysm-DDA experimental build 2025-04-03-2309 (840aabf)
 * Underground Temperature now depends on Region Settings (#80416)
-
-Cataclysm-DDA experimental build 2025-04-03-0707 (a4c4e21)
 * Used/unused names for map cache + lore files (#80402)
 * sanify ebooksave energy consumptions (#80406)
 * Make u_die fields properly optional (#80389)
