@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-08-0654 ([e3f8e4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-0654))
+
 * Butternut butter and ink ([#80434](https://github.com/CleverRaven/Cataclysm-DDA/pull/80434))
 * Translation fixes/Extract skill level descriptions ([#80441](https://github.com/CleverRaven/Cataclysm-DDA/pull/80441))
 * sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-04-03-0446 ([387b5b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0446))
 
 * Fix furniture tool pocket error and segfault error ([#80417](https://github.com/CleverRaven/Cataclysm-DDA/pull/80417))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-03-0128 ([1714d51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0128))
-
 * Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
 * Fix an obsolete snippet in src/activity_handlers.cpp ([#80387](https://github.com/CleverRaven/Cataclysm-DDA/pull/80387))
