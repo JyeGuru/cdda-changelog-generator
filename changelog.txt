@@ -1,3 +1,4 @@
+* Butternut butter and ink (#80434)
 * Translation fixes/Extract skill level descriptions (#80441)
 * sanitized get_map use (#80499)
 
@@ -146,7 +147,6 @@ Cataclysm-DDA experimental build 2025-04-03-0128 (1714d51)
 * Add billboards (#80351)
 * [MoM] Rework Oubliette to use new u_/n_die functionality (#80348)
 * The Great Berry Crash of 2025 (#80332)
-* Remove how-to instructions on cheating (#80328)
 * Make irradiation plant spawn enemies (#80335)
 * Military outpost revamp (#80337)
 * fix typo in labeler (#80339)
