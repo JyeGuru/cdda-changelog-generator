@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-08-2324 ([29f74da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-2324))
+
+* Block animals from climbing fences ([#80392](https://github.com/CleverRaven/Cataclysm-DDA/pull/80392))
 * Fix - Allow healing items that only do instant healing ([#80458](https://github.com/CleverRaven/Cataclysm-DDA/pull/80458))
 
 ---
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-04-04-0133 ([befe456](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0133))
 
 * 75% of smartphones are locked ([#80399](https://github.com/CleverRaven/Cataclysm-DDA/pull/80399))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-03-2309 ([840aabf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-2309))
-
 * Underground Temperature now depends on Region Settings ([#80416](https://github.com/CleverRaven/Cataclysm-DDA/pull/80416))
 * Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
 * sanify ebooksave energy consumptions ([#80406](https://github.com/CleverRaven/Cataclysm-DDA/pull/80406))
@@ -237,4 +238,3 @@
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
 * Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
 * [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
-* fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
