@@ -1,3 +1,5 @@
+* Translation fixes/Extract skill level descriptions ([#80441](https://github.com/CleverRaven/Cataclysm-DDA/pull/80441))
+* sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
 
 ---
 
@@ -232,9 +234,7 @@
 * [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
 * The Great Berry Crash of 2025 ([#80332](https://github.com/CleverRaven/Cataclysm-DDA/pull/80332))
 * Remove how-to instructions on cheating ([#80328](https://github.com/CleverRaven/Cataclysm-DDA/pull/80328))
-* Prevent characters from lowering movecost below 1 ([#80327](https://github.com/CleverRaven/Cataclysm-DDA/pull/80327))
 * Make irradiation plant spawn enemies ([#80335](https://github.com/CleverRaven/Cataclysm-DDA/pull/80335))
 * Military outpost revamp ([#80337](https://github.com/CleverRaven/Cataclysm-DDA/pull/80337))
-* [Bugfixes] Fix mutating resetting stats and stamina ([#80325](https://github.com/CleverRaven/Cataclysm-DDA/pull/80325))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
 * Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
