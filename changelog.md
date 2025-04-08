@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-08-0424 ([27ff6fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-0424))
+
 * [XE] Add a new vampire-exclusive mutation path ([#80384](https://github.com/CleverRaven/Cataclysm-DDA/pull/80384))
 * Weekly Changelog 2025-03-31 to 2025-04-07 ([#80492](https://github.com/CleverRaven/Cataclysm-DDA/pull/80492))
 * Clean up some eoc bool reading ([#80497](https://github.com/CleverRaven/Cataclysm-DDA/pull/80497))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-04-03-0128 ([1714d51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0128))
 
 * Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-02-2031 ([a8d5628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-02-2031))
-
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
 * Fix an obsolete snippet in src/activity_handlers.cpp ([#80387](https://github.com/CleverRaven/Cataclysm-DDA/pull/80387))
 * Add items with NO_TEMP flag to temperature removal blacklist ([#80398](https://github.com/CleverRaven/Cataclysm-DDA/pull/80398))
