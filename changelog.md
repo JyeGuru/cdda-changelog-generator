@@ -1,3 +1,4 @@
+* Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
 * Remove unconditional "aim on wait" for NPCs ([#80463](https://github.com/CleverRaven/Cataclysm-DDA/pull/80463))
 * Rename duplicate item JSON fields ([#80490](https://github.com/CleverRaven/Cataclysm-DDA/pull/80490))
 
@@ -235,6 +236,5 @@
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
 * Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
 * [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
-* Military outpost revamp ([#80337](https://github.com/CleverRaven/Cataclysm-DDA/pull/80337))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
 * Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
