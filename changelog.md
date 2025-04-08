@@ -1,3 +1,11 @@
+* Remove unconditional "aim on wait" for NPCs ([#80463](https://github.com/CleverRaven/Cataclysm-DDA/pull/80463))
+* Rename duplicate item JSON fields ([#80490](https://github.com/CleverRaven/Cataclysm-DDA/pull/80490))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-08-1843 ([06d0f43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-1843))
+
+* Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
 
 ---
 
@@ -189,11 +197,6 @@
 * Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
 * sanify ebooksave energy consumptions ([#80406](https://github.com/CleverRaven/Cataclysm-DDA/pull/80406))
 * Make u_die fields properly optional ([#80389](https://github.com/CleverRaven/Cataclysm-DDA/pull/80389))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-03-0446 ([387b5b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-03-0446))
-
 * Fix furniture tool pocket error and segfault error ([#80417](https://github.com/CleverRaven/Cataclysm-DDA/pull/80417))
 * Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
@@ -217,7 +220,6 @@
 * Revamp gunmod locations ([#80360](https://github.com/CleverRaven/Cataclysm-DDA/pull/80360))
 * Audit the existence of a few gunmods ([#80372](https://github.com/CleverRaven/Cataclysm-DDA/pull/80372))
 * Fix Magiclysm fireproof mortar recipe ([#80377](https://github.com/CleverRaven/Cataclysm-DDA/pull/80377))
-* Allow character_ranged_attacks_* events catch throw attack, add context val is_throw to determine whether the event was triggered by a thrown attack. ([#80333](https://github.com/CleverRaven/Cataclysm-DDA/pull/80333))
 * Re-fix release workflow T_T ([#80380](https://github.com/CleverRaven/Cataclysm-DDA/pull/80380))
 * Update flawless_memory.json ([#80378](https://github.com/CleverRaven/Cataclysm-DDA/pull/80378))
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
@@ -233,8 +235,6 @@
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
 * Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
 * [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
-* The Great Berry Crash of 2025 ([#80332](https://github.com/CleverRaven/Cataclysm-DDA/pull/80332))
-* Make irradiation plant spawn enemies ([#80335](https://github.com/CleverRaven/Cataclysm-DDA/pull/80335))
 * Military outpost revamp ([#80337](https://github.com/CleverRaven/Cataclysm-DDA/pull/80337))
 * fix typo in labeler ([#80339](https://github.com/CleverRaven/Cataclysm-DDA/pull/80339))
 * Fix missing period ([#80338](https://github.com/CleverRaven/Cataclysm-DDA/pull/80338))
