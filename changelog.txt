@@ -1,3 +1,4 @@
+* Handle conflicts field when generating mod combinations for CI (#80520)
 
 Cataclysm-DDA experimental build 2025-04-09-1554 (6e88bcf)
 * [Xedra Evolved] Add Dhampir-specific traits (#80494)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2025-04-04-0811 (a3cb5dc)
 * [Sky Island] Fix possible painkiller death loop (#80395)
 * Fix charcoal kilns producing no charcoal (#80365)
 * [MoM] Add compound XV471 schematics (#80385)
-* [Sky Island] Add healing salve (#80345)
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling (#80366)
 * Revamp gunmod locations (#80360)
 * Audit the existence of a few gunmods (#80372)
