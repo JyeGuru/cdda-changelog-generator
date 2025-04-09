@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-09-1554 (6e88bcf)
+* [Xedra Evolved] Add Dhampir-specific traits (#80494)
+
 Cataclysm-DDA experimental build 2025-04-09-1040 (5b37466)
 * Explosion/shrapnel/melee item structs (#80506)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-04-04-1033 (22d1346)
 
 Cataclysm-DDA experimental build 2025-04-04-0811 (a3cb5dc)
 * Missing nested mapgen flags (#80447)
-
-Cataclysm-DDA experimental build 2025-04-04-0600 (09a31ab)
 * Add a dump palette & increase amount of trash (#80424)
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` (#80426)
 * 75% of smartphones are locked (#80399)
@@ -148,7 +149,6 @@ Cataclysm-DDA experimental build 2025-04-04-0600 (09a31ab)
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes (#80362)
 * [Bugfixes] Spells consume energy before casting effects (#80361)
 * [XE] Adds a special boss encounter for tier 5 vampires (#80347)
-* Spells can parse tags now (#80343)
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor (#80354)
 * Add billboards (#80351)
 * [MoM] Rework Oubliette to use new u_/n_die functionality (#80348)
