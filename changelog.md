@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-09-1040 ([5b37466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-1040))
+
 * Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-04-04-0600 ([09a31ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0600))
 
 * Add a dump palette & increase amount of trash ([#80424](https://github.com/CleverRaven/Cataclysm-DDA/pull/80424))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-04-0348 ([94d17a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0348))
-
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
 * 75% of smartphones are locked ([#80399](https://github.com/CleverRaven/Cataclysm-DDA/pull/80399))
 * Underground Temperature now depends on Region Settings ([#80416](https://github.com/CleverRaven/Cataclysm-DDA/pull/80416))
