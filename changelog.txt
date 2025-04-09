@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-04-09-2345 (54cd752)
+* Clean up some itemgroups (#80451)
 * Handle conflicts field when generating mod combinations for CI (#80520)
 
 Cataclysm-DDA experimental build 2025-04-09-1554 (6e88bcf)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2025-04-04-1033 (22d1346)
 * [XEDRA] Modify Gracken and Paraclesian butcher / dissection empathy by jsonizing species empathy (#80409)
 * [Xedra Evolve] Chronomancers can't take species heritage traits (#80445)
 * Document NO_TEMP Flag (#80428)
-
-Cataclysm-DDA experimental build 2025-04-04-0811 (a3cb5dc)
 * Missing nested mapgen flags (#80447)
 * Add a dump palette & increase amount of trash (#80424)
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` (#80426)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-04-04-0811 (a3cb5dc)
 * Pin cmake version in windows build (#80379)
 * Manual recipe for long wooden post for innawoods (#80374)
 * fix can_contain copies_remaining amount for sheaths (#80349)
-* Ferals scream/yell/overall try to be mean (#80346)
 * Routine i18n updates on 29 March 2025 (#80363)
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes (#80362)
 * [Bugfixes] Spells consume energy before casting effects (#80361)

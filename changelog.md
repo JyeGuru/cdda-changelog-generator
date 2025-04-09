@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-09-2345 ([54cd752](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-2345))
+
+* Clean up some itemgroups ([#80451](https://github.com/CleverRaven/Cataclysm-DDA/pull/80451))
 * Handle conflicts field when generating mod combinations for CI ([#80520](https://github.com/CleverRaven/Cataclysm-DDA/pull/80520))
 
 ---
@@ -191,11 +197,6 @@
 * [XEDRA] Modify Gracken and Paraclesian butcher / dissection empathy by jsonizing species empathy ([#80409](https://github.com/CleverRaven/Cataclysm-DDA/pull/80409))
 * [Xedra Evolve] Chronomancers can't take species heritage traits ([#80445](https://github.com/CleverRaven/Cataclysm-DDA/pull/80445))
 * Document NO_TEMP Flag ([#80428](https://github.com/CleverRaven/Cataclysm-DDA/pull/80428))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-04-0811 ([a3cb5dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0811))
-
 * Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
 * Add a dump palette & increase amount of trash ([#80424](https://github.com/CleverRaven/Cataclysm-DDA/pull/80424))
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
@@ -231,7 +232,6 @@
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
 * Manual recipe for long wooden post for innawoods ([#80374](https://github.com/CleverRaven/Cataclysm-DDA/pull/80374))
 * fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
-* Ferals scream/yell/overall try to be mean ([#80346](https://github.com/CleverRaven/Cataclysm-DDA/pull/80346))
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes ([#80362](https://github.com/CleverRaven/Cataclysm-DDA/pull/80362))
 * [Bugfixes] Spells consume energy before casting effects ([#80361](https://github.com/CleverRaven/Cataclysm-DDA/pull/80361))
