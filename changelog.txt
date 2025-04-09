@@ -1,3 +1,7 @@
+* Explosion/shrapnel/melee item structs (#80506)
+
+Cataclysm-DDA experimental build 2025-04-09-0749 (fa8b9b2)
+* eoc: unstringify dialogue variables (#80455)
 
 Cataclysm-DDA experimental build 2025-04-08-2324 (29f74da)
 * Block animals from climbing fences (#80392)
@@ -106,8 +110,6 @@ Cataclysm-DDA experimental build 2025-04-04-0600 (09a31ab)
 
 Cataclysm-DDA experimental build 2025-04-04-0348 (94d17a4)
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` (#80426)
-
-Cataclysm-DDA experimental build 2025-04-04-0133 (befe456)
 * 75% of smartphones are locked (#80399)
 * Underground Temperature now depends on Region Settings (#80416)
 * Used/unused names for map cache + lore files (#80402)
@@ -145,7 +147,6 @@ Cataclysm-DDA experimental build 2025-04-04-0133 (befe456)
 * Routine i18n updates on 29 March 2025 (#80363)
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes (#80362)
 * [Bugfixes] Spells consume energy before casting effects (#80361)
-* Allow summoned monsters to look like a summoner or monsters to look like an avatar (#80341)
 * [XE] Adds a special boss encounter for tier 5 vampires (#80347)
 * Spells can parse tags now (#80343)
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor (#80354)

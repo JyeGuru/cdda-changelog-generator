@@ -1,3 +1,10 @@
+* Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-09-0749 ([fa8b9b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-0749))
+
+* eoc: unstringify dialogue variables ([#80455](https://github.com/CleverRaven/Cataclysm-DDA/pull/80455))
 
 ---
 
@@ -190,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-04-04-0348 ([94d17a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0348))
 
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-04-0133 ([befe456](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-0133))
-
 * 75% of smartphones are locked ([#80399](https://github.com/CleverRaven/Cataclysm-DDA/pull/80399))
 * Underground Temperature now depends on Region Settings ([#80416](https://github.com/CleverRaven/Cataclysm-DDA/pull/80416))
 * Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
@@ -232,7 +234,6 @@
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes ([#80362](https://github.com/CleverRaven/Cataclysm-DDA/pull/80362))
 * [Bugfixes] Spells consume energy before casting effects ([#80361](https://github.com/CleverRaven/Cataclysm-DDA/pull/80361))
-* Allow summoned monsters to look like a summoner or monsters to look like an avatar ([#80341](https://github.com/CleverRaven/Cataclysm-DDA/pull/80341))
 * [XE] Adds a special boss encounter for tier 5 vampires ([#80347](https://github.com/CleverRaven/Cataclysm-DDA/pull/80347))
 * Spells can parse tags now ([#80343](https://github.com/CleverRaven/Cataclysm-DDA/pull/80343))
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
