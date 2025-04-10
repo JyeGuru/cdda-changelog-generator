@@ -1,3 +1,4 @@
+* [XE] Direct vampire drinking adjustements ([#80518](https://github.com/CleverRaven/Cataclysm-DDA/pull/80518))
 * Aftershock: Heat floors in port augustmoon ([#80510](https://github.com/CleverRaven/Cataclysm-DDA/pull/80510))
 
 ---
@@ -239,4 +240,3 @@
 * Update flawless_memory.json ([#80378](https://github.com/CleverRaven/Cataclysm-DDA/pull/80378))
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
 * Manual recipe for long wooden post for innawoods ([#80374](https://github.com/CleverRaven/Cataclysm-DDA/pull/80374))
-* Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
