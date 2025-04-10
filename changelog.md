@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-10-0807 ([130aa7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-0807))
+
 * [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))
 
 ---
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-04-05-1457 ([35e25f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-1457))
 
 * Hotel Luggage Itemgroup had recursive suitcases ([#80439](https://github.com/CleverRaven/Cataclysm-DDA/pull/80439))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-05-0157 ([c674f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-0157))
-
 * Evolution now defaults to 1, rescale existing saves and fields to account for it ([#80438](https://github.com/CleverRaven/Cataclysm-DDA/pull/80438))
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
 * [XEDRA] Modify Gracken and Paraclesian butcher / dissection empathy by jsonizing species empathy ([#80409](https://github.com/CleverRaven/Cataclysm-DDA/pull/80409))
