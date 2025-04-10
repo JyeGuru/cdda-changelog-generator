@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-10-1022 ([99129f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-1022))
+
 * Fix Chronomancer time loop typo  #80509 ([#80515](https://github.com/CleverRaven/Cataclysm-DDA/pull/80515))
 
 ---
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-04-05-2017 ([050b1ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-2017))
 
 * Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-05-1457 ([35e25f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-1457))
-
 * Hotel Luggage Itemgroup had recursive suitcases ([#80439](https://github.com/CleverRaven/Cataclysm-DDA/pull/80439))
 * Evolution now defaults to 1, rescale existing saves and fields to account for it ([#80438](https://github.com/CleverRaven/Cataclysm-DDA/pull/80438))
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
