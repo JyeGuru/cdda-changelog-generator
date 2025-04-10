@@ -1,3 +1,4 @@
+* Fix Chronomancer time loop typo  #80509 ([#80515](https://github.com/CleverRaven/Cataclysm-DDA/pull/80515))
 
 ---
 
@@ -230,7 +231,6 @@
 * Fix charcoal kilns producing no charcoal ([#80365](https://github.com/CleverRaven/Cataclysm-DDA/pull/80365))
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling ([#80366](https://github.com/CleverRaven/Cataclysm-DDA/pull/80366))
-* Revamp gunmod locations ([#80360](https://github.com/CleverRaven/Cataclysm-DDA/pull/80360))
 * Audit the existence of a few gunmods ([#80372](https://github.com/CleverRaven/Cataclysm-DDA/pull/80372))
 * Fix Magiclysm fireproof mortar recipe ([#80377](https://github.com/CleverRaven/Cataclysm-DDA/pull/80377))
 * Re-fix release workflow T_T ([#80380](https://github.com/CleverRaven/Cataclysm-DDA/pull/80380))
