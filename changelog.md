@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-10-0153 ([077ab51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-0153))
+
+* [Xedra Evolved] Empowered Blood effect ([#80512](https://github.com/CleverRaven/Cataclysm-DDA/pull/80512))
+* Dentistry ([#80429](https://github.com/CleverRaven/Cataclysm-DDA/pull/80429))
+* Leather Body Armor can block too! And some others can't... ([#80519](https://github.com/CleverRaven/Cataclysm-DDA/pull/80519))
+* Aftershock: Thermos & Cookers ([#80517](https://github.com/CleverRaven/Cataclysm-DDA/pull/80517))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-09-2345 ([54cd752](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-2345))
 
 * Clean up some itemgroups ([#80451](https://github.com/CleverRaven/Cataclysm-DDA/pull/80451))
@@ -189,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-04-04-2200 ([aa4e123](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-2200))
 
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-04-1033 ([22d1346](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-1033))
-
 * [XEDRA] Modify Gracken and Paraclesian butcher / dissection empathy by jsonizing species empathy ([#80409](https://github.com/CleverRaven/Cataclysm-DDA/pull/80409))
 * [Xedra Evolve] Chronomancers can't take species heritage traits ([#80445](https://github.com/CleverRaven/Cataclysm-DDA/pull/80445))
 * Document NO_TEMP Flag ([#80428](https://github.com/CleverRaven/Cataclysm-DDA/pull/80428))
@@ -231,11 +235,7 @@
 * Update flawless_memory.json ([#80378](https://github.com/CleverRaven/Cataclysm-DDA/pull/80378))
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
 * Manual recipe for long wooden post for innawoods ([#80374](https://github.com/CleverRaven/Cataclysm-DDA/pull/80374))
-* fix can_contain copies_remaining amount for sheaths ([#80349](https://github.com/CleverRaven/Cataclysm-DDA/pull/80349))
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes ([#80362](https://github.com/CleverRaven/Cataclysm-DDA/pull/80362))
 * [Bugfixes] Spells consume energy before casting effects ([#80361](https://github.com/CleverRaven/Cataclysm-DDA/pull/80361))
-* [XE] Adds a special boss encounter for tier 5 vampires ([#80347](https://github.com/CleverRaven/Cataclysm-DDA/pull/80347))
 * [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
-* Add billboards ([#80351](https://github.com/CleverRaven/Cataclysm-DDA/pull/80351))
-* [MoM] Rework Oubliette to use new u_/n_die functionality ([#80348](https://github.com/CleverRaven/Cataclysm-DDA/pull/80348))
