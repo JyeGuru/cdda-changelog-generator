@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-10-1645 (989f424)
 * [XE] Direct vampire drinking adjustements (#80518)
 * Aftershock: Heat floors in port augustmoon (#80510)
 
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2025-04-06-0549 (fdf760e)
 
 Cataclysm-DDA experimental build 2025-04-06-0333 (d159ce8)
 * [Xedra Evolved] Add playable dhampirs (#80444)
-
-Cataclysm-DDA experimental build 2025-04-05-2236 (746a51b)
 * [MoM] Fix medicinal touch contemplation (#80450)
 * Split up domestic palette in item and no item (#80456)
 * Hotel Luggage Itemgroup had recursive suitcases (#80439)

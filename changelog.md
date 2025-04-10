@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-10-1645 ([989f424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-1645))
+
 * [XE] Direct vampire drinking adjustements ([#80518](https://github.com/CleverRaven/Cataclysm-DDA/pull/80518))
 * Aftershock: Heat floors in port augustmoon ([#80510](https://github.com/CleverRaven/Cataclysm-DDA/pull/80510))
 
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-04-06-0333 ([d159ce8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-0333))
 
 * [Xedra Evolved] Add playable dhampirs ([#80444](https://github.com/CleverRaven/Cataclysm-DDA/pull/80444))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-05-2236 ([746a51b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-2236))
-
 * [MoM] Fix medicinal touch contemplation ([#80450](https://github.com/CleverRaven/Cataclysm-DDA/pull/80450))
 * Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
 * Hotel Luggage Itemgroup had recursive suitcases ([#80439](https://github.com/CleverRaven/Cataclysm-DDA/pull/80439))
