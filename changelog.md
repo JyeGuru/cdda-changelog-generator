@@ -1,3 +1,4 @@
+* bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
 
 ---
 
@@ -231,7 +232,6 @@
 * Fix up garden_house_1 ([#80403](https://github.com/CleverRaven/Cataclysm-DDA/pull/80403))
 * Punctuation! ([#80393](https://github.com/CleverRaven/Cataclysm-DDA/pull/80393))
 * [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
-* Fix charcoal kilns producing no charcoal ([#80365](https://github.com/CleverRaven/Cataclysm-DDA/pull/80365))
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
 * [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling ([#80366](https://github.com/CleverRaven/Cataclysm-DDA/pull/80366))
 * Audit the existence of a few gunmods ([#80372](https://github.com/CleverRaven/Cataclysm-DDA/pull/80372))
