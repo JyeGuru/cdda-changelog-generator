@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-10-2152 ([17d5d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-2152))
+
+* Handle submap shifts ([#80481](https://github.com/CleverRaven/Cataclysm-DDA/pull/80481))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
 
 ---
@@ -194,11 +200,6 @@
 
 * Add Nicotine Pouches and Adjust Cig Effect Name and Description ([#80443](https://github.com/CleverRaven/Cataclysm-DDA/pull/80443))
 * add some wield tests i wish I had ([#80448](https://github.com/CleverRaven/Cataclysm-DDA/pull/80448))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-06-0333 ([d159ce8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-0333))
-
 * [Xedra Evolved] Add playable dhampirs ([#80444](https://github.com/CleverRaven/Cataclysm-DDA/pull/80444))
 * [MoM] Fix medicinal touch contemplation ([#80450](https://github.com/CleverRaven/Cataclysm-DDA/pull/80450))
 * Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
@@ -233,7 +234,6 @@
 * Punctuation! ([#80393](https://github.com/CleverRaven/Cataclysm-DDA/pull/80393))
 * [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
-* [Infrastructure] Allow setting 0 spoil time to enable copy-from for 0 spoiling ([#80366](https://github.com/CleverRaven/Cataclysm-DDA/pull/80366))
 * Audit the existence of a few gunmods ([#80372](https://github.com/CleverRaven/Cataclysm-DDA/pull/80372))
 * Fix Magiclysm fireproof mortar recipe ([#80377](https://github.com/CleverRaven/Cataclysm-DDA/pull/80377))
 * Re-fix release workflow T_T ([#80380](https://github.com/CleverRaven/Cataclysm-DDA/pull/80380))
