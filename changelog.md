@@ -1,3 +1,10 @@
+* [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-10-0521 ([cae434c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-0521))
+
+* War hammer based on real one ([#80522](https://github.com/CleverRaven/Cataclysm-DDA/pull/80522))
 
 ---
 
@@ -192,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-04-05-0157 ([c674f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-05-0157))
 
 * Evolution now defaults to 1, rescale existing saves and fields to account for it ([#80438](https://github.com/CleverRaven/Cataclysm-DDA/pull/80438))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-04-2200 ([aa4e123](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-04-2200))
-
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
 * [XEDRA] Modify Gracken and Paraclesian butcher / dissection empathy by jsonizing species empathy ([#80409](https://github.com/CleverRaven/Cataclysm-DDA/pull/80409))
 * [Xedra Evolve] Chronomancers can't take species heritage traits ([#80445](https://github.com/CleverRaven/Cataclysm-DDA/pull/80445))
@@ -238,4 +240,3 @@
 * Routine i18n updates on 29 March 2025 ([#80363](https://github.com/CleverRaven/Cataclysm-DDA/pull/80363))
 * [Balance] Adjust Alpha Mutations Point Balance + minor changes ([#80362](https://github.com/CleverRaven/Cataclysm-DDA/pull/80362))
 * [Bugfixes] Spells consume energy before casting effects ([#80361](https://github.com/CleverRaven/Cataclysm-DDA/pull/80361))
-* [Magiclysm/XE] Fix accidentally-deleted custom integrated armor ([#80354](https://github.com/CleverRaven/Cataclysm-DDA/pull/80354))
