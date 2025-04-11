@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-11-0931 ([579da72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-0931))
+
 * Bump basic build and release runner and compiler version ([#80524](https://github.com/CleverRaven/Cataclysm-DDA/pull/80524))
 * to-hit reader, other remaining changes for item subtypes split ([#80526](https://github.com/CleverRaven/Cataclysm-DDA/pull/80526))
 
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-04-06-1253 ([d8f220f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-1253))
 
 * math: un-lambda-ify dialogue functions ([#80453](https://github.com/CleverRaven/Cataclysm-DDA/pull/80453))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-06-1044 ([bc614c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-1044))
-
 * Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
 * eoc: hoist default var value to helper structs ([#80454](https://github.com/CleverRaven/Cataclysm-DDA/pull/80454))
