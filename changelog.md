@@ -1,3 +1,10 @@
+* adjusted splattering ([#80535](https://github.com/CleverRaven/Cataclysm-DDA/pull/80535))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-11-2236 ([e51041c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-2236))
+
+* [Xedra Evolved] Fix drinking blood with fangs EoC triggering twice on NPCs (+ add dhampir calories) ([#80531](https://github.com/CleverRaven/Cataclysm-DDA/pull/80531))
 
 ---
 
@@ -192,11 +199,6 @@
 * tests: add roadstop_b to coverage whitelist ([#80480](https://github.com/CleverRaven/Cataclysm-DDA/pull/80480))
 * Routine i18n updates on 05 April 2025 ([#80462](https://github.com/CleverRaven/Cataclysm-DDA/pull/80462))
 * eoc: replace u_loc_relative with u_location_variable ([#80452](https://github.com/CleverRaven/Cataclysm-DDA/pull/80452))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-06-1253 ([d8f220f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-1253))
-
 * math: un-lambda-ify dialogue functions ([#80453](https://github.com/CleverRaven/Cataclysm-DDA/pull/80453))
 * Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
@@ -237,7 +239,5 @@
 * Punctuation! ([#80393](https://github.com/CleverRaven/Cataclysm-DDA/pull/80393))
 * [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
-* Fix Magiclysm fireproof mortar recipe ([#80377](https://github.com/CleverRaven/Cataclysm-DDA/pull/80377))
 * Re-fix release workflow T_T ([#80380](https://github.com/CleverRaven/Cataclysm-DDA/pull/80380))
-* Update flawless_memory.json ([#80378](https://github.com/CleverRaven/Cataclysm-DDA/pull/80378))
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
