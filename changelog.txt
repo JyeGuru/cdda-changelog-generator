@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-11-0707 (c2efcce)
+* [MSC] My sweet mutation overlay fix (#80532)
+
 Cataclysm-DDA experimental build 2025-04-11-0304 (5781090)
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun (#80529)
 
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2025-04-06-1253 (d8f220f)
 Cataclysm-DDA experimental build 2025-04-06-1044 (bc614c8)
 * Fix CI by adding some on_overflows where appropriate (#80474)
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together (#80465)
-
-Cataclysm-DDA experimental build 2025-04-06-0829 (228ba43)
 * eoc: hoist default var value to helper structs (#80454)
 * Add Nicotine Pouches and Adjust Cig Effect Name and Description (#80443)
 * add some wield tests i wish I had (#80448)
