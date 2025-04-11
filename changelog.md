@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-11-0304 ([5781090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-0304))
+
+* [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-10-2152 ([17d5d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-2152))
 
 * Handle submap shifts ([#80481](https://github.com/CleverRaven/Cataclysm-DDA/pull/80481))
@@ -142,7 +148,6 @@
 #### Cataclysm-DDA experimental build 2025-04-07-0655 ([6819531](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-0655))
 
 * [MoM] Wary Sleeper Fix ([#80487](https://github.com/CleverRaven/Cataclysm-DDA/pull/80487))
-* Switched usage of m to use get_map() ([#80367](https://github.com/CleverRaven/Cataclysm-DDA/pull/80367))
 * Expose emp_blast and scrambler_blast to eoc ([#80488](https://github.com/CleverRaven/Cataclysm-DDA/pull/80488))
 * Allow 7.62x39 uppers to be installed on AR pistols ([#80432](https://github.com/CleverRaven/Cataclysm-DDA/pull/80432))
 * Allow charger bipod to be removed ([#80442](https://github.com/CleverRaven/Cataclysm-DDA/pull/80442))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-04-06-0829 ([228ba43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-0829))
 
 * eoc: hoist default var value to helper structs ([#80454](https://github.com/CleverRaven/Cataclysm-DDA/pull/80454))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-06-0549 ([fdf760e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-0549))
-
 * Add Nicotine Pouches and Adjust Cig Effect Name and Description ([#80443](https://github.com/CleverRaven/Cataclysm-DDA/pull/80443))
 * add some wield tests i wish I had ([#80448](https://github.com/CleverRaven/Cataclysm-DDA/pull/80448))
 * [Xedra Evolved] Add playable dhampirs ([#80444](https://github.com/CleverRaven/Cataclysm-DDA/pull/80444))

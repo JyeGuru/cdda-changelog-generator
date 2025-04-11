@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-11-0304 (5781090)
+* [Xedra Evolved] Creatures of the Night are ambivalent about the sun (#80529)
+
 Cataclysm-DDA experimental build 2025-04-10-2152 (17d5d43)
 * Handle submap shifts (#80481)
 * bump runner to ubuntu-22.04 (#80530)
@@ -79,7 +82,6 @@ Cataclysm-DDA experimental build 2025-04-07-1117 (c6997b2)
 
 Cataclysm-DDA experimental build 2025-04-07-0655 (6819531)
 * [MoM] Wary Sleeper Fix (#80487)
-* Switched usage of m to use get_map() (#80367)
 * Expose emp_blast and scrambler_blast to eoc (#80488)
 * Allow 7.62x39 uppers to be installed on AR pistols (#80432)
 * Allow charger bipod to be removed (#80442)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2025-04-06-1044 (bc614c8)
 
 Cataclysm-DDA experimental build 2025-04-06-0829 (228ba43)
 * eoc: hoist default var value to helper structs (#80454)
-
-Cataclysm-DDA experimental build 2025-04-06-0549 (fdf760e)
 * Add Nicotine Pouches and Adjust Cig Effect Name and Description (#80443)
 * add some wield tests i wish I had (#80448)
 * [Xedra Evolved] Add playable dhampirs (#80444)
