@@ -1,3 +1,4 @@
+* to-hit reader, other remaining changes for item subtypes split (#80526)
 
 Cataclysm-DDA experimental build 2025-04-11-0707 (c2efcce)
 * [MSC] My sweet mutation overlay fix (#80532)
@@ -148,7 +149,6 @@ Cataclysm-DDA experimental build 2025-04-06-1044 (bc614c8)
 * Punctuation! (#80393)
 * [Sky Island] Fix possible painkiller death loop (#80395)
 * [MoM] Add compound XV471 schematics (#80385)
-* Audit the existence of a few gunmods (#80372)
 * Fix Magiclysm fireproof mortar recipe (#80377)
 * Re-fix release workflow T_T (#80380)
 * Update flawless_memory.json (#80378)
