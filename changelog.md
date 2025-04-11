@@ -1,3 +1,4 @@
+* Bump basic build and release runner and compiler version ([#80524](https://github.com/CleverRaven/Cataclysm-DDA/pull/80524))
 * to-hit reader, other remaining changes for item subtypes split ([#80526](https://github.com/CleverRaven/Cataclysm-DDA/pull/80526))
 
 ---
@@ -240,4 +241,3 @@
 * Re-fix release workflow T_T ([#80380](https://github.com/CleverRaven/Cataclysm-DDA/pull/80380))
 * Update flawless_memory.json ([#80378](https://github.com/CleverRaven/Cataclysm-DDA/pull/80378))
 * Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
-* Manual recipe for long wooden post for innawoods ([#80374](https://github.com/CleverRaven/Cataclysm-DDA/pull/80374))

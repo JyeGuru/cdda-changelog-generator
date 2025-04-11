@@ -1,3 +1,4 @@
+* Bump basic build and release runner and compiler version (#80524)
 * to-hit reader, other remaining changes for item subtypes split (#80526)
 
 Cataclysm-DDA experimental build 2025-04-11-0707 (c2efcce)
@@ -153,4 +154,3 @@ Cataclysm-DDA experimental build 2025-04-06-1044 (bc614c8)
 * Re-fix release workflow T_T (#80380)
 * Update flawless_memory.json (#80378)
 * Pin cmake version in windows build (#80379)
-* Manual recipe for long wooden post for innawoods (#80374)
