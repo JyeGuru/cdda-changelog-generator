@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-12-1934 (bffd3e1)
 * [ Xedra Evolved ] Ready to go Homullus Traits (#80446)
 * NPCs can go down stairs (#80501)
 
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-04-07-0655 (6819531)
 
 Cataclysm-DDA experimental build 2025-04-07-0412 (c68362d)
 * Fix urban_18 greenhouse error (#80486)
-
-Cataclysm-DDA experimental build 2025-04-07-0009 (c899c79)
 * Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC (#80483)
 * More items in horse farm farmhouse (#80485)
 * [Xedra Evolved] Remove `teeth` type from active fangs trait (#80478)

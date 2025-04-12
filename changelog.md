@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-12-1934 ([bffd3e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-1934))
+
 * [ Xedra Evolved ] Ready to go Homullus Traits ([#80446](https://github.com/CleverRaven/Cataclysm-DDA/pull/80446))
 * NPCs can go down stairs ([#80501](https://github.com/CleverRaven/Cataclysm-DDA/pull/80501))
 
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-04-07-0412 ([c68362d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-0412))
 
 * Fix urban_18 greenhouse error ([#80486](https://github.com/CleverRaven/Cataclysm-DDA/pull/80486))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-07-0009 ([c899c79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-0009))
-
 * Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC ([#80483](https://github.com/CleverRaven/Cataclysm-DDA/pull/80483))
 * More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))
 * [Xedra Evolved] Remove `teeth` type from active fangs trait ([#80478](https://github.com/CleverRaven/Cataclysm-DDA/pull/80478))
