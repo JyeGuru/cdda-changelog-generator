@@ -1,3 +1,5 @@
+* [ Xedra Evolved ] Ready to go Homullus Traits ([#80446](https://github.com/CleverRaven/Cataclysm-DDA/pull/80446))
+* NPCs can go down stairs ([#80501](https://github.com/CleverRaven/Cataclysm-DDA/pull/80501))
 
 ---
 
@@ -142,12 +144,6 @@
 * Butternut butter and ink ([#80434](https://github.com/CleverRaven/Cataclysm-DDA/pull/80434))
 * Translation fixes/Extract skill level descriptions ([#80441](https://github.com/CleverRaven/Cataclysm-DDA/pull/80441))
 * sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-08-0424 ([27ff6fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-0424))
-
-* [XE] Add a new vampire-exclusive mutation path ([#80384](https://github.com/CleverRaven/Cataclysm-DDA/pull/80384))
 * Weekly Changelog 2025-03-31 to 2025-04-07 ([#80492](https://github.com/CleverRaven/Cataclysm-DDA/pull/80492))
 * Clean up some eoc bool reading ([#80497](https://github.com/CleverRaven/Cataclysm-DDA/pull/80497))
 * Move is_efile, fix not able to read from e-device with full inventory ([#80498](https://github.com/CleverRaven/Cataclysm-DDA/pull/80498))
@@ -245,4 +241,3 @@
 * Fix up garden_house_1 ([#80403](https://github.com/CleverRaven/Cataclysm-DDA/pull/80403))
 * Punctuation! ([#80393](https://github.com/CleverRaven/Cataclysm-DDA/pull/80393))
 * [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
-* [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
