@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-12-1344 ([884fdbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-1344))
+
+* Isolated Road's Desire paths ([#80543](https://github.com/CleverRaven/Cataclysm-DDA/pull/80543))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-12-0055 ([2bd18e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-0055))
 
 * adjusted splattering ([#80535](https://github.com/CleverRaven/Cataclysm-DDA/pull/80535))
@@ -240,4 +246,3 @@
 * [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
 * [MoM] Add compound XV471 schematics ([#80385](https://github.com/CleverRaven/Cataclysm-DDA/pull/80385))
 * Re-fix release workflow T_T ([#80380](https://github.com/CleverRaven/Cataclysm-DDA/pull/80380))
-* Pin cmake version in windows build ([#80379](https://github.com/CleverRaven/Cataclysm-DDA/pull/80379))
