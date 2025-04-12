@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-12-1723 (d468a32)
+* New Alpha Trait, faster consumption of degenerate mutagens (#80527)
+
 Cataclysm-DDA experimental build 2025-04-12-1344 (884fdbd)
 * Isolated Road's Desire paths (#80543)
 
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2025-04-07-0412 (c68362d)
 
 Cataclysm-DDA experimental build 2025-04-07-0009 (c899c79)
 * Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC (#80483)
-
-Cataclysm-DDA experimental build 2025-04-06-2002 (018b10c)
 * More items in horse farm farmhouse (#80485)
 * [Xedra Evolved] Remove `teeth` type from active fangs trait (#80478)
 * tests: add roadstop_b to coverage whitelist (#80480)
@@ -155,4 +156,3 @@ Cataclysm-DDA experimental build 2025-04-06-2002 (018b10c)
 * Punctuation! (#80393)
 * [Sky Island] Fix possible painkiller death loop (#80395)
 * [MoM] Add compound XV471 schematics (#80385)
-* Re-fix release workflow T_T (#80380)
