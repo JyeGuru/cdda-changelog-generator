@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-12-0055 ([2bd18e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-0055))
+
 * adjusted splattering ([#80535](https://github.com/CleverRaven/Cataclysm-DDA/pull/80535))
 
 ---
@@ -191,11 +196,6 @@
 
 * More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))
 * [Xedra Evolved] Remove `teeth` type from active fangs trait ([#80478](https://github.com/CleverRaven/Cataclysm-DDA/pull/80478))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-06-1519 ([d7ba78d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-06-1519))
-
 * tests: add roadstop_b to coverage whitelist ([#80480](https://github.com/CleverRaven/Cataclysm-DDA/pull/80480))
 * Routine i18n updates on 05 April 2025 ([#80462](https://github.com/CleverRaven/Cataclysm-DDA/pull/80462))
 * eoc: replace u_loc_relative with u_location_variable ([#80452](https://github.com/CleverRaven/Cataclysm-DDA/pull/80452))
