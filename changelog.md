@@ -1,3 +1,5 @@
+* Add missing `connect_groups` to `JSON-INFO.md` file ([#80536](https://github.com/CleverRaven/Cataclysm-DDA/pull/80536))
+* Aftershock: Heat Crashed Ship ([#80537](https://github.com/CleverRaven/Cataclysm-DDA/pull/80537))
 * Fix saving default mod list ([#80552](https://github.com/CleverRaven/Cataclysm-DDA/pull/80552))
 
 ---
@@ -133,12 +135,6 @@
 #### Cataclysm-DDA experimental build 2025-04-09-0749 ([fa8b9b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-0749))
 
 * eoc: unstringify dialogue variables ([#80455](https://github.com/CleverRaven/Cataclysm-DDA/pull/80455))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-08-2324 ([29f74da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-2324))
-
-* Block animals from climbing fences ([#80392](https://github.com/CleverRaven/Cataclysm-DDA/pull/80392))
 * Fix - Allow healing items that only do instant healing ([#80458](https://github.com/CleverRaven/Cataclysm-DDA/pull/80458))
 
 ---
@@ -239,5 +235,4 @@
 * Routine tileset updates on 01 April 2025 ([#80405](https://github.com/CleverRaven/Cataclysm-DDA/pull/80405))
 * Add category to ammo boxes ([#80397](https://github.com/CleverRaven/Cataclysm-DDA/pull/80397))
 * Fix up garden_house_1 ([#80403](https://github.com/CleverRaven/Cataclysm-DDA/pull/80403))
-* Punctuation! ([#80393](https://github.com/CleverRaven/Cataclysm-DDA/pull/80393))
 * [Sky Island] Fix possible painkiller death loop ([#80395](https://github.com/CleverRaven/Cataclysm-DDA/pull/80395))
