@@ -1,3 +1,4 @@
+* Update EOCs.json with Vitrification and Incorporeal ([#80553](https://github.com/CleverRaven/Cataclysm-DDA/pull/80553))
 
 ---
 
@@ -234,7 +235,6 @@
 * Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
 * Involuntary Traveler do not speak english ([#80408](https://github.com/CleverRaven/Cataclysm-DDA/pull/80408))
 * update clang-tidy docs to reflect our switch to llvm-18 and clang++-18 ([#80394](https://github.com/CleverRaven/Cataclysm-DDA/pull/80394))
-* Weekly Changelog 2025-03-24 to 2025-03-31 ([#80388](https://github.com/CleverRaven/Cataclysm-DDA/pull/80388))
 * [Xedra Evolved] Fix Magiclysm haste interactions ([#80396](https://github.com/CleverRaven/Cataclysm-DDA/pull/80396))
 * Routine tileset updates on 01 April 2025 ([#80405](https://github.com/CleverRaven/Cataclysm-DDA/pull/80405))
 * Add category to ammo boxes ([#80397](https://github.com/CleverRaven/Cataclysm-DDA/pull/80397))
