@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-13-0157 ([8447652](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-13-0157))
+
+* Routine i18n updates on 12 April 2025 ([#80542](https://github.com/CleverRaven/Cataclysm-DDA/pull/80542))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-12-1934 ([bffd3e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-1934))
 
 * [ Xedra Evolved ] Ready to go Homullus Traits ([#80446](https://github.com/CleverRaven/Cataclysm-DDA/pull/80446))
@@ -190,11 +196,6 @@
 * Allow 7.62x39 uppers to be installed on AR pistols ([#80432](https://github.com/CleverRaven/Cataclysm-DDA/pull/80432))
 * Allow charger bipod to be removed ([#80442](https://github.com/CleverRaven/Cataclysm-DDA/pull/80442))
 * Make the stop sign red  ([#80461](https://github.com/CleverRaven/Cataclysm-DDA/pull/80461))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-07-0412 ([c68362d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-0412))
-
 * Fix urban_18 greenhouse error ([#80486](https://github.com/CleverRaven/Cataclysm-DDA/pull/80486))
 * Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC ([#80483](https://github.com/CleverRaven/Cataclysm-DDA/pull/80483))
 * More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))
@@ -228,7 +229,6 @@
 * Fix furniture tool pocket error and segfault error ([#80417](https://github.com/CleverRaven/Cataclysm-DDA/pull/80417))
 * Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
-* Fix an obsolete snippet in src/activity_handlers.cpp ([#80387](https://github.com/CleverRaven/Cataclysm-DDA/pull/80387))
 * Add items with NO_TEMP flag to temperature removal blacklist ([#80398](https://github.com/CleverRaven/Cataclysm-DDA/pull/80398))
 * [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
 * Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
