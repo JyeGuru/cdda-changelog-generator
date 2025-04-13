@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-13-1813 ([9d27aa8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-13-1813))
+
 * Add missing `connect_groups` to `JSON-INFO.md` file ([#80536](https://github.com/CleverRaven/Cataclysm-DDA/pull/80536))
 * Aftershock: Heat Crashed Ship ([#80537](https://github.com/CleverRaven/Cataclysm-DDA/pull/80537))
 * Fix saving default mod list ([#80552](https://github.com/CleverRaven/Cataclysm-DDA/pull/80552))
@@ -183,11 +188,6 @@
 * Add gun mod locations to glock 19 ([#80489](https://github.com/CleverRaven/Cataclysm-DDA/pull/80489))
 * More spawns for cut-resistant clothing ([#80496](https://github.com/CleverRaven/Cataclysm-DDA/pull/80496))
 * Rename map::add_item_ret_loc to add_item_or_charges_ret_loc ([#80491](https://github.com/CleverRaven/Cataclysm-DDA/pull/80491))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-07-1117 ([c6997b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-1117))
-
 * [Xedra Evolved] Remove obsolete homullus-specific jmath statement ([#80495](https://github.com/CleverRaven/Cataclysm-DDA/pull/80495))
 * [MoM] Wary Sleeper Fix ([#80487](https://github.com/CleverRaven/Cataclysm-DDA/pull/80487))
 * Expose emp_blast and scrambler_blast to eoc ([#80488](https://github.com/CleverRaven/Cataclysm-DDA/pull/80488))
