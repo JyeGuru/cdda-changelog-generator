@@ -1,3 +1,6 @@
+* Fix saving default mod list (#80552)
+
+Cataclysm-DDA experimental build 2025-04-13-1554 (d3a6f3f)
 * Update EOCs.json with Vitrification and Incorporeal (#80553)
 
 Cataclysm-DDA experimental build 2025-04-13-0157 (8447652)
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-04-07-1339 (677823b)
 
 Cataclysm-DDA experimental build 2025-04-07-1117 (c6997b2)
 * [Xedra Evolved] Remove obsolete homullus-specific jmath statement (#80495)
-
-Cataclysm-DDA experimental build 2025-04-07-0655 (6819531)
 * [MoM] Wary Sleeper Fix (#80487)
 * Expose emp_blast and scrambler_blast to eoc (#80488)
 * Allow 7.62x39 uppers to be installed on AR pistols (#80432)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-04-07-0655 (6819531)
 * Underground Temperature now depends on Region Settings (#80416)
 * Used/unused names for map cache + lore files (#80402)
 * sanify ebooksave energy consumptions (#80406)
-* Make u_die fields properly optional (#80389)
 * Fix furniture tool pocket error and segfault error (#80417)
 * Update wardrobe itemgroups (#80425)
 * Remove weird metal flooring around shipwrecks (#80410)
