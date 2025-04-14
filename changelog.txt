@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-14-1118 (0603761)
 * convert Item_factory::load_basic_info() to itype::load() (#80544)
 * Refactor documentation to use jsonc syntax highlighting (#80550)
 * Add NB flag (#80558)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-04-08-0654 (e3f8e4d)
 * Weekly Changelog 2025-03-31 to 2025-04-07 (#80492)
 * Clean up some eoc bool reading (#80497)
 * Move is_efile, fix not able to read from e-device with full inventory (#80498)
-
-Cataclysm-DDA experimental build 2025-04-08-0159 (7fcac50)
 * [Xedra Evolved] Vampire traits are now positive (#80500)
 * Aftershock: The Unification (#80401)
 * [Xedra Evolved] Vampires can drink blood (#80476)
