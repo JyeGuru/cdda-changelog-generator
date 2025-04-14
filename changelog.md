@@ -1,3 +1,11 @@
+* Refactor documentation to use jsonc syntax highlighting ([#80550](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550))
+* Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-14-0845 ([36ea208](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-14-0845))
+
+* Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-04-08-0159 ([7fcac50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-0159))
 
 * [Xedra Evolved] Vampire traits are now positive ([#80500](https://github.com/CleverRaven/Cataclysm-DDA/pull/80500))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-07-2032 ([0099f72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-07-2032))
-
 * Aftershock: The Unification ([#80401](https://github.com/CleverRaven/Cataclysm-DDA/pull/80401))
 * [Xedra Evolved] Vampires can drink blood ([#80476](https://github.com/CleverRaven/Cataclysm-DDA/pull/80476))
 * Recover invalidated bubble coordinate ([#80479](https://github.com/CleverRaven/Cataclysm-DDA/pull/80479))
@@ -227,11 +230,8 @@
 * Fix furniture tool pocket error and segfault error ([#80417](https://github.com/CleverRaven/Cataclysm-DDA/pull/80417))
 * Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
-* Add items with NO_TEMP flag to temperature removal blacklist ([#80398](https://github.com/CleverRaven/Cataclysm-DDA/pull/80398))
 * [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
 * Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
 * Involuntary Traveler do not speak english ([#80408](https://github.com/CleverRaven/Cataclysm-DDA/pull/80408))
-* [Xedra Evolved] Fix Magiclysm haste interactions ([#80396](https://github.com/CleverRaven/Cataclysm-DDA/pull/80396))
 * Routine tileset updates on 01 April 2025 ([#80405](https://github.com/CleverRaven/Cataclysm-DDA/pull/80405))
-* Add category to ammo boxes ([#80397](https://github.com/CleverRaven/Cataclysm-DDA/pull/80397))
 * Fix up garden_house_1 ([#80403](https://github.com/CleverRaven/Cataclysm-DDA/pull/80403))
