@@ -1,3 +1,4 @@
+* convert Item_factory::load_basic_info() to itype::load() ([#80544](https://github.com/CleverRaven/Cataclysm-DDA/pull/80544))
 * Refactor documentation to use jsonc syntax highlighting ([#80550](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550))
 * Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
 
@@ -223,7 +224,6 @@
 * Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
 * Add a dump palette & increase amount of trash ([#80424](https://github.com/CleverRaven/Cataclysm-DDA/pull/80424))
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
-* 75% of smartphones are locked ([#80399](https://github.com/CleverRaven/Cataclysm-DDA/pull/80399))
 * Underground Temperature now depends on Region Settings ([#80416](https://github.com/CleverRaven/Cataclysm-DDA/pull/80416))
 * Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
 * sanify ebooksave energy consumptions ([#80406](https://github.com/CleverRaven/Cataclysm-DDA/pull/80406))
