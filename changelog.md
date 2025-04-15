@@ -1,3 +1,10 @@
+* [Xedra Evolved] Rescale blood vitamin  ([#80564](https://github.com/CleverRaven/Cataclysm-DDA/pull/80564))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-15-0231 ([7e637f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-0231))
+
+* Fix location Variables targeting specific map features ([#80566](https://github.com/CleverRaven/Cataclysm-DDA/pull/80566))
 
 ---
 
@@ -187,7 +194,6 @@
 * Clean up some eoc bool reading ([#80497](https://github.com/CleverRaven/Cataclysm-DDA/pull/80497))
 * Move is_efile, fix not able to read from e-device with full inventory ([#80498](https://github.com/CleverRaven/Cataclysm-DDA/pull/80498))
 * [Xedra Evolved] Vampire traits are now positive ([#80500](https://github.com/CleverRaven/Cataclysm-DDA/pull/80500))
-* Aftershock: The Unification ([#80401](https://github.com/CleverRaven/Cataclysm-DDA/pull/80401))
 * [Xedra Evolved] Vampires can drink blood ([#80476](https://github.com/CleverRaven/Cataclysm-DDA/pull/80476))
 * Recover invalidated bubble coordinate ([#80479](https://github.com/CleverRaven/Cataclysm-DDA/pull/80479))
 * Add gun mod locations to glock 19 ([#80489](https://github.com/CleverRaven/Cataclysm-DDA/pull/80489))
@@ -225,7 +231,6 @@
 * Add a dump palette & increase amount of trash ([#80424](https://github.com/CleverRaven/Cataclysm-DDA/pull/80424))
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
 * Underground Temperature now depends on Region Settings ([#80416](https://github.com/CleverRaven/Cataclysm-DDA/pull/80416))
-* Used/unused names for map cache + lore files ([#80402](https://github.com/CleverRaven/Cataclysm-DDA/pull/80402))
 * sanify ebooksave energy consumptions ([#80406](https://github.com/CleverRaven/Cataclysm-DDA/pull/80406))
 * Fix furniture tool pocket error and segfault error ([#80417](https://github.com/CleverRaven/Cataclysm-DDA/pull/80417))
 * Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
