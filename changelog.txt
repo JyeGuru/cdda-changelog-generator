@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-15-1543 (993e5e5)
 * Weekly Changelog 2025-04-07 to 2025-04-14 (#80561)
 
 Cataclysm-DDA experimental build 2025-04-15-1319 (ae10aa0)
@@ -152,4 +154,3 @@ Cataclysm-DDA experimental build 2025-04-09-0749 (fa8b9b2)
 * Fix furniture tool pocket error and segfault error (#80417)
 * Update wardrobe itemgroups (#80425)
 * [April Fools Day] Pancor Jackhammer (#80412)
-* Make dairy farm spawn either zombie or non-zombie cows (#80411)
