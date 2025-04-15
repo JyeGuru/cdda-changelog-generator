@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-15-0447 ([82549e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-0447))
+
 * Another gunmod audit ([#80560](https://github.com/CleverRaven/Cataclysm-DDA/pull/80560))
 * [Xedra  Evolved] Vampires/Dhampirs can use Hypnotic Gaze against muggers/steal-confronters ([#80540](https://github.com/CleverRaven/Cataclysm-DDA/pull/80540))
 * [Xedra Evolved] Add Dhampir Weakness: Nocturnal ([#80563](https://github.com/CleverRaven/Cataclysm-DDA/pull/80563))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-04-08-1843 ([06d0f43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-1843))
 
 * Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-08-0654 ([e3f8e4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-0654))
-
 * Butternut butter and ink ([#80434](https://github.com/CleverRaven/Cataclysm-DDA/pull/80434))
 * Translation fixes/Extract skill level descriptions ([#80441](https://github.com/CleverRaven/Cataclysm-DDA/pull/80441))
 * sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
