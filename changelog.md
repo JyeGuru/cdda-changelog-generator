@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-15-0853 ([6ff0603](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-0853))
+
+* Minor knife fixes ([#80504](https://github.com/CleverRaven/Cataclysm-DDA/pull/80504))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-15-0447 ([82549e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-0447))
 
 * Another gunmod audit ([#80560](https://github.com/CleverRaven/Cataclysm-DDA/pull/80560))
@@ -184,11 +190,6 @@
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
 * Remove unconditional "aim on wait" for NPCs ([#80463](https://github.com/CleverRaven/Cataclysm-DDA/pull/80463))
 * Rename duplicate item JSON fields ([#80490](https://github.com/CleverRaven/Cataclysm-DDA/pull/80490))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-08-1843 ([06d0f43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-08-1843))
-
 * Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
 * Butternut butter and ink ([#80434](https://github.com/CleverRaven/Cataclysm-DDA/pull/80434))
 * Translation fixes/Extract skill level descriptions ([#80441](https://github.com/CleverRaven/Cataclysm-DDA/pull/80441))
@@ -239,4 +240,3 @@
 * Remove weird metal flooring around shipwrecks ([#80410](https://github.com/CleverRaven/Cataclysm-DDA/pull/80410))
 * [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
 * Make dairy farm spawn either zombie or non-zombie cows ([#80411](https://github.com/CleverRaven/Cataclysm-DDA/pull/80411))
-* Involuntary Traveler do not speak english ([#80408](https://github.com/CleverRaven/Cataclysm-DDA/pull/80408))
