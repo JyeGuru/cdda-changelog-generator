@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-16-0440 ([8831921](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-16-0440))
+
+* Fix code block syntax in documentation ([#80576](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-15-1543 ([993e5e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-1543))
 
 * Weekly Changelog 2025-04-07 to 2025-04-14 ([#80561](https://github.com/CleverRaven/Cataclysm-DDA/pull/80561))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-04-09-1040 ([5b37466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-1040))
 
 * Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-09-0749 ([fa8b9b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-0749))
-
 * eoc: unstringify dialogue variables ([#80455](https://github.com/CleverRaven/Cataclysm-DDA/pull/80455))
 * Fix - Allow healing items that only do instant healing ([#80458](https://github.com/CleverRaven/Cataclysm-DDA/pull/80458))
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
@@ -243,4 +244,3 @@
 * Underground Temperature now depends on Region Settings ([#80416](https://github.com/CleverRaven/Cataclysm-DDA/pull/80416))
 * Fix furniture tool pocket error and segfault error ([#80417](https://github.com/CleverRaven/Cataclysm-DDA/pull/80417))
 * Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
-* [April Fools Day] Pancor Jackhammer ([#80412](https://github.com/CleverRaven/Cataclysm-DDA/pull/80412))
