@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-16-0657 ([79c788b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-16-0657))
+
 * Added Grog recipe and drink ([#80534](https://github.com/CleverRaven/Cataclysm-DDA/pull/80534))
 * tweak metal requirements ([#80571](https://github.com/CleverRaven/Cataclysm-DDA/pull/80571))
 * Aftershock Move all changes of #80569 to the proper mod ([#80575](https://github.com/CleverRaven/Cataclysm-DDA/pull/80575))
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-04-09-1554 ([6e88bcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-1554))
 
 * [Xedra Evolved] Add Dhampir-specific traits ([#80494](https://github.com/CleverRaven/Cataclysm-DDA/pull/80494))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-09-1040 ([5b37466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-1040))
-
 * Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
 * eoc: unstringify dialogue variables ([#80455](https://github.com/CleverRaven/Cataclysm-DDA/pull/80455))
 * Fix - Allow healing items that only do instant healing ([#80458](https://github.com/CleverRaven/Cataclysm-DDA/pull/80458))

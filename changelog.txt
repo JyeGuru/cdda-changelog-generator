@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-16-0657 (79c788b)
 * Added Grog recipe and drink (#80534)
 * tweak metal requirements (#80571)
 * Aftershock Move all changes of #80569 to the proper mod (#80575)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-04-09-2345 (54cd752)
 
 Cataclysm-DDA experimental build 2025-04-09-1554 (6e88bcf)
 * [Xedra Evolved] Add Dhampir-specific traits (#80494)
-
-Cataclysm-DDA experimental build 2025-04-09-1040 (5b37466)
 * Explosion/shrapnel/melee item structs (#80506)
 * eoc: unstringify dialogue variables (#80455)
 * Fix - Allow healing items that only do instant healing (#80458)
