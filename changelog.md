@@ -243,4 +243,3 @@
 * Document NO_TEMP Flag ([#80428](https://github.com/CleverRaven/Cataclysm-DDA/pull/80428))
 * Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
-* Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
