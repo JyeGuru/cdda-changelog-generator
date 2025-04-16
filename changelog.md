@@ -1,3 +1,4 @@
+* Added Grog recipe and drink ([#80534](https://github.com/CleverRaven/Cataclysm-DDA/pull/80534))
 * tweak metal requirements ([#80571](https://github.com/CleverRaven/Cataclysm-DDA/pull/80571))
 * Aftershock Move all changes of #80569 to the proper mod ([#80575](https://github.com/CleverRaven/Cataclysm-DDA/pull/80575))
 
@@ -241,6 +242,5 @@
 * [Xedra Evolve] Chronomancers can't take species heritage traits ([#80445](https://github.com/CleverRaven/Cataclysm-DDA/pull/80445))
 * Document NO_TEMP Flag ([#80428](https://github.com/CleverRaven/Cataclysm-DDA/pull/80428))
 * Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
-* Add a dump palette & increase amount of trash ([#80424](https://github.com/CleverRaven/Cataclysm-DDA/pull/80424))
 * [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
 * Update wardrobe itemgroups ([#80425](https://github.com/CleverRaven/Cataclysm-DDA/pull/80425))
