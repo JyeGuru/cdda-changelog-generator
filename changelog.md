@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-17-2052 ([9238279](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-2052))
+
+* [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-17-1211 ([c0c8ba7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-1211))
 
 * Warn on load if files have been modified ([#80562](https://github.com/CleverRaven/Cataclysm-DDA/pull/80562))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-04-10-1022 ([99129f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-1022))
 
 * Fix Chronomancer time loop typo  #80509 ([#80515](https://github.com/CleverRaven/Cataclysm-DDA/pull/80515))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-10-0807 ([130aa7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-0807))
-
 * [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))
 * War hammer based on real one ([#80522](https://github.com/CleverRaven/Cataclysm-DDA/pull/80522))
 * [Xedra Evolved] Empowered Blood effect ([#80512](https://github.com/CleverRaven/Cataclysm-DDA/pull/80512))
@@ -240,7 +241,6 @@
 * [Xedra Evolved] Add playable dhampirs ([#80444](https://github.com/CleverRaven/Cataclysm-DDA/pull/80444))
 * [MoM] Fix medicinal touch contemplation ([#80450](https://github.com/CleverRaven/Cataclysm-DDA/pull/80450))
 * Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
-* Hotel Luggage Itemgroup had recursive suitcases ([#80439](https://github.com/CleverRaven/Cataclysm-DDA/pull/80439))
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
 * [Xedra Evolve] Chronomancers can't take species heritage traits ([#80445](https://github.com/CleverRaven/Cataclysm-DDA/pull/80445))
 * Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
