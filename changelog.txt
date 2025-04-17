@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-17-1211 (c0c8ba7)
 * Warn on load if files have been modified (#80562)
 * Add US MOLLE II sustainment pouch item (#80583)
 
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2025-04-10-1022 (99129f7)
 
 Cataclysm-DDA experimental build 2025-04-10-0807 (130aa7d)
 * [Xedra Evolved] Dhampirs need more mutagen (#80523)
-
-Cataclysm-DDA experimental build 2025-04-10-0521 (cae434c)
 * War hammer based on real one (#80522)
 * [Xedra Evolved] Empowered Blood effect (#80512)
 * Leather Body Armor can block too! And some others can't... (#80519)
