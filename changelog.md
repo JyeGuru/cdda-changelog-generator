@@ -1,3 +1,12 @@
+* Silence cast warnings ([#80579](https://github.com/CleverRaven/Cataclysm-DDA/pull/80579))
+* Grog Tweak ([#80580](https://github.com/CleverRaven/Cataclysm-DDA/pull/80580))
+* Set owner faction of in-progress crafts ([#80582](https://github.com/CleverRaven/Cataclysm-DDA/pull/80582))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-17-0207 ([b70c00f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-0207))
+
+* [Sky Island] Remove incorporeal immunity in death EoC ([#80588](https://github.com/CleverRaven/Cataclysm-DDA/pull/80588))
 
 ---
 
@@ -179,7 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-04-10-0153 ([077ab51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-0153))
 
 * [Xedra Evolved] Empowered Blood effect ([#80512](https://github.com/CleverRaven/Cataclysm-DDA/pull/80512))
-* Dentistry ([#80429](https://github.com/CleverRaven/Cataclysm-DDA/pull/80429))
 * Leather Body Armor can block too! And some others can't... ([#80519](https://github.com/CleverRaven/Cataclysm-DDA/pull/80519))
 * Aftershock: Thermos & Cookers ([#80517](https://github.com/CleverRaven/Cataclysm-DDA/pull/80517))
 
@@ -189,11 +197,6 @@
 
 * Clean up some itemgroups ([#80451](https://github.com/CleverRaven/Cataclysm-DDA/pull/80451))
 * Handle conflicts field when generating mod combinations for CI ([#80520](https://github.com/CleverRaven/Cataclysm-DDA/pull/80520))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-09-1554 ([6e88bcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-1554))
-
 * [Xedra Evolved] Add Dhampir-specific traits ([#80494](https://github.com/CleverRaven/Cataclysm-DDA/pull/80494))
 * Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
 * eoc: unstringify dialogue variables ([#80455](https://github.com/CleverRaven/Cataclysm-DDA/pull/80455))
@@ -217,7 +220,6 @@
 * [Xedra Evolved] Remove obsolete homullus-specific jmath statement ([#80495](https://github.com/CleverRaven/Cataclysm-DDA/pull/80495))
 * [MoM] Wary Sleeper Fix ([#80487](https://github.com/CleverRaven/Cataclysm-DDA/pull/80487))
 * Expose emp_blast and scrambler_blast to eoc ([#80488](https://github.com/CleverRaven/Cataclysm-DDA/pull/80488))
-* Allow 7.62x39 uppers to be installed on AR pistols ([#80432](https://github.com/CleverRaven/Cataclysm-DDA/pull/80432))
 * Allow charger bipod to be removed ([#80442](https://github.com/CleverRaven/Cataclysm-DDA/pull/80442))
 * Make the stop sign red  ([#80461](https://github.com/CleverRaven/Cataclysm-DDA/pull/80461))
 * Fix urban_18 greenhouse error ([#80486](https://github.com/CleverRaven/Cataclysm-DDA/pull/80486))
@@ -240,6 +242,4 @@
 * Evolution now defaults to 1, rescale existing saves and fields to account for it ([#80438](https://github.com/CleverRaven/Cataclysm-DDA/pull/80438))
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
 * [Xedra Evolve] Chronomancers can't take species heritage traits ([#80445](https://github.com/CleverRaven/Cataclysm-DDA/pull/80445))
-* Document NO_TEMP Flag ([#80428](https://github.com/CleverRaven/Cataclysm-DDA/pull/80428))
 * Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
-* [Magiclysm] Replace `Hoarder` for Ravenfolk with `Chrysophilia` ([#80426](https://github.com/CleverRaven/Cataclysm-DDA/pull/80426))
