@@ -1,3 +1,10 @@
+* Add US MOLLE II sustainment pouch item ([#80583](https://github.com/CleverRaven/Cataclysm-DDA/pull/80583))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-17-0956 ([f7aea60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-0956))
+
+* Add/correct spoils in for a couple of egg products ([#80584](https://github.com/CleverRaven/Cataclysm-DDA/pull/80584))
 
 ---
 
@@ -187,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-04-10-0521 ([cae434c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-0521))
 
 * War hammer based on real one ([#80522](https://github.com/CleverRaven/Cataclysm-DDA/pull/80522))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-10-0153 ([077ab51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-0153))
-
 * [Xedra Evolved] Empowered Blood effect ([#80512](https://github.com/CleverRaven/Cataclysm-DDA/pull/80512))
 * Leather Body Armor can block too! And some others can't... ([#80519](https://github.com/CleverRaven/Cataclysm-DDA/pull/80519))
 * Aftershock: Thermos & Cookers ([#80517](https://github.com/CleverRaven/Cataclysm-DDA/pull/80517))
@@ -205,7 +207,6 @@
 * Remove unconditional "aim on wait" for NPCs ([#80463](https://github.com/CleverRaven/Cataclysm-DDA/pull/80463))
 * Rename duplicate item JSON fields ([#80490](https://github.com/CleverRaven/Cataclysm-DDA/pull/80490))
 * Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
-* Butternut butter and ink ([#80434](https://github.com/CleverRaven/Cataclysm-DDA/pull/80434))
 * Translation fixes/Extract skill level descriptions ([#80441](https://github.com/CleverRaven/Cataclysm-DDA/pull/80441))
 * sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
 * Weekly Changelog 2025-03-31 to 2025-04-07 ([#80492](https://github.com/CleverRaven/Cataclysm-DDA/pull/80492))
