@@ -1,3 +1,4 @@
+* Warn on load if files have been modified ([#80562](https://github.com/CleverRaven/Cataclysm-DDA/pull/80562))
 * Add US MOLLE II sustainment pouch item ([#80583](https://github.com/CleverRaven/Cataclysm-DDA/pull/80583))
 
 ---
@@ -240,7 +241,6 @@
 * [MoM] Fix medicinal touch contemplation ([#80450](https://github.com/CleverRaven/Cataclysm-DDA/pull/80450))
 * Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
 * Hotel Luggage Itemgroup had recursive suitcases ([#80439](https://github.com/CleverRaven/Cataclysm-DDA/pull/80439))
-* Evolution now defaults to 1, rescale existing saves and fields to account for it ([#80438](https://github.com/CleverRaven/Cataclysm-DDA/pull/80438))
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
 * [Xedra Evolve] Chronomancers can't take species heritage traits ([#80445](https://github.com/CleverRaven/Cataclysm-DDA/pull/80445))
 * Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
