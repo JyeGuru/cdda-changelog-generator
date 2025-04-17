@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-17-0420 (61a3a1b)
 * Silence cast warnings (#80579)
 * Grog Tweak (#80580)
 * Set owner faction of in-progress crafts (#80582)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-04-10-0153 (077ab51)
 * [Xedra Evolved] Empowered Blood effect (#80512)
 * Leather Body Armor can block too! And some others can't... (#80519)
 * Aftershock: Thermos & Cookers (#80517)
-
-Cataclysm-DDA experimental build 2025-04-09-2345 (54cd752)
 * Clean up some itemgroups (#80451)
 * Handle conflicts field when generating mod combinations for CI (#80520)
 * [Xedra Evolved] Add Dhampir-specific traits (#80494)

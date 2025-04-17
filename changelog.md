@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-17-0420 ([61a3a1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-0420))
+
 * Silence cast warnings ([#80579](https://github.com/CleverRaven/Cataclysm-DDA/pull/80579))
 * Grog Tweak ([#80580](https://github.com/CleverRaven/Cataclysm-DDA/pull/80580))
 * Set owner faction of in-progress crafts ([#80582](https://github.com/CleverRaven/Cataclysm-DDA/pull/80582))
@@ -190,11 +195,6 @@
 * [Xedra Evolved] Empowered Blood effect ([#80512](https://github.com/CleverRaven/Cataclysm-DDA/pull/80512))
 * Leather Body Armor can block too! And some others can't... ([#80519](https://github.com/CleverRaven/Cataclysm-DDA/pull/80519))
 * Aftershock: Thermos & Cookers ([#80517](https://github.com/CleverRaven/Cataclysm-DDA/pull/80517))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-09-2345 ([54cd752](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-09-2345))
-
 * Clean up some itemgroups ([#80451](https://github.com/CleverRaven/Cataclysm-DDA/pull/80451))
 * Handle conflicts field when generating mod combinations for CI ([#80520](https://github.com/CleverRaven/Cataclysm-DDA/pull/80520))
 * [Xedra Evolved] Add Dhampir-specific traits ([#80494](https://github.com/CleverRaven/Cataclysm-DDA/pull/80494))
