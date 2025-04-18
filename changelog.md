@@ -1,3 +1,13 @@
+* Fix crash after deleting items immediately in character_takeoff_item eoc ([#80594](https://github.com/CleverRaven/Cataclysm-DDA/pull/80594))
+* Add 2 new houses ([#80609](https://github.com/CleverRaven/Cataclysm-DDA/pull/80609))
+* Refactor pathfind: allow multiple targets ([#80581](https://github.com/CleverRaven/Cataclysm-DDA/pull/80581))
+* Characters do not automatically try to clear `downed` if they have the `CANNOT_MOVE` flag ([#80604](https://github.com/CleverRaven/Cataclysm-DDA/pull/80604))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-18-0828 ([af3d716](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-18-0828))
+
+* Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
 
 ---
 
@@ -130,12 +140,6 @@
 #### Cataclysm-DDA experimental build 2025-04-13-0157 ([8447652](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-13-0157))
 
 * Routine i18n updates on 12 April 2025 ([#80542](https://github.com/CleverRaven/Cataclysm-DDA/pull/80542))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-12-1934 ([bffd3e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-1934))
-
-* [ Xedra Evolved ] Ready to go Homullus Traits ([#80446](https://github.com/CleverRaven/Cataclysm-DDA/pull/80446))
 * NPCs can go down stairs ([#80501](https://github.com/CleverRaven/Cataclysm-DDA/pull/80501))
 
 ---
@@ -187,11 +191,6 @@
 
 * Handle submap shifts ([#80481](https://github.com/CleverRaven/Cataclysm-DDA/pull/80481))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-10-1645 ([989f424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-1645))
-
 * [XE] Direct vampire drinking adjustements ([#80518](https://github.com/CleverRaven/Cataclysm-DDA/pull/80518))
 * Aftershock: Heat floors in port augustmoon ([#80510](https://github.com/CleverRaven/Cataclysm-DDA/pull/80510))
 * [Xedra Evolved] Dhampir weaknesses ([#80514](https://github.com/CleverRaven/Cataclysm-DDA/pull/80514))
@@ -236,11 +235,7 @@
 * Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
 * eoc: hoist default var value to helper structs ([#80454](https://github.com/CleverRaven/Cataclysm-DDA/pull/80454))
-* Add Nicotine Pouches and Adjust Cig Effect Name and Description ([#80443](https://github.com/CleverRaven/Cataclysm-DDA/pull/80443))
 * add some wield tests i wish I had ([#80448](https://github.com/CleverRaven/Cataclysm-DDA/pull/80448))
-* [Xedra Evolved] Add playable dhampirs ([#80444](https://github.com/CleverRaven/Cataclysm-DDA/pull/80444))
 * [MoM] Fix medicinal touch contemplation ([#80450](https://github.com/CleverRaven/Cataclysm-DDA/pull/80450))
 * Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
-* [Xedra Evolve] Chronomancers can't take species heritage traits ([#80445](https://github.com/CleverRaven/Cataclysm-DDA/pull/80445))
-* Missing nested mapgen flags ([#80447](https://github.com/CleverRaven/Cataclysm-DDA/pull/80447))
