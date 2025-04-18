@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-18-0354 ([4da9e9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-18-0354))
+
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
 
 ---
@@ -189,11 +194,6 @@
 
 * [XE] Direct vampire drinking adjustements ([#80518](https://github.com/CleverRaven/Cataclysm-DDA/pull/80518))
 * Aftershock: Heat floors in port augustmoon ([#80510](https://github.com/CleverRaven/Cataclysm-DDA/pull/80510))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-10-1429 ([aa86c1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-1429))
-
 * [Xedra Evolved] Dhampir weaknesses ([#80514](https://github.com/CleverRaven/Cataclysm-DDA/pull/80514))
 * Fix Chronomancer time loop typo  #80509 ([#80515](https://github.com/CleverRaven/Cataclysm-DDA/pull/80515))
 * [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))
