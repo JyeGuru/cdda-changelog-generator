@@ -187,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-04-11-0707 ([c2efcce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-0707))
 
 * [MSC] My sweet mutation overlay fix ([#80532](https://github.com/CleverRaven/Cataclysm-DDA/pull/80532))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-11-0304 ([5781090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-0304))
-
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
 * Handle submap shifts ([#80481](https://github.com/CleverRaven/Cataclysm-DDA/pull/80481))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
