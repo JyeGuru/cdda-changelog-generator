@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-18-1141 ([0a39941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-18-1141))
+
 * Aftershock: More bugfixing ([#80603](https://github.com/CleverRaven/Cataclysm-DDA/pull/80603))
 * Mod Conflicts ([#80607](https://github.com/CleverRaven/Cataclysm-DDA/pull/80607))
 * Fix typos in recent Homullus abilities ([#80591](https://github.com/CleverRaven/Cataclysm-DDA/pull/80591))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-04-11-0304 ([5781090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-0304))
 
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-10-2152 ([17d5d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-10-2152))
-
 * Handle submap shifts ([#80481](https://github.com/CleverRaven/Cataclysm-DDA/pull/80481))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
 * [XE] Direct vampire drinking adjustements ([#80518](https://github.com/CleverRaven/Cataclysm-DDA/pull/80518))

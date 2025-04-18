@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-18-1141 (0a39941)
 * Aftershock: More bugfixing (#80603)
 * Mod Conflicts (#80607)
 * Fix typos in recent Homullus abilities (#80591)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-04-11-0707 (c2efcce)
 
 Cataclysm-DDA experimental build 2025-04-11-0304 (5781090)
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun (#80529)
-
-Cataclysm-DDA experimental build 2025-04-10-2152 (17d5d43)
 * Handle submap shifts (#80481)
 * bump runner to ubuntu-22.04 (#80530)
 * [XE] Direct vampire drinking adjustements (#80518)
