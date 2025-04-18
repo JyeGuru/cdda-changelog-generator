@@ -1,3 +1,4 @@
+* [ MoM ] Pyrokinetic Nether Attunement event ([#80610](https://github.com/CleverRaven/Cataclysm-DDA/pull/80610))
 * Fix crash after deleting items immediately in character_takeoff_item eoc ([#80594](https://github.com/CleverRaven/Cataclysm-DDA/pull/80594))
 * Add 2 new houses ([#80609](https://github.com/CleverRaven/Cataclysm-DDA/pull/80609))
 * Refactor pathfind: allow multiple targets ([#80581](https://github.com/CleverRaven/Cataclysm-DDA/pull/80581))
@@ -235,7 +236,6 @@
 * Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
 * eoc: hoist default var value to helper structs ([#80454](https://github.com/CleverRaven/Cataclysm-DDA/pull/80454))
-* add some wield tests i wish I had ([#80448](https://github.com/CleverRaven/Cataclysm-DDA/pull/80448))
 * [MoM] Fix medicinal touch contemplation ([#80450](https://github.com/CleverRaven/Cataclysm-DDA/pull/80450))
 * Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
