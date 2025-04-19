@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-19-0110 ([67e083c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-0110))
+
+* Expand faults ([#80585](https://github.com/CleverRaven/Cataclysm-DDA/pull/80585))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-18-1141 ([0a39941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-18-1141))
 
 * Aftershock: More bugfixing ([#80603](https://github.com/CleverRaven/Cataclysm-DDA/pull/80603))
@@ -181,11 +187,6 @@
 
 * Bump basic build and release runner and compiler version ([#80524](https://github.com/CleverRaven/Cataclysm-DDA/pull/80524))
 * to-hit reader, other remaining changes for item subtypes split ([#80526](https://github.com/CleverRaven/Cataclysm-DDA/pull/80526))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-11-0707 ([c2efcce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-0707))
-
 * [MSC] My sweet mutation overlay fix ([#80532](https://github.com/CleverRaven/Cataclysm-DDA/pull/80532))
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
 * Handle submap shifts ([#80481](https://github.com/CleverRaven/Cataclysm-DDA/pull/80481))
@@ -228,7 +229,6 @@
 * [Xedra Evolved] Remove `teeth` type from active fangs trait ([#80478](https://github.com/CleverRaven/Cataclysm-DDA/pull/80478))
 * tests: add roadstop_b to coverage whitelist ([#80480](https://github.com/CleverRaven/Cataclysm-DDA/pull/80480))
 * Routine i18n updates on 05 April 2025 ([#80462](https://github.com/CleverRaven/Cataclysm-DDA/pull/80462))
-* math: un-lambda-ify dialogue functions ([#80453](https://github.com/CleverRaven/Cataclysm-DDA/pull/80453))
 * Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
 * eoc: hoist default var value to helper structs ([#80454](https://github.com/CleverRaven/Cataclysm-DDA/pull/80454))
