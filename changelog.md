@@ -1,3 +1,14 @@
+* math/json: fix (de)serialization of inf and nan ([#80595](https://github.com/CleverRaven/Cataclysm-DDA/pull/80595))
+* Make radiation true random ([#80598](https://github.com/CleverRaven/Cataclysm-DDA/pull/80598))
+* Add trinkets and butchery results to eldritch huntsman ([#80608](https://github.com/CleverRaven/Cataclysm-DDA/pull/80608))
+* Add Catch2 CMake integration ([#80614](https://github.com/CleverRaven/Cataclysm-DDA/pull/80614))
+* Bugfix: Mi-go pathfinding avoids fire ([#80619](https://github.com/CleverRaven/Cataclysm-DDA/pull/80619))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-19-2029 ([cc2a49b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-2029))
+
+* Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
 
 ---
 
@@ -210,7 +221,6 @@
 * [Xedra Evolved] Add Dhampir-specific traits ([#80494](https://github.com/CleverRaven/Cataclysm-DDA/pull/80494))
 * Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
-* Remove unconditional "aim on wait" for NPCs ([#80463](https://github.com/CleverRaven/Cataclysm-DDA/pull/80463))
 * Rename duplicate item JSON fields ([#80490](https://github.com/CleverRaven/Cataclysm-DDA/pull/80490))
 * Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
 * sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
@@ -218,8 +228,6 @@
 * Clean up some eoc bool reading ([#80497](https://github.com/CleverRaven/Cataclysm-DDA/pull/80497))
 * Move is_efile, fix not able to read from e-device with full inventory ([#80498](https://github.com/CleverRaven/Cataclysm-DDA/pull/80498))
 * [Xedra Evolved] Vampire traits are now positive ([#80500](https://github.com/CleverRaven/Cataclysm-DDA/pull/80500))
-* [Xedra Evolved] Vampires can drink blood ([#80476](https://github.com/CleverRaven/Cataclysm-DDA/pull/80476))
-* Recover invalidated bubble coordinate ([#80479](https://github.com/CleverRaven/Cataclysm-DDA/pull/80479))
 * Add gun mod locations to glock 19 ([#80489](https://github.com/CleverRaven/Cataclysm-DDA/pull/80489))
 * More spawns for cut-resistant clothing ([#80496](https://github.com/CleverRaven/Cataclysm-DDA/pull/80496))
 * Rename map::add_item_ret_loc to add_item_or_charges_ret_loc ([#80491](https://github.com/CleverRaven/Cataclysm-DDA/pull/80491))
@@ -229,7 +237,4 @@
 * Fix urban_18 greenhouse error ([#80486](https://github.com/CleverRaven/Cataclysm-DDA/pull/80486))
 * Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC ([#80483](https://github.com/CleverRaven/Cataclysm-DDA/pull/80483))
 * More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))
-* [Xedra Evolved] Remove `teeth` type from active fangs trait ([#80478](https://github.com/CleverRaven/Cataclysm-DDA/pull/80478))
 * tests: add roadstop_b to coverage whitelist ([#80480](https://github.com/CleverRaven/Cataclysm-DDA/pull/80480))
-* Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
-* Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
