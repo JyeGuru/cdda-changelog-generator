@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-19-0638 (f393257)
 * [Xedra Evolved] Vampires gain greater static bonuses from traits (#80621)
 
 Cataclysm-DDA experimental build 2025-04-19-0427 (a24560b)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-04-12-1344 (884fdbd)
 
 Cataclysm-DDA experimental build 2025-04-12-0055 (2bd18e2)
 * adjusted splattering (#80535)
-
-Cataclysm-DDA experimental build 2025-04-11-2236 (e51041c)
 * [Xedra Evolved] Fix drinking blood with fangs EoC triggering twice on NPCs (+ add dhampir calories) (#80531)
 * Bump basic build and release runner and compiler version (#80524)
 * to-hit reader, other remaining changes for item subtypes split (#80526)
