@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-19-0850 ([b462d74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-0850))
+
 * Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-04-12-1344 ([884fdbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-1344))
 
 * Isolated Road's Desire paths ([#80543](https://github.com/CleverRaven/Cataclysm-DDA/pull/80543))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-12-0055 ([2bd18e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-0055))
-
 * adjusted splattering ([#80535](https://github.com/CleverRaven/Cataclysm-DDA/pull/80535))
 * [Xedra Evolved] Fix drinking blood with fangs EoC triggering twice on NPCs (+ add dhampir calories) ([#80531](https://github.com/CleverRaven/Cataclysm-DDA/pull/80531))
 * Bump basic build and release runner and compiler version ([#80524](https://github.com/CleverRaven/Cataclysm-DDA/pull/80524))
