@@ -1,3 +1,10 @@
+* [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-19-0427 ([a24560b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-0427))
+
+* [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
 
 ---
 
@@ -180,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-04-11-2236 ([e51041c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-2236))
 
 * [Xedra Evolved] Fix drinking blood with fangs EoC triggering twice on NPCs (+ add dhampir calories) ([#80531](https://github.com/CleverRaven/Cataclysm-DDA/pull/80531))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-11-0931 ([579da72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-11-0931))
-
 * Bump basic build and release runner and compiler version ([#80524](https://github.com/CleverRaven/Cataclysm-DDA/pull/80524))
 * to-hit reader, other remaining changes for item subtypes split ([#80526](https://github.com/CleverRaven/Cataclysm-DDA/pull/80526))
 * [MSC] My sweet mutation overlay fix ([#80532](https://github.com/CleverRaven/Cataclysm-DDA/pull/80532))
@@ -203,7 +205,6 @@
 * Handle conflicts field when generating mod combinations for CI ([#80520](https://github.com/CleverRaven/Cataclysm-DDA/pull/80520))
 * [Xedra Evolved] Add Dhampir-specific traits ([#80494](https://github.com/CleverRaven/Cataclysm-DDA/pull/80494))
 * Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
-* eoc: unstringify dialogue variables ([#80455](https://github.com/CleverRaven/Cataclysm-DDA/pull/80455))
 * Fix - Allow healing items that only do instant healing ([#80458](https://github.com/CleverRaven/Cataclysm-DDA/pull/80458))
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
 * Remove unconditional "aim on wait" for NPCs ([#80463](https://github.com/CleverRaven/Cataclysm-DDA/pull/80463))
@@ -231,6 +232,5 @@
 * Routine i18n updates on 05 April 2025 ([#80462](https://github.com/CleverRaven/Cataclysm-DDA/pull/80462))
 * Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
-* eoc: hoist default var value to helper structs ([#80454](https://github.com/CleverRaven/Cataclysm-DDA/pull/80454))
 * Split up domestic palette in item and no item ([#80456](https://github.com/CleverRaven/Cataclysm-DDA/pull/80456))
 * Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
