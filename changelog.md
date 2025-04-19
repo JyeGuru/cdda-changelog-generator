@@ -1,3 +1,11 @@
+* Update scenarios to use distance_initial_visibility ([#80613](https://github.com/CleverRaven/Cataclysm-DDA/pull/80613))
+* Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-19-1400 ([f9734c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-1400))
+
+* Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))
 
 ---
 
@@ -180,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-04-12-1723 ([d468a32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-1723))
 
 * New Alpha Trait, faster consumption of degenerate mutagens ([#80527](https://github.com/CleverRaven/Cataclysm-DDA/pull/80527))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-12-1344 ([884fdbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-1344))
-
 * Isolated Road's Desire paths ([#80543](https://github.com/CleverRaven/Cataclysm-DDA/pull/80543))
 * adjusted splattering ([#80535](https://github.com/CleverRaven/Cataclysm-DDA/pull/80535))
 * [Xedra Evolved] Fix drinking blood with fangs EoC triggering twice on NPCs (+ add dhampir calories) ([#80531](https://github.com/CleverRaven/Cataclysm-DDA/pull/80531))
@@ -206,7 +209,6 @@
 * Handle conflicts field when generating mod combinations for CI ([#80520](https://github.com/CleverRaven/Cataclysm-DDA/pull/80520))
 * [Xedra Evolved] Add Dhampir-specific traits ([#80494](https://github.com/CleverRaven/Cataclysm-DDA/pull/80494))
 * Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
-* Fix - Allow healing items that only do instant healing ([#80458](https://github.com/CleverRaven/Cataclysm-DDA/pull/80458))
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
 * Remove unconditional "aim on wait" for NPCs ([#80463](https://github.com/CleverRaven/Cataclysm-DDA/pull/80463))
 * Rename duplicate item JSON fields ([#80490](https://github.com/CleverRaven/Cataclysm-DDA/pull/80490))
@@ -224,7 +226,6 @@
 * [Xedra Evolved] Remove obsolete homullus-specific jmath statement ([#80495](https://github.com/CleverRaven/Cataclysm-DDA/pull/80495))
 * [MoM] Wary Sleeper Fix ([#80487](https://github.com/CleverRaven/Cataclysm-DDA/pull/80487))
 * Expose emp_blast and scrambler_blast to eoc ([#80488](https://github.com/CleverRaven/Cataclysm-DDA/pull/80488))
-* Make the stop sign red  ([#80461](https://github.com/CleverRaven/Cataclysm-DDA/pull/80461))
 * Fix urban_18 greenhouse error ([#80486](https://github.com/CleverRaven/Cataclysm-DDA/pull/80486))
 * Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC ([#80483](https://github.com/CleverRaven/Cataclysm-DDA/pull/80483))
 * More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))
@@ -233,4 +234,3 @@
 * Routine i18n updates on 05 April 2025 ([#80462](https://github.com/CleverRaven/Cataclysm-DDA/pull/80462))
 * Fix CI by adding some on_overflows where appropriate ([#80474](https://github.com/CleverRaven/Cataclysm-DDA/pull/80474))
 * Add a modinfo conflicts field and prevent Iso Protocol and GG from testing together ([#80465](https://github.com/CleverRaven/Cataclysm-DDA/pull/80465))
-* Add an airsoft store ([#80457](https://github.com/CleverRaven/Cataclysm-DDA/pull/80457))
