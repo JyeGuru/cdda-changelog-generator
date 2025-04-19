@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-19-1619 ([7e61a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-1619))
+
 * Update scenarios to use distance_initial_visibility ([#80613](https://github.com/CleverRaven/Cataclysm-DDA/pull/80613))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
 
@@ -182,11 +187,6 @@
 
 * Routine i18n updates on 12 April 2025 ([#80542](https://github.com/CleverRaven/Cataclysm-DDA/pull/80542))
 * NPCs can go down stairs ([#80501](https://github.com/CleverRaven/Cataclysm-DDA/pull/80501))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-12-1723 ([d468a32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-12-1723))
-
 * New Alpha Trait, faster consumption of degenerate mutagens ([#80527](https://github.com/CleverRaven/Cataclysm-DDA/pull/80527))
 * Isolated Road's Desire paths ([#80543](https://github.com/CleverRaven/Cataclysm-DDA/pull/80543))
 * adjusted splattering ([#80535](https://github.com/CleverRaven/Cataclysm-DDA/pull/80535))
