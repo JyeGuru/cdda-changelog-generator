@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-19-2244 ([d6c877a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-2244))
+
 * math/json: fix (de)serialization of inf and nan ([#80595](https://github.com/CleverRaven/Cataclysm-DDA/pull/80595))
 * Make radiation true random ([#80598](https://github.com/CleverRaven/Cataclysm-DDA/pull/80598))
 * Add trinkets and butchery results to eldritch huntsman ([#80608](https://github.com/CleverRaven/Cataclysm-DDA/pull/80608))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-04-13-1554 ([d3a6f3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-13-1554))
 
 * Update EOCs.json with Vitrification and Incorporeal ([#80553](https://github.com/CleverRaven/Cataclysm-DDA/pull/80553))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-13-0157 ([8447652](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-13-0157))
-
 * Routine i18n updates on 12 April 2025 ([#80542](https://github.com/CleverRaven/Cataclysm-DDA/pull/80542))
 * NPCs can go down stairs ([#80501](https://github.com/CleverRaven/Cataclysm-DDA/pull/80501))
 * New Alpha Trait, faster consumption of degenerate mutagens ([#80527](https://github.com/CleverRaven/Cataclysm-DDA/pull/80527))
