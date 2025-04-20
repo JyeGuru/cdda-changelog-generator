@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-20-2355 ([5b3975b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-2355))
+
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
 * minor Huntsman tweaks ([#80605](https://github.com/CleverRaven/Cataclysm-DDA/pull/80605))
@@ -191,11 +196,6 @@
 * convert Item_factory::load_basic_info() to itype::load() ([#80544](https://github.com/CleverRaven/Cataclysm-DDA/pull/80544))
 * Refactor documentation to use jsonc syntax highlighting ([#80550](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550))
 * Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-14-0845 ([36ea208](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-14-0845))
-
 * Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
 * Aftershock: Unify mod files and directories  ([#80538](https://github.com/CleverRaven/Cataclysm-DDA/pull/80538))
 * Add missing `connect_groups` to `JSON-INFO.md` file ([#80536](https://github.com/CleverRaven/Cataclysm-DDA/pull/80536))
