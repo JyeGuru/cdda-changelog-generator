@@ -1,3 +1,4 @@
+* Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
 * minor Huntsman tweaks ([#80605](https://github.com/CleverRaven/Cataclysm-DDA/pull/80605))
 
 ---
@@ -235,5 +236,4 @@
 * More spawns for cut-resistant clothing ([#80496](https://github.com/CleverRaven/Cataclysm-DDA/pull/80496))
 * Rename map::add_item_ret_loc to add_item_or_charges_ret_loc ([#80491](https://github.com/CleverRaven/Cataclysm-DDA/pull/80491))
 * [Xedra Evolved] Remove obsolete homullus-specific jmath statement ([#80495](https://github.com/CleverRaven/Cataclysm-DDA/pull/80495))
-* [MoM] Wary Sleeper Fix ([#80487](https://github.com/CleverRaven/Cataclysm-DDA/pull/80487))
 * Expose emp_blast and scrambler_blast to eoc ([#80488](https://github.com/CleverRaven/Cataclysm-DDA/pull/80488))
