@@ -1,3 +1,4 @@
+* [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
 * minor Huntsman tweaks ([#80605](https://github.com/CleverRaven/Cataclysm-DDA/pull/80605))
 
@@ -232,8 +233,6 @@
 * Clean up some eoc bool reading ([#80497](https://github.com/CleverRaven/Cataclysm-DDA/pull/80497))
 * Move is_efile, fix not able to read from e-device with full inventory ([#80498](https://github.com/CleverRaven/Cataclysm-DDA/pull/80498))
 * [Xedra Evolved] Vampire traits are now positive ([#80500](https://github.com/CleverRaven/Cataclysm-DDA/pull/80500))
-* Add gun mod locations to glock 19 ([#80489](https://github.com/CleverRaven/Cataclysm-DDA/pull/80489))
 * More spawns for cut-resistant clothing ([#80496](https://github.com/CleverRaven/Cataclysm-DDA/pull/80496))
 * Rename map::add_item_ret_loc to add_item_or_charges_ret_loc ([#80491](https://github.com/CleverRaven/Cataclysm-DDA/pull/80491))
 * [Xedra Evolved] Remove obsolete homullus-specific jmath statement ([#80495](https://github.com/CleverRaven/Cataclysm-DDA/pull/80495))
-* Expose emp_blast and scrambler_blast to eoc ([#80488](https://github.com/CleverRaven/Cataclysm-DDA/pull/80488))
