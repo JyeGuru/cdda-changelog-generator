@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-20-1640 ([64ff66c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-1640))
+
+* [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs ([#80615](https://github.com/CleverRaven/Cataclysm-DDA/pull/80615))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-20-0356 ([a540984](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-0356))
 
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-04-14-0055 ([0172d1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-14-0055))
 
 * Aftershock: Unify mod files and directories  ([#80538](https://github.com/CleverRaven/Cataclysm-DDA/pull/80538))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-13-1813 ([9d27aa8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-13-1813))
-
 * Add missing `connect_groups` to `JSON-INFO.md` file ([#80536](https://github.com/CleverRaven/Cataclysm-DDA/pull/80536))
 * Aftershock: Heat Crashed Ship ([#80537](https://github.com/CleverRaven/Cataclysm-DDA/pull/80537))
 * Fix saving default mod list ([#80552](https://github.com/CleverRaven/Cataclysm-DDA/pull/80552))
@@ -235,5 +236,4 @@
 * [MoM] Wary Sleeper Fix ([#80487](https://github.com/CleverRaven/Cataclysm-DDA/pull/80487))
 * Expose emp_blast and scrambler_blast to eoc ([#80488](https://github.com/CleverRaven/Cataclysm-DDA/pull/80488))
 * Fix urban_18 greenhouse error ([#80486](https://github.com/CleverRaven/Cataclysm-DDA/pull/80486))
-* Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC ([#80483](https://github.com/CleverRaven/Cataclysm-DDA/pull/80483))
 * More items in horse farm farmhouse ([#80485](https://github.com/CleverRaven/Cataclysm-DDA/pull/80485))

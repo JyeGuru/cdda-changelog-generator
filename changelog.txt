@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-20-1640 (64ff66c)
+* [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs (#80615)
+
 Cataclysm-DDA experimental build 2025-04-20-0356 (a540984)
 * Fix different iterator types (#80632)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-04-14-0845 (36ea208)
 
 Cataclysm-DDA experimental build 2025-04-14-0055 (0172d1d)
 * Aftershock: Unify mod files and directories  (#80538)
-
-Cataclysm-DDA experimental build 2025-04-13-1813 (9d27aa8)
 * Add missing `connect_groups` to `JSON-INFO.md` file (#80536)
 * Aftershock: Heat Crashed Ship (#80537)
 * Fix saving default mod list (#80552)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2025-04-13-1813 (9d27aa8)
 * [MoM] Wary Sleeper Fix (#80487)
 * Expose emp_blast and scrambler_blast to eoc (#80488)
 * Fix urban_18 greenhouse error (#80486)
-* Expose uilist hilight_disabled to run_eoc_selector, use in locked smartpone recovery EoC (#80483)
 * More items in horse farm farmhouse (#80485)
