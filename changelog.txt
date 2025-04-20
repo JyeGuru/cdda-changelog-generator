@@ -1,3 +1,7 @@
+* minor Huntsman tweaks (#80605)
+
+Cataclysm-DDA experimental build 2025-04-20-2120 (b34c8aa)
+* generic_factory composite for Item_factory (#80623)
 
 Cataclysm-DDA experimental build 2025-04-20-1640 (64ff66c)
 * [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs (#80615)
@@ -104,8 +108,6 @@ Cataclysm-DDA experimental build 2025-04-14-1118 (0603761)
 
 Cataclysm-DDA experimental build 2025-04-14-0845 (36ea208)
 * Change how suppressors reduce sound (#80559)
-
-Cataclysm-DDA experimental build 2025-04-14-0055 (0172d1d)
 * Aftershock: Unify mod files and directories  (#80538)
 * Add missing `connect_groups` to `JSON-INFO.md` file (#80536)
 * Aftershock: Heat Crashed Ship (#80537)
@@ -148,5 +150,3 @@ Cataclysm-DDA experimental build 2025-04-14-0055 (0172d1d)
 * [Xedra Evolved] Remove obsolete homullus-specific jmath statement (#80495)
 * [MoM] Wary Sleeper Fix (#80487)
 * Expose emp_blast and scrambler_blast to eoc (#80488)
-* Fix urban_18 greenhouse error (#80486)
-* More items in horse farm farmhouse (#80485)
