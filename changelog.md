@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-21-0721 ([9ce770a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-0721))
+
+* Remove unnecessary const modifiers from function parameters ([#80633](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-21-0433 ([132c414](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-0433))
 
 * [Magiclysm] Add `max_duration` to most effects ([#80637](https://github.com/CleverRaven/Cataclysm-DDA/pull/80637))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-04-15-0853 ([6ff0603](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-0853))
 
 * Minor knife fixes ([#80504](https://github.com/CleverRaven/Cataclysm-DDA/pull/80504))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-15-0447 ([82549e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-0447))
-
 * Another gunmod audit ([#80560](https://github.com/CleverRaven/Cataclysm-DDA/pull/80560))
 * [Xedra  Evolved] Vampires/Dhampirs can use Hypnotic Gaze against muggers/steal-confronters ([#80540](https://github.com/CleverRaven/Cataclysm-DDA/pull/80540))
 * [Xedra Evolved] Add Dhampir Weakness: Nocturnal ([#80563](https://github.com/CleverRaven/Cataclysm-DDA/pull/80563))
@@ -230,7 +231,6 @@
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
 * Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
 * sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
-* Weekly Changelog 2025-03-31 to 2025-04-07 ([#80492](https://github.com/CleverRaven/Cataclysm-DDA/pull/80492))
 * Clean up some eoc bool reading ([#80497](https://github.com/CleverRaven/Cataclysm-DDA/pull/80497))
 * Move is_efile, fix not able to read from e-device with full inventory ([#80498](https://github.com/CleverRaven/Cataclysm-DDA/pull/80498))
 * [Xedra Evolved] Vampire traits are now positive ([#80500](https://github.com/CleverRaven/Cataclysm-DDA/pull/80500))
