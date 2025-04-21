@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-21-2008 ([f34aa51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-2008))
+
+* [Xedra Evolved] Switch Learn from the Children of the Night to a power (from active trait) ([#80620](https://github.com/CleverRaven/Cataclysm-DDA/pull/80620))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-21-1408 ([55665cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-1408))
 
 * [Xedra Evolved] Add design docs for easier collaboration ([#80647](https://github.com/CleverRaven/Cataclysm-DDA/pull/80647))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-04-16-0440 ([8831921](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-16-0440))
 
 * Fix code block syntax in documentation ([#80576](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-15-1543 ([993e5e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-1543))
-
 * Weekly Changelog 2025-04-07 to 2025-04-14 ([#80561](https://github.com/CleverRaven/Cataclysm-DDA/pull/80561))
 * Aftershock: Miscellaneous fixes for the early game. ([#80569](https://github.com/CleverRaven/Cataclysm-DDA/pull/80569))
 * Minor knife fixes ([#80504](https://github.com/CleverRaven/Cataclysm-DDA/pull/80504))
@@ -235,4 +236,3 @@
 * Clean up some eoc bool reading ([#80497](https://github.com/CleverRaven/Cataclysm-DDA/pull/80497))
 * Move is_efile, fix not able to read from e-device with full inventory ([#80498](https://github.com/CleverRaven/Cataclysm-DDA/pull/80498))
 * [Xedra Evolved] Vampire traits are now positive ([#80500](https://github.com/CleverRaven/Cataclysm-DDA/pull/80500))
-* More spawns for cut-resistant clothing ([#80496](https://github.com/CleverRaven/Cataclysm-DDA/pull/80496))
