@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-21-0211 ([6e9389a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-0211))
+
+* Mutation description can parse tags now ([#80618](https://github.com/CleverRaven/Cataclysm-DDA/pull/80618))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-20-2355 ([5b3975b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-2355))
 
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-04-15-0231 ([7e637f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-15-0231))
 
 * Fix location Variables targeting specific map features ([#80566](https://github.com/CleverRaven/Cataclysm-DDA/pull/80566))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-14-1118 ([0603761](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-14-1118))
-
 * convert Item_factory::load_basic_info() to itype::load() ([#80544](https://github.com/CleverRaven/Cataclysm-DDA/pull/80544))
 * Refactor documentation to use jsonc syntax highlighting ([#80550](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550))
 * Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
@@ -226,7 +227,6 @@
 * [Xedra Evolved] Add Dhampir-specific traits ([#80494](https://github.com/CleverRaven/Cataclysm-DDA/pull/80494))
 * Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
-* Rename duplicate item JSON fields ([#80490](https://github.com/CleverRaven/Cataclysm-DDA/pull/80490))
 * Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
 * sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
 * Weekly Changelog 2025-03-31 to 2025-04-07 ([#80492](https://github.com/CleverRaven/Cataclysm-DDA/pull/80492))
