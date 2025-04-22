@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-22-1016 ([19ca359](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-1016))
+
+* Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
+* [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
 * Move more gameplay options to externals ([#80640](https://github.com/CleverRaven/Cataclysm-DDA/pull/80640))
 * Adjust world sliders for actually different gameplay experiences ([#80639](https://github.com/CleverRaven/Cataclysm-DDA/pull/80639))
 
@@ -187,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-04-17-0956 ([f7aea60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-0956))
 
 * Add/correct spoils in for a couple of egg products ([#80584](https://github.com/CleverRaven/Cataclysm-DDA/pull/80584))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-17-0420 ([61a3a1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-0420))
-
 * Silence cast warnings ([#80579](https://github.com/CleverRaven/Cataclysm-DDA/pull/80579))
 * Grog Tweak ([#80580](https://github.com/CleverRaven/Cataclysm-DDA/pull/80580))
 * Set owner faction of in-progress crafts ([#80582](https://github.com/CleverRaven/Cataclysm-DDA/pull/80582))
@@ -227,12 +229,10 @@
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
 * [XE] Direct vampire drinking adjustements ([#80518](https://github.com/CleverRaven/Cataclysm-DDA/pull/80518))
-* Aftershock: Heat floors in port augustmoon ([#80510](https://github.com/CleverRaven/Cataclysm-DDA/pull/80510))
 * [Xedra Evolved] Dhampir weaknesses ([#80514](https://github.com/CleverRaven/Cataclysm-DDA/pull/80514))
 * Fix Chronomancer time loop typo  #80509 ([#80515](https://github.com/CleverRaven/Cataclysm-DDA/pull/80515))
 * [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))
 * War hammer based on real one ([#80522](https://github.com/CleverRaven/Cataclysm-DDA/pull/80522))
-* [Xedra Evolved] Empowered Blood effect ([#80512](https://github.com/CleverRaven/Cataclysm-DDA/pull/80512))
 * Leather Body Armor can block too! And some others can't... ([#80519](https://github.com/CleverRaven/Cataclysm-DDA/pull/80519))
 * Aftershock: Thermos & Cookers ([#80517](https://github.com/CleverRaven/Cataclysm-DDA/pull/80517))
 * Handle conflicts field when generating mod combinations for CI ([#80520](https://github.com/CleverRaven/Cataclysm-DDA/pull/80520))
