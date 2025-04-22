@@ -1,3 +1,5 @@
+* Weekly Changelog 2025-04-14 to 2025-04-21 (#80651)
+* [Sky Island] Add custom SI jabberwocks to prevent infighting (#80661)
 * Extract few monster names from mapgen (#80658)
 * Make Yugg Sting true random (#80659)
 
@@ -110,7 +112,6 @@ Cataclysm-DDA experimental build 2025-04-17-0207 (b70c00f)
 * Fix code block syntax in documentation (#80576)
 * Weekly Changelog 2025-04-07 to 2025-04-14 (#80561)
 * Aftershock: Miscellaneous fixes for the early game. (#80569)
-* Minor knife fixes (#80504)
 * Another gunmod audit (#80560)
 * [Xedra  Evolved] Vampires/Dhampirs can use Hypnotic Gaze against muggers/steal-confronters (#80540)
 * [Xedra Evolved] Add Dhampir Weakness: Nocturnal (#80563)
