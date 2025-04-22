@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-22-1757 ([3105880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-1757))
+
+* Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-22-1016 ([19ca359](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-1016))
 
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
@@ -188,11 +194,6 @@
 
 * Warn on load if files have been modified ([#80562](https://github.com/CleverRaven/Cataclysm-DDA/pull/80562))
 * Add US MOLLE II sustainment pouch item ([#80583](https://github.com/CleverRaven/Cataclysm-DDA/pull/80583))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-17-0956 ([f7aea60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-0956))
-
 * Add/correct spoils in for a couple of egg products ([#80584](https://github.com/CleverRaven/Cataclysm-DDA/pull/80584))
 * Silence cast warnings ([#80579](https://github.com/CleverRaven/Cataclysm-DDA/pull/80579))
 * Grog Tweak ([#80580](https://github.com/CleverRaven/Cataclysm-DDA/pull/80580))
@@ -229,7 +230,6 @@
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
 * [XE] Direct vampire drinking adjustements ([#80518](https://github.com/CleverRaven/Cataclysm-DDA/pull/80518))
-* [Xedra Evolved] Dhampir weaknesses ([#80514](https://github.com/CleverRaven/Cataclysm-DDA/pull/80514))
 * Fix Chronomancer time loop typo  #80509 ([#80515](https://github.com/CleverRaven/Cataclysm-DDA/pull/80515))
 * [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))
 * War hammer based on real one ([#80522](https://github.com/CleverRaven/Cataclysm-DDA/pull/80522))
