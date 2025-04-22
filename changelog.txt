@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-22-2027 (c7e8bf7)
+* Fix variable default overriding set values (#80674)
+
 Cataclysm-DDA experimental build 2025-04-22-1757 (3105880)
 * Fix code typo (#80672)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-04-18-0132 (5054283)
 
 Cataclysm-DDA experimental build 2025-04-17-2052 (9238279)
 * [MoM] Fix Electron Overflow divide by zero (#80597)
-
-Cataclysm-DDA experimental build 2025-04-17-1211 (c0c8ba7)
 * Warn on load if files have been modified (#80562)
 * Add US MOLLE II sustainment pouch item (#80583)
 * Add/correct spoils in for a couple of egg products (#80584)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2025-04-17-1211 (c0c8ba7)
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun (#80529)
 * bump runner to ubuntu-22.04 (#80530)
 * [XE] Direct vampire drinking adjustements (#80518)
-* Fix Chronomancer time loop typo  #80509 (#80515)
 * [Xedra Evolved] Dhampirs need more mutagen (#80523)
 * War hammer based on real one (#80522)
 * Leather Body Armor can block too! And some others can't... (#80519)
