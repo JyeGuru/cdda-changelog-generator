@@ -1,3 +1,4 @@
+* Add mod src info to effect info ([#80650](https://github.com/CleverRaven/Cataclysm-DDA/pull/80650))
 * Weekly Changelog 2025-04-14 to 2025-04-21 ([#80651](https://github.com/CleverRaven/Cataclysm-DDA/pull/80651))
 * [Sky Island] Add custom SI jabberwocks to prevent infighting ([#80661](https://github.com/CleverRaven/Cataclysm-DDA/pull/80661))
 * Extract few monster names from mapgen ([#80658](https://github.com/CleverRaven/Cataclysm-DDA/pull/80658))
@@ -233,6 +234,5 @@
 * Leather Body Armor can block too! And some others can't... ([#80519](https://github.com/CleverRaven/Cataclysm-DDA/pull/80519))
 * Aftershock: Thermos & Cookers ([#80517](https://github.com/CleverRaven/Cataclysm-DDA/pull/80517))
 * Handle conflicts field when generating mod combinations for CI ([#80520](https://github.com/CleverRaven/Cataclysm-DDA/pull/80520))
-* Explosion/shrapnel/melee item structs ([#80506](https://github.com/CleverRaven/Cataclysm-DDA/pull/80506))
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
 * Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
