@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-22-0205 ([09e528f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-0205))
+
+* [Xedra Evolved] Implemented Enervated blood level for dhampirs ([#80660](https://github.com/CleverRaven/Cataclysm-DDA/pull/80660))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-21-2008 ([f34aa51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-2008))
 
 * [Xedra Evolved] Switch Learn from the Children of the Night to a power (from active trait) ([#80620](https://github.com/CleverRaven/Cataclysm-DDA/pull/80620))
@@ -185,11 +191,6 @@
 * Added Grog recipe and drink ([#80534](https://github.com/CleverRaven/Cataclysm-DDA/pull/80534))
 * tweak metal requirements ([#80571](https://github.com/CleverRaven/Cataclysm-DDA/pull/80571))
 * Aftershock Move all changes of #80569 to the proper mod ([#80575](https://github.com/CleverRaven/Cataclysm-DDA/pull/80575))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-16-0440 ([8831921](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-16-0440))
-
 * Fix code block syntax in documentation ([#80576](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576))
 * Weekly Changelog 2025-04-07 to 2025-04-14 ([#80561](https://github.com/CleverRaven/Cataclysm-DDA/pull/80561))
 * Aftershock: Miscellaneous fixes for the early game. ([#80569](https://github.com/CleverRaven/Cataclysm-DDA/pull/80569))
@@ -233,5 +234,4 @@
 * Allow [R]eading from nearby ebooks ([#80508](https://github.com/CleverRaven/Cataclysm-DDA/pull/80508))
 * Item use_function, color, snippet readers ([#80507](https://github.com/CleverRaven/Cataclysm-DDA/pull/80507))
 * sanitized get_map use ([#80499](https://github.com/CleverRaven/Cataclysm-DDA/pull/80499))
-* Move is_efile, fix not able to read from e-device with full inventory ([#80498](https://github.com/CleverRaven/Cataclysm-DDA/pull/80498))
 * [Xedra Evolved] Vampire traits are now positive ([#80500](https://github.com/CleverRaven/Cataclysm-DDA/pull/80500))
