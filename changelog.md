@@ -1,3 +1,4 @@
+* remove u_lose_faction_trust ([#80669](https://github.com/CleverRaven/Cataclysm-DDA/pull/80669))
 
 ---
 
@@ -235,4 +236,3 @@
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
 * [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))
-* War hammer based on real one ([#80522](https://github.com/CleverRaven/Cataclysm-DDA/pull/80522))
