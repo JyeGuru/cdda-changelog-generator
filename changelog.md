@@ -1,3 +1,11 @@
+* Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` ([#80678](https://github.com/CleverRaven/Cataclysm-DDA/pull/80678))
+* [Xedra Evolved] Add Cloak of Shadows vampire power ([#80680](https://github.com/CleverRaven/Cataclysm-DDA/pull/80680))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-23-0515 ([477b5b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-23-0515))
+
+* Item subtypes: BOOK, COMESTIBLE ([#80681](https://github.com/CleverRaven/Cataclysm-DDA/pull/80681))
 
 ---
 
@@ -187,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-04-18-0132 ([5054283](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-18-0132))
 
 * [Xedra Evolved] Add one vampire power and one dhampir weakness ([#80590](https://github.com/CleverRaven/Cataclysm-DDA/pull/80590))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-17-2052 ([9238279](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-17-2052))
-
 * [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
 * Warn on load if files have been modified ([#80562](https://github.com/CleverRaven/Cataclysm-DDA/pull/80562))
 * Add US MOLLE II sustainment pouch item ([#80583](https://github.com/CleverRaven/Cataclysm-DDA/pull/80583))
@@ -230,9 +233,6 @@
 * [MSC] My sweet mutation overlay fix ([#80532](https://github.com/CleverRaven/Cataclysm-DDA/pull/80532))
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
-* [XE] Direct vampire drinking adjustements ([#80518](https://github.com/CleverRaven/Cataclysm-DDA/pull/80518))
 * [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))
 * War hammer based on real one ([#80522](https://github.com/CleverRaven/Cataclysm-DDA/pull/80522))
-* Leather Body Armor can block too! And some others can't... ([#80519](https://github.com/CleverRaven/Cataclysm-DDA/pull/80519))
-* Aftershock: Thermos & Cookers ([#80517](https://github.com/CleverRaven/Cataclysm-DDA/pull/80517))
 * Handle conflicts field when generating mod combinations for CI ([#80520](https://github.com/CleverRaven/Cataclysm-DDA/pull/80520))

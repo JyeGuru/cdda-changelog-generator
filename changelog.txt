@@ -1,3 +1,8 @@
+* Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` (#80678)
+* [Xedra Evolved] Add Cloak of Shadows vampire power (#80680)
+
+Cataclysm-DDA experimental build 2025-04-23-0515 (477b5b6)
+* Item subtypes: BOOK, COMESTIBLE (#80681)
 
 Cataclysm-DDA experimental build 2025-04-22-2027 (c7e8bf7)
 * Fix variable default overriding set values (#80674)
@@ -103,8 +108,6 @@ Cataclysm-DDA experimental build 2025-04-18-0354 (4da9e9c)
 
 Cataclysm-DDA experimental build 2025-04-18-0132 (5054283)
 * [Xedra Evolved] Add one vampire power and one dhampir weakness (#80590)
-
-Cataclysm-DDA experimental build 2025-04-17-2052 (9238279)
 * [MoM] Fix Electron Overflow divide by zero (#80597)
 * Warn on load if files have been modified (#80562)
 * Add US MOLLE II sustainment pouch item (#80583)
@@ -143,9 +146,6 @@ Cataclysm-DDA experimental build 2025-04-17-2052 (9238279)
 * [MSC] My sweet mutation overlay fix (#80532)
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun (#80529)
 * bump runner to ubuntu-22.04 (#80530)
-* [XE] Direct vampire drinking adjustements (#80518)
 * [Xedra Evolved] Dhampirs need more mutagen (#80523)
 * War hammer based on real one (#80522)
-* Leather Body Armor can block too! And some others can't... (#80519)
-* Aftershock: Thermos & Cookers (#80517)
 * Handle conflicts field when generating mod combinations for CI (#80520)
