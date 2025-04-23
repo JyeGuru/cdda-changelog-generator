@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-23-1001 ([adfc3ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-23-1001))
+
 * remove u_lose_faction_trust ([#80669](https://github.com/CleverRaven/Cataclysm-DDA/pull/80669))
 
 ---
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-04-18-0828 ([af3d716](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-18-0828))
 
 * Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-18-0354 ([4da9e9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-18-0354))
-
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
 * [Xedra Evolved] Add one vampire power and one dhampir weakness ([#80590](https://github.com/CleverRaven/Cataclysm-DDA/pull/80590))
 * [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
