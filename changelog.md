@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-24-0846 ([daa4080](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-24-0846))
+
 * Steel update ([#80646](https://github.com/CleverRaven/Cataclysm-DDA/pull/80646))
 * Update bunker.json to eliminate airgap in basement ([#80687](https://github.com/CleverRaven/Cataclysm-DDA/pull/80687))
 * Manually define electronic faults in item def ([#80671](https://github.com/CleverRaven/Cataclysm-DDA/pull/80671))

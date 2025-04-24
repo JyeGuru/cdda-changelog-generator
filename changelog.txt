@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-24-0846 (daa4080)
 * Steel update (#80646)
 * Update bunker.json to eliminate airgap in basement (#80687)
 * Manually define electronic faults in item def (#80671)
