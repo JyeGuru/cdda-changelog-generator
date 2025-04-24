@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-24-0326 ([ccd711d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-24-0326))
+
+* [XE] Update the new design document to include the Vampiric Anathema & the cryptids. ([#80657](https://github.com/CleverRaven/Cataclysm-DDA/pull/80657))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-23-1001 ([adfc3ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-23-1001))
 
 * remove u_lose_faction_trust ([#80669](https://github.com/CleverRaven/Cataclysm-DDA/pull/80669))
@@ -189,11 +195,6 @@
 * Add 2 new houses ([#80609](https://github.com/CleverRaven/Cataclysm-DDA/pull/80609))
 * Refactor pathfind: allow multiple targets ([#80581](https://github.com/CleverRaven/Cataclysm-DDA/pull/80581))
 * Characters do not automatically try to clear `downed` if they have the `CANNOT_MOVE` flag ([#80604](https://github.com/CleverRaven/Cataclysm-DDA/pull/80604))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-18-0828 ([af3d716](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-18-0828))
-
 * Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
 * [Xedra Evolved] Add one vampire power and one dhampir weakness ([#80590](https://github.com/CleverRaven/Cataclysm-DDA/pull/80590))
@@ -235,4 +236,3 @@
 * [MSC] My sweet mutation overlay fix ([#80532](https://github.com/CleverRaven/Cataclysm-DDA/pull/80532))
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun ([#80529](https://github.com/CleverRaven/Cataclysm-DDA/pull/80529))
 * bump runner to ubuntu-22.04 ([#80530](https://github.com/CleverRaven/Cataclysm-DDA/pull/80530))
-* [Xedra Evolved] Dhampirs need more mutagen ([#80523](https://github.com/CleverRaven/Cataclysm-DDA/pull/80523))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-24-0326 (ccd711d)
+* [XE] Update the new design document to include the Vampiric Anathema & the cryptids. (#80657)
+
 Cataclysm-DDA experimental build 2025-04-23-1001 (adfc3ea)
 * remove u_lose_faction_trust (#80669)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2025-04-18-1141 (0a39941)
 * Add 2 new houses (#80609)
 * Refactor pathfind: allow multiple targets (#80581)
 * Characters do not automatically try to clear `downed` if they have the `CANNOT_MOVE` flag (#80604)
-
-Cataclysm-DDA experimental build 2025-04-18-0828 (af3d716)
 * Replace `const std::string_view &` with `std::string_view` (#80611)
 * Crazy Cata Nemesis Shia (#80599)
 * [Xedra Evolved] Add one vampire power and one dhampir weakness (#80590)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-04-18-0828 (af3d716)
 * [MSC] My sweet mutation overlay fix (#80532)
 * [Xedra Evolved] Creatures of the Night are ambivalent about the sun (#80529)
 * bump runner to ubuntu-22.04 (#80530)
-* [Xedra Evolved] Dhampirs need more mutagen (#80523)
