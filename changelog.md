@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-25-0527 ([e64d417](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-0527))
+
+* [alt-map-key] Taking over as maintainer ([#80683](https://github.com/CleverRaven/Cataclysm-DDA/pull/80683))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-24-0846 ([daa4080](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-24-0846))
 
 * Steel update ([#80646](https://github.com/CleverRaven/Cataclysm-DDA/pull/80646))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-04-19-0427 ([a24560b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-0427))
 
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-19-0110 ([67e083c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-0110))
-
 * Expand faults ([#80585](https://github.com/CleverRaven/Cataclysm-DDA/pull/80585))
 * Aftershock: More bugfixing ([#80603](https://github.com/CleverRaven/Cataclysm-DDA/pull/80603))
 * Mod Conflicts ([#80607](https://github.com/CleverRaven/Cataclysm-DDA/pull/80607))
@@ -239,4 +240,3 @@
 * Update EOCs.json with Vitrification and Incorporeal ([#80553](https://github.com/CleverRaven/Cataclysm-DDA/pull/80553))
 * Routine i18n updates on 12 April 2025 ([#80542](https://github.com/CleverRaven/Cataclysm-DDA/pull/80542))
 * Isolated Road's Desire paths ([#80543](https://github.com/CleverRaven/Cataclysm-DDA/pull/80543))
-* adjusted splattering ([#80535](https://github.com/CleverRaven/Cataclysm-DDA/pull/80535))

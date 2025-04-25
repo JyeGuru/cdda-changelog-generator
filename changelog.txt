@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-25-0527 (e64d417)
+* [alt-map-key] Taking over as maintainer (#80683)
+
 Cataclysm-DDA experimental build 2025-04-24-0846 (daa4080)
 * Steel update (#80646)
 * Update bunker.json to eliminate airgap in basement (#80687)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-04-19-0638 (f393257)
 
 Cataclysm-DDA experimental build 2025-04-19-0427 (a24560b)
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency (#80622)
-
-Cataclysm-DDA experimental build 2025-04-19-0110 (67e083c)
 * Expand faults (#80585)
 * Aftershock: More bugfixing (#80603)
 * Mod Conflicts (#80607)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-04-19-0110 (67e083c)
 * Update EOCs.json with Vitrification and Incorporeal (#80553)
 * Routine i18n updates on 12 April 2025 (#80542)
 * Isolated Road's Desire paths (#80543)
-* adjusted splattering (#80535)
