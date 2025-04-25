@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-25-1853 ([1bfd9c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-1853))
+
 * More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
 
 ---
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-04-19-1400 ([f9734c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-1400))
 
 * Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-19-0850 ([b462d74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-0850))
-
 * Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
 * [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
