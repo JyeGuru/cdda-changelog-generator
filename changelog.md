@@ -218,7 +218,6 @@
 * Grog Tweak ([#80580](https://github.com/CleverRaven/Cataclysm-DDA/pull/80580))
 * Set owner faction of in-progress crafts ([#80582](https://github.com/CleverRaven/Cataclysm-DDA/pull/80582))
 * [Sky Island] Remove incorporeal immunity in death EoC ([#80588](https://github.com/CleverRaven/Cataclysm-DDA/pull/80588))
-* Added Grog recipe and drink ([#80534](https://github.com/CleverRaven/Cataclysm-DDA/pull/80534))
 * tweak metal requirements ([#80571](https://github.com/CleverRaven/Cataclysm-DDA/pull/80571))
 * Aftershock Move all changes of #80569 to the proper mod ([#80575](https://github.com/CleverRaven/Cataclysm-DDA/pull/80575))
 * Fix code block syntax in documentation ([#80576](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576))
