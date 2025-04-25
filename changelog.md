@@ -233,7 +233,6 @@
 * [Xedra Evolved] Add Dhampir Weakness: Nocturnal ([#80563](https://github.com/CleverRaven/Cataclysm-DDA/pull/80563))
 * [Xedra Evolved] Rescale blood vitamin  ([#80564](https://github.com/CleverRaven/Cataclysm-DDA/pull/80564))
 * Fix location Variables targeting specific map features ([#80566](https://github.com/CleverRaven/Cataclysm-DDA/pull/80566))
-* convert Item_factory::load_basic_info() to itype::load() ([#80544](https://github.com/CleverRaven/Cataclysm-DDA/pull/80544))
 * Refactor documentation to use jsonc syntax highlighting ([#80550](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550))
 * Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
 * Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
