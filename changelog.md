@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-25-2122 ([d6fdd33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-2122))
+
 * Enable autonotes for favorites inside containers ([#80708](https://github.com/CleverRaven/Cataclysm-DDA/pull/80708))
 * Break up/refactor the shadow singularity's EOCs ([#80712](https://github.com/CleverRaven/Cataclysm-DDA/pull/80712))
 
@@ -195,11 +200,6 @@
 
 * Update scenarios to use distance_initial_visibility ([#80613](https://github.com/CleverRaven/Cataclysm-DDA/pull/80613))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-19-1400 ([f9734c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-1400))
-
 * Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))
 * Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
 * [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
