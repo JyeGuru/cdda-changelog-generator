@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-25-1624 (17796f5)
+* item subtypes: GENERIC, TOOL (#80703)
+
 Cataclysm-DDA experimental build 2025-04-25-0758 (24e5b7b)
 * Infrastructure/Mods: Add is_chargeable search term for search_data (#80693)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-04-19-1400 (f9734c3)
 
 Cataclysm-DDA experimental build 2025-04-19-0850 (b462d74)
 * Use of pre-increment/decrement operators for iterators (#80617)
-
-Cataclysm-DDA experimental build 2025-04-19-0638 (f393257)
 * [Xedra Evolved] Vampires gain greater static bonuses from traits (#80621)
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency (#80622)
 * Expand faults (#80585)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2025-04-19-0638 (f393257)
 * Add NB flag (#80558)
 * Change how suppressors reduce sound (#80559)
 * Aftershock: Unify mod files and directories  (#80538)
-* Aftershock: Heat Crashed Ship (#80537)
 * Fix saving default mod list (#80552)
 * Update EOCs.json with Vitrification and Incorporeal (#80553)
 * Routine i18n updates on 12 April 2025 (#80542)
