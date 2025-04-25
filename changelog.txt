@@ -1,3 +1,4 @@
+* More Armor is now considered proper Armor! (#80701)
 
 Cataclysm-DDA experimental build 2025-04-25-1624 (17796f5)
 * item subtypes: GENERIC, TOOL (#80703)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2025-04-19-0850 (b462d74)
 * Refactor documentation to use jsonc syntax highlighting (#80550)
 * Add NB flag (#80558)
 * Change how suppressors reduce sound (#80559)
-* Aftershock: Unify mod files and directories  (#80538)
 * Fix saving default mod list (#80552)
 * Update EOCs.json with Vitrification and Incorporeal (#80553)
 * Routine i18n updates on 12 April 2025 (#80542)

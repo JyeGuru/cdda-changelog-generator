@@ -1,3 +1,4 @@
+* More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
 
 ---
 
@@ -235,7 +236,6 @@
 * Refactor documentation to use jsonc syntax highlighting ([#80550](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550))
 * Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
 * Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
-* Aftershock: Unify mod files and directories  ([#80538](https://github.com/CleverRaven/Cataclysm-DDA/pull/80538))
 * Fix saving default mod list ([#80552](https://github.com/CleverRaven/Cataclysm-DDA/pull/80552))
 * Update EOCs.json with Vitrification and Incorporeal ([#80553](https://github.com/CleverRaven/Cataclysm-DDA/pull/80553))
 * Routine i18n updates on 12 April 2025 ([#80542](https://github.com/CleverRaven/Cataclysm-DDA/pull/80542))
