@@ -1,3 +1,4 @@
+* Infrastructure/Mods: Add is_chargeable search term for search_data (#80693)
 
 Cataclysm-DDA experimental build 2025-04-25-0527 (e64d417)
 * [alt-map-key] Taking over as maintainer (#80683)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-04-19-0427 (a24560b)
 * Add NB flag (#80558)
 * Change how suppressors reduce sound (#80559)
 * Aftershock: Unify mod files and directories  (#80538)
-* Add missing `connect_groups` to `JSON-INFO.md` file (#80536)
 * Aftershock: Heat Crashed Ship (#80537)
 * Fix saving default mod list (#80552)
 * Update EOCs.json with Vitrification and Incorporeal (#80553)

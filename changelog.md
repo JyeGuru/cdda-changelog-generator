@@ -1,3 +1,4 @@
+* Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
 
 ---
 
@@ -234,7 +235,6 @@
 * Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
 * Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
 * Aftershock: Unify mod files and directories  ([#80538](https://github.com/CleverRaven/Cataclysm-DDA/pull/80538))
-* Add missing `connect_groups` to `JSON-INFO.md` file ([#80536](https://github.com/CleverRaven/Cataclysm-DDA/pull/80536))
 * Aftershock: Heat Crashed Ship ([#80537](https://github.com/CleverRaven/Cataclysm-DDA/pull/80537))
 * Fix saving default mod list ([#80552](https://github.com/CleverRaven/Cataclysm-DDA/pull/80552))
 * Update EOCs.json with Vitrification and Incorporeal ([#80553](https://github.com/CleverRaven/Cataclysm-DDA/pull/80553))
