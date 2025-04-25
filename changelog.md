@@ -239,4 +239,3 @@
 * Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
 * Fix saving default mod list ([#80552](https://github.com/CleverRaven/Cataclysm-DDA/pull/80552))
 * Update EOCs.json with Vitrification and Incorporeal ([#80553](https://github.com/CleverRaven/Cataclysm-DDA/pull/80553))
-* Isolated Road's Desire paths ([#80543](https://github.com/CleverRaven/Cataclysm-DDA/pull/80543))
