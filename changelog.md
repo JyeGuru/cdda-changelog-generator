@@ -1,3 +1,7 @@
+* Diversify Skills in the NECR ([#80691](https://github.com/CleverRaven/Cataclysm-DDA/pull/80691))
+* Minor tweaks in fault stuff ([#80634](https://github.com/CleverRaven/Cataclysm-DDA/pull/80634))
+* [MoM] Perfected Motion is now concentration ([#80718](https://github.com/CleverRaven/Cataclysm-DDA/pull/80718))
+* Aftershock: Bugfix Last dance Scenario ([#80719](https://github.com/CleverRaven/Cataclysm-DDA/pull/80719))
 * Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
 
 ---
@@ -233,9 +237,6 @@
 * Fix code block syntax in documentation ([#80576](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576))
 * Weekly Changelog 2025-04-07 to 2025-04-14 ([#80561](https://github.com/CleverRaven/Cataclysm-DDA/pull/80561))
 * Aftershock: Miscellaneous fixes for the early game. ([#80569](https://github.com/CleverRaven/Cataclysm-DDA/pull/80569))
-* Another gunmod audit ([#80560](https://github.com/CleverRaven/Cataclysm-DDA/pull/80560))
 * [Xedra Evolved] Add Dhampir Weakness: Nocturnal ([#80563](https://github.com/CleverRaven/Cataclysm-DDA/pull/80563))
 * [Xedra Evolved] Rescale blood vitamin  ([#80564](https://github.com/CleverRaven/Cataclysm-DDA/pull/80564))
 * Fix location Variables targeting specific map features ([#80566](https://github.com/CleverRaven/Cataclysm-DDA/pull/80566))
-* Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
-* Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
