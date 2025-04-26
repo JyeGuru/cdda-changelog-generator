@@ -1,3 +1,10 @@
+* Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-26-1937 ([7fca25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-1937))
+
+* Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 ([#80726](https://github.com/CleverRaven/Cataclysm-DDA/pull/80726))
 
 ---
 
@@ -189,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-04-20-0356 ([a540984](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-0356))
 
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-19-2244 ([d6c877a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-2244))
-
 * math/json: fix (de)serialization of inf and nan ([#80595](https://github.com/CleverRaven/Cataclysm-DDA/pull/80595))
 * Make radiation true random ([#80598](https://github.com/CleverRaven/Cataclysm-DDA/pull/80598))
 * Add trinkets and butchery results to eldritch huntsman ([#80608](https://github.com/CleverRaven/Cataclysm-DDA/pull/80608))
@@ -237,5 +239,3 @@
 * Fix location Variables targeting specific map features ([#80566](https://github.com/CleverRaven/Cataclysm-DDA/pull/80566))
 * Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
 * Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
-* Fix saving default mod list ([#80552](https://github.com/CleverRaven/Cataclysm-DDA/pull/80552))
-* Update EOCs.json with Vitrification and Incorporeal ([#80553](https://github.com/CleverRaven/Cataclysm-DDA/pull/80553))
