@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-26-0658 ([afc0c22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-0658))
+
+* Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD ([#80716](https://github.com/CleverRaven/Cataclysm-DDA/pull/80716))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-26-0249 ([a13dd2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-0249))
 
 * put vehicles inbound ([#80642](https://github.com/CleverRaven/Cataclysm-DDA/pull/80642))
@@ -193,11 +199,6 @@
 * Add trinkets and butchery results to eldritch huntsman ([#80608](https://github.com/CleverRaven/Cataclysm-DDA/pull/80608))
 * Add Catch2 CMake integration ([#80614](https://github.com/CleverRaven/Cataclysm-DDA/pull/80614))
 * Bugfix: Mi-go pathfinding avoids fire ([#80619](https://github.com/CleverRaven/Cataclysm-DDA/pull/80619))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-19-2029 ([cc2a49b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-2029))
-
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
 * Update scenarios to use distance_initial_visibility ([#80613](https://github.com/CleverRaven/Cataclysm-DDA/pull/80613))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
@@ -234,7 +235,6 @@
 * [Xedra Evolved] Add Dhampir Weakness: Nocturnal ([#80563](https://github.com/CleverRaven/Cataclysm-DDA/pull/80563))
 * [Xedra Evolved] Rescale blood vitamin  ([#80564](https://github.com/CleverRaven/Cataclysm-DDA/pull/80564))
 * Fix location Variables targeting specific map features ([#80566](https://github.com/CleverRaven/Cataclysm-DDA/pull/80566))
-* Refactor documentation to use jsonc syntax highlighting ([#80550](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550))
 * Add NB flag ([#80558](https://github.com/CleverRaven/Cataclysm-DDA/pull/80558))
 * Change how suppressors reduce sound ([#80559](https://github.com/CleverRaven/Cataclysm-DDA/pull/80559))
 * Fix saving default mod list ([#80552](https://github.com/CleverRaven/Cataclysm-DDA/pull/80552))

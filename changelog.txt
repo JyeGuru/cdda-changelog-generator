@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-26-0658 (afc0c22)
+* Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD (#80716)
+
 Cataclysm-DDA experimental build 2025-04-26-0249 (a13dd2e)
 * put vehicles inbound (#80642)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-04-19-2244 (d6c877a)
 * Add trinkets and butchery results to eldritch huntsman (#80608)
 * Add Catch2 CMake integration (#80614)
 * Bugfix: Mi-go pathfinding avoids fire (#80619)
-
-Cataclysm-DDA experimental build 2025-04-19-2029 (cc2a49b)
 * Ban alcohol from camp larder (#80628)
 * Update scenarios to use distance_initial_visibility (#80613)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#80624)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-04-19-2029 (cc2a49b)
 * [Xedra Evolved] Add Dhampir Weakness: Nocturnal (#80563)
 * [Xedra Evolved] Rescale blood vitamin  (#80564)
 * Fix location Variables targeting specific map features (#80566)
-* Refactor documentation to use jsonc syntax highlighting (#80550)
 * Add NB flag (#80558)
 * Change how suppressors reduce sound (#80559)
 * Fix saving default mod list (#80552)
