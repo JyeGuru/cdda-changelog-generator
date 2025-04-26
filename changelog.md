@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-26-0249 ([a13dd2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-0249))
+
+* put vehicles inbound ([#80642](https://github.com/CleverRaven/Cataclysm-DDA/pull/80642))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-25-2122 ([d6fdd33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-2122))
 
 * Enable autonotes for favorites inside containers ([#80708](https://github.com/CleverRaven/Cataclysm-DDA/pull/80708))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-04-19-2029 ([cc2a49b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-2029))
 
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-19-1619 ([7e61a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-19-1619))
-
 * Update scenarios to use distance_initial_visibility ([#80613](https://github.com/CleverRaven/Cataclysm-DDA/pull/80613))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
 * Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))

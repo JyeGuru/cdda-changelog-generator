@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-26-0249 (a13dd2e)
+* put vehicles inbound (#80642)
+
 Cataclysm-DDA experimental build 2025-04-25-2122 (d6fdd33)
 * Enable autonotes for favorites inside containers (#80708)
 * Break up/refactor the shadow singularity's EOCs (#80712)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-04-19-2244 (d6c877a)
 
 Cataclysm-DDA experimental build 2025-04-19-2029 (cc2a49b)
 * Ban alcohol from camp larder (#80628)
-
-Cataclysm-DDA experimental build 2025-04-19-1619 (7e61a5c)
 * Update scenarios to use distance_initial_visibility (#80613)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#80624)
 * Routine i18n updates on 19 April 2025 (#80626)
