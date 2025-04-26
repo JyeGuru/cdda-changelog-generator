@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-26-2155 ([852a114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-2155))
+
 * Diversify Skills in the NECR ([#80691](https://github.com/CleverRaven/Cataclysm-DDA/pull/80691))
 * Minor tweaks in fault stuff ([#80634](https://github.com/CleverRaven/Cataclysm-DDA/pull/80634))
 * [MoM] Perfected Motion is now concentration ([#80718](https://github.com/CleverRaven/Cataclysm-DDA/pull/80718))
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-04-20-1640 ([64ff66c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-1640))
 
 * [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs ([#80615](https://github.com/CleverRaven/Cataclysm-DDA/pull/80615))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-20-0356 ([a540984](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-0356))
-
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
 * math/json: fix (de)serialization of inf and nan ([#80595](https://github.com/CleverRaven/Cataclysm-DDA/pull/80595))
 * Make radiation true random ([#80598](https://github.com/CleverRaven/Cataclysm-DDA/pull/80598))
