@@ -1,3 +1,4 @@
+* update the flag of sourdough bread from Nuitient-override to EDIBLE_F… ([#80723](https://github.com/CleverRaven/Cataclysm-DDA/pull/80723))
 
 ---
 
@@ -235,7 +236,6 @@
 * tweak metal requirements ([#80571](https://github.com/CleverRaven/Cataclysm-DDA/pull/80571))
 * Aftershock Move all changes of #80569 to the proper mod ([#80575](https://github.com/CleverRaven/Cataclysm-DDA/pull/80575))
 * Fix code block syntax in documentation ([#80576](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576))
-* Weekly Changelog 2025-04-07 to 2025-04-14 ([#80561](https://github.com/CleverRaven/Cataclysm-DDA/pull/80561))
 * Aftershock: Miscellaneous fixes for the early game. ([#80569](https://github.com/CleverRaven/Cataclysm-DDA/pull/80569))
 * [Xedra Evolved] Add Dhampir Weakness: Nocturnal ([#80563](https://github.com/CleverRaven/Cataclysm-DDA/pull/80563))
 * [Xedra Evolved] Rescale blood vitamin  ([#80564](https://github.com/CleverRaven/Cataclysm-DDA/pull/80564))
