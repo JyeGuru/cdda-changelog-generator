@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-27-2321 (ee5fe8a)
+* [alt-map-key] Adding Mod tiles (#80736)
+
 Cataclysm-DDA experimental build 2025-04-27-1656 (bf9bffc)
 * [MoM] Fix two bugs (#80730)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2025-04-21-1019 (5ffe901)
 
 Cataclysm-DDA experimental build 2025-04-21-0721 (9ce770a)
 * Remove unnecessary const modifiers from function parameters (#80633)
-
-Cataclysm-DDA experimental build 2025-04-21-0433 (132c414)
 * [Magiclysm] Add `max_duration` to most effects (#80637)
 * Mutation description can parse tags now (#80618)
 * [XEDRA Evolved] Deduction skill description (#80638)
@@ -148,6 +149,5 @@ Cataclysm-DDA experimental build 2025-04-21-0433 (132c414)
 * Grog Tweak (#80580)
 * Set owner faction of in-progress crafts (#80582)
 * [Sky Island] Remove incorporeal immunity in death EoC (#80588)
-* tweak metal requirements (#80571)
 * Aftershock Move all changes of #80569 to the proper mod (#80575)
 * Fix code block syntax in documentation (#80576)
