@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-27-0223 ([5660fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-0223))
+
+* [Mods] Update and expand some special vision IDs ([#80696](https://github.com/CleverRaven/Cataclysm-DDA/pull/80696))
+* Adds a small supply of icons with the traders from NECR ([#80692](https://github.com/CleverRaven/Cataclysm-DDA/pull/80692))
+* Item subtypes: BIONIC_ITEM ([#80727](https://github.com/CleverRaven/Cataclysm-DDA/pull/80727))
+* Add myself (-Kray4000) to comment-commands list ([#80728](https://github.com/CleverRaven/Cataclysm-DDA/pull/80728))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-27-0017 ([0ba65da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-0017))
 
 * update the flag of sourdough bread from Nuitient-override to EDIBLE_F… ([#80723](https://github.com/CleverRaven/Cataclysm-DDA/pull/80723))
@@ -193,11 +202,6 @@
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
 * minor Huntsman tweaks ([#80605](https://github.com/CleverRaven/Cataclysm-DDA/pull/80605))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-20-2120 ([b34c8aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-2120))
-
 * generic_factory composite for Item_factory ([#80623](https://github.com/CleverRaven/Cataclysm-DDA/pull/80623))
 * [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs ([#80615](https://github.com/CleverRaven/Cataclysm-DDA/pull/80615))
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
@@ -226,7 +230,6 @@
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
 * [Xedra Evolved] Add one vampire power and one dhampir weakness ([#80590](https://github.com/CleverRaven/Cataclysm-DDA/pull/80590))
 * [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
-* Warn on load if files have been modified ([#80562](https://github.com/CleverRaven/Cataclysm-DDA/pull/80562))
 * Add US MOLLE II sustainment pouch item ([#80583](https://github.com/CleverRaven/Cataclysm-DDA/pull/80583))
 * Add/correct spoils in for a couple of egg products ([#80584](https://github.com/CleverRaven/Cataclysm-DDA/pull/80584))
 * Silence cast warnings ([#80579](https://github.com/CleverRaven/Cataclysm-DDA/pull/80579))
@@ -237,6 +240,3 @@
 * Aftershock Move all changes of #80569 to the proper mod ([#80575](https://github.com/CleverRaven/Cataclysm-DDA/pull/80575))
 * Fix code block syntax in documentation ([#80576](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576))
 * Aftershock: Miscellaneous fixes for the early game. ([#80569](https://github.com/CleverRaven/Cataclysm-DDA/pull/80569))
-* [Xedra Evolved] Add Dhampir Weakness: Nocturnal ([#80563](https://github.com/CleverRaven/Cataclysm-DDA/pull/80563))
-* [Xedra Evolved] Rescale blood vitamin  ([#80564](https://github.com/CleverRaven/Cataclysm-DDA/pull/80564))
-* Fix location Variables targeting specific map features ([#80566](https://github.com/CleverRaven/Cataclysm-DDA/pull/80566))
