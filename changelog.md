@@ -1,3 +1,10 @@
+* [MoM] Fix two bugs ([#80730](https://github.com/CleverRaven/Cataclysm-DDA/pull/80730))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-27-1433 ([3116bd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-1433))
+
+* Standardize speedway road color ([#80731](https://github.com/CleverRaven/Cataclysm-DDA/pull/80731))
 
 ---
 
@@ -194,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-04-21-0211 ([6e9389a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-0211))
 
 * Mutation description can parse tags now ([#80618](https://github.com/CleverRaven/Cataclysm-DDA/pull/80618))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-20-2355 ([5b3975b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-2355))
-
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
 * minor Huntsman tweaks ([#80605](https://github.com/CleverRaven/Cataclysm-DDA/pull/80605))
@@ -239,4 +241,3 @@
 * tweak metal requirements ([#80571](https://github.com/CleverRaven/Cataclysm-DDA/pull/80571))
 * Aftershock Move all changes of #80569 to the proper mod ([#80575](https://github.com/CleverRaven/Cataclysm-DDA/pull/80575))
 * Fix code block syntax in documentation ([#80576](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576))
-* Aftershock: Miscellaneous fixes for the early game. ([#80569](https://github.com/CleverRaven/Cataclysm-DDA/pull/80569))

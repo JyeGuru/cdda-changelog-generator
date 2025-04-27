@@ -1,3 +1,7 @@
+* [MoM] Fix two bugs (#80730)
+
+Cataclysm-DDA experimental build 2025-04-27-1433 (3116bd8)
+* Standardize speedway road color (#80731)
 
 Cataclysm-DDA experimental build 2025-04-27-0223 (5660fba)
 * [Mods] Update and expand some special vision IDs (#80696)
@@ -107,8 +111,6 @@ Cataclysm-DDA experimental build 2025-04-21-0433 (132c414)
 
 Cataclysm-DDA experimental build 2025-04-21-0211 (6e9389a)
 * Mutation description can parse tags now (#80618)
-
-Cataclysm-DDA experimental build 2025-04-20-2355 (5b3975b)
 * [XEDRA Evolved] Deduction skill description (#80638)
 * Fix IS_WINDOWS_HOST assignment in Makefile (#80636)
 * minor Huntsman tweaks (#80605)
@@ -149,4 +151,3 @@ Cataclysm-DDA experimental build 2025-04-20-2355 (5b3975b)
 * tweak metal requirements (#80571)
 * Aftershock Move all changes of #80569 to the proper mod (#80575)
 * Fix code block syntax in documentation (#80576)
-* Aftershock: Miscellaneous fixes for the early game. (#80569)
