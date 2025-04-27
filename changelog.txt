@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-27-1656 (bf9bffc)
 * [MoM] Fix two bugs (#80730)
 
 Cataclysm-DDA experimental build 2025-04-27-1433 (3116bd8)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2025-04-21-0721 (9ce770a)
 
 Cataclysm-DDA experimental build 2025-04-21-0433 (132c414)
 * [Magiclysm] Add `max_duration` to most effects (#80637)
-
-Cataclysm-DDA experimental build 2025-04-21-0211 (6e9389a)
 * Mutation description can parse tags now (#80618)
 * [XEDRA Evolved] Deduction skill description (#80638)
 * Fix IS_WINDOWS_HOST assignment in Makefile (#80636)
