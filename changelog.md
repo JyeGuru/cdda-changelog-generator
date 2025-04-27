@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-27-0017 ([0ba65da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-0017))
+
 * update the flag of sourdough bread from Nuitient-override to EDIBLE_F… ([#80723](https://github.com/CleverRaven/Cataclysm-DDA/pull/80723))
 
 ---
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-04-20-2120 ([b34c8aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-2120))
 
 * generic_factory composite for Item_factory ([#80623](https://github.com/CleverRaven/Cataclysm-DDA/pull/80623))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-20-1640 ([64ff66c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-20-1640))
-
 * [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs ([#80615](https://github.com/CleverRaven/Cataclysm-DDA/pull/80615))
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
 * math/json: fix (de)serialization of inf and nan ([#80595](https://github.com/CleverRaven/Cataclysm-DDA/pull/80595))
