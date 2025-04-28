@@ -1,3 +1,8 @@
+* Fix house_05 basement (#80741)
+* fix moose zombie + reindeer fawn (#80733)
+
+Cataclysm-DDA experimental build 2025-04-28-0454 (532d4e4)
+* Fix golf counters & laundromat items spawning in walls (#80742)
 
 Cataclysm-DDA experimental build 2025-04-27-2321 (ee5fe8a)
 * [alt-map-key] Adding Mod tiles (#80736)
@@ -107,8 +112,6 @@ Cataclysm-DDA experimental build 2025-04-21-1408 (55665cf)
 
 Cataclysm-DDA experimental build 2025-04-21-1019 (5ffe901)
 * fixes some Caotel ammo copy-from (#80653)
-
-Cataclysm-DDA experimental build 2025-04-21-0721 (9ce770a)
 * Remove unnecessary const modifiers from function parameters (#80633)
 * [Magiclysm] Add `max_duration` to most effects (#80637)
 * Mutation description can parse tags now (#80618)
@@ -145,9 +148,6 @@ Cataclysm-DDA experimental build 2025-04-21-0721 (9ce770a)
 * [MoM] Fix Electron Overflow divide by zero (#80597)
 * Add US MOLLE II sustainment pouch item (#80583)
 * Add/correct spoils in for a couple of egg products (#80584)
-* Silence cast warnings (#80579)
 * Grog Tweak (#80580)
 * Set owner faction of in-progress crafts (#80582)
 * [Sky Island] Remove incorporeal immunity in death EoC (#80588)
-* Aftershock Move all changes of #80569 to the proper mod (#80575)
-* Fix code block syntax in documentation (#80576)
