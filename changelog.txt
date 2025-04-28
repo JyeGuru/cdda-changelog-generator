@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-28-0936 (d64db9c)
 * Fix .57 gunmod weird wording (#80698)
 
 Cataclysm-DDA experimental build 2025-04-28-0710 (f6bdbd5)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2025-04-22-0205 (09e528f)
 
 Cataclysm-DDA experimental build 2025-04-21-2008 (f34aa51)
 * [Xedra Evolved] Switch Learn from the Children of the Night to a power (from active trait) (#80620)
-
-Cataclysm-DDA experimental build 2025-04-21-1408 (55665cf)
 * [Xedra Evolved] Add design docs for easier collaboration (#80647)
 * fixes some Caotel ammo copy-from (#80653)
 * Remove unnecessary const modifiers from function parameters (#80633)
