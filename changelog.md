@@ -1,3 +1,10 @@
+* Add myself to reviewers for alt_map_key and overmap_terrain folder ([#80734](https://github.com/CleverRaven/Cataclysm-DDA/pull/80734))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-28-1224 ([914a21f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-1224))
+
+* Fix game warning over 'stale data' on achievements json ([#80707](https://github.com/CleverRaven/Cataclysm-DDA/pull/80707))
 
 ---
 
@@ -195,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-04-22-0205 ([09e528f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-0205))
 
 * [Xedra Evolved] Implemented Enervated blood level for dhampirs ([#80660](https://github.com/CleverRaven/Cataclysm-DDA/pull/80660))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-21-2008 ([f34aa51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-2008))
-
 * [Xedra Evolved] Switch Learn from the Children of the Night to a power (from active trait) ([#80620](https://github.com/CleverRaven/Cataclysm-DDA/pull/80620))
 * [Xedra Evolved] Add design docs for easier collaboration ([#80647](https://github.com/CleverRaven/Cataclysm-DDA/pull/80647))
 * fixes some Caotel ammo copy-from ([#80653](https://github.com/CleverRaven/Cataclysm-DDA/pull/80653))
@@ -231,7 +233,6 @@
 * [ MoM ] Pyrokinetic Nether Attunement event ([#80610](https://github.com/CleverRaven/Cataclysm-DDA/pull/80610))
 * Fix crash after deleting items immediately in character_takeoff_item eoc ([#80594](https://github.com/CleverRaven/Cataclysm-DDA/pull/80594))
 * Add 2 new houses ([#80609](https://github.com/CleverRaven/Cataclysm-DDA/pull/80609))
-* Refactor pathfind: allow multiple targets ([#80581](https://github.com/CleverRaven/Cataclysm-DDA/pull/80581))
 * Characters do not automatically try to clear `downed` if they have the `CANNOT_MOVE` flag ([#80604](https://github.com/CleverRaven/Cataclysm-DDA/pull/80604))
 * Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
@@ -239,5 +240,4 @@
 * [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
 * Add US MOLLE II sustainment pouch item ([#80583](https://github.com/CleverRaven/Cataclysm-DDA/pull/80583))
 * Add/correct spoils in for a couple of egg products ([#80584](https://github.com/CleverRaven/Cataclysm-DDA/pull/80584))
-* Set owner faction of in-progress crafts ([#80582](https://github.com/CleverRaven/Cataclysm-DDA/pull/80582))
 * [Sky Island] Remove incorporeal immunity in death EoC ([#80588](https://github.com/CleverRaven/Cataclysm-DDA/pull/80588))
