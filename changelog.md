@@ -1,3 +1,9 @@
+* Fix .57 gunmod weird wording ([#80698](https://github.com/CleverRaven/Cataclysm-DDA/pull/80698))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-28-0710 ([f6bdbd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-0710))
+
 * Fix house_05 basement ([#80741](https://github.com/CleverRaven/Cataclysm-DDA/pull/80741))
 * fix moose zombie + reindeer fawn ([#80733](https://github.com/CleverRaven/Cataclysm-DDA/pull/80733))
 
@@ -196,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-04-21-1408 ([55665cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-1408))
 
 * [Xedra Evolved] Add design docs for easier collaboration ([#80647](https://github.com/CleverRaven/Cataclysm-DDA/pull/80647))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-21-1019 ([5ffe901](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-21-1019))
-
 * fixes some Caotel ammo copy-from ([#80653](https://github.com/CleverRaven/Cataclysm-DDA/pull/80653))
 * Remove unnecessary const modifiers from function parameters ([#80633](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633))
 * [Magiclysm] Add `max_duration` to most effects ([#80637](https://github.com/CleverRaven/Cataclysm-DDA/pull/80637))
@@ -238,6 +239,5 @@
 * [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
 * Add US MOLLE II sustainment pouch item ([#80583](https://github.com/CleverRaven/Cataclysm-DDA/pull/80583))
 * Add/correct spoils in for a couple of egg products ([#80584](https://github.com/CleverRaven/Cataclysm-DDA/pull/80584))
-* Grog Tweak ([#80580](https://github.com/CleverRaven/Cataclysm-DDA/pull/80580))
 * Set owner faction of in-progress crafts ([#80582](https://github.com/CleverRaven/Cataclysm-DDA/pull/80582))
 * [Sky Island] Remove incorporeal immunity in death EoC ([#80588](https://github.com/CleverRaven/Cataclysm-DDA/pull/80588))
