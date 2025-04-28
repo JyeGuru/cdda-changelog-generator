@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-28-2149 ([e7513ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-2149))
+
+* Item_factory subtype clean-up  ([#80738](https://github.com/CleverRaven/Cataclysm-DDA/pull/80738))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-28-1459 ([7574354](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-1459))
 
 * Remove camouflage from 'A shadow?' ([#80746](https://github.com/CleverRaven/Cataclysm-DDA/pull/80746))
@@ -196,11 +202,6 @@
 * [Sky Island] Add custom SI jabberwocks to prevent infighting ([#80661](https://github.com/CleverRaven/Cataclysm-DDA/pull/80661))
 * Extract few monster names from mapgen ([#80658](https://github.com/CleverRaven/Cataclysm-DDA/pull/80658))
 * Make Yugg Sting true random ([#80659](https://github.com/CleverRaven/Cataclysm-DDA/pull/80659))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-22-0543 ([5e1a5d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-0543))
-
 * Item subtypes: BREWABLE, COMPOSTABLE, MILLING, SEED, ENGINE, WHEEL ([#80666](https://github.com/CleverRaven/Cataclysm-DDA/pull/80666))
 * [Xedra Evolved] Implemented Enervated blood level for dhampirs ([#80660](https://github.com/CleverRaven/Cataclysm-DDA/pull/80660))
 * [Xedra Evolved] Switch Learn from the Children of the Night to a power (from active trait) ([#80620](https://github.com/CleverRaven/Cataclysm-DDA/pull/80620))
@@ -239,5 +240,4 @@
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
 * [Xedra Evolved] Add one vampire power and one dhampir weakness ([#80590](https://github.com/CleverRaven/Cataclysm-DDA/pull/80590))
 * [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
-* Add/correct spoils in for a couple of egg products ([#80584](https://github.com/CleverRaven/Cataclysm-DDA/pull/80584))
 * [Sky Island] Remove incorporeal immunity in death EoC ([#80588](https://github.com/CleverRaven/Cataclysm-DDA/pull/80588))
