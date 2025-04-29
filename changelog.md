@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-29-0755 ([4b02f9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-0755))
+
+* Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-29-0251 ([8ce3163](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-0251))
 
 * [Xedra Evolved] Add feral vampires, put them in house nests + caves ([#80739](https://github.com/CleverRaven/Cataclysm-DDA/pull/80739))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-22-2027 ([c7e8bf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-2027))
 
 * Fix variable default overriding set values ([#80674](https://github.com/CleverRaven/Cataclysm-DDA/pull/80674))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-22-1757 ([3105880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-1757))
-
 * Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
 * [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
@@ -235,4 +236,3 @@
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
 * [Xedra Evolved] Add one vampire power and one dhampir weakness ([#80590](https://github.com/CleverRaven/Cataclysm-DDA/pull/80590))
 * [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
-* [Sky Island] Remove incorporeal immunity in death EoC ([#80588](https://github.com/CleverRaven/Cataclysm-DDA/pull/80588))
