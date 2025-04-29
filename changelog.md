@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-29-1018 ([8ecd845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-1018))
+
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 
 ---
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-23-0515 ([477b5b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-23-0515))
 
 * Item subtypes: BOOK, COMESTIBLE ([#80681](https://github.com/CleverRaven/Cataclysm-DDA/pull/80681))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-22-2027 ([c7e8bf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-2027))
-
 * Fix variable default overriding set values ([#80674](https://github.com/CleverRaven/Cataclysm-DDA/pull/80674))
 * Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
