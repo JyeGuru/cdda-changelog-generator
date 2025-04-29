@@ -1,3 +1,11 @@
+* [alt-map-key] Updating tile keys ([#80709](https://github.com/CleverRaven/Cataclysm-DDA/pull/80709))
+* Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-29-2342 ([3f666ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-2342))
+
+* revert unserialize_submap ([#80748](https://github.com/CleverRaven/Cataclysm-DDA/pull/80748))
 
 ---
 
@@ -181,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-23-1001 ([adfc3ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-23-1001))
 
 * remove u_lose_faction_trust ([#80669](https://github.com/CleverRaven/Cataclysm-DDA/pull/80669))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-23-0739 ([9eb4a7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-23-0739))
-
 * [MoM] Rework Neural Spasms ([#80676](https://github.com/CleverRaven/Cataclysm-DDA/pull/80676))
 * Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` ([#80678](https://github.com/CleverRaven/Cataclysm-DDA/pull/80678))
 * [Xedra Evolved] Add Cloak of Shadows vampire power ([#80680](https://github.com/CleverRaven/Cataclysm-DDA/pull/80680))
@@ -215,7 +218,6 @@
 * generic_factory composite for Item_factory ([#80623](https://github.com/CleverRaven/Cataclysm-DDA/pull/80623))
 * [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs ([#80615](https://github.com/CleverRaven/Cataclysm-DDA/pull/80615))
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
-* math/json: fix (de)serialization of inf and nan ([#80595](https://github.com/CleverRaven/Cataclysm-DDA/pull/80595))
 * Make radiation true random ([#80598](https://github.com/CleverRaven/Cataclysm-DDA/pull/80598))
 * Add trinkets and butchery results to eldritch huntsman ([#80608](https://github.com/CleverRaven/Cataclysm-DDA/pull/80608))
 * Add Catch2 CMake integration ([#80614](https://github.com/CleverRaven/Cataclysm-DDA/pull/80614))
@@ -230,9 +232,7 @@
 * Aftershock: More bugfixing ([#80603](https://github.com/CleverRaven/Cataclysm-DDA/pull/80603))
 * Mod Conflicts ([#80607](https://github.com/CleverRaven/Cataclysm-DDA/pull/80607))
 * [ MoM ] Pyrokinetic Nether Attunement event ([#80610](https://github.com/CleverRaven/Cataclysm-DDA/pull/80610))
-* Fix crash after deleting items immediately in character_takeoff_item eoc ([#80594](https://github.com/CleverRaven/Cataclysm-DDA/pull/80594))
 * Add 2 new houses ([#80609](https://github.com/CleverRaven/Cataclysm-DDA/pull/80609))
 * Characters do not automatically try to clear `downed` if they have the `CANNOT_MOVE` flag ([#80604](https://github.com/CleverRaven/Cataclysm-DDA/pull/80604))
 * Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
-* [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
