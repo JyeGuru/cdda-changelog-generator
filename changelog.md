@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-29-0251 ([8ce3163](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-0251))
+
+* [Xedra Evolved] Add feral vampires, put them in house nests + caves ([#80739](https://github.com/CleverRaven/Cataclysm-DDA/pull/80739))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-28-2149 ([e7513ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-2149))
 
 * Item_factory subtype clean-up  ([#80738](https://github.com/CleverRaven/Cataclysm-DDA/pull/80738))
@@ -192,11 +198,6 @@
 * [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
 * Move more gameplay options to externals ([#80640](https://github.com/CleverRaven/Cataclysm-DDA/pull/80640))
 * Adjust world sliders for actually different gameplay experiences ([#80639](https://github.com/CleverRaven/Cataclysm-DDA/pull/80639))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-22-0813 ([423584e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-0813))
-
 * Add mod src info to effect info ([#80650](https://github.com/CleverRaven/Cataclysm-DDA/pull/80650))
 * Weekly Changelog 2025-04-14 to 2025-04-21 ([#80651](https://github.com/CleverRaven/Cataclysm-DDA/pull/80651))
 * [Sky Island] Add custom SI jabberwocks to prevent infighting ([#80661](https://github.com/CleverRaven/Cataclysm-DDA/pull/80661))
@@ -228,7 +229,6 @@
 * Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
 * [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
-* Expand faults ([#80585](https://github.com/CleverRaven/Cataclysm-DDA/pull/80585))
 * Aftershock: More bugfixing ([#80603](https://github.com/CleverRaven/Cataclysm-DDA/pull/80603))
 * Mod Conflicts ([#80607](https://github.com/CleverRaven/Cataclysm-DDA/pull/80607))
 * Fix typos in recent Homullus abilities ([#80591](https://github.com/CleverRaven/Cataclysm-DDA/pull/80591))

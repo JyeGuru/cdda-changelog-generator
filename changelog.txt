@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-29-0251 (8ce3163)
+* [Xedra Evolved] Add feral vampires, put them in house nests + caves (#80739)
+
 Cataclysm-DDA experimental build 2025-04-28-2149 (e7513ef)
 * Item_factory subtype clean-up  (#80738)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2025-04-22-1016 (19ca359)
 * [MoM] Exclude UPS from Electron Overflow (#80667)
 * Move more gameplay options to externals (#80640)
 * Adjust world sliders for actually different gameplay experiences (#80639)
-
-Cataclysm-DDA experimental build 2025-04-22-0813 (423584e)
 * Add mod src info to effect info (#80650)
 * Weekly Changelog 2025-04-14 to 2025-04-21 (#80651)
 * [Sky Island] Add custom SI jabberwocks to prevent infighting (#80661)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2025-04-22-0813 (423584e)
 * Use of pre-increment/decrement operators for iterators (#80617)
 * [Xedra Evolved] Vampires gain greater static bonuses from traits (#80621)
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency (#80622)
-* Expand faults (#80585)
 * Aftershock: More bugfixing (#80603)
 * Mod Conflicts (#80607)
 * Fix typos in recent Homullus abilities (#80591)
