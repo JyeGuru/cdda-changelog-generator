@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-29-1248 ([57d5de2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-1248))
+
+* Bugfixes: Allow NPCs to use practice crafting recipes ([#80699](https://github.com/CleverRaven/Cataclysm-DDA/pull/80699))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-29-1018 ([8ecd845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-1018))
 
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
@@ -183,11 +189,6 @@
 * [MoM] Rework Neural Spasms ([#80676](https://github.com/CleverRaven/Cataclysm-DDA/pull/80676))
 * Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` ([#80678](https://github.com/CleverRaven/Cataclysm-DDA/pull/80678))
 * [Xedra Evolved] Add Cloak of Shadows vampire power ([#80680](https://github.com/CleverRaven/Cataclysm-DDA/pull/80680))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-23-0515 ([477b5b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-23-0515))
-
 * Item subtypes: BOOK, COMESTIBLE ([#80681](https://github.com/CleverRaven/Cataclysm-DDA/pull/80681))
 * Fix variable default overriding set values ([#80674](https://github.com/CleverRaven/Cataclysm-DDA/pull/80674))
 * Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
@@ -228,7 +229,6 @@
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
 * Aftershock: More bugfixing ([#80603](https://github.com/CleverRaven/Cataclysm-DDA/pull/80603))
 * Mod Conflicts ([#80607](https://github.com/CleverRaven/Cataclysm-DDA/pull/80607))
-* Fix typos in recent Homullus abilities ([#80591](https://github.com/CleverRaven/Cataclysm-DDA/pull/80591))
 * [ MoM ] Pyrokinetic Nether Attunement event ([#80610](https://github.com/CleverRaven/Cataclysm-DDA/pull/80610))
 * Fix crash after deleting items immediately in character_takeoff_item eoc ([#80594](https://github.com/CleverRaven/Cataclysm-DDA/pull/80594))
 * Add 2 new houses ([#80609](https://github.com/CleverRaven/Cataclysm-DDA/pull/80609))

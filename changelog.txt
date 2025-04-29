@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-04-29-1248 (57d5de2)
+* Bugfixes: Allow NPCs to use practice crafting recipes (#80699)
+
 Cataclysm-DDA experimental build 2025-04-29-1018 (8ecd845)
 * Port TLG#695 psychopaths don't enjoy playing with animals (#80757)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2025-04-23-0739 (9eb4a7a)
 * [MoM] Rework Neural Spasms (#80676)
 * Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` (#80678)
 * [Xedra Evolved] Add Cloak of Shadows vampire power (#80680)
-
-Cataclysm-DDA experimental build 2025-04-23-0515 (477b5b6)
 * Item subtypes: BOOK, COMESTIBLE (#80681)
 * Fix variable default overriding set values (#80674)
 * Fix code typo (#80672)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2025-04-23-0515 (477b5b6)
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency (#80622)
 * Aftershock: More bugfixing (#80603)
 * Mod Conflicts (#80607)
-* Fix typos in recent Homullus abilities (#80591)
 * [ MoM ] Pyrokinetic Nether Attunement event (#80610)
 * Fix crash after deleting items immediately in character_takeoff_item eoc (#80594)
 * Add 2 new houses (#80609)
