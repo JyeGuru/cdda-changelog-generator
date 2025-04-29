@@ -1,3 +1,4 @@
+* Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 
 ---
 
@@ -234,5 +235,4 @@
 * Characters do not automatically try to clear `downed` if they have the `CANNOT_MOVE` flag ([#80604](https://github.com/CleverRaven/Cataclysm-DDA/pull/80604))
 * Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
 * Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
-* [Xedra Evolved] Add one vampire power and one dhampir weakness ([#80590](https://github.com/CleverRaven/Cataclysm-DDA/pull/80590))
 * [MoM] Fix Electron Overflow divide by zero ([#80597](https://github.com/CleverRaven/Cataclysm-DDA/pull/80597))
