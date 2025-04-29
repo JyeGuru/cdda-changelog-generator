@@ -189,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-22-1757 ([3105880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-1757))
 
 * Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-22-1016 ([19ca359](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-22-1016))
-
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
 * [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
 * Move more gameplay options to externals ([#80640](https://github.com/CleverRaven/Cataclysm-DDA/pull/80640))

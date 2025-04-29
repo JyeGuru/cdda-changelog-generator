@@ -102,8 +102,6 @@ Cataclysm-DDA experimental build 2025-04-22-2027 (c7e8bf7)
 
 Cataclysm-DDA experimental build 2025-04-22-1757 (3105880)
 * Fix code typo (#80672)
-
-Cataclysm-DDA experimental build 2025-04-22-1016 (19ca359)
 * Fix WearMan (#80665)
 * [MoM] Exclude UPS from Electron Overflow (#80667)
 * Move more gameplay options to externals (#80640)
