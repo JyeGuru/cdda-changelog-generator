@@ -1,3 +1,4 @@
+* Remove missed u_shotgun_mod refs (#80765)
 
 Cataclysm-DDA experimental build 2025-04-30-1433 (425c066)
 * Fix sdl_mouse.h include (#80769)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-04-25-0527 (e64d417)
 * Use of pre-increment/decrement operators for iterators (#80617)
 * [Xedra Evolved] Vampires gain greater static bonuses from traits (#80621)
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency (#80622)
-* Replace `const std::string_view &` with `std::string_view` (#80611)
