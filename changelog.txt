@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-30-0502 (dd2685e)
 * Remove 'Rural' setting from city size slider (#80747)
 * Make milking a gradual transfer activity with an up front destination selection. (#80759)
 * blacklist human bone temperature (#80764)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-04-24-0846 (daa4080)
 
 Cataclysm-DDA experimental build 2025-04-24-0609 (1535628)
 * Fix Corrie Kaja Dosia (From NECR/GODCO) (#80690)
-
-Cataclysm-DDA experimental build 2025-04-24-0326 (ccd711d)
 * [XE] Update the new design document to include the Vampiric Anathema & the cryptids. (#80657)
 * remove u_lose_faction_trust (#80669)
 * [MoM] Rework Neural Spasms (#80676)

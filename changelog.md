@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-30-0502 ([dd2685e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-30-0502))
+
 * Remove 'Rural' setting from city size slider ([#80747](https://github.com/CleverRaven/Cataclysm-DDA/pull/80747))
 * Make milking a gradual transfer activity with an up front destination selection. ([#80759](https://github.com/CleverRaven/Cataclysm-DDA/pull/80759))
 * blacklist human bone temperature ([#80764](https://github.com/CleverRaven/Cataclysm-DDA/pull/80764))
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-04-24-0609 ([1535628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-24-0609))
 
 * Fix Corrie Kaja Dosia (From NECR/GODCO) ([#80690](https://github.com/CleverRaven/Cataclysm-DDA/pull/80690))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-24-0326 ([ccd711d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-24-0326))
-
 * [XE] Update the new design document to include the Vampiric Anathema & the cryptids. ([#80657](https://github.com/CleverRaven/Cataclysm-DDA/pull/80657))
 * remove u_lose_faction_trust ([#80669](https://github.com/CleverRaven/Cataclysm-DDA/pull/80669))
 * [MoM] Rework Neural Spasms ([#80676](https://github.com/CleverRaven/Cataclysm-DDA/pull/80676))
