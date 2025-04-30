@@ -1,3 +1,7 @@
+* Remove 'Rural' setting from city size slider ([#80747](https://github.com/CleverRaven/Cataclysm-DDA/pull/80747))
+* Make milking a gradual transfer activity with an up front destination selection. ([#80759](https://github.com/CleverRaven/Cataclysm-DDA/pull/80759))
+* blacklist human bone temperature ([#80764](https://github.com/CleverRaven/Cataclysm-DDA/pull/80764))
+* Remove legacy to-hit JSON (vanilla, all non-guns) ([#80766](https://github.com/CleverRaven/Cataclysm-DDA/pull/80766))
 * Weekly Changelog 2025-04-21 to 2025-04-28 ([#80744](https://github.com/CleverRaven/Cataclysm-DDA/pull/80744))
 
 ---
@@ -217,11 +221,9 @@
 * Mutation description can parse tags now ([#80618](https://github.com/CleverRaven/Cataclysm-DDA/pull/80618))
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
-* minor Huntsman tweaks ([#80605](https://github.com/CleverRaven/Cataclysm-DDA/pull/80605))
 * generic_factory composite for Item_factory ([#80623](https://github.com/CleverRaven/Cataclysm-DDA/pull/80623))
 * [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs ([#80615](https://github.com/CleverRaven/Cataclysm-DDA/pull/80615))
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
-* Add trinkets and butchery results to eldritch huntsman ([#80608](https://github.com/CleverRaven/Cataclysm-DDA/pull/80608))
 * Add Catch2 CMake integration ([#80614](https://github.com/CleverRaven/Cataclysm-DDA/pull/80614))
 * Bugfix: Mi-go pathfinding avoids fire ([#80619](https://github.com/CleverRaven/Cataclysm-DDA/pull/80619))
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
@@ -231,8 +233,6 @@
 * Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
 * [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
-* Mod Conflicts ([#80607](https://github.com/CleverRaven/Cataclysm-DDA/pull/80607))
 * [ MoM ] Pyrokinetic Nether Attunement event ([#80610](https://github.com/CleverRaven/Cataclysm-DDA/pull/80610))
 * Add 2 new houses ([#80609](https://github.com/CleverRaven/Cataclysm-DDA/pull/80609))
-* Characters do not automatically try to clear `downed` if they have the `CANNOT_MOVE` flag ([#80604](https://github.com/CleverRaven/Cataclysm-DDA/pull/80604))
 * Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
