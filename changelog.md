@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-30-1653 ([dbaab4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-30-1653))
+
 * Remove missed u_shotgun_mod refs ([#80765](https://github.com/CleverRaven/Cataclysm-DDA/pull/80765))
 
 ---
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-25-0758 ([24e5b7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-0758))
 
 * Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-25-0527 ([e64d417](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-0527))
-
 * [alt-map-key] Taking over as maintainer ([#80683](https://github.com/CleverRaven/Cataclysm-DDA/pull/80683))
 * Steel update ([#80646](https://github.com/CleverRaven/Cataclysm-DDA/pull/80646))
 * Update bunker.json to eliminate airgap in basement ([#80687](https://github.com/CleverRaven/Cataclysm-DDA/pull/80687))
