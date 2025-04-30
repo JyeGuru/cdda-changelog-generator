@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-04-30-0726 (3d391cc)
 * [alt-map-key] Updated README for cyan coloring of magical tiles (#80767)
 
 Cataclysm-DDA experimental build 2025-04-30-0502 (dd2685e)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-04-24-0846 (daa4080)
 * [Xedra Evolved] Add more vampire tier 1 and 3 traits (#80685)
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR (#80688)
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) (#80689)
-
-Cataclysm-DDA experimental build 2025-04-24-0609 (1535628)
 * Fix Corrie Kaja Dosia (From NECR/GODCO) (#80690)
 * [XE] Update the new design document to include the Vampiric Anathema & the cryptids. (#80657)
 * remove u_lose_faction_trust (#80669)
