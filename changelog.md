@@ -230,7 +230,6 @@
 * Add Catch2 CMake integration ([#80614](https://github.com/CleverRaven/Cataclysm-DDA/pull/80614))
 * Bugfix: Mi-go pathfinding avoids fire ([#80619](https://github.com/CleverRaven/Cataclysm-DDA/pull/80619))
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
-* Update scenarios to use distance_initial_visibility ([#80613](https://github.com/CleverRaven/Cataclysm-DDA/pull/80613))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
 * Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))
 * Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
