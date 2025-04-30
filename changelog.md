@@ -1,3 +1,11 @@
+* Weekly Changelog 2025-04-21 to 2025-04-28 ([#80744](https://github.com/CleverRaven/Cataclysm-DDA/pull/80744))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-04-30-0218 ([62ecd7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-30-0218))
+
+* [The Backrooms] Expand the Backrooms to multiple Z-levels, add stairs ([#80697](https://github.com/CleverRaven/Cataclysm-DDA/pull/80697))
+* Refactor riot damage + add 'pre-burnt' generator ([#80753](https://github.com/CleverRaven/Cataclysm-DDA/pull/80753))
 * [alt-map-key] Updating tile keys ([#80709](https://github.com/CleverRaven/Cataclysm-DDA/pull/80709))
 * Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))
 
@@ -183,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-04-24-0326 ([ccd711d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-24-0326))
 
 * [XE] Update the new design document to include the Vampiric Anathema & the cryptids. ([#80657](https://github.com/CleverRaven/Cataclysm-DDA/pull/80657))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-23-1001 ([adfc3ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-23-1001))
-
 * remove u_lose_faction_trust ([#80669](https://github.com/CleverRaven/Cataclysm-DDA/pull/80669))
 * [MoM] Rework Neural Spasms ([#80676](https://github.com/CleverRaven/Cataclysm-DDA/pull/80676))
 * Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` ([#80678](https://github.com/CleverRaven/Cataclysm-DDA/pull/80678))
@@ -218,7 +221,6 @@
 * generic_factory composite for Item_factory ([#80623](https://github.com/CleverRaven/Cataclysm-DDA/pull/80623))
 * [Xedra Evolved] Add vampire magic type + update power/trait descriptions with blood costs ([#80615](https://github.com/CleverRaven/Cataclysm-DDA/pull/80615))
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
-* Make radiation true random ([#80598](https://github.com/CleverRaven/Cataclysm-DDA/pull/80598))
 * Add trinkets and butchery results to eldritch huntsman ([#80608](https://github.com/CleverRaven/Cataclysm-DDA/pull/80608))
 * Add Catch2 CMake integration ([#80614](https://github.com/CleverRaven/Cataclysm-DDA/pull/80614))
 * Bugfix: Mi-go pathfinding avoids fire ([#80619](https://github.com/CleverRaven/Cataclysm-DDA/pull/80619))
@@ -229,10 +231,8 @@
 * Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
 * [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
-* Aftershock: More bugfixing ([#80603](https://github.com/CleverRaven/Cataclysm-DDA/pull/80603))
 * Mod Conflicts ([#80607](https://github.com/CleverRaven/Cataclysm-DDA/pull/80607))
 * [ MoM ] Pyrokinetic Nether Attunement event ([#80610](https://github.com/CleverRaven/Cataclysm-DDA/pull/80610))
 * Add 2 new houses ([#80609](https://github.com/CleverRaven/Cataclysm-DDA/pull/80609))
 * Characters do not automatically try to clear `downed` if they have the `CANNOT_MOVE` flag ([#80604](https://github.com/CleverRaven/Cataclysm-DDA/pull/80604))
 * Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
-* Crazy Cata Nemesis Shia ([#80599](https://github.com/CleverRaven/Cataclysm-DDA/pull/80599))
