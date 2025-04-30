@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-04-30-1433 ([425c066](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-30-1433))
+
+* Fix sdl_mouse.h include ([#80769](https://github.com/CleverRaven/Cataclysm-DDA/pull/80769))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-04-30-0726 ([3d391cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-30-0726))
 
 * [alt-map-key] Updated README for cyan coloring of magical tiles ([#80767](https://github.com/CleverRaven/Cataclysm-DDA/pull/80767))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-25-0527 ([e64d417](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-0527))
 
 * [alt-map-key] Taking over as maintainer ([#80683](https://github.com/CleverRaven/Cataclysm-DDA/pull/80683))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-24-0846 ([daa4080](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-24-0846))
-
 * Steel update ([#80646](https://github.com/CleverRaven/Cataclysm-DDA/pull/80646))
 * Update bunker.json to eliminate airgap in basement ([#80687](https://github.com/CleverRaven/Cataclysm-DDA/pull/80687))
 * Manually define electronic faults in item def ([#80671](https://github.com/CleverRaven/Cataclysm-DDA/pull/80671))
@@ -234,5 +235,4 @@
 * Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
 * [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
-* [ MoM ] Pyrokinetic Nether Attunement event ([#80610](https://github.com/CleverRaven/Cataclysm-DDA/pull/80610))
 * Replace `const std::string_view &` with `std::string_view` ([#80611](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611))
