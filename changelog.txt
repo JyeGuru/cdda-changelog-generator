@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-01-2334 (68ab4ea)
 * Silence keg dispensing (#80784)
 
 Cataclysm-DDA experimental build 2025-05-01-2115 (a2660f7)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-04-26-1937 (7fca25b)
 
 Cataclysm-DDA experimental build 2025-04-26-0658 (afc0c22)
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD (#80716)
-
-Cataclysm-DDA experimental build 2025-04-26-0249 (a13dd2e)
 * put vehicles inbound (#80642)
 * Enable autonotes for favorites inside containers (#80708)
 * Break up/refactor the shadow singularity's EOCs (#80712)

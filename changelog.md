@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-01-2334 ([68ab4ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-2334))
+
 * Silence keg dispensing ([#80784](https://github.com/CleverRaven/Cataclysm-DDA/pull/80784))
 
 ---
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-26-0658 ([afc0c22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-0658))
 
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD ([#80716](https://github.com/CleverRaven/Cataclysm-DDA/pull/80716))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-26-0249 ([a13dd2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-0249))
-
 * put vehicles inbound ([#80642](https://github.com/CleverRaven/Cataclysm-DDA/pull/80642))
 * Enable autonotes for favorites inside containers ([#80708](https://github.com/CleverRaven/Cataclysm-DDA/pull/80708))
 * Break up/refactor the shadow singularity's EOCs ([#80712](https://github.com/CleverRaven/Cataclysm-DDA/pull/80712))
