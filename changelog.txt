@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-01-2115 (a2660f7)
+* Obsolete Stats through Skills (#80780)
+
 Cataclysm-DDA experimental build 2025-05-01-0750 (be172c0)
 * Translate coordinates correctly (and with more ease) (#80773)
 * Try fix android build error (#80777)
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2025-04-26-0658 (afc0c22)
 
 Cataclysm-DDA experimental build 2025-04-26-0249 (a13dd2e)
 * put vehicles inbound (#80642)
-
-Cataclysm-DDA experimental build 2025-04-25-2122 (d6fdd33)
 * Enable autonotes for favorites inside containers (#80708)
 * Break up/refactor the shadow singularity's EOCs (#80712)
 * More Armor is now considered proper Armor! (#80701)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2025-04-25-2122 (d6fdd33)
 * Ban alcohol from camp larder (#80628)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#80624)
 * Routine i18n updates on 19 April 2025 (#80626)
-* [Xedra Evolved] Vampires gain greater static bonuses from traits (#80621)
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency (#80622)

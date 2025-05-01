@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-01-2115 ([a2660f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-2115))
+
+* Obsolete Stats through Skills ([#80780](https://github.com/CleverRaven/Cataclysm-DDA/pull/80780))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-01-0750 ([be172c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-0750))
 
 * Translate coordinates correctly (and with more ease) ([#80773](https://github.com/CleverRaven/Cataclysm-DDA/pull/80773))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-26-0249 ([a13dd2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-0249))
 
 * put vehicles inbound ([#80642](https://github.com/CleverRaven/Cataclysm-DDA/pull/80642))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-25-2122 ([d6fdd33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-2122))
-
 * Enable autonotes for favorites inside containers ([#80708](https://github.com/CleverRaven/Cataclysm-DDA/pull/80708))
 * Break up/refactor the shadow singularity's EOCs ([#80712](https://github.com/CleverRaven/Cataclysm-DDA/pull/80712))
 * More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
@@ -231,5 +232,4 @@
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
 * Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))
-* [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
