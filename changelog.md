@@ -220,7 +220,6 @@
 * Make Yugg Sting true random ([#80659](https://github.com/CleverRaven/Cataclysm-DDA/pull/80659))
 * Item subtypes: BREWABLE, COMPOSTABLE, MILLING, SEED, ENGINE, WHEEL ([#80666](https://github.com/CleverRaven/Cataclysm-DDA/pull/80666))
 * [Xedra Evolved] Implemented Enervated blood level for dhampirs ([#80660](https://github.com/CleverRaven/Cataclysm-DDA/pull/80660))
-* [Xedra Evolved] Switch Learn from the Children of the Night to a power (from active trait) ([#80620](https://github.com/CleverRaven/Cataclysm-DDA/pull/80620))
 * [Xedra Evolved] Add design docs for easier collaboration ([#80647](https://github.com/CleverRaven/Cataclysm-DDA/pull/80647))
 * fixes some Caotel ammo copy-from ([#80653](https://github.com/CleverRaven/Cataclysm-DDA/pull/80653))
 * Remove unnecessary const modifiers from function parameters ([#80633](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633))
