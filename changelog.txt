@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-01-0530 (056b3ce)
+* [ Bombastic Perks ] Make myself the maintainer (#80778)
+
 Cataclysm-DDA experimental build 2025-05-01-0238 (ac1b220)
 * Routine tileset updates on 01 May 2025 (#80779)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2025-04-25-2122 (d6fdd33)
 
 Cataclysm-DDA experimental build 2025-04-25-1853 (1bfd9c6)
 * More Armor is now considered proper Armor! (#80701)
-
-Cataclysm-DDA experimental build 2025-04-25-1624 (17796f5)
 * item subtypes: GENERIC, TOOL (#80703)
 * Infrastructure/Mods: Add is_chargeable search term for search_data (#80693)
 * [alt-map-key] Taking over as maintainer (#80683)
@@ -144,6 +145,5 @@ Cataclysm-DDA experimental build 2025-04-25-1624 (17796f5)
 * Ban alcohol from camp larder (#80628)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#80624)
 * Routine i18n updates on 19 April 2025 (#80626)
-* Use of pre-increment/decrement operators for iterators (#80617)
 * [Xedra Evolved] Vampires gain greater static bonuses from traits (#80621)
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency (#80622)

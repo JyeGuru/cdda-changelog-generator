@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-01-0530 ([056b3ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-0530))
+
+* [ Bombastic Perks ] Make myself the maintainer ([#80778](https://github.com/CleverRaven/Cataclysm-DDA/pull/80778))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-01-0238 ([ac1b220](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-0238))
 
 * Routine tileset updates on 01 May 2025 ([#80779](https://github.com/CleverRaven/Cataclysm-DDA/pull/80779))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-04-25-1853 ([1bfd9c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-1853))
 
 * More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-25-1624 ([17796f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-25-1624))
-
 * item subtypes: GENERIC, TOOL ([#80703](https://github.com/CleverRaven/Cataclysm-DDA/pull/80703))
 * Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
 * [alt-map-key] Taking over as maintainer ([#80683](https://github.com/CleverRaven/Cataclysm-DDA/pull/80683))
@@ -231,6 +232,5 @@
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
 * Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))
-* Use of pre-increment/decrement operators for iterators ([#80617](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617))
 * [Xedra Evolved] Vampires gain greater static bonuses from traits ([#80621](https://github.com/CleverRaven/Cataclysm-DDA/pull/80621))
 * [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))
