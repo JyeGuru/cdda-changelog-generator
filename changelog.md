@@ -1,3 +1,4 @@
+* Silence keg dispensing ([#80784](https://github.com/CleverRaven/Cataclysm-DDA/pull/80784))
 
 ---
 
@@ -232,4 +233,3 @@
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
 * Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))
-* [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency ([#80622](https://github.com/CleverRaven/Cataclysm-DDA/pull/80622))

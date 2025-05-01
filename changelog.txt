@@ -1,3 +1,4 @@
+* Silence keg dispensing (#80784)
 
 Cataclysm-DDA experimental build 2025-05-01-2115 (a2660f7)
 * Obsolete Stats through Skills (#80780)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-04-26-0249 (a13dd2e)
 * Ban alcohol from camp larder (#80628)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#80624)
 * Routine i18n updates on 19 April 2025 (#80626)
-* [MoM] Itzcuauhtli Corps Liaison has Expert Concentration Proficiency (#80622)
