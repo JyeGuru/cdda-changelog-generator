@@ -1,3 +1,10 @@
+* [MoM/Magiclysm/XE/Sky Island] The powers of the Warp do not like you trying to teleport past the rules ([#80785](https://github.com/CleverRaven/Cataclysm-DDA/pull/80785))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-02-2242 ([846d567](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-02-2242))
+
+* Disable crafting volume restrictions for faction and construction cra… ([#80794](https://github.com/CleverRaven/Cataclysm-DDA/pull/80794))
 
 ---
 
@@ -183,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-04-26-1937 ([7fca25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-1937))
 
 * Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 ([#80726](https://github.com/CleverRaven/Cataclysm-DDA/pull/80726))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-26-0658 ([afc0c22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-0658))
-
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD ([#80716](https://github.com/CleverRaven/Cataclysm-DDA/pull/80716))
 * put vehicles inbound ([#80642](https://github.com/CleverRaven/Cataclysm-DDA/pull/80642))
 * Enable autonotes for favorites inside containers ([#80708](https://github.com/CleverRaven/Cataclysm-DDA/pull/80708))
@@ -228,8 +230,6 @@
 * [Magiclysm] Add `max_duration` to most effects ([#80637](https://github.com/CleverRaven/Cataclysm-DDA/pull/80637))
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
-* generic_factory composite for Item_factory ([#80623](https://github.com/CleverRaven/Cataclysm-DDA/pull/80623))
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
-* Update the table of contents in doc/JSON/JSON_INFO.md ([#80624](https://github.com/CleverRaven/Cataclysm-DDA/pull/80624))
 * Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))

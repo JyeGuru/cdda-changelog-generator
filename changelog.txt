@@ -1,3 +1,7 @@
+* [MoM/Magiclysm/XE/Sky Island] The powers of the Warp do not like you trying to teleport past the rules (#80785)
+
+Cataclysm-DDA experimental build 2025-05-02-2242 (846d567)
+* Disable crafting volume restrictions for faction and construction cra… (#80794)
 
 Cataclysm-DDA experimental build 2025-05-01-2334 (68ab4ea)
 * Silence keg dispensing (#80784)
@@ -99,8 +103,6 @@ Cataclysm-DDA experimental build 2025-04-26-2155 (852a114)
 
 Cataclysm-DDA experimental build 2025-04-26-1937 (7fca25b)
 * Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 (#80726)
-
-Cataclysm-DDA experimental build 2025-04-26-0658 (afc0c22)
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD (#80716)
 * put vehicles inbound (#80642)
 * Enable autonotes for favorites inside containers (#80708)
@@ -141,8 +143,6 @@ Cataclysm-DDA experimental build 2025-04-26-0658 (afc0c22)
 * [Magiclysm] Add `max_duration` to most effects (#80637)
 * [XEDRA Evolved] Deduction skill description (#80638)
 * Fix IS_WINDOWS_HOST assignment in Makefile (#80636)
-* generic_factory composite for Item_factory (#80623)
 * Fix different iterator types (#80632)
 * Ban alcohol from camp larder (#80628)
-* Update the table of contents in doc/JSON/JSON_INFO.md (#80624)
 * Routine i18n updates on 19 April 2025 (#80626)
