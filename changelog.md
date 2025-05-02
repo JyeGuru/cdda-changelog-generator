@@ -1,3 +1,5 @@
+* Add canola stalks drying ([#80789](https://github.com/CleverRaven/Cataclysm-DDA/pull/80789))
+* Fix incorrect damage values for compound bow (high/low) ([#80787](https://github.com/CleverRaven/Cataclysm-DDA/pull/80787))
 * [MoM/Magiclysm/XE/Sky Island] The powers of the Warp do not like you trying to teleport past the rules ([#80785](https://github.com/CleverRaven/Cataclysm-DDA/pull/80785))
 
 ---
@@ -232,4 +234,3 @@
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
 * Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
-* Routine i18n updates on 19 April 2025 ([#80626](https://github.com/CleverRaven/Cataclysm-DDA/pull/80626))
