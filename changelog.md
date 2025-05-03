@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-03-0635 ([95f93a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-03-0635))
+
+* actual back berm for shooting range ([#80788](https://github.com/CleverRaven/Cataclysm-DDA/pull/80788))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-03-0131 ([6002484](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-03-0131))
 
 * vitamin C fragment ([#80792](https://github.com/CleverRaven/Cataclysm-DDA/pull/80792))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-04-27-0017 ([0ba65da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-0017))
 
 * update the flag of sourdough bread from Nuitient-override to EDIBLE_F… ([#80723](https://github.com/CleverRaven/Cataclysm-DDA/pull/80723))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-26-2155 ([852a114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-2155))
-
 * Diversify Skills in the NECR ([#80691](https://github.com/CleverRaven/Cataclysm-DDA/pull/80691))
 * Minor tweaks in fault stuff ([#80634](https://github.com/CleverRaven/Cataclysm-DDA/pull/80634))
 * [MoM] Perfected Motion is now concentration ([#80718](https://github.com/CleverRaven/Cataclysm-DDA/pull/80718))

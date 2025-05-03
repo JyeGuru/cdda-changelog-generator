@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-03-0635 (95f93a7)
+* actual back berm for shooting range (#80788)
+
 Cataclysm-DDA experimental build 2025-05-03-0131 (6002484)
 * vitamin C fragment (#80792)
 * Add canola stalks drying (#80789)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2025-04-27-0223 (5660fba)
 
 Cataclysm-DDA experimental build 2025-04-27-0017 (0ba65da)
 * update the flag of sourdough bread from Nuitient-override to EDIBLE_F… (#80723)
-
-Cataclysm-DDA experimental build 2025-04-26-2155 (852a114)
 * Diversify Skills in the NECR (#80691)
 * Minor tweaks in fault stuff (#80634)
 * [MoM] Perfected Motion is now concentration (#80718)
