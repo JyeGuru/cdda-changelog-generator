@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-03-0131 ([6002484](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-03-0131))
+
+* vitamin C fragment ([#80792](https://github.com/CleverRaven/Cataclysm-DDA/pull/80792))
 * Add canola stalks drying ([#80789](https://github.com/CleverRaven/Cataclysm-DDA/pull/80789))
 * Fix incorrect damage values for compound bow (high/low) ([#80787](https://github.com/CleverRaven/Cataclysm-DDA/pull/80787))
 * [MoM/Magiclysm/XE/Sky Island] The powers of the Warp do not like you trying to teleport past the rules ([#80785](https://github.com/CleverRaven/Cataclysm-DDA/pull/80785))
@@ -186,11 +192,6 @@
 * [MoM] Perfected Motion is now concentration ([#80718](https://github.com/CleverRaven/Cataclysm-DDA/pull/80718))
 * Aftershock: Bugfix Last dance Scenario ([#80719](https://github.com/CleverRaven/Cataclysm-DDA/pull/80719))
 * Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-26-1937 ([7fca25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-26-1937))
-
 * Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 ([#80726](https://github.com/CleverRaven/Cataclysm-DDA/pull/80726))
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD ([#80716](https://github.com/CleverRaven/Cataclysm-DDA/pull/80716))
 * put vehicles inbound ([#80642](https://github.com/CleverRaven/Cataclysm-DDA/pull/80642))
@@ -233,4 +234,3 @@
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
 * Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
-* Ban alcohol from camp larder ([#80628](https://github.com/CleverRaven/Cataclysm-DDA/pull/80628))
