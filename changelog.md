@@ -1,3 +1,4 @@
+* blacklist bone_tainted ([#80818](https://github.com/CleverRaven/Cataclysm-DDA/pull/80818))
 
 ---
 

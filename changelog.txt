@@ -1,3 +1,4 @@
+* blacklist bone_tainted (#80818)
 
 Cataclysm-DDA experimental build 2025-05-04-1607 (5b56bfe)
 * [XEDRA] Chronomancer Updates / Additions (#80806)
