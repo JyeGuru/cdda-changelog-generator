@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-04-0528 ([4b5a073](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-0528))
+
+* Mics changes in faults ([#80783](https://github.com/CleverRaven/Cataclysm-DDA/pull/80783))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-03-0635 ([95f93a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-03-0635))
 
 * actual back berm for shooting range ([#80788](https://github.com/CleverRaven/Cataclysm-DDA/pull/80788))
@@ -182,11 +188,6 @@
 * Adds a small supply of icons with the traders from NECR ([#80692](https://github.com/CleverRaven/Cataclysm-DDA/pull/80692))
 * Item subtypes: BIONIC_ITEM ([#80727](https://github.com/CleverRaven/Cataclysm-DDA/pull/80727))
 * Add myself (-Kray4000) to comment-commands list ([#80728](https://github.com/CleverRaven/Cataclysm-DDA/pull/80728))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-27-0017 ([0ba65da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-0017))
-
 * update the flag of sourdough bread from Nuitient-override to EDIBLE_F… ([#80723](https://github.com/CleverRaven/Cataclysm-DDA/pull/80723))
 * Diversify Skills in the NECR ([#80691](https://github.com/CleverRaven/Cataclysm-DDA/pull/80691))
 * Minor tweaks in fault stuff ([#80634](https://github.com/CleverRaven/Cataclysm-DDA/pull/80634))
@@ -234,4 +235,3 @@
 * [Magiclysm] Add `max_duration` to most effects ([#80637](https://github.com/CleverRaven/Cataclysm-DDA/pull/80637))
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
-* Fix different iterator types ([#80632](https://github.com/CleverRaven/Cataclysm-DDA/pull/80632))
