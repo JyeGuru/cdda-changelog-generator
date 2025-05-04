@@ -1,3 +1,6 @@
+* Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong (#80808)
+* Obsolete grip mods (#80798)
+* [MoM] Fix crafting contemplation recipes your followers know (#80814)
 * blacklist bone_tainted (#80818)
 
 Cataclysm-DDA experimental build 2025-05-04-1607 (5b56bfe)
@@ -146,6 +149,3 @@ Cataclysm-DDA experimental build 2025-04-27-1656 (bf9bffc)
 * [Xedra Evolved] Implemented Enervated blood level for dhampirs (#80660)
 * [Xedra Evolved] Add design docs for easier collaboration (#80647)
 * fixes some Caotel ammo copy-from (#80653)
-* [Magiclysm] Add `max_duration` to most effects (#80637)
-* [XEDRA Evolved] Deduction skill description (#80638)
-* Fix IS_WINDOWS_HOST assignment in Makefile (#80636)
