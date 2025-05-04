@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-04-1838 (b5500f2)
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong (#80808)
 * Obsolete grip mods (#80798)
 * [MoM] Fix crafting contemplation recipes your followers know (#80814)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2025-04-28-0454 (532d4e4)
 
 Cataclysm-DDA experimental build 2025-04-27-2321 (ee5fe8a)
 * [alt-map-key] Adding Mod tiles (#80736)
-
-Cataclysm-DDA experimental build 2025-04-27-1656 (bf9bffc)
 * [MoM] Fix two bugs (#80730)
 * Standardize speedway road color (#80731)
 * [Mods] Update and expand some special vision IDs (#80696)

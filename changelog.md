@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-04-1838 ([b5500f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-1838))
+
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong ([#80808](https://github.com/CleverRaven/Cataclysm-DDA/pull/80808))
 * Obsolete grip mods ([#80798](https://github.com/CleverRaven/Cataclysm-DDA/pull/80798))
 * [MoM] Fix crafting contemplation recipes your followers know ([#80814](https://github.com/CleverRaven/Cataclysm-DDA/pull/80814))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-04-27-2321 ([ee5fe8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-2321))
 
 * [alt-map-key] Adding Mod tiles ([#80736](https://github.com/CleverRaven/Cataclysm-DDA/pull/80736))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-27-1656 ([bf9bffc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-1656))
-
 * [MoM] Fix two bugs ([#80730](https://github.com/CleverRaven/Cataclysm-DDA/pull/80730))
 * Standardize speedway road color ([#80731](https://github.com/CleverRaven/Cataclysm-DDA/pull/80731))
 * [Mods] Update and expand some special vision IDs ([#80696](https://github.com/CleverRaven/Cataclysm-DDA/pull/80696))
