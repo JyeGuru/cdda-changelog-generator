@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-04-1607 (5b56bfe)
 * [XEDRA] Chronomancer Updates / Additions (#80806)
 
 Cataclysm-DDA experimental build 2025-05-04-1354 (63acb1a)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-04-27-2321 (ee5fe8a)
 
 Cataclysm-DDA experimental build 2025-04-27-1656 (bf9bffc)
 * [MoM] Fix two bugs (#80730)
-
-Cataclysm-DDA experimental build 2025-04-27-1433 (3116bd8)
 * Standardize speedway road color (#80731)
 * [Mods] Update and expand some special vision IDs (#80696)
 * Adds a small supply of icons with the traders from NECR (#80692)

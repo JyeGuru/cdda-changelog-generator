@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-04-1607 ([5b56bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-1607))
+
 * [XEDRA] Chronomancer Updates / Additions ([#80806](https://github.com/CleverRaven/Cataclysm-DDA/pull/80806))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-04-27-1656 ([bf9bffc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-1656))
 
 * [MoM] Fix two bugs ([#80730](https://github.com/CleverRaven/Cataclysm-DDA/pull/80730))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-27-1433 ([3116bd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-1433))
-
 * Standardize speedway road color ([#80731](https://github.com/CleverRaven/Cataclysm-DDA/pull/80731))
 * [Mods] Update and expand some special vision IDs ([#80696](https://github.com/CleverRaven/Cataclysm-DDA/pull/80696))
 * Adds a small supply of icons with the traders from NECR ([#80692](https://github.com/CleverRaven/Cataclysm-DDA/pull/80692))
