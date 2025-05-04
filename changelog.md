@@ -1,3 +1,10 @@
+* [XEDRA] Chronomancer Updates / Additions ([#80806](https://github.com/CleverRaven/Cataclysm-DDA/pull/80806))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-04-1354 ([63acb1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-1354))
+
+* Adjust Hitman Profession ([#80813](https://github.com/CleverRaven/Cataclysm-DDA/pull/80813))
 
 ---
 
@@ -179,18 +186,12 @@
 #### Cataclysm-DDA experimental build 2025-04-27-1433 ([3116bd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-1433))
 
 * Standardize speedway road color ([#80731](https://github.com/CleverRaven/Cataclysm-DDA/pull/80731))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-27-0223 ([5660fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-0223))
-
 * [Mods] Update and expand some special vision IDs ([#80696](https://github.com/CleverRaven/Cataclysm-DDA/pull/80696))
 * Adds a small supply of icons with the traders from NECR ([#80692](https://github.com/CleverRaven/Cataclysm-DDA/pull/80692))
 * Item subtypes: BIONIC_ITEM ([#80727](https://github.com/CleverRaven/Cataclysm-DDA/pull/80727))
 * Add myself (-Kray4000) to comment-commands list ([#80728](https://github.com/CleverRaven/Cataclysm-DDA/pull/80728))
 * update the flag of sourdough bread from Nuitient-override to EDIBLE_F… ([#80723](https://github.com/CleverRaven/Cataclysm-DDA/pull/80723))
 * Diversify Skills in the NECR ([#80691](https://github.com/CleverRaven/Cataclysm-DDA/pull/80691))
-* Minor tweaks in fault stuff ([#80634](https://github.com/CleverRaven/Cataclysm-DDA/pull/80634))
 * [MoM] Perfected Motion is now concentration ([#80718](https://github.com/CleverRaven/Cataclysm-DDA/pull/80718))
 * Aftershock: Bugfix Last dance Scenario ([#80719](https://github.com/CleverRaven/Cataclysm-DDA/pull/80719))
 * Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
@@ -231,7 +232,6 @@
 * [Xedra Evolved] Implemented Enervated blood level for dhampirs ([#80660](https://github.com/CleverRaven/Cataclysm-DDA/pull/80660))
 * [Xedra Evolved] Add design docs for easier collaboration ([#80647](https://github.com/CleverRaven/Cataclysm-DDA/pull/80647))
 * fixes some Caotel ammo copy-from ([#80653](https://github.com/CleverRaven/Cataclysm-DDA/pull/80653))
-* Remove unnecessary const modifiers from function parameters ([#80633](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633))
 * [Magiclysm] Add `max_duration` to most effects ([#80637](https://github.com/CleverRaven/Cataclysm-DDA/pull/80637))
 * [XEDRA Evolved] Deduction skill description ([#80638](https://github.com/CleverRaven/Cataclysm-DDA/pull/80638))
 * Fix IS_WINDOWS_HOST assignment in Makefile ([#80636](https://github.com/CleverRaven/Cataclysm-DDA/pull/80636))
