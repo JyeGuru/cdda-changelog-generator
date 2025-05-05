@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-05-0422 (9f0f4b6)
+* [alt-map-key] Change all keys to capital letters and remove inverted coloring (#80805)
+
 Cataclysm-DDA experimental build 2025-05-04-1838 (b5500f2)
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong (#80808)
 * Obsolete grip mods (#80798)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2025-04-28-0710 (f6bdbd5)
 
 Cataclysm-DDA experimental build 2025-04-28-0454 (532d4e4)
 * Fix golf counters & laundromat items spawning in walls (#80742)
-
-Cataclysm-DDA experimental build 2025-04-27-2321 (ee5fe8a)
 * [alt-map-key] Adding Mod tiles (#80736)
 * [MoM] Fix two bugs (#80730)
 * Standardize speedway road color (#80731)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-04-27-2321 (ee5fe8a)
 * Fix WearMan (#80665)
 * [MoM] Exclude UPS from Electron Overflow (#80667)
 * Move more gameplay options to externals (#80640)
-* Adjust world sliders for actually different gameplay experiences (#80639)
 * Add mod src info to effect info (#80650)
 * Weekly Changelog 2025-04-14 to 2025-04-21 (#80651)
 * [Sky Island] Add custom SI jabberwocks to prevent infighting (#80661)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-05-0422 ([9f0f4b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-0422))
+
+* [alt-map-key] Change all keys to capital letters and remove inverted coloring ([#80805](https://github.com/CleverRaven/Cataclysm-DDA/pull/80805))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-04-1838 ([b5500f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-1838))
 
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong ([#80808](https://github.com/CleverRaven/Cataclysm-DDA/pull/80808))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-04-28-0454 ([532d4e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-0454))
 
 * Fix golf counters & laundromat items spawning in walls ([#80742](https://github.com/CleverRaven/Cataclysm-DDA/pull/80742))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-27-2321 ([ee5fe8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-27-2321))
-
 * [alt-map-key] Adding Mod tiles ([#80736](https://github.com/CleverRaven/Cataclysm-DDA/pull/80736))
 * [MoM] Fix two bugs ([#80730](https://github.com/CleverRaven/Cataclysm-DDA/pull/80730))
 * Standardize speedway road color ([#80731](https://github.com/CleverRaven/Cataclysm-DDA/pull/80731))
@@ -226,7 +227,6 @@
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
 * [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
 * Move more gameplay options to externals ([#80640](https://github.com/CleverRaven/Cataclysm-DDA/pull/80640))
-* Adjust world sliders for actually different gameplay experiences ([#80639](https://github.com/CleverRaven/Cataclysm-DDA/pull/80639))
 * Add mod src info to effect info ([#80650](https://github.com/CleverRaven/Cataclysm-DDA/pull/80650))
 * Weekly Changelog 2025-04-14 to 2025-04-21 ([#80651](https://github.com/CleverRaven/Cataclysm-DDA/pull/80651))
 * [Sky Island] Add custom SI jabberwocks to prevent infighting ([#80661](https://github.com/CleverRaven/Cataclysm-DDA/pull/80661))
