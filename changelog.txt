@@ -1,3 +1,5 @@
+* [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant (#80827)
+* bombasticperks: convert words to variables (where possible) (#80819)
 
 Cataclysm-DDA experimental build 2025-05-05-1930 (ec5be2e)
 * Weekly Changelog 2025-04-28 to 2025-05-05 (#80828)
@@ -143,6 +145,4 @@ Cataclysm-DDA experimental build 2025-04-28-1459 (7574354)
 * Fix code typo (#80672)
 * Fix WearMan (#80665)
 * [MoM] Exclude UPS from Electron Overflow (#80667)
-* [Sky Island] Add custom SI jabberwocks to prevent infighting (#80661)
 * Item subtypes: BREWABLE, COMPOSTABLE, MILLING, SEED, ENGINE, WHEEL (#80666)
-* [Xedra Evolved] Implemented Enervated blood level for dhampirs (#80660)
