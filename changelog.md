@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-05-0652 ([068fcf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-0652))
+
 * Added swap_map to safeguard temporary map access ([#80782](https://github.com/CleverRaven/Cataclysm-DDA/pull/80782))
 
 ---
@@ -183,11 +188,6 @@
 
 * Fix house_05 basement ([#80741](https://github.com/CleverRaven/Cataclysm-DDA/pull/80741))
 * fix moose zombie + reindeer fawn ([#80733](https://github.com/CleverRaven/Cataclysm-DDA/pull/80733))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-28-0454 ([532d4e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-0454))
-
 * Fix golf counters & laundromat items spawning in walls ([#80742](https://github.com/CleverRaven/Cataclysm-DDA/pull/80742))
 * [alt-map-key] Adding Mod tiles ([#80736](https://github.com/CleverRaven/Cataclysm-DDA/pull/80736))
 * [MoM] Fix two bugs ([#80730](https://github.com/CleverRaven/Cataclysm-DDA/pull/80730))
