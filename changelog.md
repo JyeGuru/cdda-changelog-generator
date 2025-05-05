@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-05-0918 ([bd33c12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-0918))
+
 * Routine i18n updates on 03 May 2025 ([#80802](https://github.com/CleverRaven/Cataclysm-DDA/pull/80802))
 * [MoM] Change the difficulty of all contemplation recipes to 0 ([#80822](https://github.com/CleverRaven/Cataclysm-DDA/pull/80822))
 * [alt-map-key] In game mod description update ([#80817](https://github.com/CleverRaven/Cataclysm-DDA/pull/80817))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-04-28-0936 ([d64db9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-0936))
 
 * Fix .57 gunmod weird wording ([#80698](https://github.com/CleverRaven/Cataclysm-DDA/pull/80698))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-28-0710 ([f6bdbd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-0710))
-
 * Fix house_05 basement ([#80741](https://github.com/CleverRaven/Cataclysm-DDA/pull/80741))
 * fix moose zombie + reindeer fawn ([#80733](https://github.com/CleverRaven/Cataclysm-DDA/pull/80733))
 * Fix golf counters & laundromat items spawning in walls ([#80742](https://github.com/CleverRaven/Cataclysm-DDA/pull/80742))

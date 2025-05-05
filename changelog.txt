@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-05-0918 (bd33c12)
 * Routine i18n updates on 03 May 2025 (#80802)
 * [MoM] Change the difficulty of all contemplation recipes to 0 (#80822)
 * [alt-map-key] In game mod description update (#80817)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-04-28-1224 (914a21f)
 
 Cataclysm-DDA experimental build 2025-04-28-0936 (d64db9c)
 * Fix .57 gunmod weird wording (#80698)
-
-Cataclysm-DDA experimental build 2025-04-28-0710 (f6bdbd5)
 * Fix house_05 basement (#80741)
 * fix moose zombie + reindeer fawn (#80733)
 * Fix golf counters & laundromat items spawning in walls (#80742)
