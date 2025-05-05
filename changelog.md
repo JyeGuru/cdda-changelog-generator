@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-05-2217 ([ea1644d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-2217))
+
 * [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant ([#80827](https://github.com/CleverRaven/Cataclysm-DDA/pull/80827))
 * bombasticperks: convert words to variables (where possible) ([#80819](https://github.com/CleverRaven/Cataclysm-DDA/pull/80819))
 
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-04-28-2149 ([e7513ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-2149))
 
 * Item_factory subtype clean-up  ([#80738](https://github.com/CleverRaven/Cataclysm-DDA/pull/80738))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-28-1459 ([7574354](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-1459))
-
 * Remove camouflage from 'A shadow?' ([#80746](https://github.com/CleverRaven/Cataclysm-DDA/pull/80746))
 * Add myself to reviewers for alt_map_key and overmap_terrain folder ([#80734](https://github.com/CleverRaven/Cataclysm-DDA/pull/80734))
 * Fix game warning over 'stale data' on achievements json ([#80707](https://github.com/CleverRaven/Cataclysm-DDA/pull/80707))
