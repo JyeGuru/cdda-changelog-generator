@@ -1,3 +1,5 @@
+* Standardize query_int() ([#80803](https://github.com/CleverRaven/Cataclysm-DDA/pull/80803))
+* Change fov_3d_z_range to 10 ([#80797](https://github.com/CleverRaven/Cataclysm-DDA/pull/80797))
 
 ---
 
@@ -203,14 +205,12 @@
 * Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
 * Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 ([#80726](https://github.com/CleverRaven/Cataclysm-DDA/pull/80726))
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD ([#80716](https://github.com/CleverRaven/Cataclysm-DDA/pull/80716))
-* put vehicles inbound ([#80642](https://github.com/CleverRaven/Cataclysm-DDA/pull/80642))
 * Enable autonotes for favorites inside containers ([#80708](https://github.com/CleverRaven/Cataclysm-DDA/pull/80708))
 * Break up/refactor the shadow singularity's EOCs ([#80712](https://github.com/CleverRaven/Cataclysm-DDA/pull/80712))
 * More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
 * item subtypes: GENERIC, TOOL ([#80703](https://github.com/CleverRaven/Cataclysm-DDA/pull/80703))
 * Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
 * [alt-map-key] Taking over as maintainer ([#80683](https://github.com/CleverRaven/Cataclysm-DDA/pull/80683))
-* Steel update ([#80646](https://github.com/CleverRaven/Cataclysm-DDA/pull/80646))
 * Update bunker.json to eliminate airgap in basement ([#80687](https://github.com/CleverRaven/Cataclysm-DDA/pull/80687))
 * Manually define electronic faults in item def ([#80671](https://github.com/CleverRaven/Cataclysm-DDA/pull/80671))
 * [Xedra Evolved] Add more vampire tier 1 and 3 traits ([#80685](https://github.com/CleverRaven/Cataclysm-DDA/pull/80685))
