@@ -1,3 +1,5 @@
+* Add "in use" info to item's name and info if item has "activity_var" var. ([#80770](https://github.com/CleverRaven/Cataclysm-DDA/pull/80770))
+* math: rewrite tokenizer ([#80795](https://github.com/CleverRaven/Cataclysm-DDA/pull/80795))
 * Standardize query_int() ([#80803](https://github.com/CleverRaven/Cataclysm-DDA/pull/80803))
 * Change fov_3d_z_range to 10 ([#80797](https://github.com/CleverRaven/Cataclysm-DDA/pull/80797))
 
@@ -227,12 +229,10 @@
 * Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
 * [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
-* Add mod src info to effect info ([#80650](https://github.com/CleverRaven/Cataclysm-DDA/pull/80650))
 * Weekly Changelog 2025-04-14 to 2025-04-21 ([#80651](https://github.com/CleverRaven/Cataclysm-DDA/pull/80651))
 * [Sky Island] Add custom SI jabberwocks to prevent infighting ([#80661](https://github.com/CleverRaven/Cataclysm-DDA/pull/80661))
 * Extract few monster names from mapgen ([#80658](https://github.com/CleverRaven/Cataclysm-DDA/pull/80658))
 * Make Yugg Sting true random ([#80659](https://github.com/CleverRaven/Cataclysm-DDA/pull/80659))
 * Item subtypes: BREWABLE, COMPOSTABLE, MILLING, SEED, ENGINE, WHEEL ([#80666](https://github.com/CleverRaven/Cataclysm-DDA/pull/80666))
 * [Xedra Evolved] Implemented Enervated blood level for dhampirs ([#80660](https://github.com/CleverRaven/Cataclysm-DDA/pull/80660))
-* [Xedra Evolved] Add design docs for easier collaboration ([#80647](https://github.com/CleverRaven/Cataclysm-DDA/pull/80647))
 * fixes some Caotel ammo copy-from ([#80653](https://github.com/CleverRaven/Cataclysm-DDA/pull/80653))
