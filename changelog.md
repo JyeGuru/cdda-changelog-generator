@@ -1,3 +1,4 @@
+* Routine i18n updates on 03 May 2025 ([#80802](https://github.com/CleverRaven/Cataclysm-DDA/pull/80802))
 * [MoM] Change the difficulty of all contemplation recipes to 0 ([#80822](https://github.com/CleverRaven/Cataclysm-DDA/pull/80822))
 * [alt-map-key] In game mod description update ([#80817](https://github.com/CleverRaven/Cataclysm-DDA/pull/80817))
 * Add "in use" info to item's name and info if item has "activity_var" var. ([#80770](https://github.com/CleverRaven/Cataclysm-DDA/pull/80770))
@@ -221,7 +222,6 @@
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR ([#80688](https://github.com/CleverRaven/Cataclysm-DDA/pull/80688))
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) ([#80689](https://github.com/CleverRaven/Cataclysm-DDA/pull/80689))
 * Fix Corrie Kaja Dosia (From NECR/GODCO) ([#80690](https://github.com/CleverRaven/Cataclysm-DDA/pull/80690))
-* [XE] Update the new design document to include the Vampiric Anathema & the cryptids. ([#80657](https://github.com/CleverRaven/Cataclysm-DDA/pull/80657))
 * remove u_lose_faction_trust ([#80669](https://github.com/CleverRaven/Cataclysm-DDA/pull/80669))
 * [MoM] Rework Neural Spasms ([#80676](https://github.com/CleverRaven/Cataclysm-DDA/pull/80676))
 * Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` ([#80678](https://github.com/CleverRaven/Cataclysm-DDA/pull/80678))
