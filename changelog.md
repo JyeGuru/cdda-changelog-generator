@@ -227,7 +227,6 @@
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
 * [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
 * [Sky Island] Add custom SI jabberwocks to prevent infighting ([#80661](https://github.com/CleverRaven/Cataclysm-DDA/pull/80661))
-* Extract few monster names from mapgen ([#80658](https://github.com/CleverRaven/Cataclysm-DDA/pull/80658))
 * Make Yugg Sting true random ([#80659](https://github.com/CleverRaven/Cataclysm-DDA/pull/80659))
 * Item subtypes: BREWABLE, COMPOSTABLE, MILLING, SEED, ENGINE, WHEEL ([#80666](https://github.com/CleverRaven/Cataclysm-DDA/pull/80666))
 * [Xedra Evolved] Implemented Enervated blood level for dhampirs ([#80660](https://github.com/CleverRaven/Cataclysm-DDA/pull/80660))
