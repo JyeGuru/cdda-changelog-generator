@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-05-1930 ([ec5be2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-1930))
+
+* Weekly Changelog 2025-04-28 to 2025-05-05 ([#80828](https://github.com/CleverRaven/Cataclysm-DDA/pull/80828))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-05-0918 ([bd33c12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-0918))
 
 * Routine i18n updates on 03 May 2025 ([#80802](https://github.com/CleverRaven/Cataclysm-DDA/pull/80802))
@@ -181,11 +187,6 @@
 
 * Remove camouflage from 'A shadow?' ([#80746](https://github.com/CleverRaven/Cataclysm-DDA/pull/80746))
 * Add myself to reviewers for alt_map_key and overmap_terrain folder ([#80734](https://github.com/CleverRaven/Cataclysm-DDA/pull/80734))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-28-1224 ([914a21f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-1224))
-
 * Fix game warning over 'stale data' on achievements json ([#80707](https://github.com/CleverRaven/Cataclysm-DDA/pull/80707))
 * Fix .57 gunmod weird wording ([#80698](https://github.com/CleverRaven/Cataclysm-DDA/pull/80698))
 * Fix house_05 basement ([#80741](https://github.com/CleverRaven/Cataclysm-DDA/pull/80741))
@@ -227,6 +228,5 @@
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
 * [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
 * [Sky Island] Add custom SI jabberwocks to prevent infighting ([#80661](https://github.com/CleverRaven/Cataclysm-DDA/pull/80661))
-* Make Yugg Sting true random ([#80659](https://github.com/CleverRaven/Cataclysm-DDA/pull/80659))
 * Item subtypes: BREWABLE, COMPOSTABLE, MILLING, SEED, ENGINE, WHEEL ([#80666](https://github.com/CleverRaven/Cataclysm-DDA/pull/80666))
 * [Xedra Evolved] Implemented Enervated blood level for dhampirs ([#80660](https://github.com/CleverRaven/Cataclysm-DDA/pull/80660))
