@@ -1,3 +1,4 @@
+* Added swap_map to safeguard temporary map access ([#80782](https://github.com/CleverRaven/Cataclysm-DDA/pull/80782))
 
 ---
 
@@ -226,7 +227,6 @@
 * Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
 * Fix WearMan ([#80665](https://github.com/CleverRaven/Cataclysm-DDA/pull/80665))
 * [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))
-* Move more gameplay options to externals ([#80640](https://github.com/CleverRaven/Cataclysm-DDA/pull/80640))
 * Add mod src info to effect info ([#80650](https://github.com/CleverRaven/Cataclysm-DDA/pull/80650))
 * Weekly Changelog 2025-04-14 to 2025-04-21 ([#80651](https://github.com/CleverRaven/Cataclysm-DDA/pull/80651))
 * [Sky Island] Add custom SI jabberwocks to prevent infighting ([#80661](https://github.com/CleverRaven/Cataclysm-DDA/pull/80661))
