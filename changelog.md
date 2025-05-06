@@ -1,3 +1,10 @@
+* [MoM] Dust used in contemplation recipes is drained, it doesn't vanish ([#80836](https://github.com/CleverRaven/Cataclysm-DDA/pull/80836))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-06-1449 ([5a8f6d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-1449))
+
+* [Infrastructure] Always Display Spell Tabs ([#80842](https://github.com/CleverRaven/Cataclysm-DDA/pull/80842))
 
 ---
 
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-04-29-1018 ([8ecd845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-1018))
 
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-29-0755 ([4b02f9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-0755))
-
 * Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
 * [Xedra Evolved] Add feral vampires, put them in house nests + caves ([#80739](https://github.com/CleverRaven/Cataclysm-DDA/pull/80739))
 * Item_factory subtype clean-up  ([#80738](https://github.com/CleverRaven/Cataclysm-DDA/pull/80738))
@@ -224,12 +226,10 @@
 * Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
 * [alt-map-key] Taking over as maintainer ([#80683](https://github.com/CleverRaven/Cataclysm-DDA/pull/80683))
 * Update bunker.json to eliminate airgap in basement ([#80687](https://github.com/CleverRaven/Cataclysm-DDA/pull/80687))
-* Manually define electronic faults in item def ([#80671](https://github.com/CleverRaven/Cataclysm-DDA/pull/80671))
 * [Xedra Evolved] Add more vampire tier 1 and 3 traits ([#80685](https://github.com/CleverRaven/Cataclysm-DDA/pull/80685))
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR ([#80688](https://github.com/CleverRaven/Cataclysm-DDA/pull/80688))
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) ([#80689](https://github.com/CleverRaven/Cataclysm-DDA/pull/80689))
 * Fix Corrie Kaja Dosia (From NECR/GODCO) ([#80690](https://github.com/CleverRaven/Cataclysm-DDA/pull/80690))
-* remove u_lose_faction_trust ([#80669](https://github.com/CleverRaven/Cataclysm-DDA/pull/80669))
 * [MoM] Rework Neural Spasms ([#80676](https://github.com/CleverRaven/Cataclysm-DDA/pull/80676))
 * Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` ([#80678](https://github.com/CleverRaven/Cataclysm-DDA/pull/80678))
 * [Xedra Evolved] Add Cloak of Shadows vampire power ([#80680](https://github.com/CleverRaven/Cataclysm-DDA/pull/80680))
