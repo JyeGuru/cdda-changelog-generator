@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-06-0717 (f985f87)
 * Stop setting small city dumps on fire (#80833)
 
 Cataclysm-DDA experimental build 2025-05-06-0336 (b6a0efa)

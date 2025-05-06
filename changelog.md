@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-06-0717 ([f985f87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-0717))
+
 * Stop setting small city dumps on fire ([#80833](https://github.com/CleverRaven/Cataclysm-DDA/pull/80833))
 
 ---
