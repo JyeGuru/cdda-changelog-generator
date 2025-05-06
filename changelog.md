@@ -1,3 +1,4 @@
+* Fix harvest_plant no product when not from_activity ([#80848](https://github.com/CleverRaven/Cataclysm-DDA/pull/80848))
 * math: implement dot operator for tripoints ([#80796](https://github.com/CleverRaven/Cataclysm-DDA/pull/80796))
 
 ---
@@ -233,6 +234,5 @@
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR ([#80688](https://github.com/CleverRaven/Cataclysm-DDA/pull/80688))
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) ([#80689](https://github.com/CleverRaven/Cataclysm-DDA/pull/80689))
 * Fix Corrie Kaja Dosia (From NECR/GODCO) ([#80690](https://github.com/CleverRaven/Cataclysm-DDA/pull/80690))
-* Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` ([#80678](https://github.com/CleverRaven/Cataclysm-DDA/pull/80678))
 * [Xedra Evolved] Add Cloak of Shadows vampire power ([#80680](https://github.com/CleverRaven/Cataclysm-DDA/pull/80680))
 * Item subtypes: BOOK, COMESTIBLE ([#80681](https://github.com/CleverRaven/Cataclysm-DDA/pull/80681))
