@@ -1,3 +1,5 @@
+* [Xedra Evolved] More hedge magic (#80815)
+* Replace Boston-Chan suit with a blazer variant (#80832)
 
 Cataclysm-DDA experimental build 2025-05-06-0109 (b8e49a6)
 * [Sky Island] Fix Tier One Bunker Crafting Recipes (#80830)
@@ -144,6 +146,4 @@ Cataclysm-DDA experimental build 2025-04-29-0251 (8ce3163)
 * Item subtypes: BOOK, COMESTIBLE (#80681)
 * Fix variable default overriding set values (#80674)
 * Fix code typo (#80672)
-* Fix WearMan (#80665)
 * [MoM] Exclude UPS from Electron Overflow (#80667)
-* Item subtypes: BREWABLE, COMPOSTABLE, MILLING, SEED, ENGINE, WHEEL (#80666)
