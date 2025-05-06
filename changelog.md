@@ -1,3 +1,10 @@
+* math: implement dot operator for tripoints ([#80796](https://github.com/CleverRaven/Cataclysm-DDA/pull/80796))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-06-2032 ([f1fdd47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-2032))
+
+* Don't set vat to empty when liquid is left in it ([#80847](https://github.com/CleverRaven/Cataclysm-DDA/pull/80847))
 
 ---
 
@@ -189,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-04-29-2342 ([3f666ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-2342))
 
 * revert unserialize_submap ([#80748](https://github.com/CleverRaven/Cataclysm-DDA/pull/80748))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-29-1248 ([57d5de2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-1248))
-
 * Bugfixes: Allow NPCs to use practice crafting recipes ([#80699](https://github.com/CleverRaven/Cataclysm-DDA/pull/80699))
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 * Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
@@ -231,8 +233,6 @@
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR ([#80688](https://github.com/CleverRaven/Cataclysm-DDA/pull/80688))
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) ([#80689](https://github.com/CleverRaven/Cataclysm-DDA/pull/80689))
 * Fix Corrie Kaja Dosia (From NECR/GODCO) ([#80690](https://github.com/CleverRaven/Cataclysm-DDA/pull/80690))
-* [MoM] Rework Neural Spasms ([#80676](https://github.com/CleverRaven/Cataclysm-DDA/pull/80676))
 * Monsters cannot perform `move_effects` if they have `CANNOT_MOVE` ([#80678](https://github.com/CleverRaven/Cataclysm-DDA/pull/80678))
 * [Xedra Evolved] Add Cloak of Shadows vampire power ([#80680](https://github.com/CleverRaven/Cataclysm-DDA/pull/80680))
 * Item subtypes: BOOK, COMESTIBLE ([#80681](https://github.com/CleverRaven/Cataclysm-DDA/pull/80681))
-* Fix variable default overriding set values ([#80674](https://github.com/CleverRaven/Cataclysm-DDA/pull/80674))
