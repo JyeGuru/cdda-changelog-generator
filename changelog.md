@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-06-0109 ([b8e49a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-0109))
+
+* [Sky Island] Fix Tier One Bunker Crafting Recipes ([#80830](https://github.com/CleverRaven/Cataclysm-DDA/pull/80830))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-05-2217 ([ea1644d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-2217))
 
 * [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant ([#80827](https://github.com/CleverRaven/Cataclysm-DDA/pull/80827))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-04-29-0251 ([8ce3163](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-0251))
 
 * [Xedra Evolved] Add feral vampires, put them in house nests + caves ([#80739](https://github.com/CleverRaven/Cataclysm-DDA/pull/80739))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-28-2149 ([e7513ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-28-2149))
-
 * Item_factory subtype clean-up  ([#80738](https://github.com/CleverRaven/Cataclysm-DDA/pull/80738))
 * Remove camouflage from 'A shadow?' ([#80746](https://github.com/CleverRaven/Cataclysm-DDA/pull/80746))
 * Add myself to reviewers for alt_map_key and overmap_terrain folder ([#80734](https://github.com/CleverRaven/Cataclysm-DDA/pull/80734))
