@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-05-06-1720 (0d23de6)
+* Start implementing item damage faults  (#80684)
 * [MoM] Dust used in contemplation recipes is drained, it doesn't vanish (#80836)
 
 Cataclysm-DDA experimental build 2025-05-06-1449 (5a8f6d6)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2025-04-29-2342 (3f666ba)
 
 Cataclysm-DDA experimental build 2025-04-29-1248 (57d5de2)
 * Bugfixes: Allow NPCs to use practice crafting recipes (#80699)
-
-Cataclysm-DDA experimental build 2025-04-29-1018 (8ecd845)
 * Port TLG#695 psychopaths don't enjoy playing with animals (#80757)
 * Removed wooden panel bash drop from Half Built wall (#80755)
 * [Xedra Evolved] Add feral vampires, put them in house nests + caves (#80739)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-04-29-1018 (8ecd845)
 * [Xedra Evolved] Add Cloak of Shadows vampire power (#80680)
 * Item subtypes: BOOK, COMESTIBLE (#80681)
 * Fix variable default overriding set values (#80674)
-* Fix code typo (#80672)

@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-06-1720 ([0d23de6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-1720))
+
+* Start implementing item damage faults  ([#80684](https://github.com/CleverRaven/Cataclysm-DDA/pull/80684))
 * [MoM] Dust used in contemplation recipes is drained, it doesn't vanish ([#80836](https://github.com/CleverRaven/Cataclysm-DDA/pull/80836))
 
 ---
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-04-29-1248 ([57d5de2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-1248))
 
 * Bugfixes: Allow NPCs to use practice crafting recipes ([#80699](https://github.com/CleverRaven/Cataclysm-DDA/pull/80699))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-29-1018 ([8ecd845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-1018))
-
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 * Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
 * [Xedra Evolved] Add feral vampires, put them in house nests + caves ([#80739](https://github.com/CleverRaven/Cataclysm-DDA/pull/80739))
@@ -235,4 +236,3 @@
 * [Xedra Evolved] Add Cloak of Shadows vampire power ([#80680](https://github.com/CleverRaven/Cataclysm-DDA/pull/80680))
 * Item subtypes: BOOK, COMESTIBLE ([#80681](https://github.com/CleverRaven/Cataclysm-DDA/pull/80681))
 * Fix variable default overriding set values ([#80674](https://github.com/CleverRaven/Cataclysm-DDA/pull/80674))
-* Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
