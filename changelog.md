@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-06-2336 ([659cddf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-2336))
+
 * Fix harvest_plant no product when not from_activity ([#80848](https://github.com/CleverRaven/Cataclysm-DDA/pull/80848))
 * math: implement dot operator for tripoints ([#80796](https://github.com/CleverRaven/Cataclysm-DDA/pull/80796))
 
@@ -191,11 +196,6 @@
 * Refactor riot damage + add 'pre-burnt' generator ([#80753](https://github.com/CleverRaven/Cataclysm-DDA/pull/80753))
 * [alt-map-key] Updating tile keys ([#80709](https://github.com/CleverRaven/Cataclysm-DDA/pull/80709))
 * Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-29-2342 ([3f666ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-29-2342))
-
 * revert unserialize_submap ([#80748](https://github.com/CleverRaven/Cataclysm-DDA/pull/80748))
 * Bugfixes: Allow NPCs to use practice crafting recipes ([#80699](https://github.com/CleverRaven/Cataclysm-DDA/pull/80699))
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))

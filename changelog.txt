@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-06-2336 (659cddf)
 * Fix harvest_plant no product when not from_activity (#80848)
 * math: implement dot operator for tripoints (#80796)
 
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-04-30-0218 (62ecd7b)
 * Refactor riot damage + add 'pre-burnt' generator (#80753)
 * [alt-map-key] Updating tile keys (#80709)
 * Removed spinning wheel variant recipes from cotton sheet recipe (#80760)
-
-Cataclysm-DDA experimental build 2025-04-29-2342 (3f666ba)
 * revert unserialize_submap (#80748)
 * Bugfixes: Allow NPCs to use practice crafting recipes (#80699)
 * Port TLG#695 psychopaths don't enjoy playing with animals (#80757)
