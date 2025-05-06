@@ -1,3 +1,4 @@
+* Stop setting small city dumps on fire ([#80833](https://github.com/CleverRaven/Cataclysm-DDA/pull/80833))
 
 ---
 
@@ -230,4 +231,3 @@
 * Item subtypes: BOOK, COMESTIBLE ([#80681](https://github.com/CleverRaven/Cataclysm-DDA/pull/80681))
 * Fix variable default overriding set values ([#80674](https://github.com/CleverRaven/Cataclysm-DDA/pull/80674))
 * Fix code typo ([#80672](https://github.com/CleverRaven/Cataclysm-DDA/pull/80672))
-* [MoM] Exclude UPS from Electron Overflow ([#80667](https://github.com/CleverRaven/Cataclysm-DDA/pull/80667))

@@ -1,3 +1,4 @@
+* Stop setting small city dumps on fire (#80833)
 
 Cataclysm-DDA experimental build 2025-05-06-0336 (b6a0efa)
 * [Xedra Evolved] More hedge magic (#80815)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-04-29-0755 (4b02f9a)
 * Item subtypes: BOOK, COMESTIBLE (#80681)
 * Fix variable default overriding set values (#80674)
 * Fix code typo (#80672)
-* [MoM] Exclude UPS from Electron Overflow (#80667)
