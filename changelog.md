@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-07-2031 ([ac19897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-07-2031))
+
+* [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
 * eoc: fix map_in_city and can_see_location ([#80845](https://github.com/CleverRaven/Cataclysm-DDA/pull/80845))
 
 ---
@@ -18,12 +24,6 @@
 #### Cataclysm-DDA experimental build 2025-05-06-2032 ([f1fdd47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-2032))
 
 * Don't set vat to empty when liquid is left in it ([#80847](https://github.com/CleverRaven/Cataclysm-DDA/pull/80847))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-06-1720 ([0d23de6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-1720))
-
-* Start implementing item damage faults  ([#80684](https://github.com/CleverRaven/Cataclysm-DDA/pull/80684))
 * [MoM] Dust used in contemplation recipes is drained, it doesn't vanish ([#80836](https://github.com/CleverRaven/Cataclysm-DDA/pull/80836))
 
 ---
@@ -172,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-04-30-1653 ([dbaab4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-30-1653))
 
 * Remove missed u_shotgun_mod refs ([#80765](https://github.com/CleverRaven/Cataclysm-DDA/pull/80765))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-30-1433 ([425c066](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-30-1433))
-
 * Fix sdl_mouse.h include ([#80769](https://github.com/CleverRaven/Cataclysm-DDA/pull/80769))
 * [alt-map-key] Updated README for cyan coloring of magical tiles ([#80767](https://github.com/CleverRaven/Cataclysm-DDA/pull/80767))
 * Remove 'Rural' setting from city size slider ([#80747](https://github.com/CleverRaven/Cataclysm-DDA/pull/80747))
