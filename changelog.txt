@@ -1,3 +1,7 @@
+* eoc: fix map_in_city and can_see_location (#80845)
+
+Cataclysm-DDA experimental build 2025-05-07-0505 (cd57ae0)
+* Aftershock: Integral Cryosuit boots (#80852)
 
 Cataclysm-DDA experimental build 2025-05-06-2336 (659cddf)
 * Fix harvest_plant no product when not from_activity (#80848)
@@ -103,8 +107,6 @@ Cataclysm-DDA experimental build 2025-04-30-0502 (dd2685e)
 * blacklist human bone temperature (#80764)
 * Remove legacy to-hit JSON (vanilla, all non-guns) (#80766)
 * Weekly Changelog 2025-04-21 to 2025-04-28 (#80744)
-
-Cataclysm-DDA experimental build 2025-04-30-0218 (62ecd7b)
 * [The Backrooms] Expand the Backrooms to multiple Z-levels, add stairs (#80697)
 * Refactor riot damage + add 'pre-burnt' generator (#80753)
 * [alt-map-key] Updating tile keys (#80709)
@@ -147,5 +149,3 @@ Cataclysm-DDA experimental build 2025-04-30-0218 (62ecd7b)
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR (#80688)
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) (#80689)
 * Fix Corrie Kaja Dosia (From NECR/GODCO) (#80690)
-* [Xedra Evolved] Add Cloak of Shadows vampire power (#80680)
-* Item subtypes: BOOK, COMESTIBLE (#80681)
