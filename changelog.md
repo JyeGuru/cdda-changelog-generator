@@ -220,7 +220,6 @@
 * More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
 * item subtypes: GENERIC, TOOL ([#80703](https://github.com/CleverRaven/Cataclysm-DDA/pull/80703))
 * Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
-* [alt-map-key] Taking over as maintainer ([#80683](https://github.com/CleverRaven/Cataclysm-DDA/pull/80683))
 * Update bunker.json to eliminate airgap in basement ([#80687](https://github.com/CleverRaven/Cataclysm-DDA/pull/80687))
 * [Xedra Evolved] Add more vampire tier 1 and 3 traits ([#80685](https://github.com/CleverRaven/Cataclysm-DDA/pull/80685))
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR ([#80688](https://github.com/CleverRaven/Cataclysm-DDA/pull/80688))
