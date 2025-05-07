@@ -97,8 +97,6 @@ Cataclysm-DDA experimental build 2025-04-30-1653 (dbaab4b)
 
 Cataclysm-DDA experimental build 2025-04-30-1433 (425c066)
 * Fix sdl_mouse.h include (#80769)
-
-Cataclysm-DDA experimental build 2025-04-30-0726 (3d391cc)
 * [alt-map-key] Updated README for cyan coloring of magical tiles (#80767)
 * Remove 'Rural' setting from city size slider (#80747)
 * Make milking a gradual transfer activity with an up front destination selection. (#80759)
