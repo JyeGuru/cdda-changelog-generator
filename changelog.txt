@@ -100,8 +100,6 @@ Cataclysm-DDA experimental build 2025-04-30-1433 (425c066)
 
 Cataclysm-DDA experimental build 2025-04-30-0726 (3d391cc)
 * [alt-map-key] Updated README for cyan coloring of magical tiles (#80767)
-
-Cataclysm-DDA experimental build 2025-04-30-0502 (dd2685e)
 * Remove 'Rural' setting from city size slider (#80747)
 * Make milking a gradual transfer activity with an up front destination selection. (#80759)
 * blacklist human bone temperature (#80764)
