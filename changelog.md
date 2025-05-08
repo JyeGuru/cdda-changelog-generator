@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-08-0418 ([f64ce85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-0418))
+
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-05-01-0530 ([056b3ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-0530))
 
 * [ Bombastic Perks ] Make myself the maintainer ([#80778](https://github.com/CleverRaven/Cataclysm-DDA/pull/80778))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-01-0238 ([ac1b220](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-0238))
-
 * Routine tileset updates on 01 May 2025 ([#80779](https://github.com/CleverRaven/Cataclysm-DDA/pull/80779))
 * Remove missed u_shotgun_mod refs ([#80765](https://github.com/CleverRaven/Cataclysm-DDA/pull/80765))
 * Fix sdl_mouse.h include ([#80769](https://github.com/CleverRaven/Cataclysm-DDA/pull/80769))
