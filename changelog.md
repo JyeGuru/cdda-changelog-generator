@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-08-0837 ([4c87254](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-0837))
+
+* converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-08-0418 ([f64ce85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-0418))
 
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
@@ -166,11 +172,6 @@
 
 * Translate coordinates correctly (and with more ease) ([#80773](https://github.com/CleverRaven/Cataclysm-DDA/pull/80773))
 * Try fix android build error ([#80777](https://github.com/CleverRaven/Cataclysm-DDA/pull/80777))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-01-0530 ([056b3ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-0530))
-
 * [ Bombastic Perks ] Make myself the maintainer ([#80778](https://github.com/CleverRaven/Cataclysm-DDA/pull/80778))
 * Routine tileset updates on 01 May 2025 ([#80779](https://github.com/CleverRaven/Cataclysm-DDA/pull/80779))
 * Remove missed u_shotgun_mod refs ([#80765](https://github.com/CleverRaven/Cataclysm-DDA/pull/80765))
@@ -217,6 +218,5 @@
 * More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
 * item subtypes: GENERIC, TOOL ([#80703](https://github.com/CleverRaven/Cataclysm-DDA/pull/80703))
 * Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
-* Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR ([#80688](https://github.com/CleverRaven/Cataclysm-DDA/pull/80688))
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) ([#80689](https://github.com/CleverRaven/Cataclysm-DDA/pull/80689))
 * Fix Corrie Kaja Dosia (From NECR/GODCO) ([#80690](https://github.com/CleverRaven/Cataclysm-DDA/pull/80690))
