@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-08-1053 (b1616b9)
 * add soccer as hobbies (#80810)
 * Snippetize Tshirt variants (#80859)
 * Some recipes have 'hard' proficiency requirements (Bronze edition) (#80858)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-05-01-2334 (68ab4ea)
 
 Cataclysm-DDA experimental build 2025-05-01-2115 (a2660f7)
 * Obsolete Stats through Skills (#80780)
-
-Cataclysm-DDA experimental build 2025-05-01-0750 (be172c0)
 * Translate coordinates correctly (and with more ease) (#80773)
 * Try fix android build error (#80777)
 * [ Bombastic Perks ] Make myself the maintainer (#80778)
