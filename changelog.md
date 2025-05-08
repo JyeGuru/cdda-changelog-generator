@@ -1,3 +1,9 @@
+* add soccer as hobbies ([#80810](https://github.com/CleverRaven/Cataclysm-DDA/pull/80810))
+* Snippetize Tshirt variants ([#80859](https://github.com/CleverRaven/Cataclysm-DDA/pull/80859))
+* Some recipes have 'hard' proficiency requirements (Bronze edition) ([#80858](https://github.com/CleverRaven/Cataclysm-DDA/pull/80858))
+* Handle crafting using nested container components ([#80855](https://github.com/CleverRaven/Cataclysm-DDA/pull/80855))
+* Evac shelter info board ([#80851](https://github.com/CleverRaven/Cataclysm-DDA/pull/80851))
+* Avoid iterating over vehicle::relative_parts directly as it can get changed within the loop body. ([#80850](https://github.com/CleverRaven/Cataclysm-DDA/pull/80850))
 
 ---
 
@@ -202,12 +208,9 @@
 * [alt-map-key] Adding Mod tiles ([#80736](https://github.com/CleverRaven/Cataclysm-DDA/pull/80736))
 * [MoM] Fix two bugs ([#80730](https://github.com/CleverRaven/Cataclysm-DDA/pull/80730))
 * Standardize speedway road color ([#80731](https://github.com/CleverRaven/Cataclysm-DDA/pull/80731))
-* [Mods] Update and expand some special vision IDs ([#80696](https://github.com/CleverRaven/Cataclysm-DDA/pull/80696))
-* Adds a small supply of icons with the traders from NECR ([#80692](https://github.com/CleverRaven/Cataclysm-DDA/pull/80692))
 * Item subtypes: BIONIC_ITEM ([#80727](https://github.com/CleverRaven/Cataclysm-DDA/pull/80727))
 * Add myself (-Kray4000) to comment-commands list ([#80728](https://github.com/CleverRaven/Cataclysm-DDA/pull/80728))
 * update the flag of sourdough bread from Nuitient-override to EDIBLE_F… ([#80723](https://github.com/CleverRaven/Cataclysm-DDA/pull/80723))
-* Diversify Skills in the NECR ([#80691](https://github.com/CleverRaven/Cataclysm-DDA/pull/80691))
 * [MoM] Perfected Motion is now concentration ([#80718](https://github.com/CleverRaven/Cataclysm-DDA/pull/80718))
 * Aftershock: Bugfix Last dance Scenario ([#80719](https://github.com/CleverRaven/Cataclysm-DDA/pull/80719))
 * Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
@@ -217,6 +220,3 @@
 * Break up/refactor the shadow singularity's EOCs ([#80712](https://github.com/CleverRaven/Cataclysm-DDA/pull/80712))
 * More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
 * item subtypes: GENERIC, TOOL ([#80703](https://github.com/CleverRaven/Cataclysm-DDA/pull/80703))
-* Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
-* [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) ([#80689](https://github.com/CleverRaven/Cataclysm-DDA/pull/80689))
-* Fix Corrie Kaja Dosia (From NECR/GODCO) ([#80690](https://github.com/CleverRaven/Cataclysm-DDA/pull/80690))
