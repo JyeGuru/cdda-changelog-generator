@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-08-2330 (cd66d15)
 * [Xedra Evolved] Add Hedge Magick magic_type (#80869)
 
 Cataclysm-DDA experimental build 2025-05-08-1053 (b1616b9)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-05-02-2242 (846d567)
 
 Cataclysm-DDA experimental build 2025-05-01-2334 (68ab4ea)
 * Silence keg dispensing (#80784)
-
-Cataclysm-DDA experimental build 2025-05-01-2115 (a2660f7)
 * Obsolete Stats through Skills (#80780)
 * Translate coordinates correctly (and with more ease) (#80773)
 * Try fix android build error (#80777)

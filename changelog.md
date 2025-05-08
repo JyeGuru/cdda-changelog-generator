@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-08-2330 ([cd66d15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-2330))
+
 * [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-01-2334 ([68ab4ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-2334))
 
 * Silence keg dispensing ([#80784](https://github.com/CleverRaven/Cataclysm-DDA/pull/80784))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-01-2115 ([a2660f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-2115))
-
 * Obsolete Stats through Skills ([#80780](https://github.com/CleverRaven/Cataclysm-DDA/pull/80780))
 * Translate coordinates correctly (and with more ease) ([#80773](https://github.com/CleverRaven/Cataclysm-DDA/pull/80773))
 * Try fix android build error ([#80777](https://github.com/CleverRaven/Cataclysm-DDA/pull/80777))
