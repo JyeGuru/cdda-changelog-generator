@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-08-0201 ([252baa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-0201))
+
+* coord: silence clang warning about unused value ([#80844](https://github.com/CleverRaven/Cataclysm-DDA/pull/80844))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-07-2031 ([ac19897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-07-2031))
 
 * [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-05-01-0238 ([ac1b220](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-01-0238))
 
 * Routine tileset updates on 01 May 2025 ([#80779](https://github.com/CleverRaven/Cataclysm-DDA/pull/80779))
-
----
-
-#### Cataclysm-DDA experimental build 2025-04-30-1653 ([dbaab4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-04-30-1653))
-
 * Remove missed u_shotgun_mod refs ([#80765](https://github.com/CleverRaven/Cataclysm-DDA/pull/80765))
 * Fix sdl_mouse.h include ([#80769](https://github.com/CleverRaven/Cataclysm-DDA/pull/80769))
 * [alt-map-key] Updated README for cyan coloring of magical tiles ([#80767](https://github.com/CleverRaven/Cataclysm-DDA/pull/80767))
@@ -216,7 +217,6 @@
 * item subtypes: GENERIC, TOOL ([#80703](https://github.com/CleverRaven/Cataclysm-DDA/pull/80703))
 * Infrastructure/Mods: Add is_chargeable search term for search_data ([#80693](https://github.com/CleverRaven/Cataclysm-DDA/pull/80693))
 * Update bunker.json to eliminate airgap in basement ([#80687](https://github.com/CleverRaven/Cataclysm-DDA/pull/80687))
-* [Xedra Evolved] Add more vampire tier 1 and 3 traits ([#80685](https://github.com/CleverRaven/Cataclysm-DDA/pull/80685))
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR ([#80688](https://github.com/CleverRaven/Cataclysm-DDA/pull/80688))
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) ([#80689](https://github.com/CleverRaven/Cataclysm-DDA/pull/80689))
 * Fix Corrie Kaja Dosia (From NECR/GODCO) ([#80690](https://github.com/CleverRaven/Cataclysm-DDA/pull/80690))
