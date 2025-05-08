@@ -1,3 +1,4 @@
+* [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI (#80853)
 
 Cataclysm-DDA experimental build 2025-05-08-0201 (252baa5)
 * coord: silence clang warning about unused value (#80844)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2025-05-01-0238 (ac1b220)
 * More Armor is now considered proper Armor! (#80701)
 * item subtypes: GENERIC, TOOL (#80703)
 * Infrastructure/Mods: Add is_chargeable search term for search_data (#80693)
-* Update bunker.json to eliminate airgap in basement (#80687)
 * Item subtypes: ARMOR, PET_ARMOR, TOOL_ARMOR (#80688)
 * [Xedra Evolved] Add Vampire Killer playstyle perk (when using Bombastic Perks) (#80689)
 * Fix Corrie Kaja Dosia (From NECR/GODCO) (#80690)
