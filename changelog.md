@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
 
 ---
 
@@ -188,7 +189,6 @@
 * blacklist human bone temperature ([#80764](https://github.com/CleverRaven/Cataclysm-DDA/pull/80764))
 * Remove legacy to-hit JSON (vanilla, all non-guns) ([#80766](https://github.com/CleverRaven/Cataclysm-DDA/pull/80766))
 * Weekly Changelog 2025-04-21 to 2025-04-28 ([#80744](https://github.com/CleverRaven/Cataclysm-DDA/pull/80744))
-* [The Backrooms] Expand the Backrooms to multiple Z-levels, add stairs ([#80697](https://github.com/CleverRaven/Cataclysm-DDA/pull/80697))
 * Refactor riot damage + add 'pre-burnt' generator ([#80753](https://github.com/CleverRaven/Cataclysm-DDA/pull/80753))
 * [alt-map-key] Updating tile keys ([#80709](https://github.com/CleverRaven/Cataclysm-DDA/pull/80709))
 * Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))

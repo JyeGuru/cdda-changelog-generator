@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Hedge Magick magic_type (#80869)
 
 Cataclysm-DDA experimental build 2025-05-08-1053 (b1616b9)
 * add soccer as hobbies (#80810)
@@ -110,7 +111,6 @@ Cataclysm-DDA experimental build 2025-05-01-2115 (a2660f7)
 * blacklist human bone temperature (#80764)
 * Remove legacy to-hit JSON (vanilla, all non-guns) (#80766)
 * Weekly Changelog 2025-04-21 to 2025-04-28 (#80744)
-* [The Backrooms] Expand the Backrooms to multiple Z-levels, add stairs (#80697)
 * Refactor riot damage + add 'pre-burnt' generator (#80753)
 * [alt-map-key] Updating tile keys (#80709)
 * Removed spinning wheel variant recipes from cotton sheet recipe (#80760)
