@@ -1,3 +1,11 @@
+* military 9mm spawning distribution ([#80873](https://github.com/CleverRaven/Cataclysm-DDA/pull/80873))
+* Fix jack o'lantern ([#80876](https://github.com/CleverRaven/Cataclysm-DDA/pull/80876))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-09-1952 ([4eae0c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-09-1952))
+
+* Prevent mechanical_damage fault from being applied when repairing item ([#80880](https://github.com/CleverRaven/Cataclysm-DDA/pull/80880))
 
 ---
 
@@ -170,11 +178,6 @@
 * Add canola stalks drying ([#80789](https://github.com/CleverRaven/Cataclysm-DDA/pull/80789))
 * Fix incorrect damage values for compound bow (high/low) ([#80787](https://github.com/CleverRaven/Cataclysm-DDA/pull/80787))
 * [MoM/Magiclysm/XE/Sky Island] The powers of the Warp do not like you trying to teleport past the rules ([#80785](https://github.com/CleverRaven/Cataclysm-DDA/pull/80785))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-02-2242 ([846d567](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-02-2242))
-
 * Disable crafting volume restrictions for faction and construction cra… ([#80794](https://github.com/CleverRaven/Cataclysm-DDA/pull/80794))
 * Silence keg dispensing ([#80784](https://github.com/CleverRaven/Cataclysm-DDA/pull/80784))
 * Obsolete Stats through Skills ([#80780](https://github.com/CleverRaven/Cataclysm-DDA/pull/80780))
@@ -194,7 +197,6 @@
 * [alt-map-key] Updating tile keys ([#80709](https://github.com/CleverRaven/Cataclysm-DDA/pull/80709))
 * Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))
 * revert unserialize_submap ([#80748](https://github.com/CleverRaven/Cataclysm-DDA/pull/80748))
-* Bugfixes: Allow NPCs to use practice crafting recipes ([#80699](https://github.com/CleverRaven/Cataclysm-DDA/pull/80699))
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 * Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
 * [Xedra Evolved] Add feral vampires, put them in house nests + caves ([#80739](https://github.com/CleverRaven/Cataclysm-DDA/pull/80739))
@@ -218,5 +220,3 @@
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD ([#80716](https://github.com/CleverRaven/Cataclysm-DDA/pull/80716))
 * Enable autonotes for favorites inside containers ([#80708](https://github.com/CleverRaven/Cataclysm-DDA/pull/80708))
 * Break up/refactor the shadow singularity's EOCs ([#80712](https://github.com/CleverRaven/Cataclysm-DDA/pull/80712))
-* More Armor is now considered proper Armor! ([#80701](https://github.com/CleverRaven/Cataclysm-DDA/pull/80701))
-* item subtypes: GENERIC, TOOL ([#80703](https://github.com/CleverRaven/Cataclysm-DDA/pull/80703))
