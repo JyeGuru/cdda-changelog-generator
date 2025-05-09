@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-09-2213 (ec27d39)
 * military 9mm spawning distribution (#80873)
 * Fix jack o'lantern (#80876)
 
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2025-05-04-0528 (4b5a073)
 
 Cataclysm-DDA experimental build 2025-05-03-0635 (95f93a7)
 * actual back berm for shooting range (#80788)
-
-Cataclysm-DDA experimental build 2025-05-03-0131 (6002484)
 * vitamin C fragment (#80792)
 * Add canola stalks drying (#80789)
 * Fix incorrect damage values for compound bow (high/low) (#80787)

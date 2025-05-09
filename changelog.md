@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-09-2213 ([ec27d39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-09-2213))
+
 * military 9mm spawning distribution ([#80873](https://github.com/CleverRaven/Cataclysm-DDA/pull/80873))
 * Fix jack o'lantern ([#80876](https://github.com/CleverRaven/Cataclysm-DDA/pull/80876))
 
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-05-03-0635 ([95f93a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-03-0635))
 
 * actual back berm for shooting range ([#80788](https://github.com/CleverRaven/Cataclysm-DDA/pull/80788))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-03-0131 ([6002484](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-03-0131))
-
 * vitamin C fragment ([#80792](https://github.com/CleverRaven/Cataclysm-DDA/pull/80792))
 * Add canola stalks drying ([#80789](https://github.com/CleverRaven/Cataclysm-DDA/pull/80789))
 * Fix incorrect damage values for compound bow (high/low) ([#80787](https://github.com/CleverRaven/Cataclysm-DDA/pull/80787))
