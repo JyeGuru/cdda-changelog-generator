@@ -1,3 +1,11 @@
+* [MoM] Review Nether Attunement equations ([#80863](https://github.com/CleverRaven/Cataclysm-DDA/pull/80863))
+* Turn sheriff shirts into postman shirt variants ([#80866](https://github.com/CleverRaven/Cataclysm-DDA/pull/80866))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-10-0500 ([983d27b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-0500))
+
+* Routine i18n updates on 10 May 2025 ([#80886](https://github.com/CleverRaven/Cataclysm-DDA/pull/80886))
 
 ---
 
@@ -168,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-04-0528 ([4b5a073](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-0528))
 
 * Mics changes in faults ([#80783](https://github.com/CleverRaven/Cataclysm-DDA/pull/80783))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-03-0635 ([95f93a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-03-0635))
-
 * actual back berm for shooting range ([#80788](https://github.com/CleverRaven/Cataclysm-DDA/pull/80788))
 * vitamin C fragment ([#80792](https://github.com/CleverRaven/Cataclysm-DDA/pull/80792))
 * Add canola stalks drying ([#80789](https://github.com/CleverRaven/Cataclysm-DDA/pull/80789))
@@ -194,7 +197,6 @@
 * Remove legacy to-hit JSON (vanilla, all non-guns) ([#80766](https://github.com/CleverRaven/Cataclysm-DDA/pull/80766))
 * Weekly Changelog 2025-04-21 to 2025-04-28 ([#80744](https://github.com/CleverRaven/Cataclysm-DDA/pull/80744))
 * Refactor riot damage + add 'pre-burnt' generator ([#80753](https://github.com/CleverRaven/Cataclysm-DDA/pull/80753))
-* [alt-map-key] Updating tile keys ([#80709](https://github.com/CleverRaven/Cataclysm-DDA/pull/80709))
 * Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))
 * revert unserialize_submap ([#80748](https://github.com/CleverRaven/Cataclysm-DDA/pull/80748))
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
@@ -203,7 +205,6 @@
 * Item_factory subtype clean-up  ([#80738](https://github.com/CleverRaven/Cataclysm-DDA/pull/80738))
 * Remove camouflage from 'A shadow?' ([#80746](https://github.com/CleverRaven/Cataclysm-DDA/pull/80746))
 * Add myself to reviewers for alt_map_key and overmap_terrain folder ([#80734](https://github.com/CleverRaven/Cataclysm-DDA/pull/80734))
-* Fix game warning over 'stale data' on achievements json ([#80707](https://github.com/CleverRaven/Cataclysm-DDA/pull/80707))
 * Fix house_05 basement ([#80741](https://github.com/CleverRaven/Cataclysm-DDA/pull/80741))
 * fix moose zombie + reindeer fawn ([#80733](https://github.com/CleverRaven/Cataclysm-DDA/pull/80733))
 * Fix golf counters & laundromat items spawning in walls ([#80742](https://github.com/CleverRaven/Cataclysm-DDA/pull/80742))
@@ -218,5 +219,4 @@
 * Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
 * Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 ([#80726](https://github.com/CleverRaven/Cataclysm-DDA/pull/80726))
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD ([#80716](https://github.com/CleverRaven/Cataclysm-DDA/pull/80716))
-* Enable autonotes for favorites inside containers ([#80708](https://github.com/CleverRaven/Cataclysm-DDA/pull/80708))
 * Break up/refactor the shadow singularity's EOCs ([#80712](https://github.com/CleverRaven/Cataclysm-DDA/pull/80712))
