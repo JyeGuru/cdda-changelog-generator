@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-10-1929 (d2cfdba)
 * Translate martial art condition text and cable notification text (#80887)
 
 Cataclysm-DDA experimental build 2025-05-10-1710 (3b51d05)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-05-04-1838 (b5500f2)
 * Obsolete grip mods (#80798)
 * [MoM] Fix crafting contemplation recipes your followers know (#80814)
 * blacklist bone_tainted (#80818)
-
-Cataclysm-DDA experimental build 2025-05-04-1607 (5b56bfe)
 * [XEDRA] Chronomancer Updates / Additions (#80806)
 * Adjust Hitman Profession (#80813)
 * Mics changes in faults (#80783)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-10-1929 ([d2cfdba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-1929))
+
 * Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
 
 ---
@@ -171,11 +176,6 @@
 * Obsolete grip mods ([#80798](https://github.com/CleverRaven/Cataclysm-DDA/pull/80798))
 * [MoM] Fix crafting contemplation recipes your followers know ([#80814](https://github.com/CleverRaven/Cataclysm-DDA/pull/80814))
 * blacklist bone_tainted ([#80818](https://github.com/CleverRaven/Cataclysm-DDA/pull/80818))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-04-1607 ([5b56bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-1607))
-
 * [XEDRA] Chronomancer Updates / Additions ([#80806](https://github.com/CleverRaven/Cataclysm-DDA/pull/80806))
 * Adjust Hitman Profession ([#80813](https://github.com/CleverRaven/Cataclysm-DDA/pull/80813))
 * Mics changes in faults ([#80783](https://github.com/CleverRaven/Cataclysm-DDA/pull/80783))
