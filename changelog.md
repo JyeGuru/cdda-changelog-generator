@@ -1,3 +1,4 @@
+* Update and variantize jerseys ([#80838](https://github.com/CleverRaven/Cataclysm-DDA/pull/80838))
 * [MoM] Review Nether Attunement equations ([#80863](https://github.com/CleverRaven/Cataclysm-DDA/pull/80863))
 * Turn sheriff shirts into postman shirt variants ([#80866](https://github.com/CleverRaven/Cataclysm-DDA/pull/80866))
 
@@ -219,4 +220,3 @@
 * Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
 * Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 ([#80726](https://github.com/CleverRaven/Cataclysm-DDA/pull/80726))
 * Item subtypes: AMMO, MAGAZINE, ARTIFACT, GUN, GUNMOD, TOOLMOD ([#80716](https://github.com/CleverRaven/Cataclysm-DDA/pull/80716))
-* Break up/refactor the shadow singularity's EOCs ([#80712](https://github.com/CleverRaven/Cataclysm-DDA/pull/80712))
