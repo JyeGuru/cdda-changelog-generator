@@ -1,3 +1,4 @@
+* Prune obsolete mods + remove code support for skill_boost (#80883)
 
 Cataclysm-DDA experimental build 2025-05-10-1929 (d2cfdba)
 * Translate martial art condition text and cable notification text (#80887)
@@ -139,6 +140,5 @@ Cataclysm-DDA experimental build 2025-05-04-1838 (b5500f2)
 * Item subtypes: BIONIC_ITEM (#80727)
 * Add myself (-Kray4000) to comment-commands list (#80728)
 * update the flag of sourdough bread from Nuitient-override to EDIBLE_F… (#80723)
-* Aftershock: Bugfix Last dance Scenario (#80719)
 * Routine i18n updates on 26 April 2025 (#80725)
 * Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 (#80726)
