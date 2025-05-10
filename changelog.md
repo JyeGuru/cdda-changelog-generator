@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-10-0710 ([eab62a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-0710))
+
 * Update and variantize jerseys ([#80838](https://github.com/CleverRaven/Cataclysm-DDA/pull/80838))
 * [MoM] Review Nether Attunement equations ([#80863](https://github.com/CleverRaven/Cataclysm-DDA/pull/80863))
 * Turn sheriff shirts into postman shirt variants ([#80866](https://github.com/CleverRaven/Cataclysm-DDA/pull/80866))
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-04-1354 ([63acb1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-1354))
 
 * Adjust Hitman Profession ([#80813](https://github.com/CleverRaven/Cataclysm-DDA/pull/80813))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-04-0528 ([4b5a073](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-04-0528))
-
 * Mics changes in faults ([#80783](https://github.com/CleverRaven/Cataclysm-DDA/pull/80783))
 * actual back berm for shooting range ([#80788](https://github.com/CleverRaven/Cataclysm-DDA/pull/80788))
 * vitamin C fragment ([#80792](https://github.com/CleverRaven/Cataclysm-DDA/pull/80792))
