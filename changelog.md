@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-11-1937 ([6961198](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-11-1937))
+
+* Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage ([#80894](https://github.com/CleverRaven/Cataclysm-DDA/pull/80894))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-10-2140 ([9a38c0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-2140))
 
 * Prune obsolete mods + remove code support for skill_boost ([#80883](https://github.com/CleverRaven/Cataclysm-DDA/pull/80883))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-05-05-0652 ([068fcf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-0652))
 
 * Added swap_map to safeguard temporary map access ([#80782](https://github.com/CleverRaven/Cataclysm-DDA/pull/80782))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-05-0422 ([9f0f4b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-0422))
-
 * [alt-map-key] Change all keys to capital letters and remove inverted coloring ([#80805](https://github.com/CleverRaven/Cataclysm-DDA/pull/80805))
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong ([#80808](https://github.com/CleverRaven/Cataclysm-DDA/pull/80808))
 * Obsolete grip mods ([#80798](https://github.com/CleverRaven/Cataclysm-DDA/pull/80798))
