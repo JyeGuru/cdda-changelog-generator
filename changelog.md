@@ -1,3 +1,14 @@
+* Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
+* Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
+* Faults/t-shirt typo fix ([#80875](https://github.com/CleverRaven/Cataclysm-DDA/pull/80875))
+* Fix monster grab and drag teleports ([#80864](https://github.com/CleverRaven/Cataclysm-DDA/pull/80864))
+* Prisoner uniform audit ([#80890](https://github.com/CleverRaven/Cataclysm-DDA/pull/80890))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-11-2316 ([76f1e9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-11-2316))
+
+* Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
 
 ---
 
@@ -167,11 +178,6 @@
 * math: rewrite tokenizer ([#80795](https://github.com/CleverRaven/Cataclysm-DDA/pull/80795))
 * Standardize query_int() ([#80803](https://github.com/CleverRaven/Cataclysm-DDA/pull/80803))
 * Change fov_3d_z_range to 10 ([#80797](https://github.com/CleverRaven/Cataclysm-DDA/pull/80797))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-05-0652 ([068fcf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-0652))
-
 * Added swap_map to safeguard temporary map access ([#80782](https://github.com/CleverRaven/Cataclysm-DDA/pull/80782))
 * [alt-map-key] Change all keys to capital letters and remove inverted coloring ([#80805](https://github.com/CleverRaven/Cataclysm-DDA/pull/80805))
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong ([#80808](https://github.com/CleverRaven/Cataclysm-DDA/pull/80808))
@@ -214,10 +220,4 @@
 * fix moose zombie + reindeer fawn ([#80733](https://github.com/CleverRaven/Cataclysm-DDA/pull/80733))
 * Fix golf counters & laundromat items spawning in walls ([#80742](https://github.com/CleverRaven/Cataclysm-DDA/pull/80742))
 * [alt-map-key] Adding Mod tiles ([#80736](https://github.com/CleverRaven/Cataclysm-DDA/pull/80736))
-* [MoM] Fix two bugs ([#80730](https://github.com/CleverRaven/Cataclysm-DDA/pull/80730))
 * Standardize speedway road color ([#80731](https://github.com/CleverRaven/Cataclysm-DDA/pull/80731))
-* Item subtypes: BIONIC_ITEM ([#80727](https://github.com/CleverRaven/Cataclysm-DDA/pull/80727))
-* Add myself (-Kray4000) to comment-commands list ([#80728](https://github.com/CleverRaven/Cataclysm-DDA/pull/80728))
-* update the flag of sourdough bread from Nuitient-override to EDIBLE_F… ([#80723](https://github.com/CleverRaven/Cataclysm-DDA/pull/80723))
-* Routine i18n updates on 26 April 2025 ([#80725](https://github.com/CleverRaven/Cataclysm-DDA/pull/80725))
-* Bugfixes: Stop crashing when SLEEPINESS enchant value <= 0 ([#80726](https://github.com/CleverRaven/Cataclysm-DDA/pull/80726))
