@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-12-2102 ([e636359](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-2102))
+
+* Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-12-1419 ([2f2f2fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-1419))
 
 * Gunsmith's ammo conversion overhaul ([#80756](https://github.com/CleverRaven/Cataclysm-DDA/pull/80756))
@@ -170,11 +176,6 @@
 
 * [Xedra Evolved] More hedge magic ([#80815](https://github.com/CleverRaven/Cataclysm-DDA/pull/80815))
 * Replace Boston-Chan suit with a blazer variant ([#80832](https://github.com/CleverRaven/Cataclysm-DDA/pull/80832))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-06-0109 ([b8e49a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-0109))
-
 * [Sky Island] Fix Tier One Bunker Crafting Recipes ([#80830](https://github.com/CleverRaven/Cataclysm-DDA/pull/80830))
 * [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant ([#80827](https://github.com/CleverRaven/Cataclysm-DDA/pull/80827))
 * bombasticperks: convert words to variables (where possible) ([#80819](https://github.com/CleverRaven/Cataclysm-DDA/pull/80819))
@@ -221,7 +222,6 @@
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 * Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
 * [Xedra Evolved] Add feral vampires, put them in house nests + caves ([#80739](https://github.com/CleverRaven/Cataclysm-DDA/pull/80739))
-* Item_factory subtype clean-up  ([#80738](https://github.com/CleverRaven/Cataclysm-DDA/pull/80738))
 * Remove camouflage from 'A shadow?' ([#80746](https://github.com/CleverRaven/Cataclysm-DDA/pull/80746))
 * Fix house_05 basement ([#80741](https://github.com/CleverRaven/Cataclysm-DDA/pull/80741))
 * Fix golf counters & laundromat items spawning in walls ([#80742](https://github.com/CleverRaven/Cataclysm-DDA/pull/80742))
