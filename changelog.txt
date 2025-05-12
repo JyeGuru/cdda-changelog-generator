@@ -1,3 +1,4 @@
+* Gunsmith's ammo conversion overhaul (#80756)
 
 Cataclysm-DDA experimental build 2025-05-12-1136 (ceff154)
 * Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2025-05-05-2217 (ea1644d)
 * [Xedra Evolved] Add feral vampires, put them in house nests + caves (#80739)
 * Item_factory subtype clean-up  (#80738)
 * Remove camouflage from 'A shadow?' (#80746)
-* Add myself to reviewers for alt_map_key and overmap_terrain folder (#80734)
 * Fix house_05 basement (#80741)
 * Fix golf counters & laundromat items spawning in walls (#80742)
 * [alt-map-key] Adding Mod tiles (#80736)
