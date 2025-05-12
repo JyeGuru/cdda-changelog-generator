@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-12-1136 (ceff154)
+* Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
+
 Cataclysm-DDA experimental build 2025-05-12-0440 (93e97e5)
 * Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` (#80870)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-05-06-0109 (b8e49a6)
 Cataclysm-DDA experimental build 2025-05-05-2217 (ea1644d)
 * [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant (#80827)
 * bombasticperks: convert words to variables (where possible) (#80819)
-
-Cataclysm-DDA experimental build 2025-05-05-1930 (ec5be2e)
 * Weekly Changelog 2025-04-28 to 2025-05-05 (#80828)
 * Routine i18n updates on 03 May 2025 (#80802)
 * [MoM] Change the difficulty of all contemplation recipes to 0 (#80822)
@@ -142,6 +143,5 @@ Cataclysm-DDA experimental build 2025-05-05-1930 (ec5be2e)
 * Remove camouflage from 'A shadow?' (#80746)
 * Add myself to reviewers for alt_map_key and overmap_terrain folder (#80734)
 * Fix house_05 basement (#80741)
-* fix moose zombie + reindeer fawn (#80733)
 * Fix golf counters & laundromat items spawning in walls (#80742)
 * [alt-map-key] Adding Mod tiles (#80736)
