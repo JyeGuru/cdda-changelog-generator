@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-12-1419 ([2f2f2fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-1419))
+
 * Gunsmith's ammo conversion overhaul ([#80756](https://github.com/CleverRaven/Cataclysm-DDA/pull/80756))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-06-0109 ([b8e49a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-0109))
 
 * [Sky Island] Fix Tier One Bunker Crafting Recipes ([#80830](https://github.com/CleverRaven/Cataclysm-DDA/pull/80830))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-05-2217 ([ea1644d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-05-2217))
-
 * [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant ([#80827](https://github.com/CleverRaven/Cataclysm-DDA/pull/80827))
 * bombasticperks: convert words to variables (where possible) ([#80819](https://github.com/CleverRaven/Cataclysm-DDA/pull/80819))
 * Weekly Changelog 2025-04-28 to 2025-05-05 ([#80828](https://github.com/CleverRaven/Cataclysm-DDA/pull/80828))
