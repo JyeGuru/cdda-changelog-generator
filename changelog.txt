@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-12-0440 (93e97e5)
+* Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` (#80870)
+
 Cataclysm-DDA experimental build 2025-05-12-0120 (2500bb1)
 * Subject suit audit (#80891)
 * Better fault UI (#80898)
@@ -142,4 +145,3 @@ Cataclysm-DDA experimental build 2025-05-05-1930 (ec5be2e)
 * fix moose zombie + reindeer fawn (#80733)
 * Fix golf counters & laundromat items spawning in walls (#80742)
 * [alt-map-key] Adding Mod tiles (#80736)
-* Standardize speedway road color (#80731)

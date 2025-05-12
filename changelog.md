@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-12-0440 ([93e97e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-0440))
+
+* Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` ([#80870](https://github.com/CleverRaven/Cataclysm-DDA/pull/80870))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-12-0120 ([2500bb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-0120))
 
 * Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
@@ -220,4 +226,3 @@
 * fix moose zombie + reindeer fawn ([#80733](https://github.com/CleverRaven/Cataclysm-DDA/pull/80733))
 * Fix golf counters & laundromat items spawning in walls ([#80742](https://github.com/CleverRaven/Cataclysm-DDA/pull/80742))
 * [alt-map-key] Adding Mod tiles ([#80736](https://github.com/CleverRaven/Cataclysm-DDA/pull/80736))
-* Standardize speedway road color ([#80731](https://github.com/CleverRaven/Cataclysm-DDA/pull/80731))
