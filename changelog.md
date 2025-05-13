@@ -1,3 +1,5 @@
+* zero skill ar uppers ([#80888](https://github.com/CleverRaven/Cataclysm-DDA/pull/80888))
+* Some more itemgroup cleaning ([#80903](https://github.com/CleverRaven/Cataclysm-DDA/pull/80903))
 * Update the AK-74s to match their description ([#80913](https://github.com/CleverRaven/Cataclysm-DDA/pull/80913))
 * Striped shirt audit ([#80906](https://github.com/CleverRaven/Cataclysm-DDA/pull/80906))
 * [MoM] Add new Nether Attunement/portal storm effect, the Crack in Reality ([#80914](https://github.com/CleverRaven/Cataclysm-DDA/pull/80914))
@@ -215,7 +217,6 @@
 * Remove missed u_shotgun_mod refs ([#80765](https://github.com/CleverRaven/Cataclysm-DDA/pull/80765))
 * Fix sdl_mouse.h include ([#80769](https://github.com/CleverRaven/Cataclysm-DDA/pull/80769))
 * [alt-map-key] Updated README for cyan coloring of magical tiles ([#80767](https://github.com/CleverRaven/Cataclysm-DDA/pull/80767))
-* Remove 'Rural' setting from city size slider ([#80747](https://github.com/CleverRaven/Cataclysm-DDA/pull/80747))
 * Make milking a gradual transfer activity with an up front destination selection. ([#80759](https://github.com/CleverRaven/Cataclysm-DDA/pull/80759))
 * blacklist human bone temperature ([#80764](https://github.com/CleverRaven/Cataclysm-DDA/pull/80764))
 * Remove legacy to-hit JSON (vanilla, all non-guns) ([#80766](https://github.com/CleverRaven/Cataclysm-DDA/pull/80766))
@@ -224,4 +225,3 @@
 * revert unserialize_submap ([#80748](https://github.com/CleverRaven/Cataclysm-DDA/pull/80748))
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 * Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
-* Remove camouflage from 'A shadow?' ([#80746](https://github.com/CleverRaven/Cataclysm-DDA/pull/80746))
