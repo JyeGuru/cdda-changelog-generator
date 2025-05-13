@@ -1,3 +1,12 @@
+* Update the AK-74s to match their description ([#80913](https://github.com/CleverRaven/Cataclysm-DDA/pull/80913))
+* Striped shirt audit ([#80906](https://github.com/CleverRaven/Cataclysm-DDA/pull/80906))
+* [MoM] Add new Nether Attunement/portal storm effect, the Crack in Reality ([#80914](https://github.com/CleverRaven/Cataclysm-DDA/pull/80914))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-13-1212 ([d80ae6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-13-1212))
+
+* Oil lamp rename ([#80915](https://github.com/CleverRaven/Cataclysm-DDA/pull/80915))
 
 ---
 
@@ -169,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-05-06-0717 ([f985f87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-0717))
 
 * Stop setting small city dumps on fire ([#80833](https://github.com/CleverRaven/Cataclysm-DDA/pull/80833))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-06-0336 ([b6a0efa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-0336))
-
 * [Xedra Evolved] More hedge magic ([#80815](https://github.com/CleverRaven/Cataclysm-DDA/pull/80815))
 * Replace Boston-Chan suit with a blazer variant ([#80832](https://github.com/CleverRaven/Cataclysm-DDA/pull/80832))
 * [Sky Island] Fix Tier One Bunker Crafting Recipes ([#80830](https://github.com/CleverRaven/Cataclysm-DDA/pull/80830))
@@ -215,13 +219,9 @@
 * Make milking a gradual transfer activity with an up front destination selection. ([#80759](https://github.com/CleverRaven/Cataclysm-DDA/pull/80759))
 * blacklist human bone temperature ([#80764](https://github.com/CleverRaven/Cataclysm-DDA/pull/80764))
 * Remove legacy to-hit JSON (vanilla, all non-guns) ([#80766](https://github.com/CleverRaven/Cataclysm-DDA/pull/80766))
-* Weekly Changelog 2025-04-21 to 2025-04-28 ([#80744](https://github.com/CleverRaven/Cataclysm-DDA/pull/80744))
 * Refactor riot damage + add 'pre-burnt' generator ([#80753](https://github.com/CleverRaven/Cataclysm-DDA/pull/80753))
 * Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))
 * revert unserialize_submap ([#80748](https://github.com/CleverRaven/Cataclysm-DDA/pull/80748))
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 * Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
-* [Xedra Evolved] Add feral vampires, put them in house nests + caves ([#80739](https://github.com/CleverRaven/Cataclysm-DDA/pull/80739))
 * Remove camouflage from 'A shadow?' ([#80746](https://github.com/CleverRaven/Cataclysm-DDA/pull/80746))
-* Fix house_05 basement ([#80741](https://github.com/CleverRaven/Cataclysm-DDA/pull/80741))
-* Fix golf counters & laundromat items spawning in walls ([#80742](https://github.com/CleverRaven/Cataclysm-DDA/pull/80742))
