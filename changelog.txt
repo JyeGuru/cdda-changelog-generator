@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-13-1519 (c03f817)
 * zero skill ar uppers (#80888)
 * Some more itemgroup cleaning (#80903)
 * Update the AK-74s to match their description (#80913)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-05-06-2032 (f1fdd47)
 
 Cataclysm-DDA experimental build 2025-05-06-1449 (5a8f6d6)
 * [Infrastructure] Always Display Spell Tabs (#80842)
-
-Cataclysm-DDA experimental build 2025-05-06-0717 (f985f87)
 * Stop setting small city dumps on fire (#80833)
 * [Xedra Evolved] More hedge magic (#80815)
 * Replace Boston-Chan suit with a blazer variant (#80832)

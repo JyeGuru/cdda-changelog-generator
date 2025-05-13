@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-13-1519 ([c03f817](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-13-1519))
+
 * zero skill ar uppers ([#80888](https://github.com/CleverRaven/Cataclysm-DDA/pull/80888))
 * Some more itemgroup cleaning ([#80903](https://github.com/CleverRaven/Cataclysm-DDA/pull/80903))
 * Update the AK-74s to match their description ([#80913](https://github.com/CleverRaven/Cataclysm-DDA/pull/80913))
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-05-06-1449 ([5a8f6d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-1449))
 
 * [Infrastructure] Always Display Spell Tabs ([#80842](https://github.com/CleverRaven/Cataclysm-DDA/pull/80842))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-06-0717 ([f985f87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-0717))
-
 * Stop setting small city dumps on fire ([#80833](https://github.com/CleverRaven/Cataclysm-DDA/pull/80833))
 * [Xedra Evolved] More hedge magic ([#80815](https://github.com/CleverRaven/Cataclysm-DDA/pull/80815))
 * Replace Boston-Chan suit with a blazer variant ([#80832](https://github.com/CleverRaven/Cataclysm-DDA/pull/80832))
