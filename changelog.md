@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-14-0234 ([a7398a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0234))
+
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
 
 ---

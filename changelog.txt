@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-14-0234 (a7398a8)
 * [Xedra Evolved] Fix werewolf biting (#80922)
 
 Cataclysm-DDA experimental build 2025-05-14-0018 (69c3b76)
