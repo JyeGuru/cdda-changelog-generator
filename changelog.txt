@@ -1,4 +1,9 @@
 
+Cataclysm-DDA experimental build 2025-05-14-0445 (c15fc83)
+* [MoM] Nether Attunement Spoilers document (#80857)
+* Allow monsters to have different climb/swim/dig speeds (#80849)
+* Cap maximum amount of follower 'forgiveness' (#80930)
+
 Cataclysm-DDA experimental build 2025-05-14-0234 (a7398a8)
 * [Xedra Evolved] Fix werewolf biting (#80922)
 
@@ -17,9 +22,6 @@ Cataclysm-DDA experimental build 2025-05-13-1212 (d80ae6d)
 
 Cataclysm-DDA experimental build 2025-05-12-2102 (e636359)
 * Nuclear plant fixes (#80904)
-
-Cataclysm-DDA experimental build 2025-05-12-1419 (2f2f2fd)
-* Gunsmith's ammo conversion overhaul (#80756)
 
 Cataclysm-DDA experimental build 2025-05-12-1136 (ceff154)
 * Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-05-07-0505 (cd57ae0)
 Cataclysm-DDA experimental build 2025-05-06-2336 (659cddf)
 * Fix harvest_plant no product when not from_activity (#80848)
 * math: implement dot operator for tripoints (#80796)
-
-Cataclysm-DDA experimental build 2025-05-06-2032 (f1fdd47)
 * Don't set vat to empty when liquid is left in it (#80847)
 * [MoM] Dust used in contemplation recipes is drained, it doesn't vanish (#80836)
 * [Infrastructure] Always Display Spell Tabs (#80842)
@@ -144,5 +144,3 @@ Cataclysm-DDA experimental build 2025-05-06-2032 (f1fdd47)
 * blacklist human bone temperature (#80764)
 * Remove legacy to-hit JSON (vanilla, all non-guns) (#80766)
 * Removed spinning wheel variant recipes from cotton sheet recipe (#80760)
-* Port TLG#695 psychopaths don't enjoy playing with animals (#80757)
-* Removed wooden panel bash drop from Half Built wall (#80755)

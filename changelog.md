@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-14-0445 ([c15fc83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0445))
+
+* [MoM] Nether Attunement Spoilers document ([#80857](https://github.com/CleverRaven/Cataclysm-DDA/pull/80857))
+* Allow monsters to have different climb/swim/dig speeds ([#80849](https://github.com/CleverRaven/Cataclysm-DDA/pull/80849))
+* Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-14-0234 ([a7398a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0234))
 
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
@@ -32,12 +40,6 @@
 #### Cataclysm-DDA experimental build 2025-05-12-2102 ([e636359](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-2102))
 
 * Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-12-1419 ([2f2f2fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-1419))
-
-* Gunsmith's ammo conversion overhaul ([#80756](https://github.com/CleverRaven/Cataclysm-DDA/pull/80756))
 
 ---
 
@@ -178,11 +180,6 @@
 
 * Fix harvest_plant no product when not from_activity ([#80848](https://github.com/CleverRaven/Cataclysm-DDA/pull/80848))
 * math: implement dot operator for tripoints ([#80796](https://github.com/CleverRaven/Cataclysm-DDA/pull/80796))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-06-2032 ([f1fdd47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-2032))
-
 * Don't set vat to empty when liquid is left in it ([#80847](https://github.com/CleverRaven/Cataclysm-DDA/pull/80847))
 * [MoM] Dust used in contemplation recipes is drained, it doesn't vanish ([#80836](https://github.com/CleverRaven/Cataclysm-DDA/pull/80836))
 * [Infrastructure] Always Display Spell Tabs ([#80842](https://github.com/CleverRaven/Cataclysm-DDA/pull/80842))
@@ -228,5 +225,3 @@
 * blacklist human bone temperature ([#80764](https://github.com/CleverRaven/Cataclysm-DDA/pull/80764))
 * Remove legacy to-hit JSON (vanilla, all non-guns) ([#80766](https://github.com/CleverRaven/Cataclysm-DDA/pull/80766))
 * Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))
-* Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
-* Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
