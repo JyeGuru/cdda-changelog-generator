@@ -175,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-05-07-0505 ([cd57ae0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-07-0505))
 
 * Aftershock: Integral Cryosuit boots ([#80852](https://github.com/CleverRaven/Cataclysm-DDA/pull/80852))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-06-2336 ([659cddf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-2336))
-
 * Fix harvest_plant no product when not from_activity ([#80848](https://github.com/CleverRaven/Cataclysm-DDA/pull/80848))
 * math: implement dot operator for tripoints ([#80796](https://github.com/CleverRaven/Cataclysm-DDA/pull/80796))
 * Don't set vat to empty when liquid is left in it ([#80847](https://github.com/CleverRaven/Cataclysm-DDA/pull/80847))
