@@ -1,3 +1,10 @@
+* [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-14-0018 ([69c3b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0018))
+
+* Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
 
 ---
 
@@ -173,11 +180,6 @@
 
 * Don't set vat to empty when liquid is left in it ([#80847](https://github.com/CleverRaven/Cataclysm-DDA/pull/80847))
 * [MoM] Dust used in contemplation recipes is drained, it doesn't vanish ([#80836](https://github.com/CleverRaven/Cataclysm-DDA/pull/80836))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-06-1449 ([5a8f6d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-06-1449))
-
 * [Infrastructure] Always Display Spell Tabs ([#80842](https://github.com/CleverRaven/Cataclysm-DDA/pull/80842))
 * Stop setting small city dumps on fire ([#80833](https://github.com/CleverRaven/Cataclysm-DDA/pull/80833))
 * [Xedra Evolved] More hedge magic ([#80815](https://github.com/CleverRaven/Cataclysm-DDA/pull/80815))
@@ -220,8 +222,6 @@
 * Make milking a gradual transfer activity with an up front destination selection. ([#80759](https://github.com/CleverRaven/Cataclysm-DDA/pull/80759))
 * blacklist human bone temperature ([#80764](https://github.com/CleverRaven/Cataclysm-DDA/pull/80764))
 * Remove legacy to-hit JSON (vanilla, all non-guns) ([#80766](https://github.com/CleverRaven/Cataclysm-DDA/pull/80766))
-* Refactor riot damage + add 'pre-burnt' generator ([#80753](https://github.com/CleverRaven/Cataclysm-DDA/pull/80753))
 * Removed spinning wheel variant recipes from cotton sheet recipe ([#80760](https://github.com/CleverRaven/Cataclysm-DDA/pull/80760))
-* revert unserialize_submap ([#80748](https://github.com/CleverRaven/Cataclysm-DDA/pull/80748))
 * Port TLG#695 psychopaths don't enjoy playing with animals ([#80757](https://github.com/CleverRaven/Cataclysm-DDA/pull/80757))
 * Removed wooden panel bash drop from Half Built wall ([#80755](https://github.com/CleverRaven/Cataclysm-DDA/pull/80755))
