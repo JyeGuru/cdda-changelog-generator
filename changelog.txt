@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-14-1829 (bf1bbee)
+* [MoM] Hostile NPC dialogue updates (#80937)
+
 Cataclysm-DDA experimental build 2025-05-14-1430 (cd1b574)
 * [Xedra Evolved] Remove vampires' free bite, vampires take more mutagen (#80926)
 * [Mods] Fix typos (#80895)
@@ -140,4 +143,3 @@ Cataclysm-DDA experimental build 2025-05-07-2031 (ac19897)
 * Routine tileset updates on 01 May 2025 (#80779)
 * Fix sdl_mouse.h include (#80769)
 * [alt-map-key] Updated README for cyan coloring of magical tiles (#80767)
-* Remove legacy to-hit JSON (vanilla, all non-guns) (#80766)
