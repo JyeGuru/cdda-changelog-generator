@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-14-2237 (53e3a15)
+* Fix macports for CI (#80942)
+
 Cataclysm-DDA experimental build 2025-05-14-1829 (bf1bbee)
 * [MoM] Hostile NPC dialogue updates (#80937)
 
@@ -142,4 +145,3 @@ Cataclysm-DDA experimental build 2025-05-07-2031 (ac19897)
 * [ Bombastic Perks ] Make myself the maintainer (#80778)
 * Routine tileset updates on 01 May 2025 (#80779)
 * Fix sdl_mouse.h include (#80769)
-* [alt-map-key] Updated README for cyan coloring of magical tiles (#80767)
