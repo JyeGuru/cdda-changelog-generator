@@ -1,3 +1,5 @@
+* [Mods] Fix typos (#80895)
+* Added oat milk and polished the other plant milks. (#80920)
 
 Cataclysm-DDA experimental build 2025-05-14-0445 (c15fc83)
 * [MoM] Nether Attunement Spoilers document (#80857)
@@ -140,7 +142,5 @@ Cataclysm-DDA experimental build 2025-05-06-2336 (659cddf)
 * Remove missed u_shotgun_mod refs (#80765)
 * Fix sdl_mouse.h include (#80769)
 * [alt-map-key] Updated README for cyan coloring of magical tiles (#80767)
-* Make milking a gradual transfer activity with an up front destination selection. (#80759)
 * blacklist human bone temperature (#80764)
 * Remove legacy to-hit JSON (vanilla, all non-guns) (#80766)
-* Removed spinning wheel variant recipes from cotton sheet recipe (#80760)
