@@ -1,3 +1,10 @@
+* Don't load invalid/removed map extras into overmap layers ([#80919](https://github.com/CleverRaven/Cataclysm-DDA/pull/80919))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-15-0354 ([5e3bdd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-15-0354))
+
+* Add animal themed hoodie and cropped hoodie variants ([#80921](https://github.com/CleverRaven/Cataclysm-DDA/pull/80921))
 
 ---
 
@@ -180,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-08-0201 ([252baa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-0201))
 
 * coord: silence clang warning about unused value ([#80844](https://github.com/CleverRaven/Cataclysm-DDA/pull/80844))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-07-2031 ([ac19897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-07-2031))
-
 * [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
 * eoc: fix map_in_city and can_see_location ([#80845](https://github.com/CleverRaven/Cataclysm-DDA/pull/80845))
 * Aftershock: Integral Cryosuit boots ([#80852](https://github.com/CleverRaven/Cataclysm-DDA/pull/80852))
@@ -203,7 +205,6 @@
 * Routine i18n updates on 03 May 2025 ([#80802](https://github.com/CleverRaven/Cataclysm-DDA/pull/80802))
 * [MoM] Change the difficulty of all contemplation recipes to 0 ([#80822](https://github.com/CleverRaven/Cataclysm-DDA/pull/80822))
 * [alt-map-key] In game mod description update ([#80817](https://github.com/CleverRaven/Cataclysm-DDA/pull/80817))
-* Add "in use" info to item's name and info if item has "activity_var" var. ([#80770](https://github.com/CleverRaven/Cataclysm-DDA/pull/80770))
 * math: rewrite tokenizer ([#80795](https://github.com/CleverRaven/Cataclysm-DDA/pull/80795))
 * Standardize query_int() ([#80803](https://github.com/CleverRaven/Cataclysm-DDA/pull/80803))
 * Change fov_3d_z_range to 10 ([#80797](https://github.com/CleverRaven/Cataclysm-DDA/pull/80797))
@@ -228,4 +229,3 @@
 * Try fix android build error ([#80777](https://github.com/CleverRaven/Cataclysm-DDA/pull/80777))
 * [ Bombastic Perks ] Make myself the maintainer ([#80778](https://github.com/CleverRaven/Cataclysm-DDA/pull/80778))
 * Routine tileset updates on 01 May 2025 ([#80779](https://github.com/CleverRaven/Cataclysm-DDA/pull/80779))
-* Fix sdl_mouse.h include ([#80769](https://github.com/CleverRaven/Cataclysm-DDA/pull/80769))
