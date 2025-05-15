@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-15-0846 ([1ca3385](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-15-0846))
+
 * Gown audit ([#80917](https://github.com/CleverRaven/Cataclysm-DDA/pull/80917))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-05-08-0837 ([4c87254](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-0837))
 
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-08-0418 ([f64ce85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-0418))
-
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
 * coord: silence clang warning about unused value ([#80844](https://github.com/CleverRaven/Cataclysm-DDA/pull/80844))
 * [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
