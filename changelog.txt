@@ -1,3 +1,4 @@
+* Gown audit (#80917)
 
 Cataclysm-DDA experimental build 2025-05-15-0621 (0ef6c2e)
 * Don't load invalid/removed map extras into overmap layers (#80919)

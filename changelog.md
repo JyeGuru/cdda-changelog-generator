@@ -1,3 +1,4 @@
+* Gown audit ([#80917](https://github.com/CleverRaven/Cataclysm-DDA/pull/80917))
 
 ---
 
