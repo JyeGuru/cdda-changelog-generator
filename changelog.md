@@ -226,7 +226,6 @@
 * Disable crafting volume restrictions for faction and construction cra… ([#80794](https://github.com/CleverRaven/Cataclysm-DDA/pull/80794))
 * Silence keg dispensing ([#80784](https://github.com/CleverRaven/Cataclysm-DDA/pull/80784))
 * Obsolete Stats through Skills ([#80780](https://github.com/CleverRaven/Cataclysm-DDA/pull/80780))
-* Translate coordinates correctly (and with more ease) ([#80773](https://github.com/CleverRaven/Cataclysm-DDA/pull/80773))
 * Try fix android build error ([#80777](https://github.com/CleverRaven/Cataclysm-DDA/pull/80777))
 * [ Bombastic Perks ] Make myself the maintainer ([#80778](https://github.com/CleverRaven/Cataclysm-DDA/pull/80778))
 * Routine tileset updates on 01 May 2025 ([#80779](https://github.com/CleverRaven/Cataclysm-DDA/pull/80779))
