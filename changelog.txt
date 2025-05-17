@@ -1,3 +1,4 @@
+* allow extending/deleting move_skills (#80948)
 
 Cataclysm-DDA experimental build 2025-05-15-0846 (1ca3385)
 * Gown audit (#80917)
@@ -99,8 +100,6 @@ Cataclysm-DDA experimental build 2025-05-08-1053 (b1616b9)
 * Handle crafting using nested container components (#80855)
 * Evac shelter info board (#80851)
 * Avoid iterating over vehicle::relative_parts directly as it can get changed within the loop body. (#80850)
-
-Cataclysm-DDA experimental build 2025-05-08-0837 (4c87254)
 * converts military ammo can to +P  (#80861)
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI (#80853)
 * coord: silence clang warning about unused value (#80844)

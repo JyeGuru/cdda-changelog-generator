@@ -1,3 +1,4 @@
+* allow extending/deleting move_skills ([#80948](https://github.com/CleverRaven/Cataclysm-DDA/pull/80948))
 
 ---
 
@@ -180,11 +181,6 @@
 * Handle crafting using nested container components ([#80855](https://github.com/CleverRaven/Cataclysm-DDA/pull/80855))
 * Evac shelter info board ([#80851](https://github.com/CleverRaven/Cataclysm-DDA/pull/80851))
 * Avoid iterating over vehicle::relative_parts directly as it can get changed within the loop body. ([#80850](https://github.com/CleverRaven/Cataclysm-DDA/pull/80850))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-08-0837 ([4c87254](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-0837))
-
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
 * coord: silence clang warning about unused value ([#80844](https://github.com/CleverRaven/Cataclysm-DDA/pull/80844))
