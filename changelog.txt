@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-17-2315 (bdb9b3e)
+* Routine i18n updates on 17 May 2025 (#80970)
+
 Cataclysm-DDA experimental build 2025-05-17-0543 (22f9e26)
 * Black is bad (#80960)
 * Clean up some more more itemgroups (#80961)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-05-09-1952 (4eae0c0)
 
 Cataclysm-DDA experimental build 2025-05-09-0717 (e6c3480)
 * [ Xedra Evolved ] A tiny snippet of dreamsmith lore (#80871)
-
-Cataclysm-DDA experimental build 2025-05-08-2330 (cd66d15)
 * [Xedra Evolved] Add Hedge Magick magic_type (#80869)
 * add soccer as hobbies (#80810)
 * Snippetize Tshirt variants (#80859)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2025-05-08-2330 (cd66d15)
 * math: rewrite tokenizer (#80795)
 * Standardize query_int() (#80803)
 * Change fov_3d_z_range to 10 (#80797)
-* Added swap_map to safeguard temporary map access (#80782)
 * [alt-map-key] Change all keys to capital letters and remove inverted coloring (#80805)
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong (#80808)
 * Obsolete grip mods (#80798)

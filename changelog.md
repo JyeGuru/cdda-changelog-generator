@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-17-2315 ([bdb9b3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-17-2315))
+
+* Routine i18n updates on 17 May 2025 ([#80970](https://github.com/CleverRaven/Cataclysm-DDA/pull/80970))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-17-0543 ([22f9e26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-17-0543))
 
 * Black is bad ([#80960](https://github.com/CleverRaven/Cataclysm-DDA/pull/80960))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-05-09-0717 ([e6c3480](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-09-0717))
 
 * [ Xedra Evolved ] A tiny snippet of dreamsmith lore ([#80871](https://github.com/CleverRaven/Cataclysm-DDA/pull/80871))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-08-2330 ([cd66d15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-2330))
-
 * [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
 * add soccer as hobbies ([#80810](https://github.com/CleverRaven/Cataclysm-DDA/pull/80810))
 * Snippetize Tshirt variants ([#80859](https://github.com/CleverRaven/Cataclysm-DDA/pull/80859))
@@ -210,7 +211,6 @@
 * math: rewrite tokenizer ([#80795](https://github.com/CleverRaven/Cataclysm-DDA/pull/80795))
 * Standardize query_int() ([#80803](https://github.com/CleverRaven/Cataclysm-DDA/pull/80803))
 * Change fov_3d_z_range to 10 ([#80797](https://github.com/CleverRaven/Cataclysm-DDA/pull/80797))
-* Added swap_map to safeguard temporary map access ([#80782](https://github.com/CleverRaven/Cataclysm-DDA/pull/80782))
 * [alt-map-key] Change all keys to capital letters and remove inverted coloring ([#80805](https://github.com/CleverRaven/Cataclysm-DDA/pull/80805))
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong ([#80808](https://github.com/CleverRaven/Cataclysm-DDA/pull/80808))
 * Obsolete grip mods ([#80798](https://github.com/CleverRaven/Cataclysm-DDA/pull/80798))
