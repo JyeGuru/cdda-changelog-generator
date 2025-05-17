@@ -1,3 +1,7 @@
+* Clean up some more more itemgroups ([#80961](https://github.com/CleverRaven/Cataclysm-DDA/pull/80961))
+* [Backrooms] Add (rare) almond water ([#80941](https://github.com/CleverRaven/Cataclysm-DDA/pull/80941))
+* add uneaten DaiZoom protein bars among the trash ([#80933](https://github.com/CleverRaven/Cataclysm-DDA/pull/80933))
+* migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
 * allow extending/deleting move_skills ([#80948](https://github.com/CleverRaven/Cataclysm-DDA/pull/80948))
 
 ---
@@ -221,7 +225,3 @@
 * [MoM/Magiclysm/XE/Sky Island] The powers of the Warp do not like you trying to teleport past the rules ([#80785](https://github.com/CleverRaven/Cataclysm-DDA/pull/80785))
 * Disable crafting volume restrictions for faction and construction cra… ([#80794](https://github.com/CleverRaven/Cataclysm-DDA/pull/80794))
 * Silence keg dispensing ([#80784](https://github.com/CleverRaven/Cataclysm-DDA/pull/80784))
-* Obsolete Stats through Skills ([#80780](https://github.com/CleverRaven/Cataclysm-DDA/pull/80780))
-* Try fix android build error ([#80777](https://github.com/CleverRaven/Cataclysm-DDA/pull/80777))
-* [ Bombastic Perks ] Make myself the maintainer ([#80778](https://github.com/CleverRaven/Cataclysm-DDA/pull/80778))
-* Routine tileset updates on 01 May 2025 ([#80779](https://github.com/CleverRaven/Cataclysm-DDA/pull/80779))
