@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-17-0543 ([22f9e26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-17-0543))
+
 * Black is bad ([#80960](https://github.com/CleverRaven/Cataclysm-DDA/pull/80960))
 * Clean up some more more itemgroups ([#80961](https://github.com/CleverRaven/Cataclysm-DDA/pull/80961))
 * [Backrooms] Add (rare) almond water ([#80941](https://github.com/CleverRaven/Cataclysm-DDA/pull/80941))
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-05-08-2330 ([cd66d15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-2330))
 
 * [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-08-1053 ([b1616b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-08-1053))
-
 * add soccer as hobbies ([#80810](https://github.com/CleverRaven/Cataclysm-DDA/pull/80810))
 * Snippetize Tshirt variants ([#80859](https://github.com/CleverRaven/Cataclysm-DDA/pull/80859))
 * Some recipes have 'hard' proficiency requirements (Bronze edition) ([#80858](https://github.com/CleverRaven/Cataclysm-DDA/pull/80858))
