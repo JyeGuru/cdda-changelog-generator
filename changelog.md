@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-18-0140 ([9d5f4a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-18-0140))
+
+* use climb skill for pathfinding and showing ability ([#80963](https://github.com/CleverRaven/Cataclysm-DDA/pull/80963))
+* [Backrooms] Fix wasp/dermatik roofs ([#80953](https://github.com/CleverRaven/Cataclysm-DDA/pull/80953))
+* resize bag_zipper & sandwiches ([#80955](https://github.com/CleverRaven/Cataclysm-DDA/pull/80955))
+* Migrate flag SWIMS to moveskills ([#80949](https://github.com/CleverRaven/Cataclysm-DDA/pull/80949))
+* A bit of copy-from for bludgeons ([#80964](https://github.com/CleverRaven/Cataclysm-DDA/pull/80964))
+* resize some meds ([#80971](https://github.com/CleverRaven/Cataclysm-DDA/pull/80971))
+* Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
+* Finish the variantization of fursuits ([#80979](https://github.com/CleverRaven/Cataclysm-DDA/pull/80979))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-17-2315 ([bdb9b3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-17-2315))
 
 * Routine i18n updates on 17 May 2025 ([#80970](https://github.com/CleverRaven/Cataclysm-DDA/pull/80970))
@@ -174,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-09-1952 ([4eae0c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-09-1952))
 
 * Prevent mechanical_damage fault from being applied when repairing item ([#80880](https://github.com/CleverRaven/Cataclysm-DDA/pull/80880))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-09-0717 ([e6c3480](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-09-0717))
-
 * [ Xedra Evolved ] A tiny snippet of dreamsmith lore ([#80871](https://github.com/CleverRaven/Cataclysm-DDA/pull/80871))
 * [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
 * add soccer as hobbies ([#80810](https://github.com/CleverRaven/Cataclysm-DDA/pull/80810))
@@ -218,11 +226,4 @@
 * blacklist bone_tainted ([#80818](https://github.com/CleverRaven/Cataclysm-DDA/pull/80818))
 * [XEDRA] Chronomancer Updates / Additions ([#80806](https://github.com/CleverRaven/Cataclysm-DDA/pull/80806))
 * Adjust Hitman Profession ([#80813](https://github.com/CleverRaven/Cataclysm-DDA/pull/80813))
-* Mics changes in faults ([#80783](https://github.com/CleverRaven/Cataclysm-DDA/pull/80783))
-* actual back berm for shooting range ([#80788](https://github.com/CleverRaven/Cataclysm-DDA/pull/80788))
-* vitamin C fragment ([#80792](https://github.com/CleverRaven/Cataclysm-DDA/pull/80792))
-* Add canola stalks drying ([#80789](https://github.com/CleverRaven/Cataclysm-DDA/pull/80789))
-* Fix incorrect damage values for compound bow (high/low) ([#80787](https://github.com/CleverRaven/Cataclysm-DDA/pull/80787))
-* [MoM/Magiclysm/XE/Sky Island] The powers of the Warp do not like you trying to teleport past the rules ([#80785](https://github.com/CleverRaven/Cataclysm-DDA/pull/80785))
 * Disable crafting volume restrictions for faction and construction cra… ([#80794](https://github.com/CleverRaven/Cataclysm-DDA/pull/80794))
-* Silence keg dispensing ([#80784](https://github.com/CleverRaven/Cataclysm-DDA/pull/80784))
