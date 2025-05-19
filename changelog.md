@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-19-1107 ([9934d66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-1107))
+
 * Kukri sprite for all kukris ([#80973](https://github.com/CleverRaven/Cataclysm-DDA/pull/80973))
 * Less garbage in dumpsters ([#80989](https://github.com/CleverRaven/Cataclysm-DDA/pull/80989))
 * Attempt to make anger relations work inside of aggro_character ([#80981](https://github.com/CleverRaven/Cataclysm-DDA/pull/80981))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-05-10-1710 ([3b51d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-1710))
 
 * Reduce suppressor spawns ([#80879](https://github.com/CleverRaven/Cataclysm-DDA/pull/80879))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-10-0710 ([eab62a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-0710))
-
 * Update and variantize jerseys ([#80838](https://github.com/CleverRaven/Cataclysm-DDA/pull/80838))
 * [MoM] Review Nether Attunement equations ([#80863](https://github.com/CleverRaven/Cataclysm-DDA/pull/80863))
 * Turn sheriff shirts into postman shirt variants ([#80866](https://github.com/CleverRaven/Cataclysm-DDA/pull/80866))
