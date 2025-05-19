@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-19-2157 ([8ca73d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-2157))
+
 * [ Magiclysm ] Fix Warg Food Bugs ([#80885](https://github.com/CleverRaven/Cataclysm-DDA/pull/80885))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-05-10-2140 ([9a38c0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-2140))
 
 * Prune obsolete mods + remove code support for skill_boost ([#80883](https://github.com/CleverRaven/Cataclysm-DDA/pull/80883))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-10-1929 ([d2cfdba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-1929))
-
 * Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
 * Reduce suppressor spawns ([#80879](https://github.com/CleverRaven/Cataclysm-DDA/pull/80879))
 * Update and variantize jerseys ([#80838](https://github.com/CleverRaven/Cataclysm-DDA/pull/80838))

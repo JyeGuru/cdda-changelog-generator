@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-19-2157 (8ca73d9)
 * [ Magiclysm ] Fix Warg Food Bugs (#80885)
 
 Cataclysm-DDA experimental build 2025-05-19-1947 (187b190)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-05-11-1937 (6961198)
 
 Cataclysm-DDA experimental build 2025-05-10-2140 (9a38c0f)
 * Prune obsolete mods + remove code support for skill_boost (#80883)
-
-Cataclysm-DDA experimental build 2025-05-10-1929 (d2cfdba)
 * Translate martial art condition text and cable notification text (#80887)
 * Reduce suppressor spawns (#80879)
 * Update and variantize jerseys (#80838)
