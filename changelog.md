@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-19-0233 ([083db57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-0233))
+
+* Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-18-1808 ([6461570](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-18-1808))
 
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants ([#80980](https://github.com/CleverRaven/Cataclysm-DDA/pull/80980))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-05-10-0500 ([983d27b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-0500))
 
 * Routine i18n updates on 10 May 2025 ([#80886](https://github.com/CleverRaven/Cataclysm-DDA/pull/80886))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-09-2213 ([ec27d39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-09-2213))
-
 * military 9mm spawning distribution ([#80873](https://github.com/CleverRaven/Cataclysm-DDA/pull/80873))
 * Fix jack o'lantern ([#80876](https://github.com/CleverRaven/Cataclysm-DDA/pull/80876))
 * Prevent mechanical_damage fault from being applied when repairing item ([#80880](https://github.com/CleverRaven/Cataclysm-DDA/pull/80880))
@@ -227,4 +228,3 @@
 * blacklist bone_tainted ([#80818](https://github.com/CleverRaven/Cataclysm-DDA/pull/80818))
 * [XEDRA] Chronomancer Updates / Additions ([#80806](https://github.com/CleverRaven/Cataclysm-DDA/pull/80806))
 * Adjust Hitman Profession ([#80813](https://github.com/CleverRaven/Cataclysm-DDA/pull/80813))
-* Disable crafting volume restrictions for faction and construction cra… ([#80794](https://github.com/CleverRaven/Cataclysm-DDA/pull/80794))
