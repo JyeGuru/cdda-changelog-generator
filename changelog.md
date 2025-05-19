@@ -1,3 +1,10 @@
+* [ Magiclysm ] Fix Warg Food Bugs ([#80885](https://github.com/CleverRaven/Cataclysm-DDA/pull/80885))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-19-1947 ([187b190](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-1947))
+
+* Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
 
 ---
 
@@ -182,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-05-10-1929 ([d2cfdba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-1929))
 
 * Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-10-1710 ([3b51d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-10-1710))
-
 * Reduce suppressor spawns ([#80879](https://github.com/CleverRaven/Cataclysm-DDA/pull/80879))
 * Update and variantize jerseys ([#80838](https://github.com/CleverRaven/Cataclysm-DDA/pull/80838))
 * [MoM] Review Nether Attunement equations ([#80863](https://github.com/CleverRaven/Cataclysm-DDA/pull/80863))
@@ -197,7 +199,6 @@
 * Prevent mechanical_damage fault from being applied when repairing item ([#80880](https://github.com/CleverRaven/Cataclysm-DDA/pull/80880))
 * [ Xedra Evolved ] A tiny snippet of dreamsmith lore ([#80871](https://github.com/CleverRaven/Cataclysm-DDA/pull/80871))
 * [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
-* add soccer as hobbies ([#80810](https://github.com/CleverRaven/Cataclysm-DDA/pull/80810))
 * Snippetize Tshirt variants ([#80859](https://github.com/CleverRaven/Cataclysm-DDA/pull/80859))
 * Some recipes have 'hard' proficiency requirements (Bronze edition) ([#80858](https://github.com/CleverRaven/Cataclysm-DDA/pull/80858))
 * Handle crafting using nested container components ([#80855](https://github.com/CleverRaven/Cataclysm-DDA/pull/80855))
@@ -222,8 +223,6 @@
 * Weekly Changelog 2025-04-28 to 2025-05-05 ([#80828](https://github.com/CleverRaven/Cataclysm-DDA/pull/80828))
 * [MoM] Change the difficulty of all contemplation recipes to 0 ([#80822](https://github.com/CleverRaven/Cataclysm-DDA/pull/80822))
 * [alt-map-key] In game mod description update ([#80817](https://github.com/CleverRaven/Cataclysm-DDA/pull/80817))
-* Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong ([#80808](https://github.com/CleverRaven/Cataclysm-DDA/pull/80808))
 * [MoM] Fix crafting contemplation recipes your followers know ([#80814](https://github.com/CleverRaven/Cataclysm-DDA/pull/80814))
 * blacklist bone_tainted ([#80818](https://github.com/CleverRaven/Cataclysm-DDA/pull/80818))
-* [XEDRA] Chronomancer Updates / Additions ([#80806](https://github.com/CleverRaven/Cataclysm-DDA/pull/80806))
 * Adjust Hitman Profession ([#80813](https://github.com/CleverRaven/Cataclysm-DDA/pull/80813))
