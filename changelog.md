@@ -1,3 +1,4 @@
+* Kukri sprite for all kukris ([#80973](https://github.com/CleverRaven/Cataclysm-DDA/pull/80973))
 * Less garbage in dumpsters ([#80989](https://github.com/CleverRaven/Cataclysm-DDA/pull/80989))
 * Attempt to make anger relations work inside of aggro_character ([#80981](https://github.com/CleverRaven/Cataclysm-DDA/pull/80981))
 * Skull balaclava audit ([#80990](https://github.com/CleverRaven/Cataclysm-DDA/pull/80990))
@@ -221,7 +222,6 @@
 * Weekly Changelog 2025-04-28 to 2025-05-05 ([#80828](https://github.com/CleverRaven/Cataclysm-DDA/pull/80828))
 * [MoM] Change the difficulty of all contemplation recipes to 0 ([#80822](https://github.com/CleverRaven/Cataclysm-DDA/pull/80822))
 * [alt-map-key] In game mod description update ([#80817](https://github.com/CleverRaven/Cataclysm-DDA/pull/80817))
-* Standardize query_int() ([#80803](https://github.com/CleverRaven/Cataclysm-DDA/pull/80803))
 * [alt-map-key] Change all keys to capital letters and remove inverted coloring ([#80805](https://github.com/CleverRaven/Cataclysm-DDA/pull/80805))
 * Fix the issue of activity_var not being erased and when using fishing rod activity_var setting wrong ([#80808](https://github.com/CleverRaven/Cataclysm-DDA/pull/80808))
 * [MoM] Fix crafting contemplation recipes your followers know ([#80814](https://github.com/CleverRaven/Cataclysm-DDA/pull/80814))
