@@ -1,3 +1,4 @@
+* Remove some particularly WTF crafting recipes (#81007)
 
 Cataclysm-DDA experimental build 2025-05-19-2157 (8ca73d9)
 * [ Magiclysm ] Fix Warg Food Bugs (#80885)

@@ -1,3 +1,4 @@
+* Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
 
 ---
 
