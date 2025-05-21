@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-21-1747 (c89def0)
 * Mapgen: remove unused and obsolete JSON fields (#81004)
 
 Cataclysm-DDA experimental build 2025-05-21-1521 (4053cb4)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-05-13-1212 (d80ae6d)
 
 Cataclysm-DDA experimental build 2025-05-12-2102 (e636359)
 * Nuclear plant fixes (#80904)
-
-Cataclysm-DDA experimental build 2025-05-12-1136 (ceff154)
 * Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
 * Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` (#80870)
 * Subject suit audit (#80891)

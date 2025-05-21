@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-21-1747 ([c89def0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-1747))
+
 * Mapgen: remove unused and obsolete JSON fields ([#81004](https://github.com/CleverRaven/Cataclysm-DDA/pull/81004))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-05-12-2102 ([e636359](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-2102))
 
 * Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-12-1136 ([ceff154](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-1136))
-
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
 * Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` ([#80870](https://github.com/CleverRaven/Cataclysm-DDA/pull/80870))
 * Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
