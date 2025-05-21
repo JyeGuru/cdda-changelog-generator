@@ -1,3 +1,10 @@
+* Mapgen: remove unused and obsolete JSON fields ([#81004](https://github.com/CleverRaven/Cataclysm-DDA/pull/81004))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-21-1521 ([4053cb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-1521))
+
+* Re-reduce mission search range so that failed search fails in reasonable time ([#81021](https://github.com/CleverRaven/Cataclysm-DDA/pull/81021))
 
 ---
 
@@ -180,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-12-1136 ([ceff154](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-1136))
 
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-12-0440 ([93e97e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-0440))
-
 * Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` ([#80870](https://github.com/CleverRaven/Cataclysm-DDA/pull/80870))
 * Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
 * Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
@@ -223,5 +225,3 @@
 * Stop setting small city dumps on fire ([#80833](https://github.com/CleverRaven/Cataclysm-DDA/pull/80833))
 * Replace Boston-Chan suit with a blazer variant ([#80832](https://github.com/CleverRaven/Cataclysm-DDA/pull/80832))
 * [Sky Island] Fix Tier One Bunker Crafting Recipes ([#80830](https://github.com/CleverRaven/Cataclysm-DDA/pull/80830))
-* [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant ([#80827](https://github.com/CleverRaven/Cataclysm-DDA/pull/80827))
-* Weekly Changelog 2025-04-28 to 2025-05-05 ([#80828](https://github.com/CleverRaven/Cataclysm-DDA/pull/80828))

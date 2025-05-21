@@ -1,3 +1,7 @@
+* Mapgen: remove unused and obsolete JSON fields (#81004)
+
+Cataclysm-DDA experimental build 2025-05-21-1521 (4053cb4)
+* Re-reduce mission search range so that failed search fails in reasonable time (#81021)
 
 Cataclysm-DDA experimental build 2025-05-21-0601 (b97041d)
 * Don't check crafting volume on vehicle modification (#81001)
@@ -102,8 +106,6 @@ Cataclysm-DDA experimental build 2025-05-12-2102 (e636359)
 
 Cataclysm-DDA experimental build 2025-05-12-1136 (ceff154)
 * Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
-
-Cataclysm-DDA experimental build 2025-05-12-0440 (93e97e5)
 * Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` (#80870)
 * Subject suit audit (#80891)
 * Better fault UI (#80898)
@@ -142,5 +144,3 @@ Cataclysm-DDA experimental build 2025-05-12-0440 (93e97e5)
 * Stop setting small city dumps on fire (#80833)
 * Replace Boston-Chan suit with a blazer variant (#80832)
 * [Sky Island] Fix Tier One Bunker Crafting Recipes (#80830)
-* [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant (#80827)
-* Weekly Changelog 2025-04-28 to 2025-05-05 (#80828)
