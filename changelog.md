@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-21-2008 ([6876833](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-2008))
+
 * [MoM] Phase volume requirements ([#81014](https://github.com/CleverRaven/Cataclysm-DDA/pull/81014))
 
 ---
