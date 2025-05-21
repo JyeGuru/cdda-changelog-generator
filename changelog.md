@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-21-0601 ([b97041d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-0601))
+
 * Don't check crafting volume on vehicle modification ([#81001](https://github.com/CleverRaven/Cataclysm-DDA/pull/81001))
 * Add vehicles to military outpost ([#81011](https://github.com/CleverRaven/Cataclysm-DDA/pull/81011))
 * various move_skills bugfixes ([#81013](https://github.com/CleverRaven/Cataclysm-DDA/pull/81013))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-05-12-0440 ([93e97e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-0440))
 
 * Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` ([#80870](https://github.com/CleverRaven/Cataclysm-DDA/pull/80870))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-12-0120 ([2500bb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-12-0120))
-
 * Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
 * Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
 * Faults/t-shirt typo fix ([#80875](https://github.com/CleverRaven/Cataclysm-DDA/pull/80875))
