@@ -1,3 +1,4 @@
+* Bugfix: continue with destination activity if route is empty ([#80974](https://github.com/CleverRaven/Cataclysm-DDA/pull/80974))
 
 ---
 
@@ -223,5 +224,4 @@
 * bombasticperks: convert words to variables (where possible) ([#80819](https://github.com/CleverRaven/Cataclysm-DDA/pull/80819))
 * Weekly Changelog 2025-04-28 to 2025-05-05 ([#80828](https://github.com/CleverRaven/Cataclysm-DDA/pull/80828))
 * [MoM] Change the difficulty of all contemplation recipes to 0 ([#80822](https://github.com/CleverRaven/Cataclysm-DDA/pull/80822))
-* [alt-map-key] In game mod description update ([#80817](https://github.com/CleverRaven/Cataclysm-DDA/pull/80817))
 * blacklist bone_tainted ([#80818](https://github.com/CleverRaven/Cataclysm-DDA/pull/80818))

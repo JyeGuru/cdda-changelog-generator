@@ -1,3 +1,4 @@
+* Bugfix: continue with destination activity if route is empty (#80974)
 
 Cataclysm-DDA experimental build 2025-05-21-0124 (70109dc)
 * [Xedra Evolved] Curate available Arvore mutations that you gain through alchemy (#80951)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2025-05-11-2316 (76f1e9b)
 * bombasticperks: convert words to variables (where possible) (#80819)
 * Weekly Changelog 2025-04-28 to 2025-05-05 (#80828)
 * [MoM] Change the difficulty of all contemplation recipes to 0 (#80822)
-* [alt-map-key] In game mod description update (#80817)
 * blacklist bone_tainted (#80818)
