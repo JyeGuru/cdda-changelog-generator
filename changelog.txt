@@ -1,3 +1,4 @@
+* [MoM] Phase volume requirements (#81014)
 
 Cataclysm-DDA experimental build 2025-05-21-1747 (c89def0)
 * Mapgen: remove unused and obsolete JSON fields (#81004)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-05-12-2102 (e636359)
 * [Infrastructure] Always Display Spell Tabs (#80842)
 * Stop setting small city dumps on fire (#80833)
 * Replace Boston-Chan suit with a blazer variant (#80832)
-* [Sky Island] Fix Tier One Bunker Crafting Recipes (#80830)
