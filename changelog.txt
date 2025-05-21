@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-21-0124 (70109dc)
+* [Xedra Evolved] Curate available Arvore mutations that you gain through alchemy (#80951)
+
 Cataclysm-DDA experimental build 2025-05-20-0018 (1cd7795)
 * Remove some particularly WTF crafting recipes (#81007)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-05-12-0120 (2500bb1)
 
 Cataclysm-DDA experimental build 2025-05-11-2316 (76f1e9b)
 * Fix crater errors (#80900)
-
-Cataclysm-DDA experimental build 2025-05-11-1937 (6961198)
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage (#80894)
 * Prune obsolete mods + remove code support for skill_boost (#80883)
 * Translate martial art condition text and cable notification text (#80887)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2025-05-11-1937 (6961198)
 * [MoM] Dust used in contemplation recipes is drained, it doesn't vanish (#80836)
 * [Infrastructure] Always Display Spell Tabs (#80842)
 * Stop setting small city dumps on fire (#80833)
-* [Xedra Evolved] More hedge magic (#80815)
 * Replace Boston-Chan suit with a blazer variant (#80832)
 * [Sky Island] Fix Tier One Bunker Crafting Recipes (#80830)
 * [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant (#80827)

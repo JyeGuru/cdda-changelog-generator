@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-21-0124 ([70109dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-0124))
+
+* [Xedra Evolved] Curate available Arvore mutations that you gain through alchemy ([#80951](https://github.com/CleverRaven/Cataclysm-DDA/pull/80951))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-20-0018 ([1cd7795](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-20-0018))
 
 * Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-05-11-2316 ([76f1e9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-11-2316))
 
 * Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-11-1937 ([6961198](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-11-1937))
-
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage ([#80894](https://github.com/CleverRaven/Cataclysm-DDA/pull/80894))
 * Prune obsolete mods + remove code support for skill_boost ([#80883](https://github.com/CleverRaven/Cataclysm-DDA/pull/80883))
 * Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
@@ -216,7 +217,6 @@
 * [MoM] Dust used in contemplation recipes is drained, it doesn't vanish ([#80836](https://github.com/CleverRaven/Cataclysm-DDA/pull/80836))
 * [Infrastructure] Always Display Spell Tabs ([#80842](https://github.com/CleverRaven/Cataclysm-DDA/pull/80842))
 * Stop setting small city dumps on fire ([#80833](https://github.com/CleverRaven/Cataclysm-DDA/pull/80833))
-* [Xedra Evolved] More hedge magic ([#80815](https://github.com/CleverRaven/Cataclysm-DDA/pull/80815))
 * Replace Boston-Chan suit with a blazer variant ([#80832](https://github.com/CleverRaven/Cataclysm-DDA/pull/80832))
 * [Sky Island] Fix Tier One Bunker Crafting Recipes ([#80830](https://github.com/CleverRaven/Cataclysm-DDA/pull/80830))
 * [Magiclysm] Convert shapeshifter attunement to use encumbrance_modifier enchant ([#80827](https://github.com/CleverRaven/Cataclysm-DDA/pull/80827))
