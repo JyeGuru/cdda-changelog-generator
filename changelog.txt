@@ -1,3 +1,6 @@
+* various move_skills bugfixes (#81013)
+
+Cataclysm-DDA experimental build 2025-05-21-0343 (10b956f)
 * Bugfix: continue with destination activity if route is empty (#80974)
 
 Cataclysm-DDA experimental build 2025-05-21-0124 (70109dc)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2025-05-12-0120 (2500bb1)
 * Faults/t-shirt typo fix (#80875)
 * Fix monster grab and drag teleports (#80864)
 * Prisoner uniform audit (#80890)
-
-Cataclysm-DDA experimental build 2025-05-11-2316 (76f1e9b)
 * Fix crater errors (#80900)
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage (#80894)
 * Prune obsolete mods + remove code support for skill_boost (#80883)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-05-11-2316 (76f1e9b)
 * bombasticperks: convert words to variables (where possible) (#80819)
 * Weekly Changelog 2025-04-28 to 2025-05-05 (#80828)
 * [MoM] Change the difficulty of all contemplation recipes to 0 (#80822)
-* blacklist bone_tainted (#80818)
