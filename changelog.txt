@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-22-1609 (444c3c6)
+* Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) (#80999)
+
 Cataclysm-DDA experimental build 2025-05-22-1329 (1f6d027)
 * Basement lab entrance tweaks (#81009)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2025-05-13-1519 (c03f817)
 * Update the AK-74s to match their description (#80913)
 * Striped shirt audit (#80906)
 * [MoM] Add new Nether Attunement/portal storm effect, the Crack in Reality (#80914)
-
-Cataclysm-DDA experimental build 2025-05-13-1212 (d80ae6d)
 * Oil lamp rename (#80915)
 * Nuclear plant fixes (#80904)
 * Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2025-05-13-1212 (d80ae6d)
 * Aftershock: Integral Cryosuit boots (#80852)
 * Fix harvest_plant no product when not from_activity (#80848)
 * Don't set vat to empty when liquid is left in it (#80847)
-* [MoM] Dust used in contemplation recipes is drained, it doesn't vanish (#80836)
 * [Infrastructure] Always Display Spell Tabs (#80842)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-22-1609 ([444c3c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-22-1609))
+
+* Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) ([#80999](https://github.com/CleverRaven/Cataclysm-DDA/pull/80999))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-22-1329 ([1f6d027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-22-1329))
 
 * Basement lab entrance tweaks ([#81009](https://github.com/CleverRaven/Cataclysm-DDA/pull/81009))
@@ -186,11 +192,6 @@
 * Update the AK-74s to match their description ([#80913](https://github.com/CleverRaven/Cataclysm-DDA/pull/80913))
 * Striped shirt audit ([#80906](https://github.com/CleverRaven/Cataclysm-DDA/pull/80906))
 * [MoM] Add new Nether Attunement/portal storm effect, the Crack in Reality ([#80914](https://github.com/CleverRaven/Cataclysm-DDA/pull/80914))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-13-1212 ([d80ae6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-13-1212))
-
 * Oil lamp rename ([#80915](https://github.com/CleverRaven/Cataclysm-DDA/pull/80915))
 * Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
@@ -227,5 +228,4 @@
 * Aftershock: Integral Cryosuit boots ([#80852](https://github.com/CleverRaven/Cataclysm-DDA/pull/80852))
 * Fix harvest_plant no product when not from_activity ([#80848](https://github.com/CleverRaven/Cataclysm-DDA/pull/80848))
 * Don't set vat to empty when liquid is left in it ([#80847](https://github.com/CleverRaven/Cataclysm-DDA/pull/80847))
-* [MoM] Dust used in contemplation recipes is drained, it doesn't vanish ([#80836](https://github.com/CleverRaven/Cataclysm-DDA/pull/80836))
 * [Infrastructure] Always Display Spell Tabs ([#80842](https://github.com/CleverRaven/Cataclysm-DDA/pull/80842))
