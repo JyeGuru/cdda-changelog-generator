@@ -1,3 +1,4 @@
+* Fix text changes CI choking on copy-frommed spells with indistinct names (#81033)
 
 Cataclysm-DDA experimental build 2025-05-23-0615 (53e8da4)
 * [MoM] Add psychic knacks (#81016)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-05-14-0234 (a7398a8)
 * Avoid iterating over vehicle::relative_parts directly as it can get changed within the loop body. (#80850)
 * converts military ammo can to +P  (#80861)
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI (#80853)
-* coord: silence clang warning about unused value (#80844)
 * [XE] Fix Astral Projection weariness EOC (#80854)
 * eoc: fix map_in_city and can_see_location (#80845)
 * Aftershock: Integral Cryosuit boots (#80852)

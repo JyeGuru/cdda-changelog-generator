@@ -1,3 +1,4 @@
+* Fix text changes CI choking on copy-frommed spells with indistinct names ([#81033](https://github.com/CleverRaven/Cataclysm-DDA/pull/81033))
 
 ---
 
@@ -223,7 +224,6 @@
 * Avoid iterating over vehicle::relative_parts directly as it can get changed within the loop body. ([#80850](https://github.com/CleverRaven/Cataclysm-DDA/pull/80850))
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
-* coord: silence clang warning about unused value ([#80844](https://github.com/CleverRaven/Cataclysm-DDA/pull/80844))
 * [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
 * eoc: fix map_in_city and can_see_location ([#80845](https://github.com/CleverRaven/Cataclysm-DDA/pull/80845))
 * Aftershock: Integral Cryosuit boots ([#80852](https://github.com/CleverRaven/Cataclysm-DDA/pull/80852))
