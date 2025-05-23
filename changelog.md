@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-23-0615 ([53e8da4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-23-0615))
+
+* [MoM] Add psychic knacks ([#81016](https://github.com/CleverRaven/Cataclysm-DDA/pull/81016))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-23-0017 ([7d41842](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-23-0017))
 
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-05-14-0234 ([a7398a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0234))
 
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-14-0018 ([69c3b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0018))
-
 * Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
 * zero skill ar uppers ([#80888](https://github.com/CleverRaven/Cataclysm-DDA/pull/80888))
 * Some more itemgroup cleaning ([#80903](https://github.com/CleverRaven/Cataclysm-DDA/pull/80903))
@@ -228,4 +229,3 @@
 * Aftershock: Integral Cryosuit boots ([#80852](https://github.com/CleverRaven/Cataclysm-DDA/pull/80852))
 * Fix harvest_plant no product when not from_activity ([#80848](https://github.com/CleverRaven/Cataclysm-DDA/pull/80848))
 * Don't set vat to empty when liquid is left in it ([#80847](https://github.com/CleverRaven/Cataclysm-DDA/pull/80847))
-* [Infrastructure] Always Display Spell Tabs ([#80842](https://github.com/CleverRaven/Cataclysm-DDA/pull/80842))
