@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-23-0017 (7d41842)
+* [MoM] Reality Tear teleportion power is now temporary (hopefully...) (#81022)
+
 Cataclysm-DDA experimental build 2025-05-22-1609 (444c3c6)
 * Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) (#80999)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2025-05-14-0234 (a7398a8)
 
 Cataclysm-DDA experimental build 2025-05-14-0018 (69c3b76)
 * Remove opinion increases from failed recruitment (#80929)
-
-Cataclysm-DDA experimental build 2025-05-13-1519 (c03f817)
 * zero skill ar uppers (#80888)
 * Some more itemgroup cleaning (#80903)
 * Update the AK-74s to match their description (#80913)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2025-05-13-1519 (c03f817)
 * Prune obsolete mods + remove code support for skill_boost (#80883)
 * Translate martial art condition text and cable notification text (#80887)
 * Reduce suppressor spawns (#80879)
-* Update and variantize jerseys (#80838)
 * [MoM] Review Nether Attunement equations (#80863)
 * Turn sheriff shirts into postman shirt variants (#80866)
 * Routine i18n updates on 10 May 2025 (#80886)
