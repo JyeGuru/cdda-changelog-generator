@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-24-1941 ([bdb88ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-24-1941))
+
 * You too can be euforic for fullfiling your wishes from before the cataclysm! ([#80945](https://github.com/CleverRaven/Cataclysm-DDA/pull/80945))
 * Modernize and fix Hub 01 modular recon headgear ([#80969](https://github.com/CleverRaven/Cataclysm-DDA/pull/80969))
 * Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
@@ -185,11 +190,6 @@
 * [Xedra Evolved] Remove vampires' free bite, vampires take more mutagen ([#80926](https://github.com/CleverRaven/Cataclysm-DDA/pull/80926))
 * [Mods] Fix typos ([#80895](https://github.com/CleverRaven/Cataclysm-DDA/pull/80895))
 * Added oat milk and polished the other plant milks. ([#80920](https://github.com/CleverRaven/Cataclysm-DDA/pull/80920))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-14-0445 ([c15fc83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0445))
-
 * [MoM] Nether Attunement Spoilers document ([#80857](https://github.com/CleverRaven/Cataclysm-DDA/pull/80857))
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
