@@ -1,3 +1,11 @@
+* Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
+* Flag jumpsuit audit ([#80977](https://github.com/CleverRaven/Cataclysm-DDA/pull/80977))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-24-1734 ([b7f85d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-24-1734))
+
+* fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
 * Fix text changes CI choking on copy-frommed spells with indistinct names ([#81033](https://github.com/CleverRaven/Cataclysm-DDA/pull/81033))
 
 ---
@@ -181,13 +189,7 @@
 #### Cataclysm-DDA experimental build 2025-05-14-0445 ([c15fc83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0445))
 
 * [MoM] Nether Attunement Spoilers document ([#80857](https://github.com/CleverRaven/Cataclysm-DDA/pull/80857))
-* Allow monsters to have different climb/swim/dig speeds ([#80849](https://github.com/CleverRaven/Cataclysm-DDA/pull/80849))
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-14-0234 ([a7398a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-0234))
-
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
 * Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
 * zero skill ar uppers ([#80888](https://github.com/CleverRaven/Cataclysm-DDA/pull/80888))
@@ -226,5 +228,3 @@
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
 * [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
 * Aftershock: Integral Cryosuit boots ([#80852](https://github.com/CleverRaven/Cataclysm-DDA/pull/80852))
-* Fix harvest_plant no product when not from_activity ([#80848](https://github.com/CleverRaven/Cataclysm-DDA/pull/80848))
-* Don't set vat to empty when liquid is left in it ([#80847](https://github.com/CleverRaven/Cataclysm-DDA/pull/80847))
