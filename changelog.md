@@ -1,3 +1,5 @@
+* You too can be euforic for fullfiling your wishes from before the cataclysm! ([#80945](https://github.com/CleverRaven/Cataclysm-DDA/pull/80945))
+* Modernize and fix Hub 01 modular recon headgear ([#80969](https://github.com/CleverRaven/Cataclysm-DDA/pull/80969))
 * Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
 * Flag jumpsuit audit ([#80977](https://github.com/CleverRaven/Cataclysm-DDA/pull/80977))
 
@@ -222,8 +224,6 @@
 * Snippetize Tshirt variants ([#80859](https://github.com/CleverRaven/Cataclysm-DDA/pull/80859))
 * Some recipes have 'hard' proficiency requirements (Bronze edition) ([#80858](https://github.com/CleverRaven/Cataclysm-DDA/pull/80858))
 * Handle crafting using nested container components ([#80855](https://github.com/CleverRaven/Cataclysm-DDA/pull/80855))
-* Evac shelter info board ([#80851](https://github.com/CleverRaven/Cataclysm-DDA/pull/80851))
-* Avoid iterating over vehicle::relative_parts directly as it can get changed within the loop body. ([#80850](https://github.com/CleverRaven/Cataclysm-DDA/pull/80850))
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
 * [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
