@@ -1,3 +1,4 @@
+* Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
 
 ---
 
@@ -231,5 +232,4 @@
 * Some recipes have 'hard' proficiency requirements (Bronze edition) ([#80858](https://github.com/CleverRaven/Cataclysm-DDA/pull/80858))
 * Handle crafting using nested container components ([#80855](https://github.com/CleverRaven/Cataclysm-DDA/pull/80855))
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
-* [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
 * [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
