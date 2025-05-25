@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-25-1644 ([b1f5335](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-25-1644))
+
+* adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-24-1941 ([bdb88ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-24-1941))
 
 * You too can be euforic for fullfiling your wishes from before the cataclysm! ([#80945](https://github.com/CleverRaven/Cataclysm-DDA/pull/80945))
@@ -227,4 +233,3 @@
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
 * [MoM] Smooth out Nether Attunement scaling, show Torrential Channeling/noetic resilience in UI ([#80853](https://github.com/CleverRaven/Cataclysm-DDA/pull/80853))
 * [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
-* Aftershock: Integral Cryosuit boots ([#80852](https://github.com/CleverRaven/Cataclysm-DDA/pull/80852))
