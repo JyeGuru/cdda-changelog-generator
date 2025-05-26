@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-26-1731 ([61ffda4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1731))
+
+* Add test to ensure calorie density < ~9.02cal/g ([#81051](https://github.com/CleverRaven/Cataclysm-DDA/pull/81051))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-26-1402 ([1a4eaca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1402))
 
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-05-17-2315 ([bdb9b3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-17-2315))
 
 * Routine i18n updates on 17 May 2025 ([#80970](https://github.com/CleverRaven/Cataclysm-DDA/pull/80970))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-17-0543 ([22f9e26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-17-0543))
-
 * Black is bad ([#80960](https://github.com/CleverRaven/Cataclysm-DDA/pull/80960))
 * Clean up some more more itemgroups ([#80961](https://github.com/CleverRaven/Cataclysm-DDA/pull/80961))
 * [Backrooms] Add (rare) almond water ([#80941](https://github.com/CleverRaven/Cataclysm-DDA/pull/80941))
@@ -220,7 +221,6 @@
 * Prune obsolete mods + remove code support for skill_boost ([#80883](https://github.com/CleverRaven/Cataclysm-DDA/pull/80883))
 * Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
 * Reduce suppressor spawns ([#80879](https://github.com/CleverRaven/Cataclysm-DDA/pull/80879))
-* Turn sheriff shirts into postman shirt variants ([#80866](https://github.com/CleverRaven/Cataclysm-DDA/pull/80866))
 * Routine i18n updates on 10 May 2025 ([#80886](https://github.com/CleverRaven/Cataclysm-DDA/pull/80886))
 * military 9mm spawning distribution ([#80873](https://github.com/CleverRaven/Cataclysm-DDA/pull/80873))
 * Fix jack o'lantern ([#80876](https://github.com/CleverRaven/Cataclysm-DDA/pull/80876))
