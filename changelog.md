@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-26-1313 ([44d6bc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1313))
+
 * [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
 
@@ -180,11 +185,6 @@
 * add uneaten DaiZoom protein bars among the trash ([#80933](https://github.com/CleverRaven/Cataclysm-DDA/pull/80933))
 * migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
 * allow extending/deleting move_skills ([#80948](https://github.com/CleverRaven/Cataclysm-DDA/pull/80948))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-15-0846 ([1ca3385](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-15-0846))
-
 * Gown audit ([#80917](https://github.com/CleverRaven/Cataclysm-DDA/pull/80917))
 * Don't load invalid/removed map extras into overmap layers ([#80919](https://github.com/CleverRaven/Cataclysm-DDA/pull/80919))
 * Add animal themed hoodie and cropped hoodie variants ([#80921](https://github.com/CleverRaven/Cataclysm-DDA/pull/80921))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-26-1313 (44d6bc0)
 * [MoM] Add `Heart of Fire` challenge scenario (#81042)
 * Weekly Changelog 2025-05-19 to 2025-05-26 (#81067)
 
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2025-05-17-0543 (22f9e26)
 * add uneaten DaiZoom protein bars among the trash (#80933)
 * migrate CLIMBS flag to move_skill (#80965)
 * allow extending/deleting move_skills (#80948)
-
-Cataclysm-DDA experimental build 2025-05-15-0846 (1ca3385)
 * Gown audit (#80917)
 * Don't load invalid/removed map extras into overmap layers (#80919)
 * Add animal themed hoodie and cropped hoodie variants (#80921)
