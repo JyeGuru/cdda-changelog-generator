@@ -1,3 +1,10 @@
+* [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
+* Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-26-1236 ([d270bde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1236))
+
 * [ Xedra Evolved ] Remove Riot damage from Safe House and Border Patrol Office ([#80996](https://github.com/CleverRaven/Cataclysm-DDA/pull/80996))
 * More standalone freezers in houses ([#81010](https://github.com/CleverRaven/Cataclysm-DDA/pull/81010))
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-05-15-0846 ([1ca3385](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-15-0846))
 
 * Gown audit ([#80917](https://github.com/CleverRaven/Cataclysm-DDA/pull/80917))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-15-0621 ([0ef6c2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-15-0621))
-
 * Don't load invalid/removed map extras into overmap layers ([#80919](https://github.com/CleverRaven/Cataclysm-DDA/pull/80919))
 * Add animal themed hoodie and cropped hoodie variants ([#80921](https://github.com/CleverRaven/Cataclysm-DDA/pull/80921))
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
@@ -213,7 +215,6 @@
 * Prune obsolete mods + remove code support for skill_boost ([#80883](https://github.com/CleverRaven/Cataclysm-DDA/pull/80883))
 * Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
 * Reduce suppressor spawns ([#80879](https://github.com/CleverRaven/Cataclysm-DDA/pull/80879))
-* [MoM] Review Nether Attunement equations ([#80863](https://github.com/CleverRaven/Cataclysm-DDA/pull/80863))
 * Turn sheriff shirts into postman shirt variants ([#80866](https://github.com/CleverRaven/Cataclysm-DDA/pull/80866))
 * Routine i18n updates on 10 May 2025 ([#80886](https://github.com/CleverRaven/Cataclysm-DDA/pull/80886))
 * military 9mm spawning distribution ([#80873](https://github.com/CleverRaven/Cataclysm-DDA/pull/80873))
@@ -221,4 +222,3 @@
 * Prevent mechanical_damage fault from being applied when repairing item ([#80880](https://github.com/CleverRaven/Cataclysm-DDA/pull/80880))
 * [ Xedra Evolved ] A tiny snippet of dreamsmith lore ([#80871](https://github.com/CleverRaven/Cataclysm-DDA/pull/80871))
 * [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
-* converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
