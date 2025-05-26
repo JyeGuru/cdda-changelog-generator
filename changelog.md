@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-26-0113 ([37ab8be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-0113))
+
+* increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-25-1904 ([9c23396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-25-1904))
 
 * Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-05-14-2237 ([53e3a15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-2237))
 
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-14-1829 ([bf1bbee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-14-1829))
-
 * [MoM] Hostile NPC dialogue updates ([#80937](https://github.com/CleverRaven/Cataclysm-DDA/pull/80937))
 * [Xedra Evolved] Remove vampires' free bite, vampires take more mutagen ([#80926](https://github.com/CleverRaven/Cataclysm-DDA/pull/80926))
 * [Mods] Fix typos ([#80895](https://github.com/CleverRaven/Cataclysm-DDA/pull/80895))
@@ -232,4 +233,3 @@
 * Some recipes have 'hard' proficiency requirements (Bronze edition) ([#80858](https://github.com/CleverRaven/Cataclysm-DDA/pull/80858))
 * Handle crafting using nested container components ([#80855](https://github.com/CleverRaven/Cataclysm-DDA/pull/80855))
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
-* [XE] Fix Astral Projection weariness EOC ([#80854](https://github.com/CleverRaven/Cataclysm-DDA/pull/80854))
