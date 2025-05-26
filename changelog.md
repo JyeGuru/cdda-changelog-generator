@@ -1,3 +1,5 @@
+* More standalone freezers in houses ([#81010](https://github.com/CleverRaven/Cataclysm-DDA/pull/81010))
+* `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
 
 ---
 
@@ -198,7 +200,6 @@
 * [Xedra Evolved] Remove vampires' free bite, vampires take more mutagen ([#80926](https://github.com/CleverRaven/Cataclysm-DDA/pull/80926))
 * [Mods] Fix typos ([#80895](https://github.com/CleverRaven/Cataclysm-DDA/pull/80895))
 * Added oat milk and polished the other plant milks. ([#80920](https://github.com/CleverRaven/Cataclysm-DDA/pull/80920))
-* [MoM] Nether Attunement Spoilers document ([#80857](https://github.com/CleverRaven/Cataclysm-DDA/pull/80857))
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
 * Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
@@ -231,5 +232,4 @@
 * [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
 * Snippetize Tshirt variants ([#80859](https://github.com/CleverRaven/Cataclysm-DDA/pull/80859))
 * Some recipes have 'hard' proficiency requirements (Bronze edition) ([#80858](https://github.com/CleverRaven/Cataclysm-DDA/pull/80858))
-* Handle crafting using nested container components ([#80855](https://github.com/CleverRaven/Cataclysm-DDA/pull/80855))
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
