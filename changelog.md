@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-26-1402 ([1a4eaca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1402))
+
+* Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-26-1313 ([44d6bc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1313))
 
 * [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
@@ -208,7 +214,6 @@
 * Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
 * Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
 * Faults/t-shirt typo fix ([#80875](https://github.com/CleverRaven/Cataclysm-DDA/pull/80875))
-* Fix monster grab and drag teleports ([#80864](https://github.com/CleverRaven/Cataclysm-DDA/pull/80864))
 * Prisoner uniform audit ([#80890](https://github.com/CleverRaven/Cataclysm-DDA/pull/80890))
 * Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage ([#80894](https://github.com/CleverRaven/Cataclysm-DDA/pull/80894))

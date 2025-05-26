@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-26-1402 (1a4eaca)
+* Update weight of kevlar suits (#81066)
+
 Cataclysm-DDA experimental build 2025-05-26-1313 (44d6bc0)
 * [MoM] Add `Heart of Fire` challenge scenario (#81042)
 * Weekly Changelog 2025-05-19 to 2025-05-26 (#81067)
@@ -127,7 +130,6 @@ Cataclysm-DDA experimental build 2025-05-17-0543 (22f9e26)
 * Subject suit audit (#80891)
 * Better fault UI (#80898)
 * Faults/t-shirt typo fix (#80875)
-* Fix monster grab and drag teleports (#80864)
 * Prisoner uniform audit (#80890)
 * Fix crater errors (#80900)
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage (#80894)
