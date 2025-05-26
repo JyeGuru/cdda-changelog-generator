@@ -212,7 +212,6 @@
 * Oil lamp rename ([#80915](https://github.com/CleverRaven/Cataclysm-DDA/pull/80915))
 * Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
-* Yoghurt comes in `cup_plastic_yoghurt`, which does have a `spoil_multiplier` ([#80870](https://github.com/CleverRaven/Cataclysm-DDA/pull/80870))
 * Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
 * Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
 * Faults/t-shirt typo fix ([#80875](https://github.com/CleverRaven/Cataclysm-DDA/pull/80875))
