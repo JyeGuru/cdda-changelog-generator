@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Remove Riot damage from Safe House and Border Patrol Office ([#80996](https://github.com/CleverRaven/Cataclysm-DDA/pull/80996))
 * More standalone freezers in houses ([#81010](https://github.com/CleverRaven/Cataclysm-DDA/pull/81010))
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
 
@@ -184,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-05-15-0621 ([0ef6c2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-15-0621))
 
 * Don't load invalid/removed map extras into overmap layers ([#80919](https://github.com/CleverRaven/Cataclysm-DDA/pull/80919))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-15-0354 ([5e3bdd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-15-0354))
-
 * Add animal themed hoodie and cropped hoodie variants ([#80921](https://github.com/CleverRaven/Cataclysm-DDA/pull/80921))
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
 * [MoM] Hostile NPC dialogue updates ([#80937](https://github.com/CleverRaven/Cataclysm-DDA/pull/80937))
@@ -225,5 +221,4 @@
 * Prevent mechanical_damage fault from being applied when repairing item ([#80880](https://github.com/CleverRaven/Cataclysm-DDA/pull/80880))
 * [ Xedra Evolved ] A tiny snippet of dreamsmith lore ([#80871](https://github.com/CleverRaven/Cataclysm-DDA/pull/80871))
 * [Xedra Evolved] Add Hedge Magick magic_type ([#80869](https://github.com/CleverRaven/Cataclysm-DDA/pull/80869))
-* Snippetize Tshirt variants ([#80859](https://github.com/CleverRaven/Cataclysm-DDA/pull/80859))
 * converts military ammo can to +P  ([#80861](https://github.com/CleverRaven/Cataclysm-DDA/pull/80861))
