@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-27-0517 (069475e)
 * Fix #81024  Lack of oxygen concentrators (#81068)
 * [ Xedra Evolved ] Paraclesian First Contact Dialogue (#81027)
 * Fix different iterator types (2) (#81061)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-05-19-1107 (9934d66)
 * Attempt to make anger relations work inside of aggro_character (#80981)
 * Skull balaclava audit (#80990)
 * give used evac shelters more trash than pristine shelters (#80992)
-
-Cataclysm-DDA experimental build 2025-05-19-0840 (ae3de74)
 * Weekly Changelog 2025-05-12 to 2025-05-19 (#80995)
 * Minor mapgen tweaks (#80985)
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants (#80980)
