@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Paraclesian First Contact Dialogue (#81027)
 * Fix different iterator types (2) (#81061)
 * River generation overhaul (#81026)
 
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2025-05-19-0840 (ae3de74)
 * Prune obsolete mods + remove code support for skill_boost (#80883)
 * Translate martial art condition text and cable notification text (#80887)
 * Routine i18n updates on 10 May 2025 (#80886)
-* Prevent mechanical_damage fault from being applied when repairing item (#80880)

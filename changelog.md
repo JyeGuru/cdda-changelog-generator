@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Paraclesian First Contact Dialogue ([#81027](https://github.com/CleverRaven/Cataclysm-DDA/pull/81027))
 * Fix different iterator types (2) ([#81061](https://github.com/CleverRaven/Cataclysm-DDA/pull/81061))
 * River generation overhaul ([#81026](https://github.com/CleverRaven/Cataclysm-DDA/pull/81026))
 
@@ -225,4 +226,3 @@
 * Prune obsolete mods + remove code support for skill_boost ([#80883](https://github.com/CleverRaven/Cataclysm-DDA/pull/80883))
 * Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
 * Routine i18n updates on 10 May 2025 ([#80886](https://github.com/CleverRaven/Cataclysm-DDA/pull/80886))
-* Prevent mechanical_damage fault from being applied when repairing item ([#80880](https://github.com/CleverRaven/Cataclysm-DDA/pull/80880))
