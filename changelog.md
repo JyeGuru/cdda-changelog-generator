@@ -163,12 +163,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-05-19-2157 ([8ca73d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-2157))
-
-* [ Magiclysm ] Fix Warg Food Bugs ([#80885](https://github.com/CleverRaven/Cataclysm-DDA/pull/80885))
-
----
-
 #### Cataclysm-DDA experimental build 2025-05-19-1947 ([187b190](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-1947))
 
 * Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
