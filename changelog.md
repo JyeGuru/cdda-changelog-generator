@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-27-0333 ([df54171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0333))
+
 * Fixing Atlatl silliness ([#81052](https://github.com/CleverRaven/Cataclysm-DDA/pull/81052))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-05-19-0233 ([083db57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-0233))
 
 * Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-18-1808 ([6461570](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-18-1808))
-
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants ([#80980](https://github.com/CleverRaven/Cataclysm-DDA/pull/80980))
 * use climb skill for pathfinding and showing ability ([#80963](https://github.com/CleverRaven/Cataclysm-DDA/pull/80963))
 * [Backrooms] Fix wasp/dermatik roofs ([#80953](https://github.com/CleverRaven/Cataclysm-DDA/pull/80953))
