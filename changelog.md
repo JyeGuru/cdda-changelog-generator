@@ -1,3 +1,11 @@
+* Fix different iterator types (2) ([#81061](https://github.com/CleverRaven/Cataclysm-DDA/pull/81061))
+* River generation overhaul ([#81026](https://github.com/CleverRaven/Cataclysm-DDA/pull/81026))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-27-0430 ([d4969a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0430))
+
+* Aftershock: Aeolian Plains 'Biome' ([#81043](https://github.com/CleverRaven/Cataclysm-DDA/pull/81043))
 
 ---
 
@@ -173,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-05-19-0840 ([ae3de74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-0840))
 
 * Weekly Changelog 2025-05-12 to 2025-05-19 ([#80995](https://github.com/CleverRaven/Cataclysm-DDA/pull/80995))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-19-0233 ([083db57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-0233))
-
 * Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants ([#80980](https://github.com/CleverRaven/Cataclysm-DDA/pull/80980))
 * use climb skill for pathfinding and showing ability ([#80963](https://github.com/CleverRaven/Cataclysm-DDA/pull/80963))
@@ -216,13 +219,10 @@
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
 * Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
 * Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
-* Faults/t-shirt typo fix ([#80875](https://github.com/CleverRaven/Cataclysm-DDA/pull/80875))
 * Prisoner uniform audit ([#80890](https://github.com/CleverRaven/Cataclysm-DDA/pull/80890))
 * Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage ([#80894](https://github.com/CleverRaven/Cataclysm-DDA/pull/80894))
 * Prune obsolete mods + remove code support for skill_boost ([#80883](https://github.com/CleverRaven/Cataclysm-DDA/pull/80883))
 * Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
-* Reduce suppressor spawns ([#80879](https://github.com/CleverRaven/Cataclysm-DDA/pull/80879))
 * Routine i18n updates on 10 May 2025 ([#80886](https://github.com/CleverRaven/Cataclysm-DDA/pull/80886))
-* Fix jack o'lantern ([#80876](https://github.com/CleverRaven/Cataclysm-DDA/pull/80876))
 * Prevent mechanical_damage fault from being applied when repairing item ([#80880](https://github.com/CleverRaven/Cataclysm-DDA/pull/80880))
