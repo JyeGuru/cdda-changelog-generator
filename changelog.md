@@ -1,3 +1,10 @@
+* Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-27-0645 ([a4de960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0645))
+
+* Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
 
 ---
 
@@ -166,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-05-19-1947 ([187b190](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-1947))
 
 * Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-19-1107 ([9934d66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-1107))
-
 * Kukri sprite for all kukris ([#80973](https://github.com/CleverRaven/Cataclysm-DDA/pull/80973))
 * Less garbage in dumpsters ([#80989](https://github.com/CleverRaven/Cataclysm-DDA/pull/80989))
 * Attempt to make anger relations work inside of aggro_character ([#80981](https://github.com/CleverRaven/Cataclysm-DDA/pull/80981))
@@ -218,5 +220,3 @@
 * Prisoner uniform audit ([#80890](https://github.com/CleverRaven/Cataclysm-DDA/pull/80890))
 * Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage ([#80894](https://github.com/CleverRaven/Cataclysm-DDA/pull/80894))
-* Translate martial art condition text and cable notification text ([#80887](https://github.com/CleverRaven/Cataclysm-DDA/pull/80887))
-* Routine i18n updates on 10 May 2025 ([#80886](https://github.com/CleverRaven/Cataclysm-DDA/pull/80886))

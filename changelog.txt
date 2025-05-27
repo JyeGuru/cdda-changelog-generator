@@ -1,3 +1,7 @@
+* Create a terminal-like default theme for Imgui (#81074)
+
+Cataclysm-DDA experimental build 2025-05-27-0645 (a4de960)
+* Fix builds without BACKTRACE defined (#81073)
 
 Cataclysm-DDA experimental build 2025-05-27-0517 (069475e)
 * Fix #81024  Lack of oxygen concentrators (#81068)
@@ -88,8 +92,6 @@ Cataclysm-DDA experimental build 2025-05-20-0018 (1cd7795)
 
 Cataclysm-DDA experimental build 2025-05-19-1947 (187b190)
 * Remove mapgen "method" (#80993)
-
-Cataclysm-DDA experimental build 2025-05-19-1107 (9934d66)
 * Kukri sprite for all kukris (#80973)
 * Less garbage in dumpsters (#80989)
 * Attempt to make anger relations work inside of aggro_character (#80981)
@@ -137,5 +139,3 @@ Cataclysm-DDA experimental build 2025-05-19-1107 (9934d66)
 * Prisoner uniform audit (#80890)
 * Fix crater errors (#80900)
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage (#80894)
-* Translate martial art condition text and cable notification text (#80887)
-* Routine i18n updates on 10 May 2025 (#80886)
