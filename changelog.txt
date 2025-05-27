@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-05-27-0731 (0d65cab)
 * Create a terminal-like default theme for Imgui (#81074)
 
 Cataclysm-DDA experimental build 2025-05-27-0645 (a4de960)
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2025-05-21-0124 (70109dc)
 
 Cataclysm-DDA experimental build 2025-05-20-0018 (1cd7795)
 * Remove some particularly WTF crafting recipes (#81007)
-
-Cataclysm-DDA experimental build 2025-05-19-1947 (187b190)
 * Remove mapgen "method" (#80993)
 * Kukri sprite for all kukris (#80973)
 * Less garbage in dumpsters (#80989)

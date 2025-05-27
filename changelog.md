@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-27-0731 ([0d65cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0731))
+
 * Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-05-20-0018 ([1cd7795](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-20-0018))
 
 * Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-19-1947 ([187b190](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-19-1947))
-
 * Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
 * Kukri sprite for all kukris ([#80973](https://github.com/CleverRaven/Cataclysm-DDA/pull/80973))
 * Less garbage in dumpsters ([#80989](https://github.com/CleverRaven/Cataclysm-DDA/pull/80989))
