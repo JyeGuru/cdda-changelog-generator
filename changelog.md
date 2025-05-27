@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-27-1230 ([3b0f229](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-1230))
+
+* Bail out if container is invalid ([#81081](https://github.com/CleverRaven/Cataclysm-DDA/pull/81081))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-27-0731 ([0d65cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0731))
 
 * Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
@@ -207,7 +213,6 @@
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
 * Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
-* zero skill ar uppers ([#80888](https://github.com/CleverRaven/Cataclysm-DDA/pull/80888))
 * Some more itemgroup cleaning ([#80903](https://github.com/CleverRaven/Cataclysm-DDA/pull/80903))
 * Update the AK-74s to match their description ([#80913](https://github.com/CleverRaven/Cataclysm-DDA/pull/80913))
 * Striped shirt audit ([#80906](https://github.com/CleverRaven/Cataclysm-DDA/pull/80906))

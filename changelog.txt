@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-27-1230 (3b0f229)
+* Bail out if container is invalid (#81081)
+
 Cataclysm-DDA experimental build 2025-05-27-0731 (0d65cab)
 * Create a terminal-like default theme for Imgui (#81074)
 
@@ -126,7 +129,6 @@ Cataclysm-DDA experimental build 2025-05-20-0018 (1cd7795)
 * Cap maximum amount of follower 'forgiveness' (#80930)
 * [Xedra Evolved] Fix werewolf biting (#80922)
 * Remove opinion increases from failed recruitment (#80929)
-* zero skill ar uppers (#80888)
 * Some more itemgroup cleaning (#80903)
 * Update the AK-74s to match their description (#80913)
 * Striped shirt audit (#80906)
