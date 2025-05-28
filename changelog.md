@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-28-0352 ([c1357d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-0352))
+
+* [MoM] Remove damage on feral telekinetics' telekinetic throws ([#81089](https://github.com/CleverRaven/Cataclysm-DDA/pull/81089))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-27-1807 ([a1a4bff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-1807))
 
 * [MoM] Fix Dilated Gateway ([#81085](https://github.com/CleverRaven/Cataclysm-DDA/pull/81085))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-05-21-0343 ([10b956f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-0343))
 
 * Bugfix: continue with destination activity if route is empty ([#80974](https://github.com/CleverRaven/Cataclysm-DDA/pull/80974))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-21-0124 ([70109dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-0124))
-
 * [Xedra Evolved] Curate available Arvore mutations that you gain through alchemy ([#80951](https://github.com/CleverRaven/Cataclysm-DDA/pull/80951))
 * Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
 * Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
@@ -221,7 +222,6 @@
 * Oil lamp rename ([#80915](https://github.com/CleverRaven/Cataclysm-DDA/pull/80915))
 * Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
-* Subject suit audit ([#80891](https://github.com/CleverRaven/Cataclysm-DDA/pull/80891))
 * Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
 * Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
 * Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage ([#80894](https://github.com/CleverRaven/Cataclysm-DDA/pull/80894))
