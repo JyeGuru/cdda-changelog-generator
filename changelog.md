@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-28-1856 ([9f2ae45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-1856))
+
+* [MoM] Knack handling during awakening ([#81084](https://github.com/CleverRaven/Cataclysm-DDA/pull/81084))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-28-0744 ([2c360cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-0744))
 
 * [MoM] Add enervating amalgamation ([#81088](https://github.com/CleverRaven/Cataclysm-DDA/pull/81088))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-21-1747 ([c89def0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-1747))
 
 * Mapgen: remove unused and obsolete JSON fields ([#81004](https://github.com/CleverRaven/Cataclysm-DDA/pull/81004))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-21-1521 ([4053cb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-1521))
-
 * Re-reduce mission search range so that failed search fails in reasonable time ([#81021](https://github.com/CleverRaven/Cataclysm-DDA/pull/81021))
 * Don't check crafting volume on vehicle modification ([#81001](https://github.com/CleverRaven/Cataclysm-DDA/pull/81001))
 * Add vehicles to military outpost ([#81011](https://github.com/CleverRaven/Cataclysm-DDA/pull/81011))
@@ -212,7 +213,6 @@
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
 * [MoM] Hostile NPC dialogue updates ([#80937](https://github.com/CleverRaven/Cataclysm-DDA/pull/80937))
 * [Xedra Evolved] Remove vampires' free bite, vampires take more mutagen ([#80926](https://github.com/CleverRaven/Cataclysm-DDA/pull/80926))
-* [Mods] Fix typos ([#80895](https://github.com/CleverRaven/Cataclysm-DDA/pull/80895))
 * Added oat milk and polished the other plant milks. ([#80920](https://github.com/CleverRaven/Cataclysm-DDA/pull/80920))
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))

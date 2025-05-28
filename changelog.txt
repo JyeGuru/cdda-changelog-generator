@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-28-1856 (9f2ae45)
+* [MoM] Knack handling during awakening (#81084)
+
 Cataclysm-DDA experimental build 2025-05-28-0744 (2c360cf)
 * [MoM] Add enervating amalgamation (#81088)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-05-21-2008 (6876833)
 
 Cataclysm-DDA experimental build 2025-05-21-1747 (c89def0)
 * Mapgen: remove unused and obsolete JSON fields (#81004)
-
-Cataclysm-DDA experimental build 2025-05-21-1521 (4053cb4)
 * Re-reduce mission search range so that failed search fails in reasonable time (#81021)
 * Don't check crafting volume on vehicle modification (#81001)
 * Add vehicles to military outpost (#81011)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2025-05-21-1521 (4053cb4)
 * Fix macports for CI (#80942)
 * [MoM] Hostile NPC dialogue updates (#80937)
 * [Xedra Evolved] Remove vampires' free bite, vampires take more mutagen (#80926)
-* [Mods] Fix typos (#80895)
 * Added oat milk and polished the other plant milks. (#80920)
 * Cap maximum amount of follower 'forgiveness' (#80930)
 * [Xedra Evolved] Fix werewolf biting (#80922)
