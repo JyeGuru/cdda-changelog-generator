@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-28-0547 (436e81f)
+* add long_duffelbag spawns (#81093)
+
 Cataclysm-DDA experimental build 2025-05-28-0352 (c1357d8)
 * [MoM] Remove damage on feral telekinetics' telekinetic throws (#81089)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-05-21-0601 (b97041d)
 * Don't check crafting volume on vehicle modification (#81001)
 * Add vehicles to military outpost (#81011)
 * various move_skills bugfixes (#81013)
-
-Cataclysm-DDA experimental build 2025-05-21-0343 (10b956f)
 * Bugfix: continue with destination activity if route is empty (#80974)
 * [Xedra Evolved] Curate available Arvore mutations that you gain through alchemy (#80951)
 * Remove some particularly WTF crafting recipes (#81007)

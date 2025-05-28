@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-28-0547 ([436e81f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-0547))
+
+* add long_duffelbag spawns ([#81093](https://github.com/CleverRaven/Cataclysm-DDA/pull/81093))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-28-0352 ([c1357d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-0352))
 
 * [MoM] Remove damage on feral telekinetics' telekinetic throws ([#81089](https://github.com/CleverRaven/Cataclysm-DDA/pull/81089))
@@ -172,11 +178,6 @@
 * Don't check crafting volume on vehicle modification ([#81001](https://github.com/CleverRaven/Cataclysm-DDA/pull/81001))
 * Add vehicles to military outpost ([#81011](https://github.com/CleverRaven/Cataclysm-DDA/pull/81011))
 * various move_skills bugfixes ([#81013](https://github.com/CleverRaven/Cataclysm-DDA/pull/81013))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-21-0343 ([10b956f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-0343))
-
 * Bugfix: continue with destination activity if route is empty ([#80974](https://github.com/CleverRaven/Cataclysm-DDA/pull/80974))
 * [Xedra Evolved] Curate available Arvore mutations that you gain through alchemy ([#80951](https://github.com/CleverRaven/Cataclysm-DDA/pull/80951))
 * Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
