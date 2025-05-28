@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-28-0744 (2c360cf)
+* [MoM] Add enervating amalgamation (#81088)
+
 Cataclysm-DDA experimental build 2025-05-28-0547 (436e81f)
 * add long_duffelbag spawns (#81093)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-05-21-1747 (c89def0)
 
 Cataclysm-DDA experimental build 2025-05-21-1521 (4053cb4)
 * Re-reduce mission search range so that failed search fails in reasonable time (#81021)
-
-Cataclysm-DDA experimental build 2025-05-21-0601 (b97041d)
 * Don't check crafting volume on vehicle modification (#81001)
 * Add vehicles to military outpost (#81011)
 * various move_skills bugfixes (#81013)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2025-05-21-0601 (b97041d)
 * Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
 * Better fault UI (#80898)
 * Fix crater errors (#80900)
-* Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage (#80894)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-28-0744 ([2c360cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-0744))
+
+* [MoM] Add enervating amalgamation ([#81088](https://github.com/CleverRaven/Cataclysm-DDA/pull/81088))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-28-0547 ([436e81f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-0547))
 
 * add long_duffelbag spawns ([#81093](https://github.com/CleverRaven/Cataclysm-DDA/pull/81093))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-21-1521 ([4053cb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-1521))
 
 * Re-reduce mission search range so that failed search fails in reasonable time ([#81021](https://github.com/CleverRaven/Cataclysm-DDA/pull/81021))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-21-0601 ([b97041d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-0601))
-
 * Don't check crafting volume on vehicle modification ([#81001](https://github.com/CleverRaven/Cataclysm-DDA/pull/81001))
 * Add vehicles to military outpost ([#81011](https://github.com/CleverRaven/Cataclysm-DDA/pull/81011))
 * various move_skills bugfixes ([#81013](https://github.com/CleverRaven/Cataclysm-DDA/pull/81013))
@@ -225,4 +226,3 @@
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
 * Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
 * Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
-* Add `ONE_STORY_FALL` flag, which allows you to fall one story without taking damage ([#80894](https://github.com/CleverRaven/Cataclysm-DDA/pull/80894))
