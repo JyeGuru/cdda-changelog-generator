@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-29-0506 ([04d037f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-0506))
+
+* Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-28-1856 ([9f2ae45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-1856))
 
 * [MoM] Knack handling during awakening ([#81084](https://github.com/CleverRaven/Cataclysm-DDA/pull/81084))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-21-2008 ([6876833](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-2008))
 
 * [MoM] Phase volume requirements ([#81014](https://github.com/CleverRaven/Cataclysm-DDA/pull/81014))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-21-1747 ([c89def0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-1747))
-
 * Mapgen: remove unused and obsolete JSON fields ([#81004](https://github.com/CleverRaven/Cataclysm-DDA/pull/81004))
 * Re-reduce mission search range so that failed search fails in reasonable time ([#81021](https://github.com/CleverRaven/Cataclysm-DDA/pull/81021))
 * Don't check crafting volume on vehicle modification ([#81001](https://github.com/CleverRaven/Cataclysm-DDA/pull/81001))

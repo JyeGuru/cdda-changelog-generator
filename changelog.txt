@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-29-0506 (04d037f)
+* Updated correct batttery on electric shears (#81099)
+
 Cataclysm-DDA experimental build 2025-05-28-1856 (9f2ae45)
 * [MoM] Knack handling during awakening (#81084)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-05-22-1329 (1f6d027)
 
 Cataclysm-DDA experimental build 2025-05-21-2008 (6876833)
 * [MoM] Phase volume requirements (#81014)
-
-Cataclysm-DDA experimental build 2025-05-21-1747 (c89def0)
 * Mapgen: remove unused and obsolete JSON fields (#81004)
 * Re-reduce mission search range so that failed search fails in reasonable time (#81021)
 * Don't check crafting volume on vehicle modification (#81001)
