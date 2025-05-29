@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-29-1537 (45fbc65)
+* Fix mac build (#81087)
+
 Cataclysm-DDA experimental build 2025-05-29-0506 (04d037f)
 * Updated correct batttery on electric shears (#81099)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-05-22-1609 (444c3c6)
 
 Cataclysm-DDA experimental build 2025-05-22-1329 (1f6d027)
 * Basement lab entrance tweaks (#81009)
-
-Cataclysm-DDA experimental build 2025-05-21-2008 (6876833)
 * [MoM] Phase volume requirements (#81014)
 * Mapgen: remove unused and obsolete JSON fields (#81004)
 * Re-reduce mission search range so that failed search fails in reasonable time (#81021)
@@ -141,5 +142,4 @@ Cataclysm-DDA experimental build 2025-05-21-2008 (6876833)
 * Oil lamp rename (#80915)
 * Nuclear plant fixes (#80904)
 * Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
-* Better fault UI (#80898)
 * Fix crater errors (#80900)

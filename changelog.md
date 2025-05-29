@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-29-1537 ([45fbc65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-1537))
+
+* Fix mac build ([#81087](https://github.com/CleverRaven/Cataclysm-DDA/pull/81087))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-29-0506 ([04d037f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-0506))
 
 * Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-22-1329 ([1f6d027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-22-1329))
 
 * Basement lab entrance tweaks ([#81009](https://github.com/CleverRaven/Cataclysm-DDA/pull/81009))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-21-2008 ([6876833](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-21-2008))
-
 * [MoM] Phase volume requirements ([#81014](https://github.com/CleverRaven/Cataclysm-DDA/pull/81014))
 * Mapgen: remove unused and obsolete JSON fields ([#81004](https://github.com/CleverRaven/Cataclysm-DDA/pull/81004))
 * Re-reduce mission search range so that failed search fails in reasonable time ([#81021](https://github.com/CleverRaven/Cataclysm-DDA/pull/81021))
@@ -225,5 +226,4 @@
 * Oil lamp rename ([#80915](https://github.com/CleverRaven/Cataclysm-DDA/pull/80915))
 * Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
-* Better fault UI ([#80898](https://github.com/CleverRaven/Cataclysm-DDA/pull/80898))
 * Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
