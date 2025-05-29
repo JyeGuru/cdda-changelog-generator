@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-29-2318 (530543a)
+* add military_patrol_food to soldier corpses & pilots (#81107)
+
 Cataclysm-DDA experimental build 2025-05-29-1537 (45fbc65)
 * Fix mac build (#81087)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-05-23-0017 (7d41842)
 
 Cataclysm-DDA experimental build 2025-05-22-1609 (444c3c6)
 * Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) (#80999)
-
-Cataclysm-DDA experimental build 2025-05-22-1329 (1f6d027)
 * Basement lab entrance tweaks (#81009)
 * [MoM] Phase volume requirements (#81014)
 * Mapgen: remove unused and obsolete JSON fields (#81004)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2025-05-22-1329 (1f6d027)
 * Oil lamp rename (#80915)
 * Nuclear plant fixes (#80904)
 * Weekly Changelog 2025-05-05 to 2025-05-12 (#80908)
-* Fix crater errors (#80900)

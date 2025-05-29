@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-29-2318 ([530543a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-2318))
+
+* add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-29-1537 ([45fbc65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-1537))
 
 * Fix mac build ([#81087](https://github.com/CleverRaven/Cataclysm-DDA/pull/81087))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-22-1609 ([444c3c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-22-1609))
 
 * Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) ([#80999](https://github.com/CleverRaven/Cataclysm-DDA/pull/80999))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-22-1329 ([1f6d027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-22-1329))
-
 * Basement lab entrance tweaks ([#81009](https://github.com/CleverRaven/Cataclysm-DDA/pull/81009))
 * [MoM] Phase volume requirements ([#81014](https://github.com/CleverRaven/Cataclysm-DDA/pull/81014))
 * Mapgen: remove unused and obsolete JSON fields ([#81004](https://github.com/CleverRaven/Cataclysm-DDA/pull/81004))
@@ -226,4 +227,3 @@
 * Oil lamp rename ([#80915](https://github.com/CleverRaven/Cataclysm-DDA/pull/80915))
 * Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
-* Fix crater errors ([#80900](https://github.com/CleverRaven/Cataclysm-DDA/pull/80900))
