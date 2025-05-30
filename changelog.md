@@ -1,3 +1,4 @@
+* update to codeql v2 ([#81120](https://github.com/CleverRaven/Cataclysm-DDA/pull/81120))
 
 ---
 
@@ -220,7 +221,6 @@
 * add uneaten DaiZoom protein bars among the trash ([#80933](https://github.com/CleverRaven/Cataclysm-DDA/pull/80933))
 * migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
 * allow extending/deleting move_skills ([#80948](https://github.com/CleverRaven/Cataclysm-DDA/pull/80948))
-* Add animal themed hoodie and cropped hoodie variants ([#80921](https://github.com/CleverRaven/Cataclysm-DDA/pull/80921))
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
 * [MoM] Hostile NPC dialogue updates ([#80937](https://github.com/CleverRaven/Cataclysm-DDA/pull/80937))
 * [Xedra Evolved] Remove vampires' free bite, vampires take more mutagen ([#80926](https://github.com/CleverRaven/Cataclysm-DDA/pull/80926))
