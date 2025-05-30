@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-30-2316 ([95f669b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-2316))
+
+* Remove thread from cordage requirements ([#81130](https://github.com/CleverRaven/Cataclysm-DDA/pull/81130))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-30-1848 ([85471b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-1848))
 
 * [MoM] Fix merge conflicts ([#81124](https://github.com/CleverRaven/Cataclysm-DDA/pull/81124))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-25-1904 ([9c23396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-25-1904))
 
 * Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-25-1644 ([b1f5335](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-25-1644))
-
 * adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
 * You too can be euforic for fullfiling your wishes from before the cataclysm! ([#80945](https://github.com/CleverRaven/Cataclysm-DDA/pull/80945))
 * Modernize and fix Hub 01 modular recon headgear ([#80969](https://github.com/CleverRaven/Cataclysm-DDA/pull/80969))
@@ -223,7 +224,6 @@
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
 * [MoM] Hostile NPC dialogue updates ([#80937](https://github.com/CleverRaven/Cataclysm-DDA/pull/80937))
 * [Xedra Evolved] Remove vampires' free bite, vampires take more mutagen ([#80926](https://github.com/CleverRaven/Cataclysm-DDA/pull/80926))
-* Added oat milk and polished the other plant milks. ([#80920](https://github.com/CleverRaven/Cataclysm-DDA/pull/80920))
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
 * Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
