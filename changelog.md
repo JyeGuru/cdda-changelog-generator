@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-30-0257 ([b6e4594](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-0257))
+
+* add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-29-2318 ([530543a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-2318))
 
 * add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-23-0017 ([7d41842](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-23-0017))
 
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-22-1609 ([444c3c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-22-1609))
-
 * Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) ([#80999](https://github.com/CleverRaven/Cataclysm-DDA/pull/80999))
 * Basement lab entrance tweaks ([#81009](https://github.com/CleverRaven/Cataclysm-DDA/pull/81009))
 * [MoM] Phase volume requirements ([#81014](https://github.com/CleverRaven/Cataclysm-DDA/pull/81014))
@@ -220,7 +221,6 @@
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
 * Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
-* Some more itemgroup cleaning ([#80903](https://github.com/CleverRaven/Cataclysm-DDA/pull/80903))
 * Update the AK-74s to match their description ([#80913](https://github.com/CleverRaven/Cataclysm-DDA/pull/80913))
 * Striped shirt audit ([#80906](https://github.com/CleverRaven/Cataclysm-DDA/pull/80906))
 * [MoM] Add new Nether Attunement/portal storm effect, the Crack in Reality ([#80914](https://github.com/CleverRaven/Cataclysm-DDA/pull/80914))

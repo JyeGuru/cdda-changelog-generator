@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-05-30-0257 (b6e4594)
+* add magazine wells to non-rigid containers (#81108)
+
 Cataclysm-DDA experimental build 2025-05-29-2318 (530543a)
 * add military_patrol_food to soldier corpses & pilots (#81107)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-05-23-0615 (53e8da4)
 
 Cataclysm-DDA experimental build 2025-05-23-0017 (7d41842)
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) (#81022)
-
-Cataclysm-DDA experimental build 2025-05-22-1609 (444c3c6)
 * Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) (#80999)
 * Basement lab entrance tweaks (#81009)
 * [MoM] Phase volume requirements (#81014)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2025-05-22-1609 (444c3c6)
 * Cap maximum amount of follower 'forgiveness' (#80930)
 * [Xedra Evolved] Fix werewolf biting (#80922)
 * Remove opinion increases from failed recruitment (#80929)
-* Some more itemgroup cleaning (#80903)
 * Update the AK-74s to match their description (#80913)
 * Striped shirt audit (#80906)
 * [MoM] Add new Nether Attunement/portal storm effect, the Crack in Reality (#80914)
