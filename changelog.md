@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-30-0529 ([52d31d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-0529))
+
+* Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-30-0257 ([b6e4594](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-0257))
 
 * add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-23-0615 ([53e8da4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-23-0615))
 
 * [MoM] Add psychic knacks ([#81016](https://github.com/CleverRaven/Cataclysm-DDA/pull/81016))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-23-0017 ([7d41842](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-23-0017))
-
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))
 * Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) ([#80999](https://github.com/CleverRaven/Cataclysm-DDA/pull/80999))
 * Basement lab entrance tweaks ([#81009](https://github.com/CleverRaven/Cataclysm-DDA/pull/81009))
@@ -225,5 +226,4 @@
 * Striped shirt audit ([#80906](https://github.com/CleverRaven/Cataclysm-DDA/pull/80906))
 * [MoM] Add new Nether Attunement/portal storm effect, the Crack in Reality ([#80914](https://github.com/CleverRaven/Cataclysm-DDA/pull/80914))
 * Oil lamp rename ([#80915](https://github.com/CleverRaven/Cataclysm-DDA/pull/80915))
-* Nuclear plant fixes ([#80904](https://github.com/CleverRaven/Cataclysm-DDA/pull/80904))
 * Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
