@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-05-30-1848 ([85471b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-1848))
+
+* [MoM] Fix merge conflicts ([#81124](https://github.com/CleverRaven/Cataclysm-DDA/pull/81124))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-05-30-1137 ([acbd878](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-1137))
 
 * Basic imgui style picker ([#81083](https://github.com/CleverRaven/Cataclysm-DDA/pull/81083))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-05-25-1644 ([b1f5335](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-25-1644))
 
 * adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-24-1941 ([bdb88ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-24-1941))
-
 * You too can be euforic for fullfiling your wishes from before the cataclysm! ([#80945](https://github.com/CleverRaven/Cataclysm-DDA/pull/80945))
 * Modernize and fix Hub 01 modular recon headgear ([#80969](https://github.com/CleverRaven/Cataclysm-DDA/pull/80969))
 * Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
@@ -218,7 +219,6 @@
 * add uneaten DaiZoom protein bars among the trash ([#80933](https://github.com/CleverRaven/Cataclysm-DDA/pull/80933))
 * migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
 * allow extending/deleting move_skills ([#80948](https://github.com/CleverRaven/Cataclysm-DDA/pull/80948))
-* Gown audit ([#80917](https://github.com/CleverRaven/Cataclysm-DDA/pull/80917))
 * Don't load invalid/removed map extras into overmap layers ([#80919](https://github.com/CleverRaven/Cataclysm-DDA/pull/80919))
 * Add animal themed hoodie and cropped hoodie variants ([#80921](https://github.com/CleverRaven/Cataclysm-DDA/pull/80921))
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
