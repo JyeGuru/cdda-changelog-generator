@@ -1,3 +1,14 @@
+* Basic imgui style picker ([#81083](https://github.com/CleverRaven/Cataclysm-DDA/pull/81083))
+* consolidate itemgroups that are designed as subsets of other itemgroups ([#81117](https://github.com/CleverRaven/Cataclysm-DDA/pull/81117))
+* Correctly save/load river control points ([#81111](https://github.com/CleverRaven/Cataclysm-DDA/pull/81111))
+* [MoM] Knack Difficulty adjustment ([#81115](https://github.com/CleverRaven/Cataclysm-DDA/pull/81115))
+* [MoM] Add more psychic knacks ([#81113](https://github.com/CleverRaven/Cataclysm-DDA/pull/81113))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-30-1025 ([8ebede1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-1025))
+
+* Improve documentation style for frequently made suggestions and package links ([#81104](https://github.com/CleverRaven/Cataclysm-DDA/pull/81104))
 
 ---
 
@@ -170,11 +181,6 @@
 
 * fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
 * Fix text changes CI choking on copy-frommed spells with indistinct names ([#81033](https://github.com/CleverRaven/Cataclysm-DDA/pull/81033))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-23-0615 ([53e8da4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-23-0615))
-
 * [MoM] Add psychic knacks ([#81016](https://github.com/CleverRaven/Cataclysm-DDA/pull/81016))
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))
 * Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) ([#80999](https://github.com/CleverRaven/Cataclysm-DDA/pull/80999))
@@ -222,8 +228,3 @@
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
 * [Xedra Evolved] Fix werewolf biting ([#80922](https://github.com/CleverRaven/Cataclysm-DDA/pull/80922))
 * Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
-* Update the AK-74s to match their description ([#80913](https://github.com/CleverRaven/Cataclysm-DDA/pull/80913))
-* Striped shirt audit ([#80906](https://github.com/CleverRaven/Cataclysm-DDA/pull/80906))
-* [MoM] Add new Nether Attunement/portal storm effect, the Crack in Reality ([#80914](https://github.com/CleverRaven/Cataclysm-DDA/pull/80914))
-* Oil lamp rename ([#80915](https://github.com/CleverRaven/Cataclysm-DDA/pull/80915))
-* Weekly Changelog 2025-05-05 to 2025-05-12 ([#80908](https://github.com/CleverRaven/Cataclysm-DDA/pull/80908))
