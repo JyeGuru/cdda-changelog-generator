@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-05-31-1248 ([fc91646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-31-1248))
+
 * Set DPI awareness hint to fix blurry text ([#81139](https://github.com/CleverRaven/Cataclysm-DDA/pull/81139))
 
 ---
@@ -172,11 +177,6 @@
 * [ Xedra Evolved ] Remove Riot damage from Safe House and Border Patrol Office ([#80996](https://github.com/CleverRaven/Cataclysm-DDA/pull/80996))
 * More standalone freezers in houses ([#81010](https://github.com/CleverRaven/Cataclysm-DDA/pull/81010))
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-26-0113 ([37ab8be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-0113))
-
 * increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
 * Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
 * adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
