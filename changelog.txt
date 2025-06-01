@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-01-2117 (ad39f8b)
+* Audit crack and anfo recipe  (#81146)
+
 Cataclysm-DDA experimental build 2025-06-01-1612 (7fea6ed)
 * Routine tileset updates on 01 June 2025 (#81143)
 * Ignore generated CMake files (#81138)
@@ -143,4 +146,3 @@ Cataclysm-DDA experimental build 2025-05-26-1236 (d270bde)
 * migrate CLIMBS flag to move_skill (#80965)
 * allow extending/deleting move_skills (#80948)
 * Fix macports for CI (#80942)
-* [MoM] Hostile NPC dialogue updates (#80937)
