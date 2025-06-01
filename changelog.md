@@ -226,4 +226,3 @@
 * allow extending/deleting move_skills ([#80948](https://github.com/CleverRaven/Cataclysm-DDA/pull/80948))
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
 * [MoM] Hostile NPC dialogue updates ([#80937](https://github.com/CleverRaven/Cataclysm-DDA/pull/80937))
-* Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
