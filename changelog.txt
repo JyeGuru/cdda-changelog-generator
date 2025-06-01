@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-06-01-1612 (7fea6ed)
+* Routine tileset updates on 01 June 2025 (#81143)
 * Ignore generated CMake files (#81138)
 
 Cataclysm-DDA experimental build 2025-05-31-1248 (fc91646)
@@ -137,7 +140,6 @@ Cataclysm-DDA experimental build 2025-05-26-1236 (d270bde)
 * Black is bad (#80960)
 * Clean up some more more itemgroups (#80961)
 * [Backrooms] Add (rare) almond water (#80941)
-* add uneaten DaiZoom protein bars among the trash (#80933)
 * migrate CLIMBS flag to move_skill (#80965)
 * allow extending/deleting move_skills (#80948)
 * Fix macports for CI (#80942)

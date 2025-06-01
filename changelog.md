@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-01-1612 ([7fea6ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-01-1612))
+
+* Routine tileset updates on 01 June 2025 ([#81143](https://github.com/CleverRaven/Cataclysm-DDA/pull/81143))
 * Ignore generated CMake files ([#81138](https://github.com/CleverRaven/Cataclysm-DDA/pull/81138))
 
 ---
@@ -221,7 +227,6 @@
 * Black is bad ([#80960](https://github.com/CleverRaven/Cataclysm-DDA/pull/80960))
 * Clean up some more more itemgroups ([#80961](https://github.com/CleverRaven/Cataclysm-DDA/pull/80961))
 * [Backrooms] Add (rare) almond water ([#80941](https://github.com/CleverRaven/Cataclysm-DDA/pull/80941))
-* add uneaten DaiZoom protein bars among the trash ([#80933](https://github.com/CleverRaven/Cataclysm-DDA/pull/80933))
 * migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
 * allow extending/deleting move_skills ([#80948](https://github.com/CleverRaven/Cataclysm-DDA/pull/80948))
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
