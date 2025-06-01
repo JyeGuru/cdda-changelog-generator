@@ -1,3 +1,4 @@
+* Ignore generated CMake files (#81138)
 
 Cataclysm-DDA experimental build 2025-05-31-1248 (fc91646)
 * Set DPI awareness hint to fix blurry text (#81139)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2025-05-26-1236 (d270bde)
 * Fix macports for CI (#80942)
 * [MoM] Hostile NPC dialogue updates (#80937)
 * Cap maximum amount of follower 'forgiveness' (#80930)
-* Remove opinion increases from failed recruitment (#80929)

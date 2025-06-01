@@ -1,3 +1,4 @@
+* Ignore generated CMake files ([#81138](https://github.com/CleverRaven/Cataclysm-DDA/pull/81138))
 
 ---
 
@@ -226,4 +227,3 @@
 * Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
 * [MoM] Hostile NPC dialogue updates ([#80937](https://github.com/CleverRaven/Cataclysm-DDA/pull/80937))
 * Cap maximum amount of follower 'forgiveness' ([#80930](https://github.com/CleverRaven/Cataclysm-DDA/pull/80930))
-* Remove opinion increases from failed recruitment ([#80929](https://github.com/CleverRaven/Cataclysm-DDA/pull/80929))
