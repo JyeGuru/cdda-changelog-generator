@@ -1,3 +1,12 @@
+* Routine i18n updates on 31 May 2025 ([#81135](https://github.com/CleverRaven/Cataclysm-DDA/pull/81135))
+* Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
+* Some home wardrobe clothes are stored as sets of clothes ([#81151](https://github.com/CleverRaven/Cataclysm-DDA/pull/81151))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-02-1300 ([6f53460](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-02-1300))
+
+* Weekly Changelog 2025-05-26 to 2025-06-02 ([#81156](https://github.com/CleverRaven/Cataclysm-DDA/pull/81156))
 
 ---
 
@@ -181,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-05-26-1402 ([1a4eaca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1402))
 
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-26-1313 ([44d6bc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1313))
-
 * [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
 * [ Xedra Evolved ] Remove Riot damage from Safe House and Border Patrol Office ([#80996](https://github.com/CleverRaven/Cataclysm-DDA/pull/80996))
@@ -194,7 +198,6 @@
 * increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
 * Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
 * adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
-* You too can be euforic for fullfiling your wishes from before the cataclysm! ([#80945](https://github.com/CleverRaven/Cataclysm-DDA/pull/80945))
 * Modernize and fix Hub 01 modular recon headgear ([#80969](https://github.com/CleverRaven/Cataclysm-DDA/pull/80969))
 * Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
 * Flag jumpsuit audit ([#80977](https://github.com/CleverRaven/Cataclysm-DDA/pull/80977))
@@ -233,7 +236,4 @@
 * Routine i18n updates on 17 May 2025 ([#80970](https://github.com/CleverRaven/Cataclysm-DDA/pull/80970))
 * Black is bad ([#80960](https://github.com/CleverRaven/Cataclysm-DDA/pull/80960))
 * Clean up some more more itemgroups ([#80961](https://github.com/CleverRaven/Cataclysm-DDA/pull/80961))
-* [Backrooms] Add (rare) almond water ([#80941](https://github.com/CleverRaven/Cataclysm-DDA/pull/80941))
 * migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
-* allow extending/deleting move_skills ([#80948](https://github.com/CleverRaven/Cataclysm-DDA/pull/80948))
-* Fix macports for CI ([#80942](https://github.com/CleverRaven/Cataclysm-DDA/pull/80942))
