@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-02-0229 ([6d04f21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-02-0229))
+
+* Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel ([#81149](https://github.com/CleverRaven/Cataclysm-DDA/pull/81149))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-01-2117 ([ad39f8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-01-2117))
 
 * Audit crack and anfo recipe  ([#81146](https://github.com/CleverRaven/Cataclysm-DDA/pull/81146))
@@ -182,11 +188,6 @@
 
 * [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-26-1236 ([d270bde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1236))
-
 * [ Xedra Evolved ] Remove Riot damage from Safe House and Border Patrol Office ([#80996](https://github.com/CleverRaven/Cataclysm-DDA/pull/80996))
 * More standalone freezers in houses ([#81010](https://github.com/CleverRaven/Cataclysm-DDA/pull/81010))
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-02-0229 (6d04f21)
+* Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel (#81149)
+
 Cataclysm-DDA experimental build 2025-06-01-2117 (ad39f8b)
 * Audit crack and anfo recipe  (#81146)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2025-05-26-1402 (1a4eaca)
 Cataclysm-DDA experimental build 2025-05-26-1313 (44d6bc0)
 * [MoM] Add `Heart of Fire` challenge scenario (#81042)
 * Weekly Changelog 2025-05-19 to 2025-05-26 (#81067)
-
-Cataclysm-DDA experimental build 2025-05-26-1236 (d270bde)
 * [ Xedra Evolved ] Remove Riot damage from Safe House and Border Patrol Office (#80996)
 * More standalone freezers in houses (#81010)
 * `debugmsg` clear instructions after keypress (#81060)
