@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-02-1354 ([2377194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-02-1354))
+
 * Routine i18n updates on 31 May 2025 ([#81135](https://github.com/CleverRaven/Cataclysm-DDA/pull/81135))
 * Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
 * Some home wardrobe clothes are stored as sets of clothes ([#81151](https://github.com/CleverRaven/Cataclysm-DDA/pull/81151))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-05-26-1731 ([61ffda4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1731))
 
 * Add test to ensure calorie density < ~9.02cal/g ([#81051](https://github.com/CleverRaven/Cataclysm-DDA/pull/81051))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-26-1402 ([1a4eaca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1402))
-
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
 * [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
