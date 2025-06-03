@@ -1,3 +1,11 @@
+* Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
+* Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-03-2025 ([c867026](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-2025))
+
+* Audit minor crafting recipes existence ([#81147](https://github.com/CleverRaven/Cataclysm-DDA/pull/81147))
 
 ---
 
@@ -183,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-05-27-0333 ([df54171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0333))
 
 * Fixing Atlatl silliness ([#81052](https://github.com/CleverRaven/Cataclysm-DDA/pull/81052))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-27-0242 ([ea82f0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0242))
-
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
 * Routine i18n updates on 24 May 2025 ([#81046](https://github.com/CleverRaven/Cataclysm-DDA/pull/81046))
 * Add test to ensure calorie density < ~9.02cal/g ([#81051](https://github.com/CleverRaven/Cataclysm-DDA/pull/81051))
@@ -227,8 +230,6 @@
 * Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants ([#80980](https://github.com/CleverRaven/Cataclysm-DDA/pull/80980))
 * use climb skill for pathfinding and showing ability ([#80963](https://github.com/CleverRaven/Cataclysm-DDA/pull/80963))
-* [Backrooms] Fix wasp/dermatik roofs ([#80953](https://github.com/CleverRaven/Cataclysm-DDA/pull/80953))
-* resize bag_zipper & sandwiches ([#80955](https://github.com/CleverRaven/Cataclysm-DDA/pull/80955))
 * A bit of copy-from for bludgeons ([#80964](https://github.com/CleverRaven/Cataclysm-DDA/pull/80964))
 * resize some meds ([#80971](https://github.com/CleverRaven/Cataclysm-DDA/pull/80971))
 * Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
