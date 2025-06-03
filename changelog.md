@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-03-1750 ([14928f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-1750))
+
+* Faction food supply can expire over time ([#81092](https://github.com/CleverRaven/Cataclysm-DDA/pull/81092))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-03-0526 ([9a71ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-0526))
 
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-05-27-0242 ([ea82f0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0242))
 
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-26-1937 ([8691bad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1937))
-
 * Routine i18n updates on 24 May 2025 ([#81046](https://github.com/CleverRaven/Cataclysm-DDA/pull/81046))
 * Add test to ensure calorie density < ~9.02cal/g ([#81051](https://github.com/CleverRaven/Cataclysm-DDA/pull/81051))
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
@@ -215,7 +216,6 @@
 * Add vehicles to military outpost ([#81011](https://github.com/CleverRaven/Cataclysm-DDA/pull/81011))
 * various move_skills bugfixes ([#81013](https://github.com/CleverRaven/Cataclysm-DDA/pull/81013))
 * Bugfix: continue with destination activity if route is empty ([#80974](https://github.com/CleverRaven/Cataclysm-DDA/pull/80974))
-* [Xedra Evolved] Curate available Arvore mutations that you gain through alchemy ([#80951](https://github.com/CleverRaven/Cataclysm-DDA/pull/80951))
 * Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
 * Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
 * Kukri sprite for all kukris ([#80973](https://github.com/CleverRaven/Cataclysm-DDA/pull/80973))
