@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-03-2109 (79302c7)
 * Properly get recipes for NPC crafting dummy at camp (#81148)
 * Add arab and islamic clothes for women (#81160)
 
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2025-05-27-0517 (069475e)
 
 Cataclysm-DDA experimental build 2025-05-27-0430 (d4969a9)
 * Aftershock: Aeolian Plains 'Biome' (#81043)
-
-Cataclysm-DDA experimental build 2025-05-27-0333 (df54171)
 * Fixing Atlatl silliness (#81052)
 * [Xedra Evolved] Vampires can command foxes (#81072)
 * Routine i18n updates on 24 May 2025 (#81046)

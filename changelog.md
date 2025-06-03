@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-03-2109 ([79302c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-2109))
+
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
 
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-05-27-0430 ([d4969a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0430))
 
 * Aftershock: Aeolian Plains 'Biome' ([#81043](https://github.com/CleverRaven/Cataclysm-DDA/pull/81043))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-27-0333 ([df54171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0333))
-
 * Fixing Atlatl silliness ([#81052](https://github.com/CleverRaven/Cataclysm-DDA/pull/81052))
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
 * Routine i18n updates on 24 May 2025 ([#81046](https://github.com/CleverRaven/Cataclysm-DDA/pull/81046))
