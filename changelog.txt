@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-03-0526 (9a71ea0)
+* Animal hoodies audit (#81161)
+
 Cataclysm-DDA experimental build 2025-06-02-1354 (2377194)
 * Routine i18n updates on 31 May 2025 (#81135)
 * Properly calculate charges volume for crafting max volume (#81150)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-05-27-0242 (ea82f0a)
 
 Cataclysm-DDA experimental build 2025-05-26-1937 (8691bad)
 * Routine i18n updates on 24 May 2025 (#81046)
-
-Cataclysm-DDA experimental build 2025-05-26-1731 (61ffda4)
 * Add test to ensure calorie density < ~9.02cal/g (#81051)
 * Update weight of kevlar suits (#81066)
 * [MoM] Add `Heart of Fire` challenge scenario (#81042)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2025-05-26-1731 (61ffda4)
 * use climb skill for pathfinding and showing ability (#80963)
 * [Backrooms] Fix wasp/dermatik roofs (#80953)
 * resize bag_zipper & sandwiches (#80955)
-* Migrate flag SWIMS to moveskills (#80949)
 * A bit of copy-from for bludgeons (#80964)
 * resize some meds (#80971)
 * Hub 01 jumpsuit audit (#80975)

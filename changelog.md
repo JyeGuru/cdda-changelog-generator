@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-03-0526 ([9a71ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-0526))
+
+* Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-02-1354 ([2377194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-02-1354))
 
 * Routine i18n updates on 31 May 2025 ([#81135](https://github.com/CleverRaven/Cataclysm-DDA/pull/81135))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-05-26-1937 ([8691bad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1937))
 
 * Routine i18n updates on 24 May 2025 ([#81046](https://github.com/CleverRaven/Cataclysm-DDA/pull/81046))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-26-1731 ([61ffda4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-26-1731))
-
 * Add test to ensure calorie density < ~9.02cal/g ([#81051](https://github.com/CleverRaven/Cataclysm-DDA/pull/81051))
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
 * [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
@@ -228,7 +229,6 @@
 * use climb skill for pathfinding and showing ability ([#80963](https://github.com/CleverRaven/Cataclysm-DDA/pull/80963))
 * [Backrooms] Fix wasp/dermatik roofs ([#80953](https://github.com/CleverRaven/Cataclysm-DDA/pull/80953))
 * resize bag_zipper & sandwiches ([#80955](https://github.com/CleverRaven/Cataclysm-DDA/pull/80955))
-* Migrate flag SWIMS to moveskills ([#80949](https://github.com/CleverRaven/Cataclysm-DDA/pull/80949))
 * A bit of copy-from for bludgeons ([#80964](https://github.com/CleverRaven/Cataclysm-DDA/pull/80964))
 * resize some meds ([#80971](https://github.com/CleverRaven/Cataclysm-DDA/pull/80971))
 * Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
