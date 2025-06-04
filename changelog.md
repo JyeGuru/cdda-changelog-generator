@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-04-1549 ([e272b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-04-1549))
+
+* Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-03-2109 ([79302c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-2109))
 
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
@@ -184,11 +190,6 @@
 * [ Xedra Evolved ] Paraclesian First Contact Dialogue ([#81027](https://github.com/CleverRaven/Cataclysm-DDA/pull/81027))
 * Fix different iterator types (2) ([#81061](https://github.com/CleverRaven/Cataclysm-DDA/pull/81061))
 * River generation overhaul ([#81026](https://github.com/CleverRaven/Cataclysm-DDA/pull/81026))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-27-0430 ([d4969a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0430))
-
 * Aftershock: Aeolian Plains 'Biome' ([#81043](https://github.com/CleverRaven/Cataclysm-DDA/pull/81043))
 * Fixing Atlatl silliness ([#81052](https://github.com/CleverRaven/Cataclysm-DDA/pull/81052))
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
@@ -235,6 +236,5 @@
 * Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
 * Finish the variantization of fursuits ([#80979](https://github.com/CleverRaven/Cataclysm-DDA/pull/80979))
 * Routine i18n updates on 17 May 2025 ([#80970](https://github.com/CleverRaven/Cataclysm-DDA/pull/80970))
-* Black is bad ([#80960](https://github.com/CleverRaven/Cataclysm-DDA/pull/80960))
 * Clean up some more more itemgroups ([#80961](https://github.com/CleverRaven/Cataclysm-DDA/pull/80961))
 * migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
