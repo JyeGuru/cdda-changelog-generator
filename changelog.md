@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-04-1923 ([07c840d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-04-1923))
+
+* add kids' backpacks ([#81119](https://github.com/CleverRaven/Cataclysm-DDA/pull/81119))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-04-1549 ([e272b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-04-1549))
 
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-27-0645 ([a4de960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0645))
 
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-27-0517 ([069475e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0517))
-
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
 * [ Xedra Evolved ] Paraclesian First Contact Dialogue ([#81027](https://github.com/CleverRaven/Cataclysm-DDA/pull/81027))
 * Fix different iterator types (2) ([#81061](https://github.com/CleverRaven/Cataclysm-DDA/pull/81061))
@@ -236,5 +237,4 @@
 * Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
 * Finish the variantization of fursuits ([#80979](https://github.com/CleverRaven/Cataclysm-DDA/pull/80979))
 * Routine i18n updates on 17 May 2025 ([#80970](https://github.com/CleverRaven/Cataclysm-DDA/pull/80970))
-* Clean up some more more itemgroups ([#80961](https://github.com/CleverRaven/Cataclysm-DDA/pull/80961))
 * migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
