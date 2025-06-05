@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-05-1536 ([ace355a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-05-1536))
+
+* Imgui default style: Nav highlight is white ([#81125](https://github.com/CleverRaven/Cataclysm-DDA/pull/81125))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-04-1923 ([07c840d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-04-1923))
 
 * add kids' backpacks ([#81119](https://github.com/CleverRaven/Cataclysm-DDA/pull/81119))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-27-0731 ([0d65cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0731))
 
 * Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-27-0645 ([a4de960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0645))
-
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
 * [ Xedra Evolved ] Paraclesian First Contact Dialogue ([#81027](https://github.com/CleverRaven/Cataclysm-DDA/pull/81027))
@@ -231,7 +232,6 @@
 * Weekly Changelog 2025-05-12 to 2025-05-19 ([#80995](https://github.com/CleverRaven/Cataclysm-DDA/pull/80995))
 * Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants ([#80980](https://github.com/CleverRaven/Cataclysm-DDA/pull/80980))
-* A bit of copy-from for bludgeons ([#80964](https://github.com/CleverRaven/Cataclysm-DDA/pull/80964))
 * resize some meds ([#80971](https://github.com/CleverRaven/Cataclysm-DDA/pull/80971))
 * Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
 * Finish the variantization of fursuits ([#80979](https://github.com/CleverRaven/Cataclysm-DDA/pull/80979))
