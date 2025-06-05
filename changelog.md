@@ -231,7 +231,6 @@
 * Weekly Changelog 2025-05-12 to 2025-05-19 ([#80995](https://github.com/CleverRaven/Cataclysm-DDA/pull/80995))
 * Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants ([#80980](https://github.com/CleverRaven/Cataclysm-DDA/pull/80980))
-* use climb skill for pathfinding and showing ability ([#80963](https://github.com/CleverRaven/Cataclysm-DDA/pull/80963))
 * A bit of copy-from for bludgeons ([#80964](https://github.com/CleverRaven/Cataclysm-DDA/pull/80964))
 * resize some meds ([#80971](https://github.com/CleverRaven/Cataclysm-DDA/pull/80971))
 * Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
