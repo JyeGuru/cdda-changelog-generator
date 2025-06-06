@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-06-0622 ([1dba5ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-0622))
+
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
 
 ---
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-27-1807 ([a1a4bff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-1807))
 
 * [MoM] Fix Dilated Gateway ([#81085](https://github.com/CleverRaven/Cataclysm-DDA/pull/81085))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-27-1230 ([3b0f229](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-1230))
-
 * Bail out if container is invalid ([#81081](https://github.com/CleverRaven/Cataclysm-DDA/pull/81081))
 * Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))

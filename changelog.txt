@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-06-0622 (1dba5ba)
 * Aftershock: You can now spot the spaceport during clear nights. (#81187)
 
 Cataclysm-DDA experimental build 2025-06-06-0534 (3977cc5)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2025-05-28-0352 (c1357d8)
 
 Cataclysm-DDA experimental build 2025-05-27-1807 (a1a4bff)
 * [MoM] Fix Dilated Gateway (#81085)
-
-Cataclysm-DDA experimental build 2025-05-27-1230 (3b0f229)
 * Bail out if container is invalid (#81081)
 * Create a terminal-like default theme for Imgui (#81074)
 * Fix builds without BACKTRACE defined (#81073)
