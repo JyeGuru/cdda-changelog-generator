@@ -208,7 +208,6 @@
 * increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
 * Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
 * adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
-* Modernize and fix Hub 01 modular recon headgear ([#80969](https://github.com/CleverRaven/Cataclysm-DDA/pull/80969))
 * Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
 * Flag jumpsuit audit ([#80977](https://github.com/CleverRaven/Cataclysm-DDA/pull/80977))
 * fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
