@@ -1,3 +1,4 @@
+* [Xedra Evolved] Update leg_guards_verdant in Boann's rewards (#81178)
 
 Cataclysm-DDA experimental build 2025-06-06-1958 (fc80ec7)
 * Fix load time slowdown from n^2 time vector scans in item finalization. (#81186)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2025-05-28-0547 (436e81f)
 * Bugfix: continue with destination activity if route is empty (#80974)
 * Remove some particularly WTF crafting recipes (#81007)
 * Remove mapgen "method" (#80993)
-* Kukri sprite for all kukris (#80973)
 * Less garbage in dumpsters (#80989)
 * Attempt to make anger relations work inside of aggro_character (#80981)
 * Skull balaclava audit (#80990)

@@ -1,3 +1,4 @@
+* [Xedra Evolved] Update leg_guards_verdant in Boann's rewards ([#81178](https://github.com/CleverRaven/Cataclysm-DDA/pull/81178))
 
 ---
 
@@ -227,7 +228,6 @@
 * Bugfix: continue with destination activity if route is empty ([#80974](https://github.com/CleverRaven/Cataclysm-DDA/pull/80974))
 * Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
 * Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
-* Kukri sprite for all kukris ([#80973](https://github.com/CleverRaven/Cataclysm-DDA/pull/80973))
 * Less garbage in dumpsters ([#80989](https://github.com/CleverRaven/Cataclysm-DDA/pull/80989))
 * Attempt to make anger relations work inside of aggro_character ([#80981](https://github.com/CleverRaven/Cataclysm-DDA/pull/80981))
 * Skull balaclava audit ([#80990](https://github.com/CleverRaven/Cataclysm-DDA/pull/80990))
