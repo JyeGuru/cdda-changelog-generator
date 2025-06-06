@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-06-2049 (75f3d11)
 * [Xedra Evolved] Update leg_guards_verdant in Boann's rewards (#81178)
 
 Cataclysm-DDA experimental build 2025-06-06-1958 (fc80ec7)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2025-05-28-1856 (9f2ae45)
 
 Cataclysm-DDA experimental build 2025-05-28-0744 (2c360cf)
 * [MoM] Add enervating amalgamation (#81088)
-
-Cataclysm-DDA experimental build 2025-05-28-0547 (436e81f)
 * add long_duffelbag spawns (#81093)
 * [MoM] Remove damage on feral telekinetics' telekinetic throws (#81089)
 * [MoM] Fix Dilated Gateway (#81085)
@@ -135,7 +135,6 @@ Cataclysm-DDA experimental build 2025-05-28-0547 (436e81f)
 * Don't check crafting volume on vehicle modification (#81001)
 * Add vehicles to military outpost (#81011)
 * various move_skills bugfixes (#81013)
-* Bugfix: continue with destination activity if route is empty (#80974)
 * Remove some particularly WTF crafting recipes (#81007)
 * Remove mapgen "method" (#80993)
 * Less garbage in dumpsters (#80989)
