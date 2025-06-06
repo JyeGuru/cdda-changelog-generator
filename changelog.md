@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-06-1622 ([ae46222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-1622))
+
+* Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-06-0622 ([1dba5ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-0622))
 
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-28-0352 ([c1357d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-0352))
 
 * [MoM] Remove damage on feral telekinetics' telekinetic throws ([#81089](https://github.com/CleverRaven/Cataclysm-DDA/pull/81089))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-27-1807 ([a1a4bff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-1807))
-
 * [MoM] Fix Dilated Gateway ([#81085](https://github.com/CleverRaven/Cataclysm-DDA/pull/81085))
 * Bail out if container is invalid ([#81081](https://github.com/CleverRaven/Cataclysm-DDA/pull/81081))
 * Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
@@ -236,4 +237,3 @@
 * resize some meds ([#80971](https://github.com/CleverRaven/Cataclysm-DDA/pull/80971))
 * Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
 * Finish the variantization of fursuits ([#80979](https://github.com/CleverRaven/Cataclysm-DDA/pull/80979))
-* Routine i18n updates on 17 May 2025 ([#80970](https://github.com/CleverRaven/Cataclysm-DDA/pull/80970))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-06-1622 (ae46222)
+* Fix pedantry build errors (#81190)
+
 Cataclysm-DDA experimental build 2025-06-06-0622 (1dba5ba)
 * Aftershock: You can now spot the spaceport during clear nights. (#81187)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-05-28-0547 (436e81f)
 
 Cataclysm-DDA experimental build 2025-05-28-0352 (c1357d8)
 * [MoM] Remove damage on feral telekinetics' telekinetic throws (#81089)
-
-Cataclysm-DDA experimental build 2025-05-27-1807 (a1a4bff)
 * [MoM] Fix Dilated Gateway (#81085)
 * Bail out if container is invalid (#81081)
 * Create a terminal-like default theme for Imgui (#81074)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-05-27-1807 (a1a4bff)
 * resize some meds (#80971)
 * Hub 01 jumpsuit audit (#80975)
 * Finish the variantization of fursuits (#80979)
-* Routine i18n updates on 17 May 2025 (#80970)
