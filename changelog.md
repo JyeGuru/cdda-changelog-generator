@@ -1,3 +1,10 @@
+* Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-06-0534 ([3977cc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-0534))
+
+* Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
 
 ---
 
@@ -181,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-05-27-1230 ([3b0f229](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-1230))
 
 * Bail out if container is invalid ([#81081](https://github.com/CleverRaven/Cataclysm-DDA/pull/81081))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-27-0731 ([0d65cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-27-0731))
-
 * Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
@@ -236,4 +238,3 @@
 * Hub 01 jumpsuit audit ([#80975](https://github.com/CleverRaven/Cataclysm-DDA/pull/80975))
 * Finish the variantization of fursuits ([#80979](https://github.com/CleverRaven/Cataclysm-DDA/pull/80979))
 * Routine i18n updates on 17 May 2025 ([#80970](https://github.com/CleverRaven/Cataclysm-DDA/pull/80970))
-* migrate CLIMBS flag to move_skill ([#80965](https://github.com/CleverRaven/Cataclysm-DDA/pull/80965))
