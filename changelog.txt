@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-07-0359 (2c8ec05)
+* [Magiclysm] Frost armor no longer casts Ice Spike (#81175)
+
 Cataclysm-DDA experimental build 2025-06-06-2049 (75f3d11)
 * [Xedra Evolved] Update leg_guards_verdant in Boann's rewards (#81178)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-05-29-0506 (04d037f)
 
 Cataclysm-DDA experimental build 2025-05-28-1856 (9f2ae45)
 * [MoM] Knack handling during awakening (#81084)
-
-Cataclysm-DDA experimental build 2025-05-28-0744 (2c360cf)
 * [MoM] Add enervating amalgamation (#81088)
 * add long_duffelbag spawns (#81093)
 * [MoM] Remove damage on feral telekinetics' telekinetic throws (#81089)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2025-05-28-0744 (2c360cf)
 * Weekly Changelog 2025-05-12 to 2025-05-19 (#80995)
 * Minor mapgen tweaks (#80985)
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants (#80980)
-* Hub 01 jumpsuit audit (#80975)
 * Finish the variantization of fursuits (#80979)
