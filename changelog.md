@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-07-1624 ([2464216](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-1624))
+
+* Cropped hoodies don't have pockets ([#81185](https://github.com/CleverRaven/Cataclysm-DDA/pull/81185))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-07-1429 ([42b86e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-1429))
 
 * Fix freeze when npc is recalled from mission ([#81189](https://github.com/CleverRaven/Cataclysm-DDA/pull/81189))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-29-2318 ([530543a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-2318))
 
 * add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-29-1537 ([45fbc65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-1537))
-
 * Fix mac build ([#81087](https://github.com/CleverRaven/Cataclysm-DDA/pull/81087))
 * Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
 * [MoM] Knack handling during awakening ([#81084](https://github.com/CleverRaven/Cataclysm-DDA/pull/81084))
@@ -235,4 +236,3 @@
 * give used evac shelters more trash than pristine shelters ([#80992](https://github.com/CleverRaven/Cataclysm-DDA/pull/80992))
 * Weekly Changelog 2025-05-12 to 2025-05-19 ([#80995](https://github.com/CleverRaven/Cataclysm-DDA/pull/80995))
 * Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
-* Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants ([#80980](https://github.com/CleverRaven/Cataclysm-DDA/pull/80980))
