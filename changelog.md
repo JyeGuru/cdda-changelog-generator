@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-07-0832 ([68b6e7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-0832))
+
+* Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-07-0359 ([2c8ec05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-0359))
 
 * [Magiclysm] Frost armor no longer casts Ice Spike ([#81175](https://github.com/CleverRaven/Cataclysm-DDA/pull/81175))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-29-0506 ([04d037f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-0506))
 
 * Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-28-1856 ([9f2ae45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-28-1856))
-
 * [MoM] Knack handling during awakening ([#81084](https://github.com/CleverRaven/Cataclysm-DDA/pull/81084))
 * [MoM] Add enervating amalgamation ([#81088](https://github.com/CleverRaven/Cataclysm-DDA/pull/81088))
 * add long_duffelbag spawns ([#81093](https://github.com/CleverRaven/Cataclysm-DDA/pull/81093))
@@ -213,7 +214,6 @@
 * Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
 * adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
 * Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
-* Flag jumpsuit audit ([#80977](https://github.com/CleverRaven/Cataclysm-DDA/pull/80977))
 * fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
 * Fix text changes CI choking on copy-frommed spells with indistinct names ([#81033](https://github.com/CleverRaven/Cataclysm-DDA/pull/81033))
 * [MoM] Add psychic knacks ([#81016](https://github.com/CleverRaven/Cataclysm-DDA/pull/81016))
