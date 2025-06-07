@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-07-1429 (42b86e3)
+* Fix freeze when npc is recalled from mission (#81189)
+
 Cataclysm-DDA experimental build 2025-06-07-0832 (68b6e7b)
 * Routine i18n updates on 07 June 2025 (#81197)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-05-29-2318 (530543a)
 
 Cataclysm-DDA experimental build 2025-05-29-1537 (45fbc65)
 * Fix mac build (#81087)
-
-Cataclysm-DDA experimental build 2025-05-29-0506 (04d037f)
 * Updated correct batttery on electric shears (#81099)
 * [MoM] Knack handling during awakening (#81084)
 * [MoM] Add enervating amalgamation (#81088)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-05-29-0506 (04d037f)
 * Weekly Changelog 2025-05-12 to 2025-05-19 (#80995)
 * Minor mapgen tweaks (#80985)
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants (#80980)
-* Finish the variantization of fursuits (#80979)

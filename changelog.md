@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-07-1429 ([42b86e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-1429))
+
+* Fix freeze when npc is recalled from mission ([#81189](https://github.com/CleverRaven/Cataclysm-DDA/pull/81189))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-07-0832 ([68b6e7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-0832))
 
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-29-1537 ([45fbc65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-1537))
 
 * Fix mac build ([#81087](https://github.com/CleverRaven/Cataclysm-DDA/pull/81087))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-29-0506 ([04d037f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-0506))
-
 * Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
 * [MoM] Knack handling during awakening ([#81084](https://github.com/CleverRaven/Cataclysm-DDA/pull/81084))
 * [MoM] Add enervating amalgamation ([#81088](https://github.com/CleverRaven/Cataclysm-DDA/pull/81088))
@@ -235,4 +236,3 @@
 * Weekly Changelog 2025-05-12 to 2025-05-19 ([#80995](https://github.com/CleverRaven/Cataclysm-DDA/pull/80995))
 * Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
 * Allow TILE_CATEGORY::WEATHER to have "indeterministic" sprite variants ([#80980](https://github.com/CleverRaven/Cataclysm-DDA/pull/80980))
-* Finish the variantization of fursuits ([#80979](https://github.com/CleverRaven/Cataclysm-DDA/pull/80979))
