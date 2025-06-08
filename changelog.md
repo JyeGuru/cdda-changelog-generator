@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-08-0512 ([c01b353](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-0512))
+
 * Revert vehicle cargo sizes to sane values ([#81191](https://github.com/CleverRaven/Cataclysm-DDA/pull/81191))
 * Swimwear isn't underwear ([#81202](https://github.com/CleverRaven/Cataclysm-DDA/pull/81202))
 
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-05-30-1025 ([8ebede1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-1025))
 
 * Improve documentation style for frequently made suggestions and package links ([#81104](https://github.com/CleverRaven/Cataclysm-DDA/pull/81104))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-30-0529 ([52d31d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-0529))
-
 * Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
 * add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
 * add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
