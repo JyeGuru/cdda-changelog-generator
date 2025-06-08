@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-08-1708 ([bd65f73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-1708))
+
+* Fix damage instance deserialize function ([#81200](https://github.com/CleverRaven/Cataclysm-DDA/pull/81200))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-08-1351 ([7a31fd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-1351))
 
 * Devariantize shotguns ([#81203](https://github.com/CleverRaven/Cataclysm-DDA/pull/81203))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-05-30-1848 ([85471b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-1848))
 
 * [MoM] Fix merge conflicts ([#81124](https://github.com/CleverRaven/Cataclysm-DDA/pull/81124))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-30-1137 ([acbd878](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-1137))
-
 * Basic imgui style picker ([#81083](https://github.com/CleverRaven/Cataclysm-DDA/pull/81083))
 * consolidate itemgroups that are designed as subsets of other itemgroups ([#81117](https://github.com/CleverRaven/Cataclysm-DDA/pull/81117))
 * Correctly save/load river control points ([#81111](https://github.com/CleverRaven/Cataclysm-DDA/pull/81111))
@@ -217,7 +218,6 @@
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
 * [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
-* [ Xedra Evolved ] Remove Riot damage from Safe House and Border Patrol Office ([#80996](https://github.com/CleverRaven/Cataclysm-DDA/pull/80996))
 * More standalone freezers in houses ([#81010](https://github.com/CleverRaven/Cataclysm-DDA/pull/81010))
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
 * increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
@@ -228,7 +228,6 @@
 * Fix text changes CI choking on copy-frommed spells with indistinct names ([#81033](https://github.com/CleverRaven/Cataclysm-DDA/pull/81033))
 * [MoM] Add psychic knacks ([#81016](https://github.com/CleverRaven/Cataclysm-DDA/pull/81016))
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))
-* Block unsuitable map extras in the air and fireweed on artificial ground (Research Facility) ([#80999](https://github.com/CleverRaven/Cataclysm-DDA/pull/80999))
 * Basement lab entrance tweaks ([#81009](https://github.com/CleverRaven/Cataclysm-DDA/pull/81009))
 * [MoM] Phase volume requirements ([#81014](https://github.com/CleverRaven/Cataclysm-DDA/pull/81014))
 * Mapgen: remove unused and obsolete JSON fields ([#81004](https://github.com/CleverRaven/Cataclysm-DDA/pull/81004))
