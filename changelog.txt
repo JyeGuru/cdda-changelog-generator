@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-08-1351 (7a31fd7)
+* Devariantize shotguns (#81203)
+
 Cataclysm-DDA experimental build 2025-06-08-0512 (c01b353)
 * Revert vehicle cargo sizes to sane values (#81191)
 * Swimwear isn't underwear (#81202)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2025-05-30-1137 (acbd878)
 * Correctly save/load river control points (#81111)
 * [MoM] Knack Difficulty adjustment (#81115)
 * [MoM] Add more psychic knacks (#81113)
-
-Cataclysm-DDA experimental build 2025-05-30-1025 (8ebede1)
 * Improve documentation style for frequently made suggestions and package links (#81104)
 * Reduce spawning of military rucksack (#81112)
 * add magazine wells to non-rigid containers (#81108)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-05-30-1025 (8ebede1)
 * Add vehicles to military outpost (#81011)
 * various move_skills bugfixes (#81013)
 * Remove some particularly WTF crafting recipes (#81007)
-* Weekly Changelog 2025-05-12 to 2025-05-19 (#80995)
