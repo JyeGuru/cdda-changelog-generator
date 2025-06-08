@@ -1,3 +1,5 @@
+* Revert vehicle cargo sizes to sane values ([#81191](https://github.com/CleverRaven/Cataclysm-DDA/pull/81191))
+* Swimwear isn't underwear ([#81202](https://github.com/CleverRaven/Cataclysm-DDA/pull/81202))
 
 ---
 
@@ -234,6 +236,4 @@
 * Add vehicles to military outpost ([#81011](https://github.com/CleverRaven/Cataclysm-DDA/pull/81011))
 * various move_skills bugfixes ([#81013](https://github.com/CleverRaven/Cataclysm-DDA/pull/81013))
 * Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
-* Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
-* give used evac shelters more trash than pristine shelters ([#80992](https://github.com/CleverRaven/Cataclysm-DDA/pull/80992))
 * Weekly Changelog 2025-05-12 to 2025-05-19 ([#80995](https://github.com/CleverRaven/Cataclysm-DDA/pull/80995))

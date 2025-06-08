@@ -1,3 +1,5 @@
+* Revert vehicle cargo sizes to sane values (#81191)
+* Swimwear isn't underwear (#81202)
 
 Cataclysm-DDA experimental build 2025-06-08-0208 (8205c72)
 * Allow city specials to use OVERMAP_UNIQUE (#81017)
@@ -144,6 +146,4 @@ Cataclysm-DDA experimental build 2025-05-30-0529 (52d31d1)
 * Add vehicles to military outpost (#81011)
 * various move_skills bugfixes (#81013)
 * Remove some particularly WTF crafting recipes (#81007)
-* Remove mapgen "method" (#80993)
-* give used evac shelters more trash than pristine shelters (#80992)
 * Weekly Changelog 2025-05-12 to 2025-05-19 (#80995)
