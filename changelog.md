@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-08-0208 ([8205c72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-0208))
+
+* Allow city specials to use OVERMAP_UNIQUE ([#81017](https://github.com/CleverRaven/Cataclysm-DDA/pull/81017))
+* Use dbl_or_var for variable "nested":/"place_nested": weights ([#81032](https://github.com/CleverRaven/Cataclysm-DDA/pull/81032))
+* Add Hub jumpsuit to the items sold by the Hub vendor ([#81201](https://github.com/CleverRaven/Cataclysm-DDA/pull/81201))
+* Fix emscripten build ([#81199](https://github.com/CleverRaven/Cataclysm-DDA/pull/81199))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-08-0107 ([1cd810d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-0107))
+
+* Roads cross streams, fix stream predecessors ([#81195](https://github.com/CleverRaven/Cataclysm-DDA/pull/81195))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-07-1624 ([2464216](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-1624))
 
 * Cropped hoodies don't have pockets ([#81185](https://github.com/CleverRaven/Cataclysm-DDA/pull/81185))
@@ -175,17 +190,7 @@
 #### Cataclysm-DDA experimental build 2025-05-30-0529 ([52d31d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-0529))
 
 * Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-30-0257 ([b6e4594](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-30-0257))
-
 * add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-29-2318 ([530543a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-29-2318))
-
 * add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
 * Fix mac build ([#81087](https://github.com/CleverRaven/Cataclysm-DDA/pull/81087))
 * Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
@@ -230,9 +235,5 @@
 * various move_skills bugfixes ([#81013](https://github.com/CleverRaven/Cataclysm-DDA/pull/81013))
 * Remove some particularly WTF crafting recipes ([#81007](https://github.com/CleverRaven/Cataclysm-DDA/pull/81007))
 * Remove mapgen "method" ([#80993](https://github.com/CleverRaven/Cataclysm-DDA/pull/80993))
-* Less garbage in dumpsters ([#80989](https://github.com/CleverRaven/Cataclysm-DDA/pull/80989))
-* Attempt to make anger relations work inside of aggro_character ([#80981](https://github.com/CleverRaven/Cataclysm-DDA/pull/80981))
-* Skull balaclava audit ([#80990](https://github.com/CleverRaven/Cataclysm-DDA/pull/80990))
 * give used evac shelters more trash than pristine shelters ([#80992](https://github.com/CleverRaven/Cataclysm-DDA/pull/80992))
 * Weekly Changelog 2025-05-12 to 2025-05-19 ([#80995](https://github.com/CleverRaven/Cataclysm-DDA/pull/80995))
-* Minor mapgen tweaks ([#80985](https://github.com/CleverRaven/Cataclysm-DDA/pull/80985))
