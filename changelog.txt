@@ -1,3 +1,4 @@
+* [Magiclysm] Change Power Linkage search data (#81177)
 * Special Vision Missing Text Field (#81166)
 
 Cataclysm-DDA experimental build 2025-06-09-1824 (f6b551f)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-06-02-0229 (6d04f21)
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) (#81022)
 * [MoM] Phase volume requirements (#81014)
 * Re-reduce mission search range so that failed search fails in reasonable time (#81021)
-* various move_skills bugfixes (#81013)

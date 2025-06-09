@@ -1,3 +1,4 @@
+* [Magiclysm] Change Power Linkage search data ([#81177](https://github.com/CleverRaven/Cataclysm-DDA/pull/81177))
 * Special Vision Missing Text Field ([#81166](https://github.com/CleverRaven/Cataclysm-DDA/pull/81166))
 
 ---
@@ -231,4 +232,3 @@
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))
 * [MoM] Phase volume requirements ([#81014](https://github.com/CleverRaven/Cataclysm-DDA/pull/81014))
 * Re-reduce mission search range so that failed search fails in reasonable time ([#81021](https://github.com/CleverRaven/Cataclysm-DDA/pull/81021))
-* various move_skills bugfixes ([#81013](https://github.com/CleverRaven/Cataclysm-DDA/pull/81013))
