@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-09-2104 (60bd281)
 * Add "Take it easy." to list of goodbyes (#81221)
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" (#81220)
 * [Magiclysm] Change Power Linkage search data (#81177)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-02-1354 (2377194)
 
 Cataclysm-DDA experimental build 2025-06-02-1300 (6f53460)
 * Weekly Changelog 2025-05-26 to 2025-06-02 (#81156)
-
-Cataclysm-DDA experimental build 2025-06-02-0229 (6d04f21)
 * Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel (#81149)
 * Audit crack and anfo recipe  (#81146)
 * Routine tileset updates on 01 June 2025 (#81143)
