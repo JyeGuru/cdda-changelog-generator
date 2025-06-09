@@ -1,3 +1,10 @@
+* Special Vision Missing Text Field ([#81166](https://github.com/CleverRaven/Cataclysm-DDA/pull/81166))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-09-1824 ([f6b551f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-1824))
+
+* Add homie, dawg to name_g ([#81214](https://github.com/CleverRaven/Cataclysm-DDA/pull/81214))
 
 ---
 
@@ -174,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-06-02-0229 ([6d04f21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-02-0229))
 
 * Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel ([#81149](https://github.com/CleverRaven/Cataclysm-DDA/pull/81149))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-01-2117 ([ad39f8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-01-2117))
-
 * Audit crack and anfo recipe  ([#81146](https://github.com/CleverRaven/Cataclysm-DDA/pull/81146))
 * Routine tileset updates on 01 June 2025 ([#81143](https://github.com/CleverRaven/Cataclysm-DDA/pull/81143))
 * Ignore generated CMake files ([#81138](https://github.com/CleverRaven/Cataclysm-DDA/pull/81138))
@@ -218,7 +220,6 @@
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
 * [MoM] Add `Heart of Fire` challenge scenario ([#81042](https://github.com/CleverRaven/Cataclysm-DDA/pull/81042))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
-* More standalone freezers in houses ([#81010](https://github.com/CleverRaven/Cataclysm-DDA/pull/81010))
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
 * increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
 * Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
@@ -230,5 +231,4 @@
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))
 * [MoM] Phase volume requirements ([#81014](https://github.com/CleverRaven/Cataclysm-DDA/pull/81014))
 * Re-reduce mission search range so that failed search fails in reasonable time ([#81021](https://github.com/CleverRaven/Cataclysm-DDA/pull/81021))
-* Add vehicles to military outpost ([#81011](https://github.com/CleverRaven/Cataclysm-DDA/pull/81011))
 * various move_skills bugfixes ([#81013](https://github.com/CleverRaven/Cataclysm-DDA/pull/81013))
