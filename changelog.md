@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-09-0834 ([af7445d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-0834))
+
 * Remove 7-10 split, clay quern, forked spear ([#81209](https://github.com/CleverRaven/Cataclysm-DDA/pull/81209))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-05-31-1248 ([fc91646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-31-1248))
 
 * Set DPI awareness hint to fix blurry text ([#81139](https://github.com/CleverRaven/Cataclysm-DDA/pull/81139))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-31-1202 ([9e2fd4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-31-1202))
-
 * Fix compilation errors on MinGW-w64 ([#81137](https://github.com/CleverRaven/Cataclysm-DDA/pull/81137))
 * update to codeql v2 ([#81120](https://github.com/CleverRaven/Cataclysm-DDA/pull/81120))
 * Remove thread from cordage requirements ([#81130](https://github.com/CleverRaven/Cataclysm-DDA/pull/81130))
