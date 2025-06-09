@@ -180,11 +180,6 @@
 
 * Routine tileset updates on 01 June 2025 ([#81143](https://github.com/CleverRaven/Cataclysm-DDA/pull/81143))
 * Ignore generated CMake files ([#81138](https://github.com/CleverRaven/Cataclysm-DDA/pull/81138))
-
----
-
-#### Cataclysm-DDA experimental build 2025-05-31-1248 ([fc91646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-05-31-1248))
-
 * Set DPI awareness hint to fix blurry text ([#81139](https://github.com/CleverRaven/Cataclysm-DDA/pull/81139))
 * Fix compilation errors on MinGW-w64 ([#81137](https://github.com/CleverRaven/Cataclysm-DDA/pull/81137))
 * update to codeql v2 ([#81120](https://github.com/CleverRaven/Cataclysm-DDA/pull/81120))

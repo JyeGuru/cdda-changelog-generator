@@ -93,8 +93,6 @@ Cataclysm-DDA experimental build 2025-06-01-2117 (ad39f8b)
 Cataclysm-DDA experimental build 2025-06-01-1612 (7fea6ed)
 * Routine tileset updates on 01 June 2025 (#81143)
 * Ignore generated CMake files (#81138)
-
-Cataclysm-DDA experimental build 2025-05-31-1248 (fc91646)
 * Set DPI awareness hint to fix blurry text (#81139)
 * Fix compilation errors on MinGW-w64 (#81137)
 * update to codeql v2 (#81120)
