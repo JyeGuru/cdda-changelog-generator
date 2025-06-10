@@ -1,3 +1,4 @@
+* Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
 * Compound bows are made with aluminum not steel ([#81196](https://github.com/CleverRaven/Cataclysm-DDA/pull/81196))
 
 ---
@@ -224,7 +225,6 @@
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
 * increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
-* Add finalization step for spells ([#81036](https://github.com/CleverRaven/Cataclysm-DDA/pull/81036))
 * adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
 * Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
 * fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
