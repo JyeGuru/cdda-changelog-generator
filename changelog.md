@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-10-0412 ([5e49364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-0412))
+
 * Added Faction label and Map location ([#81165](https://github.com/CleverRaven/Cataclysm-DDA/pull/81165))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-06-03-0526 ([9a71ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-0526))
 
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-02-1354 ([2377194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-02-1354))
-
 * Routine i18n updates on 31 May 2025 ([#81135](https://github.com/CleverRaven/Cataclysm-DDA/pull/81135))
 * Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
 * Some home wardrobe clothes are stored as sets of clothes ([#81151](https://github.com/CleverRaven/Cataclysm-DDA/pull/81151))
