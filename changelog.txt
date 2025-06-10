@@ -1,3 +1,4 @@
+* Separate out mission searches for existing globally uniques (#81219)
 * [Magiclysm] Black Dragons can get Chrysophilia (#81223)
 
 Cataclysm-DDA experimental build 2025-06-10-0943 (2f0b245)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2025-06-03-1750 (14928f0)
 * Fix #81024  Lack of oxygen concentrators (#81068)
 * [ Xedra Evolved ] Paraclesian First Contact Dialogue (#81027)
 * Fix different iterator types (2) (#81061)
-* River generation overhaul (#81026)
 * Aftershock: Aeolian Plains 'Biome' (#81043)
 * Fixing Atlatl silliness (#81052)
 * [Xedra Evolved] Vampires can command foxes (#81072)

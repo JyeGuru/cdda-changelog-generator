@@ -1,3 +1,4 @@
+* Separate out mission searches for existing globally uniques ([#81219](https://github.com/CleverRaven/Cataclysm-DDA/pull/81219))
 * [Magiclysm] Black Dragons can get Chrysophilia ([#81223](https://github.com/CleverRaven/Cataclysm-DDA/pull/81223))
 
 ---
@@ -212,7 +213,6 @@
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
 * [ Xedra Evolved ] Paraclesian First Contact Dialogue ([#81027](https://github.com/CleverRaven/Cataclysm-DDA/pull/81027))
 * Fix different iterator types (2) ([#81061](https://github.com/CleverRaven/Cataclysm-DDA/pull/81061))
-* River generation overhaul ([#81026](https://github.com/CleverRaven/Cataclysm-DDA/pull/81026))
 * Aftershock: Aeolian Plains 'Biome' ([#81043](https://github.com/CleverRaven/Cataclysm-DDA/pull/81043))
 * Fixing Atlatl silliness ([#81052](https://github.com/CleverRaven/Cataclysm-DDA/pull/81052))
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
