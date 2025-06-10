@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-10-0943 ([2f0b245](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-0943))
+
+* [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-10-0412 ([5e49364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-0412))
 
 * Added Faction label and Map location ([#81165](https://github.com/CleverRaven/Cataclysm-DDA/pull/81165))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-06-03-1750 ([14928f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-1750))
 
 * Faction food supply can expire over time ([#81092](https://github.com/CleverRaven/Cataclysm-DDA/pull/81092))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-03-0526 ([9a71ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-0526))
-
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
 * Routine i18n updates on 31 May 2025 ([#81135](https://github.com/CleverRaven/Cataclysm-DDA/pull/81135))
 * Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
@@ -226,4 +227,3 @@
 * Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
 * fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
 * Fix text changes CI choking on copy-frommed spells with indistinct names ([#81033](https://github.com/CleverRaven/Cataclysm-DDA/pull/81033))
-* [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))

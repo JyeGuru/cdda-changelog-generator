@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-10-0943 (2f0b245)
+* [ Magiclysm ]  Remove radiogenic from Manatouched (#81230)
+
 Cataclysm-DDA experimental build 2025-06-10-0412 (5e49364)
 * Added Faction label and Map location (#81165)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2025-06-03-2025 (c867026)
 
 Cataclysm-DDA experimental build 2025-06-03-1750 (14928f0)
 * Faction food supply can expire over time (#81092)
-
-Cataclysm-DDA experimental build 2025-06-03-0526 (9a71ea0)
 * Animal hoodies audit (#81161)
 * Routine i18n updates on 31 May 2025 (#81135)
 * Properly calculate charges volume for crafting max volume (#81150)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2025-06-03-0526 (9a71ea0)
 * Fermentation extraction allows gradual extraction (#81038)
 * fix some bread (#81045)
 * Fix text changes CI choking on copy-frommed spells with indistinct names (#81033)
-* [MoM] Reality Tear teleportion power is now temporary (hopefully...) (#81022)
