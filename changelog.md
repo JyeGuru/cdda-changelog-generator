@@ -1,3 +1,4 @@
+* [Magiclysm] Black Dragons can get Chrysophilia ([#81223](https://github.com/CleverRaven/Cataclysm-DDA/pull/81223))
 
 ---
 

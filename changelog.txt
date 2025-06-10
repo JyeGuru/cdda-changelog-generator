@@ -1,3 +1,4 @@
+* [Magiclysm] Black Dragons can get Chrysophilia (#81223)
 
 Cataclysm-DDA experimental build 2025-06-10-0943 (2f0b245)
 * [ Magiclysm ]  Remove radiogenic from Manatouched (#81230)
