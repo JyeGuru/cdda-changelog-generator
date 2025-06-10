@@ -1,3 +1,4 @@
+* implement gunmods modifying the to_hit value (#81225)
 
 Cataclysm-DDA experimental build 2025-06-10-2051 (0df66a8)
 * Update windows workflows to newer image (#81237)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2025-06-04-1549 (e272b23)
 * `debugmsg` clear instructions after keypress (#81060)
 * increase caloric density of dry_fruit (#81063)
 * adjust hellfire stew and hardtack pudding recipes (#81058)
-* Fermentation extraction allows gradual extraction (#81038)
 * fix some bread (#81045)

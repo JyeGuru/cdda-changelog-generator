@@ -1,3 +1,4 @@
+* implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
 
 ---
 
@@ -226,5 +227,4 @@
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
 * increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
 * adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
-* Fermentation extraction allows gradual extraction ([#81038](https://github.com/CleverRaven/Cataclysm-DDA/pull/81038))
 * fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
