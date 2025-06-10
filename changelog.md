@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-10-2051 ([0df66a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-2051))
+
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
 * Compound bows are made with aluminum not steel ([#81196](https://github.com/CleverRaven/Cataclysm-DDA/pull/81196))
 
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-06-04-1549 ([e272b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-04-1549))
 
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-03-2109 ([79302c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-03-2109))
-
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
 * Audit minor crafting recipes existence ([#81147](https://github.com/CleverRaven/Cataclysm-DDA/pull/81147))
