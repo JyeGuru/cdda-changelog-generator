@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-10-2304 (01bf0ba)
 * implement gunmods modifying the to_hit value (#81225)
 
 Cataclysm-DDA experimental build 2025-06-10-2051 (0df66a8)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2025-06-05-1536 (ace355a)
 
 Cataclysm-DDA experimental build 2025-06-04-1923 (07c840d)
 * add kids' backpacks (#81119)
-
-Cataclysm-DDA experimental build 2025-06-04-1549 (e272b23)
 * Cure survivor coprophagia (#81169)
 * Properly get recipes for NPC crafting dummy at camp (#81148)
 * Add arab and islamic clothes for women (#81160)

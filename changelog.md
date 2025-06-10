@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-10-2304 ([01bf0ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-2304))
+
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-06-04-1923 ([07c840d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-04-1923))
 
 * add kids' backpacks ([#81119](https://github.com/CleverRaven/Cataclysm-DDA/pull/81119))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-04-1549 ([e272b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-04-1549))
-
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
