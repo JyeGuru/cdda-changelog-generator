@@ -1,3 +1,10 @@
+* Added Faction label and Map location ([#81165](https://github.com/CleverRaven/Cataclysm-DDA/pull/81165))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-10-0200 ([5d4c000](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-0200))
+
+* [Magiclysm] Rework Manatouched's glow mutations ([#81212](https://github.com/CleverRaven/Cataclysm-DDA/pull/81212))
 
 ---
 
@@ -57,12 +64,6 @@
 
 * Revert vehicle cargo sizes to sane values ([#81191](https://github.com/CleverRaven/Cataclysm-DDA/pull/81191))
 * Swimwear isn't underwear ([#81202](https://github.com/CleverRaven/Cataclysm-DDA/pull/81202))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-08-0208 ([8205c72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-0208))
-
-* Allow city specials to use OVERMAP_UNIQUE ([#81017](https://github.com/CleverRaven/Cataclysm-DDA/pull/81017))
 * Use dbl_or_var for variable "nested":/"place_nested": weights ([#81032](https://github.com/CleverRaven/Cataclysm-DDA/pull/81032))
 * Add Hub jumpsuit to the items sold by the Hub vendor ([#81201](https://github.com/CleverRaven/Cataclysm-DDA/pull/81201))
 * Fix emscripten build ([#81199](https://github.com/CleverRaven/Cataclysm-DDA/pull/81199))
@@ -177,11 +178,6 @@
 * Routine i18n updates on 31 May 2025 ([#81135](https://github.com/CleverRaven/Cataclysm-DDA/pull/81135))
 * Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
 * Some home wardrobe clothes are stored as sets of clothes ([#81151](https://github.com/CleverRaven/Cataclysm-DDA/pull/81151))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-02-1300 ([6f53460](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-02-1300))
-
 * Weekly Changelog 2025-05-26 to 2025-06-02 ([#81156](https://github.com/CleverRaven/Cataclysm-DDA/pull/81156))
 * Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel ([#81149](https://github.com/CleverRaven/Cataclysm-DDA/pull/81149))
 * Audit crack and anfo recipe  ([#81146](https://github.com/CleverRaven/Cataclysm-DDA/pull/81146))
@@ -231,4 +227,3 @@
 * fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
 * Fix text changes CI choking on copy-frommed spells with indistinct names ([#81033](https://github.com/CleverRaven/Cataclysm-DDA/pull/81033))
 * [MoM] Reality Tear teleportion power is now temporary (hopefully...) ([#81022](https://github.com/CleverRaven/Cataclysm-DDA/pull/81022))
-* Re-reduce mission search range so that failed search fails in reasonable time ([#81021](https://github.com/CleverRaven/Cataclysm-DDA/pull/81021))
