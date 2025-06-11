@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-11-0355 ([2669961](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-11-0355))
+
+* Allow reading ebooks when its dark from most edevices ([#81157](https://github.com/CleverRaven/Cataclysm-DDA/pull/81157))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-10-2304 ([01bf0ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-2304))
 
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-06-05-1536 ([ace355a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-05-1536))
 
 * Imgui default style: Nav highlight is white ([#81125](https://github.com/CleverRaven/Cataclysm-DDA/pull/81125))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-04-1923 ([07c840d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-04-1923))
-
 * add kids' backpacks ([#81119](https://github.com/CleverRaven/Cataclysm-DDA/pull/81119))
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
