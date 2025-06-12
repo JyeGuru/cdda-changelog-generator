@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-12-1540 ([f3be5b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-1540))
+
 * Big wrench ([#81222](https://github.com/CleverRaven/Cataclysm-DDA/pull/81222))
 * [Bugfixes] Star vampires no longer drain blood when doing no damage ([#81257](https://github.com/CleverRaven/Cataclysm-DDA/pull/81257))
 * [MoM] Fix visitor pass revealing roads ([#81255](https://github.com/CleverRaven/Cataclysm-DDA/pull/81255))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-06-07-0832 ([68b6e7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-0832))
 
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-07-0359 ([2c8ec05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-0359))
-
 * [Magiclysm] Frost armor no longer casts Ice Spike ([#81175](https://github.com/CleverRaven/Cataclysm-DDA/pull/81175))
 * [Xedra Evolved] Update leg_guards_verdant in Boann's rewards ([#81178](https://github.com/CleverRaven/Cataclysm-DDA/pull/81178))
 * Fix load time slowdown from n^2 time vector scans in item finalization. ([#81186](https://github.com/CleverRaven/Cataclysm-DDA/pull/81186))
