@@ -1,3 +1,9 @@
+* Replace mention of transfusion with saline infusion in severe hypovolemic shock message ([#81258](https://github.com/CleverRaven/Cataclysm-DDA/pull/81258))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-12-1102 ([042d691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-1102))
+
 * Weight enchantment ([#81232](https://github.com/CleverRaven/Cataclysm-DDA/pull/81232))
 
 ---
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-06-06-2049 ([75f3d11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-2049))
 
 * [Xedra Evolved] Update leg_guards_verdant in Boann's rewards ([#81178](https://github.com/CleverRaven/Cataclysm-DDA/pull/81178))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-06-1958 ([fc80ec7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-1958))
-
 * Fix load time slowdown from n^2 time vector scans in item finalization. ([#81186](https://github.com/CleverRaven/Cataclysm-DDA/pull/81186))
 * Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
@@ -224,7 +225,6 @@
 * Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
-* Fix different iterator types (2) ([#81061](https://github.com/CleverRaven/Cataclysm-DDA/pull/81061))
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))

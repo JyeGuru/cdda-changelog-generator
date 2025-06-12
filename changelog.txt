@@ -1,3 +1,6 @@
+* Replace mention of transfusion with saline infusion in severe hypovolemic shock message (#81258)
+
+Cataclysm-DDA experimental build 2025-06-12-1102 (042d691)
 * Weight enchantment (#81232)
 
 Cataclysm-DDA experimental build 2025-06-12-0842 (a18c8fd)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-07-0359 (2c8ec05)
 
 Cataclysm-DDA experimental build 2025-06-06-2049 (75f3d11)
 * [Xedra Evolved] Update leg_guards_verdant in Boann's rewards (#81178)
-
-Cataclysm-DDA experimental build 2025-06-06-1958 (fc80ec7)
 * Fix load time slowdown from n^2 time vector scans in item finalization. (#81186)
 * Fix pedantry build errors (#81190)
 * Aftershock: You can now spot the spaceport during clear nights. (#81187)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2025-06-06-1958 (fc80ec7)
 * Create a terminal-like default theme for Imgui (#81074)
 * Fix builds without BACKTRACE defined (#81073)
 * Fix #81024  Lack of oxygen concentrators (#81068)
-* Fix different iterator types (2) (#81061)
 * [Xedra Evolved] Vampires can command foxes (#81072)
 * Update weight of kevlar suits (#81066)
 * Weekly Changelog 2025-05-19 to 2025-05-26 (#81067)
