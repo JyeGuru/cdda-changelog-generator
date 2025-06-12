@@ -1,3 +1,4 @@
+* Weight enchantment (#81232)
 
 Cataclysm-DDA experimental build 2025-06-12-0842 (a18c8fd)
 * Add Whip Proficiencies and Practice Recipe (#81238)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2025-06-06-1958 (fc80ec7)
 * [Xedra Evolved] Vampires can command foxes (#81072)
 * Update weight of kevlar suits (#81066)
 * Weekly Changelog 2025-05-19 to 2025-05-26 (#81067)
-* `debugmsg` clear instructions after keypress (#81060)
 * increase caloric density of dry_fruit (#81063)
