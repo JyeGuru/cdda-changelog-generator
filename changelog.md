@@ -1,3 +1,11 @@
+* Big wrench ([#81222](https://github.com/CleverRaven/Cataclysm-DDA/pull/81222))
+* [Bugfixes] Star vampires no longer drain blood when doing no damage ([#81257](https://github.com/CleverRaven/Cataclysm-DDA/pull/81257))
+* [MoM] Fix visitor pass revealing roads ([#81255](https://github.com/CleverRaven/Cataclysm-DDA/pull/81255))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-12-1323 ([95fb1a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-1323))
+
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message ([#81258](https://github.com/CleverRaven/Cataclysm-DDA/pull/81258))
 
 ---
@@ -174,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-06-07-0359 ([2c8ec05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-0359))
 
 * [Magiclysm] Frost armor no longer casts Ice Spike ([#81175](https://github.com/CleverRaven/Cataclysm-DDA/pull/81175))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-06-2049 ([75f3d11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-2049))
-
 * [Xedra Evolved] Update leg_guards_verdant in Boann's rewards ([#81178](https://github.com/CleverRaven/Cataclysm-DDA/pull/81178))
 * Fix load time slowdown from n^2 time vector scans in item finalization. ([#81186](https://github.com/CleverRaven/Cataclysm-DDA/pull/81186))
 * Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
@@ -226,6 +229,4 @@
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
-* Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
-* increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
