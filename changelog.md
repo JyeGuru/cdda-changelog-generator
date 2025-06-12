@@ -1,3 +1,13 @@
+* Add Whip Proficiencies and Practice Recipe ([#81238](https://github.com/CleverRaven/Cataclysm-DDA/pull/81238))
+* Update stock handling  ([#81226](https://github.com/CleverRaven/Cataclysm-DDA/pull/81226))
+* Weekly Changelog 2025-06-02 to 2025-06-09 ([#81215](https://github.com/CleverRaven/Cataclysm-DDA/pull/81215))
+* Describe stat level in new character window ([#81231](https://github.com/CleverRaven/Cataclysm-DDA/pull/81231))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-12-0617 ([a062e89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-0617))
+
+* [Bombastic Perks] Limit metamagic perks to Magiclysm ([#81247](https://github.com/CleverRaven/Cataclysm-DDA/pull/81247))
 
 ---
 
@@ -170,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-06-06-1622 ([ae46222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-1622))
 
 * Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-06-0622 ([1dba5ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-0622))
-
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
 * Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
 * Imgui default style: Nav highlight is white ([#81125](https://github.com/CleverRaven/Cataclysm-DDA/pull/81125))
@@ -219,13 +224,8 @@
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
 * Fix different iterator types (2) ([#81061](https://github.com/CleverRaven/Cataclysm-DDA/pull/81061))
-* Fixing Atlatl silliness ([#81052](https://github.com/CleverRaven/Cataclysm-DDA/pull/81052))
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
-* Routine i18n updates on 24 May 2025 ([#81046](https://github.com/CleverRaven/Cataclysm-DDA/pull/81046))
-* Add test to ensure calorie density < ~9.02cal/g ([#81051](https://github.com/CleverRaven/Cataclysm-DDA/pull/81051))
 * Update weight of kevlar suits ([#81066](https://github.com/CleverRaven/Cataclysm-DDA/pull/81066))
 * Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
 * `debugmsg` clear instructions after keypress ([#81060](https://github.com/CleverRaven/Cataclysm-DDA/pull/81060))
 * increase caloric density of dry_fruit ([#81063](https://github.com/CleverRaven/Cataclysm-DDA/pull/81063))
-* adjust hellfire stew and hardtack pudding recipes ([#81058](https://github.com/CleverRaven/Cataclysm-DDA/pull/81058))
-* fix some bread ([#81045](https://github.com/CleverRaven/Cataclysm-DDA/pull/81045))
