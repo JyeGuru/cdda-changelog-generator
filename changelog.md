@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2025-06-12-0041 ([f9606fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2025-06-12-0041))
+
+* Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-11-1439 ([038657b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-11-1439))
 
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-06-06-0622 ([1dba5ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-0622))
 
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-06-0534 ([3977cc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-0534))
-
 * Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
 * Imgui default style: Nav highlight is white ([#81125](https://github.com/CleverRaven/Cataclysm-DDA/pull/81125))
 * add kids' backpacks ([#81119](https://github.com/CleverRaven/Cataclysm-DDA/pull/81119))
@@ -218,7 +219,6 @@
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
 * Fix different iterator types (2) ([#81061](https://github.com/CleverRaven/Cataclysm-DDA/pull/81061))
-* Aftershock: Aeolian Plains 'Biome' ([#81043](https://github.com/CleverRaven/Cataclysm-DDA/pull/81043))
 * Fixing Atlatl silliness ([#81052](https://github.com/CleverRaven/Cataclysm-DDA/pull/81052))
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
 * Routine i18n updates on 24 May 2025 ([#81046](https://github.com/CleverRaven/Cataclysm-DDA/pull/81046))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.H release candidate 2025-06-12-0041 (f9606fc)
+* Backport CI changes for 0.H (#81239)
+
 Cataclysm-DDA experimental build 2025-06-11-1439 (038657b)
 * spawn batteries in boxes (#81229)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-06-06-1622 (ae46222)
 
 Cataclysm-DDA experimental build 2025-06-06-0622 (1dba5ba)
 * Aftershock: You can now spot the spaceport during clear nights. (#81187)
-
-Cataclysm-DDA experimental build 2025-06-06-0534 (3977cc5)
 * Fix smartwatch outfit build error (#81188)
 * Imgui default style: Nav highlight is white (#81125)
 * add kids' backpacks (#81119)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2025-06-06-0534 (3977cc5)
 * Fix builds without BACKTRACE defined (#81073)
 * Fix #81024  Lack of oxygen concentrators (#81068)
 * Fix different iterator types (2) (#81061)
-* Aftershock: Aeolian Plains 'Biome' (#81043)
 * Fixing Atlatl silliness (#81052)
 * [Xedra Evolved] Vampires can command foxes (#81072)
 * Routine i18n updates on 24 May 2025 (#81046)
