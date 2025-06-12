@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-12-0842 ([a18c8fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-0842))
+
 * Add Whip Proficiencies and Practice Recipe ([#81238](https://github.com/CleverRaven/Cataclysm-DDA/pull/81238))
 * Update stock handling  ([#81226](https://github.com/CleverRaven/Cataclysm-DDA/pull/81226))
 * Weekly Changelog 2025-06-02 to 2025-06-09 ([#81215](https://github.com/CleverRaven/Cataclysm-DDA/pull/81215))
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-06-06-1958 ([fc80ec7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-1958))
 
 * Fix load time slowdown from n^2 time vector scans in item finalization. ([#81186](https://github.com/CleverRaven/Cataclysm-DDA/pull/81186))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-06-1622 ([ae46222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-06-1622))
-
 * Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
 * Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
