@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-13-0001 (01ccaed)
+* Aftershock: More tools are available in exoplanet (#81259)
+
 Cataclysm-DDA experimental build 2025-06-12-1540 (f3be5b4)
 * Big wrench (#81222)
 * [Bugfixes] Star vampires no longer drain blood when doing no damage (#81257)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-06-07-1624 (2464216)
 
 Cataclysm-DDA experimental build 2025-06-07-1429 (42b86e3)
 * Fix freeze when npc is recalled from mission (#81189)
-
-Cataclysm-DDA experimental build 2025-06-07-0832 (68b6e7b)
 * Routine i18n updates on 07 June 2025 (#81197)
 * [Magiclysm] Frost armor no longer casts Ice Spike (#81175)
 * [Xedra Evolved] Update leg_guards_verdant in Boann's rewards (#81178)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-06-07-0832 (68b6e7b)
 * Fix builds without BACKTRACE defined (#81073)
 * Fix #81024  Lack of oxygen concentrators (#81068)
 * [Xedra Evolved] Vampires can command foxes (#81072)
-* Weekly Changelog 2025-05-19 to 2025-05-26 (#81067)

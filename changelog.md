@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-13-0001 ([01ccaed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-0001))
+
+* Aftershock: More tools are available in exoplanet ([#81259](https://github.com/CleverRaven/Cataclysm-DDA/pull/81259))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-12-1540 ([f3be5b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-1540))
 
 * Big wrench ([#81222](https://github.com/CleverRaven/Cataclysm-DDA/pull/81222))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-06-07-1429 ([42b86e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-1429))
 
 * Fix freeze when npc is recalled from mission ([#81189](https://github.com/CleverRaven/Cataclysm-DDA/pull/81189))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-07-0832 ([68b6e7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-0832))
-
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
 * [Magiclysm] Frost armor no longer casts Ice Spike ([#81175](https://github.com/CleverRaven/Cataclysm-DDA/pull/81175))
 * [Xedra Evolved] Update leg_guards_verdant in Boann's rewards ([#81178](https://github.com/CleverRaven/Cataclysm-DDA/pull/81178))
@@ -229,4 +230,3 @@
 * Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
 * Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
 * [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
-* Weekly Changelog 2025-05-19 to 2025-05-26 ([#81067](https://github.com/CleverRaven/Cataclysm-DDA/pull/81067))
