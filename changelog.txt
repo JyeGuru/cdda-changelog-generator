@@ -1,3 +1,4 @@
+* Attempt to increase average autotravel speed when driving on straight roads (#81248)
 * adjust shiv weapons (#81211)
 
 Cataclysm-DDA experimental build 2025-06-13-1524 (72b1488)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2025-06-08-0512 (c01b353)
 * update to codeql v2 (#81120)
 * Remove thread from cordage requirements (#81130)
 * [MoM] Fix merge conflicts (#81124)
-* Basic imgui style picker (#81083)
 * consolidate itemgroups that are designed as subsets of other itemgroups (#81117)
 * Correctly save/load river control points (#81111)
 * [MoM] Knack Difficulty adjustment (#81115)

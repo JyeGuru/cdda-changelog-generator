@@ -1,3 +1,4 @@
+* Attempt to increase average autotravel speed when driving on straight roads ([#81248](https://github.com/CleverRaven/Cataclysm-DDA/pull/81248))
 * adjust shiv weapons ([#81211](https://github.com/CleverRaven/Cataclysm-DDA/pull/81211))
 
 ---
@@ -215,7 +216,6 @@
 * update to codeql v2 ([#81120](https://github.com/CleverRaven/Cataclysm-DDA/pull/81120))
 * Remove thread from cordage requirements ([#81130](https://github.com/CleverRaven/Cataclysm-DDA/pull/81130))
 * [MoM] Fix merge conflicts ([#81124](https://github.com/CleverRaven/Cataclysm-DDA/pull/81124))
-* Basic imgui style picker ([#81083](https://github.com/CleverRaven/Cataclysm-DDA/pull/81083))
 * consolidate itemgroups that are designed as subsets of other itemgroups ([#81117](https://github.com/CleverRaven/Cataclysm-DDA/pull/81117))
 * Correctly save/load river control points ([#81111](https://github.com/CleverRaven/Cataclysm-DDA/pull/81111))
 * [MoM] Knack Difficulty adjustment ([#81115](https://github.com/CleverRaven/Cataclysm-DDA/pull/81115))
