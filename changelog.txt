@@ -1,3 +1,6 @@
+* [MoM] Add small chance of noetic resonance detector to doctor's office (#81263)
+* Ar copy fix (#81253)
+* Aftershock: Minor bugfixing round (#81162)
 
 Cataclysm-DDA experimental build 2025-06-13-0001 (01ccaed)
 * Aftershock: More tools are available in exoplanet (#81259)
@@ -141,6 +144,3 @@ Cataclysm-DDA experimental build 2025-06-07-1624 (2464216)
 * [MoM] Fix Dilated Gateway (#81085)
 * Bail out if container is invalid (#81081)
 * Create a terminal-like default theme for Imgui (#81074)
-* Fix builds without BACKTRACE defined (#81073)
-* Fix #81024  Lack of oxygen concentrators (#81068)
-* [Xedra Evolved] Vampires can command foxes (#81072)

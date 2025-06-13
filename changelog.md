@@ -1,3 +1,6 @@
+* [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
+* Ar copy fix ([#81253](https://github.com/CleverRaven/Cataclysm-DDA/pull/81253))
+* Aftershock: Minor bugfixing round ([#81162](https://github.com/CleverRaven/Cataclysm-DDA/pull/81162))
 
 ---
 
@@ -222,6 +225,3 @@
 * [MoM] Fix Dilated Gateway ([#81085](https://github.com/CleverRaven/Cataclysm-DDA/pull/81085))
 * Bail out if container is invalid ([#81081](https://github.com/CleverRaven/Cataclysm-DDA/pull/81081))
 * Create a terminal-like default theme for Imgui ([#81074](https://github.com/CleverRaven/Cataclysm-DDA/pull/81074))
-* Fix builds without BACKTRACE defined ([#81073](https://github.com/CleverRaven/Cataclysm-DDA/pull/81073))
-* Fix #81024  Lack of oxygen concentrators ([#81068](https://github.com/CleverRaven/Cataclysm-DDA/pull/81068))
-* [Xedra Evolved] Vampires can command foxes ([#81072](https://github.com/CleverRaven/Cataclysm-DDA/pull/81072))
