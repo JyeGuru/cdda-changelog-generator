@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-13-1524 ([72b1488](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-1524))
+
+* Mark season scaling options as hidden ([#81245](https://github.com/CleverRaven/Cataclysm-DDA/pull/81245))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-13-0704 ([7e9f1e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-0704))
 
 * Update npctalk.cpp for blindness ([#81228](https://github.com/CleverRaven/Cataclysm-DDA/pull/81228))

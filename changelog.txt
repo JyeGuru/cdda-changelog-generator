@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-13-1524 (72b1488)
+* Mark season scaling options as hidden (#81245)
+
 Cataclysm-DDA experimental build 2025-06-13-0704 (7e9f1e6)
 * Update npctalk.cpp for blindness (#81228)
 
