@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-13-1752 ([16c6675](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-1752))
+
 * Attempt to increase average autotravel speed when driving on straight roads ([#81248](https://github.com/CleverRaven/Cataclysm-DDA/pull/81248))
 * adjust shiv weapons ([#81211](https://github.com/CleverRaven/Cataclysm-DDA/pull/81211))
 
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-06-08-1351 ([7a31fd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-1351))
 
 * Devariantize shotguns ([#81203](https://github.com/CleverRaven/Cataclysm-DDA/pull/81203))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-08-0512 ([c01b353](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-0512))
-
 * Revert vehicle cargo sizes to sane values ([#81191](https://github.com/CleverRaven/Cataclysm-DDA/pull/81191))
 * Swimwear isn't underwear ([#81202](https://github.com/CleverRaven/Cataclysm-DDA/pull/81202))
 * Add Hub jumpsuit to the items sold by the Hub vendor ([#81201](https://github.com/CleverRaven/Cataclysm-DDA/pull/81201))

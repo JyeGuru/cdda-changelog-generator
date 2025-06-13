@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-13-1752 (16c6675)
 * Attempt to increase average autotravel speed when driving on straight roads (#81248)
 * adjust shiv weapons (#81211)
 
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2025-06-08-1708 (bd65f73)
 
 Cataclysm-DDA experimental build 2025-06-08-1351 (7a31fd7)
 * Devariantize shotguns (#81203)
-
-Cataclysm-DDA experimental build 2025-06-08-0512 (c01b353)
 * Revert vehicle cargo sizes to sane values (#81191)
 * Swimwear isn't underwear (#81202)
 * Add Hub jumpsuit to the items sold by the Hub vendor (#81201)
