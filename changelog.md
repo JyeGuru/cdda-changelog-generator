@@ -1,3 +1,4 @@
+* adjust shiv weapons ([#81211](https://github.com/CleverRaven/Cataclysm-DDA/pull/81211))
 
 ---
 
@@ -230,4 +231,3 @@
 * add long_duffelbag spawns ([#81093](https://github.com/CleverRaven/Cataclysm-DDA/pull/81093))
 * [MoM] Remove damage on feral telekinetics' telekinetic throws ([#81089](https://github.com/CleverRaven/Cataclysm-DDA/pull/81089))
 * [MoM] Fix Dilated Gateway ([#81085](https://github.com/CleverRaven/Cataclysm-DDA/pull/81085))
-* Bail out if container is invalid ([#81081](https://github.com/CleverRaven/Cataclysm-DDA/pull/81081))

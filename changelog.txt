@@ -1,3 +1,4 @@
+* adjust shiv weapons (#81211)
 
 Cataclysm-DDA experimental build 2025-06-13-1524 (72b1488)
 * Mark season scaling options as hidden (#81245)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-06-08-0512 (c01b353)
 * add long_duffelbag spawns (#81093)
 * [MoM] Remove damage on feral telekinetics' telekinetic throws (#81089)
 * [MoM] Fix Dilated Gateway (#81085)
-* Bail out if container is invalid (#81081)
