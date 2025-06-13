@@ -1,3 +1,4 @@
+* Update npctalk.cpp for blindness (#81228)
 
 Cataclysm-DDA experimental build 2025-06-13-0447 (759d06f)
 * [MoM] Add small chance of noetic resonance detector to doctor's office (#81263)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-06-08-0107 (1cd810d)
 * [MoM] Remove damage on feral telekinetics' telekinetic throws (#81089)
 * [MoM] Fix Dilated Gateway (#81085)
 * Bail out if container is invalid (#81081)
-* Create a terminal-like default theme for Imgui (#81074)
