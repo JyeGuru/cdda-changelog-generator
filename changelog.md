@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-13-0447 ([759d06f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-0447))
+
 * [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
 * Ar copy fix ([#81253](https://github.com/CleverRaven/Cataclysm-DDA/pull/81253))
 * Aftershock: Minor bugfixing round ([#81162](https://github.com/CleverRaven/Cataclysm-DDA/pull/81162))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-06-08-0107 ([1cd810d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-0107))
 
 * Roads cross streams, fix stream predecessors ([#81195](https://github.com/CleverRaven/Cataclysm-DDA/pull/81195))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-07-1624 ([2464216](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-1624))
-
 * Cropped hoodies don't have pockets ([#81185](https://github.com/CleverRaven/Cataclysm-DDA/pull/81185))
 * Fix freeze when npc is recalled from mission ([#81189](https://github.com/CleverRaven/Cataclysm-DDA/pull/81189))
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
