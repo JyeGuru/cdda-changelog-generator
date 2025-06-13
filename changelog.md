@@ -175,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-06-07-1624 ([2464216](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-1624))
 
 * Cropped hoodies don't have pockets ([#81185](https://github.com/CleverRaven/Cataclysm-DDA/pull/81185))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-07-1429 ([42b86e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-07-1429))
-
 * Fix freeze when npc is recalled from mission ([#81189](https://github.com/CleverRaven/Cataclysm-DDA/pull/81189))
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
 * [Magiclysm] Frost armor no longer casts Ice Spike ([#81175](https://github.com/CleverRaven/Cataclysm-DDA/pull/81175))
