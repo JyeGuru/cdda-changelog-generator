@@ -1,3 +1,12 @@
+* Document ammunition_type ([#81274](https://github.com/CleverRaven/Cataclysm-DDA/pull/81274))
+* house_w_4 fix ([#81271](https://github.com/CleverRaven/Cataclysm-DDA/pull/81271))
+* Fix failed test empty message spam ([#81279](https://github.com/CleverRaven/Cataclysm-DDA/pull/81279))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-14-1557 ([5bced3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-14-1557))
+
+* Routine i18n updates on 14 June 2025 ([#81276](https://github.com/CleverRaven/Cataclysm-DDA/pull/81276))
 
 ---
 
@@ -175,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-06-08-2106 ([8562d9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-2106))
 
 * Allow smelting into ingots ([#81207](https://github.com/CleverRaven/Cataclysm-DDA/pull/81207))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-08-1708 ([bd65f73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-08-1708))
-
 * Fix damage instance deserialize function ([#81200](https://github.com/CleverRaven/Cataclysm-DDA/pull/81200))
 * Devariantize shotguns ([#81203](https://github.com/CleverRaven/Cataclysm-DDA/pull/81203))
 * Revert vehicle cargo sizes to sane values ([#81191](https://github.com/CleverRaven/Cataclysm-DDA/pull/81191))
@@ -225,9 +229,5 @@
 * Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
 * add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
 * add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
-* Fix mac build ([#81087](https://github.com/CleverRaven/Cataclysm-DDA/pull/81087))
 * Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
-* [MoM] Add enervating amalgamation ([#81088](https://github.com/CleverRaven/Cataclysm-DDA/pull/81088))
 * add long_duffelbag spawns ([#81093](https://github.com/CleverRaven/Cataclysm-DDA/pull/81093))
-* [MoM] Remove damage on feral telekinetics' telekinetic throws ([#81089](https://github.com/CleverRaven/Cataclysm-DDA/pull/81089))
-* [MoM] Fix Dilated Gateway ([#81085](https://github.com/CleverRaven/Cataclysm-DDA/pull/81085))
