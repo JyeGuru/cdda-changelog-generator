@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-14-0107 (71d8d1d)
+* Bulk overmap testing debug tools (#81264)
+
 Cataclysm-DDA experimental build 2025-06-13-1752 (16c6675)
 * Attempt to increase average autotravel speed when driving on straight roads (#81248)
 * adjust shiv weapons (#81211)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-06-08-2106 (8562d9d)
 
 Cataclysm-DDA experimental build 2025-06-08-1708 (bd65f73)
 * Fix damage instance deserialize function (#81200)
-
-Cataclysm-DDA experimental build 2025-06-08-1351 (7a31fd7)
 * Devariantize shotguns (#81203)
 * Revert vehicle cargo sizes to sane values (#81191)
 * Swimwear isn't underwear (#81202)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2025-06-08-1351 (7a31fd7)
 * add military_patrol_food to soldier corpses & pilots (#81107)
 * Fix mac build (#81087)
 * Updated correct batttery on electric shears (#81099)
-* [MoM] Knack handling during awakening (#81084)
 * [MoM] Add enervating amalgamation (#81088)
 * add long_duffelbag spawns (#81093)
 * [MoM] Remove damage on feral telekinetics' telekinetic throws (#81089)
