@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-15-1629 ([06ca2c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-1629))
+
+* Move Android bundle building to a manually triggered workflow ([#81270](https://github.com/CleverRaven/Cataclysm-DDA/pull/81270))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-15-0520 ([1855a61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-0520))
 
 * [Magiclysm] Edit fantasy species weights ([#81272](https://github.com/CleverRaven/Cataclysm-DDA/pull/81272))
@@ -225,4 +231,3 @@
 * add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
 * add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
 * Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
-* add long_duffelbag spawns ([#81093](https://github.com/CleverRaven/Cataclysm-DDA/pull/81093))
