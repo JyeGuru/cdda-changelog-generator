@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-15-0520 ([1855a61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-0520))
+
+* [Magiclysm] Edit fantasy species weights ([#81272](https://github.com/CleverRaven/Cataclysm-DDA/pull/81272))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-14-1819 ([c5d9fc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-14-1819))
 
 * Document ammunition_type ([#81274](https://github.com/CleverRaven/Cataclysm-DDA/pull/81274))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-06-09-0834 ([af7445d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-0834))
 
 * Remove 7-10 split, clay quern, forked spear ([#81209](https://github.com/CleverRaven/Cataclysm-DDA/pull/81209))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-09-0559 ([4711953](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-0559))
-
 * Hacksaw requires tempering, screwdriver is harder to craft ([#81213](https://github.com/CleverRaven/Cataclysm-DDA/pull/81213))
 * Allow smelting into ingots ([#81207](https://github.com/CleverRaven/Cataclysm-DDA/pull/81207))
 * Fix damage instance deserialize function ([#81200](https://github.com/CleverRaven/Cataclysm-DDA/pull/81200))
@@ -206,7 +207,6 @@
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
 * Audit minor crafting recipes existence ([#81147](https://github.com/CleverRaven/Cataclysm-DDA/pull/81147))
-* Faction food supply can expire over time ([#81092](https://github.com/CleverRaven/Cataclysm-DDA/pull/81092))
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
 * Routine i18n updates on 31 May 2025 ([#81135](https://github.com/CleverRaven/Cataclysm-DDA/pull/81135))
 * Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
