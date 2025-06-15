@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-15-2222 (c877d43)
 * remove landmines from weird places (#81293)
 * Disable IWYU for third-party source code (#81297)
 
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-06-09-2104 (60bd281)
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" (#81220)
 * [Magiclysm] Change Power Linkage search data (#81177)
 * Special Vision Missing Text Field (#81166)
-
-Cataclysm-DDA experimental build 2025-06-09-1824 (f6b551f)
 * Add homie, dawg to name_g (#81214)
 * Grappling hook has rope flags (#81210)
 * Fix not removing consumed faction camp calories (#81216)

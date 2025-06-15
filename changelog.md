@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-15-2222 ([c877d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-2222))
+
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
 
@@ -178,11 +183,6 @@
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" ([#81220](https://github.com/CleverRaven/Cataclysm-DDA/pull/81220))
 * [Magiclysm] Change Power Linkage search data ([#81177](https://github.com/CleverRaven/Cataclysm-DDA/pull/81177))
 * Special Vision Missing Text Field ([#81166](https://github.com/CleverRaven/Cataclysm-DDA/pull/81166))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-09-1824 ([f6b551f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-1824))
-
 * Add homie, dawg to name_g ([#81214](https://github.com/CleverRaven/Cataclysm-DDA/pull/81214))
 * Grappling hook has rope flags ([#81210](https://github.com/CleverRaven/Cataclysm-DDA/pull/81210))
 * Fix not removing consumed faction camp calories ([#81216](https://github.com/CleverRaven/Cataclysm-DDA/pull/81216))
