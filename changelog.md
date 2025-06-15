@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-15-2003 ([42fdf16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-2003))
+
+* Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-15-1629 ([06ca2c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-1629))
 
 * Move Android bundle building to a manually triggered workflow ([#81270](https://github.com/CleverRaven/Cataclysm-DDA/pull/81270))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-06-09-1824 ([f6b551f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-1824))
 
 * Add homie, dawg to name_g ([#81214](https://github.com/CleverRaven/Cataclysm-DDA/pull/81214))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-09-1452 ([8d698f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-1452))
-
 * Grappling hook has rope flags ([#81210](https://github.com/CleverRaven/Cataclysm-DDA/pull/81210))
 * Fix not removing consumed faction camp calories ([#81216](https://github.com/CleverRaven/Cataclysm-DDA/pull/81216))
 * Remove 7-10 split, clay quern, forked spear ([#81209](https://github.com/CleverRaven/Cataclysm-DDA/pull/81209))
@@ -230,4 +231,3 @@
 * Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
 * add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
 * add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
-* Updated correct batttery on electric shears ([#81099](https://github.com/CleverRaven/Cataclysm-DDA/pull/81099))
