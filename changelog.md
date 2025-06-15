@@ -177,11 +177,6 @@
 
 * Grappling hook has rope flags ([#81210](https://github.com/CleverRaven/Cataclysm-DDA/pull/81210))
 * Fix not removing consumed faction camp calories ([#81216](https://github.com/CleverRaven/Cataclysm-DDA/pull/81216))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-09-0834 ([af7445d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-0834))
-
 * Remove 7-10 split, clay quern, forked spear ([#81209](https://github.com/CleverRaven/Cataclysm-DDA/pull/81209))
 * Hacksaw requires tempering, screwdriver is harder to craft ([#81213](https://github.com/CleverRaven/Cataclysm-DDA/pull/81213))
 * Allow smelting into ingots ([#81207](https://github.com/CleverRaven/Cataclysm-DDA/pull/81207))

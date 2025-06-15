@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-09-1824 (f6b551f)
 Cataclysm-DDA experimental build 2025-06-09-1452 (8d698f8)
 * Grappling hook has rope flags (#81210)
 * Fix not removing consumed faction camp calories (#81216)
-
-Cataclysm-DDA experimental build 2025-06-09-0834 (af7445d)
 * Remove 7-10 split, clay quern, forked spear (#81209)
 * Hacksaw requires tempering, screwdriver is harder to craft (#81213)
 * Allow smelting into ingots (#81207)
