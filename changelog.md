@@ -1,3 +1,4 @@
+* remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
 
 ---
@@ -230,4 +231,3 @@
 * [MoM] Add more psychic knacks ([#81113](https://github.com/CleverRaven/Cataclysm-DDA/pull/81113))
 * Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
 * add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
-* add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
