@@ -1,3 +1,4 @@
+* Disable IWYU for third-party source code (#81297)
 
 Cataclysm-DDA experimental build 2025-06-15-2003 (42fdf16)
 * Wax slug audit (#81294)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2025-06-09-1824 (f6b551f)
 * Correctly save/load river control points (#81111)
 * [MoM] Knack Difficulty adjustment (#81115)
 * [MoM] Add more psychic knacks (#81113)
-* Improve documentation style for frequently made suggestions and package links (#81104)
 * Reduce spawning of military rucksack (#81112)
 * add magazine wells to non-rigid containers (#81108)
 * add military_patrol_food to soldier corpses & pilots (#81107)

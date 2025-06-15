@@ -1,3 +1,4 @@
+* Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
 
 ---
 
@@ -227,7 +228,6 @@
 * Correctly save/load river control points ([#81111](https://github.com/CleverRaven/Cataclysm-DDA/pull/81111))
 * [MoM] Knack Difficulty adjustment ([#81115](https://github.com/CleverRaven/Cataclysm-DDA/pull/81115))
 * [MoM] Add more psychic knacks ([#81113](https://github.com/CleverRaven/Cataclysm-DDA/pull/81113))
-* Improve documentation style for frequently made suggestions and package links ([#81104](https://github.com/CleverRaven/Cataclysm-DDA/pull/81104))
 * Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
 * add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
 * add military_patrol_food to soldier corpses & pilots ([#81107](https://github.com/CleverRaven/Cataclysm-DDA/pull/81107))
