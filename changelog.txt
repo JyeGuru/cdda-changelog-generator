@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-16-0046 (ffcc46c)
+* Overmaps track overmap unique specials instead of overmapbuffer (#81234)
+
 Cataclysm-DDA experimental build 2025-06-15-2222 (c877d43)
 * remove landmines from weird places (#81293)
 * Disable IWYU for third-party source code (#81297)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-10-0412 (5e49364)
 
 Cataclysm-DDA experimental build 2025-06-10-0200 (5d4c000)
 * [Magiclysm] Rework Manatouched's glow mutations (#81212)
-
-Cataclysm-DDA experimental build 2025-06-09-2104 (60bd281)
 * Add "Take it easy." to list of goodbyes (#81221)
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" (#81220)
 * [Magiclysm] Change Power Linkage search data (#81177)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-06-09-2104 (60bd281)
 * [MoM] Knack Difficulty adjustment (#81115)
 * [MoM] Add more psychic knacks (#81113)
 * Reduce spawning of military rucksack (#81112)
-* add magazine wells to non-rigid containers (#81108)

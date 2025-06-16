@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-16-0046 ([ffcc46c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-0046))
+
+* Overmaps track overmap unique specials instead of overmapbuffer ([#81234](https://github.com/CleverRaven/Cataclysm-DDA/pull/81234))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-15-2222 ([c877d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-2222))
 
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-06-10-0200 ([5d4c000](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-0200))
 
 * [Magiclysm] Rework Manatouched's glow mutations ([#81212](https://github.com/CleverRaven/Cataclysm-DDA/pull/81212))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-09-2104 ([60bd281](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-09-2104))
-
 * Add "Take it easy." to list of goodbyes ([#81221](https://github.com/CleverRaven/Cataclysm-DDA/pull/81221))
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" ([#81220](https://github.com/CleverRaven/Cataclysm-DDA/pull/81220))
 * [Magiclysm] Change Power Linkage search data ([#81177](https://github.com/CleverRaven/Cataclysm-DDA/pull/81177))
@@ -230,4 +231,3 @@
 * [MoM] Knack Difficulty adjustment ([#81115](https://github.com/CleverRaven/Cataclysm-DDA/pull/81115))
 * [MoM] Add more psychic knacks ([#81113](https://github.com/CleverRaven/Cataclysm-DDA/pull/81113))
 * Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
-* add magazine wells to non-rigid containers ([#81108](https://github.com/CleverRaven/Cataclysm-DDA/pull/81108))
