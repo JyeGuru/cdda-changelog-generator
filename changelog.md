@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-16-1905 ([f6fe8f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-1905))
+
 * Fix imgui compilation ([#81295](https://github.com/CleverRaven/Cataclysm-DDA/pull/81295))
 
 ---
@@ -175,11 +180,6 @@
 * Eagerly close file handles for readonly mmap_file on not-windows. ([#81227](https://github.com/CleverRaven/Cataclysm-DDA/pull/81227))
 * Separate out mission searches for existing globally uniques ([#81219](https://github.com/CleverRaven/Cataclysm-DDA/pull/81219))
 * [Magiclysm] Black Dragons can get Chrysophilia ([#81223](https://github.com/CleverRaven/Cataclysm-DDA/pull/81223))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-10-0943 ([2f0b245](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-0943))
-
 * [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))
 * Added Faction label and Map location ([#81165](https://github.com/CleverRaven/Cataclysm-DDA/pull/81165))
 * [Magiclysm] Rework Manatouched's glow mutations ([#81212](https://github.com/CleverRaven/Cataclysm-DDA/pull/81212))
