@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-16-1402 (e0a3538)
+* [XEDRA Evolved] Government Buying Your Deceased Loved One's 'Dreams' Without Your Consent! More at Page 4 (#81291)
+
 Cataclysm-DDA experimental build 2025-06-16-0046 (ffcc46c)
 * Overmaps track overmap unique specials instead of overmapbuffer (#81234)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-10-0943 (2f0b245)
 
 Cataclysm-DDA experimental build 2025-06-10-0412 (5e49364)
 * Added Faction label and Map location (#81165)
-
-Cataclysm-DDA experimental build 2025-06-10-0200 (5d4c000)
 * [Magiclysm] Rework Manatouched's glow mutations (#81212)
 * Add "Take it easy." to list of goodbyes (#81221)
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" (#81220)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2025-06-10-0200 (5d4c000)
 * Remove thread from cordage requirements (#81130)
 * [MoM] Fix merge conflicts (#81124)
 * consolidate itemgroups that are designed as subsets of other itemgroups (#81117)
-* Correctly save/load river control points (#81111)
 * [MoM] Knack Difficulty adjustment (#81115)
 * [MoM] Add more psychic knacks (#81113)
 * Reduce spawning of military rucksack (#81112)
