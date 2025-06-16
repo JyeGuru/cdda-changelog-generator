@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-16-1641 ([93be548](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-1641))
+
 * Fix zone unload test failure ([#81282](https://github.com/CleverRaven/Cataclysm-DDA/pull/81282))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-06-10-0943 ([2f0b245](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-0943))
 
 * [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-10-0412 ([5e49364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-0412))
-
 * Added Faction label and Map location ([#81165](https://github.com/CleverRaven/Cataclysm-DDA/pull/81165))
 * [Magiclysm] Rework Manatouched's glow mutations ([#81212](https://github.com/CleverRaven/Cataclysm-DDA/pull/81212))
 * Add "Take it easy." to list of goodbyes ([#81221](https://github.com/CleverRaven/Cataclysm-DDA/pull/81221))
