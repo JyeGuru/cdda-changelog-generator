@@ -1,3 +1,4 @@
+* Fix zone unload test failure ([#81282](https://github.com/CleverRaven/Cataclysm-DDA/pull/81282))
 
 ---
 
@@ -230,4 +231,3 @@
 * consolidate itemgroups that are designed as subsets of other itemgroups ([#81117](https://github.com/CleverRaven/Cataclysm-DDA/pull/81117))
 * [MoM] Knack Difficulty adjustment ([#81115](https://github.com/CleverRaven/Cataclysm-DDA/pull/81115))
 * [MoM] Add more psychic knacks ([#81113](https://github.com/CleverRaven/Cataclysm-DDA/pull/81113))
-* Reduce spawning of military rucksack ([#81112](https://github.com/CleverRaven/Cataclysm-DDA/pull/81112))
