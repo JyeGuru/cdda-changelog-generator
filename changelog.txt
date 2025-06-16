@@ -1,3 +1,4 @@
+* Fix imgui compilation (#81295)
 
 Cataclysm-DDA experimental build 2025-06-16-1641 (93be548)
 * Fix zone unload test failure (#81282)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-06-10-0943 (2f0b245)
 * [MoM] Fix merge conflicts (#81124)
 * consolidate itemgroups that are designed as subsets of other itemgroups (#81117)
 * [MoM] Knack Difficulty adjustment (#81115)
-* [MoM] Add more psychic knacks (#81113)
