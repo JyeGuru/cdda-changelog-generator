@@ -1,3 +1,4 @@
+* Fix chambers in bionics rooms can't be opened ([#81319](https://github.com/CleverRaven/Cataclysm-DDA/pull/81319))
 * Weekly Changelog 2025-06-09 to 2025-06-16 ([#81301](https://github.com/CleverRaven/Cataclysm-DDA/pull/81301))
 * stop repeating trashcan contents ([#81317](https://github.com/CleverRaven/Cataclysm-DDA/pull/81317))
 * adds replace long and short staff on weapons ([#81302](https://github.com/CleverRaven/Cataclysm-DDA/pull/81302))
@@ -221,7 +222,6 @@
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
 * Audit minor crafting recipes existence ([#81147](https://github.com/CleverRaven/Cataclysm-DDA/pull/81147))
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
-* Routine i18n updates on 31 May 2025 ([#81135](https://github.com/CleverRaven/Cataclysm-DDA/pull/81135))
 * Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
 * Some home wardrobe clothes are stored as sets of clothes ([#81151](https://github.com/CleverRaven/Cataclysm-DDA/pull/81151))
 * Weekly Changelog 2025-05-26 to 2025-06-02 ([#81156](https://github.com/CleverRaven/Cataclysm-DDA/pull/81156))
