@@ -1,3 +1,4 @@
+* [Xedra Evolved] Paraclesian weight adjustments ([#81307](https://github.com/CleverRaven/Cataclysm-DDA/pull/81307))
 * Fix cropped animal hoodies names ([#81308](https://github.com/CleverRaven/Cataclysm-DDA/pull/81308))
 
 ---
@@ -212,7 +213,6 @@
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
 * Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
 * Imgui default style: Nav highlight is white ([#81125](https://github.com/CleverRaven/Cataclysm-DDA/pull/81125))
-* add kids' backpacks ([#81119](https://github.com/CleverRaven/Cataclysm-DDA/pull/81119))
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))

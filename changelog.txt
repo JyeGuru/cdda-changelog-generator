@@ -1,3 +1,4 @@
+* [Xedra Evolved] Paraclesian weight adjustments (#81307)
 * Fix cropped animal hoodies names (#81308)
 
 Cataclysm-DDA experimental build 2025-06-17-0438 (425559c)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2025-06-10-1834 (21f06de)
 * Aftershock: You can now spot the spaceport during clear nights. (#81187)
 * Fix smartwatch outfit build error (#81188)
 * Imgui default style: Nav highlight is white (#81125)
-* add kids' backpacks (#81119)
 * Cure survivor coprophagia (#81169)
 * Properly get recipes for NPC crafting dummy at camp (#81148)
 * Add arab and islamic clothes for women (#81160)
