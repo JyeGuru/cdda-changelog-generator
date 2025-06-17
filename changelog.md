@@ -1,3 +1,4 @@
+* re add an undefined behavior sanitizer ([#81315](https://github.com/CleverRaven/Cataclysm-DDA/pull/81315))
 
 ---
 
@@ -230,4 +231,3 @@
 * Routine tileset updates on 01 June 2025 ([#81143](https://github.com/CleverRaven/Cataclysm-DDA/pull/81143))
 * Ignore generated CMake files ([#81138](https://github.com/CleverRaven/Cataclysm-DDA/pull/81138))
 * Set DPI awareness hint to fix blurry text ([#81139](https://github.com/CleverRaven/Cataclysm-DDA/pull/81139))
-* Fix compilation errors on MinGW-w64 ([#81137](https://github.com/CleverRaven/Cataclysm-DDA/pull/81137))

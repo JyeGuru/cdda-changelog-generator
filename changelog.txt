@@ -1,3 +1,4 @@
+* re add an undefined behavior sanitizer (#81315)
 
 Cataclysm-DDA experimental build 2025-06-17-1801 (005ff44)
 * Fix chambers in bionics rooms can't be opened (#81319)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-06-11-0355 (2669961)
 * Routine tileset updates on 01 June 2025 (#81143)
 * Ignore generated CMake files (#81138)
 * Set DPI awareness hint to fix blurry text (#81139)
-* Fix compilation errors on MinGW-w64 (#81137)
