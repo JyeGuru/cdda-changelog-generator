@@ -1,3 +1,5 @@
+* Weekly Changelog 2025-06-09 to 2025-06-16 ([#81301](https://github.com/CleverRaven/Cataclysm-DDA/pull/81301))
+* stop repeating trashcan contents ([#81317](https://github.com/CleverRaven/Cataclysm-DDA/pull/81317))
 * adds replace long and short staff on weapons ([#81302](https://github.com/CleverRaven/Cataclysm-DDA/pull/81302))
 
 ---
@@ -214,7 +216,6 @@
 * Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
 * Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
-* Imgui default style: Nav highlight is white ([#81125](https://github.com/CleverRaven/Cataclysm-DDA/pull/81125))
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
@@ -230,4 +231,3 @@
 * Ignore generated CMake files ([#81138](https://github.com/CleverRaven/Cataclysm-DDA/pull/81138))
 * Set DPI awareness hint to fix blurry text ([#81139](https://github.com/CleverRaven/Cataclysm-DDA/pull/81139))
 * Fix compilation errors on MinGW-w64 ([#81137](https://github.com/CleverRaven/Cataclysm-DDA/pull/81137))
-* Remove thread from cordage requirements ([#81130](https://github.com/CleverRaven/Cataclysm-DDA/pull/81130))
