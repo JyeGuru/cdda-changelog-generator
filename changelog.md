@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-17-0708 ([3dc8032](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-17-0708))
+
 * [Xedra Evolved] Paraclesian weight adjustments ([#81307](https://github.com/CleverRaven/Cataclysm-DDA/pull/81307))
 * Fix cropped animal hoodies names ([#81308](https://github.com/CleverRaven/Cataclysm-DDA/pull/81308))
 
@@ -174,11 +179,6 @@
 
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
 * Compound bows are made with aluminum not steel ([#81196](https://github.com/CleverRaven/Cataclysm-DDA/pull/81196))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-10-1834 ([21f06de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-1834))
-
 * [ Xedra Evolved ] Fix missing spell level dialogues for Chronomancer ([#81205](https://github.com/CleverRaven/Cataclysm-DDA/pull/81205))
 * Eagerly close file handles for readonly mmap_file on not-windows. ([#81227](https://github.com/CleverRaven/Cataclysm-DDA/pull/81227))
 * Separate out mission searches for existing globally uniques ([#81219](https://github.com/CleverRaven/Cataclysm-DDA/pull/81219))
