@@ -1,3 +1,7 @@
+* Fix cropped animal hoodies names (#81308)
+
+Cataclysm-DDA experimental build 2025-06-17-0438 (425559c)
+* [Xedra Evolved] Fix dhampirs drawing their own blood (#81316)
 
 Cataclysm-DDA experimental build 2025-06-16-1905 (f6fe8f1)
 * Fix imgui compilation (#81295)
@@ -91,8 +95,6 @@ Cataclysm-DDA experimental build 2025-06-10-2051 (0df66a8)
 
 Cataclysm-DDA experimental build 2025-06-10-1834 (21f06de)
 * [ Xedra Evolved ] Fix missing spell level dialogues for Chronomancer (#81205)
-
-Cataclysm-DDA experimental build 2025-06-10-1211 (555842a)
 * Eagerly close file handles for readonly mmap_file on not-windows. (#81227)
 * Separate out mission searches for existing globally uniques (#81219)
 * [Magiclysm] Black Dragons can get Chrysophilia (#81223)
@@ -145,4 +147,3 @@ Cataclysm-DDA experimental build 2025-06-10-1211 (555842a)
 * update to codeql v2 (#81120)
 * Remove thread from cordage requirements (#81130)
 * [MoM] Fix merge conflicts (#81124)
-* consolidate itemgroups that are designed as subsets of other itemgroups (#81117)

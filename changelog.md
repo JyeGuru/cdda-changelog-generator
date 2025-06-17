@@ -1,3 +1,10 @@
+* Fix cropped animal hoodies names ([#81308](https://github.com/CleverRaven/Cataclysm-DDA/pull/81308))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-17-0438 ([425559c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-17-0438))
+
+* [Xedra Evolved] Fix dhampirs drawing their own blood ([#81316](https://github.com/CleverRaven/Cataclysm-DDA/pull/81316))
 
 ---
 
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-06-10-1834 ([21f06de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-1834))
 
 * [ Xedra Evolved ] Fix missing spell level dialogues for Chronomancer ([#81205](https://github.com/CleverRaven/Cataclysm-DDA/pull/81205))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-10-1211 ([555842a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-1211))
-
 * Eagerly close file handles for readonly mmap_file on not-windows. ([#81227](https://github.com/CleverRaven/Cataclysm-DDA/pull/81227))
 * Separate out mission searches for existing globally uniques ([#81219](https://github.com/CleverRaven/Cataclysm-DDA/pull/81219))
 * [Magiclysm] Black Dragons can get Chrysophilia ([#81223](https://github.com/CleverRaven/Cataclysm-DDA/pull/81223))
@@ -229,4 +231,3 @@
 * update to codeql v2 ([#81120](https://github.com/CleverRaven/Cataclysm-DDA/pull/81120))
 * Remove thread from cordage requirements ([#81130](https://github.com/CleverRaven/Cataclysm-DDA/pull/81130))
 * [MoM] Fix merge conflicts ([#81124](https://github.com/CleverRaven/Cataclysm-DDA/pull/81124))
-* consolidate itemgroups that are designed as subsets of other itemgroups ([#81117](https://github.com/CleverRaven/Cataclysm-DDA/pull/81117))
