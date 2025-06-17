@@ -1,3 +1,10 @@
+* adds replace long and short staff on weapons ([#81302](https://github.com/CleverRaven/Cataclysm-DDA/pull/81302))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-17-1539 ([650d8ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-17-1539))
+
+* [MoM] Require Basic Concentration before Expert  ([#81314](https://github.com/CleverRaven/Cataclysm-DDA/pull/81314))
 
 ---
 
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-06-10-2304 ([01bf0ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-2304))
 
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-10-2051 ([0df66a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-10-2051))
-
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
 * Compound bows are made with aluminum not steel ([#81196](https://github.com/CleverRaven/Cataclysm-DDA/pull/81196))
 * [ Xedra Evolved ] Fix missing spell level dialogues for Chronomancer ([#81205](https://github.com/CleverRaven/Cataclysm-DDA/pull/81205))
@@ -228,6 +230,4 @@
 * Ignore generated CMake files ([#81138](https://github.com/CleverRaven/Cataclysm-DDA/pull/81138))
 * Set DPI awareness hint to fix blurry text ([#81139](https://github.com/CleverRaven/Cataclysm-DDA/pull/81139))
 * Fix compilation errors on MinGW-w64 ([#81137](https://github.com/CleverRaven/Cataclysm-DDA/pull/81137))
-* update to codeql v2 ([#81120](https://github.com/CleverRaven/Cataclysm-DDA/pull/81120))
 * Remove thread from cordage requirements ([#81130](https://github.com/CleverRaven/Cataclysm-DDA/pull/81130))
-* [MoM] Fix merge conflicts ([#81124](https://github.com/CleverRaven/Cataclysm-DDA/pull/81124))
