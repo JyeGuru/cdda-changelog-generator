@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-18-1908 ([7426d5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-1908))
+
 * Add back door back to butcher shop ([#81323](https://github.com/CleverRaven/Cataclysm-DDA/pull/81323))
 * Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
 
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-06-12-1102 ([042d691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-1102))
 
 * Weight enchantment ([#81232](https://github.com/CleverRaven/Cataclysm-DDA/pull/81232))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-12-0842 ([a18c8fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-0842))
-
 * Add Whip Proficiencies and Practice Recipe ([#81238](https://github.com/CleverRaven/Cataclysm-DDA/pull/81238))
 * Update stock handling  ([#81226](https://github.com/CleverRaven/Cataclysm-DDA/pull/81226))
 * Weekly Changelog 2025-06-02 to 2025-06-09 ([#81215](https://github.com/CleverRaven/Cataclysm-DDA/pull/81215))

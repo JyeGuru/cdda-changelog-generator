@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-18-1908 (7426d5a)
 * Add back door back to butcher shop (#81323)
 * Ensure ranged weapons with NEVER_JAMS never jam (#81337)
 
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-12-1323 (95fb1a8)
 
 Cataclysm-DDA experimental build 2025-06-12-1102 (042d691)
 * Weight enchantment (#81232)
-
-Cataclysm-DDA experimental build 2025-06-12-0842 (a18c8fd)
 * Add Whip Proficiencies and Practice Recipe (#81238)
 * Update stock handling  (#81226)
 * Weekly Changelog 2025-06-02 to 2025-06-09 (#81215)
