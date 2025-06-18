@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-18-0536 ([47e044f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-0536))
+
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA 0.H release candidate 2025-06-12-0041 ([f9606fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2025-06-12-0041))
 
 * Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-11-1439 ([038657b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-11-1439))
-
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
 * Allow reading ebooks when its dark from most edevices ([#81157](https://github.com/CleverRaven/Cataclysm-DDA/pull/81157))
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))

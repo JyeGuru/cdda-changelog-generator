@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-18-0536 (47e044f)
 * don't spawn trash bags on park benches (#81324)
 
 Cataclysm-DDA experimental build 2025-06-18-0307 (a0e80c5)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-06-12-0617 (a062e89)
 
 Cataclysm-DDA 0.H release candidate 2025-06-12-0041 (f9606fc)
 * Backport CI changes for 0.H (#81239)
-
-Cataclysm-DDA experimental build 2025-06-11-1439 (038657b)
 * spawn batteries in boxes (#81229)
 * Allow reading ebooks when its dark from most edevices (#81157)
 * implement gunmods modifying the to_hit value (#81225)
