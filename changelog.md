@@ -1,3 +1,4 @@
+* Add back door back to butcher shop ([#81323](https://github.com/CleverRaven/Cataclysm-DDA/pull/81323))
 * Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
 
 ---
@@ -226,7 +227,6 @@
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
 * Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
-* Audit minor crafting recipes existence ([#81147](https://github.com/CleverRaven/Cataclysm-DDA/pull/81147))
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
 * Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
 * Some home wardrobe clothes are stored as sets of clothes ([#81151](https://github.com/CleverRaven/Cataclysm-DDA/pull/81151))
