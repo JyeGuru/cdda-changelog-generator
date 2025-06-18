@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-18-2205 ([a7aab3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-2205))
+
+* Create a "thin" archive instead of copying objects ([#81233](https://github.com/CleverRaven/Cataclysm-DDA/pull/81233))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-18-1908 ([7426d5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-1908))
 
 * Add back door back to butcher shop ([#81323](https://github.com/CleverRaven/Cataclysm-DDA/pull/81323))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-06-12-1323 ([95fb1a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-1323))
 
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message ([#81258](https://github.com/CleverRaven/Cataclysm-DDA/pull/81258))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-12-1102 ([042d691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-1102))
-
 * Weight enchantment ([#81232](https://github.com/CleverRaven/Cataclysm-DDA/pull/81232))
 * Add Whip Proficiencies and Practice Recipe ([#81238](https://github.com/CleverRaven/Cataclysm-DDA/pull/81238))
 * Update stock handling  ([#81226](https://github.com/CleverRaven/Cataclysm-DDA/pull/81226))
@@ -225,7 +226,6 @@
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
 * Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
-* Properly get recipes for NPC crafting dummy at camp ([#81148](https://github.com/CleverRaven/Cataclysm-DDA/pull/81148))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
 * Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
