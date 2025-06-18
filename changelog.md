@@ -1,3 +1,10 @@
+* Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-18-1645 ([da555be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-1645))
+
+* Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible ([#81332](https://github.com/CleverRaven/Cataclysm-DDA/pull/81332))
 
 ---
 
@@ -176,11 +183,6 @@
 * Update stock handling  ([#81226](https://github.com/CleverRaven/Cataclysm-DDA/pull/81226))
 * Weekly Changelog 2025-06-02 to 2025-06-09 ([#81215](https://github.com/CleverRaven/Cataclysm-DDA/pull/81215))
 * Describe stat level in new character window ([#81231](https://github.com/CleverRaven/Cataclysm-DDA/pull/81231))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-12-0617 ([a062e89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-0617))
-
 * [Bombastic Perks] Limit metamagic perks to Magiclysm ([#81247](https://github.com/CleverRaven/Cataclysm-DDA/pull/81247))
 * Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
@@ -230,4 +232,3 @@
 * Some home wardrobe clothes are stored as sets of clothes ([#81151](https://github.com/CleverRaven/Cataclysm-DDA/pull/81151))
 * Weekly Changelog 2025-05-26 to 2025-06-02 ([#81156](https://github.com/CleverRaven/Cataclysm-DDA/pull/81156))
 * Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel ([#81149](https://github.com/CleverRaven/Cataclysm-DDA/pull/81149))
-* Audit crack and anfo recipe  ([#81146](https://github.com/CleverRaven/Cataclysm-DDA/pull/81146))

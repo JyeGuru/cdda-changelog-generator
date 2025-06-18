@@ -1,3 +1,7 @@
+* Ensure ranged weapons with NEVER_JAMS never jam (#81337)
+
+Cataclysm-DDA experimental build 2025-06-18-1645 (da555be)
+* Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible (#81332)
 
 Cataclysm-DDA experimental build 2025-06-18-1344 (d86f087)
 * Nests hoodie recipes and add animal hoodies crafting recipes (#81320)
@@ -95,8 +99,6 @@ Cataclysm-DDA experimental build 2025-06-12-0842 (a18c8fd)
 * Update stock handling  (#81226)
 * Weekly Changelog 2025-06-02 to 2025-06-09 (#81215)
 * Describe stat level in new character window (#81231)
-
-Cataclysm-DDA experimental build 2025-06-12-0617 (a062e89)
 * [Bombastic Perks] Limit metamagic perks to Magiclysm (#81247)
 * Backport CI changes for 0.H (#81239)
 * spawn batteries in boxes (#81229)
@@ -146,4 +148,3 @@ Cataclysm-DDA experimental build 2025-06-12-0617 (a062e89)
 * Some home wardrobe clothes are stored as sets of clothes (#81151)
 * Weekly Changelog 2025-05-26 to 2025-06-02 (#81156)
 * Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel (#81149)
-* Audit crack and anfo recipe  (#81146)
