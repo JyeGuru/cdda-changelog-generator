@@ -1,3 +1,10 @@
+* don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-18-0307 ([a0e80c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-0307))
+
+* [Xedra Evolved] More seasonal glamours ([#81164](https://github.com/CleverRaven/Cataclysm-DDA/pull/81164))
 * re add an undefined behavior sanitizer ([#81315](https://github.com/CleverRaven/Cataclysm-DDA/pull/81315))
 
 ---
@@ -176,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-06-11-1439 ([038657b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-11-1439))
 
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-11-0355 ([2669961](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-11-0355))
-
 * Allow reading ebooks when its dark from most edevices ([#81157](https://github.com/CleverRaven/Cataclysm-DDA/pull/81157))
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
@@ -229,5 +231,3 @@
 * Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel ([#81149](https://github.com/CleverRaven/Cataclysm-DDA/pull/81149))
 * Audit crack and anfo recipe  ([#81146](https://github.com/CleverRaven/Cataclysm-DDA/pull/81146))
 * Routine tileset updates on 01 June 2025 ([#81143](https://github.com/CleverRaven/Cataclysm-DDA/pull/81143))
-* Ignore generated CMake files ([#81138](https://github.com/CleverRaven/Cataclysm-DDA/pull/81138))
-* Set DPI awareness hint to fix blurry text ([#81139](https://github.com/CleverRaven/Cataclysm-DDA/pull/81139))
