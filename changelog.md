@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-18-1344 ([d86f087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-1344))
+
+* Nests hoodie recipes and add animal hoodies crafting recipes ([#81320](https://github.com/CleverRaven/Cataclysm-DDA/pull/81320))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-18-0536 ([47e044f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-0536))
 
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-06-12-0617 ([a062e89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-0617))
 
 * [Bombastic Perks] Limit metamagic perks to Magiclysm ([#81247](https://github.com/CleverRaven/Cataclysm-DDA/pull/81247))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2025-06-12-0041 ([f9606fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2025-06-12-0041))
-
 * Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
 * Allow reading ebooks when its dark from most edevices ([#81157](https://github.com/CleverRaven/Cataclysm-DDA/pull/81157))
@@ -230,4 +231,3 @@
 * Weekly Changelog 2025-05-26 to 2025-06-02 ([#81156](https://github.com/CleverRaven/Cataclysm-DDA/pull/81156))
 * Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel ([#81149](https://github.com/CleverRaven/Cataclysm-DDA/pull/81149))
 * Audit crack and anfo recipe  ([#81146](https://github.com/CleverRaven/Cataclysm-DDA/pull/81146))
-* Routine tileset updates on 01 June 2025 ([#81143](https://github.com/CleverRaven/Cataclysm-DDA/pull/81143))
