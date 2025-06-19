@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-19-1602 ([c1ff1fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-1602))
+
 * [MoM] Replace textbooks_school with manuals_school ([#81342](https://github.com/CleverRaven/Cataclysm-DDA/pull/81342))
 * [MoM] Remove prereq for Psychic Vampire trait ([#81345](https://github.com/CleverRaven/Cataclysm-DDA/pull/81345))
 * No gas zombies ([#81346](https://github.com/CleverRaven/Cataclysm-DDA/pull/81346))
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-06-13-0704 ([7e9f1e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-0704))
 
 * Update npctalk.cpp for blindness ([#81228](https://github.com/CleverRaven/Cataclysm-DDA/pull/81228))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-13-0447 ([759d06f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-0447))
-
 * [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
 * Ar copy fix ([#81253](https://github.com/CleverRaven/Cataclysm-DDA/pull/81253))
 * Aftershock: More tools are available in exoplanet ([#81259](https://github.com/CleverRaven/Cataclysm-DDA/pull/81259))

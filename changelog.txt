@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-19-1602 (c1ff1fa)
 * [MoM] Replace textbooks_school with manuals_school (#81342)
 * [MoM] Remove prereq for Psychic Vampire trait (#81345)
 * No gas zombies (#81346)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-06-13-1524 (72b1488)
 
 Cataclysm-DDA experimental build 2025-06-13-0704 (7e9f1e6)
 * Update npctalk.cpp for blindness (#81228)
-
-Cataclysm-DDA experimental build 2025-06-13-0447 (759d06f)
 * [MoM] Add small chance of noetic resonance detector to doctor's office (#81263)
 * Ar copy fix (#81253)
 * Aftershock: More tools are available in exoplanet (#81259)
