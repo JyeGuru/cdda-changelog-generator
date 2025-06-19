@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-19-0044 (34540d0)
+* Remove map note if favorite item is picked up (#81273)
+
 Cataclysm-DDA experimental build 2025-06-18-2205 (a7aab3e)
 * Create a "thin" archive instead of copying objects (#81233)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-12-1540 (f3be5b4)
 * Big wrench (#81222)
 * [Bugfixes] Star vampires no longer drain blood when doing no damage (#81257)
 * [MoM] Fix visitor pass revealing roads (#81255)
-
-Cataclysm-DDA experimental build 2025-06-12-1323 (95fb1a8)
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message (#81258)
 * Weight enchantment (#81232)
 * Add Whip Proficiencies and Practice Recipe (#81238)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-06-12-1323 (95fb1a8)
 * Properly calculate charges volume for crafting max volume (#81150)
 * Some home wardrobe clothes are stored as sets of clothes (#81151)
 * Weekly Changelog 2025-05-26 to 2025-06-02 (#81156)
-* Add missing migration exodii_ingot_steel --> exodii_ingot_lc_steel (#81149)
