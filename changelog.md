@@ -21,7 +21,6 @@
 #### Cataclysm-DDA experimental build 2025-06-19-1332 ([a3ca880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-1332))
 
 * Unarmed extra spawns ([#81339](https://github.com/CleverRaven/Cataclysm-DDA/pull/81339))
-* Fix incorrect conditional for Mystic shot effect ([#81184](https://github.com/CleverRaven/Cataclysm-DDA/pull/81184))
 * Firearm primer making audit ([#81299](https://github.com/CleverRaven/Cataclysm-DDA/pull/81299))
 * [MoM] Add dust requirement to Teleportation power recipes that are missing it ([#81327](https://github.com/CleverRaven/Cataclysm-DDA/pull/81327))
 * [Xedra Evolved] Add missing traits to research EoC ([#81328](https://github.com/CleverRaven/Cataclysm-DDA/pull/81328))
