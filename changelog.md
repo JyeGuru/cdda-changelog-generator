@@ -1,3 +1,8 @@
+* [Aftershock] Add sight slot to G&W SR-P9 ([#81170](https://github.com/CleverRaven/Cataclysm-DDA/pull/81170))
+* Fix incorrect conditional for Mystic shot effect ([#81184](https://github.com/CleverRaven/Cataclysm-DDA/pull/81184))
+* Firearm primer making audit ([#81299](https://github.com/CleverRaven/Cataclysm-DDA/pull/81299))
+* [MoM] Add dust requirement to Teleportation power recipes that are missing it ([#81327](https://github.com/CleverRaven/Cataclysm-DDA/pull/81327))
+* [Xedra Evolved] Add missing traits to research EoC ([#81328](https://github.com/CleverRaven/Cataclysm-DDA/pull/81328))
 * fix sourdough starter size ([#81326](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326))
 * Saltworks phaseout ([#81266](https://github.com/CleverRaven/Cataclysm-DDA/pull/81266))
 
@@ -43,12 +48,6 @@
 #### Cataclysm-DDA experimental build 2025-06-18-0536 ([47e044f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-0536))
 
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-18-0307 ([a0e80c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-0307))
-
-* [Xedra Evolved] More seasonal glamours ([#81164](https://github.com/CleverRaven/Cataclysm-DDA/pull/81164))
 * re add an undefined behavior sanitizer ([#81315](https://github.com/CleverRaven/Cataclysm-DDA/pull/81315))
 
 ---
@@ -173,7 +172,6 @@
 
 * [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
 * Ar copy fix ([#81253](https://github.com/CleverRaven/Cataclysm-DDA/pull/81253))
-* Aftershock: Minor bugfixing round ([#81162](https://github.com/CleverRaven/Cataclysm-DDA/pull/81162))
 
 ---
 
@@ -192,7 +190,6 @@
 * [Bombastic Perks] Limit metamagic perks to Magiclysm ([#81247](https://github.com/CleverRaven/Cataclysm-DDA/pull/81247))
 * Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
-* Allow reading ebooks when its dark from most edevices ([#81157](https://github.com/CleverRaven/Cataclysm-DDA/pull/81157))
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
 * Compound bows are made with aluminum not steel ([#81196](https://github.com/CleverRaven/Cataclysm-DDA/pull/81196))
@@ -201,7 +198,6 @@
 * Separate out mission searches for existing globally uniques ([#81219](https://github.com/CleverRaven/Cataclysm-DDA/pull/81219))
 * [Magiclysm] Black Dragons can get Chrysophilia ([#81223](https://github.com/CleverRaven/Cataclysm-DDA/pull/81223))
 * [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))
-* Added Faction label and Map location ([#81165](https://github.com/CleverRaven/Cataclysm-DDA/pull/81165))
 * [Magiclysm] Rework Manatouched's glow mutations ([#81212](https://github.com/CleverRaven/Cataclysm-DDA/pull/81212))
 * Add "Take it easy." to list of goodbyes ([#81221](https://github.com/CleverRaven/Cataclysm-DDA/pull/81221))
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" ([#81220](https://github.com/CleverRaven/Cataclysm-DDA/pull/81220))
@@ -230,5 +226,3 @@
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
 * Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
-* Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
-* Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
