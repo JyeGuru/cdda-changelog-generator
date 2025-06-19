@@ -1,3 +1,10 @@
+* Saltworks phaseout ([#81266](https://github.com/CleverRaven/Cataclysm-DDA/pull/81266))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-19-0333 ([245bd6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-0333))
+
+* M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
 
 ---
 
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-06-13-0001 ([01ccaed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-0001))
 
 * Aftershock: More tools are available in exoplanet ([#81259](https://github.com/CleverRaven/Cataclysm-DDA/pull/81259))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-12-1540 ([f3be5b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-12-1540))
-
 * Big wrench ([#81222](https://github.com/CleverRaven/Cataclysm-DDA/pull/81222))
 * [Bugfixes] Star vampires no longer drain blood when doing no damage ([#81257](https://github.com/CleverRaven/Cataclysm-DDA/pull/81257))
 * [MoM] Fix visitor pass revealing roads ([#81255](https://github.com/CleverRaven/Cataclysm-DDA/pull/81255))
@@ -229,6 +231,4 @@
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
-* Properly calculate charges volume for crafting max volume ([#81150](https://github.com/CleverRaven/Cataclysm-DDA/pull/81150))
-* Some home wardrobe clothes are stored as sets of clothes ([#81151](https://github.com/CleverRaven/Cataclysm-DDA/pull/81151))
 * Weekly Changelog 2025-05-26 to 2025-06-02 ([#81156](https://github.com/CleverRaven/Cataclysm-DDA/pull/81156))
