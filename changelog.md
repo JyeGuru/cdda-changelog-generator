@@ -172,11 +172,6 @@
 
 * [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
 * Ar copy fix ([#81253](https://github.com/CleverRaven/Cataclysm-DDA/pull/81253))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-13-0001 ([01ccaed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-0001))
-
 * Aftershock: More tools are available in exoplanet ([#81259](https://github.com/CleverRaven/Cataclysm-DDA/pull/81259))
 * Big wrench ([#81222](https://github.com/CleverRaven/Cataclysm-DDA/pull/81222))
 * [Bugfixes] Star vampires no longer drain blood when doing no damage ([#81257](https://github.com/CleverRaven/Cataclysm-DDA/pull/81257))
