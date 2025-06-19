@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-19-2338 (7a3a2bc)
 * Remove the minefield map extra (#81331)
 
 Cataclysm-DDA experimental build 2025-06-19-2029 (651645a)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-06-14-0107 (71d8d1d)
 Cataclysm-DDA experimental build 2025-06-13-1752 (16c6675)
 * Attempt to increase average autotravel speed when driving on straight roads (#81248)
 * adjust shiv weapons (#81211)
-
-Cataclysm-DDA experimental build 2025-06-13-1524 (72b1488)
 * Mark season scaling options as hidden (#81245)
 * Update npctalk.cpp for blindness (#81228)
 * [MoM] Add small chance of noetic resonance detector to doctor's office (#81263)
