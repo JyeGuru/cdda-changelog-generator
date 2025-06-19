@@ -1,3 +1,4 @@
+* fix sourdough starter size ([#81326](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326))
 * Saltworks phaseout ([#81266](https://github.com/CleverRaven/Cataclysm-DDA/pull/81266))
 
 ---
@@ -231,4 +232,3 @@
 * Cure survivor coprophagia ([#81169](https://github.com/CleverRaven/Cataclysm-DDA/pull/81169))
 * Add arab and islamic clothes for women ([#81160](https://github.com/CleverRaven/Cataclysm-DDA/pull/81160))
 * Animal hoodies audit ([#81161](https://github.com/CleverRaven/Cataclysm-DDA/pull/81161))
-* Weekly Changelog 2025-05-26 to 2025-06-02 ([#81156](https://github.com/CleverRaven/Cataclysm-DDA/pull/81156))

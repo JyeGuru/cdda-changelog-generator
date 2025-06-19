@@ -1,3 +1,4 @@
+* fix sourdough starter size (#81326)
 * Saltworks phaseout (#81266)
 
 Cataclysm-DDA experimental build 2025-06-19-0333 (245bd6d)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-06-13-0001 (01ccaed)
 * Cure survivor coprophagia (#81169)
 * Add arab and islamic clothes for women (#81160)
 * Animal hoodies audit (#81161)
-* Weekly Changelog 2025-05-26 to 2025-06-02 (#81156)
