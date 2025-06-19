@@ -1,3 +1,10 @@
+* Remove the minefield map extra ([#81331](https://github.com/CleverRaven/Cataclysm-DDA/pull/81331))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-19-2029 ([651645a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-2029))
+
+* Obsolete killer drive ([#81329](https://github.com/CleverRaven/Cataclysm-DDA/pull/81329))
 
 ---
 
@@ -174,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-06-13-1524 ([72b1488](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-1524))
 
 * Mark season scaling options as hidden ([#81245](https://github.com/CleverRaven/Cataclysm-DDA/pull/81245))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-13-0704 ([7e9f1e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-0704))
-
 * Update npctalk.cpp for blindness ([#81228](https://github.com/CleverRaven/Cataclysm-DDA/pull/81228))
 * [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
 * Ar copy fix ([#81253](https://github.com/CleverRaven/Cataclysm-DDA/pull/81253))
@@ -222,7 +224,6 @@
 * Cropped hoodies don't have pockets ([#81185](https://github.com/CleverRaven/Cataclysm-DDA/pull/81185))
 * Fix freeze when npc is recalled from mission ([#81189](https://github.com/CleverRaven/Cataclysm-DDA/pull/81189))
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
-* [Xedra Evolved] Update leg_guards_verdant in Boann's rewards ([#81178](https://github.com/CleverRaven/Cataclysm-DDA/pull/81178))
 * Fix load time slowdown from n^2 time vector scans in item finalization. ([#81186](https://github.com/CleverRaven/Cataclysm-DDA/pull/81186))
 * Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
 * Aftershock: You can now spot the spaceport during clear nights. ([#81187](https://github.com/CleverRaven/Cataclysm-DDA/pull/81187))
