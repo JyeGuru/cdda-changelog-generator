@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-20-2240 (95ea3f6)
+* [XE] Add a new rare waterborne disease. (#81335)
+
 Cataclysm-DDA experimental build 2025-06-20-1933 (38d30ff)
 * [MoM] Remove space in add effect (#81359)
 
@@ -140,7 +143,6 @@ Cataclysm-DDA experimental build 2025-06-15-1629 (06ca2c5)
 * Allow smelting into ingots (#81207)
 * Fix damage instance deserialize function (#81200)
 * Devariantize shotguns (#81203)
-* Revert vehicle cargo sizes to sane values (#81191)
 * Swimwear isn't underwear (#81202)
 * Add Hub jumpsuit to the items sold by the Hub vendor (#81201)
 * Fix emscripten build (#81199)
