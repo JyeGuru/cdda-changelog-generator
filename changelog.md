@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-20-0644 ([badf3f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-0644))
+
 * Obsolete mythos mod ([#81355](https://github.com/CleverRaven/Cataclysm-DDA/pull/81355))
 
 ---
@@ -174,11 +179,6 @@
 * Document ammunition_type ([#81274](https://github.com/CleverRaven/Cataclysm-DDA/pull/81274))
 * house_w_4 fix ([#81271](https://github.com/CleverRaven/Cataclysm-DDA/pull/81271))
 * Fix failed test empty message spam ([#81279](https://github.com/CleverRaven/Cataclysm-DDA/pull/81279))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-14-1557 ([5bced3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-14-1557))
-
 * Routine i18n updates on 14 June 2025 ([#81276](https://github.com/CleverRaven/Cataclysm-DDA/pull/81276))
 * Bulk overmap testing debug tools ([#81264](https://github.com/CleverRaven/Cataclysm-DDA/pull/81264))
 * Attempt to increase average autotravel speed when driving on straight roads ([#81248](https://github.com/CleverRaven/Cataclysm-DDA/pull/81248))
