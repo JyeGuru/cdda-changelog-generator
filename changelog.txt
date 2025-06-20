@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-20-1933 (38d30ff)
+* [MoM] Remove space in add effect (#81359)
+
 Cataclysm-DDA experimental build 2025-06-20-1534 (2e0b677)
 * [MoM] Update Wave of Force to use `u_knockback` (#81361)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-15-2003 (42fdf16)
 
 Cataclysm-DDA experimental build 2025-06-15-1629 (06ca2c5)
 * Move Android bundle building to a manually triggered workflow (#81270)
-
-Cataclysm-DDA experimental build 2025-06-15-0520 (1855a61)
 * [Magiclysm] Edit fantasy species weights (#81272)
 * Document ammunition_type (#81274)
 * house_w_4 fix (#81271)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-06-15-0520 (1855a61)
 * Fix emscripten build (#81199)
 * Roads cross streams, fix stream predecessors (#81195)
 * Routine i18n updates on 07 June 2025 (#81197)
-* Fix pedantry build errors (#81190)

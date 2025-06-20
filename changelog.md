@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-20-1933 ([38d30ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-1933))
+
+* [MoM] Remove space in add effect ([#81359](https://github.com/CleverRaven/Cataclysm-DDA/pull/81359))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-20-1534 ([2e0b677](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-1534))
 
 * [MoM] Update Wave of Force to use `u_knockback` ([#81361](https://github.com/CleverRaven/Cataclysm-DDA/pull/81361))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-06-15-1629 ([06ca2c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-1629))
 
 * Move Android bundle building to a manually triggered workflow ([#81270](https://github.com/CleverRaven/Cataclysm-DDA/pull/81270))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-15-0520 ([1855a61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-0520))
-
 * [Magiclysm] Edit fantasy species weights ([#81272](https://github.com/CleverRaven/Cataclysm-DDA/pull/81272))
 * Document ammunition_type ([#81274](https://github.com/CleverRaven/Cataclysm-DDA/pull/81274))
 * house_w_4 fix ([#81271](https://github.com/CleverRaven/Cataclysm-DDA/pull/81271))
@@ -226,4 +227,3 @@
 * Fix emscripten build ([#81199](https://github.com/CleverRaven/Cataclysm-DDA/pull/81199))
 * Roads cross streams, fix stream predecessors ([#81195](https://github.com/CleverRaven/Cataclysm-DDA/pull/81195))
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
-* Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
