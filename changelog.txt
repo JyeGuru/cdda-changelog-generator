@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-20-0418 (55bdae6)
 * Fix #81333 Negative quench items don't dehydrate you (#81347)
 * Bugfix Debug Menu vitamins off by one (#81348)
 
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-06-14-1819 (c5d9fc0)
 
 Cataclysm-DDA experimental build 2025-06-14-1557 (5bced3f)
 * Routine i18n updates on 14 June 2025 (#81276)
-
-Cataclysm-DDA experimental build 2025-06-14-0107 (71d8d1d)
 * Bulk overmap testing debug tools (#81264)
 * Attempt to increase average autotravel speed when driving on straight roads (#81248)
 * adjust shiv weapons (#81211)
