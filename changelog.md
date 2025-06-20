@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-20-0154 ([37f57f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-0154))
+
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale ([#81357](https://github.com/CleverRaven/Cataclysm-DDA/pull/81357))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-06-14-0107 ([71d8d1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-14-0107))
 
 * Bulk overmap testing debug tools ([#81264](https://github.com/CleverRaven/Cataclysm-DDA/pull/81264))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-13-1752 ([16c6675](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-13-1752))
-
 * Attempt to increase average autotravel speed when driving on straight roads ([#81248](https://github.com/CleverRaven/Cataclysm-DDA/pull/81248))
 * adjust shiv weapons ([#81211](https://github.com/CleverRaven/Cataclysm-DDA/pull/81211))
 * Mark season scaling options as hidden ([#81245](https://github.com/CleverRaven/Cataclysm-DDA/pull/81245))
