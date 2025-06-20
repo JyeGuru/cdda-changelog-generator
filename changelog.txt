@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-20-1534 (2e0b677)
+* [MoM] Update Wave of Force to use `u_knockback` (#81361)
+
 Cataclysm-DDA experimental build 2025-06-20-0644 (badf3f2)
 * Obsolete mythos mod (#81355)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-06-15-1629 (06ca2c5)
 
 Cataclysm-DDA experimental build 2025-06-15-0520 (1855a61)
 * [Magiclysm] Edit fantasy species weights (#81272)
-
-Cataclysm-DDA experimental build 2025-06-14-1819 (c5d9fc0)
 * Document ammunition_type (#81274)
 * house_w_4 fix (#81271)
 * Fix failed test empty message spam (#81279)
@@ -143,6 +144,5 @@ Cataclysm-DDA experimental build 2025-06-14-1819 (c5d9fc0)
 * Add Hub jumpsuit to the items sold by the Hub vendor (#81201)
 * Fix emscripten build (#81199)
 * Roads cross streams, fix stream predecessors (#81195)
-* Fix freeze when npc is recalled from mission (#81189)
 * Routine i18n updates on 07 June 2025 (#81197)
 * Fix pedantry build errors (#81190)
