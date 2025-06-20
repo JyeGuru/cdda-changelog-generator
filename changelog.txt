@@ -1,3 +1,4 @@
+* Obsolete mythos mod (#81355)
 
 Cataclysm-DDA experimental build 2025-06-20-0418 (55bdae6)
 * Fix #81333 Negative quench items don't dehydrate you (#81347)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-06-14-1557 (5bced3f)
 * Fix freeze when npc is recalled from mission (#81189)
 * Routine i18n updates on 07 June 2025 (#81197)
 * Fix pedantry build errors (#81190)
-* Fix smartwatch outfit build error (#81188)

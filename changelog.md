@@ -1,3 +1,4 @@
+* Obsolete mythos mod ([#81355](https://github.com/CleverRaven/Cataclysm-DDA/pull/81355))
 
 ---
 
@@ -226,4 +227,3 @@
 * Fix freeze when npc is recalled from mission ([#81189](https://github.com/CleverRaven/Cataclysm-DDA/pull/81189))
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
 * Fix pedantry build errors ([#81190](https://github.com/CleverRaven/Cataclysm-DDA/pull/81190))
-* Fix smartwatch outfit build error ([#81188](https://github.com/CleverRaven/Cataclysm-DDA/pull/81188))
