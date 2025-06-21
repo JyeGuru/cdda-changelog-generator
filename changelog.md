@@ -1,3 +1,5 @@
+* [Xedra Evolved] Add `The Blood is the Life` dhampir power ([#81356](https://github.com/CleverRaven/Cataclysm-DDA/pull/81356))
+* CrazyCata immortal snail nemesis ([#81292](https://github.com/CleverRaven/Cataclysm-DDA/pull/81292))
 * Whips update for Magiclysm and Xedra Evolved ([#81269](https://github.com/CleverRaven/Cataclysm-DDA/pull/81269))
 
 ---
@@ -202,7 +204,6 @@
 * Routine i18n updates on 14 June 2025 ([#81276](https://github.com/CleverRaven/Cataclysm-DDA/pull/81276))
 * Bulk overmap testing debug tools ([#81264](https://github.com/CleverRaven/Cataclysm-DDA/pull/81264))
 * Attempt to increase average autotravel speed when driving on straight roads ([#81248](https://github.com/CleverRaven/Cataclysm-DDA/pull/81248))
-* adjust shiv weapons ([#81211](https://github.com/CleverRaven/Cataclysm-DDA/pull/81211))
 * Mark season scaling options as hidden ([#81245](https://github.com/CleverRaven/Cataclysm-DDA/pull/81245))
 * Update npctalk.cpp for blindness ([#81228](https://github.com/CleverRaven/Cataclysm-DDA/pull/81228))
 * [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
@@ -230,6 +231,5 @@
 * Add "Take it easy." to list of goodbyes ([#81221](https://github.com/CleverRaven/Cataclysm-DDA/pull/81221))
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" ([#81220](https://github.com/CleverRaven/Cataclysm-DDA/pull/81220))
 * Add homie, dawg to name_g ([#81214](https://github.com/CleverRaven/Cataclysm-DDA/pull/81214))
-* Grappling hook has rope flags ([#81210](https://github.com/CleverRaven/Cataclysm-DDA/pull/81210))
 * Fix not removing consumed faction camp calories ([#81216](https://github.com/CleverRaven/Cataclysm-DDA/pull/81216))
 * Hacksaw requires tempering, screwdriver is harder to craft ([#81213](https://github.com/CleverRaven/Cataclysm-DDA/pull/81213))
