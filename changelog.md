@@ -1,3 +1,10 @@
+* Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-21-0932 ([51ebac5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-0932))
+
+* Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
 
 ---
 
@@ -177,11 +184,6 @@
 
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-15-2003 ([42fdf16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-2003))
-
 * Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
 * Move Android bundle building to a manually triggered workflow ([#81270](https://github.com/CleverRaven/Cataclysm-DDA/pull/81270))
 * [Magiclysm] Edit fantasy species weights ([#81272](https://github.com/CleverRaven/Cataclysm-DDA/pull/81272))
@@ -211,7 +213,6 @@
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
-* Compound bows are made with aluminum not steel ([#81196](https://github.com/CleverRaven/Cataclysm-DDA/pull/81196))
 * [ Xedra Evolved ] Fix missing spell level dialogues for Chronomancer ([#81205](https://github.com/CleverRaven/Cataclysm-DDA/pull/81205))
 * Eagerly close file handles for readonly mmap_file on not-windows. ([#81227](https://github.com/CleverRaven/Cataclysm-DDA/pull/81227))
 * Separate out mission searches for existing globally uniques ([#81219](https://github.com/CleverRaven/Cataclysm-DDA/pull/81219))
@@ -231,5 +232,4 @@
 * Swimwear isn't underwear ([#81202](https://github.com/CleverRaven/Cataclysm-DDA/pull/81202))
 * Add Hub jumpsuit to the items sold by the Hub vendor ([#81201](https://github.com/CleverRaven/Cataclysm-DDA/pull/81201))
 * Fix emscripten build ([#81199](https://github.com/CleverRaven/Cataclysm-DDA/pull/81199))
-* Roads cross streams, fix stream predecessors ([#81195](https://github.com/CleverRaven/Cataclysm-DDA/pull/81195))
 * Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
