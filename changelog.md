@@ -1,3 +1,4 @@
+* New vampire weakness: Barred from mortal joys ([#81360](https://github.com/CleverRaven/Cataclysm-DDA/pull/81360))
 * [Xedra Evolved] Add `The Blood is the Life` dhampir power ([#81356](https://github.com/CleverRaven/Cataclysm-DDA/pull/81356))
 * CrazyCata immortal snail nemesis ([#81292](https://github.com/CleverRaven/Cataclysm-DDA/pull/81292))
 * Whips update for Magiclysm and Xedra Evolved ([#81269](https://github.com/CleverRaven/Cataclysm-DDA/pull/81269))
@@ -227,7 +228,6 @@
 * Separate out mission searches for existing globally uniques ([#81219](https://github.com/CleverRaven/Cataclysm-DDA/pull/81219))
 * [Magiclysm] Black Dragons can get Chrysophilia ([#81223](https://github.com/CleverRaven/Cataclysm-DDA/pull/81223))
 * [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))
-* [Magiclysm] Rework Manatouched's glow mutations ([#81212](https://github.com/CleverRaven/Cataclysm-DDA/pull/81212))
 * Add "Take it easy." to list of goodbyes ([#81221](https://github.com/CleverRaven/Cataclysm-DDA/pull/81221))
 * [MoM/XE] Add profession: Mobile Task Force: Psi 7 "Sleepwalkers" ([#81220](https://github.com/CleverRaven/Cataclysm-DDA/pull/81220))
 * Add homie, dawg to name_g ([#81214](https://github.com/CleverRaven/Cataclysm-DDA/pull/81214))
