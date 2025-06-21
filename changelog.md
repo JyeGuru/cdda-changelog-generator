@@ -1,3 +1,4 @@
+* xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
 * Fix chairs in bandit work camp spawning items ([#81368](https://github.com/CleverRaven/Cataclysm-DDA/pull/81368))
 * Replace old office itemgroup with new SUS groups ([#81371](https://github.com/CleverRaven/Cataclysm-DDA/pull/81371))
 * Remove XP message when channeling powers/casting spells ([#81374](https://github.com/CleverRaven/Cataclysm-DDA/pull/81374))
@@ -219,7 +220,6 @@
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
-* [ Xedra Evolved ] Fix missing spell level dialogues for Chronomancer ([#81205](https://github.com/CleverRaven/Cataclysm-DDA/pull/81205))
 * Eagerly close file handles for readonly mmap_file on not-windows. ([#81227](https://github.com/CleverRaven/Cataclysm-DDA/pull/81227))
 * Separate out mission searches for existing globally uniques ([#81219](https://github.com/CleverRaven/Cataclysm-DDA/pull/81219))
 * [Magiclysm] Black Dragons can get Chrysophilia ([#81223](https://github.com/CleverRaven/Cataclysm-DDA/pull/81223))
