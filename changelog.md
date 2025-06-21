@@ -1,3 +1,11 @@
+* Aftershock: Welding paste ([#81367](https://github.com/CleverRaven/Cataclysm-DDA/pull/81367))
+* Increase byproduct straw of the recipe of threshed oats without flail. ([#81365](https://github.com/CleverRaven/Cataclysm-DDA/pull/81365))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-21-1515 ([7135a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-1515))
+
+* add longest_side for meal tray ([#81377](https://github.com/CleverRaven/Cataclysm-DDA/pull/81377))
 
 ---
 
@@ -176,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-06-16-1402 ([e0a3538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-1402))
 
 * [XEDRA Evolved] Government Buying Your Deceased Loved One's 'Dreams' Without Your Consent! More at Page 4 ([#81291](https://github.com/CleverRaven/Cataclysm-DDA/pull/81291))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-16-0046 ([ffcc46c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-0046))
-
 * Overmaps track overmap unique specials instead of overmapbuffer ([#81234](https://github.com/CleverRaven/Cataclysm-DDA/pull/81234))
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
@@ -231,5 +234,3 @@
 * Devariantize shotguns ([#81203](https://github.com/CleverRaven/Cataclysm-DDA/pull/81203))
 * Swimwear isn't underwear ([#81202](https://github.com/CleverRaven/Cataclysm-DDA/pull/81202))
 * Add Hub jumpsuit to the items sold by the Hub vendor ([#81201](https://github.com/CleverRaven/Cataclysm-DDA/pull/81201))
-* Fix emscripten build ([#81199](https://github.com/CleverRaven/Cataclysm-DDA/pull/81199))
-* Routine i18n updates on 07 June 2025 ([#81197](https://github.com/CleverRaven/Cataclysm-DDA/pull/81197))
