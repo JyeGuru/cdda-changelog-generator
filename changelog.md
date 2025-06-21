@@ -1,3 +1,6 @@
+* Fix chairs in bandit work camp spawning items ([#81368](https://github.com/CleverRaven/Cataclysm-DDA/pull/81368))
+* Replace old office itemgroup with new SUS groups ([#81371](https://github.com/CleverRaven/Cataclysm-DDA/pull/81371))
+* Remove XP message when channeling powers/casting spells ([#81374](https://github.com/CleverRaven/Cataclysm-DDA/pull/81374))
 * Aftershock: Welding paste ([#81367](https://github.com/CleverRaven/Cataclysm-DDA/pull/81367))
 * Increase byproduct straw of the recipe of threshed oats without flail. ([#81365](https://github.com/CleverRaven/Cataclysm-DDA/pull/81365))
 
@@ -230,7 +233,4 @@
 * Remove 7-10 split, clay quern, forked spear ([#81209](https://github.com/CleverRaven/Cataclysm-DDA/pull/81209))
 * Hacksaw requires tempering, screwdriver is harder to craft ([#81213](https://github.com/CleverRaven/Cataclysm-DDA/pull/81213))
 * Allow smelting into ingots ([#81207](https://github.com/CleverRaven/Cataclysm-DDA/pull/81207))
-* Fix damage instance deserialize function ([#81200](https://github.com/CleverRaven/Cataclysm-DDA/pull/81200))
 * Devariantize shotguns ([#81203](https://github.com/CleverRaven/Cataclysm-DDA/pull/81203))
-* Swimwear isn't underwear ([#81202](https://github.com/CleverRaven/Cataclysm-DDA/pull/81202))
-* Add Hub jumpsuit to the items sold by the Hub vendor ([#81201](https://github.com/CleverRaven/Cataclysm-DDA/pull/81201))
