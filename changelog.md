@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-21-0430 ([98f2508](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-0430))
+
+* Routine i18n updates on 21 June 2025 ([#81376](https://github.com/CleverRaven/Cataclysm-DDA/pull/81376))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-20-2240 ([95ea3f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-2240))
 
 * [XE] Add a new rare waterborne disease. ([#81335](https://github.com/CleverRaven/Cataclysm-DDA/pull/81335))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-06-15-2003 ([42fdf16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-2003))
 
 * Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-15-1629 ([06ca2c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-1629))
-
 * Move Android bundle building to a manually triggered workflow ([#81270](https://github.com/CleverRaven/Cataclysm-DDA/pull/81270))
 * [Magiclysm] Edit fantasy species weights ([#81272](https://github.com/CleverRaven/Cataclysm-DDA/pull/81272))
 * Document ammunition_type ([#81274](https://github.com/CleverRaven/Cataclysm-DDA/pull/81274))
