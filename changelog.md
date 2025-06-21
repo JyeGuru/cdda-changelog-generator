@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-21-1745 ([ed8d38d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-1745))
+
 * xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
 * Fix chairs in bandit work camp spawning items ([#81368](https://github.com/CleverRaven/Cataclysm-DDA/pull/81368))
 * Replace old office itemgroup with new SUS groups ([#81371](https://github.com/CleverRaven/Cataclysm-DDA/pull/81371))
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-06-16-1641 ([93be548](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-1641))
 
 * Fix zone unload test failure ([#81282](https://github.com/CleverRaven/Cataclysm-DDA/pull/81282))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-16-1402 ([e0a3538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-1402))
-
 * [XEDRA Evolved] Government Buying Your Deceased Loved One's 'Dreams' Without Your Consent! More at Page 4 ([#81291](https://github.com/CleverRaven/Cataclysm-DDA/pull/81291))
 * Overmaps track overmap unique specials instead of overmapbuffer ([#81234](https://github.com/CleverRaven/Cataclysm-DDA/pull/81234))
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
