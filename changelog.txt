@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-21-1207 (ac845cb)
 * Guilt trip murderers for more than 7 minutes (#81380)
 
 Cataclysm-DDA experimental build 2025-06-21-0932 (51ebac5)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-06-16-1402 (e0a3538)
 
 Cataclysm-DDA experimental build 2025-06-16-0046 (ffcc46c)
 * Overmaps track overmap unique specials instead of overmapbuffer (#81234)
-
-Cataclysm-DDA experimental build 2025-06-15-2222 (c877d43)
 * remove landmines from weird places (#81293)
 * Disable IWYU for third-party source code (#81297)
 * Wax slug audit (#81294)

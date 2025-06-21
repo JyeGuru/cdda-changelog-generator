@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-21-1207 ([ac845cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-1207))
+
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-06-16-0046 ([ffcc46c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-0046))
 
 * Overmaps track overmap unique specials instead of overmapbuffer ([#81234](https://github.com/CleverRaven/Cataclysm-DDA/pull/81234))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-15-2222 ([c877d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-15-2222))
-
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
 * Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
