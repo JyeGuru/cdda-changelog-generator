@@ -233,4 +233,3 @@
 * Remove 7-10 split, clay quern, forked spear ([#81209](https://github.com/CleverRaven/Cataclysm-DDA/pull/81209))
 * Hacksaw requires tempering, screwdriver is harder to craft ([#81213](https://github.com/CleverRaven/Cataclysm-DDA/pull/81213))
 * Allow smelting into ingots ([#81207](https://github.com/CleverRaven/Cataclysm-DDA/pull/81207))
-* Devariantize shotguns ([#81203](https://github.com/CleverRaven/Cataclysm-DDA/pull/81203))
