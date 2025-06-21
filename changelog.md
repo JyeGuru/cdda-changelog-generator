@@ -1,3 +1,10 @@
+* Whips update for Magiclysm and Xedra Evolved ([#81269](https://github.com/CleverRaven/Cataclysm-DDA/pull/81269))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-21-2244 ([15fb29e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-2244))
+
+* [MoM] Move power failure equation to JSON ([#81369](https://github.com/CleverRaven/Cataclysm-DDA/pull/81369))
 
 ---
 
@@ -181,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-06-16-1905 ([f6fe8f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-1905))
 
 * Fix imgui compilation ([#81295](https://github.com/CleverRaven/Cataclysm-DDA/pull/81295))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-16-1641 ([93be548](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-1641))
-
 * Fix zone unload test failure ([#81282](https://github.com/CleverRaven/Cataclysm-DDA/pull/81282))
 * [XEDRA Evolved] Government Buying Your Deceased Loved One's 'Dreams' Without Your Consent! More at Page 4 ([#81291](https://github.com/CleverRaven/Cataclysm-DDA/pull/81291))
 * Overmaps track overmap unique specials instead of overmapbuffer ([#81234](https://github.com/CleverRaven/Cataclysm-DDA/pull/81234))
@@ -230,6 +232,4 @@
 * Add homie, dawg to name_g ([#81214](https://github.com/CleverRaven/Cataclysm-DDA/pull/81214))
 * Grappling hook has rope flags ([#81210](https://github.com/CleverRaven/Cataclysm-DDA/pull/81210))
 * Fix not removing consumed faction camp calories ([#81216](https://github.com/CleverRaven/Cataclysm-DDA/pull/81216))
-* Remove 7-10 split, clay quern, forked spear ([#81209](https://github.com/CleverRaven/Cataclysm-DDA/pull/81209))
 * Hacksaw requires tempering, screwdriver is harder to craft ([#81213](https://github.com/CleverRaven/Cataclysm-DDA/pull/81213))
-* Allow smelting into ingots ([#81207](https://github.com/CleverRaven/Cataclysm-DDA/pull/81207))
