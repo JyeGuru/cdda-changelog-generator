@@ -1,3 +1,4 @@
+* [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 
 ---
 
@@ -231,5 +232,4 @@
 * implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
 * Eagerly close file handles for readonly mmap_file on not-windows. ([#81227](https://github.com/CleverRaven/Cataclysm-DDA/pull/81227))
-* [Magiclysm] Black Dragons can get Chrysophilia ([#81223](https://github.com/CleverRaven/Cataclysm-DDA/pull/81223))
 * [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))

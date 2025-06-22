@@ -1,3 +1,4 @@
+* [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite (#81398)
 
 Cataclysm-DDA experimental build 2025-06-22-0429 (fbd1cdc)
 * Compact compressed overmaps. (#81394)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2025-06-17-0708 (3dc8032)
 * implement gunmods modifying the to_hit value (#81225)
 * Update windows workflows to newer image (#81237)
 * Eagerly close file handles for readonly mmap_file on not-windows. (#81227)
-* [Magiclysm] Black Dragons can get Chrysophilia (#81223)
 * [ Magiclysm ]  Remove radiogenic from Manatouched (#81230)
