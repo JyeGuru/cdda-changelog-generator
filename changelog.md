@@ -1,3 +1,10 @@
+* [MoM] Fix Teleportation Damage failing to teleport the target ([#81392](https://github.com/CleverRaven/Cataclysm-DDA/pull/81392))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-22-2229 ([a0cc486](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-22-2229))
+
+* [Xedra Evolved] Fix beta talker error from Ring of Champions EoC ([#81390](https://github.com/CleverRaven/Cataclysm-DDA/pull/81390))
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 
 ---
@@ -191,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-06-17-1539 ([650d8ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-17-1539))
 
 * [MoM] Require Basic Concentration before Expert  ([#81314](https://github.com/CleverRaven/Cataclysm-DDA/pull/81314))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-17-0708 ([3dc8032](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-17-0708))
-
 * [Xedra Evolved] Paraclesian weight adjustments ([#81307](https://github.com/CleverRaven/Cataclysm-DDA/pull/81307))
 * Fix cropped animal hoodies names ([#81308](https://github.com/CleverRaven/Cataclysm-DDA/pull/81308))
 * [Xedra Evolved] Fix dhampirs drawing their own blood ([#81316](https://github.com/CleverRaven/Cataclysm-DDA/pull/81316))
@@ -224,12 +226,10 @@
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message ([#81258](https://github.com/CleverRaven/Cataclysm-DDA/pull/81258))
 * Weight enchantment ([#81232](https://github.com/CleverRaven/Cataclysm-DDA/pull/81232))
 * Add Whip Proficiencies and Practice Recipe ([#81238](https://github.com/CleverRaven/Cataclysm-DDA/pull/81238))
-* Update stock handling  ([#81226](https://github.com/CleverRaven/Cataclysm-DDA/pull/81226))
 * Describe stat level in new character window ([#81231](https://github.com/CleverRaven/Cataclysm-DDA/pull/81231))
 * [Bombastic Perks] Limit metamagic perks to Magiclysm ([#81247](https://github.com/CleverRaven/Cataclysm-DDA/pull/81247))
 * Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
 * spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
-* implement gunmods modifying the to_hit value ([#81225](https://github.com/CleverRaven/Cataclysm-DDA/pull/81225))
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
 * Eagerly close file handles for readonly mmap_file on not-windows. ([#81227](https://github.com/CleverRaven/Cataclysm-DDA/pull/81227))
 * [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))
