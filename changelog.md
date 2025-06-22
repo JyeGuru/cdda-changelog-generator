@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-22-0108 ([5b8effa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-22-0108))
+
 * Allow swapping hotkeys in magic menu. ([#81370](https://github.com/CleverRaven/Cataclysm-DDA/pull/81370))
 * Fix a way to get locked out of Hub tasks ([#81358](https://github.com/CleverRaven/Cataclysm-DDA/pull/81358))
 * Primerless case audit  ([#81362](https://github.com/CleverRaven/Cataclysm-DDA/pull/81362))
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-06-17-0438 ([425559c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-17-0438))
 
 * [Xedra Evolved] Fix dhampirs drawing their own blood ([#81316](https://github.com/CleverRaven/Cataclysm-DDA/pull/81316))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-16-1905 ([f6fe8f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-16-1905))
-
 * Fix imgui compilation ([#81295](https://github.com/CleverRaven/Cataclysm-DDA/pull/81295))
 * Fix zone unload test failure ([#81282](https://github.com/CleverRaven/Cataclysm-DDA/pull/81282))
 * [XEDRA Evolved] Government Buying Your Deceased Loved One's 'Dreams' Without Your Consent! More at Page 4 ([#81291](https://github.com/CleverRaven/Cataclysm-DDA/pull/81291))

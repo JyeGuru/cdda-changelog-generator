@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-22-0108 (5b8effa)
 * Allow swapping hotkeys in magic menu. (#81370)
 * Fix a way to get locked out of Hub tasks (#81358)
 * Primerless case audit  (#81362)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2025-06-17-0708 (3dc8032)
 
 Cataclysm-DDA experimental build 2025-06-17-0438 (425559c)
 * [Xedra Evolved] Fix dhampirs drawing their own blood (#81316)
-
-Cataclysm-DDA experimental build 2025-06-16-1905 (f6fe8f1)
 * Fix imgui compilation (#81295)
 * Fix zone unload test failure (#81282)
 * [XEDRA Evolved] Government Buying Your Deceased Loved One's 'Dreams' Without Your Consent! More at Page 4 (#81291)
