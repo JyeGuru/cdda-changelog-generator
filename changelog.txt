@@ -1,3 +1,4 @@
+* Separate out recipe_food.json into several files (#81334)
 * [MoM] Fix Teleportation Damage failing to teleport the target (#81392)
 
 Cataclysm-DDA experimental build 2025-06-22-2229 (a0cc486)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2025-06-17-1539 (650d8ef)
 * Backport CI changes for 0.H (#81239)
 * spawn batteries in boxes (#81229)
 * Update windows workflows to newer image (#81237)
-* Eagerly close file handles for readonly mmap_file on not-windows. (#81227)
 * [ Magiclysm ]  Remove radiogenic from Manatouched (#81230)
