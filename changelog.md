@@ -1,3 +1,11 @@
+* Adjust sledgehammer throwing damage ([#81351](https://github.com/CleverRaven/Cataclysm-DDA/pull/81351))
+* Nerf default thrown damage ([#81372](https://github.com/CleverRaven/Cataclysm-DDA/pull/81372))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-23-1650 ([163b432](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-1650))
+
+* fix grass in the junkyard ([#81412](https://github.com/CleverRaven/Cataclysm-DDA/pull/81412))
 
 ---
 
@@ -174,12 +182,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-06-18-2205 ([a7aab3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-2205))
-
-* Create a "thin" archive instead of copying objects ([#81233](https://github.com/CleverRaven/Cataclysm-DDA/pull/81233))
-
----
-
 #### Cataclysm-DDA experimental build 2025-06-18-1908 ([7426d5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-1908))
 
 * Add back door back to butcher shop ([#81323](https://github.com/CleverRaven/Cataclysm-DDA/pull/81323))
@@ -196,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-06-18-1344 ([d86f087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-1344))
 
 * Nests hoodie recipes and add animal hoodies crafting recipes ([#81320](https://github.com/CleverRaven/Cataclysm-DDA/pull/81320))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-18-0536 ([47e044f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-0536))
-
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
 * re add an undefined behavior sanitizer ([#81315](https://github.com/CleverRaven/Cataclysm-DDA/pull/81315))
 * Fix chambers in bionics rooms can't be opened ([#81319](https://github.com/CleverRaven/Cataclysm-DDA/pull/81319))
@@ -214,7 +211,6 @@
 * Fix imgui compilation ([#81295](https://github.com/CleverRaven/Cataclysm-DDA/pull/81295))
 * Fix zone unload test failure ([#81282](https://github.com/CleverRaven/Cataclysm-DDA/pull/81282))
 * [XEDRA Evolved] Government Buying Your Deceased Loved One's 'Dreams' Without Your Consent! More at Page 4 ([#81291](https://github.com/CleverRaven/Cataclysm-DDA/pull/81291))
-* Overmaps track overmap unique specials instead of overmapbuffer ([#81234](https://github.com/CleverRaven/Cataclysm-DDA/pull/81234))
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
 * Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
@@ -233,7 +229,6 @@
 * [Bugfixes] Star vampires no longer drain blood when doing no damage ([#81257](https://github.com/CleverRaven/Cataclysm-DDA/pull/81257))
 * [MoM] Fix visitor pass revealing roads ([#81255](https://github.com/CleverRaven/Cataclysm-DDA/pull/81255))
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message ([#81258](https://github.com/CleverRaven/Cataclysm-DDA/pull/81258))
-* Weight enchantment ([#81232](https://github.com/CleverRaven/Cataclysm-DDA/pull/81232))
 * Add Whip Proficiencies and Practice Recipe ([#81238](https://github.com/CleverRaven/Cataclysm-DDA/pull/81238))
 * [Bombastic Perks] Limit metamagic perks to Magiclysm ([#81247](https://github.com/CleverRaven/Cataclysm-DDA/pull/81247))
 * Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
