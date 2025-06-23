@@ -1,3 +1,4 @@
+* [XE] Mentor tweaks (#81400)
 * [Magiclysm/Bombastic Perks]: Add Efficient Spell metamagic perk (#81417)
 * [MoM] Add Extended Channeling to new channeling success jmath (#81391)
 
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-06-18-1908 (7426d5a)
 * [Bugfixes] Star vampires no longer drain blood when doing no damage (#81257)
 * [MoM] Fix visitor pass revealing roads (#81255)
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message (#81258)
-* [Bombastic Perks] Limit metamagic perks to Magiclysm (#81247)
