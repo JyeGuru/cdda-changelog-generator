@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-23-0411 ([63ea27b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-0411))
+
 * Adds a vertical omt stack scope for mapgen parameters ([#81296](https://github.com/CleverRaven/Cataclysm-DDA/pull/81296))
 * Remove toggling skill training on/off ([#81381](https://github.com/CleverRaven/Cataclysm-DDA/pull/81381))
 
@@ -191,11 +196,6 @@
 
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
 * re add an undefined behavior sanitizer ([#81315](https://github.com/CleverRaven/Cataclysm-DDA/pull/81315))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-17-1801 ([005ff44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-17-1801))
-
 * Fix chambers in bionics rooms can't be opened ([#81319](https://github.com/CleverRaven/Cataclysm-DDA/pull/81319))
 * Weekly Changelog 2025-06-09 to 2025-06-16 ([#81301](https://github.com/CleverRaven/Cataclysm-DDA/pull/81301))
 * stop repeating trashcan contents ([#81317](https://github.com/CleverRaven/Cataclysm-DDA/pull/81317))

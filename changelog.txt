@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-23-0411 (63ea27b)
 * Adds a vertical omt stack scope for mapgen parameters (#81296)
 * Remove toggling skill training on/off (#81381)
 
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2025-06-18-1344 (d86f087)
 Cataclysm-DDA experimental build 2025-06-18-0536 (47e044f)
 * don't spawn trash bags on park benches (#81324)
 * re add an undefined behavior sanitizer (#81315)
-
-Cataclysm-DDA experimental build 2025-06-17-1801 (005ff44)
 * Fix chambers in bionics rooms can't be opened (#81319)
 * Weekly Changelog 2025-06-09 to 2025-06-16 (#81301)
 * stop repeating trashcan contents (#81317)
