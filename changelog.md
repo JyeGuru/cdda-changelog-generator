@@ -1,3 +1,5 @@
+* Add poutine  ([#81404](https://github.com/CleverRaven/Cataclysm-DDA/pull/81404))
+* use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
 
 ---
 
@@ -228,8 +230,6 @@
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message ([#81258](https://github.com/CleverRaven/Cataclysm-DDA/pull/81258))
 * Weight enchantment ([#81232](https://github.com/CleverRaven/Cataclysm-DDA/pull/81232))
 * Add Whip Proficiencies and Practice Recipe ([#81238](https://github.com/CleverRaven/Cataclysm-DDA/pull/81238))
-* Describe stat level in new character window ([#81231](https://github.com/CleverRaven/Cataclysm-DDA/pull/81231))
 * [Bombastic Perks] Limit metamagic perks to Magiclysm ([#81247](https://github.com/CleverRaven/Cataclysm-DDA/pull/81247))
 * Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
-* [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))
