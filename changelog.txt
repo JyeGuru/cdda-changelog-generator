@@ -1,3 +1,4 @@
+* Fix special attack cooldowns (#81406)
 * Adjust sledgehammer throwing damage (#81351)
 * Nerf default thrown damage (#81372)
 
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-06-18-1344 (d86f087)
 * Add Whip Proficiencies and Practice Recipe (#81238)
 * [Bombastic Perks] Limit metamagic perks to Magiclysm (#81247)
 * Backport CI changes for 0.H (#81239)
-* Update windows workflows to newer image (#81237)
