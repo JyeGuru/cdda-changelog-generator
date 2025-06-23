@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-23-0635 (c2a6ff6)
 * Add poutine  (#81404)
 * use new metal trash SUS group in scrapyard (#81410)
 

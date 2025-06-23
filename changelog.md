@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-23-0635 ([c2a6ff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-0635))
+
 * Add poutine  ([#81404](https://github.com/CleverRaven/Cataclysm-DDA/pull/81404))
 * use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
 
