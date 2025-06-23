@@ -1,3 +1,10 @@
+* Adds a vertical omt stack scope for mapgen parameters ([#81296](https://github.com/CleverRaven/Cataclysm-DDA/pull/81296))
+* Remove toggling skill training on/off ([#81381](https://github.com/CleverRaven/Cataclysm-DDA/pull/81381))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-23-0139 ([ef279e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-0139))
+
 * Separate out recipe_food.json into several files ([#81334](https://github.com/CleverRaven/Cataclysm-DDA/pull/81334))
 * [MoM] Fix Teleportation Damage failing to teleport the target ([#81392](https://github.com/CleverRaven/Cataclysm-DDA/pull/81392))
 
@@ -193,11 +200,6 @@
 * Weekly Changelog 2025-06-09 to 2025-06-16 ([#81301](https://github.com/CleverRaven/Cataclysm-DDA/pull/81301))
 * stop repeating trashcan contents ([#81317](https://github.com/CleverRaven/Cataclysm-DDA/pull/81317))
 * adds replace long and short staff on weapons ([#81302](https://github.com/CleverRaven/Cataclysm-DDA/pull/81302))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-17-1539 ([650d8ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-17-1539))
-
 * [MoM] Require Basic Concentration before Expert  ([#81314](https://github.com/CleverRaven/Cataclysm-DDA/pull/81314))
 * [Xedra Evolved] Paraclesian weight adjustments ([#81307](https://github.com/CleverRaven/Cataclysm-DDA/pull/81307))
 * Fix cropped animal hoodies names ([#81308](https://github.com/CleverRaven/Cataclysm-DDA/pull/81308))
@@ -218,7 +220,6 @@
 * Bulk overmap testing debug tools ([#81264](https://github.com/CleverRaven/Cataclysm-DDA/pull/81264))
 * Attempt to increase average autotravel speed when driving on straight roads ([#81248](https://github.com/CleverRaven/Cataclysm-DDA/pull/81248))
 * Mark season scaling options as hidden ([#81245](https://github.com/CleverRaven/Cataclysm-DDA/pull/81245))
-* Update npctalk.cpp for blindness ([#81228](https://github.com/CleverRaven/Cataclysm-DDA/pull/81228))
 * [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
 * Ar copy fix ([#81253](https://github.com/CleverRaven/Cataclysm-DDA/pull/81253))
 * Aftershock: More tools are available in exoplanet ([#81259](https://github.com/CleverRaven/Cataclysm-DDA/pull/81259))
@@ -230,6 +231,5 @@
 * Describe stat level in new character window ([#81231](https://github.com/CleverRaven/Cataclysm-DDA/pull/81231))
 * [Bombastic Perks] Limit metamagic perks to Magiclysm ([#81247](https://github.com/CleverRaven/Cataclysm-DDA/pull/81247))
 * Backport CI changes for 0.H ([#81239](https://github.com/CleverRaven/Cataclysm-DDA/pull/81239))
-* spawn batteries in boxes ([#81229](https://github.com/CleverRaven/Cataclysm-DDA/pull/81229))
 * Update windows workflows to newer image ([#81237](https://github.com/CleverRaven/Cataclysm-DDA/pull/81237))
 * [ Magiclysm ]  Remove radiogenic from Manatouched ([#81230](https://github.com/CleverRaven/Cataclysm-DDA/pull/81230))
