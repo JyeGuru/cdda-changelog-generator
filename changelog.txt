@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-23-1933 (124843a)
 * Fix special attack cooldowns (#81406)
 * Adjust sledgehammer throwing damage (#81351)
 * Nerf default thrown damage (#81372)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2025-06-18-1908 (7426d5a)
 
 Cataclysm-DDA experimental build 2025-06-18-1645 (da555be)
 * Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible (#81332)
-
-Cataclysm-DDA experimental build 2025-06-18-1344 (d86f087)
 * Nests hoodie recipes and add animal hoodies crafting recipes (#81320)
 * don't spawn trash bags on park benches (#81324)
 * re add an undefined behavior sanitizer (#81315)

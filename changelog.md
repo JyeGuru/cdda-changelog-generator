@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-23-1933 ([124843a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-1933))
+
 * Fix special attack cooldowns ([#81406](https://github.com/CleverRaven/Cataclysm-DDA/pull/81406))
 * Adjust sledgehammer throwing damage ([#81351](https://github.com/CleverRaven/Cataclysm-DDA/pull/81351))
 * Nerf default thrown damage ([#81372](https://github.com/CleverRaven/Cataclysm-DDA/pull/81372))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-06-18-1645 ([da555be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-1645))
 
 * Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible ([#81332](https://github.com/CleverRaven/Cataclysm-DDA/pull/81332))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-18-1344 ([d86f087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-18-1344))
-
 * Nests hoodie recipes and add animal hoodies crafting recipes ([#81320](https://github.com/CleverRaven/Cataclysm-DDA/pull/81320))
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
 * re add an undefined behavior sanitizer ([#81315](https://github.com/CleverRaven/Cataclysm-DDA/pull/81315))
