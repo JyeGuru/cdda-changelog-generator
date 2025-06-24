@@ -1,3 +1,6 @@
+* use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))
+* [CR] Game warns when item group copy-froms nonexistent parent ([#81341](https://github.com/CleverRaven/Cataclysm-DDA/pull/81341))
+* Monsters can be forced to flee through an EoC ([#81428](https://github.com/CleverRaven/Cataclysm-DDA/pull/81428))
 
 ---
 
@@ -240,6 +243,3 @@
 * Fix failed test empty message spam ([#81279](https://github.com/CleverRaven/Cataclysm-DDA/pull/81279))
 * Routine i18n updates on 14 June 2025 ([#81276](https://github.com/CleverRaven/Cataclysm-DDA/pull/81276))
 * Bulk overmap testing debug tools ([#81264](https://github.com/CleverRaven/Cataclysm-DDA/pull/81264))
-* [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
-* Aftershock: More tools are available in exoplanet ([#81259](https://github.com/CleverRaven/Cataclysm-DDA/pull/81259))
-* Replace mention of transfusion with saline infusion in severe hypovolemic shock message ([#81258](https://github.com/CleverRaven/Cataclysm-DDA/pull/81258))

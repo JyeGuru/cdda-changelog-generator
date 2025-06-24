@@ -1,3 +1,6 @@
+* use SUS trashcan public in the mall (#81421)
+* [CR] Game warns when item group copy-froms nonexistent parent (#81341)
+* Monsters can be forced to flee through an EoC (#81428)
 
 Cataclysm-DDA experimental build 2025-06-24-1229 (e3dbbc0)
 * [XEDRA] Fully gate Chronomancy insight menu against difficulty adjustments (#81415)
@@ -150,6 +153,3 @@ Cataclysm-DDA experimental build 2025-06-19-1332 (a3ca880)
 * Fix failed test empty message spam (#81279)
 * Routine i18n updates on 14 June 2025 (#81276)
 * Bulk overmap testing debug tools (#81264)
-* [MoM] Add small chance of noetic resonance detector to doctor's office (#81263)
-* Aftershock: More tools are available in exoplanet (#81259)
-* Replace mention of transfusion with saline infusion in severe hypovolemic shock message (#81258)
