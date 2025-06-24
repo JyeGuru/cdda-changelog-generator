@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-24-1229 ([e3dbbc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-1229))
+
+* [XEDRA] Fully gate Chronomancy insight menu against difficulty adjustments ([#81415](https://github.com/CleverRaven/Cataclysm-DDA/pull/81415))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-24-0933 ([3e2b9b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-0933))
 
 * eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
@@ -236,5 +242,4 @@
 * Bulk overmap testing debug tools ([#81264](https://github.com/CleverRaven/Cataclysm-DDA/pull/81264))
 * [MoM] Add small chance of noetic resonance detector to doctor's office ([#81263](https://github.com/CleverRaven/Cataclysm-DDA/pull/81263))
 * Aftershock: More tools are available in exoplanet ([#81259](https://github.com/CleverRaven/Cataclysm-DDA/pull/81259))
-* [Bugfixes] Star vampires no longer drain blood when doing no damage ([#81257](https://github.com/CleverRaven/Cataclysm-DDA/pull/81257))
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message ([#81258](https://github.com/CleverRaven/Cataclysm-DDA/pull/81258))

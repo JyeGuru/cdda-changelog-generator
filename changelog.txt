@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-24-1229 (e3dbbc0)
+* [XEDRA] Fully gate Chronomancy insight menu against difficulty adjustments (#81415)
+
 Cataclysm-DDA experimental build 2025-06-24-0933 (3e2b9b0)
 * eliminate bagged trash repeats (#81426)
 
@@ -149,5 +152,4 @@ Cataclysm-DDA experimental build 2025-06-19-1332 (a3ca880)
 * Bulk overmap testing debug tools (#81264)
 * [MoM] Add small chance of noetic resonance detector to doctor's office (#81263)
 * Aftershock: More tools are available in exoplanet (#81259)
-* [Bugfixes] Star vampires no longer drain blood when doing no damage (#81257)
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message (#81258)
