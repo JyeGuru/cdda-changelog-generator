@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-24-0336 ([60ee592](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-0336))
+
 * Explicitly set base zombie grab cooldown to 2 ([#81401](https://github.com/CleverRaven/Cataclysm-DDA/pull/81401))
 
 ---

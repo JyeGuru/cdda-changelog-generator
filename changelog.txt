@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-24-0336 (60ee592)
 * Explicitly set base zombie grab cooldown to 2 (#81401)
 
 Cataclysm-DDA experimental build 2025-06-24-0105 (8d0183b)
