@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-24-0933 ([3e2b9b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-0933))
+
 * eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
 
 ---
@@ -200,11 +205,6 @@
 * [Xedra Evolved] Add missing traits to research EoC ([#81328](https://github.com/CleverRaven/Cataclysm-DDA/pull/81328))
 * fix sourdough starter size ([#81326](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326))
 * Saltworks phaseout ([#81266](https://github.com/CleverRaven/Cataclysm-DDA/pull/81266))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-19-0333 ([245bd6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-0333))
-
 * M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
 * Remove map note if favorite item is picked up ([#81273](https://github.com/CleverRaven/Cataclysm-DDA/pull/81273))
 * Add back door back to butcher shop ([#81323](https://github.com/CleverRaven/Cataclysm-DDA/pull/81323))
