@@ -1,3 +1,7 @@
+* eliminate bagged trash repeats (#81426)
+
+Cataclysm-DDA experimental build 2025-06-24-0706 (ba24885)
+* add missing trashcans in strip mall (#81430)
 
 Cataclysm-DDA experimental build 2025-06-24-0336 (60ee592)
 * Explicitly set base zombie grab cooldown to 2 (#81401)
@@ -115,8 +119,6 @@ Cataclysm-DDA experimental build 2025-06-19-1332 (a3ca880)
 
 Cataclysm-DDA experimental build 2025-06-19-0333 (245bd6d)
 * M110A1 can attach its own stock (#81340)
-
-Cataclysm-DDA experimental build 2025-06-19-0044 (34540d0)
 * Remove map note if favorite item is picked up (#81273)
 * Add back door back to butcher shop (#81323)
 * Ensure ranged weapons with NEVER_JAMS never jam (#81337)
@@ -146,8 +148,6 @@ Cataclysm-DDA experimental build 2025-06-19-0044 (34540d0)
 * Routine i18n updates on 14 June 2025 (#81276)
 * Bulk overmap testing debug tools (#81264)
 * [MoM] Add small chance of noetic resonance detector to doctor's office (#81263)
-* Ar copy fix (#81253)
 * Aftershock: More tools are available in exoplanet (#81259)
 * [Bugfixes] Star vampires no longer drain blood when doing no damage (#81257)
-* [MoM] Fix visitor pass revealing roads (#81255)
 * Replace mention of transfusion with saline infusion in severe hypovolemic shock message (#81258)
