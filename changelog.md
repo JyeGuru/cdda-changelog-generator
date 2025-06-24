@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-24-2337 ([23fb998](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-2337))
+
+* The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-24-1456 ([0aa7cf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-1456))
 
 * use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))
@@ -198,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-06-19-2029 ([651645a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-2029))
 
 * Obsolete killer drive ([#81329](https://github.com/CleverRaven/Cataclysm-DDA/pull/81329))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-19-1602 ([c1ff1fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-1602))
-
 * [MoM] Replace textbooks_school with manuals_school ([#81342](https://github.com/CleverRaven/Cataclysm-DDA/pull/81342))
 * [MoM] Remove prereq for Psychic Vampire trait ([#81345](https://github.com/CleverRaven/Cataclysm-DDA/pull/81345))
 * No gas zombies ([#81346](https://github.com/CleverRaven/Cataclysm-DDA/pull/81346))
@@ -242,4 +243,3 @@
 * house_w_4 fix ([#81271](https://github.com/CleverRaven/Cataclysm-DDA/pull/81271))
 * Fix failed test empty message spam ([#81279](https://github.com/CleverRaven/Cataclysm-DDA/pull/81279))
 * Routine i18n updates on 14 June 2025 ([#81276](https://github.com/CleverRaven/Cataclysm-DDA/pull/81276))
-* Bulk overmap testing debug tools ([#81264](https://github.com/CleverRaven/Cataclysm-DDA/pull/81264))

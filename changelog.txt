@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-24-2337 (23fb998)
+* The military base has barbed wire instead of minefields (#81438)
+
 Cataclysm-DDA experimental build 2025-06-24-1456 (0aa7cf4)
 * use SUS trashcan public in the mall (#81421)
 * [CR] Game warns when item group copy-froms nonexistent parent (#81341)
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2025-06-19-2338 (7a3a2bc)
 
 Cataclysm-DDA experimental build 2025-06-19-2029 (651645a)
 * Obsolete killer drive (#81329)
-
-Cataclysm-DDA experimental build 2025-06-19-1602 (c1ff1fa)
 * [MoM] Replace textbooks_school with manuals_school (#81342)
 * [MoM] Remove prereq for Psychic Vampire trait (#81345)
 * No gas zombies (#81346)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2025-06-19-1602 (c1ff1fa)
 * house_w_4 fix (#81271)
 * Fix failed test empty message spam (#81279)
 * Routine i18n updates on 14 June 2025 (#81276)
-* Bulk overmap testing debug tools (#81264)
