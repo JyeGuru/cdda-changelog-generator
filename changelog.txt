@@ -1,3 +1,4 @@
+* Explicitly set base zombie grab cooldown to 2 (#81401)
 
 Cataclysm-DDA experimental build 2025-06-24-0105 (8d0183b)
 * [XE] Mentor tweaks (#81400)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2025-06-19-0044 (34540d0)
 * Fix failed test empty message spam (#81279)
 * Routine i18n updates on 14 June 2025 (#81276)
 * Bulk overmap testing debug tools (#81264)
-* Attempt to increase average autotravel speed when driving on straight roads (#81248)
 * [MoM] Add small chance of noetic resonance detector to doctor's office (#81263)
 * Ar copy fix (#81253)
 * Aftershock: More tools are available in exoplanet (#81259)
