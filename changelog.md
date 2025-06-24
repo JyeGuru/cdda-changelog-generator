@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-24-1456 ([0aa7cf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-1456))
+
 * use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))
 * [CR] Game warns when item group copy-froms nonexistent parent ([#81341](https://github.com/CleverRaven/Cataclysm-DDA/pull/81341))
 * Monsters can be forced to flee through an EoC ([#81428](https://github.com/CleverRaven/Cataclysm-DDA/pull/81428))
@@ -203,11 +208,6 @@
 * No gas zombies ([#81346](https://github.com/CleverRaven/Cataclysm-DDA/pull/81346))
 * Fix IWYU ([#81349](https://github.com/CleverRaven/Cataclysm-DDA/pull/81349))
 * Melee weapons galore ([#81343](https://github.com/CleverRaven/Cataclysm-DDA/pull/81343))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-19-1332 ([a3ca880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-1332))
-
 * Unarmed extra spawns ([#81339](https://github.com/CleverRaven/Cataclysm-DDA/pull/81339))
 * Firearm primer making audit ([#81299](https://github.com/CleverRaven/Cataclysm-DDA/pull/81299))
 * [MoM] Add dust requirement to Teleportation power recipes that are missing it ([#81327](https://github.com/CleverRaven/Cataclysm-DDA/pull/81327))

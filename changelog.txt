@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-24-1456 (0aa7cf4)
 * use SUS trashcan public in the mall (#81421)
 * [CR] Game warns when item group copy-froms nonexistent parent (#81341)
 * Monsters can be forced to flee through an EoC (#81428)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2025-06-19-1602 (c1ff1fa)
 * No gas zombies (#81346)
 * Fix IWYU (#81349)
 * Melee weapons galore (#81343)
-
-Cataclysm-DDA experimental build 2025-06-19-1332 (a3ca880)
 * Unarmed extra spawns (#81339)
 * Firearm primer making audit (#81299)
 * [MoM] Add dust requirement to Teleportation power recipes that are missing it (#81327)
