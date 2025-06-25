@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-25-1815 (39fc5b2)
+* rename "cooked creep" to "cooked human" (#81434)
+
 Cataclysm-DDA experimental build 2025-06-25-0354 (f548108)
 * Add a notice when in weather mode (#81435)
 
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2025-06-20-0418 (55bdae6)
 
 Cataclysm-DDA experimental build 2025-06-20-0154 (37f57f1)
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale (#81357)
-
-Cataclysm-DDA experimental build 2025-06-19-2338 (7a3a2bc)
 * Remove the minefield map extra (#81331)
 * Obsolete killer drive (#81329)
 * [MoM] Replace textbooks_school with manuals_school (#81342)

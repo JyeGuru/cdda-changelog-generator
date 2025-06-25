@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-25-1815 ([39fc5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-25-1815))
+
+* rename "cooked creep" to "cooked human" ([#81434](https://github.com/CleverRaven/Cataclysm-DDA/pull/81434))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-25-0354 ([f548108](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-25-0354))
 
 * Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
@@ -198,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-06-20-0154 ([37f57f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-0154))
 
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale ([#81357](https://github.com/CleverRaven/Cataclysm-DDA/pull/81357))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-19-2338 ([7a3a2bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-2338))
-
 * Remove the minefield map extra ([#81331](https://github.com/CleverRaven/Cataclysm-DDA/pull/81331))
 * Obsolete killer drive ([#81329](https://github.com/CleverRaven/Cataclysm-DDA/pull/81329))
 * [MoM] Replace textbooks_school with manuals_school ([#81342](https://github.com/CleverRaven/Cataclysm-DDA/pull/81342))
