@@ -1,3 +1,4 @@
+* Fix workflow title string used to allow basic build to run on draft PRs (#81444)
 
 Cataclysm-DDA experimental build 2025-06-25-1815 (39fc5b2)
 * rename "cooked creep" to "cooked human" (#81434)
@@ -71,7 +72,6 @@ Cataclysm-DDA experimental build 2025-06-22-0108 (5b8effa)
 * New vampire weakness: Barred from mortal joys (#81360)
 * [Xedra Evolved] Add `The Blood is the Life` dhampir power (#81356)
 * CrazyCata immortal snail nemesis (#81292)
-* Whips update for Magiclysm and Xedra Evolved (#81269)
 
 Cataclysm-DDA experimental build 2025-06-21-2244 (15fb29e)
 * [MoM] Move power failure equation to JSON (#81369)

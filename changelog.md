@@ -1,3 +1,4 @@
+* Fix workflow title string used to allow basic build to run on draft PRs ([#81444](https://github.com/CleverRaven/Cataclysm-DDA/pull/81444))
 
 ---
 
@@ -125,7 +126,6 @@
 * New vampire weakness: Barred from mortal joys ([#81360](https://github.com/CleverRaven/Cataclysm-DDA/pull/81360))
 * [Xedra Evolved] Add `The Blood is the Life` dhampir power ([#81356](https://github.com/CleverRaven/Cataclysm-DDA/pull/81356))
 * CrazyCata immortal snail nemesis ([#81292](https://github.com/CleverRaven/Cataclysm-DDA/pull/81292))
-* Whips update for Magiclysm and Xedra Evolved ([#81269](https://github.com/CleverRaven/Cataclysm-DDA/pull/81269))
 
 ---
 
