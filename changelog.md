@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-25-0354 ([f548108](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-25-0354))
+
+* Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-24-2337 ([23fb998](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-2337))
 
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
@@ -198,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-06-19-2338 ([7a3a2bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-2338))
 
 * Remove the minefield map extra ([#81331](https://github.com/CleverRaven/Cataclysm-DDA/pull/81331))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-19-2029 ([651645a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-19-2029))
-
 * Obsolete killer drive ([#81329](https://github.com/CleverRaven/Cataclysm-DDA/pull/81329))
 * [MoM] Replace textbooks_school with manuals_school ([#81342](https://github.com/CleverRaven/Cataclysm-DDA/pull/81342))
 * [MoM] Remove prereq for Psychic Vampire trait ([#81345](https://github.com/CleverRaven/Cataclysm-DDA/pull/81345))
@@ -214,7 +215,6 @@
 * [MoM] Add dust requirement to Teleportation power recipes that are missing it ([#81327](https://github.com/CleverRaven/Cataclysm-DDA/pull/81327))
 * [Xedra Evolved] Add missing traits to research EoC ([#81328](https://github.com/CleverRaven/Cataclysm-DDA/pull/81328))
 * fix sourdough starter size ([#81326](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326))
-* Saltworks phaseout ([#81266](https://github.com/CleverRaven/Cataclysm-DDA/pull/81266))
 * M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
 * Remove map note if favorite item is picked up ([#81273](https://github.com/CleverRaven/Cataclysm-DDA/pull/81273))
 * Add back door back to butcher shop ([#81323](https://github.com/CleverRaven/Cataclysm-DDA/pull/81323))
