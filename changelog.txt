@@ -23,7 +23,7 @@ Cataclysm-DDA experimental build 2025-06-26-0354 (86dc180)
 * Fix workflow title string used to allow basic build to run on draft PRs (#81444)
 
 Cataclysm-DDA experimental build 2025-06-25-1815 (39fc5b2)
-* rename "cooked creep" to "cooked human" (#81434)
+* adjust cannibal descriptions to be less subjective (#81434)
 
 Cataclysm-DDA experimental build 2025-06-25-0354 (f548108)
 * Add a notice when in weather mode (#81435)

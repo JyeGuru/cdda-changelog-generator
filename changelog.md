@@ -35,7 +35,7 @@
 
 #### Cataclysm-DDA experimental build 2025-06-25-1815 ([39fc5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-25-1815))
 
-* rename "cooked creep" to "cooked human" ([#81434](https://github.com/CleverRaven/Cataclysm-DDA/pull/81434))
+* adjust cannibal descriptions to be less subjective ([#81434](https://github.com/CleverRaven/Cataclysm-DDA/pull/81434))
 
 ---
 
