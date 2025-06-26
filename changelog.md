@@ -1,3 +1,6 @@
+* Fix endless loop on mutation with low primer vitamin ([#81424](https://github.com/CleverRaven/Cataclysm-DDA/pull/81424))
+* Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
+* Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
 
 ---
 
@@ -239,8 +242,6 @@
 * Fix cropped animal hoodies names ([#81308](https://github.com/CleverRaven/Cataclysm-DDA/pull/81308))
 * [Xedra Evolved] Fix dhampirs drawing their own blood ([#81316](https://github.com/CleverRaven/Cataclysm-DDA/pull/81316))
 * Fix imgui compilation ([#81295](https://github.com/CleverRaven/Cataclysm-DDA/pull/81295))
-* Fix zone unload test failure ([#81282](https://github.com/CleverRaven/Cataclysm-DDA/pull/81282))
-* [XEDRA Evolved] Government Buying Your Deceased Loved One's 'Dreams' Without Your Consent! More at Page 4 ([#81291](https://github.com/CleverRaven/Cataclysm-DDA/pull/81291))
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
 * Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
