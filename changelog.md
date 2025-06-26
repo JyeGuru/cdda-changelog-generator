@@ -1,3 +1,9 @@
+* Typo's reported in transifex ([#81363](https://github.com/CleverRaven/Cataclysm-DDA/pull/81363))
+* [MoM/Bombastic Perks] Update Clear-minded Channeling perk ([#81411](https://github.com/CleverRaven/Cataclysm-DDA/pull/81411))
+* [Magiclysm] Add Repulsion Wave magus spell ([#81395](https://github.com/CleverRaven/Cataclysm-DDA/pull/81395))
+* Aftershock: Industrial Ruins ([#81396](https://github.com/CleverRaven/Cataclysm-DDA/pull/81396))
+* [MoM] Make Torrential Channeling even stronger and even more dangerous ([#81402](https://github.com/CleverRaven/Cataclysm-DDA/pull/81402))
+* Fix lack of gaining power xp ([#81419](https://github.com/CleverRaven/Cataclysm-DDA/pull/81419))
 * Fix endless loop on mutation with low primer vitamin ([#81424](https://github.com/CleverRaven/Cataclysm-DDA/pull/81424))
 * Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
@@ -109,12 +115,6 @@
 
 * Add poutine  ([#81404](https://github.com/CleverRaven/Cataclysm-DDA/pull/81404))
 * use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-23-0411 ([63ea27b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-0411))
-
-* Adds a vertical omt stack scope for mapgen parameters ([#81296](https://github.com/CleverRaven/Cataclysm-DDA/pull/81296))
 * Remove toggling skill training on/off ([#81381](https://github.com/CleverRaven/Cataclysm-DDA/pull/81381))
 
 ---
@@ -150,7 +150,6 @@
 * Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
 * New vampire weakness: Barred from mortal joys ([#81360](https://github.com/CleverRaven/Cataclysm-DDA/pull/81360))
 * [Xedra Evolved] Add `The Blood is the Life` dhampir power ([#81356](https://github.com/CleverRaven/Cataclysm-DDA/pull/81356))
-* CrazyCata immortal snail nemesis ([#81292](https://github.com/CleverRaven/Cataclysm-DDA/pull/81292))
 
 ---
 
@@ -241,7 +240,3 @@
 * [Xedra Evolved] Paraclesian weight adjustments ([#81307](https://github.com/CleverRaven/Cataclysm-DDA/pull/81307))
 * Fix cropped animal hoodies names ([#81308](https://github.com/CleverRaven/Cataclysm-DDA/pull/81308))
 * [Xedra Evolved] Fix dhampirs drawing their own blood ([#81316](https://github.com/CleverRaven/Cataclysm-DDA/pull/81316))
-* Fix imgui compilation ([#81295](https://github.com/CleverRaven/Cataclysm-DDA/pull/81295))
-* remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
-* Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
-* Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
