@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-06-26-0649 (2d1c62a)
+* [MoM] Add extremely rare setpiece with dead Texopapalotl crew member (#81425)
 * Priotize Sapiovore trait and its friends when consuming human flesh (#81442)
 * Don't show hostile NPCs on overmap (#81433)
 * Recipe for protein smoothie with powdered milk  (#81437)
@@ -113,8 +116,6 @@ Cataclysm-DDA experimental build 2025-06-20-1534 (2e0b677)
 
 Cataclysm-DDA experimental build 2025-06-20-0644 (badf3f2)
 * Obsolete mythos mod (#81355)
-
-Cataclysm-DDA experimental build 2025-06-20-0418 (55bdae6)
 * Fix #81333 Negative quench items don't dehydrate you (#81347)
 * Bugfix Debug Menu vitamins off by one (#81348)
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale (#81357)
@@ -151,6 +152,5 @@ Cataclysm-DDA experimental build 2025-06-20-0418 (55bdae6)
 * remove landmines from weird places (#81293)
 * Disable IWYU for third-party source code (#81297)
 * Wax slug audit (#81294)
-* Document ammunition_type (#81274)
 * Fix failed test empty message spam (#81279)
 * Routine i18n updates on 14 June 2025 (#81276)

@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-26-0649 ([2d1c62a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-26-0649))
+
+* [MoM] Add extremely rare setpiece with dead Texopapalotl crew member ([#81425](https://github.com/CleverRaven/Cataclysm-DDA/pull/81425))
 * Priotize Sapiovore trait and its friends when consuming human flesh ([#81442](https://github.com/CleverRaven/Cataclysm-DDA/pull/81442))
 * Don't show hostile NPCs on overmap ([#81433](https://github.com/CleverRaven/Cataclysm-DDA/pull/81433))
 * Recipe for protein smoothie with powdered milk  ([#81437](https://github.com/CleverRaven/Cataclysm-DDA/pull/81437))
@@ -200,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2025-06-20-0644 ([badf3f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-0644))
 
 * Obsolete mythos mod ([#81355](https://github.com/CleverRaven/Cataclysm-DDA/pull/81355))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-20-0418 ([55bdae6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-0418))
-
 * Fix #81333 Negative quench items don't dehydrate you ([#81347](https://github.com/CleverRaven/Cataclysm-DDA/pull/81347))
 * Bugfix Debug Menu vitamins off by one ([#81348](https://github.com/CleverRaven/Cataclysm-DDA/pull/81348))
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale ([#81357](https://github.com/CleverRaven/Cataclysm-DDA/pull/81357))
@@ -241,6 +242,5 @@
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
 * Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
-* Document ammunition_type ([#81274](https://github.com/CleverRaven/Cataclysm-DDA/pull/81274))
 * Fix failed test empty message spam ([#81279](https://github.com/CleverRaven/Cataclysm-DDA/pull/81279))
 * Routine i18n updates on 14 June 2025 ([#81276](https://github.com/CleverRaven/Cataclysm-DDA/pull/81276))
