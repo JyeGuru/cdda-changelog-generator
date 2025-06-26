@@ -1,3 +1,6 @@
+* Priotize Sapiovore trait and its friends when consuming human flesh ([#81442](https://github.com/CleverRaven/Cataclysm-DDA/pull/81442))
+* Don't show hostile NPCs on overmap ([#81433](https://github.com/CleverRaven/Cataclysm-DDA/pull/81433))
+* Recipe for protein smoothie with powdered milk  ([#81437](https://github.com/CleverRaven/Cataclysm-DDA/pull/81437))
 
 ---
 
@@ -218,7 +221,6 @@
 * [Xedra Evolved] Add missing traits to research EoC ([#81328](https://github.com/CleverRaven/Cataclysm-DDA/pull/81328))
 * fix sourdough starter size ([#81326](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326))
 * M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
-* Remove map note if favorite item is picked up ([#81273](https://github.com/CleverRaven/Cataclysm-DDA/pull/81273))
 * Add back door back to butcher shop ([#81323](https://github.com/CleverRaven/Cataclysm-DDA/pull/81323))
 * Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
 * Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible ([#81332](https://github.com/CleverRaven/Cataclysm-DDA/pull/81332))
@@ -239,8 +241,6 @@
 * remove landmines from weird places ([#81293](https://github.com/CleverRaven/Cataclysm-DDA/pull/81293))
 * Disable IWYU for third-party source code ([#81297](https://github.com/CleverRaven/Cataclysm-DDA/pull/81297))
 * Wax slug audit ([#81294](https://github.com/CleverRaven/Cataclysm-DDA/pull/81294))
-* [Magiclysm] Edit fantasy species weights ([#81272](https://github.com/CleverRaven/Cataclysm-DDA/pull/81272))
 * Document ammunition_type ([#81274](https://github.com/CleverRaven/Cataclysm-DDA/pull/81274))
-* house_w_4 fix ([#81271](https://github.com/CleverRaven/Cataclysm-DDA/pull/81271))
 * Fix failed test empty message spam ([#81279](https://github.com/CleverRaven/Cataclysm-DDA/pull/81279))
 * Routine i18n updates on 14 June 2025 ([#81276](https://github.com/CleverRaven/Cataclysm-DDA/pull/81276))
