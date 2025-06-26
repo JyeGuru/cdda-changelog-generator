@@ -216,7 +216,6 @@
 * Fix IWYU ([#81349](https://github.com/CleverRaven/Cataclysm-DDA/pull/81349))
 * Melee weapons galore ([#81343](https://github.com/CleverRaven/Cataclysm-DDA/pull/81343))
 * Unarmed extra spawns ([#81339](https://github.com/CleverRaven/Cataclysm-DDA/pull/81339))
-* Firearm primer making audit ([#81299](https://github.com/CleverRaven/Cataclysm-DDA/pull/81299))
 * [MoM] Add dust requirement to Teleportation power recipes that are missing it ([#81327](https://github.com/CleverRaven/Cataclysm-DDA/pull/81327))
 * [Xedra Evolved] Add missing traits to research EoC ([#81328](https://github.com/CleverRaven/Cataclysm-DDA/pull/81328))
 * fix sourdough starter size ([#81326](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326))
