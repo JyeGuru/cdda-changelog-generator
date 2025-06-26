@@ -1,3 +1,5 @@
+* Add description of special attack selection logic. (#81422)
+* take the trash out of the filing cabinet in the mall (#81449)
 
 Cataclysm-DDA experimental build 2025-06-26-0649 (2d1c62a)
 * [MoM] Add extremely rare setpiece with dead Texopapalotl crew member (#81425)
@@ -152,5 +154,3 @@ Cataclysm-DDA experimental build 2025-06-20-0644 (badf3f2)
 * remove landmines from weird places (#81293)
 * Disable IWYU for third-party source code (#81297)
 * Wax slug audit (#81294)
-* Fix failed test empty message spam (#81279)
-* Routine i18n updates on 14 June 2025 (#81276)
