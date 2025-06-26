@@ -119,8 +119,6 @@ Cataclysm-DDA experimental build 2025-06-20-2240 (95ea3f6)
 
 Cataclysm-DDA experimental build 2025-06-20-1933 (38d30ff)
 * [MoM] Remove space in add effect (#81359)
-
-Cataclysm-DDA experimental build 2025-06-20-1534 (2e0b677)
 * [MoM] Update Wave of Force to use `u_knockback` (#81361)
 * Obsolete mythos mod (#81355)
 * Fix #81333 Negative quench items don't dehydrate you (#81347)

@@ -203,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2025-06-20-1933 ([38d30ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-1933))
 
 * [MoM] Remove space in add effect ([#81359](https://github.com/CleverRaven/Cataclysm-DDA/pull/81359))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-20-1534 ([2e0b677](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-1534))
-
 * [MoM] Update Wave of Force to use `u_knockback` ([#81361](https://github.com/CleverRaven/Cataclysm-DDA/pull/81361))
 * Obsolete mythos mod ([#81355](https://github.com/CleverRaven/Cataclysm-DDA/pull/81355))
 * Fix #81333 Negative quench items don't dehydrate you ([#81347](https://github.com/CleverRaven/Cataclysm-DDA/pull/81347))
