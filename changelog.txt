@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-26-0927 (aa01762)
 * Add description of special attack selection logic. (#81422)
 * take the trash out of the filing cabinet in the mall (#81449)
 
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2025-06-20-1933 (38d30ff)
 
 Cataclysm-DDA experimental build 2025-06-20-1534 (2e0b677)
 * [MoM] Update Wave of Force to use `u_knockback` (#81361)
-
-Cataclysm-DDA experimental build 2025-06-20-0644 (badf3f2)
 * Obsolete mythos mod (#81355)
 * Fix #81333 Negative quench items don't dehydrate you (#81347)
 * Bugfix Debug Menu vitamins off by one (#81348)

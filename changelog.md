@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-26-0927 ([aa01762](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-26-0927))
+
 * Add description of special attack selection logic. ([#81422](https://github.com/CleverRaven/Cataclysm-DDA/pull/81422))
 * take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))
 
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2025-06-20-1534 ([2e0b677](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-1534))
 
 * [MoM] Update Wave of Force to use `u_knockback` ([#81361](https://github.com/CleverRaven/Cataclysm-DDA/pull/81361))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-20-0644 ([badf3f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-0644))
-
 * Obsolete mythos mod ([#81355](https://github.com/CleverRaven/Cataclysm-DDA/pull/81355))
 * Fix #81333 Negative quench items don't dehydrate you ([#81347](https://github.com/CleverRaven/Cataclysm-DDA/pull/81347))
 * Bugfix Debug Menu vitamins off by one ([#81348](https://github.com/CleverRaven/Cataclysm-DDA/pull/81348))
