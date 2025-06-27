@@ -1,3 +1,11 @@
+* You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
+* Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-27-0603 ([bd7fa2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-0603))
+
+* [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
 * Typo's reported in transifex ([#81363](https://github.com/CleverRaven/Cataclysm-DDA/pull/81363))
 * [MoM/Bombastic Perks] Update Clear-minded Channeling perk ([#81411](https://github.com/CleverRaven/Cataclysm-DDA/pull/81411))
 * [Magiclysm] Add Repulsion Wave magus spell ([#81395](https://github.com/CleverRaven/Cataclysm-DDA/pull/81395))
@@ -197,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-06-20-2240 ([95ea3f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-2240))
 
 * [XE] Add a new rare waterborne disease. ([#81335](https://github.com/CleverRaven/Cataclysm-DDA/pull/81335))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-20-1933 ([38d30ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-1933))
-
 * [MoM] Remove space in add effect ([#81359](https://github.com/CleverRaven/Cataclysm-DDA/pull/81359))
 * [MoM] Update Wave of Force to use `u_knockback` ([#81361](https://github.com/CleverRaven/Cataclysm-DDA/pull/81361))
 * Obsolete mythos mod ([#81355](https://github.com/CleverRaven/Cataclysm-DDA/pull/81355))
@@ -227,10 +230,6 @@
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
 * re add an undefined behavior sanitizer ([#81315](https://github.com/CleverRaven/Cataclysm-DDA/pull/81315))
 * Fix chambers in bionics rooms can't be opened ([#81319](https://github.com/CleverRaven/Cataclysm-DDA/pull/81319))
-* Weekly Changelog 2025-06-09 to 2025-06-16 ([#81301](https://github.com/CleverRaven/Cataclysm-DDA/pull/81301))
 * stop repeating trashcan contents ([#81317](https://github.com/CleverRaven/Cataclysm-DDA/pull/81317))
-* adds replace long and short staff on weapons ([#81302](https://github.com/CleverRaven/Cataclysm-DDA/pull/81302))
 * [MoM] Require Basic Concentration before Expert  ([#81314](https://github.com/CleverRaven/Cataclysm-DDA/pull/81314))
-* [Xedra Evolved] Paraclesian weight adjustments ([#81307](https://github.com/CleverRaven/Cataclysm-DDA/pull/81307))
-* Fix cropped animal hoodies names ([#81308](https://github.com/CleverRaven/Cataclysm-DDA/pull/81308))
 * [Xedra Evolved] Fix dhampirs drawing their own blood ([#81316](https://github.com/CleverRaven/Cataclysm-DDA/pull/81316))
