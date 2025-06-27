@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-27-0842 ([6e9ee32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-0842))
+
 * [Magiclysm/MoM] Fix supernatural welding ([#81468](https://github.com/CleverRaven/Cataclysm-DDA/pull/81468))
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-06-21-0430 ([98f2508](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-0430))
 
 * Routine i18n updates on 21 June 2025 ([#81376](https://github.com/CleverRaven/Cataclysm-DDA/pull/81376))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-20-2240 ([95ea3f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-20-2240))
-
 * [XE] Add a new rare waterborne disease. ([#81335](https://github.com/CleverRaven/Cataclysm-DDA/pull/81335))
 * [MoM] Remove space in add effect ([#81359](https://github.com/CleverRaven/Cataclysm-DDA/pull/81359))
 * [MoM] Update Wave of Force to use `u_knockback` ([#81361](https://github.com/CleverRaven/Cataclysm-DDA/pull/81361))

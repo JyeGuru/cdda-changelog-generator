@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-27-0842 (6e9ee32)
 * [Magiclysm/MoM] Fix supernatural welding (#81468)
 * You can deconstruct and place bean bags (#81462)
 * Add Bayonet Lug to Mossberg 590A1 (#81463)
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2025-06-21-0932 (51ebac5)
 
 Cataclysm-DDA experimental build 2025-06-21-0430 (98f2508)
 * Routine i18n updates on 21 June 2025 (#81376)
-
-Cataclysm-DDA experimental build 2025-06-20-2240 (95ea3f6)
 * [XE] Add a new rare waterborne disease. (#81335)
 * [MoM] Remove space in add effect (#81359)
 * [MoM] Update Wave of Force to use `u_knockback` (#81361)
