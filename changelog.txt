@@ -1,3 +1,5 @@
+* Fix compressed overmap bootstrap disk state handling (#81475)
+* [Magiclysm] Rework attunement requirements (#81459)
 * Fix MOTION_ALARM triggering when you ride a critter (#81478)
 
 Cataclysm-DDA experimental build 2025-06-27-1604 (cef0e65)
@@ -147,5 +149,3 @@ Cataclysm-DDA experimental build 2025-06-21-0932 (51ebac5)
 * Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible (#81332)
 * Nests hoodie recipes and add animal hoodies crafting recipes (#81320)
 * don't spawn trash bags on park benches (#81324)
-* Fix chambers in bionics rooms can't be opened (#81319)
-* stop repeating trashcan contents (#81317)
