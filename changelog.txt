@@ -1,3 +1,4 @@
+* [Magiclysm/MoM] Fix supernatural welding (#81468)
 * You can deconstruct and place bean bags (#81462)
 * Add Bayonet Lug to Mossberg 590A1 (#81463)
 
