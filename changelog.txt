@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-27-1604 (cef0e65)
+* Use approximate city distances for special placement (#81476)
+
 Cataclysm-DDA experimental build 2025-06-27-0842 (6e9ee32)
 * [Magiclysm/MoM] Fix supernatural welding (#81468)
 * You can deconstruct and place bean bags (#81462)
@@ -118,8 +121,6 @@ Cataclysm-DDA experimental build 2025-06-21-1207 (ac845cb)
 
 Cataclysm-DDA experimental build 2025-06-21-0932 (51ebac5)
 * Remove cannibal's last consumption bonus (#81379)
-
-Cataclysm-DDA experimental build 2025-06-21-0430 (98f2508)
 * Routine i18n updates on 21 June 2025 (#81376)
 * [XE] Add a new rare waterborne disease. (#81335)
 * [MoM] Remove space in add effect (#81359)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2025-06-21-0430 (98f2508)
 * re add an undefined behavior sanitizer (#81315)
 * Fix chambers in bionics rooms can't be opened (#81319)
 * stop repeating trashcan contents (#81317)
-* [MoM] Require Basic Concentration before Expert  (#81314)
 * [Xedra Evolved] Fix dhampirs drawing their own blood (#81316)

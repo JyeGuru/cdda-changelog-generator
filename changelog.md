@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-27-1604 ([cef0e65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-1604))
+
+* Use approximate city distances for special placement ([#81476](https://github.com/CleverRaven/Cataclysm-DDA/pull/81476))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-27-0842 ([6e9ee32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-0842))
 
 * [Magiclysm/MoM] Fix supernatural welding ([#81468](https://github.com/CleverRaven/Cataclysm-DDA/pull/81468))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-06-21-0932 ([51ebac5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-0932))
 
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-21-0430 ([98f2508](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-0430))
-
 * Routine i18n updates on 21 June 2025 ([#81376](https://github.com/CleverRaven/Cataclysm-DDA/pull/81376))
 * [XE] Add a new rare waterborne disease. ([#81335](https://github.com/CleverRaven/Cataclysm-DDA/pull/81335))
 * [MoM] Remove space in add effect ([#81359](https://github.com/CleverRaven/Cataclysm-DDA/pull/81359))
@@ -232,5 +233,4 @@
 * re add an undefined behavior sanitizer ([#81315](https://github.com/CleverRaven/Cataclysm-DDA/pull/81315))
 * Fix chambers in bionics rooms can't be opened ([#81319](https://github.com/CleverRaven/Cataclysm-DDA/pull/81319))
 * stop repeating trashcan contents ([#81317](https://github.com/CleverRaven/Cataclysm-DDA/pull/81317))
-* [MoM] Require Basic Concentration before Expert  ([#81314](https://github.com/CleverRaven/Cataclysm-DDA/pull/81314))
 * [Xedra Evolved] Fix dhampirs drawing their own blood ([#81316](https://github.com/CleverRaven/Cataclysm-DDA/pull/81316))
