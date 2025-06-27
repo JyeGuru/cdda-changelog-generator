@@ -1,3 +1,4 @@
+* Fix MOTION_ALARM triggering when you ride a critter ([#81478](https://github.com/CleverRaven/Cataclysm-DDA/pull/81478))
 
 ---
 
@@ -232,4 +233,3 @@
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
 * Fix chambers in bionics rooms can't be opened ([#81319](https://github.com/CleverRaven/Cataclysm-DDA/pull/81319))
 * stop repeating trashcan contents ([#81317](https://github.com/CleverRaven/Cataclysm-DDA/pull/81317))
-* [Xedra Evolved] Fix dhampirs drawing their own blood ([#81316](https://github.com/CleverRaven/Cataclysm-DDA/pull/81316))
