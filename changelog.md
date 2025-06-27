@@ -1,3 +1,10 @@
+* CDDA can now make Julienne Fries  ([#81466](https://github.com/CleverRaven/Cataclysm-DDA/pull/81466))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-27-2317 ([424a425](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-2317))
+
+* Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
 
 ---
 
@@ -201,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2025-06-21-1515 ([7135a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-1515))
 
 * add longest_side for meal tray ([#81377](https://github.com/CleverRaven/Cataclysm-DDA/pull/81377))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-21-1207 ([ac845cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-1207))
-
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
 * Routine i18n updates on 21 June 2025 ([#81376](https://github.com/CleverRaven/Cataclysm-DDA/pull/81376))
@@ -228,8 +230,6 @@
 * [Xedra Evolved] Add missing traits to research EoC ([#81328](https://github.com/CleverRaven/Cataclysm-DDA/pull/81328))
 * fix sourdough starter size ([#81326](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326))
 * M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
-* Add back door back to butcher shop ([#81323](https://github.com/CleverRaven/Cataclysm-DDA/pull/81323))
 * Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
 * Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible ([#81332](https://github.com/CleverRaven/Cataclysm-DDA/pull/81332))
-* Nests hoodie recipes and add animal hoodies crafting recipes ([#81320](https://github.com/CleverRaven/Cataclysm-DDA/pull/81320))
 * don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
