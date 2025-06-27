@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-27-1902 (a51b328)
 * Fix compressed overmap bootstrap disk state handling (#81475)
 * [Magiclysm] Rework attunement requirements (#81459)
 * Fix MOTION_ALARM triggering when you ride a critter (#81478)
@@ -121,8 +123,6 @@ Cataclysm-DDA experimental build 2025-06-21-1515 (7135a3b)
 
 Cataclysm-DDA experimental build 2025-06-21-1207 (ac845cb)
 * Guilt trip murderers for more than 7 minutes (#81380)
-
-Cataclysm-DDA experimental build 2025-06-21-0932 (51ebac5)
 * Remove cannibal's last consumption bonus (#81379)
 * Routine i18n updates on 21 June 2025 (#81376)
 * [XE] Add a new rare waterborne disease. (#81335)
