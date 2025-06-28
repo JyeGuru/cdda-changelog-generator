@@ -1,3 +1,4 @@
+* Remove the Ruger Charger ([#81373](https://github.com/CleverRaven/Cataclysm-DDA/pull/81373))
 
 ---
 
@@ -223,7 +224,6 @@
 * Bugfix Debug Menu vitamins off by one ([#81348](https://github.com/CleverRaven/Cataclysm-DDA/pull/81348))
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale ([#81357](https://github.com/CleverRaven/Cataclysm-DDA/pull/81357))
 * Remove the minefield map extra ([#81331](https://github.com/CleverRaven/Cataclysm-DDA/pull/81331))
-* Obsolete killer drive ([#81329](https://github.com/CleverRaven/Cataclysm-DDA/pull/81329))
 * [MoM] Replace textbooks_school with manuals_school ([#81342](https://github.com/CleverRaven/Cataclysm-DDA/pull/81342))
 * [MoM] Remove prereq for Psychic Vampire trait ([#81345](https://github.com/CleverRaven/Cataclysm-DDA/pull/81345))
 * No gas zombies ([#81346](https://github.com/CleverRaven/Cataclysm-DDA/pull/81346))

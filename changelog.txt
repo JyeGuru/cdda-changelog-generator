@@ -1,3 +1,4 @@
+* Remove the Ruger Charger (#81373)
 
 Cataclysm-DDA experimental build 2025-06-28-0922 (835432a)
 * [Magiclysm] Add feral animists (#81495)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-06-22-0108 (5b8effa)
 * Bugfix Debug Menu vitamins off by one (#81348)
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale (#81357)
 * Remove the minefield map extra (#81331)
-* Obsolete killer drive (#81329)
 * [MoM] Replace textbooks_school with manuals_school (#81342)
 * [MoM] Remove prereq for Psychic Vampire trait (#81345)
 * No gas zombies (#81346)
