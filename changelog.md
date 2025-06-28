@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-28-0145 ([2540150](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0145))
+
 * CDDA can now make Julienne Fries  ([#81466](https://github.com/CleverRaven/Cataclysm-DDA/pull/81466))
 
 ---
@@ -202,11 +207,6 @@
 * Remove XP message when channeling powers/casting spells ([#81374](https://github.com/CleverRaven/Cataclysm-DDA/pull/81374))
 * Aftershock: Welding paste ([#81367](https://github.com/CleverRaven/Cataclysm-DDA/pull/81367))
 * Increase byproduct straw of the recipe of threshed oats without flail. ([#81365](https://github.com/CleverRaven/Cataclysm-DDA/pull/81365))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-21-1515 ([7135a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-1515))
-
 * add longest_side for meal tray ([#81377](https://github.com/CleverRaven/Cataclysm-DDA/pull/81377))
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
