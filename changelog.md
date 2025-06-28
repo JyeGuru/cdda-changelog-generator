@@ -1,3 +1,5 @@
+* [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
+* Helicopters can take off from the military helipad ([#81470](https://github.com/CleverRaven/Cataclysm-DDA/pull/81470))
 * add pulp_or_dismember autopulp option + minor edits ([#81429](https://github.com/CleverRaven/Cataclysm-DDA/pull/81429))
 
 ---
@@ -228,8 +230,6 @@
 * Fix IWYU ([#81349](https://github.com/CleverRaven/Cataclysm-DDA/pull/81349))
 * Melee weapons galore ([#81343](https://github.com/CleverRaven/Cataclysm-DDA/pull/81343))
 * Unarmed extra spawns ([#81339](https://github.com/CleverRaven/Cataclysm-DDA/pull/81339))
-* [MoM] Add dust requirement to Teleportation power recipes that are missing it ([#81327](https://github.com/CleverRaven/Cataclysm-DDA/pull/81327))
-* [Xedra Evolved] Add missing traits to research EoC ([#81328](https://github.com/CleverRaven/Cataclysm-DDA/pull/81328))
 * M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
 * Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
 * Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible ([#81332](https://github.com/CleverRaven/Cataclysm-DDA/pull/81332))
