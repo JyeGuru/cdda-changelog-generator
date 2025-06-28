@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-28-1141 ([237e67f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-1141))
+
 * Remove the Ruger Charger ([#81373](https://github.com/CleverRaven/Cataclysm-DDA/pull/81373))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-06-22-0429 ([fbd1cdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-22-0429))
 
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-22-0108 ([5b8effa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-22-0108))
-
 * Allow swapping hotkeys in magic menu. ([#81370](https://github.com/CleverRaven/Cataclysm-DDA/pull/81370))
 * Fix a way to get locked out of Hub tasks ([#81358](https://github.com/CleverRaven/Cataclysm-DDA/pull/81358))
 * Primerless case audit  ([#81362](https://github.com/CleverRaven/Cataclysm-DDA/pull/81362))
