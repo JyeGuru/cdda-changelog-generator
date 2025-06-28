@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-28-0648 ([d9b2af9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0648))
+
+* Routine i18n updates on 28 June 2025 ([#81500](https://github.com/CleverRaven/Cataclysm-DDA/pull/81500))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-28-0145 ([2540150](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0145))
 
 * CDDA can now make Julienne Fries  ([#81466](https://github.com/CleverRaven/Cataclysm-DDA/pull/81466))
@@ -196,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-06-21-2244 ([15fb29e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-2244))
 
 * [MoM] Move power failure equation to JSON ([#81369](https://github.com/CleverRaven/Cataclysm-DDA/pull/81369))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-21-1745 ([ed8d38d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-1745))
-
 * xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
 * Fix chairs in bandit work camp spawning items ([#81368](https://github.com/CleverRaven/Cataclysm-DDA/pull/81368))
 * Replace old office itemgroup with new SUS groups ([#81371](https://github.com/CleverRaven/Cataclysm-DDA/pull/81371))
@@ -232,4 +233,3 @@
 * M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
 * Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
 * Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible ([#81332](https://github.com/CleverRaven/Cataclysm-DDA/pull/81332))
-* don't spawn trash bags on park benches ([#81324](https://github.com/CleverRaven/Cataclysm-DDA/pull/81324))
