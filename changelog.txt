@@ -1,3 +1,4 @@
+* [MoM] Grounding Meditation scales with metaphysics (#81457)
 
 Cataclysm-DDA experimental build 2025-06-28-1443 (895ec0b)
 * Obsolete Glock 31 (#81455)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2025-06-22-2229 (a0cc486)
 * Guilt trip murderers for more than 7 minutes (#81380)
 * Remove cannibal's last consumption bonus (#81379)
 * Routine i18n updates on 21 June 2025 (#81376)
-* [XE] Add a new rare waterborne disease. (#81335)
 * [MoM] Remove space in add effect (#81359)
 * [MoM] Update Wave of Force to use `u_knockback` (#81361)
 * Obsolete mythos mod (#81355)

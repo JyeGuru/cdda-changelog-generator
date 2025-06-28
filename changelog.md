@@ -1,3 +1,4 @@
+* [MoM] Grounding Meditation scales with metaphysics ([#81457](https://github.com/CleverRaven/Cataclysm-DDA/pull/81457))
 
 ---
 
@@ -213,7 +214,6 @@
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
 * Routine i18n updates on 21 June 2025 ([#81376](https://github.com/CleverRaven/Cataclysm-DDA/pull/81376))
-* [XE] Add a new rare waterborne disease. ([#81335](https://github.com/CleverRaven/Cataclysm-DDA/pull/81335))
 * [MoM] Remove space in add effect ([#81359](https://github.com/CleverRaven/Cataclysm-DDA/pull/81359))
 * [MoM] Update Wave of Force to use `u_knockback` ([#81361](https://github.com/CleverRaven/Cataclysm-DDA/pull/81361))
 * Obsolete mythos mod ([#81355](https://github.com/CleverRaven/Cataclysm-DDA/pull/81355))
