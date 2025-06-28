@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-28-1748 ([1cff63a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-1748))
+
 * [MoM] Grounding Meditation scales with metaphysics ([#81457](https://github.com/CleverRaven/Cataclysm-DDA/pull/81457))
 
 ---
@@ -186,11 +191,6 @@
 * use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
 * Remove toggling skill training on/off ([#81381](https://github.com/CleverRaven/Cataclysm-DDA/pull/81381))
 * [MoM] Fix Teleportation Damage failing to teleport the target ([#81392](https://github.com/CleverRaven/Cataclysm-DDA/pull/81392))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-22-2229 ([a0cc486](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-22-2229))
-
 * [Xedra Evolved] Fix beta talker error from Ring of Champions EoC ([#81390](https://github.com/CleverRaven/Cataclysm-DDA/pull/81390))
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
