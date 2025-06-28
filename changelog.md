@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-28-0922 ([835432a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0922))
+
 * [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
 * Helicopters can take off from the military helipad ([#81470](https://github.com/CleverRaven/Cataclysm-DDA/pull/81470))
 * add pulp_or_dismember autopulp option + minor edits ([#81429](https://github.com/CleverRaven/Cataclysm-DDA/pull/81429))
@@ -199,11 +204,6 @@
 * Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
 * New vampire weakness: Barred from mortal joys ([#81360](https://github.com/CleverRaven/Cataclysm-DDA/pull/81360))
 * [Xedra Evolved] Add `The Blood is the Life` dhampir power ([#81356](https://github.com/CleverRaven/Cataclysm-DDA/pull/81356))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-21-2244 ([15fb29e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-21-2244))
-
 * [MoM] Move power failure equation to JSON ([#81369](https://github.com/CleverRaven/Cataclysm-DDA/pull/81369))
 * xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
 * Fix chairs in bandit work camp spawning items ([#81368](https://github.com/CleverRaven/Cataclysm-DDA/pull/81368))

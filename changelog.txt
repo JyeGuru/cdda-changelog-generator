@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-28-0922 (835432a)
 * [Magiclysm] Add feral animists (#81495)
 * Helicopters can take off from the military helipad (#81470)
 * add pulp_or_dismember autopulp option + minor edits (#81429)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2025-06-22-0108 (5b8effa)
 * Enforce mod incompatibilities (#81385)
 * New vampire weakness: Barred from mortal joys (#81360)
 * [Xedra Evolved] Add `The Blood is the Life` dhampir power (#81356)
-
-Cataclysm-DDA experimental build 2025-06-21-2244 (15fb29e)
 * [MoM] Move power failure equation to JSON (#81369)
 * xedra_evolved: cleanup misc_eoc.json (#81382)
 * Fix chairs in bandit work camp spawning items (#81368)
