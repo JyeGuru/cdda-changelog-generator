@@ -1,3 +1,5 @@
+* Add Moxian as IWYU "code owner" for review notifications ([#81502](https://github.com/CleverRaven/Cataclysm-DDA/pull/81502))
+* Add myself (SariusSkelrets) to command list. ([#81499](https://github.com/CleverRaven/Cataclysm-DDA/pull/81499))
 
 ---
 
@@ -223,7 +225,6 @@
 * Fix #81333 Negative quench items don't dehydrate you ([#81347](https://github.com/CleverRaven/Cataclysm-DDA/pull/81347))
 * Bugfix Debug Menu vitamins off by one ([#81348](https://github.com/CleverRaven/Cataclysm-DDA/pull/81348))
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale ([#81357](https://github.com/CleverRaven/Cataclysm-DDA/pull/81357))
-* Remove the minefield map extra ([#81331](https://github.com/CleverRaven/Cataclysm-DDA/pull/81331))
 * [MoM] Replace textbooks_school with manuals_school ([#81342](https://github.com/CleverRaven/Cataclysm-DDA/pull/81342))
 * [MoM] Remove prereq for Psychic Vampire trait ([#81345](https://github.com/CleverRaven/Cataclysm-DDA/pull/81345))
 * No gas zombies ([#81346](https://github.com/CleverRaven/Cataclysm-DDA/pull/81346))
@@ -232,4 +233,3 @@
 * Unarmed extra spawns ([#81339](https://github.com/CleverRaven/Cataclysm-DDA/pull/81339))
 * M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
 * Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
-* Fix mesa generation test failure by making tropicata/desertpack/backrooms incompatible ([#81332](https://github.com/CleverRaven/Cataclysm-DDA/pull/81332))
