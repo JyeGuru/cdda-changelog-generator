@@ -1,3 +1,7 @@
+* use SUS trashcan public in stores and businesses (#81514)
+
+Cataclysm-DDA experimental build 2025-06-29-2353 (0a667b3)
+* [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait (#81518)
 
 Cataclysm-DDA experimental build 2025-06-29-1602 (c6b3802)
 * Update cast_spell_items.json (#81511)
@@ -108,8 +112,6 @@ Cataclysm-DDA experimental build 2025-06-24-0105 (8d0183b)
 
 Cataclysm-DDA experimental build 2025-06-23-2242 (7db29b0)
 * Nests recipes in Armor/Suits and Armor/Other categories + small fixes (#81409)
-
-Cataclysm-DDA experimental build 2025-06-23-1933 (124843a)
 * Fix special attack cooldowns (#81406)
 * Adjust sledgehammer throwing damage (#81351)
 * Nerf default thrown damage (#81372)
@@ -147,6 +149,4 @@ Cataclysm-DDA experimental build 2025-06-23-1933 (124843a)
 * Fix #81333 Negative quench items don't dehydrate you (#81347)
 * Bugfix Debug Menu vitamins off by one (#81348)
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale (#81357)
-* [MoM] Remove prereq for Psychic Vampire trait (#81345)
-* No gas zombies (#81346)
 * Fix IWYU (#81349)

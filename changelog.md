@@ -1,3 +1,10 @@
+* use SUS trashcan public in stores and businesses ([#81514](https://github.com/CleverRaven/Cataclysm-DDA/pull/81514))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-29-2353 ([0a667b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-2353))
+
+* [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait ([#81518](https://github.com/CleverRaven/Cataclysm-DDA/pull/81518))
 
 ---
 
@@ -192,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-06-23-2242 ([7db29b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-2242))
 
 * Nests recipes in Armor/Suits and Armor/Other categories + small fixes ([#81409](https://github.com/CleverRaven/Cataclysm-DDA/pull/81409))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-23-1933 ([124843a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-1933))
-
 * Fix special attack cooldowns ([#81406](https://github.com/CleverRaven/Cataclysm-DDA/pull/81406))
 * Adjust sledgehammer throwing damage ([#81351](https://github.com/CleverRaven/Cataclysm-DDA/pull/81351))
 * Nerf default thrown damage ([#81372](https://github.com/CleverRaven/Cataclysm-DDA/pull/81372))
@@ -234,6 +236,4 @@
 * Fix #81333 Negative quench items don't dehydrate you ([#81347](https://github.com/CleverRaven/Cataclysm-DDA/pull/81347))
 * Bugfix Debug Menu vitamins off by one ([#81348](https://github.com/CleverRaven/Cataclysm-DDA/pull/81348))
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale ([#81357](https://github.com/CleverRaven/Cataclysm-DDA/pull/81357))
-* [MoM] Remove prereq for Psychic Vampire trait ([#81345](https://github.com/CleverRaven/Cataclysm-DDA/pull/81345))
-* No gas zombies ([#81346](https://github.com/CleverRaven/Cataclysm-DDA/pull/81346))
 * Fix IWYU ([#81349](https://github.com/CleverRaven/Cataclysm-DDA/pull/81349))
