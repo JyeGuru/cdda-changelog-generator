@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-29-0804 ([7fb2401](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-0804))
+
 * Smokes no longer mentions computers in evac shelters ([#81473](https://github.com/CleverRaven/Cataclysm-DDA/pull/81473))
 * Start of cataclysm is 5 days before game start ([#81492](https://github.com/CleverRaven/Cataclysm-DDA/pull/81492))
 
