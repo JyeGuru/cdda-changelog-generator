@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-29-1026 (f8698fc)
 * Assigning steel to tools from landscaping.json (#81512)
 
 Cataclysm-DDA experimental build 2025-06-29-0804 (7fb2401)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2025-06-23-1933 (124843a)
 
 Cataclysm-DDA experimental build 2025-06-23-1650 (163b432)
 * fix grass in the junkyard (#81412)
-
-Cataclysm-DDA experimental build 2025-06-23-0635 (c2a6ff6)
 * Add poutine  (#81404)
 * use new metal trash SUS group in scrapyard (#81410)
 * Remove toggling skill training on/off (#81381)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-29-1026 ([f8698fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-1026))
+
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-06-23-1650 ([163b432](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-1650))
 
 * fix grass in the junkyard ([#81412](https://github.com/CleverRaven/Cataclysm-DDA/pull/81412))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-23-0635 ([c2a6ff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-0635))
-
 * Add poutine  ([#81404](https://github.com/CleverRaven/Cataclysm-DDA/pull/81404))
 * use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
 * Remove toggling skill training on/off ([#81381](https://github.com/CleverRaven/Cataclysm-DDA/pull/81381))
