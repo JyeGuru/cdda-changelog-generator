@@ -237,4 +237,3 @@
 * [MoM] Remove prereq for Psychic Vampire trait ([#81345](https://github.com/CleverRaven/Cataclysm-DDA/pull/81345))
 * No gas zombies ([#81346](https://github.com/CleverRaven/Cataclysm-DDA/pull/81346))
 * Fix IWYU ([#81349](https://github.com/CleverRaven/Cataclysm-DDA/pull/81349))
-* Melee weapons galore ([#81343](https://github.com/CleverRaven/Cataclysm-DDA/pull/81343))
