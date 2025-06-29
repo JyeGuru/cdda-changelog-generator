@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-29-0536 ([89ce1aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-0536))
+
+* Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-28-1748 ([1cff63a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-1748))
 
 * [MoM] Grounding Meditation scales with metaphysics ([#81457](https://github.com/CleverRaven/Cataclysm-DDA/pull/81457))
@@ -227,4 +233,3 @@
 * Melee weapons galore ([#81343](https://github.com/CleverRaven/Cataclysm-DDA/pull/81343))
 * Unarmed extra spawns ([#81339](https://github.com/CleverRaven/Cataclysm-DDA/pull/81339))
 * M110A1 can attach its own stock ([#81340](https://github.com/CleverRaven/Cataclysm-DDA/pull/81340))
-* Ensure ranged weapons with NEVER_JAMS never jam ([#81337](https://github.com/CleverRaven/Cataclysm-DDA/pull/81337))
