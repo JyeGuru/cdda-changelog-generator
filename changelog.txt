@@ -1,3 +1,4 @@
+* Assigning steel to tools from landscaping.json (#81512)
 
 Cataclysm-DDA experimental build 2025-06-29-0804 (7fb2401)
 * Smokes no longer mentions computers in evac shelters (#81473)
@@ -81,7 +82,6 @@ Cataclysm-DDA experimental build 2025-06-24-2337 (23fb998)
 
 Cataclysm-DDA experimental build 2025-06-24-1456 (0aa7cf4)
 * use SUS trashcan public in the mall (#81421)
-* [CR] Game warns when item group copy-froms nonexistent parent (#81341)
 * Monsters can be forced to flee through an EoC (#81428)
 
 Cataclysm-DDA experimental build 2025-06-24-1229 (e3dbbc0)

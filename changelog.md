@@ -1,3 +1,4 @@
+* Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
 
 ---
 
@@ -141,7 +142,6 @@
 #### Cataclysm-DDA experimental build 2025-06-24-1456 ([0aa7cf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-1456))
 
 * use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))
-* [CR] Game warns when item group copy-froms nonexistent parent ([#81341](https://github.com/CleverRaven/Cataclysm-DDA/pull/81341))
 * Monsters can be forced to flee through an EoC ([#81428](https://github.com/CleverRaven/Cataclysm-DDA/pull/81428))
 
 ---
