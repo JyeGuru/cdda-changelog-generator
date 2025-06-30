@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-30-0240 ([df764a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-0240))
+
 * Add two new rifles ([#81469](https://github.com/CleverRaven/Cataclysm-DDA/pull/81469))
 * Remove Dracos ([#81498](https://github.com/CleverRaven/Cataclysm-DDA/pull/81498))
 * [Magiclysm] Fix skin tones layering ([#81515](https://github.com/CleverRaven/Cataclysm-DDA/pull/81515))
@@ -197,11 +202,6 @@
 * [XE] Mentor tweaks ([#81400](https://github.com/CleverRaven/Cataclysm-DDA/pull/81400))
 * [Magiclysm/Bombastic Perks]: Add Efficient Spell metamagic perk ([#81417](https://github.com/CleverRaven/Cataclysm-DDA/pull/81417))
 * [MoM] Add Extended Channeling to new channeling success jmath ([#81391](https://github.com/CleverRaven/Cataclysm-DDA/pull/81391))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-23-2242 ([7db29b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-23-2242))
-
 * Nests recipes in Armor/Suits and Armor/Other categories + small fixes ([#81409](https://github.com/CleverRaven/Cataclysm-DDA/pull/81409))
 * Fix special attack cooldowns ([#81406](https://github.com/CleverRaven/Cataclysm-DDA/pull/81406))
 * Adjust sledgehammer throwing damage ([#81351](https://github.com/CleverRaven/Cataclysm-DDA/pull/81351))
