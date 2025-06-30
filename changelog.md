@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-30-1232 ([0a0f989](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-1232))
+
+* A few anvils ([#81445](https://github.com/CleverRaven/Cataclysm-DDA/pull/81445))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-30-0821 ([8e42663](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-0821))
 
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-06-24-0933 ([3e2b9b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-0933))
 
 * eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-24-0706 ([ba24885](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-0706))
-
 * add missing trashcans in strip mall ([#81430](https://github.com/CleverRaven/Cataclysm-DDA/pull/81430))
 * Explicitly set base zombie grab cooldown to 2 ([#81401](https://github.com/CleverRaven/Cataclysm-DDA/pull/81401))
 * [XE] Mentor tweaks ([#81400](https://github.com/CleverRaven/Cataclysm-DDA/pull/81400))
@@ -217,7 +218,6 @@
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
 * Allow swapping hotkeys in magic menu. ([#81370](https://github.com/CleverRaven/Cataclysm-DDA/pull/81370))
-* Fix a way to get locked out of Hub tasks ([#81358](https://github.com/CleverRaven/Cataclysm-DDA/pull/81358))
 * Primerless case audit  ([#81362](https://github.com/CleverRaven/Cataclysm-DDA/pull/81362))
 * Query to quick-reveal all nearby wires when revealing wall wires ([#81366](https://github.com/CleverRaven/Cataclysm-DDA/pull/81366))
 * Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))

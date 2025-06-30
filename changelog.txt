@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-06-30-1232 (0a0f989)
+* A few anvils (#81445)
+
 Cataclysm-DDA experimental build 2025-06-30-0821 (8e42663)
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness (#81520)
 * Aftershock: Create a loading screen for the mod (#81524)
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2025-06-24-1229 (e3dbbc0)
 
 Cataclysm-DDA experimental build 2025-06-24-0933 (3e2b9b0)
 * eliminate bagged trash repeats (#81426)
-
-Cataclysm-DDA experimental build 2025-06-24-0706 (ba24885)
 * add missing trashcans in strip mall (#81430)
 * Explicitly set base zombie grab cooldown to 2 (#81401)
 * [XE] Mentor tweaks (#81400)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2025-06-24-0706 (ba24885)
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite (#81398)
 * Compact compressed overmaps. (#81394)
 * Allow swapping hotkeys in magic menu. (#81370)
-* Fix a way to get locked out of Hub tasks (#81358)
 * Primerless case audit  (#81362)
 * Query to quick-reveal all nearby wires when revealing wall wires (#81366)
 * Nests some clothing recipes +  a couple of small fixes (#81386)
