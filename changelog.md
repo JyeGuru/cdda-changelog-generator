@@ -1,3 +1,7 @@
+* Add two new rifles ([#81469](https://github.com/CleverRaven/Cataclysm-DDA/pull/81469))
+* Remove Dracos ([#81498](https://github.com/CleverRaven/Cataclysm-DDA/pull/81498))
+* [Magiclysm] Fix skin tones layering ([#81515](https://github.com/CleverRaven/Cataclysm-DDA/pull/81515))
+* [MoM] Add Achievements ([#81490](https://github.com/CleverRaven/Cataclysm-DDA/pull/81490))
 * use SUS trashcan public in stores and businesses ([#81514](https://github.com/CleverRaven/Cataclysm-DDA/pull/81514))
 
 ---
@@ -233,7 +237,4 @@
 * [MoM] Remove space in add effect ([#81359](https://github.com/CleverRaven/Cataclysm-DDA/pull/81359))
 * [MoM] Update Wave of Force to use `u_knockback` ([#81361](https://github.com/CleverRaven/Cataclysm-DDA/pull/81361))
 * Obsolete mythos mod ([#81355](https://github.com/CleverRaven/Cataclysm-DDA/pull/81355))
-* Fix #81333 Negative quench items don't dehydrate you ([#81347](https://github.com/CleverRaven/Cataclysm-DDA/pull/81347))
-* Bugfix Debug Menu vitamins off by one ([#81348](https://github.com/CleverRaven/Cataclysm-DDA/pull/81348))
 * Remove almost all consumption bonuses from cannibals, make human flesh tank morale ([#81357](https://github.com/CleverRaven/Cataclysm-DDA/pull/81357))
-* Fix IWYU ([#81349](https://github.com/CleverRaven/Cataclysm-DDA/pull/81349))
