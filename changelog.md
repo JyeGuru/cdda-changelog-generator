@@ -1,3 +1,4 @@
+* [MoM] Slight weariness adjustments to channeling formula ([#81420](https://github.com/CleverRaven/Cataclysm-DDA/pull/81420))
 * Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
 * Improve mod migration ([#81521](https://github.com/CleverRaven/Cataclysm-DDA/pull/81521))
@@ -221,7 +222,6 @@
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
 * Allow swapping hotkeys in magic menu. ([#81370](https://github.com/CleverRaven/Cataclysm-DDA/pull/81370))
-* Primerless case audit  ([#81362](https://github.com/CleverRaven/Cataclysm-DDA/pull/81362))
 * Query to quick-reveal all nearby wires when revealing wall wires ([#81366](https://github.com/CleverRaven/Cataclysm-DDA/pull/81366))
 * Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))
 * Update vampire power research to include recent additions. ([#81375](https://github.com/CleverRaven/Cataclysm-DDA/pull/81375))
