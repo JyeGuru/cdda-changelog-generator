@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-06-30-2242 ([7614d2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-2242))
+
+* Weekly Changelog 2025-06-16 to 2025-06-23 ([#81413](https://github.com/CleverRaven/Cataclysm-DDA/pull/81413))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-06-30-1507 ([ecacf78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-1507))
 
 * [MoM] Slight weariness adjustments to channeling formula ([#81420](https://github.com/CleverRaven/Cataclysm-DDA/pull/81420))
@@ -141,7 +147,6 @@
 #### Cataclysm-DDA experimental build 2025-06-27-0603 ([bd7fa2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-0603))
 
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
-* Typo's reported in transifex ([#81363](https://github.com/CleverRaven/Cataclysm-DDA/pull/81363))
 * [MoM/Bombastic Perks] Update Clear-minded Channeling perk ([#81411](https://github.com/CleverRaven/Cataclysm-DDA/pull/81411))
 * [Magiclysm] Add Repulsion Wave magus spell ([#81395](https://github.com/CleverRaven/Cataclysm-DDA/pull/81395))
 * Aftershock: Industrial Ruins ([#81396](https://github.com/CleverRaven/Cataclysm-DDA/pull/81396))
@@ -198,11 +203,6 @@
 
 * use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))
 * Monsters can be forced to flee through an EoC ([#81428](https://github.com/CleverRaven/Cataclysm-DDA/pull/81428))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-24-1229 ([e3dbbc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-1229))
-
 * [XEDRA] Fully gate Chronomancy insight menu against difficulty adjustments ([#81415](https://github.com/CleverRaven/Cataclysm-DDA/pull/81415))
 * eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
 * add missing trashcans in strip mall ([#81430](https://github.com/CleverRaven/Cataclysm-DDA/pull/81430))
