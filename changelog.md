@@ -204,7 +204,6 @@
 * [MoM] Add Extended Channeling to new channeling success jmath ([#81391](https://github.com/CleverRaven/Cataclysm-DDA/pull/81391))
 * Nests recipes in Armor/Suits and Armor/Other categories + small fixes ([#81409](https://github.com/CleverRaven/Cataclysm-DDA/pull/81409))
 * Fix special attack cooldowns ([#81406](https://github.com/CleverRaven/Cataclysm-DDA/pull/81406))
-* Adjust sledgehammer throwing damage ([#81351](https://github.com/CleverRaven/Cataclysm-DDA/pull/81351))
 * Nerf default thrown damage ([#81372](https://github.com/CleverRaven/Cataclysm-DDA/pull/81372))
 * fix grass in the junkyard ([#81412](https://github.com/CleverRaven/Cataclysm-DDA/pull/81412))
 * Add poutine  ([#81404](https://github.com/CleverRaven/Cataclysm-DDA/pull/81404))
