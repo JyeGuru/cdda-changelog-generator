@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-06-30-1507 ([ecacf78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-1507))
+
 * [MoM] Slight weariness adjustments to channeling formula ([#81420](https://github.com/CleverRaven/Cataclysm-DDA/pull/81420))
 * Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-06-24-1229 ([e3dbbc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-1229))
 
 * [XEDRA] Fully gate Chronomancy insight menu against difficulty adjustments ([#81415](https://github.com/CleverRaven/Cataclysm-DDA/pull/81415))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-24-0933 ([3e2b9b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-0933))
-
 * eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
 * add missing trashcans in strip mall ([#81430](https://github.com/CleverRaven/Cataclysm-DDA/pull/81430))
 * Explicitly set base zombie grab cooldown to 2 ([#81401](https://github.com/CleverRaven/Cataclysm-DDA/pull/81401))

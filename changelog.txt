@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-30-1507 (ecacf78)
 * [MoM] Slight weariness adjustments to channeling formula (#81420)
 * Audit ammo uncrafts (#81519)
 * dumpster fixes (#81530)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2025-06-24-1456 (0aa7cf4)
 
 Cataclysm-DDA experimental build 2025-06-24-1229 (e3dbbc0)
 * [XEDRA] Fully gate Chronomancy insight menu against difficulty adjustments (#81415)
-
-Cataclysm-DDA experimental build 2025-06-24-0933 (3e2b9b0)
 * eliminate bagged trash repeats (#81426)
 * add missing trashcans in strip mall (#81430)
 * Explicitly set base zombie grab cooldown to 2 (#81401)
