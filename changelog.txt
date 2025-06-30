@@ -1,3 +1,4 @@
+* [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness (#81520)
 * Aftershock: Create a loading screen for the mod (#81524)
 
 Cataclysm-DDA experimental build 2025-06-30-0550 (6244283)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-06-24-0336 (60ee592)
 * Routine i18n updates on 21 June 2025 (#81376)
 * [MoM] Remove space in add effect (#81359)
 * [MoM] Update Wave of Force to use `u_knockback` (#81361)
-* Remove almost all consumption bonuses from cannibals, make human flesh tank morale (#81357)
