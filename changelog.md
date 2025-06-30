@@ -1,3 +1,6 @@
+* Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
+* dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
+* Improve mod migration ([#81521](https://github.com/CleverRaven/Cataclysm-DDA/pull/81521))
 
 ---
 
@@ -223,7 +226,6 @@
 * Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))
 * Update vampire power research to include recent additions. ([#81375](https://github.com/CleverRaven/Cataclysm-DDA/pull/81375))
 * Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
-* New vampire weakness: Barred from mortal joys ([#81360](https://github.com/CleverRaven/Cataclysm-DDA/pull/81360))
 * [MoM] Move power failure equation to JSON ([#81369](https://github.com/CleverRaven/Cataclysm-DDA/pull/81369))
 * xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
 * Fix chairs in bandit work camp spawning items ([#81368](https://github.com/CleverRaven/Cataclysm-DDA/pull/81368))
@@ -235,5 +237,3 @@
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
 * Routine i18n updates on 21 June 2025 ([#81376](https://github.com/CleverRaven/Cataclysm-DDA/pull/81376))
-* [MoM] Remove space in add effect ([#81359](https://github.com/CleverRaven/Cataclysm-DDA/pull/81359))
-* [MoM] Update Wave of Force to use `u_knockback` ([#81361](https://github.com/CleverRaven/Cataclysm-DDA/pull/81361))
