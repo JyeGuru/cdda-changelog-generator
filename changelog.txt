@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-06-30-0821 (8e42663)
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness (#81520)
 * Aftershock: Create a loading screen for the mod (#81524)
 
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2025-06-24-0933 (3e2b9b0)
 
 Cataclysm-DDA experimental build 2025-06-24-0706 (ba24885)
 * add missing trashcans in strip mall (#81430)
-
-Cataclysm-DDA experimental build 2025-06-24-0336 (60ee592)
 * Explicitly set base zombie grab cooldown to 2 (#81401)
 * [XE] Mentor tweaks (#81400)
 * [Magiclysm/Bombastic Perks]: Add Efficient Spell metamagic perk (#81417)
