@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-01-0345 ([0c4a5cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-01-0345))
+
 * Generic tie-down/haul system for furniture on vehicles ([#81501](https://github.com/CleverRaven/Cataclysm-DDA/pull/81501))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-06-25-0354 ([f548108](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-25-0354))
 
 * Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-24-2337 ([23fb998](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-2337))
-
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
 * use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))
 * Monsters can be forced to flee through an EoC ([#81428](https://github.com/CleverRaven/Cataclysm-DDA/pull/81428))
