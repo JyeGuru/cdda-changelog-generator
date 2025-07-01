@@ -1,3 +1,5 @@
+* Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
+* [XE] Add new deduction books and their mechanics. ([#81513](https://github.com/CleverRaven/Cataclysm-DDA/pull/81513))
 * Weekly Changelog 2025-06-23 to 2025-06-30 ([#81529](https://github.com/CleverRaven/Cataclysm-DDA/pull/81529))
 * Routine tileset updates on 01 July 2025 ([#81534](https://github.com/CleverRaven/Cataclysm-DDA/pull/81534))
 
@@ -174,11 +176,6 @@
 * Fix endless loop on mutation with low primer vitamin ([#81424](https://github.com/CleverRaven/Cataclysm-DDA/pull/81424))
 * Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-26-0927 ([aa01762](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-26-0927))
-
 * Add description of special attack selection logic. ([#81422](https://github.com/CleverRaven/Cataclysm-DDA/pull/81422))
 * take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))
 * [MoM] Add extremely rare setpiece with dead Texopapalotl crew member ([#81425](https://github.com/CleverRaven/Cataclysm-DDA/pull/81425))
@@ -210,10 +207,8 @@
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
 * Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))
-* Update vampire power research to include recent additions. ([#81375](https://github.com/CleverRaven/Cataclysm-DDA/pull/81375))
 * Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
 * xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
 * add longest_side for meal tray ([#81377](https://github.com/CleverRaven/Cataclysm-DDA/pull/81377))
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
-* Routine i18n updates on 21 June 2025 ([#81376](https://github.com/CleverRaven/Cataclysm-DDA/pull/81376))
