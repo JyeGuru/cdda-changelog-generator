@@ -1,3 +1,4 @@
+* Generic tie-down/haul system for furniture on vehicles ([#81501](https://github.com/CleverRaven/Cataclysm-DDA/pull/81501))
 
 ---
 
@@ -227,7 +228,6 @@
 * Replace old office itemgroup with new SUS groups ([#81371](https://github.com/CleverRaven/Cataclysm-DDA/pull/81371))
 * Remove XP message when channeling powers/casting spells ([#81374](https://github.com/CleverRaven/Cataclysm-DDA/pull/81374))
 * Aftershock: Welding paste ([#81367](https://github.com/CleverRaven/Cataclysm-DDA/pull/81367))
-* Increase byproduct straw of the recipe of threshed oats without flail. ([#81365](https://github.com/CleverRaven/Cataclysm-DDA/pull/81365))
 * add longest_side for meal tray ([#81377](https://github.com/CleverRaven/Cataclysm-DDA/pull/81377))
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
