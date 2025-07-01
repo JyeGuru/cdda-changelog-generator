@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-01-0604 ([5e8e5fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-01-0604))
+
 * Vehicle enchantments and effects ([#81408](https://github.com/CleverRaven/Cataclysm-DDA/pull/81408))
 * Descriptive recipe names ([#81488](https://github.com/CleverRaven/Cataclysm-DDA/pull/81488))
 * Update PR template for brevity ([#81483](https://github.com/CleverRaven/Cataclysm-DDA/pull/81483))
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-06-25-1815 ([39fc5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-25-1815))
 
 * adjust cannibal descriptions to be less subjective ([#81434](https://github.com/CleverRaven/Cataclysm-DDA/pull/81434))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-25-0354 ([f548108](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-25-0354))
-
 * Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
 * use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))

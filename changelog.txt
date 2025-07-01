@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-01-0604 (5e8e5fa)
 * Vehicle enchantments and effects (#81408)
 * Descriptive recipe names (#81488)
 * Update PR template for brevity (#81483)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2025-06-26-0354 (86dc180)
 
 Cataclysm-DDA experimental build 2025-06-25-1815 (39fc5b2)
 * adjust cannibal descriptions to be less subjective (#81434)
-
-Cataclysm-DDA experimental build 2025-06-25-0354 (f548108)
 * Add a notice when in weather mode (#81435)
 * The military base has barbed wire instead of minefields (#81438)
 * use SUS trashcan public in the mall (#81421)
