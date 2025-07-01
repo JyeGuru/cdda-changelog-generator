@@ -112,8 +112,6 @@ Cataclysm-DDA experimental build 2025-06-26-0649 (2d1c62a)
 * Priotize Sapiovore trait and its friends when consuming human flesh (#81442)
 * Don't show hostile NPCs on overmap (#81433)
 * Recipe for protein smoothie with powdered milk  (#81437)
-
-Cataclysm-DDA experimental build 2025-06-26-0354 (86dc180)
 * Vampirism updates to account for new base blood need. (#81446)
 * Fix workflow title string used to allow basic build to run on draft PRs (#81444)
 * adjust cannibal descriptions to be less subjective (#81434)
