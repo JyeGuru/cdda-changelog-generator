@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-06-24-2337 ([23fb998](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-2337))
 
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-24-1456 ([0aa7cf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-24-1456))
-
 * use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))
 * Monsters can be forced to flee through an EoC ([#81428](https://github.com/CleverRaven/Cataclysm-DDA/pull/81428))
 * [XEDRA] Fully gate Chronomancy insight menu against difficulty adjustments ([#81415](https://github.com/CleverRaven/Cataclysm-DDA/pull/81415))
