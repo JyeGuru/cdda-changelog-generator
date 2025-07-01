@@ -1,3 +1,4 @@
+* Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
 * Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
 * [XE] Add new deduction books and their mechanics. ([#81513](https://github.com/CleverRaven/Cataclysm-DDA/pull/81513))
 * Weekly Changelog 2025-06-23 to 2025-06-30 ([#81529](https://github.com/CleverRaven/Cataclysm-DDA/pull/81529))
@@ -209,6 +210,5 @@
 * Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))
 * Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
 * xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
-* add longest_side for meal tray ([#81377](https://github.com/CleverRaven/Cataclysm-DDA/pull/81377))
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))
