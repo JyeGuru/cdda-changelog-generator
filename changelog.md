@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-06-23 to 2025-06-30 ([#81529](https://github.com/CleverRaven/Cataclysm-DDA/pull/81529))
 * Routine tileset updates on 01 July 2025 ([#81534](https://github.com/CleverRaven/Cataclysm-DDA/pull/81534))
 
 ---
@@ -222,7 +223,6 @@
 * Update vampire power research to include recent additions. ([#81375](https://github.com/CleverRaven/Cataclysm-DDA/pull/81375))
 * Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
 * xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
-* Remove XP message when channeling powers/casting spells ([#81374](https://github.com/CleverRaven/Cataclysm-DDA/pull/81374))
 * add longest_side for meal tray ([#81377](https://github.com/CleverRaven/Cataclysm-DDA/pull/81377))
 * Guilt trip murderers for more than 7 minutes ([#81380](https://github.com/CleverRaven/Cataclysm-DDA/pull/81380))
 * Remove cannibal's last consumption bonus ([#81379](https://github.com/CleverRaven/Cataclysm-DDA/pull/81379))

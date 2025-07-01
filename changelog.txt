@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-06-23 to 2025-06-30 (#81529)
 * Routine tileset updates on 01 July 2025 (#81534)
 
 Cataclysm-DDA experimental build 2025-07-01-1401 (c977b74)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2025-06-26-0354 (86dc180)
 * Update vampire power research to include recent additions. (#81375)
 * Enforce mod incompatibilities (#81385)
 * xedra_evolved: cleanup misc_eoc.json (#81382)
-* Remove XP message when channeling powers/casting spells (#81374)
 * add longest_side for meal tray (#81377)
 * Guilt trip murderers for more than 7 minutes (#81380)
 * Remove cannibal's last consumption bonus (#81379)
