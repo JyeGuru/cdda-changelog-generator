@@ -1,3 +1,4 @@
+* Melee Weapon Tech Adjustment (#81535)
 
 Cataclysm-DDA experimental build 2025-07-01-0345 (0c4a5cb)
 * Generic tie-down/haul system for furniture on vehicles (#81501)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2025-06-25-0354 (f548108)
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite (#81398)
 * Compact compressed overmaps. (#81394)
 * Allow swapping hotkeys in magic menu. (#81370)
-* Query to quick-reveal all nearby wires when revealing wall wires (#81366)
 * Nests some clothing recipes +  a couple of small fixes (#81386)
 * Update vampire power research to include recent additions. (#81375)
 * Enforce mod incompatibilities (#81385)

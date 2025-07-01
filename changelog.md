@@ -1,3 +1,4 @@
+* Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
 
 ---
 
@@ -218,7 +219,6 @@
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
 * Allow swapping hotkeys in magic menu. ([#81370](https://github.com/CleverRaven/Cataclysm-DDA/pull/81370))
-* Query to quick-reveal all nearby wires when revealing wall wires ([#81366](https://github.com/CleverRaven/Cataclysm-DDA/pull/81366))
 * Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))
 * Update vampire power research to include recent additions. ([#81375](https://github.com/CleverRaven/Cataclysm-DDA/pull/81375))
 * Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
