@@ -1,3 +1,10 @@
+* Routine tileset updates on 01 July 2025 ([#81534](https://github.com/CleverRaven/Cataclysm-DDA/pull/81534))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-01-1401 ([c977b74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-01-1401))
+
+* Typo fix in slimes.json ([#81537](https://github.com/CleverRaven/Cataclysm-DDA/pull/81537))
 
 ---
 
@@ -107,12 +114,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-06-28-1141 ([237e67f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-1141))
-
-* Remove the Ruger Charger ([#81373](https://github.com/CleverRaven/Cataclysm-DDA/pull/81373))
-
----
-
 #### Cataclysm-DDA experimental build 2025-06-28-0922 ([835432a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0922))
 
 * [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
@@ -195,11 +196,6 @@
 
 * Vampirism updates to account for new base blood need. ([#81446](https://github.com/CleverRaven/Cataclysm-DDA/pull/81446))
 * Fix workflow title string used to allow basic build to run on draft PRs ([#81444](https://github.com/CleverRaven/Cataclysm-DDA/pull/81444))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-25-1815 ([39fc5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-25-1815))
-
 * adjust cannibal descriptions to be less subjective ([#81434](https://github.com/CleverRaven/Cataclysm-DDA/pull/81434))
 * Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
@@ -214,7 +210,6 @@
 * [MoM] Add Extended Channeling to new channeling success jmath ([#81391](https://github.com/CleverRaven/Cataclysm-DDA/pull/81391))
 * Nests recipes in Armor/Suits and Armor/Other categories + small fixes ([#81409](https://github.com/CleverRaven/Cataclysm-DDA/pull/81409))
 * Fix special attack cooldowns ([#81406](https://github.com/CleverRaven/Cataclysm-DDA/pull/81406))
-* Nerf default thrown damage ([#81372](https://github.com/CleverRaven/Cataclysm-DDA/pull/81372))
 * fix grass in the junkyard ([#81412](https://github.com/CleverRaven/Cataclysm-DDA/pull/81412))
 * Add poutine  ([#81404](https://github.com/CleverRaven/Cataclysm-DDA/pull/81404))
 * use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
