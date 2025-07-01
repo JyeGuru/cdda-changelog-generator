@@ -181,11 +181,6 @@
 
 * Add description of special attack selection logic. ([#81422](https://github.com/CleverRaven/Cataclysm-DDA/pull/81422))
 * take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-26-0649 ([2d1c62a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-26-0649))
-
 * [MoM] Add extremely rare setpiece with dead Texopapalotl crew member ([#81425](https://github.com/CleverRaven/Cataclysm-DDA/pull/81425))
 * Priotize Sapiovore trait and its friends when consuming human flesh ([#81442](https://github.com/CleverRaven/Cataclysm-DDA/pull/81442))
 * Don't show hostile NPCs on overmap ([#81433](https://github.com/CleverRaven/Cataclysm-DDA/pull/81433))

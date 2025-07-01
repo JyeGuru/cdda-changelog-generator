@@ -106,8 +106,6 @@ Cataclysm-DDA experimental build 2025-06-27-0603 (bd7fa2e)
 Cataclysm-DDA experimental build 2025-06-26-0927 (aa01762)
 * Add description of special attack selection logic. (#81422)
 * take the trash out of the filing cabinet in the mall (#81449)
-
-Cataclysm-DDA experimental build 2025-06-26-0649 (2d1c62a)
 * [MoM] Add extremely rare setpiece with dead Texopapalotl crew member (#81425)
 * Priotize Sapiovore trait and its friends when consuming human flesh (#81442)
 * Don't show hostile NPCs on overmap (#81433)
