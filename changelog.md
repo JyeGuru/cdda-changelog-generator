@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-02-0906 ([a1b4a40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-0906))
+
 * Make 'A shadow?' always visible. ([#81485](https://github.com/CleverRaven/Cataclysm-DDA/pull/81485))
 * Allow dragging furniture on/off vehicles ([#81538](https://github.com/CleverRaven/Cataclysm-DDA/pull/81538))
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
@@ -163,11 +168,6 @@
 * Fix compressed overmap bootstrap disk state handling ([#81475](https://github.com/CleverRaven/Cataclysm-DDA/pull/81475))
 * [Magiclysm] Rework attunement requirements ([#81459](https://github.com/CleverRaven/Cataclysm-DDA/pull/81459))
 * Fix MOTION_ALARM triggering when you ride a critter ([#81478](https://github.com/CleverRaven/Cataclysm-DDA/pull/81478))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-27-1604 ([cef0e65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-1604))
-
 * Use approximate city distances for special placement ([#81476](https://github.com/CleverRaven/Cataclysm-DDA/pull/81476))
 * [Magiclysm/MoM] Fix supernatural welding ([#81468](https://github.com/CleverRaven/Cataclysm-DDA/pull/81468))
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
