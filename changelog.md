@@ -1,3 +1,10 @@
+* Typo in Dark Triad mutation ([#81551](https://github.com/CleverRaven/Cataclysm-DDA/pull/81551))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-02-2022 ([7350568](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-2022))
+
+* NPCs can handle liquids from crafting ([#81548](https://github.com/CleverRaven/Cataclysm-DDA/pull/81548))
 
 ---
 
@@ -154,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2025-06-28-0648 ([d9b2af9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0648))
 
 * Routine i18n updates on 28 June 2025 ([#81500](https://github.com/CleverRaven/Cataclysm-DDA/pull/81500))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-28-0145 ([2540150](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0145))
-
 * CDDA can now make Julienne Fries  ([#81466](https://github.com/CleverRaven/Cataclysm-DDA/pull/81466))
 * Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
 * Fix compressed overmap bootstrap disk state handling ([#81475](https://github.com/CleverRaven/Cataclysm-DDA/pull/81475))
@@ -206,4 +208,3 @@
 * [Xedra Evolved] Fix beta talker error from Ring of Champions EoC ([#81390](https://github.com/CleverRaven/Cataclysm-DDA/pull/81390))
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
-* Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))
