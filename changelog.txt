@@ -1,3 +1,6 @@
+* [MoM] Add Cuāuhpilli special forces profession (#81523)
+
+Cataclysm-DDA experimental build 2025-07-02-0129 (a72e84f)
 * Prevent building in air. (#81544)
 * Add Demihuman Bones to Temperature Removal Blacklist (#81539)
 * [XE] Add new deduction books and their mechanics. (#81513)
@@ -139,4 +142,3 @@ Cataclysm-DDA experimental build 2025-06-27-0603 (bd7fa2e)
 * Enforce mod incompatibilities (#81385)
 * xedra_evolved: cleanup misc_eoc.json (#81382)
 * Guilt trip murderers for more than 7 minutes (#81380)
-* Remove cannibal's last consumption bonus (#81379)
