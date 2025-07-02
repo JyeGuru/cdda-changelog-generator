@@ -91,8 +91,6 @@ Cataclysm-DDA experimental build 2025-06-28-0145 (2540150)
 
 Cataclysm-DDA experimental build 2025-06-27-2317 (424a425)
 * Background remove defaults (#81491)
-
-Cataclysm-DDA experimental build 2025-06-27-1902 (a51b328)
 * Fix compressed overmap bootstrap disk state handling (#81475)
 * [Magiclysm] Rework attunement requirements (#81459)
 * Fix MOTION_ALARM triggering when you ride a critter (#81478)

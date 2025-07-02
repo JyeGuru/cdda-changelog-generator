@@ -160,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2025-06-27-2317 ([424a425](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-2317))
 
 * Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-27-1902 ([a51b328](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-1902))
-
 * Fix compressed overmap bootstrap disk state handling ([#81475](https://github.com/CleverRaven/Cataclysm-DDA/pull/81475))
 * [Magiclysm] Rework attunement requirements ([#81459](https://github.com/CleverRaven/Cataclysm-DDA/pull/81459))
 * Fix MOTION_ALARM triggering when you ride a critter ([#81478](https://github.com/CleverRaven/Cataclysm-DDA/pull/81478))
