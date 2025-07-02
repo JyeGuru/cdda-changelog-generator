@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-02-2253 ([5d89fee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-2253))
+
 * Typo in Dark Triad mutation ([#81551](https://github.com/CleverRaven/Cataclysm-DDA/pull/81551))
 
 ---
@@ -155,11 +160,6 @@
 * [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
 * Helicopters can take off from the military helipad ([#81470](https://github.com/CleverRaven/Cataclysm-DDA/pull/81470))
 * add pulp_or_dismember autopulp option + minor edits ([#81429](https://github.com/CleverRaven/Cataclysm-DDA/pull/81429))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-28-0648 ([d9b2af9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0648))
-
 * Routine i18n updates on 28 June 2025 ([#81500](https://github.com/CleverRaven/Cataclysm-DDA/pull/81500))
 * CDDA can now make Julienne Fries  ([#81466](https://github.com/CleverRaven/Cataclysm-DDA/pull/81466))
 * Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
