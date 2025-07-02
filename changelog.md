@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-02-0400 ([2568f7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-0400))
+
 * [MoM] Add Cuāuhpilli special forces profession ([#81523](https://github.com/CleverRaven/Cataclysm-DDA/pull/81523))
 
 ---
@@ -169,11 +174,6 @@
 * [Magiclysm/MoM] Fix supernatural welding ([#81468](https://github.com/CleverRaven/Cataclysm-DDA/pull/81468))
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-27-0603 ([bd7fa2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-0603))
-
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
 * [MoM/Bombastic Perks] Update Clear-minded Channeling perk ([#81411](https://github.com/CleverRaven/Cataclysm-DDA/pull/81411))
 * [Magiclysm] Add Repulsion Wave magus spell ([#81395](https://github.com/CleverRaven/Cataclysm-DDA/pull/81395))
