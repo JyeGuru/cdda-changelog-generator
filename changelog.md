@@ -166,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-06-27-1604 ([cef0e65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-1604))
 
 * Use approximate city distances for special placement ([#81476](https://github.com/CleverRaven/Cataclysm-DDA/pull/81476))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-27-0842 ([6e9ee32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-0842))
-
 * [Magiclysm/MoM] Fix supernatural welding ([#81468](https://github.com/CleverRaven/Cataclysm-DDA/pull/81468))
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))

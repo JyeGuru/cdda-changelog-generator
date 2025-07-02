@@ -94,8 +94,6 @@ Cataclysm-DDA experimental build 2025-06-27-1902 (a51b328)
 
 Cataclysm-DDA experimental build 2025-06-27-1604 (cef0e65)
 * Use approximate city distances for special placement (#81476)
-
-Cataclysm-DDA experimental build 2025-06-27-0842 (6e9ee32)
 * [Magiclysm/MoM] Fix supernatural welding (#81468)
 * You can deconstruct and place bean bags (#81462)
 * Add Bayonet Lug to Mossberg 590A1 (#81463)
