@@ -1,3 +1,4 @@
+* Make 'A shadow?' always visible. (#81485)
 * Allow dragging furniture on/off vehicles (#81538)
 * boxes inside of boxes in aid airdrop (#81545)
 
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2025-06-27-1604 (cef0e65)
 * Compact compressed overmaps. (#81394)
 * Nests some clothing recipes +  a couple of small fixes (#81386)
 * Enforce mod incompatibilities (#81385)
-* xedra_evolved: cleanup misc_eoc.json (#81382)

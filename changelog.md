@@ -1,3 +1,4 @@
+* Make 'A shadow?' always visible. ([#81485](https://github.com/CleverRaven/Cataclysm-DDA/pull/81485))
 * Allow dragging furniture on/off vehicles ([#81538](https://github.com/CleverRaven/Cataclysm-DDA/pull/81538))
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
 
@@ -211,4 +212,3 @@
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
 * Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))
 * Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
-* xedra_evolved: cleanup misc_eoc.json ([#81382](https://github.com/CleverRaven/Cataclysm-DDA/pull/81382))
