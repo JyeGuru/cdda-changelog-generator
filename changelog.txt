@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-02-1722 (bd5eb79)
+* Aftershock: Augstmoon vendors sell more tools. (#81554)
+
 Cataclysm-DDA experimental build 2025-07-02-0906 (a1b4a40)
 * Make 'A shadow?' always visible. (#81485)
 * Allow dragging furniture on/off vehicles (#81538)
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2025-06-28-0648 (d9b2af9)
 
 Cataclysm-DDA experimental build 2025-06-28-0145 (2540150)
 * CDDA can now make Julienne Fries  (#81466)
-
-Cataclysm-DDA experimental build 2025-06-27-2317 (424a425)
 * Background remove defaults (#81491)
 * Fix compressed overmap bootstrap disk state handling (#81475)
 * [Magiclysm] Rework attunement requirements (#81459)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2025-06-27-2317 (424a425)
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite (#81398)
 * Compact compressed overmaps. (#81394)
 * Nests some clothing recipes +  a couple of small fixes (#81386)
-* Enforce mod incompatibilities (#81385)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-02-1722 ([bd5eb79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-1722))
+
+* Aftershock: Augstmoon vendors sell more tools. ([#81554](https://github.com/CleverRaven/Cataclysm-DDA/pull/81554))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-02-0906 ([a1b4a40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-0906))
 
 * Make 'A shadow?' always visible. ([#81485](https://github.com/CleverRaven/Cataclysm-DDA/pull/81485))
@@ -154,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2025-06-28-0145 ([2540150](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0145))
 
 * CDDA can now make Julienne Fries  ([#81466](https://github.com/CleverRaven/Cataclysm-DDA/pull/81466))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-27-2317 ([424a425](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-27-2317))
-
 * Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
 * Fix compressed overmap bootstrap disk state handling ([#81475](https://github.com/CleverRaven/Cataclysm-DDA/pull/81475))
 * [Magiclysm] Rework attunement requirements ([#81459](https://github.com/CleverRaven/Cataclysm-DDA/pull/81459))
@@ -206,4 +207,3 @@
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))
 * Nests some clothing recipes +  a couple of small fixes ([#81386](https://github.com/CleverRaven/Cataclysm-DDA/pull/81386))
-* Enforce mod incompatibilities ([#81385](https://github.com/CleverRaven/Cataclysm-DDA/pull/81385))
