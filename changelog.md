@@ -1,3 +1,4 @@
+* Update comment-commands.yml ([#81558](https://github.com/CleverRaven/Cataclysm-DDA/pull/81558))
 
 ---
 
@@ -181,7 +182,6 @@
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
 * [MoM/Bombastic Perks] Update Clear-minded Channeling perk ([#81411](https://github.com/CleverRaven/Cataclysm-DDA/pull/81411))
-* [Magiclysm] Add Repulsion Wave magus spell ([#81395](https://github.com/CleverRaven/Cataclysm-DDA/pull/81395))
 * Aftershock: Industrial Ruins ([#81396](https://github.com/CleverRaven/Cataclysm-DDA/pull/81396))
 * [MoM] Make Torrential Channeling even stronger and even more dangerous ([#81402](https://github.com/CleverRaven/Cataclysm-DDA/pull/81402))
 * Fix lack of gaining power xp ([#81419](https://github.com/CleverRaven/Cataclysm-DDA/pull/81419))

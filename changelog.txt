@@ -1,3 +1,4 @@
+* Update comment-commands.yml (#81558)
 
 Cataclysm-DDA experimental build 2025-07-03-0841 (8041c07)
 * new XL duffel bags (#81553)
@@ -109,7 +110,6 @@ Cataclysm-DDA experimental build 2025-06-28-1748 (1cff63a)
 * Add Bayonet Lug to Mossberg 590A1 (#81463)
 * [Magiclysm] Spellcasting always grants proficiency XP (#81467)
 * [MoM/Bombastic Perks] Update Clear-minded Channeling perk (#81411)
-* [Magiclysm] Add Repulsion Wave magus spell (#81395)
 * Aftershock: Industrial Ruins (#81396)
 * [MoM] Make Torrential Channeling even stronger and even more dangerous (#81402)
 * Fix lack of gaining power xp (#81419)
