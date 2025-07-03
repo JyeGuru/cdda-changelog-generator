@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-03-0141 ([e2efb58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-03-0141))
+
 * Let there be light: Board up a window with sturdy wooden shutters ([#81546](https://github.com/CleverRaven/Cataclysm-DDA/pull/81546))
 
 ---
@@ -153,11 +158,6 @@
 * Obsolete Glock 31 ([#81455](https://github.com/CleverRaven/Cataclysm-DDA/pull/81455))
 * Add Moxian as IWYU "code owner" for review notifications ([#81502](https://github.com/CleverRaven/Cataclysm-DDA/pull/81502))
 * Add myself (SariusSkelrets) to command list. ([#81499](https://github.com/CleverRaven/Cataclysm-DDA/pull/81499))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-28-0922 ([835432a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-0922))
-
 * [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
 * Helicopters can take off from the military helipad ([#81470](https://github.com/CleverRaven/Cataclysm-DDA/pull/81470))
 * add pulp_or_dismember autopulp option + minor edits ([#81429](https://github.com/CleverRaven/Cataclysm-DDA/pull/81429))
