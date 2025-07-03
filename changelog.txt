@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-03-0841 (8041c07)
 * new XL duffel bags (#81553)
 * don’t call std::pow for squaring numbers (#81559)
 
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2025-06-29-0536 (89ce1aa)
 
 Cataclysm-DDA experimental build 2025-06-28-1748 (1cff63a)
 * [MoM] Grounding Meditation scales with metaphysics (#81457)
-
-Cataclysm-DDA experimental build 2025-06-28-1443 (895ec0b)
 * Obsolete Glock 31 (#81455)
 * Add Moxian as IWYU "code owner" for review notifications (#81502)
 * Add myself (SariusSkelrets) to command list. (#81499)
