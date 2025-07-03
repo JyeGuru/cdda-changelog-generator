@@ -1,3 +1,11 @@
+* Add a sunken helicopter location ([#81527](https://github.com/CleverRaven/Cataclysm-DDA/pull/81527))
+* [Magiclysm] Rework Will o' the Wisps ([#81563](https://github.com/CleverRaven/Cataclysm-DDA/pull/81563))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-03-2115 ([15933c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-03-2115))
+
+* Quadraphract Maintenance ([#81472](https://github.com/CleverRaven/Cataclysm-DDA/pull/81472))
 * Update comment-commands.yml ([#81558](https://github.com/CleverRaven/Cataclysm-DDA/pull/81558))
 
 ---
@@ -158,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-06-29-0536 ([89ce1aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-0536))
 
 * Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-28-1748 ([1cff63a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-28-1748))
-
 * [MoM] Grounding Meditation scales with metaphysics ([#81457](https://github.com/CleverRaven/Cataclysm-DDA/pull/81457))
 * Obsolete Glock 31 ([#81455](https://github.com/CleverRaven/Cataclysm-DDA/pull/81455))
 * Add Moxian as IWYU "code owner" for review notifications ([#81502](https://github.com/CleverRaven/Cataclysm-DDA/pull/81502))
@@ -182,7 +185,6 @@
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
 * [MoM/Bombastic Perks] Update Clear-minded Channeling perk ([#81411](https://github.com/CleverRaven/Cataclysm-DDA/pull/81411))
-* Aftershock: Industrial Ruins ([#81396](https://github.com/CleverRaven/Cataclysm-DDA/pull/81396))
 * [MoM] Make Torrential Channeling even stronger and even more dangerous ([#81402](https://github.com/CleverRaven/Cataclysm-DDA/pull/81402))
 * Fix lack of gaining power xp ([#81419](https://github.com/CleverRaven/Cataclysm-DDA/pull/81419))
 * Fix endless loop on mutation with low primer vitamin ([#81424](https://github.com/CleverRaven/Cataclysm-DDA/pull/81424))
@@ -204,12 +206,9 @@
 * [XEDRA] Fully gate Chronomancy insight menu against difficulty adjustments ([#81415](https://github.com/CleverRaven/Cataclysm-DDA/pull/81415))
 * eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
 * add missing trashcans in strip mall ([#81430](https://github.com/CleverRaven/Cataclysm-DDA/pull/81430))
-* Explicitly set base zombie grab cooldown to 2 ([#81401](https://github.com/CleverRaven/Cataclysm-DDA/pull/81401))
-* [XE] Mentor tweaks ([#81400](https://github.com/CleverRaven/Cataclysm-DDA/pull/81400))
 * [Magiclysm/Bombastic Perks]: Add Efficient Spell metamagic perk ([#81417](https://github.com/CleverRaven/Cataclysm-DDA/pull/81417))
 * Nests recipes in Armor/Suits and Armor/Other categories + small fixes ([#81409](https://github.com/CleverRaven/Cataclysm-DDA/pull/81409))
 * Fix special attack cooldowns ([#81406](https://github.com/CleverRaven/Cataclysm-DDA/pull/81406))
 * fix grass in the junkyard ([#81412](https://github.com/CleverRaven/Cataclysm-DDA/pull/81412))
 * Add poutine  ([#81404](https://github.com/CleverRaven/Cataclysm-DDA/pull/81404))
 * use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
-* [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
