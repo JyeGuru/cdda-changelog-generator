@@ -1,3 +1,4 @@
+* new XL duffel bags (#81553)
 * don’t call std::pow for squaring numbers (#81559)
 
 Cataclysm-DDA experimental build 2025-07-03-0538 (66bb5e3)

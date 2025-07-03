@@ -1,3 +1,4 @@
+* new XL duffel bags ([#81553](https://github.com/CleverRaven/Cataclysm-DDA/pull/81553))
 * don’t call std::pow for squaring numbers ([#81559](https://github.com/CleverRaven/Cataclysm-DDA/pull/81559))
 
 ---
