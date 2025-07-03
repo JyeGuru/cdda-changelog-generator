@@ -1,3 +1,4 @@
+* Let there be light: Board up a window with sturdy wooden shutters ([#81546](https://github.com/CleverRaven/Cataclysm-DDA/pull/81546))
 
 ---
 
@@ -205,6 +206,5 @@
 * Add poutine  ([#81404](https://github.com/CleverRaven/Cataclysm-DDA/pull/81404))
 * use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
 * [MoM] Fix Teleportation Damage failing to teleport the target ([#81392](https://github.com/CleverRaven/Cataclysm-DDA/pull/81392))
-* [Xedra Evolved] Fix beta talker error from Ring of Champions EoC ([#81390](https://github.com/CleverRaven/Cataclysm-DDA/pull/81390))
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite ([#81398](https://github.com/CleverRaven/Cataclysm-DDA/pull/81398))
 * Compact compressed overmaps. ([#81394](https://github.com/CleverRaven/Cataclysm-DDA/pull/81394))

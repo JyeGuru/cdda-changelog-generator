@@ -1,3 +1,4 @@
+* Let there be light: Board up a window with sturdy wooden shutters (#81546)
 
 Cataclysm-DDA experimental build 2025-07-02-2253 (5d89fee)
 * Typo in Dark Triad mutation (#81551)
@@ -136,6 +137,5 @@ Cataclysm-DDA experimental build 2025-06-28-0922 (835432a)
 * Add poutine  (#81404)
 * use new metal trash SUS group in scrapyard (#81410)
 * [MoM] Fix Teleportation Damage failing to teleport the target (#81392)
-* [Xedra Evolved] Fix beta talker error from Ring of Champions EoC (#81390)
 * [DO NOT MERGE] Remove hardcoded reference to aftershock in test suite (#81398)
 * Compact compressed overmaps. (#81394)
