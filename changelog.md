@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-03-0538 ([66bb5e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-03-0538))
+
+* Add a few simple shotgun variants ([#81460](https://github.com/CleverRaven/Cataclysm-DDA/pull/81460))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-03-0141 ([e2efb58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-03-0141))
 
 * Let there be light: Board up a window with sturdy wooden shutters ([#81546](https://github.com/CleverRaven/Cataclysm-DDA/pull/81546))
@@ -199,7 +205,6 @@
 * Explicitly set base zombie grab cooldown to 2 ([#81401](https://github.com/CleverRaven/Cataclysm-DDA/pull/81401))
 * [XE] Mentor tweaks ([#81400](https://github.com/CleverRaven/Cataclysm-DDA/pull/81400))
 * [Magiclysm/Bombastic Perks]: Add Efficient Spell metamagic perk ([#81417](https://github.com/CleverRaven/Cataclysm-DDA/pull/81417))
-* [MoM] Add Extended Channeling to new channeling success jmath ([#81391](https://github.com/CleverRaven/Cataclysm-DDA/pull/81391))
 * Nests recipes in Armor/Suits and Armor/Other categories + small fixes ([#81409](https://github.com/CleverRaven/Cataclysm-DDA/pull/81409))
 * Fix special attack cooldowns ([#81406](https://github.com/CleverRaven/Cataclysm-DDA/pull/81406))
 * fix grass in the junkyard ([#81412](https://github.com/CleverRaven/Cataclysm-DDA/pull/81412))
