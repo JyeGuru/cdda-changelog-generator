@@ -1,3 +1,10 @@
+* make faults able to alter item encumbrance ([#81575](https://github.com/CleverRaven/Cataclysm-DDA/pull/81575))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-04-1603 ([562290b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-1603))
+
+* Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
 
 ---
 
@@ -126,12 +133,6 @@
 #### Cataclysm-DDA experimental build 2025-07-01-0345 ([0c4a5cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-01-0345))
 
 * Generic tie-down/haul system for furniture on vehicles ([#81501](https://github.com/CleverRaven/Cataclysm-DDA/pull/81501))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-30-1507 ([ecacf78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-1507))
-
-* [MoM] Slight weariness adjustments to channeling formula ([#81420](https://github.com/CleverRaven/Cataclysm-DDA/pull/81420))
 * Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
 * Improve mod migration ([#81521](https://github.com/CleverRaven/Cataclysm-DDA/pull/81521))
@@ -148,11 +149,6 @@
 
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
 * Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-30-0550 ([6244283](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-0550))
-
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))
 * Add two new rifles ([#81469](https://github.com/CleverRaven/Cataclysm-DDA/pull/81469))
 * Remove Dracos ([#81498](https://github.com/CleverRaven/Cataclysm-DDA/pull/81498))
@@ -183,7 +179,6 @@
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
-* Fix lack of gaining power xp ([#81419](https://github.com/CleverRaven/Cataclysm-DDA/pull/81419))
 * Fix endless loop on mutation with low primer vitamin ([#81424](https://github.com/CleverRaven/Cataclysm-DDA/pull/81424))
 * Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
