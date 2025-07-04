@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-04-0449 ([11c588f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0449))
+
 * Create dust when smashing furniture and terrain ([#81565](https://github.com/CleverRaven/Cataclysm-DDA/pull/81565))
 
 ---
@@ -160,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2025-06-29-1602 ([c6b3802](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-1602))
 
 * Update cast_spell_items.json ([#81511](https://github.com/CleverRaven/Cataclysm-DDA/pull/81511))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-29-1026 ([f8698fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-1026))
-
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
 * Smokes no longer mentions computers in evac shelters ([#81473](https://github.com/CleverRaven/Cataclysm-DDA/pull/81473))
 * Start of cataclysm is 5 days before game start ([#81492](https://github.com/CleverRaven/Cataclysm-DDA/pull/81492))
