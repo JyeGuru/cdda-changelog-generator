@@ -1,3 +1,4 @@
+* Highways, JSON portion (#81550)
 
 Cataclysm-DDA experimental build 2025-07-04-0730 (7cba462)
 * Aftershock: Disable A shadow event. (#81581)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2025-06-29-2353 (0a667b3)
 * eliminate bagged trash repeats (#81426)
 * add missing trashcans in strip mall (#81430)
 * [Magiclysm/Bombastic Perks]: Add Efficient Spell metamagic perk (#81417)
-* Nests recipes in Armor/Suits and Armor/Other categories + small fixes (#81409)
 * fix grass in the junkyard (#81412)
 * use new metal trash SUS group in scrapyard (#81410)
