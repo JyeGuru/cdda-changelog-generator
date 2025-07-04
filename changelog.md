@@ -1,3 +1,7 @@
+* Update the table of contents in doc/JSON/JSON_INFO.md ([#81542](https://github.com/CleverRaven/Cataclysm-DDA/pull/81542))
+* Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
+* Aftershock: Cryosuit Audit and UI elements. ([#81579](https://github.com/CleverRaven/Cataclysm-DDA/pull/81579))
+* add gym bags ([#81573](https://github.com/CleverRaven/Cataclysm-DDA/pull/81573))
 
 ---
 
@@ -118,12 +122,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-06-30-2242 ([7614d2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-2242))
-
-* Weekly Changelog 2025-06-16 to 2025-06-23 ([#81413](https://github.com/CleverRaven/Cataclysm-DDA/pull/81413))
-
----
-
 #### Cataclysm-DDA experimental build 2025-06-30-1507 ([ecacf78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-1507))
 
 * [MoM] Slight weariness adjustments to channeling formula ([#81420](https://github.com/CleverRaven/Cataclysm-DDA/pull/81420))
@@ -183,7 +181,6 @@
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
-* [MoM/Bombastic Perks] Update Clear-minded Channeling perk ([#81411](https://github.com/CleverRaven/Cataclysm-DDA/pull/81411))
 * Fix lack of gaining power xp ([#81419](https://github.com/CleverRaven/Cataclysm-DDA/pull/81419))
 * Fix endless loop on mutation with low primer vitamin ([#81424](https://github.com/CleverRaven/Cataclysm-DDA/pull/81424))
 * Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
@@ -205,5 +202,3 @@
 * eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
 * add missing trashcans in strip mall ([#81430](https://github.com/CleverRaven/Cataclysm-DDA/pull/81430))
 * [Magiclysm/Bombastic Perks]: Add Efficient Spell metamagic perk ([#81417](https://github.com/CleverRaven/Cataclysm-DDA/pull/81417))
-* fix grass in the junkyard ([#81412](https://github.com/CleverRaven/Cataclysm-DDA/pull/81412))
-* use new metal trash SUS group in scrapyard ([#81410](https://github.com/CleverRaven/Cataclysm-DDA/pull/81410))
