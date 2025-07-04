@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-04-0730 (7cba462)
+* Aftershock: Disable A shadow event. (#81581)
+
 Cataclysm-DDA experimental build 2025-07-04-0449 (11c588f)
 * Create dust when smashing furniture and terrain (#81565)
 
@@ -50,9 +53,6 @@ Cataclysm-DDA experimental build 2025-07-02-0129 (a72e84f)
 
 Cataclysm-DDA experimental build 2025-07-01-1401 (c977b74)
 * Typo fix in slimes.json (#81537)
-
-Cataclysm-DDA experimental build 2025-07-01-0604 (5e8e5fa)
-* Vehicle enchantments and effects (#81408)
 * Descriptive recipe names (#81488)
 * Update PR template for brevity (#81483)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#81536)
@@ -90,8 +90,6 @@ Cataclysm-DDA experimental build 2025-06-30-0240 (df764a5)
 
 Cataclysm-DDA experimental build 2025-06-29-2353 (0a667b3)
 * [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait (#81518)
-
-Cataclysm-DDA experimental build 2025-06-29-1602 (c6b3802)
 * Update cast_spell_items.json (#81511)
 * Assigning steel to tools from landscaping.json (#81512)
 * Smokes no longer mentions computers in evac shelters (#81473)

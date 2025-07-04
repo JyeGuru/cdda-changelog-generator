@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-04-0730 ([7cba462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0730))
+
+* Aftershock: Disable A shadow event. ([#81581](https://github.com/CleverRaven/Cataclysm-DDA/pull/81581))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-04-0449 ([11c588f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0449))
 
 * Create dust when smashing furniture and terrain ([#81565](https://github.com/CleverRaven/Cataclysm-DDA/pull/81565))
@@ -92,12 +98,6 @@
 #### Cataclysm-DDA experimental build 2025-07-01-1401 ([c977b74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-01-1401))
 
 * Typo fix in slimes.json ([#81537](https://github.com/CleverRaven/Cataclysm-DDA/pull/81537))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-01-0604 ([5e8e5fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-01-0604))
-
-* Vehicle enchantments and effects ([#81408](https://github.com/CleverRaven/Cataclysm-DDA/pull/81408))
 * Descriptive recipe names ([#81488](https://github.com/CleverRaven/Cataclysm-DDA/pull/81488))
 * Update PR template for brevity ([#81483](https://github.com/CleverRaven/Cataclysm-DDA/pull/81483))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81536](https://github.com/CleverRaven/Cataclysm-DDA/pull/81536))
@@ -159,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2025-06-29-2353 ([0a667b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-2353))
 
 * [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait ([#81518](https://github.com/CleverRaven/Cataclysm-DDA/pull/81518))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-29-1602 ([c6b3802](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-1602))
-
 * Update cast_spell_items.json ([#81511](https://github.com/CleverRaven/Cataclysm-DDA/pull/81511))
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
 * Smokes no longer mentions computers in evac shelters ([#81473](https://github.com/CleverRaven/Cataclysm-DDA/pull/81473))
