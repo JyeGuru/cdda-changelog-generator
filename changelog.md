@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-04-1234 ([379e62f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-1234))
+
 * Make darren Cooper psycopath ([#81568](https://github.com/CleverRaven/Cataclysm-DDA/pull/81568))
 * adjust protein ration calories ([#81567](https://github.com/CleverRaven/Cataclysm-DDA/pull/81567))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81542](https://github.com/CleverRaven/Cataclysm-DDA/pull/81542))
@@ -149,11 +154,6 @@
 #### Cataclysm-DDA experimental build 2025-06-30-0550 ([6244283](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-0550))
 
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-30-0240 ([df764a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-0240))
-
 * Add two new rifles ([#81469](https://github.com/CleverRaven/Cataclysm-DDA/pull/81469))
 * Remove Dracos ([#81498](https://github.com/CleverRaven/Cataclysm-DDA/pull/81498))
 * [Magiclysm] Fix skin tones layering ([#81515](https://github.com/CleverRaven/Cataclysm-DDA/pull/81515))

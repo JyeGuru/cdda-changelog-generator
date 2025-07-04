@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-04-1234 (379e62f)
 * Make darren Cooper psycopath (#81568)
 * adjust protein ration calories (#81567)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#81542)
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2025-06-30-0821 (8e42663)
 
 Cataclysm-DDA experimental build 2025-06-30-0550 (6244283)
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels (#81522)
-
-Cataclysm-DDA experimental build 2025-06-30-0240 (df764a5)
 * Add two new rifles (#81469)
 * Remove Dracos (#81498)
 * [Magiclysm] Fix skin tones layering (#81515)
