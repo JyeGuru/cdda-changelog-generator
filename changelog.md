@@ -1,3 +1,4 @@
+* don’t compute the size of far away hordes ([#81560](https://github.com/CleverRaven/Cataclysm-DDA/pull/81560))
 * Innawood recipe product amount fixes ([#81593](https://github.com/CleverRaven/Cataclysm-DDA/pull/81593))
 * Fix tool requirements for crystallizing sugar ([#81595](https://github.com/CleverRaven/Cataclysm-DDA/pull/81595))
 * Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
@@ -195,5 +196,4 @@
 * Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
 * Monsters can be forced to flee through an EoC ([#81428](https://github.com/CleverRaven/Cataclysm-DDA/pull/81428))
-* eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
 * add missing trashcans in strip mall ([#81430](https://github.com/CleverRaven/Cataclysm-DDA/pull/81430))
