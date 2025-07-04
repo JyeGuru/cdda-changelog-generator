@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-04-1823 ([22ecfa1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-1823))
+
 * make faults able to alter item encumbrance ([#81575](https://github.com/CleverRaven/Cataclysm-DDA/pull/81575))
 
 ---
@@ -142,11 +147,6 @@
 #### Cataclysm-DDA experimental build 2025-06-30-1232 ([0a0f989](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-1232))
 
 * A few anvils ([#81445](https://github.com/CleverRaven/Cataclysm-DDA/pull/81445))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-30-0821 ([8e42663](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-0821))
-
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
 * Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))
