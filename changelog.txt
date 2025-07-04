@@ -1,3 +1,4 @@
+* Create dust when smashing furniture and terrain (#81565)
 
 Cataclysm-DDA experimental build 2025-07-04-0219 (92229d1)
 * [MoM] Fix Noetic Resonance Detector placement (#81572)
@@ -137,6 +138,5 @@ Cataclysm-DDA experimental build 2025-06-29-1026 (f8698fc)
 * add missing trashcans in strip mall (#81430)
 * [Magiclysm/Bombastic Perks]: Add Efficient Spell metamagic perk (#81417)
 * Nests recipes in Armor/Suits and Armor/Other categories + small fixes (#81409)
-* Fix special attack cooldowns (#81406)
 * fix grass in the junkyard (#81412)
 * use new metal trash SUS group in scrapyard (#81410)
