@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-04-0219 ([92229d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0219))
+
 * [MoM] Fix Noetic Resonance Detector placement ([#81572](https://github.com/CleverRaven/Cataclysm-DDA/pull/81572))
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
 
@@ -160,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2025-06-29-1026 ([f8698fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-1026))
 
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-29-0804 ([7fb2401](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-29-0804))
-
 * Smokes no longer mentions computers in evac shelters ([#81473](https://github.com/CleverRaven/Cataclysm-DDA/pull/81473))
 * Start of cataclysm is 5 days before game start ([#81492](https://github.com/CleverRaven/Cataclysm-DDA/pull/81492))
 * Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
