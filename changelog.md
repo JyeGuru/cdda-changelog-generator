@@ -1,3 +1,12 @@
+* Innawood recipe product amount fixes ([#81593](https://github.com/CleverRaven/Cataclysm-DDA/pull/81593))
+* Fix tool requirements for crystallizing sugar ([#81595](https://github.com/CleverRaven/Cataclysm-DDA/pull/81595))
+* Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-04-2333 ([3aa5c94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-2333))
+
+* More Sky island upgrades ([#81562](https://github.com/CleverRaven/Cataclysm-DDA/pull/81562))
 
 ---
 
@@ -141,11 +150,6 @@
 * Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
 * Improve mod migration ([#81521](https://github.com/CleverRaven/Cataclysm-DDA/pull/81521))
-
----
-
-#### Cataclysm-DDA experimental build 2025-06-30-1232 ([0a0f989](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-06-30-1232))
-
 * A few anvils ([#81445](https://github.com/CleverRaven/Cataclysm-DDA/pull/81445))
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
 * Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))
@@ -179,12 +183,9 @@
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
-* Fix endless loop on mutation with low primer vitamin ([#81424](https://github.com/CleverRaven/Cataclysm-DDA/pull/81424))
 * Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
-* Add description of special attack selection logic. ([#81422](https://github.com/CleverRaven/Cataclysm-DDA/pull/81422))
 * take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))
-* [MoM] Add extremely rare setpiece with dead Texopapalotl crew member ([#81425](https://github.com/CleverRaven/Cataclysm-DDA/pull/81425))
 * Priotize Sapiovore trait and its friends when consuming human flesh ([#81442](https://github.com/CleverRaven/Cataclysm-DDA/pull/81442))
 * Don't show hostile NPCs on overmap ([#81433](https://github.com/CleverRaven/Cataclysm-DDA/pull/81433))
 * Recipe for protein smoothie with powdered milk  ([#81437](https://github.com/CleverRaven/Cataclysm-DDA/pull/81437))
@@ -193,7 +194,6 @@
 * adjust cannibal descriptions to be less subjective ([#81434](https://github.com/CleverRaven/Cataclysm-DDA/pull/81434))
 * Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
-* use SUS trashcan public in the mall ([#81421](https://github.com/CleverRaven/Cataclysm-DDA/pull/81421))
 * Monsters can be forced to flee through an EoC ([#81428](https://github.com/CleverRaven/Cataclysm-DDA/pull/81428))
 * eliminate bagged trash repeats ([#81426](https://github.com/CleverRaven/Cataclysm-DDA/pull/81426))
 * add missing trashcans in strip mall ([#81430](https://github.com/CleverRaven/Cataclysm-DDA/pull/81430))
