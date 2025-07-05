@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-05-1154 ([c6563b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-1154))
+
+* Routine i18n updates on 05 July 2025 ([#81604](https://github.com/CleverRaven/Cataclysm-DDA/pull/81604))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-05-0411 ([ac7da1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-0411))
 
 * Gracefully handle empty files when compressing existing saves. ([#81603](https://github.com/CleverRaven/Cataclysm-DDA/pull/81603))
@@ -183,7 +189,6 @@
 * Add myself (SariusSkelrets) to command list. ([#81499](https://github.com/CleverRaven/Cataclysm-DDA/pull/81499))
 * [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
 * Helicopters can take off from the military helipad ([#81470](https://github.com/CleverRaven/Cataclysm-DDA/pull/81470))
-* add pulp_or_dismember autopulp option + minor edits ([#81429](https://github.com/CleverRaven/Cataclysm-DDA/pull/81429))
 * Routine i18n updates on 28 June 2025 ([#81500](https://github.com/CleverRaven/Cataclysm-DDA/pull/81500))
 * CDDA can now make Julienne Fries  ([#81466](https://github.com/CleverRaven/Cataclysm-DDA/pull/81466))
 * Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
