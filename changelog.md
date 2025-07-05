@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-05-0411 ([ac7da1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-0411))
+
 * Gracefully handle empty files when compressing existing saves. ([#81603](https://github.com/CleverRaven/Cataclysm-DDA/pull/81603))
 
 ---

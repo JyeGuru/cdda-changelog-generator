@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-05-0411 (ac7da1e)
 * Gracefully handle empty files when compressing existing saves. (#81603)
 
 Cataclysm-DDA experimental build 2025-07-05-0151 (e30c9b2)
