@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-05-1557 ([89208ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-1557))
+
+* Nuclear Power Plant upgrade ([#81598](https://github.com/CleverRaven/Cataclysm-DDA/pull/81598))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-05-1154 ([c6563b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-1154))
 
 * Routine i18n updates on 05 July 2025 ([#81604](https://github.com/CleverRaven/Cataclysm-DDA/pull/81604))
@@ -159,11 +165,6 @@
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81536](https://github.com/CleverRaven/Cataclysm-DDA/pull/81536))
 * Some love for throwing weapons! ([#81532](https://github.com/CleverRaven/Cataclysm-DDA/pull/81532))
 * Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-01-0345 ([0c4a5cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-01-0345))
-
 * Generic tie-down/haul system for furniture on vehicles ([#81501](https://github.com/CleverRaven/Cataclysm-DDA/pull/81501))
 * Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
@@ -211,4 +212,3 @@
 * adjust cannibal descriptions to be less subjective ([#81434](https://github.com/CleverRaven/Cataclysm-DDA/pull/81434))
 * Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
-* add missing trashcans in strip mall ([#81430](https://github.com/CleverRaven/Cataclysm-DDA/pull/81430))

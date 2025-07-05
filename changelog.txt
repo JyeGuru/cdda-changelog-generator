@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-05-1557 (89208ee)
+* Nuclear Power Plant upgrade (#81598)
+
 Cataclysm-DDA experimental build 2025-07-05-1154 (c6563b8)
 * Routine i18n updates on 05 July 2025 (#81604)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2025-07-01-1401 (c977b74)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#81536)
 * Some love for throwing weapons! (#81532)
 * Melee Weapon Tech Adjustment (#81535)
-
-Cataclysm-DDA experimental build 2025-07-01-0345 (0c4a5cb)
 * Generic tie-down/haul system for furniture on vehicles (#81501)
 * Audit ammo uncrafts (#81519)
 * dumpster fixes (#81530)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2025-07-01-0345 (0c4a5cb)
 * adjust cannibal descriptions to be less subjective (#81434)
 * Add a notice when in weather mode (#81435)
 * The military base has barbed wire instead of minefields (#81438)
-* add missing trashcans in strip mall (#81430)
