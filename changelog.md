@@ -1,3 +1,11 @@
+* Add 3 new guns (308 Model 700, .22 Savage Rascal, .32 LWS) ([#81619](https://github.com/CleverRaven/Cataclysm-DDA/pull/81619))
+* fix npc pulping ([#81606](https://github.com/CleverRaven/Cataclysm-DDA/pull/81606))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-06-1428 ([05a514a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-06-1428))
+
+* Somewhat relax shooting_at_terrain test passing criteria (Revive #79772) ([#81452](https://github.com/CleverRaven/Cataclysm-DDA/pull/81452))
 
 ---
 
@@ -212,8 +220,5 @@
 * Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
 * take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))
-* Priotize Sapiovore trait and its friends when consuming human flesh ([#81442](https://github.com/CleverRaven/Cataclysm-DDA/pull/81442))
-* Recipe for protein smoothie with powdered milk  ([#81437](https://github.com/CleverRaven/Cataclysm-DDA/pull/81437))
 * Vampirism updates to account for new base blood need. ([#81446](https://github.com/CleverRaven/Cataclysm-DDA/pull/81446))
 * Fix workflow title string used to allow basic build to run on draft PRs ([#81444](https://github.com/CleverRaven/Cataclysm-DDA/pull/81444))
-* The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))

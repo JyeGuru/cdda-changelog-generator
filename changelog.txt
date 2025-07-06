@@ -1,3 +1,8 @@
+* Add 3 new guns (308 Model 700, .22 Savage Rascal, .32 LWS) (#81619)
+* fix npc pulping (#81606)
+
+Cataclysm-DDA experimental build 2025-07-06-1428 (05a514a)
+* Somewhat relax shooting_at_terrain test passing criteria (Revive #79772) (#81452)
 
 Cataclysm-DDA experimental build 2025-07-06-0732 (8743949)
 * Remove references to minefields (#81612)
@@ -137,8 +142,5 @@ Cataclysm-DDA experimental build 2025-07-02-0129 (a72e84f)
 * Stronger tests on spawn_test_monster (#81450)
 * Stop treating c-strings as bool arguments (#81451)
 * take the trash out of the filing cabinet in the mall (#81449)
-* Priotize Sapiovore trait and its friends when consuming human flesh (#81442)
-* Recipe for protein smoothie with powdered milk  (#81437)
 * Vampirism updates to account for new base blood need. (#81446)
 * Fix workflow title string used to allow basic build to run on draft PRs (#81444)
-* The military base has barbed wire instead of minefields (#81438)
