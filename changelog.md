@@ -1,3 +1,5 @@
+* Limit range flowing water can be channeled ([#81615](https://github.com/CleverRaven/Cataclysm-DDA/pull/81615))
+* Analysis kit tweaks ([#81617](https://github.com/CleverRaven/Cataclysm-DDA/pull/81617))
 * Add 3 new guns (308 Model 700, .22 Savage Rascal, .32 LWS) ([#81619](https://github.com/CleverRaven/Cataclysm-DDA/pull/81619))
 * fix npc pulping ([#81606](https://github.com/CleverRaven/Cataclysm-DDA/pull/81606))
 
@@ -185,7 +187,6 @@
 * Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
 * Improve mod migration ([#81521](https://github.com/CleverRaven/Cataclysm-DDA/pull/81521))
-* A few anvils ([#81445](https://github.com/CleverRaven/Cataclysm-DDA/pull/81445))
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
 * Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))
@@ -221,4 +222,3 @@
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
 * take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))
 * Vampirism updates to account for new base blood need. ([#81446](https://github.com/CleverRaven/Cataclysm-DDA/pull/81446))
-* Fix workflow title string used to allow basic build to run on draft PRs ([#81444](https://github.com/CleverRaven/Cataclysm-DDA/pull/81444))
