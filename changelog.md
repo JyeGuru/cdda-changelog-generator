@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-06-0519 ([eca4194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-06-0519))
+
+* Fix drawing items under fields in no tiles mode ([#81611](https://github.com/CleverRaven/Cataclysm-DDA/pull/81611))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-05-1557 ([89208ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-1557))
 
 * Nuclear Power Plant upgrade ([#81598](https://github.com/CleverRaven/Cataclysm-DDA/pull/81598))
@@ -205,7 +211,6 @@
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
 * take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))
 * Priotize Sapiovore trait and its friends when consuming human flesh ([#81442](https://github.com/CleverRaven/Cataclysm-DDA/pull/81442))
-* Don't show hostile NPCs on overmap ([#81433](https://github.com/CleverRaven/Cataclysm-DDA/pull/81433))
 * Recipe for protein smoothie with powdered milk  ([#81437](https://github.com/CleverRaven/Cataclysm-DDA/pull/81437))
 * Vampirism updates to account for new base blood need. ([#81446](https://github.com/CleverRaven/Cataclysm-DDA/pull/81446))
 * Fix workflow title string used to allow basic build to run on draft PRs ([#81444](https://github.com/CleverRaven/Cataclysm-DDA/pull/81444))

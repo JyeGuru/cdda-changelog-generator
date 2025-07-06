@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-06-0519 (eca4194)
+* Fix drawing items under fields in no tiles mode (#81611)
+
 Cataclysm-DDA experimental build 2025-07-05-1557 (89208ee)
 * Nuclear Power Plant upgrade (#81598)
 
@@ -133,7 +136,6 @@ Cataclysm-DDA experimental build 2025-07-01-1401 (c977b74)
 * Stop treating c-strings as bool arguments (#81451)
 * take the trash out of the filing cabinet in the mall (#81449)
 * Priotize Sapiovore trait and its friends when consuming human flesh (#81442)
-* Don't show hostile NPCs on overmap (#81433)
 * Recipe for protein smoothie with powdered milk  (#81437)
 * Vampirism updates to account for new base blood need. (#81446)
 * Fix workflow title string used to allow basic build to run on draft PRs (#81444)
