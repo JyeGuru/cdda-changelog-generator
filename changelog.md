@@ -1,3 +1,4 @@
+* Add assertion to skill rust test about excessive rust speed ([#81613](https://github.com/CleverRaven/Cataclysm-DDA/pull/81613))
 
 ---
 
@@ -214,6 +215,5 @@
 * Recipe for protein smoothie with powdered milk  ([#81437](https://github.com/CleverRaven/Cataclysm-DDA/pull/81437))
 * Vampirism updates to account for new base blood need. ([#81446](https://github.com/CleverRaven/Cataclysm-DDA/pull/81446))
 * Fix workflow title string used to allow basic build to run on draft PRs ([#81444](https://github.com/CleverRaven/Cataclysm-DDA/pull/81444))
-* adjust cannibal descriptions to be less subjective ([#81434](https://github.com/CleverRaven/Cataclysm-DDA/pull/81434))
 * Add a notice when in weather mode ([#81435](https://github.com/CleverRaven/Cataclysm-DDA/pull/81435))
 * The military base has barbed wire instead of minefields ([#81438](https://github.com/CleverRaven/Cataclysm-DDA/pull/81438))
