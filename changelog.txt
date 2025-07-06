@@ -1,3 +1,4 @@
+* Remove references to minefields (#81612)
 * Add assertion to skill rust test about excessive rust speed (#81613)
 
 Cataclysm-DDA experimental build 2025-07-06-0519 (eca4194)
@@ -140,5 +141,4 @@ Cataclysm-DDA experimental build 2025-07-01-1401 (c977b74)
 * Recipe for protein smoothie with powdered milk  (#81437)
 * Vampirism updates to account for new base blood need. (#81446)
 * Fix workflow title string used to allow basic build to run on draft PRs (#81444)
-* Add a notice when in weather mode (#81435)
 * The military base has barbed wire instead of minefields (#81438)
