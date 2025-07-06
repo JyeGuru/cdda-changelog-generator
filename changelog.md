@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-06-1644 ([6af4787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-06-1644))
+
 * Limit range flowing water can be channeled ([#81615](https://github.com/CleverRaven/Cataclysm-DDA/pull/81615))
 * Analysis kit tweaks ([#81617](https://github.com/CleverRaven/Cataclysm-DDA/pull/81617))
 * Add 3 new guns (308 Model 700, .22 Savage Rascal, .32 LWS) ([#81619](https://github.com/CleverRaven/Cataclysm-DDA/pull/81619))
