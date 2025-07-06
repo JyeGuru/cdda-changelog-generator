@@ -1,3 +1,4 @@
+* Remove pointless copy of stomach size ([#81609](https://github.com/CleverRaven/Cataclysm-DDA/pull/81609))
 
 ---
 
@@ -226,4 +227,3 @@
 * Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
 * take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))
-* Vampirism updates to account for new base blood need. ([#81446](https://github.com/CleverRaven/Cataclysm-DDA/pull/81446))

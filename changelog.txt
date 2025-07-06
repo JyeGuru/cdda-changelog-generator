@@ -1,3 +1,4 @@
+* Remove pointless copy of stomach size (#81609)
 
 Cataclysm-DDA experimental build 2025-07-06-1644 (6af4787)
 * Limit range flowing water can be channeled (#81615)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-07-02-0129 (a72e84f)
 * Stronger tests on spawn_test_monster (#81450)
 * Stop treating c-strings as bool arguments (#81451)
 * take the trash out of the filing cabinet in the mall (#81449)
-* Vampirism updates to account for new base blood need. (#81446)
