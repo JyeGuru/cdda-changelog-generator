@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-06-0732 ([8743949](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-06-0732))
+
 * Remove references to minefields ([#81612](https://github.com/CleverRaven/Cataclysm-DDA/pull/81612))
 * Add assertion to skill rust test about excessive rust speed ([#81613](https://github.com/CleverRaven/Cataclysm-DDA/pull/81613))
 
@@ -162,11 +167,6 @@
 * [XE] Add new deduction books and their mechanics. ([#81513](https://github.com/CleverRaven/Cataclysm-DDA/pull/81513))
 * Weekly Changelog 2025-06-23 to 2025-06-30 ([#81529](https://github.com/CleverRaven/Cataclysm-DDA/pull/81529))
 * Routine tileset updates on 01 July 2025 ([#81534](https://github.com/CleverRaven/Cataclysm-DDA/pull/81534))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-01-1401 ([c977b74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-01-1401))
-
 * Typo fix in slimes.json ([#81537](https://github.com/CleverRaven/Cataclysm-DDA/pull/81537))
 * Descriptive recipe names ([#81488](https://github.com/CleverRaven/Cataclysm-DDA/pull/81488))
 * Update PR template for brevity ([#81483](https://github.com/CleverRaven/Cataclysm-DDA/pull/81483))

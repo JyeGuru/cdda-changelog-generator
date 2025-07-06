@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-06-0732 (8743949)
 * Remove references to minefields (#81612)
 * Add assertion to skill rust test about excessive rust speed (#81613)
 
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2025-07-02-0129 (a72e84f)
 * [XE] Add new deduction books and their mechanics. (#81513)
 * Weekly Changelog 2025-06-23 to 2025-06-30 (#81529)
 * Routine tileset updates on 01 July 2025 (#81534)
-
-Cataclysm-DDA experimental build 2025-07-01-1401 (c977b74)
 * Typo fix in slimes.json (#81537)
 * Descriptive recipe names (#81488)
 * Update PR template for brevity (#81483)
