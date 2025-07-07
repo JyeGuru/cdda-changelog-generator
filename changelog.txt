@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-07-1325 (712b21a)
 * [MoM] Fix Phase/Farstep volume calculations (#81626)
 
 Cataclysm-DDA experimental build 2025-07-07-1050 (5e66810)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2025-07-02-2022 (7350568)
 
 Cataclysm-DDA experimental build 2025-07-02-1722 (bd5eb79)
 * Aftershock: Augstmoon vendors sell more tools. (#81554)
-
-Cataclysm-DDA experimental build 2025-07-02-0906 (a1b4a40)
 * Make 'A shadow?' always visible. (#81485)
 * Allow dragging furniture on/off vehicles (#81538)
 * boxes inside of boxes in aid airdrop (#81545)

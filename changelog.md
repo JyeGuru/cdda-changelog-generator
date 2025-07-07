@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-07-1325 ([712b21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-1325))
+
 * [MoM] Fix Phase/Farstep volume calculations ([#81626](https://github.com/CleverRaven/Cataclysm-DDA/pull/81626))
 
 ---
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-07-02-1722 ([bd5eb79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-1722))
 
 * Aftershock: Augstmoon vendors sell more tools. ([#81554](https://github.com/CleverRaven/Cataclysm-DDA/pull/81554))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-02-0906 ([a1b4a40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-0906))
-
 * Make 'A shadow?' always visible. ([#81485](https://github.com/CleverRaven/Cataclysm-DDA/pull/81485))
 * Allow dragging furniture on/off vehicles ([#81538](https://github.com/CleverRaven/Cataclysm-DDA/pull/81538))
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
