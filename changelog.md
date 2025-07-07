@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-07-0049 ([000a540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-0049))
+
+* Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
 * Remove pointless copy of stomach size ([#81609](https://github.com/CleverRaven/Cataclysm-DDA/pull/81609))
 
 ---
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-07-02-0400 ([2568f7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-0400))
 
 * [MoM] Add Cuāuhpilli special forces profession ([#81523](https://github.com/CleverRaven/Cataclysm-DDA/pull/81523))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-02-0129 ([a72e84f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-0129))
-
 * Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
 * Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
 * [XE] Add new deduction books and their mechanics. ([#81513](https://github.com/CleverRaven/Cataclysm-DDA/pull/81513))
@@ -226,4 +227,3 @@
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
 * Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
-* take the trash out of the filing cabinet in the mall ([#81449](https://github.com/CleverRaven/Cataclysm-DDA/pull/81449))

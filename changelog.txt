@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-07-07-0049 (000a540)
+* Revert accidental 100x increase in gunshop quantities (#81627)
 * Remove pointless copy of stomach size (#81609)
 
 Cataclysm-DDA experimental build 2025-07-06-1644 (6af4787)
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2025-07-02-0906 (a1b4a40)
 
 Cataclysm-DDA experimental build 2025-07-02-0400 (2568f7f)
 * [MoM] Add Cuāuhpilli special forces profession (#81523)
-
-Cataclysm-DDA experimental build 2025-07-02-0129 (a72e84f)
 * Prevent building in air. (#81544)
 * Add Demihuman Bones to Temperature Removal Blacklist (#81539)
 * [XE] Add new deduction books and their mechanics. (#81513)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-07-02-0129 (a72e84f)
 * [Magiclysm] Spellcasting always grants proficiency XP (#81467)
 * Stronger tests on spawn_test_monster (#81450)
 * Stop treating c-strings as bool arguments (#81451)
-* take the trash out of the filing cabinet in the mall (#81449)
