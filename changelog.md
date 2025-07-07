@@ -1,3 +1,4 @@
+* Tune and expand furniture bash fields ([#81628](https://github.com/CleverRaven/Cataclysm-DDA/pull/81628))
 
 ---
 
@@ -211,7 +212,6 @@
 * Start of cataclysm is 5 days before game start ([#81492](https://github.com/CleverRaven/Cataclysm-DDA/pull/81492))
 * Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
 * [MoM] Grounding Meditation scales with metaphysics ([#81457](https://github.com/CleverRaven/Cataclysm-DDA/pull/81457))
-* Obsolete Glock 31 ([#81455](https://github.com/CleverRaven/Cataclysm-DDA/pull/81455))
 * Add Moxian as IWYU "code owner" for review notifications ([#81502](https://github.com/CleverRaven/Cataclysm-DDA/pull/81502))
 * Add myself (SariusSkelrets) to command list. ([#81499](https://github.com/CleverRaven/Cataclysm-DDA/pull/81499))
 * [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
