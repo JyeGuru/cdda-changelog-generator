@@ -1,3 +1,4 @@
+* Add hub 02 ([#81528](https://github.com/CleverRaven/Cataclysm-DDA/pull/81528))
 
 ---
 
@@ -226,4 +227,3 @@
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
-* Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))

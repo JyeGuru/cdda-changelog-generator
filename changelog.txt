@@ -1,3 +1,4 @@
+* Add hub 02 (#81528)
 
 Cataclysm-DDA experimental build 2025-07-07-0319 (3c978ee)
 * You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other (#81599)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-07-02-0906 (a1b4a40)
 * You can deconstruct and place bean bags (#81462)
 * Add Bayonet Lug to Mossberg 590A1 (#81463)
 * [Magiclysm] Spellcasting always grants proficiency XP (#81467)
-* Stop treating c-strings as bool arguments (#81451)
