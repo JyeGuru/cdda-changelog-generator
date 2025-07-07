@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-07-0319 ([3c978ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-0319))
+
+* You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other ([#81599](https://github.com/CleverRaven/Cataclysm-DDA/pull/81599))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-07-0049 ([000a540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-0049))
 
 * Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
@@ -173,11 +179,6 @@
 * Make 'A shadow?' always visible. ([#81485](https://github.com/CleverRaven/Cataclysm-DDA/pull/81485))
 * Allow dragging furniture on/off vehicles ([#81538](https://github.com/CleverRaven/Cataclysm-DDA/pull/81538))
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-02-0400 ([2568f7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-0400))
-
 * [MoM] Add Cuāuhpilli special forces profession ([#81523](https://github.com/CleverRaven/Cataclysm-DDA/pull/81523))
 * Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
 * Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
@@ -225,5 +226,4 @@
 * You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
-* Stronger tests on spawn_test_monster ([#81450](https://github.com/CleverRaven/Cataclysm-DDA/pull/81450))
 * Stop treating c-strings as bool arguments ([#81451](https://github.com/CleverRaven/Cataclysm-DDA/pull/81451))
