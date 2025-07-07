@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-07-1050 ([5e66810](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-1050))
+
 * Add hub 02 ([#81528](https://github.com/CleverRaven/Cataclysm-DDA/pull/81528))
 
 ---

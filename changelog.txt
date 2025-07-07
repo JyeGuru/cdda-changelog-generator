@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-07-1050 (5e66810)
 * Add hub 02 (#81528)
 
 Cataclysm-DDA experimental build 2025-07-07-0319 (3c978ee)
