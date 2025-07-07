@@ -1,3 +1,4 @@
+* add support for fault applying via itemgroup (#81585)
 * Tune and expand furniture bash fields (#81628)
 
 Cataclysm-DDA experimental build 2025-07-07-1325 (712b21a)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2025-07-02-1722 (bd5eb79)
 * Smokes no longer mentions computers in evac shelters (#81473)
 * Start of cataclysm is 5 days before game start (#81492)
 * Fix Powdered Milk Not Giving Calories (#81508)
-* [MoM] Grounding Meditation scales with metaphysics (#81457)
 * Add Moxian as IWYU "code owner" for review notifications (#81502)
 * Add myself (SariusSkelrets) to command list. (#81499)
 * [Magiclysm] Add feral animists (#81495)
