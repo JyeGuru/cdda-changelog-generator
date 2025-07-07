@@ -1,3 +1,4 @@
+* [MoM] Fix Phase/Farstep volume calculations ([#81626](https://github.com/CleverRaven/Cataclysm-DDA/pull/81626))
 
 ---
 
@@ -26,12 +27,6 @@
 * Analysis kit tweaks ([#81617](https://github.com/CleverRaven/Cataclysm-DDA/pull/81617))
 * Add 3 new guns (308 Model 700, .22 Savage Rascal, .32 LWS) ([#81619](https://github.com/CleverRaven/Cataclysm-DDA/pull/81619))
 * fix npc pulping ([#81606](https://github.com/CleverRaven/Cataclysm-DDA/pull/81606))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-06-1428 ([05a514a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-06-1428))
-
-* Somewhat relax shooting_at_terrain test passing criteria (Revive #79772) ([#81452](https://github.com/CleverRaven/Cataclysm-DDA/pull/81452))
 
 ---
 

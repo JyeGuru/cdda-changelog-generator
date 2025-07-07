@@ -1,3 +1,4 @@
+* [MoM] Fix Phase/Farstep volume calculations (#81626)
 
 Cataclysm-DDA experimental build 2025-07-07-1050 (5e66810)
 * Add hub 02 (#81528)
@@ -14,9 +15,6 @@ Cataclysm-DDA experimental build 2025-07-06-1644 (6af4787)
 * Analysis kit tweaks (#81617)
 * Add 3 new guns (308 Model 700, .22 Savage Rascal, .32 LWS) (#81619)
 * fix npc pulping (#81606)
-
-Cataclysm-DDA experimental build 2025-07-06-1428 (05a514a)
-* Somewhat relax shooting_at_terrain test passing criteria (Revive #79772) (#81452)
 
 Cataclysm-DDA experimental build 2025-07-06-0732 (8743949)
 * Remove references to minefields (#81612)
