@@ -93,8 +93,6 @@ Cataclysm-DDA experimental build 2025-07-03-0841 (8041c07)
 
 Cataclysm-DDA experimental build 2025-07-03-0141 (e2efb58)
 * Let there be light: Board up a window with sturdy wooden shutters (#81546)
-
-Cataclysm-DDA experimental build 2025-07-02-2253 (5d89fee)
 * Typo in Dark Triad mutation (#81551)
 * NPCs can handle liquids from crafting (#81548)
 * Aftershock: Augstmoon vendors sell more tools. (#81554)
