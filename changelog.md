@@ -1,3 +1,4 @@
+* [Xedra Evolved] Custom magic_type for Arvore magick ([#81635](https://github.com/CleverRaven/Cataclysm-DDA/pull/81635))
 * add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
 * Blacksmithing and you: Practice working that chunk of metal until you know how to craft it into others chunks of metal! ([#81533](https://github.com/CleverRaven/Cataclysm-DDA/pull/81533))
 * [ Aftershock ] AFS Monsters should shoot vehicles ([#81639](https://github.com/CleverRaven/Cataclysm-DDA/pull/81639))
@@ -198,7 +199,6 @@
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
 * Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))
-* Add two new rifles ([#81469](https://github.com/CleverRaven/Cataclysm-DDA/pull/81469))
 * Remove Dracos ([#81498](https://github.com/CleverRaven/Cataclysm-DDA/pull/81498))
 * [Magiclysm] Fix skin tones layering ([#81515](https://github.com/CleverRaven/Cataclysm-DDA/pull/81515))
 * [MoM] Add Achievements ([#81490](https://github.com/CleverRaven/Cataclysm-DDA/pull/81490))
