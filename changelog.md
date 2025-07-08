@@ -1,3 +1,4 @@
+* stop spawning exactly half empty bags of food ([#81625](https://github.com/CleverRaven/Cataclysm-DDA/pull/81625))
 
 ---
 
@@ -161,12 +162,6 @@
 
 * new XL duffel bags ([#81553](https://github.com/CleverRaven/Cataclysm-DDA/pull/81553))
 * don’t call std::pow for squaring numbers ([#81559](https://github.com/CleverRaven/Cataclysm-DDA/pull/81559))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-03-0538 ([66bb5e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-03-0538))
-
-* Add a few simple shotgun variants ([#81460](https://github.com/CleverRaven/Cataclysm-DDA/pull/81460))
 
 ---
 
