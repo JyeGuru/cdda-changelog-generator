@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-08-1856 ([348e64a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-1856))
+
 * Audit some zombie attributes (that unintentionally changed in #72534) ([#81620](https://github.com/CleverRaven/Cataclysm-DDA/pull/81620))
 
 ---
@@ -172,11 +177,6 @@
 
 * Quadraphract Maintenance ([#81472](https://github.com/CleverRaven/Cataclysm-DDA/pull/81472))
 * Update comment-commands.yml ([#81558](https://github.com/CleverRaven/Cataclysm-DDA/pull/81558))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-03-0841 ([8041c07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-03-0841))
-
 * new XL duffel bags ([#81553](https://github.com/CleverRaven/Cataclysm-DDA/pull/81553))
 * don’t call std::pow for squaring numbers ([#81559](https://github.com/CleverRaven/Cataclysm-DDA/pull/81559))
 * Let there be light: Board up a window with sturdy wooden shutters ([#81546](https://github.com/CleverRaven/Cataclysm-DDA/pull/81546))
