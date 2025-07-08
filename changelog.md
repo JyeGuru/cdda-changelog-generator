@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-08-1300 ([fb7c1d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-1300))
+
+* Weekly Changelog 2025-06-30 to 2025-07-07 ([#81631](https://github.com/CleverRaven/Cataclysm-DDA/pull/81631))
 * stop spawning exactly half empty bags of food ([#81625](https://github.com/CleverRaven/Cataclysm-DDA/pull/81625))
 
 ---
@@ -162,11 +168,6 @@
 
 * new XL duffel bags ([#81553](https://github.com/CleverRaven/Cataclysm-DDA/pull/81553))
 * don’t call std::pow for squaring numbers ([#81559](https://github.com/CleverRaven/Cataclysm-DDA/pull/81559))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-03-0141 ([e2efb58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-03-0141))
-
 * Let there be light: Board up a window with sturdy wooden shutters ([#81546](https://github.com/CleverRaven/Cataclysm-DDA/pull/81546))
 * Typo in Dark Triad mutation ([#81551](https://github.com/CleverRaven/Cataclysm-DDA/pull/81551))
 * NPCs can handle liquids from crafting ([#81548](https://github.com/CleverRaven/Cataclysm-DDA/pull/81548))
@@ -215,6 +216,5 @@
 * Fix MOTION_ALARM triggering when you ride a critter ([#81478](https://github.com/CleverRaven/Cataclysm-DDA/pull/81478))
 * Use approximate city distances for special placement ([#81476](https://github.com/CleverRaven/Cataclysm-DDA/pull/81476))
 * [Magiclysm/MoM] Fix supernatural welding ([#81468](https://github.com/CleverRaven/Cataclysm-DDA/pull/81468))
-* You can deconstruct and place bean bags ([#81462](https://github.com/CleverRaven/Cataclysm-DDA/pull/81462))
 * Add Bayonet Lug to Mossberg 590A1 ([#81463](https://github.com/CleverRaven/Cataclysm-DDA/pull/81463))
 * [Magiclysm] Spellcasting always grants proficiency XP ([#81467](https://github.com/CleverRaven/Cataclysm-DDA/pull/81467))
