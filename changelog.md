@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-08-0250 ([6af77eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-0250))
+
 * Add a notice when fast traveling ([#81526](https://github.com/CleverRaven/Cataclysm-DDA/pull/81526))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-07-02-2253 ([5d89fee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-2253))
 
 * Typo in Dark Triad mutation ([#81551](https://github.com/CleverRaven/Cataclysm-DDA/pull/81551))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-02-2022 ([7350568](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-02-2022))
-
 * NPCs can handle liquids from crafting ([#81548](https://github.com/CleverRaven/Cataclysm-DDA/pull/81548))
 * Aftershock: Augstmoon vendors sell more tools. ([#81554](https://github.com/CleverRaven/Cataclysm-DDA/pull/81554))
 * Make 'A shadow?' always visible. ([#81485](https://github.com/CleverRaven/Cataclysm-DDA/pull/81485))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-08-0250 (6af77eb)
 * Add a notice when fast traveling (#81526)
 
 Cataclysm-DDA experimental build 2025-07-08-0010 (57a2b86)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-07-03-0141 (e2efb58)
 
 Cataclysm-DDA experimental build 2025-07-02-2253 (5d89fee)
 * Typo in Dark Triad mutation (#81551)
-
-Cataclysm-DDA experimental build 2025-07-02-2022 (7350568)
 * NPCs can handle liquids from crafting (#81548)
 * Aftershock: Augstmoon vendors sell more tools. (#81554)
 * Make 'A shadow?' always visible. (#81485)
