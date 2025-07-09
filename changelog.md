@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-09-1554 ([53b69b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-1554))
+
 * JSON: Allow serializing/deserializing std::maps with tripoints as keys ([#81614](https://github.com/CleverRaven/Cataclysm-DDA/pull/81614))
 * Pickle Fix ([#81657](https://github.com/CleverRaven/Cataclysm-DDA/pull/81657))
 
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-07-04-1019 ([3f33ee0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-1019))
 
 * Highways, JSON portion ([#81550](https://github.com/CleverRaven/Cataclysm-DDA/pull/81550))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-04-0730 ([7cba462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0730))
-
 * Aftershock: Disable A shadow event. ([#81581](https://github.com/CleverRaven/Cataclysm-DDA/pull/81581))
 * Create dust when smashing furniture and terrain ([#81565](https://github.com/CleverRaven/Cataclysm-DDA/pull/81565))
 * [MoM] Fix Noetic Resonance Detector placement ([#81572](https://github.com/CleverRaven/Cataclysm-DDA/pull/81572))

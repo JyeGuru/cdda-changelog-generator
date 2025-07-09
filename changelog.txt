@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-09-1554 (53b69b3)
 * JSON: Allow serializing/deserializing std::maps with tripoints as keys (#81614)
 * Pickle Fix (#81657)
 
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2025-07-04-1234 (379e62f)
 
 Cataclysm-DDA experimental build 2025-07-04-1019 (3f33ee0)
 * Highways, JSON portion (#81550)
-
-Cataclysm-DDA experimental build 2025-07-04-0730 (7cba462)
 * Aftershock: Disable A shadow event. (#81581)
 * Create dust when smashing furniture and terrain (#81565)
 * [MoM] Fix Noetic Resonance Detector placement (#81572)
