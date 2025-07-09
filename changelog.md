@@ -1,3 +1,4 @@
+* add snack protein bars ([#81622](https://github.com/CleverRaven/Cataclysm-DDA/pull/81622))
 
 ---
 
@@ -183,7 +184,6 @@
 * Typo in Dark Triad mutation ([#81551](https://github.com/CleverRaven/Cataclysm-DDA/pull/81551))
 * NPCs can handle liquids from crafting ([#81548](https://github.com/CleverRaven/Cataclysm-DDA/pull/81548))
 * Aftershock: Augstmoon vendors sell more tools. ([#81554](https://github.com/CleverRaven/Cataclysm-DDA/pull/81554))
-* Make 'A shadow?' always visible. ([#81485](https://github.com/CleverRaven/Cataclysm-DDA/pull/81485))
 * Allow dragging furniture on/off vehicles ([#81538](https://github.com/CleverRaven/Cataclysm-DDA/pull/81538))
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
 * [MoM] Add Cuāuhpilli special forces profession ([#81523](https://github.com/CleverRaven/Cataclysm-DDA/pull/81523))
