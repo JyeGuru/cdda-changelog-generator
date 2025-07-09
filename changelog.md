@@ -1,3 +1,4 @@
+* Handle revival during pulping ([#81645](https://github.com/CleverRaven/Cataclysm-DDA/pull/81645))
 * Add tests for bashing creates fields ([#81601](https://github.com/CleverRaven/Cataclysm-DDA/pull/81601))
 
 ---
@@ -220,6 +221,5 @@
 * [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
 * Routine i18n updates on 28 June 2025 ([#81500](https://github.com/CleverRaven/Cataclysm-DDA/pull/81500))
 * Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
-* Fix compressed overmap bootstrap disk state handling ([#81475](https://github.com/CleverRaven/Cataclysm-DDA/pull/81475))
 * Fix MOTION_ALARM triggering when you ride a critter ([#81478](https://github.com/CleverRaven/Cataclysm-DDA/pull/81478))
 * Use approximate city distances for special placement ([#81476](https://github.com/CleverRaven/Cataclysm-DDA/pull/81476))

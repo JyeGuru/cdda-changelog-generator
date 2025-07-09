@@ -1,3 +1,4 @@
+* Handle revival during pulping (#81645)
 * Add tests for bashing creates fields (#81601)
 
 Cataclysm-DDA experimental build 2025-07-09-0424 (6d4efc2)
@@ -142,6 +143,5 @@ Cataclysm-DDA experimental build 2025-07-03-2347 (e9dffc2)
 * [Magiclysm] Add feral animists (#81495)
 * Routine i18n updates on 28 June 2025 (#81500)
 * Background remove defaults (#81491)
-* Fix compressed overmap bootstrap disk state handling (#81475)
 * Fix MOTION_ALARM triggering when you ride a critter (#81478)
 * Use approximate city distances for special placement (#81476)
