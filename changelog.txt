@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-09-1824 (69bbd7f)
 * add snack protein bars (#81622)
 
 Cataclysm-DDA experimental build 2025-07-09-1554 (53b69b3)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2025-07-04-1234 (379e62f)
 * Fix cement powder recipe product (#81590)
 * Aftershock: Cryosuit Audit and UI elements. (#81579)
 * add gym bags (#81573)
-
-Cataclysm-DDA experimental build 2025-07-04-1019 (3f33ee0)
 * Highways, JSON portion (#81550)
 * Aftershock: Disable A shadow event. (#81581)
 * Create dust when smashing furniture and terrain (#81565)

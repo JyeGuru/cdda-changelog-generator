@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-09-1824 ([69bbd7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-1824))
+
 * add snack protein bars ([#81622](https://github.com/CleverRaven/Cataclysm-DDA/pull/81622))
 
 ---
@@ -165,11 +170,6 @@
 * Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
 * Aftershock: Cryosuit Audit and UI elements. ([#81579](https://github.com/CleverRaven/Cataclysm-DDA/pull/81579))
 * add gym bags ([#81573](https://github.com/CleverRaven/Cataclysm-DDA/pull/81573))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-04-1019 ([3f33ee0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-1019))
-
 * Highways, JSON portion ([#81550](https://github.com/CleverRaven/Cataclysm-DDA/pull/81550))
 * Aftershock: Disable A shadow event. ([#81581](https://github.com/CleverRaven/Cataclysm-DDA/pull/81581))
 * Create dust when smashing furniture and terrain ([#81565](https://github.com/CleverRaven/Cataclysm-DDA/pull/81565))
