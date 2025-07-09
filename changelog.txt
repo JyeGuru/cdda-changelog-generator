@@ -1,3 +1,7 @@
+* Correct copper number typo (#81650)
+
+Cataclysm-DDA experimental build 2025-07-09-2337 (7cf0e55)
+* Add a cheongsam dress (#81655)
 
 Cataclysm-DDA experimental build 2025-07-09-1824 (69bbd7f)
 * add snack protein bars (#81622)
@@ -87,8 +91,6 @@ Cataclysm-DDA experimental build 2025-07-04-1823 (22ecfa1)
 
 Cataclysm-DDA experimental build 2025-07-04-1603 (562290b)
 * Gastropod mutants can mutate intestinal fortitude (#81589)
-
-Cataclysm-DDA experimental build 2025-07-04-1234 (379e62f)
 * Make darren Cooper psycopath (#81568)
 * adjust protein ration calories (#81567)
 * Update the table of contents in doc/JSON/JSON_INFO.md (#81542)

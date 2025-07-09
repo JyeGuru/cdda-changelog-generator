@@ -1,3 +1,10 @@
+* Correct copper number typo ([#81650](https://github.com/CleverRaven/Cataclysm-DDA/pull/81650))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-09-2337 ([7cf0e55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-2337))
+
+* Add a cheongsam dress ([#81655](https://github.com/CleverRaven/Cataclysm-DDA/pull/81655))
 
 ---
 
@@ -159,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-07-04-1603 ([562290b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-1603))
 
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-04-1234 ([379e62f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-1234))
-
 * Make darren Cooper psycopath ([#81568](https://github.com/CleverRaven/Cataclysm-DDA/pull/81568))
 * adjust protein ration calories ([#81567](https://github.com/CleverRaven/Cataclysm-DDA/pull/81567))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81542](https://github.com/CleverRaven/Cataclysm-DDA/pull/81542))
