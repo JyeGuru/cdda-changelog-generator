@@ -1,3 +1,10 @@
+* Add tests for bashing creates fields ([#81601](https://github.com/CleverRaven/Cataclysm-DDA/pull/81601))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-09-0424 ([6d4efc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-0424))
+
+* Add descriptive names (part 1) ([#81643](https://github.com/CleverRaven/Cataclysm-DDA/pull/81643))
 
 ---
 
@@ -170,12 +177,6 @@
 
 * Add a sunken helicopter location ([#81527](https://github.com/CleverRaven/Cataclysm-DDA/pull/81527))
 * [Magiclysm] Rework Will o' the Wisps ([#81563](https://github.com/CleverRaven/Cataclysm-DDA/pull/81563))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-03-2115 ([15933c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-03-2115))
-
-* Quadraphract Maintenance ([#81472](https://github.com/CleverRaven/Cataclysm-DDA/pull/81472))
 * Update comment-commands.yml ([#81558](https://github.com/CleverRaven/Cataclysm-DDA/pull/81558))
 * new XL duffel bags ([#81553](https://github.com/CleverRaven/Cataclysm-DDA/pull/81553))
 * don’t call std::pow for squaring numbers ([#81559](https://github.com/CleverRaven/Cataclysm-DDA/pull/81559))
@@ -212,7 +213,6 @@
 * [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait ([#81518](https://github.com/CleverRaven/Cataclysm-DDA/pull/81518))
 * Update cast_spell_items.json ([#81511](https://github.com/CleverRaven/Cataclysm-DDA/pull/81511))
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
-* Smokes no longer mentions computers in evac shelters ([#81473](https://github.com/CleverRaven/Cataclysm-DDA/pull/81473))
 * Start of cataclysm is 5 days before game start ([#81492](https://github.com/CleverRaven/Cataclysm-DDA/pull/81492))
 * Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
 * Add Moxian as IWYU "code owner" for review notifications ([#81502](https://github.com/CleverRaven/Cataclysm-DDA/pull/81502))
