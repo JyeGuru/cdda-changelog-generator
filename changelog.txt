@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2025-07-04-1019 (3f33ee0)
 
 Cataclysm-DDA experimental build 2025-07-04-0730 (7cba462)
 * Aftershock: Disable A shadow event. (#81581)
-
-Cataclysm-DDA experimental build 2025-07-04-0449 (11c588f)
 * Create dust when smashing furniture and terrain (#81565)
 * [MoM] Fix Noetic Resonance Detector placement (#81572)
 * Prevent crash from butchery cancelling (#81582)

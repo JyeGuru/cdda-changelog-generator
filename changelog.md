@@ -171,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2025-07-04-0730 ([7cba462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0730))
 
 * Aftershock: Disable A shadow event. ([#81581](https://github.com/CleverRaven/Cataclysm-DDA/pull/81581))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-04-0449 ([11c588f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0449))
-
 * Create dust when smashing furniture and terrain ([#81565](https://github.com/CleverRaven/Cataclysm-DDA/pull/81565))
 * [MoM] Fix Noetic Resonance Detector placement ([#81572](https://github.com/CleverRaven/Cataclysm-DDA/pull/81572))
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
