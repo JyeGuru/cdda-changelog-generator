@@ -1,3 +1,11 @@
+* JSON: Allow serializing/deserializing std::maps with tripoints as keys ([#81614](https://github.com/CleverRaven/Cataclysm-DDA/pull/81614))
+* Pickle Fix ([#81657](https://github.com/CleverRaven/Cataclysm-DDA/pull/81657))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-09-1315 ([3a2e307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-1315))
+
+* [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
 
 ---
 
@@ -169,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-07-04-0449 ([11c588f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0449))
 
 * Create dust when smashing furniture and terrain ([#81565](https://github.com/CleverRaven/Cataclysm-DDA/pull/81565))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-04-0219 ([92229d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-0219))
-
 * [MoM] Fix Noetic Resonance Detector placement ([#81572](https://github.com/CleverRaven/Cataclysm-DDA/pull/81572))
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
 * Add a sunken helicopter location ([#81527](https://github.com/CleverRaven/Cataclysm-DDA/pull/81527))
@@ -196,7 +199,6 @@
 * Routine tileset updates on 01 July 2025 ([#81534](https://github.com/CleverRaven/Cataclysm-DDA/pull/81534))
 * Typo fix in slimes.json ([#81537](https://github.com/CleverRaven/Cataclysm-DDA/pull/81537))
 * Descriptive recipe names ([#81488](https://github.com/CleverRaven/Cataclysm-DDA/pull/81488))
-* Update PR template for brevity ([#81483](https://github.com/CleverRaven/Cataclysm-DDA/pull/81483))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81536](https://github.com/CleverRaven/Cataclysm-DDA/pull/81536))
 * Some love for throwing weapons! ([#81532](https://github.com/CleverRaven/Cataclysm-DDA/pull/81532))
 * Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
@@ -221,5 +223,3 @@
 * [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
 * Routine i18n updates on 28 June 2025 ([#81500](https://github.com/CleverRaven/Cataclysm-DDA/pull/81500))
 * Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
-* Fix MOTION_ALARM triggering when you ride a critter ([#81478](https://github.com/CleverRaven/Cataclysm-DDA/pull/81478))
-* Use approximate city distances for special placement ([#81476](https://github.com/CleverRaven/Cataclysm-DDA/pull/81476))
