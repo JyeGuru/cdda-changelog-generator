@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Mo-re mi-go treaty snippets ([#81678](https://github.com/CleverRaven/Cataclysm-DDA/pull/81678))
 
 ---
 
@@ -204,7 +205,6 @@
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81536](https://github.com/CleverRaven/Cataclysm-DDA/pull/81536))
 * Some love for throwing weapons! ([#81532](https://github.com/CleverRaven/Cataclysm-DDA/pull/81532))
 * Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
-* Generic tie-down/haul system for furniture on vehicles ([#81501](https://github.com/CleverRaven/Cataclysm-DDA/pull/81501))
 * Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
 * Improve mod migration ([#81521](https://github.com/CleverRaven/Cataclysm-DDA/pull/81521))
@@ -217,4 +217,3 @@
 * Update cast_spell_items.json ([#81511](https://github.com/CleverRaven/Cataclysm-DDA/pull/81511))
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
 * Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
-* Add Moxian as IWYU "code owner" for review notifications ([#81502](https://github.com/CleverRaven/Cataclysm-DDA/pull/81502))
