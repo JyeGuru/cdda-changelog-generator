@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-10-1440 (9b45d0c)
+* Aftershock: Functional Starship Scenario (#81668)
+
 Cataclysm-DDA experimental build 2025-07-10-0705 (66744fa)
 * Fix camp blueprint autocalc (#81658)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2025-07-05-1557 (89208ee)
 
 Cataclysm-DDA experimental build 2025-07-05-1154 (c6563b8)
 * Routine i18n updates on 05 July 2025 (#81604)
-
-Cataclysm-DDA experimental build 2025-07-05-0411 (ac7da1e)
 * Gracefully handle empty files when compressing existing saves. (#81603)
 * don’t compute the size of far away hordes (#81560)
 * Innawood recipe product amount fixes (#81593)
@@ -141,5 +142,4 @@ Cataclysm-DDA experimental build 2025-07-05-0411 (ac7da1e)
 * Assigning steel to tools from landscaping.json (#81512)
 * Fix Powdered Milk Not Giving Calories (#81508)
 * Add Moxian as IWYU "code owner" for review notifications (#81502)
-* Add myself (SariusSkelrets) to command list. (#81499)
 * Routine i18n updates on 28 June 2025 (#81500)
