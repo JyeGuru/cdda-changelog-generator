@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-10-0444 (b5d5762)
 * 0.I -> 0.J (#81662)
 
 Cataclysm-DDA 0.H release candidate 2025-07-10-0402 (6dae843)
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2025-07-05-0151 (e30c9b2)
 * Innawood recipe product amount fixes (#81593)
 * Fix tool requirements for crystallizing sugar (#81595)
 * Fix dust mopping (#81596)
-
-Cataclysm-DDA experimental build 2025-07-04-2333 (3aa5c94)
 * More Sky island upgrades (#81562)
 * make faults able to alter item encumbrance (#81575)
 * Gastropod mutants can mutate intestinal fortitude (#81589)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-10-0444 ([b5d5762](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-0444))
+
 * 0.I -> 0.J ([#81662](https://github.com/CleverRaven/Cataclysm-DDA/pull/81662))
 
 ---
@@ -161,11 +166,6 @@
 * Innawood recipe product amount fixes ([#81593](https://github.com/CleverRaven/Cataclysm-DDA/pull/81593))
 * Fix tool requirements for crystallizing sugar ([#81595](https://github.com/CleverRaven/Cataclysm-DDA/pull/81595))
 * Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-04-2333 ([3aa5c94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-2333))
-
 * More Sky island upgrades ([#81562](https://github.com/CleverRaven/Cataclysm-DDA/pull/81562))
 * make faults able to alter item encumbrance ([#81575](https://github.com/CleverRaven/Cataclysm-DDA/pull/81575))
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
