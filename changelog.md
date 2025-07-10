@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-10-1944 ([e46a2a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-1944))
+
 * Highways, C++ portion ([#81602](https://github.com/CleverRaven/Cataclysm-DDA/pull/81602))
 * [ Xedra Evolved ] Mo-re mi-go treaty snippets ([#81678](https://github.com/CleverRaven/Cataclysm-DDA/pull/81678))
 
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2025-07-06-0519 ([eca4194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-06-0519))
 
 * Fix drawing items under fields in no tiles mode ([#81611](https://github.com/CleverRaven/Cataclysm-DDA/pull/81611))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-05-1557 ([89208ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-1557))
-
 * Nuclear Power Plant upgrade ([#81598](https://github.com/CleverRaven/Cataclysm-DDA/pull/81598))
 * Routine i18n updates on 05 July 2025 ([#81604](https://github.com/CleverRaven/Cataclysm-DDA/pull/81604))
 * Gracefully handle empty files when compressing existing saves. ([#81603](https://github.com/CleverRaven/Cataclysm-DDA/pull/81603))
