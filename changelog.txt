@@ -1,3 +1,4 @@
+* Highways, C++ portion (#81602)
 * [ Xedra Evolved ] Mo-re mi-go treaty snippets (#81678)
 
 Cataclysm-DDA experimental build 2025-07-10-1658 (8a2b61b)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2025-07-05-1557 (89208ee)
 * [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait (#81518)
 * Update cast_spell_items.json (#81511)
 * Assigning steel to tools from landscaping.json (#81512)
-* Fix Powdered Milk Not Giving Calories (#81508)

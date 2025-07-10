@@ -1,3 +1,4 @@
+* Highways, C++ portion ([#81602](https://github.com/CleverRaven/Cataclysm-DDA/pull/81602))
 * [ Xedra Evolved ] Mo-re mi-go treaty snippets ([#81678](https://github.com/CleverRaven/Cataclysm-DDA/pull/81678))
 
 ---
@@ -216,4 +217,3 @@
 * [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait ([#81518](https://github.com/CleverRaven/Cataclysm-DDA/pull/81518))
 * Update cast_spell_items.json ([#81511](https://github.com/CleverRaven/Cataclysm-DDA/pull/81511))
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
-* Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
