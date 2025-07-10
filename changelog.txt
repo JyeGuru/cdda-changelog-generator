@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-10-0228 (d2fd935)
 * Correct copper number typo (#81650)
 
 Cataclysm-DDA experimental build 2025-07-09-2337 (7cf0e55)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2025-07-04-2333 (3aa5c94)
 
 Cataclysm-DDA experimental build 2025-07-04-1823 (22ecfa1)
 * make faults able to alter item encumbrance (#81575)
-
-Cataclysm-DDA experimental build 2025-07-04-1603 (562290b)
 * Gastropod mutants can mutate intestinal fortitude (#81589)
 * Make darren Cooper psycopath (#81568)
 * adjust protein ration calories (#81567)
