@@ -1,3 +1,11 @@
+* 0.I -> 0.J ([#81662](https://github.com/CleverRaven/Cataclysm-DDA/pull/81662))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2025-07-10-0402 ([6dae843](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2025-07-10-0402))
+
+* (FIX CLANG BUILD FOR 0.H) coord: silence clang warning about unused value ([#81667](https://github.com/CleverRaven/Cataclysm-DDA/pull/81667))
+* Fix molotovs processing too many times ([#81661](https://github.com/CleverRaven/Cataclysm-DDA/pull/81661))
 
 ---
 
@@ -159,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-07-04-2333 ([3aa5c94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-2333))
 
 * More Sky island upgrades ([#81562](https://github.com/CleverRaven/Cataclysm-DDA/pull/81562))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-04-1823 ([22ecfa1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-04-1823))
-
 * make faults able to alter item encumbrance ([#81575](https://github.com/CleverRaven/Cataclysm-DDA/pull/81575))
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
 * Make darren Cooper psycopath ([#81568](https://github.com/CleverRaven/Cataclysm-DDA/pull/81568))
@@ -207,15 +210,11 @@
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))
 * Remove Dracos ([#81498](https://github.com/CleverRaven/Cataclysm-DDA/pull/81498))
 * [Magiclysm] Fix skin tones layering ([#81515](https://github.com/CleverRaven/Cataclysm-DDA/pull/81515))
-* [MoM] Add Achievements ([#81490](https://github.com/CleverRaven/Cataclysm-DDA/pull/81490))
 * use SUS trashcan public in stores and businesses ([#81514](https://github.com/CleverRaven/Cataclysm-DDA/pull/81514))
 * [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait ([#81518](https://github.com/CleverRaven/Cataclysm-DDA/pull/81518))
 * Update cast_spell_items.json ([#81511](https://github.com/CleverRaven/Cataclysm-DDA/pull/81511))
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
-* Start of cataclysm is 5 days before game start ([#81492](https://github.com/CleverRaven/Cataclysm-DDA/pull/81492))
 * Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
 * Add Moxian as IWYU "code owner" for review notifications ([#81502](https://github.com/CleverRaven/Cataclysm-DDA/pull/81502))
 * Add myself (SariusSkelrets) to command list. ([#81499](https://github.com/CleverRaven/Cataclysm-DDA/pull/81499))
-* [Magiclysm] Add feral animists ([#81495](https://github.com/CleverRaven/Cataclysm-DDA/pull/81495))
 * Routine i18n updates on 28 June 2025 ([#81500](https://github.com/CleverRaven/Cataclysm-DDA/pull/81500))
-* Background remove defaults ([#81491](https://github.com/CleverRaven/Cataclysm-DDA/pull/81491))
