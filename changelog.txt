@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-10-0705 (66744fa)
 * Fix camp blueprint autocalc (#81658)
 
 Cataclysm-DDA experimental build 2025-07-10-0444 (b5d5762)
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2025-07-05-1154 (c6563b8)
 
 Cataclysm-DDA experimental build 2025-07-05-0411 (ac7da1e)
 * Gracefully handle empty files when compressing existing saves. (#81603)
-
-Cataclysm-DDA experimental build 2025-07-05-0151 (e30c9b2)
 * don’t compute the size of far away hordes (#81560)
 * Innawood recipe product amount fixes (#81593)
 * Fix tool requirements for crystallizing sugar (#81595)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-10-0705 ([66744fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-0705))
+
 * Fix camp blueprint autocalc ([#81658](https://github.com/CleverRaven/Cataclysm-DDA/pull/81658))
 
 ---
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2025-07-05-0411 ([ac7da1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-0411))
 
 * Gracefully handle empty files when compressing existing saves. ([#81603](https://github.com/CleverRaven/Cataclysm-DDA/pull/81603))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-05-0151 ([e30c9b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-0151))
-
 * don’t compute the size of far away hordes ([#81560](https://github.com/CleverRaven/Cataclysm-DDA/pull/81560))
 * Innawood recipe product amount fixes ([#81593](https://github.com/CleverRaven/Cataclysm-DDA/pull/81593))
 * Fix tool requirements for crystallizing sugar ([#81595](https://github.com/CleverRaven/Cataclysm-DDA/pull/81595))
