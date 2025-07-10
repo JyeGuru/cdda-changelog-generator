@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-10-1658 (8a2b61b)
+* Add minimum for `You feel thirstier than before you consumed that!` message to display (#81683)
+
 Cataclysm-DDA experimental build 2025-07-10-1440 (9b45d0c)
 * Aftershock: Functional Starship Scenario (#81668)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2025-07-06-0519 (eca4194)
 
 Cataclysm-DDA experimental build 2025-07-05-1557 (89208ee)
 * Nuclear Power Plant upgrade (#81598)
-
-Cataclysm-DDA experimental build 2025-07-05-1154 (c6563b8)
 * Routine i18n updates on 05 July 2025 (#81604)
 * Gracefully handle empty files when compressing existing saves. (#81603)
 * don’t compute the size of far away hordes (#81560)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2025-07-05-1154 (c6563b8)
 * Assigning steel to tools from landscaping.json (#81512)
 * Fix Powdered Milk Not Giving Calories (#81508)
 * Add Moxian as IWYU "code owner" for review notifications (#81502)
-* Routine i18n updates on 28 June 2025 (#81500)

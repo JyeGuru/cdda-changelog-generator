@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-10-1658 ([8a2b61b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-1658))
+
+* Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81683](https://github.com/CleverRaven/Cataclysm-DDA/pull/81683))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-10-1440 ([9b45d0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-1440))
 
 * Aftershock: Functional Starship Scenario ([#81668](https://github.com/CleverRaven/Cataclysm-DDA/pull/81668))
@@ -157,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2025-07-05-1557 ([89208ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-1557))
 
 * Nuclear Power Plant upgrade ([#81598](https://github.com/CleverRaven/Cataclysm-DDA/pull/81598))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-05-1154 ([c6563b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-05-1154))
-
 * Routine i18n updates on 05 July 2025 ([#81604](https://github.com/CleverRaven/Cataclysm-DDA/pull/81604))
 * Gracefully handle empty files when compressing existing saves. ([#81603](https://github.com/CleverRaven/Cataclysm-DDA/pull/81603))
 * don’t compute the size of far away hordes ([#81560](https://github.com/CleverRaven/Cataclysm-DDA/pull/81560))
@@ -217,4 +218,3 @@
 * Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
 * Fix Powdered Milk Not Giving Calories ([#81508](https://github.com/CleverRaven/Cataclysm-DDA/pull/81508))
 * Add Moxian as IWYU "code owner" for review notifications ([#81502](https://github.com/CleverRaven/Cataclysm-DDA/pull/81502))
-* Routine i18n updates on 28 June 2025 ([#81500](https://github.com/CleverRaven/Cataclysm-DDA/pull/81500))
