@@ -1,3 +1,4 @@
+* Make terrain able to have an underlying item for supplemental info ([#81669](https://github.com/CleverRaven/Cataclysm-DDA/pull/81669))
 * Labyrinthine Structures: terrain/trap and minor monster balance fixes ([#81580](https://github.com/CleverRaven/Cataclysm-DDA/pull/81580))
 * No labyrinth playtest in stable ([#81677](https://github.com/CleverRaven/Cataclysm-DDA/pull/81677))
 * Correct copper typo 0.I Backport ([#81653](https://github.com/CleverRaven/Cataclysm-DDA/pull/81653))
@@ -217,4 +218,3 @@
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
 * Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))
-* [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait ([#81518](https://github.com/CleverRaven/Cataclysm-DDA/pull/81518))
