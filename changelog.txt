@@ -1,3 +1,6 @@
+* 0.I backport: Don't try to pulp corpse that's no longer present (#81656)
+* Pickle Fix (#81686)
+* Add minimum for `You feel thirstier than before you consumed that!` message to display (#81684)
 
 Cataclysm-DDA experimental build 2025-07-10-1944 (e46a2a5)
 * Highways, C++ portion (#81602)
@@ -140,5 +143,3 @@ Cataclysm-DDA experimental build 2025-07-06-0519 (eca4194)
 * [Magiclysm] Fix skin tones layering (#81515)
 * use SUS trashcan public in stores and businesses (#81514)
 * [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait (#81518)
-* Update cast_spell_items.json (#81511)
-* Assigning steel to tools from landscaping.json (#81512)

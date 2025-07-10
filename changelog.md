@@ -1,3 +1,6 @@
+* 0.I backport: Don't try to pulp corpse that's no longer present ([#81656](https://github.com/CleverRaven/Cataclysm-DDA/pull/81656))
+* Pickle Fix ([#81686](https://github.com/CleverRaven/Cataclysm-DDA/pull/81686))
+* Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81684](https://github.com/CleverRaven/Cataclysm-DDA/pull/81684))
 
 ---
 
@@ -215,5 +218,3 @@
 * [Magiclysm] Fix skin tones layering ([#81515](https://github.com/CleverRaven/Cataclysm-DDA/pull/81515))
 * use SUS trashcan public in stores and businesses ([#81514](https://github.com/CleverRaven/Cataclysm-DDA/pull/81514))
 * [Magiclysm] Add CLIMATE_CONTROL_HEAT to the stone slumber trait ([#81518](https://github.com/CleverRaven/Cataclysm-DDA/pull/81518))
-* Update cast_spell_items.json ([#81511](https://github.com/CleverRaven/Cataclysm-DDA/pull/81511))
-* Assigning steel to tools from landscaping.json ([#81512](https://github.com/CleverRaven/Cataclysm-DDA/pull/81512))
