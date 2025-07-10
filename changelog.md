@@ -1,3 +1,9 @@
+* Aftershock: All cryosuits update the UI not only the Magellan ([#81687](https://github.com/CleverRaven/Cataclysm-DDA/pull/81687))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-10-2308 ([08394b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-2308))
+
 * Make terrain able to have an underlying item for supplemental info ([#81669](https://github.com/CleverRaven/Cataclysm-DDA/pull/81669))
 * Labyrinthine Structures: terrain/trap and minor monster balance fixes ([#81580](https://github.com/CleverRaven/Cataclysm-DDA/pull/81580))
 * No labyrinth playtest in stable ([#81677](https://github.com/CleverRaven/Cataclysm-DDA/pull/81677))
@@ -165,11 +171,6 @@
 
 * Remove references to minefields ([#81612](https://github.com/CleverRaven/Cataclysm-DDA/pull/81612))
 * Add assertion to skill rust test about excessive rust speed ([#81613](https://github.com/CleverRaven/Cataclysm-DDA/pull/81613))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-06-0519 ([eca4194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-06-0519))
-
 * Fix drawing items under fields in no tiles mode ([#81611](https://github.com/CleverRaven/Cataclysm-DDA/pull/81611))
 * Nuclear Power Plant upgrade ([#81598](https://github.com/CleverRaven/Cataclysm-DDA/pull/81598))
 * Routine i18n updates on 05 July 2025 ([#81604](https://github.com/CleverRaven/Cataclysm-DDA/pull/81604))
@@ -212,7 +213,6 @@
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81536](https://github.com/CleverRaven/Cataclysm-DDA/pull/81536))
 * Some love for throwing weapons! ([#81532](https://github.com/CleverRaven/Cataclysm-DDA/pull/81532))
 * Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
-* Audit ammo uncrafts ([#81519](https://github.com/CleverRaven/Cataclysm-DDA/pull/81519))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
 * Improve mod migration ([#81521](https://github.com/CleverRaven/Cataclysm-DDA/pull/81521))
 * [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
