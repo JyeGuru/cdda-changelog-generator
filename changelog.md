@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-11-1649 ([8bae6cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-1649))
+
 * [Xedra Evolved] Add Bloodthorne druids part 2 ([#81664](https://github.com/CleverRaven/Cataclysm-DDA/pull/81664))
 * [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) ([#81694](https://github.com/CleverRaven/Cataclysm-DDA/pull/81694))
 
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-07-07-0319 ([3c978ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-0319))
 
 * You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other ([#81599](https://github.com/CleverRaven/Cataclysm-DDA/pull/81599))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-07-0049 ([000a540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-0049))
-
 * Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
 * Remove pointless copy of stomach size ([#81609](https://github.com/CleverRaven/Cataclysm-DDA/pull/81609))
 * Limit range flowing water can be channeled ([#81615](https://github.com/CleverRaven/Cataclysm-DDA/pull/81615))

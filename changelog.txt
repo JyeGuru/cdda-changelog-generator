@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-11-1649 (8bae6cb)
 * [Xedra Evolved] Add Bloodthorne druids part 2 (#81664)
 * [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) (#81694)
 
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2025-07-07-1050 (5e66810)
 
 Cataclysm-DDA experimental build 2025-07-07-0319 (3c978ee)
 * You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other (#81599)
-
-Cataclysm-DDA experimental build 2025-07-07-0049 (000a540)
 * Revert accidental 100x increase in gunshop quantities (#81627)
 * Remove pointless copy of stomach size (#81609)
 * Limit range flowing water can be channeled (#81615)
