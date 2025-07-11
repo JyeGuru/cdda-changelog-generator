@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-11-2326 ([5733c3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-2326))
+
 * Ensure no fault in Liam's car ([#81713](https://github.com/CleverRaven/Cataclysm-DDA/pull/81713))
 * Fixing Typo - faults_electronic.json ([#81708](https://github.com/CleverRaven/Cataclysm-DDA/pull/81708))
 * Fixing Typo - faults_guns.json ([#81709](https://github.com/CleverRaven/Cataclysm-DDA/pull/81709))
@@ -163,11 +168,6 @@
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))
 * add support for fault applying via itemgroup ([#81585](https://github.com/CleverRaven/Cataclysm-DDA/pull/81585))
 * Tune and expand furniture bash fields ([#81628](https://github.com/CleverRaven/Cataclysm-DDA/pull/81628))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-07-1325 ([712b21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-1325))
-
 * [MoM] Fix Phase/Farstep volume calculations ([#81626](https://github.com/CleverRaven/Cataclysm-DDA/pull/81626))
 * You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other ([#81599](https://github.com/CleverRaven/Cataclysm-DDA/pull/81599))
 * Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
