@@ -1,9 +1,9 @@
 * Ensure no fault in Liam's car (#81713)
-* Update faults_electronic.json (#81708)
-* Update faults_guns.json (#81709)
+* Fixing Typo - faults_electronic.json (#81708)
+* Fixing Typo - faults_guns.json (#81709)
 
 Cataclysm-DDA experimental build 2025-07-11-2038 (12bc86b)
-* Update fixes_gun.json (#81710)
+* Fixing Typo - fixes_gun.json (#81710)
 
 Cataclysm-DDA 0.I release candidate 2025-07-11-1721 (06f246b)
 * Update CI config for 0.I release candidate (#81685)
