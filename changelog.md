@@ -1,3 +1,12 @@
+* Ensure no fault in Liam's car ([#81713](https://github.com/CleverRaven/Cataclysm-DDA/pull/81713))
+* Update faults_electronic.json ([#81708](https://github.com/CleverRaven/Cataclysm-DDA/pull/81708))
+* Update faults_guns.json ([#81709](https://github.com/CleverRaven/Cataclysm-DDA/pull/81709))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-11-2038 ([12bc86b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-2038))
+
+* Update fixes_gun.json ([#81710](https://github.com/CleverRaven/Cataclysm-DDA/pull/81710))
 
 ---
 
@@ -149,12 +158,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-07-08-0250 ([6af77eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-0250))
-
-* Add a notice when fast traveling ([#81526](https://github.com/CleverRaven/Cataclysm-DDA/pull/81526))
-
----
-
 #### Cataclysm-DDA experimental build 2025-07-08-0010 ([57a2b86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-0010))
 
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))
@@ -166,12 +169,6 @@
 #### Cataclysm-DDA experimental build 2025-07-07-1325 ([712b21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-1325))
 
 * [MoM] Fix Phase/Farstep volume calculations ([#81626](https://github.com/CleverRaven/Cataclysm-DDA/pull/81626))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-07-1050 ([5e66810](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-1050))
-
-* Add hub 02 ([#81528](https://github.com/CleverRaven/Cataclysm-DDA/pull/81528))
 * You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other ([#81599](https://github.com/CleverRaven/Cataclysm-DDA/pull/81599))
 * Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
 * Remove pointless copy of stomach size ([#81609](https://github.com/CleverRaven/Cataclysm-DDA/pull/81609))
@@ -203,7 +200,6 @@
 * Create dust when smashing furniture and terrain ([#81565](https://github.com/CleverRaven/Cataclysm-DDA/pull/81565))
 * [MoM] Fix Noetic Resonance Detector placement ([#81572](https://github.com/CleverRaven/Cataclysm-DDA/pull/81572))
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
-* Add a sunken helicopter location ([#81527](https://github.com/CleverRaven/Cataclysm-DDA/pull/81527))
 * [Magiclysm] Rework Will o' the Wisps ([#81563](https://github.com/CleverRaven/Cataclysm-DDA/pull/81563))
 * Update comment-commands.yml ([#81558](https://github.com/CleverRaven/Cataclysm-DDA/pull/81558))
 * new XL duffel bags ([#81553](https://github.com/CleverRaven/Cataclysm-DDA/pull/81553))
@@ -216,7 +212,6 @@
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
 * Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
 * Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
-* Weekly Changelog 2025-06-23 to 2025-06-30 ([#81529](https://github.com/CleverRaven/Cataclysm-DDA/pull/81529))
 * Routine tileset updates on 01 July 2025 ([#81534](https://github.com/CleverRaven/Cataclysm-DDA/pull/81534))
 * Typo fix in slimes.json ([#81537](https://github.com/CleverRaven/Cataclysm-DDA/pull/81537))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81536](https://github.com/CleverRaven/Cataclysm-DDA/pull/81536))
