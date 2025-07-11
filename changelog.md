@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-07-11-1721 ([06f246b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-11-1721))
+
+* Update CI config for 0.I release candidate ([#81685](https://github.com/CleverRaven/Cataclysm-DDA/pull/81685))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-11-1649 ([8bae6cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-1649))
 
 * [Xedra Evolved] Add Bloodthorne druids part 2 ([#81664](https://github.com/CleverRaven/Cataclysm-DDA/pull/81664))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-07-07-1050 ([5e66810](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-1050))
 
 * Add hub 02 ([#81528](https://github.com/CleverRaven/Cataclysm-DDA/pull/81528))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-07-0319 ([3c978ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-07-0319))
-
 * You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other ([#81599](https://github.com/CleverRaven/Cataclysm-DDA/pull/81599))
 * Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
 * Remove pointless copy of stomach size ([#81609](https://github.com/CleverRaven/Cataclysm-DDA/pull/81609))
@@ -222,4 +223,3 @@
 * Some love for throwing weapons! ([#81532](https://github.com/CleverRaven/Cataclysm-DDA/pull/81532))
 * Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
-* Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))

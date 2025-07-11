@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2025-07-11-1721 (06f246b)
+* Update CI config for 0.I release candidate (#81685)
+
 Cataclysm-DDA experimental build 2025-07-11-1649 (8bae6cb)
 * [Xedra Evolved] Add Bloodthorne druids part 2 (#81664)
 * [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) (#81694)
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-07-07-1325 (712b21a)
 
 Cataclysm-DDA experimental build 2025-07-07-1050 (5e66810)
 * Add hub 02 (#81528)
-
-Cataclysm-DDA experimental build 2025-07-07-0319 (3c978ee)
 * You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other (#81599)
 * Revert accidental 100x increase in gunshop quantities (#81627)
 * Remove pointless copy of stomach size (#81609)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-07-07-0319 (3c978ee)
 * Some love for throwing weapons! (#81532)
 * Melee Weapon Tech Adjustment (#81535)
 * dumpster fixes (#81530)
-* Aftershock: Create a loading screen for the mod (#81524)
