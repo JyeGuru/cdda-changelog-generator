@@ -1,3 +1,10 @@
+* Making Chainsaws Disassemble-able ([#81699](https://github.com/CleverRaven/Cataclysm-DDA/pull/81699))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-11-0833 ([a977e95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-0833))
+
+* Update ITEM and JSON inheritance docs for type ITEM ([#81700](https://github.com/CleverRaven/Cataclysm-DDA/pull/81700))
 
 ---
 
@@ -214,7 +221,5 @@
 * Some love for throwing weapons! ([#81532](https://github.com/CleverRaven/Cataclysm-DDA/pull/81532))
 * Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
-* Improve mod migration ([#81521](https://github.com/CleverRaven/Cataclysm-DDA/pull/81521))
-* [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness ([#81520](https://github.com/CleverRaven/Cataclysm-DDA/pull/81520))
 * Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))

@@ -1,3 +1,7 @@
+* Making Chainsaws Disassemble-able (#81699)
+
+Cataclysm-DDA experimental build 2025-07-11-0833 (a977e95)
+* Update ITEM and JSON inheritance docs for type ITEM (#81700)
 
 Cataclysm-DDA experimental build 2025-07-11-0228 (c332702)
 * Aftershock: All cryosuits update the UI not only the Magellan (#81687)
@@ -139,7 +143,5 @@ Cataclysm-DDA experimental build 2025-07-06-1644 (6af4787)
 * Some love for throwing weapons! (#81532)
 * Melee Weapon Tech Adjustment (#81535)
 * dumpster fixes (#81530)
-* Improve mod migration (#81521)
-* [MoM] Allow Heightened Senses/Night Eyes combo to craft in darkness (#81520)
 * Aftershock: Create a loading screen for the mod (#81524)
 * [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels (#81522)
