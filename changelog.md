@@ -1,3 +1,5 @@
+* [Xedra Evolved] Add Bloodthorne druids part 2 ([#81664](https://github.com/CleverRaven/Cataclysm-DDA/pull/81664))
+* [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) ([#81694](https://github.com/CleverRaven/Cataclysm-DDA/pull/81694))
 
 ---
 
@@ -211,7 +213,6 @@
 * Aftershock: Augstmoon vendors sell more tools. ([#81554](https://github.com/CleverRaven/Cataclysm-DDA/pull/81554))
 * Allow dragging furniture on/off vehicles ([#81538](https://github.com/CleverRaven/Cataclysm-DDA/pull/81538))
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
-* [MoM] Add Cuāuhpilli special forces profession ([#81523](https://github.com/CleverRaven/Cataclysm-DDA/pull/81523))
 * Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
 * Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
 * Weekly Changelog 2025-06-23 to 2025-06-30 ([#81529](https://github.com/CleverRaven/Cataclysm-DDA/pull/81529))
@@ -222,4 +223,3 @@
 * Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
 * dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
 * Aftershock: Create a loading screen for the mod ([#81524](https://github.com/CleverRaven/Cataclysm-DDA/pull/81524))
-* [MoM] Add Heightened Senses to Clairsentient hobbies, adjust skill levels ([#81522](https://github.com/CleverRaven/Cataclysm-DDA/pull/81522))
