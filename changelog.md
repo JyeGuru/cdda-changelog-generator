@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-11-0228 ([c332702](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-0228))
+
 * Aftershock: All cryosuits update the UI not only the Magellan ([#81687](https://github.com/CleverRaven/Cataclysm-DDA/pull/81687))
 
 ---
@@ -164,11 +169,6 @@
 * Analysis kit tweaks ([#81617](https://github.com/CleverRaven/Cataclysm-DDA/pull/81617))
 * Add 3 new guns (308 Model 700, .22 Savage Rascal, .32 LWS) ([#81619](https://github.com/CleverRaven/Cataclysm-DDA/pull/81619))
 * fix npc pulping ([#81606](https://github.com/CleverRaven/Cataclysm-DDA/pull/81606))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-06-0732 ([8743949](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-06-0732))
-
 * Remove references to minefields ([#81612](https://github.com/CleverRaven/Cataclysm-DDA/pull/81612))
 * Add assertion to skill rust test about excessive rust speed ([#81613](https://github.com/CleverRaven/Cataclysm-DDA/pull/81613))
 * Fix drawing items under fields in no tiles mode ([#81611](https://github.com/CleverRaven/Cataclysm-DDA/pull/81611))
