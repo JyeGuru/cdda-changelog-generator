@@ -1,4 +1,9 @@
 * Making Chainsaws Disassemble-able ([#81703](https://github.com/CleverRaven/Cataclysm-DDA/pull/81703))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-12-2354 ([733b5d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-12-2354))
+
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
 
 ---
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-07-09-1315 ([3a2e307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-1315))
 
 * [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-09-0701 ([f3561f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-0701))
-
 * Handle revival during pulping ([#81645](https://github.com/CleverRaven/Cataclysm-DDA/pull/81645))
 * Add tests for bashing creates fields ([#81601](https://github.com/CleverRaven/Cataclysm-DDA/pull/81601))
 * Add descriptive names (part 1) ([#81643](https://github.com/CleverRaven/Cataclysm-DDA/pull/81643))

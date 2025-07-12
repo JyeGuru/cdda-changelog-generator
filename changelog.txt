@@ -1,4 +1,6 @@
 * Making Chainsaws Disassemble-able (#81703)
+
+Cataclysm-DDA 0.I release candidate 2025-07-12-2354 (733b5d1)
 * [Backport] Fix potential crash shooting at driverless vehicle (#81741)
 
 Cataclysm-DDA experimental build 2025-07-12-2251 (daa4ac6)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2025-07-09-1554 (53b69b3)
 
 Cataclysm-DDA experimental build 2025-07-09-1315 (3a2e307)
 * [Infrastructure] Pass spell_id to spell experience jmath (#81651)
-
-Cataclysm-DDA experimental build 2025-07-09-0701 (f3561f4)
 * Handle revival during pulping (#81645)
 * Add tests for bashing creates fields (#81601)
 * Add descriptive names (part 1) (#81643)
