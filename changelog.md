@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-12-0148 ([227e941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0148))
+
 * Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81682](https://github.com/CleverRaven/Cataclysm-DDA/pull/81682))
 * print related info for bash and deconstruction of ter furn with base item ([#81695](https://github.com/CleverRaven/Cataclysm-DDA/pull/81695))
