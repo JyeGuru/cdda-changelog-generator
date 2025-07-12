@@ -1,3 +1,20 @@
+* "hard" meta progression requirements for mods ([#81712](https://github.com/CleverRaven/Cataclysm-DDA/pull/81712))
+* Aftershock: Port Augustmoon sells nanomaterial ([#81693](https://github.com/CleverRaven/Cataclysm-DDA/pull/81693))
+* Reign in ASRG spawns ([#81688](https://github.com/CleverRaven/Cataclysm-DDA/pull/81688))
+* Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81705](https://github.com/CleverRaven/Cataclysm-DDA/pull/81705))
+* Fixing Typo - carnivore.json ([#81723](https://github.com/CleverRaven/Cataclysm-DDA/pull/81723))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-12-1346 ([60fd1cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-12-1346))
+
+* Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-12-1346 ([361f882](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-1346))
+
+* Fix potential crash shooting at driverless vehicle ([#81728](https://github.com/CleverRaven/Cataclysm-DDA/pull/81728))
 
 ---
 
@@ -177,11 +194,6 @@
 * add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
 * [ Aftershock ] AFS Monsters should shoot vehicles ([#81639](https://github.com/CleverRaven/Cataclysm-DDA/pull/81639))
 * [ Aftershock ] Update Spite soda more quench less stim. ([#81640](https://github.com/CleverRaven/Cataclysm-DDA/pull/81640))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-08-1300 ([fb7c1d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-1300))
-
 * Weekly Changelog 2025-06-30 to 2025-07-07 ([#81631](https://github.com/CleverRaven/Cataclysm-DDA/pull/81631))
 * stop spawning exactly half empty bags of food ([#81625](https://github.com/CleverRaven/Cataclysm-DDA/pull/81625))
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))
@@ -213,7 +225,6 @@
 * Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
 * Aftershock: Cryosuit Audit and UI elements. ([#81579](https://github.com/CleverRaven/Cataclysm-DDA/pull/81579))
 * add gym bags ([#81573](https://github.com/CleverRaven/Cataclysm-DDA/pull/81573))
-* Highways, JSON portion ([#81550](https://github.com/CleverRaven/Cataclysm-DDA/pull/81550))
 * Aftershock: Disable A shadow event. ([#81581](https://github.com/CleverRaven/Cataclysm-DDA/pull/81581))
 * Create dust when smashing furniture and terrain ([#81565](https://github.com/CleverRaven/Cataclysm-DDA/pull/81565))
 * [MoM] Fix Noetic Resonance Detector placement ([#81572](https://github.com/CleverRaven/Cataclysm-DDA/pull/81572))
@@ -222,9 +233,4 @@
 * Update comment-commands.yml ([#81558](https://github.com/CleverRaven/Cataclysm-DDA/pull/81558))
 * new XL duffel bags ([#81553](https://github.com/CleverRaven/Cataclysm-DDA/pull/81553))
 * don’t call std::pow for squaring numbers ([#81559](https://github.com/CleverRaven/Cataclysm-DDA/pull/81559))
-* Let there be light: Board up a window with sturdy wooden shutters ([#81546](https://github.com/CleverRaven/Cataclysm-DDA/pull/81546))
-* Typo in Dark Triad mutation ([#81551](https://github.com/CleverRaven/Cataclysm-DDA/pull/81551))
-* NPCs can handle liquids from crafting ([#81548](https://github.com/CleverRaven/Cataclysm-DDA/pull/81548))
 * Aftershock: Augstmoon vendors sell more tools. ([#81554](https://github.com/CleverRaven/Cataclysm-DDA/pull/81554))
-* boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
-* Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
