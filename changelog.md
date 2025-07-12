@@ -1,3 +1,5 @@
+* Aftershock: All cryosuits update the UI not only the Magellan ([#81697](https://github.com/CleverRaven/Cataclysm-DDA/pull/81697))
+* Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
 * Monsters only target vehicles driven by hostiles ([#81725](https://github.com/CleverRaven/Cataclysm-DDA/pull/81725))
 * Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
 
@@ -216,7 +218,6 @@
 * Nuclear Power Plant upgrade ([#81598](https://github.com/CleverRaven/Cataclysm-DDA/pull/81598))
 * Routine i18n updates on 05 July 2025 ([#81604](https://github.com/CleverRaven/Cataclysm-DDA/pull/81604))
 * Gracefully handle empty files when compressing existing saves. ([#81603](https://github.com/CleverRaven/Cataclysm-DDA/pull/81603))
-* don’t compute the size of far away hordes ([#81560](https://github.com/CleverRaven/Cataclysm-DDA/pull/81560))
 * Innawood recipe product amount fixes ([#81593](https://github.com/CleverRaven/Cataclysm-DDA/pull/81593))
 * Fix tool requirements for crystallizing sugar ([#81595](https://github.com/CleverRaven/Cataclysm-DDA/pull/81595))
 * Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
@@ -233,4 +234,3 @@
 * [MoM] Fix Noetic Resonance Detector placement ([#81572](https://github.com/CleverRaven/Cataclysm-DDA/pull/81572))
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
 * [Magiclysm] Rework Will o' the Wisps ([#81563](https://github.com/CleverRaven/Cataclysm-DDA/pull/81563))
-* don’t call std::pow for squaring numbers ([#81559](https://github.com/CleverRaven/Cataclysm-DDA/pull/81559))
