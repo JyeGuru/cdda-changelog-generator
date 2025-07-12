@@ -1,3 +1,5 @@
+* Making Chainsaws Disassemble-able (#81703)
+* [Backport] Fix potential crash shooting at driverless vehicle (#81741)
 
 Cataclysm-DDA experimental build 2025-07-12-2251 (daa4ac6)
 * Fix deconstruction not deconstructing (#81724)
@@ -148,7 +150,5 @@ Cataclysm-DDA experimental build 2025-07-09-0701 (f3561f4)
 * Aftershock: Cryosuit Audit and UI elements. (#81579)
 * add gym bags (#81573)
 * Aftershock: Disable A shadow event. (#81581)
-* Create dust when smashing furniture and terrain (#81565)
 * [MoM] Fix Noetic Resonance Detector placement (#81572)
 * Prevent crash from butchery cancelling (#81582)
-* [Magiclysm] Rework Will o' the Wisps (#81563)
