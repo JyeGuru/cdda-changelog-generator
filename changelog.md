@@ -1,3 +1,4 @@
+* Electric vehicles do not backfire ([#81717](https://github.com/CleverRaven/Cataclysm-DDA/pull/81717))
 
 ---
 
@@ -222,4 +223,3 @@
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
 * Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
 * Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
-* Typo fix in slimes.json ([#81537](https://github.com/CleverRaven/Cataclysm-DDA/pull/81537))
