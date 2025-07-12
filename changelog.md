@@ -1,3 +1,9 @@
+* Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
+* Allow NPC to dress really quietly on game start (and during mutations) ([#81682](https://github.com/CleverRaven/Cataclysm-DDA/pull/81682))
+* print related info for bash and deconstruction of ter furn with base item ([#81695](https://github.com/CleverRaven/Cataclysm-DDA/pull/81695))
+* Fixing Typo - faults_tools.json ([#81707](https://github.com/CleverRaven/Cataclysm-DDA/pull/81707))
+* Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))
+* Monsters only target vehicles driven by hostiles ([#81711](https://github.com/CleverRaven/Cataclysm-DDA/pull/81711))
 
 ---
 
@@ -150,7 +156,6 @@
 
 * [Xedra Evolved] Custom magic_type for Arvore magick ([#81635](https://github.com/CleverRaven/Cataclysm-DDA/pull/81635))
 * add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
-* Blacksmithing and you: Practice working that chunk of metal until you know how to craft it into others chunks of metal! ([#81533](https://github.com/CleverRaven/Cataclysm-DDA/pull/81533))
 * [ Aftershock ] AFS Monsters should shoot vehicles ([#81639](https://github.com/CleverRaven/Cataclysm-DDA/pull/81639))
 * [ Aftershock ] Update Spite soda more quench less stim. ([#81640](https://github.com/CleverRaven/Cataclysm-DDA/pull/81640))
 
@@ -212,9 +217,4 @@
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
 * Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
 * Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
-* Routine tileset updates on 01 July 2025 ([#81534](https://github.com/CleverRaven/Cataclysm-DDA/pull/81534))
 * Typo fix in slimes.json ([#81537](https://github.com/CleverRaven/Cataclysm-DDA/pull/81537))
-* Update the table of contents in doc/JSON/JSON_INFO.md ([#81536](https://github.com/CleverRaven/Cataclysm-DDA/pull/81536))
-* Some love for throwing weapons! ([#81532](https://github.com/CleverRaven/Cataclysm-DDA/pull/81532))
-* Melee Weapon Tech Adjustment ([#81535](https://github.com/CleverRaven/Cataclysm-DDA/pull/81535))
-* dumpster fixes ([#81530](https://github.com/CleverRaven/Cataclysm-DDA/pull/81530))
