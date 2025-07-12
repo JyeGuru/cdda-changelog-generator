@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-12-1652 ([5bf7a29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-1652))
+
 * "hard" meta progression requirements for mods ([#81712](https://github.com/CleverRaven/Cataclysm-DDA/pull/81712))
 * Aftershock: Port Augustmoon sells nanomaterial ([#81693](https://github.com/CleverRaven/Cataclysm-DDA/pull/81693))
 * Reign in ASRG spawns ([#81688](https://github.com/CleverRaven/Cataclysm-DDA/pull/81688))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-07-08-1856 ([348e64a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-1856))
 
 * Audit some zombie attributes (that unintentionally changed in #72534) ([#81620](https://github.com/CleverRaven/Cataclysm-DDA/pull/81620))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-08-1636 ([95497a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-1636))
-
 * [Xedra Evolved] Custom magic_type for Arvore magick ([#81635](https://github.com/CleverRaven/Cataclysm-DDA/pull/81635))
 * add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
 * [ Aftershock ] AFS Monsters should shoot vehicles ([#81639](https://github.com/CleverRaven/Cataclysm-DDA/pull/81639))
