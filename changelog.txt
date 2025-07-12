@@ -1,3 +1,7 @@
+* Aftershock: Port Augustmoon sells nanomaterial (#81736)
+
+Cataclysm-DDA 0.I release candidate 2025-07-12-1850 (d22a465)
+* "hard" meta progression requirements for mods (#81737)
 
 Cataclysm-DDA experimental build 2025-07-12-1652 (5bf7a29)
 * "hard" meta progression requirements for mods (#81712)
@@ -103,8 +107,6 @@ Cataclysm-DDA experimental build 2025-07-09-0701 (f3561f4)
 
 Cataclysm-DDA experimental build 2025-07-09-0424 (6d4efc2)
 * Add descriptive names (part 1) (#81643)
-
-Cataclysm-DDA experimental build 2025-07-08-1856 (348e64a)
 * Audit some zombie attributes (that unintentionally changed in #72534) (#81620)
 * [Xedra Evolved] Custom magic_type for Arvore magick (#81635)
 * add a postapoc price to sw642 (#81642)
@@ -147,6 +149,4 @@ Cataclysm-DDA experimental build 2025-07-08-1856 (348e64a)
 * Prevent crash from butchery cancelling (#81582)
 * [Magiclysm] Rework Will o' the Wisps (#81563)
 * Update comment-commands.yml (#81558)
-* new XL duffel bags (#81553)
 * don’t call std::pow for squaring numbers (#81559)
-* Aftershock: Augstmoon vendors sell more tools. (#81554)

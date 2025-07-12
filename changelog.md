@@ -1,3 +1,10 @@
+* Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-12-1850 ([d22a465](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-12-1850))
+
+* "hard" meta progression requirements for mods ([#81737](https://github.com/CleverRaven/Cataclysm-DDA/pull/81737))
 
 ---
 
@@ -184,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-07-09-0424 ([6d4efc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-0424))
 
 * Add descriptive names (part 1) ([#81643](https://github.com/CleverRaven/Cataclysm-DDA/pull/81643))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-08-1856 ([348e64a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-1856))
-
 * Audit some zombie attributes (that unintentionally changed in #72534) ([#81620](https://github.com/CleverRaven/Cataclysm-DDA/pull/81620))
 * [Xedra Evolved] Custom magic_type for Arvore magick ([#81635](https://github.com/CleverRaven/Cataclysm-DDA/pull/81635))
 * add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
@@ -231,6 +233,4 @@
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
 * [Magiclysm] Rework Will o' the Wisps ([#81563](https://github.com/CleverRaven/Cataclysm-DDA/pull/81563))
 * Update comment-commands.yml ([#81558](https://github.com/CleverRaven/Cataclysm-DDA/pull/81558))
-* new XL duffel bags ([#81553](https://github.com/CleverRaven/Cataclysm-DDA/pull/81553))
 * don’t call std::pow for squaring numbers ([#81559](https://github.com/CleverRaven/Cataclysm-DDA/pull/81559))
-* Aftershock: Augstmoon vendors sell more tools. ([#81554](https://github.com/CleverRaven/Cataclysm-DDA/pull/81554))
