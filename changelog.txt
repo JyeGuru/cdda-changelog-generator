@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-07-12-2111 (0f310af)
 * Aftershock: All cryosuits update the UI not only the Magellan (#81697)
 * Reign in ASRG spawns (#81735)
 * Monsters only target vehicles driven by hostiles (#81725)

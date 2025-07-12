@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-12-2111 ([0f310af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-12-2111))
+
 * Aftershock: All cryosuits update the UI not only the Magellan ([#81697](https://github.com/CleverRaven/Cataclysm-DDA/pull/81697))
 * Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
 * Monsters only target vehicles driven by hostiles ([#81725](https://github.com/CleverRaven/Cataclysm-DDA/pull/81725))
