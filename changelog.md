@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-12-0423 ([0c4d937](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0423))
+
 * Electric vehicles do not backfire ([#81717](https://github.com/CleverRaven/Cataclysm-DDA/pull/81717))
 
 ---
@@ -171,11 +176,6 @@
 
 * Weekly Changelog 2025-06-30 to 2025-07-07 ([#81631](https://github.com/CleverRaven/Cataclysm-DDA/pull/81631))
 * stop spawning exactly half empty bags of food ([#81625](https://github.com/CleverRaven/Cataclysm-DDA/pull/81625))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-08-0010 ([57a2b86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-08-0010))
-
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))
 * add support for fault applying via itemgroup ([#81585](https://github.com/CleverRaven/Cataclysm-DDA/pull/81585))
 * Tune and expand furniture bash fields ([#81628](https://github.com/CleverRaven/Cataclysm-DDA/pull/81628))
