@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-12-0702 ([dc1e6f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0702))
+
 * Highway bugfixes and improvements ([#81718](https://github.com/CleverRaven/Cataclysm-DDA/pull/81718))
 * Fixing Typo - alcohol.json ([#81720](https://github.com/CleverRaven/Cataclysm-DDA/pull/81720))
 * Routine i18n updates on 12 July 2025 ([#81727](https://github.com/CleverRaven/Cataclysm-DDA/pull/81727))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-12-0702 (dc1e6f4)
 * Highway bugfixes and improvements (#81718)
 * Fixing Typo - alcohol.json (#81720)
 * Routine i18n updates on 12 July 2025 (#81727)
