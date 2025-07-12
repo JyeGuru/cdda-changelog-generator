@@ -1,3 +1,6 @@
+* Highway bugfixes and improvements ([#81718](https://github.com/CleverRaven/Cataclysm-DDA/pull/81718))
+* Fixing Typo - alcohol.json ([#81720](https://github.com/CleverRaven/Cataclysm-DDA/pull/81720))
+* Routine i18n updates on 12 July 2025 ([#81727](https://github.com/CleverRaven/Cataclysm-DDA/pull/81727))
 
 ---
 
@@ -202,7 +205,6 @@
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
 * Make darren Cooper psycopath ([#81568](https://github.com/CleverRaven/Cataclysm-DDA/pull/81568))
 * adjust protein ration calories ([#81567](https://github.com/CleverRaven/Cataclysm-DDA/pull/81567))
-* Update the table of contents in doc/JSON/JSON_INFO.md ([#81542](https://github.com/CleverRaven/Cataclysm-DDA/pull/81542))
 * Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
 * Aftershock: Cryosuit Audit and UI elements. ([#81579](https://github.com/CleverRaven/Cataclysm-DDA/pull/81579))
 * add gym bags ([#81573](https://github.com/CleverRaven/Cataclysm-DDA/pull/81573))
@@ -219,7 +221,5 @@
 * Typo in Dark Triad mutation ([#81551](https://github.com/CleverRaven/Cataclysm-DDA/pull/81551))
 * NPCs can handle liquids from crafting ([#81548](https://github.com/CleverRaven/Cataclysm-DDA/pull/81548))
 * Aftershock: Augstmoon vendors sell more tools. ([#81554](https://github.com/CleverRaven/Cataclysm-DDA/pull/81554))
-* Allow dragging furniture on/off vehicles ([#81538](https://github.com/CleverRaven/Cataclysm-DDA/pull/81538))
 * boxes inside of boxes in aid airdrop ([#81545](https://github.com/CleverRaven/Cataclysm-DDA/pull/81545))
 * Prevent building in air. ([#81544](https://github.com/CleverRaven/Cataclysm-DDA/pull/81544))
-* Add Demihuman Bones to Temperature Removal Blacklist ([#81539](https://github.com/CleverRaven/Cataclysm-DDA/pull/81539))
