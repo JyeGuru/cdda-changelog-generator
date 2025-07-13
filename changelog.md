@@ -1,3 +1,10 @@
+* fix postapoc price of S&W 10 ([#81734](https://github.com/CleverRaven/Cataclysm-DDA/pull/81734))
+* Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-13-0307 ([20d8882](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-13-0307))
+
 * Making Chainsaws Disassemble-able ([#81703](https://github.com/CleverRaven/Cataclysm-DDA/pull/81703))
 
 ---
@@ -193,11 +200,6 @@
 
 * JSON: Allow serializing/deserializing std::maps with tripoints as keys ([#81614](https://github.com/CleverRaven/Cataclysm-DDA/pull/81614))
 * Pickle Fix ([#81657](https://github.com/CleverRaven/Cataclysm-DDA/pull/81657))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-09-1315 ([3a2e307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-1315))
-
 * [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
 * Handle revival during pulping ([#81645](https://github.com/CleverRaven/Cataclysm-DDA/pull/81645))
 * Add tests for bashing creates fields ([#81601](https://github.com/CleverRaven/Cataclysm-DDA/pull/81601))
@@ -231,8 +233,6 @@
 * Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
 * make faults able to alter item encumbrance ([#81575](https://github.com/CleverRaven/Cataclysm-DDA/pull/81575))
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
-* Make darren Cooper psycopath ([#81568](https://github.com/CleverRaven/Cataclysm-DDA/pull/81568))
-* adjust protein ration calories ([#81567](https://github.com/CleverRaven/Cataclysm-DDA/pull/81567))
 * Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
 * Aftershock: Cryosuit Audit and UI elements. ([#81579](https://github.com/CleverRaven/Cataclysm-DDA/pull/81579))
 * add gym bags ([#81573](https://github.com/CleverRaven/Cataclysm-DDA/pull/81573))
