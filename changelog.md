@@ -1,4 +1,9 @@
 * fix postapoc price of S&W 10 ([#81734](https://github.com/CleverRaven/Cataclysm-DDA/pull/81734))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-13-0402 ([3e90c75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-13-0402))
+
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
 
 ---
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-07-09-1824 ([69bbd7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-1824))
 
 * add snack protein bars ([#81622](https://github.com/CleverRaven/Cataclysm-DDA/pull/81622))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-09-1554 ([53b69b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-1554))
-
 * JSON: Allow serializing/deserializing std::maps with tripoints as keys ([#81614](https://github.com/CleverRaven/Cataclysm-DDA/pull/81614))
 * Pickle Fix ([#81657](https://github.com/CleverRaven/Cataclysm-DDA/pull/81657))
 * [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
