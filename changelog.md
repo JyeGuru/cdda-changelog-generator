@@ -192,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2025-07-09-2337 ([7cf0e55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-2337))
 
 * Add a cheongsam dress ([#81655](https://github.com/CleverRaven/Cataclysm-DDA/pull/81655))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-09-1824 ([69bbd7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-1824))
-
 * add snack protein bars ([#81622](https://github.com/CleverRaven/Cataclysm-DDA/pull/81622))
 * JSON: Allow serializing/deserializing std::maps with tripoints as keys ([#81614](https://github.com/CleverRaven/Cataclysm-DDA/pull/81614))
 * Pickle Fix ([#81657](https://github.com/CleverRaven/Cataclysm-DDA/pull/81657))

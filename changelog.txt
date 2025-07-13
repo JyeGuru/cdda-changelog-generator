@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2025-07-10-0228 (d2fd935)
 
 Cataclysm-DDA experimental build 2025-07-09-2337 (7cf0e55)
 * Add a cheongsam dress (#81655)
-
-Cataclysm-DDA experimental build 2025-07-09-1824 (69bbd7f)
 * add snack protein bars (#81622)
 * JSON: Allow serializing/deserializing std::maps with tripoints as keys (#81614)
 * Pickle Fix (#81657)
