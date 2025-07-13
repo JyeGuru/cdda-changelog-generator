@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-13-1317 ([91cd791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-13-1317))
+
 * Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81752](https://github.com/CleverRaven/Cataclysm-DDA/pull/81752))
 
 ---
@@ -187,11 +192,6 @@
 
 * (FIX CLANG BUILD FOR 0.H) coord: silence clang warning about unused value ([#81667](https://github.com/CleverRaven/Cataclysm-DDA/pull/81667))
 * Fix molotovs processing too many times ([#81661](https://github.com/CleverRaven/Cataclysm-DDA/pull/81661))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-10-0228 ([d2fd935](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-0228))
-
 * Correct copper number typo ([#81650](https://github.com/CleverRaven/Cataclysm-DDA/pull/81650))
 * Add a cheongsam dress ([#81655](https://github.com/CleverRaven/Cataclysm-DDA/pull/81655))
 * add snack protein bars ([#81622](https://github.com/CleverRaven/Cataclysm-DDA/pull/81622))
