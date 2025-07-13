@@ -1,3 +1,4 @@
+* Restore looks_like to Crabapple tree ([#81742](https://github.com/CleverRaven/Cataclysm-DDA/pull/81742))
 
 ---
 
@@ -228,7 +229,6 @@
 * Innawood recipe product amount fixes ([#81593](https://github.com/CleverRaven/Cataclysm-DDA/pull/81593))
 * Fix tool requirements for crystallizing sugar ([#81595](https://github.com/CleverRaven/Cataclysm-DDA/pull/81595))
 * Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
-* make faults able to alter item encumbrance ([#81575](https://github.com/CleverRaven/Cataclysm-DDA/pull/81575))
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
 * Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
 * Aftershock: Cryosuit Audit and UI elements. ([#81579](https://github.com/CleverRaven/Cataclysm-DDA/pull/81579))
