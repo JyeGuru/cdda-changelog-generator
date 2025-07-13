@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-13-1554 ([c224235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-13-1554))
+
 * Restore looks_like to Crabapple tree ([#81742](https://github.com/CleverRaven/Cataclysm-DDA/pull/81742))
 
 ---
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-07-10-0444 ([b5d5762](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-0444))
 
 * 0.I -> 0.J ([#81662](https://github.com/CleverRaven/Cataclysm-DDA/pull/81662))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2025-07-10-0402 ([6dae843](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2025-07-10-0402))
-
 * (FIX CLANG BUILD FOR 0.H) coord: silence clang warning about unused value ([#81667](https://github.com/CleverRaven/Cataclysm-DDA/pull/81667))
 * Fix molotovs processing too many times ([#81661](https://github.com/CleverRaven/Cataclysm-DDA/pull/81661))
 * Correct copper number typo ([#81650](https://github.com/CleverRaven/Cataclysm-DDA/pull/81650))
