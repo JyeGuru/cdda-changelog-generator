@@ -1,3 +1,4 @@
+* Fix software crafting for mods ([#81764](https://github.com/CleverRaven/Cataclysm-DDA/pull/81764))
 
 ---
 
@@ -231,5 +232,4 @@
 * Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
 * Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
-* Aftershock: Disable A shadow event. ([#81581](https://github.com/CleverRaven/Cataclysm-DDA/pull/81581))
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))

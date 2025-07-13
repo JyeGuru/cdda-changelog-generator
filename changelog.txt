@@ -1,3 +1,4 @@
+* Fix software crafting for mods (#81764)
 
 Cataclysm-DDA 0.I release candidate 2025-07-13-1726 (11edce7)
 * Aftershock: Functional Starship Scenario (#81681)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2025-07-10-0705 (66744fa)
 * Fix dust mopping (#81596)
 * Gastropod mutants can mutate intestinal fortitude (#81589)
 * Fix cement powder recipe product (#81590)
-* Aftershock: Disable A shadow event. (#81581)
 * Prevent crash from butchery cancelling (#81582)
