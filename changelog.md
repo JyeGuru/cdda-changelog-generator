@@ -160,7 +160,6 @@
 #### Cataclysm-DDA experimental build 2025-07-10-2308 ([08394b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-2308))
 
 * Make terrain able to have an underlying item for supplemental info ([#81669](https://github.com/CleverRaven/Cataclysm-DDA/pull/81669))
-* Labyrinthine Structures: terrain/trap and minor monster balance fixes ([#81580](https://github.com/CleverRaven/Cataclysm-DDA/pull/81580))
 * No labyrinth playtest in stable ([#81677](https://github.com/CleverRaven/Cataclysm-DDA/pull/81677))
 * Correct copper typo 0.I Backport ([#81653](https://github.com/CleverRaven/Cataclysm-DDA/pull/81653))
 * 0.I backport: Don't try to pulp corpse that's no longer present ([#81656](https://github.com/CleverRaven/Cataclysm-DDA/pull/81656))
