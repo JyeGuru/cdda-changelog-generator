@@ -1,3 +1,10 @@
+* Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81752](https://github.com/CleverRaven/Cataclysm-DDA/pull/81752))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-13-1251 ([840910e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-13-1251))
+
+* Add hit field and destroy field for fungal terrain ([#81747](https://github.com/CleverRaven/Cataclysm-DDA/pull/81747))
 * fix postapoc price of S&W 10 ([#81734](https://github.com/CleverRaven/Cataclysm-DDA/pull/81734))
 
 ---
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-07-10-0228 ([d2fd935](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-0228))
 
 * Correct copper number typo ([#81650](https://github.com/CleverRaven/Cataclysm-DDA/pull/81650))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-09-2337 ([7cf0e55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-09-2337))
-
 * Add a cheongsam dress ([#81655](https://github.com/CleverRaven/Cataclysm-DDA/pull/81655))
 * add snack protein bars ([#81622](https://github.com/CleverRaven/Cataclysm-DDA/pull/81622))
 * JSON: Allow serializing/deserializing std::maps with tripoints as keys ([#81614](https://github.com/CleverRaven/Cataclysm-DDA/pull/81614))
@@ -230,7 +232,5 @@
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
 * Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
 * Aftershock: Cryosuit Audit and UI elements. ([#81579](https://github.com/CleverRaven/Cataclysm-DDA/pull/81579))
-* add gym bags ([#81573](https://github.com/CleverRaven/Cataclysm-DDA/pull/81573))
 * Aftershock: Disable A shadow event. ([#81581](https://github.com/CleverRaven/Cataclysm-DDA/pull/81581))
-* [MoM] Fix Noetic Resonance Detector placement ([#81572](https://github.com/CleverRaven/Cataclysm-DDA/pull/81572))
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
