@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-13-2053 ([8490478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-13-2053))
+
 * Fix software crafting for mods ([#81764](https://github.com/CleverRaven/Cataclysm-DDA/pull/81764))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-07-10-1440 ([9b45d0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-1440))
 
 * Aftershock: Functional Starship Scenario ([#81668](https://github.com/CleverRaven/Cataclysm-DDA/pull/81668))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-10-0705 ([66744fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-0705))
-
 * Fix camp blueprint autocalc ([#81658](https://github.com/CleverRaven/Cataclysm-DDA/pull/81658))
 * 0.I -> 0.J ([#81662](https://github.com/CleverRaven/Cataclysm-DDA/pull/81662))
 * (FIX CLANG BUILD FOR 0.H) coord: silence clang warning about unused value ([#81667](https://github.com/CleverRaven/Cataclysm-DDA/pull/81667))
@@ -232,4 +232,5 @@
 * Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
 * Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
 * Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
+* Aftershock: Disable A shadow event. ([#81581](https://github.com/CleverRaven/Cataclysm-DDA/pull/81581))
 * Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
