@@ -1,3 +1,4 @@
+* Restore looks_like to Crabapple tree (#81759)
 * Weekly Changelog 2025-07-07 to 2025-07-14 (#81785)
 * Fix forced traits being applied to NPCs (#81793)
 
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-07-11-0833 (a977e95)
 * [ Aftershock ] Update Spite soda more quench less stim. (#81640)
 * Weekly Changelog 2025-06-30 to 2025-07-07 (#81631)
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind (#81636)
-* Tune and expand furniture bash fields (#81628)

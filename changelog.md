@@ -1,3 +1,4 @@
+* Restore looks_like to Crabapple tree ([#81759](https://github.com/CleverRaven/Cataclysm-DDA/pull/81759))
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
 
@@ -234,4 +235,3 @@
 * [ Aftershock ] Update Spite soda more quench less stim. ([#81640](https://github.com/CleverRaven/Cataclysm-DDA/pull/81640))
 * Weekly Changelog 2025-06-30 to 2025-07-07 ([#81631](https://github.com/CleverRaven/Cataclysm-DDA/pull/81631))
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))
-* Tune and expand furniture bash fields ([#81628](https://github.com/CleverRaven/Cataclysm-DDA/pull/81628))
