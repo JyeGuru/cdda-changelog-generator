@@ -1,3 +1,4 @@
+* Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * Prune item demographics of removed guns and sort it out  ([#81637](https://github.com/CleverRaven/Cataclysm-DDA/pull/81637))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
@@ -220,7 +221,6 @@
 * Fix molotovs processing too many times ([#81661](https://github.com/CleverRaven/Cataclysm-DDA/pull/81661))
 * Correct copper number typo ([#81650](https://github.com/CleverRaven/Cataclysm-DDA/pull/81650))
 * Add a cheongsam dress ([#81655](https://github.com/CleverRaven/Cataclysm-DDA/pull/81655))
-* add snack protein bars ([#81622](https://github.com/CleverRaven/Cataclysm-DDA/pull/81622))
 * Pickle Fix ([#81657](https://github.com/CleverRaven/Cataclysm-DDA/pull/81657))
 * [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
 * Handle revival during pulping ([#81645](https://github.com/CleverRaven/Cataclysm-DDA/pull/81645))
