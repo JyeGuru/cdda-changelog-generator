@@ -1,4 +1,9 @@
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-14-2021 ([3684f21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-2021))
+
 * [MoM] Overhaul Premonition, add Sense Hostility power ([#81748](https://github.com/CleverRaven/Cataclysm-DDA/pull/81748))
 
 ---
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2025-07-11-0833 ([a977e95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-0833))
 
 * Update ITEM and JSON inheritance docs for type ITEM ([#81700](https://github.com/CleverRaven/Cataclysm-DDA/pull/81700))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-11-0228 ([c332702](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-0228))
-
 * Aftershock: All cryosuits update the UI not only the Magellan ([#81687](https://github.com/CleverRaven/Cataclysm-DDA/pull/81687))
 * Make terrain able to have an underlying item for supplemental info ([#81669](https://github.com/CleverRaven/Cataclysm-DDA/pull/81669))
 * No labyrinth playtest in stable ([#81677](https://github.com/CleverRaven/Cataclysm-DDA/pull/81677))
