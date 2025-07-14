@@ -1,3 +1,5 @@
+* Prune item demographics of removed guns and sort it out  ([#81637](https://github.com/CleverRaven/Cataclysm-DDA/pull/81637))
+* fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
 * Remove 12 gauge High Explosive ([#81638](https://github.com/CleverRaven/Cataclysm-DDA/pull/81638))
 * Sanify Insecticide from Nicotine Recipe ([#81675](https://github.com/CleverRaven/Cataclysm-DDA/pull/81675))
@@ -223,7 +225,6 @@
 * [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
 * Handle revival during pulping ([#81645](https://github.com/CleverRaven/Cataclysm-DDA/pull/81645))
 * Add descriptive names (part 1) ([#81643](https://github.com/CleverRaven/Cataclysm-DDA/pull/81643))
-* Audit some zombie attributes (that unintentionally changed in #72534) ([#81620](https://github.com/CleverRaven/Cataclysm-DDA/pull/81620))
 * [Xedra Evolved] Custom magic_type for Arvore magick ([#81635](https://github.com/CleverRaven/Cataclysm-DDA/pull/81635))
 * add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
 * [ Aftershock ] AFS Monsters should shoot vehicles ([#81639](https://github.com/CleverRaven/Cataclysm-DDA/pull/81639))
@@ -234,4 +235,3 @@
 * Tune and expand furniture bash fields ([#81628](https://github.com/CleverRaven/Cataclysm-DDA/pull/81628))
 * [MoM] Fix Phase/Farstep volume calculations ([#81626](https://github.com/CleverRaven/Cataclysm-DDA/pull/81626))
 * Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
-* Add 3 new guns (308 Model 700, .22 Savage Rascal, .32 LWS) ([#81619](https://github.com/CleverRaven/Cataclysm-DDA/pull/81619))
