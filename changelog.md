@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
 
 ---
@@ -234,4 +235,3 @@
 * Weekly Changelog 2025-06-30 to 2025-07-07 ([#81631](https://github.com/CleverRaven/Cataclysm-DDA/pull/81631))
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))
 * Tune and expand furniture bash fields ([#81628](https://github.com/CleverRaven/Cataclysm-DDA/pull/81628))
-* Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
