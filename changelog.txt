@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-07-14-2321 (8931b47)
 * Restore looks_like to Crabapple tree (#81759)
 * Weekly Changelog 2025-07-07 to 2025-07-14 (#81785)
 * Fix forced traits being applied to NPCs (#81793)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2025-07-11-2326 (5733c3b)
 
 Cataclysm-DDA experimental build 2025-07-11-2038 (12bc86b)
 * Fixing Typo - fixes_gun.json (#81710)
-
-Cataclysm-DDA 0.I release candidate 2025-07-11-1721 (06f246b)
 * Update CI config for 0.I release candidate (#81685)
 
 Cataclysm-DDA experimental build 2025-07-11-1649 (8bae6cb)

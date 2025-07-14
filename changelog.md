@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-14-2321 ([8931b47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-14-2321))
+
 * Restore looks_like to Crabapple tree ([#81759](https://github.com/CleverRaven/Cataclysm-DDA/pull/81759))
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-07-11-2038 ([12bc86b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-2038))
 
 * Fixing Typo - fixes_gun.json ([#81710](https://github.com/CleverRaven/Cataclysm-DDA/pull/81710))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-11-1721 ([06f246b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-11-1721))
-
 * Update CI config for 0.I release candidate ([#81685](https://github.com/CleverRaven/Cataclysm-DDA/pull/81685))
 
 ---
