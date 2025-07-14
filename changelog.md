@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-14-1541 ([4808d0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-1541))
+
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * Prune item demographics of removed guns and sort it out  ([#81637](https://github.com/CleverRaven/Cataclysm-DDA/pull/81637))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
@@ -201,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2025-07-11-0228 ([c332702](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-0228))
 
 * Aftershock: All cryosuits update the UI not only the Magellan ([#81687](https://github.com/CleverRaven/Cataclysm-DDA/pull/81687))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-10-2308 ([08394b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-2308))
-
 * Make terrain able to have an underlying item for supplemental info ([#81669](https://github.com/CleverRaven/Cataclysm-DDA/pull/81669))
 * No labyrinth playtest in stable ([#81677](https://github.com/CleverRaven/Cataclysm-DDA/pull/81677))
 * Correct copper typo 0.I Backport ([#81653](https://github.com/CleverRaven/Cataclysm-DDA/pull/81653))
