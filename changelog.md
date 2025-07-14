@@ -1,3 +1,25 @@
+* Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))
+* prepper food in bugout bags ([#81770](https://github.com/CleverRaven/Cataclysm-DDA/pull/81770))
+* [Mods] Mutually-exclusive supernatural heritage traits are light cyan ([#81761](https://github.com/CleverRaven/Cataclysm-DDA/pull/81761))
+* [XE] Remove melee training cap from a certain boss. ([#81760](https://github.com/CleverRaven/Cataclysm-DDA/pull/81760))
+* Fix mod loading ([#81771](https://github.com/CleverRaven/Cataclysm-DDA/pull/81771))
+* New fungal monsters: fungal mound and fungal construct. ([#81773](https://github.com/CleverRaven/Cataclysm-DDA/pull/81773))
+* Fix highway segments generating over highway specials ([#81779](https://github.com/CleverRaven/Cataclysm-DDA/pull/81779))
+* Typo Fix computer_eocs.json ([#81784](https://github.com/CleverRaven/Cataclysm-DDA/pull/81784))
+* peanut butter and jam in half-liter jars ([#81782](https://github.com/CleverRaven/Cataclysm-DDA/pull/81782))
+* 1 pound of pasta per box ([#81777](https://github.com/CleverRaven/Cataclysm-DDA/pull/81777))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-14-1213 ([07a4769](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-14-1213))
+
+* fix postapoc price of S&W 10 ([#81787](https://github.com/CleverRaven/Cataclysm-DDA/pull/81787))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-14-1210 ([3899ae7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-1210))
+
+* fill cereal boxes ([#81775](https://github.com/CleverRaven/Cataclysm-DDA/pull/81775))
 
 ---
 
@@ -177,18 +199,7 @@
 * 0.I backport: Don't try to pulp corpse that's no longer present ([#81656](https://github.com/CleverRaven/Cataclysm-DDA/pull/81656))
 * Pickle Fix ([#81686](https://github.com/CleverRaven/Cataclysm-DDA/pull/81686))
 * Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81684](https://github.com/CleverRaven/Cataclysm-DDA/pull/81684))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-10-1944 ([e46a2a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-1944))
-
-* Highways, C++ portion ([#81602](https://github.com/CleverRaven/Cataclysm-DDA/pull/81602))
 * [ Xedra Evolved ] Mo-re mi-go treaty snippets ([#81678](https://github.com/CleverRaven/Cataclysm-DDA/pull/81678))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-10-1658 ([8a2b61b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-10-1658))
-
 * Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81683](https://github.com/CleverRaven/Cataclysm-DDA/pull/81683))
 * Aftershock: Functional Starship Scenario ([#81668](https://github.com/CleverRaven/Cataclysm-DDA/pull/81668))
 * Fix camp blueprint autocalc ([#81658](https://github.com/CleverRaven/Cataclysm-DDA/pull/81658))
@@ -202,7 +213,6 @@
 * Pickle Fix ([#81657](https://github.com/CleverRaven/Cataclysm-DDA/pull/81657))
 * [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
 * Handle revival during pulping ([#81645](https://github.com/CleverRaven/Cataclysm-DDA/pull/81645))
-* Add tests for bashing creates fields ([#81601](https://github.com/CleverRaven/Cataclysm-DDA/pull/81601))
 * Add descriptive names (part 1) ([#81643](https://github.com/CleverRaven/Cataclysm-DDA/pull/81643))
 * Audit some zombie attributes (that unintentionally changed in #72534) ([#81620](https://github.com/CleverRaven/Cataclysm-DDA/pull/81620))
 * [Xedra Evolved] Custom magic_type for Arvore magick ([#81635](https://github.com/CleverRaven/Cataclysm-DDA/pull/81635))
@@ -212,10 +222,8 @@
 * Weekly Changelog 2025-06-30 to 2025-07-07 ([#81631](https://github.com/CleverRaven/Cataclysm-DDA/pull/81631))
 * stop spawning exactly half empty bags of food ([#81625](https://github.com/CleverRaven/Cataclysm-DDA/pull/81625))
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))
-* add support for fault applying via itemgroup ([#81585](https://github.com/CleverRaven/Cataclysm-DDA/pull/81585))
 * Tune and expand furniture bash fields ([#81628](https://github.com/CleverRaven/Cataclysm-DDA/pull/81628))
 * [MoM] Fix Phase/Farstep volume calculations ([#81626](https://github.com/CleverRaven/Cataclysm-DDA/pull/81626))
-* You can have night vision and mesopic mutations but mesopic and myopic/hyperopic cancel each other ([#81599](https://github.com/CleverRaven/Cataclysm-DDA/pull/81599))
 * Revert accidental 100x increase in gunshop quantities ([#81627](https://github.com/CleverRaven/Cataclysm-DDA/pull/81627))
 * Remove pointless copy of stomach size ([#81609](https://github.com/CleverRaven/Cataclysm-DDA/pull/81609))
 * Limit range flowing water can be channeled ([#81615](https://github.com/CleverRaven/Cataclysm-DDA/pull/81615))
@@ -225,12 +233,5 @@
 * Remove references to minefields ([#81612](https://github.com/CleverRaven/Cataclysm-DDA/pull/81612))
 * Add assertion to skill rust test about excessive rust speed ([#81613](https://github.com/CleverRaven/Cataclysm-DDA/pull/81613))
 * Fix drawing items under fields in no tiles mode ([#81611](https://github.com/CleverRaven/Cataclysm-DDA/pull/81611))
-* Nuclear Power Plant upgrade ([#81598](https://github.com/CleverRaven/Cataclysm-DDA/pull/81598))
 * Routine i18n updates on 05 July 2025 ([#81604](https://github.com/CleverRaven/Cataclysm-DDA/pull/81604))
 * Gracefully handle empty files when compressing existing saves. ([#81603](https://github.com/CleverRaven/Cataclysm-DDA/pull/81603))
-* Innawood recipe product amount fixes ([#81593](https://github.com/CleverRaven/Cataclysm-DDA/pull/81593))
-* Fix tool requirements for crystallizing sugar ([#81595](https://github.com/CleverRaven/Cataclysm-DDA/pull/81595))
-* Fix dust mopping ([#81596](https://github.com/CleverRaven/Cataclysm-DDA/pull/81596))
-* Gastropod mutants can mutate intestinal fortitude ([#81589](https://github.com/CleverRaven/Cataclysm-DDA/pull/81589))
-* Fix cement powder recipe product ([#81590](https://github.com/CleverRaven/Cataclysm-DDA/pull/81590))
-* Prevent crash from butchery cancelling ([#81582](https://github.com/CleverRaven/Cataclysm-DDA/pull/81582))
