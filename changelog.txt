@@ -1,3 +1,4 @@
+* [MoM] Overhaul Premonition, add Sense Hostility power (#81748)
 
 Cataclysm-DDA experimental build 2025-07-14-1541 (4808d0b)
 * Debug mode persists through save/load (#81755)
@@ -146,7 +147,6 @@ Cataclysm-DDA experimental build 2025-07-11-0228 (c332702)
 * [ Aftershock ] AFS Monsters should shoot vehicles (#81639)
 * [ Aftershock ] Update Spite soda more quench less stim. (#81640)
 * Weekly Changelog 2025-06-30 to 2025-07-07 (#81631)
-* stop spawning exactly half empty bags of food (#81625)
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind (#81636)
 * Tune and expand furniture bash fields (#81628)
 * [MoM] Fix Phase/Farstep volume calculations (#81626)
