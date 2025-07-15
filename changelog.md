@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-15-2351 ([30a5778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-15-2351))
+
+* Disable huge uncacheable emscripten builds. ([#81827](https://github.com/CleverRaven/Cataclysm-DDA/pull/81827))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-15-2317 ([8d700d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-15-2317))
+
 * Z-9s drop kevlar harnesses ([#81815](https://github.com/CleverRaven/Cataclysm-DDA/pull/81815))
 
 ---
@@ -73,7 +84,6 @@
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
-* Sanify Insecticide from Nicotine Recipe ([#81675](https://github.com/CleverRaven/Cataclysm-DDA/pull/81675))
 * Change u_profession condition ([#81680](https://github.com/CleverRaven/Cataclysm-DDA/pull/81680))
 * [Xedra Evolved] Add bloodthorne druid safehouse ([#81714](https://github.com/CleverRaven/Cataclysm-DDA/pull/81714))
 * Remove Riot Damage from collapsed tower ([#81729](https://github.com/CleverRaven/Cataclysm-DDA/pull/81729))
@@ -173,11 +183,6 @@
 * Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
 * Monsters only target vehicles driven by hostiles ([#81725](https://github.com/CleverRaven/Cataclysm-DDA/pull/81725))
 * Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-12-1850 ([d22a465](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-12-1850))
-
 * "hard" meta progression requirements for mods ([#81737](https://github.com/CleverRaven/Cataclysm-DDA/pull/81737))
 
 ---
@@ -189,11 +194,6 @@
 * Reign in ASRG spawns ([#81688](https://github.com/CleverRaven/Cataclysm-DDA/pull/81688))
 * Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81705](https://github.com/CleverRaven/Cataclysm-DDA/pull/81705))
 * Fixing Typo - carnivore.json ([#81723](https://github.com/CleverRaven/Cataclysm-DDA/pull/81723))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-12-1346 ([60fd1cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-12-1346))
-
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
 
 ---
