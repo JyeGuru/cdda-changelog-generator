@@ -1,3 +1,4 @@
+* add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
 
 ---
 
@@ -233,5 +234,4 @@
 * add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
 * [ Aftershock ] AFS Monsters should shoot vehicles ([#81639](https://github.com/CleverRaven/Cataclysm-DDA/pull/81639))
 * [ Aftershock ] Update Spite soda more quench less stim. ([#81640](https://github.com/CleverRaven/Cataclysm-DDA/pull/81640))
-* Weekly Changelog 2025-06-30 to 2025-07-07 ([#81631](https://github.com/CleverRaven/Cataclysm-DDA/pull/81631))
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))

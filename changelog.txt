@@ -1,3 +1,4 @@
+* add ShnitzelX2 to comment-commands.yml (#81808)
 
 Cataclysm-DDA 0.I release candidate 2025-07-14-2321 (8931b47)
 * Restore looks_like to Crabapple tree (#81759)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2025-07-11-0833 (a977e95)
 * add a postapoc price to sw642 (#81642)
 * [ Aftershock ] AFS Monsters should shoot vehicles (#81639)
 * [ Aftershock ] Update Spite soda more quench less stim. (#81640)
-* Weekly Changelog 2025-06-30 to 2025-07-07 (#81631)
 * [Xedra Evolved] The First Encounter with the Lovecraftian Kind (#81636)
