@@ -1,3 +1,4 @@
+* Add nested cellars to cabins ([#81745](https://github.com/CleverRaven/Cataclysm-DDA/pull/81745))
 * Remove STATIC() macro ([#81780](https://github.com/CleverRaven/Cataclysm-DDA/pull/81780))
 * Smart Watch proliferation ([#81798](https://github.com/CleverRaven/Cataclysm-DDA/pull/81798))
 * [MoM] Fifth Sun People is now a HERITAGE trait ([#81799](https://github.com/CleverRaven/Cataclysm-DDA/pull/81799))
@@ -232,7 +233,6 @@
 * Making Chainsaws Disassemble-able ([#81699](https://github.com/CleverRaven/Cataclysm-DDA/pull/81699))
 * Update ITEM and JSON inheritance docs for type ITEM ([#81700](https://github.com/CleverRaven/Cataclysm-DDA/pull/81700))
 * Aftershock: All cryosuits update the UI not only the Magellan ([#81687](https://github.com/CleverRaven/Cataclysm-DDA/pull/81687))
-* Make terrain able to have an underlying item for supplemental info ([#81669](https://github.com/CleverRaven/Cataclysm-DDA/pull/81669))
 * No labyrinth playtest in stable ([#81677](https://github.com/CleverRaven/Cataclysm-DDA/pull/81677))
 * Pickle Fix ([#81686](https://github.com/CleverRaven/Cataclysm-DDA/pull/81686))
 * Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81684](https://github.com/CleverRaven/Cataclysm-DDA/pull/81684))
