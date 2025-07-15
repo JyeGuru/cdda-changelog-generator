@@ -5,6 +5,11 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-14-2321 ([8931b47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-14-2321))
 
 * Restore looks_like to Crabapple tree ([#81759](https://github.com/CleverRaven/Cataclysm-DDA/pull/81759))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-15-0236 ([01a8460](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-15-0236))
+
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
 
@@ -204,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2025-07-11-1109 ([0d8eb91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-1109))
 
 * Making Chainsaws Disassemble-able ([#81699](https://github.com/CleverRaven/Cataclysm-DDA/pull/81699))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-11-0833 ([a977e95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-0833))
-
 * Update ITEM and JSON inheritance docs for type ITEM ([#81700](https://github.com/CleverRaven/Cataclysm-DDA/pull/81700))
 * Aftershock: All cryosuits update the UI not only the Magellan ([#81687](https://github.com/CleverRaven/Cataclysm-DDA/pull/81687))
 * Make terrain able to have an underlying item for supplemental info ([#81669](https://github.com/CleverRaven/Cataclysm-DDA/pull/81669))

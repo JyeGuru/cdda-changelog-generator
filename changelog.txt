@@ -2,6 +2,8 @@
 
 Cataclysm-DDA 0.I release candidate 2025-07-14-2321 (8931b47)
 * Restore looks_like to Crabapple tree (#81759)
+
+Cataclysm-DDA experimental build 2025-07-15-0236 (01a8460)
 * Weekly Changelog 2025-07-07 to 2025-07-14 (#81785)
 * Fix forced traits being applied to NPCs (#81793)
 
@@ -123,8 +125,6 @@ Cataclysm-DDA experimental build 2025-07-11-1649 (8bae6cb)
 
 Cataclysm-DDA experimental build 2025-07-11-1109 (0d8eb91)
 * Making Chainsaws Disassemble-able (#81699)
-
-Cataclysm-DDA experimental build 2025-07-11-0833 (a977e95)
 * Update ITEM and JSON inheritance docs for type ITEM (#81700)
 * Aftershock: All cryosuits update the UI not only the Magellan (#81687)
 * Make terrain able to have an underlying item for supplemental info (#81669)
