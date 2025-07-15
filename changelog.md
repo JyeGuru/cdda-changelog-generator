@@ -238,4 +238,3 @@
 * Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81684](https://github.com/CleverRaven/Cataclysm-DDA/pull/81684))
 * [ Xedra Evolved ] Mo-re mi-go treaty snippets ([#81678](https://github.com/CleverRaven/Cataclysm-DDA/pull/81678))
 * Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81683](https://github.com/CleverRaven/Cataclysm-DDA/pull/81683))
-* Aftershock: Functional Starship Scenario ([#81668](https://github.com/CleverRaven/Cataclysm-DDA/pull/81668))
