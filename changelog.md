@@ -6,11 +6,21 @@
 * Finalize requirement data for fault fixes ([#81797](https://github.com/CleverRaven/Cataclysm-DDA/pull/81797))
 * Pantry charges ([#81807](https://github.com/CleverRaven/Cataclysm-DDA/pull/81807))
 * [Aftershock] Esper tweaks ([#81763](https://github.com/CleverRaven/Cataclysm-DDA/pull/81763))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-15-1255 ([42a3aa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-15-1255))
+
 * [Aftershock] Fix telekinesis bugs ([#81801](https://github.com/CleverRaven/Cataclysm-DDA/pull/81801))
 * split up SUS fridge itemgroups ([#81812](https://github.com/CleverRaven/Cataclysm-DDA/pull/81812))
 * Remove 4.6mm and MP7 ([#81813](https://github.com/CleverRaven/Cataclysm-DDA/pull/81813))
 * Learning defensive driving in the cataclysm?! Don't mind if I do... ([#81814](https://github.com/CleverRaven/Cataclysm-DDA/pull/81814))
 * The esoteric and you ([#81817](https://github.com/CleverRaven/Cataclysm-DDA/pull/81817))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-15-1246 ([23207cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-15-1246))
+
 * Set Liam's opinion of the player ([#81819](https://github.com/CleverRaven/Cataclysm-DDA/pull/81819))
 * Fix forced traits being applied to NPCs ([#81806](https://github.com/CleverRaven/Cataclysm-DDA/pull/81806))
 * fix f_player_see erroring if talker is not presented ([#81796](https://github.com/CleverRaven/Cataclysm-DDA/pull/81796))
