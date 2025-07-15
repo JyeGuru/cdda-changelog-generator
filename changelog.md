@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-15-1851 ([f43f8a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-15-1851))
+
 * Finalize requirement data for fault fixes ([#81825](https://github.com/CleverRaven/Cataclysm-DDA/pull/81825))
 
 ---
@@ -220,11 +225,6 @@
 * Fixing Typo - faults_tools.json ([#81707](https://github.com/CleverRaven/Cataclysm-DDA/pull/81707))
 * Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))
 * Monsters only target vehicles driven by hostiles ([#81711](https://github.com/CleverRaven/Cataclysm-DDA/pull/81711))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-11-2326 ([5733c3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-2326))
-
 * Ensure no fault in Liam's car ([#81713](https://github.com/CleverRaven/Cataclysm-DDA/pull/81713))
 * Fixing Typo - faults_electronic.json ([#81708](https://github.com/CleverRaven/Cataclysm-DDA/pull/81708))
 * Fixing Typo - faults_guns.json ([#81709](https://github.com/CleverRaven/Cataclysm-DDA/pull/81709))
