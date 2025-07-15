@@ -3,6 +3,11 @@
 * fix f_player_see erroring if talker is not presented ([#81796](https://github.com/CleverRaven/Cataclysm-DDA/pull/81796))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81792](https://github.com/CleverRaven/Cataclysm-DDA/pull/81792))
 * Add looks_like to various medical zeds ([#81790](https://github.com/CleverRaven/Cataclysm-DDA/pull/81790))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-15-0644 ([8cc71be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-15-0644))
+
 * Fix mod loading ([#81789](https://github.com/CleverRaven/Cataclysm-DDA/pull/81789))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
 
@@ -207,11 +212,6 @@
 
 * [Xedra Evolved] Add Bloodthorne druids part 2 ([#81664](https://github.com/CleverRaven/Cataclysm-DDA/pull/81664))
 * [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) ([#81694](https://github.com/CleverRaven/Cataclysm-DDA/pull/81694))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-11-1109 ([0d8eb91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-1109))
-
 * Making Chainsaws Disassemble-able ([#81699](https://github.com/CleverRaven/Cataclysm-DDA/pull/81699))
 * Update ITEM and JSON inheritance docs for type ITEM ([#81700](https://github.com/CleverRaven/Cataclysm-DDA/pull/81700))
 * Aftershock: All cryosuits update the UI not only the Magellan ([#81687](https://github.com/CleverRaven/Cataclysm-DDA/pull/81687))
@@ -234,4 +234,3 @@
 * [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
 * Handle revival during pulping ([#81645](https://github.com/CleverRaven/Cataclysm-DDA/pull/81645))
 * Add descriptive names (part 1) ([#81643](https://github.com/CleverRaven/Cataclysm-DDA/pull/81643))
-* add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
