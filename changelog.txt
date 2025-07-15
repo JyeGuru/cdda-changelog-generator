@@ -1,4 +1,6 @@
 * Finalize requirement data for fault fixes (#81825)
+
+Cataclysm-DDA experimental build 2025-07-15-1805 (a382e6d)
 * Add nested cellars to cabins (#81745)
 * Remove STATIC() macro (#81780)
 * Smart Watch proliferation (#81798)
@@ -139,8 +141,6 @@ Cataclysm-DDA experimental build 2025-07-11-2326 (5733c3b)
 * Ensure no fault in Liam's car (#81713)
 * Fixing Typo - faults_electronic.json (#81708)
 * Fixing Typo - faults_guns.json (#81709)
-
-Cataclysm-DDA experimental build 2025-07-11-2038 (12bc86b)
 * Fixing Typo - fixes_gun.json (#81710)
 * Update CI config for 0.I release candidate (#81685)
 * [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) (#81694)

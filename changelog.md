@@ -1,4 +1,9 @@
 * Finalize requirement data for fault fixes ([#81825](https://github.com/CleverRaven/Cataclysm-DDA/pull/81825))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-15-1805 ([a382e6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-15-1805))
+
 * Add nested cellars to cabins ([#81745](https://github.com/CleverRaven/Cataclysm-DDA/pull/81745))
 * Remove STATIC() macro ([#81780](https://github.com/CleverRaven/Cataclysm-DDA/pull/81780))
 * Smart Watch proliferation ([#81798](https://github.com/CleverRaven/Cataclysm-DDA/pull/81798))
@@ -223,11 +228,6 @@
 * Ensure no fault in Liam's car ([#81713](https://github.com/CleverRaven/Cataclysm-DDA/pull/81713))
 * Fixing Typo - faults_electronic.json ([#81708](https://github.com/CleverRaven/Cataclysm-DDA/pull/81708))
 * Fixing Typo - faults_guns.json ([#81709](https://github.com/CleverRaven/Cataclysm-DDA/pull/81709))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-11-2038 ([12bc86b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-11-2038))
-
 * Fixing Typo - fixes_gun.json ([#81710](https://github.com/CleverRaven/Cataclysm-DDA/pull/81710))
 * Update CI config for 0.I release candidate ([#81685](https://github.com/CleverRaven/Cataclysm-DDA/pull/81685))
 * [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) ([#81694](https://github.com/CleverRaven/Cataclysm-DDA/pull/81694))
