@@ -1,3 +1,4 @@
+* Finalize requirement data for fault fixes ([#81825](https://github.com/CleverRaven/Cataclysm-DDA/pull/81825))
 * Add nested cellars to cabins ([#81745](https://github.com/CleverRaven/Cataclysm-DDA/pull/81745))
 * Remove STATIC() macro ([#81780](https://github.com/CleverRaven/Cataclysm-DDA/pull/81780))
 * Smart Watch proliferation ([#81798](https://github.com/CleverRaven/Cataclysm-DDA/pull/81798))
