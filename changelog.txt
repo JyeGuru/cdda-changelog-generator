@@ -1,3 +1,4 @@
+* Z-9s drop kevlar harnesses (#81815)
 
 Cataclysm-DDA 0.I release candidate 2025-07-15-1851 (f43f8a4)
 * Finalize requirement data for fault fixes (#81825)

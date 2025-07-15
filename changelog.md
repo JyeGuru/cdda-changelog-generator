@@ -1,3 +1,4 @@
+* Z-9s drop kevlar harnesses ([#81815](https://github.com/CleverRaven/Cataclysm-DDA/pull/81815))
 
 ---
 
