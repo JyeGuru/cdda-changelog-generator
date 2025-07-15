@@ -1,3 +1,8 @@
+* Fix forced traits being applied to NPCs ([#81806](https://github.com/CleverRaven/Cataclysm-DDA/pull/81806))
+* fix f_player_see erroring if talker is not presented ([#81796](https://github.com/CleverRaven/Cataclysm-DDA/pull/81796))
+* Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81792](https://github.com/CleverRaven/Cataclysm-DDA/pull/81792))
+* Add looks_like to various medical zeds ([#81790](https://github.com/CleverRaven/Cataclysm-DDA/pull/81790))
+* Fix mod loading ([#81789](https://github.com/CleverRaven/Cataclysm-DDA/pull/81789))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
 
 ---
@@ -24,10 +29,8 @@
 #### Cataclysm-DDA experimental build 2025-07-14-1541 ([4808d0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-1541))
 
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
-* Prune item demographics of removed guns and sort it out  ([#81637](https://github.com/CleverRaven/Cataclysm-DDA/pull/81637))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
-* Remove 12 gauge High Explosive ([#81638](https://github.com/CleverRaven/Cataclysm-DDA/pull/81638))
 * Sanify Insecticide from Nicotine Recipe ([#81675](https://github.com/CleverRaven/Cataclysm-DDA/pull/81675))
 * Change u_profession condition ([#81680](https://github.com/CleverRaven/Cataclysm-DDA/pull/81680))
 * [Xedra Evolved] Add bloodthorne druid safehouse ([#81714](https://github.com/CleverRaven/Cataclysm-DDA/pull/81714))
@@ -230,8 +233,5 @@
 * [Infrastructure] Pass spell_id to spell experience jmath ([#81651](https://github.com/CleverRaven/Cataclysm-DDA/pull/81651))
 * Handle revival during pulping ([#81645](https://github.com/CleverRaven/Cataclysm-DDA/pull/81645))
 * Add descriptive names (part 1) ([#81643](https://github.com/CleverRaven/Cataclysm-DDA/pull/81643))
-* [Xedra Evolved] Custom magic_type for Arvore magick ([#81635](https://github.com/CleverRaven/Cataclysm-DDA/pull/81635))
 * add a postapoc price to sw642 ([#81642](https://github.com/CleverRaven/Cataclysm-DDA/pull/81642))
-* [ Aftershock ] AFS Monsters should shoot vehicles ([#81639](https://github.com/CleverRaven/Cataclysm-DDA/pull/81639))
 * [ Aftershock ] Update Spite soda more quench less stim. ([#81640](https://github.com/CleverRaven/Cataclysm-DDA/pull/81640))
-* [Xedra Evolved] The First Encounter with the Lovecraftian Kind ([#81636](https://github.com/CleverRaven/Cataclysm-DDA/pull/81636))
