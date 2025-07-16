@@ -1,3 +1,14 @@
+* Two small field fixes ([#81837](https://github.com/CleverRaven/Cataclysm-DDA/pull/81837))
+* fix set_random_fault_of_type() ignoring fault type ([#81843](https://github.com/CleverRaven/Cataclysm-DDA/pull/81843))
+* Backport molotov fixes to 0.I ([#81848](https://github.com/CleverRaven/Cataclysm-DDA/pull/81848))
+* update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
+* Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-16-1031 ([c5a8238](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-16-1031))
+
+* fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
 * Fixing Typo - brewing.json ([#81722](https://github.com/CleverRaven/Cataclysm-DDA/pull/81722))
 * Fix tools being consumed on processing ([#81731](https://github.com/CleverRaven/Cataclysm-DDA/pull/81731))
 * [MoM] Awakenings are light green ([#81751](https://github.com/CleverRaven/Cataclysm-DDA/pull/81751))
@@ -167,12 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-07-13-0402 ([3e90c75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-13-0402))
 
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-13-0307 ([20d8882](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-13-0307))
-
-* Making Chainsaws Disassemble-able ([#81703](https://github.com/CleverRaven/Cataclysm-DDA/pull/81703))
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
 
 ---
@@ -180,7 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-07-12-2251 ([daa4ac6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-2251))
 
 * Fix deconstruction not deconstructing ([#81724](https://github.com/CleverRaven/Cataclysm-DDA/pull/81724))
-* Aftershock: All cryosuits update the UI not only the Magellan ([#81697](https://github.com/CleverRaven/Cataclysm-DDA/pull/81697))
 * Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
 * Monsters only target vehicles driven by hostiles ([#81725](https://github.com/CleverRaven/Cataclysm-DDA/pull/81725))
 * Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
@@ -220,7 +224,6 @@
 #### Cataclysm-DDA experimental build 2025-07-12-0148 ([227e941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0148))
 
 * Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
-* print related info for bash and deconstruction of ter furn with base item ([#81695](https://github.com/CleverRaven/Cataclysm-DDA/pull/81695))
 * Fixing Typo - faults_tools.json ([#81707](https://github.com/CleverRaven/Cataclysm-DDA/pull/81707))
 * Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))
 * Monsters only target vehicles driven by hostiles ([#81711](https://github.com/CleverRaven/Cataclysm-DDA/pull/81711))
@@ -228,6 +231,3 @@
 * Fixing Typo - faults_electronic.json ([#81708](https://github.com/CleverRaven/Cataclysm-DDA/pull/81708))
 * Fixing Typo - faults_guns.json ([#81709](https://github.com/CleverRaven/Cataclysm-DDA/pull/81709))
 * Fixing Typo - fixes_gun.json ([#81710](https://github.com/CleverRaven/Cataclysm-DDA/pull/81710))
-* [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) ([#81694](https://github.com/CleverRaven/Cataclysm-DDA/pull/81694))
-* Making Chainsaws Disassemble-able ([#81699](https://github.com/CleverRaven/Cataclysm-DDA/pull/81699))
-* Update ITEM and JSON inheritance docs for type ITEM ([#81700](https://github.com/CleverRaven/Cataclysm-DDA/pull/81700))
