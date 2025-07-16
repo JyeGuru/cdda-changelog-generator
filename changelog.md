@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-16-1402 ([758bd6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1402))
+
 * oat milk in coffee shops ([#81832](https://github.com/CleverRaven/Cataclysm-DDA/pull/81832))
 
 ---
@@ -214,11 +219,6 @@
 * "hard" meta progression requirements for mods ([#81712](https://github.com/CleverRaven/Cataclysm-DDA/pull/81712))
 * Fixing Typo - carnivore.json ([#81723](https://github.com/CleverRaven/Cataclysm-DDA/pull/81723))
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-12-1346 ([361f882](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-1346))
-
 * Fix potential crash shooting at driverless vehicle ([#81728](https://github.com/CleverRaven/Cataclysm-DDA/pull/81728))
 * Highway bugfixes and improvements ([#81718](https://github.com/CleverRaven/Cataclysm-DDA/pull/81718))
 * Fixing Typo - alcohol.json ([#81720](https://github.com/CleverRaven/Cataclysm-DDA/pull/81720))
