@@ -1,6 +1,11 @@
 * Two small field fixes ([#81837](https://github.com/CleverRaven/Cataclysm-DDA/pull/81837))
 * fix set_random_fault_of_type() ignoring fault type ([#81843](https://github.com/CleverRaven/Cataclysm-DDA/pull/81843))
 * Backport molotov fixes to 0.I ([#81848](https://github.com/CleverRaven/Cataclysm-DDA/pull/81848))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-16-1105 ([ebbf9e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1105))
+
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
 
@@ -218,11 +223,6 @@
 #### Cataclysm-DDA experimental build 2025-07-12-0423 ([0c4d937](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0423))
 
 * Electric vehicles do not backfire ([#81717](https://github.com/CleverRaven/Cataclysm-DDA/pull/81717))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-12-0148 ([227e941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0148))
-
 * Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
 * Fixing Typo - faults_tools.json ([#81707](https://github.com/CleverRaven/Cataclysm-DDA/pull/81707))
 * Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))

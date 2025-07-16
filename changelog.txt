@@ -1,6 +1,8 @@
 * Two small field fixes (#81837)
 * fix set_random_fault_of_type() ignoring fault type (#81843)
 * Backport molotov fixes to 0.I (#81848)
+
+Cataclysm-DDA experimental build 2025-07-16-1105 (ebbf9e0)
 * update bugout bags (#81849)
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. (#81844)
 
@@ -140,8 +142,6 @@ Cataclysm-DDA experimental build 2025-07-12-0702 (dc1e6f4)
 
 Cataclysm-DDA experimental build 2025-07-12-0423 (0c4d937)
 * Electric vehicles do not backfire (#81717)
-
-Cataclysm-DDA experimental build 2025-07-12-0148 (227e941)
 * Fixing Typo - bread.json (#81721)
 * Fixing Typo - faults_tools.json (#81707)
 * Fixing Typo - martialarts.json (#81715)
