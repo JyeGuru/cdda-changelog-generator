@@ -1,4 +1,16 @@
+* oat milk in coffee shops ([#81832](https://github.com/CleverRaven/Cataclysm-DDA/pull/81832))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-16-1222 ([fbe81b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1222))
+
+* note that you cannot repair fault_blade_cracked, fix it's weight ([#81753](https://github.com/CleverRaven/Cataclysm-DDA/pull/81753))
 * Two small field fixes ([#81837](https://github.com/CleverRaven/Cataclysm-DDA/pull/81837))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-16-1210 ([426b612](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-16-1210))
+
 * fix set_random_fault_of_type() ignoring fault type ([#81843](https://github.com/CleverRaven/Cataclysm-DDA/pull/81843))
 * Backport molotov fixes to 0.I ([#81848](https://github.com/CleverRaven/Cataclysm-DDA/pull/81848))
 
@@ -200,7 +212,6 @@
 #### Cataclysm-DDA experimental build 2025-07-12-1652 ([5bf7a29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-1652))
 
 * "hard" meta progression requirements for mods ([#81712](https://github.com/CleverRaven/Cataclysm-DDA/pull/81712))
-* Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81705](https://github.com/CleverRaven/Cataclysm-DDA/pull/81705))
 * Fixing Typo - carnivore.json ([#81723](https://github.com/CleverRaven/Cataclysm-DDA/pull/81723))
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
 
@@ -209,22 +220,11 @@
 #### Cataclysm-DDA experimental build 2025-07-12-1346 ([361f882](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-1346))
 
 * Fix potential crash shooting at driverless vehicle ([#81728](https://github.com/CleverRaven/Cataclysm-DDA/pull/81728))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-12-0702 ([dc1e6f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0702))
-
 * Highway bugfixes and improvements ([#81718](https://github.com/CleverRaven/Cataclysm-DDA/pull/81718))
 * Fixing Typo - alcohol.json ([#81720](https://github.com/CleverRaven/Cataclysm-DDA/pull/81720))
 * Routine i18n updates on 12 July 2025 ([#81727](https://github.com/CleverRaven/Cataclysm-DDA/pull/81727))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-12-0423 ([0c4d937](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0423))
-
 * Electric vehicles do not backfire ([#81717](https://github.com/CleverRaven/Cataclysm-DDA/pull/81717))
 * Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
-* Fixing Typo - faults_tools.json ([#81707](https://github.com/CleverRaven/Cataclysm-DDA/pull/81707))
 * Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))
 * Monsters only target vehicles driven by hostiles ([#81711](https://github.com/CleverRaven/Cataclysm-DDA/pull/81711))
 * Ensure no fault in Liam's car ([#81713](https://github.com/CleverRaven/Cataclysm-DDA/pull/81713))
