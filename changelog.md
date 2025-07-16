@@ -1,3 +1,11 @@
+* Add E_STORABLE_EXCLUSIVE flag ([#81829](https://github.com/CleverRaven/Cataclysm-DDA/pull/81829))
+* note that you cannot repair fault_blade_cracked, fix it's weight ([#81852](https://github.com/CleverRaven/Cataclysm-DDA/pull/81852))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-16-1550 ([2f7ec45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-16-1550))
+
+* Aftershock: Give the Magellan Exo high environmental defense. ([#81845](https://github.com/CleverRaven/Cataclysm-DDA/pull/81845))
 
 ---
 
@@ -207,17 +215,11 @@
 
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-12-2251 ([daa4ac6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-2251))
-
 * Fix deconstruction not deconstructing ([#81724](https://github.com/CleverRaven/Cataclysm-DDA/pull/81724))
 * Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
 * Monsters only target vehicles driven by hostiles ([#81725](https://github.com/CleverRaven/Cataclysm-DDA/pull/81725))
 * Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
 * "hard" meta progression requirements for mods ([#81737](https://github.com/CleverRaven/Cataclysm-DDA/pull/81737))
-* "hard" meta progression requirements for mods ([#81712](https://github.com/CleverRaven/Cataclysm-DDA/pull/81712))
 * Fixing Typo - carnivore.json ([#81723](https://github.com/CleverRaven/Cataclysm-DDA/pull/81723))
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
 * Fix potential crash shooting at driverless vehicle ([#81728](https://github.com/CleverRaven/Cataclysm-DDA/pull/81728))
@@ -227,6 +229,4 @@
 * Electric vehicles do not backfire ([#81717](https://github.com/CleverRaven/Cataclysm-DDA/pull/81717))
 * Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
 * Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))
-* Monsters only target vehicles driven by hostiles ([#81711](https://github.com/CleverRaven/Cataclysm-DDA/pull/81711))
 * Ensure no fault in Liam's car ([#81713](https://github.com/CleverRaven/Cataclysm-DDA/pull/81713))
-* Fixing Typo - fixes_gun.json ([#81710](https://github.com/CleverRaven/Cataclysm-DDA/pull/81710))
