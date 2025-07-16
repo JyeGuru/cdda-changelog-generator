@@ -110,8 +110,6 @@ Cataclysm-DDA experimental build 2025-07-13-0402 (3e90c75)
 
 Cataclysm-DDA 0.I release candidate 2025-07-13-0307 (20d8882)
 * Making Chainsaws Disassemble-able (#81703)
-
-Cataclysm-DDA 0.I release candidate 2025-07-12-2354 (733b5d1)
 * [Backport] Fix potential crash shooting at driverless vehicle (#81741)
 
 Cataclysm-DDA experimental build 2025-07-12-2251 (daa4ac6)

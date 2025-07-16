@@ -173,11 +173,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-13-0307 ([20d8882](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-13-0307))
 
 * Making Chainsaws Disassemble-able ([#81703](https://github.com/CleverRaven/Cataclysm-DDA/pull/81703))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-12-2354 ([733b5d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-12-2354))
-
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
 
 ---
