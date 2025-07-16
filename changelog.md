@@ -1,3 +1,10 @@
+* [MoM, XE ] Mod interaction Snippets ([#81809](https://github.com/CleverRaven/Cataclysm-DDA/pull/81809))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-16-2342 ([c43da69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-2342))
+
+* Make AFS Quest item single use ([#81786](https://github.com/CleverRaven/Cataclysm-DDA/pull/81786))
 
 ---
 
@@ -165,7 +172,6 @@
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
-* [Xedra Evolved] Add bloodthorne druid safehouse ([#81714](https://github.com/CleverRaven/Cataclysm-DDA/pull/81714))
 * Remove Riot Damage from collapsed tower ([#81729](https://github.com/CleverRaven/Cataclysm-DDA/pull/81729))
 * bags of pemmican ([#81740](https://github.com/CleverRaven/Cataclysm-DDA/pull/81740))
 * Add looks_like to various medical zeds ([#81743](https://github.com/CleverRaven/Cataclysm-DDA/pull/81743))
@@ -214,11 +220,6 @@
 
 * Add hit field and destroy field for fungal terrain ([#81747](https://github.com/CleverRaven/Cataclysm-DDA/pull/81747))
 * fix postapoc price of S&W 10 ([#81734](https://github.com/CleverRaven/Cataclysm-DDA/pull/81734))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-13-0402 ([3e90c75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-13-0402))
-
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
 * Fix deconstruction not deconstructing ([#81724](https://github.com/CleverRaven/Cataclysm-DDA/pull/81724))
@@ -234,4 +235,3 @@
 * Routine i18n updates on 12 July 2025 ([#81727](https://github.com/CleverRaven/Cataclysm-DDA/pull/81727))
 * Electric vehicles do not backfire ([#81717](https://github.com/CleverRaven/Cataclysm-DDA/pull/81717))
 * Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
-* Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))
