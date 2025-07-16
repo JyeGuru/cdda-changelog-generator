@@ -1,6 +1,11 @@
 
+Cataclysm-DDA experimental build 2025-07-16-1840 (12a81a1)
+* Punching bags can be built from different types of blankets (#81851)
+
 Cataclysm-DDA experimental build 2025-07-16-1625 (e38ef61)
 * Add E_STORABLE_EXCLUSIVE flag (#81829)
+
+Cataclysm-DDA 0.I release candidate 2025-07-16-1803 (9a16745)
 * note that you cannot repair fault_blade_cracked, fix it's weight (#81852)
 
 Cataclysm-DDA 0.I release candidate 2025-07-16-1550 (2f7ec45)
@@ -119,8 +124,6 @@ Cataclysm-DDA experimental build 2025-07-14-1210 (3899ae7)
 
 Cataclysm-DDA 0.I release candidate 2025-07-14-0302 (a9209c9)
 * Ensure no fault in Liam's car (#81765)
-
-Cataclysm-DDA 0.I release candidate 2025-07-13-2053 (8490478)
 * Fix software crafting for mods (#81764)
 
 Cataclysm-DDA experimental build 2025-07-13-1554 (c224235)
@@ -148,4 +151,3 @@ Cataclysm-DDA experimental build 2025-07-13-0402 (3e90c75)
 * Electric vehicles do not backfire (#81717)
 * Fixing Typo - bread.json (#81721)
 * Fixing Typo - martialarts.json (#81715)
-* Ensure no fault in Liam's car (#81713)

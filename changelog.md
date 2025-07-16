@@ -1,9 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-16-1840 ([12a81a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1840))
+
+* Punching bags can be built from different types of blankets ([#81851](https://github.com/CleverRaven/Cataclysm-DDA/pull/81851))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-16-1625 ([e38ef61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1625))
 
 * Add E_STORABLE_EXCLUSIVE flag ([#81829](https://github.com/CleverRaven/Cataclysm-DDA/pull/81829))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-16-1803 ([9a16745](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-16-1803))
+
 * note that you cannot repair fault_blade_cracked, fix it's weight ([#81852](https://github.com/CleverRaven/Cataclysm-DDA/pull/81852))
 
 ---
@@ -188,11 +199,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-14-0302 ([a9209c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-14-0302))
 
 * Ensure no fault in Liam's car ([#81765](https://github.com/CleverRaven/Cataclysm-DDA/pull/81765))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-13-2053 ([8490478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-13-2053))
-
 * Fix software crafting for mods ([#81764](https://github.com/CleverRaven/Cataclysm-DDA/pull/81764))
 
 ---
@@ -229,4 +235,3 @@
 * Electric vehicles do not backfire ([#81717](https://github.com/CleverRaven/Cataclysm-DDA/pull/81717))
 * Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
 * Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))
-* Ensure no fault in Liam's car ([#81713](https://github.com/CleverRaven/Cataclysm-DDA/pull/81713))
