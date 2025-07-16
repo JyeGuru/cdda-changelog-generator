@@ -1,3 +1,21 @@
+* Fixing Typo - brewing.json ([#81722](https://github.com/CleverRaven/Cataclysm-DDA/pull/81722))
+* Fix tools being consumed on processing ([#81731](https://github.com/CleverRaven/Cataclysm-DDA/pull/81731))
+* [MoM] Awakenings are light green ([#81751](https://github.com/CleverRaven/Cataclysm-DDA/pull/81751))
+* fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81757](https://github.com/CleverRaven/Cataclysm-DDA/pull/81757))
+* [CrazyCataclysm] Kitchen Gun ([#81769](https://github.com/CleverRaven/Cataclysm-DDA/pull/81769))
+* Aftershock: Update cryosuit armor values ([#81795](https://github.com/CleverRaven/Cataclysm-DDA/pull/81795))
+* Aftershock: Give the Magellan Exo high environmental defense. ([#81802](https://github.com/CleverRaven/Cataclysm-DDA/pull/81802))
+* Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81794](https://github.com/CleverRaven/Cataclysm-DDA/pull/81794))
+* fix bashing dropping default charge quantity instead of desired ([#81803](https://github.com/CleverRaven/Cataclysm-DDA/pull/81803))
+* fix set_random_fault_of_type() ignoring fault type ([#81805](https://github.com/CleverRaven/Cataclysm-DDA/pull/81805))
+* Update terrain-manufactured.json ([#81818](https://github.com/CleverRaven/Cataclysm-DDA/pull/81818))
+* descriptive names for canned recipes ([#81824](https://github.com/CleverRaven/Cataclysm-DDA/pull/81824))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-16-0423 ([06ebe66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-0423))
+
+* fix opened seals in fridges, add oat milk ([#81828](https://github.com/CleverRaven/Cataclysm-DDA/pull/81828))
 
 ---
 
@@ -84,7 +102,6 @@
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
-* Change u_profession condition ([#81680](https://github.com/CleverRaven/Cataclysm-DDA/pull/81680))
 * [Xedra Evolved] Add bloodthorne druid safehouse ([#81714](https://github.com/CleverRaven/Cataclysm-DDA/pull/81714))
 * Remove Riot Damage from collapsed tower ([#81729](https://github.com/CleverRaven/Cataclysm-DDA/pull/81729))
 * bags of pemmican ([#81740](https://github.com/CleverRaven/Cataclysm-DDA/pull/81740))
@@ -128,12 +145,6 @@
 
 ---
 
-#### Cataclysm-DDA 0.I release candidate 2025-07-13-1726 ([11edce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-13-1726))
-
-* Aftershock: Functional Starship Scenario ([#81681](https://github.com/CleverRaven/Cataclysm-DDA/pull/81681))
-
----
-
 #### Cataclysm-DDA experimental build 2025-07-13-1554 ([c224235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-13-1554))
 
 * Restore looks_like to Crabapple tree ([#81742](https://github.com/CleverRaven/Cataclysm-DDA/pull/81742))
@@ -174,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-07-12-2251 ([daa4ac6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-2251))
 
 * Fix deconstruction not deconstructing ([#81724](https://github.com/CleverRaven/Cataclysm-DDA/pull/81724))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-12-2111 ([0f310af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-12-2111))
-
 * Aftershock: All cryosuits update the UI not only the Magellan ([#81697](https://github.com/CleverRaven/Cataclysm-DDA/pull/81697))
 * Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
 * Monsters only target vehicles driven by hostiles ([#81725](https://github.com/CleverRaven/Cataclysm-DDA/pull/81725))
@@ -190,8 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-07-12-1652 ([5bf7a29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-1652))
 
 * "hard" meta progression requirements for mods ([#81712](https://github.com/CleverRaven/Cataclysm-DDA/pull/81712))
-* Aftershock: Port Augustmoon sells nanomaterial ([#81693](https://github.com/CleverRaven/Cataclysm-DDA/pull/81693))
-* Reign in ASRG spawns ([#81688](https://github.com/CleverRaven/Cataclysm-DDA/pull/81688))
 * Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81705](https://github.com/CleverRaven/Cataclysm-DDA/pull/81705))
 * Fixing Typo - carnivore.json ([#81723](https://github.com/CleverRaven/Cataclysm-DDA/pull/81723))
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
@@ -221,7 +225,6 @@
 #### Cataclysm-DDA experimental build 2025-07-12-0148 ([227e941](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-12-0148))
 
 * Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
-* Allow NPC to dress really quietly on game start (and during mutations) ([#81682](https://github.com/CleverRaven/Cataclysm-DDA/pull/81682))
 * print related info for bash and deconstruction of ter furn with base item ([#81695](https://github.com/CleverRaven/Cataclysm-DDA/pull/81695))
 * Fixing Typo - faults_tools.json ([#81707](https://github.com/CleverRaven/Cataclysm-DDA/pull/81707))
 * Fixing Typo - martialarts.json ([#81715](https://github.com/CleverRaven/Cataclysm-DDA/pull/81715))
@@ -230,13 +233,6 @@
 * Fixing Typo - faults_electronic.json ([#81708](https://github.com/CleverRaven/Cataclysm-DDA/pull/81708))
 * Fixing Typo - faults_guns.json ([#81709](https://github.com/CleverRaven/Cataclysm-DDA/pull/81709))
 * Fixing Typo - fixes_gun.json ([#81710](https://github.com/CleverRaven/Cataclysm-DDA/pull/81710))
-* Update CI config for 0.I release candidate ([#81685](https://github.com/CleverRaven/Cataclysm-DDA/pull/81685))
 * [Xedra Evolved] Massively reduce HP while in bat form (and add Echolocation) ([#81694](https://github.com/CleverRaven/Cataclysm-DDA/pull/81694))
 * Making Chainsaws Disassemble-able ([#81699](https://github.com/CleverRaven/Cataclysm-DDA/pull/81699))
 * Update ITEM and JSON inheritance docs for type ITEM ([#81700](https://github.com/CleverRaven/Cataclysm-DDA/pull/81700))
-* Aftershock: All cryosuits update the UI not only the Magellan ([#81687](https://github.com/CleverRaven/Cataclysm-DDA/pull/81687))
-* No labyrinth playtest in stable ([#81677](https://github.com/CleverRaven/Cataclysm-DDA/pull/81677))
-* Pickle Fix ([#81686](https://github.com/CleverRaven/Cataclysm-DDA/pull/81686))
-* Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81684](https://github.com/CleverRaven/Cataclysm-DDA/pull/81684))
-* [ Xedra Evolved ] Mo-re mi-go treaty snippets ([#81678](https://github.com/CleverRaven/Cataclysm-DDA/pull/81678))
-* Add minimum for `You feel thirstier than before you consumed that!` message to display ([#81683](https://github.com/CleverRaven/Cataclysm-DDA/pull/81683))
