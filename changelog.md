@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-16-1625 ([e38ef61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1625))
+
 * Add E_STORABLE_EXCLUSIVE flag ([#81829](https://github.com/CleverRaven/Cataclysm-DDA/pull/81829))
 * note that you cannot repair fault_blade_cracked, fix it's weight ([#81852](https://github.com/CleverRaven/Cataclysm-DDA/pull/81852))
 
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-07-13-1554 ([c224235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-13-1554))
 
 * Restore looks_like to Crabapple tree ([#81742](https://github.com/CleverRaven/Cataclysm-DDA/pull/81742))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-13-1317 ([91cd791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-13-1317))
-
 * Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81752](https://github.com/CleverRaven/Cataclysm-DDA/pull/81752))
 
 ---
