@@ -1,3 +1,11 @@
+* Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
+* Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-17-2136 ([7c548c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-2136))
+
+* [Xedra Evolved] Bloodthorne druids are banned from dream magick ([#81859](https://github.com/CleverRaven/Cataclysm-DDA/pull/81859))
 
 ---
 
@@ -210,11 +218,6 @@
 * peanut butter and jam in half-liter jars ([#81782](https://github.com/CleverRaven/Cataclysm-DDA/pull/81782))
 * 1 pound of pasta per box ([#81777](https://github.com/CleverRaven/Cataclysm-DDA/pull/81777))
 * fix postapoc price of S&W 10 ([#81787](https://github.com/CleverRaven/Cataclysm-DDA/pull/81787))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-14-1210 ([3899ae7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-1210))
-
 * fill cereal boxes ([#81775](https://github.com/CleverRaven/Cataclysm-DDA/pull/81775))
 * Ensure no fault in Liam's car ([#81765](https://github.com/CleverRaven/Cataclysm-DDA/pull/81765))
 * Fix software crafting for mods ([#81764](https://github.com/CleverRaven/Cataclysm-DDA/pull/81764))
@@ -227,6 +230,3 @@
 * Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
 * Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
 * "hard" meta progression requirements for mods ([#81737](https://github.com/CleverRaven/Cataclysm-DDA/pull/81737))
-* Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
-* Fix potential crash shooting at driverless vehicle ([#81728](https://github.com/CleverRaven/Cataclysm-DDA/pull/81728))
-* Routine i18n updates on 12 July 2025 ([#81727](https://github.com/CleverRaven/Cataclysm-DDA/pull/81727))
