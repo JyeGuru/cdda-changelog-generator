@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-17-2006 (d87b622)
 * Aftershock: Induction hotplates are more common in kitchenettes (#81864)
 
 Cataclysm-DDA experimental build 2025-07-17-1909 (9ed8d20)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2025-07-15-1246 (23207cc)
 Cataclysm-DDA 0.I release candidate 2025-07-15-0644 (8cc71be)
 * Fix mod loading (#81789)
 * add ShnitzelX2 to comment-commands.yml (#81808)
-
-Cataclysm-DDA 0.I release candidate 2025-07-14-2321 (8931b47)
 * Restore looks_like to Crabapple tree (#81759)
 
 Cataclysm-DDA experimental build 2025-07-15-0236 (01a8460)
