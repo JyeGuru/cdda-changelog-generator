@@ -1,4 +1,14 @@
+* [Xedra Evolved] Add hedge magick books to Esoteric Books itemgroup ([#81835](https://github.com/CleverRaven/Cataclysm-DDA/pull/81835))
+* [MoM] Add the Radiant Amalgamation ([#81861](https://github.com/CleverRaven/Cataclysm-DDA/pull/81861))
+* Fix debugmsg on portal storm end ([#81857](https://github.com/CleverRaven/Cataclysm-DDA/pull/81857))
+* Aftershock: Properly update cryosuit defenses. ([#81862](https://github.com/CleverRaven/Cataclysm-DDA/pull/81862))
+* Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-17-2154 ([4abbc9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-17-2154))
+
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
 
 ---
@@ -104,7 +114,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-16-1031 ([c5a8238](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-16-1031))
 
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
-* Fix tools being consumed on processing ([#81731](https://github.com/CleverRaven/Cataclysm-DDA/pull/81731))
 * [MoM] Awakenings are light green ([#81751](https://github.com/CleverRaven/Cataclysm-DDA/pull/81751))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81757](https://github.com/CleverRaven/Cataclysm-DDA/pull/81757))
 * [CrazyCataclysm] Kitchen Gun ([#81769](https://github.com/CleverRaven/Cataclysm-DDA/pull/81769))
@@ -194,15 +203,9 @@
 #### Cataclysm-DDA experimental build 2025-07-14-2021 ([3684f21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-2021))
 
 * [MoM] Overhaul Premonition, add Sense Hostility power ([#81748](https://github.com/CleverRaven/Cataclysm-DDA/pull/81748))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-14-1541 ([4808d0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-1541))
-
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
-* Remove Riot Damage from collapsed tower ([#81729](https://github.com/CleverRaven/Cataclysm-DDA/pull/81729))
 * bags of pemmican ([#81740](https://github.com/CleverRaven/Cataclysm-DDA/pull/81740))
 * Add looks_like to various medical zeds ([#81743](https://github.com/CleverRaven/Cataclysm-DDA/pull/81743))
 * Fix bug with teleporting vehicle via aftershock exo planter ship ([#81767](https://github.com/CleverRaven/Cataclysm-DDA/pull/81767))
@@ -224,9 +227,6 @@
 * Restore looks_like to Crabapple tree ([#81742](https://github.com/CleverRaven/Cataclysm-DDA/pull/81742))
 * Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81752](https://github.com/CleverRaven/Cataclysm-DDA/pull/81752))
 * Add hit field and destroy field for fungal terrain ([#81747](https://github.com/CleverRaven/Cataclysm-DDA/pull/81747))
-* fix postapoc price of S&W 10 ([#81734](https://github.com/CleverRaven/Cataclysm-DDA/pull/81734))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
-* Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
-* Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
 * "hard" meta progression requirements for mods ([#81737](https://github.com/CleverRaven/Cataclysm-DDA/pull/81737))
