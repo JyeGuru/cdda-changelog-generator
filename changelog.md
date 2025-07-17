@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-17-1553 ([8bf9e4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-1553))
+
+* Aftershock: Add mod achievements and lock challenge scenarios behind them. ([#81744](https://github.com/CleverRaven/Cataclysm-DDA/pull/81744))
 * Modernity?! In my Cataclysm?! (Professions: Books in smartphones, smartwatches) ([#81820](https://github.com/CleverRaven/Cataclysm-DDA/pull/81820))
 * [MoM] Add meditation books to esoteric_books ([#81853](https://github.com/CleverRaven/Cataclysm-DDA/pull/81853))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81856](https://github.com/CleverRaven/Cataclysm-DDA/pull/81856))
@@ -208,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2025-07-14-1210 ([3899ae7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-1210))
 
 * fill cereal boxes ([#81775](https://github.com/CleverRaven/Cataclysm-DDA/pull/81775))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-14-0302 ([a9209c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-14-0302))
-
 * Ensure no fault in Liam's car ([#81765](https://github.com/CleverRaven/Cataclysm-DDA/pull/81765))
 * Fix software crafting for mods ([#81764](https://github.com/CleverRaven/Cataclysm-DDA/pull/81764))
 * Restore looks_like to Crabapple tree ([#81742](https://github.com/CleverRaven/Cataclysm-DDA/pull/81742))
@@ -226,7 +227,6 @@
 * Monsters only target vehicles driven by hostiles ([#81725](https://github.com/CleverRaven/Cataclysm-DDA/pull/81725))
 * Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
 * "hard" meta progression requirements for mods ([#81737](https://github.com/CleverRaven/Cataclysm-DDA/pull/81737))
-* Fixing Typo - carnivore.json ([#81723](https://github.com/CleverRaven/Cataclysm-DDA/pull/81723))
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
 * Fix potential crash shooting at driverless vehicle ([#81728](https://github.com/CleverRaven/Cataclysm-DDA/pull/81728))
 * Routine i18n updates on 12 July 2025 ([#81727](https://github.com/CleverRaven/Cataclysm-DDA/pull/81727))
