@@ -1,3 +1,10 @@
+* Aftershock: Induction hotplates are more common in kitchenettes ([#81864](https://github.com/CleverRaven/Cataclysm-DDA/pull/81864))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-17-1909 ([9ed8d20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-1909))
+
+* [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))
 
 ---
 
@@ -202,11 +209,6 @@
 * Typo Fix computer_eocs.json ([#81784](https://github.com/CleverRaven/Cataclysm-DDA/pull/81784))
 * peanut butter and jam in half-liter jars ([#81782](https://github.com/CleverRaven/Cataclysm-DDA/pull/81782))
 * 1 pound of pasta per box ([#81777](https://github.com/CleverRaven/Cataclysm-DDA/pull/81777))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-14-1213 ([07a4769](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-14-1213))
-
 * fix postapoc price of S&W 10 ([#81787](https://github.com/CleverRaven/Cataclysm-DDA/pull/81787))
 
 ---
@@ -222,9 +224,7 @@
 * fix postapoc price of S&W 10 ([#81734](https://github.com/CleverRaven/Cataclysm-DDA/pull/81734))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
-* Fix deconstruction not deconstructing ([#81724](https://github.com/CleverRaven/Cataclysm-DDA/pull/81724))
 * Reign in ASRG spawns ([#81735](https://github.com/CleverRaven/Cataclysm-DDA/pull/81735))
-* Monsters only target vehicles driven by hostiles ([#81725](https://github.com/CleverRaven/Cataclysm-DDA/pull/81725))
 * Aftershock: Port Augustmoon sells nanomaterial ([#81736](https://github.com/CleverRaven/Cataclysm-DDA/pull/81736))
 * "hard" meta progression requirements for mods ([#81737](https://github.com/CleverRaven/Cataclysm-DDA/pull/81737))
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
