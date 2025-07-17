@@ -1,3 +1,13 @@
+* Modernity?! In my Cataclysm?! (Professions: Books in smartphones, smartwatches) ([#81820](https://github.com/CleverRaven/Cataclysm-DDA/pull/81820))
+* [MoM] Add meditation books to esoteric_books ([#81853](https://github.com/CleverRaven/Cataclysm-DDA/pull/81853))
+* Aftershock: Humaniforms can execute humanoid monsters ([#81856](https://github.com/CleverRaven/Cataclysm-DDA/pull/81856))
+* Hair dye kits in bathrooms ([#81860](https://github.com/CleverRaven/Cataclysm-DDA/pull/81860))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-17-0501 ([ec0f7fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-0501))
+
+* Aftershock: Survival heaters produce temporary AC ([#81863](https://github.com/CleverRaven/Cataclysm-DDA/pull/81863))
 * [MoM, XE ] Mod interaction Snippets ([#81809](https://github.com/CleverRaven/Cataclysm-DDA/pull/81809))
 
 ---
@@ -68,7 +78,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-16-1031 ([c5a8238](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-16-1031))
 
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
-* Fixing Typo - brewing.json ([#81722](https://github.com/CleverRaven/Cataclysm-DDA/pull/81722))
 * Fix tools being consumed on processing ([#81731](https://github.com/CleverRaven/Cataclysm-DDA/pull/81731))
 * [MoM] Awakenings are light green ([#81751](https://github.com/CleverRaven/Cataclysm-DDA/pull/81751))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81757](https://github.com/CleverRaven/Cataclysm-DDA/pull/81757))
@@ -213,11 +222,6 @@
 
 * Restore looks_like to Crabapple tree ([#81742](https://github.com/CleverRaven/Cataclysm-DDA/pull/81742))
 * Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81752](https://github.com/CleverRaven/Cataclysm-DDA/pull/81752))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-13-1251 ([840910e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-13-1251))
-
 * Add hit field and destroy field for fungal terrain ([#81747](https://github.com/CleverRaven/Cataclysm-DDA/pull/81747))
 * fix postapoc price of S&W 10 ([#81734](https://github.com/CleverRaven/Cataclysm-DDA/pull/81734))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
@@ -230,8 +234,4 @@
 * Fixing Typo - carnivore.json ([#81723](https://github.com/CleverRaven/Cataclysm-DDA/pull/81723))
 * Allow NPC to dress really quietly on game start (and during mutations) ([#81726](https://github.com/CleverRaven/Cataclysm-DDA/pull/81726))
 * Fix potential crash shooting at driverless vehicle ([#81728](https://github.com/CleverRaven/Cataclysm-DDA/pull/81728))
-* Highway bugfixes and improvements ([#81718](https://github.com/CleverRaven/Cataclysm-DDA/pull/81718))
-* Fixing Typo - alcohol.json ([#81720](https://github.com/CleverRaven/Cataclysm-DDA/pull/81720))
 * Routine i18n updates on 12 July 2025 ([#81727](https://github.com/CleverRaven/Cataclysm-DDA/pull/81727))
-* Electric vehicles do not backfire ([#81717](https://github.com/CleverRaven/Cataclysm-DDA/pull/81717))
-* Fixing Typo - bread.json ([#81721](https://github.com/CleverRaven/Cataclysm-DDA/pull/81721))
