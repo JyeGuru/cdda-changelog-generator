@@ -1,8 +1,19 @@
+* Nerf saw tool damage, migrate away combatsaws ([#81865](https://github.com/CleverRaven/Cataclysm-DDA/pull/81865))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-17-2301 ([40adb72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-2301))
+
 * [Xedra Evolved] Add hedge magick books to Esoteric Books itemgroup ([#81835](https://github.com/CleverRaven/Cataclysm-DDA/pull/81835))
 * [MoM] Add the Radiant Amalgamation ([#81861](https://github.com/CleverRaven/Cataclysm-DDA/pull/81861))
 * Fix debugmsg on portal storm end ([#81857](https://github.com/CleverRaven/Cataclysm-DDA/pull/81857))
 * Aftershock: Properly update cryosuit defenses. ([#81862](https://github.com/CleverRaven/Cataclysm-DDA/pull/81862))
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-17-2319 ([7726f56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-17-2319))
+
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
 
 ---
@@ -190,18 +201,8 @@
 * Fix mod loading ([#81789](https://github.com/CleverRaven/Cataclysm-DDA/pull/81789))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
 * Restore looks_like to Crabapple tree ([#81759](https://github.com/CleverRaven/Cataclysm-DDA/pull/81759))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-15-0236 ([01a8460](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-15-0236))
-
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-14-2021 ([3684f21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-14-2021))
-
 * [MoM] Overhaul Premonition, add Sense Hostility power ([#81748](https://github.com/CleverRaven/Cataclysm-DDA/pull/81748))
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
@@ -229,4 +230,3 @@
 * Add hit field and destroy field for fungal terrain ([#81747](https://github.com/CleverRaven/Cataclysm-DDA/pull/81747))
 * Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
-* "hard" meta progression requirements for mods ([#81737](https://github.com/CleverRaven/Cataclysm-DDA/pull/81737))
