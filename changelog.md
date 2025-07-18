@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-18-1710 ([916d1aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1710))
+
+* migrate "longarm bag" item ([#81883](https://github.com/CleverRaven/Cataclysm-DDA/pull/81883))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-18-1549 ([7d88e5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1549))
 
 * make skip_health a flag ([#81749](https://github.com/CleverRaven/Cataclysm-DDA/pull/81749))
@@ -171,14 +177,8 @@
 
 * fix opened seals in fridges, add oat milk ([#81828](https://github.com/CleverRaven/Cataclysm-DDA/pull/81828))
 * Disable huge uncacheable emscripten builds. ([#81827](https://github.com/CleverRaven/Cataclysm-DDA/pull/81827))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-15-2317 ([8d700d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-15-2317))
-
 * Z-9s drop kevlar harnesses ([#81815](https://github.com/CleverRaven/Cataclysm-DDA/pull/81815))
 * Finalize requirement data for fault fixes ([#81825](https://github.com/CleverRaven/Cataclysm-DDA/pull/81825))
-* Add nested cellars to cabins ([#81745](https://github.com/CleverRaven/Cataclysm-DDA/pull/81745))
 * Remove STATIC() macro ([#81780](https://github.com/CleverRaven/Cataclysm-DDA/pull/81780))
 * Smart Watch proliferation ([#81798](https://github.com/CleverRaven/Cataclysm-DDA/pull/81798))
 * [MoM] Fifth Sun People is now a HERITAGE trait ([#81799](https://github.com/CleverRaven/Cataclysm-DDA/pull/81799))
