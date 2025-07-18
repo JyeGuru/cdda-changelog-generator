@@ -1,3 +1,4 @@
+* make skip_health a flag ([#81749](https://github.com/CleverRaven/Cataclysm-DDA/pull/81749))
 * Aftershock: Vehicle bay City Building ([#81879](https://github.com/CleverRaven/Cataclysm-DDA/pull/81879))
 
 ---
@@ -211,7 +212,6 @@
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
-* Add looks_like to various medical zeds ([#81743](https://github.com/CleverRaven/Cataclysm-DDA/pull/81743))
 * Fix bug with teleporting vehicle via aftershock exo planter ship ([#81767](https://github.com/CleverRaven/Cataclysm-DDA/pull/81767))
 * [Mods] Traits that let you cast spells or other supernatural power suites are green ([#81776](https://github.com/CleverRaven/Cataclysm-DDA/pull/81776))
 * Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))

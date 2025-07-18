@@ -1,3 +1,4 @@
+* make skip_health a flag (#81749)
 * Aftershock: Vehicle bay City Building (#81879)
 
 Cataclysm-DDA 0.I release candidate 2025-07-18-1411 (a4cb000)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2025-07-15-1246 (23207cc)
 * Debug mode persists through save/load (#81755)
 * fix f_player_see erroring if talker is not presented (#81774)
 * Aftershock: Resolve minor bugs with the Spaceship scenario. (#81750)
-* Add looks_like to various medical zeds (#81743)
 * Fix bug with teleporting vehicle via aftershock exo planter ship (#81767)
 * [Mods] Traits that let you cast spells or other supernatural power suites are green (#81776)
 * Few text corrections (#81783)
