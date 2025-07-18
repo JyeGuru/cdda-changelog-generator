@@ -74,12 +74,6 @@
 #### Cataclysm-DDA experimental build 2025-07-17-1909 ([9ed8d20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-1909))
 
 * [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-17-1553 ([8bf9e4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-1553))
-
-* Aftershock: Add mod achievements and lock challenge scenarios behind them. ([#81744](https://github.com/CleverRaven/Cataclysm-DDA/pull/81744))
 * Modernity?! In my Cataclysm?! (Professions: Books in smartphones, smartwatches) ([#81820](https://github.com/CleverRaven/Cataclysm-DDA/pull/81820))
 * [MoM] Add meditation books to esoteric_books ([#81853](https://github.com/CleverRaven/Cataclysm-DDA/pull/81853))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81856](https://github.com/CleverRaven/Cataclysm-DDA/pull/81856))
