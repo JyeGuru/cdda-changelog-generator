@@ -1,4 +1,8 @@
+
+Cataclysm-DDA experimental build 2025-07-18-1549 (7d88e5b)
 * make skip_health a flag (#81749)
+
+Cataclysm-DDA 0.I release candidate 2025-07-18-1529 (75095a8)
 * Aftershock: Vehicle bay City Building (#81879)
 
 Cataclysm-DDA 0.I release candidate 2025-07-18-1411 (a4cb000)
@@ -99,8 +103,6 @@ Cataclysm-DDA experimental build 2025-07-16-0423 (06ebe66)
 Cataclysm-DDA experimental build 2025-07-15-2317 (8d700d5)
 * Z-9s drop kevlar harnesses (#81815)
 * Finalize requirement data for fault fixes (#81825)
-
-Cataclysm-DDA experimental build 2025-07-15-1805 (a382e6d)
 * Add nested cellars to cabins (#81745)
 * Remove STATIC() macro (#81780)
 * Smart Watch proliferation (#81798)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2025-07-15-1805 (a382e6d)
 * Remove 4.6mm and MP7 (#81813)
 * Learning defensive driving in the cataclysm?! Don't mind if I do... (#81814)
 * The esoteric and you (#81817)
-
-Cataclysm-DDA experimental build 2025-07-15-1246 (23207cc)
 * Set Liam's opinion of the player (#81819)
 * Fix forced traits being applied to NPCs (#81806)
 * fix f_player_see erroring if talker is not presented (#81796)

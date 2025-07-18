@@ -1,4 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-18-1549 ([7d88e5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1549))
+
 * make skip_health a flag ([#81749](https://github.com/CleverRaven/Cataclysm-DDA/pull/81749))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-18-1529 ([75095a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-18-1529))
+
 * Aftershock: Vehicle bay City Building ([#81879](https://github.com/CleverRaven/Cataclysm-DDA/pull/81879))
 
 ---
@@ -174,11 +184,6 @@
 
 * Z-9s drop kevlar harnesses ([#81815](https://github.com/CleverRaven/Cataclysm-DDA/pull/81815))
 * Finalize requirement data for fault fixes ([#81825](https://github.com/CleverRaven/Cataclysm-DDA/pull/81825))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-15-1805 ([a382e6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-15-1805))
-
 * Add nested cellars to cabins ([#81745](https://github.com/CleverRaven/Cataclysm-DDA/pull/81745))
 * Remove STATIC() macro ([#81780](https://github.com/CleverRaven/Cataclysm-DDA/pull/81780))
 * Smart Watch proliferation ([#81798](https://github.com/CleverRaven/Cataclysm-DDA/pull/81798))
@@ -193,11 +198,6 @@
 * Remove 4.6mm and MP7 ([#81813](https://github.com/CleverRaven/Cataclysm-DDA/pull/81813))
 * Learning defensive driving in the cataclysm?! Don't mind if I do... ([#81814](https://github.com/CleverRaven/Cataclysm-DDA/pull/81814))
 * The esoteric and you ([#81817](https://github.com/CleverRaven/Cataclysm-DDA/pull/81817))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-15-1246 ([23207cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-15-1246))
-
 * Set Liam's opinion of the player ([#81819](https://github.com/CleverRaven/Cataclysm-DDA/pull/81819))
 * Fix forced traits being applied to NPCs ([#81806](https://github.com/CleverRaven/Cataclysm-DDA/pull/81806))
 * fix f_player_see erroring if talker is not presented ([#81796](https://github.com/CleverRaven/Cataclysm-DDA/pull/81796))
