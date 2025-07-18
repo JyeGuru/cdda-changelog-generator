@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-07-18-0504 ([4efdec6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-18-0504))
+
+* Manually backport "Aftershock: Add mod achievements and lock challenge scenarios …" ([#81875](https://github.com/CleverRaven/Cataclysm-DDA/pull/81875))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-18-0028 ([aa9fa31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-0028))
 
 * Nerf saw tool damage, migrate away combatsaws ([#81865](https://github.com/CleverRaven/Cataclysm-DDA/pull/81865))
@@ -178,11 +184,6 @@
 * Finalize requirement data for fault fixes ([#81797](https://github.com/CleverRaven/Cataclysm-DDA/pull/81797))
 * Pantry charges ([#81807](https://github.com/CleverRaven/Cataclysm-DDA/pull/81807))
 * [Aftershock] Esper tweaks ([#81763](https://github.com/CleverRaven/Cataclysm-DDA/pull/81763))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-15-1255 ([42a3aa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-15-1255))
-
 * [Aftershock] Fix telekinesis bugs ([#81801](https://github.com/CleverRaven/Cataclysm-DDA/pull/81801))
 * split up SUS fridge itemgroups ([#81812](https://github.com/CleverRaven/Cataclysm-DDA/pull/81812))
 * Remove 4.6mm and MP7 ([#81813](https://github.com/CleverRaven/Cataclysm-DDA/pull/81813))
@@ -228,5 +229,4 @@
 * Restore looks_like to Crabapple tree ([#81742](https://github.com/CleverRaven/Cataclysm-DDA/pull/81742))
 * Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81752](https://github.com/CleverRaven/Cataclysm-DDA/pull/81752))
 * Add hit field and destroy field for fungal terrain ([#81747](https://github.com/CleverRaven/Cataclysm-DDA/pull/81747))
-* Update the table of contents in doc/JSON/JSON_INFO.md ([#81738](https://github.com/CleverRaven/Cataclysm-DDA/pull/81738))
 * [Backport] Fix potential crash shooting at driverless vehicle ([#81741](https://github.com/CleverRaven/Cataclysm-DDA/pull/81741))
