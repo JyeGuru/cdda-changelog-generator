@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-18-1946 ([d7e1d03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1946))
+
+* [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81888](https://github.com/CleverRaven/Cataclysm-DDA/pull/81888))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-18-1710 ([916d1aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1710))
 
 * migrate "longarm bag" item ([#81883](https://github.com/CleverRaven/Cataclysm-DDA/pull/81883))
@@ -154,11 +160,6 @@
 
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-16-1031 ([c5a8238](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-16-1031))
-
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
 * [MoM] Awakenings are light green ([#81751](https://github.com/CleverRaven/Cataclysm-DDA/pull/81751))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81757](https://github.com/CleverRaven/Cataclysm-DDA/pull/81757))
@@ -223,4 +224,3 @@
 * Ensure no fault in Liam's car ([#81765](https://github.com/CleverRaven/Cataclysm-DDA/pull/81765))
 * Fix software crafting for mods ([#81764](https://github.com/CleverRaven/Cataclysm-DDA/pull/81764))
 * Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps ([#81752](https://github.com/CleverRaven/Cataclysm-DDA/pull/81752))
-* Add hit field and destroy field for fungal terrain ([#81747](https://github.com/CleverRaven/Cataclysm-DDA/pull/81747))
