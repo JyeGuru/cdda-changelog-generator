@@ -1,3 +1,5 @@
+* Implement uncrafting test ([#81830](https://github.com/CleverRaven/Cataclysm-DDA/pull/81830))
+* Split river/lake/ocean-related functions from overmap.cpp ([#81878](https://github.com/CleverRaven/Cataclysm-DDA/pull/81878))
 * Routine i18n updates on 19 July 2025 ([#81905](https://github.com/CleverRaven/Cataclysm-DDA/pull/81905))
 
 ---
@@ -193,7 +195,6 @@
 * mac & cheese ([#81791](https://github.com/CleverRaven/Cataclysm-DDA/pull/81791))
 * Finalize requirement data for fault fixes ([#81797](https://github.com/CleverRaven/Cataclysm-DDA/pull/81797))
 * Pantry charges ([#81807](https://github.com/CleverRaven/Cataclysm-DDA/pull/81807))
-* [Aftershock] Esper tweaks ([#81763](https://github.com/CleverRaven/Cataclysm-DDA/pull/81763))
 * [Aftershock] Fix telekinesis bugs ([#81801](https://github.com/CleverRaven/Cataclysm-DDA/pull/81801))
 * split up SUS fridge itemgroups ([#81812](https://github.com/CleverRaven/Cataclysm-DDA/pull/81812))
 * Remove 4.6mm and MP7 ([#81813](https://github.com/CleverRaven/Cataclysm-DDA/pull/81813))
@@ -213,7 +214,6 @@
 * [Mods] Traits that let you cast spells or other supernatural power suites are green ([#81776](https://github.com/CleverRaven/Cataclysm-DDA/pull/81776))
 * Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))
 * prepper food in bugout bags ([#81770](https://github.com/CleverRaven/Cataclysm-DDA/pull/81770))
-* [Mods] Mutually-exclusive supernatural heritage traits are light cyan ([#81761](https://github.com/CleverRaven/Cataclysm-DDA/pull/81761))
 * Fix mod loading ([#81771](https://github.com/CleverRaven/Cataclysm-DDA/pull/81771))
 * New fungal monsters: fungal mound and fungal construct. ([#81773](https://github.com/CleverRaven/Cataclysm-DDA/pull/81773))
 * Fix highway segments generating over highway specials ([#81779](https://github.com/CleverRaven/Cataclysm-DDA/pull/81779))
