@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2025-07-19-0008 (12e7eab)
+* [MoM] Add help topics for psionic paths, using psionics, and psychic knacks (#81901)
+
 Cataclysm-DDA experimental build 2025-07-18-1946 (d7e1d03)
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks (#81888)
 
@@ -77,8 +80,6 @@ Cataclysm-DDA experimental build 2025-07-16-1402 (758bd6a)
 Cataclysm-DDA experimental build 2025-07-16-1222 (fbe81b0)
 * note that you cannot repair fault_blade_cracked, fix it's weight (#81753)
 * Two small field fixes (#81837)
-
-Cataclysm-DDA 0.I release candidate 2025-07-16-1210 (426b612)
 * fix set_random_fault_of_type() ignoring fault type (#81843)
 * Backport molotov fixes to 0.I (#81848)
 
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2025-07-16-0423 (06ebe66)
 * Restore looks_like to Crabapple tree (#81759)
 * Weekly Changelog 2025-07-07 to 2025-07-14 (#81785)
 * Fix forced traits being applied to NPCs (#81793)
-* [MoM] Overhaul Premonition, add Sense Hostility power (#81748)
 * Debug mode persists through save/load (#81755)
 * fix f_player_see erroring if talker is not presented (#81774)
 * Aftershock: Resolve minor bugs with the Spaceship scenario. (#81750)

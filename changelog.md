@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-07-19-0008 ([12e7eab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-19-0008))
+
+* [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81901](https://github.com/CleverRaven/Cataclysm-DDA/pull/81901))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-18-1946 ([d7e1d03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1946))
 
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81888](https://github.com/CleverRaven/Cataclysm-DDA/pull/81888))
@@ -146,11 +152,6 @@
 
 * note that you cannot repair fault_blade_cracked, fix it's weight ([#81753](https://github.com/CleverRaven/Cataclysm-DDA/pull/81753))
 * Two small field fixes ([#81837](https://github.com/CleverRaven/Cataclysm-DDA/pull/81837))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-16-1210 ([426b612](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-16-1210))
-
 * fix set_random_fault_of_type() ignoring fault type ([#81843](https://github.com/CleverRaven/Cataclysm-DDA/pull/81843))
 * Backport molotov fixes to 0.I ([#81848](https://github.com/CleverRaven/Cataclysm-DDA/pull/81848))
 
@@ -203,7 +204,6 @@
 * Restore looks_like to Crabapple tree ([#81759](https://github.com/CleverRaven/Cataclysm-DDA/pull/81759))
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
-* [MoM] Overhaul Premonition, add Sense Hostility power ([#81748](https://github.com/CleverRaven/Cataclysm-DDA/pull/81748))
 * Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81750](https://github.com/CleverRaven/Cataclysm-DDA/pull/81750))
