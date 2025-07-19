@@ -1,3 +1,10 @@
+* Routine i18n updates on 19 July 2025 ([#81905](https://github.com/CleverRaven/Cataclysm-DDA/pull/81905))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-19-1936 ([b644552](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-1936))
+
+* Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
 
 ---
 
@@ -160,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-07-16-1519 ([a50a56b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1519))
 
 * [Xedra Evolved] Cabin cellars ([#81839](https://github.com/CleverRaven/Cataclysm-DDA/pull/81839))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-16-1402 ([758bd6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1402))
-
 * oat milk in coffee shops ([#81832](https://github.com/CleverRaven/Cataclysm-DDA/pull/81832))
 * Two small field fixes ([#81837](https://github.com/CleverRaven/Cataclysm-DDA/pull/81837))
 * fix set_random_fault_of_type() ignoring fault type ([#81843](https://github.com/CleverRaven/Cataclysm-DDA/pull/81843))
@@ -204,7 +206,6 @@
 * Add looks_like to various medical zeds ([#81790](https://github.com/CleverRaven/Cataclysm-DDA/pull/81790))
 * Fix mod loading ([#81789](https://github.com/CleverRaven/Cataclysm-DDA/pull/81789))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
-* Restore looks_like to Crabapple tree ([#81759](https://github.com/CleverRaven/Cataclysm-DDA/pull/81759))
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
@@ -213,7 +214,6 @@
 * Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))
 * prepper food in bugout bags ([#81770](https://github.com/CleverRaven/Cataclysm-DDA/pull/81770))
 * [Mods] Mutually-exclusive supernatural heritage traits are light cyan ([#81761](https://github.com/CleverRaven/Cataclysm-DDA/pull/81761))
-* [XE] Remove melee training cap from a certain boss. ([#81760](https://github.com/CleverRaven/Cataclysm-DDA/pull/81760))
 * Fix mod loading ([#81771](https://github.com/CleverRaven/Cataclysm-DDA/pull/81771))
 * New fungal monsters: fungal mound and fungal construct. ([#81773](https://github.com/CleverRaven/Cataclysm-DDA/pull/81773))
 * Fix highway segments generating over highway specials ([#81779](https://github.com/CleverRaven/Cataclysm-DDA/pull/81779))
