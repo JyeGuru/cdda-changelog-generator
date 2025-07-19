@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-19-0707 ([af81efe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-0707))
+
 * [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
 * Manually backport: Aftershock: Properly update cryosuit defenses. ([#81881](https://github.com/CleverRaven/Cataclysm-DDA/pull/81881))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81891](https://github.com/CleverRaven/Cataclysm-DDA/pull/81891))
@@ -164,11 +169,6 @@
 * fix set_random_fault_of_type() ignoring fault type ([#81805](https://github.com/CleverRaven/Cataclysm-DDA/pull/81805))
 * Update terrain-manufactured.json ([#81818](https://github.com/CleverRaven/Cataclysm-DDA/pull/81818))
 * descriptive names for canned recipes ([#81824](https://github.com/CleverRaven/Cataclysm-DDA/pull/81824))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-16-0423 ([06ebe66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-0423))
-
 * fix opened seals in fridges, add oat milk ([#81828](https://github.com/CleverRaven/Cataclysm-DDA/pull/81828))
 * Disable huge uncacheable emscripten builds. ([#81827](https://github.com/CleverRaven/Cataclysm-DDA/pull/81827))
 * Z-9s drop kevlar harnesses ([#81815](https://github.com/CleverRaven/Cataclysm-DDA/pull/81815))
