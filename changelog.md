@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-19-1351 ([ec195b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-1351))
+
+* 2 new freeze-dried meals ([#81886](https://github.com/CleverRaven/Cataclysm-DDA/pull/81886))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-19-0707 ([af81efe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-0707))
 
 * [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
@@ -157,11 +163,6 @@
 * Two small field fixes ([#81837](https://github.com/CleverRaven/Cataclysm-DDA/pull/81837))
 * fix set_random_fault_of_type() ignoring fault type ([#81843](https://github.com/CleverRaven/Cataclysm-DDA/pull/81843))
 * Backport molotov fixes to 0.I ([#81848](https://github.com/CleverRaven/Cataclysm-DDA/pull/81848))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-16-1105 ([ebbf9e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1105))
-
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
@@ -201,7 +202,6 @@
 * Restore looks_like to Crabapple tree ([#81759](https://github.com/CleverRaven/Cataclysm-DDA/pull/81759))
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
-* Debug mode persists through save/load ([#81755](https://github.com/CleverRaven/Cataclysm-DDA/pull/81755))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * Fix bug with teleporting vehicle via aftershock exo planter ship ([#81767](https://github.com/CleverRaven/Cataclysm-DDA/pull/81767))
 * [Mods] Traits that let you cast spells or other supernatural power suites are green ([#81776](https://github.com/CleverRaven/Cataclysm-DDA/pull/81776))
