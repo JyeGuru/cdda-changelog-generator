@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-07-19-1650 ([9033f52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-19-1650))
+
+* Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81907](https://github.com/CleverRaven/Cataclysm-DDA/pull/81907))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-19-1351 ([ec195b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-1351))
 
 * 2 new freeze-dried meals ([#81886](https://github.com/CleverRaven/Cataclysm-DDA/pull/81886))
@@ -166,7 +172,6 @@
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
-* fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81757](https://github.com/CleverRaven/Cataclysm-DDA/pull/81757))
 * [CrazyCataclysm] Kitchen Gun ([#81769](https://github.com/CleverRaven/Cataclysm-DDA/pull/81769))
 * Aftershock: Update cryosuit armor values ([#81795](https://github.com/CleverRaven/Cataclysm-DDA/pull/81795))
 * Aftershock: Give the Magellan Exo high environmental defense. ([#81802](https://github.com/CleverRaven/Cataclysm-DDA/pull/81802))
