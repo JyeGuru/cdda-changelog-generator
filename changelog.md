@@ -163,11 +163,6 @@
 * Add E_STORABLE_EXCLUSIVE flag ([#81829](https://github.com/CleverRaven/Cataclysm-DDA/pull/81829))
 * note that you cannot repair fault_blade_cracked, fix it's weight ([#81852](https://github.com/CleverRaven/Cataclysm-DDA/pull/81852))
 * Aftershock: Give the Magellan Exo high environmental defense. ([#81845](https://github.com/CleverRaven/Cataclysm-DDA/pull/81845))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-16-1519 ([a50a56b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1519))
-
 * [Xedra Evolved] Cabin cellars ([#81839](https://github.com/CleverRaven/Cataclysm-DDA/pull/81839))
 * oat milk in coffee shops ([#81832](https://github.com/CleverRaven/Cataclysm-DDA/pull/81832))
 * Two small field fixes ([#81837](https://github.com/CleverRaven/Cataclysm-DDA/pull/81837))
