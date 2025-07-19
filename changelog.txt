@@ -1,3 +1,11 @@
+* Manually backport: Aftershock: Properly update cryosuit defenses. (#81881)
+* Aftershock: Fix exosuit underlayers so they protect against the cold. (#81891)
+
+Cataclysm-DDA 0.I release candidate 2025-07-19-0541 (2b41b58)
+* Nerf saw tool damage, migrate away combatsaws (#81897)
+
+Cataclysm-DDA experimental build 2025-07-19-0540 (7e750a9)
+* [Magiclysm] Humans are also a species (#81900)
 
 Cataclysm-DDA 0.I release candidate 2025-07-19-0008 (12e7eab)
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks (#81901)
@@ -7,9 +15,6 @@ Cataclysm-DDA experimental build 2025-07-18-1946 (d7e1d03)
 
 Cataclysm-DDA experimental build 2025-07-18-1710 (916d1aa)
 * migrate "longarm bag" item (#81883)
-
-Cataclysm-DDA experimental build 2025-07-18-1549 (7d88e5b)
-* make skip_health a flag (#81749)
 
 Cataclysm-DDA 0.I release candidate 2025-07-18-1529 (75095a8)
 * Aftershock: Vehicle bay City Building (#81879)
@@ -64,11 +69,7 @@ Cataclysm-DDA experimental build 2025-07-16-1840 (12a81a1)
 
 Cataclysm-DDA experimental build 2025-07-16-1625 (e38ef61)
 * Add E_STORABLE_EXCLUSIVE flag (#81829)
-
-Cataclysm-DDA 0.I release candidate 2025-07-16-1803 (9a16745)
 * note that you cannot repair fault_blade_cracked, fix it's weight (#81852)
-
-Cataclysm-DDA 0.I release candidate 2025-07-16-1550 (2f7ec45)
 * Aftershock: Give the Magellan Exo high environmental defense. (#81845)
 
 Cataclysm-DDA experimental build 2025-07-16-1519 (a50a56b)
@@ -87,7 +88,6 @@ Cataclysm-DDA experimental build 2025-07-16-1105 (ebbf9e0)
 * update bugout bags (#81849)
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. (#81844)
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases (#81846)
-* [MoM] Awakenings are light green (#81751)
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases (#81757)
 * [CrazyCataclysm] Kitchen Gun (#81769)
 * Aftershock: Update cryosuit armor values (#81795)
@@ -128,7 +128,6 @@ Cataclysm-DDA experimental build 2025-07-16-0423 (06ebe66)
 * Fix forced traits being applied to NPCs (#81793)
 * Debug mode persists through save/load (#81755)
 * fix f_player_see erroring if talker is not presented (#81774)
-* Aftershock: Resolve minor bugs with the Spaceship scenario. (#81750)
 * Fix bug with teleporting vehicle via aftershock exo planter ship (#81767)
 * [Mods] Traits that let you cast spells or other supernatural power suites are green (#81776)
 * Few text corrections (#81783)
@@ -145,4 +144,3 @@ Cataclysm-DDA experimental build 2025-07-16-0423 (06ebe66)
 * fill cereal boxes (#81775)
 * Ensure no fault in Liam's car (#81765)
 * Fix software crafting for mods (#81764)
-* Add BULLETPROOF flag for monsters immune to ballistic damage, apply to Magiclysm's will o' wisps (#81752)
