@@ -1,3 +1,4 @@
+* print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))
 * Implement uncrafting test ([#81830](https://github.com/CleverRaven/Cataclysm-DDA/pull/81830))
 * Split river/lake/ocean-related functions from overmap.cpp ([#81878](https://github.com/CleverRaven/Cataclysm-DDA/pull/81878))
 * Routine i18n updates on 19 July 2025 ([#81905](https://github.com/CleverRaven/Cataclysm-DDA/pull/81905))
@@ -218,4 +219,3 @@
 * fix postapoc price of S&W 10 ([#81787](https://github.com/CleverRaven/Cataclysm-DDA/pull/81787))
 * fill cereal boxes ([#81775](https://github.com/CleverRaven/Cataclysm-DDA/pull/81775))
 * Ensure no fault in Liam's car ([#81765](https://github.com/CleverRaven/Cataclysm-DDA/pull/81765))
-* Fix software crafting for mods ([#81764](https://github.com/CleverRaven/Cataclysm-DDA/pull/81764))
