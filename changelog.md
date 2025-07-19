@@ -1,3 +1,4 @@
+* [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
 * Manually backport: Aftershock: Properly update cryosuit defenses. ([#81881](https://github.com/CleverRaven/Cataclysm-DDA/pull/81881))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81891](https://github.com/CleverRaven/Cataclysm-DDA/pull/81891))
 
@@ -143,12 +144,6 @@
 #### Cataclysm-DDA experimental build 2025-07-16-1402 ([758bd6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1402))
 
 * oat milk in coffee shops ([#81832](https://github.com/CleverRaven/Cataclysm-DDA/pull/81832))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-16-1222 ([fbe81b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-1222))
-
-* note that you cannot repair fault_blade_cracked, fix it's weight ([#81753](https://github.com/CleverRaven/Cataclysm-DDA/pull/81753))
 * Two small field fixes ([#81837](https://github.com/CleverRaven/Cataclysm-DDA/pull/81837))
 * fix set_random_fault_of_type() ignoring fault type ([#81843](https://github.com/CleverRaven/Cataclysm-DDA/pull/81843))
 * Backport molotov fixes to 0.I ([#81848](https://github.com/CleverRaven/Cataclysm-DDA/pull/81848))
