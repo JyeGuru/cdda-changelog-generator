@@ -1,3 +1,4 @@
+* Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
 
 ---
 
@@ -218,4 +219,3 @@
 * 1 pound of pasta per box ([#81777](https://github.com/CleverRaven/Cataclysm-DDA/pull/81777))
 * fix postapoc price of S&W 10 ([#81787](https://github.com/CleverRaven/Cataclysm-DDA/pull/81787))
 * fill cereal boxes ([#81775](https://github.com/CleverRaven/Cataclysm-DDA/pull/81775))
-* Ensure no fault in Liam's car ([#81765](https://github.com/CleverRaven/Cataclysm-DDA/pull/81765))

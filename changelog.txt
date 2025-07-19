@@ -1,3 +1,4 @@
+* Fix unnecessary macro redefintion warnings from zstd (#81917)
 
 Cataclysm-DDA experimental build 2025-07-19-2207 (92cf853)
 * print correct ammo damage in wielding menu (#81916)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-07-16-1840 (12a81a1)
 * 1 pound of pasta per box (#81777)
 * fix postapoc price of S&W 10 (#81787)
 * fill cereal boxes (#81775)
-* Ensure no fault in Liam's car (#81765)
