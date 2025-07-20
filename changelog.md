@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-20-1657 ([e7f5c3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-1657))
+
 * Move post 0.I split migration/obsoletion to a new folder ([#81914](https://github.com/CleverRaven/Cataclysm-DDA/pull/81914))
 
 ---
@@ -134,11 +139,6 @@
 * Fix debugmsg on portal storm end ([#81857](https://github.com/CleverRaven/Cataclysm-DDA/pull/81857))
 * Aftershock: Properly update cryosuit defenses. ([#81862](https://github.com/CleverRaven/Cataclysm-DDA/pull/81862))
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-17-2319 ([7726f56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-17-2319))
-
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
 
