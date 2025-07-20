@@ -1,3 +1,4 @@
+* Bump up number of boomer shots in projectil test (#81931)
 
 Cataclysm-DDA experimental build 2025-07-20-1657 (e7f5c3c)
 * Move post 0.I split migration/obsoletion to a new folder (#81914)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2025-07-17-0501 (ec0f7fa)
 * add ShnitzelX2 to comment-commands.yml (#81808)
 * Weekly Changelog 2025-07-07 to 2025-07-14 (#81785)
 * Fix forced traits being applied to NPCs (#81793)
-* fix f_player_see erroring if talker is not presented (#81774)
 * [Mods] Traits that let you cast spells or other supernatural power suites are green (#81776)
 * Few text corrections (#81783)
 * Fix highway segments generating over highway specials (#81779)

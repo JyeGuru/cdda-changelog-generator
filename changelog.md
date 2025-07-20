@@ -1,3 +1,4 @@
+* Bump up number of boomer shots in projectil test ([#81931](https://github.com/CleverRaven/Cataclysm-DDA/pull/81931))
 
 ---
 
@@ -215,7 +216,6 @@
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
-* fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * [Mods] Traits that let you cast spells or other supernatural power suites are green ([#81776](https://github.com/CleverRaven/Cataclysm-DDA/pull/81776))
 * Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))
 * Fix highway segments generating over highway specials ([#81779](https://github.com/CleverRaven/Cataclysm-DDA/pull/81779))
