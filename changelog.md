@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-20-0521 ([1efa6e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-0521))
+
 * fix Start Vehicle Construction cancelling ([#81912](https://github.com/CleverRaven/Cataclysm-DDA/pull/81912))
 * Remove "pair of" and "pairs of" wording from the arms armor ([#81910](https://github.com/CleverRaven/Cataclysm-DDA/pull/81910))
 

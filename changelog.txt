@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-20-0521 (1efa6e8)
 * fix Start Vehicle Construction cancelling (#81912)
 * Remove "pair of" and "pairs of" wording from the arms armor (#81910)
 
