@@ -1,3 +1,11 @@
+* fix Start Vehicle Construction cancelling ([#81912](https://github.com/CleverRaven/Cataclysm-DDA/pull/81912))
+* Remove "pair of" and "pairs of" wording from the arms armor ([#81910](https://github.com/CleverRaven/Cataclysm-DDA/pull/81910))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-20-0420 ([3e70e41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-0420))
+
+* add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
 
 ---
 
@@ -155,11 +163,6 @@
 
 * Aftershock: Survival heaters produce temporary AC ([#81863](https://github.com/CleverRaven/Cataclysm-DDA/pull/81863))
 * [MoM, XE ] Mod interaction Snippets ([#81809](https://github.com/CleverRaven/Cataclysm-DDA/pull/81809))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-16-2342 ([c43da69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-16-2342))
-
 * Make AFS Quest item single use ([#81786](https://github.com/CleverRaven/Cataclysm-DDA/pull/81786))
 * Punching bags can be built from different types of blankets ([#81851](https://github.com/CleverRaven/Cataclysm-DDA/pull/81851))
 * Add E_STORABLE_EXCLUSIVE flag ([#81829](https://github.com/CleverRaven/Cataclysm-DDA/pull/81829))
@@ -173,7 +176,6 @@
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
-* [CrazyCataclysm] Kitchen Gun ([#81769](https://github.com/CleverRaven/Cataclysm-DDA/pull/81769))
 * Aftershock: Update cryosuit armor values ([#81795](https://github.com/CleverRaven/Cataclysm-DDA/pull/81795))
 * Aftershock: Give the Magellan Exo high environmental defense. ([#81802](https://github.com/CleverRaven/Cataclysm-DDA/pull/81802))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81794](https://github.com/CleverRaven/Cataclysm-DDA/pull/81794))
@@ -207,10 +209,8 @@
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
-* Fix bug with teleporting vehicle via aftershock exo planter ship ([#81767](https://github.com/CleverRaven/Cataclysm-DDA/pull/81767))
 * [Mods] Traits that let you cast spells or other supernatural power suites are green ([#81776](https://github.com/CleverRaven/Cataclysm-DDA/pull/81776))
 * Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))
-* prepper food in bugout bags ([#81770](https://github.com/CleverRaven/Cataclysm-DDA/pull/81770))
 * Fix mod loading ([#81771](https://github.com/CleverRaven/Cataclysm-DDA/pull/81771))
 * New fungal monsters: fungal mound and fungal construct. ([#81773](https://github.com/CleverRaven/Cataclysm-DDA/pull/81773))
 * Fix highway segments generating over highway specials ([#81779](https://github.com/CleverRaven/Cataclysm-DDA/pull/81779))
