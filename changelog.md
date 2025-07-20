@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-20-1541 ([e0e9994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-1541))
+
+* [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts ([#81926](https://github.com/CleverRaven/Cataclysm-DDA/pull/81926))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-20-0521 ([1efa6e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-0521))
 
 * fix Start Vehicle Construction cancelling ([#81912](https://github.com/CleverRaven/Cataclysm-DDA/pull/81912))
@@ -133,11 +139,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-17-2319 ([7726f56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-17-2319))
 
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-17-2154 ([4abbc9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-17-2154))
-
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
 
 ---
@@ -216,7 +217,6 @@
 * fix f_player_see erroring if talker is not presented ([#81774](https://github.com/CleverRaven/Cataclysm-DDA/pull/81774))
 * [Mods] Traits that let you cast spells or other supernatural power suites are green ([#81776](https://github.com/CleverRaven/Cataclysm-DDA/pull/81776))
 * Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))
-* Fix mod loading ([#81771](https://github.com/CleverRaven/Cataclysm-DDA/pull/81771))
 * New fungal monsters: fungal mound and fungal construct. ([#81773](https://github.com/CleverRaven/Cataclysm-DDA/pull/81773))
 * Fix highway segments generating over highway specials ([#81779](https://github.com/CleverRaven/Cataclysm-DDA/pull/81779))
 * Typo Fix computer_eocs.json ([#81784](https://github.com/CleverRaven/Cataclysm-DDA/pull/81784))
