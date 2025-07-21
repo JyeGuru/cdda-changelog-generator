@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-21-1501 (011ace7)
 * Aftershock: Update title art (#81935)
 
 Cataclysm-DDA experimental build 2025-07-21-1354 (bc4e223)
@@ -84,8 +86,6 @@ Cataclysm-DDA experimental build 2025-07-18-1710 (916d1aa)
 
 Cataclysm-DDA 0.I release candidate 2025-07-18-1529 (75095a8)
 * Aftershock: Vehicle bay City Building (#81879)
-
-Cataclysm-DDA 0.I release candidate 2025-07-18-1411 (a4cb000)
 * Backport portal storm debugmsg on end fix (#81884)
 
 Cataclysm-DDA experimental build 2025-07-18-1411 (cb46d36)

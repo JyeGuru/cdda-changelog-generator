@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-21-1501 ([011ace7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-1501))
+
 * Aftershock: Update title art ([#81935](https://github.com/CleverRaven/Cataclysm-DDA/pull/81935))
 
 ---
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-18-1529 ([75095a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-18-1529))
 
 * Aftershock: Vehicle bay City Building ([#81879](https://github.com/CleverRaven/Cataclysm-DDA/pull/81879))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-18-1411 ([a4cb000](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-18-1411))
-
 * Backport portal storm debugmsg on end fix ([#81884](https://github.com/CleverRaven/Cataclysm-DDA/pull/81884))
 
 ---
