@@ -1,4 +1,9 @@
 * Aftershock: Update title art ([#81935](https://github.com/CleverRaven/Cataclysm-DDA/pull/81935))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-21-1354 ([bc4e223](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-1354))
+
 * [MoM] Fix achivements being granted by NPCs awakening ([#81939](https://github.com/CleverRaven/Cataclysm-DDA/pull/81939))
 
 ---
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-07-18-1411 ([cb46d36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1411))
 
 * Add roof to balthazar bunker ([#81887](https://github.com/CleverRaven/Cataclysm-DDA/pull/81887))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-18-0504 ([4efdec6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-18-0504))
-
 * Manually backport "Aftershock: Add mod achievements and lock challenge scenarios …" ([#81875](https://github.com/CleverRaven/Cataclysm-DDA/pull/81875))
 * Nerf saw tool damage, migrate away combatsaws ([#81865](https://github.com/CleverRaven/Cataclysm-DDA/pull/81865))
 * [Xedra Evolved] Add hedge magick books to Esoteric Books itemgroup ([#81835](https://github.com/CleverRaven/Cataclysm-DDA/pull/81835))
