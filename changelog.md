@@ -1,4 +1,9 @@
 * Remove IRRITANT_IMMUNE from armors [need #72271 merged first] ([#81909](https://github.com/CleverRaven/Cataclysm-DDA/pull/81909))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-21-0603 ([793f476](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-21-0603))
+
 * fix Start Vehicle Construction cancelling ([#81924](https://github.com/CleverRaven/Cataclysm-DDA/pull/81924))
 * print correct ammo damage in wielding menu ([#81920](https://github.com/CleverRaven/Cataclysm-DDA/pull/81920))
 
@@ -175,11 +180,6 @@
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-17-2136 ([7c548c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-2136))
-
 * [Xedra Evolved] Bloodthorne druids are banned from dream magick ([#81859](https://github.com/CleverRaven/Cataclysm-DDA/pull/81859))
 * Aftershock: Induction hotplates are more common in kitchenettes ([#81864](https://github.com/CleverRaven/Cataclysm-DDA/pull/81864))
 * [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))
