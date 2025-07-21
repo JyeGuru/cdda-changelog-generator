@@ -1,3 +1,10 @@
+* Docs explain how to use multiple proficiencies in fault fixes ([#81892](https://github.com/CleverRaven/Cataclysm-DDA/pull/81892))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-21-0053 ([fe63f0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0053))
+
+* Fix const to appease clang ([#81932](https://github.com/CleverRaven/Cataclysm-DDA/pull/81932))
 * Bump up number of boomer shots in projectil test ([#81931](https://github.com/CleverRaven/Cataclysm-DDA/pull/81931))
 
 ---
@@ -164,11 +171,6 @@
 * [MoM] Add meditation books to esoteric_books ([#81853](https://github.com/CleverRaven/Cataclysm-DDA/pull/81853))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81856](https://github.com/CleverRaven/Cataclysm-DDA/pull/81856))
 * Hair dye kits in bathrooms ([#81860](https://github.com/CleverRaven/Cataclysm-DDA/pull/81860))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-17-0501 ([ec0f7fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-0501))
-
 * Aftershock: Survival heaters produce temporary AC ([#81863](https://github.com/CleverRaven/Cataclysm-DDA/pull/81863))
 * [MoM, XE ] Mod interaction Snippets ([#81809](https://github.com/CleverRaven/Cataclysm-DDA/pull/81809))
 * Make AFS Quest item single use ([#81786](https://github.com/CleverRaven/Cataclysm-DDA/pull/81786))
@@ -216,11 +218,9 @@
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
-* [Mods] Traits that let you cast spells or other supernatural power suites are green ([#81776](https://github.com/CleverRaven/Cataclysm-DDA/pull/81776))
 * Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))
 * Fix highway segments generating over highway specials ([#81779](https://github.com/CleverRaven/Cataclysm-DDA/pull/81779))
 * Typo Fix computer_eocs.json ([#81784](https://github.com/CleverRaven/Cataclysm-DDA/pull/81784))
 * peanut butter and jam in half-liter jars ([#81782](https://github.com/CleverRaven/Cataclysm-DDA/pull/81782))
 * 1 pound of pasta per box ([#81777](https://github.com/CleverRaven/Cataclysm-DDA/pull/81777))
 * fix postapoc price of S&W 10 ([#81787](https://github.com/CleverRaven/Cataclysm-DDA/pull/81787))
-* fill cereal boxes ([#81775](https://github.com/CleverRaven/Cataclysm-DDA/pull/81775))
