@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-21-2040 ([33fc6f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-2040))
+
+* Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-21-1926 ([2132336](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-1926))
 
 * Always show clean water on top of consume menu ([#81947](https://github.com/CleverRaven/Cataclysm-DDA/pull/81947))
@@ -169,11 +175,6 @@
 * migrate "longarm bag" item ([#81883](https://github.com/CleverRaven/Cataclysm-DDA/pull/81883))
 * Aftershock: Vehicle bay City Building ([#81879](https://github.com/CleverRaven/Cataclysm-DDA/pull/81879))
 * Backport portal storm debugmsg on end fix ([#81884](https://github.com/CleverRaven/Cataclysm-DDA/pull/81884))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-18-1411 ([cb46d36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1411))
-
 * Add roof to balthazar bunker ([#81887](https://github.com/CleverRaven/Cataclysm-DDA/pull/81887))
 * Manually backport "Aftershock: Add mod achievements and lock challenge scenarios …" ([#81875](https://github.com/CleverRaven/Cataclysm-DDA/pull/81875))
 * Nerf saw tool damage, migrate away combatsaws ([#81865](https://github.com/CleverRaven/Cataclysm-DDA/pull/81865))
@@ -231,6 +232,5 @@
 * Fix forced traits being applied to NPCs ([#81806](https://github.com/CleverRaven/Cataclysm-DDA/pull/81806))
 * fix f_player_see erroring if talker is not presented ([#81796](https://github.com/CleverRaven/Cataclysm-DDA/pull/81796))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81792](https://github.com/CleverRaven/Cataclysm-DDA/pull/81792))
-* Add looks_like to various medical zeds ([#81790](https://github.com/CleverRaven/Cataclysm-DDA/pull/81790))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))

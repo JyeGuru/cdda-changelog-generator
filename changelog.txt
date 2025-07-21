@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-21-2040 (33fc6f0)
+* Add PERMEABLE to various terrain (#81957)
+
 Cataclysm-DDA experimental build 2025-07-21-1926 (2132336)
 * Always show clean water on top of consume menu (#81947)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2025-07-18-1710 (916d1aa)
 * migrate "longarm bag" item (#81883)
 * Aftershock: Vehicle bay City Building (#81879)
 * Backport portal storm debugmsg on end fix (#81884)
-
-Cataclysm-DDA experimental build 2025-07-18-1411 (cb46d36)
 * Add roof to balthazar bunker (#81887)
 * Manually backport "Aftershock: Add mod achievements and lock challenge scenarios …" (#81875)
 * Nerf saw tool damage, migrate away combatsaws (#81865)
@@ -147,6 +148,5 @@ Cataclysm-DDA experimental build 2025-07-18-1411 (cb46d36)
 * Fix forced traits being applied to NPCs (#81806)
 * fix f_player_see erroring if talker is not presented (#81796)
 * Aftershock: Resolve minor bugs with the Spaceship scenario. (#81792)
-* Add looks_like to various medical zeds (#81790)
 * add ShnitzelX2 to comment-commands.yml (#81808)
 * Fix forced traits being applied to NPCs (#81793)
