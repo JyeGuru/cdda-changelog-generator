@@ -1,3 +1,20 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-21-0409 ([376608c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-21-0409))
+
+* Fix greenhouse_5x5_roof ([#81919](https://github.com/CleverRaven/Cataclysm-DDA/pull/81919))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-21-0408 ([fd4a3fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0408))
+
+* [Xedra Evolved] Update `EOC_CONDITION_CHECK_ARVORE_ON_NATURAL_TERRAIN` to account for bark floors  ([#81936](https://github.com/CleverRaven/Cataclysm-DDA/pull/81936))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-21-0212 ([b610e1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0212))
+
 * Docs explain how to use multiple proficiencies in fault fixes ([#81892](https://github.com/CleverRaven/Cataclysm-DDA/pull/81892))
 
 ---
@@ -161,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-07-17-2006 ([d87b622](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-2006))
 
 * Aftershock: Induction hotplates are more common in kitchenettes ([#81864](https://github.com/CleverRaven/Cataclysm-DDA/pull/81864))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-17-1909 ([9ed8d20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-1909))
-
 * [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))
 * Modernity?! In my Cataclysm?! (Professions: Books in smartphones, smartwatches) ([#81820](https://github.com/CleverRaven/Cataclysm-DDA/pull/81820))
 * [MoM] Add meditation books to esoteric_books ([#81853](https://github.com/CleverRaven/Cataclysm-DDA/pull/81853))
@@ -219,8 +231,6 @@
 * Weekly Changelog 2025-07-07 to 2025-07-14 ([#81785](https://github.com/CleverRaven/Cataclysm-DDA/pull/81785))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
 * Few text corrections ([#81783](https://github.com/CleverRaven/Cataclysm-DDA/pull/81783))
-* Fix highway segments generating over highway specials ([#81779](https://github.com/CleverRaven/Cataclysm-DDA/pull/81779))
 * Typo Fix computer_eocs.json ([#81784](https://github.com/CleverRaven/Cataclysm-DDA/pull/81784))
 * peanut butter and jam in half-liter jars ([#81782](https://github.com/CleverRaven/Cataclysm-DDA/pull/81782))
-* 1 pound of pasta per box ([#81777](https://github.com/CleverRaven/Cataclysm-DDA/pull/81777))
 * fix postapoc price of S&W 10 ([#81787](https://github.com/CleverRaven/Cataclysm-DDA/pull/81787))
