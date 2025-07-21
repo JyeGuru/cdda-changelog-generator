@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-21-1926 ([2132336](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-1926))
+
+* Always show clean water on top of consume menu ([#81947](https://github.com/CleverRaven/Cataclysm-DDA/pull/81947))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-21-1501 ([011ace7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-1501))
 
 * Aftershock: Update title art ([#81935](https://github.com/CleverRaven/Cataclysm-DDA/pull/81935))
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-07-18-1710 ([916d1aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1710))
 
 * migrate "longarm bag" item ([#81883](https://github.com/CleverRaven/Cataclysm-DDA/pull/81883))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-18-1529 ([75095a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-18-1529))
-
 * Aftershock: Vehicle bay City Building ([#81879](https://github.com/CleverRaven/Cataclysm-DDA/pull/81879))
 * Backport portal storm debugmsg on end fix ([#81884](https://github.com/CleverRaven/Cataclysm-DDA/pull/81884))
 
@@ -231,6 +232,5 @@
 * fix f_player_see erroring if talker is not presented ([#81796](https://github.com/CleverRaven/Cataclysm-DDA/pull/81796))
 * Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81792](https://github.com/CleverRaven/Cataclysm-DDA/pull/81792))
 * Add looks_like to various medical zeds ([#81790](https://github.com/CleverRaven/Cataclysm-DDA/pull/81790))
-* Fix mod loading ([#81789](https://github.com/CleverRaven/Cataclysm-DDA/pull/81789))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
 * Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
