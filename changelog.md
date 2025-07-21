@@ -220,7 +220,6 @@
 * Smart Watch proliferation ([#81798](https://github.com/CleverRaven/Cataclysm-DDA/pull/81798))
 * [MoM] Fifth Sun People is now a HERITAGE trait ([#81799](https://github.com/CleverRaven/Cataclysm-DDA/pull/81799))
 * Disable huge uncacheable emscripten builds. ([#81800](https://github.com/CleverRaven/Cataclysm-DDA/pull/81800))
-* mac & cheese ([#81791](https://github.com/CleverRaven/Cataclysm-DDA/pull/81791))
 * Finalize requirement data for fault fixes ([#81797](https://github.com/CleverRaven/Cataclysm-DDA/pull/81797))
 * Pantry charges ([#81807](https://github.com/CleverRaven/Cataclysm-DDA/pull/81807))
 * [Aftershock] Fix telekinesis bugs ([#81801](https://github.com/CleverRaven/Cataclysm-DDA/pull/81801))
