@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-21-0654 ([f32f21b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0654))
+
 * Remove IRRITANT_IMMUNE from armors [need #72271 merged first] ([#81909](https://github.com/CleverRaven/Cataclysm-DDA/pull/81909))
 
 ---
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-07-18-0028 ([aa9fa31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-0028))
 
 * Nerf saw tool damage, migrate away combatsaws ([#81865](https://github.com/CleverRaven/Cataclysm-DDA/pull/81865))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-17-2301 ([40adb72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-17-2301))
-
 * [Xedra Evolved] Add hedge magick books to Esoteric Books itemgroup ([#81835](https://github.com/CleverRaven/Cataclysm-DDA/pull/81835))
 * [MoM] Add the Radiant Amalgamation ([#81861](https://github.com/CleverRaven/Cataclysm-DDA/pull/81861))
 * Fix debugmsg on portal storm end ([#81857](https://github.com/CleverRaven/Cataclysm-DDA/pull/81857))
