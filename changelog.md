@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-22-0745 ([ceb999f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0745))
+
+* Remove Source Safety from generic rural buildings ([#81966](https://github.com/CleverRaven/Cataclysm-DDA/pull/81966))
 * Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
 
 ---
@@ -168,11 +174,6 @@
 
 * Manually backport: Aftershock: Properly update cryosuit defenses. ([#81881](https://github.com/CleverRaven/Cataclysm-DDA/pull/81881))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81891](https://github.com/CleverRaven/Cataclysm-DDA/pull/81891))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-19-0541 ([2b41b58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-19-0541))
-
 * Nerf saw tool damage, migrate away combatsaws ([#81897](https://github.com/CleverRaven/Cataclysm-DDA/pull/81897))
 
 ---
@@ -228,7 +229,6 @@
 * Smart Watch proliferation ([#81798](https://github.com/CleverRaven/Cataclysm-DDA/pull/81798))
 * [MoM] Fifth Sun People is now a HERITAGE trait ([#81799](https://github.com/CleverRaven/Cataclysm-DDA/pull/81799))
 * Disable huge uncacheable emscripten builds. ([#81800](https://github.com/CleverRaven/Cataclysm-DDA/pull/81800))
-* Finalize requirement data for fault fixes ([#81797](https://github.com/CleverRaven/Cataclysm-DDA/pull/81797))
 * Pantry charges ([#81807](https://github.com/CleverRaven/Cataclysm-DDA/pull/81807))
 * [Aftershock] Fix telekinesis bugs ([#81801](https://github.com/CleverRaven/Cataclysm-DDA/pull/81801))
 * split up SUS fridge itemgroups ([#81812](https://github.com/CleverRaven/Cataclysm-DDA/pull/81812))
