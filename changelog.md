@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-22-1954 ([a611f7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1954))
+
+* Add haul toggle to action menu when hauling ([#81960](https://github.com/CleverRaven/Cataclysm-DDA/pull/81960))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-22-1537 ([e1b04c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1537))
 
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
@@ -179,11 +185,6 @@
 
 * Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81907](https://github.com/CleverRaven/Cataclysm-DDA/pull/81907))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-19-1351 ([ec195b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-1351))
-
 * 2 new freeze-dried meals ([#81886](https://github.com/CleverRaven/Cataclysm-DDA/pull/81886))
 * [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
 * Manually backport: Aftershock: Properly update cryosuit defenses. ([#81881](https://github.com/CleverRaven/Cataclysm-DDA/pull/81881))
@@ -213,7 +214,6 @@
 * Aftershock: Humaniforms can execute humanoid monsters ([#81856](https://github.com/CleverRaven/Cataclysm-DDA/pull/81856))
 * Hair dye kits in bathrooms ([#81860](https://github.com/CleverRaven/Cataclysm-DDA/pull/81860))
 * Aftershock: Survival heaters produce temporary AC ([#81863](https://github.com/CleverRaven/Cataclysm-DDA/pull/81863))
-* [MoM, XE ] Mod interaction Snippets ([#81809](https://github.com/CleverRaven/Cataclysm-DDA/pull/81809))
 * Punching bags can be built from different types of blankets ([#81851](https://github.com/CleverRaven/Cataclysm-DDA/pull/81851))
 * Add E_STORABLE_EXCLUSIVE flag ([#81829](https://github.com/CleverRaven/Cataclysm-DDA/pull/81829))
 * note that you cannot repair fault_blade_cracked, fix it's weight ([#81852](https://github.com/CleverRaven/Cataclysm-DDA/pull/81852))
