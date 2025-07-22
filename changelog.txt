@@ -1,3 +1,4 @@
+* Flashbang stuff (#81959)
 
 Cataclysm-DDA 0.I release candidate 2025-07-22-1322 (fa46d5f)
 * Add E_STORABLE_EXCLUSIVE flag (#81855)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-07-19-0707 (af81efe)
 * Learning defensive driving in the cataclysm?! Don't mind if I do... (#81814)
 * The esoteric and you (#81817)
 * Set Liam's opinion of the player (#81819)
-* add ShnitzelX2 to comment-commands.yml (#81808)

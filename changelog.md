@@ -1,3 +1,4 @@
+* Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
 
 ---
 
@@ -236,4 +237,3 @@
 * Learning defensive driving in the cataclysm?! Don't mind if I do... ([#81814](https://github.com/CleverRaven/Cataclysm-DDA/pull/81814))
 * The esoteric and you ([#81817](https://github.com/CleverRaven/Cataclysm-DDA/pull/81817))
 * Set Liam's opinion of the player ([#81819](https://github.com/CleverRaven/Cataclysm-DDA/pull/81819))
-* add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
