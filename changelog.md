@@ -1,3 +1,15 @@
+* Gate more zstd preprocessor redefines ([#81922](https://github.com/CleverRaven/Cataclysm-DDA/pull/81922))
+* Assign name to Protein Wrapper ([#81930](https://github.com/CleverRaven/Cataclysm-DDA/pull/81930))
+* Reduce melee on Zombie Cops ([#81923](https://github.com/CleverRaven/Cataclysm-DDA/pull/81923))
+* Pipebomb bandolier ([#81937](https://github.com/CleverRaven/Cataclysm-DDA/pull/81937))
+* Weekly Changelog 2025-07-14 to 2025-07-21 ([#81940](https://github.com/CleverRaven/Cataclysm-DDA/pull/81940))
+* [MoM/Vanilla] Adjust weights of amalgamation spawn groups to allow rarer MoM amalgamations to spawn rarely ([#81951](https://github.com/CleverRaven/Cataclysm-DDA/pull/81951))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-22-1303 ([41bf407](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1303))
+
+* Loudness adjustments for subsonic rounds ([#81965](https://github.com/CleverRaven/Cataclysm-DDA/pull/81965))
 
 ---
 
@@ -167,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-07-19-0707 ([af81efe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-0707))
 
 * [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-19-0727 ([d59d9cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-19-0727))
-
 * Manually backport: Aftershock: Properly update cryosuit defenses. ([#81881](https://github.com/CleverRaven/Cataclysm-DDA/pull/81881))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81891](https://github.com/CleverRaven/Cataclysm-DDA/pull/81891))
 * Nerf saw tool damage, migrate away combatsaws ([#81897](https://github.com/CleverRaven/Cataclysm-DDA/pull/81897))
@@ -217,20 +224,13 @@
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
-* Aftershock: Give the Magellan Exo high environmental defense. ([#81802](https://github.com/CleverRaven/Cataclysm-DDA/pull/81802))
-* fix bashing dropping default charge quantity instead of desired ([#81803](https://github.com/CleverRaven/Cataclysm-DDA/pull/81803))
-* fix set_random_fault_of_type() ignoring fault type ([#81805](https://github.com/CleverRaven/Cataclysm-DDA/pull/81805))
 * Update terrain-manufactured.json ([#81818](https://github.com/CleverRaven/Cataclysm-DDA/pull/81818))
 * descriptive names for canned recipes ([#81824](https://github.com/CleverRaven/Cataclysm-DDA/pull/81824))
 * fix opened seals in fridges, add oat milk ([#81828](https://github.com/CleverRaven/Cataclysm-DDA/pull/81828))
 * Disable huge uncacheable emscripten builds. ([#81827](https://github.com/CleverRaven/Cataclysm-DDA/pull/81827))
 * Z-9s drop kevlar harnesses ([#81815](https://github.com/CleverRaven/Cataclysm-DDA/pull/81815))
 * Finalize requirement data for fault fixes ([#81825](https://github.com/CleverRaven/Cataclysm-DDA/pull/81825))
-* Smart Watch proliferation ([#81798](https://github.com/CleverRaven/Cataclysm-DDA/pull/81798))
-* [MoM] Fifth Sun People is now a HERITAGE trait ([#81799](https://github.com/CleverRaven/Cataclysm-DDA/pull/81799))
-* Disable huge uncacheable emscripten builds. ([#81800](https://github.com/CleverRaven/Cataclysm-DDA/pull/81800))
 * Pantry charges ([#81807](https://github.com/CleverRaven/Cataclysm-DDA/pull/81807))
-* [Aftershock] Fix telekinesis bugs ([#81801](https://github.com/CleverRaven/Cataclysm-DDA/pull/81801))
 * split up SUS fridge itemgroups ([#81812](https://github.com/CleverRaven/Cataclysm-DDA/pull/81812))
 * Remove 4.6mm and MP7 ([#81813](https://github.com/CleverRaven/Cataclysm-DDA/pull/81813))
 * Learning defensive driving in the cataclysm?! Don't mind if I do... ([#81814](https://github.com/CleverRaven/Cataclysm-DDA/pull/81814))
