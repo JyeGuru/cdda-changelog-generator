@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-22-1322 ([fa46d5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-22-1322))
 
 * Add E_STORABLE_EXCLUSIVE flag ([#81855](https://github.com/CleverRaven/Cataclysm-DDA/pull/81855))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-22-1411 ([919357d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1411))
+
 * Gate more zstd preprocessor redefines ([#81922](https://github.com/CleverRaven/Cataclysm-DDA/pull/81922))
 * Assign name to Protein Wrapper ([#81930](https://github.com/CleverRaven/Cataclysm-DDA/pull/81930))
 * Reduce melee on Zombie Cops ([#81923](https://github.com/CleverRaven/Cataclysm-DDA/pull/81923))
@@ -183,11 +188,6 @@
 * Manually backport: Aftershock: Properly update cryosuit defenses. ([#81881](https://github.com/CleverRaven/Cataclysm-DDA/pull/81881))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81891](https://github.com/CleverRaven/Cataclysm-DDA/pull/81891))
 * Nerf saw tool damage, migrate away combatsaws ([#81897](https://github.com/CleverRaven/Cataclysm-DDA/pull/81897))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-19-0540 ([7e750a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-0540))
-
 * [Magiclysm] Humans are also a species ([#81900](https://github.com/CleverRaven/Cataclysm-DDA/pull/81900))
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81901](https://github.com/CleverRaven/Cataclysm-DDA/pull/81901))
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81888](https://github.com/CleverRaven/Cataclysm-DDA/pull/81888))

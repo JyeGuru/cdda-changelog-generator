@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.I release candidate 2025-07-22-1322 (fa46d5f)
 * Add E_STORABLE_EXCLUSIVE flag (#81855)
+
+Cataclysm-DDA experimental build 2025-07-22-1411 (919357d)
 * Gate more zstd preprocessor redefines (#81922)
 * Assign name to Protein Wrapper (#81930)
 * Reduce melee on Zombie Cops (#81923)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2025-07-19-0707 (af81efe)
 * Manually backport: Aftershock: Properly update cryosuit defenses. (#81881)
 * Aftershock: Fix exosuit underlayers so they protect against the cold. (#81891)
 * Nerf saw tool damage, migrate away combatsaws (#81897)
-
-Cataclysm-DDA experimental build 2025-07-19-0540 (7e750a9)
 * [Magiclysm] Humans are also a species (#81900)
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks (#81901)
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks (#81888)
