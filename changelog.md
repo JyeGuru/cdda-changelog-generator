@@ -1,3 +1,10 @@
+* Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-22-0407 ([49df25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0407))
+
+* Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
 
 ---
 
@@ -173,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-07-19-0540 ([7e750a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-0540))
 
 * [Magiclysm] Humans are also a species ([#81900](https://github.com/CleverRaven/Cataclysm-DDA/pull/81900))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-19-0008 ([12e7eab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-19-0008))
-
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81901](https://github.com/CleverRaven/Cataclysm-DDA/pull/81901))
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81888](https://github.com/CleverRaven/Cataclysm-DDA/pull/81888))
 * migrate "longarm bag" item ([#81883](https://github.com/CleverRaven/Cataclysm-DDA/pull/81883))
@@ -214,7 +216,6 @@
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
-* Aftershock: Update cryosuit armor values ([#81795](https://github.com/CleverRaven/Cataclysm-DDA/pull/81795))
 * Aftershock: Give the Magellan Exo high environmental defense. ([#81802](https://github.com/CleverRaven/Cataclysm-DDA/pull/81802))
 * fix bashing dropping default charge quantity instead of desired ([#81803](https://github.com/CleverRaven/Cataclysm-DDA/pull/81803))
 * fix set_random_fault_of_type() ignoring fault type ([#81805](https://github.com/CleverRaven/Cataclysm-DDA/pull/81805))
@@ -236,5 +237,4 @@
 * The esoteric and you ([#81817](https://github.com/CleverRaven/Cataclysm-DDA/pull/81817))
 * Set Liam's opinion of the player ([#81819](https://github.com/CleverRaven/Cataclysm-DDA/pull/81819))
 * Fix forced traits being applied to NPCs ([#81806](https://github.com/CleverRaven/Cataclysm-DDA/pull/81806))
-* fix f_player_see erroring if talker is not presented ([#81796](https://github.com/CleverRaven/Cataclysm-DDA/pull/81796))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
