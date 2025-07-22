@@ -1,4 +1,13 @@
 
+Cataclysm-DDA experimental build 2025-07-22-0246 (50a88e9)
+* Only forget vehicle ghost when gaining control (#81953)
+
+Cataclysm-DDA experimental build 2025-07-22-0057 (129e31c)
+* Make autodrive less restricted (#81945)
+
+Cataclysm-DDA 0.I release candidate 2025-07-22-0054 (5e913fb)
+* [MoM] Fix achivements being granted by NPCs awakening (#81949)
+
 Cataclysm-DDA experimental build 2025-07-21-2040 (33fc6f0)
 * Add PERMEABLE to various terrain (#81957)
 
@@ -83,11 +92,7 @@ Cataclysm-DDA experimental build 2025-07-19-0540 (7e750a9)
 
 Cataclysm-DDA 0.I release candidate 2025-07-19-0008 (12e7eab)
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks (#81901)
-
-Cataclysm-DDA experimental build 2025-07-18-1946 (d7e1d03)
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks (#81888)
-
-Cataclysm-DDA experimental build 2025-07-18-1710 (916d1aa)
 * migrate "longarm bag" item (#81883)
 * Aftershock: Vehicle bay City Building (#81879)
 * Backport portal storm debugmsg on end fix (#81884)
@@ -124,7 +129,6 @@ Cataclysm-DDA experimental build 2025-07-18-1710 (916d1aa)
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases (#81846)
 * Aftershock: Update cryosuit armor values (#81795)
 * Aftershock: Give the Magellan Exo high environmental defense. (#81802)
-* Aftershock: Lasers cant use UPS, cant be mounted in vehicle. (#81794)
 * fix bashing dropping default charge quantity instead of desired (#81803)
 * fix set_random_fault_of_type() ignoring fault type (#81805)
 * Update terrain-manufactured.json (#81818)
@@ -146,6 +150,4 @@ Cataclysm-DDA experimental build 2025-07-18-1710 (916d1aa)
 * Set Liam's opinion of the player (#81819)
 * Fix forced traits being applied to NPCs (#81806)
 * fix f_player_see erroring if talker is not presented (#81796)
-* Aftershock: Resolve minor bugs with the Spaceship scenario. (#81792)
 * add ShnitzelX2 to comment-commands.yml (#81808)
-* Fix forced traits being applied to NPCs (#81793)

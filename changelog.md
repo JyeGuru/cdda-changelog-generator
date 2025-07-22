@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-22-0246 ([50a88e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0246))
+
+* Only forget vehicle ghost when gaining control ([#81953](https://github.com/CleverRaven/Cataclysm-DDA/pull/81953))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-22-0057 ([129e31c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0057))
+
+* Make autodrive less restricted ([#81945](https://github.com/CleverRaven/Cataclysm-DDA/pull/81945))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-22-0054 ([5e913fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-22-0054))
+
+* [MoM] Fix achivements being granted by NPCs awakening ([#81949](https://github.com/CleverRaven/Cataclysm-DDA/pull/81949))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-21-2040 ([33fc6f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-2040))
 
 * Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
@@ -161,17 +179,7 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-19-0008 ([12e7eab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-19-0008))
 
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81901](https://github.com/CleverRaven/Cataclysm-DDA/pull/81901))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-18-1946 ([d7e1d03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1946))
-
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81888](https://github.com/CleverRaven/Cataclysm-DDA/pull/81888))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-18-1710 ([916d1aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-18-1710))
-
 * migrate "longarm bag" item ([#81883](https://github.com/CleverRaven/Cataclysm-DDA/pull/81883))
 * Aftershock: Vehicle bay City Building ([#81879](https://github.com/CleverRaven/Cataclysm-DDA/pull/81879))
 * Backport portal storm debugmsg on end fix ([#81884](https://github.com/CleverRaven/Cataclysm-DDA/pull/81884))
@@ -208,7 +216,6 @@
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
 * Aftershock: Update cryosuit armor values ([#81795](https://github.com/CleverRaven/Cataclysm-DDA/pull/81795))
 * Aftershock: Give the Magellan Exo high environmental defense. ([#81802](https://github.com/CleverRaven/Cataclysm-DDA/pull/81802))
-* Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81794](https://github.com/CleverRaven/Cataclysm-DDA/pull/81794))
 * fix bashing dropping default charge quantity instead of desired ([#81803](https://github.com/CleverRaven/Cataclysm-DDA/pull/81803))
 * fix set_random_fault_of_type() ignoring fault type ([#81805](https://github.com/CleverRaven/Cataclysm-DDA/pull/81805))
 * Update terrain-manufactured.json ([#81818](https://github.com/CleverRaven/Cataclysm-DDA/pull/81818))
@@ -230,6 +237,4 @@
 * Set Liam's opinion of the player ([#81819](https://github.com/CleverRaven/Cataclysm-DDA/pull/81819))
 * Fix forced traits being applied to NPCs ([#81806](https://github.com/CleverRaven/Cataclysm-DDA/pull/81806))
 * fix f_player_see erroring if talker is not presented ([#81796](https://github.com/CleverRaven/Cataclysm-DDA/pull/81796))
-* Aftershock: Resolve minor bugs with the Spaceship scenario. ([#81792](https://github.com/CleverRaven/Cataclysm-DDA/pull/81792))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))
-* Fix forced traits being applied to NPCs ([#81793](https://github.com/CleverRaven/Cataclysm-DDA/pull/81793))
