@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-22-1537 ([e1b04c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1537))
+
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-07-19-1351 ([ec195b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-1351))
 
 * 2 new freeze-dried meals ([#81886](https://github.com/CleverRaven/Cataclysm-DDA/pull/81886))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-19-0707 ([af81efe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-0707))
-
 * [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
 * Manually backport: Aftershock: Properly update cryosuit defenses. ([#81881](https://github.com/CleverRaven/Cataclysm-DDA/pull/81881))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81891](https://github.com/CleverRaven/Cataclysm-DDA/pull/81891))

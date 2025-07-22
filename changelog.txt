@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-22-1537 (e1b04c5)
 * Flashbang stuff (#81959)
 
 Cataclysm-DDA 0.I release candidate 2025-07-22-1322 (fa46d5f)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-07-19-1936 (b644552)
 
 Cataclysm-DDA experimental build 2025-07-19-1351 (ec195b2)
 * 2 new freeze-dried meals (#81886)
-
-Cataclysm-DDA experimental build 2025-07-19-0707 (af81efe)
 * [XEDRA Evolved] Humaniform Mi-go (#81902)
 * Manually backport: Aftershock: Properly update cryosuit defenses. (#81881)
 * Aftershock: Fix exosuit underlayers so they protect against the cold. (#81891)
