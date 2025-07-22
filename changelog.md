@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-22-1322 ([fa46d5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-22-1322))
+
+* Add E_STORABLE_EXCLUSIVE flag ([#81855](https://github.com/CleverRaven/Cataclysm-DDA/pull/81855))
 * Gate more zstd preprocessor redefines ([#81922](https://github.com/CleverRaven/Cataclysm-DDA/pull/81922))
 * Assign name to Protein Wrapper ([#81930](https://github.com/CleverRaven/Cataclysm-DDA/pull/81930))
 * Reduce melee on Zombie Cops ([#81923](https://github.com/CleverRaven/Cataclysm-DDA/pull/81923))
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-07-19-1936 ([b644552](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-1936))
 
 * Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-19-1650 ([9033f52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-19-1650))
-
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81907](https://github.com/CleverRaven/Cataclysm-DDA/pull/81907))
 
 ---
@@ -230,11 +231,9 @@
 * Disable huge uncacheable emscripten builds. ([#81827](https://github.com/CleverRaven/Cataclysm-DDA/pull/81827))
 * Z-9s drop kevlar harnesses ([#81815](https://github.com/CleverRaven/Cataclysm-DDA/pull/81815))
 * Finalize requirement data for fault fixes ([#81825](https://github.com/CleverRaven/Cataclysm-DDA/pull/81825))
-* Pantry charges ([#81807](https://github.com/CleverRaven/Cataclysm-DDA/pull/81807))
 * split up SUS fridge itemgroups ([#81812](https://github.com/CleverRaven/Cataclysm-DDA/pull/81812))
 * Remove 4.6mm and MP7 ([#81813](https://github.com/CleverRaven/Cataclysm-DDA/pull/81813))
 * Learning defensive driving in the cataclysm?! Don't mind if I do... ([#81814](https://github.com/CleverRaven/Cataclysm-DDA/pull/81814))
 * The esoteric and you ([#81817](https://github.com/CleverRaven/Cataclysm-DDA/pull/81817))
 * Set Liam's opinion of the player ([#81819](https://github.com/CleverRaven/Cataclysm-DDA/pull/81819))
-* Fix forced traits being applied to NPCs ([#81806](https://github.com/CleverRaven/Cataclysm-DDA/pull/81806))
 * add ShnitzelX2 to comment-commands.yml ([#81808](https://github.com/CleverRaven/Cataclysm-DDA/pull/81808))

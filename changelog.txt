@@ -1,3 +1,6 @@
+
+Cataclysm-DDA 0.I release candidate 2025-07-22-1322 (fa46d5f)
+* Add E_STORABLE_EXCLUSIVE flag (#81855)
 * Gate more zstd preprocessor redefines (#81922)
 * Assign name to Protein Wrapper (#81930)
 * Reduce melee on Zombie Cops (#81923)
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2025-07-19-2207 (92cf853)
 
 Cataclysm-DDA experimental build 2025-07-19-1936 (b644552)
 * Fix greenhouse_5x5_roof (#81913)
-
-Cataclysm-DDA 0.I release candidate 2025-07-19-1650 (9033f52)
 * Aftershock: Fix exosuit underlayers so they protect against the cold. (#81907)
 
 Cataclysm-DDA experimental build 2025-07-19-1351 (ec195b2)
@@ -143,11 +144,9 @@ Cataclysm-DDA experimental build 2025-07-19-0540 (7e750a9)
 * Disable huge uncacheable emscripten builds. (#81827)
 * Z-9s drop kevlar harnesses (#81815)
 * Finalize requirement data for fault fixes (#81825)
-* Pantry charges (#81807)
 * split up SUS fridge itemgroups (#81812)
 * Remove 4.6mm and MP7 (#81813)
 * Learning defensive driving in the cataclysm?! Don't mind if I do... (#81814)
 * The esoteric and you (#81817)
 * Set Liam's opinion of the player (#81819)
-* Fix forced traits being applied to NPCs (#81806)
 * add ShnitzelX2 to comment-commands.yml (#81808)
