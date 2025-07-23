@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-23-1748 ([54a6896](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-1748))
+
+* [Xedra Evolvd] Add AoE to Clap of Thunder Sylph glamour ([#81982](https://github.com/CleverRaven/Cataclysm-DDA/pull/81982))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-23-1524 ([31f96a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-1524))
 
 * Aftershock Update loading screen to actually get rid of off-black areas ([#81977](https://github.com/CleverRaven/Cataclysm-DDA/pull/81977))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-07-20-1657 ([e7f5c3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-1657))
 
 * Move post 0.I split migration/obsoletion to a new folder ([#81914](https://github.com/CleverRaven/Cataclysm-DDA/pull/81914))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-20-1541 ([e0e9994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-1541))
-
 * [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts ([#81926](https://github.com/CleverRaven/Cataclysm-DDA/pull/81926))
 * fix Start Vehicle Construction cancelling ([#81912](https://github.com/CleverRaven/Cataclysm-DDA/pull/81912))
 * Remove "pair of" and "pairs of" wording from the arms armor ([#81910](https://github.com/CleverRaven/Cataclysm-DDA/pull/81910))
