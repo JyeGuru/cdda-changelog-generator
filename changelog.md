@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-23-1524 ([31f96a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-1524))
+
+* Aftershock Update loading screen to actually get rid of off-black areas ([#81977](https://github.com/CleverRaven/Cataclysm-DDA/pull/81977))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-07-23-1459 ([7851fe9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-23-1459))
 
 * [ Aftershock ]Add Wiring AFS ([#81978](https://github.com/CleverRaven/Cataclysm-DDA/pull/81978))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-07-20-1541 ([e0e9994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-1541))
 
 * [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts ([#81926](https://github.com/CleverRaven/Cataclysm-DDA/pull/81926))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-20-0521 ([1efa6e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-0521))
-
 * fix Start Vehicle Construction cancelling ([#81912](https://github.com/CleverRaven/Cataclysm-DDA/pull/81912))
 * Remove "pair of" and "pairs of" wording from the arms armor ([#81910](https://github.com/CleverRaven/Cataclysm-DDA/pull/81910))
 * add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
@@ -222,7 +223,6 @@
 * [Xedra Evolved] Bloodthorne druids are banned from dream magick ([#81859](https://github.com/CleverRaven/Cataclysm-DDA/pull/81859))
 * Aftershock: Induction hotplates are more common in kitchenettes ([#81864](https://github.com/CleverRaven/Cataclysm-DDA/pull/81864))
 * [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))
-* Modernity?! In my Cataclysm?! (Professions: Books in smartphones, smartwatches) ([#81820](https://github.com/CleverRaven/Cataclysm-DDA/pull/81820))
 * [MoM] Add meditation books to esoteric_books ([#81853](https://github.com/CleverRaven/Cataclysm-DDA/pull/81853))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81856](https://github.com/CleverRaven/Cataclysm-DDA/pull/81856))
 * Hair dye kits in bathrooms ([#81860](https://github.com/CleverRaven/Cataclysm-DDA/pull/81860))
