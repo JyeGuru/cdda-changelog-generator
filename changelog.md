@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-23-0505 ([1204fcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0505))
+
+* Gate final ungated zstd define for real this time. ([#81972](https://github.com/CleverRaven/Cataclysm-DDA/pull/81972))
 * Remove "pair of" and "pairs of" wording from the brigandine armor ([#81927](https://github.com/CleverRaven/Cataclysm-DDA/pull/81927))
 
 ---
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-07-20-0420 ([3e70e41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-20-0420))
 
 * add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-19-2313 ([f8c7f1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-2313))
-
 * Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
 * print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))
 * Implement uncrafting test ([#81830](https://github.com/CleverRaven/Cataclysm-DDA/pull/81830))
@@ -237,7 +238,6 @@
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
-* Update terrain-manufactured.json ([#81818](https://github.com/CleverRaven/Cataclysm-DDA/pull/81818))
 * descriptive names for canned recipes ([#81824](https://github.com/CleverRaven/Cataclysm-DDA/pull/81824))
 * fix opened seals in fridges, add oat milk ([#81828](https://github.com/CleverRaven/Cataclysm-DDA/pull/81828))
 * Disable huge uncacheable emscripten builds. ([#81827](https://github.com/CleverRaven/Cataclysm-DDA/pull/81827))
