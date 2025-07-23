@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2025-07-23-1459 (7851fe9)
+* [ Aftershock ]Add Wiring AFS (#81978)
+
 Cataclysm-DDA experimental build 2025-07-23-0505 (1204fcb)
 * Gate final ungated zstd define for real this time. (#81972)
 * Remove "pair of" and "pairs of" wording from the brigandine armor (#81927)
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2025-07-20-1541 (e0e9994)
 Cataclysm-DDA experimental build 2025-07-20-0521 (1efa6e8)
 * fix Start Vehicle Construction cancelling (#81912)
 * Remove "pair of" and "pairs of" wording from the arms armor (#81910)
-
-Cataclysm-DDA experimental build 2025-07-20-0420 (3e70e41)
 * add cheese wheels (#81918)
 * Fix unnecessary macro redefintion warnings from zstd (#81917)
 * print correct ammo damage in wielding menu (#81916)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2025-07-20-0420 (3e70e41)
 * fix opened seals in fridges, add oat milk (#81828)
 * Disable huge uncacheable emscripten builds. (#81827)
 * Finalize requirement data for fault fixes (#81825)
-* Set Liam's opinion of the player (#81819)
