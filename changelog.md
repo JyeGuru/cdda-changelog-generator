@@ -1,3 +1,24 @@
+* Remove "pair of" and "pairs of" wording from the brigandine armor ([#81927](https://github.com/CleverRaven/Cataclysm-DDA/pull/81927))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-23-0405 ([dca823d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0405))
+
+* Fix scenarios that change starting year doing so incorrectly on first load ([#81904](https://github.com/CleverRaven/Cataclysm-DDA/pull/81904))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-23-0252 ([e8f7a8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0252))
+
+* NPC AI: Fleeing optimizations ([#81866](https://github.com/CleverRaven/Cataclysm-DDA/pull/81866))
+* [MoM] Add phosphorescent amalgamation ([#81956](https://github.com/CleverRaven/Cataclysm-DDA/pull/81956))
+* dry goods itemgroup audit ([#81964](https://github.com/CleverRaven/Cataclysm-DDA/pull/81964))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-23-0201 ([2c301f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0201))
+
+* [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
 
 ---
 
@@ -169,20 +190,10 @@
 #### Cataclysm-DDA experimental build 2025-07-19-2313 ([f8c7f1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-2313))
 
 * Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-19-2207 ([92cf853](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-2207))
-
 * print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))
 * Implement uncrafting test ([#81830](https://github.com/CleverRaven/Cataclysm-DDA/pull/81830))
 * Split river/lake/ocean-related functions from overmap.cpp ([#81878](https://github.com/CleverRaven/Cataclysm-DDA/pull/81878))
 * Routine i18n updates on 19 July 2025 ([#81905](https://github.com/CleverRaven/Cataclysm-DDA/pull/81905))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-19-1936 ([b644552](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-19-1936))
-
 * Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81907](https://github.com/CleverRaven/Cataclysm-DDA/pull/81907))
 * 2 new freeze-dried meals ([#81886](https://github.com/CleverRaven/Cataclysm-DDA/pull/81886))
@@ -230,10 +241,5 @@
 * descriptive names for canned recipes ([#81824](https://github.com/CleverRaven/Cataclysm-DDA/pull/81824))
 * fix opened seals in fridges, add oat milk ([#81828](https://github.com/CleverRaven/Cataclysm-DDA/pull/81828))
 * Disable huge uncacheable emscripten builds. ([#81827](https://github.com/CleverRaven/Cataclysm-DDA/pull/81827))
-* Z-9s drop kevlar harnesses ([#81815](https://github.com/CleverRaven/Cataclysm-DDA/pull/81815))
 * Finalize requirement data for fault fixes ([#81825](https://github.com/CleverRaven/Cataclysm-DDA/pull/81825))
-* split up SUS fridge itemgroups ([#81812](https://github.com/CleverRaven/Cataclysm-DDA/pull/81812))
-* Remove 4.6mm and MP7 ([#81813](https://github.com/CleverRaven/Cataclysm-DDA/pull/81813))
-* Learning defensive driving in the cataclysm?! Don't mind if I do... ([#81814](https://github.com/CleverRaven/Cataclysm-DDA/pull/81814))
-* The esoteric and you ([#81817](https://github.com/CleverRaven/Cataclysm-DDA/pull/81817))
 * Set Liam's opinion of the player ([#81819](https://github.com/CleverRaven/Cataclysm-DDA/pull/81819))
