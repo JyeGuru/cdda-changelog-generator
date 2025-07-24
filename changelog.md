@@ -1,3 +1,4 @@
+* run toc.yml on any changes to the doc directory ([#82017](https://github.com/CleverRaven/Cataclysm-DDA/pull/82017))
 
 ---
 
@@ -242,5 +243,4 @@
 * Aftershock: Survival heaters produce temporary AC ([#81863](https://github.com/CleverRaven/Cataclysm-DDA/pull/81863))
 * Punching bags can be built from different types of blankets ([#81851](https://github.com/CleverRaven/Cataclysm-DDA/pull/81851))
 * note that you cannot repair fault_blade_cracked, fix it's weight ([#81852](https://github.com/CleverRaven/Cataclysm-DDA/pull/81852))
-* Backport molotov fixes to 0.I ([#81848](https://github.com/CleverRaven/Cataclysm-DDA/pull/81848))
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))

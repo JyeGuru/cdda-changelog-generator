@@ -1,3 +1,4 @@
+* run toc.yml on any changes to the doc directory (#82017)
 
 Cataclysm-DDA 0.I release candidate 2025-07-24-1446 (668348e)
 * [Isolation Protocol] Mark other total conversions as incompatible (#82012)
@@ -152,5 +153,4 @@ Cataclysm-DDA experimental build 2025-07-21-0654 (f32f21b)
 * Aftershock: Survival heaters produce temporary AC (#81863)
 * Punching bags can be built from different types of blankets (#81851)
 * note that you cannot repair fault_blade_cracked, fix it's weight (#81852)
-* Backport molotov fixes to 0.I (#81848)
 * update bugout bags (#81849)
