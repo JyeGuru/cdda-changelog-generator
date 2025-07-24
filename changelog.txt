@@ -1,4 +1,13 @@
 
+Cataclysm-DDA experimental build 2025-07-24-0259 (58ffc3c)
+* Fix canned food condition names (#81980)
+* [MoM] Doc format fixing (#81998)
+* Prevent reading the evac bulletin when it's too dark (#82000)
+* [Xedra Evolved] Add "Nether Cult" strange cabin (#81941)
+
+Cataclysm-DDA experimental build 2025-07-24-0210 (8ad1709)
+* [Xedra Evolved/Magiclysm] Fix changelings being assigned the Human heritage trait (#81985)
+
 Cataclysm-DDA experimental build 2025-07-23-1748 (54a6896)
 * [Xedra Evolvd] Add AoE to Clap of Thunder Sylph glamour (#81982)
 
@@ -83,8 +92,6 @@ Cataclysm-DDA 0.I release candidate 2025-07-21-0603 (793f476)
 
 Cataclysm-DDA experimental build 2025-07-21-0539 (c7d1bab)
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` (#81925)
-
-Cataclysm-DDA 0.I release candidate 2025-07-21-0409 (376608c)
 * Fix greenhouse_5x5_roof (#81919)
 
 Cataclysm-DDA experimental build 2025-07-21-0408 (fd4a3fa)
@@ -96,8 +103,6 @@ Cataclysm-DDA experimental build 2025-07-21-0212 (b610e1a)
 Cataclysm-DDA experimental build 2025-07-21-0053 (fe63f0a)
 * Fix const to appease clang (#81932)
 * Bump up number of boomer shots in projectil test (#81931)
-
-Cataclysm-DDA experimental build 2025-07-20-1657 (e7f5c3c)
 * Move post 0.I split migration/obsoletion to a new folder (#81914)
 * [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts (#81926)
 * fix Start Vehicle Construction cancelling (#81912)
@@ -139,7 +144,6 @@ Cataclysm-DDA experimental build 2025-07-20-1657 (e7f5c3c)
 * Hair dye kits in bathrooms (#81860)
 * Aftershock: Survival heaters produce temporary AC (#81863)
 * Punching bags can be built from different types of blankets (#81851)
-* Add E_STORABLE_EXCLUSIVE flag (#81829)
 * note that you cannot repair fault_blade_cracked, fix it's weight (#81852)
 * Aftershock: Give the Magellan Exo high environmental defense. (#81845)
 * [Xedra Evolved] Cabin cellars (#81839)
@@ -150,7 +154,3 @@ Cataclysm-DDA experimental build 2025-07-20-1657 (e7f5c3c)
 * update bugout bags (#81849)
 * Aftershock: Lasers cant use UPS, cant be mounted in vehicle. (#81844)
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases (#81846)
-* descriptive names for canned recipes (#81824)
-* fix opened seals in fridges, add oat milk (#81828)
-* Disable huge uncacheable emscripten builds. (#81827)
-* Finalize requirement data for fault fixes (#81825)
