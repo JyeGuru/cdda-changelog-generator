@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-24-0356 (353115f)
+* [MoM] Fix illuminate description (#81994)
+
 Cataclysm-DDA experimental build 2025-07-24-0259 (58ffc3c)
 * Fix canned food condition names (#81980)
 * [MoM] Doc format fixing (#81998)
@@ -85,8 +88,6 @@ Cataclysm-DDA 0.I release candidate 2025-07-21-1316 (53637b1)
 
 Cataclysm-DDA experimental build 2025-07-21-0654 (f32f21b)
 * Remove IRRITANT_IMMUNE from armors [need #72271 merged first] (#81909)
-
-Cataclysm-DDA 0.I release candidate 2025-07-21-0603 (793f476)
 * fix Start Vehicle Construction cancelling (#81924)
 * print correct ammo damage in wielding menu (#81920)
 
@@ -110,7 +111,6 @@ Cataclysm-DDA experimental build 2025-07-21-0053 (fe63f0a)
 * add cheese wheels (#81918)
 * Fix unnecessary macro redefintion warnings from zstd (#81917)
 * print correct ammo damage in wielding menu (#81916)
-* Implement uncrafting test (#81830)
 * Split river/lake/ocean-related functions from overmap.cpp (#81878)
 * Routine i18n updates on 19 July 2025 (#81905)
 * Fix greenhouse_5x5_roof (#81913)

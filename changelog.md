@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-24-0356 ([353115f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0356))
+
+* [MoM] Fix illuminate description ([#81994](https://github.com/CleverRaven/Cataclysm-DDA/pull/81994))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-24-0259 ([58ffc3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0259))
 
 * Fix canned food condition names ([#81980](https://github.com/CleverRaven/Cataclysm-DDA/pull/81980))
@@ -160,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-07-21-0654 ([f32f21b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0654))
 
 * Remove IRRITANT_IMMUNE from armors [need #72271 merged first] ([#81909](https://github.com/CleverRaven/Cataclysm-DDA/pull/81909))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-21-0603 ([793f476](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-21-0603))
-
 * fix Start Vehicle Construction cancelling ([#81924](https://github.com/CleverRaven/Cataclysm-DDA/pull/81924))
 * print correct ammo damage in wielding menu ([#81920](https://github.com/CleverRaven/Cataclysm-DDA/pull/81920))
 
@@ -200,7 +201,6 @@
 * add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
 * Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
 * print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))
-* Implement uncrafting test ([#81830](https://github.com/CleverRaven/Cataclysm-DDA/pull/81830))
 * Split river/lake/ocean-related functions from overmap.cpp ([#81878](https://github.com/CleverRaven/Cataclysm-DDA/pull/81878))
 * Routine i18n updates on 19 July 2025 ([#81905](https://github.com/CleverRaven/Cataclysm-DDA/pull/81905))
 * Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
