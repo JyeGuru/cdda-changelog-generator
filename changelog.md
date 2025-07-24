@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-24-1446 ([668348e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-24-1446))
+
 * [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
 
 ---
@@ -191,11 +196,6 @@
 * Remove IRRITANT_IMMUNE from armors [need #72271 merged first] ([#81909](https://github.com/CleverRaven/Cataclysm-DDA/pull/81909))
 * fix Start Vehicle Construction cancelling ([#81924](https://github.com/CleverRaven/Cataclysm-DDA/pull/81924))
 * print correct ammo damage in wielding menu ([#81920](https://github.com/CleverRaven/Cataclysm-DDA/pull/81920))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-21-0539 ([c7d1bab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0539))
-
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81925](https://github.com/CleverRaven/Cataclysm-DDA/pull/81925))
 * Fix greenhouse_5x5_roof ([#81919](https://github.com/CleverRaven/Cataclysm-DDA/pull/81919))
 * [Xedra Evolved] Update `EOC_CONDITION_CHECK_ARVORE_ON_NATURAL_TERRAIN` to account for bark floors  ([#81936](https://github.com/CleverRaven/Cataclysm-DDA/pull/81936))

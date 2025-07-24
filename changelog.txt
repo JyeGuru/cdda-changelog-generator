@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-07-24-1446 (668348e)
 * [Isolation Protocol] Mark other total conversions as incompatible (#82012)
 
 Cataclysm-DDA experimental build 2025-07-24-1432 (0473ef4)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-07-21-0654 (f32f21b)
 * Remove IRRITANT_IMMUNE from armors [need #72271 merged first] (#81909)
 * fix Start Vehicle Construction cancelling (#81924)
 * print correct ammo damage in wielding menu (#81920)
-
-Cataclysm-DDA experimental build 2025-07-21-0539 (c7d1bab)
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` (#81925)
 * Fix greenhouse_5x5_roof (#81919)
 * [Xedra Evolved] Update `EOC_CONDITION_CHECK_ARVORE_ON_NATURAL_TERRAIN` to account for bark floors  (#81936)
