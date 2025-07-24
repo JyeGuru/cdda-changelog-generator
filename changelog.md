@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-07-24-1253 ([6652c93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-24-1253))
+
+* [Aftershock] Mark Sky Islands incompatible ([#82011](https://github.com/CleverRaven/Cataclysm-DDA/pull/82011))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-24-0606 ([113586b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0606))
 
 * Make more parking lot omts looks_like s_lot ([#81981](https://github.com/CleverRaven/Cataclysm-DDA/pull/81981))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-07-21-0408 ([fd4a3fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0408))
 
 * [Xedra Evolved] Update `EOC_CONDITION_CHECK_ARVORE_ON_NATURAL_TERRAIN` to account for bark floors  ([#81936](https://github.com/CleverRaven/Cataclysm-DDA/pull/81936))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-21-0212 ([b610e1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0212))
-
 * Docs explain how to use multiple proficiencies in fault fixes ([#81892](https://github.com/CleverRaven/Cataclysm-DDA/pull/81892))
 * Fix const to appease clang ([#81932](https://github.com/CleverRaven/Cataclysm-DDA/pull/81932))
 * Bump up number of boomer shots in projectil test ([#81931](https://github.com/CleverRaven/Cataclysm-DDA/pull/81931))
@@ -242,5 +243,4 @@
 * Aftershock: Give the Magellan Exo high environmental defense. ([#81845](https://github.com/CleverRaven/Cataclysm-DDA/pull/81845))
 * Backport molotov fixes to 0.I ([#81848](https://github.com/CleverRaven/Cataclysm-DDA/pull/81848))
 * update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
-* Aftershock: Lasers cant use UPS, cant be mounted in vehicle. ([#81844](https://github.com/CleverRaven/Cataclysm-DDA/pull/81844))
 * fix autopulping pulping corpses that do not need to be pulped, fix pulp time being 0 in some cases ([#81846](https://github.com/CleverRaven/Cataclysm-DDA/pull/81846))
