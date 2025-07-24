@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-24-0606 ([113586b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0606))
+
 * Make more parking lot omts looks_like s_lot ([#81981](https://github.com/CleverRaven/Cataclysm-DDA/pull/81981))
 * [Isolation Protocol] Mark other total conversions as incompatible ([#81989](https://github.com/CleverRaven/Cataclysm-DDA/pull/81989))
 * Expand usage of doctoc for md file table of content generation ([#81970](https://github.com/CleverRaven/Cataclysm-DDA/pull/81970))
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-07-21-0212 ([b610e1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0212))
 
 * Docs explain how to use multiple proficiencies in fault fixes ([#81892](https://github.com/CleverRaven/Cataclysm-DDA/pull/81892))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-21-0053 ([fe63f0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0053))
-
 * Fix const to appease clang ([#81932](https://github.com/CleverRaven/Cataclysm-DDA/pull/81932))
 * Bump up number of boomer shots in projectil test ([#81931](https://github.com/CleverRaven/Cataclysm-DDA/pull/81931))
 * Move post 0.I split migration/obsoletion to a new folder ([#81914](https://github.com/CleverRaven/Cataclysm-DDA/pull/81914))
