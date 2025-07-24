@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-07-24-2319 (893799a)
+* [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light (#82023)
 * run toc.yml on any changes to the doc directory (#82017)
 
 Cataclysm-DDA 0.I release candidate 2025-07-24-1446 (668348e)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-07-21-1501 (011ace7)
 Cataclysm-DDA experimental build 2025-07-21-1354 (bc4e223)
 * [MoM] Fix achivements being granted by NPCs awakening (#81939)
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` (#81943)
-
-Cataclysm-DDA experimental build 2025-07-21-0654 (f32f21b)
 * Remove IRRITANT_IMMUNE from armors [need #72271 merged first] (#81909)
 * fix Start Vehicle Construction cancelling (#81924)
 * print correct ammo damage in wielding menu (#81920)
@@ -153,4 +154,3 @@ Cataclysm-DDA experimental build 2025-07-21-0654 (f32f21b)
 * Aftershock: Survival heaters produce temporary AC (#81863)
 * Punching bags can be built from different types of blankets (#81851)
 * note that you cannot repair fault_blade_cracked, fix it's weight (#81852)
-* update bugout bags (#81849)

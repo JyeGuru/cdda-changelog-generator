@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-24-2319 ([893799a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-2319))
+
+* [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light ([#82023](https://github.com/CleverRaven/Cataclysm-DDA/pull/82023))
 * run toc.yml on any changes to the doc directory ([#82017](https://github.com/CleverRaven/Cataclysm-DDA/pull/82017))
 
 ---
@@ -189,11 +195,6 @@
 
 * [MoM] Fix achivements being granted by NPCs awakening ([#81939](https://github.com/CleverRaven/Cataclysm-DDA/pull/81939))
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81943](https://github.com/CleverRaven/Cataclysm-DDA/pull/81943))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-21-0654 ([f32f21b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-0654))
-
 * Remove IRRITANT_IMMUNE from armors [need #72271 merged first] ([#81909](https://github.com/CleverRaven/Cataclysm-DDA/pull/81909))
 * fix Start Vehicle Construction cancelling ([#81924](https://github.com/CleverRaven/Cataclysm-DDA/pull/81924))
 * print correct ammo damage in wielding menu ([#81920](https://github.com/CleverRaven/Cataclysm-DDA/pull/81920))
@@ -243,4 +244,3 @@
 * Aftershock: Survival heaters produce temporary AC ([#81863](https://github.com/CleverRaven/Cataclysm-DDA/pull/81863))
 * Punching bags can be built from different types of blankets ([#81851](https://github.com/CleverRaven/Cataclysm-DDA/pull/81851))
 * note that you cannot repair fault_blade_cracked, fix it's weight ([#81852](https://github.com/CleverRaven/Cataclysm-DDA/pull/81852))
-* update bugout bags ([#81849](https://github.com/CleverRaven/Cataclysm-DDA/pull/81849))
