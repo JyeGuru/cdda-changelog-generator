@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-25-2153 ([4af9d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-2153))
+
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
 
 ---
@@ -190,11 +195,6 @@
 
 * Remove Source Safety from generic rural buildings ([#81966](https://github.com/CleverRaven/Cataclysm-DDA/pull/81966))
 * Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-22-0407 ([49df25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0407))
-
 * Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
 * Only forget vehicle ghost when gaining control ([#81953](https://github.com/CleverRaven/Cataclysm-DDA/pull/81953))
 * Make autodrive less restricted ([#81945](https://github.com/CleverRaven/Cataclysm-DDA/pull/81945))

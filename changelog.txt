@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-25-2153 (4af9d3f)
 * can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)
 
 Cataclysm-DDA experimental build 2025-07-25-1831 (03e6a42)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-07-22-1303 (41bf407)
 Cataclysm-DDA experimental build 2025-07-22-0745 (ceb999f)
 * Remove Source Safety from generic rural buildings (#81966)
 * Use naked prisoners for boomer tests rather than thugs (#81954)
-
-Cataclysm-DDA experimental build 2025-07-22-0407 (49df25b)
 * Make full and half field stone wall bash results more consistent (#81958)
 * Only forget vehicle ghost when gaining control (#81953)
 * Make autodrive less restricted (#81945)
