@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-25-2314 ([5988285](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-2314))
+
+* [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot ([#82035](https://github.com/CleverRaven/Cataclysm-DDA/pull/82035))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-25-2153 ([4af9d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-2153))
 
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-07-22-1303 ([41bf407](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1303))
 
 * Loudness adjustments for subsonic rounds ([#81965](https://github.com/CleverRaven/Cataclysm-DDA/pull/81965))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-22-0745 ([ceb999f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0745))
-
 * Remove Source Safety from generic rural buildings ([#81966](https://github.com/CleverRaven/Cataclysm-DDA/pull/81966))
 * Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
 * Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
@@ -241,5 +242,4 @@
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
-* Aftershock: Induction hotplates are more common in kitchenettes ([#81864](https://github.com/CleverRaven/Cataclysm-DDA/pull/81864))
 * [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))

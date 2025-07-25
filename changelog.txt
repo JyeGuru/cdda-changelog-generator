@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-25-2314 (5988285)
+* [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot (#82035)
+
 Cataclysm-DDA experimental build 2025-07-25-2153 (4af9d3f)
 * can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2025-07-22-1411 (919357d)
 
 Cataclysm-DDA experimental build 2025-07-22-1303 (41bf407)
 * Loudness adjustments for subsonic rounds (#81965)
-
-Cataclysm-DDA experimental build 2025-07-22-0745 (ceb999f)
 * Remove Source Safety from generic rural buildings (#81966)
 * Use naked prisoners for boomer tests rather than thugs (#81954)
 * Make full and half field stone wall bash results more consistent (#81958)
@@ -151,5 +152,4 @@ Cataclysm-DDA experimental build 2025-07-22-0745 (ceb999f)
 * Aftershock: Vehicle bay City Building (#81873)
 * Aftershock: Humaniforms can execute humanoid monsters (#81869)
 * Aftershock: Survival heaters produce temporary AC (#81868)
-* Aftershock: Induction hotplates are more common in kitchenettes (#81864)
 * [Xedra Evolved] Vampires can't level dream magick (#81867)
