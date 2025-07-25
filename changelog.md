@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-25-1831 ([03e6a42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-1831))
+
+* Tacoma Ranch quests refers to the correct amount of sugar in actual weight ([#82033](https://github.com/CleverRaven/Cataclysm-DDA/pull/82033))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-07-25-1635 ([d1a9979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-25-1635))
 
 * Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-07-22-0407 ([49df25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0407))
 
 * Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-22-0246 ([50a88e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0246))
-
 * Only forget vehicle ghost when gaining control ([#81953](https://github.com/CleverRaven/Cataclysm-DDA/pull/81953))
 * Make autodrive less restricted ([#81945](https://github.com/CleverRaven/Cataclysm-DDA/pull/81945))
 * [MoM] Fix achivements being granted by NPCs awakening ([#81949](https://github.com/CleverRaven/Cataclysm-DDA/pull/81949))
@@ -236,7 +237,6 @@
 * Add roof to balthazar bunker ([#81887](https://github.com/CleverRaven/Cataclysm-DDA/pull/81887))
 * Manually backport "Aftershock: Add mod achievements and lock challenge scenarios …" ([#81875](https://github.com/CleverRaven/Cataclysm-DDA/pull/81875))
 * Nerf saw tool damage, migrate away combatsaws ([#81865](https://github.com/CleverRaven/Cataclysm-DDA/pull/81865))
-* Aftershock: Properly update cryosuit defenses. ([#81862](https://github.com/CleverRaven/Cataclysm-DDA/pull/81862))
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
