@@ -1,3 +1,4 @@
+* can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)
 
 Cataclysm-DDA experimental build 2025-07-25-1831 (03e6a42)
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight (#82033)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2025-07-22-0407 (49df25b)
 * Aftershock: Survival heaters produce temporary AC (#81868)
 * Aftershock: Induction hotplates are more common in kitchenettes (#81864)
 * [Xedra Evolved] Vampires can't level dream magick (#81867)
-* Aftershock: Survival heaters produce temporary AC (#81863)
