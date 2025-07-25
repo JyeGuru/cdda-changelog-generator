@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-25-0216 ([ab4fedd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-0216))
+
+* Move debug options to debug menu ([#82021](https://github.com/CleverRaven/Cataclysm-DDA/pull/82021))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-25-0110 ([aaf8025](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-0110))
+
 * Aftershock: Small price updates for vendors ([#82016](https://github.com/CleverRaven/Cataclysm-DDA/pull/82016))
 * Fix eocs of Mansion Escape scenario ([#82018](https://github.com/CleverRaven/Cataclysm-DDA/pull/82018))
 
@@ -127,12 +138,6 @@
 
 ---
 
-#### Cataclysm-DDA 0.I release candidate 2025-07-22-1322 ([fa46d5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-22-1322))
-
-* Add E_STORABLE_EXCLUSIVE flag ([#81855](https://github.com/CleverRaven/Cataclysm-DDA/pull/81855))
-
----
-
 #### Cataclysm-DDA experimental build 2025-07-22-1411 ([919357d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1411))
 
 * Gate more zstd preprocessor redefines ([#81922](https://github.com/CleverRaven/Cataclysm-DDA/pull/81922))
@@ -184,17 +189,7 @@
 #### Cataclysm-DDA experimental build 2025-07-21-2040 ([33fc6f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-2040))
 
 * Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-21-1926 ([2132336](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-1926))
-
 * Always show clean water on top of consume menu ([#81947](https://github.com/CleverRaven/Cataclysm-DDA/pull/81947))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-21-1501 ([011ace7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-1501))
-
 * Aftershock: Update title art ([#81935](https://github.com/CleverRaven/Cataclysm-DDA/pull/81935))
 * [MoM] Fix achivements being granted by NPCs awakening ([#81939](https://github.com/CleverRaven/Cataclysm-DDA/pull/81939))
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81943](https://github.com/CleverRaven/Cataclysm-DDA/pull/81943))

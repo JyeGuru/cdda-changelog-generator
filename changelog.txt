@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2025-07-25-0216 (ab4fedd)
+* Move debug options to debug menu (#82021)
+
+Cataclysm-DDA experimental build 2025-07-25-0110 (aaf8025)
 * Aftershock: Small price updates for vendors (#82016)
 * Fix eocs of Mansion Escape scenario (#82018)
 
@@ -68,9 +73,6 @@ Cataclysm-DDA experimental build 2025-07-22-1954 (a611f7a)
 Cataclysm-DDA experimental build 2025-07-22-1537 (e1b04c5)
 * Flashbang stuff (#81959)
 
-Cataclysm-DDA 0.I release candidate 2025-07-22-1322 (fa46d5f)
-* Add E_STORABLE_EXCLUSIVE flag (#81855)
-
 Cataclysm-DDA experimental build 2025-07-22-1411 (919357d)
 * Gate more zstd preprocessor redefines (#81922)
 * Assign name to Protein Wrapper (#81930)
@@ -100,11 +102,7 @@ Cataclysm-DDA 0.I release candidate 2025-07-22-0054 (5e913fb)
 
 Cataclysm-DDA experimental build 2025-07-21-2040 (33fc6f0)
 * Add PERMEABLE to various terrain (#81957)
-
-Cataclysm-DDA experimental build 2025-07-21-1926 (2132336)
 * Always show clean water on top of consume menu (#81947)
-
-Cataclysm-DDA experimental build 2025-07-21-1501 (011ace7)
 * Aftershock: Update title art (#81935)
 * [MoM] Fix achivements being granted by NPCs awakening (#81939)
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` (#81943)
