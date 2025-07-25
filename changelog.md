@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-25-0455 ([0e1f8ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-0455))
+
+* The human mouth isn't attractive anymore ([#81992](https://github.com/CleverRaven/Cataclysm-DDA/pull/81992))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-25-0216 ([ab4fedd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-0216))
 
 * Move debug options to debug menu ([#82021](https://github.com/CleverRaven/Cataclysm-DDA/pull/82021))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-22-0054 ([5e913fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-22-0054))
 
 * [MoM] Fix achivements being granted by NPCs awakening ([#81949](https://github.com/CleverRaven/Cataclysm-DDA/pull/81949))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-21-2040 ([33fc6f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-21-2040))
-
 * Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
 * Always show clean water on top of consume menu ([#81947](https://github.com/CleverRaven/Cataclysm-DDA/pull/81947))
 * Aftershock: Update title art ([#81935](https://github.com/CleverRaven/Cataclysm-DDA/pull/81935))
@@ -236,6 +237,5 @@
 * [Xedra Evolved] Bloodthorne druids are banned from dream magick ([#81859](https://github.com/CleverRaven/Cataclysm-DDA/pull/81859))
 * Aftershock: Induction hotplates are more common in kitchenettes ([#81864](https://github.com/CleverRaven/Cataclysm-DDA/pull/81864))
 * [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))
-* Aftershock: Humaniforms can execute humanoid monsters ([#81856](https://github.com/CleverRaven/Cataclysm-DDA/pull/81856))
 * Hair dye kits in bathrooms ([#81860](https://github.com/CleverRaven/Cataclysm-DDA/pull/81860))
 * Aftershock: Survival heaters produce temporary AC ([#81863](https://github.com/CleverRaven/Cataclysm-DDA/pull/81863))

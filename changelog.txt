@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-25-0455 (0e1f8ae)
+* The human mouth isn't attractive anymore (#81992)
+
 Cataclysm-DDA experimental build 2025-07-25-0216 (ab4fedd)
 * Move debug options to debug menu (#82021)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2025-07-22-0057 (129e31c)
 
 Cataclysm-DDA 0.I release candidate 2025-07-22-0054 (5e913fb)
 * [MoM] Fix achivements being granted by NPCs awakening (#81949)
-
-Cataclysm-DDA experimental build 2025-07-21-2040 (33fc6f0)
 * Add PERMEABLE to various terrain (#81957)
 * Always show clean water on top of consume menu (#81947)
 * Aftershock: Update title art (#81935)
@@ -149,6 +150,5 @@ Cataclysm-DDA experimental build 2025-07-21-2040 (33fc6f0)
 * [Xedra Evolved] Bloodthorne druids are banned from dream magick (#81859)
 * Aftershock: Induction hotplates are more common in kitchenettes (#81864)
 * [Xedra Evolved] Vampires can't level dream magick (#81867)
-* Aftershock: Humaniforms can execute humanoid monsters (#81856)
 * Hair dye kits in bathrooms (#81860)
 * Aftershock: Survival heaters produce temporary AC (#81863)
