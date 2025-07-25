@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-07-25-1635 ([d1a9979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-25-1635))
+
+* Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-25-1556 ([69a77d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-1556))
 
 * [MoM] Remove double minus 100 from awakening calculations ([#81991](https://github.com/CleverRaven/Cataclysm-DDA/pull/81991))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-07-22-0246 ([50a88e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0246))
 
 * Only forget vehicle ghost when gaining control ([#81953](https://github.com/CleverRaven/Cataclysm-DDA/pull/81953))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-22-0057 ([129e31c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-0057))
-
 * Make autodrive less restricted ([#81945](https://github.com/CleverRaven/Cataclysm-DDA/pull/81945))
 * [MoM] Fix achivements being granted by NPCs awakening ([#81949](https://github.com/CleverRaven/Cataclysm-DDA/pull/81949))
 * Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
@@ -235,7 +236,6 @@
 * Add roof to balthazar bunker ([#81887](https://github.com/CleverRaven/Cataclysm-DDA/pull/81887))
 * Manually backport "Aftershock: Add mod achievements and lock challenge scenarios …" ([#81875](https://github.com/CleverRaven/Cataclysm-DDA/pull/81875))
 * Nerf saw tool damage, migrate away combatsaws ([#81865](https://github.com/CleverRaven/Cataclysm-DDA/pull/81865))
-* [MoM] Add the Radiant Amalgamation ([#81861](https://github.com/CleverRaven/Cataclysm-DDA/pull/81861))
 * Aftershock: Properly update cryosuit defenses. ([#81862](https://github.com/CleverRaven/Cataclysm-DDA/pull/81862))
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))

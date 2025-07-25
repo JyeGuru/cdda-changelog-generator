@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2025-07-25-1635 (d1a9979)
+* Move debug options to debug menu (#82029)
+
 Cataclysm-DDA experimental build 2025-07-25-1556 (69a77d7)
 * [MoM] Remove double minus 100 from awakening calculations (#81991)
 
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-07-22-0407 (49df25b)
 
 Cataclysm-DDA experimental build 2025-07-22-0246 (50a88e9)
 * Only forget vehicle ghost when gaining control (#81953)
-
-Cataclysm-DDA experimental build 2025-07-22-0057 (129e31c)
 * Make autodrive less restricted (#81945)
 * [MoM] Fix achivements being granted by NPCs awakening (#81949)
 * Add PERMEABLE to various terrain (#81957)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2025-07-22-0057 (129e31c)
 * Add roof to balthazar bunker (#81887)
 * Manually backport "Aftershock: Add mod achievements and lock challenge scenarios …" (#81875)
 * Nerf saw tool damage, migrate away combatsaws (#81865)
-* [MoM] Add the Radiant Amalgamation (#81861)
 * Aftershock: Properly update cryosuit defenses. (#81862)
 * Aftershock: Vehicle bay City Building (#81873)
 * Aftershock: Humaniforms can execute humanoid monsters (#81869)
