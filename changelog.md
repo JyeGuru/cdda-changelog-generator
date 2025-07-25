@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-25-1556 ([69a77d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-1556))
+
+* [MoM] Remove double minus 100 from awakening calculations ([#81991](https://github.com/CleverRaven/Cataclysm-DDA/pull/81991))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-25-1104 ([9926547](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-1104))
 
 * [Magiclysm] Fix aenóren spawn ([#82028](https://github.com/CleverRaven/Cataclysm-DDA/pull/82028))
@@ -234,8 +240,6 @@
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
-* [Xedra Evolved] Bloodthorne druids are banned from dream magick ([#81859](https://github.com/CleverRaven/Cataclysm-DDA/pull/81859))
 * Aftershock: Induction hotplates are more common in kitchenettes ([#81864](https://github.com/CleverRaven/Cataclysm-DDA/pull/81864))
 * [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))
-* Hair dye kits in bathrooms ([#81860](https://github.com/CleverRaven/Cataclysm-DDA/pull/81860))
 * Aftershock: Survival heaters produce temporary AC ([#81863](https://github.com/CleverRaven/Cataclysm-DDA/pull/81863))
