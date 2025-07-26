@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-26-0433 (46e0107)
+* [MoM] Stutterstep now shows in enemy info (#82046)
+
 Cataclysm-DDA experimental build 2025-07-26-0130 (215a685)
 * [MoM] Nether Attunement affects Torrential Channeling unlock chance (#82043)
 
@@ -82,9 +85,6 @@ Cataclysm-DDA experimental build 2025-07-23-0505 (1204fcb)
 
 Cataclysm-DDA experimental build 2025-07-23-0405 (dca823d)
 * Fix scenarios that change starting year doing so incorrectly on first load (#81904)
-
-Cataclysm-DDA experimental build 2025-07-23-0252 (e8f7a8f)
-* NPC AI: Fleeing optimizations (#81866)
 * [MoM] Add phosphorescent amalgamation (#81956)
 * dry goods itemgroup audit (#81964)
 
@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2025-07-22-1954 (a611f7a)
 
 Cataclysm-DDA experimental build 2025-07-22-1537 (e1b04c5)
 * Flashbang stuff (#81959)
-
-Cataclysm-DDA experimental build 2025-07-22-1411 (919357d)
 * Gate more zstd preprocessor redefines (#81922)
 * Assign name to Protein Wrapper (#81930)
 * Reduce melee on Zombie Cops (#81923)

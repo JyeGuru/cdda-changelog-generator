@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-26-0433 ([46e0107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-0433))
+
+* [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-26-0130 ([215a685](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-0130))
 
 * [MoM] Nether Attunement affects Torrential Channeling unlock chance ([#82043](https://github.com/CleverRaven/Cataclysm-DDA/pull/82043))
@@ -157,12 +163,6 @@
 #### Cataclysm-DDA experimental build 2025-07-23-0405 ([dca823d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0405))
 
 * Fix scenarios that change starting year doing so incorrectly on first load ([#81904](https://github.com/CleverRaven/Cataclysm-DDA/pull/81904))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-23-0252 ([e8f7a8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0252))
-
-* NPC AI: Fleeing optimizations ([#81866](https://github.com/CleverRaven/Cataclysm-DDA/pull/81866))
 * [MoM] Add phosphorescent amalgamation ([#81956](https://github.com/CleverRaven/Cataclysm-DDA/pull/81956))
 * dry goods itemgroup audit ([#81964](https://github.com/CleverRaven/Cataclysm-DDA/pull/81964))
 
@@ -183,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-07-22-1537 ([e1b04c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1537))
 
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-22-1411 ([919357d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1411))
-
 * Gate more zstd preprocessor redefines ([#81922](https://github.com/CleverRaven/Cataclysm-DDA/pull/81922))
 * Assign name to Protein Wrapper ([#81930](https://github.com/CleverRaven/Cataclysm-DDA/pull/81930))
 * Reduce melee on Zombie Cops ([#81923](https://github.com/CleverRaven/Cataclysm-DDA/pull/81923))
