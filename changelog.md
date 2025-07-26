@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-26-0130 ([215a685](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-0130))
+
+* [MoM] Nether Attunement affects Torrential Channeling unlock chance ([#82043](https://github.com/CleverRaven/Cataclysm-DDA/pull/82043))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-25-2314 ([5988285](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-2314))
 
 * [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot ([#82035](https://github.com/CleverRaven/Cataclysm-DDA/pull/82035))
@@ -188,11 +194,6 @@
 * Pipebomb bandolier ([#81937](https://github.com/CleverRaven/Cataclysm-DDA/pull/81937))
 * Weekly Changelog 2025-07-14 to 2025-07-21 ([#81940](https://github.com/CleverRaven/Cataclysm-DDA/pull/81940))
 * [MoM/Vanilla] Adjust weights of amalgamation spawn groups to allow rarer MoM amalgamations to spawn rarely ([#81951](https://github.com/CleverRaven/Cataclysm-DDA/pull/81951))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-22-1303 ([41bf407](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1303))
-
 * Loudness adjustments for subsonic rounds ([#81965](https://github.com/CleverRaven/Cataclysm-DDA/pull/81965))
 * Remove Source Safety from generic rural buildings ([#81966](https://github.com/CleverRaven/Cataclysm-DDA/pull/81966))
 * Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
@@ -238,7 +239,6 @@
 * Backport portal storm debugmsg on end fix ([#81884](https://github.com/CleverRaven/Cataclysm-DDA/pull/81884))
 * Add roof to balthazar bunker ([#81887](https://github.com/CleverRaven/Cataclysm-DDA/pull/81887))
 * Manually backport "Aftershock: Add mod achievements and lock challenge scenarios …" ([#81875](https://github.com/CleverRaven/Cataclysm-DDA/pull/81875))
-* Nerf saw tool damage, migrate away combatsaws ([#81865](https://github.com/CleverRaven/Cataclysm-DDA/pull/81865))
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
