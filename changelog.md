@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-26-1705 ([d8949ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1705))
+
 * Armors faults. Part 1: Steel Plate ([#81969](https://github.com/CleverRaven/Cataclysm-DDA/pull/81969))
 
 ---
@@ -191,11 +196,6 @@
 
 * Gate final ungated zstd define for real this time. ([#81972](https://github.com/CleverRaven/Cataclysm-DDA/pull/81972))
 * Remove "pair of" and "pairs of" wording from the brigandine armor ([#81927](https://github.com/CleverRaven/Cataclysm-DDA/pull/81927))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-23-0405 ([dca823d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0405))
-
 * Fix scenarios that change starting year doing so incorrectly on first load ([#81904](https://github.com/CleverRaven/Cataclysm-DDA/pull/81904))
 * [MoM] Add phosphorescent amalgamation ([#81956](https://github.com/CleverRaven/Cataclysm-DDA/pull/81956))
 * dry goods itemgroup audit ([#81964](https://github.com/CleverRaven/Cataclysm-DDA/pull/81964))
