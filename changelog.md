@@ -1,3 +1,10 @@
+* Cotton fabric isn't as dense as rubber ([#82032](https://github.com/CleverRaven/Cataclysm-DDA/pull/82032))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-26-2303 ([ea53f87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-2303))
+
+* Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 
 ---
 
@@ -189,11 +196,6 @@
 
 * Aftershock Update loading screen to actually get rid of off-black areas ([#81977](https://github.com/CleverRaven/Cataclysm-DDA/pull/81977))
 * [ Aftershock ]Add Wiring AFS ([#81978](https://github.com/CleverRaven/Cataclysm-DDA/pull/81978))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-23-0505 ([1204fcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0505))
-
 * Gate final ungated zstd define for real this time. ([#81972](https://github.com/CleverRaven/Cataclysm-DDA/pull/81972))
 * Remove "pair of" and "pairs of" wording from the brigandine armor ([#81927](https://github.com/CleverRaven/Cataclysm-DDA/pull/81927))
 * Fix scenarios that change starting year doing so incorrectly on first load ([#81904](https://github.com/CleverRaven/Cataclysm-DDA/pull/81904))
@@ -226,7 +228,6 @@
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81925](https://github.com/CleverRaven/Cataclysm-DDA/pull/81925))
 * Fix greenhouse_5x5_roof ([#81919](https://github.com/CleverRaven/Cataclysm-DDA/pull/81919))
 * [Xedra Evolved] Update `EOC_CONDITION_CHECK_ARVORE_ON_NATURAL_TERRAIN` to account for bark floors  ([#81936](https://github.com/CleverRaven/Cataclysm-DDA/pull/81936))
-* Docs explain how to use multiple proficiencies in fault fixes ([#81892](https://github.com/CleverRaven/Cataclysm-DDA/pull/81892))
 * Fix const to appease clang ([#81932](https://github.com/CleverRaven/Cataclysm-DDA/pull/81932))
 * Bump up number of boomer shots in projectil test ([#81931](https://github.com/CleverRaven/Cataclysm-DDA/pull/81931))
 * Move post 0.I split migration/obsoletion to a new folder ([#81914](https://github.com/CleverRaven/Cataclysm-DDA/pull/81914))
