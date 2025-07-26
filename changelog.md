@@ -1,3 +1,10 @@
+* Armors faults. Part 1: Steel Plate ([#81969](https://github.com/CleverRaven/Cataclysm-DDA/pull/81969))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-26-1619 ([c04f0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1619))
+
+* [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
 
 ---
 
@@ -233,8 +240,6 @@
 * Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81907](https://github.com/CleverRaven/Cataclysm-DDA/pull/81907))
 * [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
-* Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81891](https://github.com/CleverRaven/Cataclysm-DDA/pull/81891))
 * Nerf saw tool damage, migrate away combatsaws ([#81897](https://github.com/CleverRaven/Cataclysm-DDA/pull/81897))
 * [Magiclysm] Humans are also a species ([#81900](https://github.com/CleverRaven/Cataclysm-DDA/pull/81900))
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81901](https://github.com/CleverRaven/Cataclysm-DDA/pull/81901))
-* [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81888](https://github.com/CleverRaven/Cataclysm-DDA/pull/81888))
