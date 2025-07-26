@@ -1,5 +1,12 @@
+* Update mutation ordering for newer hairstyles ([#81984](https://github.com/CleverRaven/Cataclysm-DDA/pull/81984))
+* Use convex hull instead of bounding box for balanced_wheel_config ([#82007](https://github.com/CleverRaven/Cataclysm-DDA/pull/82007))
 * Update Monster Doc on Vision Ranges with default value ([#82010](https://github.com/CleverRaven/Cataclysm-DDA/pull/82010))
 * Test does random_chargen false work ([#82030](https://github.com/CleverRaven/Cataclysm-DDA/pull/82030))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-26-1115 ([604a3ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-26-1115))
+
 * Manually backport "Aftershock Update loading screen to actually get rid of off-black areas" ([#82038](https://github.com/CleverRaven/Cataclysm-DDA/pull/82038))
 * rename strict -> strict_boiling to match docs ([#82049](https://github.com/CleverRaven/Cataclysm-DDA/pull/82049))
 * Routine i18n updates on 26 July 2025 ([#82052](https://github.com/CleverRaven/Cataclysm-DDA/pull/82052))
@@ -164,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2025-07-23-1524 ([31f96a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-1524))
 
 * Aftershock Update loading screen to actually get rid of off-black areas ([#81977](https://github.com/CleverRaven/Cataclysm-DDA/pull/81977))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-23-1459 ([7851fe9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-23-1459))
-
 * [ Aftershock ]Add Wiring AFS ([#81978](https://github.com/CleverRaven/Cataclysm-DDA/pull/81978))
 
 ---
@@ -230,11 +232,9 @@
 * Routine i18n updates on 19 July 2025 ([#81905](https://github.com/CleverRaven/Cataclysm-DDA/pull/81905))
 * Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81907](https://github.com/CleverRaven/Cataclysm-DDA/pull/81907))
-* 2 new freeze-dried meals ([#81886](https://github.com/CleverRaven/Cataclysm-DDA/pull/81886))
 * [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81891](https://github.com/CleverRaven/Cataclysm-DDA/pull/81891))
 * Nerf saw tool damage, migrate away combatsaws ([#81897](https://github.com/CleverRaven/Cataclysm-DDA/pull/81897))
 * [Magiclysm] Humans are also a species ([#81900](https://github.com/CleverRaven/Cataclysm-DDA/pull/81900))
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81901](https://github.com/CleverRaven/Cataclysm-DDA/pull/81901))
 * [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81888](https://github.com/CleverRaven/Cataclysm-DDA/pull/81888))
-* Add roof to balthazar bunker ([#81887](https://github.com/CleverRaven/Cataclysm-DDA/pull/81887))
