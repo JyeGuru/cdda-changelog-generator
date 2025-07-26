@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-26-2353 (247d583)
 * Cotton fabric isn't as dense as rubber (#82032)
 
 Cataclysm-DDA experimental build 2025-07-26-2303 (ea53f87)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2025-07-24-0210 (8ad1709)
 
 Cataclysm-DDA experimental build 2025-07-23-1748 (54a6896)
 * [Xedra Evolvd] Add AoE to Clap of Thunder Sylph glamour (#81982)
-
-Cataclysm-DDA experimental build 2025-07-23-1524 (31f96a6)
 * Aftershock Update loading screen to actually get rid of off-black areas (#81977)
 * [ Aftershock ]Add Wiring AFS (#81978)
 * Gate final ungated zstd define for real this time. (#81972)
