@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-26-1153 ([ea12e78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1153))
+
 * Update mutation ordering for newer hairstyles ([#81984](https://github.com/CleverRaven/Cataclysm-DDA/pull/81984))
 * Use convex hull instead of bounding box for balanced_wheel_config ([#82007](https://github.com/CleverRaven/Cataclysm-DDA/pull/82007))
 * Update Monster Doc on Vision Ranges with default value ([#82010](https://github.com/CleverRaven/Cataclysm-DDA/pull/82010))
@@ -187,11 +192,6 @@
 * Fix scenarios that change starting year doing so incorrectly on first load ([#81904](https://github.com/CleverRaven/Cataclysm-DDA/pull/81904))
 * [MoM] Add phosphorescent amalgamation ([#81956](https://github.com/CleverRaven/Cataclysm-DDA/pull/81956))
 * dry goods itemgroup audit ([#81964](https://github.com/CleverRaven/Cataclysm-DDA/pull/81964))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-23-0201 ([2c301f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-0201))
-
 * [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
 * Add haul toggle to action menu when hauling ([#81960](https://github.com/CleverRaven/Cataclysm-DDA/pull/81960))
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
