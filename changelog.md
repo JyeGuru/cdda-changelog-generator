@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-07-26-0603 ([3cdbbf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-26-0603))
+
+* Aftershock: Small price updates for vendors ([#82027](https://github.com/CleverRaven/Cataclysm-DDA/pull/82027))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-26-0433 ([46e0107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-0433))
 
 * [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-07-22-1954 ([a611f7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1954))
 
 * Add haul toggle to action menu when hauling ([#81960](https://github.com/CleverRaven/Cataclysm-DDA/pull/81960))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-22-1537 ([e1b04c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-22-1537))
-
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
 * Gate more zstd preprocessor redefines ([#81922](https://github.com/CleverRaven/Cataclysm-DDA/pull/81922))
 * Assign name to Protein Wrapper ([#81930](https://github.com/CleverRaven/Cataclysm-DDA/pull/81930))
@@ -237,4 +238,3 @@
 * Aftershock: Vehicle bay City Building ([#81873](https://github.com/CleverRaven/Cataclysm-DDA/pull/81873))
 * Aftershock: Humaniforms can execute humanoid monsters ([#81869](https://github.com/CleverRaven/Cataclysm-DDA/pull/81869))
 * Aftershock: Survival heaters produce temporary AC ([#81868](https://github.com/CleverRaven/Cataclysm-DDA/pull/81868))
-* [Xedra Evolved] Vampires can't level dream magick ([#81867](https://github.com/CleverRaven/Cataclysm-DDA/pull/81867))
