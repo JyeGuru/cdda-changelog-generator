@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-27-0404 ([ded388f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0404))
+
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82039](https://github.com/CleverRaven/Cataclysm-DDA/pull/82039))
 
 ---
@@ -152,11 +157,6 @@
 
 * [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light ([#82023](https://github.com/CleverRaven/Cataclysm-DDA/pull/82023))
 * run toc.yml on any changes to the doc directory ([#82017](https://github.com/CleverRaven/Cataclysm-DDA/pull/82017))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-24-1446 ([668348e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-24-1446))
-
 * [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
 
 ---
