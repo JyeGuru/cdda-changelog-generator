@@ -1,6 +1,17 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-27-0051 ([7bb0af3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0051))
+
+* Allow control of adjacent tile vehicle while in vehicle ([#81955](https://github.com/CleverRaven/Cataclysm-DDA/pull/81955))
+* [Magiclysm] SOMATIC spells are harder to cast with broken arms ([#82041](https://github.com/CleverRaven/Cataclysm-DDA/pull/82041))
+* [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
+* [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
+* Cannot trap a monster and use it as an infinite training dummy ([#81921](https://github.com/CleverRaven/Cataclysm-DDA/pull/81921))
+* Allow installation of CBMs into NPCs even when they aren't immediately useable ([#81915](https://github.com/CleverRaven/Cataclysm-DDA/pull/81915))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-26-2353 ([247d583](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-2353))
 
 * Cotton fabric isn't as dense as rubber ([#82032](https://github.com/CleverRaven/Cataclysm-DDA/pull/82032))
@@ -188,17 +199,11 @@
 #### Cataclysm-DDA experimental build 2025-07-24-0210 ([8ad1709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0210))
 
 * [Xedra Evolved/Magiclysm] Fix changelings being assigned the Human heritage trait ([#81985](https://github.com/CleverRaven/Cataclysm-DDA/pull/81985))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-23-1748 ([54a6896](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-23-1748))
-
 * [Xedra Evolvd] Add AoE to Clap of Thunder Sylph glamour ([#81982](https://github.com/CleverRaven/Cataclysm-DDA/pull/81982))
 * Aftershock Update loading screen to actually get rid of off-black areas ([#81977](https://github.com/CleverRaven/Cataclysm-DDA/pull/81977))
 * [ Aftershock ]Add Wiring AFS ([#81978](https://github.com/CleverRaven/Cataclysm-DDA/pull/81978))
 * Gate final ungated zstd define for real this time. ([#81972](https://github.com/CleverRaven/Cataclysm-DDA/pull/81972))
 * Remove "pair of" and "pairs of" wording from the brigandine armor ([#81927](https://github.com/CleverRaven/Cataclysm-DDA/pull/81927))
-* Fix scenarios that change starting year doing so incorrectly on first load ([#81904](https://github.com/CleverRaven/Cataclysm-DDA/pull/81904))
 * [MoM] Add phosphorescent amalgamation ([#81956](https://github.com/CleverRaven/Cataclysm-DDA/pull/81956))
 * dry goods itemgroup audit ([#81964](https://github.com/CleverRaven/Cataclysm-DDA/pull/81964))
 * [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
@@ -237,10 +242,5 @@
 * add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
 * Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
 * print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))
-* Routine i18n updates on 19 July 2025 ([#81905](https://github.com/CleverRaven/Cataclysm-DDA/pull/81905))
 * Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
 * Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81907](https://github.com/CleverRaven/Cataclysm-DDA/pull/81907))
-* [XEDRA Evolved] Humaniform Mi-go ([#81902](https://github.com/CleverRaven/Cataclysm-DDA/pull/81902))
-* Nerf saw tool damage, migrate away combatsaws ([#81897](https://github.com/CleverRaven/Cataclysm-DDA/pull/81897))
-* [Magiclysm] Humans are also a species ([#81900](https://github.com/CleverRaven/Cataclysm-DDA/pull/81900))
-* [MoM] Add help topics for psionic paths, using psionics, and psychic knacks ([#81901](https://github.com/CleverRaven/Cataclysm-DDA/pull/81901))
