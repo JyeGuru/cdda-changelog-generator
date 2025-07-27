@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-07-27-1348 ([8f9212a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-27-1348))
+
+* [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-27-1342 ([75d7363](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-1342))
+
+* Add dolphin shorts, simplify hot pants definitions + small changes ([#82036](https://github.com/CleverRaven/Cataclysm-DDA/pull/82036))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-27-0404 ([ded388f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0404))
 
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82039](https://github.com/CleverRaven/Cataclysm-DDA/pull/82039))
@@ -186,20 +198,10 @@
 #### Cataclysm-DDA experimental build 2025-07-24-0356 ([353115f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0356))
 
 * [MoM] Fix illuminate description ([#81994](https://github.com/CleverRaven/Cataclysm-DDA/pull/81994))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-24-0259 ([58ffc3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0259))
-
 * Fix canned food condition names ([#81980](https://github.com/CleverRaven/Cataclysm-DDA/pull/81980))
 * [MoM] Doc format fixing ([#81998](https://github.com/CleverRaven/Cataclysm-DDA/pull/81998))
 * Prevent reading the evac bulletin when it's too dark ([#82000](https://github.com/CleverRaven/Cataclysm-DDA/pull/82000))
 * [Xedra Evolved] Add "Nether Cult" strange cabin ([#81941](https://github.com/CleverRaven/Cataclysm-DDA/pull/81941))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-24-0210 ([8ad1709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0210))
-
 * [Xedra Evolved/Magiclysm] Fix changelings being assigned the Human heritage trait ([#81985](https://github.com/CleverRaven/Cataclysm-DDA/pull/81985))
 * [Xedra Evolvd] Add AoE to Clap of Thunder Sylph glamour ([#81982](https://github.com/CleverRaven/Cataclysm-DDA/pull/81982))
 * Aftershock Update loading screen to actually get rid of off-black areas ([#81977](https://github.com/CleverRaven/Cataclysm-DDA/pull/81977))
@@ -238,8 +240,6 @@
 * Bump up number of boomer shots in projectil test ([#81931](https://github.com/CleverRaven/Cataclysm-DDA/pull/81931))
 * Move post 0.I split migration/obsoletion to a new folder ([#81914](https://github.com/CleverRaven/Cataclysm-DDA/pull/81914))
 * [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts ([#81926](https://github.com/CleverRaven/Cataclysm-DDA/pull/81926))
-* fix Start Vehicle Construction cancelling ([#81912](https://github.com/CleverRaven/Cataclysm-DDA/pull/81912))
-* Remove "pair of" and "pairs of" wording from the arms armor ([#81910](https://github.com/CleverRaven/Cataclysm-DDA/pull/81910))
 * add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
 * Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
 * print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))
