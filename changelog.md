@@ -1,3 +1,7 @@
+* [Magiclysm] Add a spell to feral high druids and feral high earthshapers ([#82037](https://github.com/CleverRaven/Cataclysm-DDA/pull/82037))
+* Aftershock: Many minor fixes ([#82059](https://github.com/CleverRaven/Cataclysm-DDA/pull/82059))
+* small improvements to keybidnings window ([#82069](https://github.com/CleverRaven/Cataclysm-DDA/pull/82069))
+* Add flag for gun modes for volley firing ([#82073](https://github.com/CleverRaven/Cataclysm-DDA/pull/82073))
 
 ---
 
@@ -235,12 +239,8 @@
 * [MoM] Fix achivements being granted by NPCs awakening ([#81939](https://github.com/CleverRaven/Cataclysm-DDA/pull/81939))
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81943](https://github.com/CleverRaven/Cataclysm-DDA/pull/81943))
 * fix Start Vehicle Construction cancelling ([#81924](https://github.com/CleverRaven/Cataclysm-DDA/pull/81924))
-* print correct ammo damage in wielding menu ([#81920](https://github.com/CleverRaven/Cataclysm-DDA/pull/81920))
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81925](https://github.com/CleverRaven/Cataclysm-DDA/pull/81925))
-* Fix greenhouse_5x5_roof ([#81919](https://github.com/CleverRaven/Cataclysm-DDA/pull/81919))
 * [Xedra Evolved] Update `EOC_CONDITION_CHECK_ARVORE_ON_NATURAL_TERRAIN` to account for bark floors  ([#81936](https://github.com/CleverRaven/Cataclysm-DDA/pull/81936))
 * Fix const to appease clang ([#81932](https://github.com/CleverRaven/Cataclysm-DDA/pull/81932))
 * Bump up number of boomer shots in projectil test ([#81931](https://github.com/CleverRaven/Cataclysm-DDA/pull/81931))
 * [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts ([#81926](https://github.com/CleverRaven/Cataclysm-DDA/pull/81926))
-* add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
-* Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
