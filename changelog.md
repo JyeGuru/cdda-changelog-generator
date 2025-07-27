@@ -1,3 +1,10 @@
+* [Magiclysm] Fix Feral Research Thaumaturge drops ([#82039](https://github.com/CleverRaven/Cataclysm-DDA/pull/82039))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-27-0245 ([56d93cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0245))
+
+* [Magiclysm] Adjust elven vision based on light level ([#82026](https://github.com/CleverRaven/Cataclysm-DDA/pull/82026))
 
 ---
 
@@ -157,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2025-07-24-1432 ([0473ef4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-1432))
 
 * Homemade grenade recipe audit ([#82006](https://github.com/CleverRaven/Cataclysm-DDA/pull/82006))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-24-1253 ([6652c93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-24-1253))
-
 * [Aftershock] Mark Sky Islands incompatible ([#82011](https://github.com/CleverRaven/Cataclysm-DDA/pull/82011))
 
 ---
@@ -227,7 +229,6 @@
 * Aftershock: Update title art ([#81935](https://github.com/CleverRaven/Cataclysm-DDA/pull/81935))
 * [MoM] Fix achivements being granted by NPCs awakening ([#81939](https://github.com/CleverRaven/Cataclysm-DDA/pull/81939))
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81943](https://github.com/CleverRaven/Cataclysm-DDA/pull/81943))
-* Remove IRRITANT_IMMUNE from armors [need #72271 merged first] ([#81909](https://github.com/CleverRaven/Cataclysm-DDA/pull/81909))
 * fix Start Vehicle Construction cancelling ([#81924](https://github.com/CleverRaven/Cataclysm-DDA/pull/81924))
 * print correct ammo damage in wielding menu ([#81920](https://github.com/CleverRaven/Cataclysm-DDA/pull/81920))
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81925](https://github.com/CleverRaven/Cataclysm-DDA/pull/81925))
@@ -243,4 +244,3 @@
 * Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
 * print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))
 * Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
-* Aftershock: Fix exosuit underlayers so they protect against the cold. ([#81907](https://github.com/CleverRaven/Cataclysm-DDA/pull/81907))
