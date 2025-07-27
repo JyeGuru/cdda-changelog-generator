@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-27-2308 ([6ddc18f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-2308))
+
+* Add map_is_outside condition ([#82076](https://github.com/CleverRaven/Cataclysm-DDA/pull/82076))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-27-1602 ([e4ead20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-1602))
 
 * Audit containers used for homemade grenades, molotov ([#82062](https://github.com/CleverRaven/Cataclysm-DDA/pull/82062))
@@ -189,11 +195,6 @@
 
 * Homemade grenade recipe audit ([#82006](https://github.com/CleverRaven/Cataclysm-DDA/pull/82006))
 * [Aftershock] Mark Sky Islands incompatible ([#82011](https://github.com/CleverRaven/Cataclysm-DDA/pull/82011))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-24-0606 ([113586b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0606))
-
 * Make more parking lot omts looks_like s_lot ([#81981](https://github.com/CleverRaven/Cataclysm-DDA/pull/81981))
 * [Isolation Protocol] Mark other total conversions as incompatible ([#81989](https://github.com/CleverRaven/Cataclysm-DDA/pull/81989))
 * Expand usage of doctoc for md file table of content generation ([#81970](https://github.com/CleverRaven/Cataclysm-DDA/pull/81970))
@@ -243,4 +244,3 @@
 * [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts ([#81926](https://github.com/CleverRaven/Cataclysm-DDA/pull/81926))
 * add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
 * Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
-* print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))

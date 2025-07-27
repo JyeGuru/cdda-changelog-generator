@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-27-2308 (6ddc18f)
+* Add map_is_outside condition (#82076)
+
 Cataclysm-DDA experimental build 2025-07-27-1602 (e4ead20)
 * Audit containers used for homemade grenades, molotov (#82062)
 * [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding (#82064)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-07-24-2319 (893799a)
 Cataclysm-DDA experimental build 2025-07-24-1432 (0473ef4)
 * Homemade grenade recipe audit (#82006)
 * [Aftershock] Mark Sky Islands incompatible (#82011)
-
-Cataclysm-DDA experimental build 2025-07-24-0606 (113586b)
 * Make more parking lot omts looks_like s_lot (#81981)
 * [Isolation Protocol] Mark other total conversions as incompatible (#81989)
 * Expand usage of doctoc for md file table of content generation (#81970)
@@ -153,4 +154,3 @@ Cataclysm-DDA experimental build 2025-07-24-0606 (113586b)
 * [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts (#81926)
 * add cheese wheels (#81918)
 * Fix unnecessary macro redefintion warnings from zstd (#81917)
-* print correct ammo damage in wielding menu (#81916)
