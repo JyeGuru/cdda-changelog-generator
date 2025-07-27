@@ -1,3 +1,11 @@
+* Audit containers used for homemade grenades, molotov ([#82062](https://github.com/CleverRaven/Cataclysm-DDA/pull/82062))
+* [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding ([#82064](https://github.com/CleverRaven/Cataclysm-DDA/pull/82064))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-27-1520 ([884832a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-1520))
+
+* Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
 
 ---
 
@@ -32,7 +40,6 @@
 * [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
 * [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
 * Cannot trap a monster and use it as an infinite training dummy ([#81921](https://github.com/CleverRaven/Cataclysm-DDA/pull/81921))
-* Allow installation of CBMs into NPCs even when they aren't immediately useable ([#81915](https://github.com/CleverRaven/Cataclysm-DDA/pull/81915))
 
 ---
 
@@ -192,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-07-24-0512 ([02f7873](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0512))
 
 * Remove legacy mission handling ([#82004](https://github.com/CleverRaven/Cataclysm-DDA/pull/82004))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-24-0356 ([353115f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-0356))
-
 * [MoM] Fix illuminate description ([#81994](https://github.com/CleverRaven/Cataclysm-DDA/pull/81994))
 * Fix canned food condition names ([#81980](https://github.com/CleverRaven/Cataclysm-DDA/pull/81980))
 * [MoM] Doc format fixing ([#81998](https://github.com/CleverRaven/Cataclysm-DDA/pull/81998))
@@ -238,9 +240,7 @@
 * [Xedra Evolved] Update `EOC_CONDITION_CHECK_ARVORE_ON_NATURAL_TERRAIN` to account for bark floors  ([#81936](https://github.com/CleverRaven/Cataclysm-DDA/pull/81936))
 * Fix const to appease clang ([#81932](https://github.com/CleverRaven/Cataclysm-DDA/pull/81932))
 * Bump up number of boomer shots in projectil test ([#81931](https://github.com/CleverRaven/Cataclysm-DDA/pull/81931))
-* Move post 0.I split migration/obsoletion to a new folder ([#81914](https://github.com/CleverRaven/Cataclysm-DDA/pull/81914))
 * [Hotfix] add boomer_bile and boomer_bile_adv to good uncrafts ([#81926](https://github.com/CleverRaven/Cataclysm-DDA/pull/81926))
 * add cheese wheels ([#81918](https://github.com/CleverRaven/Cataclysm-DDA/pull/81918))
 * Fix unnecessary macro redefintion warnings from zstd ([#81917](https://github.com/CleverRaven/Cataclysm-DDA/pull/81917))
 * print correct ammo damage in wielding menu ([#81916](https://github.com/CleverRaven/Cataclysm-DDA/pull/81916))
-* Fix greenhouse_5x5_roof ([#81913](https://github.com/CleverRaven/Cataclysm-DDA/pull/81913))
