@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-27-2354 (043289f)
 * [Magiclysm] Add a spell to feral high druids and feral high earthshapers (#82037)
 * Aftershock: Many minor fixes (#82059)
 * small improvements to keybidnings window (#82069)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-07-24-2319 (893799a)
 * [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light (#82023)
 * run toc.yml on any changes to the doc directory (#82017)
 * [Isolation Protocol] Mark other total conversions as incompatible (#82012)
-
-Cataclysm-DDA experimental build 2025-07-24-1432 (0473ef4)
 * Homemade grenade recipe audit (#82006)
 * [Aftershock] Mark Sky Islands incompatible (#82011)
 * Make more parking lot omts looks_like s_lot (#81981)

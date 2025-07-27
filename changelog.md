@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-27-2354 ([043289f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-2354))
+
 * [Magiclysm] Add a spell to feral high druids and feral high earthshapers ([#82037](https://github.com/CleverRaven/Cataclysm-DDA/pull/82037))
 * Aftershock: Many minor fixes ([#82059](https://github.com/CleverRaven/Cataclysm-DDA/pull/82059))
 * small improvements to keybidnings window ([#82069](https://github.com/CleverRaven/Cataclysm-DDA/pull/82069))
@@ -192,11 +197,6 @@
 * [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light ([#82023](https://github.com/CleverRaven/Cataclysm-DDA/pull/82023))
 * run toc.yml on any changes to the doc directory ([#82017](https://github.com/CleverRaven/Cataclysm-DDA/pull/82017))
 * [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-24-1432 ([0473ef4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-1432))
-
 * Homemade grenade recipe audit ([#82006](https://github.com/CleverRaven/Cataclysm-DDA/pull/82006))
 * [Aftershock] Mark Sky Islands incompatible ([#82011](https://github.com/CleverRaven/Cataclysm-DDA/pull/82011))
 * Make more parking lot omts looks_like s_lot ([#81981](https://github.com/CleverRaven/Cataclysm-DDA/pull/81981))
