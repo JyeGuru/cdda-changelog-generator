@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-28-2048 ([cfd9773](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-2048))
+
+* You can do your makeup ([#82092](https://github.com/CleverRaven/Cataclysm-DDA/pull/82092))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-07-28-1243 ([8f04b0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-28-1243))
 
 * Aftershock: Many minor fixes ([#82081](https://github.com/CleverRaven/Cataclysm-DDA/pull/82081))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-07-25-1556 ([69a77d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-1556))
 
 * [MoM] Remove double minus 100 from awakening calculations ([#81991](https://github.com/CleverRaven/Cataclysm-DDA/pull/81991))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-25-1104 ([9926547](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-1104))
-
 * [Magiclysm] Fix aenóren spawn ([#82028](https://github.com/CleverRaven/Cataclysm-DDA/pull/82028))
 * The human mouth isn't attractive anymore ([#81992](https://github.com/CleverRaven/Cataclysm-DDA/pull/81992))
 * Move debug options to debug menu ([#82021](https://github.com/CleverRaven/Cataclysm-DDA/pull/82021))
@@ -224,7 +225,6 @@
 * [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
 * Add haul toggle to action menu when hauling ([#81960](https://github.com/CleverRaven/Cataclysm-DDA/pull/81960))
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
-* Assign name to Protein Wrapper ([#81930](https://github.com/CleverRaven/Cataclysm-DDA/pull/81930))
 * Pipebomb bandolier ([#81937](https://github.com/CleverRaven/Cataclysm-DDA/pull/81937))
 * Weekly Changelog 2025-07-14 to 2025-07-21 ([#81940](https://github.com/CleverRaven/Cataclysm-DDA/pull/81940))
 * [MoM/Vanilla] Adjust weights of amalgamation spawn groups to allow rarer MoM amalgamations to spawn rarely ([#81951](https://github.com/CleverRaven/Cataclysm-DDA/pull/81951))
