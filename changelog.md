@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-28-0513 ([45a39c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-0513))
+
+* Aftershock: More Small fixes ([#82066](https://github.com/CleverRaven/Cataclysm-DDA/pull/82066))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-28-0513 ([1ed1a32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-28-0513))
+
+* Clarify refusal message when faction trust isn't high enough ([#82061](https://github.com/CleverRaven/Cataclysm-DDA/pull/82061))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-28-0315 ([d52a80c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-0315))
+
+* Update the rules for sealing ([#82070](https://github.com/CleverRaven/Cataclysm-DDA/pull/82070))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-27-2354 ([043289f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-2354))
 
 * [Magiclysm] Add a spell to feral high druids and feral high earthshapers ([#82037](https://github.com/CleverRaven/Cataclysm-DDA/pull/82037))
@@ -59,7 +77,6 @@
 * [Magiclysm] SOMATIC spells are harder to cast with broken arms ([#82041](https://github.com/CleverRaven/Cataclysm-DDA/pull/82041))
 * [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
 * [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
-* Cannot trap a monster and use it as an infinite training dummy ([#81921](https://github.com/CleverRaven/Cataclysm-DDA/pull/81921))
 
 ---
 
@@ -146,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2025-07-25-1831 ([03e6a42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-1831))
 
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight ([#82033](https://github.com/CleverRaven/Cataclysm-DDA/pull/82033))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-25-1635 ([d1a9979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-25-1635))
-
 * Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
 
 ---
@@ -183,17 +195,7 @@
 
 * Aftershock: Small price updates for vendors ([#82016](https://github.com/CleverRaven/Cataclysm-DDA/pull/82016))
 * Fix eocs of Mansion Escape scenario ([#82018](https://github.com/CleverRaven/Cataclysm-DDA/pull/82018))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-25-0013 ([be3a168](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-0013))
-
 * [Magiclysm/XE] Unify iron intolerance traits, handle fey taking Iron Intolerance ([#82008](https://github.com/CleverRaven/Cataclysm-DDA/pull/82008))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-24-2319 ([893799a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-24-2319))
-
 * [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light ([#82023](https://github.com/CleverRaven/Cataclysm-DDA/pull/82023))
 * run toc.yml on any changes to the doc directory ([#82017](https://github.com/CleverRaven/Cataclysm-DDA/pull/82017))
 * [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
@@ -220,9 +222,7 @@
 * [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
 * Add haul toggle to action menu when hauling ([#81960](https://github.com/CleverRaven/Cataclysm-DDA/pull/81960))
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
-* Gate more zstd preprocessor redefines ([#81922](https://github.com/CleverRaven/Cataclysm-DDA/pull/81922))
 * Assign name to Protein Wrapper ([#81930](https://github.com/CleverRaven/Cataclysm-DDA/pull/81930))
-* Reduce melee on Zombie Cops ([#81923](https://github.com/CleverRaven/Cataclysm-DDA/pull/81923))
 * Pipebomb bandolier ([#81937](https://github.com/CleverRaven/Cataclysm-DDA/pull/81937))
 * Weekly Changelog 2025-07-14 to 2025-07-21 ([#81940](https://github.com/CleverRaven/Cataclysm-DDA/pull/81940))
 * [MoM/Vanilla] Adjust weights of amalgamation spawn groups to allow rarer MoM amalgamations to spawn rarely ([#81951](https://github.com/CleverRaven/Cataclysm-DDA/pull/81951))
