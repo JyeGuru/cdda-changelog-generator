@@ -238,7 +238,6 @@
 * Aftershock: Update title art ([#81935](https://github.com/CleverRaven/Cataclysm-DDA/pull/81935))
 * [MoM] Fix achivements being granted by NPCs awakening ([#81939](https://github.com/CleverRaven/Cataclysm-DDA/pull/81939))
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81943](https://github.com/CleverRaven/Cataclysm-DDA/pull/81943))
-* fix Start Vehicle Construction cancelling ([#81924](https://github.com/CleverRaven/Cataclysm-DDA/pull/81924))
 * [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81925](https://github.com/CleverRaven/Cataclysm-DDA/pull/81925))
 * [Xedra Evolved] Update `EOC_CONDITION_CHECK_ARVORE_ON_NATURAL_TERRAIN` to account for bark floors  ([#81936](https://github.com/CleverRaven/Cataclysm-DDA/pull/81936))
 * Fix const to appease clang ([#81932](https://github.com/CleverRaven/Cataclysm-DDA/pull/81932))
