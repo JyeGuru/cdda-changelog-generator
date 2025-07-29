@@ -1,3 +1,7 @@
+* Fix NPC rules checkbox CONFIRM key double toggle (#82109)
+
+Cataclysm-DDA 0.I release candidate 2025-07-29-2155 (91c839a)
+* Warn when going up/down into a dangerous field (#82112)
 
 Cataclysm-DDA experimental build 2025-07-29-1449 (bc4767e)
 * Fix 0.I blocker error when swapping in vehicle (#82113)
@@ -104,8 +108,6 @@ Cataclysm-DDA experimental build 2025-07-26-0433 (46e0107)
 
 Cataclysm-DDA experimental build 2025-07-26-0130 (215a685)
 * [MoM] Nether Attunement affects Torrential Channeling unlock chance (#82043)
-
-Cataclysm-DDA experimental build 2025-07-25-2314 (5988285)
 * [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot (#82035)
 * can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight (#82033)
@@ -147,8 +149,6 @@ Cataclysm-DDA experimental build 2025-07-25-2314 (5988285)
 * Use naked prisoners for boomer tests rather than thugs (#81954)
 * Make full and half field stone wall bash results more consistent (#81958)
 * Only forget vehicle ghost when gaining control (#81953)
-* Make autodrive less restricted (#81945)
 * [MoM] Fix achivements being granted by NPCs awakening (#81949)
 * Add PERMEABLE to various terrain (#81957)
 * Always show clean water on top of consume menu (#81947)
-* [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` (#81943)

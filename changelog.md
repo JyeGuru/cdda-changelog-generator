@@ -1,3 +1,10 @@
+* Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-29-2155 ([91c839a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-29-2155))
+
+* Warn when going up/down into a dangerous field ([#82112](https://github.com/CleverRaven/Cataclysm-DDA/pull/82112))
 
 ---
 
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-07-26-0130 ([215a685](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-0130))
 
 * [MoM] Nether Attunement affects Torrential Channeling unlock chance ([#82043](https://github.com/CleverRaven/Cataclysm-DDA/pull/82043))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-25-2314 ([5988285](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-2314))
-
 * [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot ([#82035](https://github.com/CleverRaven/Cataclysm-DDA/pull/82035))
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight ([#82033](https://github.com/CleverRaven/Cataclysm-DDA/pull/82033))
@@ -234,8 +236,6 @@
 * Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
 * Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
 * Only forget vehicle ghost when gaining control ([#81953](https://github.com/CleverRaven/Cataclysm-DDA/pull/81953))
-* Make autodrive less restricted ([#81945](https://github.com/CleverRaven/Cataclysm-DDA/pull/81945))
 * [MoM] Fix achivements being granted by NPCs awakening ([#81949](https://github.com/CleverRaven/Cataclysm-DDA/pull/81949))
 * Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
 * Always show clean water on top of consume menu ([#81947](https://github.com/CleverRaven/Cataclysm-DDA/pull/81947))
-* [MoM] Change Tlapetlaniliztli variant from type `gun` to type `generic` ([#81943](https://github.com/CleverRaven/Cataclysm-DDA/pull/81943))
