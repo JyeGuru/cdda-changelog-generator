@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2025-07-25-2314 (5988285)
 
 Cataclysm-DDA experimental build 2025-07-25-2153 (4af9d3f)
 * can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)
-
-Cataclysm-DDA experimental build 2025-07-25-1831 (03e6a42)
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight (#82033)
 * Move debug options to debug menu (#82029)
 * [MoM] Remove double minus 100 from awakening calculations (#81991)

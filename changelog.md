@@ -194,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-07-25-2153 ([4af9d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-2153))
 
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-25-1831 ([03e6a42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-1831))
-
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight ([#82033](https://github.com/CleverRaven/Cataclysm-DDA/pull/82033))
 * Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
 * [MoM] Remove double minus 100 from awakening calculations ([#81991](https://github.com/CleverRaven/Cataclysm-DDA/pull/81991))
