@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-07-29-2248 (7bf307e)
 * Fix NPC rules checkbox CONFIRM key double toggle (#82109)
 
 Cataclysm-DDA 0.I release candidate 2025-07-29-2155 (91c839a)
@@ -99,8 +101,6 @@ Cataclysm-DDA 0.I release candidate 2025-07-26-1115 (604a3ac)
 
 Cataclysm-DDA experimental build 2025-07-26-1055 (536bcdf)
 * Add more books to houses (#82009)
-
-Cataclysm-DDA 0.I release candidate 2025-07-26-0603 (3cdbbf1)
 * Aftershock: Small price updates for vendors (#82027)
 
 Cataclysm-DDA experimental build 2025-07-26-0433 (46e0107)

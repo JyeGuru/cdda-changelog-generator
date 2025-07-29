@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-29-2248 ([7bf307e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-29-2248))
+
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-07-26-1055 ([536bcdf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1055))
 
 * Add more books to houses ([#82009](https://github.com/CleverRaven/Cataclysm-DDA/pull/82009))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-26-0603 ([3cdbbf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-26-0603))
-
 * Aftershock: Small price updates for vendors ([#82027](https://github.com/CleverRaven/Cataclysm-DDA/pull/82027))
 
 ---
