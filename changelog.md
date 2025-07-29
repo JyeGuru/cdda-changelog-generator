@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-29-1449 ([bc4767e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-29-1449))
+
+* Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
 * scale cheesemaking batches ([#81963](https://github.com/CleverRaven/Cataclysm-DDA/pull/81963))
 * Add bus variant with bike rack ([#82003](https://github.com/CleverRaven/Cataclysm-DDA/pull/82003))
 * Stop using pre-apoc price as a fallback for postapoc price ([#82075](https://github.com/CleverRaven/Cataclysm-DDA/pull/82075))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-07-25-2314 ([5988285](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-2314))
 
 * [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot ([#82035](https://github.com/CleverRaven/Cataclysm-DDA/pull/82035))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-25-2153 ([4af9d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-25-2153))
-
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight ([#82033](https://github.com/CleverRaven/Cataclysm-DDA/pull/82033))
 * Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
