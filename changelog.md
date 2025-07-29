@@ -165,11 +165,6 @@
 * Use convex hull instead of bounding box for balanced_wheel_config ([#82007](https://github.com/CleverRaven/Cataclysm-DDA/pull/82007))
 * Update Monster Doc on Vision Ranges with default value ([#82010](https://github.com/CleverRaven/Cataclysm-DDA/pull/82010))
 * Test does random_chargen false work ([#82030](https://github.com/CleverRaven/Cataclysm-DDA/pull/82030))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-26-1115 ([604a3ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-26-1115))
-
 * Manually backport "Aftershock Update loading screen to actually get rid of off-black areas" ([#82038](https://github.com/CleverRaven/Cataclysm-DDA/pull/82038))
 * rename strict -> strict_boiling to match docs ([#82049](https://github.com/CleverRaven/Cataclysm-DDA/pull/82049))
 * Routine i18n updates on 26 July 2025 ([#82052](https://github.com/CleverRaven/Cataclysm-DDA/pull/82052))
