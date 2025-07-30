@@ -1,3 +1,16 @@
+* Fix zones disabling on save/load ([#82098](https://github.com/CleverRaven/Cataclysm-DDA/pull/82098))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-30-0242 ([63e2600](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-0242))
+
+* Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space ([#82121](https://github.com/CleverRaven/Cataclysm-DDA/pull/82121))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-30-0146 ([04e272e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-0146))
+
+* Obsolete tied down furniture ([#82124](https://github.com/CleverRaven/Cataclysm-DDA/pull/82124))
 
 ---
 
@@ -178,17 +191,7 @@
 
 * Add more books to houses ([#82009](https://github.com/CleverRaven/Cataclysm-DDA/pull/82009))
 * Aftershock: Small price updates for vendors ([#82027](https://github.com/CleverRaven/Cataclysm-DDA/pull/82027))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-26-0433 ([46e0107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-0433))
-
 * [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-26-0130 ([215a685](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-0130))
-
 * [MoM] Nether Attunement affects Torrential Channeling unlock chance ([#82043](https://github.com/CleverRaven/Cataclysm-DDA/pull/82043))
 * [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot ([#82035](https://github.com/CleverRaven/Cataclysm-DDA/pull/82035))
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
@@ -231,6 +234,4 @@
 * Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
 * Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
 * Only forget vehicle ghost when gaining control ([#81953](https://github.com/CleverRaven/Cataclysm-DDA/pull/81953))
-* [MoM] Fix achivements being granted by NPCs awakening ([#81949](https://github.com/CleverRaven/Cataclysm-DDA/pull/81949))
 * Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
-* Always show clean water on top of consume menu ([#81947](https://github.com/CleverRaven/Cataclysm-DDA/pull/81947))

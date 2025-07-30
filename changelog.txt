@@ -1,3 +1,10 @@
+* Fix zones disabling on save/load (#82098)
+
+Cataclysm-DDA experimental build 2025-07-30-0242 (63e2600)
+* Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space (#82121)
+
+Cataclysm-DDA experimental build 2025-07-30-0146 (04e272e)
+* Obsolete tied down furniture (#82124)
 
 Cataclysm-DDA 0.I release candidate 2025-07-29-2248 (7bf307e)
 * Fix NPC rules checkbox CONFIRM key double toggle (#82109)
@@ -100,11 +107,7 @@ Cataclysm-DDA experimental build 2025-07-26-1153 (ea12e78)
 Cataclysm-DDA experimental build 2025-07-26-1055 (536bcdf)
 * Add more books to houses (#82009)
 * Aftershock: Small price updates for vendors (#82027)
-
-Cataclysm-DDA experimental build 2025-07-26-0433 (46e0107)
 * [MoM] Stutterstep now shows in enemy info (#82046)
-
-Cataclysm-DDA experimental build 2025-07-26-0130 (215a685)
 * [MoM] Nether Attunement affects Torrential Channeling unlock chance (#82043)
 * [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot (#82035)
 * can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)
@@ -147,6 +150,4 @@ Cataclysm-DDA experimental build 2025-07-26-0130 (215a685)
 * Use naked prisoners for boomer tests rather than thugs (#81954)
 * Make full and half field stone wall bash results more consistent (#81958)
 * Only forget vehicle ghost when gaining control (#81953)
-* [MoM] Fix achivements being granted by NPCs awakening (#81949)
 * Add PERMEABLE to various terrain (#81957)
-* Always show clean water on top of consume menu (#81947)
