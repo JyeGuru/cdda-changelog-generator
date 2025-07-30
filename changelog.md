@@ -5,6 +5,11 @@
 
 * Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
 * [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-30-1808 ([c5bb3ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-1808))
+
 * [Xedra Evolved] More Nether Cabin nests ([#82020](https://github.com/CleverRaven/Cataclysm-DDA/pull/82020))
 * Weekly Changelog 2025-07-21 to 2025-07-28 ([#82085](https://github.com/CleverRaven/Cataclysm-DDA/pull/82085))
 
@@ -173,11 +178,6 @@
 * [Magiclysm] SOMATIC spells are harder to cast with broken arms ([#82041](https://github.com/CleverRaven/Cataclysm-DDA/pull/82041))
 * [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
 * [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-26-2353 ([247d583](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-2353))
-
 * Cotton fabric isn't as dense as rubber ([#82032](https://github.com/CleverRaven/Cataclysm-DDA/pull/82032))
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 * Armors faults. Part 1: Steel Plate ([#81969](https://github.com/CleverRaven/Cataclysm-DDA/pull/81969))
