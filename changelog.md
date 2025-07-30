@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-30-2057 ([dd90728](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-2057))
+
+* Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-07-30-1534 ([767fa45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-30-1534))
 
 * Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
@@ -68,7 +74,6 @@
 #### Cataclysm-DDA experimental build 2025-07-29-1449 ([bc4767e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-29-1449))
 
 * Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
-* scale cheesemaking batches ([#81963](https://github.com/CleverRaven/Cataclysm-DDA/pull/81963))
 * Add bus variant with bike rack ([#82003](https://github.com/CleverRaven/Cataclysm-DDA/pull/82003))
 * Stop using pre-apoc price as a fallback for postapoc price ([#82075](https://github.com/CleverRaven/Cataclysm-DDA/pull/82075))
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82102](https://github.com/CleverRaven/Cataclysm-DDA/pull/82102))
@@ -151,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2025-07-27-1520 ([884832a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-1520))
 
 * Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-27-1348 ([8f9212a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-27-1348))
-
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
 
 ---

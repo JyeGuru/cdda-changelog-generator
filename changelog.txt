@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-30-2057 (dd90728)
+* Revert highway interchange frequency increase (#82131)
+
 Cataclysm-DDA 0.I release candidate 2025-07-30-1534 (767fa45)
 * Backport "Fix eocs of Mansion Escape scenario" (#82114)
 * [Xedra Evolved] Fix VERRBAL (#82129)
@@ -35,7 +38,6 @@ Cataclysm-DDA 0.I release candidate 2025-07-29-2155 (91c839a)
 
 Cataclysm-DDA experimental build 2025-07-29-1449 (bc4767e)
 * Fix 0.I blocker error when swapping in vehicle (#82113)
-* scale cheesemaking batches (#81963)
 * Add bus variant with bike rack (#82003)
 * Stop using pre-apoc price as a fallback for postapoc price (#82075)
 * Fix NPC rules checkbox CONFIRM key double toggle (#82102)
@@ -82,8 +84,6 @@ Cataclysm-DDA experimental build 2025-07-27-1602 (e4ead20)
 
 Cataclysm-DDA experimental build 2025-07-27-1520 (884832a)
 * Audit stats of a few grenade (#82063)
-
-Cataclysm-DDA 0.I release candidate 2025-07-27-1348 (8f9212a)
 * [Magiclysm] Fix Feral Research Thaumaturge drops (#82065)
 
 Cataclysm-DDA experimental build 2025-07-27-1342 (75d7363)
