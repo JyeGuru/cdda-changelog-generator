@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-30-1534 ([767fa45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-30-1534))
+
 * Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
 * [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
 * [Xedra Evolved] More Nether Cabin nests ([#82020](https://github.com/CleverRaven/Cataclysm-DDA/pull/82020))
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-07-26-2353 ([247d583](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-2353))
 
 * Cotton fabric isn't as dense as rubber ([#82032](https://github.com/CleverRaven/Cataclysm-DDA/pull/82032))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-26-2303 ([ea53f87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-2303))
-
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 * Armors faults. Part 1: Steel Plate ([#81969](https://github.com/CleverRaven/Cataclysm-DDA/pull/81969))
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))

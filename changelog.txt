@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-07-30-1534 (767fa45)
 * Backport "Fix eocs of Mansion Escape scenario" (#82114)
 * [Xedra Evolved] Fix VERRBAL (#82129)
 * [Xedra Evolved] More Nether Cabin nests (#82020)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-07-27-0245 (56d93cc)
 
 Cataclysm-DDA experimental build 2025-07-26-2353 (247d583)
 * Cotton fabric isn't as dense as rubber (#82032)
-
-Cataclysm-DDA experimental build 2025-07-26-2303 (ea53f87)
 * Add E HRT/birth control (#82050)
 * Armors faults. Part 1: Steel Plate (#81969)
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. (#82051)
