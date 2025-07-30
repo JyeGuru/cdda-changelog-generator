@@ -1,3 +1,10 @@
+* Allow EOCs to read artifact resonance ([#82079](https://github.com/CleverRaven/Cataclysm-DDA/pull/82079))
+* [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-30-0344 ([bb54861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-0344))
+
 * Fix zones disabling on save/load ([#82098](https://github.com/CleverRaven/Cataclysm-DDA/pull/82098))
 
 ---
@@ -184,11 +191,6 @@
 * Remove failure limit from item density test ([#82055](https://github.com/CleverRaven/Cataclysm-DDA/pull/82055))
 * Cold tea is Iced Tea ([#82054](https://github.com/CleverRaven/Cataclysm-DDA/pull/82054))
 * [ Aftershock ] Create help_files.json ([#81979](https://github.com/CleverRaven/Cataclysm-DDA/pull/81979))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-26-1055 ([536bcdf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1055))
-
 * Add more books to houses ([#82009](https://github.com/CleverRaven/Cataclysm-DDA/pull/82009))
 * Aftershock: Small price updates for vendors ([#82027](https://github.com/CleverRaven/Cataclysm-DDA/pull/82027))
 * [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
@@ -228,10 +230,8 @@
 * [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
 * Add haul toggle to action menu when hauling ([#81960](https://github.com/CleverRaven/Cataclysm-DDA/pull/81960))
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
-* [MoM/Vanilla] Adjust weights of amalgamation spawn groups to allow rarer MoM amalgamations to spawn rarely ([#81951](https://github.com/CleverRaven/Cataclysm-DDA/pull/81951))
 * Loudness adjustments for subsonic rounds ([#81965](https://github.com/CleverRaven/Cataclysm-DDA/pull/81965))
 * Remove Source Safety from generic rural buildings ([#81966](https://github.com/CleverRaven/Cataclysm-DDA/pull/81966))
 * Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
 * Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
-* Only forget vehicle ghost when gaining control ([#81953](https://github.com/CleverRaven/Cataclysm-DDA/pull/81953))
 * Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
