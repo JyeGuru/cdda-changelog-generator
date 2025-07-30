@@ -1,3 +1,11 @@
+* Weekly Changelog 2025-07-21 to 2025-07-28 ([#82085](https://github.com/CleverRaven/Cataclysm-DDA/pull/82085))
+* Refactor game::swap_critters()  ([#82116](https://github.com/CleverRaven/Cataclysm-DDA/pull/82116))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-30-1306 ([aeb4600](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-30-1306))
+
+* Fix 0.I blocker error when swapping in vehicle ([#82118](https://github.com/CleverRaven/Cataclysm-DDA/pull/82118))
 
 ---
 
@@ -149,12 +157,6 @@
 #### Cataclysm-DDA experimental build 2025-07-27-0245 ([56d93cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0245))
 
 * [Magiclysm] Adjust elven vision based on light level ([#82026](https://github.com/CleverRaven/Cataclysm-DDA/pull/82026))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-27-0051 ([7bb0af3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0051))
-
-* Allow control of adjacent tile vehicle while in vehicle ([#81955](https://github.com/CleverRaven/Cataclysm-DDA/pull/81955))
 * [Magiclysm] SOMATIC spells are harder to cast with broken arms ([#82041](https://github.com/CleverRaven/Cataclysm-DDA/pull/82041))
 * [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
 * [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
@@ -176,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-07-26-1705 ([d8949ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1705))
 
 * Armors faults. Part 1: Steel Plate ([#81969](https://github.com/CleverRaven/Cataclysm-DDA/pull/81969))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-26-1619 ([c04f0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1619))
-
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
 * Update mutation ordering for newer hairstyles ([#81984](https://github.com/CleverRaven/Cataclysm-DDA/pull/81984))
 * Use convex hull instead of bounding box for balanced_wheel_config ([#82007](https://github.com/CleverRaven/Cataclysm-DDA/pull/82007))
@@ -226,7 +223,6 @@
 * Aftershock Update loading screen to actually get rid of off-black areas ([#81977](https://github.com/CleverRaven/Cataclysm-DDA/pull/81977))
 * [ Aftershock ]Add Wiring AFS ([#81978](https://github.com/CleverRaven/Cataclysm-DDA/pull/81978))
 * Gate final ungated zstd define for real this time. ([#81972](https://github.com/CleverRaven/Cataclysm-DDA/pull/81972))
-* [MoM] Add phosphorescent amalgamation ([#81956](https://github.com/CleverRaven/Cataclysm-DDA/pull/81956))
 * dry goods itemgroup audit ([#81964](https://github.com/CleverRaven/Cataclysm-DDA/pull/81964))
 * [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
 * Add haul toggle to action menu when hauling ([#81960](https://github.com/CleverRaven/Cataclysm-DDA/pull/81960))
@@ -234,4 +230,3 @@
 * Loudness adjustments for subsonic rounds ([#81965](https://github.com/CleverRaven/Cataclysm-DDA/pull/81965))
 * Remove Source Safety from generic rural buildings ([#81966](https://github.com/CleverRaven/Cataclysm-DDA/pull/81966))
 * Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
-* Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
