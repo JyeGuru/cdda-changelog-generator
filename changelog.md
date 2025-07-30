@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-30-2337 ([4b7a74a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-30-2337))
+
+* Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
 
 ---
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-07-27-0404 ([ded388f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0404))
 
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82039](https://github.com/CleverRaven/Cataclysm-DDA/pull/82039))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-27-0245 ([56d93cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0245))
-
 * [Magiclysm] Adjust elven vision based on light level ([#82026](https://github.com/CleverRaven/Cataclysm-DDA/pull/82026))
 * [Magiclysm] SOMATIC spells are harder to cast with broken arms ([#82041](https://github.com/CleverRaven/Cataclysm-DDA/pull/82041))
 * [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
@@ -234,4 +235,3 @@
 * [ Aftershock ]Add Wiring AFS ([#81978](https://github.com/CleverRaven/Cataclysm-DDA/pull/81978))
 * Gate final ungated zstd define for real this time. ([#81972](https://github.com/CleverRaven/Cataclysm-DDA/pull/81972))
 * [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
-* Remove Source Safety from generic rural buildings ([#81966](https://github.com/CleverRaven/Cataclysm-DDA/pull/81966))
