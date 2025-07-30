@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-30-0456 ([71c4f2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-0456))
+
+* Check survival skill for automatic ingredient filtering for poison and hallu ([#81995](https://github.com/CleverRaven/Cataclysm-DDA/pull/81995))
 * Allow EOCs to read artifact resonance ([#82079](https://github.com/CleverRaven/Cataclysm-DDA/pull/82079))
 * [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
 
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-07-26-1619 ([c04f0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1619))
 
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-26-1153 ([ea12e78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-26-1153))
-
 * Update mutation ordering for newer hairstyles ([#81984](https://github.com/CleverRaven/Cataclysm-DDA/pull/81984))
 * Use convex hull instead of bounding box for balanced_wheel_config ([#82007](https://github.com/CleverRaven/Cataclysm-DDA/pull/82007))
 * Update Monster Doc on Vision Ranges with default value ([#82010](https://github.com/CleverRaven/Cataclysm-DDA/pull/82010))
@@ -232,6 +233,5 @@
 * Flashbang stuff ([#81959](https://github.com/CleverRaven/Cataclysm-DDA/pull/81959))
 * Loudness adjustments for subsonic rounds ([#81965](https://github.com/CleverRaven/Cataclysm-DDA/pull/81965))
 * Remove Source Safety from generic rural buildings ([#81966](https://github.com/CleverRaven/Cataclysm-DDA/pull/81966))
-* Use naked prisoners for boomer tests rather than thugs ([#81954](https://github.com/CleverRaven/Cataclysm-DDA/pull/81954))
 * Make full and half field stone wall bash results more consistent ([#81958](https://github.com/CleverRaven/Cataclysm-DDA/pull/81958))
 * Add PERMEABLE to various terrain ([#81957](https://github.com/CleverRaven/Cataclysm-DDA/pull/81957))
