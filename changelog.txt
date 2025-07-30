@@ -1,4 +1,8 @@
+* [Xedra Evolved] Fix VERRBAL (#82129)
+* [Xedra Evolved] More Nether Cabin nests (#82020)
 * Weekly Changelog 2025-07-21 to 2025-07-28 (#82085)
+
+Cataclysm-DDA experimental build 2025-07-30-1341 (fb91d98)
 * Refactor game::swap_critters()  (#82116)
 
 Cataclysm-DDA 0.I release candidate 2025-07-30-1306 (aeb4600)
@@ -94,8 +98,6 @@ Cataclysm-DDA experimental build 2025-07-26-2353 (247d583)
 
 Cataclysm-DDA experimental build 2025-07-26-2303 (ea53f87)
 * Add E HRT/birth control (#82050)
-
-Cataclysm-DDA experimental build 2025-07-26-1705 (d8949ca)
 * Armors faults. Part 1: Steel Plate (#81969)
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. (#82051)
 * Update mutation ordering for newer hairstyles (#81984)
@@ -145,7 +147,5 @@ Cataclysm-DDA experimental build 2025-07-26-1705 (d8949ca)
 * dry goods itemgroup audit (#81964)
 * [ Aftershock ]Add Wiring AFS (#81968)
 * Add haul toggle to action menu when hauling (#81960)
-* Flashbang stuff (#81959)
 * Loudness adjustments for subsonic rounds (#81965)
 * Remove Source Safety from generic rural buildings (#81966)
-* Make full and half field stone wall bash results more consistent (#81958)
