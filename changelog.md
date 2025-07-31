@@ -1,3 +1,14 @@
+* Camp crafting requires all resources to be available ([#82090](https://github.com/CleverRaven/Cataclysm-DDA/pull/82090))
+* MORE DEBUG POWER ([#82122](https://github.com/CleverRaven/Cataclysm-DDA/pull/82122))
+* Obsolete tied down furniture ([#82128](https://github.com/CleverRaven/Cataclysm-DDA/pull/82128))
+* fix the styling of ImTui widgets ([#82135](https://github.com/CleverRaven/Cataclysm-DDA/pull/82135))
+* [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82136](https://github.com/CleverRaven/Cataclysm-DDA/pull/82136))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-31-0133 ([715dd4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-0133))
+
+* Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
 
 ---
 
@@ -175,11 +186,6 @@
 
 * Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-27-1342 ([75d7363](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-1342))
-
 * Add dolphin shorts, simplify hot pants definitions + small changes ([#82036](https://github.com/CleverRaven/Cataclysm-DDA/pull/82036))
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82039](https://github.com/CleverRaven/Cataclysm-DDA/pull/82039))
 * [Magiclysm] Adjust elven vision based on light level ([#82026](https://github.com/CleverRaven/Cataclysm-DDA/pull/82026))
@@ -188,7 +194,6 @@
 * [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
 * Cotton fabric isn't as dense as rubber ([#82032](https://github.com/CleverRaven/Cataclysm-DDA/pull/82032))
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
-* Armors faults. Part 1: Steel Plate ([#81969](https://github.com/CleverRaven/Cataclysm-DDA/pull/81969))
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
 * Update mutation ordering for newer hairstyles ([#81984](https://github.com/CleverRaven/Cataclysm-DDA/pull/81984))
 * Use convex hull instead of bounding box for balanced_wheel_config ([#82007](https://github.com/CleverRaven/Cataclysm-DDA/pull/82007))
@@ -199,7 +204,6 @@
 * Routine i18n updates on 26 July 2025 ([#82052](https://github.com/CleverRaven/Cataclysm-DDA/pull/82052))
 * Remove failure limit from item density test ([#82055](https://github.com/CleverRaven/Cataclysm-DDA/pull/82055))
 * Cold tea is Iced Tea ([#82054](https://github.com/CleverRaven/Cataclysm-DDA/pull/82054))
-* [ Aftershock ] Create help_files.json ([#81979](https://github.com/CleverRaven/Cataclysm-DDA/pull/81979))
 * Add more books to houses ([#82009](https://github.com/CleverRaven/Cataclysm-DDA/pull/82009))
 * Aftershock: Small price updates for vendors ([#82027](https://github.com/CleverRaven/Cataclysm-DDA/pull/82027))
 * [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
@@ -222,7 +226,6 @@
 * [Aftershock] Mark Sky Islands incompatible ([#82011](https://github.com/CleverRaven/Cataclysm-DDA/pull/82011))
 * Make more parking lot omts looks_like s_lot ([#81981](https://github.com/CleverRaven/Cataclysm-DDA/pull/81981))
 * [Isolation Protocol] Mark other total conversions as incompatible ([#81989](https://github.com/CleverRaven/Cataclysm-DDA/pull/81989))
-* Expand usage of doctoc for md file table of content generation ([#81970](https://github.com/CleverRaven/Cataclysm-DDA/pull/81970))
 * [Aftershock] Mark Sky Islands incompatible ([#81988](https://github.com/CleverRaven/Cataclysm-DDA/pull/81988))
 * Remove legacy mission handling ([#82004](https://github.com/CleverRaven/Cataclysm-DDA/pull/82004))
 * [MoM] Fix illuminate description ([#81994](https://github.com/CleverRaven/Cataclysm-DDA/pull/81994))
@@ -231,7 +234,3 @@
 * Prevent reading the evac bulletin when it's too dark ([#82000](https://github.com/CleverRaven/Cataclysm-DDA/pull/82000))
 * [Xedra Evolved/Magiclysm] Fix changelings being assigned the Human heritage trait ([#81985](https://github.com/CleverRaven/Cataclysm-DDA/pull/81985))
 * [Xedra Evolvd] Add AoE to Clap of Thunder Sylph glamour ([#81982](https://github.com/CleverRaven/Cataclysm-DDA/pull/81982))
-* Aftershock Update loading screen to actually get rid of off-black areas ([#81977](https://github.com/CleverRaven/Cataclysm-DDA/pull/81977))
-* [ Aftershock ]Add Wiring AFS ([#81978](https://github.com/CleverRaven/Cataclysm-DDA/pull/81978))
-* Gate final ungated zstd define for real this time. ([#81972](https://github.com/CleverRaven/Cataclysm-DDA/pull/81972))
-* [ Aftershock ]Add Wiring AFS ([#81968](https://github.com/CleverRaven/Cataclysm-DDA/pull/81968))
