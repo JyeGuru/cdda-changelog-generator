@@ -2,6 +2,11 @@
 * Aftershock: Add a food vendor to the spaceport. ([#82087](https://github.com/CleverRaven/Cataclysm-DDA/pull/82087))
 * Avatar-only traits/professions for chargen ([#82125](https://github.com/CleverRaven/Cataclysm-DDA/pull/82125))
 * More JSON error reporting for extend/delete/relative/proportional ([#82126](https://github.com/CleverRaven/Cataclysm-DDA/pull/82126))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-31-1625 ([4ad8536](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-1625))
+
 * Fix material of USP pistol ([#82142](https://github.com/CleverRaven/Cataclysm-DDA/pull/82142))
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82154](https://github.com/CleverRaven/Cataclysm-DDA/pull/82154))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
@@ -152,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2025-07-28-2048 ([cfd9773](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-2048))
 
 * You can do your makeup ([#82092](https://github.com/CleverRaven/Cataclysm-DDA/pull/82092))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-28-1243 ([8f04b0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-28-1243))
-
 * Aftershock: Many minor fixes ([#82081](https://github.com/CleverRaven/Cataclysm-DDA/pull/82081))
 
 ---
