@@ -1,9 +1,10 @@
+* [MoM/Xedra Evolved] Two new Mobile task forces (#82120)
+
+Cataclysm-DDA experimental build 2025-07-31-2148 (ff4beb7)
+* Fix Ship Vehicle Teleport (#82162)
 
 Cataclysm-DDA 0.I release candidate 2025-07-31-1856 (6802a2a)
 * Camp crafting requires all resources to be available (#82155)
-
-Cataclysm-DDA experimental build 2025-07-31-1743 (9888942)
-* Add light drilling toolset for non-steel operations (#82005)
 * Aftershock: Add a food vendor to the spaceport. (#82087)
 * Avatar-only traits/professions for chargen (#82125)
 * More JSON error reporting for extend/delete/relative/proportional (#82126)
@@ -96,8 +97,6 @@ Cataclysm-DDA experimental build 2025-07-29-0320 (b1e4dc0)
 Cataclysm-DDA experimental build 2025-07-28-2048 (cfd9773)
 * You can do your makeup (#82092)
 * Aftershock: Many minor fixes (#82081)
-
-Cataclysm-DDA experimental build 2025-07-28-1325 (07eb92f)
 * Use the more typical name for China instead of an archaic one. (#82088)
 * Warn when going up/down into a dangerous field (#82082)
 * Aftershock: More Small fixes (#82066)
@@ -145,5 +144,4 @@ Cataclysm-DDA experimental build 2025-07-28-1325 (07eb92f)
 * [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light (#82023)
 * run toc.yml on any changes to the doc directory (#82017)
 * [Isolation Protocol] Mark other total conversions as incompatible (#82012)
-* Homemade grenade recipe audit (#82006)
 * [Aftershock] Mark Sky Islands incompatible (#82011)
