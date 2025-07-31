@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-31-2257 ([ce602db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-2257))
+
 * [MoM/Xedra Evolved] Two new Mobile task forces ([#82120](https://github.com/CleverRaven/Cataclysm-DDA/pull/82120))
 
 ---
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-07-29-0320 ([b1e4dc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-29-0320))
 
 * Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-28-2048 ([cfd9773](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-2048))
-
 * You can do your makeup ([#82092](https://github.com/CleverRaven/Cataclysm-DDA/pull/82092))
 * Aftershock: Many minor fixes ([#82081](https://github.com/CleverRaven/Cataclysm-DDA/pull/82081))
 * Use the more typical name for China instead of an archaic one. ([#82088](https://github.com/CleverRaven/Cataclysm-DDA/pull/82088))

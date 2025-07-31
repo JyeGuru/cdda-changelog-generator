@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-07-31-2257 (ce602db)
 * [MoM/Xedra Evolved] Two new Mobile task forces (#82120)
 
 Cataclysm-DDA experimental build 2025-07-31-2148 (ff4beb7)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2025-07-29-1449 (bc4767e)
 
 Cataclysm-DDA experimental build 2025-07-29-0320 (b1e4dc0)
 * Clean up some unreachable code for murdering NPCs (#82106)
-
-Cataclysm-DDA experimental build 2025-07-28-2048 (cfd9773)
 * You can do your makeup (#82092)
 * Aftershock: Many minor fixes (#82081)
 * Use the more typical name for China instead of an archaic one. (#82088)
