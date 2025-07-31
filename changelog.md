@@ -4,6 +4,11 @@
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
 * Camp crafting requires all resources to be available ([#82090](https://github.com/CleverRaven/Cataclysm-DDA/pull/82090))
 * MORE DEBUG POWER ([#82122](https://github.com/CleverRaven/Cataclysm-DDA/pull/82122))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-31-0504 ([43f4e43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-0504))
+
 * Obsolete tied down furniture ([#82128](https://github.com/CleverRaven/Cataclysm-DDA/pull/82128))
 * fix the styling of ImTui widgets ([#82135](https://github.com/CleverRaven/Cataclysm-DDA/pull/82135))
 
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-07-27-2308 ([6ddc18f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-2308))
 
 * Add map_is_outside condition ([#82076](https://github.com/CleverRaven/Cataclysm-DDA/pull/82076))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-27-1602 ([e4ead20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-1602))
-
 * Audit containers used for homemade grenades, molotov ([#82062](https://github.com/CleverRaven/Cataclysm-DDA/pull/82062))
 * [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding ([#82064](https://github.com/CleverRaven/Cataclysm-DDA/pull/82064))
 * Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
