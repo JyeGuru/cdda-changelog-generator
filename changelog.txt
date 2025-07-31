@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-07-31-1259 (83de852)
+* Nested ammo crafts (#82153)
+
 Cataclysm-DDA experimental build 2025-07-31-0621 (6243b50)
 * Close revive loophole (#82141)
 * Silence error from grep in `compiledb make prefix` (#82019)
@@ -95,8 +98,6 @@ Cataclysm-DDA 0.I release candidate 2025-07-28-0513 (1ed1a32)
 
 Cataclysm-DDA experimental build 2025-07-28-0315 (d52a80c)
 * Update the rules for sealing (#82070)
-
-Cataclysm-DDA experimental build 2025-07-27-2354 (043289f)
 * [Magiclysm] Add a spell to feral high druids and feral high earthshapers (#82037)
 * Aftershock: Many minor fixes (#82059)
 * small improvements to keybidnings window (#82069)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-07-27-2354 (043289f)
 * [MoM] Fix illuminate description (#81994)
 * [MoM] Doc format fixing (#81998)
 * Prevent reading the evac bulletin when it's too dark (#82000)
-* [Xedra Evolved/Magiclysm] Fix changelings being assigned the Human heritage trait (#81985)

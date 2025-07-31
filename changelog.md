@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-07-31-1259 ([83de852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-1259))
+
+* Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-31-0621 ([6243b50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-0621))
 
 * Close revive loophole ([#82141](https://github.com/CleverRaven/Cataclysm-DDA/pull/82141))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-07-28-0315 ([d52a80c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-0315))
 
 * Update the rules for sealing ([#82070](https://github.com/CleverRaven/Cataclysm-DDA/pull/82070))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-27-2354 ([043289f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-2354))
-
 * [Magiclysm] Add a spell to feral high druids and feral high earthshapers ([#82037](https://github.com/CleverRaven/Cataclysm-DDA/pull/82037))
 * Aftershock: Many minor fixes ([#82059](https://github.com/CleverRaven/Cataclysm-DDA/pull/82059))
 * small improvements to keybidnings window ([#82069](https://github.com/CleverRaven/Cataclysm-DDA/pull/82069))
@@ -233,4 +234,3 @@
 * [MoM] Fix illuminate description ([#81994](https://github.com/CleverRaven/Cataclysm-DDA/pull/81994))
 * [MoM] Doc format fixing ([#81998](https://github.com/CleverRaven/Cataclysm-DDA/pull/81998))
 * Prevent reading the evac bulletin when it's too dark ([#82000](https://github.com/CleverRaven/Cataclysm-DDA/pull/82000))
-* [Xedra Evolved/Magiclysm] Fix changelings being assigned the Human heritage trait ([#81985](https://github.com/CleverRaven/Cataclysm-DDA/pull/81985))
