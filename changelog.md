@@ -1,3 +1,4 @@
+* Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
 * Add light drilling toolset for non-steel operations ([#82005](https://github.com/CleverRaven/Cataclysm-DDA/pull/82005))
 * Aftershock: Add a food vendor to the spaceport. ([#82087](https://github.com/CleverRaven/Cataclysm-DDA/pull/82087))
 * Avatar-only traits/professions for chargen ([#82125](https://github.com/CleverRaven/Cataclysm-DDA/pull/82125))
@@ -8,6 +9,11 @@
 #### Cataclysm-DDA experimental build 2025-07-31-1625 ([4ad8536](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-1625))
 
 * Fix material of USP pistol ([#82142](https://github.com/CleverRaven/Cataclysm-DDA/pull/82142))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-31-1704 ([88fa4c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-1704))
+
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82154](https://github.com/CleverRaven/Cataclysm-DDA/pull/82154))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
 
@@ -177,11 +183,6 @@
 
 * Aftershock: More Small fixes ([#82066](https://github.com/CleverRaven/Cataclysm-DDA/pull/82066))
 * Clarify refusal message when faction trust isn't high enough ([#82061](https://github.com/CleverRaven/Cataclysm-DDA/pull/82061))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-28-0315 ([d52a80c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-0315))
-
 * Update the rules for sealing ([#82070](https://github.com/CleverRaven/Cataclysm-DDA/pull/82070))
 * [Magiclysm] Add a spell to feral high druids and feral high earthshapers ([#82037](https://github.com/CleverRaven/Cataclysm-DDA/pull/82037))
 * Aftershock: Many minor fixes ([#82059](https://github.com/CleverRaven/Cataclysm-DDA/pull/82059))
@@ -227,4 +228,3 @@
 * [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
 * Homemade grenade recipe audit ([#82006](https://github.com/CleverRaven/Cataclysm-DDA/pull/82006))
 * [Aftershock] Mark Sky Islands incompatible ([#82011](https://github.com/CleverRaven/Cataclysm-DDA/pull/82011))
-* Remove legacy mission handling ([#82004](https://github.com/CleverRaven/Cataclysm-DDA/pull/82004))
