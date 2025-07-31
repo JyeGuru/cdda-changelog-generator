@@ -1,3 +1,16 @@
+* Add light drilling toolset for non-steel operations ([#82005](https://github.com/CleverRaven/Cataclysm-DDA/pull/82005))
+* Aftershock: Add a food vendor to the spaceport. ([#82087](https://github.com/CleverRaven/Cataclysm-DDA/pull/82087))
+* Avatar-only traits/professions for chargen ([#82125](https://github.com/CleverRaven/Cataclysm-DDA/pull/82125))
+* More JSON error reporting for extend/delete/relative/proportional ([#82126](https://github.com/CleverRaven/Cataclysm-DDA/pull/82126))
+* Fix material of USP pistol ([#82142](https://github.com/CleverRaven/Cataclysm-DDA/pull/82142))
+* [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82154](https://github.com/CleverRaven/Cataclysm-DDA/pull/82154))
+* [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-07-31-1551 ([b82f568](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-1551))
+
+* Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
 
 ---
 
@@ -84,12 +97,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-30-1306 ([aeb4600](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-30-1306))
 
 * Fix 0.I blocker error when swapping in vehicle ([#82118](https://github.com/CleverRaven/Cataclysm-DDA/pull/82118))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-30-0456 ([71c4f2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-0456))
-
-* Check survival skill for automatic ingredient filtering for poison and hallu ([#81995](https://github.com/CleverRaven/Cataclysm-DDA/pull/81995))
 * Allow EOCs to read artifact resonance ([#82079](https://github.com/CleverRaven/Cataclysm-DDA/pull/82079))
 * [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
 
@@ -128,7 +135,6 @@
 #### Cataclysm-DDA experimental build 2025-07-29-1449 ([bc4767e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-29-1449))
 
 * Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
-* Add bus variant with bike rack ([#82003](https://github.com/CleverRaven/Cataclysm-DDA/pull/82003))
 * Stop using pre-apoc price as a fallback for postapoc price ([#82075](https://github.com/CleverRaven/Cataclysm-DDA/pull/82075))
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82102](https://github.com/CleverRaven/Cataclysm-DDA/pull/82102))
 * Increase highway interchange frequency, pad intersections for ramps ([#82100](https://github.com/CleverRaven/Cataclysm-DDA/pull/82100))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-07-28-0513 ([45a39c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-0513))
 
 * Aftershock: More Small fixes ([#82066](https://github.com/CleverRaven/Cataclysm-DDA/pull/82066))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-28-0513 ([1ed1a32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-28-0513))
-
 * Clarify refusal message when faction trust isn't high enough ([#82061](https://github.com/CleverRaven/Cataclysm-DDA/pull/82061))
 
 ---
@@ -216,9 +217,7 @@
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight ([#82033](https://github.com/CleverRaven/Cataclysm-DDA/pull/82033))
 * Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
-* [MoM] Remove double minus 100 from awakening calculations ([#81991](https://github.com/CleverRaven/Cataclysm-DDA/pull/81991))
 * [Magiclysm] Fix aenóren spawn ([#82028](https://github.com/CleverRaven/Cataclysm-DDA/pull/82028))
-* The human mouth isn't attractive anymore ([#81992](https://github.com/CleverRaven/Cataclysm-DDA/pull/81992))
 * Move debug options to debug menu ([#82021](https://github.com/CleverRaven/Cataclysm-DDA/pull/82021))
 * Aftershock: Small price updates for vendors ([#82016](https://github.com/CleverRaven/Cataclysm-DDA/pull/82016))
 * Fix eocs of Mansion Escape scenario ([#82018](https://github.com/CleverRaven/Cataclysm-DDA/pull/82018))
@@ -228,9 +227,4 @@
 * [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
 * Homemade grenade recipe audit ([#82006](https://github.com/CleverRaven/Cataclysm-DDA/pull/82006))
 * [Aftershock] Mark Sky Islands incompatible ([#82011](https://github.com/CleverRaven/Cataclysm-DDA/pull/82011))
-* [Isolation Protocol] Mark other total conversions as incompatible ([#81989](https://github.com/CleverRaven/Cataclysm-DDA/pull/81989))
-* [Aftershock] Mark Sky Islands incompatible ([#81988](https://github.com/CleverRaven/Cataclysm-DDA/pull/81988))
 * Remove legacy mission handling ([#82004](https://github.com/CleverRaven/Cataclysm-DDA/pull/82004))
-* [MoM] Fix illuminate description ([#81994](https://github.com/CleverRaven/Cataclysm-DDA/pull/81994))
-* [MoM] Doc format fixing ([#81998](https://github.com/CleverRaven/Cataclysm-DDA/pull/81998))
-* Prevent reading the evac bulletin when it's too dark ([#82000](https://github.com/CleverRaven/Cataclysm-DDA/pull/82000))
