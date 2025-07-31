@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.I release candidate 2025-07-30-2337 (4b7a74a)
 * Cannot trap a monster and use it as an infinite training dummy (#82146)
+
+Cataclysm-DDA experimental build 2025-07-31-0045 (56c4907)
 * Obsolete and remove "speedydex" (#82143)
 
 Cataclysm-DDA experimental build 2025-07-30-2314 (1ac12e5)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2025-07-27-1520 (884832a)
 
 Cataclysm-DDA experimental build 2025-07-27-1342 (75d7363)
 * Add dolphin shorts, simplify hot pants definitions + small changes (#82036)
-
-Cataclysm-DDA experimental build 2025-07-27-0404 (ded388f)
 * [Magiclysm] Fix Feral Research Thaumaturge drops (#82039)
 * [Magiclysm] Adjust elven vision based on light level (#82026)
 * [Magiclysm] SOMATIC spells are harder to cast with broken arms (#82041)

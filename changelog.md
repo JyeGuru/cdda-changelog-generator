@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-30-2337 ([4b7a74a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-30-2337))
 
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-31-0045 ([56c4907](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-0045))
+
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
 
 ---
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-07-27-1342 ([75d7363](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-1342))
 
 * Add dolphin shorts, simplify hot pants definitions + small changes ([#82036](https://github.com/CleverRaven/Cataclysm-DDA/pull/82036))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-27-0404 ([ded388f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-27-0404))
-
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82039](https://github.com/CleverRaven/Cataclysm-DDA/pull/82039))
 * [Magiclysm] Adjust elven vision based on light level ([#82026](https://github.com/CleverRaven/Cataclysm-DDA/pull/82026))
 * [Magiclysm] SOMATIC spells are harder to cast with broken arms ([#82041](https://github.com/CleverRaven/Cataclysm-DDA/pull/82041))
