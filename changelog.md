@@ -1,4 +1,9 @@
 * Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-07-31-1743 ([9888942](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-1743))
+
 * Add light drilling toolset for non-steel operations ([#82005](https://github.com/CleverRaven/Cataclysm-DDA/pull/82005))
 * Aftershock: Add a food vendor to the spaceport. ([#82087](https://github.com/CleverRaven/Cataclysm-DDA/pull/82087))
 * Avatar-only traits/professions for chargen ([#82125](https://github.com/CleverRaven/Cataclysm-DDA/pull/82125))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-07-28-1233 ([e71e1b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-1233))
 
 * Warn when going up/down into a dangerous field ([#82082](https://github.com/CleverRaven/Cataclysm-DDA/pull/82082))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-28-0513 ([45a39c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-28-0513))
-
 * Aftershock: More Small fixes ([#82066](https://github.com/CleverRaven/Cataclysm-DDA/pull/82066))
 * Clarify refusal message when faction trust isn't high enough ([#82061](https://github.com/CleverRaven/Cataclysm-DDA/pull/82061))
 * Update the rules for sealing ([#82070](https://github.com/CleverRaven/Cataclysm-DDA/pull/82070))
