@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-01-1905 (405dbe4)
 * Unify NPC weapon evaluation (#82151)
 
 Cataclysm-DDA experimental build 2025-08-01-1809 (c4b4cf0)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2025-07-30-0344 (bb54861)
 
 Cataclysm-DDA experimental build 2025-07-30-0242 (63e2600)
 * Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space (#82121)
-
-Cataclysm-DDA experimental build 2025-07-30-0146 (04e272e)
 * Obsolete tied down furniture (#82124)
 * Fix NPC rules checkbox CONFIRM key double toggle (#82109)
 * Warn when going up/down into a dangerous field (#82112)
