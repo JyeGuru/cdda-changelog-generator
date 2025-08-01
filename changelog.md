@@ -1,3 +1,4 @@
+* [XE] Misc vampire-related adjustments ([#82173](https://github.com/CleverRaven/Cataclysm-DDA/pull/82173))
 * Make Tacoma's silo have an accessible door ([#82158](https://github.com/CleverRaven/Cataclysm-DDA/pull/82158))
 * Close gaps in Isherwood horse farm fence ([#82168](https://github.com/CleverRaven/Cataclysm-DDA/pull/82168))
 
@@ -144,12 +145,6 @@
 
 * Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
 * [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-30-1808 ([c5bb3ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-1808))
-
-* [Xedra Evolved] More Nether Cabin nests ([#82020](https://github.com/CleverRaven/Cataclysm-DDA/pull/82020))
 * Weekly Changelog 2025-07-21 to 2025-07-28 ([#82085](https://github.com/CleverRaven/Cataclysm-DDA/pull/82085))
 
 ---
