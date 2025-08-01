@@ -1,3 +1,16 @@
+* [0.I] Update char creation offense calculations for 0.I ([#82160](https://github.com/CleverRaven/Cataclysm-DDA/pull/82160))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-01-1303 ([a2284a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-1303))
+
+* Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-01-1301 ([bcaa41b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-01-1301))
+
+* [MoM] Illuminate needs RANDOM_DURATION ([#82170](https://github.com/CleverRaven/Cataclysm-DDA/pull/82170))
 
 ---
 
@@ -166,11 +179,6 @@
 * Obsolete tied down furniture ([#82124](https://github.com/CleverRaven/Cataclysm-DDA/pull/82124))
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
 * Warn when going up/down into a dangerous field ([#82112](https://github.com/CleverRaven/Cataclysm-DDA/pull/82112))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-29-1449 ([bc4767e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-29-1449))
-
 * Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
 * Stop using pre-apoc price as a fallback for postapoc price ([#82075](https://github.com/CleverRaven/Cataclysm-DDA/pull/82075))
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82102](https://github.com/CleverRaven/Cataclysm-DDA/pull/82102))
@@ -218,8 +226,5 @@
 * Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
 * [Magiclysm] Fix aenóren spawn ([#82028](https://github.com/CleverRaven/Cataclysm-DDA/pull/82028))
 * Move debug options to debug menu ([#82021](https://github.com/CleverRaven/Cataclysm-DDA/pull/82021))
-* Aftershock: Small price updates for vendors ([#82016](https://github.com/CleverRaven/Cataclysm-DDA/pull/82016))
 * Fix eocs of Mansion Escape scenario ([#82018](https://github.com/CleverRaven/Cataclysm-DDA/pull/82018))
 * [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light ([#82023](https://github.com/CleverRaven/Cataclysm-DDA/pull/82023))
-* run toc.yml on any changes to the doc directory ([#82017](https://github.com/CleverRaven/Cataclysm-DDA/pull/82017))
-* [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
