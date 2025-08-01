@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-01-0143 ([cff3b21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0143))
+
+* Rebalance home books ([#82132](https://github.com/CleverRaven/Cataclysm-DDA/pull/82132))
+* IMGUI wish popup ([#82130](https://github.com/CleverRaven/Cataclysm-DDA/pull/82130))
+* Add more nest variants to house mapgen ([#82107](https://github.com/CleverRaven/Cataclysm-DDA/pull/82107))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-01-0026 ([2692e59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0026))
+
+* [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-07-31-2257 ([ce602db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-2257))
 
 * [MoM/Xedra Evolved] Two new Mobile task forces ([#82120](https://github.com/CleverRaven/Cataclysm-DDA/pull/82120))
@@ -144,17 +158,7 @@
 #### Cataclysm-DDA experimental build 2025-07-30-0146 ([04e272e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-0146))
 
 * Obsolete tied down furniture ([#82124](https://github.com/CleverRaven/Cataclysm-DDA/pull/82124))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-29-2248 ([7bf307e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-29-2248))
-
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-29-2155 ([91c839a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-29-2155))
-
 * Warn when going up/down into a dangerous field ([#82112](https://github.com/CleverRaven/Cataclysm-DDA/pull/82112))
 
 ---
@@ -198,15 +202,12 @@
 * Cotton fabric isn't as dense as rubber ([#82032](https://github.com/CleverRaven/Cataclysm-DDA/pull/82032))
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
-* Use convex hull instead of bounding box for balanced_wheel_config ([#82007](https://github.com/CleverRaven/Cataclysm-DDA/pull/82007))
-* Update Monster Doc on Vision Ranges with default value ([#82010](https://github.com/CleverRaven/Cataclysm-DDA/pull/82010))
 * Test does random_chargen false work ([#82030](https://github.com/CleverRaven/Cataclysm-DDA/pull/82030))
 * Manually backport "Aftershock Update loading screen to actually get rid of off-black areas" ([#82038](https://github.com/CleverRaven/Cataclysm-DDA/pull/82038))
 * rename strict -> strict_boiling to match docs ([#82049](https://github.com/CleverRaven/Cataclysm-DDA/pull/82049))
 * Routine i18n updates on 26 July 2025 ([#82052](https://github.com/CleverRaven/Cataclysm-DDA/pull/82052))
 * Remove failure limit from item density test ([#82055](https://github.com/CleverRaven/Cataclysm-DDA/pull/82055))
 * Cold tea is Iced Tea ([#82054](https://github.com/CleverRaven/Cataclysm-DDA/pull/82054))
-* Add more books to houses ([#82009](https://github.com/CleverRaven/Cataclysm-DDA/pull/82009))
 * Aftershock: Small price updates for vendors ([#82027](https://github.com/CleverRaven/Cataclysm-DDA/pull/82027))
 * [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
 * [MoM] Nether Attunement affects Torrential Channeling unlock chance ([#82043](https://github.com/CleverRaven/Cataclysm-DDA/pull/82043))
@@ -218,7 +219,6 @@
 * Move debug options to debug menu ([#82021](https://github.com/CleverRaven/Cataclysm-DDA/pull/82021))
 * Aftershock: Small price updates for vendors ([#82016](https://github.com/CleverRaven/Cataclysm-DDA/pull/82016))
 * Fix eocs of Mansion Escape scenario ([#82018](https://github.com/CleverRaven/Cataclysm-DDA/pull/82018))
-* [Magiclysm/XE] Unify iron intolerance traits, handle fey taking Iron Intolerance ([#82008](https://github.com/CleverRaven/Cataclysm-DDA/pull/82008))
 * [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light ([#82023](https://github.com/CleverRaven/Cataclysm-DDA/pull/82023))
 * run toc.yml on any changes to the doc directory ([#82017](https://github.com/CleverRaven/Cataclysm-DDA/pull/82017))
 * [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
