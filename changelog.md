@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-01-2123 ([61bdc3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-2123))
+
+* LMOE mission: unlock door properly ([#82101](https://github.com/CleverRaven/Cataclysm-DDA/pull/82101))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-01-1905 ([405dbe4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-1905))
 
 * Unify NPC weapon evaluation ([#82151](https://github.com/CleverRaven/Cataclysm-DDA/pull/82151))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-07-30-0344 ([bb54861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-0344))
 
 * Fix zones disabling on save/load ([#82098](https://github.com/CleverRaven/Cataclysm-DDA/pull/82098))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-30-0242 ([63e2600](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-0242))
-
 * Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space ([#82121](https://github.com/CleverRaven/Cataclysm-DDA/pull/82121))
 * Obsolete tied down furniture ([#82124](https://github.com/CleverRaven/Cataclysm-DDA/pull/82124))
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))

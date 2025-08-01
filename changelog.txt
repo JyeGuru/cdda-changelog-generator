@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-01-2123 (61bdc3e)
+* LMOE mission: unlock door properly (#82101)
+
 Cataclysm-DDA experimental build 2025-08-01-1905 (405dbe4)
 * Unify NPC weapon evaluation (#82151)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-07-30-1341 (fb91d98)
 
 Cataclysm-DDA experimental build 2025-07-30-0344 (bb54861)
 * Fix zones disabling on save/load (#82098)
-
-Cataclysm-DDA experimental build 2025-07-30-0242 (63e2600)
 * Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space (#82121)
 * Obsolete tied down furniture (#82124)
 * Fix NPC rules checkbox CONFIRM key double toggle (#82109)
