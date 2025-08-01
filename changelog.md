@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-01-0438 ([ee98678](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0438))
+
+* Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-01-0143 ([cff3b21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0143))
 
 * Rebalance home books ([#82132](https://github.com/CleverRaven/Cataclysm-DDA/pull/82132))
@@ -171,11 +177,6 @@
 * Increase highway interchange frequency, pad intersections for ramps ([#82100](https://github.com/CleverRaven/Cataclysm-DDA/pull/82100))
 * Fix wielding two-handed item after taking control of vehicle ([#82103](https://github.com/CleverRaven/Cataclysm-DDA/pull/82103))
 * [MoM] Add Flashbang Photokinetic power ([#82104](https://github.com/CleverRaven/Cataclysm-DDA/pull/82104))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-29-0320 ([b1e4dc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-29-0320))
-
 * Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
 * You can do your makeup ([#82092](https://github.com/CleverRaven/Cataclysm-DDA/pull/82092))
 * Aftershock: Many minor fixes ([#82081](https://github.com/CleverRaven/Cataclysm-DDA/pull/82081))
@@ -222,4 +223,3 @@
 * [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light ([#82023](https://github.com/CleverRaven/Cataclysm-DDA/pull/82023))
 * run toc.yml on any changes to the doc directory ([#82017](https://github.com/CleverRaven/Cataclysm-DDA/pull/82017))
 * [Isolation Protocol] Mark other total conversions as incompatible ([#82012](https://github.com/CleverRaven/Cataclysm-DDA/pull/82012))
-* [Aftershock] Mark Sky Islands incompatible ([#82011](https://github.com/CleverRaven/Cataclysm-DDA/pull/82011))
