@@ -1,3 +1,10 @@
+* Unify NPC weapon evaluation ([#82151](https://github.com/CleverRaven/Cataclysm-DDA/pull/82151))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-01-1809 ([c4b4cf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-1809))
+
+* Modified Hard Hat ([#82169](https://github.com/CleverRaven/Cataclysm-DDA/pull/82169))
 
 ---
 
@@ -119,11 +126,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-07-31-0133 ([715dd4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-0133))
 
 * Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-30-2337 ([4b7a74a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-30-2337))
-
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
 
 ---
@@ -221,5 +223,3 @@
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight ([#82033](https://github.com/CleverRaven/Cataclysm-DDA/pull/82033))
 * Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
 * [Magiclysm] Fix aenóren spawn ([#82028](https://github.com/CleverRaven/Cataclysm-DDA/pull/82028))
-* Move debug options to debug menu ([#82021](https://github.com/CleverRaven/Cataclysm-DDA/pull/82021))
-* [MoM] You can only craft in darkness using Heightened Senses/Night Eyes if there is some light ([#82023](https://github.com/CleverRaven/Cataclysm-DDA/pull/82023))
