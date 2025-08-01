@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-08-01-1401 (a685880)
 * [0.I] Update char creation offense calculations for 0.I (#82160)
 
 Cataclysm-DDA experimental build 2025-08-01-1303 (a2284a1)

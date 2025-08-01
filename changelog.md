@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-01-1401 ([a685880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-01-1401))
+
 * [0.I] Update char creation offense calculations for 0.I ([#82160](https://github.com/CleverRaven/Cataclysm-DDA/pull/82160))
 
 ---
