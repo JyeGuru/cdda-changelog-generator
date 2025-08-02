@@ -1,3 +1,12 @@
+* Aftershock: Add a food vendor to the spaceport. ([#82164](https://github.com/CleverRaven/Cataclysm-DDA/pull/82164))
+* Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
+* Abort 'fired' reach attack if there are no valid targets ([#82189](https://github.com/CleverRaven/Cataclysm-DDA/pull/82189))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-02-1417 ([4fba957](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-02-1417))
+
+* Fix min save archive generation for compressed saves. ([#82188](https://github.com/CleverRaven/Cataclysm-DDA/pull/82188))
 
 ---
 
@@ -177,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-07-31-0045 ([56c4907](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-0045))
 
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-30-2314 ([1ac12e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-2314))
-
 * [XE] Vampire cathedrals contain captives the vampires feed from. ([#82108](https://github.com/CleverRaven/Cataclysm-DDA/pull/82108))
 * Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
 * Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
@@ -210,7 +214,6 @@
 * Aftershock: More Small fixes ([#82066](https://github.com/CleverRaven/Cataclysm-DDA/pull/82066))
 * Clarify refusal message when faction trust isn't high enough ([#82061](https://github.com/CleverRaven/Cataclysm-DDA/pull/82061))
 * Update the rules for sealing ([#82070](https://github.com/CleverRaven/Cataclysm-DDA/pull/82070))
-* [Magiclysm] Add a spell to feral high druids and feral high earthshapers ([#82037](https://github.com/CleverRaven/Cataclysm-DDA/pull/82037))
 * Aftershock: Many minor fixes ([#82059](https://github.com/CleverRaven/Cataclysm-DDA/pull/82059))
 * small improvements to keybidnings window ([#82069](https://github.com/CleverRaven/Cataclysm-DDA/pull/82069))
 * Add flag for gun modes for volley firing ([#82073](https://github.com/CleverRaven/Cataclysm-DDA/pull/82073))
@@ -219,13 +222,10 @@
 * [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding ([#82064](https://github.com/CleverRaven/Cataclysm-DDA/pull/82064))
 * Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
-* [Magiclysm] Fix Feral Research Thaumaturge drops ([#82039](https://github.com/CleverRaven/Cataclysm-DDA/pull/82039))
-* [Magiclysm] SOMATIC spells are harder to cast with broken arms ([#82041](https://github.com/CleverRaven/Cataclysm-DDA/pull/82041))
 * [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
 * [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
-* Manually backport "Aftershock Update loading screen to actually get rid of off-black areas" ([#82038](https://github.com/CleverRaven/Cataclysm-DDA/pull/82038))
 * rename strict -> strict_boiling to match docs ([#82049](https://github.com/CleverRaven/Cataclysm-DDA/pull/82049))
 * Routine i18n updates on 26 July 2025 ([#82052](https://github.com/CleverRaven/Cataclysm-DDA/pull/82052))
 * Remove failure limit from item density test ([#82055](https://github.com/CleverRaven/Cataclysm-DDA/pull/82055))
