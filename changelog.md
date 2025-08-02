@@ -2,6 +2,11 @@
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82176](https://github.com/CleverRaven/Cataclysm-DDA/pull/82176))
 * mandatory/optional for weakpoints ([#82178](https://github.com/CleverRaven/Cataclysm-DDA/pull/82178))
 * Use optional/mandatory for ascii_art, bionic_data, bodypart ([#82183](https://github.com/CleverRaven/Cataclysm-DDA/pull/82183))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-02-0527 ([a16423a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-02-0527))
+
 * Abort 'fired' reach attack if there are no valid targets ([#82174](https://github.com/CleverRaven/Cataclysm-DDA/pull/82174))
 
 ---

@@ -2,6 +2,8 @@
 * Update NECC/Cody & Jay to use faction relationship setting. (#82176)
 * mandatory/optional for weakpoints (#82178)
 * Use optional/mandatory for ascii_art, bionic_data, bodypart (#82183)
+
+Cataclysm-DDA experimental build 2025-08-02-0527 (a16423a)
 * Abort 'fired' reach attack if there are no valid targets (#82174)
 
 Cataclysm-DDA 0.I release candidate 2025-08-02-0503 (7f49fb1)
