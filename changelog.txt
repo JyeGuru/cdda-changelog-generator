@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-02-0352 (1802820)
+* Fix min save archive generation for compressed saves. (#82181)
+
 Cataclysm-DDA experimental build 2025-08-02-0136 (4d6623a)
 * Revert diagonal OMT pathing for land/air vehicles (#82180)
 
@@ -144,4 +147,3 @@ Cataclysm-DDA experimental build 2025-07-30-1341 (fb91d98)
 * can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)
 * Tacoma Ranch quests refers to the correct amount of sugar in actual weight (#82033)
 * Move debug options to debug menu (#82029)
-* [Magiclysm] Fix aenóren spawn (#82028)
