@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-02-0636 ([218dc92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-02-0636))
+
 * [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82175](https://github.com/CleverRaven/Cataclysm-DDA/pull/82175))
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82176](https://github.com/CleverRaven/Cataclysm-DDA/pull/82176))
 * mandatory/optional for weakpoints ([#82178](https://github.com/CleverRaven/Cataclysm-DDA/pull/82178))
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-07-30-2314 ([1ac12e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-2314))
 
 * [XE] Vampire cathedrals contain captives the vampires feed from. ([#82108](https://github.com/CleverRaven/Cataclysm-DDA/pull/82108))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-30-2057 ([dd90728](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-2057))
-
 * Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
 * Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
 * [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
