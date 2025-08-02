@@ -1,3 +1,14 @@
+* [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82175](https://github.com/CleverRaven/Cataclysm-DDA/pull/82175))
+* Update NECC/Cody & Jay to use faction relationship setting. ([#82176](https://github.com/CleverRaven/Cataclysm-DDA/pull/82176))
+* mandatory/optional for weakpoints ([#82178](https://github.com/CleverRaven/Cataclysm-DDA/pull/82178))
+* Use optional/mandatory for ascii_art, bionic_data, bodypart ([#82183](https://github.com/CleverRaven/Cataclysm-DDA/pull/82183))
+* Abort 'fired' reach attack if there are no valid targets ([#82174](https://github.com/CleverRaven/Cataclysm-DDA/pull/82174))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-02-0503 ([7f49fb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-02-0503))
+
+* Make Tacoma's silo have an accessible door ([#82177](https://github.com/CleverRaven/Cataclysm-DDA/pull/82177))
 
 ---
 
@@ -171,11 +182,6 @@
 * Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
 * [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
 * Weekly Changelog 2025-07-21 to 2025-07-28 ([#82085](https://github.com/CleverRaven/Cataclysm-DDA/pull/82085))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-30-1341 ([fb91d98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-30-1341))
-
 * Refactor game::swap_critters()  ([#82116](https://github.com/CleverRaven/Cataclysm-DDA/pull/82116))
 * Fix 0.I blocker error when swapping in vehicle ([#82118](https://github.com/CleverRaven/Cataclysm-DDA/pull/82118))
 * Allow EOCs to read artifact resonance ([#82079](https://github.com/CleverRaven/Cataclysm-DDA/pull/82079))
@@ -208,15 +214,12 @@
 * [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding ([#82064](https://github.com/CleverRaven/Cataclysm-DDA/pull/82064))
 * Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
-* Add dolphin shorts, simplify hot pants definitions + small changes ([#82036](https://github.com/CleverRaven/Cataclysm-DDA/pull/82036))
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82039](https://github.com/CleverRaven/Cataclysm-DDA/pull/82039))
 * [Magiclysm] SOMATIC spells are harder to cast with broken arms ([#82041](https://github.com/CleverRaven/Cataclysm-DDA/pull/82041))
 * [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
 * [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
-* Cotton fabric isn't as dense as rubber ([#82032](https://github.com/CleverRaven/Cataclysm-DDA/pull/82032))
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
-* Test does random_chargen false work ([#82030](https://github.com/CleverRaven/Cataclysm-DDA/pull/82030))
 * Manually backport "Aftershock Update loading screen to actually get rid of off-black areas" ([#82038](https://github.com/CleverRaven/Cataclysm-DDA/pull/82038))
 * rename strict -> strict_boiling to match docs ([#82049](https://github.com/CleverRaven/Cataclysm-DDA/pull/82049))
 * Routine i18n updates on 26 July 2025 ([#82052](https://github.com/CleverRaven/Cataclysm-DDA/pull/82052))
@@ -224,7 +227,4 @@
 * Cold tea is Iced Tea ([#82054](https://github.com/CleverRaven/Cataclysm-DDA/pull/82054))
 * [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
 * [MoM] Nether Attunement affects Torrential Channeling unlock chance ([#82043](https://github.com/CleverRaven/Cataclysm-DDA/pull/82043))
-* [Magiclysm] Add ring of fire protection to possible `fireman_gear` loot ([#82035](https://github.com/CleverRaven/Cataclysm-DDA/pull/82035))
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
-* Tacoma Ranch quests refers to the correct amount of sugar in actual weight ([#82033](https://github.com/CleverRaven/Cataclysm-DDA/pull/82033))
-* Move debug options to debug menu ([#82029](https://github.com/CleverRaven/Cataclysm-DDA/pull/82029))
