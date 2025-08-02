@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-02-1504 ([859de3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-02-1504))
+
 * Aftershock: Add a food vendor to the spaceport. ([#82164](https://github.com/CleverRaven/Cataclysm-DDA/pull/82164))
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
 * Abort 'fired' reach attack if there are no valid targets ([#82189](https://github.com/CleverRaven/Cataclysm-DDA/pull/82189))
@@ -180,11 +185,6 @@
 
 * Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-31-0045 ([56c4907](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-0045))
-
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
 * [XE] Vampire cathedrals contain captives the vampires feed from. ([#82108](https://github.com/CleverRaven/Cataclysm-DDA/pull/82108))
 * Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
