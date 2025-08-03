@@ -1,3 +1,5 @@
+* add clubs with nails and bolts, sanify bats ([#82202](https://github.com/CleverRaven/Cataclysm-DDA/pull/82202))
+* Sanify stats for nails and bolts ([#82203](https://github.com/CleverRaven/Cataclysm-DDA/pull/82203))
 * Fix slime terrain being flammable(????) ([#82211](https://github.com/CleverRaven/Cataclysm-DDA/pull/82211))
 * New ammo type (3030) and two new guns for it ([#82200](https://github.com/CleverRaven/Cataclysm-DDA/pull/82200))
 * Check for vehicle center of mass at wheel position ([#82204](https://github.com/CleverRaven/Cataclysm-DDA/pull/82204))
@@ -231,5 +233,3 @@
 * [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding ([#82064](https://github.com/CleverRaven/Cataclysm-DDA/pull/82064))
 * Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
-* Remove failure limit from item density test ([#82055](https://github.com/CleverRaven/Cataclysm-DDA/pull/82055))
-* Cold tea is Iced Tea ([#82054](https://github.com/CleverRaven/Cataclysm-DDA/pull/82054))
