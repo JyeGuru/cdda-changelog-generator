@@ -1,3 +1,4 @@
+* replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82179](https://github.com/CleverRaven/Cataclysm-DDA/pull/82179))
 * Oops - remove remaining mentions of speedydex ([#82205](https://github.com/CleverRaven/Cataclysm-DDA/pull/82205))
 
 ---
@@ -229,7 +230,6 @@
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
-* rename strict -> strict_boiling to match docs ([#82049](https://github.com/CleverRaven/Cataclysm-DDA/pull/82049))
 * Routine i18n updates on 26 July 2025 ([#82052](https://github.com/CleverRaven/Cataclysm-DDA/pull/82052))
 * Remove failure limit from item density test ([#82055](https://github.com/CleverRaven/Cataclysm-DDA/pull/82055))
 * Cold tea is Iced Tea ([#82054](https://github.com/CleverRaven/Cataclysm-DDA/pull/82054))
