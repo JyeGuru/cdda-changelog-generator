@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-03-2131 ([674a626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-2131))
+
 * add clubs with nails and bolts, sanify bats ([#82202](https://github.com/CleverRaven/Cataclysm-DDA/pull/82202))
 * Sanify stats for nails and bolts ([#82203](https://github.com/CleverRaven/Cataclysm-DDA/pull/82203))
 * Fix slime terrain being flammable(????) ([#82211](https://github.com/CleverRaven/Cataclysm-DDA/pull/82211))
@@ -152,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2025-07-31-2148 ([ff4beb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-2148))
 
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-31-1856 ([6802a2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-1856))
-
 * Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
 * Aftershock: Add a food vendor to the spaceport. ([#82087](https://github.com/CleverRaven/Cataclysm-DDA/pull/82087))
 * Avatar-only traits/professions for chargen ([#82125](https://github.com/CleverRaven/Cataclysm-DDA/pull/82125))

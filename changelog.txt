@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-03-2131 (674a626)
 * add clubs with nails and bolts, sanify bats (#82202)
 * Sanify stats for nails and bolts (#82203)
 * Fix slime terrain being flammable(????) (#82211)
@@ -83,8 +85,6 @@ Cataclysm-DDA experimental build 2025-07-31-2257 (ce602db)
 
 Cataclysm-DDA experimental build 2025-07-31-2148 (ff4beb7)
 * Fix Ship Vehicle Teleport (#82162)
-
-Cataclysm-DDA 0.I release candidate 2025-07-31-1856 (6802a2a)
 * Camp crafting requires all resources to be available (#82155)
 * Aftershock: Add a food vendor to the spaceport. (#82087)
 * Avatar-only traits/professions for chargen (#82125)
