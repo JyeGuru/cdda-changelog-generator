@@ -1,3 +1,4 @@
+* Oops - remove remaining mentions of speedydex (#82205)
 
 Cataclysm-DDA experimental build 2025-08-03-1601 (4219eef)
 * Stop smashing stuff with your face (#82197)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-07-31-0412 (d88b525)
 * Routine i18n updates on 26 July 2025 (#82052)
 * Remove failure limit from item density test (#82055)
 * Cold tea is Iced Tea (#82054)
-* can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)
