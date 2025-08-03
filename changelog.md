@@ -4,6 +4,11 @@
 * New ammo type (3030) and two new guns for it ([#82200](https://github.com/CleverRaven/Cataclysm-DDA/pull/82200))
 * Check for vehicle center of mass at wheel position ([#82204](https://github.com/CleverRaven/Cataclysm-DDA/pull/82204))
 * replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82179](https://github.com/CleverRaven/Cataclysm-DDA/pull/82179))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-03-1958 ([31d060c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-1958))
+
 * Oops - remove remaining mentions of speedydex ([#82205](https://github.com/CleverRaven/Cataclysm-DDA/pull/82205))
 
 ---
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-07-31-1625 ([4ad8536](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-1625))
 
 * Fix material of USP pistol ([#82142](https://github.com/CleverRaven/Cataclysm-DDA/pull/82142))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-31-1704 ([88fa4c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-1704))
-
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82154](https://github.com/CleverRaven/Cataclysm-DDA/pull/82154))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
 * Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
