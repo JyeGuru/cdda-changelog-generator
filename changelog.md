@@ -1,3 +1,4 @@
+* Better stop sign deconstruction ([#82208](https://github.com/CleverRaven/Cataclysm-DDA/pull/82208))
 
 ---
 
@@ -225,7 +226,6 @@
 * Aftershock: More Small fixes ([#82066](https://github.com/CleverRaven/Cataclysm-DDA/pull/82066))
 * Clarify refusal message when faction trust isn't high enough ([#82061](https://github.com/CleverRaven/Cataclysm-DDA/pull/82061))
 * Update the rules for sealing ([#82070](https://github.com/CleverRaven/Cataclysm-DDA/pull/82070))
-* Aftershock: Many minor fixes ([#82059](https://github.com/CleverRaven/Cataclysm-DDA/pull/82059))
 * small improvements to keybidnings window ([#82069](https://github.com/CleverRaven/Cataclysm-DDA/pull/82069))
 * Add flag for gun modes for volley firing ([#82073](https://github.com/CleverRaven/Cataclysm-DDA/pull/82073))
 * Add map_is_outside condition ([#82076](https://github.com/CleverRaven/Cataclysm-DDA/pull/82076))

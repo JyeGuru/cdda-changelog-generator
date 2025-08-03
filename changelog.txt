@@ -1,3 +1,4 @@
+* Better stop sign deconstruction (#82208)
 
 Cataclysm-DDA experimental build 2025-08-03-2131 (674a626)
 * add clubs with nails and bolts, sanify bats (#82202)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2025-07-31-0412 (d88b525)
 * Aftershock: More Small fixes (#82066)
 * Clarify refusal message when faction trust isn't high enough (#82061)
 * Update the rules for sealing (#82070)
-* Aftershock: Many minor fixes (#82059)
 * small improvements to keybidnings window (#82069)
 * Add flag for gun modes for volley firing (#82073)
 * Add map_is_outside condition (#82076)
