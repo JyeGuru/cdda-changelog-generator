@@ -1,3 +1,10 @@
+* zzip.exe: a tool for manipulating zzip files. ([#82198](https://github.com/CleverRaven/Cataclysm-DDA/pull/82198))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-03-1454 ([7084bf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-1454))
+
+* Use optional/mandatory in item factory ([#82195](https://github.com/CleverRaven/Cataclysm-DDA/pull/82195))
 
 ---
 
@@ -171,11 +178,6 @@
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
 * Camp crafting requires all resources to be available ([#82090](https://github.com/CleverRaven/Cataclysm-DDA/pull/82090))
 * MORE DEBUG POWER ([#82122](https://github.com/CleverRaven/Cataclysm-DDA/pull/82122))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-31-0504 ([43f4e43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-0504))
-
 * Obsolete tied down furniture ([#82128](https://github.com/CleverRaven/Cataclysm-DDA/pull/82128))
 * fix the styling of ImTui widgets ([#82135](https://github.com/CleverRaven/Cataclysm-DDA/pull/82135))
 
@@ -223,7 +225,6 @@
 * [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding ([#82064](https://github.com/CleverRaven/Cataclysm-DDA/pull/82064))
 * Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
-* [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
 * rename strict -> strict_boiling to match docs ([#82049](https://github.com/CleverRaven/Cataclysm-DDA/pull/82049))
@@ -231,5 +232,4 @@
 * Remove failure limit from item density test ([#82055](https://github.com/CleverRaven/Cataclysm-DDA/pull/82055))
 * Cold tea is Iced Tea ([#82054](https://github.com/CleverRaven/Cataclysm-DDA/pull/82054))
 * [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
-* [MoM] Nether Attunement affects Torrential Channeling unlock chance ([#82043](https://github.com/CleverRaven/Cataclysm-DDA/pull/82043))
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
