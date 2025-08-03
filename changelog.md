@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-03-2232 ([1390f8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-2232))
+
 * Better stop sign deconstruction ([#82208](https://github.com/CleverRaven/Cataclysm-DDA/pull/82208))
 
 ---
@@ -189,11 +194,6 @@
 * MORE DEBUG POWER ([#82122](https://github.com/CleverRaven/Cataclysm-DDA/pull/82122))
 * Obsolete tied down furniture ([#82128](https://github.com/CleverRaven/Cataclysm-DDA/pull/82128))
 * fix the styling of ImTui widgets ([#82135](https://github.com/CleverRaven/Cataclysm-DDA/pull/82135))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-31-0412 ([d88b525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-0412))
-
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82136](https://github.com/CleverRaven/Cataclysm-DDA/pull/82136))
 * Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
