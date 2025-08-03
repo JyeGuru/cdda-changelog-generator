@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-03-1601 (4219eef)
 * Stop smashing stuff with your face (#82197)
 * zzip.exe: a tool for manipulating zzip files. (#82198)
 
@@ -85,8 +87,6 @@ Cataclysm-DDA experimental build 2025-07-31-1625 (4ad8536)
 Cataclysm-DDA 0.I release candidate 2025-07-31-1704 (88fa4c0)
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels (#82154)
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs (#82156)
-
-Cataclysm-DDA 0.I release candidate 2025-07-31-1551 (b82f568)
 * Close revive loophole (#82157)
 
 Cataclysm-DDA experimental build 2025-07-31-1259 (83de852)
