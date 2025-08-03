@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-03-0454 ([1ad4d9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-03-0454))
+
+* [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82191](https://github.com/CleverRaven/Cataclysm-DDA/pull/82191))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-08-02-1504 ([859de3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-02-1504))
 
 * Aftershock: Add a food vendor to the spaceport. ([#82164](https://github.com/CleverRaven/Cataclysm-DDA/pull/82164))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-07-31-0412 ([d88b525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-0412))
 
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82136](https://github.com/CleverRaven/Cataclysm-DDA/pull/82136))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-07-31-0133 ([715dd4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-07-31-0133))
-
 * Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
@@ -222,7 +223,6 @@
 * [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding ([#82064](https://github.com/CleverRaven/Cataclysm-DDA/pull/82064))
 * Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
 * [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
-* [Magiclysm] Feral mages have a hard time casting spells with `maimed_arm` ([#82042](https://github.com/CleverRaven/Cataclysm-DDA/pull/82042))
 * [Magiclysm] Add Aenor version of the horse ranch ([#82045](https://github.com/CleverRaven/Cataclysm-DDA/pull/82045))
 * Add E HRT/birth control ([#82050](https://github.com/CleverRaven/Cataclysm-DDA/pull/82050))
 * [XE/Sky Island] The island also gives the recipe to reshuffle vampire weaknesses. ([#82051](https://github.com/CleverRaven/Cataclysm-DDA/pull/82051))
