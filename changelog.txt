@@ -1,3 +1,4 @@
+* Stop smashing stuff with your face (#82197)
 * zzip.exe: a tool for manipulating zzip files. (#82198)
 
 Cataclysm-DDA experimental build 2025-08-03-1454 (7084bf1)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2025-07-31-0412 (d88b525)
 * Routine i18n updates on 26 July 2025 (#82052)
 * Remove failure limit from item density test (#82055)
 * Cold tea is Iced Tea (#82054)
-* [MoM] Stutterstep now shows in enemy info (#82046)
 * can_contain: calculate pocket volume once (huge speed up in special cases) (#82048)

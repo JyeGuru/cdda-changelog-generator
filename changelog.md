@@ -1,3 +1,4 @@
+* Stop smashing stuff with your face ([#82197](https://github.com/CleverRaven/Cataclysm-DDA/pull/82197))
 * zzip.exe: a tool for manipulating zzip files. ([#82198](https://github.com/CleverRaven/Cataclysm-DDA/pull/82198))
 
 ---
@@ -231,5 +232,4 @@
 * Routine i18n updates on 26 July 2025 ([#82052](https://github.com/CleverRaven/Cataclysm-DDA/pull/82052))
 * Remove failure limit from item density test ([#82055](https://github.com/CleverRaven/Cataclysm-DDA/pull/82055))
 * Cold tea is Iced Tea ([#82054](https://github.com/CleverRaven/Cataclysm-DDA/pull/82054))
-* [MoM] Stutterstep now shows in enemy info ([#82046](https://github.com/CleverRaven/Cataclysm-DDA/pull/82046))
 * can_contain: calculate pocket volume once (huge speed up in special cases) ([#82048](https://github.com/CleverRaven/Cataclysm-DDA/pull/82048))
