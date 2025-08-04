@@ -1,3 +1,10 @@
+* [MoM] Fix Golden Radiance (#82227)
+
+Cataclysm-DDA experimental build 2025-08-04-0950 (0d88a0f)
+* Remove help text about disabling skill practice (#82228)
+
+Cataclysm-DDA 0.I release candidate 2025-08-04-0950 (4d3b527)
+* Fix drying with hot air (#82229)
 
 Cataclysm-DDA experimental build 2025-08-04-0533 (16f37f9)
 * Fix drying with hot air (#82139)
@@ -83,14 +90,10 @@ Cataclysm-DDA experimental build 2025-08-01-1659 (009e6b8)
 * [XE] Misc vampire-related adjustments (#82173)
 * Make Tacoma's silo have an accessible door (#82158)
 * Close gaps in Isherwood horse farm fence (#82168)
-
-Cataclysm-DDA 0.I release candidate 2025-08-01-1401 (a685880)
 * [0.I] Update char creation offense calculations for 0.I (#82160)
 
 Cataclysm-DDA experimental build 2025-08-01-1303 (a2284a1)
 * Routine tileset updates on 01 August 2025 (#82171)
-
-Cataclysm-DDA 0.I release candidate 2025-08-01-1301 (bcaa41b)
 * [MoM] Illuminate needs RANDOM_DURATION (#82170)
 
 Cataclysm-DDA experimental build 2025-08-01-0438 (ee98678)
@@ -140,7 +143,6 @@ Cataclysm-DDA experimental build 2025-08-01-0026 (2692e59)
 * Fix NPC rules checkbox CONFIRM key double toggle (#82109)
 * Warn when going up/down into a dangerous field (#82112)
 * Fix 0.I blocker error when swapping in vehicle (#82113)
-* Stop using pre-apoc price as a fallback for postapoc price (#82075)
 * Fix NPC rules checkbox CONFIRM key double toggle (#82102)
 * Increase highway interchange frequency, pad intersections for ramps (#82100)
 * Fix wielding two-handed item after taking control of vehicle (#82103)
@@ -150,5 +152,3 @@ Cataclysm-DDA experimental build 2025-08-01-0026 (2692e59)
 * Aftershock: Many minor fixes (#82081)
 * Use the more typical name for China instead of an archaic one. (#82088)
 * Warn when going up/down into a dangerous field (#82082)
-* Add flag for gun modes for volley firing (#82073)
-* Add map_is_outside condition (#82076)

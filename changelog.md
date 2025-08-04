@@ -1,3 +1,16 @@
+* [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-04-0950 ([0d88a0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-0950))
+
+* Remove help text about disabling skill practice ([#82228](https://github.com/CleverRaven/Cataclysm-DDA/pull/82228))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-04-0950 ([4d3b527](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0950))
+
+* Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
 
 ---
 
@@ -152,11 +165,6 @@
 * [XE] Misc vampire-related adjustments ([#82173](https://github.com/CleverRaven/Cataclysm-DDA/pull/82173))
 * Make Tacoma's silo have an accessible door ([#82158](https://github.com/CleverRaven/Cataclysm-DDA/pull/82158))
 * Close gaps in Isherwood horse farm fence ([#82168](https://github.com/CleverRaven/Cataclysm-DDA/pull/82168))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-01-1401 ([a685880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-01-1401))
-
 * [0.I] Update char creation offense calculations for 0.I ([#82160](https://github.com/CleverRaven/Cataclysm-DDA/pull/82160))
 
 ---
@@ -164,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-08-01-1303 ([a2284a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-1303))
 
 * Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-01-1301 ([bcaa41b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-01-1301))
-
 * [MoM] Illuminate needs RANDOM_DURATION ([#82170](https://github.com/CleverRaven/Cataclysm-DDA/pull/82170))
 
 ---
@@ -227,7 +230,6 @@
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
 * Warn when going up/down into a dangerous field ([#82112](https://github.com/CleverRaven/Cataclysm-DDA/pull/82112))
 * Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
-* Stop using pre-apoc price as a fallback for postapoc price ([#82075](https://github.com/CleverRaven/Cataclysm-DDA/pull/82075))
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82102](https://github.com/CleverRaven/Cataclysm-DDA/pull/82102))
 * Increase highway interchange frequency, pad intersections for ramps ([#82100](https://github.com/CleverRaven/Cataclysm-DDA/pull/82100))
 * Fix wielding two-handed item after taking control of vehicle ([#82103](https://github.com/CleverRaven/Cataclysm-DDA/pull/82103))
@@ -237,5 +239,3 @@
 * Aftershock: Many minor fixes ([#82081](https://github.com/CleverRaven/Cataclysm-DDA/pull/82081))
 * Use the more typical name for China instead of an archaic one. ([#82088](https://github.com/CleverRaven/Cataclysm-DDA/pull/82088))
 * Warn when going up/down into a dangerous field ([#82082](https://github.com/CleverRaven/Cataclysm-DDA/pull/82082))
-* Add flag for gun modes for volley firing ([#82073](https://github.com/CleverRaven/Cataclysm-DDA/pull/82073))
-* Add map_is_outside condition ([#82076](https://github.com/CleverRaven/Cataclysm-DDA/pull/82076))
