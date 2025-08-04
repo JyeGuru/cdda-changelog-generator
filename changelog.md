@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-04-2145 ([bf9b449](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-2145))
+
+* Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-04-1549 ([d1deff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-1549))
 
 * Remove "Toggle skill training" ([#82213](https://github.com/CleverRaven/Cataclysm-DDA/pull/82213))
@@ -231,6 +237,5 @@
 * [MoM] Add Flashbang Photokinetic power ([#82104](https://github.com/CleverRaven/Cataclysm-DDA/pull/82104))
 * Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
 * You can do your makeup ([#82092](https://github.com/CleverRaven/Cataclysm-DDA/pull/82092))
-* Aftershock: Many minor fixes ([#82081](https://github.com/CleverRaven/Cataclysm-DDA/pull/82081))
 * Use the more typical name for China instead of an archaic one. ([#82088](https://github.com/CleverRaven/Cataclysm-DDA/pull/82088))
 * Warn when going up/down into a dangerous field ([#82082](https://github.com/CleverRaven/Cataclysm-DDA/pull/82082))

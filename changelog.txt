@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-04-2145 (bf9b449)
+* Deduplicate end of gliding activity (#82224)
+
 Cataclysm-DDA experimental build 2025-08-04-1549 (d1deff6)
 * Remove "Toggle skill training" (#82213)
 
@@ -147,6 +150,5 @@ Cataclysm-DDA experimental build 2025-08-01-1659 (009e6b8)
 * [MoM] Add Flashbang Photokinetic power (#82104)
 * Clean up some unreachable code for murdering NPCs (#82106)
 * You can do your makeup (#82092)
-* Aftershock: Many minor fixes (#82081)
 * Use the more typical name for China instead of an archaic one. (#82088)
 * Warn when going up/down into a dangerous field (#82082)
