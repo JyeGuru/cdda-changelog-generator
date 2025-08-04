@@ -4,6 +4,11 @@
 #### Cataclysm-DDA experimental build 2025-08-04-0533 ([16f37f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-0533))
 
 * Fix drying with hot air ([#82139](https://github.com/CleverRaven/Cataclysm-DDA/pull/82139))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-04-0835 ([fe9143f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0835))
+
 * Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-08-01-0026 ([2692e59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0026))
 
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-31-2257 ([ce602db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-2257))
-
 * [MoM/Xedra Evolved] Two new Mobile task forces ([#82120](https://github.com/CleverRaven/Cataclysm-DDA/pull/82120))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
 * Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
