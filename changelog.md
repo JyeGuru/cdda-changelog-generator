@@ -1,3 +1,27 @@
+* Fix drying with hot air ([#82139](https://github.com/CleverRaven/Cataclysm-DDA/pull/82139))
+* Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
+* [0.I] replace repairing item for `steel` material ([#82210](https://github.com/CleverRaven/Cataclysm-DDA/pull/82210))
+* Routine i18n updates on 02 August 2025 ([#82187](https://github.com/CleverRaven/Cataclysm-DDA/pull/82187))
+* [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
+* Use optional/mandatory for mutation, material, mission def, move mode ([#82196](https://github.com/CleverRaven/Cataclysm-DDA/pull/82196))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-04-0332 ([38cd5ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-0332))
+
+* [Aftershock] Using the genetech machines de-espers you ([#82215](https://github.com/CleverRaven/Cataclysm-DDA/pull/82215))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-04-0248 ([bd9257d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0248))
+
+* Oops - remove remaining mentions of speedydex ([#82214](https://github.com/CleverRaven/Cataclysm-DDA/pull/82214))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-04-0122 ([b984451](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0122))
+
+* Fix slime terrain being flammable(????) ([#82217](https://github.com/CleverRaven/Cataclysm-DDA/pull/82217))
 
 ---
 
@@ -167,26 +191,11 @@
 * Aftershock: Add a food vendor to the spaceport. ([#82087](https://github.com/CleverRaven/Cataclysm-DDA/pull/82087))
 * Avatar-only traits/professions for chargen ([#82125](https://github.com/CleverRaven/Cataclysm-DDA/pull/82125))
 * More JSON error reporting for extend/delete/relative/proportional ([#82126](https://github.com/CleverRaven/Cataclysm-DDA/pull/82126))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-31-1625 ([4ad8536](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-1625))
-
 * Fix material of USP pistol ([#82142](https://github.com/CleverRaven/Cataclysm-DDA/pull/82142))
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82154](https://github.com/CleverRaven/Cataclysm-DDA/pull/82154))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
 * Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-31-1259 ([83de852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-1259))
-
 * Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-31-0621 ([6243b50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-0621))
-
 * Close revive loophole ([#82141](https://github.com/CleverRaven/Cataclysm-DDA/pull/82141))
 * Add check_floor_above construction check ([#82077](https://github.com/CleverRaven/Cataclysm-DDA/pull/82077))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
@@ -223,13 +232,5 @@
 * Aftershock: Many minor fixes ([#82081](https://github.com/CleverRaven/Cataclysm-DDA/pull/82081))
 * Use the more typical name for China instead of an archaic one. ([#82088](https://github.com/CleverRaven/Cataclysm-DDA/pull/82088))
 * Warn when going up/down into a dangerous field ([#82082](https://github.com/CleverRaven/Cataclysm-DDA/pull/82082))
-* Aftershock: More Small fixes ([#82066](https://github.com/CleverRaven/Cataclysm-DDA/pull/82066))
-* Clarify refusal message when faction trust isn't high enough ([#82061](https://github.com/CleverRaven/Cataclysm-DDA/pull/82061))
-* Update the rules for sealing ([#82070](https://github.com/CleverRaven/Cataclysm-DDA/pull/82070))
-* small improvements to keybidnings window ([#82069](https://github.com/CleverRaven/Cataclysm-DDA/pull/82069))
 * Add flag for gun modes for volley firing ([#82073](https://github.com/CleverRaven/Cataclysm-DDA/pull/82073))
 * Add map_is_outside condition ([#82076](https://github.com/CleverRaven/Cataclysm-DDA/pull/82076))
-* Audit containers used for homemade grenades, molotov ([#82062](https://github.com/CleverRaven/Cataclysm-DDA/pull/82062))
-* [Xedra Evolved] Vampires/dhampirs with enough Perception/power can smell if you're bleeding ([#82064](https://github.com/CleverRaven/Cataclysm-DDA/pull/82064))
-* Audit stats of a few grenade ([#82063](https://github.com/CleverRaven/Cataclysm-DDA/pull/82063))
-* [Magiclysm] Fix Feral Research Thaumaturge drops ([#82065](https://github.com/CleverRaven/Cataclysm-DDA/pull/82065))
