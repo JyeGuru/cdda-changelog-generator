@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-04-1352 ([ec9bc80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-1352))
+
+* [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-08-04-1137 ([17a6b8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-1137))
 
 * [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-08-01-0438 ([ee98678](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0438))
 
 * Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-01-0143 ([cff3b21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0143))
-
 * Rebalance home books ([#82132](https://github.com/CleverRaven/Cataclysm-DDA/pull/82132))
 * IMGUI wish popup ([#82130](https://github.com/CleverRaven/Cataclysm-DDA/pull/82130))
 * Add more nest variants to house mapgen ([#82107](https://github.com/CleverRaven/Cataclysm-DDA/pull/82107))
@@ -205,7 +206,6 @@
 * Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
 * Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
 * Close revive loophole ([#82141](https://github.com/CleverRaven/Cataclysm-DDA/pull/82141))
-* Add check_floor_above construction check ([#82077](https://github.com/CleverRaven/Cataclysm-DDA/pull/82077))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
 * Camp crafting requires all resources to be available ([#82090](https://github.com/CleverRaven/Cataclysm-DDA/pull/82090))
 * MORE DEBUG POWER ([#82122](https://github.com/CleverRaven/Cataclysm-DDA/pull/82122))

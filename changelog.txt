@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-04-1352 (ec9bc80)
+* [Mods] When shapeshifted into a form with no hands, you don't have hands (#82221)
+
 Cataclysm-DDA 0.I release candidate 2025-08-04-1137 (17a6b8e)
 * [MoM] Fix Golden Radiance (#82227)
 
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2025-08-01-1303 (a2284a1)
 
 Cataclysm-DDA experimental build 2025-08-01-0438 (ee98678)
 * Use optional/mandatory for activity type (#82165)
-
-Cataclysm-DDA experimental build 2025-08-01-0143 (cff3b21)
 * Rebalance home books (#82132)
 * IMGUI wish popup (#82130)
 * Add more nest variants to house mapgen (#82107)
@@ -118,7 +119,6 @@ Cataclysm-DDA experimental build 2025-08-01-0143 (cff3b21)
 * Close revive loophole (#82157)
 * Nested ammo crafts (#82153)
 * Close revive loophole (#82141)
-* Add check_floor_above construction check (#82077)
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs (#82147)
 * Camp crafting requires all resources to be available (#82090)
 * MORE DEBUG POWER (#82122)
