@@ -5,6 +5,11 @@
 
 * Fix drying with hot air ([#82139](https://github.com/CleverRaven/Cataclysm-DDA/pull/82139))
 * Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-04-0637 ([af93827](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0637))
+
 * [0.I] replace repairing item for `steel` material ([#82210](https://github.com/CleverRaven/Cataclysm-DDA/pull/82210))
 * Routine i18n updates on 02 August 2025 ([#82187](https://github.com/CleverRaven/Cataclysm-DDA/pull/82187))
 * [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-07-31-2257 ([ce602db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-2257))
 
 * [MoM/Xedra Evolved] Two new Mobile task forces ([#82120](https://github.com/CleverRaven/Cataclysm-DDA/pull/82120))
-
----
-
-#### Cataclysm-DDA experimental build 2025-07-31-2148 ([ff4beb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-07-31-2148))
-
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
 * Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
 * Aftershock: Add a food vendor to the spaceport. ([#82087](https://github.com/CleverRaven/Cataclysm-DDA/pull/82087))

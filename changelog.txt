@@ -2,6 +2,8 @@
 Cataclysm-DDA experimental build 2025-08-04-0533 (16f37f9)
 * Fix drying with hot air (#82139)
 * Manually backport "Fix Ship Vehicle Teleport" (#82212)
+
+Cataclysm-DDA 0.I release candidate 2025-08-04-0637 (af93827)
 * [0.I] replace repairing item for `steel` material (#82210)
 * Routine i18n updates on 02 August 2025 (#82187)
 * [MoM] Fix Golden Radiance (#82218)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2025-08-01-0026 (2692e59)
 
 Cataclysm-DDA experimental build 2025-07-31-2257 (ce602db)
 * [MoM/Xedra Evolved] Two new Mobile task forces (#82120)
-
-Cataclysm-DDA experimental build 2025-07-31-2148 (ff4beb7)
 * Fix Ship Vehicle Teleport (#82162)
 * Camp crafting requires all resources to be available (#82155)
 * Aftershock: Add a food vendor to the spaceport. (#82087)
