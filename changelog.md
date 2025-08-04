@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-04-1137 ([17a6b8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-1137))
+
 * [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
 
 ---
@@ -187,11 +192,6 @@
 * Rebalance home books ([#82132](https://github.com/CleverRaven/Cataclysm-DDA/pull/82132))
 * IMGUI wish popup ([#82130](https://github.com/CleverRaven/Cataclysm-DDA/pull/82130))
 * Add more nest variants to house mapgen ([#82107](https://github.com/CleverRaven/Cataclysm-DDA/pull/82107))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-01-0026 ([2692e59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0026))
-
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
 * [MoM/Xedra Evolved] Two new Mobile task forces ([#82120](https://github.com/CleverRaven/Cataclysm-DDA/pull/82120))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))

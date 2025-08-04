@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-08-04-1137 (17a6b8e)
 * [MoM] Fix Golden Radiance (#82227)
 
 Cataclysm-DDA experimental build 2025-08-04-0950 (0d88a0f)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-08-01-0143 (cff3b21)
 * Rebalance home books (#82132)
 * IMGUI wish popup (#82130)
 * Add more nest variants to house mapgen (#82107)
-
-Cataclysm-DDA experimental build 2025-08-01-0026 (2692e59)
 * [MoM] Illuminate needs RANDOM_DURATION (#82163)
 * [MoM/Xedra Evolved] Two new Mobile task forces (#82120)
 * Fix Ship Vehicle Teleport (#82162)
