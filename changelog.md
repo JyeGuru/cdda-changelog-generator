@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-04-1549 ([d1deff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-1549))
+
+* Remove "Toggle skill training" ([#82213](https://github.com/CleverRaven/Cataclysm-DDA/pull/82213))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-04-1352 ([ec9bc80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-1352))
 
 * [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
@@ -184,11 +190,6 @@
 
 * Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82170](https://github.com/CleverRaven/Cataclysm-DDA/pull/82170))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-01-0438 ([ee98678](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-0438))
-
 * Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
 * Rebalance home books ([#82132](https://github.com/CleverRaven/Cataclysm-DDA/pull/82132))
 * IMGUI wish popup ([#82130](https://github.com/CleverRaven/Cataclysm-DDA/pull/82130))
@@ -222,7 +223,6 @@
 * Weekly Changelog 2025-07-21 to 2025-07-28 ([#82085](https://github.com/CleverRaven/Cataclysm-DDA/pull/82085))
 * Refactor game::swap_critters()  ([#82116](https://github.com/CleverRaven/Cataclysm-DDA/pull/82116))
 * Fix 0.I blocker error when swapping in vehicle ([#82118](https://github.com/CleverRaven/Cataclysm-DDA/pull/82118))
-* Allow EOCs to read artifact resonance ([#82079](https://github.com/CleverRaven/Cataclysm-DDA/pull/82079))
 * [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
 * Fix zones disabling on save/load ([#82098](https://github.com/CleverRaven/Cataclysm-DDA/pull/82098))
 * Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space ([#82121](https://github.com/CleverRaven/Cataclysm-DDA/pull/82121))
