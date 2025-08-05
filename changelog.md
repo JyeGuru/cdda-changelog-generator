@@ -1,3 +1,6 @@
+* [Mods] Your gear doesn't protect you when you're shapeshifted ([#82237](https://github.com/CleverRaven/Cataclysm-DDA/pull/82237))
+* Deduplicate armor power usage code. Also tell player when UPS items run out of charge. ([#82241](https://github.com/CleverRaven/Cataclysm-DDA/pull/82241))
+* Deduplicate weight penalty calculations ([#82235](https://github.com/CleverRaven/Cataclysm-DDA/pull/82235))
 
 ---
 
@@ -211,7 +214,6 @@
 * Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
 * Close revive loophole ([#82141](https://github.com/CleverRaven/Cataclysm-DDA/pull/82141))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
-* Camp crafting requires all resources to be available ([#82090](https://github.com/CleverRaven/Cataclysm-DDA/pull/82090))
 * MORE DEBUG POWER ([#82122](https://github.com/CleverRaven/Cataclysm-DDA/pull/82122))
 * Obsolete tied down furniture ([#82128](https://github.com/CleverRaven/Cataclysm-DDA/pull/82128))
 * fix the styling of ImTui widgets ([#82135](https://github.com/CleverRaven/Cataclysm-DDA/pull/82135))
@@ -226,7 +228,6 @@
 * Refactor game::swap_critters()  ([#82116](https://github.com/CleverRaven/Cataclysm-DDA/pull/82116))
 * Fix 0.I blocker error when swapping in vehicle ([#82118](https://github.com/CleverRaven/Cataclysm-DDA/pull/82118))
 * [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
-* Fix zones disabling on save/load ([#82098](https://github.com/CleverRaven/Cataclysm-DDA/pull/82098))
 * Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space ([#82121](https://github.com/CleverRaven/Cataclysm-DDA/pull/82121))
 * Obsolete tied down furniture ([#82124](https://github.com/CleverRaven/Cataclysm-DDA/pull/82124))
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
@@ -237,4 +238,3 @@
 * Fix wielding two-handed item after taking control of vehicle ([#82103](https://github.com/CleverRaven/Cataclysm-DDA/pull/82103))
 * [MoM] Add Flashbang Photokinetic power ([#82104](https://github.com/CleverRaven/Cataclysm-DDA/pull/82104))
 * Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
-* You can do your makeup ([#82092](https://github.com/CleverRaven/Cataclysm-DDA/pull/82092))
