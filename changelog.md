@@ -1,3 +1,10 @@
+* [Mods] If you have a broken limb and are in a shapeshifted form, you can't fly ([#82238](https://github.com/CleverRaven/Cataclysm-DDA/pull/82238))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-05-2125 ([f3ba4d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-2125))
+
+* [Xedra Evolved] Only werewolves gain werewolf gifts ([#82243](https://github.com/CleverRaven/Cataclysm-DDA/pull/82243))
 
 ---
 
@@ -154,11 +161,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-03-0454 ([1ad4d9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-03-0454))
 
 * [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82191](https://github.com/CleverRaven/Cataclysm-DDA/pull/82191))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-02-1504 ([859de3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-02-1504))
-
 * Aftershock: Add a food vendor to the spaceport. ([#82164](https://github.com/CleverRaven/Cataclysm-DDA/pull/82164))
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
 * Abort 'fired' reach attack if there are no valid targets ([#82189](https://github.com/CleverRaven/Cataclysm-DDA/pull/82189))
@@ -235,6 +237,4 @@
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
 * Warn when going up/down into a dangerous field ([#82112](https://github.com/CleverRaven/Cataclysm-DDA/pull/82112))
 * Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
-* Fix wielding two-handed item after taking control of vehicle ([#82103](https://github.com/CleverRaven/Cataclysm-DDA/pull/82103))
-* [MoM] Add Flashbang Photokinetic power ([#82104](https://github.com/CleverRaven/Cataclysm-DDA/pull/82104))
 * Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
