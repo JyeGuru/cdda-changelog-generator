@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-05-2302 ([f0811a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-2302))
+
 * Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
 * [Mods] If you have a broken limb and are in a shapeshifted form, you can't fly ([#82238](https://github.com/CleverRaven/Cataclysm-DDA/pull/82238))
 
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-08-02-0352 ([1802820](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-02-0352))
 
 * Fix min save archive generation for compressed saves. ([#82181](https://github.com/CleverRaven/Cataclysm-DDA/pull/82181))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-02-0136 ([4d6623a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-02-0136))
-
 * Revert diagonal OMT pathing for land/air vehicles ([#82180](https://github.com/CleverRaven/Cataclysm-DDA/pull/82180))
 * Unify NPC weapon evaluation ([#82151](https://github.com/CleverRaven/Cataclysm-DDA/pull/82151))
 * Modified Hard Hat ([#82169](https://github.com/CleverRaven/Cataclysm-DDA/pull/82169))
