@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-05-0339 ([65529c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-0339))
+
+* Resolve errors from loading 0.H options on 0.I ([#82206](https://github.com/CleverRaven/Cataclysm-DDA/pull/82206))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-05-0241 ([809e413](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-0241))
+
+* Better map bashing ([#82207](https://github.com/CleverRaven/Cataclysm-DDA/pull/82207))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-04-2145 ([bf9b449](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-2145))
 
 * Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
@@ -174,17 +186,7 @@
 #### Cataclysm-DDA experimental build 2025-08-01-1905 ([405dbe4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-1905))
 
 * Unify NPC weapon evaluation ([#82151](https://github.com/CleverRaven/Cataclysm-DDA/pull/82151))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-01-1809 ([c4b4cf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-1809))
-
 * Modified Hard Hat ([#82169](https://github.com/CleverRaven/Cataclysm-DDA/pull/82169))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-01-1659 ([009e6b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-1659))
-
 * [XE] Misc vampire-related adjustments ([#82173](https://github.com/CleverRaven/Cataclysm-DDA/pull/82173))
 * Make Tacoma's silo have an accessible door ([#82158](https://github.com/CleverRaven/Cataclysm-DDA/pull/82158))
 * Close gaps in Isherwood horse farm fence ([#82168](https://github.com/CleverRaven/Cataclysm-DDA/pull/82168))
@@ -199,7 +201,6 @@
 * [MoM/Xedra Evolved] Two new Mobile task forces ([#82120](https://github.com/CleverRaven/Cataclysm-DDA/pull/82120))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
 * Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
-* Aftershock: Add a food vendor to the spaceport. ([#82087](https://github.com/CleverRaven/Cataclysm-DDA/pull/82087))
 * Avatar-only traits/professions for chargen ([#82125](https://github.com/CleverRaven/Cataclysm-DDA/pull/82125))
 * More JSON error reporting for extend/delete/relative/proportional ([#82126](https://github.com/CleverRaven/Cataclysm-DDA/pull/82126))
 * Fix material of USP pistol ([#82142](https://github.com/CleverRaven/Cataclysm-DDA/pull/82142))
@@ -221,7 +222,6 @@
 * Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
 * Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
 * [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
-* Weekly Changelog 2025-07-21 to 2025-07-28 ([#82085](https://github.com/CleverRaven/Cataclysm-DDA/pull/82085))
 * Refactor game::swap_critters()  ([#82116](https://github.com/CleverRaven/Cataclysm-DDA/pull/82116))
 * Fix 0.I blocker error when swapping in vehicle ([#82118](https://github.com/CleverRaven/Cataclysm-DDA/pull/82118))
 * [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
@@ -238,4 +238,3 @@
 * Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
 * You can do your makeup ([#82092](https://github.com/CleverRaven/Cataclysm-DDA/pull/82092))
 * Use the more typical name for China instead of an archaic one. ([#82088](https://github.com/CleverRaven/Cataclysm-DDA/pull/82088))
-* Warn when going up/down into a dangerous field ([#82082](https://github.com/CleverRaven/Cataclysm-DDA/pull/82082))

@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2025-08-05-0339 (65529c5)
+* Resolve errors from loading 0.H options on 0.I (#82206)
+
+Cataclysm-DDA experimental build 2025-08-05-0241 (809e413)
+* Better map bashing (#82207)
+
 Cataclysm-DDA experimental build 2025-08-04-2145 (bf9b449)
 * Deduplicate end of gliding activity (#82224)
 
@@ -93,11 +99,7 @@ Cataclysm-DDA experimental build 2025-08-01-2123 (61bdc3e)
 
 Cataclysm-DDA experimental build 2025-08-01-1905 (405dbe4)
 * Unify NPC weapon evaluation (#82151)
-
-Cataclysm-DDA experimental build 2025-08-01-1809 (c4b4cf0)
 * Modified Hard Hat (#82169)
-
-Cataclysm-DDA experimental build 2025-08-01-1659 (009e6b8)
 * [XE] Misc vampire-related adjustments (#82173)
 * Make Tacoma's silo have an accessible door (#82158)
 * Close gaps in Isherwood horse farm fence (#82168)
@@ -112,7 +114,6 @@ Cataclysm-DDA experimental build 2025-08-01-1659 (009e6b8)
 * [MoM/Xedra Evolved] Two new Mobile task forces (#82120)
 * Fix Ship Vehicle Teleport (#82162)
 * Camp crafting requires all resources to be available (#82155)
-* Aftershock: Add a food vendor to the spaceport. (#82087)
 * Avatar-only traits/professions for chargen (#82125)
 * More JSON error reporting for extend/delete/relative/proportional (#82126)
 * Fix material of USP pistol (#82142)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2025-08-01-1659 (009e6b8)
 * Revert highway interchange frequency increase (#82131)
 * Backport "Fix eocs of Mansion Escape scenario" (#82114)
 * [Xedra Evolved] Fix VERRBAL (#82129)
-* Weekly Changelog 2025-07-21 to 2025-07-28 (#82085)
 * Refactor game::swap_critters()  (#82116)
 * Fix 0.I blocker error when swapping in vehicle (#82118)
 * [Xedra Evolved] Fix VERRBAL (#82127)
@@ -151,4 +151,3 @@ Cataclysm-DDA experimental build 2025-08-01-1659 (009e6b8)
 * Clean up some unreachable code for murdering NPCs (#82106)
 * You can do your makeup (#82092)
 * Use the more typical name for China instead of an archaic one. (#82088)
-* Warn when going up/down into a dangerous field (#82082)
