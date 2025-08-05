@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-05-1452 ([7bd751c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-1452))
+
+* Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-05-0339 ([65529c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-0339))
 
 * Resolve errors from loading 0.H options on 0.I ([#82206](https://github.com/CleverRaven/Cataclysm-DDA/pull/82206))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-08-01-2123 ([61bdc3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-2123))
 
 * LMOE mission: unlock door properly ([#82101](https://github.com/CleverRaven/Cataclysm-DDA/pull/82101))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-01-1905 ([405dbe4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-01-1905))
-
 * Unify NPC weapon evaluation ([#82151](https://github.com/CleverRaven/Cataclysm-DDA/pull/82151))
 * Modified Hard Hat ([#82169](https://github.com/CleverRaven/Cataclysm-DDA/pull/82169))
 * [XE] Misc vampire-related adjustments ([#82173](https://github.com/CleverRaven/Cataclysm-DDA/pull/82173))
@@ -237,4 +238,3 @@
 * [MoM] Add Flashbang Photokinetic power ([#82104](https://github.com/CleverRaven/Cataclysm-DDA/pull/82104))
 * Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
 * You can do your makeup ([#82092](https://github.com/CleverRaven/Cataclysm-DDA/pull/82092))
-* Use the more typical name for China instead of an archaic one. ([#82088](https://github.com/CleverRaven/Cataclysm-DDA/pull/82088))

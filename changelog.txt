@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-05-1452 (7bd751c)
+* Make dairy farm use domestic palette (#82247)
+
 Cataclysm-DDA experimental build 2025-08-05-0339 (65529c5)
 * Resolve errors from loading 0.H options on 0.I (#82206)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-08-02-0136 (4d6623a)
 
 Cataclysm-DDA experimental build 2025-08-01-2123 (61bdc3e)
 * LMOE mission: unlock door properly (#82101)
-
-Cataclysm-DDA experimental build 2025-08-01-1905 (405dbe4)
 * Unify NPC weapon evaluation (#82151)
 * Modified Hard Hat (#82169)
 * [XE] Misc vampire-related adjustments (#82173)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-08-01-1905 (405dbe4)
 * [MoM] Add Flashbang Photokinetic power (#82104)
 * Clean up some unreachable code for murdering NPCs (#82106)
 * You can do your makeup (#82092)
-* Use the more typical name for China instead of an archaic one. (#82088)
