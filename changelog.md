@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-05-1755 ([6ca50f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-05-1755))
+
+* Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-05-1605 ([66a95ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-1605))
 
 * [Mods] Your gear doesn't protect you when you're shapeshifted ([#82237](https://github.com/CleverRaven/Cataclysm-DDA/pull/82237))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-08-02-0527 ([a16423a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-02-0527))
 
 * Abort 'fired' reach attack if there are no valid targets ([#82174](https://github.com/CleverRaven/Cataclysm-DDA/pull/82174))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-02-0503 ([7f49fb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-02-0503))
-
 * Make Tacoma's silo have an accessible door ([#82177](https://github.com/CleverRaven/Cataclysm-DDA/pull/82177))
 
 ---
@@ -234,7 +235,6 @@
 * Warn when going up/down into a dangerous field ([#82112](https://github.com/CleverRaven/Cataclysm-DDA/pull/82112))
 * Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82102](https://github.com/CleverRaven/Cataclysm-DDA/pull/82102))
-* Increase highway interchange frequency, pad intersections for ramps ([#82100](https://github.com/CleverRaven/Cataclysm-DDA/pull/82100))
 * Fix wielding two-handed item after taking control of vehicle ([#82103](https://github.com/CleverRaven/Cataclysm-DDA/pull/82103))
 * [MoM] Add Flashbang Photokinetic power ([#82104](https://github.com/CleverRaven/Cataclysm-DDA/pull/82104))
 * Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
