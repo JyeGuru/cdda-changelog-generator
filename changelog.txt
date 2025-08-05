@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-08-05-1907 (c952c20)
 * replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. (#82232)
 * Fix CTD when looking up with isometric tileset (#82240)
 
@@ -85,8 +87,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-02-1504 (859de3a)
 * Aftershock: Add a food vendor to the spaceport. (#82164)
 * Update NECC/Cody & Jay to use faction relationship setting. (#82190)
 * Abort 'fired' reach attack if there are no valid targets (#82189)
-
-Cataclysm-DDA 0.I release candidate 2025-08-02-1417 (4fba957)
 * Fix min save archive generation for compressed saves. (#82188)
 
 Cataclysm-DDA experimental build 2025-08-02-0636 (218dc92)
