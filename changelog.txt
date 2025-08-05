@@ -1,3 +1,4 @@
+* Dedupe zone_data constructors (#82242)
 * [Mods] If you have a broken limb and are in a shapeshifted form, you can't fly (#82238)
 
 Cataclysm-DDA experimental build 2025-08-05-2125 (f3ba4d6)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-08-02-0136 (4d6623a)
 * Fix NPC rules checkbox CONFIRM key double toggle (#82109)
 * Warn when going up/down into a dangerous field (#82112)
 * Fix 0.I blocker error when swapping in vehicle (#82113)
-* Clean up some unreachable code for murdering NPCs (#82106)

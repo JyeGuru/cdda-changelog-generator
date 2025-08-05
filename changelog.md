@@ -1,3 +1,4 @@
+* Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
 * [Mods] If you have a broken limb and are in a shapeshifted form, you can't fly ([#82238](https://github.com/CleverRaven/Cataclysm-DDA/pull/82238))
 
 ---
@@ -237,4 +238,3 @@
 * Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
 * Warn when going up/down into a dangerous field ([#82112](https://github.com/CleverRaven/Cataclysm-DDA/pull/82112))
 * Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
-* Clean up some unreachable code for murdering NPCs ([#82106](https://github.com/CleverRaven/Cataclysm-DDA/pull/82106))
