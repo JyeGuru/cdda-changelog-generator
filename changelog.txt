@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-06-1050 (657bfe0)
+* Remove bonus damage of 22 LR (#82266)
+
 Cataclysm-DDA experimental build 2025-08-06-0349 (1dc8c27)
 * Dedupe tool out of charges messages and end of activity (#82225)
 
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-08-02-0636 (218dc92)
 * Update NECC/Cody & Jay to use faction relationship setting. (#82176)
 * mandatory/optional for weakpoints (#82178)
 * Use optional/mandatory for ascii_art, bionic_data, bodypart (#82183)
-
-Cataclysm-DDA experimental build 2025-08-02-0527 (a16423a)
 * Abort 'fired' reach attack if there are no valid targets (#82174)
 * Make Tacoma's silo have an accessible door (#82177)
 * Fix min save archive generation for compressed saves. (#82181)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-08-02-0527 (a16423a)
 * Obsolete and remove "speedydex" (#82150)
 * Cannot trap a monster and use it as an infinite training dummy (#82146)
 * Obsolete and remove "speedydex" (#82143)
-* [XE] Vampire cathedrals contain captives the vampires feed from. (#82108)
 * Revert highway interchange frequency increase (#82131)
 * Backport "Fix eocs of Mansion Escape scenario" (#82114)
 * [Xedra Evolved] Fix VERRBAL (#82129)
