@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-06-0349 ([1dc8c27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-0349))
+
+* Dedupe tool out of charges messages and end of activity ([#82225](https://github.com/CleverRaven/Cataclysm-DDA/pull/82225))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-05-2302 ([f0811a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-2302))
 
 * Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
@@ -187,11 +193,6 @@
 
 * Abort 'fired' reach attack if there are no valid targets ([#82174](https://github.com/CleverRaven/Cataclysm-DDA/pull/82174))
 * Make Tacoma's silo have an accessible door ([#82177](https://github.com/CleverRaven/Cataclysm-DDA/pull/82177))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-02-0352 ([1802820](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-02-0352))
-
 * Fix min save archive generation for compressed saves. ([#82181](https://github.com/CleverRaven/Cataclysm-DDA/pull/82181))
 * Revert diagonal OMT pathing for land/air vehicles ([#82180](https://github.com/CleverRaven/Cataclysm-DDA/pull/82180))
 * Unify NPC weapon evaluation ([#82151](https://github.com/CleverRaven/Cataclysm-DDA/pull/82151))
@@ -205,7 +206,6 @@
 * Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
 * Rebalance home books ([#82132](https://github.com/CleverRaven/Cataclysm-DDA/pull/82132))
 * IMGUI wish popup ([#82130](https://github.com/CleverRaven/Cataclysm-DDA/pull/82130))
-* Add more nest variants to house mapgen ([#82107](https://github.com/CleverRaven/Cataclysm-DDA/pull/82107))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
 * [MoM/Xedra Evolved] Two new Mobile task forces ([#82120](https://github.com/CleverRaven/Cataclysm-DDA/pull/82120))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
