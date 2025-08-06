@@ -1,3 +1,12 @@
+* Silence (but do not fix) 'tried to set non-permanent morale' test failure ([#82254](https://github.com/CleverRaven/Cataclysm-DDA/pull/82254))
+* Dedupe check for tile passable down in creature flood fill. ([#82259](https://github.com/CleverRaven/Cataclysm-DDA/pull/82259))
+* BBTI for 9mm ([#82262](https://github.com/CleverRaven/Cataclysm-DDA/pull/82262))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-06-1519 ([8202cbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-1519))
+
+* .22 lr bbti ([#82263](https://github.com/CleverRaven/Cataclysm-DDA/pull/82263))
 
 ---
 
@@ -183,11 +192,6 @@
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
 * Abort 'fired' reach attack if there are no valid targets ([#82189](https://github.com/CleverRaven/Cataclysm-DDA/pull/82189))
 * Fix min save archive generation for compressed saves. ([#82188](https://github.com/CleverRaven/Cataclysm-DDA/pull/82188))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-02-0636 ([218dc92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-02-0636))
-
 * [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82175](https://github.com/CleverRaven/Cataclysm-DDA/pull/82175))
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82176](https://github.com/CleverRaven/Cataclysm-DDA/pull/82176))
 * mandatory/optional for weakpoints ([#82178](https://github.com/CleverRaven/Cataclysm-DDA/pull/82178))
@@ -228,13 +232,9 @@
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
 * Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
-* Backport "Fix eocs of Mansion Escape scenario" ([#82114](https://github.com/CleverRaven/Cataclysm-DDA/pull/82114))
 * [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
 * Refactor game::swap_critters()  ([#82116](https://github.com/CleverRaven/Cataclysm-DDA/pull/82116))
 * Fix 0.I blocker error when swapping in vehicle ([#82118](https://github.com/CleverRaven/Cataclysm-DDA/pull/82118))
 * [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
 * Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space ([#82121](https://github.com/CleverRaven/Cataclysm-DDA/pull/82121))
 * Obsolete tied down furniture ([#82124](https://github.com/CleverRaven/Cataclysm-DDA/pull/82124))
-* Fix NPC rules checkbox CONFIRM key double toggle ([#82109](https://github.com/CleverRaven/Cataclysm-DDA/pull/82109))
-* Warn when going up/down into a dangerous field ([#82112](https://github.com/CleverRaven/Cataclysm-DDA/pull/82112))
-* Fix 0.I blocker error when swapping in vehicle ([#82113](https://github.com/CleverRaven/Cataclysm-DDA/pull/82113))
