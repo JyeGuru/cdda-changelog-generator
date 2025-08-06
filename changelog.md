@@ -1,3 +1,4 @@
+* [MoM/Xedra Evolved] Implement `chargen_allow_npc` on various psionic/supernatural traits ([#82140](https://github.com/CleverRaven/Cataclysm-DDA/pull/82140))
 * Silence (but do not fix) 'tried to set non-permanent morale' test failure ([#82254](https://github.com/CleverRaven/Cataclysm-DDA/pull/82254))
 
 ---
@@ -233,7 +234,6 @@
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
 * Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
 * [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
-* Refactor game::swap_critters()  ([#82116](https://github.com/CleverRaven/Cataclysm-DDA/pull/82116))
 * Fix 0.I blocker error when swapping in vehicle ([#82118](https://github.com/CleverRaven/Cataclysm-DDA/pull/82118))
 * [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
 * Fix 0.I blocker zombies always(100%) trying to bash cramped vehicle space ([#82121](https://github.com/CleverRaven/Cataclysm-DDA/pull/82121))
