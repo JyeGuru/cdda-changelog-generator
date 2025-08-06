@@ -1,4 +1,9 @@
 * Silence (but do not fix) 'tried to set non-permanent morale' test failure ([#82254](https://github.com/CleverRaven/Cataclysm-DDA/pull/82254))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-06-1633 ([7eb3c79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-1633))
+
 * Dedupe check for tile passable down in creature flood fill. ([#82259](https://github.com/CleverRaven/Cataclysm-DDA/pull/82259))
 * BBTI for 9mm ([#82262](https://github.com/CleverRaven/Cataclysm-DDA/pull/82262))
 
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-08-03-1454 ([7084bf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-1454))
 
 * Use optional/mandatory in item factory ([#82195](https://github.com/CleverRaven/Cataclysm-DDA/pull/82195))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-03-0454 ([1ad4d9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-03-0454))
-
 * [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82191](https://github.com/CleverRaven/Cataclysm-DDA/pull/82191))
 * Aftershock: Add a food vendor to the spaceport. ([#82164](https://github.com/CleverRaven/Cataclysm-DDA/pull/82164))
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
