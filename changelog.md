@@ -230,4 +230,3 @@
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
 * Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
-* Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
