@@ -2,6 +2,11 @@
 * Weekly Changelog 2025-07-28 to 2025-08-04 ([#82222](https://github.com/CleverRaven/Cataclysm-DDA/pull/82222))
 * Dedupe various crafting code ([#82275](https://github.com/CleverRaven/Cataclysm-DDA/pull/82275))
 * shouldfail test for liquid projectile effect ([#82276](https://github.com/CleverRaven/Cataclysm-DDA/pull/82276))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-07-1045 ([9a99e64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-1045))
+
 * Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
 
 ---
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-04-0122 ([b984451](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0122))
 
 * Fix slime terrain being flammable(????) ([#82217](https://github.com/CleverRaven/Cataclysm-DDA/pull/82217))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-03-2232 ([1390f8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-2232))
-
 * Better stop sign deconstruction ([#82208](https://github.com/CleverRaven/Cataclysm-DDA/pull/82208))
 * add clubs with nails and bolts, sanify bats ([#82202](https://github.com/CleverRaven/Cataclysm-DDA/pull/82202))
 * Sanify stats for nails and bolts ([#82203](https://github.com/CleverRaven/Cataclysm-DDA/pull/82203))
