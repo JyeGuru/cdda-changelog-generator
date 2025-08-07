@@ -1,3 +1,4 @@
+* XL/XS pipebomb bandolier (#82303)
 * [Xedra Evolved] Fix werewolf techniques (#82294)
 * Fix: AIM item menu wouldn't update window position on resize. (#82264)
 
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2025-08-04-0332 (38cd5ee)
 * Make Tacoma's silo have an accessible door (#82177)
 * Fix min save archive generation for compressed saves. (#82181)
 * Revert diagonal OMT pathing for land/air vehicles (#82180)
-* Unify NPC weapon evaluation (#82151)
 * Modified Hard Hat (#82169)
 * [XE] Misc vampire-related adjustments (#82173)
 * Make Tacoma's silo have an accessible door (#82158)
