@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix werewolf techniques ([#82294](https://github.com/CleverRaven/Cataclysm-DDA/pull/82294))
 * Fix: AIM item menu wouldn't update window position on resize. ([#82264](https://github.com/CleverRaven/Cataclysm-DDA/pull/82264))
 
 ---
@@ -230,4 +231,3 @@
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
 * Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
 * Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
-* Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))

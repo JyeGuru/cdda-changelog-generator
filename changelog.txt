@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix werewolf techniques (#82294)
 * Fix: AIM item menu wouldn't update window position on resize. (#82264)
 
 Cataclysm-DDA 0.I release candidate 2025-08-07-2055 (f728a1c)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-08-04-0332 (38cd5ee)
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs (#82156)
 * Close revive loophole (#82157)
 * Nested ammo crafts (#82153)
-* Obsolete and remove "speedydex" (#82150)
