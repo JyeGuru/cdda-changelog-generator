@@ -1,3 +1,13 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-07-0052 ([9e46143](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-0052))
+
+* "Plain Mead" name change to just "Mead" ([#82274](https://github.com/CleverRaven/Cataclysm-DDA/pull/82274))
+* Restore butchery with negative quality ([#82251](https://github.com/CleverRaven/Cataclysm-DDA/pull/82251))
+* Deduplicate avatar active mission update ([#82223](https://github.com/CleverRaven/Cataclysm-DDA/pull/82223))
+* refactor to `inc_clamp_wrap` ([#82267](https://github.com/CleverRaven/Cataclysm-DDA/pull/82267))
+* Make a distribution for seabags ([#82273](https://github.com/CleverRaven/Cataclysm-DDA/pull/82273))
 * Fix CTRL+U not clearing text ([#82244](https://github.com/CleverRaven/Cataclysm-DDA/pull/82244))
 * Small JSON loading cleanup to optional/mandatory  ([#82226](https://github.com/CleverRaven/Cataclysm-DDA/pull/82226))
 * Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
@@ -184,11 +194,6 @@
 * New ammo type (3030) and two new guns for it ([#82200](https://github.com/CleverRaven/Cataclysm-DDA/pull/82200))
 * Check for vehicle center of mass at wheel position ([#82204](https://github.com/CleverRaven/Cataclysm-DDA/pull/82204))
 * replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82179](https://github.com/CleverRaven/Cataclysm-DDA/pull/82179))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-03-1958 ([31d060c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-1958))
-
 * Oops - remove remaining mentions of speedydex ([#82205](https://github.com/CleverRaven/Cataclysm-DDA/pull/82205))
 * Stop smashing stuff with your face ([#82197](https://github.com/CleverRaven/Cataclysm-DDA/pull/82197))
 * zzip.exe: a tool for manipulating zzip files. ([#82198](https://github.com/CleverRaven/Cataclysm-DDA/pull/82198))
@@ -220,8 +225,6 @@
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
 * Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
-* Avatar-only traits/professions for chargen ([#82125](https://github.com/CleverRaven/Cataclysm-DDA/pull/82125))
-* More JSON error reporting for extend/delete/relative/proportional ([#82126](https://github.com/CleverRaven/Cataclysm-DDA/pull/82126))
 * Fix material of USP pistol ([#82142](https://github.com/CleverRaven/Cataclysm-DDA/pull/82142))
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82154](https://github.com/CleverRaven/Cataclysm-DDA/pull/82154))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
@@ -229,12 +232,9 @@
 * Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
 * Close revive loophole ([#82141](https://github.com/CleverRaven/Cataclysm-DDA/pull/82141))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
-* Obsolete tied down furniture ([#82128](https://github.com/CleverRaven/Cataclysm-DDA/pull/82128))
 * fix the styling of ImTui widgets ([#82135](https://github.com/CleverRaven/Cataclysm-DDA/pull/82135))
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82136](https://github.com/CleverRaven/Cataclysm-DDA/pull/82136))
 * Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
 * Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
-* [Xedra Evolved] Fix VERRBAL ([#82129](https://github.com/CleverRaven/Cataclysm-DDA/pull/82129))
-* [Xedra Evolved] Fix VERRBAL ([#82127](https://github.com/CleverRaven/Cataclysm-DDA/pull/82127))
