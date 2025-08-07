@@ -1,3 +1,14 @@
+* [Xedra Evolved] More werewolf powers + rework advancement system ([#82219](https://github.com/CleverRaven/Cataclysm-DDA/pull/82219))
+* Weekly Changelog 2025-07-28 to 2025-08-04 ([#82222](https://github.com/CleverRaven/Cataclysm-DDA/pull/82222))
+* Dedupe various crafting code ([#82275](https://github.com/CleverRaven/Cataclysm-DDA/pull/82275))
+* shouldfail test for liquid projectile effect ([#82276](https://github.com/CleverRaven/Cataclysm-DDA/pull/82276))
+* Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-07-1023 ([d9a053e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-07-1023))
+
+* Restore butchery with negative quality ([#82281](https://github.com/CleverRaven/Cataclysm-DDA/pull/82281))
 
 ---
 
@@ -141,12 +152,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-08-04-0533 ([16f37f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-0533))
-
-* Fix drying with hot air ([#82139](https://github.com/CleverRaven/Cataclysm-DDA/pull/82139))
-
----
-
 #### Cataclysm-DDA 0.I release candidate 2025-08-04-0835 ([fe9143f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0835))
 
 * Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-08-03-2232 ([1390f8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-2232))
 
 * Better stop sign deconstruction ([#82208](https://github.com/CleverRaven/Cataclysm-DDA/pull/82208))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-03-2131 ([674a626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-03-2131))
-
 * add clubs with nails and bolts, sanify bats ([#82202](https://github.com/CleverRaven/Cataclysm-DDA/pull/82202))
 * Sanify stats for nails and bolts ([#82203](https://github.com/CleverRaven/Cataclysm-DDA/pull/82203))
 * Fix slime terrain being flammable(????) ([#82211](https://github.com/CleverRaven/Cataclysm-DDA/pull/82211))
@@ -220,8 +220,6 @@
 * Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82170](https://github.com/CleverRaven/Cataclysm-DDA/pull/82170))
 * Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
-* Rebalance home books ([#82132](https://github.com/CleverRaven/Cataclysm-DDA/pull/82132))
-* IMGUI wish popup ([#82130](https://github.com/CleverRaven/Cataclysm-DDA/pull/82130))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
 * Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
@@ -232,9 +230,6 @@
 * Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
 * Close revive loophole ([#82141](https://github.com/CleverRaven/Cataclysm-DDA/pull/82141))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
-* fix the styling of ImTui widgets ([#82135](https://github.com/CleverRaven/Cataclysm-DDA/pull/82135))
-* [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82136](https://github.com/CleverRaven/Cataclysm-DDA/pull/82136))
 * Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
 * Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))
 * Obsolete and remove "speedydex" ([#82143](https://github.com/CleverRaven/Cataclysm-DDA/pull/82143))
-* Revert highway interchange frequency increase ([#82131](https://github.com/CleverRaven/Cataclysm-DDA/pull/82131))
