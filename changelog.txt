@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-07-1301 (462ec86)
+* Silence warning about data loss when converting to specified type (#82290)
+
 Cataclysm-DDA experimental build 2025-08-07-1155 (9a85cfa)
 * [Xedra Evolved] More werewolf powers + rework advancement system (#82219)
 * Weekly Changelog 2025-07-28 to 2025-08-04 (#82222)
@@ -26,7 +29,6 @@ Cataclysm-DDA experimental build 2025-08-06-2322 (3214953)
 
 Cataclysm-DDA experimental build 2025-08-06-1737 (c0a50ac)
 * Update some leather armor weights (#82265)
-* [MoM/Xedra Evolved] Implement `chargen_allow_npc` on various psionic/supernatural traits (#82140)
 * Silence (but do not fix) 'tried to set non-permanent morale' test failure (#82254)
 
 Cataclysm-DDA experimental build 2025-08-06-1633 (7eb3c79)
@@ -99,8 +101,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-04-0637 (af93827)
 
 Cataclysm-DDA experimental build 2025-08-04-0332 (38cd5ee)
 * [Aftershock] Using the genetech machines de-espers you (#82215)
-
-Cataclysm-DDA 0.I release candidate 2025-08-04-0248 (bd9257d)
 * Oops - remove remaining mentions of speedydex (#82214)
 * Fix slime terrain being flammable(????) (#82217)
 * Better stop sign deconstruction (#82208)

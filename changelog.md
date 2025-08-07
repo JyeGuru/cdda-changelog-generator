@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-07-1301 ([462ec86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-1301))
+
+* Silence warning about data loss when converting to specified type ([#82290](https://github.com/CleverRaven/Cataclysm-DDA/pull/82290))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-07-1155 ([9a85cfa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-1155))
 
 * [Xedra Evolved] More werewolf powers + rework advancement system ([#82219](https://github.com/CleverRaven/Cataclysm-DDA/pull/82219))
@@ -44,7 +50,6 @@
 #### Cataclysm-DDA experimental build 2025-08-06-1737 ([c0a50ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-1737))
 
 * Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
-* [MoM/Xedra Evolved] Implement `chargen_allow_npc` on various psionic/supernatural traits ([#82140](https://github.com/CleverRaven/Cataclysm-DDA/pull/82140))
 * Silence (but do not fix) 'tried to set non-permanent morale' test failure ([#82254](https://github.com/CleverRaven/Cataclysm-DDA/pull/82254))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-08-04-0332 ([38cd5ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-0332))
 
 * [Aftershock] Using the genetech machines de-espers you ([#82215](https://github.com/CleverRaven/Cataclysm-DDA/pull/82215))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-04-0248 ([bd9257d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0248))
-
 * Oops - remove remaining mentions of speedydex ([#82214](https://github.com/CleverRaven/Cataclysm-DDA/pull/82214))
 * Fix slime terrain being flammable(????) ([#82217](https://github.com/CleverRaven/Cataclysm-DDA/pull/82217))
 * Better stop sign deconstruction ([#82208](https://github.com/CleverRaven/Cataclysm-DDA/pull/82208))
