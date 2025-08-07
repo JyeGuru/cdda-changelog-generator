@@ -223,7 +223,6 @@
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
 * Camp crafting requires all resources to be available ([#82155](https://github.com/CleverRaven/Cataclysm-DDA/pull/82155))
-* Fix material of USP pistol ([#82142](https://github.com/CleverRaven/Cataclysm-DDA/pull/82142))
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82154](https://github.com/CleverRaven/Cataclysm-DDA/pull/82154))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
 * Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
