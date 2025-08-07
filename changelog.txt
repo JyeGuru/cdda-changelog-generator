@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-07-2238 (a3e1dfb)
 * XL/XS pipebomb bandolier (#82303)
 * [Xedra Evolved] Fix werewolf techniques (#82294)
 * Fix: AIM item menu wouldn't update window position on resize. (#82264)
@@ -95,8 +97,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-04-1137 (17a6b8e)
 
 Cataclysm-DDA experimental build 2025-08-04-0950 (0d88a0f)
 * Remove help text about disabling skill practice (#82228)
-
-Cataclysm-DDA 0.I release candidate 2025-08-04-0950 (4d3b527)
 * Fix drying with hot air (#82229)
 * Manually backport "Fix Ship Vehicle Teleport" (#82212)
 * [0.I] replace repairing item for `steel` material (#82210)
