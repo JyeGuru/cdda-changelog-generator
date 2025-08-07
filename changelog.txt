@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-07-2320 (9259708)
+* Fix deserialize/serialize of power level (#82295)
+
 Cataclysm-DDA experimental build 2025-08-07-2238 (a3e1dfb)
 * XL/XS pipebomb bandolier (#82303)
 * [Xedra Evolved] Fix werewolf techniques (#82294)
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-08-04-1549 (d1deff6)
 
 Cataclysm-DDA experimental build 2025-08-04-1352 (ec9bc80)
 * [Mods] When shapeshifted into a form with no hands, you don't have hands (#82221)
-
-Cataclysm-DDA 0.I release candidate 2025-08-04-1137 (17a6b8e)
 * [MoM] Fix Golden Radiance (#82227)
 
 Cataclysm-DDA experimental build 2025-08-04-0950 (0d88a0f)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-08-04-0332 (38cd5ee)
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels (#82154)
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs (#82156)
 * Close revive loophole (#82157)
-* Nested ammo crafts (#82153)

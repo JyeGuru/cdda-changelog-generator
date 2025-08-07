@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-07-2320 ([9259708](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-2320))
+
+* Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-07-2238 ([a3e1dfb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-2238))
 
 * XL/XS pipebomb bandolier ([#82303](https://github.com/CleverRaven/Cataclysm-DDA/pull/82303))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-08-04-1352 ([ec9bc80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-1352))
 
 * [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-04-1137 ([17a6b8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-1137))
-
 * [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
 
 ---
@@ -230,4 +231,3 @@
 * [MoM] Fix Electrokinesis/Knacks not gaining metaphysics XP on successful channels ([#82154](https://github.com/CleverRaven/Cataclysm-DDA/pull/82154))
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
 * Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
-* Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
