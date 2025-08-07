@@ -1,3 +1,16 @@
+* Fix: AIM item menu wouldn't update window position on resize. ([#82264](https://github.com/CleverRaven/Cataclysm-DDA/pull/82264))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-07-2055 ([f728a1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-07-2055))
+
+* Aftershock: Sarting survival kit for sale in port Augustmoon ([#82279](https://github.com/CleverRaven/Cataclysm-DDA/pull/82279))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-07-2055 ([380954e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-2055))
+
+* [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
 
 ---
 
@@ -164,17 +177,7 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-04-0950 ([4d3b527](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0950))
 
 * Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-04-0835 ([fe9143f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0835))
-
 * Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-04-0637 ([af93827](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-04-0637))
-
 * [0.I] replace repairing item for `steel` material ([#82210](https://github.com/CleverRaven/Cataclysm-DDA/pull/82210))
 * Routine i18n updates on 02 August 2025 ([#82187](https://github.com/CleverRaven/Cataclysm-DDA/pull/82187))
 * [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
@@ -227,6 +230,4 @@
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
 * Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
 * Nested ammo crafts ([#82153](https://github.com/CleverRaven/Cataclysm-DDA/pull/82153))
-* [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82147](https://github.com/CleverRaven/Cataclysm-DDA/pull/82147))
 * Obsolete and remove "speedydex" ([#82150](https://github.com/CleverRaven/Cataclysm-DDA/pull/82150))
-* Cannot trap a monster and use it as an infinite training dummy ([#82146](https://github.com/CleverRaven/Cataclysm-DDA/pull/82146))

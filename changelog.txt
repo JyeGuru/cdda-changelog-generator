@@ -1,3 +1,10 @@
+* Fix: AIM item menu wouldn't update window position on resize. (#82264)
+
+Cataclysm-DDA 0.I release candidate 2025-08-07-2055 (f728a1c)
+* Aftershock: Sarting survival kit for sale in port Augustmoon (#82279)
+
+Cataclysm-DDA experimental build 2025-08-07-2055 (380954e)
+* [Xedra Evolved] Werewolves get mana back on Nether kills (#82292)
 
 Cataclysm-DDA experimental build 2025-08-07-1301 (462ec86)
 * Silence warning about data loss when converting to specified type (#82290)
@@ -89,11 +96,7 @@ Cataclysm-DDA experimental build 2025-08-04-0950 (0d88a0f)
 
 Cataclysm-DDA 0.I release candidate 2025-08-04-0950 (4d3b527)
 * Fix drying with hot air (#82229)
-
-Cataclysm-DDA 0.I release candidate 2025-08-04-0835 (fe9143f)
 * Manually backport "Fix Ship Vehicle Teleport" (#82212)
-
-Cataclysm-DDA 0.I release candidate 2025-08-04-0637 (af93827)
 * [0.I] replace repairing item for `steel` material (#82210)
 * Routine i18n updates on 02 August 2025 (#82187)
 * [MoM] Fix Golden Radiance (#82218)
@@ -143,6 +146,4 @@ Cataclysm-DDA experimental build 2025-08-04-0332 (38cd5ee)
 * [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs (#82156)
 * Close revive loophole (#82157)
 * Nested ammo crafts (#82153)
-* [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs (#82147)
 * Obsolete and remove "speedydex" (#82150)
-* Cannot trap a monster and use it as an infinite training dummy (#82146)
