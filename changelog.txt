@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-07-1155 (9a85cfa)
 * [Xedra Evolved] More werewolf powers + rework advancement system (#82219)
 * Weekly Changelog 2025-07-28 to 2025-08-04 (#82222)
 * Dedupe various crafting code (#82275)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-08-04-0332 (38cd5ee)
 
 Cataclysm-DDA 0.I release candidate 2025-08-04-0248 (bd9257d)
 * Oops - remove remaining mentions of speedydex (#82214)
-
-Cataclysm-DDA 0.I release candidate 2025-08-04-0122 (b984451)
 * Fix slime terrain being flammable(????) (#82217)
 * Better stop sign deconstruction (#82208)
 * add clubs with nails and bolts, sanify bats (#82202)
