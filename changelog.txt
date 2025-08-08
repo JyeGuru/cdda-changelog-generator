@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-08-1552 (f9830aa)
+* Revert "Stop using pre-apoc price as a fallback for postapoc price" (#82284)
+
 Cataclysm-DDA experimental build 2025-08-08-0308 (4694904)
 * Remove bonus damage for 9 mm (#82291)
 
@@ -144,5 +147,4 @@ Cataclysm-DDA experimental build 2025-08-04-0950 (0d88a0f)
 * Use optional/mandatory for activity type (#82165)
 * [MoM] Illuminate needs RANDOM_DURATION (#82163)
 * Fix Ship Vehicle Teleport (#82162)
-* [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs (#82156)
 * Close revive loophole (#82157)

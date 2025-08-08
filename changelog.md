@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-08-1552 ([f9830aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-08-1552))
+
+* Revert "Stop using pre-apoc price as a fallback for postapoc price" ([#82284](https://github.com/CleverRaven/Cataclysm-DDA/pull/82284))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-08-0308 ([4694904](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-08-0308))
 
 * Remove bonus damage for 9 mm ([#82291](https://github.com/CleverRaven/Cataclysm-DDA/pull/82291))
@@ -228,5 +234,4 @@
 * Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
-* [Fix 0.I blocker] Riot damage "pre-burnt" doesn't destroy stairs ([#82156](https://github.com/CleverRaven/Cataclysm-DDA/pull/82156))
 * Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
