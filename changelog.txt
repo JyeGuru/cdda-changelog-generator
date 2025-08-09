@@ -1,3 +1,8 @@
+* Fix crash on NPC spawn (#82332)
+* Contain the plumbing glue supplies (#82337)
+
+Cataclysm-DDA experimental build 2025-08-09-2153 (fe1eafe)
+* Update tutorial messages (#82340)
 
 Cataclysm-DDA experimental build 2025-08-09-1520 (66b5e33)
 * Fix evacuee scenario (#82333)
@@ -93,8 +98,6 @@ Cataclysm-DDA experimental build 2025-08-05-2302 (f0811a6)
 
 Cataclysm-DDA experimental build 2025-08-05-2125 (f3ba4d6)
 * [Xedra Evolved] Only werewolves gain werewolf gifts (#82243)
-
-Cataclysm-DDA 0.I release candidate 2025-08-05-1907 (c952c20)
 * replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. (#82232)
 * Fix CTD when looking up with isometric tileset (#82240)
 * Resolve errors from loading 0.H options on 0.I (#82249)
@@ -145,9 +148,6 @@ Cataclysm-DDA experimental build 2025-08-05-0241 (809e413)
 * Update NECC/Cody & Jay to use faction relationship setting. (#82176)
 * mandatory/optional for weakpoints (#82178)
 * Use optional/mandatory for ascii_art, bionic_data, bodypart (#82183)
-* Abort 'fired' reach attack if there are no valid targets (#82174)
 * Make Tacoma's silo have an accessible door (#82177)
 * Fix min save archive generation for compressed saves. (#82181)
 * Revert diagonal OMT pathing for land/air vehicles (#82180)
-* [XE] Misc vampire-related adjustments (#82173)
-* Routine tileset updates on 01 August 2025 (#82171)

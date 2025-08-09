@@ -1,3 +1,11 @@
+* Fix crash on NPC spawn ([#82332](https://github.com/CleverRaven/Cataclysm-DDA/pull/82332))
+* Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-09-2153 ([fe1eafe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-2153))
+
+* Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
 
 ---
 
@@ -168,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-08-05-2125 ([f3ba4d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-2125))
 
 * [Xedra Evolved] Only werewolves gain werewolf gifts ([#82243](https://github.com/CleverRaven/Cataclysm-DDA/pull/82243))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-05-1907 ([c952c20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-05-1907))
-
 * replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82232](https://github.com/CleverRaven/Cataclysm-DDA/pull/82232))
 * Fix CTD when looking up with isometric tileset ([#82240](https://github.com/CleverRaven/Cataclysm-DDA/pull/82240))
 * Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
@@ -235,9 +238,6 @@
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82176](https://github.com/CleverRaven/Cataclysm-DDA/pull/82176))
 * mandatory/optional for weakpoints ([#82178](https://github.com/CleverRaven/Cataclysm-DDA/pull/82178))
 * Use optional/mandatory for ascii_art, bionic_data, bodypart ([#82183](https://github.com/CleverRaven/Cataclysm-DDA/pull/82183))
-* Abort 'fired' reach attack if there are no valid targets ([#82174](https://github.com/CleverRaven/Cataclysm-DDA/pull/82174))
 * Make Tacoma's silo have an accessible door ([#82177](https://github.com/CleverRaven/Cataclysm-DDA/pull/82177))
 * Fix min save archive generation for compressed saves. ([#82181](https://github.com/CleverRaven/Cataclysm-DDA/pull/82181))
 * Revert diagonal OMT pathing for land/air vehicles ([#82180](https://github.com/CleverRaven/Cataclysm-DDA/pull/82180))
-* [XE] Misc vampire-related adjustments ([#82173](https://github.com/CleverRaven/Cataclysm-DDA/pull/82173))
-* Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
