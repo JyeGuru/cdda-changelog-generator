@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-09-0505 ([40a7dd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0505))
+
+* Glue audit ([#82253](https://github.com/CleverRaven/Cataclysm-DDA/pull/82253))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-09-0410 ([1daa188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0410))
 
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
@@ -230,7 +236,6 @@
 * Modified Hard Hat ([#82169](https://github.com/CleverRaven/Cataclysm-DDA/pull/82169))
 * [XE] Misc vampire-related adjustments ([#82173](https://github.com/CleverRaven/Cataclysm-DDA/pull/82173))
 * Close gaps in Isherwood horse farm fence ([#82168](https://github.com/CleverRaven/Cataclysm-DDA/pull/82168))
-* [0.I] Update char creation offense calculations for 0.I ([#82160](https://github.com/CleverRaven/Cataclysm-DDA/pull/82160))
 * Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82170](https://github.com/CleverRaven/Cataclysm-DDA/pull/82170))
 * Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
