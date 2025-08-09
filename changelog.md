@@ -1,3 +1,10 @@
+* [Aftershock] Power grid moves with the ship without deletion ([#82285](https://github.com/CleverRaven/Cataclysm-DDA/pull/82285))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-09-0031 ([bfce924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0031))
+
+* Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
 
 ---
 
@@ -185,11 +192,6 @@
 
 * [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
 * [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-04-0950 ([0d88a0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-0950))
-
 * Remove help text about disabling skill practice ([#82228](https://github.com/CleverRaven/Cataclysm-DDA/pull/82228))
 * Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
 * Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
@@ -226,7 +228,6 @@
 * Revert diagonal OMT pathing for land/air vehicles ([#82180](https://github.com/CleverRaven/Cataclysm-DDA/pull/82180))
 * Modified Hard Hat ([#82169](https://github.com/CleverRaven/Cataclysm-DDA/pull/82169))
 * [XE] Misc vampire-related adjustments ([#82173](https://github.com/CleverRaven/Cataclysm-DDA/pull/82173))
-* Make Tacoma's silo have an accessible door ([#82158](https://github.com/CleverRaven/Cataclysm-DDA/pull/82158))
 * Close gaps in Isherwood horse farm fence ([#82168](https://github.com/CleverRaven/Cataclysm-DDA/pull/82168))
 * [0.I] Update char creation offense calculations for 0.I ([#82160](https://github.com/CleverRaven/Cataclysm-DDA/pull/82160))
 * Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
@@ -234,4 +235,3 @@
 * Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
 * Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))
-* Close revive loophole ([#82157](https://github.com/CleverRaven/Cataclysm-DDA/pull/82157))
