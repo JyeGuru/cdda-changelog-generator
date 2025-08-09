@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-09-0410 ([1daa188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0410))
+
+* Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-09-0132 ([39c0198](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0132))
 
 * [Aftershock] Power grid moves with the ship without deletion ([#82285](https://github.com/CleverRaven/Cataclysm-DDA/pull/82285))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-08-04-2145 ([bf9b449](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-2145))
 
 * Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-04-1549 ([d1deff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-1549))
-
 * Remove "Toggle skill training" ([#82213](https://github.com/CleverRaven/Cataclysm-DDA/pull/82213))
 * [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
 * [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
