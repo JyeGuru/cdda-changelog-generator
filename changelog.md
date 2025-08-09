@@ -1,3 +1,4 @@
+* Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
 
 ---
 
@@ -240,4 +241,3 @@
 * [MoM] Illuminate needs RANDOM_DURATION ([#82170](https://github.com/CleverRaven/Cataclysm-DDA/pull/82170))
 * Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
-* Fix Ship Vehicle Teleport ([#82162](https://github.com/CleverRaven/Cataclysm-DDA/pull/82162))

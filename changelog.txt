@@ -1,3 +1,4 @@
+* Routine i18n updates on 09 August 2025 (#82325)
 
 Cataclysm-DDA experimental build 2025-08-09-0505 (40a7dd1)
 * Glue audit (#82253)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-08-04-2145 (bf9b449)
 * [MoM] Illuminate needs RANDOM_DURATION (#82170)
 * Use optional/mandatory for activity type (#82165)
 * [MoM] Illuminate needs RANDOM_DURATION (#82163)
-* Fix Ship Vehicle Teleport (#82162)
