@@ -1,3 +1,4 @@
+* Spells can use vitamin as spell energy source now (#82318)
 * Fix crash on NPC spawn (#82332)
 * Contain the plumbing glue supplies (#82337)
 
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-08-05-0241 (809e413)
 * Update NECC/Cody & Jay to use faction relationship setting. (#82190)
 * Abort 'fired' reach attack if there are no valid targets (#82189)
 * Fix min save archive generation for compressed saves. (#82188)
-* [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics (#82175)
 * Update NECC/Cody & Jay to use faction relationship setting. (#82176)
 * mandatory/optional for weakpoints (#82178)
 * Use optional/mandatory for ascii_art, bionic_data, bodypart (#82183)
