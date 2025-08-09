@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-09-1520 ([66b5e33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-1520))
+
+* Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-09-0558 ([6a6abe8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0558))
 
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82269](https://github.com/CleverRaven/Cataclysm-DDA/pull/82269))
@@ -169,11 +175,6 @@
 
 * replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82232](https://github.com/CleverRaven/Cataclysm-DDA/pull/82232))
 * Fix CTD when looking up with isometric tileset ([#82240](https://github.com/CleverRaven/Cataclysm-DDA/pull/82240))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-05-1755 ([6ca50f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-05-1755))
-
 * Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
 
 ---
@@ -240,4 +241,3 @@
 * Revert diagonal OMT pathing for land/air vehicles ([#82180](https://github.com/CleverRaven/Cataclysm-DDA/pull/82180))
 * [XE] Misc vampire-related adjustments ([#82173](https://github.com/CleverRaven/Cataclysm-DDA/pull/82173))
 * Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
-* [MoM] Illuminate needs RANDOM_DURATION ([#82170](https://github.com/CleverRaven/Cataclysm-DDA/pull/82170))
