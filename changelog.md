@@ -1,3 +1,6 @@
+* Create ui_helpers.cpp with first function full_screen_window ([#82277](https://github.com/CleverRaven/Cataclysm-DDA/pull/82277))
+* Dedupe checking and killing hallucinations ([#82312](https://github.com/CleverRaven/Cataclysm-DDA/pull/82312))
+* Deduplicate computer_session code ([#82246](https://github.com/CleverRaven/Cataclysm-DDA/pull/82246))
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
 
 ---
@@ -222,7 +225,6 @@
 * zzip.exe: a tool for manipulating zzip files. ([#82198](https://github.com/CleverRaven/Cataclysm-DDA/pull/82198))
 * Use optional/mandatory in item factory ([#82195](https://github.com/CleverRaven/Cataclysm-DDA/pull/82195))
 * [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82191](https://github.com/CleverRaven/Cataclysm-DDA/pull/82191))
-* Aftershock: Add a food vendor to the spaceport. ([#82164](https://github.com/CleverRaven/Cataclysm-DDA/pull/82164))
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
 * Abort 'fired' reach attack if there are no valid targets ([#82189](https://github.com/CleverRaven/Cataclysm-DDA/pull/82189))
 * Fix min save archive generation for compressed saves. ([#82188](https://github.com/CleverRaven/Cataclysm-DDA/pull/82188))
@@ -239,5 +241,3 @@
 * Close gaps in Isherwood horse farm fence ([#82168](https://github.com/CleverRaven/Cataclysm-DDA/pull/82168))
 * Routine tileset updates on 01 August 2025 ([#82171](https://github.com/CleverRaven/Cataclysm-DDA/pull/82171))
 * [MoM] Illuminate needs RANDOM_DURATION ([#82170](https://github.com/CleverRaven/Cataclysm-DDA/pull/82170))
-* Use optional/mandatory for activity type ([#82165](https://github.com/CleverRaven/Cataclysm-DDA/pull/82165))
-* [MoM] Illuminate needs RANDOM_DURATION ([#82163](https://github.com/CleverRaven/Cataclysm-DDA/pull/82163))
