@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-09-2237 ([8a9cfd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-2237))
+
 * Introduced Points of Interest ([#82272](https://github.com/CleverRaven/Cataclysm-DDA/pull/82272))
 * Fixes Alpha Member of the Group to work as intended ([#82308](https://github.com/CleverRaven/Cataclysm-DDA/pull/82308))
 * Spells can use vitamin as spell energy source now ([#82318](https://github.com/CleverRaven/Cataclysm-DDA/pull/82318))
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2025-08-05-0339 ([65529c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-0339))
 
 * Resolve errors from loading 0.H options on 0.I ([#82206](https://github.com/CleverRaven/Cataclysm-DDA/pull/82206))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-05-0241 ([809e413](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-0241))
-
 * Better map bashing ([#82207](https://github.com/CleverRaven/Cataclysm-DDA/pull/82207))
 * Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
 * Remove "Toggle skill training" ([#82213](https://github.com/CleverRaven/Cataclysm-DDA/pull/82213))
