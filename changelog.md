@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-09-0558 ([6a6abe8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0558))
+
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82269](https://github.com/CleverRaven/Cataclysm-DDA/pull/82269))
 * Chitin armor overhaul ([#82186](https://github.com/CleverRaven/Cataclysm-DDA/pull/82186))
 * Create ui_helpers.cpp with first function full_screen_window ([#82277](https://github.com/CleverRaven/Cataclysm-DDA/pull/82277))
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-08-05-0241 ([809e413](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-0241))
 
 * Better map bashing ([#82207](https://github.com/CleverRaven/Cataclysm-DDA/pull/82207))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-04-2145 ([bf9b449](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-04-2145))
-
 * Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
 * Remove "Toggle skill training" ([#82213](https://github.com/CleverRaven/Cataclysm-DDA/pull/82213))
 * [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
