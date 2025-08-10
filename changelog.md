@@ -1,3 +1,16 @@
+* Fix mentions of evac 'center' starts ([#82330](https://github.com/CleverRaven/Cataclysm-DDA/pull/82330))
+* Fix tutorial trap messages popping more than once and showing first message always ([#82339](https://github.com/CleverRaven/Cataclysm-DDA/pull/82339))
+* Remove "pair of" and "pairs of" wording from the leg armor and gloves ([#82344](https://github.com/CleverRaven/Cataclysm-DDA/pull/82344))
+* Fix inserts in heavy ballistic vest being uncomfy ([#82345](https://github.com/CleverRaven/Cataclysm-DDA/pull/82345))
+* fix wearable cameras ([#82348](https://github.com/CleverRaven/Cataclysm-DDA/pull/82348))
+* Add modified motorcycle helmets for rail attachments ([#82350](https://github.com/CleverRaven/Cataclysm-DDA/pull/82350))
+* Fix crash on NPC spawn ([#82353](https://github.com/CleverRaven/Cataclysm-DDA/pull/82353))
+* [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-10-1627 ([950e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-1627))
+
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 
 ---
@@ -33,7 +46,6 @@
 #### Cataclysm-DDA experimental build 2025-08-09-0558 ([6a6abe8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0558))
 
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82269](https://github.com/CleverRaven/Cataclysm-DDA/pull/82269))
-* Chitin armor overhaul ([#82186](https://github.com/CleverRaven/Cataclysm-DDA/pull/82186))
 * Create ui_helpers.cpp with first function full_screen_window ([#82277](https://github.com/CleverRaven/Cataclysm-DDA/pull/82277))
 * Dedupe checking and killing hallucinations ([#82312](https://github.com/CleverRaven/Cataclysm-DDA/pull/82312))
 * Deduplicate computer_session code ([#82246](https://github.com/CleverRaven/Cataclysm-DDA/pull/82246))
@@ -202,11 +214,6 @@
 * [Mods] Your gear doesn't protect you when you're shapeshifted ([#82237](https://github.com/CleverRaven/Cataclysm-DDA/pull/82237))
 * Deduplicate armor power usage code. Also tell player when UPS items run out of charge. ([#82241](https://github.com/CleverRaven/Cataclysm-DDA/pull/82241))
 * Deduplicate weight penalty calculations ([#82235](https://github.com/CleverRaven/Cataclysm-DDA/pull/82235))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-05-1452 ([7bd751c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-1452))
-
 * Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
 * Resolve errors from loading 0.H options on 0.I ([#82206](https://github.com/CleverRaven/Cataclysm-DDA/pull/82206))
 * Better map bashing ([#82207](https://github.com/CleverRaven/Cataclysm-DDA/pull/82207))
@@ -218,7 +225,6 @@
 * Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
 * Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
 * [0.I] replace repairing item for `steel` material ([#82210](https://github.com/CleverRaven/Cataclysm-DDA/pull/82210))
-* Routine i18n updates on 02 August 2025 ([#82187](https://github.com/CleverRaven/Cataclysm-DDA/pull/82187))
 * [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
 * Use optional/mandatory for mutation, material, mission def, move mode ([#82196](https://github.com/CleverRaven/Cataclysm-DDA/pull/82196))
 * [Aftershock] Using the genetech machines de-espers you ([#82215](https://github.com/CleverRaven/Cataclysm-DDA/pull/82215))
@@ -236,8 +242,3 @@
 * Use optional/mandatory in item factory ([#82195](https://github.com/CleverRaven/Cataclysm-DDA/pull/82195))
 * [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82191](https://github.com/CleverRaven/Cataclysm-DDA/pull/82191))
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
-* Abort 'fired' reach attack if there are no valid targets ([#82189](https://github.com/CleverRaven/Cataclysm-DDA/pull/82189))
-* Fix min save archive generation for compressed saves. ([#82188](https://github.com/CleverRaven/Cataclysm-DDA/pull/82188))
-* Use optional/mandatory for ascii_art, bionic_data, bodypart ([#82183](https://github.com/CleverRaven/Cataclysm-DDA/pull/82183))
-* Fix min save archive generation for compressed saves. ([#82181](https://github.com/CleverRaven/Cataclysm-DDA/pull/82181))
-* Revert diagonal OMT pathing for land/air vehicles ([#82180](https://github.com/CleverRaven/Cataclysm-DDA/pull/82180))
