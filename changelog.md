@@ -1,4 +1,9 @@
 * Place soldering supplies in houses ([#82338](https://github.com/CleverRaven/Cataclysm-DDA/pull/82338))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-10-1904 ([fc75eb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-10-1904))
+
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82334](https://github.com/CleverRaven/Cataclysm-DDA/pull/82334))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
 
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2025-08-06-0349 ([1dc8c27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-0349))
 
 * Dedupe tool out of charges messages and end of activity ([#82225](https://github.com/CleverRaven/Cataclysm-DDA/pull/82225))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-05-2302 ([f0811a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-2302))
-
 * Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
 * [Mods] If you have a broken limb and are in a shapeshifted form, you can't fly ([#82238](https://github.com/CleverRaven/Cataclysm-DDA/pull/82238))
 * [Xedra Evolved] Only werewolves gain werewolf gifts ([#82243](https://github.com/CleverRaven/Cataclysm-DDA/pull/82243))
