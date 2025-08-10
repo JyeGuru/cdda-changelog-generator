@@ -1,3 +1,4 @@
+* Delete an obsolete entry in the plumbing supplies itemgroup (#82354)
 
 Cataclysm-DDA experimental build 2025-08-10-1753 (9efd9c8)
 * Dedupe schizophrenic symptom checks (#82256)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2025-08-05-2302 (f0811a6)
 * Oops - remove remaining mentions of speedydex (#82205)
 * Stop smashing stuff with your face (#82197)
 * zzip.exe: a tool for manipulating zzip files. (#82198)
-* Use optional/mandatory in item factory (#82195)

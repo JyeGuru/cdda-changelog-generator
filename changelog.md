@@ -1,3 +1,4 @@
+* Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
 
 ---
 
@@ -241,4 +242,3 @@
 * Oops - remove remaining mentions of speedydex ([#82205](https://github.com/CleverRaven/Cataclysm-DDA/pull/82205))
 * Stop smashing stuff with your face ([#82197](https://github.com/CleverRaven/Cataclysm-DDA/pull/82197))
 * zzip.exe: a tool for manipulating zzip files. ([#82198](https://github.com/CleverRaven/Cataclysm-DDA/pull/82198))
-* Use optional/mandatory in item factory ([#82195](https://github.com/CleverRaven/Cataclysm-DDA/pull/82195))
