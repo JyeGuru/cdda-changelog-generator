@@ -1,3 +1,5 @@
+* Dedupe schizophrenic symptom checks ([#82256](https://github.com/CleverRaven/Cataclysm-DDA/pull/82256))
+* Dedupe EOC activation checks and messages ([#82260](https://github.com/CleverRaven/Cataclysm-DDA/pull/82260))
 * Fix mentions of evac 'center' starts ([#82330](https://github.com/CleverRaven/Cataclysm-DDA/pull/82330))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82339](https://github.com/CleverRaven/Cataclysm-DDA/pull/82339))
 * Remove "pair of" and "pairs of" wording from the leg armor and gloves ([#82344](https://github.com/CleverRaven/Cataclysm-DDA/pull/82344))
@@ -240,5 +242,3 @@
 * Stop smashing stuff with your face ([#82197](https://github.com/CleverRaven/Cataclysm-DDA/pull/82197))
 * zzip.exe: a tool for manipulating zzip files. ([#82198](https://github.com/CleverRaven/Cataclysm-DDA/pull/82198))
 * Use optional/mandatory in item factory ([#82195](https://github.com/CleverRaven/Cataclysm-DDA/pull/82195))
-* [MoM] Fix MAX_HP recalculation healing you problem for vitakinetics ([#82191](https://github.com/CleverRaven/Cataclysm-DDA/pull/82191))
-* Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
