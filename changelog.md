@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-10-1548 ([acaa51c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-10-1548))
+
+* Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-09-2237 ([8a9cfd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-2237))
 
 * Introduced Points of Interest ([#82272](https://github.com/CleverRaven/Cataclysm-DDA/pull/82272))
@@ -201,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2025-08-05-1452 ([7bd751c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-1452))
 
 * Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-05-0339 ([65529c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-0339))
-
 * Resolve errors from loading 0.H options on 0.I ([#82206](https://github.com/CleverRaven/Cataclysm-DDA/pull/82206))
 * Better map bashing ([#82207](https://github.com/CleverRaven/Cataclysm-DDA/pull/82207))
 * Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
@@ -237,7 +238,6 @@
 * Update NECC/Cody & Jay to use faction relationship setting. ([#82190](https://github.com/CleverRaven/Cataclysm-DDA/pull/82190))
 * Abort 'fired' reach attack if there are no valid targets ([#82189](https://github.com/CleverRaven/Cataclysm-DDA/pull/82189))
 * Fix min save archive generation for compressed saves. ([#82188](https://github.com/CleverRaven/Cataclysm-DDA/pull/82188))
-* mandatory/optional for weakpoints ([#82178](https://github.com/CleverRaven/Cataclysm-DDA/pull/82178))
 * Use optional/mandatory for ascii_art, bionic_data, bodypart ([#82183](https://github.com/CleverRaven/Cataclysm-DDA/pull/82183))
 * Fix min save archive generation for compressed saves. ([#82181](https://github.com/CleverRaven/Cataclysm-DDA/pull/82181))
 * Revert diagonal OMT pathing for land/air vehicles ([#82180](https://github.com/CleverRaven/Cataclysm-DDA/pull/82180))
