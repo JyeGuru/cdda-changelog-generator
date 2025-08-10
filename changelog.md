@@ -3,6 +3,11 @@
 * Fix mentions of evac 'center' starts ([#82330](https://github.com/CleverRaven/Cataclysm-DDA/pull/82330))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82339](https://github.com/CleverRaven/Cataclysm-DDA/pull/82339))
 * Remove "pair of" and "pairs of" wording from the leg armor and gloves ([#82344](https://github.com/CleverRaven/Cataclysm-DDA/pull/82344))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-10-1734 ([b12f6f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-10-1734))
+
 * Fix inserts in heavy ballistic vest being uncomfy ([#82345](https://github.com/CleverRaven/Cataclysm-DDA/pull/82345))
 * fix wearable cameras ([#82348](https://github.com/CleverRaven/Cataclysm-DDA/pull/82348))
 * Add modified motorcycle helmets for rail attachments ([#82350](https://github.com/CleverRaven/Cataclysm-DDA/pull/82350))
@@ -208,11 +213,6 @@
 * replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82232](https://github.com/CleverRaven/Cataclysm-DDA/pull/82232))
 * Fix CTD when looking up with isometric tileset ([#82240](https://github.com/CleverRaven/Cataclysm-DDA/pull/82240))
 * Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-05-1605 ([66a95ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-1605))
-
 * [Mods] Your gear doesn't protect you when you're shapeshifted ([#82237](https://github.com/CleverRaven/Cataclysm-DDA/pull/82237))
 * Deduplicate armor power usage code. Also tell player when UPS items run out of charge. ([#82241](https://github.com/CleverRaven/Cataclysm-DDA/pull/82241))
 * Deduplicate weight penalty calculations ([#82235](https://github.com/CleverRaven/Cataclysm-DDA/pull/82235))
