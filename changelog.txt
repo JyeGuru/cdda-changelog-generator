@@ -1,3 +1,4 @@
+* Add doc re c++ code comments for translator context (#82362)
 * Place soldering supplies in houses (#82338)
 
 Cataclysm-DDA 0.I release candidate 2025-08-10-1904 (fc75eb4)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2025-08-06-0349 (1dc8c27)
 * New ammo type (3030) and two new guns for it (#82200)
 * Check for vehicle center of mass at wheel position (#82204)
 * Oops - remove remaining mentions of speedydex (#82205)
-* zzip.exe: a tool for manipulating zzip files. (#82198)
