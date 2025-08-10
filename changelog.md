@@ -1,3 +1,4 @@
+* Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 
 ---
 
@@ -229,7 +230,6 @@
 * Fix slime terrain being flammable(????) ([#82211](https://github.com/CleverRaven/Cataclysm-DDA/pull/82211))
 * New ammo type (3030) and two new guns for it ([#82200](https://github.com/CleverRaven/Cataclysm-DDA/pull/82200))
 * Check for vehicle center of mass at wheel position ([#82204](https://github.com/CleverRaven/Cataclysm-DDA/pull/82204))
-* replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82179](https://github.com/CleverRaven/Cataclysm-DDA/pull/82179))
 * Oops - remove remaining mentions of speedydex ([#82205](https://github.com/CleverRaven/Cataclysm-DDA/pull/82205))
 * Stop smashing stuff with your face ([#82197](https://github.com/CleverRaven/Cataclysm-DDA/pull/82197))
 * zzip.exe: a tool for manipulating zzip files. ([#82198](https://github.com/CleverRaven/Cataclysm-DDA/pull/82198))

@@ -1,3 +1,4 @@
+* Remove non exoplanet Aftershock (#82361)
 
 Cataclysm-DDA 0.I release candidate 2025-08-10-1548 (acaa51c)
 * Make Aftershock load for stable (#82360)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-08-05-1452 (7bd751c)
 * Fix slime terrain being flammable(????) (#82211)
 * New ammo type (3030) and two new guns for it (#82200)
 * Check for vehicle center of mass at wheel position (#82204)
-* replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. (#82179)
 * Oops - remove remaining mentions of speedydex (#82205)
 * Stop smashing stuff with your face (#82197)
 * zzip.exe: a tool for manipulating zzip files. (#82198)
