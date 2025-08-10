@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-10-2159 (0a8ce52)
 * Fix IWYU (#82370)
 * Add doc re c++ code comments for translator context (#82362)
 
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2025-08-06-1633 (7eb3c79)
 
 Cataclysm-DDA experimental build 2025-08-06-1519 (8202cbe)
 * .22 lr bbti (#82263)
-
-Cataclysm-DDA experimental build 2025-08-06-1050 (657bfe0)
 * Remove bonus damage of 22 LR (#82266)
 * Dedupe tool out of charges messages and end of activity (#82225)
 * Dedupe zone_data constructors (#82242)

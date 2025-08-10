@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-10-2159 ([0a8ce52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-2159))
+
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
 
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2025-08-06-1519 ([8202cbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-1519))
 
 * .22 lr bbti ([#82263](https://github.com/CleverRaven/Cataclysm-DDA/pull/82263))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-06-1050 ([657bfe0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-1050))
-
 * Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))
 * Dedupe tool out of charges messages and end of activity ([#82225](https://github.com/CleverRaven/Cataclysm-DDA/pull/82225))
 * Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
