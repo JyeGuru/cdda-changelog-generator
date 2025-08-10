@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-10-1753 ([9efd9c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-1753))
+
 * Dedupe schizophrenic symptom checks ([#82256](https://github.com/CleverRaven/Cataclysm-DDA/pull/82256))
 * Dedupe EOC activation checks and messages ([#82260](https://github.com/CleverRaven/Cataclysm-DDA/pull/82260))
 * Fix mentions of evac 'center' starts ([#82330](https://github.com/CleverRaven/Cataclysm-DDA/pull/82330))
@@ -204,11 +209,6 @@
 
 * Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
 * [Mods] If you have a broken limb and are in a shapeshifted form, you can't fly ([#82238](https://github.com/CleverRaven/Cataclysm-DDA/pull/82238))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-05-2125 ([f3ba4d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-05-2125))
-
 * [Xedra Evolved] Only werewolves gain werewolf gifts ([#82243](https://github.com/CleverRaven/Cataclysm-DDA/pull/82243))
 * replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82232](https://github.com/CleverRaven/Cataclysm-DDA/pull/82232))
 * Fix CTD when looking up with isometric tileset ([#82240](https://github.com/CleverRaven/Cataclysm-DDA/pull/82240))
