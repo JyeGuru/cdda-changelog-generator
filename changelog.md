@@ -1,3 +1,5 @@
+* Place soldering supplies in houses ([#82338](https://github.com/CleverRaven/Cataclysm-DDA/pull/82338))
+* Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82334](https://github.com/CleverRaven/Cataclysm-DDA/pull/82334))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
 
 ---
@@ -229,7 +231,6 @@
 * Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
 * [0.I] replace repairing item for `steel` material ([#82210](https://github.com/CleverRaven/Cataclysm-DDA/pull/82210))
 * [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
-* Use optional/mandatory for mutation, material, mission def, move mode ([#82196](https://github.com/CleverRaven/Cataclysm-DDA/pull/82196))
 * [Aftershock] Using the genetech machines de-espers you ([#82215](https://github.com/CleverRaven/Cataclysm-DDA/pull/82215))
 * Oops - remove remaining mentions of speedydex ([#82214](https://github.com/CleverRaven/Cataclysm-DDA/pull/82214))
 * Fix slime terrain being flammable(????) ([#82217](https://github.com/CleverRaven/Cataclysm-DDA/pull/82217))
@@ -240,5 +241,4 @@
 * New ammo type (3030) and two new guns for it ([#82200](https://github.com/CleverRaven/Cataclysm-DDA/pull/82200))
 * Check for vehicle center of mass at wheel position ([#82204](https://github.com/CleverRaven/Cataclysm-DDA/pull/82204))
 * Oops - remove remaining mentions of speedydex ([#82205](https://github.com/CleverRaven/Cataclysm-DDA/pull/82205))
-* Stop smashing stuff with your face ([#82197](https://github.com/CleverRaven/Cataclysm-DDA/pull/82197))
 * zzip.exe: a tool for manipulating zzip files. ([#82198](https://github.com/CleverRaven/Cataclysm-DDA/pull/82198))
