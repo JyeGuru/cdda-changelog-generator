@@ -1,3 +1,4 @@
+* Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
 
 ---
@@ -236,4 +237,3 @@
 * [Aftershock] Using the genetech machines de-espers you ([#82215](https://github.com/CleverRaven/Cataclysm-DDA/pull/82215))
 * Oops - remove remaining mentions of speedydex ([#82214](https://github.com/CleverRaven/Cataclysm-DDA/pull/82214))
 * Fix slime terrain being flammable(????) ([#82217](https://github.com/CleverRaven/Cataclysm-DDA/pull/82217))
-* Fix slime terrain being flammable(????) ([#82211](https://github.com/CleverRaven/Cataclysm-DDA/pull/82211))
