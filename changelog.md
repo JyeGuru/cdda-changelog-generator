@@ -1,3 +1,13 @@
+* Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-11-0318 ([2df4c8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-11-0318))
+
+* fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
+* Dedupe character/creature process_turn ([#82311](https://github.com/CleverRaven/Cataclysm-DDA/pull/82311))
+* Magiclysm: Silver Infuser uses gem bracelets ([#82304](https://github.com/CleverRaven/Cataclysm-DDA/pull/82304))
+* Vitamin spell support custom color, also support going lower than 0 ([#82358](https://github.com/CleverRaven/Cataclysm-DDA/pull/82358))
 * Dedupe flexbuffer root source path error ([#82336](https://github.com/CleverRaven/Cataclysm-DDA/pull/82336))
 
 ---
@@ -197,17 +207,7 @@
 * Fix CTRL+U not clearing text ([#82244](https://github.com/CleverRaven/Cataclysm-DDA/pull/82244))
 * Small JSON loading cleanup to optional/mandatory  ([#82226](https://github.com/CleverRaven/Cataclysm-DDA/pull/82226))
 * Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-06-2322 ([3214953](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-2322))
-
 * Retirement hoards are sparser ([#82271](https://github.com/CleverRaven/Cataclysm-DDA/pull/82271))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-06-1737 ([c0a50ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-1737))
-
 * Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
 * Silence (but do not fix) 'tried to set non-permanent morale' test failure ([#82254](https://github.com/CleverRaven/Cataclysm-DDA/pull/82254))
 * Dedupe check for tile passable down in creature flood fill. ([#82259](https://github.com/CleverRaven/Cataclysm-DDA/pull/82259))
@@ -225,8 +225,6 @@
 * Deduplicate armor power usage code. Also tell player when UPS items run out of charge. ([#82241](https://github.com/CleverRaven/Cataclysm-DDA/pull/82241))
 * Deduplicate weight penalty calculations ([#82235](https://github.com/CleverRaven/Cataclysm-DDA/pull/82235))
 * Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
-* Resolve errors from loading 0.H options on 0.I ([#82206](https://github.com/CleverRaven/Cataclysm-DDA/pull/82206))
-* Better map bashing ([#82207](https://github.com/CleverRaven/Cataclysm-DDA/pull/82207))
 * Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
 * Remove "Toggle skill training" ([#82213](https://github.com/CleverRaven/Cataclysm-DDA/pull/82213))
 * [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
@@ -234,11 +232,8 @@
 * Remove help text about disabling skill practice ([#82228](https://github.com/CleverRaven/Cataclysm-DDA/pull/82228))
 * Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
 * Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
-* [0.I] replace repairing item for `steel` material ([#82210](https://github.com/CleverRaven/Cataclysm-DDA/pull/82210))
 * [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
 * [Aftershock] Using the genetech machines de-espers you ([#82215](https://github.com/CleverRaven/Cataclysm-DDA/pull/82215))
 * Oops - remove remaining mentions of speedydex ([#82214](https://github.com/CleverRaven/Cataclysm-DDA/pull/82214))
 * Fix slime terrain being flammable(????) ([#82217](https://github.com/CleverRaven/Cataclysm-DDA/pull/82217))
-* Better stop sign deconstruction ([#82208](https://github.com/CleverRaven/Cataclysm-DDA/pull/82208))
 * Fix slime terrain being flammable(????) ([#82211](https://github.com/CleverRaven/Cataclysm-DDA/pull/82211))
-* Oops - remove remaining mentions of speedydex ([#82205](https://github.com/CleverRaven/Cataclysm-DDA/pull/82205))
