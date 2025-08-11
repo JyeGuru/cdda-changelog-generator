@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-11-1516 ([4898b34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-11-1516))
+
+* Minor error fixes ([#82372](https://github.com/CleverRaven/Cataclysm-DDA/pull/82372))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-11-1514 ([c3a9382](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-1514))
+
+* Weekly Changelog 2025-08-04 to 2025-08-11 ([#82380](https://github.com/CleverRaven/Cataclysm-DDA/pull/82380))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-11-0637 ([bc7021c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-0637))
 
 * Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
@@ -188,18 +200,8 @@
 * Weekly Changelog 2025-07-28 to 2025-08-04 ([#82222](https://github.com/CleverRaven/Cataclysm-DDA/pull/82222))
 * Dedupe various crafting code ([#82275](https://github.com/CleverRaven/Cataclysm-DDA/pull/82275))
 * shouldfail test for liquid projectile effect ([#82276](https://github.com/CleverRaven/Cataclysm-DDA/pull/82276))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-07-1045 ([9a99e64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-1045))
-
 * Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
 * Restore butchery with negative quality ([#82281](https://github.com/CleverRaven/Cataclysm-DDA/pull/82281))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-07-0052 ([9e46143](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-0052))
-
 * "Plain Mead" name change to just "Mead" ([#82274](https://github.com/CleverRaven/Cataclysm-DDA/pull/82274))
 * Restore butchery with negative quality ([#82251](https://github.com/CleverRaven/Cataclysm-DDA/pull/82251))
 * Deduplicate avatar active mission update ([#82223](https://github.com/CleverRaven/Cataclysm-DDA/pull/82223))
@@ -227,12 +229,10 @@
 * Deduplicate weight penalty calculations ([#82235](https://github.com/CleverRaven/Cataclysm-DDA/pull/82235))
 * Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
 * Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
-* Remove "Toggle skill training" ([#82213](https://github.com/CleverRaven/Cataclysm-DDA/pull/82213))
 * [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
 * [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
 * Remove help text about disabling skill practice ([#82228](https://github.com/CleverRaven/Cataclysm-DDA/pull/82228))
 * Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
-* Manually backport "Fix Ship Vehicle Teleport" ([#82212](https://github.com/CleverRaven/Cataclysm-DDA/pull/82212))
 * [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
 * [Aftershock] Using the genetech machines de-espers you ([#82215](https://github.com/CleverRaven/Cataclysm-DDA/pull/82215))
 * Oops - remove remaining mentions of speedydex ([#82214](https://github.com/CleverRaven/Cataclysm-DDA/pull/82214))
