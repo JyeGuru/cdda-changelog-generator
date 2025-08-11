@@ -1,3 +1,10 @@
+* Dedupe flexbuffer root source path error (#82336)
+
+Cataclysm-DDA experimental build 2025-08-11-0244 (fb12abb)
+* Redefine glue itemgroups (#82357)
+
+Cataclysm-DDA experimental build 2025-08-11-0144 (b107a90)
+* Fix weather (#82369)
 
 Cataclysm-DDA experimental build 2025-08-10-2159 (0a8ce52)
 * Fix IWYU (#82370)
@@ -113,12 +120,8 @@ Cataclysm-DDA experimental build 2025-08-06-2322 (3214953)
 Cataclysm-DDA experimental build 2025-08-06-1737 (c0a50ac)
 * Update some leather armor weights (#82265)
 * Silence (but do not fix) 'tried to set non-permanent morale' test failure (#82254)
-
-Cataclysm-DDA experimental build 2025-08-06-1633 (7eb3c79)
 * Dedupe check for tile passable down in creature flood fill. (#82259)
 * BBTI for 9mm (#82262)
-
-Cataclysm-DDA experimental build 2025-08-06-1519 (8202cbe)
 * .22 lr bbti (#82263)
 * Remove bonus damage of 22 LR (#82266)
 * Dedupe tool out of charges messages and end of activity (#82225)
@@ -147,8 +150,5 @@ Cataclysm-DDA experimental build 2025-08-06-1519 (8202cbe)
 * Oops - remove remaining mentions of speedydex (#82214)
 * Fix slime terrain being flammable(????) (#82217)
 * Better stop sign deconstruction (#82208)
-* add clubs with nails and bolts, sanify bats (#82202)
-* Sanify stats for nails and bolts (#82203)
 * Fix slime terrain being flammable(????) (#82211)
-* Check for vehicle center of mass at wheel position (#82204)
 * Oops - remove remaining mentions of speedydex (#82205)

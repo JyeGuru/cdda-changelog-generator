@@ -1,3 +1,16 @@
+* Dedupe flexbuffer root source path error ([#82336](https://github.com/CleverRaven/Cataclysm-DDA/pull/82336))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-11-0244 ([fb12abb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-0244))
+
+* Redefine glue itemgroups ([#82357](https://github.com/CleverRaven/Cataclysm-DDA/pull/82357))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-11-0144 ([b107a90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-0144))
+
+* Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
 
 ---
 
@@ -197,18 +210,8 @@
 
 * Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
 * Silence (but do not fix) 'tried to set non-permanent morale' test failure ([#82254](https://github.com/CleverRaven/Cataclysm-DDA/pull/82254))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-06-1633 ([7eb3c79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-1633))
-
 * Dedupe check for tile passable down in creature flood fill. ([#82259](https://github.com/CleverRaven/Cataclysm-DDA/pull/82259))
 * BBTI for 9mm ([#82262](https://github.com/CleverRaven/Cataclysm-DDA/pull/82262))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-06-1519 ([8202cbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-06-1519))
-
 * .22 lr bbti ([#82263](https://github.com/CleverRaven/Cataclysm-DDA/pull/82263))
 * Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))
 * Dedupe tool out of charges messages and end of activity ([#82225](https://github.com/CleverRaven/Cataclysm-DDA/pull/82225))
@@ -237,8 +240,5 @@
 * Oops - remove remaining mentions of speedydex ([#82214](https://github.com/CleverRaven/Cataclysm-DDA/pull/82214))
 * Fix slime terrain being flammable(????) ([#82217](https://github.com/CleverRaven/Cataclysm-DDA/pull/82217))
 * Better stop sign deconstruction ([#82208](https://github.com/CleverRaven/Cataclysm-DDA/pull/82208))
-* add clubs with nails and bolts, sanify bats ([#82202](https://github.com/CleverRaven/Cataclysm-DDA/pull/82202))
-* Sanify stats for nails and bolts ([#82203](https://github.com/CleverRaven/Cataclysm-DDA/pull/82203))
 * Fix slime terrain being flammable(????) ([#82211](https://github.com/CleverRaven/Cataclysm-DDA/pull/82211))
-* Check for vehicle center of mass at wheel position ([#82204](https://github.com/CleverRaven/Cataclysm-DDA/pull/82204))
 * Oops - remove remaining mentions of speedydex ([#82205](https://github.com/CleverRaven/Cataclysm-DDA/pull/82205))
