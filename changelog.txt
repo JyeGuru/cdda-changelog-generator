@@ -1,4 +1,8 @@
+
+Cataclysm-DDA experimental build 2025-08-11-0637 (bc7021c)
 * Check there's nothing in the way before constructing training dummy/archery box (#82373)
+
+Cataclysm-DDA 0.I release candidate 2025-08-11-0618 (1a83869)
 * Fix tutorial trap messages popping more than once and showing first message always (#82366)
 
 Cataclysm-DDA 0.I release candidate 2025-08-11-0318 (2df4c8b)
@@ -90,8 +94,6 @@ Cataclysm-DDA experimental build 2025-08-07-2238 (a3e1dfb)
 * XL/XS pipebomb bandolier (#82303)
 * [Xedra Evolved] Fix werewolf techniques (#82294)
 * Fix: AIM item menu wouldn't update window position on resize. (#82264)
-
-Cataclysm-DDA 0.I release candidate 2025-08-07-2055 (f728a1c)
 * Aftershock: Sarting survival kit for sale in port Augustmoon (#82279)
 
 Cataclysm-DDA experimental build 2025-08-07-2055 (380954e)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2025-08-07-1155 (9a85cfa)
 
 Cataclysm-DDA experimental build 2025-08-07-1045 (9a99e64)
 * Small generic factory fixes + script to load game with all mods (#82283)
-
-Cataclysm-DDA 0.I release candidate 2025-08-07-1023 (d9a053e)
 * Restore butchery with negative quality (#82281)
 
 Cataclysm-DDA experimental build 2025-08-07-0052 (9e46143)
