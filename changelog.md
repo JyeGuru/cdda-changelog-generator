@@ -235,5 +235,4 @@
 * Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
 * [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
 * [Aftershock] Using the genetech machines de-espers you ([#82215](https://github.com/CleverRaven/Cataclysm-DDA/pull/82215))
-* Oops - remove remaining mentions of speedydex ([#82214](https://github.com/CleverRaven/Cataclysm-DDA/pull/82214))
 * Fix slime terrain being flammable(????) ([#82217](https://github.com/CleverRaven/Cataclysm-DDA/pull/82217))
