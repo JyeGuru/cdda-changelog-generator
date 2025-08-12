@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-12-0101 ([263e9ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0101))
+
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-08-07-2055 ([380954e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-2055))
 
 * [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-07-1301 ([462ec86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-1301))
-
 * Silence warning about data loss when converting to specified type ([#82290](https://github.com/CleverRaven/Cataclysm-DDA/pull/82290))
 * [Xedra Evolved] More werewolf powers + rework advancement system ([#82219](https://github.com/CleverRaven/Cataclysm-DDA/pull/82219))
 * Weekly Changelog 2025-07-28 to 2025-08-04 ([#82222](https://github.com/CleverRaven/Cataclysm-DDA/pull/82222))
