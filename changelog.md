@@ -1,3 +1,21 @@
+* Fix segfault when toggling RAS with an inappropriate item ([#82388](https://github.com/CleverRaven/Cataclysm-DDA/pull/82388))
+* Document debug character/world naming ([#82383](https://github.com/CleverRaven/Cataclysm-DDA/pull/82383))
+* aftershock typo ([#82381](https://github.com/CleverRaven/Cataclysm-DDA/pull/82381))
+* Check there's nothing in the way before constructing training dummy/archery box ([#82382](https://github.com/CleverRaven/Cataclysm-DDA/pull/82382))
+* [Xedra Evolved] Switch vampires powers over to using `human_blood_vitamin` ([#82397](https://github.com/CleverRaven/Cataclysm-DDA/pull/82397))
+* Generic factory: more reader correctness ([#82363](https://github.com/CleverRaven/Cataclysm-DDA/pull/82363))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-12-1010 ([f03af97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-12-1010))
+
+* [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-12-1009 ([c0d3a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-1009))
+
+* fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
 
 ---
 
@@ -182,17 +200,7 @@
 #### Cataclysm-DDA experimental build 2025-08-08-1552 ([f9830aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-08-1552))
 
 * Revert "Stop using pre-apoc price as a fallback for postapoc price" ([#82284](https://github.com/CleverRaven/Cataclysm-DDA/pull/82284))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-08-0308 ([4694904](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-08-0308))
-
 * Remove bonus damage for 9 mm ([#82291](https://github.com/CleverRaven/Cataclysm-DDA/pull/82291))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-07-2320 ([9259708](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-2320))
-
 * Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
 * XL/XS pipebomb bandolier ([#82303](https://github.com/CleverRaven/Cataclysm-DDA/pull/82303))
 * [Xedra Evolved] Fix werewolf techniques ([#82294](https://github.com/CleverRaven/Cataclysm-DDA/pull/82294))
@@ -200,18 +208,15 @@
 * Aftershock: Sarting survival kit for sale in port Augustmoon ([#82279](https://github.com/CleverRaven/Cataclysm-DDA/pull/82279))
 * [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
 * Silence warning about data loss when converting to specified type ([#82290](https://github.com/CleverRaven/Cataclysm-DDA/pull/82290))
-* Weekly Changelog 2025-07-28 to 2025-08-04 ([#82222](https://github.com/CleverRaven/Cataclysm-DDA/pull/82222))
 * Dedupe various crafting code ([#82275](https://github.com/CleverRaven/Cataclysm-DDA/pull/82275))
 * shouldfail test for liquid projectile effect ([#82276](https://github.com/CleverRaven/Cataclysm-DDA/pull/82276))
 * Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
 * Restore butchery with negative quality ([#82281](https://github.com/CleverRaven/Cataclysm-DDA/pull/82281))
 * "Plain Mead" name change to just "Mead" ([#82274](https://github.com/CleverRaven/Cataclysm-DDA/pull/82274))
 * Restore butchery with negative quality ([#82251](https://github.com/CleverRaven/Cataclysm-DDA/pull/82251))
-* Deduplicate avatar active mission update ([#82223](https://github.com/CleverRaven/Cataclysm-DDA/pull/82223))
 * refactor to `inc_clamp_wrap` ([#82267](https://github.com/CleverRaven/Cataclysm-DDA/pull/82267))
 * Make a distribution for seabags ([#82273](https://github.com/CleverRaven/Cataclysm-DDA/pull/82273))
 * Fix CTRL+U not clearing text ([#82244](https://github.com/CleverRaven/Cataclysm-DDA/pull/82244))
-* Small JSON loading cleanup to optional/mandatory  ([#82226](https://github.com/CleverRaven/Cataclysm-DDA/pull/82226))
 * Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
 * Retirement hoards are sparser ([#82271](https://github.com/CleverRaven/Cataclysm-DDA/pull/82271))
 * Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
@@ -220,7 +225,6 @@
 * BBTI for 9mm ([#82262](https://github.com/CleverRaven/Cataclysm-DDA/pull/82262))
 * .22 lr bbti ([#82263](https://github.com/CleverRaven/Cataclysm-DDA/pull/82263))
 * Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))
-* Dedupe tool out of charges messages and end of activity ([#82225](https://github.com/CleverRaven/Cataclysm-DDA/pull/82225))
 * Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
 * [Mods] If you have a broken limb and are in a shapeshifted form, you can't fly ([#82238](https://github.com/CleverRaven/Cataclysm-DDA/pull/82238))
 * [Xedra Evolved] Only werewolves gain werewolf gifts ([#82243](https://github.com/CleverRaven/Cataclysm-DDA/pull/82243))
@@ -231,8 +235,4 @@
 * Deduplicate armor power usage code. Also tell player when UPS items run out of charge. ([#82241](https://github.com/CleverRaven/Cataclysm-DDA/pull/82241))
 * Deduplicate weight penalty calculations ([#82235](https://github.com/CleverRaven/Cataclysm-DDA/pull/82235))
 * Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
-* Deduplicate end of gliding activity ([#82224](https://github.com/CleverRaven/Cataclysm-DDA/pull/82224))
-* [Mods] When shapeshifted into a form with no hands, you don't have hands ([#82221](https://github.com/CleverRaven/Cataclysm-DDA/pull/82221))
-* [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
-* Remove help text about disabling skill practice ([#82228](https://github.com/CleverRaven/Cataclysm-DDA/pull/82228))
 * Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
