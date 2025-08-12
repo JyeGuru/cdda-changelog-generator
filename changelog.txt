@@ -1,3 +1,4 @@
+* move bagpipes to music recipe (#82394)
 
 Cataclysm-DDA experimental build 2025-08-11-2349 (1669127)
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items (#82385)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-08-07-1301 (462ec86)
 * Remove help text about disabling skill practice (#82228)
 * Fix drying with hot air (#82229)
 * [MoM] Fix Golden Radiance (#82218)
-* Fix slime terrain being flammable(????) (#82217)
