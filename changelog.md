@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-12-0523 ([6b8ba64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0523))
+
+* LIXA Achievement name swap ([#82384](https://github.com/CleverRaven/Cataclysm-DDA/pull/82384))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-12-0421 ([10f6ee6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0421))
 
 * [Magiclysm] Only player goblins will try to tame wargs ([#82378](https://github.com/CleverRaven/Cataclysm-DDA/pull/82378))
@@ -188,18 +194,12 @@
 #### Cataclysm-DDA experimental build 2025-08-07-2320 ([9259708](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-2320))
 
 * Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-07-2238 ([a3e1dfb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-2238))
-
 * XL/XS pipebomb bandolier ([#82303](https://github.com/CleverRaven/Cataclysm-DDA/pull/82303))
 * [Xedra Evolved] Fix werewolf techniques ([#82294](https://github.com/CleverRaven/Cataclysm-DDA/pull/82294))
 * Fix: AIM item menu wouldn't update window position on resize. ([#82264](https://github.com/CleverRaven/Cataclysm-DDA/pull/82264))
 * Aftershock: Sarting survival kit for sale in port Augustmoon ([#82279](https://github.com/CleverRaven/Cataclysm-DDA/pull/82279))
 * [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
 * Silence warning about data loss when converting to specified type ([#82290](https://github.com/CleverRaven/Cataclysm-DDA/pull/82290))
-* [Xedra Evolved] More werewolf powers + rework advancement system ([#82219](https://github.com/CleverRaven/Cataclysm-DDA/pull/82219))
 * Weekly Changelog 2025-07-28 to 2025-08-04 ([#82222](https://github.com/CleverRaven/Cataclysm-DDA/pull/82222))
 * Dedupe various crafting code ([#82275](https://github.com/CleverRaven/Cataclysm-DDA/pull/82275))
 * shouldfail test for liquid projectile effect ([#82276](https://github.com/CleverRaven/Cataclysm-DDA/pull/82276))
