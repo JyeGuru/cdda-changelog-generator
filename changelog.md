@@ -1,3 +1,11 @@
+* Minor enchantment cache refactor ([#82371](https://github.com/CleverRaven/Cataclysm-DDA/pull/82371))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-12-1122 ([9358c83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-12-1122))
+
+* Basecamp fixes/refactor and allow tags/snippets in camp labels ([#82376](https://github.com/CleverRaven/Cataclysm-DDA/pull/82376))
+* [MoM] Add Psychometry clairsentient power ([#82389](https://github.com/CleverRaven/Cataclysm-DDA/pull/82389))
 * Fix segfault when toggling RAS with an inappropriate item ([#82388](https://github.com/CleverRaven/Cataclysm-DDA/pull/82388))
 * Document debug character/world naming ([#82383](https://github.com/CleverRaven/Cataclysm-DDA/pull/82383))
 * aftershock typo ([#82381](https://github.com/CleverRaven/Cataclysm-DDA/pull/82381))
@@ -194,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-08-09-0031 ([bfce924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0031))
 
 * Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-08-1552 ([f9830aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-08-1552))
-
 * Revert "Stop using pre-apoc price as a fallback for postapoc price" ([#82284](https://github.com/CleverRaven/Cataclysm-DDA/pull/82284))
 * Remove bonus damage for 9 mm ([#82291](https://github.com/CleverRaven/Cataclysm-DDA/pull/82291))
 * Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
@@ -228,11 +231,8 @@
 * Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
 * [Mods] If you have a broken limb and are in a shapeshifted form, you can't fly ([#82238](https://github.com/CleverRaven/Cataclysm-DDA/pull/82238))
 * [Xedra Evolved] Only werewolves gain werewolf gifts ([#82243](https://github.com/CleverRaven/Cataclysm-DDA/pull/82243))
-* replace `ammo_restriction` with `max_item_length` in `22lr_ammo_tray` to prevent negative volume in drop menu. ([#82232](https://github.com/CleverRaven/Cataclysm-DDA/pull/82232))
 * Fix CTD when looking up with isometric tileset ([#82240](https://github.com/CleverRaven/Cataclysm-DDA/pull/82240))
 * Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
 * [Mods] Your gear doesn't protect you when you're shapeshifted ([#82237](https://github.com/CleverRaven/Cataclysm-DDA/pull/82237))
 * Deduplicate armor power usage code. Also tell player when UPS items run out of charge. ([#82241](https://github.com/CleverRaven/Cataclysm-DDA/pull/82241))
-* Deduplicate weight penalty calculations ([#82235](https://github.com/CleverRaven/Cataclysm-DDA/pull/82235))
 * Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
-* Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
