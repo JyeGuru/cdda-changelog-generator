@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-12-2109 (9d7de1f)
 * Make mutant bugs not spawn 0 days from cataclysm (#82341)
 
 Cataclysm-DDA experimental build 2025-08-12-1955 (b0a25e4)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2025-08-09-0558 (6a6abe8)
 * Dedupe checking and killing hallucinations (#82312)
 * Deduplicate computer_session code (#82246)
 * Routine i18n updates on 09 August 2025 (#82325)
-
-Cataclysm-DDA experimental build 2025-08-09-0505 (40a7dd1)
 * Glue audit (#82253)
 * Fix inserts in heavy ballistic vest being uncomfy (#82320)
 * [Aftershock] Power grid moves with the ship without deletion (#82285)
