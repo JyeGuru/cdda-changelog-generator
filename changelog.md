@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-12-2233 ([d9b16bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-2233))
+
 * debug menu: turn spawn named npc into a list ([#82359](https://github.com/CleverRaven/Cataclysm-DDA/pull/82359))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-08-09-1520 ([66b5e33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-1520))
 
 * Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-09-0558 ([6a6abe8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0558))
-
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82269](https://github.com/CleverRaven/Cataclysm-DDA/pull/82269))
 * Create ui_helpers.cpp with first function full_screen_window ([#82277](https://github.com/CleverRaven/Cataclysm-DDA/pull/82277))
 * Dedupe checking and killing hallucinations ([#82312](https://github.com/CleverRaven/Cataclysm-DDA/pull/82312))

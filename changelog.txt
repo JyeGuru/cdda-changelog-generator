@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-12-2233 (d9b16bb)
 * debug menu: turn spawn named npc into a list (#82359)
 
 Cataclysm-DDA experimental build 2025-08-12-2109 (9d7de1f)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2025-08-09-2153 (fe1eafe)
 
 Cataclysm-DDA experimental build 2025-08-09-1520 (66b5e33)
 * Fix evacuee scenario (#82333)
-
-Cataclysm-DDA experimental build 2025-08-09-0558 (6a6abe8)
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) (#82269)
 * Create ui_helpers.cpp with first function full_screen_window (#82277)
 * Dedupe checking and killing hallucinations (#82312)
