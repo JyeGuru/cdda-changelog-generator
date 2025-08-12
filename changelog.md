@@ -233,6 +233,5 @@
 * [Xedra Evolved] Only werewolves gain werewolf gifts ([#82243](https://github.com/CleverRaven/Cataclysm-DDA/pull/82243))
 * Fix CTD when looking up with isometric tileset ([#82240](https://github.com/CleverRaven/Cataclysm-DDA/pull/82240))
 * Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
-* [Mods] Your gear doesn't protect you when you're shapeshifted ([#82237](https://github.com/CleverRaven/Cataclysm-DDA/pull/82237))
 * Deduplicate armor power usage code. Also tell player when UPS items run out of charge. ([#82241](https://github.com/CleverRaven/Cataclysm-DDA/pull/82241))
 * Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
