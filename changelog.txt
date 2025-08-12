@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-12-1955 (b0a25e4)
 * Dedupe monster blocking closing door check and messages (#82342)
 
 Cataclysm-DDA experimental build 2025-08-12-1822 (30369a9)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2025-08-09-0558 (6a6abe8)
 
 Cataclysm-DDA experimental build 2025-08-09-0505 (40a7dd1)
 * Glue audit (#82253)
-
-Cataclysm-DDA experimental build 2025-08-09-0410 (1daa188)
 * Fix inserts in heavy ballistic vest being uncomfy (#82320)
 * [Aftershock] Power grid moves with the ship without deletion (#82285)
 * Add type alias for event field (#82315)

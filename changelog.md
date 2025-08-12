@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-12-1955 ([b0a25e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-1955))
+
 * Dedupe monster blocking closing door check and messages ([#82342](https://github.com/CleverRaven/Cataclysm-DDA/pull/82342))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-08-09-0505 ([40a7dd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0505))
 
 * Glue audit ([#82253](https://github.com/CleverRaven/Cataclysm-DDA/pull/82253))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-09-0410 ([1daa188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0410))
-
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
 * [Aftershock] Power grid moves with the ship without deletion ([#82285](https://github.com/CleverRaven/Cataclysm-DDA/pull/82285))
 * Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
