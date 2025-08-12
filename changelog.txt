@@ -1,3 +1,4 @@
+* debug menu: turn spawn named npc into a list (#82359)
 
 Cataclysm-DDA experimental build 2025-08-12-2109 (9d7de1f)
 * Make mutant bugs not spawn 0 days from cataclysm (#82341)
@@ -144,7 +145,5 @@ Cataclysm-DDA experimental build 2025-08-09-0558 (6a6abe8)
 * BBTI for 9mm (#82262)
 * .22 lr bbti (#82263)
 * Remove bonus damage of 22 LR (#82266)
-* Dedupe zone_data constructors (#82242)
-* [Xedra Evolved] Only werewolves gain werewolf gifts (#82243)
 * Resolve errors from loading 0.H options on 0.I (#82249)
 * Make dairy farm use domestic palette (#82247)
