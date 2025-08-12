@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-12-1140 (cd59a1e)
 * Minor enchantment cache refactor (#82371)
 
 Cataclysm-DDA 0.I release candidate 2025-08-12-1122 (9358c83)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2025-08-09-0410 (1daa188)
 
 Cataclysm-DDA experimental build 2025-08-09-0132 (39c0198)
 * [Aftershock] Power grid moves with the ship without deletion (#82285)
-
-Cataclysm-DDA experimental build 2025-08-09-0031 (bfce924)
 * Add type alias for event field (#82315)
 * Revert "Stop using pre-apoc price as a fallback for postapoc price" (#82284)
 * Remove bonus damage for 9 mm (#82291)

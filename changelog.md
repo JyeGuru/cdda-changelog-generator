@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-12-1140 ([cd59a1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-1140))
+
 * Minor enchantment cache refactor ([#82371](https://github.com/CleverRaven/Cataclysm-DDA/pull/82371))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-08-09-0132 ([39c0198](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0132))
 
 * [Aftershock] Power grid moves with the ship without deletion ([#82285](https://github.com/CleverRaven/Cataclysm-DDA/pull/82285))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-09-0031 ([bfce924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-0031))
-
 * Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
 * Revert "Stop using pre-apoc price as a fallback for postapoc price" ([#82284](https://github.com/CleverRaven/Cataclysm-DDA/pull/82284))
 * Remove bonus damage for 9 mm ([#82291](https://github.com/CleverRaven/Cataclysm-DDA/pull/82291))
