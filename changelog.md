@@ -1,3 +1,4 @@
+* Make mutant bugs not spawn 0 days from cataclysm ([#82341](https://github.com/CleverRaven/Cataclysm-DDA/pull/82341))
 
 ---
 
@@ -233,5 +234,4 @@
 * Dedupe zone_data constructors ([#82242](https://github.com/CleverRaven/Cataclysm-DDA/pull/82242))
 * [Xedra Evolved] Only werewolves gain werewolf gifts ([#82243](https://github.com/CleverRaven/Cataclysm-DDA/pull/82243))
 * Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
-* Deduplicate armor power usage code. Also tell player when UPS items run out of charge. ([#82241](https://github.com/CleverRaven/Cataclysm-DDA/pull/82241))
 * Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
