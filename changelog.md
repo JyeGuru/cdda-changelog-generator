@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-12-0421 ([10f6ee6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0421))
+
+* [Magiclysm] Only player goblins will try to tame wargs ([#82378](https://github.com/CleverRaven/Cataclysm-DDA/pull/82378))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-12-0101 ([263e9ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0101))
 
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
@@ -191,11 +197,6 @@
 * [Xedra Evolved] Fix werewolf techniques ([#82294](https://github.com/CleverRaven/Cataclysm-DDA/pull/82294))
 * Fix: AIM item menu wouldn't update window position on resize. ([#82264](https://github.com/CleverRaven/Cataclysm-DDA/pull/82264))
 * Aftershock: Sarting survival kit for sale in port Augustmoon ([#82279](https://github.com/CleverRaven/Cataclysm-DDA/pull/82279))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-07-2055 ([380954e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-07-2055))
-
 * [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
 * Silence warning about data loss when converting to specified type ([#82290](https://github.com/CleverRaven/Cataclysm-DDA/pull/82290))
 * [Xedra Evolved] More werewolf powers + rework advancement system ([#82219](https://github.com/CleverRaven/Cataclysm-DDA/pull/82219))
@@ -235,4 +236,3 @@
 * [MoM] Fix Golden Radiance ([#82227](https://github.com/CleverRaven/Cataclysm-DDA/pull/82227))
 * Remove help text about disabling skill practice ([#82228](https://github.com/CleverRaven/Cataclysm-DDA/pull/82228))
 * Fix drying with hot air ([#82229](https://github.com/CleverRaven/Cataclysm-DDA/pull/82229))
-* [MoM] Fix Golden Radiance ([#82218](https://github.com/CleverRaven/Cataclysm-DDA/pull/82218))
