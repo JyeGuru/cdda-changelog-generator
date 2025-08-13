@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-13-1510 ([5aa86ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-1510))
+
 * Migrate seasonal harvested underbrush to t_underbrush_harvested ([#82420](https://github.com/CleverRaven/Cataclysm-DDA/pull/82420))
 
 ---
@@ -187,11 +192,6 @@
 * Add modified motorcycle helmets for rail attachments ([#82350](https://github.com/CleverRaven/Cataclysm-DDA/pull/82350))
 * Fix crash on NPC spawn ([#82353](https://github.com/CleverRaven/Cataclysm-DDA/pull/82353))
 * [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-10-1627 ([950e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-1627))
-
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
 * Introduced Points of Interest ([#82272](https://github.com/CleverRaven/Cataclysm-DDA/pull/82272))
