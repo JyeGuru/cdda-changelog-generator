@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-13-0449 ([d0b8e27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-0449))
+
 * Make existing math "augmented" assignment operators single string ([#82409](https://github.com/CleverRaven/Cataclysm-DDA/pull/82409))
 * Display construction pre_flags ([#82398](https://github.com/CleverRaven/Cataclysm-DDA/pull/82398))
 * Some translation fixes ([#82405](https://github.com/CleverRaven/Cataclysm-DDA/pull/82405))
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-08-10-1627 ([950e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-1627))
 
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-10-1548 ([acaa51c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-10-1548))
-
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
 * Introduced Points of Interest ([#82272](https://github.com/CleverRaven/Cataclysm-DDA/pull/82272))
 * Fixes Alpha Member of the Group to work as intended ([#82308](https://github.com/CleverRaven/Cataclysm-DDA/pull/82308))
