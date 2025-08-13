@@ -1,3 +1,16 @@
+* Migrate seasonal harvested underbrush to t_underbrush_harvested ([#82420](https://github.com/CleverRaven/Cataclysm-DDA/pull/82420))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-13-1340 ([b307707](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-1340))
+
+* Actually respect default world compression setting ([#82425](https://github.com/CleverRaven/Cataclysm-DDA/pull/82425))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-13-1318 ([4d1e009](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-13-1318))
+
+* zzip.exe: a tool for manipulating zzip files. ([#82427](https://github.com/CleverRaven/Cataclysm-DDA/pull/82427))
 
 ---
 
@@ -164,22 +177,11 @@
 #### Cataclysm-DDA experimental build 2025-08-10-2007 ([f3f2374](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-2007))
 
 * Place soldering supplies in houses ([#82338](https://github.com/CleverRaven/Cataclysm-DDA/pull/82338))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-10-1904 ([fc75eb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-10-1904))
-
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82334](https://github.com/CleverRaven/Cataclysm-DDA/pull/82334))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
-* Dedupe EOC activation checks and messages ([#82260](https://github.com/CleverRaven/Cataclysm-DDA/pull/82260))
 * Fix mentions of evac 'center' starts ([#82330](https://github.com/CleverRaven/Cataclysm-DDA/pull/82330))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82339](https://github.com/CleverRaven/Cataclysm-DDA/pull/82339))
 * Remove "pair of" and "pairs of" wording from the leg armor and gloves ([#82344](https://github.com/CleverRaven/Cataclysm-DDA/pull/82344))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-10-1734 ([b12f6f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-10-1734))
-
 * Fix inserts in heavy ballistic vest being uncomfy ([#82345](https://github.com/CleverRaven/Cataclysm-DDA/pull/82345))
 * fix wearable cameras ([#82348](https://github.com/CleverRaven/Cataclysm-DDA/pull/82348))
 * Add modified motorcycle helmets for rail attachments ([#82350](https://github.com/CleverRaven/Cataclysm-DDA/pull/82350))
@@ -225,7 +227,5 @@
 * Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
 * Retirement hoards are sparser ([#82271](https://github.com/CleverRaven/Cataclysm-DDA/pull/82271))
 * Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
-* Dedupe check for tile passable down in creature flood fill. ([#82259](https://github.com/CleverRaven/Cataclysm-DDA/pull/82259))
-* BBTI for 9mm ([#82262](https://github.com/CleverRaven/Cataclysm-DDA/pull/82262))
 * .22 lr bbti ([#82263](https://github.com/CleverRaven/Cataclysm-DDA/pull/82263))
 * Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))
