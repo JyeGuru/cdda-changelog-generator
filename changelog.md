@@ -1,3 +1,4 @@
+* Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 
 ---
 

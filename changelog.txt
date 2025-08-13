@@ -1,3 +1,4 @@
+* Instant gravy recipe is autolearned (#82399)
 
 Cataclysm-DDA 0.I release candidate 2025-08-13-0043 (72618e6)
 * Fix segfault when toggling RAS with an inappropriate item (#82403)
