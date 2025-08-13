@@ -1,3 +1,4 @@
+* Make existing math "augmented" assignment operators single string ([#82409](https://github.com/CleverRaven/Cataclysm-DDA/pull/82409))
 * Display construction pre_flags ([#82398](https://github.com/CleverRaven/Cataclysm-DDA/pull/82398))
 * Some translation fixes ([#82405](https://github.com/CleverRaven/Cataclysm-DDA/pull/82405))
 * Buff Comfortably Fluid mutation ([#82411](https://github.com/CleverRaven/Cataclysm-DDA/pull/82411))
@@ -165,12 +166,6 @@
 
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82334](https://github.com/CleverRaven/Cataclysm-DDA/pull/82334))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-10-1753 ([9efd9c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-1753))
-
-* Dedupe schizophrenic symptom checks ([#82256](https://github.com/CleverRaven/Cataclysm-DDA/pull/82256))
 * Dedupe EOC activation checks and messages ([#82260](https://github.com/CleverRaven/Cataclysm-DDA/pull/82260))
 * Fix mentions of evac 'center' starts ([#82330](https://github.com/CleverRaven/Cataclysm-DDA/pull/82330))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82339](https://github.com/CleverRaven/Cataclysm-DDA/pull/82339))
