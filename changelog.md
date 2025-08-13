@@ -1,3 +1,12 @@
+* Display construction pre_flags ([#82398](https://github.com/CleverRaven/Cataclysm-DDA/pull/82398))
+* Some translation fixes ([#82405](https://github.com/CleverRaven/Cataclysm-DDA/pull/82405))
+* Buff Comfortably Fluid mutation ([#82411](https://github.com/CleverRaven/Cataclysm-DDA/pull/82411))
+* [DDotD/XE] Full vampires are immune to zombie bites ([#82416](https://github.com/CleverRaven/Cataclysm-DDA/pull/82416))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-13-0239 ([2268ea1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-0239))
+
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 
 ---
@@ -188,11 +197,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-10-1548 ([acaa51c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-10-1548))
 
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-09-2237 ([8a9cfd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-2237))
-
 * Introduced Points of Interest ([#82272](https://github.com/CleverRaven/Cataclysm-DDA/pull/82272))
 * Fixes Alpha Member of the Group to work as intended ([#82308](https://github.com/CleverRaven/Cataclysm-DDA/pull/82308))
 * Spells can use vitamin as spell energy source now ([#82318](https://github.com/CleverRaven/Cataclysm-DDA/pull/82318))
@@ -204,7 +208,6 @@
 * Create ui_helpers.cpp with first function full_screen_window ([#82277](https://github.com/CleverRaven/Cataclysm-DDA/pull/82277))
 * Dedupe checking and killing hallucinations ([#82312](https://github.com/CleverRaven/Cataclysm-DDA/pull/82312))
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
-* Glue audit ([#82253](https://github.com/CleverRaven/Cataclysm-DDA/pull/82253))
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
 * [Aftershock] Power grid moves with the ship without deletion ([#82285](https://github.com/CleverRaven/Cataclysm-DDA/pull/82285))
 * Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
@@ -222,15 +225,12 @@
 * Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
 * Restore butchery with negative quality ([#82281](https://github.com/CleverRaven/Cataclysm-DDA/pull/82281))
 * "Plain Mead" name change to just "Mead" ([#82274](https://github.com/CleverRaven/Cataclysm-DDA/pull/82274))
-* Restore butchery with negative quality ([#82251](https://github.com/CleverRaven/Cataclysm-DDA/pull/82251))
 * refactor to `inc_clamp_wrap` ([#82267](https://github.com/CleverRaven/Cataclysm-DDA/pull/82267))
 * Make a distribution for seabags ([#82273](https://github.com/CleverRaven/Cataclysm-DDA/pull/82273))
 * Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
 * Retirement hoards are sparser ([#82271](https://github.com/CleverRaven/Cataclysm-DDA/pull/82271))
 * Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
-* Silence (but do not fix) 'tried to set non-permanent morale' test failure ([#82254](https://github.com/CleverRaven/Cataclysm-DDA/pull/82254))
 * Dedupe check for tile passable down in creature flood fill. ([#82259](https://github.com/CleverRaven/Cataclysm-DDA/pull/82259))
 * BBTI for 9mm ([#82262](https://github.com/CleverRaven/Cataclysm-DDA/pull/82262))
 * .22 lr bbti ([#82263](https://github.com/CleverRaven/Cataclysm-DDA/pull/82263))
 * Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))
-* Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
