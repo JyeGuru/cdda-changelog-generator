@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-13-0043 ([72618e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-13-0043))
+
+* Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-13-0042 ([424a104](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-0042))
+
+* Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-12-2233 ([d9b16bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-2233))
 
 * debug menu: turn spawn named npc into a list ([#82359](https://github.com/CleverRaven/Cataclysm-DDA/pull/82359))
@@ -185,22 +197,11 @@
 * Spells can use vitamin as spell energy source now ([#82318](https://github.com/CleverRaven/Cataclysm-DDA/pull/82318))
 * Fix crash on NPC spawn ([#82332](https://github.com/CleverRaven/Cataclysm-DDA/pull/82332))
 * Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-09-2153 ([fe1eafe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-2153))
-
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-09-1520 ([66b5e33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-09-1520))
-
 * Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82269](https://github.com/CleverRaven/Cataclysm-DDA/pull/82269))
 * Create ui_helpers.cpp with first function full_screen_window ([#82277](https://github.com/CleverRaven/Cataclysm-DDA/pull/82277))
 * Dedupe checking and killing hallucinations ([#82312](https://github.com/CleverRaven/Cataclysm-DDA/pull/82312))
-* Deduplicate computer_session code ([#82246](https://github.com/CleverRaven/Cataclysm-DDA/pull/82246))
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
 * Glue audit ([#82253](https://github.com/CleverRaven/Cataclysm-DDA/pull/82253))
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
@@ -223,7 +224,6 @@
 * Restore butchery with negative quality ([#82251](https://github.com/CleverRaven/Cataclysm-DDA/pull/82251))
 * refactor to `inc_clamp_wrap` ([#82267](https://github.com/CleverRaven/Cataclysm-DDA/pull/82267))
 * Make a distribution for seabags ([#82273](https://github.com/CleverRaven/Cataclysm-DDA/pull/82273))
-* Fix CTRL+U not clearing text ([#82244](https://github.com/CleverRaven/Cataclysm-DDA/pull/82244))
 * Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
 * Retirement hoards are sparser ([#82271](https://github.com/CleverRaven/Cataclysm-DDA/pull/82271))
 * Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
@@ -233,4 +233,3 @@
 * .22 lr bbti ([#82263](https://github.com/CleverRaven/Cataclysm-DDA/pull/82263))
 * Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))
 * Resolve errors from loading 0.H options on 0.I ([#82249](https://github.com/CleverRaven/Cataclysm-DDA/pull/82249))
-* Make dairy farm use domestic palette ([#82247](https://github.com/CleverRaven/Cataclysm-DDA/pull/82247))
