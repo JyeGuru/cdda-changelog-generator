@@ -1,3 +1,5 @@
+* Energy source works if defined at magic_type level ([#82408](https://github.com/CleverRaven/Cataclysm-DDA/pull/82408))
+* Scavenger's anvil recipe tweak ([#82414](https://github.com/CleverRaven/Cataclysm-DDA/pull/82414))
 
 ---
 
@@ -219,7 +221,6 @@
 * Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
 * XL/XS pipebomb bandolier ([#82303](https://github.com/CleverRaven/Cataclysm-DDA/pull/82303))
 * [Xedra Evolved] Fix werewolf techniques ([#82294](https://github.com/CleverRaven/Cataclysm-DDA/pull/82294))
-* Fix: AIM item menu wouldn't update window position on resize. ([#82264](https://github.com/CleverRaven/Cataclysm-DDA/pull/82264))
 * Aftershock: Sarting survival kit for sale in port Augustmoon ([#82279](https://github.com/CleverRaven/Cataclysm-DDA/pull/82279))
 * [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
 * Silence warning about data loss when converting to specified type ([#82290](https://github.com/CleverRaven/Cataclysm-DDA/pull/82290))
@@ -232,5 +233,4 @@
 * Make a distribution for seabags ([#82273](https://github.com/CleverRaven/Cataclysm-DDA/pull/82273))
 * Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
 * Retirement hoards are sparser ([#82271](https://github.com/CleverRaven/Cataclysm-DDA/pull/82271))
-* Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
 * Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))
