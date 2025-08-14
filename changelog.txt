@@ -86,8 +86,6 @@ Cataclysm-DDA experimental build 2025-08-12-0101 (263e9ca)
 
 Cataclysm-DDA experimental build 2025-08-11-2349 (1669127)
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items (#82385)
-
-Cataclysm-DDA 0.I release candidate 2025-08-11-1516 (4898b34)
 * Minor error fixes (#82372)
 
 Cataclysm-DDA experimental build 2025-08-11-1514 (c3a9382)
