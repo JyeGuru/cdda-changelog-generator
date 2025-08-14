@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-14-0706 ([fa79a32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-0706))
+
 * rename generic mutagen and mutagen vitamin ([#82313](https://github.com/CleverRaven/Cataclysm-DDA/pull/82313))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-11-0618 ([1a83869](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-11-0618))
 
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-11-0318 ([2df4c8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-11-0318))
-
 * fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
 * Dedupe character/creature process_turn ([#82311](https://github.com/CleverRaven/Cataclysm-DDA/pull/82311))
 * Magiclysm: Silver Infuser uses gem bracelets ([#82304](https://github.com/CleverRaven/Cataclysm-DDA/pull/82304))
