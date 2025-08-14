@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-14-1249 ([1d4235f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-1249))
+
+* Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-14-0706 ([fa79a32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-0706))
 
 * rename generic mutagen and mutagen vitamin ([#82313](https://github.com/CleverRaven/Cataclysm-DDA/pull/82313))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-08-11-0637 ([bc7021c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-0637))
 
 * Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-11-0618 ([1a83869](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-11-0618))
-
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
 * fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
 * Dedupe character/creature process_turn ([#82311](https://github.com/CleverRaven/Cataclysm-DDA/pull/82311))
@@ -233,4 +234,3 @@
 * Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
 * Restore butchery with negative quality ([#82281](https://github.com/CleverRaven/Cataclysm-DDA/pull/82281))
 * "Plain Mead" name change to just "Mead" ([#82274](https://github.com/CleverRaven/Cataclysm-DDA/pull/82274))
-* Make a distribution for seabags ([#82273](https://github.com/CleverRaven/Cataclysm-DDA/pull/82273))
