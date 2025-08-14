@@ -1,3 +1,14 @@
+* rename generic mutagen and mutagen vitamin ([#82313](https://github.com/CleverRaven/Cataclysm-DDA/pull/82313))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-14-0506 ([cbf6d75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-14-0506))
+
+* [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
+* Dedupe queuing multiple EOCs ([#82314](https://github.com/CleverRaven/Cataclysm-DDA/pull/82314))
+* Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
+* Improve vector reservations ([#82349](https://github.com/CleverRaven/Cataclysm-DDA/pull/82349))
+* Adds bar stock for machining ([#82322](https://github.com/CleverRaven/Cataclysm-DDA/pull/82322))
 * Energy source works if defined at magic_type level ([#82408](https://github.com/CleverRaven/Cataclysm-DDA/pull/82408))
 * Scavenger's anvil recipe tweak ([#82414](https://github.com/CleverRaven/Cataclysm-DDA/pull/82414))
 
@@ -184,11 +195,6 @@
 
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-10-2007 ([f3f2374](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-2007))
-
 * Place soldering supplies in houses ([#82338](https://github.com/CleverRaven/Cataclysm-DDA/pull/82338))
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82334](https://github.com/CleverRaven/Cataclysm-DDA/pull/82334))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
@@ -202,14 +208,12 @@
 * [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
-* Introduced Points of Interest ([#82272](https://github.com/CleverRaven/Cataclysm-DDA/pull/82272))
 * Fixes Alpha Member of the Group to work as intended ([#82308](https://github.com/CleverRaven/Cataclysm-DDA/pull/82308))
 * Spells can use vitamin as spell energy source now ([#82318](https://github.com/CleverRaven/Cataclysm-DDA/pull/82318))
 * Fix crash on NPC spawn ([#82332](https://github.com/CleverRaven/Cataclysm-DDA/pull/82332))
 * Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
 * Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
-* Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82269](https://github.com/CleverRaven/Cataclysm-DDA/pull/82269))
 * Create ui_helpers.cpp with first function full_screen_window ([#82277](https://github.com/CleverRaven/Cataclysm-DDA/pull/82277))
 * Dedupe checking and killing hallucinations ([#82312](https://github.com/CleverRaven/Cataclysm-DDA/pull/82312))
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
@@ -229,8 +233,4 @@
 * Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
 * Restore butchery with negative quality ([#82281](https://github.com/CleverRaven/Cataclysm-DDA/pull/82281))
 * "Plain Mead" name change to just "Mead" ([#82274](https://github.com/CleverRaven/Cataclysm-DDA/pull/82274))
-* refactor to `inc_clamp_wrap` ([#82267](https://github.com/CleverRaven/Cataclysm-DDA/pull/82267))
 * Make a distribution for seabags ([#82273](https://github.com/CleverRaven/Cataclysm-DDA/pull/82273))
-* Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
-* Retirement hoards are sparser ([#82271](https://github.com/CleverRaven/Cataclysm-DDA/pull/82271))
-* Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))
