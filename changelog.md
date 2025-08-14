@@ -10,6 +10,11 @@
 * Improve vector reservations ([#82349](https://github.com/CleverRaven/Cataclysm-DDA/pull/82349))
 * Adds bar stock for machining ([#82322](https://github.com/CleverRaven/Cataclysm-DDA/pull/82322))
 * Energy source works if defined at magic_type level ([#82408](https://github.com/CleverRaven/Cataclysm-DDA/pull/82408))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-14-0610 ([01a6c93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-0610))
+
 * Scavenger's anvil recipe tweak ([#82414](https://github.com/CleverRaven/Cataclysm-DDA/pull/82414))
 
 ---
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-08-11-0144 ([b107a90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-0144))
 
 * Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-10-2159 ([0a8ce52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-10-2159))
-
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
 * Place soldering supplies in houses ([#82338](https://github.com/CleverRaven/Cataclysm-DDA/pull/82338))

@@ -7,6 +7,8 @@ Cataclysm-DDA 0.I release candidate 2025-08-14-0506 (cbf6d75)
 * Improve vector reservations (#82349)
 * Adds bar stock for machining (#82322)
 * Energy source works if defined at magic_type level (#82408)
+
+Cataclysm-DDA experimental build 2025-08-14-0610 (01a6c93)
 * Scavenger's anvil recipe tweak (#82414)
 
 Cataclysm-DDA 0.I release candidate 2025-08-14-0215 (8852127)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-08-11-0244 (fb12abb)
 
 Cataclysm-DDA experimental build 2025-08-11-0144 (b107a90)
 * Fix weather (#82369)
-
-Cataclysm-DDA experimental build 2025-08-10-2159 (0a8ce52)
 * Fix IWYU (#82370)
 * Add doc re c++ code comments for translator context (#82362)
 * Place soldering supplies in houses (#82338)
