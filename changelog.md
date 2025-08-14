@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-14-0215 ([8852127](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-14-0215))
+
+* Actually respect default world compression setting ([#82429](https://github.com/CleverRaven/Cataclysm-DDA/pull/82429))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-13-1510 ([5aa86ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-1510))
 
 * Migrate seasonal harvested underbrush to t_underbrush_harvested ([#82420](https://github.com/CleverRaven/Cataclysm-DDA/pull/82420))
@@ -227,5 +233,4 @@
 * Add lathe functionality and industrial baseball bat production ([#82270](https://github.com/CleverRaven/Cataclysm-DDA/pull/82270))
 * Retirement hoards are sparser ([#82271](https://github.com/CleverRaven/Cataclysm-DDA/pull/82271))
 * Update some leather armor weights ([#82265](https://github.com/CleverRaven/Cataclysm-DDA/pull/82265))
-* .22 lr bbti ([#82263](https://github.com/CleverRaven/Cataclysm-DDA/pull/82263))
 * Remove bonus damage of 22 LR ([#82266](https://github.com/CleverRaven/Cataclysm-DDA/pull/82266))

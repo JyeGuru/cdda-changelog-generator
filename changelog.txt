@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2025-08-14-0215 (8852127)
+* Actually respect default world compression setting (#82429)
+
 Cataclysm-DDA experimental build 2025-08-13-1510 (5aa86ec)
 * Migrate seasonal harvested underbrush to t_underbrush_harvested (#82420)
 
@@ -143,5 +146,4 @@ Cataclysm-DDA experimental build 2025-08-10-2007 (f3f2374)
 * Add lathe functionality and industrial baseball bat production (#82270)
 * Retirement hoards are sparser (#82271)
 * Update some leather armor weights (#82265)
-* .22 lr bbti (#82263)
 * Remove bonus damage of 22 LR (#82266)
