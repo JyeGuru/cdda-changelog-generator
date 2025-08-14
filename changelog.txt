@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-14-1608 (9165634)
+* [XE/DDotD] Dhampirs and pre-undead vampires are resistant to the zombie infection (#82432)
+
 Cataclysm-DDA experimental build 2025-08-14-1249 (1d4235f)
 * Suppress martial arts messages when wielding item for crafting or dissassembly (#82431)
 
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-08-11-0637 (bc7021c)
 
 Cataclysm-DDA experimental build 2025-08-11-0244 (fb12abb)
 * Redefine glue itemgroups (#82357)
-
-Cataclysm-DDA experimental build 2025-08-11-0144 (b107a90)
 * Fix weather (#82369)
 * Fix IWYU (#82370)
 * Add doc re c++ code comments for translator context (#82362)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-08-11-0144 (b107a90)
 * shouldfail test for liquid projectile effect (#82276)
 * Small generic factory fixes + script to load game with all mods (#82283)
 * Restore butchery with negative quality (#82281)
-* "Plain Mead" name change to just "Mead" (#82274)
