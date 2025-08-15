@@ -1,3 +1,4 @@
+* Dedupe flood fill 4 way ([#82335](https://github.com/CleverRaven/Cataclysm-DDA/pull/82335))
 
 ---
 
@@ -229,7 +230,6 @@
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
 * Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
-* Remove bonus damage for 9 mm ([#82291](https://github.com/CleverRaven/Cataclysm-DDA/pull/82291))
 * Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
 * XL/XS pipebomb bandolier ([#82303](https://github.com/CleverRaven/Cataclysm-DDA/pull/82303))
 * [Xedra Evolved] Fix werewolf techniques ([#82294](https://github.com/CleverRaven/Cataclysm-DDA/pull/82294))
