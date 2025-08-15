@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-15-0211 ([6106725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0211))
+
+* [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. ([#82444](https://github.com/CleverRaven/Cataclysm-DDA/pull/82444))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-14-1608 ([9165634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-1608))
 
 * [XE/DDotD] Dhampirs and pre-undead vampires are resistant to the zombie infection ([#82432](https://github.com/CleverRaven/Cataclysm-DDA/pull/82432))
@@ -183,11 +189,6 @@
 * Magiclysm: Silver Infuser uses gem bracelets ([#82304](https://github.com/CleverRaven/Cataclysm-DDA/pull/82304))
 * Vitamin spell support custom color, also support going lower than 0 ([#82358](https://github.com/CleverRaven/Cataclysm-DDA/pull/82358))
 * Dedupe flexbuffer root source path error ([#82336](https://github.com/CleverRaven/Cataclysm-DDA/pull/82336))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-11-0244 ([fb12abb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-0244))
-
 * Redefine glue itemgroups ([#82357](https://github.com/CleverRaven/Cataclysm-DDA/pull/82357))
 * Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
@@ -225,6 +226,5 @@
 * Aftershock: Sarting survival kit for sale in port Augustmoon ([#82279](https://github.com/CleverRaven/Cataclysm-DDA/pull/82279))
 * [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
 * Silence warning about data loss when converting to specified type ([#82290](https://github.com/CleverRaven/Cataclysm-DDA/pull/82290))
-* shouldfail test for liquid projectile effect ([#82276](https://github.com/CleverRaven/Cataclysm-DDA/pull/82276))
 * Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
 * Restore butchery with negative quality ([#82281](https://github.com/CleverRaven/Cataclysm-DDA/pull/82281))
