@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-15-1519 ([14599f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-1519))
+
+* Dedupe pyromania checks and satisfaction ([#82306](https://github.com/CleverRaven/Cataclysm-DDA/pull/82306))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-15-0524 ([b5c9c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0524))
 
 * Dedupe flood fill 4 way ([#82335](https://github.com/CleverRaven/Cataclysm-DDA/pull/82335))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-08-12-0101 ([263e9ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0101))
 
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-11-2349 ([1669127](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-2349))
-
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items ([#82385](https://github.com/CleverRaven/Cataclysm-DDA/pull/82385))
 * Minor error fixes ([#82372](https://github.com/CleverRaven/Cataclysm-DDA/pull/82372))
 * Weekly Changelog 2025-08-04 to 2025-08-11 ([#82380](https://github.com/CleverRaven/Cataclysm-DDA/pull/82380))
@@ -233,4 +234,3 @@
 * Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
 * XL/XS pipebomb bandolier ([#82303](https://github.com/CleverRaven/Cataclysm-DDA/pull/82303))
 * [Xedra Evolved] Fix werewolf techniques ([#82294](https://github.com/CleverRaven/Cataclysm-DDA/pull/82294))
-* [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
