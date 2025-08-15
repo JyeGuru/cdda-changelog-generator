@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-15-0524 (b5c9c6a)
 * Dedupe flood fill 4 way (#82335)
 
 Cataclysm-DDA experimental build 2025-08-15-0410 (4df9531)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2025-08-12-0101 (263e9ca)
 Cataclysm-DDA experimental build 2025-08-11-2349 (1669127)
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items (#82385)
 * Minor error fixes (#82372)
-
-Cataclysm-DDA experimental build 2025-08-11-1514 (c3a9382)
 * Weekly Changelog 2025-08-04 to 2025-08-11 (#82380)
 * Check there's nothing in the way before constructing training dummy/archery box (#82373)
 * Fix tutorial trap messages popping more than once and showing first message always (#82366)

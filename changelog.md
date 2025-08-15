@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-15-0524 ([b5c9c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0524))
+
 * Dedupe flood fill 4 way ([#82335](https://github.com/CleverRaven/Cataclysm-DDA/pull/82335))
 
 ---
@@ -190,11 +195,6 @@
 
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items ([#82385](https://github.com/CleverRaven/Cataclysm-DDA/pull/82385))
 * Minor error fixes ([#82372](https://github.com/CleverRaven/Cataclysm-DDA/pull/82372))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-11-1514 ([c3a9382](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-11-1514))
-
 * Weekly Changelog 2025-08-04 to 2025-08-11 ([#82380](https://github.com/CleverRaven/Cataclysm-DDA/pull/82380))
 * Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
