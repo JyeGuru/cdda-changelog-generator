@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-15-0410 (4df9531)
 * Increase Kevlar's fire resistance (#82426)
 * Post-its/flyers names in the Lore tab (#82424)
 * Remove furniture spawning in walls in house_w_1 (#82438)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2025-08-11-2349 (1669127)
 
 Cataclysm-DDA experimental build 2025-08-11-1514 (c3a9382)
 * Weekly Changelog 2025-08-04 to 2025-08-11 (#82380)
-
-Cataclysm-DDA experimental build 2025-08-11-0637 (bc7021c)
 * Check there's nothing in the way before constructing training dummy/archery box (#82373)
 * Fix tutorial trap messages popping more than once and showing first message always (#82366)
 * fix wearable cameras (#82365)
