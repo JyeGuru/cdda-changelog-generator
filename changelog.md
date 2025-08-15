@@ -1,3 +1,16 @@
+* Increase Kevlar's fire resistance ([#82426](https://github.com/CleverRaven/Cataclysm-DDA/pull/82426))
+* Post-its/flyers names in the Lore tab ([#82424](https://github.com/CleverRaven/Cataclysm-DDA/pull/82424))
+* Remove furniture spawning in walls in house_w_1 ([#82438](https://github.com/CleverRaven/Cataclysm-DDA/pull/82438))
+* Allow professions with multiple achievement requirements ([#82443](https://github.com/CleverRaven/Cataclysm-DDA/pull/82443))
+* [Xedra Evolved] vampire `magic_type` work ([#82417](https://github.com/CleverRaven/Cataclysm-DDA/pull/82417))
+* [DDotD] Add drag down attack when you're grabbed and surrounded ([#82434](https://github.com/CleverRaven/Cataclysm-DDA/pull/82434))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-15-0304 ([a382e1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0304))
+
+* Multi mod flag documentation ([#82447](https://github.com/CleverRaven/Cataclysm-DDA/pull/82447))
+* Place broken vehicles and trash on highways, correct highway vision level ([#82439](https://github.com/CleverRaven/Cataclysm-DDA/pull/82439))
 
 ---
 
@@ -212,19 +225,12 @@
 * Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
 * Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
-* Create ui_helpers.cpp with first function full_screen_window ([#82277](https://github.com/CleverRaven/Cataclysm-DDA/pull/82277))
 * Dedupe checking and killing hallucinations ([#82312](https://github.com/CleverRaven/Cataclysm-DDA/pull/82312))
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
-* [Aftershock] Power grid moves with the ship without deletion ([#82285](https://github.com/CleverRaven/Cataclysm-DDA/pull/82285))
 * Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
-* Revert "Stop using pre-apoc price as a fallback for postapoc price" ([#82284](https://github.com/CleverRaven/Cataclysm-DDA/pull/82284))
 * Remove bonus damage for 9 mm ([#82291](https://github.com/CleverRaven/Cataclysm-DDA/pull/82291))
 * Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
 * XL/XS pipebomb bandolier ([#82303](https://github.com/CleverRaven/Cataclysm-DDA/pull/82303))
 * [Xedra Evolved] Fix werewolf techniques ([#82294](https://github.com/CleverRaven/Cataclysm-DDA/pull/82294))
-* Aftershock: Sarting survival kit for sale in port Augustmoon ([#82279](https://github.com/CleverRaven/Cataclysm-DDA/pull/82279))
 * [Xedra Evolved] Werewolves get mana back on Nether kills ([#82292](https://github.com/CleverRaven/Cataclysm-DDA/pull/82292))
-* Silence warning about data loss when converting to specified type ([#82290](https://github.com/CleverRaven/Cataclysm-DDA/pull/82290))
-* Small generic factory fixes + script to load game with all mods ([#82283](https://github.com/CleverRaven/Cataclysm-DDA/pull/82283))
-* Restore butchery with negative quality ([#82281](https://github.com/CleverRaven/Cataclysm-DDA/pull/82281))
