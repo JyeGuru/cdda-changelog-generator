@@ -4,6 +4,11 @@
 #### Cataclysm-DDA experimental build 2025-08-16-0534 ([221d897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-16-0534))
 
 * [DDotD] Increase incidence of meadows in DDtoD ([#82448](https://github.com/CleverRaven/Cataclysm-DDA/pull/82448))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-16-0629 ([9f7f039](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-16-0629))
+
 * Fix zones disabling on save/load ([#82451](https://github.com/CleverRaven/Cataclysm-DDA/pull/82451))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-08-12-0523 ([6b8ba64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0523))
 
 * LIXA Achievement name swap ([#82384](https://github.com/CleverRaven/Cataclysm-DDA/pull/82384))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-12-0421 ([10f6ee6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0421))
-
 * [Magiclysm] Only player goblins will try to tame wargs ([#82378](https://github.com/CleverRaven/Cataclysm-DDA/pull/82378))
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items ([#82385](https://github.com/CleverRaven/Cataclysm-DDA/pull/82385))

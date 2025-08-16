@@ -1,6 +1,8 @@
 
 Cataclysm-DDA experimental build 2025-08-16-0534 (221d897)
 * [DDotD] Increase incidence of meadows in DDtoD (#82448)
+
+Cataclysm-DDA 0.I release candidate 2025-08-16-0629 (9f7f039)
 * Fix zones disabling on save/load (#82451)
 
 Cataclysm-DDA 0.I release candidate 2025-08-16-0514 (f82c8d8)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-08-12-1009 (c0d3a81)
 
 Cataclysm-DDA experimental build 2025-08-12-0523 (6b8ba64)
 * LIXA Achievement name swap (#82384)
-
-Cataclysm-DDA experimental build 2025-08-12-0421 (10f6ee6)
 * [Magiclysm] Only player goblins will try to tame wargs (#82378)
 * move bagpipes to music recipe (#82394)
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items (#82385)
