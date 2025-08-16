@@ -1,3 +1,11 @@
+* [DDotD] Increase incidence of meadows in DDtoD ([#82448](https://github.com/CleverRaven/Cataclysm-DDA/pull/82448))
+* Fix zones disabling on save/load ([#82451](https://github.com/CleverRaven/Cataclysm-DDA/pull/82451))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-16-0514 ([f82c8d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-16-0514))
+
+* LMOE mission: unlock door properly ([#82452](https://github.com/CleverRaven/Cataclysm-DDA/pull/82452))
 
 ---
 
@@ -157,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2025-08-12-1140 ([cd59a1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-1140))
 
 * Minor enchantment cache refactor ([#82371](https://github.com/CleverRaven/Cataclysm-DDA/pull/82371))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-12-1122 ([9358c83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-12-1122))
-
 * Basecamp fixes/refactor and allow tags/snippets in camp labels ([#82376](https://github.com/CleverRaven/Cataclysm-DDA/pull/82376))
 * [MoM] Add Psychometry clairsentient power ([#82389](https://github.com/CleverRaven/Cataclysm-DDA/pull/82389))
 * Fix segfault when toggling RAS with an inappropriate item ([#82388](https://github.com/CleverRaven/Cataclysm-DDA/pull/82388))
@@ -232,5 +235,4 @@
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
 * Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
-* Fix deserialize/serialize of power level ([#82295](https://github.com/CleverRaven/Cataclysm-DDA/pull/82295))
 * XL/XS pipebomb bandolier ([#82303](https://github.com/CleverRaven/Cataclysm-DDA/pull/82303))
