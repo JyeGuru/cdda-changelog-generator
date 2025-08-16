@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-16-0138 (76dab02)
+* Dedupe is_gzipped (#82454)
+
 Cataclysm-DDA experimental build 2025-08-15-1519 (14599f0)
 * Dedupe pyromania checks and satisfaction (#82306)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-12-1122 (9358c83)
 * Check there's nothing in the way before constructing training dummy/archery box (#82382)
 * [Xedra Evolved] Switch vampires powers over to using `human_blood_vitamin` (#82397)
 * Generic factory: more reader correctness (#82363)
-
-Cataclysm-DDA 0.I release candidate 2025-08-12-1010 (f03af97)
 * [Magiclysm] Only player goblins will try to tame wargs (#82401)
 
 Cataclysm-DDA experimental build 2025-08-12-1009 (c0d3a81)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-08-12-0101 (263e9ca)
 * Add type alias for event field (#82315)
 * Fix deserialize/serialize of power level (#82295)
 * XL/XS pipebomb bandolier (#82303)
-* [Xedra Evolved] Fix werewolf techniques (#82294)
