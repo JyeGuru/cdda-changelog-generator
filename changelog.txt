@@ -1,3 +1,5 @@
+* Redraw "Saving game" message twice (#82468)
+* Don't try relative/proportion if no copy-from (#82446)
 
 Cataclysm-DDA experimental build 2025-08-17-0342 (6f7480f)
 * Scavenger anvil desc fix (#82473)
@@ -120,7 +122,6 @@ Cataclysm-DDA experimental build 2025-08-12-1140 (cd59a1e)
 * Fix tutorial trap messages popping more than once and showing first message always (#82366)
 * fix wearable cameras (#82365)
 * Dedupe character/creature process_turn (#82311)
-* Magiclysm: Silver Infuser uses gem bracelets (#82304)
 * Vitamin spell support custom color, also support going lower than 0 (#82358)
 * Dedupe flexbuffer root source path error (#82336)
 * Redefine glue itemgroups (#82357)

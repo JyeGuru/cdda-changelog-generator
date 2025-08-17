@@ -1,3 +1,5 @@
+* Redraw "Saving game" message twice ([#82468](https://github.com/CleverRaven/Cataclysm-DDA/pull/82468))
+* Don't try relative/proportion if no copy-from ([#82446](https://github.com/CleverRaven/Cataclysm-DDA/pull/82446))
 
 ---
 
@@ -207,7 +209,6 @@
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
 * fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
 * Dedupe character/creature process_turn ([#82311](https://github.com/CleverRaven/Cataclysm-DDA/pull/82311))
-* Magiclysm: Silver Infuser uses gem bracelets ([#82304](https://github.com/CleverRaven/Cataclysm-DDA/pull/82304))
 * Vitamin spell support custom color, also support going lower than 0 ([#82358](https://github.com/CleverRaven/Cataclysm-DDA/pull/82358))
 * Dedupe flexbuffer root source path error ([#82336](https://github.com/CleverRaven/Cataclysm-DDA/pull/82336))
 * Redefine glue itemgroups ([#82357](https://github.com/CleverRaven/Cataclysm-DDA/pull/82357))
