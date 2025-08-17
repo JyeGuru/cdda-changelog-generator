@@ -1,3 +1,6 @@
+* Remove dead draw below code ([#82463](https://github.com/CleverRaven/Cataclysm-DDA/pull/82463))
+* Finish removal of "pair of" and "pairs of" wording from all of the clothing and items ([#82469](https://github.com/CleverRaven/Cataclysm-DDA/pull/82469))
+* [Xedra Evolved] Distribute new flags to Paraclesian forms ([#82476](https://github.com/CleverRaven/Cataclysm-DDA/pull/82476))
 * [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
 * LIXA Polish ([#82415](https://github.com/CleverRaven/Cataclysm-DDA/pull/82415))
 
@@ -94,16 +97,9 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-08-14-0706 ([fa79a32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-0706))
-
-* rename generic mutagen and mutagen vitamin ([#82313](https://github.com/CleverRaven/Cataclysm-DDA/pull/82313))
-
----
-
 #### Cataclysm-DDA 0.I release candidate 2025-08-14-0506 ([cbf6d75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-14-0506))
 
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
-* Dedupe queuing multiple EOCs ([#82314](https://github.com/CleverRaven/Cataclysm-DDA/pull/82314))
 * Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
 * Improve vector reservations ([#82349](https://github.com/CleverRaven/Cataclysm-DDA/pull/82349))
 * Adds bar stock for machining ([#82322](https://github.com/CleverRaven/Cataclysm-DDA/pull/82322))
@@ -229,7 +225,6 @@
 * Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
 * Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
-* Dedupe checking and killing hallucinations ([#82312](https://github.com/CleverRaven/Cataclysm-DDA/pull/82312))
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
 * Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
