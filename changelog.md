@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-17-0008 ([8a8be6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-0008))
+
+* Backrooms: remove mention of world settings from modinfo ([#82471](https://github.com/CleverRaven/Cataclysm-DDA/pull/82471))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-16-0534 ([221d897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-16-0534))
 
 * [DDotD] Increase incidence of meadows in DDtoD ([#82448](https://github.com/CleverRaven/Cataclysm-DDA/pull/82448))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-08-12-1009 ([c0d3a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-1009))
 
 * fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-12-0523 ([6b8ba64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-0523))
-
 * LIXA Achievement name swap ([#82384](https://github.com/CleverRaven/Cataclysm-DDA/pull/82384))
 * [Magiclysm] Only player goblins will try to tame wargs ([#82378](https://github.com/CleverRaven/Cataclysm-DDA/pull/82378))
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
