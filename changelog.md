@@ -1,3 +1,11 @@
+* [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
+* LIXA Polish ([#82415](https://github.com/CleverRaven/Cataclysm-DDA/pull/82415))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-17-1556 ([f3b0e6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1556))
+
+* Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
 
 ---
 
@@ -41,12 +49,6 @@
 #### Cataclysm-DDA experimental build 2025-08-16-0138 ([76dab02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-16-0138))
 
 * Dedupe is_gzipped ([#82454](https://github.com/CleverRaven/Cataclysm-DDA/pull/82454))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-15-1519 ([14599f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-1519))
-
-* Dedupe pyromania checks and satisfaction ([#82306](https://github.com/CleverRaven/Cataclysm-DDA/pull/82306))
 
 ---
 
@@ -182,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-08-12-1955 ([b0a25e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-1955))
 
 * Dedupe monster blocking closing door check and messages ([#82342](https://github.com/CleverRaven/Cataclysm-DDA/pull/82342))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-12-1822 ([30369a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-1822))
-
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82374](https://github.com/CleverRaven/Cataclysm-DDA/pull/82374))
 * Minor enchantment cache refactor ([#82371](https://github.com/CleverRaven/Cataclysm-DDA/pull/82371))
 * Basecamp fixes/refactor and allow tags/snippets in camp labels ([#82376](https://github.com/CleverRaven/Cataclysm-DDA/pull/82376))
@@ -208,7 +205,6 @@
 * Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
 * fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
-* Dedupe character/creature process_turn ([#82311](https://github.com/CleverRaven/Cataclysm-DDA/pull/82311))
 * Vitamin spell support custom color, also support going lower than 0 ([#82358](https://github.com/CleverRaven/Cataclysm-DDA/pull/82358))
 * Dedupe flexbuffer root source path error ([#82336](https://github.com/CleverRaven/Cataclysm-DDA/pull/82336))
 * Redefine glue itemgroups ([#82357](https://github.com/CleverRaven/Cataclysm-DDA/pull/82357))
@@ -228,7 +224,6 @@
 * [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
-* Fixes Alpha Member of the Group to work as intended ([#82308](https://github.com/CleverRaven/Cataclysm-DDA/pull/82308))
 * Spells can use vitamin as spell energy source now ([#82318](https://github.com/CleverRaven/Cataclysm-DDA/pull/82318))
 * Fix crash on NPC spawn ([#82332](https://github.com/CleverRaven/Cataclysm-DDA/pull/82332))
 * Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))

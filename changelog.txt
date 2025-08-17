@@ -1,3 +1,8 @@
+* [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron (#82475)
+* LIXA Polish (#82415)
+
+Cataclysm-DDA experimental build 2025-08-17-1556 (f3b0e6d)
+* Change the default sidebar to be sidebar-mobile on mobile (#82479)
 
 Cataclysm-DDA experimental build 2025-08-17-0457 (c4a5aee)
 * Redraw "Saving game" message twice (#82468)
@@ -20,9 +25,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-16-0514 (f82c8d8)
 
 Cataclysm-DDA experimental build 2025-08-16-0138 (76dab02)
 * Dedupe is_gzipped (#82454)
-
-Cataclysm-DDA experimental build 2025-08-15-1519 (14599f0)
-* Dedupe pyromania checks and satisfaction (#82306)
 
 Cataclysm-DDA experimental build 2025-08-15-0524 (b5c9c6a)
 * Dedupe flood fill 4 way (#82335)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2025-08-12-2109 (9d7de1f)
 
 Cataclysm-DDA experimental build 2025-08-12-1955 (b0a25e4)
 * Dedupe monster blocking closing door check and messages (#82342)
-
-Cataclysm-DDA experimental build 2025-08-12-1822 (30369a9)
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre (#82374)
 * Minor enchantment cache refactor (#82371)
 * Basecamp fixes/refactor and allow tags/snippets in camp labels (#82376)
@@ -121,7 +121,6 @@ Cataclysm-DDA experimental build 2025-08-12-1822 (30369a9)
 * Check there's nothing in the way before constructing training dummy/archery box (#82373)
 * Fix tutorial trap messages popping more than once and showing first message always (#82366)
 * fix wearable cameras (#82365)
-* Dedupe character/creature process_turn (#82311)
 * Vitamin spell support custom color, also support going lower than 0 (#82358)
 * Dedupe flexbuffer root source path error (#82336)
 * Redefine glue itemgroups (#82357)
@@ -141,7 +140,6 @@ Cataclysm-DDA experimental build 2025-08-12-1822 (30369a9)
 * [Xedra Evolved] Lilin use ruach as their `energy_source` (#82356)
 * Remove non exoplanet Aftershock (#82361)
 * Make Aftershock load for stable (#82360)
-* Fixes Alpha Member of the Group to work as intended (#82308)
 * Spells can use vitamin as spell energy source now (#82318)
 * Fix crash on NPC spawn (#82332)
 * Contain the plumbing glue supplies (#82337)
