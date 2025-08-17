@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-17-1933 ([6f8b748](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1933))
+
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
 * [ Xedra Evolved ] No Mana regen for the dead ([#82375](https://github.com/CleverRaven/Cataclysm-DDA/pull/82375))
 
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-08-13-0042 ([424a104](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-0042))
 
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-12-2233 ([d9b16bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-2233))
-
 * debug menu: turn spawn named npc into a list ([#82359](https://github.com/CleverRaven/Cataclysm-DDA/pull/82359))
 * Make mutant bugs not spawn 0 days from cataclysm ([#82341](https://github.com/CleverRaven/Cataclysm-DDA/pull/82341))
 * Dedupe monster blocking closing door check and messages ([#82342](https://github.com/CleverRaven/Cataclysm-DDA/pull/82342))
