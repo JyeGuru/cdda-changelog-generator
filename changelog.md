@@ -1,3 +1,11 @@
+* [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
+* [ Xedra Evolved ] No Mana regen for the dead ([#82375](https://github.com/CleverRaven/Cataclysm-DDA/pull/82375))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-17-1840 ([4176eaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1840))
+
+* [ Bombastic Perks ] Speedy Dex Perk ([#82379](https://github.com/CleverRaven/Cataclysm-DDA/pull/82379))
 * Remove dead draw below code ([#82463](https://github.com/CleverRaven/Cataclysm-DDA/pull/82463))
 * Finish removal of "pair of" and "pairs of" wording from all of the clothing and items ([#82469](https://github.com/CleverRaven/Cataclysm-DDA/pull/82469))
 * [Xedra Evolved] Distribute new flags to Paraclesian forms ([#82476](https://github.com/CleverRaven/Cataclysm-DDA/pull/82476))
@@ -168,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-08-12-2233 ([d9b16bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-2233))
 
 * debug menu: turn spawn named npc into a list ([#82359](https://github.com/CleverRaven/Cataclysm-DDA/pull/82359))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-12-2109 ([9d7de1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-12-2109))
-
 * Make mutant bugs not spawn 0 days from cataclysm ([#82341](https://github.com/CleverRaven/Cataclysm-DDA/pull/82341))
 * Dedupe monster blocking closing door check and messages ([#82342](https://github.com/CleverRaven/Cataclysm-DDA/pull/82342))
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82374](https://github.com/CleverRaven/Cataclysm-DDA/pull/82374))
@@ -215,11 +218,9 @@
 * [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
-* Spells can use vitamin as spell energy source now ([#82318](https://github.com/CleverRaven/Cataclysm-DDA/pull/82318))
 * Fix crash on NPC spawn ([#82332](https://github.com/CleverRaven/Cataclysm-DDA/pull/82332))
 * Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
 * Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
 * Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
-* Add type alias for event field ([#82315](https://github.com/CleverRaven/Cataclysm-DDA/pull/82315))
