@@ -223,4 +223,3 @@
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
 * Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
 * Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
-* Fix inserts in heavy ballistic vest being uncomfy ([#82320](https://github.com/CleverRaven/Cataclysm-DDA/pull/82320))
