@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-19-0452 (d0a960c)
 * Evac flyer (#82445)
 * [MoM] More Nether Attunement backlashes (#82482)
 
@@ -82,8 +84,6 @@ Cataclysm-DDA experimental build 2025-08-13-1510 (5aa86ec)
 
 Cataclysm-DDA experimental build 2025-08-13-1340 (b307707)
 * Actually respect default world compression setting (#82425)
-
-Cataclysm-DDA 0.I release candidate 2025-08-13-1318 (4d1e009)
 * zzip.exe: a tool for manipulating zzip files. (#82427)
 
 Cataclysm-DDA experimental build 2025-08-13-0449 (d0b8e27)

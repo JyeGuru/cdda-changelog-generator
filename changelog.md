@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-19-0452 ([d0a960c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-0452))
+
 * Evac flyer ([#82445](https://github.com/CleverRaven/Cataclysm-DDA/pull/82445))
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
 
@@ -148,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2025-08-13-1340 ([b307707](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-1340))
 
 * Actually respect default world compression setting ([#82425](https://github.com/CleverRaven/Cataclysm-DDA/pull/82425))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-13-1318 ([4d1e009](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-13-1318))
-
 * zzip.exe: a tool for manipulating zzip files. ([#82427](https://github.com/CleverRaven/Cataclysm-DDA/pull/82427))
 
 ---
