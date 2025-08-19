@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-19-1451 (b96da1f)
+* Update gun_variant_validator script (#82462)
+
 Cataclysm-DDA experimental build 2025-08-19-1108 (a2f0807)
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power (#82495)
 
@@ -46,9 +49,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-16-0514 (f82c8d8)
 Cataclysm-DDA experimental build 2025-08-16-0138 (76dab02)
 * Dedupe is_gzipped (#82454)
 
-Cataclysm-DDA experimental build 2025-08-15-0524 (b5c9c6a)
-* Dedupe flood fill 4 way (#82335)
-
 Cataclysm-DDA experimental build 2025-08-15-0410 (4df9531)
 * Increase Kevlar's fire resistance (#82426)
 * Post-its/flyers names in the Lore tab (#82424)
@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2025-08-13-0449 (d0b8e27)
 * Some translation fixes (#82405)
 * Buff Comfortably Fluid mutation (#82411)
 * [DDotD/XE] Full vampires are immune to zombie bites (#82416)
-
-Cataclysm-DDA experimental build 2025-08-13-0239 (2268ea1)
 * Instant gravy recipe is autolearned (#82399)
 * Fix segfault when toggling RAS with an inappropriate item (#82403)
 * Allow quick saving on turn zero (#82407)

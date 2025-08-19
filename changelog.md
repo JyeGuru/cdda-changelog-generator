@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-19-1451 ([b96da1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1451))
+
+* Update gun_variant_validator script ([#82462](https://github.com/CleverRaven/Cataclysm-DDA/pull/82462))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-19-1108 ([a2f0807](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1108))
 
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
@@ -87,12 +93,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-08-15-0524 ([b5c9c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0524))
-
-* Dedupe flood fill 4 way ([#82335](https://github.com/CleverRaven/Cataclysm-DDA/pull/82335))
-
----
-
 #### Cataclysm-DDA experimental build 2025-08-15-0410 ([4df9531](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0410))
 
 * Increase Kevlar's fire resistance ([#82426](https://github.com/CleverRaven/Cataclysm-DDA/pull/82426))
@@ -170,11 +170,6 @@
 * Some translation fixes ([#82405](https://github.com/CleverRaven/Cataclysm-DDA/pull/82405))
 * Buff Comfortably Fluid mutation ([#82411](https://github.com/CleverRaven/Cataclysm-DDA/pull/82411))
 * [DDotD/XE] Full vampires are immune to zombie bites ([#82416](https://github.com/CleverRaven/Cataclysm-DDA/pull/82416))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-13-0239 ([2268ea1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-0239))
-
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
