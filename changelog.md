@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-19-1108 ([a2f0807](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1108))
+
+* [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-19-0452 ([d0a960c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-0452))
 
 * Evac flyer ([#82445](https://github.com/CleverRaven/Cataclysm-DDA/pull/82445))
@@ -171,11 +177,6 @@
 
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-13-0042 ([424a104](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-0042))
-
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
 * debug menu: turn spawn named npc into a list ([#82359](https://github.com/CleverRaven/Cataclysm-DDA/pull/82359))
 * Make mutant bugs not spawn 0 days from cataclysm ([#82341](https://github.com/CleverRaven/Cataclysm-DDA/pull/82341))
@@ -208,7 +209,6 @@
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
 * Place soldering supplies in houses ([#82338](https://github.com/CleverRaven/Cataclysm-DDA/pull/82338))
-* Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82334](https://github.com/CleverRaven/Cataclysm-DDA/pull/82334))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82339](https://github.com/CleverRaven/Cataclysm-DDA/pull/82339))
 * Remove "pair of" and "pairs of" wording from the leg armor and gloves ([#82344](https://github.com/CleverRaven/Cataclysm-DDA/pull/82344))
@@ -221,4 +221,3 @@
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
 * Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
-* Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
