@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-19-1606 ([6ac4e32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1606))
+
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
 
 ---
@@ -161,11 +166,6 @@
 
 * Actually respect default world compression setting ([#82425](https://github.com/CleverRaven/Cataclysm-DDA/pull/82425))
 * zzip.exe: a tool for manipulating zzip files. ([#82427](https://github.com/CleverRaven/Cataclysm-DDA/pull/82427))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-13-0449 ([d0b8e27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-0449))
-
 * Make existing math "augmented" assignment operators single string ([#82409](https://github.com/CleverRaven/Cataclysm-DDA/pull/82409))
 * Display construction pre_flags ([#82398](https://github.com/CleverRaven/Cataclysm-DDA/pull/82398))
 * Some translation fixes ([#82405](https://github.com/CleverRaven/Cataclysm-DDA/pull/82405))
