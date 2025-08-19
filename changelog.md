@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-19-1835 ([be92113](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1835))
+
+* Routine i18n updates on 16 August 2025 ([#82458](https://github.com/CleverRaven/Cataclysm-DDA/pull/82458))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-19-1606 ([6ac4e32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1606))
 
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2025-08-13-1510 ([5aa86ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-1510))
 
 * Migrate seasonal harvested underbrush to t_underbrush_harvested ([#82420](https://github.com/CleverRaven/Cataclysm-DDA/pull/82420))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-13-1340 ([b307707](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-1340))
-
 * Actually respect default world compression setting ([#82425](https://github.com/CleverRaven/Cataclysm-DDA/pull/82425))
 * zzip.exe: a tool for manipulating zzip files. ([#82427](https://github.com/CleverRaven/Cataclysm-DDA/pull/82427))
 * Make existing math "augmented" assignment operators single string ([#82409](https://github.com/CleverRaven/Cataclysm-DDA/pull/82409))
@@ -214,5 +215,4 @@
 * [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
-* Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
