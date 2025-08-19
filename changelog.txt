@@ -1,3 +1,4 @@
+* [magic_type]: Fix cannot_cast_message logic (#82497)
 
 Cataclysm-DDA experimental build 2025-08-19-1451 (b96da1f)
 * Update gun_variant_validator script (#82462)
@@ -123,7 +124,6 @@ Cataclysm-DDA experimental build 2025-08-13-0449 (d0b8e27)
 * Fix tutorial trap messages popping more than once and showing first message always (#82366)
 * fix wearable cameras (#82365)
 * Vitamin spell support custom color, also support going lower than 0 (#82358)
-* Dedupe flexbuffer root source path error (#82336)
 * Redefine glue itemgroups (#82357)
 * Fix weather (#82369)
 * Fix IWYU (#82370)

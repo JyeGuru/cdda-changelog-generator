@@ -1,3 +1,4 @@
+* [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
 
 ---
 
@@ -198,7 +199,6 @@
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
 * fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
 * Vitamin spell support custom color, also support going lower than 0 ([#82358](https://github.com/CleverRaven/Cataclysm-DDA/pull/82358))
-* Dedupe flexbuffer root source path error ([#82336](https://github.com/CleverRaven/Cataclysm-DDA/pull/82336))
 * Redefine glue itemgroups ([#82357](https://github.com/CleverRaven/Cataclysm-DDA/pull/82357))
 * Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
