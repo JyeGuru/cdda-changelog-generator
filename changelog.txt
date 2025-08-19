@@ -1,3 +1,8 @@
+* Evac flyer (#82445)
+* [MoM] More Nether Attunement backlashes (#82482)
+
+Cataclysm-DDA experimental build 2025-08-19-0306 (d8e8cc9)
+* Display item name and owner for stealing prompt (#82493)
 
 Cataclysm-DDA experimental build 2025-08-17-1933 (6f8b748)
 * [ Xedra Evolved ] In game help files "Learning new powers" (#82477)
@@ -64,7 +69,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-14-0506 (cbf6d75)
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre (#82410)
 * Allow using "extend/delete" on variants (#82423)
 * Improve vector reservations (#82349)
-* Adds bar stock for machining (#82322)
 * Energy source works if defined at magic_type level (#82408)
 
 Cataclysm-DDA experimental build 2025-08-14-0610 (01a6c93)
@@ -91,8 +95,6 @@ Cataclysm-DDA experimental build 2025-08-13-0449 (d0b8e27)
 
 Cataclysm-DDA experimental build 2025-08-13-0239 (2268ea1)
 * Instant gravy recipe is autolearned (#82399)
-
-Cataclysm-DDA 0.I release candidate 2025-08-13-0043 (72618e6)
 * Fix segfault when toggling RAS with an inappropriate item (#82403)
 
 Cataclysm-DDA experimental build 2025-08-13-0042 (424a104)
@@ -130,7 +132,6 @@ Cataclysm-DDA experimental build 2025-08-13-0042 (424a104)
 * Place soldering supplies in houses (#82338)
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) (#82334)
 * Delete an obsolete entry in the plumbing supplies itemgroup (#82354)
-* Fix mentions of evac 'center' starts (#82330)
 * Fix tutorial trap messages popping more than once and showing first message always (#82339)
 * Remove "pair of" and "pairs of" wording from the leg armor and gloves (#82344)
 * Fix inserts in heavy ballistic vest being uncomfy (#82345)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-08-13-0042 (424a104)
 * Contain the plumbing glue supplies (#82337)
 * Update tutorial messages (#82340)
 * Fix evacuee scenario (#82333)
-* Routine i18n updates on 09 August 2025 (#82325)

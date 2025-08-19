@@ -1,3 +1,11 @@
+* Evac flyer ([#82445](https://github.com/CleverRaven/Cataclysm-DDA/pull/82445))
+* [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-19-0306 ([d8e8cc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-0306))
+
+* Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
 
 ---
 
@@ -115,7 +123,6 @@
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
 * Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
 * Improve vector reservations ([#82349](https://github.com/CleverRaven/Cataclysm-DDA/pull/82349))
-* Adds bar stock for machining ([#82322](https://github.com/CleverRaven/Cataclysm-DDA/pull/82322))
 * Energy source works if defined at magic_type level ([#82408](https://github.com/CleverRaven/Cataclysm-DDA/pull/82408))
 
 ---
@@ -163,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-08-13-0239 ([2268ea1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-13-0239))
 
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-13-0043 ([72618e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-13-0043))
-
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 
 ---
@@ -208,7 +210,6 @@
 * Place soldering supplies in houses ([#82338](https://github.com/CleverRaven/Cataclysm-DDA/pull/82338))
 * Fix AIM uilist submenu shaking violently. (and debug m>M menus) ([#82334](https://github.com/CleverRaven/Cataclysm-DDA/pull/82334))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
-* Fix mentions of evac 'center' starts ([#82330](https://github.com/CleverRaven/Cataclysm-DDA/pull/82330))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82339](https://github.com/CleverRaven/Cataclysm-DDA/pull/82339))
 * Remove "pair of" and "pairs of" wording from the leg armor and gloves ([#82344](https://github.com/CleverRaven/Cataclysm-DDA/pull/82344))
 * Fix inserts in heavy ballistic vest being uncomfy ([#82345](https://github.com/CleverRaven/Cataclysm-DDA/pull/82345))
@@ -222,4 +223,3 @@
 * Contain the plumbing glue supplies ([#82337](https://github.com/CleverRaven/Cataclysm-DDA/pull/82337))
 * Update tutorial messages ([#82340](https://github.com/CleverRaven/Cataclysm-DDA/pull/82340))
 * Fix evacuee scenario ([#82333](https://github.com/CleverRaven/Cataclysm-DDA/pull/82333))
-* Routine i18n updates on 09 August 2025 ([#82325](https://github.com/CleverRaven/Cataclysm-DDA/pull/82325))
