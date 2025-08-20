@@ -1,3 +1,4 @@
+* Add usage of default search radius for special placement ([#82489](https://github.com/CleverRaven/Cataclysm-DDA/pull/82489))
 * Tree bashing from being cut down is not a magic wand ([#82498](https://github.com/CleverRaven/Cataclysm-DDA/pull/82498))
 * Caseless weapons failure to feed ([#82504](https://github.com/CleverRaven/Cataclysm-DDA/pull/82504))
 * Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
@@ -162,7 +163,6 @@
 * Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
 * Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
-* Improve vector reservations ([#82349](https://github.com/CleverRaven/Cataclysm-DDA/pull/82349))
 * Energy source works if defined at magic_type level ([#82408](https://github.com/CleverRaven/Cataclysm-DDA/pull/82408))
 
 ---
