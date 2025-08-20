@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-20-0003 (d75768a)
+* Improve keybind UI on debug wish menus (#82437)
+
 Cataclysm-DDA experimental build 2025-08-19-2156 (67ae374)
 * [Xedra Evolved] Add second strange event--spotting a brownie in your faction camp (#82486)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-14-0506 (cbf6d75)
 
 Cataclysm-DDA experimental build 2025-08-14-0610 (01a6c93)
 * Scavenger's anvil recipe tweak (#82414)
-
-Cataclysm-DDA 0.I release candidate 2025-08-14-0215 (8852127)
 * Actually respect default world compression setting (#82429)
 * Migrate seasonal harvested underbrush to t_underbrush_harvested (#82420)
 * Actually respect default world compression setting (#82425)
@@ -139,4 +140,3 @@ Cataclysm-DDA 0.I release candidate 2025-08-14-0215 (8852127)
 * [Xedra Evolved] Lilin use ruach as their `energy_source` (#82356)
 * Remove non exoplanet Aftershock (#82361)
 * Make Aftershock load for stable (#82360)
-* Update tutorial messages (#82340)
