@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-20-2308 ([33b7065](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-2308))
+
+* Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-20-1324 ([8b143d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-1324))
 
 * Add uncraft recipes for turrets in aftershock ([#82501](https://github.com/CleverRaven/Cataclysm-DDA/pull/82501))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-08-14-1608 ([9165634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-1608))
 
 * [XE/DDotD] Dhampirs and pre-undead vampires are resistant to the zombie infection ([#82432](https://github.com/CleverRaven/Cataclysm-DDA/pull/82432))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-14-1249 ([1d4235f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-1249))
-
 * Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
 * Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
@@ -215,7 +216,6 @@
 * Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
-* Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
 * [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
