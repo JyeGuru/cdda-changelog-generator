@@ -1,3 +1,13 @@
+* Tree bashing from being cut down is not a magic wand ([#82498](https://github.com/CleverRaven/Cataclysm-DDA/pull/82498))
+* Caseless weapons failure to feed ([#82504](https://github.com/CleverRaven/Cataclysm-DDA/pull/82504))
+* Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
+* Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-20-0456 ([4be834b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-0456))
+
+* Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
 
 ---
 
@@ -150,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2025-08-14-1249 ([1d4235f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-1249))
 
 * Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-14-0506 ([cbf6d75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-14-0506))
-
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
 * Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
 * Improve vector reservations ([#82349](https://github.com/CleverRaven/Cataclysm-DDA/pull/82349))
@@ -178,8 +183,6 @@
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
 * debug menu: turn spawn named npc into a list ([#82359](https://github.com/CleverRaven/Cataclysm-DDA/pull/82359))
-* Make mutant bugs not spawn 0 days from cataclysm ([#82341](https://github.com/CleverRaven/Cataclysm-DDA/pull/82341))
-* Dedupe monster blocking closing door check and messages ([#82342](https://github.com/CleverRaven/Cataclysm-DDA/pull/82342))
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82374](https://github.com/CleverRaven/Cataclysm-DDA/pull/82374))
 * Minor enchantment cache refactor ([#82371](https://github.com/CleverRaven/Cataclysm-DDA/pull/82371))
 * Basecamp fixes/refactor and allow tags/snippets in camp labels ([#82376](https://github.com/CleverRaven/Cataclysm-DDA/pull/82376))
@@ -207,9 +210,6 @@
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
-* Remove "pair of" and "pairs of" wording from the leg armor and gloves ([#82344](https://github.com/CleverRaven/Cataclysm-DDA/pull/82344))
-* Fix inserts in heavy ballistic vest being uncomfy ([#82345](https://github.com/CleverRaven/Cataclysm-DDA/pull/82345))
-* fix wearable cameras ([#82348](https://github.com/CleverRaven/Cataclysm-DDA/pull/82348))
 * Add modified motorcycle helmets for rail attachments ([#82350](https://github.com/CleverRaven/Cataclysm-DDA/pull/82350))
 * Fix crash on NPC spawn ([#82353](https://github.com/CleverRaven/Cataclysm-DDA/pull/82353))
 * [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
