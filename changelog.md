@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-20-1324 ([8b143d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-1324))
+
+* Add uncraft recipes for turrets in aftershock ([#82501](https://github.com/CleverRaven/Cataclysm-DDA/pull/82501))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-20-0611 ([bab6e9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-0611))
 
 * Add usage of default search radius for special placement ([#82489](https://github.com/CleverRaven/Cataclysm-DDA/pull/82489))
@@ -210,7 +216,6 @@
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
 * Delete an obsolete entry in the plumbing supplies itemgroup ([#82354](https://github.com/CleverRaven/Cataclysm-DDA/pull/82354))
-* Add modified motorcycle helmets for rail attachments ([#82350](https://github.com/CleverRaven/Cataclysm-DDA/pull/82350))
 * Fix crash on NPC spawn ([#82353](https://github.com/CleverRaven/Cataclysm-DDA/pull/82353))
 * [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
