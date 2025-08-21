@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-21-0453 ([a52c0ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0453))
+
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-08-15-0211 ([6106725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0211))
 
 * [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. ([#82444](https://github.com/CleverRaven/Cataclysm-DDA/pull/82444))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-14-1608 ([9165634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-14-1608))
-
 * [XE/DDotD] Dhampirs and pre-undead vampires are resistant to the zombie infection ([#82432](https://github.com/CleverRaven/Cataclysm-DDA/pull/82432))
 * Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
