@@ -1,3 +1,7 @@
+* Remove attunement altar iexamine code (#82521)
+
+Cataclysm-DDA experimental build 2025-08-21-2010 (3336a95)
+* [Xedra Evolved] Add Nether cult artifacts (#82532)
 
 Cataclysm-DDA experimental build 2025-08-21-1525 (dfccb85)
 * Show both bub and abs coords in debug-editmap (#82530)
@@ -141,5 +145,3 @@ Cataclysm-DDA experimental build 2025-08-16-0138 (76dab02)
 * fix wearable cameras (#82365)
 * Fix weather (#82369)
 * Fix IWYU (#82370)
-* Add doc re c++ code comments for translator context (#82362)
-* Remove non exoplanet Aftershock (#82361)

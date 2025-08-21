@@ -1,3 +1,10 @@
+* Remove attunement altar iexamine code ([#82521](https://github.com/CleverRaven/Cataclysm-DDA/pull/82521))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-21-2010 ([3336a95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-2010))
+
+* [Xedra Evolved] Add Nether cult artifacts ([#82532](https://github.com/CleverRaven/Cataclysm-DDA/pull/82532))
 
 ---
 
@@ -222,5 +229,3 @@
 * fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
 * Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
-* Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
-* Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
