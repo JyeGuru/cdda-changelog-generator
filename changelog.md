@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-21-0629 ([dc3cd83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0629))
+
+* Remove object creator and references to it ([#82520](https://github.com/CleverRaven/Cataclysm-DDA/pull/82520))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-21-0453 ([a52c0ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0453))
 
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
@@ -172,11 +178,6 @@
 
 * Multi mod flag documentation ([#82447](https://github.com/CleverRaven/Cataclysm-DDA/pull/82447))
 * Place broken vehicles and trash on highways, correct highway vision level ([#82439](https://github.com/CleverRaven/Cataclysm-DDA/pull/82439))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-15-0211 ([6106725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0211))
-
 * [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. ([#82444](https://github.com/CleverRaven/Cataclysm-DDA/pull/82444))
 * [XE/DDotD] Dhampirs and pre-undead vampires are resistant to the zombie infection ([#82432](https://github.com/CleverRaven/Cataclysm-DDA/pull/82432))
 * Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
@@ -218,7 +219,6 @@
 * Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
 * fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
-* Vitamin spell support custom color, also support going lower than 0 ([#82358](https://github.com/CleverRaven/Cataclysm-DDA/pull/82358))
 * Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
