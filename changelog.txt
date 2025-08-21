@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-21-2112 (2f74979)
 * Remove attunement altar iexamine code (#82521)
 
 Cataclysm-DDA experimental build 2025-08-21-2010 (3336a95)

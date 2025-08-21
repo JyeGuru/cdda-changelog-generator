@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-21-2112 ([2f74979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-2112))
+
 * Remove attunement altar iexamine code ([#82521](https://github.com/CleverRaven/Cataclysm-DDA/pull/82521))
 
 ---
