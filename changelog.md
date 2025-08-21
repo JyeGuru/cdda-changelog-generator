@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-21-1324 ([c09d93d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-1324))
+
+* Fix zzip_stack losing track of files after compaction. ([#82527](https://github.com/CleverRaven/Cataclysm-DDA/pull/82527))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-21-0629 ([dc3cd83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0629))
 
 * Remove object creator and references to it ([#82520](https://github.com/CleverRaven/Cataclysm-DDA/pull/82520))
@@ -171,11 +177,6 @@
 * Allow professions with multiple achievement requirements ([#82443](https://github.com/CleverRaven/Cataclysm-DDA/pull/82443))
 * [Xedra Evolved] vampire `magic_type` work ([#82417](https://github.com/CleverRaven/Cataclysm-DDA/pull/82417))
 * [DDotD] Add drag down attack when you're grabbed and surrounded ([#82434](https://github.com/CleverRaven/Cataclysm-DDA/pull/82434))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-15-0304 ([a382e1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0304))
-
 * Multi mod flag documentation ([#82447](https://github.com/CleverRaven/Cataclysm-DDA/pull/82447))
 * Place broken vehicles and trash on highways, correct highway vision level ([#82439](https://github.com/CleverRaven/Cataclysm-DDA/pull/82439))
 * [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. ([#82444](https://github.com/CleverRaven/Cataclysm-DDA/pull/82444))
@@ -197,7 +198,6 @@
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
-* debug menu: turn spawn named npc into a list ([#82359](https://github.com/CleverRaven/Cataclysm-DDA/pull/82359))
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82374](https://github.com/CleverRaven/Cataclysm-DDA/pull/82374))
 * Minor enchantment cache refactor ([#82371](https://github.com/CleverRaven/Cataclysm-DDA/pull/82371))
 * Basecamp fixes/refactor and allow tags/snippets in camp labels ([#82376](https://github.com/CleverRaven/Cataclysm-DDA/pull/82376))
