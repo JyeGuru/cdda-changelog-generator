@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-21-1525 ([dfccb85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-1525))
+
+* Show both bub and abs coords in debug-editmap ([#82530](https://github.com/CleverRaven/Cataclysm-DDA/pull/82530))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-21-1324 ([c09d93d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-1324))
 
 * Fix zzip_stack losing track of files after compaction. ([#82527](https://github.com/CleverRaven/Cataclysm-DDA/pull/82527))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-08-16-0138 ([76dab02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-16-0138))
 
 * Dedupe is_gzipped ([#82454](https://github.com/CleverRaven/Cataclysm-DDA/pull/82454))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-15-0410 ([4df9531](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-15-0410))
-
 * Increase Kevlar's fire resistance ([#82426](https://github.com/CleverRaven/Cataclysm-DDA/pull/82426))
 * Post-its/flyers names in the Lore tab ([#82424](https://github.com/CleverRaven/Cataclysm-DDA/pull/82424))
 * Remove furniture spawning in walls in house_w_1 ([#82438](https://github.com/CleverRaven/Cataclysm-DDA/pull/82438))
@@ -223,4 +224,3 @@
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
-* Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
