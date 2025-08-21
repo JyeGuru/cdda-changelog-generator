@@ -1,3 +1,10 @@
+* Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-21-0357 ([f0441d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0357))
+
+* XL/XS Faraday Chainmail Pockets Tweak ([#82508](https://github.com/CleverRaven/Cataclysm-DDA/pull/82508))
 
 ---
 
@@ -212,10 +219,8 @@
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
 * fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
 * Vitamin spell support custom color, also support going lower than 0 ([#82358](https://github.com/CleverRaven/Cataclysm-DDA/pull/82358))
-* Redefine glue itemgroups ([#82357](https://github.com/CleverRaven/Cataclysm-DDA/pull/82357))
 * Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
 * Add doc re c++ code comments for translator context ([#82362](https://github.com/CleverRaven/Cataclysm-DDA/pull/82362))
-* [Xedra Evolved] Lilin use ruach as their `energy_source` ([#82356](https://github.com/CleverRaven/Cataclysm-DDA/pull/82356))
 * Remove non exoplanet Aftershock ([#82361](https://github.com/CleverRaven/Cataclysm-DDA/pull/82361))
 * Make Aftershock load for stable ([#82360](https://github.com/CleverRaven/Cataclysm-DDA/pull/82360))
