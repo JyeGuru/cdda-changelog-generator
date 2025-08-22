@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-22-2125 ([aefd0fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-2125))
+
 * [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
 * [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
 
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-08-17-0342 ([6f7480f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-0342))
 
 * Scavenger anvil desc fix ([#82473](https://github.com/CleverRaven/Cataclysm-DDA/pull/82473))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-17-0008 ([8a8be6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-0008))
-
 * Backrooms: remove mention of world settings from modinfo ([#82471](https://github.com/CleverRaven/Cataclysm-DDA/pull/82471))
 * [DDotD] Increase incidence of meadows in DDtoD ([#82448](https://github.com/CleverRaven/Cataclysm-DDA/pull/82448))
 * Fix zones disabling on save/load ([#82451](https://github.com/CleverRaven/Cataclysm-DDA/pull/82451))
