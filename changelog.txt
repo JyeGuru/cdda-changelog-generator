@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-22-0530 (4fef3bf)
+* mandatory/optional for monstergenerator (#82519)
+
 Cataclysm-DDA experimental build 2025-08-22-0004 (2f7c1ca)
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques (#82537)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-08-17-0008 (8a8be6a)
 
 Cataclysm-DDA experimental build 2025-08-16-0534 (221d897)
 * [DDotD] Increase incidence of meadows in DDtoD (#82448)
-
-Cataclysm-DDA 0.I release candidate 2025-08-16-0629 (9f7f039)
 * Fix zones disabling on save/load (#82451)
 * LMOE mission: unlock door properly (#82452)
 
@@ -144,6 +145,5 @@ Cataclysm-DDA experimental build 2025-08-16-0138 (76dab02)
 * Weekly Changelog 2025-08-04 to 2025-08-11 (#82380)
 * Check there's nothing in the way before constructing training dummy/archery box (#82373)
 * Fix tutorial trap messages popping more than once and showing first message always (#82366)
-* fix wearable cameras (#82365)
 * Fix weather (#82369)
 * Fix IWYU (#82370)

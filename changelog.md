@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-22-0530 ([4fef3bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0530))
+
+* mandatory/optional for monstergenerator ([#82519](https://github.com/CleverRaven/Cataclysm-DDA/pull/82519))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-22-0004 ([2f7c1ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0004))
 
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-08-16-0534 ([221d897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-16-0534))
 
 * [DDotD] Increase incidence of meadows in DDtoD ([#82448](https://github.com/CleverRaven/Cataclysm-DDA/pull/82448))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-16-0629 ([9f7f039](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-16-0629))
-
 * Fix zones disabling on save/load ([#82451](https://github.com/CleverRaven/Cataclysm-DDA/pull/82451))
 * LMOE mission: unlock door properly ([#82452](https://github.com/CleverRaven/Cataclysm-DDA/pull/82452))
 
@@ -231,6 +232,5 @@
 * Weekly Changelog 2025-08-04 to 2025-08-11 ([#82380](https://github.com/CleverRaven/Cataclysm-DDA/pull/82380))
 * Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
 * Fix tutorial trap messages popping more than once and showing first message always ([#82366](https://github.com/CleverRaven/Cataclysm-DDA/pull/82366))
-* fix wearable cameras ([#82365](https://github.com/CleverRaven/Cataclysm-DDA/pull/82365))
 * Fix weather ([#82369](https://github.com/CleverRaven/Cataclysm-DDA/pull/82369))
 * Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
