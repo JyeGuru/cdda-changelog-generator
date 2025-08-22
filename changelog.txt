@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-22-2333 (4acd344)
+* Default lowest moves option in dispose dialogue (#82547)
+
 Cataclysm-DDA experimental build 2025-08-22-2125 (aefd0fa)
 * [Xedra Evolved] Moroi rework (#82541)
 * [XEDRA Evolved] Devariant gossamer dress (#82543)
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2025-08-17-1556 (f3b0e6d)
 Cataclysm-DDA experimental build 2025-08-17-0457 (c4a5aee)
 * Redraw "Saving game" message twice (#82468)
 * Don't try relative/proportion if no copy-from (#82446)
-
-Cataclysm-DDA experimental build 2025-08-17-0342 (6f7480f)
 * Scavenger anvil desc fix (#82473)
 * Backrooms: remove mention of world settings from modinfo (#82471)
 * [DDotD] Increase incidence of meadows in DDtoD (#82448)
@@ -144,6 +145,5 @@ Cataclysm-DDA experimental build 2025-08-17-0342 (6f7480f)
 * [Magiclysm] Only player goblins will try to tame wargs (#82378)
 * move bagpipes to music recipe (#82394)
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items (#82385)
-* Minor error fixes (#82372)
 * Weekly Changelog 2025-08-04 to 2025-08-11 (#82380)
 * Check there's nothing in the way before constructing training dummy/archery box (#82373)

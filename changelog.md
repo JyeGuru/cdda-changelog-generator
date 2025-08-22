@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-22-2333 ([4acd344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-2333))
+
+* Default lowest moves option in dispose dialogue ([#82547](https://github.com/CleverRaven/Cataclysm-DDA/pull/82547))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-22-2125 ([aefd0fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-2125))
 
 * [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
@@ -179,11 +185,6 @@
 
 * Redraw "Saving game" message twice ([#82468](https://github.com/CleverRaven/Cataclysm-DDA/pull/82468))
 * Don't try relative/proportion if no copy-from ([#82446](https://github.com/CleverRaven/Cataclysm-DDA/pull/82446))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-17-0342 ([6f7480f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-0342))
-
 * Scavenger anvil desc fix ([#82473](https://github.com/CleverRaven/Cataclysm-DDA/pull/82473))
 * Backrooms: remove mention of world settings from modinfo ([#82471](https://github.com/CleverRaven/Cataclysm-DDA/pull/82471))
 * [DDotD] Increase incidence of meadows in DDtoD ([#82448](https://github.com/CleverRaven/Cataclysm-DDA/pull/82448))
@@ -231,6 +232,5 @@
 * [Magiclysm] Only player goblins will try to tame wargs ([#82378](https://github.com/CleverRaven/Cataclysm-DDA/pull/82378))
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items ([#82385](https://github.com/CleverRaven/Cataclysm-DDA/pull/82385))
-* Minor error fixes ([#82372](https://github.com/CleverRaven/Cataclysm-DDA/pull/82372))
 * Weekly Changelog 2025-08-04 to 2025-08-11 ([#82380](https://github.com/CleverRaven/Cataclysm-DDA/pull/82380))
 * Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
