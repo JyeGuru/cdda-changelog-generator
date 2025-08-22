@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-22-0004 ([2f7c1ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0004))
+
+* [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-21-2112 ([2f74979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-2112))
 
 * Remove attunement altar iexamine code ([#82521](https://github.com/CleverRaven/Cataclysm-DDA/pull/82521))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-16-0629 ([9f7f039](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-16-0629))
 
 * Fix zones disabling on save/load ([#82451](https://github.com/CleverRaven/Cataclysm-DDA/pull/82451))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-16-0514 ([f82c8d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-16-0514))
-
 * LMOE mission: unlock door properly ([#82452](https://github.com/CleverRaven/Cataclysm-DDA/pull/82452))
 
 ---
@@ -220,7 +221,6 @@
 * aftershock typo ([#82381](https://github.com/CleverRaven/Cataclysm-DDA/pull/82381))
 * Check there's nothing in the way before constructing training dummy/archery box ([#82382](https://github.com/CleverRaven/Cataclysm-DDA/pull/82382))
 * [Xedra Evolved] Switch vampires powers over to using `human_blood_vitamin` ([#82397](https://github.com/CleverRaven/Cataclysm-DDA/pull/82397))
-* Generic factory: more reader correctness ([#82363](https://github.com/CleverRaven/Cataclysm-DDA/pull/82363))
 * [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
 * fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
 * LIXA Achievement name swap ([#82384](https://github.com/CleverRaven/Cataclysm-DDA/pull/82384))
