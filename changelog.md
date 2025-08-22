@@ -1,3 +1,5 @@
+* [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
+* [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
 
 ---
 
@@ -216,7 +218,6 @@
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82374](https://github.com/CleverRaven/Cataclysm-DDA/pull/82374))
-* Minor enchantment cache refactor ([#82371](https://github.com/CleverRaven/Cataclysm-DDA/pull/82371))
 * Basecamp fixes/refactor and allow tags/snippets in camp labels ([#82376](https://github.com/CleverRaven/Cataclysm-DDA/pull/82376))
 * [MoM] Add Psychometry clairsentient power ([#82389](https://github.com/CleverRaven/Cataclysm-DDA/pull/82389))
 * Fix segfault when toggling RAS with an inappropriate item ([#82388](https://github.com/CleverRaven/Cataclysm-DDA/pull/82388))
@@ -233,4 +234,3 @@
 * Minor error fixes ([#82372](https://github.com/CleverRaven/Cataclysm-DDA/pull/82372))
 * Weekly Changelog 2025-08-04 to 2025-08-11 ([#82380](https://github.com/CleverRaven/Cataclysm-DDA/pull/82380))
 * Check there's nothing in the way before constructing training dummy/archery box ([#82373](https://github.com/CleverRaven/Cataclysm-DDA/pull/82373))
-* Fix IWYU ([#82370](https://github.com/CleverRaven/Cataclysm-DDA/pull/82370))
