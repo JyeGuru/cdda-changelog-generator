@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-22-0740 (5b33b78)
+* Fix #82472 Vegan Butter has no calories (#82526)
+
 Cataclysm-DDA experimental build 2025-08-22-0530 (4fef3bf)
 * mandatory/optional for monstergenerator (#82519)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-08-16-0534 (221d897)
 * [DDotD] Increase incidence of meadows in DDtoD (#82448)
 * Fix zones disabling on save/load (#82451)
 * LMOE mission: unlock door properly (#82452)
-
-Cataclysm-DDA experimental build 2025-08-16-0138 (76dab02)
 * Dedupe is_gzipped (#82454)
 * Increase Kevlar's fire resistance (#82426)
 * Post-its/flyers names in the Lore tab (#82424)
@@ -144,6 +145,5 @@ Cataclysm-DDA experimental build 2025-08-16-0138 (76dab02)
 * Minor error fixes (#82372)
 * Weekly Changelog 2025-08-04 to 2025-08-11 (#82380)
 * Check there's nothing in the way before constructing training dummy/archery box (#82373)
-* Fix tutorial trap messages popping more than once and showing first message always (#82366)
 * Fix weather (#82369)
 * Fix IWYU (#82370)
