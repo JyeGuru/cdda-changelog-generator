@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-23-0606 (2232afe)
+* Make armor value displays into a table (#82505)
+
 Cataclysm-DDA experimental build 2025-08-22-2333 (4acd344)
 * Default lowest moves option in dispose dialogue (#82547)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-08-17-1840 (4176eaf)
 
 Cataclysm-DDA experimental build 2025-08-17-1556 (f3b0e6d)
 * Change the default sidebar to be sidebar-mobile on mobile (#82479)
-
-Cataclysm-DDA experimental build 2025-08-17-0457 (c4a5aee)
 * Redraw "Saving game" message twice (#82468)
 * Don't try relative/proportion if no copy-from (#82446)
 * Scavenger anvil desc fix (#82473)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2025-08-17-0457 (c4a5aee)
 * Instant gravy recipe is autolearned (#82399)
 * Fix segfault when toggling RAS with an inappropriate item (#82403)
 * Allow quick saving on turn zero (#82407)
-* [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre (#82374)
 * Basecamp fixes/refactor and allow tags/snippets in camp labels (#82376)
 * [MoM] Add Psychometry clairsentient power (#82389)
 * Fix segfault when toggling RAS with an inappropriate item (#82388)

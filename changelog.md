@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-23-0606 ([2232afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-0606))
+
+* Make armor value displays into a table ([#82505](https://github.com/CleverRaven/Cataclysm-DDA/pull/82505))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-22-2333 ([4acd344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-2333))
 
 * Default lowest moves option in dispose dialogue ([#82547](https://github.com/CleverRaven/Cataclysm-DDA/pull/82547))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-08-17-1556 ([f3b0e6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1556))
 
 * Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-17-0457 ([c4a5aee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-0457))
-
 * Redraw "Saving game" message twice ([#82468](https://github.com/CleverRaven/Cataclysm-DDA/pull/82468))
 * Don't try relative/proportion if no copy-from ([#82446](https://github.com/CleverRaven/Cataclysm-DDA/pull/82446))
 * Scavenger anvil desc fix ([#82473](https://github.com/CleverRaven/Cataclysm-DDA/pull/82473))
@@ -218,7 +219,6 @@
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
-* [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82374](https://github.com/CleverRaven/Cataclysm-DDA/pull/82374))
 * Basecamp fixes/refactor and allow tags/snippets in camp labels ([#82376](https://github.com/CleverRaven/Cataclysm-DDA/pull/82376))
 * [MoM] Add Psychometry clairsentient power ([#82389](https://github.com/CleverRaven/Cataclysm-DDA/pull/82389))
 * Fix segfault when toggling RAS with an inappropriate item ([#82388](https://github.com/CleverRaven/Cataclysm-DDA/pull/82388))
