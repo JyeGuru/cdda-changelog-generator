@@ -1,3 +1,10 @@
+* Fix zzip_stack losing track of files after compaction. ([#82531](https://github.com/CleverRaven/Cataclysm-DDA/pull/82531))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-23-1449 ([56c5d60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-1449))
+
+* Small hardened metal sheet recipe doesn't redefine the "using" field ([#82554](https://github.com/CleverRaven/Cataclysm-DDA/pull/82554))
 
 ---
 
@@ -219,7 +226,6 @@
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
-* Basecamp fixes/refactor and allow tags/snippets in camp labels ([#82376](https://github.com/CleverRaven/Cataclysm-DDA/pull/82376))
 * [MoM] Add Psychometry clairsentient power ([#82389](https://github.com/CleverRaven/Cataclysm-DDA/pull/82389))
 * Fix segfault when toggling RAS with an inappropriate item ([#82388](https://github.com/CleverRaven/Cataclysm-DDA/pull/82388))
 * Document debug character/world naming ([#82383](https://github.com/CleverRaven/Cataclysm-DDA/pull/82383))

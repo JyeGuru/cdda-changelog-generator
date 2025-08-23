@@ -1,3 +1,7 @@
+* Fix zzip_stack losing track of files after compaction. (#82531)
+
+Cataclysm-DDA experimental build 2025-08-23-1449 (56c5d60)
+* Small hardened metal sheet recipe doesn't redefine the "using" field (#82554)
 
 Cataclysm-DDA experimental build 2025-08-23-1006 (3d01658)
 * Routine i18n updates on 23 August 2025 (#82553)
@@ -132,7 +136,6 @@ Cataclysm-DDA experimental build 2025-08-17-1840 (4176eaf)
 * Instant gravy recipe is autolearned (#82399)
 * Fix segfault when toggling RAS with an inappropriate item (#82403)
 * Allow quick saving on turn zero (#82407)
-* Basecamp fixes/refactor and allow tags/snippets in camp labels (#82376)
 * [MoM] Add Psychometry clairsentient power (#82389)
 * Fix segfault when toggling RAS with an inappropriate item (#82388)
 * Document debug character/world naming (#82383)
