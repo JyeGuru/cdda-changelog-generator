@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-23-1006 ([3d01658](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-1006))
+
+* Routine i18n updates on 23 August 2025 ([#82553](https://github.com/CleverRaven/Cataclysm-DDA/pull/82553))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-23-0606 ([2232afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-0606))
 
 * Make armor value displays into a table ([#82505](https://github.com/CleverRaven/Cataclysm-DDA/pull/82505))
@@ -166,7 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-08-17-1933 ([6f8b748](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1933))
 
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
-* [ Xedra Evolved ] No Mana regen for the dead ([#82375](https://github.com/CleverRaven/Cataclysm-DDA/pull/82375))
 
 ---
 
@@ -178,11 +183,6 @@
 * [Xedra Evolved] Distribute new flags to Paraclesian forms ([#82476](https://github.com/CleverRaven/Cataclysm-DDA/pull/82476))
 * [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
 * LIXA Polish ([#82415](https://github.com/CleverRaven/Cataclysm-DDA/pull/82415))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-17-1556 ([f3b0e6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1556))
-
 * Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
 * Redraw "Saving game" message twice ([#82468](https://github.com/CleverRaven/Cataclysm-DDA/pull/82468))
 * Don't try relative/proportion if no copy-from ([#82446](https://github.com/CleverRaven/Cataclysm-DDA/pull/82446))
