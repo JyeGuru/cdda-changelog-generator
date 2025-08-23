@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-23-1458 ([1043089](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-23-1458))
+
 * Fix zzip_stack losing track of files after compaction. ([#82531](https://github.com/CleverRaven/Cataclysm-DDA/pull/82531))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-08-17-1933 ([6f8b748](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1933))
 
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-17-1840 ([4176eaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1840))
-
 * [ Bombastic Perks ] Speedy Dex Perk ([#82379](https://github.com/CleverRaven/Cataclysm-DDA/pull/82379))
 * Remove dead draw below code ([#82463](https://github.com/CleverRaven/Cataclysm-DDA/pull/82463))
 * Finish removal of "pair of" and "pairs of" wording from all of the clothing and items ([#82469](https://github.com/CleverRaven/Cataclysm-DDA/pull/82469))
