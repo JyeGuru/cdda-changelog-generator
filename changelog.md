@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-23-2156 ([dc8af21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-2156))
+
+* Bronze metalworking tongs don't require steel smithing tools ([#82559](https://github.com/CleverRaven/Cataclysm-DDA/pull/82559))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-08-23-1458 ([1043089](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-23-1458))
 
 * Fix zzip_stack losing track of files after compaction. ([#82531](https://github.com/CleverRaven/Cataclysm-DDA/pull/82531))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-08-19-0306 ([d8e8cc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-0306))
 
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-17-1933 ([6f8b748](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-17-1933))
-
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
 * [ Bombastic Perks ] Speedy Dex Perk ([#82379](https://github.com/CleverRaven/Cataclysm-DDA/pull/82379))
 * Remove dead draw below code ([#82463](https://github.com/CleverRaven/Cataclysm-DDA/pull/82463))
@@ -235,7 +236,6 @@
 * [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
 * fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
 * LIXA Achievement name swap ([#82384](https://github.com/CleverRaven/Cataclysm-DDA/pull/82384))
-* [Magiclysm] Only player goblins will try to tame wargs ([#82378](https://github.com/CleverRaven/Cataclysm-DDA/pull/82378))
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items ([#82385](https://github.com/CleverRaven/Cataclysm-DDA/pull/82385))
 * Weekly Changelog 2025-08-04 to 2025-08-11 ([#82380](https://github.com/CleverRaven/Cataclysm-DDA/pull/82380))

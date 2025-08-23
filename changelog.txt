@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-23-2156 (dc8af21)
+* Bronze metalworking tongs don't require steel smithing tools (#82559)
+
 Cataclysm-DDA 0.I release candidate 2025-08-23-1458 (1043089)
 * Fix zzip_stack losing track of files after compaction. (#82531)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-08-19-0452 (d0a960c)
 
 Cataclysm-DDA experimental build 2025-08-19-0306 (d8e8cc9)
 * Display item name and owner for stealing prompt (#82493)
-
-Cataclysm-DDA experimental build 2025-08-17-1933 (6f8b748)
 * [ Xedra Evolved ] In game help files "Learning new powers" (#82477)
 * [ Bombastic Perks ] Speedy Dex Perk (#82379)
 * Remove dead draw below code (#82463)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2025-08-17-1933 (6f8b748)
 * [Magiclysm] Only player goblins will try to tame wargs (#82401)
 * fix clang tidy failure in teleport.cpp (#82400)
 * LIXA Achievement name swap (#82384)
-* [Magiclysm] Only player goblins will try to tame wargs (#82378)
 * move bagpipes to music recipe (#82394)
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items (#82385)
 * Weekly Changelog 2025-08-04 to 2025-08-11 (#82380)
