@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-24-1624 ([b85daaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-24-1624))
+
+* [Magiclysm] Fix triffid vineweavers attacking their own summons ([#82567](https://github.com/CleverRaven/Cataclysm-DDA/pull/82567))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-24-1424 ([fff5944](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-24-1424))
 
 * Genericize iteminfo table drawing ([#82558](https://github.com/CleverRaven/Cataclysm-DDA/pull/82558))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-08-19-1835 ([be92113](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1835))
 
 * Routine i18n updates on 16 August 2025 ([#82458](https://github.com/CleverRaven/Cataclysm-DDA/pull/82458))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-19-1606 ([6ac4e32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1606))
-
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
 * Update gun_variant_validator script ([#82462](https://github.com/CleverRaven/Cataclysm-DDA/pull/82462))
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
@@ -238,4 +239,3 @@
 * [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
 * fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
-* Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items ([#82385](https://github.com/CleverRaven/Cataclysm-DDA/pull/82385))
