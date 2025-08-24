@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-24-0544 (d92a2a4)
 * Allow zooming during activities (#82561)
 
 Cataclysm-DDA experimental build 2025-08-24-0502 (fe9e0fe)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2025-08-19-1606 (6ac4e32)
 
 Cataclysm-DDA experimental build 2025-08-19-1451 (b96da1f)
 * Update gun_variant_validator script (#82462)
-
-Cataclysm-DDA experimental build 2025-08-19-1108 (a2f0807)
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power (#82495)
 * Evac flyer (#82445)
 * [MoM] More Nether Attunement backlashes (#82482)

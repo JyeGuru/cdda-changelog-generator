@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-24-0544 ([d92a2a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-24-0544))
+
 * Allow zooming during activities ([#82561](https://github.com/CleverRaven/Cataclysm-DDA/pull/82561))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-08-19-1451 ([b96da1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1451))
 
 * Update gun_variant_validator script ([#82462](https://github.com/CleverRaven/Cataclysm-DDA/pull/82462))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-19-1108 ([a2f0807](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1108))
-
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
 * Evac flyer ([#82445](https://github.com/CleverRaven/Cataclysm-DDA/pull/82445))
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
