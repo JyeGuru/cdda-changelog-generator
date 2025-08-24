@@ -1,3 +1,4 @@
+* Allow zooming during activities (#82561)
 
 Cataclysm-DDA experimental build 2025-08-24-0502 (fe9e0fe)
 * Fix some typos, mostly in NPC tutorial (#82552)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2025-08-19-1108 (a2f0807)
 * Allow quick saving on turn zero (#82407)
 * [MoM] Add Psychometry clairsentient power (#82389)
 * Fix segfault when toggling RAS with an inappropriate item (#82388)
-* Document debug character/world naming (#82383)
 * [Xedra Evolved] Switch vampires powers over to using `human_blood_vitamin` (#82397)
 * [Magiclysm] Only player goblins will try to tame wargs (#82401)
 * fix clang tidy failure in teleport.cpp (#82400)
