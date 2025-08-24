@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-24-0502 ([fe9e0fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-24-0502))
+
 * Fix some typos, mostly in NPC tutorial ([#82552](https://github.com/CleverRaven/Cataclysm-DDA/pull/82552))
 * Update nail making ([#82557](https://github.com/CleverRaven/Cataclysm-DDA/pull/82557))
 * [Xedra Evolved] Vampires are pale, and so are dhampirs with the Corpselike Pallor flaw ([#82564](https://github.com/CleverRaven/Cataclysm-DDA/pull/82564))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-08-19-1108 ([a2f0807](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-1108))
 
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-19-0452 ([d0a960c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-0452))
-
 * Evac flyer ([#82445](https://github.com/CleverRaven/Cataclysm-DDA/pull/82445))
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
