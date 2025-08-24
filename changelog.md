@@ -1,3 +1,12 @@
+* Fix some typos, mostly in NPC tutorial ([#82552](https://github.com/CleverRaven/Cataclysm-DDA/pull/82552))
+* Update nail making ([#82557](https://github.com/CleverRaven/Cataclysm-DDA/pull/82557))
+* [Xedra Evolved] Vampires are pale, and so are dhampirs with the Corpselike Pallor flaw ([#82564](https://github.com/CleverRaven/Cataclysm-DDA/pull/82564))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-24-0406 ([6e484c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-24-0406))
+
+* Add wait duration for followers to catch up ([#82562](https://github.com/CleverRaven/Cataclysm-DDA/pull/82562))
 
 ---
 
@@ -178,14 +187,8 @@
 
 * Evac flyer ([#82445](https://github.com/CleverRaven/Cataclysm-DDA/pull/82445))
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-19-0306 ([d8e8cc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-0306))
-
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
-* [ Bombastic Perks ] Speedy Dex Perk ([#82379](https://github.com/CleverRaven/Cataclysm-DDA/pull/82379))
 * Remove dead draw below code ([#82463](https://github.com/CleverRaven/Cataclysm-DDA/pull/82463))
 * Finish removal of "pair of" and "pairs of" wording from all of the clothing and items ([#82469](https://github.com/CleverRaven/Cataclysm-DDA/pull/82469))
 * [Xedra Evolved] Distribute new flags to Paraclesian forms ([#82476](https://github.com/CleverRaven/Cataclysm-DDA/pull/82476))
@@ -230,12 +233,9 @@
 * [MoM] Add Psychometry clairsentient power ([#82389](https://github.com/CleverRaven/Cataclysm-DDA/pull/82389))
 * Fix segfault when toggling RAS with an inappropriate item ([#82388](https://github.com/CleverRaven/Cataclysm-DDA/pull/82388))
 * Document debug character/world naming ([#82383](https://github.com/CleverRaven/Cataclysm-DDA/pull/82383))
-* aftershock typo ([#82381](https://github.com/CleverRaven/Cataclysm-DDA/pull/82381))
-* Check there's nothing in the way before constructing training dummy/archery box ([#82382](https://github.com/CleverRaven/Cataclysm-DDA/pull/82382))
 * [Xedra Evolved] Switch vampires powers over to using `human_blood_vitamin` ([#82397](https://github.com/CleverRaven/Cataclysm-DDA/pull/82397))
 * [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
 * fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
 * LIXA Achievement name swap ([#82384](https://github.com/CleverRaven/Cataclysm-DDA/pull/82384))
 * move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
 * Remove "pair of" and "pairs of" wording from the leftover clothing like jewelry and other generic items ([#82385](https://github.com/CleverRaven/Cataclysm-DDA/pull/82385))
-* Weekly Changelog 2025-08-04 to 2025-08-11 ([#82380](https://github.com/CleverRaven/Cataclysm-DDA/pull/82380))
