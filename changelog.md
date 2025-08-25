@@ -1,3 +1,5 @@
+* Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
+* Fix the nail making fix ([#82576](https://github.com/CleverRaven/Cataclysm-DDA/pull/82576))
 
 ---
 
@@ -234,8 +236,6 @@
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
-* [MoM] Add Psychometry clairsentient power ([#82389](https://github.com/CleverRaven/Cataclysm-DDA/pull/82389))
 * [Xedra Evolved] Switch vampires powers over to using `human_blood_vitamin` ([#82397](https://github.com/CleverRaven/Cataclysm-DDA/pull/82397))
 * [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
 * fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
-* move bagpipes to music recipe ([#82394](https://github.com/CleverRaven/Cataclysm-DDA/pull/82394))
