@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-25-1625 ([8ef81ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1625))
+
 * Make stale data warnings optional with build flag ([#82580](https://github.com/CleverRaven/Cataclysm-DDA/pull/82580))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-08-20-1324 ([8b143d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-1324))
 
 * Add uncraft recipes for turrets in aftershock ([#82501](https://github.com/CleverRaven/Cataclysm-DDA/pull/82501))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-20-0611 ([bab6e9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-0611))
-
 * Add usage of default search radius for special placement ([#82489](https://github.com/CleverRaven/Cataclysm-DDA/pull/82489))
 * Tree bashing from being cut down is not a magic wand ([#82498](https://github.com/CleverRaven/Cataclysm-DDA/pull/82498))
 * Caseless weapons failure to feed ([#82504](https://github.com/CleverRaven/Cataclysm-DDA/pull/82504))

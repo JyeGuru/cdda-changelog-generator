@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-25-1625 (8ef81ae)
 * Make stale data warnings optional with build flag (#82580)
 
 Cataclysm-DDA experimental build 2025-08-25-1526 (9c9b9a4)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2025-08-20-2308 (33b7065)
 
 Cataclysm-DDA experimental build 2025-08-20-1324 (8b143d5)
 * Add uncraft recipes for turrets in aftershock (#82501)
-
-Cataclysm-DDA experimental build 2025-08-20-0611 (bab6e9a)
 * Add usage of default search radius for special placement (#82489)
 * Tree bashing from being cut down is not a magic wand (#82498)
 * Caseless weapons failure to feed (#82504)
