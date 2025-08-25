@@ -1,3 +1,4 @@
+* Make stale data warnings optional with build flag (#82580)
 
 Cataclysm-DDA experimental build 2025-08-25-1526 (9c9b9a4)
 * Several text corrections (#82583)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-08-20-0611 (bab6e9a)
 * Some translation fixes (#82405)
 * Buff Comfortably Fluid mutation (#82411)
 * [DDotD/XE] Full vampires are immune to zombie bites (#82416)
-* Instant gravy recipe is autolearned (#82399)
 * Fix segfault when toggling RAS with an inappropriate item (#82403)
 * Allow quick saving on turn zero (#82407)
 * [Magiclysm] Only player goblins will try to tame wargs (#82401)
