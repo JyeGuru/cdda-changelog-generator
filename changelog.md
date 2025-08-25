@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-25-0503 ([fa74674](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-0503))
+
 * Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
 * Fix the nail making fix ([#82576](https://github.com/CleverRaven/Cataclysm-DDA/pull/82576))
 
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-08-20-0003 ([d75768a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-0003))
 
 * Improve keybind UI on debug wish menus ([#82437](https://github.com/CleverRaven/Cataclysm-DDA/pull/82437))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-19-2156 ([67ae374](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-19-2156))
-
 * [Xedra Evolved] Add second strange event--spotting a brownie in your faction camp ([#82486](https://github.com/CleverRaven/Cataclysm-DDA/pull/82486))
 * Routine i18n updates on 16 August 2025 ([#82458](https://github.com/CleverRaven/Cataclysm-DDA/pull/82458))
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
