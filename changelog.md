@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-25-1435 ([36bf7e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1435))
+
+* Fix Boris laptop quest ([#82581](https://github.com/CleverRaven/Cataclysm-DDA/pull/82581))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-25-0503 ([fa74674](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-0503))
 
 * Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-08-20-0456 ([4be834b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-0456))
 
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-20-0003 ([d75768a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-0003))
-
 * Improve keybind UI on debug wish menus ([#82437](https://github.com/CleverRaven/Cataclysm-DDA/pull/82437))
 * [Xedra Evolved] Add second strange event--spotting a brownie in your faction camp ([#82486](https://github.com/CleverRaven/Cataclysm-DDA/pull/82486))
 * Routine i18n updates on 16 August 2025 ([#82458](https://github.com/CleverRaven/Cataclysm-DDA/pull/82458))
@@ -236,6 +237,5 @@
 * Instant gravy recipe is autolearned ([#82399](https://github.com/CleverRaven/Cataclysm-DDA/pull/82399))
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
-* [Xedra Evolved] Switch vampires powers over to using `human_blood_vitamin` ([#82397](https://github.com/CleverRaven/Cataclysm-DDA/pull/82397))
 * [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
 * fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
