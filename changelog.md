@@ -1,3 +1,4 @@
+* Several text corrections ([#82583](https://github.com/CleverRaven/Cataclysm-DDA/pull/82583))
 
 ---
 
@@ -230,7 +231,6 @@
 * Actually respect default world compression setting ([#82425](https://github.com/CleverRaven/Cataclysm-DDA/pull/82425))
 * zzip.exe: a tool for manipulating zzip files. ([#82427](https://github.com/CleverRaven/Cataclysm-DDA/pull/82427))
 * Make existing math "augmented" assignment operators single string ([#82409](https://github.com/CleverRaven/Cataclysm-DDA/pull/82409))
-* Display construction pre_flags ([#82398](https://github.com/CleverRaven/Cataclysm-DDA/pull/82398))
 * Some translation fixes ([#82405](https://github.com/CleverRaven/Cataclysm-DDA/pull/82405))
 * Buff Comfortably Fluid mutation ([#82411](https://github.com/CleverRaven/Cataclysm-DDA/pull/82411))
 * [DDotD/XE] Full vampires are immune to zombie bites ([#82416](https://github.com/CleverRaven/Cataclysm-DDA/pull/82416))
