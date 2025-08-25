@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-25-1741 ([c5788c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1741))
+
+* Weekly Changelog 2025-08-18 to 2025-08-25 ([#82587](https://github.com/CleverRaven/Cataclysm-DDA/pull/82587))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-25-1625 ([8ef81ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1625))
 
 * Make stale data warnings optional with build flag ([#82580](https://github.com/CleverRaven/Cataclysm-DDA/pull/82580))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-08-20-2308 ([33b7065](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-2308))
 
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-20-1324 ([8b143d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-1324))
-
 * Add uncraft recipes for turrets in aftershock ([#82501](https://github.com/CleverRaven/Cataclysm-DDA/pull/82501))
 * Add usage of default search radius for special placement ([#82489](https://github.com/CleverRaven/Cataclysm-DDA/pull/82489))
 * Tree bashing from being cut down is not a magic wand ([#82498](https://github.com/CleverRaven/Cataclysm-DDA/pull/82498))
@@ -238,4 +239,3 @@
 * Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
 * [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
-* fix clang tidy failure in teleport.cpp ([#82400](https://github.com/CleverRaven/Cataclysm-DDA/pull/82400))
