@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-26-1936 (967f9b5)
 * Prevent segfault from teleport trap (#82611)
 * Prevent segfault when purifying water with connected vehicles (#82616)
 
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-08-23-0606 (2232afe)
 
 Cataclysm-DDA experimental build 2025-08-22-2333 (4acd344)
 * Default lowest moves option in dispose dialogue (#82547)
-
-Cataclysm-DDA experimental build 2025-08-22-2125 (aefd0fa)
 * [Xedra Evolved] Moroi rework (#82541)
 * [XEDRA Evolved] Devariant gossamer dress (#82543)
 * Call T::finalize from generic_factory<T>::finalize (#82535)
