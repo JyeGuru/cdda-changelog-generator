@@ -1,3 +1,17 @@
+* Add deep fryers ([#82546](https://github.com/CleverRaven/Cataclysm-DDA/pull/82546))
+* Fries audit ([#82518](https://github.com/CleverRaven/Cataclysm-DDA/pull/82518))
+* Fix c-format in translation files ([#82529](https://github.com/CleverRaven/Cataclysm-DDA/pull/82529))
+* Corrected hold the line logic ([#82571](https://github.com/CleverRaven/Cataclysm-DDA/pull/82571))
+* [ Xedra Evolved ] No riots in Vampire lairs ([#82606](https://github.com/CleverRaven/Cataclysm-DDA/pull/82606))
+* Energy remaining now looks for battery ammo_types ([#82608](https://github.com/CleverRaven/Cataclysm-DDA/pull/82608))
+* Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
+* Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-26-1251 ([e3c44c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1251))
+
+* Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
 
 ---
 
@@ -183,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-08-22-0004 ([2f7c1ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0004))
 
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-21-2112 ([2f74979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-2112))
-
 * Remove attunement altar iexamine code ([#82521](https://github.com/CleverRaven/Cataclysm-DDA/pull/82521))
 * [Xedra Evolved] Add Nether cult artifacts ([#82532](https://github.com/CleverRaven/Cataclysm-DDA/pull/82532))
 * Show both bub and abs coords in debug-editmap ([#82530](https://github.com/CleverRaven/Cataclysm-DDA/pull/82530))
@@ -226,17 +235,8 @@
 * Fix zones disabling on save/load ([#82451](https://github.com/CleverRaven/Cataclysm-DDA/pull/82451))
 * LMOE mission: unlock door properly ([#82452](https://github.com/CleverRaven/Cataclysm-DDA/pull/82452))
 * Dedupe is_gzipped ([#82454](https://github.com/CleverRaven/Cataclysm-DDA/pull/82454))
-* Increase Kevlar's fire resistance ([#82426](https://github.com/CleverRaven/Cataclysm-DDA/pull/82426))
-* Post-its/flyers names in the Lore tab ([#82424](https://github.com/CleverRaven/Cataclysm-DDA/pull/82424))
 * Remove furniture spawning in walls in house_w_1 ([#82438](https://github.com/CleverRaven/Cataclysm-DDA/pull/82438))
 * Allow professions with multiple achievement requirements ([#82443](https://github.com/CleverRaven/Cataclysm-DDA/pull/82443))
-* [DDotD] Add drag down attack when you're grabbed and surrounded ([#82434](https://github.com/CleverRaven/Cataclysm-DDA/pull/82434))
 * Multi mod flag documentation ([#82447](https://github.com/CleverRaven/Cataclysm-DDA/pull/82447))
 * Place broken vehicles and trash on highways, correct highway vision level ([#82439](https://github.com/CleverRaven/Cataclysm-DDA/pull/82439))
 * [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. ([#82444](https://github.com/CleverRaven/Cataclysm-DDA/pull/82444))
-* [XE/DDotD] Dhampirs and pre-undead vampires are resistant to the zombie infection ([#82432](https://github.com/CleverRaven/Cataclysm-DDA/pull/82432))
-* Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
-* Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
-* Actually respect default world compression setting ([#82429](https://github.com/CleverRaven/Cataclysm-DDA/pull/82429))
-* Actually respect default world compression setting ([#82425](https://github.com/CleverRaven/Cataclysm-DDA/pull/82425))
-* zzip.exe: a tool for manipulating zzip files. ([#82427](https://github.com/CleverRaven/Cataclysm-DDA/pull/82427))
