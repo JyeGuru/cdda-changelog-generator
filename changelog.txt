@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-26-0613 (ac0235d)
 * [MoM] Update concentration message every second (#82575)
 * Fix invlets in keybindings window (#82594)
 * Fix crash for unset optional direction in mission (#82592)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-08-22-0004 (2f7c1ca)
 
 Cataclysm-DDA experimental build 2025-08-21-2112 (2f74979)
 * Remove attunement altar iexamine code (#82521)
-
-Cataclysm-DDA experimental build 2025-08-21-2010 (3336a95)
 * [Xedra Evolved] Add Nether cult artifacts (#82532)
 * Show both bub and abs coords in debug-editmap (#82530)
 * Fix zzip_stack losing track of files after compaction. (#82527)

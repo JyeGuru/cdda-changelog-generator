@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-26-0613 ([ac0235d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0613))
+
 * [MoM] Update concentration message every second ([#82575](https://github.com/CleverRaven/Cataclysm-DDA/pull/82575))
 * Fix invlets in keybindings window ([#82594](https://github.com/CleverRaven/Cataclysm-DDA/pull/82594))
 * Fix crash for unset optional direction in mission ([#82592](https://github.com/CleverRaven/Cataclysm-DDA/pull/82592))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-08-21-2112 ([2f74979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-2112))
 
 * Remove attunement altar iexamine code ([#82521](https://github.com/CleverRaven/Cataclysm-DDA/pull/82521))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-21-2010 ([3336a95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-2010))
-
 * [Xedra Evolved] Add Nether cult artifacts ([#82532](https://github.com/CleverRaven/Cataclysm-DDA/pull/82532))
 * Show both bub and abs coords in debug-editmap ([#82530](https://github.com/CleverRaven/Cataclysm-DDA/pull/82530))
 * Fix zzip_stack losing track of files after compaction. ([#82527](https://github.com/CleverRaven/Cataclysm-DDA/pull/82527))
