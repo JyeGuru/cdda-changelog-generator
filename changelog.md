@@ -1,3 +1,10 @@
+* Prevent segfault from teleport trap ([#82611](https://github.com/CleverRaven/Cataclysm-DDA/pull/82611))
+* Prevent segfault when purifying water with connected vehicles ([#82616](https://github.com/CleverRaven/Cataclysm-DDA/pull/82616))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-26-1743 ([15ddb69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1743))
+
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
 
 ---
@@ -190,11 +197,6 @@
 
 * [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
 * [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-22-2009 ([042ad8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-2009))
-
 * Call T::finalize from generic_factory<T>::finalize ([#82535](https://github.com/CleverRaven/Cataclysm-DDA/pull/82535))
 * Fix #82472 Vegan Butter has no calories ([#82526](https://github.com/CleverRaven/Cataclysm-DDA/pull/82526))
 * mandatory/optional for monstergenerator ([#82519](https://github.com/CleverRaven/Cataclysm-DDA/pull/82519))
