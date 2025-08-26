@@ -1,3 +1,10 @@
+* Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-26-0209 ([3f1030d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0209))
+
+* Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
 
 ---
 
@@ -177,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-08-21-0629 ([dc3cd83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0629))
 
 * Remove object creator and references to it ([#82520](https://github.com/CleverRaven/Cataclysm-DDA/pull/82520))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-21-0453 ([a52c0ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0453))
-
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
 * XL/XS Faraday Chainmail Pockets Tweak ([#82508](https://github.com/CleverRaven/Cataclysm-DDA/pull/82508))
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
@@ -229,7 +231,6 @@
 * Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
 * [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
 * Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
-* Energy source works if defined at magic_type level ([#82408](https://github.com/CleverRaven/Cataclysm-DDA/pull/82408))
 * Scavenger's anvil recipe tweak ([#82414](https://github.com/CleverRaven/Cataclysm-DDA/pull/82414))
 * Actually respect default world compression setting ([#82429](https://github.com/CleverRaven/Cataclysm-DDA/pull/82429))
 * Migrate seasonal harvested underbrush to t_underbrush_harvested ([#82420](https://github.com/CleverRaven/Cataclysm-DDA/pull/82420))
@@ -238,4 +239,3 @@
 * Make existing math "augmented" assignment operators single string ([#82409](https://github.com/CleverRaven/Cataclysm-DDA/pull/82409))
 * Buff Comfortably Fluid mutation ([#82411](https://github.com/CleverRaven/Cataclysm-DDA/pull/82411))
 * [DDotD/XE] Full vampires are immune to zombie bites ([#82416](https://github.com/CleverRaven/Cataclysm-DDA/pull/82416))
-* Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
