@@ -3,6 +3,11 @@
 * Fix c-format in translation files ([#82529](https://github.com/CleverRaven/Cataclysm-DDA/pull/82529))
 * Corrected hold the line logic ([#82571](https://github.com/CleverRaven/Cataclysm-DDA/pull/82571))
 * [ Xedra Evolved ] No riots in Vampire lairs ([#82606](https://github.com/CleverRaven/Cataclysm-DDA/pull/82606))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-26-1343 ([cef5bc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-26-1343))
+
 * Energy remaining now looks for battery ammo_types ([#82608](https://github.com/CleverRaven/Cataclysm-DDA/pull/82608))
 * Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-08-22-0530 ([4fef3bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0530))
 
 * mandatory/optional for monstergenerator ([#82519](https://github.com/CleverRaven/Cataclysm-DDA/pull/82519))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-22-0004 ([2f7c1ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0004))
-
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
 * Remove attunement altar iexamine code ([#82521](https://github.com/CleverRaven/Cataclysm-DDA/pull/82521))
 * [Xedra Evolved] Add Nether cult artifacts ([#82532](https://github.com/CleverRaven/Cataclysm-DDA/pull/82532))

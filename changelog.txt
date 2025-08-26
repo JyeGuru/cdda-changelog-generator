@@ -3,6 +3,8 @@
 * Fix c-format in translation files (#82529)
 * Corrected hold the line logic (#82571)
 * [ Xedra Evolved ] No riots in Vampire lairs (#82606)
+
+Cataclysm-DDA 0.I release candidate 2025-08-26-1343 (cef5bc7)
 * Energy remaining now looks for battery ammo_types (#82608)
 * Prevent segfault when cancelling completed butchery (#82615)
 * Popcorn seeds are in the seeds category (#82614)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-08-22-0740 (5b33b78)
 
 Cataclysm-DDA experimental build 2025-08-22-0530 (4fef3bf)
 * mandatory/optional for monstergenerator (#82519)
-
-Cataclysm-DDA experimental build 2025-08-22-0004 (2f7c1ca)
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques (#82537)
 * Remove attunement altar iexamine code (#82521)
 * [Xedra Evolved] Add Nether cult artifacts (#82532)
