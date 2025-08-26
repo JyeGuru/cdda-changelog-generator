@@ -1,3 +1,4 @@
+* Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
 
 ---
 
@@ -237,5 +238,4 @@
 * Dedupe is_gzipped ([#82454](https://github.com/CleverRaven/Cataclysm-DDA/pull/82454))
 * Allow professions with multiple achievement requirements ([#82443](https://github.com/CleverRaven/Cataclysm-DDA/pull/82443))
 * Multi mod flag documentation ([#82447](https://github.com/CleverRaven/Cataclysm-DDA/pull/82447))
-* Place broken vehicles and trash on highways, correct highway vision level ([#82439](https://github.com/CleverRaven/Cataclysm-DDA/pull/82439))
 * [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. ([#82444](https://github.com/CleverRaven/Cataclysm-DDA/pull/82444))
