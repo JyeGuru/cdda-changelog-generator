@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-26-1547 ([24b8ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1547))
+
 * Add deep fryers ([#82546](https://github.com/CleverRaven/Cataclysm-DDA/pull/82546))
 * Fries audit ([#82518](https://github.com/CleverRaven/Cataclysm-DDA/pull/82518))
 * Fix c-format in translation files ([#82529](https://github.com/CleverRaven/Cataclysm-DDA/pull/82529))
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-08-22-0740 ([5b33b78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0740))
 
 * Fix #82472 Vegan Butter has no calories ([#82526](https://github.com/CleverRaven/Cataclysm-DDA/pull/82526))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-22-0530 ([4fef3bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0530))
-
 * mandatory/optional for monstergenerator ([#82519](https://github.com/CleverRaven/Cataclysm-DDA/pull/82519))
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
 * Remove attunement altar iexamine code ([#82521](https://github.com/CleverRaven/Cataclysm-DDA/pull/82521))
@@ -212,7 +212,6 @@
 * Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
-* Improve keybind UI on debug wish menus ([#82437](https://github.com/CleverRaven/Cataclysm-DDA/pull/82437))
 * [Xedra Evolved] Add second strange event--spotting a brownie in your faction camp ([#82486](https://github.com/CleverRaven/Cataclysm-DDA/pull/82486))
 * Routine i18n updates on 16 August 2025 ([#82458](https://github.com/CleverRaven/Cataclysm-DDA/pull/82458))
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
