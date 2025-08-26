@@ -1,3 +1,16 @@
+* [MoM] Update concentration message every second ([#82575](https://github.com/CleverRaven/Cataclysm-DDA/pull/82575))
+* Fix invlets in keybindings window ([#82594](https://github.com/CleverRaven/Cataclysm-DDA/pull/82594))
+* Fix crash for unset optional direction in mission ([#82592](https://github.com/CleverRaven/Cataclysm-DDA/pull/82592))
+* Improve check for starting fire near fireplace ([#82574](https://github.com/CleverRaven/Cataclysm-DDA/pull/82574))
+* Reveal only contiguous subway/sewer from computer map ([#82573](https://github.com/CleverRaven/Cataclysm-DDA/pull/82573))
+* Energy remaining now looks for battery ammo_types ([#82563](https://github.com/CleverRaven/Cataclysm-DDA/pull/82563))
+* Allow `extend/delete` for non-container types with optional ([#82544](https://github.com/CleverRaven/Cataclysm-DDA/pull/82544))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-26-0517 ([47d0bb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0517))
+
+* [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
 
 ---
 
@@ -177,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-08-21-2010 ([3336a95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-2010))
 
 * [Xedra Evolved] Add Nether cult artifacts ([#82532](https://github.com/CleverRaven/Cataclysm-DDA/pull/82532))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-21-1525 ([dfccb85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-1525))
-
 * Show both bub and abs coords in debug-editmap ([#82530](https://github.com/CleverRaven/Cataclysm-DDA/pull/82530))
 * Fix zzip_stack losing track of files after compaction. ([#82527](https://github.com/CleverRaven/Cataclysm-DDA/pull/82527))
 * Remove object creator and references to it ([#82520](https://github.com/CleverRaven/Cataclysm-DDA/pull/82520))
@@ -209,7 +217,6 @@
 * Finish removal of "pair of" and "pairs of" wording from all of the clothing and items ([#82469](https://github.com/CleverRaven/Cataclysm-DDA/pull/82469))
 * [Xedra Evolved] Distribute new flags to Paraclesian forms ([#82476](https://github.com/CleverRaven/Cataclysm-DDA/pull/82476))
 * [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
-* LIXA Polish ([#82415](https://github.com/CleverRaven/Cataclysm-DDA/pull/82415))
 * Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
 * Redraw "Saving game" message twice ([#82468](https://github.com/CleverRaven/Cataclysm-DDA/pull/82468))
 * Don't try relative/proportion if no copy-from ([#82446](https://github.com/CleverRaven/Cataclysm-DDA/pull/82446))
@@ -223,19 +230,13 @@
 * Post-its/flyers names in the Lore tab ([#82424](https://github.com/CleverRaven/Cataclysm-DDA/pull/82424))
 * Remove furniture spawning in walls in house_w_1 ([#82438](https://github.com/CleverRaven/Cataclysm-DDA/pull/82438))
 * Allow professions with multiple achievement requirements ([#82443](https://github.com/CleverRaven/Cataclysm-DDA/pull/82443))
-* [Xedra Evolved] vampire `magic_type` work ([#82417](https://github.com/CleverRaven/Cataclysm-DDA/pull/82417))
 * [DDotD] Add drag down attack when you're grabbed and surrounded ([#82434](https://github.com/CleverRaven/Cataclysm-DDA/pull/82434))
 * Multi mod flag documentation ([#82447](https://github.com/CleverRaven/Cataclysm-DDA/pull/82447))
 * Place broken vehicles and trash on highways, correct highway vision level ([#82439](https://github.com/CleverRaven/Cataclysm-DDA/pull/82439))
 * [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. ([#82444](https://github.com/CleverRaven/Cataclysm-DDA/pull/82444))
 * [XE/DDotD] Dhampirs and pre-undead vampires are resistant to the zombie infection ([#82432](https://github.com/CleverRaven/Cataclysm-DDA/pull/82432))
 * Suppress martial arts messages when wielding item for crafting or dissassembly ([#82431](https://github.com/CleverRaven/Cataclysm-DDA/pull/82431))
-* [DDotD] Prevent evac shelter bulletin board trying to point to the non existent refugee centre ([#82410](https://github.com/CleverRaven/Cataclysm-DDA/pull/82410))
 * Allow using "extend/delete" on variants ([#82423](https://github.com/CleverRaven/Cataclysm-DDA/pull/82423))
-* Scavenger's anvil recipe tweak ([#82414](https://github.com/CleverRaven/Cataclysm-DDA/pull/82414))
 * Actually respect default world compression setting ([#82429](https://github.com/CleverRaven/Cataclysm-DDA/pull/82429))
-* Migrate seasonal harvested underbrush to t_underbrush_harvested ([#82420](https://github.com/CleverRaven/Cataclysm-DDA/pull/82420))
 * Actually respect default world compression setting ([#82425](https://github.com/CleverRaven/Cataclysm-DDA/pull/82425))
 * zzip.exe: a tool for manipulating zzip files. ([#82427](https://github.com/CleverRaven/Cataclysm-DDA/pull/82427))
-* Buff Comfortably Fluid mutation ([#82411](https://github.com/CleverRaven/Cataclysm-DDA/pull/82411))
-* [DDotD/XE] Full vampires are immune to zombie bites ([#82416](https://github.com/CleverRaven/Cataclysm-DDA/pull/82416))
