@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2025-08-26-0054 (152f5c9)
+* Fix missing space in basecamp expansion label (#82578)
+* [XEDRA] Replace steel material in items with updated steel types to allow repairing (#82586)
+
+Cataclysm-DDA experimental build 2025-08-26-0002 (88fd424)
+* Fix HHG (#82596)
+
 Cataclysm-DDA experimental build 2025-08-25-1741 (c5788c8)
 * Weekly Changelog 2025-08-18 to 2025-08-25 (#82587)
 
@@ -86,11 +93,7 @@ Cataclysm-DDA experimental build 2025-08-21-0629 (dc3cd83)
 
 Cataclysm-DDA experimental build 2025-08-21-0453 (a52c0ca)
 * Fix glue making you rich (#82515)
-
-Cataclysm-DDA experimental build 2025-08-21-0357 (f0441d5)
 * XL/XS Faraday Chainmail Pockets Tweak (#82508)
-
-Cataclysm-DDA experimental build 2025-08-20-2308 (33b7065)
 * Prevent Balthazar secubots from being turned into human sausages (#82513)
 * Add uncraft recipes for turrets in aftershock (#82501)
 * Add usage of default search radius for special placement (#82489)
@@ -143,9 +146,6 @@ Cataclysm-DDA experimental build 2025-08-20-2308 (33b7065)
 * Actually respect default world compression setting (#82425)
 * zzip.exe: a tool for manipulating zzip files. (#82427)
 * Make existing math "augmented" assignment operators single string (#82409)
-* Some translation fixes (#82405)
 * Buff Comfortably Fluid mutation (#82411)
 * [DDotD/XE] Full vampires are immune to zombie bites (#82416)
-* Fix segfault when toggling RAS with an inappropriate item (#82403)
 * Allow quick saving on turn zero (#82407)
-* [Magiclysm] Only player goblins will try to tame wargs (#82401)

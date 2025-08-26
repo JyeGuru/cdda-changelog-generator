@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-26-0054 ([152f5c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0054))
+
+* Fix missing space in basecamp expansion label ([#82578](https://github.com/CleverRaven/Cataclysm-DDA/pull/82578))
+* [XEDRA] Replace steel material in items with updated steel types to allow repairing ([#82586](https://github.com/CleverRaven/Cataclysm-DDA/pull/82586))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-26-0002 ([88fd424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0002))
+
+* Fix HHG ([#82596](https://github.com/CleverRaven/Cataclysm-DDA/pull/82596))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-25-1741 ([c5788c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1741))
 
 * Weekly Changelog 2025-08-18 to 2025-08-25 ([#82587](https://github.com/CleverRaven/Cataclysm-DDA/pull/82587))
@@ -170,17 +183,7 @@
 #### Cataclysm-DDA experimental build 2025-08-21-0453 ([a52c0ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0453))
 
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-21-0357 ([f0441d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-21-0357))
-
 * XL/XS Faraday Chainmail Pockets Tweak ([#82508](https://github.com/CleverRaven/Cataclysm-DDA/pull/82508))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-20-2308 ([33b7065](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-20-2308))
-
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
 * Add uncraft recipes for turrets in aftershock ([#82501](https://github.com/CleverRaven/Cataclysm-DDA/pull/82501))
 * Add usage of default search radius for special placement ([#82489](https://github.com/CleverRaven/Cataclysm-DDA/pull/82489))
@@ -233,9 +236,6 @@
 * Actually respect default world compression setting ([#82425](https://github.com/CleverRaven/Cataclysm-DDA/pull/82425))
 * zzip.exe: a tool for manipulating zzip files. ([#82427](https://github.com/CleverRaven/Cataclysm-DDA/pull/82427))
 * Make existing math "augmented" assignment operators single string ([#82409](https://github.com/CleverRaven/Cataclysm-DDA/pull/82409))
-* Some translation fixes ([#82405](https://github.com/CleverRaven/Cataclysm-DDA/pull/82405))
 * Buff Comfortably Fluid mutation ([#82411](https://github.com/CleverRaven/Cataclysm-DDA/pull/82411))
 * [DDotD/XE] Full vampires are immune to zombie bites ([#82416](https://github.com/CleverRaven/Cataclysm-DDA/pull/82416))
-* Fix segfault when toggling RAS with an inappropriate item ([#82403](https://github.com/CleverRaven/Cataclysm-DDA/pull/82403))
 * Allow quick saving on turn zero ([#82407](https://github.com/CleverRaven/Cataclysm-DDA/pull/82407))
-* [Magiclysm] Only player goblins will try to tame wargs ([#82401](https://github.com/CleverRaven/Cataclysm-DDA/pull/82401))
