@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-26-1657 ([daaf356](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-26-1657))
+
+* Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-26-1547 ([24b8ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1547))
 
 * Add deep fryers ([#82546](https://github.com/CleverRaven/Cataclysm-DDA/pull/82546))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-08-22-2009 ([042ad8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-2009))
 
 * Call T::finalize from generic_factory<T>::finalize ([#82535](https://github.com/CleverRaven/Cataclysm-DDA/pull/82535))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-22-0740 ([5b33b78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-0740))
-
 * Fix #82472 Vegan Butter has no calories ([#82526](https://github.com/CleverRaven/Cataclysm-DDA/pull/82526))
 * mandatory/optional for monstergenerator ([#82519](https://github.com/CleverRaven/Cataclysm-DDA/pull/82519))
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
@@ -234,7 +235,6 @@
 * Fix zones disabling on save/load ([#82451](https://github.com/CleverRaven/Cataclysm-DDA/pull/82451))
 * LMOE mission: unlock door properly ([#82452](https://github.com/CleverRaven/Cataclysm-DDA/pull/82452))
 * Dedupe is_gzipped ([#82454](https://github.com/CleverRaven/Cataclysm-DDA/pull/82454))
-* Remove furniture spawning in walls in house_w_1 ([#82438](https://github.com/CleverRaven/Cataclysm-DDA/pull/82438))
 * Allow professions with multiple achievement requirements ([#82443](https://github.com/CleverRaven/Cataclysm-DDA/pull/82443))
 * Multi mod flag documentation ([#82447](https://github.com/CleverRaven/Cataclysm-DDA/pull/82447))
 * Place broken vehicles and trash on highways, correct highway vision level ([#82439](https://github.com/CleverRaven/Cataclysm-DDA/pull/82439))
