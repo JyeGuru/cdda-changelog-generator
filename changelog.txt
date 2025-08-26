@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-26-0359 (dce78df)
 * Remove typed (non-templated) assign readers  (#82579)
 
 Cataclysm-DDA experimental build 2025-08-26-0256 (b966b4b)
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2025-08-21-2010 (3336a95)
 
 Cataclysm-DDA experimental build 2025-08-21-1525 (dfccb85)
 * Show both bub and abs coords in debug-editmap (#82530)
-
-Cataclysm-DDA experimental build 2025-08-21-1324 (c09d93d)
 * Fix zzip_stack losing track of files after compaction. (#82527)
 * Remove object creator and references to it (#82520)
 * Fix glue making you rich (#82515)
