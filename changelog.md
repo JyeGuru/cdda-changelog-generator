@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-27-0034 ([339627c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-0034))
+
+* Brick oven works as a fireplace ([#82622](https://github.com/CleverRaven/Cataclysm-DDA/pull/82622))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-27-0026 ([4600df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-0026))
+
+* Prevent segfault when purifying water with connected vehicles ([#82626](https://github.com/CleverRaven/Cataclysm-DDA/pull/82626))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-26-1936 ([967f9b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1936))
 
 * Prevent segfault from teleport trap ([#82611](https://github.com/CleverRaven/Cataclysm-DDA/pull/82611))
@@ -165,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-08-23-2156 ([dc8af21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-2156))
 
 * Bronze metalworking tongs don't require steel smithing tools ([#82559](https://github.com/CleverRaven/Cataclysm-DDA/pull/82559))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-23-1458 ([1043089](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-23-1458))
-
 * Fix zzip_stack losing track of files after compaction. ([#82531](https://github.com/CleverRaven/Cataclysm-DDA/pull/82531))
 
 ---
@@ -189,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-08-23-0606 ([2232afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-0606))
 
 * Make armor value displays into a table ([#82505](https://github.com/CleverRaven/Cataclysm-DDA/pull/82505))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-22-2333 ([4acd344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-22-2333))
-
 * Default lowest moves option in dispose dialogue ([#82547](https://github.com/CleverRaven/Cataclysm-DDA/pull/82547))
 * [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
 * [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
@@ -238,6 +240,4 @@
 * Fix zones disabling on save/load ([#82451](https://github.com/CleverRaven/Cataclysm-DDA/pull/82451))
 * LMOE mission: unlock door properly ([#82452](https://github.com/CleverRaven/Cataclysm-DDA/pull/82452))
 * Dedupe is_gzipped ([#82454](https://github.com/CleverRaven/Cataclysm-DDA/pull/82454))
-* Allow professions with multiple achievement requirements ([#82443](https://github.com/CleverRaven/Cataclysm-DDA/pull/82443))
 * Multi mod flag documentation ([#82447](https://github.com/CleverRaven/Cataclysm-DDA/pull/82447))
-* [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. ([#82444](https://github.com/CleverRaven/Cataclysm-DDA/pull/82444))

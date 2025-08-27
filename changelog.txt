@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2025-08-27-0034 (339627c)
+* Brick oven works as a fireplace (#82622)
+
+Cataclysm-DDA 0.I release candidate 2025-08-27-0026 (4600df9)
+* Prevent segfault when purifying water with connected vehicles (#82626)
+
 Cataclysm-DDA experimental build 2025-08-26-1936 (967f9b5)
 * Prevent segfault from teleport trap (#82611)
 * Prevent segfault when purifying water with connected vehicles (#82616)
@@ -90,8 +96,6 @@ Cataclysm-DDA experimental build 2025-08-24-0406 (6e484c3)
 
 Cataclysm-DDA experimental build 2025-08-23-2156 (dc8af21)
 * Bronze metalworking tongs don't require steel smithing tools (#82559)
-
-Cataclysm-DDA 0.I release candidate 2025-08-23-1458 (1043089)
 * Fix zzip_stack losing track of files after compaction. (#82531)
 
 Cataclysm-DDA experimental build 2025-08-23-1449 (56c5d60)
@@ -102,8 +106,6 @@ Cataclysm-DDA experimental build 2025-08-23-1006 (3d01658)
 
 Cataclysm-DDA experimental build 2025-08-23-0606 (2232afe)
 * Make armor value displays into a table (#82505)
-
-Cataclysm-DDA experimental build 2025-08-22-2333 (4acd344)
 * Default lowest moves option in dispose dialogue (#82547)
 * [Xedra Evolved] Moroi rework (#82541)
 * [XEDRA Evolved] Devariant gossamer dress (#82543)
@@ -148,6 +150,4 @@ Cataclysm-DDA experimental build 2025-08-22-2333 (4acd344)
 * Fix zones disabling on save/load (#82451)
 * LMOE mission: unlock door properly (#82452)
 * Dedupe is_gzipped (#82454)
-* Allow professions with multiple achievement requirements (#82443)
 * Multi mod flag documentation (#82447)
-* [Mods] Add `SUFFOCATION_IMMUNE` and `INHALED_TOXIN_IMMUNE` flags, apply to appropriate places in mods. (#82444)
