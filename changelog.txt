@@ -1,3 +1,8 @@
+* More monster type to optional/mandatory (#82617)
+* Present dispersion as MOA in item UI (#82595)
+
+Cataclysm-DDA experimental build 2025-08-27-1407 (76c89f3)
+* Star vampires have `PERMANENT_INVISIBILITY`, when they drink blood it applies `SUPPRESS_INVISIBILITY` (#82604)
 
 Cataclysm-DDA 0.I release candidate 2025-08-27-1238 (b3a4677)
 * Prevent segfault from teleport trap (#82627)
@@ -100,8 +105,6 @@ Cataclysm-DDA experimental build 2025-08-24-1424 (fff5944)
 
 Cataclysm-DDA experimental build 2025-08-24-0544 (d92a2a4)
 * Allow zooming during activities (#82561)
-
-Cataclysm-DDA experimental build 2025-08-24-0502 (fe9e0fe)
 * Fix some typos, mostly in NPC tutorial (#82552)
 * Update nail making (#82557)
 * [Xedra Evolved] Vampires are pale, and so are dhampirs with the Corpselike Pallor flaw (#82564)
@@ -149,5 +152,3 @@ Cataclysm-DDA experimental build 2025-08-24-0502 (fe9e0fe)
 * Redraw "Saving game" message twice (#82468)
 * Scavenger anvil desc fix (#82473)
 * Backrooms: remove mention of world settings from modinfo (#82471)
-* LMOE mission: unlock door properly (#82452)
-* Dedupe is_gzipped (#82454)
