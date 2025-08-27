@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-27-1821 (61d09a9)
+* Fix boomer bile EOC and remove !shouldfail test (#82593)
+
 Cataclysm-DDA 0.I release candidate 2025-08-27-1442 (bc7c80a)
 * Add uncraft recipes for turrets in aftershock (#82517)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-08-25-0503 (fa74674)
 
 Cataclysm-DDA experimental build 2025-08-25-0400 (c6606a0)
 * [Magiclysm] Add Aerial Assassin monster and `PERMANENT_INVISIBILITY` flag to go with it (#82550)
-
-Cataclysm-DDA experimental build 2025-08-24-1624 (b85daaa)
 * [Magiclysm] Fix triffid vineweavers attacking their own summons (#82567)
 * Genericize iteminfo table drawing (#82558)
 * Allow zooming during activities (#82561)

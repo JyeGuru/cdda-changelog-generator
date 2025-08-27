@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-27-1821 ([61d09a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1821))
+
+* Fix boomer bile EOC and remove !shouldfail test ([#82593](https://github.com/CleverRaven/Cataclysm-DDA/pull/82593))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-08-27-1442 ([bc7c80a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-1442))
 
 * Add uncraft recipes for turrets in aftershock ([#82517](https://github.com/CleverRaven/Cataclysm-DDA/pull/82517))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-08-25-0400 ([c6606a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-0400))
 
 * [Magiclysm] Add Aerial Assassin monster and `PERMANENT_INVISIBILITY` flag to go with it ([#82550](https://github.com/CleverRaven/Cataclysm-DDA/pull/82550))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-24-1624 ([b85daaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-24-1624))
-
 * [Magiclysm] Fix triffid vineweavers attacking their own summons ([#82567](https://github.com/CleverRaven/Cataclysm-DDA/pull/82567))
 * Genericize iteminfo table drawing ([#82558](https://github.com/CleverRaven/Cataclysm-DDA/pull/82558))
 * Allow zooming during activities ([#82561](https://github.com/CleverRaven/Cataclysm-DDA/pull/82561))
