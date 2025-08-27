@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-27-1442 ([bc7c80a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-1442))
 
 * Add uncraft recipes for turrets in aftershock ([#82517](https://github.com/CleverRaven/Cataclysm-DDA/pull/82517))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-27-1552 ([1511f5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1552))
+
 * Adds Arrow Recipes for Lathes ([#82522](https://github.com/CleverRaven/Cataclysm-DDA/pull/82522))
 * [Xedra Evolved] Add Blood Art Refinements and way to research them ([#82565](https://github.com/CleverRaven/Cataclysm-DDA/pull/82565))
 * More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-08-24-1624 ([b85daaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-24-1624))
 
 * [Magiclysm] Fix triffid vineweavers attacking their own summons ([#82567](https://github.com/CleverRaven/Cataclysm-DDA/pull/82567))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-24-1424 ([fff5944](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-24-1424))
-
 * Genericize iteminfo table drawing ([#82558](https://github.com/CleverRaven/Cataclysm-DDA/pull/82558))
 * Allow zooming during activities ([#82561](https://github.com/CleverRaven/Cataclysm-DDA/pull/82561))
 * Fix some typos, mostly in NPC tutorial ([#82552](https://github.com/CleverRaven/Cataclysm-DDA/pull/82552))

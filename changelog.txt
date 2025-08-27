@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.I release candidate 2025-08-27-1442 (bc7c80a)
 * Add uncraft recipes for turrets in aftershock (#82517)
+
+Cataclysm-DDA experimental build 2025-08-27-1552 (1511f5e)
 * Adds Arrow Recipes for Lathes (#82522)
 * [Xedra Evolved] Add Blood Art Refinements and way to research them (#82565)
 * More monster type to optional/mandatory (#82617)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-08-25-0400 (c6606a0)
 
 Cataclysm-DDA experimental build 2025-08-24-1624 (b85daaa)
 * [Magiclysm] Fix triffid vineweavers attacking their own summons (#82567)
-
-Cataclysm-DDA experimental build 2025-08-24-1424 (fff5944)
 * Genericize iteminfo table drawing (#82558)
 * Allow zooming during activities (#82561)
 * Fix some typos, mostly in NPC tutorial (#82552)
