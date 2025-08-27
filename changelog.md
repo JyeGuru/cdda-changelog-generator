@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-27-0340 ([4acb587](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-0340))
+
+* Load recipe `using` with optional ([#82618](https://github.com/CleverRaven/Cataclysm-DDA/pull/82618))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-27-0339 ([5ebd956](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-0339))
+
+* Prevent segfault when cancelling completed butchery ([#82620](https://github.com/CleverRaven/Cataclysm-DDA/pull/82620))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-27-0034 ([339627c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-0034))
 
 * Brick oven works as a fireplace ([#82622](https://github.com/CleverRaven/Cataclysm-DDA/pull/82622))
@@ -184,17 +196,7 @@
 #### Cataclysm-DDA experimental build 2025-08-23-1449 ([56c5d60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-1449))
 
 * Small hardened metal sheet recipe doesn't redefine the "using" field ([#82554](https://github.com/CleverRaven/Cataclysm-DDA/pull/82554))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-23-1006 ([3d01658](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-1006))
-
 * Routine i18n updates on 23 August 2025 ([#82553](https://github.com/CleverRaven/Cataclysm-DDA/pull/82553))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-23-0606 ([2232afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-23-0606))
-
 * Make armor value displays into a table ([#82505](https://github.com/CleverRaven/Cataclysm-DDA/pull/82505))
 * Default lowest moves option in dispose dialogue ([#82547](https://github.com/CleverRaven/Cataclysm-DDA/pull/82547))
 * [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
@@ -223,7 +225,6 @@
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
 * Update gun_variant_validator script ([#82462](https://github.com/CleverRaven/Cataclysm-DDA/pull/82462))
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
-* Evac flyer ([#82445](https://github.com/CleverRaven/Cataclysm-DDA/pull/82445))
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
@@ -233,7 +234,6 @@
 * [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
 * Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
 * Redraw "Saving game" message twice ([#82468](https://github.com/CleverRaven/Cataclysm-DDA/pull/82468))
-* Don't try relative/proportion if no copy-from ([#82446](https://github.com/CleverRaven/Cataclysm-DDA/pull/82446))
 * Scavenger anvil desc fix ([#82473](https://github.com/CleverRaven/Cataclysm-DDA/pull/82473))
 * Backrooms: remove mention of world settings from modinfo ([#82471](https://github.com/CleverRaven/Cataclysm-DDA/pull/82471))
 * [DDotD] Increase incidence of meadows in DDtoD ([#82448](https://github.com/CleverRaven/Cataclysm-DDA/pull/82448))
