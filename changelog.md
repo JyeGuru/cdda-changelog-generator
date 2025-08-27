@@ -1,3 +1,5 @@
+* Adds Arrow Recipes for Lathes ([#82522](https://github.com/CleverRaven/Cataclysm-DDA/pull/82522))
+* [Xedra Evolved] Add Blood Art Refinements and way to research them ([#82565](https://github.com/CleverRaven/Cataclysm-DDA/pull/82565))
 * More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
 * Present dispersion as MOA in item UI ([#82595](https://github.com/CleverRaven/Cataclysm-DDA/pull/82595))
 
@@ -227,9 +229,7 @@
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
 * [Xedra Evolved] Add second strange event--spotting a brownie in your faction camp ([#82486](https://github.com/CleverRaven/Cataclysm-DDA/pull/82486))
-* Routine i18n updates on 16 August 2025 ([#82458](https://github.com/CleverRaven/Cataclysm-DDA/pull/82458))
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
-* Update gun_variant_validator script ([#82462](https://github.com/CleverRaven/Cataclysm-DDA/pull/82462))
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
