@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-08-27-1442 (bc7c80a)
 * Add uncraft recipes for turrets in aftershock (#82517)
 * Adds Arrow Recipes for Lathes (#82522)
 * [Xedra Evolved] Add Blood Art Refinements and way to research them (#82565)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-08-24-1624 (b85daaa)
 
 Cataclysm-DDA experimental build 2025-08-24-1424 (fff5944)
 * Genericize iteminfo table drawing (#82558)
-
-Cataclysm-DDA experimental build 2025-08-24-0544 (d92a2a4)
 * Allow zooming during activities (#82561)
 * Fix some typos, mostly in NPC tutorial (#82552)
 * Update nail making (#82557)
