@@ -1,3 +1,4 @@
+* Add uncraft recipes for turrets in aftershock ([#82517](https://github.com/CleverRaven/Cataclysm-DDA/pull/82517))
 * Adds Arrow Recipes for Lathes ([#82522](https://github.com/CleverRaven/Cataclysm-DDA/pull/82522))
 * [Xedra Evolved] Add Blood Art Refinements and way to research them ([#82565](https://github.com/CleverRaven/Cataclysm-DDA/pull/82565))
 * More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
@@ -234,7 +235,6 @@
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
-* Remove dead draw below code ([#82463](https://github.com/CleverRaven/Cataclysm-DDA/pull/82463))
 * Finish removal of "pair of" and "pairs of" wording from all of the clothing and items ([#82469](https://github.com/CleverRaven/Cataclysm-DDA/pull/82469))
 * [Xedra Evolved] Distribute new flags to Paraclesian forms ([#82476](https://github.com/CleverRaven/Cataclysm-DDA/pull/82476))
 * [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
