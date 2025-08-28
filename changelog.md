@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-28-1340 ([782e73c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-28-1340))
+
+* [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-28-0130 ([f985f29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-28-0130))
 
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-08-25-1435 ([36bf7e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1435))
 
 * Fix Boris laptop quest ([#82581](https://github.com/CleverRaven/Cataclysm-DDA/pull/82581))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-25-0503 ([fa74674](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-0503))
-
 * Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
 * Fix the nail making fix ([#82576](https://github.com/CleverRaven/Cataclysm-DDA/pull/82576))
 * [Magiclysm] Add Aerial Assassin monster and `PERMANENT_INVISIBILITY` flag to go with it ([#82550](https://github.com/CleverRaven/Cataclysm-DDA/pull/82550))
@@ -241,4 +242,3 @@
 * [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
 * Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
 * Scavenger anvil desc fix ([#82473](https://github.com/CleverRaven/Cataclysm-DDA/pull/82473))
-* Backrooms: remove mention of world settings from modinfo ([#82471](https://github.com/CleverRaven/Cataclysm-DDA/pull/82471))
