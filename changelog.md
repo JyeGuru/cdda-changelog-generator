@@ -1,3 +1,10 @@
+* Use optional/mandatory for vpart_info and vpart_reqs. ([#82634](https://github.com/CleverRaven/Cataclysm-DDA/pull/82634))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-28-2330 ([01fbdfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-28-2330))
+
+* Fix conjuring void potatoes into existence through the fries recipe ([#82656](https://github.com/CleverRaven/Cataclysm-DDA/pull/82656))
 
 ---
 
@@ -189,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-08-25-1625 ([8ef81ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1625))
 
 * Make stale data warnings optional with build flag ([#82580](https://github.com/CleverRaven/Cataclysm-DDA/pull/82580))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-25-1526 ([9c9b9a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1526))
-
 * Several text corrections ([#82583](https://github.com/CleverRaven/Cataclysm-DDA/pull/82583))
 * Fix Boris laptop quest ([#82581](https://github.com/CleverRaven/Cataclysm-DDA/pull/82581))
 * Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
@@ -239,6 +241,4 @@
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
-* [Xedra Evolved] Distribute new flags to Paraclesian forms ([#82476](https://github.com/CleverRaven/Cataclysm-DDA/pull/82476))
-* [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
 * Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
