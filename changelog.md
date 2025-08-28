@@ -237,7 +237,6 @@
 * [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
 * [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
-* Finish removal of "pair of" and "pairs of" wording from all of the clothing and items ([#82469](https://github.com/CleverRaven/Cataclysm-DDA/pull/82469))
 * [Xedra Evolved] Distribute new flags to Paraclesian forms ([#82476](https://github.com/CleverRaven/Cataclysm-DDA/pull/82476))
 * [MoM] Add minor bit of text if you're one of the Fifth Sun and you see the Yrax Apeirohedron ([#82475](https://github.com/CleverRaven/Cataclysm-DDA/pull/82475))
 * Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
