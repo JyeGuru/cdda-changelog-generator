@@ -1,3 +1,6 @@
+* Contraband usbs in prisoner pockets ([#82641](https://github.com/CleverRaven/Cataclysm-DDA/pull/82641))
+* Add `ARTIFACT` subtype to ITEM.md ([#82654](https://github.com/CleverRaven/Cataclysm-DDA/pull/82654))
+* Use optional/mandatory for overmap data ([#82633](https://github.com/CleverRaven/Cataclysm-DDA/pull/82633))
 * Use optional/mandatory for vpart_info and vpart_reqs. ([#82634](https://github.com/CleverRaven/Cataclysm-DDA/pull/82634))
 
 ---
@@ -238,7 +241,4 @@
 * [Xedra Evolved] Add second strange event--spotting a brownie in your faction camp ([#82486](https://github.com/CleverRaven/Cataclysm-DDA/pull/82486))
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
-* [MoM] More Nether Attunement backlashes ([#82482](https://github.com/CleverRaven/Cataclysm-DDA/pull/82482))
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
-* [ Xedra Evolved ] In game help files "Learning new powers" ([#82477](https://github.com/CleverRaven/Cataclysm-DDA/pull/82477))
-* Change the default sidebar to be sidebar-mobile on mobile ([#82479](https://github.com/CleverRaven/Cataclysm-DDA/pull/82479))
