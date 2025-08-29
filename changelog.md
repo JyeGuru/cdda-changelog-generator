@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-29-1719 ([0c6dbe3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1719))
+
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
 
 ---
@@ -126,11 +131,6 @@
 #### Cataclysm-DDA experimental build 2025-08-26-1743 ([15ddb69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1743))
 
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-26-1657 ([daaf356](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-26-1657))
-
 * Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
 
 ---
