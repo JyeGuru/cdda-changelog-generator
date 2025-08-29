@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-29-2021 ([f42a0f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-2021))
+
+* Trim Chimera and apply "strict_threshreq": true, ([#82569](https://github.com/CleverRaven/Cataclysm-DDA/pull/82569))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-08-29-1936 ([bc2724c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-29-1936))
 
 * [0.I Backport]: Fix boomer bile EOC ([#82646](https://github.com/CleverRaven/Cataclysm-DDA/pull/82646))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-08-26-0256 ([b966b4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0256))
 
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-0209 ([3f1030d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0209))
-
 * Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
 * Fix missing space in basecamp expansion label ([#82578](https://github.com/CleverRaven/Cataclysm-DDA/pull/82578))
 * [XEDRA] Replace steel material in items with updated steel types to allow repairing ([#82586](https://github.com/CleverRaven/Cataclysm-DDA/pull/82586))
@@ -238,4 +239,3 @@
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
-* Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
