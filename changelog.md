@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-29-1619 ([f27a8fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1619))
+
+* Political prisoners don't wear striped pants with jumpsuits ([#82640](https://github.com/CleverRaven/Cataclysm-DDA/pull/82640))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-29-1407 ([f197f4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1407))
 
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
@@ -135,11 +141,6 @@
 * Fix c-format in translation files ([#82529](https://github.com/CleverRaven/Cataclysm-DDA/pull/82529))
 * Corrected hold the line logic ([#82571](https://github.com/CleverRaven/Cataclysm-DDA/pull/82571))
 * [ Xedra Evolved ] No riots in Vampire lairs ([#82606](https://github.com/CleverRaven/Cataclysm-DDA/pull/82606))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-26-1343 ([cef5bc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-26-1343))
-
 * Energy remaining now looks for battery ammo_types ([#82608](https://github.com/CleverRaven/Cataclysm-DDA/pull/82608))
 * Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))

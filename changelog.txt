@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-08-29-1619 (f27a8fa)
+* Political prisoners don't wear striped pants with jumpsuits (#82640)
+
 Cataclysm-DDA experimental build 2025-08-29-1407 (f197f4c)
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF (#82660)
 
@@ -72,8 +75,6 @@ Cataclysm-DDA experimental build 2025-08-26-1547 (24b8ebc)
 * Fix c-format in translation files (#82529)
 * Corrected hold the line logic (#82571)
 * [ Xedra Evolved ] No riots in Vampire lairs (#82606)
-
-Cataclysm-DDA 0.I release candidate 2025-08-26-1343 (cef5bc7)
 * Energy remaining now looks for battery ammo_types (#82608)
 * Prevent segfault when cancelling completed butchery (#82615)
 * Popcorn seeds are in the seeds category (#82614)
