@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-29-1407 ([f197f4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1407))
+
+* Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-29-0028 ([3aa1b84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-0028))
 
 * Contraband usbs in prisoner pockets ([#82641](https://github.com/CleverRaven/Cataclysm-DDA/pull/82641))
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-08-26-0002 ([88fd424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0002))
 
 * Fix HHG ([#82596](https://github.com/CleverRaven/Cataclysm-DDA/pull/82596))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-25-1741 ([c5788c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1741))
-
 * Weekly Changelog 2025-08-18 to 2025-08-25 ([#82587](https://github.com/CleverRaven/Cataclysm-DDA/pull/82587))
 * Make stale data warnings optional with build flag ([#82580](https://github.com/CleverRaven/Cataclysm-DDA/pull/82580))
 * Several text corrections ([#82583](https://github.com/CleverRaven/Cataclysm-DDA/pull/82583))
@@ -238,7 +239,6 @@
 * Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
-* [Xedra Evolved] Add second strange event--spotting a brownie in your faction camp ([#82486](https://github.com/CleverRaven/Cataclysm-DDA/pull/82486))
 * [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
 * [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
 * Display item name and owner for stealing prompt ([#82493](https://github.com/CleverRaven/Cataclysm-DDA/pull/82493))
