@@ -187,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-08-26-0359 ([dce78df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0359))
 
 * Remove typed (non-templated) assign readers  ([#82579](https://github.com/CleverRaven/Cataclysm-DDA/pull/82579))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-0256 ([b966b4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0256))
-
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
 * Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
 * Fix missing space in basecamp expansion label ([#82578](https://github.com/CleverRaven/Cataclysm-DDA/pull/82578))
