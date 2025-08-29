@@ -194,11 +194,6 @@
 
 * Fix missing space in basecamp expansion label ([#82578](https://github.com/CleverRaven/Cataclysm-DDA/pull/82578))
 * [XEDRA] Replace steel material in items with updated steel types to allow repairing ([#82586](https://github.com/CleverRaven/Cataclysm-DDA/pull/82586))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-0002 ([88fd424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0002))
-
 * Fix HHG ([#82596](https://github.com/CleverRaven/Cataclysm-DDA/pull/82596))
 * Weekly Changelog 2025-08-18 to 2025-08-25 ([#82587](https://github.com/CleverRaven/Cataclysm-DDA/pull/82587))
 * Make stale data warnings optional with build flag ([#82580](https://github.com/CleverRaven/Cataclysm-DDA/pull/82580))
