@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-29-0028 ([3aa1b84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-0028))
+
 * Contraband usbs in prisoner pockets ([#82641](https://github.com/CleverRaven/Cataclysm-DDA/pull/82641))
 * Add `ARTIFACT` subtype to ITEM.md ([#82654](https://github.com/CleverRaven/Cataclysm-DDA/pull/82654))
 * Use optional/mandatory for overmap data ([#82633](https://github.com/CleverRaven/Cataclysm-DDA/pull/82633))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-08-25-1741 ([c5788c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1741))
 
 * Weekly Changelog 2025-08-18 to 2025-08-25 ([#82587](https://github.com/CleverRaven/Cataclysm-DDA/pull/82587))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-25-1625 ([8ef81ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-25-1625))
-
 * Make stale data warnings optional with build flag ([#82580](https://github.com/CleverRaven/Cataclysm-DDA/pull/82580))
 * Several text corrections ([#82583](https://github.com/CleverRaven/Cataclysm-DDA/pull/82583))
 * Fix Boris laptop quest ([#82581](https://github.com/CleverRaven/Cataclysm-DDA/pull/82581))
