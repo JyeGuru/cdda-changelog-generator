@@ -1,3 +1,4 @@
+* Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
 
 ---
 
@@ -234,7 +235,6 @@
 * XL/XS Faraday Chainmail Pockets Tweak ([#82508](https://github.com/CleverRaven/Cataclysm-DDA/pull/82508))
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
 * Add uncraft recipes for turrets in aftershock ([#82501](https://github.com/CleverRaven/Cataclysm-DDA/pull/82501))
-* Add usage of default search radius for special placement ([#82489](https://github.com/CleverRaven/Cataclysm-DDA/pull/82489))
 * Tree bashing from being cut down is not a magic wand ([#82498](https://github.com/CleverRaven/Cataclysm-DDA/pull/82498))
 * Caseless weapons failure to feed ([#82504](https://github.com/CleverRaven/Cataclysm-DDA/pull/82504))
 * Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
