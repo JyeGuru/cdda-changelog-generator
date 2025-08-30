@@ -1,3 +1,4 @@
+* Account for threshold_substitutes in the mutation selector ([#82625](https://github.com/CleverRaven/Cataclysm-DDA/pull/82625))
 
 ---
 
@@ -216,7 +217,6 @@
 * Fix zzip_stack losing track of files after compaction. ([#82531](https://github.com/CleverRaven/Cataclysm-DDA/pull/82531))
 * Small hardened metal sheet recipe doesn't redefine the "using" field ([#82554](https://github.com/CleverRaven/Cataclysm-DDA/pull/82554))
 * Routine i18n updates on 23 August 2025 ([#82553](https://github.com/CleverRaven/Cataclysm-DDA/pull/82553))
-* Make armor value displays into a table ([#82505](https://github.com/CleverRaven/Cataclysm-DDA/pull/82505))
 * Default lowest moves option in dispose dialogue ([#82547](https://github.com/CleverRaven/Cataclysm-DDA/pull/82547))
 * [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
 * [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
