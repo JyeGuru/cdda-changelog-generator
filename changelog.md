@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-30-0413 ([7f1ab1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0413))
+
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
 
 ---
@@ -182,11 +187,6 @@
 * Reveal only contiguous subway/sewer from computer map ([#82573](https://github.com/CleverRaven/Cataclysm-DDA/pull/82573))
 * Energy remaining now looks for battery ammo_types ([#82563](https://github.com/CleverRaven/Cataclysm-DDA/pull/82563))
 * Allow `extend/delete` for non-container types with optional ([#82544](https://github.com/CleverRaven/Cataclysm-DDA/pull/82544))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-0517 ([47d0bb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0517))
-
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
 * Remove typed (non-templated) assign readers  ([#82579](https://github.com/CleverRaven/Cataclysm-DDA/pull/82579))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
