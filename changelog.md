@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-30-1709 ([55c0c49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-1709))
+
+* Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-30-0938 ([ca59aee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0938))
 
 * Account for threshold_substitutes in the mutation selector ([#82625](https://github.com/CleverRaven/Cataclysm-DDA/pull/82625))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-27-0026 ([4600df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-0026))
 
 * Prevent segfault when purifying water with connected vehicles ([#82626](https://github.com/CleverRaven/Cataclysm-DDA/pull/82626))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-1936 ([967f9b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1936))
-
 * Prevent segfault from teleport trap ([#82611](https://github.com/CleverRaven/Cataclysm-DDA/pull/82611))
 * Prevent segfault when purifying water with connected vehicles ([#82616](https://github.com/CleverRaven/Cataclysm-DDA/pull/82616))
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
@@ -230,7 +231,6 @@
 * Fix zzip_stack losing track of files after compaction. ([#82527](https://github.com/CleverRaven/Cataclysm-DDA/pull/82527))
 * Remove object creator and references to it ([#82520](https://github.com/CleverRaven/Cataclysm-DDA/pull/82520))
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
-* XL/XS Faraday Chainmail Pockets Tweak ([#82508](https://github.com/CleverRaven/Cataclysm-DDA/pull/82508))
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
