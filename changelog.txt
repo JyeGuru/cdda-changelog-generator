@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-08-30-0938 (ca59aee)
 * Account for threshold_substitutes in the mutation selector (#82625)
 
 Cataclysm-DDA experimental build 2025-08-30-0848 (cc1fe77)
@@ -88,8 +90,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-27-0026 (4600df9)
 Cataclysm-DDA experimental build 2025-08-26-1936 (967f9b5)
 * Prevent segfault from teleport trap (#82611)
 * Prevent segfault when purifying water with connected vehicles (#82616)
-
-Cataclysm-DDA experimental build 2025-08-26-1743 (15ddb69)
 * Pickaxes are made from less abstract steel (#82624)
 * Corrected hold the line logic (#82621)
 * Add deep fryers (#82546)
