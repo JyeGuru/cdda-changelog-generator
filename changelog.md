@@ -1,3 +1,10 @@
+* [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-30-0315 ([84d49c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0315))
+
+* Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
 
 ---
 
@@ -181,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-08-26-0517 ([47d0bb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0517))
 
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-0359 ([dce78df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0359))
-
 * Remove typed (non-templated) assign readers  ([#82579](https://github.com/CleverRaven/Cataclysm-DDA/pull/82579))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
 * Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
@@ -232,5 +234,3 @@
 * Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
-* [magic_type]: Fix cannot_cast_message logic ([#82497](https://github.com/CleverRaven/Cataclysm-DDA/pull/82497))
-* [Mods] Add `TRUE_SEEING` flag, apply to MoM's Clarity power ([#82495](https://github.com/CleverRaven/Cataclysm-DDA/pull/82495))
