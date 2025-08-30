@@ -232,6 +232,5 @@
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
 * XL/XS Faraday Chainmail Pockets Tweak ([#82508](https://github.com/CleverRaven/Cataclysm-DDA/pull/82508))
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
-* Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
