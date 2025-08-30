@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-08-30-0848 ([cc1fe77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0848))
+
+* Enchantment cache save corruption fix ([#82674](https://github.com/CleverRaven/Cataclysm-DDA/pull/82674))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-08-30-0521 ([5d98538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-30-0521))
 
 * Stop smashing stuff with your face ([#82619](https://github.com/CleverRaven/Cataclysm-DDA/pull/82619))
@@ -169,11 +175,6 @@
 
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
 * Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-1547 ([24b8ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1547))
-
 * Add deep fryers ([#82546](https://github.com/CleverRaven/Cataclysm-DDA/pull/82546))
 * Fries audit ([#82518](https://github.com/CleverRaven/Cataclysm-DDA/pull/82518))
 * Fix c-format in translation files ([#82529](https://github.com/CleverRaven/Cataclysm-DDA/pull/82529))
@@ -231,7 +232,6 @@
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
 * XL/XS Faraday Chainmail Pockets Tweak ([#82508](https://github.com/CleverRaven/Cataclysm-DDA/pull/82508))
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
-* Caseless weapons failure to feed ([#82504](https://github.com/CleverRaven/Cataclysm-DDA/pull/82504))
 * Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
 * Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
