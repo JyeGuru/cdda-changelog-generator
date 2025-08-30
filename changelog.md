@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.I release candidate 2025-08-30-0521 ([5d98538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-30-0521))
 
 * Stop smashing stuff with your face ([#82619](https://github.com/CleverRaven/Cataclysm-DDA/pull/82619))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-30-0616 ([de723be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0616))
+
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82588](https://github.com/CleverRaven/Cataclysm-DDA/pull/82588))
 * Aftershock: Clear variants in several copy-from items ([#82655](https://github.com/CleverRaven/Cataclysm-DDA/pull/82655))
 
@@ -177,11 +182,6 @@
 * Energy remaining now looks for battery ammo_types ([#82608](https://github.com/CleverRaven/Cataclysm-DDA/pull/82608))
 * Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-1251 ([e3c44c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1251))
-
 * Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
 * [MoM] Update concentration message every second ([#82575](https://github.com/CleverRaven/Cataclysm-DDA/pull/82575))
 * Fix invlets in keybindings window ([#82594](https://github.com/CleverRaven/Cataclysm-DDA/pull/82594))

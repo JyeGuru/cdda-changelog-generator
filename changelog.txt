@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.I release candidate 2025-08-30-0521 (5d98538)
 * Stop smashing stuff with your face (#82619)
+
+Cataclysm-DDA experimental build 2025-08-30-0616 (de723be)
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones (#82588)
 * Aftershock: Clear variants in several copy-from items (#82655)
 
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-08-26-1547 (24b8ebc)
 * Energy remaining now looks for battery ammo_types (#82608)
 * Prevent segfault when cancelling completed butchery (#82615)
 * Popcorn seeds are in the seeds category (#82614)
-
-Cataclysm-DDA experimental build 2025-08-26-1251 (e3c44c2)
 * Adjust mannequin decoy existence and related small fixes (#82612)
 * [MoM] Update concentration message every second (#82575)
 * Fix invlets in keybindings window (#82594)
