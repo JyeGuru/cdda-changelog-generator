@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-30-0521 ([5d98538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-30-0521))
+
+* Stop smashing stuff with your face ([#82619](https://github.com/CleverRaven/Cataclysm-DDA/pull/82619))
+* Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82588](https://github.com/CleverRaven/Cataclysm-DDA/pull/82588))
+* Aftershock: Clear variants in several copy-from items ([#82655](https://github.com/CleverRaven/Cataclysm-DDA/pull/82655))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-30-0413 ([7f1ab1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0413))
 
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
@@ -175,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-08-26-1251 ([e3c44c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-1251))
 
 * Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-26-0613 ([ac0235d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-26-0613))
-
 * [MoM] Update concentration message every second ([#82575](https://github.com/CleverRaven/Cataclysm-DDA/pull/82575))
 * Fix invlets in keybindings window ([#82594](https://github.com/CleverRaven/Cataclysm-DDA/pull/82594))
 * Fix crash for unset optional direction in mission ([#82592](https://github.com/CleverRaven/Cataclysm-DDA/pull/82592))
@@ -228,8 +231,6 @@
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
 * XL/XS Faraday Chainmail Pockets Tweak ([#82508](https://github.com/CleverRaven/Cataclysm-DDA/pull/82508))
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
-* Add uncraft recipes for turrets in aftershock ([#82501](https://github.com/CleverRaven/Cataclysm-DDA/pull/82501))
-* Tree bashing from being cut down is not a magic wand ([#82498](https://github.com/CleverRaven/Cataclysm-DDA/pull/82498))
 * Caseless weapons failure to feed ([#82504](https://github.com/CleverRaven/Cataclysm-DDA/pull/82504))
 * Monsters can now see you if you're invisible and they have the TRUESIGHT monster flag ([#82506](https://github.com/CleverRaven/Cataclysm-DDA/pull/82506))
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
