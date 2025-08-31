@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-31-2156 ([42dfdd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-31-2156))
+
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
 
 ---
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-08-27-0533 ([8eccbd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-0533))
 
 * Use semicolon for column separators in iteminfo table drawing ([#82609](https://github.com/CleverRaven/Cataclysm-DDA/pull/82609))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-27-0340 ([4acb587](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-0340))
-
 * Load recipe `using` with optional ([#82618](https://github.com/CleverRaven/Cataclysm-DDA/pull/82618))
 * Prevent segfault when cancelling completed butchery ([#82620](https://github.com/CleverRaven/Cataclysm-DDA/pull/82620))
 * Brick oven works as a fireplace ([#82622](https://github.com/CleverRaven/Cataclysm-DDA/pull/82622))
