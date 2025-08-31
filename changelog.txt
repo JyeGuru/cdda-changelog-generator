@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.I release candidate 2025-08-31-1715 (15ec6af)
 * Aftershock: Clear variants in several copy-from items (#82680)
+
+Cataclysm-DDA experimental build 2025-08-31-1750 (3d07400)
 * Silence data loss warning (#82686)
 
 Cataclysm-DDA 0.I release candidate 2025-08-31-1600 (5ff0e12)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2025-08-27-0533 (8eccbd5)
 Cataclysm-DDA experimental build 2025-08-27-0340 (4acb587)
 * Load recipe `using` with optional (#82618)
 * Prevent segfault when cancelling completed butchery (#82620)
-
-Cataclysm-DDA experimental build 2025-08-27-0034 (339627c)
 * Brick oven works as a fireplace (#82622)
 * Prevent segfault when purifying water with connected vehicles (#82626)
 * Prevent segfault from teleport trap (#82611)
