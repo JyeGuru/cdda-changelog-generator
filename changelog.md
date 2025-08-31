@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-08-31-0514 ([81d66f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-31-0514))
+
+* [Magiclysm] Limit Empty to affect only in-mod spells ([#82679](https://github.com/CleverRaven/Cataclysm-DDA/pull/82679))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-08-30-1709 ([55c0c49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-1709))
 
 * Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-08-27-0034 ([339627c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-0034))
 
 * Brick oven works as a fireplace ([#82622](https://github.com/CleverRaven/Cataclysm-DDA/pull/82622))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-27-0026 ([4600df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-0026))
-
 * Prevent segfault when purifying water with connected vehicles ([#82626](https://github.com/CleverRaven/Cataclysm-DDA/pull/82626))
 * Prevent segfault from teleport trap ([#82611](https://github.com/CleverRaven/Cataclysm-DDA/pull/82611))
 * Prevent segfault when purifying water with connected vehicles ([#82616](https://github.com/CleverRaven/Cataclysm-DDA/pull/82616))
@@ -233,4 +234,3 @@
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
 * Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
 * Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))
-* Fix eleavator -> elevator spelling ([#82509](https://github.com/CleverRaven/Cataclysm-DDA/pull/82509))
