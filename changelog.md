@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-31-1715 ([15ec6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-31-1715))
+
 * Aftershock: Clear variants in several copy-from items ([#82680](https://github.com/CleverRaven/Cataclysm-DDA/pull/82680))
 * Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
 
@@ -130,11 +135,6 @@
 #### Cataclysm-DDA experimental build 2025-08-27-1821 ([61d09a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1821))
 
 * Fix boomer bile EOC and remove !shouldfail test ([#82593](https://github.com/CleverRaven/Cataclysm-DDA/pull/82593))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-27-1442 ([bc7c80a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-1442))
-
 * Add uncraft recipes for turrets in aftershock ([#82517](https://github.com/CleverRaven/Cataclysm-DDA/pull/82517))
 
 ---

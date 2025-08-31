@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-08-31-1715 (15ec6af)
 * Aftershock: Clear variants in several copy-from items (#82680)
 * Silence data loss warning (#82686)
 
@@ -67,8 +69,6 @@ Cataclysm-DDA experimental build 2025-08-28-0130 (f985f29)
 
 Cataclysm-DDA experimental build 2025-08-27-1821 (61d09a9)
 * Fix boomer bile EOC and remove !shouldfail test (#82593)
-
-Cataclysm-DDA 0.I release candidate 2025-08-27-1442 (bc7c80a)
 * Add uncraft recipes for turrets in aftershock (#82517)
 
 Cataclysm-DDA experimental build 2025-08-27-1552 (1511f5e)
