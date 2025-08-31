@@ -1,3 +1,4 @@
+* [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
 
 ---
 
@@ -140,7 +141,6 @@
 #### Cataclysm-DDA experimental build 2025-08-27-1821 ([61d09a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1821))
 
 * Fix boomer bile EOC and remove !shouldfail test ([#82593](https://github.com/CleverRaven/Cataclysm-DDA/pull/82593))
-* Add uncraft recipes for turrets in aftershock ([#82517](https://github.com/CleverRaven/Cataclysm-DDA/pull/82517))
 
 ---
 
