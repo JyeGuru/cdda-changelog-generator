@@ -1,3 +1,4 @@
+* Aftershock: Clear variants in several copy-from items (#82680)
 * Silence data loss warning (#82686)
 
 Cataclysm-DDA 0.I release candidate 2025-08-31-1600 (5ff0e12)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-08-27-0034 (339627c)
 * Show both bub and abs coords in debug-editmap (#82530)
 * Fix zzip_stack losing track of files after compaction. (#82527)
 * Remove object creator and references to it (#82520)
-* Fix glue making you rich (#82515)

@@ -1,3 +1,4 @@
+* Aftershock: Clear variants in several copy-from items ([#82680](https://github.com/CleverRaven/Cataclysm-DDA/pull/82680))
 * Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
 
 ---
@@ -234,4 +235,3 @@
 * Show both bub and abs coords in debug-editmap ([#82530](https://github.com/CleverRaven/Cataclysm-DDA/pull/82530))
 * Fix zzip_stack losing track of files after compaction. ([#82527](https://github.com/CleverRaven/Cataclysm-DDA/pull/82527))
 * Remove object creator and references to it ([#82520](https://github.com/CleverRaven/Cataclysm-DDA/pull/82520))
-* Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
