@@ -1,3 +1,4 @@
+* [Magiclysm] Add the rust monster (#82698)
 
 Cataclysm-DDA experimental build 2025-08-31-2156 (42dfdd2)
 * [MoM] Fix Vitakinetic enervation debuff duration (#82706)
@@ -99,7 +100,6 @@ Cataclysm-DDA experimental build 2025-08-27-0533 (8eccbd5)
 * Pickaxes are made from less abstract steel (#82624)
 * Corrected hold the line logic (#82621)
 * Add deep fryers (#82546)
-* Fries audit (#82518)
 * Fix c-format in translation files (#82529)
 * Corrected hold the line logic (#82571)
 * [ Xedra Evolved ] No riots in Vampire lairs (#82606)
