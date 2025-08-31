@@ -1,3 +1,16 @@
+* Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-08-31-1600 ([5ff0e12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-31-1600))
+
+* [0.I] Revert unwanted parts of #82376 ([#82685](https://github.com/CleverRaven/Cataclysm-DDA/pull/82685))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-31-1600 ([2da5461](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-31-1600))
+
+* [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
 
 ---
 
@@ -137,11 +150,6 @@
 #### Cataclysm-DDA experimental build 2025-08-27-1407 ([76c89f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1407))
 
 * Star vampires have `PERMANENT_INVISIBILITY`, when they drink blood it applies `SUPPRESS_INVISIBILITY` ([#82604](https://github.com/CleverRaven/Cataclysm-DDA/pull/82604))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-27-1238 ([b3a4677](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-1238))
-
 * Prevent segfault from teleport trap ([#82627](https://github.com/CleverRaven/Cataclysm-DDA/pull/82627))
 
 ---
@@ -161,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2025-08-27-0340 ([4acb587](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-0340))
 
 * Load recipe `using` with optional ([#82618](https://github.com/CleverRaven/Cataclysm-DDA/pull/82618))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-27-0339 ([5ebd956](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-27-0339))
-
 * Prevent segfault when cancelling completed butchery ([#82620](https://github.com/CleverRaven/Cataclysm-DDA/pull/82620))
 
 ---
@@ -232,5 +235,3 @@
 * Fix zzip_stack losing track of files after compaction. ([#82527](https://github.com/CleverRaven/Cataclysm-DDA/pull/82527))
 * Remove object creator and references to it ([#82520](https://github.com/CleverRaven/Cataclysm-DDA/pull/82520))
 * Fix glue making you rich ([#82515](https://github.com/CleverRaven/Cataclysm-DDA/pull/82515))
-* Prevent Balthazar secubots from being turned into human sausages ([#82513](https://github.com/CleverRaven/Cataclysm-DDA/pull/82513))
-* Add TRUE_SEEING as possible activatable artifact property ([#82510](https://github.com/CleverRaven/Cataclysm-DDA/pull/82510))

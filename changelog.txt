@@ -1,3 +1,10 @@
+* Silence data loss warning (#82686)
+
+Cataclysm-DDA 0.I release candidate 2025-08-31-1600 (5ff0e12)
+* [0.I] Revert unwanted parts of #82376 (#82685)
+
+Cataclysm-DDA experimental build 2025-08-31-1600 (2da5461)
+* [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged (#82696)
 
 Cataclysm-DDA 0.I release candidate 2025-08-31-0514 (81d66f2)
 * [Magiclysm] Limit Empty to affect only in-mod spells (#82679)
@@ -71,8 +78,6 @@ Cataclysm-DDA experimental build 2025-08-27-1552 (1511f5e)
 
 Cataclysm-DDA experimental build 2025-08-27-1407 (76c89f3)
 * Star vampires have `PERMANENT_INVISIBILITY`, when they drink blood it applies `SUPPRESS_INVISIBILITY` (#82604)
-
-Cataclysm-DDA 0.I release candidate 2025-08-27-1238 (b3a4677)
 * Prevent segfault from teleport trap (#82627)
 
 Cataclysm-DDA experimental build 2025-08-27-1228 (1c5f28f)
@@ -83,8 +88,6 @@ Cataclysm-DDA experimental build 2025-08-27-0533 (8eccbd5)
 
 Cataclysm-DDA experimental build 2025-08-27-0340 (4acb587)
 * Load recipe `using` with optional (#82618)
-
-Cataclysm-DDA 0.I release candidate 2025-08-27-0339 (5ebd956)
 * Prevent segfault when cancelling completed butchery (#82620)
 
 Cataclysm-DDA experimental build 2025-08-27-0034 (339627c)
@@ -148,5 +151,3 @@ Cataclysm-DDA experimental build 2025-08-27-0034 (339627c)
 * Fix zzip_stack losing track of files after compaction. (#82527)
 * Remove object creator and references to it (#82520)
 * Fix glue making you rich (#82515)
-* Prevent Balthazar secubots from being turned into human sausages (#82513)
-* Add TRUE_SEEING as possible activatable artifact property (#82510)
