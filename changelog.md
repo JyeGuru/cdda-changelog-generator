@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-08-31-2341 ([5ae275f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-31-2341))
+
 * [Magiclysm] Add the rust monster ([#82698](https://github.com/CleverRaven/Cataclysm-DDA/pull/82698))
 
 ---
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-08-27-1228 ([1c5f28f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1228))
 
 * Move map extra list creation out of optional json loading check ([#82629](https://github.com/CleverRaven/Cataclysm-DDA/pull/82629))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-27-0533 ([8eccbd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-0533))
-
 * Use semicolon for column separators in iteminfo table drawing ([#82609](https://github.com/CleverRaven/Cataclysm-DDA/pull/82609))
 * Load recipe `using` with optional ([#82618](https://github.com/CleverRaven/Cataclysm-DDA/pull/82618))
 * Prevent segfault when cancelling completed butchery ([#82620](https://github.com/CleverRaven/Cataclysm-DDA/pull/82620))
