@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-09-01-1644 ([bfd4a19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-01-1644))
+
+* Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82681](https://github.com/CleverRaven/Cataclysm-DDA/pull/82681))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-01-1327 ([15cf7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-01-1327))
 
 * Make cooking oils charges slightly more convenient ([#82683](https://github.com/CleverRaven/Cataclysm-DDA/pull/82683))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-08-28-1340 ([782e73c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-28-1340))
 
 * [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-28-0130 ([f985f29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-28-0130))
-
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
 * Fix boomer bile EOC and remove !shouldfail test ([#82593](https://github.com/CleverRaven/Cataclysm-DDA/pull/82593))
 * [Xedra Evolved] Add Blood Art Refinements and way to research them ([#82565](https://github.com/CleverRaven/Cataclysm-DDA/pull/82565))
@@ -233,4 +234,3 @@
 * [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
 * Call T::finalize from generic_factory<T>::finalize ([#82535](https://github.com/CleverRaven/Cataclysm-DDA/pull/82535))
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
-* [Xedra Evolved] Add Nether cult artifacts ([#82532](https://github.com/CleverRaven/Cataclysm-DDA/pull/82532))
