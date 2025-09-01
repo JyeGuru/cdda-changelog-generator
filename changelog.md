@@ -226,7 +226,6 @@
 * [Xedra Evolved] Vampires are pale, and so are dhampirs with the Corpselike Pallor flaw ([#82564](https://github.com/CleverRaven/Cataclysm-DDA/pull/82564))
 * Add wait duration for followers to catch up ([#82562](https://github.com/CleverRaven/Cataclysm-DDA/pull/82562))
 * Bronze metalworking tongs don't require steel smithing tools ([#82559](https://github.com/CleverRaven/Cataclysm-DDA/pull/82559))
-* Fix zzip_stack losing track of files after compaction. ([#82531](https://github.com/CleverRaven/Cataclysm-DDA/pull/82531))
 * Small hardened metal sheet recipe doesn't redefine the "using" field ([#82554](https://github.com/CleverRaven/Cataclysm-DDA/pull/82554))
 * Routine i18n updates on 23 August 2025 ([#82553](https://github.com/CleverRaven/Cataclysm-DDA/pull/82553))
 * Default lowest moves option in dispose dialogue ([#82547](https://github.com/CleverRaven/Cataclysm-DDA/pull/82547))
