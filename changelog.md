@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-01-1732 ([a228f4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-01-1732))
+
+* Fix turret install requirements ([#82693](https://github.com/CleverRaven/Cataclysm-DDA/pull/82693))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-09-01-1644 ([bfd4a19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-01-1644))
 
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82681](https://github.com/CleverRaven/Cataclysm-DDA/pull/82681))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-08-28-2047 ([4b91b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-28-2047))
 
 * [Magiclysm] Add Seeing the Unseen animist spell ([#82636](https://github.com/CleverRaven/Cataclysm-DDA/pull/82636))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-28-1340 ([782e73c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-28-1340))
-
 * [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
 * Fix boomer bile EOC and remove !shouldfail test ([#82593](https://github.com/CleverRaven/Cataclysm-DDA/pull/82593))
@@ -232,5 +233,4 @@
 * Default lowest moves option in dispose dialogue ([#82547](https://github.com/CleverRaven/Cataclysm-DDA/pull/82547))
 * [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
 * [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
-* Call T::finalize from generic_factory<T>::finalize ([#82535](https://github.com/CleverRaven/Cataclysm-DDA/pull/82535))
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
