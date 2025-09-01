@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-01-0651 ([70843e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-01-0651))
+
 * Set and show default values for most query_int ([#82556](https://github.com/CleverRaven/Cataclysm-DDA/pull/82556))
 * Replace ar15 with modular_ar15 in looks_likes ([#82709](https://github.com/CleverRaven/Cataclysm-DDA/pull/82709))
 * [MoM] Silent One adjustments ([#82695](https://github.com/CleverRaven/Cataclysm-DDA/pull/82695))
