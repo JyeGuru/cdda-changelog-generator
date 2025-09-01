@@ -1,3 +1,20 @@
+* Set and show default values for most query_int ([#82556](https://github.com/CleverRaven/Cataclysm-DDA/pull/82556))
+* Replace ar15 with modular_ar15 in looks_likes ([#82709](https://github.com/CleverRaven/Cataclysm-DDA/pull/82709))
+* [MoM] Silent One adjustments ([#82695](https://github.com/CleverRaven/Cataclysm-DDA/pull/82695))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-01-0521 ([d7d053f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-01-0521))
+
+* Fix monster spell message being printed even when it's empty ([#82678](https://github.com/CleverRaven/Cataclysm-DDA/pull/82678))
+* Fix chitinous scale mail hoods having 0 encumbrance ([#82715](https://github.com/CleverRaven/Cataclysm-DDA/pull/82715))
+* [MoM] Rework crystal field spawns ([#82711](https://github.com/CleverRaven/Cataclysm-DDA/pull/82711))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-01-0518 ([bff9ae0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-01-0518))
+
+* Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))
 
 ---
 
@@ -152,27 +169,11 @@
 #### Cataclysm-DDA experimental build 2025-08-27-1821 ([61d09a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1821))
 
 * Fix boomer bile EOC and remove !shouldfail test ([#82593](https://github.com/CleverRaven/Cataclysm-DDA/pull/82593))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-27-1552 ([1511f5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1552))
-
-* Adds Arrow Recipes for Lathes ([#82522](https://github.com/CleverRaven/Cataclysm-DDA/pull/82522))
 * [Xedra Evolved] Add Blood Art Refinements and way to research them ([#82565](https://github.com/CleverRaven/Cataclysm-DDA/pull/82565))
 * More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
 * Present dispersion as MOA in item UI ([#82595](https://github.com/CleverRaven/Cataclysm-DDA/pull/82595))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-27-1407 ([76c89f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1407))
-
 * Star vampires have `PERMANENT_INVISIBILITY`, when they drink blood it applies `SUPPRESS_INVISIBILITY` ([#82604](https://github.com/CleverRaven/Cataclysm-DDA/pull/82604))
 * Prevent segfault from teleport trap ([#82627](https://github.com/CleverRaven/Cataclysm-DDA/pull/82627))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-27-1228 ([1c5f28f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-27-1228))
-
 * Move map extra list creation out of optional json loading check ([#82629](https://github.com/CleverRaven/Cataclysm-DDA/pull/82629))
 * Use semicolon for column separators in iteminfo table drawing ([#82609](https://github.com/CleverRaven/Cataclysm-DDA/pull/82609))
 * Load recipe `using` with optional ([#82618](https://github.com/CleverRaven/Cataclysm-DDA/pull/82618))
@@ -184,7 +185,6 @@
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
 * Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
 * Add deep fryers ([#82546](https://github.com/CleverRaven/Cataclysm-DDA/pull/82546))
-* Fix c-format in translation files ([#82529](https://github.com/CleverRaven/Cataclysm-DDA/pull/82529))
 * Corrected hold the line logic ([#82571](https://github.com/CleverRaven/Cataclysm-DDA/pull/82571))
 * [ Xedra Evolved ] No riots in Vampire lairs ([#82606](https://github.com/CleverRaven/Cataclysm-DDA/pull/82606))
 * Energy remaining now looks for battery ammo_types ([#82608](https://github.com/CleverRaven/Cataclysm-DDA/pull/82608))
@@ -227,11 +227,6 @@
 * [Xedra Evolved] Moroi rework ([#82541](https://github.com/CleverRaven/Cataclysm-DDA/pull/82541))
 * [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
 * Call T::finalize from generic_factory<T>::finalize ([#82535](https://github.com/CleverRaven/Cataclysm-DDA/pull/82535))
-* Fix #82472 Vegan Butter has no calories ([#82526](https://github.com/CleverRaven/Cataclysm-DDA/pull/82526))
-* mandatory/optional for monstergenerator ([#82519](https://github.com/CleverRaven/Cataclysm-DDA/pull/82519))
 * [Magiclysm] Regularize goblin and lizardfolk attack techniques ([#82537](https://github.com/CleverRaven/Cataclysm-DDA/pull/82537))
-* Remove attunement altar iexamine code ([#82521](https://github.com/CleverRaven/Cataclysm-DDA/pull/82521))
 * [Xedra Evolved] Add Nether cult artifacts ([#82532](https://github.com/CleverRaven/Cataclysm-DDA/pull/82532))
 * Show both bub and abs coords in debug-editmap ([#82530](https://github.com/CleverRaven/Cataclysm-DDA/pull/82530))
-* Fix zzip_stack losing track of files after compaction. ([#82527](https://github.com/CleverRaven/Cataclysm-DDA/pull/82527))
-* Remove object creator and references to it ([#82520](https://github.com/CleverRaven/Cataclysm-DDA/pull/82520))
