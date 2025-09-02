@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-02-1434 (b3c2bb2)
 * Mutation selection stops at certain points (#82649)
 
 Cataclysm-DDA 0.I release candidate 2025-09-02-1317 (aa0ccb7)
@@ -85,8 +87,6 @@ Cataclysm-DDA experimental build 2025-08-29-1619 (f27a8fa)
 
 Cataclysm-DDA experimental build 2025-08-29-1407 (f197f4c)
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF (#82660)
-
-Cataclysm-DDA experimental build 2025-08-29-0028 (3aa1b84)
 * Contraband usbs in prisoner pockets (#82641)
 * Add `ARTIFACT` subtype to ITEM.md (#82654)
 * Use optional/mandatory for overmap data (#82633)

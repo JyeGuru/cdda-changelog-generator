@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-02-1434 ([b3c2bb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-02-1434))
+
 * Mutation selection stops at certain points ([#82649](https://github.com/CleverRaven/Cataclysm-DDA/pull/82649))
 
 ---
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2025-08-29-1407 ([f197f4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1407))
 
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-29-0028 ([3aa1b84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-0028))
-
 * Contraband usbs in prisoner pockets ([#82641](https://github.com/CleverRaven/Cataclysm-DDA/pull/82641))
 * Add `ARTIFACT` subtype to ITEM.md ([#82654](https://github.com/CleverRaven/Cataclysm-DDA/pull/82654))
 * Use optional/mandatory for overmap data ([#82633](https://github.com/CleverRaven/Cataclysm-DDA/pull/82633))
