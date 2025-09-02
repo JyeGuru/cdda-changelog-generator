@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-02-1942 (f57a190)
+* eoc: migrate x_or_var helper structs to generic_factory (#82687)
+
 Cataclysm-DDA experimental build 2025-09-02-1434 (b3c2bb2)
 * Mutation selection stops at certain points (#82649)
 
@@ -75,8 +78,6 @@ Cataclysm-DDA experimental build 2025-08-30-0315 (84d49c6)
 
 Cataclysm-DDA experimental build 2025-08-29-2021 (f42a0f0)
 * Trim Chimera and apply "strict_threshreq": true, (#82569)
-
-Cataclysm-DDA 0.I release candidate 2025-08-29-1936 (bc2724c)
 * [0.I Backport]: Fix boomer bile EOC (#82646)
 
 Cataclysm-DDA experimental build 2025-08-29-1719 (0c6dbe3)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-08-29-1407 (f197f4c)
 * Small hardened metal sheet recipe doesn't redefine the "using" field (#82554)
 * Routine i18n updates on 23 August 2025 (#82553)
 * Default lowest moves option in dispose dialogue (#82547)
-* [XEDRA Evolved] Devariant gossamer dress (#82543)

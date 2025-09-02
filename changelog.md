@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-02-1942 ([f57a190](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-02-1942))
+
+* eoc: migrate x_or_var helper structs to generic_factory ([#82687](https://github.com/CleverRaven/Cataclysm-DDA/pull/82687))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-02-1434 ([b3c2bb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-02-1434))
 
 * Mutation selection stops at certain points ([#82649](https://github.com/CleverRaven/Cataclysm-DDA/pull/82649))
@@ -147,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2025-08-29-2021 ([f42a0f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-2021))
 
 * Trim Chimera and apply "strict_threshreq": true, ([#82569](https://github.com/CleverRaven/Cataclysm-DDA/pull/82569))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-29-1936 ([bc2724c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-29-1936))
-
 * [0.I Backport]: Fix boomer bile EOC ([#82646](https://github.com/CleverRaven/Cataclysm-DDA/pull/82646))
 
 ---
@@ -234,4 +235,3 @@
 * Small hardened metal sheet recipe doesn't redefine the "using" field ([#82554](https://github.com/CleverRaven/Cataclysm-DDA/pull/82554))
 * Routine i18n updates on 23 August 2025 ([#82553](https://github.com/CleverRaven/Cataclysm-DDA/pull/82553))
 * Default lowest moves option in dispose dialogue ([#82547](https://github.com/CleverRaven/Cataclysm-DDA/pull/82547))
-* [XEDRA Evolved] Devariant gossamer dress ([#82543](https://github.com/CleverRaven/Cataclysm-DDA/pull/82543))
