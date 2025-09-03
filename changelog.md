@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-03-1825 ([b0e653d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-1825))
+
+* eoc: fix loading time of value_or_var ([#82740](https://github.com/CleverRaven/Cataclysm-DDA/pull/82740))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-03-0632 ([0dfb85c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-0632))
 
 * Use optional/mandatory in place of assign in monstergenerator.cpp ([#82667](https://github.com/CleverRaven/Cataclysm-DDA/pull/82667))
@@ -169,11 +175,6 @@
 
 * Trim Chimera and apply "strict_threshreq": true, ([#82569](https://github.com/CleverRaven/Cataclysm-DDA/pull/82569))
 * [0.I Backport]: Fix boomer bile EOC ([#82646](https://github.com/CleverRaven/Cataclysm-DDA/pull/82646))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-29-1719 ([0c6dbe3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1719))
-
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
 * Political prisoners don't wear striped pants with jumpsuits ([#82640](https://github.com/CleverRaven/Cataclysm-DDA/pull/82640))
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
@@ -227,6 +228,5 @@
 * Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
 * Fix the nail making fix ([#82576](https://github.com/CleverRaven/Cataclysm-DDA/pull/82576))
 * [Magiclysm] Fix triffid vineweavers attacking their own summons ([#82567](https://github.com/CleverRaven/Cataclysm-DDA/pull/82567))
-* Allow zooming during activities ([#82561](https://github.com/CleverRaven/Cataclysm-DDA/pull/82561))
 * [Xedra Evolved] Vampires are pale, and so are dhampirs with the Corpselike Pallor flaw ([#82564](https://github.com/CleverRaven/Cataclysm-DDA/pull/82564))
 * Add wait duration for followers to catch up ([#82562](https://github.com/CleverRaven/Cataclysm-DDA/pull/82562))
