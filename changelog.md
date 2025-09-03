@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-03-2008 ([5e039be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-03-2008))
+
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82668](https://github.com/CleverRaven/Cataclysm-DDA/pull/82668))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-08-30-0315 ([84d49c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0315))
 
 * Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-29-2021 ([f42a0f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-2021))
-
 * Trim Chimera and apply "strict_threshreq": true, ([#82569](https://github.com/CleverRaven/Cataclysm-DDA/pull/82569))
 * [0.I Backport]: Fix boomer bile EOC ([#82646](https://github.com/CleverRaven/Cataclysm-DDA/pull/82646))
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
