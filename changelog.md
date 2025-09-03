@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-03-0542 ([12aec17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-0542))
+
+* Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-02-1942 ([f57a190](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-02-1942))
 
 * eoc: migrate x_or_var helper structs to generic_factory ([#82687](https://github.com/CleverRaven/Cataclysm-DDA/pull/82687))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-08-29-1619 ([f27a8fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1619))
 
 * Political prisoners don't wear striped pants with jumpsuits ([#82640](https://github.com/CleverRaven/Cataclysm-DDA/pull/82640))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-29-1407 ([f197f4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1407))
-
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
 * Contraband usbs in prisoner pockets ([#82641](https://github.com/CleverRaven/Cataclysm-DDA/pull/82641))
 * Add `ARTIFACT` subtype to ITEM.md ([#82654](https://github.com/CleverRaven/Cataclysm-DDA/pull/82654))
@@ -209,7 +210,6 @@
 * Improve check for starting fire near fireplace ([#82574](https://github.com/CleverRaven/Cataclysm-DDA/pull/82574))
 * Reveal only contiguous subway/sewer from computer map ([#82573](https://github.com/CleverRaven/Cataclysm-DDA/pull/82573))
 * Energy remaining now looks for battery ammo_types ([#82563](https://github.com/CleverRaven/Cataclysm-DDA/pull/82563))
-* Allow `extend/delete` for non-container types with optional ([#82544](https://github.com/CleverRaven/Cataclysm-DDA/pull/82544))
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
 * Remove typed (non-templated) assign readers  ([#82579](https://github.com/CleverRaven/Cataclysm-DDA/pull/82579))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
