@@ -1,3 +1,11 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-03-0632 ([0dfb85c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-0632))
+
+* Use optional/mandatory in place of assign in monstergenerator.cpp ([#82667](https://github.com/CleverRaven/Cataclysm-DDA/pull/82667))
+* Use optional/mandatory for more vpart_info fields ([#82666](https://github.com/CleverRaven/Cataclysm-DDA/pull/82666))
+* Add debug menu entry to spawn npc in player faction ([#82664](https://github.com/CleverRaven/Cataclysm-DDA/pull/82664))
 * Changed restock time display ([#82726](https://github.com/CleverRaven/Cataclysm-DDA/pull/82726))
 * optional/mandatory for some iuse actors ([#82728](https://github.com/CleverRaven/Cataclysm-DDA/pull/82728))
 * [Magiclysm] The Forge Lords won't take clothes ([#82735](https://github.com/CleverRaven/Cataclysm-DDA/pull/82735))
@@ -167,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-08-29-1719 ([0c6dbe3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1719))
 
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-29-1619 ([f27a8fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-29-1619))
-
 * Political prisoners don't wear striped pants with jumpsuits ([#82640](https://github.com/CleverRaven/Cataclysm-DDA/pull/82640))
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
 * Contraband usbs in prisoner pockets ([#82641](https://github.com/CleverRaven/Cataclysm-DDA/pull/82641))
@@ -224,9 +227,6 @@
 * Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
 * Fix the nail making fix ([#82576](https://github.com/CleverRaven/Cataclysm-DDA/pull/82576))
 * [Magiclysm] Fix triffid vineweavers attacking their own summons ([#82567](https://github.com/CleverRaven/Cataclysm-DDA/pull/82567))
-* Genericize iteminfo table drawing ([#82558](https://github.com/CleverRaven/Cataclysm-DDA/pull/82558))
 * Allow zooming during activities ([#82561](https://github.com/CleverRaven/Cataclysm-DDA/pull/82561))
-* Update nail making ([#82557](https://github.com/CleverRaven/Cataclysm-DDA/pull/82557))
 * [Xedra Evolved] Vampires are pale, and so are dhampirs with the Corpselike Pallor flaw ([#82564](https://github.com/CleverRaven/Cataclysm-DDA/pull/82564))
 * Add wait duration for followers to catch up ([#82562](https://github.com/CleverRaven/Cataclysm-DDA/pull/82562))
-* Bronze metalworking tongs don't require steel smithing tools ([#82559](https://github.com/CleverRaven/Cataclysm-DDA/pull/82559))
