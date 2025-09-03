@@ -1,3 +1,10 @@
+* Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82668](https://github.com/CleverRaven/Cataclysm-DDA/pull/82668))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-03-1916 ([811319b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-03-1916))
+
+* Use generic_u8string() for map key strings because worlds can have unicode names ([#82672](https://github.com/CleverRaven/Cataclysm-DDA/pull/82672))
 
 ---
 
@@ -213,7 +220,6 @@
 * Fix crash for unset optional direction in mission ([#82592](https://github.com/CleverRaven/Cataclysm-DDA/pull/82592))
 * Improve check for starting fire near fireplace ([#82574](https://github.com/CleverRaven/Cataclysm-DDA/pull/82574))
 * Reveal only contiguous subway/sewer from computer map ([#82573](https://github.com/CleverRaven/Cataclysm-DDA/pull/82573))
-* Energy remaining now looks for battery ammo_types ([#82563](https://github.com/CleverRaven/Cataclysm-DDA/pull/82563))
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
 * Remove typed (non-templated) assign readers  ([#82579](https://github.com/CleverRaven/Cataclysm-DDA/pull/82579))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
@@ -229,4 +235,3 @@
 * Fix the nail making fix ([#82576](https://github.com/CleverRaven/Cataclysm-DDA/pull/82576))
 * [Magiclysm] Fix triffid vineweavers attacking their own summons ([#82567](https://github.com/CleverRaven/Cataclysm-DDA/pull/82567))
 * [Xedra Evolved] Vampires are pale, and so are dhampirs with the Corpselike Pallor flaw ([#82564](https://github.com/CleverRaven/Cataclysm-DDA/pull/82564))
-* Add wait duration for followers to catch up ([#82562](https://github.com/CleverRaven/Cataclysm-DDA/pull/82562))
