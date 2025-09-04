@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-09-04-1735 ([bceec3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-04-1735))
+
+* Aftershock: Harvest snow with shovels ([#82738](https://github.com/CleverRaven/Cataclysm-DDA/pull/82738))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-04-0329 ([e7eb002](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-0329))
 
 * Change "The first day of the rest of their unlives" achievement time passed requirement from 24h to 16h ([#82731](https://github.com/CleverRaven/Cataclysm-DDA/pull/82731))
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-08-30-0848 ([cc1fe77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0848))
 
 * Enchantment cache save corruption fix ([#82674](https://github.com/CleverRaven/Cataclysm-DDA/pull/82674))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-30-0521 ([5d98538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-30-0521))
-
 * Stop smashing stuff with your face ([#82619](https://github.com/CleverRaven/Cataclysm-DDA/pull/82619))
 
 ---
@@ -238,4 +239,3 @@
 * Fix Boris laptop quest ([#82581](https://github.com/CleverRaven/Cataclysm-DDA/pull/82581))
 * Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
 * Fix the nail making fix ([#82576](https://github.com/CleverRaven/Cataclysm-DDA/pull/82576))
-* [Magiclysm] Fix triffid vineweavers attacking their own summons ([#82567](https://github.com/CleverRaven/Cataclysm-DDA/pull/82567))
