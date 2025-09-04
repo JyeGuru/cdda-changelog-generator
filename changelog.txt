@@ -1,3 +1,4 @@
+* [XEDRA Evolved] gossamer clothing devarianting (#82750)
 
 Cataclysm-DDA experimental build 2025-09-04-1901 (58b83bb)
 * fix balthazar bunker trying to update yet to be generated map (#82722)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2025-08-30-0413 (7f1ab1c)
 * Prevent segfault when purifying water with connected vehicles (#82616)
 * Pickaxes are made from less abstract steel (#82624)
 * Corrected hold the line logic (#82621)
-* Corrected hold the line logic (#82571)
 * [ Xedra Evolved ] No riots in Vampire lairs (#82606)
 * Energy remaining now looks for battery ammo_types (#82608)
 * Prevent segfault when cancelling completed butchery (#82615)

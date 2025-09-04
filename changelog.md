@@ -1,3 +1,4 @@
+* [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
 
 ---
 
@@ -215,7 +216,6 @@
 * Prevent segfault when purifying water with connected vehicles ([#82616](https://github.com/CleverRaven/Cataclysm-DDA/pull/82616))
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
 * Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
-* Corrected hold the line logic ([#82571](https://github.com/CleverRaven/Cataclysm-DDA/pull/82571))
 * [ Xedra Evolved ] No riots in Vampire lairs ([#82606](https://github.com/CleverRaven/Cataclysm-DDA/pull/82606))
 * Energy remaining now looks for battery ammo_types ([#82608](https://github.com/CleverRaven/Cataclysm-DDA/pull/82608))
 * Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
