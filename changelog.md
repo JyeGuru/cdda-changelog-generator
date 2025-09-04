@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-04-0329 ([e7eb002](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-0329))
+
+* Change "The first day of the rest of their unlives" achievement time passed requirement from 24h to 16h ([#82731](https://github.com/CleverRaven/Cataclysm-DDA/pull/82731))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-09-03-2008 ([5e039be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-03-2008))
 
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82668](https://github.com/CleverRaven/Cataclysm-DDA/pull/82668))
@@ -234,4 +240,3 @@
 * Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
 * Fix the nail making fix ([#82576](https://github.com/CleverRaven/Cataclysm-DDA/pull/82576))
 * [Magiclysm] Fix triffid vineweavers attacking their own summons ([#82567](https://github.com/CleverRaven/Cataclysm-DDA/pull/82567))
-* [Xedra Evolved] Vampires are pale, and so are dhampirs with the Corpselike Pallor flaw ([#82564](https://github.com/CleverRaven/Cataclysm-DDA/pull/82564))
