@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-04-2145 ([1c54e34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-2145))
+
+* Aftersock: Vendor gear and price related tweaks. ([#82743](https://github.com/CleverRaven/Cataclysm-DDA/pull/82743))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-04-2017 ([8e6e887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-2017))
 
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
@@ -180,11 +186,6 @@
 
 * Enchantment cache save corruption fix ([#82674](https://github.com/CleverRaven/Cataclysm-DDA/pull/82674))
 * Stop smashing stuff with your face ([#82619](https://github.com/CleverRaven/Cataclysm-DDA/pull/82619))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-30-0616 ([de723be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0616))
-
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82588](https://github.com/CleverRaven/Cataclysm-DDA/pull/82588))
 * Aftershock: Clear variants in several copy-from items ([#82655](https://github.com/CleverRaven/Cataclysm-DDA/pull/82655))
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
@@ -225,7 +226,6 @@
 * Fix invlets in keybindings window ([#82594](https://github.com/CleverRaven/Cataclysm-DDA/pull/82594))
 * Fix crash for unset optional direction in mission ([#82592](https://github.com/CleverRaven/Cataclysm-DDA/pull/82592))
 * Improve check for starting fire near fireplace ([#82574](https://github.com/CleverRaven/Cataclysm-DDA/pull/82574))
-* Reveal only contiguous subway/sewer from computer map ([#82573](https://github.com/CleverRaven/Cataclysm-DDA/pull/82573))
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
 * Remove typed (non-templated) assign readers  ([#82579](https://github.com/CleverRaven/Cataclysm-DDA/pull/82579))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
