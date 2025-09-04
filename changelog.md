@@ -200,7 +200,6 @@
 * [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
 * Fix boomer bile EOC and remove !shouldfail test ([#82593](https://github.com/CleverRaven/Cataclysm-DDA/pull/82593))
-* [Xedra Evolved] Add Blood Art Refinements and way to research them ([#82565](https://github.com/CleverRaven/Cataclysm-DDA/pull/82565))
 * More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
 * Present dispersion as MOA in item UI ([#82595](https://github.com/CleverRaven/Cataclysm-DDA/pull/82595))
 * Star vampires have `PERMANENT_INVISIBILITY`, when they drink blood it applies `SUPPRESS_INVISIBILITY` ([#82604](https://github.com/CleverRaven/Cataclysm-DDA/pull/82604))
