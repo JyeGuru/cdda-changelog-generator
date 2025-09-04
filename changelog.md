@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-04-1901 ([58b83bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-1901))
+
+* fix balthazar bunker trying to update yet to be generated map ([#82722](https://github.com/CleverRaven/Cataclysm-DDA/pull/82722))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-09-04-1735 ([bceec3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-04-1735))
 
 * Aftershock: Harvest snow with shovels ([#82738](https://github.com/CleverRaven/Cataclysm-DDA/pull/82738))
@@ -181,13 +187,7 @@
 #### Cataclysm-DDA experimental build 2025-08-30-0413 ([7f1ab1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0413))
 
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-30-0315 ([84d49c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0315))
-
 * Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
-* Trim Chimera and apply "strict_threshreq": true, ([#82569](https://github.com/CleverRaven/Cataclysm-DDA/pull/82569))
 * [0.I Backport]: Fix boomer bile EOC ([#82646](https://github.com/CleverRaven/Cataclysm-DDA/pull/82646))
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
 * Political prisoners don't wear striped pants with jumpsuits ([#82640](https://github.com/CleverRaven/Cataclysm-DDA/pull/82640))
