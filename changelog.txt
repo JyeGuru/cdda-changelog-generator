@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-04-2017 (8e6e887)
 * [XEDRA Evolved] gossamer clothing devarianting (#82750)
 
 Cataclysm-DDA experimental build 2025-09-04-1901 (58b83bb)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2025-08-30-0848 (cc1fe77)
 Cataclysm-DDA experimental build 2025-08-30-0616 (de723be)
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones (#82588)
 * Aftershock: Clear variants in several copy-from items (#82655)
-
-Cataclysm-DDA experimental build 2025-08-30-0413 (7f1ab1c)
 * [Magiclysm] Limit Empty to affect only in-mod spells (#82661)
 * Fix monster spell message being printed even when it's empty (#82673)
 * [0.I Backport]: Fix boomer bile EOC (#82646)

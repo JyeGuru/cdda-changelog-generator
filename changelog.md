@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-04-2017 ([8e6e887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-2017))
+
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
 
 ---
@@ -182,11 +187,6 @@
 
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82588](https://github.com/CleverRaven/Cataclysm-DDA/pull/82588))
 * Aftershock: Clear variants in several copy-from items ([#82655](https://github.com/CleverRaven/Cataclysm-DDA/pull/82655))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-30-0413 ([7f1ab1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-30-0413))
-
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
 * Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
 * [0.I Backport]: Fix boomer bile EOC ([#82646](https://github.com/CleverRaven/Cataclysm-DDA/pull/82646))
