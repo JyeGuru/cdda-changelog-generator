@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-05-0632 (2160e69)
 * Adds contraband to the prison safe of the Warden. (#82642)
 
 Cataclysm-DDA experimental build 2025-09-05-0524 (66246e9)
@@ -93,8 +95,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-31-1715 (15ec6af)
 
 Cataclysm-DDA experimental build 2025-08-31-1750 (3d07400)
 * Silence data loss warning (#82686)
-
-Cataclysm-DDA 0.I release candidate 2025-08-31-1600 (5ff0e12)
 * [0.I] Revert unwanted parts of #82376 (#82685)
 
 Cataclysm-DDA experimental build 2025-08-31-1600 (2da5461)
