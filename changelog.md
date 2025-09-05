@@ -1,3 +1,4 @@
+* Adds contraband to the prison safe of the Warden. ([#82642](https://github.com/CleverRaven/Cataclysm-DDA/pull/82642))
 
 ---
 
@@ -229,7 +230,6 @@
 * Fix invlets in keybindings window ([#82594](https://github.com/CleverRaven/Cataclysm-DDA/pull/82594))
 * Fix crash for unset optional direction in mission ([#82592](https://github.com/CleverRaven/Cataclysm-DDA/pull/82592))
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
-* Remove typed (non-templated) assign readers  ([#82579](https://github.com/CleverRaven/Cataclysm-DDA/pull/82579))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
 * Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
 * [XEDRA] Replace steel material in items with updated steel types to allow repairing ([#82586](https://github.com/CleverRaven/Cataclysm-DDA/pull/82586))

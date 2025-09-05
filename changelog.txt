@@ -1,3 +1,4 @@
+* Adds contraband to the prison safe of the Warden. (#82642)
 
 Cataclysm-DDA experimental build 2025-09-05-0524 (66246e9)
 * [Magiclysm] Spellcasting profs adjustments (#82745)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2025-08-31-1600 (2da5461)
 * Fix invlets in keybindings window (#82594)
 * Fix crash for unset optional direction in mission (#82592)
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island (#82597)
-* Remove typed (non-templated) assign readers  (#82579)
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it (#82603)
 * Give boomer head NO_TURRET (#82600)
 * [XEDRA] Replace steel material in items with updated steel types to allow repairing (#82586)
