@@ -1,4 +1,9 @@
 * Update translator notes for Russian ([#82751](https://github.com/CleverRaven/Cataclysm-DDA/pull/82751))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-05-2346 ([abe67a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-2346))
+
 * Lixa orientation migration ([#82781](https://github.com/CleverRaven/Cataclysm-DDA/pull/82781))
 
 ---
@@ -161,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-09-01-1732 ([a228f4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-01-1732))
 
 * Fix turret install requirements ([#82693](https://github.com/CleverRaven/Cataclysm-DDA/pull/82693))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-01-1644 ([bfd4a19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-01-1644))
-
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82681](https://github.com/CleverRaven/Cataclysm-DDA/pull/82681))
 
 ---

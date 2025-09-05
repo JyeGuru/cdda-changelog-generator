@@ -1,4 +1,6 @@
 * Update translator notes for Russian (#82751)
+
+Cataclysm-DDA experimental build 2025-09-05-2346 (abe67a1)
 * Lixa orientation migration (#82781)
 
 Cataclysm-DDA 0.I release candidate 2025-09-05-2258 (7f70c40)
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2025-09-02-1314 (0e1a964)
 
 Cataclysm-DDA experimental build 2025-09-01-1732 (a228f4c)
 * Fix turret install requirements (#82693)
-
-Cataclysm-DDA 0.I release candidate 2025-09-01-1644 (bfd4a19)
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones (#82681)
 
 Cataclysm-DDA experimental build 2025-09-01-1327 (15cf7b5)
