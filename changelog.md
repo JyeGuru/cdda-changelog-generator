@@ -1,3 +1,10 @@
+* Update translator notes for Russian ([#82751](https://github.com/CleverRaven/Cataclysm-DDA/pull/82751))
+* Lixa orientation migration ([#82781](https://github.com/CleverRaven/Cataclysm-DDA/pull/82781))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-05-2258 ([7f70c40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-05-2258))
+
 * Credits for 0.I ([#82780](https://github.com/CleverRaven/Cataclysm-DDA/pull/82780))
 
 ---
@@ -168,11 +175,6 @@
 * Make cooking oils charges slightly more convenient ([#82683](https://github.com/CleverRaven/Cataclysm-DDA/pull/82683))
 * Replace ar15 with modular_ar15 in looks_likes ([#82709](https://github.com/CleverRaven/Cataclysm-DDA/pull/82709))
 * [MoM] Silent One adjustments ([#82695](https://github.com/CleverRaven/Cataclysm-DDA/pull/82695))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-01-0521 ([d7d053f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-01-0521))
-
 * Fix monster spell message being printed even when it's empty ([#82678](https://github.com/CleverRaven/Cataclysm-DDA/pull/82678))
 * Fix chitinous scale mail hoods having 0 encumbrance ([#82715](https://github.com/CleverRaven/Cataclysm-DDA/pull/82715))
 * [MoM] Rework crystal field spawns ([#82711](https://github.com/CleverRaven/Cataclysm-DDA/pull/82711))
@@ -208,7 +210,6 @@
 * [Magiclysm] Add Seeing the Unseen animist spell ([#82636](https://github.com/CleverRaven/Cataclysm-DDA/pull/82636))
 * [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
-* Fix boomer bile EOC and remove !shouldfail test ([#82593](https://github.com/CleverRaven/Cataclysm-DDA/pull/82593))
 * More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
 * Present dispersion as MOA in item UI ([#82595](https://github.com/CleverRaven/Cataclysm-DDA/pull/82595))
 * Star vampires have `PERMANENT_INVISIBILITY`, when they drink blood it applies `SUPPRESS_INVISIBILITY` ([#82604](https://github.com/CleverRaven/Cataclysm-DDA/pull/82604))
@@ -229,7 +230,6 @@
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
 * Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
 * Fix invlets in keybindings window ([#82594](https://github.com/CleverRaven/Cataclysm-DDA/pull/82594))
-* Fix crash for unset optional direction in mission ([#82592](https://github.com/CleverRaven/Cataclysm-DDA/pull/82592))
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
 * Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
