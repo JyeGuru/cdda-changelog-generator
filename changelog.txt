@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-05-0524 (66246e9)
+* [Magiclysm] Spellcasting profs adjustments (#82745)
+
 Cataclysm-DDA experimental build 2025-09-05-0422 (84f9934)
 * LIXA adjustments (#82765)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-31-1600 (5ff0e12)
 
 Cataclysm-DDA experimental build 2025-08-31-1600 (2da5461)
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged (#82696)
-
-Cataclysm-DDA 0.I release candidate 2025-08-31-0514 (81d66f2)
 * [Magiclysm] Limit Empty to affect only in-mod spells (#82679)
 * Routine i18n updates on 30 August 2025 (#82677)
 * Account for threshold_substitutes in the mutation selector (#82625)
@@ -144,7 +145,6 @@ Cataclysm-DDA 0.I release candidate 2025-08-31-0514 (81d66f2)
 * Remove typed (non-templated) assign readers  (#82579)
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it (#82603)
 * Give boomer head NO_TURRET (#82600)
-* Fix missing space in basecamp expansion label (#82578)
 * [XEDRA] Replace steel material in items with updated steel types to allow repairing (#82586)
 * Fix HHG (#82596)
 * Weekly Changelog 2025-08-18 to 2025-08-25 (#82587)

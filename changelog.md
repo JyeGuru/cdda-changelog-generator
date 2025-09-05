@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-05-0524 ([66246e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0524))
+
+* [Magiclysm] Spellcasting profs adjustments ([#82745](https://github.com/CleverRaven/Cataclysm-DDA/pull/82745))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-05-0422 ([84f9934](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0422))
 
 * LIXA adjustments ([#82765](https://github.com/CleverRaven/Cataclysm-DDA/pull/82765))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-08-31-1600 ([2da5461](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-31-1600))
 
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-31-0514 ([81d66f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-31-0514))
-
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82679](https://github.com/CleverRaven/Cataclysm-DDA/pull/82679))
 * Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))
 * Account for threshold_substitutes in the mutation selector ([#82625](https://github.com/CleverRaven/Cataclysm-DDA/pull/82625))
@@ -231,7 +232,6 @@
 * Remove typed (non-templated) assign readers  ([#82579](https://github.com/CleverRaven/Cataclysm-DDA/pull/82579))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
 * Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
-* Fix missing space in basecamp expansion label ([#82578](https://github.com/CleverRaven/Cataclysm-DDA/pull/82578))
 * [XEDRA] Replace steel material in items with updated steel types to allow repairing ([#82586](https://github.com/CleverRaven/Cataclysm-DDA/pull/82586))
 * Fix HHG ([#82596](https://github.com/CleverRaven/Cataclysm-DDA/pull/82596))
 * Weekly Changelog 2025-08-18 to 2025-08-25 ([#82587](https://github.com/CleverRaven/Cataclysm-DDA/pull/82587))
