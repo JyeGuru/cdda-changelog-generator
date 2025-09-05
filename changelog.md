@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-05-2053 ([6a0fec9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-2053))
+
 * Add batch multiplier to crafting UI ([#82779](https://github.com/CleverRaven/Cataclysm-DDA/pull/82779))
 * Add TFLAG_REGION_PSEUDO flag for region terrain/furniture ([#82772](https://github.com/CleverRaven/Cataclysm-DDA/pull/82772))
 * Weighted list improvements ([#82773](https://github.com/CleverRaven/Cataclysm-DDA/pull/82773))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-08-31-2341 ([5ae275f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-31-2341))
 
 * [Magiclysm] Add the rust monster ([#82698](https://github.com/CleverRaven/Cataclysm-DDA/pull/82698))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-31-2156 ([42dfdd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-31-2156))
-
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
 * Aftershock: Clear variants in several copy-from items ([#82680](https://github.com/CleverRaven/Cataclysm-DDA/pull/82680))
 * Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
