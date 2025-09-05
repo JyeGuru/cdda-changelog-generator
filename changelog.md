@@ -1,3 +1,11 @@
+* Add TFLAG_REGION_PSEUDO flag for region terrain/furniture ([#82772](https://github.com/CleverRaven/Cataclysm-DDA/pull/82772))
+* Weighted list improvements ([#82773](https://github.com/CleverRaven/Cataclysm-DDA/pull/82773))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-05-1958 ([e71a6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-1958))
+
+* Fix desert_region typo ([#82774](https://github.com/CleverRaven/Cataclysm-DDA/pull/82774))
 
 ---
 
@@ -174,11 +182,6 @@
 
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
 * Aftershock: Clear variants in several copy-from items ([#82680](https://github.com/CleverRaven/Cataclysm-DDA/pull/82680))
-
----
-
-#### Cataclysm-DDA experimental build 2025-08-31-1750 ([3d07400](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-31-1750))
-
 * Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
 * [0.I] Revert unwanted parts of #82376 ([#82685](https://github.com/CleverRaven/Cataclysm-DDA/pull/82685))
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
@@ -231,6 +234,3 @@
 * [XEDRA] Replace steel material in items with updated steel types to allow repairing ([#82586](https://github.com/CleverRaven/Cataclysm-DDA/pull/82586))
 * Fix HHG ([#82596](https://github.com/CleverRaven/Cataclysm-DDA/pull/82596))
 * Weekly Changelog 2025-08-18 to 2025-08-25 ([#82587](https://github.com/CleverRaven/Cataclysm-DDA/pull/82587))
-* Several text corrections ([#82583](https://github.com/CleverRaven/Cataclysm-DDA/pull/82583))
-* Fix Boris laptop quest ([#82581](https://github.com/CleverRaven/Cataclysm-DDA/pull/82581))
-* Fix wrong type usage in jmath function ([#82582](https://github.com/CleverRaven/Cataclysm-DDA/pull/82582))
