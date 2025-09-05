@@ -167,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-08-31-2156 ([42dfdd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-08-31-2156))
 
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-08-31-1715 ([15ec6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-08-31-1715))
-
 * Aftershock: Clear variants in several copy-from items ([#82680](https://github.com/CleverRaven/Cataclysm-DDA/pull/82680))
 
 ---

@@ -89,8 +89,6 @@ Cataclysm-DDA experimental build 2025-08-31-2341 (5ae275f)
 
 Cataclysm-DDA experimental build 2025-08-31-2156 (42dfdd2)
 * [MoM] Fix Vitakinetic enervation debuff duration (#82706)
-
-Cataclysm-DDA 0.I release candidate 2025-08-31-1715 (15ec6af)
 * Aftershock: Clear variants in several copy-from items (#82680)
 
 Cataclysm-DDA experimental build 2025-08-31-1750 (3d07400)
