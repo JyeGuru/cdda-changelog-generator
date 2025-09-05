@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-05-1813 (3710402)
+* Add "autopeek" behaviour to safe mode movement (#82648)
+
 Cataclysm-DDA experimental build 2025-09-05-0632 (2160e69)
 * Adds contraband to the prison safe of the Warden. (#82642)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-08-31-2156 (42dfdd2)
 Cataclysm-DDA experimental build 2025-08-31-1750 (3d07400)
 * Silence data loss warning (#82686)
 * [0.I] Revert unwanted parts of #82376 (#82685)
-
-Cataclysm-DDA experimental build 2025-08-31-1600 (2da5461)
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged (#82696)
 * [Magiclysm] Limit Empty to affect only in-mod spells (#82679)
 * Routine i18n updates on 30 August 2025 (#82677)
@@ -146,7 +147,6 @@ Cataclysm-DDA experimental build 2025-08-31-1600 (2da5461)
 * [XEDRA] Replace steel material in items with updated steel types to allow repairing (#82586)
 * Fix HHG (#82596)
 * Weekly Changelog 2025-08-18 to 2025-08-25 (#82587)
-* Make stale data warnings optional with build flag (#82580)
 * Several text corrections (#82583)
 * Fix Boris laptop quest (#82581)
 * Fix wrong type usage in jmath function (#82582)
