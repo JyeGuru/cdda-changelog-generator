@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-06-0632 (03729eb)
+* Routine i18n updates on 06 September 2025 (#82785)
+
 Cataclysm-DDA experimental build 2025-09-06-0542 (c58c45a)
 * Use optional/mandatory for all iuse actors (#82742)
 * Update translator notes for Russian (#82751)
@@ -128,7 +131,6 @@ Cataclysm-DDA experimental build 2025-09-01-1327 (15cf7b5)
 * [MoM] Remove Imperial Church holy symbol variants (#82639)
 * Laptops with evidence in the cops evidence locker (#82644)
 * More monster type to optional/mandatory (#82617)
-* Present dispersion as MOA in item UI (#82595)
 * Star vampires have `PERMANENT_INVISIBILITY`, when they drink blood it applies `SUPPRESS_INVISIBILITY` (#82604)
 * Prevent segfault from teleport trap (#82627)
 * Move map extra list creation out of optional json loading check (#82629)
