@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-06-0542 ([c58c45a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-06-0542))
+
+* Use optional/mandatory for all iuse actors ([#82742](https://github.com/CleverRaven/Cataclysm-DDA/pull/82742))
 * Update translator notes for Russian ([#82751](https://github.com/CleverRaven/Cataclysm-DDA/pull/82751))
 
 ---
@@ -178,11 +184,6 @@
 * Fix monster spell message being printed even when it's empty ([#82678](https://github.com/CleverRaven/Cataclysm-DDA/pull/82678))
 * Fix chitinous scale mail hoods having 0 encumbrance ([#82715](https://github.com/CleverRaven/Cataclysm-DDA/pull/82715))
 * [MoM] Rework crystal field spawns ([#82711](https://github.com/CleverRaven/Cataclysm-DDA/pull/82711))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-01-0518 ([bff9ae0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-01-0518))
-
 * Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))
 * [Magiclysm] Add the rust monster ([#82698](https://github.com/CleverRaven/Cataclysm-DDA/pull/82698))
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
@@ -229,7 +230,6 @@
 * Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
 * Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
-* Fix invlets in keybindings window ([#82594](https://github.com/CleverRaven/Cataclysm-DDA/pull/82594))
 * [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
 * Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
