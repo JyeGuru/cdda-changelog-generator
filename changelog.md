@@ -179,11 +179,6 @@
 
 * Fix turret install requirements ([#82693](https://github.com/CleverRaven/Cataclysm-DDA/pull/82693))
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82681](https://github.com/CleverRaven/Cataclysm-DDA/pull/82681))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-01-1327 ([15cf7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-01-1327))
-
 * Make cooking oils charges slightly more convenient ([#82683](https://github.com/CleverRaven/Cataclysm-DDA/pull/82683))
 * Replace ar15 with modular_ar15 in looks_likes ([#82709](https://github.com/CleverRaven/Cataclysm-DDA/pull/82709))
 * [MoM] Silent One adjustments ([#82695](https://github.com/CleverRaven/Cataclysm-DDA/pull/82695))

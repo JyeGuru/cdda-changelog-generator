@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2025-09-02-1314 (0e1a964)
 Cataclysm-DDA experimental build 2025-09-01-1732 (a228f4c)
 * Fix turret install requirements (#82693)
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones (#82681)
-
-Cataclysm-DDA experimental build 2025-09-01-1327 (15cf7b5)
 * Make cooking oils charges slightly more convenient (#82683)
 * Replace ar15 with modular_ar15 in looks_likes (#82709)
 * [MoM] Silent One adjustments (#82695)
