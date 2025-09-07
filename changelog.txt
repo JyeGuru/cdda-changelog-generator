@@ -1,3 +1,7 @@
+* [XE] Vampire drinking and gazes adjustments. (#82794)
+
+Cataclysm-DDA experimental build 2025-09-07-1727 (523d681)
+* Appease clang (#82790)
 
 Cataclysm-DDA experimental build 2025-09-07-1626 (30dd6a4)
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag (#82797)
@@ -88,8 +92,6 @@ Cataclysm-DDA experimental build 2025-09-02-1942 (f57a190)
 
 Cataclysm-DDA experimental build 2025-09-02-1434 (b3c2bb2)
 * Mutation selection stops at certain points (#82649)
-
-Cataclysm-DDA 0.I release candidate 2025-09-02-1317 (aa0ccb7)
 * Manually update 0.I for 82706 (#82717)
 
 Cataclysm-DDA experimental build 2025-09-02-1314 (0e1a964)
@@ -148,4 +150,3 @@ Cataclysm-DDA experimental build 2025-09-02-1314 (0e1a964)
 * Popcorn seeds are in the seeds category (#82614)
 * Adjust mannequin decoy existence and related small fixes (#82612)
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it (#82603)
-* Give boomer head NO_TURRET (#82600)

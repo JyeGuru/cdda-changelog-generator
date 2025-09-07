@@ -1,3 +1,10 @@
+* [XE] Vampire drinking and gazes adjustments. ([#82794](https://github.com/CleverRaven/Cataclysm-DDA/pull/82794))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-07-1727 ([523d681](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1727))
+
+* Appease clang ([#82790](https://github.com/CleverRaven/Cataclysm-DDA/pull/82790))
 
 ---
 
@@ -166,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-09-02-1434 ([b3c2bb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-02-1434))
 
 * Mutation selection stops at certain points ([#82649](https://github.com/CleverRaven/Cataclysm-DDA/pull/82649))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-02-1317 ([aa0ccb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-02-1317))
-
 * Manually update 0.I for 82706 ([#82717](https://github.com/CleverRaven/Cataclysm-DDA/pull/82717))
 
 ---
@@ -232,4 +234,3 @@
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
 * Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
-* Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
