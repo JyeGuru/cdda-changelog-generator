@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-07-1953 (0e1f354)
+* [MoM] Cracks in reality are outdoor only (#82799)
+
 Cataclysm-DDA experimental build 2025-09-07-1816 (756dbff)
 * [XE] Vampire drinking and gazes adjustments. (#82794)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-09-03-0542 (12aec17)
 
 Cataclysm-DDA experimental build 2025-09-02-1942 (f57a190)
 * eoc: migrate x_or_var helper structs to generic_factory (#82687)
-
-Cataclysm-DDA experimental build 2025-09-02-1434 (b3c2bb2)
 * Mutation selection stops at certain points (#82649)
 * Manually update 0.I for 82706 (#82717)
 * [MoM] Reduce incidence of meditation books in esoteric_books (#82725)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2025-09-02-1434 (b3c2bb2)
 * Prevent segfault when cancelling completed butchery (#82615)
 * Popcorn seeds are in the seeds category (#82614)
 * Adjust mannequin decoy existence and related small fixes (#82612)
-* Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it (#82603)
