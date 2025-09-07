@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-07-1626 ([30dd6a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1626))
+
+* [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag ([#82797](https://github.com/CleverRaven/Cataclysm-DDA/pull/82797))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-06-0632 ([03729eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-06-0632))
 
 * Routine i18n updates on 06 September 2025 ([#82785](https://github.com/CleverRaven/Cataclysm-DDA/pull/82785))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-09-02-1314 ([0e1a964](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-02-1314))
 
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-01-1732 ([a228f4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-01-1732))
-
 * Fix turret install requirements ([#82693](https://github.com/CleverRaven/Cataclysm-DDA/pull/82693))
 * Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82681](https://github.com/CleverRaven/Cataclysm-DDA/pull/82681))
 * Make cooking oils charges slightly more convenient ([#82683](https://github.com/CleverRaven/Cataclysm-DDA/pull/82683))
@@ -230,6 +231,5 @@
 * Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
 * Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
-* [Sky Island] Stop running bunker climate control if you're immune to temperature on the island ([#82597](https://github.com/CleverRaven/Cataclysm-DDA/pull/82597))
 * Add `SUPPRESS_INVISIBILITY` flag, add an item in XE that uses it ([#82603](https://github.com/CleverRaven/Cataclysm-DDA/pull/82603))
 * Give boomer head NO_TURRET ([#82600](https://github.com/CleverRaven/Cataclysm-DDA/pull/82600))
