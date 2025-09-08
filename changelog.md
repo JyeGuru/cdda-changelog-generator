@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-08-2101 ([fb40abe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-08-2101))
+
+* Hazmat units aren't affiliated with Hub 01 ([#82809](https://github.com/CleverRaven/Cataclysm-DDA/pull/82809))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-08-0025 ([a5e5a13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-08-0025))
 
 * Jackhammers cannot tunnel through walls ([#82757](https://github.com/CleverRaven/Cataclysm-DDA/pull/82757))
@@ -145,11 +151,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-09-03-2008 ([5e039be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-03-2008))
 
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82668](https://github.com/CleverRaven/Cataclysm-DDA/pull/82668))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-03-1916 ([811319b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-03-1916))
-
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82672](https://github.com/CleverRaven/Cataclysm-DDA/pull/82672))
 
 ---
@@ -229,7 +230,6 @@
 * Prevent segfault when purifying water with connected vehicles ([#82616](https://github.com/CleverRaven/Cataclysm-DDA/pull/82616))
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
 * Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
-* [ Xedra Evolved ] No riots in Vampire lairs ([#82606](https://github.com/CleverRaven/Cataclysm-DDA/pull/82606))
 * Energy remaining now looks for battery ammo_types ([#82608](https://github.com/CleverRaven/Cataclysm-DDA/pull/82608))
 * Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
