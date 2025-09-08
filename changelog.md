@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-08-0025 ([a5e5a13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-08-0025))
+
+* Jackhammers cannot tunnel through walls ([#82757](https://github.com/CleverRaven/Cataclysm-DDA/pull/82757))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-07-1953 ([0e1f354](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1953))
 
 * [MoM] Cracks in reality are outdoor only ([#82799](https://github.com/CleverRaven/Cataclysm-DDA/pull/82799))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-09-03-0542 ([12aec17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-0542))
 
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-02-1942 ([f57a190](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-02-1942))
-
 * eoc: migrate x_or_var helper structs to generic_factory ([#82687](https://github.com/CleverRaven/Cataclysm-DDA/pull/82687))
 * Mutation selection stops at certain points ([#82649](https://github.com/CleverRaven/Cataclysm-DDA/pull/82649))
 * Manually update 0.I for 82706 ([#82717](https://github.com/CleverRaven/Cataclysm-DDA/pull/82717))
@@ -217,7 +218,6 @@
 * [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
 * More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
-* Star vampires have `PERMANENT_INVISIBILITY`, when they drink blood it applies `SUPPRESS_INVISIBILITY` ([#82604](https://github.com/CleverRaven/Cataclysm-DDA/pull/82604))
 * Prevent segfault from teleport trap ([#82627](https://github.com/CleverRaven/Cataclysm-DDA/pull/82627))
 * Move map extra list creation out of optional json loading check ([#82629](https://github.com/CleverRaven/Cataclysm-DDA/pull/82629))
 * Use semicolon for column separators in iteminfo table drawing ([#82609](https://github.com/CleverRaven/Cataclysm-DDA/pull/82609))
