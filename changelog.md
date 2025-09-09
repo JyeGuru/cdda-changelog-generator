@@ -230,7 +230,6 @@
 * Prevent segfault when purifying water with connected vehicles ([#82616](https://github.com/CleverRaven/Cataclysm-DDA/pull/82616))
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
 * Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
-* Energy remaining now looks for battery ammo_types ([#82608](https://github.com/CleverRaven/Cataclysm-DDA/pull/82608))
 * Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
 * Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
 * Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
