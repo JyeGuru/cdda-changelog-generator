@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-09-2019 ([056938d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-09-2019))
+
+* Fix loudness multiplier display ([#82783](https://github.com/CleverRaven/Cataclysm-DDA/pull/82783))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-08-2101 ([fb40abe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-08-2101))
 
 * Hazmat units aren't affiliated with Hub 01 ([#82809](https://github.com/CleverRaven/Cataclysm-DDA/pull/82809))
@@ -145,11 +151,6 @@
 #### Cataclysm-DDA experimental build 2025-09-04-0329 ([e7eb002](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-0329))
 
 * Change "The first day of the rest of their unlives" achievement time passed requirement from 24h to 16h ([#82731](https://github.com/CleverRaven/Cataclysm-DDA/pull/82731))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-03-2008 ([5e039be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-03-2008))
-
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82668](https://github.com/CleverRaven/Cataclysm-DDA/pull/82668))
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82672](https://github.com/CleverRaven/Cataclysm-DDA/pull/82672))
 
@@ -221,7 +222,6 @@
 * More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
 * Prevent segfault from teleport trap ([#82627](https://github.com/CleverRaven/Cataclysm-DDA/pull/82627))
 * Move map extra list creation out of optional json loading check ([#82629](https://github.com/CleverRaven/Cataclysm-DDA/pull/82629))
-* Use semicolon for column separators in iteminfo table drawing ([#82609](https://github.com/CleverRaven/Cataclysm-DDA/pull/82609))
 * Load recipe `using` with optional ([#82618](https://github.com/CleverRaven/Cataclysm-DDA/pull/82618))
 * Prevent segfault when cancelling completed butchery ([#82620](https://github.com/CleverRaven/Cataclysm-DDA/pull/82620))
 * Brick oven works as a fireplace ([#82622](https://github.com/CleverRaven/Cataclysm-DDA/pull/82622))
