@@ -1,3 +1,4 @@
+* Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
 * Audit the fries recipe again ([#82684](https://github.com/CleverRaven/Cataclysm-DDA/pull/82684))
 * Revert "Add batch multiplier to crafting UI" ([#82795](https://github.com/CleverRaven/Cataclysm-DDA/pull/82795))
 * Don't start auto pickup activity if you can't carry any of the items ([#82798](https://github.com/CleverRaven/Cataclysm-DDA/pull/82798))
@@ -232,4 +233,3 @@
 * Brick oven works as a fireplace ([#82622](https://github.com/CleverRaven/Cataclysm-DDA/pull/82622))
 * Prevent segfault when purifying water with connected vehicles ([#82626](https://github.com/CleverRaven/Cataclysm-DDA/pull/82626))
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
-* Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
