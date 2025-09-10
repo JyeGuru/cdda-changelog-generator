@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-10-1951 ([f4aad13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-10-1951))
+
 * fix balthazar bunker trying to update yet to be generated map ([#82768](https://github.com/CleverRaven/Cataclysm-DDA/pull/82768))
 
 ---
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2025-09-04-1901 ([58b83bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-1901))
 
 * fix balthazar bunker trying to update yet to be generated map ([#82722](https://github.com/CleverRaven/Cataclysm-DDA/pull/82722))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-04-1735 ([bceec3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-04-1735))
-
 * Aftershock: Harvest snow with shovels ([#82738](https://github.com/CleverRaven/Cataclysm-DDA/pull/82738))
 
 ---

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-09-10-1951 (f4aad13)
 * fix balthazar bunker trying to update yet to be generated map (#82768)
 
 Cataclysm-DDA experimental build 2025-09-10-1926 (436a0c7)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2025-09-04-2017 (8e6e887)
 
 Cataclysm-DDA experimental build 2025-09-04-1901 (58b83bb)
 * fix balthazar bunker trying to update yet to be generated map (#82722)
-
-Cataclysm-DDA 0.I release candidate 2025-09-04-1735 (bceec3f)
 * Aftershock: Harvest snow with shovels (#82738)
 
 Cataclysm-DDA experimental build 2025-09-04-0329 (e7eb002)
