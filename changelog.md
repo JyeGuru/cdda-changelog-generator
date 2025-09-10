@@ -1,4 +1,9 @@
 * fix balthazar bunker trying to update yet to be generated map ([#82768](https://github.com/CleverRaven/Cataclysm-DDA/pull/82768))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-10-1926 ([436a0c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-10-1926))
+
 * weather_generator generic factory support ([#82788](https://github.com/CleverRaven/Cataclysm-DDA/pull/82788))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
 * Audit the fries recipe again ([#82684](https://github.com/CleverRaven/Cataclysm-DDA/pull/82684))
@@ -175,11 +180,6 @@
 * Change "The first day of the rest of their unlives" achievement time passed requirement from 24h to 16h ([#82731](https://github.com/CleverRaven/Cataclysm-DDA/pull/82731))
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82668](https://github.com/CleverRaven/Cataclysm-DDA/pull/82668))
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82672](https://github.com/CleverRaven/Cataclysm-DDA/pull/82672))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-03-1825 ([b0e653d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-1825))
-
 * eoc: fix loading time of value_or_var ([#82740](https://github.com/CleverRaven/Cataclysm-DDA/pull/82740))
 * Use optional/mandatory in place of assign in monstergenerator.cpp ([#82667](https://github.com/CleverRaven/Cataclysm-DDA/pull/82667))
 * Use optional/mandatory for more vpart_info fields ([#82666](https://github.com/CleverRaven/Cataclysm-DDA/pull/82666))
