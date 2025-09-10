@@ -1,3 +1,22 @@
+* Audit the fries recipe again ([#82684](https://github.com/CleverRaven/Cataclysm-DDA/pull/82684))
+* Revert "Add batch multiplier to crafting UI" ([#82795](https://github.com/CleverRaven/Cataclysm-DDA/pull/82795))
+* Don't start auto pickup activity if you can't carry any of the items ([#82798](https://github.com/CleverRaven/Cataclysm-DDA/pull/82798))
+* Hub 01 MDS canteen fits only liquids ([#82805](https://github.com/CleverRaven/Cataclysm-DDA/pull/82805))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-10-1827 ([3458b7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-10-1827))
+
+* Manual backport of 82799 ([#82803](https://github.com/CleverRaven/Cataclysm-DDA/pull/82803))
+* Update deep fried tripe recipe ([#82663](https://github.com/CleverRaven/Cataclysm-DDA/pull/82663))
+* [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
+* Update planting to 'forward look' conditions for each growth stage ([#82812](https://github.com/CleverRaven/Cataclysm-DDA/pull/82812))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-10-1818 ([7eb437c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-10-1818))
+
+* Move overmap city functions to overmap_city.cpp ([#82818](https://github.com/CleverRaven/Cataclysm-DDA/pull/82818))
 
 ---
 
@@ -159,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-09-03-1825 ([b0e653d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-1825))
 
 * eoc: fix loading time of value_or_var ([#82740](https://github.com/CleverRaven/Cataclysm-DDA/pull/82740))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-03-0632 ([0dfb85c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-0632))
-
 * Use optional/mandatory in place of assign in monstergenerator.cpp ([#82667](https://github.com/CleverRaven/Cataclysm-DDA/pull/82667))
 * Use optional/mandatory for more vpart_info fields ([#82666](https://github.com/CleverRaven/Cataclysm-DDA/pull/82666))
 * Add debug menu entry to spawn npc in player faction ([#82664](https://github.com/CleverRaven/Cataclysm-DDA/pull/82664))
@@ -174,11 +188,6 @@
 * Allow ignoring false positives on the Android accessability services warning ([#82692](https://github.com/CleverRaven/Cataclysm-DDA/pull/82692))
 * [Mods] Add MYOPIC_SUPERNATURAL and MYOPIC_IN_LIGHT_SUPERNATURAL flags ([#82723](https://github.com/CleverRaven/Cataclysm-DDA/pull/82723))
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-03-0542 ([12aec17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-03-0542))
-
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
 * eoc: migrate x_or_var helper structs to generic_factory ([#82687](https://github.com/CleverRaven/Cataclysm-DDA/pull/82687))
 * Mutation selection stops at certain points ([#82649](https://github.com/CleverRaven/Cataclysm-DDA/pull/82649))
@@ -203,7 +212,6 @@
 * Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))
 * Account for threshold_substitutes in the mutation selector ([#82625](https://github.com/CleverRaven/Cataclysm-DDA/pull/82625))
 * Enchantment cache save corruption fix ([#82674](https://github.com/CleverRaven/Cataclysm-DDA/pull/82674))
-* Stop smashing stuff with your face ([#82619](https://github.com/CleverRaven/Cataclysm-DDA/pull/82619))
 * Aftershock: Clear variants in several copy-from items ([#82655](https://github.com/CleverRaven/Cataclysm-DDA/pull/82655))
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
 * Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
@@ -219,17 +227,9 @@
 * [Magiclysm] Add Seeing the Unseen animist spell ([#82636](https://github.com/CleverRaven/Cataclysm-DDA/pull/82636))
 * [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
-* More monster type to optional/mandatory ([#82617](https://github.com/CleverRaven/Cataclysm-DDA/pull/82617))
 * Prevent segfault from teleport trap ([#82627](https://github.com/CleverRaven/Cataclysm-DDA/pull/82627))
 * Move map extra list creation out of optional json loading check ([#82629](https://github.com/CleverRaven/Cataclysm-DDA/pull/82629))
-* Load recipe `using` with optional ([#82618](https://github.com/CleverRaven/Cataclysm-DDA/pull/82618))
-* Prevent segfault when cancelling completed butchery ([#82620](https://github.com/CleverRaven/Cataclysm-DDA/pull/82620))
 * Brick oven works as a fireplace ([#82622](https://github.com/CleverRaven/Cataclysm-DDA/pull/82622))
 * Prevent segfault when purifying water with connected vehicles ([#82626](https://github.com/CleverRaven/Cataclysm-DDA/pull/82626))
-* Prevent segfault from teleport trap ([#82611](https://github.com/CleverRaven/Cataclysm-DDA/pull/82611))
-* Prevent segfault when purifying water with connected vehicles ([#82616](https://github.com/CleverRaven/Cataclysm-DDA/pull/82616))
 * Pickaxes are made from less abstract steel ([#82624](https://github.com/CleverRaven/Cataclysm-DDA/pull/82624))
 * Corrected hold the line logic ([#82621](https://github.com/CleverRaven/Cataclysm-DDA/pull/82621))
-* Prevent segfault when cancelling completed butchery ([#82615](https://github.com/CleverRaven/Cataclysm-DDA/pull/82615))
-* Popcorn seeds are in the seeds category ([#82614](https://github.com/CleverRaven/Cataclysm-DDA/pull/82614))
-* Adjust mannequin decoy existence and related small fixes ([#82612](https://github.com/CleverRaven/Cataclysm-DDA/pull/82612))
