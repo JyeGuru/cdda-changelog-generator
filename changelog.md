@@ -1,4 +1,12 @@
+* [ Xedra Evolved ] More Noble dream snippets ([#82739](https://github.com/CleverRaven/Cataclysm-DDA/pull/82739))
+* Replace ar15 with modular_ar15 in looks_likes ([#82721](https://github.com/CleverRaven/Cataclysm-DDA/pull/82721))
+* Replace assign with optional/mandatory in veh_type ([#82741](https://github.com/CleverRaven/Cataclysm-DDA/pull/82741))
 * Use optional/mandatory in mapdata, recipe, mod manager, and monster groups ([#82767](https://github.com/CleverRaven/Cataclysm-DDA/pull/82767))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-11-1320 ([e3c6cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-11-1320))
+
 * Aftersock: Vendor gear and price related tweaks. ([#82771](https://github.com/CleverRaven/Cataclysm-DDA/pull/82771))
 * Update the ammunition in the Arsenal of the military base ([#82787](https://github.com/CleverRaven/Cataclysm-DDA/pull/82787))
 * Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
@@ -114,11 +122,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-2346 ([abe67a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-2346))
 
 * Lixa orientation migration ([#82781](https://github.com/CleverRaven/Cataclysm-DDA/pull/82781))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-05-2258 ([7f70c40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-05-2258))
-
 * Credits for 0.I ([#82780](https://github.com/CleverRaven/Cataclysm-DDA/pull/82780))
 
 ---
@@ -146,12 +149,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-1813 ([3710402](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-1813))
 
 * Add "autopeek" behaviour to safe mode movement ([#82648](https://github.com/CleverRaven/Cataclysm-DDA/pull/82648))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-0632 ([2160e69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0632))
-
-* Adds contraband to the prison safe of the Warden. ([#82642](https://github.com/CleverRaven/Cataclysm-DDA/pull/82642))
 
 ---
 
@@ -221,9 +218,7 @@
 * Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
 * [0.I Backport]: Fix boomer bile EOC ([#82646](https://github.com/CleverRaven/Cataclysm-DDA/pull/82646))
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
-* Political prisoners don't wear striped pants with jumpsuits ([#82640](https://github.com/CleverRaven/Cataclysm-DDA/pull/82640))
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
-* Contraband usbs in prisoner pockets ([#82641](https://github.com/CleverRaven/Cataclysm-DDA/pull/82641))
 * Add `ARTIFACT` subtype to ITEM.md ([#82654](https://github.com/CleverRaven/Cataclysm-DDA/pull/82654))
 * Fix conjuring void potatoes into existence through the fries recipe ([#82656](https://github.com/CleverRaven/Cataclysm-DDA/pull/82656))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
