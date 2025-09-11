@@ -1,3 +1,10 @@
+* Fix inconsistency and inaccuracy in large metal box's description ([#82811](https://github.com/CleverRaven/Cataclysm-DDA/pull/82811))
+* delete assign.h/cpp ([#82845](https://github.com/CleverRaven/Cataclysm-DDA/pull/82845))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-11-2341 ([cd1bbfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-2341))
+
 * Make numb mutation non-purifiable and make player not feel guilt if they have it. ([#82760](https://github.com/CleverRaven/Cataclysm-DDA/pull/82760))
 * Add vertical milling machines ([#82764](https://github.com/CleverRaven/Cataclysm-DDA/pull/82764))
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag ([#82833](https://github.com/CleverRaven/Cataclysm-DDA/pull/82833))
@@ -220,6 +227,4 @@
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82679](https://github.com/CleverRaven/Cataclysm-DDA/pull/82679))
 * Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))
 * Enchantment cache save corruption fix ([#82674](https://github.com/CleverRaven/Cataclysm-DDA/pull/82674))
-* [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
 * Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
-* Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
