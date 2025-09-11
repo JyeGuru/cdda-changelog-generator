@@ -1,3 +1,4 @@
+* Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
 * [Xedra Evolved] Add trolls ([#82748](https://github.com/CleverRaven/Cataclysm-DDA/pull/82748))
 
 ---
@@ -226,5 +227,4 @@
 * [Magiclysm] Add Seeing the Unseen animist spell ([#82636](https://github.com/CleverRaven/Cataclysm-DDA/pull/82636))
 * [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
-* Prevent segfault from teleport trap ([#82627](https://github.com/CleverRaven/Cataclysm-DDA/pull/82627))
 * Move map extra list creation out of optional json loading check ([#82629](https://github.com/CleverRaven/Cataclysm-DDA/pull/82629))
