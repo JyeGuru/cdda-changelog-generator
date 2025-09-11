@@ -1,3 +1,6 @@
+* [MoM] Add missing mesmerism fallback learning EoC ([#82830](https://github.com/CleverRaven/Cataclysm-DDA/pull/82830))
+* Feline ears prettiness adjustment ([#82828](https://github.com/CleverRaven/Cataclysm-DDA/pull/82828))
+* Weekly Changelog 2025-09-01 to 2025-09-08 ([#82806](https://github.com/CleverRaven/Cataclysm-DDA/pull/82806))
 
 ---
 
@@ -165,12 +168,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-1958 ([e71a6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-1958))
 
 * Fix desert_region typo ([#82774](https://github.com/CleverRaven/Cataclysm-DDA/pull/82774))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-1813 ([3710402](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-1813))
-
-* Add "autopeek" behaviour to safe mode movement ([#82648](https://github.com/CleverRaven/Cataclysm-DDA/pull/82648))
 * [Magiclysm] Spellcasting profs adjustments ([#82745](https://github.com/CleverRaven/Cataclysm-DDA/pull/82745))
 * LIXA adjustments ([#82765](https://github.com/CleverRaven/Cataclysm-DDA/pull/82765))
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
@@ -194,7 +191,6 @@
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
 * eoc: migrate x_or_var helper structs to generic_factory ([#82687](https://github.com/CleverRaven/Cataclysm-DDA/pull/82687))
-* Mutation selection stops at certain points ([#82649](https://github.com/CleverRaven/Cataclysm-DDA/pull/82649))
 * Manually update 0.I for 82706 ([#82717](https://github.com/CleverRaven/Cataclysm-DDA/pull/82717))
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
 * Fix turret install requirements ([#82693](https://github.com/CleverRaven/Cataclysm-DDA/pull/82693))
@@ -220,5 +216,4 @@
 * Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
-* Add `ARTIFACT` subtype to ITEM.md ([#82654](https://github.com/CleverRaven/Cataclysm-DDA/pull/82654))
 * Fix conjuring void potatoes into existence through the fries recipe ([#82656](https://github.com/CleverRaven/Cataclysm-DDA/pull/82656))
