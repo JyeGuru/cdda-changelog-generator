@@ -1,3 +1,13 @@
+* Use optional/mandatory in mapdata, recipe, mod manager, and monster groups ([#82767](https://github.com/CleverRaven/Cataclysm-DDA/pull/82767))
+* Aftersock: Vendor gear and price related tweaks. ([#82771](https://github.com/CleverRaven/Cataclysm-DDA/pull/82771))
+* Update the ammunition in the Arsenal of the military base ([#82787](https://github.com/CleverRaven/Cataclysm-DDA/pull/82787))
+* Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-11-1312 ([5163525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-1312))
+
+* Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 
 ---
 
@@ -166,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-0121 ([076bbf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0121))
 
 * eoc: use typed variables in run_eocs ([#82688](https://github.com/CleverRaven/Cataclysm-DDA/pull/82688))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-04-2145 ([1c54e34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-2145))
-
 * Aftersock: Vendor gear and price related tweaks. ([#82743](https://github.com/CleverRaven/Cataclysm-DDA/pull/82743))
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
 * fix balthazar bunker trying to update yet to be generated map ([#82722](https://github.com/CleverRaven/Cataclysm-DDA/pull/82722))
@@ -185,7 +190,6 @@
 * Changed restock time display ([#82726](https://github.com/CleverRaven/Cataclysm-DDA/pull/82726))
 * optional/mandatory for some iuse actors ([#82728](https://github.com/CleverRaven/Cataclysm-DDA/pull/82728))
 * [Magiclysm] The Forge Lords won't take clothes ([#82735](https://github.com/CleverRaven/Cataclysm-DDA/pull/82735))
-* Turn the electric oil press into an appliance ([#82637](https://github.com/CleverRaven/Cataclysm-DDA/pull/82637))
 * Allow ignoring false positives on the Android accessability services warning ([#82692](https://github.com/CleverRaven/Cataclysm-DDA/pull/82692))
 * [Mods] Add MYOPIC_SUPERNATURAL and MYOPIC_IN_LIGHT_SUPERNATURAL flags ([#82723](https://github.com/CleverRaven/Cataclysm-DDA/pull/82723))
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
@@ -221,9 +225,5 @@
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
 * Contraband usbs in prisoner pockets ([#82641](https://github.com/CleverRaven/Cataclysm-DDA/pull/82641))
 * Add `ARTIFACT` subtype to ITEM.md ([#82654](https://github.com/CleverRaven/Cataclysm-DDA/pull/82654))
-* Use optional/mandatory for overmap data ([#82633](https://github.com/CleverRaven/Cataclysm-DDA/pull/82633))
-* Use optional/mandatory for vpart_info and vpart_reqs. ([#82634](https://github.com/CleverRaven/Cataclysm-DDA/pull/82634))
 * Fix conjuring void potatoes into existence through the fries recipe ([#82656](https://github.com/CleverRaven/Cataclysm-DDA/pull/82656))
-* [Magiclysm] Add Seeing the Unseen animist spell ([#82636](https://github.com/CleverRaven/Cataclysm-DDA/pull/82636))
-* [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
