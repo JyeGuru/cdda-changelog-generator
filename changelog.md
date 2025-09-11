@@ -1,3 +1,4 @@
+* ter_furn_id uses std::variant, deserialize ([#82802](https://github.com/CleverRaven/Cataclysm-DDA/pull/82802))
 
 ---
 
@@ -165,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-0524 ([66246e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0524))
 
 * [Magiclysm] Spellcasting profs adjustments ([#82745](https://github.com/CleverRaven/Cataclysm-DDA/pull/82745))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-0422 ([84f9934](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0422))
-
 * LIXA adjustments ([#82765](https://github.com/CleverRaven/Cataclysm-DDA/pull/82765))
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
 * eoc: use typed variables in run_eocs ([#82688](https://github.com/CleverRaven/Cataclysm-DDA/pull/82688))
@@ -221,4 +217,3 @@
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
 * Add `ARTIFACT` subtype to ITEM.md ([#82654](https://github.com/CleverRaven/Cataclysm-DDA/pull/82654))
 * Fix conjuring void potatoes into existence through the fries recipe ([#82656](https://github.com/CleverRaven/Cataclysm-DDA/pull/82656))
-* Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
