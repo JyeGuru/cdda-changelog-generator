@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-11-2108 ([ee2a5e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-2108))
+
 * ter_furn_id uses std::variant, deserialize ([#82802](https://github.com/CleverRaven/Cataclysm-DDA/pull/82802))
 
 ---
@@ -160,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-1813 ([3710402](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-1813))
 
 * Add "autopeek" behaviour to safe mode movement ([#82648](https://github.com/CleverRaven/Cataclysm-DDA/pull/82648))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-0524 ([66246e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0524))
-
 * [Magiclysm] Spellcasting profs adjustments ([#82745](https://github.com/CleverRaven/Cataclysm-DDA/pull/82745))
 * LIXA adjustments ([#82765](https://github.com/CleverRaven/Cataclysm-DDA/pull/82765))
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
