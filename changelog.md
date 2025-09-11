@@ -4,6 +4,11 @@
 #### Cataclysm-DDA experimental build 2025-09-11-1510 ([ca8f492](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-1510))
 
 * [ Xedra Evolved ] More Noble dream snippets ([#82739](https://github.com/CleverRaven/Cataclysm-DDA/pull/82739))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-11-1541 ([a635d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-11-1541))
+
 * Replace ar15 with modular_ar15 in looks_likes ([#82721](https://github.com/CleverRaven/Cataclysm-DDA/pull/82721))
 * Replace assign with optional/mandatory in veh_type ([#82741](https://github.com/CleverRaven/Cataclysm-DDA/pull/82741))
 * Use optional/mandatory in mapdata, recipe, mod manager, and monster groups ([#82767](https://github.com/CleverRaven/Cataclysm-DDA/pull/82767))
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-0422 ([84f9934](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0422))
 
 * LIXA adjustments ([#82765](https://github.com/CleverRaven/Cataclysm-DDA/pull/82765))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-0315 ([4cd9f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0315))
-
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
 * eoc: use typed variables in run_eocs ([#82688](https://github.com/CleverRaven/Cataclysm-DDA/pull/82688))
 * Aftersock: Vendor gear and price related tweaks. ([#82743](https://github.com/CleverRaven/Cataclysm-DDA/pull/82743))
