@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-11-1510 ([ca8f492](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-1510))
+
 * [ Xedra Evolved ] More Noble dream snippets ([#82739](https://github.com/CleverRaven/Cataclysm-DDA/pull/82739))
 * Replace ar15 with modular_ar15 in looks_likes ([#82721](https://github.com/CleverRaven/Cataclysm-DDA/pull/82721))
 * Replace assign with optional/mandatory in veh_type ([#82741](https://github.com/CleverRaven/Cataclysm-DDA/pull/82741))
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-0315 ([4cd9f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0315))
 
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-0121 ([076bbf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-0121))
-
 * eoc: use typed variables in run_eocs ([#82688](https://github.com/CleverRaven/Cataclysm-DDA/pull/82688))
 * Aftersock: Vendor gear and price related tweaks. ([#82743](https://github.com/CleverRaven/Cataclysm-DDA/pull/82743))
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
