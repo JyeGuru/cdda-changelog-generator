@@ -1,3 +1,4 @@
+* Make numb mutation non-purifiable and make player not feel guilt if they have it. ([#82760](https://github.com/CleverRaven/Cataclysm-DDA/pull/82760))
 * Add vertical milling machines ([#82764](https://github.com/CleverRaven/Cataclysm-DDA/pull/82764))
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag ([#82833](https://github.com/CleverRaven/Cataclysm-DDA/pull/82833))
 * Fix portal storm error ([#82848](https://github.com/CleverRaven/Cataclysm-DDA/pull/82848))
@@ -222,4 +223,3 @@
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
 * Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82662](https://github.com/CleverRaven/Cataclysm-DDA/pull/82662))
-* Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82660](https://github.com/CleverRaven/Cataclysm-DDA/pull/82660))
