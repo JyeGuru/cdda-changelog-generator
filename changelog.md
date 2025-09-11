@@ -227,4 +227,3 @@
 * [Magiclysm] Add Seeing the Unseen animist spell ([#82636](https://github.com/CleverRaven/Cataclysm-DDA/pull/82636))
 * [MoM] Remove Imperial Church holy symbol variants ([#82639](https://github.com/CleverRaven/Cataclysm-DDA/pull/82639))
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
-* Move map extra list creation out of optional json loading check ([#82629](https://github.com/CleverRaven/Cataclysm-DDA/pull/82629))
