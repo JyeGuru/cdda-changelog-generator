@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add trolls ([#82748](https://github.com/CleverRaven/Cataclysm-DDA/pull/82748))
 
 ---
 
@@ -227,4 +228,3 @@
 * Laptops with evidence in the cops evidence locker ([#82644](https://github.com/CleverRaven/Cataclysm-DDA/pull/82644))
 * Prevent segfault from teleport trap ([#82627](https://github.com/CleverRaven/Cataclysm-DDA/pull/82627))
 * Move map extra list creation out of optional json loading check ([#82629](https://github.com/CleverRaven/Cataclysm-DDA/pull/82629))
-* Prevent segfault when purifying water with connected vehicles ([#82626](https://github.com/CleverRaven/Cataclysm-DDA/pull/82626))

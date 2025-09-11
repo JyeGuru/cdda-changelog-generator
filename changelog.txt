@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add trolls (#82748)
 
 Cataclysm-DDA experimental build 2025-09-11-0003 (2cb7fff)
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm (#82813)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2025-09-04-2017 (8e6e887)
 * Laptops with evidence in the cops evidence locker (#82644)
 * Prevent segfault from teleport trap (#82627)
 * Move map extra list creation out of optional json loading check (#82629)
-* Prevent segfault when purifying water with connected vehicles (#82626)
