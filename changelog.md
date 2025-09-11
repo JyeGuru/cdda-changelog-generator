@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-11-0527 ([a2a69d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-0527))
+
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
 * [Xedra Evolved] Add trolls ([#82748](https://github.com/CleverRaven/Cataclysm-DDA/pull/82748))
 
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-09-04-2145 ([1c54e34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-2145))
 
 * Aftersock: Vendor gear and price related tweaks. ([#82743](https://github.com/CleverRaven/Cataclysm-DDA/pull/82743))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-04-2017 ([8e6e887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-2017))
-
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
 * fix balthazar bunker trying to update yet to be generated map ([#82722](https://github.com/CleverRaven/Cataclysm-DDA/pull/82722))
 * Aftershock: Harvest snow with shovels ([#82738](https://github.com/CleverRaven/Cataclysm-DDA/pull/82738))

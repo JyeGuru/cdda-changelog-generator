@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-11-0527 (a2a69d5)
 * Mark infrared goggles as mundane artifacts (#82837)
 * [Xedra Evolved] Add trolls (#82748)
 
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2025-09-05-0121 (076bbf4)
 
 Cataclysm-DDA experimental build 2025-09-04-2145 (1c54e34)
 * Aftersock: Vendor gear and price related tweaks. (#82743)
-
-Cataclysm-DDA experimental build 2025-09-04-2017 (8e6e887)
 * [XEDRA Evolved] gossamer clothing devarianting (#82750)
 * fix balthazar bunker trying to update yet to be generated map (#82722)
 * Aftershock: Harvest snow with shovels (#82738)
