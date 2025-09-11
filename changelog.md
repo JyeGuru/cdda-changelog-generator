@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-11-0003 ([2cb7fff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-0003))
+
+* Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-09-10-1951 ([f4aad13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-10-1951))
 
 * fix balthazar bunker trying to update yet to be generated map ([#82768](https://github.com/CleverRaven/Cataclysm-DDA/pull/82768))
@@ -172,11 +178,6 @@
 
 * fix balthazar bunker trying to update yet to be generated map ([#82722](https://github.com/CleverRaven/Cataclysm-DDA/pull/82722))
 * Aftershock: Harvest snow with shovels ([#82738](https://github.com/CleverRaven/Cataclysm-DDA/pull/82738))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-04-0329 ([e7eb002](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-04-0329))
-
 * Change "The first day of the rest of their unlives" achievement time passed requirement from 24h to 16h ([#82731](https://github.com/CleverRaven/Cataclysm-DDA/pull/82731))
 * Fix zzip corruption recovery miscalculating when a frame runs past EOF ([#82668](https://github.com/CleverRaven/Cataclysm-DDA/pull/82668))
 * Use generic_u8string() for map key strings because worlds can have unicode names ([#82672](https://github.com/CleverRaven/Cataclysm-DDA/pull/82672))
@@ -213,7 +214,6 @@
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82679](https://github.com/CleverRaven/Cataclysm-DDA/pull/82679))
 * Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))
-* Account for threshold_substitutes in the mutation selector ([#82625](https://github.com/CleverRaven/Cataclysm-DDA/pull/82625))
 * Enchantment cache save corruption fix ([#82674](https://github.com/CleverRaven/Cataclysm-DDA/pull/82674))
 * Aftershock: Clear variants in several copy-from items ([#82655](https://github.com/CleverRaven/Cataclysm-DDA/pull/82655))
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82661](https://github.com/CleverRaven/Cataclysm-DDA/pull/82661))
