@@ -1,3 +1,4 @@
+* Genericize chips bags (#82841)
 * Fix inconsistency and inaccuracy in large metal box's description (#82811)
 * delete assign.h/cpp (#82845)
 
@@ -54,7 +55,6 @@ Cataclysm-DDA experimental build 2025-09-10-1926 (436a0c7)
 
 Cataclysm-DDA 0.I release candidate 2025-09-10-1827 (3458b7b)
 * Manual backport of 82799 (#82803)
-* Update deep fried tripe recipe (#82663)
 * [MoM] Add missing mesmerism fallback learning EoC (#82827)
 * Update planting to 'forward look' conditions for each growth stage (#82812)
 

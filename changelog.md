@@ -1,3 +1,4 @@
+* Genericize chips bags ([#82841](https://github.com/CleverRaven/Cataclysm-DDA/pull/82841))
 * Fix inconsistency and inaccuracy in large metal box's description ([#82811](https://github.com/CleverRaven/Cataclysm-DDA/pull/82811))
 * delete assign.h/cpp ([#82845](https://github.com/CleverRaven/Cataclysm-DDA/pull/82845))
 
@@ -93,7 +94,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-09-10-1827 ([3458b7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-10-1827))
 
 * Manual backport of 82799 ([#82803](https://github.com/CleverRaven/Cataclysm-DDA/pull/82803))
-* Update deep fried tripe recipe ([#82663](https://github.com/CleverRaven/Cataclysm-DDA/pull/82663))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
 * Update planting to 'forward look' conditions for each growth stage ([#82812](https://github.com/CleverRaven/Cataclysm-DDA/pull/82812))
 
