@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-12-0551 ([960acd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-12-0551))
+
+* Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
 * Updated script for checking tags in translations ([#82697](https://github.com/CleverRaven/Cataclysm-DDA/pull/82697))
 
 ---
@@ -169,18 +175,8 @@
 #### Cataclysm-DDA experimental build 2025-09-06-0632 ([03729eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-06-0632))
 
 * Routine i18n updates on 06 September 2025 ([#82785](https://github.com/CleverRaven/Cataclysm-DDA/pull/82785))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-06-0542 ([c58c45a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-06-0542))
-
 * Use optional/mandatory for all iuse actors ([#82742](https://github.com/CleverRaven/Cataclysm-DDA/pull/82742))
 * Update translator notes for Russian ([#82751](https://github.com/CleverRaven/Cataclysm-DDA/pull/82751))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-2346 ([abe67a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-2346))
-
 * Lixa orientation migration ([#82781](https://github.com/CleverRaven/Cataclysm-DDA/pull/82781))
 * Credits for 0.I ([#82780](https://github.com/CleverRaven/Cataclysm-DDA/pull/82780))
 * [MoM] Silent Ones can detect active channeling too ([#82782](https://github.com/CleverRaven/Cataclysm-DDA/pull/82782))
@@ -226,4 +222,3 @@
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82679](https://github.com/CleverRaven/Cataclysm-DDA/pull/82679))
 * Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))
 * Enchantment cache save corruption fix ([#82674](https://github.com/CleverRaven/Cataclysm-DDA/pull/82674))
-* Fix monster spell message being printed even when it's empty ([#82673](https://github.com/CleverRaven/Cataclysm-DDA/pull/82673))

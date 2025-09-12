@@ -1,3 +1,6 @@
+
+Cataclysm-DDA 0.I release candidate 2025-09-12-0551 (960acd7)
+* Fix cody's other dialogue option for joining the coop (#82844)
 * Updated script for checking tags in translations (#82697)
 
 Cataclysm-DDA experimental build 2025-09-12-0451 (38de542)
@@ -94,12 +97,8 @@ Cataclysm-DDA experimental build 2025-09-07-1626 (30dd6a4)
 
 Cataclysm-DDA experimental build 2025-09-06-0632 (03729eb)
 * Routine i18n updates on 06 September 2025 (#82785)
-
-Cataclysm-DDA experimental build 2025-09-06-0542 (c58c45a)
 * Use optional/mandatory for all iuse actors (#82742)
 * Update translator notes for Russian (#82751)
-
-Cataclysm-DDA experimental build 2025-09-05-2346 (abe67a1)
 * Lixa orientation migration (#82781)
 * Credits for 0.I (#82780)
 * [MoM] Silent Ones can detect active channeling too (#82782)
@@ -145,4 +144,3 @@ Cataclysm-DDA experimental build 2025-09-05-2346 (abe67a1)
 * [Magiclysm] Limit Empty to affect only in-mod spells (#82679)
 * Routine i18n updates on 30 August 2025 (#82677)
 * Enchantment cache save corruption fix (#82674)
-* Fix monster spell message being printed even when it's empty (#82673)
