@@ -1,3 +1,4 @@
+* [XE/Sky Island] Vampire progression fixes. ([#82853](https://github.com/CleverRaven/Cataclysm-DDA/pull/82853))
 
 ---
 
@@ -218,7 +219,6 @@
 * Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))
 * [Magiclysm] Add the rust monster ([#82698](https://github.com/CleverRaven/Cataclysm-DDA/pull/82698))
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
-* Aftershock: Clear variants in several copy-from items ([#82680](https://github.com/CleverRaven/Cataclysm-DDA/pull/82680))
 * Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
 * [0.I] Revert unwanted parts of #82376 ([#82685](https://github.com/CleverRaven/Cataclysm-DDA/pull/82685))
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))

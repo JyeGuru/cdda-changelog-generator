@@ -1,3 +1,4 @@
+* [XE/Sky Island] Vampire progression fixes. (#82853)
 
 Cataclysm-DDA experimental build 2025-09-12-2304 (9e33464)
 * reign in crazy damage values for homemade rockets (#82854)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2025-09-07-1816 (756dbff)
 * Routine tileset updates on 01 September 2025 (#82718)
 * [Magiclysm] Add the rust monster (#82698)
 * [MoM] Fix Vitakinetic enervation debuff duration (#82706)
-* Aftershock: Clear variants in several copy-from items (#82680)
 * Silence data loss warning (#82686)
 * [0.I] Revert unwanted parts of #82376 (#82685)
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged (#82696)
