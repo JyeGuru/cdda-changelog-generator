@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-12-2217 ([e945cd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-2217))
+
+* Check if empty before trying to access first item ([#82759](https://github.com/CleverRaven/Cataclysm-DDA/pull/82759))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-12-1029 ([da2ca5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-1029))
 
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-09-07-1727 ([523d681](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1727))
 
 * Appease clang ([#82790](https://github.com/CleverRaven/Cataclysm-DDA/pull/82790))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-07-1626 ([30dd6a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1626))
-
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag ([#82797](https://github.com/CleverRaven/Cataclysm-DDA/pull/82797))
 * Routine i18n updates on 06 September 2025 ([#82785](https://github.com/CleverRaven/Cataclysm-DDA/pull/82785))
 * Use optional/mandatory for all iuse actors ([#82742](https://github.com/CleverRaven/Cataclysm-DDA/pull/82742))
@@ -221,4 +222,3 @@
 * [0.I] Revert unwanted parts of #82376 ([#82685](https://github.com/CleverRaven/Cataclysm-DDA/pull/82685))
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82679](https://github.com/CleverRaven/Cataclysm-DDA/pull/82679))
-* Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))

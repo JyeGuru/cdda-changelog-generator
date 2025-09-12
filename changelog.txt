@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-12-2217 (e945cd6)
+* Check if empty before trying to access first item (#82759)
+
 Cataclysm-DDA experimental build 2025-09-12-1029 (da2ca5b)
 * Fix weighted_int_list iteration build errors (#82859)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-09-07-1816 (756dbff)
 
 Cataclysm-DDA experimental build 2025-09-07-1727 (523d681)
 * Appease clang (#82790)
-
-Cataclysm-DDA experimental build 2025-09-07-1626 (30dd6a4)
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag (#82797)
 * Routine i18n updates on 06 September 2025 (#82785)
 * Use optional/mandatory for all iuse actors (#82742)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-09-07-1626 (30dd6a4)
 * [0.I] Revert unwanted parts of #82376 (#82685)
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged (#82696)
 * [Magiclysm] Limit Empty to affect only in-mod spells (#82679)
-* Routine i18n updates on 30 August 2025 (#82677)
