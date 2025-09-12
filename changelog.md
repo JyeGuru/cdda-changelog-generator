@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-12-0451 ([38de542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-0451))
+
 * Aftershock: Ruins of Orion I ([#82770](https://github.com/CleverRaven/Cataclysm-DDA/pull/82770))
 * Add debug bullet sponge monster, exclude debug monsters from translation ([#82832](https://github.com/CleverRaven/Cataclysm-DDA/pull/82832))
 
@@ -177,11 +182,6 @@
 
 * Lixa orientation migration ([#82781](https://github.com/CleverRaven/Cataclysm-DDA/pull/82781))
 * Credits for 0.I ([#82780](https://github.com/CleverRaven/Cataclysm-DDA/pull/82780))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-2256 ([fca5e30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-2256))
-
 * [MoM] Silent Ones can detect active channeling too ([#82782](https://github.com/CleverRaven/Cataclysm-DDA/pull/82782))
 * Add batch multiplier to crafting UI ([#82779](https://github.com/CleverRaven/Cataclysm-DDA/pull/82779))
 * Add TFLAG_REGION_PSEUDO flag for region terrain/furniture ([#82772](https://github.com/CleverRaven/Cataclysm-DDA/pull/82772))
