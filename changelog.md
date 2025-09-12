@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-12-0110 ([ffcd6c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-0110))
+
 * Genericize chips bags ([#82841](https://github.com/CleverRaven/Cataclysm-DDA/pull/82841))
 * Fix inconsistency and inaccuracy in large metal box's description ([#82811](https://github.com/CleverRaven/Cataclysm-DDA/pull/82811))
 * delete assign.h/cpp ([#82845](https://github.com/CleverRaven/Cataclysm-DDA/pull/82845))
@@ -178,11 +183,6 @@
 * Add batch multiplier to crafting UI ([#82779](https://github.com/CleverRaven/Cataclysm-DDA/pull/82779))
 * Add TFLAG_REGION_PSEUDO flag for region terrain/furniture ([#82772](https://github.com/CleverRaven/Cataclysm-DDA/pull/82772))
 * Weighted list improvements ([#82773](https://github.com/CleverRaven/Cataclysm-DDA/pull/82773))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-1958 ([e71a6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-1958))
-
 * Fix desert_region typo ([#82774](https://github.com/CleverRaven/Cataclysm-DDA/pull/82774))
 * [Magiclysm] Spellcasting profs adjustments ([#82745](https://github.com/CleverRaven/Cataclysm-DDA/pull/82745))
 * LIXA adjustments ([#82765](https://github.com/CleverRaven/Cataclysm-DDA/pull/82765))
