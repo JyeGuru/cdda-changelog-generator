@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-12-2304 ([9e33464](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-2304))
+
 * reign in crazy damage values for homemade rockets ([#82854](https://github.com/CleverRaven/Cataclysm-DDA/pull/82854))
 * [MoM] Add Far Hand and Fountain of Flames as psychic knacks ([#82855](https://github.com/CleverRaven/Cataclysm-DDA/pull/82855))
 
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-09-07-1816 ([756dbff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1816))
 
 * [XE] Vampire drinking and gazes adjustments. ([#82794](https://github.com/CleverRaven/Cataclysm-DDA/pull/82794))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-07-1727 ([523d681](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1727))
-
 * Appease clang ([#82790](https://github.com/CleverRaven/Cataclysm-DDA/pull/82790))
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag ([#82797](https://github.com/CleverRaven/Cataclysm-DDA/pull/82797))
 * Routine i18n updates on 06 September 2025 ([#82785](https://github.com/CleverRaven/Cataclysm-DDA/pull/82785))
