@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-12-0345 ([d32ffbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-0345))
+
+* [Xedra Evolved] Fix Inventor's Welder having migration pocket ([#82847](https://github.com/CleverRaven/Cataclysm-DDA/pull/82847))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-12-0110 ([ffcd6c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-0110))
 
 * Genericize chips bags ([#82841](https://github.com/CleverRaven/Cataclysm-DDA/pull/82841))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-09-05-2256 ([fca5e30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-2256))
 
 * [MoM] Silent Ones can detect active channeling too ([#82782](https://github.com/CleverRaven/Cataclysm-DDA/pull/82782))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-05-2053 ([6a0fec9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-05-2053))
-
 * Add batch multiplier to crafting UI ([#82779](https://github.com/CleverRaven/Cataclysm-DDA/pull/82779))
 * Add TFLAG_REGION_PSEUDO flag for region terrain/furniture ([#82772](https://github.com/CleverRaven/Cataclysm-DDA/pull/82772))
 * Weighted list improvements ([#82773](https://github.com/CleverRaven/Cataclysm-DDA/pull/82773))
@@ -198,7 +199,6 @@
 * eoc: fix loading time of value_or_var ([#82740](https://github.com/CleverRaven/Cataclysm-DDA/pull/82740))
 * Use optional/mandatory in place of assign in monstergenerator.cpp ([#82667](https://github.com/CleverRaven/Cataclysm-DDA/pull/82667))
 * Use optional/mandatory for more vpart_info fields ([#82666](https://github.com/CleverRaven/Cataclysm-DDA/pull/82666))
-* Add debug menu entry to spawn npc in player faction ([#82664](https://github.com/CleverRaven/Cataclysm-DDA/pull/82664))
 * Changed restock time display ([#82726](https://github.com/CleverRaven/Cataclysm-DDA/pull/82726))
 * optional/mandatory for some iuse actors ([#82728](https://github.com/CleverRaven/Cataclysm-DDA/pull/82728))
 * [Magiclysm] The Forge Lords won't take clothes ([#82735](https://github.com/CleverRaven/Cataclysm-DDA/pull/82735))
