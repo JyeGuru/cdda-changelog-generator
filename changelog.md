@@ -1,3 +1,5 @@
+* reign in crazy damage values for homemade rockets ([#82854](https://github.com/CleverRaven/Cataclysm-DDA/pull/82854))
+* [MoM] Add Far Hand and Fountain of Flames as psychic knacks ([#82855](https://github.com/CleverRaven/Cataclysm-DDA/pull/82855))
 
 ---
 
@@ -211,7 +213,6 @@
 * Make cooking oils charges slightly more convenient ([#82683](https://github.com/CleverRaven/Cataclysm-DDA/pull/82683))
 * Replace ar15 with modular_ar15 in looks_likes ([#82709](https://github.com/CleverRaven/Cataclysm-DDA/pull/82709))
 * [MoM] Silent One adjustments ([#82695](https://github.com/CleverRaven/Cataclysm-DDA/pull/82695))
-* Fix monster spell message being printed even when it's empty ([#82678](https://github.com/CleverRaven/Cataclysm-DDA/pull/82678))
 * Fix chitinous scale mail hoods having 0 encumbrance ([#82715](https://github.com/CleverRaven/Cataclysm-DDA/pull/82715))
 * [MoM] Rework crystal field spawns ([#82711](https://github.com/CleverRaven/Cataclysm-DDA/pull/82711))
 * Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))
@@ -221,4 +222,3 @@
 * Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
 * [0.I] Revert unwanted parts of #82376 ([#82685](https://github.com/CleverRaven/Cataclysm-DDA/pull/82685))
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
-* [Magiclysm] Limit Empty to affect only in-mod spells ([#82679](https://github.com/CleverRaven/Cataclysm-DDA/pull/82679))
