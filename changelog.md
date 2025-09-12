@@ -169,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2025-09-07-1626 ([30dd6a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1626))
 
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag ([#82797](https://github.com/CleverRaven/Cataclysm-DDA/pull/82797))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-06-0632 ([03729eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-06-0632))
-
 * Routine i18n updates on 06 September 2025 ([#82785](https://github.com/CleverRaven/Cataclysm-DDA/pull/82785))
 * Use optional/mandatory for all iuse actors ([#82742](https://github.com/CleverRaven/Cataclysm-DDA/pull/82742))
 * Update translator notes for Russian ([#82751](https://github.com/CleverRaven/Cataclysm-DDA/pull/82751))
