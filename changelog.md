@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-12-1029 ([da2ca5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-1029))
+
+* Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-09-12-0551 ([960acd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-12-0551))
 
 * Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
@@ -216,4 +222,3 @@
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
 * [Magiclysm] Limit Empty to affect only in-mod spells ([#82679](https://github.com/CleverRaven/Cataclysm-DDA/pull/82679))
 * Routine i18n updates on 30 August 2025 ([#82677](https://github.com/CleverRaven/Cataclysm-DDA/pull/82677))
-* Enchantment cache save corruption fix ([#82674](https://github.com/CleverRaven/Cataclysm-DDA/pull/82674))
