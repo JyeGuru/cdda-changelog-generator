@@ -1,3 +1,10 @@
+* Add missing uppercase letter on spell characteristics enumerate ([#82784](https://github.com/CleverRaven/Cataclysm-DDA/pull/82784))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-13-0232 ([a5614f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-0232))
+
+* Ignore enemies after autopeek confirmation ([#82867](https://github.com/CleverRaven/Cataclysm-DDA/pull/82867))
 
 ---
 
@@ -170,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-09-08-0025 ([a5e5a13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-08-0025))
 
 * Jackhammers cannot tunnel through walls ([#82757](https://github.com/CleverRaven/Cataclysm-DDA/pull/82757))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-07-1953 ([0e1f354](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-07-1953))
-
 * [MoM] Cracks in reality are outdoor only ([#82799](https://github.com/CleverRaven/Cataclysm-DDA/pull/82799))
 * [XE] Vampire drinking and gazes adjustments. ([#82794](https://github.com/CleverRaven/Cataclysm-DDA/pull/82794))
 * Appease clang ([#82790](https://github.com/CleverRaven/Cataclysm-DDA/pull/82790))
@@ -210,8 +212,6 @@
 * Manually update 0.I for 82706 ([#82717](https://github.com/CleverRaven/Cataclysm-DDA/pull/82717))
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
 * Fix turret install requirements ([#82693](https://github.com/CleverRaven/Cataclysm-DDA/pull/82693))
-* Aftershock: Replace remaining vanilla robots with more setting appropriate ones ([#82681](https://github.com/CleverRaven/Cataclysm-DDA/pull/82681))
-* Make cooking oils charges slightly more convenient ([#82683](https://github.com/CleverRaven/Cataclysm-DDA/pull/82683))
 * Replace ar15 with modular_ar15 in looks_likes ([#82709](https://github.com/CleverRaven/Cataclysm-DDA/pull/82709))
 * [MoM] Silent One adjustments ([#82695](https://github.com/CleverRaven/Cataclysm-DDA/pull/82695))
 * Fix chitinous scale mail hoods having 0 encumbrance ([#82715](https://github.com/CleverRaven/Cataclysm-DDA/pull/82715))
