@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2025-09-13-0331 (19b675e)
+* Aftershock: Ruins of Orion I (#82856)
+
 Cataclysm-DDA experimental build 2025-09-13-0320 (95780af)
 * Add missing uppercase letter on spell characteristics enumerate (#82784)
 
@@ -80,7 +83,6 @@ Cataclysm-DDA 0.I release candidate 2025-09-10-1951 (f4aad13)
 Cataclysm-DDA experimental build 2025-09-10-1926 (436a0c7)
 * weather_generator generic factory support (#82788)
 * Chips audit (#82820)
-* Audit the fries recipe again (#82684)
 * Revert "Add batch multiplier to crafting UI" (#82795)
 * Don't start auto pickup activity if you can't carry any of the items (#82798)
 * Hub 01 MDS canteen fits only liquids (#82805)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2025-09-10-1818 (7eb437c)
 
 Cataclysm-DDA experimental build 2025-09-09-2019 (056938d)
 * Fix loudness multiplier display (#82783)
-
-Cataclysm-DDA experimental build 2025-09-08-2101 (fb40abe)
 * Hazmat units aren't affiliated with Hub 01 (#82809)
 * Jackhammers cannot tunnel through walls (#82757)
 * [MoM] Cracks in reality are outdoor only (#82799)

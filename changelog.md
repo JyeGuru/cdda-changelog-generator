@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-09-13-0331 ([19b675e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-13-0331))
+
+* Aftershock: Ruins of Orion I ([#82856](https://github.com/CleverRaven/Cataclysm-DDA/pull/82856))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-13-0320 ([95780af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-0320))
 
 * Add missing uppercase letter on spell characteristics enumerate ([#82784](https://github.com/CleverRaven/Cataclysm-DDA/pull/82784))
@@ -146,7 +152,6 @@
 
 * weather_generator generic factory support ([#82788](https://github.com/CleverRaven/Cataclysm-DDA/pull/82788))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
-* Audit the fries recipe again ([#82684](https://github.com/CleverRaven/Cataclysm-DDA/pull/82684))
 * Revert "Add batch multiplier to crafting UI" ([#82795](https://github.com/CleverRaven/Cataclysm-DDA/pull/82795))
 * Don't start auto pickup activity if you can't carry any of the items ([#82798](https://github.com/CleverRaven/Cataclysm-DDA/pull/82798))
 * Hub 01 MDS canteen fits only liquids ([#82805](https://github.com/CleverRaven/Cataclysm-DDA/pull/82805))
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-09-09-2019 ([056938d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-09-2019))
 
 * Fix loudness multiplier display ([#82783](https://github.com/CleverRaven/Cataclysm-DDA/pull/82783))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-08-2101 ([fb40abe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-08-2101))
-
 * Hazmat units aren't affiliated with Hub 01 ([#82809](https://github.com/CleverRaven/Cataclysm-DDA/pull/82809))
 * Jackhammers cannot tunnel through walls ([#82757](https://github.com/CleverRaven/Cataclysm-DDA/pull/82757))
 * [MoM] Cracks in reality are outdoor only ([#82799](https://github.com/CleverRaven/Cataclysm-DDA/pull/82799))
