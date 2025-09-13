@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-13-0320 ([95780af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-0320))
+
 * Add missing uppercase letter on spell characteristics enumerate ([#82784](https://github.com/CleverRaven/Cataclysm-DDA/pull/82784))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-09-08-2101 ([fb40abe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-08-2101))
 
 * Hazmat units aren't affiliated with Hub 01 ([#82809](https://github.com/CleverRaven/Cataclysm-DDA/pull/82809))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-08-0025 ([a5e5a13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-08-0025))
-
 * Jackhammers cannot tunnel through walls ([#82757](https://github.com/CleverRaven/Cataclysm-DDA/pull/82757))
 * [MoM] Cracks in reality are outdoor only ([#82799](https://github.com/CleverRaven/Cataclysm-DDA/pull/82799))
 * [XE] Vampire drinking and gazes adjustments. ([#82794](https://github.com/CleverRaven/Cataclysm-DDA/pull/82794))
