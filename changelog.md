@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-13-1359 ([f50f8da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-1359))
+
+* Weekly Changelog 2025-08-25 to 2025-09-01 ([#82720](https://github.com/CleverRaven/Cataclysm-DDA/pull/82720))
 * Fix Japanese world name/nickname generation bug. ([#82737](https://github.com/CleverRaven/Cataclysm-DDA/pull/82737))
 * Remove Stats Through Kills and supporting code ([#82843](https://github.com/CleverRaven/Cataclysm-DDA/pull/82843))
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
@@ -158,11 +164,6 @@
 * Revert "Add batch multiplier to crafting UI" ([#82795](https://github.com/CleverRaven/Cataclysm-DDA/pull/82795))
 * Don't start auto pickup activity if you can't carry any of the items ([#82798](https://github.com/CleverRaven/Cataclysm-DDA/pull/82798))
 * Hub 01 MDS canteen fits only liquids ([#82805](https://github.com/CleverRaven/Cataclysm-DDA/pull/82805))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-10-1827 ([3458b7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-10-1827))
-
 * Manual backport of 82799 ([#82803](https://github.com/CleverRaven/Cataclysm-DDA/pull/82803))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
 * Update planting to 'forward look' conditions for each growth stage ([#82812](https://github.com/CleverRaven/Cataclysm-DDA/pull/82812))
@@ -201,7 +202,6 @@
 * Changed restock time display ([#82726](https://github.com/CleverRaven/Cataclysm-DDA/pull/82726))
 * optional/mandatory for some iuse actors ([#82728](https://github.com/CleverRaven/Cataclysm-DDA/pull/82728))
 * [Magiclysm] The Forge Lords won't take clothes ([#82735](https://github.com/CleverRaven/Cataclysm-DDA/pull/82735))
-* Allow ignoring false positives on the Android accessability services warning ([#82692](https://github.com/CleverRaven/Cataclysm-DDA/pull/82692))
 * [Mods] Add MYOPIC_SUPERNATURAL and MYOPIC_IN_LIGHT_SUPERNATURAL flags ([#82723](https://github.com/CleverRaven/Cataclysm-DDA/pull/82723))
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
