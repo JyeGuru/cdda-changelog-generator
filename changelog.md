@@ -1,3 +1,4 @@
+* Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
 
 ---
 
@@ -220,5 +221,4 @@
 * [Magiclysm] Add the rust monster ([#82698](https://github.com/CleverRaven/Cataclysm-DDA/pull/82698))
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
 * Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
-* [0.I] Revert unwanted parts of #82376 ([#82685](https://github.com/CleverRaven/Cataclysm-DDA/pull/82685))
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
