@@ -1,3 +1,4 @@
+* Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
 
 ---
 
@@ -208,7 +209,6 @@
 * Manually update 0.I for 82706 ([#82717](https://github.com/CleverRaven/Cataclysm-DDA/pull/82717))
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
 * Replace ar15 with modular_ar15 in looks_likes ([#82709](https://github.com/CleverRaven/Cataclysm-DDA/pull/82709))
-* [MoM] Silent One adjustments ([#82695](https://github.com/CleverRaven/Cataclysm-DDA/pull/82695))
 * Fix chitinous scale mail hoods having 0 encumbrance ([#82715](https://github.com/CleverRaven/Cataclysm-DDA/pull/82715))
 * [MoM] Rework crystal field spawns ([#82711](https://github.com/CleverRaven/Cataclysm-DDA/pull/82711))
 * Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))

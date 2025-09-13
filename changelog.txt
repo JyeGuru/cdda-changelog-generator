@@ -1,3 +1,4 @@
+* Workflow to notify/Greet first time PR commenters (#82878)
 
 Cataclysm-DDA experimental build 2025-09-13-1359 (f50f8da)
 * Weekly Changelog 2025-08-25 to 2025-09-01 (#82720)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2025-09-10-1818 (7eb437c)
 * Manually update 0.I for 82706 (#82717)
 * [MoM] Reduce incidence of meditation books in esoteric_books (#82725)
 * Replace ar15 with modular_ar15 in looks_likes (#82709)
-* [MoM] Silent One adjustments (#82695)
 * Fix chitinous scale mail hoods having 0 encumbrance (#82715)
 * [MoM] Rework crystal field spawns (#82711)
 * Routine tileset updates on 01 September 2025 (#82718)
