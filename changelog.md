@@ -1,3 +1,5 @@
+* Fix Japanese world name/nickname generation bug. ([#82737](https://github.com/CleverRaven/Cataclysm-DDA/pull/82737))
+* Remove Stats Through Kills and supporting code ([#82843](https://github.com/CleverRaven/Cataclysm-DDA/pull/82843))
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
 
 ---
@@ -170,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-09-10-1818 ([7eb437c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-10-1818))
 
 * Move overmap city functions to overmap_city.cpp ([#82818](https://github.com/CleverRaven/Cataclysm-DDA/pull/82818))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-09-2019 ([056938d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-09-2019))
-
 * Fix loudness multiplier display ([#82783](https://github.com/CleverRaven/Cataclysm-DDA/pull/82783))
 * Hazmat units aren't affiliated with Hub 01 ([#82809](https://github.com/CleverRaven/Cataclysm-DDA/pull/82809))
 * Jackhammers cannot tunnel through walls ([#82757](https://github.com/CleverRaven/Cataclysm-DDA/pull/82757))
@@ -209,7 +206,6 @@
 * [Mods] Add MYOPIC_SUPERNATURAL and MYOPIC_IN_LIGHT_SUPERNATURAL flags ([#82723](https://github.com/CleverRaven/Cataclysm-DDA/pull/82723))
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
-* eoc: migrate x_or_var helper structs to generic_factory ([#82687](https://github.com/CleverRaven/Cataclysm-DDA/pull/82687))
 * Manually update 0.I for 82706 ([#82717](https://github.com/CleverRaven/Cataclysm-DDA/pull/82717))
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
 * Fix turret install requirements ([#82693](https://github.com/CleverRaven/Cataclysm-DDA/pull/82693))
@@ -220,5 +216,4 @@
 * Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))
 * [Magiclysm] Add the rust monster ([#82698](https://github.com/CleverRaven/Cataclysm-DDA/pull/82698))
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
-* Silence data loss warning ([#82686](https://github.com/CleverRaven/Cataclysm-DDA/pull/82686))
 * [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
