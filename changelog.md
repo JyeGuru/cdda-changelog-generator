@@ -214,4 +214,3 @@
 * Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))
 * [Magiclysm] Add the rust monster ([#82698](https://github.com/CleverRaven/Cataclysm-DDA/pull/82698))
 * [MoM] Fix Vitakinetic enervation debuff duration ([#82706](https://github.com/CleverRaven/Cataclysm-DDA/pull/82706))
-* [Magiclysm/XE] Fix shapeshifted gear that's subsumed into your form still being damaged ([#82696](https://github.com/CleverRaven/Cataclysm-DDA/pull/82696))
