@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-09-14-0842 (250bc71)
+* Radiation only mutates you in mammalian categories (#82871)
 * Workflow to notify/Greet first time PR commenters (#82878)
 
 Cataclysm-DDA experimental build 2025-09-13-1359 (f50f8da)
@@ -30,7 +33,6 @@ Cataclysm-DDA experimental build 2025-09-12-1029 (da2ca5b)
 
 Cataclysm-DDA 0.I release candidate 2025-09-12-0551 (960acd7)
 * Fix cody's other dialogue option for joining the coop (#82844)
-* Updated script for checking tags in translations (#82697)
 
 Cataclysm-DDA experimental build 2025-09-12-0451 (38de542)
 * Aftershock: Ruins of Orion I (#82770)
@@ -83,8 +85,6 @@ Cataclysm-DDA experimental build 2025-09-11-0527 (a2a69d5)
 
 Cataclysm-DDA experimental build 2025-09-11-0003 (2cb7fff)
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm (#82813)
-
-Cataclysm-DDA 0.I release candidate 2025-09-10-1951 (f4aad13)
 * fix balthazar bunker trying to update yet to be generated map (#82768)
 
 Cataclysm-DDA experimental build 2025-09-10-1926 (436a0c7)

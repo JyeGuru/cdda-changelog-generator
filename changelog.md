@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-14-0842 ([250bc71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-0842))
+
+* Radiation only mutates you in mammalian categories ([#82871](https://github.com/CleverRaven/Cataclysm-DDA/pull/82871))
 * Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
 
 ---
@@ -57,7 +63,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-09-12-0551 ([960acd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-12-0551))
 
 * Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
-* Updated script for checking tags in translations ([#82697](https://github.com/CleverRaven/Cataclysm-DDA/pull/82697))
 
 ---
 
@@ -149,11 +154,6 @@
 #### Cataclysm-DDA experimental build 2025-09-11-0003 ([2cb7fff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-0003))
 
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-10-1951 ([f4aad13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-10-1951))
-
 * fix balthazar bunker trying to update yet to be generated map ([#82768](https://github.com/CleverRaven/Cataclysm-DDA/pull/82768))
 
 ---
