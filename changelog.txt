@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-14-1627 (7e89b44)
+* Adjust the 'hide inside' capability of some furnitures (#82897)
+
 Cataclysm-DDA experimental build 2025-09-14-0842 (250bc71)
 * Radiation only mutates you in mammalian categories (#82871)
 * Workflow to notify/Greet first time PR commenters (#82878)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-09-10-1926 (436a0c7)
 * Manual backport of 82799 (#82803)
 * [MoM] Add missing mesmerism fallback learning EoC (#82827)
 * Update planting to 'forward look' conditions for each growth stage (#82812)
-
-Cataclysm-DDA experimental build 2025-09-10-1818 (7eb437c)
 * Move overmap city functions to overmap_city.cpp (#82818)
 * Fix loudness multiplier display (#82783)
 * Hazmat units aren't affiliated with Hub 01 (#82809)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2025-09-10-1818 (7eb437c)
 * Fix chitinous scale mail hoods having 0 encumbrance (#82715)
 * [MoM] Rework crystal field spawns (#82711)
 * Routine tileset updates on 01 September 2025 (#82718)
-* [MoM] Fix Vitakinetic enervation debuff duration (#82706)
