@@ -1,3 +1,11 @@
+* revert kill_xp updates removal to preserve functionality of in-repo mods ([#82882](https://github.com/CleverRaven/Cataclysm-DDA/pull/82882))
+* Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-14-2001 ([01c0128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-2001))
+
+* do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
 
 ---
 
@@ -161,11 +169,6 @@
 
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
 * fix balthazar bunker trying to update yet to be generated map ([#82768](https://github.com/CleverRaven/Cataclysm-DDA/pull/82768))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-10-1926 ([436a0c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-10-1926))
-
 * weather_generator generic factory support ([#82788](https://github.com/CleverRaven/Cataclysm-DDA/pull/82788))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
 * Revert "Add batch multiplier to crafting UI" ([#82795](https://github.com/CleverRaven/Cataclysm-DDA/pull/82795))
@@ -209,7 +212,4 @@
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
 * Manually update 0.I for 82706 ([#82717](https://github.com/CleverRaven/Cataclysm-DDA/pull/82717))
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
-* Replace ar15 with modular_ar15 in looks_likes ([#82709](https://github.com/CleverRaven/Cataclysm-DDA/pull/82709))
-* Fix chitinous scale mail hoods having 0 encumbrance ([#82715](https://github.com/CleverRaven/Cataclysm-DDA/pull/82715))
-* [MoM] Rework crystal field spawns ([#82711](https://github.com/CleverRaven/Cataclysm-DDA/pull/82711))
 * Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))
