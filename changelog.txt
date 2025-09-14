@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-14-2049 (5570e0a)
 * revert kill_xp updates removal to preserve functionality of in-repo mods (#82882)
 * Remove animal discord/empathy from starting traits (#82892)
 
@@ -78,8 +80,6 @@ Cataclysm-DDA 0.I release candidate 2025-09-11-1541 (a635d8f)
 * Replace ar15 with modular_ar15 in looks_likes (#82721)
 * Replace assign with optional/mandatory in veh_type (#82741)
 * Use optional/mandatory in mapdata, recipe, mod manager, and monster groups (#82767)
-
-Cataclysm-DDA 0.I release candidate 2025-09-11-1320 (e3c6cf1)
 * Aftersock: Vendor gear and price related tweaks. (#82771)
 * Update the ammunition in the Arsenal of the military base (#82787)
 * Fix cody's other dialogue option for joining the coop (#82816)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-14-2049 ([5570e0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-2049))
+
 * revert kill_xp updates removal to preserve functionality of in-repo mods ([#82882](https://github.com/CleverRaven/Cataclysm-DDA/pull/82882))
 * Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
 
@@ -141,11 +146,6 @@
 * Replace ar15 with modular_ar15 in looks_likes ([#82721](https://github.com/CleverRaven/Cataclysm-DDA/pull/82721))
 * Replace assign with optional/mandatory in veh_type ([#82741](https://github.com/CleverRaven/Cataclysm-DDA/pull/82741))
 * Use optional/mandatory in mapdata, recipe, mod manager, and monster groups ([#82767](https://github.com/CleverRaven/Cataclysm-DDA/pull/82767))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-11-1320 ([e3c6cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-11-1320))
-
 * Aftersock: Vendor gear and price related tweaks. ([#82771](https://github.com/CleverRaven/Cataclysm-DDA/pull/82771))
 * Update the ammunition in the Arsenal of the military base ([#82787](https://github.com/CleverRaven/Cataclysm-DDA/pull/82787))
 * Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
