@@ -1,3 +1,4 @@
+* Small price audit ([#82888](https://github.com/CleverRaven/Cataclysm-DDA/pull/82888))
 
 ---
 
@@ -210,6 +211,5 @@
 * [Mods] Add MYOPIC_SUPERNATURAL and MYOPIC_IN_LIGHT_SUPERNATURAL flags ([#82723](https://github.com/CleverRaven/Cataclysm-DDA/pull/82723))
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
-* Manually update 0.I for 82706 ([#82717](https://github.com/CleverRaven/Cataclysm-DDA/pull/82717))
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
 * Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))

@@ -1,3 +1,4 @@
+* Small price audit (#82888)
 
 Cataclysm-DDA experimental build 2025-09-14-2049 (5570e0a)
 * revert kill_xp updates removal to preserve functionality of in-repo mods (#82882)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2025-09-11-0003 (2cb7fff)
 * [Mods] Add MYOPIC_SUPERNATURAL and MYOPIC_IN_LIGHT_SUPERNATURAL flags (#82723)
 * Aftershock: Harvest snow with shovels (#82730)
 * Worthless scraps are now worthless (#82736)
-* Manually update 0.I for 82706 (#82717)
 * [MoM] Reduce incidence of meditation books in esoteric_books (#82725)
 * Routine tileset updates on 01 September 2025 (#82718)
