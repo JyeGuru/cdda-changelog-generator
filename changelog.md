@@ -146,7 +146,6 @@
 #### Cataclysm-DDA experimental build 2025-09-11-1510 ([ca8f492](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-1510))
 
 * [ Xedra Evolved ] More Noble dream snippets ([#82739](https://github.com/CleverRaven/Cataclysm-DDA/pull/82739))
-* Replace ar15 with modular_ar15 in looks_likes ([#82721](https://github.com/CleverRaven/Cataclysm-DDA/pull/82721))
 * Replace assign with optional/mandatory in veh_type ([#82741](https://github.com/CleverRaven/Cataclysm-DDA/pull/82741))
 * Use optional/mandatory in mapdata, recipe, mod manager, and monster groups ([#82767](https://github.com/CleverRaven/Cataclysm-DDA/pull/82767))
 * Aftersock: Vendor gear and price related tweaks. ([#82771](https://github.com/CleverRaven/Cataclysm-DDA/pull/82771))
