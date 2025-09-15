@@ -1,3 +1,4 @@
+* JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) ([#82879](https://github.com/CleverRaven/Cataclysm-DDA/pull/82879))
 * Sky island terraforming & security ([#82891](https://github.com/CleverRaven/Cataclysm-DDA/pull/82891))
 
 ---
@@ -37,12 +38,6 @@
 
 * Radiation only mutates you in mammalian categories ([#82871](https://github.com/CleverRaven/Cataclysm-DDA/pull/82871))
 * Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-13-1359 ([f50f8da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-1359))
-
-* Weekly Changelog 2025-08-25 to 2025-09-01 ([#82720](https://github.com/CleverRaven/Cataclysm-DDA/pull/82720))
 * Fix Japanese world name/nickname generation bug. ([#82737](https://github.com/CleverRaven/Cataclysm-DDA/pull/82737))
 * Remove Stats Through Kills and supporting code ([#82843](https://github.com/CleverRaven/Cataclysm-DDA/pull/82843))
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
