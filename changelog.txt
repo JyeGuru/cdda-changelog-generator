@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-15-0516 (a6368f0)
 * JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) (#82879)
 * Sky island terraforming & security (#82891)
 
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2025-09-11-1312 (5163525)
 Cataclysm-DDA experimental build 2025-09-11-0527 (a2a69d5)
 * Mark infrared goggles as mundane artifacts (#82837)
 * [Xedra Evolved] Add trolls (#82748)
-
-Cataclysm-DDA experimental build 2025-09-11-0003 (2cb7fff)
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm (#82813)
 * fix balthazar bunker trying to update yet to be generated map (#82768)
 * weather_generator generic factory support (#82788)
