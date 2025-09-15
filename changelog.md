@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-15-1548 ([e0648d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1548))
+
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
 
 ---
@@ -164,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2025-09-11-1312 ([5163525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-1312))
 
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-11-0527 ([a2a69d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-0527))
-
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
 * [Xedra Evolved] Add trolls ([#82748](https://github.com/CleverRaven/Cataclysm-DDA/pull/82748))
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))

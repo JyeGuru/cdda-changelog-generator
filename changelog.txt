@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-15-1548 (e0648d7)
 * Weekly Changelog 2025-09-08 to 2025-09-15 (#82906)
 
 Cataclysm-DDA experimental build 2025-09-15-1437 (1b07f7d)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2025-09-11-1510 (ca8f492)
 
 Cataclysm-DDA experimental build 2025-09-11-1312 (5163525)
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility (#82831)
-
-Cataclysm-DDA experimental build 2025-09-11-0527 (a2a69d5)
 * Mark infrared goggles as mundane artifacts (#82837)
 * [Xedra Evolved] Add trolls (#82748)
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm (#82813)
