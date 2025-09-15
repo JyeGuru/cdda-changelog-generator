@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-15-1955 ([a537f4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1955))
+
+* New region_settings structs, part 1 ([#82852](https://github.com/CleverRaven/Cataclysm-DDA/pull/82852))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-15-1548 ([e0648d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1548))
 
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
@@ -163,11 +169,6 @@
 * Aftersock: Vendor gear and price related tweaks. ([#82771](https://github.com/CleverRaven/Cataclysm-DDA/pull/82771))
 * Update the ammunition in the Arsenal of the military base ([#82787](https://github.com/CleverRaven/Cataclysm-DDA/pull/82787))
 * Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-11-1312 ([5163525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-1312))
-
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
 * [Xedra Evolved] Add trolls ([#82748](https://github.com/CleverRaven/Cataclysm-DDA/pull/82748))
@@ -212,4 +213,3 @@
 * [Magiclysm] The Forge Lords won't take clothes ([#82735](https://github.com/CleverRaven/Cataclysm-DDA/pull/82735))
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
-* [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
