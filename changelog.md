@@ -1,3 +1,4 @@
+* Sky island terraforming & security ([#82891](https://github.com/CleverRaven/Cataclysm-DDA/pull/82891))
 
 ---
 

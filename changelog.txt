@@ -1,3 +1,4 @@
+* Sky island terraforming & security (#82891)
 
 Cataclysm-DDA experimental build 2025-09-15-0403 (3e6c3c8)
 * Remove superfluous include to fix IWYU (#82905)
