@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-15-0403 ([3e6c3c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-0403))
+
+* Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-14-2136 ([a58f609](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-2136))
 
 * Small price audit ([#82888](https://github.com/CleverRaven/Cataclysm-DDA/pull/82888))
@@ -118,11 +124,6 @@
 * Add vertical milling machines ([#82764](https://github.com/CleverRaven/Cataclysm-DDA/pull/82764))
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag ([#82833](https://github.com/CleverRaven/Cataclysm-DDA/pull/82833))
 * Fix portal storm error ([#82848](https://github.com/CleverRaven/Cataclysm-DDA/pull/82848))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-11-2303 ([f470f1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-11-2303))
-
 * [MoM] Add missing mesmerism fallback learning EoC ([#82830](https://github.com/CleverRaven/Cataclysm-DDA/pull/82830))
 * Feline ears prettiness adjustment ([#82828](https://github.com/CleverRaven/Cataclysm-DDA/pull/82828))
 * Weekly Changelog 2025-09-01 to 2025-09-08 ([#82806](https://github.com/CleverRaven/Cataclysm-DDA/pull/82806))
@@ -212,4 +213,3 @@
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
-* Routine tileset updates on 01 September 2025 ([#82718](https://github.com/CleverRaven/Cataclysm-DDA/pull/82718))

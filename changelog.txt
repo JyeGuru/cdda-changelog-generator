@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-15-0403 (3e6c3c8)
+* Remove superfluous include to fix IWYU (#82905)
+
 Cataclysm-DDA experimental build 2025-09-14-2136 (a58f609)
 * Small price audit (#82888)
 
@@ -64,8 +67,6 @@ Cataclysm-DDA experimental build 2025-09-11-2341 (cd1bbfd)
 * Add vertical milling machines (#82764)
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag (#82833)
 * Fix portal storm error (#82848)
-
-Cataclysm-DDA 0.I release candidate 2025-09-11-2303 (f470f1f)
 * [MoM] Add missing mesmerism fallback learning EoC (#82830)
 * Feline ears prettiness adjustment (#82828)
 * Weekly Changelog 2025-09-01 to 2025-09-08 (#82806)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2025-09-11-0003 (2cb7fff)
 * Aftershock: Harvest snow with shovels (#82730)
 * Worthless scraps are now worthless (#82736)
 * [MoM] Reduce incidence of meditation books in esoteric_books (#82725)
-* Routine tileset updates on 01 September 2025 (#82718)
