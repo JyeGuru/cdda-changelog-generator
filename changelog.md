@@ -1,3 +1,10 @@
+* Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-15-1437 ([1b07f7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1437))
+
+* [Bombastic Perks] Add more perks ([#82893](https://github.com/CleverRaven/Cataclysm-DDA/pull/82893))
 
 ---
 
@@ -197,14 +204,12 @@
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
 * Aftersock: Vendor gear and price related tweaks. ([#82743](https://github.com/CleverRaven/Cataclysm-DDA/pull/82743))
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
-* fix balthazar bunker trying to update yet to be generated map ([#82722](https://github.com/CleverRaven/Cataclysm-DDA/pull/82722))
 * Aftershock: Harvest snow with shovels ([#82738](https://github.com/CleverRaven/Cataclysm-DDA/pull/82738))
 * Change "The first day of the rest of their unlives" achievement time passed requirement from 24h to 16h ([#82731](https://github.com/CleverRaven/Cataclysm-DDA/pull/82731))
 * eoc: fix loading time of value_or_var ([#82740](https://github.com/CleverRaven/Cataclysm-DDA/pull/82740))
 * Changed restock time display ([#82726](https://github.com/CleverRaven/Cataclysm-DDA/pull/82726))
 * optional/mandatory for some iuse actors ([#82728](https://github.com/CleverRaven/Cataclysm-DDA/pull/82728))
 * [Magiclysm] The Forge Lords won't take clothes ([#82735](https://github.com/CleverRaven/Cataclysm-DDA/pull/82735))
-* [Mods] Add MYOPIC_SUPERNATURAL and MYOPIC_IN_LIGHT_SUPERNATURAL flags ([#82723](https://github.com/CleverRaven/Cataclysm-DDA/pull/82723))
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
 * [MoM] Reduce incidence of meditation books in esoteric_books ([#82725](https://github.com/CleverRaven/Cataclysm-DDA/pull/82725))
