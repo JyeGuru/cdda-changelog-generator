@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-16-1152 ([748997f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-1152))
+
 * Fix some missed iuse initializers. ([#82910](https://github.com/CleverRaven/Cataclysm-DDA/pull/82910))
 
 ---
@@ -161,11 +166,6 @@
 * Genericize chips bags ([#82841](https://github.com/CleverRaven/Cataclysm-DDA/pull/82841))
 * Fix inconsistency and inaccuracy in large metal box's description ([#82811](https://github.com/CleverRaven/Cataclysm-DDA/pull/82811))
 * delete assign.h/cpp ([#82845](https://github.com/CleverRaven/Cataclysm-DDA/pull/82845))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-11-2341 ([cd1bbfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-2341))
-
 * Make numb mutation non-purifiable and make player not feel guilt if they have it. ([#82760](https://github.com/CleverRaven/Cataclysm-DDA/pull/82760))
 * Add vertical milling machines ([#82764](https://github.com/CleverRaven/Cataclysm-DDA/pull/82764))
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag ([#82833](https://github.com/CleverRaven/Cataclysm-DDA/pull/82833))
