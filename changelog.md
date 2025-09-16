@@ -1,3 +1,10 @@
+* move body_part_type::type to enums.h to resolve include loop ([#82900](https://github.com/CleverRaven/Cataclysm-DDA/pull/82900))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-16-0157 ([e012d67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-0157))
+
+* Rename Masochist into Pain Driven. ([#82895](https://github.com/CleverRaven/Cataclysm-DDA/pull/82895))
 
 ---
 
@@ -158,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2025-09-11-2108 ([ee2a5e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-2108))
 
 * ter_furn_id uses std::variant, deserialize ([#82802](https://github.com/CleverRaven/Cataclysm-DDA/pull/82802))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-11-1510 ([ca8f492](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-1510))
-
 * [ Xedra Evolved ] More Noble dream snippets ([#82739](https://github.com/CleverRaven/Cataclysm-DDA/pull/82739))
 * Replace assign with optional/mandatory in veh_type ([#82741](https://github.com/CleverRaven/Cataclysm-DDA/pull/82741))
 * Use optional/mandatory in mapdata, recipe, mod manager, and monster groups ([#82767](https://github.com/CleverRaven/Cataclysm-DDA/pull/82767))
@@ -208,8 +210,6 @@
 * Aftershock: Harvest snow with shovels ([#82738](https://github.com/CleverRaven/Cataclysm-DDA/pull/82738))
 * Change "The first day of the rest of their unlives" achievement time passed requirement from 24h to 16h ([#82731](https://github.com/CleverRaven/Cataclysm-DDA/pull/82731))
 * eoc: fix loading time of value_or_var ([#82740](https://github.com/CleverRaven/Cataclysm-DDA/pull/82740))
-* Changed restock time display ([#82726](https://github.com/CleverRaven/Cataclysm-DDA/pull/82726))
-* optional/mandatory for some iuse actors ([#82728](https://github.com/CleverRaven/Cataclysm-DDA/pull/82728))
 * [Magiclysm] The Forge Lords won't take clothes ([#82735](https://github.com/CleverRaven/Cataclysm-DDA/pull/82735))
 * Aftershock: Harvest snow with shovels ([#82730](https://github.com/CleverRaven/Cataclysm-DDA/pull/82730))
 * Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
