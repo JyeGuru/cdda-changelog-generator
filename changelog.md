@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-16-1814 ([1f3da5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-1814))
+
+* Fix deep frying calories ([#82908](https://github.com/CleverRaven/Cataclysm-DDA/pull/82908))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-16-1152 ([748997f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-1152))
 
 * Fix some missed iuse initializers. ([#82910](https://github.com/CleverRaven/Cataclysm-DDA/pull/82910))
@@ -139,11 +145,6 @@
 #### Cataclysm-DDA experimental build 2025-09-12-1029 ([da2ca5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-1029))
 
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-12-0551 ([960acd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-12-0551))
-
 * Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
 
 ---
@@ -175,7 +176,6 @@
 * Weekly Changelog 2025-09-01 to 2025-09-08 ([#82806](https://github.com/CleverRaven/Cataclysm-DDA/pull/82806))
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
 * ter_furn_id uses std::variant, deserialize ([#82802](https://github.com/CleverRaven/Cataclysm-DDA/pull/82802))
-* [ Xedra Evolved ] More Noble dream snippets ([#82739](https://github.com/CleverRaven/Cataclysm-DDA/pull/82739))
 * Replace assign with optional/mandatory in veh_type ([#82741](https://github.com/CleverRaven/Cataclysm-DDA/pull/82741))
 * Use optional/mandatory in mapdata, recipe, mod manager, and monster groups ([#82767](https://github.com/CleverRaven/Cataclysm-DDA/pull/82767))
 * Aftersock: Vendor gear and price related tweaks. ([#82771](https://github.com/CleverRaven/Cataclysm-DDA/pull/82771))
