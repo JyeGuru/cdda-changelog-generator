@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-16-0721 ([2bed65c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-0721))
+
 * [MoM] Add contemplation recipes for knacks (through photokinesis) ([#82913](https://github.com/CleverRaven/Cataclysm-DDA/pull/82913))
 * [Mods] Fix some typos ([#82915](https://github.com/CleverRaven/Cataclysm-DDA/pull/82915))
 * Typo fix ([#82923](https://github.com/CleverRaven/Cataclysm-DDA/pull/82923))
@@ -167,11 +172,6 @@
 * [MoM] Add missing mesmerism fallback learning EoC ([#82830](https://github.com/CleverRaven/Cataclysm-DDA/pull/82830))
 * Feline ears prettiness adjustment ([#82828](https://github.com/CleverRaven/Cataclysm-DDA/pull/82828))
 * Weekly Changelog 2025-09-01 to 2025-09-08 ([#82806](https://github.com/CleverRaven/Cataclysm-DDA/pull/82806))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-11-2246 ([da04caa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-11-2246))
-
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
 * ter_furn_id uses std::variant, deserialize ([#82802](https://github.com/CleverRaven/Cataclysm-DDA/pull/82802))
 * [ Xedra Evolved ] More Noble dream snippets ([#82739](https://github.com/CleverRaven/Cataclysm-DDA/pull/82739))
