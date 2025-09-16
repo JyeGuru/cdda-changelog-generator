@@ -1,3 +1,6 @@
+* [MoM] Add contemplation recipes for knacks (through photokinesis) ([#82913](https://github.com/CleverRaven/Cataclysm-DDA/pull/82913))
+* [Mods] Fix some typos ([#82915](https://github.com/CleverRaven/Cataclysm-DDA/pull/82915))
+* Typo fix ([#82923](https://github.com/CleverRaven/Cataclysm-DDA/pull/82923))
 * Animal Discord/Empathy as starting traits in Tamable Wildlife ([#82919](https://github.com/CleverRaven/Cataclysm-DDA/pull/82919))
 
 ---
@@ -80,7 +83,6 @@
 
 * Radiation only mutates you in mammalian categories ([#82871](https://github.com/CleverRaven/Cataclysm-DDA/pull/82871))
 * Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
-* Fix Japanese world name/nickname generation bug. ([#82737](https://github.com/CleverRaven/Cataclysm-DDA/pull/82737))
 * Remove Stats Through Kills and supporting code ([#82843](https://github.com/CleverRaven/Cataclysm-DDA/pull/82843))
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
 
@@ -216,5 +218,3 @@
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
 * Aftershock: Harvest snow with shovels ([#82738](https://github.com/CleverRaven/Cataclysm-DDA/pull/82738))
 * eoc: fix loading time of value_or_var ([#82740](https://github.com/CleverRaven/Cataclysm-DDA/pull/82740))
-* [Magiclysm] The Forge Lords won't take clothes ([#82735](https://github.com/CleverRaven/Cataclysm-DDA/pull/82735))
-* Worthless scraps are now worthless ([#82736](https://github.com/CleverRaven/Cataclysm-DDA/pull/82736))
