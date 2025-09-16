@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-16-2330 ([683a8c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-2330))
+
+* New region settings structs, part 2 ([#82916](https://github.com/CleverRaven/Cataclysm-DDA/pull/82916))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-16-1814 ([1f3da5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-1814))
 
 * Fix deep frying calories ([#82908](https://github.com/CleverRaven/Cataclysm-DDA/pull/82908))
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2025-09-12-0345 ([d32ffbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-0345))
 
 * [Xedra Evolved] Fix Inventor's Welder having migration pocket ([#82847](https://github.com/CleverRaven/Cataclysm-DDA/pull/82847))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-12-0110 ([ffcd6c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-0110))
-
 * Genericize chips bags ([#82841](https://github.com/CleverRaven/Cataclysm-DDA/pull/82841))
 * Fix inconsistency and inaccuracy in large metal box's description ([#82811](https://github.com/CleverRaven/Cataclysm-DDA/pull/82811))
 * delete assign.h/cpp ([#82845](https://github.com/CleverRaven/Cataclysm-DDA/pull/82845))
@@ -217,4 +218,3 @@
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
 * Aftersock: Vendor gear and price related tweaks. ([#82743](https://github.com/CleverRaven/Cataclysm-DDA/pull/82743))
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
-* eoc: fix loading time of value_or_var ([#82740](https://github.com/CleverRaven/Cataclysm-DDA/pull/82740))
