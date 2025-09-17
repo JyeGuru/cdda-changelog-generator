@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2025-09-17-0751 (48ad0dd)
+* [0.I] Remove stats through kills (#82912)
+
 Cataclysm-DDA experimental build 2025-09-16-2330 (683a8c9)
 * New region settings structs, part 2 (#82916)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2025-09-12-1029 (da2ca5b)
 Cataclysm-DDA experimental build 2025-09-12-0451 (38de542)
 * Aftershock: Ruins of Orion I (#82770)
 * Add debug bullet sponge monster, exclude debug monsters from translation (#82832)
-
-Cataclysm-DDA experimental build 2025-09-12-0345 (d32ffbc)
 * [Xedra Evolved] Fix Inventor's Welder having migration pocket (#82847)
 * Genericize chips bags (#82841)
 * Fix inconsistency and inaccuracy in large metal box's description (#82811)
@@ -99,7 +100,6 @@ Cataclysm-DDA experimental build 2025-09-12-0345 (d32ffbc)
 * Weekly Changelog 2025-09-01 to 2025-09-08 (#82806)
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. (#82834)
 * ter_furn_id uses std::variant, deserialize (#82802)
-* Replace assign with optional/mandatory in veh_type (#82741)
 * Use optional/mandatory in mapdata, recipe, mod manager, and monster groups (#82767)
 * Aftersock: Vendor gear and price related tweaks. (#82771)
 * Update the ammunition in the Arsenal of the military base (#82787)
