@@ -1,3 +1,4 @@
+* [Mods] Add the `SUMMONED_CREATURE` species to more summons (#82952)
 
 Cataclysm-DDA experimental build 2025-09-18-2159 (ad33333)
 * Move `overmap_special`-related classes/structs from overmap.cpp to omdata.h (#82920)
@@ -102,7 +103,6 @@ Cataclysm-DDA experimental build 2025-09-13-0232 (a5614f9)
 * Genericize chips bags (#82841)
 * Fix inconsistency and inaccuracy in large metal box's description (#82811)
 * delete assign.h/cpp (#82845)
-* Make numb mutation non-purifiable and make player not feel guilt if they have it. (#82760)
 * Add vertical milling machines (#82764)
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag (#82833)
 * Fix portal storm error (#82848)
