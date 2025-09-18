@@ -1,3 +1,4 @@
+* New region settings structs, part 3 (#82933)
 
 Cataclysm-DDA experimental build 2025-09-18-0600 (f30c996)
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates (#82942)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2025-09-12-1029 (da2ca5b)
 * Appease clang (#82790)
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag (#82797)
 * Routine i18n updates on 06 September 2025 (#82785)
-* Update translator notes for Russian (#82751)
 * Lixa orientation migration (#82781)
 * Credits for 0.I (#82780)
 * [MoM] Silent Ones can detect active channeling too (#82782)
