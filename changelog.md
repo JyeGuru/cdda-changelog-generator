@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-18-0707 ([1f6023d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-0707))
+
 * New region settings structs, part 3 ([#82933](https://github.com/CleverRaven/Cataclysm-DDA/pull/82933))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-09-12-2217 ([e945cd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-2217))
 
 * Check if empty before trying to access first item ([#82759](https://github.com/CleverRaven/Cataclysm-DDA/pull/82759))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-12-1029 ([da2ca5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-1029))
-
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
 * Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
 * Aftershock: Ruins of Orion I ([#82770](https://github.com/CleverRaven/Cataclysm-DDA/pull/82770))
