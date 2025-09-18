@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-18-2159 ([ad33333](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-2159))
+
+* Move `overmap_special`-related classes/structs from overmap.cpp to omdata.h ([#82920](https://github.com/CleverRaven/Cataclysm-DDA/pull/82920))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-18-1825 ([d701a87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-1825))
 
 * dimensional travel (isekai the return) ([#82924](https://github.com/CleverRaven/Cataclysm-DDA/pull/82924))
@@ -169,15 +175,9 @@
 #### Cataclysm-DDA experimental build 2025-09-13-0232 ([a5614f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-0232))
 
 * Ignore enemies after autopeek confirmation ([#82867](https://github.com/CleverRaven/Cataclysm-DDA/pull/82867))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-13-0007 ([8b9d63d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-0007))
-
 * [XE/Sky Island] Vampire progression fixes. ([#82853](https://github.com/CleverRaven/Cataclysm-DDA/pull/82853))
 * reign in crazy damage values for homemade rockets ([#82854](https://github.com/CleverRaven/Cataclysm-DDA/pull/82854))
 * [MoM] Add Far Hand and Fountain of Flames as psychic knacks ([#82855](https://github.com/CleverRaven/Cataclysm-DDA/pull/82855))
-* Check if empty before trying to access first item ([#82759](https://github.com/CleverRaven/Cataclysm-DDA/pull/82759))
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
 * Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
 * Aftershock: Ruins of Orion I ([#82770](https://github.com/CleverRaven/Cataclysm-DDA/pull/82770))
