@@ -1,3 +1,4 @@
+* dimensional travel (isekai the return) (#82924)
 * Various sunken heli fixes and adjustments (#82939)
 
 Cataclysm-DDA experimental build 2025-09-18-1719 (657b4d7)

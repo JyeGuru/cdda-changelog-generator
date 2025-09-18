@@ -1,3 +1,4 @@
+* dimensional travel (isekai the return) ([#82924](https://github.com/CleverRaven/Cataclysm-DDA/pull/82924))
 * Various sunken heli fixes and adjustments ([#82939](https://github.com/CleverRaven/Cataclysm-DDA/pull/82939))
 
 ---
