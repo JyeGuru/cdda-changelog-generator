@@ -1,3 +1,10 @@
+* Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates ([#82942](https://github.com/CleverRaven/Cataclysm-DDA/pull/82942))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-18-0455 ([a49a571](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-0455))
+
+* Add serialization for TALK_MISSION_INQUIRE/TALK_MISSION_DESCRIBE_URGENT ([#82911](https://github.com/CleverRaven/Cataclysm-DDA/pull/82911))
 
 ---
 
@@ -185,7 +192,6 @@
 * Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
-* [Xedra Evolved] Add trolls ([#82748](https://github.com/CleverRaven/Cataclysm-DDA/pull/82748))
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
 * fix balthazar bunker trying to update yet to be generated map ([#82768](https://github.com/CleverRaven/Cataclysm-DDA/pull/82768))
 * weather_generator generic factory support ([#82788](https://github.com/CleverRaven/Cataclysm-DDA/pull/82788))
@@ -215,4 +221,3 @@
 * Fix desert_region typo ([#82774](https://github.com/CleverRaven/Cataclysm-DDA/pull/82774))
 * LIXA adjustments ([#82765](https://github.com/CleverRaven/Cataclysm-DDA/pull/82765))
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
-* [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
