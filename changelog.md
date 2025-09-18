@@ -1,3 +1,9 @@
+* [Innawoods] loading screen ([#82949](https://github.com/CleverRaven/Cataclysm-DDA/pull/82949))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-18-2341 ([1b113f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-2341))
+
 * [Mods] Add the `SUMMONED_CREATURE` species to more summons ([#82952](https://github.com/CleverRaven/Cataclysm-DDA/pull/82952))
 
 ---
@@ -158,11 +164,6 @@
 * Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
 * Remove Stats Through Kills and supporting code ([#82843](https://github.com/CleverRaven/Cataclysm-DDA/pull/82843))
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-13-0331 ([19b675e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-13-0331))
-
 * Aftershock: Ruins of Orion I ([#82856](https://github.com/CleverRaven/Cataclysm-DDA/pull/82856))
 
 ---

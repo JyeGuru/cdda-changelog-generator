@@ -1,3 +1,6 @@
+* [Innawoods] loading screen (#82949)
+
+Cataclysm-DDA experimental build 2025-09-18-2341 (1b113f8)
 * [Mods] Add the `SUMMONED_CREATURE` species to more summons (#82952)
 
 Cataclysm-DDA experimental build 2025-09-18-2159 (ad33333)
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2025-09-14-0842 (250bc71)
 * Workflow to notify/Greet first time PR commenters (#82878)
 * Remove Stats Through Kills and supporting code (#82843)
 * Routine i18n updates on 13 September 2025 (#82870)
-
-Cataclysm-DDA 0.I release candidate 2025-09-13-0331 (19b675e)
 * Aftershock: Ruins of Orion I (#82856)
 
 Cataclysm-DDA experimental build 2025-09-13-0320 (95780af)
