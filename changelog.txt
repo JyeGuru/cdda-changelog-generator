@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-18-0600 (f30c996)
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates (#82942)
 
 Cataclysm-DDA experimental build 2025-09-18-0455 (a49a571)

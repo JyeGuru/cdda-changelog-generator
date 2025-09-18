@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-18-0600 ([f30c996](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-0600))
+
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates ([#82942](https://github.com/CleverRaven/Cataclysm-DDA/pull/82942))
 
 ---
