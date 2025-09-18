@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-18-1825 ([d701a87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-1825))
+
 * dimensional travel (isekai the return) ([#82924](https://github.com/CleverRaven/Cataclysm-DDA/pull/82924))
 * Various sunken heli fixes and adjustments ([#82939](https://github.com/CleverRaven/Cataclysm-DDA/pull/82939))
 
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-09-13-0007 ([8b9d63d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-0007))
 
 * [XE/Sky Island] Vampire progression fixes. ([#82853](https://github.com/CleverRaven/Cataclysm-DDA/pull/82853))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-12-2304 ([9e33464](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-2304))
-
 * reign in crazy damage values for homemade rockets ([#82854](https://github.com/CleverRaven/Cataclysm-DDA/pull/82854))
 * [MoM] Add Far Hand and Fountain of Flames as psychic knacks ([#82855](https://github.com/CleverRaven/Cataclysm-DDA/pull/82855))
 * Check if empty before trying to access first item ([#82759](https://github.com/CleverRaven/Cataclysm-DDA/pull/82759))
