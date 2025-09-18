@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-09-18-0115 ([c181911](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-18-0115))
+
+* do not list items that can be installed in vehicles if they cannot be ([#82904](https://github.com/CleverRaven/Cataclysm-DDA/pull/82904))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-09-17-0751 ([48ad0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-17-0751))
 
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
@@ -158,11 +164,6 @@
 
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
 * Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-12-0451 ([38de542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-12-0451))
-
 * Aftershock: Ruins of Orion I ([#82770](https://github.com/CleverRaven/Cataclysm-DDA/pull/82770))
 * Add debug bullet sponge monster, exclude debug monsters from translation ([#82832](https://github.com/CleverRaven/Cataclysm-DDA/pull/82832))
 * [Xedra Evolved] Fix Inventor's Welder having migration pocket ([#82847](https://github.com/CleverRaven/Cataclysm-DDA/pull/82847))
@@ -212,7 +213,6 @@
 * Add TFLAG_REGION_PSEUDO flag for region terrain/furniture ([#82772](https://github.com/CleverRaven/Cataclysm-DDA/pull/82772))
 * Weighted list improvements ([#82773](https://github.com/CleverRaven/Cataclysm-DDA/pull/82773))
 * Fix desert_region typo ([#82774](https://github.com/CleverRaven/Cataclysm-DDA/pull/82774))
-* [Magiclysm] Spellcasting profs adjustments ([#82745](https://github.com/CleverRaven/Cataclysm-DDA/pull/82745))
 * LIXA adjustments ([#82765](https://github.com/CleverRaven/Cataclysm-DDA/pull/82765))
 * No one will buy `FILTHY` clothing ([#82754](https://github.com/CleverRaven/Cataclysm-DDA/pull/82754))
 * [XEDRA Evolved] gossamer clothing devarianting ([#82750](https://github.com/CleverRaven/Cataclysm-DDA/pull/82750))
