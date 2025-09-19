@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-19-0443 ([7dcd9a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-0443))
+
+* [Xedra Evolved] Add the triffid greenseer ([#82935](https://github.com/CleverRaven/Cataclysm-DDA/pull/82935))
 * [Innawoods] loading screen ([#82949](https://github.com/CleverRaven/Cataclysm-DDA/pull/82949))
 
 ---
@@ -165,11 +171,6 @@
 * Remove Stats Through Kills and supporting code ([#82843](https://github.com/CleverRaven/Cataclysm-DDA/pull/82843))
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
 * Aftershock: Ruins of Orion I ([#82856](https://github.com/CleverRaven/Cataclysm-DDA/pull/82856))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-13-0320 ([95780af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-13-0320))
-
 * Add missing uppercase letter on spell characteristics enumerate ([#82784](https://github.com/CleverRaven/Cataclysm-DDA/pull/82784))
 * Ignore enemies after autopeek confirmation ([#82867](https://github.com/CleverRaven/Cataclysm-DDA/pull/82867))
 * [XE/Sky Island] Vampire progression fixes. ([#82853](https://github.com/CleverRaven/Cataclysm-DDA/pull/82853))
@@ -183,7 +184,6 @@
 * Genericize chips bags ([#82841](https://github.com/CleverRaven/Cataclysm-DDA/pull/82841))
 * Fix inconsistency and inaccuracy in large metal box's description ([#82811](https://github.com/CleverRaven/Cataclysm-DDA/pull/82811))
 * delete assign.h/cpp ([#82845](https://github.com/CleverRaven/Cataclysm-DDA/pull/82845))
-* Add vertical milling machines ([#82764](https://github.com/CleverRaven/Cataclysm-DDA/pull/82764))
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag ([#82833](https://github.com/CleverRaven/Cataclysm-DDA/pull/82833))
 * Fix portal storm error ([#82848](https://github.com/CleverRaven/Cataclysm-DDA/pull/82848))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82830](https://github.com/CleverRaven/Cataclysm-DDA/pull/82830))
