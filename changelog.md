@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-19-1358 ([98764c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-1358))
+
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
 * Genetic Downward Spiral doesn't require Chimera Threshold ([#82872](https://github.com/CleverRaven/Cataclysm-DDA/pull/82872))
 
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-09-14-2001 ([01c0128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-2001))
 
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-14-1627 ([7e89b44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-1627))
-
 * Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
 * Radiation only mutates you in mammalian categories ([#82871](https://github.com/CleverRaven/Cataclysm-DDA/pull/82871))
 * Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
