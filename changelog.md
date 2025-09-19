@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-19-1142 ([c048a52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-1142))
+
+* Small cleanup in npc_talk_test ([#82938](https://github.com/CleverRaven/Cataclysm-DDA/pull/82938))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-19-0604 ([8cc35ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-0604))
 
 * Add bodypart type white and black list fields for wounds ([#82929](https://github.com/CleverRaven/Cataclysm-DDA/pull/82929))
@@ -197,7 +203,6 @@
 * Weekly Changelog 2025-09-01 to 2025-09-08 ([#82806](https://github.com/CleverRaven/Cataclysm-DDA/pull/82806))
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
 * ter_furn_id uses std::variant, deserialize ([#82802](https://github.com/CleverRaven/Cataclysm-DDA/pull/82802))
-* Use optional/mandatory in mapdata, recipe, mod manager, and monster groups ([#82767](https://github.com/CleverRaven/Cataclysm-DDA/pull/82767))
 * Aftersock: Vendor gear and price related tweaks. ([#82771](https://github.com/CleverRaven/Cataclysm-DDA/pull/82771))
 * Update the ammunition in the Arsenal of the military base ([#82787](https://github.com/CleverRaven/Cataclysm-DDA/pull/82787))
 * Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
