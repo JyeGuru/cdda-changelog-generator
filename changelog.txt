@@ -1,3 +1,4 @@
+* Update fungal fluid sac description from its triffid days (#82953)
 * Genetic Downward Spiral doesn't require Chimera Threshold (#82872)
 
 Cataclysm-DDA experimental build 2025-09-19-1254 (17e1448)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2025-09-14-1627 (7e89b44)
 * Appease clang (#82790)
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag (#82797)
 * Routine i18n updates on 06 September 2025 (#82785)
-* Lixa orientation migration (#82781)
 * [MoM] Silent Ones can detect active channeling too (#82782)
