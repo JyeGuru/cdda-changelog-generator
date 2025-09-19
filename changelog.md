@@ -1,3 +1,13 @@
+* Genetic Downward Spiral doesn't require Chimera Threshold ([#82872](https://github.com/CleverRaven/Cataclysm-DDA/pull/82872))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-19-1254 ([17e1448](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-1254))
+
+* Open season on typos/weird plurals ([#82928](https://github.com/CleverRaven/Cataclysm-DDA/pull/82928))
+* Sensible Electric Motors for E-Bikes, Electric Mopeds, and (Slight Change) for E-Cars ([#82902](https://github.com/CleverRaven/Cataclysm-DDA/pull/82902))
+* [Magiclysm] Rework mi-go Nethermancer ([#82954](https://github.com/CleverRaven/Cataclysm-DDA/pull/82954))
+* Spring recipes ([#82932](https://github.com/CleverRaven/Cataclysm-DDA/pull/82932))
 * Rename a get_temperature function and add some header comments ([#82937](https://github.com/CleverRaven/Cataclysm-DDA/pull/82937))
 * update dimension EOC documentation and also rename an EOC function ([#82951](https://github.com/CleverRaven/Cataclysm-DDA/pull/82951))
 
@@ -175,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-09-14-1627 ([7e89b44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-1627))
 
 * Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-14-0842 ([250bc71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-0842))
-
 * Radiation only mutates you in mammalian categories ([#82871](https://github.com/CleverRaven/Cataclysm-DDA/pull/82871))
 * Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
 * Remove Stats Through Kills and supporting code ([#82843](https://github.com/CleverRaven/Cataclysm-DDA/pull/82843))
@@ -204,7 +209,6 @@
 * Weekly Changelog 2025-09-01 to 2025-09-08 ([#82806](https://github.com/CleverRaven/Cataclysm-DDA/pull/82806))
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
 * ter_furn_id uses std::variant, deserialize ([#82802](https://github.com/CleverRaven/Cataclysm-DDA/pull/82802))
-* Aftersock: Vendor gear and price related tweaks. ([#82771](https://github.com/CleverRaven/Cataclysm-DDA/pull/82771))
 * Update the ammunition in the Arsenal of the military base ([#82787](https://github.com/CleverRaven/Cataclysm-DDA/pull/82787))
 * Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
@@ -227,9 +231,4 @@
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag ([#82797](https://github.com/CleverRaven/Cataclysm-DDA/pull/82797))
 * Routine i18n updates on 06 September 2025 ([#82785](https://github.com/CleverRaven/Cataclysm-DDA/pull/82785))
 * Lixa orientation migration ([#82781](https://github.com/CleverRaven/Cataclysm-DDA/pull/82781))
-* Credits for 0.I ([#82780](https://github.com/CleverRaven/Cataclysm-DDA/pull/82780))
 * [MoM] Silent Ones can detect active channeling too ([#82782](https://github.com/CleverRaven/Cataclysm-DDA/pull/82782))
-* Add batch multiplier to crafting UI ([#82779](https://github.com/CleverRaven/Cataclysm-DDA/pull/82779))
-* Add TFLAG_REGION_PSEUDO flag for region terrain/furniture ([#82772](https://github.com/CleverRaven/Cataclysm-DDA/pull/82772))
-* Weighted list improvements ([#82773](https://github.com/CleverRaven/Cataclysm-DDA/pull/82773))
-* Fix desert_region typo ([#82774](https://github.com/CleverRaven/Cataclysm-DDA/pull/82774))
