@@ -1,3 +1,5 @@
+* Rename a get_temperature function and add some header comments ([#82937](https://github.com/CleverRaven/Cataclysm-DDA/pull/82937))
+* update dimension EOC documentation and also rename an EOC function ([#82951](https://github.com/CleverRaven/Cataclysm-DDA/pull/82951))
 
 ---
 
@@ -190,7 +192,6 @@
 * [MoM] Add Far Hand and Fountain of Flames as psychic knacks ([#82855](https://github.com/CleverRaven/Cataclysm-DDA/pull/82855))
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
 * Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
-* Aftershock: Ruins of Orion I ([#82770](https://github.com/CleverRaven/Cataclysm-DDA/pull/82770))
 * Add debug bullet sponge monster, exclude debug monsters from translation ([#82832](https://github.com/CleverRaven/Cataclysm-DDA/pull/82832))
 * [Xedra Evolved] Fix Inventor's Welder having migration pocket ([#82847](https://github.com/CleverRaven/Cataclysm-DDA/pull/82847))
 * Genericize chips bags ([#82841](https://github.com/CleverRaven/Cataclysm-DDA/pull/82841))
@@ -209,7 +210,6 @@
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
-* fix balthazar bunker trying to update yet to be generated map ([#82768](https://github.com/CleverRaven/Cataclysm-DDA/pull/82768))
 * weather_generator generic factory support ([#82788](https://github.com/CleverRaven/Cataclysm-DDA/pull/82788))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
 * Revert "Add batch multiplier to crafting UI" ([#82795](https://github.com/CleverRaven/Cataclysm-DDA/pull/82795))
