@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-19-0604 (8cc35ec)
 * Add bodypart type white and black list fields for wounds (#82929)
 
 Cataclysm-DDA experimental build 2025-09-19-0443 (7dcd9a7)

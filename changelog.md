@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-19-0604 ([8cc35ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-0604))
+
 * Add bodypart type white and black list fields for wounds ([#82929](https://github.com/CleverRaven/Cataclysm-DDA/pull/82929))
 
 ---
