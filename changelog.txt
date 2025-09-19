@@ -90,8 +90,6 @@ Cataclysm-DDA experimental build 2025-09-14-0842 (250bc71)
 
 Cataclysm-DDA experimental build 2025-09-13-0320 (95780af)
 * Add missing uppercase letter on spell characteristics enumerate (#82784)
-
-Cataclysm-DDA experimental build 2025-09-13-0232 (a5614f9)
 * Ignore enemies after autopeek confirmation (#82867)
 * [XE/Sky Island] Vampire progression fixes. (#82853)
 * reign in crazy damage values for homemade rockets (#82854)
