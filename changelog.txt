@@ -1,3 +1,4 @@
+* Add bodypart type white and black list fields for wounds (#82929)
 
 Cataclysm-DDA experimental build 2025-09-19-0443 (7dcd9a7)
 * [Xedra Evolved] Add the triffid greenseer (#82935)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2025-09-14-0842 (250bc71)
 * Add TFLAG_REGION_PSEUDO flag for region terrain/furniture (#82772)
 * Weighted list improvements (#82773)
 * Fix desert_region typo (#82774)
-* LIXA adjustments (#82765)
