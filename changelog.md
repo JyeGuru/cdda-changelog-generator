@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-20-1251 ([6561ee2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-1251))
+
+* Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-20-0542 ([8ac2a34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-0542))
 
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-09-15-0403 ([3e6c3c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-0403))
 
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-14-2136 ([a58f609](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-2136))
-
 * Small price audit ([#82888](https://github.com/CleverRaven/Cataclysm-DDA/pull/82888))
 * revert kill_xp updates removal to preserve functionality of in-repo mods ([#82882](https://github.com/CleverRaven/Cataclysm-DDA/pull/82882))
 * Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
@@ -193,7 +194,6 @@
 * Remove Stats Through Kills and supporting code ([#82843](https://github.com/CleverRaven/Cataclysm-DDA/pull/82843))
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
 * Aftershock: Ruins of Orion I ([#82856](https://github.com/CleverRaven/Cataclysm-DDA/pull/82856))
-* Add missing uppercase letter on spell characteristics enumerate ([#82784](https://github.com/CleverRaven/Cataclysm-DDA/pull/82784))
 * Ignore enemies after autopeek confirmation ([#82867](https://github.com/CleverRaven/Cataclysm-DDA/pull/82867))
 * [XE/Sky Island] Vampire progression fixes. ([#82853](https://github.com/CleverRaven/Cataclysm-DDA/pull/82853))
 * reign in crazy damage values for homemade rockets ([#82854](https://github.com/CleverRaven/Cataclysm-DDA/pull/82854))

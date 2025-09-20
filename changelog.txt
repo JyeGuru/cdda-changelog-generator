@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-20-1251 (6561ee2)
+* Routine i18n updates on 20 September 2025 (#82967)
+
 Cataclysm-DDA experimental build 2025-09-20-0542 (8ac2a34)
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm (#82966)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-09-15-0516 (a6368f0)
 
 Cataclysm-DDA experimental build 2025-09-15-0403 (3e6c3c8)
 * Remove superfluous include to fix IWYU (#82905)
-
-Cataclysm-DDA experimental build 2025-09-14-2136 (a58f609)
 * Small price audit (#82888)
 * revert kill_xp updates removal to preserve functionality of in-repo mods (#82882)
 * Remove animal discord/empathy from starting traits (#82892)
@@ -106,7 +107,6 @@ Cataclysm-DDA experimental build 2025-09-14-2136 (a58f609)
 * Remove Stats Through Kills and supporting code (#82843)
 * Routine i18n updates on 13 September 2025 (#82870)
 * Aftershock: Ruins of Orion I (#82856)
-* Add missing uppercase letter on spell characteristics enumerate (#82784)
 * Ignore enemies after autopeek confirmation (#82867)
 * [XE/Sky Island] Vampire progression fixes. (#82853)
 * reign in crazy damage values for homemade rockets (#82854)
