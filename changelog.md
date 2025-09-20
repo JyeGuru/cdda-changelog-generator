@@ -179,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-09-15-1548 ([e0648d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1548))
 
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-15-1437 ([1b07f7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1437))
-
 * [Bombastic Perks] Add more perks ([#82893](https://github.com/CleverRaven/Cataclysm-DDA/pull/82893))
 * JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) ([#82879](https://github.com/CleverRaven/Cataclysm-DDA/pull/82879))
 * Sky island terraforming & security ([#82891](https://github.com/CleverRaven/Cataclysm-DDA/pull/82891))

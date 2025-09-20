@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2025-09-15-1955 (a537f4b)
 
 Cataclysm-DDA experimental build 2025-09-15-1548 (e0648d7)
 * Weekly Changelog 2025-09-08 to 2025-09-15 (#82906)
-
-Cataclysm-DDA experimental build 2025-09-15-1437 (1b07f7d)
 * [Bombastic Perks] Add more perks (#82893)
 * JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) (#82879)
 * Sky island terraforming & security (#82891)
