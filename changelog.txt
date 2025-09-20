@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-20-2127 (c4a0abe)
 * Add linear scaling for batch recipes (#82821)
 
 Cataclysm-DDA experimental build 2025-09-20-1512 (0480888)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2025-09-16-0157 (e012d67)
 
 Cataclysm-DDA experimental build 2025-09-15-1955 (a537f4b)
 * New region_settings structs, part 1 (#82852)
-
-Cataclysm-DDA experimental build 2025-09-15-1548 (e0648d7)
 * Weekly Changelog 2025-09-08 to 2025-09-15 (#82906)
 * [Bombastic Perks] Add more perks (#82893)
 * JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) (#82879)

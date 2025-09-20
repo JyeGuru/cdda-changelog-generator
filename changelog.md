@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-20-2127 ([c4a0abe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-2127))
+
 * Add linear scaling for batch recipes ([#82821](https://github.com/CleverRaven/Cataclysm-DDA/pull/82821))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-09-15-1955 ([a537f4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1955))
 
 * New region_settings structs, part 1 ([#82852](https://github.com/CleverRaven/Cataclysm-DDA/pull/82852))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-15-1548 ([e0648d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1548))
-
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
 * [Bombastic Perks] Add more perks ([#82893](https://github.com/CleverRaven/Cataclysm-DDA/pull/82893))
 * JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) ([#82879](https://github.com/CleverRaven/Cataclysm-DDA/pull/82879))
