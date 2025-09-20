@@ -1,3 +1,4 @@
+* Add linear scaling for batch recipes (#82821)
 
 Cataclysm-DDA experimental build 2025-09-20-1512 (0480888)
 * Add base game new region settings JSON  (#82955)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2025-09-15-1548 (e0648d7)
 * Hazmat units aren't affiliated with Hub 01 (#82809)
 * [MoM] Cracks in reality are outdoor only (#82799)
 * [XE] Vampire drinking and gazes adjustments. (#82794)
-* Appease clang (#82790)
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag (#82797)

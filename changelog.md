@@ -1,3 +1,4 @@
+* Add linear scaling for batch recipes ([#82821](https://github.com/CleverRaven/Cataclysm-DDA/pull/82821))
 
 ---
 
@@ -226,5 +227,4 @@
 * Hazmat units aren't affiliated with Hub 01 ([#82809](https://github.com/CleverRaven/Cataclysm-DDA/pull/82809))
 * [MoM] Cracks in reality are outdoor only ([#82799](https://github.com/CleverRaven/Cataclysm-DDA/pull/82799))
 * [XE] Vampire drinking and gazes adjustments. ([#82794](https://github.com/CleverRaven/Cataclysm-DDA/pull/82794))
-* Appease clang ([#82790](https://github.com/CleverRaven/Cataclysm-DDA/pull/82790))
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag ([#82797](https://github.com/CleverRaven/Cataclysm-DDA/pull/82797))
