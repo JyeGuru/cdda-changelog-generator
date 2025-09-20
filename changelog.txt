@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-20-1512 (0480888)
 * Add base game new region settings JSON  (#82955)
 * Bugfix for #82869 (#82931)
 * Nestening - Weapons (#82921)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-09-15-1548 (e0648d7)
 
 Cataclysm-DDA experimental build 2025-09-15-1437 (1b07f7d)
 * [Bombastic Perks] Add more perks (#82893)
-
-Cataclysm-DDA experimental build 2025-09-15-0516 (a6368f0)
 * JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) (#82879)
 * Sky island terraforming & security (#82891)
 * Remove superfluous include to fix IWYU (#82905)

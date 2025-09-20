@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-20-1512 ([0480888](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-1512))
+
 * Add base game new region settings JSON  ([#82955](https://github.com/CleverRaven/Cataclysm-DDA/pull/82955))
 * Bugfix for #82869 ([#82931](https://github.com/CleverRaven/Cataclysm-DDA/pull/82931))
 * Nestening - Weapons ([#82921](https://github.com/CleverRaven/Cataclysm-DDA/pull/82921))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-09-15-1437 ([1b07f7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-1437))
 
 * [Bombastic Perks] Add more perks ([#82893](https://github.com/CleverRaven/Cataclysm-DDA/pull/82893))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-15-0516 ([a6368f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-15-0516))
-
 * JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) ([#82879](https://github.com/CleverRaven/Cataclysm-DDA/pull/82879))
 * Sky island terraforming & security ([#82891](https://github.com/CleverRaven/Cataclysm-DDA/pull/82891))
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
