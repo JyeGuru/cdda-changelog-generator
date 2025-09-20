@@ -1,3 +1,4 @@
+* [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
 
 ---
 
@@ -225,7 +226,6 @@
 * [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
 * Update planting to 'forward look' conditions for each growth stage ([#82812](https://github.com/CleverRaven/Cataclysm-DDA/pull/82812))
 * Move overmap city functions to overmap_city.cpp ([#82818](https://github.com/CleverRaven/Cataclysm-DDA/pull/82818))
-* Fix loudness multiplier display ([#82783](https://github.com/CleverRaven/Cataclysm-DDA/pull/82783))
 * Hazmat units aren't affiliated with Hub 01 ([#82809](https://github.com/CleverRaven/Cataclysm-DDA/pull/82809))
 * [MoM] Cracks in reality are outdoor only ([#82799](https://github.com/CleverRaven/Cataclysm-DDA/pull/82799))
 * [XE] Vampire drinking and gazes adjustments. ([#82794](https://github.com/CleverRaven/Cataclysm-DDA/pull/82794))
