@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-20-0542 ([8ac2a34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-0542))
+
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-09-14-2136 ([a58f609](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-2136))
 
 * Small price audit ([#82888](https://github.com/CleverRaven/Cataclysm-DDA/pull/82888))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-14-2049 ([5570e0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-2049))
-
 * revert kill_xp updates removal to preserve functionality of in-repo mods ([#82882](https://github.com/CleverRaven/Cataclysm-DDA/pull/82882))
 * Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
