@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-20-2354 (3c6a3bb)
+* new region settings overlay JSON (#82973)
+
 Cataclysm-DDA experimental build 2025-09-20-2127 (c4a0abe)
 * Add linear scaling for batch recipes (#82821)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2025-09-16-0300 (d01ba04)
 
 Cataclysm-DDA experimental build 2025-09-16-0157 (e012d67)
 * Rename Masochist into Pain Driven. (#82895)
-
-Cataclysm-DDA experimental build 2025-09-15-1955 (a537f4b)
 * New region_settings structs, part 1 (#82852)
 * Weekly Changelog 2025-09-08 to 2025-09-15 (#82906)
 * [Bombastic Perks] Add more perks (#82893)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2025-09-15-1955 (a537f4b)
 * Move overmap city functions to overmap_city.cpp (#82818)
 * Hazmat units aren't affiliated with Hub 01 (#82809)
 * [MoM] Cracks in reality are outdoor only (#82799)
-* [XE] Vampire drinking and gazes adjustments. (#82794)
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag (#82797)
