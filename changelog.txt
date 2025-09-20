@@ -1,3 +1,4 @@
+* Tweaks to mounted kitchen and workshop (#82883)
 
 Cataclysm-DDA experimental build 2025-09-19-1358 (98764c1)
 * Update fungal fluid sac description from its triffid days (#82953)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-09-14-2001 (01c0128)
 * Appease clang (#82790)
 * [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag (#82797)
 * Routine i18n updates on 06 September 2025 (#82785)
-* [MoM] Silent Ones can detect active channeling too (#82782)
