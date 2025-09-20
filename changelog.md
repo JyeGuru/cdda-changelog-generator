@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-20-0442 ([8043220](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-0442))
+
 * Tweaks to mounted kitchen and workshop ([#82883](https://github.com/CleverRaven/Cataclysm-DDA/pull/82883))
 
 ---
@@ -180,11 +185,6 @@
 
 * revert kill_xp updates removal to preserve functionality of in-repo mods ([#82882](https://github.com/CleverRaven/Cataclysm-DDA/pull/82882))
 * Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-14-2001 ([01c0128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-14-2001))
-
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
 * Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
 * Radiation only mutates you in mammalian categories ([#82871](https://github.com/CleverRaven/Cataclysm-DDA/pull/82871))
