@@ -173,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-09-16-0300 ([d01ba04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-0300))
 
 * move body_part_type::type to enums.h to resolve include loop ([#82900](https://github.com/CleverRaven/Cataclysm-DDA/pull/82900))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-16-0157 ([e012d67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-0157))
-
 * Rename Masochist into Pain Driven. ([#82895](https://github.com/CleverRaven/Cataclysm-DDA/pull/82895))
 * New region_settings structs, part 1 ([#82852](https://github.com/CleverRaven/Cataclysm-DDA/pull/82852))
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
