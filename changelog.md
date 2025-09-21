@@ -213,7 +213,6 @@
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
-* Revert "Add batch multiplier to crafting UI" ([#82795](https://github.com/CleverRaven/Cataclysm-DDA/pull/82795))
 * Don't start auto pickup activity if you can't carry any of the items ([#82798](https://github.com/CleverRaven/Cataclysm-DDA/pull/82798))
 * Hub 01 MDS canteen fits only liquids ([#82805](https://github.com/CleverRaven/Cataclysm-DDA/pull/82805))
 * Manual backport of 82799 ([#82803](https://github.com/CleverRaven/Cataclysm-DDA/pull/82803))
