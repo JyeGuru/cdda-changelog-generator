@@ -1,3 +1,4 @@
+* (Mostly) fix butchering activity from zones (#82980)
 
 Cataclysm-DDA experimental build 2025-09-22-1920 (9fa7d1a)
 * [Innawood] Add more meadows (#82993)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2025-09-16-2330 (683a8c9)
 * Add debug bullet sponge monster, exclude debug monsters from translation (#82832)
 * [Xedra Evolved] Fix Inventor's Welder having migration pocket (#82847)
 * Genericize chips bags (#82841)
-* Fix inconsistency and inaccuracy in large metal box's description (#82811)
 * delete assign.h/cpp (#82845)
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag (#82833)
 * Fix portal storm error (#82848)
