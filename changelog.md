@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-22-2203 ([9b3bfaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-2203))
+
+* [Innawood] Add shallow ore veins ([#82965](https://github.com/CleverRaven/Cataclysm-DDA/pull/82965))
 * Fix greeter ([#82995](https://github.com/CleverRaven/Cataclysm-DDA/pull/82995))
 
 ---
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-09-18-0115 ([c181911](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-18-0115))
 
 * do not list items that can be installed in vehicles if they cannot be ([#82904](https://github.com/CleverRaven/Cataclysm-DDA/pull/82904))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-17-0751 ([48ad0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-17-0751))
-
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
 * New region settings structs, part 2 ([#82916](https://github.com/CleverRaven/Cataclysm-DDA/pull/82916))
 * Fix deep frying calories ([#82908](https://github.com/CleverRaven/Cataclysm-DDA/pull/82908))
@@ -211,7 +212,6 @@
 * Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
-* Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
 * Move overmap city functions to overmap_city.cpp ([#82818](https://github.com/CleverRaven/Cataclysm-DDA/pull/82818))
