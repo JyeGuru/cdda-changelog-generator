@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-22-1920 (9fa7d1a)
+* [Innawood] Add more meadows (#82993)
+
 Cataclysm-DDA experimental build 2025-09-22-1716 (c76654b)
 * Fix Chaotic Downward Spiral Logic, remove neutral (#82976)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA 0.I release candidate 2025-09-17-0751 (48ad0dd)
 
 Cataclysm-DDA experimental build 2025-09-16-2330 (683a8c9)
 * New region settings structs, part 2 (#82916)
-
-Cataclysm-DDA experimental build 2025-09-16-1814 (1f3da5e)
 * Fix deep frying calories (#82908)
 * Fix some missed iuse initializers. (#82910)
 * [MoM] Add contemplation recipes for knacks (through photokinesis) (#82913)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2025-09-16-1814 (1f3da5e)
 * [MoM] Add missing mesmerism fallback learning EoC (#82827)
 * Update planting to 'forward look' conditions for each growth stage (#82812)
 * Move overmap city functions to overmap_city.cpp (#82818)
-* Hazmat units aren't affiliated with Hub 01 (#82809)
