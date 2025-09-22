@@ -1,3 +1,12 @@
+* [Xedra Evolved] Add the Vampire Anathema sun weakness ([#82956](https://github.com/CleverRaven/Cataclysm-DDA/pull/82956))
+* Simplify gun stats in item info ([#82962](https://github.com/CleverRaven/Cataclysm-DDA/pull/82962))
+* [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-22-0304 ([69a04df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-0304))
+
+* Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
 
 ---
 
@@ -167,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-09-16-0624 ([5bbdb08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-0624))
 
 * [MoM] Add the king of the wood (Telepathic deer) ([#82918](https://github.com/CleverRaven/Cataclysm-DDA/pull/82918))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-16-0300 ([d01ba04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-0300))
-
 * move body_part_type::type to enums.h to resolve include loop ([#82900](https://github.com/CleverRaven/Cataclysm-DDA/pull/82900))
 * Rename Masochist into Pain Driven. ([#82895](https://github.com/CleverRaven/Cataclysm-DDA/pull/82895))
 * New region_settings structs, part 1 ([#82852](https://github.com/CleverRaven/Cataclysm-DDA/pull/82852))
@@ -207,18 +211,14 @@
 * Feline ears prettiness adjustment ([#82828](https://github.com/CleverRaven/Cataclysm-DDA/pull/82828))
 * Weekly Changelog 2025-09-01 to 2025-09-08 ([#82806](https://github.com/CleverRaven/Cataclysm-DDA/pull/82806))
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
-* ter_furn_id uses std::variant, deserialize ([#82802](https://github.com/CleverRaven/Cataclysm-DDA/pull/82802))
 * Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
-* Don't start auto pickup activity if you can't carry any of the items ([#82798](https://github.com/CleverRaven/Cataclysm-DDA/pull/82798))
 * Hub 01 MDS canteen fits only liquids ([#82805](https://github.com/CleverRaven/Cataclysm-DDA/pull/82805))
 * Manual backport of 82799 ([#82803](https://github.com/CleverRaven/Cataclysm-DDA/pull/82803))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
 * Update planting to 'forward look' conditions for each growth stage ([#82812](https://github.com/CleverRaven/Cataclysm-DDA/pull/82812))
 * Move overmap city functions to overmap_city.cpp ([#82818](https://github.com/CleverRaven/Cataclysm-DDA/pull/82818))
 * Hazmat units aren't affiliated with Hub 01 ([#82809](https://github.com/CleverRaven/Cataclysm-DDA/pull/82809))
-* [MoM] Cracks in reality are outdoor only ([#82799](https://github.com/CleverRaven/Cataclysm-DDA/pull/82799))
-* [Xedra Evolved/Innawood] Homullus camp needs the MAN_MADE flag ([#82797](https://github.com/CleverRaven/Cataclysm-DDA/pull/82797))
