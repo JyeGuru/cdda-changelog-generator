@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-22-2040 ([e756551](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-2040))
+
 * (Mostly) fix butchering activity from zones ([#82980](https://github.com/CleverRaven/Cataclysm-DDA/pull/82980))
 
 ---
@@ -161,11 +166,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-09-17-0751 ([48ad0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-17-0751))
 
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-16-2330 ([683a8c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-2330))
-
 * New region settings structs, part 2 ([#82916](https://github.com/CleverRaven/Cataclysm-DDA/pull/82916))
 * Fix deep frying calories ([#82908](https://github.com/CleverRaven/Cataclysm-DDA/pull/82908))
 * Fix some missed iuse initializers. ([#82910](https://github.com/CleverRaven/Cataclysm-DDA/pull/82910))
