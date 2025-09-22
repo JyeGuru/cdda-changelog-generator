@@ -1,3 +1,4 @@
+* Fix greeter (#82995)
 
 Cataclysm-DDA experimental build 2025-09-22-2040 (e756551)
 * (Mostly) fix butchering activity from zones (#82980)
@@ -135,5 +136,4 @@ Cataclysm-DDA 0.I release candidate 2025-09-17-0751 (48ad0dd)
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm (#82813)
 * Chips audit (#82820)
 * [MoM] Add missing mesmerism fallback learning EoC (#82827)
-* Update planting to 'forward look' conditions for each growth stage (#82812)
 * Move overmap city functions to overmap_city.cpp (#82818)

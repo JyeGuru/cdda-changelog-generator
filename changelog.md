@@ -1,3 +1,4 @@
+* Fix greeter ([#82995](https://github.com/CleverRaven/Cataclysm-DDA/pull/82995))
 
 ---
 
@@ -213,5 +214,4 @@
 * Add CHARM_PET spell flag, apply to MoM/Magiclysm ([#82813](https://github.com/CleverRaven/Cataclysm-DDA/pull/82813))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
-* Update planting to 'forward look' conditions for each growth stage ([#82812](https://github.com/CleverRaven/Cataclysm-DDA/pull/82812))
 * Move overmap city functions to overmap_city.cpp ([#82818](https://github.com/CleverRaven/Cataclysm-DDA/pull/82818))
