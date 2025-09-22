@@ -166,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-09-16-1814 ([1f3da5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-1814))
 
 * Fix deep frying calories ([#82908](https://github.com/CleverRaven/Cataclysm-DDA/pull/82908))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-16-1152 ([748997f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-16-1152))
-
 * Fix some missed iuse initializers. ([#82910](https://github.com/CleverRaven/Cataclysm-DDA/pull/82910))
 * [MoM] Add contemplation recipes for knacks (through photokinesis) ([#82913](https://github.com/CleverRaven/Cataclysm-DDA/pull/82913))
 * [Mods] Fix some typos ([#82915](https://github.com/CleverRaven/Cataclysm-DDA/pull/82915))
