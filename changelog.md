@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-23-2239 ([6785352](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-2239))
+
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
 
 ---
@@ -156,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2025-09-18-2341 ([1b113f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-2341))
 
 * [Mods] Add the `SUMMONED_CREATURE` species to more summons ([#82952](https://github.com/CleverRaven/Cataclysm-DDA/pull/82952))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-18-2159 ([ad33333](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-2159))
-
 * Move `overmap_special`-related classes/structs from overmap.cpp to omdata.h ([#82920](https://github.com/CleverRaven/Cataclysm-DDA/pull/82920))
 * dimensional travel (isekai the return) ([#82924](https://github.com/CleverRaven/Cataclysm-DDA/pull/82924))
 * Various sunken heli fixes and adjustments ([#82939](https://github.com/CleverRaven/Cataclysm-DDA/pull/82939))
