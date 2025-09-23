@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-23-1735 (24aac9c)
+* Readjust the availability of a certain coffeepot (#82989)
+
 Cataclysm-DDA experimental build 2025-09-23-1554 (f1f6b3f)
 * script-generated new region settings JSON, pt. 3 (#82984)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2025-09-18-2159 (ad33333)
 Cataclysm-DDA experimental build 2025-09-18-1825 (d701a87)
 * dimensional travel (isekai the return) (#82924)
 * Various sunken heli fixes and adjustments (#82939)
-
-Cataclysm-DDA experimental build 2025-09-18-1719 (657b4d7)
 * [Xedra Evolved] The holy light of the sun burns vampires' impure flesh (#82941)
 * New region settings structs, part 3 (#82933)
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates (#82942)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2025-09-18-1719 (657b4d7)
 * delete assign.h/cpp (#82845)
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag (#82833)
 * Fix portal storm error (#82848)
-* [MoM] Add missing mesmerism fallback learning EoC (#82830)
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. (#82834)
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility (#82831)
 * Mark infrared goggles as mundane artifacts (#82837)
