@@ -213,5 +213,4 @@
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
-* Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
