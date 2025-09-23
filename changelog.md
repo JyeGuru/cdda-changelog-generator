@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-23-0553 ([42ece09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-0553))
+
 * added bulk grain recipes + ([#82979](https://github.com/CleverRaven/Cataclysm-DDA/pull/82979))
 
 ---
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-09-18-0600 ([f30c996](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-0600))
 
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates ([#82942](https://github.com/CleverRaven/Cataclysm-DDA/pull/82942))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-18-0455 ([a49a571](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-0455))
-
 * Add serialization for TALK_MISSION_INQUIRE/TALK_MISSION_DESCRIBE_URGENT ([#82911](https://github.com/CleverRaven/Cataclysm-DDA/pull/82911))
 * do not list items that can be installed in vehicles if they cannot be ([#82904](https://github.com/CleverRaven/Cataclysm-DDA/pull/82904))
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
