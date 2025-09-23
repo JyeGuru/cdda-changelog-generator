@@ -1,3 +1,10 @@
+* Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-23-2130 ([19ad7f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-2130))
+
+* Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
 
 ---
 
@@ -155,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2025-09-18-2159 ([ad33333](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-2159))
 
 * Move `overmap_special`-related classes/structs from overmap.cpp to omdata.h ([#82920](https://github.com/CleverRaven/Cataclysm-DDA/pull/82920))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-18-1825 ([d701a87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-1825))
-
 * dimensional travel (isekai the return) ([#82924](https://github.com/CleverRaven/Cataclysm-DDA/pull/82924))
 * Various sunken heli fixes and adjustments ([#82939](https://github.com/CleverRaven/Cataclysm-DDA/pull/82939))
 * [Xedra Evolved] The holy light of the sun burns vampires' impure flesh ([#82941](https://github.com/CleverRaven/Cataclysm-DDA/pull/82941))
@@ -200,12 +202,10 @@
 * [MoM] Add Far Hand and Fountain of Flames as psychic knacks ([#82855](https://github.com/CleverRaven/Cataclysm-DDA/pull/82855))
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
 * Fix cody's other dialogue option for joining the coop ([#82844](https://github.com/CleverRaven/Cataclysm-DDA/pull/82844))
-* Add debug bullet sponge monster, exclude debug monsters from translation ([#82832](https://github.com/CleverRaven/Cataclysm-DDA/pull/82832))
 * [Xedra Evolved] Fix Inventor's Welder having migration pocket ([#82847](https://github.com/CleverRaven/Cataclysm-DDA/pull/82847))
 * Genericize chips bags ([#82841](https://github.com/CleverRaven/Cataclysm-DDA/pull/82841))
 * delete assign.h/cpp ([#82845](https://github.com/CleverRaven/Cataclysm-DDA/pull/82845))
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag ([#82833](https://github.com/CleverRaven/Cataclysm-DDA/pull/82833))
 * Fix portal storm error ([#82848](https://github.com/CleverRaven/Cataclysm-DDA/pull/82848))
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
-* Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
