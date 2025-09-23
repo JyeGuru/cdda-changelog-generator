@@ -1,3 +1,10 @@
+* added bulk grain recipes + ([#82979](https://github.com/CleverRaven/Cataclysm-DDA/pull/82979))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-23-0503 ([c0baee7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-0503))
+
+* script-generated new region settings JSON, pt. 1 ([#82982](https://github.com/CleverRaven/Cataclysm-DDA/pull/82982))
 
 ---
 
@@ -161,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2025-09-18-0455 ([a49a571](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-18-0455))
 
 * Add serialization for TALK_MISSION_INQUIRE/TALK_MISSION_DESCRIBE_URGENT ([#82911](https://github.com/CleverRaven/Cataclysm-DDA/pull/82911))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-18-0115 ([c181911](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-18-0115))
-
 * do not list items that can be installed in vehicles if they cannot be ([#82904](https://github.com/CleverRaven/Cataclysm-DDA/pull/82904))
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
 * New region settings structs, part 2 ([#82916](https://github.com/CleverRaven/Cataclysm-DDA/pull/82916))
@@ -209,9 +211,7 @@
 * [MoM] Add missing mesmerism fallback learning EoC ([#82830](https://github.com/CleverRaven/Cataclysm-DDA/pull/82830))
 * Feline ears prettiness adjustment ([#82828](https://github.com/CleverRaven/Cataclysm-DDA/pull/82828))
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
-* Fix cody's other dialogue option for joining the coop ([#82816](https://github.com/CleverRaven/Cataclysm-DDA/pull/82816))
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
 * Chips audit ([#82820](https://github.com/CleverRaven/Cataclysm-DDA/pull/82820))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
-* Move overmap city functions to overmap_city.cpp ([#82818](https://github.com/CleverRaven/Cataclysm-DDA/pull/82818))
