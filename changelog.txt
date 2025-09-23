@@ -1,3 +1,4 @@
+* [cmake] honor `$VCPKG_ROOT` from env (#83003)
 
 Cataclysm-DDA experimental build 2025-09-23-0553 (42ece09)
 * added bulk grain recipes + (#82979)
@@ -28,9 +29,6 @@ Cataclysm-DDA experimental build 2025-09-22-0304 (69a04df)
 
 Cataclysm-DDA experimental build 2025-09-20-2354 (3c6a3bb)
 * new region settings overlay JSON (#82973)
-
-Cataclysm-DDA experimental build 2025-09-20-2127 (c4a0abe)
-* Add linear scaling for batch recipes (#82821)
 
 Cataclysm-DDA experimental build 2025-09-20-1512 (0480888)
 * Add base game new region settings JSON  (#82955)

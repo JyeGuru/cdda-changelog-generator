@@ -1,3 +1,4 @@
+* [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
 
 ---
 
@@ -55,12 +56,6 @@
 #### Cataclysm-DDA experimental build 2025-09-20-2354 ([3c6a3bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-2354))
 
 * new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-20-2127 ([c4a0abe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-2127))
-
-* Add linear scaling for batch recipes ([#82821](https://github.com/CleverRaven/Cataclysm-DDA/pull/82821))
 
 ---
 
