@@ -1,3 +1,5 @@
+* script-generated new region settings JSON, pt. 3 ([#82984](https://github.com/CleverRaven/Cataclysm-DDA/pull/82984))
+* script-generated new region settings JSON, pt. 2 ([#82983](https://github.com/CleverRaven/Cataclysm-DDA/pull/82983))
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
 
 ---
@@ -204,8 +206,6 @@
 * [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag ([#82833](https://github.com/CleverRaven/Cataclysm-DDA/pull/82833))
 * Fix portal storm error ([#82848](https://github.com/CleverRaven/Cataclysm-DDA/pull/82848))
 * [MoM] Add missing mesmerism fallback learning EoC ([#82830](https://github.com/CleverRaven/Cataclysm-DDA/pull/82830))
-* Feline ears prettiness adjustment ([#82828](https://github.com/CleverRaven/Cataclysm-DDA/pull/82828))
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. ([#82834](https://github.com/CleverRaven/Cataclysm-DDA/pull/82834))
 * Update COMPILING-VS-VCPKG.md to indicate CMake 4 incompatibility ([#82831](https://github.com/CleverRaven/Cataclysm-DDA/pull/82831))
 * Mark infrared goggles as mundane artifacts ([#82837](https://github.com/CleverRaven/Cataclysm-DDA/pull/82837))
-* [MoM] Add missing mesmerism fallback learning EoC ([#82827](https://github.com/CleverRaven/Cataclysm-DDA/pull/82827))
