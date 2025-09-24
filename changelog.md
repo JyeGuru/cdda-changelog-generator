@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-24-2049 ([4fbcae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-24-2049))
+
 * Uncharge cooking oil ([#83019](https://github.com/CleverRaven/Cataclysm-DDA/pull/83019))
 * remove TEST_DATA region settings ([#82985](https://github.com/CleverRaven/Cataclysm-DDA/pull/82985))
 * draw nav highlight on buttons using background color in IMTUI mode ([#83011](https://github.com/CleverRaven/Cataclysm-DDA/pull/83011))
@@ -164,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2025-09-19-1142 ([c048a52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-1142))
 
 * Small cleanup in npc_talk_test ([#82938](https://github.com/CleverRaven/Cataclysm-DDA/pull/82938))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-19-0604 ([8cc35ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-0604))
-
 * Add bodypart type white and black list fields for wounds ([#82929](https://github.com/CleverRaven/Cataclysm-DDA/pull/82929))
 * [Xedra Evolved] Add the triffid greenseer ([#82935](https://github.com/CleverRaven/Cataclysm-DDA/pull/82935))
 * [Innawoods] loading screen ([#82949](https://github.com/CleverRaven/Cataclysm-DDA/pull/82949))
