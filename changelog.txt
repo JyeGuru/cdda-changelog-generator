@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-24-0512 (8c7a084)
+* Replace flag based light emission with human `optional()` (#82986)
+
 Cataclysm-DDA experimental build 2025-09-23-2239 (6785352)
 * Big seed (#83012)
 
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2025-09-19-0604 (8cc35ec)
 Cataclysm-DDA experimental build 2025-09-19-0443 (7dcd9a7)
 * [Xedra Evolved] Add the triffid greenseer (#82935)
 * [Innawoods] loading screen (#82949)
-
-Cataclysm-DDA experimental build 2025-09-18-2341 (1b113f8)
 * [Mods] Add the `SUMMONED_CREATURE` species to more summons (#82952)
 * Move `overmap_special`-related classes/structs from overmap.cpp to omdata.h (#82920)
 * dimensional travel (isekai the return) (#82924)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2025-09-18-2341 (1b113f8)
 * [Xedra Evolved] Fix Inventor's Welder having migration pocket (#82847)
 * Genericize chips bags (#82841)
 * delete assign.h/cpp (#82845)
-* [Mods] Allow fast-traveling on air if you have the `LEVITATION` flag (#82833)
 * Fix portal storm error (#82848)
 * [XE] Fix vampire recipe gotchas and Sky Island death loop. (#82834)
 * Mark infrared goggles as mundane artifacts (#82837)
