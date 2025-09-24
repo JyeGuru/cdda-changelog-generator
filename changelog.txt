@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-24-1624 (8c4fc68)
+* ability to clear out specific dimensions (attempt 2) (#82999)
+
 Cataclysm-DDA experimental build 2025-09-24-0512 (8c7a084)
 * Replace flag based light emission with human `optional()` (#82986)
 
@@ -132,5 +135,4 @@ Cataclysm-DDA experimental build 2025-09-19-0443 (7dcd9a7)
 * Genericize chips bags (#82841)
 * delete assign.h/cpp (#82845)
 * Fix portal storm error (#82848)
-* [XE] Fix vampire recipe gotchas and Sky Island death loop. (#82834)
 * Mark infrared goggles as mundane artifacts (#82837)
