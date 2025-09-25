@@ -1,3 +1,11 @@
+* [ Xedra Evoleved ]Red Twilight 34 snippets ([#82969](https://github.com/CleverRaven/Cataclysm-DDA/pull/82969))
+* Add missing proficiencies to demihuman lard ([#83023](https://github.com/CleverRaven/Cataclysm-DDA/pull/83023))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-25-1757 ([a0ed233](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-1757))
+
+* Smart watches can actually play music ([#83021](https://github.com/CleverRaven/Cataclysm-DDA/pull/83021))
 
 ---
 
@@ -159,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-09-20-0442 ([8043220](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-0442))
 
 * Tweaks to mounted kitchen and workshop ([#82883](https://github.com/CleverRaven/Cataclysm-DDA/pull/82883))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-19-1358 ([98764c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-1358))
-
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
 * Genetic Downward Spiral doesn't require Chimera Threshold ([#82872](https://github.com/CleverRaven/Cataclysm-DDA/pull/82872))
 * Open season on typos/weird plurals ([#82928](https://github.com/CleverRaven/Cataclysm-DDA/pull/82928))
@@ -196,7 +199,6 @@
 * [MoM] Add the king of the wood (Telepathic deer) ([#82918](https://github.com/CleverRaven/Cataclysm-DDA/pull/82918))
 * move body_part_type::type to enums.h to resolve include loop ([#82900](https://github.com/CleverRaven/Cataclysm-DDA/pull/82900))
 * Rename Masochist into Pain Driven. ([#82895](https://github.com/CleverRaven/Cataclysm-DDA/pull/82895))
-* New region_settings structs, part 1 ([#82852](https://github.com/CleverRaven/Cataclysm-DDA/pull/82852))
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
 * [Bombastic Perks] Add more perks ([#82893](https://github.com/CleverRaven/Cataclysm-DDA/pull/82893))
 * JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) ([#82879](https://github.com/CleverRaven/Cataclysm-DDA/pull/82879))
@@ -212,7 +214,5 @@
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
 * Aftershock: Ruins of Orion I ([#82856](https://github.com/CleverRaven/Cataclysm-DDA/pull/82856))
 * Ignore enemies after autopeek confirmation ([#82867](https://github.com/CleverRaven/Cataclysm-DDA/pull/82867))
-* [XE/Sky Island] Vampire progression fixes. ([#82853](https://github.com/CleverRaven/Cataclysm-DDA/pull/82853))
-* reign in crazy damage values for homemade rockets ([#82854](https://github.com/CleverRaven/Cataclysm-DDA/pull/82854))
 * [MoM] Add Far Hand and Fountain of Flames as psychic knacks ([#82855](https://github.com/CleverRaven/Cataclysm-DDA/pull/82855))
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
