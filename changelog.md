@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-25-1140 ([3b6ac9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-1140))
+
 * Balance: Overhaul scrap armor values ([#82946](https://github.com/CleverRaven/Cataclysm-DDA/pull/82946))
 * units::temperature serialize and deserialize with units ([#82996](https://github.com/CleverRaven/Cataclysm-DDA/pull/82996))
 * manually converted new region settings JSON ([#83014](https://github.com/CleverRaven/Cataclysm-DDA/pull/83014))
@@ -161,11 +166,6 @@
 
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
 * Genetic Downward Spiral doesn't require Chimera Threshold ([#82872](https://github.com/CleverRaven/Cataclysm-DDA/pull/82872))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-19-1254 ([17e1448](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-1254))
-
 * Open season on typos/weird plurals ([#82928](https://github.com/CleverRaven/Cataclysm-DDA/pull/82928))
 * Sensible Electric Motors for E-Bikes, Electric Mopeds, and (Slight Change) for E-Cars ([#82902](https://github.com/CleverRaven/Cataclysm-DDA/pull/82902))
 * [Magiclysm] Rework mi-go Nethermancer ([#82954](https://github.com/CleverRaven/Cataclysm-DDA/pull/82954))
