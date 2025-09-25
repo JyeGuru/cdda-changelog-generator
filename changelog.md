@@ -1,3 +1,11 @@
+* units::temperature serialize and deserialize with units ([#82996](https://github.com/CleverRaven/Cataclysm-DDA/pull/82996))
+* manually converted new region settings JSON ([#83014](https://github.com/CleverRaven/Cataclysm-DDA/pull/83014))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-25-1041 ([d3a6f6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-1041))
+
+* Replace `std::stof` with (cata::)svtod ([#83015](https://github.com/CleverRaven/Cataclysm-DDA/pull/83015))
 
 ---
 
@@ -163,11 +171,6 @@
 * Spring recipes ([#82932](https://github.com/CleverRaven/Cataclysm-DDA/pull/82932))
 * Rename a get_temperature function and add some header comments ([#82937](https://github.com/CleverRaven/Cataclysm-DDA/pull/82937))
 * update dimension EOC documentation and also rename an EOC function ([#82951](https://github.com/CleverRaven/Cataclysm-DDA/pull/82951))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-19-1142 ([c048a52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-19-1142))
-
 * Small cleanup in npc_talk_test ([#82938](https://github.com/CleverRaven/Cataclysm-DDA/pull/82938))
 * Add bodypart type white and black list fields for wounds ([#82929](https://github.com/CleverRaven/Cataclysm-DDA/pull/82929))
 * [Xedra Evolved] Add the triffid greenseer ([#82935](https://github.com/CleverRaven/Cataclysm-DDA/pull/82935))
@@ -212,6 +215,3 @@
 * reign in crazy damage values for homemade rockets ([#82854](https://github.com/CleverRaven/Cataclysm-DDA/pull/82854))
 * [MoM] Add Far Hand and Fountain of Flames as psychic knacks ([#82855](https://github.com/CleverRaven/Cataclysm-DDA/pull/82855))
 * Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
-* [Xedra Evolved] Fix Inventor's Welder having migration pocket ([#82847](https://github.com/CleverRaven/Cataclysm-DDA/pull/82847))
-* delete assign.h/cpp ([#82845](https://github.com/CleverRaven/Cataclysm-DDA/pull/82845))
-* Fix portal storm error ([#82848](https://github.com/CleverRaven/Cataclysm-DDA/pull/82848))
