@@ -1,3 +1,4 @@
+* Balance: Overhaul scrap armor values ([#82946](https://github.com/CleverRaven/Cataclysm-DDA/pull/82946))
 * units::temperature serialize and deserialize with units ([#82996](https://github.com/CleverRaven/Cataclysm-DDA/pull/82996))
 * manually converted new region settings JSON ([#83014](https://github.com/CleverRaven/Cataclysm-DDA/pull/83014))
 

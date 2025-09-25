@@ -1,3 +1,4 @@
+* Balance: Overhaul scrap armor values (#82946)
 * units::temperature serialize and deserialize with units (#82996)
 * manually converted new region settings JSON (#83014)
 
