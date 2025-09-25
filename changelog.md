@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-25-1908 ([f5ef073](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-1908))
+
 * [ Xedra Evoleved ]Red Twilight 34 snippets ([#82969](https://github.com/CleverRaven/Cataclysm-DDA/pull/82969))
 * Add missing proficiencies to demihuman lard ([#83023](https://github.com/CleverRaven/Cataclysm-DDA/pull/83023))
 
@@ -161,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-09-20-0542 ([8ac2a34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-0542))
 
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-20-0442 ([8043220](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-0442))
-
 * Tweaks to mounted kitchen and workshop ([#82883](https://github.com/CleverRaven/Cataclysm-DDA/pull/82883))
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
 * Genetic Downward Spiral doesn't require Chimera Threshold ([#82872](https://github.com/CleverRaven/Cataclysm-DDA/pull/82872))
