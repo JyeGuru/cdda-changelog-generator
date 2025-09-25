@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-25-2022 ([b82d6bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-2022))
+
 * Hydraulic Muscles now sets your strength to a fixed value ([#83025](https://github.com/CleverRaven/Cataclysm-DDA/pull/83025))
 
 ---
@@ -161,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-09-20-1251 ([6561ee2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-1251))
 
 * Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-20-0542 ([8ac2a34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-0542))
-
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
 * Tweaks to mounted kitchen and workshop ([#82883](https://github.com/CleverRaven/Cataclysm-DDA/pull/82883))
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))

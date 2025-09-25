@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-25-2022 (b82d6bd)
 * Hydraulic Muscles now sets your strength to a fixed value (#83025)
 
 Cataclysm-DDA experimental build 2025-09-25-1908 (f5ef073)
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2025-09-20-1423 (35fb5c3)
 
 Cataclysm-DDA experimental build 2025-09-20-1251 (6561ee2)
 * Routine i18n updates on 20 September 2025 (#82967)
-
-Cataclysm-DDA experimental build 2025-09-20-0542 (8ac2a34)
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm (#82966)
 * Tweaks to mounted kitchen and workshop (#82883)
 * Update fungal fluid sac description from its triffid days (#82953)
