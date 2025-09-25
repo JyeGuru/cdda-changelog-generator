@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-25-2236 (2735569)
+* Bring back the missing NPC Pickup Rules talk_ally talk topic (#83030)
+
 Cataclysm-DDA experimental build 2025-09-25-2022 (b82d6bd)
 * Hydraulic Muscles now sets your strength to a fixed value (#83025)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2025-09-20-1512 (0480888)
 
 Cataclysm-DDA experimental build 2025-09-20-1423 (35fb5c3)
 * JSONize plant growth stages (#82943)
-
-Cataclysm-DDA experimental build 2025-09-20-1251 (6561ee2)
 * Routine i18n updates on 20 September 2025 (#82967)
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm (#82966)
 * Tweaks to mounted kitchen and workshop (#82883)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2025-09-20-1251 (6561ee2)
 * Radiation only mutates you in mammalian categories (#82871)
 * Workflow to notify/Greet first time PR commenters (#82878)
 * Routine i18n updates on 13 September 2025 (#82870)
-* Aftershock: Ruins of Orion I (#82856)
 * Ignore enemies after autopeek confirmation (#82867)
 * Fix weighted_int_list iteration build errors (#82859)
