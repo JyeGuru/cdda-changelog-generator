@@ -1,3 +1,4 @@
+* Hydraulic Muscles now sets your strength to a fixed value (#83025)
 
 Cataclysm-DDA experimental build 2025-09-25-1908 (f5ef073)
 * [ Xedra Evoleved ]Red Twilight 34 snippets (#82969)
@@ -136,5 +137,4 @@ Cataclysm-DDA experimental build 2025-09-20-0542 (8ac2a34)
 * Routine i18n updates on 13 September 2025 (#82870)
 * Aftershock: Ruins of Orion I (#82856)
 * Ignore enemies after autopeek confirmation (#82867)
-* [MoM] Add Far Hand and Fountain of Flames as psychic knacks (#82855)
 * Fix weighted_int_list iteration build errors (#82859)
