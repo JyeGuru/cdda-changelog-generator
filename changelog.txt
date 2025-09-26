@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-26-0536 (09f9bdc)
+* More improvements to planting (#82978)
+
 Cataclysm-DDA experimental build 2025-09-26-0126 (fd182d1)
 * [Xedra Evolved] Fix wight Vigor Mortis attack (#83026)
 * [Magiclysm] Tweak black dragon breath timing/acid (#83031)
@@ -137,4 +140,3 @@ Cataclysm-DDA experimental build 2025-09-20-2354 (3c6a3bb)
 * Workflow to notify/Greet first time PR commenters (#82878)
 * Routine i18n updates on 13 September 2025 (#82870)
 * Ignore enemies after autopeek confirmation (#82867)
-* Fix weighted_int_list iteration build errors (#82859)

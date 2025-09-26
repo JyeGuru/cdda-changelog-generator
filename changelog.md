@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-26-0536 ([09f9bdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-0536))
+
+* More improvements to planting ([#82978](https://github.com/CleverRaven/Cataclysm-DDA/pull/82978))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-26-0126 ([fd182d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-0126))
 
 * [Xedra Evolved] Fix wight Vigor Mortis attack ([#83026](https://github.com/CleverRaven/Cataclysm-DDA/pull/83026))
@@ -212,4 +218,3 @@
 * Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
 * Routine i18n updates on 13 September 2025 ([#82870](https://github.com/CleverRaven/Cataclysm-DDA/pull/82870))
 * Ignore enemies after autopeek confirmation ([#82867](https://github.com/CleverRaven/Cataclysm-DDA/pull/82867))
-* Fix weighted_int_list iteration build errors ([#82859](https://github.com/CleverRaven/Cataclysm-DDA/pull/82859))
