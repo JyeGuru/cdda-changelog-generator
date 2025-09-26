@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-09-26-2127 (46562f3)
 * merge button hilight fix into 0.I (#83038)
 
 Cataclysm-DDA experimental build 2025-09-26-2042 (41ef7db)

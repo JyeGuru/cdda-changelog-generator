@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-26-2127 ([46562f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-26-2127))
+
 * merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
 
 ---
