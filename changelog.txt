@@ -1,5 +1,7 @@
 * Weekly Changelog 2025-09-15 to 2025-09-22 (#82990)
 * Bring back the missing NPC Pickup Rules talk_ally talk topic (#83035)
+
+Cataclysm-DDA 0.I release candidate 2025-09-26-1830 (c3e120a)
 * [Magiclysm/Innawood] Fix great tree mapgen (#83041)
 
 Cataclysm-DDA experimental build 2025-09-26-1758 (8d184c9)
