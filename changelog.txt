@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-26-1423 (44e4a2d)
+* [Magiclysm/Innawood] Fix great tree mapgen (#83034)
+
 Cataclysm-DDA experimental build 2025-09-26-0536 (09f9bdc)
 * More improvements to planting (#82978)
 
@@ -136,5 +139,4 @@ Cataclysm-DDA experimental build 2025-09-20-2354 (3c6a3bb)
 * Remove animal discord/empathy from starting traits (#82892)
 * do not list items that can be installed in vehicles if they cannot be (#82901)
 * Adjust the 'hide inside' capability of some furnitures (#82897)
-* Radiation only mutates you in mammalian categories (#82871)
 * Workflow to notify/Greet first time PR commenters (#82878)

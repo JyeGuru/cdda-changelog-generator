@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-26-1423 ([44e4a2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1423))
+
+* [Magiclysm/Innawood] Fix great tree mapgen ([#83034](https://github.com/CleverRaven/Cataclysm-DDA/pull/83034))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-26-0536 ([09f9bdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-0536))
 
 * More improvements to planting ([#82978](https://github.com/CleverRaven/Cataclysm-DDA/pull/82978))
@@ -214,5 +220,4 @@
 * Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
 * Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
-* Radiation only mutates you in mammalian categories ([#82871](https://github.com/CleverRaven/Cataclysm-DDA/pull/82871))
 * Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
