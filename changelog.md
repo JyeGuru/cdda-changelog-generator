@@ -1,3 +1,4 @@
+* merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
 * Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
 
 ---
@@ -5,6 +6,11 @@
 #### Cataclysm-DDA experimental build 2025-09-26-1915 ([b03f246](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1915))
 
 * Weekly Changelog 2025-09-15 to 2025-09-22 ([#82990](https://github.com/CleverRaven/Cataclysm-DDA/pull/82990))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-26-2010 ([8d71b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-26-2010))
+
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
 
 ---
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-09-22-1716 ([c76654b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-1716))
 
 * Fix Chaotic Downward Spiral Logic, remove neutral ([#82976](https://github.com/CleverRaven/Cataclysm-DDA/pull/82976))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-22-0405 ([99121a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-0405))
-
 * [Xedra Evolved] Add the Vampire Anathema sun weakness ([#82956](https://github.com/CleverRaven/Cataclysm-DDA/pull/82956))
 * Simplify gun stats in item info ([#82962](https://github.com/CleverRaven/Cataclysm-DDA/pull/82962))
 * [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
@@ -224,7 +225,6 @@
 * Sky island terraforming & security ([#82891](https://github.com/CleverRaven/Cataclysm-DDA/pull/82891))
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
 * Small price audit ([#82888](https://github.com/CleverRaven/Cataclysm-DDA/pull/82888))
-* revert kill_xp updates removal to preserve functionality of in-repo mods ([#82882](https://github.com/CleverRaven/Cataclysm-DDA/pull/82882))
 * Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
 * Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
