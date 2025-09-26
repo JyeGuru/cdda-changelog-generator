@@ -1,3 +1,12 @@
+* Weekly Changelog 2025-09-15 to 2025-09-22 ([#82990](https://github.com/CleverRaven/Cataclysm-DDA/pull/82990))
+* Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
+* [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-26-1758 ([8d184c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1758))
+
+* Lard is tallow and animal oil doesn't exist ([#83020](https://github.com/CleverRaven/Cataclysm-DDA/pull/83020))
 
 ---
 
@@ -165,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-09-22-0304 ([69a04df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-0304))
 
 * Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-20-2354 ([3c6a3bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-2354))
-
 * new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
 * Add base game new region settings JSON  ([#82955](https://github.com/CleverRaven/Cataclysm-DDA/pull/82955))
 * Bugfix for #82869 ([#82931](https://github.com/CleverRaven/Cataclysm-DDA/pull/82931))
@@ -179,7 +183,6 @@
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
 * Tweaks to mounted kitchen and workshop ([#82883](https://github.com/CleverRaven/Cataclysm-DDA/pull/82883))
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
-* Genetic Downward Spiral doesn't require Chimera Threshold ([#82872](https://github.com/CleverRaven/Cataclysm-DDA/pull/82872))
 * Open season on typos/weird plurals ([#82928](https://github.com/CleverRaven/Cataclysm-DDA/pull/82928))
 * Sensible Electric Motors for E-Bikes, Electric Mopeds, and (Slight Change) for E-Cars ([#82902](https://github.com/CleverRaven/Cataclysm-DDA/pull/82902))
 * [Magiclysm] Rework mi-go Nethermancer ([#82954](https://github.com/CleverRaven/Cataclysm-DDA/pull/82954))
@@ -220,4 +223,3 @@
 * Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
 * Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
-* Workflow to notify/Greet first time PR commenters ([#82878](https://github.com/CleverRaven/Cataclysm-DDA/pull/82878))
