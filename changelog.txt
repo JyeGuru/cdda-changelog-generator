@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2025-09-26-0126 (fd182d1)
+* [Xedra Evolved] Fix wight Vigor Mortis attack (#83026)
+* [Magiclysm] Tweak black dragon breath timing/acid (#83031)
+
 Cataclysm-DDA experimental build 2025-09-25-2236 (2735569)
 * Bring back the missing NPC Pickup Rules talk_ally talk topic (#83030)
 
@@ -80,13 +84,9 @@ Cataclysm-DDA experimental build 2025-09-22-0304 (69a04df)
 
 Cataclysm-DDA experimental build 2025-09-20-2354 (3c6a3bb)
 * new region settings overlay JSON (#82973)
-
-Cataclysm-DDA experimental build 2025-09-20-1512 (0480888)
 * Add base game new region settings JSON  (#82955)
 * Bugfix for #82869 (#82931)
 * Nestening - Weapons (#82921)
-
-Cataclysm-DDA experimental build 2025-09-20-1423 (35fb5c3)
 * JSONize plant growth stages (#82943)
 * Routine i18n updates on 20 September 2025 (#82967)
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm (#82966)

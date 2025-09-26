@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-26-0126 ([fd182d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-0126))
+
+* [Xedra Evolved] Fix wight Vigor Mortis attack ([#83026](https://github.com/CleverRaven/Cataclysm-DDA/pull/83026))
+* [Magiclysm] Tweak black dragon breath timing/acid ([#83031](https://github.com/CleverRaven/Cataclysm-DDA/pull/83031))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-25-2236 ([2735569](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-2236))
 
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83030](https://github.com/CleverRaven/Cataclysm-DDA/pull/83030))
@@ -152,19 +159,9 @@
 #### Cataclysm-DDA experimental build 2025-09-20-2354 ([3c6a3bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-2354))
 
 * new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-20-1512 ([0480888](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-1512))
-
 * Add base game new region settings JSON  ([#82955](https://github.com/CleverRaven/Cataclysm-DDA/pull/82955))
 * Bugfix for #82869 ([#82931](https://github.com/CleverRaven/Cataclysm-DDA/pull/82931))
 * Nestening - Weapons ([#82921](https://github.com/CleverRaven/Cataclysm-DDA/pull/82921))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-20-1423 ([35fb5c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-20-1423))
-
 * JSONize plant growth stages ([#82943](https://github.com/CleverRaven/Cataclysm-DDA/pull/82943))
 * Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
