@@ -1,3 +1,9 @@
+* Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-26-1915 ([b03f246](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1915))
+
 * Weekly Changelog 2025-09-15 to 2025-09-22 ([#82990](https://github.com/CleverRaven/Cataclysm-DDA/pull/82990))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
 
@@ -173,11 +179,6 @@
 * [Xedra Evolved] Add the Vampire Anathema sun weakness ([#82956](https://github.com/CleverRaven/Cataclysm-DDA/pull/82956))
 * Simplify gun stats in item info ([#82962](https://github.com/CleverRaven/Cataclysm-DDA/pull/82962))
 * [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-22-0304 ([69a04df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-0304))
-
 * Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
 * new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
 * Add base game new region settings JSON  ([#82955](https://github.com/CleverRaven/Cataclysm-DDA/pull/82955))
@@ -220,7 +221,6 @@
 * Rename Masochist into Pain Driven. ([#82895](https://github.com/CleverRaven/Cataclysm-DDA/pull/82895))
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
 * [Bombastic Perks] Add more perks ([#82893](https://github.com/CleverRaven/Cataclysm-DDA/pull/82893))
-* JSONize mission-related topic IDs (TALK_MISSION_INQUIRE / TALK_MISSION_DESCRIBE_URGENT) ([#82879](https://github.com/CleverRaven/Cataclysm-DDA/pull/82879))
 * Sky island terraforming & security ([#82891](https://github.com/CleverRaven/Cataclysm-DDA/pull/82891))
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
 * Small price audit ([#82888](https://github.com/CleverRaven/Cataclysm-DDA/pull/82888))
