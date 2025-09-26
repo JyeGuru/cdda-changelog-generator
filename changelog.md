@@ -1,4 +1,9 @@
 * merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-26-2042 ([41ef7db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-2042))
+
 * Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-09-22-1920 ([9fa7d1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-1920))
 
 * [Innawood] Add more meadows ([#82993](https://github.com/CleverRaven/Cataclysm-DDA/pull/82993))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-22-1716 ([c76654b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-1716))
-
 * Fix Chaotic Downward Spiral Logic, remove neutral ([#82976](https://github.com/CleverRaven/Cataclysm-DDA/pull/82976))
 * [Xedra Evolved] Add the Vampire Anathema sun weakness ([#82956](https://github.com/CleverRaven/Cataclysm-DDA/pull/82956))
 * Simplify gun stats in item info ([#82962](https://github.com/CleverRaven/Cataclysm-DDA/pull/82962))

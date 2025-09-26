@@ -1,4 +1,6 @@
 * merge button hilight fix into 0.I (#83038)
+
+Cataclysm-DDA experimental build 2025-09-26-2042 (41ef7db)
 * Bronze nails can be used instead of nails (#83040)
 
 Cataclysm-DDA experimental build 2025-09-26-1915 (b03f246)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2025-09-22-2040 (e756551)
 
 Cataclysm-DDA experimental build 2025-09-22-1920 (9fa7d1a)
 * [Innawood] Add more meadows (#82993)
-
-Cataclysm-DDA experimental build 2025-09-22-1716 (c76654b)
 * Fix Chaotic Downward Spiral Logic, remove neutral (#82976)
 * [Xedra Evolved] Add the Vampire Anathema sun weakness (#82956)
 * Simplify gun stats in item info (#82962)
