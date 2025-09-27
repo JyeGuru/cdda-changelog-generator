@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-27-0218 (37e45e7)
+* Fix main save .zzip.tmp file handling. (#83042)
+
 Cataclysm-DDA experimental build 2025-09-27-0005 (fbba21f)
 * Allow NPCs to travel with you across dimensions (#83032)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-09-23-0503 (c0baee7)
 Cataclysm-DDA experimental build 2025-09-22-2203 (9b3bfaf)
 * [Innawood] Add shallow ore veins (#82965)
 * Fix greeter (#82995)
-
-Cataclysm-DDA experimental build 2025-09-22-2040 (e756551)
 * (Mostly) fix butchering activity from zones (#82980)
 * [Innawood] Add more meadows (#82993)
 * Fix Chaotic Downward Spiral Logic, remove neutral (#82976)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2025-09-22-2040 (e756551)
 * [Bombastic Perks] Add more perks (#82893)
 * Sky island terraforming & security (#82891)
 * Remove superfluous include to fix IWYU (#82905)
-* Small price audit (#82888)
 * Remove animal discord/empathy from starting traits (#82892)
 * do not list items that can be installed in vehicles if they cannot be (#82901)
 * Adjust the 'hide inside' capability of some furnitures (#82897)
