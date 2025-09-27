@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-27-0005 (fbba21f)
+* Allow NPCs to travel with you across dimensions (#83032)
+
 Cataclysm-DDA 0.I release candidate 2025-09-26-2127 (46562f3)
 * merge button hilight fix into 0.I (#83038)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-09-22-2203 (9b3bfaf)
 
 Cataclysm-DDA experimental build 2025-09-22-2040 (e756551)
 * (Mostly) fix butchering activity from zones (#82980)
-
-Cataclysm-DDA experimental build 2025-09-22-1920 (9fa7d1a)
 * [Innawood] Add more meadows (#82993)
 * Fix Chaotic Downward Spiral Logic, remove neutral (#82976)
 * [Xedra Evolved] Add the Vampire Anathema sun weakness (#82956)
@@ -106,7 +107,6 @@ Cataclysm-DDA experimental build 2025-09-22-1920 (9fa7d1a)
 * JSONize plant growth stages (#82943)
 * Routine i18n updates on 20 September 2025 (#82967)
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm (#82966)
-* Tweaks to mounted kitchen and workshop (#82883)
 * Update fungal fluid sac description from its triffid days (#82953)
 * Open season on typos/weird plurals (#82928)
 * Sensible Electric Motors for E-Bikes, Electric Mopeds, and (Slight Change) for E-Cars (#82902)
