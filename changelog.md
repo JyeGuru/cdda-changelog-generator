@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-27-0811 ([e9b6db7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-0811))
+
+* mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-27-0537 ([ec3980c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-0537))
 
 * [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-09-23-0553 ([42ece09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-0553))
 
 * added bulk grain recipes + ([#82979](https://github.com/CleverRaven/Cataclysm-DDA/pull/82979))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-23-0503 ([c0baee7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-0503))
-
 * script-generated new region settings JSON, pt. 1 ([#82982](https://github.com/CleverRaven/Cataclysm-DDA/pull/82982))
 * [Innawood] Add shallow ore veins ([#82965](https://github.com/CleverRaven/Cataclysm-DDA/pull/82965))
 * Fix greeter ([#82995](https://github.com/CleverRaven/Cataclysm-DDA/pull/82995))
@@ -228,7 +229,6 @@
 * move body_part_type::type to enums.h to resolve include loop ([#82900](https://github.com/CleverRaven/Cataclysm-DDA/pull/82900))
 * Rename Masochist into Pain Driven. ([#82895](https://github.com/CleverRaven/Cataclysm-DDA/pull/82895))
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
-* [Bombastic Perks] Add more perks ([#82893](https://github.com/CleverRaven/Cataclysm-DDA/pull/82893))
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
 * Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
