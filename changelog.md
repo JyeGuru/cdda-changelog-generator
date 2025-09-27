@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-27-2021 ([fc220ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-2021))
+
+* [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-27-1759 ([7c79bb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-1759))
 
 * Clean up mp3 iuse by using actor ([#83044](https://github.com/CleverRaven/Cataclysm-DDA/pull/83044))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-09-23-1735 ([24aac9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-1735))
 
 * Readjust the availability of a certain coffeepot ([#82989](https://github.com/CleverRaven/Cataclysm-DDA/pull/82989))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-23-1554 ([f1f6b3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-1554))
-
 * script-generated new region settings JSON, pt. 3 ([#82984](https://github.com/CleverRaven/Cataclysm-DDA/pull/82984))
 * script-generated new region settings JSON, pt. 2 ([#82983](https://github.com/CleverRaven/Cataclysm-DDA/pull/82983))
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
@@ -232,4 +233,3 @@
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
-* Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
