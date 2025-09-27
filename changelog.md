@@ -1,3 +1,10 @@
+* Clean up mp3 iuse by using actor ([#83044](https://github.com/CleverRaven/Cataclysm-DDA/pull/83044))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-27-1704 ([4ea0c4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-1704))
+
+* Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
 
 ---
 
@@ -174,11 +181,6 @@
 
 * script-generated new region settings JSON, pt. 2 ([#82983](https://github.com/CleverRaven/Cataclysm-DDA/pull/82983))
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-23-0553 ([42ece09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-0553))
-
 * added bulk grain recipes + ([#82979](https://github.com/CleverRaven/Cataclysm-DDA/pull/82979))
 * script-generated new region settings JSON, pt. 1 ([#82982](https://github.com/CleverRaven/Cataclysm-DDA/pull/82982))
 * [Innawood] Add shallow ore veins ([#82965](https://github.com/CleverRaven/Cataclysm-DDA/pull/82965))
@@ -227,7 +229,6 @@
 * Animal Discord/Empathy as starting traits in Tamable Wildlife ([#82919](https://github.com/CleverRaven/Cataclysm-DDA/pull/82919))
 * [MoM] Add the king of the wood (Telepathic deer) ([#82918](https://github.com/CleverRaven/Cataclysm-DDA/pull/82918))
 * move body_part_type::type to enums.h to resolve include loop ([#82900](https://github.com/CleverRaven/Cataclysm-DDA/pull/82900))
-* Rename Masochist into Pain Driven. ([#82895](https://github.com/CleverRaven/Cataclysm-DDA/pull/82895))
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
