@@ -1,3 +1,4 @@
+* Fix zzip build in mac&windows releases, add to make default target (#83059)
 
 Cataclysm-DDA experimental build 2025-09-27-2021 (fc220ce)
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable (#83055)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2025-09-23-1735 (24aac9c)
 * Typo fix (#82923)
 * Animal Discord/Empathy as starting traits in Tamable Wildlife (#82919)
 * [MoM] Add the king of the wood (Telepathic deer) (#82918)
-* move body_part_type::type to enums.h to resolve include loop (#82900)
 * Weekly Changelog 2025-09-08 to 2025-09-15 (#82906)
 * Remove superfluous include to fix IWYU (#82905)
 * do not list items that can be installed in vehicles if they cannot be (#82901)
