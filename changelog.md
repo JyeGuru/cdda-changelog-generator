@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-27-2131 ([148f65e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-2131))
+
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-09-23-2130 ([19ad7f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-2130))
 
 * Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-23-1735 ([24aac9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-1735))
-
 * Readjust the availability of a certain coffeepot ([#82989](https://github.com/CleverRaven/Cataclysm-DDA/pull/82989))
 * script-generated new region settings JSON, pt. 3 ([#82984](https://github.com/CleverRaven/Cataclysm-DDA/pull/82984))
 * script-generated new region settings JSON, pt. 2 ([#82983](https://github.com/CleverRaven/Cataclysm-DDA/pull/82983))
