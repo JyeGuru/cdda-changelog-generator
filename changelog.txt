@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-27-1759 (7c79bb4)
 * Clean up mp3 iuse by using actor (#83044)
 
 Cataclysm-DDA experimental build 2025-09-27-1704 (4ea0c4c)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2025-09-23-1735 (24aac9c)
 
 Cataclysm-DDA experimental build 2025-09-23-1554 (f1f6b3f)
 * script-generated new region settings JSON, pt. 3 (#82984)
-
-Cataclysm-DDA experimental build 2025-09-23-1449 (8e90425)
 * script-generated new region settings JSON, pt. 2 (#82983)
 * [cmake] honor `$VCPKG_ROOT` from env (#83003)
 * added bulk grain recipes + (#82979)

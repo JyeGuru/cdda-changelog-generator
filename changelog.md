@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-27-1759 ([7c79bb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-1759))
+
 * Clean up mp3 iuse by using actor ([#83044](https://github.com/CleverRaven/Cataclysm-DDA/pull/83044))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-09-23-1554 ([f1f6b3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-1554))
 
 * script-generated new region settings JSON, pt. 3 ([#82984](https://github.com/CleverRaven/Cataclysm-DDA/pull/82984))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-23-1449 ([8e90425](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-1449))
-
 * script-generated new region settings JSON, pt. 2 ([#82983](https://github.com/CleverRaven/Cataclysm-DDA/pull/82983))
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
 * added bulk grain recipes + ([#82979](https://github.com/CleverRaven/Cataclysm-DDA/pull/82979))
