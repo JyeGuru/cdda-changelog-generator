@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-27-0537 ([ec3980c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-0537))
+
+* [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-27-0218 ([37e45e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-0218))
 
 * Fix main save .zzip.tmp file handling. ([#83042](https://github.com/CleverRaven/Cataclysm-DDA/pull/83042))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-09-23-0503 ([c0baee7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-0503))
 
 * script-generated new region settings JSON, pt. 1 ([#82982](https://github.com/CleverRaven/Cataclysm-DDA/pull/82982))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-22-2203 ([9b3bfaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-22-2203))
-
 * [Innawood] Add shallow ore veins ([#82965](https://github.com/CleverRaven/Cataclysm-DDA/pull/82965))
 * Fix greeter ([#82995](https://github.com/CleverRaven/Cataclysm-DDA/pull/82995))
 * (Mostly) fix butchering activity from zones ([#82980](https://github.com/CleverRaven/Cataclysm-DDA/pull/82980))
@@ -229,6 +230,5 @@
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
 * [Bombastic Perks] Add more perks ([#82893](https://github.com/CleverRaven/Cataclysm-DDA/pull/82893))
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
-* Remove animal discord/empathy from starting traits ([#82892](https://github.com/CleverRaven/Cataclysm-DDA/pull/82892))
 * do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
 * Adjust the 'hide inside' capability of some furnitures ([#82897](https://github.com/CleverRaven/Cataclysm-DDA/pull/82897))
