@@ -90,8 +90,6 @@ Cataclysm-DDA experimental build 2025-09-24-1624 (8c4fc68)
 
 Cataclysm-DDA experimental build 2025-09-24-0512 (8c7a084)
 * Replace flag based light emission with human `optional()` (#82986)
-
-Cataclysm-DDA experimental build 2025-09-23-2239 (6785352)
 * Big seed (#83012)
 * Fungal creature harvest product adjustments (#83005)
 * Readjust the availability of a certain coffeepot (#82989)

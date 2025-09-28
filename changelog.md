@@ -174,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-09-24-0512 ([8c7a084](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-24-0512))
 
 * Replace flag based light emission with human `optional()` ([#82986](https://github.com/CleverRaven/Cataclysm-DDA/pull/82986))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-23-2239 ([6785352](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-2239))
-
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
 * Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
 * Readjust the availability of a certain coffeepot ([#82989](https://github.com/CleverRaven/Cataclysm-DDA/pull/82989))
