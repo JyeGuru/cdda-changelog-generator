@@ -226,4 +226,3 @@
 * Typo fix ([#82923](https://github.com/CleverRaven/Cataclysm-DDA/pull/82923))
 * Animal Discord/Empathy as starting traits in Tamable Wildlife ([#82919](https://github.com/CleverRaven/Cataclysm-DDA/pull/82919))
 * [MoM] Add the king of the wood (Telepathic deer) ([#82918](https://github.com/CleverRaven/Cataclysm-DDA/pull/82918))
-* Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
