@@ -219,7 +219,6 @@
 * Add serialization for TALK_MISSION_INQUIRE/TALK_MISSION_DESCRIBE_URGENT ([#82911](https://github.com/CleverRaven/Cataclysm-DDA/pull/82911))
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
 * New region settings structs, part 2 ([#82916](https://github.com/CleverRaven/Cataclysm-DDA/pull/82916))
-* Fix deep frying calories ([#82908](https://github.com/CleverRaven/Cataclysm-DDA/pull/82908))
 * Fix some missed iuse initializers. ([#82910](https://github.com/CleverRaven/Cataclysm-DDA/pull/82910))
 * [MoM] Add contemplation recipes for knacks (through photokinesis) ([#82913](https://github.com/CleverRaven/Cataclysm-DDA/pull/82913))
 * [Mods] Fix some typos ([#82915](https://github.com/CleverRaven/Cataclysm-DDA/pull/82915))
