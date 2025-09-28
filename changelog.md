@@ -169,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2025-09-24-1942 ([c979805](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-24-1942))
 
 * [Innawood] Meadow plants ([#83000](https://github.com/CleverRaven/Cataclysm-DDA/pull/83000))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-24-1624 ([8c4fc68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-24-1624))
-
 * ability to clear out specific dimensions (attempt 2) ([#82999](https://github.com/CleverRaven/Cataclysm-DDA/pull/82999))
 * Replace flag based light emission with human `optional()` ([#82986](https://github.com/CleverRaven/Cataclysm-DDA/pull/82986))
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))

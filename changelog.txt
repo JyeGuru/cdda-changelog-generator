@@ -88,8 +88,6 @@ Cataclysm-DDA experimental build 2025-09-24-2049 (4fbcae4)
 
 Cataclysm-DDA experimental build 2025-09-24-1942 (c979805)
 * [Innawood] Meadow plants (#83000)
-
-Cataclysm-DDA experimental build 2025-09-24-1624 (8c4fc68)
 * ability to clear out specific dimensions (attempt 2) (#82999)
 * Replace flag based light emission with human `optional()` (#82986)
 * Big seed (#83012)
