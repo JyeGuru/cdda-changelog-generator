@@ -232,4 +232,3 @@
 * [MoM] Add the king of the wood (Telepathic deer) ([#82918](https://github.com/CleverRaven/Cataclysm-DDA/pull/82918))
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
 * Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))
-* do not list items that can be installed in vehicles if they cannot be ([#82901](https://github.com/CleverRaven/Cataclysm-DDA/pull/82901))
