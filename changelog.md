@@ -217,7 +217,6 @@
 * [Xedra Evolved] The holy light of the sun burns vampires' impure flesh ([#82941](https://github.com/CleverRaven/Cataclysm-DDA/pull/82941))
 * New region settings structs, part 3 ([#82933](https://github.com/CleverRaven/Cataclysm-DDA/pull/82933))
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates ([#82942](https://github.com/CleverRaven/Cataclysm-DDA/pull/82942))
-* Add serialization for TALK_MISSION_INQUIRE/TALK_MISSION_DESCRIBE_URGENT ([#82911](https://github.com/CleverRaven/Cataclysm-DDA/pull/82911))
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
 * New region settings structs, part 2 ([#82916](https://github.com/CleverRaven/Cataclysm-DDA/pull/82916))
 * [MoM] Add contemplation recipes for knacks (through photokinesis) ([#82913](https://github.com/CleverRaven/Cataclysm-DDA/pull/82913))
