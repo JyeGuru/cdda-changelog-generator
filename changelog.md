@@ -1,3 +1,4 @@
+* Streamline reduce_tests.sh a bit ([#82963](https://github.com/CleverRaven/Cataclysm-DDA/pull/82963))
 * corrected formic acid counts ([#82958](https://github.com/CleverRaven/Cataclysm-DDA/pull/82958))
 
 ---
@@ -226,4 +227,3 @@
 * Animal Discord/Empathy as starting traits in Tamable Wildlife ([#82919](https://github.com/CleverRaven/Cataclysm-DDA/pull/82919))
 * [MoM] Add the king of the wood (Telepathic deer) ([#82918](https://github.com/CleverRaven/Cataclysm-DDA/pull/82918))
 * Weekly Changelog 2025-09-08 to 2025-09-15 ([#82906](https://github.com/CleverRaven/Cataclysm-DDA/pull/82906))
-* Remove superfluous include to fix IWYU ([#82905](https://github.com/CleverRaven/Cataclysm-DDA/pull/82905))

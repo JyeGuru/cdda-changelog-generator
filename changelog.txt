@@ -1,3 +1,4 @@
+* Streamline reduce_tests.sh a bit (#82963)
 * corrected formic acid counts (#82958)
 
 Cataclysm-DDA experimental build 2025-09-28-0435 (09c60da)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2025-09-24-0512 (8c7a084)
 * Animal Discord/Empathy as starting traits in Tamable Wildlife (#82919)
 * [MoM] Add the king of the wood (Telepathic deer) (#82918)
 * Weekly Changelog 2025-09-08 to 2025-09-15 (#82906)
-* Remove superfluous include to fix IWYU (#82905)
