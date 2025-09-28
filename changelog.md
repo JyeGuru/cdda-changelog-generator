@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-28-1419 ([3db21da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-28-1419))
+
+* [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
 * Streamline reduce_tests.sh a bit ([#82963](https://github.com/CleverRaven/Cataclysm-DDA/pull/82963))
 * corrected formic acid counts ([#82958](https://github.com/CleverRaven/Cataclysm-DDA/pull/82958))
 
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-09-24-1624 ([8c4fc68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-24-1624))
 
 * ability to clear out specific dimensions (attempt 2) ([#82999](https://github.com/CleverRaven/Cataclysm-DDA/pull/82999))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-24-0512 ([8c7a084](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-24-0512))
-
 * Replace flag based light emission with human `optional()` ([#82986](https://github.com/CleverRaven/Cataclysm-DDA/pull/82986))
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
 * Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
@@ -219,7 +220,6 @@
 * Add serialization for TALK_MISSION_INQUIRE/TALK_MISSION_DESCRIBE_URGENT ([#82911](https://github.com/CleverRaven/Cataclysm-DDA/pull/82911))
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
 * New region settings structs, part 2 ([#82916](https://github.com/CleverRaven/Cataclysm-DDA/pull/82916))
-* Fix some missed iuse initializers. ([#82910](https://github.com/CleverRaven/Cataclysm-DDA/pull/82910))
 * [MoM] Add contemplation recipes for knacks (through photokinesis) ([#82913](https://github.com/CleverRaven/Cataclysm-DDA/pull/82913))
 * [Mods] Fix some typos ([#82915](https://github.com/CleverRaven/Cataclysm-DDA/pull/82915))
 * Typo fix ([#82923](https://github.com/CleverRaven/Cataclysm-DDA/pull/82923))
