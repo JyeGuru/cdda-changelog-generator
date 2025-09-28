@@ -1,3 +1,10 @@
+* corrected formic acid counts ([#82958](https://github.com/CleverRaven/Cataclysm-DDA/pull/82958))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-28-0435 ([09c60da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-28-0435))
+
+* [Magiclysm] Magic field is only in fields, add mystic glade ([#83050](https://github.com/CleverRaven/Cataclysm-DDA/pull/83050))
 
 ---
 
@@ -173,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-09-23-2239 ([6785352](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-2239))
 
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-23-2130 ([19ad7f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-23-2130))
-
 * Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
 * Readjust the availability of a certain coffeepot ([#82989](https://github.com/CleverRaven/Cataclysm-DDA/pull/82989))
 * script-generated new region settings JSON, pt. 3 ([#82984](https://github.com/CleverRaven/Cataclysm-DDA/pull/82984))
@@ -203,7 +205,6 @@
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
 * Open season on typos/weird plurals ([#82928](https://github.com/CleverRaven/Cataclysm-DDA/pull/82928))
-* Sensible Electric Motors for E-Bikes, Electric Mopeds, and (Slight Change) for E-Cars ([#82902](https://github.com/CleverRaven/Cataclysm-DDA/pull/82902))
 * [Magiclysm] Rework mi-go Nethermancer ([#82954](https://github.com/CleverRaven/Cataclysm-DDA/pull/82954))
 * Spring recipes ([#82932](https://github.com/CleverRaven/Cataclysm-DDA/pull/82932))
 * Rename a get_temperature function and add some header comments ([#82937](https://github.com/CleverRaven/Cataclysm-DDA/pull/82937))
@@ -220,7 +221,6 @@
 * New region settings structs, part 3 ([#82933](https://github.com/CleverRaven/Cataclysm-DDA/pull/82933))
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates ([#82942](https://github.com/CleverRaven/Cataclysm-DDA/pull/82942))
 * Add serialization for TALK_MISSION_INQUIRE/TALK_MISSION_DESCRIBE_URGENT ([#82911](https://github.com/CleverRaven/Cataclysm-DDA/pull/82911))
-* do not list items that can be installed in vehicles if they cannot be ([#82904](https://github.com/CleverRaven/Cataclysm-DDA/pull/82904))
 * [0.I] Remove stats through kills ([#82912](https://github.com/CleverRaven/Cataclysm-DDA/pull/82912))
 * New region settings structs, part 2 ([#82916](https://github.com/CleverRaven/Cataclysm-DDA/pull/82916))
 * Fix deep frying calories ([#82908](https://github.com/CleverRaven/Cataclysm-DDA/pull/82908))
