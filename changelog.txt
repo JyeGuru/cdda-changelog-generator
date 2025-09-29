@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-29-1753 (134c655)
 * Oversensitive System mutation bugfix (#83073)
 
 Cataclysm-DDA experimental build 2025-09-29-1629 (50180e0)
@@ -84,8 +86,6 @@ Cataclysm-DDA experimental build 2025-09-26-0126 (fd182d1)
 
 Cataclysm-DDA experimental build 2025-09-25-2236 (2735569)
 * Bring back the missing NPC Pickup Rules talk_ally talk topic (#83030)
-
-Cataclysm-DDA experimental build 2025-09-25-2022 (b82d6bd)
 * Hydraulic Muscles now sets your strength to a fixed value (#83025)
 * [ Xedra Evoleved ]Red Twilight 34 snippets (#82969)
 * Add missing proficiencies to demihuman lard (#83023)

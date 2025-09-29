@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-29-1753 ([134c655](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1753))
+
 * Oversensitive System mutation bugfix ([#83073](https://github.com/CleverRaven/Cataclysm-DDA/pull/83073))
 
 ---
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-09-25-2236 ([2735569](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-2236))
 
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83030](https://github.com/CleverRaven/Cataclysm-DDA/pull/83030))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-25-2022 ([b82d6bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-2022))
-
 * Hydraulic Muscles now sets your strength to a fixed value ([#83025](https://github.com/CleverRaven/Cataclysm-DDA/pull/83025))
 * [ Xedra Evoleved ]Red Twilight 34 snippets ([#82969](https://github.com/CleverRaven/Cataclysm-DDA/pull/82969))
 * Add missing proficiencies to demihuman lard ([#83023](https://github.com/CleverRaven/Cataclysm-DDA/pull/83023))
