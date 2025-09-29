@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-29-0116 (d4c9291)
 * Unload stack fix (#83051)
 * Don't trash the light cache for the PCs Z level (#83071)
 * Warn abstract non inherit, fix seeds & ammo (#83018)
@@ -87,8 +89,6 @@ Cataclysm-DDA experimental build 2025-09-25-1140 (3b6ac9b)
 
 Cataclysm-DDA experimental build 2025-09-25-1041 (d3a6f6c)
 * Replace `std::stof` with (cata::)svtod (#83015)
-
-Cataclysm-DDA experimental build 2025-09-24-2049 (4fbcae4)
 * Uncharge cooking oil (#83019)
 * remove TEST_DATA region settings (#82985)
 * draw nav highlight on buttons using background color in IMTUI mode (#83011)

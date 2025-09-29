@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-29-0116 ([d4c9291](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0116))
+
 * Unload stack fix ([#83051](https://github.com/CleverRaven/Cataclysm-DDA/pull/83051))
 * Don't trash the light cache for the PCs Z level ([#83071](https://github.com/CleverRaven/Cataclysm-DDA/pull/83071))
 * Warn abstract non inherit, fix seeds & ammo ([#83018](https://github.com/CleverRaven/Cataclysm-DDA/pull/83018))
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-09-25-1041 ([d3a6f6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-1041))
 
 * Replace `std::stof` with (cata::)svtod ([#83015](https://github.com/CleverRaven/Cataclysm-DDA/pull/83015))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-24-2049 ([4fbcae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-24-2049))
-
 * Uncharge cooking oil ([#83019](https://github.com/CleverRaven/Cataclysm-DDA/pull/83019))
 * remove TEST_DATA region settings ([#82985](https://github.com/CleverRaven/Cataclysm-DDA/pull/82985))
 * draw nav highlight on buttons using background color in IMTUI mode ([#83011](https://github.com/CleverRaven/Cataclysm-DDA/pull/83011))
