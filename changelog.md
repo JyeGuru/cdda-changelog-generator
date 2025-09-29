@@ -1,3 +1,19 @@
+* [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
+* In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-29-2257 ([0b5421e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-29-2257))
+
+* Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
+* Give hordes a little bit of obstacle avoidance ability ([#83085](https://github.com/CleverRaven/Cataclysm-DDA/pull/83085))
+* Fix old cap that was limiting signalling range for hordes. ([#83083](https://github.com/CleverRaven/Cataclysm-DDA/pull/83083))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-29-2245 ([04f17ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-2245))
+
+* Fix zombie overspawning ([#83091](https://github.com/CleverRaven/Cataclysm-DDA/pull/83091))
 
 ---
 
@@ -161,11 +177,6 @@
 
 * [Xedra Evolved] Fix wight Vigor Mortis attack ([#83026](https://github.com/CleverRaven/Cataclysm-DDA/pull/83026))
 * [Magiclysm] Tweak black dragon breath timing/acid ([#83031](https://github.com/CleverRaven/Cataclysm-DDA/pull/83031))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-25-2236 ([2735569](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-2236))
-
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83030](https://github.com/CleverRaven/Cataclysm-DDA/pull/83030))
 * Hydraulic Muscles now sets your strength to a fixed value ([#83025](https://github.com/CleverRaven/Cataclysm-DDA/pull/83025))
 * [ Xedra Evoleved ]Red Twilight 34 snippets ([#82969](https://github.com/CleverRaven/Cataclysm-DDA/pull/82969))
@@ -201,20 +212,14 @@
 * Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
 * new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
 * Add base game new region settings JSON  ([#82955](https://github.com/CleverRaven/Cataclysm-DDA/pull/82955))
-* Bugfix for #82869 ([#82931](https://github.com/CleverRaven/Cataclysm-DDA/pull/82931))
 * JSONize plant growth stages ([#82943](https://github.com/CleverRaven/Cataclysm-DDA/pull/82943))
 * Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
 * [Magiclysm] Rework mi-go Nethermancer ([#82954](https://github.com/CleverRaven/Cataclysm-DDA/pull/82954))
-* Spring recipes ([#82932](https://github.com/CleverRaven/Cataclysm-DDA/pull/82932))
-* Rename a get_temperature function and add some header comments ([#82937](https://github.com/CleverRaven/Cataclysm-DDA/pull/82937))
 * update dimension EOC documentation and also rename an EOC function ([#82951](https://github.com/CleverRaven/Cataclysm-DDA/pull/82951))
-* Small cleanup in npc_talk_test ([#82938](https://github.com/CleverRaven/Cataclysm-DDA/pull/82938))
-* [Xedra Evolved] Add the triffid greenseer ([#82935](https://github.com/CleverRaven/Cataclysm-DDA/pull/82935))
 * [Innawoods] loading screen ([#82949](https://github.com/CleverRaven/Cataclysm-DDA/pull/82949))
 * [Mods] Add the `SUMMONED_CREATURE` species to more summons ([#82952](https://github.com/CleverRaven/Cataclysm-DDA/pull/82952))
 * Various sunken heli fixes and adjustments ([#82939](https://github.com/CleverRaven/Cataclysm-DDA/pull/82939))
 * [Xedra Evolved] The holy light of the sun burns vampires' impure flesh ([#82941](https://github.com/CleverRaven/Cataclysm-DDA/pull/82941))
-* New region settings structs, part 3 ([#82933](https://github.com/CleverRaven/Cataclysm-DDA/pull/82933))
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates ([#82942](https://github.com/CleverRaven/Cataclysm-DDA/pull/82942))
