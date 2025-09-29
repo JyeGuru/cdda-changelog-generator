@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-29-1100 ([e7c824b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1100))
+
+* tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-29-0408 ([2b0f580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0408))
 
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))
@@ -162,11 +168,6 @@
 
 * [ Xedra Evoleved ]Red Twilight 34 snippets ([#82969](https://github.com/CleverRaven/Cataclysm-DDA/pull/82969))
 * Add missing proficiencies to demihuman lard ([#83023](https://github.com/CleverRaven/Cataclysm-DDA/pull/83023))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-25-1757 ([a0ed233](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-1757))
-
 * Smart watches can actually play music ([#83021](https://github.com/CleverRaven/Cataclysm-DDA/pull/83021))
 * Balance: Overhaul scrap armor values ([#82946](https://github.com/CleverRaven/Cataclysm-DDA/pull/82946))
 * units::temperature serialize and deserialize with units ([#82996](https://github.com/CleverRaven/Cataclysm-DDA/pull/82996))
@@ -218,4 +219,3 @@
 * [Xedra Evolved] The holy light of the sun burns vampires' impure flesh ([#82941](https://github.com/CleverRaven/Cataclysm-DDA/pull/82941))
 * New region settings structs, part 3 ([#82933](https://github.com/CleverRaven/Cataclysm-DDA/pull/82933))
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates ([#82942](https://github.com/CleverRaven/Cataclysm-DDA/pull/82942))
-* Typo fix ([#82923](https://github.com/CleverRaven/Cataclysm-DDA/pull/82923))

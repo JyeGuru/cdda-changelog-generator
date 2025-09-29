@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-29-1100 (e7c824b)
+* tallow fix (#83094)
+
 Cataclysm-DDA experimental build 2025-09-29-0408 (2b0f580)
 * Update tilesets to display smaller hordes (#83084)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2025-09-25-2022 (b82d6bd)
 Cataclysm-DDA experimental build 2025-09-25-1908 (f5ef073)
 * [ Xedra Evoleved ]Red Twilight 34 snippets (#82969)
 * Add missing proficiencies to demihuman lard (#83023)
-
-Cataclysm-DDA experimental build 2025-09-25-1757 (a0ed233)
 * Smart watches can actually play music (#83021)
 * Balance: Overhaul scrap armor values (#82946)
 * units::temperature serialize and deserialize with units (#82996)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2025-09-25-1757 (a0ed233)
 * [Xedra Evolved] The holy light of the sun burns vampires' impure flesh (#82941)
 * New region settings structs, part 3 (#82933)
 * Make 5.56x45mm/.300BLK Clips compatible with mags with ranger plates (#82942)
-* Typo fix (#82923)
