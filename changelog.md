@@ -1,3 +1,10 @@
+* Oversensitive System mutation bugfix ([#83073](https://github.com/CleverRaven/Cataclysm-DDA/pull/83073))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-29-1629 ([50180e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1629))
+
+* Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
 
 ---
 
@@ -161,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2025-09-25-2022 ([b82d6bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-2022))
 
 * Hydraulic Muscles now sets your strength to a fixed value ([#83025](https://github.com/CleverRaven/Cataclysm-DDA/pull/83025))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-25-1908 ([f5ef073](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-25-1908))
-
 * [ Xedra Evoleved ]Red Twilight 34 snippets ([#82969](https://github.com/CleverRaven/Cataclysm-DDA/pull/82969))
 * Add missing proficiencies to demihuman lard ([#83023](https://github.com/CleverRaven/Cataclysm-DDA/pull/83023))
 * Smart watches can actually play music ([#83021](https://github.com/CleverRaven/Cataclysm-DDA/pull/83021))
@@ -204,7 +206,6 @@
 * Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
 * Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
-* Open season on typos/weird plurals ([#82928](https://github.com/CleverRaven/Cataclysm-DDA/pull/82928))
 * [Magiclysm] Rework mi-go Nethermancer ([#82954](https://github.com/CleverRaven/Cataclysm-DDA/pull/82954))
 * Spring recipes ([#82932](https://github.com/CleverRaven/Cataclysm-DDA/pull/82932))
 * Rename a get_temperature function and add some header comments ([#82937](https://github.com/CleverRaven/Cataclysm-DDA/pull/82937))
@@ -214,7 +215,6 @@
 * [Xedra Evolved] Add the triffid greenseer ([#82935](https://github.com/CleverRaven/Cataclysm-DDA/pull/82935))
 * [Innawoods] loading screen ([#82949](https://github.com/CleverRaven/Cataclysm-DDA/pull/82949))
 * [Mods] Add the `SUMMONED_CREATURE` species to more summons ([#82952](https://github.com/CleverRaven/Cataclysm-DDA/pull/82952))
-* dimensional travel (isekai the return) ([#82924](https://github.com/CleverRaven/Cataclysm-DDA/pull/82924))
 * Various sunken heli fixes and adjustments ([#82939](https://github.com/CleverRaven/Cataclysm-DDA/pull/82939))
 * [Xedra Evolved] The holy light of the sun burns vampires' impure flesh ([#82941](https://github.com/CleverRaven/Cataclysm-DDA/pull/82941))
 * New region settings structs, part 3 ([#82933](https://github.com/CleverRaven/Cataclysm-DDA/pull/82933))
