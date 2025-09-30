@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-09-30-0339 (3181775)
 * Tiny cleanup to horde motion (#83089)
 * Remove Roboto as a default font (#83092)
 
@@ -73,8 +75,6 @@ Cataclysm-DDA experimental build 2025-09-27-0218 (37e45e7)
 
 Cataclysm-DDA experimental build 2025-09-27-0005 (fbba21f)
 * Allow NPCs to travel with you across dimensions (#83032)
-
-Cataclysm-DDA 0.I release candidate 2025-09-26-2127 (46562f3)
 * merge button hilight fix into 0.I (#83038)
 
 Cataclysm-DDA experimental build 2025-09-26-2042 (41ef7db)

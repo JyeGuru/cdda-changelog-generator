@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-30-0339 ([3181775](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0339))
+
 * Tiny cleanup to horde motion ([#83089](https://github.com/CleverRaven/Cataclysm-DDA/pull/83089))
 * Remove Roboto as a default font ([#83092](https://github.com/CleverRaven/Cataclysm-DDA/pull/83092))
 
@@ -136,11 +141,6 @@
 #### Cataclysm-DDA experimental build 2025-09-27-0005 ([fbba21f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-0005))
 
 * Allow NPCs to travel with you across dimensions ([#83032](https://github.com/CleverRaven/Cataclysm-DDA/pull/83032))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-26-2127 ([46562f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-26-2127))
-
 * merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
 
 ---
