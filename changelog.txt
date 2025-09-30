@@ -1,3 +1,7 @@
+* Add zzip tool to gitignore (#83120)
+
+Cataclysm-DDA 0.I release candidate 2025-09-30-1735 (1ab9d95)
+* Remove Roboto as a default font (#83111)
 
 Cataclysm-DDA experimental build 2025-09-30-1459 (28cd44c)
 * Put monster difficulty and difficulty_base behind a getter (#83108)
@@ -62,7 +66,6 @@ Cataclysm-DDA experimental build 2025-09-29-0001 (e2a1f5d)
 Cataclysm-DDA experimental build 2025-09-28-1419 (3db21da)
 * [Magiclysm] Simplify Cause Rot ter_transform (#83062)
 * Streamline reduce_tests.sh a bit (#82963)
-* corrected formic acid counts (#82958)
 
 Cataclysm-DDA experimental build 2025-09-28-0435 (09c60da)
 * [Magiclysm] Magic field is only in fields, add mystic glade (#83050)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-09-27-0005 (fbba21f)
 
 Cataclysm-DDA experimental build 2025-09-26-2042 (41ef7db)
 * Bronze nails can be used instead of nails (#83040)
-
-Cataclysm-DDA experimental build 2025-09-26-1915 (b03f246)
 * Weekly Changelog 2025-09-15 to 2025-09-22 (#82990)
 * Bring back the missing NPC Pickup Rules talk_ally talk topic (#83035)
 * [Magiclysm/Innawood] Fix great tree mapgen (#83041)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2025-09-26-1915 (b03f246)
 * (Mostly) fix butchering activity from zones (#82980)
 * [Innawood] Add more meadows (#82993)
 * Fix Chaotic Downward Spiral Logic, remove neutral (#82976)
-* Simplify gun stats in item info (#82962)
 * [Xedra Evolved] Add Sun-seared dhampir Weakness (#82987)
 * Remove character field from eoc documentation (#82981)
 * new region settings overlay JSON (#82973)

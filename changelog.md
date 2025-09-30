@@ -1,3 +1,10 @@
+* Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-09-30-1735 ([1ab9d95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-30-1735))
+
+* Remove Roboto as a default font ([#83111](https://github.com/CleverRaven/Cataclysm-DDA/pull/83111))
 
 ---
 
@@ -113,7 +120,6 @@
 
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
 * Streamline reduce_tests.sh a bit ([#82963](https://github.com/CleverRaven/Cataclysm-DDA/pull/82963))
-* corrected formic acid counts ([#82958](https://github.com/CleverRaven/Cataclysm-DDA/pull/82958))
 
 ---
 
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-09-26-2042 ([41ef7db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-2042))
 
 * Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-26-1915 ([b03f246](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1915))
-
 * Weekly Changelog 2025-09-15 to 2025-09-22 ([#82990](https://github.com/CleverRaven/Cataclysm-DDA/pull/82990))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
@@ -216,7 +217,6 @@
 * (Mostly) fix butchering activity from zones ([#82980](https://github.com/CleverRaven/Cataclysm-DDA/pull/82980))
 * [Innawood] Add more meadows ([#82993](https://github.com/CleverRaven/Cataclysm-DDA/pull/82993))
 * Fix Chaotic Downward Spiral Logic, remove neutral ([#82976](https://github.com/CleverRaven/Cataclysm-DDA/pull/82976))
-* Simplify gun stats in item info ([#82962](https://github.com/CleverRaven/Cataclysm-DDA/pull/82962))
 * [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
 * Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
 * new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
