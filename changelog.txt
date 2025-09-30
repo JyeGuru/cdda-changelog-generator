@@ -1,3 +1,10 @@
+* Another typo hunt (#83107)
+* Hide overmap display's "land use code" behind debug mode (#83109)
+* Avoid dereferencing wrong horde_entity (#83106)
+* Book Artifacts and new effects. (#82988)
+
+Cataclysm-DDA experimental build 2025-09-30-0622 (7a8a027)
+* Implement new region settings (#83033)
 
 Cataclysm-DDA experimental build 2025-09-30-0339 (3181775)
 * Tiny cleanup to horde motion (#83089)
@@ -93,8 +100,6 @@ Cataclysm-DDA experimental build 2025-09-26-1423 (44e4a2d)
 
 Cataclysm-DDA experimental build 2025-09-26-0536 (09f9bdc)
 * More improvements to planting (#82978)
-
-Cataclysm-DDA experimental build 2025-09-26-0126 (fd182d1)
 * [Xedra Evolved] Fix wight Vigor Mortis attack (#83026)
 * [Magiclysm] Tweak black dragon breath timing/acid (#83031)
 * Bring back the missing NPC Pickup Rules talk_ally talk topic (#83030)
@@ -133,8 +138,4 @@ Cataclysm-DDA experimental build 2025-09-26-0126 (fd182d1)
 * Add base game new region settings JSON  (#82955)
 * Routine i18n updates on 20 September 2025 (#82967)
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm (#82966)
-* Update fungal fluid sac description from its triffid days (#82953)
 * [Magiclysm] Rework mi-go Nethermancer (#82954)
-* update dimension EOC documentation and also rename an EOC function (#82951)
-* [Innawoods] loading screen (#82949)
-* [Mods] Add the `SUMMONED_CREATURE` species to more summons (#82952)

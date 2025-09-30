@@ -1,3 +1,13 @@
+* Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
+* Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
+* Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
+* Book Artifacts and new effects. ([#82988](https://github.com/CleverRaven/Cataclysm-DDA/pull/82988))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-30-0622 ([7a8a027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0622))
+
+* Implement new region settings ([#83033](https://github.com/CleverRaven/Cataclysm-DDA/pull/83033))
 
 ---
 
@@ -174,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-09-26-0536 ([09f9bdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-0536))
 
 * More improvements to planting ([#82978](https://github.com/CleverRaven/Cataclysm-DDA/pull/82978))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-26-0126 ([fd182d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-0126))
-
 * [Xedra Evolved] Fix wight Vigor Mortis attack ([#83026](https://github.com/CleverRaven/Cataclysm-DDA/pull/83026))
 * [Magiclysm] Tweak black dragon breath timing/acid ([#83031](https://github.com/CleverRaven/Cataclysm-DDA/pull/83031))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83030](https://github.com/CleverRaven/Cataclysm-DDA/pull/83030))
@@ -217,8 +222,4 @@
 * Add base game new region settings JSON  ([#82955](https://github.com/CleverRaven/Cataclysm-DDA/pull/82955))
 * Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
-* Update fungal fluid sac description from its triffid days ([#82953](https://github.com/CleverRaven/Cataclysm-DDA/pull/82953))
 * [Magiclysm] Rework mi-go Nethermancer ([#82954](https://github.com/CleverRaven/Cataclysm-DDA/pull/82954))
-* update dimension EOC documentation and also rename an EOC function ([#82951](https://github.com/CleverRaven/Cataclysm-DDA/pull/82951))
-* [Innawoods] loading screen ([#82949](https://github.com/CleverRaven/Cataclysm-DDA/pull/82949))
-* [Mods] Add the `SUMMONED_CREATURE` species to more summons ([#82952](https://github.com/CleverRaven/Cataclysm-DDA/pull/82952))
