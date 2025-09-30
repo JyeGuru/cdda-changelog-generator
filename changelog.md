@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-09-30-0901 ([0b0b61d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0901))
+
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-09-26-1423 ([44e4a2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1423))
 
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83034](https://github.com/CleverRaven/Cataclysm-DDA/pull/83034))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-26-0536 ([09f9bdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-0536))
-
 * More improvements to planting ([#82978](https://github.com/CleverRaven/Cataclysm-DDA/pull/82978))
 * [Xedra Evolved] Fix wight Vigor Mortis attack ([#83026](https://github.com/CleverRaven/Cataclysm-DDA/pull/83026))
 * [Magiclysm] Tweak black dragon breath timing/acid ([#83031](https://github.com/CleverRaven/Cataclysm-DDA/pull/83031))
@@ -222,4 +222,3 @@
 * Add base game new region settings JSON  ([#82955](https://github.com/CleverRaven/Cataclysm-DDA/pull/82955))
 * Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
-* [Magiclysm] Rework mi-go Nethermancer ([#82954](https://github.com/CleverRaven/Cataclysm-DDA/pull/82954))
