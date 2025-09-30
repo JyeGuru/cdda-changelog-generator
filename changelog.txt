@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-30-1459 (28cd44c)
+* Put monster difficulty and difficulty_base behind a getter (#83108)
+
 Cataclysm-DDA experimental build 2025-09-30-1244 (84b83ec)
 * Implement guns being able to have flashlights, add one (#83061)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-09-26-1915 (b03f246)
 * Weekly Changelog 2025-09-15 to 2025-09-22 (#82990)
 * Bring back the missing NPC Pickup Rules talk_ally talk topic (#83035)
 * [Magiclysm/Innawood] Fix great tree mapgen (#83041)
-
-Cataclysm-DDA experimental build 2025-09-26-1758 (8d184c9)
 * Lard is tallow and animal oil doesn't exist (#83020)
 * [Magiclysm/Innawood] Fix great tree mapgen (#83034)
 * More improvements to planting (#82978)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2025-09-26-1758 (8d184c9)
 * (Mostly) fix butchering activity from zones (#82980)
 * [Innawood] Add more meadows (#82993)
 * Fix Chaotic Downward Spiral Logic, remove neutral (#82976)
-* [Xedra Evolved] Add the Vampire Anathema sun weakness (#82956)
 * Simplify gun stats in item info (#82962)
 * [Xedra Evolved] Add Sun-seared dhampir Weakness (#82987)
 * Remove character field from eoc documentation (#82981)

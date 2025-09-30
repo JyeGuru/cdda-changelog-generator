@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-30-1459 ([28cd44c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-1459))
+
+* Put monster difficulty and difficulty_base behind a getter ([#83108](https://github.com/CleverRaven/Cataclysm-DDA/pull/83108))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-30-1244 ([84b83ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-1244))
 
 * Implement guns being able to have flashlights, add one ([#83061](https://github.com/CleverRaven/Cataclysm-DDA/pull/83061))
@@ -177,11 +183,6 @@
 * Weekly Changelog 2025-09-15 to 2025-09-22 ([#82990](https://github.com/CleverRaven/Cataclysm-DDA/pull/82990))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-26-1758 ([8d184c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1758))
-
 * Lard is tallow and animal oil doesn't exist ([#83020](https://github.com/CleverRaven/Cataclysm-DDA/pull/83020))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83034](https://github.com/CleverRaven/Cataclysm-DDA/pull/83034))
 * More improvements to planting ([#82978](https://github.com/CleverRaven/Cataclysm-DDA/pull/82978))
@@ -215,7 +216,6 @@
 * (Mostly) fix butchering activity from zones ([#82980](https://github.com/CleverRaven/Cataclysm-DDA/pull/82980))
 * [Innawood] Add more meadows ([#82993](https://github.com/CleverRaven/Cataclysm-DDA/pull/82993))
 * Fix Chaotic Downward Spiral Logic, remove neutral ([#82976](https://github.com/CleverRaven/Cataclysm-DDA/pull/82976))
-* [Xedra Evolved] Add the Vampire Anathema sun weakness ([#82956](https://github.com/CleverRaven/Cataclysm-DDA/pull/82956))
 * Simplify gun stats in item info ([#82962](https://github.com/CleverRaven/Cataclysm-DDA/pull/82962))
 * [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
 * Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
