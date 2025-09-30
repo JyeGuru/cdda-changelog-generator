@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-09-30-1244 ([84b83ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-1244))
+
+* Implement guns being able to have flashlights, add one ([#83061](https://github.com/CleverRaven/Cataclysm-DDA/pull/83061))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-09-30-0901 ([0b0b61d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0901))
 
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-09-26-1758 ([8d184c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1758))
 
 * Lard is tallow and animal oil doesn't exist ([#83020](https://github.com/CleverRaven/Cataclysm-DDA/pull/83020))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-26-1423 ([44e4a2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-1423))
-
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83034](https://github.com/CleverRaven/Cataclysm-DDA/pull/83034))
 * More improvements to planting ([#82978](https://github.com/CleverRaven/Cataclysm-DDA/pull/82978))
 * [Xedra Evolved] Fix wight Vigor Mortis attack ([#83026](https://github.com/CleverRaven/Cataclysm-DDA/pull/83026))
@@ -219,6 +220,5 @@
 * [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
 * Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
 * new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
-* Add base game new region settings JSON  ([#82955](https://github.com/CleverRaven/Cataclysm-DDA/pull/82955))
 * Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))

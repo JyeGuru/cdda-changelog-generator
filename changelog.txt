@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-09-30-1244 (84b83ec)
+* Implement guns being able to have flashlights, add one (#83061)
+
 Cataclysm-DDA experimental build 2025-09-30-0901 (0b0b61d)
 * Another typo hunt (#83107)
 * Hide overmap display's "land use code" behind debug mode (#83109)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-09-26-1915 (b03f246)
 
 Cataclysm-DDA experimental build 2025-09-26-1758 (8d184c9)
 * Lard is tallow and animal oil doesn't exist (#83020)
-
-Cataclysm-DDA experimental build 2025-09-26-1423 (44e4a2d)
 * [Magiclysm/Innawood] Fix great tree mapgen (#83034)
 * More improvements to planting (#82978)
 * [Xedra Evolved] Fix wight Vigor Mortis attack (#83026)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2025-09-26-1423 (44e4a2d)
 * [Xedra Evolved] Add Sun-seared dhampir Weakness (#82987)
 * Remove character field from eoc documentation (#82981)
 * new region settings overlay JSON (#82973)
-* Add base game new region settings JSON  (#82955)
 * Routine i18n updates on 20 September 2025 (#82967)
 * [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm (#82966)
