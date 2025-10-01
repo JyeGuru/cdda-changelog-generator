@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-01-0039 ([718c6b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-0039))
+
+* NPCs automatically select the best MA style for their weapon ([#83113](https://github.com/CleverRaven/Cataclysm-DDA/pull/83113))
 * Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
 
 ---
@@ -119,7 +125,6 @@
 #### Cataclysm-DDA experimental build 2025-09-28-1419 ([3db21da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-28-1419))
 
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
-* Streamline reduce_tests.sh a bit ([#82963](https://github.com/CleverRaven/Cataclysm-DDA/pull/82963))
 
 ---
 
@@ -175,11 +180,6 @@
 
 * Allow NPCs to travel with you across dimensions ([#83032](https://github.com/CleverRaven/Cataclysm-DDA/pull/83032))
 * merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-26-2042 ([41ef7db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-26-2042))
-
 * Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
 * Weekly Changelog 2025-09-15 to 2025-09-22 ([#82990](https://github.com/CleverRaven/Cataclysm-DDA/pull/82990))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
@@ -200,7 +200,6 @@
 * Uncharge cooking oil ([#83019](https://github.com/CleverRaven/Cataclysm-DDA/pull/83019))
 * remove TEST_DATA region settings ([#82985](https://github.com/CleverRaven/Cataclysm-DDA/pull/82985))
 * draw nav highlight on buttons using background color in IMTUI mode ([#83011](https://github.com/CleverRaven/Cataclysm-DDA/pull/83011))
-* Improve generic factory pair readers ([#82964](https://github.com/CleverRaven/Cataclysm-DDA/pull/82964))
 * [Innawood] Meadow plants ([#83000](https://github.com/CleverRaven/Cataclysm-DDA/pull/83000))
 * ability to clear out specific dimensions (attempt 2) ([#82999](https://github.com/CleverRaven/Cataclysm-DDA/pull/82999))
 * Replace flag based light emission with human `optional()` ([#82986](https://github.com/CleverRaven/Cataclysm-DDA/pull/82986))
