@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-01-0541 (bffc2c6)
 * Update mod compatibility for new region settings (#83129)
 * Remove old region_settings, region_overlay JSON (#83126)
 * Migration fix for old saves using new region settings (#83124)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2025-09-27-0811 (e9b6db7)
 
 Cataclysm-DDA experimental build 2025-09-27-0537 (ec3980c)
 * [Magiclsym/Innawood] A few tweaks (#83047)
-
-Cataclysm-DDA experimental build 2025-09-27-0218 (37e45e7)
 * Fix main save .zzip.tmp file handling. (#83042)
 * Allow NPCs to travel with you across dimensions (#83032)
 * merge button hilight fix into 0.I (#83038)
