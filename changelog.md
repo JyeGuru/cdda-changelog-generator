@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-01-1720 ([3a08845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-1720))
+
+* Split zone manager UI from `game` into separate class ([#83069](https://github.com/CleverRaven/Cataclysm-DDA/pull/83069))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-01-0847 ([e3bef0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-0847))
 
 * Replace hardcoded check for Oversensitive System with flag check ([#83130](https://github.com/CleverRaven/Cataclysm-DDA/pull/83130))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-09-27-1704 ([4ea0c4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-1704))
 
 * Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-27-0811 ([e9b6db7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-0811))
-
 * mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
 * [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
 * Fix main save .zzip.tmp file handling. ([#83042](https://github.com/CleverRaven/Cataclysm-DDA/pull/83042))
@@ -221,4 +222,3 @@
 * Fix Chaotic Downward Spiral Logic, remove neutral ([#82976](https://github.com/CleverRaven/Cataclysm-DDA/pull/82976))
 * [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
 * Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
-* new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
