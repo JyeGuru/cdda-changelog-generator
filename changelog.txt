@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-01-0847 (e3bef0a)
+* Replace hardcoded check for Oversensitive System with flag check (#83130)
+
 Cataclysm-DDA experimental build 2025-10-01-0541 (bffc2c6)
 * Update mod compatibility for new region settings (#83129)
 * Remove old region_settings, region_overlay JSON (#83126)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-09-27-1704 (4ea0c4c)
 
 Cataclysm-DDA experimental build 2025-09-27-0811 (e9b6db7)
 * mace recipe audit (#83049)
-
-Cataclysm-DDA experimental build 2025-09-27-0537 (ec3980c)
 * [Magiclsym/Innawood] A few tweaks (#83047)
 * Fix main save .zzip.tmp file handling. (#83042)
 * Allow NPCs to travel with you across dimensions (#83032)
