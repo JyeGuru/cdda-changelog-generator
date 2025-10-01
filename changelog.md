@@ -1,3 +1,12 @@
+* Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
+* Remove old region_settings, region_overlay JSON ([#83126](https://github.com/CleverRaven/Cataclysm-DDA/pull/83126))
+* Migration fix for old saves using new region settings ([#83124](https://github.com/CleverRaven/Cataclysm-DDA/pull/83124))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-01-0422 ([da6fe1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-0422))
+
+* Remove unused planted versions of "mound of dirt" ([#83110](https://github.com/CleverRaven/Cataclysm-DDA/pull/83110))
 
 ---
 
@@ -173,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-09-27-0218 ([37e45e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-0218))
 
 * Fix main save .zzip.tmp file handling. ([#83042](https://github.com/CleverRaven/Cataclysm-DDA/pull/83042))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-27-0005 ([fbba21f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-0005))
-
 * Allow NPCs to travel with you across dimensions ([#83032](https://github.com/CleverRaven/Cataclysm-DDA/pull/83032))
 * merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
 * Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
@@ -191,7 +195,6 @@
 * [Magiclysm] Tweak black dragon breath timing/acid ([#83031](https://github.com/CleverRaven/Cataclysm-DDA/pull/83031))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83030](https://github.com/CleverRaven/Cataclysm-DDA/pull/83030))
 * Hydraulic Muscles now sets your strength to a fixed value ([#83025](https://github.com/CleverRaven/Cataclysm-DDA/pull/83025))
-* [ Xedra Evoleved ]Red Twilight 34 snippets ([#82969](https://github.com/CleverRaven/Cataclysm-DDA/pull/82969))
 * Add missing proficiencies to demihuman lard ([#83023](https://github.com/CleverRaven/Cataclysm-DDA/pull/83023))
 * Smart watches can actually play music ([#83021](https://github.com/CleverRaven/Cataclysm-DDA/pull/83021))
 * units::temperature serialize and deserialize with units ([#82996](https://github.com/CleverRaven/Cataclysm-DDA/pull/82996))
@@ -211,7 +214,6 @@
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
 * added bulk grain recipes + ([#82979](https://github.com/CleverRaven/Cataclysm-DDA/pull/82979))
 * script-generated new region settings JSON, pt. 1 ([#82982](https://github.com/CleverRaven/Cataclysm-DDA/pull/82982))
-* [Innawood] Add shallow ore veins ([#82965](https://github.com/CleverRaven/Cataclysm-DDA/pull/82965))
 * Fix greeter ([#82995](https://github.com/CleverRaven/Cataclysm-DDA/pull/82995))
 * (Mostly) fix butchering activity from zones ([#82980](https://github.com/CleverRaven/Cataclysm-DDA/pull/82980))
 * [Innawood] Add more meadows ([#82993](https://github.com/CleverRaven/Cataclysm-DDA/pull/82993))
@@ -219,5 +221,3 @@
 * [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
 * Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
 * new region settings overlay JSON ([#82973](https://github.com/CleverRaven/Cataclysm-DDA/pull/82973))
-* Routine i18n updates on 20 September 2025 ([#82967](https://github.com/CleverRaven/Cataclysm-DDA/pull/82967))
-* [Xedra_Evolved] Fixed Tailors Kit conflict with Xedra/Magiclysm ([#82966](https://github.com/CleverRaven/Cataclysm-DDA/pull/82966))
