@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-02-0431 (4766a61)
+* Fix new region settings/overlay finalize order (#83146)
+
 Cataclysm-DDA experimental build 2025-10-02-0329 (7b1154f)
 * [Magiclysm] Fix druid tower roof (#83132)
 * Farrier fluff (#83133)
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2025-09-28-1419 (3db21da)
 
 Cataclysm-DDA experimental build 2025-09-28-0435 (09c60da)
 * [Magiclysm] Magic field is only in fields, add mystic glade (#83050)
-
-Cataclysm-DDA experimental build 2025-09-27-2131 (148f65e)
 * Fix zzip build in mac&windows releases, add to make default target (#83059)
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable (#83055)
 * Clean up mp3 iuse by using actor (#83044)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2025-09-27-2131 (148f65e)
 * Fungal creature harvest product adjustments (#83005)
 * Readjust the availability of a certain coffeepot (#82989)
 * script-generated new region settings JSON, pt. 3 (#82984)
-* script-generated new region settings JSON, pt. 2 (#82983)
 * [cmake] honor `$VCPKG_ROOT` from env (#83003)
 * Fix greeter (#82995)
 * [Innawood] Add more meadows (#82993)
