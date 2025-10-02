@@ -1,3 +1,5 @@
+* Add zzip tool to gitignore ([#83125](https://github.com/CleverRaven/Cataclysm-DDA/pull/83125))
+* Clean up default_map_data loading ([#83119](https://github.com/CleverRaven/Cataclysm-DDA/pull/83119))
 * Add mounted flashlight to gunmod group ([#83121](https://github.com/CleverRaven/Cataclysm-DDA/pull/83121))
 
 ---
@@ -210,11 +212,9 @@
 * manually converted new region settings JSON ([#83014](https://github.com/CleverRaven/Cataclysm-DDA/pull/83014))
 * Replace `std::stof` with (cata::)svtod ([#83015](https://github.com/CleverRaven/Cataclysm-DDA/pull/83015))
 * Uncharge cooking oil ([#83019](https://github.com/CleverRaven/Cataclysm-DDA/pull/83019))
-* remove TEST_DATA region settings ([#82985](https://github.com/CleverRaven/Cataclysm-DDA/pull/82985))
 * draw nav highlight on buttons using background color in IMTUI mode ([#83011](https://github.com/CleverRaven/Cataclysm-DDA/pull/83011))
 * [Innawood] Meadow plants ([#83000](https://github.com/CleverRaven/Cataclysm-DDA/pull/83000))
 * ability to clear out specific dimensions (attempt 2) ([#82999](https://github.com/CleverRaven/Cataclysm-DDA/pull/82999))
-* Replace flag based light emission with human `optional()` ([#82986](https://github.com/CleverRaven/Cataclysm-DDA/pull/82986))
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
 * Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
 * Readjust the availability of a certain coffeepot ([#82989](https://github.com/CleverRaven/Cataclysm-DDA/pull/82989))
