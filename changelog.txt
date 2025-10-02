@@ -1,4 +1,6 @@
 * Add zzip tool to gitignore (#83125)
+
+Cataclysm-DDA experimental build 2025-10-02-0527 (5bfe74c)
 * Clean up default_map_data loading (#83119)
 * Add mounted flashlight to gunmod group (#83121)
 
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-09-29-0001 (e2a1f5d)
 
 Cataclysm-DDA experimental build 2025-09-28-1419 (3db21da)
 * [Magiclysm] Simplify Cause Rot ter_transform (#83062)
-
-Cataclysm-DDA experimental build 2025-09-28-0435 (09c60da)
 * [Magiclysm] Magic field is only in fields, add mystic glade (#83050)
 * Fix zzip build in mac&windows releases, add to make default target (#83059)
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable (#83055)

@@ -1,4 +1,9 @@
 * Add zzip tool to gitignore ([#83125](https://github.com/CleverRaven/Cataclysm-DDA/pull/83125))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-02-0527 ([5bfe74c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-0527))
+
 * Clean up default_map_data loading ([#83119](https://github.com/CleverRaven/Cataclysm-DDA/pull/83119))
 * Add mounted flashlight to gunmod group ([#83121](https://github.com/CleverRaven/Cataclysm-DDA/pull/83121))
 
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-09-28-1419 ([3db21da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-28-1419))
 
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-28-0435 ([09c60da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-28-0435))
-
 * [Magiclysm] Magic field is only in fields, add mystic glade ([#83050](https://github.com/CleverRaven/Cataclysm-DDA/pull/83050))
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
