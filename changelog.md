@@ -1,6 +1,27 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-02-0329 ([7b1154f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-0329))
+
+* [Magiclysm] Fix druid tower roof ([#83132](https://github.com/CleverRaven/Cataclysm-DDA/pull/83132))
+* Farrier fluff ([#83133](https://github.com/CleverRaven/Cataclysm-DDA/pull/83133))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-10-02-0217 ([244811f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-02-0217))
+
+* Remove Riot Damage from collapsed tower ([#83135](https://github.com/CleverRaven/Cataclysm-DDA/pull/83135))
+* Allows to install glass and curtains on a broken window with bars. ([#83141](https://github.com/CleverRaven/Cataclysm-DDA/pull/83141))
+* Add sunscreen ([#83139](https://github.com/CleverRaven/Cataclysm-DDA/pull/83139))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-02-0204 ([5c6682c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-0204))
+
+* Routine tileset updates on 01 October 2025 ([#83127](https://github.com/CleverRaven/Cataclysm-DDA/pull/83127))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-01-1720 ([3a08845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-1720))
 
 * Split zone manager UI from `game` into separate class ([#83069](https://github.com/CleverRaven/Cataclysm-DDA/pull/83069))
@@ -163,23 +184,8 @@
 #### Cataclysm-DDA experimental build 2025-09-27-2131 ([148f65e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-2131))
 
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-27-2021 ([fc220ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-2021))
-
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-27-1759 ([7c79bb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-1759))
-
 * Clean up mp3 iuse by using actor ([#83044](https://github.com/CleverRaven/Cataclysm-DDA/pull/83044))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-27-1704 ([4ea0c4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-27-1704))
-
 * Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
 * mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
 * [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
@@ -192,7 +198,6 @@
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
 * Lard is tallow and animal oil doesn't exist ([#83020](https://github.com/CleverRaven/Cataclysm-DDA/pull/83020))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83034](https://github.com/CleverRaven/Cataclysm-DDA/pull/83034))
-* More improvements to planting ([#82978](https://github.com/CleverRaven/Cataclysm-DDA/pull/82978))
 * [Xedra Evolved] Fix wight Vigor Mortis attack ([#83026](https://github.com/CleverRaven/Cataclysm-DDA/pull/83026))
 * [Magiclysm] Tweak black dragon breath timing/acid ([#83031](https://github.com/CleverRaven/Cataclysm-DDA/pull/83031))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83030](https://github.com/CleverRaven/Cataclysm-DDA/pull/83030))
@@ -214,11 +219,6 @@
 * script-generated new region settings JSON, pt. 3 ([#82984](https://github.com/CleverRaven/Cataclysm-DDA/pull/82984))
 * script-generated new region settings JSON, pt. 2 ([#82983](https://github.com/CleverRaven/Cataclysm-DDA/pull/82983))
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
-* added bulk grain recipes + ([#82979](https://github.com/CleverRaven/Cataclysm-DDA/pull/82979))
-* script-generated new region settings JSON, pt. 1 ([#82982](https://github.com/CleverRaven/Cataclysm-DDA/pull/82982))
 * Fix greeter ([#82995](https://github.com/CleverRaven/Cataclysm-DDA/pull/82995))
-* (Mostly) fix butchering activity from zones ([#82980](https://github.com/CleverRaven/Cataclysm-DDA/pull/82980))
 * [Innawood] Add more meadows ([#82993](https://github.com/CleverRaven/Cataclysm-DDA/pull/82993))
-* Fix Chaotic Downward Spiral Logic, remove neutral ([#82976](https://github.com/CleverRaven/Cataclysm-DDA/pull/82976))
 * [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
-* Remove character field from eoc documentation ([#82981](https://github.com/CleverRaven/Cataclysm-DDA/pull/82981))
