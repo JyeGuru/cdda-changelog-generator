@@ -1,3 +1,12 @@
+* Better feedback on planting failures + plants need sunlight ([#83112](https://github.com/CleverRaven/Cataclysm-DDA/pull/83112))
+* silence data loss warnings ([#83114](https://github.com/CleverRaven/Cataclysm-DDA/pull/83114))
+* Correct requirements for Temperature Adaptability ([#83128](https://github.com/CleverRaven/Cataclysm-DDA/pull/83128))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-02-1422 ([760eda8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-1422))
+
+* Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
 * Add zzip tool to gitignore ([#83125](https://github.com/CleverRaven/Cataclysm-DDA/pull/83125))
 
 ---
@@ -92,7 +101,6 @@
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
-* Book Artifacts and new effects. ([#82988](https://github.com/CleverRaven/Cataclysm-DDA/pull/82988))
 
 ---
 
@@ -197,7 +205,6 @@
 * Allow NPCs to travel with you across dimensions ([#83032](https://github.com/CleverRaven/Cataclysm-DDA/pull/83032))
 * merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
 * Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
-* Weekly Changelog 2025-09-15 to 2025-09-22 ([#82990](https://github.com/CleverRaven/Cataclysm-DDA/pull/82990))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
 * Lard is tallow and animal oil doesn't exist ([#83020](https://github.com/CleverRaven/Cataclysm-DDA/pull/83020))
@@ -217,8 +224,6 @@
 * ability to clear out specific dimensions (attempt 2) ([#82999](https://github.com/CleverRaven/Cataclysm-DDA/pull/82999))
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
 * Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
-* Readjust the availability of a certain coffeepot ([#82989](https://github.com/CleverRaven/Cataclysm-DDA/pull/82989))
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
 * Fix greeter ([#82995](https://github.com/CleverRaven/Cataclysm-DDA/pull/82995))
 * [Innawood] Add more meadows ([#82993](https://github.com/CleverRaven/Cataclysm-DDA/pull/82993))
-* [Xedra Evolved] Add Sun-seared dhampir Weakness ([#82987](https://github.com/CleverRaven/Cataclysm-DDA/pull/82987))
