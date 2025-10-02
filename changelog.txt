@@ -1,3 +1,4 @@
+* Add mounted flashlight to gunmod group (#83121)
 
 Cataclysm-DDA experimental build 2025-10-02-0431 (4766a61)
 * Fix new region settings/overlay finalize order (#83146)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2025-09-28-0435 (09c60da)
 * Big seed (#83012)
 * Fungal creature harvest product adjustments (#83005)
 * Readjust the availability of a certain coffeepot (#82989)
-* script-generated new region settings JSON, pt. 3 (#82984)
 * [cmake] honor `$VCPKG_ROOT` from env (#83003)
 * Fix greeter (#82995)
 * [Innawood] Add more meadows (#82993)

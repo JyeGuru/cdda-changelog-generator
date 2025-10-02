@@ -1,3 +1,4 @@
+* Add mounted flashlight to gunmod group ([#83121](https://github.com/CleverRaven/Cataclysm-DDA/pull/83121))
 
 ---
 
@@ -217,7 +218,6 @@
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
 * Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
 * Readjust the availability of a certain coffeepot ([#82989](https://github.com/CleverRaven/Cataclysm-DDA/pull/82989))
-* script-generated new region settings JSON, pt. 3 ([#82984](https://github.com/CleverRaven/Cataclysm-DDA/pull/82984))
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))
 * Fix greeter ([#82995](https://github.com/CleverRaven/Cataclysm-DDA/pull/82995))
 * [Innawood] Add more meadows ([#82993](https://github.com/CleverRaven/Cataclysm-DDA/pull/82993))
