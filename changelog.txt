@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-02-1525 (e1513f6)
 * Better feedback on planting failures + plants need sunlight (#83112)
 * silence data loss warnings (#83114)
 * Correct requirements for Temperature Adaptability (#83128)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-09-29-0116 (d4c9291)
 
 Cataclysm-DDA experimental build 2025-09-29-0001 (e2a1f5d)
 * Professions start with Standard Neurobionic Interface if they have bionics (#83075)
-
-Cataclysm-DDA experimental build 2025-09-28-1419 (3db21da)
 * [Magiclysm] Simplify Cause Rot ter_transform (#83062)
 * [Magiclysm] Magic field is only in fields, add mystic glade (#83050)
 * Fix zzip build in mac&windows releases, add to make default target (#83059)

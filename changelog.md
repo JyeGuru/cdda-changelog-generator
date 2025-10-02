@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-02-1525 ([e1513f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-1525))
+
 * Better feedback on planting failures + plants need sunlight ([#83112](https://github.com/CleverRaven/Cataclysm-DDA/pull/83112))
 * silence data loss warnings ([#83114](https://github.com/CleverRaven/Cataclysm-DDA/pull/83114))
 * Correct requirements for Temperature Adaptability ([#83128](https://github.com/CleverRaven/Cataclysm-DDA/pull/83128))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-09-29-0001 ([e2a1f5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0001))
 
 * Professions start with Standard Neurobionic Interface if they have bionics ([#83075](https://github.com/CleverRaven/Cataclysm-DDA/pull/83075))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-28-1419 ([3db21da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-28-1419))
-
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
 * [Magiclysm] Magic field is only in fields, add mystic glade ([#83050](https://github.com/CleverRaven/Cataclysm-DDA/pull/83050))
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
