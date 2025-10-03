@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-03-0223 ([19cb1ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-03-0223))
+
+* Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-02-1836 ([5eaa701](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-1836))
 
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
@@ -139,11 +145,6 @@
 * Molotovs do not create walls of fire ([#83090](https://github.com/CleverRaven/Cataclysm-DDA/pull/83090))
 * [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-09-29-2257 ([0b5421e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-09-29-2257))
-
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
 * Give hordes a little bit of obstacle avoidance ability ([#83085](https://github.com/CleverRaven/Cataclysm-DDA/pull/83085))
 * Fix old cap that was limiting signalling range for hordes. ([#83083](https://github.com/CleverRaven/Cataclysm-DDA/pull/83083))
@@ -225,7 +226,6 @@
 * Replace `std::stof` with (cata::)svtod ([#83015](https://github.com/CleverRaven/Cataclysm-DDA/pull/83015))
 * Uncharge cooking oil ([#83019](https://github.com/CleverRaven/Cataclysm-DDA/pull/83019))
 * draw nav highlight on buttons using background color in IMTUI mode ([#83011](https://github.com/CleverRaven/Cataclysm-DDA/pull/83011))
-* [Innawood] Meadow plants ([#83000](https://github.com/CleverRaven/Cataclysm-DDA/pull/83000))
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
 * Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))
 * [cmake] honor `$VCPKG_ROOT` from env ([#83003](https://github.com/CleverRaven/Cataclysm-DDA/pull/83003))

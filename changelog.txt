@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-03-0223 (19cb1ee)
+* Consume_drug use actions can define intensity for their effect (#83137)
+
 Cataclysm-DDA experimental build 2025-10-02-1836 (5eaa701)
 * Allow dimensions to have their own defined region settings (#83138)
 
@@ -76,8 +79,6 @@ Cataclysm-DDA experimental build 2025-09-30-0013 (243c298)
 * Molotovs do not create walls of fire (#83090)
 * [Innawood] Duct tape recipe makes 40 charges (#83096)
 * In rain, do not get wet if under the roof (#83099)
-
-Cataclysm-DDA 0.I release candidate 2025-09-29-2257 (0b5421e)
 * Backport save compression fixes. (#83103)
 * Give hordes a little bit of obstacle avoidance ability (#83085)
 * Fix old cap that was limiting signalling range for hordes. (#83083)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2025-09-29-0001 (e2a1f5d)
 * Replace `std::stof` with (cata::)svtod (#83015)
 * Uncharge cooking oil (#83019)
 * draw nav highlight on buttons using background color in IMTUI mode (#83011)
-* [Innawood] Meadow plants (#83000)
 * Big seed (#83012)
 * Fungal creature harvest product adjustments (#83005)
 * [cmake] honor `$VCPKG_ROOT` from env (#83003)
