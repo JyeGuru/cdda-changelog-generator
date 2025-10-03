@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-03-0611 ([c5cc73e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-03-0611))
+
+* Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-03-0223 ([19cb1ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-03-0223))
 
 * Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
@@ -194,11 +200,6 @@
 * Warn abstract non inherit, fix seeds & ammo ([#83018](https://github.com/CleverRaven/Cataclysm-DDA/pull/83018))
 * Tallow is fat ([#83029](https://github.com/CleverRaven/Cataclysm-DDA/pull/83029))
 * Sky Island missing exit bugfix ([#83074](https://github.com/CleverRaven/Cataclysm-DDA/pull/83074))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-29-0001 ([e2a1f5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0001))
-
 * Professions start with Standard Neurobionic Interface if they have bionics ([#83075](https://github.com/CleverRaven/Cataclysm-DDA/pull/83075))
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
 * [Magiclysm] Magic field is only in fields, add mystic glade ([#83050](https://github.com/CleverRaven/Cataclysm-DDA/pull/83050))
@@ -227,4 +228,3 @@
 * Uncharge cooking oil ([#83019](https://github.com/CleverRaven/Cataclysm-DDA/pull/83019))
 * draw nav highlight on buttons using background color in IMTUI mode ([#83011](https://github.com/CleverRaven/Cataclysm-DDA/pull/83011))
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
-* Fungal creature harvest product adjustments ([#83005](https://github.com/CleverRaven/Cataclysm-DDA/pull/83005))

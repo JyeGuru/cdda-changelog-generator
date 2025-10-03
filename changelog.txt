@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-03-0611 (c5cc73e)
+* Remove old region_settings c++ (#83148)
+
 Cataclysm-DDA experimental build 2025-10-03-0223 (19cb1ee)
 * Consume_drug use actions can define intensity for their effect (#83137)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2025-09-29-0116 (d4c9291)
 * Warn abstract non inherit, fix seeds & ammo (#83018)
 * Tallow is fat (#83029)
 * Sky Island missing exit bugfix (#83074)
-
-Cataclysm-DDA experimental build 2025-09-29-0001 (e2a1f5d)
 * Professions start with Standard Neurobionic Interface if they have bionics (#83075)
 * [Magiclysm] Simplify Cause Rot ter_transform (#83062)
 * [Magiclysm] Magic field is only in fields, add mystic glade (#83050)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2025-09-29-0001 (e2a1f5d)
 * Uncharge cooking oil (#83019)
 * draw nav highlight on buttons using background color in IMTUI mode (#83011)
 * Big seed (#83012)
-* Fungal creature harvest product adjustments (#83005)
