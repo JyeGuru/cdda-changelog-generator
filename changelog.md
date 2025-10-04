@@ -201,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-09-29-1753 ([134c655](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1753))
 
 * Oversensitive System mutation bugfix ([#83073](https://github.com/CleverRaven/Cataclysm-DDA/pull/83073))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-29-1629 ([50180e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1629))
-
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))

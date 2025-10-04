@@ -114,8 +114,6 @@ Cataclysm-DDA experimental build 2025-09-29-2245 (04f17ec)
 
 Cataclysm-DDA experimental build 2025-09-29-1753 (134c655)
 * Oversensitive System mutation bugfix (#83073)
-
-Cataclysm-DDA experimental build 2025-09-29-1629 (50180e0)
 * Car owner manual (#83095)
 * tallow fix (#83094)
 * Update tilesets to display smaller hordes (#83084)
