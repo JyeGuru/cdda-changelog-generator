@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-04-0630 (b88a06c)
+* [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` (#83166)
+
 Cataclysm-DDA experimental build 2025-10-04-0454 (0c57316)
 * [Magiclysm] Mystic Glade counts as forest biome (#83165)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-09-29-1100 (e7c824b)
 
 Cataclysm-DDA experimental build 2025-09-29-0408 (2b0f580)
 * Update tilesets to display smaller hordes (#83084)
-
-Cataclysm-DDA experimental build 2025-09-29-0243 (d18d12c)
 * dimension npc travel filter expansion and other tweaks (#83077)
 * Unload stack fix (#83051)
 * Don't trash the light cache for the PCs Z level (#83071)

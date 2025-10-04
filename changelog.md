@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-04-0630 ([b88a06c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-0630))
+
+* [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-04-0454 ([0c57316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-0454))
 
 * [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-09-29-0408 ([2b0f580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0408))
 
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-29-0243 ([d18d12c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0243))
-
 * dimension npc travel filter expansion and other tweaks ([#83077](https://github.com/CleverRaven/Cataclysm-DDA/pull/83077))
 * Unload stack fix ([#83051](https://github.com/CleverRaven/Cataclysm-DDA/pull/83051))
 * Don't trash the light cache for the PCs Z level ([#83071](https://github.com/CleverRaven/Cataclysm-DDA/pull/83071))
