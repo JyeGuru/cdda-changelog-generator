@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-04-2120 (4688691)
+* [Magiclysm] Blood mages cannot bleed. (#83186)
+
 Cataclysm-DDA experimental build 2025-10-04-1820 (4a1acc6)
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. (#83175)
 * fix how selection changes are handled in a uilist with disabled entries (#83057)
@@ -94,9 +97,6 @@ Cataclysm-DDA experimental build 2025-09-30-0901 (0b0b61d)
 * Hide overmap display's "land use code" behind debug mode (#83109)
 * Avoid dereferencing wrong horde_entity (#83106)
 
-Cataclysm-DDA experimental build 2025-09-30-0622 (7a8a027)
-* Implement new region settings (#83033)
-
 Cataclysm-DDA experimental build 2025-09-30-0339 (3181775)
 * Tiny cleanup to horde motion (#83089)
 * Remove Roboto as a default font (#83092)
@@ -111,8 +111,6 @@ Cataclysm-DDA experimental build 2025-09-30-0013 (243c298)
 * Backport save compression fixes. (#83103)
 * Give hordes a little bit of obstacle avoidance ability (#83085)
 * Fix old cap that was limiting signalling range for hordes. (#83083)
-
-Cataclysm-DDA experimental build 2025-09-29-2245 (04f17ec)
 * Fix zombie overspawning (#83091)
 * Oversensitive System mutation bugfix (#83073)
 * Car owner manual (#83095)

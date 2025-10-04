@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-04-2120 ([4688691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-2120))
+
+* [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-04-1820 ([4a1acc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1820))
 
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. ([#83175](https://github.com/CleverRaven/Cataclysm-DDA/pull/83175))
@@ -168,12 +174,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-09-30-0622 ([7a8a027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0622))
-
-* Implement new region settings ([#83033](https://github.com/CleverRaven/Cataclysm-DDA/pull/83033))
-
----
-
 #### Cataclysm-DDA experimental build 2025-09-30-0339 ([3181775](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0339))
 
 * Tiny cleanup to horde motion ([#83089](https://github.com/CleverRaven/Cataclysm-DDA/pull/83089))
@@ -195,11 +195,6 @@
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
 * Give hordes a little bit of obstacle avoidance ability ([#83085](https://github.com/CleverRaven/Cataclysm-DDA/pull/83085))
 * Fix old cap that was limiting signalling range for hordes. ([#83083](https://github.com/CleverRaven/Cataclysm-DDA/pull/83083))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-29-2245 ([04f17ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-2245))
-
 * Fix zombie overspawning ([#83091](https://github.com/CleverRaven/Cataclysm-DDA/pull/83091))
 * Oversensitive System mutation bugfix ([#83073](https://github.com/CleverRaven/Cataclysm-DDA/pull/83073))
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
