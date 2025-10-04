@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-04-1820 ([4a1acc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1820))
+
+* [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. ([#83175](https://github.com/CleverRaven/Cataclysm-DDA/pull/83175))
 * fix how selection changes are handled in a uilist with disabled entries ([#83057](https://github.com/CleverRaven/Cataclysm-DDA/pull/83057))
 * Remove identical region_settings components ([#83153](https://github.com/CleverRaven/Cataclysm-DDA/pull/83153))
 * Add another bucket for horde_map and filter ineligible monsters out o… ([#83157](https://github.com/CleverRaven/Cataclysm-DDA/pull/83157))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-09-29-2245 ([04f17ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-2245))
 
 * Fix zombie overspawning ([#83091](https://github.com/CleverRaven/Cataclysm-DDA/pull/83091))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-29-1753 ([134c655](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1753))
-
 * Oversensitive System mutation bugfix ([#83073](https://github.com/CleverRaven/Cataclysm-DDA/pull/83073))
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
@@ -218,10 +219,8 @@
 * mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
 * [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
 * Fix main save .zzip.tmp file handling. ([#83042](https://github.com/CleverRaven/Cataclysm-DDA/pull/83042))
-* Allow NPCs to travel with you across dimensions ([#83032](https://github.com/CleverRaven/Cataclysm-DDA/pull/83032))
 * merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
 * Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83034](https://github.com/CleverRaven/Cataclysm-DDA/pull/83034))
-* [Magiclysm] Tweak black dragon breath timing/acid ([#83031](https://github.com/CleverRaven/Cataclysm-DDA/pull/83031))
