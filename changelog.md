@@ -1,3 +1,10 @@
+* [Sky Island] Fix Evict hostiles interacting with normally-unkillable monsters exp  ([#83168](https://github.com/CleverRaven/Cataclysm-DDA/pull/83168))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-04-1354 ([58985f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1354))
+
+* [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
 
 ---
 
@@ -190,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-09-29-1629 ([50180e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1629))
 
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-29-1100 ([e7c824b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1100))
-
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))
 * dimension npc travel filter expansion and other tweaks ([#83077](https://github.com/CleverRaven/Cataclysm-DDA/pull/83077))
@@ -226,7 +228,5 @@
 * Hydraulic Muscles now sets your strength to a fixed value ([#83025](https://github.com/CleverRaven/Cataclysm-DDA/pull/83025))
 * Add missing proficiencies to demihuman lard ([#83023](https://github.com/CleverRaven/Cataclysm-DDA/pull/83023))
 * Smart watches can actually play music ([#83021](https://github.com/CleverRaven/Cataclysm-DDA/pull/83021))
-* manually converted new region settings JSON ([#83014](https://github.com/CleverRaven/Cataclysm-DDA/pull/83014))
 * Replace `std::stof` with (cata::)svtod ([#83015](https://github.com/CleverRaven/Cataclysm-DDA/pull/83015))
 * Uncharge cooking oil ([#83019](https://github.com/CleverRaven/Cataclysm-DDA/pull/83019))
-* Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
