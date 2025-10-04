@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-04-0454 ([0c57316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-0454))
+
+* [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-03-0611 ([c5cc73e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-03-0611))
 
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-09-29-0243 ([d18d12c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0243))
 
 * dimension npc travel filter expansion and other tweaks ([#83077](https://github.com/CleverRaven/Cataclysm-DDA/pull/83077))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-29-0116 ([d4c9291](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0116))
-
 * Unload stack fix ([#83051](https://github.com/CleverRaven/Cataclysm-DDA/pull/83051))
 * Don't trash the light cache for the PCs Z level ([#83071](https://github.com/CleverRaven/Cataclysm-DDA/pull/83071))
 * Warn abstract non inherit, fix seeds & ammo ([#83018](https://github.com/CleverRaven/Cataclysm-DDA/pull/83018))
