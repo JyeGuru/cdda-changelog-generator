@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-04-1221 ([d850323](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1221))
+
+* Adds bills of different length & use ([#83043](https://github.com/CleverRaven/Cataclysm-DDA/pull/83043))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-04-0630 ([b88a06c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-0630))
 
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-09-29-1100 ([e7c824b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-1100))
 
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-29-0408 ([2b0f580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-29-0408))
-
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))
 * dimension npc travel filter expansion and other tweaks ([#83077](https://github.com/CleverRaven/Cataclysm-DDA/pull/83077))
 * Unload stack fix ([#83051](https://github.com/CleverRaven/Cataclysm-DDA/pull/83051))
@@ -228,5 +229,4 @@
 * manually converted new region settings JSON ([#83014](https://github.com/CleverRaven/Cataclysm-DDA/pull/83014))
 * Replace `std::stof` with (cata::)svtod ([#83015](https://github.com/CleverRaven/Cataclysm-DDA/pull/83015))
 * Uncharge cooking oil ([#83019](https://github.com/CleverRaven/Cataclysm-DDA/pull/83019))
-* draw nav highlight on buttons using background color in IMTUI mode ([#83011](https://github.com/CleverRaven/Cataclysm-DDA/pull/83011))
 * Big seed ([#83012](https://github.com/CleverRaven/Cataclysm-DDA/pull/83012))
