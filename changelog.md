@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-05-1133 ([87b1f32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-1133))
+
+* [CI pending] Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-04-2120 ([4688691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-2120))
 
 * [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-09-30-0211 ([f78607e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0211))
 
 * [MoM] Add biokinetic-attuned artifacts ([#83098](https://github.com/CleverRaven/Cataclysm-DDA/pull/83098))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-30-0013 ([243c298](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0013))
-
 * Molotovs do not create walls of fire ([#83090](https://github.com/CleverRaven/Cataclysm-DDA/pull/83090))
 * [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
@@ -218,4 +219,3 @@
 * Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
 * Bring back the missing NPC Pickup Rules talk_ally talk topic ([#83035](https://github.com/CleverRaven/Cataclysm-DDA/pull/83035))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
-* [Magiclysm/Innawood] Fix great tree mapgen ([#83034](https://github.com/CleverRaven/Cataclysm-DDA/pull/83034))

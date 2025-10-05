@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-05-1133 (87b1f32)
+* [CI pending] Split armor-related functions from item.cpp into item_armor.cpp (#83191)
+
 Cataclysm-DDA experimental build 2025-10-04-2120 (4688691)
 * [Magiclysm] Blood mages cannot bleed. (#83186)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-09-30-0339 (3181775)
 
 Cataclysm-DDA experimental build 2025-09-30-0211 (f78607e)
 * [MoM] Add biokinetic-attuned artifacts (#83098)
-
-Cataclysm-DDA experimental build 2025-09-30-0013 (243c298)
 * Molotovs do not create walls of fire (#83090)
 * [Innawood] Duct tape recipe makes 40 charges (#83096)
 * In rain, do not get wet if under the roof (#83099)
@@ -134,4 +135,3 @@ Cataclysm-DDA experimental build 2025-09-30-0013 (243c298)
 * Bronze nails can be used instead of nails (#83040)
 * Bring back the missing NPC Pickup Rules talk_ally talk topic (#83035)
 * [Magiclysm/Innawood] Fix great tree mapgen (#83041)
-* [Magiclysm/Innawood] Fix great tree mapgen (#83034)
