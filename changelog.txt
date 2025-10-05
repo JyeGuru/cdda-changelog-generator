@@ -3,7 +3,7 @@ Cataclysm-DDA experimental build 2025-10-05-1525 (ee26150)
 * Remove zombie code from zzip from last refactor (#83182)
 
 Cataclysm-DDA experimental build 2025-10-05-1133 (87b1f32)
-* [CI pending] Split armor-related functions from item.cpp into item_armor.cpp (#83191)
+* Split armor-related functions from item.cpp into item_armor.cpp (#83191)
 
 Cataclysm-DDA experimental build 2025-10-04-2120 (4688691)
 * [Magiclysm] Blood mages cannot bleed. (#83186)

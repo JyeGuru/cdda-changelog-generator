@@ -9,7 +9,7 @@
 
 #### Cataclysm-DDA experimental build 2025-10-05-1133 ([87b1f32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-1133))
 
-* [CI pending] Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
+* Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
 
 ---
 
