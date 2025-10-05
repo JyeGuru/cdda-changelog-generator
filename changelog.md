@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-05-2240 ([e48bdf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-2240))
+
+* Update magiclysm list of authors and maintainers ([#83187](https://github.com/CleverRaven/Cataclysm-DDA/pull/83187))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-05-1525 ([ee26150](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-1525))
 
 * Remove zombie code from zzip from last refactor ([#83182](https://github.com/CleverRaven/Cataclysm-DDA/pull/83182))
@@ -185,11 +191,6 @@
 
 * Tiny cleanup to horde motion ([#83089](https://github.com/CleverRaven/Cataclysm-DDA/pull/83089))
 * Remove Roboto as a default font ([#83092](https://github.com/CleverRaven/Cataclysm-DDA/pull/83092))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-30-0211 ([f78607e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0211))
-
 * [MoM] Add biokinetic-attuned artifacts ([#83098](https://github.com/CleverRaven/Cataclysm-DDA/pull/83098))
 * Molotovs do not create walls of fire ([#83090](https://github.com/CleverRaven/Cataclysm-DDA/pull/83090))
 * [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
