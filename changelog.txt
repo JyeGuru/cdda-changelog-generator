@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-05-1525 (ee26150)
+* Remove zombie code from zzip from last refactor (#83182)
+
 Cataclysm-DDA experimental build 2025-10-05-1133 (87b1f32)
 * [CI pending] Split armor-related functions from item.cpp into item_armor.cpp (#83191)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2025-10-01-0422 (da6fe1b)
 Cataclysm-DDA experimental build 2025-10-01-0039 (718c6b7)
 * NPCs automatically select the best MA style for their weapon (#83113)
 * Add zzip tool to gitignore (#83120)
-
-Cataclysm-DDA 0.I release candidate 2025-09-30-1735 (1ab9d95)
 * Remove Roboto as a default font (#83111)
 
 Cataclysm-DDA experimental build 2025-09-30-1459 (28cd44c)
@@ -133,5 +134,4 @@ Cataclysm-DDA experimental build 2025-09-30-0211 (f78607e)
 * Fix main save .zzip.tmp file handling. (#83042)
 * merge button hilight fix into 0.I (#83038)
 * Bronze nails can be used instead of nails (#83040)
-* Bring back the missing NPC Pickup Rules talk_ally talk topic (#83035)
 * [Magiclysm/Innawood] Fix great tree mapgen (#83041)
