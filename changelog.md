@@ -216,7 +216,6 @@
 * [Magiclysm] Magic field is only in fields, add mystic glade ([#83050](https://github.com/CleverRaven/Cataclysm-DDA/pull/83050))
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
-* Clean up mp3 iuse by using actor ([#83044](https://github.com/CleverRaven/Cataclysm-DDA/pull/83044))
 * Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
 * mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
 * [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
