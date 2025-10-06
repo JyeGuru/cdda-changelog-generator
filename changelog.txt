@@ -1,3 +1,7 @@
+* Patch EOC duration overflow (#83185)
+
+Cataclysm-DDA experimental build 2025-10-06-0248 (eaa56f3)
+* Filter out vertical movements for hordes (#83189)
 
 Cataclysm-DDA experimental build 2025-10-05-2240 (e48bdf2)
 * Update magiclysm list of authors and maintainers (#83187)
@@ -103,8 +107,6 @@ Cataclysm-DDA experimental build 2025-09-30-0901 (0b0b61d)
 * Another typo hunt (#83107)
 * Hide overmap display's "land use code" behind debug mode (#83109)
 * Avoid dereferencing wrong horde_entity (#83106)
-
-Cataclysm-DDA experimental build 2025-09-30-0339 (3181775)
 * Tiny cleanup to horde motion (#83089)
 * Remove Roboto as a default font (#83092)
 * [MoM] Add biokinetic-attuned artifacts (#83098)
@@ -133,6 +135,4 @@ Cataclysm-DDA experimental build 2025-09-30-0339 (3181775)
 * mace recipe audit (#83049)
 * [Magiclsym/Innawood] A few tweaks (#83047)
 * Fix main save .zzip.tmp file handling. (#83042)
-* merge button hilight fix into 0.I (#83038)
-* Bronze nails can be used instead of nails (#83040)
 * [Magiclysm/Innawood] Fix great tree mapgen (#83041)

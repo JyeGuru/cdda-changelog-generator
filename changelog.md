@@ -1,3 +1,10 @@
+* Patch EOC duration overflow ([#83185](https://github.com/CleverRaven/Cataclysm-DDA/pull/83185))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-06-0248 ([eaa56f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-0248))
+
+* Filter out vertical movements for hordes ([#83189](https://github.com/CleverRaven/Cataclysm-DDA/pull/83189))
 
 ---
 
@@ -184,11 +191,6 @@
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-30-0339 ([3181775](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-0339))
-
 * Tiny cleanup to horde motion ([#83089](https://github.com/CleverRaven/Cataclysm-DDA/pull/83089))
 * Remove Roboto as a default font ([#83092](https://github.com/CleverRaven/Cataclysm-DDA/pull/83092))
 * [MoM] Add biokinetic-attuned artifacts ([#83098](https://github.com/CleverRaven/Cataclysm-DDA/pull/83098))
@@ -217,6 +219,4 @@
 * mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
 * [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
 * Fix main save .zzip.tmp file handling. ([#83042](https://github.com/CleverRaven/Cataclysm-DDA/pull/83042))
-* merge button hilight fix into 0.I ([#83038](https://github.com/CleverRaven/Cataclysm-DDA/pull/83038))
-* Bronze nails can be used instead of nails ([#83040](https://github.com/CleverRaven/Cataclysm-DDA/pull/83040))
 * [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
