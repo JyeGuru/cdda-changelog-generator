@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-06-1700 ([3e51e78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-1700))
+
+* Rename region settings C++/JSON, add new region settings docs ([#83188](https://github.com/CleverRaven/Cataclysm-DDA/pull/83188))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-06-1150 ([6caac0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-1150))
 
 * [CI pending] Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-10-01-0422 ([da6fe1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-0422))
 
 * Remove unused planted versions of "mound of dirt" ([#83110](https://github.com/CleverRaven/Cataclysm-DDA/pull/83110))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-01-0039 ([718c6b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-0039))
-
 * NPCs automatically select the best MA style for their weapon ([#83113](https://github.com/CleverRaven/Cataclysm-DDA/pull/83113))
 * Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
 * Remove Roboto as a default font ([#83111](https://github.com/CleverRaven/Cataclysm-DDA/pull/83111))
@@ -219,4 +220,3 @@
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
 * Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
-* mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
