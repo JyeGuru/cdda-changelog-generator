@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-06-0600 ([96c3957](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-0600))
+
+* Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-06-0425 ([0981863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-0425))
 
 * Fix translation ([#83193](https://github.com/CleverRaven/Cataclysm-DDA/pull/83193))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-09-30-1459 ([28cd44c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-1459))
 
 * Put monster difficulty and difficulty_base behind a getter ([#83108](https://github.com/CleverRaven/Cataclysm-DDA/pull/83108))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-30-1244 ([84b83ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-1244))
-
 * Implement guns being able to have flashlights, add one ([#83061](https://github.com/CleverRaven/Cataclysm-DDA/pull/83061))
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
@@ -218,4 +219,3 @@
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
 * Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
 * mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
-* [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
