@@ -1,3 +1,11 @@
+* Fix translation ([#83193](https://github.com/CleverRaven/Cataclysm-DDA/pull/83193))
+* typo in long sling item ([#83152](https://github.com/CleverRaven/Cataclysm-DDA/pull/83152))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-10-06-0345 ([bc3d017](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-06-0345))
+
+* Remove zombie code from zzip from last refactor ([#83197](https://github.com/CleverRaven/Cataclysm-DDA/pull/83197))
 * Patch EOC duration overflow ([#83185](https://github.com/CleverRaven/Cataclysm-DDA/pull/83185))
 
 ---
@@ -52,12 +60,6 @@
 #### Cataclysm-DDA experimental build 2025-10-04-1354 ([58985f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1354))
 
 * [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-04-1221 ([d850323](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1221))
-
-* Adds bills of different length & use ([#83043](https://github.com/CleverRaven/Cataclysm-DDA/pull/83043))
 
 ---
 
@@ -218,5 +220,3 @@
 * Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
 * mace recipe audit ([#83049](https://github.com/CleverRaven/Cataclysm-DDA/pull/83049))
 * [Magiclsym/Innawood] A few tweaks ([#83047](https://github.com/CleverRaven/Cataclysm-DDA/pull/83047))
-* Fix main save .zzip.tmp file handling. ([#83042](https://github.com/CleverRaven/Cataclysm-DDA/pull/83042))
-* [Magiclysm/Innawood] Fix great tree mapgen ([#83041](https://github.com/CleverRaven/Cataclysm-DDA/pull/83041))
