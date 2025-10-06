@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-06-0425 (0981863)
 * Fix translation (#83193)
 * typo in long sling item (#83152)
 
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-09-30-1459 (28cd44c)
 
 Cataclysm-DDA experimental build 2025-09-30-1244 (84b83ec)
 * Implement guns being able to have flashlights, add one (#83061)
-
-Cataclysm-DDA experimental build 2025-09-30-0901 (0b0b61d)
 * Another typo hunt (#83107)
 * Hide overmap display's "land use code" behind debug mode (#83109)
 * Avoid dereferencing wrong horde_entity (#83106)
