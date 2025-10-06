@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-06-1150 ([6caac0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-1150))
+
+* [CI pending] Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-06-0600 ([96c3957](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-0600))
 
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
@@ -184,11 +190,6 @@
 * NPCs automatically select the best MA style for their weapon ([#83113](https://github.com/CleverRaven/Cataclysm-DDA/pull/83113))
 * Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
 * Remove Roboto as a default font ([#83111](https://github.com/CleverRaven/Cataclysm-DDA/pull/83111))
-
----
-
-#### Cataclysm-DDA experimental build 2025-09-30-1459 ([28cd44c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-09-30-1459))
-
 * Put monster difficulty and difficulty_base behind a getter ([#83108](https://github.com/CleverRaven/Cataclysm-DDA/pull/83108))
 * Implement guns being able to have flashlights, add one ([#83061](https://github.com/CleverRaven/Cataclysm-DDA/pull/83061))
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
