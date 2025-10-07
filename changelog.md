@@ -21,7 +21,7 @@
 
 #### Cataclysm-DDA experimental build 2025-10-06-1150 ([6caac0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-1150))
 
-* [CI pending] Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
+* Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
 
 ---
 

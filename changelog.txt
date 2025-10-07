@@ -9,7 +9,7 @@ Cataclysm-DDA experimental build 2025-10-06-1700 (3e51e78)
 * Rename region settings C++/JSON, add new region settings docs (#83188)
 
 Cataclysm-DDA experimental build 2025-10-06-1150 (6caac0d)
-* [CI pending] Split pocket/contents-related functions from item.cpp to item_container.cpp (#83199)
+* Split pocket/contents-related functions from item.cpp to item_container.cpp (#83199)
 
 Cataclysm-DDA experimental build 2025-10-06-0600 (96c3957)
 * Weekly Changelog 2025-09-29 to 2025-10-06 (#83200)
