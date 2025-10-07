@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-07-0338 (3549dcc)
 * [MoM] Clairsentient matrix crystals are artifacts (#83190)
 
 Cataclysm-DDA experimental build 2025-10-07-0230 (cc3d023)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-10-01-1720 (3a08845)
 
 Cataclysm-DDA experimental build 2025-10-01-0847 (e3bef0a)
 * Replace hardcoded check for Oversensitive System with flag check (#83130)
-
-Cataclysm-DDA experimental build 2025-10-01-0541 (bffc2c6)
 * Update mod compatibility for new region settings (#83129)
 * Remove old region_settings, region_overlay JSON (#83126)
 * Migration fix for old saves using new region settings (#83124)
