@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-07-1719 ([7733086](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-07-1719))
+
+* Audit survivor start ([#83210](https://github.com/CleverRaven/Cataclysm-DDA/pull/83210))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-07-0338 ([3549dcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-07-0338))
 
 * [MoM] Clairsentient matrix crystals are artifacts ([#83190](https://github.com/CleverRaven/Cataclysm-DDA/pull/83190))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-10-01-1720 ([3a08845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-1720))
 
 * Split zone manager UI from `game` into separate class ([#83069](https://github.com/CleverRaven/Cataclysm-DDA/pull/83069))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-01-0847 ([e3bef0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-0847))
-
 * Replace hardcoded check for Oversensitive System with flag check ([#83130](https://github.com/CleverRaven/Cataclysm-DDA/pull/83130))
 * Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
 * Remove old region_settings, region_overlay JSON ([#83126](https://github.com/CleverRaven/Cataclysm-DDA/pull/83126))
@@ -219,4 +220,3 @@
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
-* Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
