@@ -1,3 +1,10 @@
+* [MoM] Clairsentient matrix crystals are artifacts ([#83190](https://github.com/CleverRaven/Cataclysm-DDA/pull/83190))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-07-0230 ([cc3d023](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-07-0230))
+
+* Don't smoke whole lettuce heads ([#83203](https://github.com/CleverRaven/Cataclysm-DDA/pull/83203))
 
 ---
 
@@ -182,11 +189,6 @@
 * Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
 * Remove old region_settings, region_overlay JSON ([#83126](https://github.com/CleverRaven/Cataclysm-DDA/pull/83126))
 * Migration fix for old saves using new region settings ([#83124](https://github.com/CleverRaven/Cataclysm-DDA/pull/83124))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-01-0422 ([da6fe1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-0422))
-
 * Remove unused planted versions of "mound of dirt" ([#83110](https://github.com/CleverRaven/Cataclysm-DDA/pull/83110))
 * NPCs automatically select the best MA style for their weapon ([#83113](https://github.com/CleverRaven/Cataclysm-DDA/pull/83113))
 * Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
@@ -211,12 +213,10 @@
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))
 * dimension npc travel filter expansion and other tweaks ([#83077](https://github.com/CleverRaven/Cataclysm-DDA/pull/83077))
-* Unload stack fix ([#83051](https://github.com/CleverRaven/Cataclysm-DDA/pull/83051))
 * Don't trash the light cache for the PCs Z level ([#83071](https://github.com/CleverRaven/Cataclysm-DDA/pull/83071))
 * Sky Island missing exit bugfix ([#83074](https://github.com/CleverRaven/Cataclysm-DDA/pull/83074))
 * Professions start with Standard Neurobionic Interface if they have bionics ([#83075](https://github.com/CleverRaven/Cataclysm-DDA/pull/83075))
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
-* [Magiclysm] Magic field is only in fields, add mystic glade ([#83050](https://github.com/CleverRaven/Cataclysm-DDA/pull/83050))
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
 * [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
 * Routine i18n updates on 27 September 2025 ([#83052](https://github.com/CleverRaven/Cataclysm-DDA/pull/83052))
