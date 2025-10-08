@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-08-2348 (1989c5e)
+* [DDotD] No FEMA in Canada (#83205)
+
 Cataclysm-DDA experimental build 2025-10-08-1607 (57beb6a)
 * Current implementation of radiation mutation allows code to be translated (#83224)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-10-02-1525 (e1513f6)
 * Better feedback on planting failures + plants need sunlight (#83112)
 * silence data loss warnings (#83114)
 * Correct requirements for Temperature Adaptability (#83128)
-
-Cataclysm-DDA experimental build 2025-10-02-1422 (760eda8)
 * Make Scavenger's Anvil Tool Quality Less Confusing (#83149)
 * Add zzip tool to gitignore (#83125)
 * Clean up default_map_data loading (#83119)

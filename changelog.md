@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-08-2348 ([1989c5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-2348))
+
+* [DDotD] No FEMA in Canada ([#83205](https://github.com/CleverRaven/Cataclysm-DDA/pull/83205))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-08-1607 ([57beb6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1607))
 
 * Current implementation of radiation mutation allows code to be translated ([#83224](https://github.com/CleverRaven/Cataclysm-DDA/pull/83224))
@@ -174,11 +180,6 @@
 * Better feedback on planting failures + plants need sunlight ([#83112](https://github.com/CleverRaven/Cataclysm-DDA/pull/83112))
 * silence data loss warnings ([#83114](https://github.com/CleverRaven/Cataclysm-DDA/pull/83114))
 * Correct requirements for Temperature Adaptability ([#83128](https://github.com/CleverRaven/Cataclysm-DDA/pull/83128))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-02-1422 ([760eda8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-1422))
-
 * Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
 * Add zzip tool to gitignore ([#83125](https://github.com/CleverRaven/Cataclysm-DDA/pull/83125))
 * Clean up default_map_data loading ([#83119](https://github.com/CleverRaven/Cataclysm-DDA/pull/83119))
