@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-08-1347 ([575b65e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1347))
+
+* Check profession for conflicting hobby traits ([#83222](https://github.com/CleverRaven/Cataclysm-DDA/pull/83222))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-08-1241 ([812352a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1241))
+
 * Spell use actions respect SINGLE_USE ([#83218](https://github.com/CleverRaven/Cataclysm-DDA/pull/83218))
 
 ---
@@ -171,17 +182,7 @@
 
 * Clean up default_map_data loading ([#83119](https://github.com/CleverRaven/Cataclysm-DDA/pull/83119))
 * Add mounted flashlight to gunmod group ([#83121](https://github.com/CleverRaven/Cataclysm-DDA/pull/83121))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-02-0431 ([4766a61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-0431))
-
 * Fix new region settings/overlay finalize order ([#83146](https://github.com/CleverRaven/Cataclysm-DDA/pull/83146))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-02-0329 ([7b1154f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-0329))
-
 * [Magiclysm] Fix druid tower roof ([#83132](https://github.com/CleverRaven/Cataclysm-DDA/pull/83132))
 * Farrier fluff ([#83133](https://github.com/CleverRaven/Cataclysm-DDA/pull/83133))
 * Remove Riot Damage from collapsed tower ([#83135](https://github.com/CleverRaven/Cataclysm-DDA/pull/83135))
@@ -198,7 +199,6 @@
 * Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
 * Remove Roboto as a default font ([#83111](https://github.com/CleverRaven/Cataclysm-DDA/pull/83111))
 * Put monster difficulty and difficulty_base behind a getter ([#83108](https://github.com/CleverRaven/Cataclysm-DDA/pull/83108))
-* Implement guns being able to have flashlights, add one ([#83061](https://github.com/CleverRaven/Cataclysm-DDA/pull/83061))
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))

@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2025-10-08-1347 (575b65e)
+* Check profession for conflicting hobby traits (#83222)
+
+Cataclysm-DDA experimental build 2025-10-08-1241 (812352a)
 * Spell use actions respect SINGLE_USE (#83218)
 
 Cataclysm-DDA experimental build 2025-10-08-1124 (88d9ca4)
@@ -93,11 +98,7 @@ Cataclysm-DDA experimental build 2025-10-02-1422 (760eda8)
 Cataclysm-DDA experimental build 2025-10-02-0527 (5bfe74c)
 * Clean up default_map_data loading (#83119)
 * Add mounted flashlight to gunmod group (#83121)
-
-Cataclysm-DDA experimental build 2025-10-02-0431 (4766a61)
 * Fix new region settings/overlay finalize order (#83146)
-
-Cataclysm-DDA experimental build 2025-10-02-0329 (7b1154f)
 * [Magiclysm] Fix druid tower roof (#83132)
 * Farrier fluff (#83133)
 * Remove Riot Damage from collapsed tower (#83135)
@@ -114,7 +115,6 @@ Cataclysm-DDA experimental build 2025-10-02-0329 (7b1154f)
 * Add zzip tool to gitignore (#83120)
 * Remove Roboto as a default font (#83111)
 * Put monster difficulty and difficulty_base behind a getter (#83108)
-* Implement guns being able to have flashlights, add one (#83061)
 * Another typo hunt (#83107)
 * Hide overmap display's "land use code" behind debug mode (#83109)
 * Avoid dereferencing wrong horde_entity (#83106)
