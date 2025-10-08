@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-08-1607 (57beb6a)
+* Current implementation of radiation mutation allows code to be translated (#83224)
+
 Cataclysm-DDA experimental build 2025-10-08-1347 (575b65e)
 * Check profession for conflicting hobby traits (#83222)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-10-02-1525 (e1513f6)
 Cataclysm-DDA experimental build 2025-10-02-1422 (760eda8)
 * Make Scavenger's Anvil Tool Quality Less Confusing (#83149)
 * Add zzip tool to gitignore (#83125)
-
-Cataclysm-DDA experimental build 2025-10-02-0527 (5bfe74c)
 * Clean up default_map_data loading (#83119)
 * Add mounted flashlight to gunmod group (#83121)
 * Fix new region settings/overlay finalize order (#83146)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2025-10-02-0527 (5bfe74c)
 * Don't trash the light cache for the PCs Z level (#83071)
 * Sky Island missing exit bugfix (#83074)
 * Professions start with Standard Neurobionic Interface if they have bionics (#83075)
-* [Magiclysm] Simplify Cause Rot ter_transform (#83062)
