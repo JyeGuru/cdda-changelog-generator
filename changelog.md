@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-08-0644 ([f9332e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-0644))
+
 * Helper struct for overmapbuffer state data ([#83211](https://github.com/CleverRaven/Cataclysm-DDA/pull/83211))
 
 ---
@@ -172,11 +177,6 @@
 
 * [Magiclysm] Fix druid tower roof ([#83132](https://github.com/CleverRaven/Cataclysm-DDA/pull/83132))
 * Farrier fluff ([#83133](https://github.com/CleverRaven/Cataclysm-DDA/pull/83133))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-10-02-0217 ([244811f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-02-0217))
-
 * Remove Riot Damage from collapsed tower ([#83135](https://github.com/CleverRaven/Cataclysm-DDA/pull/83135))
 * Allows to install glass and curtains on a broken window with bars. ([#83141](https://github.com/CleverRaven/Cataclysm-DDA/pull/83141))
 * Add sunscreen ([#83139](https://github.com/CleverRaven/Cataclysm-DDA/pull/83139))
