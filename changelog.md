@@ -1,3 +1,10 @@
+* Helper struct for overmapbuffer state data ([#83211](https://github.com/CleverRaven/Cataclysm-DDA/pull/83211))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-08-0532 ([0e295d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-0532))
+
+* Add region_overlay "apply_to_tags" field to docs ([#83209](https://github.com/CleverRaven/Cataclysm-DDA/pull/83209))
 
 ---
 
@@ -84,7 +91,6 @@
 #### Cataclysm-DDA experimental build 2025-10-04-1820 ([4a1acc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1820))
 
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. ([#83175](https://github.com/CleverRaven/Cataclysm-DDA/pull/83175))
-* fix how selection changes are handled in a uilist with disabled entries ([#83057](https://github.com/CleverRaven/Cataclysm-DDA/pull/83057))
 * Remove identical region_settings components ([#83153](https://github.com/CleverRaven/Cataclysm-DDA/pull/83153))
 * Add another bucket for horde_map and filter ineligible monsters out o… ([#83157](https://github.com/CleverRaven/Cataclysm-DDA/pull/83157))
 * You can trade stuff directly from your car ([#83154](https://github.com/CleverRaven/Cataclysm-DDA/pull/83154))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-10-02-0204 ([5c6682c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-0204))
 
 * Routine tileset updates on 01 October 2025 ([#83127](https://github.com/CleverRaven/Cataclysm-DDA/pull/83127))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-01-1720 ([3a08845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-01-1720))
-
 * Split zone manager UI from `game` into separate class ([#83069](https://github.com/CleverRaven/Cataclysm-DDA/pull/83069))
 * Replace hardcoded check for Oversensitive System with flag check ([#83130](https://github.com/CleverRaven/Cataclysm-DDA/pull/83130))
 * Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
@@ -219,4 +220,3 @@
 * Professions start with Standard Neurobionic Interface if they have bionics ([#83075](https://github.com/CleverRaven/Cataclysm-DDA/pull/83075))
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
 * Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
-* [ Xedra Evolved ] Make the gracken shadowstuff pocket unloadable ([#83055](https://github.com/CleverRaven/Cataclysm-DDA/pull/83055))
