@@ -1,3 +1,10 @@
+* Spell use actions respect SINGLE_USE ([#83218](https://github.com/CleverRaven/Cataclysm-DDA/pull/83218))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-08-1124 ([88d9ca4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1124))
+
+* Relic active effects can require being wielded/worn/held ([#83219](https://github.com/CleverRaven/Cataclysm-DDA/pull/83219))
 
 ---
 
@@ -180,11 +187,6 @@
 * Remove Riot Damage from collapsed tower ([#83135](https://github.com/CleverRaven/Cataclysm-DDA/pull/83135))
 * Allows to install glass and curtains on a broken window with bars. ([#83141](https://github.com/CleverRaven/Cataclysm-DDA/pull/83141))
 * Add sunscreen ([#83139](https://github.com/CleverRaven/Cataclysm-DDA/pull/83139))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-02-0204 ([5c6682c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-0204))
-
 * Routine tileset updates on 01 October 2025 ([#83127](https://github.com/CleverRaven/Cataclysm-DDA/pull/83127))
 * Split zone manager UI from `game` into separate class ([#83069](https://github.com/CleverRaven/Cataclysm-DDA/pull/83069))
 * Replace hardcoded check for Oversensitive System with flag check ([#83130](https://github.com/CleverRaven/Cataclysm-DDA/pull/83130))
@@ -219,4 +221,3 @@
 * Sky Island missing exit bugfix ([#83074](https://github.com/CleverRaven/Cataclysm-DDA/pull/83074))
 * Professions start with Standard Neurobionic Interface if they have bionics ([#83075](https://github.com/CleverRaven/Cataclysm-DDA/pull/83075))
 * [Magiclysm] Simplify Cause Rot ter_transform ([#83062](https://github.com/CleverRaven/Cataclysm-DDA/pull/83062))
-* Fix zzip build in mac&windows releases, add to make default target ([#83059](https://github.com/CleverRaven/Cataclysm-DDA/pull/83059))
