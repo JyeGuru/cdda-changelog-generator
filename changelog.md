@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-09-2130 ([0441b68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-2130))
+
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye ([#83236](https://github.com/CleverRaven/Cataclysm-DDA/pull/83236))
 
 ---
@@ -177,11 +182,6 @@
 * [XE] Torpor works without a do_turn_eoc now. ([#83174](https://github.com/CleverRaven/Cataclysm-DDA/pull/83174))
 * [MoM] Matrix crystals that cause awakening are *also* artifacts ([#83167](https://github.com/CleverRaven/Cataclysm-DDA/pull/83167))
 * [Sky Island] Fix Evict hostiles interacting with normally-unkillable monsters exp  ([#83168](https://github.com/CleverRaven/Cataclysm-DDA/pull/83168))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-04-1354 ([58985f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1354))
-
 * [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
 * [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
