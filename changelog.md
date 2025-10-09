@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-09-1628 ([7e3f58a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-1628))
+
+* [MoM] Matrix crystal active abilities require wielding ([#83232](https://github.com/CleverRaven/Cataclysm-DDA/pull/83232))
 * Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp ([#83212](https://github.com/CleverRaven/Cataclysm-DDA/pull/83212))
 
 ---
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-10-04-1354 ([58985f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1354))
 
 * [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-04-0630 ([b88a06c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-0630))
-
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
 * [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
@@ -214,7 +215,6 @@
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
 * Give hordes a little bit of obstacle avoidance ability ([#83085](https://github.com/CleverRaven/Cataclysm-DDA/pull/83085))
-* Fix old cap that was limiting signalling range for hordes. ([#83083](https://github.com/CleverRaven/Cataclysm-DDA/pull/83083))
 * Fix zombie overspawning ([#83091](https://github.com/CleverRaven/Cataclysm-DDA/pull/83091))
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
