@@ -176,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-10-04-0630 ([b88a06c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-0630))
 
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-04-0454 ([0c57316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-0454))
-
 * [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
 * Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
