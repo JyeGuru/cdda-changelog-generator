@@ -1,3 +1,4 @@
+* `bye_message_override` field with value of "<null>" make npcs not say goodbye (#83236)
 
 Cataclysm-DDA experimental build 2025-10-09-2006 (5709c3a)
 * Don't filter ineligible artifacts from game uis (#83238)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2025-10-04-1354 (58985f4)
 * [Innawood] Duct tape recipe makes 40 charges (#83096)
 * In rain, do not get wet if under the roof (#83099)
 * Backport save compression fixes. (#83103)
-* Give hordes a little bit of obstacle avoidance ability (#83085)
 * Fix zombie overspawning (#83091)
 * Car owner manual (#83095)
 * tallow fix (#83094)

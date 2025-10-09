@@ -1,3 +1,4 @@
+* `bye_message_override` field with value of "<null>" make npcs not say goodbye ([#83236](https://github.com/CleverRaven/Cataclysm-DDA/pull/83236))
 
 ---
 
@@ -220,7 +221,6 @@
 * [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
-* Give hordes a little bit of obstacle avoidance ability ([#83085](https://github.com/CleverRaven/Cataclysm-DDA/pull/83085))
 * Fix zombie overspawning ([#83091](https://github.com/CleverRaven/Cataclysm-DDA/pull/83091))
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
