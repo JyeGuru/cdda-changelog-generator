@@ -1,3 +1,7 @@
+* Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp (#83212)
+
+Cataclysm-DDA experimental build 2025-10-09-1129 (f584c29)
+* Fix growth stage progression (#83181)
 
 Cataclysm-DDA experimental build 2025-10-09-0624 (aba42e7)
 * [Magiclysm] Add a few more spells (#83088)
@@ -94,8 +98,6 @@ Cataclysm-DDA experimental build 2025-10-04-0630 (b88a06c)
 
 Cataclysm-DDA experimental build 2025-10-04-0454 (0c57316)
 * [Magiclysm] Mystic Glade counts as forest biome (#83165)
-
-Cataclysm-DDA experimental build 2025-10-03-0611 (c5cc73e)
 * Remove old region_settings c++ (#83148)
 * Consume_drug use actions can define intensity for their effect (#83137)
 * Allow dimensions to have their own defined region settings (#83138)
@@ -138,4 +140,3 @@ Cataclysm-DDA experimental build 2025-10-03-0611 (c5cc73e)
 * Car owner manual (#83095)
 * tallow fix (#83094)
 * Update tilesets to display smaller hordes (#83084)
-* dimension npc travel filter expansion and other tweaks (#83077)

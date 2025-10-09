@@ -1,3 +1,10 @@
+* Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp ([#83212](https://github.com/CleverRaven/Cataclysm-DDA/pull/83212))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-09-1129 ([f584c29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-1129))
+
+* Fix growth stage progression ([#83181](https://github.com/CleverRaven/Cataclysm-DDA/pull/83181))
 
 ---
 
@@ -175,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-10-04-0454 ([0c57316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-0454))
 
 * [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-03-0611 ([c5cc73e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-03-0611))
-
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
 * Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
@@ -222,4 +224,3 @@
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))
-* dimension npc travel filter expansion and other tweaks ([#83077](https://github.com/CleverRaven/Cataclysm-DDA/pull/83077))
