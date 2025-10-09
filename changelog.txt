@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-09-2006 (5709c3a)
+* Don't filter ineligible artifacts from game uis (#83238)
+
 Cataclysm-DDA experimental build 2025-10-09-1628 (7e3f58a)
 * [MoM] Matrix crystal active abilities require wielding (#83232)
 * Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp (#83212)
@@ -137,4 +140,3 @@ Cataclysm-DDA experimental build 2025-10-04-1354 (58985f4)
 * Fix zombie overspawning (#83091)
 * Car owner manual (#83095)
 * tallow fix (#83094)
-* Update tilesets to display smaller hordes (#83084)
