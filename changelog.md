@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-09-0624 ([aba42e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-0624))
+
 * [Magiclysm] Add a few more spells ([#83088](https://github.com/CleverRaven/Cataclysm-DDA/pull/83088))
 * Move overmap generation external options to region settings ([#83207](https://github.com/CleverRaven/Cataclysm-DDA/pull/83207))
 * [XE] Include new downsides in tier 4 description. ([#83217](https://github.com/CleverRaven/Cataclysm-DDA/pull/83217))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-10-03-0611 ([c5cc73e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-03-0611))
 
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-03-0223 ([19cb1ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-03-0223))
-
 * Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
 * Better feedback on planting failures + plants need sunlight ([#83112](https://github.com/CleverRaven/Cataclysm-DDA/pull/83112))
@@ -223,4 +223,3 @@
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))
 * dimension npc travel filter expansion and other tweaks ([#83077](https://github.com/CleverRaven/Cataclysm-DDA/pull/83077))
-* Professions start with Standard Neurobionic Interface if they have bionics ([#83075](https://github.com/CleverRaven/Cataclysm-DDA/pull/83075))
