@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-09-0130 ([eba13c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-0130))
+
+* create `DIMENSIONS.md` doc file ([#83196](https://github.com/CleverRaven/Cataclysm-DDA/pull/83196))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-08-2348 ([1989c5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-2348))
 
 * [DDotD] No FEMA in Canada ([#83205](https://github.com/CleverRaven/Cataclysm-DDA/pull/83205))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-10-02-1836 ([5eaa701](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-1836))
 
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-02-1525 ([e1513f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-1525))
-
 * Better feedback on planting failures + plants need sunlight ([#83112](https://github.com/CleverRaven/Cataclysm-DDA/pull/83112))
 * silence data loss warnings ([#83114](https://github.com/CleverRaven/Cataclysm-DDA/pull/83114))
 * Correct requirements for Temperature Adaptability ([#83128](https://github.com/CleverRaven/Cataclysm-DDA/pull/83128))
