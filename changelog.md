@@ -1,3 +1,13 @@
+* [Magiclysm] Add a few more spells ([#83088](https://github.com/CleverRaven/Cataclysm-DDA/pull/83088))
+* Move overmap generation external options to region settings ([#83207](https://github.com/CleverRaven/Cataclysm-DDA/pull/83207))
+* [XE] Include new downsides in tier 4 description. ([#83217](https://github.com/CleverRaven/Cataclysm-DDA/pull/83217))
+* Fix random failure in dormant horde test ([#83229](https://github.com/CleverRaven/Cataclysm-DDA/pull/83229))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-09-0504 ([8264802](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-0504))
+
+* Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
 
 ---
 
@@ -172,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-10-03-0223 ([19cb1ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-03-0223))
 
 * Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-02-1836 ([5eaa701](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-02-1836))
-
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
 * Better feedback on planting failures + plants need sunlight ([#83112](https://github.com/CleverRaven/Cataclysm-DDA/pull/83112))
 * silence data loss warnings ([#83114](https://github.com/CleverRaven/Cataclysm-DDA/pull/83114))
@@ -192,7 +197,6 @@
 * Allows to install glass and curtains on a broken window with bars. ([#83141](https://github.com/CleverRaven/Cataclysm-DDA/pull/83141))
 * Add sunscreen ([#83139](https://github.com/CleverRaven/Cataclysm-DDA/pull/83139))
 * Routine tileset updates on 01 October 2025 ([#83127](https://github.com/CleverRaven/Cataclysm-DDA/pull/83127))
-* Split zone manager UI from `game` into separate class ([#83069](https://github.com/CleverRaven/Cataclysm-DDA/pull/83069))
 * Replace hardcoded check for Oversensitive System with flag check ([#83130](https://github.com/CleverRaven/Cataclysm-DDA/pull/83130))
 * Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
 * Remove old region_settings, region_overlay JSON ([#83126](https://github.com/CleverRaven/Cataclysm-DDA/pull/83126))
@@ -215,11 +219,8 @@
 * Give hordes a little bit of obstacle avoidance ability ([#83085](https://github.com/CleverRaven/Cataclysm-DDA/pull/83085))
 * Fix old cap that was limiting signalling range for hordes. ([#83083](https://github.com/CleverRaven/Cataclysm-DDA/pull/83083))
 * Fix zombie overspawning ([#83091](https://github.com/CleverRaven/Cataclysm-DDA/pull/83091))
-* Oversensitive System mutation bugfix ([#83073](https://github.com/CleverRaven/Cataclysm-DDA/pull/83073))
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))
 * Update tilesets to display smaller hordes ([#83084](https://github.com/CleverRaven/Cataclysm-DDA/pull/83084))
 * dimension npc travel filter expansion and other tweaks ([#83077](https://github.com/CleverRaven/Cataclysm-DDA/pull/83077))
-* Don't trash the light cache for the PCs Z level ([#83071](https://github.com/CleverRaven/Cataclysm-DDA/pull/83071))
-* Sky Island missing exit bugfix ([#83074](https://github.com/CleverRaven/Cataclysm-DDA/pull/83074))
 * Professions start with Standard Neurobionic Interface if they have bionics ([#83075](https://github.com/CleverRaven/Cataclysm-DDA/pull/83075))
