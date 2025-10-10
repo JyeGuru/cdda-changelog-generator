@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-10-0421 ([56fc650](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-0421))
+
+* [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-10-10-0307 ([2798bf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-10-0307))
 
 * fix the styling of ImTui widgets (#82135) ([#83235](https://github.com/CleverRaven/Cataclysm-DDA/pull/83235))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-10-04-2120 ([4688691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-2120))
 
 * [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-04-1820 ([4a1acc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-1820))
-
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. ([#83175](https://github.com/CleverRaven/Cataclysm-DDA/pull/83175))
 * Remove identical region_settings components ([#83153](https://github.com/CleverRaven/Cataclysm-DDA/pull/83153))
 * Add another bucket for horde_map and filter ineligible monsters out o… ([#83157](https://github.com/CleverRaven/Cataclysm-DDA/pull/83157))
@@ -214,7 +215,6 @@
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
-* Tiny cleanup to horde motion ([#83089](https://github.com/CleverRaven/Cataclysm-DDA/pull/83089))
 * Remove Roboto as a default font ([#83092](https://github.com/CleverRaven/Cataclysm-DDA/pull/83092))
 * [MoM] Add biokinetic-attuned artifacts ([#83098](https://github.com/CleverRaven/Cataclysm-DDA/pull/83098))
 * Molotovs do not create walls of fire ([#83090](https://github.com/CleverRaven/Cataclysm-DDA/pull/83090))
