@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-10-1706 ([d37ba95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1706))
+
+* Activate menu fix for non-relic items ([#83245](https://github.com/CleverRaven/Cataclysm-DDA/pull/83245))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-10-1340 ([badec4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1340))
 
 * [Magiclysm] Adding level description to spellcraft skill and moving it to a new file ([#83216](https://github.com/CleverRaven/Cataclysm-DDA/pull/83216))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-10-05-1525 ([ee26150](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-1525))
 
 * Remove zombie code from zzip from last refactor ([#83182](https://github.com/CleverRaven/Cataclysm-DDA/pull/83182))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-05-1133 ([87b1f32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-1133))
-
 * Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
 * [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. ([#83175](https://github.com/CleverRaven/Cataclysm-DDA/pull/83175))
@@ -221,6 +222,5 @@
 * [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
-* Fix zombie overspawning ([#83091](https://github.com/CleverRaven/Cataclysm-DDA/pull/83091))
 * Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
 * tallow fix ([#83094](https://github.com/CleverRaven/Cataclysm-DDA/pull/83094))

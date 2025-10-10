@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-10-1706 (d37ba95)
+* Activate menu fix for non-relic items (#83245)
+
 Cataclysm-DDA experimental build 2025-10-10-1340 (badec4e)
 * [Magiclysm] Adding level description to spellcraft skill and moving it to a new file (#83216)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2025-10-05-2240 (e48bdf2)
 
 Cataclysm-DDA experimental build 2025-10-05-1525 (ee26150)
 * Remove zombie code from zzip from last refactor (#83182)
-
-Cataclysm-DDA experimental build 2025-10-05-1133 (87b1f32)
 * Split armor-related functions from item.cpp into item_armor.cpp (#83191)
 * [Magiclysm] Blood mages cannot bleed. (#83186)
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. (#83175)
@@ -137,6 +138,5 @@ Cataclysm-DDA experimental build 2025-10-05-1133 (87b1f32)
 * [Innawood] Duct tape recipe makes 40 charges (#83096)
 * In rain, do not get wet if under the roof (#83099)
 * Backport save compression fixes. (#83103)
-* Fix zombie overspawning (#83091)
 * Car owner manual (#83095)
 * tallow fix (#83094)
