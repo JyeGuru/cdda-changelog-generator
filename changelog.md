@@ -1,3 +1,4 @@
+* Use int_id for horde_entity ([#83220](https://github.com/CleverRaven/Cataclysm-DDA/pull/83220))
 
 ---
 
@@ -217,7 +218,6 @@
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
-* Remove Roboto as a default font ([#83092](https://github.com/CleverRaven/Cataclysm-DDA/pull/83092))
 * [MoM] Add biokinetic-attuned artifacts ([#83098](https://github.com/CleverRaven/Cataclysm-DDA/pull/83098))
 * [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))

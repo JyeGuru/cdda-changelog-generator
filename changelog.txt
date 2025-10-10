@@ -1,3 +1,4 @@
+* Use int_id for horde_entity (#83220)
 
 Cataclysm-DDA experimental build 2025-10-10-1706 (d37ba95)
 * Activate menu fix for non-relic items (#83245)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2025-10-05-1525 (ee26150)
 * Another typo hunt (#83107)
 * Hide overmap display's "land use code" behind debug mode (#83109)
 * Avoid dereferencing wrong horde_entity (#83106)
-* Remove Roboto as a default font (#83092)
 * [MoM] Add biokinetic-attuned artifacts (#83098)
 * [Innawood] Duct tape recipe makes 40 charges (#83096)
 * In rain, do not get wet if under the roof (#83099)
