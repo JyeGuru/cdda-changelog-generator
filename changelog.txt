@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-10-1340 (badec4e)
+* [Magiclysm] Adding level description to spellcraft skill and moving it to a new file (#83216)
+
 Cataclysm-DDA experimental build 2025-10-10-0421 (56fc650)
 * [MoM] Electrokinetic crystal artifacts (#83243)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2025-10-05-1525 (ee26150)
 
 Cataclysm-DDA experimental build 2025-10-05-1133 (87b1f32)
 * Split armor-related functions from item.cpp into item_armor.cpp (#83191)
-
-Cataclysm-DDA experimental build 2025-10-04-2120 (4688691)
 * [Magiclysm] Blood mages cannot bleed. (#83186)
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. (#83175)
 * Remove identical region_settings components (#83153)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2025-10-04-2120 (4688691)
 * Avoid dereferencing wrong horde_entity (#83106)
 * Remove Roboto as a default font (#83092)
 * [MoM] Add biokinetic-attuned artifacts (#83098)
-* Molotovs do not create walls of fire (#83090)
 * [Innawood] Duct tape recipe makes 40 charges (#83096)
 * In rain, do not get wet if under the roof (#83099)
 * Backport save compression fixes. (#83103)

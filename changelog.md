@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-10-1340 ([badec4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1340))
+
+* [Magiclysm] Adding level description to spellcraft skill and moving it to a new file ([#83216](https://github.com/CleverRaven/Cataclysm-DDA/pull/83216))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-10-0421 ([56fc650](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-0421))
 
 * [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-10-05-1133 ([87b1f32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-1133))
 
 * Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-04-2120 ([4688691](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-04-2120))
-
 * [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. ([#83175](https://github.com/CleverRaven/Cataclysm-DDA/pull/83175))
 * Remove identical region_settings components ([#83153](https://github.com/CleverRaven/Cataclysm-DDA/pull/83153))
@@ -217,7 +218,6 @@
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
 * Remove Roboto as a default font ([#83092](https://github.com/CleverRaven/Cataclysm-DDA/pull/83092))
 * [MoM] Add biokinetic-attuned artifacts ([#83098](https://github.com/CleverRaven/Cataclysm-DDA/pull/83098))
-* Molotovs do not create walls of fire ([#83090](https://github.com/CleverRaven/Cataclysm-DDA/pull/83090))
 * [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
