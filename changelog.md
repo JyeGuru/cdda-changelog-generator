@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-10-10-0307 ([2798bf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-10-0307))
+
+* fix the styling of ImTui widgets (#82135) ([#83235](https://github.com/CleverRaven/Cataclysm-DDA/pull/83235))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-09-2130 ([0441b68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-2130))
 
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye ([#83236](https://github.com/CleverRaven/Cataclysm-DDA/pull/83236))
@@ -23,12 +29,6 @@
 #### Cataclysm-DDA experimental build 2025-10-09-1129 ([f584c29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-1129))
 
 * Fix growth stage progression ([#83181](https://github.com/CleverRaven/Cataclysm-DDA/pull/83181))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-09-0624 ([aba42e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-0624))
-
-* [Magiclysm] Add a few more spells ([#83088](https://github.com/CleverRaven/Cataclysm-DDA/pull/83088))
 * Move overmap generation external options to region settings ([#83207](https://github.com/CleverRaven/Cataclysm-DDA/pull/83207))
 * [XE] Include new downsides in tier 4 description. ([#83217](https://github.com/CleverRaven/Cataclysm-DDA/pull/83217))
 * Fix random failure in dormant horde test ([#83229](https://github.com/CleverRaven/Cataclysm-DDA/pull/83229))
