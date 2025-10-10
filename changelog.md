@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-10-1821 ([8503f1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1821))
+
 * Use int_id for horde_entity ([#83220](https://github.com/CleverRaven/Cataclysm-DDA/pull/83220))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-10-05-2240 ([e48bdf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-2240))
 
 * Update magiclysm list of authors and maintainers ([#83187](https://github.com/CleverRaven/Cataclysm-DDA/pull/83187))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-05-1525 ([ee26150](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-05-1525))
-
 * Remove zombie code from zzip from last refactor ([#83182](https://github.com/CleverRaven/Cataclysm-DDA/pull/83182))
 * Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
 * [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
