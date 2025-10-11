@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-11-1552 ([ec78970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-1552))
+
+* Fix balthazar eoc checks ([#83253](https://github.com/CleverRaven/Cataclysm-DDA/pull/83253))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-11-1411 ([9ebc57e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-1411))
 
 * Add a FMS entry for stat training ([#83258](https://github.com/CleverRaven/Cataclysm-DDA/pull/83258))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-10-06-1150 ([6caac0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-1150))
 
 * Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-06-0600 ([96c3957](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-0600))
-
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
 * Fix translation ([#83193](https://github.com/CleverRaven/Cataclysm-DDA/pull/83193))
 * typo in long sling item ([#83152](https://github.com/CleverRaven/Cataclysm-DDA/pull/83152))

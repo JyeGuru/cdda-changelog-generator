@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-11-1552 (ec78970)
+* Fix balthazar eoc checks (#83253)
+
 Cataclysm-DDA experimental build 2025-10-11-1411 (9ebc57e)
 * Add a FMS entry for stat training (#83258)
 
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2025-10-06-1700 (3e51e78)
 
 Cataclysm-DDA experimental build 2025-10-06-1150 (6caac0d)
 * Split pocket/contents-related functions from item.cpp to item_container.cpp (#83199)
-
-Cataclysm-DDA experimental build 2025-10-06-0600 (96c3957)
 * Weekly Changelog 2025-09-29 to 2025-10-06 (#83200)
 * Fix translation (#83193)
 * typo in long sling item (#83152)
