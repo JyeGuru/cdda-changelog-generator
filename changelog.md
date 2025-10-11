@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-11-1411 ([9ebc57e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-1411))
+
+* Add a FMS entry for stat training ([#83258](https://github.com/CleverRaven/Cataclysm-DDA/pull/83258))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-11-0429 ([3dbab0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-0429))
 
 * Recontextualize atomic powered tools  ([#83244](https://github.com/CleverRaven/Cataclysm-DDA/pull/83244))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-10-06-0600 ([96c3957](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-0600))
 
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-06-0425 ([0981863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-0425))
-
 * Fix translation ([#83193](https://github.com/CleverRaven/Cataclysm-DDA/pull/83193))
 * typo in long sling item ([#83152](https://github.com/CleverRaven/Cataclysm-DDA/pull/83152))
 * Remove zombie code from zzip from last refactor ([#83197](https://github.com/CleverRaven/Cataclysm-DDA/pull/83197))
@@ -221,5 +222,4 @@
 * Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
-* In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-11-1411 (9ebc57e)
+* Add a FMS entry for stat training (#83258)
+
 Cataclysm-DDA experimental build 2025-10-11-0429 (3dbab0f)
 * Recontextualize atomic powered tools  (#83244)
 
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2025-10-06-1150 (6caac0d)
 
 Cataclysm-DDA experimental build 2025-10-06-0600 (96c3957)
 * Weekly Changelog 2025-09-29 to 2025-10-06 (#83200)
-
-Cataclysm-DDA experimental build 2025-10-06-0425 (0981863)
 * Fix translation (#83193)
 * typo in long sling item (#83152)
 * Remove zombie code from zzip from last refactor (#83197)
@@ -137,5 +138,4 @@ Cataclysm-DDA experimental build 2025-10-06-0425 (0981863)
 * Another typo hunt (#83107)
 * Hide overmap display's "land use code" behind debug mode (#83109)
 * Avoid dereferencing wrong horde_entity (#83106)
-* In rain, do not get wet if under the roof (#83099)
 * Backport save compression fixes. (#83103)
