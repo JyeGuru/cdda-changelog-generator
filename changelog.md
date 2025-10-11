@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-11-2153 ([5b1fc6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2153))
+
 * Non-leather spear strap ([#83250](https://github.com/CleverRaven/Cataclysm-DDA/pull/83250))
 
 ---
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-10-07-0230 ([cc3d023](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-07-0230))
 
 * Don't smoke whole lettuce heads ([#83203](https://github.com/CleverRaven/Cataclysm-DDA/pull/83203))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-06-1700 ([3e51e78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-1700))
-
 * Rename region settings C++/JSON, add new region settings docs ([#83188](https://github.com/CleverRaven/Cataclysm-DDA/pull/83188))
 * Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
