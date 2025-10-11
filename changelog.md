@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-11-0429 ([3dbab0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-0429))
+
+* Recontextualize atomic powered tools  ([#83244](https://github.com/CleverRaven/Cataclysm-DDA/pull/83244))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-11-0005 ([9361318](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-0005))
 
 * New Mod: Sorcerer - A different way to play Magiclysm for those who think books are for nerds ([#83213](https://github.com/CleverRaven/Cataclysm-DDA/pull/83213))
@@ -167,11 +173,6 @@
 * typo in long sling item ([#83152](https://github.com/CleverRaven/Cataclysm-DDA/pull/83152))
 * Remove zombie code from zzip from last refactor ([#83197](https://github.com/CleverRaven/Cataclysm-DDA/pull/83197))
 * Patch EOC duration overflow ([#83185](https://github.com/CleverRaven/Cataclysm-DDA/pull/83185))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-06-0248 ([eaa56f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-06-0248))
-
 * Filter out vertical movements for hordes ([#83189](https://github.com/CleverRaven/Cataclysm-DDA/pull/83189))
 * Update magiclysm list of authors and maintainers ([#83187](https://github.com/CleverRaven/Cataclysm-DDA/pull/83187))
 * Remove zombie code from zzip from last refactor ([#83182](https://github.com/CleverRaven/Cataclysm-DDA/pull/83182))
@@ -221,6 +222,5 @@
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
 * Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
 * [MoM] Add biokinetic-attuned artifacts ([#83098](https://github.com/CleverRaven/Cataclysm-DDA/pull/83098))
-* [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
