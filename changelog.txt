@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-11-0005 (9361318)
+* New Mod: Sorcerer - A different way to play Magiclysm for those who think books are for nerds (#83213)
+
 Cataclysm-DDA experimental build 2025-10-10-1938 (e4fa6cb)
 * Update MUTATIONS.md (#83233)
 
@@ -81,8 +84,6 @@ Cataclysm-DDA experimental build 2025-10-06-0600 (96c3957)
 Cataclysm-DDA experimental build 2025-10-06-0425 (0981863)
 * Fix translation (#83193)
 * typo in long sling item (#83152)
-
-Cataclysm-DDA 0.I release candidate 2025-10-06-0345 (bc3d017)
 * Remove zombie code from zzip from last refactor (#83197)
 * Patch EOC duration overflow (#83185)
 
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2025-10-06-0248 (eaa56f3)
 * [Innawood] Duct tape recipe makes 40 charges (#83096)
 * In rain, do not get wet if under the roof (#83099)
 * Backport save compression fixes. (#83103)
-* Car owner manual (#83095)

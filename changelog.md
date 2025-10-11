@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-11-0005 ([9361318](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-0005))
+
+* New Mod: Sorcerer - A different way to play Magiclysm for those who think books are for nerds ([#83213](https://github.com/CleverRaven/Cataclysm-DDA/pull/83213))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-10-1938 ([e4fa6cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1938))
 
 * Update MUTATIONS.md ([#83233](https://github.com/CleverRaven/Cataclysm-DDA/pull/83233))
@@ -159,11 +165,6 @@
 
 * Fix translation ([#83193](https://github.com/CleverRaven/Cataclysm-DDA/pull/83193))
 * typo in long sling item ([#83152](https://github.com/CleverRaven/Cataclysm-DDA/pull/83152))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-10-06-0345 ([bc3d017](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-06-0345))
-
 * Remove zombie code from zzip from last refactor ([#83197](https://github.com/CleverRaven/Cataclysm-DDA/pull/83197))
 * Patch EOC duration overflow ([#83185](https://github.com/CleverRaven/Cataclysm-DDA/pull/83185))
 
@@ -223,4 +224,3 @@
 * [Innawood] Duct tape recipe makes 40 charges ([#83096](https://github.com/CleverRaven/Cataclysm-DDA/pull/83096))
 * In rain, do not get wet if under the roof ([#83099](https://github.com/CleverRaven/Cataclysm-DDA/pull/83099))
 * Backport save compression fixes. ([#83103](https://github.com/CleverRaven/Cataclysm-DDA/pull/83103))
-* Car owner manual ([#83095](https://github.com/CleverRaven/Cataclysm-DDA/pull/83095))
