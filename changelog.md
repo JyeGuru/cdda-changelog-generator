@@ -1,3 +1,16 @@
+* Move more external options to region settings ([#83237](https://github.com/CleverRaven/Cataclysm-DDA/pull/83237))
+* Fix purification of oversensitive system ([#83225](https://github.com/CleverRaven/Cataclysm-DDA/pull/83225))
+* Fix compilation error on gcc 14.2.0 ([#83260](https://github.com/CleverRaven/Cataclysm-DDA/pull/83260))
+* fix dialogue trying to pick nonexistent NPC ([#83252](https://github.com/CleverRaven/Cataclysm-DDA/pull/83252))
+* Move overmap special functions from overmap.cpp to multiple files ([#83265](https://github.com/CleverRaven/Cataclysm-DDA/pull/83265))
+* Get rid of redundant SMOKABLE flag ([#83215](https://github.com/CleverRaven/Cataclysm-DDA/pull/83215))
+* Don't arbitrarily turn crops into steel bushes ([#83272](https://github.com/CleverRaven/Cataclysm-DDA/pull/83272))
+* Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-12-1808 ([deee264](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-1808))
+
 * Split game tile info from game.cpp into game_ui_tile_info.cpp ([#83248](https://github.com/CleverRaven/Cataclysm-DDA/pull/83248))
 
 ---
@@ -165,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-10-08-1241 ([812352a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1241))
 
 * Spell use actions respect SINGLE_USE ([#83218](https://github.com/CleverRaven/Cataclysm-DDA/pull/83218))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-08-1124 ([88d9ca4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1124))
-
 * Relic active effects can require being wielded/worn/held ([#83219](https://github.com/CleverRaven/Cataclysm-DDA/pull/83219))
 * Helper struct for overmapbuffer state data ([#83211](https://github.com/CleverRaven/Cataclysm-DDA/pull/83211))
 * Add region_overlay "apply_to_tags" field to docs ([#83209](https://github.com/CleverRaven/Cataclysm-DDA/pull/83209))
@@ -205,13 +213,9 @@
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
 * Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
-* Better feedback on planting failures + plants need sunlight ([#83112](https://github.com/CleverRaven/Cataclysm-DDA/pull/83112))
-* silence data loss warnings ([#83114](https://github.com/CleverRaven/Cataclysm-DDA/pull/83114))
 * Correct requirements for Temperature Adaptability ([#83128](https://github.com/CleverRaven/Cataclysm-DDA/pull/83128))
 * Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
 * Add zzip tool to gitignore ([#83125](https://github.com/CleverRaven/Cataclysm-DDA/pull/83125))
-* Clean up default_map_data loading ([#83119](https://github.com/CleverRaven/Cataclysm-DDA/pull/83119))
-* Add mounted flashlight to gunmod group ([#83121](https://github.com/CleverRaven/Cataclysm-DDA/pull/83121))
 * Fix new region settings/overlay finalize order ([#83146](https://github.com/CleverRaven/Cataclysm-DDA/pull/83146))
 * [Magiclysm] Fix druid tower roof ([#83132](https://github.com/CleverRaven/Cataclysm-DDA/pull/83132))
 * Farrier fluff ([#83133](https://github.com/CleverRaven/Cataclysm-DDA/pull/83133))
@@ -223,5 +227,3 @@
 * Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
 * Remove old region_settings, region_overlay JSON ([#83126](https://github.com/CleverRaven/Cataclysm-DDA/pull/83126))
 * Migration fix for old saves using new region settings ([#83124](https://github.com/CleverRaven/Cataclysm-DDA/pull/83124))
-* NPCs automatically select the best MA style for their weapon ([#83113](https://github.com/CleverRaven/Cataclysm-DDA/pull/83113))
-* Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
