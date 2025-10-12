@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-12-0135 ([ac2cf07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-0135))
+
+* Fix debug writing for global variables ([#83254](https://github.com/CleverRaven/Cataclysm-DDA/pull/83254))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-11-2359 ([3aa9aba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2359))
+
+* Update IN_REPO_MODS.md for mods with dependencies ([#83257](https://github.com/CleverRaven/Cataclysm-DDA/pull/83257))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-11-2153 ([5b1fc6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2153))
 
 * Non-leather spear strap ([#83250](https://github.com/CleverRaven/Cataclysm-DDA/pull/83250))
@@ -158,17 +170,7 @@
 #### Cataclysm-DDA experimental build 2025-10-07-1719 ([7733086](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-07-1719))
 
 * Audit survivor start ([#83210](https://github.com/CleverRaven/Cataclysm-DDA/pull/83210))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-07-0338 ([3549dcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-07-0338))
-
 * [MoM] Clairsentient matrix crystals are artifacts ([#83190](https://github.com/CleverRaven/Cataclysm-DDA/pull/83190))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-07-0230 ([cc3d023](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-07-0230))
-
 * Don't smoke whole lettuce heads ([#83203](https://github.com/CleverRaven/Cataclysm-DDA/pull/83203))
 * Rename region settings C++/JSON, add new region settings docs ([#83188](https://github.com/CleverRaven/Cataclysm-DDA/pull/83188))
 * Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
@@ -222,6 +224,4 @@
 * Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
 * Remove Roboto as a default font ([#83111](https://github.com/CleverRaven/Cataclysm-DDA/pull/83111))
 * Put monster difficulty and difficulty_base behind a getter ([#83108](https://github.com/CleverRaven/Cataclysm-DDA/pull/83108))
-* Another typo hunt ([#83107](https://github.com/CleverRaven/Cataclysm-DDA/pull/83107))
 * Hide overmap display's "land use code" behind debug mode ([#83109](https://github.com/CleverRaven/Cataclysm-DDA/pull/83109))
-* Avoid dereferencing wrong horde_entity ([#83106](https://github.com/CleverRaven/Cataclysm-DDA/pull/83106))
