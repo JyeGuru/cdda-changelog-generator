@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-12-0628 (10c62c5)
+* Allow floating-point <1 bandage power (#83227)
+
 Cataclysm-DDA 0.I release candidate 2025-10-12-0458 (3f33beb)
 * Fix balthazar eoc checks (#83264)
 
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2025-10-08-1124 (88d9ca4)
 
 Cataclysm-DDA experimental build 2025-10-08-0644 (f9332e0)
 * Helper struct for overmapbuffer state data (#83211)
-
-Cataclysm-DDA experimental build 2025-10-08-0532 (0e295d6)
 * Add region_overlay "apply_to_tags" field to docs (#83209)
 * Audit survivor start (#83210)
 * [MoM] Clairsentient matrix crystals are artifacts (#83190)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2025-10-08-0532 (0e295d6)
 * NPCs automatically select the best MA style for their weapon (#83113)
 * Add zzip tool to gitignore (#83120)
 * Remove Roboto as a default font (#83111)
-* Hide overmap display's "land use code" behind debug mode (#83109)
