@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-12-1925 ([b3ea779](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-1925))
+
 * Move more external options to region settings ([#83237](https://github.com/CleverRaven/Cataclysm-DDA/pull/83237))
 * Fix purification of oversensitive system ([#83225](https://github.com/CleverRaven/Cataclysm-DDA/pull/83225))
 * Fix compilation error on gcc 14.2.0 ([#83260](https://github.com/CleverRaven/Cataclysm-DDA/pull/83260))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-10-08-1347 ([575b65e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1347))
 
 * Check profession for conflicting hobby traits ([#83222](https://github.com/CleverRaven/Cataclysm-DDA/pull/83222))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-08-1241 ([812352a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1241))
-
 * Spell use actions respect SINGLE_USE ([#83218](https://github.com/CleverRaven/Cataclysm-DDA/pull/83218))
 * Relic active effects can require being wielded/worn/held ([#83219](https://github.com/CleverRaven/Cataclysm-DDA/pull/83219))
 * Helper struct for overmapbuffer state data ([#83211](https://github.com/CleverRaven/Cataclysm-DDA/pull/83211))
