@@ -1,3 +1,4 @@
+* Split game tile info from game.cpp into game_ui_tile_info.cpp (#83248)
 
 Cataclysm-DDA experimental build 2025-10-12-1651 (fd0ebf8)
 * [MoM] Delete more obsolete stuff (#83267)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2025-10-08-1124 (88d9ca4)
 * Migration fix for old saves using new region settings (#83124)
 * NPCs automatically select the best MA style for their weapon (#83113)
 * Add zzip tool to gitignore (#83120)
-* Remove Roboto as a default font (#83111)

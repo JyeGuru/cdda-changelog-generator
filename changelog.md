@@ -1,3 +1,4 @@
+* Split game tile info from game.cpp into game_ui_tile_info.cpp ([#83248](https://github.com/CleverRaven/Cataclysm-DDA/pull/83248))
 
 ---
 
@@ -224,4 +225,3 @@
 * Migration fix for old saves using new region settings ([#83124](https://github.com/CleverRaven/Cataclysm-DDA/pull/83124))
 * NPCs automatically select the best MA style for their weapon ([#83113](https://github.com/CleverRaven/Cataclysm-DDA/pull/83113))
 * Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
-* Remove Roboto as a default font ([#83111](https://github.com/CleverRaven/Cataclysm-DDA/pull/83111))
