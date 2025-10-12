@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-12-1651 ([fd0ebf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-1651))
+
+* [MoM] Delete more obsolete stuff ([#83267](https://github.com/CleverRaven/Cataclysm-DDA/pull/83267))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-12-0628 ([10c62c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-0628))
 
 * Allow floating-point <1 bandage power ([#83227](https://github.com/CleverRaven/Cataclysm-DDA/pull/83227))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-10-08-1124 ([88d9ca4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1124))
 
 * Relic active effects can require being wielded/worn/held ([#83219](https://github.com/CleverRaven/Cataclysm-DDA/pull/83219))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-08-0644 ([f9332e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-0644))
-
 * Helper struct for overmapbuffer state data ([#83211](https://github.com/CleverRaven/Cataclysm-DDA/pull/83211))
 * Add region_overlay "apply_to_tags" field to docs ([#83209](https://github.com/CleverRaven/Cataclysm-DDA/pull/83209))
 * Audit survivor start ([#83210](https://github.com/CleverRaven/Cataclysm-DDA/pull/83210))
@@ -221,7 +222,6 @@
 * Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
 * Remove old region_settings, region_overlay JSON ([#83126](https://github.com/CleverRaven/Cataclysm-DDA/pull/83126))
 * Migration fix for old saves using new region settings ([#83124](https://github.com/CleverRaven/Cataclysm-DDA/pull/83124))
-* Remove unused planted versions of "mound of dirt" ([#83110](https://github.com/CleverRaven/Cataclysm-DDA/pull/83110))
 * NPCs automatically select the best MA style for their weapon ([#83113](https://github.com/CleverRaven/Cataclysm-DDA/pull/83113))
 * Add zzip tool to gitignore ([#83120](https://github.com/CleverRaven/Cataclysm-DDA/pull/83120))
 * Remove Roboto as a default font ([#83111](https://github.com/CleverRaven/Cataclysm-DDA/pull/83111))
