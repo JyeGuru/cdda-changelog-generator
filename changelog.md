@@ -1,3 +1,11 @@
+* Being stunned while you have the LEVITATION flag means you fall ([#83291](https://github.com/CleverRaven/Cataclysm-DDA/pull/83291))
+* [Magiclysm] Mystic glade rework ([#83292](https://github.com/CleverRaven/Cataclysm-DDA/pull/83292))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-13-2356 ([c13bdf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-13-2356))
+
+* Fix debugmsg ([#83268](https://github.com/CleverRaven/Cataclysm-DDA/pull/83268))
 
 ---
 
@@ -171,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-10-09-0504 ([8264802](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-0504))
 
 * Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-09-0130 ([eba13c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-0130))
-
 * create `DIMENSIONS.md` doc file ([#83196](https://github.com/CleverRaven/Cataclysm-DDA/pull/83196))
 * [DDotD] No FEMA in Canada ([#83205](https://github.com/CleverRaven/Cataclysm-DDA/pull/83205))
 * Current implementation of radiation mutation allows code to be translated ([#83224](https://github.com/CleverRaven/Cataclysm-DDA/pull/83224))
@@ -216,7 +219,6 @@
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
 * Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
-* Correct requirements for Temperature Adaptability ([#83128](https://github.com/CleverRaven/Cataclysm-DDA/pull/83128))
 * Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
 * Fix new region settings/overlay finalize order ([#83146](https://github.com/CleverRaven/Cataclysm-DDA/pull/83146))
 * [Magiclysm] Fix druid tower roof ([#83132](https://github.com/CleverRaven/Cataclysm-DDA/pull/83132))
@@ -224,7 +226,5 @@
 * Remove Riot Damage from collapsed tower ([#83135](https://github.com/CleverRaven/Cataclysm-DDA/pull/83135))
 * Allows to install glass and curtains on a broken window with bars. ([#83141](https://github.com/CleverRaven/Cataclysm-DDA/pull/83141))
 * Add sunscreen ([#83139](https://github.com/CleverRaven/Cataclysm-DDA/pull/83139))
-* Routine tileset updates on 01 October 2025 ([#83127](https://github.com/CleverRaven/Cataclysm-DDA/pull/83127))
 * Replace hardcoded check for Oversensitive System with flag check ([#83130](https://github.com/CleverRaven/Cataclysm-DDA/pull/83130))
 * Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
-* Remove old region_settings, region_overlay JSON ([#83126](https://github.com/CleverRaven/Cataclysm-DDA/pull/83126))
