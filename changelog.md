@@ -1,3 +1,4 @@
+* Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
 
 ---
 

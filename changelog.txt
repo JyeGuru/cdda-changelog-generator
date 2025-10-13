@@ -1,3 +1,4 @@
+* Move character health functions from character.cpp to character_health.cpp (#83270)
 
 Cataclysm-DDA experimental build 2025-10-12-1925 (b3ea779)
 * Move more external options to region settings (#83237)
