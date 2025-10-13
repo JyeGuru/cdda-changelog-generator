@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-13-1624 ([5f61019](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-13-1624))
+
+* Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-13-0531 ([21139f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-13-0531))
 
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-10-08-2348 ([1989c5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-2348))
 
 * [DDotD] No FEMA in Canada ([#83205](https://github.com/CleverRaven/Cataclysm-DDA/pull/83205))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-08-1607 ([57beb6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-08-1607))
-
 * Current implementation of radiation mutation allows code to be translated ([#83224](https://github.com/CleverRaven/Cataclysm-DDA/pull/83224))
 * Check profession for conflicting hobby traits ([#83222](https://github.com/CleverRaven/Cataclysm-DDA/pull/83222))
 * Spell use actions respect SINGLE_USE ([#83218](https://github.com/CleverRaven/Cataclysm-DDA/pull/83218))
@@ -227,4 +228,3 @@
 * Replace hardcoded check for Oversensitive System with flag check ([#83130](https://github.com/CleverRaven/Cataclysm-DDA/pull/83130))
 * Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))
 * Remove old region_settings, region_overlay JSON ([#83126](https://github.com/CleverRaven/Cataclysm-DDA/pull/83126))
-* Migration fix for old saves using new region settings ([#83124](https://github.com/CleverRaven/Cataclysm-DDA/pull/83124))

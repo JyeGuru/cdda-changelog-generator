@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-13-1624 (5f61019)
+* Jabberwock buffs (#83288)
+
 Cataclysm-DDA experimental build 2025-10-13-0531 (21139f2)
 * Move character health functions from character.cpp to character_health.cpp (#83270)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2025-10-09-0130 (eba13c9)
 
 Cataclysm-DDA experimental build 2025-10-08-2348 (1989c5e)
 * [DDotD] No FEMA in Canada (#83205)
-
-Cataclysm-DDA experimental build 2025-10-08-1607 (57beb6a)
 * Current implementation of radiation mutation allows code to be translated (#83224)
 * Check profession for conflicting hobby traits (#83222)
 * Spell use actions respect SINGLE_USE (#83218)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-10-08-1607 (57beb6a)
 * Replace hardcoded check for Oversensitive System with flag check (#83130)
 * Update mod compatibility for new region settings (#83129)
 * Remove old region_settings, region_overlay JSON (#83126)
-* Migration fix for old saves using new region settings (#83124)
