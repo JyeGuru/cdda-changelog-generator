@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-13-2038 (b791d38)
+* [MoM] Add more knack contemplation recipes (#83286)
+
 Cataclysm-DDA experimental build 2025-10-13-1624 (5f61019)
 * Jabberwock buffs (#83288)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2025-10-09-0504 (8264802)
 
 Cataclysm-DDA experimental build 2025-10-09-0130 (eba13c9)
 * create `DIMENSIONS.md` doc file (#83196)
-
-Cataclysm-DDA experimental build 2025-10-08-2348 (1989c5e)
 * [DDotD] No FEMA in Canada (#83205)
 * Current implementation of radiation mutation allows code to be translated (#83224)
 * Check profession for conflicting hobby traits (#83222)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2025-10-08-2348 (1989c5e)
 * Allow dimensions to have their own defined region settings (#83138)
 * Correct requirements for Temperature Adaptability (#83128)
 * Make Scavenger's Anvil Tool Quality Less Confusing (#83149)
-* Add zzip tool to gitignore (#83125)
 * Fix new region settings/overlay finalize order (#83146)
 * [Magiclysm] Fix druid tower roof (#83132)
 * Farrier fluff (#83133)
