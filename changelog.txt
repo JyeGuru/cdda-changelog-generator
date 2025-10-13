@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-13-0531 (21139f2)
 * Move character health functions from character.cpp to character_health.cpp (#83270)
 
 Cataclysm-DDA experimental build 2025-10-12-1925 (b3ea779)
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2025-10-08-2348 (1989c5e)
 
 Cataclysm-DDA experimental build 2025-10-08-1607 (57beb6a)
 * Current implementation of radiation mutation allows code to be translated (#83224)
-
-Cataclysm-DDA experimental build 2025-10-08-1347 (575b65e)
 * Check profession for conflicting hobby traits (#83222)
 * Spell use actions respect SINGLE_USE (#83218)
 * Relic active effects can require being wielded/worn/held (#83219)
