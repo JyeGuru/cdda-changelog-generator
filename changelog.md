@@ -1,3 +1,21 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-14-0326 ([fdd2fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-14-0326))
+
+* Fix gas grenades ([#83279](https://github.com/CleverRaven/Cataclysm-DDA/pull/83279))
+* Fix description counts on ammo boxes ([#83296](https://github.com/CleverRaven/Cataclysm-DDA/pull/83296))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-14-0214 ([8a6ca92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-14-0214))
+
+* Add comment about survivor start ([#83303](https://github.com/CleverRaven/Cataclysm-DDA/pull/83303))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-14-0105 ([7c72af1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-14-0105))
+
 * Being stunned while you have the LEVITATION flag means you fall ([#83291](https://github.com/CleverRaven/Cataclysm-DDA/pull/83291))
 * [Magiclysm] Mystic glade rework ([#83292](https://github.com/CleverRaven/Cataclysm-DDA/pull/83292))
 
@@ -164,20 +182,10 @@
 
 * [MoM] Matrix crystal active abilities require wielding ([#83232](https://github.com/CleverRaven/Cataclysm-DDA/pull/83232))
 * Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp ([#83212](https://github.com/CleverRaven/Cataclysm-DDA/pull/83212))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-09-1129 ([f584c29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-1129))
-
 * Fix growth stage progression ([#83181](https://github.com/CleverRaven/Cataclysm-DDA/pull/83181))
 * Move overmap generation external options to region settings ([#83207](https://github.com/CleverRaven/Cataclysm-DDA/pull/83207))
 * [XE] Include new downsides in tier 4 description. ([#83217](https://github.com/CleverRaven/Cataclysm-DDA/pull/83217))
 * Fix random failure in dormant horde test ([#83229](https://github.com/CleverRaven/Cataclysm-DDA/pull/83229))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-09-0504 ([8264802](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-0504))
-
 * Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
 * create `DIMENSIONS.md` doc file ([#83196](https://github.com/CleverRaven/Cataclysm-DDA/pull/83196))
 * [DDotD] No FEMA in Canada ([#83205](https://github.com/CleverRaven/Cataclysm-DDA/pull/83205))
@@ -221,10 +229,7 @@
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
 * Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
 * Fix new region settings/overlay finalize order ([#83146](https://github.com/CleverRaven/Cataclysm-DDA/pull/83146))
-* [Magiclysm] Fix druid tower roof ([#83132](https://github.com/CleverRaven/Cataclysm-DDA/pull/83132))
 * Farrier fluff ([#83133](https://github.com/CleverRaven/Cataclysm-DDA/pull/83133))
 * Remove Riot Damage from collapsed tower ([#83135](https://github.com/CleverRaven/Cataclysm-DDA/pull/83135))
 * Allows to install glass and curtains on a broken window with bars. ([#83141](https://github.com/CleverRaven/Cataclysm-DDA/pull/83141))
 * Add sunscreen ([#83139](https://github.com/CleverRaven/Cataclysm-DDA/pull/83139))
-* Replace hardcoded check for Oversensitive System with flag check ([#83130](https://github.com/CleverRaven/Cataclysm-DDA/pull/83130))
-* Update mod compatibility for new region settings ([#83129](https://github.com/CleverRaven/Cataclysm-DDA/pull/83129))

@@ -1,3 +1,12 @@
+
+Cataclysm-DDA experimental build 2025-10-14-0326 (fdd2fba)
+* Fix gas grenades (#83279)
+* Fix description counts on ammo boxes (#83296)
+
+Cataclysm-DDA experimental build 2025-10-14-0214 (8a6ca92)
+* Add comment about survivor start (#83303)
+
+Cataclysm-DDA experimental build 2025-10-14-0105 (7c72af1)
 * Being stunned while you have the LEVITATION flag means you fall (#83291)
 * [Magiclysm] Mystic glade rework (#83292)
 
@@ -86,14 +95,10 @@ Cataclysm-DDA experimental build 2025-10-09-2006 (5709c3a)
 Cataclysm-DDA experimental build 2025-10-09-1628 (7e3f58a)
 * [MoM] Matrix crystal active abilities require wielding (#83232)
 * Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp (#83212)
-
-Cataclysm-DDA experimental build 2025-10-09-1129 (f584c29)
 * Fix growth stage progression (#83181)
 * Move overmap generation external options to region settings (#83207)
 * [XE] Include new downsides in tier 4 description. (#83217)
 * Fix random failure in dormant horde test (#83229)
-
-Cataclysm-DDA experimental build 2025-10-09-0504 (8264802)
 * Prevent yugg attacks from being translatable (#83230)
 * create `DIMENSIONS.md` doc file (#83196)
 * [DDotD] No FEMA in Canada (#83205)
@@ -137,10 +142,7 @@ Cataclysm-DDA experimental build 2025-10-09-0504 (8264802)
 * Allow dimensions to have their own defined region settings (#83138)
 * Make Scavenger's Anvil Tool Quality Less Confusing (#83149)
 * Fix new region settings/overlay finalize order (#83146)
-* [Magiclysm] Fix druid tower roof (#83132)
 * Farrier fluff (#83133)
 * Remove Riot Damage from collapsed tower (#83135)
 * Allows to install glass and curtains on a broken window with bars. (#83141)
 * Add sunscreen (#83139)
-* Replace hardcoded check for Oversensitive System with flag check (#83130)
-* Update mod compatibility for new region settings (#83129)
