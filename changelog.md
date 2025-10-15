@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-15-2146 ([7b53e4f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-2146))
+
 * Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
 
 ---
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-10-10-1340 ([badec4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1340))
 
 * [Magiclysm] Adding level description to spellcraft skill and moving it to a new file ([#83216](https://github.com/CleverRaven/Cataclysm-DDA/pull/83216))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-10-0421 ([56fc650](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-0421))
-
 * [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
 * fix the styling of ImTui widgets (#82135) ([#83235](https://github.com/CleverRaven/Cataclysm-DDA/pull/83235))
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye ([#83236](https://github.com/CleverRaven/Cataclysm-DDA/pull/83236))

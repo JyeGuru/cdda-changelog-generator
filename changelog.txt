@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-15-2146 (7b53e4f)
 * Few translation fixes (#83317)
 
 Cataclysm-DDA experimental build 2025-10-15-2037 (e84bc02)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-10-10-1706 (d37ba95)
 
 Cataclysm-DDA experimental build 2025-10-10-1340 (badec4e)
 * [Magiclysm] Adding level description to spellcraft skill and moving it to a new file (#83216)
-
-Cataclysm-DDA experimental build 2025-10-10-0421 (56fc650)
 * [MoM] Electrokinetic crystal artifacts (#83243)
 * fix the styling of ImTui widgets (#82135) (#83235)
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye (#83236)
