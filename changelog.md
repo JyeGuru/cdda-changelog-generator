@@ -1,3 +1,10 @@
+* Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-15-2037 ([e84bc02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-2037))
+
+* Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
 
 ---
 
@@ -183,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-10-10-0421 ([56fc650](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-0421))
 
 * [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-10-10-0307 ([2798bf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-10-0307))
-
 * fix the styling of ImTui widgets (#82135) ([#83235](https://github.com/CleverRaven/Cataclysm-DDA/pull/83235))
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye ([#83236](https://github.com/CleverRaven/Cataclysm-DDA/pull/83236))
 * Don't filter ineligible artifacts from game uis ([#83238](https://github.com/CleverRaven/Cataclysm-DDA/pull/83238))
@@ -237,4 +239,3 @@
 * [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
 * Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
-* Fix new region settings/overlay finalize order ([#83146](https://github.com/CleverRaven/Cataclysm-DDA/pull/83146))

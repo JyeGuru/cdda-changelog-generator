@@ -1,3 +1,7 @@
+* Few translation fixes (#83317)
+
+Cataclysm-DDA experimental build 2025-10-15-2037 (e84bc02)
+* Tents can be repaired (#83318)
 
 Cataclysm-DDA experimental build 2025-10-15-1735 (e984bba)
 * Fix default forest and urbanity thresholds (#83315)
@@ -96,8 +100,6 @@ Cataclysm-DDA experimental build 2025-10-10-1340 (badec4e)
 
 Cataclysm-DDA experimental build 2025-10-10-0421 (56fc650)
 * [MoM] Electrokinetic crystal artifacts (#83243)
-
-Cataclysm-DDA 0.I release candidate 2025-10-10-0307 (2798bf1)
 * fix the styling of ImTui widgets (#82135) (#83235)
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye (#83236)
 * Don't filter ineligible artifacts from game uis (#83238)
@@ -147,4 +149,3 @@ Cataclysm-DDA 0.I release candidate 2025-10-10-0307 (2798bf1)
 * [Magiclysm] Mystic Glade counts as forest biome (#83165)
 * Remove old region_settings c++ (#83148)
 * Make Scavenger's Anvil Tool Quality Less Confusing (#83149)
-* Fix new region settings/overlay finalize order (#83146)
