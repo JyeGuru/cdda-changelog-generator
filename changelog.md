@@ -1,3 +1,11 @@
+* Routine i18n updates on 11 October 2025 ([#83256](https://github.com/CleverRaven/Cataclysm-DDA/pull/83256))
+* Allow inverting lake generation, specifying generated lake terrains ([#83293](https://github.com/CleverRaven/Cataclysm-DDA/pull/83293))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-15-0507 ([5d4115f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-0507))
+
+* READY dimensional travel for vehicles ([#83266](https://github.com/CleverRaven/Cataclysm-DDA/pull/83266))
 
 ---
 
@@ -181,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-10-09-2006 ([5709c3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-2006))
 
 * Don't filter ineligible artifacts from game uis ([#83238](https://github.com/CleverRaven/Cataclysm-DDA/pull/83238))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-09-1628 ([7e3f58a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-1628))
-
 * [MoM] Matrix crystal active abilities require wielding ([#83232](https://github.com/CleverRaven/Cataclysm-DDA/pull/83232))
 * Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp ([#83212](https://github.com/CleverRaven/Cataclysm-DDA/pull/83212))
 * Fix growth stage progression ([#83181](https://github.com/CleverRaven/Cataclysm-DDA/pull/83181))
@@ -231,10 +234,8 @@
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
 * [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
-* Consume_drug use actions can define intensity for their effect ([#83137](https://github.com/CleverRaven/Cataclysm-DDA/pull/83137))
 * Allow dimensions to have their own defined region settings ([#83138](https://github.com/CleverRaven/Cataclysm-DDA/pull/83138))
 * Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
 * Fix new region settings/overlay finalize order ([#83146](https://github.com/CleverRaven/Cataclysm-DDA/pull/83146))
-* Remove Riot Damage from collapsed tower ([#83135](https://github.com/CleverRaven/Cataclysm-DDA/pull/83135))
 * Allows to install glass and curtains on a broken window with bars. ([#83141](https://github.com/CleverRaven/Cataclysm-DDA/pull/83141))
 * Add sunscreen ([#83139](https://github.com/CleverRaven/Cataclysm-DDA/pull/83139))

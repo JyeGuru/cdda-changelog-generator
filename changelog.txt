@@ -1,3 +1,8 @@
+* Routine i18n updates on 11 October 2025 (#83256)
+* Allow inverting lake generation, specifying generated lake terrains (#83293)
+
+Cataclysm-DDA experimental build 2025-10-15-0507 (5d4115f)
+* READY dimensional travel for vehicles (#83266)
 
 Cataclysm-DDA experimental build 2025-10-15-0214 (3154699)
 * Cap multiplication factor in NPC weapon evaluation. (#83305)
@@ -94,8 +99,6 @@ Cataclysm-DDA experimental build 2025-10-09-2130 (0441b68)
 
 Cataclysm-DDA experimental build 2025-10-09-2006 (5709c3a)
 * Don't filter ineligible artifacts from game uis (#83238)
-
-Cataclysm-DDA experimental build 2025-10-09-1628 (7e3f58a)
 * [MoM] Matrix crystal active abilities require wielding (#83232)
 * Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp (#83212)
 * Fix growth stage progression (#83181)
@@ -141,10 +144,8 @@ Cataclysm-DDA experimental build 2025-10-09-1628 (7e3f58a)
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` (#83166)
 * [Magiclysm] Mystic Glade counts as forest biome (#83165)
 * Remove old region_settings c++ (#83148)
-* Consume_drug use actions can define intensity for their effect (#83137)
 * Allow dimensions to have their own defined region settings (#83138)
 * Make Scavenger's Anvil Tool Quality Less Confusing (#83149)
 * Fix new region settings/overlay finalize order (#83146)
-* Remove Riot Damage from collapsed tower (#83135)
 * Allows to install glass and curtains on a broken window with bars. (#83141)
 * Add sunscreen (#83139)
