@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-15-0214 (3154699)
+* Cap multiplication factor in NPC weapon evaluation. (#83305)
+
 Cataclysm-DDA experimental build 2025-10-14-0326 (fdd2fba)
 * Fix gas grenades (#83279)
 * Fix description counts on ammo boxes (#83296)
@@ -142,7 +145,6 @@ Cataclysm-DDA experimental build 2025-10-09-1628 (7e3f58a)
 * Allow dimensions to have their own defined region settings (#83138)
 * Make Scavenger's Anvil Tool Quality Less Confusing (#83149)
 * Fix new region settings/overlay finalize order (#83146)
-* Farrier fluff (#83133)
 * Remove Riot Damage from collapsed tower (#83135)
 * Allows to install glass and curtains on a broken window with bars. (#83141)
 * Add sunscreen (#83139)
