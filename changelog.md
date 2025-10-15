@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-15-1735 ([e984bba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-1735))
+
+* Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
 * Clear faults after every test shot in vehicle_turret test ([#83312](https://github.com/CleverRaven/Cataclysm-DDA/pull/83312))
 
 ---
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-10-10-0307 ([2798bf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-10-0307))
 
 * fix the styling of ImTui widgets (#82135) ([#83235](https://github.com/CleverRaven/Cataclysm-DDA/pull/83235))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-09-2130 ([0441b68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-09-2130))
-
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye ([#83236](https://github.com/CleverRaven/Cataclysm-DDA/pull/83236))
 * Don't filter ineligible artifacts from game uis ([#83238](https://github.com/CleverRaven/Cataclysm-DDA/pull/83238))
 * [MoM] Matrix crystal active abilities require wielding ([#83232](https://github.com/CleverRaven/Cataclysm-DDA/pull/83232))
@@ -237,5 +238,3 @@
 * Remove old region_settings c++ ([#83148](https://github.com/CleverRaven/Cataclysm-DDA/pull/83148))
 * Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
 * Fix new region settings/overlay finalize order ([#83146](https://github.com/CleverRaven/Cataclysm-DDA/pull/83146))
-* Allows to install glass and curtains on a broken window with bars. ([#83141](https://github.com/CleverRaven/Cataclysm-DDA/pull/83141))
-* Add sunscreen ([#83139](https://github.com/CleverRaven/Cataclysm-DDA/pull/83139))
