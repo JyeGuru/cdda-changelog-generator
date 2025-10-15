@@ -1,3 +1,4 @@
+* Clear faults after every test shot in vehicle_turret test (#83312)
 
 Cataclysm-DDA experimental build 2025-10-15-0629 (678fb5b)
 * Routine i18n updates on 11 October 2025 (#83256)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-10-09-2130 (0441b68)
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` (#83166)
 * [Magiclysm] Mystic Glade counts as forest biome (#83165)
 * Remove old region_settings c++ (#83148)
-* Allow dimensions to have their own defined region settings (#83138)
 * Make Scavenger's Anvil Tool Quality Less Confusing (#83149)
 * Fix new region settings/overlay finalize order (#83146)
 * Allows to install glass and curtains on a broken window with bars. (#83141)
