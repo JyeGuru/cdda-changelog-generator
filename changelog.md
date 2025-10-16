@@ -1,3 +1,19 @@
+* Cardboard Roll category change ([#83319](https://github.com/CleverRaven/Cataclysm-DDA/pull/83319))
+* Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
+* Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
+* Move overmap terrain content from overmap.cpp to overmap_terrain.cpp ([#83294](https://github.com/CleverRaven/Cataclysm-DDA/pull/83294))
+* Fix some issues with extracting/showing translations ([#83201](https://github.com/CleverRaven/Cataclysm-DDA/pull/83201))
+* Minor gui tweaks to mission UI ([#83262](https://github.com/CleverRaven/Cataclysm-DDA/pull/83262))
+* Debug end screen ([#83271](https://github.com/CleverRaven/Cataclysm-DDA/pull/83271))
+* Make mutation by radiation default to off ([#83284](https://github.com/CleverRaven/Cataclysm-DDA/pull/83284))
+* Move game io functions from game.cpp to game_io.cpp ([#83285](https://github.com/CleverRaven/Cataclysm-DDA/pull/83285))
+* Move degrade/damage/age/fault functions from item.cpp to item_degrade.cpp ([#83278](https://github.com/CleverRaven/Cataclysm-DDA/pull/83278))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-16-1313 ([e1143ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1313))
+
+* Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))
 
 ---
 
@@ -183,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-10-10-1821 ([8503f1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1821))
 
 * Use int_id for horde_entity ([#83220](https://github.com/CleverRaven/Cataclysm-DDA/pull/83220))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-10-1706 ([d37ba95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1706))
-
 * Activate menu fix for non-relic items ([#83245](https://github.com/CleverRaven/Cataclysm-DDA/pull/83245))
 * [Magiclysm] Adding level description to spellcraft skill and moving it to a new file ([#83216](https://github.com/CleverRaven/Cataclysm-DDA/pull/83216))
 * [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
@@ -216,7 +227,6 @@
 * Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
 * Fix translation ([#83193](https://github.com/CleverRaven/Cataclysm-DDA/pull/83193))
-* typo in long sling item ([#83152](https://github.com/CleverRaven/Cataclysm-DDA/pull/83152))
 * Remove zombie code from zzip from last refactor ([#83197](https://github.com/CleverRaven/Cataclysm-DDA/pull/83197))
 * Patch EOC duration overflow ([#83185](https://github.com/CleverRaven/Cataclysm-DDA/pull/83185))
 * Filter out vertical movements for hordes ([#83189](https://github.com/CleverRaven/Cataclysm-DDA/pull/83189))
@@ -225,11 +235,6 @@
 * Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
 * [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
 * [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. ([#83175](https://github.com/CleverRaven/Cataclysm-DDA/pull/83175))
-* Remove identical region_settings components ([#83153](https://github.com/CleverRaven/Cataclysm-DDA/pull/83153))
-* Add another bucket for horde_map and filter ineligible monsters out o… ([#83157](https://github.com/CleverRaven/Cataclysm-DDA/pull/83157))
-* You can trade stuff directly from your car ([#83154](https://github.com/CleverRaven/Cataclysm-DDA/pull/83154))
-* Split item info functions from item.cpp into item_info.cpp, attempt 2 ([#83160](https://github.com/CleverRaven/Cataclysm-DDA/pull/83160))
-* Allow harvester to remove overgrown crops ([#83162](https://github.com/CleverRaven/Cataclysm-DDA/pull/83162))
 * Routine i18n updates on 04 October 2025 ([#83176](https://github.com/CleverRaven/Cataclysm-DDA/pull/83176))
 * [MoM] Matrix crystals must be wielded to awaken ([#83170](https://github.com/CleverRaven/Cataclysm-DDA/pull/83170))
 * [XE] Torpor works without a do_turn_eoc now. ([#83174](https://github.com/CleverRaven/Cataclysm-DDA/pull/83174))
@@ -237,4 +242,3 @@
 * [Sky Island] Fix Evict hostiles interacting with normally-unkillable monsters exp  ([#83168](https://github.com/CleverRaven/Cataclysm-DDA/pull/83168))
 * [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
-* [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
