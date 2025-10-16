@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-16-1825 (ea512d8)
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements (#83323)
 * Make smartphone recovery interruptable (#83331)
 
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-10-11-1411 (9ebc57e)
 
 Cataclysm-DDA experimental build 2025-10-11-0429 (3dbab0f)
 * Recontextualize atomic powered tools  (#83244)
-
-Cataclysm-DDA experimental build 2025-10-11-0005 (9361318)
 * New Mod: Sorcerer - A different way to play Magiclysm for those who think books are for nerds (#83213)
 * Update MUTATIONS.md (#83233)
 * Use int_id for horde_entity (#83220)

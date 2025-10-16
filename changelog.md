@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-16-1825 ([ea512d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1825))
+
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
 * Make smartphone recovery interruptable ([#83331](https://github.com/CleverRaven/Cataclysm-DDA/pull/83331))
 
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-10-11-0429 ([3dbab0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-0429))
 
 * Recontextualize atomic powered tools  ([#83244](https://github.com/CleverRaven/Cataclysm-DDA/pull/83244))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-11-0005 ([9361318](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-0005))
-
 * New Mod: Sorcerer - A different way to play Magiclysm for those who think books are for nerds ([#83213](https://github.com/CleverRaven/Cataclysm-DDA/pull/83213))
 * Update MUTATIONS.md ([#83233](https://github.com/CleverRaven/Cataclysm-DDA/pull/83233))
 * Use int_id for horde_entity ([#83220](https://github.com/CleverRaven/Cataclysm-DDA/pull/83220))
