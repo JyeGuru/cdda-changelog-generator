@@ -1,3 +1,8 @@
+* Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements (#83323)
+* Make smartphone recovery interruptable (#83331)
+
+Cataclysm-DDA experimental build 2025-10-16-1723 (fdbb786)
+* [Magiclysm] Rework crystallized mana from mana crystals (#83299)
 
 Cataclysm-DDA experimental build 2025-10-16-1443 (731730a)
 * Cardboard Roll category change (#83319)
@@ -105,8 +110,6 @@ Cataclysm-DDA experimental build 2025-10-11-0429 (3dbab0f)
 
 Cataclysm-DDA experimental build 2025-10-11-0005 (9361318)
 * New Mod: Sorcerer - A different way to play Magiclysm for those who think books are for nerds (#83213)
-
-Cataclysm-DDA experimental build 2025-10-10-1938 (e4fa6cb)
 * Update MUTATIONS.md (#83233)
 * Use int_id for horde_entity (#83220)
 * Activate menu fix for non-relic items (#83245)
@@ -148,7 +151,4 @@ Cataclysm-DDA experimental build 2025-10-10-1938 (e4fa6cb)
 * Routine i18n updates on 04 October 2025 (#83176)
 * [MoM] Matrix crystals must be wielded to awaken (#83170)
 * [XE] Torpor works without a do_turn_eoc now. (#83174)
-* [MoM] Matrix crystals that cause awakening are *also* artifacts (#83167)
-* [Sky Island] Fix Evict hostiles interacting with normally-unkillable monsters exp  (#83168)
 * [XE] Vampires have a baseline night vision. (#83177)
-* [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` (#83166)

@@ -1,3 +1,11 @@
+* Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
+* Make smartphone recovery interruptable ([#83331](https://github.com/CleverRaven/Cataclysm-DDA/pull/83331))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-16-1723 ([fdbb786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1723))
+
+* [Magiclysm] Rework crystallized mana from mana crystals ([#83299](https://github.com/CleverRaven/Cataclysm-DDA/pull/83299))
 
 ---
 
@@ -192,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-10-11-0005 ([9361318](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-0005))
 
 * New Mod: Sorcerer - A different way to play Magiclysm for those who think books are for nerds ([#83213](https://github.com/CleverRaven/Cataclysm-DDA/pull/83213))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-10-1938 ([e4fa6cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1938))
-
 * Update MUTATIONS.md ([#83233](https://github.com/CleverRaven/Cataclysm-DDA/pull/83233))
 * Use int_id for horde_entity ([#83220](https://github.com/CleverRaven/Cataclysm-DDA/pull/83220))
 * Activate menu fix for non-relic items ([#83245](https://github.com/CleverRaven/Cataclysm-DDA/pull/83245))
@@ -238,7 +241,4 @@
 * Routine i18n updates on 04 October 2025 ([#83176](https://github.com/CleverRaven/Cataclysm-DDA/pull/83176))
 * [MoM] Matrix crystals must be wielded to awaken ([#83170](https://github.com/CleverRaven/Cataclysm-DDA/pull/83170))
 * [XE] Torpor works without a do_turn_eoc now. ([#83174](https://github.com/CleverRaven/Cataclysm-DDA/pull/83174))
-* [MoM] Matrix crystals that cause awakening are *also* artifacts ([#83167](https://github.com/CleverRaven/Cataclysm-DDA/pull/83167))
-* [Sky Island] Fix Evict hostiles interacting with normally-unkillable monsters exp  ([#83168](https://github.com/CleverRaven/Cataclysm-DDA/pull/83168))
 * [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
-* [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
