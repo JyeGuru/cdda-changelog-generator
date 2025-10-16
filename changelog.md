@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-16-0127 ([ef211f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-0127))
+
+* [MoM] Add Consciousness Blip portal storm effect ([#83290](https://github.com/CleverRaven/Cataclysm-DDA/pull/83290))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-15-2146 ([7b53e4f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-2146))
 
 * Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-10-10-1706 ([d37ba95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1706))
 
 * Activate menu fix for non-relic items ([#83245](https://github.com/CleverRaven/Cataclysm-DDA/pull/83245))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-10-1340 ([badec4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-10-1340))
-
 * [Magiclysm] Adding level description to spellcraft skill and moving it to a new file ([#83216](https://github.com/CleverRaven/Cataclysm-DDA/pull/83216))
 * [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
 * fix the styling of ImTui widgets (#82135) ([#83235](https://github.com/CleverRaven/Cataclysm-DDA/pull/83235))
@@ -237,4 +238,3 @@
 * [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
 * [Magiclysm/Innawood] Greet trees count as part of `forest_biome_mapgen` ([#83166](https://github.com/CleverRaven/Cataclysm-DDA/pull/83166))
 * [Magiclysm] Mystic Glade counts as forest biome ([#83165](https://github.com/CleverRaven/Cataclysm-DDA/pull/83165))
-* Make Scavenger's Anvil Tool Quality Less Confusing ([#83149](https://github.com/CleverRaven/Cataclysm-DDA/pull/83149))
