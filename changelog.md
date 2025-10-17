@@ -1,3 +1,18 @@
+* Update uncraft recipes for MOLLE sustainment pouch and deployment bag ([#83321](https://github.com/CleverRaven/Cataclysm-DDA/pull/83321))
+* Adjust manhacks presence ([#83308](https://github.com/CleverRaven/Cataclysm-DDA/pull/83308))
+* Unify condiment bottle spoilage multiplier with other containers ([#83348](https://github.com/CleverRaven/Cataclysm-DDA/pull/83348))
+* Add missing possessive in monster attack log ([#83350](https://github.com/CleverRaven/Cataclysm-DDA/pull/83350))
+* Replace anti-material by anti-materiel ([#83349](https://github.com/CleverRaven/Cataclysm-DDA/pull/83349))
+* Unify names for STANAG mags with ranger plate ([#83347](https://github.com/CleverRaven/Cataclysm-DDA/pull/83347))
+* Fix a lot of markdown tables ([#83342](https://github.com/CleverRaven/Cataclysm-DDA/pull/83342))
+* Remove semicolons after namespace ([#83346](https://github.com/CleverRaven/Cataclysm-DDA/pull/83346))
+* Better wheelchair wheels name for wheelchair wheels ([#83343](https://github.com/CleverRaven/Cataclysm-DDA/pull/83343))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-17-0558 ([88a7a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0558))
+
+* Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
 
 ---
 
@@ -194,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2025-10-11-2153 ([5b1fc6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2153))
 
 * Non-leather spear strap ([#83250](https://github.com/CleverRaven/Cataclysm-DDA/pull/83250))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-11-2101 ([35b8e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2101))
-
 * Remove modded migrations/obsoletions marked for removal after 0.I ([#83259](https://github.com/CleverRaven/Cataclysm-DDA/pull/83259))
 * Fix balthazar eoc checks ([#83253](https://github.com/CleverRaven/Cataclysm-DDA/pull/83253))
 * Add a FMS entry for stat training ([#83258](https://github.com/CleverRaven/Cataclysm-DDA/pull/83258))
@@ -214,7 +224,6 @@
 * Don't filter ineligible artifacts from game uis ([#83238](https://github.com/CleverRaven/Cataclysm-DDA/pull/83238))
 * [MoM] Matrix crystal active abilities require wielding ([#83232](https://github.com/CleverRaven/Cataclysm-DDA/pull/83232))
 * Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp ([#83212](https://github.com/CleverRaven/Cataclysm-DDA/pull/83212))
-* Fix growth stage progression ([#83181](https://github.com/CleverRaven/Cataclysm-DDA/pull/83181))
 * Move overmap generation external options to region settings ([#83207](https://github.com/CleverRaven/Cataclysm-DDA/pull/83207))
 * [XE] Include new downsides in tier 4 description. ([#83217](https://github.com/CleverRaven/Cataclysm-DDA/pull/83217))
 * Fix random failure in dormant horde test ([#83229](https://github.com/CleverRaven/Cataclysm-DDA/pull/83229))
@@ -228,17 +237,9 @@
 * Helper struct for overmapbuffer state data ([#83211](https://github.com/CleverRaven/Cataclysm-DDA/pull/83211))
 * Add region_overlay "apply_to_tags" field to docs ([#83209](https://github.com/CleverRaven/Cataclysm-DDA/pull/83209))
 * Audit survivor start ([#83210](https://github.com/CleverRaven/Cataclysm-DDA/pull/83210))
-* [MoM] Clairsentient matrix crystals are artifacts ([#83190](https://github.com/CleverRaven/Cataclysm-DDA/pull/83190))
 * Don't smoke whole lettuce heads ([#83203](https://github.com/CleverRaven/Cataclysm-DDA/pull/83203))
-* Rename region settings C++/JSON, add new region settings docs ([#83188](https://github.com/CleverRaven/Cataclysm-DDA/pull/83188))
 * Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
 * Fix translation ([#83193](https://github.com/CleverRaven/Cataclysm-DDA/pull/83193))
 * Remove zombie code from zzip from last refactor ([#83197](https://github.com/CleverRaven/Cataclysm-DDA/pull/83197))
-* Patch EOC duration overflow ([#83185](https://github.com/CleverRaven/Cataclysm-DDA/pull/83185))
-* Filter out vertical movements for hordes ([#83189](https://github.com/CleverRaven/Cataclysm-DDA/pull/83189))
-* Update magiclysm list of authors and maintainers ([#83187](https://github.com/CleverRaven/Cataclysm-DDA/pull/83187))
-* Remove zombie code from zzip from last refactor ([#83182](https://github.com/CleverRaven/Cataclysm-DDA/pull/83182))
 * Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
-* [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
-* [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
