@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-17-0156 ([4cd3f9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0156))
+
+* fix spellcasting_adjustment('caster_level'), [Sorcerer] Makes Sorcerer only boost Magiclysm and Sorcerer spells, add 2 more spells from Magiclysm ([#83316](https://github.com/CleverRaven/Cataclysm-DDA/pull/83316))
+* Add debug command to print overmap noise layers ([#83332](https://github.com/CleverRaven/Cataclysm-DDA/pull/83332))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-17-0026 ([e47b640](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0026))
+
+* Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-16-1825 ([ea512d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1825))
 
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
@@ -187,17 +200,7 @@
 #### Cataclysm-DDA experimental build 2025-10-11-1552 ([ec78970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-1552))
 
 * Fix balthazar eoc checks ([#83253](https://github.com/CleverRaven/Cataclysm-DDA/pull/83253))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-11-1411 ([9ebc57e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-1411))
-
 * Add a FMS entry for stat training ([#83258](https://github.com/CleverRaven/Cataclysm-DDA/pull/83258))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-11-0429 ([3dbab0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-0429))
-
 * Recontextualize atomic powered tools  ([#83244](https://github.com/CleverRaven/Cataclysm-DDA/pull/83244))
 * New Mod: Sorcerer - A different way to play Magiclysm for those who think books are for nerds ([#83213](https://github.com/CleverRaven/Cataclysm-DDA/pull/83213))
 * Update MUTATIONS.md ([#83233](https://github.com/CleverRaven/Cataclysm-DDA/pull/83233))
@@ -237,8 +240,5 @@
 * Remove zombie code from zzip from last refactor ([#83182](https://github.com/CleverRaven/Cataclysm-DDA/pull/83182))
 * Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
 * [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
-* [XE] Fix some ordinary humans being immune to vampire mind control + remove another blood gotcha. ([#83175](https://github.com/CleverRaven/Cataclysm-DDA/pull/83175))
 * Routine i18n updates on 04 October 2025 ([#83176](https://github.com/CleverRaven/Cataclysm-DDA/pull/83176))
-* [MoM] Matrix crystals must be wielded to awaken ([#83170](https://github.com/CleverRaven/Cataclysm-DDA/pull/83170))
-* [XE] Torpor works without a do_turn_eoc now. ([#83174](https://github.com/CleverRaven/Cataclysm-DDA/pull/83174))
 * [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))
