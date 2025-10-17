@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-17-1600 ([64366e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-1600))
+
+* Use all edible tallows for cooking requirements ([#83341](https://github.com/CleverRaven/Cataclysm-DDA/pull/83341))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-17-1403 ([7474557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-1403))
 
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
@@ -204,11 +210,6 @@
 
 * Allow floating-point <1 bandage power ([#83227](https://github.com/CleverRaven/Cataclysm-DDA/pull/83227))
 * Fix balthazar eoc checks ([#83264](https://github.com/CleverRaven/Cataclysm-DDA/pull/83264))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-12-0135 ([ac2cf07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-0135))
-
 * Fix debug writing for global variables ([#83254](https://github.com/CleverRaven/Cataclysm-DDA/pull/83254))
 * Update IN_REPO_MODS.md for mods with dependencies ([#83257](https://github.com/CleverRaven/Cataclysm-DDA/pull/83257))
 * Non-leather spear strap ([#83250](https://github.com/CleverRaven/Cataclysm-DDA/pull/83250))
@@ -242,4 +243,3 @@
 * Don't smoke whole lettuce heads ([#83203](https://github.com/CleverRaven/Cataclysm-DDA/pull/83203))
 * Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
-* Remove zombie code from zzip from last refactor ([#83197](https://github.com/CleverRaven/Cataclysm-DDA/pull/83197))
