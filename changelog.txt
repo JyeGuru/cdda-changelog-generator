@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-17-1403 (7474557)
 * Pruning the old ``to-hit`` syntax - Part Final (#83355)
 * Remove fabric cutting from glass shivs (#83353)
 
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2025-10-12-1651 (fd0ebf8)
 
 Cataclysm-DDA experimental build 2025-10-12-0628 (10c62c5)
 * Allow floating-point <1 bandage power (#83227)
-
-Cataclysm-DDA 0.I release candidate 2025-10-12-0458 (3f33beb)
 * Fix balthazar eoc checks (#83264)
 
 Cataclysm-DDA experimental build 2025-10-12-0135 (ac2cf07)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-17-1403 ([7474557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-1403))
+
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
 * Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
 
@@ -198,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2025-10-12-0628 ([10c62c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-0628))
 
 * Allow floating-point <1 bandage power ([#83227](https://github.com/CleverRaven/Cataclysm-DDA/pull/83227))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-10-12-0458 ([3f33beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-12-0458))
-
 * Fix balthazar eoc checks ([#83264](https://github.com/CleverRaven/Cataclysm-DDA/pull/83264))
 
 ---
