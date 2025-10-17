@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-17-0651 ([bd368b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0651))
+
 * Update uncraft recipes for MOLLE sustainment pouch and deployment bag ([#83321](https://github.com/CleverRaven/Cataclysm-DDA/pull/83321))
 * Adjust manhacks presence ([#83308](https://github.com/CleverRaven/Cataclysm-DDA/pull/83308))
 * Unify condiment bottle spoilage multiplier with other containers ([#83348](https://github.com/CleverRaven/Cataclysm-DDA/pull/83348))
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2025-10-11-2359 ([3aa9aba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2359))
 
 * Update IN_REPO_MODS.md for mods with dependencies ([#83257](https://github.com/CleverRaven/Cataclysm-DDA/pull/83257))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-11-2153 ([5b1fc6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2153))
-
 * Non-leather spear strap ([#83250](https://github.com/CleverRaven/Cataclysm-DDA/pull/83250))
 * Remove modded migrations/obsoletions marked for removal after 0.I ([#83259](https://github.com/CleverRaven/Cataclysm-DDA/pull/83259))
 * Fix balthazar eoc checks ([#83253](https://github.com/CleverRaven/Cataclysm-DDA/pull/83253))
