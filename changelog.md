@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-17-2210 ([63c7e00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-2210))
+
+* Less mines ([#83360](https://github.com/CleverRaven/Cataclysm-DDA/pull/83360))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-17-1600 ([64366e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-1600))
 
 * Use all edible tallows for cooking requirements ([#83341](https://github.com/CleverRaven/Cataclysm-DDA/pull/83341))
@@ -203,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2025-10-12-1651 ([fd0ebf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-1651))
 
 * [MoM] Delete more obsolete stuff ([#83267](https://github.com/CleverRaven/Cataclysm-DDA/pull/83267))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-12-0628 ([10c62c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-0628))
-
 * Allow floating-point <1 bandage power ([#83227](https://github.com/CleverRaven/Cataclysm-DDA/pull/83227))
 * Fix balthazar eoc checks ([#83264](https://github.com/CleverRaven/Cataclysm-DDA/pull/83264))
 * Fix debug writing for global variables ([#83254](https://github.com/CleverRaven/Cataclysm-DDA/pull/83254))
@@ -241,5 +242,4 @@
 * Add region_overlay "apply_to_tags" field to docs ([#83209](https://github.com/CleverRaven/Cataclysm-DDA/pull/83209))
 * Audit survivor start ([#83210](https://github.com/CleverRaven/Cataclysm-DDA/pull/83210))
 * Don't smoke whole lettuce heads ([#83203](https://github.com/CleverRaven/Cataclysm-DDA/pull/83203))
-* Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))

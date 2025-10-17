@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-17-2210 (63c7e00)
+* Less mines (#83360)
+
 Cataclysm-DDA experimental build 2025-10-17-1600 (64366e8)
 * Use all edible tallows for cooking requirements (#83341)
 
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2025-10-12-1808 (deee264)
 
 Cataclysm-DDA experimental build 2025-10-12-1651 (fd0ebf8)
 * [MoM] Delete more obsolete stuff (#83267)
-
-Cataclysm-DDA experimental build 2025-10-12-0628 (10c62c5)
 * Allow floating-point <1 bandage power (#83227)
 * Fix balthazar eoc checks (#83264)
 * Fix debug writing for global variables (#83254)
@@ -151,5 +152,4 @@ Cataclysm-DDA experimental build 2025-10-12-0628 (10c62c5)
 * Add region_overlay "apply_to_tags" field to docs (#83209)
 * Audit survivor start (#83210)
 * Don't smoke whole lettuce heads (#83203)
-* Split pocket/contents-related functions from item.cpp to item_container.cpp (#83199)
 * Weekly Changelog 2025-09-29 to 2025-10-06 (#83200)
