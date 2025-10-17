@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-17-0351 ([e576e3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0351))
+
+* glass shiv audit ([#83289](https://github.com/CleverRaven/Cataclysm-DDA/pull/83289))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-17-0156 ([4cd3f9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0156))
 
 * fix spellcasting_adjustment('caster_level'), [Sorcerer] Makes Sorcerer only boost Magiclysm and Sorcerer spells, add 2 more spells from Magiclysm ([#83316](https://github.com/CleverRaven/Cataclysm-DDA/pull/83316))
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-10-11-2101 ([35b8e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2101))
 
 * Remove modded migrations/obsoletions marked for removal after 0.I ([#83259](https://github.com/CleverRaven/Cataclysm-DDA/pull/83259))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-11-1552 ([ec78970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-1552))
-
 * Fix balthazar eoc checks ([#83253](https://github.com/CleverRaven/Cataclysm-DDA/pull/83253))
 * Add a FMS entry for stat training ([#83258](https://github.com/CleverRaven/Cataclysm-DDA/pull/83258))
 * Recontextualize atomic powered tools  ([#83244](https://github.com/CleverRaven/Cataclysm-DDA/pull/83244))
@@ -240,5 +241,4 @@
 * Remove zombie code from zzip from last refactor ([#83182](https://github.com/CleverRaven/Cataclysm-DDA/pull/83182))
 * Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
 * [Magiclysm] Blood mages cannot bleed. ([#83186](https://github.com/CleverRaven/Cataclysm-DDA/pull/83186))
-* Routine i18n updates on 04 October 2025 ([#83176](https://github.com/CleverRaven/Cataclysm-DDA/pull/83176))
 * [XE] Vampires have a baseline night vision. ([#83177](https://github.com/CleverRaven/Cataclysm-DDA/pull/83177))

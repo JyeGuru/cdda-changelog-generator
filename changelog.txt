@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-17-0351 (e576e3d)
+* glass shiv audit (#83289)
+
 Cataclysm-DDA experimental build 2025-10-17-0156 (4cd3f9c)
 * fix spellcasting_adjustment('caster_level'), [Sorcerer] Makes Sorcerer only boost Magiclysm and Sorcerer spells, add 2 more spells from Magiclysm (#83316)
 * Add debug command to print overmap noise layers (#83332)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2025-10-11-2153 (5b1fc6e)
 
 Cataclysm-DDA experimental build 2025-10-11-2101 (35b8e40)
 * Remove modded migrations/obsoletions marked for removal after 0.I (#83259)
-
-Cataclysm-DDA experimental build 2025-10-11-1552 (ec78970)
 * Fix balthazar eoc checks (#83253)
 * Add a FMS entry for stat training (#83258)
 * Recontextualize atomic powered tools  (#83244)
@@ -150,5 +151,4 @@ Cataclysm-DDA experimental build 2025-10-11-1552 (ec78970)
 * Remove zombie code from zzip from last refactor (#83182)
 * Split armor-related functions from item.cpp into item_armor.cpp (#83191)
 * [Magiclysm] Blood mages cannot bleed. (#83186)
-* Routine i18n updates on 04 October 2025 (#83176)
 * [XE] Vampires have a baseline night vision. (#83177)
