@@ -1,3 +1,11 @@
+* Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
+* Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-17-1246 ([c2b1e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-1246))
+
+* Add NO_BODY_HEAT flag for characters who don't show up on infrared ([#83336](https://github.com/CleverRaven/Cataclysm-DDA/pull/83336))
 
 ---
 
@@ -202,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2025-10-12-0135 ([ac2cf07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-0135))
 
 * Fix debug writing for global variables ([#83254](https://github.com/CleverRaven/Cataclysm-DDA/pull/83254))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-11-2359 ([3aa9aba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-11-2359))
-
 * Update IN_REPO_MODS.md for mods with dependencies ([#83257](https://github.com/CleverRaven/Cataclysm-DDA/pull/83257))
 * Non-leather spear strap ([#83250](https://github.com/CleverRaven/Cataclysm-DDA/pull/83250))
 * Remove modded migrations/obsoletions marked for removal after 0.I ([#83259](https://github.com/CleverRaven/Cataclysm-DDA/pull/83259))
@@ -228,7 +231,6 @@
 * [XE] Include new downsides in tier 4 description. ([#83217](https://github.com/CleverRaven/Cataclysm-DDA/pull/83217))
 * Fix random failure in dormant horde test ([#83229](https://github.com/CleverRaven/Cataclysm-DDA/pull/83229))
 * Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
-* create `DIMENSIONS.md` doc file ([#83196](https://github.com/CleverRaven/Cataclysm-DDA/pull/83196))
 * [DDotD] No FEMA in Canada ([#83205](https://github.com/CleverRaven/Cataclysm-DDA/pull/83205))
 * Current implementation of radiation mutation allows code to be translated ([#83224](https://github.com/CleverRaven/Cataclysm-DDA/pull/83224))
 * Check profession for conflicting hobby traits ([#83222](https://github.com/CleverRaven/Cataclysm-DDA/pull/83222))
@@ -240,6 +242,4 @@
 * Don't smoke whole lettuce heads ([#83203](https://github.com/CleverRaven/Cataclysm-DDA/pull/83203))
 * Split pocket/contents-related functions from item.cpp to item_container.cpp ([#83199](https://github.com/CleverRaven/Cataclysm-DDA/pull/83199))
 * Weekly Changelog 2025-09-29 to 2025-10-06 ([#83200](https://github.com/CleverRaven/Cataclysm-DDA/pull/83200))
-* Fix translation ([#83193](https://github.com/CleverRaven/Cataclysm-DDA/pull/83193))
 * Remove zombie code from zzip from last refactor ([#83197](https://github.com/CleverRaven/Cataclysm-DDA/pull/83197))
-* Split armor-related functions from item.cpp into item_armor.cpp ([#83191](https://github.com/CleverRaven/Cataclysm-DDA/pull/83191))
