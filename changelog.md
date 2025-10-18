@@ -1,3 +1,4 @@
+* [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
 
 ---
 
@@ -90,7 +91,6 @@
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
 * Move overmap terrain content from overmap.cpp to overmap_terrain.cpp ([#83294](https://github.com/CleverRaven/Cataclysm-DDA/pull/83294))
-* Fix some issues with extracting/showing translations ([#83201](https://github.com/CleverRaven/Cataclysm-DDA/pull/83201))
 * Minor gui tweaks to mission UI ([#83262](https://github.com/CleverRaven/Cataclysm-DDA/pull/83262))
 * Debug end screen ([#83271](https://github.com/CleverRaven/Cataclysm-DDA/pull/83271))
 * Make mutation by radiation default to off ([#83284](https://github.com/CleverRaven/Cataclysm-DDA/pull/83284))
