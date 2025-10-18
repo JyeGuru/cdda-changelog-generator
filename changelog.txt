@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-18-1602 (d28a91a)
 * Improve uncraft test (#83365)
 
 Cataclysm-DDA experimental build 2025-10-18-1432 (76f8a22)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2025-10-13-2038 (b791d38)
 
 Cataclysm-DDA experimental build 2025-10-13-1624 (5f61019)
 * Jabberwock buffs (#83288)
-
-Cataclysm-DDA experimental build 2025-10-13-0531 (21139f2)
 * Move character health functions from character.cpp to character_health.cpp (#83270)
 * Move more external options to region settings (#83237)
 * Fix purification of oversensitive system (#83225)
