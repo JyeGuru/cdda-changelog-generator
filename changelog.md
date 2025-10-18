@@ -1,3 +1,10 @@
+* Improve uncraft test ([#83365](https://github.com/CleverRaven/Cataclysm-DDA/pull/83365))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-18-1432 ([76f8a22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-1432))
+
+* Routine i18n updates on 18 October 2025 ([#83369](https://github.com/CleverRaven/Cataclysm-DDA/pull/83369))
 
 ---
 
@@ -195,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-10-13-0531 ([21139f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-13-0531))
 
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-12-1925 ([b3ea779](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-1925))
-
 * Move more external options to region settings ([#83237](https://github.com/CleverRaven/Cataclysm-DDA/pull/83237))
 * Fix purification of oversensitive system ([#83225](https://github.com/CleverRaven/Cataclysm-DDA/pull/83225))
 * Fix compilation error on gcc 14.2.0 ([#83260](https://github.com/CleverRaven/Cataclysm-DDA/pull/83260))
@@ -234,7 +236,6 @@
 * [XE] Include new downsides in tier 4 description. ([#83217](https://github.com/CleverRaven/Cataclysm-DDA/pull/83217))
 * Fix random failure in dormant horde test ([#83229](https://github.com/CleverRaven/Cataclysm-DDA/pull/83229))
 * Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
-* [DDotD] No FEMA in Canada ([#83205](https://github.com/CleverRaven/Cataclysm-DDA/pull/83205))
 * Current implementation of radiation mutation allows code to be translated ([#83224](https://github.com/CleverRaven/Cataclysm-DDA/pull/83224))
 * Check profession for conflicting hobby traits ([#83222](https://github.com/CleverRaven/Cataclysm-DDA/pull/83222))
 * Spell use actions respect SINGLE_USE ([#83218](https://github.com/CleverRaven/Cataclysm-DDA/pull/83218))
@@ -242,4 +243,3 @@
 * Helper struct for overmapbuffer state data ([#83211](https://github.com/CleverRaven/Cataclysm-DDA/pull/83211))
 * Add region_overlay "apply_to_tags" field to docs ([#83209](https://github.com/CleverRaven/Cataclysm-DDA/pull/83209))
 * Audit survivor start ([#83210](https://github.com/CleverRaven/Cataclysm-DDA/pull/83210))
-* Don't smoke whole lettuce heads ([#83203](https://github.com/CleverRaven/Cataclysm-DDA/pull/83203))
