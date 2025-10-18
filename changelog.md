@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-18-0457 ([4846af0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-0457))
+
 * [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
 
 ---
@@ -203,11 +208,6 @@
 * Get rid of redundant SMOKABLE flag ([#83215](https://github.com/CleverRaven/Cataclysm-DDA/pull/83215))
 * Don't arbitrarily turn crops into steel bushes ([#83272](https://github.com/CleverRaven/Cataclysm-DDA/pull/83272))
 * Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-12-1808 ([deee264](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-12-1808))
-
 * Split game tile info from game.cpp into game_ui_tile_info.cpp ([#83248](https://github.com/CleverRaven/Cataclysm-DDA/pull/83248))
 * [MoM] Delete more obsolete stuff ([#83267](https://github.com/CleverRaven/Cataclysm-DDA/pull/83267))
 * Allow floating-point <1 bandage power ([#83227](https://github.com/CleverRaven/Cataclysm-DDA/pull/83227))
