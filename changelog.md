@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-19-1049 ([ca7c319](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-1049))
+
+* Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-19-0538 ([a03cd56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-0538))
 
 * Move inventory functions from character.cpp to existing file character_inventory.cpp ([#83309](https://github.com/CleverRaven/Cataclysm-DDA/pull/83309))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2025-10-14-0214 ([8a6ca92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-14-0214))
 
 * Add comment about survivor start ([#83303](https://github.com/CleverRaven/Cataclysm-DDA/pull/83303))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-14-0105 ([7c72af1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-14-0105))
-
 * Being stunned while you have the LEVITATION flag means you fall ([#83291](https://github.com/CleverRaven/Cataclysm-DDA/pull/83291))
 * [Magiclysm] Mystic glade rework ([#83292](https://github.com/CleverRaven/Cataclysm-DDA/pull/83292))
 * Fix debugmsg ([#83268](https://github.com/CleverRaven/Cataclysm-DDA/pull/83268))
@@ -240,5 +241,4 @@
 * Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
 * Current implementation of radiation mutation allows code to be translated ([#83224](https://github.com/CleverRaven/Cataclysm-DDA/pull/83224))
 * Check profession for conflicting hobby traits ([#83222](https://github.com/CleverRaven/Cataclysm-DDA/pull/83222))
-* Spell use actions respect SINGLE_USE ([#83218](https://github.com/CleverRaven/Cataclysm-DDA/pull/83218))
 * Relic active effects can require being wielded/worn/held ([#83219](https://github.com/CleverRaven/Cataclysm-DDA/pull/83219))
