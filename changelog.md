@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-19-2029 ([51324ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-2029))
+
+* Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-19-1049 ([ca7c319](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-1049))
 
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
@@ -199,11 +205,6 @@
 
 * Fix gas grenades ([#83279](https://github.com/CleverRaven/Cataclysm-DDA/pull/83279))
 * Fix description counts on ammo boxes ([#83296](https://github.com/CleverRaven/Cataclysm-DDA/pull/83296))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-14-0214 ([8a6ca92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-14-0214))
-
 * Add comment about survivor start ([#83303](https://github.com/CleverRaven/Cataclysm-DDA/pull/83303))
 * Being stunned while you have the LEVITATION flag means you fall ([#83291](https://github.com/CleverRaven/Cataclysm-DDA/pull/83291))
 * [Magiclysm] Mystic glade rework ([#83292](https://github.com/CleverRaven/Cataclysm-DDA/pull/83292))
@@ -241,4 +242,3 @@
 * Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
 * Current implementation of radiation mutation allows code to be translated ([#83224](https://github.com/CleverRaven/Cataclysm-DDA/pull/83224))
 * Check profession for conflicting hobby traits ([#83222](https://github.com/CleverRaven/Cataclysm-DDA/pull/83222))
-* Relic active effects can require being wielded/worn/held ([#83219](https://github.com/CleverRaven/Cataclysm-DDA/pull/83219))
