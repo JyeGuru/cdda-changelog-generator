@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-19-2237 (726816a)
+* Prevent segfault when cancelling butchery (#83385)
+
 Cataclysm-DDA experimental build 2025-10-19-2029 (51324ee)
 * Show progress percent when butchering (#83386)
 
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2025-10-15-0507 (5d4115f)
 
 Cataclysm-DDA experimental build 2025-10-15-0214 (3154699)
 * Cap multiplication factor in NPC weapon evaluation. (#83305)
-
-Cataclysm-DDA experimental build 2025-10-14-0326 (fdd2fba)
 * Fix gas grenades (#83279)
 * Fix description counts on ammo boxes (#83296)
 * Add comment about survivor start (#83303)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2025-10-14-0326 (fdd2fba)
 * Add a FMS entry for stat training (#83258)
 * Recontextualize atomic powered tools  (#83244)
 * Update MUTATIONS.md (#83233)
-* Use int_id for horde_entity (#83220)
 * Activate menu fix for non-relic items (#83245)
 * [MoM] Electrokinetic crystal artifacts (#83243)
 * fix the styling of ImTui widgets (#82135) (#83235)

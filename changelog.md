@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-19-2237 ([726816a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-2237))
+
+* Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-19-2029 ([51324ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-2029))
 
 * Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
@@ -198,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2025-10-15-0214 ([3154699](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-0214))
 
 * Cap multiplication factor in NPC weapon evaluation. ([#83305](https://github.com/CleverRaven/Cataclysm-DDA/pull/83305))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-14-0326 ([fdd2fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-14-0326))
-
 * Fix gas grenades ([#83279](https://github.com/CleverRaven/Cataclysm-DDA/pull/83279))
 * Fix description counts on ammo boxes ([#83296](https://github.com/CleverRaven/Cataclysm-DDA/pull/83296))
 * Add comment about survivor start ([#83303](https://github.com/CleverRaven/Cataclysm-DDA/pull/83303))
@@ -231,7 +232,6 @@
 * Add a FMS entry for stat training ([#83258](https://github.com/CleverRaven/Cataclysm-DDA/pull/83258))
 * Recontextualize atomic powered tools  ([#83244](https://github.com/CleverRaven/Cataclysm-DDA/pull/83244))
 * Update MUTATIONS.md ([#83233](https://github.com/CleverRaven/Cataclysm-DDA/pull/83233))
-* Use int_id for horde_entity ([#83220](https://github.com/CleverRaven/Cataclysm-DDA/pull/83220))
 * Activate menu fix for non-relic items ([#83245](https://github.com/CleverRaven/Cataclysm-DDA/pull/83245))
 * [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
 * fix the styling of ImTui widgets (#82135) ([#83235](https://github.com/CleverRaven/Cataclysm-DDA/pull/83235))
