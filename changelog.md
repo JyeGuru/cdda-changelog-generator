@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-19-0321 ([d2a12ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-0321))
+
+* Fix some powdered milk spawns ([#83359](https://github.com/CleverRaven/Cataclysm-DDA/pull/83359))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-18-1602 ([d28a91a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-1602))
 
 * Improve uncraft test ([#83365](https://github.com/CleverRaven/Cataclysm-DDA/pull/83365))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-10-13-2038 ([b791d38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-13-2038))
 
 * [MoM] Add more knack contemplation recipes ([#83286](https://github.com/CleverRaven/Cataclysm-DDA/pull/83286))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-13-1624 ([5f61019](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-13-1624))
-
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
 * Move more external options to region settings ([#83237](https://github.com/CleverRaven/Cataclysm-DDA/pull/83237))
@@ -232,7 +233,6 @@
 * Don't filter ineligible artifacts from game uis ([#83238](https://github.com/CleverRaven/Cataclysm-DDA/pull/83238))
 * [MoM] Matrix crystal active abilities require wielding ([#83232](https://github.com/CleverRaven/Cataclysm-DDA/pull/83232))
 * Split gun/tool/ammo-related functions from item.cpp to item_gun_tool_ammo.cpp ([#83212](https://github.com/CleverRaven/Cataclysm-DDA/pull/83212))
-* Move overmap generation external options to region settings ([#83207](https://github.com/CleverRaven/Cataclysm-DDA/pull/83207))
 * [XE] Include new downsides in tier 4 description. ([#83217](https://github.com/CleverRaven/Cataclysm-DDA/pull/83217))
 * Fix random failure in dormant horde test ([#83229](https://github.com/CleverRaven/Cataclysm-DDA/pull/83229))
 * Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
