@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-19-0439 ([112ad64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-0439))
+
+* Clean up TropiCata regional settings ([#83377](https://github.com/CleverRaven/Cataclysm-DDA/pull/83377))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-19-0321 ([d2a12ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-0321))
 
 * Fix some powdered milk spawns ([#83359](https://github.com/CleverRaven/Cataclysm-DDA/pull/83359))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-10-13-2356 ([c13bdf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-13-2356))
 
 * Fix debugmsg ([#83268](https://github.com/CleverRaven/Cataclysm-DDA/pull/83268))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-13-2038 ([b791d38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-13-2038))
-
 * [MoM] Add more knack contemplation recipes ([#83286](https://github.com/CleverRaven/Cataclysm-DDA/pull/83286))
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
@@ -241,5 +242,4 @@
 * Spell use actions respect SINGLE_USE ([#83218](https://github.com/CleverRaven/Cataclysm-DDA/pull/83218))
 * Relic active effects can require being wielded/worn/held ([#83219](https://github.com/CleverRaven/Cataclysm-DDA/pull/83219))
 * Helper struct for overmapbuffer state data ([#83211](https://github.com/CleverRaven/Cataclysm-DDA/pull/83211))
-* Add region_overlay "apply_to_tags" field to docs ([#83209](https://github.com/CleverRaven/Cataclysm-DDA/pull/83209))
 * Audit survivor start ([#83210](https://github.com/CleverRaven/Cataclysm-DDA/pull/83210))
