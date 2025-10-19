@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-19-0538 (a03cd56)
 * Move inventory functions from character.cpp to existing file character_inventory.cpp (#83309)
 * Good spears and polearms use spear shafts no ugly sticks (#83351)
 * Fix fishing on non river/lake-ocean tiles (#83373)
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2025-10-14-0214 (8a6ca92)
 Cataclysm-DDA experimental build 2025-10-14-0105 (7c72af1)
 * Being stunned while you have the LEVITATION flag means you fall (#83291)
 * [Magiclysm] Mystic glade rework (#83292)
-
-Cataclysm-DDA experimental build 2025-10-13-2356 (c13bdf8)
 * Fix debugmsg (#83268)
 * [MoM] Add more knack contemplation recipes (#83286)
 * Jabberwock buffs (#83288)
