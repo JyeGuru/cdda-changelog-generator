@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-20-0953 ([fef027e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-0953))
+
 * Supernatural Races can't use purifier: fix tests ([#83380](https://github.com/CleverRaven/Cataclysm-DDA/pull/83380))
 
 ---

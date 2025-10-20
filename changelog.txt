@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-20-0953 (fef027e)
 * Supernatural Races can't use purifier: fix tests (#83380)
 
 Cataclysm-DDA experimental build 2025-10-20-0827 (6ca3b1b)
