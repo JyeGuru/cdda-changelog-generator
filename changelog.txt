@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-20-2114 (e02458a)
 * [MoM] Fix Clairsentient hobby description (#83394)
 
 Cataclysm-DDA experimental build 2025-10-20-1844 (9c9d781)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-10-16-1443 (731730a)
 
 Cataclysm-DDA experimental build 2025-10-16-1313 (e1143ba)
 * Fix item disassembly doc formatting (#83322)
-
-Cataclysm-DDA experimental build 2025-10-16-0127 (ef211f2)
 * [MoM] Add Consciousness Blip portal storm effect (#83290)
 * Few translation fixes (#83317)
 * Tents can be repaired (#83318)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-20-2114 ([e02458a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-2114))
+
 * [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-10-16-1313 ([e1143ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1313))
 
 * Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-16-0127 ([ef211f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-0127))
-
 * [MoM] Add Consciousness Blip portal storm effect ([#83290](https://github.com/CleverRaven/Cataclysm-DDA/pull/83290))
 * Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
