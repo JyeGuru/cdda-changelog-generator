@@ -1,3 +1,4 @@
+* [MoM] Fix Clairsentient hobby description (#83394)
 
 Cataclysm-DDA experimental build 2025-10-20-1844 (9c9d781)
 * Bump up dmg size limit in macOS release build (#83387)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2025-10-16-0127 (ef211f2)
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye (#83236)
 * Don't filter ineligible artifacts from game uis (#83238)
 * [MoM] Matrix crystal active abilities require wielding (#83232)
-* Fix random failure in dormant horde test (#83229)
 * Prevent yugg attacks from being translatable (#83230)
