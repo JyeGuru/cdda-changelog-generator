@@ -1,3 +1,10 @@
+* Aftershock: Large bugfixing round ([#83379](https://github.com/CleverRaven/Cataclysm-DDA/pull/83379))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-20-1558 ([971304f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-1558))
+
+* Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm ([#83393](https://github.com/CleverRaven/Cataclysm-DDA/pull/83393))
 
 ---
 
@@ -197,11 +204,6 @@
 
 * Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
 * Clear faults after every test shot in vehicle_turret test ([#83312](https://github.com/CleverRaven/Cataclysm-DDA/pull/83312))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-15-0629 ([678fb5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-0629))
-
 * Routine i18n updates on 11 October 2025 ([#83256](https://github.com/CleverRaven/Cataclysm-DDA/pull/83256))
 * Allow inverting lake generation, specifying generated lake terrains ([#83293](https://github.com/CleverRaven/Cataclysm-DDA/pull/83293))
 * READY dimensional travel for vehicles ([#83266](https://github.com/CleverRaven/Cataclysm-DDA/pull/83266))
@@ -216,7 +218,6 @@
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
 * Move more external options to region settings ([#83237](https://github.com/CleverRaven/Cataclysm-DDA/pull/83237))
-* Fix purification of oversensitive system ([#83225](https://github.com/CleverRaven/Cataclysm-DDA/pull/83225))
 * Fix compilation error on gcc 14.2.0 ([#83260](https://github.com/CleverRaven/Cataclysm-DDA/pull/83260))
 * fix dialogue trying to pick nonexistent NPC ([#83252](https://github.com/CleverRaven/Cataclysm-DDA/pull/83252))
 * Move overmap special functions from overmap.cpp to multiple files ([#83265](https://github.com/CleverRaven/Cataclysm-DDA/pull/83265))
@@ -242,4 +243,3 @@
 * [MoM] Matrix crystal active abilities require wielding ([#83232](https://github.com/CleverRaven/Cataclysm-DDA/pull/83232))
 * Fix random failure in dormant horde test ([#83229](https://github.com/CleverRaven/Cataclysm-DDA/pull/83229))
 * Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
-* Current implementation of radiation mutation allows code to be translated ([#83224](https://github.com/CleverRaven/Cataclysm-DDA/pull/83224))
