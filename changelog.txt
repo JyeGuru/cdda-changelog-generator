@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-20-1844 (9c9d781)
 * Bump up dmg size limit in macOS release build (#83387)
 
 Cataclysm-DDA experimental build 2025-10-20-1731 (34d398f)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2025-10-16-0127 (ef211f2)
 
 Cataclysm-DDA experimental build 2025-10-15-2146 (7b53e4f)
 * Few translation fixes (#83317)
-
-Cataclysm-DDA experimental build 2025-10-15-2037 (e84bc02)
 * Tents can be repaired (#83318)
 * Fix default forest and urbanity thresholds (#83315)
 * Clear faults after every test shot in vehicle_turret test (#83312)
