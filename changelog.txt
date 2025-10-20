@@ -1,3 +1,7 @@
+* Supernatural Races can't use purifier: fix tests (#83380)
+
+Cataclysm-DDA experimental build 2025-10-20-0827 (6ca3b1b)
+* Minor audits to beach furniture (#83382)
 
 Cataclysm-DDA experimental build 2025-10-19-2237 (726816a)
 * Prevent segfault when cancelling butchery (#83385)
@@ -111,8 +115,6 @@ Cataclysm-DDA experimental build 2025-10-15-0629 (678fb5b)
 
 Cataclysm-DDA experimental build 2025-10-15-0507 (5d4115f)
 * READY dimensional travel for vehicles (#83266)
-
-Cataclysm-DDA experimental build 2025-10-15-0214 (3154699)
 * Cap multiplication factor in NPC weapon evaluation. (#83305)
 * Fix gas grenades (#83279)
 * Fix description counts on ammo boxes (#83296)
@@ -151,4 +153,3 @@ Cataclysm-DDA experimental build 2025-10-15-0214 (3154699)
 * Fix random failure in dormant horde test (#83229)
 * Prevent yugg attacks from being translatable (#83230)
 * Current implementation of radiation mutation allows code to be translated (#83224)
-* Check profession for conflicting hobby traits (#83222)
