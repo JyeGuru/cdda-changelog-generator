@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-10-16-0127 ([ef211f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-0127))
 
 * [MoM] Add Consciousness Blip portal storm effect ([#83290](https://github.com/CleverRaven/Cataclysm-DDA/pull/83290))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-15-2146 ([7b53e4f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-2146))
-
 * Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
 * Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))

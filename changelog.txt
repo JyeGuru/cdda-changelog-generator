@@ -109,8 +109,6 @@ Cataclysm-DDA experimental build 2025-10-16-1313 (e1143ba)
 
 Cataclysm-DDA experimental build 2025-10-16-0127 (ef211f2)
 * [MoM] Add Consciousness Blip portal storm effect (#83290)
-
-Cataclysm-DDA experimental build 2025-10-15-2146 (7b53e4f)
 * Few translation fixes (#83317)
 * Tents can be repaired (#83318)
 * Fix default forest and urbanity thresholds (#83315)
