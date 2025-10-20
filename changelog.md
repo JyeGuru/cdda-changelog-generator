@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-20-1731 ([34d398f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-1731))
+
 * Aftershock: Large bugfixing round ([#83379](https://github.com/CleverRaven/Cataclysm-DDA/pull/83379))
 
 ---
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2025-10-15-2037 ([e84bc02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-2037))
 
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-15-1735 ([e984bba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-1735))
-
 * Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
 * Clear faults after every test shot in vehicle_turret test ([#83312](https://github.com/CleverRaven/Cataclysm-DDA/pull/83312))
 * Routine i18n updates on 11 October 2025 ([#83256](https://github.com/CleverRaven/Cataclysm-DDA/pull/83256))

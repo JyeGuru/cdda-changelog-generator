@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-20-1731 (34d398f)
 * Aftershock: Large bugfixing round (#83379)
 
 Cataclysm-DDA experimental build 2025-10-20-1558 (971304f)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2025-10-15-2146 (7b53e4f)
 
 Cataclysm-DDA experimental build 2025-10-15-2037 (e84bc02)
 * Tents can be repaired (#83318)
-
-Cataclysm-DDA experimental build 2025-10-15-1735 (e984bba)
 * Fix default forest and urbanity thresholds (#83315)
 * Clear faults after every test shot in vehicle_turret test (#83312)
 * Routine i18n updates on 11 October 2025 (#83256)
