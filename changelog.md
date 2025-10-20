@@ -8,6 +8,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-20-0953 ([fef027e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-0953))
+
+* Supernatural Races can't use purifier: fix tests ([#83380](https://github.com/CleverRaven/Cataclysm-DDA/pull/83380))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-20-0827 ([6ca3b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-0827))
+
+* Minor audits to beach furniture ([#83382](https://github.com/CleverRaven/Cataclysm-DDA/pull/83382))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-19-2237 ([726816a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-2237))
 
 * Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
@@ -199,11 +211,6 @@
 
 * Routine i18n updates on 11 October 2025 ([#83256](https://github.com/CleverRaven/Cataclysm-DDA/pull/83256))
 * Allow inverting lake generation, specifying generated lake terrains ([#83293](https://github.com/CleverRaven/Cataclysm-DDA/pull/83293))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-15-0507 ([5d4115f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-15-0507))
-
 * READY dimensional travel for vehicles ([#83266](https://github.com/CleverRaven/Cataclysm-DDA/pull/83266))
 * Cap multiplication factor in NPC weapon evaluation. ([#83305](https://github.com/CleverRaven/Cataclysm-DDA/pull/83305))
 * Fix gas grenades ([#83279](https://github.com/CleverRaven/Cataclysm-DDA/pull/83279))

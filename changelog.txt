@@ -3,6 +3,12 @@
 Cataclysm-DDA experimental build 2025-10-20-0827 (6ca3b1b)
 * Minor audits to beach furniture (#83382)
 
+Cataclysm-DDA experimental build 2025-10-20-0953 (fef027e)
+* Supernatural Races can't use purifier: fix tests (#83380)
+
+Cataclysm-DDA experimental build 2025-10-20-0827 (6ca3b1b)
+* Minor audits to beach furniture (#83382)
+
 Cataclysm-DDA experimental build 2025-10-19-2237 (726816a)
 * Prevent segfault when cancelling butchery (#83385)
 
@@ -112,8 +118,6 @@ Cataclysm-DDA experimental build 2025-10-15-1735 (e984bba)
 Cataclysm-DDA experimental build 2025-10-15-0629 (678fb5b)
 * Routine i18n updates on 11 October 2025 (#83256)
 * Allow inverting lake generation, specifying generated lake terrains (#83293)
-
-Cataclysm-DDA experimental build 2025-10-15-0507 (5d4115f)
 * READY dimensional travel for vehicles (#83266)
 * Cap multiplication factor in NPC weapon evaluation. (#83305)
 * Fix gas grenades (#83279)
