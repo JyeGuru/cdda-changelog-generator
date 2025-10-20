@@ -1,3 +1,7 @@
+* Monsters forcing their way through bushes/SHARP terrain trample the terrain (#83374)
+
+Cataclysm-DDA experimental build 2025-10-20-2251 (1499914)
+* [Magiclysm] Fleshwarper overhaul (#83396)
 
 Cataclysm-DDA experimental build 2025-10-20-2114 (e02458a)
 * [MoM] Fix Clairsentient hobby description (#83394)
@@ -106,8 +110,6 @@ Cataclysm-DDA experimental build 2025-10-16-1443 (731730a)
 * Make mutation by radiation default to off (#83284)
 * Move game io functions from game.cpp to game_io.cpp (#83285)
 * Move degrade/damage/age/fault functions from item.cpp to item_degrade.cpp (#83278)
-
-Cataclysm-DDA experimental build 2025-10-16-1313 (e1143ba)
 * Fix item disassembly doc formatting (#83322)
 * [MoM] Add Consciousness Blip portal storm effect (#83290)
 * Few translation fixes (#83317)
@@ -150,4 +152,3 @@ Cataclysm-DDA experimental build 2025-10-16-1313 (e1143ba)
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye (#83236)
 * Don't filter ineligible artifacts from game uis (#83238)
 * [MoM] Matrix crystal active abilities require wielding (#83232)
-* Prevent yugg attacks from being translatable (#83230)

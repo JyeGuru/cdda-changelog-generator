@@ -1,3 +1,10 @@
+* Monsters forcing their way through bushes/SHARP terrain trample the terrain ([#83374](https://github.com/CleverRaven/Cataclysm-DDA/pull/83374))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-20-2251 ([1499914](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-2251))
+
+* [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
 
 ---
 
@@ -190,11 +197,6 @@
 * Make mutation by radiation default to off ([#83284](https://github.com/CleverRaven/Cataclysm-DDA/pull/83284))
 * Move game io functions from game.cpp to game_io.cpp ([#83285](https://github.com/CleverRaven/Cataclysm-DDA/pull/83285))
 * Move degrade/damage/age/fault functions from item.cpp to item_degrade.cpp ([#83278](https://github.com/CleverRaven/Cataclysm-DDA/pull/83278))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-16-1313 ([e1143ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1313))
-
 * Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))
 * [MoM] Add Consciousness Blip portal storm effect ([#83290](https://github.com/CleverRaven/Cataclysm-DDA/pull/83290))
 * Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
@@ -237,4 +239,3 @@
 * `bye_message_override` field with value of "<null>" make npcs not say goodbye ([#83236](https://github.com/CleverRaven/Cataclysm-DDA/pull/83236))
 * Don't filter ineligible artifacts from game uis ([#83238](https://github.com/CleverRaven/Cataclysm-DDA/pull/83238))
 * [MoM] Matrix crystal active abilities require wielding ([#83232](https://github.com/CleverRaven/Cataclysm-DDA/pull/83232))
-* Prevent yugg attacks from being translatable ([#83230](https://github.com/CleverRaven/Cataclysm-DDA/pull/83230))
