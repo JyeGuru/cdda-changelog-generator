@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-21-0603 ([9649249](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-0603))
+
 * Adjusted weight + freeze temp of foul acidic blood ([#83399](https://github.com/CleverRaven/Cataclysm-DDA/pull/83399))
 * Weekly Changelog 2025-10-13 to 2025-10-20 ([#83397](https://github.com/CleverRaven/Cataclysm-DDA/pull/83397))
 
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-10-17-0026 ([e47b640](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0026))
 
 * Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-16-1825 ([ea512d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1825))
-
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
 * Make smartphone recovery interruptable ([#83331](https://github.com/CleverRaven/Cataclysm-DDA/pull/83331))
 * [Magiclysm] Rework crystallized mana from mana crystals ([#83299](https://github.com/CleverRaven/Cataclysm-DDA/pull/83299))
