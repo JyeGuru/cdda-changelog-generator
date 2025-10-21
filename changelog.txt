@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-21-0036 (c1a6f99)
 * Monsters forcing their way through bushes/SHARP terrain trample the terrain (#83374)
 
 Cataclysm-DDA experimental build 2025-10-20-2251 (1499914)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2025-10-16-1825 (ea512d8)
 
 Cataclysm-DDA experimental build 2025-10-16-1723 (fdbb786)
 * [Magiclysm] Rework crystallized mana from mana crystals (#83299)
-
-Cataclysm-DDA experimental build 2025-10-16-1443 (731730a)
 * Cardboard Roll category change (#83319)
 * Exclude some strings from translations (#83325)
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition (#83328)

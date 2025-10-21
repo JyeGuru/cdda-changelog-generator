@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-21-0036 ([c1a6f99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-0036))
+
 * Monsters forcing their way through bushes/SHARP terrain trample the terrain ([#83374](https://github.com/CleverRaven/Cataclysm-DDA/pull/83374))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-10-16-1723 ([fdbb786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1723))
 
 * [Magiclysm] Rework crystallized mana from mana crystals ([#83299](https://github.com/CleverRaven/Cataclysm-DDA/pull/83299))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-16-1443 ([731730a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-16-1443))
-
 * Cardboard Roll category change ([#83319](https://github.com/CleverRaven/Cataclysm-DDA/pull/83319))
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
