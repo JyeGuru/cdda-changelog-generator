@@ -237,5 +237,4 @@
 * Recontextualize atomic powered tools  ([#83244](https://github.com/CleverRaven/Cataclysm-DDA/pull/83244))
 * Activate menu fix for non-relic items ([#83245](https://github.com/CleverRaven/Cataclysm-DDA/pull/83245))
 * [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
-* `bye_message_override` field with value of "<null>" make npcs not say goodbye ([#83236](https://github.com/CleverRaven/Cataclysm-DDA/pull/83236))
 * Don't filter ineligible artifacts from game uis ([#83238](https://github.com/CleverRaven/Cataclysm-DDA/pull/83238))
