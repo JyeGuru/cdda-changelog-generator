@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-21-2145 ([27c572f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-2145))
+
 * Make ammo craft skill sensible.  ([#83404](https://github.com/CleverRaven/Cataclysm-DDA/pull/83404))
 
 ---
@@ -183,11 +188,6 @@
 
 * fix spellcasting_adjustment('caster_level'), [Sorcerer] Makes Sorcerer only boost Magiclysm and Sorcerer spells, add 2 more spells from Magiclysm ([#83316](https://github.com/CleverRaven/Cataclysm-DDA/pull/83316))
 * Add debug command to print overmap noise layers ([#83332](https://github.com/CleverRaven/Cataclysm-DDA/pull/83332))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-17-0026 ([e47b640](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0026))
-
 * Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
 * Make smartphone recovery interruptable ([#83331](https://github.com/CleverRaven/Cataclysm-DDA/pull/83331))
