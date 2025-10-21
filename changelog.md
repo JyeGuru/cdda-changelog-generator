@@ -1,3 +1,4 @@
+* Make ammo craft skill sensible.  ([#83404](https://github.com/CleverRaven/Cataclysm-DDA/pull/83404))
 
 ---
 
@@ -219,7 +220,6 @@
 * [MoM] Add more knack contemplation recipes ([#83286](https://github.com/CleverRaven/Cataclysm-DDA/pull/83286))
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
-* Move more external options to region settings ([#83237](https://github.com/CleverRaven/Cataclysm-DDA/pull/83237))
 * Fix compilation error on gcc 14.2.0 ([#83260](https://github.com/CleverRaven/Cataclysm-DDA/pull/83260))
 * fix dialogue trying to pick nonexistent NPC ([#83252](https://github.com/CleverRaven/Cataclysm-DDA/pull/83252))
 * Move overmap special functions from overmap.cpp to multiple files ([#83265](https://github.com/CleverRaven/Cataclysm-DDA/pull/83265))
