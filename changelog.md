@@ -1,3 +1,17 @@
+* Switch (rechargeable) and (disposable) for batteries ([#83333](https://github.com/CleverRaven/Cataclysm-DDA/pull/83333))
+* Bunny tails are part of bunny suits ([#83357](https://github.com/CleverRaven/Cataclysm-DDA/pull/83357))
+* Move character knowledge functions from character.cpp to character_knowledge.cpp ([#83391](https://github.com/CleverRaven/Cataclysm-DDA/pull/83391))
+* Update string extractor P1 ([#83371](https://github.com/CleverRaven/Cataclysm-DDA/pull/83371))
+* More T-shirts ([#83381](https://github.com/CleverRaven/Cataclysm-DDA/pull/83381))
+* Allow magazines in guns/tools to regenerate ammo ([#83401](https://github.com/CleverRaven/Cataclysm-DDA/pull/83401))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-10-22-0304 ([b374081](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-22-0304))
+
+* Aftershock: Large bugfixing round ([#83402](https://github.com/CleverRaven/Cataclysm-DDA/pull/83402))
+* [MoM] Fix Intuitive Artistry double-dipping ([#83409](https://github.com/CleverRaven/Cataclysm-DDA/pull/83409))
+* [Aftershock] Add the Sibyl profession to the Esper scenario, add precognitive powers ([#83300](https://github.com/CleverRaven/Cataclysm-DDA/pull/83300))
 * Don't report butchery if things that aren't present + ([#83412](https://github.com/CleverRaven/Cataclysm-DDA/pull/83412))
 
 ---
@@ -182,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-10-17-0558 ([88a7a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0558))
 
 * Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-17-0351 ([e576e3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0351))
-
 * glass shiv audit ([#83289](https://github.com/CleverRaven/Cataclysm-DDA/pull/83289))
 * fix spellcasting_adjustment('caster_level'), [Sorcerer] Makes Sorcerer only boost Magiclysm and Sorcerer spells, add 2 more spells from Magiclysm ([#83316](https://github.com/CleverRaven/Cataclysm-DDA/pull/83316))
 * Add debug command to print overmap noise layers ([#83332](https://github.com/CleverRaven/Cataclysm-DDA/pull/83332))
@@ -209,7 +218,6 @@
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
 * Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
 * Clear faults after every test shot in vehicle_turret test ([#83312](https://github.com/CleverRaven/Cataclysm-DDA/pull/83312))
-* Routine i18n updates on 11 October 2025 ([#83256](https://github.com/CleverRaven/Cataclysm-DDA/pull/83256))
 * Allow inverting lake generation, specifying generated lake terrains ([#83293](https://github.com/CleverRaven/Cataclysm-DDA/pull/83293))
 * READY dimensional travel for vehicles ([#83266](https://github.com/CleverRaven/Cataclysm-DDA/pull/83266))
 * Cap multiplication factor in NPC weapon evaluation. ([#83305](https://github.com/CleverRaven/Cataclysm-DDA/pull/83305))
@@ -223,19 +231,11 @@
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
 * Fix compilation error on gcc 14.2.0 ([#83260](https://github.com/CleverRaven/Cataclysm-DDA/pull/83260))
-* fix dialogue trying to pick nonexistent NPC ([#83252](https://github.com/CleverRaven/Cataclysm-DDA/pull/83252))
 * Move overmap special functions from overmap.cpp to multiple files ([#83265](https://github.com/CleverRaven/Cataclysm-DDA/pull/83265))
 * Don't arbitrarily turn crops into steel bushes ([#83272](https://github.com/CleverRaven/Cataclysm-DDA/pull/83272))
 * Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
-* Split game tile info from game.cpp into game_ui_tile_info.cpp ([#83248](https://github.com/CleverRaven/Cataclysm-DDA/pull/83248))
 * [MoM] Delete more obsolete stuff ([#83267](https://github.com/CleverRaven/Cataclysm-DDA/pull/83267))
 * Fix balthazar eoc checks ([#83264](https://github.com/CleverRaven/Cataclysm-DDA/pull/83264))
-* Fix debug writing for global variables ([#83254](https://github.com/CleverRaven/Cataclysm-DDA/pull/83254))
 * Update IN_REPO_MODS.md for mods with dependencies ([#83257](https://github.com/CleverRaven/Cataclysm-DDA/pull/83257))
-* Non-leather spear strap ([#83250](https://github.com/CleverRaven/Cataclysm-DDA/pull/83250))
 * Remove modded migrations/obsoletions marked for removal after 0.I ([#83259](https://github.com/CleverRaven/Cataclysm-DDA/pull/83259))
-* Fix balthazar eoc checks ([#83253](https://github.com/CleverRaven/Cataclysm-DDA/pull/83253))
 * Add a FMS entry for stat training ([#83258](https://github.com/CleverRaven/Cataclysm-DDA/pull/83258))
-* Recontextualize atomic powered tools  ([#83244](https://github.com/CleverRaven/Cataclysm-DDA/pull/83244))
-* Activate menu fix for non-relic items ([#83245](https://github.com/CleverRaven/Cataclysm-DDA/pull/83245))
-* [MoM] Electrokinetic crystal artifacts ([#83243](https://github.com/CleverRaven/Cataclysm-DDA/pull/83243))
