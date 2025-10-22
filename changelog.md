@@ -181,11 +181,6 @@
 
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
 * Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-17-1246 ([c2b1e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-1246))
-
 * Add NO_BODY_HEAT flag for characters who don't show up on infrared ([#83336](https://github.com/CleverRaven/Cataclysm-DDA/pull/83336))
 * Update uncraft recipes for MOLLE sustainment pouch and deployment bag ([#83321](https://github.com/CleverRaven/Cataclysm-DDA/pull/83321))
 * Adjust manhacks presence ([#83308](https://github.com/CleverRaven/Cataclysm-DDA/pull/83308))

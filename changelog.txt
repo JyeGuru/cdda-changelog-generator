@@ -97,8 +97,6 @@ Cataclysm-DDA experimental build 2025-10-17-1600 (64366e8)
 Cataclysm-DDA experimental build 2025-10-17-1403 (7474557)
 * Pruning the old ``to-hit`` syntax - Part Final (#83355)
 * Remove fabric cutting from glass shivs (#83353)
-
-Cataclysm-DDA experimental build 2025-10-17-1246 (c2b1e40)
 * Add NO_BODY_HEAT flag for characters who don't show up on infrared (#83336)
 * Update uncraft recipes for MOLLE sustainment pouch and deployment bag (#83321)
 * Adjust manhacks presence (#83308)
