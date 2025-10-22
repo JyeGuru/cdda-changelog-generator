@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-22-0354 ([ee0ba7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-22-0354))
+
 * Switch (rechargeable) and (disposable) for batteries ([#83333](https://github.com/CleverRaven/Cataclysm-DDA/pull/83333))
 * Bunny tails are part of bunny suits ([#83357](https://github.com/CleverRaven/Cataclysm-DDA/pull/83357))
 * Move character knowledge functions from character.cpp to character_knowledge.cpp ([#83391](https://github.com/CleverRaven/Cataclysm-DDA/pull/83391))
@@ -190,11 +195,6 @@
 * Fix a lot of markdown tables ([#83342](https://github.com/CleverRaven/Cataclysm-DDA/pull/83342))
 * Remove semicolons after namespace ([#83346](https://github.com/CleverRaven/Cataclysm-DDA/pull/83346))
 * Better wheelchair wheels name for wheelchair wheels ([#83343](https://github.com/CleverRaven/Cataclysm-DDA/pull/83343))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-17-0558 ([88a7a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-0558))
-
 * Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
 * glass shiv audit ([#83289](https://github.com/CleverRaven/Cataclysm-DDA/pull/83289))
 * fix spellcasting_adjustment('caster_level'), [Sorcerer] Makes Sorcerer only boost Magiclysm and Sorcerer spells, add 2 more spells from Magiclysm ([#83316](https://github.com/CleverRaven/Cataclysm-DDA/pull/83316))
