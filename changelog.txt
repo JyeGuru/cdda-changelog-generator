@@ -1,3 +1,4 @@
+* [XE] Fix Bloodthorn gaining stolen blood when bleeding (#83410)
 
 Cataclysm-DDA experimental build 2025-10-22-0354 (ee0ba7f)
 * Switch (rechargeable) and (disposable) for batteries (#83333)
@@ -149,6 +150,5 @@ Cataclysm-DDA experimental build 2025-10-17-0651 (bd368b4)
 * Prevent a static initialization order fiasco (#83276)
 * [MoM] Delete more obsolete stuff (#83267)
 * Fix balthazar eoc checks (#83264)
-* Update IN_REPO_MODS.md for mods with dependencies (#83257)
 * Remove modded migrations/obsoletions marked for removal after 0.I (#83259)
 * Add a FMS entry for stat training (#83258)

@@ -1,3 +1,4 @@
+* [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
 
 ---
 
@@ -236,6 +237,5 @@
 * Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
 * [MoM] Delete more obsolete stuff ([#83267](https://github.com/CleverRaven/Cataclysm-DDA/pull/83267))
 * Fix balthazar eoc checks ([#83264](https://github.com/CleverRaven/Cataclysm-DDA/pull/83264))
-* Update IN_REPO_MODS.md for mods with dependencies ([#83257](https://github.com/CleverRaven/Cataclysm-DDA/pull/83257))
 * Remove modded migrations/obsoletions marked for removal after 0.I ([#83259](https://github.com/CleverRaven/Cataclysm-DDA/pull/83259))
 * Add a FMS entry for stat training ([#83258](https://github.com/CleverRaven/Cataclysm-DDA/pull/83258))
