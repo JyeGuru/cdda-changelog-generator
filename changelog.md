@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-23-1650 ([09cc4de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-1650))
+
+* [Bombastic Perks] Add the Closetland perk ([#83430](https://github.com/CleverRaven/Cataclysm-DDA/pull/83430))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-23-1232 ([ed4c3d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-1232))
 
 * Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-10-18-0457 ([4846af0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-0457))
 
 * [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-18-0002 ([55d7f8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-0002))
-
 * Fix map extra spawning in Backrooms ([#83367](https://github.com/CleverRaven/Cataclysm-DDA/pull/83367))
 * Less mines ([#83360](https://github.com/CleverRaven/Cataclysm-DDA/pull/83360))
 * Use all edible tallows for cooking requirements ([#83341](https://github.com/CleverRaven/Cataclysm-DDA/pull/83341))
@@ -228,7 +229,6 @@
 * [MoM] Add more knack contemplation recipes ([#83286](https://github.com/CleverRaven/Cataclysm-DDA/pull/83286))
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
-* Move overmap special functions from overmap.cpp to multiple files ([#83265](https://github.com/CleverRaven/Cataclysm-DDA/pull/83265))
 * Don't arbitrarily turn crops into steel bushes ([#83272](https://github.com/CleverRaven/Cataclysm-DDA/pull/83272))
 * Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
 * [MoM] Delete more obsolete stuff ([#83267](https://github.com/CleverRaven/Cataclysm-DDA/pull/83267))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-23-1650 (09cc4de)
+* [Bombastic Perks] Add the Closetland perk (#83430)
+
 Cataclysm-DDA experimental build 2025-10-23-1232 (ed4c3d5)
 * Changing from heat_item to use heat_solid_items instead (#83415)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-10-18-1432 (76f8a22)
 
 Cataclysm-DDA experimental build 2025-10-18-0457 (4846af0)
 * [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait (#83362)
-
-Cataclysm-DDA experimental build 2025-10-18-0002 (55d7f8e)
 * Fix map extra spawning in Backrooms (#83367)
 * Less mines (#83360)
 * Use all edible tallows for cooking requirements (#83341)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-10-18-0002 (55d7f8e)
 * [MoM] Add more knack contemplation recipes (#83286)
 * Jabberwock buffs (#83288)
 * Move character health functions from character.cpp to character_health.cpp (#83270)
-* Move overmap special functions from overmap.cpp to multiple files (#83265)
 * Don't arbitrarily turn crops into steel bushes (#83272)
 * Prevent a static initialization order fiasco (#83276)
 * [MoM] Delete more obsolete stuff (#83267)
