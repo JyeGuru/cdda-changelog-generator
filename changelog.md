@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-23-1232 ([ed4c3d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-1232))
+
+* Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-23-0439 ([cd2bf31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-0439))
 
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-10-18-0002 ([55d7f8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-0002))
 
 * Fix map extra spawning in Backrooms ([#83367](https://github.com/CleverRaven/Cataclysm-DDA/pull/83367))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-17-2210 ([63c7e00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-2210))
-
 * Less mines ([#83360](https://github.com/CleverRaven/Cataclysm-DDA/pull/83360))
 * Use all edible tallows for cooking requirements ([#83341](https://github.com/CleverRaven/Cataclysm-DDA/pull/83341))
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
@@ -231,4 +232,3 @@
 * Don't arbitrarily turn crops into steel bushes ([#83272](https://github.com/CleverRaven/Cataclysm-DDA/pull/83272))
 * Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
 * [MoM] Delete more obsolete stuff ([#83267](https://github.com/CleverRaven/Cataclysm-DDA/pull/83267))
-* Fix balthazar eoc checks ([#83264](https://github.com/CleverRaven/Cataclysm-DDA/pull/83264))
