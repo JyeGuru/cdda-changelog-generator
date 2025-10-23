@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-23-0439 ([cd2bf31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-0439))
+
+* Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-22-1656 ([3913936](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-22-1656))
 
 * Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-10-17-2210 ([63c7e00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-2210))
 
 * Less mines ([#83360](https://github.com/CleverRaven/Cataclysm-DDA/pull/83360))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-17-1600 ([64366e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-17-1600))
-
 * Use all edible tallows for cooking requirements ([#83341](https://github.com/CleverRaven/Cataclysm-DDA/pull/83341))
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
 * Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
@@ -204,7 +205,6 @@
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
 * Move overmap terrain content from overmap.cpp to overmap_terrain.cpp ([#83294](https://github.com/CleverRaven/Cataclysm-DDA/pull/83294))
-* Minor gui tweaks to mission UI ([#83262](https://github.com/CleverRaven/Cataclysm-DDA/pull/83262))
 * Debug end screen ([#83271](https://github.com/CleverRaven/Cataclysm-DDA/pull/83271))
 * Make mutation by radiation default to off ([#83284](https://github.com/CleverRaven/Cataclysm-DDA/pull/83284))
 * Move game io functions from game.cpp to game_io.cpp ([#83285](https://github.com/CleverRaven/Cataclysm-DDA/pull/83285))
