@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-24-1209 ([cf29719](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-24-1209))
+
+* Fix EoC docs formatting ([#83455](https://github.com/CleverRaven/Cataclysm-DDA/pull/83455))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-24-0315 ([3d50323](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-24-0315))
 
 * [XE] New vampire blood art refinements ([#83439](https://github.com/CleverRaven/Cataclysm-DDA/pull/83439))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-10-18-1602 ([d28a91a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-1602))
 
 * Improve uncraft test ([#83365](https://github.com/CleverRaven/Cataclysm-DDA/pull/83365))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-18-1432 ([76f8a22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-1432))
-
 * Routine i18n updates on 18 October 2025 ([#83369](https://github.com/CleverRaven/Cataclysm-DDA/pull/83369))
 * [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
 * Fix map extra spawning in Backrooms ([#83367](https://github.com/CleverRaven/Cataclysm-DDA/pull/83367))
@@ -231,4 +232,3 @@
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
 * Don't arbitrarily turn crops into steel bushes ([#83272](https://github.com/CleverRaven/Cataclysm-DDA/pull/83272))
 * Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
-* [MoM] Delete more obsolete stuff ([#83267](https://github.com/CleverRaven/Cataclysm-DDA/pull/83267))
