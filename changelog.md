@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-24-1855 ([16d2b60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-24-1855))
+
+* Switch around damage values for hedge trimmers ([#83354](https://github.com/CleverRaven/Cataclysm-DDA/pull/83354))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-24-1209 ([cf29719](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-24-1209))
 
 * Fix EoC docs formatting ([#83455](https://github.com/CleverRaven/Cataclysm-DDA/pull/83455))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-10-19-0321 ([d2a12ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-0321))
 
 * Fix some powdered milk spawns ([#83359](https://github.com/CleverRaven/Cataclysm-DDA/pull/83359))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-18-1602 ([d28a91a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-18-1602))
-
 * Improve uncraft test ([#83365](https://github.com/CleverRaven/Cataclysm-DDA/pull/83365))
 * Routine i18n updates on 18 October 2025 ([#83369](https://github.com/CleverRaven/Cataclysm-DDA/pull/83369))
 * [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
@@ -226,7 +227,6 @@
 * Add comment about survivor start ([#83303](https://github.com/CleverRaven/Cataclysm-DDA/pull/83303))
 * Being stunned while you have the LEVITATION flag means you fall ([#83291](https://github.com/CleverRaven/Cataclysm-DDA/pull/83291))
 * [Magiclysm] Mystic glade rework ([#83292](https://github.com/CleverRaven/Cataclysm-DDA/pull/83292))
-* Fix debugmsg ([#83268](https://github.com/CleverRaven/Cataclysm-DDA/pull/83268))
 * [MoM] Add more knack contemplation recipes ([#83286](https://github.com/CleverRaven/Cataclysm-DDA/pull/83286))
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
 * Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
