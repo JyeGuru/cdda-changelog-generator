@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-25-2041 ([c30e3e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-2041))
+
+* Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-25-0651 ([b20e933](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0651))
 
 * [Xedra Evolved ] Fix Gracken Stomachs ([#83417](https://github.com/CleverRaven/Cataclysm-DDA/pull/83417))
@@ -106,7 +112,6 @@
 
 * Aftershock: Large bugfixing round ([#83402](https://github.com/CleverRaven/Cataclysm-DDA/pull/83402))
 * [MoM] Fix Intuitive Artistry double-dipping ([#83409](https://github.com/CleverRaven/Cataclysm-DDA/pull/83409))
-* [Aftershock] Add the Sibyl profession to the Esper scenario, add precognitive powers ([#83300](https://github.com/CleverRaven/Cataclysm-DDA/pull/83300))
 * Don't report butchery if things that aren't present + ([#83412](https://github.com/CleverRaven/Cataclysm-DDA/pull/83412))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-10-20-0953 ([fef027e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-0953))
 
 * Supernatural Races can't use purifier: fix tests ([#83380](https://github.com/CleverRaven/Cataclysm-DDA/pull/83380))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-20-0827 ([6ca3b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-0827))
-
 * Minor audits to beach furniture ([#83382](https://github.com/CleverRaven/Cataclysm-DDA/pull/83382))
 * Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
 * Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
