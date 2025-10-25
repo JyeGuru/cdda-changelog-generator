@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-25-0204 ([14d6570](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0204))
+
+* [Bombastic Perks] Armor of Dreams/Closetland interaction ([#83466](https://github.com/CleverRaven/Cataclysm-DDA/pull/83466))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-24-1855 ([16d2b60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-24-1855))
 
 * Switch around damage values for hedge trimmers ([#83354](https://github.com/CleverRaven/Cataclysm-DDA/pull/83354))
@@ -168,11 +174,6 @@
 * [MoM] Increase benefit of held matrix crystal on using psionics ([#83334](https://github.com/CleverRaven/Cataclysm-DDA/pull/83334))
 * Allow for bigger vehicle names, add current one to text input ([#83345](https://github.com/CleverRaven/Cataclysm-DDA/pull/83345))
 * Extend base butchery times ([#83376](https://github.com/CleverRaven/Cataclysm-DDA/pull/83376))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-19-0439 ([112ad64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-0439))
-
 * Clean up TropiCata regional settings ([#83377](https://github.com/CleverRaven/Cataclysm-DDA/pull/83377))
 * Fix some powdered milk spawns ([#83359](https://github.com/CleverRaven/Cataclysm-DDA/pull/83359))
 * Improve uncraft test ([#83365](https://github.com/CleverRaven/Cataclysm-DDA/pull/83365))
@@ -224,6 +225,5 @@
 * [Magiclysm] Mystic glade rework ([#83292](https://github.com/CleverRaven/Cataclysm-DDA/pull/83292))
 * [MoM] Add more knack contemplation recipes ([#83286](https://github.com/CleverRaven/Cataclysm-DDA/pull/83286))
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
-* Move character health functions from character.cpp to character_health.cpp ([#83270](https://github.com/CleverRaven/Cataclysm-DDA/pull/83270))
 * Don't arbitrarily turn crops into steel bushes ([#83272](https://github.com/CleverRaven/Cataclysm-DDA/pull/83272))
 * Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
