@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-25-0512 (bd69c6a)
 * Make name and description of variants optional (#83434)
 * Make doors to apartments locked (#83436)
 * [Aftershock] Change the Esper Inheritance background into the Noetic Scion background (#83407)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2025-10-20-0827 (6ca3b1b)
 
 Cataclysm-DDA experimental build 2025-10-19-2237 (726816a)
 * Prevent segfault when cancelling butchery (#83385)
-
-Cataclysm-DDA experimental build 2025-10-19-2029 (51324ee)
 * Show progress percent when butchering (#83386)
 * Fix roads going nowhere (#83378)
 * Move inventory functions from character.cpp to existing file character_inventory.cpp (#83309)

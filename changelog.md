@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-25-0512 ([bd69c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0512))
+
 * Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
 * Make doors to apartments locked ([#83436](https://github.com/CleverRaven/Cataclysm-DDA/pull/83436))
 * [Aftershock] Change the Esper Inheritance background into the Noetic Scion background ([#83407](https://github.com/CleverRaven/Cataclysm-DDA/pull/83407))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-10-19-2237 ([726816a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-2237))
 
 * Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-19-2029 ([51324ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-2029))
-
 * Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
 * Move inventory functions from character.cpp to existing file character_inventory.cpp ([#83309](https://github.com/CleverRaven/Cataclysm-DDA/pull/83309))
