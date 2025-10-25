@@ -225,5 +225,4 @@
 * Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
 * Clear faults after every test shot in vehicle_turret test ([#83312](https://github.com/CleverRaven/Cataclysm-DDA/pull/83312))
 * Cap multiplication factor in NPC weapon evaluation. ([#83305](https://github.com/CleverRaven/Cataclysm-DDA/pull/83305))
-* Fix description counts on ammo boxes ([#83296](https://github.com/CleverRaven/Cataclysm-DDA/pull/83296))
 * Add comment about survivor start ([#83303](https://github.com/CleverRaven/Cataclysm-DDA/pull/83303))
