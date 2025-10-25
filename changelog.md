@@ -1,3 +1,4 @@
+* [Xedra Evolved ] Fix Gracken Stomachs ([#83417](https://github.com/CleverRaven/Cataclysm-DDA/pull/83417))
 
 ---
 
@@ -215,7 +216,6 @@
 * Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
 * Make smartphone recovery interruptable ([#83331](https://github.com/CleverRaven/Cataclysm-DDA/pull/83331))
-* [Magiclysm] Rework crystallized mana from mana crystals ([#83299](https://github.com/CleverRaven/Cataclysm-DDA/pull/83299))
 * Cardboard Roll category change ([#83319](https://github.com/CleverRaven/Cataclysm-DDA/pull/83319))
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))

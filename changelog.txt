@@ -1,3 +1,4 @@
+* [Xedra Evolved ] Fix Gracken Stomachs (#83417)
 
 Cataclysm-DDA experimental build 2025-10-25-0512 (bd69c6a)
 * Make name and description of variants optional (#83434)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2025-10-19-2237 (726816a)
 * Move monster constructor initializations to header (#83335)
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements (#83323)
 * Make smartphone recovery interruptable (#83331)
-* [Magiclysm] Rework crystallized mana from mana crystals (#83299)
 * Cardboard Roll category change (#83319)
 * Exclude some strings from translations (#83325)
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition (#83328)
