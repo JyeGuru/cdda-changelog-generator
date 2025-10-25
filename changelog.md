@@ -1,3 +1,21 @@
+* Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
+* Make doors to apartments locked ([#83436](https://github.com/CleverRaven/Cataclysm-DDA/pull/83436))
+* [Aftershock] Change the Esper Inheritance background into the Noetic Scion background ([#83407](https://github.com/CleverRaven/Cataclysm-DDA/pull/83407))
+* add bone buttons and consolidate wood sealing requirements ([#83440](https://github.com/CleverRaven/Cataclysm-DDA/pull/83440))
+* [Xedra Evolved] Adjust dhampir bleeding stolen blood EoC ([#83435](https://github.com/CleverRaven/Cataclysm-DDA/pull/83435))
+* Update extractor, part 2 ([#83424](https://github.com/CleverRaven/Cataclysm-DDA/pull/83424))
+* Fix assignment of un-alert monsters to immobile horde map ([#83368](https://github.com/CleverRaven/Cataclysm-DDA/pull/83368))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-25-0408 ([a3c6b93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0408))
+
+* Update name of item "id: high_end_folding_stock_folded" ([#83447](https://github.com/CleverRaven/Cataclysm-DDA/pull/83447))
+* Vehicle installation ignores preferred components ([#83448](https://github.com/CleverRaven/Cataclysm-DDA/pull/83448))
+* [Magiclysm] Fix Smite minimum damage ([#83449](https://github.com/CleverRaven/Cataclysm-DDA/pull/83449))
+* Crude bags use crude recipe ([#83458](https://github.com/CleverRaven/Cataclysm-DDA/pull/83458))
+* Appease clang ([#83437](https://github.com/CleverRaven/Cataclysm-DDA/pull/83437))
+* Quiver tailoring is simple ([#83464](https://github.com/CleverRaven/Cataclysm-DDA/pull/83464))
 
 ---
 
@@ -164,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-10-19-2029 ([51324ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-2029))
 
 * Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-19-1049 ([ca7c319](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-1049))
-
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
 * Move inventory functions from character.cpp to existing file character_inventory.cpp ([#83309](https://github.com/CleverRaven/Cataclysm-DDA/pull/83309))
 * Good spears and polearms use spear shafts no ugly sticks ([#83351](https://github.com/CleverRaven/Cataclysm-DDA/pull/83351))
@@ -197,7 +210,6 @@
 * Remove semicolons after namespace ([#83346](https://github.com/CleverRaven/Cataclysm-DDA/pull/83346))
 * Better wheelchair wheels name for wheelchair wheels ([#83343](https://github.com/CleverRaven/Cataclysm-DDA/pull/83343))
 * Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
-* glass shiv audit ([#83289](https://github.com/CleverRaven/Cataclysm-DDA/pull/83289))
 * fix spellcasting_adjustment('caster_level'), [Sorcerer] Makes Sorcerer only boost Magiclysm and Sorcerer spells, add 2 more spells from Magiclysm ([#83316](https://github.com/CleverRaven/Cataclysm-DDA/pull/83316))
 * Add debug command to print overmap noise layers ([#83332](https://github.com/CleverRaven/Cataclysm-DDA/pull/83332))
 * Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
@@ -207,23 +219,11 @@
 * Cardboard Roll category change ([#83319](https://github.com/CleverRaven/Cataclysm-DDA/pull/83319))
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
-* Move overmap terrain content from overmap.cpp to overmap_terrain.cpp ([#83294](https://github.com/CleverRaven/Cataclysm-DDA/pull/83294))
-* Make mutation by radiation default to off ([#83284](https://github.com/CleverRaven/Cataclysm-DDA/pull/83284))
-* Move game io functions from game.cpp to game_io.cpp ([#83285](https://github.com/CleverRaven/Cataclysm-DDA/pull/83285))
-* Move degrade/damage/age/fault functions from item.cpp to item_degrade.cpp ([#83278](https://github.com/CleverRaven/Cataclysm-DDA/pull/83278))
 * Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))
-* [MoM] Add Consciousness Blip portal storm effect ([#83290](https://github.com/CleverRaven/Cataclysm-DDA/pull/83290))
 * Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
 * Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
 * Clear faults after every test shot in vehicle_turret test ([#83312](https://github.com/CleverRaven/Cataclysm-DDA/pull/83312))
-* Allow inverting lake generation, specifying generated lake terrains ([#83293](https://github.com/CleverRaven/Cataclysm-DDA/pull/83293))
 * Cap multiplication factor in NPC weapon evaluation. ([#83305](https://github.com/CleverRaven/Cataclysm-DDA/pull/83305))
-* Fix gas grenades ([#83279](https://github.com/CleverRaven/Cataclysm-DDA/pull/83279))
 * Fix description counts on ammo boxes ([#83296](https://github.com/CleverRaven/Cataclysm-DDA/pull/83296))
 * Add comment about survivor start ([#83303](https://github.com/CleverRaven/Cataclysm-DDA/pull/83303))
-* Being stunned while you have the LEVITATION flag means you fall ([#83291](https://github.com/CleverRaven/Cataclysm-DDA/pull/83291))
-* [Magiclysm] Mystic glade rework ([#83292](https://github.com/CleverRaven/Cataclysm-DDA/pull/83292))
-* [MoM] Add more knack contemplation recipes ([#83286](https://github.com/CleverRaven/Cataclysm-DDA/pull/83286))
-* Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
-* Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
