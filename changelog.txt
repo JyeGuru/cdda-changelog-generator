@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-25-0651 (b20e933)
 * [Xedra Evolved ] Fix Gracken Stomachs (#83417)
 
 Cataclysm-DDA experimental build 2025-10-25-0512 (bd69c6a)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2025-10-20-0953 (fef027e)
 
 Cataclysm-DDA experimental build 2025-10-20-0827 (6ca3b1b)
 * Minor audits to beach furniture (#83382)
-
-Cataclysm-DDA experimental build 2025-10-19-2237 (726816a)
 * Prevent segfault when cancelling butchery (#83385)
 * Show progress percent when butchering (#83386)
 * Fix roads going nowhere (#83378)

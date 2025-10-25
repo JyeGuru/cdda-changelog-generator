@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-25-0651 ([b20e933](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0651))
+
 * [Xedra Evolved ] Fix Gracken Stomachs ([#83417](https://github.com/CleverRaven/Cataclysm-DDA/pull/83417))
 
 ---
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-10-20-0827 ([6ca3b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-0827))
 
 * Minor audits to beach furniture ([#83382](https://github.com/CleverRaven/Cataclysm-DDA/pull/83382))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-19-2237 ([726816a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-2237))
-
 * Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
 * Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
