@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-25-0314 ([2e0df22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0314))
+
+* Optimize vehicle planting ([#83468](https://github.com/CleverRaven/Cataclysm-DDA/pull/83468))
+* [Bombastic Perks] Add Closetland Paths playstyle perk ([#83469](https://github.com/CleverRaven/Cataclysm-DDA/pull/83469))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-25-0204 ([14d6570](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0204))
 
 * [Bombastic Perks] Armor of Dreams/Closetland interaction ([#83466](https://github.com/CleverRaven/Cataclysm-DDA/pull/83466))
@@ -163,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-10-19-1049 ([ca7c319](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-1049))
 
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-19-0538 ([a03cd56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-19-0538))
-
 * Move inventory functions from character.cpp to existing file character_inventory.cpp ([#83309](https://github.com/CleverRaven/Cataclysm-DDA/pull/83309))
 * Good spears and polearms use spear shafts no ugly sticks ([#83351](https://github.com/CleverRaven/Cataclysm-DDA/pull/83351))
 * Fix fishing on non river/lake-ocean tiles ([#83373](https://github.com/CleverRaven/Cataclysm-DDA/pull/83373))
@@ -206,7 +208,6 @@
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
 * Move overmap terrain content from overmap.cpp to overmap_terrain.cpp ([#83294](https://github.com/CleverRaven/Cataclysm-DDA/pull/83294))
-* Debug end screen ([#83271](https://github.com/CleverRaven/Cataclysm-DDA/pull/83271))
 * Make mutation by radiation default to off ([#83284](https://github.com/CleverRaven/Cataclysm-DDA/pull/83284))
 * Move game io functions from game.cpp to game_io.cpp ([#83285](https://github.com/CleverRaven/Cataclysm-DDA/pull/83285))
 * Move degrade/damage/age/fault functions from item.cpp to item_degrade.cpp ([#83278](https://github.com/CleverRaven/Cataclysm-DDA/pull/83278))
@@ -225,5 +226,4 @@
 * [Magiclysm] Mystic glade rework ([#83292](https://github.com/CleverRaven/Cataclysm-DDA/pull/83292))
 * [MoM] Add more knack contemplation recipes ([#83286](https://github.com/CleverRaven/Cataclysm-DDA/pull/83286))
 * Jabberwock buffs ([#83288](https://github.com/CleverRaven/Cataclysm-DDA/pull/83288))
-* Don't arbitrarily turn crops into steel bushes ([#83272](https://github.com/CleverRaven/Cataclysm-DDA/pull/83272))
 * Prevent a static initialization order fiasco ([#83276](https://github.com/CleverRaven/Cataclysm-DDA/pull/83276))
