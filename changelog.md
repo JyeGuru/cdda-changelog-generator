@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-26-1437 ([4fa5558](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-26-1437))
+
+* Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-10-26-0731 ([79bea6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-26-0731))
 
 * Make smartphone recovery interruptable ([#83337](https://github.com/CleverRaven/Cataclysm-DDA/pull/83337))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-10-20-2114 ([e02458a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-2114))
 
 * [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-20-1844 ([9c9d781](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-1844))
-
 * Bump up dmg size limit in macOS release build ([#83387](https://github.com/CleverRaven/Cataclysm-DDA/pull/83387))
 * Aftershock: Large bugfixing round ([#83379](https://github.com/CleverRaven/Cataclysm-DDA/pull/83379))
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm ([#83393](https://github.com/CleverRaven/Cataclysm-DDA/pull/83393))
@@ -215,5 +216,4 @@
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
 * Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))
-* Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
