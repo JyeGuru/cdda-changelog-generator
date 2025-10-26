@@ -1,3 +1,5 @@
+* Remove obsolete grip mount (#83422)
+* [Innawoods] Leather journal misalignment fix & uncraft (#83428)
 
 Cataclysm-DDA experimental build 2025-10-25-2041 (c30e3e6)
 * Use 64 bit int to read 64 bit int values (#83473)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-10-20-1731 (34d398f)
 
 Cataclysm-DDA experimental build 2025-10-20-1558 (971304f)
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm (#83393)
-
-Cataclysm-DDA experimental build 2025-10-20-0953 (fef027e)
 * Supernatural Races can't use purifier: fix tests (#83380)
 * Minor audits to beach furniture (#83382)
 * Prevent segfault when cancelling butchery (#83385)
@@ -143,5 +143,3 @@ Cataclysm-DDA experimental build 2025-10-20-0953 (fef027e)
 * Tents can be repaired (#83318)
 * Fix default forest and urbanity thresholds (#83315)
 * Clear faults after every test shot in vehicle_turret test (#83312)
-* Cap multiplication factor in NPC weapon evaluation. (#83305)
-* Add comment about survivor start (#83303)

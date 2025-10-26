@@ -1,3 +1,5 @@
+* Remove obsolete grip mount ([#83422](https://github.com/CleverRaven/Cataclysm-DDA/pull/83422))
+* [Innawoods] Leather journal misalignment fix & uncraft ([#83428](https://github.com/CleverRaven/Cataclysm-DDA/pull/83428))
 
 ---
 
@@ -174,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-10-20-1558 ([971304f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-1558))
 
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm ([#83393](https://github.com/CleverRaven/Cataclysm-DDA/pull/83393))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-20-0953 ([fef027e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-0953))
-
 * Supernatural Races can't use purifier: fix tests ([#83380](https://github.com/CleverRaven/Cataclysm-DDA/pull/83380))
 * Minor audits to beach furniture ([#83382](https://github.com/CleverRaven/Cataclysm-DDA/pull/83382))
 * Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
@@ -224,5 +221,3 @@
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
 * Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
 * Clear faults after every test shot in vehicle_turret test ([#83312](https://github.com/CleverRaven/Cataclysm-DDA/pull/83312))
-* Cap multiplication factor in NPC weapon evaluation. ([#83305](https://github.com/CleverRaven/Cataclysm-DDA/pull/83305))
-* Add comment about survivor start ([#83303](https://github.com/CleverRaven/Cataclysm-DDA/pull/83303))
