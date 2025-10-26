@@ -1,3 +1,7 @@
+* Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
+* Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
+* Increase sex toy variety ([#83413](https://github.com/CleverRaven/Cataclysm-DDA/pull/83413))
+* crystalizing sugar can be eaten ([#83441](https://github.com/CleverRaven/Cataclysm-DDA/pull/83441))
 * Remove obsolete grip mount ([#83422](https://github.com/CleverRaven/Cataclysm-DDA/pull/83422))
 * [Innawoods] Leather journal misalignment fix & uncraft ([#83428](https://github.com/CleverRaven/Cataclysm-DDA/pull/83428))
 
@@ -181,7 +185,6 @@
 * Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
 * Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
-* Move inventory functions from character.cpp to existing file character_inventory.cpp ([#83309](https://github.com/CleverRaven/Cataclysm-DDA/pull/83309))
 * Good spears and polearms use spear shafts no ugly sticks ([#83351](https://github.com/CleverRaven/Cataclysm-DDA/pull/83351))
 * Fix fishing on non river/lake-ocean tiles ([#83373](https://github.com/CleverRaven/Cataclysm-DDA/pull/83373))
 * [MoM] Increase benefit of held matrix crystal on using psionics ([#83334](https://github.com/CleverRaven/Cataclysm-DDA/pull/83334))
@@ -199,7 +202,6 @@
 * Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
 * Add NO_BODY_HEAT flag for characters who don't show up on infrared ([#83336](https://github.com/CleverRaven/Cataclysm-DDA/pull/83336))
 * Update uncraft recipes for MOLLE sustainment pouch and deployment bag ([#83321](https://github.com/CleverRaven/Cataclysm-DDA/pull/83321))
-* Adjust manhacks presence ([#83308](https://github.com/CleverRaven/Cataclysm-DDA/pull/83308))
 * Unify condiment bottle spoilage multiplier with other containers ([#83348](https://github.com/CleverRaven/Cataclysm-DDA/pull/83348))
 * Add missing possessive in monster attack log ([#83350](https://github.com/CleverRaven/Cataclysm-DDA/pull/83350))
 * Replace anti-material by anti-materiel ([#83349](https://github.com/CleverRaven/Cataclysm-DDA/pull/83349))
@@ -220,4 +222,3 @@
 * Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
 * Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
-* Clear faults after every test shot in vehicle_turret test ([#83312](https://github.com/CleverRaven/Cataclysm-DDA/pull/83312))
