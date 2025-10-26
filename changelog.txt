@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-26-1847 (6e683b8)
+* Fix missing tilesets in releases (#83486)
+
 Cataclysm-DDA experimental build 2025-10-26-1437 (4fa5558)
 * Updating "military plutonium fuel cell (disposable)"'s plural form (#83485)
 
@@ -141,4 +144,3 @@ Cataclysm-DDA experimental build 2025-10-20-2114 (e02458a)
 * Exclude some strings from translations (#83325)
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition (#83328)
 * Fix item disassembly doc formatting (#83322)
-* Tents can be repaired (#83318)

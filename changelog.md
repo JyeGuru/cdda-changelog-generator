@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-26-1847 ([6e683b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-26-1847))
+
+* Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-26-1437 ([4fa5558](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-26-1437))
 
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
@@ -216,4 +222,3 @@
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
 * Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))
-* Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
