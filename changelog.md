@@ -175,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-10-20-1844 ([9c9d781](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-1844))
 
 * Bump up dmg size limit in macOS release build ([#83387](https://github.com/CleverRaven/Cataclysm-DDA/pull/83387))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-20-1731 ([34d398f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-1731))
-
 * Aftershock: Large bugfixing round ([#83379](https://github.com/CleverRaven/Cataclysm-DDA/pull/83379))
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm ([#83393](https://github.com/CleverRaven/Cataclysm-DDA/pull/83393))
 * Supernatural Races can't use purifier: fix tests ([#83380](https://github.com/CleverRaven/Cataclysm-DDA/pull/83380))
