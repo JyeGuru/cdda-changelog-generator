@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-10-26-0731 ([79bea6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-26-0731))
+
+* Make smartphone recovery interruptable ([#83337](https://github.com/CleverRaven/Cataclysm-DDA/pull/83337))
+* Add clang tidy rule for unicode replacement character ([#83400](https://github.com/CleverRaven/Cataclysm-DDA/pull/83400))
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * Increase sex toy variety ([#83413](https://github.com/CleverRaven/Cataclysm-DDA/pull/83413))
@@ -174,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-10-20-1731 ([34d398f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-1731))
 
 * Aftershock: Large bugfixing round ([#83379](https://github.com/CleverRaven/Cataclysm-DDA/pull/83379))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-20-1558 ([971304f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-1558))
-
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm ([#83393](https://github.com/CleverRaven/Cataclysm-DDA/pull/83393))
 * Supernatural Races can't use purifier: fix tests ([#83380](https://github.com/CleverRaven/Cataclysm-DDA/pull/83380))
 * Minor audits to beach furniture ([#83382](https://github.com/CleverRaven/Cataclysm-DDA/pull/83382))
@@ -210,7 +212,6 @@
 * Remove semicolons after namespace ([#83346](https://github.com/CleverRaven/Cataclysm-DDA/pull/83346))
 * Better wheelchair wheels name for wheelchair wheels ([#83343](https://github.com/CleverRaven/Cataclysm-DDA/pull/83343))
 * Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
-* fix spellcasting_adjustment('caster_level'), [Sorcerer] Makes Sorcerer only boost Magiclysm and Sorcerer spells, add 2 more spells from Magiclysm ([#83316](https://github.com/CleverRaven/Cataclysm-DDA/pull/83316))
 * Add debug command to print overmap noise layers ([#83332](https://github.com/CleverRaven/Cataclysm-DDA/pull/83332))
 * Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
@@ -221,4 +222,3 @@
 * Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))
 * Few translation fixes ([#83317](https://github.com/CleverRaven/Cataclysm-DDA/pull/83317))
 * Tents can be repaired ([#83318](https://github.com/CleverRaven/Cataclysm-DDA/pull/83318))
-* Fix default forest and urbanity thresholds ([#83315](https://github.com/CleverRaven/Cataclysm-DDA/pull/83315))
