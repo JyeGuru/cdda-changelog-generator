@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-27-1257 ([dd71990](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1257))
+
+* Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-27-0333 ([e0dfb3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-0333))
 
 * XE - Change the blood drain EOC to be somewhat less lethal when sleeping and remove vampiric traits on purge ([#83444](https://github.com/CleverRaven/Cataclysm-DDA/pull/83444))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-10-21-0036 ([c1a6f99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-0036))
 
 * Monsters forcing their way through bushes/SHARP terrain trample the terrain ([#83374](https://github.com/CleverRaven/Cataclysm-DDA/pull/83374))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-20-2251 ([1499914](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-2251))
-
 * [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
 * [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
 * Bump up dmg size limit in macOS release build ([#83387](https://github.com/CleverRaven/Cataclysm-DDA/pull/83387))
