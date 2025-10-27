@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-27-2041 ([8ae8e29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-2041))
+
+* [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-27-1651 ([d16ab19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1651))
 
 * Add 50lb flour and sugar bags to the world ([#83471](https://github.com/CleverRaven/Cataclysm-DDA/pull/83471))
@@ -154,12 +160,6 @@
 #### Cataclysm-DDA experimental build 2025-10-22-0535 ([45cbdcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-22-0535))
 
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-22-0354 ([ee0ba7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-22-0354))
-
-* Switch (rechargeable) and (disposable) for batteries ([#83333](https://github.com/CleverRaven/Cataclysm-DDA/pull/83333))
 * Bunny tails are part of bunny suits ([#83357](https://github.com/CleverRaven/Cataclysm-DDA/pull/83357))
 * Move character knowledge functions from character.cpp to character_knowledge.cpp ([#83391](https://github.com/CleverRaven/Cataclysm-DDA/pull/83391))
 * Update string extractor P1 ([#83371](https://github.com/CleverRaven/Cataclysm-DDA/pull/83371))
@@ -179,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-10-22-0234 ([3142474](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-22-0234))
 
 * Innawoods bronze tongs can be made without already having tongs ([#83414](https://github.com/CleverRaven/Cataclysm-DDA/pull/83414))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-21-2145 ([27c572f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-2145))
-
 * Make ammo craft skill sensible.  ([#83404](https://github.com/CleverRaven/Cataclysm-DDA/pull/83404))
 * Adjusted weight + freeze temp of foul acidic blood ([#83399](https://github.com/CleverRaven/Cataclysm-DDA/pull/83399))
 * Weekly Changelog 2025-10-13 to 2025-10-20 ([#83397](https://github.com/CleverRaven/Cataclysm-DDA/pull/83397))
