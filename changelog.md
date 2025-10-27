@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-27-0333 ([e0dfb3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-0333))
+
+* XE - Change the blood drain EOC to be somewhat less lethal when sleeping and remove vampiric traits on purge ([#83444](https://github.com/CleverRaven/Cataclysm-DDA/pull/83444))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-26-1847 ([6e683b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-26-1847))
 
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-10-20-2251 ([1499914](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-2251))
 
 * [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-20-2114 ([e02458a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-20-2114))
-
 * [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
 * Bump up dmg size limit in macOS release build ([#83387](https://github.com/CleverRaven/Cataclysm-DDA/pull/83387))
 * Aftershock: Large bugfixing round ([#83379](https://github.com/CleverRaven/Cataclysm-DDA/pull/83379))
@@ -218,7 +219,6 @@
 * Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
 * Make smartphone recovery interruptable ([#83331](https://github.com/CleverRaven/Cataclysm-DDA/pull/83331))
-* Cardboard Roll category change ([#83319](https://github.com/CleverRaven/Cataclysm-DDA/pull/83319))
 * Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
 * Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))

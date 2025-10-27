@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-27-0333 (e0dfb3e)
+* XE - Change the blood drain EOC to be somewhat less lethal when sleeping and remove vampiric traits on purge (#83444)
+
 Cataclysm-DDA experimental build 2025-10-26-1847 (6e683b8)
 * Fix missing tilesets in releases (#83486)
 
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2025-10-21-0036 (c1a6f99)
 
 Cataclysm-DDA experimental build 2025-10-20-2251 (1499914)
 * [Magiclysm] Fleshwarper overhaul (#83396)
-
-Cataclysm-DDA experimental build 2025-10-20-2114 (e02458a)
 * [MoM] Fix Clairsentient hobby description (#83394)
 * Bump up dmg size limit in macOS release build (#83387)
 * Aftershock: Large bugfixing round (#83379)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2025-10-20-2114 (e02458a)
 * Move monster constructor initializations to header (#83335)
 * Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements (#83323)
 * Make smartphone recovery interruptable (#83331)
-* Cardboard Roll category change (#83319)
 * Exclude some strings from translations (#83325)
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition (#83328)
 * Fix item disassembly doc formatting (#83322)
