@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-27-2241 ([f2b0cde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-2241))
+
+* [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-27-2041 ([8ae8e29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-2041))
 
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
@@ -165,11 +171,6 @@
 * Update string extractor P1 ([#83371](https://github.com/CleverRaven/Cataclysm-DDA/pull/83371))
 * More T-shirts ([#83381](https://github.com/CleverRaven/Cataclysm-DDA/pull/83381))
 * Allow magazines in guns/tools to regenerate ammo ([#83401](https://github.com/CleverRaven/Cataclysm-DDA/pull/83401))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-10-22-0304 ([b374081](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-22-0304))
-
 * Aftershock: Large bugfixing round ([#83402](https://github.com/CleverRaven/Cataclysm-DDA/pull/83402))
 * [MoM] Fix Intuitive Artistry double-dipping ([#83409](https://github.com/CleverRaven/Cataclysm-DDA/pull/83409))
 * Don't report butchery if things that aren't present + ([#83412](https://github.com/CleverRaven/Cataclysm-DDA/pull/83412))
@@ -196,7 +197,6 @@
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
 * Good spears and polearms use spear shafts no ugly sticks ([#83351](https://github.com/CleverRaven/Cataclysm-DDA/pull/83351))
 * Fix fishing on non river/lake-ocean tiles ([#83373](https://github.com/CleverRaven/Cataclysm-DDA/pull/83373))
-* [MoM] Increase benefit of held matrix crystal on using psionics ([#83334](https://github.com/CleverRaven/Cataclysm-DDA/pull/83334))
 * Allow for bigger vehicle names, add current one to text input ([#83345](https://github.com/CleverRaven/Cataclysm-DDA/pull/83345))
 * Extend base butchery times ([#83376](https://github.com/CleverRaven/Cataclysm-DDA/pull/83376))
 * Clean up TropiCata regional settings ([#83377](https://github.com/CleverRaven/Cataclysm-DDA/pull/83377))
