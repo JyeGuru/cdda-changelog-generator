@@ -1,4 +1,17 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-27-1651 ([d16ab19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1651))
+
+* Add 50lb flour and sugar bags to the world ([#83471](https://github.com/CleverRaven/Cataclysm-DDA/pull/83471))
+* [ Xedra Evolved ] Continue on the XE CI Journey ([#83442](https://github.com/CleverRaven/Cataclysm-DDA/pull/83442))
+* [ Xedra Evolved ] Fix various eye limbs having no armor ([#83418](https://github.com/CleverRaven/Cataclysm-DDA/pull/83418))
 * Update string extractor, part 3 ([#83476](https://github.com/CleverRaven/Cataclysm-DDA/pull/83476))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-27-1534 ([3f32164](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1534))
+
 * Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
 * Fix .460 S&W description ([#83478](https://github.com/CleverRaven/Cataclysm-DDA/pull/83478))
 * Fix book traits modifiers not being applied ([#83482](https://github.com/CleverRaven/Cataclysm-DDA/pull/83482))
@@ -172,18 +185,8 @@
 #### Cataclysm-DDA experimental build 2025-10-21-2145 ([27c572f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-2145))
 
 * Make ammo craft skill sensible.  ([#83404](https://github.com/CleverRaven/Cataclysm-DDA/pull/83404))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-21-0603 ([9649249](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-0603))
-
 * Adjusted weight + freeze temp of foul acidic blood ([#83399](https://github.com/CleverRaven/Cataclysm-DDA/pull/83399))
 * Weekly Changelog 2025-10-13 to 2025-10-20 ([#83397](https://github.com/CleverRaven/Cataclysm-DDA/pull/83397))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-21-0445 ([2f2cf92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-0445))
-
 * Make fragile armors degrade more frequently ([#83392](https://github.com/CleverRaven/Cataclysm-DDA/pull/83392))
 * Monsters forcing their way through bushes/SHARP terrain trample the terrain ([#83374](https://github.com/CleverRaven/Cataclysm-DDA/pull/83374))
 * [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
@@ -220,7 +223,4 @@
 * Remove semicolons after namespace ([#83346](https://github.com/CleverRaven/Cataclysm-DDA/pull/83346))
 * Better wheelchair wheels name for wheelchair wheels ([#83343](https://github.com/CleverRaven/Cataclysm-DDA/pull/83343))
 * Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
-* Add debug command to print overmap noise layers ([#83332](https://github.com/CleverRaven/Cataclysm-DDA/pull/83332))
 * Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
-* Make smartphone recovery interruptable ([#83331](https://github.com/CleverRaven/Cataclysm-DDA/pull/83331))
-* Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
