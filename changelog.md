@@ -1,3 +1,13 @@
+* Update string extractor, part 3 ([#83476](https://github.com/CleverRaven/Cataclysm-DDA/pull/83476))
+* Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
+* Fix .460 S&W description ([#83478](https://github.com/CleverRaven/Cataclysm-DDA/pull/83478))
+* Fix book traits modifiers not being applied ([#83482](https://github.com/CleverRaven/Cataclysm-DDA/pull/83482))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-27-1412 ([634ac92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1412))
+
+* You can't get plastic out of glue ([#83492](https://github.com/CleverRaven/Cataclysm-DDA/pull/83492))
 
 ---
 
@@ -175,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-10-21-0445 ([2f2cf92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-0445))
 
 * Make fragile armors degrade more frequently ([#83392](https://github.com/CleverRaven/Cataclysm-DDA/pull/83392))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-21-0036 ([c1a6f99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-21-0036))
-
 * Monsters forcing their way through bushes/SHARP terrain trample the terrain ([#83374](https://github.com/CleverRaven/Cataclysm-DDA/pull/83374))
 * [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
 * [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
@@ -207,7 +212,6 @@
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
 * Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
 * Add NO_BODY_HEAT flag for characters who don't show up on infrared ([#83336](https://github.com/CleverRaven/Cataclysm-DDA/pull/83336))
-* Update uncraft recipes for MOLLE sustainment pouch and deployment bag ([#83321](https://github.com/CleverRaven/Cataclysm-DDA/pull/83321))
 * Unify condiment bottle spoilage multiplier with other containers ([#83348](https://github.com/CleverRaven/Cataclysm-DDA/pull/83348))
 * Add missing possessive in monster attack log ([#83350](https://github.com/CleverRaven/Cataclysm-DDA/pull/83350))
 * Replace anti-material by anti-materiel ([#83349](https://github.com/CleverRaven/Cataclysm-DDA/pull/83349))
@@ -218,8 +222,5 @@
 * Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
 * Add debug command to print overmap noise layers ([#83332](https://github.com/CleverRaven/Cataclysm-DDA/pull/83332))
 * Move monster constructor initializations to header ([#83335](https://github.com/CleverRaven/Cataclysm-DDA/pull/83335))
-* Add uncraft recipes to knife and stone spears to remove nonsensical time and tool requirements ([#83323](https://github.com/CleverRaven/Cataclysm-DDA/pull/83323))
 * Make smartphone recovery interruptable ([#83331](https://github.com/CleverRaven/Cataclysm-DDA/pull/83331))
-* Exclude some strings from translations ([#83325](https://github.com/CleverRaven/Cataclysm-DDA/pull/83325))
 * Allow .357 magnum Desert Eagles to cycle when firing smokeless hand-loaded ammunition ([#83328](https://github.com/CleverRaven/Cataclysm-DDA/pull/83328))
-* Fix item disassembly doc formatting ([#83322](https://github.com/CleverRaven/Cataclysm-DDA/pull/83322))
