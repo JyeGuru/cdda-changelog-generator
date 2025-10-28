@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-10-28-2011 (b42a406)
+* [Bombastic Perks/XE] Add Grack Pack perk (#83496)
+
 Cataclysm-DDA experimental build 2025-10-27-2241 (f2b0cde)
 * [Bombastic Perks/XE] Alchemy perks activate automatically (#83497)
 
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-10-22-0535 (45cbdcf)
 * Aftershock: Large bugfixing round (#83402)
 * [MoM] Fix Intuitive Artistry double-dipping (#83409)
 * Don't report butchery if things that aren't present + (#83412)
-
-Cataclysm-DDA experimental build 2025-10-22-0234 (3142474)
 * Innawoods bronze tongs can be made without already having tongs (#83414)
 * Make ammo craft skill sensible.  (#83404)
 * Adjusted weight + freeze temp of foul acidic blood (#83399)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-10-22-0234 (3142474)
 * Remove semicolons after namespace (#83346)
 * Better wheelchair wheels name for wheelchair wheels (#83343)
 * Mod conflicts for Xedra Evolved and Sorceror (#83344)
-* Move monster constructor initializations to header (#83335)
