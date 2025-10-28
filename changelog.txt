@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-28-2347 (9825d17)
 * Domestic palette fix - armguards and oatmeal (#83507)
 
 Cataclysm-DDA experimental build 2025-10-28-2237 (a900bcb)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2025-10-23-0439 (cd2bf31)
 
 Cataclysm-DDA experimental build 2025-10-22-1656 (3913936)
 * Prune the weapons checked for expected DPS (#83405)
-
-Cataclysm-DDA experimental build 2025-10-22-0535 (45cbdcf)
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding (#83410)
 * Bunny tails are part of bunny suits (#83357)
 * Move character knowledge functions from character.cpp to character_knowledge.cpp (#83391)
