@@ -1,3 +1,7 @@
+* Domestic palette fix - armguards and oatmeal (#83507)
+
+Cataclysm-DDA experimental build 2025-10-28-2237 (a900bcb)
+* Migrate a few input popups to imgui (#83383)
 
 Cataclysm-DDA experimental build 2025-10-28-2011 (b42a406)
 * [Bombastic Perks/XE] Add Grack Pack perk (#83496)
@@ -33,9 +37,6 @@ Cataclysm-DDA experimental build 2025-10-26-1847 (6e683b8)
 
 Cataclysm-DDA experimental build 2025-10-26-1437 (4fa5558)
 * Updating "military plutonium fuel cell (disposable)"'s plural form (#83485)
-
-Cataclysm-DDA 0.I release candidate 2025-10-26-0731 (79bea6f)
-* Make smartphone recovery interruptable (#83337)
 * Add clang tidy rule for unicode replacement character (#83400)
 * Don't count mounted vehicle's fuel as carrying vehicle's (#83463)
 * Routine i18n updates on 25 October 2025 (#83470)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2025-10-22-0535 (45cbdcf)
 * Use all edible tallows for cooking requirements (#83341)
 * Pruning the old ``to-hit`` syntax - Part Final (#83355)
 * Remove fabric cutting from glass shivs (#83353)
-* Add NO_BODY_HEAT flag for characters who don't show up on infrared (#83336)
 * Unify condiment bottle spoilage multiplier with other containers (#83348)
 * Add missing possessive in monster attack log (#83350)
 * Replace anti-material by anti-materiel (#83349)

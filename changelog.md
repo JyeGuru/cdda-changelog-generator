@@ -1,3 +1,10 @@
+* Domestic palette fix - armguards and oatmeal ([#83507](https://github.com/CleverRaven/Cataclysm-DDA/pull/83507))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-28-2237 ([a900bcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-28-2237))
+
+* Migrate a few input popups to imgui ([#83383](https://github.com/CleverRaven/Cataclysm-DDA/pull/83383))
 
 ---
 
@@ -63,12 +70,6 @@
 #### Cataclysm-DDA experimental build 2025-10-26-1437 ([4fa5558](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-26-1437))
 
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-10-26-0731 ([79bea6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-10-26-0731))
-
-* Make smartphone recovery interruptable ([#83337](https://github.com/CleverRaven/Cataclysm-DDA/pull/83337))
 * Add clang tidy rule for unicode replacement character ([#83400](https://github.com/CleverRaven/Cataclysm-DDA/pull/83400))
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
@@ -210,7 +211,6 @@
 * Use all edible tallows for cooking requirements ([#83341](https://github.com/CleverRaven/Cataclysm-DDA/pull/83341))
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
 * Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
-* Add NO_BODY_HEAT flag for characters who don't show up on infrared ([#83336](https://github.com/CleverRaven/Cataclysm-DDA/pull/83336))
 * Unify condiment bottle spoilage multiplier with other containers ([#83348](https://github.com/CleverRaven/Cataclysm-DDA/pull/83348))
 * Add missing possessive in monster attack log ([#83350](https://github.com/CleverRaven/Cataclysm-DDA/pull/83350))
 * Replace anti-material by anti-materiel ([#83349](https://github.com/CleverRaven/Cataclysm-DDA/pull/83349))
