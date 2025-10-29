@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-29-0115 ([a59c263](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-29-0115))
+
+* Fix bugout_meds_prepper item group ([#83481](https://github.com/CleverRaven/Cataclysm-DDA/pull/83481))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-28-2347 ([9825d17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-28-2347))
 
 * Domestic palette fix - armguards and oatmeal ([#83507](https://github.com/CleverRaven/Cataclysm-DDA/pull/83507))
@@ -208,7 +214,6 @@
 * [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
 * Fix map extra spawning in Backrooms ([#83367](https://github.com/CleverRaven/Cataclysm-DDA/pull/83367))
 * Less mines ([#83360](https://github.com/CleverRaven/Cataclysm-DDA/pull/83360))
-* Use all edible tallows for cooking requirements ([#83341](https://github.com/CleverRaven/Cataclysm-DDA/pull/83341))
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
 * Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
 * Unify condiment bottle spoilage multiplier with other containers ([#83348](https://github.com/CleverRaven/Cataclysm-DDA/pull/83348))
