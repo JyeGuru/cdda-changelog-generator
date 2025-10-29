@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-29-1905 ([d222ab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-29-1905))
+
 * Inventory/Compare: show loose gunmods; hide installed when not visible (#83192) ([#83509](https://github.com/CleverRaven/Cataclysm-DDA/pull/83509))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-10-23-1232 ([ed4c3d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-1232))
 
 * Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-23-0439 ([cd2bf31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-0439))
-
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
 * Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
