@@ -1,3 +1,10 @@
+* Inventory/Compare: show loose gunmods; hide installed when not visible (#83192) ([#83509](https://github.com/CleverRaven/Cataclysm-DDA/pull/83509))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-29-1809 ([798853c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-29-1809))
+
+* remove a few silly recipes ([#83515](https://github.com/CleverRaven/Cataclysm-DDA/pull/83515))
 
 ---
 
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-10-23-0439 ([cd2bf31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-0439))
 
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-22-1656 ([3913936](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-22-1656))
-
 * Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
 * Bunny tails are part of bunny suits ([#83357](https://github.com/CleverRaven/Cataclysm-DDA/pull/83357))
@@ -220,7 +222,5 @@
 * Add missing possessive in monster attack log ([#83350](https://github.com/CleverRaven/Cataclysm-DDA/pull/83350))
 * Replace anti-material by anti-materiel ([#83349](https://github.com/CleverRaven/Cataclysm-DDA/pull/83349))
 * Unify names for STANAG mags with ranger plate ([#83347](https://github.com/CleverRaven/Cataclysm-DDA/pull/83347))
-* Fix a lot of markdown tables ([#83342](https://github.com/CleverRaven/Cataclysm-DDA/pull/83342))
 * Remove semicolons after namespace ([#83346](https://github.com/CleverRaven/Cataclysm-DDA/pull/83346))
-* Better wheelchair wheels name for wheelchair wheels ([#83343](https://github.com/CleverRaven/Cataclysm-DDA/pull/83343))
 * Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
