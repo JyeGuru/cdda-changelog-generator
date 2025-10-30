@@ -1,6 +1,6 @@
 
-Cataclysm-DDA experimental build 2025-10-30-1903 (3fd61b2)
-* Fruit juice and related items fixes (#83358)
+Cataclysm-DDA experimental build 2025-10-30-2024 (623714c)
+* Add flesh aberration corpse pit map extra (#83517)
 
 Cataclysm-DDA experimental build 2025-10-30-1722 (3c4d06e)
 * Add trait flag to not block you from learning advanced versions of a spell (#83493)
@@ -106,8 +106,6 @@ Cataclysm-DDA experimental build 2025-10-25-0408 (a3c6b93)
 Cataclysm-DDA experimental build 2025-10-25-0314 (2e0df22)
 * Optimize vehicle planting (#83468)
 * [Bombastic Perks] Add Closetland Paths playstyle perk (#83469)
-
-Cataclysm-DDA experimental build 2025-10-25-0204 (14d6570)
 * [Bombastic Perks] Armor of Dreams/Closetland interaction (#83466)
 * Fix EoC docs formatting (#83455)
 * [XE] New vampire blood art refinements (#83439)

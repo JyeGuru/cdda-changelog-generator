@@ -1,9 +1,9 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-10-30-1903 ([3fd61b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-1903))
+#### Cataclysm-DDA experimental build 2025-10-30-2024 ([623714c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-2024))
 
-* Fruit juice and related items fixes ([#83358](https://github.com/CleverRaven/Cataclysm-DDA/pull/83358))
+* Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
 
 ---
 
@@ -184,11 +184,6 @@
 
 * Optimize vehicle planting ([#83468](https://github.com/CleverRaven/Cataclysm-DDA/pull/83468))
 * [Bombastic Perks] Add Closetland Paths playstyle perk ([#83469](https://github.com/CleverRaven/Cataclysm-DDA/pull/83469))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-25-0204 ([14d6570](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0204))
-
 * [Bombastic Perks] Armor of Dreams/Closetland interaction ([#83466](https://github.com/CleverRaven/Cataclysm-DDA/pull/83466))
 * Fix EoC docs formatting ([#83455](https://github.com/CleverRaven/Cataclysm-DDA/pull/83455))
 * [XE] New vampire blood art refinements ([#83439](https://github.com/CleverRaven/Cataclysm-DDA/pull/83439))
