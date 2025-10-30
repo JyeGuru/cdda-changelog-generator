@@ -1,6 +1,17 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-30-0215 ([79df81b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0215))
+
+* Remove old gun classes ([#83438](https://github.com/CleverRaven/Cataclysm-DDA/pull/83438))
+* Suppress dual food quality suffixes on hallu-eating + suppress sectio… ([#83495](https://github.com/CleverRaven/Cataclysm-DDA/pull/83495))
+* expose signal_hordes() to eoc ([#83500](https://github.com/CleverRaven/Cataclysm-DDA/pull/83500))
+* [Magiclysm/Innawood] Fix cities spawning Innawood ([#83512](https://github.com/CleverRaven/Cataclysm-DDA/pull/83512))
+* [MoM/Innawood] Fix cities spawning Innawood ([#83511](https://github.com/CleverRaven/Cataclysm-DDA/pull/83511))
+* [XE/Innawood] Fix cities spawning Innawood ([#83510](https://github.com/CleverRaven/Cataclysm-DDA/pull/83510))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-30-0036 ([ddb1191](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0036))
 
 * [Magiclysm/XE] Fix Paradox Survivor incompatibility ([#83513](https://github.com/CleverRaven/Cataclysm-DDA/pull/83513))
@@ -172,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-10-24-0315 ([3d50323](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-24-0315))
 
 * [XE] New vampire blood art refinements ([#83439](https://github.com/CleverRaven/Cataclysm-DDA/pull/83439))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-23-1650 ([09cc4de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-1650))
-
 * [Bombastic Perks] Add the Closetland perk ([#83430](https://github.com/CleverRaven/Cataclysm-DDA/pull/83430))
 * Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
@@ -208,7 +214,6 @@
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
 * Good spears and polearms use spear shafts no ugly sticks ([#83351](https://github.com/CleverRaven/Cataclysm-DDA/pull/83351))
 * Fix fishing on non river/lake-ocean tiles ([#83373](https://github.com/CleverRaven/Cataclysm-DDA/pull/83373))
-* Allow for bigger vehicle names, add current one to text input ([#83345](https://github.com/CleverRaven/Cataclysm-DDA/pull/83345))
 * Extend base butchery times ([#83376](https://github.com/CleverRaven/Cataclysm-DDA/pull/83376))
 * Clean up TropiCata regional settings ([#83377](https://github.com/CleverRaven/Cataclysm-DDA/pull/83377))
 * Fix some powdered milk spawns ([#83359](https://github.com/CleverRaven/Cataclysm-DDA/pull/83359))
@@ -219,8 +224,3 @@
 * Less mines ([#83360](https://github.com/CleverRaven/Cataclysm-DDA/pull/83360))
 * Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
 * Remove fabric cutting from glass shivs ([#83353](https://github.com/CleverRaven/Cataclysm-DDA/pull/83353))
-* Unify condiment bottle spoilage multiplier with other containers ([#83348](https://github.com/CleverRaven/Cataclysm-DDA/pull/83348))
-* Add missing possessive in monster attack log ([#83350](https://github.com/CleverRaven/Cataclysm-DDA/pull/83350))
-* Replace anti-material by anti-materiel ([#83349](https://github.com/CleverRaven/Cataclysm-DDA/pull/83349))
-* Unify names for STANAG mags with ranger plate ([#83347](https://github.com/CleverRaven/Cataclysm-DDA/pull/83347))
-* Remove semicolons after namespace ([#83346](https://github.com/CleverRaven/Cataclysm-DDA/pull/83346))
