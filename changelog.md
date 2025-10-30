@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-10-30-0036 ([ddb1191](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0036))
+
+* [Magiclysm/XE] Fix Paradox Survivor incompatibility ([#83513](https://github.com/CleverRaven/Cataclysm-DDA/pull/83513))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-29-1905 ([d222ab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-29-1905))
 
 * Inventory/Compare: show loose gunmods; hide installed when not visible (#83192) ([#83509](https://github.com/CleverRaven/Cataclysm-DDA/pull/83509))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-10-23-1650 ([09cc4de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-1650))
 
 * [Bombastic Perks] Add the Closetland perk ([#83430](https://github.com/CleverRaven/Cataclysm-DDA/pull/83430))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-23-1232 ([ed4c3d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-23-1232))
-
 * Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
 * Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
@@ -223,4 +224,3 @@
 * Replace anti-material by anti-materiel ([#83349](https://github.com/CleverRaven/Cataclysm-DDA/pull/83349))
 * Unify names for STANAG mags with ranger plate ([#83347](https://github.com/CleverRaven/Cataclysm-DDA/pull/83347))
 * Remove semicolons after namespace ([#83346](https://github.com/CleverRaven/Cataclysm-DDA/pull/83346))
-* Mod conflicts for Xedra Evolved and Sorceror ([#83344](https://github.com/CleverRaven/Cataclysm-DDA/pull/83344))
