@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-30-1903 ([3fd61b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-1903))
+
 * Fruit juice and related items fixes ([#83358](https://github.com/CleverRaven/Cataclysm-DDA/pull/83358))
 
 ---

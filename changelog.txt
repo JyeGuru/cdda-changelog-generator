@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-30-1903 (3fd61b2)
 * Fruit juice and related items fixes (#83358)
 
 Cataclysm-DDA experimental build 2025-10-30-1722 (3c4d06e)
