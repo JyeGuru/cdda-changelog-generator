@@ -1,3 +1,10 @@
+* Fruit juice and related items fixes ([#83358](https://github.com/CleverRaven/Cataclysm-DDA/pull/83358))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-30-1722 ([3c4d06e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-1722))
+
+* Add trait flag to not block you from learning advanced versions of a spell ([#83493](https://github.com/CleverRaven/Cataclysm-DDA/pull/83493))
 
 ---
 
@@ -185,7 +192,6 @@
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
 * Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
-* Bunny tails are part of bunny suits ([#83357](https://github.com/CleverRaven/Cataclysm-DDA/pull/83357))
 * Move character knowledge functions from character.cpp to character_knowledge.cpp ([#83391](https://github.com/CleverRaven/Cataclysm-DDA/pull/83391))
 * Update string extractor P1 ([#83371](https://github.com/CleverRaven/Cataclysm-DDA/pull/83371))
 * More T-shirts ([#83381](https://github.com/CleverRaven/Cataclysm-DDA/pull/83381))
@@ -218,4 +224,3 @@
 * [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
 * Fix map extra spawning in Backrooms ([#83367](https://github.com/CleverRaven/Cataclysm-DDA/pull/83367))
 * Less mines ([#83360](https://github.com/CleverRaven/Cataclysm-DDA/pull/83360))
-* Pruning the old ``to-hit`` syntax - Part Final ([#83355](https://github.com/CleverRaven/Cataclysm-DDA/pull/83355))
