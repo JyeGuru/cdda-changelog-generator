@@ -1,3 +1,10 @@
+* Reduce deconstruct times for kevlar vests ([#83479](https://github.com/CleverRaven/Cataclysm-DDA/pull/83479))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-31-0158 ([68edb10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-31-0158))
+
+* [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
 
 ---
 
@@ -166,22 +173,12 @@
 * [Xedra Evolved] Adjust dhampir bleeding stolen blood EoC ([#83435](https://github.com/CleverRaven/Cataclysm-DDA/pull/83435))
 * Update extractor, part 2 ([#83424](https://github.com/CleverRaven/Cataclysm-DDA/pull/83424))
 * Fix assignment of un-alert monsters to immobile horde map ([#83368](https://github.com/CleverRaven/Cataclysm-DDA/pull/83368))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-25-0408 ([a3c6b93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0408))
-
 * Update name of item "id: high_end_folding_stock_folded" ([#83447](https://github.com/CleverRaven/Cataclysm-DDA/pull/83447))
 * Vehicle installation ignores preferred components ([#83448](https://github.com/CleverRaven/Cataclysm-DDA/pull/83448))
 * [Magiclysm] Fix Smite minimum damage ([#83449](https://github.com/CleverRaven/Cataclysm-DDA/pull/83449))
 * Crude bags use crude recipe ([#83458](https://github.com/CleverRaven/Cataclysm-DDA/pull/83458))
 * Appease clang ([#83437](https://github.com/CleverRaven/Cataclysm-DDA/pull/83437))
 * Quiver tailoring is simple ([#83464](https://github.com/CleverRaven/Cataclysm-DDA/pull/83464))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-25-0314 ([2e0df22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0314))
-
 * Optimize vehicle planting ([#83468](https://github.com/CleverRaven/Cataclysm-DDA/pull/83468))
 * [Bombastic Perks] Add Closetland Paths playstyle perk ([#83469](https://github.com/CleverRaven/Cataclysm-DDA/pull/83469))
 * [Bombastic Perks] Armor of Dreams/Closetland interaction ([#83466](https://github.com/CleverRaven/Cataclysm-DDA/pull/83466))
@@ -218,9 +215,7 @@
 * Fix fishing on non river/lake-ocean tiles ([#83373](https://github.com/CleverRaven/Cataclysm-DDA/pull/83373))
 * Extend base butchery times ([#83376](https://github.com/CleverRaven/Cataclysm-DDA/pull/83376))
 * Clean up TropiCata regional settings ([#83377](https://github.com/CleverRaven/Cataclysm-DDA/pull/83377))
-* Fix some powdered milk spawns ([#83359](https://github.com/CleverRaven/Cataclysm-DDA/pull/83359))
 * Improve uncraft test ([#83365](https://github.com/CleverRaven/Cataclysm-DDA/pull/83365))
 * Routine i18n updates on 18 October 2025 ([#83369](https://github.com/CleverRaven/Cataclysm-DDA/pull/83369))
 * [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
 * Fix map extra spawning in Backrooms ([#83367](https://github.com/CleverRaven/Cataclysm-DDA/pull/83367))
-* Less mines ([#83360](https://github.com/CleverRaven/Cataclysm-DDA/pull/83360))
