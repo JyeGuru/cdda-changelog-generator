@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-10-31-1717 (1444af6)
 * Highlands dimension (#83398)
 
 Cataclysm-DDA experimental build 2025-10-31-1604 (97a256d)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2025-10-26-1437 (4fa5558)
 
 Cataclysm-DDA experimental build 2025-10-25-2041 (c30e3e6)
 * Use 64 bit int to read 64 bit int values (#83473)
-
-Cataclysm-DDA experimental build 2025-10-25-0651 (b20e933)
 * [Xedra Evolved ] Fix Gracken Stomachs (#83417)
 * Make name and description of variants optional (#83434)
 * Make doors to apartments locked (#83436)
