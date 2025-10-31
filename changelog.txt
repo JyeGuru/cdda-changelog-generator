@@ -1,3 +1,7 @@
+* Highlands dimension (#83398)
+
+Cataclysm-DDA experimental build 2025-10-31-1604 (97a256d)
+* Add the Zombie Summoner (#83498)
 * Reduce deconstruct times for kevlar vests (#83479)
 
 Cataclysm-DDA experimental build 2025-10-31-0158 (68edb10)
@@ -89,8 +93,6 @@ Cataclysm-DDA experimental build 2025-10-25-2041 (c30e3e6)
 
 Cataclysm-DDA experimental build 2025-10-25-0651 (b20e933)
 * [Xedra Evolved ] Fix Gracken Stomachs (#83417)
-
-Cataclysm-DDA experimental build 2025-10-25-0512 (bd69c6a)
 * Make name and description of variants optional (#83434)
 * Make doors to apartments locked (#83436)
 * [Aftershock] Change the Esper Inheritance background into the Noetic Scion background (#83407)
@@ -140,7 +142,5 @@ Cataclysm-DDA experimental build 2025-10-25-0512 (bd69c6a)
 * Fix fishing on non river/lake-ocean tiles (#83373)
 * Extend base butchery times (#83376)
 * Clean up TropiCata regional settings (#83377)
-* Improve uncraft test (#83365)
 * Routine i18n updates on 18 October 2025 (#83369)
-* [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait (#83362)
 * Fix map extra spawning in Backrooms (#83367)

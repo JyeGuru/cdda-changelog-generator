@@ -1,3 +1,10 @@
+* Highlands dimension ([#83398](https://github.com/CleverRaven/Cataclysm-DDA/pull/83398))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-10-31-1604 ([97a256d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-31-1604))
+
+* Add the Zombie Summoner ([#83498](https://github.com/CleverRaven/Cataclysm-DDA/pull/83498))
 * Reduce deconstruct times for kevlar vests ([#83479](https://github.com/CleverRaven/Cataclysm-DDA/pull/83479))
 
 ---
@@ -161,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2025-10-25-0651 ([b20e933](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0651))
 
 * [Xedra Evolved ] Fix Gracken Stomachs ([#83417](https://github.com/CleverRaven/Cataclysm-DDA/pull/83417))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-25-0512 ([bd69c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-0512))
-
 * Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
 * Make doors to apartments locked ([#83436](https://github.com/CleverRaven/Cataclysm-DDA/pull/83436))
 * [Aftershock] Change the Esper Inheritance background into the Noetic Scion background ([#83407](https://github.com/CleverRaven/Cataclysm-DDA/pull/83407))
@@ -215,7 +217,5 @@
 * Fix fishing on non river/lake-ocean tiles ([#83373](https://github.com/CleverRaven/Cataclysm-DDA/pull/83373))
 * Extend base butchery times ([#83376](https://github.com/CleverRaven/Cataclysm-DDA/pull/83376))
 * Clean up TropiCata regional settings ([#83377](https://github.com/CleverRaven/Cataclysm-DDA/pull/83377))
-* Improve uncraft test ([#83365](https://github.com/CleverRaven/Cataclysm-DDA/pull/83365))
 * Routine i18n updates on 18 October 2025 ([#83369](https://github.com/CleverRaven/Cataclysm-DDA/pull/83369))
-* [Magiclysm] Collapse Boreal Mage's Cold Aura into a single trait ([#83362](https://github.com/CleverRaven/Cataclysm-DDA/pull/83362))
 * Fix map extra spawning in Backrooms ([#83367](https://github.com/CleverRaven/Cataclysm-DDA/pull/83367))
