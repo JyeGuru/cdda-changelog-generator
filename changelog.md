@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-01-2032 ([93c6746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-2032))
+
 * Update version.cmake to show versions above 0.G-19098-gb374081a98 ([#83474](https://github.com/CleverRaven/Cataclysm-DDA/pull/83474))
 * [XEDRA Evolved] Update Gracken background recipes ([#83543](https://github.com/CleverRaven/Cataclysm-DDA/pull/83543))
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-10-26-1847 ([6e683b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-26-1847))
 
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-26-1437 ([4fa5558](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-26-1437))
-
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
 * Add clang tidy rule for unicode replacement character ([#83400](https://github.com/CleverRaven/Cataclysm-DDA/pull/83400))
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
