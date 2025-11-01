@@ -1,3 +1,4 @@
+* Update version.cmake to show versions above 0.G-19098-gb374081a98 (#83474)
 * [XEDRA Evolved] Update Gracken background recipes (#83543)
 
 Cataclysm-DDA experimental build 2025-11-01-1922 (39eab28)
@@ -148,6 +149,5 @@ Cataclysm-DDA experimental build 2025-10-26-1437 (4fa5558)
 * Prevent segfault when cancelling butchery (#83385)
 * Show progress percent when butchering (#83386)
 * Fix roads going nowhere (#83378)
-* Fix fishing on non river/lake-ocean tiles (#83373)
 * Extend base butchery times (#83376)
 * Clean up TropiCata regional settings (#83377)
