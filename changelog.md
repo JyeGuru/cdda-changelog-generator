@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-01-1922 ([39eab28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-1922))
+
+* Overmap sidebar ImGui conversion ([#83501](https://github.com/CleverRaven/Cataclysm-DDA/pull/83501))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-01-1431 ([2e89c98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-1431))
 
 * Routine i18n updates on 01 November 2025 ([#83538](https://github.com/CleverRaven/Cataclysm-DDA/pull/83538))
