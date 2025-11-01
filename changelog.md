@@ -1,3 +1,4 @@
+* [XEDRA Evolved] Update Gracken background recipes ([#83543](https://github.com/CleverRaven/Cataclysm-DDA/pull/83543))
 
 ---
 
@@ -210,7 +211,6 @@
 * Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
 * Move character knowledge functions from character.cpp to character_knowledge.cpp ([#83391](https://github.com/CleverRaven/Cataclysm-DDA/pull/83391))
-* Update string extractor P1 ([#83371](https://github.com/CleverRaven/Cataclysm-DDA/pull/83371))
 * More T-shirts ([#83381](https://github.com/CleverRaven/Cataclysm-DDA/pull/83381))
 * Allow magazines in guns/tools to regenerate ammo ([#83401](https://github.com/CleverRaven/Cataclysm-DDA/pull/83401))
 * Aftershock: Large bugfixing round ([#83402](https://github.com/CleverRaven/Cataclysm-DDA/pull/83402))
