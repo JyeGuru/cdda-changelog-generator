@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-01-0246 ([2cb897b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-0246))
+
+* [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-10-31-1717 ([1444af6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-31-1717))
 
 * Highlands dimension ([#83398](https://github.com/CleverRaven/Cataclysm-DDA/pull/83398))
@@ -161,11 +167,6 @@
 * crystalizing sugar can be eaten ([#83441](https://github.com/CleverRaven/Cataclysm-DDA/pull/83441))
 * Remove obsolete grip mount ([#83422](https://github.com/CleverRaven/Cataclysm-DDA/pull/83422))
 * [Innawoods] Leather journal misalignment fix & uncraft ([#83428](https://github.com/CleverRaven/Cataclysm-DDA/pull/83428))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-25-2041 ([c30e3e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-25-2041))
-
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
 * [Xedra Evolved ] Fix Gracken Stomachs ([#83417](https://github.com/CleverRaven/Cataclysm-DDA/pull/83417))
 * Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
@@ -218,4 +219,3 @@
 * Extend base butchery times ([#83376](https://github.com/CleverRaven/Cataclysm-DDA/pull/83376))
 * Clean up TropiCata regional settings ([#83377](https://github.com/CleverRaven/Cataclysm-DDA/pull/83377))
 * Routine i18n updates on 18 October 2025 ([#83369](https://github.com/CleverRaven/Cataclysm-DDA/pull/83369))
-* Fix map extra spawning in Backrooms ([#83367](https://github.com/CleverRaven/Cataclysm-DDA/pull/83367))

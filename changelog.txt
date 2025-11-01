@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-01-0246 (2cb897b)
+* [XEDRA Evolved] Giant Vampire Bat slowdown (#83536)
+
 Cataclysm-DDA experimental build 2025-10-31-1717 (1444af6)
 * Highlands dimension (#83398)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-10-26-1437 (4fa5558)
 * crystalizing sugar can be eaten (#83441)
 * Remove obsolete grip mount (#83422)
 * [Innawoods] Leather journal misalignment fix & uncraft (#83428)
-
-Cataclysm-DDA experimental build 2025-10-25-2041 (c30e3e6)
 * Use 64 bit int to read 64 bit int values (#83473)
 * [Xedra Evolved ] Fix Gracken Stomachs (#83417)
 * Make name and description of variants optional (#83434)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-10-25-2041 (c30e3e6)
 * Extend base butchery times (#83376)
 * Clean up TropiCata regional settings (#83377)
 * Routine i18n updates on 18 October 2025 (#83369)
-* Fix map extra spawning in Backrooms (#83367)
