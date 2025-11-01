@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-01-0445 ([7e6d8e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-0445))
+
+* [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-01-0246 ([2cb897b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-0246))
 
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
@@ -175,7 +181,6 @@
 * add bone buttons and consolidate wood sealing requirements ([#83440](https://github.com/CleverRaven/Cataclysm-DDA/pull/83440))
 * [Xedra Evolved] Adjust dhampir bleeding stolen blood EoC ([#83435](https://github.com/CleverRaven/Cataclysm-DDA/pull/83435))
 * Update extractor, part 2 ([#83424](https://github.com/CleverRaven/Cataclysm-DDA/pull/83424))
-* Fix assignment of un-alert monsters to immobile horde map ([#83368](https://github.com/CleverRaven/Cataclysm-DDA/pull/83368))
 * Update name of item "id: high_end_folding_stock_folded" ([#83447](https://github.com/CleverRaven/Cataclysm-DDA/pull/83447))
 * Vehicle installation ignores preferred components ([#83448](https://github.com/CleverRaven/Cataclysm-DDA/pull/83448))
 * [Magiclysm] Fix Smite minimum damage ([#83449](https://github.com/CleverRaven/Cataclysm-DDA/pull/83449))
