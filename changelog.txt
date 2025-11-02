@@ -1,3 +1,4 @@
+* Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care (#83553)
 * Use copy-from for region settings instead of overlays (#83530)
 
 Cataclysm-DDA experimental build 2025-11-02-2014 (5f85cc3)
@@ -147,6 +148,5 @@ Cataclysm-DDA experimental build 2025-10-27-1534 (3f32164)
 * [MoM] Fix Clairsentient hobby description (#83394)
 * Bump up dmg size limit in macOS release build (#83387)
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm (#83393)
-* Minor audits to beach furniture (#83382)
 * Prevent segfault when cancelling butchery (#83385)
 * Show progress percent when butchering (#83386)
