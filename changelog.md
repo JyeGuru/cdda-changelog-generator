@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-02-1519 ([f73f3fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-1519))
+
+* Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-02-1344 ([4171f44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-1344))
 
 * audit sledge craft ([#83544](https://github.com/CleverRaven/Cataclysm-DDA/pull/83544))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-10-27-1412 ([634ac92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1412))
 
 * You can't get plastic out of glue ([#83492](https://github.com/CleverRaven/Cataclysm-DDA/pull/83492))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-27-1257 ([dd71990](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1257))
-
 * Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
 * XE - Change the blood drain EOC to be somewhat less lethal when sleeping and remove vampiric traits on purge ([#83444](https://github.com/CleverRaven/Cataclysm-DDA/pull/83444))
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
@@ -228,7 +229,6 @@
 * [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
 * [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
 * Bump up dmg size limit in macOS release build ([#83387](https://github.com/CleverRaven/Cataclysm-DDA/pull/83387))
-* Aftershock: Large bugfixing round ([#83379](https://github.com/CleverRaven/Cataclysm-DDA/pull/83379))
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm ([#83393](https://github.com/CleverRaven/Cataclysm-DDA/pull/83393))
 * Supernatural Races can't use purifier: fix tests ([#83380](https://github.com/CleverRaven/Cataclysm-DDA/pull/83380))
 * Minor audits to beach furniture ([#83382](https://github.com/CleverRaven/Cataclysm-DDA/pull/83382))

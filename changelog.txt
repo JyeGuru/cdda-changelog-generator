@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-02-1519 (f73f3fc)
+* Remove slime weakpoint proficiencies (#83554)
+
 Cataclysm-DDA experimental build 2025-11-02-1344 (4171f44)
 * audit sledge craft (#83544)
 * Remove the homewrecker (#83545)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-10-27-1534 (3f32164)
 
 Cataclysm-DDA experimental build 2025-10-27-1412 (634ac92)
 * You can't get plastic out of glue (#83492)
-
-Cataclysm-DDA experimental build 2025-10-27-1257 (dd71990)
 * Sewage Switchup (#83487)
 * XE - Change the blood drain EOC to be somewhat less lethal when sleeping and remove vampiric traits on purge (#83444)
 * Fix missing tilesets in releases (#83486)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-10-27-1257 (dd71990)
 * [Magiclysm] Fleshwarper overhaul (#83396)
 * [MoM] Fix Clairsentient hobby description (#83394)
 * Bump up dmg size limit in macOS release build (#83387)
-* Aftershock: Large bugfixing round (#83379)
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm (#83393)
 * Supernatural Races can't use purifier: fix tests (#83380)
 * Minor audits to beach furniture (#83382)
