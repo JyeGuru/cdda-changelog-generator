@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-02-2147 ([b3816f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-2147))
+
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
 * Use copy-from for region settings instead of overlays ([#83530](https://github.com/CleverRaven/Cataclysm-DDA/pull/83530))
 
@@ -174,11 +179,6 @@
 * [ Xedra Evolved ] Continue on the XE CI Journey ([#83442](https://github.com/CleverRaven/Cataclysm-DDA/pull/83442))
 * [ Xedra Evolved ] Fix various eye limbs having no armor ([#83418](https://github.com/CleverRaven/Cataclysm-DDA/pull/83418))
 * Update string extractor, part 3 ([#83476](https://github.com/CleverRaven/Cataclysm-DDA/pull/83476))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-27-1534 ([3f32164](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1534))
-
 * Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
 * Fix .460 S&W description ([#83478](https://github.com/CleverRaven/Cataclysm-DDA/pull/83478))
 * Fix book traits modifiers not being applied ([#83482](https://github.com/CleverRaven/Cataclysm-DDA/pull/83482))

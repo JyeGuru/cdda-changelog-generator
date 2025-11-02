@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-02-2147 (b3816f3)
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care (#83553)
 * Use copy-from for region settings instead of overlays (#83530)
 
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2025-10-27-1651 (d16ab19)
 * [ Xedra Evolved ] Continue on the XE CI Journey (#83442)
 * [ Xedra Evolved ] Fix various eye limbs having no armor (#83418)
 * Update string extractor, part 3 (#83476)
-
-Cataclysm-DDA experimental build 2025-10-27-1534 (3f32164)
 * Weekly Changelog 2025-10-20 to 2025-10-27 (#83491)
 * Fix .460 S&W description (#83478)
 * Fix book traits modifiers not being applied (#83482)
