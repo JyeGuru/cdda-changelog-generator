@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-02-1344 ([4171f44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-1344))
+
+* audit sledge craft ([#83544](https://github.com/CleverRaven/Cataclysm-DDA/pull/83544))
+* Remove the homewrecker ([#83545](https://github.com/CleverRaven/Cataclysm-DDA/pull/83545))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-02-1229 ([f3e5ace](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-1229))
+
+* Update calendar.h ([#83550](https://github.com/CleverRaven/Cataclysm-DDA/pull/83550))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-01-2032 ([93c6746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-2032))
 
 * Update version.cmake to show versions above 0.G-19098-gb374081a98 ([#83474](https://github.com/CleverRaven/Cataclysm-DDA/pull/83474))
@@ -167,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2025-10-27-1257 ([dd71990](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1257))
 
 * Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-27-0333 ([e0dfb3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-0333))
-
 * XE - Change the blood drain EOC to be somewhat less lethal when sleeping and remove vampiric traits on purge ([#83444](https://github.com/CleverRaven/Cataclysm-DDA/pull/83444))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-26-1847 ([6e683b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-26-1847))
-
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
 * Add clang tidy rule for unicode replacement character ([#83400](https://github.com/CleverRaven/Cataclysm-DDA/pull/83400))
@@ -222,7 +225,6 @@
 * Adjusted weight + freeze temp of foul acidic blood ([#83399](https://github.com/CleverRaven/Cataclysm-DDA/pull/83399))
 * Weekly Changelog 2025-10-13 to 2025-10-20 ([#83397](https://github.com/CleverRaven/Cataclysm-DDA/pull/83397))
 * Make fragile armors degrade more frequently ([#83392](https://github.com/CleverRaven/Cataclysm-DDA/pull/83392))
-* Monsters forcing their way through bushes/SHARP terrain trample the terrain ([#83374](https://github.com/CleverRaven/Cataclysm-DDA/pull/83374))
 * [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
 * [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
 * Bump up dmg size limit in macOS release build ([#83387](https://github.com/CleverRaven/Cataclysm-DDA/pull/83387))
@@ -233,5 +235,3 @@
 * Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
 * Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
 * Fix roads going nowhere ([#83378](https://github.com/CleverRaven/Cataclysm-DDA/pull/83378))
-* Extend base butchery times ([#83376](https://github.com/CleverRaven/Cataclysm-DDA/pull/83376))
-* Clean up TropiCata regional settings ([#83377](https://github.com/CleverRaven/Cataclysm-DDA/pull/83377))
