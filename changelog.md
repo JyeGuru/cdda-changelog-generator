@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-03-1054 ([a5d2554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-03-1054))
+
 * Shadow (*not* `a shadow?`) overhaul ([#83560](https://github.com/CleverRaven/Cataclysm-DDA/pull/83560))
 * Fix name of nested canvas trenchcoats recipe category ([#83562](https://github.com/CleverRaven/Cataclysm-DDA/pull/83562))
 * Remove "u" from Rock Island Armory ([#83563](https://github.com/CleverRaven/Cataclysm-DDA/pull/83563))
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-10-27-2241 ([f2b0cde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-2241))
 
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-27-2041 ([8ae8e29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-2041))
-
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
 * Add 50lb flour and sugar bags to the world ([#83471](https://github.com/CleverRaven/Cataclysm-DDA/pull/83471))
 * [ Xedra Evolved ] Continue on the XE CI Journey ([#83442](https://github.com/CleverRaven/Cataclysm-DDA/pull/83442))
