@@ -1,3 +1,9 @@
+* Shadow (*not* `a shadow?`) overhaul (#83560)
+* Fix name of nested canvas trenchcoats recipe category (#83562)
+* Remove "u" from Rock Island Armory (#83563)
+
+Cataclysm-DDA experimental build 2025-11-03-0927 (9962efb)
+* Fix numerous basic typos in comments and documentation files (#83564)
 
 Cataclysm-DDA experimental build 2025-11-02-2147 (b3816f3)
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care (#83553)
@@ -78,9 +84,6 @@ Cataclysm-DDA experimental build 2025-10-29-0115 (a59c263)
 Cataclysm-DDA experimental build 2025-10-28-2347 (9825d17)
 * Domestic palette fix - armguards and oatmeal (#83507)
 
-Cataclysm-DDA experimental build 2025-10-28-2237 (a900bcb)
-* Migrate a few input popups to imgui (#83383)
-
 Cataclysm-DDA experimental build 2025-10-28-2011 (b42a406)
 * [Bombastic Perks/XE] Add Grack Pack perk (#83496)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2025-10-27-2241 (f2b0cde)
 
 Cataclysm-DDA experimental build 2025-10-27-2041 (8ae8e29)
 * [MoM] Add pyrokinetic power Intensify Flames (#83490)
-
-Cataclysm-DDA experimental build 2025-10-27-1651 (d16ab19)
 * Add 50lb flour and sugar bags to the world (#83471)
 * [ Xedra Evolved ] Continue on the XE CI Journey (#83442)
 * [ Xedra Evolved ] Fix various eye limbs having no armor (#83418)
@@ -146,7 +147,4 @@ Cataclysm-DDA experimental build 2025-10-27-1651 (d16ab19)
 * Make fragile armors degrade more frequently (#83392)
 * [Magiclysm] Fleshwarper overhaul (#83396)
 * [MoM] Fix Clairsentient hobby description (#83394)
-* Bump up dmg size limit in macOS release build (#83387)
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm (#83393)
-* Prevent segfault when cancelling butchery (#83385)
-* Show progress percent when butchering (#83386)

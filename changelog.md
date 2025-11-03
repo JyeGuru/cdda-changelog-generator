@@ -1,3 +1,12 @@
+* Shadow (*not* `a shadow?`) overhaul ([#83560](https://github.com/CleverRaven/Cataclysm-DDA/pull/83560))
+* Fix name of nested canvas trenchcoats recipe category ([#83562](https://github.com/CleverRaven/Cataclysm-DDA/pull/83562))
+* Remove "u" from Rock Island Armory ([#83563](https://github.com/CleverRaven/Cataclysm-DDA/pull/83563))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-03-0927 ([9962efb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-03-0927))
+
+* Fix numerous basic typos in comments and documentation files ([#83564](https://github.com/CleverRaven/Cataclysm-DDA/pull/83564))
 
 ---
 
@@ -149,12 +158,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-10-28-2237 ([a900bcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-28-2237))
-
-* Migrate a few input popups to imgui ([#83383](https://github.com/CleverRaven/Cataclysm-DDA/pull/83383))
-
----
-
 #### Cataclysm-DDA experimental build 2025-10-28-2011 ([b42a406](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-28-2011))
 
 * [Bombastic Perks/XE] Add Grack Pack perk ([#83496](https://github.com/CleverRaven/Cataclysm-DDA/pull/83496))
@@ -170,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-10-27-2041 ([8ae8e29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-2041))
 
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-27-1651 ([d16ab19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-1651))
-
 * Add 50lb flour and sugar bags to the world ([#83471](https://github.com/CleverRaven/Cataclysm-DDA/pull/83471))
 * [ Xedra Evolved ] Continue on the XE CI Journey ([#83442](https://github.com/CleverRaven/Cataclysm-DDA/pull/83442))
 * [ Xedra Evolved ] Fix various eye limbs having no armor ([#83418](https://github.com/CleverRaven/Cataclysm-DDA/pull/83418))
@@ -230,7 +228,4 @@
 * Make fragile armors degrade more frequently ([#83392](https://github.com/CleverRaven/Cataclysm-DDA/pull/83392))
 * [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
 * [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
-* Bump up dmg size limit in macOS release build ([#83387](https://github.com/CleverRaven/Cataclysm-DDA/pull/83387))
 * Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm ([#83393](https://github.com/CleverRaven/Cataclysm-DDA/pull/83393))
-* Prevent segfault when cancelling butchery ([#83385](https://github.com/CleverRaven/Cataclysm-DDA/pull/83385))
-* Show progress percent when butchering ([#83386](https://github.com/CleverRaven/Cataclysm-DDA/pull/83386))
