@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-03-2147 ([15c93d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-03-2147))
+
+* [TropiCata] Monstergroup spring cleaning ([#83559](https://github.com/CleverRaven/Cataclysm-DDA/pull/83559))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-03-1054 ([a5d2554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-03-1054))
 
 * Shadow (*not* `a shadow?`) overhaul ([#83560](https://github.com/CleverRaven/Cataclysm-DDA/pull/83560))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-10-28-2011 ([b42a406](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-28-2011))
 
 * [Bombastic Perks/XE] Add Grack Pack perk ([#83496](https://github.com/CleverRaven/Cataclysm-DDA/pull/83496))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-27-2241 ([f2b0cde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-27-2241))
-
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
 * Add 50lb flour and sugar bags to the world ([#83471](https://github.com/CleverRaven/Cataclysm-DDA/pull/83471))
@@ -216,7 +217,6 @@
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
 * Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
-* Move character knowledge functions from character.cpp to character_knowledge.cpp ([#83391](https://github.com/CleverRaven/Cataclysm-DDA/pull/83391))
 * Allow magazines in guns/tools to regenerate ammo ([#83401](https://github.com/CleverRaven/Cataclysm-DDA/pull/83401))
 * Aftershock: Large bugfixing round ([#83402](https://github.com/CleverRaven/Cataclysm-DDA/pull/83402))
 * [MoM] Fix Intuitive Artistry double-dipping ([#83409](https://github.com/CleverRaven/Cataclysm-DDA/pull/83409))
