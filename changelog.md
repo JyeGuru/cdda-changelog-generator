@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-04-0859 ([01884d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-0859))
+
+* Weekly Changelog 2025-10-27 to 2025-11-03 ([#83565](https://github.com/CleverRaven/Cataclysm-DDA/pull/83565))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-04-0758 ([01139e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-0758))
 
 * Make sample items active, including a tanning one ([#83524](https://github.com/CleverRaven/Cataclysm-DDA/pull/83524))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-10-29-0115 ([a59c263](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-29-0115))
 
 * Fix bugout_meds_prepper item group ([#83481](https://github.com/CleverRaven/Cataclysm-DDA/pull/83481))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-28-2347 ([9825d17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-28-2347))
-
 * Domestic palette fix - armguards and oatmeal ([#83507](https://github.com/CleverRaven/Cataclysm-DDA/pull/83507))
 * [Bombastic Perks/XE] Add Grack Pack perk ([#83496](https://github.com/CleverRaven/Cataclysm-DDA/pull/83496))
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
@@ -223,7 +224,6 @@
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
 * Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
-* Allow magazines in guns/tools to regenerate ammo ([#83401](https://github.com/CleverRaven/Cataclysm-DDA/pull/83401))
 * Aftershock: Large bugfixing round ([#83402](https://github.com/CleverRaven/Cataclysm-DDA/pull/83402))
 * [MoM] Fix Intuitive Artistry double-dipping ([#83409](https://github.com/CleverRaven/Cataclysm-DDA/pull/83409))
 * Don't report butchery if things that aren't present + ([#83412](https://github.com/CleverRaven/Cataclysm-DDA/pull/83412))
