@@ -1,3 +1,16 @@
+* Make sample items active, including a tanning one ([#83524](https://github.com/CleverRaven/Cataclysm-DDA/pull/83524))
+* chewing gum spawns in containers ([#83546](https://github.com/CleverRaven/Cataclysm-DDA/pull/83546))
+* Plants don't have animal anatomy ([#83556](https://github.com/CleverRaven/Cataclysm-DDA/pull/83556))
+* Audit drugdealer itemgroup ([#83547](https://github.com/CleverRaven/Cataclysm-DDA/pull/83547))
+* [TropiCata] Fix monster deaths ([#83558](https://github.com/CleverRaven/Cataclysm-DDA/pull/83558))
+* Fix some nylon gambeson related recipes ([#83561](https://github.com/CleverRaven/Cataclysm-DDA/pull/83561))
+* Remove 0 weight entries from monstergroups ([#83569](https://github.com/CleverRaven/Cataclysm-DDA/pull/83569))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-04-0658 ([910bfda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-0658))
+
+* Wraith overhaul ([#83570](https://github.com/CleverRaven/Cataclysm-DDA/pull/83570))
 
 ---
 
@@ -84,12 +97,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-10-31-1717 ([1444af6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-31-1717))
-
-* Highlands dimension ([#83398](https://github.com/CleverRaven/Cataclysm-DDA/pull/83398))
-
----
-
 #### Cataclysm-DDA experimental build 2025-10-31-1604 ([97a256d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-31-1604))
 
 * Add the Zombie Summoner ([#83498](https://github.com/CleverRaven/Cataclysm-DDA/pull/83498))
@@ -166,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-10-28-2347 ([9825d17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-28-2347))
 
 * Domestic palette fix - armguards and oatmeal ([#83507](https://github.com/CleverRaven/Cataclysm-DDA/pull/83507))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-28-2011 ([b42a406](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-28-2011))
-
 * [Bombastic Perks/XE] Add Grack Pack perk ([#83496](https://github.com/CleverRaven/Cataclysm-DDA/pull/83496))
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
@@ -186,7 +188,6 @@
 * XE - Change the blood drain EOC to be somewhat less lethal when sleeping and remove vampiric traits on purge ([#83444](https://github.com/CleverRaven/Cataclysm-DDA/pull/83444))
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
-* Add clang tidy rule for unicode replacement character ([#83400](https://github.com/CleverRaven/Cataclysm-DDA/pull/83400))
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * Increase sex toy variety ([#83413](https://github.com/CleverRaven/Cataclysm-DDA/pull/83413))
@@ -223,9 +224,3 @@
 * Don't report butchery if things that aren't present + ([#83412](https://github.com/CleverRaven/Cataclysm-DDA/pull/83412))
 * Innawoods bronze tongs can be made without already having tongs ([#83414](https://github.com/CleverRaven/Cataclysm-DDA/pull/83414))
 * Make ammo craft skill sensible.  ([#83404](https://github.com/CleverRaven/Cataclysm-DDA/pull/83404))
-* Adjusted weight + freeze temp of foul acidic blood ([#83399](https://github.com/CleverRaven/Cataclysm-DDA/pull/83399))
-* Weekly Changelog 2025-10-13 to 2025-10-20 ([#83397](https://github.com/CleverRaven/Cataclysm-DDA/pull/83397))
-* Make fragile armors degrade more frequently ([#83392](https://github.com/CleverRaven/Cataclysm-DDA/pull/83392))
-* [Magiclysm] Fleshwarper overhaul ([#83396](https://github.com/CleverRaven/Cataclysm-DDA/pull/83396))
-* [MoM] Fix Clairsentient hobby description ([#83394](https://github.com/CleverRaven/Cataclysm-DDA/pull/83394))
-* Add BLOCK_SUPERNATURAL_HEALING flag, apply it to Clay Golem attacks in Magiclysm ([#83393](https://github.com/CleverRaven/Cataclysm-DDA/pull/83393))
