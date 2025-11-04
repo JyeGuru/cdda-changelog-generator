@@ -1,3 +1,11 @@
+* Rescale adobe construction, add adobe option to modular basecamp ([#83567](https://github.com/CleverRaven/Cataclysm-DDA/pull/83567))
+* Brass from casings ([#83585](https://github.com/CleverRaven/Cataclysm-DDA/pull/83585))
+* Zombie flesh is still human flesh ([#83579](https://github.com/CleverRaven/Cataclysm-DDA/pull/83579))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-04-2228 ([e8804df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-2228))
+
 * [AFS] Frozen human flesh is people ([#83574](https://github.com/CleverRaven/Cataclysm-DDA/pull/83574))
 * Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
 
@@ -174,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-10-29-1905 ([d222ab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-29-1905))
 
 * Inventory/Compare: show loose gunmods; hide installed when not visible (#83192) ([#83509](https://github.com/CleverRaven/Cataclysm-DDA/pull/83509))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-29-1809 ([798853c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-29-1809))
-
 * remove a few silly recipes ([#83515](https://github.com/CleverRaven/Cataclysm-DDA/pull/83515))
 * Fix bugout_meds_prepper item group ([#83481](https://github.com/CleverRaven/Cataclysm-DDA/pull/83481))
 * Domestic palette fix - armguards and oatmeal ([#83507](https://github.com/CleverRaven/Cataclysm-DDA/pull/83507))
@@ -207,7 +210,6 @@
 * [Xedra Evolved ] Fix Gracken Stomachs ([#83417](https://github.com/CleverRaven/Cataclysm-DDA/pull/83417))
 * Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
 * Make doors to apartments locked ([#83436](https://github.com/CleverRaven/Cataclysm-DDA/pull/83436))
-* [Aftershock] Change the Esper Inheritance background into the Noetic Scion background ([#83407](https://github.com/CleverRaven/Cataclysm-DDA/pull/83407))
 * add bone buttons and consolidate wood sealing requirements ([#83440](https://github.com/CleverRaven/Cataclysm-DDA/pull/83440))
 * [Xedra Evolved] Adjust dhampir bleeding stolen blood EoC ([#83435](https://github.com/CleverRaven/Cataclysm-DDA/pull/83435))
 * Update extractor, part 2 ([#83424](https://github.com/CleverRaven/Cataclysm-DDA/pull/83424))
@@ -225,7 +227,5 @@
 * [Bombastic Perks] Add the Closetland perk ([#83430](https://github.com/CleverRaven/Cataclysm-DDA/pull/83430))
 * Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
-* [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
-* [MoM] Fix Intuitive Artistry double-dipping ([#83409](https://github.com/CleverRaven/Cataclysm-DDA/pull/83409))
 * Don't report butchery if things that aren't present + ([#83412](https://github.com/CleverRaven/Cataclysm-DDA/pull/83412))
 * Innawoods bronze tongs can be made without already having tongs ([#83414](https://github.com/CleverRaven/Cataclysm-DDA/pull/83414))
