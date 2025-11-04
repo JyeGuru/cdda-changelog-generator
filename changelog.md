@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-04-0758 ([01139e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-0758))
+
 * Make sample items active, including a tanning one ([#83524](https://github.com/CleverRaven/Cataclysm-DDA/pull/83524))
 * chewing gum spawns in containers ([#83546](https://github.com/CleverRaven/Cataclysm-DDA/pull/83546))
 * Plants don't have animal anatomy ([#83556](https://github.com/CleverRaven/Cataclysm-DDA/pull/83556))
