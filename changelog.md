@@ -1,3 +1,4 @@
+* [AFS] Frozen human flesh is people ([#83574](https://github.com/CleverRaven/Cataclysm-DDA/pull/83574))
 * Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
 
 ---
@@ -224,7 +225,6 @@
 * [Bombastic Perks] Add the Closetland perk ([#83430](https://github.com/CleverRaven/Cataclysm-DDA/pull/83430))
 * Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
-* Prune the weapons checked for expected DPS ([#83405](https://github.com/CleverRaven/Cataclysm-DDA/pull/83405))
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding ([#83410](https://github.com/CleverRaven/Cataclysm-DDA/pull/83410))
 * [MoM] Fix Intuitive Artistry double-dipping ([#83409](https://github.com/CleverRaven/Cataclysm-DDA/pull/83409))
 * Don't report butchery if things that aren't present + ([#83412](https://github.com/CleverRaven/Cataclysm-DDA/pull/83412))

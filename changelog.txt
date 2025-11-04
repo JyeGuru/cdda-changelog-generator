@@ -1,3 +1,4 @@
+* [AFS] Frozen human flesh is people (#83574)
 * Remove region overlays (#83572)
 
 Cataclysm-DDA experimental build 2025-11-04-2108 (6e92475)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2025-10-29-1809 (798853c)
 * [Bombastic Perks] Add the Closetland perk (#83430)
 * Changing from heat_item to use heat_solid_items instead (#83415)
 * Region settings defined city names (#83432)
-* Prune the weapons checked for expected DPS (#83405)
 * [XE] Fix Bloodthorn gaining stolen blood when bleeding (#83410)
 * [MoM] Fix Intuitive Artistry double-dipping (#83409)
 * Don't report butchery if things that aren't present + (#83412)
