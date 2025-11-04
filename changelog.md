@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-04-2317 ([74b49c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-2317))
+
 * Rescale adobe construction, add adobe option to modular basecamp ([#83567](https://github.com/CleverRaven/Cataclysm-DDA/pull/83567))
 * Brass from casings ([#83585](https://github.com/CleverRaven/Cataclysm-DDA/pull/83585))
 * Zombie flesh is still human flesh ([#83579](https://github.com/CleverRaven/Cataclysm-DDA/pull/83579))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-10-30-0036 ([ddb1191](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0036))
 
 * [Magiclysm/XE] Fix Paradox Survivor incompatibility ([#83513](https://github.com/CleverRaven/Cataclysm-DDA/pull/83513))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-29-1905 ([d222ab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-29-1905))
-
 * Inventory/Compare: show loose gunmods; hide installed when not visible (#83192) ([#83509](https://github.com/CleverRaven/Cataclysm-DDA/pull/83509))
 * remove a few silly recipes ([#83515](https://github.com/CleverRaven/Cataclysm-DDA/pull/83515))
 * Fix bugout_meds_prepper item group ([#83481](https://github.com/CleverRaven/Cataclysm-DDA/pull/83481))
