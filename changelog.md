@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-05-0225 ([04c1c72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0225))
+
+* remove 4.6 casings ([#83586](https://github.com/CleverRaven/Cataclysm-DDA/pull/83586))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-05-0113 ([9359bb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0113))
+
+* Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-04-2317 ([74b49c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-2317))
 
 * Rescale adobe construction, add adobe option to modular basecamp ([#83567](https://github.com/CleverRaven/Cataclysm-DDA/pull/83567))
@@ -164,22 +176,12 @@
 #### Cataclysm-DDA experimental build 2025-10-30-0807 ([fc9a5ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0807))
 
 * [ No Hope ] No purifier in no hope ([#83502](https://github.com/CleverRaven/Cataclysm-DDA/pull/83502))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-30-0215 ([79df81b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0215))
-
 * Remove old gun classes ([#83438](https://github.com/CleverRaven/Cataclysm-DDA/pull/83438))
 * Suppress dual food quality suffixes on hallu-eating + suppress sectio… ([#83495](https://github.com/CleverRaven/Cataclysm-DDA/pull/83495))
 * expose signal_hordes() to eoc ([#83500](https://github.com/CleverRaven/Cataclysm-DDA/pull/83500))
 * [Magiclysm/Innawood] Fix cities spawning Innawood ([#83512](https://github.com/CleverRaven/Cataclysm-DDA/pull/83512))
 * [MoM/Innawood] Fix cities spawning Innawood ([#83511](https://github.com/CleverRaven/Cataclysm-DDA/pull/83511))
 * [XE/Innawood] Fix cities spawning Innawood ([#83510](https://github.com/CleverRaven/Cataclysm-DDA/pull/83510))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-30-0036 ([ddb1191](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0036))
-
 * [Magiclysm/XE] Fix Paradox Survivor incompatibility ([#83513](https://github.com/CleverRaven/Cataclysm-DDA/pull/83513))
 * Inventory/Compare: show loose gunmods; hide installed when not visible (#83192) ([#83509](https://github.com/CleverRaven/Cataclysm-DDA/pull/83509))
 * remove a few silly recipes ([#83515](https://github.com/CleverRaven/Cataclysm-DDA/pull/83515))
@@ -227,5 +229,4 @@
 * [Bombastic Perks] Add the Closetland perk ([#83430](https://github.com/CleverRaven/Cataclysm-DDA/pull/83430))
 * Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
-* Don't report butchery if things that aren't present + ([#83412](https://github.com/CleverRaven/Cataclysm-DDA/pull/83412))
 * Innawoods bronze tongs can be made without already having tongs ([#83414](https://github.com/CleverRaven/Cataclysm-DDA/pull/83414))
