@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-05-0512 ([abd7b37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0512))
+
+* Willowbark tea is easy to craft ([#83592](https://github.com/CleverRaven/Cataclysm-DDA/pull/83592))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-05-0225 ([04c1c72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0225))
 
 * remove 4.6 casings ([#83586](https://github.com/CleverRaven/Cataclysm-DDA/pull/83586))
@@ -170,11 +176,6 @@
 
 * [ Xedra Evolved ] Add Man Made to buildings missing it in XE ([#83508](https://github.com/CleverRaven/Cataclysm-DDA/pull/83508))
 * Salt bags, bigguns ([#83472](https://github.com/CleverRaven/Cataclysm-DDA/pull/83472))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-30-0807 ([fc9a5ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0807))
-
 * [ No Hope ] No purifier in no hope ([#83502](https://github.com/CleverRaven/Cataclysm-DDA/pull/83502))
 * Remove old gun classes ([#83438](https://github.com/CleverRaven/Cataclysm-DDA/pull/83438))
 * Suppress dual food quality suffixes on hallu-eating + suppress sectio… ([#83495](https://github.com/CleverRaven/Cataclysm-DDA/pull/83495))
@@ -204,7 +205,6 @@
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
-* Increase sex toy variety ([#83413](https://github.com/CleverRaven/Cataclysm-DDA/pull/83413))
 * crystalizing sugar can be eaten ([#83441](https://github.com/CleverRaven/Cataclysm-DDA/pull/83441))
 * Remove obsolete grip mount ([#83422](https://github.com/CleverRaven/Cataclysm-DDA/pull/83422))
 * [Innawoods] Leather journal misalignment fix & uncraft ([#83428](https://github.com/CleverRaven/Cataclysm-DDA/pull/83428))
