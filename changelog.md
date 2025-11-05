@@ -1,3 +1,10 @@
+* Fix IWYU ([#83594](https://github.com/CleverRaven/Cataclysm-DDA/pull/83594))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-05-2054 ([d6086a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-2054))
+
+* Fix bill pole ([#83600](https://github.com/CleverRaven/Cataclysm-DDA/pull/83600))
 
 ---
 
@@ -209,7 +216,6 @@
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * crystalizing sugar can be eaten ([#83441](https://github.com/CleverRaven/Cataclysm-DDA/pull/83441))
-* [Innawoods] Leather journal misalignment fix & uncraft ([#83428](https://github.com/CleverRaven/Cataclysm-DDA/pull/83428))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
 * Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
 * Make doors to apartments locked ([#83436](https://github.com/CleverRaven/Cataclysm-DDA/pull/83436))
