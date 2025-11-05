@@ -1,3 +1,5 @@
+* Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
+* Fix repeating dialogue bug with the predatory trader ([#83577](https://github.com/CleverRaven/Cataclysm-DDA/pull/83577))
 * Update steel ballistic plate recipe times ([#83589](https://github.com/CleverRaven/Cataclysm-DDA/pull/83589))
 
 ---
@@ -210,7 +212,6 @@
 * Remove obsolete grip mount ([#83422](https://github.com/CleverRaven/Cataclysm-DDA/pull/83422))
 * [Innawoods] Leather journal misalignment fix & uncraft ([#83428](https://github.com/CleverRaven/Cataclysm-DDA/pull/83428))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
-* [Xedra Evolved ] Fix Gracken Stomachs ([#83417](https://github.com/CleverRaven/Cataclysm-DDA/pull/83417))
 * Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
 * Make doors to apartments locked ([#83436](https://github.com/CleverRaven/Cataclysm-DDA/pull/83436))
 * add bone buttons and consolidate wood sealing requirements ([#83440](https://github.com/CleverRaven/Cataclysm-DDA/pull/83440))
@@ -228,5 +229,4 @@
 * Fix EoC docs formatting ([#83455](https://github.com/CleverRaven/Cataclysm-DDA/pull/83455))
 * [XE] New vampire blood art refinements ([#83439](https://github.com/CleverRaven/Cataclysm-DDA/pull/83439))
 * [Bombastic Perks] Add the Closetland perk ([#83430](https://github.com/CleverRaven/Cataclysm-DDA/pull/83430))
-* Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
