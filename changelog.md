@@ -215,7 +215,6 @@
 * Make doors to apartments locked ([#83436](https://github.com/CleverRaven/Cataclysm-DDA/pull/83436))
 * add bone buttons and consolidate wood sealing requirements ([#83440](https://github.com/CleverRaven/Cataclysm-DDA/pull/83440))
 * [Xedra Evolved] Adjust dhampir bleeding stolen blood EoC ([#83435](https://github.com/CleverRaven/Cataclysm-DDA/pull/83435))
-* Update extractor, part 2 ([#83424](https://github.com/CleverRaven/Cataclysm-DDA/pull/83424))
 * Update name of item "id: high_end_folding_stock_folded" ([#83447](https://github.com/CleverRaven/Cataclysm-DDA/pull/83447))
 * Vehicle installation ignores preferred components ([#83448](https://github.com/CleverRaven/Cataclysm-DDA/pull/83448))
 * [Magiclysm] Fix Smite minimum damage ([#83449](https://github.com/CleverRaven/Cataclysm-DDA/pull/83449))
