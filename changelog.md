@@ -1,3 +1,4 @@
+* Update steel ballistic plate recipe times ([#83589](https://github.com/CleverRaven/Cataclysm-DDA/pull/83589))
 
 ---
 
@@ -229,4 +230,3 @@
 * [Bombastic Perks] Add the Closetland perk ([#83430](https://github.com/CleverRaven/Cataclysm-DDA/pull/83430))
 * Changing from heat_item to use heat_solid_items instead ([#83415](https://github.com/CleverRaven/Cataclysm-DDA/pull/83415))
 * Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
-* Innawoods bronze tongs can be made without already having tongs ([#83414](https://github.com/CleverRaven/Cataclysm-DDA/pull/83414))

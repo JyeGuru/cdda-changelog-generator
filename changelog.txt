@@ -1,3 +1,4 @@
+* Update steel ballistic plate recipe times (#83589)
 
 Cataclysm-DDA experimental build 2025-11-05-0512 (abd7b37)
 * Willowbark tea is easy to craft (#83592)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-10-30-0915 (f81ac28)
 * [Bombastic Perks] Add the Closetland perk (#83430)
 * Changing from heat_item to use heat_solid_items instead (#83415)
 * Region settings defined city names (#83432)
-* Innawoods bronze tongs can be made without already having tongs (#83414)
