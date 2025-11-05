@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-05-1518 ([b3d8978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-1518))
+
+* Delete 'That which cannot be modded' section ([#83609](https://github.com/CleverRaven/Cataclysm-DDA/pull/83609))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-05-0635 ([481cbde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0635))
 
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-10-30-2024 ([623714c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-2024))
 
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-30-1722 ([3c4d06e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-1722))
-
 * Add trait flag to not block you from learning advanced versions of a spell ([#83493](https://github.com/CleverRaven/Cataclysm-DDA/pull/83493))
 * [ Xedra Evolved ] Add Man Made to buildings missing it in XE ([#83508](https://github.com/CleverRaven/Cataclysm-DDA/pull/83508))
 * Salt bags, bigguns ([#83472](https://github.com/CleverRaven/Cataclysm-DDA/pull/83472))
@@ -196,7 +197,6 @@
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
 * Add 50lb flour and sugar bags to the world ([#83471](https://github.com/CleverRaven/Cataclysm-DDA/pull/83471))
 * [ Xedra Evolved ] Continue on the XE CI Journey ([#83442](https://github.com/CleverRaven/Cataclysm-DDA/pull/83442))
-* [ Xedra Evolved ] Fix various eye limbs having no armor ([#83418](https://github.com/CleverRaven/Cataclysm-DDA/pull/83418))
 * Update string extractor, part 3 ([#83476](https://github.com/CleverRaven/Cataclysm-DDA/pull/83476))
 * Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
 * Fix .460 S&W description ([#83478](https://github.com/CleverRaven/Cataclysm-DDA/pull/83478))
@@ -209,7 +209,6 @@
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * crystalizing sugar can be eaten ([#83441](https://github.com/CleverRaven/Cataclysm-DDA/pull/83441))
-* Remove obsolete grip mount ([#83422](https://github.com/CleverRaven/Cataclysm-DDA/pull/83422))
 * [Innawoods] Leather journal misalignment fix & uncraft ([#83428](https://github.com/CleverRaven/Cataclysm-DDA/pull/83428))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
 * Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
