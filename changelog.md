@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-05-0635 ([481cbde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0635))
+
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
 * Fix repeating dialogue bug with the predatory trader ([#83577](https://github.com/CleverRaven/Cataclysm-DDA/pull/83577))
 * Update steel ballistic plate recipe times ([#83589](https://github.com/CleverRaven/Cataclysm-DDA/pull/83589))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-10-30-1722 ([3c4d06e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-1722))
 
 * Add trait flag to not block you from learning advanced versions of a spell ([#83493](https://github.com/CleverRaven/Cataclysm-DDA/pull/83493))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-30-0915 ([f81ac28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-30-0915))
-
 * [ Xedra Evolved ] Add Man Made to buildings missing it in XE ([#83508](https://github.com/CleverRaven/Cataclysm-DDA/pull/83508))
 * Salt bags, bigguns ([#83472](https://github.com/CleverRaven/Cataclysm-DDA/pull/83472))
 * [ No Hope ] No purifier in no hope ([#83502](https://github.com/CleverRaven/Cataclysm-DDA/pull/83502))
