@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-06-2147 ([d4bc5e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-2147))
+
+* Fix base64 encoding of horde passability bitsets ([#83620](https://github.com/CleverRaven/Cataclysm-DDA/pull/83620))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-06-1751 ([24dc322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-1751))
 
 * Update melee practice recipes ([#83588](https://github.com/CleverRaven/Cataclysm-DDA/pull/83588))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-11-01-1431 ([2e89c98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-1431))
 
 * Routine i18n updates on 01 November 2025 ([#83538](https://github.com/CleverRaven/Cataclysm-DDA/pull/83538))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-01-0445 ([7e6d8e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-0445))
-
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
 * Add the Zombie Summoner ([#83498](https://github.com/CleverRaven/Cataclysm-DDA/pull/83498))
@@ -232,7 +233,6 @@
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
-* crystalizing sugar can be eaten ([#83441](https://github.com/CleverRaven/Cataclysm-DDA/pull/83441))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
 * Update name of item "id: high_end_folding_stock_folded" ([#83447](https://github.com/CleverRaven/Cataclysm-DDA/pull/83447))
 * Vehicle installation ignores preferred components ([#83448](https://github.com/CleverRaven/Cataclysm-DDA/pull/83448))
