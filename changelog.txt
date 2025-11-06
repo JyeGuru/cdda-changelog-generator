@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-06-0525 (8e64b54)
 * Added SPAWN_ACTIVE flag to active items (1/?) (#83576)
 * Some crude guns (#83591)
 * Fix overmap sidebar POI crash (#83610)

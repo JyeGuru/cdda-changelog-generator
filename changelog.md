@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-06-0525 ([8e64b54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-0525))
+
 * Added SPAWN_ACTIVE flag to active items (1/?) ([#83576](https://github.com/CleverRaven/Cataclysm-DDA/pull/83576))
 * Some crude guns ([#83591](https://github.com/CleverRaven/Cataclysm-DDA/pull/83591))
 * Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
