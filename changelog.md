@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-06-1751 ([24dc322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-1751))
+
+* Update melee practice recipes ([#83588](https://github.com/CleverRaven/Cataclysm-DDA/pull/83588))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-06-1400 ([202be00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-1400))
 
 * Remove some old armor ([#83590](https://github.com/CleverRaven/Cataclysm-DDA/pull/83590))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-11-01-0445 ([7e6d8e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-0445))
 
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-01-0246 ([2cb897b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-0246))
-
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
 * Add the Zombie Summoner ([#83498](https://github.com/CleverRaven/Cataclysm-DDA/pull/83498))
 * Reduce deconstruct times for kevlar vests ([#83479](https://github.com/CleverRaven/Cataclysm-DDA/pull/83479))
@@ -233,7 +234,6 @@
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * crystalizing sugar can be eaten ([#83441](https://github.com/CleverRaven/Cataclysm-DDA/pull/83441))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
-* add bone buttons and consolidate wood sealing requirements ([#83440](https://github.com/CleverRaven/Cataclysm-DDA/pull/83440))
 * Update name of item "id: high_end_folding_stock_folded" ([#83447](https://github.com/CleverRaven/Cataclysm-DDA/pull/83447))
 * Vehicle installation ignores preferred components ([#83448](https://github.com/CleverRaven/Cataclysm-DDA/pull/83448))
 * [Magiclysm] Fix Smite minimum damage ([#83449](https://github.com/CleverRaven/Cataclysm-DDA/pull/83449))

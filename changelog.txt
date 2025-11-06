@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-06-1751 (24dc322)
+* Update melee practice recipes (#83588)
+
 Cataclysm-DDA experimental build 2025-11-06-1400 (202be00)
 * Remove some old armor (#83590)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-11-01-1431 (2e89c98)
 
 Cataclysm-DDA experimental build 2025-11-01-0445 (7e6d8e2)
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back (#83535)
-
-Cataclysm-DDA experimental build 2025-11-01-0246 (2cb897b)
 * [XEDRA Evolved] Giant Vampire Bat slowdown (#83536)
 * Add the Zombie Summoner (#83498)
 * Reduce deconstruct times for kevlar vests (#83479)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2025-11-01-0246 (2cb897b)
 * Routine i18n updates on 25 October 2025 (#83470)
 * crystalizing sugar can be eaten (#83441)
 * Use 64 bit int to read 64 bit int values (#83473)
-* add bone buttons and consolidate wood sealing requirements (#83440)
 * Update name of item "id: high_end_folding_stock_folded" (#83447)
 * Vehicle installation ignores preferred components (#83448)
 * [Magiclysm] Fix Smite minimum damage (#83449)
