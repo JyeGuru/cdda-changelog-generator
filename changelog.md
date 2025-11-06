@@ -1,3 +1,13 @@
+* Added SPAWN_ACTIVE flag to active items (1/?) ([#83576](https://github.com/CleverRaven/Cataclysm-DDA/pull/83576))
+* Some crude guns ([#83591](https://github.com/CleverRaven/Cataclysm-DDA/pull/83591))
+* Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
+* Added SPAWN_ACTIVE flag to active items (2/2) ([#83611](https://github.com/CleverRaven/Cataclysm-DDA/pull/83611))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-06-0401 ([98e36e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-0401))
+
+* Blacklist evac flyer from exoplanet ([#83606](https://github.com/CleverRaven/Cataclysm-DDA/pull/83606))
 
 ---
 
@@ -177,11 +187,6 @@
 
 * Add the Zombie Summoner ([#83498](https://github.com/CleverRaven/Cataclysm-DDA/pull/83498))
 * Reduce deconstruct times for kevlar vests ([#83479](https://github.com/CleverRaven/Cataclysm-DDA/pull/83479))
-
----
-
-#### Cataclysm-DDA experimental build 2025-10-31-0158 ([68edb10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-10-31-0158))
-
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
 * Add trait flag to not block you from learning advanced versions of a spell ([#83493](https://github.com/CleverRaven/Cataclysm-DDA/pull/83493))
@@ -217,19 +222,14 @@
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * crystalizing sugar can be eaten ([#83441](https://github.com/CleverRaven/Cataclysm-DDA/pull/83441))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
-* Make name and description of variants optional ([#83434](https://github.com/CleverRaven/Cataclysm-DDA/pull/83434))
-* Make doors to apartments locked ([#83436](https://github.com/CleverRaven/Cataclysm-DDA/pull/83436))
 * add bone buttons and consolidate wood sealing requirements ([#83440](https://github.com/CleverRaven/Cataclysm-DDA/pull/83440))
-* [Xedra Evolved] Adjust dhampir bleeding stolen blood EoC ([#83435](https://github.com/CleverRaven/Cataclysm-DDA/pull/83435))
 * Update name of item "id: high_end_folding_stock_folded" ([#83447](https://github.com/CleverRaven/Cataclysm-DDA/pull/83447))
 * Vehicle installation ignores preferred components ([#83448](https://github.com/CleverRaven/Cataclysm-DDA/pull/83448))
 * [Magiclysm] Fix Smite minimum damage ([#83449](https://github.com/CleverRaven/Cataclysm-DDA/pull/83449))
 * Crude bags use crude recipe ([#83458](https://github.com/CleverRaven/Cataclysm-DDA/pull/83458))
-* Appease clang ([#83437](https://github.com/CleverRaven/Cataclysm-DDA/pull/83437))
 * Quiver tailoring is simple ([#83464](https://github.com/CleverRaven/Cataclysm-DDA/pull/83464))
 * Optimize vehicle planting ([#83468](https://github.com/CleverRaven/Cataclysm-DDA/pull/83468))
 * [Bombastic Perks] Add Closetland Paths playstyle perk ([#83469](https://github.com/CleverRaven/Cataclysm-DDA/pull/83469))
 * [Bombastic Perks] Armor of Dreams/Closetland interaction ([#83466](https://github.com/CleverRaven/Cataclysm-DDA/pull/83466))
 * Fix EoC docs formatting ([#83455](https://github.com/CleverRaven/Cataclysm-DDA/pull/83455))
 * [XE] New vampire blood art refinements ([#83439](https://github.com/CleverRaven/Cataclysm-DDA/pull/83439))
-* Region settings defined city names ([#83432](https://github.com/CleverRaven/Cataclysm-DDA/pull/83432))
