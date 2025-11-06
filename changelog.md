@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-06-1400 ([202be00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-1400))
+
 * Remove some old armor ([#83590](https://github.com/CleverRaven/Cataclysm-DDA/pull/83590))
 
 ---

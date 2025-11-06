@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-06-1400 (202be00)
 * Remove some old armor (#83590)
 
 Cataclysm-DDA experimental build 2025-11-06-1250 (c5ce2ba)
