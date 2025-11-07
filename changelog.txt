@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-07-1220 (07074db)
 * Minor Pant stats audit (#83618)
 
 Cataclysm-DDA experimental build 2025-11-07-1037 (0375f2e)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2025-11-02-1519 (f73f3fc)
 Cataclysm-DDA experimental build 2025-11-02-1344 (4171f44)
 * audit sledge craft (#83544)
 * Remove the homewrecker (#83545)
-
-Cataclysm-DDA experimental build 2025-11-02-1229 (f3e5ace)
 * Update calendar.h (#83550)
 * Update version.cmake to show versions above 0.G-19098-gb374081a98 (#83474)
 * [XEDRA Evolved] Update Gracken background recipes (#83543)
