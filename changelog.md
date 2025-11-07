@@ -1,3 +1,10 @@
+* Minor Pant stats audit ([#83618](https://github.com/CleverRaven/Cataclysm-DDA/pull/83618))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-07-1037 ([0375f2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-1037))
+
+* [ Xedra Evolved ] Fix incompatibility ([#83629](https://github.com/CleverRaven/Cataclysm-DDA/pull/83629))
 
 ---
 
@@ -191,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-11-02-1229 ([f3e5ace](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-1229))
 
 * Update calendar.h ([#83550](https://github.com/CleverRaven/Cataclysm-DDA/pull/83550))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-01-2032 ([93c6746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-2032))
-
 * Update version.cmake to show versions above 0.G-19098-gb374081a98 ([#83474](https://github.com/CleverRaven/Cataclysm-DDA/pull/83474))
 * [XEDRA Evolved] Update Gracken background recipes ([#83543](https://github.com/CleverRaven/Cataclysm-DDA/pull/83543))
 * Overmap sidebar ImGui conversion ([#83501](https://github.com/CleverRaven/Cataclysm-DDA/pull/83501))
@@ -235,10 +237,8 @@
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
-* [Magiclysm] Fix Smite minimum damage ([#83449](https://github.com/CleverRaven/Cataclysm-DDA/pull/83449))
 * Crude bags use crude recipe ([#83458](https://github.com/CleverRaven/Cataclysm-DDA/pull/83458))
 * Quiver tailoring is simple ([#83464](https://github.com/CleverRaven/Cataclysm-DDA/pull/83464))
 * Optimize vehicle planting ([#83468](https://github.com/CleverRaven/Cataclysm-DDA/pull/83468))
 * [Bombastic Perks] Add Closetland Paths playstyle perk ([#83469](https://github.com/CleverRaven/Cataclysm-DDA/pull/83469))
 * [Bombastic Perks] Armor of Dreams/Closetland interaction ([#83466](https://github.com/CleverRaven/Cataclysm-DDA/pull/83466))
-* Fix EoC docs formatting ([#83455](https://github.com/CleverRaven/Cataclysm-DDA/pull/83455))
