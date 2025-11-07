@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-07-0337 ([8686b7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-0337))
+
+* Migrated some active transformations to passive (1/?) ([#83623](https://github.com/CleverRaven/Cataclysm-DDA/pull/83623))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-07-0154 ([5071252](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-0154))
+
+* Remove radiation from missile silo ([#83624](https://github.com/CleverRaven/Cataclysm-DDA/pull/83624))
+* Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-06-2147 ([d4bc5e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-2147))
 
 * Fix base64 encoding of horde passability bitsets ([#83620](https://github.com/CleverRaven/Cataclysm-DDA/pull/83620))
@@ -185,17 +198,7 @@
 
 * Update version.cmake to show versions above 0.G-19098-gb374081a98 ([#83474](https://github.com/CleverRaven/Cataclysm-DDA/pull/83474))
 * [XEDRA Evolved] Update Gracken background recipes ([#83543](https://github.com/CleverRaven/Cataclysm-DDA/pull/83543))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-01-1922 ([39eab28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-1922))
-
 * Overmap sidebar ImGui conversion ([#83501](https://github.com/CleverRaven/Cataclysm-DDA/pull/83501))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-01-1431 ([2e89c98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-01-1431))
-
 * Routine i18n updates on 01 November 2025 ([#83538](https://github.com/CleverRaven/Cataclysm-DDA/pull/83538))
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
@@ -221,20 +224,17 @@
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
 * Add 50lb flour and sugar bags to the world ([#83471](https://github.com/CleverRaven/Cataclysm-DDA/pull/83471))
-* [ Xedra Evolved ] Continue on the XE CI Journey ([#83442](https://github.com/CleverRaven/Cataclysm-DDA/pull/83442))
 * Update string extractor, part 3 ([#83476](https://github.com/CleverRaven/Cataclysm-DDA/pull/83476))
 * Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
 * Fix .460 S&W description ([#83478](https://github.com/CleverRaven/Cataclysm-DDA/pull/83478))
 * Fix book traits modifiers not being applied ([#83482](https://github.com/CleverRaven/Cataclysm-DDA/pull/83482))
 * You can't get plastic out of glue ([#83492](https://github.com/CleverRaven/Cataclysm-DDA/pull/83492))
 * Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
-* XE - Change the blood drain EOC to be somewhat less lethal when sleeping and remove vampiric traits on purge ([#83444](https://github.com/CleverRaven/Cataclysm-DDA/pull/83444))
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
 * Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
-* Update name of item "id: high_end_folding_stock_folded" ([#83447](https://github.com/CleverRaven/Cataclysm-DDA/pull/83447))
 * Vehicle installation ignores preferred components ([#83448](https://github.com/CleverRaven/Cataclysm-DDA/pull/83448))
 * [Magiclysm] Fix Smite minimum damage ([#83449](https://github.com/CleverRaven/Cataclysm-DDA/pull/83449))
 * Crude bags use crude recipe ([#83458](https://github.com/CleverRaven/Cataclysm-DDA/pull/83458))
