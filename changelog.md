@@ -1,3 +1,5 @@
+* Smithing recipes require flux and graphite as appropriate for forging, punching, and crucibles and related misc ([#83528](https://github.com/CleverRaven/Cataclysm-DDA/pull/83528))
+* Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
 
 ---
 
@@ -217,7 +219,6 @@
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
 * Add trait flag to not block you from learning advanced versions of a spell ([#83493](https://github.com/CleverRaven/Cataclysm-DDA/pull/83493))
 * [ Xedra Evolved ] Add Man Made to buildings missing it in XE ([#83508](https://github.com/CleverRaven/Cataclysm-DDA/pull/83508))
-* Salt bags, bigguns ([#83472](https://github.com/CleverRaven/Cataclysm-DDA/pull/83472))
 * [ No Hope ] No purifier in no hope ([#83502](https://github.com/CleverRaven/Cataclysm-DDA/pull/83502))
 * Suppress dual food quality suffixes on hallu-eating + suppress sectio… ([#83495](https://github.com/CleverRaven/Cataclysm-DDA/pull/83495))
 * expose signal_hordes() to eoc ([#83500](https://github.com/CleverRaven/Cataclysm-DDA/pull/83500))
@@ -232,7 +233,6 @@
 * [Bombastic Perks/XE] Add Grack Pack perk ([#83496](https://github.com/CleverRaven/Cataclysm-DDA/pull/83496))
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
-* Add 50lb flour and sugar bags to the world ([#83471](https://github.com/CleverRaven/Cataclysm-DDA/pull/83471))
 * Update string extractor, part 3 ([#83476](https://github.com/CleverRaven/Cataclysm-DDA/pull/83476))
 * Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
 * Fix .460 S&W description ([#83478](https://github.com/CleverRaven/Cataclysm-DDA/pull/83478))
