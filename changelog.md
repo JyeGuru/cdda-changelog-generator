@@ -1,3 +1,6 @@
+* Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
+* Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
+* Add Kvass ([#83575](https://github.com/CleverRaven/Cataclysm-DDA/pull/83575))
 * Smithing recipes require flux and graphite as appropriate for forging, punching, and crucibles and related misc ([#83528](https://github.com/CleverRaven/Cataclysm-DDA/pull/83528))
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
 
@@ -207,7 +210,6 @@
 * audit sledge craft ([#83544](https://github.com/CleverRaven/Cataclysm-DDA/pull/83544))
 * Remove the homewrecker ([#83545](https://github.com/CleverRaven/Cataclysm-DDA/pull/83545))
 * Update calendar.h ([#83550](https://github.com/CleverRaven/Cataclysm-DDA/pull/83550))
-* Update version.cmake to show versions above 0.G-19098-gb374081a98 ([#83474](https://github.com/CleverRaven/Cataclysm-DDA/pull/83474))
 * [XEDRA Evolved] Update Gracken background recipes ([#83543](https://github.com/CleverRaven/Cataclysm-DDA/pull/83543))
 * Overmap sidebar ImGui conversion ([#83501](https://github.com/CleverRaven/Cataclysm-DDA/pull/83501))
 * Routine i18n updates on 01 November 2025 ([#83538](https://github.com/CleverRaven/Cataclysm-DDA/pull/83538))
@@ -233,7 +235,6 @@
 * [Bombastic Perks/XE] Add Grack Pack perk ([#83496](https://github.com/CleverRaven/Cataclysm-DDA/pull/83496))
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
-* Update string extractor, part 3 ([#83476](https://github.com/CleverRaven/Cataclysm-DDA/pull/83476))
 * Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
 * Fix .460 S&W description ([#83478](https://github.com/CleverRaven/Cataclysm-DDA/pull/83478))
 * Fix book traits modifiers not being applied ([#83482](https://github.com/CleverRaven/Cataclysm-DDA/pull/83482))
@@ -241,4 +242,3 @@
 * Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
-* Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
