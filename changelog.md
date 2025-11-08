@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-08-0723 ([c8c6ae1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0723))
+
 * Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
 * Add Kvass ([#83575](https://github.com/CleverRaven/Cataclysm-DDA/pull/83575))
@@ -198,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2025-11-03-0927 ([9962efb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-03-0927))
 
 * Fix numerous basic typos in comments and documentation files ([#83564](https://github.com/CleverRaven/Cataclysm-DDA/pull/83564))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-02-2147 ([b3816f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-2147))
-
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
 * Use copy-from for region settings instead of overlays ([#83530](https://github.com/CleverRaven/Cataclysm-DDA/pull/83530))
 * Fix a few gun mod issues ([#83548](https://github.com/CleverRaven/Cataclysm-DDA/pull/83548))
