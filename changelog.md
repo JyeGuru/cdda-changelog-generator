@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-08-1441 ([0968ee8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-1441))
+
 * Density fixes for mods ([#83531](https://github.com/CleverRaven/Cataclysm-DDA/pull/83531))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2025-11-03-2147 ([15c93d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-03-2147))
 
 * [TropiCata] Monstergroup spring cleaning ([#83559](https://github.com/CleverRaven/Cataclysm-DDA/pull/83559))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-03-1054 ([a5d2554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-03-1054))
-
 * Shadow (*not* `a shadow?`) overhaul ([#83560](https://github.com/CleverRaven/Cataclysm-DDA/pull/83560))
 * Fix name of nested canvas trenchcoats recipe category ([#83562](https://github.com/CleverRaven/Cataclysm-DDA/pull/83562))
 * Remove "u" from Rock Island Armory ([#83563](https://github.com/CleverRaven/Cataclysm-DDA/pull/83563))
