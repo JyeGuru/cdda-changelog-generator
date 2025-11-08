@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-08-0459 ([e36636b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0459))
+
+* Routine i18n updates on 08 November 2025 ([#83655](https://github.com/CleverRaven/Cataclysm-DDA/pull/83655))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-07-1337 ([7ae0537](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-1337))
 
 * Adjust Irradiation Plant mapgen special spawn ([#83642](https://github.com/CleverRaven/Cataclysm-DDA/pull/83642))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-11-02-2014 ([5f85cc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-2014))
 
 * Fix a few gun mod issues ([#83548](https://github.com/CleverRaven/Cataclysm-DDA/pull/83548))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-02-1519 ([f73f3fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-1519))
-
 * Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
 * audit sledge craft ([#83544](https://github.com/CleverRaven/Cataclysm-DDA/pull/83544))
 * Remove the homewrecker ([#83545](https://github.com/CleverRaven/Cataclysm-DDA/pull/83545))
@@ -235,7 +236,6 @@
 * Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
 * Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
-* Don't count mounted vehicle's fuel as carrying vehicle's ([#83463](https://github.com/CleverRaven/Cataclysm-DDA/pull/83463))
 * Routine i18n updates on 25 October 2025 ([#83470](https://github.com/CleverRaven/Cataclysm-DDA/pull/83470))
 * Use 64 bit int to read 64 bit int values ([#83473](https://github.com/CleverRaven/Cataclysm-DDA/pull/83473))
 * Quiver tailoring is simple ([#83464](https://github.com/CleverRaven/Cataclysm-DDA/pull/83464))
