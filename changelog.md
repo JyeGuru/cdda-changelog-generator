@@ -1,3 +1,4 @@
+* Density fixes for mods ([#83531](https://github.com/CleverRaven/Cataclysm-DDA/pull/83531))
 
 ---
 
@@ -217,7 +218,6 @@
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
 * Add the Zombie Summoner ([#83498](https://github.com/CleverRaven/Cataclysm-DDA/pull/83498))
-* Reduce deconstruct times for kevlar vests ([#83479](https://github.com/CleverRaven/Cataclysm-DDA/pull/83479))
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
 * Add trait flag to not block you from learning advanced versions of a spell ([#83493](https://github.com/CleverRaven/Cataclysm-DDA/pull/83493))
