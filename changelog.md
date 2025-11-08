@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-08-1907 ([0cb6da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-1907))
+
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
 
 ---
@@ -196,11 +201,6 @@
 * [TropiCata] Fix monster deaths ([#83558](https://github.com/CleverRaven/Cataclysm-DDA/pull/83558))
 * Fix some nylon gambeson related recipes ([#83561](https://github.com/CleverRaven/Cataclysm-DDA/pull/83561))
 * Remove 0 weight entries from monstergroups ([#83569](https://github.com/CleverRaven/Cataclysm-DDA/pull/83569))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-04-0658 ([910bfda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-0658))
-
 * Wraith overhaul ([#83570](https://github.com/CleverRaven/Cataclysm-DDA/pull/83570))
 * [TropiCata] Monstergroup spring cleaning ([#83559](https://github.com/CleverRaven/Cataclysm-DDA/pull/83559))
 * Shadow (*not* `a shadow?`) overhaul ([#83560](https://github.com/CleverRaven/Cataclysm-DDA/pull/83560))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-08-1907 (0cb6da9)
 * poler-camo to polar-camo (#83658)
 
 Cataclysm-DDA experimental build 2025-11-08-1737 (803b303)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2025-11-04-0758 (01139e5)
 * [TropiCata] Fix monster deaths (#83558)
 * Fix some nylon gambeson related recipes (#83561)
 * Remove 0 weight entries from monstergroups (#83569)
-
-Cataclysm-DDA experimental build 2025-11-04-0658 (910bfda)
 * Wraith overhaul (#83570)
 * [TropiCata] Monstergroup spring cleaning (#83559)
 * Shadow (*not* `a shadow?`) overhaul (#83560)
