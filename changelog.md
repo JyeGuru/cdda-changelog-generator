@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-08-2302 ([6ac98c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-2302))
+
+* Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-08-1907 ([0cb6da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-1907))
 
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-11-04-0859 ([01884d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-0859))
 
 * Weekly Changelog 2025-10-27 to 2025-11-03 ([#83565](https://github.com/CleverRaven/Cataclysm-DDA/pull/83565))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-04-0758 ([01139e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-0758))
-
 * Make sample items active, including a tanning one ([#83524](https://github.com/CleverRaven/Cataclysm-DDA/pull/83524))
 * chewing gum spawns in containers ([#83546](https://github.com/CleverRaven/Cataclysm-DDA/pull/83546))
 * Plants don't have animal anatomy ([#83556](https://github.com/CleverRaven/Cataclysm-DDA/pull/83556))
@@ -241,4 +242,3 @@
 * You can't get plastic out of glue ([#83492](https://github.com/CleverRaven/Cataclysm-DDA/pull/83492))
 * Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
-* Updating "military plutonium fuel cell (disposable)"'s plural form ([#83485](https://github.com/CleverRaven/Cataclysm-DDA/pull/83485))
