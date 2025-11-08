@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-08-0623 ([4b7a2f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0623))
+
 * Add vehicle zone enable/disable keys to the zone manager UI ([#83641](https://github.com/CleverRaven/Cataclysm-DDA/pull/83641))
 * [MoM] Add Photokinetic matrix crystal artifacts ([#83627](https://github.com/CleverRaven/Cataclysm-DDA/pull/83627))
 * Fix floors in sewage treatment plant ([#83625](https://github.com/CleverRaven/Cataclysm-DDA/pull/83625))
@@ -195,11 +200,6 @@
 
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
 * Use copy-from for region settings instead of overlays ([#83530](https://github.com/CleverRaven/Cataclysm-DDA/pull/83530))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-02-2014 ([5f85cc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-02-2014))
-
 * Fix a few gun mod issues ([#83548](https://github.com/CleverRaven/Cataclysm-DDA/pull/83548))
 * Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
 * audit sledge craft ([#83544](https://github.com/CleverRaven/Cataclysm-DDA/pull/83544))
