@@ -1,3 +1,4 @@
+* poler-camo to polar-camo (#83658)
 
 Cataclysm-DDA experimental build 2025-11-08-1737 (803b303)
 * Allow variants for brewing and composting results (#83599)
@@ -147,7 +148,6 @@ Cataclysm-DDA experimental build 2025-11-04-0658 (910bfda)
 * [Bombastic Perks/XE] Alchemy perks activate automatically (#83497)
 * [MoM] Add pyrokinetic power Intensify Flames (#83490)
 * Weekly Changelog 2025-10-20 to 2025-10-27 (#83491)
-* Fix book traits modifiers not being applied (#83482)
 * You can't get plastic out of glue (#83492)
 * Sewage Switchup (#83487)
 * Fix missing tilesets in releases (#83486)

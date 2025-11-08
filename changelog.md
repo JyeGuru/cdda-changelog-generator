@@ -1,3 +1,4 @@
+* poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
 
 ---
 
@@ -237,7 +238,6 @@
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
 * [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
 * Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
-* Fix book traits modifiers not being applied ([#83482](https://github.com/CleverRaven/Cataclysm-DDA/pull/83482))
 * You can't get plastic out of glue ([#83492](https://github.com/CleverRaven/Cataclysm-DDA/pull/83492))
 * Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
 * Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
