@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-09-2128 ([ce0375d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-2128))
+
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
 
@@ -191,11 +196,6 @@
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
 * Fix repeating dialogue bug with the predatory trader ([#83577](https://github.com/CleverRaven/Cataclysm-DDA/pull/83577))
 * Update steel ballistic plate recipe times ([#83589](https://github.com/CleverRaven/Cataclysm-DDA/pull/83589))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-05-0512 ([abd7b37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0512))
-
 * Willowbark tea is easy to craft ([#83592](https://github.com/CleverRaven/Cataclysm-DDA/pull/83592))
 * remove 4.6 casings ([#83586](https://github.com/CleverRaven/Cataclysm-DDA/pull/83586))
 * Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
