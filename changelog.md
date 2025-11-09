@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-09-0312 ([6d7c916](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-0312))
+
+* [Bugfix]Vanishing Arc Teleport bugs ([#83645](https://github.com/CleverRaven/Cataclysm-DDA/pull/83645))
+* Add large monocrystalline roof panel installs ([#83672](https://github.com/CleverRaven/Cataclysm-DDA/pull/83672))
+* Add 2 new guns: Mossberg Shockwave and Mossberg 500 in 410 ([#83669](https://github.com/CleverRaven/Cataclysm-DDA/pull/83669))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-09-0148 ([e4bee54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-0148))
+
+* Fix wrong category name for chitinous vests ([#83670](https://github.com/CleverRaven/Cataclysm-DDA/pull/83670))
+* manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-08-2302 ([6ac98c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-2302))
 
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
@@ -183,17 +198,7 @@
 
 * [AFS] Frozen human flesh is people ([#83574](https://github.com/CleverRaven/Cataclysm-DDA/pull/83574))
 * Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-04-2108 ([6e92475](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-2108))
-
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-04-0859 ([01884d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-0859))
-
 * Weekly Changelog 2025-10-27 to 2025-11-03 ([#83565](https://github.com/CleverRaven/Cataclysm-DDA/pull/83565))
 * Make sample items active, including a tanning one ([#83524](https://github.com/CleverRaven/Cataclysm-DDA/pull/83524))
 * chewing gum spawns in containers ([#83546](https://github.com/CleverRaven/Cataclysm-DDA/pull/83546))
@@ -237,8 +242,3 @@
 * Domestic palette fix - armguards and oatmeal ([#83507](https://github.com/CleverRaven/Cataclysm-DDA/pull/83507))
 * [Bombastic Perks/XE] Add Grack Pack perk ([#83496](https://github.com/CleverRaven/Cataclysm-DDA/pull/83496))
 * [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
-* [MoM] Add pyrokinetic power Intensify Flames ([#83490](https://github.com/CleverRaven/Cataclysm-DDA/pull/83490))
-* Weekly Changelog 2025-10-20 to 2025-10-27 ([#83491](https://github.com/CleverRaven/Cataclysm-DDA/pull/83491))
-* You can't get plastic out of glue ([#83492](https://github.com/CleverRaven/Cataclysm-DDA/pull/83492))
-* Sewage Switchup ([#83487](https://github.com/CleverRaven/Cataclysm-DDA/pull/83487))
-* Fix missing tilesets in releases ([#83486](https://github.com/CleverRaven/Cataclysm-DDA/pull/83486))
