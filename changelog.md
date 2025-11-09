@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-09-1133 ([599f9d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-1133))
+
 * Nails item damages wheel ([#83664](https://github.com/CleverRaven/Cataclysm-DDA/pull/83664))
 
 ---
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-11-05-0113 ([9359bb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0113))
 
 * Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-04-2317 ([74b49c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-2317))
-
 * Rescale adobe construction, add adobe option to modular basecamp ([#83567](https://github.com/CleverRaven/Cataclysm-DDA/pull/83567))
 * Brass from casings ([#83585](https://github.com/CleverRaven/Cataclysm-DDA/pull/83585))
 * Zombie flesh is still human flesh ([#83579](https://github.com/CleverRaven/Cataclysm-DDA/pull/83579))
