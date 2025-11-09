@@ -1,3 +1,10 @@
+* Nails item damages wheel ([#83664](https://github.com/CleverRaven/Cataclysm-DDA/pull/83664))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-09-1000 ([0a340e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-1000))
+
+* [Bugfix] Appliances' cable connection failure after Vanishing Arc teleport ([#83661](https://github.com/CleverRaven/Cataclysm-DDA/pull/83661))
 
 ---
 
@@ -191,11 +198,6 @@
 * Rescale adobe construction, add adobe option to modular basecamp ([#83567](https://github.com/CleverRaven/Cataclysm-DDA/pull/83567))
 * Brass from casings ([#83585](https://github.com/CleverRaven/Cataclysm-DDA/pull/83585))
 * Zombie flesh is still human flesh ([#83579](https://github.com/CleverRaven/Cataclysm-DDA/pull/83579))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-04-2228 ([e8804df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-04-2228))
-
 * [AFS] Frozen human flesh is people ([#83574](https://github.com/CleverRaven/Cataclysm-DDA/pull/83574))
 * Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))
@@ -228,10 +230,8 @@
 * Add the Zombie Summoner ([#83498](https://github.com/CleverRaven/Cataclysm-DDA/pull/83498))
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
-* Add trait flag to not block you from learning advanced versions of a spell ([#83493](https://github.com/CleverRaven/Cataclysm-DDA/pull/83493))
 * [ Xedra Evolved ] Add Man Made to buildings missing it in XE ([#83508](https://github.com/CleverRaven/Cataclysm-DDA/pull/83508))
 * [ No Hope ] No purifier in no hope ([#83502](https://github.com/CleverRaven/Cataclysm-DDA/pull/83502))
-* Suppress dual food quality suffixes on hallu-eating + suppress sectio… ([#83495](https://github.com/CleverRaven/Cataclysm-DDA/pull/83495))
 * expose signal_hordes() to eoc ([#83500](https://github.com/CleverRaven/Cataclysm-DDA/pull/83500))
 * [Magiclysm/Innawood] Fix cities spawning Innawood ([#83512](https://github.com/CleverRaven/Cataclysm-DDA/pull/83512))
 * [MoM/Innawood] Fix cities spawning Innawood ([#83511](https://github.com/CleverRaven/Cataclysm-DDA/pull/83511))
