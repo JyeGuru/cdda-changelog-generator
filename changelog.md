@@ -1,3 +1,11 @@
+* [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
+* Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-09-2017 ([3be0a1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-2017))
+
+* Fix scaling factor for high-dpi displays ([#83631](https://github.com/CleverRaven/Cataclysm-DDA/pull/83631))
 
 ---
 
@@ -189,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-11-05-0512 ([abd7b37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0512))
 
 * Willowbark tea is easy to craft ([#83592](https://github.com/CleverRaven/Cataclysm-DDA/pull/83592))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-05-0225 ([04c1c72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0225))
-
 * remove 4.6 casings ([#83586](https://github.com/CleverRaven/Cataclysm-DDA/pull/83586))
 * Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
 * Rescale adobe construction, add adobe option to modular basecamp ([#83567](https://github.com/CleverRaven/Cataclysm-DDA/pull/83567))
@@ -228,12 +231,10 @@
 * Routine i18n updates on 01 November 2025 ([#83538](https://github.com/CleverRaven/Cataclysm-DDA/pull/83538))
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
-* Add the Zombie Summoner ([#83498](https://github.com/CleverRaven/Cataclysm-DDA/pull/83498))
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
 * [ Xedra Evolved ] Add Man Made to buildings missing it in XE ([#83508](https://github.com/CleverRaven/Cataclysm-DDA/pull/83508))
 * [ No Hope ] No purifier in no hope ([#83502](https://github.com/CleverRaven/Cataclysm-DDA/pull/83502))
-* expose signal_hordes() to eoc ([#83500](https://github.com/CleverRaven/Cataclysm-DDA/pull/83500))
 * [Magiclysm/Innawood] Fix cities spawning Innawood ([#83512](https://github.com/CleverRaven/Cataclysm-DDA/pull/83512))
 * [MoM/Innawood] Fix cities spawning Innawood ([#83511](https://github.com/CleverRaven/Cataclysm-DDA/pull/83511))
 * [XE/Innawood] Fix cities spawning Innawood ([#83510](https://github.com/CleverRaven/Cataclysm-DDA/pull/83510))
@@ -241,4 +242,3 @@
 * Inventory/Compare: show loose gunmods; hide installed when not visible (#83192) ([#83509](https://github.com/CleverRaven/Cataclysm-DDA/pull/83509))
 * remove a few silly recipes ([#83515](https://github.com/CleverRaven/Cataclysm-DDA/pull/83515))
 * Domestic palette fix - armguards and oatmeal ([#83507](https://github.com/CleverRaven/Cataclysm-DDA/pull/83507))
-* [Bombastic Perks/XE] Alchemy perks activate automatically ([#83497](https://github.com/CleverRaven/Cataclysm-DDA/pull/83497))
