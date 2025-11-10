@@ -1,3 +1,4 @@
+* Fix building releases after moving translations to CI ([#83704](https://github.com/CleverRaven/Cataclysm-DDA/pull/83704))
 
 ---
 
@@ -234,5 +235,4 @@
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
-* [Magiclysm/XE] Fix Paradox Survivor incompatibility ([#83513](https://github.com/CleverRaven/Cataclysm-DDA/pull/83513))
 * remove a few silly recipes ([#83515](https://github.com/CleverRaven/Cataclysm-DDA/pull/83515))
