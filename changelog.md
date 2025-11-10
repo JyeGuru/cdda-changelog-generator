@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-10-1132 ([5461de6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-1132))
+
+* [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs ([#83689](https://github.com/CleverRaven/Cataclysm-DDA/pull/83689))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-10-0351 ([450fdad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0351))
 
 * Name smaller solar panels as small ([#83662](https://github.com/CleverRaven/Cataclysm-DDA/pull/83662))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-11-06-1250 ([c5ce2ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-1250))
 
 * [Bombastic Perks] More perks ([#83604](https://github.com/CleverRaven/Cataclysm-DDA/pull/83604))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-06-0525 ([8e64b54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-0525))
-
 * Added SPAWN_ACTIVE flag to active items (1/?) ([#83576](https://github.com/CleverRaven/Cataclysm-DDA/pull/83576))
 * Some crude guns ([#83591](https://github.com/CleverRaven/Cataclysm-DDA/pull/83591))
 * Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
@@ -234,6 +235,5 @@
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
 * [Magiclysm/Innawood] Fix cities spawning Innawood ([#83512](https://github.com/CleverRaven/Cataclysm-DDA/pull/83512))
-* [MoM/Innawood] Fix cities spawning Innawood ([#83511](https://github.com/CleverRaven/Cataclysm-DDA/pull/83511))
 * [Magiclysm/XE] Fix Paradox Survivor incompatibility ([#83513](https://github.com/CleverRaven/Cataclysm-DDA/pull/83513))
 * remove a few silly recipes ([#83515](https://github.com/CleverRaven/Cataclysm-DDA/pull/83515))

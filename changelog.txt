@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-10-1132 (5461de6)
+* [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs (#83689)
+
 Cataclysm-DDA experimental build 2025-11-10-0351 (450fdad)
 * Name smaller solar panels as small (#83662)
 * [Aftershock ] Fix UICA vehicle purchase (#83638)
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2025-11-06-1400 (202be00)
 
 Cataclysm-DDA experimental build 2025-11-06-1250 (c5ce2ba)
 * [Bombastic Perks] More perks (#83604)
-
-Cataclysm-DDA experimental build 2025-11-06-0525 (8e64b54)
 * Added SPAWN_ACTIVE flag to active items (1/?) (#83576)
 * Some crude guns (#83591)
 * Fix overmap sidebar POI crash (#83610)
@@ -147,6 +148,5 @@ Cataclysm-DDA experimental build 2025-11-06-0525 (8e64b54)
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together (#83525)
 * Add flesh aberration corpse pit map extra (#83517)
 * [Magiclysm/Innawood] Fix cities spawning Innawood (#83512)
-* [MoM/Innawood] Fix cities spawning Innawood (#83511)
 * [Magiclysm/XE] Fix Paradox Survivor incompatibility (#83513)
 * remove a few silly recipes (#83515)
