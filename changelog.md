@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-10-0138 ([d516218](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0138))
+
+* [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-09-2128 ([ce0375d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-2128))
 
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
@@ -182,17 +188,7 @@
 #### Cataclysm-DDA experimental build 2025-11-05-2054 ([d6086a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-2054))
 
 * Fix bill pole ([#83600](https://github.com/CleverRaven/Cataclysm-DDA/pull/83600))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-05-1518 ([b3d8978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-1518))
-
 * Delete 'That which cannot be modded' section ([#83609](https://github.com/CleverRaven/Cataclysm-DDA/pull/83609))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-05-0635 ([481cbde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-0635))
-
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
 * Fix repeating dialogue bug with the predatory trader ([#83577](https://github.com/CleverRaven/Cataclysm-DDA/pull/83577))
 * Update steel ballistic plate recipe times ([#83589](https://github.com/CleverRaven/Cataclysm-DDA/pull/83589))
@@ -227,7 +223,6 @@
 * Remove the homewrecker ([#83545](https://github.com/CleverRaven/Cataclysm-DDA/pull/83545))
 * Update calendar.h ([#83550](https://github.com/CleverRaven/Cataclysm-DDA/pull/83550))
 * [XEDRA Evolved] Update Gracken background recipes ([#83543](https://github.com/CleverRaven/Cataclysm-DDA/pull/83543))
-* Overmap sidebar ImGui conversion ([#83501](https://github.com/CleverRaven/Cataclysm-DDA/pull/83501))
 * Routine i18n updates on 01 November 2025 ([#83538](https://github.com/CleverRaven/Cataclysm-DDA/pull/83538))
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
