@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-10-2232 ([9556364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-2232))
+
+* Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-10-2021 ([fd86a63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-2021))
 
 * Add a few restricted mags ([#83693](https://github.com/CleverRaven/Cataclysm-DDA/pull/83693))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-11-06-1751 ([24dc322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-1751))
 
 * Update melee practice recipes ([#83588](https://github.com/CleverRaven/Cataclysm-DDA/pull/83588))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-06-1400 ([202be00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-1400))
-
 * Remove some old armor ([#83590](https://github.com/CleverRaven/Cataclysm-DDA/pull/83590))
 * [Bombastic Perks] More perks ([#83604](https://github.com/CleverRaven/Cataclysm-DDA/pull/83604))
 * Added SPAWN_ACTIVE flag to active items (1/?) ([#83576](https://github.com/CleverRaven/Cataclysm-DDA/pull/83576))
@@ -235,4 +236,3 @@
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
-* Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
