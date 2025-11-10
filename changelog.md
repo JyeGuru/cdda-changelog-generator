@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-10-0351 ([450fdad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0351))
+
+* Name smaller solar panels as small ([#83662](https://github.com/CleverRaven/Cataclysm-DDA/pull/83662))
+* [Aftershock ] Fix UICA vehicle purchase ([#83638](https://github.com/CleverRaven/Cataclysm-DDA/pull/83638))
+* Fix mouse positioning when UI is scaled ([#83634](https://github.com/CleverRaven/Cataclysm-DDA/pull/83634))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-10-0348 ([f82dafe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0348))
+
+* [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-10-0338 ([16574cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0338))
+
+* Zone sorting refactor ([#83640](https://github.com/CleverRaven/Cataclysm-DDA/pull/83640))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-10-0138 ([d516218](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0138))
 
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
@@ -170,23 +190,8 @@
 * Some crude guns ([#83591](https://github.com/CleverRaven/Cataclysm-DDA/pull/83591))
 * Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
 * Added SPAWN_ACTIVE flag to active items (2/2) ([#83611](https://github.com/CleverRaven/Cataclysm-DDA/pull/83611))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-06-0401 ([98e36e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-0401))
-
 * Blacklist evac flyer from exoplanet ([#83606](https://github.com/CleverRaven/Cataclysm-DDA/pull/83606))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-05-2157 ([3eeda37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-2157))
-
 * Fix IWYU ([#83594](https://github.com/CleverRaven/Cataclysm-DDA/pull/83594))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-05-2054 ([d6086a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-05-2054))
-
 * Fix bill pole ([#83600](https://github.com/CleverRaven/Cataclysm-DDA/pull/83600))
 * Delete 'That which cannot be modded' section ([#83609](https://github.com/CleverRaven/Cataclysm-DDA/pull/83609))
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
@@ -228,12 +233,7 @@
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
 * [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
 * Add flesh aberration corpse pit map extra ([#83517](https://github.com/CleverRaven/Cataclysm-DDA/pull/83517))
-* [ Xedra Evolved ] Add Man Made to buildings missing it in XE ([#83508](https://github.com/CleverRaven/Cataclysm-DDA/pull/83508))
-* [ No Hope ] No purifier in no hope ([#83502](https://github.com/CleverRaven/Cataclysm-DDA/pull/83502))
 * [Magiclysm/Innawood] Fix cities spawning Innawood ([#83512](https://github.com/CleverRaven/Cataclysm-DDA/pull/83512))
 * [MoM/Innawood] Fix cities spawning Innawood ([#83511](https://github.com/CleverRaven/Cataclysm-DDA/pull/83511))
-* [XE/Innawood] Fix cities spawning Innawood ([#83510](https://github.com/CleverRaven/Cataclysm-DDA/pull/83510))
 * [Magiclysm/XE] Fix Paradox Survivor incompatibility ([#83513](https://github.com/CleverRaven/Cataclysm-DDA/pull/83513))
-* Inventory/Compare: show loose gunmods; hide installed when not visible (#83192) ([#83509](https://github.com/CleverRaven/Cataclysm-DDA/pull/83509))
 * remove a few silly recipes ([#83515](https://github.com/CleverRaven/Cataclysm-DDA/pull/83515))
-* Domestic palette fix - armguards and oatmeal ([#83507](https://github.com/CleverRaven/Cataclysm-DDA/pull/83507))
