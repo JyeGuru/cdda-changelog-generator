@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-11-0723 ([cc1a41f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0723))
+
+* Make a code for prof migration ([#83673](https://github.com/CleverRaven/Cataclysm-DDA/pull/83673))
+* [MoM] Some monster edits ([#83680](https://github.com/CleverRaven/Cataclysm-DDA/pull/83680))
+* Improve LIXA terminal failure-to-copy message ([#83695](https://github.com/CleverRaven/Cataclysm-DDA/pull/83695))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-11-0649 ([27dc5c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0649))
+
+* [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug ([#83702](https://github.com/CleverRaven/Cataclysm-DDA/pull/83702))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-11-11-0647 ([22d5c20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-11-0647))
+
+* Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-11-0335 ([afad12e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0335))
 
 * Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
@@ -164,23 +184,8 @@
 * Fix floors in sewage treatment plant ([#83625](https://github.com/CleverRaven/Cataclysm-DDA/pull/83625))
 * Update HOW_YOU_CAN_HELP.md ([#83549](https://github.com/CleverRaven/Cataclysm-DDA/pull/83549))
 * Audit solar panel installation/removal reqs for vehicles ([#83650](https://github.com/CleverRaven/Cataclysm-DDA/pull/83650))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-08-0459 ([e36636b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0459))
-
 * Routine i18n updates on 08 November 2025 ([#83655](https://github.com/CleverRaven/Cataclysm-DDA/pull/83655))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-07-1337 ([7ae0537](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-1337))
-
 * Adjust Irradiation Plant mapgen special spawn ([#83642](https://github.com/CleverRaven/Cataclysm-DDA/pull/83642))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-07-1220 ([07074db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-1220))
-
 * Minor Pant stats audit ([#83618](https://github.com/CleverRaven/Cataclysm-DDA/pull/83618))
 * [ Xedra Evolved ] Fix incompatibility ([#83629](https://github.com/CleverRaven/Cataclysm-DDA/pull/83629))
 * Migrated some active transformations to passive (1/?) ([#83623](https://github.com/CleverRaven/Cataclysm-DDA/pull/83623))
@@ -226,10 +231,5 @@
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
 * Fix a few gun mod issues ([#83548](https://github.com/CleverRaven/Cataclysm-DDA/pull/83548))
 * Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
-* audit sledge craft ([#83544](https://github.com/CleverRaven/Cataclysm-DDA/pull/83544))
 * Remove the homewrecker ([#83545](https://github.com/CleverRaven/Cataclysm-DDA/pull/83545))
 * Update calendar.h ([#83550](https://github.com/CleverRaven/Cataclysm-DDA/pull/83550))
-* [XEDRA Evolved] Update Gracken background recipes ([#83543](https://github.com/CleverRaven/Cataclysm-DDA/pull/83543))
-* Routine i18n updates on 01 November 2025 ([#83538](https://github.com/CleverRaven/Cataclysm-DDA/pull/83538))
-* [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
-* [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))

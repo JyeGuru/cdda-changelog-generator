@@ -1,4 +1,15 @@
 
+Cataclysm-DDA experimental build 2025-11-11-0723 (cc1a41f)
+* Make a code for prof migration (#83673)
+* [MoM] Some monster edits (#83680)
+* Improve LIXA terminal failure-to-copy message (#83695)
+
+Cataclysm-DDA experimental build 2025-11-11-0649 (27dc5c4)
+* [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug (#83702)
+
+Cataclysm-DDA 0.I release candidate 2025-11-11-0647 (22d5c20)
+* Fix scaling factor for high-dpi displays (#83709)
+
 Cataclysm-DDA experimental build 2025-11-11-0335 (afad12e)
 * Add effect migration code (#83706)
 * Weekly Changelog 2025-11-03 to 2025-11-10 (#83696)
@@ -89,14 +100,8 @@ Cataclysm-DDA experimental build 2025-11-08-0623 (4b7a2f2)
 * Fix floors in sewage treatment plant (#83625)
 * Update HOW_YOU_CAN_HELP.md (#83549)
 * Audit solar panel installation/removal reqs for vehicles (#83650)
-
-Cataclysm-DDA experimental build 2025-11-08-0459 (e36636b)
 * Routine i18n updates on 08 November 2025 (#83655)
-
-Cataclysm-DDA experimental build 2025-11-07-1337 (7ae0537)
 * Adjust Irradiation Plant mapgen special spawn (#83642)
-
-Cataclysm-DDA experimental build 2025-11-07-1220 (07074db)
 * Minor Pant stats audit (#83618)
 * [ Xedra Evolved ] Fix incompatibility (#83629)
 * Migrated some active transformations to passive (1/?) (#83623)
@@ -142,10 +147,5 @@ Cataclysm-DDA experimental build 2025-11-07-1220 (07074db)
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care (#83553)
 * Fix a few gun mod issues (#83548)
 * Remove slime weakpoint proficiencies (#83554)
-* audit sledge craft (#83544)
 * Remove the homewrecker (#83545)
 * Update calendar.h (#83550)
-* [XEDRA Evolved] Update Gracken background recipes (#83543)
-* Routine i18n updates on 01 November 2025 (#83538)
-* [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back (#83535)
-* [XEDRA Evolved] Giant Vampire Bat slowdown (#83536)
