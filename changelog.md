@@ -1,3 +1,4 @@
+* 7 New Melee weapons ([#83690](https://github.com/CleverRaven/Cataclysm-DDA/pull/83690))
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 
 ---
@@ -231,4 +232,3 @@
 * Fix numerous basic typos in comments and documentation files ([#83564](https://github.com/CleverRaven/Cataclysm-DDA/pull/83564))
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
 * Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
-* Update calendar.h ([#83550](https://github.com/CleverRaven/Cataclysm-DDA/pull/83550))

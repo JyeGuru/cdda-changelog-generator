@@ -1,3 +1,4 @@
+* 7 New Melee weapons (#83690)
 * Appease clang (#83724)
 
 Cataclysm-DDA experimental build 2025-11-11-2141 (ff34e34)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2025-11-08-0831 (ad7dede)
 * Fix numerous basic typos in comments and documentation files (#83564)
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care (#83553)
 * Remove slime weakpoint proficiencies (#83554)
-* Update calendar.h (#83550)
