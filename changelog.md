@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-11-1721 ([3da6fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-1721))
+
+* fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
 
 ---
@@ -175,11 +181,6 @@
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
 * Add Kvass ([#83575](https://github.com/CleverRaven/Cataclysm-DDA/pull/83575))
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-08-0623 ([4b7a2f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0623))
-
 * Add vehicle zone enable/disable keys to the zone manager UI ([#83641](https://github.com/CleverRaven/Cataclysm-DDA/pull/83641))
 * [MoM] Add Photokinetic matrix crystal artifacts ([#83627](https://github.com/CleverRaven/Cataclysm-DDA/pull/83627))
 * Fix floors in sewage treatment plant ([#83625](https://github.com/CleverRaven/Cataclysm-DDA/pull/83625))
@@ -218,7 +219,6 @@
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))
 * Weekly Changelog 2025-10-27 to 2025-11-03 ([#83565](https://github.com/CleverRaven/Cataclysm-DDA/pull/83565))
 * Plants don't have animal anatomy ([#83556](https://github.com/CleverRaven/Cataclysm-DDA/pull/83556))
-* Audit drugdealer itemgroup ([#83547](https://github.com/CleverRaven/Cataclysm-DDA/pull/83547))
 * [TropiCata] Fix monster deaths ([#83558](https://github.com/CleverRaven/Cataclysm-DDA/pull/83558))
 * Fix some nylon gambeson related recipes ([#83561](https://github.com/CleverRaven/Cataclysm-DDA/pull/83561))
 * Remove 0 weight entries from monstergroups ([#83569](https://github.com/CleverRaven/Cataclysm-DDA/pull/83569))

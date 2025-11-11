@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-11-11-1721 (3da6fd9)
+* fix yaml syntax in release workflow (#83727)
 * configure translation workflow to accept tx_token (#83718)
 
 Cataclysm-DDA experimental build 2025-11-11-0723 (cc1a41f)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2025-11-08-0723 (c8c6ae1)
 * Houses have more solar power (#83648)
 * Add Kvass (#83575)
 * Mission Clarification: Balthazar (#83656)
-
-Cataclysm-DDA experimental build 2025-11-08-0623 (4b7a2f2)
 * Add vehicle zone enable/disable keys to the zone manager UI (#83641)
 * [MoM] Add Photokinetic matrix crystal artifacts (#83627)
 * Fix floors in sewage treatment plant (#83625)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2025-11-08-0623 (4b7a2f2)
 * Crude sledgehammer (#83581)
 * Weekly Changelog 2025-10-27 to 2025-11-03 (#83565)
 * Plants don't have animal anatomy (#83556)
-* Audit drugdealer itemgroup (#83547)
 * [TropiCata] Fix monster deaths (#83558)
 * Fix some nylon gambeson related recipes (#83561)
 * Remove 0 weight entries from monstergroups (#83569)
