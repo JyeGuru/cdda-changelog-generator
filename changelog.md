@@ -1,3 +1,10 @@
+* Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-11-2141 ([ff34e34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-2141))
+
+* Bump MacOS runner images to 15 ([#83596](https://github.com/CleverRaven/Cataclysm-DDA/pull/83596))
 
 ---
 
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-11-08-0831 ([ad7dede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0831))
 
 * minor glaive audit ([#83635](https://github.com/CleverRaven/Cataclysm-DDA/pull/83635))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-08-0723 ([c8c6ae1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0723))
-
 * Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
 * Add Kvass ([#83575](https://github.com/CleverRaven/Cataclysm-DDA/pull/83575))
@@ -184,7 +186,6 @@
 * Add vehicle zone enable/disable keys to the zone manager UI ([#83641](https://github.com/CleverRaven/Cataclysm-DDA/pull/83641))
 * [MoM] Add Photokinetic matrix crystal artifacts ([#83627](https://github.com/CleverRaven/Cataclysm-DDA/pull/83627))
 * Fix floors in sewage treatment plant ([#83625](https://github.com/CleverRaven/Cataclysm-DDA/pull/83625))
-* Update HOW_YOU_CAN_HELP.md ([#83549](https://github.com/CleverRaven/Cataclysm-DDA/pull/83549))
 * Audit solar panel installation/removal reqs for vehicles ([#83650](https://github.com/CleverRaven/Cataclysm-DDA/pull/83650))
 * Routine i18n updates on 08 November 2025 ([#83655](https://github.com/CleverRaven/Cataclysm-DDA/pull/83655))
 * Adjust Irradiation Plant mapgen special spawn ([#83642](https://github.com/CleverRaven/Cataclysm-DDA/pull/83642))
@@ -229,6 +230,5 @@
 * Remove "u" from Rock Island Armory ([#83563](https://github.com/CleverRaven/Cataclysm-DDA/pull/83563))
 * Fix numerous basic typos in comments and documentation files ([#83564](https://github.com/CleverRaven/Cataclysm-DDA/pull/83564))
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
-* Fix a few gun mod issues ([#83548](https://github.com/CleverRaven/Cataclysm-DDA/pull/83548))
 * Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
 * Update calendar.h ([#83550](https://github.com/CleverRaven/Cataclysm-DDA/pull/83550))
