@@ -1,6 +1,38 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-11-0335 ([afad12e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0335))
+
+* Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
+* Weekly Changelog 2025-11-03 to 2025-11-10 ([#83696](https://github.com/CleverRaven/Cataclysm-DDA/pull/83696))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-11-0332 ([f9f45b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0332))
+
+* Make an alcohol vitamin, replace alcohol function (partialy) with it ([#83668](https://github.com/CleverRaven/Cataclysm-DDA/pull/83668))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-11-0051 ([6dbac2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0051))
+
+* Add missed guns to boxed guns ([#83665](https://github.com/CleverRaven/Cataclysm-DDA/pull/83665))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-11-0049 ([f40d2c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0049))
+
+* [TropiCata] American termites don't grow fungi ([#83557](https://github.com/CleverRaven/Cataclysm-DDA/pull/83557))
+* Clarify uncraft test ([#83700](https://github.com/CleverRaven/Cataclysm-DDA/pull/83700))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-11-0043 ([add6295](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0043))
+
+* Striped tshirts ([#83699](https://github.com/CleverRaven/Cataclysm-DDA/pull/83699))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-10-2232 ([9556364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-2232))
 
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
@@ -110,12 +142,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-11-08-1441 ([0968ee8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-1441))
-
-* Density fixes for mods ([#83531](https://github.com/CleverRaven/Cataclysm-DDA/pull/83531))
-
----
-
 #### Cataclysm-DDA experimental build 2025-11-08-0831 ([ad7dede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0831))
 
 * minor glaive audit ([#83635](https://github.com/CleverRaven/Cataclysm-DDA/pull/83635))
@@ -127,7 +153,6 @@
 * Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
 * Add Kvass ([#83575](https://github.com/CleverRaven/Cataclysm-DDA/pull/83575))
-* Smithing recipes require flux and graphite as appropriate for forging, punching, and crucibles and related misc ([#83528](https://github.com/CleverRaven/Cataclysm-DDA/pull/83528))
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
 
 ---
@@ -157,36 +182,11 @@
 #### Cataclysm-DDA experimental build 2025-11-07-1220 ([07074db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-1220))
 
 * Minor Pant stats audit ([#83618](https://github.com/CleverRaven/Cataclysm-DDA/pull/83618))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-07-1037 ([0375f2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-1037))
-
 * [ Xedra Evolved ] Fix incompatibility ([#83629](https://github.com/CleverRaven/Cataclysm-DDA/pull/83629))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-07-0337 ([8686b7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-0337))
-
 * Migrated some active transformations to passive (1/?) ([#83623](https://github.com/CleverRaven/Cataclysm-DDA/pull/83623))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-07-0154 ([5071252](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-07-0154))
-
 * Remove radiation from missile silo ([#83624](https://github.com/CleverRaven/Cataclysm-DDA/pull/83624))
 * Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-06-2147 ([d4bc5e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-2147))
-
 * Fix base64 encoding of horde passability bitsets ([#83620](https://github.com/CleverRaven/Cataclysm-DDA/pull/83620))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-06-1751 ([24dc322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-06-1751))
-
 * Update melee practice recipes ([#83588](https://github.com/CleverRaven/Cataclysm-DDA/pull/83588))
 * Remove some old armor ([#83590](https://github.com/CleverRaven/Cataclysm-DDA/pull/83590))
 * [Bombastic Perks] More perks ([#83604](https://github.com/CleverRaven/Cataclysm-DDA/pull/83604))
@@ -211,7 +211,6 @@
 * Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))
 * Weekly Changelog 2025-10-27 to 2025-11-03 ([#83565](https://github.com/CleverRaven/Cataclysm-DDA/pull/83565))
-* Make sample items active, including a tanning one ([#83524](https://github.com/CleverRaven/Cataclysm-DDA/pull/83524))
 * chewing gum spawns in containers ([#83546](https://github.com/CleverRaven/Cataclysm-DDA/pull/83546))
 * Plants don't have animal anatomy ([#83556](https://github.com/CleverRaven/Cataclysm-DDA/pull/83556))
 * Audit drugdealer itemgroup ([#83547](https://github.com/CleverRaven/Cataclysm-DDA/pull/83547))
@@ -225,7 +224,6 @@
 * Remove "u" from Rock Island Armory ([#83563](https://github.com/CleverRaven/Cataclysm-DDA/pull/83563))
 * Fix numerous basic typos in comments and documentation files ([#83564](https://github.com/CleverRaven/Cataclysm-DDA/pull/83564))
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
-* Use copy-from for region settings instead of overlays ([#83530](https://github.com/CleverRaven/Cataclysm-DDA/pull/83530))
 * Fix a few gun mod issues ([#83548](https://github.com/CleverRaven/Cataclysm-DDA/pull/83548))
 * Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
 * audit sledge craft ([#83544](https://github.com/CleverRaven/Cataclysm-DDA/pull/83544))
@@ -235,4 +233,3 @@
 * Routine i18n updates on 01 November 2025 ([#83538](https://github.com/CleverRaven/Cataclysm-DDA/pull/83538))
 * [XEDRA Evolved] Give back Gracken Big Game Hunter's eyes back ([#83535](https://github.com/CleverRaven/Cataclysm-DDA/pull/83535))
 * [XEDRA Evolved] Giant Vampire Bat slowdown ([#83536](https://github.com/CleverRaven/Cataclysm-DDA/pull/83536))
-* [Dinomod/Innawood] Remove cities if using Dinomod/Innawood together ([#83525](https://github.com/CleverRaven/Cataclysm-DDA/pull/83525))
