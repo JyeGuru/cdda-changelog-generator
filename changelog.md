@@ -1,3 +1,4 @@
+* configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
 
 ---
 
@@ -216,7 +217,6 @@
 * Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))
 * Weekly Changelog 2025-10-27 to 2025-11-03 ([#83565](https://github.com/CleverRaven/Cataclysm-DDA/pull/83565))
-* chewing gum spawns in containers ([#83546](https://github.com/CleverRaven/Cataclysm-DDA/pull/83546))
 * Plants don't have animal anatomy ([#83556](https://github.com/CleverRaven/Cataclysm-DDA/pull/83556))
 * Audit drugdealer itemgroup ([#83547](https://github.com/CleverRaven/Cataclysm-DDA/pull/83547))
 * [TropiCata] Fix monster deaths ([#83558](https://github.com/CleverRaven/Cataclysm-DDA/pull/83558))
@@ -231,5 +231,4 @@
 * Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
 * Fix a few gun mod issues ([#83548](https://github.com/CleverRaven/Cataclysm-DDA/pull/83548))
 * Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
-* Remove the homewrecker ([#83545](https://github.com/CleverRaven/Cataclysm-DDA/pull/83545))
 * Update calendar.h ([#83550](https://github.com/CleverRaven/Cataclysm-DDA/pull/83550))
