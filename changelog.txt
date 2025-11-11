@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-11-2241 (eae3021)
 * 7 New Melee weapons (#83690)
 * Appease clang (#83724)
 
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2025-11-08-1907 (0cb6da9)
 
 Cataclysm-DDA experimental build 2025-11-08-1737 (803b303)
 * Allow variants for brewing and composting results (#83599)
-
-Cataclysm-DDA experimental build 2025-11-08-0831 (ad7dede)
 * minor glaive audit (#83635)
 * Migrated some active transformations to passive (2/?) (#83646)
 * Houses have more solar power (#83648)

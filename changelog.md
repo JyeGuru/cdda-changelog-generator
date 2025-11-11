@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-11-2241 ([eae3021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-2241))
+
 * 7 New Melee weapons ([#83690](https://github.com/CleverRaven/Cataclysm-DDA/pull/83690))
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-11-08-1737 ([803b303](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-1737))
 
 * Allow variants for brewing and composting results ([#83599](https://github.com/CleverRaven/Cataclysm-DDA/pull/83599))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-08-0831 ([ad7dede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-0831))
-
 * minor glaive audit ([#83635](https://github.com/CleverRaven/Cataclysm-DDA/pull/83635))
 * Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
