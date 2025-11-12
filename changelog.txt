@@ -1,3 +1,4 @@
+* Fix translation artifact generation (#83744)
 
 Cataclysm-DDA experimental build 2025-11-12-0628 (31c2335)
 * fix refractory requirement (#83729)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2025-11-09-0148 (e4bee54)
 * Fix some nylon gambeson related recipes (#83561)
 * Remove 0 weight entries from monstergroups (#83569)
 * Wraith overhaul (#83570)
-* [TropiCata] Monstergroup spring cleaning (#83559)
 * Shadow (*not* `a shadow?`) overhaul (#83560)
 * Fix name of nested canvas trenchcoats recipe category (#83562)
 * Remove "u" from Rock Island Armory (#83563)

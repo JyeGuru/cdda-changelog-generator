@@ -1,3 +1,4 @@
+* Fix translation artifact generation ([#83744](https://github.com/CleverRaven/Cataclysm-DDA/pull/83744))
 
 ---
 
@@ -221,7 +222,6 @@
 * Fix some nylon gambeson related recipes ([#83561](https://github.com/CleverRaven/Cataclysm-DDA/pull/83561))
 * Remove 0 weight entries from monstergroups ([#83569](https://github.com/CleverRaven/Cataclysm-DDA/pull/83569))
 * Wraith overhaul ([#83570](https://github.com/CleverRaven/Cataclysm-DDA/pull/83570))
-* [TropiCata] Monstergroup spring cleaning ([#83559](https://github.com/CleverRaven/Cataclysm-DDA/pull/83559))
 * Shadow (*not* `a shadow?`) overhaul ([#83560](https://github.com/CleverRaven/Cataclysm-DDA/pull/83560))
 * Fix name of nested canvas trenchcoats recipe category ([#83562](https://github.com/CleverRaven/Cataclysm-DDA/pull/83562))
 * Remove "u" from Rock Island Armory ([#83563](https://github.com/CleverRaven/Cataclysm-DDA/pull/83563))
