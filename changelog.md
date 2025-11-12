@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-12-0628 ([31c2335](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0628))
+
+* fix refractory requirement ([#83729](https://github.com/CleverRaven/Cataclysm-DDA/pull/83729))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-12-0410 ([a727936](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0410))
 
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
@@ -70,12 +76,6 @@
 #### Cataclysm-DDA experimental build 2025-11-11-0051 ([6dbac2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0051))
 
 * Add missed guns to boxed guns ([#83665](https://github.com/CleverRaven/Cataclysm-DDA/pull/83665))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-0049 ([f40d2c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0049))
-
-* [TropiCata] American termites don't grow fungi ([#83557](https://github.com/CleverRaven/Cataclysm-DDA/pull/83557))
 * Clarify uncraft test ([#83700](https://github.com/CleverRaven/Cataclysm-DDA/pull/83700))
 
 ---
@@ -180,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-11-08-2302 ([6ac98c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-2302))
 
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-08-1907 ([0cb6da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-1907))
-
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
 * Allow variants for brewing and composting results ([#83599](https://github.com/CleverRaven/Cataclysm-DDA/pull/83599))
 * minor glaive audit ([#83635](https://github.com/CleverRaven/Cataclysm-DDA/pull/83635))
