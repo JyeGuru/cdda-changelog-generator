@@ -174,11 +174,6 @@
 
 * Fix wrong category name for chitinous vests ([#83670](https://github.com/CleverRaven/Cataclysm-DDA/pull/83670))
 * manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-08-2302 ([6ac98c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-2302))
-
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
 * Allow variants for brewing and composting results ([#83599](https://github.com/CleverRaven/Cataclysm-DDA/pull/83599))
