@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-12-0410 ([a727936](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0410))
+
+* fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
 * Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))
 
 ---
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-11-08-1907 ([0cb6da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-1907))
 
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-08-1737 ([803b303](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-08-1737))
-
 * Allow variants for brewing and composting results ([#83599](https://github.com/CleverRaven/Cataclysm-DDA/pull/83599))
 * minor glaive audit ([#83635](https://github.com/CleverRaven/Cataclysm-DDA/pull/83635))
 * Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
@@ -227,7 +228,6 @@
 * Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))
 * Weekly Changelog 2025-10-27 to 2025-11-03 ([#83565](https://github.com/CleverRaven/Cataclysm-DDA/pull/83565))
-* Plants don't have animal anatomy ([#83556](https://github.com/CleverRaven/Cataclysm-DDA/pull/83556))
 * [TropiCata] Fix monster deaths ([#83558](https://github.com/CleverRaven/Cataclysm-DDA/pull/83558))
 * Fix some nylon gambeson related recipes ([#83561](https://github.com/CleverRaven/Cataclysm-DDA/pull/83561))
 * Remove 0 weight entries from monstergroups ([#83569](https://github.com/CleverRaven/Cataclysm-DDA/pull/83569))

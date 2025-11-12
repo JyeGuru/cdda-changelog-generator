@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-11-12-0410 (a727936)
+* fix for fix for fix for osx image bump (#83737)
 * Fix Windows CI ccache eviction policy (#83733)
 
 Cataclysm-DDA experimental build 2025-11-12-0040 (03d00e0)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-08-2302 (6ac98c4)
 
 Cataclysm-DDA experimental build 2025-11-08-1907 (0cb6da9)
 * poler-camo to polar-camo (#83658)
-
-Cataclysm-DDA experimental build 2025-11-08-1737 (803b303)
 * Allow variants for brewing and composting results (#83599)
 * minor glaive audit (#83635)
 * Migrated some active transformations to passive (2/?) (#83646)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2025-11-08-1737 (803b303)
 * Remove region overlays (#83572)
 * Crude sledgehammer (#83581)
 * Weekly Changelog 2025-10-27 to 2025-11-03 (#83565)
-* Plants don't have animal anatomy (#83556)
 * [TropiCata] Fix monster deaths (#83558)
 * Fix some nylon gambeson related recipes (#83561)
 * Remove 0 weight entries from monstergroups (#83569)
