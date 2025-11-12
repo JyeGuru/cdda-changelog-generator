@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-12-2126 ([0fa5bea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-2126))
+
+* [MoM] Reduce portal storm awakening odds ([#83720](https://github.com/CleverRaven/Cataclysm-DDA/pull/83720))
 * Fix translation artifact generation ([#83744](https://github.com/CleverRaven/Cataclysm-DDA/pull/83744))
 
 ---
@@ -168,11 +174,6 @@
 * [Bugfix]Vanishing Arc Teleport bugs ([#83645](https://github.com/CleverRaven/Cataclysm-DDA/pull/83645))
 * Add large monocrystalline roof panel installs ([#83672](https://github.com/CleverRaven/Cataclysm-DDA/pull/83672))
 * Add 2 new guns: Mossberg Shockwave and Mossberg 500 in 410 ([#83669](https://github.com/CleverRaven/Cataclysm-DDA/pull/83669))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-09-0148 ([e4bee54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-0148))
-
 * Fix wrong category name for chitinous vests ([#83670](https://github.com/CleverRaven/Cataclysm-DDA/pull/83670))
 * manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
@@ -219,7 +220,6 @@
 * Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))
 * Weekly Changelog 2025-10-27 to 2025-11-03 ([#83565](https://github.com/CleverRaven/Cataclysm-DDA/pull/83565))
-* Fix some nylon gambeson related recipes ([#83561](https://github.com/CleverRaven/Cataclysm-DDA/pull/83561))
 * Remove 0 weight entries from monstergroups ([#83569](https://github.com/CleverRaven/Cataclysm-DDA/pull/83569))
 * Wraith overhaul ([#83570](https://github.com/CleverRaven/Cataclysm-DDA/pull/83570))
 * Fix name of nested canvas trenchcoats recipe category ([#83562](https://github.com/CleverRaven/Cataclysm-DDA/pull/83562))

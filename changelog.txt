@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-11-12-2126 (0fa5bea)
+* [MoM] Reduce portal storm awakening odds (#83720)
 * Fix translation artifact generation (#83744)
 
 Cataclysm-DDA experimental build 2025-11-12-0628 (31c2335)
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2025-11-09-0312 (6d7c916)
 * [Bugfix]Vanishing Arc Teleport bugs (#83645)
 * Add large monocrystalline roof panel installs (#83672)
 * Add 2 new guns: Mossberg Shockwave and Mossberg 500 in 410 (#83669)
-
-Cataclysm-DDA experimental build 2025-11-09-0148 (e4bee54)
 * Fix wrong category name for chitinous vests (#83670)
 * manually install gcc 9 on runners as needed (#83671)
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 (#83666)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2025-11-09-0148 (e4bee54)
 * Remove region overlays (#83572)
 * Crude sledgehammer (#83581)
 * Weekly Changelog 2025-10-27 to 2025-11-03 (#83565)
-* Fix some nylon gambeson related recipes (#83561)
 * Remove 0 weight entries from monstergroups (#83569)
 * Wraith overhaul (#83570)
 * Fix name of nested canvas trenchcoats recipe category (#83562)
