@@ -1,3 +1,10 @@
+* Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-12-0040 ([03d00e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0040))
+
+* install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
 
 ---
 
@@ -230,5 +237,3 @@
 * Fix name of nested canvas trenchcoats recipe category ([#83562](https://github.com/CleverRaven/Cataclysm-DDA/pull/83562))
 * Remove "u" from Rock Island Armory ([#83563](https://github.com/CleverRaven/Cataclysm-DDA/pull/83563))
 * Fix numerous basic typos in comments and documentation files ([#83564](https://github.com/CleverRaven/Cataclysm-DDA/pull/83564))
-* Withdraw weakpoint priviledges from electromagnetics, biochemistry, and burn care ([#83553](https://github.com/CleverRaven/Cataclysm-DDA/pull/83553))
-* Remove slime weakpoint proficiencies ([#83554](https://github.com/CleverRaven/Cataclysm-DDA/pull/83554))
