@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-13-1951 ([7a3e404](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-1951))
+
 * Update the sex shop mapgen and small related fixes ([#83758](https://github.com/CleverRaven/Cataclysm-DDA/pull/83758))
 
 ---
@@ -177,11 +182,6 @@
 * Name smaller solar panels as small ([#83662](https://github.com/CleverRaven/Cataclysm-DDA/pull/83662))
 * [Aftershock ] Fix UICA vehicle purchase ([#83638](https://github.com/CleverRaven/Cataclysm-DDA/pull/83638))
 * Fix mouse positioning when UI is scaled ([#83634](https://github.com/CleverRaven/Cataclysm-DDA/pull/83634))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-10-0348 ([f82dafe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0348))
-
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
 * Zone sorting refactor ([#83640](https://github.com/CleverRaven/Cataclysm-DDA/pull/83640))
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
