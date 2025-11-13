@@ -1,3 +1,4 @@
+* [MoM] Fix negative concentration limit problem (#83756)
 
 Cataclysm-DDA experimental build 2025-11-13-1951 (7a3e404)
 * Update the sex shop mapgen and small related fixes (#83758)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2025-11-10-0351 (450fdad)
 * Fix hang when mission special reveal fails (#83602)
 * Update steel ballistic plate recipe times (#83589)
 * Willowbark tea is easy to craft (#83592)
-* remove 4.6 casings (#83586)
 * Primers spawn in boxes (#83587)

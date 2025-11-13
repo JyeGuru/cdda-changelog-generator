@@ -1,3 +1,4 @@
+* [MoM] Fix negative concentration limit problem ([#83756](https://github.com/CleverRaven/Cataclysm-DDA/pull/83756))
 
 ---
 
@@ -228,5 +229,4 @@
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
 * Update steel ballistic plate recipe times ([#83589](https://github.com/CleverRaven/Cataclysm-DDA/pull/83589))
 * Willowbark tea is easy to craft ([#83592](https://github.com/CleverRaven/Cataclysm-DDA/pull/83592))
-* remove 4.6 casings ([#83586](https://github.com/CleverRaven/Cataclysm-DDA/pull/83586))
 * Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
