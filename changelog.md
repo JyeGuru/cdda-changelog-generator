@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-13-1535 ([3bdef9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-1535))
+
+* How much insight can you get from a single scroll? ([#83755](https://github.com/CleverRaven/Cataclysm-DDA/pull/83755))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-13-1425 ([13c384a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-1425))
+
+* Remove from the correct set when sorting ([#83759](https://github.com/CleverRaven/Cataclysm-DDA/pull/83759))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-13-0902 ([ce54087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0902))
 
 * Remove solar panels from cars ([#83649](https://github.com/CleverRaven/Cataclysm-DDA/pull/83649))
@@ -170,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-11-10-0338 ([16574cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0338))
 
 * Zone sorting refactor ([#83640](https://github.com/CleverRaven/Cataclysm-DDA/pull/83640))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-10-0138 ([d516218](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0138))
-
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
@@ -217,11 +224,9 @@
 * Fix bill pole ([#83600](https://github.com/CleverRaven/Cataclysm-DDA/pull/83600))
 * Delete 'That which cannot be modded' section ([#83609](https://github.com/CleverRaven/Cataclysm-DDA/pull/83609))
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
-* Fix repeating dialogue bug with the predatory trader ([#83577](https://github.com/CleverRaven/Cataclysm-DDA/pull/83577))
 * Update steel ballistic plate recipe times ([#83589](https://github.com/CleverRaven/Cataclysm-DDA/pull/83589))
 * Willowbark tea is easy to craft ([#83592](https://github.com/CleverRaven/Cataclysm-DDA/pull/83592))
 * remove 4.6 casings ([#83586](https://github.com/CleverRaven/Cataclysm-DDA/pull/83586))
 * Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
 * Brass from casings ([#83585](https://github.com/CleverRaven/Cataclysm-DDA/pull/83585))
-* Zombie flesh is still human flesh ([#83579](https://github.com/CleverRaven/Cataclysm-DDA/pull/83579))
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))

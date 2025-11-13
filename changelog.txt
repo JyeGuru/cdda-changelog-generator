@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2025-11-13-1535 (3bdef9c)
+* How much insight can you get from a single scroll? (#83755)
+
+Cataclysm-DDA experimental build 2025-11-13-1425 (13c384a)
+* Remove from the correct set when sorting (#83759)
+
 Cataclysm-DDA experimental build 2025-11-13-0902 (ce54087)
 * Remove solar panels from cars (#83649)
 
@@ -92,8 +98,6 @@ Cataclysm-DDA experimental build 2025-11-10-0348 (f82dafe)
 
 Cataclysm-DDA experimental build 2025-11-10-0338 (16574cf)
 * Zone sorting refactor (#83640)
-
-Cataclysm-DDA experimental build 2025-11-10-0138 (d516218)
 * [Bombastic Perks] Fix Closetland soporific effect remaining (#83692)
 * [MoM] The `unstoppable force` can use Aegis (#83679)
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs (#83686)
@@ -136,11 +140,9 @@ Cataclysm-DDA experimental build 2025-11-10-0138 (d516218)
 * Fix bill pole (#83600)
 * Delete 'That which cannot be modded' section (#83609)
 * Fix hang when mission special reveal fails (#83602)
-* Fix repeating dialogue bug with the predatory trader (#83577)
 * Update steel ballistic plate recipe times (#83589)
 * Willowbark tea is easy to craft (#83592)
 * remove 4.6 casings (#83586)
 * Primers spawn in boxes (#83587)
 * Brass from casings (#83585)
-* Zombie flesh is still human flesh (#83579)
 * Crude sledgehammer (#83581)
