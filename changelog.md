@@ -1,3 +1,10 @@
+* Remove solar panels from cars ([#83649](https://github.com/CleverRaven/Cataclysm-DDA/pull/83649))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-13-0815 ([59c7e30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0815))
+
+* Honor THIEF_MODE preference in the Advanced Inventory Management screens ([#83639](https://github.com/CleverRaven/Cataclysm-DDA/pull/83639))
 
 ---
 
@@ -171,11 +178,6 @@
 
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-09-2017 ([3be0a1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-2017))
-
 * Fix scaling factor for high-dpi displays ([#83631](https://github.com/CleverRaven/Cataclysm-DDA/pull/83631))
 * `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
 * Nails item damages wheel ([#83664](https://github.com/CleverRaven/Cataclysm-DDA/pull/83664))
@@ -191,7 +193,6 @@
 * minor glaive audit ([#83635](https://github.com/CleverRaven/Cataclysm-DDA/pull/83635))
 * Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
-* Add Kvass ([#83575](https://github.com/CleverRaven/Cataclysm-DDA/pull/83575))
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
 * Add vehicle zone enable/disable keys to the zone manager UI ([#83641](https://github.com/CleverRaven/Cataclysm-DDA/pull/83641))
 * [MoM] Add Photokinetic matrix crystal artifacts ([#83627](https://github.com/CleverRaven/Cataclysm-DDA/pull/83627))
@@ -208,7 +209,6 @@
 * Update melee practice recipes ([#83588](https://github.com/CleverRaven/Cataclysm-DDA/pull/83588))
 * Remove some old armor ([#83590](https://github.com/CleverRaven/Cataclysm-DDA/pull/83590))
 * [Bombastic Perks] More perks ([#83604](https://github.com/CleverRaven/Cataclysm-DDA/pull/83604))
-* Added SPAWN_ACTIVE flag to active items (1/?) ([#83576](https://github.com/CleverRaven/Cataclysm-DDA/pull/83576))
 * Some crude guns ([#83591](https://github.com/CleverRaven/Cataclysm-DDA/pull/83591))
 * Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
 * Added SPAWN_ACTIVE flag to active items (2/2) ([#83611](https://github.com/CleverRaven/Cataclysm-DDA/pull/83611))
