@@ -1,3 +1,5 @@
+* Pulling translations works on forks if TX_TOKEN is set (#83748)
+* Re-fix msvc ccache eviction after discovering original issue was just… (#83749)
 
 Cataclysm-DDA experimental build 2025-11-12-2126 (0fa5bea)
 * [MoM] Reduce portal storm awakening odds (#83720)
@@ -141,6 +143,4 @@ Cataclysm-DDA experimental build 2025-11-09-0312 (6d7c916)
 * Weekly Changelog 2025-10-27 to 2025-11-03 (#83565)
 * Remove 0 weight entries from monstergroups (#83569)
 * Wraith overhaul (#83570)
-* Fix name of nested canvas trenchcoats recipe category (#83562)
-* Remove "u" from Rock Island Armory (#83563)
 * Fix numerous basic typos in comments and documentation files (#83564)
