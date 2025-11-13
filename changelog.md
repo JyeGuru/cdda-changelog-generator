@@ -1,3 +1,12 @@
+* [Isolation Protocol] Add more spells for the Last Scion ([#83694](https://github.com/CleverRaven/Cataclysm-DDA/pull/83694))
+* Fix circular saw description ([#83719](https://github.com/CleverRaven/Cataclysm-DDA/pull/83719))
+* [XE] Unconsciousness interrupts blood art maintenance. ([#83751](https://github.com/CleverRaven/Cataclysm-DDA/pull/83751))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-13-0529 ([35b417e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0529))
+
+* Improve effect migration code ([#83723](https://github.com/CleverRaven/Cataclysm-DDA/pull/83723))
 
 ---
 
@@ -169,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-11-09-1515 ([667eeb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-1515))
 
 * `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-09-1133 ([599f9d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-1133))
-
 * Nails item damages wheel ([#83664](https://github.com/CleverRaven/Cataclysm-DDA/pull/83664))
 * [Bugfix] Appliances' cable connection failure after Vanishing Arc teleport ([#83661](https://github.com/CleverRaven/Cataclysm-DDA/pull/83661))
 * [Bugfix]Vanishing Arc Teleport bugs ([#83645](https://github.com/CleverRaven/Cataclysm-DDA/pull/83645))
@@ -220,8 +224,4 @@
 * Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
 * Brass from casings ([#83585](https://github.com/CleverRaven/Cataclysm-DDA/pull/83585))
 * Zombie flesh is still human flesh ([#83579](https://github.com/CleverRaven/Cataclysm-DDA/pull/83579))
-* [AFS] Frozen human flesh is people ([#83574](https://github.com/CleverRaven/Cataclysm-DDA/pull/83574))
-* Remove region overlays ([#83572](https://github.com/CleverRaven/Cataclysm-DDA/pull/83572))
 * Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))
-* Remove 0 weight entries from monstergroups ([#83569](https://github.com/CleverRaven/Cataclysm-DDA/pull/83569))
-* Wraith overhaul ([#83570](https://github.com/CleverRaven/Cataclysm-DDA/pull/83570))

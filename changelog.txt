@@ -1,3 +1,9 @@
+* [Isolation Protocol] Add more spells for the Last Scion (#83694)
+* Fix circular saw description (#83719)
+* [XE] Unconsciousness interrupts blood art maintenance. (#83751)
+
+Cataclysm-DDA experimental build 2025-11-13-0529 (35b417e)
+* Improve effect migration code (#83723)
 
 Cataclysm-DDA experimental build 2025-11-13-0430 (5a5fab3)
 * Add code for spell migration (#83721)
@@ -91,8 +97,6 @@ Cataclysm-DDA experimental build 2025-11-09-2017 (3be0a1c)
 
 Cataclysm-DDA experimental build 2025-11-09-1515 (667eeb8)
 * `make clean` cleans zzip files (#83678)
-
-Cataclysm-DDA experimental build 2025-11-09-1133 (599f9d6)
 * Nails item damages wheel (#83664)
 * [Bugfix] Appliances' cable connection failure after Vanishing Arc teleport (#83661)
 * [Bugfix]Vanishing Arc Teleport bugs (#83645)
@@ -139,8 +143,4 @@ Cataclysm-DDA experimental build 2025-11-09-1133 (599f9d6)
 * Primers spawn in boxes (#83587)
 * Brass from casings (#83585)
 * Zombie flesh is still human flesh (#83579)
-* [AFS] Frozen human flesh is people (#83574)
-* Remove region overlays (#83572)
 * Crude sledgehammer (#83581)
-* Remove 0 weight entries from monstergroups (#83569)
-* Wraith overhaul (#83570)
