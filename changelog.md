@@ -1,3 +1,10 @@
+* Update the sex shop mapgen and small related fixes ([#83758](https://github.com/CleverRaven/Cataclysm-DDA/pull/83758))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-13-1904 ([5fb8717](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-1904))
+
+* Added wheel miss chance ([#83687](https://github.com/CleverRaven/Cataclysm-DDA/pull/83687))
 
 ---
 
@@ -176,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-11-10-0348 ([f82dafe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0348))
 
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-10-0338 ([16574cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0338))
-
 * Zone sorting refactor ([#83640](https://github.com/CleverRaven/Cataclysm-DDA/pull/83640))
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
@@ -228,5 +230,3 @@
 * Willowbark tea is easy to craft ([#83592](https://github.com/CleverRaven/Cataclysm-DDA/pull/83592))
 * remove 4.6 casings ([#83586](https://github.com/CleverRaven/Cataclysm-DDA/pull/83586))
 * Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
-* Brass from casings ([#83585](https://github.com/CleverRaven/Cataclysm-DDA/pull/83585))
-* Crude sledgehammer ([#83581](https://github.com/CleverRaven/Cataclysm-DDA/pull/83581))

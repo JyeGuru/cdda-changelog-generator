@@ -1,3 +1,7 @@
+* Update the sex shop mapgen and small related fixes (#83758)
+
+Cataclysm-DDA experimental build 2025-11-13-1904 (5fb8717)
+* Added wheel miss chance (#83687)
 
 Cataclysm-DDA experimental build 2025-11-13-1535 (3bdef9c)
 * How much insight can you get from a single scroll? (#83755)
@@ -95,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-10-0351 (450fdad)
 
 Cataclysm-DDA experimental build 2025-11-10-0348 (f82dafe)
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough (#83691)
-
-Cataclysm-DDA experimental build 2025-11-10-0338 (16574cf)
 * Zone sorting refactor (#83640)
 * [Bombastic Perks] Fix Closetland soporific effect remaining (#83692)
 * [MoM] The `unstoppable force` can use Aegis (#83679)
@@ -144,5 +146,3 @@ Cataclysm-DDA experimental build 2025-11-10-0338 (16574cf)
 * Willowbark tea is easy to craft (#83592)
 * remove 4.6 casings (#83586)
 * Primers spawn in boxes (#83587)
-* Brass from casings (#83585)
-* Crude sledgehammer (#83581)
