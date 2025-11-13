@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-13-0621 (eff8d95)
 * [Isolation Protocol] Add more spells for the Last Scion (#83694)
 * Fix circular saw description (#83719)
 * [XE] Unconsciousness interrupts blood art maintenance. (#83751)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2025-11-09-2128 (ce0375d)
 
 Cataclysm-DDA experimental build 2025-11-09-2017 (3be0a1c)
 * Fix scaling factor for high-dpi displays (#83631)
-
-Cataclysm-DDA experimental build 2025-11-09-1515 (667eeb8)
 * `make clean` cleans zzip files (#83678)
 * Nails item damages wheel (#83664)
 * [Bugfix] Appliances' cable connection failure after Vanishing Arc teleport (#83661)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-13-0621 ([eff8d95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0621))
+
 * [Isolation Protocol] Add more spells for the Last Scion ([#83694](https://github.com/CleverRaven/Cataclysm-DDA/pull/83694))
 * Fix circular saw description ([#83719](https://github.com/CleverRaven/Cataclysm-DDA/pull/83719))
 * [XE] Unconsciousness interrupts blood art maintenance. ([#83751](https://github.com/CleverRaven/Cataclysm-DDA/pull/83751))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-11-09-2017 ([3be0a1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-2017))
 
 * Fix scaling factor for high-dpi displays ([#83631](https://github.com/CleverRaven/Cataclysm-DDA/pull/83631))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-09-1515 ([667eeb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-09-1515))
-
 * `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
 * Nails item damages wheel ([#83664](https://github.com/CleverRaven/Cataclysm-DDA/pull/83664))
 * [Bugfix] Appliances' cable connection failure after Vanishing Arc teleport ([#83661](https://github.com/CleverRaven/Cataclysm-DDA/pull/83661))
