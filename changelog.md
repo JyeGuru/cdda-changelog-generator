@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-14-0440 ([e9a39c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0440))
+
 * Update drink containers ([#83710](https://github.com/CleverRaven/Cataclysm-DDA/pull/83710))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
 
@@ -177,11 +182,6 @@
 
 * Add missed guns to boxed guns ([#83665](https://github.com/CleverRaven/Cataclysm-DDA/pull/83665))
 * Clarify uncraft test ([#83700](https://github.com/CleverRaven/Cataclysm-DDA/pull/83700))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-0043 ([add6295](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0043))
-
 * Striped tshirts ([#83699](https://github.com/CleverRaven/Cataclysm-DDA/pull/83699))
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
 * Add a few restricted mags ([#83693](https://github.com/CleverRaven/Cataclysm-DDA/pull/83693))

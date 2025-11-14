@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-14-0440 (e9a39c6)
 * Update drink containers (#83710)
 * Add a new toolset for deconstructing wooden structures (#83754)
 
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-11-11-0332 (f9f45b8)
 Cataclysm-DDA experimental build 2025-11-11-0051 (6dbac2f)
 * Add missed guns to boxed guns (#83665)
 * Clarify uncraft test (#83700)
-
-Cataclysm-DDA experimental build 2025-11-11-0043 (add6295)
 * Striped tshirts (#83699)
 * Remove extraneous comma (#83713)
 * Add a few restricted mags (#83693)
