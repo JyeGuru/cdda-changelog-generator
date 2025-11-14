@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-14-1221 ([7f5e920](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-1221))
+
+* Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
 * [ Xedra Evolved ] Werewolves stink in war form ([#83659](https://github.com/CleverRaven/Cataclysm-DDA/pull/83659))
 * [ Xedra Evolved ] Fix werewolf ghostwalker description ([#83660](https://github.com/CleverRaven/Cataclysm-DDA/pull/83660))
 * More items damage wheels ([#83667](https://github.com/CleverRaven/Cataclysm-DDA/pull/83667))
@@ -174,11 +180,6 @@
 
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug ([#83702](https://github.com/CleverRaven/Cataclysm-DDA/pull/83702))
 * Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-0335 ([afad12e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0335))
-
 * Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
 * Weekly Changelog 2025-11-03 to 2025-11-10 ([#83696](https://github.com/CleverRaven/Cataclysm-DDA/pull/83696))
 * Make an alcohol vitamin, replace alcohol function (partialy) with it ([#83668](https://github.com/CleverRaven/Cataclysm-DDA/pull/83668))
@@ -224,5 +225,4 @@
 * Remove radiation from missile silo ([#83624](https://github.com/CleverRaven/Cataclysm-DDA/pull/83624))
 * Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
 * Fix base64 encoding of horde passability bitsets ([#83620](https://github.com/CleverRaven/Cataclysm-DDA/pull/83620))
-* Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
 * Added SPAWN_ACTIVE flag to active items (2/2) ([#83611](https://github.com/CleverRaven/Cataclysm-DDA/pull/83611))
