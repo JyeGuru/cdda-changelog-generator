@@ -1,3 +1,21 @@
+* [ Xedra Evolved ] Werewolves stink in war form ([#83659](https://github.com/CleverRaven/Cataclysm-DDA/pull/83659))
+* [ Xedra Evolved ] Fix werewolf ghostwalker description ([#83660](https://github.com/CleverRaven/Cataclysm-DDA/pull/83660))
+* More items damage wheels ([#83667](https://github.com/CleverRaven/Cataclysm-DDA/pull/83667))
+* [ Xedra evolved ] CI Fixation ([#83697](https://github.com/CleverRaven/Cataclysm-DDA/pull/83697))
+* Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-11-14-0910 ([04977b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-14-0910))
+
+* [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
+* Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-14-0909 ([a93c05f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0909))
+
+* Yet another very minor fixes PR ([#83698](https://github.com/CleverRaven/Cataclysm-DDA/pull/83698))
 
 ---
 
@@ -137,12 +155,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-11-11-2141 ([ff34e34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-2141))
-
-* Bump MacOS runner images to 15 ([#83596](https://github.com/CleverRaven/Cataclysm-DDA/pull/83596))
-
----
-
 #### Cataclysm-DDA experimental build 2025-11-11-1721 ([3da6fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-1721))
 
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
@@ -175,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-11-11-0332 ([f9f45b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0332))
 
 * Make an alcohol vitamin, replace alcohol function (partialy) with it ([#83668](https://github.com/CleverRaven/Cataclysm-DDA/pull/83668))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-0051 ([6dbac2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0051))
-
 * Add missed guns to boxed guns ([#83665](https://github.com/CleverRaven/Cataclysm-DDA/pull/83665))
 * Clarify uncraft test ([#83700](https://github.com/CleverRaven/Cataclysm-DDA/pull/83700))
 * Striped tshirts ([#83699](https://github.com/CleverRaven/Cataclysm-DDA/pull/83699))
@@ -206,7 +213,6 @@
 * manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
-* Allow variants for brewing and composting results ([#83599](https://github.com/CleverRaven/Cataclysm-DDA/pull/83599))
 * minor glaive audit ([#83635](https://github.com/CleverRaven/Cataclysm-DDA/pull/83635))
 * Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
@@ -223,10 +229,5 @@
 * Remove radiation from missile silo ([#83624](https://github.com/CleverRaven/Cataclysm-DDA/pull/83624))
 * Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
 * Fix base64 encoding of horde passability bitsets ([#83620](https://github.com/CleverRaven/Cataclysm-DDA/pull/83620))
-* [Bombastic Perks] More perks ([#83604](https://github.com/CleverRaven/Cataclysm-DDA/pull/83604))
 * Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
 * Added SPAWN_ACTIVE flag to active items (2/2) ([#83611](https://github.com/CleverRaven/Cataclysm-DDA/pull/83611))
-* Blacklist evac flyer from exoplanet ([#83606](https://github.com/CleverRaven/Cataclysm-DDA/pull/83606))
-* Fix bill pole ([#83600](https://github.com/CleverRaven/Cataclysm-DDA/pull/83600))
-* Delete 'That which cannot be modded' section ([#83609](https://github.com/CleverRaven/Cataclysm-DDA/pull/83609))
-* Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
