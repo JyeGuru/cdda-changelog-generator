@@ -1,3 +1,15 @@
+
+Cataclysm-DDA experimental build 2025-11-14-0242 (51e12f9)
+* calculate the width of the overmap sidebar correctly (#83688)
+* Converted items from active to passive transformation (3/3) (#83663)
+
+Cataclysm-DDA experimental build 2025-11-14-0153 (26dde74)
+* [AFS] Fix Kinetic Annulment System deafening the player while inactive (#83750)
+
+Cataclysm-DDA experimental build 2025-11-14-0056 (6919e18)
+* [XE] Blind the Sun Rework (#83753)
+
+Cataclysm-DDA experimental build 2025-11-13-2358 (e23f5b2)
 * [MoM] Fix negative concentration limit problem (#83756)
 
 Cataclysm-DDA experimental build 2025-11-13-1951 (7a3e404)
@@ -84,18 +96,10 @@ Cataclysm-DDA experimental build 2025-11-11-0051 (6dbac2f)
 
 Cataclysm-DDA experimental build 2025-11-11-0043 (add6295)
 * Striped tshirts (#83699)
-
-Cataclysm-DDA experimental build 2025-11-10-2232 (9556364)
 * Remove extraneous comma (#83713)
-
-Cataclysm-DDA experimental build 2025-11-10-2021 (fd86a63)
 * Add a few restricted mags (#83693)
 * Fix building releases after moving translations to CI (#83704)
-
-Cataclysm-DDA experimental build 2025-11-10-1132 (5461de6)
 * [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs (#83689)
-
-Cataclysm-DDA experimental build 2025-11-10-0351 (450fdad)
 * Name smaller solar panels as small (#83662)
 * [Aftershock ] Fix UICA vehicle purchase (#83638)
 * Fix mouse positioning when UI is scaled (#83634)
@@ -132,8 +136,6 @@ Cataclysm-DDA experimental build 2025-11-10-0351 (450fdad)
 * Remove radiation from missile silo (#83624)
 * Raise ccache limits on master to account for repo growth (#83633)
 * Fix base64 encoding of horde passability bitsets (#83620)
-* Update melee practice recipes (#83588)
-* Remove some old armor (#83590)
 * [Bombastic Perks] More perks (#83604)
 * Some crude guns (#83591)
 * Fix overmap sidebar POI crash (#83610)
@@ -143,6 +145,4 @@ Cataclysm-DDA experimental build 2025-11-10-0351 (450fdad)
 * Fix bill pole (#83600)
 * Delete 'That which cannot be modded' section (#83609)
 * Fix hang when mission special reveal fails (#83602)
-* Update steel ballistic plate recipe times (#83589)
 * Willowbark tea is easy to craft (#83592)
-* Primers spawn in boxes (#83587)

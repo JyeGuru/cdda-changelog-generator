@@ -1,3 +1,27 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-14-0242 ([51e12f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0242))
+
+* calculate the width of the overmap sidebar correctly ([#83688](https://github.com/CleverRaven/Cataclysm-DDA/pull/83688))
+* Converted items from active to passive transformation (3/3) ([#83663](https://github.com/CleverRaven/Cataclysm-DDA/pull/83663))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-14-0153 ([26dde74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0153))
+
+* [AFS] Fix Kinetic Annulment System deafening the player while inactive ([#83750](https://github.com/CleverRaven/Cataclysm-DDA/pull/83750))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-14-0056 ([6919e18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0056))
+
+* [XE] Blind the Sun Rework ([#83753](https://github.com/CleverRaven/Cataclysm-DDA/pull/83753))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-13-2358 ([e23f5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-2358))
+
 * [MoM] Fix negative concentration limit problem ([#83756](https://github.com/CleverRaven/Cataclysm-DDA/pull/83756))
 
 ---
@@ -156,30 +180,10 @@
 #### Cataclysm-DDA experimental build 2025-11-11-0043 ([add6295](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0043))
 
 * Striped tshirts ([#83699](https://github.com/CleverRaven/Cataclysm-DDA/pull/83699))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-10-2232 ([9556364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-2232))
-
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-10-2021 ([fd86a63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-2021))
-
 * Add a few restricted mags ([#83693](https://github.com/CleverRaven/Cataclysm-DDA/pull/83693))
 * Fix building releases after moving translations to CI ([#83704](https://github.com/CleverRaven/Cataclysm-DDA/pull/83704))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-10-1132 ([5461de6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-1132))
-
 * [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs ([#83689](https://github.com/CleverRaven/Cataclysm-DDA/pull/83689))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-10-0351 ([450fdad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-10-0351))
-
 * Name smaller solar panels as small ([#83662](https://github.com/CleverRaven/Cataclysm-DDA/pull/83662))
 * [Aftershock ] Fix UICA vehicle purchase ([#83638](https://github.com/CleverRaven/Cataclysm-DDA/pull/83638))
 * Fix mouse positioning when UI is scaled ([#83634](https://github.com/CleverRaven/Cataclysm-DDA/pull/83634))
@@ -216,8 +220,6 @@
 * Remove radiation from missile silo ([#83624](https://github.com/CleverRaven/Cataclysm-DDA/pull/83624))
 * Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
 * Fix base64 encoding of horde passability bitsets ([#83620](https://github.com/CleverRaven/Cataclysm-DDA/pull/83620))
-* Update melee practice recipes ([#83588](https://github.com/CleverRaven/Cataclysm-DDA/pull/83588))
-* Remove some old armor ([#83590](https://github.com/CleverRaven/Cataclysm-DDA/pull/83590))
 * [Bombastic Perks] More perks ([#83604](https://github.com/CleverRaven/Cataclysm-DDA/pull/83604))
 * Some crude guns ([#83591](https://github.com/CleverRaven/Cataclysm-DDA/pull/83591))
 * Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
@@ -227,6 +229,4 @@
 * Fix bill pole ([#83600](https://github.com/CleverRaven/Cataclysm-DDA/pull/83600))
 * Delete 'That which cannot be modded' section ([#83609](https://github.com/CleverRaven/Cataclysm-DDA/pull/83609))
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
-* Update steel ballistic plate recipe times ([#83589](https://github.com/CleverRaven/Cataclysm-DDA/pull/83589))
 * Willowbark tea is easy to craft ([#83592](https://github.com/CleverRaven/Cataclysm-DDA/pull/83592))
-* Primers spawn in boxes ([#83587](https://github.com/CleverRaven/Cataclysm-DDA/pull/83587))
