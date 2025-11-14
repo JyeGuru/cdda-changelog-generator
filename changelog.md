@@ -1,3 +1,11 @@
+* Update drink containers ([#83710](https://github.com/CleverRaven/Cataclysm-DDA/pull/83710))
+* Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-14-0356 ([0289261](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0356))
+
+* [MoM] Add additional portal storm dungeon rewards ([#83725](https://github.com/CleverRaven/Cataclysm-DDA/pull/83725))
 
 ---
 
@@ -148,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2025-11-11-0649 ([27dc5c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0649))
 
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug ([#83702](https://github.com/CleverRaven/Cataclysm-DDA/pull/83702))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-11-11-0647 ([22d5c20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-11-0647))
-
 * Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
 
 ---
@@ -221,12 +224,9 @@
 * Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
 * Fix base64 encoding of horde passability bitsets ([#83620](https://github.com/CleverRaven/Cataclysm-DDA/pull/83620))
 * [Bombastic Perks] More perks ([#83604](https://github.com/CleverRaven/Cataclysm-DDA/pull/83604))
-* Some crude guns ([#83591](https://github.com/CleverRaven/Cataclysm-DDA/pull/83591))
 * Fix overmap sidebar POI crash ([#83610](https://github.com/CleverRaven/Cataclysm-DDA/pull/83610))
 * Added SPAWN_ACTIVE flag to active items (2/2) ([#83611](https://github.com/CleverRaven/Cataclysm-DDA/pull/83611))
 * Blacklist evac flyer from exoplanet ([#83606](https://github.com/CleverRaven/Cataclysm-DDA/pull/83606))
-* Fix IWYU ([#83594](https://github.com/CleverRaven/Cataclysm-DDA/pull/83594))
 * Fix bill pole ([#83600](https://github.com/CleverRaven/Cataclysm-DDA/pull/83600))
 * Delete 'That which cannot be modded' section ([#83609](https://github.com/CleverRaven/Cataclysm-DDA/pull/83609))
 * Fix hang when mission special reveal fails ([#83602](https://github.com/CleverRaven/Cataclysm-DDA/pull/83602))
-* Willowbark tea is easy to craft ([#83592](https://github.com/CleverRaven/Cataclysm-DDA/pull/83592))

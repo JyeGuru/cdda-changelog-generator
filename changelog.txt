@@ -1,3 +1,8 @@
+* Update drink containers (#83710)
+* Add a new toolset for deconstructing wooden structures (#83754)
+
+Cataclysm-DDA experimental build 2025-11-14-0356 (0289261)
+* [MoM] Add additional portal storm dungeon rewards (#83725)
 
 Cataclysm-DDA experimental build 2025-11-14-0242 (51e12f9)
 * calculate the width of the overmap sidebar correctly (#83688)
@@ -79,8 +84,6 @@ Cataclysm-DDA experimental build 2025-11-11-0723 (cc1a41f)
 
 Cataclysm-DDA experimental build 2025-11-11-0649 (27dc5c4)
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug (#83702)
-
-Cataclysm-DDA 0.I release candidate 2025-11-11-0647 (22d5c20)
 * Fix scaling factor for high-dpi displays (#83709)
 
 Cataclysm-DDA experimental build 2025-11-11-0335 (afad12e)
@@ -137,12 +140,9 @@ Cataclysm-DDA experimental build 2025-11-11-0043 (add6295)
 * Raise ccache limits on master to account for repo growth (#83633)
 * Fix base64 encoding of horde passability bitsets (#83620)
 * [Bombastic Perks] More perks (#83604)
-* Some crude guns (#83591)
 * Fix overmap sidebar POI crash (#83610)
 * Added SPAWN_ACTIVE flag to active items (2/2) (#83611)
 * Blacklist evac flyer from exoplanet (#83606)
-* Fix IWYU (#83594)
 * Fix bill pole (#83600)
 * Delete 'That which cannot be modded' section (#83609)
 * Fix hang when mission special reveal fails (#83602)
-* Willowbark tea is easy to craft (#83592)
