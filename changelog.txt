@@ -100,8 +100,6 @@ Cataclysm-DDA experimental build 2025-11-11-0649 (27dc5c4)
 Cataclysm-DDA experimental build 2025-11-11-0335 (afad12e)
 * Add effect migration code (#83706)
 * Weekly Changelog 2025-11-03 to 2025-11-10 (#83696)
-
-Cataclysm-DDA experimental build 2025-11-11-0332 (f9f45b8)
 * Make an alcohol vitamin, replace alcohol function (partialy) with it (#83668)
 * Add missed guns to boxed guns (#83665)
 * Clarify uncraft test (#83700)

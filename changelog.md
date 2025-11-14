@@ -181,11 +181,6 @@
 
 * Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
 * Weekly Changelog 2025-11-03 to 2025-11-10 ([#83696](https://github.com/CleverRaven/Cataclysm-DDA/pull/83696))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-0332 ([f9f45b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0332))
-
 * Make an alcohol vitamin, replace alcohol function (partialy) with it ([#83668](https://github.com/CleverRaven/Cataclysm-DDA/pull/83668))
 * Add missed guns to boxed guns ([#83665](https://github.com/CleverRaven/Cataclysm-DDA/pull/83665))
 * Clarify uncraft test ([#83700](https://github.com/CleverRaven/Cataclysm-DDA/pull/83700))
