@@ -170,11 +170,6 @@
 
 * 7 New Melee weapons ([#83690](https://github.com/CleverRaven/Cataclysm-DDA/pull/83690))
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-1721 ([3da6fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-1721))
-
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
 * Make a code for prof migration ([#83673](https://github.com/CleverRaven/Cataclysm-DDA/pull/83673))
