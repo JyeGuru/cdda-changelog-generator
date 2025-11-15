@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-15-0344 ([51dfe7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-15-0344))
+
 * [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
 
 ---
@@ -172,11 +177,6 @@
 
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-0723 ([cc1a41f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0723))
-
 * Make a code for prof migration ([#83673](https://github.com/CleverRaven/Cataclysm-DDA/pull/83673))
 * [MoM] Some monster edits ([#83680](https://github.com/CleverRaven/Cataclysm-DDA/pull/83680))
 * Improve LIXA terminal failure-to-copy message ([#83695](https://github.com/CleverRaven/Cataclysm-DDA/pull/83695))

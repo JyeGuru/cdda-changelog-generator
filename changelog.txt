@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-15-0344 (51dfe7f)
 * [MoM] Power learning difficulty change (#83766)
 
 Cataclysm-DDA experimental build 2025-11-15-0257 (d784105)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2025-11-11-2241 (eae3021)
 Cataclysm-DDA experimental build 2025-11-11-1721 (3da6fd9)
 * fix yaml syntax in release workflow (#83727)
 * configure translation workflow to accept tx_token (#83718)
-
-Cataclysm-DDA experimental build 2025-11-11-0723 (cc1a41f)
 * Make a code for prof migration (#83673)
 * [MoM] Some monster edits (#83680)
 * Improve LIXA terminal failure-to-copy message (#83695)
