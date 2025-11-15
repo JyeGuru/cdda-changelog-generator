@@ -1,3 +1,10 @@
+* [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-15-0257 ([d784105](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-15-0257))
+
+* [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
 
 ---
 
@@ -173,11 +180,6 @@
 * Make a code for prof migration ([#83673](https://github.com/CleverRaven/Cataclysm-DDA/pull/83673))
 * [MoM] Some monster edits ([#83680](https://github.com/CleverRaven/Cataclysm-DDA/pull/83680))
 * Improve LIXA terminal failure-to-copy message ([#83695](https://github.com/CleverRaven/Cataclysm-DDA/pull/83695))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-0649 ([27dc5c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-0649))
-
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug ([#83702](https://github.com/CleverRaven/Cataclysm-DDA/pull/83702))
 * Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
 * Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
@@ -225,4 +227,3 @@
 * Remove radiation from missile silo ([#83624](https://github.com/CleverRaven/Cataclysm-DDA/pull/83624))
 * Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
 * Fix base64 encoding of horde passability bitsets ([#83620](https://github.com/CleverRaven/Cataclysm-DDA/pull/83620))
-* Added SPAWN_ACTIVE flag to active items (2/2) ([#83611](https://github.com/CleverRaven/Cataclysm-DDA/pull/83611))
