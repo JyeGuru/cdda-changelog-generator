@@ -1,3 +1,13 @@
+* Remove combat machete and Doppler Radar Turbo 2000 ([#83771](https://github.com/CleverRaven/Cataclysm-DDA/pull/83771))
+* Mission Re-clarification: Cattail Gathering ([#83791](https://github.com/CleverRaven/Cataclysm-DDA/pull/83791))
+* Update casing name/description ([#83786](https://github.com/CleverRaven/Cataclysm-DDA/pull/83786))
+* Aftershock: Fix a pair of comestible temperature bugs. ([#83801](https://github.com/CleverRaven/Cataclysm-DDA/pull/83801))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-17-2103 ([d75046f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-2103))
+
+* [Magiclysm] Rework spellcasting failure formulae ([#83789](https://github.com/CleverRaven/Cataclysm-DDA/pull/83789))
 
 ---
 
@@ -168,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-11-12-0628 ([31c2335](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0628))
 
 * fix refractory requirement ([#83729](https://github.com/CleverRaven/Cataclysm-DDA/pull/83729))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-12-0410 ([a727936](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0410))
-
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
 * Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))
 * install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
@@ -203,7 +208,6 @@
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
-* Fix scaling factor for high-dpi displays ([#83631](https://github.com/CleverRaven/Cataclysm-DDA/pull/83631))
 * `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
 * Nails item damages wheel ([#83664](https://github.com/CleverRaven/Cataclysm-DDA/pull/83664))
 * [Bugfix] Appliances' cable connection failure after Vanishing Arc teleport ([#83661](https://github.com/CleverRaven/Cataclysm-DDA/pull/83661))
@@ -219,11 +223,7 @@
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
 * Add vehicle zone enable/disable keys to the zone manager UI ([#83641](https://github.com/CleverRaven/Cataclysm-DDA/pull/83641))
-* [MoM] Add Photokinetic matrix crystal artifacts ([#83627](https://github.com/CleverRaven/Cataclysm-DDA/pull/83627))
-* Fix floors in sewage treatment plant ([#83625](https://github.com/CleverRaven/Cataclysm-DDA/pull/83625))
 * Audit solar panel installation/removal reqs for vehicles ([#83650](https://github.com/CleverRaven/Cataclysm-DDA/pull/83650))
 * Routine i18n updates on 08 November 2025 ([#83655](https://github.com/CleverRaven/Cataclysm-DDA/pull/83655))
 * Adjust Irradiation Plant mapgen special spawn ([#83642](https://github.com/CleverRaven/Cataclysm-DDA/pull/83642))
-* [ Xedra Evolved ] Fix incompatibility ([#83629](https://github.com/CleverRaven/Cataclysm-DDA/pull/83629))
-* Remove radiation from missile silo ([#83624](https://github.com/CleverRaven/Cataclysm-DDA/pull/83624))
 * Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
