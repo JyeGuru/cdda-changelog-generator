@@ -1,3 +1,7 @@
+* Fix potential crash from reentrant eoc processing. (#83784)
+
+Cataclysm-DDA experimental build 2025-11-17-1427 (1be0d8d)
+* Fixed bulk corn cob recipes + lit smokes spawn active (#83792)
 
 Cataclysm-DDA experimental build 2025-11-15-0344 (51dfe7f)
 * [MoM] Power learning difficulty change (#83766)
@@ -138,9 +142,7 @@ Cataclysm-DDA experimental build 2025-11-11-2241 (eae3021)
 * Audit solar panel installation/removal reqs for vehicles (#83650)
 * Routine i18n updates on 08 November 2025 (#83655)
 * Adjust Irradiation Plant mapgen special spawn (#83642)
-* Minor Pant stats audit (#83618)
 * [ Xedra Evolved ] Fix incompatibility (#83629)
 * Migrated some active transformations to passive (1/?) (#83623)
 * Remove radiation from missile silo (#83624)
 * Raise ccache limits on master to account for repo growth (#83633)
-* Fix base64 encoding of horde passability bitsets (#83620)
