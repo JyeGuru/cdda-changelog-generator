@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-17-2200 ([b1e321c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-2200))
+
 * fix the loops on autodriving routes ([#83777](https://github.com/CleverRaven/Cataclysm-DDA/pull/83777))
 * Adjusted activity processing ([#83768](https://github.com/CleverRaven/Cataclysm-DDA/pull/83768))
 * Remove combat machete and Doppler Radar Turbo 2000 ([#83771](https://github.com/CleverRaven/Cataclysm-DDA/pull/83771))
@@ -174,11 +179,6 @@
 
 * [MoM] Reduce portal storm awakening odds ([#83720](https://github.com/CleverRaven/Cataclysm-DDA/pull/83720))
 * Fix translation artifact generation ([#83744](https://github.com/CleverRaven/Cataclysm-DDA/pull/83744))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-12-0628 ([31c2335](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0628))
-
 * fix refractory requirement ([#83729](https://github.com/CleverRaven/Cataclysm-DDA/pull/83729))
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
 * Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))

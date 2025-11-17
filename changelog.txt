@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-17-2200 (b1e321c)
 * fix the loops on autodriving routes (#83777)
 * Adjusted activity processing (#83768)
 * Remove combat machete and Doppler Radar Turbo 2000 (#83771)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-11-13-0341 (ddfc569)
 Cataclysm-DDA experimental build 2025-11-12-2126 (0fa5bea)
 * [MoM] Reduce portal storm awakening odds (#83720)
 * Fix translation artifact generation (#83744)
-
-Cataclysm-DDA experimental build 2025-11-12-0628 (31c2335)
 * fix refractory requirement (#83729)
 * fix for fix for fix for osx image bump (#83737)
 * Fix Windows CI ccache eviction policy (#83733)
