@@ -1,3 +1,5 @@
+* fix the loops on autodriving routes ([#83777](https://github.com/CleverRaven/Cataclysm-DDA/pull/83777))
+* Adjusted activity processing ([#83768](https://github.com/CleverRaven/Cataclysm-DDA/pull/83768))
 * Remove combat machete and Doppler Radar Turbo 2000 ([#83771](https://github.com/CleverRaven/Cataclysm-DDA/pull/83771))
 * Mission Re-clarification: Cattail Gathering ([#83791](https://github.com/CleverRaven/Cataclysm-DDA/pull/83791))
 * Update casing name/description ([#83786](https://github.com/CleverRaven/Cataclysm-DDA/pull/83786))
@@ -202,7 +204,6 @@
 * [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs ([#83689](https://github.com/CleverRaven/Cataclysm-DDA/pull/83689))
 * Name smaller solar panels as small ([#83662](https://github.com/CleverRaven/Cataclysm-DDA/pull/83662))
 * [Aftershock ] Fix UICA vehicle purchase ([#83638](https://github.com/CleverRaven/Cataclysm-DDA/pull/83638))
-* Fix mouse positioning when UI is scaled ([#83634](https://github.com/CleverRaven/Cataclysm-DDA/pull/83634))
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
 * Zone sorting refactor ([#83640](https://github.com/CleverRaven/Cataclysm-DDA/pull/83640))
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
@@ -226,4 +227,3 @@
 * Audit solar panel installation/removal reqs for vehicles ([#83650](https://github.com/CleverRaven/Cataclysm-DDA/pull/83650))
 * Routine i18n updates on 08 November 2025 ([#83655](https://github.com/CleverRaven/Cataclysm-DDA/pull/83655))
 * Adjust Irradiation Plant mapgen special spawn ([#83642](https://github.com/CleverRaven/Cataclysm-DDA/pull/83642))
-* Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
