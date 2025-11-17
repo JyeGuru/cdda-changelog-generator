@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-11-10 to 2025-11-17 (#83795)
 
 Cataclysm-DDA experimental build 2025-11-17-1535 (3dbd5ce)
 * Fix potential crash from reentrant eoc processing. (#83784)
@@ -143,6 +144,5 @@ Cataclysm-DDA experimental build 2025-11-12-0040 (03d00e0)
 * Routine i18n updates on 08 November 2025 (#83655)
 * Adjust Irradiation Plant mapgen special spawn (#83642)
 * [ Xedra Evolved ] Fix incompatibility (#83629)
-* Migrated some active transformations to passive (1/?) (#83623)
 * Remove radiation from missile silo (#83624)
 * Raise ccache limits on master to account for repo growth (#83633)

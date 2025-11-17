@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-11-10 to 2025-11-17 ([#83795](https://github.com/CleverRaven/Cataclysm-DDA/pull/83795))
 
 ---
 
@@ -224,6 +225,5 @@
 * Routine i18n updates on 08 November 2025 ([#83655](https://github.com/CleverRaven/Cataclysm-DDA/pull/83655))
 * Adjust Irradiation Plant mapgen special spawn ([#83642](https://github.com/CleverRaven/Cataclysm-DDA/pull/83642))
 * [ Xedra Evolved ] Fix incompatibility ([#83629](https://github.com/CleverRaven/Cataclysm-DDA/pull/83629))
-* Migrated some active transformations to passive (1/?) ([#83623](https://github.com/CleverRaven/Cataclysm-DDA/pull/83623))
 * Remove radiation from missile silo ([#83624](https://github.com/CleverRaven/Cataclysm-DDA/pull/83624))
 * Raise ccache limits on master to account for repo growth ([#83633](https://github.com/CleverRaven/Cataclysm-DDA/pull/83633))
