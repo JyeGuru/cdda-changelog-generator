@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-17-1535 (3dbd5ce)
 * Fix potential crash from reentrant eoc processing. (#83784)
 
 Cataclysm-DDA experimental build 2025-11-17-1427 (1be0d8d)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2025-11-12-0410 (a727936)
 
 Cataclysm-DDA experimental build 2025-11-12-0040 (03d00e0)
 * install dmgbuild and biplist globally (#83734)
-
-Cataclysm-DDA experimental build 2025-11-11-2241 (eae3021)
 * 7 New Melee weapons (#83690)
 * Appease clang (#83724)
 * fix yaml syntax in release workflow (#83727)

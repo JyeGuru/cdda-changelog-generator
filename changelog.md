@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-17-1535 ([3dbd5ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-1535))
+
 * Fix potential crash from reentrant eoc processing. ([#83784](https://github.com/CleverRaven/Cataclysm-DDA/pull/83784))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-11-12-0040 ([03d00e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0040))
 
 * install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-11-2241 ([eae3021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-11-2241))
-
 * 7 New Melee weapons ([#83690](https://github.com/CleverRaven/Cataclysm-DDA/pull/83690))
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
