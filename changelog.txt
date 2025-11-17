@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-17-1628 (aa349ab)
 * Weekly Changelog 2025-11-10 to 2025-11-17 (#83795)
 
 Cataclysm-DDA experimental build 2025-11-17-1535 (3dbd5ce)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2025-11-12-0628 (31c2335)
 Cataclysm-DDA experimental build 2025-11-12-0410 (a727936)
 * fix for fix for fix for osx image bump (#83737)
 * Fix Windows CI ccache eviction policy (#83733)
-
-Cataclysm-DDA experimental build 2025-11-12-0040 (03d00e0)
 * install dmgbuild and biplist globally (#83734)
 * 7 New Melee weapons (#83690)
 * Appease clang (#83724)

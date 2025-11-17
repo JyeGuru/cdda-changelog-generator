@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-17-1628 ([aa349ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-1628))
+
 * Weekly Changelog 2025-11-10 to 2025-11-17 ([#83795](https://github.com/CleverRaven/Cataclysm-DDA/pull/83795))
 
 ---
@@ -170,11 +175,6 @@
 
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
 * Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-12-0040 ([03d00e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-0040))
-
 * install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
 * 7 New Melee weapons ([#83690](https://github.com/CleverRaven/Cataclysm-DDA/pull/83690))
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
