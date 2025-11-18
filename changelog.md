@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-18-1612 ([aba3599](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-1612))
+
+* Destroy Isherwood typos ([#83785](https://github.com/CleverRaven/Cataclysm-DDA/pull/83785))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-11-18-1611 ([4a226e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-18-1611))
+
+* Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-18-0752 ([2a2718f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0752))
 
 * Small naming improvement and a default container change ([#83798](https://github.com/CleverRaven/Cataclysm-DDA/pull/83798))
@@ -161,19 +173,9 @@
 #### Cataclysm-DDA experimental build 2025-11-13-0902 ([ce54087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0902))
 
 * Remove solar panels from cars ([#83649](https://github.com/CleverRaven/Cataclysm-DDA/pull/83649))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-13-0621 ([eff8d95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0621))
-
 * [Isolation Protocol] Add more spells for the Last Scion ([#83694](https://github.com/CleverRaven/Cataclysm-DDA/pull/83694))
 * Fix circular saw description ([#83719](https://github.com/CleverRaven/Cataclysm-DDA/pull/83719))
 * [XE] Unconsciousness interrupts blood art maintenance. ([#83751](https://github.com/CleverRaven/Cataclysm-DDA/pull/83751))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-13-0529 ([35b417e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0529))
-
 * Improve effect migration code ([#83723](https://github.com/CleverRaven/Cataclysm-DDA/pull/83723))
 * Add code for spell migration ([#83721](https://github.com/CleverRaven/Cataclysm-DDA/pull/83721))
 * Remove wheel damage chance from sharp rocks ([#83742](https://github.com/CleverRaven/Cataclysm-DDA/pull/83742))
@@ -225,4 +227,3 @@
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
 * Audit solar panel installation/removal reqs for vehicles ([#83650](https://github.com/CleverRaven/Cataclysm-DDA/pull/83650))
 * Routine i18n updates on 08 November 2025 ([#83655](https://github.com/CleverRaven/Cataclysm-DDA/pull/83655))
-* Adjust Irradiation Plant mapgen special spawn ([#83642](https://github.com/CleverRaven/Cataclysm-DDA/pull/83642))
