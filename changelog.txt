@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-18-0752 (2a2718f)
 * Small naming improvement and a default container change (#83798)
 
 Cataclysm-DDA experimental build 2025-11-18-0707 (4d8927e)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2025-11-13-0621 (eff8d95)
 
 Cataclysm-DDA experimental build 2025-11-13-0529 (35b417e)
 * Improve effect migration code (#83723)
-
-Cataclysm-DDA experimental build 2025-11-13-0430 (5a5fab3)
 * Add code for spell migration (#83721)
 * Remove wheel damage chance from sharp rocks (#83742)
 * Fix codys dialogue about the P32 (#83716)

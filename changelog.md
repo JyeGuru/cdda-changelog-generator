@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-18-0752 ([2a2718f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0752))
+
 * Small naming improvement and a default container change ([#83798](https://github.com/CleverRaven/Cataclysm-DDA/pull/83798))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-11-13-0529 ([35b417e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0529))
 
 * Improve effect migration code ([#83723](https://github.com/CleverRaven/Cataclysm-DDA/pull/83723))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-13-0430 ([5a5fab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0430))
-
 * Add code for spell migration ([#83721](https://github.com/CleverRaven/Cataclysm-DDA/pull/83721))
 * Remove wheel damage chance from sharp rocks ([#83742](https://github.com/CleverRaven/Cataclysm-DDA/pull/83742))
 * Fix codys dialogue about the P32 ([#83716](https://github.com/CleverRaven/Cataclysm-DDA/pull/83716))
