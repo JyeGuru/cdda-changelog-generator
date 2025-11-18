@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-18-0354 ([7caca5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0354))
+
+* [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-18-0152 ([da46d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0152))
 
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
@@ -178,11 +184,6 @@
 * Fix codys dialogue about the P32 ([#83716](https://github.com/CleverRaven/Cataclysm-DDA/pull/83716))
 * Pulling translations works on forks if TX_TOKEN is set ([#83748](https://github.com/CleverRaven/Cataclysm-DDA/pull/83748))
 * Re-fix msvc ccache eviction after discovering original issue was just… ([#83749](https://github.com/CleverRaven/Cataclysm-DDA/pull/83749))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-12-2126 ([0fa5bea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-12-2126))
-
 * [MoM] Reduce portal storm awakening odds ([#83720](https://github.com/CleverRaven/Cataclysm-DDA/pull/83720))
 * Fix translation artifact generation ([#83744](https://github.com/CleverRaven/Cataclysm-DDA/pull/83744))
 * fix refractory requirement ([#83729](https://github.com/CleverRaven/Cataclysm-DDA/pull/83729))
@@ -209,7 +210,6 @@
 * Fix building releases after moving translations to CI ([#83704](https://github.com/CleverRaven/Cataclysm-DDA/pull/83704))
 * [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs ([#83689](https://github.com/CleverRaven/Cataclysm-DDA/pull/83689))
 * Name smaller solar panels as small ([#83662](https://github.com/CleverRaven/Cataclysm-DDA/pull/83662))
-* [Aftershock ] Fix UICA vehicle purchase ([#83638](https://github.com/CleverRaven/Cataclysm-DDA/pull/83638))
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
 * Zone sorting refactor ([#83640](https://github.com/CleverRaven/Cataclysm-DDA/pull/83640))
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
