@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-18-0152 (da46d34)
+* Fix IWYU (#83803)
+
 Cataclysm-DDA experimental build 2025-11-17-2200 (b1e321c)
 * fix the loops on autodriving routes (#83777)
 * Adjusted activity processing (#83768)
@@ -138,7 +141,6 @@ Cataclysm-DDA experimental build 2025-11-12-2126 (0fa5bea)
 * manually install gcc 9 on runners as needed (#83671)
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 (#83666)
 * poler-camo to polar-camo (#83658)
-* minor glaive audit (#83635)
 * Migrated some active transformations to passive (2/?) (#83646)
 * Houses have more solar power (#83648)
 * Mission Clarification: Balthazar (#83656)

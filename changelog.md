@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-18-0152 ([da46d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0152))
+
+* Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-17-2200 ([b1e321c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-2200))
 
 * fix the loops on autodriving routes ([#83777](https://github.com/CleverRaven/Cataclysm-DDA/pull/83777))
@@ -219,7 +225,6 @@
 * manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
-* minor glaive audit ([#83635](https://github.com/CleverRaven/Cataclysm-DDA/pull/83635))
 * Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
