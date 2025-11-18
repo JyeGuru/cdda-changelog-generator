@@ -1,3 +1,10 @@
+* Small naming improvement and a default container change ([#83798](https://github.com/CleverRaven/Cataclysm-DDA/pull/83798))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-18-0707 ([4d8927e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0707))
+
+* Remove more guns ([#83780](https://github.com/CleverRaven/Cataclysm-DDA/pull/83780))
 
 ---
 
@@ -152,12 +159,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-11-13-0815 ([59c7e30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0815))
-
-* Honor THIEF_MODE preference in the Advanced Inventory Management screens ([#83639](https://github.com/CleverRaven/Cataclysm-DDA/pull/83639))
-
----
-
 #### Cataclysm-DDA experimental build 2025-11-13-0621 ([eff8d95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0621))
 
 * [Isolation Protocol] Add more spells for the Last Scion ([#83694](https://github.com/CleverRaven/Cataclysm-DDA/pull/83694))
@@ -176,11 +177,6 @@
 
 * Add code for spell migration ([#83721](https://github.com/CleverRaven/Cataclysm-DDA/pull/83721))
 * Remove wheel damage chance from sharp rocks ([#83742](https://github.com/CleverRaven/Cataclysm-DDA/pull/83742))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-13-0341 ([ddfc569](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0341))
-
 * Fix codys dialogue about the P32 ([#83716](https://github.com/CleverRaven/Cataclysm-DDA/pull/83716))
 * Pulling translations works on forks if TX_TOKEN is set ([#83748](https://github.com/CleverRaven/Cataclysm-DDA/pull/83748))
 * Re-fix msvc ccache eviction after discovering original issue was just… ([#83749](https://github.com/CleverRaven/Cataclysm-DDA/pull/83749))
@@ -211,7 +207,6 @@
 * [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs ([#83689](https://github.com/CleverRaven/Cataclysm-DDA/pull/83689))
 * Name smaller solar panels as small ([#83662](https://github.com/CleverRaven/Cataclysm-DDA/pull/83662))
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
-* Zone sorting refactor ([#83640](https://github.com/CleverRaven/Cataclysm-DDA/pull/83640))
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
