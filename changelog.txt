@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2025-11-14-0242 (51e12f9)
 
 Cataclysm-DDA experimental build 2025-11-14-0153 (26dde74)
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive (#83750)
-
-Cataclysm-DDA experimental build 2025-11-14-0056 (6919e18)
 * [XE] Blind the Sun Rework (#83753)
 * [MoM] Fix negative concentration limit problem (#83756)
 * Update the sex shop mapgen and small related fixes (#83758)
