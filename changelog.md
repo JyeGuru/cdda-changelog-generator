@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-19-1220 ([44b76da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-1220))
+
+* Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-19-0702 ([e7fb845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-0702))
 
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-11-13-2358 ([e23f5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-2358))
 
 * [MoM] Fix negative concentration limit problem ([#83756](https://github.com/CleverRaven/Cataclysm-DDA/pull/83756))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-13-1951 ([7a3e404](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-1951))
-
 * Update the sex shop mapgen and small related fixes ([#83758](https://github.com/CleverRaven/Cataclysm-DDA/pull/83758))
 * Added wheel miss chance ([#83687](https://github.com/CleverRaven/Cataclysm-DDA/pull/83687))
 * How much insight can you get from a single scroll? ([#83755](https://github.com/CleverRaven/Cataclysm-DDA/pull/83755))
@@ -231,4 +232,3 @@
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
-* Routine i18n updates on 08 November 2025 ([#83655](https://github.com/CleverRaven/Cataclysm-DDA/pull/83655))
