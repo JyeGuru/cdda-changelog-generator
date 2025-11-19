@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-19-0129 ([b83c71b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-0129))
+
+* [MoM] Fixing the error that happens when caster selects center position of Force Shove and equivalents ([#83775](https://github.com/CleverRaven/Cataclysm-DDA/pull/83775))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-18-1612 ([aba3599](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-1612))
 
 * Destroy Isherwood typos ([#83785](https://github.com/CleverRaven/Cataclysm-DDA/pull/83785))
@@ -215,7 +221,6 @@
 * `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
 * Nails item damages wheel ([#83664](https://github.com/CleverRaven/Cataclysm-DDA/pull/83664))
 * [Bugfix] Appliances' cable connection failure after Vanishing Arc teleport ([#83661](https://github.com/CleverRaven/Cataclysm-DDA/pull/83661))
-* [Bugfix]Vanishing Arc Teleport bugs ([#83645](https://github.com/CleverRaven/Cataclysm-DDA/pull/83645))
 * Add large monocrystalline roof panel installs ([#83672](https://github.com/CleverRaven/Cataclysm-DDA/pull/83672))
 * Add 2 new guns: Mossberg Shockwave and Mossberg 500 in 410 ([#83669](https://github.com/CleverRaven/Cataclysm-DDA/pull/83669))
 * Fix wrong category name for chitinous vests ([#83670](https://github.com/CleverRaven/Cataclysm-DDA/pull/83670))
