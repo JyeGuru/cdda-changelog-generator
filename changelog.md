@@ -1,3 +1,10 @@
+* remove closetland's sleepiness effect when exiting the dimension using closetland paths perk ([#83815](https://github.com/CleverRaven/Cataclysm-DDA/pull/83815))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-19-1916 ([76fa68f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-1916))
+
+* Super Glue can be used for wound care ([#83773](https://github.com/CleverRaven/Cataclysm-DDA/pull/83773))
 
 ---
 
@@ -173,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2025-11-14-0056 ([6919e18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0056))
 
 * [XE] Blind the Sun Rework ([#83753](https://github.com/CleverRaven/Cataclysm-DDA/pull/83753))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-13-2358 ([e23f5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-2358))
-
 * [MoM] Fix negative concentration limit problem ([#83756](https://github.com/CleverRaven/Cataclysm-DDA/pull/83756))
 * Update the sex shop mapgen and small related fixes ([#83758](https://github.com/CleverRaven/Cataclysm-DDA/pull/83758))
 * Added wheel miss chance ([#83687](https://github.com/CleverRaven/Cataclysm-DDA/pull/83687))
@@ -230,5 +232,3 @@
 * Fix wrong category name for chitinous vests ([#83670](https://github.com/CleverRaven/Cataclysm-DDA/pull/83670))
 * manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
-* poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
-* Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
