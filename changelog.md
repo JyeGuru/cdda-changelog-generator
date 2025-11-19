@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-11-19-0306 ([83a6f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-19-0306))
+
+* fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-19-0129 ([b83c71b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-0129))
 
 * [MoM] Fixing the error that happens when caster selects center position of Force Shove and equivalents ([#83775](https://github.com/CleverRaven/Cataclysm-DDA/pull/83775))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-11-13-1425 ([13c384a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-1425))
 
 * Remove from the correct set when sorting ([#83759](https://github.com/CleverRaven/Cataclysm-DDA/pull/83759))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-13-0902 ([ce54087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-13-0902))
-
 * Remove solar panels from cars ([#83649](https://github.com/CleverRaven/Cataclysm-DDA/pull/83649))
 * [Isolation Protocol] Add more spells for the Last Scion ([#83694](https://github.com/CleverRaven/Cataclysm-DDA/pull/83694))
 * Fix circular saw description ([#83719](https://github.com/CleverRaven/Cataclysm-DDA/pull/83719))
@@ -227,7 +228,6 @@
 * manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))
 * Remove Calico, TEC-9, BFG 50, P-32, and BA10 ([#83666](https://github.com/CleverRaven/Cataclysm-DDA/pull/83666))
 * poler-camo to polar-camo ([#83658](https://github.com/CleverRaven/Cataclysm-DDA/pull/83658))
-* Migrated some active transformations to passive (2/?) ([#83646](https://github.com/CleverRaven/Cataclysm-DDA/pull/83646))
 * Houses have more solar power ([#83648](https://github.com/CleverRaven/Cataclysm-DDA/pull/83648))
 * Mission Clarification: Balthazar ([#83656](https://github.com/CleverRaven/Cataclysm-DDA/pull/83656))
 * Audit solar panel installation/removal reqs for vehicles ([#83650](https://github.com/CleverRaven/Cataclysm-DDA/pull/83650))
