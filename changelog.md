@@ -1,3 +1,8 @@
+* Merge transformation & use for some crafting ([#83800](https://github.com/CleverRaven/Cataclysm-DDA/pull/83800))
+* Mod CI Final Countdown fixes ([#83823](https://github.com/CleverRaven/Cataclysm-DDA/pull/83823))
+* Support multiple possible loading screens for vanilla DDA ([#83822](https://github.com/CleverRaven/Cataclysm-DDA/pull/83822))
+* Legalize sex shop ([#83814](https://github.com/CleverRaven/Cataclysm-DDA/pull/83814))
+* Fix Zone Crashes re #82524 ([#83825](https://github.com/CleverRaven/Cataclysm-DDA/pull/83825))
 * remove closetland's sleepiness effect when exiting the dimension using closetland paths perk ([#83815](https://github.com/CleverRaven/Cataclysm-DDA/pull/83815))
 
 ---
@@ -130,8 +135,6 @@
 #### Cataclysm-DDA experimental build 2025-11-14-1221 ([7f5e920](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-1221))
 
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
-* [ Xedra Evolved ] Werewolves stink in war form ([#83659](https://github.com/CleverRaven/Cataclysm-DDA/pull/83659))
-* [ Xedra Evolved ] Fix werewolf ghostwalker description ([#83660](https://github.com/CleverRaven/Cataclysm-DDA/pull/83660))
 * More items damage wheels ([#83667](https://github.com/CleverRaven/Cataclysm-DDA/pull/83667))
 * [ Xedra evolved ] CI Fixation ([#83697](https://github.com/CleverRaven/Cataclysm-DDA/pull/83697))
 * Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
@@ -167,7 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-11-14-0242 ([51e12f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0242))
 
 * calculate the width of the overmap sidebar correctly ([#83688](https://github.com/CleverRaven/Cataclysm-DDA/pull/83688))
-* Converted items from active to passive transformation (3/3) ([#83663](https://github.com/CleverRaven/Cataclysm-DDA/pull/83663))
 
 ---
 
@@ -219,14 +221,12 @@
 * Add a few restricted mags ([#83693](https://github.com/CleverRaven/Cataclysm-DDA/pull/83693))
 * Fix building releases after moving translations to CI ([#83704](https://github.com/CleverRaven/Cataclysm-DDA/pull/83704))
 * [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs ([#83689](https://github.com/CleverRaven/Cataclysm-DDA/pull/83689))
-* Name smaller solar panels as small ([#83662](https://github.com/CleverRaven/Cataclysm-DDA/pull/83662))
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
 * `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
 * Nails item damages wheel ([#83664](https://github.com/CleverRaven/Cataclysm-DDA/pull/83664))
-* [Bugfix] Appliances' cable connection failure after Vanishing Arc teleport ([#83661](https://github.com/CleverRaven/Cataclysm-DDA/pull/83661))
 * Add large monocrystalline roof panel installs ([#83672](https://github.com/CleverRaven/Cataclysm-DDA/pull/83672))
 * Add 2 new guns: Mossberg Shockwave and Mossberg 500 in 410 ([#83669](https://github.com/CleverRaven/Cataclysm-DDA/pull/83669))
 * Fix wrong category name for chitinous vests ([#83670](https://github.com/CleverRaven/Cataclysm-DDA/pull/83670))
