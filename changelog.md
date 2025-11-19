@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-19-2108 ([46f7312](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-2108))
+
 * Merge transformation & use for some crafting ([#83800](https://github.com/CleverRaven/Cataclysm-DDA/pull/83800))
 * Mod CI Final Countdown fixes ([#83823](https://github.com/CleverRaven/Cataclysm-DDA/pull/83823))
 * Support multiple possible loading screens for vanilla DDA ([#83822](https://github.com/CleverRaven/Cataclysm-DDA/pull/83822))
@@ -138,11 +143,6 @@
 * More items damage wheels ([#83667](https://github.com/CleverRaven/Cataclysm-DDA/pull/83667))
 * [ Xedra evolved ] CI Fixation ([#83697](https://github.com/CleverRaven/Cataclysm-DDA/pull/83697))
 * Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-11-14-0910 ([04977b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-14-0910))
-
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
 * Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
 
