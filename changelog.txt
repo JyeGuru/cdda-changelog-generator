@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-11-20-0614 (4ceb25c)
+* fix closetland perk failing to find initial "landing point" in closetland dimension (#83813)
 * Add my ko-fi link to the donation page (#83821)
 
 Cataclysm-DDA experimental build 2025-11-19-2108 (46f7312)
@@ -75,7 +78,6 @@ Cataclysm-DDA experimental build 2025-11-15-0257 (d784105)
 
 Cataclysm-DDA experimental build 2025-11-14-1221 (7f5e920)
 * Dress shirt variants (#83767)
-* More items damage wheels (#83667)
 * [ Xedra evolved ] CI Fixation (#83697)
 * Add a few cigar variants and a recipe for making cigars (#83715)
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs (#83741)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2025-11-14-0356 (0289261)
 
 Cataclysm-DDA experimental build 2025-11-14-0242 (51e12f9)
 * calculate the width of the overmap sidebar correctly (#83688)
-
-Cataclysm-DDA experimental build 2025-11-14-0153 (26dde74)
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive (#83750)
 * [XE] Blind the Sun Rework (#83753)
 * [MoM] Fix negative concentration limit problem (#83756)
