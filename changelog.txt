@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-20-1132 (e8e45a0)
+* Add Dolmas (#83828)
+
 Cataclysm-DDA experimental build 2025-11-20-0614 (4ceb25c)
 * fix closetland perk failing to find initial "landing point" in closetland dimension (#83813)
 * Add my ko-fi link to the donation page (#83821)
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2025-11-14-0440 (e9a39c6)
 
 Cataclysm-DDA experimental build 2025-11-14-0356 (0289261)
 * [MoM] Add additional portal storm dungeon rewards (#83725)
-
-Cataclysm-DDA experimental build 2025-11-14-0242 (51e12f9)
 * calculate the width of the overmap sidebar correctly (#83688)
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive (#83750)
 * [XE] Blind the Sun Rework (#83753)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2025-11-14-0242 (51e12f9)
 * Fix scaling factor for high-dpi displays (#83709)
 * Add effect migration code (#83706)
 * Weekly Changelog 2025-11-03 to 2025-11-10 (#83696)
-* Make an alcohol vitamin, replace alcohol function (partialy) with it (#83668)
 * Clarify uncraft test (#83700)
 * Striped tshirts (#83699)
 * Remove extraneous comma (#83713)

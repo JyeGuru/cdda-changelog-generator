@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-20-1132 ([e8e45a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-1132))
+
+* Add Dolmas ([#83828](https://github.com/CleverRaven/Cataclysm-DDA/pull/83828))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-20-0614 ([4ceb25c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-0614))
 
 * fix closetland perk failing to find initial "landing point" in closetland dimension ([#83813](https://github.com/CleverRaven/Cataclysm-DDA/pull/83813))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-11-14-0356 ([0289261](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0356))
 
 * [MoM] Add additional portal storm dungeon rewards ([#83725](https://github.com/CleverRaven/Cataclysm-DDA/pull/83725))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-14-0242 ([51e12f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0242))
-
 * calculate the width of the overmap sidebar correctly ([#83688](https://github.com/CleverRaven/Cataclysm-DDA/pull/83688))
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive ([#83750](https://github.com/CleverRaven/Cataclysm-DDA/pull/83750))
 * [XE] Blind the Sun Rework ([#83753](https://github.com/CleverRaven/Cataclysm-DDA/pull/83753))
@@ -209,7 +210,6 @@
 * Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
 * Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
 * Weekly Changelog 2025-11-03 to 2025-11-10 ([#83696](https://github.com/CleverRaven/Cataclysm-DDA/pull/83696))
-* Make an alcohol vitamin, replace alcohol function (partialy) with it ([#83668](https://github.com/CleverRaven/Cataclysm-DDA/pull/83668))
 * Clarify uncraft test ([#83700](https://github.com/CleverRaven/Cataclysm-DDA/pull/83700))
 * Striped tshirts ([#83699](https://github.com/CleverRaven/Cataclysm-DDA/pull/83699))
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
