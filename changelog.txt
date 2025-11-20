@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-20-2038 (e9a933b)
 * Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) (#83831)
 
 Cataclysm-DDA experimental build 2025-11-20-1932 (649e235)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2025-11-14-1221 (7f5e920)
 
 Cataclysm-DDA experimental build 2025-11-14-0909 (a93c05f)
 * Yet another very minor fixes PR (#83698)
-
-Cataclysm-DDA experimental build 2025-11-14-0440 (e9a39c6)
 * Update drink containers (#83710)
 * Add a new toolset for deconstructing wooden structures (#83754)
 * [MoM] Add additional portal storm dungeon rewards (#83725)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-20-2038 ([e9a933b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-2038))
+
 * Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) ([#83831](https://github.com/CleverRaven/Cataclysm-DDA/pull/83831))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-11-14-0909 ([a93c05f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0909))
 
 * Yet another very minor fixes PR ([#83698](https://github.com/CleverRaven/Cataclysm-DDA/pull/83698))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-14-0440 ([e9a39c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0440))
-
 * Update drink containers ([#83710](https://github.com/CleverRaven/Cataclysm-DDA/pull/83710))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
 * [MoM] Add additional portal storm dungeon rewards ([#83725](https://github.com/CleverRaven/Cataclysm-DDA/pull/83725))
