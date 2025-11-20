@@ -1,3 +1,10 @@
+* Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) ([#83831](https://github.com/CleverRaven/Cataclysm-DDA/pull/83831))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-20-1932 ([649e235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-1932))
+
+* Change weakptr uilist_iml in uilist to a sharedptr ([#83832](https://github.com/CleverRaven/Cataclysm-DDA/pull/83832))
 
 ---
 
@@ -170,11 +177,6 @@
 
 * Update drink containers ([#83710](https://github.com/CleverRaven/Cataclysm-DDA/pull/83710))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-14-0356 ([0289261](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0356))
-
 * [MoM] Add additional portal storm dungeon rewards ([#83725](https://github.com/CleverRaven/Cataclysm-DDA/pull/83725))
 * calculate the width of the overmap sidebar correctly ([#83688](https://github.com/CleverRaven/Cataclysm-DDA/pull/83688))
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive ([#83750](https://github.com/CleverRaven/Cataclysm-DDA/pull/83750))
@@ -222,6 +224,4 @@
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
 * `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
 * Add large monocrystalline roof panel installs ([#83672](https://github.com/CleverRaven/Cataclysm-DDA/pull/83672))
-* Add 2 new guns: Mossberg Shockwave and Mossberg 500 in 410 ([#83669](https://github.com/CleverRaven/Cataclysm-DDA/pull/83669))
-* Fix wrong category name for chitinous vests ([#83670](https://github.com/CleverRaven/Cataclysm-DDA/pull/83670))
 * manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))

@@ -1,3 +1,7 @@
+* Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) (#83831)
+
+Cataclysm-DDA experimental build 2025-11-20-1932 (649e235)
+* Change weakptr uilist_iml in uilist to a sharedptr (#83832)
 
 Cataclysm-DDA experimental build 2025-11-20-1132 (e8e45a0)
 * Add Dolmas (#83828)
@@ -92,8 +96,6 @@ Cataclysm-DDA experimental build 2025-11-14-0909 (a93c05f)
 Cataclysm-DDA experimental build 2025-11-14-0440 (e9a39c6)
 * Update drink containers (#83710)
 * Add a new toolset for deconstructing wooden structures (#83754)
-
-Cataclysm-DDA experimental build 2025-11-14-0356 (0289261)
 * [MoM] Add additional portal storm dungeon rewards (#83725)
 * calculate the width of the overmap sidebar correctly (#83688)
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive (#83750)
@@ -141,6 +143,4 @@ Cataclysm-DDA experimental build 2025-11-14-0356 (0289261)
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs (#83686)
 * `make clean` cleans zzip files (#83678)
 * Add large monocrystalline roof panel installs (#83672)
-* Add 2 new guns: Mossberg Shockwave and Mossberg 500 in 410 (#83669)
-* Fix wrong category name for chitinous vests (#83670)
 * manually install gcc 9 on runners as needed (#83671)
