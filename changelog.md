@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-21-0554 ([56a31b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-0554))
+
 * Remove redundant active flag + smokes extinguish bug (1/?) ([#83835](https://github.com/CleverRaven/Cataclysm-DDA/pull/83835))
 * Lower nest chances on radio tower ([#83841](https://github.com/CleverRaven/Cataclysm-DDA/pull/83841))
 
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-11-15-0344 ([51dfe7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-15-0344))
 
 * [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-15-0257 ([d784105](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-15-0257))
-
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
 * [ Xedra evolved ] CI Fixation ([#83697](https://github.com/CleverRaven/Cataclysm-DDA/pull/83697))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-21-0554 (56a31b4)
 * Remove redundant active flag + smokes extinguish bug (1/?) (#83835)
 * Lower nest chances on radio tower (#83841)
 
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2025-11-17-1427 (1be0d8d)
 
 Cataclysm-DDA experimental build 2025-11-15-0344 (51dfe7f)
 * [MoM] Power learning difficulty change (#83766)
-
-Cataclysm-DDA experimental build 2025-11-15-0257 (d784105)
 * [Magiclysm] Magiclysm butchering empathy fix (#83769)
 * Dress shirt variants (#83767)
 * [ Xedra evolved ] CI Fixation (#83697)
