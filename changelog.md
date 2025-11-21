@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-21-1433 ([ff79423](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-1433))
+
 * Modular AR pistol migrates to rifle  ([#83845](https://github.com/CleverRaven/Cataclysm-DDA/pull/83845))
 * "Current mission" --> "Current objective" ([#83852](https://github.com/CleverRaven/Cataclysm-DDA/pull/83852))
 * Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
