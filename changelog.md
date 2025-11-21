@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-21-0158 ([7a58d26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-0158))
+
+* Multi-activity overhaul, part 1: split up can_do_activity_there() ([#83818](https://github.com/CleverRaven/Cataclysm-DDA/pull/83818))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-20-2038 ([e9a933b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-2038))
 
 * Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) ([#83831](https://github.com/CleverRaven/Cataclysm-DDA/pull/83831))
@@ -169,11 +175,6 @@
 * Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
 * Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-14-0909 ([a93c05f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-0909))
-
 * Yet another very minor fixes PR ([#83698](https://github.com/CleverRaven/Cataclysm-DDA/pull/83698))
 * Update drink containers ([#83710](https://github.com/CleverRaven/Cataclysm-DDA/pull/83710))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
@@ -224,4 +225,3 @@
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
 * `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
 * Add large monocrystalline roof panel installs ([#83672](https://github.com/CleverRaven/Cataclysm-DDA/pull/83672))
-* manually install gcc 9 on runners as needed ([#83671](https://github.com/CleverRaven/Cataclysm-DDA/pull/83671))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-21-0158 (7a58d26)
+* Multi-activity overhaul, part 1: split up can_do_activity_there() (#83818)
+
 Cataclysm-DDA experimental build 2025-11-20-2038 (e9a933b)
 * Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) (#83831)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-11-14-1221 (7f5e920)
 * Add a few cigar variants and a recipe for making cigars (#83715)
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs (#83741)
 * Added mod folder references (#83743)
-
-Cataclysm-DDA experimental build 2025-11-14-0909 (a93c05f)
 * Yet another very minor fixes PR (#83698)
 * Update drink containers (#83710)
 * Add a new toolset for deconstructing wooden structures (#83754)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-11-14-0909 (a93c05f)
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs (#83686)
 * `make clean` cleans zzip files (#83678)
 * Add large monocrystalline roof panel installs (#83672)
-* manually install gcc 9 on runners as needed (#83671)
