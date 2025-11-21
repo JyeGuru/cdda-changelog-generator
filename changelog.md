@@ -1,3 +1,11 @@
+* Remove redundant active flag + smokes extinguish bug (1/?) ([#83835](https://github.com/CleverRaven/Cataclysm-DDA/pull/83835))
+* Lower nest chances on radio tower ([#83841](https://github.com/CleverRaven/Cataclysm-DDA/pull/83841))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-21-0505 ([37ba0e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-0505))
+
+* [Bombastic Perks] Add Artifact Resonance perks ([#83844](https://github.com/CleverRaven/Cataclysm-DDA/pull/83844))
 
 ---
 
@@ -165,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2025-11-15-0257 ([d784105](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-15-0257))
 
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-14-1221 ([7f5e920](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-14-1221))
-
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
 * [ Xedra evolved ] CI Fixation ([#83697](https://github.com/CleverRaven/Cataclysm-DDA/pull/83697))
 * Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
@@ -206,7 +209,6 @@
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
-* Make a code for prof migration ([#83673](https://github.com/CleverRaven/Cataclysm-DDA/pull/83673))
 * [MoM] Some monster edits ([#83680](https://github.com/CleverRaven/Cataclysm-DDA/pull/83680))
 * Improve LIXA terminal failure-to-copy message ([#83695](https://github.com/CleverRaven/Cataclysm-DDA/pull/83695))
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug ([#83702](https://github.com/CleverRaven/Cataclysm-DDA/pull/83702))
@@ -223,5 +225,3 @@
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
 * [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
-* `make clean` cleans zzip files ([#83678](https://github.com/CleverRaven/Cataclysm-DDA/pull/83678))
-* Add large monocrystalline roof panel installs ([#83672](https://github.com/CleverRaven/Cataclysm-DDA/pull/83672))
