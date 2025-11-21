@@ -1,3 +1,8 @@
+* Modular AR pistol migrates to rifle  ([#83845](https://github.com/CleverRaven/Cataclysm-DDA/pull/83845))
+* "Current mission" --> "Current objective" ([#83852](https://github.com/CleverRaven/Cataclysm-DDA/pull/83852))
+* Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
+* Fixes to work pants and coveralls ([#83859](https://github.com/CleverRaven/Cataclysm-DDA/pull/83859))
+* fix the sleep menu by resetting the uilist sharedptr ([#83856](https://github.com/CleverRaven/Cataclysm-DDA/pull/83856))
 
 ---
 
@@ -183,12 +188,10 @@
 * Update drink containers ([#83710](https://github.com/CleverRaven/Cataclysm-DDA/pull/83710))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
 * [MoM] Add additional portal storm dungeon rewards ([#83725](https://github.com/CleverRaven/Cataclysm-DDA/pull/83725))
-* calculate the width of the overmap sidebar correctly ([#83688](https://github.com/CleverRaven/Cataclysm-DDA/pull/83688))
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive ([#83750](https://github.com/CleverRaven/Cataclysm-DDA/pull/83750))
 * [XE] Blind the Sun Rework ([#83753](https://github.com/CleverRaven/Cataclysm-DDA/pull/83753))
 * [MoM] Fix negative concentration limit problem ([#83756](https://github.com/CleverRaven/Cataclysm-DDA/pull/83756))
 * Update the sex shop mapgen and small related fixes ([#83758](https://github.com/CleverRaven/Cataclysm-DDA/pull/83758))
-* Added wheel miss chance ([#83687](https://github.com/CleverRaven/Cataclysm-DDA/pull/83687))
 * How much insight can you get from a single scroll? ([#83755](https://github.com/CleverRaven/Cataclysm-DDA/pull/83755))
 * Remove from the correct set when sorting ([#83759](https://github.com/CleverRaven/Cataclysm-DDA/pull/83759))
 * [Isolation Protocol] Add more spells for the Last Scion ([#83694](https://github.com/CleverRaven/Cataclysm-DDA/pull/83694))
@@ -210,7 +213,6 @@
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
-* [MoM] Some monster edits ([#83680](https://github.com/CleverRaven/Cataclysm-DDA/pull/83680))
 * Improve LIXA terminal failure-to-copy message ([#83695](https://github.com/CleverRaven/Cataclysm-DDA/pull/83695))
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug ([#83702](https://github.com/CleverRaven/Cataclysm-DDA/pull/83702))
 * Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
@@ -221,7 +223,5 @@
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
 * Add a few restricted mags ([#83693](https://github.com/CleverRaven/Cataclysm-DDA/pull/83693))
 * Fix building releases after moving translations to CI ([#83704](https://github.com/CleverRaven/Cataclysm-DDA/pull/83704))
-* [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs ([#83689](https://github.com/CleverRaven/Cataclysm-DDA/pull/83689))
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
-* Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))
