@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-21-1341 ([952503d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-1341))
+
+* Distribute chelators to mutagen kits ([#83860](https://github.com/CleverRaven/Cataclysm-DDA/pull/83860))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-21-0554 ([56a31b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-0554))
 
 * Remove redundant active flag + smokes extinguish bug (1/?) ([#83835](https://github.com/CleverRaven/Cataclysm-DDA/pull/83835))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-11-17-1427 ([1be0d8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-1427))
 
 * Fixed bulk corn cob recipes + lit smokes spawn active ([#83792](https://github.com/CleverRaven/Cataclysm-DDA/pull/83792))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-15-0344 ([51dfe7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-15-0344))
-
 * [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
@@ -223,5 +224,4 @@
 * [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs ([#83689](https://github.com/CleverRaven/Cataclysm-DDA/pull/83689))
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough ([#83691](https://github.com/CleverRaven/Cataclysm-DDA/pull/83691))
 * [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))
-* [MoM] The `unstoppable force` can use Aegis ([#83679](https://github.com/CleverRaven/Cataclysm-DDA/pull/83679))
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs ([#83686](https://github.com/CleverRaven/Cataclysm-DDA/pull/83686))

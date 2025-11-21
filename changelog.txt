@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-21-1341 (952503d)
+* Distribute chelators to mutagen kits (#83860)
+
 Cataclysm-DDA experimental build 2025-11-21-0554 (56a31b4)
 * Remove redundant active flag + smokes extinguish bug (1/?) (#83835)
 * Lower nest chances on radio tower (#83841)
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2025-11-17-1535 (3dbd5ce)
 
 Cataclysm-DDA experimental build 2025-11-17-1427 (1be0d8d)
 * Fixed bulk corn cob recipes + lit smokes spawn active (#83792)
-
-Cataclysm-DDA experimental build 2025-11-15-0344 (51dfe7f)
 * [MoM] Power learning difficulty change (#83766)
 * [Magiclysm] Magiclysm butchering empathy fix (#83769)
 * Dress shirt variants (#83767)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2025-11-15-0344 (51dfe7f)
 * [Bugfix] Z axis filter params funtionality bug for u_run_xxx_eocs (#83689)
 * [MoM/XE] The Vitakinetic power Banish Illness can cure vampirism, if you're quick enough (#83691)
 * [Bombastic Perks] Fix Closetland soporific effect remaining (#83692)
-* [MoM] The `unstoppable force` can use Aegis (#83679)
 * Expose and explain the `-1` syntaxic trick for itemgroups in the docs (#83686)
