@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-22-1359 (b094535)
+* [XEDRA Evolved] Blind the Sun. (#83876)
+
 Cataclysm-DDA experimental build 2025-11-22-0630 (97a6c12)
 * Recipe description support parse_tags now (#83838)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2025-11-18-0354 (7caca5b)
 
 Cataclysm-DDA experimental build 2025-11-18-0152 (da46d34)
 * Fix IWYU (#83803)
-
-Cataclysm-DDA experimental build 2025-11-17-2200 (b1e321c)
 * fix the loops on autodriving routes (#83777)
 * Adjusted activity processing (#83768)
 * Remove combat machete and Doppler Radar Turbo 2000 (#83771)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2025-11-17-2200 (b1e321c)
 * Appease clang (#83724)
 * fix yaml syntax in release workflow (#83727)
 * configure translation workflow to accept tx_token (#83718)
-* Improve LIXA terminal failure-to-copy message (#83695)
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug (#83702)
 * Fix scaling factor for high-dpi displays (#83709)
 * Add effect migration code (#83706)
