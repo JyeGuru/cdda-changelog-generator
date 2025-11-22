@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-22-0352 ([4ebef2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-0352))
+
+* [MoM] Allow MoM players to enter the Highlands ([#83843](https://github.com/CleverRaven/Cataclysm-DDA/pull/83843))
 * Update pot_diff.py ([#83847](https://github.com/CleverRaven/Cataclysm-DDA/pull/83847))
 
 ---
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-11-17-1628 ([aa349ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-1628))
 
 * Weekly Changelog 2025-11-10 to 2025-11-17 ([#83795](https://github.com/CleverRaven/Cataclysm-DDA/pull/83795))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-17-1535 ([3dbd5ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-1535))
-
 * Fix potential crash from reentrant eoc processing. ([#83784](https://github.com/CleverRaven/Cataclysm-DDA/pull/83784))
 * Fixed bulk corn cob recipes + lit smokes spawn active ([#83792](https://github.com/CleverRaven/Cataclysm-DDA/pull/83792))
 * [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
@@ -229,4 +230,3 @@
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
 * Add a few restricted mags ([#83693](https://github.com/CleverRaven/Cataclysm-DDA/pull/83693))
 * Fix building releases after moving translations to CI ([#83704](https://github.com/CleverRaven/Cataclysm-DDA/pull/83704))
-* [Bombastic Perks] Fix Closetland soporific effect remaining ([#83692](https://github.com/CleverRaven/Cataclysm-DDA/pull/83692))

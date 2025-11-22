@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2025-11-22-0352 (4ebef2f)
+* [MoM] Allow MoM players to enter the Highlands (#83843)
 * Update pot_diff.py (#83847)
 
 Cataclysm-DDA experimental build 2025-11-21-2311 (495e6aa)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-17-2103 (d75046f)
 
 Cataclysm-DDA experimental build 2025-11-17-1628 (aa349ab)
 * Weekly Changelog 2025-11-10 to 2025-11-17 (#83795)
-
-Cataclysm-DDA experimental build 2025-11-17-1535 (3dbd5ce)
 * Fix potential crash from reentrant eoc processing. (#83784)
 * Fixed bulk corn cob recipes + lit smokes spawn active (#83792)
 * [MoM] Power learning difficulty change (#83766)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-11-17-1535 (3dbd5ce)
 * Remove extraneous comma (#83713)
 * Add a few restricted mags (#83693)
 * Fix building releases after moving translations to CI (#83704)
-* [Bombastic Perks] Fix Closetland soporific effect remaining (#83692)
