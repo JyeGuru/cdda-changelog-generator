@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-22-0537 (06a530f)
+* Multi-activity overhaul, part 2: split up generic_multi_activity_locations() (#83849)
+
 Cataclysm-DDA experimental build 2025-11-22-0352 (4ebef2f)
 * [MoM] Allow MoM players to enter the Highlands (#83843)
 * Update pot_diff.py (#83847)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-17-2200 (b1e321c)
 
 Cataclysm-DDA experimental build 2025-11-17-2103 (d75046f)
 * [Magiclysm] Rework spellcasting failure formulae (#83789)
-
-Cataclysm-DDA experimental build 2025-11-17-1628 (aa349ab)
 * Weekly Changelog 2025-11-10 to 2025-11-17 (#83795)
 * Fix potential crash from reentrant eoc processing. (#83784)
 * Fixed bulk corn cob recipes + lit smokes spawn active (#83792)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2025-11-17-1628 (aa349ab)
 * Clarify uncraft test (#83700)
 * Striped tshirts (#83699)
 * Remove extraneous comma (#83713)
-* Add a few restricted mags (#83693)
 * Fix building releases after moving translations to CI (#83704)
