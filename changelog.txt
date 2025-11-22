@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-22-0630 (97a6c12)
+* Recipe description support parse_tags now (#83838)
+
 Cataclysm-DDA experimental build 2025-11-22-0537 (06a530f)
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() (#83849)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-17-2200 (b1e321c)
 * Mission Re-clarification: Cattail Gathering (#83791)
 * Update casing name/description (#83786)
 * Aftershock: Fix a pair of comestible temperature bugs. (#83801)
-
-Cataclysm-DDA experimental build 2025-11-17-2103 (d75046f)
 * [Magiclysm] Rework spellcasting failure formulae (#83789)
 * Weekly Changelog 2025-11-10 to 2025-11-17 (#83795)
 * Fix potential crash from reentrant eoc processing. (#83784)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2025-11-17-2103 (d75046f)
 * Update the sex shop mapgen and small related fixes (#83758)
 * How much insight can you get from a single scroll? (#83755)
 * Remove from the correct set when sorting (#83759)
-* [Isolation Protocol] Add more spells for the Last Scion (#83694)
 * Fix circular saw description (#83719)
 * [XE] Unconsciousness interrupts blood art maintenance. (#83751)
 * Improve effect migration code (#83723)

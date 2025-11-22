@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-22-0630 ([97a6c12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-0630))
+
+* Recipe description support parse_tags now ([#83838](https://github.com/CleverRaven/Cataclysm-DDA/pull/83838))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-22-0537 ([06a530f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-0537))
 
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() ([#83849](https://github.com/CleverRaven/Cataclysm-DDA/pull/83849))
@@ -177,11 +183,6 @@
 * Mission Re-clarification: Cattail Gathering ([#83791](https://github.com/CleverRaven/Cataclysm-DDA/pull/83791))
 * Update casing name/description ([#83786](https://github.com/CleverRaven/Cataclysm-DDA/pull/83786))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83801](https://github.com/CleverRaven/Cataclysm-DDA/pull/83801))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-17-2103 ([d75046f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-17-2103))
-
 * [Magiclysm] Rework spellcasting failure formulae ([#83789](https://github.com/CleverRaven/Cataclysm-DDA/pull/83789))
 * Weekly Changelog 2025-11-10 to 2025-11-17 ([#83795](https://github.com/CleverRaven/Cataclysm-DDA/pull/83795))
 * Fix potential crash from reentrant eoc processing. ([#83784](https://github.com/CleverRaven/Cataclysm-DDA/pull/83784))
@@ -203,7 +204,6 @@
 * Update the sex shop mapgen and small related fixes ([#83758](https://github.com/CleverRaven/Cataclysm-DDA/pull/83758))
 * How much insight can you get from a single scroll? ([#83755](https://github.com/CleverRaven/Cataclysm-DDA/pull/83755))
 * Remove from the correct set when sorting ([#83759](https://github.com/CleverRaven/Cataclysm-DDA/pull/83759))
-* [Isolation Protocol] Add more spells for the Last Scion ([#83694](https://github.com/CleverRaven/Cataclysm-DDA/pull/83694))
 * Fix circular saw description ([#83719](https://github.com/CleverRaven/Cataclysm-DDA/pull/83719))
 * [XE] Unconsciousness interrupts blood art maintenance. ([#83751](https://github.com/CleverRaven/Cataclysm-DDA/pull/83751))
 * Improve effect migration code ([#83723](https://github.com/CleverRaven/Cataclysm-DDA/pull/83723))
