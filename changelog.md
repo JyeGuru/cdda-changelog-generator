@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-22-1729 ([ba27746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-1729))
+
+* 3 new crude armor vests ([#83820](https://github.com/CleverRaven/Cataclysm-DDA/pull/83820))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-22-1359 ([b094535](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-1359))
 
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
@@ -148,11 +154,6 @@
 #### Cataclysm-DDA experimental build 2025-11-18-1612 ([aba3599](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-1612))
 
 * Destroy Isherwood typos ([#83785](https://github.com/CleverRaven/Cataclysm-DDA/pull/83785))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-11-18-1611 ([4a226e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-18-1611))
-
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
 
 ---
@@ -225,7 +226,6 @@
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug ([#83702](https://github.com/CleverRaven/Cataclysm-DDA/pull/83702))
 * Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
 * Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
-* Weekly Changelog 2025-11-03 to 2025-11-10 ([#83696](https://github.com/CleverRaven/Cataclysm-DDA/pull/83696))
 * Clarify uncraft test ([#83700](https://github.com/CleverRaven/Cataclysm-DDA/pull/83700))
 * Striped tshirts ([#83699](https://github.com/CleverRaven/Cataclysm-DDA/pull/83699))
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-22-1729 (ba27746)
+* 3 new crude armor vests (#83820)
+
 Cataclysm-DDA experimental build 2025-11-22-1359 (b094535)
 * [XEDRA Evolved] Blind the Sun. (#83876)
 
@@ -79,8 +82,6 @@ Cataclysm-DDA experimental build 2025-11-19-0129 (b83c71b)
 
 Cataclysm-DDA experimental build 2025-11-18-1612 (aba3599)
 * Destroy Isherwood typos (#83785)
-
-Cataclysm-DDA 0.I release candidate 2025-11-18-1611 (4a226e6)
 * Aftershock: Fix a pair of comestible temperature bugs. (#83805)
 
 Cataclysm-DDA experimental build 2025-11-18-0752 (2a2718f)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2025-11-18-0152 (da46d34)
 * [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug (#83702)
 * Fix scaling factor for high-dpi displays (#83709)
 * Add effect migration code (#83706)
-* Weekly Changelog 2025-11-03 to 2025-11-10 (#83696)
 * Clarify uncraft test (#83700)
 * Striped tshirts (#83699)
 * Remove extraneous comma (#83713)
