@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-23-0129 (107a361)
+* Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death (#83846)
+
 Cataclysm-DDA experimental build 2025-11-22-1729 (ba27746)
 * 3 new crude armor vests (#83820)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2025-11-18-0707 (4d8927e)
 
 Cataclysm-DDA experimental build 2025-11-18-0354 (7caca5b)
 * [MoM] Astral projection cant do that (#83804)
-
-Cataclysm-DDA experimental build 2025-11-18-0152 (da46d34)
 * Fix IWYU (#83803)
 * fix the loops on autodriving routes (#83777)
 * Adjusted activity processing (#83768)
@@ -108,7 +109,6 @@ Cataclysm-DDA experimental build 2025-11-18-0152 (da46d34)
 * [MoM] Power learning difficulty change (#83766)
 * [Magiclysm] Magiclysm butchering empathy fix (#83769)
 * Dress shirt variants (#83767)
-* [ Xedra evolved ] CI Fixation (#83697)
 * Add a few cigar variants and a recipe for making cigars (#83715)
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs (#83741)
 * Added mod folder references (#83743)

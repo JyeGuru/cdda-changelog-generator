@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-23-0129 ([107a361](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-23-0129))
+
+* Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death ([#83846](https://github.com/CleverRaven/Cataclysm-DDA/pull/83846))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-22-1729 ([ba27746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-1729))
 
 * 3 new crude armor vests ([#83820](https://github.com/CleverRaven/Cataclysm-DDA/pull/83820))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-11-18-0354 ([7caca5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0354))
 
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-18-0152 ([da46d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0152))
-
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
 * fix the loops on autodriving routes ([#83777](https://github.com/CleverRaven/Cataclysm-DDA/pull/83777))
 * Adjusted activity processing ([#83768](https://github.com/CleverRaven/Cataclysm-DDA/pull/83768))
@@ -192,7 +193,6 @@
 * [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
-* [ Xedra evolved ] CI Fixation ([#83697](https://github.com/CleverRaven/Cataclysm-DDA/pull/83697))
 * Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
 * Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
