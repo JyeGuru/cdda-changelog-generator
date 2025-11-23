@@ -1,3 +1,4 @@
+* Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
 
 ---
 
@@ -196,7 +197,6 @@
 * Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
 * Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
-* Yet another very minor fixes PR ([#83698](https://github.com/CleverRaven/Cataclysm-DDA/pull/83698))
 * Update drink containers ([#83710](https://github.com/CleverRaven/Cataclysm-DDA/pull/83710))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
 * [MoM] Add additional portal storm dungeon rewards ([#83725](https://github.com/CleverRaven/Cataclysm-DDA/pull/83725))
