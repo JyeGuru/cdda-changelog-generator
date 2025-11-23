@@ -1,3 +1,13 @@
+* Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
+* [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#83866](https://github.com/CleverRaven/Cataclysm-DDA/pull/83866))
+* [MoM] Concentrating on powers reduces contemplation XP ([#83890](https://github.com/CleverRaven/Cataclysm-DDA/pull/83890))
+* [MoM] The electrokinetic power Short Circuit works through walls ([#83889](https://github.com/CleverRaven/Cataclysm-DDA/pull/83889))
+* [Xedra Evolved] Fix werewolf advancement eoc ([#83888](https://github.com/CleverRaven/Cataclysm-DDA/pull/83888))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-23-2342 ([cfcca5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-23-2342))
+
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
 
 ---
@@ -174,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-11-18-0707 ([4d8927e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0707))
 
 * Remove more guns ([#83780](https://github.com/CleverRaven/Cataclysm-DDA/pull/83780))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-18-0354 ([7caca5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0354))
-
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
 * fix the loops on autodriving routes ([#83777](https://github.com/CleverRaven/Cataclysm-DDA/pull/83777))
@@ -223,10 +228,6 @@
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
-* [Bugfix] Aftershock - Vanishing Arc Orbit Salus 4 teleportation bug ([#83702](https://github.com/CleverRaven/Cataclysm-DDA/pull/83702))
 * Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
 * Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
-* Clarify uncraft test ([#83700](https://github.com/CleverRaven/Cataclysm-DDA/pull/83700))
-* Striped tshirts ([#83699](https://github.com/CleverRaven/Cataclysm-DDA/pull/83699))
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
-* Fix building releases after moving translations to CI ([#83704](https://github.com/CleverRaven/Cataclysm-DDA/pull/83704))
