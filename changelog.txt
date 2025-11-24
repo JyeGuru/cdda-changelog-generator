@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2025-11-24-1035 (be1c541)
+* Heating items now changes temperature, properly resets temp flags (#83898)
+
 Cataclysm-DDA experimental build 2025-11-24-0447 (208a6da)
 * Fixing various UI issues (#83877)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA 0.I release candidate 2025-11-19-0306 (83a6f10)
 
 Cataclysm-DDA experimental build 2025-11-19-0129 (b83c71b)
 * [MoM] Fixing the error that happens when caster selects center position of Force Shove and equivalents (#83775)
-
-Cataclysm-DDA experimental build 2025-11-18-1612 (aba3599)
 * Destroy Isherwood typos (#83785)
 * Aftershock: Fix a pair of comestible temperature bugs. (#83805)
 * Small naming improvement and a default container change (#83798)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2025-11-18-1612 (aba3599)
 * Add a few cigar variants and a recipe for making cigars (#83715)
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs (#83741)
 * Added mod folder references (#83743)
-* Update drink containers (#83710)
 * Add a new toolset for deconstructing wooden structures (#83754)
 * [MoM] Add additional portal storm dungeon rewards (#83725)
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive (#83750)
@@ -145,5 +145,4 @@ Cataclysm-DDA experimental build 2025-11-18-1612 (aba3599)
 * Appease clang (#83724)
 * fix yaml syntax in release workflow (#83727)
 * configure translation workflow to accept tx_token (#83718)
-* Fix scaling factor for high-dpi displays (#83709)
 * Remove extraneous comma (#83713)

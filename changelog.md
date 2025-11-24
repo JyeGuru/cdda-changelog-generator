@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-11-24-1035 ([be1c541](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-24-1035))
+
+* Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-24-0447 ([208a6da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-0447))
 
 * Fixing various UI issues ([#83877](https://github.com/CleverRaven/Cataclysm-DDA/pull/83877))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-11-19-0129 ([b83c71b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-0129))
 
 * [MoM] Fixing the error that happens when caster selects center position of Force Shove and equivalents ([#83775](https://github.com/CleverRaven/Cataclysm-DDA/pull/83775))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-18-1612 ([aba3599](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-1612))
-
 * Destroy Isherwood typos ([#83785](https://github.com/CleverRaven/Cataclysm-DDA/pull/83785))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
 * Small naming improvement and a default container change ([#83798](https://github.com/CleverRaven/Cataclysm-DDA/pull/83798))
@@ -203,7 +204,6 @@
 * Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
 * Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
-* Update drink containers ([#83710](https://github.com/CleverRaven/Cataclysm-DDA/pull/83710))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
 * [MoM] Add additional portal storm dungeon rewards ([#83725](https://github.com/CleverRaven/Cataclysm-DDA/pull/83725))
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive ([#83750](https://github.com/CleverRaven/Cataclysm-DDA/pull/83750))
@@ -229,5 +229,4 @@
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
-* Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
