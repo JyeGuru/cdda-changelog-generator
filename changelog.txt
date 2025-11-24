@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-24-0447 (208a6da)
+* Fixing various UI issues (#83877)
+
 Cataclysm-DDA experimental build 2025-11-24-0023 (3e6aad5)
 * Don't use inactive custom zones (#83893)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#83866)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-19-0129 (b83c71b)
 Cataclysm-DDA experimental build 2025-11-18-1612 (aba3599)
 * Destroy Isherwood typos (#83785)
 * Aftershock: Fix a pair of comestible temperature bugs. (#83805)
-
-Cataclysm-DDA experimental build 2025-11-18-0752 (2a2718f)
 * Small naming improvement and a default container change (#83798)
 * Remove more guns (#83780)
 * [MoM] Astral projection cant do that (#83804)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2025-11-18-0752 (2a2718f)
 * fix yaml syntax in release workflow (#83727)
 * configure translation workflow to accept tx_token (#83718)
 * Fix scaling factor for high-dpi displays (#83709)
-* Add effect migration code (#83706)
 * Remove extraneous comma (#83713)

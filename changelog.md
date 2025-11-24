@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-24-0447 ([208a6da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-0447))
+
+* Fixing various UI issues ([#83877](https://github.com/CleverRaven/Cataclysm-DDA/pull/83877))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-24-0023 ([3e6aad5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-0023))
 
 * Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
@@ -177,11 +183,6 @@
 
 * Destroy Isherwood typos ([#83785](https://github.com/CleverRaven/Cataclysm-DDA/pull/83785))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-18-0752 ([2a2718f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0752))
-
 * Small naming improvement and a default container change ([#83798](https://github.com/CleverRaven/Cataclysm-DDA/pull/83798))
 * Remove more guns ([#83780](https://github.com/CleverRaven/Cataclysm-DDA/pull/83780))
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
@@ -229,5 +230,4 @@
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
 * Fix scaling factor for high-dpi displays ([#83709](https://github.com/CleverRaven/Cataclysm-DDA/pull/83709))
-* Add effect migration code ([#83706](https://github.com/CleverRaven/Cataclysm-DDA/pull/83706))
 * Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
