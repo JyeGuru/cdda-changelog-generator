@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-24-2054 (279024e)
+* Cigars last longer (#83909)
+
 Cataclysm-DDA 0.I release candidate 2025-11-24-1035 (be1c541)
 * Heating items now changes temperature, properly resets temp flags (#83898)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2025-11-19-0619 (ac6f916)
 
 Cataclysm-DDA experimental build 2025-11-19-0441 (b0b2513)
 * Fix type in some switch statements, add missing case (#83763)
-
-Cataclysm-DDA 0.I release candidate 2025-11-19-0306 (83a6f10)
 * fix the loops on autodriving routes (#83806)
 
 Cataclysm-DDA experimental build 2025-11-19-0129 (b83c71b)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2025-11-19-0129 (b83c71b)
 * Appease clang (#83724)
 * fix yaml syntax in release workflow (#83727)
 * configure translation workflow to accept tx_token (#83718)
-* Remove extraneous comma (#83713)

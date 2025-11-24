@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-24-2054 ([279024e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-2054))
+
+* Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-11-24-1035 ([be1c541](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-24-1035))
 
 * Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-11-19-0441 ([b0b2513](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-0441))
 
 * Fix type in some switch statements, add missing case ([#83763](https://github.com/CleverRaven/Cataclysm-DDA/pull/83763))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-11-19-0306 ([83a6f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-19-0306))
-
 * fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
 
 ---
@@ -229,4 +230,3 @@
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
 * configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
-* Remove extraneous comma ([#83713](https://github.com/CleverRaven/Cataclysm-DDA/pull/83713))
