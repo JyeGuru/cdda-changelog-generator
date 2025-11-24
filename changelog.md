@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-24-0023 ([3e6aad5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-0023))
+
 * Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#83866](https://github.com/CleverRaven/Cataclysm-DDA/pull/83866))
 * [MoM] Concentrating on powers reduces contemplation XP ([#83890](https://github.com/CleverRaven/Cataclysm-DDA/pull/83890))
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-11-18-0752 ([2a2718f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0752))
 
 * Small naming improvement and a default container change ([#83798](https://github.com/CleverRaven/Cataclysm-DDA/pull/83798))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-18-0707 ([4d8927e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-18-0707))
-
 * Remove more guns ([#83780](https://github.com/CleverRaven/Cataclysm-DDA/pull/83780))
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-24-0023 (3e6aad5)
 * Don't use inactive custom zones (#83893)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#83866)
 * [MoM] Concentrating on powers reduces contemplation XP (#83890)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-18-1612 (aba3599)
 
 Cataclysm-DDA experimental build 2025-11-18-0752 (2a2718f)
 * Small naming improvement and a default container change (#83798)
-
-Cataclysm-DDA experimental build 2025-11-18-0707 (4d8927e)
 * Remove more guns (#83780)
 * [MoM] Astral projection cant do that (#83804)
 * Fix IWYU (#83803)
