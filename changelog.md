@@ -218,6 +218,7 @@
 * Improve effect migration code ([#83723](https://github.com/CleverRaven/Cataclysm-DDA/pull/83723))
 * Add code for spell migration ([#83721](https://github.com/CleverRaven/Cataclysm-DDA/pull/83721))
 * Remove wheel damage chance from sharp rocks ([#83742](https://github.com/CleverRaven/Cataclysm-DDA/pull/83742))
+* Fix codys dialogue about the P32 ([#83716](https://github.com/CleverRaven/Cataclysm-DDA/pull/83716))
 * Pulling translations works on forks if TX_TOKEN is set ([#83748](https://github.com/CleverRaven/Cataclysm-DDA/pull/83748))
 * Re-fix msvc ccache eviction after discovering original issue was just… ([#83749](https://github.com/CleverRaven/Cataclysm-DDA/pull/83749))
 * [MoM] Reduce portal storm awakening odds ([#83720](https://github.com/CleverRaven/Cataclysm-DDA/pull/83720))
