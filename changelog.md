@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-25-2157 ([9e84d87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2157))
+
+* Fix the "batons" crafting nest not having any recipes in it ([#83918](https://github.com/CleverRaven/Cataclysm-DDA/pull/83918))
+* [Sky Island] Allow choosing different lab types on a lab drop ([#83921](https://github.com/CleverRaven/Cataclysm-DDA/pull/83921))
+* [MoM] Hacking Interface affected by Intelligence/Nether Attunement ([#83927](https://github.com/CleverRaven/Cataclysm-DDA/pull/83927))
+* [alt-map-key] Vision level changes ([#83926](https://github.com/CleverRaven/Cataclysm-DDA/pull/83926))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-25-2115 ([5ad9287](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2115))
+
+* [alt-map-key] Tile Updates ([#83925](https://github.com/CleverRaven/Cataclysm-DDA/pull/83925))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-25-2031 ([fa14768](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2031))
 
 * Drastically nerf the barter value of fiction books ([#83799](https://github.com/CleverRaven/Cataclysm-DDA/pull/83799))
@@ -170,17 +185,7 @@
 #### Cataclysm-DDA experimental build 2025-11-19-1220 ([44b76da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-1220))
 
 * Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-19-0702 ([e7fb845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-0702))
-
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-19-0619 ([ac6f916](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-0619))
-
 * dont misgender lady axe murderers ([#83802](https://github.com/CleverRaven/Cataclysm-DDA/pull/83802))
 * Fix type in some switch statements, add missing case ([#83763](https://github.com/CleverRaven/Cataclysm-DDA/pull/83763))
 * fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
@@ -214,14 +219,10 @@
 * Update the sex shop mapgen and small related fixes ([#83758](https://github.com/CleverRaven/Cataclysm-DDA/pull/83758))
 * How much insight can you get from a single scroll? ([#83755](https://github.com/CleverRaven/Cataclysm-DDA/pull/83755))
 * Remove from the correct set when sorting ([#83759](https://github.com/CleverRaven/Cataclysm-DDA/pull/83759))
-* Fix circular saw description ([#83719](https://github.com/CleverRaven/Cataclysm-DDA/pull/83719))
 * [XE] Unconsciousness interrupts blood art maintenance. ([#83751](https://github.com/CleverRaven/Cataclysm-DDA/pull/83751))
-* Improve effect migration code ([#83723](https://github.com/CleverRaven/Cataclysm-DDA/pull/83723))
-* Add code for spell migration ([#83721](https://github.com/CleverRaven/Cataclysm-DDA/pull/83721))
 * Remove wheel damage chance from sharp rocks ([#83742](https://github.com/CleverRaven/Cataclysm-DDA/pull/83742))
 * Pulling translations works on forks if TX_TOKEN is set ([#83748](https://github.com/CleverRaven/Cataclysm-DDA/pull/83748))
 * Re-fix msvc ccache eviction after discovering original issue was just… ([#83749](https://github.com/CleverRaven/Cataclysm-DDA/pull/83749))
-* [MoM] Reduce portal storm awakening odds ([#83720](https://github.com/CleverRaven/Cataclysm-DDA/pull/83720))
 * Fix translation artifact generation ([#83744](https://github.com/CleverRaven/Cataclysm-DDA/pull/83744))
 * fix refractory requirement ([#83729](https://github.com/CleverRaven/Cataclysm-DDA/pull/83729))
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
@@ -229,4 +230,3 @@
 * install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
 * Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
-* configure translation workflow to accept tx_token ([#83718](https://github.com/CleverRaven/Cataclysm-DDA/pull/83718))
