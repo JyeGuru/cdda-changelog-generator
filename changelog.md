@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-25-1529 ([796fe6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-1529))
+
+* [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-24-2054 ([279024e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-2054))
 
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
@@ -177,11 +183,6 @@
 
 * Fix type in some switch statements, add missing case ([#83763](https://github.com/CleverRaven/Cataclysm-DDA/pull/83763))
 * fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-19-0129 ([b83c71b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-0129))
-
 * [MoM] Fixing the error that happens when caster selects center position of Force Shove and equivalents ([#83775](https://github.com/CleverRaven/Cataclysm-DDA/pull/83775))
 * Destroy Isherwood typos ([#83785](https://github.com/CleverRaven/Cataclysm-DDA/pull/83785))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
@@ -202,7 +203,6 @@
 * [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
-* Add a few cigar variants and a recipe for making cigars ([#83715](https://github.com/CleverRaven/Cataclysm-DDA/pull/83715))
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
 * Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
@@ -218,7 +218,6 @@
 * Improve effect migration code ([#83723](https://github.com/CleverRaven/Cataclysm-DDA/pull/83723))
 * Add code for spell migration ([#83721](https://github.com/CleverRaven/Cataclysm-DDA/pull/83721))
 * Remove wheel damage chance from sharp rocks ([#83742](https://github.com/CleverRaven/Cataclysm-DDA/pull/83742))
-* Fix codys dialogue about the P32 ([#83716](https://github.com/CleverRaven/Cataclysm-DDA/pull/83716))
 * Pulling translations works on forks if TX_TOKEN is set ([#83748](https://github.com/CleverRaven/Cataclysm-DDA/pull/83748))
 * Re-fix msvc ccache eviction after discovering original issue was just… ([#83749](https://github.com/CleverRaven/Cataclysm-DDA/pull/83749))
 * [MoM] Reduce portal storm awakening odds ([#83720](https://github.com/CleverRaven/Cataclysm-DDA/pull/83720))
