@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-25-2343 (533a78c)
+* [XEDRA Evolved] Arm the Bannermen (#83901)
+
 Cataclysm-DDA experimental build 2025-11-25-2157 (9e84d87)
 * Fix the "batons" crafting nest not having any recipes in it (#83918)
 * [Sky Island] Allow choosing different lab types on a lab drop (#83921)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2025-11-19-2108 (46f7312)
 
 Cataclysm-DDA experimental build 2025-11-19-1916 (76fa68f)
 * Super Glue can be used for wound care (#83773)
-
-Cataclysm-DDA experimental build 2025-11-19-1220 (44b76da)
 * Fix purple drink out of container issues (#83824)
 * Update description for "Breacher load bearing vest" (#83812)
 * dont misgender lady axe murderers (#83802)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2025-11-19-1220 (44b76da)
 * fix for fix for fix for osx image bump (#83737)
 * Fix Windows CI ccache eviction policy (#83733)
 * install dmgbuild and biplist globally (#83734)
-* Appease clang (#83724)
 * fix yaml syntax in release workflow (#83727)

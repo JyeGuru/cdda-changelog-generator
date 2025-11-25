@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-25-2343 ([533a78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2343))
+
+* [XEDRA Evolved] Arm the Bannermen ([#83901](https://github.com/CleverRaven/Cataclysm-DDA/pull/83901))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-25-2157 ([9e84d87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2157))
 
 * Fix the "batons" crafting nest not having any recipes in it ([#83918](https://github.com/CleverRaven/Cataclysm-DDA/pull/83918))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-11-19-1916 ([76fa68f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-1916))
 
 * Super Glue can be used for wound care ([#83773](https://github.com/CleverRaven/Cataclysm-DDA/pull/83773))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-19-1220 ([44b76da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-1220))
-
 * Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
 * dont misgender lady axe murderers ([#83802](https://github.com/CleverRaven/Cataclysm-DDA/pull/83802))
@@ -228,5 +229,4 @@
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
 * Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))
 * install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
-* Appease clang ([#83724](https://github.com/CleverRaven/Cataclysm-DDA/pull/83724))
 * fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
