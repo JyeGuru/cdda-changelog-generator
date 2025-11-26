@@ -1,3 +1,11 @@
+* Fix the Zuccheto migration ([#83910](https://github.com/CleverRaven/Cataclysm-DDA/pull/83910))
+* Martial Mastery Stat Widget ([#83912](https://github.com/CleverRaven/Cataclysm-DDA/pull/83912))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-26-2226 ([c5803a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-2226))
+
+* Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 
 ---
 
@@ -179,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-11-21-0158 ([7a58d26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-0158))
 
 * Multi-activity overhaul, part 1: split up can_do_activity_there() ([#83818](https://github.com/CleverRaven/Cataclysm-DDA/pull/83818))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-20-2038 ([e9a933b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-2038))
-
 * Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) ([#83831](https://github.com/CleverRaven/Cataclysm-DDA/pull/83831))
 * Change weakptr uilist_iml in uilist to a sharedptr ([#83832](https://github.com/CleverRaven/Cataclysm-DDA/pull/83832))
 * Add Dolmas ([#83828](https://github.com/CleverRaven/Cataclysm-DDA/pull/83828))
@@ -221,7 +224,6 @@
 * [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
-* [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
 * Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive ([#83750](https://github.com/CleverRaven/Cataclysm-DDA/pull/83750))
@@ -235,4 +237,3 @@
 * Pulling translations works on forks if TX_TOKEN is set ([#83748](https://github.com/CleverRaven/Cataclysm-DDA/pull/83748))
 * Re-fix msvc ccache eviction after discovering original issue was just… ([#83749](https://github.com/CleverRaven/Cataclysm-DDA/pull/83749))
 * Fix translation artifact generation ([#83744](https://github.com/CleverRaven/Cataclysm-DDA/pull/83744))
-* fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
