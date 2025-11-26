@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-26-0237 ([b2bd4d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0237))
+
+* Add missing else block to zone_sorting::populate_items() ([#83916](https://github.com/CleverRaven/Cataclysm-DDA/pull/83916))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-25-2343 ([533a78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2343))
 
 * [XEDRA Evolved] Arm the Bannermen ([#83901](https://github.com/CleverRaven/Cataclysm-DDA/pull/83901))
@@ -179,11 +185,6 @@
 * Legalize sex shop ([#83814](https://github.com/CleverRaven/Cataclysm-DDA/pull/83814))
 * Fix Zone Crashes re #82524 ([#83825](https://github.com/CleverRaven/Cataclysm-DDA/pull/83825))
 * remove closetland's sleepiness effect when exiting the dimension using closetland paths perk ([#83815](https://github.com/CleverRaven/Cataclysm-DDA/pull/83815))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-19-1916 ([76fa68f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-1916))
-
 * Super Glue can be used for wound care ([#83773](https://github.com/CleverRaven/Cataclysm-DDA/pull/83773))
 * Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
@@ -213,7 +214,6 @@
 * [0.I Branch Backport] Bugfixes for Vanishing Arc Teleport bugs ([#83741](https://github.com/CleverRaven/Cataclysm-DDA/pull/83741))
 * Added mod folder references ([#83743](https://github.com/CleverRaven/Cataclysm-DDA/pull/83743))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
-* [MoM] Add additional portal storm dungeon rewards ([#83725](https://github.com/CleverRaven/Cataclysm-DDA/pull/83725))
 * [AFS] Fix Kinetic Annulment System deafening the player while inactive ([#83750](https://github.com/CleverRaven/Cataclysm-DDA/pull/83750))
 * [XE] Blind the Sun Rework ([#83753](https://github.com/CleverRaven/Cataclysm-DDA/pull/83753))
 * [MoM] Fix negative concentration limit problem ([#83756](https://github.com/CleverRaven/Cataclysm-DDA/pull/83756))
