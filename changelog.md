@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-26-0424 ([6e5a255](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0424))
+
+* [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag ([#83908](https://github.com/CleverRaven/Cataclysm-DDA/pull/83908))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-26-0338 ([6a096e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0338))
+
+* Fix milk in milbase not spawning in containers ([#83911](https://github.com/CleverRaven/Cataclysm-DDA/pull/83911))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-26-0237 ([b2bd4d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0237))
 
 * Add missing else block to zone_sorting::populate_items() ([#83916](https://github.com/CleverRaven/Cataclysm-DDA/pull/83916))
@@ -174,11 +186,6 @@
 
 * fix closetland perk failing to find initial "landing point" in closetland dimension ([#83813](https://github.com/CleverRaven/Cataclysm-DDA/pull/83813))
 * Add my ko-fi link to the donation page ([#83821](https://github.com/CleverRaven/Cataclysm-DDA/pull/83821))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-19-2108 ([46f7312](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-19-2108))
-
 * Merge transformation & use for some crafting ([#83800](https://github.com/CleverRaven/Cataclysm-DDA/pull/83800))
 * Mod CI Final Countdown fixes ([#83823](https://github.com/CleverRaven/Cataclysm-DDA/pull/83823))
 * Support multiple possible loading screens for vanilla DDA ([#83822](https://github.com/CleverRaven/Cataclysm-DDA/pull/83822))
@@ -229,4 +236,3 @@
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
 * Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))
 * install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
-* fix yaml syntax in release workflow ([#83727](https://github.com/CleverRaven/Cataclysm-DDA/pull/83727))
