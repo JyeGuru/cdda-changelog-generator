@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-26-2330 (69fdb87)
 * Fix the Zuccheto migration (#83910)
 * Martial Mastery Stat Widget (#83912)
 
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-21-0554 (56a31b4)
 
 Cataclysm-DDA experimental build 2025-11-21-0505 (37ba0e3)
 * [Bombastic Perks] Add Artifact Resonance perks (#83844)
-
-Cataclysm-DDA experimental build 2025-11-21-0158 (7a58d26)
 * Multi-activity overhaul, part 1: split up can_do_activity_there() (#83818)
 * Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) (#83831)
 * Change weakptr uilist_iml in uilist to a sharedptr (#83832)

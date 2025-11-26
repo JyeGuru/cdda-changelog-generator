@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-26-2330 ([69fdb87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-2330))
+
 * Fix the Zuccheto migration ([#83910](https://github.com/CleverRaven/Cataclysm-DDA/pull/83910))
 * Martial Mastery Stat Widget ([#83912](https://github.com/CleverRaven/Cataclysm-DDA/pull/83912))
 
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-11-21-0505 ([37ba0e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-0505))
 
 * [Bombastic Perks] Add Artifact Resonance perks ([#83844](https://github.com/CleverRaven/Cataclysm-DDA/pull/83844))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-21-0158 ([7a58d26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-0158))
-
 * Multi-activity overhaul, part 1: split up can_do_activity_there() ([#83818](https://github.com/CleverRaven/Cataclysm-DDA/pull/83818))
 * Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) ([#83831](https://github.com/CleverRaven/Cataclysm-DDA/pull/83831))
 * Change weakptr uilist_iml in uilist to a sharedptr ([#83832](https://github.com/CleverRaven/Cataclysm-DDA/pull/83832))
