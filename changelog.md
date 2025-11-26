@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-26-1325 ([b458a1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-1325))
+
+* Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-26-0901 ([3457a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0901))
 
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-11-20-1932 ([649e235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-1932))
 
 * Change weakptr uilist_iml in uilist to a sharedptr ([#83832](https://github.com/CleverRaven/Cataclysm-DDA/pull/83832))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-20-1132 ([e8e45a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-1132))
-
 * Add Dolmas ([#83828](https://github.com/CleverRaven/Cataclysm-DDA/pull/83828))
 * fix closetland perk failing to find initial "landing point" in closetland dimension ([#83813](https://github.com/CleverRaven/Cataclysm-DDA/pull/83813))
 * Add my ko-fi link to the donation page ([#83821](https://github.com/CleverRaven/Cataclysm-DDA/pull/83821))
@@ -234,5 +235,4 @@
 * Re-fix msvc ccache eviction after discovering original issue was just… ([#83749](https://github.com/CleverRaven/Cataclysm-DDA/pull/83749))
 * Fix translation artifact generation ([#83744](https://github.com/CleverRaven/Cataclysm-DDA/pull/83744))
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
-* Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))
 * install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
