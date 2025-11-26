@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-26-0901 (3457a56)
+* [MoM] More hacking interface updates (#83933)
+
 Cataclysm-DDA experimental build 2025-11-26-0424 (6e5a255)
 * [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag (#83908)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2025-11-20-1932 (649e235)
 
 Cataclysm-DDA experimental build 2025-11-20-1132 (e8e45a0)
 * Add Dolmas (#83828)
-
-Cataclysm-DDA experimental build 2025-11-20-0614 (4ceb25c)
 * fix closetland perk failing to find initial "landing point" in closetland dimension (#83813)
 * Add my ko-fi link to the donation page (#83821)
 * Merge transformation & use for some crafting (#83800)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2025-11-20-0614 (4ceb25c)
 * Pulling translations works on forks if TX_TOKEN is set (#83748)
 * Re-fix msvc ccache eviction after discovering original issue was just… (#83749)
 * Fix translation artifact generation (#83744)
-* fix refractory requirement (#83729)
 * fix for fix for fix for osx image bump (#83737)
 * Fix Windows CI ccache eviction policy (#83733)
 * install dmgbuild and biplist globally (#83734)

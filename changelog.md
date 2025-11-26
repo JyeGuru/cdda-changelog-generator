@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-26-0901 ([3457a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0901))
+
+* [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-26-0424 ([6e5a255](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0424))
 
 * [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag ([#83908](https://github.com/CleverRaven/Cataclysm-DDA/pull/83908))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-11-20-1132 ([e8e45a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-1132))
 
 * Add Dolmas ([#83828](https://github.com/CleverRaven/Cataclysm-DDA/pull/83828))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-20-0614 ([4ceb25c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-20-0614))
-
 * fix closetland perk failing to find initial "landing point" in closetland dimension ([#83813](https://github.com/CleverRaven/Cataclysm-DDA/pull/83813))
 * Add my ko-fi link to the donation page ([#83821](https://github.com/CleverRaven/Cataclysm-DDA/pull/83821))
 * Merge transformation & use for some crafting ([#83800](https://github.com/CleverRaven/Cataclysm-DDA/pull/83800))
@@ -232,7 +233,6 @@
 * Pulling translations works on forks if TX_TOKEN is set ([#83748](https://github.com/CleverRaven/Cataclysm-DDA/pull/83748))
 * Re-fix msvc ccache eviction after discovering original issue was just… ([#83749](https://github.com/CleverRaven/Cataclysm-DDA/pull/83749))
 * Fix translation artifact generation ([#83744](https://github.com/CleverRaven/Cataclysm-DDA/pull/83744))
-* fix refractory requirement ([#83729](https://github.com/CleverRaven/Cataclysm-DDA/pull/83729))
 * fix for fix for fix for osx image bump ([#83737](https://github.com/CleverRaven/Cataclysm-DDA/pull/83737))
 * Fix Windows CI ccache eviction policy ([#83733](https://github.com/CleverRaven/Cataclysm-DDA/pull/83733))
 * install dmgbuild and biplist globally ([#83734](https://github.com/CleverRaven/Cataclysm-DDA/pull/83734))
