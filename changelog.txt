@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-27-1313 (62a57e8)
 * Make rural gas station use parameterized walls (#83955)
 
 Cataclysm-DDA experimental build 2025-11-27-1112 (af1cc76)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2025-11-22-1729 (ba27746)
 
 Cataclysm-DDA experimental build 2025-11-22-1359 (b094535)
 * [XEDRA Evolved] Blind the Sun. (#83876)
-
-Cataclysm-DDA experimental build 2025-11-22-0630 (97a6c12)
 * Recipe description support parse_tags now (#83838)
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() (#83849)
 * [MoM] Allow MoM players to enter the Highlands (#83843)
