@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-27-0903 ([fe7e2db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0903))
+
 * Fix basic typos in code and comments ([#83903](https://github.com/CleverRaven/Cataclysm-DDA/pull/83903))
 * Fixing heatpack requiring appliances or fire ([#83897](https://github.com/CleverRaven/Cataclysm-DDA/pull/83897))
 * Make Yrax Golden Monolith no longer teaches melee when hit and make their defence work ([#83947](https://github.com/CleverRaven/Cataclysm-DDA/pull/83947))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2025-11-22-0537 ([06a530f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-0537))
 
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() ([#83849](https://github.com/CleverRaven/Cataclysm-DDA/pull/83849))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-22-0352 ([4ebef2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-0352))
-
 * [MoM] Allow MoM players to enter the Highlands ([#83843](https://github.com/CleverRaven/Cataclysm-DDA/pull/83843))
 * Update pot_diff.py ([#83847](https://github.com/CleverRaven/Cataclysm-DDA/pull/83847))
 * make Alpha Member of Group a post thresh mutation ([#83858](https://github.com/CleverRaven/Cataclysm-DDA/pull/83858))
