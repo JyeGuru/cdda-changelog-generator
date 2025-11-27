@@ -1,3 +1,10 @@
+* Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-27-1112 ([af1cc76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-1112))
+
+* Fix mistake in steel ram requirements field for installation and removal ([#83930](https://github.com/CleverRaven/Cataclysm-DDA/pull/83930))
 
 ---
 
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-11-22-0630 ([97a6c12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-0630))
 
 * Recipe description support parse_tags now ([#83838](https://github.com/CleverRaven/Cataclysm-DDA/pull/83838))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-22-0537 ([06a530f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-0537))
-
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() ([#83849](https://github.com/CleverRaven/Cataclysm-DDA/pull/83849))
 * [MoM] Allow MoM players to enter the Highlands ([#83843](https://github.com/CleverRaven/Cataclysm-DDA/pull/83843))
 * Update pot_diff.py ([#83847](https://github.com/CleverRaven/Cataclysm-DDA/pull/83847))
@@ -220,7 +222,6 @@
 * Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
 * dont misgender lady axe murderers ([#83802](https://github.com/CleverRaven/Cataclysm-DDA/pull/83802))
-* Fix type in some switch statements, add missing case ([#83763](https://github.com/CleverRaven/Cataclysm-DDA/pull/83763))
 * fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
 * [MoM] Fixing the error that happens when caster selects center position of Force Shove and equivalents ([#83775](https://github.com/CleverRaven/Cataclysm-DDA/pull/83775))
 * Destroy Isherwood typos ([#83785](https://github.com/CleverRaven/Cataclysm-DDA/pull/83785))
@@ -242,4 +243,3 @@
 * [MoM] Power learning difficulty change ([#83766](https://github.com/CleverRaven/Cataclysm-DDA/pull/83766))
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
-* Remove from the correct set when sorting ([#83759](https://github.com/CleverRaven/Cataclysm-DDA/pull/83759))
