@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-27-0531 ([929f565](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0531))
+
+* [MoM] Show power levels in contemplation recipes ([#83934](https://github.com/CleverRaven/Cataclysm-DDA/pull/83934))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-27-0450 ([affa955](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0450))
 
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-11-21-2311 ([495e6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-2311))
 
 * make Alpha Member of Group a post thresh mutation ([#83858](https://github.com/CleverRaven/Cataclysm-DDA/pull/83858))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-21-1433 ([ff79423](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-21-1433))
-
 * Modular AR pistol migrates to rifle  ([#83845](https://github.com/CleverRaven/Cataclysm-DDA/pull/83845))
 * "Current mission" --> "Current objective" ([#83852](https://github.com/CleverRaven/Cataclysm-DDA/pull/83852))
 * Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
@@ -238,7 +239,6 @@
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
 * Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
 * Add a new toolset for deconstructing wooden structures ([#83754](https://github.com/CleverRaven/Cataclysm-DDA/pull/83754))
-* [XE] Blind the Sun Rework ([#83753](https://github.com/CleverRaven/Cataclysm-DDA/pull/83753))
 * [MoM] Fix negative concentration limit problem ([#83756](https://github.com/CleverRaven/Cataclysm-DDA/pull/83756))
 * Update the sex shop mapgen and small related fixes ([#83758](https://github.com/CleverRaven/Cataclysm-DDA/pull/83758))
 * How much insight can you get from a single scroll? ([#83755](https://github.com/CleverRaven/Cataclysm-DDA/pull/83755))
