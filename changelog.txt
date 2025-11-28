@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-28-0412 (f3e04bd)
+* Actually increase brute weight/volume (#83964)
+
 Cataclysm-DDA experimental build 2025-11-27-1313 (62a57e8)
 * Make rural gas station use parameterized walls (#83955)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2025-11-23-0129 (107a361)
 
 Cataclysm-DDA experimental build 2025-11-22-1729 (ba27746)
 * 3 new crude armor vests (#83820)
-
-Cataclysm-DDA experimental build 2025-11-22-1359 (b094535)
 * [XEDRA Evolved] Blind the Sun. (#83876)
 * Recipe description support parse_tags now (#83838)
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() (#83849)
@@ -150,6 +151,5 @@ Cataclysm-DDA experimental build 2025-11-22-1359 (b094535)
 * Weekly Changelog 2025-11-10 to 2025-11-17 (#83795)
 * Fix potential crash from reentrant eoc processing. (#83784)
 * Fixed bulk corn cob recipes + lit smokes spawn active (#83792)
-* [MoM] Power learning difficulty change (#83766)
 * [Magiclysm] Magiclysm butchering empathy fix (#83769)
 * Dress shirt variants (#83767)
