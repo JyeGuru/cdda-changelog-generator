@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-29-2007 ([612f2c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-2007))
+
+* Replace custom EOCs with standard monster placement ([#83981](https://github.com/CleverRaven/Cataclysm-DDA/pull/83981))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-29-1708 ([9afa12b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-1708))
 
 * Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
@@ -183,11 +189,6 @@
 
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
 * Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-24-0447 ([208a6da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-0447))
-
 * Fixing various UI issues ([#83877](https://github.com/CleverRaven/Cataclysm-DDA/pull/83877))
 * Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#83866](https://github.com/CleverRaven/Cataclysm-DDA/pull/83866))
@@ -224,7 +225,6 @@
 * Legalize sex shop ([#83814](https://github.com/CleverRaven/Cataclysm-DDA/pull/83814))
 * Fix Zone Crashes re #82524 ([#83825](https://github.com/CleverRaven/Cataclysm-DDA/pull/83825))
 * remove closetland's sleepiness effect when exiting the dimension using closetland paths perk ([#83815](https://github.com/CleverRaven/Cataclysm-DDA/pull/83815))
-* Super Glue can be used for wound care ([#83773](https://github.com/CleverRaven/Cataclysm-DDA/pull/83773))
 * Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
 * dont misgender lady axe murderers ([#83802](https://github.com/CleverRaven/Cataclysm-DDA/pull/83802))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-11-29-2007 (612f2c2)
+* Replace custom EOCs with standard monster placement (#83981)
+
 Cataclysm-DDA experimental build 2025-11-29-1708 (9afa12b)
 * Bugfixes: Make the rivers flow again (in winter) (#83974)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-11-25-1529 (796fe6d)
 Cataclysm-DDA experimental build 2025-11-24-2054 (279024e)
 * Cigars last longer (#83909)
 * Heating items now changes temperature, properly resets temp flags (#83898)
-
-Cataclysm-DDA experimental build 2025-11-24-0447 (208a6da)
 * Fixing various UI issues (#83877)
 * Don't use inactive custom zones (#83893)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#83866)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2025-11-24-0447 (208a6da)
 * Legalize sex shop (#83814)
 * Fix Zone Crashes re #82524 (#83825)
 * remove closetland's sleepiness effect when exiting the dimension using closetland paths perk (#83815)
-* Super Glue can be used for wound care (#83773)
 * Fix purple drink out of container issues (#83824)
 * Update description for "Breacher load bearing vest" (#83812)
 * dont misgender lady axe murderers (#83802)
