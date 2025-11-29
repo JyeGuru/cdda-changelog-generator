@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-29-2048 (1e660bb)
 * Removed redundant active transformation indication (2/2?) (#83867)
 
 Cataclysm-DDA experimental build 2025-11-29-2007 (612f2c2)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2025-11-25-2031 (fa14768)
 
 Cataclysm-DDA experimental build 2025-11-25-1529 (796fe6d)
 * [MoM] Neural Spasms works through walls (and fences) (#83920)
-
-Cataclysm-DDA experimental build 2025-11-24-2054 (279024e)
 * Cigars last longer (#83909)
 * Heating items now changes temperature, properly resets temp flags (#83898)
 * Fixing various UI issues (#83877)

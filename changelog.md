@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-29-2048 ([1e660bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-2048))
+
 * Removed redundant active transformation indication (2/2?) ([#83867](https://github.com/CleverRaven/Cataclysm-DDA/pull/83867))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-11-25-1529 ([796fe6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-1529))
 
 * [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-24-2054 ([279024e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-2054))
-
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
 * Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
 * Fixing various UI issues ([#83877](https://github.com/CleverRaven/Cataclysm-DDA/pull/83877))
