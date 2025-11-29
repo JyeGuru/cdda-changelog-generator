@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-29-1708 ([9afa12b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-1708))
+
+* Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-11-29-0422 ([611d0a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-29-0422))
 
 * Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2025-11-24-2054 ([279024e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-2054))
 
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-11-24-1035 ([be1c541](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-24-1035))
-
 * Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
 
 ---
@@ -236,7 +237,6 @@
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
 * fix the loops on autodriving routes ([#83777](https://github.com/CleverRaven/Cataclysm-DDA/pull/83777))
-* Remove combat machete and Doppler Radar Turbo 2000 ([#83771](https://github.com/CleverRaven/Cataclysm-DDA/pull/83771))
 * Mission Re-clarification: Cattail Gathering ([#83791](https://github.com/CleverRaven/Cataclysm-DDA/pull/83791))
 * Update casing name/description ([#83786](https://github.com/CleverRaven/Cataclysm-DDA/pull/83786))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83801](https://github.com/CleverRaven/Cataclysm-DDA/pull/83801))
