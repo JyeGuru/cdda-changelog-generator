@@ -1,3 +1,4 @@
+* Removed redundant active transformation indication (2/2?) (#83867)
 
 Cataclysm-DDA experimental build 2025-11-29-2007 (612f2c2)
 * Replace custom EOCs with standard monster placement (#83981)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-11-24-2054 (279024e)
 * Update description for "Breacher load bearing vest" (#83812)
 * dont misgender lady axe murderers (#83802)
 * fix the loops on autodriving routes (#83806)
-* [MoM] Fixing the error that happens when caster selects center position of Force Shove and equivalents (#83775)
 * Destroy Isherwood typos (#83785)
 * Aftershock: Fix a pair of comestible temperature bugs. (#83805)
 * Small naming improvement and a default container change (#83798)

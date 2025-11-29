@@ -1,3 +1,4 @@
+* Removed redundant active transformation indication (2/2?) ([#83867](https://github.com/CleverRaven/Cataclysm-DDA/pull/83867))
 
 ---
 
@@ -229,7 +230,6 @@
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
 * dont misgender lady axe murderers ([#83802](https://github.com/CleverRaven/Cataclysm-DDA/pull/83802))
 * fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
-* [MoM] Fixing the error that happens when caster selects center position of Force Shove and equivalents ([#83775](https://github.com/CleverRaven/Cataclysm-DDA/pull/83775))
 * Destroy Isherwood typos ([#83785](https://github.com/CleverRaven/Cataclysm-DDA/pull/83785))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
 * Small naming improvement and a default container change ([#83798](https://github.com/CleverRaven/Cataclysm-DDA/pull/83798))
