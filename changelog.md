@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-11-29-0422 ([611d0a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-29-0422))
+
+* Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
+* fix smartphone advanced recovery ([#83968](https://github.com/CleverRaven/Cataclysm-DDA/pull/83968))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-29-0418 ([45707a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-0418))
+
+* [Sky Island] Bunker Climate Control ([#83959](https://github.com/CleverRaven/Cataclysm-DDA/pull/83959))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-28-2355 ([a3505d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-28-2355))
 
 * Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
@@ -180,17 +193,7 @@
 * [MoM] Concentrating on powers reduces contemplation XP ([#83890](https://github.com/CleverRaven/Cataclysm-DDA/pull/83890))
 * [MoM] The electrokinetic power Short Circuit works through walls ([#83889](https://github.com/CleverRaven/Cataclysm-DDA/pull/83889))
 * [Xedra Evolved] Fix werewolf advancement eoc ([#83888](https://github.com/CleverRaven/Cataclysm-DDA/pull/83888))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-23-2342 ([cfcca5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-23-2342))
-
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-23-0129 ([107a361](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-23-0129))
-
 * Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death ([#83846](https://github.com/CleverRaven/Cataclysm-DDA/pull/83846))
 * 3 new crude armor vests ([#83820](https://github.com/CleverRaven/Cataclysm-DDA/pull/83820))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
@@ -233,7 +236,6 @@
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
 * fix the loops on autodriving routes ([#83777](https://github.com/CleverRaven/Cataclysm-DDA/pull/83777))
-* Adjusted activity processing ([#83768](https://github.com/CleverRaven/Cataclysm-DDA/pull/83768))
 * Remove combat machete and Doppler Radar Turbo 2000 ([#83771](https://github.com/CleverRaven/Cataclysm-DDA/pull/83771))
 * Mission Re-clarification: Cattail Gathering ([#83791](https://github.com/CleverRaven/Cataclysm-DDA/pull/83791))
 * Update casing name/description ([#83786](https://github.com/CleverRaven/Cataclysm-DDA/pull/83786))
@@ -242,4 +244,3 @@
 * Weekly Changelog 2025-11-10 to 2025-11-17 ([#83795](https://github.com/CleverRaven/Cataclysm-DDA/pull/83795))
 * Fix potential crash from reentrant eoc processing. ([#83784](https://github.com/CleverRaven/Cataclysm-DDA/pull/83784))
 * Fixed bulk corn cob recipes + lit smokes spawn active ([#83792](https://github.com/CleverRaven/Cataclysm-DDA/pull/83792))
-* [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
