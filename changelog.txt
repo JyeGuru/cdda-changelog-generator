@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.I release candidate 2025-11-29-0422 (611d0a1)
 * Fix crash for unset optional direction in mission (#83969)
+
+Cataclysm-DDA experimental build 2025-11-29-0529 (a698bb1)
 * fix smartphone advanced recovery (#83968)
 
 Cataclysm-DDA experimental build 2025-11-29-0418 (45707a8)
@@ -96,8 +98,6 @@ Cataclysm-DDA 0.I release candidate 2025-11-24-1035 (be1c541)
 
 Cataclysm-DDA experimental build 2025-11-24-0447 (208a6da)
 * Fixing various UI issues (#83877)
-
-Cataclysm-DDA experimental build 2025-11-24-0023 (3e6aad5)
 * Don't use inactive custom zones (#83893)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#83866)
 * [MoM] Concentrating on powers reduces contemplation XP (#83890)

@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.I release candidate 2025-11-29-0422 ([611d0a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-29-0422))
 
 * Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-29-0529 ([a698bb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-0529))
+
 * fix smartphone advanced recovery ([#83968](https://github.com/CleverRaven/Cataclysm-DDA/pull/83968))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-11-24-0447 ([208a6da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-0447))
 
 * Fixing various UI issues ([#83877](https://github.com/CleverRaven/Cataclysm-DDA/pull/83877))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-24-0023 ([3e6aad5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-24-0023))
-
 * Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#83866](https://github.com/CleverRaven/Cataclysm-DDA/pull/83866))
 * [MoM] Concentrating on powers reduces contemplation XP ([#83890](https://github.com/CleverRaven/Cataclysm-DDA/pull/83890))
