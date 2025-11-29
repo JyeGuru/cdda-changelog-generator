@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-28-2355 ([a3505d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-28-2355))
+
+* Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-28-0412 ([f3e04bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-28-0412))
 
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2025-11-23-0129 ([107a361](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-23-0129))
 
 * Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death ([#83846](https://github.com/CleverRaven/Cataclysm-DDA/pull/83846))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-22-1729 ([ba27746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-22-1729))
-
 * 3 new crude armor vests ([#83820](https://github.com/CleverRaven/Cataclysm-DDA/pull/83820))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
 * Recipe description support parse_tags now ([#83838](https://github.com/CleverRaven/Cataclysm-DDA/pull/83838))
@@ -242,4 +243,3 @@
 * Fix potential crash from reentrant eoc processing. ([#83784](https://github.com/CleverRaven/Cataclysm-DDA/pull/83784))
 * Fixed bulk corn cob recipes + lit smokes spawn active ([#83792](https://github.com/CleverRaven/Cataclysm-DDA/pull/83792))
 * [Magiclysm] Magiclysm butchering empathy fix ([#83769](https://github.com/CleverRaven/Cataclysm-DDA/pull/83769))
-* Dress shirt variants ([#83767](https://github.com/CleverRaven/Cataclysm-DDA/pull/83767))
