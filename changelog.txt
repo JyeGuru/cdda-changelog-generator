@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-30-0800 (b5604c6)
 * Aftershock: Removed active in favor of SPAWN_ACTIVE (#83879)
 * Record a snapshot of external options for save archive (#83954)
 * Add `lab_notes` terminals to microlabs (#83987)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2025-11-25-2157 (9e84d87)
 
 Cataclysm-DDA experimental build 2025-11-25-2115 (5ad9287)
 * [alt-map-key] Tile Updates (#83925)
-
-Cataclysm-DDA experimental build 2025-11-25-2031 (fa14768)
 * Drastically nerf the barter value of fiction books (#83799)
 * [MoM] Neural Spasms works through walls (and fences) (#83920)
 * Cigars last longer (#83909)

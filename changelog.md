@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-11-30-0800 ([b5604c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-0800))
+
 * Aftershock: Removed active in favor of SPAWN_ACTIVE ([#83879](https://github.com/CleverRaven/Cataclysm-DDA/pull/83879))
 * Record a snapshot of external options for save archive ([#83954](https://github.com/CleverRaven/Cataclysm-DDA/pull/83954))
 * Add `lab_notes` terminals to microlabs ([#83987](https://github.com/CleverRaven/Cataclysm-DDA/pull/83987))
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-11-25-2115 ([5ad9287](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2115))
 
 * [alt-map-key] Tile Updates ([#83925](https://github.com/CleverRaven/Cataclysm-DDA/pull/83925))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-25-2031 ([fa14768](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2031))
-
 * Drastically nerf the barter value of fiction books ([#83799](https://github.com/CleverRaven/Cataclysm-DDA/pull/83799))
 * [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
