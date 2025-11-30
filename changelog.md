@@ -1,3 +1,6 @@
+* Toastems audit ([#83913](https://github.com/CleverRaven/Cataclysm-DDA/pull/83913))
+* fix crafting menu popup crash ([#83975](https://github.com/CleverRaven/Cataclysm-DDA/pull/83975))
+* Remove the Typos in the Spearfisher's Description ([#83994](https://github.com/CleverRaven/Cataclysm-DDA/pull/83994))
 
 ---
 
@@ -226,7 +229,6 @@
 * Add Dolmas ([#83828](https://github.com/CleverRaven/Cataclysm-DDA/pull/83828))
 * fix closetland perk failing to find initial "landing point" in closetland dimension ([#83813](https://github.com/CleverRaven/Cataclysm-DDA/pull/83813))
 * Add my ko-fi link to the donation page ([#83821](https://github.com/CleverRaven/Cataclysm-DDA/pull/83821))
-* Merge transformation & use for some crafting ([#83800](https://github.com/CleverRaven/Cataclysm-DDA/pull/83800))
 * Mod CI Final Countdown fixes ([#83823](https://github.com/CleverRaven/Cataclysm-DDA/pull/83823))
 * Support multiple possible loading screens for vanilla DDA ([#83822](https://github.com/CleverRaven/Cataclysm-DDA/pull/83822))
 * Legalize sex shop ([#83814](https://github.com/CleverRaven/Cataclysm-DDA/pull/83814))
@@ -234,9 +236,7 @@
 * remove closetland's sleepiness effect when exiting the dimension using closetland paths perk ([#83815](https://github.com/CleverRaven/Cataclysm-DDA/pull/83815))
 * Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
-* dont misgender lady axe murderers ([#83802](https://github.com/CleverRaven/Cataclysm-DDA/pull/83802))
 * fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
-* Aftershock: Fix a pair of comestible temperature bugs. ([#83801](https://github.com/CleverRaven/Cataclysm-DDA/pull/83801))
