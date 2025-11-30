@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-30-2316 ([6887b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-2316))
+
+* Fix NPC error when auto performing loot sorting job at basecamp ([#83980](https://github.com/CleverRaven/Cataclysm-DDA/pull/83980))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-30-1610 ([46bce22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-1610))
 
 * Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
@@ -182,17 +188,11 @@
 #### Cataclysm-DDA experimental build 2025-11-25-2343 ([533a78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2343))
 
 * [XEDRA Evolved] Arm the Bannermen ([#83901](https://github.com/CleverRaven/Cataclysm-DDA/pull/83901))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-25-2157 ([9e84d87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2157))
-
 * Fix the "batons" crafting nest not having any recipes in it ([#83918](https://github.com/CleverRaven/Cataclysm-DDA/pull/83918))
 * [Sky Island] Allow choosing different lab types on a lab drop ([#83921](https://github.com/CleverRaven/Cataclysm-DDA/pull/83921))
 * [MoM] Hacking Interface affected by Intelligence/Nether Attunement ([#83927](https://github.com/CleverRaven/Cataclysm-DDA/pull/83927))
 * [alt-map-key] Vision level changes ([#83926](https://github.com/CleverRaven/Cataclysm-DDA/pull/83926))
 * [alt-map-key] Tile Updates ([#83925](https://github.com/CleverRaven/Cataclysm-DDA/pull/83925))
-* Drastically nerf the barter value of fiction books ([#83799](https://github.com/CleverRaven/Cataclysm-DDA/pull/83799))
 * [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
 * Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
