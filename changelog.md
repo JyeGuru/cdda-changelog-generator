@@ -240,4 +240,3 @@
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83801](https://github.com/CleverRaven/Cataclysm-DDA/pull/83801))
-* Weekly Changelog 2025-11-10 to 2025-11-17 ([#83795](https://github.com/CleverRaven/Cataclysm-DDA/pull/83795))
