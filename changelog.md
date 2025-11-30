@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-11-30-1610 ([46bce22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-1610))
+
+* Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-11-30-0800 ([b5604c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-0800))
 
 * Aftershock: Removed active in favor of SPAWN_ACTIVE ([#83879](https://github.com/CleverRaven/Cataclysm-DDA/pull/83879))
@@ -185,11 +191,6 @@
 * [Sky Island] Allow choosing different lab types on a lab drop ([#83921](https://github.com/CleverRaven/Cataclysm-DDA/pull/83921))
 * [MoM] Hacking Interface affected by Intelligence/Nether Attunement ([#83927](https://github.com/CleverRaven/Cataclysm-DDA/pull/83927))
 * [alt-map-key] Vision level changes ([#83926](https://github.com/CleverRaven/Cataclysm-DDA/pull/83926))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-25-2115 ([5ad9287](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-25-2115))
-
 * [alt-map-key] Tile Updates ([#83925](https://github.com/CleverRaven/Cataclysm-DDA/pull/83925))
 * Drastically nerf the barter value of fiction books ([#83799](https://github.com/CleverRaven/Cataclysm-DDA/pull/83799))
 * [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
@@ -236,7 +237,6 @@
 * dont misgender lady axe murderers ([#83802](https://github.com/CleverRaven/Cataclysm-DDA/pull/83802))
 * fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
-* Small naming improvement and a default container change ([#83798](https://github.com/CleverRaven/Cataclysm-DDA/pull/83798))
 * [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83801](https://github.com/CleverRaven/Cataclysm-DDA/pull/83801))
