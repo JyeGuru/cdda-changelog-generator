@@ -241,4 +241,3 @@
 * Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
 * Aftershock: Fix a pair of comestible temperature bugs. ([#83801](https://github.com/CleverRaven/Cataclysm-DDA/pull/83801))
 * Weekly Changelog 2025-11-10 to 2025-11-17 ([#83795](https://github.com/CleverRaven/Cataclysm-DDA/pull/83795))
-* Fixed bulk corn cob recipes + lit smokes spawn active ([#83792](https://github.com/CleverRaven/Cataclysm-DDA/pull/83792))
