@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-11-30-2354 (977c86c)
 * Toastems audit (#83913)
 * fix crafting menu popup crash (#83975)
 * Remove the Typos in the Spearfisher's Description (#83994)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2025-11-26-0338 (6a096e5)
 
 Cataclysm-DDA experimental build 2025-11-26-0237 (b2bd4d5)
 * Add missing else block to zone_sorting::populate_items() (#83916)
-
-Cataclysm-DDA experimental build 2025-11-25-2343 (533a78c)
 * [XEDRA Evolved] Arm the Bannermen (#83901)
 * Fix the "batons" crafting nest not having any recipes in it (#83918)
 * [Sky Island] Allow choosing different lab types on a lab drop (#83921)
