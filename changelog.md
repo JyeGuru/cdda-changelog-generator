@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-01-1540 ([d2346a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-1540))
+
+* Insulation works on map items, is now a pocket property. ([#83891](https://github.com/CleverRaven/Cataclysm-DDA/pull/83891))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-01-0533 ([183ba2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-0533))
 
 * Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-11-26-1325 ([b458a1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-1325))
 
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-26-0901 ([3457a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0901))
-
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
 * [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag ([#83908](https://github.com/CleverRaven/Cataclysm-DDA/pull/83908))
 * Fix milk in milbase not spawning in containers ([#83911](https://github.com/CleverRaven/Cataclysm-DDA/pull/83911))
