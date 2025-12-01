@@ -1,3 +1,17 @@
+* Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-12-01-0424 ([617797e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-01-0424))
+
+* Bugfixes: Make the rivers flow again (in winter) ([#83984](https://github.com/CleverRaven/Cataclysm-DDA/pull/83984))
+* Multi-activity overhaul part 4: split up generic_multi_activity_do() ([#83976](https://github.com/CleverRaven/Cataclysm-DDA/pull/83976))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-01-0423 ([1a2609a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-0423))
+
+* [MoM/XE] The Uncanny Dodge trait is not valid ([#84000](https://github.com/CleverRaven/Cataclysm-DDA/pull/84000))
 
 ---
 
@@ -178,17 +192,7 @@
 #### Cataclysm-DDA experimental build 2025-11-26-0424 ([6e5a255](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0424))
 
 * [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag ([#83908](https://github.com/CleverRaven/Cataclysm-DDA/pull/83908))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-26-0338 ([6a096e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0338))
-
 * Fix milk in milbase not spawning in containers ([#83911](https://github.com/CleverRaven/Cataclysm-DDA/pull/83911))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-26-0237 ([b2bd4d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-0237))
-
 * Add missing else block to zone_sorting::populate_items() ([#83916](https://github.com/CleverRaven/Cataclysm-DDA/pull/83916))
 * [XEDRA Evolved] Arm the Bannermen ([#83901](https://github.com/CleverRaven/Cataclysm-DDA/pull/83901))
 * Fix the "batons" crafting nest not having any recipes in it ([#83918](https://github.com/CleverRaven/Cataclysm-DDA/pull/83918))
@@ -236,7 +240,3 @@
 * remove closetland's sleepiness effect when exiting the dimension using closetland paths perk ([#83815](https://github.com/CleverRaven/Cataclysm-DDA/pull/83815))
 * Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
 * Update description for "Breacher load bearing vest" ([#83812](https://github.com/CleverRaven/Cataclysm-DDA/pull/83812))
-* fix the loops on autodriving routes ([#83806](https://github.com/CleverRaven/Cataclysm-DDA/pull/83806))
-* Aftershock: Fix a pair of comestible temperature bugs. ([#83805](https://github.com/CleverRaven/Cataclysm-DDA/pull/83805))
-* [MoM] Astral projection cant do that ([#83804](https://github.com/CleverRaven/Cataclysm-DDA/pull/83804))
-* Fix IWYU ([#83803](https://github.com/CleverRaven/Cataclysm-DDA/pull/83803))
