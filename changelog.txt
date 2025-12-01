@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-01-1641 (2946645)
+* Multiple simultaneous and devastating deep nerfs to fire vs monsters (#83963)
+
 Cataclysm-DDA experimental build 2025-12-01-1540 (d2346a5)
 * Insulation works on map items, is now a pocket property. (#83891)
 
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2025-11-26-2226 (c5803a7)
 
 Cataclysm-DDA experimental build 2025-11-26-2024 (eb35cc3)
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run (#83837)
-
-Cataclysm-DDA experimental build 2025-11-26-1325 (b458a1e)
 * Yeet the (portable metal) brick kiln (#83937)
 * [MoM] More hacking interface updates (#83933)
 * [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag (#83908)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-11-26-1325 (b458a1e)
 * Fix Zone Crashes re #82524 (#83825)
 * remove closetland's sleepiness effect when exiting the dimension using closetland paths perk (#83815)
 * Fix purple drink out of container issues (#83824)
-* Update description for "Breacher load bearing vest" (#83812)
