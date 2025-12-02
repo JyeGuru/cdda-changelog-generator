@@ -1,3 +1,4 @@
+* Exclude mutations that should not be visible from translations and some other stuff ([#83961](https://github.com/CleverRaven/Cataclysm-DDA/pull/83961))
 * Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff ([#83972](https://github.com/CleverRaven/Cataclysm-DDA/pull/83972))
 * Remove item transform active in favor of SPAWN_ACTIVE flag (Xedra Evolved, MMA, test) ([#83931](https://github.com/CleverRaven/Cataclysm-DDA/pull/83931))
 * Don't save quickloaded/corrupt gamestates ([#83956](https://github.com/CleverRaven/Cataclysm-DDA/pull/83956))
