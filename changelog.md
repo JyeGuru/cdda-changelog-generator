@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-02-2028 ([8085877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-2028))
+
+* Multi-activity overhaul part 5: split up generic_multi_activity_handler() ([#84010](https://github.com/CleverRaven/Cataclysm-DDA/pull/84010))
+* Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-02-1943 ([d346cae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-1943))
 
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
@@ -190,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-11-27-0450 ([affa955](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0450))
 
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-27-0409 ([462ae40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0409))
-
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
 * Replaced transform active fields with SPAWN_ACTIVE flag ([#83894](https://github.com/CleverRaven/Cataclysm-DDA/pull/83894))
 * Implement u_spell_level dynamic tag ([#83932](https://github.com/CleverRaven/Cataclysm-DDA/pull/83932))
@@ -238,5 +240,4 @@
 * Fixes to work pants and coveralls ([#83859](https://github.com/CleverRaven/Cataclysm-DDA/pull/83859))
 * fix the sleep menu by resetting the uilist sharedptr ([#83856](https://github.com/CleverRaven/Cataclysm-DDA/pull/83856))
 * Distribute chelators to mutagen kits ([#83860](https://github.com/CleverRaven/Cataclysm-DDA/pull/83860))
-* Lower nest chances on radio tower ([#83841](https://github.com/CleverRaven/Cataclysm-DDA/pull/83841))
 * [Bombastic Perks] Add Artifact Resonance perks ([#83844](https://github.com/CleverRaven/Cataclysm-DDA/pull/83844))
