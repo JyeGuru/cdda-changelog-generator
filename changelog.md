@@ -1,3 +1,16 @@
+* Move highway intersection grid into a generic class ([#83998](https://github.com/CleverRaven/Cataclysm-DDA/pull/83998))
+* Stop turning on *all* the debug mode filters on first open ([#83957](https://github.com/CleverRaven/Cataclysm-DDA/pull/83957))
+* Remove redundant actions and shift uses to transform ([#83958](https://github.com/CleverRaven/Cataclysm-DDA/pull/83958))
+* Study activity zone (library) implementation ([#83962](https://github.com/CleverRaven/Cataclysm-DDA/pull/83962))
+* Replace transformation EOCs with transformation iuse actions ([#84004](https://github.com/CleverRaven/Cataclysm-DDA/pull/84004))
+* Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
+* [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-02-0504 ([ab4de61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-0504))
+
+* Weekly Changelog 2025-11-24 to 2025-12-01 ([#84001](https://github.com/CleverRaven/Cataclysm-DDA/pull/84001))
 
 ---
 
@@ -185,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-11-26-2226 ([c5803a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-2226))
 
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-26-2024 ([eb35cc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-2024))
-
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#83837](https://github.com/CleverRaven/Cataclysm-DDA/pull/83837))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
@@ -213,7 +221,6 @@
 * [Xedra Evolved] Fix werewolf advancement eoc ([#83888](https://github.com/CleverRaven/Cataclysm-DDA/pull/83888))
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
 * Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death ([#83846](https://github.com/CleverRaven/Cataclysm-DDA/pull/83846))
-* 3 new crude armor vests ([#83820](https://github.com/CleverRaven/Cataclysm-DDA/pull/83820))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
 * Recipe description support parse_tags now ([#83838](https://github.com/CleverRaven/Cataclysm-DDA/pull/83838))
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() ([#83849](https://github.com/CleverRaven/Cataclysm-DDA/pull/83849))
@@ -229,15 +236,8 @@
 * Remove redundant active flag + smokes extinguish bug (1/?) ([#83835](https://github.com/CleverRaven/Cataclysm-DDA/pull/83835))
 * Lower nest chances on radio tower ([#83841](https://github.com/CleverRaven/Cataclysm-DDA/pull/83841))
 * [Bombastic Perks] Add Artifact Resonance perks ([#83844](https://github.com/CleverRaven/Cataclysm-DDA/pull/83844))
-* Multi-activity overhaul, part 1: split up can_do_activity_there() ([#83818](https://github.com/CleverRaven/Cataclysm-DDA/pull/83818))
 * Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) ([#83831](https://github.com/CleverRaven/Cataclysm-DDA/pull/83831))
 * Change weakptr uilist_iml in uilist to a sharedptr ([#83832](https://github.com/CleverRaven/Cataclysm-DDA/pull/83832))
 * Add Dolmas ([#83828](https://github.com/CleverRaven/Cataclysm-DDA/pull/83828))
-* fix closetland perk failing to find initial "landing point" in closetland dimension ([#83813](https://github.com/CleverRaven/Cataclysm-DDA/pull/83813))
-* Add my ko-fi link to the donation page ([#83821](https://github.com/CleverRaven/Cataclysm-DDA/pull/83821))
-* Mod CI Final Countdown fixes ([#83823](https://github.com/CleverRaven/Cataclysm-DDA/pull/83823))
-* Support multiple possible loading screens for vanilla DDA ([#83822](https://github.com/CleverRaven/Cataclysm-DDA/pull/83822))
-* Legalize sex shop ([#83814](https://github.com/CleverRaven/Cataclysm-DDA/pull/83814))
 * Fix Zone Crashes re #82524 ([#83825](https://github.com/CleverRaven/Cataclysm-DDA/pull/83825))
-* remove closetland's sleepiness effect when exiting the dimension using closetland paths perk ([#83815](https://github.com/CleverRaven/Cataclysm-DDA/pull/83815))
 * Fix purple drink out of container issues ([#83824](https://github.com/CleverRaven/Cataclysm-DDA/pull/83824))
