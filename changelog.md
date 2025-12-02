@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-02-0601 ([f89c2e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-0601))
+
 * Exclude mutations that should not be visible from translations and some other stuff ([#83961](https://github.com/CleverRaven/Cataclysm-DDA/pull/83961))
 * Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff ([#83972](https://github.com/CleverRaven/Cataclysm-DDA/pull/83972))
 * Remove item transform active in favor of SPAWN_ACTIVE flag (Xedra Evolved, MMA, test) ([#83931](https://github.com/CleverRaven/Cataclysm-DDA/pull/83931))
@@ -196,11 +201,6 @@
 
 * Fix the Zuccheto migration ([#83910](https://github.com/CleverRaven/Cataclysm-DDA/pull/83910))
 * Martial Mastery Stat Widget ([#83912](https://github.com/CleverRaven/Cataclysm-DDA/pull/83912))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-26-2226 ([c5803a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-26-2226))
-
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#83837](https://github.com/CleverRaven/Cataclysm-DDA/pull/83837))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
