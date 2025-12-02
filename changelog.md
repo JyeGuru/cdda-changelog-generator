@@ -240,5 +240,4 @@
 * Remove redundant active flag + smokes extinguish bug (1/?) ([#83835](https://github.com/CleverRaven/Cataclysm-DDA/pull/83835))
 * Lower nest chances on radio tower ([#83841](https://github.com/CleverRaven/Cataclysm-DDA/pull/83841))
 * [Bombastic Perks] Add Artifact Resonance perks ([#83844](https://github.com/CleverRaven/Cataclysm-DDA/pull/83844))
-* Update Five Deadly Venoms Kung Fu's description (correcting MA user's name) ([#83831](https://github.com/CleverRaven/Cataclysm-DDA/pull/83831))
 * Change weakptr uilist_iml in uilist to a sharedptr ([#83832](https://github.com/CleverRaven/Cataclysm-DDA/pull/83832))
