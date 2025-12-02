@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-02-1943 ([d346cae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-1943))
+
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-11-27-0409 ([462ae40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0409))
 
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-27-0113 ([4352393](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0113))
-
 * Replaced transform active fields with SPAWN_ACTIVE flag ([#83894](https://github.com/CleverRaven/Cataclysm-DDA/pull/83894))
 * Implement u_spell_level dynamic tag ([#83932](https://github.com/CleverRaven/Cataclysm-DDA/pull/83932))
 * Add diazepam addiciton (hobby) ([#83936](https://github.com/CleverRaven/Cataclysm-DDA/pull/83936))
@@ -228,7 +228,6 @@
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
 * Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death ([#83846](https://github.com/CleverRaven/Cataclysm-DDA/pull/83846))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
-* Recipe description support parse_tags now ([#83838](https://github.com/CleverRaven/Cataclysm-DDA/pull/83838))
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() ([#83849](https://github.com/CleverRaven/Cataclysm-DDA/pull/83849))
 * [MoM] Allow MoM players to enter the Highlands ([#83843](https://github.com/CleverRaven/Cataclysm-DDA/pull/83843))
 * Update pot_diff.py ([#83847](https://github.com/CleverRaven/Cataclysm-DDA/pull/83847))

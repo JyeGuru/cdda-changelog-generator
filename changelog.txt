@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-12-02-1943 (d346cae)
 * Removed 'active' field from item transformations (#84015)
 
 Cataclysm-DDA experimental build 2025-12-02-1857 (5dc17f4)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-11-27-0450 (affa955)
 
 Cataclysm-DDA experimental build 2025-11-27-0409 (462ae40)
 * Dehumanize brutes (#83948)
-
-Cataclysm-DDA experimental build 2025-11-27-0113 (4352393)
 * Replaced transform active fields with SPAWN_ACTIVE flag (#83894)
 * Implement u_spell_level dynamic tag (#83932)
 * Add diazepam addiciton (hobby) (#83936)
@@ -138,7 +138,6 @@ Cataclysm-DDA experimental build 2025-11-27-0113 (4352393)
 * Heating items now changes temperature, properly resets temp flags (#83892)
 * Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death (#83846)
 * [XEDRA Evolved] Blind the Sun. (#83876)
-* Recipe description support parse_tags now (#83838)
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() (#83849)
 * [MoM] Allow MoM players to enter the Highlands (#83843)
 * Update pot_diff.py (#83847)
