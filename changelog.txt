@@ -1,3 +1,4 @@
+* Removed 'active' field from item transformations (#84015)
 
 Cataclysm-DDA experimental build 2025-12-02-1857 (5dc17f4)
 * Fix basic typos in code and comments (#83979)
@@ -114,7 +115,6 @@ Cataclysm-DDA experimental build 2025-11-27-0113 (4352393)
 * Fix the Zuccheto migration (#83910)
 * Martial Mastery Stat Widget (#83912)
 * Change rural gas station's walls to regular walls from log walls (#83940)
-* [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run (#83837)
 * Yeet the (portable metal) brick kiln (#83937)
 * [MoM] More hacking interface updates (#83933)
 * [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag (#83908)

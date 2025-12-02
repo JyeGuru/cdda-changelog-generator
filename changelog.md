@@ -1,3 +1,4 @@
+* Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
 
 ---
 
@@ -204,7 +205,6 @@
 * Fix the Zuccheto migration ([#83910](https://github.com/CleverRaven/Cataclysm-DDA/pull/83910))
 * Martial Mastery Stat Widget ([#83912](https://github.com/CleverRaven/Cataclysm-DDA/pull/83912))
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
-* [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#83837](https://github.com/CleverRaven/Cataclysm-DDA/pull/83837))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
 * [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag ([#83908](https://github.com/CleverRaven/Cataclysm-DDA/pull/83908))
