@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-02-1422 (fb7db84)
+* Fix Some Other Description Mistakes (#84005)
+
 Cataclysm-DDA experimental build 2025-12-02-0601 (f89c2e7)
 * Exclude mutations that should not be visible from translations and some other stuff (#83961)
 * Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff (#83972)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2025-11-27-0017 (c585278)
 * [Sky Island] Mission/Upgrade Fixes (#83902)
 * Multi-activity overhaul, part 3: split up generic_multi_activity_check_requirement() (#83922)
 * [Sky Island] Add Earthbound Pill recipe (#83935)
-
-Cataclysm-DDA experimental build 2025-11-26-2330 (69fdb87)
 * Fix the Zuccheto migration (#83910)
 * Martial Mastery Stat Widget (#83912)
 * Change rural gas station's walls to regular walls from log walls (#83940)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-11-26-2330 (69fdb87)
 * Remove redundant active flag + smokes extinguish bug (1/?) (#83835)
 * Lower nest chances on radio tower (#83841)
 * [Bombastic Perks] Add Artifact Resonance perks (#83844)
-* Change weakptr uilist_iml in uilist to a sharedptr (#83832)
