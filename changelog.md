@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-03-1419 ([f47746d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-03-1419))
+
+* Martial Mastery no longer deletes mobile sidebar ([#84030](https://github.com/CleverRaven/Cataclysm-DDA/pull/84030))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-02-2028 ([8085877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-2028))
 
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() ([#84010](https://github.com/CleverRaven/Cataclysm-DDA/pull/84010))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-11-27-0531 ([929f565](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0531))
 
 * [MoM] Show power levels in contemplation recipes ([#83934](https://github.com/CleverRaven/Cataclysm-DDA/pull/83934))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-27-0450 ([affa955](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0450))
-
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
 * Replaced transform active fields with SPAWN_ACTIVE flag ([#83894](https://github.com/CleverRaven/Cataclysm-DDA/pull/83894))
@@ -231,7 +232,6 @@
 * Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death ([#83846](https://github.com/CleverRaven/Cataclysm-DDA/pull/83846))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() ([#83849](https://github.com/CleverRaven/Cataclysm-DDA/pull/83849))
-* [MoM] Allow MoM players to enter the Highlands ([#83843](https://github.com/CleverRaven/Cataclysm-DDA/pull/83843))
 * Update pot_diff.py ([#83847](https://github.com/CleverRaven/Cataclysm-DDA/pull/83847))
 * make Alpha Member of Group a post thresh mutation ([#83858](https://github.com/CleverRaven/Cataclysm-DDA/pull/83858))
 * Modular AR pistol migrates to rifle  ([#83845](https://github.com/CleverRaven/Cataclysm-DDA/pull/83845))
