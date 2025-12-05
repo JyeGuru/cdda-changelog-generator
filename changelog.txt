@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-05-2122 (e949eb2)
+* Don't double move when vehicle traverses ramps (#84054)
+
 Cataclysm-DDA experimental build 2025-12-05-1225 (c964ff4)
 * Add a supermarket (#84017)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-11-29-0418 (45707a8)
 
 Cataclysm-DDA experimental build 2025-11-28-2355 (a3505d3)
 * Fix Article Omission Mistakes (#83965)
-
-Cataclysm-DDA experimental build 2025-11-28-0412 (f3e04bd)
 * Actually increase brute weight/volume (#83964)
 * Make rural gas station use parameterized walls (#83955)
 * Fix mistake in steel ram requirements field for installation and removal (#83930)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2025-11-28-0412 (f3e04bd)
 * Heating items now changes temperature, properly resets temp flags (#83892)
 * [XEDRA Evolved] Blind the Sun. (#83876)
 * Fix tainted human blood being unanalyzable (#83862)
-* Fixes to work pants and coveralls (#83859)
 * Distribute chelators to mutagen kits (#83860)

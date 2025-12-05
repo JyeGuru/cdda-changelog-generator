@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-05-2122 ([e949eb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-2122))
+
+* Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-05-1225 ([c964ff4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-1225))
 
 * Add a supermarket ([#84017](https://github.com/CleverRaven/Cataclysm-DDA/pull/84017))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-11-28-2355 ([a3505d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-28-2355))
 
 * Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-28-0412 ([f3e04bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-28-0412))
-
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
 * Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
 * Fix mistake in steel ram requirements field for installation and removal ([#83930](https://github.com/CleverRaven/Cataclysm-DDA/pull/83930))
@@ -237,5 +238,4 @@
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
 * Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
-* Fixes to work pants and coveralls ([#83859](https://github.com/CleverRaven/Cataclysm-DDA/pull/83859))
 * Distribute chelators to mutagen kits ([#83860](https://github.com/CleverRaven/Cataclysm-DDA/pull/83860))
