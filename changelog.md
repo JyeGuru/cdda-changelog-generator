@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-05-0046 ([bda4b3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0046))
+
+* Added recipe to reverse the disassembly of the Army helmet ([#84023](https://github.com/CleverRaven/Cataclysm-DDA/pull/84023))
+* Give the occupied lumberyard some more chainlink gates ([#84041](https://github.com/CleverRaven/Cataclysm-DDA/pull/84041))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-04-2358 ([40c01df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-04-2358))
+
+* Pre-emptively kill some exploits related to fire-sound handling ([#84040](https://github.com/CleverRaven/Cataclysm-DDA/pull/84040))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-03-1419 ([f47746d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-03-1419))
 
 * Martial Mastery no longer deletes mobile sidebar ([#84030](https://github.com/CleverRaven/Cataclysm-DDA/pull/84030))
@@ -185,17 +198,7 @@
 * Fix basic typos in code and comments ([#83903](https://github.com/CleverRaven/Cataclysm-DDA/pull/83903))
 * Fixing heatpack requiring appliances or fire ([#83897](https://github.com/CleverRaven/Cataclysm-DDA/pull/83897))
 * Make Yrax Golden Monolith no longer teaches melee when hit and make their defence work ([#83947](https://github.com/CleverRaven/Cataclysm-DDA/pull/83947))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-27-0817 ([c097cb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0817))
-
 * [Sky Island] Revert 82597 ([#83946](https://github.com/CleverRaven/Cataclysm-DDA/pull/83946))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-27-0531 ([929f565](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0531))
-
 * [MoM] Show power levels in contemplation recipes ([#83934](https://github.com/CleverRaven/Cataclysm-DDA/pull/83934))
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
@@ -229,15 +232,12 @@
 * [MoM] The electrokinetic power Short Circuit works through walls ([#83889](https://github.com/CleverRaven/Cataclysm-DDA/pull/83889))
 * [Xedra Evolved] Fix werewolf advancement eoc ([#83888](https://github.com/CleverRaven/Cataclysm-DDA/pull/83888))
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
-* Fix NPC bleed assessment checking wrong character / Remove correct NPC on caravan death ([#83846](https://github.com/CleverRaven/Cataclysm-DDA/pull/83846))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
 * Multi-activity overhaul, part 2: split up generic_multi_activity_locations() ([#83849](https://github.com/CleverRaven/Cataclysm-DDA/pull/83849))
 * Update pot_diff.py ([#83847](https://github.com/CleverRaven/Cataclysm-DDA/pull/83847))
 * make Alpha Member of Group a post thresh mutation ([#83858](https://github.com/CleverRaven/Cataclysm-DDA/pull/83858))
-* Modular AR pistol migrates to rifle  ([#83845](https://github.com/CleverRaven/Cataclysm-DDA/pull/83845))
 * "Current mission" --> "Current objective" ([#83852](https://github.com/CleverRaven/Cataclysm-DDA/pull/83852))
 * Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
 * Fixes to work pants and coveralls ([#83859](https://github.com/CleverRaven/Cataclysm-DDA/pull/83859))
 * fix the sleep menu by resetting the uilist sharedptr ([#83856](https://github.com/CleverRaven/Cataclysm-DDA/pull/83856))
 * Distribute chelators to mutagen kits ([#83860](https://github.com/CleverRaven/Cataclysm-DDA/pull/83860))
-* [Bombastic Perks] Add Artifact Resonance perks ([#83844](https://github.com/CleverRaven/Cataclysm-DDA/pull/83844))
