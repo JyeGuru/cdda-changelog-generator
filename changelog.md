@@ -236,7 +236,6 @@
 * [Xedra Evolved] Fix werewolf advancement eoc ([#83888](https://github.com/CleverRaven/Cataclysm-DDA/pull/83888))
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
-* make Alpha Member of Group a post thresh mutation ([#83858](https://github.com/CleverRaven/Cataclysm-DDA/pull/83858))
 * Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
 * Fixes to work pants and coveralls ([#83859](https://github.com/CleverRaven/Cataclysm-DDA/pull/83859))
 * Distribute chelators to mutagen kits ([#83860](https://github.com/CleverRaven/Cataclysm-DDA/pull/83860))
