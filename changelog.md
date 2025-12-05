@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-05-0300 ([c71edfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0300))
+
+* [MoM] Remove onfire from feral Fountain of Flames ([#84038](https://github.com/CleverRaven/Cataclysm-DDA/pull/84038))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-05-0046 ([bda4b3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0046))
 
 * Added recipe to reverse the disassembly of the Army helmet ([#84023](https://github.com/CleverRaven/Cataclysm-DDA/pull/84023))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-11-27-1112 ([af1cc76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-1112))
 
 * Fix mistake in steel ram requirements field for installation and removal ([#83930](https://github.com/CleverRaven/Cataclysm-DDA/pull/83930))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-27-0903 ([fe7e2db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-0903))
-
 * Fix basic typos in code and comments ([#83903](https://github.com/CleverRaven/Cataclysm-DDA/pull/83903))
 * Fixing heatpack requiring appliances or fire ([#83897](https://github.com/CleverRaven/Cataclysm-DDA/pull/83897))
 * Make Yrax Golden Monolith no longer teaches melee when hit and make their defence work ([#83947](https://github.com/CleverRaven/Cataclysm-DDA/pull/83947))
@@ -233,8 +234,6 @@
 * [Xedra Evolved] Fix werewolf advancement eoc ([#83888](https://github.com/CleverRaven/Cataclysm-DDA/pull/83888))
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
-* Multi-activity overhaul, part 2: split up generic_multi_activity_locations() ([#83849](https://github.com/CleverRaven/Cataclysm-DDA/pull/83849))
-* Update pot_diff.py ([#83847](https://github.com/CleverRaven/Cataclysm-DDA/pull/83847))
 * make Alpha Member of Group a post thresh mutation ([#83858](https://github.com/CleverRaven/Cataclysm-DDA/pull/83858))
 * "Current mission" --> "Current objective" ([#83852](https://github.com/CleverRaven/Cataclysm-DDA/pull/83852))
 * Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))

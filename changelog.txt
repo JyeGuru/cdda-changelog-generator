@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-05-0300 (c71edfd)
+* [MoM] Remove onfire from feral Fountain of Flames (#84038)
+
 Cataclysm-DDA experimental build 2025-12-05-0046 (bda4b3c)
 * Added recipe to reverse the disassembly of the Army helmet (#84023)
 * Give the occupied lumberyard some more chainlink gates (#84041)
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-11-27-1313 (62a57e8)
 
 Cataclysm-DDA experimental build 2025-11-27-1112 (af1cc76)
 * Fix mistake in steel ram requirements field for installation and removal (#83930)
-
-Cataclysm-DDA experimental build 2025-11-27-0903 (fe7e2db)
 * Fix basic typos in code and comments (#83903)
 * Fixing heatpack requiring appliances or fire (#83897)
 * Make Yrax Golden Monolith no longer teaches melee when hit and make their defence work (#83947)
@@ -143,8 +144,6 @@ Cataclysm-DDA experimental build 2025-11-27-0903 (fe7e2db)
 * [Xedra Evolved] Fix werewolf advancement eoc (#83888)
 * Heating items now changes temperature, properly resets temp flags (#83892)
 * [XEDRA Evolved] Blind the Sun. (#83876)
-* Multi-activity overhaul, part 2: split up generic_multi_activity_locations() (#83849)
-* Update pot_diff.py (#83847)
 * make Alpha Member of Group a post thresh mutation (#83858)
 * "Current mission" --> "Current objective" (#83852)
 * Fix tainted human blood being unanalyzable (#83862)
