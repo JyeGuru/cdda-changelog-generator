@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-05-0421 ([8a85060](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0421))
+
+* Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-05-0300 ([c71edfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0300))
 
 * [MoM] Remove onfire from feral Fountain of Flames ([#84038](https://github.com/CleverRaven/Cataclysm-DDA/pull/84038))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-11-27-1313 ([62a57e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-1313))
 
 * Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-27-1112 ([af1cc76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-1112))
-
 * Fix mistake in steel ram requirements field for installation and removal ([#83930](https://github.com/CleverRaven/Cataclysm-DDA/pull/83930))
 * Fix basic typos in code and comments ([#83903](https://github.com/CleverRaven/Cataclysm-DDA/pull/83903))
 * Fixing heatpack requiring appliances or fire ([#83897](https://github.com/CleverRaven/Cataclysm-DDA/pull/83897))
@@ -235,7 +236,6 @@
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
 * [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
 * make Alpha Member of Group a post thresh mutation ([#83858](https://github.com/CleverRaven/Cataclysm-DDA/pull/83858))
-* "Current mission" --> "Current objective" ([#83852](https://github.com/CleverRaven/Cataclysm-DDA/pull/83852))
 * Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
 * Fixes to work pants and coveralls ([#83859](https://github.com/CleverRaven/Cataclysm-DDA/pull/83859))
 * fix the sleep menu by resetting the uilist sharedptr ([#83856](https://github.com/CleverRaven/Cataclysm-DDA/pull/83856))
