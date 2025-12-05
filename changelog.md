@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-05-1225 ([c964ff4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-1225))
+
+* Add a supermarket ([#84017](https://github.com/CleverRaven/Cataclysm-DDA/pull/84017))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-05-0421 ([8a85060](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0421))
 
 * Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-11-28-0412 ([f3e04bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-28-0412))
 
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-27-1313 ([62a57e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-27-1313))
-
 * Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
 * Fix mistake in steel ram requirements field for installation and removal ([#83930](https://github.com/CleverRaven/Cataclysm-DDA/pull/83930))
 * Fix basic typos in code and comments ([#83903](https://github.com/CleverRaven/Cataclysm-DDA/pull/83903))
@@ -238,5 +239,4 @@
 * make Alpha Member of Group a post thresh mutation ([#83858](https://github.com/CleverRaven/Cataclysm-DDA/pull/83858))
 * Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
 * Fixes to work pants and coveralls ([#83859](https://github.com/CleverRaven/Cataclysm-DDA/pull/83859))
-* fix the sleep menu by resetting the uilist sharedptr ([#83856](https://github.com/CleverRaven/Cataclysm-DDA/pull/83856))
 * Distribute chelators to mutagen kits ([#83860](https://github.com/CleverRaven/Cataclysm-DDA/pull/83860))
