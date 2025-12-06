@@ -1,3 +1,21 @@
+* [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
+* Solar panel appliances don't give infinite nuts and bolts on take down ([#84032](https://github.com/CleverRaven/Cataclysm-DDA/pull/84032))
+* [MoM] Extended Channeling rework ([#84055](https://github.com/CleverRaven/Cataclysm-DDA/pull/84055))
+* Fix some mutation descriptions to not reference "maintaining" skills ([#84039](https://github.com/CleverRaven/Cataclysm-DDA/pull/84039))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-06-0326 ([7923562](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-0326))
+
+* Move ACT_FISH handler to fish_activity_actor ([#84044](https://github.com/CleverRaven/Cataclysm-DDA/pull/84044))
+* [alt-map-key] README update ([#84065](https://github.com/CleverRaven/Cataclysm-DDA/pull/84065))
+* [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma ([#84067](https://github.com/CleverRaven/Cataclysm-DDA/pull/84067))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-06-0243 ([07ae19f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-0243))
+
+* [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
 
 ---
 
@@ -139,12 +157,6 @@
 #### Cataclysm-DDA experimental build 2025-11-30-1610 ([46bce22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-1610))
 
 * Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-30-0800 ([b5604c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-0800))
-
-* Aftershock: Removed active in favor of SPAWN_ACTIVE ([#83879](https://github.com/CleverRaven/Cataclysm-DDA/pull/83879))
 * Record a snapshot of external options for save archive ([#83954](https://github.com/CleverRaven/Cataclysm-DDA/pull/83954))
 * Add `lab_notes` terminals to microlabs ([#83987](https://github.com/CleverRaven/Cataclysm-DDA/pull/83987))
 * Bigger bulging beast brutes ([#83986](https://github.com/CleverRaven/Cataclysm-DDA/pull/83986))
@@ -157,12 +169,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-11-29-2048 ([1e660bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-2048))
-
-* Removed redundant active transformation indication (2/2?) ([#83867](https://github.com/CleverRaven/Cataclysm-DDA/pull/83867))
-
----
-
 #### Cataclysm-DDA experimental build 2025-11-29-2007 ([612f2c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-2007))
 
 * Replace custom EOCs with standard monster placement ([#83981](https://github.com/CleverRaven/Cataclysm-DDA/pull/83981))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-11-29-1708 ([9afa12b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-1708))
 
 * Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-11-29-0422 ([611d0a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-11-29-0422))
-
 * Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
 
 ---
@@ -190,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-11-29-0418 ([45707a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-0418))
 
 * [Sky Island] Bunker Climate Control ([#83959](https://github.com/CleverRaven/Cataclysm-DDA/pull/83959))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-28-2355 ([a3505d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-28-2355))
-
 * Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
 * Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
@@ -229,13 +225,7 @@
 * [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
 * Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
-* Fixing various UI issues ([#83877](https://github.com/CleverRaven/Cataclysm-DDA/pull/83877))
 * Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
-* [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#83866](https://github.com/CleverRaven/Cataclysm-DDA/pull/83866))
 * [MoM] Concentrating on powers reduces contemplation XP ([#83890](https://github.com/CleverRaven/Cataclysm-DDA/pull/83890))
 * [MoM] The electrokinetic power Short Circuit works through walls ([#83889](https://github.com/CleverRaven/Cataclysm-DDA/pull/83889))
-* [Xedra Evolved] Fix werewolf advancement eoc ([#83888](https://github.com/CleverRaven/Cataclysm-DDA/pull/83888))
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
-* [XEDRA Evolved] Blind the Sun. ([#83876](https://github.com/CleverRaven/Cataclysm-DDA/pull/83876))
-* Fix tainted human blood being unanalyzable ([#83862](https://github.com/CleverRaven/Cataclysm-DDA/pull/83862))
-* Distribute chelators to mutagen kits ([#83860](https://github.com/CleverRaven/Cataclysm-DDA/pull/83860))

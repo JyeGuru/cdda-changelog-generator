@@ -1,3 +1,15 @@
+* [alt-map-key] Add supermarket (#84062)
+* Solar panel appliances don't give infinite nuts and bolts on take down (#84032)
+* [MoM] Extended Channeling rework (#84055)
+* Fix some mutation descriptions to not reference "maintaining" skills (#84039)
+
+Cataclysm-DDA experimental build 2025-12-06-0326 (7923562)
+* Move ACT_FISH handler to fish_activity_actor (#84044)
+* [alt-map-key] README update (#84065)
+* [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma (#84067)
+
+Cataclysm-DDA experimental build 2025-12-06-0243 (07ae19f)
+* [Magiclysm] Elves have a physiological need to spend time in the wilderness (#84068)
 
 Cataclysm-DDA experimental build 2025-12-05-2122 (e949eb2)
 * Don't double move when vehicle traverses ramps (#84054)
@@ -76,9 +88,6 @@ Cataclysm-DDA experimental build 2025-11-30-2316 (6887b23)
 
 Cataclysm-DDA experimental build 2025-11-30-1610 (46bce22)
 * Removed c4 iuse action in favor of extended transformation logic (#83995)
-
-Cataclysm-DDA experimental build 2025-11-30-0800 (b5604c6)
-* Aftershock: Removed active in favor of SPAWN_ACTIVE (#83879)
 * Record a snapshot of external options for save archive (#83954)
 * Add `lab_notes` terminals to microlabs (#83987)
 * Bigger bulging beast brutes (#83986)
@@ -86,16 +95,11 @@ Cataclysm-DDA experimental build 2025-11-30-0800 (b5604c6)
 Cataclysm-DDA experimental build 2025-11-30-0714 (fce043d)
 * Move expensive optional function calls behind a cheap test. (#83989)
 
-Cataclysm-DDA experimental build 2025-11-29-2048 (1e660bb)
-* Removed redundant active transformation indication (2/2?) (#83867)
-
 Cataclysm-DDA experimental build 2025-11-29-2007 (612f2c2)
 * Replace custom EOCs with standard monster placement (#83981)
 
 Cataclysm-DDA experimental build 2025-11-29-1708 (9afa12b)
 * Bugfixes: Make the rivers flow again (in winter) (#83974)
-
-Cataclysm-DDA 0.I release candidate 2025-11-29-0422 (611d0a1)
 * Fix crash for unset optional direction in mission (#83969)
 
 Cataclysm-DDA experimental build 2025-11-29-0529 (a698bb1)
@@ -103,8 +107,6 @@ Cataclysm-DDA experimental build 2025-11-29-0529 (a698bb1)
 
 Cataclysm-DDA experimental build 2025-11-29-0418 (45707a8)
 * [Sky Island] Bunker Climate Control (#83959)
-
-Cataclysm-DDA experimental build 2025-11-28-2355 (a3505d3)
 * Fix Article Omission Mistakes (#83965)
 * Actually increase brute weight/volume (#83964)
 * Make rural gas station use parameterized walls (#83955)
@@ -139,13 +141,7 @@ Cataclysm-DDA experimental build 2025-11-28-2355 (a3505d3)
 * [MoM] Neural Spasms works through walls (and fences) (#83920)
 * Cigars last longer (#83909)
 * Heating items now changes temperature, properly resets temp flags (#83898)
-* Fixing various UI issues (#83877)
 * Don't use inactive custom zones (#83893)
-* [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#83866)
 * [MoM] Concentrating on powers reduces contemplation XP (#83890)
 * [MoM] The electrokinetic power Short Circuit works through walls (#83889)
-* [Xedra Evolved] Fix werewolf advancement eoc (#83888)
 * Heating items now changes temperature, properly resets temp flags (#83892)
-* [XEDRA Evolved] Blind the Sun. (#83876)
-* Fix tainted human blood being unanalyzable (#83862)
-* Distribute chelators to mutagen kits (#83860)
