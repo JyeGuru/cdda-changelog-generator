@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-06-1745 (3dc3e1f)
+* fix mod item name inheritance (#84056)
+
 Cataclysm-DDA experimental build 2025-12-06-0406 (7dde6c4)
 * [alt-map-key] Add supermarket (#84062)
 * Solar panel appliances don't give infinite nuts and bolts on take down (#84032)
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-11-29-2007 (612f2c2)
 Cataclysm-DDA experimental build 2025-11-29-1708 (9afa12b)
 * Bugfixes: Make the rivers flow again (in winter) (#83974)
 * Fix crash for unset optional direction in mission (#83969)
-
-Cataclysm-DDA experimental build 2025-11-29-0529 (a698bb1)
 * fix smartphone advanced recovery (#83968)
 * [Sky Island] Bunker Climate Control (#83959)
 * Fix Article Omission Mistakes (#83965)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2025-11-29-0529 (a698bb1)
 * Cigars last longer (#83909)
 * Heating items now changes temperature, properly resets temp flags (#83898)
 * Don't use inactive custom zones (#83893)
-* [MoM] Concentrating on powers reduces contemplation XP (#83890)
 * Heating items now changes temperature, properly resets temp flags (#83892)

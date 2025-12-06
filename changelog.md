@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-06-1745 ([3dc3e1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-1745))
+
+* fix mod item name inheritance ([#84056](https://github.com/CleverRaven/Cataclysm-DDA/pull/84056))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-06-0406 ([7dde6c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-0406))
 
 * [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
@@ -184,11 +190,6 @@
 
 * Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
 * Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-29-0529 ([a698bb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-0529))
-
 * fix smartphone advanced recovery ([#83968](https://github.com/CleverRaven/Cataclysm-DDA/pull/83968))
 * [Sky Island] Bunker Climate Control ([#83959](https://github.com/CleverRaven/Cataclysm-DDA/pull/83959))
 * Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
@@ -226,5 +227,4 @@
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
 * Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
 * Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
-* [MoM] Concentrating on powers reduces contemplation XP ([#83890](https://github.com/CleverRaven/Cataclysm-DDA/pull/83890))
 * Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
