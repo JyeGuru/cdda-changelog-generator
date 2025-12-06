@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-12-06-0406 (7dde6c4)
 * [alt-map-key] Add supermarket (#84062)
 * Solar panel appliances don't give infinite nuts and bolts on take down (#84032)
 * [MoM] Extended Channeling rework (#84055)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2025-11-29-1708 (9afa12b)
 
 Cataclysm-DDA experimental build 2025-11-29-0529 (a698bb1)
 * fix smartphone advanced recovery (#83968)
-
-Cataclysm-DDA experimental build 2025-11-29-0418 (45707a8)
 * [Sky Island] Bunker Climate Control (#83959)
 * Fix Article Omission Mistakes (#83965)
 * Actually increase brute weight/volume (#83964)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-06-0406 ([7dde6c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-0406))
+
 * [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
 * Solar panel appliances don't give infinite nuts and bolts on take down ([#84032](https://github.com/CleverRaven/Cataclysm-DDA/pull/84032))
 * [MoM] Extended Channeling rework ([#84055](https://github.com/CleverRaven/Cataclysm-DDA/pull/84055))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-11-29-0529 ([a698bb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-0529))
 
 * fix smartphone advanced recovery ([#83968](https://github.com/CleverRaven/Cataclysm-DDA/pull/83968))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-29-0418 ([45707a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-0418))
-
 * [Sky Island] Bunker Climate Control ([#83959](https://github.com/CleverRaven/Cataclysm-DDA/pull/83959))
 * Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
