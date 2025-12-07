@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-12-07-0536 ([34231fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-07-0536))
+
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
 
 ---
@@ -190,11 +195,6 @@
 * Record a snapshot of external options for save archive ([#83954](https://github.com/CleverRaven/Cataclysm-DDA/pull/83954))
 * Add `lab_notes` terminals to microlabs ([#83987](https://github.com/CleverRaven/Cataclysm-DDA/pull/83987))
 * Bigger bulging beast brutes ([#83986](https://github.com/CleverRaven/Cataclysm-DDA/pull/83986))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-30-0714 ([fce043d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-0714))
-
 * Move expensive optional function calls behind a cheap test. ([#83989](https://github.com/CleverRaven/Cataclysm-DDA/pull/83989))
 * Replace custom EOCs with standard monster placement ([#83981](https://github.com/CleverRaven/Cataclysm-DDA/pull/83981))
 * Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))

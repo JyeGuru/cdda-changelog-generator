@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.I release candidate 2025-12-07-0536 (34231fe)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#84052)
 
 Cataclysm-DDA 0.I release candidate 2025-12-07-0410 (20cfc7e)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2025-11-30-1610 (46bce22)
 * Record a snapshot of external options for save archive (#83954)
 * Add `lab_notes` terminals to microlabs (#83987)
 * Bigger bulging beast brutes (#83986)
-
-Cataclysm-DDA experimental build 2025-11-30-0714 (fce043d)
 * Move expensive optional function calls behind a cheap test. (#83989)
 * Replace custom EOCs with standard monster placement (#83981)
 * Bugfixes: Make the rivers flow again (in winter) (#83974)
