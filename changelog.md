@@ -1,3 +1,10 @@
+* Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-07-0400 ([1510f00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0400))
+
+* fix blood analysis ([#84080](https://github.com/CleverRaven/Cataclysm-DDA/pull/84080))
 
 ---
 
@@ -126,12 +133,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-12-01-1540 ([d2346a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-1540))
-
-* Insulation works on map items, is now a pocket property. ([#83891](https://github.com/CleverRaven/Cataclysm-DDA/pull/83891))
-
----
-
 #### Cataclysm-DDA experimental build 2025-12-01-0533 ([183ba2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-0533))
 
 * Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
@@ -183,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-11-29-2007 ([612f2c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-2007))
 
 * Replace custom EOCs with standard monster placement ([#83981](https://github.com/CleverRaven/Cataclysm-DDA/pull/83981))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-29-1708 ([9afa12b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-1708))
-
 * Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
 * Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
 * fix smartphone advanced recovery ([#83968](https://github.com/CleverRaven/Cataclysm-DDA/pull/83968))
@@ -227,4 +223,3 @@
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
 * Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
 * Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
-* Heating items now changes temperature, properly resets temp flags ([#83892](https://github.com/CleverRaven/Cataclysm-DDA/pull/83892))
