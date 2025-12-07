@@ -1,3 +1,15 @@
+* Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-12-07-2152 ([613cea4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-07-2152))
+
+* [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-07-2152 ([a0fcd6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-2152))
+
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
 
 ---
@@ -181,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-12-01-0533 ([183ba2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-0533))
 
 * Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-12-01-0424 ([617797e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-01-0424))
-
 * Bugfixes: Make the rivers flow again (in winter) ([#83984](https://github.com/CleverRaven/Cataclysm-DDA/pull/83984))
 * Multi-activity overhaul part 4: split up generic_multi_activity_do() ([#83976](https://github.com/CleverRaven/Cataclysm-DDA/pull/83976))
 
@@ -223,8 +230,6 @@
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
-* [Sky Island] Allow choosing different lab types on a lab drop ([#83921](https://github.com/CleverRaven/Cataclysm-DDA/pull/83921))
 * [MoM] Hacking Interface affected by Intelligence/Nether Attunement ([#83927](https://github.com/CleverRaven/Cataclysm-DDA/pull/83927))
 * [alt-map-key] Vision level changes ([#83926](https://github.com/CleverRaven/Cataclysm-DDA/pull/83926))
 * [alt-map-key] Tile Updates ([#83925](https://github.com/CleverRaven/Cataclysm-DDA/pull/83925))
-* [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
