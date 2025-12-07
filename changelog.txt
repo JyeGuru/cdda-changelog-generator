@@ -2,6 +2,8 @@
 
 Cataclysm-DDA 0.I release candidate 2025-12-07-0410 (20cfc7e)
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run (#84053)
+
+Cataclysm-DDA experimental build 2025-12-07-0455 (62f3c33)
 * Introduced damage failure risk and message on item transformation use actions (#84034)
 * Hand Truck for moving furniture indoors (#84003)
 * More fixes to liquids spawning without containers (#84035)
