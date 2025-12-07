@@ -1,3 +1,16 @@
+* [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-12-07-0410 ([20cfc7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-07-0410))
+
+* [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
+* Introduced damage failure risk and message on item transformation use actions ([#84034](https://github.com/CleverRaven/Cataclysm-DDA/pull/84034))
+* Hand Truck for moving furniture indoors ([#84003](https://github.com/CleverRaven/Cataclysm-DDA/pull/84003))
+* More fixes to liquids spawning without containers ([#84035](https://github.com/CleverRaven/Cataclysm-DDA/pull/84035))
+* The 40mm ammo belt scales its volume according to the grenades inside of it ([#84031](https://github.com/CleverRaven/Cataclysm-DDA/pull/84031))
+* MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
+* [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84066](https://github.com/CleverRaven/Cataclysm-DDA/pull/84066))
 * Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))
 
 ---
@@ -178,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-11-30-0714 ([fce043d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-0714))
 
 * Move expensive optional function calls behind a cheap test. ([#83989](https://github.com/CleverRaven/Cataclysm-DDA/pull/83989))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-29-2007 ([612f2c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-29-2007))
-
 * Replace custom EOCs with standard monster placement ([#83981](https://github.com/CleverRaven/Cataclysm-DDA/pull/83981))
 * Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
 * Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
@@ -192,17 +200,13 @@
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
 * Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
 * Fix mistake in steel ram requirements field for installation and removal ([#83930](https://github.com/CleverRaven/Cataclysm-DDA/pull/83930))
-* Fix basic typos in code and comments ([#83903](https://github.com/CleverRaven/Cataclysm-DDA/pull/83903))
-* Fixing heatpack requiring appliances or fire ([#83897](https://github.com/CleverRaven/Cataclysm-DDA/pull/83897))
 * Make Yrax Golden Monolith no longer teaches melee when hit and make their defence work ([#83947](https://github.com/CleverRaven/Cataclysm-DDA/pull/83947))
 * [Sky Island] Revert 82597 ([#83946](https://github.com/CleverRaven/Cataclysm-DDA/pull/83946))
 * [MoM] Show power levels in contemplation recipes ([#83934](https://github.com/CleverRaven/Cataclysm-DDA/pull/83934))
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
-* Replaced transform active fields with SPAWN_ACTIVE flag ([#83894](https://github.com/CleverRaven/Cataclysm-DDA/pull/83894))
 * Implement u_spell_level dynamic tag ([#83932](https://github.com/CleverRaven/Cataclysm-DDA/pull/83932))
 * Add diazepam addiciton (hobby) ([#83936](https://github.com/CleverRaven/Cataclysm-DDA/pull/83936))
-* [Sky Island] Mission/Upgrade Fixes ([#83902](https://github.com/CleverRaven/Cataclysm-DDA/pull/83902))
 * Multi-activity overhaul, part 3: split up generic_multi_activity_check_requirement() ([#83922](https://github.com/CleverRaven/Cataclysm-DDA/pull/83922))
 * [Sky Island] Add Earthbound Pill recipe ([#83935](https://github.com/CleverRaven/Cataclysm-DDA/pull/83935))
 * Fix the Zuccheto migration ([#83910](https://github.com/CleverRaven/Cataclysm-DDA/pull/83910))
@@ -210,10 +214,8 @@
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
-* [Mind over Matter] Removed active transformation field in favor of SPAWN_ACTIVE flag ([#83908](https://github.com/CleverRaven/Cataclysm-DDA/pull/83908))
 * Fix milk in milbase not spawning in containers ([#83911](https://github.com/CleverRaven/Cataclysm-DDA/pull/83911))
 * Add missing else block to zone_sorting::populate_items() ([#83916](https://github.com/CleverRaven/Cataclysm-DDA/pull/83916))
-* [XEDRA Evolved] Arm the Bannermen ([#83901](https://github.com/CleverRaven/Cataclysm-DDA/pull/83901))
 * Fix the "batons" crafting nest not having any recipes in it ([#83918](https://github.com/CleverRaven/Cataclysm-DDA/pull/83918))
 * [Sky Island] Allow choosing different lab types on a lab drop ([#83921](https://github.com/CleverRaven/Cataclysm-DDA/pull/83921))
 * [MoM] Hacking Interface affected by Intelligence/Nether Attunement ([#83927](https://github.com/CleverRaven/Cataclysm-DDA/pull/83927))
@@ -221,5 +223,3 @@
 * [alt-map-key] Tile Updates ([#83925](https://github.com/CleverRaven/Cataclysm-DDA/pull/83925))
 * [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
 * Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
-* Heating items now changes temperature, properly resets temp flags ([#83898](https://github.com/CleverRaven/Cataclysm-DDA/pull/83898))
-* Don't use inactive custom zones ([#83893](https://github.com/CleverRaven/Cataclysm-DDA/pull/83893))
