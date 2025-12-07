@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-07-1421 ([624827b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-1421))
+
+* Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-07-0718 ([42a4a55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0718))
 
 * Add simple single sided razor tool  ([#84009](https://github.com/CleverRaven/Cataclysm-DDA/pull/84009))
@@ -189,11 +195,6 @@
 * [MoM/XE] The Uncanny Dodge trait is not valid ([#84000](https://github.com/CleverRaven/Cataclysm-DDA/pull/84000))
 * fix crafting menu popup crash ([#83975](https://github.com/CleverRaven/Cataclysm-DDA/pull/83975))
 * Remove the Typos in the Spearfisher's Description ([#83994](https://github.com/CleverRaven/Cataclysm-DDA/pull/83994))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-30-2316 ([6887b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-2316))
-
 * Fix NPC error when auto performing loot sorting job at basecamp ([#83980](https://github.com/CleverRaven/Cataclysm-DDA/pull/83980))
 * Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
 * Record a snapshot of external options for save archive ([#83954](https://github.com/CleverRaven/Cataclysm-DDA/pull/83954))
@@ -221,7 +222,6 @@
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
-* Add missing else block to zone_sorting::populate_items() ([#83916](https://github.com/CleverRaven/Cataclysm-DDA/pull/83916))
 * Fix the "batons" crafting nest not having any recipes in it ([#83918](https://github.com/CleverRaven/Cataclysm-DDA/pull/83918))
 * [Sky Island] Allow choosing different lab types on a lab drop ([#83921](https://github.com/CleverRaven/Cataclysm-DDA/pull/83921))
 * [MoM] Hacking Interface affected by Intelligence/Nether Attunement ([#83927](https://github.com/CleverRaven/Cataclysm-DDA/pull/83927))
