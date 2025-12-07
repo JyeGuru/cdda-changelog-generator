@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-07-0718 ([42a4a55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0718))
+
+* Add simple single sided razor tool  ([#84009](https://github.com/CleverRaven/Cataclysm-DDA/pull/84009))
+* Add proper beer six packs to the game, along with six pack rings ([#84036](https://github.com/CleverRaven/Cataclysm-DDA/pull/84036))
+* Fix masochist morale inconsistency ([#84048](https://github.com/CleverRaven/Cataclysm-DDA/pull/84048))
+* [MoM] Contemplation phrasing/typos fix ([#83988](https://github.com/CleverRaven/Cataclysm-DDA/pull/83988))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-07-0632 ([1ecbf78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0632))
 
 * Fix ACT_BLEED Deserialization ([#84016](https://github.com/CleverRaven/Cataclysm-DDA/pull/84016))
@@ -178,12 +187,6 @@
 #### Cataclysm-DDA experimental build 2025-12-01-0423 ([1a2609a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-0423))
 
 * [MoM/XE] The Uncanny Dodge trait is not valid ([#84000](https://github.com/CleverRaven/Cataclysm-DDA/pull/84000))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-30-2354 ([977c86c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-2354))
-
-* Toastems audit ([#83913](https://github.com/CleverRaven/Cataclysm-DDA/pull/83913))
 * fix crafting menu popup crash ([#83975](https://github.com/CleverRaven/Cataclysm-DDA/pull/83975))
 * Remove the Typos in the Spearfisher's Description ([#83994](https://github.com/CleverRaven/Cataclysm-DDA/pull/83994))
 
@@ -192,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-11-30-2316 ([6887b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-2316))
 
 * Fix NPC error when auto performing loot sorting job at basecamp ([#83980](https://github.com/CleverRaven/Cataclysm-DDA/pull/83980))
-
----
-
-#### Cataclysm-DDA experimental build 2025-11-30-1610 ([46bce22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-11-30-1610))
-
 * Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
 * Record a snapshot of external options for save archive ([#83954](https://github.com/CleverRaven/Cataclysm-DDA/pull/83954))
 * Add `lab_notes` terminals to microlabs ([#83987](https://github.com/CleverRaven/Cataclysm-DDA/pull/83987))
@@ -220,12 +218,9 @@
 * Add diazepam addiciton (hobby) ([#83936](https://github.com/CleverRaven/Cataclysm-DDA/pull/83936))
 * Multi-activity overhaul, part 3: split up generic_multi_activity_check_requirement() ([#83922](https://github.com/CleverRaven/Cataclysm-DDA/pull/83922))
 * [Sky Island] Add Earthbound Pill recipe ([#83935](https://github.com/CleverRaven/Cataclysm-DDA/pull/83935))
-* Fix the Zuccheto migration ([#83910](https://github.com/CleverRaven/Cataclysm-DDA/pull/83910))
-* Martial Mastery Stat Widget ([#83912](https://github.com/CleverRaven/Cataclysm-DDA/pull/83912))
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
-* Fix milk in milbase not spawning in containers ([#83911](https://github.com/CleverRaven/Cataclysm-DDA/pull/83911))
 * Add missing else block to zone_sorting::populate_items() ([#83916](https://github.com/CleverRaven/Cataclysm-DDA/pull/83916))
 * Fix the "batons" crafting nest not having any recipes in it ([#83918](https://github.com/CleverRaven/Cataclysm-DDA/pull/83918))
 * [Sky Island] Allow choosing different lab types on a lab drop ([#83921](https://github.com/CleverRaven/Cataclysm-DDA/pull/83921))

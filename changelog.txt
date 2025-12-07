@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2025-12-07-0718 (42a4a55)
+* Add simple single sided razor tool  (#84009)
+* Add proper beer six packs to the game, along with six pack rings (#84036)
+* Fix masochist morale inconsistency (#84048)
+* [MoM] Contemplation phrasing/typos fix (#83988)
+
 Cataclysm-DDA experimental build 2025-12-07-0632 (1ecbf78)
 * Fix ACT_BLEED Deserialization (#84016)
 
@@ -100,16 +106,11 @@ Cataclysm-DDA 0.I release candidate 2025-12-01-0424 (617797e)
 
 Cataclysm-DDA experimental build 2025-12-01-0423 (1a2609a)
 * [MoM/XE] The Uncanny Dodge trait is not valid (#84000)
-
-Cataclysm-DDA experimental build 2025-11-30-2354 (977c86c)
-* Toastems audit (#83913)
 * fix crafting menu popup crash (#83975)
 * Remove the Typos in the Spearfisher's Description (#83994)
 
 Cataclysm-DDA experimental build 2025-11-30-2316 (6887b23)
 * Fix NPC error when auto performing loot sorting job at basecamp (#83980)
-
-Cataclysm-DDA experimental build 2025-11-30-1610 (46bce22)
 * Removed c4 iuse action in favor of extended transformation logic (#83995)
 * Record a snapshot of external options for save archive (#83954)
 * Add `lab_notes` terminals to microlabs (#83987)
@@ -133,12 +134,9 @@ Cataclysm-DDA experimental build 2025-11-30-1610 (46bce22)
 * Add diazepam addiciton (hobby) (#83936)
 * Multi-activity overhaul, part 3: split up generic_multi_activity_check_requirement() (#83922)
 * [Sky Island] Add Earthbound Pill recipe (#83935)
-* Fix the Zuccheto migration (#83910)
-* Martial Mastery Stat Widget (#83912)
 * Change rural gas station's walls to regular walls from log walls (#83940)
 * Yeet the (portable metal) brick kiln (#83937)
 * [MoM] More hacking interface updates (#83933)
-* Fix milk in milbase not spawning in containers (#83911)
 * Add missing else block to zone_sorting::populate_items() (#83916)
 * Fix the "batons" crafting nest not having any recipes in it (#83918)
 * [Sky Island] Allow choosing different lab types on a lab drop (#83921)
