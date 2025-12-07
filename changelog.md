@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-07-0632 ([1ecbf78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0632))
+
+* Fix ACT_BLEED Deserialization ([#84016](https://github.com/CleverRaven/Cataclysm-DDA/pull/84016))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-12-07-0536 ([34231fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-07-0536))
 
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
@@ -227,4 +233,3 @@
 * [alt-map-key] Vision level changes ([#83926](https://github.com/CleverRaven/Cataclysm-DDA/pull/83926))
 * [alt-map-key] Tile Updates ([#83925](https://github.com/CleverRaven/Cataclysm-DDA/pull/83925))
 * [MoM] Neural Spasms works through walls (and fences) ([#83920](https://github.com/CleverRaven/Cataclysm-DDA/pull/83920))
-* Cigars last longer ([#83909](https://github.com/CleverRaven/Cataclysm-DDA/pull/83909))
