@@ -225,7 +225,6 @@
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
 * Implement u_spell_level dynamic tag ([#83932](https://github.com/CleverRaven/Cataclysm-DDA/pull/83932))
 * Add diazepam addiciton (hobby) ([#83936](https://github.com/CleverRaven/Cataclysm-DDA/pull/83936))
-* Multi-activity overhaul, part 3: split up generic_multi_activity_check_requirement() ([#83922](https://github.com/CleverRaven/Cataclysm-DDA/pull/83922))
 * [Sky Island] Add Earthbound Pill recipe ([#83935](https://github.com/CleverRaven/Cataclysm-DDA/pull/83935))
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
