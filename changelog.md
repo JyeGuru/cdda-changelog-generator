@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-08-0823 ([b6fd801](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-0823))
+
+* [ Sky Island, Xedra Evolved ] Rarities and B-sides ([#84072](https://github.com/CleverRaven/Cataclysm-DDA/pull/84072))
 * Upgrade vcpkg baseline ([#84090](https://github.com/CleverRaven/Cataclysm-DDA/pull/84090))
 
 ---
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2025-12-02-0504 ([ab4de61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-0504))
 
 * Weekly Changelog 2025-11-24 to 2025-12-01 ([#84001](https://github.com/CleverRaven/Cataclysm-DDA/pull/84001))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-01-1641 ([2946645](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-1641))
-
 * Multiple simultaneous and devastating deep nerfs to fire vs monsters ([#83963](https://github.com/CleverRaven/Cataclysm-DDA/pull/83963))
 * Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
 * Bugfixes: Make the rivers flow again (in winter) ([#83984](https://github.com/CleverRaven/Cataclysm-DDA/pull/83984))
