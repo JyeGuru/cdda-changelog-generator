@@ -1,3 +1,10 @@
+* Talk Topic Typo Fix ([#84071](https://github.com/CleverRaven/Cataclysm-DDA/pull/84071))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-08-1533 ([e34f788](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-1533))
+
+* [ Xedra Evolved ] Time Freeze shouldn't protect from looping wound ([#84076](https://github.com/CleverRaven/Cataclysm-DDA/pull/84076))
 
 ---
 
@@ -185,7 +192,6 @@
 
 * Exclude mutations that should not be visible from translations and some other stuff ([#83961](https://github.com/CleverRaven/Cataclysm-DDA/pull/83961))
 * Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff ([#83972](https://github.com/CleverRaven/Cataclysm-DDA/pull/83972))
-* Remove item transform active in favor of SPAWN_ACTIVE flag (Xedra Evolved, MMA, test) ([#83931](https://github.com/CleverRaven/Cataclysm-DDA/pull/83931))
 * Don't save quickloaded/corrupt gamestates ([#83956](https://github.com/CleverRaven/Cataclysm-DDA/pull/83956))
 * Move highway intersection grid into a generic class ([#83998](https://github.com/CleverRaven/Cataclysm-DDA/pull/83998))
 * Stop turning on *all* the debug mode filters on first open ([#83957](https://github.com/CleverRaven/Cataclysm-DDA/pull/83957))
@@ -194,11 +200,6 @@
 * Replace transformation EOCs with transformation iuse actions ([#84004](https://github.com/CleverRaven/Cataclysm-DDA/pull/84004))
 * Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
 * [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-02-0504 ([ab4de61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-0504))
-
 * Weekly Changelog 2025-11-24 to 2025-12-01 ([#84001](https://github.com/CleverRaven/Cataclysm-DDA/pull/84001))
 * Multiple simultaneous and devastating deep nerfs to fire vs monsters ([#83963](https://github.com/CleverRaven/Cataclysm-DDA/pull/83963))
 * Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
@@ -221,7 +222,6 @@
 * Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
 * Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
-* Fix mistake in steel ram requirements field for installation and removal ([#83930](https://github.com/CleverRaven/Cataclysm-DDA/pull/83930))
 * Make Yrax Golden Monolith no longer teaches melee when hit and make their defence work ([#83947](https://github.com/CleverRaven/Cataclysm-DDA/pull/83947))
 * [Sky Island] Revert 82597 ([#83946](https://github.com/CleverRaven/Cataclysm-DDA/pull/83946))
 * [MoM] Show power levels in contemplation recipes ([#83934](https://github.com/CleverRaven/Cataclysm-DDA/pull/83934))
