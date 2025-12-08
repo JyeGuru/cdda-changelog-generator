@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-08-0105 ([db74d41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-0105))
+
 * [MoM] Remove broken shield belts as separate items ([#84037](https://github.com/CleverRaven/Cataclysm-DDA/pull/84037))
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable ([#84092](https://github.com/CleverRaven/Cataclysm-DDA/pull/84092))
 
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2025-12-01-1641 ([2946645](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-1641))
 
 * Multiple simultaneous and devastating deep nerfs to fire vs monsters ([#83963](https://github.com/CleverRaven/Cataclysm-DDA/pull/83963))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-01-0533 ([183ba2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-01-0533))
-
 * Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
 * Bugfixes: Make the rivers flow again (in winter) ([#83984](https://github.com/CleverRaven/Cataclysm-DDA/pull/83984))
 * Multi-activity overhaul part 4: split up generic_multi_activity_do() ([#83976](https://github.com/CleverRaven/Cataclysm-DDA/pull/83976))
