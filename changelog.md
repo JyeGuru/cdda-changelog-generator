@@ -1,3 +1,4 @@
+* Upgrade vcpkg baseline ([#84090](https://github.com/CleverRaven/Cataclysm-DDA/pull/84090))
 
 ---
 
@@ -231,4 +232,3 @@
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
 * [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
-* [MoM] Hacking Interface affected by Intelligence/Nether Attunement ([#83927](https://github.com/CleverRaven/Cataclysm-DDA/pull/83927))

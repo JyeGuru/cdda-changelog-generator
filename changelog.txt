@@ -1,3 +1,4 @@
+* Upgrade vcpkg baseline (#84090)
 
 Cataclysm-DDA experimental build 2025-12-08-0105 (db74d41)
 * [MoM] Remove broken shield belts as separate items (#84037)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-12-01-1641 (2946645)
 * Change rural gas station's walls to regular walls from log walls (#83940)
 * Yeet the (portable metal) brick kiln (#83937)
 * [MoM] More hacking interface updates (#83933)
-* [MoM] Hacking Interface affected by Intelligence/Nether Attunement (#83927)
