@@ -1,3 +1,5 @@
+* restrict follower sleep spot to the same vehicle when player sleeping in a vehicle ([#84097](https://github.com/CleverRaven/Cataclysm-DDA/pull/84097))
+* [Magiclysm] Add a traditional elf house ([#84099](https://github.com/CleverRaven/Cataclysm-DDA/pull/84099))
 * Talk Topic Typo Fix ([#84071](https://github.com/CleverRaven/Cataclysm-DDA/pull/84071))
 
 ---
@@ -227,9 +229,7 @@
 * [MoM] Show power levels in contemplation recipes ([#83934](https://github.com/CleverRaven/Cataclysm-DDA/pull/83934))
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
-* Implement u_spell_level dynamic tag ([#83932](https://github.com/CleverRaven/Cataclysm-DDA/pull/83932))
 * Add diazepam addiciton (hobby) ([#83936](https://github.com/CleverRaven/Cataclysm-DDA/pull/83936))
 * [Sky Island] Add Earthbound Pill recipe ([#83935](https://github.com/CleverRaven/Cataclysm-DDA/pull/83935))
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
-* [MoM] More hacking interface updates ([#83933](https://github.com/CleverRaven/Cataclysm-DDA/pull/83933))
