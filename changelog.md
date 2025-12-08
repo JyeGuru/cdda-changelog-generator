@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-08-2140 ([a39b0cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-2140))
+
+* Update release vcpkg commit ([#84109](https://github.com/CleverRaven/Cataclysm-DDA/pull/84109))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-08-1620 ([3a81e60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-1620))
 
 * preserve contents when crafting a recipe that upgrades an item ([#84073](https://github.com/CleverRaven/Cataclysm-DDA/pull/84073))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-12-02-1857 ([5dc17f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-1857))
 
 * Fix basic typos in code and comments ([#83979](https://github.com/CleverRaven/Cataclysm-DDA/pull/83979))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-02-1422 ([fb7db84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-1422))
-
 * Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
 * Exclude mutations that should not be visible from translations and some other stuff ([#83961](https://github.com/CleverRaven/Cataclysm-DDA/pull/83961))
 * Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff ([#83972](https://github.com/CleverRaven/Cataclysm-DDA/pull/83972))
@@ -230,6 +231,5 @@
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
 * Add diazepam addiciton (hobby) ([#83936](https://github.com/CleverRaven/Cataclysm-DDA/pull/83936))
-* [Sky Island] Add Earthbound Pill recipe ([#83935](https://github.com/CleverRaven/Cataclysm-DDA/pull/83935))
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
