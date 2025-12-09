@@ -1,3 +1,10 @@
+* RANGE_DODGE no longer applies to spells, can be applied to monsters ([#84113](https://github.com/CleverRaven/Cataclysm-DDA/pull/84113))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-09-0541 ([4d821a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-09-0541))
+
+* [DDotD] Default start is in a cabin, remove evac shelters ([#84117](https://github.com/CleverRaven/Cataclysm-DDA/pull/84117))
 * More fixes to account for vcpkg baseline rev changing ([#84110](https://github.com/CleverRaven/Cataclysm-DDA/pull/84110))
 
 ---
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-12-02-1943 ([d346cae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-1943))
 
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-02-1857 ([5dc17f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-1857))
-
 * Fix basic typos in code and comments ([#83979](https://github.com/CleverRaven/Cataclysm-DDA/pull/83979))
 * Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
 * Exclude mutations that should not be visible from translations and some other stuff ([#83961](https://github.com/CleverRaven/Cataclysm-DDA/pull/83961))
@@ -231,5 +233,3 @@
 * [Sky Island] Revert 82597 ([#83946](https://github.com/CleverRaven/Cataclysm-DDA/pull/83946))
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
-* Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
-* Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
