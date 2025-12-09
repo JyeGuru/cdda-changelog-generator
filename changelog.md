@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-09-0625 ([736b1f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-09-0625))
+
 * [MoM] Add psi flesh-raptors ([#84111](https://github.com/CleverRaven/Cataclysm-DDA/pull/84111))
 * Clear activity_var on pickup ([#84078](https://github.com/CleverRaven/Cataclysm-DDA/pull/84078))
 * RANGE_DODGE no longer applies to spells, can be applied to monsters ([#84113](https://github.com/CleverRaven/Cataclysm-DDA/pull/84113))
@@ -191,11 +196,6 @@
 
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() ([#84010](https://github.com/CleverRaven/Cataclysm-DDA/pull/84010))
 * Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-02-1943 ([d346cae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-02-1943))
-
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
 * Fix basic typos in code and comments ([#83979](https://github.com/CleverRaven/Cataclysm-DDA/pull/83979))
 * Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
