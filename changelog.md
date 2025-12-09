@@ -1,3 +1,4 @@
+* Clear activity_var on pickup ([#84078](https://github.com/CleverRaven/Cataclysm-DDA/pull/84078))
 * RANGE_DODGE no longer applies to spells, can be applied to monsters ([#84113](https://github.com/CleverRaven/Cataclysm-DDA/pull/84113))
 
 ---
