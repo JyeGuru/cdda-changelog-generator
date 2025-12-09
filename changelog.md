@@ -1,3 +1,4 @@
+* More fixes to account for vcpkg baseline rev changing ([#84110](https://github.com/CleverRaven/Cataclysm-DDA/pull/84110))
 
 ---
 
@@ -230,6 +231,5 @@
 * [Sky Island] Revert 82597 ([#83946](https://github.com/CleverRaven/Cataclysm-DDA/pull/83946))
 * Add more-completed survivor bunker variant ([#83945](https://github.com/CleverRaven/Cataclysm-DDA/pull/83945))
 * Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
-* Add diazepam addiciton (hobby) ([#83936](https://github.com/CleverRaven/Cataclysm-DDA/pull/83936))
 * Change rural gas station's walls to regular walls from log walls ([#83940](https://github.com/CleverRaven/Cataclysm-DDA/pull/83940))
 * Yeet the (portable metal) brick kiln ([#83937](https://github.com/CleverRaven/Cataclysm-DDA/pull/83937))
