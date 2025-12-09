@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2025-12-04-2358 (40c01df)
 
 Cataclysm-DDA experimental build 2025-12-03-1419 (f47746d)
 * Martial Mastery no longer deletes mobile sidebar (#84030)
-
-Cataclysm-DDA experimental build 2025-12-02-2028 (8085877)
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() (#84010)
 * Update test_main.cpp (#84019)
 * Removed 'active' field from item transformations (#84015)
