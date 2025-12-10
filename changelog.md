@@ -1,3 +1,10 @@
+* Move ACT_PLANT_SEED handler to activity actor ([#84125](https://github.com/CleverRaven/Cataclysm-DDA/pull/84125))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-10-0215 ([d2fdbb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0215))
+
+* make dry_veggy not dryable ([#84126](https://github.com/CleverRaven/Cataclysm-DDA/pull/84126))
 
 ---
 
@@ -182,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-12-05-0421 ([8a85060](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0421))
 
 * Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-05-0300 ([c71edfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0300))
-
 * [MoM] Remove onfire from feral Fountain of Flames ([#84038](https://github.com/CleverRaven/Cataclysm-DDA/pull/84038))
 * Added recipe to reverse the disassembly of the Army helmet ([#84023](https://github.com/CleverRaven/Cataclysm-DDA/pull/84023))
 * Give the occupied lumberyard some more chainlink gates ([#84041](https://github.com/CleverRaven/Cataclysm-DDA/pull/84041))
@@ -217,7 +219,6 @@
 * Remove the Typos in the Spearfisher's Description ([#83994](https://github.com/CleverRaven/Cataclysm-DDA/pull/83994))
 * Fix NPC error when auto performing loot sorting job at basecamp ([#83980](https://github.com/CleverRaven/Cataclysm-DDA/pull/83980))
 * Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
-* Record a snapshot of external options for save archive ([#83954](https://github.com/CleverRaven/Cataclysm-DDA/pull/83954))
 * Add `lab_notes` terminals to microlabs ([#83987](https://github.com/CleverRaven/Cataclysm-DDA/pull/83987))
 * Bigger bulging beast brutes ([#83986](https://github.com/CleverRaven/Cataclysm-DDA/pull/83986))
 * Move expensive optional function calls behind a cheap test. ([#83989](https://github.com/CleverRaven/Cataclysm-DDA/pull/83989))
@@ -228,4 +229,3 @@
 * [Sky Island] Bunker Climate Control ([#83959](https://github.com/CleverRaven/Cataclysm-DDA/pull/83959))
 * Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
-* Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
