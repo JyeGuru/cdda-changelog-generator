@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2025-12-10-0050 (3cd8c0b)
+* Cut the middleman: Washing Kit (#84094)
+
+Cataclysm-DDA experimental build 2025-12-09-2359 (116ebf5)
+* Rename "large casters" back into wheels (#84096)
+
 Cataclysm-DDA experimental build 2025-12-09-2137 (faaf979)
 * Revert save is dirty on QuitNoSave (#84119)
 
@@ -98,12 +104,8 @@ Cataclysm-DDA experimental build 2025-12-05-0421 (8a85060)
 
 Cataclysm-DDA experimental build 2025-12-05-0300 (c71edfd)
 * [MoM] Remove onfire from feral Fountain of Flames (#84038)
-
-Cataclysm-DDA experimental build 2025-12-05-0046 (bda4b3c)
 * Added recipe to reverse the disassembly of the Army helmet (#84023)
 * Give the occupied lumberyard some more chainlink gates (#84041)
-
-Cataclysm-DDA experimental build 2025-12-04-2358 (40c01df)
 * Pre-emptively kill some exploits related to fire-sound handling (#84040)
 * Martial Mastery no longer deletes mobile sidebar (#84030)
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() (#84010)
@@ -143,5 +145,3 @@ Cataclysm-DDA experimental build 2025-12-04-2358 (40c01df)
 * Fix Article Omission Mistakes (#83965)
 * Actually increase brute weight/volume (#83964)
 * Make rural gas station use parameterized walls (#83955)
-* Make Yrax Golden Monolith no longer teaches melee when hit and make their defence work (#83947)
-* Dehumanize brutes (#83948)

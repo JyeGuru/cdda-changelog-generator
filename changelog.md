@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-10-0050 ([3cd8c0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0050))
+
+* Cut the middleman: Washing Kit ([#84094](https://github.com/CleverRaven/Cataclysm-DDA/pull/84094))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-09-2359 ([116ebf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-09-2359))
+
+* Rename "large casters" back into wheels ([#84096](https://github.com/CleverRaven/Cataclysm-DDA/pull/84096))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-09-2137 ([faaf979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-09-2137))
 
 * Revert save is dirty on QuitNoSave ([#84119](https://github.com/CleverRaven/Cataclysm-DDA/pull/84119))
@@ -176,18 +188,8 @@
 #### Cataclysm-DDA experimental build 2025-12-05-0300 ([c71edfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0300))
 
 * [MoM] Remove onfire from feral Fountain of Flames ([#84038](https://github.com/CleverRaven/Cataclysm-DDA/pull/84038))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-05-0046 ([bda4b3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0046))
-
 * Added recipe to reverse the disassembly of the Army helmet ([#84023](https://github.com/CleverRaven/Cataclysm-DDA/pull/84023))
 * Give the occupied lumberyard some more chainlink gates ([#84041](https://github.com/CleverRaven/Cataclysm-DDA/pull/84041))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-04-2358 ([40c01df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-04-2358))
-
 * Pre-emptively kill some exploits related to fire-sound handling ([#84040](https://github.com/CleverRaven/Cataclysm-DDA/pull/84040))
 * Martial Mastery no longer deletes mobile sidebar ([#84030](https://github.com/CleverRaven/Cataclysm-DDA/pull/84030))
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() ([#84010](https://github.com/CleverRaven/Cataclysm-DDA/pull/84010))
@@ -227,5 +229,3 @@
 * Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
 * Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
 * Make rural gas station use parameterized walls ([#83955](https://github.com/CleverRaven/Cataclysm-DDA/pull/83955))
-* Make Yrax Golden Monolith no longer teaches melee when hit and make their defence work ([#83947](https://github.com/CleverRaven/Cataclysm-DDA/pull/83947))
-* Dehumanize brutes ([#83948](https://github.com/CleverRaven/Cataclysm-DDA/pull/83948))
