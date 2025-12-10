@@ -1,3 +1,11 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-10-2000 ([a57db0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-2000))
+
+* [DDotD] Add more items to blacklist / some itemgroup work ([#84122](https://github.com/CleverRaven/Cataclysm-DDA/pull/84122))
+* Weekly Changelog 2025-12-01 to 2025-12-08 ([#84100](https://github.com/CleverRaven/Cataclysm-DDA/pull/84100))
+* [Magiclysm] Change polymorph to a biomancer spell ([#84101](https://github.com/CleverRaven/Cataclysm-DDA/pull/84101))
 * [DDotD] Remove electric cars ([#84129](https://github.com/CleverRaven/Cataclysm-DDA/pull/84129))
 
 ---
@@ -185,11 +193,6 @@
 * Move ACT_FISH handler to fish_activity_actor ([#84044](https://github.com/CleverRaven/Cataclysm-DDA/pull/84044))
 * [alt-map-key] README update ([#84065](https://github.com/CleverRaven/Cataclysm-DDA/pull/84065))
 * [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma ([#84067](https://github.com/CleverRaven/Cataclysm-DDA/pull/84067))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-06-0243 ([07ae19f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-0243))
-
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
 * Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
 * Add a supermarket ([#84017](https://github.com/CleverRaven/Cataclysm-DDA/pull/84017))
@@ -210,7 +213,6 @@
 * Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
 * [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))
 * Weekly Changelog 2025-11-24 to 2025-12-01 ([#84001](https://github.com/CleverRaven/Cataclysm-DDA/pull/84001))
-* Multiple simultaneous and devastating deep nerfs to fire vs monsters ([#83963](https://github.com/CleverRaven/Cataclysm-DDA/pull/83963))
 * Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
 * Bugfixes: Make the rivers flow again (in winter) ([#83984](https://github.com/CleverRaven/Cataclysm-DDA/pull/83984))
 * Multi-activity overhaul part 4: split up generic_multi_activity_do() ([#83976](https://github.com/CleverRaven/Cataclysm-DDA/pull/83976))
@@ -226,5 +228,3 @@
 * Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
 * Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
 * fix smartphone advanced recovery ([#83968](https://github.com/CleverRaven/Cataclysm-DDA/pull/83968))
-* Fix Article Omission Mistakes ([#83965](https://github.com/CleverRaven/Cataclysm-DDA/pull/83965))
-* Actually increase brute weight/volume ([#83964](https://github.com/CleverRaven/Cataclysm-DDA/pull/83964))
