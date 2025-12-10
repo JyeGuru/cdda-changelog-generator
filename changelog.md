@@ -1,3 +1,10 @@
+* [DDotD] Remove electric cars ([#84129](https://github.com/CleverRaven/Cataclysm-DDA/pull/84129))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-10-1910 ([8d65878](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-1910))
+
+* [DDotD] Greatly reduce incidence of solar power ([#84127](https://github.com/CleverRaven/Cataclysm-DDA/pull/84127))
 
 ---
 
@@ -184,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2025-12-06-0243 ([07ae19f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-0243))
 
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-05-2122 ([e949eb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-2122))
-
 * Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
 * Add a supermarket ([#84017](https://github.com/CleverRaven/Cataclysm-DDA/pull/84017))
 * Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
@@ -202,10 +204,8 @@
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
 * Fix basic typos in code and comments ([#83979](https://github.com/CleverRaven/Cataclysm-DDA/pull/83979))
 * Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
-* Exclude mutations that should not be visible from translations and some other stuff ([#83961](https://github.com/CleverRaven/Cataclysm-DDA/pull/83961))
 * Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff ([#83972](https://github.com/CleverRaven/Cataclysm-DDA/pull/83972))
 * Move highway intersection grid into a generic class ([#83998](https://github.com/CleverRaven/Cataclysm-DDA/pull/83998))
-* Study activity zone (library) implementation ([#83962](https://github.com/CleverRaven/Cataclysm-DDA/pull/83962))
 * Replace transformation EOCs with transformation iuse actions ([#84004](https://github.com/CleverRaven/Cataclysm-DDA/pull/84004))
 * Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
 * [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))

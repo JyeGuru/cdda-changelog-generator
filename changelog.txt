@@ -1,3 +1,7 @@
+* [DDotD] Remove electric cars (#84129)
+
+Cataclysm-DDA experimental build 2025-12-10-1910 (8d65878)
+* [DDotD] Greatly reduce incidence of solar power (#84127)
 
 Cataclysm-DDA experimental build 2025-12-10-0512 (e81dad4)
 * [DDotD/XE] Mi-go appear (rarely) in DDotD/XE (#84116)
@@ -103,8 +107,6 @@ Cataclysm-DDA experimental build 2025-12-06-0326 (7923562)
 
 Cataclysm-DDA experimental build 2025-12-06-0243 (07ae19f)
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness (#84068)
-
-Cataclysm-DDA experimental build 2025-12-05-2122 (e949eb2)
 * Don't double move when vehicle traverses ramps (#84054)
 * Add a supermarket (#84017)
 * Aligned water purification recipe/action + update action to active purifying water (#84051)
@@ -118,10 +120,8 @@ Cataclysm-DDA experimental build 2025-12-05-2122 (e949eb2)
 * Removed 'active' field from item transformations (#84015)
 * Fix basic typos in code and comments (#83979)
 * Fix Some Other Description Mistakes (#84005)
-* Exclude mutations that should not be visible from translations and some other stuff (#83961)
 * Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff (#83972)
 * Move highway intersection grid into a generic class (#83998)
-* Study activity zone (library) implementation (#83962)
 * Replace transformation EOCs with transformation iuse actions (#84004)
 * Make picking individual threads out of cotton scraps SUCK (#84006)
 * [MoM] Update feral clairsentients (#84008)
