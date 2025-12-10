@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-10-0512 ([e81dad4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0512))
+
+* [DDotD/XE] Mi-go appear (rarely) in DDotD/XE ([#84116](https://github.com/CleverRaven/Cataclysm-DDA/pull/84116))
+* Use 64 bit llvm tools in VS build when 64 bit tools are preferred. ([#84130](https://github.com/CleverRaven/Cataclysm-DDA/pull/84130))
+* Make it possible to check if items are rotten in EoCs ([#84131](https://github.com/CleverRaven/Cataclysm-DDA/pull/84131))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-10-0411 ([78f824b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0411))
+
 * Move ACT_PLANT_SEED handler to activity actor ([#84125](https://github.com/CleverRaven/Cataclysm-DDA/pull/84125))
 
 ---
@@ -177,17 +190,7 @@
 #### Cataclysm-DDA experimental build 2025-12-05-2122 ([e949eb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-2122))
 
 * Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-05-1225 ([c964ff4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-1225))
-
 * Add a supermarket ([#84017](https://github.com/CleverRaven/Cataclysm-DDA/pull/84017))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-05-0421 ([8a85060](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-05-0421))
-
 * Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
 * [MoM] Remove onfire from feral Fountain of Flames ([#84038](https://github.com/CleverRaven/Cataclysm-DDA/pull/84038))
 * Added recipe to reverse the disassembly of the Army helmet ([#84023](https://github.com/CleverRaven/Cataclysm-DDA/pull/84023))
@@ -201,10 +204,7 @@
 * Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
 * Exclude mutations that should not be visible from translations and some other stuff ([#83961](https://github.com/CleverRaven/Cataclysm-DDA/pull/83961))
 * Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff ([#83972](https://github.com/CleverRaven/Cataclysm-DDA/pull/83972))
-* Don't save quickloaded/corrupt gamestates ([#83956](https://github.com/CleverRaven/Cataclysm-DDA/pull/83956))
 * Move highway intersection grid into a generic class ([#83998](https://github.com/CleverRaven/Cataclysm-DDA/pull/83998))
-* Stop turning on *all* the debug mode filters on first open ([#83957](https://github.com/CleverRaven/Cataclysm-DDA/pull/83957))
-* Remove redundant actions and shift uses to transform ([#83958](https://github.com/CleverRaven/Cataclysm-DDA/pull/83958))
 * Study activity zone (library) implementation ([#83962](https://github.com/CleverRaven/Cataclysm-DDA/pull/83962))
 * Replace transformation EOCs with transformation iuse actions ([#84004](https://github.com/CleverRaven/Cataclysm-DDA/pull/84004))
 * Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
