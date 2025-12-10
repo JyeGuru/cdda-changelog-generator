@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-10-2041 (7596e03)
+* Introduction of failure to damaged items to work for some items (2/?) (#84120)
+
 Cataclysm-DDA experimental build 2025-12-10-2000 (a57db0f)
 * [DDotD] Add more items to blacklist / some itemgroup work (#84122)
 * Weekly Changelog 2025-12-01 to 2025-12-08 (#84100)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-12-06-0406 (7dde6c4)
 * Solar panel appliances don't give infinite nuts and bolts on take down (#84032)
 * [MoM] Extended Channeling rework (#84055)
 * Fix some mutation descriptions to not reference "maintaining" skills (#84039)
-
-Cataclysm-DDA experimental build 2025-12-06-0326 (7923562)
 * Move ACT_FISH handler to fish_activity_actor (#84044)
 * [alt-map-key] README update (#84065)
 * [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma (#84067)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2025-12-06-0326 (7923562)
 * Replace custom EOCs with standard monster placement (#83981)
 * Bugfixes: Make the rivers flow again (in winter) (#83974)
 * Fix crash for unset optional direction in mission (#83969)
-* fix smartphone advanced recovery (#83968)
