@@ -1,3 +1,5 @@
+* rephrase description of highly vain ([#84143](https://github.com/CleverRaven/Cataclysm-DDA/pull/84143))
+* Add additional log message after LIXA elevator fall ([#84134](https://github.com/CleverRaven/Cataclysm-DDA/pull/84134))
 
 ---
 
@@ -209,7 +211,6 @@
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
 * Fix basic typos in code and comments ([#83979](https://github.com/CleverRaven/Cataclysm-DDA/pull/83979))
 * Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
-* Split SHOCKTONFA into regular transformation + tazer, removing orphaned stuff ([#83972](https://github.com/CleverRaven/Cataclysm-DDA/pull/83972))
 * Move highway intersection grid into a generic class ([#83998](https://github.com/CleverRaven/Cataclysm-DDA/pull/83998))
 * Replace transformation EOCs with transformation iuse actions ([#84004](https://github.com/CleverRaven/Cataclysm-DDA/pull/84004))
 * Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
@@ -227,4 +228,3 @@
 * Bigger bulging beast brutes ([#83986](https://github.com/CleverRaven/Cataclysm-DDA/pull/83986))
 * Move expensive optional function calls behind a cheap test. ([#83989](https://github.com/CleverRaven/Cataclysm-DDA/pull/83989))
 * Replace custom EOCs with standard monster placement ([#83981](https://github.com/CleverRaven/Cataclysm-DDA/pull/83981))
-* Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
