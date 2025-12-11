@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-11-0356 ([64a47fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-0356))
+
+* Actually correct encumbrance of work pants and coveralls ([#84144](https://github.com/CleverRaven/Cataclysm-DDA/pull/84144))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-10-2041 ([7596e03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-2041))
 
 * Introduction of failure to damaged items to work for some items (2/?) ([#84120](https://github.com/CleverRaven/Cataclysm-DDA/pull/84120))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-12-06-1745 ([3dc3e1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-1745))
 
 * fix mod item name inheritance ([#84056](https://github.com/CleverRaven/Cataclysm-DDA/pull/84056))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-06-0406 ([7dde6c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-0406))
-
 * [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
 * Solar panel appliances don't give infinite nuts and bolts on take down ([#84032](https://github.com/CleverRaven/Cataclysm-DDA/pull/84032))
 * [MoM] Extended Channeling rework ([#84055](https://github.com/CleverRaven/Cataclysm-DDA/pull/84055))
@@ -227,4 +228,3 @@
 * Move expensive optional function calls behind a cheap test. ([#83989](https://github.com/CleverRaven/Cataclysm-DDA/pull/83989))
 * Replace custom EOCs with standard monster placement ([#83981](https://github.com/CleverRaven/Cataclysm-DDA/pull/83981))
 * Bugfixes: Make the rivers flow again (in winter) ([#83974](https://github.com/CleverRaven/Cataclysm-DDA/pull/83974))
-* Fix crash for unset optional direction in mission ([#83969](https://github.com/CleverRaven/Cataclysm-DDA/pull/83969))
