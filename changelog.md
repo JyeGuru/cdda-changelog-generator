@@ -1,3 +1,15 @@
+* Introduction of failure to damaged items to work for some items ([#84106](https://github.com/CleverRaven/Cataclysm-DDA/pull/84106))
+* Revert - Remove razor blade tool tags I just added  ([#84112](https://github.com/CleverRaven/Cataclysm-DDA/pull/84112))
+* Show weapon category in item info ([#84124](https://github.com/CleverRaven/Cataclysm-DDA/pull/84124))
+* Create match_include_exclude_test.cpp ([#84027](https://github.com/CleverRaven/Cataclysm-DDA/pull/84027))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-11-0454 ([a5cda41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-0454))
+
+* Add pvc pipes ([#84128](https://github.com/CleverRaven/Cataclysm-DDA/pull/84128))
+* Update debug warnings to reflect #83956 ([#84082](https://github.com/CleverRaven/Cataclysm-DDA/pull/84082))
+* Replace generic steel with any steel lump requirement for stump anvil ([#84135](https://github.com/CleverRaven/Cataclysm-DDA/pull/84135))
 * rephrase description of highly vain ([#84143](https://github.com/CleverRaven/Cataclysm-DDA/pull/84143))
 * Add additional log message after LIXA elevator fall ([#84134](https://github.com/CleverRaven/Cataclysm-DDA/pull/84134))
 
@@ -184,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-12-07-0400 ([1510f00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0400))
 
 * fix blood analysis ([#84080](https://github.com/CleverRaven/Cataclysm-DDA/pull/84080))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-06-1745 ([3dc3e1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-06-1745))
-
 * fix mod item name inheritance ([#84056](https://github.com/CleverRaven/Cataclysm-DDA/pull/84056))
 * [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
 * Solar panel appliances don't give infinite nuts and bolts on take down ([#84032](https://github.com/CleverRaven/Cataclysm-DDA/pull/84032))
@@ -209,22 +216,15 @@
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() ([#84010](https://github.com/CleverRaven/Cataclysm-DDA/pull/84010))
 * Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
-* Fix basic typos in code and comments ([#83979](https://github.com/CleverRaven/Cataclysm-DDA/pull/83979))
 * Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
 * Move highway intersection grid into a generic class ([#83998](https://github.com/CleverRaven/Cataclysm-DDA/pull/83998))
 * Replace transformation EOCs with transformation iuse actions ([#84004](https://github.com/CleverRaven/Cataclysm-DDA/pull/84004))
 * Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
 * [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))
 * Weekly Changelog 2025-11-24 to 2025-12-01 ([#84001](https://github.com/CleverRaven/Cataclysm-DDA/pull/84001))
-* Fix bad_optional_access crash in control_vehicle() ([#83977](https://github.com/CleverRaven/Cataclysm-DDA/pull/83977))
-* Bugfixes: Make the rivers flow again (in winter) ([#83984](https://github.com/CleverRaven/Cataclysm-DDA/pull/83984))
-* Multi-activity overhaul part 4: split up generic_multi_activity_do() ([#83976](https://github.com/CleverRaven/Cataclysm-DDA/pull/83976))
 * [MoM/XE] The Uncanny Dodge trait is not valid ([#84000](https://github.com/CleverRaven/Cataclysm-DDA/pull/84000))
-* fix crafting menu popup crash ([#83975](https://github.com/CleverRaven/Cataclysm-DDA/pull/83975))
 * Remove the Typos in the Spearfisher's Description ([#83994](https://github.com/CleverRaven/Cataclysm-DDA/pull/83994))
-* Fix NPC error when auto performing loot sorting job at basecamp ([#83980](https://github.com/CleverRaven/Cataclysm-DDA/pull/83980))
 * Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
 * Add `lab_notes` terminals to microlabs ([#83987](https://github.com/CleverRaven/Cataclysm-DDA/pull/83987))
 * Bigger bulging beast brutes ([#83986](https://github.com/CleverRaven/Cataclysm-DDA/pull/83986))
 * Move expensive optional function calls behind a cheap test. ([#83989](https://github.com/CleverRaven/Cataclysm-DDA/pull/83989))
-* Replace custom EOCs with standard monster placement ([#83981](https://github.com/CleverRaven/Cataclysm-DDA/pull/83981))
