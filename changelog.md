@@ -226,5 +226,4 @@
 * [MoM/XE] The Uncanny Dodge trait is not valid ([#84000](https://github.com/CleverRaven/Cataclysm-DDA/pull/84000))
 * Remove the Typos in the Spearfisher's Description ([#83994](https://github.com/CleverRaven/Cataclysm-DDA/pull/83994))
 * Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
-* Add `lab_notes` terminals to microlabs ([#83987](https://github.com/CleverRaven/Cataclysm-DDA/pull/83987))
 * Move expensive optional function calls behind a cheap test. ([#83989](https://github.com/CleverRaven/Cataclysm-DDA/pull/83989))
