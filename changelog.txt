@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-12-11-0540 (308a4d7)
 * Introduction of failure to damaged items to work for some items (#84106)
 * Revert - Remove razor blade tool tags I just added  (#84112)
 * Show weapon category in item info (#84124)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-12-07-0632 (1ecbf78)
 
 Cataclysm-DDA 0.I release candidate 2025-12-07-0536 (34231fe)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#84052)
-
-Cataclysm-DDA 0.I release candidate 2025-12-07-0410 (20cfc7e)
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run (#84053)
 
 Cataclysm-DDA experimental build 2025-12-07-0455 (62f3c33)
