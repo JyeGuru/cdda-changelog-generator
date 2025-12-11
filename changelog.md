@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-11-2243 ([e91e5e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-2243))
+
+* steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-11-1344 ([917d600](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-1344))
 
 * [DDotD] Add calculator watch / portable cassette player ([#84145](https://github.com/CleverRaven/Cataclysm-DDA/pull/84145))
@@ -144,11 +150,6 @@
 #### Cataclysm-DDA experimental build 2025-12-08-0003 ([0cb7d6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-0003))
 
 * Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-12-07-2152 ([613cea4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-07-2152))
-
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 
 ---
@@ -170,7 +171,6 @@
 * Add simple single sided razor tool  ([#84009](https://github.com/CleverRaven/Cataclysm-DDA/pull/84009))
 * Add proper beer six packs to the game, along with six pack rings ([#84036](https://github.com/CleverRaven/Cataclysm-DDA/pull/84036))
 * Fix masochist morale inconsistency ([#84048](https://github.com/CleverRaven/Cataclysm-DDA/pull/84048))
-* [MoM] Contemplation phrasing/typos fix ([#83988](https://github.com/CleverRaven/Cataclysm-DDA/pull/83988))
 
 ---
 
