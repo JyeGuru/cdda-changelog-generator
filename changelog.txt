@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-11-1344 (917d600)
+* [DDotD] Add calculator watch / portable cassette player (#84145)
+
 Cataclysm-DDA experimental build 2025-12-11-0540 (308a4d7)
 * Introduction of failure to damaged items to work for some items (#84106)
 * Revert - Remove razor blade tool tags I just added  (#84112)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2025-12-07-0718 (42a4a55)
 
 Cataclysm-DDA experimental build 2025-12-07-0632 (1ecbf78)
 * Fix ACT_BLEED Deserialization (#84016)
-
-Cataclysm-DDA 0.I release candidate 2025-12-07-0536 (34231fe)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#84052)
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run (#84053)
 
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2025-12-07-0400 (1510f00)
 * Remove the Typos in the Spearfisher's Description (#83994)
 * Removed c4 iuse action in favor of extended transformation logic (#83995)
 * Add `lab_notes` terminals to microlabs (#83987)
-* Bigger bulging beast brutes (#83986)
 * Move expensive optional function calls behind a cheap test. (#83989)
