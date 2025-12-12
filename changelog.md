@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-12-1631 ([d373015](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-1631))
+
+* return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-12-0703 ([47d5398](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0703))
 
 * [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
@@ -185,11 +191,6 @@
 
 * [ Sky Island, Xedra Evolved ] Rarities and B-sides ([#84072](https://github.com/CleverRaven/Cataclysm-DDA/pull/84072))
 * Upgrade vcpkg baseline ([#84090](https://github.com/CleverRaven/Cataclysm-DDA/pull/84090))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-08-0105 ([db74d41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-0105))
-
 * [MoM] Remove broken shield belts as separate items ([#84037](https://github.com/CleverRaven/Cataclysm-DDA/pull/84037))
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable ([#84092](https://github.com/CleverRaven/Cataclysm-DDA/pull/84092))
 * Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
@@ -229,5 +230,4 @@
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() ([#84010](https://github.com/CleverRaven/Cataclysm-DDA/pull/84010))
 * Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
-* Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
 * [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-12-1631 (d373015)
+* return early if there are no stats (#84167)
+
 Cataclysm-DDA experimental build 2025-12-12-0703 (47d5398)
 * [DDOTD] add some calculator watch snippets and adjust design doc. (#84158)
 * Introduction of failure to damaged items to work for some items (3/?) (#84141)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-12-08-1533 (e34f788)
 Cataclysm-DDA experimental build 2025-12-08-0823 (b6fd801)
 * [ Sky Island, Xedra Evolved ] Rarities and B-sides (#84072)
 * Upgrade vcpkg baseline (#84090)
-
-Cataclysm-DDA experimental build 2025-12-08-0105 (db74d41)
 * [MoM] Remove broken shield belts as separate items (#84037)
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable (#84092)
 * Fix Sourdough bread recipe byproducts (#84087)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2025-12-08-0105 (db74d41)
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() (#84010)
 * Update test_main.cpp (#84019)
 * Removed 'active' field from item transformations (#84015)
-* Make picking individual threads out of cotton scraps SUCK (#84006)
 * [MoM] Update feral clairsentients (#84008)
