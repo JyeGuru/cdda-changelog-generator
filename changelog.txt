@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-12-2139 (de871fe)
+* Greatly reduce lone fruit trees in the forest (#84173)
+
 Cataclysm-DDA experimental build 2025-12-12-1741 (ec75416)
 * Move dense forest raspberry/strawberry/blueberry spawn to patches (#84166)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2025-12-08-1620 (3a81e60)
 
 Cataclysm-DDA experimental build 2025-12-08-1533 (e34f788)
 * [ Xedra Evolved ] Time Freeze shouldn't protect from looping wound (#84076)
-
-Cataclysm-DDA experimental build 2025-12-08-0823 (b6fd801)
 * [ Sky Island, Xedra Evolved ] Rarities and B-sides (#84072)
 * Upgrade vcpkg baseline (#84090)
 * [MoM] Remove broken shield belts as separate items (#84037)
@@ -116,7 +117,6 @@ Cataclysm-DDA experimental build 2025-12-08-0823 (b6fd801)
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84088)
 * Add failure to use camera and dive tank (#84089)
 * Completely remove the animal food system (not "taming") (#84058)
-* Add simple single sided razor tool  (#84009)
 * Add proper beer six packs to the game, along with six pack rings (#84036)
 * Fix masochist morale inconsistency (#84048)
 * Fix ACT_BLEED Deserialization (#84016)

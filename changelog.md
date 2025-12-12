@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-12-2139 ([de871fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-2139))
+
+* Greatly reduce lone fruit trees in the forest ([#84173](https://github.com/CleverRaven/Cataclysm-DDA/pull/84173))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-12-1741 ([ec75416](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-1741))
 
 * Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-12-08-1533 ([e34f788](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-1533))
 
 * [ Xedra Evolved ] Time Freeze shouldn't protect from looping wound ([#84076](https://github.com/CleverRaven/Cataclysm-DDA/pull/84076))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-08-0823 ([b6fd801](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-0823))
-
 * [ Sky Island, Xedra Evolved ] Rarities and B-sides ([#84072](https://github.com/CleverRaven/Cataclysm-DDA/pull/84072))
 * Upgrade vcpkg baseline ([#84090](https://github.com/CleverRaven/Cataclysm-DDA/pull/84090))
 * [MoM] Remove broken shield belts as separate items ([#84037](https://github.com/CleverRaven/Cataclysm-DDA/pull/84037))
@@ -203,7 +204,6 @@
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
 * Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
-* Add simple single sided razor tool  ([#84009](https://github.com/CleverRaven/Cataclysm-DDA/pull/84009))
 * Add proper beer six packs to the game, along with six pack rings ([#84036](https://github.com/CleverRaven/Cataclysm-DDA/pull/84036))
 * Fix masochist morale inconsistency ([#84048](https://github.com/CleverRaven/Cataclysm-DDA/pull/84048))
 * Fix ACT_BLEED Deserialization ([#84016](https://github.com/CleverRaven/Cataclysm-DDA/pull/84016))
