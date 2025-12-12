@@ -1,6 +1,41 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-12-0454 ([ecb92fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0454))
+
+* make pockets check min-volume against volume of single charge ([#84077](https://github.com/CleverRaven/Cataclysm-DDA/pull/84077))
+* Allow XE spell 'To Bless the Sacred Weapon' to work on tempered steel ([#84136](https://github.com/CleverRaven/Cataclysm-DDA/pull/84136))
+* [Crazy Cataclysm] Rename "troglobite" to "gamer" ([#84142](https://github.com/CleverRaven/Cataclysm-DDA/pull/84142))
+* Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
+* Add an effect for EoCs to be able to browse or unbrowse items ([#84138](https://github.com/CleverRaven/Cataclysm-DDA/pull/84138))
+* Move ACT_VEHICLE handler to vehicle_activity_actor ([#84132](https://github.com/CleverRaven/Cataclysm-DDA/pull/84132))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-12-0407 ([d11c913](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0407))
+
+* [XE/DDotD] Add XE_CLASSIC category, apply it to appropriate XE monsters ([#84140](https://github.com/CleverRaven/Cataclysm-DDA/pull/84140))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-12-0158 ([f6d0fa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0158))
+
+* [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-12-0152 ([d241c93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0152))
+
+* Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-12-0145 ([1913cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0145))
+
+* Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-11-2243 ([e91e5e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-2243))
 
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
@@ -157,33 +192,13 @@
 #### Cataclysm-DDA experimental build 2025-12-07-2152 ([a0fcd6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-2152))
 
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-07-1421 ([624827b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-1421))
-
 * Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-07-0718 ([42a4a55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0718))
-
 * Add simple single sided razor tool  ([#84009](https://github.com/CleverRaven/Cataclysm-DDA/pull/84009))
 * Add proper beer six packs to the game, along with six pack rings ([#84036](https://github.com/CleverRaven/Cataclysm-DDA/pull/84036))
 * Fix masochist morale inconsistency ([#84048](https://github.com/CleverRaven/Cataclysm-DDA/pull/84048))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-07-0632 ([1ecbf78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0632))
-
 * Fix ACT_BLEED Deserialization ([#84016](https://github.com/CleverRaven/Cataclysm-DDA/pull/84016))
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-07-0455 ([62f3c33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0455))
-
 * Introduced damage failure risk and message on item transformation use actions ([#84034](https://github.com/CleverRaven/Cataclysm-DDA/pull/84034))
 * Hand Truck for moving furniture indoors ([#84003](https://github.com/CleverRaven/Cataclysm-DDA/pull/84003))
 * More fixes to liquids spawning without containers ([#84035](https://github.com/CleverRaven/Cataclysm-DDA/pull/84035))
@@ -191,11 +206,6 @@
 * MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84066](https://github.com/CleverRaven/Cataclysm-DDA/pull/84066))
 * Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-07-0400 ([1510f00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-0400))
-
 * fix blood analysis ([#84080](https://github.com/CleverRaven/Cataclysm-DDA/pull/84080))
 * fix mod item name inheritance ([#84056](https://github.com/CleverRaven/Cataclysm-DDA/pull/84056))
 * [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
@@ -218,12 +228,6 @@
 * Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
 * Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
-* Move highway intersection grid into a generic class ([#83998](https://github.com/CleverRaven/Cataclysm-DDA/pull/83998))
 * Replace transformation EOCs with transformation iuse actions ([#84004](https://github.com/CleverRaven/Cataclysm-DDA/pull/84004))
 * Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
 * [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))
-* Weekly Changelog 2025-11-24 to 2025-12-01 ([#84001](https://github.com/CleverRaven/Cataclysm-DDA/pull/84001))
-* [MoM/XE] The Uncanny Dodge trait is not valid ([#84000](https://github.com/CleverRaven/Cataclysm-DDA/pull/84000))
-* Remove the Typos in the Spearfisher's Description ([#83994](https://github.com/CleverRaven/Cataclysm-DDA/pull/83994))
-* Removed c4 iuse action in favor of extended transformation logic ([#83995](https://github.com/CleverRaven/Cataclysm-DDA/pull/83995))
-* Move expensive optional function calls behind a cheap test. ([#83989](https://github.com/CleverRaven/Cataclysm-DDA/pull/83989))

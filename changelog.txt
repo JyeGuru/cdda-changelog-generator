@@ -1,4 +1,24 @@
 
+Cataclysm-DDA experimental build 2025-12-12-0454 (ecb92fc)
+* make pockets check min-volume against volume of single charge (#84077)
+* Allow XE spell 'To Bless the Sacred Weapon' to work on tempered steel (#84136)
+* [Crazy Cataclysm] Rename "troglobite" to "gamer" (#84142)
+* Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill (#84155)
+* Add an effect for EoCs to be able to browse or unbrowse items (#84138)
+* Move ACT_VEHICLE handler to vehicle_activity_actor (#84132)
+
+Cataclysm-DDA experimental build 2025-12-12-0407 (d11c913)
+* [XE/DDotD] Add XE_CLASSIC category, apply it to appropriate XE monsters (#84140)
+
+Cataclysm-DDA experimental build 2025-12-12-0158 (f6d0fa3)
+* [DDotD] Albertan trees rework (#84164)
+
+Cataclysm-DDA experimental build 2025-12-12-0152 (d241c93)
+* Add catalyst to microlab alpha primer vault (#84147)
+
+Cataclysm-DDA experimental build 2025-12-12-0145 (1913cb9)
+* Properly load the region type the game was last saved in (#84163)
+
 Cataclysm-DDA experimental build 2025-12-11-2243 (e91e5e1)
 * steel-toed sneakers are nylon (#84156)
 
@@ -88,21 +108,13 @@ Cataclysm-DDA experimental build 2025-12-08-0003 (0cb7d6e)
 
 Cataclysm-DDA experimental build 2025-12-07-2152 (a0fcd6e)
 * Add failure to use camera and dive tank (#84089)
-
-Cataclysm-DDA experimental build 2025-12-07-1421 (624827b)
 * Completely remove the animal food system (not "taming") (#84058)
-
-Cataclysm-DDA experimental build 2025-12-07-0718 (42a4a55)
 * Add simple single sided razor tool  (#84009)
 * Add proper beer six packs to the game, along with six pack rings (#84036)
 * Fix masochist morale inconsistency (#84048)
-
-Cataclysm-DDA experimental build 2025-12-07-0632 (1ecbf78)
 * Fix ACT_BLEED Deserialization (#84016)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#84052)
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run (#84053)
-
-Cataclysm-DDA experimental build 2025-12-07-0455 (62f3c33)
 * Introduced damage failure risk and message on item transformation use actions (#84034)
 * Hand Truck for moving furniture indoors (#84003)
 * More fixes to liquids spawning without containers (#84035)
@@ -110,8 +122,6 @@ Cataclysm-DDA experimental build 2025-12-07-0455 (62f3c33)
 * MRE toaster pastries don't deserve flavored individual items either (#84060)
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84066)
 * Move mining activity handlers to activity actors (#84075)
-
-Cataclysm-DDA experimental build 2025-12-07-0400 (1510f00)
 * fix blood analysis (#84080)
 * fix mod item name inheritance (#84056)
 * [alt-map-key] Add supermarket (#84062)
@@ -134,12 +144,6 @@ Cataclysm-DDA experimental build 2025-12-07-0400 (1510f00)
 * Update test_main.cpp (#84019)
 * Removed 'active' field from item transformations (#84015)
 * Fix Some Other Description Mistakes (#84005)
-* Move highway intersection grid into a generic class (#83998)
 * Replace transformation EOCs with transformation iuse actions (#84004)
 * Make picking individual threads out of cotton scraps SUCK (#84006)
 * [MoM] Update feral clairsentients (#84008)
-* Weekly Changelog 2025-11-24 to 2025-12-01 (#84001)
-* [MoM/XE] The Uncanny Dodge trait is not valid (#84000)
-* Remove the Typos in the Spearfisher's Description (#83994)
-* Removed c4 iuse action in favor of extended transformation logic (#83995)
-* Move expensive optional function calls behind a cheap test. (#83989)
