@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-12-1741 ([ec75416](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-1741))
+
+* Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-12-1631 ([d373015](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-1631))
 
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
@@ -230,4 +236,3 @@
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() ([#84010](https://github.com/CleverRaven/Cataclysm-DDA/pull/84010))
 * Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
-* [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))
