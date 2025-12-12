@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-12-0703 ([47d5398](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0703))
+
+* [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
+* Introduction of failure to damaged items to work for some items (3/?) ([#84141](https://github.com/CleverRaven/Cataclysm-DDA/pull/84141))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-12-0615 ([399d92b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0615))
+
+* [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-12-0454 ([ecb92fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0454))
 
 * make pockets check min-volume against volume of single charge ([#84077](https://github.com/CleverRaven/Cataclysm-DDA/pull/84077))
@@ -179,18 +192,8 @@
 
 * [MoM] Remove broken shield belts as separate items ([#84037](https://github.com/CleverRaven/Cataclysm-DDA/pull/84037))
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable ([#84092](https://github.com/CleverRaven/Cataclysm-DDA/pull/84092))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-08-0003 ([0cb7d6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-0003))
-
 * Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-07-2152 ([a0fcd6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-07-2152))
-
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
 * Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
 * Add simple single sided razor tool  ([#84009](https://github.com/CleverRaven/Cataclysm-DDA/pull/84009))
@@ -200,7 +203,6 @@
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
 * Introduced damage failure risk and message on item transformation use actions ([#84034](https://github.com/CleverRaven/Cataclysm-DDA/pull/84034))
-* Hand Truck for moving furniture indoors ([#84003](https://github.com/CleverRaven/Cataclysm-DDA/pull/84003))
 * More fixes to liquids spawning without containers ([#84035](https://github.com/CleverRaven/Cataclysm-DDA/pull/84035))
 * The 40mm ammo belt scales its volume according to the grenades inside of it ([#84031](https://github.com/CleverRaven/Cataclysm-DDA/pull/84031))
 * MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
@@ -227,7 +229,5 @@
 * Multi-activity overhaul part 5: split up generic_multi_activity_handler() ([#84010](https://github.com/CleverRaven/Cataclysm-DDA/pull/84010))
 * Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
 * Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
-* Fix Some Other Description Mistakes ([#84005](https://github.com/CleverRaven/Cataclysm-DDA/pull/84005))
-* Replace transformation EOCs with transformation iuse actions ([#84004](https://github.com/CleverRaven/Cataclysm-DDA/pull/84004))
 * Make picking individual threads out of cotton scraps SUCK ([#84006](https://github.com/CleverRaven/Cataclysm-DDA/pull/84006))
 * [MoM] Update feral clairsentients ([#84008](https://github.com/CleverRaven/Cataclysm-DDA/pull/84008))
