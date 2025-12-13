@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-13-2307 ([12c9d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-2307))
+
+* allow to extend region feature flag settings ([#84175](https://github.com/CleverRaven/Cataclysm-DDA/pull/84175))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-13-1446 ([302bb35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-1446))
 
 * Nerf betavoltaic cell price by 50x ([#84177](https://github.com/CleverRaven/Cataclysm-DDA/pull/84177))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-12-09-2137 ([faaf979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-09-2137))
 
 * Revert save is dirty on QuitNoSave ([#84119](https://github.com/CleverRaven/Cataclysm-DDA/pull/84119))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-09-0625 ([736b1f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-09-0625))
-
 * [MoM] Add psi flesh-raptors ([#84111](https://github.com/CleverRaven/Cataclysm-DDA/pull/84111))
 * Clear activity_var on pickup ([#84078](https://github.com/CleverRaven/Cataclysm-DDA/pull/84078))
 * RANGE_DODGE no longer applies to spells, can be applied to monsters ([#84113](https://github.com/CleverRaven/Cataclysm-DDA/pull/84113))
@@ -235,4 +236,3 @@
 * Give the occupied lumberyard some more chainlink gates ([#84041](https://github.com/CleverRaven/Cataclysm-DDA/pull/84041))
 * Pre-emptively kill some exploits related to fire-sound handling ([#84040](https://github.com/CleverRaven/Cataclysm-DDA/pull/84040))
 * Martial Mastery no longer deletes mobile sidebar ([#84030](https://github.com/CleverRaven/Cataclysm-DDA/pull/84030))
-* Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
