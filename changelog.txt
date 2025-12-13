@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-13-1446 (302bb35)
+* Nerf betavoltaic cell price by 50x (#84177)
+
 Cataclysm-DDA experimental build 2025-12-13-0526 (f0a72f5)
 * Introduction of failure to damaged items to work for some items (4/?) (#84159)
 
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2025-12-09-0625 (736b1f1)
 * [MoM] Add psi flesh-raptors (#84111)
 * Clear activity_var on pickup (#84078)
 * RANGE_DODGE no longer applies to spells, can be applied to monsters (#84113)
-
-Cataclysm-DDA experimental build 2025-12-09-0541 (4d821a7)
 * [DDotD] Default start is in a cabin, remove evac shelters (#84117)
 * More fixes to account for vcpkg baseline rev changing (#84110)
 * Update release vcpkg commit (#84109)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2025-12-09-0541 (4d821a7)
 * [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma (#84067)
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness (#84068)
 * Don't double move when vehicle traverses ramps (#84054)
-* Add a supermarket (#84017)
 * Aligned water purification recipe/action + update action to active purifying water (#84051)
 * [MoM] Remove onfire from feral Fountain of Flames (#84038)
 * Added recipe to reverse the disassembly of the Army helmet (#84023)
