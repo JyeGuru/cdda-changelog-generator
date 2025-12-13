@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-13-0526 ([f0a72f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-0526))
+
+* Introduction of failure to damaged items to work for some items (4/?) ([#84159](https://github.com/CleverRaven/Cataclysm-DDA/pull/84159))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-13-0424 ([4fddb86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-0424))
 
 * Move ACT_BUILD handler to build_construction_activity_actor ([#84169](https://github.com/CleverRaven/Cataclysm-DDA/pull/84169))
@@ -187,11 +193,6 @@
 
 * [DDotD] Default start is in a cabin, remove evac shelters ([#84117](https://github.com/CleverRaven/Cataclysm-DDA/pull/84117))
 * More fixes to account for vcpkg baseline rev changing ([#84110](https://github.com/CleverRaven/Cataclysm-DDA/pull/84110))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-08-2140 ([a39b0cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-2140))
-
 * Update release vcpkg commit ([#84109](https://github.com/CleverRaven/Cataclysm-DDA/pull/84109))
 * preserve contents when crafting a recipe that upgrades an item ([#84073](https://github.com/CleverRaven/Cataclysm-DDA/pull/84073))
 * restrict follower sleep spot to the same vehicle when player sleeping in a vehicle ([#84097](https://github.com/CleverRaven/Cataclysm-DDA/pull/84097))
@@ -208,7 +209,6 @@
 * Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
 * Add proper beer six packs to the game, along with six pack rings ([#84036](https://github.com/CleverRaven/Cataclysm-DDA/pull/84036))
 * Fix masochist morale inconsistency ([#84048](https://github.com/CleverRaven/Cataclysm-DDA/pull/84048))
-* Fix ACT_BLEED Deserialization ([#84016](https://github.com/CleverRaven/Cataclysm-DDA/pull/84016))
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
 * Introduced damage failure risk and message on item transformation use actions ([#84034](https://github.com/CleverRaven/Cataclysm-DDA/pull/84034))
