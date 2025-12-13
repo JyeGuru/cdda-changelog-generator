@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-13-0424 ([4fddb86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-0424))
+
+* Move ACT_BUILD handler to build_construction_activity_actor ([#84169](https://github.com/CleverRaven/Cataclysm-DDA/pull/84169))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-12-2342 ([efda94d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-2342))
 
 * Fix pvc pipe itemgroups ([#84170](https://github.com/CleverRaven/Cataclysm-DDA/pull/84170))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2025-12-08-2140 ([a39b0cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-2140))
 
 * Update release vcpkg commit ([#84109](https://github.com/CleverRaven/Cataclysm-DDA/pull/84109))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-08-1620 ([3a81e60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-08-1620))
-
 * preserve contents when crafting a recipe that upgrades an item ([#84073](https://github.com/CleverRaven/Cataclysm-DDA/pull/84073))
 * restrict follower sleep spot to the same vehicle when player sleeping in a vehicle ([#84097](https://github.com/CleverRaven/Cataclysm-DDA/pull/84097))
 * [Magiclysm] Add a traditional elf house ([#84099](https://github.com/CleverRaven/Cataclysm-DDA/pull/84099))
@@ -235,4 +236,3 @@
 * Pre-emptively kill some exploits related to fire-sound handling ([#84040](https://github.com/CleverRaven/Cataclysm-DDA/pull/84040))
 * Martial Mastery no longer deletes mobile sidebar ([#84030](https://github.com/CleverRaven/Cataclysm-DDA/pull/84030))
 * Update test_main.cpp ([#84019](https://github.com/CleverRaven/Cataclysm-DDA/pull/84019))
-* Removed 'active' field from item transformations ([#84015](https://github.com/CleverRaven/Cataclysm-DDA/pull/84015))
