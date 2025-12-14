@@ -1,3 +1,4 @@
+* Introduction of failure to damaged items to work for some items (6/?) ([#84194](https://github.com/CleverRaven/Cataclysm-DDA/pull/84194))
 * Make overmapbuffer zzip aware ([#84150](https://github.com/CleverRaven/Cataclysm-DDA/pull/84150))
 * Rebalance Aikido to emphasize surviving and escaping opponents ([#84178](https://github.com/CleverRaven/Cataclysm-DDA/pull/84178))
 * Flatten the pride stockings distribution ([#84151](https://github.com/CleverRaven/Cataclysm-DDA/pull/84151))
@@ -238,6 +239,5 @@
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
 * Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
 * Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
-* [MoM] Remove onfire from feral Fountain of Flames ([#84038](https://github.com/CleverRaven/Cataclysm-DDA/pull/84038))
 * Give the occupied lumberyard some more chainlink gates ([#84041](https://github.com/CleverRaven/Cataclysm-DDA/pull/84041))
 * Pre-emptively kill some exploits related to fire-sound handling ([#84040](https://github.com/CleverRaven/Cataclysm-DDA/pull/84040))
