@@ -1,3 +1,11 @@
+* Make permanent effect always at least 1 second long ([#84187](https://github.com/CleverRaven/Cataclysm-DDA/pull/84187))
+* [TropiCata] Further cleanup ([#84184](https://github.com/CleverRaven/Cataclysm-DDA/pull/84184))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-14-0632 ([4d41630](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-0632))
+
+* [TropiCata] Non-native species pruning - Reptiles ([#84185](https://github.com/CleverRaven/Cataclysm-DDA/pull/84185))
 
 ---
 
@@ -120,7 +128,6 @@
 * Introduction of failure to damaged items to work for some items ([#84106](https://github.com/CleverRaven/Cataclysm-DDA/pull/84106))
 * Revert - Remove razor blade tool tags I just added  ([#84112](https://github.com/CleverRaven/Cataclysm-DDA/pull/84112))
 * Show weapon category in item info ([#84124](https://github.com/CleverRaven/Cataclysm-DDA/pull/84124))
-* Create match_include_exclude_test.cpp ([#84027](https://github.com/CleverRaven/Cataclysm-DDA/pull/84027))
 
 ---
 
@@ -190,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-09-2359 ([116ebf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-09-2359))
 
 * Rename "large casters" back into wheels ([#84096](https://github.com/CleverRaven/Cataclysm-DDA/pull/84096))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-09-2137 ([faaf979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-09-2137))
-
 * Revert save is dirty on QuitNoSave ([#84119](https://github.com/CleverRaven/Cataclysm-DDA/pull/84119))
 * [MoM] Add psi flesh-raptors ([#84111](https://github.com/CleverRaven/Cataclysm-DDA/pull/84111))
 * Clear activity_var on pickup ([#84078](https://github.com/CleverRaven/Cataclysm-DDA/pull/84078))
@@ -221,7 +223,6 @@
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
 * Introduced damage failure risk and message on item transformation use actions ([#84034](https://github.com/CleverRaven/Cataclysm-DDA/pull/84034))
 * More fixes to liquids spawning without containers ([#84035](https://github.com/CleverRaven/Cataclysm-DDA/pull/84035))
-* The 40mm ammo belt scales its volume according to the grenades inside of it ([#84031](https://github.com/CleverRaven/Cataclysm-DDA/pull/84031))
 * MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84066](https://github.com/CleverRaven/Cataclysm-DDA/pull/84066))
 * Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))
@@ -240,4 +241,3 @@
 * [MoM] Remove onfire from feral Fountain of Flames ([#84038](https://github.com/CleverRaven/Cataclysm-DDA/pull/84038))
 * Give the occupied lumberyard some more chainlink gates ([#84041](https://github.com/CleverRaven/Cataclysm-DDA/pull/84041))
 * Pre-emptively kill some exploits related to fire-sound handling ([#84040](https://github.com/CleverRaven/Cataclysm-DDA/pull/84040))
-* Martial Mastery no longer deletes mobile sidebar ([#84030](https://github.com/CleverRaven/Cataclysm-DDA/pull/84030))
