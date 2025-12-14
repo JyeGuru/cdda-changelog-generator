@@ -1,3 +1,9 @@
+* Flatten the pride stockings distribution ([#84151](https://github.com/CleverRaven/Cataclysm-DDA/pull/84151))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-14-1853 ([e947f2b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-1853))
+
 * [DDotD] Laptop rework ([#84139](https://github.com/CleverRaven/Cataclysm-DDA/pull/84139))
 
 ---
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-10-0411 ([78f824b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0411))
 
 * Move ACT_PLANT_SEED handler to activity actor ([#84125](https://github.com/CleverRaven/Cataclysm-DDA/pull/84125))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-10-0215 ([d2fdbb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0215))
-
 * make dry_veggy not dryable ([#84126](https://github.com/CleverRaven/Cataclysm-DDA/pull/84126))
 * Cut the middleman: Washing Kit ([#84094](https://github.com/CleverRaven/Cataclysm-DDA/pull/84094))
 * Rename "large casters" back into wheels ([#84096](https://github.com/CleverRaven/Cataclysm-DDA/pull/84096))
@@ -223,7 +224,6 @@
 * Fix masochist morale inconsistency ([#84048](https://github.com/CleverRaven/Cataclysm-DDA/pull/84048))
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
-* More fixes to liquids spawning without containers ([#84035](https://github.com/CleverRaven/Cataclysm-DDA/pull/84035))
 * MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84066](https://github.com/CleverRaven/Cataclysm-DDA/pull/84066))
 * Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))

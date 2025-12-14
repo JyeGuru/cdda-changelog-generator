@@ -1,3 +1,6 @@
+* Flatten the pride stockings distribution (#84151)
+
+Cataclysm-DDA experimental build 2025-12-14-1853 (e947f2b)
 * [DDotD] Laptop rework (#84139)
 
 Cataclysm-DDA experimental build 2025-12-14-0808 (3ac49af)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-12-10-0512 (e81dad4)
 
 Cataclysm-DDA experimental build 2025-12-10-0411 (78f824b)
 * Move ACT_PLANT_SEED handler to activity actor (#84125)
-
-Cataclysm-DDA experimental build 2025-12-10-0215 (d2fdbb9)
 * make dry_veggy not dryable (#84126)
 * Cut the middleman: Washing Kit (#84094)
 * Rename "large casters" back into wheels (#84096)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2025-12-10-0215 (d2fdbb9)
 * Fix masochist morale inconsistency (#84048)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#84052)
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run (#84053)
-* More fixes to liquids spawning without containers (#84035)
 * MRE toaster pastries don't deserve flavored individual items either (#84060)
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84066)
 * Move mining activity handlers to activity actors (#84075)
