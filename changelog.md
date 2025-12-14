@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-14-1937 ([213e307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-1937))
+
 * Introduction of failure to damaged items to work for some items (6/?) ([#84194](https://github.com/CleverRaven/Cataclysm-DDA/pull/84194))
 * Make overmapbuffer zzip aware ([#84150](https://github.com/CleverRaven/Cataclysm-DDA/pull/84150))
 * Rebalance Aikido to emphasize surviving and escaping opponents ([#84178](https://github.com/CleverRaven/Cataclysm-DDA/pull/84178))
@@ -194,11 +199,6 @@
 * [DDotD/XE] Mi-go appear (rarely) in DDotD/XE ([#84116](https://github.com/CleverRaven/Cataclysm-DDA/pull/84116))
 * Use 64 bit llvm tools in VS build when 64 bit tools are preferred. ([#84130](https://github.com/CleverRaven/Cataclysm-DDA/pull/84130))
 * Make it possible to check if items are rotten in EoCs ([#84131](https://github.com/CleverRaven/Cataclysm-DDA/pull/84131))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-10-0411 ([78f824b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0411))
-
 * Move ACT_PLANT_SEED handler to activity actor ([#84125](https://github.com/CleverRaven/Cataclysm-DDA/pull/84125))
 * make dry_veggy not dryable ([#84126](https://github.com/CleverRaven/Cataclysm-DDA/pull/84126))
 * Cut the middleman: Washing Kit ([#84094](https://github.com/CleverRaven/Cataclysm-DDA/pull/84094))

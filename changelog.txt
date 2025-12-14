@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-12-14-1937 (213e307)
 * Introduction of failure to damaged items to work for some items (6/?) (#84194)
 * Make overmapbuffer zzip aware (#84150)
 * Rebalance Aikido to emphasize surviving and escaping opponents (#84178)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2025-12-10-0512 (e81dad4)
 * [DDotD/XE] Mi-go appear (rarely) in DDotD/XE (#84116)
 * Use 64 bit llvm tools in VS build when 64 bit tools are preferred. (#84130)
 * Make it possible to check if items are rotten in EoCs (#84131)
-
-Cataclysm-DDA experimental build 2025-12-10-0411 (78f824b)
 * Move ACT_PLANT_SEED handler to activity actor (#84125)
 * make dry_veggy not dryable (#84126)
 * Cut the middleman: Washing Kit (#84094)
