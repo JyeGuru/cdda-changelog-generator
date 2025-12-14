@@ -1,3 +1,5 @@
+* Make overmapbuffer zzip aware ([#84150](https://github.com/CleverRaven/Cataclysm-DDA/pull/84150))
+* Rebalance Aikido to emphasize surviving and escaping opponents ([#84178](https://github.com/CleverRaven/Cataclysm-DDA/pull/84178))
 * Flatten the pride stockings distribution ([#84151](https://github.com/CleverRaven/Cataclysm-DDA/pull/84151))
 
 ---
@@ -214,13 +216,11 @@
 * [ Xedra Evolved ] Time Freeze shouldn't protect from looping wound ([#84076](https://github.com/CleverRaven/Cataclysm-DDA/pull/84076))
 * [ Sky Island, Xedra Evolved ] Rarities and B-sides ([#84072](https://github.com/CleverRaven/Cataclysm-DDA/pull/84072))
 * Upgrade vcpkg baseline ([#84090](https://github.com/CleverRaven/Cataclysm-DDA/pull/84090))
-* [MoM] Remove broken shield belts as separate items ([#84037](https://github.com/CleverRaven/Cataclysm-DDA/pull/84037))
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable ([#84092](https://github.com/CleverRaven/Cataclysm-DDA/pull/84092))
 * Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
 * Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
-* Add proper beer six packs to the game, along with six pack rings ([#84036](https://github.com/CleverRaven/Cataclysm-DDA/pull/84036))
 * Fix masochist morale inconsistency ([#84048](https://github.com/CleverRaven/Cataclysm-DDA/pull/84048))
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
