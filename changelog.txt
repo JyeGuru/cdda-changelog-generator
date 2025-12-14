@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-14-0808 (3ac49af)
+* Introduction of failure to damaged items to work for some items /5/?) (#84182)
+
 Cataclysm-DDA experimental build 2025-12-14-0716 (c2b9f8e)
 * Make permanent effect always at least 1 second long (#84187)
 * [TropiCata] Further cleanup (#84184)
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2025-12-10-0411 (78f824b)
 
 Cataclysm-DDA experimental build 2025-12-10-0215 (d2fdbb9)
 * make dry_veggy not dryable (#84126)
-
-Cataclysm-DDA experimental build 2025-12-10-0050 (3cd8c0b)
 * Cut the middleman: Washing Kit (#84094)
 * Rename "large casters" back into wheels (#84096)
 * Revert save is dirty on QuitNoSave (#84119)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-12-10-0050 (3cd8c0b)
 * fix blood analysis (#84080)
 * fix mod item name inheritance (#84056)
 * [alt-map-key] Add supermarket (#84062)
-* Solar panel appliances don't give infinite nuts and bolts on take down (#84032)
 * [MoM] Extended Channeling rework (#84055)
 * Fix some mutation descriptions to not reference "maintaining" skills (#84039)
 * Move ACT_FISH handler to fish_activity_actor (#84044)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-14-0808 ([3ac49af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-0808))
+
+* Introduction of failure to damaged items to work for some items /5/?) ([#84182](https://github.com/CleverRaven/Cataclysm-DDA/pull/84182))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-14-0716 ([c2b9f8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-0716))
 
 * Make permanent effect always at least 1 second long ([#84187](https://github.com/CleverRaven/Cataclysm-DDA/pull/84187))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-12-10-0215 ([d2fdbb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0215))
 
 * make dry_veggy not dryable ([#84126](https://github.com/CleverRaven/Cataclysm-DDA/pull/84126))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-10-0050 ([3cd8c0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0050))
-
 * Cut the middleman: Washing Kit ([#84094](https://github.com/CleverRaven/Cataclysm-DDA/pull/84094))
 * Rename "large casters" back into wheels ([#84096](https://github.com/CleverRaven/Cataclysm-DDA/pull/84096))
 * Revert save is dirty on QuitNoSave ([#84119](https://github.com/CleverRaven/Cataclysm-DDA/pull/84119))
@@ -229,7 +230,6 @@
 * fix blood analysis ([#84080](https://github.com/CleverRaven/Cataclysm-DDA/pull/84080))
 * fix mod item name inheritance ([#84056](https://github.com/CleverRaven/Cataclysm-DDA/pull/84056))
 * [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
-* Solar panel appliances don't give infinite nuts and bolts on take down ([#84032](https://github.com/CleverRaven/Cataclysm-DDA/pull/84032))
 * [MoM] Extended Channeling rework ([#84055](https://github.com/CleverRaven/Cataclysm-DDA/pull/84055))
 * Fix some mutation descriptions to not reference "maintaining" skills ([#84039](https://github.com/CleverRaven/Cataclysm-DDA/pull/84039))
 * Move ACT_FISH handler to fish_activity_actor ([#84044](https://github.com/CleverRaven/Cataclysm-DDA/pull/84044))
