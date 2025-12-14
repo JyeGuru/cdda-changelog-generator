@@ -1,3 +1,4 @@
+* [DDotD] Laptop rework (#84139)
 
 Cataclysm-DDA experimental build 2025-12-14-0808 (3ac49af)
 * Introduction of failure to damaged items to work for some items /5/?) (#84182)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2025-12-10-0215 (d2fdbb9)
 * Fix masochist morale inconsistency (#84048)
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location (#84052)
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run (#84053)
-* Introduced damage failure risk and message on item transformation use actions (#84034)
 * More fixes to liquids spawning without containers (#84035)
 * MRE toaster pastries don't deserve flavored individual items either (#84060)
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84066)
