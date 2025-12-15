@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-15-1455 ([fa6c237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-15-1455))
+
+* Make single fruit bushes less common, add huckleberry/hobbleberry patches ([#84189](https://github.com/CleverRaven/Cataclysm-DDA/pull/84189))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-14-1937 ([213e307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-1937))
 
 * Introduction of failure to damaged items to work for some items (6/?) ([#84194](https://github.com/CleverRaven/Cataclysm-DDA/pull/84194))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-10-1910 ([8d65878](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-1910))
 
 * [DDotD] Greatly reduce incidence of solar power ([#84127](https://github.com/CleverRaven/Cataclysm-DDA/pull/84127))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-10-0512 ([e81dad4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-0512))
-
 * [DDotD/XE] Mi-go appear (rarely) in DDotD/XE ([#84116](https://github.com/CleverRaven/Cataclysm-DDA/pull/84116))
 * Use 64 bit llvm tools in VS build when 64 bit tools are preferred. ([#84130](https://github.com/CleverRaven/Cataclysm-DDA/pull/84130))
 * Make it possible to check if items are rotten in EoCs ([#84131](https://github.com/CleverRaven/Cataclysm-DDA/pull/84131))
@@ -232,7 +233,6 @@
 * fix mod item name inheritance ([#84056](https://github.com/CleverRaven/Cataclysm-DDA/pull/84056))
 * [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
 * [MoM] Extended Channeling rework ([#84055](https://github.com/CleverRaven/Cataclysm-DDA/pull/84055))
-* Fix some mutation descriptions to not reference "maintaining" skills ([#84039](https://github.com/CleverRaven/Cataclysm-DDA/pull/84039))
 * Move ACT_FISH handler to fish_activity_actor ([#84044](https://github.com/CleverRaven/Cataclysm-DDA/pull/84044))
 * [alt-map-key] README update ([#84065](https://github.com/CleverRaven/Cataclysm-DDA/pull/84065))
 * [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma ([#84067](https://github.com/CleverRaven/Cataclysm-DDA/pull/84067))
