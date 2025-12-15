@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-15-1835 ([1c2caf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-15-1835))
+
+* Doctor's Office Tweaks ([#84209](https://github.com/CleverRaven/Cataclysm-DDA/pull/84209))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-15-1455 ([fa6c237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-15-1455))
 
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches ([#84189](https://github.com/CleverRaven/Cataclysm-DDA/pull/84189))
@@ -191,11 +197,6 @@
 * Weekly Changelog 2025-12-01 to 2025-12-08 ([#84100](https://github.com/CleverRaven/Cataclysm-DDA/pull/84100))
 * [Magiclysm] Change polymorph to a biomancer spell ([#84101](https://github.com/CleverRaven/Cataclysm-DDA/pull/84101))
 * [DDotD] Remove electric cars ([#84129](https://github.com/CleverRaven/Cataclysm-DDA/pull/84129))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-10-1910 ([8d65878](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-1910))
-
 * [DDotD] Greatly reduce incidence of solar power ([#84127](https://github.com/CleverRaven/Cataclysm-DDA/pull/84127))
 * [DDotD/XE] Mi-go appear (rarely) in DDotD/XE ([#84116](https://github.com/CleverRaven/Cataclysm-DDA/pull/84116))
 * Use 64 bit llvm tools in VS build when 64 bit tools are preferred. ([#84130](https://github.com/CleverRaven/Cataclysm-DDA/pull/84130))
@@ -240,4 +241,3 @@
 * Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
 * Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
 * Give the occupied lumberyard some more chainlink gates ([#84041](https://github.com/CleverRaven/Cataclysm-DDA/pull/84041))
-* Pre-emptively kill some exploits related to fire-sound handling ([#84040](https://github.com/CleverRaven/Cataclysm-DDA/pull/84040))
