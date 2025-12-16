@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-16-2326 ([5f1d891](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-2326))
+
+* Move Psychic Scream to rebalance category, add a bit of documentation for modmods  ([#84216](https://github.com/CleverRaven/Cataclysm-DDA/pull/84216))
 * Fix the greeter bot shaking down new contributors for every comment ([#84218](https://github.com/CleverRaven/Cataclysm-DDA/pull/84218))
 
 ---
@@ -186,11 +192,6 @@
 * Introduction of failure to damaged items to work for some items ([#84106](https://github.com/CleverRaven/Cataclysm-DDA/pull/84106))
 * Revert - Remove razor blade tool tags I just added  ([#84112](https://github.com/CleverRaven/Cataclysm-DDA/pull/84112))
 * Show weapon category in item info ([#84124](https://github.com/CleverRaven/Cataclysm-DDA/pull/84124))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-11-0454 ([a5cda41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-0454))
-
 * Add pvc pipes ([#84128](https://github.com/CleverRaven/Cataclysm-DDA/pull/84128))
 * Update debug warnings to reflect #83956 ([#84082](https://github.com/CleverRaven/Cataclysm-DDA/pull/84082))
 * Replace generic steel with any steel lump requirement for stump anvil ([#84135](https://github.com/CleverRaven/Cataclysm-DDA/pull/84135))
@@ -229,7 +230,6 @@
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
 * Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
-* [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
 * MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84066](https://github.com/CleverRaven/Cataclysm-DDA/pull/84066))
 * Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))
