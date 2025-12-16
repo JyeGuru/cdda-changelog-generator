@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-16-0302 ([6e78b3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0302))
+
+* [MoM] Psychic Knacks grant noetic crafting proficiencies ([#84211](https://github.com/CleverRaven/Cataclysm-DDA/pull/84211))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-15-1835 ([1c2caf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-15-1835))
 
 * Doctor's Office Tweaks ([#84209](https://github.com/CleverRaven/Cataclysm-DDA/pull/84209))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-12-10-2041 ([7596e03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-2041))
 
 * Introduction of failure to damaged items to work for some items (2/?) ([#84120](https://github.com/CleverRaven/Cataclysm-DDA/pull/84120))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-10-2000 ([a57db0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-2000))
-
 * [DDotD] Add more items to blacklist / some itemgroup work ([#84122](https://github.com/CleverRaven/Cataclysm-DDA/pull/84122))
 * Weekly Changelog 2025-12-01 to 2025-12-08 ([#84100](https://github.com/CleverRaven/Cataclysm-DDA/pull/84100))
 * [Magiclysm] Change polymorph to a biomancer spell ([#84101](https://github.com/CleverRaven/Cataclysm-DDA/pull/84101))
@@ -240,4 +241,3 @@
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
 * Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
 * Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
-* Give the occupied lumberyard some more chainlink gates ([#84041](https://github.com/CleverRaven/Cataclysm-DDA/pull/84041))
