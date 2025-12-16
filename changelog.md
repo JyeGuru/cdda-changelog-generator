@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-16-0351 ([e35042c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0351))
+
+* Add Mind Over Matter: Psychic Scream mod to the CDDA repository ([#84212](https://github.com/CleverRaven/Cataclysm-DDA/pull/84212))
+* Tests for logistic helpers ([#84152](https://github.com/CleverRaven/Cataclysm-DDA/pull/84152))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-16-0302 ([6e78b3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0302))
 
 * [MoM] Psychic Knacks grant noetic crafting proficiencies ([#84211](https://github.com/CleverRaven/Cataclysm-DDA/pull/84211))
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-12-11-0356 ([64a47fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-0356))
 
 * Actually correct encumbrance of work pants and coveralls ([#84144](https://github.com/CleverRaven/Cataclysm-DDA/pull/84144))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-10-2041 ([7596e03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-10-2041))
-
 * Introduction of failure to damaged items to work for some items (2/?) ([#84120](https://github.com/CleverRaven/Cataclysm-DDA/pull/84120))
 * [DDotD] Add more items to blacklist / some itemgroup work ([#84122](https://github.com/CleverRaven/Cataclysm-DDA/pull/84122))
 * Weekly Changelog 2025-12-01 to 2025-12-08 ([#84100](https://github.com/CleverRaven/Cataclysm-DDA/pull/84100))
@@ -225,7 +227,6 @@
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
 * Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
-* Fix masochist morale inconsistency ([#84048](https://github.com/CleverRaven/Cataclysm-DDA/pull/84048))
 * [Bugfix] Cosmetics not moved to new submap in EOC copy_location ([#84052](https://github.com/CleverRaven/Cataclysm-DDA/pull/84052))
 * [Bugfix] Magiclysm - Magic teleporters expire after EOC 'copy_location' run ([#84053](https://github.com/CleverRaven/Cataclysm-DDA/pull/84053))
 * MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
@@ -235,7 +236,6 @@
 * fix mod item name inheritance ([#84056](https://github.com/CleverRaven/Cataclysm-DDA/pull/84056))
 * [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
 * [MoM] Extended Channeling rework ([#84055](https://github.com/CleverRaven/Cataclysm-DDA/pull/84055))
-* Move ACT_FISH handler to fish_activity_actor ([#84044](https://github.com/CleverRaven/Cataclysm-DDA/pull/84044))
 * [alt-map-key] README update ([#84065](https://github.com/CleverRaven/Cataclysm-DDA/pull/84065))
 * [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma ([#84067](https://github.com/CleverRaven/Cataclysm-DDA/pull/84067))
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
