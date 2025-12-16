@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-16-0610 ([f33b0a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0610))
+
+* Introduction of failure to damaged items to work for some items (7/7) ([#84206](https://github.com/CleverRaven/Cataclysm-DDA/pull/84206))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-16-0351 ([e35042c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0351))
 
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository ([#84212](https://github.com/CleverRaven/Cataclysm-DDA/pull/84212))
@@ -189,11 +195,6 @@
 * Replace generic steel with any steel lump requirement for stump anvil ([#84135](https://github.com/CleverRaven/Cataclysm-DDA/pull/84135))
 * rephrase description of highly vain ([#84143](https://github.com/CleverRaven/Cataclysm-DDA/pull/84143))
 * Add additional log message after LIXA elevator fall ([#84134](https://github.com/CleverRaven/Cataclysm-DDA/pull/84134))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-11-0356 ([64a47fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-0356))
-
 * Actually correct encumbrance of work pants and coveralls ([#84144](https://github.com/CleverRaven/Cataclysm-DDA/pull/84144))
 * Introduction of failure to damaged items to work for some items (2/?) ([#84120](https://github.com/CleverRaven/Cataclysm-DDA/pull/84120))
 * [DDotD] Add more items to blacklist / some itemgroup work ([#84122](https://github.com/CleverRaven/Cataclysm-DDA/pull/84122))
@@ -240,4 +241,3 @@
 * [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma ([#84067](https://github.com/CleverRaven/Cataclysm-DDA/pull/84067))
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
 * Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
-* Aligned water purification recipe/action + update action to active purifying water ([#84051](https://github.com/CleverRaven/Cataclysm-DDA/pull/84051))
