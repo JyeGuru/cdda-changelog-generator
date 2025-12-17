@@ -1,3 +1,7 @@
+* [DDotD] Blacklist Compromised Shelter scenario (#84221)
+
+Cataclysm-DDA experimental build 2025-12-17-0605 (84b912d)
+* Add UNBREAKABLE_MORALE flag, apply it to zombies (#84201)
 
 Cataclysm-DDA experimental build 2025-12-17-0031 (a2ba405)
 * [Magiclysm] Add 'type': 'perceived' to pain equation in spell failure formula (#84219)
@@ -97,8 +101,6 @@ Cataclysm-DDA experimental build 2025-12-12-0145 (1913cb9)
 
 Cataclysm-DDA experimental build 2025-12-11-2243 (e91e5e1)
 * steel-toed sneakers are nylon (#84156)
-
-Cataclysm-DDA experimental build 2025-12-11-1344 (917d600)
 * [DDotD] Add calculator watch / portable cassette player (#84145)
 * Introduction of failure to damaged items to work for some items (#84106)
 * Revert - Remove razor blade tool tags I just added  (#84112)
@@ -145,9 +147,7 @@ Cataclysm-DDA experimental build 2025-12-11-1344 (917d600)
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84066)
 * Move mining activity handlers to activity actors (#84075)
 * fix blood analysis (#84080)
-* fix mod item name inheritance (#84056)
 * [alt-map-key] Add supermarket (#84062)
-* [MoM] Extended Channeling rework (#84055)
 * [alt-map-key] README update (#84065)
 * [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma (#84067)
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness (#84068)
