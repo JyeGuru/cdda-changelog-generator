@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-17-0701 ([ec6109f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-17-0701))
+
 * [DDotD] Blacklist Compromised Shelter scenario ([#84221](https://github.com/CleverRaven/Cataclysm-DDA/pull/84221))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-12-12-0145 ([1913cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0145))
 
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-11-2243 ([e91e5e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-2243))
-
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
 * [DDotD] Add calculator watch / portable cassette player ([#84145](https://github.com/CleverRaven/Cataclysm-DDA/pull/84145))
 * Introduction of failure to damaged items to work for some items ([#84106](https://github.com/CleverRaven/Cataclysm-DDA/pull/84106))
