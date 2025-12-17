@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-17-0031 ([a2ba405](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-17-0031))
+
+* [Magiclysm] Add 'type': 'perceived' to pain equation in spell failure formula ([#84219](https://github.com/CleverRaven/Cataclysm-DDA/pull/84219))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-16-2326 ([5f1d891](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-2326))
 
 * Move Psychic Scream to rebalance category, add a bit of documentation for modmods  ([#84216](https://github.com/CleverRaven/Cataclysm-DDA/pull/84216))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-12-11-1344 ([917d600](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-1344))
 
 * [DDotD] Add calculator watch / portable cassette player ([#84145](https://github.com/CleverRaven/Cataclysm-DDA/pull/84145))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-11-0540 ([308a4d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-11-0540))
-
 * Introduction of failure to damaged items to work for some items ([#84106](https://github.com/CleverRaven/Cataclysm-DDA/pull/84106))
 * Revert - Remove razor blade tool tags I just added  ([#84112](https://github.com/CleverRaven/Cataclysm-DDA/pull/84112))
 * Show weapon category in item info ([#84124](https://github.com/CleverRaven/Cataclysm-DDA/pull/84124))
@@ -240,4 +241,3 @@
 * [alt-map-key] README update ([#84065](https://github.com/CleverRaven/Cataclysm-DDA/pull/84065))
 * [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma ([#84067](https://github.com/CleverRaven/Cataclysm-DDA/pull/84067))
 * [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
-* Don't double move when vehicle traverses ramps ([#84054](https://github.com/CleverRaven/Cataclysm-DDA/pull/84054))
