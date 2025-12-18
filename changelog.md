@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-18-1745 ([ac85951](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-18-1745))
+
+* [MoM] Add more knacks ([#84236](https://github.com/CleverRaven/Cataclysm-DDA/pull/84236))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-12-18-0431 ([84e76bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-18-0431))
 
 * [MoM] Fix negative concentration limit problem ([#84223](https://github.com/CleverRaven/Cataclysm-DDA/pull/84223))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2025-12-12-0407 ([d11c913](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0407))
 
 * [XE/DDotD] Add XE_CLASSIC category, apply it to appropriate XE monsters ([#84140](https://github.com/CleverRaven/Cataclysm-DDA/pull/84140))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-0158 ([f6d0fa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0158))
-
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
@@ -234,7 +235,6 @@
 * Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
-* MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84066](https://github.com/CleverRaven/Cataclysm-DDA/pull/84066))
 * Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))
 * fix blood analysis ([#84080](https://github.com/CleverRaven/Cataclysm-DDA/pull/84080))

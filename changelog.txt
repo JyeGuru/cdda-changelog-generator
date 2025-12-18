@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-18-1745 (ac85951)
+* [MoM] Add more knacks (#84236)
+
 Cataclysm-DDA 0.I release candidate 2025-12-18-0431 (84e76bd)
 * [MoM] Fix negative concentration limit problem (#84223)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2025-12-12-0454 (ecb92fc)
 
 Cataclysm-DDA experimental build 2025-12-12-0407 (d11c913)
 * [XE/DDotD] Add XE_CLASSIC category, apply it to appropriate XE monsters (#84140)
-
-Cataclysm-DDA experimental build 2025-12-12-0158 (f6d0fa3)
 * [DDotD] Albertan trees rework (#84164)
 * Add catalyst to microlab alpha primer vault (#84147)
 * Properly load the region type the game was last saved in (#84163)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2025-12-12-0158 (f6d0fa3)
 * Fix Sourdough bread recipe byproducts (#84087)
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84088)
 * Add failure to use camera and dive tank (#84089)
-* MRE toaster pastries don't deserve flavored individual items either (#84060)
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84066)
 * Move mining activity handlers to activity actors (#84075)
 * fix blood analysis (#84080)
