@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-12-18-0431 ([84e76bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-18-0431))
+
+* [MoM] Fix negative concentration limit problem ([#84223](https://github.com/CleverRaven/Cataclysm-DDA/pull/84223))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-18-0429 ([ed9bcc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-18-0429))
+
+* fix + clarify restricted genetics ([#84227](https://github.com/CleverRaven/Cataclysm-DDA/pull/84227))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-17-0701 ([ec6109f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-17-0701))
 
 * [DDotD] Blacklist Compromised Shelter scenario ([#84221](https://github.com/CleverRaven/Cataclysm-DDA/pull/84221))
@@ -178,17 +190,7 @@
 #### Cataclysm-DDA experimental build 2025-12-12-0158 ([f6d0fa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0158))
 
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-0152 ([d241c93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0152))
-
 * Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-0145 ([1913cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0145))
-
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
 * [DDotD] Add calculator watch / portable cassette player ([#84145](https://github.com/CleverRaven/Cataclysm-DDA/pull/84145))
@@ -232,7 +234,6 @@
 * Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
-* Completely remove the animal food system (not "taming") ([#84058](https://github.com/CleverRaven/Cataclysm-DDA/pull/84058))
 * MRE toaster pastries don't deserve flavored individual items either ([#84060](https://github.com/CleverRaven/Cataclysm-DDA/pull/84060))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84066](https://github.com/CleverRaven/Cataclysm-DDA/pull/84066))
 * Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))
