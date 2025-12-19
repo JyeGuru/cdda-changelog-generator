@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-19-1612 ([3c3e9f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-1612))
+
+* Rework the blood analysis quest ([#84105](https://github.com/CleverRaven/Cataclysm-DDA/pull/84105))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-19-0738 ([286f3ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-0738))
 
 * Butchery blocks corpse rising ([#84210](https://github.com/CleverRaven/Cataclysm-DDA/pull/84210))
@@ -191,11 +197,6 @@
 
 * [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
 * Introduction of failure to damaged items to work for some items (3/?) ([#84141](https://github.com/CleverRaven/Cataclysm-DDA/pull/84141))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-0615 ([399d92b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0615))
-
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
 * Allow XE spell 'To Bless the Sacred Weapon' to work on tempered steel ([#84136](https://github.com/CleverRaven/Cataclysm-DDA/pull/84136))
 * [Crazy Cataclysm] Rename "troglobite" to "gamer" ([#84142](https://github.com/CleverRaven/Cataclysm-DDA/pull/84142))
@@ -243,4 +244,3 @@
 * Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
-* fix blood analysis ([#84080](https://github.com/CleverRaven/Cataclysm-DDA/pull/84080))

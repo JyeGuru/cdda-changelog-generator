@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-19-1612 (3c3e9f6)
+* Rework the blood analysis quest (#84105)
+
 Cataclysm-DDA experimental build 2025-12-19-0738 (286f3ba)
 * Butchery blocks corpse rising (#84210)
 * [MoM] Pyrokinesis artifact crystals (#84213)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-12-12-1631 (d373015)
 Cataclysm-DDA experimental build 2025-12-12-0703 (47d5398)
 * [DDOTD] add some calculator watch snippets and adjust design doc. (#84158)
 * Introduction of failure to damaged items to work for some items (3/?) (#84141)
-
-Cataclysm-DDA experimental build 2025-12-12-0615 (399d92b)
 * [Xedra Evolved] Add two more vampire traits (#84161)
 * Allow XE spell 'To Bless the Sacred Weapon' to work on tempered steel (#84136)
 * [Crazy Cataclysm] Rename "troglobite" to "gamer" (#84142)
@@ -153,4 +154,3 @@ Cataclysm-DDA experimental build 2025-12-12-0615 (399d92b)
 * Fix Sourdough bread recipe byproducts (#84087)
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84088)
 * Add failure to use camera and dive tank (#84089)
-* fix blood analysis (#84080)
