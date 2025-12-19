@@ -1,3 +1,22 @@
+* Butchery blocks corpse rising ([#84210](https://github.com/CleverRaven/Cataclysm-DDA/pull/84210))
+* [MoM] Pyrokinesis artifact crystals ([#84213](https://github.com/CleverRaven/Cataclysm-DDA/pull/84213))
+* Remove JACKHAMMER from auto-mining ([#84215](https://github.com/CleverRaven/Cataclysm-DDA/pull/84215))
+* Remove anvilmancy (the ability to teleport anvils above zombies) ([#84217](https://github.com/CleverRaven/Cataclysm-DDA/pull/84217))
+* nerf neoprene bash resistance to 1.5 ([#84228](https://github.com/CleverRaven/Cataclysm-DDA/pull/84228))
+* Martial Mastery: Poise perkline ([#84233](https://github.com/CleverRaven/Cataclysm-DDA/pull/84233))
+* add radiosphere dimension ([#84234](https://github.com/CleverRaven/Cataclysm-DDA/pull/84234))
+* Add zombies in the supermarket ([#84237](https://github.com/CleverRaven/Cataclysm-DDA/pull/84237))
+* Remove lore doc mention of mi-go in relation to CBMs ([#84240](https://github.com/CleverRaven/Cataclysm-DDA/pull/84240))
+* Rename "Basic" soundpack to "Menu_Sound_Test" ([#84241](https://github.com/CleverRaven/Cataclysm-DDA/pull/84241))
+* DDotD battery overhaul ([#84197](https://github.com/CleverRaven/Cataclysm-DDA/pull/84197))
+* Murdering humans("monsters") is still murdering humans ([#84242](https://github.com/CleverRaven/Cataclysm-DDA/pull/84242))
+* Don't allow character to sell their arms or legs ([#84244](https://github.com/CleverRaven/Cataclysm-DDA/pull/84244))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-19-0653 ([a3c972d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-0653))
+
+* Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
 
 ---
 
@@ -173,22 +192,11 @@
 #### Cataclysm-DDA experimental build 2025-12-12-0615 ([399d92b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0615))
 
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-0454 ([ecb92fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0454))
-
-* make pockets check min-volume against volume of single charge ([#84077](https://github.com/CleverRaven/Cataclysm-DDA/pull/84077))
 * Allow XE spell 'To Bless the Sacred Weapon' to work on tempered steel ([#84136](https://github.com/CleverRaven/Cataclysm-DDA/pull/84136))
 * [Crazy Cataclysm] Rename "troglobite" to "gamer" ([#84142](https://github.com/CleverRaven/Cataclysm-DDA/pull/84142))
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
 * Add an effect for EoCs to be able to browse or unbrowse items ([#84138](https://github.com/CleverRaven/Cataclysm-DDA/pull/84138))
 * Move ACT_VEHICLE handler to vehicle_activity_actor ([#84132](https://github.com/CleverRaven/Cataclysm-DDA/pull/84132))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-0407 ([d11c913](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0407))
-
 * [XE/DDotD] Add XE_CLASSIC category, apply it to appropriate XE monsters ([#84140](https://github.com/CleverRaven/Cataclysm-DDA/pull/84140))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
@@ -219,26 +227,15 @@
 * Rename "large casters" back into wheels ([#84096](https://github.com/CleverRaven/Cataclysm-DDA/pull/84096))
 * Revert save is dirty on QuitNoSave ([#84119](https://github.com/CleverRaven/Cataclysm-DDA/pull/84119))
 * [MoM] Add psi flesh-raptors ([#84111](https://github.com/CleverRaven/Cataclysm-DDA/pull/84111))
-* Clear activity_var on pickup ([#84078](https://github.com/CleverRaven/Cataclysm-DDA/pull/84078))
 * RANGE_DODGE no longer applies to spells, can be applied to monsters ([#84113](https://github.com/CleverRaven/Cataclysm-DDA/pull/84113))
 * [DDotD] Default start is in a cabin, remove evac shelters ([#84117](https://github.com/CleverRaven/Cataclysm-DDA/pull/84117))
 * More fixes to account for vcpkg baseline rev changing ([#84110](https://github.com/CleverRaven/Cataclysm-DDA/pull/84110))
 * Update release vcpkg commit ([#84109](https://github.com/CleverRaven/Cataclysm-DDA/pull/84109))
-* preserve contents when crafting a recipe that upgrades an item ([#84073](https://github.com/CleverRaven/Cataclysm-DDA/pull/84073))
 * restrict follower sleep spot to the same vehicle when player sleeping in a vehicle ([#84097](https://github.com/CleverRaven/Cataclysm-DDA/pull/84097))
 * [Magiclysm] Add a traditional elf house ([#84099](https://github.com/CleverRaven/Cataclysm-DDA/pull/84099))
-* Talk Topic Typo Fix ([#84071](https://github.com/CleverRaven/Cataclysm-DDA/pull/84071))
-* [ Xedra Evolved ] Time Freeze shouldn't protect from looping wound ([#84076](https://github.com/CleverRaven/Cataclysm-DDA/pull/84076))
-* [ Sky Island, Xedra Evolved ] Rarities and B-sides ([#84072](https://github.com/CleverRaven/Cataclysm-DDA/pull/84072))
 * Upgrade vcpkg baseline ([#84090](https://github.com/CleverRaven/Cataclysm-DDA/pull/84090))
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable ([#84092](https://github.com/CleverRaven/Cataclysm-DDA/pull/84092))
 * Fix Sourdough bread recipe byproducts ([#84087](https://github.com/CleverRaven/Cataclysm-DDA/pull/84087))
 * [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84088](https://github.com/CleverRaven/Cataclysm-DDA/pull/84088))
 * Add failure to use camera and dive tank ([#84089](https://github.com/CleverRaven/Cataclysm-DDA/pull/84089))
-* [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. ([#84066](https://github.com/CleverRaven/Cataclysm-DDA/pull/84066))
-* Move mining activity handlers to activity actors ([#84075](https://github.com/CleverRaven/Cataclysm-DDA/pull/84075))
 * fix blood analysis ([#84080](https://github.com/CleverRaven/Cataclysm-DDA/pull/84080))
-* [alt-map-key] Add supermarket ([#84062](https://github.com/CleverRaven/Cataclysm-DDA/pull/84062))
-* [alt-map-key] README update ([#84065](https://github.com/CleverRaven/Cataclysm-DDA/pull/84065))
-* [MoM/Crazy Cataclysm] Feral vitakinetics can inflict you with Ligma ([#84067](https://github.com/CleverRaven/Cataclysm-DDA/pull/84067))
-* [Magiclysm] Elves have a physiological need to spend time in the wilderness ([#84068](https://github.com/CleverRaven/Cataclysm-DDA/pull/84068))
