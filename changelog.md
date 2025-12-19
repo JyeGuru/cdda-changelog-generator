@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-19-0738 ([286f3ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-0738))
+
 * Butchery blocks corpse rising ([#84210](https://github.com/CleverRaven/Cataclysm-DDA/pull/84210))
 * [MoM] Pyrokinesis artifact crystals ([#84213](https://github.com/CleverRaven/Cataclysm-DDA/pull/84213))
 * Remove JACKHAMMER from auto-mining ([#84215](https://github.com/CleverRaven/Cataclysm-DDA/pull/84215))
