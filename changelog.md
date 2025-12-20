@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-20-0112 ([a7a4d3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-0112))
+
+* [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-19-1612 ([3c3e9f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-1612))
 
 * Rework the blood analysis quest ([#84105](https://github.com/CleverRaven/Cataclysm-DDA/pull/84105))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-12-12-1631 ([d373015](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-1631))
 
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-0703 ([47d5398](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-0703))
-
 * [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
 * Introduction of failure to damaged items to work for some items (3/?) ([#84141](https://github.com/CleverRaven/Cataclysm-DDA/pull/84141))
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
@@ -213,7 +214,6 @@
 * Revert - Remove razor blade tool tags I just added  ([#84112](https://github.com/CleverRaven/Cataclysm-DDA/pull/84112))
 * Show weapon category in item info ([#84124](https://github.com/CleverRaven/Cataclysm-DDA/pull/84124))
 * Add pvc pipes ([#84128](https://github.com/CleverRaven/Cataclysm-DDA/pull/84128))
-* Update debug warnings to reflect #83956 ([#84082](https://github.com/CleverRaven/Cataclysm-DDA/pull/84082))
 * Replace generic steel with any steel lump requirement for stump anvil ([#84135](https://github.com/CleverRaven/Cataclysm-DDA/pull/84135))
 * rephrase description of highly vain ([#84143](https://github.com/CleverRaven/Cataclysm-DDA/pull/84143))
 * Add additional log message after LIXA elevator fall ([#84134](https://github.com/CleverRaven/Cataclysm-DDA/pull/84134))
