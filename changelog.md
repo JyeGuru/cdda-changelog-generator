@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-20-0507 ([7737113](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-0507))
+
 * Fixes Cloud Formation and Pressure ([#84245](https://github.com/CleverRaven/Cataclysm-DDA/pull/84245))
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-12-2139 ([de871fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-2139))
 
 * Greatly reduce lone fruit trees in the forest ([#84173](https://github.com/CleverRaven/Cataclysm-DDA/pull/84173))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-1741 ([ec75416](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-1741))
-
 * Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
 * [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
