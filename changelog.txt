@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-20-1524 (e890982)
+* Typo in iuse (#84265)
+
 Cataclysm-DDA experimental build 2025-12-20-0507 (7737113)
 * Fixes Cloud Formation and Pressure (#84245)
 * [Magiclysm] Shapeshifting and druid items (#84247)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-12-13-0424 (4fddb86)
 
 Cataclysm-DDA experimental build 2025-12-12-2342 (efda94d)
 * Fix pvc pipe itemgroups (#84170)
-
-Cataclysm-DDA experimental build 2025-12-12-2139 (de871fe)
 * Greatly reduce lone fruit trees in the forest (#84173)
 * Move dense forest raspberry/strawberry/blueberry spawn to patches (#84166)
 * return early if there are no stats (#84167)
@@ -152,5 +153,4 @@ Cataclysm-DDA experimental build 2025-12-12-2139 (de871fe)
 * Update release vcpkg commit (#84109)
 * restrict follower sleep spot to the same vehicle when player sleeping in a vehicle (#84097)
 * [Magiclysm] Add a traditional elf house (#84099)
-* Upgrade vcpkg baseline (#84090)
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable (#84092)

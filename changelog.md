@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-20-1524 ([e890982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-1524))
+
+* Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-20-0507 ([7737113](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-0507))
 
 * Fixes Cloud Formation and Pressure ([#84245](https://github.com/CleverRaven/Cataclysm-DDA/pull/84245))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-12-2342 ([efda94d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-2342))
 
 * Fix pvc pipe itemgroups ([#84170](https://github.com/CleverRaven/Cataclysm-DDA/pull/84170))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-12-2139 ([de871fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-12-2139))
-
 * Greatly reduce lone fruit trees in the forest ([#84173](https://github.com/CleverRaven/Cataclysm-DDA/pull/84173))
 * Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
@@ -242,5 +243,4 @@
 * Update release vcpkg commit ([#84109](https://github.com/CleverRaven/Cataclysm-DDA/pull/84109))
 * restrict follower sleep spot to the same vehicle when player sleeping in a vehicle ([#84097](https://github.com/CleverRaven/Cataclysm-DDA/pull/84097))
 * [Magiclysm] Add a traditional elf house ([#84099](https://github.com/CleverRaven/Cataclysm-DDA/pull/84099))
-* Upgrade vcpkg baseline ([#84090](https://github.com/CleverRaven/Cataclysm-DDA/pull/84090))
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable ([#84092](https://github.com/CleverRaven/Cataclysm-DDA/pull/84092))
