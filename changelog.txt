@@ -1,3 +1,8 @@
+* Fixes Cloud Formation and Pressure (#84245)
+* [Magiclysm] Shapeshifting and druid items (#84247)
+
+Cataclysm-DDA experimental build 2025-12-20-0414 (1f2b846)
+* add barrel lenght for usp (#84262)
 
 Cataclysm-DDA experimental build 2025-12-20-0112 (a7a4d3b)
 * [DDotD] Movie poster loading screen (#84258)
@@ -103,8 +108,6 @@ Cataclysm-DDA experimental build 2025-12-12-2139 (de871fe)
 
 Cataclysm-DDA experimental build 2025-12-12-1741 (ec75416)
 * Move dense forest raspberry/strawberry/blueberry spawn to patches (#84166)
-
-Cataclysm-DDA experimental build 2025-12-12-1631 (d373015)
 * return early if there are no stats (#84167)
 * [DDOTD] add some calculator watch snippets and adjust design doc. (#84158)
 * Introduction of failure to damaged items to work for some items (3/?) (#84141)
@@ -151,6 +154,3 @@ Cataclysm-DDA experimental build 2025-12-12-1631 (d373015)
 * [Magiclysm] Add a traditional elf house (#84099)
 * Upgrade vcpkg baseline (#84090)
 * [Magiclysm/Bombastic Perks] Metamagic perks are toggleable (#84092)
-* Fix Sourdough bread recipe byproducts (#84087)
-* [Bugfixes] Fixed weight and volume calculations in the insert ui for items counted by charge. (#84088)
-* Add failure to use camera and dive tank (#84089)
