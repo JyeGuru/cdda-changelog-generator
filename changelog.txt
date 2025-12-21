@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-12-21-2208 (39ab21f)
 * Add missing price to book_antho_pl (#84279)
 
 Cataclysm-DDA experimental build 2025-12-21-2125 (ecf72b8)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2025-12-16-0351 (e35042c)
 
 Cataclysm-DDA experimental build 2025-12-16-0302 (6e78b3e)
 * [MoM] Psychic Knacks grant noetic crafting proficiencies (#84211)
-
-Cataclysm-DDA experimental build 2025-12-15-1835 (1c2caf0)
 * Doctor's Office Tweaks (#84209)
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches (#84189)
 * Introduction of failure to damaged items to work for some items (6/?) (#84194)
