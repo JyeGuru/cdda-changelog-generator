@@ -1,3 +1,4 @@
+* [ Sky Island, XE ] Fix my own failings at noticing scenario whitelists (#84146)
 
 Cataclysm-DDA experimental build 2025-12-21-1642 (6fab01f)
 * Make numb work with new murder guilt (#84278)
@@ -107,8 +108,6 @@ Cataclysm-DDA experimental build 2025-12-14-1937 (213e307)
 * Make overmapbuffer zzip aware (#84150)
 * Rebalance Aikido to emphasize surviving and escaping opponents (#84178)
 * Flatten the pride stockings distribution (#84151)
-
-Cataclysm-DDA experimental build 2025-12-14-1853 (e947f2b)
 * [DDotD] Laptop rework (#84139)
 * Introduction of failure to damaged items to work for some items /5/?) (#84182)
 * Make permanent effect always at least 1 second long (#84187)
@@ -152,4 +151,3 @@ Cataclysm-DDA experimental build 2025-12-14-1853 (e947f2b)
 * Move ACT_PLANT_SEED handler to activity actor (#84125)
 * make dry_veggy not dryable (#84126)
 * Revert save is dirty on QuitNoSave (#84119)
-* [DDotD] Default start is in a cabin, remove evac shelters (#84117)

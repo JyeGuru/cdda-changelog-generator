@@ -1,3 +1,4 @@
+* [ Sky Island, XE ] Fix my own failings at noticing scenario whitelists ([#84146](https://github.com/CleverRaven/Cataclysm-DDA/pull/84146))
 
 ---
 
@@ -191,11 +192,6 @@
 * Make overmapbuffer zzip aware ([#84150](https://github.com/CleverRaven/Cataclysm-DDA/pull/84150))
 * Rebalance Aikido to emphasize surviving and escaping opponents ([#84178](https://github.com/CleverRaven/Cataclysm-DDA/pull/84178))
 * Flatten the pride stockings distribution ([#84151](https://github.com/CleverRaven/Cataclysm-DDA/pull/84151))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-14-1853 ([e947f2b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-1853))
-
 * [DDotD] Laptop rework ([#84139](https://github.com/CleverRaven/Cataclysm-DDA/pull/84139))
 * Introduction of failure to damaged items to work for some items /5/?) ([#84182](https://github.com/CleverRaven/Cataclysm-DDA/pull/84182))
 * Make permanent effect always at least 1 second long ([#84187](https://github.com/CleverRaven/Cataclysm-DDA/pull/84187))
@@ -239,4 +235,3 @@
 * Move ACT_PLANT_SEED handler to activity actor ([#84125](https://github.com/CleverRaven/Cataclysm-DDA/pull/84125))
 * make dry_veggy not dryable ([#84126](https://github.com/CleverRaven/Cataclysm-DDA/pull/84126))
 * Revert save is dirty on QuitNoSave ([#84119](https://github.com/CleverRaven/Cataclysm-DDA/pull/84119))
-* [DDotD] Default start is in a cabin, remove evac shelters ([#84117](https://github.com/CleverRaven/Cataclysm-DDA/pull/84117))
