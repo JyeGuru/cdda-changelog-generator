@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-21-1507 (2d77da3)
+* UCRT64 ncurses build fix (#84266)
+
 Cataclysm-DDA experimental build 2025-12-21-0626 (31d2b86)
 * Fix basic typos and spelling errors (#84198)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2025-12-14-0808 (3ac49af)
 Cataclysm-DDA experimental build 2025-12-14-0716 (c2b9f8e)
 * Make permanent effect always at least 1 second long (#84187)
 * [TropiCata] Further cleanup (#84184)
-
-Cataclysm-DDA experimental build 2025-12-14-0632 (4d41630)
 * [TropiCata] Non-native species pruning - Reptiles (#84185)
 * Avoid bitset.set( bit , false) (#84188)
 * allow to extend region feature flag settings (#84175)
@@ -150,6 +151,5 @@ Cataclysm-DDA experimental build 2025-12-14-0632 (4d41630)
 * Move ACT_PLANT_SEED handler to activity actor (#84125)
 * make dry_veggy not dryable (#84126)
 * Revert save is dirty on QuitNoSave (#84119)
-* [MoM] Add psi flesh-raptors (#84111)
 * RANGE_DODGE no longer applies to spells, can be applied to monsters (#84113)
 * [DDotD] Default start is in a cabin, remove evac shelters (#84117)
