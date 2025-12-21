@@ -1,3 +1,7 @@
+* Fix details for Intensify Flames power (#84275)
+
+Cataclysm-DDA experimental build 2025-12-21-0128 (26817e0)
+* Fix failing to route to a tile we're already on during sorting (#84273)
 
 Cataclysm-DDA experimental build 2025-12-20-2147 (fce593a)
 * Remove majority of mutation conflicts from the bionics formerly known as alloy plating (#84229)
@@ -104,8 +108,6 @@ Cataclysm-DDA experimental build 2025-12-13-1446 (302bb35)
 
 Cataclysm-DDA experimental build 2025-12-13-0526 (f0a72f5)
 * Introduction of failure to damaged items to work for some items (4/?) (#84159)
-
-Cataclysm-DDA experimental build 2025-12-13-0424 (4fddb86)
 * Move ACT_BUILD handler to build_construction_activity_actor (#84169)
 * Fix pvc pipe itemgroups (#84170)
 * Greatly reduce lone fruit trees in the forest (#84173)
@@ -144,7 +146,6 @@ Cataclysm-DDA experimental build 2025-12-13-0424 (4fddb86)
 * Make it possible to check if items are rotten in EoCs (#84131)
 * Move ACT_PLANT_SEED handler to activity actor (#84125)
 * make dry_veggy not dryable (#84126)
-* Cut the middleman: Washing Kit (#84094)
 * Rename "large casters" back into wheels (#84096)
 * Revert save is dirty on QuitNoSave (#84119)
 * [MoM] Add psi flesh-raptors (#84111)
