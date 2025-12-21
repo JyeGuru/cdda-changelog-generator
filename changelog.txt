@@ -1,3 +1,7 @@
+* Add missing price to book_antho_pl (#84279)
+
+Cataclysm-DDA experimental build 2025-12-21-2125 (ecf72b8)
+* Fix typos in doc/CONTRIBUTING.md (#84283)
 
 Cataclysm-DDA experimental build 2025-12-21-1924 (a859b8e)
 * Fix zzip_stack cold compaction & flush after compaction (#84274)
@@ -102,8 +106,6 @@ Cataclysm-DDA experimental build 2025-12-16-0302 (6e78b3e)
 
 Cataclysm-DDA experimental build 2025-12-15-1835 (1c2caf0)
 * Doctor's Office Tweaks (#84209)
-
-Cataclysm-DDA experimental build 2025-12-15-1455 (fa6c237)
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches (#84189)
 * Introduction of failure to damaged items to work for some items (6/?) (#84194)
 * Make overmapbuffer zzip aware (#84150)
@@ -143,8 +145,6 @@ Cataclysm-DDA experimental build 2025-12-15-1455 (fa6c237)
 * rephrase description of highly vain (#84143)
 * Add additional log message after LIXA elevator fall (#84134)
 * Actually correct encumbrance of work pants and coveralls (#84144)
-* Introduction of failure to damaged items to work for some items (2/?) (#84120)
-* [DDotD] Add more items to blacklist / some itemgroup work (#84122)
 * [DDotD] Remove electric cars (#84129)
 * [DDotD] Greatly reduce incidence of solar power (#84127)
 * Use 64 bit llvm tools in VS build when 64 bit tools are preferred. (#84130)
