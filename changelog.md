@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-21-0213 ([7521b4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0213))
+
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-13-1446 ([302bb35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-1446))
 
 * Nerf betavoltaic cell price by 50x ([#84177](https://github.com/CleverRaven/Cataclysm-DDA/pull/84177))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-13-0526 ([f0a72f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-0526))
-
 * Introduction of failure to damaged items to work for some items (4/?) ([#84159](https://github.com/CleverRaven/Cataclysm-DDA/pull/84159))
 * Move ACT_BUILD handler to build_construction_activity_actor ([#84169](https://github.com/CleverRaven/Cataclysm-DDA/pull/84169))
 * Fix pvc pipe itemgroups ([#84170](https://github.com/CleverRaven/Cataclysm-DDA/pull/84170))
