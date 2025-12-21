@@ -240,4 +240,3 @@
 * [MoM] Add psi flesh-raptors ([#84111](https://github.com/CleverRaven/Cataclysm-DDA/pull/84111))
 * RANGE_DODGE no longer applies to spells, can be applied to monsters ([#84113](https://github.com/CleverRaven/Cataclysm-DDA/pull/84113))
 * [DDotD] Default start is in a cabin, remove evac shelters ([#84117](https://github.com/CleverRaven/Cataclysm-DDA/pull/84117))
-* More fixes to account for vcpkg baseline rev changing ([#84110](https://github.com/CleverRaven/Cataclysm-DDA/pull/84110))
