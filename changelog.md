@@ -1,3 +1,16 @@
+* Optimize pinyin search (updating pinyin_data.hpp) ([#84149](https://github.com/CleverRaven/Cataclysm-DDA/pull/84149))
+* [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84259](https://github.com/CleverRaven/Cataclysm-DDA/pull/84259))
+* Weekly Changelog 2025-12-08 to 2025-12-15 ([#84200](https://github.com/CleverRaven/Cataclysm-DDA/pull/84200))
+* map boards display a map behind glass so just make them readable ([#84253](https://github.com/CleverRaven/Cataclysm-DDA/pull/84253))
+* Move ACT_WAIT handlers to activity_actors ([#84263](https://github.com/CleverRaven/Cataclysm-DDA/pull/84263))
+* If gunmod is a gun itself, do not replace it's barrel length ([#84261](https://github.com/CleverRaven/Cataclysm-DDA/pull/84261))
+* Getting hurt is bad for your long-term health ([#84277](https://github.com/CleverRaven/Cataclysm-DDA/pull/84277))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-21-0500 ([e832608](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0500))
+
+* Allow overriding in snippets definitions ([#84276](https://github.com/CleverRaven/Cataclysm-DDA/pull/84276))
 
 ---
 
@@ -41,12 +54,6 @@
 #### Cataclysm-DDA experimental build 2025-12-20-0112 ([a7a4d3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-0112))
 
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-19-1612 ([3c3e9f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-1612))
-
-* Rework the blood analysis quest ([#84105](https://github.com/CleverRaven/Cataclysm-DDA/pull/84105))
 
 ---
 
@@ -191,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2025-12-13-2307 ([12c9d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-2307))
 
 * allow to extend region feature flag settings ([#84175](https://github.com/CleverRaven/Cataclysm-DDA/pull/84175))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-13-1446 ([302bb35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-1446))
-
 * Nerf betavoltaic cell price by 50x ([#84177](https://github.com/CleverRaven/Cataclysm-DDA/pull/84177))
 * Introduction of failure to damaged items to work for some items (4/?) ([#84159](https://github.com/CleverRaven/Cataclysm-DDA/pull/84159))
 * Move ACT_BUILD handler to build_construction_activity_actor ([#84169](https://github.com/CleverRaven/Cataclysm-DDA/pull/84169))
@@ -227,8 +229,6 @@
 * Actually correct encumbrance of work pants and coveralls ([#84144](https://github.com/CleverRaven/Cataclysm-DDA/pull/84144))
 * Introduction of failure to damaged items to work for some items (2/?) ([#84120](https://github.com/CleverRaven/Cataclysm-DDA/pull/84120))
 * [DDotD] Add more items to blacklist / some itemgroup work ([#84122](https://github.com/CleverRaven/Cataclysm-DDA/pull/84122))
-* Weekly Changelog 2025-12-01 to 2025-12-08 ([#84100](https://github.com/CleverRaven/Cataclysm-DDA/pull/84100))
-* [Magiclysm] Change polymorph to a biomancer spell ([#84101](https://github.com/CleverRaven/Cataclysm-DDA/pull/84101))
 * [DDotD] Remove electric cars ([#84129](https://github.com/CleverRaven/Cataclysm-DDA/pull/84129))
 * [DDotD] Greatly reduce incidence of solar power ([#84127](https://github.com/CleverRaven/Cataclysm-DDA/pull/84127))
 * [DDotD/XE] Mi-go appear (rarely) in DDotD/XE ([#84116](https://github.com/CleverRaven/Cataclysm-DDA/pull/84116))
@@ -236,12 +236,9 @@
 * Make it possible to check if items are rotten in EoCs ([#84131](https://github.com/CleverRaven/Cataclysm-DDA/pull/84131))
 * Move ACT_PLANT_SEED handler to activity actor ([#84125](https://github.com/CleverRaven/Cataclysm-DDA/pull/84125))
 * make dry_veggy not dryable ([#84126](https://github.com/CleverRaven/Cataclysm-DDA/pull/84126))
-* Rename "large casters" back into wheels ([#84096](https://github.com/CleverRaven/Cataclysm-DDA/pull/84096))
 * Revert save is dirty on QuitNoSave ([#84119](https://github.com/CleverRaven/Cataclysm-DDA/pull/84119))
 * [MoM] Add psi flesh-raptors ([#84111](https://github.com/CleverRaven/Cataclysm-DDA/pull/84111))
 * RANGE_DODGE no longer applies to spells, can be applied to monsters ([#84113](https://github.com/CleverRaven/Cataclysm-DDA/pull/84113))
 * [DDotD] Default start is in a cabin, remove evac shelters ([#84117](https://github.com/CleverRaven/Cataclysm-DDA/pull/84117))
 * More fixes to account for vcpkg baseline rev changing ([#84110](https://github.com/CleverRaven/Cataclysm-DDA/pull/84110))
 * Update release vcpkg commit ([#84109](https://github.com/CleverRaven/Cataclysm-DDA/pull/84109))
-* restrict follower sleep spot to the same vehicle when player sleeping in a vehicle ([#84097](https://github.com/CleverRaven/Cataclysm-DDA/pull/84097))
-* [Magiclysm] Add a traditional elf house ([#84099](https://github.com/CleverRaven/Cataclysm-DDA/pull/84099))
