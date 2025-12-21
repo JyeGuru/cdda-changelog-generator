@@ -1,3 +1,4 @@
+* Fix zzip_stack cold compaction & flush after compaction ([#84274](https://github.com/CleverRaven/Cataclysm-DDA/pull/84274))
 * [ Sky Island, XE ] Fix my own failings at noticing scenario whitelists ([#84146](https://github.com/CleverRaven/Cataclysm-DDA/pull/84146))
 
 ---
@@ -234,4 +235,3 @@
 * Make it possible to check if items are rotten in EoCs ([#84131](https://github.com/CleverRaven/Cataclysm-DDA/pull/84131))
 * Move ACT_PLANT_SEED handler to activity actor ([#84125](https://github.com/CleverRaven/Cataclysm-DDA/pull/84125))
 * make dry_veggy not dryable ([#84126](https://github.com/CleverRaven/Cataclysm-DDA/pull/84126))
-* Revert save is dirty on QuitNoSave ([#84119](https://github.com/CleverRaven/Cataclysm-DDA/pull/84119))

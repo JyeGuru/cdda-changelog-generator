@@ -1,3 +1,4 @@
+* Fix zzip_stack cold compaction & flush after compaction (#84274)
 * [ Sky Island, XE ] Fix my own failings at noticing scenario whitelists (#84146)
 
 Cataclysm-DDA experimental build 2025-12-21-1642 (6fab01f)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-12-14-1937 (213e307)
 * Make it possible to check if items are rotten in EoCs (#84131)
 * Move ACT_PLANT_SEED handler to activity actor (#84125)
 * make dry_veggy not dryable (#84126)
-* Revert save is dirty on QuitNoSave (#84119)
