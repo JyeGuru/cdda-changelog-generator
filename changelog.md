@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-21-0626 ([31d2b86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0626))
+
 * Fix basic typos and spelling errors ([#84198](https://github.com/CleverRaven/Cataclysm-DDA/pull/84198))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-14-0632 ([4d41630](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-0632))
 
 * [TropiCata] Non-native species pruning - Reptiles ([#84185](https://github.com/CleverRaven/Cataclysm-DDA/pull/84185))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-14-0331 ([795567a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-0331))
-
 * Avoid bitset.set( bit , false) ([#84188](https://github.com/CleverRaven/Cataclysm-DDA/pull/84188))
 * allow to extend region feature flag settings ([#84175](https://github.com/CleverRaven/Cataclysm-DDA/pull/84175))
 * Nerf betavoltaic cell price by 50x ([#84177](https://github.com/CleverRaven/Cataclysm-DDA/pull/84177))
