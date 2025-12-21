@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-21-1642 ([6fab01f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-1642))
+
 * Make numb work with new murder guilt ([#84278](https://github.com/CleverRaven/Cataclysm-DDA/pull/84278))
 * Sensible mobile weather stations + things to do with them ([#84226](https://github.com/CleverRaven/Cataclysm-DDA/pull/84226))
 
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-14-1853 ([e947f2b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-1853))
 
 * [DDotD] Laptop rework ([#84139](https://github.com/CleverRaven/Cataclysm-DDA/pull/84139))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-14-0808 ([3ac49af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-0808))
-
 * Introduction of failure to damaged items to work for some items /5/?) ([#84182](https://github.com/CleverRaven/Cataclysm-DDA/pull/84182))
 * Make permanent effect always at least 1 second long ([#84187](https://github.com/CleverRaven/Cataclysm-DDA/pull/84187))
 * [TropiCata] Further cleanup ([#84184](https://github.com/CleverRaven/Cataclysm-DDA/pull/84184))
