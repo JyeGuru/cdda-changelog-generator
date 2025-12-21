@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-21-0544 ([60988dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0544))
+
 * Optimize pinyin search (updating pinyin_data.hpp) ([#84149](https://github.com/CleverRaven/Cataclysm-DDA/pull/84149))
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84259](https://github.com/CleverRaven/Cataclysm-DDA/pull/84259))
 * Weekly Changelog 2025-12-08 to 2025-12-15 ([#84200](https://github.com/CleverRaven/Cataclysm-DDA/pull/84200))
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-14-0331 ([795567a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-0331))
 
 * Avoid bitset.set( bit , false) ([#84188](https://github.com/CleverRaven/Cataclysm-DDA/pull/84188))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-13-2307 ([12c9d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-13-2307))
-
 * allow to extend region feature flag settings ([#84175](https://github.com/CleverRaven/Cataclysm-DDA/pull/84175))
 * Nerf betavoltaic cell price by 50x ([#84177](https://github.com/CleverRaven/Cataclysm-DDA/pull/84177))
 * Introduction of failure to damaged items to work for some items (4/?) ([#84159](https://github.com/CleverRaven/Cataclysm-DDA/pull/84159))
