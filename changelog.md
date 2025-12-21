@@ -1,3 +1,4 @@
+* Fix basic typos and spelling errors ([#84198](https://github.com/CleverRaven/Cataclysm-DDA/pull/84198))
 
 ---
 
@@ -219,7 +220,6 @@
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
 * [DDotD] Add calculator watch / portable cassette player ([#84145](https://github.com/CleverRaven/Cataclysm-DDA/pull/84145))
-* Introduction of failure to damaged items to work for some items ([#84106](https://github.com/CleverRaven/Cataclysm-DDA/pull/84106))
 * Revert - Remove razor blade tool tags I just added  ([#84112](https://github.com/CleverRaven/Cataclysm-DDA/pull/84112))
 * Show weapon category in item info ([#84124](https://github.com/CleverRaven/Cataclysm-DDA/pull/84124))
 * Add pvc pipes ([#84128](https://github.com/CleverRaven/Cataclysm-DDA/pull/84128))
