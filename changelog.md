@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-21-1924 ([a859b8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-1924))
+
 * Fix zzip_stack cold compaction & flush after compaction ([#84274](https://github.com/CleverRaven/Cataclysm-DDA/pull/84274))
 * [ Sky Island, XE ] Fix my own failings at noticing scenario whitelists ([#84146](https://github.com/CleverRaven/Cataclysm-DDA/pull/84146))
 
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2025-12-15-1455 ([fa6c237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-15-1455))
 
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches ([#84189](https://github.com/CleverRaven/Cataclysm-DDA/pull/84189))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-14-1937 ([213e307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-14-1937))
-
 * Introduction of failure to damaged items to work for some items (6/?) ([#84194](https://github.com/CleverRaven/Cataclysm-DDA/pull/84194))
 * Make overmapbuffer zzip aware ([#84150](https://github.com/CleverRaven/Cataclysm-DDA/pull/84150))
 * Rebalance Aikido to emphasize surviving and escaping opponents ([#84178](https://github.com/CleverRaven/Cataclysm-DDA/pull/84178))
