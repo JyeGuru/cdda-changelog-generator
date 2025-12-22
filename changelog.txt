@@ -101,8 +101,6 @@ Cataclysm-DDA experimental build 2025-12-17-0031 (a2ba405)
 Cataclysm-DDA experimental build 2025-12-16-2326 (5f1d891)
 * Move Psychic Scream to rebalance category, add a bit of documentation for modmods  (#84216)
 * Fix the greeter bot shaking down new contributors for every comment (#84218)
-
-Cataclysm-DDA experimental build 2025-12-16-0610 (f33b0a5)
 * Introduction of failure to damaged items to work for some items (7/7) (#84206)
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository (#84212)
 * Tests for logistic helpers (#84152)

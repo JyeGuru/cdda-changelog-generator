@@ -182,11 +182,6 @@
 
 * Move Psychic Scream to rebalance category, add a bit of documentation for modmods  ([#84216](https://github.com/CleverRaven/Cataclysm-DDA/pull/84216))
 * Fix the greeter bot shaking down new contributors for every comment ([#84218](https://github.com/CleverRaven/Cataclysm-DDA/pull/84218))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-16-0610 ([f33b0a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0610))
-
 * Introduction of failure to damaged items to work for some items (7/7) ([#84206](https://github.com/CleverRaven/Cataclysm-DDA/pull/84206))
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository ([#84212](https://github.com/CleverRaven/Cataclysm-DDA/pull/84212))
 * Tests for logistic helpers ([#84152](https://github.com/CleverRaven/Cataclysm-DDA/pull/84152))
