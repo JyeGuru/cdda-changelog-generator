@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-22-2112 ([1f5c53a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-22-2112))
+
+* Fix --world on empty worlds ([#84293](https://github.com/CleverRaven/Cataclysm-DDA/pull/84293))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-22-1626 ([bbf3cb6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-22-1626))
 
 * Allow fields to track their sources (i.e. who started a fire) ([#84246](https://github.com/CleverRaven/Cataclysm-DDA/pull/84246))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-12-17-0701 ([ec6109f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-17-0701))
 
 * [DDotD] Blacklist Compromised Shelter scenario ([#84221](https://github.com/CleverRaven/Cataclysm-DDA/pull/84221))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-17-0605 ([84b912d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-17-0605))
-
 * Add UNBREAKABLE_MORALE flag, apply it to zombies ([#84201](https://github.com/CleverRaven/Cataclysm-DDA/pull/84201))
 * [Magiclysm] Add 'type': 'perceived' to pain equation in spell failure formula ([#84219](https://github.com/CleverRaven/Cataclysm-DDA/pull/84219))
 * Move Psychic Scream to rebalance category, add a bit of documentation for modmods  ([#84216](https://github.com/CleverRaven/Cataclysm-DDA/pull/84216))
@@ -226,5 +227,4 @@
 * rephrase description of highly vain ([#84143](https://github.com/CleverRaven/Cataclysm-DDA/pull/84143))
 * Add additional log message after LIXA elevator fall ([#84134](https://github.com/CleverRaven/Cataclysm-DDA/pull/84134))
 * Actually correct encumbrance of work pants and coveralls ([#84144](https://github.com/CleverRaven/Cataclysm-DDA/pull/84144))
-* Use 64 bit llvm tools in VS build when 64 bit tools are preferred. ([#84130](https://github.com/CleverRaven/Cataclysm-DDA/pull/84130))
 * Make it possible to check if items are rotten in EoCs ([#84131](https://github.com/CleverRaven/Cataclysm-DDA/pull/84131))
