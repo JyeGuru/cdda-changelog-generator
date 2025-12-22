@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-22-1152 (acb311f)
+* Require metal melting tools for melting metal (#84252)
+
 Cataclysm-DDA experimental build 2025-12-22-0318 (1ec15a9)
 * [MoM] fix photokinetic_light_image max_damage (#84286)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2025-12-17-0605 (84b912d)
 
 Cataclysm-DDA experimental build 2025-12-17-0031 (a2ba405)
 * [Magiclysm] Add 'type': 'perceived' to pain equation in spell failure formula (#84219)
-
-Cataclysm-DDA experimental build 2025-12-16-2326 (5f1d891)
 * Move Psychic Scream to rebalance category, add a bit of documentation for modmods  (#84216)
 * Fix the greeter bot shaking down new contributors for every comment (#84218)
 * Introduction of failure to damaged items to work for some items (7/7) (#84206)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2025-12-16-2326 (5f1d891)
 * [DDotD] Greatly reduce incidence of solar power (#84127)
 * Use 64 bit llvm tools in VS build when 64 bit tools are preferred. (#84130)
 * Make it possible to check if items are rotten in EoCs (#84131)
-* make dry_veggy not dryable (#84126)
