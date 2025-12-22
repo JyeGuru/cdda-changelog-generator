@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2025-12-22-0318 (1ec15a9)
+* [MoM] fix photokinetic_light_image max_damage (#84286)
+
+Cataclysm-DDA 0.I release candidate 2025-12-22-0317 (cab8e9d)
+* Backport some zzip fixes to 0.I (#84287)
+
 Cataclysm-DDA experimental build 2025-12-21-2208 (39ab21f)
 * Add missing price to book_antho_pl (#84279)
 
@@ -98,12 +104,8 @@ Cataclysm-DDA experimental build 2025-12-16-2326 (5f1d891)
 
 Cataclysm-DDA experimental build 2025-12-16-0610 (f33b0a5)
 * Introduction of failure to damaged items to work for some items (7/7) (#84206)
-
-Cataclysm-DDA experimental build 2025-12-16-0351 (e35042c)
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository (#84212)
 * Tests for logistic helpers (#84152)
-
-Cataclysm-DDA experimental build 2025-12-16-0302 (6e78b3e)
 * [MoM] Psychic Knacks grant noetic crafting proficiencies (#84211)
 * Doctor's Office Tweaks (#84209)
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches (#84189)
@@ -139,7 +141,6 @@ Cataclysm-DDA experimental build 2025-12-16-0302 (6e78b3e)
 * Properly load the region type the game was last saved in (#84163)
 * steel-toed sneakers are nylon (#84156)
 * [DDotD] Add calculator watch / portable cassette player (#84145)
-* Show weapon category in item info (#84124)
 * Add pvc pipes (#84128)
 * Replace generic steel with any steel lump requirement for stump anvil (#84135)
 * rephrase description of highly vain (#84143)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2025-12-16-0302 (6e78b3e)
 * [DDotD] Greatly reduce incidence of solar power (#84127)
 * Use 64 bit llvm tools in VS build when 64 bit tools are preferred. (#84130)
 * Make it possible to check if items are rotten in EoCs (#84131)
-* Move ACT_PLANT_SEED handler to activity actor (#84125)
 * make dry_veggy not dryable (#84126)

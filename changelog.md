@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-22-0318 ([1ec15a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-22-0318))
+
+* [MoM] fix photokinetic_light_image max_damage ([#84286](https://github.com/CleverRaven/Cataclysm-DDA/pull/84286))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2025-12-22-0317 ([cab8e9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-22-0317))
+
+* Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-21-2208 ([39ab21f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-2208))
 
 * Add missing price to book_antho_pl ([#84279](https://github.com/CleverRaven/Cataclysm-DDA/pull/84279))
@@ -176,18 +188,8 @@
 #### Cataclysm-DDA experimental build 2025-12-16-0610 ([f33b0a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0610))
 
 * Introduction of failure to damaged items to work for some items (7/7) ([#84206](https://github.com/CleverRaven/Cataclysm-DDA/pull/84206))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-16-0351 ([e35042c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0351))
-
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository ([#84212](https://github.com/CleverRaven/Cataclysm-DDA/pull/84212))
 * Tests for logistic helpers ([#84152](https://github.com/CleverRaven/Cataclysm-DDA/pull/84152))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-16-0302 ([6e78b3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-16-0302))
-
 * [MoM] Psychic Knacks grant noetic crafting proficiencies ([#84211](https://github.com/CleverRaven/Cataclysm-DDA/pull/84211))
 * Doctor's Office Tweaks ([#84209](https://github.com/CleverRaven/Cataclysm-DDA/pull/84209))
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches ([#84189](https://github.com/CleverRaven/Cataclysm-DDA/pull/84189))
@@ -223,7 +225,6 @@
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
 * [DDotD] Add calculator watch / portable cassette player ([#84145](https://github.com/CleverRaven/Cataclysm-DDA/pull/84145))
-* Show weapon category in item info ([#84124](https://github.com/CleverRaven/Cataclysm-DDA/pull/84124))
 * Add pvc pipes ([#84128](https://github.com/CleverRaven/Cataclysm-DDA/pull/84128))
 * Replace generic steel with any steel lump requirement for stump anvil ([#84135](https://github.com/CleverRaven/Cataclysm-DDA/pull/84135))
 * rephrase description of highly vain ([#84143](https://github.com/CleverRaven/Cataclysm-DDA/pull/84143))
@@ -233,5 +234,4 @@
 * [DDotD] Greatly reduce incidence of solar power ([#84127](https://github.com/CleverRaven/Cataclysm-DDA/pull/84127))
 * Use 64 bit llvm tools in VS build when 64 bit tools are preferred. ([#84130](https://github.com/CleverRaven/Cataclysm-DDA/pull/84130))
 * Make it possible to check if items are rotten in EoCs ([#84131](https://github.com/CleverRaven/Cataclysm-DDA/pull/84131))
-* Move ACT_PLANT_SEED handler to activity actor ([#84125](https://github.com/CleverRaven/Cataclysm-DDA/pull/84125))
 * make dry_veggy not dryable ([#84126](https://github.com/CleverRaven/Cataclysm-DDA/pull/84126))
