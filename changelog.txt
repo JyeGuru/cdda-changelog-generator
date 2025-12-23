@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-12-23-0616 (7c95b95)
 * Streamline damage application (#84157)
 * Update holdout_pocket.json (#84264)
 * [MoM] Add speech snippets for PHAVIAN scientists (#84296)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2025-12-19-0653 (a3c972d)
 
 Cataclysm-DDA experimental build 2025-12-18-1745 (ac85951)
 * [MoM] Add more knacks (#84236)
-
-Cataclysm-DDA 0.I release candidate 2025-12-18-0431 (84e76bd)
 * [MoM] Fix negative concentration limit problem (#84223)
 
 Cataclysm-DDA experimental build 2025-12-18-0429 (ed9bcc4)

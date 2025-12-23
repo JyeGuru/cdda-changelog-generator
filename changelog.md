@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-23-0616 ([7c95b95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-0616))
+
 * Streamline damage application ([#84157](https://github.com/CleverRaven/Cataclysm-DDA/pull/84157))
 * Update holdout_pocket.json ([#84264](https://github.com/CleverRaven/Cataclysm-DDA/pull/84264))
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-12-18-1745 ([ac85951](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-18-1745))
 
 * [MoM] Add more knacks ([#84236](https://github.com/CleverRaven/Cataclysm-DDA/pull/84236))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-12-18-0431 ([84e76bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-18-0431))
-
 * [MoM] Fix negative concentration limit problem ([#84223](https://github.com/CleverRaven/Cataclysm-DDA/pull/84223))
 
 ---
