@@ -219,7 +219,6 @@
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
 * [Crazy Cataclysm] Rename "troglobite" to "gamer" ([#84142](https://github.com/CleverRaven/Cataclysm-DDA/pull/84142))
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
-* Add an effect for EoCs to be able to browse or unbrowse items ([#84138](https://github.com/CleverRaven/Cataclysm-DDA/pull/84138))
 * [XE/DDotD] Add XE_CLASSIC category, apply it to appropriate XE monsters ([#84140](https://github.com/CleverRaven/Cataclysm-DDA/pull/84140))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
