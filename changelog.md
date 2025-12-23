@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2025-12-23-1532 ([a0a3b49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-23-1532))
+
+* [0.I backport] Completely remove the animal food system ([#84191](https://github.com/CleverRaven/Cataclysm-DDA/pull/84191))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-23-0616 ([7c95b95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-0616))
 
 * Streamline damage application ([#84157](https://github.com/CleverRaven/Cataclysm-DDA/pull/84157))
@@ -178,11 +184,6 @@
 
 * [MoM] Add more knacks ([#84236](https://github.com/CleverRaven/Cataclysm-DDA/pull/84236))
 * [MoM] Fix negative concentration limit problem ([#84223](https://github.com/CleverRaven/Cataclysm-DDA/pull/84223))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-18-0429 ([ed9bcc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-18-0429))
-
 * fix + clarify restricted genetics ([#84227](https://github.com/CleverRaven/Cataclysm-DDA/pull/84227))
 * [DDotD] Blacklist Compromised Shelter scenario ([#84221](https://github.com/CleverRaven/Cataclysm-DDA/pull/84221))
 * Add UNBREAKABLE_MORALE flag, apply it to zombies ([#84201](https://github.com/CleverRaven/Cataclysm-DDA/pull/84201))
@@ -216,7 +217,6 @@
 * [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
 * Introduction of failure to damaged items to work for some items (3/?) ([#84141](https://github.com/CleverRaven/Cataclysm-DDA/pull/84141))
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
-* Allow XE spell 'To Bless the Sacred Weapon' to work on tempered steel ([#84136](https://github.com/CleverRaven/Cataclysm-DDA/pull/84136))
 * [Crazy Cataclysm] Rename "troglobite" to "gamer" ([#84142](https://github.com/CleverRaven/Cataclysm-DDA/pull/84142))
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
 * Add an effect for EoCs to be able to browse or unbrowse items ([#84138](https://github.com/CleverRaven/Cataclysm-DDA/pull/84138))
