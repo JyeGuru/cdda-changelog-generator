@@ -1,3 +1,12 @@
+* Streamline damage application ([#84157](https://github.com/CleverRaven/Cataclysm-DDA/pull/84157))
+* Update holdout_pocket.json ([#84264](https://github.com/CleverRaven/Cataclysm-DDA/pull/84264))
+* [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-23-0532 ([ea618a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-0532))
+
+* Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
 
 ---
 
@@ -175,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2025-12-18-0429 ([ed9bcc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-18-0429))
 
 * fix + clarify restricted genetics ([#84227](https://github.com/CleverRaven/Cataclysm-DDA/pull/84227))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-17-0701 ([ec6109f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-17-0701))
-
 * [DDotD] Blacklist Compromised Shelter scenario ([#84221](https://github.com/CleverRaven/Cataclysm-DDA/pull/84221))
 * Add UNBREAKABLE_MORALE flag, apply it to zombies ([#84201](https://github.com/CleverRaven/Cataclysm-DDA/pull/84201))
 * [Magiclysm] Add 'type': 'perceived' to pain equation in spell failure formula ([#84219](https://github.com/CleverRaven/Cataclysm-DDA/pull/84219))
@@ -216,15 +220,11 @@
 * [Crazy Cataclysm] Rename "troglobite" to "gamer" ([#84142](https://github.com/CleverRaven/Cataclysm-DDA/pull/84142))
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
 * Add an effect for EoCs to be able to browse or unbrowse items ([#84138](https://github.com/CleverRaven/Cataclysm-DDA/pull/84138))
-* Move ACT_VEHICLE handler to vehicle_activity_actor ([#84132](https://github.com/CleverRaven/Cataclysm-DDA/pull/84132))
 * [XE/DDotD] Add XE_CLASSIC category, apply it to appropriate XE monsters ([#84140](https://github.com/CleverRaven/Cataclysm-DDA/pull/84140))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
 * [DDotD] Add calculator watch / portable cassette player ([#84145](https://github.com/CleverRaven/Cataclysm-DDA/pull/84145))
-* Replace generic steel with any steel lump requirement for stump anvil ([#84135](https://github.com/CleverRaven/Cataclysm-DDA/pull/84135))
 * rephrase description of highly vain ([#84143](https://github.com/CleverRaven/Cataclysm-DDA/pull/84143))
-* Add additional log message after LIXA elevator fall ([#84134](https://github.com/CleverRaven/Cataclysm-DDA/pull/84134))
 * Actually correct encumbrance of work pants and coveralls ([#84144](https://github.com/CleverRaven/Cataclysm-DDA/pull/84144))
-* Make it possible to check if items are rotten in EoCs ([#84131](https://github.com/CleverRaven/Cataclysm-DDA/pull/84131))
