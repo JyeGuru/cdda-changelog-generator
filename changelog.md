@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-23-2135 ([d76266a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-2135))
+
+* Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2025-12-23-1532 ([a0a3b49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-23-1532))
 
 * [0.I backport] Completely remove the animal food system ([#84191](https://github.com/CleverRaven/Cataclysm-DDA/pull/84191))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-12-19-0653 ([a3c972d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-0653))
 
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-18-1745 ([ac85951](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-18-1745))
-
 * [MoM] Add more knacks ([#84236](https://github.com/CleverRaven/Cataclysm-DDA/pull/84236))
 * [MoM] Fix negative concentration limit problem ([#84223](https://github.com/CleverRaven/Cataclysm-DDA/pull/84223))
 * fix + clarify restricted genetics ([#84227](https://github.com/CleverRaven/Cataclysm-DDA/pull/84227))
@@ -200,7 +201,6 @@
 * Make overmapbuffer zzip aware ([#84150](https://github.com/CleverRaven/Cataclysm-DDA/pull/84150))
 * Rebalance Aikido to emphasize surviving and escaping opponents ([#84178](https://github.com/CleverRaven/Cataclysm-DDA/pull/84178))
 * Flatten the pride stockings distribution ([#84151](https://github.com/CleverRaven/Cataclysm-DDA/pull/84151))
-* [DDotD] Laptop rework ([#84139](https://github.com/CleverRaven/Cataclysm-DDA/pull/84139))
 * Introduction of failure to damaged items to work for some items /5/?) ([#84182](https://github.com/CleverRaven/Cataclysm-DDA/pull/84182))
 * Make permanent effect always at least 1 second long ([#84187](https://github.com/CleverRaven/Cataclysm-DDA/pull/84187))
 * [TropiCata] Further cleanup ([#84184](https://github.com/CleverRaven/Cataclysm-DDA/pull/84184))

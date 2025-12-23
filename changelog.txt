@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-23-2135 (d76266a)
+* Move ACT_VIBE handler to vibe_activity_actor (#84304)
+
 Cataclysm-DDA 0.I release candidate 2025-12-23-1532 (a0a3b49)
 * [0.I backport] Completely remove the animal food system (#84191)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2025-12-19-0738 (286f3ba)
 
 Cataclysm-DDA experimental build 2025-12-19-0653 (a3c972d)
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor (#84248)
-
-Cataclysm-DDA experimental build 2025-12-18-1745 (ac85951)
 * [MoM] Add more knacks (#84236)
 * [MoM] Fix negative concentration limit problem (#84223)
 * fix + clarify restricted genetics (#84227)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2025-12-18-1745 (ac85951)
 * Make overmapbuffer zzip aware (#84150)
 * Rebalance Aikido to emphasize surviving and escaping opponents (#84178)
 * Flatten the pride stockings distribution (#84151)
-* [DDotD] Laptop rework (#84139)
 * Introduction of failure to damaged items to work for some items /5/?) (#84182)
 * Make permanent effect always at least 1 second long (#84187)
 * [TropiCata] Further cleanup (#84184)
