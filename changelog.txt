@@ -1,3 +1,4 @@
+* Delete android_sdk on mac workers for more disk space. (#84310)
 
 Cataclysm-DDA experimental build 2025-12-24-1448 (c019e79)
 * Weekly Changelog 2025-12-15 to 2025-12-22 (#84288)
@@ -90,8 +91,6 @@ Cataclysm-DDA experimental build 2025-12-20-0507 (7737113)
 
 Cataclysm-DDA experimental build 2025-12-20-0414 (1f2b846)
 * add barrel lenght for usp (#84262)
-
-Cataclysm-DDA experimental build 2025-12-20-0112 (a7a4d3b)
 * [DDotD] Movie poster loading screen (#84258)
 * Butchery blocks corpse rising (#84210)
 * [MoM] Pyrokinesis artifact crystals (#84213)
@@ -146,5 +145,4 @@ Cataclysm-DDA experimental build 2025-12-20-0112 (a7a4d3b)
 * Properly load the region type the game was last saved in (#84163)
 * steel-toed sneakers are nylon (#84156)
 * [DDotD] Add calculator watch / portable cassette player (#84145)
-* rephrase description of highly vain (#84143)
 * Actually correct encumbrance of work pants and coveralls (#84144)

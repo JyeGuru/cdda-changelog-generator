@@ -1,3 +1,4 @@
+* Delete android_sdk on mac workers for more disk space. ([#84310](https://github.com/CleverRaven/Cataclysm-DDA/pull/84310))
 
 ---
 
@@ -171,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2025-12-20-0414 ([1f2b846](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-0414))
 
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-20-0112 ([a7a4d3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-0112))
-
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
 * Butchery blocks corpse rising ([#84210](https://github.com/CleverRaven/Cataclysm-DDA/pull/84210))
 * [MoM] Pyrokinesis artifact crystals ([#84213](https://github.com/CleverRaven/Cataclysm-DDA/pull/84213))
@@ -230,5 +226,4 @@
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
 * [DDotD] Add calculator watch / portable cassette player ([#84145](https://github.com/CleverRaven/Cataclysm-DDA/pull/84145))
-* rephrase description of highly vain ([#84143](https://github.com/CleverRaven/Cataclysm-DDA/pull/84143))
 * Actually correct encumbrance of work pants and coveralls ([#84144](https://github.com/CleverRaven/Cataclysm-DDA/pull/84144))
