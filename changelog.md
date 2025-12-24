@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-24-0708 ([7fc0278](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-0708))
+
+* Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-23-2135 ([d76266a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-2135))
 
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
@@ -177,11 +183,6 @@
 * DDotD battery overhaul ([#84197](https://github.com/CleverRaven/Cataclysm-DDA/pull/84197))
 * Murdering humans("monsters") is still murdering humans ([#84242](https://github.com/CleverRaven/Cataclysm-DDA/pull/84242))
 * Don't allow character to sell their arms or legs ([#84244](https://github.com/CleverRaven/Cataclysm-DDA/pull/84244))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-19-0653 ([a3c972d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-0653))
-
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
 * [MoM] Add more knacks ([#84236](https://github.com/CleverRaven/Cataclysm-DDA/pull/84236))
 * [MoM] Fix negative concentration limit problem ([#84223](https://github.com/CleverRaven/Cataclysm-DDA/pull/84223))
@@ -219,7 +220,6 @@
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
 * [Crazy Cataclysm] Rename "troglobite" to "gamer" ([#84142](https://github.com/CleverRaven/Cataclysm-DDA/pull/84142))
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
-* [XE/DDotD] Add XE_CLASSIC category, apply it to appropriate XE monsters ([#84140](https://github.com/CleverRaven/Cataclysm-DDA/pull/84140))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
