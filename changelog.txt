@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2025-12-24-1448 (c019e79)
+* Weekly Changelog 2025-12-15 to 2025-12-22 (#84288)
+
+Cataclysm-DDA experimental build 2025-12-24-1446 (b3aa7f7)
+* Mark some of the string in overmap_ui as i18n (#84306)
+
 Cataclysm-DDA experimental build 2025-12-24-0708 (7fc0278)
 * Remove MXE from release, fix clang on macOS (#84302)
 
@@ -87,8 +93,6 @@ Cataclysm-DDA experimental build 2025-12-20-0414 (1f2b846)
 
 Cataclysm-DDA experimental build 2025-12-20-0112 (a7a4d3b)
 * [DDotD] Movie poster loading screen (#84258)
-
-Cataclysm-DDA experimental build 2025-12-19-0738 (286f3ba)
 * Butchery blocks corpse rising (#84210)
 * [MoM] Pyrokinesis artifact crystals (#84213)
 * Remove JACKHAMMER from auto-mining (#84215)
@@ -135,9 +139,7 @@ Cataclysm-DDA experimental build 2025-12-19-0738 (286f3ba)
 * Move dense forest raspberry/strawberry/blueberry spawn to patches (#84166)
 * return early if there are no stats (#84167)
 * [DDOTD] add some calculator watch snippets and adjust design doc. (#84158)
-* Introduction of failure to damaged items to work for some items (3/?) (#84141)
 * [Xedra Evolved] Add two more vampire traits (#84161)
-* [Crazy Cataclysm] Rename "troglobite" to "gamer" (#84142)
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill (#84155)
 * [DDotD] Albertan trees rework (#84164)
 * Add catalyst to microlab alpha primer vault (#84147)

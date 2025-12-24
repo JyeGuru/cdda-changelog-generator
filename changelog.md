@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-24-1448 ([c019e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-1448))
+
+* Weekly Changelog 2025-12-15 to 2025-12-22 ([#84288](https://github.com/CleverRaven/Cataclysm-DDA/pull/84288))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-24-1446 ([b3aa7f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-1446))
+
+* Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-24-0708 ([7fc0278](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-0708))
 
 * Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
@@ -165,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-12-20-0112 ([a7a4d3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-0112))
 
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-19-0738 ([286f3ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-19-0738))
-
 * Butchery blocks corpse rising ([#84210](https://github.com/CleverRaven/Cataclysm-DDA/pull/84210))
 * [MoM] Pyrokinesis artifact crystals ([#84213](https://github.com/CleverRaven/Cataclysm-DDA/pull/84213))
 * Remove JACKHAMMER from auto-mining ([#84215](https://github.com/CleverRaven/Cataclysm-DDA/pull/84215))
@@ -216,9 +223,7 @@
 * Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
 * [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
-* Introduction of failure to damaged items to work for some items (3/?) ([#84141](https://github.com/CleverRaven/Cataclysm-DDA/pull/84141))
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
-* [Crazy Cataclysm] Rename "troglobite" to "gamer" ([#84142](https://github.com/CleverRaven/Cataclysm-DDA/pull/84142))
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
