@@ -1,4 +1,9 @@
 * Add unit test coverage for active items in vehicle cargo ([#84291](https://github.com/CleverRaven/Cataclysm-DDA/pull/84291))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-25-1204 ([2a17855](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-1204))
+
 * Fix repeat words and typos ([#84290](https://github.com/CleverRaven/Cataclysm-DDA/pull/84290))
 
 ---
@@ -161,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-12-20-2147 ([fce593a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-2147))
 
 * Remove majority of mutation conflicts from the bionics formerly known as alloy plating ([#84229](https://github.com/CleverRaven/Cataclysm-DDA/pull/84229))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-20-1524 ([e890982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-1524))
-
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
 * Fixes Cloud Formation and Pressure ([#84245](https://github.com/CleverRaven/Cataclysm-DDA/pull/84245))
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
