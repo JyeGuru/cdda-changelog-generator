@@ -202,7 +202,6 @@
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches ([#84189](https://github.com/CleverRaven/Cataclysm-DDA/pull/84189))
 * Introduction of failure to damaged items to work for some items (6/?) ([#84194](https://github.com/CleverRaven/Cataclysm-DDA/pull/84194))
 * Rebalance Aikido to emphasize surviving and escaping opponents ([#84178](https://github.com/CleverRaven/Cataclysm-DDA/pull/84178))
-* Flatten the pride stockings distribution ([#84151](https://github.com/CleverRaven/Cataclysm-DDA/pull/84151))
 * Introduction of failure to damaged items to work for some items /5/?) ([#84182](https://github.com/CleverRaven/Cataclysm-DDA/pull/84182))
 * Make permanent effect always at least 1 second long ([#84187](https://github.com/CleverRaven/Cataclysm-DDA/pull/84187))
 * [TropiCata] Further cleanup ([#84184](https://github.com/CleverRaven/Cataclysm-DDA/pull/84184))
