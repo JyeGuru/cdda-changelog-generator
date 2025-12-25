@@ -1,3 +1,8 @@
+* Add unit test coverage for active items in vehicle cargo (#84291)
+* Fix repeat words and typos (#84290)
+
+Cataclysm-DDA experimental build 2025-12-25-1108 (fad0102)
+* Content 'Add boot gaiters' (#84308)
 
 Cataclysm-DDA experimental build 2025-12-25-0144 (22d814a)
 * [Magiclysm] Add missing perceived pain to success formula (#84307)
@@ -50,7 +55,6 @@ Cataclysm-DDA experimental build 2025-12-21-2125 (ecf72b8)
 
 Cataclysm-DDA experimental build 2025-12-21-1924 (a859b8e)
 * Fix zzip_stack cold compaction & flush after compaction (#84274)
-* [ Sky Island, XE ] Fix my own failings at noticing scenario whitelists (#84146)
 
 Cataclysm-DDA experimental build 2025-12-21-1642 (6fab01f)
 * Make numb work with new murder guilt (#84278)
@@ -64,9 +68,6 @@ Cataclysm-DDA experimental build 2025-12-21-1507 (2d77da3)
 
 Cataclysm-DDA experimental build 2025-12-21-0626 (31d2b86)
 * Fix basic typos and spelling errors (#84198)
-
-Cataclysm-DDA experimental build 2025-12-21-0544 (60988dc)
-* Optimize pinyin search (updating pinyin_data.hpp) (#84149)
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles (#84259)
 * Weekly Changelog 2025-12-08 to 2025-12-15 (#84200)
 * map boards display a map behind glass so just make them readable (#84253)
@@ -88,8 +89,6 @@ Cataclysm-DDA experimental build 2025-12-20-2147 (fce593a)
 
 Cataclysm-DDA experimental build 2025-12-20-1524 (e890982)
 * Typo in iuse (#84265)
-
-Cataclysm-DDA experimental build 2025-12-20-0507 (7737113)
 * Fixes Cloud Formation and Pressure (#84245)
 * [Magiclysm] Shapeshifting and druid items (#84247)
 * add barrel lenght for usp (#84262)
@@ -143,6 +142,5 @@ Cataclysm-DDA experimental build 2025-12-20-0507 (7737113)
 * [Xedra Evolved] Add two more vampire traits (#84161)
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill (#84155)
 * [DDotD] Albertan trees rework (#84164)
-* Add catalyst to microlab alpha primer vault (#84147)
 * Properly load the region type the game was last saved in (#84163)
 * steel-toed sneakers are nylon (#84156)

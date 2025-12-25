@@ -1,3 +1,11 @@
+* Add unit test coverage for active items in vehicle cargo ([#84291](https://github.com/CleverRaven/Cataclysm-DDA/pull/84291))
+* Fix repeat words and typos ([#84290](https://github.com/CleverRaven/Cataclysm-DDA/pull/84290))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-25-1108 ([fad0102](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-1108))
+
+* Content 'Add boot gaiters' ([#84308](https://github.com/CleverRaven/Cataclysm-DDA/pull/84308))
 
 ---
 
@@ -98,7 +106,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-1924 ([a859b8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-1924))
 
 * Fix zzip_stack cold compaction & flush after compaction ([#84274](https://github.com/CleverRaven/Cataclysm-DDA/pull/84274))
-* [ Sky Island, XE ] Fix my own failings at noticing scenario whitelists ([#84146](https://github.com/CleverRaven/Cataclysm-DDA/pull/84146))
 
 ---
 
@@ -124,12 +131,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-0626 ([31d2b86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0626))
 
 * Fix basic typos and spelling errors ([#84198](https://github.com/CleverRaven/Cataclysm-DDA/pull/84198))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-0544 ([60988dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0544))
-
-* Optimize pinyin search (updating pinyin_data.hpp) ([#84149](https://github.com/CleverRaven/Cataclysm-DDA/pull/84149))
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84259](https://github.com/CleverRaven/Cataclysm-DDA/pull/84259))
 * Weekly Changelog 2025-12-08 to 2025-12-15 ([#84200](https://github.com/CleverRaven/Cataclysm-DDA/pull/84200))
 * map boards display a map behind glass so just make them readable ([#84253](https://github.com/CleverRaven/Cataclysm-DDA/pull/84253))
@@ -166,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-12-20-1524 ([e890982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-1524))
 
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-20-0507 ([7737113](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-0507))
-
 * Fixes Cloud Formation and Pressure ([#84245](https://github.com/CleverRaven/Cataclysm-DDA/pull/84245))
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
@@ -224,6 +220,5 @@
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
 * Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
-* Add catalyst to microlab alpha primer vault ([#84147](https://github.com/CleverRaven/Cataclysm-DDA/pull/84147))
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
