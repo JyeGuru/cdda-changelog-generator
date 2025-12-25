@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-25-1628 ([665e5a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-1628))
+
+* Make barrel damage proportional to amount damage ([#84270](https://github.com/CleverRaven/Cataclysm-DDA/pull/84270))
 * Add unit test coverage for active items in vehicle cargo ([#84291](https://github.com/CleverRaven/Cataclysm-DDA/pull/84291))
 
 ---
@@ -160,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-0128 ([26817e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0128))
 
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-20-2147 ([fce593a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-20-2147))
-
 * Remove majority of mutation conflicts from the bionics formerly known as alloy plating ([#84229](https://github.com/CleverRaven/Cataclysm-DDA/pull/84229))
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
 * Fixes Cloud Formation and Pressure ([#84245](https://github.com/CleverRaven/Cataclysm-DDA/pull/84245))
@@ -200,7 +201,6 @@
 * Doctor's Office Tweaks ([#84209](https://github.com/CleverRaven/Cataclysm-DDA/pull/84209))
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches ([#84189](https://github.com/CleverRaven/Cataclysm-DDA/pull/84189))
 * Introduction of failure to damaged items to work for some items (6/?) ([#84194](https://github.com/CleverRaven/Cataclysm-DDA/pull/84194))
-* Make overmapbuffer zzip aware ([#84150](https://github.com/CleverRaven/Cataclysm-DDA/pull/84150))
 * Rebalance Aikido to emphasize surviving and escaping opponents ([#84178](https://github.com/CleverRaven/Cataclysm-DDA/pull/84178))
 * Flatten the pride stockings distribution ([#84151](https://github.com/CleverRaven/Cataclysm-DDA/pull/84151))
 * Introduction of failure to damaged items to work for some items /5/?) ([#84182](https://github.com/CleverRaven/Cataclysm-DDA/pull/84182))
