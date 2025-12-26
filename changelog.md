@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-26-0607 ([1288038](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-0607))
+
+* Allow power producing bionics to stay on when empty (#80950) ([#84292](https://github.com/CleverRaven/Cataclysm-DDA/pull/84292))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-25-1628 ([665e5a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-1628))
 
 * Make barrel damage proportional to amount damage ([#84270](https://github.com/CleverRaven/Cataclysm-DDA/pull/84270))
@@ -160,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-0213 ([7521b4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0213))
 
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-0128 ([26817e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0128))
-
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
 * Remove majority of mutation conflicts from the bionics formerly known as alloy plating ([#84229](https://github.com/CleverRaven/Cataclysm-DDA/pull/84229))
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
@@ -196,7 +197,6 @@
 * Fix the greeter bot shaking down new contributors for every comment ([#84218](https://github.com/CleverRaven/Cataclysm-DDA/pull/84218))
 * Introduction of failure to damaged items to work for some items (7/7) ([#84206](https://github.com/CleverRaven/Cataclysm-DDA/pull/84206))
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository ([#84212](https://github.com/CleverRaven/Cataclysm-DDA/pull/84212))
-* Tests for logistic helpers ([#84152](https://github.com/CleverRaven/Cataclysm-DDA/pull/84152))
 * [MoM] Psychic Knacks grant noetic crafting proficiencies ([#84211](https://github.com/CleverRaven/Cataclysm-DDA/pull/84211))
 * Doctor's Office Tweaks ([#84209](https://github.com/CleverRaven/Cataclysm-DDA/pull/84209))
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches ([#84189](https://github.com/CleverRaven/Cataclysm-DDA/pull/84189))

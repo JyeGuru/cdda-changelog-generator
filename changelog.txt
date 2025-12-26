@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-26-0607 (1288038)
+* Allow power producing bionics to stay on when empty (#80950) (#84292)
+
 Cataclysm-DDA experimental build 2025-12-25-1628 (665e5a7)
 * Make barrel damage proportional to amount damage (#84270)
 * Add unit test coverage for active items in vehicle cargo (#84291)
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2025-12-21-0500 (e832608)
 
 Cataclysm-DDA experimental build 2025-12-21-0213 (7521b4b)
 * Fix details for Intensify Flames power (#84275)
-
-Cataclysm-DDA experimental build 2025-12-21-0128 (26817e0)
 * Fix failing to route to a tile we're already on during sorting (#84273)
 * Remove majority of mutation conflicts from the bionics formerly known as alloy plating (#84229)
 * Typo in iuse (#84265)
@@ -118,7 +119,6 @@ Cataclysm-DDA experimental build 2025-12-21-0128 (26817e0)
 * Fix the greeter bot shaking down new contributors for every comment (#84218)
 * Introduction of failure to damaged items to work for some items (7/7) (#84206)
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository (#84212)
-* Tests for logistic helpers (#84152)
 * [MoM] Psychic Knacks grant noetic crafting proficiencies (#84211)
 * Doctor's Office Tweaks (#84209)
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches (#84189)
