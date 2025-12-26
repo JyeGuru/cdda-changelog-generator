@@ -218,6 +218,5 @@
 * Greatly reduce lone fruit trees in the forest ([#84173](https://github.com/CleverRaven/Cataclysm-DDA/pull/84173))
 * Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
-* [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
