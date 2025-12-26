@@ -1,3 +1,5 @@
+* Correct Typos (#84285)
+* [DDotD] Edit description to specify setting  (#84315)
 
 Cataclysm-DDA experimental build 2025-12-26-0654 (8b9caf1)
 * Revert "Restore quick reload" (#84318)
@@ -34,9 +36,6 @@ Cataclysm-DDA experimental build 2025-12-23-2135 (d76266a)
 
 Cataclysm-DDA 0.I release candidate 2025-12-23-1532 (a0a3b49)
 * [0.I backport] Completely remove the animal food system (#84191)
-
-Cataclysm-DDA experimental build 2025-12-23-0616 (7c95b95)
-* Streamline damage application (#84157)
 * Update holdout_pocket.json (#84264)
 * [MoM] Add speech snippets for PHAVIAN scientists (#84296)
 
@@ -142,4 +141,3 @@ Cataclysm-DDA experimental build 2025-12-21-0500 (e832608)
 * [Xedra Evolved] Add two more vampire traits (#84161)
 * [DDotD] Albertan trees rework (#84164)
 * Properly load the region type the game was last saved in (#84163)
-* steel-toed sneakers are nylon (#84156)

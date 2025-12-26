@@ -1,3 +1,5 @@
+* Correct Typos ([#84285](https://github.com/CleverRaven/Cataclysm-DDA/pull/84285))
+* [DDotD] Edit description to specify setting  ([#84315](https://github.com/CleverRaven/Cataclysm-DDA/pull/84315))
 
 ---
 
@@ -67,12 +69,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-12-23-1532 ([a0a3b49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-23-1532))
 
 * [0.I backport] Completely remove the animal food system ([#84191](https://github.com/CleverRaven/Cataclysm-DDA/pull/84191))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-23-0616 ([7c95b95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-0616))
-
-* Streamline damage application ([#84157](https://github.com/CleverRaven/Cataclysm-DDA/pull/84157))
 * Update holdout_pocket.json ([#84264](https://github.com/CleverRaven/Cataclysm-DDA/pull/84264))
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
 
@@ -220,4 +216,3 @@
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
-* steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
