@@ -1,3 +1,4 @@
+* Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
 
 ---
 
@@ -212,7 +213,6 @@
 * Avoid bitset.set( bit , false) ([#84188](https://github.com/CleverRaven/Cataclysm-DDA/pull/84188))
 * allow to extend region feature flag settings ([#84175](https://github.com/CleverRaven/Cataclysm-DDA/pull/84175))
 * Nerf betavoltaic cell price by 50x ([#84177](https://github.com/CleverRaven/Cataclysm-DDA/pull/84177))
-* Introduction of failure to damaged items to work for some items (4/?) ([#84159](https://github.com/CleverRaven/Cataclysm-DDA/pull/84159))
 * Move ACT_BUILD handler to build_construction_activity_actor ([#84169](https://github.com/CleverRaven/Cataclysm-DDA/pull/84169))
 * Fix pvc pipe itemgroups ([#84170](https://github.com/CleverRaven/Cataclysm-DDA/pull/84170))
 * Greatly reduce lone fruit trees in the forest ([#84173](https://github.com/CleverRaven/Cataclysm-DDA/pull/84173))
