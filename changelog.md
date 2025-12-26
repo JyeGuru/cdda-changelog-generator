@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-26-2333 ([ab56bf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-2333))
+
+* Fix empty ammo belts in lab barracks ([#84322](https://github.com/CleverRaven/Cataclysm-DDA/pull/84322))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-26-1826 ([c33722f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-1826))
 
 * Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-1557 ([26f9b72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-1557))
 
 * Move the lore snippets from the faction to the diary UI ([#84272](https://github.com/CleverRaven/Cataclysm-DDA/pull/84272))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-1507 ([2d77da3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-1507))
-
 * UCRT64 ncurses build fix ([#84266](https://github.com/CleverRaven/Cataclysm-DDA/pull/84266))
 * Fix basic typos and spelling errors ([#84198](https://github.com/CleverRaven/Cataclysm-DDA/pull/84198))
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84259](https://github.com/CleverRaven/Cataclysm-DDA/pull/84259))
@@ -219,4 +220,3 @@
 * Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
-* Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))

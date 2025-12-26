@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-26-2333 (ab56bf5)
+* Fix empty ammo belts in lab barracks (#84322)
+
 Cataclysm-DDA experimental build 2025-12-26-1826 (c33722f)
 * Long attack warning at 300 moves instead of 1000 (#84323)
 
@@ -80,8 +83,6 @@ Cataclysm-DDA experimental build 2025-12-21-1642 (6fab01f)
 
 Cataclysm-DDA experimental build 2025-12-21-1557 (26f9b72)
 * Move the lore snippets from the faction to the diary UI (#84272)
-
-Cataclysm-DDA experimental build 2025-12-21-1507 (2d77da3)
 * UCRT64 ncurses build fix (#84266)
 * Fix basic typos and spelling errors (#84198)
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles (#84259)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2025-12-21-1507 (2d77da3)
 * Move dense forest raspberry/strawberry/blueberry spawn to patches (#84166)
 * return early if there are no stats (#84167)
 * [DDotD] Albertan trees rework (#84164)
-* Properly load the region type the game was last saved in (#84163)
