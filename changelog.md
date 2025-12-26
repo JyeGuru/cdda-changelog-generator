@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-26-1621 ([a9dd26d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-1621))
+
+* Add a nether-creature encounter with questionably useful XEDRA tech as a reward ([#84208](https://github.com/CleverRaven/Cataclysm-DDA/pull/84208))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-26-0741 ([4d1f364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-0741))
 
 * Correct Typos ([#84285](https://github.com/CleverRaven/Cataclysm-DDA/pull/84285))
@@ -212,7 +218,6 @@
 * Greatly reduce lone fruit trees in the forest ([#84173](https://github.com/CleverRaven/Cataclysm-DDA/pull/84173))
 * Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
-* [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
