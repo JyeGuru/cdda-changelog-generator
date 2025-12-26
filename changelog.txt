@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-12-26-1826 (c33722f)
 * Long attack warning at 300 moves instead of 1000 (#84323)
 
 Cataclysm-DDA experimental build 2025-12-26-1621 (a9dd26d)
@@ -81,8 +83,6 @@ Cataclysm-DDA experimental build 2025-12-21-1557 (26f9b72)
 
 Cataclysm-DDA experimental build 2025-12-21-1507 (2d77da3)
 * UCRT64 ncurses build fix (#84266)
-
-Cataclysm-DDA experimental build 2025-12-21-0626 (31d2b86)
 * Fix basic typos and spelling errors (#84198)
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles (#84259)
 * Weekly Changelog 2025-12-08 to 2025-12-15 (#84200)

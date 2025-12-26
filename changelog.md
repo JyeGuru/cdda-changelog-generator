@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-26-1826 ([c33722f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-1826))
+
 * Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
 
 ---
@@ -156,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-1507 ([2d77da3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-1507))
 
 * UCRT64 ncurses build fix ([#84266](https://github.com/CleverRaven/Cataclysm-DDA/pull/84266))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-0626 ([31d2b86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0626))
-
 * Fix basic typos and spelling errors ([#84198](https://github.com/CleverRaven/Cataclysm-DDA/pull/84198))
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84259](https://github.com/CleverRaven/Cataclysm-DDA/pull/84259))
 * Weekly Changelog 2025-12-08 to 2025-12-15 ([#84200](https://github.com/CleverRaven/Cataclysm-DDA/pull/84200))
