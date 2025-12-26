@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-26-0741 ([4d1f364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-0741))
+
 * Correct Typos ([#84285](https://github.com/CleverRaven/Cataclysm-DDA/pull/84285))
 * [DDotD] Edit description to specify setting  ([#84315](https://github.com/CleverRaven/Cataclysm-DDA/pull/84315))
 
@@ -156,11 +161,6 @@
 * Move ACT_WAIT handlers to activity_actors ([#84263](https://github.com/CleverRaven/Cataclysm-DDA/pull/84263))
 * If gunmod is a gun itself, do not replace it's barrel length ([#84261](https://github.com/CleverRaven/Cataclysm-DDA/pull/84261))
 * Getting hurt is bad for your long-term health ([#84277](https://github.com/CleverRaven/Cataclysm-DDA/pull/84277))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-0500 ([e832608](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0500))
-
 * Allow overriding in snippets definitions ([#84276](https://github.com/CleverRaven/Cataclysm-DDA/pull/84276))
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
