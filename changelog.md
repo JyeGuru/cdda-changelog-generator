@@ -1,3 +1,4 @@
+* Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
 
 ---
 
@@ -217,7 +218,6 @@
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
 * [DDOTD] add some calculator watch snippets and adjust design doc. ([#84158](https://github.com/CleverRaven/Cataclysm-DDA/pull/84158))
 * [Xedra Evolved] Add two more vampire traits ([#84161](https://github.com/CleverRaven/Cataclysm-DDA/pull/84161))
-* Change Throwing Assist CBM's enchant to use THROW_STR and THROW_DAMAGE instead of adding to skill ([#84155](https://github.com/CleverRaven/Cataclysm-DDA/pull/84155))
 * [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))
 * Properly load the region type the game was last saved in ([#84163](https://github.com/CleverRaven/Cataclysm-DDA/pull/84163))
 * steel-toed sneakers are nylon ([#84156](https://github.com/CleverRaven/Cataclysm-DDA/pull/84156))
