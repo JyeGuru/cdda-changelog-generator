@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2025-12-26-0654 (8b9caf1)
 * Revert "Restore quick reload" (#84318)
 
 Cataclysm-DDA experimental build 2025-12-26-0607 (1288038)
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2025-12-21-0626 (31d2b86)
 
 Cataclysm-DDA experimental build 2025-12-21-0500 (e832608)
 * Allow overriding in snippets definitions (#84276)
-
-Cataclysm-DDA experimental build 2025-12-21-0213 (7521b4b)
 * Fix details for Intensify Flames power (#84275)
 * Fix failing to route to a tile we're already on during sorting (#84273)
 * Remove majority of mutation conflicts from the bionics formerly known as alloy plating (#84229)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-26-0654 ([8b9caf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-0654))
+
 * Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
 
 ---
@@ -161,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-0500 ([e832608](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0500))
 
 * Allow overriding in snippets definitions ([#84276](https://github.com/CleverRaven/Cataclysm-DDA/pull/84276))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-0213 ([7521b4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-0213))
-
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
 * Remove majority of mutation conflicts from the bionics formerly known as alloy plating ([#84229](https://github.com/CleverRaven/Cataclysm-DDA/pull/84229))
