@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-27-2035 ([70e4ed9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-2035))
+
 * Fix installed gunmods appearing in multidrop ([#84316](https://github.com/CleverRaven/Cataclysm-DDA/pull/84316))
 
 ---
@@ -155,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-2208 ([39ab21f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-2208))
 
 * Add missing price to book_antho_pl ([#84279](https://github.com/CleverRaven/Cataclysm-DDA/pull/84279))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-2125 ([ecf72b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-2125))
-
 * Fix typos in doc/CONTRIBUTING.md ([#84283](https://github.com/CleverRaven/Cataclysm-DDA/pull/84283))
 * Fix zzip_stack cold compaction & flush after compaction ([#84274](https://github.com/CleverRaven/Cataclysm-DDA/pull/84274))
 * Make numb work with new murder guilt ([#84278](https://github.com/CleverRaven/Cataclysm-DDA/pull/84278))
