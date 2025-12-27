@@ -1,3 +1,10 @@
+* Make an enchantment to modify "free dodges" ([#84326](https://github.com/CleverRaven/Cataclysm-DDA/pull/84326))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-27-0749 ([317f852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-0749))
+
+* Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
 
 ---
 
@@ -148,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2025-12-21-1924 ([a859b8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-1924))
 
 * Fix zzip_stack cold compaction & flush after compaction ([#84274](https://github.com/CleverRaven/Cataclysm-DDA/pull/84274))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-1642 ([6fab01f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-1642))
-
 * Make numb work with new murder guilt ([#84278](https://github.com/CleverRaven/Cataclysm-DDA/pull/84278))
 * Sensible mobile weather stations + things to do with them ([#84226](https://github.com/CleverRaven/Cataclysm-DDA/pull/84226))
 * Move the lore snippets from the faction to the diary UI ([#84272](https://github.com/CleverRaven/Cataclysm-DDA/pull/84272))
@@ -212,6 +214,4 @@
 * Move ACT_BUILD handler to build_construction_activity_actor ([#84169](https://github.com/CleverRaven/Cataclysm-DDA/pull/84169))
 * Fix pvc pipe itemgroups ([#84170](https://github.com/CleverRaven/Cataclysm-DDA/pull/84170))
 * Greatly reduce lone fruit trees in the forest ([#84173](https://github.com/CleverRaven/Cataclysm-DDA/pull/84173))
-* Move dense forest raspberry/strawberry/blueberry spawn to patches ([#84166](https://github.com/CleverRaven/Cataclysm-DDA/pull/84166))
 * return early if there are no stats ([#84167](https://github.com/CleverRaven/Cataclysm-DDA/pull/84167))
-* [DDotD] Albertan trees rework ([#84164](https://github.com/CleverRaven/Cataclysm-DDA/pull/84164))

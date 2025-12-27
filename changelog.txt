@@ -1,3 +1,7 @@
+* Make an enchantment to modify "free dodges" (#84326)
+
+Cataclysm-DDA experimental build 2025-12-27-0749 (317f852)
+* Fix dimension-shifting error (#84331)
 
 Cataclysm-DDA experimental build 2025-12-26-2333 (ab56bf5)
 * Fix empty ammo belts in lab barracks (#84322)
@@ -76,8 +80,6 @@ Cataclysm-DDA experimental build 2025-12-21-2125 (ecf72b8)
 
 Cataclysm-DDA experimental build 2025-12-21-1924 (a859b8e)
 * Fix zzip_stack cold compaction & flush after compaction (#84274)
-
-Cataclysm-DDA experimental build 2025-12-21-1642 (6fab01f)
 * Make numb work with new murder guilt (#84278)
 * Sensible mobile weather stations + things to do with them (#84226)
 * Move the lore snippets from the faction to the diary UI (#84272)
@@ -137,6 +139,4 @@ Cataclysm-DDA experimental build 2025-12-21-1642 (6fab01f)
 * Move ACT_BUILD handler to build_construction_activity_actor (#84169)
 * Fix pvc pipe itemgroups (#84170)
 * Greatly reduce lone fruit trees in the forest (#84173)
-* Move dense forest raspberry/strawberry/blueberry spawn to patches (#84166)
 * return early if there are no stats (#84167)
-* [DDotD] Albertan trees rework (#84164)
