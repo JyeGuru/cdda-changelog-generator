@@ -1,3 +1,4 @@
+* Fix CMake not using ccache on Windows ([#84346](https://github.com/CleverRaven/Cataclysm-DDA/pull/84346))
 
 ---
 
