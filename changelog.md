@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-28-0855 ([11a6905](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0855))
+
 * Mobile Weather Stations II: Hub 01 quest & portal storm functionality ([#84309](https://github.com/CleverRaven/Cataclysm-DDA/pull/84309))
 * Sanify the weight of some vehicles ([#84303](https://github.com/CleverRaven/Cataclysm-DDA/pull/84303))
 
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2025-12-22-1626 ([bbf3cb6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-22-1626))
 
 * Allow fields to track their sources (i.e. who started a fire) ([#84246](https://github.com/CleverRaven/Cataclysm-DDA/pull/84246))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-22-1152 ([acb311f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-22-1152))
-
 * Require metal melting tools for melting metal ([#84252](https://github.com/CleverRaven/Cataclysm-DDA/pull/84252))
 * [MoM] fix photokinetic_light_image max_damage ([#84286](https://github.com/CleverRaven/Cataclysm-DDA/pull/84286))
 * Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
