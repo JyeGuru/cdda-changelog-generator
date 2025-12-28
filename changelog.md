@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-28-2350 ([4927838](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-2350))
+
 * overthrow the reign of RELOAD_ONE, aka Reload everything one by one as part of activity ([#84328](https://github.com/CleverRaven/Cataclysm-DDA/pull/84328))
 * [alt-map-key] Added new limnological station hub01 quest location ([#84351](https://github.com/CleverRaven/Cataclysm-DDA/pull/84351))
 * 2-piece Powered Air-Purifying Respirator system ([#84355](https://github.com/CleverRaven/Cataclysm-DDA/pull/84355))
@@ -168,11 +173,6 @@
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
 * Update holdout_pocket.json ([#84264](https://github.com/CleverRaven/Cataclysm-DDA/pull/84264))
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-23-0532 ([ea618a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-0532))
-
 * Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
 * Fix --world on empty worlds ([#84293](https://github.com/CleverRaven/Cataclysm-DDA/pull/84293))
 * Allow fields to track their sources (i.e. who started a fire) ([#84246](https://github.com/CleverRaven/Cataclysm-DDA/pull/84246))
