@@ -1,3 +1,12 @@
+* overthrow the reign of RELOAD_ONE, aka Reload everything one by one as part of activity ([#84328](https://github.com/CleverRaven/Cataclysm-DDA/pull/84328))
+* [alt-map-key] Added new limnological station hub01 quest location ([#84351](https://github.com/CleverRaven/Cataclysm-DDA/pull/84351))
+* 2-piece Powered Air-Purifying Respirator system ([#84355](https://github.com/CleverRaven/Cataclysm-DDA/pull/84355))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-28-2308 ([3d31903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-2308))
+
+* Bugfix pockets on MWS quest reward pack frame ([#84356](https://github.com/CleverRaven/Cataclysm-DDA/pull/84356))
 * Fix CMake not using ccache on Windows ([#84346](https://github.com/CleverRaven/Cataclysm-DDA/pull/84346))
 
 ---
@@ -157,12 +166,6 @@
 #### Cataclysm-DDA experimental build 2025-12-23-2135 ([d76266a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-2135))
 
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-12-23-1532 ([a0a3b49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-23-1532))
-
-* [0.I backport] Completely remove the animal food system ([#84191](https://github.com/CleverRaven/Cataclysm-DDA/pull/84191))
 * Update holdout_pocket.json ([#84264](https://github.com/CleverRaven/Cataclysm-DDA/pull/84264))
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
 
@@ -209,7 +212,6 @@
 * Add zombies in the supermarket ([#84237](https://github.com/CleverRaven/Cataclysm-DDA/pull/84237))
 * Remove lore doc mention of mi-go in relation to CBMs ([#84240](https://github.com/CleverRaven/Cataclysm-DDA/pull/84240))
 * Rename "Basic" soundpack to "Menu_Sound_Test" ([#84241](https://github.com/CleverRaven/Cataclysm-DDA/pull/84241))
-* DDotD battery overhaul ([#84197](https://github.com/CleverRaven/Cataclysm-DDA/pull/84197))
 * Murdering humans("monsters") is still murdering humans ([#84242](https://github.com/CleverRaven/Cataclysm-DDA/pull/84242))
 * Don't allow character to sell their arms or legs ([#84244](https://github.com/CleverRaven/Cataclysm-DDA/pull/84244))
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
@@ -225,4 +227,3 @@
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository ([#84212](https://github.com/CleverRaven/Cataclysm-DDA/pull/84212))
 * [MoM] Psychic Knacks grant noetic crafting proficiencies ([#84211](https://github.com/CleverRaven/Cataclysm-DDA/pull/84211))
 * Doctor's Office Tweaks ([#84209](https://github.com/CleverRaven/Cataclysm-DDA/pull/84209))
-* Introduction of failure to damaged items to work for some items (6/?) ([#84194](https://github.com/CleverRaven/Cataclysm-DDA/pull/84194))
