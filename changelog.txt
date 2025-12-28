@@ -1,3 +1,7 @@
+
+Cataclysm-DDA experimental build 2025-12-28-0637 (fc80c8c)
+* [alt-map-key] Add new rural church tile to the mod (#84333)
+* [MoM] Fix Speed Reading practice recipe power snippet (#84349)
 * fix freshwater research station moon pool (#84340)
 * Fix lack of autoaim in certain cases (#84341)
 
@@ -81,8 +85,6 @@ Cataclysm-DDA experimental build 2025-12-22-1626 (bbf3cb6)
 
 Cataclysm-DDA experimental build 2025-12-22-1152 (acb311f)
 * Require metal melting tools for melting metal (#84252)
-
-Cataclysm-DDA experimental build 2025-12-22-0318 (1ec15a9)
 * [MoM] fix photokinetic_light_image max_damage (#84286)
 * Backport some zzip fixes to 0.I (#84287)
 * Add missing price to book_antho_pl (#84279)
@@ -136,8 +138,6 @@ Cataclysm-DDA experimental build 2025-12-22-0318 (1ec15a9)
 * Doctor's Office Tweaks (#84209)
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches (#84189)
 * Introduction of failure to damaged items to work for some items (6/?) (#84194)
-* Rebalance Aikido to emphasize surviving and escaping opponents (#84178)
-* Introduction of failure to damaged items to work for some items /5/?) (#84182)
 * Make permanent effect always at least 1 second long (#84187)
 * [TropiCata] Further cleanup (#84184)
 * [TropiCata] Non-native species pruning - Reptiles (#84185)
