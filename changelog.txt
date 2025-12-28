@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-28-1640 (726cc31)
+* Increase shoe spawn rate in wardrobes (#84352)
+
 Cataclysm-DDA 0.I release candidate 2025-12-28-1533 (fe21565)
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles (#84354)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA 0.I release candidate 2025-12-23-1532 (a0a3b49)
 
 Cataclysm-DDA experimental build 2025-12-23-0532 (ea618a4)
 * Move ACT_OPERATION handler to bionic_operation_activity_actor (#84298)
-
-Cataclysm-DDA experimental build 2025-12-22-2112 (1f5c53a)
 * Fix --world on empty worlds (#84293)
 * Allow fields to track their sources (i.e. who started a fire) (#84246)
 * Require metal melting tools for melting metal (#84252)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2025-12-22-2112 (1f5c53a)
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository (#84212)
 * [MoM] Psychic Knacks grant noetic crafting proficiencies (#84211)
 * Doctor's Office Tweaks (#84209)
-* Make single fruit bushes less common, add huckleberry/hobbleberry patches (#84189)
 * Introduction of failure to damaged items to work for some items (6/?) (#84194)
