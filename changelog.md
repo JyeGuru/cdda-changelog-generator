@@ -1,3 +1,10 @@
+* add "OVERHEATS" flag to hm12. ([#84325](https://github.com/CleverRaven/Cataclysm-DDA/pull/84325))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-28-0401 ([b2da54d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0401))
+
+* Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
 
 ---
 
@@ -154,11 +161,6 @@
 #### Cataclysm-DDA 0.I release candidate 2025-12-22-0317 ([cab8e9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-22-0317))
 
 * Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-21-2208 ([39ab21f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-21-2208))
-
 * Add missing price to book_antho_pl ([#84279](https://github.com/CleverRaven/Cataclysm-DDA/pull/84279))
 * Fix typos in doc/CONTRIBUTING.md ([#84283](https://github.com/CleverRaven/Cataclysm-DDA/pull/84283))
 * Fix zzip_stack cold compaction & flush after compaction ([#84274](https://github.com/CleverRaven/Cataclysm-DDA/pull/84274))
@@ -218,5 +220,3 @@
 * Avoid bitset.set( bit , false) ([#84188](https://github.com/CleverRaven/Cataclysm-DDA/pull/84188))
 * allow to extend region feature flag settings ([#84175](https://github.com/CleverRaven/Cataclysm-DDA/pull/84175))
 * Nerf betavoltaic cell price by 50x ([#84177](https://github.com/CleverRaven/Cataclysm-DDA/pull/84177))
-* Fix pvc pipe itemgroups ([#84170](https://github.com/CleverRaven/Cataclysm-DDA/pull/84170))
-* Greatly reduce lone fruit trees in the forest ([#84173](https://github.com/CleverRaven/Cataclysm-DDA/pull/84173))
