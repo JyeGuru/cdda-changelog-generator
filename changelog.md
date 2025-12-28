@@ -1,3 +1,11 @@
+* Mobile Weather Stations II: Hub 01 quest & portal storm functionality ([#84309](https://github.com/CleverRaven/Cataclysm-DDA/pull/84309))
+* Sanify the weight of some vehicles ([#84303](https://github.com/CleverRaven/Cataclysm-DDA/pull/84303))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-28-0804 ([d6da778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0804))
+
+* Use GNU Make built-in rules ([#84330](https://github.com/CleverRaven/Cataclysm-DDA/pull/84330))
 
 ---
 
@@ -216,7 +224,4 @@
 * Doctor's Office Tweaks ([#84209](https://github.com/CleverRaven/Cataclysm-DDA/pull/84209))
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches ([#84189](https://github.com/CleverRaven/Cataclysm-DDA/pull/84189))
 * Introduction of failure to damaged items to work for some items (6/?) ([#84194](https://github.com/CleverRaven/Cataclysm-DDA/pull/84194))
-* Make permanent effect always at least 1 second long ([#84187](https://github.com/CleverRaven/Cataclysm-DDA/pull/84187))
-* [TropiCata] Further cleanup ([#84184](https://github.com/CleverRaven/Cataclysm-DDA/pull/84184))
-* [TropiCata] Non-native species pruning - Reptiles ([#84185](https://github.com/CleverRaven/Cataclysm-DDA/pull/84185))
 * Avoid bitset.set( bit , false) ([#84188](https://github.com/CleverRaven/Cataclysm-DDA/pull/84188))

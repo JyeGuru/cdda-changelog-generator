@@ -1,3 +1,8 @@
+* Mobile Weather Stations II: Hub 01 quest & portal storm functionality (#84309)
+* Sanify the weight of some vehicles (#84303)
+
+Cataclysm-DDA experimental build 2025-12-28-0804 (d6da778)
+* Use GNU Make built-in rules (#84330)
 
 Cataclysm-DDA experimental build 2025-12-28-0637 (fc80c8c)
 * [alt-map-key] Add new rural church tile to the mod (#84333)
@@ -138,7 +143,4 @@ Cataclysm-DDA experimental build 2025-12-22-1152 (acb311f)
 * Doctor's Office Tweaks (#84209)
 * Make single fruit bushes less common, add huckleberry/hobbleberry patches (#84189)
 * Introduction of failure to damaged items to work for some items (6/?) (#84194)
-* Make permanent effect always at least 1 second long (#84187)
-* [TropiCata] Further cleanup (#84184)
-* [TropiCata] Non-native species pruning - Reptiles (#84185)
 * Avoid bitset.set( bit , false) (#84188)
