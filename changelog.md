@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-28-0450 ([290cf12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0450))
+
 * add "OVERHEATS" flag to hm12. ([#84325](https://github.com/CleverRaven/Cataclysm-DDA/pull/84325))
 
 ---
@@ -155,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2025-12-22-0318 ([1ec15a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-22-0318))
 
 * [MoM] fix photokinetic_light_image max_damage ([#84286](https://github.com/CleverRaven/Cataclysm-DDA/pull/84286))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-12-22-0317 ([cab8e9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-22-0317))
-
 * Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
 * Add missing price to book_antho_pl ([#84279](https://github.com/CleverRaven/Cataclysm-DDA/pull/84279))
 * Fix typos in doc/CONTRIBUTING.md ([#84283](https://github.com/CleverRaven/Cataclysm-DDA/pull/84283))
