@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-12-22 to 2025-12-29 ([#84363](https://github.com/CleverRaven/Cataclysm-DDA/pull/84363))
 
 ---
 
@@ -186,7 +187,6 @@
 * Sensible mobile weather stations + things to do with them ([#84226](https://github.com/CleverRaven/Cataclysm-DDA/pull/84226))
 * Move the lore snippets from the faction to the diary UI ([#84272](https://github.com/CleverRaven/Cataclysm-DDA/pull/84272))
 * UCRT64 ncurses build fix ([#84266](https://github.com/CleverRaven/Cataclysm-DDA/pull/84266))
-* Fix basic typos and spelling errors ([#84198](https://github.com/CleverRaven/Cataclysm-DDA/pull/84198))
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84259](https://github.com/CleverRaven/Cataclysm-DDA/pull/84259))
 * Weekly Changelog 2025-12-08 to 2025-12-15 ([#84200](https://github.com/CleverRaven/Cataclysm-DDA/pull/84200))
 * map boards display a map behind glass so just make them readable ([#84253](https://github.com/CleverRaven/Cataclysm-DDA/pull/84253))

@@ -1,3 +1,4 @@
+* Weekly Changelog 2025-12-22 to 2025-12-29 (#84363)
 
 Cataclysm-DDA experimental build 2025-12-28-2350 (4927838)
 * overthrow the reign of RELOAD_ONE, aka Reload everything one by one as part of activity (#84328)
@@ -105,7 +106,6 @@ Cataclysm-DDA experimental build 2025-12-23-2135 (d76266a)
 * Sensible mobile weather stations + things to do with them (#84226)
 * Move the lore snippets from the faction to the diary UI (#84272)
 * UCRT64 ncurses build fix (#84266)
-* Fix basic typos and spelling errors (#84198)
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles (#84259)
 * Weekly Changelog 2025-12-08 to 2025-12-15 (#84200)
 * map boards display a map behind glass so just make them readable (#84253)
