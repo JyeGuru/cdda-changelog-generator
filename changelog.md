@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-29-2251 ([7272932](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-29-2251))
+
 * Weekly Changelog 2025-12-22 to 2025-12-29 ([#84363](https://github.com/CleverRaven/Cataclysm-DDA/pull/84363))
 
 ---
