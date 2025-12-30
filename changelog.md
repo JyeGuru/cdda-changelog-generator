@@ -1,3 +1,13 @@
+* Fix loose gunmods appearing as installed ([#84361](https://github.com/CleverRaven/Cataclysm-DDA/pull/84361))
+* Fix MSYS2/UCRT64 build ([#84357](https://github.com/CleverRaven/Cataclysm-DDA/pull/84357))
+* Fix tools not charging from cars outside reality bubble ([#84364](https://github.com/CleverRaven/Cataclysm-DDA/pull/84364))
+* [Bombastic Perks] limit perk_jugg max damage bonus to 15 ([#84368](https://github.com/CleverRaven/Cataclysm-DDA/pull/84368))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-30-0416 ([a7a8a74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0416))
+
+* [XE] Update the blood gift research EOC to include the new powers. ([#84372](https://github.com/CleverRaven/Cataclysm-DDA/pull/84372))
 
 ---
 
@@ -110,12 +120,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2025-12-26-1621 ([a9dd26d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-1621))
-
-* Add a nether-creature encounter with questionably useful XEDRA tech as a reward ([#84208](https://github.com/CleverRaven/Cataclysm-DDA/pull/84208))
-
----
-
 #### Cataclysm-DDA experimental build 2025-12-26-0741 ([4d1f364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-0741))
 
 * Correct Typos ([#84285](https://github.com/CleverRaven/Cataclysm-DDA/pull/84285))
@@ -171,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2025-12-24-1446 ([b3aa7f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-1446))
 
 * Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-24-0708 ([7fc0278](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-0708))
-
 * Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
 * Update holdout_pocket.json ([#84264](https://github.com/CleverRaven/Cataclysm-DDA/pull/84264))
@@ -207,7 +206,6 @@
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* Butchery blocks corpse rising ([#84210](https://github.com/CleverRaven/Cataclysm-DDA/pull/84210))
 * [MoM] Pyrokinesis artifact crystals ([#84213](https://github.com/CleverRaven/Cataclysm-DDA/pull/84213))
 * Remove JACKHAMMER from auto-mining ([#84215](https://github.com/CleverRaven/Cataclysm-DDA/pull/84215))
 * Remove anvilmancy (the ability to teleport anvils above zombies) ([#84217](https://github.com/CleverRaven/Cataclysm-DDA/pull/84217))
@@ -224,11 +222,8 @@
 * [MoM] Fix negative concentration limit problem ([#84223](https://github.com/CleverRaven/Cataclysm-DDA/pull/84223))
 * fix + clarify restricted genetics ([#84227](https://github.com/CleverRaven/Cataclysm-DDA/pull/84227))
 * [DDotD] Blacklist Compromised Shelter scenario ([#84221](https://github.com/CleverRaven/Cataclysm-DDA/pull/84221))
-* Add UNBREAKABLE_MORALE flag, apply it to zombies ([#84201](https://github.com/CleverRaven/Cataclysm-DDA/pull/84201))
 * [Magiclysm] Add 'type': 'perceived' to pain equation in spell failure formula ([#84219](https://github.com/CleverRaven/Cataclysm-DDA/pull/84219))
 * Move Psychic Scream to rebalance category, add a bit of documentation for modmods  ([#84216](https://github.com/CleverRaven/Cataclysm-DDA/pull/84216))
 * Fix the greeter bot shaking down new contributors for every comment ([#84218](https://github.com/CleverRaven/Cataclysm-DDA/pull/84218))
-* Introduction of failure to damaged items to work for some items (7/7) ([#84206](https://github.com/CleverRaven/Cataclysm-DDA/pull/84206))
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository ([#84212](https://github.com/CleverRaven/Cataclysm-DDA/pull/84212))
 * [MoM] Psychic Knacks grant noetic crafting proficiencies ([#84211](https://github.com/CleverRaven/Cataclysm-DDA/pull/84211))
-* Doctor's Office Tweaks ([#84209](https://github.com/CleverRaven/Cataclysm-DDA/pull/84209))
