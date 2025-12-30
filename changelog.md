@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-30-1716 ([6ef2037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-1716))
+
+* Fix Spell Messages ([#84376](https://github.com/CleverRaven/Cataclysm-DDA/pull/84376))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-30-0506 ([8547f64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0506))
 
 * Fix loose gunmods appearing as installed ([#84361](https://github.com/CleverRaven/Cataclysm-DDA/pull/84361))
@@ -168,11 +174,6 @@
 * [Magiclysm] Add missing perceived pain to success formula ([#84307](https://github.com/CleverRaven/Cataclysm-DDA/pull/84307))
 * Extract mutation activation messages for translation ([#84312](https://github.com/CleverRaven/Cataclysm-DDA/pull/84312))
 * Delete android_sdk on mac workers for more disk space. ([#84310](https://github.com/CleverRaven/Cataclysm-DDA/pull/84310))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-24-1448 ([c019e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-1448))
-
 * Weekly Changelog 2025-12-15 to 2025-12-22 ([#84288](https://github.com/CleverRaven/Cataclysm-DDA/pull/84288))
 * Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
 * Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
@@ -226,4 +227,3 @@
 * Move Psychic Scream to rebalance category, add a bit of documentation for modmods  ([#84216](https://github.com/CleverRaven/Cataclysm-DDA/pull/84216))
 * Fix the greeter bot shaking down new contributors for every comment ([#84218](https://github.com/CleverRaven/Cataclysm-DDA/pull/84218))
 * Add Mind Over Matter: Psychic Scream mod to the CDDA repository ([#84212](https://github.com/CleverRaven/Cataclysm-DDA/pull/84212))
-* [MoM] Psychic Knacks grant noetic crafting proficiencies ([#84211](https://github.com/CleverRaven/Cataclysm-DDA/pull/84211))
