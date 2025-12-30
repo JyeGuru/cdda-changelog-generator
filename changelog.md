@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-30-1942 ([d85b30d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-1942))
+
+* Fix potentially uninitialized variable used error ([#84380](https://github.com/CleverRaven/Cataclysm-DDA/pull/84380))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-30-1817 ([9d347e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-1817))
 
 * [ Xedra Evolved ] Legacy to hit removal ([#84350](https://github.com/CleverRaven/Cataclysm-DDA/pull/84350))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-12-25-1108 ([fad0102](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-1108))
 
 * Content 'Add boot gaiters' ([#84308](https://github.com/CleverRaven/Cataclysm-DDA/pull/84308))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-25-0144 ([22d814a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-0144))
-
 * [Magiclysm] Add missing perceived pain to success formula ([#84307](https://github.com/CleverRaven/Cataclysm-DDA/pull/84307))
 * Extract mutation activation messages for translation ([#84312](https://github.com/CleverRaven/Cataclysm-DDA/pull/84312))
 * Delete android_sdk on mac workers for more disk space. ([#84310](https://github.com/CleverRaven/Cataclysm-DDA/pull/84310))
@@ -213,7 +214,6 @@
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* [MoM] Pyrokinesis artifact crystals ([#84213](https://github.com/CleverRaven/Cataclysm-DDA/pull/84213))
 * Remove JACKHAMMER from auto-mining ([#84215](https://github.com/CleverRaven/Cataclysm-DDA/pull/84215))
 * Remove anvilmancy (the ability to teleport anvils above zombies) ([#84217](https://github.com/CleverRaven/Cataclysm-DDA/pull/84217))
 * nerf neoprene bash resistance to 1.5 ([#84228](https://github.com/CleverRaven/Cataclysm-DDA/pull/84228))
