@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-30-0506 ([8547f64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0506))
+
 * Fix loose gunmods appearing as installed ([#84361](https://github.com/CleverRaven/Cataclysm-DDA/pull/84361))
 * Fix MSYS2/UCRT64 build ([#84357](https://github.com/CleverRaven/Cataclysm-DDA/pull/84357))
 * Fix tools not charging from cars outside reality bubble ([#84364](https://github.com/CleverRaven/Cataclysm-DDA/pull/84364))
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2025-12-24-1448 ([c019e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-1448))
 
 * Weekly Changelog 2025-12-15 to 2025-12-22 ([#84288](https://github.com/CleverRaven/Cataclysm-DDA/pull/84288))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-24-1446 ([b3aa7f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-1446))
-
 * Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
 * Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
