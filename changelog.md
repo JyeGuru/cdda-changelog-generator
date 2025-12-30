@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-30-0200 ([08d26ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0200))
+
+* Oil up those pantries, and stock them up ([#84365](https://github.com/CleverRaven/Cataclysm-DDA/pull/84365))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-29-2251 ([7272932](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-29-2251))
 
 * Weekly Changelog 2025-12-22 to 2025-12-29 ([#84363](https://github.com/CleverRaven/Cataclysm-DDA/pull/84363))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2025-12-24-0708 ([7fc0278](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-24-0708))
 
 * Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-23-2135 ([d76266a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-23-2135))
-
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
 * Update holdout_pocket.json ([#84264](https://github.com/CleverRaven/Cataclysm-DDA/pull/84264))
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
@@ -193,7 +194,6 @@
 * Move the lore snippets from the faction to the diary UI ([#84272](https://github.com/CleverRaven/Cataclysm-DDA/pull/84272))
 * UCRT64 ncurses build fix ([#84266](https://github.com/CleverRaven/Cataclysm-DDA/pull/84266))
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84259](https://github.com/CleverRaven/Cataclysm-DDA/pull/84259))
-* Weekly Changelog 2025-12-08 to 2025-12-15 ([#84200](https://github.com/CleverRaven/Cataclysm-DDA/pull/84200))
 * map boards display a map behind glass so just make them readable ([#84253](https://github.com/CleverRaven/Cataclysm-DDA/pull/84253))
 * Move ACT_WAIT handlers to activity_actors ([#84263](https://github.com/CleverRaven/Cataclysm-DDA/pull/84263))
 * If gunmod is a gun itself, do not replace it's barrel length ([#84261](https://github.com/CleverRaven/Cataclysm-DDA/pull/84261))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-30-0200 (08d26ed)
+* Oil up those pantries, and stock them up (#84365)
+
 Cataclysm-DDA experimental build 2025-12-29-2251 (7272932)
 * Weekly Changelog 2025-12-22 to 2025-12-29 (#84363)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2025-12-24-1446 (b3aa7f7)
 
 Cataclysm-DDA experimental build 2025-12-24-0708 (7fc0278)
 * Remove MXE from release, fix clang on macOS (#84302)
-
-Cataclysm-DDA experimental build 2025-12-23-2135 (d76266a)
 * Move ACT_VIBE handler to vibe_activity_actor (#84304)
 * Update holdout_pocket.json (#84264)
 * [MoM] Add speech snippets for PHAVIAN scientists (#84296)
@@ -109,7 +110,6 @@ Cataclysm-DDA experimental build 2025-12-23-2135 (d76266a)
 * Move the lore snippets from the faction to the diary UI (#84272)
 * UCRT64 ncurses build fix (#84266)
 * [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles (#84259)
-* Weekly Changelog 2025-12-08 to 2025-12-15 (#84200)
 * map boards display a map behind glass so just make them readable (#84253)
 * Move ACT_WAIT handlers to activity_actors (#84263)
 * If gunmod is a gun itself, do not replace it's barrel length (#84261)
