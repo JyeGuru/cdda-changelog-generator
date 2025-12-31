@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-31-1535 (b74938b)
+* Fix oxytorch and reload activity actor crashes (#84394)
+
 Cataclysm-DDA experimental build 2025-12-31-0945 (21bdac1)
 * Consume menu activity obsoletion (#84348)
 
@@ -146,4 +149,3 @@ Cataclysm-DDA experimental build 2025-12-26-1826 (c33722f)
 * Don't allow character to sell their arms or legs (#84244)
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor (#84248)
 * [MoM] Add more knacks (#84236)
-* fix + clarify restricted genetics (#84227)
