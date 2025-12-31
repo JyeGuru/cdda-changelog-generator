@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-31-0523 ([15f3a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0523))
+
 * Fix Gasmask on UICAS helmet ([#84360](https://github.com/CleverRaven/Cataclysm-DDA/pull/84360))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-12-26-0607 ([1288038](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-0607))
 
 * Allow power producing bionics to stay on when empty (#80950) ([#84292](https://github.com/CleverRaven/Cataclysm-DDA/pull/84292))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-25-1628 ([665e5a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-1628))
-
 * Make barrel damage proportional to amount damage ([#84270](https://github.com/CleverRaven/Cataclysm-DDA/pull/84270))
 * Add unit test coverage for active items in vehicle cargo ([#84291](https://github.com/CleverRaven/Cataclysm-DDA/pull/84291))
 * Fix repeat words and typos ([#84290](https://github.com/CleverRaven/Cataclysm-DDA/pull/84290))
