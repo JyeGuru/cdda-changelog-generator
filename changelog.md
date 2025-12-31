@@ -1,3 +1,17 @@
+* Fix Gasmask on UICAS helmet ([#84360](https://github.com/CleverRaven/Cataclysm-DDA/pull/84360))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-31-0423 ([c9820c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0423))
+
+* More PAPR equipment ([#84366](https://github.com/CleverRaven/Cataclysm-DDA/pull/84366))
+* Aftershock: New city names ([#84390](https://github.com/CleverRaven/Cataclysm-DDA/pull/84390))
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-31-0330 ([665a424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0330))
+
+* Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
 
 ---
 
@@ -166,17 +180,7 @@
 
 * Make barrel damage proportional to amount damage ([#84270](https://github.com/CleverRaven/Cataclysm-DDA/pull/84270))
 * Add unit test coverage for active items in vehicle cargo ([#84291](https://github.com/CleverRaven/Cataclysm-DDA/pull/84291))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-25-1204 ([2a17855](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-1204))
-
 * Fix repeat words and typos ([#84290](https://github.com/CleverRaven/Cataclysm-DDA/pull/84290))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-25-1108 ([fad0102](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-25-1108))
-
 * Content 'Add boot gaiters' ([#84308](https://github.com/CleverRaven/Cataclysm-DDA/pull/84308))
 * [Magiclysm] Add missing perceived pain to success formula ([#84307](https://github.com/CleverRaven/Cataclysm-DDA/pull/84307))
 * Extract mutation activation messages for translation ([#84312](https://github.com/CleverRaven/Cataclysm-DDA/pull/84312))
@@ -214,8 +218,6 @@
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* Remove JACKHAMMER from auto-mining ([#84215](https://github.com/CleverRaven/Cataclysm-DDA/pull/84215))
-* Remove anvilmancy (the ability to teleport anvils above zombies) ([#84217](https://github.com/CleverRaven/Cataclysm-DDA/pull/84217))
 * nerf neoprene bash resistance to 1.5 ([#84228](https://github.com/CleverRaven/Cataclysm-DDA/pull/84228))
 * Martial Mastery: Poise perkline ([#84233](https://github.com/CleverRaven/Cataclysm-DDA/pull/84233))
 * add radiosphere dimension ([#84234](https://github.com/CleverRaven/Cataclysm-DDA/pull/84234))
@@ -230,5 +232,3 @@
 * fix + clarify restricted genetics ([#84227](https://github.com/CleverRaven/Cataclysm-DDA/pull/84227))
 * [DDotD] Blacklist Compromised Shelter scenario ([#84221](https://github.com/CleverRaven/Cataclysm-DDA/pull/84221))
 * [Magiclysm] Add 'type': 'perceived' to pain equation in spell failure formula ([#84219](https://github.com/CleverRaven/Cataclysm-DDA/pull/84219))
-* Move Psychic Scream to rebalance category, add a bit of documentation for modmods  ([#84216](https://github.com/CleverRaven/Cataclysm-DDA/pull/84216))
-* Fix the greeter bot shaking down new contributors for every comment ([#84218](https://github.com/CleverRaven/Cataclysm-DDA/pull/84218))
