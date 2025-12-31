@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-31-2052 ([44ed744](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-2052))
+
+* Fix car offroad reverse speed not being restricted by weight ([#84324](https://github.com/CleverRaven/Cataclysm-DDA/pull/84324))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-31-1535 ([b74938b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-1535))
 
 * Fix oxytorch and reload activity actor crashes ([#84394](https://github.com/CleverRaven/Cataclysm-DDA/pull/84394))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2025-12-26-2333 ([ab56bf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-2333))
 
 * Fix empty ammo belts in lab barracks ([#84322](https://github.com/CleverRaven/Cataclysm-DDA/pull/84322))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-26-1826 ([c33722f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-1826))
-
 * Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
 * Correct Typos ([#84285](https://github.com/CleverRaven/Cataclysm-DDA/pull/84285))
 * [DDotD] Edit description to specify setting  ([#84315](https://github.com/CleverRaven/Cataclysm-DDA/pull/84315))
@@ -226,7 +227,6 @@
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* nerf neoprene bash resistance to 1.5 ([#84228](https://github.com/CleverRaven/Cataclysm-DDA/pull/84228))
 * Martial Mastery: Poise perkline ([#84233](https://github.com/CleverRaven/Cataclysm-DDA/pull/84233))
 * add radiosphere dimension ([#84234](https://github.com/CleverRaven/Cataclysm-DDA/pull/84234))
 * Add zombies in the supermarket ([#84237](https://github.com/CleverRaven/Cataclysm-DDA/pull/84237))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2025-12-31-2052 (44ed744)
+* Fix car offroad reverse speed not being restricted by weight (#84324)
+
 Cataclysm-DDA experimental build 2025-12-31-1535 (b74938b)
 * Fix oxytorch and reload activity actor crashes (#84394)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2025-12-27-0749 (317f852)
 
 Cataclysm-DDA experimental build 2025-12-26-2333 (ab56bf5)
 * Fix empty ammo belts in lab barracks (#84322)
-
-Cataclysm-DDA experimental build 2025-12-26-1826 (c33722f)
 * Long attack warning at 300 moves instead of 1000 (#84323)
 * Correct Typos (#84285)
 * [DDotD] Edit description to specify setting  (#84315)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2025-12-26-1826 (c33722f)
 * [Magiclysm] Shapeshifting and druid items (#84247)
 * add barrel lenght for usp (#84262)
 * [DDotD] Movie poster loading screen (#84258)
-* nerf neoprene bash resistance to 1.5 (#84228)
 * Martial Mastery: Poise perkline (#84233)
 * add radiosphere dimension (#84234)
 * Add zombies in the supermarket (#84237)
