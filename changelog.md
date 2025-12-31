@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2025-12-31-0627 ([e7406d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0627))
+
+* 10x reduce trade value of nvg attachments ([#84391](https://github.com/CleverRaven/Cataclysm-DDA/pull/84391))
+
+---
+
 #### Cataclysm-DDA experimental build 2025-12-31-0523 ([15f3a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0523))
 
 * Fix Gasmask on UICAS helmet ([#84360](https://github.com/CleverRaven/Cataclysm-DDA/pull/84360))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-12-26-0654 ([8b9caf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-0654))
 
 * Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-26-0607 ([1288038](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-0607))
-
 * Allow power producing bionics to stay on when empty (#80950) ([#84292](https://github.com/CleverRaven/Cataclysm-DDA/pull/84292))
 * Make barrel damage proportional to amount damage ([#84270](https://github.com/CleverRaven/Cataclysm-DDA/pull/84270))
 * Add unit test coverage for active items in vehicle cargo ([#84291](https://github.com/CleverRaven/Cataclysm-DDA/pull/84291))
@@ -231,4 +232,3 @@
 * [MoM] Fix negative concentration limit problem ([#84223](https://github.com/CleverRaven/Cataclysm-DDA/pull/84223))
 * fix + clarify restricted genetics ([#84227](https://github.com/CleverRaven/Cataclysm-DDA/pull/84227))
 * [DDotD] Blacklist Compromised Shelter scenario ([#84221](https://github.com/CleverRaven/Cataclysm-DDA/pull/84221))
-* [Magiclysm] Add 'type': 'perceived' to pain equation in spell failure formula ([#84219](https://github.com/CleverRaven/Cataclysm-DDA/pull/84219))
