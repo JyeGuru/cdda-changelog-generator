@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2025-12-31-2136 ([cf89bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-2136))
+
+* Better assignment of credit/blame for thrown molotovs ([#84389](https://github.com/CleverRaven/Cataclysm-DDA/pull/84389))
 * Don't spawn horde of blacklisted monsters ([#84385](https://github.com/CleverRaven/Cataclysm-DDA/pull/84385))
 * Add ammo-related unit tests for ammo_type and common_ammo_default ([#84397](https://github.com/CleverRaven/Cataclysm-DDA/pull/84397))
 * Fix yrax golden monolith spell ([#84382](https://github.com/CleverRaven/Cataclysm-DDA/pull/84382))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2025-12-27-0749 ([317f852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-0749))
 
 * Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-26-2333 ([ab56bf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-26-2333))
-
 * Fix empty ammo belts in lab barracks ([#84322](https://github.com/CleverRaven/Cataclysm-DDA/pull/84322))
 * Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
 * Correct Typos ([#84285](https://github.com/CleverRaven/Cataclysm-DDA/pull/84285))
@@ -231,7 +232,6 @@
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* Remove lore doc mention of mi-go in relation to CBMs ([#84240](https://github.com/CleverRaven/Cataclysm-DDA/pull/84240))
 * Rename "Basic" soundpack to "Menu_Sound_Test" ([#84241](https://github.com/CleverRaven/Cataclysm-DDA/pull/84241))
 * Murdering humans("monsters") is still murdering humans ([#84242](https://github.com/CleverRaven/Cataclysm-DDA/pull/84242))
 * Don't allow character to sell their arms or legs ([#84244](https://github.com/CleverRaven/Cataclysm-DDA/pull/84244))
