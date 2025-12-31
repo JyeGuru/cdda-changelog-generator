@@ -1,3 +1,8 @@
+* Don't spawn horde of blacklisted monsters ([#84385](https://github.com/CleverRaven/Cataclysm-DDA/pull/84385))
+* Add ammo-related unit tests for ammo_type and common_ammo_default ([#84397](https://github.com/CleverRaven/Cataclysm-DDA/pull/84397))
+* Fix yrax golden monolith spell ([#84382](https://github.com/CleverRaven/Cataclysm-DDA/pull/84382))
+* Fix up the `house_w_5` mapgen ([#84378](https://github.com/CleverRaven/Cataclysm-DDA/pull/84378))
+* Check if Character pointer is valid before using it for message ([#84399](https://github.com/CleverRaven/Cataclysm-DDA/pull/84399))
 
 ---
 
@@ -221,18 +226,13 @@
 * Allow overriding in snippets definitions ([#84276](https://github.com/CleverRaven/Cataclysm-DDA/pull/84276))
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
-* Remove majority of mutation conflicts from the bionics formerly known as alloy plating ([#84229](https://github.com/CleverRaven/Cataclysm-DDA/pull/84229))
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
 * Fixes Cloud Formation and Pressure ([#84245](https://github.com/CleverRaven/Cataclysm-DDA/pull/84245))
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* Martial Mastery: Poise perkline ([#84233](https://github.com/CleverRaven/Cataclysm-DDA/pull/84233))
-* add radiosphere dimension ([#84234](https://github.com/CleverRaven/Cataclysm-DDA/pull/84234))
-* Add zombies in the supermarket ([#84237](https://github.com/CleverRaven/Cataclysm-DDA/pull/84237))
 * Remove lore doc mention of mi-go in relation to CBMs ([#84240](https://github.com/CleverRaven/Cataclysm-DDA/pull/84240))
 * Rename "Basic" soundpack to "Menu_Sound_Test" ([#84241](https://github.com/CleverRaven/Cataclysm-DDA/pull/84241))
 * Murdering humans("monsters") is still murdering humans ([#84242](https://github.com/CleverRaven/Cataclysm-DDA/pull/84242))
 * Don't allow character to sell their arms or legs ([#84244](https://github.com/CleverRaven/Cataclysm-DDA/pull/84244))
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
-* [MoM] Add more knacks ([#84236](https://github.com/CleverRaven/Cataclysm-DDA/pull/84236))
