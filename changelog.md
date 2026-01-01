@@ -1,3 +1,10 @@
+* Update Makefile clean target in lang/ directory ([#84405](https://github.com/CleverRaven/Cataclysm-DDA/pull/84405))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-01-2239 ([e6e5633](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-2239))
+
+* [DDotD] Increase the number of farms ([#84415](https://github.com/CleverRaven/Cataclysm-DDA/pull/84415))
 
 ---
 
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2025-12-28-0401 ([b2da54d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0401))
 
 * Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-27-2035 ([70e4ed9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-2035))
-
 * Fix installed gunmods appearing in multidrop ([#84316](https://github.com/CleverRaven/Cataclysm-DDA/pull/84316))
 * Couple of micro fixes to the Supermarket ([#84339](https://github.com/CleverRaven/Cataclysm-DDA/pull/84339))
 * Make an enchantment to modify "free dodges" ([#84326](https://github.com/CleverRaven/Cataclysm-DDA/pull/84326))
@@ -218,7 +220,6 @@
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
 * Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
 * Fix --world on empty worlds ([#84293](https://github.com/CleverRaven/Cataclysm-DDA/pull/84293))
-* Allow fields to track their sources (i.e. who started a fire) ([#84246](https://github.com/CleverRaven/Cataclysm-DDA/pull/84246))
 * Require metal melting tools for melting metal ([#84252](https://github.com/CleverRaven/Cataclysm-DDA/pull/84252))
 * [MoM] fix photokinetic_light_image max_damage ([#84286](https://github.com/CleverRaven/Cataclysm-DDA/pull/84286))
 * Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
@@ -237,7 +238,6 @@
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
-* [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
