@@ -1,3 +1,10 @@
+* Fix kelvinist class on spell that where kelvinist doesn't exist ([#84375](https://github.com/CleverRaven/Cataclysm-DDA/pull/84375))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-01-0930 ([e183fd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-0930))
+
+* Translate inventory UI mode name ([#84406](https://github.com/CleverRaven/Cataclysm-DDA/pull/84406))
 
 ---
 
@@ -232,7 +239,5 @@
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* Rename "Basic" soundpack to "Menu_Sound_Test" ([#84241](https://github.com/CleverRaven/Cataclysm-DDA/pull/84241))
-* Murdering humans("monsters") is still murdering humans ([#84242](https://github.com/CleverRaven/Cataclysm-DDA/pull/84242))
 * Don't allow character to sell their arms or legs ([#84244](https://github.com/CleverRaven/Cataclysm-DDA/pull/84244))
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
