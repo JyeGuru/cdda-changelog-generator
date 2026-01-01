@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-01-1018 (66701e1)
 * Fix kelvinist class on spell that where kelvinist doesn't exist (#84375)
 
 Cataclysm-DDA experimental build 2026-01-01-0930 (e183fd5)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2025-12-27-1232 (ff9b23b)
 
 Cataclysm-DDA experimental build 2025-12-27-0832 (99db6c0)
 * Make an enchantment to modify "free dodges" (#84326)
-
-Cataclysm-DDA experimental build 2025-12-27-0749 (317f852)
 * Fix dimension-shifting error (#84331)
 * Fix empty ammo belts in lab barracks (#84322)
 * Long attack warning at 300 moves instead of 1000 (#84323)

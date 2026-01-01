@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-01-1018 ([66701e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-1018))
+
 * Fix kelvinist class on spell that where kelvinist doesn't exist ([#84375](https://github.com/CleverRaven/Cataclysm-DDA/pull/84375))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-12-27-0832 ([99db6c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-0832))
 
 * Make an enchantment to modify "free dodges" ([#84326](https://github.com/CleverRaven/Cataclysm-DDA/pull/84326))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-27-0749 ([317f852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-0749))
-
 * Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
 * Fix empty ammo belts in lab barracks ([#84322](https://github.com/CleverRaven/Cataclysm-DDA/pull/84322))
 * Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
