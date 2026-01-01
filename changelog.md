@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-01-1802 ([7b09aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-1802))
+
+* Add max property to St. John's farm ([#84412](https://github.com/CleverRaven/Cataclysm-DDA/pull/84412))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-01-1553 ([84b3370](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-1553))
 
 * Fix invalid spell in twisted_geometry ([#84408](https://github.com/CleverRaven/Cataclysm-DDA/pull/84408))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-12-27-2035 ([70e4ed9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-2035))
 
 * Fix installed gunmods appearing in multidrop ([#84316](https://github.com/CleverRaven/Cataclysm-DDA/pull/84316))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-27-1232 ([ff9b23b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-1232))
-
 * Couple of micro fixes to the Supermarket ([#84339](https://github.com/CleverRaven/Cataclysm-DDA/pull/84339))
 * Make an enchantment to modify "free dodges" ([#84326](https://github.com/CleverRaven/Cataclysm-DDA/pull/84326))
 * Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
@@ -236,7 +237,6 @@
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
-* Fixes Cloud Formation and Pressure ([#84245](https://github.com/CleverRaven/Cataclysm-DDA/pull/84245))
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
