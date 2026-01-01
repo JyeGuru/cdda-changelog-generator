@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-01-1553 ([84b3370](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-1553))
+
+* Fix invalid spell in twisted_geometry ([#84408](https://github.com/CleverRaven/Cataclysm-DDA/pull/84408))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-01-1018 ([66701e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-1018))
 
 * Fix kelvinist class on spell that where kelvinist doesn't exist ([#84375](https://github.com/CleverRaven/Cataclysm-DDA/pull/84375))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2025-12-27-1232 ([ff9b23b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-1232))
 
 * Couple of micro fixes to the Supermarket ([#84339](https://github.com/CleverRaven/Cataclysm-DDA/pull/84339))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-27-0832 ([99db6c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-27-0832))
-
 * Make an enchantment to modify "free dodges" ([#84326](https://github.com/CleverRaven/Cataclysm-DDA/pull/84326))
 * Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
 * Fix empty ammo belts in lab barracks ([#84322](https://github.com/CleverRaven/Cataclysm-DDA/pull/84322))
@@ -239,5 +240,4 @@
 * [Magiclysm] Shapeshifting and druid items ([#84247](https://github.com/CleverRaven/Cataclysm-DDA/pull/84247))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* Don't allow character to sell their arms or legs ([#84244](https://github.com/CleverRaven/Cataclysm-DDA/pull/84244))
 * Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
