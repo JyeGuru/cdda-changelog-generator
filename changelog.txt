@@ -1,3 +1,9 @@
+
+Cataclysm-DDA experimental build 2026-01-02-0424 (da643e5)
+* Print better stat info in ammo (#84387)
+
+Cataclysm-DDA experimental build 2026-01-02-0341 (1df1872)
+* Change meadow `travel_cost_type` from field to forest (#84413)
 * Update Makefile clean target in lang/ directory (#84405)
 
 Cataclysm-DDA experimental build 2026-01-01-2239 (e6e5633)
@@ -83,8 +89,6 @@ Cataclysm-DDA experimental build 2025-12-28-2308 (3d31903)
 
 Cataclysm-DDA experimental build 2025-12-28-1640 (726cc31)
 * Increase shoe spawn rate in wardrobes (#84352)
-
-Cataclysm-DDA 0.I release candidate 2025-12-28-1533 (fe21565)
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles (#84354)
 
 Cataclysm-DDA experimental build 2025-12-28-0855 (11a6905)
@@ -102,8 +106,6 @@ Cataclysm-DDA experimental build 2025-12-28-0637 (fc80c8c)
 
 Cataclysm-DDA experimental build 2025-12-28-0450 (290cf12)
 * add "OVERHEATS" flag to hm12. (#84325)
-
-Cataclysm-DDA experimental build 2025-12-28-0401 (b2da54d)
 * Add "VOLLEY" flag to double firing weapons (#84344)
 * Fix installed gunmods appearing in multidrop (#84316)
 * Couple of micro fixes to the Supermarket (#84339)
@@ -130,7 +132,6 @@ Cataclysm-DDA experimental build 2025-12-28-0401 (b2da54d)
 * [MoM] Add speech snippets for PHAVIAN scientists (#84296)
 * Move ACT_OPERATION handler to bionic_operation_activity_actor (#84298)
 * Fix --world on empty worlds (#84293)
-* Require metal melting tools for melting metal (#84252)
 * [MoM] fix photokinetic_light_image max_damage (#84286)
 * Backport some zzip fixes to 0.I (#84287)
 * Add missing price to book_antho_pl (#84279)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2025-12-28-0401 (b2da54d)
 * Typo in iuse (#84265)
 * add barrel lenght for usp (#84262)
 * [DDotD] Movie poster loading screen (#84258)
-* Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor (#84248)

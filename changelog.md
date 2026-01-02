@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-02-0424 ([da643e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0424))
+
+* Print better stat info in ammo ([#84387](https://github.com/CleverRaven/Cataclysm-DDA/pull/84387))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-02-0341 ([1df1872](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0341))
+
+* Change meadow `travel_cost_type` from field to forest ([#84413](https://github.com/CleverRaven/Cataclysm-DDA/pull/84413))
 * Update Makefile clean target in lang/ directory ([#84405](https://github.com/CleverRaven/Cataclysm-DDA/pull/84405))
 
 ---
@@ -155,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2025-12-28-1640 ([726cc31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-1640))
 
 * Increase shoe spawn rate in wardrobes ([#84352](https://github.com/CleverRaven/Cataclysm-DDA/pull/84352))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2025-12-28-1533 ([fe21565](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2025-12-28-1533))
-
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84354](https://github.com/CleverRaven/Cataclysm-DDA/pull/84354))
 
 ---
@@ -189,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2025-12-28-0450 ([290cf12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0450))
 
 * add "OVERHEATS" flag to hm12. ([#84325](https://github.com/CleverRaven/Cataclysm-DDA/pull/84325))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-28-0401 ([b2da54d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0401))
-
 * Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
 * Fix installed gunmods appearing in multidrop ([#84316](https://github.com/CleverRaven/Cataclysm-DDA/pull/84316))
 * Couple of micro fixes to the Supermarket ([#84339](https://github.com/CleverRaven/Cataclysm-DDA/pull/84339))
@@ -220,7 +222,6 @@
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
 * Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
 * Fix --world on empty worlds ([#84293](https://github.com/CleverRaven/Cataclysm-DDA/pull/84293))
-* Require metal melting tools for melting metal ([#84252](https://github.com/CleverRaven/Cataclysm-DDA/pull/84252))
 * [MoM] fix photokinetic_light_image max_damage ([#84286](https://github.com/CleverRaven/Cataclysm-DDA/pull/84286))
 * Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
 * Add missing price to book_antho_pl ([#84279](https://github.com/CleverRaven/Cataclysm-DDA/pull/84279))
@@ -240,4 +241,3 @@
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
 * add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
 * [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
-* Move ACT_GAME/ACT_GENERIC_GAME handler to activity_actor ([#84248](https://github.com/CleverRaven/Cataclysm-DDA/pull/84248))
