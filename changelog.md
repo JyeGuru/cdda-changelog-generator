@@ -1,6 +1,16 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-02-0515 ([1c99beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0515))
+
+* Content (finally) add Chem goggles ([#84392](https://github.com/CleverRaven/Cataclysm-DDA/pull/84392))
+* Balance Trust ([#84396](https://github.com/CleverRaven/Cataclysm-DDA/pull/84396))
+* Fix map cache not revealing map ([#84409](https://github.com/CleverRaven/Cataclysm-DDA/pull/84409))
+* Add tests for multi-ammo restrictions in pockets and magazines ([#84407](https://github.com/CleverRaven/Cataclysm-DDA/pull/84407))
+* [DinoMod] bird bodies teach about dino weak points ([#84403](https://github.com/CleverRaven/Cataclysm-DDA/pull/84403))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-02-0424 ([da643e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0424))
 
 * Print better stat info in ammo ([#84387](https://github.com/CleverRaven/Cataclysm-DDA/pull/84387))
@@ -190,11 +200,6 @@
 * [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
 * fix freshwater research station moon pool ([#84340](https://github.com/CleverRaven/Cataclysm-DDA/pull/84340))
 * Fix lack of autoaim in certain cases ([#84341](https://github.com/CleverRaven/Cataclysm-DDA/pull/84341))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-28-0450 ([290cf12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0450))
-
 * add "OVERHEATS" flag to hm12. ([#84325](https://github.com/CleverRaven/Cataclysm-DDA/pull/84325))
 * Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
 * Fix installed gunmods appearing in multidrop ([#84316](https://github.com/CleverRaven/Cataclysm-DDA/pull/84316))
@@ -230,14 +235,9 @@
 * Make numb work with new murder guilt ([#84278](https://github.com/CleverRaven/Cataclysm-DDA/pull/84278))
 * Move the lore snippets from the faction to the diary UI ([#84272](https://github.com/CleverRaven/Cataclysm-DDA/pull/84272))
 * UCRT64 ncurses build fix ([#84266](https://github.com/CleverRaven/Cataclysm-DDA/pull/84266))
-* [Bugfix]: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84259](https://github.com/CleverRaven/Cataclysm-DDA/pull/84259))
-* map boards display a map behind glass so just make them readable ([#84253](https://github.com/CleverRaven/Cataclysm-DDA/pull/84253))
 * Move ACT_WAIT handlers to activity_actors ([#84263](https://github.com/CleverRaven/Cataclysm-DDA/pull/84263))
-* If gunmod is a gun itself, do not replace it's barrel length ([#84261](https://github.com/CleverRaven/Cataclysm-DDA/pull/84261))
 * Getting hurt is bad for your long-term health ([#84277](https://github.com/CleverRaven/Cataclysm-DDA/pull/84277))
 * Allow overriding in snippets definitions ([#84276](https://github.com/CleverRaven/Cataclysm-DDA/pull/84276))
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
 * Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
-* add barrel lenght for usp ([#84262](https://github.com/CleverRaven/Cataclysm-DDA/pull/84262))
-* [DDotD] Movie poster loading screen ([#84258](https://github.com/CleverRaven/Cataclysm-DDA/pull/84258))
