@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-02-0942 (7557665)
+* Remove legacy use/can_use iuse_actor functions (#84393)
+
 Cataclysm-DDA experimental build 2026-01-02-0515 (1c99beb)
 * Content (finally) add Chem goggles (#84392)
 * Balance Trust (#84396)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2025-12-28-0855 (11a6905)
 
 Cataclysm-DDA experimental build 2025-12-28-0804 (d6da778)
 * Use GNU Make built-in rules (#84330)
-
-Cataclysm-DDA experimental build 2025-12-28-0637 (fc80c8c)
 * [alt-map-key] Add new rural church tile to the mod (#84333)
 * [MoM] Fix Speed Reading practice recipe power snippet (#84349)
 * fix freshwater research station moon pool (#84340)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2025-12-28-0637 (fc80c8c)
 * Make numb work with new murder guilt (#84278)
 * Move the lore snippets from the faction to the diary UI (#84272)
 * UCRT64 ncurses build fix (#84266)
-* Move ACT_WAIT handlers to activity_actors (#84263)
 * Getting hurt is bad for your long-term health (#84277)
 * Allow overriding in snippets definitions (#84276)
 * Fix details for Intensify Flames power (#84275)

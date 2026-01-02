@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-02-0942 ([7557665](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0942))
+
+* Remove legacy use/can_use iuse_actor functions ([#84393](https://github.com/CleverRaven/Cataclysm-DDA/pull/84393))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-02-0515 ([1c99beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0515))
 
 * Content (finally) add Chem goggles ([#84392](https://github.com/CleverRaven/Cataclysm-DDA/pull/84392))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2025-12-28-0804 ([d6da778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0804))
 
 * Use GNU Make built-in rules ([#84330](https://github.com/CleverRaven/Cataclysm-DDA/pull/84330))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-28-0637 ([fc80c8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0637))
-
 * [alt-map-key] Add new rural church tile to the mod ([#84333](https://github.com/CleverRaven/Cataclysm-DDA/pull/84333))
 * [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
 * fix freshwater research station moon pool ([#84340](https://github.com/CleverRaven/Cataclysm-DDA/pull/84340))
@@ -235,7 +236,6 @@
 * Make numb work with new murder guilt ([#84278](https://github.com/CleverRaven/Cataclysm-DDA/pull/84278))
 * Move the lore snippets from the faction to the diary UI ([#84272](https://github.com/CleverRaven/Cataclysm-DDA/pull/84272))
 * UCRT64 ncurses build fix ([#84266](https://github.com/CleverRaven/Cataclysm-DDA/pull/84266))
-* Move ACT_WAIT handlers to activity_actors ([#84263](https://github.com/CleverRaven/Cataclysm-DDA/pull/84263))
 * Getting hurt is bad for your long-term health ([#84277](https://github.com/CleverRaven/Cataclysm-DDA/pull/84277))
 * Allow overriding in snippets definitions ([#84276](https://github.com/CleverRaven/Cataclysm-DDA/pull/84276))
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
