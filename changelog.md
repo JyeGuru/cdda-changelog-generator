@@ -1,3 +1,6 @@
+* Adjusted USP .45 pistol dispersion ([#84425](https://github.com/CleverRaven/Cataclysm-DDA/pull/84425))
+* Radiogenic does not make you immune to radiation sickness ([#84359](https://github.com/CleverRaven/Cataclysm-DDA/pull/84359))
+* [ Magiclysm ] Valzain also likes fiction anthologies ([#84362](https://github.com/CleverRaven/Cataclysm-DDA/pull/84362))
 
 ---
 
@@ -191,11 +194,6 @@
 
 * Mobile Weather Stations II: Hub 01 quest & portal storm functionality ([#84309](https://github.com/CleverRaven/Cataclysm-DDA/pull/84309))
 * Sanify the weight of some vehicles ([#84303](https://github.com/CleverRaven/Cataclysm-DDA/pull/84303))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-28-0804 ([d6da778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-0804))
-
 * Use GNU Make built-in rules ([#84330](https://github.com/CleverRaven/Cataclysm-DDA/pull/84330))
 * [alt-map-key] Add new rural church tile to the mod ([#84333](https://github.com/CleverRaven/Cataclysm-DDA/pull/84333))
 * [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
@@ -213,7 +211,6 @@
 * [DDotD] Edit description to specify setting  ([#84315](https://github.com/CleverRaven/Cataclysm-DDA/pull/84315))
 * Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
 * Allow power producing bionics to stay on when empty (#80950) ([#84292](https://github.com/CleverRaven/Cataclysm-DDA/pull/84292))
-* Make barrel damage proportional to amount damage ([#84270](https://github.com/CleverRaven/Cataclysm-DDA/pull/84270))
 * Add unit test coverage for active items in vehicle cargo ([#84291](https://github.com/CleverRaven/Cataclysm-DDA/pull/84291))
 * Fix repeat words and typos ([#84290](https://github.com/CleverRaven/Cataclysm-DDA/pull/84290))
 * Content 'Add boot gaiters' ([#84308](https://github.com/CleverRaven/Cataclysm-DDA/pull/84308))
@@ -234,9 +231,7 @@
 * Fix zzip_stack cold compaction & flush after compaction ([#84274](https://github.com/CleverRaven/Cataclysm-DDA/pull/84274))
 * Make numb work with new murder guilt ([#84278](https://github.com/CleverRaven/Cataclysm-DDA/pull/84278))
 * Move the lore snippets from the faction to the diary UI ([#84272](https://github.com/CleverRaven/Cataclysm-DDA/pull/84272))
-* UCRT64 ncurses build fix ([#84266](https://github.com/CleverRaven/Cataclysm-DDA/pull/84266))
 * Getting hurt is bad for your long-term health ([#84277](https://github.com/CleverRaven/Cataclysm-DDA/pull/84277))
 * Allow overriding in snippets definitions ([#84276](https://github.com/CleverRaven/Cataclysm-DDA/pull/84276))
 * Fix details for Intensify Flames power ([#84275](https://github.com/CleverRaven/Cataclysm-DDA/pull/84275))
 * Fix failing to route to a tile we're already on during sorting ([#84273](https://github.com/CleverRaven/Cataclysm-DDA/pull/84273))
-* Typo in iuse ([#84265](https://github.com/CleverRaven/Cataclysm-DDA/pull/84265))
