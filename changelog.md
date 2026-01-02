@@ -224,7 +224,6 @@
 * Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
 * Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
-* Update holdout_pocket.json ([#84264](https://github.com/CleverRaven/Cataclysm-DDA/pull/84264))
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
 * Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
 * Fix --world on empty worlds ([#84293](https://github.com/CleverRaven/Cataclysm-DDA/pull/84293))
