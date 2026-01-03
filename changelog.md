@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-03-0156 ([c146d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-0156))
+
+* Do not render non-zombies on map when showing horde ([#84417](https://github.com/CleverRaven/Cataclysm-DDA/pull/84417))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-03-0013 ([fd06431](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-0013))
+
+* Remove CLIMBABLE from gutters, add for dumpsters ([#84430](https://github.com/CleverRaven/Cataclysm-DDA/pull/84430))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-02-2328 ([bea3ab8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-2328))
 
 * Add new pot types into allowed_tools for veh_tools_part_abstract ([#84402](https://github.com/CleverRaven/Cataclysm-DDA/pull/84402))
@@ -182,18 +194,8 @@
 * overthrow the reign of RELOAD_ONE, aka Reload everything one by one as part of activity ([#84328](https://github.com/CleverRaven/Cataclysm-DDA/pull/84328))
 * [alt-map-key] Added new limnological station hub01 quest location ([#84351](https://github.com/CleverRaven/Cataclysm-DDA/pull/84351))
 * 2-piece Powered Air-Purifying Respirator system ([#84355](https://github.com/CleverRaven/Cataclysm-DDA/pull/84355))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-28-2308 ([3d31903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-2308))
-
 * Bugfix pockets on MWS quest reward pack frame ([#84356](https://github.com/CleverRaven/Cataclysm-DDA/pull/84356))
 * Fix CMake not using ccache on Windows ([#84346](https://github.com/CleverRaven/Cataclysm-DDA/pull/84346))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-28-1640 ([726cc31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-1640))
-
 * Increase shoe spawn rate in wardrobes ([#84352](https://github.com/CleverRaven/Cataclysm-DDA/pull/84352))
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84354](https://github.com/CleverRaven/Cataclysm-DDA/pull/84354))
 * Mobile Weather Stations II: Hub 01 quest & portal storm functionality ([#84309](https://github.com/CleverRaven/Cataclysm-DDA/pull/84309))
@@ -233,5 +235,3 @@
 * Add missing price to book_antho_pl ([#84279](https://github.com/CleverRaven/Cataclysm-DDA/pull/84279))
 * Fix typos in doc/CONTRIBUTING.md ([#84283](https://github.com/CleverRaven/Cataclysm-DDA/pull/84283))
 * Make numb work with new murder guilt ([#84278](https://github.com/CleverRaven/Cataclysm-DDA/pull/84278))
-* Getting hurt is bad for your long-term health ([#84277](https://github.com/CleverRaven/Cataclysm-DDA/pull/84277))
-* Allow overriding in snippets definitions ([#84276](https://github.com/CleverRaven/Cataclysm-DDA/pull/84276))
