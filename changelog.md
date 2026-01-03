@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-03-1800 ([266d890](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-1800))
+
+* Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-03-0156 ([c146d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-0156))
 
 * Do not render non-zombies on map when showing horde ([#84417](https://github.com/CleverRaven/Cataclysm-DDA/pull/84417))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-12-30-0200 ([08d26ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0200))
 
 * Oil up those pantries, and stock them up ([#84365](https://github.com/CleverRaven/Cataclysm-DDA/pull/84365))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-29-2251 ([7272932](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-29-2251))
-
 * Weekly Changelog 2025-12-22 to 2025-12-29 ([#84363](https://github.com/CleverRaven/Cataclysm-DDA/pull/84363))
 * overthrow the reign of RELOAD_ONE, aka Reload everything one by one as part of activity ([#84328](https://github.com/CleverRaven/Cataclysm-DDA/pull/84328))
 * [alt-map-key] Added new limnological station hub01 quest location ([#84351](https://github.com/CleverRaven/Cataclysm-DDA/pull/84351))
@@ -229,4 +230,3 @@
 * Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
 * Add missing price to book_antho_pl ([#84279](https://github.com/CleverRaven/Cataclysm-DDA/pull/84279))
 * Fix typos in doc/CONTRIBUTING.md ([#84283](https://github.com/CleverRaven/Cataclysm-DDA/pull/84283))
-* Make numb work with new murder guilt ([#84278](https://github.com/CleverRaven/Cataclysm-DDA/pull/84278))
