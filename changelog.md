@@ -186,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-12-29-2251 ([7272932](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-29-2251))
 
 * Weekly Changelog 2025-12-22 to 2025-12-29 ([#84363](https://github.com/CleverRaven/Cataclysm-DDA/pull/84363))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-28-2350 ([4927838](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-28-2350))
-
 * overthrow the reign of RELOAD_ONE, aka Reload everything one by one as part of activity ([#84328](https://github.com/CleverRaven/Cataclysm-DDA/pull/84328))
 * [alt-map-key] Added new limnological station hub01 quest location ([#84351](https://github.com/CleverRaven/Cataclysm-DDA/pull/84351))
 * 2-piece Powered Air-Purifying Respirator system ([#84355](https://github.com/CleverRaven/Cataclysm-DDA/pull/84355))

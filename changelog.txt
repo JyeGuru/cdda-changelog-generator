@@ -102,8 +102,6 @@ Cataclysm-DDA experimental build 2025-12-30-0200 (08d26ed)
 
 Cataclysm-DDA experimental build 2025-12-29-2251 (7272932)
 * Weekly Changelog 2025-12-22 to 2025-12-29 (#84363)
-
-Cataclysm-DDA experimental build 2025-12-28-2350 (4927838)
 * overthrow the reign of RELOAD_ONE, aka Reload everything one by one as part of activity (#84328)
 * [alt-map-key] Added new limnological station hub01 quest location (#84351)
 * 2-piece Powered Air-Purifying Respirator system (#84355)
