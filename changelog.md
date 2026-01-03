@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-03-2047 ([4938b2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-2047))
+
+* Sorting is just Character::pickup() and Character::drop(). How hard could it be? ([#84311](https://github.com/CleverRaven/Cataclysm-DDA/pull/84311))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-03-1800 ([266d890](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-1800))
 
 * Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2025-12-30-0416 ([a7a8a74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0416))
 
 * [XE] Update the blood gift research EOC to include the new powers. ([#84372](https://github.com/CleverRaven/Cataclysm-DDA/pull/84372))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-30-0200 ([08d26ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0200))
-
 * Oil up those pantries, and stock them up ([#84365](https://github.com/CleverRaven/Cataclysm-DDA/pull/84365))
 * Weekly Changelog 2025-12-22 to 2025-12-29 ([#84363](https://github.com/CleverRaven/Cataclysm-DDA/pull/84363))
 * overthrow the reign of RELOAD_ONE, aka Reload everything one by one as part of activity ([#84328](https://github.com/CleverRaven/Cataclysm-DDA/pull/84328))
@@ -228,5 +229,4 @@
 * Fix --world on empty worlds ([#84293](https://github.com/CleverRaven/Cataclysm-DDA/pull/84293))
 * [MoM] fix photokinetic_light_image max_damage ([#84286](https://github.com/CleverRaven/Cataclysm-DDA/pull/84286))
 * Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
-* Add missing price to book_antho_pl ([#84279](https://github.com/CleverRaven/Cataclysm-DDA/pull/84279))
 * Fix typos in doc/CONTRIBUTING.md ([#84283](https://github.com/CleverRaven/Cataclysm-DDA/pull/84283))
