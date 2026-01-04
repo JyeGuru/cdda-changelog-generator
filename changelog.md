@@ -1,3 +1,12 @@
+* Prevent supermarkets from scamming customers on can contents ([#84432](https://github.com/CleverRaven/Cataclysm-DDA/pull/84432))
+* [DDotD] Blacklist foldable solar panels ([#84422](https://github.com/CleverRaven/Cataclysm-DDA/pull/84422))
+* Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-04-0421 ([f553aad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-0421))
+
+* [Bombastic Perks] Add the Safety Squint perk (plus a couple fixes) ([#84373](https://github.com/CleverRaven/Cataclysm-DDA/pull/84373))
 
 ---
 
@@ -180,11 +189,6 @@
 * Fix MSYS2/UCRT64 build ([#84357](https://github.com/CleverRaven/Cataclysm-DDA/pull/84357))
 * Fix tools not charging from cars outside reality bubble ([#84364](https://github.com/CleverRaven/Cataclysm-DDA/pull/84364))
 * [Bombastic Perks] limit perk_jugg max damage bonus to 15 ([#84368](https://github.com/CleverRaven/Cataclysm-DDA/pull/84368))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-30-0416 ([a7a8a74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0416))
-
 * [XE] Update the blood gift research EOC to include the new powers. ([#84372](https://github.com/CleverRaven/Cataclysm-DDA/pull/84372))
 * Oil up those pantries, and stock them up ([#84365](https://github.com/CleverRaven/Cataclysm-DDA/pull/84365))
 * Weekly Changelog 2025-12-22 to 2025-12-29 ([#84363](https://github.com/CleverRaven/Cataclysm-DDA/pull/84363))
@@ -210,7 +214,6 @@
 * Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
 * Fix empty ammo belts in lab barracks ([#84322](https://github.com/CleverRaven/Cataclysm-DDA/pull/84322))
 * Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
-* Correct Typos ([#84285](https://github.com/CleverRaven/Cataclysm-DDA/pull/84285))
 * [DDotD] Edit description to specify setting  ([#84315](https://github.com/CleverRaven/Cataclysm-DDA/pull/84315))
 * Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
 * Allow power producing bionics to stay on when empty (#80950) ([#84292](https://github.com/CleverRaven/Cataclysm-DDA/pull/84292))
@@ -227,6 +230,4 @@
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
 * Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
 * Fix --world on empty worlds ([#84293](https://github.com/CleverRaven/Cataclysm-DDA/pull/84293))
-* [MoM] fix photokinetic_light_image max_damage ([#84286](https://github.com/CleverRaven/Cataclysm-DDA/pull/84286))
 * Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
-* Fix typos in doc/CONTRIBUTING.md ([#84283](https://github.com/CleverRaven/Cataclysm-DDA/pull/84283))
