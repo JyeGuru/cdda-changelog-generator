@@ -179,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-12-30-1817 ([9d347e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-1817))
 
 * [ Xedra Evolved ] Legacy to hit removal ([#84350](https://github.com/CleverRaven/Cataclysm-DDA/pull/84350))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-30-1716 ([6ef2037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-1716))
-
 * Fix Spell Messages ([#84376](https://github.com/CleverRaven/Cataclysm-DDA/pull/84376))
 * Fix loose gunmods appearing as installed ([#84361](https://github.com/CleverRaven/Cataclysm-DDA/pull/84361))
 * Fix MSYS2/UCRT64 build ([#84357](https://github.com/CleverRaven/Cataclysm-DDA/pull/84357))
@@ -230,3 +225,4 @@
 * [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
 * Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
 * Fix --world on empty worlds ([#84293](https://github.com/CleverRaven/Cataclysm-DDA/pull/84293))
+* Backport some zzip fixes to 0.I ([#84287](https://github.com/CleverRaven/Cataclysm-DDA/pull/84287))
