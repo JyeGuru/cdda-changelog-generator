@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-04-0520 ([c7b514d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-0520))
+
 * Prevent supermarkets from scamming customers on can contents ([#84432](https://github.com/CleverRaven/Cataclysm-DDA/pull/84432))
 * [DDotD] Blacklist foldable solar panels ([#84422](https://github.com/CleverRaven/Cataclysm-DDA/pull/84422))
 * Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2025-12-30-1716 ([6ef2037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-1716))
 
 * Fix Spell Messages ([#84376](https://github.com/CleverRaven/Cataclysm-DDA/pull/84376))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-30-0506 ([8547f64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-0506))
-
 * Fix loose gunmods appearing as installed ([#84361](https://github.com/CleverRaven/Cataclysm-DDA/pull/84361))
 * Fix MSYS2/UCRT64 build ([#84357](https://github.com/CleverRaven/Cataclysm-DDA/pull/84357))
 * Fix tools not charging from cars outside reality bubble ([#84364](https://github.com/CleverRaven/Cataclysm-DDA/pull/84364))
