@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-04-2036 (6e040a9)
+* [Magiclysm] Esoteric Spellbooks (#84450)
+
 Cataclysm-DDA experimental build 2026-01-04-1614 (6589714)
 * [Sky Island] Remove mission cleanup (#84458)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2025-12-31-0423 (c9820c4)
 
 Cataclysm-DDA experimental build 2025-12-31-0330 (665a424)
 * Reduce the locked lmoe occurance to be inline with the other lmoe (#84381)
-
-Cataclysm-DDA experimental build 2025-12-30-1942 (d85b30d)
 * Fix potentially uninitialized variable used error (#84380)
 * [ Xedra Evolved ] Legacy to hit removal (#84350)
 * Fix Spell Messages (#84376)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2025-12-30-1942 (d85b30d)
 * [Magiclysm] Add missing perceived pain to success formula (#84307)
 * Extract mutation activation messages for translation (#84312)
 * Delete android_sdk on mac workers for more disk space. (#84310)
-* Weekly Changelog 2025-12-15 to 2025-12-22 (#84288)
 * Mark some of the string in overmap_ui as i18n (#84306)
 * Remove MXE from release, fix clang on macOS (#84302)
 * Move ACT_VIBE handler to vibe_activity_actor (#84304)

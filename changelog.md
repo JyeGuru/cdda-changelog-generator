@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-04-2036 ([6e040a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-2036))
+
+* [Magiclysm] Esoteric Spellbooks ([#84450](https://github.com/CleverRaven/Cataclysm-DDA/pull/84450))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-04-1614 ([6589714](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-1614))
 
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2025-12-31-0330 ([665a424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0330))
 
 * Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-30-1942 ([d85b30d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-30-1942))
-
 * Fix potentially uninitialized variable used error ([#84380](https://github.com/CleverRaven/Cataclysm-DDA/pull/84380))
 * [ Xedra Evolved ] Legacy to hit removal ([#84350](https://github.com/CleverRaven/Cataclysm-DDA/pull/84350))
 * Fix Spell Messages ([#84376](https://github.com/CleverRaven/Cataclysm-DDA/pull/84376))
@@ -219,7 +220,6 @@
 * [Magiclysm] Add missing perceived pain to success formula ([#84307](https://github.com/CleverRaven/Cataclysm-DDA/pull/84307))
 * Extract mutation activation messages for translation ([#84312](https://github.com/CleverRaven/Cataclysm-DDA/pull/84312))
 * Delete android_sdk on mac workers for more disk space. ([#84310](https://github.com/CleverRaven/Cataclysm-DDA/pull/84310))
-* Weekly Changelog 2025-12-15 to 2025-12-22 ([#84288](https://github.com/CleverRaven/Cataclysm-DDA/pull/84288))
 * Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
 * Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
