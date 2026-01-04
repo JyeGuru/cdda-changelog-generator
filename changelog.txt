@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-04-1614 (6589714)
+* [Sky Island] Remove mission cleanup (#84458)
+
 Cataclysm-DDA experimental build 2026-01-04-0520 (c7b514d)
 * Prevent supermarkets from scamming customers on can contents (#84432)
 * [DDotD] Blacklist foldable solar panels (#84422)
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2025-12-31-0330 (665a424)
 
 Cataclysm-DDA experimental build 2025-12-30-1942 (d85b30d)
 * Fix potentially uninitialized variable used error (#84380)
-
-Cataclysm-DDA experimental build 2025-12-30-1817 (9d347e8)
 * [ Xedra Evolved ] Legacy to hit removal (#84350)
 * Fix Spell Messages (#84376)
 * Fix loose gunmods appearing as installed (#84361)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2025-12-30-1817 (9d347e8)
 * [MoM] Add speech snippets for PHAVIAN scientists (#84296)
 * Move ACT_OPERATION handler to bionic_operation_activity_actor (#84298)
 * Fix --world on empty worlds (#84293)
-* Backport some zzip fixes to 0.I (#84287)
