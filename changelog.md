@@ -1,3 +1,4 @@
+* [MoM] Add `dist_matrix_tools` to the various `psi_lab` groups ([#84459](https://github.com/CleverRaven/Cataclysm-DDA/pull/84459))
 
 ---
 
@@ -173,11 +174,6 @@
 
 * More PAPR equipment ([#84366](https://github.com/CleverRaven/Cataclysm-DDA/pull/84366))
 * Aftershock: New city names ([#84390](https://github.com/CleverRaven/Cataclysm-DDA/pull/84390))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-31-0330 ([665a424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0330))
-
 * Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
 * Fix potentially uninitialized variable used error ([#84380](https://github.com/CleverRaven/Cataclysm-DDA/pull/84380))
 * [ Xedra Evolved ] Legacy to hit removal ([#84350](https://github.com/CleverRaven/Cataclysm-DDA/pull/84350))
@@ -215,7 +211,6 @@
 * Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
 * Allow power producing bionics to stay on when empty (#80950) ([#84292](https://github.com/CleverRaven/Cataclysm-DDA/pull/84292))
 * Add unit test coverage for active items in vehicle cargo ([#84291](https://github.com/CleverRaven/Cataclysm-DDA/pull/84291))
-* Fix repeat words and typos ([#84290](https://github.com/CleverRaven/Cataclysm-DDA/pull/84290))
 * Content 'Add boot gaiters' ([#84308](https://github.com/CleverRaven/Cataclysm-DDA/pull/84308))
 * [Magiclysm] Add missing perceived pain to success formula ([#84307](https://github.com/CleverRaven/Cataclysm-DDA/pull/84307))
 * Extract mutation activation messages for translation ([#84312](https://github.com/CleverRaven/Cataclysm-DDA/pull/84312))
