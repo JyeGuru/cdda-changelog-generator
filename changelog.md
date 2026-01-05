@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-05-1221 ([d298442](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-1221))
+
 * [Magiclysm] The great spell categorization (tier 0) ([#84460](https://github.com/CleverRaven/Cataclysm-DDA/pull/84460))
 * Migrate wchar_t and wstring to UTF-32 ([#84440](https://github.com/CleverRaven/Cataclysm-DDA/pull/84440))
 * Make sandleather autolearned at fab 2 ([#84454](https://github.com/CleverRaven/Cataclysm-DDA/pull/84454))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2025-12-31-0756 ([1c8d9ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0756))
 
 * Aftershock: AT Railgun ([#84384](https://github.com/CleverRaven/Cataclysm-DDA/pull/84384))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-31-0627 ([e7406d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0627))
-
 * 10x reduce trade value of nvg attachments ([#84391](https://github.com/CleverRaven/Cataclysm-DDA/pull/84391))
 * Fix Gasmask on UICAS helmet ([#84360](https://github.com/CleverRaven/Cataclysm-DDA/pull/84360))
 * More PAPR equipment ([#84366](https://github.com/CleverRaven/Cataclysm-DDA/pull/84366))
