@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-05-2318 (1883328)
 * [Magiclysm] Rename Bless to Paragon (#84483)
 
 Cataclysm-DDA experimental build 2026-01-05-2225 (0551316)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2025-12-31-2052 (44ed744)
 
 Cataclysm-DDA experimental build 2025-12-31-1535 (b74938b)
 * Fix oxytorch and reload activity actor crashes (#84394)
-
-Cataclysm-DDA experimental build 2025-12-31-0945 (21bdac1)
 * Consume menu activity obsoletion (#84348)
 * Aftershock: AT Railgun (#84384)
 * 10x reduce trade value of nvg attachments (#84391)
