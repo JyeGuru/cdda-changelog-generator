@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-05-0029 ([7fb9cd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-0029))
+
 * Make reading message intelligible ([#84444](https://github.com/CleverRaven/Cataclysm-DDA/pull/84444))
 * [Magiclysm] Fix elf longing EoC name ([#84449](https://github.com/CleverRaven/Cataclysm-DDA/pull/84449))
 * Move ACT_ROBOT_CONTROL to activity_actor ([#84446](https://github.com/CleverRaven/Cataclysm-DDA/pull/84446))
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-12-31-0523 ([15f3a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0523))
 
 * Fix Gasmask on UICAS helmet ([#84360](https://github.com/CleverRaven/Cataclysm-DDA/pull/84360))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-31-0423 ([c9820c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0423))
-
 * More PAPR equipment ([#84366](https://github.com/CleverRaven/Cataclysm-DDA/pull/84366))
 * Aftershock: New city names ([#84390](https://github.com/CleverRaven/Cataclysm-DDA/pull/84390))
 * Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
@@ -220,5 +220,4 @@
 * Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
 * Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
 * Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
-* [MoM] Add speech snippets for PHAVIAN scientists ([#84296](https://github.com/CleverRaven/Cataclysm-DDA/pull/84296))
 * Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
