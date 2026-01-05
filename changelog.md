@@ -1,3 +1,11 @@
+* add "flailers" into radiosphere dimension ([#84456](https://github.com/CleverRaven/Cataclysm-DDA/pull/84456))
+* [Magiclysm] Fix enchanted quiver encumbrance ([#84447](https://github.com/CleverRaven/Cataclysm-DDA/pull/84447))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-05-1133 ([237225e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-1133))
+
+* Stop serializing bad vehicle item_locations ([#84466](https://github.com/CleverRaven/Cataclysm-DDA/pull/84466))
 
 ---
 
@@ -170,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2025-12-31-0627 ([e7406d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0627))
 
 * 10x reduce trade value of nvg attachments ([#84391](https://github.com/CleverRaven/Cataclysm-DDA/pull/84391))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-31-0523 ([15f3a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0523))
-
 * Fix Gasmask on UICAS helmet ([#84360](https://github.com/CleverRaven/Cataclysm-DDA/pull/84360))
 * More PAPR equipment ([#84366](https://github.com/CleverRaven/Cataclysm-DDA/pull/84366))
 * Aftershock: New city names ([#84390](https://github.com/CleverRaven/Cataclysm-DDA/pull/84390))
@@ -197,7 +200,6 @@
 * Increase shoe spawn rate in wardrobes ([#84352](https://github.com/CleverRaven/Cataclysm-DDA/pull/84352))
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84354](https://github.com/CleverRaven/Cataclysm-DDA/pull/84354))
 * Mobile Weather Stations II: Hub 01 quest & portal storm functionality ([#84309](https://github.com/CleverRaven/Cataclysm-DDA/pull/84309))
-* Sanify the weight of some vehicles ([#84303](https://github.com/CleverRaven/Cataclysm-DDA/pull/84303))
 * Use GNU Make built-in rules ([#84330](https://github.com/CleverRaven/Cataclysm-DDA/pull/84330))
 * [alt-map-key] Add new rural church tile to the mod ([#84333](https://github.com/CleverRaven/Cataclysm-DDA/pull/84333))
 * [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
@@ -218,6 +220,3 @@
 * Extract mutation activation messages for translation ([#84312](https://github.com/CleverRaven/Cataclysm-DDA/pull/84312))
 * Delete android_sdk on mac workers for more disk space. ([#84310](https://github.com/CleverRaven/Cataclysm-DDA/pull/84310))
 * Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
-* Remove MXE from release, fix clang on macOS ([#84302](https://github.com/CleverRaven/Cataclysm-DDA/pull/84302))
-* Move ACT_VIBE handler to vibe_activity_actor ([#84304](https://github.com/CleverRaven/Cataclysm-DDA/pull/84304))
-* Move ACT_OPERATION handler to bionic_operation_activity_actor ([#84298](https://github.com/CleverRaven/Cataclysm-DDA/pull/84298))
