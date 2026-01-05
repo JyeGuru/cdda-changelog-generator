@@ -1,3 +1,4 @@
+* [Magiclysm] The great spell categorization (tier 0) ([#84460](https://github.com/CleverRaven/Cataclysm-DDA/pull/84460))
 * Migrate wchar_t and wstring to UTF-32 ([#84440](https://github.com/CleverRaven/Cataclysm-DDA/pull/84440))
 * Make sandleather autolearned at fab 2 ([#84454](https://github.com/CleverRaven/Cataclysm-DDA/pull/84454))
 * [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
@@ -202,7 +203,6 @@
 * Fix CMake not using ccache on Windows ([#84346](https://github.com/CleverRaven/Cataclysm-DDA/pull/84346))
 * Increase shoe spawn rate in wardrobes ([#84352](https://github.com/CleverRaven/Cataclysm-DDA/pull/84352))
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84354](https://github.com/CleverRaven/Cataclysm-DDA/pull/84354))
-* Mobile Weather Stations II: Hub 01 quest & portal storm functionality ([#84309](https://github.com/CleverRaven/Cataclysm-DDA/pull/84309))
 * Use GNU Make built-in rules ([#84330](https://github.com/CleverRaven/Cataclysm-DDA/pull/84330))
 * [alt-map-key] Add new rural church tile to the mod ([#84333](https://github.com/CleverRaven/Cataclysm-DDA/pull/84333))
 * [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
