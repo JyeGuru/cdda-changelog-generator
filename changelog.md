@@ -1,3 +1,6 @@
+* Migrate wchar_t and wstring to UTF-32 ([#84440](https://github.com/CleverRaven/Cataclysm-DDA/pull/84440))
+* Make sandleather autolearned at fab 2 ([#84454](https://github.com/CleverRaven/Cataclysm-DDA/pull/84454))
+* [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
 * add "flailers" into radiosphere dimension ([#84456](https://github.com/CleverRaven/Cataclysm-DDA/pull/84456))
 * [Magiclysm] Fix enchanted quiver encumbrance ([#84447](https://github.com/CleverRaven/Cataclysm-DDA/pull/84447))
 
@@ -215,8 +218,5 @@
 * Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
 * [DDotD] Edit description to specify setting  ([#84315](https://github.com/CleverRaven/Cataclysm-DDA/pull/84315))
 * Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
-* Content 'Add boot gaiters' ([#84308](https://github.com/CleverRaven/Cataclysm-DDA/pull/84308))
-* [Magiclysm] Add missing perceived pain to success formula ([#84307](https://github.com/CleverRaven/Cataclysm-DDA/pull/84307))
 * Extract mutation activation messages for translation ([#84312](https://github.com/CleverRaven/Cataclysm-DDA/pull/84312))
 * Delete android_sdk on mac workers for more disk space. ([#84310](https://github.com/CleverRaven/Cataclysm-DDA/pull/84310))
-* Mark some of the string in overmap_ui as i18n ([#84306](https://github.com/CleverRaven/Cataclysm-DDA/pull/84306))
