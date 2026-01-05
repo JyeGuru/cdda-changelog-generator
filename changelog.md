@@ -1,3 +1,10 @@
+* [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-05-2225 ([0551316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-2225))
+
+* [Magiclysm] Fewer joke scrolls ([#84468](https://github.com/CleverRaven/Cataclysm-DDA/pull/84468))
 
 ---
 
@@ -51,12 +58,6 @@
 #### Cataclysm-DDA experimental build 2026-01-04-0421 ([f553aad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-0421))
 
 * [Bombastic Perks] Add the Safety Squint perk (plus a couple fixes) ([#84373](https://github.com/CleverRaven/Cataclysm-DDA/pull/84373))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-03-2047 ([4938b2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-2047))
-
-* Sorting is just Character::pickup() and Character::drop(). How hard could it be? ([#84311](https://github.com/CleverRaven/Cataclysm-DDA/pull/84311))
 
 ---
 
@@ -175,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2025-12-31-0945 ([21bdac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0945))
 
 * Consume menu activity obsoletion ([#84348](https://github.com/CleverRaven/Cataclysm-DDA/pull/84348))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-31-0756 ([1c8d9ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-0756))
-
 * Aftershock: AT Railgun ([#84384](https://github.com/CleverRaven/Cataclysm-DDA/pull/84384))
 * 10x reduce trade value of nvg attachments ([#84391](https://github.com/CleverRaven/Cataclysm-DDA/pull/84391))
 * Fix Gasmask on UICAS helmet ([#84360](https://github.com/CleverRaven/Cataclysm-DDA/pull/84360))
@@ -219,4 +215,3 @@
 * [DDotD] Edit description to specify setting  ([#84315](https://github.com/CleverRaven/Cataclysm-DDA/pull/84315))
 * Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
 * Extract mutation activation messages for translation ([#84312](https://github.com/CleverRaven/Cataclysm-DDA/pull/84312))
-* Delete android_sdk on mac workers for more disk space. ([#84310](https://github.com/CleverRaven/Cataclysm-DDA/pull/84310))

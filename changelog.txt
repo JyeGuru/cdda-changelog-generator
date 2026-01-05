@@ -1,3 +1,7 @@
+* [Magiclysm] Rename Bless to Paragon (#84483)
+
+Cataclysm-DDA experimental build 2026-01-05-2225 (0551316)
+* [Magiclysm] Fewer joke scrolls (#84468)
 
 Cataclysm-DDA experimental build 2026-01-05-1221 (d298442)
 * [Magiclysm] The great spell categorization (tier 0) (#84460)
@@ -30,9 +34,6 @@ Cataclysm-DDA experimental build 2026-01-04-0520 (c7b514d)
 
 Cataclysm-DDA experimental build 2026-01-04-0421 (f553aad)
 * [Bombastic Perks] Add the Safety Squint perk (plus a couple fixes) (#84373)
-
-Cataclysm-DDA experimental build 2026-01-03-2047 (4938b2d)
-* Sorting is just Character::pickup() and Character::drop(). How hard could it be? (#84311)
 
 Cataclysm-DDA experimental build 2026-01-03-1800 (266d890)
 * Fix make clean error on macOS (#84435)
@@ -100,8 +101,6 @@ Cataclysm-DDA experimental build 2025-12-31-1535 (b74938b)
 
 Cataclysm-DDA experimental build 2025-12-31-0945 (21bdac1)
 * Consume menu activity obsoletion (#84348)
-
-Cataclysm-DDA experimental build 2025-12-31-0756 (1c8d9ff)
 * Aftershock: AT Railgun (#84384)
 * 10x reduce trade value of nvg attachments (#84391)
 * Fix Gasmask on UICAS helmet (#84360)
@@ -141,4 +140,3 @@ Cataclysm-DDA experimental build 2025-12-31-0756 (1c8d9ff)
 * [DDotD] Edit description to specify setting  (#84315)
 * Revert "Restore quick reload" (#84318)
 * Extract mutation activation messages for translation (#84312)
-* Delete android_sdk on mac workers for more disk space. (#84310)
