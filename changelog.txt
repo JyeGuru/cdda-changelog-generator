@@ -1,3 +1,7 @@
+* "Cabin" reverberation dimension (#84484)
+
+Cataclysm-DDA experimental build 2026-01-06-1938 (d724ffd)
+* [Magiclysm] Move Mage Armor to Magus, rename to Force Armor (#84485)
 
 Cataclysm-DDA experimental build 2026-01-06-1211 (f5bb9a0)
 * [Sky Island] Update Scouting Lens 1 recipe for pipe changes (#84472)
@@ -97,8 +101,6 @@ Cataclysm-DDA experimental build 2026-01-02-0515 (1c99beb)
 * Fix map cache not revealing map (#84409)
 * Add tests for multi-ammo restrictions in pockets and magazines (#84407)
 * [DinoMod] bird bodies teach about dino weak points (#84403)
-
-Cataclysm-DDA experimental build 2026-01-02-0424 (da643e5)
 * Print better stat info in ammo (#84387)
 * Change meadow `travel_cost_type` from field to forest (#84413)
 * Update Makefile clean target in lang/ directory (#84405)
@@ -138,5 +140,3 @@ Cataclysm-DDA experimental build 2026-01-02-0424 (da643e5)
 * Increase shoe spawn rate in wardrobes (#84352)
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles (#84354)
 * [MoM] Fix Speed Reading practice recipe power snippet (#84349)
-* Fix lack of autoaim in certain cases (#84341)
-* Add "VOLLEY" flag to double firing weapons (#84344)

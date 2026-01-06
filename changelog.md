@@ -1,3 +1,10 @@
+* "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-06-1938 ([d724ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-1938))
+
+* [Magiclysm] Move Mage Armor to Magus, rename to Force Armor ([#84485](https://github.com/CleverRaven/Cataclysm-DDA/pull/84485))
 
 ---
 
@@ -166,11 +173,6 @@
 * Fix map cache not revealing map ([#84409](https://github.com/CleverRaven/Cataclysm-DDA/pull/84409))
 * Add tests for multi-ammo restrictions in pockets and magazines ([#84407](https://github.com/CleverRaven/Cataclysm-DDA/pull/84407))
 * [DinoMod] bird bodies teach about dino weak points ([#84403](https://github.com/CleverRaven/Cataclysm-DDA/pull/84403))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-02-0424 ([da643e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0424))
-
 * Print better stat info in ammo ([#84387](https://github.com/CleverRaven/Cataclysm-DDA/pull/84387))
 * Change meadow `travel_cost_type` from field to forest ([#84413](https://github.com/CleverRaven/Cataclysm-DDA/pull/84413))
 * Update Makefile clean target in lang/ directory ([#84405](https://github.com/CleverRaven/Cataclysm-DDA/pull/84405))
@@ -210,5 +212,3 @@
 * Increase shoe spawn rate in wardrobes ([#84352](https://github.com/CleverRaven/Cataclysm-DDA/pull/84352))
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84354](https://github.com/CleverRaven/Cataclysm-DDA/pull/84354))
 * [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
-* Fix lack of autoaim in certain cases ([#84341](https://github.com/CleverRaven/Cataclysm-DDA/pull/84341))
-* Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
