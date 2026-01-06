@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-06-0543 ([5f7b7d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0543))
+
+* Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
+* Validate spell classes, targeted monster ids and species ([#84439](https://github.com/CleverRaven/Cataclysm-DDA/pull/84439))
+* Add tests for overmap flag string consistency and location flags ([#84424](https://github.com/CleverRaven/Cataclysm-DDA/pull/84424))
+* Fix add_random_hobby with empty choices ([#84436](https://github.com/CleverRaven/Cataclysm-DDA/pull/84436))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-06-0454 ([56d2ae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0454))
+
+* slightly increase PAPR spawns ([#84479](https://github.com/CleverRaven/Cataclysm-DDA/pull/84479))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-06-0344 ([4201ec8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0344))
 
 * Coffee beans density set lower than tungsten ([#84477](https://github.com/CleverRaven/Cataclysm-DDA/pull/84477))
@@ -159,17 +174,7 @@
 #### Cataclysm-DDA experimental build 2026-01-01-1553 ([84b3370](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-1553))
 
 * Fix invalid spell in twisted_geometry ([#84408](https://github.com/CleverRaven/Cataclysm-DDA/pull/84408))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-01-1018 ([66701e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-1018))
-
 * Fix kelvinist class on spell that where kelvinist doesn't exist ([#84375](https://github.com/CleverRaven/Cataclysm-DDA/pull/84375))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-01-0930 ([e183fd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-0930))
-
 * Translate inventory UI mode name ([#84406](https://github.com/CleverRaven/Cataclysm-DDA/pull/84406))
 * Better assignment of credit/blame for thrown molotovs ([#84389](https://github.com/CleverRaven/Cataclysm-DDA/pull/84389))
 * Don't spawn horde of blacklisted monsters ([#84385](https://github.com/CleverRaven/Cataclysm-DDA/pull/84385))
@@ -177,7 +182,6 @@
 * Fix yrax golden monolith spell ([#84382](https://github.com/CleverRaven/Cataclysm-DDA/pull/84382))
 * Fix up the `house_w_5` mapgen ([#84378](https://github.com/CleverRaven/Cataclysm-DDA/pull/84378))
 * Check if Character pointer is valid before using it for message ([#84399](https://github.com/CleverRaven/Cataclysm-DDA/pull/84399))
-* Fix car offroad reverse speed not being restricted by weight ([#84324](https://github.com/CleverRaven/Cataclysm-DDA/pull/84324))
 * Fix oxytorch and reload activity actor crashes ([#84394](https://github.com/CleverRaven/Cataclysm-DDA/pull/84394))
 * Consume menu activity obsoletion ([#84348](https://github.com/CleverRaven/Cataclysm-DDA/pull/84348))
 * Aftershock: AT Railgun ([#84384](https://github.com/CleverRaven/Cataclysm-DDA/pull/84384))
@@ -208,10 +212,7 @@
 * [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
 * fix freshwater research station moon pool ([#84340](https://github.com/CleverRaven/Cataclysm-DDA/pull/84340))
 * Fix lack of autoaim in certain cases ([#84341](https://github.com/CleverRaven/Cataclysm-DDA/pull/84341))
-* add "OVERHEATS" flag to hm12. ([#84325](https://github.com/CleverRaven/Cataclysm-DDA/pull/84325))
 * Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
 * Couple of micro fixes to the Supermarket ([#84339](https://github.com/CleverRaven/Cataclysm-DDA/pull/84339))
 * Make an enchantment to modify "free dodges" ([#84326](https://github.com/CleverRaven/Cataclysm-DDA/pull/84326))
 * Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
-* Fix empty ammo belts in lab barracks ([#84322](https://github.com/CleverRaven/Cataclysm-DDA/pull/84322))
-* Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
