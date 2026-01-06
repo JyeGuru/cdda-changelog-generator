@@ -189,7 +189,6 @@
 * Fix up the `house_w_5` mapgen ([#84378](https://github.com/CleverRaven/Cataclysm-DDA/pull/84378))
 * Check if Character pointer is valid before using it for message ([#84399](https://github.com/CleverRaven/Cataclysm-DDA/pull/84399))
 * Fix oxytorch and reload activity actor crashes ([#84394](https://github.com/CleverRaven/Cataclysm-DDA/pull/84394))
-* Consume menu activity obsoletion ([#84348](https://github.com/CleverRaven/Cataclysm-DDA/pull/84348))
 * Aftershock: AT Railgun ([#84384](https://github.com/CleverRaven/Cataclysm-DDA/pull/84384))
 * 10x reduce trade value of nvg attachments ([#84391](https://github.com/CleverRaven/Cataclysm-DDA/pull/84391))
 * Fix Gasmask on UICAS helmet ([#84360](https://github.com/CleverRaven/Cataclysm-DDA/pull/84360))
