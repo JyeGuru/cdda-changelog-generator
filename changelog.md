@@ -1,3 +1,6 @@
+* [Sky Island] Update Scouting Lens 1 recipe for pipe changes ([#84472](https://github.com/CleverRaven/Cataclysm-DDA/pull/84472))
+* Persist zoom level ([#84475](https://github.com/CleverRaven/Cataclysm-DDA/pull/84475))
+* [Magiclysm] Change Impact Sling components ([#84490](https://github.com/CleverRaven/Cataclysm-DDA/pull/84490))
 * Reset consume menu state when closed ([#84488](https://github.com/CleverRaven/Cataclysm-DDA/pull/84488))
 
 ---
@@ -211,9 +214,6 @@
 * Fix CMake not using ccache on Windows ([#84346](https://github.com/CleverRaven/Cataclysm-DDA/pull/84346))
 * Increase shoe spawn rate in wardrobes ([#84352](https://github.com/CleverRaven/Cataclysm-DDA/pull/84352))
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84354](https://github.com/CleverRaven/Cataclysm-DDA/pull/84354))
-* [alt-map-key] Add new rural church tile to the mod ([#84333](https://github.com/CleverRaven/Cataclysm-DDA/pull/84333))
 * [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
-* fix freshwater research station moon pool ([#84340](https://github.com/CleverRaven/Cataclysm-DDA/pull/84340))
 * Fix lack of autoaim in certain cases ([#84341](https://github.com/CleverRaven/Cataclysm-DDA/pull/84341))
 * Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
-* Couple of micro fixes to the Supermarket ([#84339](https://github.com/CleverRaven/Cataclysm-DDA/pull/84339))
