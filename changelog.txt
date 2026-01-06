@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-06-2046 (142076e)
 * "Cabin" reverberation dimension (#84484)
 
 Cataclysm-DDA experimental build 2026-01-06-1938 (d724ffd)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2026-01-02-2328 (bea3ab8)
 
 Cataclysm-DDA experimental build 2026-01-02-0942 (7557665)
 * Remove legacy use/can_use iuse_actor functions (#84393)
-
-Cataclysm-DDA experimental build 2026-01-02-0515 (1c99beb)
 * Content (finally) add Chem goggles (#84392)
 * Balance Trust (#84396)
 * Fix map cache not revealing map (#84409)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-06-2046 ([142076e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-2046))
+
 * "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
 
 ---
@@ -163,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-01-02-0942 ([7557665](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0942))
 
 * Remove legacy use/can_use iuse_actor functions ([#84393](https://github.com/CleverRaven/Cataclysm-DDA/pull/84393))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-02-0515 ([1c99beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0515))
-
 * Content (finally) add Chem goggles ([#84392](https://github.com/CleverRaven/Cataclysm-DDA/pull/84392))
 * Balance Trust ([#84396](https://github.com/CleverRaven/Cataclysm-DDA/pull/84396))
 * Fix map cache not revealing map ([#84409](https://github.com/CleverRaven/Cataclysm-DDA/pull/84409))
