@@ -172,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-01-02-0424 ([da643e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0424))
 
 * Print better stat info in ammo ([#84387](https://github.com/CleverRaven/Cataclysm-DDA/pull/84387))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-02-0341 ([1df1872](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-02-0341))
-
 * Change meadow `travel_cost_type` from field to forest ([#84413](https://github.com/CleverRaven/Cataclysm-DDA/pull/84413))
 * Update Makefile clean target in lang/ directory ([#84405](https://github.com/CleverRaven/Cataclysm-DDA/pull/84405))
 * [DDotD] Increase the number of farms ([#84415](https://github.com/CleverRaven/Cataclysm-DDA/pull/84415))
