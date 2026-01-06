@@ -1,3 +1,21 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-06-0344 ([4201ec8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0344))
+
+* Coffee beans density set lower than tungsten ([#84477](https://github.com/CleverRaven/Cataclysm-DDA/pull/84477))
+* Indoor flagpole wooden ([#84480](https://github.com/CleverRaven/Cataclysm-DDA/pull/84480))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-06-0246 ([8a7999f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0246))
+
+* [Magiclysm] Rename classless light spell to Orb of Light, make it an effect ([#84487](https://github.com/CleverRaven/Cataclysm-DDA/pull/84487))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-06-0000 ([7e0aac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0000))
+
 * [Magiclysm] The great spell categorization (tier 1) ([#84482](https://github.com/CleverRaven/Cataclysm-DDA/pull/84482))
 
 ---
@@ -153,28 +171,13 @@
 #### Cataclysm-DDA experimental build 2026-01-01-0930 ([e183fd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-01-0930))
 
 * Translate inventory UI mode name ([#84406](https://github.com/CleverRaven/Cataclysm-DDA/pull/84406))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-31-2136 ([cf89bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-2136))
-
 * Better assignment of credit/blame for thrown molotovs ([#84389](https://github.com/CleverRaven/Cataclysm-DDA/pull/84389))
 * Don't spawn horde of blacklisted monsters ([#84385](https://github.com/CleverRaven/Cataclysm-DDA/pull/84385))
 * Add ammo-related unit tests for ammo_type and common_ammo_default ([#84397](https://github.com/CleverRaven/Cataclysm-DDA/pull/84397))
 * Fix yrax golden monolith spell ([#84382](https://github.com/CleverRaven/Cataclysm-DDA/pull/84382))
 * Fix up the `house_w_5` mapgen ([#84378](https://github.com/CleverRaven/Cataclysm-DDA/pull/84378))
 * Check if Character pointer is valid before using it for message ([#84399](https://github.com/CleverRaven/Cataclysm-DDA/pull/84399))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-31-2052 ([44ed744](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-2052))
-
 * Fix car offroad reverse speed not being restricted by weight ([#84324](https://github.com/CleverRaven/Cataclysm-DDA/pull/84324))
-
----
-
-#### Cataclysm-DDA experimental build 2025-12-31-1535 ([b74938b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2025-12-31-1535))
-
 * Fix oxytorch and reload activity actor crashes ([#84394](https://github.com/CleverRaven/Cataclysm-DDA/pull/84394))
 * Consume menu activity obsoletion ([#84348](https://github.com/CleverRaven/Cataclysm-DDA/pull/84348))
 * Aftershock: AT Railgun ([#84384](https://github.com/CleverRaven/Cataclysm-DDA/pull/84384))
@@ -207,11 +210,8 @@
 * Fix lack of autoaim in certain cases ([#84341](https://github.com/CleverRaven/Cataclysm-DDA/pull/84341))
 * add "OVERHEATS" flag to hm12. ([#84325](https://github.com/CleverRaven/Cataclysm-DDA/pull/84325))
 * Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
-* Fix installed gunmods appearing in multidrop ([#84316](https://github.com/CleverRaven/Cataclysm-DDA/pull/84316))
 * Couple of micro fixes to the Supermarket ([#84339](https://github.com/CleverRaven/Cataclysm-DDA/pull/84339))
 * Make an enchantment to modify "free dodges" ([#84326](https://github.com/CleverRaven/Cataclysm-DDA/pull/84326))
 * Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
 * Fix empty ammo belts in lab barracks ([#84322](https://github.com/CleverRaven/Cataclysm-DDA/pull/84322))
 * Long attack warning at 300 moves instead of 1000 ([#84323](https://github.com/CleverRaven/Cataclysm-DDA/pull/84323))
-* [DDotD] Edit description to specify setting  ([#84315](https://github.com/CleverRaven/Cataclysm-DDA/pull/84315))
-* Revert "Restore quick reload" ([#84318](https://github.com/CleverRaven/Cataclysm-DDA/pull/84318))
