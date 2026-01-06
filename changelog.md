@@ -1,3 +1,4 @@
+* Reset consume menu state when closed ([#84488](https://github.com/CleverRaven/Cataclysm-DDA/pull/84488))
 
 ---
 
@@ -216,4 +217,3 @@
 * Fix lack of autoaim in certain cases ([#84341](https://github.com/CleverRaven/Cataclysm-DDA/pull/84341))
 * Add "VOLLEY" flag to double firing weapons ([#84344](https://github.com/CleverRaven/Cataclysm-DDA/pull/84344))
 * Couple of micro fixes to the Supermarket ([#84339](https://github.com/CleverRaven/Cataclysm-DDA/pull/84339))
-* Fix dimension-shifting error ([#84331](https://github.com/CleverRaven/Cataclysm-DDA/pull/84331))
