@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-07-1335 ([1758d19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-1335))
+
+* move Cabin reverberation overmap_terrain definitions ([#84516](https://github.com/CleverRaven/Cataclysm-DDA/pull/84516))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-07-1242 ([9d43570](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-1242))
+
+* Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
+* [Magiclysm] The great spell categorization (tier 2) ([#84493](https://github.com/CleverRaven/Cataclysm-DDA/pull/84493))
+* Make concrete deconstruction harder, more consistent, and require the correct tools (including 2 new demolition power tools) ([#84501](https://github.com/CleverRaven/Cataclysm-DDA/pull/84501))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-07-1156 ([6c0a18a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-1156))
+
+* Move ACT_HAND_CRANK handler to activity_actor ([#84505](https://github.com/CleverRaven/Cataclysm-DDA/pull/84505))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-07-0655 ([b9104b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-0655))
 
 * Windows clang20 fix ([#84404](https://github.com/CleverRaven/Cataclysm-DDA/pull/84404))
@@ -164,17 +184,7 @@
 #### Cataclysm-DDA experimental build 2026-01-04-0421 ([f553aad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-0421))
 
 * [Bombastic Perks] Add the Safety Squint perk (plus a couple fixes) ([#84373](https://github.com/CleverRaven/Cataclysm-DDA/pull/84373))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-03-1800 ([266d890](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-1800))
-
 * Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-03-0156 ([c146d34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-03-0156))
-
 * Do not render non-zombies on map when showing horde ([#84417](https://github.com/CleverRaven/Cataclysm-DDA/pull/84417))
 * Remove CLIMBABLE from gutters, add for dumpsters ([#84430](https://github.com/CleverRaven/Cataclysm-DDA/pull/84430))
 * Add new pot types into allowed_tools for veh_tools_part_abstract ([#84402](https://github.com/CleverRaven/Cataclysm-DDA/pull/84402))
@@ -182,7 +192,6 @@
 * bring the khopesh up to current materials/quality/spawn standards ([#84428](https://github.com/CleverRaven/Cataclysm-DDA/pull/84428))
 * Move ACT_START_ENGINES to activity_actor ([#84431](https://github.com/CleverRaven/Cataclysm-DDA/pull/84431))
 * Adjusted USP .45 pistol dispersion ([#84425](https://github.com/CleverRaven/Cataclysm-DDA/pull/84425))
-* [ Magiclysm ] Valzain also likes fiction anthologies ([#84362](https://github.com/CleverRaven/Cataclysm-DDA/pull/84362))
 * Remove legacy use/can_use iuse_actor functions ([#84393](https://github.com/CleverRaven/Cataclysm-DDA/pull/84393))
 * Content (finally) add Chem goggles ([#84392](https://github.com/CleverRaven/Cataclysm-DDA/pull/84392))
 * Balance Trust ([#84396](https://github.com/CleverRaven/Cataclysm-DDA/pull/84396))
@@ -206,13 +215,9 @@
 * Fix oxytorch and reload activity actor crashes ([#84394](https://github.com/CleverRaven/Cataclysm-DDA/pull/84394))
 * Aftershock: AT Railgun ([#84384](https://github.com/CleverRaven/Cataclysm-DDA/pull/84384))
 * 10x reduce trade value of nvg attachments ([#84391](https://github.com/CleverRaven/Cataclysm-DDA/pull/84391))
-* More PAPR equipment ([#84366](https://github.com/CleverRaven/Cataclysm-DDA/pull/84366))
 * Aftershock: New city names ([#84390](https://github.com/CleverRaven/Cataclysm-DDA/pull/84390))
 * Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
 * Fix potentially uninitialized variable used error ([#84380](https://github.com/CleverRaven/Cataclysm-DDA/pull/84380))
 * Fix Spell Messages ([#84376](https://github.com/CleverRaven/Cataclysm-DDA/pull/84376))
-* Fix tools not charging from cars outside reality bubble ([#84364](https://github.com/CleverRaven/Cataclysm-DDA/pull/84364))
 * [Bombastic Perks] limit perk_jugg max damage bonus to 15 ([#84368](https://github.com/CleverRaven/Cataclysm-DDA/pull/84368))
 * [XE] Update the blood gift research EOC to include the new powers. ([#84372](https://github.com/CleverRaven/Cataclysm-DDA/pull/84372))
-* Oil up those pantries, and stock them up ([#84365](https://github.com/CleverRaven/Cataclysm-DDA/pull/84365))
-* Weekly Changelog 2025-12-22 to 2025-12-29 ([#84363](https://github.com/CleverRaven/Cataclysm-DDA/pull/84363))
