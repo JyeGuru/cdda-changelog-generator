@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-07-0012 ([c7cc8a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-0012))
+
+* [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-06-2234 ([c3c0282](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-2234))
 
 * Fix float values provided in json silently converting into ints ([#84427](https://github.com/CleverRaven/Cataclysm-DDA/pull/84427))
@@ -210,4 +216,3 @@
 * Bugfix pockets on MWS quest reward pack frame ([#84356](https://github.com/CleverRaven/Cataclysm-DDA/pull/84356))
 * Increase shoe spawn rate in wardrobes ([#84352](https://github.com/CleverRaven/Cataclysm-DDA/pull/84352))
 * [0.I Branch Backport] Bugfix: In EOC u_query_omt, distance_limit are not visualized on overmap UI when using tiles ([#84354](https://github.com/CleverRaven/Cataclysm-DDA/pull/84354))
-* [MoM] Fix Speed Reading practice recipe power snippet ([#84349](https://github.com/CleverRaven/Cataclysm-DDA/pull/84349))
