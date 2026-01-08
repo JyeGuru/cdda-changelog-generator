@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-08-1423 ([e2de0d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-1423))
+
+* [Sky Island] Assign myself as maintainer of Sky Island ([#84552](https://github.com/CleverRaven/Cataclysm-DDA/pull/84552))
 * Ignore weight effects for characters that don't need food (NPCs) ([#84542](https://github.com/CleverRaven/Cataclysm-DDA/pull/84542))
 * [MoM] No drunken psi mastery ([#84539](https://github.com/CleverRaven/Cataclysm-DDA/pull/84539))
 
@@ -184,11 +190,6 @@
 * Move ACT_ROBOT_CONTROL to activity_actor ([#84446](https://github.com/CleverRaven/Cataclysm-DDA/pull/84446))
 * Update warhammer to have quality variants ([#84455](https://github.com/CleverRaven/Cataclysm-DDA/pull/84455))
 * [MoM] Add `dist_matrix_tools` to the various `psi_lab` groups ([#84459](https://github.com/CleverRaven/Cataclysm-DDA/pull/84459))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-04-2036 ([6e040a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-2036))
-
 * [Magiclysm] Esoteric Spellbooks ([#84450](https://github.com/CleverRaven/Cataclysm-DDA/pull/84450))
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
 * Prevent supermarkets from scamming customers on can contents ([#84432](https://github.com/CleverRaven/Cataclysm-DDA/pull/84432))
@@ -225,4 +226,3 @@
 * 10x reduce trade value of nvg attachments ([#84391](https://github.com/CleverRaven/Cataclysm-DDA/pull/84391))
 * Aftershock: New city names ([#84390](https://github.com/CleverRaven/Cataclysm-DDA/pull/84390))
 * Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
-* Fix potentially uninitialized variable used error ([#84380](https://github.com/CleverRaven/Cataclysm-DDA/pull/84380))
