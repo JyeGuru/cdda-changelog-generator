@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-08-0336 ([f90094e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0336))
+
+* Fix infinite yarn exploit ([#84521](https://github.com/CleverRaven/Cataclysm-DDA/pull/84521))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-07-1335 ([1758d19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-1335))
 
 * move Cabin reverberation overmap_terrain definitions ([#84516](https://github.com/CleverRaven/Cataclysm-DDA/pull/84516))
@@ -219,5 +225,4 @@
 * Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
 * Fix potentially uninitialized variable used error ([#84380](https://github.com/CleverRaven/Cataclysm-DDA/pull/84380))
 * Fix Spell Messages ([#84376](https://github.com/CleverRaven/Cataclysm-DDA/pull/84376))
-* [Bombastic Perks] limit perk_jugg max damage bonus to 15 ([#84368](https://github.com/CleverRaven/Cataclysm-DDA/pull/84368))
 * [XE] Update the blood gift research EOC to include the new powers. ([#84372](https://github.com/CleverRaven/Cataclysm-DDA/pull/84372))

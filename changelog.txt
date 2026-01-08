@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-08-0336 (f90094e)
+* Fix infinite yarn exploit (#84521)
+
 Cataclysm-DDA experimental build 2026-01-07-1335 (1758d19)
 * move Cabin reverberation overmap_terrain definitions (#84516)
 
@@ -141,5 +144,4 @@ Cataclysm-DDA experimental build 2026-01-04-0421 (f553aad)
 * Reduce the locked lmoe occurance to be inline with the other lmoe (#84381)
 * Fix potentially uninitialized variable used error (#84380)
 * Fix Spell Messages (#84376)
-* [Bombastic Perks] limit perk_jugg max damage bonus to 15 (#84368)
 * [XE] Update the blood gift research EOC to include the new powers. (#84372)
