@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-08-0509 ([2861f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0509))
+
+* Bring jackhammer sizes to reality ([#84525](https://github.com/CleverRaven/Cataclysm-DDA/pull/84525))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-08-0336 ([f90094e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0336))
 
 * Fix infinite yarn exploit ([#84521](https://github.com/CleverRaven/Cataclysm-DDA/pull/84521))
@@ -184,11 +190,6 @@
 * Prevent supermarkets from scamming customers on can contents ([#84432](https://github.com/CleverRaven/Cataclysm-DDA/pull/84432))
 * [DDotD] Blacklist foldable solar panels ([#84422](https://github.com/CleverRaven/Cataclysm-DDA/pull/84422))
 * Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-04-0421 ([f553aad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-0421))
-
 * [Bombastic Perks] Add the Safety Squint perk (plus a couple fixes) ([#84373](https://github.com/CleverRaven/Cataclysm-DDA/pull/84373))
 * Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
 * Do not render non-zombies on map when showing horde ([#84417](https://github.com/CleverRaven/Cataclysm-DDA/pull/84417))
@@ -225,4 +226,3 @@
 * Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
 * Fix potentially uninitialized variable used error ([#84380](https://github.com/CleverRaven/Cataclysm-DDA/pull/84380))
 * Fix Spell Messages ([#84376](https://github.com/CleverRaven/Cataclysm-DDA/pull/84376))
-* [XE] Update the blood gift research EOC to include the new powers. ([#84372](https://github.com/CleverRaven/Cataclysm-DDA/pull/84372))
