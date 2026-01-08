@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-08-0638 ([ba5eaf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0638))
+
+* Typo fix ([#84508](https://github.com/CleverRaven/Cataclysm-DDA/pull/84508))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-08-0509 ([2861f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0509))
 
 * Bring jackhammer sizes to reality ([#84525](https://github.com/CleverRaven/Cataclysm-DDA/pull/84525))
@@ -182,15 +188,9 @@
 #### Cataclysm-DDA experimental build 2026-01-04-1614 ([6589714](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-1614))
 
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-04-0520 ([c7b514d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-0520))
-
 * Prevent supermarkets from scamming customers on can contents ([#84432](https://github.com/CleverRaven/Cataclysm-DDA/pull/84432))
 * [DDotD] Blacklist foldable solar panels ([#84422](https://github.com/CleverRaven/Cataclysm-DDA/pull/84422))
 * Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
-* [Bombastic Perks] Add the Safety Squint perk (plus a couple fixes) ([#84373](https://github.com/CleverRaven/Cataclysm-DDA/pull/84373))
 * Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
 * Do not render non-zombies on map when showing horde ([#84417](https://github.com/CleverRaven/Cataclysm-DDA/pull/84417))
 * Remove CLIMBABLE from gutters, add for dumpsters ([#84430](https://github.com/CleverRaven/Cataclysm-DDA/pull/84430))
