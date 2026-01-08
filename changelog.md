@@ -1,3 +1,12 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-08-2234 ([5744141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-2234))
+
+* Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
+* XEDRA field mystery II: another nether-creature encounter with a (real) DARPA vehicle ([#84400](https://github.com/CleverRaven/Cataclysm-DDA/pull/84400))
+* XEDRA field mysteries I, part 2: finish integration with HUB ([#84419](https://github.com/CleverRaven/Cataclysm-DDA/pull/84419))
+* New Hub 01 quest tying together Mobile Weather Stations & the giant monster corpse ([#84410](https://github.com/CleverRaven/Cataclysm-DDA/pull/84410))
 * [Magiclysm] The great spell categorization (tier 3) ([#84514](https://github.com/CleverRaven/Cataclysm-DDA/pull/84514))
 * Add nail_box_part item group and update references ([#84527](https://github.com/CleverRaven/Cataclysm-DDA/pull/84527))
 * [Magiclysm] Reduce frequency of troll zombie, add start date ([#84529](https://github.com/CleverRaven/Cataclysm-DDA/pull/84529))
@@ -190,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2026-01-05-1133 ([237225e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-1133))
 
 * Stop serializing bad vehicle item_locations ([#84466](https://github.com/CleverRaven/Cataclysm-DDA/pull/84466))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-05-0029 ([7fb9cd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-0029))
-
 * Make reading message intelligible ([#84444](https://github.com/CleverRaven/Cataclysm-DDA/pull/84444))
 * [Magiclysm] Fix elf longing EoC name ([#84449](https://github.com/CleverRaven/Cataclysm-DDA/pull/84449))
 * Move ACT_ROBOT_CONTROL to activity_actor ([#84446](https://github.com/CleverRaven/Cataclysm-DDA/pull/84446))
@@ -213,8 +217,6 @@
 * bring the khopesh up to current materials/quality/spawn standards ([#84428](https://github.com/CleverRaven/Cataclysm-DDA/pull/84428))
 * Move ACT_START_ENGINES to activity_actor ([#84431](https://github.com/CleverRaven/Cataclysm-DDA/pull/84431))
 * Adjusted USP .45 pistol dispersion ([#84425](https://github.com/CleverRaven/Cataclysm-DDA/pull/84425))
-* Remove legacy use/can_use iuse_actor functions ([#84393](https://github.com/CleverRaven/Cataclysm-DDA/pull/84393))
-* Content (finally) add Chem goggles ([#84392](https://github.com/CleverRaven/Cataclysm-DDA/pull/84392))
 * Balance Trust ([#84396](https://github.com/CleverRaven/Cataclysm-DDA/pull/84396))
 * Fix map cache not revealing map ([#84409](https://github.com/CleverRaven/Cataclysm-DDA/pull/84409))
 * Add tests for multi-ammo restrictions in pockets and magazines ([#84407](https://github.com/CleverRaven/Cataclysm-DDA/pull/84407))
@@ -225,9 +227,6 @@
 * Add max property to St. John's farm ([#84412](https://github.com/CleverRaven/Cataclysm-DDA/pull/84412))
 * Fix invalid spell in twisted_geometry ([#84408](https://github.com/CleverRaven/Cataclysm-DDA/pull/84408))
 * Translate inventory UI mode name ([#84406](https://github.com/CleverRaven/Cataclysm-DDA/pull/84406))
-* Better assignment of credit/blame for thrown molotovs ([#84389](https://github.com/CleverRaven/Cataclysm-DDA/pull/84389))
 * Add ammo-related unit tests for ammo_type and common_ammo_default ([#84397](https://github.com/CleverRaven/Cataclysm-DDA/pull/84397))
 * Check if Character pointer is valid before using it for message ([#84399](https://github.com/CleverRaven/Cataclysm-DDA/pull/84399))
 * Fix oxytorch and reload activity actor crashes ([#84394](https://github.com/CleverRaven/Cataclysm-DDA/pull/84394))
-* 10x reduce trade value of nvg attachments ([#84391](https://github.com/CleverRaven/Cataclysm-DDA/pull/84391))
-* Aftershock: New city names ([#84390](https://github.com/CleverRaven/Cataclysm-DDA/pull/84390))
