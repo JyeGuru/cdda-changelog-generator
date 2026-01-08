@@ -1,3 +1,11 @@
+* Ignore weight effects for characters that don't need food (NPCs) ([#84542](https://github.com/CleverRaven/Cataclysm-DDA/pull/84542))
+* [MoM] No drunken psi mastery ([#84539](https://github.com/CleverRaven/Cataclysm-DDA/pull/84539))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-08-1238 ([a09e479](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-1238))
+
+* Update jdk version mentions in docs and workflows ([#84549](https://github.com/CleverRaven/Cataclysm-DDA/pull/84549))
 
 ---
 
@@ -182,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-01-04-2036 ([6e040a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-2036))
 
 * [Magiclysm] Esoteric Spellbooks ([#84450](https://github.com/CleverRaven/Cataclysm-DDA/pull/84450))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-04-1614 ([6589714](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-04-1614))
-
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
 * Prevent supermarkets from scamming customers on can contents ([#84432](https://github.com/CleverRaven/Cataclysm-DDA/pull/84432))
 * [DDotD] Blacklist foldable solar panels ([#84422](https://github.com/CleverRaven/Cataclysm-DDA/pull/84422))
@@ -211,13 +214,11 @@
 * [DDotD] Increase the number of farms ([#84415](https://github.com/CleverRaven/Cataclysm-DDA/pull/84415))
 * Add max property to St. John's farm ([#84412](https://github.com/CleverRaven/Cataclysm-DDA/pull/84412))
 * Fix invalid spell in twisted_geometry ([#84408](https://github.com/CleverRaven/Cataclysm-DDA/pull/84408))
-* Fix kelvinist class on spell that where kelvinist doesn't exist ([#84375](https://github.com/CleverRaven/Cataclysm-DDA/pull/84375))
 * Translate inventory UI mode name ([#84406](https://github.com/CleverRaven/Cataclysm-DDA/pull/84406))
 * Better assignment of credit/blame for thrown molotovs ([#84389](https://github.com/CleverRaven/Cataclysm-DDA/pull/84389))
 * Don't spawn horde of blacklisted monsters ([#84385](https://github.com/CleverRaven/Cataclysm-DDA/pull/84385))
 * Add ammo-related unit tests for ammo_type and common_ammo_default ([#84397](https://github.com/CleverRaven/Cataclysm-DDA/pull/84397))
 * Fix yrax golden monolith spell ([#84382](https://github.com/CleverRaven/Cataclysm-DDA/pull/84382))
-* Fix up the `house_w_5` mapgen ([#84378](https://github.com/CleverRaven/Cataclysm-DDA/pull/84378))
 * Check if Character pointer is valid before using it for message ([#84399](https://github.com/CleverRaven/Cataclysm-DDA/pull/84399))
 * Fix oxytorch and reload activity actor crashes ([#84394](https://github.com/CleverRaven/Cataclysm-DDA/pull/84394))
 * Aftershock: AT Railgun ([#84384](https://github.com/CleverRaven/Cataclysm-DDA/pull/84384))
@@ -225,4 +226,3 @@
 * Aftershock: New city names ([#84390](https://github.com/CleverRaven/Cataclysm-DDA/pull/84390))
 * Reduce the locked lmoe occurance to be inline with the other lmoe ([#84381](https://github.com/CleverRaven/Cataclysm-DDA/pull/84381))
 * Fix potentially uninitialized variable used error ([#84380](https://github.com/CleverRaven/Cataclysm-DDA/pull/84380))
-* Fix Spell Messages ([#84376](https://github.com/CleverRaven/Cataclysm-DDA/pull/84376))
