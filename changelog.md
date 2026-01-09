@@ -193,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-01-05-2318 ([1883328](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-2318))
 
 * [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-05-2225 ([0551316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-2225))
-
 * [Magiclysm] Fewer joke scrolls ([#84468](https://github.com/CleverRaven/Cataclysm-DDA/pull/84468))
 * [Magiclysm] The great spell categorization (tier 0) ([#84460](https://github.com/CleverRaven/Cataclysm-DDA/pull/84460))
 * Migrate wchar_t and wstring to UTF-32 ([#84440](https://github.com/CleverRaven/Cataclysm-DDA/pull/84440))
