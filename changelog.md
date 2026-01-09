@@ -1,3 +1,7 @@
+* Replace Weakening with ROT1 ([#84591](https://github.com/CleverRaven/Cataclysm-DDA/pull/84591))
+* Update usb_drive entries with contents-item ([#84586](https://github.com/CleverRaven/Cataclysm-DDA/pull/84586))
+* [DDotD] Raise base pressure ([#84565](https://github.com/CleverRaven/Cataclysm-DDA/pull/84565))
+* [MoM] Change the Clairsentient power Combat Sense to use FREE_DODGES ([#84593](https://github.com/CleverRaven/Cataclysm-DDA/pull/84593))
 
 ---
 
@@ -177,7 +181,6 @@
 
 * Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
 * Validate spell classes, targeted monster ids and species ([#84439](https://github.com/CleverRaven/Cataclysm-DDA/pull/84439))
-* Add tests for overmap flag string consistency and location flags ([#84424](https://github.com/CleverRaven/Cataclysm-DDA/pull/84424))
 * Fix add_random_hobby with empty choices ([#84436](https://github.com/CleverRaven/Cataclysm-DDA/pull/84436))
 
 ---
@@ -211,11 +214,9 @@
 * [Magiclysm] Esoteric Spellbooks ([#84450](https://github.com/CleverRaven/Cataclysm-DDA/pull/84450))
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
 * Prevent supermarkets from scamming customers on can contents ([#84432](https://github.com/CleverRaven/Cataclysm-DDA/pull/84432))
-* [DDotD] Blacklist foldable solar panels ([#84422](https://github.com/CleverRaven/Cataclysm-DDA/pull/84422))
 * Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
 * Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
 * Remove CLIMBABLE from gutters, add for dumpsters ([#84430](https://github.com/CleverRaven/Cataclysm-DDA/pull/84430))
 * Change sledgehammers to medium carbon steel ([#84429](https://github.com/CleverRaven/Cataclysm-DDA/pull/84429))
 * bring the khopesh up to current materials/quality/spawn standards ([#84428](https://github.com/CleverRaven/Cataclysm-DDA/pull/84428))
 * Move ACT_START_ENGINES to activity_actor ([#84431](https://github.com/CleverRaven/Cataclysm-DDA/pull/84431))
-* Adjusted USP .45 pistol dispersion ([#84425](https://github.com/CleverRaven/Cataclysm-DDA/pull/84425))
