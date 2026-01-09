@@ -1,3 +1,6 @@
+* Crafting GUI filter: by recipe source (book or npc) ([#84441](https://github.com/CleverRaven/Cataclysm-DDA/pull/84441))
+* Weekly Changelog 2025-12-29 to 2026-01-05 ([#84470](https://github.com/CleverRaven/Cataclysm-DDA/pull/84470))
+* Put back drugs and medical tools in E menu ([#84523](https://github.com/CleverRaven/Cataclysm-DDA/pull/84523))
 
 ---
 
@@ -27,7 +30,6 @@
 
 * Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
 * XEDRA field mysteries I, part 2: finish integration with HUB ([#84419](https://github.com/CleverRaven/Cataclysm-DDA/pull/84419))
-* New Hub 01 quest tying together Mobile Weather Stations & the giant monster corpse ([#84410](https://github.com/CleverRaven/Cataclysm-DDA/pull/84410))
 * [Magiclysm] The great spell categorization (tier 3) ([#84514](https://github.com/CleverRaven/Cataclysm-DDA/pull/84514))
 * Add nail_box_part item group and update references ([#84527](https://github.com/CleverRaven/Cataclysm-DDA/pull/84527))
 * [Magiclysm] Reduce frequency of troll zombie, add start date ([#84529](https://github.com/CleverRaven/Cataclysm-DDA/pull/84529))
@@ -221,7 +223,5 @@
 * bring the khopesh up to current materials/quality/spawn standards ([#84428](https://github.com/CleverRaven/Cataclysm-DDA/pull/84428))
 * Move ACT_START_ENGINES to activity_actor ([#84431](https://github.com/CleverRaven/Cataclysm-DDA/pull/84431))
 * Adjusted USP .45 pistol dispersion ([#84425](https://github.com/CleverRaven/Cataclysm-DDA/pull/84425))
-* Fix map cache not revealing map ([#84409](https://github.com/CleverRaven/Cataclysm-DDA/pull/84409))
 * Change meadow `travel_cost_type` from field to forest ([#84413](https://github.com/CleverRaven/Cataclysm-DDA/pull/84413))
 * [DDotD] Increase the number of farms ([#84415](https://github.com/CleverRaven/Cataclysm-DDA/pull/84415))
-* Add max property to St. John's farm ([#84412](https://github.com/CleverRaven/Cataclysm-DDA/pull/84412))
