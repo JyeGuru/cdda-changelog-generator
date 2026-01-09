@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-01-09-0702 ([afd526f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-09-0702))
+
+* Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-09-0701 ([2ad4f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-0701))
+
+* Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
 * Crafting GUI filter: by recipe source (book or npc) ([#84441](https://github.com/CleverRaven/Cataclysm-DDA/pull/84441))
 * Weekly Changelog 2025-12-29 to 2026-01-05 ([#84470](https://github.com/CleverRaven/Cataclysm-DDA/pull/84470))
 * Put back drugs and medical tools in E menu ([#84523](https://github.com/CleverRaven/Cataclysm-DDA/pull/84523))
@@ -181,17 +193,7 @@
 #### Cataclysm-DDA experimental build 2026-01-06-0246 ([8a7999f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0246))
 
 * [Magiclysm] Rename classless light spell to Orb of Light, make it an effect ([#84487](https://github.com/CleverRaven/Cataclysm-DDA/pull/84487))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-0000 ([7e0aac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0000))
-
 * [Magiclysm] The great spell categorization (tier 1) ([#84482](https://github.com/CleverRaven/Cataclysm-DDA/pull/84482))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-05-2318 ([1883328](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-2318))
-
 * [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
 * [Magiclysm] Fewer joke scrolls ([#84468](https://github.com/CleverRaven/Cataclysm-DDA/pull/84468))
 * [Magiclysm] The great spell categorization (tier 0) ([#84460](https://github.com/CleverRaven/Cataclysm-DDA/pull/84460))
@@ -218,5 +220,3 @@
 * bring the khopesh up to current materials/quality/spawn standards ([#84428](https://github.com/CleverRaven/Cataclysm-DDA/pull/84428))
 * Move ACT_START_ENGINES to activity_actor ([#84431](https://github.com/CleverRaven/Cataclysm-DDA/pull/84431))
 * Adjusted USP .45 pistol dispersion ([#84425](https://github.com/CleverRaven/Cataclysm-DDA/pull/84425))
-* Change meadow `travel_cost_type` from field to forest ([#84413](https://github.com/CleverRaven/Cataclysm-DDA/pull/84413))
-* [DDotD] Increase the number of farms ([#84415](https://github.com/CleverRaven/Cataclysm-DDA/pull/84415))
