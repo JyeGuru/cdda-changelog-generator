@@ -214,7 +214,6 @@
 * [DDotD] Blacklist foldable solar panels ([#84422](https://github.com/CleverRaven/Cataclysm-DDA/pull/84422))
 * Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
 * Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
-* Do not render non-zombies on map when showing horde ([#84417](https://github.com/CleverRaven/Cataclysm-DDA/pull/84417))
 * Remove CLIMBABLE from gutters, add for dumpsters ([#84430](https://github.com/CleverRaven/Cataclysm-DDA/pull/84430))
 * Change sledgehammers to medium carbon steel ([#84429](https://github.com/CleverRaven/Cataclysm-DDA/pull/84429))
 * bring the khopesh up to current materials/quality/spawn standards ([#84428](https://github.com/CleverRaven/Cataclysm-DDA/pull/84428))
