@@ -1,10 +1,31 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-09-0351 ([12f0232](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-0351))
+
+* Fix the projectile effects ([#84531](https://github.com/CleverRaven/Cataclysm-DDA/pull/84531))
+* Jsonify molotovs, add gelled molotovs, recipes to gel gasoline ([#84533](https://github.com/CleverRaven/Cataclysm-DDA/pull/84533))
+* Move ACT_SPELLCASTING handler to activity_actor ([#84538](https://github.com/CleverRaven/Cataclysm-DDA/pull/84538))
+* Check validity of NPC enums during loading ([#84545](https://github.com/CleverRaven/Cataclysm-DDA/pull/84545))
+* Add PLOWABLE flag to forest floor to allow it to be constructed into a shallow pit ([#84548](https://github.com/CleverRaven/Cataclysm-DDA/pull/84548))
+* Fix map editor errors on empty list ([#84550](https://github.com/CleverRaven/Cataclysm-DDA/pull/84550))
+* Cereal Audit ([#84553](https://github.com/CleverRaven/Cataclysm-DDA/pull/84553))
+* Add Subway ramps linking to secret subway ([#84556](https://github.com/CleverRaven/Cataclysm-DDA/pull/84556))
+* Improve mobile weather stations functions (1/2) ([#84558](https://github.com/CleverRaven/Cataclysm-DDA/pull/84558))
+* laptop hard case ([#84560](https://github.com/CleverRaven/Cataclysm-DDA/pull/84560))
+* [MoM] Fix Fountain of Flames contemplation ([#84561](https://github.com/CleverRaven/Cataclysm-DDA/pull/84561))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-09-0255 ([93dc04e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-0255))
+
+* Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-08-2234 ([5744141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-2234))
 
 * Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
-* XEDRA field mystery II: another nether-creature encounter with a (real) DARPA vehicle ([#84400](https://github.com/CleverRaven/Cataclysm-DDA/pull/84400))
 * XEDRA field mysteries I, part 2: finish integration with HUB ([#84419](https://github.com/CleverRaven/Cataclysm-DDA/pull/84419))
 * New Hub 01 quest tying together Mobile Weather Stations & the giant monster corpse ([#84410](https://github.com/CleverRaven/Cataclysm-DDA/pull/84410))
 * [Magiclysm] The great spell categorization (tier 3) ([#84514](https://github.com/CleverRaven/Cataclysm-DDA/pull/84514))
@@ -69,12 +90,6 @@
 #### Cataclysm-DDA experimental build 2026-01-07-1156 ([6c0a18a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-1156))
 
 * Move ACT_HAND_CRANK handler to activity_actor ([#84505](https://github.com/CleverRaven/Cataclysm-DDA/pull/84505))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-07-0655 ([b9104b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-0655))
-
-* Windows clang20 fix ([#84404](https://github.com/CleverRaven/Cataclysm-DDA/pull/84404))
 * [Magiclysm/XE] Correct obsoletion ([#84494](https://github.com/CleverRaven/Cataclysm-DDA/pull/84494))
 * fix typo in xedra evolved effect ([#84503](https://github.com/CleverRaven/Cataclysm-DDA/pull/84503))
 * Chacne to find army clips in on_hand_223 ([#84509](https://github.com/CleverRaven/Cataclysm-DDA/pull/84509))
@@ -182,22 +197,12 @@
 #### Cataclysm-DDA experimental build 2026-01-05-2225 ([0551316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-2225))
 
 * [Magiclysm] Fewer joke scrolls ([#84468](https://github.com/CleverRaven/Cataclysm-DDA/pull/84468))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-05-1221 ([d298442](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-1221))
-
 * [Magiclysm] The great spell categorization (tier 0) ([#84460](https://github.com/CleverRaven/Cataclysm-DDA/pull/84460))
 * Migrate wchar_t and wstring to UTF-32 ([#84440](https://github.com/CleverRaven/Cataclysm-DDA/pull/84440))
 * Make sandleather autolearned at fab 2 ([#84454](https://github.com/CleverRaven/Cataclysm-DDA/pull/84454))
 * [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
 * add "flailers" into radiosphere dimension ([#84456](https://github.com/CleverRaven/Cataclysm-DDA/pull/84456))
 * [Magiclysm] Fix enchanted quiver encumbrance ([#84447](https://github.com/CleverRaven/Cataclysm-DDA/pull/84447))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-05-1133 ([237225e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-05-1133))
-
 * Stop serializing bad vehicle item_locations ([#84466](https://github.com/CleverRaven/Cataclysm-DDA/pull/84466))
 * Make reading message intelligible ([#84444](https://github.com/CleverRaven/Cataclysm-DDA/pull/84444))
 * [Magiclysm] Fix elf longing EoC name ([#84449](https://github.com/CleverRaven/Cataclysm-DDA/pull/84449))
@@ -212,21 +217,11 @@
 * Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
 * Do not render non-zombies on map when showing horde ([#84417](https://github.com/CleverRaven/Cataclysm-DDA/pull/84417))
 * Remove CLIMBABLE from gutters, add for dumpsters ([#84430](https://github.com/CleverRaven/Cataclysm-DDA/pull/84430))
-* Add new pot types into allowed_tools for veh_tools_part_abstract ([#84402](https://github.com/CleverRaven/Cataclysm-DDA/pull/84402))
 * Change sledgehammers to medium carbon steel ([#84429](https://github.com/CleverRaven/Cataclysm-DDA/pull/84429))
 * bring the khopesh up to current materials/quality/spawn standards ([#84428](https://github.com/CleverRaven/Cataclysm-DDA/pull/84428))
 * Move ACT_START_ENGINES to activity_actor ([#84431](https://github.com/CleverRaven/Cataclysm-DDA/pull/84431))
 * Adjusted USP .45 pistol dispersion ([#84425](https://github.com/CleverRaven/Cataclysm-DDA/pull/84425))
-* Balance Trust ([#84396](https://github.com/CleverRaven/Cataclysm-DDA/pull/84396))
 * Fix map cache not revealing map ([#84409](https://github.com/CleverRaven/Cataclysm-DDA/pull/84409))
-* Add tests for multi-ammo restrictions in pockets and magazines ([#84407](https://github.com/CleverRaven/Cataclysm-DDA/pull/84407))
-* [DinoMod] bird bodies teach about dino weak points ([#84403](https://github.com/CleverRaven/Cataclysm-DDA/pull/84403))
 * Change meadow `travel_cost_type` from field to forest ([#84413](https://github.com/CleverRaven/Cataclysm-DDA/pull/84413))
-* Update Makefile clean target in lang/ directory ([#84405](https://github.com/CleverRaven/Cataclysm-DDA/pull/84405))
 * [DDotD] Increase the number of farms ([#84415](https://github.com/CleverRaven/Cataclysm-DDA/pull/84415))
 * Add max property to St. John's farm ([#84412](https://github.com/CleverRaven/Cataclysm-DDA/pull/84412))
-* Fix invalid spell in twisted_geometry ([#84408](https://github.com/CleverRaven/Cataclysm-DDA/pull/84408))
-* Translate inventory UI mode name ([#84406](https://github.com/CleverRaven/Cataclysm-DDA/pull/84406))
-* Add ammo-related unit tests for ammo_type and common_ammo_default ([#84397](https://github.com/CleverRaven/Cataclysm-DDA/pull/84397))
-* Check if Character pointer is valid before using it for message ([#84399](https://github.com/CleverRaven/Cataclysm-DDA/pull/84399))
-* Fix oxytorch and reload activity actor crashes ([#84394](https://github.com/CleverRaven/Cataclysm-DDA/pull/84394))
