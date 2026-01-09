@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-09-2257 ([2ca4564](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-2257))
+
+* Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2026-01-09-0702 ([afd526f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-09-0702))
 
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
@@ -41,7 +47,6 @@
 #### Cataclysm-DDA experimental build 2026-01-08-2234 ([5744141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-2234))
 
 * Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
-* XEDRA field mysteries I, part 2: finish integration with HUB ([#84419](https://github.com/CleverRaven/Cataclysm-DDA/pull/84419))
 * [Magiclysm] The great spell categorization (tier 3) ([#84514](https://github.com/CleverRaven/Cataclysm-DDA/pull/84514))
 * Add nail_box_part item group and update references ([#84527](https://github.com/CleverRaven/Cataclysm-DDA/pull/84527))
 * [Magiclysm] Reduce frequency of troll zombie, add start date ([#84529](https://github.com/CleverRaven/Cataclysm-DDA/pull/84529))
@@ -187,11 +192,6 @@
 
 * Coffee beans density set lower than tungsten ([#84477](https://github.com/CleverRaven/Cataclysm-DDA/pull/84477))
 * Indoor flagpole wooden ([#84480](https://github.com/CleverRaven/Cataclysm-DDA/pull/84480))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-0246 ([8a7999f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0246))
-
 * [Magiclysm] Rename classless light spell to Orb of Light, make it an effect ([#84487](https://github.com/CleverRaven/Cataclysm-DDA/pull/84487))
 * [Magiclysm] The great spell categorization (tier 1) ([#84482](https://github.com/CleverRaven/Cataclysm-DDA/pull/84482))
 * [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
