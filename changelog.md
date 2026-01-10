@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-10-0832 ([fa40cd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-0832))
+
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
 * Correct gold bracelet encumbrance/coverage ([#84583](https://github.com/CleverRaven/Cataclysm-DDA/pull/84583))
 * [Magiclysm] More itemgroup reworks for school itemgroups ([#84537](https://github.com/CleverRaven/Cataclysm-DDA/pull/84537))
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-01-06-0948 ([39dca18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0948))
 
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components ([#84486](https://github.com/CleverRaven/Cataclysm-DDA/pull/84486))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-0543 ([5f7b7d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0543))
-
 * Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
 * Validate spell classes, targeted monster ids and species ([#84439](https://github.com/CleverRaven/Cataclysm-DDA/pull/84439))
 * Fix add_random_hobby with empty choices ([#84436](https://github.com/CleverRaven/Cataclysm-DDA/pull/84436))

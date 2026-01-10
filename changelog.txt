@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-10-0832 (fa40cd0)
 * Move ACT_SOCIALIZE to activity_actor (#84598)
 * Correct gold bracelet encumbrance/coverage (#84583)
 * [Magiclysm] More itemgroup reworks for school itemgroups (#84537)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2026-01-06-1051 (bf7544c)
 
 Cataclysm-DDA experimental build 2026-01-06-0948 (39dca18)
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components (#84486)
-
-Cataclysm-DDA experimental build 2026-01-06-0543 (5f7b7d5)
 * Fix horde map iterator comparison UB (#84474)
 * Validate spell classes, targeted monster ids and species (#84439)
 * Fix add_random_hobby with empty choices (#84436)
