@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-10-1349 (75aa304)
+* [Sky island] loading screen image (#84606)
+
 Cataclysm-DDA experimental build 2026-01-10-1045 (2b21103)
 * making instant coffee is easy! (#84540)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2026-01-06-2046 (142076e)
 
 Cataclysm-DDA experimental build 2026-01-06-1938 (d724ffd)
 * [Magiclysm] Move Mage Armor to Magus, rename to Force Armor (#84485)
-
-Cataclysm-DDA experimental build 2026-01-06-1211 (f5bb9a0)
 * [Sky Island] Update Scouting Lens 1 recipe for pipe changes (#84472)
 * Persist zoom level (#84475)
 * [Magiclysm] Change Impact Sling components (#84490)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2026-01-06-1211 (f5bb9a0)
 * [Magiclysm] Esoteric Spellbooks (#84450)
 * [Sky Island] Remove mission cleanup (#84458)
 * Bind unload onto ground, rename keys for clarity (#84445)
-* Fix make clean error on macOS (#84435)

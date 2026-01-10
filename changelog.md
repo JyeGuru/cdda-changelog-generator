@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-10-1349 ([75aa304](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1349))
+
+* [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-10-1045 ([2b21103](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1045))
 
 * making instant coffee is easy! ([#84540](https://github.com/CleverRaven/Cataclysm-DDA/pull/84540))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-01-06-1938 ([d724ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-1938))
 
 * [Magiclysm] Move Mage Armor to Magus, rename to Force Armor ([#84485](https://github.com/CleverRaven/Cataclysm-DDA/pull/84485))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-1211 ([f5bb9a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-1211))
-
 * [Sky Island] Update Scouting Lens 1 recipe for pipe changes ([#84472](https://github.com/CleverRaven/Cataclysm-DDA/pull/84472))
 * Persist zoom level ([#84475](https://github.com/CleverRaven/Cataclysm-DDA/pull/84475))
 * [Magiclysm] Change Impact Sling components ([#84490](https://github.com/CleverRaven/Cataclysm-DDA/pull/84490))
@@ -214,4 +215,3 @@
 * [Magiclysm] Esoteric Spellbooks ([#84450](https://github.com/CleverRaven/Cataclysm-DDA/pull/84450))
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
 * Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
-* Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
