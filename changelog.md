@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-10-1045 ([2b21103](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1045))
+
 * making instant coffee is easy! ([#84540](https://github.com/CleverRaven/Cataclysm-DDA/pull/84540))
 
 ---
@@ -180,11 +185,6 @@
 * Persist zoom level ([#84475](https://github.com/CleverRaven/Cataclysm-DDA/pull/84475))
 * [Magiclysm] Change Impact Sling components ([#84490](https://github.com/CleverRaven/Cataclysm-DDA/pull/84490))
 * Reset consume menu state when closed ([#84488](https://github.com/CleverRaven/Cataclysm-DDA/pull/84488))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-1051 ([bf7544c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-1051))
-
 * Move ACT_STUDY_SPELL handler to activity_actor ([#84467](https://github.com/CleverRaven/Cataclysm-DDA/pull/84467))
 * Add place_monsters entries to mil_base_z-1.json ([#84476](https://github.com/CleverRaven/Cataclysm-DDA/pull/84476))
 * Outpost typo fix ([#84463](https://github.com/CleverRaven/Cataclysm-DDA/pull/84463))
