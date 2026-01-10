@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-10-0010 ([0cb0956](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-0010))
+
 * Replace Weakening with ROT1 ([#84591](https://github.com/CleverRaven/Cataclysm-DDA/pull/84591))
 * Update usb_drive entries with contents-item ([#84586](https://github.com/CleverRaven/Cataclysm-DDA/pull/84586))
 * [DDotD] Raise base pressure ([#84565](https://github.com/CleverRaven/Cataclysm-DDA/pull/84565))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-01-06-0454 ([56d2ae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0454))
 
 * slightly increase PAPR spawns ([#84479](https://github.com/CleverRaven/Cataclysm-DDA/pull/84479))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-0344 ([4201ec8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0344))
-
 * Coffee beans density set lower than tungsten ([#84477](https://github.com/CleverRaven/Cataclysm-DDA/pull/84477))
 * Indoor flagpole wooden ([#84480](https://github.com/CleverRaven/Cataclysm-DDA/pull/84480))
 * [Magiclysm] Rename classless light spell to Orb of Light, make it an effect ([#84487](https://github.com/CleverRaven/Cataclysm-DDA/pull/84487))
