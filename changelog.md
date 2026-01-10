@@ -1,3 +1,10 @@
+* making instant coffee is easy! ([#84540](https://github.com/CleverRaven/Cataclysm-DDA/pull/84540))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-10-1000 ([6743f03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1000))
+
+* fix crossing bridges in autodrive mode ([#84568](https://github.com/CleverRaven/Cataclysm-DDA/pull/84568))
 
 ---
 
@@ -181,11 +188,6 @@
 * Move ACT_STUDY_SPELL handler to activity_actor ([#84467](https://github.com/CleverRaven/Cataclysm-DDA/pull/84467))
 * Add place_monsters entries to mil_base_z-1.json ([#84476](https://github.com/CleverRaven/Cataclysm-DDA/pull/84476))
 * Outpost typo fix ([#84463](https://github.com/CleverRaven/Cataclysm-DDA/pull/84463))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-0948 ([39dca18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0948))
-
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components ([#84486](https://github.com/CleverRaven/Cataclysm-DDA/pull/84486))
 * Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
 * Validate spell classes, targeted monster ids and species ([#84439](https://github.com/CleverRaven/Cataclysm-DDA/pull/84439))
@@ -211,7 +213,5 @@
 * [MoM] Add `dist_matrix_tools` to the various `psi_lab` groups ([#84459](https://github.com/CleverRaven/Cataclysm-DDA/pull/84459))
 * [Magiclysm] Esoteric Spellbooks ([#84450](https://github.com/CleverRaven/Cataclysm-DDA/pull/84450))
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
-* Prevent supermarkets from scamming customers on can contents ([#84432](https://github.com/CleverRaven/Cataclysm-DDA/pull/84432))
 * Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
 * Fix make clean error on macOS ([#84435](https://github.com/CleverRaven/Cataclysm-DDA/pull/84435))
-* Move ACT_START_ENGINES to activity_actor ([#84431](https://github.com/CleverRaven/Cataclysm-DDA/pull/84431))
