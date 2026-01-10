@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-10-2233 ([f693a67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-2233))
+
+* [Sky Island] red exit room glow ([#84614](https://github.com/CleverRaven/Cataclysm-DDA/pull/84614))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-10-2141 ([36715c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-2141))
 
 * Generate more flour and rice in the game. ([#84579](https://github.com/CleverRaven/Cataclysm-DDA/pull/84579))
@@ -198,7 +204,6 @@
 * Outpost typo fix ([#84463](https://github.com/CleverRaven/Cataclysm-DDA/pull/84463))
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components ([#84486](https://github.com/CleverRaven/Cataclysm-DDA/pull/84486))
 * Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
-* Validate spell classes, targeted monster ids and species ([#84439](https://github.com/CleverRaven/Cataclysm-DDA/pull/84439))
 * slightly increase PAPR spawns ([#84479](https://github.com/CleverRaven/Cataclysm-DDA/pull/84479))
 * Coffee beans density set lower than tungsten ([#84477](https://github.com/CleverRaven/Cataclysm-DDA/pull/84477))
 * Indoor flagpole wooden ([#84480](https://github.com/CleverRaven/Cataclysm-DDA/pull/84480))

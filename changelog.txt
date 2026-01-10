@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-10-2233 (f693a67)
+* [Sky Island] red exit room glow (#84614)
+
 Cataclysm-DDA experimental build 2026-01-10-2141 (36715c5)
 * Generate more flour and rice in the game. (#84579)
 
@@ -120,7 +123,6 @@ Cataclysm-DDA experimental build 2026-01-07-0012 (c7cc8a0)
 * Outpost typo fix (#84463)
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components (#84486)
 * Fix horde map iterator comparison UB (#84474)
-* Validate spell classes, targeted monster ids and species (#84439)
 * slightly increase PAPR spawns (#84479)
 * Coffee beans density set lower than tungsten (#84477)
 * Indoor flagpole wooden (#84480)
