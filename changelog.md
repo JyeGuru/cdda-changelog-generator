@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-10-1652 ([58a468f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1652))
+
+* Add anomalous mp3 player for reverberation finding and entering ([#84551](https://github.com/CleverRaven/Cataclysm-DDA/pull/84551))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-10-1541 ([e8bd751](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1541))
 
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
@@ -163,7 +169,6 @@
 * fix magazine variant shown in iteminfo ([#84512](https://github.com/CleverRaven/Cataclysm-DDA/pull/84512))
 * Hotwire car if it's still hotwireable ([#84457](https://github.com/CleverRaven/Cataclysm-DDA/pull/84457))
 * Benelli M4 as separate shotgun ([#84464](https://github.com/CleverRaven/Cataclysm-DDA/pull/84464))
-* Make matches working outside of matchboxes/matchbooks ([#84437](https://github.com/CleverRaven/Cataclysm-DDA/pull/84437))
 
 ---
 
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-01-06-2046 ([142076e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-2046))
 
 * "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-1938 ([d724ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-1938))
-
 * [Magiclysm] Move Mage Armor to Magus, rename to Force Armor ([#84485](https://github.com/CleverRaven/Cataclysm-DDA/pull/84485))
 * [Sky Island] Update Scouting Lens 1 recipe for pipe changes ([#84472](https://github.com/CleverRaven/Cataclysm-DDA/pull/84472))
 * Persist zoom level ([#84475](https://github.com/CleverRaven/Cataclysm-DDA/pull/84475))
