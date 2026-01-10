@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-10-0750 ([e2b468a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-0750))
+
+* [MoM] Add Oxygen Absorption end message ([#84592](https://github.com/CleverRaven/Cataclysm-DDA/pull/84592))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-10-0010 ([0cb0956](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-0010))
 
 * Replace Weakening with ROT1 ([#84591](https://github.com/CleverRaven/Cataclysm-DDA/pull/84591))
@@ -141,12 +147,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-01-06-2234 ([c3c0282](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-2234))
-
-* Fix float values provided in json silently converting into ints ([#84427](https://github.com/CleverRaven/Cataclysm-DDA/pull/84427))
-
----
-
 #### Cataclysm-DDA experimental build 2026-01-06-2046 ([142076e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-2046))
 
 * "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
@@ -187,11 +187,6 @@
 * Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
 * Validate spell classes, targeted monster ids and species ([#84439](https://github.com/CleverRaven/Cataclysm-DDA/pull/84439))
 * Fix add_random_hobby with empty choices ([#84436](https://github.com/CleverRaven/Cataclysm-DDA/pull/84436))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-0454 ([56d2ae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-0454))
-
 * slightly increase PAPR spawns ([#84479](https://github.com/CleverRaven/Cataclysm-DDA/pull/84479))
 * Coffee beans density set lower than tungsten ([#84477](https://github.com/CleverRaven/Cataclysm-DDA/pull/84477))
 * Indoor flagpole wooden ([#84480](https://github.com/CleverRaven/Cataclysm-DDA/pull/84480))
