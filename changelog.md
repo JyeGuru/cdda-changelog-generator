@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-10-2141 ([36715c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-2141))
+
+* Generate more flour and rice in the game. ([#84579](https://github.com/CleverRaven/Cataclysm-DDA/pull/84579))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-10-1652 ([58a468f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1652))
 
 * Add anomalous mp3 player for reverberation finding and entering ([#84551](https://github.com/CleverRaven/Cataclysm-DDA/pull/84551))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-01-07-0012 ([c7cc8a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-0012))
 
 * [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-06-2046 ([142076e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-06-2046))
-
 * "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
 * [Magiclysm] Move Mage Armor to Magus, rename to Force Armor ([#84485](https://github.com/CleverRaven/Cataclysm-DDA/pull/84485))
 * [Sky Island] Update Scouting Lens 1 recipe for pipe changes ([#84472](https://github.com/CleverRaven/Cataclysm-DDA/pull/84472))
