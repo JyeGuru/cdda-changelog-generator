@@ -1,3 +1,9 @@
+* Use miligrams in bad density test ([#84555](https://github.com/CleverRaven/Cataclysm-DDA/pull/84555))
+* [Magiclysm] Make the Necronomicon a spell book  ([#84504](https://github.com/CleverRaven/Cataclysm-DDA/pull/84504))
+* Improve m27 rifles ([#84612](https://github.com/CleverRaven/Cataclysm-DDA/pull/84612))
+* Powered air purifying respirator blows make noise (reprise) ([#84615](https://github.com/CleverRaven/Cataclysm-DDA/pull/84615))
+* Fix magazine iteminfo ([#84613](https://github.com/CleverRaven/Cataclysm-DDA/pull/84613))
+* [MoM] Add Rainywood Oubliette dimension ([#84623](https://github.com/CleverRaven/Cataclysm-DDA/pull/84623))
 
 ---
 
@@ -217,13 +223,7 @@
 * Make sandleather autolearned at fab 2 ([#84454](https://github.com/CleverRaven/Cataclysm-DDA/pull/84454))
 * [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
 * add "flailers" into radiosphere dimension ([#84456](https://github.com/CleverRaven/Cataclysm-DDA/pull/84456))
-* [Magiclysm] Fix enchanted quiver encumbrance ([#84447](https://github.com/CleverRaven/Cataclysm-DDA/pull/84447))
 * Stop serializing bad vehicle item_locations ([#84466](https://github.com/CleverRaven/Cataclysm-DDA/pull/84466))
-* Make reading message intelligible ([#84444](https://github.com/CleverRaven/Cataclysm-DDA/pull/84444))
-* [Magiclysm] Fix elf longing EoC name ([#84449](https://github.com/CleverRaven/Cataclysm-DDA/pull/84449))
-* Move ACT_ROBOT_CONTROL to activity_actor ([#84446](https://github.com/CleverRaven/Cataclysm-DDA/pull/84446))
 * Update warhammer to have quality variants ([#84455](https://github.com/CleverRaven/Cataclysm-DDA/pull/84455))
 * [MoM] Add `dist_matrix_tools` to the various `psi_lab` groups ([#84459](https://github.com/CleverRaven/Cataclysm-DDA/pull/84459))
-* [Magiclysm] Esoteric Spellbooks ([#84450](https://github.com/CleverRaven/Cataclysm-DDA/pull/84450))
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
-* Bind unload onto ground, rename keys for clarity ([#84445](https://github.com/CleverRaven/Cataclysm-DDA/pull/84445))
