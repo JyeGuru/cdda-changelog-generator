@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-11-0556 (7771452)
 * Tweak mobile weather stations and associated Hub quest dialogue (#84580)
 * [MoM] Rework Mycus world foliage (#84620)
 * Use miligrams in bad density test (#84555)

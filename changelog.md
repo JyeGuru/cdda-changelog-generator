@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-11-0556 ([7771452](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-0556))
+
 * Tweak mobile weather stations and associated Hub quest dialogue ([#84580](https://github.com/CleverRaven/Cataclysm-DDA/pull/84580))
 * [MoM] Rework Mycus world foliage ([#84620](https://github.com/CleverRaven/Cataclysm-DDA/pull/84620))
 * Use miligrams in bad density test ([#84555](https://github.com/CleverRaven/Cataclysm-DDA/pull/84555))
