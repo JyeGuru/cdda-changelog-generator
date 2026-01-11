@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-01-11-0514 (f251c45)
+* Make reverberation exit points not something player can control (#84590)
+* Update 200 pipes quest with new pipes (#84616)
+
+Cataclysm-DDA experimental build 2026-01-11-0415 (415c6a7)
+* Fix mod FREE_DODGES (#84621)
+
 Cataclysm-DDA experimental build 2026-01-10-2233 (f693a67)
 * [Sky Island] red exit room glow (#84614)
 
@@ -42,7 +49,6 @@ Cataclysm-DDA 0.I release candidate 2026-01-09-0702 (afd526f)
 
 Cataclysm-DDA experimental build 2026-01-09-0701 (2ad4f22)
 * Set xedra_genset noise_factor to 1 (#84566)
-* Crafting GUI filter: by recipe source (book or npc) (#84441)
 * Weekly Changelog 2025-12-29 to 2026-01-05 (#84470)
 * Put back drugs and medical tools in E menu (#84523)
 
@@ -106,11 +112,7 @@ Cataclysm-DDA experimental build 2026-01-07-1156 (6c0a18a)
 * fix magazine variant shown in iteminfo (#84512)
 * Hotwire car if it's still hotwireable (#84457)
 * Benelli M4 as separate shotgun (#84464)
-
-Cataclysm-DDA experimental build 2026-01-07-0556 (331962b)
 * Improve ammo_effects stuff (#84499)
-
-Cataclysm-DDA experimental build 2026-01-07-0012 (c7cc8a0)
 * [alt-map-key] Add cabin reverberation overmap terrain (#84507)
 * "Cabin" reverberation dimension (#84484)
 * [Magiclysm] Move Mage Armor to Magus, rename to Force Armor (#84485)
@@ -131,7 +133,6 @@ Cataclysm-DDA experimental build 2026-01-07-0012 (c7cc8a0)
 * [Magiclysm] Rename Bless to Paragon (#84483)
 * [Magiclysm] Fewer joke scrolls (#84468)
 * [Magiclysm] The great spell categorization (tier 0) (#84460)
-* Migrate wchar_t and wstring to UTF-32 (#84440)
 * Make sandleather autolearned at fab 2 (#84454)
 * [Sky Island/Magiclysm] Island construction for living wood floors (#84469)
 * add "flailers" into radiosphere dimension (#84456)

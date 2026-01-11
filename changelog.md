@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-11-0514 ([f251c45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-0514))
+
+* Make reverberation exit points not something player can control ([#84590](https://github.com/CleverRaven/Cataclysm-DDA/pull/84590))
+* Update 200 pipes quest with new pipes ([#84616](https://github.com/CleverRaven/Cataclysm-DDA/pull/84616))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-11-0415 ([415c6a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-0415))
+
+* Fix mod FREE_DODGES ([#84621](https://github.com/CleverRaven/Cataclysm-DDA/pull/84621))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-10-2233 ([f693a67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-2233))
 
 * [Sky Island] red exit room glow ([#84614](https://github.com/CleverRaven/Cataclysm-DDA/pull/84614))
@@ -81,7 +94,6 @@
 #### Cataclysm-DDA experimental build 2026-01-09-0701 ([2ad4f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-0701))
 
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
-* Crafting GUI filter: by recipe source (book or npc) ([#84441](https://github.com/CleverRaven/Cataclysm-DDA/pull/84441))
 * Weekly Changelog 2025-12-29 to 2026-01-05 ([#84470](https://github.com/CleverRaven/Cataclysm-DDA/pull/84470))
 * Put back drugs and medical tools in E menu ([#84523](https://github.com/CleverRaven/Cataclysm-DDA/pull/84523))
 
@@ -181,17 +193,7 @@
 * fix magazine variant shown in iteminfo ([#84512](https://github.com/CleverRaven/Cataclysm-DDA/pull/84512))
 * Hotwire car if it's still hotwireable ([#84457](https://github.com/CleverRaven/Cataclysm-DDA/pull/84457))
 * Benelli M4 as separate shotgun ([#84464](https://github.com/CleverRaven/Cataclysm-DDA/pull/84464))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-07-0556 ([331962b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-0556))
-
 * Improve ammo_effects stuff ([#84499](https://github.com/CleverRaven/Cataclysm-DDA/pull/84499))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-07-0012 ([c7cc8a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-0012))
-
 * [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
 * "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
 * [Magiclysm] Move Mage Armor to Magus, rename to Force Armor ([#84485](https://github.com/CleverRaven/Cataclysm-DDA/pull/84485))
@@ -212,7 +214,6 @@
 * [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
 * [Magiclysm] Fewer joke scrolls ([#84468](https://github.com/CleverRaven/Cataclysm-DDA/pull/84468))
 * [Magiclysm] The great spell categorization (tier 0) ([#84460](https://github.com/CleverRaven/Cataclysm-DDA/pull/84460))
-* Migrate wchar_t and wstring to UTF-32 ([#84440](https://github.com/CleverRaven/Cataclysm-DDA/pull/84440))
 * Make sandleather autolearned at fab 2 ([#84454](https://github.com/CleverRaven/Cataclysm-DDA/pull/84454))
 * [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
 * add "flailers" into radiosphere dimension ([#84456](https://github.com/CleverRaven/Cataclysm-DDA/pull/84456))
