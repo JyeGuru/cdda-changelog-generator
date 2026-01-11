@@ -1,3 +1,5 @@
+* Tweak mobile weather stations and associated Hub quest dialogue ([#84580](https://github.com/CleverRaven/Cataclysm-DDA/pull/84580))
+* [MoM] Rework Mycus world foliage ([#84620](https://github.com/CleverRaven/Cataclysm-DDA/pull/84620))
 * Use miligrams in bad density test ([#84555](https://github.com/CleverRaven/Cataclysm-DDA/pull/84555))
 * [Magiclysm] Make the Necronomicon a spell book  ([#84504](https://github.com/CleverRaven/Cataclysm-DDA/pull/84504))
 * Improve m27 rifles ([#84612](https://github.com/CleverRaven/Cataclysm-DDA/pull/84612))
@@ -220,7 +222,6 @@
 * [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
 * [Magiclysm] Fewer joke scrolls ([#84468](https://github.com/CleverRaven/Cataclysm-DDA/pull/84468))
 * [Magiclysm] The great spell categorization (tier 0) ([#84460](https://github.com/CleverRaven/Cataclysm-DDA/pull/84460))
-* Make sandleather autolearned at fab 2 ([#84454](https://github.com/CleverRaven/Cataclysm-DDA/pull/84454))
 * [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
 * add "flailers" into radiosphere dimension ([#84456](https://github.com/CleverRaven/Cataclysm-DDA/pull/84456))
 * Stop serializing bad vehicle item_locations ([#84466](https://github.com/CleverRaven/Cataclysm-DDA/pull/84466))
