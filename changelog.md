@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-11-2334 ([51e8253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-2334))
+
+* [Magiclysm] Add restricted and illegal spells to appropriate locations ([#84563](https://github.com/CleverRaven/Cataclysm-DDA/pull/84563))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-11-2042 ([d97bfbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-2042))
 
 * Fix various types of coffee in the same container ([#84554](https://github.com/CleverRaven/Cataclysm-DDA/pull/84554))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-01-08-0336 ([f90094e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0336))
 
 * Fix infinite yarn exploit ([#84521](https://github.com/CleverRaven/Cataclysm-DDA/pull/84521))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-07-1335 ([1758d19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-1335))
-
 * move Cabin reverberation overmap_terrain definitions ([#84516](https://github.com/CleverRaven/Cataclysm-DDA/pull/84516))
 * Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
 * [Magiclysm] The great spell categorization (tier 2) ([#84493](https://github.com/CleverRaven/Cataclysm-DDA/pull/84493))
@@ -206,7 +207,6 @@
 * Chacne to find army clips in on_hand_223 ([#84509](https://github.com/CleverRaven/Cataclysm-DDA/pull/84509))
 * CMake: apply `/bigobj` to `mapgen.cpp` only ([#84511](https://github.com/CleverRaven/Cataclysm-DDA/pull/84511))
 * fix magazine variant shown in iteminfo ([#84512](https://github.com/CleverRaven/Cataclysm-DDA/pull/84512))
-* Hotwire car if it's still hotwireable ([#84457](https://github.com/CleverRaven/Cataclysm-DDA/pull/84457))
 * Benelli M4 as separate shotgun ([#84464](https://github.com/CleverRaven/Cataclysm-DDA/pull/84464))
 * Improve ammo_effects stuff ([#84499](https://github.com/CleverRaven/Cataclysm-DDA/pull/84499))
 * [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
