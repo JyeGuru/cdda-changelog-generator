@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-11-1551 ([25cd649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-1551))
+
+* Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-11-0556 ([7771452](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-0556))
 
 * Tweak mobile weather stations and associated Hub quest dialogue ([#84580](https://github.com/CleverRaven/Cataclysm-DDA/pull/84580))
@@ -193,11 +199,6 @@
 * Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
 * [Magiclysm] The great spell categorization (tier 2) ([#84493](https://github.com/CleverRaven/Cataclysm-DDA/pull/84493))
 * Make concrete deconstruction harder, more consistent, and require the correct tools (including 2 new demolition power tools) ([#84501](https://github.com/CleverRaven/Cataclysm-DDA/pull/84501))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-07-1156 ([6c0a18a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-07-1156))
-
 * Move ACT_HAND_CRANK handler to activity_actor ([#84505](https://github.com/CleverRaven/Cataclysm-DDA/pull/84505))
 * [Magiclysm/XE] Correct obsoletion ([#84494](https://github.com/CleverRaven/Cataclysm-DDA/pull/84494))
 * fix typo in xedra evolved effect ([#84503](https://github.com/CleverRaven/Cataclysm-DDA/pull/84503))
@@ -230,6 +231,5 @@
 * [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
 * add "flailers" into radiosphere dimension ([#84456](https://github.com/CleverRaven/Cataclysm-DDA/pull/84456))
 * Stop serializing bad vehicle item_locations ([#84466](https://github.com/CleverRaven/Cataclysm-DDA/pull/84466))
-* Update warhammer to have quality variants ([#84455](https://github.com/CleverRaven/Cataclysm-DDA/pull/84455))
 * [MoM] Add `dist_matrix_tools` to the various `psi_lab` groups ([#84459](https://github.com/CleverRaven/Cataclysm-DDA/pull/84459))
 * [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
