@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-12-1757 ([d4fb9e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-12-1757))
+
 * [Xedra Evolved] Sidebar updates ([#84649](https://github.com/CleverRaven/Cataclysm-DDA/pull/84649))
 
 ---
@@ -142,7 +147,6 @@
 #### Cataclysm-DDA experimental build 2026-01-09-0701 ([2ad4f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-0701))
 
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
-* Weekly Changelog 2025-12-29 to 2026-01-05 ([#84470](https://github.com/CleverRaven/Cataclysm-DDA/pull/84470))
 * Put back drugs and medical tools in E menu ([#84523](https://github.com/CleverRaven/Cataclysm-DDA/pull/84523))
 
 ---
