@@ -111,11 +111,7 @@ Cataclysm-DDA experimental build 2026-01-08-1423 (e2de0d1)
 * [Sky Island] Assign myself as maintainer of Sky Island (#84552)
 * Ignore weight effects for characters that don't need food (NPCs) (#84542)
 * [MoM] No drunken psi mastery (#84539)
-
-Cataclysm-DDA experimental build 2026-01-08-1238 (a09e479)
 * Update jdk version mentions in docs and workflows (#84549)
-
-Cataclysm-DDA experimental build 2026-01-08-0638 (ba5eaf0)
 * Typo fix (#84508)
 * Bring jackhammer sizes to reality (#84525)
 * Fix infinite yarn exploit (#84521)
