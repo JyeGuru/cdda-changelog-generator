@@ -221,7 +221,6 @@
 * Persist zoom level ([#84475](https://github.com/CleverRaven/Cataclysm-DDA/pull/84475))
 * [Magiclysm] Change Impact Sling components ([#84490](https://github.com/CleverRaven/Cataclysm-DDA/pull/84490))
 * Reset consume menu state when closed ([#84488](https://github.com/CleverRaven/Cataclysm-DDA/pull/84488))
-* Move ACT_STUDY_SPELL handler to activity_actor ([#84467](https://github.com/CleverRaven/Cataclysm-DDA/pull/84467))
 * Add place_monsters entries to mil_base_z-1.json ([#84476](https://github.com/CleverRaven/Cataclysm-DDA/pull/84476))
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components ([#84486](https://github.com/CleverRaven/Cataclysm-DDA/pull/84486))
 * Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
