@@ -1,6 +1,22 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-12-0308 ([0aa01e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-12-0308))
+
+* [Innawood] Add ore to some outcroppings ([#84570](https://github.com/CleverRaven/Cataclysm-DDA/pull/84570))
+* Reduce tx pull concurrency to hopefully mitigate tx api failures ([#84629](https://github.com/CleverRaven/Cataclysm-DDA/pull/84629))
+* Fix butchering activity stopping after first corpse ([#84640](https://github.com/CleverRaven/Cataclysm-DDA/pull/84640))
+* Fix translation progress not showing up ([#84574](https://github.com/CleverRaven/Cataclysm-DDA/pull/84574))
+* Fix language stat location in docs ([#84575](https://github.com/CleverRaven/Cataclysm-DDA/pull/84575))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-12-0204 ([33ef31b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-12-0204))
+
+* Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-11-2334 ([51e8253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-2334))
 
 * [Magiclysm] Add restricted and illegal spells to appropriate locations ([#84563](https://github.com/CleverRaven/Cataclysm-DDA/pull/84563))
@@ -185,17 +201,7 @@
 #### Cataclysm-DDA experimental build 2026-01-08-0638 ([ba5eaf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0638))
 
 * Typo fix ([#84508](https://github.com/CleverRaven/Cataclysm-DDA/pull/84508))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-08-0509 ([2861f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0509))
-
 * Bring jackhammer sizes to reality ([#84525](https://github.com/CleverRaven/Cataclysm-DDA/pull/84525))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-08-0336 ([f90094e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-0336))
-
 * Fix infinite yarn exploit ([#84521](https://github.com/CleverRaven/Cataclysm-DDA/pull/84521))
 * move Cabin reverberation overmap_terrain definitions ([#84516](https://github.com/CleverRaven/Cataclysm-DDA/pull/84516))
 * Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
@@ -207,7 +213,6 @@
 * Chacne to find army clips in on_hand_223 ([#84509](https://github.com/CleverRaven/Cataclysm-DDA/pull/84509))
 * CMake: apply `/bigobj` to `mapgen.cpp` only ([#84511](https://github.com/CleverRaven/Cataclysm-DDA/pull/84511))
 * fix magazine variant shown in iteminfo ([#84512](https://github.com/CleverRaven/Cataclysm-DDA/pull/84512))
-* Benelli M4 as separate shotgun ([#84464](https://github.com/CleverRaven/Cataclysm-DDA/pull/84464))
 * Improve ammo_effects stuff ([#84499](https://github.com/CleverRaven/Cataclysm-DDA/pull/84499))
 * [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
 * "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
@@ -218,7 +223,6 @@
 * Reset consume menu state when closed ([#84488](https://github.com/CleverRaven/Cataclysm-DDA/pull/84488))
 * Move ACT_STUDY_SPELL handler to activity_actor ([#84467](https://github.com/CleverRaven/Cataclysm-DDA/pull/84467))
 * Add place_monsters entries to mil_base_z-1.json ([#84476](https://github.com/CleverRaven/Cataclysm-DDA/pull/84476))
-* Outpost typo fix ([#84463](https://github.com/CleverRaven/Cataclysm-DDA/pull/84463))
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components ([#84486](https://github.com/CleverRaven/Cataclysm-DDA/pull/84486))
 * Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
 * slightly increase PAPR spawns ([#84479](https://github.com/CleverRaven/Cataclysm-DDA/pull/84479))
@@ -228,8 +232,4 @@
 * [Magiclysm] The great spell categorization (tier 1) ([#84482](https://github.com/CleverRaven/Cataclysm-DDA/pull/84482))
 * [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
 * [Magiclysm] Fewer joke scrolls ([#84468](https://github.com/CleverRaven/Cataclysm-DDA/pull/84468))
-* [Magiclysm] The great spell categorization (tier 0) ([#84460](https://github.com/CleverRaven/Cataclysm-DDA/pull/84460))
 * [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
-* Stop serializing bad vehicle item_locations ([#84466](https://github.com/CleverRaven/Cataclysm-DDA/pull/84466))
-* [MoM] Add `dist_matrix_tools` to the various `psi_lab` groups ([#84459](https://github.com/CleverRaven/Cataclysm-DDA/pull/84459))
-* [Sky Island] Remove mission cleanup ([#84458](https://github.com/CleverRaven/Cataclysm-DDA/pull/84458))
