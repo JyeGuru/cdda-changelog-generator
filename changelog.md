@@ -230,5 +230,4 @@
 * [Magiclysm] Rename classless light spell to Orb of Light, make it an effect ([#84487](https://github.com/CleverRaven/Cataclysm-DDA/pull/84487))
 * [Magiclysm] The great spell categorization (tier 1) ([#84482](https://github.com/CleverRaven/Cataclysm-DDA/pull/84482))
 * [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
-* [Magiclysm] Fewer joke scrolls ([#84468](https://github.com/CleverRaven/Cataclysm-DDA/pull/84468))
 * [Sky Island/Magiclysm] Island construction for living wood floors ([#84469](https://github.com/CleverRaven/Cataclysm-DDA/pull/84469))
