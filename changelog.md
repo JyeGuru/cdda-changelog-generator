@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-01-13-0559 ([4e6a22e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-13-0559))
+
+* Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-13-0447 ([58ec53c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-0447))
 
 * Add more safety and sanity checks around zzip loading ([#84658](https://github.com/CleverRaven/Cataclysm-DDA/pull/84658))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2026-01-09-2257 ([2ca4564](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-2257))
 
 * Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-01-09-0702 ([afd526f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-09-0702))
-
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
 
 ---
@@ -221,7 +222,6 @@
 * Reset consume menu state when closed ([#84488](https://github.com/CleverRaven/Cataclysm-DDA/pull/84488))
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components ([#84486](https://github.com/CleverRaven/Cataclysm-DDA/pull/84486))
 * slightly increase PAPR spawns ([#84479](https://github.com/CleverRaven/Cataclysm-DDA/pull/84479))
-* Coffee beans density set lower than tungsten ([#84477](https://github.com/CleverRaven/Cataclysm-DDA/pull/84477))
 * Indoor flagpole wooden ([#84480](https://github.com/CleverRaven/Cataclysm-DDA/pull/84480))
 * [Magiclysm] Rename classless light spell to Orb of Light, make it an effect ([#84487](https://github.com/CleverRaven/Cataclysm-DDA/pull/84487))
 * [Magiclysm] The great spell categorization (tier 1) ([#84482](https://github.com/CleverRaven/Cataclysm-DDA/pull/84482))
