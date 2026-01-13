@@ -1,3 +1,18 @@
+* Add more safety and sanity checks around zzip loading ([#84658](https://github.com/CleverRaven/Cataclysm-DDA/pull/84658))
+* [Xedra Evolved] Increase hedge magick learning time ([#84659](https://github.com/CleverRaven/Cataclysm-DDA/pull/84659))
+* Increase hulk combat ability ([#84661](https://github.com/CleverRaven/Cataclysm-DDA/pull/84661))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-13-0335 ([2d2a9f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-0335))
+
+* Techniqueify `HOOVES` ([#84662](https://github.com/CleverRaven/Cataclysm-DDA/pull/84662))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-13-0013 ([a4072bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-0013))
+
+* Fix segfaulting input_context lifetime issues. ([#84639](https://github.com/CleverRaven/Cataclysm-DDA/pull/84639))
 
 ---
 
@@ -180,17 +195,7 @@
 * Add nail_box_part item group and update references ([#84527](https://github.com/CleverRaven/Cataclysm-DDA/pull/84527))
 * [Magiclysm] Reduce frequency of troll zombie, add start date ([#84529](https://github.com/CleverRaven/Cataclysm-DDA/pull/84529))
 * Properly migrate atomic vehicle lamps ([#84536](https://github.com/CleverRaven/Cataclysm-DDA/pull/84536))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-08-2126 ([24df218](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-2126))
-
 * Remove false warning about automatically generated item groups ([#84544](https://github.com/CleverRaven/Cataclysm-DDA/pull/84544))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-08-1423 ([e2de0d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-1423))
-
 * [Sky Island] Assign myself as maintainer of Sky Island ([#84552](https://github.com/CleverRaven/Cataclysm-DDA/pull/84552))
 * Ignore weight effects for characters that don't need food (NPCs) ([#84542](https://github.com/CleverRaven/Cataclysm-DDA/pull/84542))
 * [MoM] No drunken psi mastery ([#84539](https://github.com/CleverRaven/Cataclysm-DDA/pull/84539))
@@ -212,13 +217,9 @@
 * [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
 * "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
 * [Magiclysm] Move Mage Armor to Magus, rename to Force Armor ([#84485](https://github.com/CleverRaven/Cataclysm-DDA/pull/84485))
-* [Sky Island] Update Scouting Lens 1 recipe for pipe changes ([#84472](https://github.com/CleverRaven/Cataclysm-DDA/pull/84472))
-* Persist zoom level ([#84475](https://github.com/CleverRaven/Cataclysm-DDA/pull/84475))
 * [Magiclysm] Change Impact Sling components ([#84490](https://github.com/CleverRaven/Cataclysm-DDA/pull/84490))
 * Reset consume menu state when closed ([#84488](https://github.com/CleverRaven/Cataclysm-DDA/pull/84488))
-* Add place_monsters entries to mil_base_z-1.json ([#84476](https://github.com/CleverRaven/Cataclysm-DDA/pull/84476))
 * [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components ([#84486](https://github.com/CleverRaven/Cataclysm-DDA/pull/84486))
-* Fix horde map iterator comparison UB ([#84474](https://github.com/CleverRaven/Cataclysm-DDA/pull/84474))
 * slightly increase PAPR spawns ([#84479](https://github.com/CleverRaven/Cataclysm-DDA/pull/84479))
 * Coffee beans density set lower than tungsten ([#84477](https://github.com/CleverRaven/Cataclysm-DDA/pull/84477))
 * Indoor flagpole wooden ([#84480](https://github.com/CleverRaven/Cataclysm-DDA/pull/84480))
