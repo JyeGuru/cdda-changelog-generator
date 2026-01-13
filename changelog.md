@@ -1,3 +1,21 @@
+* [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
+* Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
+* [ Xedra Evolved ] Dreamer Mana Regen ([#84625](https://github.com/CleverRaven/Cataclysm-DDA/pull/84625))
+* [bombastic perks] remove the perk mutation category ([#84628](https://github.com/CleverRaven/Cataclysm-DDA/pull/84628))
+* [Bugfixes] Fixed calculations in the heating ui and func for items counted by charge. ([#84632](https://github.com/CleverRaven/Cataclysm-DDA/pull/84632))
+* Obsolete ACT_ARMOR_LAYERS, move to uistate::open_menu ([#84622](https://github.com/CleverRaven/Cataclysm-DDA/pull/84622))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-13-1243 ([5d5058e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-1243))
+
+* give hub hazardous environment suit an (on) description ([#84648](https://github.com/CleverRaven/Cataclysm-DDA/pull/84648))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-01-13-1240 ([440308e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-13-1240))
+
+* Stop serializing bad vehicle item_locations ([#84651](https://github.com/CleverRaven/Cataclysm-DDA/pull/84651))
 
 ---
 
@@ -169,11 +187,6 @@
 
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
 * Put back drugs and medical tools in E menu ([#84523](https://github.com/CleverRaven/Cataclysm-DDA/pull/84523))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-09-0351 ([12f0232](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-0351))
-
 * Fix the projectile effects ([#84531](https://github.com/CleverRaven/Cataclysm-DDA/pull/84531))
 * Jsonify molotovs, add gelled molotovs, recipes to gel gasoline ([#84533](https://github.com/CleverRaven/Cataclysm-DDA/pull/84533))
 * Move ACT_SPELLCASTING handler to activity_actor ([#84538](https://github.com/CleverRaven/Cataclysm-DDA/pull/84538))
@@ -185,11 +198,6 @@
 * Improve mobile weather stations functions (1/2) ([#84558](https://github.com/CleverRaven/Cataclysm-DDA/pull/84558))
 * laptop hard case ([#84560](https://github.com/CleverRaven/Cataclysm-DDA/pull/84560))
 * [MoM] Fix Fountain of Flames contemplation ([#84561](https://github.com/CleverRaven/Cataclysm-DDA/pull/84561))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-09-0255 ([93dc04e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-0255))
-
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
 * Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
 * [Magiclysm] The great spell categorization (tier 3) ([#84514](https://github.com/CleverRaven/Cataclysm-DDA/pull/84514))
@@ -216,13 +224,5 @@
 * fix magazine variant shown in iteminfo ([#84512](https://github.com/CleverRaven/Cataclysm-DDA/pull/84512))
 * Improve ammo_effects stuff ([#84499](https://github.com/CleverRaven/Cataclysm-DDA/pull/84499))
 * [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
-* "Cabin" reverberation dimension ([#84484](https://github.com/CleverRaven/Cataclysm-DDA/pull/84484))
-* [Magiclysm] Move Mage Armor to Magus, rename to Force Armor ([#84485](https://github.com/CleverRaven/Cataclysm-DDA/pull/84485))
 * [Magiclysm] Change Impact Sling components ([#84490](https://github.com/CleverRaven/Cataclysm-DDA/pull/84490))
 * Reset consume menu state when closed ([#84488](https://github.com/CleverRaven/Cataclysm-DDA/pull/84488))
-* [Magiclysm] Rename Technomancer spell Lamp to Enchanted Lamp, require components ([#84486](https://github.com/CleverRaven/Cataclysm-DDA/pull/84486))
-* slightly increase PAPR spawns ([#84479](https://github.com/CleverRaven/Cataclysm-DDA/pull/84479))
-* Indoor flagpole wooden ([#84480](https://github.com/CleverRaven/Cataclysm-DDA/pull/84480))
-* [Magiclysm] Rename classless light spell to Orb of Light, make it an effect ([#84487](https://github.com/CleverRaven/Cataclysm-DDA/pull/84487))
-* [Magiclysm] The great spell categorization (tier 1) ([#84482](https://github.com/CleverRaven/Cataclysm-DDA/pull/84482))
-* [Magiclysm] Rename Bless to Paragon ([#84483](https://github.com/CleverRaven/Cataclysm-DDA/pull/84483))
