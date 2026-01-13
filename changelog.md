@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-13-0447 ([58ec53c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-0447))
+
 * Add more safety and sanity checks around zzip loading ([#84658](https://github.com/CleverRaven/Cataclysm-DDA/pull/84658))
 * [Xedra Evolved] Increase hedge magick learning time ([#84659](https://github.com/CleverRaven/Cataclysm-DDA/pull/84659))
 * Increase hulk combat ability ([#84661](https://github.com/CleverRaven/Cataclysm-DDA/pull/84661))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-01-09-0255 ([93dc04e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-0255))
 
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-08-2234 ([5744141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-08-2234))
-
 * Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
 * [Magiclysm] The great spell categorization (tier 3) ([#84514](https://github.com/CleverRaven/Cataclysm-DDA/pull/84514))
 * Add nail_box_part item group and update references ([#84527](https://github.com/CleverRaven/Cataclysm-DDA/pull/84527))
