@@ -1,6 +1,22 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-14-1325 ([e17c017](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1325))
+
+* inland container depot location ([#84641](https://github.com/CleverRaven/Cataclysm-DDA/pull/84641))
+* If ‘force‘ is set for EOC u_teleport, skip collision test for vehicle ([#84634](https://github.com/CleverRaven/Cataclysm-DDA/pull/84634))
+* Switch toe talons to using techniques  ([#84672](https://github.com/CleverRaven/Cataclysm-DDA/pull/84672))
+* Add Debug No Encumbrance mutation ([#84675](https://github.com/CleverRaven/Cataclysm-DDA/pull/84675))
+* deconstruct t_reinforced_glass_lab ([#84665](https://github.com/CleverRaven/Cataclysm-DDA/pull/84665))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-14-1235 ([2855995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1235))
+
+* You can dive underwater in oceans ([#84683](https://github.com/CleverRaven/Cataclysm-DDA/pull/84683))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-14-0556 ([54101d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-0556))
 
 * Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
@@ -108,7 +124,6 @@
 * Tweak mobile weather stations and associated Hub quest dialogue ([#84580](https://github.com/CleverRaven/Cataclysm-DDA/pull/84580))
 * [MoM] Rework Mycus world foliage ([#84620](https://github.com/CleverRaven/Cataclysm-DDA/pull/84620))
 * Use miligrams in bad density test ([#84555](https://github.com/CleverRaven/Cataclysm-DDA/pull/84555))
-* [Magiclysm] Make the Necronomicon a spell book  ([#84504](https://github.com/CleverRaven/Cataclysm-DDA/pull/84504))
 * Improve m27 rifles ([#84612](https://github.com/CleverRaven/Cataclysm-DDA/pull/84612))
 * Powered air purifying respirator blows make noise (reprise) ([#84615](https://github.com/CleverRaven/Cataclysm-DDA/pull/84615))
 * Fix magazine iteminfo ([#84613](https://github.com/CleverRaven/Cataclysm-DDA/pull/84613))
@@ -176,17 +191,7 @@
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
 * Correct gold bracelet encumbrance/coverage ([#84583](https://github.com/CleverRaven/Cataclysm-DDA/pull/84583))
 * [Magiclysm] More itemgroup reworks for school itemgroups ([#84537](https://github.com/CleverRaven/Cataclysm-DDA/pull/84537))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-10-0750 ([e2b468a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-0750))
-
 * [MoM] Add Oxygen Absorption end message ([#84592](https://github.com/CleverRaven/Cataclysm-DDA/pull/84592))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-10-0010 ([0cb0956](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-0010))
-
 * Replace Weakening with ROT1 ([#84591](https://github.com/CleverRaven/Cataclysm-DDA/pull/84591))
 * Update usb_drive entries with contents-item ([#84586](https://github.com/CleverRaven/Cataclysm-DDA/pull/84586))
 * [DDotD] Raise base pressure ([#84565](https://github.com/CleverRaven/Cataclysm-DDA/pull/84565))
@@ -217,16 +222,10 @@
 * Ignore weight effects for characters that don't need food (NPCs) ([#84542](https://github.com/CleverRaven/Cataclysm-DDA/pull/84542))
 * [MoM] No drunken psi mastery ([#84539](https://github.com/CleverRaven/Cataclysm-DDA/pull/84539))
 * Update jdk version mentions in docs and workflows ([#84549](https://github.com/CleverRaven/Cataclysm-DDA/pull/84549))
-* Typo fix ([#84508](https://github.com/CleverRaven/Cataclysm-DDA/pull/84508))
 * Bring jackhammer sizes to reality ([#84525](https://github.com/CleverRaven/Cataclysm-DDA/pull/84525))
 * Fix infinite yarn exploit ([#84521](https://github.com/CleverRaven/Cataclysm-DDA/pull/84521))
 * move Cabin reverberation overmap_terrain definitions ([#84516](https://github.com/CleverRaven/Cataclysm-DDA/pull/84516))
 * Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
-* Make concrete deconstruction harder, more consistent, and require the correct tools (including 2 new demolition power tools) ([#84501](https://github.com/CleverRaven/Cataclysm-DDA/pull/84501))
-* Move ACT_HAND_CRANK handler to activity_actor ([#84505](https://github.com/CleverRaven/Cataclysm-DDA/pull/84505))
-* fix typo in xedra evolved effect ([#84503](https://github.com/CleverRaven/Cataclysm-DDA/pull/84503))
 * Chacne to find army clips in on_hand_223 ([#84509](https://github.com/CleverRaven/Cataclysm-DDA/pull/84509))
 * CMake: apply `/bigobj` to `mapgen.cpp` only ([#84511](https://github.com/CleverRaven/Cataclysm-DDA/pull/84511))
 * fix magazine variant shown in iteminfo ([#84512](https://github.com/CleverRaven/Cataclysm-DDA/pull/84512))
-* Improve ammo_effects stuff ([#84499](https://github.com/CleverRaven/Cataclysm-DDA/pull/84499))
-* [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
