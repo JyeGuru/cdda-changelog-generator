@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-14-0457 (a5f2d5b)
+* [Xedra Evolved] Add Sefer Raziel HaMalakh as a hedge magic book (#84594)
+
 Cataclysm-DDA experimental build 2026-01-13-1438 (e8b486f)
 * [alt-map-key] Add new overmap tiles to mod (#84667)
 * Feral preppers aren't filling their backpacks with cough syrup (#84670)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2026-01-10-0010 (0cb0956)
 Cataclysm-DDA experimental build 2026-01-09-2257 (2ca4564)
 * Fix my mac build (#84562)
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 (#84567)
-
-Cataclysm-DDA experimental build 2026-01-09-0701 (2ad4f22)
 * Set xedra_genset noise_factor to 1 (#84566)
 * Put back drugs and medical tools in E menu (#84523)
 * Fix the projectile effects (#84531)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-01-09-0701 (2ad4f22)
 * Improve ammo_effects stuff (#84499)
 * [alt-map-key] Add cabin reverberation overmap terrain (#84507)
 * [Magiclysm] Change Impact Sling components (#84490)
-* Reset consume menu state when closed (#84488)
