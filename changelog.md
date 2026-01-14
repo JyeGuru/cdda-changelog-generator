@@ -1,6 +1,17 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-14-2046 ([03f21d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-2046))
+
+* [Magiclysm] Add Technomancer spell Arete ([#84584](https://github.com/CleverRaven/Cataclysm-DDA/pull/84584))
+* Supermarket memory cards are empty and known to be empty ([#84617](https://github.com/CleverRaven/Cataclysm-DDA/pull/84617))
+* Aftershock: Faction Cleanup ([#84643](https://github.com/CleverRaven/Cataclysm-DDA/pull/84643))
+* When completing Sky_Island missions with Innawood installed, gives bonus experience for Bombasticperks, Sorcerer, Perk-Melee, and Xedra_Evolved ([#84655](https://github.com/CleverRaven/Cataclysm-DDA/pull/84655))
+* Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
+* More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-14-1911 ([679b850](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1911))
 
 * Add pressure cooker in house. ([#84609](https://github.com/CleverRaven/Cataclysm-DDA/pull/84609))
@@ -178,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-01-10-1541 ([e8bd751](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1541))
 
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-10-1349 ([75aa304](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1349))
-
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
 * making instant coffee is easy! ([#84540](https://github.com/CleverRaven/Cataclysm-DDA/pull/84540))
 * fix crossing bridges in autodrive mode ([#84568](https://github.com/CleverRaven/Cataclysm-DDA/pull/84568))
@@ -197,7 +203,6 @@
 * Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
-* Put back drugs and medical tools in E menu ([#84523](https://github.com/CleverRaven/Cataclysm-DDA/pull/84523))
 * Fix the projectile effects ([#84531](https://github.com/CleverRaven/Cataclysm-DDA/pull/84531))
 * Jsonify molotovs, add gelled molotovs, recipes to gel gasoline ([#84533](https://github.com/CleverRaven/Cataclysm-DDA/pull/84533))
 * Move ACT_SPELLCASTING handler to activity_actor ([#84538](https://github.com/CleverRaven/Cataclysm-DDA/pull/84538))
@@ -211,7 +216,6 @@
 * [MoM] Fix Fountain of Flames contemplation ([#84561](https://github.com/CleverRaven/Cataclysm-DDA/pull/84561))
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
 * Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
-* [Magiclysm] The great spell categorization (tier 3) ([#84514](https://github.com/CleverRaven/Cataclysm-DDA/pull/84514))
 * Add nail_box_part item group and update references ([#84527](https://github.com/CleverRaven/Cataclysm-DDA/pull/84527))
 * [Magiclysm] Reduce frequency of troll zombie, add start date ([#84529](https://github.com/CleverRaven/Cataclysm-DDA/pull/84529))
 * Properly migrate atomic vehicle lamps ([#84536](https://github.com/CleverRaven/Cataclysm-DDA/pull/84536))
@@ -221,6 +225,3 @@
 * [MoM] No drunken psi mastery ([#84539](https://github.com/CleverRaven/Cataclysm-DDA/pull/84539))
 * Update jdk version mentions in docs and workflows ([#84549](https://github.com/CleverRaven/Cataclysm-DDA/pull/84549))
 * Bring jackhammer sizes to reality ([#84525](https://github.com/CleverRaven/Cataclysm-DDA/pull/84525))
-* Fix infinite yarn exploit ([#84521](https://github.com/CleverRaven/Cataclysm-DDA/pull/84521))
-* move Cabin reverberation overmap_terrain definitions ([#84516](https://github.com/CleverRaven/Cataclysm-DDA/pull/84516))
-* Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
