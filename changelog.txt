@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-01-14-1911 (679b850)
+* Add pressure cooker in house. (#84609)
+* Rework the Weaver fight (#84532)
+
+Cataclysm-DDA experimental build 2026-01-14-1820 (d8010b5)
+* Reduce micromanagement of metamagic perks (#84601)
+
 Cataclysm-DDA experimental build 2026-01-14-1325 (e17c017)
 * inland container depot location (#84641)
 * If ‘force‘ is set for EOC u_teleport, skip collision test for vehicle (#84634)
@@ -99,11 +106,7 @@ Cataclysm-DDA experimental build 2026-01-10-1349 (75aa304)
 
 Cataclysm-DDA experimental build 2026-01-10-1045 (2b21103)
 * making instant coffee is easy! (#84540)
-
-Cataclysm-DDA experimental build 2026-01-10-1000 (6743f03)
 * fix crossing bridges in autodrive mode (#84568)
-
-Cataclysm-DDA experimental build 2026-01-10-0832 (fa40cd0)
 * Move ACT_SOCIALIZE to activity_actor (#84598)
 * Correct gold bracelet encumbrance/coverage (#84583)
 * [Magiclysm] More itemgroup reworks for school itemgroups (#84537)
@@ -142,6 +145,3 @@ Cataclysm-DDA experimental build 2026-01-10-0832 (fa40cd0)
 * Fix infinite yarn exploit (#84521)
 * move Cabin reverberation overmap_terrain definitions (#84516)
 * Supermarkets suppliers package their products (#84518)
-* Chacne to find army clips in on_hand_223 (#84509)
-* CMake: apply `/bigobj` to `mapgen.cpp` only (#84511)
-* fix magazine variant shown in iteminfo (#84512)

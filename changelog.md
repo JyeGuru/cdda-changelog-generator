@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-14-1911 ([679b850](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1911))
+
+* Add pressure cooker in house. ([#84609](https://github.com/CleverRaven/Cataclysm-DDA/pull/84609))
+* Rework the Weaver fight ([#84532](https://github.com/CleverRaven/Cataclysm-DDA/pull/84532))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-14-1820 ([d8010b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1820))
+
+* Reduce micromanagement of metamagic perks ([#84601](https://github.com/CleverRaven/Cataclysm-DDA/pull/84601))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-14-1325 ([e17c017](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1325))
 
 * inland container depot location ([#84641](https://github.com/CleverRaven/Cataclysm-DDA/pull/84641))
@@ -177,17 +190,7 @@
 #### Cataclysm-DDA experimental build 2026-01-10-1045 ([2b21103](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1045))
 
 * making instant coffee is easy! ([#84540](https://github.com/CleverRaven/Cataclysm-DDA/pull/84540))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-10-1000 ([6743f03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1000))
-
 * fix crossing bridges in autodrive mode ([#84568](https://github.com/CleverRaven/Cataclysm-DDA/pull/84568))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-10-0832 ([fa40cd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-0832))
-
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
 * Correct gold bracelet encumbrance/coverage ([#84583](https://github.com/CleverRaven/Cataclysm-DDA/pull/84583))
 * [Magiclysm] More itemgroup reworks for school itemgroups ([#84537](https://github.com/CleverRaven/Cataclysm-DDA/pull/84537))
@@ -226,6 +229,3 @@
 * Fix infinite yarn exploit ([#84521](https://github.com/CleverRaven/Cataclysm-DDA/pull/84521))
 * move Cabin reverberation overmap_terrain definitions ([#84516](https://github.com/CleverRaven/Cataclysm-DDA/pull/84516))
 * Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
-* Chacne to find army clips in on_hand_223 ([#84509](https://github.com/CleverRaven/Cataclysm-DDA/pull/84509))
-* CMake: apply `/bigobj` to `mapgen.cpp` only ([#84511](https://github.com/CleverRaven/Cataclysm-DDA/pull/84511))
-* fix magazine variant shown in iteminfo ([#84512](https://github.com/CleverRaven/Cataclysm-DDA/pull/84512))
