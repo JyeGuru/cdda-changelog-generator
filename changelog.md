@@ -184,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-01-10-1349 ([75aa304](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1349))
 
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-10-1045 ([2b21103](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-1045))
-
 * making instant coffee is easy! ([#84540](https://github.com/CleverRaven/Cataclysm-DDA/pull/84540))
 * fix crossing bridges in autodrive mode ([#84568](https://github.com/CleverRaven/Cataclysm-DDA/pull/84568))
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
