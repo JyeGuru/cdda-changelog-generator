@@ -224,7 +224,6 @@
 * Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
 * Make concrete deconstruction harder, more consistent, and require the correct tools (including 2 new demolition power tools) ([#84501](https://github.com/CleverRaven/Cataclysm-DDA/pull/84501))
 * Move ACT_HAND_CRANK handler to activity_actor ([#84505](https://github.com/CleverRaven/Cataclysm-DDA/pull/84505))
-* [Magiclysm/XE] Correct obsoletion ([#84494](https://github.com/CleverRaven/Cataclysm-DDA/pull/84494))
 * fix typo in xedra evolved effect ([#84503](https://github.com/CleverRaven/Cataclysm-DDA/pull/84503))
 * Chacne to find army clips in on_hand_223 ([#84509](https://github.com/CleverRaven/Cataclysm-DDA/pull/84509))
 * CMake: apply `/bigobj` to `mapgen.cpp` only ([#84511](https://github.com/CleverRaven/Cataclysm-DDA/pull/84511))
