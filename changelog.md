@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-14-0556 ([54101d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-0556))
+
+* Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
+* Remove scrap metal from ig_vp_device ([#84642](https://github.com/CleverRaven/Cataclysm-DDA/pull/84642))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-14-0457 ([a5f2d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-0457))
 
 * [Xedra Evolved] Add Sefer Raziel HaMalakh as a hedge magic book ([#84594](https://github.com/CleverRaven/Cataclysm-DDA/pull/84594))
@@ -184,11 +191,6 @@
 * Update usb_drive entries with contents-item ([#84586](https://github.com/CleverRaven/Cataclysm-DDA/pull/84586))
 * [DDotD] Raise base pressure ([#84565](https://github.com/CleverRaven/Cataclysm-DDA/pull/84565))
 * [MoM] Change the Clairsentient power Combat Sense to use FREE_DODGES ([#84593](https://github.com/CleverRaven/Cataclysm-DDA/pull/84593))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-09-2257 ([2ca4564](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-09-2257))
-
 * Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
@@ -220,7 +222,6 @@
 * Fix infinite yarn exploit ([#84521](https://github.com/CleverRaven/Cataclysm-DDA/pull/84521))
 * move Cabin reverberation overmap_terrain definitions ([#84516](https://github.com/CleverRaven/Cataclysm-DDA/pull/84516))
 * Supermarkets suppliers package their products ([#84518](https://github.com/CleverRaven/Cataclysm-DDA/pull/84518))
-* [Magiclysm] The great spell categorization (tier 2) ([#84493](https://github.com/CleverRaven/Cataclysm-DDA/pull/84493))
 * Make concrete deconstruction harder, more consistent, and require the correct tools (including 2 new demolition power tools) ([#84501](https://github.com/CleverRaven/Cataclysm-DDA/pull/84501))
 * Move ACT_HAND_CRANK handler to activity_actor ([#84505](https://github.com/CleverRaven/Cataclysm-DDA/pull/84505))
 * [Magiclysm/XE] Correct obsoletion ([#84494](https://github.com/CleverRaven/Cataclysm-DDA/pull/84494))
@@ -230,4 +231,3 @@
 * fix magazine variant shown in iteminfo ([#84512](https://github.com/CleverRaven/Cataclysm-DDA/pull/84512))
 * Improve ammo_effects stuff ([#84499](https://github.com/CleverRaven/Cataclysm-DDA/pull/84499))
 * [alt-map-key] Add cabin reverberation overmap terrain ([#84507](https://github.com/CleverRaven/Cataclysm-DDA/pull/84507))
-* [Magiclysm] Change Impact Sling components ([#84490](https://github.com/CleverRaven/Cataclysm-DDA/pull/84490))
