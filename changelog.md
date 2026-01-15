@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-15-1934 ([40a1fd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1934))
+
+* [Aftershock] Add esper enkindling tinctures ([#84646](https://github.com/CleverRaven/Cataclysm-DDA/pull/84646))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-15-1831 ([7598e9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1831))
+
+* Fix crash from recursive debugmsg invocation from invalid format in firing code ([#84691](https://github.com/CleverRaven/Cataclysm-DDA/pull/84691))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-15-1108 ([6679396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1108))
 
 * Freeze water into ice in winter. (1/?) ([#84654](https://github.com/CleverRaven/Cataclysm-DDA/pull/84654))
@@ -163,17 +175,7 @@
 #### Cataclysm-DDA experimental build 2026-01-11-2042 ([d97bfbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-2042))
 
 * Fix various types of coffee in the same container ([#84554](https://github.com/CleverRaven/Cataclysm-DDA/pull/84554))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-11-1551 ([25cd649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-1551))
-
 * Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-11-0556 ([7771452](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-0556))
-
 * Tweak mobile weather stations and associated Hub quest dialogue ([#84580](https://github.com/CleverRaven/Cataclysm-DDA/pull/84580))
 * [MoM] Rework Mycus world foliage ([#84620](https://github.com/CleverRaven/Cataclysm-DDA/pull/84620))
 * Use miligrams in bad density test ([#84555](https://github.com/CleverRaven/Cataclysm-DDA/pull/84555))
@@ -181,11 +183,6 @@
 * Powered air purifying respirator blows make noise (reprise) ([#84615](https://github.com/CleverRaven/Cataclysm-DDA/pull/84615))
 * Fix magazine iteminfo ([#84613](https://github.com/CleverRaven/Cataclysm-DDA/pull/84613))
 * [MoM] Add Rainywood Oubliette dimension ([#84623](https://github.com/CleverRaven/Cataclysm-DDA/pull/84623))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-11-0514 ([f251c45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-0514))
-
 * Make reverberation exit points not something player can control ([#84590](https://github.com/CleverRaven/Cataclysm-DDA/pull/84590))
 * Update 200 pipes quest with new pipes ([#84616](https://github.com/CleverRaven/Cataclysm-DDA/pull/84616))
 * Fix mod FREE_DODGES ([#84621](https://github.com/CleverRaven/Cataclysm-DDA/pull/84621))
@@ -207,7 +204,6 @@
 * Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
-* Jsonify molotovs, add gelled molotovs, recipes to gel gasoline ([#84533](https://github.com/CleverRaven/Cataclysm-DDA/pull/84533))
 * Move ACT_SPELLCASTING handler to activity_actor ([#84538](https://github.com/CleverRaven/Cataclysm-DDA/pull/84538))
 * Check validity of NPC enums during loading ([#84545](https://github.com/CleverRaven/Cataclysm-DDA/pull/84545))
 * Add PLOWABLE flag to forest floor to allow it to be constructed into a shallow pit ([#84548](https://github.com/CleverRaven/Cataclysm-DDA/pull/84548))
@@ -218,7 +214,6 @@
 * laptop hard case ([#84560](https://github.com/CleverRaven/Cataclysm-DDA/pull/84560))
 * [MoM] Fix Fountain of Flames contemplation ([#84561](https://github.com/CleverRaven/Cataclysm-DDA/pull/84561))
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
-* Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
 * Properly migrate atomic vehicle lamps ([#84536](https://github.com/CleverRaven/Cataclysm-DDA/pull/84536))
 * Remove false warning about automatically generated item groups ([#84544](https://github.com/CleverRaven/Cataclysm-DDA/pull/84544))
 * [Sky Island] Assign myself as maintainer of Sky Island ([#84552](https://github.com/CleverRaven/Cataclysm-DDA/pull/84552))

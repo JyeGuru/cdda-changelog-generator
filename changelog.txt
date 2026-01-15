@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-01-15-1934 (40a1fd4)
+* [Aftershock] Add esper enkindling tinctures (#84646)
+
+Cataclysm-DDA experimental build 2026-01-15-1831 (7598e9d)
+* Fix crash from recursive debugmsg invocation from invalid format in firing code (#84691)
+
 Cataclysm-DDA experimental build 2026-01-15-1108 (6679396)
 * Freeze water into ice in winter. (1/?) (#84654)
 
@@ -91,11 +97,7 @@ Cataclysm-DDA experimental build 2026-01-11-2334 (51e8253)
 
 Cataclysm-DDA experimental build 2026-01-11-2042 (d97bfbd)
 * Fix various types of coffee in the same container (#84554)
-
-Cataclysm-DDA experimental build 2026-01-11-1551 (25cd649)
 * Add a duration to Earthshaper's Clairvoyance spell (#84624)
-
-Cataclysm-DDA experimental build 2026-01-11-0556 (7771452)
 * Tweak mobile weather stations and associated Hub quest dialogue (#84580)
 * [MoM] Rework Mycus world foliage (#84620)
 * Use miligrams in bad density test (#84555)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2026-01-11-0556 (7771452)
 * Powered air purifying respirator blows make noise (reprise) (#84615)
 * Fix magazine iteminfo (#84613)
 * [MoM] Add Rainywood Oubliette dimension (#84623)
-
-Cataclysm-DDA experimental build 2026-01-11-0514 (f251c45)
 * Make reverberation exit points not something player can control (#84590)
 * Update 200 pipes quest with new pipes (#84616)
 * Fix mod FREE_DODGES (#84621)
@@ -126,7 +126,6 @@ Cataclysm-DDA experimental build 2026-01-11-0514 (f251c45)
 * Fix my mac build (#84562)
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 (#84567)
 * Set xedra_genset noise_factor to 1 (#84566)
-* Jsonify molotovs, add gelled molotovs, recipes to gel gasoline (#84533)
 * Move ACT_SPELLCASTING handler to activity_actor (#84538)
 * Check validity of NPC enums during loading (#84545)
 * Add PLOWABLE flag to forest floor to allow it to be constructed into a shallow pit (#84548)
@@ -137,7 +136,6 @@ Cataclysm-DDA experimental build 2026-01-11-0514 (f251c45)
 * laptop hard case (#84560)
 * [MoM] Fix Fountain of Flames contemplation (#84561)
 * Edit Dementia description, add it to XE Nether cabin (#84559)
-* Military ponchos & woobies (#84534)
 * Properly migrate atomic vehicle lamps (#84536)
 * Remove false warning about automatically generated item groups (#84544)
 * [Sky Island] Assign myself as maintainer of Sky Island (#84552)
