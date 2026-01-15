@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-15-0545 (f01879d)
+* [Xedra Evolved] Fix Dreamer regen (#84690)
+
 Cataclysm-DDA experimental build 2026-01-15-0448 (63aa01a)
 * Improve apis npc (#84644)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2026-01-11-0415 (415c6a7)
 
 Cataclysm-DDA experimental build 2026-01-10-2233 (f693a67)
 * [Sky Island] red exit room glow (#84614)
-
-Cataclysm-DDA experimental build 2026-01-10-2141 (36715c5)
 * Generate more flour and rice in the game. (#84579)
 * Add anomalous mp3 player for reverberation finding and entering (#84551)
 * expose sound_type for `sound` use action (#84607)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2026-01-10-2141 (36715c5)
 * [MoM] Fix Fountain of Flames contemplation (#84561)
 * Edit Dementia description, add it to XE Nether cabin (#84559)
 * Military ponchos & woobies (#84534)
-* [Magiclysm] Reduce frequency of troll zombie, add start date (#84529)
 * Properly migrate atomic vehicle lamps (#84536)
 * Remove false warning about automatically generated item groups (#84544)
 * [Sky Island] Assign myself as maintainer of Sky Island (#84552)

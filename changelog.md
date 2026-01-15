@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-15-0545 ([f01879d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0545))
+
+* [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-15-0448 ([63aa01a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0448))
 
 * Improve apis npc ([#84644](https://github.com/CleverRaven/Cataclysm-DDA/pull/84644))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-01-10-2233 ([f693a67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-2233))
 
 * [Sky Island] red exit room glow ([#84614](https://github.com/CleverRaven/Cataclysm-DDA/pull/84614))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-10-2141 ([36715c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-2141))
-
 * Generate more flour and rice in the game. ([#84579](https://github.com/CleverRaven/Cataclysm-DDA/pull/84579))
 * Add anomalous mp3 player for reverberation finding and entering ([#84551](https://github.com/CleverRaven/Cataclysm-DDA/pull/84551))
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
@@ -218,7 +219,6 @@
 * [MoM] Fix Fountain of Flames contemplation ([#84561](https://github.com/CleverRaven/Cataclysm-DDA/pull/84561))
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
 * Military ponchos & woobies ([#84534](https://github.com/CleverRaven/Cataclysm-DDA/pull/84534))
-* [Magiclysm] Reduce frequency of troll zombie, add start date ([#84529](https://github.com/CleverRaven/Cataclysm-DDA/pull/84529))
 * Properly migrate atomic vehicle lamps ([#84536](https://github.com/CleverRaven/Cataclysm-DDA/pull/84536))
 * Remove false warning about automatically generated item groups ([#84544](https://github.com/CleverRaven/Cataclysm-DDA/pull/84544))
 * [Sky Island] Assign myself as maintainer of Sky Island ([#84552](https://github.com/CleverRaven/Cataclysm-DDA/pull/84552))
