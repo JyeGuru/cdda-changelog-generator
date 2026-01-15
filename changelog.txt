@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-15-1108 (6679396)
 * Freeze water into ice in winter. (1/?) (#84654)
 
 Cataclysm-DDA experimental build 2026-01-15-0958 (9e3fc4a)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2026-01-11-0556 (7771452)
 Cataclysm-DDA experimental build 2026-01-11-0514 (f251c45)
 * Make reverberation exit points not something player can control (#84590)
 * Update 200 pipes quest with new pipes (#84616)
-
-Cataclysm-DDA experimental build 2026-01-11-0415 (415c6a7)
 * Fix mod FREE_DODGES (#84621)
 * [Sky Island] red exit room glow (#84614)
 * Generate more flour and rice in the game. (#84579)
