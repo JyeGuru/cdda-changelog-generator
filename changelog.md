@@ -1,3 +1,10 @@
+* Freeze water into ice in winter. (1/?) ([#84654](https://github.com/CleverRaven/Cataclysm-DDA/pull/84654))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-15-0958 ([9e3fc4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0958))
+
+* Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 
 ---
 
@@ -33,7 +40,6 @@
 #### Cataclysm-DDA experimental build 2026-01-14-1911 ([679b850](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1911))
 
 * Add pressure cooker in house. ([#84609](https://github.com/CleverRaven/Cataclysm-DDA/pull/84609))
-* Rework the Weaver fight ([#84532](https://github.com/CleverRaven/Cataclysm-DDA/pull/84532))
 
 ---
 
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-01-11-0415 ([415c6a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-0415))
 
 * Fix mod FREE_DODGES ([#84621](https://github.com/CleverRaven/Cataclysm-DDA/pull/84621))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-10-2233 ([f693a67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-10-2233))
-
 * [Sky Island] red exit room glow ([#84614](https://github.com/CleverRaven/Cataclysm-DDA/pull/84614))
 * Generate more flour and rice in the game. ([#84579](https://github.com/CleverRaven/Cataclysm-DDA/pull/84579))
 * Add anomalous mp3 player for reverberation finding and entering ([#84551](https://github.com/CleverRaven/Cataclysm-DDA/pull/84551))
@@ -206,7 +207,6 @@
 * Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
-* Fix the projectile effects ([#84531](https://github.com/CleverRaven/Cataclysm-DDA/pull/84531))
 * Jsonify molotovs, add gelled molotovs, recipes to gel gasoline ([#84533](https://github.com/CleverRaven/Cataclysm-DDA/pull/84533))
 * Move ACT_SPELLCASTING handler to activity_actor ([#84538](https://github.com/CleverRaven/Cataclysm-DDA/pull/84538))
 * Check validity of NPC enums during loading ([#84545](https://github.com/CleverRaven/Cataclysm-DDA/pull/84545))
