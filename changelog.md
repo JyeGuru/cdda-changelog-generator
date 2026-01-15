@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-15-2048 ([3a8d08a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-2048))
+
+* [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-15-1934 ([40a1fd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1934))
 
 * [Aftershock] Add esper enkindling tinctures ([#84646](https://github.com/CleverRaven/Cataclysm-DDA/pull/84646))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-01-11-2334 ([51e8253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-2334))
 
 * [Magiclysm] Add restricted and illegal spells to appropriate locations ([#84563](https://github.com/CleverRaven/Cataclysm-DDA/pull/84563))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-11-2042 ([d97bfbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-11-2042))
-
 * Fix various types of coffee in the same container ([#84554](https://github.com/CleverRaven/Cataclysm-DDA/pull/84554))
 * Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
 * Tweak mobile weather stations and associated Hub quest dialogue ([#84580](https://github.com/CleverRaven/Cataclysm-DDA/pull/84580))
@@ -214,7 +215,6 @@
 * laptop hard case ([#84560](https://github.com/CleverRaven/Cataclysm-DDA/pull/84560))
 * [MoM] Fix Fountain of Flames contemplation ([#84561](https://github.com/CleverRaven/Cataclysm-DDA/pull/84561))
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
-* Properly migrate atomic vehicle lamps ([#84536](https://github.com/CleverRaven/Cataclysm-DDA/pull/84536))
 * Remove false warning about automatically generated item groups ([#84544](https://github.com/CleverRaven/Cataclysm-DDA/pull/84544))
 * [Sky Island] Assign myself as maintainer of Sky Island ([#84552](https://github.com/CleverRaven/Cataclysm-DDA/pull/84552))
 * Ignore weight effects for characters that don't need food (NPCs) ([#84542](https://github.com/CleverRaven/Cataclysm-DDA/pull/84542))
