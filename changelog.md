@@ -215,7 +215,6 @@
 * Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
-* Check validity of NPC enums during loading ([#84545](https://github.com/CleverRaven/Cataclysm-DDA/pull/84545))
 * Add PLOWABLE flag to forest floor to allow it to be constructed into a shallow pit ([#84548](https://github.com/CleverRaven/Cataclysm-DDA/pull/84548))
 * Fix map editor errors on empty list ([#84550](https://github.com/CleverRaven/Cataclysm-DDA/pull/84550))
 * Cereal Audit ([#84553](https://github.com/CleverRaven/Cataclysm-DDA/pull/84553))
