@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-16-1459 ([870fc68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-1459))
+
 * [Magiclysm] Fix Giant Growth spam ([#84721](https://github.com/CleverRaven/Cataclysm-DDA/pull/84721))
 * Fix behavior when many dialogue options are present. (ncurses only issue) ([#84713](https://github.com/CleverRaven/Cataclysm-DDA/pull/84713))
 * [Bugfixes] Close item info's command bar after sub-interface open ([#84734](https://github.com/CleverRaven/Cataclysm-DDA/pull/84734))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-01-13-0013 ([a4072bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-0013))
 
 * Fix segfaulting input_context lifetime issues. ([#84639](https://github.com/CleverRaven/Cataclysm-DDA/pull/84639))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-12-1757 ([d4fb9e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-12-1757))
-
 * [Xedra Evolved] Sidebar updates ([#84649](https://github.com/CleverRaven/Cataclysm-DDA/pull/84649))
 * [Innawood] Add ore to some outcroppings ([#84570](https://github.com/CleverRaven/Cataclysm-DDA/pull/84570))
 * Reduce tx pull concurrency to hopefully mitigate tx api failures ([#84629](https://github.com/CleverRaven/Cataclysm-DDA/pull/84629))
