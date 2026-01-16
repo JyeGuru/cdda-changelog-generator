@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-16-0347 ([119faae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0347))
+
+* add `instant_death_chance` for weakpoints ([#84687](https://github.com/CleverRaven/Cataclysm-DDA/pull/84687))
+* [MoM] Add guaranteed Osiris chambers to skyscraper lab ([#84716](https://github.com/CleverRaven/Cataclysm-DDA/pull/84716))
+* Validate spell ids in learn_spell use_action ([#84712](https://github.com/CleverRaven/Cataclysm-DDA/pull/84712))
+* Fix x-ray vision of NPC underwear ([#84703](https://github.com/CleverRaven/Cataclysm-DDA/pull/84703))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-16-0251 ([199df0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0251))
+
+* Move Pointed Horns to techniques ([#84715](https://github.com/CleverRaven/Cataclysm-DDA/pull/84715))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-16-0108 ([c79d9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0108))
 
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
@@ -159,21 +174,11 @@
 #### Cataclysm-DDA experimental build 2026-01-12-1757 ([d4fb9e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-12-1757))
 
 * [Xedra Evolved] Sidebar updates ([#84649](https://github.com/CleverRaven/Cataclysm-DDA/pull/84649))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-12-0308 ([0aa01e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-12-0308))
-
 * [Innawood] Add ore to some outcroppings ([#84570](https://github.com/CleverRaven/Cataclysm-DDA/pull/84570))
 * Reduce tx pull concurrency to hopefully mitigate tx api failures ([#84629](https://github.com/CleverRaven/Cataclysm-DDA/pull/84629))
 * Fix butchering activity stopping after first corpse ([#84640](https://github.com/CleverRaven/Cataclysm-DDA/pull/84640))
 * Fix translation progress not showing up ([#84574](https://github.com/CleverRaven/Cataclysm-DDA/pull/84574))
 * Fix language stat location in docs ([#84575](https://github.com/CleverRaven/Cataclysm-DDA/pull/84575))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-12-0204 ([33ef31b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-12-0204))
-
 * Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
 * [Magiclysm] Add restricted and illegal spells to appropriate locations ([#84563](https://github.com/CleverRaven/Cataclysm-DDA/pull/84563))
 * Fix various types of coffee in the same container ([#84554](https://github.com/CleverRaven/Cataclysm-DDA/pull/84554))
@@ -193,7 +198,6 @@
 * Add anomalous mp3 player for reverberation finding and entering ([#84551](https://github.com/CleverRaven/Cataclysm-DDA/pull/84551))
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
-* making instant coffee is easy! ([#84540](https://github.com/CleverRaven/Cataclysm-DDA/pull/84540))
 * fix crossing bridges in autodrive mode ([#84568](https://github.com/CleverRaven/Cataclysm-DDA/pull/84568))
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
 * Correct gold bracelet encumbrance/coverage ([#84583](https://github.com/CleverRaven/Cataclysm-DDA/pull/84583))
@@ -205,7 +209,6 @@
 * Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
-* Move ACT_SPELLCASTING handler to activity_actor ([#84538](https://github.com/CleverRaven/Cataclysm-DDA/pull/84538))
 * Check validity of NPC enums during loading ([#84545](https://github.com/CleverRaven/Cataclysm-DDA/pull/84545))
 * Add PLOWABLE flag to forest floor to allow it to be constructed into a shallow pit ([#84548](https://github.com/CleverRaven/Cataclysm-DDA/pull/84548))
 * Fix map editor errors on empty list ([#84550](https://github.com/CleverRaven/Cataclysm-DDA/pull/84550))
@@ -217,6 +220,4 @@
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
 * Remove false warning about automatically generated item groups ([#84544](https://github.com/CleverRaven/Cataclysm-DDA/pull/84544))
 * [Sky Island] Assign myself as maintainer of Sky Island ([#84552](https://github.com/CleverRaven/Cataclysm-DDA/pull/84552))
-* Ignore weight effects for characters that don't need food (NPCs) ([#84542](https://github.com/CleverRaven/Cataclysm-DDA/pull/84542))
-* [MoM] No drunken psi mastery ([#84539](https://github.com/CleverRaven/Cataclysm-DDA/pull/84539))
 * Update jdk version mentions in docs and workflows ([#84549](https://github.com/CleverRaven/Cataclysm-DDA/pull/84549))
