@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-16-0108 (c79d9fc)
+* Fix some string placeholders (#84717)
+
 Cataclysm-DDA experimental build 2026-01-15-2048 (3a8d08a)
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness (#84709)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-01-12-0308 (0aa01e3)
 
 Cataclysm-DDA experimental build 2026-01-12-0204 (33ef31b)
 * Expand monster and mutation wish description (#84633)
-
-Cataclysm-DDA experimental build 2026-01-11-2334 (51e8253)
 * [Magiclysm] Add restricted and illegal spells to appropriate locations (#84563)
 * Fix various types of coffee in the same container (#84554)
 * Add a duration to Earthshaper's Clairvoyance spell (#84624)
@@ -118,7 +119,6 @@ Cataclysm-DDA experimental build 2026-01-11-2334 (51e8253)
 * fix crossing bridges in autodrive mode (#84568)
 * Move ACT_SOCIALIZE to activity_actor (#84598)
 * Correct gold bracelet encumbrance/coverage (#84583)
-* [Magiclysm] More itemgroup reworks for school itemgroups (#84537)
 * [MoM] Add Oxygen Absorption end message (#84592)
 * Replace Weakening with ROT1 (#84591)
 * Update usb_drive entries with contents-item (#84586)
