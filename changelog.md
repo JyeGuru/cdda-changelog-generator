@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-16-0816 ([3ae81d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0816))
+
+* Move ACT_ATM handler to activity_actor ([#84723](https://github.com/CleverRaven/Cataclysm-DDA/pull/84723))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-16-0347 ([119faae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0347))
 
 * add `instant_death_chance` for weakpoints ([#84687](https://github.com/CleverRaven/Cataclysm-DDA/pull/84687))
@@ -218,6 +224,5 @@
 * laptop hard case ([#84560](https://github.com/CleverRaven/Cataclysm-DDA/pull/84560))
 * [MoM] Fix Fountain of Flames contemplation ([#84561](https://github.com/CleverRaven/Cataclysm-DDA/pull/84561))
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
-* Remove false warning about automatically generated item groups ([#84544](https://github.com/CleverRaven/Cataclysm-DDA/pull/84544))
 * [Sky Island] Assign myself as maintainer of Sky Island ([#84552](https://github.com/CleverRaven/Cataclysm-DDA/pull/84552))
 * Update jdk version mentions in docs and workflows ([#84549](https://github.com/CleverRaven/Cataclysm-DDA/pull/84549))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-16-0816 (3ae81d8)
+* Move ACT_ATM handler to activity_actor (#84723)
+
 Cataclysm-DDA experimental build 2026-01-16-0347 (119faae)
 * add `instant_death_chance` for weakpoints (#84687)
 * [MoM] Add guaranteed Osiris chambers to skyscraper lab (#84716)
@@ -140,6 +143,5 @@ Cataclysm-DDA experimental build 2026-01-12-1757 (d4fb9e8)
 * laptop hard case (#84560)
 * [MoM] Fix Fountain of Flames contemplation (#84561)
 * Edit Dementia description, add it to XE Nether cabin (#84559)
-* Remove false warning about automatically generated item groups (#84544)
 * [Sky Island] Assign myself as maintainer of Sky Island (#84552)
 * Update jdk version mentions in docs and workflows (#84549)
