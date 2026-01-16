@@ -1,3 +1,12 @@
+* [Magiclysm] Fix Giant Growth spam ([#84721](https://github.com/CleverRaven/Cataclysm-DDA/pull/84721))
+* Fix behavior when many dialogue options are present. (ncurses only issue) ([#84713](https://github.com/CleverRaven/Cataclysm-DDA/pull/84713))
+* [Bugfixes] Close item info's command bar after sub-interface open ([#84734](https://github.com/CleverRaven/Cataclysm-DDA/pull/84734))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-16-1402 ([c20c6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-1402))
+
+* [Magiclysm] Reduce the cost of Vegetative Poultice ([#84728](https://github.com/CleverRaven/Cataclysm-DDA/pull/84728))
 
 ---
 
@@ -215,8 +224,6 @@
 * Fix my mac build ([#84562](https://github.com/CleverRaven/Cataclysm-DDA/pull/84562))
 * Backport https://github.com/CleverRaven/Cataclysm-DDA/pull/84542 ([#84567](https://github.com/CleverRaven/Cataclysm-DDA/pull/84567))
 * Set xedra_genset noise_factor to 1 ([#84566](https://github.com/CleverRaven/Cataclysm-DDA/pull/84566))
-* Add PLOWABLE flag to forest floor to allow it to be constructed into a shallow pit ([#84548](https://github.com/CleverRaven/Cataclysm-DDA/pull/84548))
-* Fix map editor errors on empty list ([#84550](https://github.com/CleverRaven/Cataclysm-DDA/pull/84550))
 * Cereal Audit ([#84553](https://github.com/CleverRaven/Cataclysm-DDA/pull/84553))
 * Add Subway ramps linking to secret subway ([#84556](https://github.com/CleverRaven/Cataclysm-DDA/pull/84556))
 * Improve mobile weather stations functions (1/2) ([#84558](https://github.com/CleverRaven/Cataclysm-DDA/pull/84558))
@@ -224,4 +231,3 @@
 * [MoM] Fix Fountain of Flames contemplation ([#84561](https://github.com/CleverRaven/Cataclysm-DDA/pull/84561))
 * Edit Dementia description, add it to XE Nether cabin ([#84559](https://github.com/CleverRaven/Cataclysm-DDA/pull/84559))
 * [Sky Island] Assign myself as maintainer of Sky Island ([#84552](https://github.com/CleverRaven/Cataclysm-DDA/pull/84552))
-* Update jdk version mentions in docs and workflows ([#84549](https://github.com/CleverRaven/Cataclysm-DDA/pull/84549))
