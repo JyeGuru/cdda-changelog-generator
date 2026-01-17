@@ -1,3 +1,4 @@
+* Move void spider lair obsoletion to correct folder and fix omt ids ([#84752](https://github.com/CleverRaven/Cataclysm-DDA/pull/84752))
 * pants varients are clear and do not lie about function  ([#84745](https://github.com/CleverRaven/Cataclysm-DDA/pull/84745))
 
 ---
@@ -155,12 +156,6 @@
 #### Cataclysm-DDA experimental build 2026-01-15-0314 ([80fb345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0314))
 
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-14-2046 ([03f21d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-2046))
-
-* [Magiclysm] Add Technomancer spell Arete ([#84584](https://github.com/CleverRaven/Cataclysm-DDA/pull/84584))
 * Supermarket memory cards are empty and known to be empty ([#84617](https://github.com/CleverRaven/Cataclysm-DDA/pull/84617))
 * Aftershock: Faction Cleanup ([#84643](https://github.com/CleverRaven/Cataclysm-DDA/pull/84643))
 * When completing Sky_Island missions with Innawood installed, gives bonus experience for Bombasticperks, Sorcerer, Perk-Melee, and Xedra_Evolved ([#84655](https://github.com/CleverRaven/Cataclysm-DDA/pull/84655))
