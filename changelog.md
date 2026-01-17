@@ -1,3 +1,10 @@
+* pants varients are clear and do not lie about function  ([#84745](https://github.com/CleverRaven/Cataclysm-DDA/pull/84745))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-17-1932 ([7ae2d24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-1932))
+
+* Support fmtlib formatted translated strings with `_fmt()` ([#84724](https://github.com/CleverRaven/Cataclysm-DDA/pull/84724))
 
 ---
 
@@ -16,12 +23,6 @@
 #### Cataclysm-DDA experimental build 2026-01-17-1645 ([ceaf3d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-1645))
 
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-17-0829 ([88fe64a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-0829))
-
-* [Magiclysm] Rename Mage Blade to Force Blade, move to a Magus spell ([#84582](https://github.com/CleverRaven/Cataclysm-DDA/pull/84582))
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 
@@ -177,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-01-14-1820 ([d8010b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1820))
 
 * Reduce micromanagement of metamagic perks ([#84601](https://github.com/CleverRaven/Cataclysm-DDA/pull/84601))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-14-1325 ([e17c017](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1325))
-
 * inland container depot location ([#84641](https://github.com/CleverRaven/Cataclysm-DDA/pull/84641))
 * If ‘force‘ is set for EOC u_teleport, skip collision test for vehicle ([#84634](https://github.com/CleverRaven/Cataclysm-DDA/pull/84634))
 * Switch toe talons to using techniques  ([#84672](https://github.com/CleverRaven/Cataclysm-DDA/pull/84672))
@@ -222,7 +218,6 @@
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
-* Correct gold bracelet encumbrance/coverage ([#84583](https://github.com/CleverRaven/Cataclysm-DDA/pull/84583))
 * [MoM] Add Oxygen Absorption end message ([#84592](https://github.com/CleverRaven/Cataclysm-DDA/pull/84592))
 * Replace Weakening with ROT1 ([#84591](https://github.com/CleverRaven/Cataclysm-DDA/pull/84591))
 * Update usb_drive entries with contents-item ([#84586](https://github.com/CleverRaven/Cataclysm-DDA/pull/84586))

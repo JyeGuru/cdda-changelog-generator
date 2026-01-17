@@ -1,3 +1,7 @@
+* pants varients are clear and do not lie about function  (#84745)
+
+Cataclysm-DDA experimental build 2026-01-17-1932 (7ae2d24)
+* Support fmtlib formatted translated strings with `_fmt()` (#84724)
 
 Cataclysm-DDA experimental build 2026-01-17-1804 (5e8f30a)
 * 20 more shipping container content nests (#84751)
@@ -7,9 +11,6 @@ Cataclysm-DDA 0.I release candidate 2026-01-17-1647 (c7df712)
 
 Cataclysm-DDA experimental build 2026-01-17-1645 (ceaf3d1)
 * Downgrade error message on loading to debug log warning (#84755)
-
-Cataclysm-DDA experimental build 2026-01-17-0829 (88fe64a)
-* [Magiclysm] Rename Mage Blade to Force Blade, move to a Magus spell (#84582)
 * UI: Fix crashes when viewing rules for NPCs. (#84740)
 * Fix push translation workflow skip condition test. (#84742)
 
@@ -99,8 +100,6 @@ Cataclysm-DDA experimental build 2026-01-14-1911 (679b850)
 
 Cataclysm-DDA experimental build 2026-01-14-1820 (d8010b5)
 * Reduce micromanagement of metamagic perks (#84601)
-
-Cataclysm-DDA experimental build 2026-01-14-1325 (e17c017)
 * inland container depot location (#84641)
 * If ‘force‘ is set for EOC u_teleport, skip collision test for vehicle (#84634)
 * Switch toe talons to using techniques  (#84672)
@@ -141,7 +140,6 @@ Cataclysm-DDA experimental build 2026-01-14-1325 (e17c017)
 * expose sound_type for `sound` use action (#84607)
 * [Sky island] loading screen image (#84606)
 * Move ACT_SOCIALIZE to activity_actor (#84598)
-* Correct gold bracelet encumbrance/coverage (#84583)
 * [MoM] Add Oxygen Absorption end message (#84592)
 * Replace Weakening with ROT1 (#84591)
 * Update usb_drive entries with contents-item (#84586)
