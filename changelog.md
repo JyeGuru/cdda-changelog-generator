@@ -188,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-01-14-0457 ([a5f2d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-0457))
 
 * [Xedra Evolved] Add Sefer Raziel HaMalakh as a hedge magic book ([#84594](https://github.com/CleverRaven/Cataclysm-DDA/pull/84594))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-13-1438 ([e8b486f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-1438))
-
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
 * [ Xedra Evolved ] Dreamer Mana Regen ([#84625](https://github.com/CleverRaven/Cataclysm-DDA/pull/84625))

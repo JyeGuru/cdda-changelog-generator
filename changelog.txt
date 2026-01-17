@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2026-01-14-0556 (54101d0)
 
 Cataclysm-DDA experimental build 2026-01-14-0457 (a5f2d5b)
 * [Xedra Evolved] Add Sefer Raziel HaMalakh as a hedge magic book (#84594)
-
-Cataclysm-DDA experimental build 2026-01-13-1438 (e8b486f)
 * [alt-map-key] Add new overmap tiles to mod (#84667)
 * Feral preppers aren't filling their backpacks with cough syrup (#84670)
 * [ Xedra Evolved ] Dreamer Mana Regen (#84625)
