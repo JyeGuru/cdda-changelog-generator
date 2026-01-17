@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-17-1804 (5e8f30a)
 * 20 more shipping container content nests (#84751)
 
 Cataclysm-DDA 0.I release candidate 2026-01-17-1647 (c7df712)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2026-01-14-1325 (e17c017)
 * Switch toe talons to using techniques  (#84672)
 * Add Debug No Encumbrance mutation (#84675)
 * deconstruct t_reinforced_glass_lab (#84665)
-
-Cataclysm-DDA experimental build 2026-01-14-1235 (2855995)
 * You can dive underwater in oceans (#84683)
 * Migrate some debug menu input popups (#84671)
 * Remove scrap metal from ig_vp_device (#84642)

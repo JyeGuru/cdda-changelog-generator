@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-17-1804 ([5e8f30a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-1804))
+
 * 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
 
 ---
@@ -182,11 +187,6 @@
 * Switch toe talons to using techniques  ([#84672](https://github.com/CleverRaven/Cataclysm-DDA/pull/84672))
 * Add Debug No Encumbrance mutation ([#84675](https://github.com/CleverRaven/Cataclysm-DDA/pull/84675))
 * deconstruct t_reinforced_glass_lab ([#84665](https://github.com/CleverRaven/Cataclysm-DDA/pull/84665))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-14-1235 ([2855995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1235))
-
 * You can dive underwater in oceans ([#84683](https://github.com/CleverRaven/Cataclysm-DDA/pull/84683))
 * Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
 * Remove scrap metal from ig_vp_device ([#84642](https://github.com/CleverRaven/Cataclysm-DDA/pull/84642))
