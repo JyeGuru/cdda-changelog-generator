@@ -1,3 +1,11 @@
+* UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
+* Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-17-0741 ([411880b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-0741))
+
+* Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
 * Sort mod translations ([#84653](https://github.com/CleverRaven/Cataclysm-DDA/pull/84653))
 
 ---
@@ -193,21 +201,14 @@
 * give hub hazardous environment suit an (on) description ([#84648](https://github.com/CleverRaven/Cataclysm-DDA/pull/84648))
 * Stop serializing bad vehicle item_locations ([#84651](https://github.com/CleverRaven/Cataclysm-DDA/pull/84651))
 * Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-13-0447 ([58ec53c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-0447))
-
 * Add more safety and sanity checks around zzip loading ([#84658](https://github.com/CleverRaven/Cataclysm-DDA/pull/84658))
 * [Xedra Evolved] Increase hedge magick learning time ([#84659](https://github.com/CleverRaven/Cataclysm-DDA/pull/84659))
 * Increase hulk combat ability ([#84661](https://github.com/CleverRaven/Cataclysm-DDA/pull/84661))
 * Techniqueify `HOOVES` ([#84662](https://github.com/CleverRaven/Cataclysm-DDA/pull/84662))
 * Fix segfaulting input_context lifetime issues. ([#84639](https://github.com/CleverRaven/Cataclysm-DDA/pull/84639))
 * [Xedra Evolved] Sidebar updates ([#84649](https://github.com/CleverRaven/Cataclysm-DDA/pull/84649))
-* [Innawood] Add ore to some outcroppings ([#84570](https://github.com/CleverRaven/Cataclysm-DDA/pull/84570))
 * Reduce tx pull concurrency to hopefully mitigate tx api failures ([#84629](https://github.com/CleverRaven/Cataclysm-DDA/pull/84629))
 * Fix butchering activity stopping after first corpse ([#84640](https://github.com/CleverRaven/Cataclysm-DDA/pull/84640))
-* Fix translation progress not showing up ([#84574](https://github.com/CleverRaven/Cataclysm-DDA/pull/84574))
 * Fix language stat location in docs ([#84575](https://github.com/CleverRaven/Cataclysm-DDA/pull/84575))
 * Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
 * Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
@@ -224,7 +225,6 @@
 * Generate more flour and rice in the game. ([#84579](https://github.com/CleverRaven/Cataclysm-DDA/pull/84579))
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
-* fix crossing bridges in autodrive mode ([#84568](https://github.com/CleverRaven/Cataclysm-DDA/pull/84568))
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
 * Correct gold bracelet encumbrance/coverage ([#84583](https://github.com/CleverRaven/Cataclysm-DDA/pull/84583))
 * [MoM] Add Oxygen Absorption end message ([#84592](https://github.com/CleverRaven/Cataclysm-DDA/pull/84592))
