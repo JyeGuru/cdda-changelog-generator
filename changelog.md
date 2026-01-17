@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-17-0829 ([88fe64a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-0829))
+
 * [Magiclysm] Rename Mage Blade to Force Blade, move to a Magus spell ([#84582](https://github.com/CleverRaven/Cataclysm-DDA/pull/84582))
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
@@ -194,11 +199,6 @@
 * [bombastic perks] remove the perk mutation category ([#84628](https://github.com/CleverRaven/Cataclysm-DDA/pull/84628))
 * [Bugfixes] Fixed calculations in the heating ui and func for items counted by charge. ([#84632](https://github.com/CleverRaven/Cataclysm-DDA/pull/84632))
 * Obsolete ACT_ARMOR_LAYERS, move to uistate::open_menu ([#84622](https://github.com/CleverRaven/Cataclysm-DDA/pull/84622))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-13-1243 ([5d5058e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-13-1243))
-
 * give hub hazardous environment suit an (on) description ([#84648](https://github.com/CleverRaven/Cataclysm-DDA/pull/84648))
 * Stop serializing bad vehicle item_locations ([#84651](https://github.com/CleverRaven/Cataclysm-DDA/pull/84651))
 * Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
