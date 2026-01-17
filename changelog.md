@@ -1,3 +1,16 @@
+* 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-01-17-1647 ([c7df712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-17-1647))
+
+* Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-17-1645 ([ceaf3d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-1645))
+
+* Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
 
 ---
 
@@ -175,18 +188,8 @@
 #### Cataclysm-DDA experimental build 2026-01-14-1235 ([2855995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1235))
 
 * You can dive underwater in oceans ([#84683](https://github.com/CleverRaven/Cataclysm-DDA/pull/84683))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-14-0556 ([54101d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-0556))
-
 * Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
 * Remove scrap metal from ig_vp_device ([#84642](https://github.com/CleverRaven/Cataclysm-DDA/pull/84642))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-14-0457 ([a5f2d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-0457))
-
 * [Xedra Evolved] Add Sefer Raziel HaMalakh as a hedge magic book ([#84594](https://github.com/CleverRaven/Cataclysm-DDA/pull/84594))
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
@@ -207,7 +210,6 @@
 * Fix butchering activity stopping after first corpse ([#84640](https://github.com/CleverRaven/Cataclysm-DDA/pull/84640))
 * Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
 * Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
-* Tweak mobile weather stations and associated Hub quest dialogue ([#84580](https://github.com/CleverRaven/Cataclysm-DDA/pull/84580))
 * [MoM] Rework Mycus world foliage ([#84620](https://github.com/CleverRaven/Cataclysm-DDA/pull/84620))
 * Improve m27 rifles ([#84612](https://github.com/CleverRaven/Cataclysm-DDA/pull/84612))
 * Powered air purifying respirator blows make noise (reprise) ([#84615](https://github.com/CleverRaven/Cataclysm-DDA/pull/84615))
@@ -217,7 +219,6 @@
 * Update 200 pipes quest with new pipes ([#84616](https://github.com/CleverRaven/Cataclysm-DDA/pull/84616))
 * Fix mod FREE_DODGES ([#84621](https://github.com/CleverRaven/Cataclysm-DDA/pull/84621))
 * [Sky Island] red exit room glow ([#84614](https://github.com/CleverRaven/Cataclysm-DDA/pull/84614))
-* Generate more flour and rice in the game. ([#84579](https://github.com/CleverRaven/Cataclysm-DDA/pull/84579))
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
