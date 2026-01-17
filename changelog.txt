@@ -1,3 +1,4 @@
+* [Magiclysm] Rename Mage Blade to Force Blade, move to a Magus spell (#84582)
 * UI: Fix crashes when viewing rules for NPCs. (#84740)
 * Fix push translation workflow skip condition test. (#84742)
 
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2026-01-13-1243 (5d5058e)
 * [Xedra Evolved] Sidebar updates (#84649)
 * Reduce tx pull concurrency to hopefully mitigate tx api failures (#84629)
 * Fix butchering activity stopping after first corpse (#84640)
-* Fix language stat location in docs (#84575)
 * Expand monster and mutation wish description (#84633)
 * Add a duration to Earthshaper's Clairvoyance spell (#84624)
 * Tweak mobile weather stations and associated Hub quest dialogue (#84580)

@@ -1,3 +1,4 @@
+* [Magiclysm] Rename Mage Blade to Force Blade, move to a Magus spell ([#84582](https://github.com/CleverRaven/Cataclysm-DDA/pull/84582))
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 
@@ -209,7 +210,6 @@
 * [Xedra Evolved] Sidebar updates ([#84649](https://github.com/CleverRaven/Cataclysm-DDA/pull/84649))
 * Reduce tx pull concurrency to hopefully mitigate tx api failures ([#84629](https://github.com/CleverRaven/Cataclysm-DDA/pull/84629))
 * Fix butchering activity stopping after first corpse ([#84640](https://github.com/CleverRaven/Cataclysm-DDA/pull/84640))
-* Fix language stat location in docs ([#84575](https://github.com/CleverRaven/Cataclysm-DDA/pull/84575))
 * Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
 * Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
 * Tweak mobile weather stations and associated Hub quest dialogue ([#84580](https://github.com/CleverRaven/Cataclysm-DDA/pull/84580))
