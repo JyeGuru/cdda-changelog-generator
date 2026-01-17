@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-17-2042 ([b17a59f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-2042))
+
 * Move void spider lair obsoletion to correct folder and fix omt ids ([#84752](https://github.com/CleverRaven/Cataclysm-DDA/pull/84752))
 * pants varients are clear and do not lie about function  ([#84745](https://github.com/CleverRaven/Cataclysm-DDA/pull/84745))
 
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-01-14-1911 ([679b850](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1911))
 
 * Add pressure cooker in house. ([#84609](https://github.com/CleverRaven/Cataclysm-DDA/pull/84609))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-14-1820 ([d8010b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1820))
-
 * Reduce micromanagement of metamagic perks ([#84601](https://github.com/CleverRaven/Cataclysm-DDA/pull/84601))
 * inland container depot location ([#84641](https://github.com/CleverRaven/Cataclysm-DDA/pull/84641))
 * If ‘force‘ is set for EOC u_teleport, skip collision test for vehicle ([#84634](https://github.com/CleverRaven/Cataclysm-DDA/pull/84634))
