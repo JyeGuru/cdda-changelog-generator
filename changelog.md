@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-18-0448 ([2cf9177](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-0448))
+
+* Make item count more visible in AIM ([#84743](https://github.com/CleverRaven/Cataclysm-DDA/pull/84743))
+* Use proper pronoun in credits ([#84761](https://github.com/CleverRaven/Cataclysm-DDA/pull/84761))
+* make glock 27 group contain glock 27 ([#84759](https://github.com/CleverRaven/Cataclysm-DDA/pull/84759))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-18-0358 ([a81e031](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-0358))
+
+* remove "it is awkward to use without practice" from holsters and sheath ([#84762](https://github.com/CleverRaven/Cataclysm-DDA/pull/84762))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-17-2042 ([b17a59f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-2042))
 
 * Move void spider lair obsoletion to correct folder and fix omt ids ([#84752](https://github.com/CleverRaven/Cataclysm-DDA/pull/84752))
@@ -166,11 +180,6 @@
 * When completing Sky_Island missions with Innawood installed, gives bonus experience for Bombasticperks, Sorcerer, Perk-Melee, and Xedra_Evolved ([#84655](https://github.com/CleverRaven/Cataclysm-DDA/pull/84655))
 * Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
 * More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-14-1911 ([679b850](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-14-1911))
-
 * Add pressure cooker in house. ([#84609](https://github.com/CleverRaven/Cataclysm-DDA/pull/84609))
 * Reduce micromanagement of metamagic perks ([#84601](https://github.com/CleverRaven/Cataclysm-DDA/pull/84601))
 * inland container depot location ([#84641](https://github.com/CleverRaven/Cataclysm-DDA/pull/84641))
@@ -206,14 +215,10 @@
 * Powered air purifying respirator blows make noise (reprise) ([#84615](https://github.com/CleverRaven/Cataclysm-DDA/pull/84615))
 * Fix magazine iteminfo ([#84613](https://github.com/CleverRaven/Cataclysm-DDA/pull/84613))
 * [MoM] Add Rainywood Oubliette dimension ([#84623](https://github.com/CleverRaven/Cataclysm-DDA/pull/84623))
-* Make reverberation exit points not something player can control ([#84590](https://github.com/CleverRaven/Cataclysm-DDA/pull/84590))
 * Update 200 pipes quest with new pipes ([#84616](https://github.com/CleverRaven/Cataclysm-DDA/pull/84616))
 * Fix mod FREE_DODGES ([#84621](https://github.com/CleverRaven/Cataclysm-DDA/pull/84621))
 * [Sky Island] red exit room glow ([#84614](https://github.com/CleverRaven/Cataclysm-DDA/pull/84614))
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
-* [MoM] Add Oxygen Absorption end message ([#84592](https://github.com/CleverRaven/Cataclysm-DDA/pull/84592))
-* Replace Weakening with ROT1 ([#84591](https://github.com/CleverRaven/Cataclysm-DDA/pull/84591))
-* Update usb_drive entries with contents-item ([#84586](https://github.com/CleverRaven/Cataclysm-DDA/pull/84586))
 * [MoM] Change the Clairsentient power Combat Sense to use FREE_DODGES ([#84593](https://github.com/CleverRaven/Cataclysm-DDA/pull/84593))
