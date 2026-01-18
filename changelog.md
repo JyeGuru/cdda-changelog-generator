@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-18-1125 ([3b2906b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-1125))
+
+* [Bugfixes] Fix ethereal item info ([#84748](https://github.com/CleverRaven/Cataclysm-DDA/pull/84748))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-18-0940 ([1ca1ddc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-0940))
 
 * [bugfix] Fixing error and tips msg for water purification tablets ([#84747](https://github.com/CleverRaven/Cataclysm-DDA/pull/84747))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-01-15-0545 ([f01879d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0545))
 
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-15-0448 ([63aa01a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0448))
-
 * Improve apis npc ([#84644](https://github.com/CleverRaven/Cataclysm-DDA/pull/84644))
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
 * Supermarket memory cards are empty and known to be empty ([#84617](https://github.com/CleverRaven/Cataclysm-DDA/pull/84617))
@@ -188,7 +189,6 @@
 * Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
 * More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
 * Add pressure cooker in house. ([#84609](https://github.com/CleverRaven/Cataclysm-DDA/pull/84609))
-* Reduce micromanagement of metamagic perks ([#84601](https://github.com/CleverRaven/Cataclysm-DDA/pull/84601))
 * inland container depot location ([#84641](https://github.com/CleverRaven/Cataclysm-DDA/pull/84641))
 * If ‘force‘ is set for EOC u_teleport, skip collision test for vehicle ([#84634](https://github.com/CleverRaven/Cataclysm-DDA/pull/84634))
 * Switch toe talons to using techniques  ([#84672](https://github.com/CleverRaven/Cataclysm-DDA/pull/84672))

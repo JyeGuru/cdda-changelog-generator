@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-18-1125 (3b2906b)
+* [Bugfixes] Fix ethereal item info (#84748)
+
 Cataclysm-DDA experimental build 2026-01-18-0940 (1ca1ddc)
 * [bugfix] Fixing error and tips msg for water purification tablets (#84747)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2026-01-15-0958 (9e3fc4a)
 
 Cataclysm-DDA experimental build 2026-01-15-0545 (f01879d)
 * [Xedra Evolved] Fix Dreamer regen (#84690)
-
-Cataclysm-DDA experimental build 2026-01-15-0448 (63aa01a)
 * Improve apis npc (#84644)
 * Convert Curled Horns to integrated armor with attack techniques (#84686)
 * Supermarket memory cards are empty and known to be empty (#84617)
@@ -107,7 +108,6 @@ Cataclysm-DDA experimental build 2026-01-15-0448 (63aa01a)
 * Move ACT_TREE_COMMUNION handler to activity_actor (#84678)
 * More input popup migration (#84685)
 * Add pressure cooker in house. (#84609)
-* Reduce micromanagement of metamagic perks (#84601)
 * inland container depot location (#84641)
 * If ‘force‘ is set for EOC u_teleport, skip collision test for vehicle (#84634)
 * Switch toe talons to using techniques  (#84672)
