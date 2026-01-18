@@ -1,3 +1,4 @@
+* Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood ([#84764](https://github.com/CleverRaven/Cataclysm-DDA/pull/84764))
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
 
 ---
@@ -190,7 +191,6 @@
 * When completing Sky_Island missions with Innawood installed, gives bonus experience for Bombasticperks, Sorcerer, Perk-Melee, and Xedra_Evolved ([#84655](https://github.com/CleverRaven/Cataclysm-DDA/pull/84655))
 * Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
 * More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
-* Add pressure cooker in house. ([#84609](https://github.com/CleverRaven/Cataclysm-DDA/pull/84609))
 * inland container depot location ([#84641](https://github.com/CleverRaven/Cataclysm-DDA/pull/84641))
 * If ‘force‘ is set for EOC u_teleport, skip collision test for vehicle ([#84634](https://github.com/CleverRaven/Cataclysm-DDA/pull/84634))
 * Switch toe talons to using techniques  ([#84672](https://github.com/CleverRaven/Cataclysm-DDA/pull/84672))
