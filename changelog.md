@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-01-18-0821 ([bfda09c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-18-0821))
+
+* Use proper pronoun in credits ([#84765](https://github.com/CleverRaven/Cataclysm-DDA/pull/84765))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-18-0448 ([2cf9177](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-0448))
 
 * Make item count more visible in AIM ([#84743](https://github.com/CleverRaven/Cataclysm-DDA/pull/84743))
@@ -221,4 +227,3 @@
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
 * Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
-* [MoM] Change the Clairsentient power Combat Sense to use FREE_DODGES ([#84593](https://github.com/CleverRaven/Cataclysm-DDA/pull/84593))
