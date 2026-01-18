@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-18-1942 ([bd5eae0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-1942))
+
 * Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood ([#84764](https://github.com/CleverRaven/Cataclysm-DDA/pull/84764))
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
 
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-01-15-1108 ([6679396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1108))
 
 * Freeze water into ice in winter. (1/?) ([#84654](https://github.com/CleverRaven/Cataclysm-DDA/pull/84654))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-15-0958 ([9e3fc4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0958))
-
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
 * Improve apis npc ([#84644](https://github.com/CleverRaven/Cataclysm-DDA/pull/84644))
