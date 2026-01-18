@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-18-0940 (1ca1ddc)
+* [bugfix] Fixing error and tips msg for water purification tablets (#84747)
+
 Cataclysm-DDA 0.I release candidate 2026-01-18-0821 (bfda09c)
 * Use proper pronoun in credits (#84765)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2026-01-15-0545 (f01879d)
 
 Cataclysm-DDA experimental build 2026-01-15-0448 (63aa01a)
 * Improve apis npc (#84644)
-
-Cataclysm-DDA experimental build 2026-01-15-0314 (80fb345)
 * Convert Curled Horns to integrated armor with attack techniques (#84686)
 * Supermarket memory cards are empty and known to be empty (#84617)
 * Aftershock: Faction Cleanup (#84643)
@@ -115,7 +116,6 @@ Cataclysm-DDA experimental build 2026-01-15-0314 (80fb345)
 * You can dive underwater in oceans (#84683)
 * Migrate some debug menu input popups (#84671)
 * Remove scrap metal from ig_vp_device (#84642)
-* [Xedra Evolved] Add Sefer Raziel HaMalakh as a hedge magic book (#84594)
 * [alt-map-key] Add new overmap tiles to mod (#84667)
 * Feral preppers aren't filling their backpacks with cough syrup (#84670)
 * [ Xedra Evolved ] Dreamer Mana Regen (#84625)

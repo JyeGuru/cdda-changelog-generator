@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-18-0940 ([1ca1ddc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-0940))
+
+* [bugfix] Fixing error and tips msg for water purification tablets ([#84747](https://github.com/CleverRaven/Cataclysm-DDA/pull/84747))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2026-01-18-0821 ([bfda09c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-18-0821))
 
 * Use proper pronoun in credits ([#84765](https://github.com/CleverRaven/Cataclysm-DDA/pull/84765))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-01-15-0448 ([63aa01a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0448))
 
 * Improve apis npc ([#84644](https://github.com/CleverRaven/Cataclysm-DDA/pull/84644))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-15-0314 ([80fb345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-0314))
-
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
 * Supermarket memory cards are empty and known to be empty ([#84617](https://github.com/CleverRaven/Cataclysm-DDA/pull/84617))
 * Aftershock: Faction Cleanup ([#84643](https://github.com/CleverRaven/Cataclysm-DDA/pull/84643))
@@ -196,7 +197,6 @@
 * You can dive underwater in oceans ([#84683](https://github.com/CleverRaven/Cataclysm-DDA/pull/84683))
 * Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
 * Remove scrap metal from ig_vp_device ([#84642](https://github.com/CleverRaven/Cataclysm-DDA/pull/84642))
-* [Xedra Evolved] Add Sefer Raziel HaMalakh as a hedge magic book ([#84594](https://github.com/CleverRaven/Cataclysm-DDA/pull/84594))
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
 * [ Xedra Evolved ] Dreamer Mana Regen ([#84625](https://github.com/CleverRaven/Cataclysm-DDA/pull/84625))
