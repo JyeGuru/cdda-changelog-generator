@@ -226,4 +226,3 @@
 * [Sky Island] red exit room glow ([#84614](https://github.com/CleverRaven/Cataclysm-DDA/pull/84614))
 * expose sound_type for `sound` use action ([#84607](https://github.com/CleverRaven/Cataclysm-DDA/pull/84607))
 * [Sky island] loading screen image ([#84606](https://github.com/CleverRaven/Cataclysm-DDA/pull/84606))
-* Move ACT_SOCIALIZE to activity_actor ([#84598](https://github.com/CleverRaven/Cataclysm-DDA/pull/84598))
