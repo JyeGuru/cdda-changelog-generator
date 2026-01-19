@@ -1,3 +1,18 @@
+* Add connective Outcrop layer ([#84727](https://github.com/CleverRaven/Cataclysm-DDA/pull/84727))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-19-0102 ([9037afa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0102))
+
+* Freeze water into ice in winter with phase change system.（2/?） ([#84697](https://github.com/CleverRaven/Cataclysm-DDA/pull/84697))
+* Add a new display mode to the construction menu: ready. ([#84767](https://github.com/CleverRaven/Cataclysm-DDA/pull/84767))
+* Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-19-0008 ([3a027a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0008))
+
+* [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))
 
 ---
 
@@ -176,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-01-15-1831 ([7598e9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1831))
 
 * Fix crash from recursive debugmsg invocation from invalid format in firing code ([#84691](https://github.com/CleverRaven/Cataclysm-DDA/pull/84691))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-15-1108 ([6679396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1108))
-
 * Freeze water into ice in winter. (1/?) ([#84654](https://github.com/CleverRaven/Cataclysm-DDA/pull/84654))
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
@@ -219,10 +229,5 @@
 * Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
 * Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
 * [MoM] Rework Mycus world foliage ([#84620](https://github.com/CleverRaven/Cataclysm-DDA/pull/84620))
-* Improve m27 rifles ([#84612](https://github.com/CleverRaven/Cataclysm-DDA/pull/84612))
-* Powered air purifying respirator blows make noise (reprise) ([#84615](https://github.com/CleverRaven/Cataclysm-DDA/pull/84615))
-* Fix magazine iteminfo ([#84613](https://github.com/CleverRaven/Cataclysm-DDA/pull/84613))
 * [MoM] Add Rainywood Oubliette dimension ([#84623](https://github.com/CleverRaven/Cataclysm-DDA/pull/84623))
-* Update 200 pipes quest with new pipes ([#84616](https://github.com/CleverRaven/Cataclysm-DDA/pull/84616))
 * Fix mod FREE_DODGES ([#84621](https://github.com/CleverRaven/Cataclysm-DDA/pull/84621))
-* [Sky Island] red exit room glow ([#84614](https://github.com/CleverRaven/Cataclysm-DDA/pull/84614))

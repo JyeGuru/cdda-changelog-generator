@@ -1,3 +1,12 @@
+* Add connective Outcrop layer (#84727)
+
+Cataclysm-DDA experimental build 2026-01-19-0102 (9037afa)
+* Freeze water into ice in winter with phase change system.（2/?） (#84697)
+* Add a new display mode to the construction menu: ready. (#84767)
+* Move ANTLERS to techniques  (#84772)
+
+Cataclysm-DDA experimental build 2026-01-19-0008 (3a027a7)
+* [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms (#84773)
 
 Cataclysm-DDA experimental build 2026-01-18-1942 (bd5eae0)
 * Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood (#84764)
@@ -98,8 +107,6 @@ Cataclysm-DDA experimental build 2026-01-15-1934 (40a1fd4)
 
 Cataclysm-DDA experimental build 2026-01-15-1831 (7598e9d)
 * Fix crash from recursive debugmsg invocation from invalid format in firing code (#84691)
-
-Cataclysm-DDA experimental build 2026-01-15-1108 (6679396)
 * Freeze water into ice in winter. (1/?) (#84654)
 * Fix some random UB (#84692)
 * [Xedra Evolved] Fix Dreamer regen (#84690)
@@ -138,10 +145,5 @@ Cataclysm-DDA experimental build 2026-01-15-1108 (6679396)
 * Expand monster and mutation wish description (#84633)
 * Add a duration to Earthshaper's Clairvoyance spell (#84624)
 * [MoM] Rework Mycus world foliage (#84620)
-* Improve m27 rifles (#84612)
-* Powered air purifying respirator blows make noise (reprise) (#84615)
-* Fix magazine iteminfo (#84613)
 * [MoM] Add Rainywood Oubliette dimension (#84623)
-* Update 200 pipes quest with new pipes (#84616)
 * Fix mod FREE_DODGES (#84621)
-* [Sky Island] red exit room glow (#84614)
