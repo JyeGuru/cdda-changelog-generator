@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-19-0148 ([9486259](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0148))
+
 * Add connective Outcrop layer ([#84727](https://github.com/CleverRaven/Cataclysm-DDA/pull/84727))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-01-15-1934 ([40a1fd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1934))
 
 * [Aftershock] Add esper enkindling tinctures ([#84646](https://github.com/CleverRaven/Cataclysm-DDA/pull/84646))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-15-1831 ([7598e9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1831))
-
 * Fix crash from recursive debugmsg invocation from invalid format in firing code ([#84691](https://github.com/CleverRaven/Cataclysm-DDA/pull/84691))
 * Freeze water into ice in winter. (1/?) ([#84654](https://github.com/CleverRaven/Cataclysm-DDA/pull/84654))
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))

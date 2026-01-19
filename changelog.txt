@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-19-0148 (9486259)
 * Add connective Outcrop layer (#84727)
 
 Cataclysm-DDA experimental build 2026-01-19-0102 (9037afa)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2026-01-15-2048 (3a8d08a)
 
 Cataclysm-DDA experimental build 2026-01-15-1934 (40a1fd4)
 * [Aftershock] Add esper enkindling tinctures (#84646)
-
-Cataclysm-DDA experimental build 2026-01-15-1831 (7598e9d)
 * Fix crash from recursive debugmsg invocation from invalid format in firing code (#84691)
 * Freeze water into ice in winter. (1/?) (#84654)
 * Fix some random UB (#84692)
