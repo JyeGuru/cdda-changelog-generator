@@ -1,3 +1,10 @@
+* Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-19-2137 ([272efdd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-2137))
+
+* [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))
 
 ---
 
@@ -184,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-01-16-0108 ([c79d9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0108))
 
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-15-2048 ([3a8d08a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-2048))
-
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
 * [Aftershock] Add esper enkindling tinctures ([#84646](https://github.com/CleverRaven/Cataclysm-DDA/pull/84646))
 * Fix crash from recursive debugmsg invocation from invalid format in firing code ([#84691](https://github.com/CleverRaven/Cataclysm-DDA/pull/84691))
@@ -228,6 +230,4 @@
 * Fix butchering activity stopping after first corpse ([#84640](https://github.com/CleverRaven/Cataclysm-DDA/pull/84640))
 * Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
 * Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
-* [MoM] Rework Mycus world foliage ([#84620](https://github.com/CleverRaven/Cataclysm-DDA/pull/84620))
 * [MoM] Add Rainywood Oubliette dimension ([#84623](https://github.com/CleverRaven/Cataclysm-DDA/pull/84623))
-* Fix mod FREE_DODGES ([#84621](https://github.com/CleverRaven/Cataclysm-DDA/pull/84621))
