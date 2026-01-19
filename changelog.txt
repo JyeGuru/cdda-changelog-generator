@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-19-0750 (f0748aa)
+* Move shirts to NORMAL layer and hoodies to OUTER layer (#84705)
+
 Cataclysm-DDA experimental build 2026-01-19-0148 (9486259)
 * Add connective Outcrop layer (#84727)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2026-01-16-0108 (c79d9fc)
 
 Cataclysm-DDA experimental build 2026-01-15-2048 (3a8d08a)
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness (#84709)
-
-Cataclysm-DDA experimental build 2026-01-15-1934 (40a1fd4)
 * [Aftershock] Add esper enkindling tinctures (#84646)
 * Fix crash from recursive debugmsg invocation from invalid format in firing code (#84691)
 * Freeze water into ice in winter. (1/?) (#84654)
@@ -112,7 +113,6 @@ Cataclysm-DDA experimental build 2026-01-15-1934 (40a1fd4)
 * [Xedra Evolved] Fix Dreamer regen (#84690)
 * Improve apis npc (#84644)
 * Convert Curled Horns to integrated armor with attack techniques (#84686)
-* Supermarket memory cards are empty and known to be empty (#84617)
 * Aftershock: Faction Cleanup (#84643)
 * When completing Sky_Island missions with Innawood installed, gives bonus experience for Bombasticperks, Sorcerer, Perk-Melee, and Xedra_Evolved (#84655)
 * Move ACT_TREE_COMMUNION handler to activity_actor (#84678)

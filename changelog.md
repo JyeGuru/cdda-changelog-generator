@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-19-0750 ([f0748aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0750))
+
+* Move shirts to NORMAL layer and hoodies to OUTER layer ([#84705](https://github.com/CleverRaven/Cataclysm-DDA/pull/84705))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-19-0148 ([9486259](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0148))
 
 * Add connective Outcrop layer ([#84727](https://github.com/CleverRaven/Cataclysm-DDA/pull/84727))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-01-15-2048 ([3a8d08a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-2048))
 
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-15-1934 ([40a1fd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-15-1934))
-
 * [Aftershock] Add esper enkindling tinctures ([#84646](https://github.com/CleverRaven/Cataclysm-DDA/pull/84646))
 * Fix crash from recursive debugmsg invocation from invalid format in firing code ([#84691](https://github.com/CleverRaven/Cataclysm-DDA/pull/84691))
 * Freeze water into ice in winter. (1/?) ([#84654](https://github.com/CleverRaven/Cataclysm-DDA/pull/84654))
@@ -196,7 +197,6 @@
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
 * Improve apis npc ([#84644](https://github.com/CleverRaven/Cataclysm-DDA/pull/84644))
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
-* Supermarket memory cards are empty and known to be empty ([#84617](https://github.com/CleverRaven/Cataclysm-DDA/pull/84617))
 * Aftershock: Faction Cleanup ([#84643](https://github.com/CleverRaven/Cataclysm-DDA/pull/84643))
 * When completing Sky_Island missions with Innawood installed, gives bonus experience for Bombasticperks, Sorcerer, Perk-Melee, and Xedra_Evolved ([#84655](https://github.com/CleverRaven/Cataclysm-DDA/pull/84655))
 * Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
