@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-19-2314 ([ae6f84a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-2314))
+
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 
 ---
@@ -185,11 +190,6 @@
 * [MoM] Add guaranteed Osiris chambers to skyscraper lab ([#84716](https://github.com/CleverRaven/Cataclysm-DDA/pull/84716))
 * Validate spell ids in learn_spell use_action ([#84712](https://github.com/CleverRaven/Cataclysm-DDA/pull/84712))
 * Fix x-ray vision of NPC underwear ([#84703](https://github.com/CleverRaven/Cataclysm-DDA/pull/84703))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-16-0251 ([199df0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0251))
-
 * Move Pointed Horns to techniques ([#84715](https://github.com/CleverRaven/Cataclysm-DDA/pull/84715))
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
