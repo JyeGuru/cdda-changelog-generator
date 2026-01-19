@@ -1,3 +1,6 @@
+* Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials (#84790)
+
+Cataclysm-DDA experimental build 2026-01-19-2226 (8a73a8c)
 * Whitelist field notebook lakeside shack (#84791)
 
 Cataclysm-DDA experimental build 2026-01-19-2137 (272efdd)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2026-01-16-0347 (119faae)
 
 Cataclysm-DDA experimental build 2026-01-16-0251 (199df0e)
 * Move Pointed Horns to techniques (#84715)
-
-Cataclysm-DDA experimental build 2026-01-16-0108 (c79d9fc)
 * Fix some string placeholders (#84717)
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness (#84709)
 * [Aftershock] Add esper enkindling tinctures (#84646)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2026-01-16-0108 (c79d9fc)
 * [ Xedra Evolved ] Dreamer Mana Regen (#84625)
 * [bombastic perks] remove the perk mutation category (#84628)
 * [Bugfixes] Fixed calculations in the heating ui and func for items counted by charge. (#84632)
-* Obsolete ACT_ARMOR_LAYERS, move to uistate::open_menu (#84622)
 * give hub hazardous environment suit an (on) description (#84648)
 * Stop serializing bad vehicle item_locations (#84651)
 * Add more safety and sanity checks around zzip loading (#84666)

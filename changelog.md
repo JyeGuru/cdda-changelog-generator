@@ -1,3 +1,9 @@
+* Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-19-2226 ([8a73a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-2226))
+
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
 
 ---
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-01-16-0251 ([199df0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0251))
 
 * Move Pointed Horns to techniques ([#84715](https://github.com/CleverRaven/Cataclysm-DDA/pull/84715))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-16-0108 ([c79d9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0108))
-
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
 * [Aftershock] Add esper enkindling tinctures ([#84646](https://github.com/CleverRaven/Cataclysm-DDA/pull/84646))
@@ -216,7 +217,6 @@
 * [ Xedra Evolved ] Dreamer Mana Regen ([#84625](https://github.com/CleverRaven/Cataclysm-DDA/pull/84625))
 * [bombastic perks] remove the perk mutation category ([#84628](https://github.com/CleverRaven/Cataclysm-DDA/pull/84628))
 * [Bugfixes] Fixed calculations in the heating ui and func for items counted by charge. ([#84632](https://github.com/CleverRaven/Cataclysm-DDA/pull/84632))
-* Obsolete ACT_ARMOR_LAYERS, move to uistate::open_menu ([#84622](https://github.com/CleverRaven/Cataclysm-DDA/pull/84622))
 * give hub hazardous environment suit an (on) description ([#84648](https://github.com/CleverRaven/Cataclysm-DDA/pull/84648))
 * Stop serializing bad vehicle item_locations ([#84651](https://github.com/CleverRaven/Cataclysm-DDA/pull/84651))
 * Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
