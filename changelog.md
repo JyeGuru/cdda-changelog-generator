@@ -210,7 +210,6 @@
 * Freeze water into ice in winter. (1/?) ([#84654](https://github.com/CleverRaven/Cataclysm-DDA/pull/84654))
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
-* Improve apis npc ([#84644](https://github.com/CleverRaven/Cataclysm-DDA/pull/84644))
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
 * When completing Sky_Island missions with Innawood installed, gives bonus experience for Bombasticperks, Sorcerer, Perk-Melee, and Xedra_Evolved ([#84655](https://github.com/CleverRaven/Cataclysm-DDA/pull/84655))
 * Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
