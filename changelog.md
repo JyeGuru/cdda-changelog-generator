@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-20-0732 ([060de42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-0732))
+
 * Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))
 * Move ACT_TRAIN handler to activity_actor, obsolete ACT_TRAIN_TEACHER ([#84786](https://github.com/CleverRaven/Cataclysm-DDA/pull/84786))
 
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-01-16-1402 ([c20c6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-1402))
 
 * [Magiclysm] Reduce the cost of Vegetative Poultice ([#84728](https://github.com/CleverRaven/Cataclysm-DDA/pull/84728))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-16-0816 ([3ae81d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0816))
-
 * Move ACT_ATM handler to activity_actor ([#84723](https://github.com/CleverRaven/Cataclysm-DDA/pull/84723))
 * add `instant_death_chance` for weakpoints ([#84687](https://github.com/CleverRaven/Cataclysm-DDA/pull/84687))
 * [MoM] Add guaranteed Osiris chambers to skyscraper lab ([#84716](https://github.com/CleverRaven/Cataclysm-DDA/pull/84716))
