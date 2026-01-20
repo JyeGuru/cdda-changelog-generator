@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-20-0931 ([b4e642d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-0931))
+
 * [Sky Island] Add wall transformation constructions, add flesh walls/floors ([#84763](https://github.com/CleverRaven/Cataclysm-DDA/pull/84763))
 * [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
 
@@ -184,11 +189,6 @@
 * [Magiclysm] Fix Giant Growth spam ([#84721](https://github.com/CleverRaven/Cataclysm-DDA/pull/84721))
 * Fix behavior when many dialogue options are present. (ncurses only issue) ([#84713](https://github.com/CleverRaven/Cataclysm-DDA/pull/84713))
 * [Bugfixes] Close item info's command bar after sub-interface open ([#84734](https://github.com/CleverRaven/Cataclysm-DDA/pull/84734))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-16-1402 ([c20c6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-1402))
-
 * [Magiclysm] Reduce the cost of Vegetative Poultice ([#84728](https://github.com/CleverRaven/Cataclysm-DDA/pull/84728))
 * Move ACT_ATM handler to activity_actor ([#84723](https://github.com/CleverRaven/Cataclysm-DDA/pull/84723))
 * add `instant_death_chance` for weakpoints ([#84687](https://github.com/CleverRaven/Cataclysm-DDA/pull/84687))
