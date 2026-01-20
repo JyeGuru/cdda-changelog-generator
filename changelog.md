@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-01-20-1811 ([a799deb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-20-1811))
+
+* Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-20-1604 ([c0ad763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-1604))
 
 * Coconut audit ([#84684](https://github.com/CleverRaven/Cataclysm-DDA/pull/84684))
@@ -164,19 +170,8 @@
 
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
 * Sort mod translations ([#84653](https://github.com/CleverRaven/Cataclysm-DDA/pull/84653))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-17-0211 ([0191a51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-0211))
-
-* Weekly Changelog 2026-01-05 to 2026-01-12 ([#84645](https://github.com/CleverRaven/Cataclysm-DDA/pull/84645))
 * XEDRA field notebook III: the prepper scientist ([#84688](https://github.com/CleverRaven/Cataclysm-DDA/pull/84688))
 * Sidebar headers to differentiate terrain vs furniture ([#84698](https://github.com/CleverRaven/Cataclysm-DDA/pull/84698))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-01-17-0149 ([5bd2e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-17-0149))
-
 * fix crossing bridges in autodrive mode ([#84699](https://github.com/CleverRaven/Cataclysm-DDA/pull/84699))
 * Print "taming" foods for monsters ([#84700](https://github.com/CleverRaven/Cataclysm-DDA/pull/84700))
 * [0.I Branch Backport][feature] If force is set for EOC u_teleport, skip collision test ([#84704](https://github.com/CleverRaven/Cataclysm-DDA/pull/84704))
