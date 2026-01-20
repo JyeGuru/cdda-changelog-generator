@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-20-1604 ([c0ad763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-1604))
+
 * Coconut audit ([#84684](https://github.com/CleverRaven/Cataclysm-DDA/pull/84684))
 * Add two makeshift goedendags ([#84737](https://github.com/CleverRaven/Cataclysm-DDA/pull/84737))
 * Mark Defense Mode as obsolete ([#84788](https://github.com/CleverRaven/Cataclysm-DDA/pull/84788))
@@ -174,11 +179,6 @@
 
 * fix crossing bridges in autodrive mode ([#84699](https://github.com/CleverRaven/Cataclysm-DDA/pull/84699))
 * Print "taming" foods for monsters ([#84700](https://github.com/CleverRaven/Cataclysm-DDA/pull/84700))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-01-17-0112 ([b9174c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-17-0112))
-
 * [0.I Branch Backport][feature] If force is set for EOC u_teleport, skip collision test ([#84704](https://github.com/CleverRaven/Cataclysm-DDA/pull/84704))
 * Channeled Magic ([#84711](https://github.com/CleverRaven/Cataclysm-DDA/pull/84711))
 * A hub merc NPC, and your new pal, Pat ([#84718](https://github.com/CleverRaven/Cataclysm-DDA/pull/84718))

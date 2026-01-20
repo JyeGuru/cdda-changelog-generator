@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-20-1604 (c0ad763)
 * Coconut audit (#84684)
 * Add two makeshift goedendags (#84737)
 * Mark Defense Mode as obsolete (#84788)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2026-01-17-0211 (0191a51)
 Cataclysm-DDA 0.I release candidate 2026-01-17-0149 (5bd2e56)
 * fix crossing bridges in autodrive mode (#84699)
 * Print "taming" foods for monsters (#84700)
-
-Cataclysm-DDA 0.I release candidate 2026-01-17-0112 (b9174c7)
 * [0.I Branch Backport][feature] If force is set for EOC u_teleport, skip collision test (#84704)
 * Channeled Magic (#84711)
 * A hub merc NPC, and your new pal, Pat (#84718)
