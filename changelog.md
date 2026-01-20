@@ -1,3 +1,5 @@
+* [Sky Island] Add wall transformation constructions, add flesh walls/floors ([#84763](https://github.com/CleverRaven/Cataclysm-DDA/pull/84763))
+* [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
 
 ---
 
@@ -217,7 +219,6 @@
 * Remove scrap metal from ig_vp_device ([#84642](https://github.com/CleverRaven/Cataclysm-DDA/pull/84642))
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
-* [bombastic perks] remove the perk mutation category ([#84628](https://github.com/CleverRaven/Cataclysm-DDA/pull/84628))
 * [Bugfixes] Fixed calculations in the heating ui and func for items counted by charge. ([#84632](https://github.com/CleverRaven/Cataclysm-DDA/pull/84632))
 * give hub hazardous environment suit an (on) description ([#84648](https://github.com/CleverRaven/Cataclysm-DDA/pull/84648))
 * Stop serializing bad vehicle item_locations ([#84651](https://github.com/CleverRaven/Cataclysm-DDA/pull/84651))
@@ -228,6 +229,5 @@
 * Techniqueify `HOOVES` ([#84662](https://github.com/CleverRaven/Cataclysm-DDA/pull/84662))
 * Fix segfaulting input_context lifetime issues. ([#84639](https://github.com/CleverRaven/Cataclysm-DDA/pull/84639))
 * [Xedra Evolved] Sidebar updates ([#84649](https://github.com/CleverRaven/Cataclysm-DDA/pull/84649))
-* Reduce tx pull concurrency to hopefully mitigate tx api failures ([#84629](https://github.com/CleverRaven/Cataclysm-DDA/pull/84629))
 * Fix butchering activity stopping after first corpse ([#84640](https://github.com/CleverRaven/Cataclysm-DDA/pull/84640))
 * Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
