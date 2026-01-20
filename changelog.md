@@ -1,3 +1,11 @@
+* Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))
+* Move ACT_TRAIN handler to activity_actor, obsolete ACT_TRAIN_TEACHER ([#84786](https://github.com/CleverRaven/Cataclysm-DDA/pull/84786))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-20-0649 ([88e58c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-0649))
+
+* Fix a sorting crash when dropping items that contain other to-be-sorted items ([#84800](https://github.com/CleverRaven/Cataclysm-DDA/pull/84800))
 
 ---
 
@@ -181,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-01-16-0816 ([3ae81d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0816))
 
 * Move ACT_ATM handler to activity_actor ([#84723](https://github.com/CleverRaven/Cataclysm-DDA/pull/84723))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-16-0347 ([119faae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-16-0347))
-
 * add `instant_death_chance` for weakpoints ([#84687](https://github.com/CleverRaven/Cataclysm-DDA/pull/84687))
 * [MoM] Add guaranteed Osiris chambers to skyscraper lab ([#84716](https://github.com/CleverRaven/Cataclysm-DDA/pull/84716))
 * Validate spell ids in learn_spell use_action ([#84712](https://github.com/CleverRaven/Cataclysm-DDA/pull/84712))
@@ -214,7 +217,6 @@
 * Remove scrap metal from ig_vp_device ([#84642](https://github.com/CleverRaven/Cataclysm-DDA/pull/84642))
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
-* [ Xedra Evolved ] Dreamer Mana Regen ([#84625](https://github.com/CleverRaven/Cataclysm-DDA/pull/84625))
 * [bombastic perks] remove the perk mutation category ([#84628](https://github.com/CleverRaven/Cataclysm-DDA/pull/84628))
 * [Bugfixes] Fixed calculations in the heating ui and func for items counted by charge. ([#84632](https://github.com/CleverRaven/Cataclysm-DDA/pull/84632))
 * give hub hazardous environment suit an (on) description ([#84648](https://github.com/CleverRaven/Cataclysm-DDA/pull/84648))
@@ -229,5 +231,3 @@
 * Reduce tx pull concurrency to hopefully mitigate tx api failures ([#84629](https://github.com/CleverRaven/Cataclysm-DDA/pull/84629))
 * Fix butchering activity stopping after first corpse ([#84640](https://github.com/CleverRaven/Cataclysm-DDA/pull/84640))
 * Expand monster and mutation wish description ([#84633](https://github.com/CleverRaven/Cataclysm-DDA/pull/84633))
-* Add a duration to Earthshaper's Clairvoyance spell ([#84624](https://github.com/CleverRaven/Cataclysm-DDA/pull/84624))
-* [MoM] Add Rainywood Oubliette dimension ([#84623](https://github.com/CleverRaven/Cataclysm-DDA/pull/84623))
