@@ -1,3 +1,10 @@
+* Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-20-2340 ([12d53a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-2340))
+
+* anomalous MP3 crash fix, snippets and cooldown ([#84811](https://github.com/CleverRaven/Cataclysm-DDA/pull/84811))
 
 ---
 
@@ -182,11 +189,6 @@
 * 25 more shipping container nest palettes ([#84726](https://github.com/CleverRaven/Cataclysm-DDA/pull/84726))
 * [Bugfixes] Tiny bug in item debug info and i18n ([#84735](https://github.com/CleverRaven/Cataclysm-DDA/pull/84735))
 * [MoM] Fix Obscurity crash ([#84736](https://github.com/CleverRaven/Cataclysm-DDA/pull/84736))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-17-0109 ([4fbdf16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-0109))
-
 * bugfix: give AR glasses etransfer_rate and data storage ([#84739](https://github.com/CleverRaven/Cataclysm-DDA/pull/84739))
 * Delete deprecrated translation workflow. ([#84741](https://github.com/CleverRaven/Cataclysm-DDA/pull/84741))
 * [Magiclysm] Fix Giant Growth spam ([#84721](https://github.com/CleverRaven/Cataclysm-DDA/pull/84721))
@@ -216,11 +218,9 @@
 * Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
-* give hub hazardous environment suit an (on) description ([#84648](https://github.com/CleverRaven/Cataclysm-DDA/pull/84648))
 * Stop serializing bad vehicle item_locations ([#84651](https://github.com/CleverRaven/Cataclysm-DDA/pull/84651))
 * Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
 * Add more safety and sanity checks around zzip loading ([#84658](https://github.com/CleverRaven/Cataclysm-DDA/pull/84658))
 * [Xedra Evolved] Increase hedge magick learning time ([#84659](https://github.com/CleverRaven/Cataclysm-DDA/pull/84659))
 * Increase hulk combat ability ([#84661](https://github.com/CleverRaven/Cataclysm-DDA/pull/84661))
 * Techniqueify `HOOVES` ([#84662](https://github.com/CleverRaven/Cataclysm-DDA/pull/84662))
-* [Xedra Evolved] Sidebar updates ([#84649](https://github.com/CleverRaven/Cataclysm-DDA/pull/84649))
