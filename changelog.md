@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-21-2043 ([870f00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-2043))
+
+* Clarify enchantment documentation around dialog conditions ([#84829](https://github.com/CleverRaven/Cataclysm-DDA/pull/84829))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-21-1520 ([4704670](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-1520))
 
 * Shell script for producing a csv from the MA gun data massaging instructions ([#84771](https://github.com/CleverRaven/Cataclysm-DDA/pull/84771))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-01-17-1932 ([7ae2d24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-1932))
 
 * Support fmtlib formatted translated strings with `_fmt()` ([#84724](https://github.com/CleverRaven/Cataclysm-DDA/pull/84724))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-17-1804 ([5e8f30a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-1804))
-
 * 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
 * Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
@@ -233,7 +234,6 @@
 * More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
 * Switch toe talons to using techniques  ([#84672](https://github.com/CleverRaven/Cataclysm-DDA/pull/84672))
 * Add Debug No Encumbrance mutation ([#84675](https://github.com/CleverRaven/Cataclysm-DDA/pull/84675))
-* deconstruct t_reinforced_glass_lab ([#84665](https://github.com/CleverRaven/Cataclysm-DDA/pull/84665))
 * You can dive underwater in oceans ([#84683](https://github.com/CleverRaven/Cataclysm-DDA/pull/84683))
 * Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
