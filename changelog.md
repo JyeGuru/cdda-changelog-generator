@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-21-1520 ([4704670](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-1520))
+
 * Shell script for producing a csv from the MA gun data massaging instructions ([#84771](https://github.com/CleverRaven/Cataclysm-DDA/pull/84771))
 * Contain spawned weak glue and slightly tweak probability ([#84813](https://github.com/CleverRaven/Cataclysm-DDA/pull/84813))
 * Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))
@@ -191,11 +196,6 @@
 
 * 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
 * Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-17-1645 ([ceaf3d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-1645))
-
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
