@@ -219,7 +219,6 @@
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
-* When completing Sky_Island missions with Innawood installed, gives bonus experience for Bombasticperks, Sorcerer, Perk-Melee, and Xedra_Evolved ([#84655](https://github.com/CleverRaven/Cataclysm-DDA/pull/84655))
 * Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
 * More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
 * Switch toe talons to using techniques  ([#84672](https://github.com/CleverRaven/Cataclysm-DDA/pull/84672))
