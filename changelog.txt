@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-21-0028 (15127c7)
 * Fix iterator deletion when cleaning up (#84810)
 
 Cataclysm-DDA experimental build 2026-01-20-2340 (12d53a5)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-21-0028 ([15127c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0028))
+
 * Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
 
 ---
