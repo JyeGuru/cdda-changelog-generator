@@ -1,3 +1,4 @@
+* Shell script for producing a csv from the MA gun data massaging instructions ([#84771](https://github.com/CleverRaven/Cataclysm-DDA/pull/84771))
 * Contain spawned weak glue and slightly tweak probability ([#84813](https://github.com/CleverRaven/Cataclysm-DDA/pull/84813))
 * Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))
 * [Xedra Evolved] Add `former OA field agent` zombie to labs ([#84818](https://github.com/CleverRaven/Cataclysm-DDA/pull/84818))
@@ -238,4 +239,3 @@
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
 * Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
-* Techniqueify `HOOVES` ([#84662](https://github.com/CleverRaven/Cataclysm-DDA/pull/84662))
