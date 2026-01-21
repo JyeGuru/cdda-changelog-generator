@@ -1,3 +1,9 @@
+* Contain spawned weak glue and slightly tweak probability (#84813)
+* Move ACT_TOOLMOD_ADD to activity_actor (#84817)
+* [Xedra Evolved] Add `former OA field agent` zombie to labs (#84818)
+
+Cataclysm-DDA experimental build 2026-01-21-1416 (465293a)
+* Add new EXTRADIMENSIONAL flag to the ruined tower (#84823)
 
 Cataclysm-DDA experimental build 2026-01-21-0316 (f24a1ff)
 * [MoM] Matrix crystals are listed as artifacts (#84780)
@@ -142,7 +148,4 @@ Cataclysm-DDA experimental build 2026-01-17-1645 (ceaf3d1)
 * [alt-map-key] Add new overmap tiles to mod (#84667)
 * Feral preppers aren't filling their backpacks with cough syrup (#84670)
 * Add more safety and sanity checks around zzip loading (#84666)
-* Add more safety and sanity checks around zzip loading (#84658)
-* [Xedra Evolved] Increase hedge magick learning time (#84659)
-* Increase hulk combat ability (#84661)
 * Techniqueify `HOOVES` (#84662)

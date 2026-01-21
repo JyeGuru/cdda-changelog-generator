@@ -1,3 +1,12 @@
+* Contain spawned weak glue and slightly tweak probability ([#84813](https://github.com/CleverRaven/Cataclysm-DDA/pull/84813))
+* Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))
+* [Xedra Evolved] Add `former OA field agent` zombie to labs ([#84818](https://github.com/CleverRaven/Cataclysm-DDA/pull/84818))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-21-1416 ([465293a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-1416))
+
+* Add new EXTRADIMENSIONAL flag to the ruined tower ([#84823](https://github.com/CleverRaven/Cataclysm-DDA/pull/84823))
 
 ---
 
@@ -229,7 +238,4 @@
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
 * Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
-* Add more safety and sanity checks around zzip loading ([#84658](https://github.com/CleverRaven/Cataclysm-DDA/pull/84658))
-* [Xedra Evolved] Increase hedge magick learning time ([#84659](https://github.com/CleverRaven/Cataclysm-DDA/pull/84659))
-* Increase hulk combat ability ([#84661](https://github.com/CleverRaven/Cataclysm-DDA/pull/84661))
 * Techniqueify `HOOVES` ([#84662](https://github.com/CleverRaven/Cataclysm-DDA/pull/84662))
