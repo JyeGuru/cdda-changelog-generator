@@ -1,3 +1,11 @@
+* [alt-map-key] Add new overmap terrain ([#84816](https://github.com/CleverRaven/Cataclysm-DDA/pull/84816))
+* Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-21-2325 ([38ff867](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-2325))
+
+* Increase loudness of noisemake tools ([#84828](https://github.com/CleverRaven/Cataclysm-DDA/pull/84828))
 
 ---
 
@@ -189,11 +197,6 @@
 
 * Move void spider lair obsoletion to correct folder and fix omt ids ([#84752](https://github.com/CleverRaven/Cataclysm-DDA/pull/84752))
 * pants varients are clear and do not lie about function  ([#84745](https://github.com/CleverRaven/Cataclysm-DDA/pull/84745))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-17-1932 ([7ae2d24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-1932))
-
 * Support fmtlib formatted translated strings with `_fmt()` ([#84724](https://github.com/CleverRaven/Cataclysm-DDA/pull/84724))
 * 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
 * Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
@@ -236,6 +239,3 @@
 * Add Debug No Encumbrance mutation ([#84675](https://github.com/CleverRaven/Cataclysm-DDA/pull/84675))
 * You can dive underwater in oceans ([#84683](https://github.com/CleverRaven/Cataclysm-DDA/pull/84683))
 * Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
-* [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
-* Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
-* Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
