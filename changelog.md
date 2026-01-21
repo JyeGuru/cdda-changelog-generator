@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-21-0316 ([f24a1ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0316))
+
+* [MoM] Matrix crystals are listed as artifacts ([#84780](https://github.com/CleverRaven/Cataclysm-DDA/pull/84780))
+* Bugfix repetitive popup from Pat ([#84785](https://github.com/CleverRaven/Cataclysm-DDA/pull/84785))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-21-0219 ([b46dc85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0219))
+
+* [Bugfixes] You can't fold veh with furn in it. ([#84787](https://github.com/CleverRaven/Cataclysm-DDA/pull/84787))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-21-0028 ([15127c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0028))
 
 * Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
@@ -176,13 +189,7 @@
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-17-0741 ([411880b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-0741))
-
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* Sort mod translations ([#84653](https://github.com/CleverRaven/Cataclysm-DDA/pull/84653))
 * XEDRA field notebook III: the prepper scientist ([#84688](https://github.com/CleverRaven/Cataclysm-DDA/pull/84688))
 * Sidebar headers to differentiate terrain vs furniture ([#84698](https://github.com/CleverRaven/Cataclysm-DDA/pull/84698))
 * fix crossing bridges in autodrive mode ([#84699](https://github.com/CleverRaven/Cataclysm-DDA/pull/84699))
@@ -209,7 +216,6 @@
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
 * Fix crash from recursive debugmsg invocation from invalid format in firing code ([#84691](https://github.com/CleverRaven/Cataclysm-DDA/pull/84691))
-* Freeze water into ice in winter. (1/?) ([#84654](https://github.com/CleverRaven/Cataclysm-DDA/pull/84654))
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
@@ -223,7 +229,6 @@
 * Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
 * [alt-map-key] Add new overmap tiles to mod ([#84667](https://github.com/CleverRaven/Cataclysm-DDA/pull/84667))
 * Feral preppers aren't filling their backpacks with cough syrup ([#84670](https://github.com/CleverRaven/Cataclysm-DDA/pull/84670))
-* Stop serializing bad vehicle item_locations ([#84651](https://github.com/CleverRaven/Cataclysm-DDA/pull/84651))
 * Add more safety and sanity checks around zzip loading ([#84666](https://github.com/CleverRaven/Cataclysm-DDA/pull/84666))
 * Add more safety and sanity checks around zzip loading ([#84658](https://github.com/CleverRaven/Cataclysm-DDA/pull/84658))
 * [Xedra Evolved] Increase hedge magick learning time ([#84659](https://github.com/CleverRaven/Cataclysm-DDA/pull/84659))
