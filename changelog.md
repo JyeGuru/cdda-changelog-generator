@@ -237,6 +237,5 @@
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
-* Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
 * More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
 * You can dive underwater in oceans ([#84683](https://github.com/CleverRaven/Cataclysm-DDA/pull/84683))
