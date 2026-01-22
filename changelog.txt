@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-01-22-1944 (f1bb01e)
+* [Xedra Evolved] Extremely rare chance for zombie scientists to have CBMs (#84830)
 * [Bugfixes] Debug menu edit creature string fault (#84842)
 
 Cataclysm-DDA experimental build 2026-01-22-1804 (63f192e)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-01-19-0102 (9037afa)
 
 Cataclysm-DDA experimental build 2026-01-19-0008 (3a027a7)
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms (#84773)
-
-Cataclysm-DDA experimental build 2026-01-18-1942 (bd5eae0)
 * Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood (#84764)
 * Fixed debug msg in mapgen that caused debug errors. (#84768)
 * Better furniture loading onto vehicles (#84769)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-01-18-1942 (bd5eae0)
 * Fix some random UB (#84692)
 * [Xedra Evolved] Fix Dreamer regen (#84690)
 * Convert Curled Horns to integrated armor with attack techniques (#84686)
-* More input popup migration (#84685)

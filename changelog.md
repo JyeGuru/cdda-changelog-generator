@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-22-1944 ([f1bb01e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-1944))
+
+* [Xedra Evolved] Extremely rare chance for zombie scientists to have CBMs ([#84830](https://github.com/CleverRaven/Cataclysm-DDA/pull/84830))
 * [Bugfixes] Debug menu edit creature string fault ([#84842](https://github.com/CleverRaven/Cataclysm-DDA/pull/84842))
 
 ---
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-01-19-0008 ([3a027a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0008))
 
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-18-1942 ([bd5eae0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-1942))
-
 * Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood ([#84764](https://github.com/CleverRaven/Cataclysm-DDA/pull/84764))
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
 * Better furniture loading onto vehicles ([#84769](https://github.com/CleverRaven/Cataclysm-DDA/pull/84769))
@@ -228,4 +229,3 @@
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
-* More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
