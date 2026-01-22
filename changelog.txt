@@ -1,3 +1,7 @@
+* [Bugfixes] Debug menu edit creature string fault (#84842)
+
+Cataclysm-DDA experimental build 2026-01-22-1712 (63f192e)
+* Fix field debug info format specifiers (#84843)
 
 Cataclysm-DDA experimental build 2026-01-22-0527 (093cc4e)
 * Remove ACT_DISMEMBER handler (dead code) (#84838)
@@ -48,9 +52,6 @@ Cataclysm-DDA experimental build 2026-01-20-1939 (ee2f59c)
 
 Cataclysm-DDA 0.I release candidate 2026-01-20-1811 (a799deb)
 * Mark Defense Mode as obsolete (#84812)
-
-Cataclysm-DDA experimental build 2026-01-20-1604 (c0ad763)
-* Coconut audit (#84684)
 * Add two makeshift goedendags (#84737)
 * Mark Defense Mode as obsolete (#84788)
 * Fix medical ui and irradiation computer number display (#84776)
@@ -100,8 +101,6 @@ Cataclysm-DDA experimental build 2026-01-18-1942 (bd5eae0)
 
 Cataclysm-DDA experimental build 2026-01-18-1855 (95cdd3d)
 * Better furniture loading onto vehicles (#84769)
-
-Cataclysm-DDA experimental build 2026-01-18-1125 (3b2906b)
 * [Bugfixes] Fix ethereal item info (#84748)
 * [bugfix] Fixing error and tips msg for water purification tablets (#84747)
 * Use proper pronoun in credits (#84765)
@@ -148,4 +147,3 @@ Cataclysm-DDA experimental build 2026-01-18-1125 (3b2906b)
 * [Xedra Evolved] Fix Dreamer regen (#84690)
 * Convert Curled Horns to integrated armor with attack techniques (#84686)
 * More input popup migration (#84685)
-* You can dive underwater in oceans (#84683)
