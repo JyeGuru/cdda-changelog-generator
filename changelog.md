@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-22-0023 ([72cc3cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0023))
+
 * [alt-map-key] Add new overmap terrain ([#84816](https://github.com/CleverRaven/Cataclysm-DDA/pull/84816))
 * Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
 
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-01-18-0358 ([a81e031](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-0358))
 
 * remove "it is awkward to use without practice" from holsters and sheath ([#84762](https://github.com/CleverRaven/Cataclysm-DDA/pull/84762))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-17-2042 ([b17a59f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-17-2042))
-
 * Move void spider lair obsoletion to correct folder and fix omt ids ([#84752](https://github.com/CleverRaven/Cataclysm-DDA/pull/84752))
 * pants varients are clear and do not lie about function  ([#84745](https://github.com/CleverRaven/Cataclysm-DDA/pull/84745))
 * Support fmtlib formatted translated strings with `_fmt()` ([#84724](https://github.com/CleverRaven/Cataclysm-DDA/pull/84724))
