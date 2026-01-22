@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-01-22-0426 (d111ff5)
+* UI: Allow utf-8 input in curses TUI (#84744)
+
+Cataclysm-DDA experimental build 2026-01-22-0345 (e493fab)
 * Migrate itype ids when loading pocket settings (#84806)
 
 Cataclysm-DDA experimental build 2026-01-22-0247 (e3f8705)
@@ -99,13 +104,9 @@ Cataclysm-DDA experimental build 2026-01-18-1125 (3b2906b)
 Cataclysm-DDA experimental build 2026-01-18-0940 (1ca1ddc)
 * [bugfix] Fixing error and tips msg for water purification tablets (#84747)
 * Use proper pronoun in credits (#84765)
-
-Cataclysm-DDA experimental build 2026-01-18-0448 (2cf9177)
 * Make item count more visible in AIM (#84743)
 * Use proper pronoun in credits (#84761)
 * make glock 27 group contain glock 27 (#84759)
-
-Cataclysm-DDA experimental build 2026-01-18-0358 (a81e031)
 * remove "it is awkward to use without practice" from holsters and sheath (#84762)
 * Move void spider lair obsoletion to correct folder and fix omt ids (#84752)
 * pants varients are clear and do not lie about function  (#84745)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2026-01-18-0358 (a81e031)
 * Convert Curled Horns to integrated armor with attack techniques (#84686)
 * Move ACT_TREE_COMMUNION handler to activity_actor (#84678)
 * More input popup migration (#84685)
-* Add Debug No Encumbrance mutation (#84675)
 * You can dive underwater in oceans (#84683)
