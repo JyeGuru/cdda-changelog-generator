@@ -2,7 +2,7 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-01-22-1712 ([63f192e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-1712))
+#### Cataclysm-DDA experimental build 2026-01-22-1804 ([63f192e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-1804))
 
 * Fix field debug info format specifiers ([#84843](https://github.com/CleverRaven/Cataclysm-DDA/pull/84843))
 
@@ -182,11 +182,6 @@
 
 * Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood ([#84764](https://github.com/CleverRaven/Cataclysm-DDA/pull/84764))
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-18-1855 ([95cdd3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-1855))
-
 * Better furniture loading onto vehicles ([#84769](https://github.com/CleverRaven/Cataclysm-DDA/pull/84769))
 * [Bugfixes] Fix ethereal item info ([#84748](https://github.com/CleverRaven/Cataclysm-DDA/pull/84748))
 * [bugfix] Fixing error and tips msg for water purification tablets ([#84747](https://github.com/CleverRaven/Cataclysm-DDA/pull/84747))

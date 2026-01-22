@@ -1,6 +1,6 @@
 * [Bugfixes] Debug menu edit creature string fault (#84842)
 
-Cataclysm-DDA experimental build 2026-01-22-1712 (63f192e)
+Cataclysm-DDA experimental build 2026-01-22-1804 (63f192e)
 * Fix field debug info format specifiers (#84843)
 
 Cataclysm-DDA experimental build 2026-01-22-0527 (093cc4e)
@@ -98,8 +98,6 @@ Cataclysm-DDA experimental build 2026-01-19-0008 (3a027a7)
 Cataclysm-DDA experimental build 2026-01-18-1942 (bd5eae0)
 * Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood (#84764)
 * Fixed debug msg in mapgen that caused debug errors. (#84768)
-
-Cataclysm-DDA experimental build 2026-01-18-1855 (95cdd3d)
 * Better furniture loading onto vehicles (#84769)
 * [Bugfixes] Fix ethereal item info (#84748)
 * [bugfix] Fixing error and tips msg for water purification tablets (#84747)
