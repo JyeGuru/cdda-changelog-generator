@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-22-2118 ([f533a39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-2118))
+
+* Move ACT_PULL_CREATURE handler to activity_actor ([#84840](https://github.com/CleverRaven/Cataclysm-DDA/pull/84840))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-22-1944 ([f1bb01e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-1944))
 
 * [Xedra Evolved] Extremely rare chance for zombie scientists to have CBMs ([#84830](https://github.com/CleverRaven/Cataclysm-DDA/pull/84830))
@@ -175,11 +181,6 @@
 * Freeze water into ice in winter with phase change system.（2/?） ([#84697](https://github.com/CleverRaven/Cataclysm-DDA/pull/84697))
 * Add a new display mode to the construction menu: ready. ([#84767](https://github.com/CleverRaven/Cataclysm-DDA/pull/84767))
 * Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-19-0008 ([3a027a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0008))
-
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))
 * Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood ([#84764](https://github.com/CleverRaven/Cataclysm-DDA/pull/84764))
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
@@ -228,4 +229,3 @@
 * Fix crash from recursive debugmsg invocation from invalid format in firing code ([#84691](https://github.com/CleverRaven/Cataclysm-DDA/pull/84691))
 * Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
 * [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))
-* Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
