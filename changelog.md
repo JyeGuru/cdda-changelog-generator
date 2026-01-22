@@ -1,3 +1,10 @@
+* Migrate itype ids when loading pocket settings ([#84806](https://github.com/CleverRaven/Cataclysm-DDA/pull/84806))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-22-0247 ([e3f8705](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0247))
+
+* [MoM] Add spoiler doc to explain how power learning works ([#84834](https://github.com/CleverRaven/Cataclysm-DDA/pull/84834))
 
 ---
 
@@ -175,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-01-18-0940 ([1ca1ddc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-0940))
 
 * [bugfix] Fixing error and tips msg for water purification tablets ([#84747](https://github.com/CleverRaven/Cataclysm-DDA/pull/84747))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-01-18-0821 ([bfda09c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-18-0821))
-
 * Use proper pronoun in credits ([#84765](https://github.com/CleverRaven/Cataclysm-DDA/pull/84765))
 
 ---
@@ -235,7 +237,5 @@
 * Convert Curled Horns to integrated armor with attack techniques ([#84686](https://github.com/CleverRaven/Cataclysm-DDA/pull/84686))
 * Move ACT_TREE_COMMUNION handler to activity_actor ([#84678](https://github.com/CleverRaven/Cataclysm-DDA/pull/84678))
 * More input popup migration ([#84685](https://github.com/CleverRaven/Cataclysm-DDA/pull/84685))
-* Switch toe talons to using techniques  ([#84672](https://github.com/CleverRaven/Cataclysm-DDA/pull/84672))
 * Add Debug No Encumbrance mutation ([#84675](https://github.com/CleverRaven/Cataclysm-DDA/pull/84675))
 * You can dive underwater in oceans ([#84683](https://github.com/CleverRaven/Cataclysm-DDA/pull/84683))
-* Migrate some debug menu input popups ([#84671](https://github.com/CleverRaven/Cataclysm-DDA/pull/84671))
