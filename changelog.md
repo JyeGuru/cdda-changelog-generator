@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-22-0527 ([093cc4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0527))
+
+* Remove ACT_DISMEMBER handler (dead code) ([#84838](https://github.com/CleverRaven/Cataclysm-DDA/pull/84838))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-22-0426 ([d111ff5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0426))
 
 * UI: Allow utf-8 input in curses TUI ([#84744](https://github.com/CleverRaven/Cataclysm-DDA/pull/84744))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-01-18-1125 ([3b2906b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-1125))
 
 * [Bugfixes] Fix ethereal item info ([#84748](https://github.com/CleverRaven/Cataclysm-DDA/pull/84748))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-18-0940 ([1ca1ddc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-18-0940))
-
 * [bugfix] Fixing error and tips msg for water purification tablets ([#84747](https://github.com/CleverRaven/Cataclysm-DDA/pull/84747))
 * Use proper pronoun in credits ([#84765](https://github.com/CleverRaven/Cataclysm-DDA/pull/84765))
 * Make item count more visible in AIM ([#84743](https://github.com/CleverRaven/Cataclysm-DDA/pull/84743))
