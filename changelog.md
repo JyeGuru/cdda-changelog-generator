@@ -1,3 +1,9 @@
+* Remove grenade hacks from direct spawn, make lab bots spawn flashbang hacks instead ([#84835](https://github.com/CleverRaven/Cataclysm-DDA/pull/84835))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-23-1904 ([ae33b18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1904))
+
 * Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
 
 ---
@@ -178,11 +184,6 @@
 
 * [Sky Island] Add wall transformation constructions, add flesh walls/floors ([#84763](https://github.com/CleverRaven/Cataclysm-DDA/pull/84763))
 * [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-20-0732 ([060de42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-0732))
-
 * Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))
 * Move ACT_TRAIN handler to activity_actor, obsolete ACT_TRAIN_TEACHER ([#84786](https://github.com/CleverRaven/Cataclysm-DDA/pull/84786))
 * Fix a sorting crash when dropping items that contain other to-be-sorted items ([#84800](https://github.com/CleverRaven/Cataclysm-DDA/pull/84800))
@@ -212,7 +213,6 @@
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* Channeled Magic ([#84711](https://github.com/CleverRaven/Cataclysm-DDA/pull/84711))
 * A hub merc NPC, and your new pal, Pat ([#84718](https://github.com/CleverRaven/Cataclysm-DDA/pull/84718))
 * Better contrast for blue-on-black color ([#84720](https://github.com/CleverRaven/Cataclysm-DDA/pull/84720))
 * 25 more shipping container nest palettes ([#84726](https://github.com/CleverRaven/Cataclysm-DDA/pull/84726))
