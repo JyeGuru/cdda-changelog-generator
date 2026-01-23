@@ -1,3 +1,11 @@
+* Don't double assign melee actor range ([#84852](https://github.com/CleverRaven/Cataclysm-DDA/pull/84852))
+* Fix typos related with HEW in data/json/items/generic.json and two cbms.json ([#84859](https://github.com/CleverRaven/Cataclysm-DDA/pull/84859))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-23-1221 ([78eab36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1221))
+
+* Knife sharpeners ([#84857](https://github.com/CleverRaven/Cataclysm-DDA/pull/84857))
 
 ---
 
@@ -174,17 +182,11 @@
 #### Cataclysm-DDA experimental build 2026-01-20-0649 ([88e58c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-0649))
 
 * Fix a sorting crash when dropping items that contain other to-be-sorted items ([#84800](https://github.com/CleverRaven/Cataclysm-DDA/pull/84800))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-19-2314 ([ae6f84a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-2314))
-
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))
 * Move shirts to NORMAL layer and hoodies to OUTER layer ([#84705](https://github.com/CleverRaven/Cataclysm-DDA/pull/84705))
 * Add connective Outcrop layer ([#84727](https://github.com/CleverRaven/Cataclysm-DDA/pull/84727))
-* Freeze water into ice in winter with phase change system.（2/?） ([#84697](https://github.com/CleverRaven/Cataclysm-DDA/pull/84697))
 * Add a new display mode to the construction menu: ready. ([#84767](https://github.com/CleverRaven/Cataclysm-DDA/pull/84767))
 * Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))
@@ -207,8 +209,6 @@
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* Sidebar headers to differentiate terrain vs furniture ([#84698](https://github.com/CleverRaven/Cataclysm-DDA/pull/84698))
-* fix crossing bridges in autodrive mode ([#84699](https://github.com/CleverRaven/Cataclysm-DDA/pull/84699))
 * Print "taming" foods for monsters ([#84700](https://github.com/CleverRaven/Cataclysm-DDA/pull/84700))
 * [0.I Branch Backport][feature] If force is set for EOC u_teleport, skip collision test ([#84704](https://github.com/CleverRaven/Cataclysm-DDA/pull/84704))
 * Channeled Magic ([#84711](https://github.com/CleverRaven/Cataclysm-DDA/pull/84711))
