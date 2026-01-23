@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-23-2140 ([211cb1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-2140))
+
 * Remove grenade hacks from direct spawn, make lab bots spawn flashbang hacks instead ([#84835](https://github.com/CleverRaven/Cataclysm-DDA/pull/84835))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-01-20-1517 ([91e6637](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-1517))
 
 * Add ruined towers to Highlands ([#84801](https://github.com/CleverRaven/Cataclysm-DDA/pull/84801))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-20-0931 ([b4e642d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-0931))
-
 * [Sky Island] Add wall transformation constructions, add flesh walls/floors ([#84763](https://github.com/CleverRaven/Cataclysm-DDA/pull/84763))
 * [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
 * Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-23-2140 (211cb1a)
 * Remove grenade hacks from direct spawn, make lab bots spawn flashbang hacks instead (#84835)
 
 Cataclysm-DDA experimental build 2026-01-23-1904 (ae33b18)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2026-01-20-1939 (ee2f59c)
 
 Cataclysm-DDA experimental build 2026-01-20-1517 (91e6637)
 * Add ruined towers to Highlands (#84801)
-
-Cataclysm-DDA experimental build 2026-01-20-0931 (b4e642d)
 * [Sky Island] Add wall transformation constructions, add flesh walls/floors (#84763)
 * [u] add captions under screenshots (#84795)
 * Fix spellcasting format specifier mismatch (#84798)
