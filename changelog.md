@@ -188,7 +188,6 @@
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))
-* Move shirts to NORMAL layer and hoodies to OUTER layer ([#84705](https://github.com/CleverRaven/Cataclysm-DDA/pull/84705))
 * Add connective Outcrop layer ([#84727](https://github.com/CleverRaven/Cataclysm-DDA/pull/84727))
 * Add a new display mode to the construction menu: ready. ([#84767](https://github.com/CleverRaven/Cataclysm-DDA/pull/84767))
 * Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
