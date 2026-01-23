@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-23-2347 (bc61297)
 * Updated logic for sunlight availability for planting (#84803)
 * [Innawood] Add graphite deposits (#84867)
 
