@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-23-0623 (40860c8)
 * Disable invalid file operations for empty e-devices (#84847)
 * Implement flat tire fault and means to repair it (#84775)
 
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2026-01-19-2314 (ae6f84a)
 
 Cataclysm-DDA experimental build 2026-01-19-2226 (8a73a8c)
 * Whitelist field notebook lakeside shack (#84791)
-
-Cataclysm-DDA experimental build 2026-01-19-2137 (272efdd)
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices (#84779)
 * Move shirts to NORMAL layer and hoodies to OUTER layer (#84705)
 * Add connective Outcrop layer (#84727)
