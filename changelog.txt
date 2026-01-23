@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-23-0821 (cd36179)
+* Move ACT_MEND_ITEM to activity_actor (#84853)
+
 Cataclysm-DDA experimental build 2026-01-23-0623 (40860c8)
 * Disable invalid file operations for empty e-devices (#84847)
 * Implement flat tire fault and means to repair it (#84775)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2026-01-20-0649 (88e58c6)
 
 Cataclysm-DDA experimental build 2026-01-19-2314 (ae6f84a)
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials (#84790)
-
-Cataclysm-DDA experimental build 2026-01-19-2226 (8a73a8c)
 * Whitelist field notebook lakeside shack (#84791)
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices (#84779)
 * Move shirts to NORMAL layer and hoodies to OUTER layer (#84705)
