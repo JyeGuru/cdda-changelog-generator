@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-23-1407 ([f59799e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1407))
+
+* Devourers gain abilities and resilience from devouring ([#84856](https://github.com/CleverRaven/Cataclysm-DDA/pull/84856))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-23-1322 ([f1e44e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1322))
 
 * Set of clothes --> Takes off ALL items, always ([#84844](https://github.com/CleverRaven/Cataclysm-DDA/pull/84844))
@@ -178,11 +184,6 @@
 
 * Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))
 * Move ACT_TRAIN handler to activity_actor, obsolete ACT_TRAIN_TEACHER ([#84786](https://github.com/CleverRaven/Cataclysm-DDA/pull/84786))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-20-0649 ([88e58c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-0649))
-
 * Fix a sorting crash when dropping items that contain other to-be-sorted items ([#84800](https://github.com/CleverRaven/Cataclysm-DDA/pull/84800))
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
@@ -211,7 +212,6 @@
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* [0.I Branch Backport][feature] If force is set for EOC u_teleport, skip collision test ([#84704](https://github.com/CleverRaven/Cataclysm-DDA/pull/84704))
 * Channeled Magic ([#84711](https://github.com/CleverRaven/Cataclysm-DDA/pull/84711))
 * A hub merc NPC, and your new pal, Pat ([#84718](https://github.com/CleverRaven/Cataclysm-DDA/pull/84718))
 * Better contrast for blue-on-black color ([#84720](https://github.com/CleverRaven/Cataclysm-DDA/pull/84720))
