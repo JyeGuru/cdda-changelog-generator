@@ -1,3 +1,5 @@
+* Updated logic for sunlight availability for planting ([#84803](https://github.com/CleverRaven/Cataclysm-DDA/pull/84803))
+* [Innawood] Add graphite deposits ([#84867](https://github.com/CleverRaven/Cataclysm-DDA/pull/84867))
 
 ---
 
@@ -222,10 +224,8 @@
 * bugfix: give AR glasses etransfer_rate and data storage ([#84739](https://github.com/CleverRaven/Cataclysm-DDA/pull/84739))
 * Delete deprecrated translation workflow. ([#84741](https://github.com/CleverRaven/Cataclysm-DDA/pull/84741))
 * [Magiclysm] Fix Giant Growth spam ([#84721](https://github.com/CleverRaven/Cataclysm-DDA/pull/84721))
-* Fix behavior when many dialogue options are present. (ncurses only issue) ([#84713](https://github.com/CleverRaven/Cataclysm-DDA/pull/84713))
 * [Bugfixes] Close item info's command bar after sub-interface open ([#84734](https://github.com/CleverRaven/Cataclysm-DDA/pull/84734))
 * [Magiclysm] Reduce the cost of Vegetative Poultice ([#84728](https://github.com/CleverRaven/Cataclysm-DDA/pull/84728))
 * Move ACT_ATM handler to activity_actor ([#84723](https://github.com/CleverRaven/Cataclysm-DDA/pull/84723))
 * [MoM] Add guaranteed Osiris chambers to skyscraper lab ([#84716](https://github.com/CleverRaven/Cataclysm-DDA/pull/84716))
-* Move Pointed Horns to techniques ([#84715](https://github.com/CleverRaven/Cataclysm-DDA/pull/84715))
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
