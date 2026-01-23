@@ -1,3 +1,4 @@
+* Scale devourer flesh raptor generation with size (#84863)
 
 Cataclysm-DDA experimental build 2026-01-23-1407 (f59799e)
 * Devourers gain abilities and resilience from devouring (#84856)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-01-20-0732 (060de42)
 * Validate spell ids in learn_spell use_action (#84712)
 * Move Pointed Horns to techniques (#84715)
 * Fix some string placeholders (#84717)
-* [Xedra Evolved] Fix being allowed to study occult texts in complete darkness (#84709)

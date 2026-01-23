@@ -1,3 +1,4 @@
+* Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
 
 ---
 
@@ -228,4 +229,3 @@
 * Validate spell ids in learn_spell use_action ([#84712](https://github.com/CleverRaven/Cataclysm-DDA/pull/84712))
 * Move Pointed Horns to techniques ([#84715](https://github.com/CleverRaven/Cataclysm-DDA/pull/84715))
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
-* [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
