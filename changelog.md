@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-23-0246 ([5a99e11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0246))
+
+* Buff brute damage slightly ([#84815](https://github.com/CleverRaven/Cataclysm-DDA/pull/84815))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-23-0145 ([ac20bdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0145))
+
+* Globally unique Lacroix ([#84845](https://github.com/CleverRaven/Cataclysm-DDA/pull/84845))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-22-2118 ([f533a39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-2118))
 
 * Move ACT_PULL_CREATURE handler to activity_actor ([#84840](https://github.com/CleverRaven/Cataclysm-DDA/pull/84840))
@@ -167,17 +179,7 @@
 #### Cataclysm-DDA experimental build 2026-01-19-0750 ([f0748aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0750))
 
 * Move shirts to NORMAL layer and hoodies to OUTER layer ([#84705](https://github.com/CleverRaven/Cataclysm-DDA/pull/84705))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-19-0148 ([9486259](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0148))
-
 * Add connective Outcrop layer ([#84727](https://github.com/CleverRaven/Cataclysm-DDA/pull/84727))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-19-0102 ([9037afa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0102))
-
 * Freeze water into ice in winter with phase change system.（2/?） ([#84697](https://github.com/CleverRaven/Cataclysm-DDA/pull/84697))
 * Add a new display mode to the construction menu: ready. ([#84767](https://github.com/CleverRaven/Cataclysm-DDA/pull/84767))
 * Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
@@ -201,7 +203,6 @@
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* XEDRA field notebook III: the prepper scientist ([#84688](https://github.com/CleverRaven/Cataclysm-DDA/pull/84688))
 * Sidebar headers to differentiate terrain vs furniture ([#84698](https://github.com/CleverRaven/Cataclysm-DDA/pull/84698))
 * fix crossing bridges in autodrive mode ([#84699](https://github.com/CleverRaven/Cataclysm-DDA/pull/84699))
 * Print "taming" foods for monsters ([#84700](https://github.com/CleverRaven/Cataclysm-DDA/pull/84700))
@@ -219,7 +220,6 @@
 * [Bugfixes] Close item info's command bar after sub-interface open ([#84734](https://github.com/CleverRaven/Cataclysm-DDA/pull/84734))
 * [Magiclysm] Reduce the cost of Vegetative Poultice ([#84728](https://github.com/CleverRaven/Cataclysm-DDA/pull/84728))
 * Move ACT_ATM handler to activity_actor ([#84723](https://github.com/CleverRaven/Cataclysm-DDA/pull/84723))
-* add `instant_death_chance` for weakpoints ([#84687](https://github.com/CleverRaven/Cataclysm-DDA/pull/84687))
 * [MoM] Add guaranteed Osiris chambers to skyscraper lab ([#84716](https://github.com/CleverRaven/Cataclysm-DDA/pull/84716))
 * Validate spell ids in learn_spell use_action ([#84712](https://github.com/CleverRaven/Cataclysm-DDA/pull/84712))
 * Fix x-ray vision of NPC underwear ([#84703](https://github.com/CleverRaven/Cataclysm-DDA/pull/84703))

@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-01-23-0246 (5a99e11)
+* Buff brute damage slightly (#84815)
+
+Cataclysm-DDA experimental build 2026-01-23-0145 (ac20bdc)
+* Globally unique Lacroix (#84845)
+
 Cataclysm-DDA experimental build 2026-01-22-2118 (f533a39)
 * Move ACT_PULL_CREATURE handler to activity_actor (#84840)
 
@@ -89,11 +95,7 @@ Cataclysm-DDA experimental build 2026-01-19-2137 (272efdd)
 
 Cataclysm-DDA experimental build 2026-01-19-0750 (f0748aa)
 * Move shirts to NORMAL layer and hoodies to OUTER layer (#84705)
-
-Cataclysm-DDA experimental build 2026-01-19-0148 (9486259)
 * Add connective Outcrop layer (#84727)
-
-Cataclysm-DDA experimental build 2026-01-19-0102 (9037afa)
 * Freeze water into ice in winter with phase change system.（2/?） (#84697)
 * Add a new display mode to the construction menu: ready. (#84767)
 * Move ANTLERS to techniques  (#84772)
@@ -117,7 +119,6 @@ Cataclysm-DDA experimental build 2026-01-19-0102 (9037afa)
 * UI: Fix crashes when viewing rules for NPCs. (#84740)
 * Fix push translation workflow skip condition test. (#84742)
 * Remove erroneous rare lab items from shipping containers (#84749)
-* XEDRA field notebook III: the prepper scientist (#84688)
 * Sidebar headers to differentiate terrain vs furniture (#84698)
 * fix crossing bridges in autodrive mode (#84699)
 * Print "taming" foods for monsters (#84700)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2026-01-19-0102 (9037afa)
 * [Bugfixes] Close item info's command bar after sub-interface open (#84734)
 * [Magiclysm] Reduce the cost of Vegetative Poultice (#84728)
 * Move ACT_ATM handler to activity_actor (#84723)
-* add `instant_death_chance` for weakpoints (#84687)
 * [MoM] Add guaranteed Osiris chambers to skyscraper lab (#84716)
 * Validate spell ids in learn_spell use_action (#84712)
 * Fix x-ray vision of NPC underwear (#84703)
