@@ -1,3 +1,11 @@
+* Disable invalid file operations for empty e-devices ([#84847](https://github.com/CleverRaven/Cataclysm-DDA/pull/84847))
+* Implement flat tire fault and means to repair it ([#84775](https://github.com/CleverRaven/Cataclysm-DDA/pull/84775))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-23-0526 ([5609240](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0526))
+
+* Natural healing instead of medicine damages health ([#84850](https://github.com/CleverRaven/Cataclysm-DDA/pull/84850))
 
 ---
 
@@ -173,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-01-19-2137 ([272efdd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-2137))
 
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-19-0750 ([f0748aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-19-0750))
-
 * Move shirts to NORMAL layer and hoodies to OUTER layer ([#84705](https://github.com/CleverRaven/Cataclysm-DDA/pull/84705))
 * Add connective Outcrop layer ([#84727](https://github.com/CleverRaven/Cataclysm-DDA/pull/84727))
 * Freeze water into ice in winter with phase change system.（2/?） ([#84697](https://github.com/CleverRaven/Cataclysm-DDA/pull/84697))
@@ -226,6 +229,3 @@
 * Move Pointed Horns to techniques ([#84715](https://github.com/CleverRaven/Cataclysm-DDA/pull/84715))
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
-* Fix crash from recursive debugmsg invocation from invalid format in firing code ([#84691](https://github.com/CleverRaven/Cataclysm-DDA/pull/84691))
-* Fix some random UB ([#84692](https://github.com/CleverRaven/Cataclysm-DDA/pull/84692))
-* [Xedra Evolved] Fix Dreamer regen ([#84690](https://github.com/CleverRaven/Cataclysm-DDA/pull/84690))

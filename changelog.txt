@@ -1,3 +1,8 @@
+* Disable invalid file operations for empty e-devices (#84847)
+* Implement flat tire fault and means to repair it (#84775)
+
+Cataclysm-DDA experimental build 2026-01-23-0526 (5609240)
+* Natural healing instead of medicine damages health (#84850)
 
 Cataclysm-DDA experimental build 2026-01-23-0246 (5a99e11)
 * Buff brute damage slightly (#84815)
@@ -92,8 +97,6 @@ Cataclysm-DDA experimental build 2026-01-19-2226 (8a73a8c)
 
 Cataclysm-DDA experimental build 2026-01-19-2137 (272efdd)
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices (#84779)
-
-Cataclysm-DDA experimental build 2026-01-19-0750 (f0748aa)
 * Move shirts to NORMAL layer and hoodies to OUTER layer (#84705)
 * Add connective Outcrop layer (#84727)
 * Freeze water into ice in winter with phase change system.（2/?） (#84697)
@@ -142,6 +145,3 @@ Cataclysm-DDA experimental build 2026-01-19-0750 (f0748aa)
 * Move Pointed Horns to techniques (#84715)
 * Fix some string placeholders (#84717)
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness (#84709)
-* Fix crash from recursive debugmsg invocation from invalid format in firing code (#84691)
-* Fix some random UB (#84692)
-* [Xedra Evolved] Fix Dreamer regen (#84690)
