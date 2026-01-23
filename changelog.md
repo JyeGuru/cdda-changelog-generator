@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-23-1322 ([f1e44e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1322))
+
+* Set of clothes --> Takes off ALL items, always ([#84844](https://github.com/CleverRaven/Cataclysm-DDA/pull/84844))
+* Fix bandages or disinfectant could apply bonus healing to other body parts ([#84849](https://github.com/CleverRaven/Cataclysm-DDA/pull/84849))
 * Don't double assign melee actor range ([#84852](https://github.com/CleverRaven/Cataclysm-DDA/pull/84852))
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json ([#84859](https://github.com/CleverRaven/Cataclysm-DDA/pull/84859))
 
@@ -145,11 +152,6 @@
 #### Cataclysm-DDA experimental build 2026-01-20-1939 ([ee2f59c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-1939))
 
 * Handle moving input_context invalidating the self-ref handle. ([#84778](https://github.com/CleverRaven/Cataclysm-DDA/pull/84778))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-01-20-1811 ([a799deb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-01-20-1811))
-
 * Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
 * Add two makeshift goedendags ([#84737](https://github.com/CleverRaven/Cataclysm-DDA/pull/84737))
 * Mark Defense Mode as obsolete ([#84788](https://github.com/CleverRaven/Cataclysm-DDA/pull/84788))
@@ -209,7 +211,6 @@
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* Print "taming" foods for monsters ([#84700](https://github.com/CleverRaven/Cataclysm-DDA/pull/84700))
 * [0.I Branch Backport][feature] If force is set for EOC u_teleport, skip collision test ([#84704](https://github.com/CleverRaven/Cataclysm-DDA/pull/84704))
 * Channeled Magic ([#84711](https://github.com/CleverRaven/Cataclysm-DDA/pull/84711))
 * A hub merc NPC, and your new pal, Pat ([#84718](https://github.com/CleverRaven/Cataclysm-DDA/pull/84718))
@@ -226,7 +227,6 @@
 * Move ACT_ATM handler to activity_actor ([#84723](https://github.com/CleverRaven/Cataclysm-DDA/pull/84723))
 * [MoM] Add guaranteed Osiris chambers to skyscraper lab ([#84716](https://github.com/CleverRaven/Cataclysm-DDA/pull/84716))
 * Validate spell ids in learn_spell use_action ([#84712](https://github.com/CleverRaven/Cataclysm-DDA/pull/84712))
-* Fix x-ray vision of NPC underwear ([#84703](https://github.com/CleverRaven/Cataclysm-DDA/pull/84703))
 * Move Pointed Horns to techniques ([#84715](https://github.com/CleverRaven/Cataclysm-DDA/pull/84715))
 * Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
 * [Xedra Evolved] Fix being allowed to study occult texts in complete darkness ([#84709](https://github.com/CleverRaven/Cataclysm-DDA/pull/84709))
