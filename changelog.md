@@ -1,3 +1,9 @@
+* Frezze water in winter monster and plant part. (3/?) ([#84864](https://github.com/CleverRaven/Cataclysm-DDA/pull/84864))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-24-1716 ([1943723](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1716))
+
 * Add oxygen level widgets ([#84871](https://github.com/CleverRaven/Cataclysm-DDA/pull/84871))
 
 ---
@@ -183,11 +189,6 @@
 * Contain spawned weak glue and slightly tweak probability ([#84813](https://github.com/CleverRaven/Cataclysm-DDA/pull/84813))
 * Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))
 * [Xedra Evolved] Add `former OA field agent` zombie to labs ([#84818](https://github.com/CleverRaven/Cataclysm-DDA/pull/84818))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-21-1416 ([465293a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-1416))
-
 * Add new EXTRADIMENSIONAL flag to the ruined tower ([#84823](https://github.com/CleverRaven/Cataclysm-DDA/pull/84823))
 * [MoM] Matrix crystals are listed as artifacts ([#84780](https://github.com/CleverRaven/Cataclysm-DDA/pull/84780))
 * Bugfix repetitive popup from Pat ([#84785](https://github.com/CleverRaven/Cataclysm-DDA/pull/84785))
@@ -231,6 +232,5 @@
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* [MoM] Fix Obscurity crash ([#84736](https://github.com/CleverRaven/Cataclysm-DDA/pull/84736))
 * bugfix: give AR glasses etransfer_rate and data storage ([#84739](https://github.com/CleverRaven/Cataclysm-DDA/pull/84739))
 * Delete deprecrated translation workflow. ([#84741](https://github.com/CleverRaven/Cataclysm-DDA/pull/84741))
