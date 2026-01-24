@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-24-2250 ([8a073cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-2250))
+
+* Dimension of "strings" ([#84826](https://github.com/CleverRaven/Cataclysm-DDA/pull/84826))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-24-1923 ([3faef56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1923))
 
 * Clean up heat_activity_actor ([#84875](https://github.com/CleverRaven/Cataclysm-DDA/pull/84875))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-01-21-2325 ([38ff867](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-2325))
 
 * Increase loudness of noisemake tools ([#84828](https://github.com/CleverRaven/Cataclysm-DDA/pull/84828))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-21-2043 ([870f00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-2043))
-
 * Clarify enchantment documentation around dialog conditions ([#84829](https://github.com/CleverRaven/Cataclysm-DDA/pull/84829))
 * Shell script for producing a csv from the MA gun data massaging instructions ([#84771](https://github.com/CleverRaven/Cataclysm-DDA/pull/84771))
 * Contain spawned weak glue and slightly tweak probability ([#84813](https://github.com/CleverRaven/Cataclysm-DDA/pull/84813))
@@ -233,4 +234,3 @@
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* Delete deprecrated translation workflow. ([#84741](https://github.com/CleverRaven/Cataclysm-DDA/pull/84741))

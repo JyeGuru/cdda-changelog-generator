@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-24-2250 (8a073cd)
+* Dimension of "strings" (#84826)
+
 Cataclysm-DDA experimental build 2026-01-24-1923 (3faef56)
 * Clean up heat_activity_actor (#84875)
 * Fix ci for all time xe lol (#84878)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-01-22-0023 (72cc3cb)
 
 Cataclysm-DDA experimental build 2026-01-21-2325 (38ff867)
 * Increase loudness of noisemake tools (#84828)
-
-Cataclysm-DDA experimental build 2026-01-21-2043 (870f00c)
 * Clarify enchantment documentation around dialog conditions (#84829)
 * Shell script for producing a csv from the MA gun data massaging instructions (#84771)
 * Contain spawned weak glue and slightly tweak probability (#84813)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-01-21-2043 (870f00c)
 * Downgrade error message on loading to debug log warning (#84755)
 * Fix push translation workflow skip condition test. (#84742)
 * Remove erroneous rare lab items from shipping containers (#84749)
-* Delete deprecrated translation workflow. (#84741)
