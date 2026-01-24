@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-24-0717 ([d8efc57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-0717))
+
 * Weekly Changelog 2026-01-12 to 2026-01-19 ([#84781](https://github.com/CleverRaven/Cataclysm-DDA/pull/84781))
 
 ---
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-01-21-0028 ([15127c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0028))
 
 * Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-20-2340 ([12d53a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-2340))
-
 * anomalous MP3 crash fix, snippets and cooldown ([#84811](https://github.com/CleverRaven/Cataclysm-DDA/pull/84811))
 * Handle moving input_context invalidating the self-ref handle. ([#84778](https://github.com/CleverRaven/Cataclysm-DDA/pull/84778))
 * Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
