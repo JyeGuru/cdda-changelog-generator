@@ -1,3 +1,7 @@
+* Weekly Changelog 2026-01-12 to 2026-01-19 (#84781)
+
+Cataclysm-DDA experimental build 2026-01-24-0620 (1922899)
+* 10 more shipping container content nests (#84870)
 
 Cataclysm-DDA experimental build 2026-01-23-2347 (bc61297)
 * Updated logic for sunlight availability for planting (#84803)
@@ -93,8 +97,6 @@ Cataclysm-DDA experimental build 2026-01-21-0028 (15127c7)
 
 Cataclysm-DDA experimental build 2026-01-20-2340 (12d53a5)
 * anomalous MP3 crash fix, snippets and cooldown (#84811)
-
-Cataclysm-DDA experimental build 2026-01-20-1939 (ee2f59c)
 * Handle moving input_context invalidating the self-ref handle. (#84778)
 * Mark Defense Mode as obsolete (#84812)
 * Add two makeshift goedendags (#84737)
@@ -145,5 +147,3 @@ Cataclysm-DDA experimental build 2026-01-20-1939 (ee2f59c)
 * [Bugfixes] Close item info's command bar after sub-interface open (#84734)
 * [Magiclysm] Reduce the cost of Vegetative Poultice (#84728)
 * Move ACT_ATM handler to activity_actor (#84723)
-* [MoM] Add guaranteed Osiris chambers to skyscraper lab (#84716)
-* Fix some string placeholders (#84717)

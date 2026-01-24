@@ -1,3 +1,10 @@
+* Weekly Changelog 2026-01-12 to 2026-01-19 ([#84781](https://github.com/CleverRaven/Cataclysm-DDA/pull/84781))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-24-0620 ([1922899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-0620))
+
+* 10 more shipping container content nests ([#84870](https://github.com/CleverRaven/Cataclysm-DDA/pull/84870))
 
 ---
 
@@ -177,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-01-20-2340 ([12d53a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-2340))
 
 * anomalous MP3 crash fix, snippets and cooldown ([#84811](https://github.com/CleverRaven/Cataclysm-DDA/pull/84811))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-20-1939 ([ee2f59c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-20-1939))
-
 * Handle moving input_context invalidating the self-ref handle. ([#84778](https://github.com/CleverRaven/Cataclysm-DDA/pull/84778))
 * Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
 * Add two makeshift goedendags ([#84737](https://github.com/CleverRaven/Cataclysm-DDA/pull/84737))
@@ -232,5 +234,3 @@
 * [Bugfixes] Close item info's command bar after sub-interface open ([#84734](https://github.com/CleverRaven/Cataclysm-DDA/pull/84734))
 * [Magiclysm] Reduce the cost of Vegetative Poultice ([#84728](https://github.com/CleverRaven/Cataclysm-DDA/pull/84728))
 * Move ACT_ATM handler to activity_actor ([#84723](https://github.com/CleverRaven/Cataclysm-DDA/pull/84723))
-* [MoM] Add guaranteed Osiris chambers to skyscraper lab ([#84716](https://github.com/CleverRaven/Cataclysm-DDA/pull/84716))
-* Fix some string placeholders ([#84717](https://github.com/CleverRaven/Cataclysm-DDA/pull/84717))
