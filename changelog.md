@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-24-1520 ([c5ea0b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1520))
+
 * Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-01-21-1416 ([465293a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-1416))
 
 * Add new EXTRADIMENSIONAL flag to the ruined tower ([#84823](https://github.com/CleverRaven/Cataclysm-DDA/pull/84823))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-21-0316 ([f24a1ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0316))
-
 * [MoM] Matrix crystals are listed as artifacts ([#84780](https://github.com/CleverRaven/Cataclysm-DDA/pull/84780))
 * Bugfix repetitive popup from Pat ([#84785](https://github.com/CleverRaven/Cataclysm-DDA/pull/84785))
 * [Bugfixes] You can't fold veh with furn in it. ([#84787](https://github.com/CleverRaven/Cataclysm-DDA/pull/84787))
