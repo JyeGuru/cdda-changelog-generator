@@ -1,3 +1,4 @@
+* Split spell `condition` onto `caster_condition` and `target_condition` ([#84837](https://github.com/CleverRaven/Cataclysm-DDA/pull/84837))
 * Reduce appliance refill time from 15 to 5 minutes ([#84862](https://github.com/CleverRaven/Cataclysm-DDA/pull/84862))
 * Military IVAS + Hub 01 mission to get it ([#84865](https://github.com/CleverRaven/Cataclysm-DDA/pull/84865))
 * Reduce the rate of siphoning/drawing liquids from vehicles  ([#84866](https://github.com/CleverRaven/Cataclysm-DDA/pull/84866))
@@ -206,7 +207,6 @@
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))
-* Add connective Outcrop layer ([#84727](https://github.com/CleverRaven/Cataclysm-DDA/pull/84727))
 * Add a new display mode to the construction menu: ready. ([#84767](https://github.com/CleverRaven/Cataclysm-DDA/pull/84767))
 * Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))
