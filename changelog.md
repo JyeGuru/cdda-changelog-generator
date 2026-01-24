@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-24-1923 ([3faef56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1923))
+
 * Clean up heat_activity_actor ([#84875](https://github.com/CleverRaven/Cataclysm-DDA/pull/84875))
 * Fix ci for all time xe lol ([#84878](https://github.com/CleverRaven/Cataclysm-DDA/pull/84878))
 * Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-01-21-2043 ([870f00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-2043))
 
 * Clarify enchantment documentation around dialog conditions ([#84829](https://github.com/CleverRaven/Cataclysm-DDA/pull/84829))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-21-1520 ([4704670](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-1520))
-
 * Shell script for producing a csv from the MA gun data massaging instructions ([#84771](https://github.com/CleverRaven/Cataclysm-DDA/pull/84771))
 * Contain spawned weak glue and slightly tweak probability ([#84813](https://github.com/CleverRaven/Cataclysm-DDA/pull/84813))
 * Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-24-1923 (3faef56)
 * Clean up heat_activity_actor (#84875)
 * Fix ci for all time xe lol (#84878)
 * Add macos compile debug artifact "zzip.dSYM" to gitignore (#84887)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2026-01-21-2325 (38ff867)
 
 Cataclysm-DDA experimental build 2026-01-21-2043 (870f00c)
 * Clarify enchantment documentation around dialog conditions (#84829)
-
-Cataclysm-DDA experimental build 2026-01-21-1520 (4704670)
 * Shell script for producing a csv from the MA gun data massaging instructions (#84771)
 * Contain spawned weak glue and slightly tweak probability (#84813)
 * Move ACT_TOOLMOD_ADD to activity_actor (#84817)
