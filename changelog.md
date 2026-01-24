@@ -1,3 +1,4 @@
+* Add oxygen level widgets ([#84871](https://github.com/CleverRaven/Cataclysm-DDA/pull/84871))
 
 ---
 
@@ -230,7 +231,6 @@
 * UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* [Bugfixes] Tiny bug in item debug info and i18n ([#84735](https://github.com/CleverRaven/Cataclysm-DDA/pull/84735))
 * [MoM] Fix Obscurity crash ([#84736](https://github.com/CleverRaven/Cataclysm-DDA/pull/84736))
 * bugfix: give AR glasses etransfer_rate and data storage ([#84739](https://github.com/CleverRaven/Cataclysm-DDA/pull/84739))
 * Delete deprecrated translation workflow. ([#84741](https://github.com/CleverRaven/Cataclysm-DDA/pull/84741))

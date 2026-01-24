@@ -1,3 +1,4 @@
+* Add oxygen level widgets (#84871)
 
 Cataclysm-DDA experimental build 2026-01-24-1520 (c5ea0b3)
 * Kitchen Knife Faults (#84876)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2026-01-21-1416 (465293a)
 * UI: Fix crashes when viewing rules for NPCs. (#84740)
 * Fix push translation workflow skip condition test. (#84742)
 * Remove erroneous rare lab items from shipping containers (#84749)
-* [Bugfixes] Tiny bug in item debug info and i18n (#84735)
 * [MoM] Fix Obscurity crash (#84736)
 * bugfix: give AR glasses etransfer_rate and data storage (#84739)
 * Delete deprecrated translation workflow. (#84741)
