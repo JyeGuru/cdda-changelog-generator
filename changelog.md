@@ -1,3 +1,5 @@
+* Clean up heat_activity_actor ([#84875](https://github.com/CleverRaven/Cataclysm-DDA/pull/84875))
+* Fix ci for all time xe lol ([#84878](https://github.com/CleverRaven/Cataclysm-DDA/pull/84878))
 * Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
 * Frezze water in winter monster and plant part. (3/?) ([#84864](https://github.com/CleverRaven/Cataclysm-DDA/pull/84864))
 
@@ -229,8 +231,6 @@
 * 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
 * Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
-* UI: Fix crashes when viewing rules for NPCs. ([#84740](https://github.com/CleverRaven/Cataclysm-DDA/pull/84740))
 * Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
-* bugfix: give AR glasses etransfer_rate and data storage ([#84739](https://github.com/CleverRaven/Cataclysm-DDA/pull/84739))
 * Delete deprecrated translation workflow. ([#84741](https://github.com/CleverRaven/Cataclysm-DDA/pull/84741))
