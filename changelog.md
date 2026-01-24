@@ -1,3 +1,10 @@
+* Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-24-1414 ([0b6ace3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1414))
+
+* Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
 
 ---
 
@@ -183,11 +190,6 @@
 
 * [MoM] Matrix crystals are listed as artifacts ([#84780](https://github.com/CleverRaven/Cataclysm-DDA/pull/84780))
 * Bugfix repetitive popup from Pat ([#84785](https://github.com/CleverRaven/Cataclysm-DDA/pull/84785))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-21-0219 ([b46dc85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0219))
-
 * [Bugfixes] You can't fold veh with furn in it. ([#84787](https://github.com/CleverRaven/Cataclysm-DDA/pull/84787))
 * Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
 * anomalous MP3 crash fix, snippets and cooldown ([#84811](https://github.com/CleverRaven/Cataclysm-DDA/pull/84811))
@@ -232,5 +234,3 @@
 * [MoM] Fix Obscurity crash ([#84736](https://github.com/CleverRaven/Cataclysm-DDA/pull/84736))
 * bugfix: give AR glasses etransfer_rate and data storage ([#84739](https://github.com/CleverRaven/Cataclysm-DDA/pull/84739))
 * Delete deprecrated translation workflow. ([#84741](https://github.com/CleverRaven/Cataclysm-DDA/pull/84741))
-* [Bugfixes] Close item info's command bar after sub-interface open ([#84734](https://github.com/CleverRaven/Cataclysm-DDA/pull/84734))
-* [Magiclysm] Reduce the cost of Vegetative Poultice ([#84728](https://github.com/CleverRaven/Cataclysm-DDA/pull/84728))

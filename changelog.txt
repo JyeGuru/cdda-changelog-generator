@@ -1,3 +1,7 @@
+* Kitchen Knife Faults (#84876)
+
+Cataclysm-DDA experimental build 2026-01-24-1414 (0b6ace3)
+* Expand snippets for spell "message" (#84881)
 
 Cataclysm-DDA experimental build 2026-01-24-0800 (5642d51)
 * Split spell `condition` onto `caster_condition` and `target_condition` (#84837)
@@ -99,8 +103,6 @@ Cataclysm-DDA experimental build 2026-01-21-1416 (465293a)
 Cataclysm-DDA experimental build 2026-01-21-0316 (f24a1ff)
 * [MoM] Matrix crystals are listed as artifacts (#84780)
 * Bugfix repetitive popup from Pat (#84785)
-
-Cataclysm-DDA experimental build 2026-01-21-0219 (b46dc85)
 * [Bugfixes] You can't fold veh with furn in it. (#84787)
 * Fix iterator deletion when cleaning up (#84810)
 * anomalous MP3 crash fix, snippets and cooldown (#84811)
@@ -145,5 +147,3 @@ Cataclysm-DDA experimental build 2026-01-21-0219 (b46dc85)
 * [MoM] Fix Obscurity crash (#84736)
 * bugfix: give AR glasses etransfer_rate and data storage (#84739)
 * Delete deprecrated translation workflow. (#84741)
-* [Bugfixes] Close item info's command bar after sub-interface open (#84734)
-* [Magiclysm] Reduce the cost of Vegetative Poultice (#84728)
