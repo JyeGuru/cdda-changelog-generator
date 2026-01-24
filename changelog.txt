@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-24-0800 (5642d51)
 * Split spell `condition` onto `caster_condition` and `target_condition` (#84837)
 * Reduce appliance refill time from 15 to 5 minutes (#84862)
 * Military IVAS + Hub 01 mission to get it (#84865)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2026-01-21-0316 (f24a1ff)
 
 Cataclysm-DDA experimental build 2026-01-21-0219 (b46dc85)
 * [Bugfixes] You can't fold veh with furn in it. (#84787)
-
-Cataclysm-DDA experimental build 2026-01-21-0028 (15127c7)
 * Fix iterator deletion when cleaning up (#84810)
 * anomalous MP3 crash fix, snippets and cooldown (#84811)
 * Handle moving input_context invalidating the self-ref handle. (#84778)

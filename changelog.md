@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-24-0800 ([5642d51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-0800))
+
 * Split spell `condition` onto `caster_condition` and `target_condition` ([#84837](https://github.com/CleverRaven/Cataclysm-DDA/pull/84837))
 * Reduce appliance refill time from 15 to 5 minutes ([#84862](https://github.com/CleverRaven/Cataclysm-DDA/pull/84862))
 * Military IVAS + Hub 01 mission to get it ([#84865](https://github.com/CleverRaven/Cataclysm-DDA/pull/84865))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-01-21-0219 ([b46dc85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0219))
 
 * [Bugfixes] You can't fold veh with furn in it. ([#84787](https://github.com/CleverRaven/Cataclysm-DDA/pull/84787))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-21-0028 ([15127c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-0028))
-
 * Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
 * anomalous MP3 crash fix, snippets and cooldown ([#84811](https://github.com/CleverRaven/Cataclysm-DDA/pull/84811))
 * Handle moving input_context invalidating the self-ref handle. ([#84778](https://github.com/CleverRaven/Cataclysm-DDA/pull/84778))
