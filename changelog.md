@@ -1,3 +1,4 @@
+* Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
 * Frezze water in winter monster and plant part. (3/?) ([#84864](https://github.com/CleverRaven/Cataclysm-DDA/pull/84864))
 
 ---
@@ -197,7 +198,6 @@
 * anomalous MP3 crash fix, snippets and cooldown ([#84811](https://github.com/CleverRaven/Cataclysm-DDA/pull/84811))
 * Handle moving input_context invalidating the self-ref handle. ([#84778](https://github.com/CleverRaven/Cataclysm-DDA/pull/84778))
 * Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
-* Add two makeshift goedendags ([#84737](https://github.com/CleverRaven/Cataclysm-DDA/pull/84737))
 * Mark Defense Mode as obsolete ([#84788](https://github.com/CleverRaven/Cataclysm-DDA/pull/84788))
 * Fix medical ui and irradiation computer number display ([#84776](https://github.com/CleverRaven/Cataclysm-DDA/pull/84776))
 * inland container depot, bandit variant ([#84789](https://github.com/CleverRaven/Cataclysm-DDA/pull/84789))

@@ -1,3 +1,4 @@
+* Add macos compile debug artifact "zzip.dSYM" to gitignore (#84887)
 * Frezze water in winter monster and plant part. (3/?) (#84864)
 
 Cataclysm-DDA experimental build 2026-01-24-1716 (1943723)
@@ -110,7 +111,6 @@ Cataclysm-DDA experimental build 2026-01-21-1520 (4704670)
 * anomalous MP3 crash fix, snippets and cooldown (#84811)
 * Handle moving input_context invalidating the self-ref handle. (#84778)
 * Mark Defense Mode as obsolete (#84812)
-* Add two makeshift goedendags (#84737)
 * Mark Defense Mode as obsolete (#84788)
 * Fix medical ui and irradiation computer number display (#84776)
 * inland container depot, bandit variant (#84789)
