@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-25-1010 ([59e65c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1010))
+
+* Hulk Lift and Smash ([#84901](https://github.com/CleverRaven/Cataclysm-DDA/pull/84901))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-25-0513 ([a398774](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-0513))
 
 * Monster attacks allow to split damage evenly across all limbs ([#84883](https://github.com/CleverRaven/Cataclysm-DDA/pull/84883))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-01-22-0345 ([e493fab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0345))
 
 * Migrate itype ids when loading pocket settings ([#84806](https://github.com/CleverRaven/Cataclysm-DDA/pull/84806))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-22-0247 ([e3f8705](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0247))
-
 * [MoM] Add spoiler doc to explain how power learning works ([#84834](https://github.com/CleverRaven/Cataclysm-DDA/pull/84834))
 * [alt-map-key] Add new overmap terrain ([#84816](https://github.com/CleverRaven/Cataclysm-DDA/pull/84816))
 * Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
@@ -228,4 +229,3 @@
 * 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
 * Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
-* Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
