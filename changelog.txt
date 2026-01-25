@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-25-0513 (a398774)
 * Monster attacks allow to split damage evenly across all limbs (#84883)
 * Add tileset support for pets wearing armor (#84885)
 * Stop cooking your fruits silly (#84861)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2026-01-22-0345 (e493fab)
 
 Cataclysm-DDA experimental build 2026-01-22-0247 (e3f8705)
 * [MoM] Add spoiler doc to explain how power learning works (#84834)
-
-Cataclysm-DDA experimental build 2026-01-22-0023 (72cc3cb)
 * [alt-map-key] Add new overmap terrain (#84816)
 * Fix shotgun damage printf specifier (#84836)
 * Increase loudness of noisemake tools (#84828)

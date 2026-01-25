@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-25-0513 ([a398774](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-0513))
+
 * Monster attacks allow to split damage evenly across all limbs ([#84883](https://github.com/CleverRaven/Cataclysm-DDA/pull/84883))
 * Add tileset support for pets wearing armor ([#84885](https://github.com/CleverRaven/Cataclysm-DDA/pull/84885))
 * Stop cooking your fruits silly ([#84861](https://github.com/CleverRaven/Cataclysm-DDA/pull/84861))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-01-22-0247 ([e3f8705](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0247))
 
 * [MoM] Add spoiler doc to explain how power learning works ([#84834](https://github.com/CleverRaven/Cataclysm-DDA/pull/84834))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-22-0023 ([72cc3cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0023))
-
 * [alt-map-key] Add new overmap terrain ([#84816](https://github.com/CleverRaven/Cataclysm-DDA/pull/84816))
 * Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
 * Increase loudness of noisemake tools ([#84828](https://github.com/CleverRaven/Cataclysm-DDA/pull/84828))
