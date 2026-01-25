@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-25-1510 ([857cd7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1510))
+
+* Fix egg containers ([#84892](https://github.com/CleverRaven/Cataclysm-DDA/pull/84892))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-25-1247 ([44808b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1247))
 
 * Fix vehicles not being seriously impacted by flat tires ([#84888](https://github.com/CleverRaven/Cataclysm-DDA/pull/84888))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-01-22-1804 ([63f192e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-1804))
 
 * Fix field debug info format specifiers ([#84843](https://github.com/CleverRaven/Cataclysm-DDA/pull/84843))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-22-0527 ([093cc4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0527))
-
 * Remove ACT_DISMEMBER handler (dead code) ([#84838](https://github.com/CleverRaven/Cataclysm-DDA/pull/84838))
 * Migrate itype ids when loading pocket settings ([#84806](https://github.com/CleverRaven/Cataclysm-DDA/pull/84806))
 * [MoM] Add spoiler doc to explain how power learning works ([#84834](https://github.com/CleverRaven/Cataclysm-DDA/pull/84834))
