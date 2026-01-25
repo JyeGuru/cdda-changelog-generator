@@ -1,3 +1,13 @@
+* Add tileset support for pets wearing armor ([#84885](https://github.com/CleverRaven/Cataclysm-DDA/pull/84885))
+* Stop cooking your fruits silly ([#84861](https://github.com/CleverRaven/Cataclysm-DDA/pull/84861))
+* More reasonable approach to item rot ([#84858](https://github.com/CleverRaven/Cataclysm-DDA/pull/84858))
+* Pat will make an AR-compatible transponder if you've been friends a while ([#84882](https://github.com/CleverRaven/Cataclysm-DDA/pull/84882))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-25-0424 ([8354566](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-0424))
+
+* Remove references to being hurt by your own unarmed attacks ([#84896](https://github.com/CleverRaven/Cataclysm-DDA/pull/84896))
 
 ---
 
@@ -160,12 +170,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-01-22-0426 ([d111ff5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0426))
-
-* UI: Allow utf-8 input in curses TUI ([#84744](https://github.com/CleverRaven/Cataclysm-DDA/pull/84744))
-
----
-
 #### Cataclysm-DDA experimental build 2026-01-22-0345 ([e493fab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0345))
 
 * Migrate itype ids when loading pocket settings ([#84806](https://github.com/CleverRaven/Cataclysm-DDA/pull/84806))
@@ -182,11 +186,6 @@
 
 * [alt-map-key] Add new overmap terrain ([#84816](https://github.com/CleverRaven/Cataclysm-DDA/pull/84816))
 * Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-21-2325 ([38ff867](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-21-2325))
-
 * Increase loudness of noisemake tools ([#84828](https://github.com/CleverRaven/Cataclysm-DDA/pull/84828))
 * Clarify enchantment documentation around dialog conditions ([#84829](https://github.com/CleverRaven/Cataclysm-DDA/pull/84829))
 * Shell script for producing a csv from the MA gun data massaging instructions ([#84771](https://github.com/CleverRaven/Cataclysm-DDA/pull/84771))
@@ -221,16 +220,12 @@
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
 * Better furniture loading onto vehicles ([#84769](https://github.com/CleverRaven/Cataclysm-DDA/pull/84769))
 * [Bugfixes] Fix ethereal item info ([#84748](https://github.com/CleverRaven/Cataclysm-DDA/pull/84748))
-* [bugfix] Fixing error and tips msg for water purification tablets ([#84747](https://github.com/CleverRaven/Cataclysm-DDA/pull/84747))
 * Use proper pronoun in credits ([#84765](https://github.com/CleverRaven/Cataclysm-DDA/pull/84765))
-* Make item count more visible in AIM ([#84743](https://github.com/CleverRaven/Cataclysm-DDA/pull/84743))
 * Use proper pronoun in credits ([#84761](https://github.com/CleverRaven/Cataclysm-DDA/pull/84761))
 * make glock 27 group contain glock 27 ([#84759](https://github.com/CleverRaven/Cataclysm-DDA/pull/84759))
 * remove "it is awkward to use without practice" from holsters and sheath ([#84762](https://github.com/CleverRaven/Cataclysm-DDA/pull/84762))
 * Move void spider lair obsoletion to correct folder and fix omt ids ([#84752](https://github.com/CleverRaven/Cataclysm-DDA/pull/84752))
-* pants varients are clear and do not lie about function  ([#84745](https://github.com/CleverRaven/Cataclysm-DDA/pull/84745))
 * 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
 * Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
-* Fix push translation workflow skip condition test. ([#84742](https://github.com/CleverRaven/Cataclysm-DDA/pull/84742))
 * Remove erroneous rare lab items from shipping containers ([#84749](https://github.com/CleverRaven/Cataclysm-DDA/pull/84749))
