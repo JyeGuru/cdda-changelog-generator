@@ -1,3 +1,6 @@
+* Fix martial art menu string formatting ([#84884](https://github.com/CleverRaven/Cataclysm-DDA/pull/84884))
+* [alt-map-key] Add new overmap terrain ([#84897](https://github.com/CleverRaven/Cataclysm-DDA/pull/84897))
+* Turn Long Tail into a limb-adding mutation ([#84900](https://github.com/CleverRaven/Cataclysm-DDA/pull/84900))
 
 ---
 
@@ -230,7 +233,4 @@
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
 * Better furniture loading onto vehicles ([#84769](https://github.com/CleverRaven/Cataclysm-DDA/pull/84769))
 * Use proper pronoun in credits ([#84765](https://github.com/CleverRaven/Cataclysm-DDA/pull/84765))
-* Use proper pronoun in credits ([#84761](https://github.com/CleverRaven/Cataclysm-DDA/pull/84761))
-* make glock 27 group contain glock 27 ([#84759](https://github.com/CleverRaven/Cataclysm-DDA/pull/84759))
 * remove "it is awkward to use without practice" from holsters and sheath ([#84762](https://github.com/CleverRaven/Cataclysm-DDA/pull/84762))
-* Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
