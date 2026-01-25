@@ -233,4 +233,3 @@
 * make glock 27 group contain glock 27 ([#84759](https://github.com/CleverRaven/Cataclysm-DDA/pull/84759))
 * remove "it is awkward to use without practice" from holsters and sheath ([#84762](https://github.com/CleverRaven/Cataclysm-DDA/pull/84762))
 * Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
-* Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
