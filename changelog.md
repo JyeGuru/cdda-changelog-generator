@@ -1,3 +1,4 @@
+* Monster attacks allow to split damage evenly across all limbs ([#84883](https://github.com/CleverRaven/Cataclysm-DDA/pull/84883))
 * Add tileset support for pets wearing armor ([#84885](https://github.com/CleverRaven/Cataclysm-DDA/pull/84885))
 * Stop cooking your fruits silly ([#84861](https://github.com/CleverRaven/Cataclysm-DDA/pull/84861))
 * More reasonable approach to item rot ([#84858](https://github.com/CleverRaven/Cataclysm-DDA/pull/84858))
@@ -219,7 +220,6 @@
 * Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood ([#84764](https://github.com/CleverRaven/Cataclysm-DDA/pull/84764))
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
 * Better furniture loading onto vehicles ([#84769](https://github.com/CleverRaven/Cataclysm-DDA/pull/84769))
-* [Bugfixes] Fix ethereal item info ([#84748](https://github.com/CleverRaven/Cataclysm-DDA/pull/84748))
 * Use proper pronoun in credits ([#84765](https://github.com/CleverRaven/Cataclysm-DDA/pull/84765))
 * Use proper pronoun in credits ([#84761](https://github.com/CleverRaven/Cataclysm-DDA/pull/84761))
 * make glock 27 group contain glock 27 ([#84759](https://github.com/CleverRaven/Cataclysm-DDA/pull/84759))
