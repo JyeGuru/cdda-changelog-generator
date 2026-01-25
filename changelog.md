@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-25-2248 ([5786397](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-2248))
+
+* Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-25-2005 ([2c1dd27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-2005))
 
 * Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-01-23-0145 ([ac20bdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0145))
 
 * Globally unique Lacroix ([#84845](https://github.com/CleverRaven/Cataclysm-DDA/pull/84845))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-22-2118 ([f533a39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-2118))
-
 * Move ACT_PULL_CREATURE handler to activity_actor ([#84840](https://github.com/CleverRaven/Cataclysm-DDA/pull/84840))
 * [Xedra Evolved] Extremely rare chance for zombie scientists to have CBMs ([#84830](https://github.com/CleverRaven/Cataclysm-DDA/pull/84830))
 * [Bugfixes] Debug menu edit creature string fault ([#84842](https://github.com/CleverRaven/Cataclysm-DDA/pull/84842))
