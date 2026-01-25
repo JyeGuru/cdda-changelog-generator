@@ -1,3 +1,11 @@
+* Fix vehicles not being seriously impacted by flat tires ([#84888](https://github.com/CleverRaven/Cataclysm-DDA/pull/84888))
+* Multi-activity overhaul part 6: activity_actor framework for multi-activities, move ACT_MULTIPLE_MINE to activity_actor ([#84894](https://github.com/CleverRaven/Cataclysm-DDA/pull/84894))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-25-1149 ([7b0e770](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1149))
+
+* Brutes must grab you to throw you, add staggering blow ([#84899](https://github.com/CleverRaven/Cataclysm-DDA/pull/84899))
 
 ---
 
@@ -64,7 +72,6 @@
 * Reduce the rate of siphoning/drawing liquids from vehicles  ([#84866](https://github.com/CleverRaven/Cataclysm-DDA/pull/84866))
 * Show time to complete in hotwire option ([#84869](https://github.com/CleverRaven/Cataclysm-DDA/pull/84869))
 * Clarify typos contained in long strings ([#84873](https://github.com/CleverRaven/Cataclysm-DDA/pull/84873))
-* Fix "Warpers, Rarity, B-Side” scenario for chronomancers ([#84754](https://github.com/CleverRaven/Cataclysm-DDA/pull/84754))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-01-22-0527 ([093cc4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0527))
 
 * Remove ACT_DISMEMBER handler (dead code) ([#84838](https://github.com/CleverRaven/Cataclysm-DDA/pull/84838))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-22-0345 ([e493fab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-0345))
-
 * Migrate itype ids when loading pocket settings ([#84806](https://github.com/CleverRaven/Cataclysm-DDA/pull/84806))
 * [MoM] Add spoiler doc to explain how power learning works ([#84834](https://github.com/CleverRaven/Cataclysm-DDA/pull/84834))
 * [alt-map-key] Add new overmap terrain ([#84816](https://github.com/CleverRaven/Cataclysm-DDA/pull/84816))
@@ -225,7 +227,5 @@
 * Use proper pronoun in credits ([#84761](https://github.com/CleverRaven/Cataclysm-DDA/pull/84761))
 * make glock 27 group contain glock 27 ([#84759](https://github.com/CleverRaven/Cataclysm-DDA/pull/84759))
 * remove "it is awkward to use without practice" from holsters and sheath ([#84762](https://github.com/CleverRaven/Cataclysm-DDA/pull/84762))
-* Move void spider lair obsoletion to correct folder and fix omt ids ([#84752](https://github.com/CleverRaven/Cataclysm-DDA/pull/84752))
-* 20 more shipping container content nests ([#84751](https://github.com/CleverRaven/Cataclysm-DDA/pull/84751))
 * Remove "Toggle skill training" ([#84757](https://github.com/CleverRaven/Cataclysm-DDA/pull/84757))
 * Downgrade error message on loading to debug log warning ([#84755](https://github.com/CleverRaven/Cataclysm-DDA/pull/84755))
