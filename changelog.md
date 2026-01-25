@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-25-2005 ([2c1dd27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-2005))
+
+* Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-25-1611 ([f54b1ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1611))
 
 * Promote "SWIM_UNDER" flag to docks and bridges. ([#84902](https://github.com/CleverRaven/Cataclysm-DDA/pull/84902))
@@ -194,11 +200,6 @@
 
 * [Xedra Evolved] Extremely rare chance for zombie scientists to have CBMs ([#84830](https://github.com/CleverRaven/Cataclysm-DDA/pull/84830))
 * [Bugfixes] Debug menu edit creature string fault ([#84842](https://github.com/CleverRaven/Cataclysm-DDA/pull/84842))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-22-1804 ([63f192e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-22-1804))
-
 * Fix field debug info format specifiers ([#84843](https://github.com/CleverRaven/Cataclysm-DDA/pull/84843))
 * Remove ACT_DISMEMBER handler (dead code) ([#84838](https://github.com/CleverRaven/Cataclysm-DDA/pull/84838))
 * Migrate itype ids when loading pocket settings ([#84806](https://github.com/CleverRaven/Cataclysm-DDA/pull/84806))
@@ -234,7 +235,6 @@
 * Add a new display mode to the construction menu: ready. ([#84767](https://github.com/CleverRaven/Cataclysm-DDA/pull/84767))
 * Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))
-* Add feldspar chunks to forest/field itemgroups, add feldspar veins to Innawood ([#84764](https://github.com/CleverRaven/Cataclysm-DDA/pull/84764))
 * Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
 * Better furniture loading onto vehicles ([#84769](https://github.com/CleverRaven/Cataclysm-DDA/pull/84769))
 * Use proper pronoun in credits ([#84765](https://github.com/CleverRaven/Cataclysm-DDA/pull/84765))
