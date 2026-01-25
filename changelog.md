@@ -224,7 +224,6 @@
 * inland container depot, bandit variant ([#84789](https://github.com/CleverRaven/Cataclysm-DDA/pull/84789))
 * [Magiclysm] Move Magus stat buff spells (Fox's Cunning etc) to Technomancer ([#84774](https://github.com/CleverRaven/Cataclysm-DDA/pull/84774))
 * Add ruined towers to Highlands ([#84801](https://github.com/CleverRaven/Cataclysm-DDA/pull/84801))
-* [Sky Island] Add wall transformation constructions, add flesh walls/floors ([#84763](https://github.com/CleverRaven/Cataclysm-DDA/pull/84763))
 * [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
 * Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))
 * Move ACT_TRAIN handler to activity_actor, obsolete ACT_TRAIN_TEACHER ([#84786](https://github.com/CleverRaven/Cataclysm-DDA/pull/84786))
