@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-26-0427 ([338fc6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0427))
+
+* [XE] Add three vampire hunter professions ([#84913](https://github.com/CleverRaven/Cataclysm-DDA/pull/84913))
 * Fix character rendering from complete zero when hit animation is played ([#84893](https://github.com/CleverRaven/Cataclysm-DDA/pull/84893))
 * Fix "you squeeze the last drops of X from Y" message appearing always  ([#84906](https://github.com/CleverRaven/Cataclysm-DDA/pull/84906))
 
@@ -176,18 +182,8 @@
 #### Cataclysm-DDA experimental build 2026-01-23-0821 ([cd36179](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0821))
 
 * Move ACT_MEND_ITEM to activity_actor ([#84853](https://github.com/CleverRaven/Cataclysm-DDA/pull/84853))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-0623 ([40860c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0623))
-
 * Disable invalid file operations for empty e-devices ([#84847](https://github.com/CleverRaven/Cataclysm-DDA/pull/84847))
 * Implement flat tire fault and means to repair it ([#84775](https://github.com/CleverRaven/Cataclysm-DDA/pull/84775))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-0526 ([5609240](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0526))
-
 * Natural healing instead of medicine damages health ([#84850](https://github.com/CleverRaven/Cataclysm-DDA/pull/84850))
 * Buff brute damage slightly ([#84815](https://github.com/CleverRaven/Cataclysm-DDA/pull/84815))
 * Globally unique Lacroix ([#84845](https://github.com/CleverRaven/Cataclysm-DDA/pull/84845))
