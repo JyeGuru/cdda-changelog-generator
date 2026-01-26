@@ -1,3 +1,4 @@
+* Fix update_mapgen in missions to use mission target as origin instead of player if possible ([#84919](https://github.com/CleverRaven/Cataclysm-DDA/pull/84919))
 
 ---
 
@@ -223,4 +224,3 @@
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))
-* [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))

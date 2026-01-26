@@ -1,3 +1,4 @@
+* Fix update_mapgen in missions to use mission target as origin instead of player if possible (#84919)
 
 Cataclysm-DDA experimental build 2026-01-26-1311 (681398d)
 * Fix a V menu crash (#84929)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2026-01-23-1322 (f1e44e0)
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials (#84790)
 * Whitelist field notebook lakeside shack (#84791)
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices (#84779)
-* [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms (#84773)
