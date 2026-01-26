@@ -1,3 +1,10 @@
+* [MoM] Fixes missing entries in the wristputer json ([#84807](https://github.com/CleverRaven/Cataclysm-DDA/pull/84807))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-26-2005 ([a74561c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2005))
+
+* Turn fluffy tail into a limb ([#84935](https://github.com/CleverRaven/Cataclysm-DDA/pull/84935))
 
 ---
 
@@ -173,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-01-23-2140 ([211cb1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-2140))
 
 * Remove grenade hacks from direct spawn, make lab bots spawn flashbang hacks instead ([#84835](https://github.com/CleverRaven/Cataclysm-DDA/pull/84835))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-1904 ([ae33b18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1904))
-
 * Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
 * Devourers gain abilities and resilience from devouring ([#84856](https://github.com/CleverRaven/Cataclysm-DDA/pull/84856))
 * Set of clothes --> Takes off ALL items, always ([#84844](https://github.com/CleverRaven/Cataclysm-DDA/pull/84844))
@@ -187,7 +189,6 @@
 * Knife sharpeners ([#84857](https://github.com/CleverRaven/Cataclysm-DDA/pull/84857))
 * Move ACT_MEND_ITEM to activity_actor ([#84853](https://github.com/CleverRaven/Cataclysm-DDA/pull/84853))
 * Disable invalid file operations for empty e-devices ([#84847](https://github.com/CleverRaven/Cataclysm-DDA/pull/84847))
-* Implement flat tire fault and means to repair it ([#84775](https://github.com/CleverRaven/Cataclysm-DDA/pull/84775))
 * Natural healing instead of medicine damages health ([#84850](https://github.com/CleverRaven/Cataclysm-DDA/pull/84850))
 * Buff brute damage slightly ([#84815](https://github.com/CleverRaven/Cataclysm-DDA/pull/84815))
 * Globally unique Lacroix ([#84845](https://github.com/CleverRaven/Cataclysm-DDA/pull/84845))
@@ -214,7 +215,6 @@
 * Handle moving input_context invalidating the self-ref handle. ([#84778](https://github.com/CleverRaven/Cataclysm-DDA/pull/84778))
 * Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
 * Mark Defense Mode as obsolete ([#84788](https://github.com/CleverRaven/Cataclysm-DDA/pull/84788))
-* Fix medical ui and irradiation computer number display ([#84776](https://github.com/CleverRaven/Cataclysm-DDA/pull/84776))
 * inland container depot, bandit variant ([#84789](https://github.com/CleverRaven/Cataclysm-DDA/pull/84789))
 * Add ruined towers to Highlands ([#84801](https://github.com/CleverRaven/Cataclysm-DDA/pull/84801))
 * [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
