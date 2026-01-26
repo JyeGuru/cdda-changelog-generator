@@ -1,3 +1,4 @@
+* Also delete zstd.a on `make clean` (#84922)
 
 Cataclysm-DDA experimental build 2026-01-26-2051 (a120358)
 * [MoM] Fixes missing entries in the wristputer json (#84807)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2026-01-23-2240 (55cb43c)
 * [Bugfixes] You can't fold veh with furn in it. (#84787)
 * Fix iterator deletion when cleaning up (#84810)
 * anomalous MP3 crash fix, snippets and cooldown (#84811)
-* Handle moving input_context invalidating the self-ref handle. (#84778)
 * Mark Defense Mode as obsolete (#84812)
 * Mark Defense Mode as obsolete (#84788)
 * inland container depot, bandit variant (#84789)

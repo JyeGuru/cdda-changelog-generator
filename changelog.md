@@ -1,3 +1,4 @@
+* Also delete zstd.a on `make clean` ([#84922](https://github.com/CleverRaven/Cataclysm-DDA/pull/84922))
 
 ---
 
@@ -212,7 +213,6 @@
 * [Bugfixes] You can't fold veh with furn in it. ([#84787](https://github.com/CleverRaven/Cataclysm-DDA/pull/84787))
 * Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
 * anomalous MP3 crash fix, snippets and cooldown ([#84811](https://github.com/CleverRaven/Cataclysm-DDA/pull/84811))
-* Handle moving input_context invalidating the self-ref handle. ([#84778](https://github.com/CleverRaven/Cataclysm-DDA/pull/84778))
 * Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
 * Mark Defense Mode as obsolete ([#84788](https://github.com/CleverRaven/Cataclysm-DDA/pull/84788))
 * inland container depot, bandit variant ([#84789](https://github.com/CleverRaven/Cataclysm-DDA/pull/84789))
