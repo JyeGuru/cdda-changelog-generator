@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-26-2344 ([5eef848](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2344))
+
+* Correct the record about mingw usage being a blocker for concurrency. ([#84942](https://github.com/CleverRaven/Cataclysm-DDA/pull/84942))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-26-2154 ([f61d9d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2154))
 
 * Also delete zstd.a on `make clean` ([#84922](https://github.com/CleverRaven/Cataclysm-DDA/pull/84922))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-01-24-0620 ([1922899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-0620))
 
 * 10 more shipping container content nests ([#84870](https://github.com/CleverRaven/Cataclysm-DDA/pull/84870))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-2347 ([bc61297](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-2347))
-
 * Updated logic for sunlight availability for planting ([#84803](https://github.com/CleverRaven/Cataclysm-DDA/pull/84803))
 * [Innawood] Add graphite deposits ([#84867](https://github.com/CleverRaven/Cataclysm-DDA/pull/84867))
 * nomad utility belt blowers make noise + 2 variants ([#84860](https://github.com/CleverRaven/Cataclysm-DDA/pull/84860))
@@ -223,4 +224,3 @@
 * Fix a sorting crash when dropping items that contain other to-be-sorted items ([#84800](https://github.com/CleverRaven/Cataclysm-DDA/pull/84800))
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
-* [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))

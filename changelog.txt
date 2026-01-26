@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-26-2344 (5eef848)
+* Correct the record about mingw usage being a blocker for concurrency. (#84942)
+
 Cataclysm-DDA experimental build 2026-01-26-2154 (f61d9d2)
 * Also delete zstd.a on `make clean` (#84922)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-01-24-0717 (d8efc57)
 
 Cataclysm-DDA experimental build 2026-01-24-0620 (1922899)
 * 10 more shipping container content nests (#84870)
-
-Cataclysm-DDA experimental build 2026-01-23-2347 (bc61297)
 * Updated logic for sunlight availability for planting (#84803)
 * [Innawood] Add graphite deposits (#84867)
 * nomad utility belt blowers make noise + 2 variants (#84860)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2026-01-23-2347 (bc61297)
 * Fix a sorting crash when dropping items that contain other to-be-sorted items (#84800)
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials (#84790)
 * Whitelist field notebook lakeside shack (#84791)
-* [MoM] Noetic Resonator instructions can spawn in doctor's offices (#84779)
