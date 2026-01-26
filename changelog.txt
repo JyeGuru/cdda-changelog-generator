@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-26-2051 (a120358)
 * [MoM] Fixes missing entries in the wristputer json (#84807)
 
 Cataclysm-DDA experimental build 2026-01-26-2005 (a74561c)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2026-01-23-2347 (bc61297)
 
 Cataclysm-DDA experimental build 2026-01-23-2240 (55cb43c)
 * nomad utility belt blowers make noise + 2 variants (#84860)
-
-Cataclysm-DDA experimental build 2026-01-23-2140 (211cb1a)
 * Remove grenade hacks from direct spawn, make lab bots spawn flashbang hacks instead (#84835)
 * Scale devourer flesh raptor generation with size (#84863)
 * Devourers gain abilities and resilience from devouring (#84856)

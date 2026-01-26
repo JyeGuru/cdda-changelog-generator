@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-26-2051 ([a120358](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2051))
+
 * [MoM] Fixes missing entries in the wristputer json ([#84807](https://github.com/CleverRaven/Cataclysm-DDA/pull/84807))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-01-23-2240 ([55cb43c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-2240))
 
 * nomad utility belt blowers make noise + 2 variants ([#84860](https://github.com/CleverRaven/Cataclysm-DDA/pull/84860))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-2140 ([211cb1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-2140))
-
 * Remove grenade hacks from direct spawn, make lab bots spawn flashbang hacks instead ([#84835](https://github.com/CleverRaven/Cataclysm-DDA/pull/84835))
 * Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
 * Devourers gain abilities and resilience from devouring ([#84856](https://github.com/CleverRaven/Cataclysm-DDA/pull/84856))
