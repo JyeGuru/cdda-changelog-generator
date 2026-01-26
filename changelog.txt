@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-26-1311 (681398d)
+* Fix a V menu crash (#84929)
+
 Cataclysm-DDA experimental build 2026-01-26-0719 (2deeb33)
 * Light Fur and Sleek Fur cover your Long Tail (#84920)
 
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-01-23-1322 (f1e44e0)
 * Fix bandages or disinfectant could apply bonus healing to other body parts (#84849)
 * Don't double assign melee actor range (#84852)
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json (#84859)
-
-Cataclysm-DDA experimental build 2026-01-23-1221 (78eab36)
 * Knife sharpeners (#84857)
 * Move ACT_MEND_ITEM to activity_actor (#84853)
 * Disable invalid file operations for empty e-devices (#84847)
@@ -141,5 +142,4 @@ Cataclysm-DDA experimental build 2026-01-23-1221 (78eab36)
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials (#84790)
 * Whitelist field notebook lakeside shack (#84791)
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices (#84779)
-* Move ANTLERS to techniques  (#84772)
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms (#84773)

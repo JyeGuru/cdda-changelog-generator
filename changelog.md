@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-26-1311 ([681398d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-1311))
+
+* Fix a V menu crash ([#84929](https://github.com/CleverRaven/Cataclysm-DDA/pull/84929))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-26-0719 ([2deeb33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0719))
 
 * Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
@@ -176,11 +182,6 @@
 * Fix bandages or disinfectant could apply bonus healing to other body parts ([#84849](https://github.com/CleverRaven/Cataclysm-DDA/pull/84849))
 * Don't double assign melee actor range ([#84852](https://github.com/CleverRaven/Cataclysm-DDA/pull/84852))
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json ([#84859](https://github.com/CleverRaven/Cataclysm-DDA/pull/84859))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-1221 ([78eab36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1221))
-
 * Knife sharpeners ([#84857](https://github.com/CleverRaven/Cataclysm-DDA/pull/84857))
 * Move ACT_MEND_ITEM to activity_actor ([#84853](https://github.com/CleverRaven/Cataclysm-DDA/pull/84853))
 * Disable invalid file operations for empty e-devices ([#84847](https://github.com/CleverRaven/Cataclysm-DDA/pull/84847))
@@ -222,5 +223,4 @@
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))
-* Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))
