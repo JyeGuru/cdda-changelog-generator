@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-26-1632 ([2efc3e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-1632))
+
+* Add a cooking recipe specifically to remove elderberries toxins ([#84932](https://github.com/CleverRaven/Cataclysm-DDA/pull/84932))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-26-1439 ([ef6e887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-1439))
 
 * Fix update_mapgen in missions to use mission target as origin instead of player if possible ([#84919](https://github.com/CleverRaven/Cataclysm-DDA/pull/84919))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-01-23-1904 ([ae33b18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1904))
 
 * Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-1407 ([f59799e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1407))
-
 * Devourers gain abilities and resilience from devouring ([#84856](https://github.com/CleverRaven/Cataclysm-DDA/pull/84856))
 * Set of clothes --> Takes off ALL items, always ([#84844](https://github.com/CleverRaven/Cataclysm-DDA/pull/84844))
 * Fix bandages or disinfectant could apply bonus healing to other body parts ([#84849](https://github.com/CleverRaven/Cataclysm-DDA/pull/84849))
@@ -215,7 +216,6 @@
 * Mark Defense Mode as obsolete ([#84788](https://github.com/CleverRaven/Cataclysm-DDA/pull/84788))
 * Fix medical ui and irradiation computer number display ([#84776](https://github.com/CleverRaven/Cataclysm-DDA/pull/84776))
 * inland container depot, bandit variant ([#84789](https://github.com/CleverRaven/Cataclysm-DDA/pull/84789))
-* [Magiclysm] Move Magus stat buff spells (Fox's Cunning etc) to Technomancer ([#84774](https://github.com/CleverRaven/Cataclysm-DDA/pull/84774))
 * Add ruined towers to Highlands ([#84801](https://github.com/CleverRaven/Cataclysm-DDA/pull/84801))
 * [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
 * Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))
