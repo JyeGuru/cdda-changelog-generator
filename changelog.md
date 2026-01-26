@@ -1,3 +1,11 @@
+* Fix character rendering from complete zero when hit animation is played ([#84893](https://github.com/CleverRaven/Cataclysm-DDA/pull/84893))
+* Fix "you squeeze the last drops of X from Y" message appearing always  ([#84906](https://github.com/CleverRaven/Cataclysm-DDA/pull/84906))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-26-0241 ([3e580c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0241))
+
+* Fix supermarket containers ([#84890](https://github.com/CleverRaven/Cataclysm-DDA/pull/84890))
 
 ---
 
@@ -181,17 +189,7 @@
 #### Cataclysm-DDA experimental build 2026-01-23-0526 ([5609240](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0526))
 
 * Natural healing instead of medicine damages health ([#84850](https://github.com/CleverRaven/Cataclysm-DDA/pull/84850))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-0246 ([5a99e11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0246))
-
 * Buff brute damage slightly ([#84815](https://github.com/CleverRaven/Cataclysm-DDA/pull/84815))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-0145 ([ac20bdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0145))
-
 * Globally unique Lacroix ([#84845](https://github.com/CleverRaven/Cataclysm-DDA/pull/84845))
 * Move ACT_PULL_CREATURE handler to activity_actor ([#84840](https://github.com/CleverRaven/Cataclysm-DDA/pull/84840))
 * [Xedra Evolved] Extremely rare chance for zombie scientists to have CBMs ([#84830](https://github.com/CleverRaven/Cataclysm-DDA/pull/84830))
@@ -228,8 +226,5 @@
 * Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
 * Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
 * [MoM] Noetic Resonator instructions can spawn in doctor's offices ([#84779](https://github.com/CleverRaven/Cataclysm-DDA/pull/84779))
-* Add a new display mode to the construction menu: ready. ([#84767](https://github.com/CleverRaven/Cataclysm-DDA/pull/84767))
 * Move ANTLERS to techniques  ([#84772](https://github.com/CleverRaven/Cataclysm-DDA/pull/84772))
 * [Xedra Evolved] Standardize base `natural_stance` across all shapeshift forms ([#84773](https://github.com/CleverRaven/Cataclysm-DDA/pull/84773))
-* Fixed debug msg in mapgen that caused debug errors. ([#84768](https://github.com/CleverRaven/Cataclysm-DDA/pull/84768))
-* Better furniture loading onto vehicles ([#84769](https://github.com/CleverRaven/Cataclysm-DDA/pull/84769))
