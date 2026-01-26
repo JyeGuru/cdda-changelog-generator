@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-26-0719 ([2deeb33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0719))
+
+* Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-26-0427 ([338fc6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0427))
 
 * [XE] Add three vampire hunter professions ([#84913](https://github.com/CleverRaven/Cataclysm-DDA/pull/84913))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-01-23-1221 ([78eab36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1221))
 
 * Knife sharpeners ([#84857](https://github.com/CleverRaven/Cataclysm-DDA/pull/84857))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-0821 ([cd36179](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-0821))
-
 * Move ACT_MEND_ITEM to activity_actor ([#84853](https://github.com/CleverRaven/Cataclysm-DDA/pull/84853))
 * Disable invalid file operations for empty e-devices ([#84847](https://github.com/CleverRaven/Cataclysm-DDA/pull/84847))
 * Implement flat tire fault and means to repair it ([#84775](https://github.com/CleverRaven/Cataclysm-DDA/pull/84775))
@@ -198,7 +199,6 @@
 * Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
 * Increase loudness of noisemake tools ([#84828](https://github.com/CleverRaven/Cataclysm-DDA/pull/84828))
 * Clarify enchantment documentation around dialog conditions ([#84829](https://github.com/CleverRaven/Cataclysm-DDA/pull/84829))
-* Shell script for producing a csv from the MA gun data massaging instructions ([#84771](https://github.com/CleverRaven/Cataclysm-DDA/pull/84771))
 * Contain spawned weak glue and slightly tweak probability ([#84813](https://github.com/CleverRaven/Cataclysm-DDA/pull/84813))
 * Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))
 * [Xedra Evolved] Add `former OA field agent` zombie to labs ([#84818](https://github.com/CleverRaven/Cataclysm-DDA/pull/84818))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-26-0719 (2deeb33)
+* Light Fur and Sleek Fur cover your Long Tail (#84920)
+
 Cataclysm-DDA experimental build 2026-01-26-0427 (338fc6c)
 * [XE] Add three vampire hunter professions (#84913)
 * Fix character rendering from complete zero when hit animation is played (#84893)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-01-23-1322 (f1e44e0)
 
 Cataclysm-DDA experimental build 2026-01-23-1221 (78eab36)
 * Knife sharpeners (#84857)
-
-Cataclysm-DDA experimental build 2026-01-23-0821 (cd36179)
 * Move ACT_MEND_ITEM to activity_actor (#84853)
 * Disable invalid file operations for empty e-devices (#84847)
 * Implement flat tire fault and means to repair it (#84775)
@@ -117,7 +118,6 @@ Cataclysm-DDA experimental build 2026-01-23-0821 (cd36179)
 * Fix shotgun damage printf specifier (#84836)
 * Increase loudness of noisemake tools (#84828)
 * Clarify enchantment documentation around dialog conditions (#84829)
-* Shell script for producing a csv from the MA gun data massaging instructions (#84771)
 * Contain spawned weak glue and slightly tweak probability (#84813)
 * Move ACT_TOOLMOD_ADD to activity_actor (#84817)
 * [Xedra Evolved] Add `former OA field agent` zombie to labs (#84818)
