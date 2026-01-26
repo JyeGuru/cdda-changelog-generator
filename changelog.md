@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-26-1439 ([ef6e887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-1439))
+
 * Fix update_mapgen in missions to use mission target as origin instead of player if possible ([#84919](https://github.com/CleverRaven/Cataclysm-DDA/pull/84919))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-01-23-1407 ([f59799e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1407))
 
 * Devourers gain abilities and resilience from devouring ([#84856](https://github.com/CleverRaven/Cataclysm-DDA/pull/84856))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-23-1322 ([f1e44e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-23-1322))
-
 * Set of clothes --> Takes off ALL items, always ([#84844](https://github.com/CleverRaven/Cataclysm-DDA/pull/84844))
 * Fix bandages or disinfectant could apply bonus healing to other body parts ([#84849](https://github.com/CleverRaven/Cataclysm-DDA/pull/84849))
 * Don't double assign melee actor range ([#84852](https://github.com/CleverRaven/Cataclysm-DDA/pull/84852))
