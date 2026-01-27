@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-27-1930 ([2d0a422](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1930))
+
 * Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor ([#84962](https://github.com/CleverRaven/Cataclysm-DDA/pull/84962))
 
 ---
@@ -157,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-01-25-1010 ([59e65c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1010))
 
 * Hulk Lift and Smash ([#84901](https://github.com/CleverRaven/Cataclysm-DDA/pull/84901))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-25-0513 ([a398774](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-0513))
-
 * Monster attacks allow to split damage evenly across all limbs ([#84883](https://github.com/CleverRaven/Cataclysm-DDA/pull/84883))
 * Add tileset support for pets wearing armor ([#84885](https://github.com/CleverRaven/Cataclysm-DDA/pull/84885))
 * Stop cooking your fruits silly ([#84861](https://github.com/CleverRaven/Cataclysm-DDA/pull/84861))
