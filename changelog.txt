@@ -1,3 +1,7 @@
+* [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs (#84950)
+
+Cataclysm-DDA experimental build 2026-01-27-0458 (b71c56f)
+* Add Graphite and Feldspar to cave spawn pool (Innawood) (#84947)
 
 Cataclysm-DDA experimental build 2026-01-27-0359 (6089e09)
 * Fix spells not targeting vehicles properly (#84939)
