@@ -1,3 +1,7 @@
+* Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor (#84962)
+
+Cataclysm-DDA experimental build 2026-01-27-1820 (764843d)
+* Nerf Hub 01 HEW recordings payment (#84956)
 
 Cataclysm-DDA experimental build 2026-01-27-1430 (c60626f)
 * [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad (#84951)
@@ -33,9 +37,6 @@ Cataclysm-DDA experimental build 2026-01-26-2344 (5eef848)
 
 Cataclysm-DDA experimental build 2026-01-26-2154 (f61d9d2)
 * Also delete zstd.a on `make clean` (#84922)
-
-Cataclysm-DDA experimental build 2026-01-26-2051 (a120358)
-* [MoM] Fixes missing entries in the wristputer json (#84807)
 
 Cataclysm-DDA experimental build 2026-01-26-2005 (a74561c)
 * Turn fluffy tail into a limb (#84935)
@@ -91,8 +92,6 @@ Cataclysm-DDA experimental build 2026-01-25-0513 (a398774)
 * Stop cooking your fruits silly (#84861)
 * More reasonable approach to item rot (#84858)
 * Pat will make an AR-compatible transponder if you've been friends a while (#84882)
-
-Cataclysm-DDA experimental build 2026-01-25-0424 (8354566)
 * Remove references to being hurt by your own unarmed attacks (#84896)
 * Dimension of "strings" (#84826)
 * Clean up heat_activity_actor (#84875)
@@ -129,7 +128,6 @@ Cataclysm-DDA experimental build 2026-01-25-0424 (8354566)
 * [Bugfixes] Debug menu edit creature string fault (#84842)
 * Fix field debug info format specifiers (#84843)
 * Remove ACT_DISMEMBER handler (dead code) (#84838)
-* Migrate itype ids when loading pocket settings (#84806)
 * [MoM] Add spoiler doc to explain how power learning works (#84834)
 * [alt-map-key] Add new overmap terrain (#84816)
 * Fix shotgun damage printf specifier (#84836)

@@ -1,3 +1,10 @@
+* Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor ([#84962](https://github.com/CleverRaven/Cataclysm-DDA/pull/84962))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-27-1820 ([764843d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1820))
+
+* Nerf Hub 01 HEW recordings payment ([#84956](https://github.com/CleverRaven/Cataclysm-DDA/pull/84956))
 
 ---
 
@@ -60,12 +67,6 @@
 #### Cataclysm-DDA experimental build 2026-01-26-2154 ([f61d9d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2154))
 
 * Also delete zstd.a on `make clean` ([#84922](https://github.com/CleverRaven/Cataclysm-DDA/pull/84922))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-26-2051 ([a120358](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2051))
-
-* [MoM] Fixes missing entries in the wristputer json ([#84807](https://github.com/CleverRaven/Cataclysm-DDA/pull/84807))
 
 ---
 
@@ -166,11 +167,6 @@
 * Stop cooking your fruits silly ([#84861](https://github.com/CleverRaven/Cataclysm-DDA/pull/84861))
 * More reasonable approach to item rot ([#84858](https://github.com/CleverRaven/Cataclysm-DDA/pull/84858))
 * Pat will make an AR-compatible transponder if you've been friends a while ([#84882](https://github.com/CleverRaven/Cataclysm-DDA/pull/84882))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-25-0424 ([8354566](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-0424))
-
 * Remove references to being hurt by your own unarmed attacks ([#84896](https://github.com/CleverRaven/Cataclysm-DDA/pull/84896))
 * Dimension of "strings" ([#84826](https://github.com/CleverRaven/Cataclysm-DDA/pull/84826))
 * Clean up heat_activity_actor ([#84875](https://github.com/CleverRaven/Cataclysm-DDA/pull/84875))
@@ -207,7 +203,6 @@
 * [Bugfixes] Debug menu edit creature string fault ([#84842](https://github.com/CleverRaven/Cataclysm-DDA/pull/84842))
 * Fix field debug info format specifiers ([#84843](https://github.com/CleverRaven/Cataclysm-DDA/pull/84843))
 * Remove ACT_DISMEMBER handler (dead code) ([#84838](https://github.com/CleverRaven/Cataclysm-DDA/pull/84838))
-* Migrate itype ids when loading pocket settings ([#84806](https://github.com/CleverRaven/Cataclysm-DDA/pull/84806))
 * [MoM] Add spoiler doc to explain how power learning works ([#84834](https://github.com/CleverRaven/Cataclysm-DDA/pull/84834))
 * [alt-map-key] Add new overmap terrain ([#84816](https://github.com/CleverRaven/Cataclysm-DDA/pull/84816))
 * Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
