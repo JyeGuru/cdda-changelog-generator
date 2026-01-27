@@ -1,3 +1,12 @@
+* [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
+* Water frozen in winter veh and thick ice part. (4/5) ([#84931](https://github.com/CleverRaven/Cataclysm-DDA/pull/84931))
+* Show time to pick a lock in query string ([#84895](https://github.com/CleverRaven/Cataclysm-DDA/pull/84895))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-27-1250 ([c0d4c7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1250))
+
+* Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
 * Weekly Changelog 2026-01-19 to 2026-01-26 ([#84921](https://github.com/CleverRaven/Cataclysm-DDA/pull/84921))
 
 ---
@@ -167,11 +176,6 @@
 * Fix ci for all time xe lol ([#84878](https://github.com/CleverRaven/Cataclysm-DDA/pull/84878))
 * Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
 * Frezze water in winter monster and plant part. (3/?) ([#84864](https://github.com/CleverRaven/Cataclysm-DDA/pull/84864))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-24-1716 ([1943723](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1716))
-
 * Add oxygen level widgets ([#84871](https://github.com/CleverRaven/Cataclysm-DDA/pull/84871))
 * Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
 * Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
@@ -216,7 +220,3 @@
 * Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
 * anomalous MP3 crash fix, snippets and cooldown ([#84811](https://github.com/CleverRaven/Cataclysm-DDA/pull/84811))
 * Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
-* Add ruined towers to Highlands ([#84801](https://github.com/CleverRaven/Cataclysm-DDA/pull/84801))
-* [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
-* Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))
-* Fix a sorting crash when dropping items that contain other to-be-sorted items ([#84800](https://github.com/CleverRaven/Cataclysm-DDA/pull/84800))
