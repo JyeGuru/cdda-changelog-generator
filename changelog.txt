@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-27-1340 (5ef48dc)
 * [Old Lab Removal] Added nanofab microlab nest (#84952)
 * Water frozen in winter veh and thick ice part. (4/5) (#84931)
 * Show time to pick a lock in query string (#84895)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2026-01-25-0424 (8354566)
 
 Cataclysm-DDA experimental build 2026-01-24-2250 (8a073cd)
 * Dimension of "strings" (#84826)
-
-Cataclysm-DDA experimental build 2026-01-24-1923 (3faef56)
 * Clean up heat_activity_actor (#84875)
 * Fix ci for all time xe lol (#84878)
 * Add macos compile debug artifact "zzip.dSYM" to gitignore (#84887)

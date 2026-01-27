@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-27-1340 ([5ef48dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1340))
+
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Water frozen in winter veh and thick ice part. (4/5) ([#84931](https://github.com/CleverRaven/Cataclysm-DDA/pull/84931))
 * Show time to pick a lock in query string ([#84895](https://github.com/CleverRaven/Cataclysm-DDA/pull/84895))
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-01-24-2250 ([8a073cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-2250))
 
 * Dimension of "strings" ([#84826](https://github.com/CleverRaven/Cataclysm-DDA/pull/84826))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-24-1923 ([3faef56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1923))
-
 * Clean up heat_activity_actor ([#84875](https://github.com/CleverRaven/Cataclysm-DDA/pull/84875))
 * Fix ci for all time xe lol ([#84878](https://github.com/CleverRaven/Cataclysm-DDA/pull/84878))
 * Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
