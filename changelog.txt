@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2026-01-24-1923 (3faef56)
 
 Cataclysm-DDA experimental build 2026-01-24-1716 (1943723)
 * Add oxygen level widgets (#84871)
-
-Cataclysm-DDA experimental build 2026-01-24-1520 (c5ea0b3)
 * Kitchen Knife Faults (#84876)
 * Expand snippets for spell "message" (#84881)
 * Split spell `condition` onto `caster_condition` and `target_condition` (#84837)
