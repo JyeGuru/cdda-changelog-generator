@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-27-0559 ([d354131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-0559))
+
 * [Mods] Use external options in the manipulation of mods skills and proficiencies ([#84945](https://github.com/CleverRaven/Cataclysm-DDA/pull/84945))
 * Pat dialogue expansion - other missions ([#84943](https://github.com/CleverRaven/Cataclysm-DDA/pull/84943))
 * Account for pickup capability when determining if items in a tile can be sorted ([#84930](https://github.com/CleverRaven/Cataclysm-DDA/pull/84930))
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-01-24-1414 ([0b6ace3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1414))
 
 * Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-24-0800 ([5642d51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-0800))
-
 * Split spell `condition` onto `caster_condition` and `target_condition` ([#84837](https://github.com/CleverRaven/Cataclysm-DDA/pull/84837))
 * Reduce appliance refill time from 15 to 5 minutes ([#84862](https://github.com/CleverRaven/Cataclysm-DDA/pull/84862))
 * Military IVAS + Hub 01 mission to get it ([#84865](https://github.com/CleverRaven/Cataclysm-DDA/pull/84865))
