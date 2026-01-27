@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-27-0359 ([6089e09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-0359))
+
+* Fix spells not targeting vehicles properly ([#84939](https://github.com/CleverRaven/Cataclysm-DDA/pull/84939))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-26-2344 ([5eef848](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2344))
 
 * Correct the record about mingw usage being a blocker for concurrency. ([#84942](https://github.com/CleverRaven/Cataclysm-DDA/pull/84942))
@@ -166,17 +172,6 @@
 * Reduce the rate of siphoning/drawing liquids from vehicles  ([#84866](https://github.com/CleverRaven/Cataclysm-DDA/pull/84866))
 * Show time to complete in hotwire option ([#84869](https://github.com/CleverRaven/Cataclysm-DDA/pull/84869))
 * Clarify typos contained in long strings ([#84873](https://github.com/CleverRaven/Cataclysm-DDA/pull/84873))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-24-0717 ([d8efc57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-0717))
-
-* Weekly Changelog 2026-01-12 to 2026-01-19 ([#84781](https://github.com/CleverRaven/Cataclysm-DDA/pull/84781))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-24-0620 ([1922899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-0620))
-
 * 10 more shipping container content nests ([#84870](https://github.com/CleverRaven/Cataclysm-DDA/pull/84870))
 * Updated logic for sunlight availability for planting ([#84803](https://github.com/CleverRaven/Cataclysm-DDA/pull/84803))
 * [Innawood] Add graphite deposits ([#84867](https://github.com/CleverRaven/Cataclysm-DDA/pull/84867))
@@ -209,7 +204,6 @@
 * Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))
 * [Xedra Evolved] Add `former OA field agent` zombie to labs ([#84818](https://github.com/CleverRaven/Cataclysm-DDA/pull/84818))
 * Add new EXTRADIMENSIONAL flag to the ruined tower ([#84823](https://github.com/CleverRaven/Cataclysm-DDA/pull/84823))
-* [MoM] Matrix crystals are listed as artifacts ([#84780](https://github.com/CleverRaven/Cataclysm-DDA/pull/84780))
 * Bugfix repetitive popup from Pat ([#84785](https://github.com/CleverRaven/Cataclysm-DDA/pull/84785))
 * [Bugfixes] You can't fold veh with furn in it. ([#84787](https://github.com/CleverRaven/Cataclysm-DDA/pull/84787))
 * Fix iterator deletion when cleaning up ([#84810](https://github.com/CleverRaven/Cataclysm-DDA/pull/84810))
