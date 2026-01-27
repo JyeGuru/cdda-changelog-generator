@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad ([#84951](https://github.com/CleverRaven/Cataclysm-DDA/pull/84951))
 
 ---
 
@@ -186,7 +187,6 @@
 * Show time to complete in hotwire option ([#84869](https://github.com/CleverRaven/Cataclysm-DDA/pull/84869))
 * Clarify typos contained in long strings ([#84873](https://github.com/CleverRaven/Cataclysm-DDA/pull/84873))
 * 10 more shipping container content nests ([#84870](https://github.com/CleverRaven/Cataclysm-DDA/pull/84870))
-* Updated logic for sunlight availability for planting ([#84803](https://github.com/CleverRaven/Cataclysm-DDA/pull/84803))
 * [Innawood] Add graphite deposits ([#84867](https://github.com/CleverRaven/Cataclysm-DDA/pull/84867))
 * nomad utility belt blowers make noise + 2 variants ([#84860](https://github.com/CleverRaven/Cataclysm-DDA/pull/84860))
 * Remove grenade hacks from direct spawn, make lab bots spawn flashbang hacks instead ([#84835](https://github.com/CleverRaven/Cataclysm-DDA/pull/84835))
