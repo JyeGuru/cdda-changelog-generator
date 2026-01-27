@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-27-1430 ([c60626f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1430))
+
 * [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad ([#84951](https://github.com/CleverRaven/Cataclysm-DDA/pull/84951))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-01-25-0424 ([8354566](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-0424))
 
 * Remove references to being hurt by your own unarmed attacks ([#84896](https://github.com/CleverRaven/Cataclysm-DDA/pull/84896))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-24-2250 ([8a073cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-2250))
-
 * Dimension of "strings" ([#84826](https://github.com/CleverRaven/Cataclysm-DDA/pull/84826))
 * Clean up heat_activity_actor ([#84875](https://github.com/CleverRaven/Cataclysm-DDA/pull/84875))
 * Fix ci for all time xe lol ([#84878](https://github.com/CleverRaven/Cataclysm-DDA/pull/84878))
