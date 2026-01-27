@@ -1,3 +1,10 @@
+* Weekly Changelog 2026-01-19 to 2026-01-26 ([#84921](https://github.com/CleverRaven/Cataclysm-DDA/pull/84921))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-27-0811 ([14561db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-0811))
+
+* [MoM] Re energize targets vehicle ([#84936](https://github.com/CleverRaven/Cataclysm-DDA/pull/84936))
 
 ---
 
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-01-24-1520 ([c5ea0b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1520))
 
 * Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-24-1414 ([0b6ace3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-24-1414))
-
 * Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
 * Split spell `condition` onto `caster_condition` and `target_condition` ([#84837](https://github.com/CleverRaven/Cataclysm-DDA/pull/84837))
 * Reduce appliance refill time from 15 to 5 minutes ([#84862](https://github.com/CleverRaven/Cataclysm-DDA/pull/84862))
@@ -223,5 +225,3 @@
 * [u] add captions under screenshots ([#84795](https://github.com/CleverRaven/Cataclysm-DDA/pull/84795))
 * Fix spellcasting format specifier mismatch ([#84798](https://github.com/CleverRaven/Cataclysm-DDA/pull/84798))
 * Fix a sorting crash when dropping items that contain other to-be-sorted items ([#84800](https://github.com/CleverRaven/Cataclysm-DDA/pull/84800))
-* Use `EXTRADIMENSIONAL` flag as a catch-all for other-dimensional specials ([#84790](https://github.com/CleverRaven/Cataclysm-DDA/pull/84790))
-* Whitelist field notebook lakeside shack ([#84791](https://github.com/CleverRaven/Cataclysm-DDA/pull/84791))
