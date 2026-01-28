@@ -1,3 +1,4 @@
+* Can I has bug confirm permission? ([#84973](https://github.com/CleverRaven/Cataclysm-DDA/pull/84973))
 * Earthworms don't absorb oil when fried ([#84959](https://github.com/CleverRaven/Cataclysm-DDA/pull/84959))
 * Show time to hacksaw before committing to doing it ([#84968](https://github.com/CleverRaven/Cataclysm-DDA/pull/84968))
 * Properly cache and reuse rottable materials set ([#84967](https://github.com/CleverRaven/Cataclysm-DDA/pull/84967))
@@ -214,6 +215,5 @@
 * Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
 * Increase loudness of noisemake tools ([#84828](https://github.com/CleverRaven/Cataclysm-DDA/pull/84828))
 * Clarify enchantment documentation around dialog conditions ([#84829](https://github.com/CleverRaven/Cataclysm-DDA/pull/84829))
-* Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))
 * [Xedra Evolved] Add `former OA field agent` zombie to labs ([#84818](https://github.com/CleverRaven/Cataclysm-DDA/pull/84818))
 * Add new EXTRADIMENSIONAL flag to the ruined tower ([#84823](https://github.com/CleverRaven/Cataclysm-DDA/pull/84823))
