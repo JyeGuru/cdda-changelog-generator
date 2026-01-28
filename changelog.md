@@ -217,4 +217,3 @@
 * Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
 * Increase loudness of noisemake tools ([#84828](https://github.com/CleverRaven/Cataclysm-DDA/pull/84828))
 * Clarify enchantment documentation around dialog conditions ([#84829](https://github.com/CleverRaven/Cataclysm-DDA/pull/84829))
-* Add new EXTRADIMENSIONAL flag to the ruined tower ([#84823](https://github.com/CleverRaven/Cataclysm-DDA/pull/84823))
