@@ -1,3 +1,4 @@
+* Add `stamina_max` u_val ([#84966](https://github.com/CleverRaven/Cataclysm-DDA/pull/84966))
 * [MoM] Turn vitakinetic matrix crystals into artifacts ([#84832](https://github.com/CleverRaven/Cataclysm-DDA/pull/84832))
 * Pat can do some recon & signpost interesting areas ([#84955](https://github.com/CleverRaven/Cataclysm-DDA/pull/84955))
 * Move surroundings_menu_tab_enum to enums.h ([#84957](https://github.com/CleverRaven/Cataclysm-DDA/pull/84957))
@@ -216,4 +217,3 @@
 * Move ACT_TOOLMOD_ADD to activity_actor ([#84817](https://github.com/CleverRaven/Cataclysm-DDA/pull/84817))
 * [Xedra Evolved] Add `former OA field agent` zombie to labs ([#84818](https://github.com/CleverRaven/Cataclysm-DDA/pull/84818))
 * Add new EXTRADIMENSIONAL flag to the ruined tower ([#84823](https://github.com/CleverRaven/Cataclysm-DDA/pull/84823))
-* Mark Defense Mode as obsolete ([#84812](https://github.com/CleverRaven/Cataclysm-DDA/pull/84812))
