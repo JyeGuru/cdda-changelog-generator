@@ -1,3 +1,5 @@
+* [Sky Island] Spawn the Island in a void (#84972)
+* Remove free attack from rabbit feet (#84975)
 * Can I has bug confirm permission? (#84973)
 * Earthworms don't absorb oil when fried (#84959)
 * Show time to hacksaw before committing to doing it (#84968)
