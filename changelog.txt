@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-29-2316 (e525d10)
+* [MoM] Remove riot damage from labs (#85007)
+
 Cataclysm-DDA experimental build 2026-01-29-2021 (3ef9c93)
 * 25 more shipping containers (#85003)
 
