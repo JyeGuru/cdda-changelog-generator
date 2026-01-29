@@ -214,6 +214,5 @@
 * Disable invalid file operations for empty e-devices ([#84847](https://github.com/CleverRaven/Cataclysm-DDA/pull/84847))
 * Natural healing instead of medicine damages health ([#84850](https://github.com/CleverRaven/Cataclysm-DDA/pull/84850))
 * Globally unique Lacroix ([#84845](https://github.com/CleverRaven/Cataclysm-DDA/pull/84845))
-* Move ACT_PULL_CREATURE handler to activity_actor ([#84840](https://github.com/CleverRaven/Cataclysm-DDA/pull/84840))
 * [Bugfixes] Debug menu edit creature string fault ([#84842](https://github.com/CleverRaven/Cataclysm-DDA/pull/84842))
 * Fix field debug info format specifiers ([#84843](https://github.com/CleverRaven/Cataclysm-DDA/pull/84843))
