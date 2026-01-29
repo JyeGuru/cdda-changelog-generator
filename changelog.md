@@ -221,4 +221,3 @@
 * Devourers gain abilities and resilience from devouring ([#84856](https://github.com/CleverRaven/Cataclysm-DDA/pull/84856))
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json ([#84859](https://github.com/CleverRaven/Cataclysm-DDA/pull/84859))
 * Knife sharpeners ([#84857](https://github.com/CleverRaven/Cataclysm-DDA/pull/84857))
-* Move ACT_MEND_ITEM to activity_actor ([#84853](https://github.com/CleverRaven/Cataclysm-DDA/pull/84853))
