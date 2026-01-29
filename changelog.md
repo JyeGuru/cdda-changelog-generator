@@ -1,3 +1,10 @@
+* 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-29-1917 ([648bad3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1917))
+
+* Expose limb scores to math ([#84986](https://github.com/CleverRaven/Cataclysm-DDA/pull/84986))
 
 ---
 
@@ -212,8 +219,6 @@
 * nomad utility belt blowers make noise + 2 variants ([#84860](https://github.com/CleverRaven/Cataclysm-DDA/pull/84860))
 * Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
 * Devourers gain abilities and resilience from devouring ([#84856](https://github.com/CleverRaven/Cataclysm-DDA/pull/84856))
-* Don't double assign melee actor range ([#84852](https://github.com/CleverRaven/Cataclysm-DDA/pull/84852))
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json ([#84859](https://github.com/CleverRaven/Cataclysm-DDA/pull/84859))
 * Knife sharpeners ([#84857](https://github.com/CleverRaven/Cataclysm-DDA/pull/84857))
 * Move ACT_MEND_ITEM to activity_actor ([#84853](https://github.com/CleverRaven/Cataclysm-DDA/pull/84853))
-* Natural healing instead of medicine damages health ([#84850](https://github.com/CleverRaven/Cataclysm-DDA/pull/84850))

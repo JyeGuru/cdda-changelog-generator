@@ -1,3 +1,7 @@
+* 25 more shipping containers (#85003)
+
+Cataclysm-DDA experimental build 2026-01-29-1917 (648bad3)
+* Expose limb scores to math (#84986)
 
 Cataclysm-DDA experimental build 2026-01-29-1658 (8943d3f)
 * Fix LTO error (#84995)
@@ -137,8 +141,6 @@ Cataclysm-DDA experimental build 2026-01-25-2248 (5786397)
 * nomad utility belt blowers make noise + 2 variants (#84860)
 * Scale devourer flesh raptor generation with size (#84863)
 * Devourers gain abilities and resilience from devouring (#84856)
-* Don't double assign melee actor range (#84852)
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json (#84859)
 * Knife sharpeners (#84857)
 * Move ACT_MEND_ITEM to activity_actor (#84853)
-* Natural healing instead of medicine damages health (#84850)
