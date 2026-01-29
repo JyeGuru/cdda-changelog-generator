@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-29-0925 ([20a5343](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-0925))
+
+* Use ver 8 of @actions/github in release workflow ([#84997](https://github.com/CleverRaven/Cataclysm-DDA/pull/84997))
 * Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
 * Use constexpr structures in headers for units. ([#84983](https://github.com/CleverRaven/Cataclysm-DDA/pull/84983))
 * [Innawood] Add small ravines to Innawood ([#84984](https://github.com/CleverRaven/Cataclysm-DDA/pull/84984))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-01-25-1149 ([7b0e770](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1149))
 
 * Brutes must grab you to throw you, add staggering blow ([#84899](https://github.com/CleverRaven/Cataclysm-DDA/pull/84899))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-25-1010 ([59e65c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1010))
-
 * Hulk Lift and Smash ([#84901](https://github.com/CleverRaven/Cataclysm-DDA/pull/84901))
 * Monster attacks allow to split damage evenly across all limbs ([#84883](https://github.com/CleverRaven/Cataclysm-DDA/pull/84883))
 * Add tileset support for pets wearing armor ([#84885](https://github.com/CleverRaven/Cataclysm-DDA/pull/84885))
@@ -193,7 +194,6 @@
 * Add oxygen level widgets ([#84871](https://github.com/CleverRaven/Cataclysm-DDA/pull/84871))
 * Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
 * Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
-* Split spell `condition` onto `caster_condition` and `target_condition` ([#84837](https://github.com/CleverRaven/Cataclysm-DDA/pull/84837))
 * Reduce appliance refill time from 15 to 5 minutes ([#84862](https://github.com/CleverRaven/Cataclysm-DDA/pull/84862))
 * Military IVAS + Hub 01 mission to get it ([#84865](https://github.com/CleverRaven/Cataclysm-DDA/pull/84865))
 * Reduce the rate of siphoning/drawing liquids from vehicles  ([#84866](https://github.com/CleverRaven/Cataclysm-DDA/pull/84866))
