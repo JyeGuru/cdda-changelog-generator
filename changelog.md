@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-29-2021 ([3ef9c93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-2021))
+
 * 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-01-26-0241 ([3e580c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0241))
 
 * Fix supermarket containers ([#84890](https://github.com/CleverRaven/Cataclysm-DDA/pull/84890))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-25-2248 ([5786397](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-2248))
-
 * Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
 * Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
 * Promote "SWIM_UNDER" flag to docks and bridges. ([#84902](https://github.com/CleverRaven/Cataclysm-DDA/pull/84902))
