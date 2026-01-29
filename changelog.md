@@ -1,3 +1,4 @@
+* Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
 * Use constexpr structures in headers for units. ([#84983](https://github.com/CleverRaven/Cataclysm-DDA/pull/84983))
 * [Innawood] Add small ravines to Innawood ([#84984](https://github.com/CleverRaven/Cataclysm-DDA/pull/84984))
 * [Xedra Evolved] Karma Arms rebalance ([#84982](https://github.com/CleverRaven/Cataclysm-DDA/pull/84982))
@@ -216,4 +217,3 @@
 * [Bugfixes] Debug menu edit creature string fault ([#84842](https://github.com/CleverRaven/Cataclysm-DDA/pull/84842))
 * Fix field debug info format specifiers ([#84843](https://github.com/CleverRaven/Cataclysm-DDA/pull/84843))
 * Remove ACT_DISMEMBER handler (dead code) ([#84838](https://github.com/CleverRaven/Cataclysm-DDA/pull/84838))
-* Fix shotgun damage printf specifier ([#84836](https://github.com/CleverRaven/Cataclysm-DDA/pull/84836))
