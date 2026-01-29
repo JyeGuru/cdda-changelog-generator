@@ -1,6 +1,33 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-29-1658 ([8943d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1658))
+
+* Fix LTO error ([#84995](https://github.com/CleverRaven/Cataclysm-DDA/pull/84995))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-29-1604 ([8a254d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1604))
+
+* Fix basic typos in code and comments ([#84978](https://github.com/CleverRaven/Cataclysm-DDA/pull/84978))
+* Fix add_mod printf specifier ([#85001](https://github.com/CleverRaven/Cataclysm-DDA/pull/85001))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-29-1506 ([5a3293f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1506))
+
+* Chipped away at zone sorting issues ([#84974](https://github.com/CleverRaven/Cataclysm-DDA/pull/84974))
+* [No Hope] Actually use defined region settings ([#84999](https://github.com/CleverRaven/Cataclysm-DDA/pull/84999))
+* Shift surroundings menu to selected ([#84998](https://github.com/CleverRaven/Cataclysm-DDA/pull/84998))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-29-1417 ([076f927](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1417))
+
+* [Sky Island] Dummy EOCs so the innawood integration does not cause an error ([#84993](https://github.com/CleverRaven/Cataclysm-DDA/pull/84993))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-29-1020 ([eec267e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1020))
 
 * [Sky Island] Mod compatibility ([#84996](https://github.com/CleverRaven/Cataclysm-DDA/pull/84996))
@@ -152,32 +179,12 @@
 #### Cataclysm-DDA experimental build 2026-01-25-2248 ([5786397](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-2248))
 
 * Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-25-2005 ([2c1dd27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-2005))
-
 * Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-25-1611 ([f54b1ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1611))
-
 * Promote "SWIM_UNDER" flag to docks and bridges. ([#84902](https://github.com/CleverRaven/Cataclysm-DDA/pull/84902))
 * Fix martial art menu string formatting ([#84884](https://github.com/CleverRaven/Cataclysm-DDA/pull/84884))
 * [alt-map-key] Add new overmap terrain ([#84897](https://github.com/CleverRaven/Cataclysm-DDA/pull/84897))
 * Turn Long Tail into a limb-adding mutation ([#84900](https://github.com/CleverRaven/Cataclysm-DDA/pull/84900))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-25-1510 ([857cd7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1510))
-
 * Fix egg containers ([#84892](https://github.com/CleverRaven/Cataclysm-DDA/pull/84892))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-25-1247 ([44808b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-25-1247))
-
 * Fix vehicles not being seriously impacted by flat tires ([#84888](https://github.com/CleverRaven/Cataclysm-DDA/pull/84888))
 * Multi-activity overhaul part 6: activity_actor framework for multi-activities, move ACT_MULTIPLE_MINE to activity_actor ([#84894](https://github.com/CleverRaven/Cataclysm-DDA/pull/84894))
 * Brutes must grab you to throw you, add staggering blow ([#84899](https://github.com/CleverRaven/Cataclysm-DDA/pull/84899))
@@ -205,14 +212,8 @@
 * nomad utility belt blowers make noise + 2 variants ([#84860](https://github.com/CleverRaven/Cataclysm-DDA/pull/84860))
 * Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
 * Devourers gain abilities and resilience from devouring ([#84856](https://github.com/CleverRaven/Cataclysm-DDA/pull/84856))
-* Set of clothes --> Takes off ALL items, always ([#84844](https://github.com/CleverRaven/Cataclysm-DDA/pull/84844))
-* Fix bandages or disinfectant could apply bonus healing to other body parts ([#84849](https://github.com/CleverRaven/Cataclysm-DDA/pull/84849))
 * Don't double assign melee actor range ([#84852](https://github.com/CleverRaven/Cataclysm-DDA/pull/84852))
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json ([#84859](https://github.com/CleverRaven/Cataclysm-DDA/pull/84859))
 * Knife sharpeners ([#84857](https://github.com/CleverRaven/Cataclysm-DDA/pull/84857))
 * Move ACT_MEND_ITEM to activity_actor ([#84853](https://github.com/CleverRaven/Cataclysm-DDA/pull/84853))
-* Disable invalid file operations for empty e-devices ([#84847](https://github.com/CleverRaven/Cataclysm-DDA/pull/84847))
 * Natural healing instead of medicine damages health ([#84850](https://github.com/CleverRaven/Cataclysm-DDA/pull/84850))
-* Globally unique Lacroix ([#84845](https://github.com/CleverRaven/Cataclysm-DDA/pull/84845))
-* [Bugfixes] Debug menu edit creature string fault ([#84842](https://github.com/CleverRaven/Cataclysm-DDA/pull/84842))
-* Fix field debug info format specifiers ([#84843](https://github.com/CleverRaven/Cataclysm-DDA/pull/84843))

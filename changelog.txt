@@ -1,4 +1,19 @@
 
+Cataclysm-DDA experimental build 2026-01-29-1658 (8943d3f)
+* Fix LTO error (#84995)
+
+Cataclysm-DDA experimental build 2026-01-29-1604 (8a254d1)
+* Fix basic typos in code and comments (#84978)
+* Fix add_mod printf specifier (#85001)
+
+Cataclysm-DDA experimental build 2026-01-29-1506 (5a3293f)
+* Chipped away at zone sorting issues (#84974)
+* [No Hope] Actually use defined region settings (#84999)
+* Shift surroundings menu to selected (#84998)
+
+Cataclysm-DDA experimental build 2026-01-29-1417 (076f927)
+* [Sky Island] Dummy EOCs so the innawood integration does not cause an error (#84993)
+
 Cataclysm-DDA experimental build 2026-01-29-1020 (eec267e)
 * [Sky Island] Mod compatibility (#84996)
 
@@ -89,20 +104,12 @@ Cataclysm-DDA experimental build 2026-01-26-0241 (3e580c1)
 
 Cataclysm-DDA experimental build 2026-01-25-2248 (5786397)
 * Technique-ify Small Horns (#84912)
-
-Cataclysm-DDA experimental build 2026-01-25-2005 (2c1dd27)
 * Read req_speed_bonus as double (#84909)
-
-Cataclysm-DDA experimental build 2026-01-25-1611 (f54b1ab)
 * Promote "SWIM_UNDER" flag to docks and bridges. (#84902)
 * Fix martial art menu string formatting (#84884)
 * [alt-map-key] Add new overmap terrain (#84897)
 * Turn Long Tail into a limb-adding mutation (#84900)
-
-Cataclysm-DDA experimental build 2026-01-25-1510 (857cd7e)
 * Fix egg containers (#84892)
-
-Cataclysm-DDA experimental build 2026-01-25-1247 (44808b1)
 * Fix vehicles not being seriously impacted by flat tires (#84888)
 * Multi-activity overhaul part 6: activity_actor framework for multi-activities, move ACT_MULTIPLE_MINE to activity_actor (#84894)
 * Brutes must grab you to throw you, add staggering blow (#84899)
@@ -130,14 +137,8 @@ Cataclysm-DDA experimental build 2026-01-25-1247 (44808b1)
 * nomad utility belt blowers make noise + 2 variants (#84860)
 * Scale devourer flesh raptor generation with size (#84863)
 * Devourers gain abilities and resilience from devouring (#84856)
-* Set of clothes --> Takes off ALL items, always (#84844)
-* Fix bandages or disinfectant could apply bonus healing to other body parts (#84849)
 * Don't double assign melee actor range (#84852)
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json (#84859)
 * Knife sharpeners (#84857)
 * Move ACT_MEND_ITEM to activity_actor (#84853)
-* Disable invalid file operations for empty e-devices (#84847)
 * Natural healing instead of medicine damages health (#84850)
-* Globally unique Lacroix (#84845)
-* [Bugfixes] Debug menu edit creature string fault (#84842)
-* Fix field debug info format specifiers (#84843)
