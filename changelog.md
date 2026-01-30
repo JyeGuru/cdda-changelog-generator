@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-30-0514 ([08d50d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-30-0514))
+
+* Move ACT_MULTIPLE_FISH/FARM/READ/STUDY to activity_actors ([#85012](https://github.com/CleverRaven/Cataclysm-DDA/pull/85012))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-30-0135 ([2cb875a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-30-0135))
 
 * Move remaining queued_eocs members to .cpp to avoid list<> instantiation ([#85006](https://github.com/CleverRaven/Cataclysm-DDA/pull/85006))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-01-26-0719 ([2deeb33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0719))
 
 * Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-26-0427 ([338fc6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0427))
-
 * [XE] Add three vampire hunter professions ([#84913](https://github.com/CleverRaven/Cataclysm-DDA/pull/84913))
 * Fix character rendering from complete zero when hit animation is played ([#84893](https://github.com/CleverRaven/Cataclysm-DDA/pull/84893))
 * Fix "you squeeze the last drops of X from Y" message appearing always  ([#84906](https://github.com/CleverRaven/Cataclysm-DDA/pull/84906))
@@ -226,4 +227,3 @@
 * nomad utility belt blowers make noise + 2 variants ([#84860](https://github.com/CleverRaven/Cataclysm-DDA/pull/84860))
 * Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
 * Fix typos related with HEW in data/json/items/generic.json and two cbms.json ([#84859](https://github.com/CleverRaven/Cataclysm-DDA/pull/84859))
-* Knife sharpeners ([#84857](https://github.com/CleverRaven/Cataclysm-DDA/pull/84857))
