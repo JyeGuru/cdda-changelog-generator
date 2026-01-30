@@ -1,3 +1,12 @@
+* Add missing multi_activity_locations() overrides ([#85027](https://github.com/CleverRaven/Cataclysm-DDA/pull/85027))
+* bump osx runner version for 0.I ([#85029](https://github.com/CleverRaven/Cataclysm-DDA/pull/85029))
+* Move MoM's alien meadow to vanilla ([#85030](https://github.com/CleverRaven/Cataclysm-DDA/pull/85030))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-30-2244 ([4dc6c71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-30-2244))
+
+* Give krecks a bite attack ([#85017](https://github.com/CleverRaven/Cataclysm-DDA/pull/85017))
 
 ---
 
@@ -183,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-01-26-1311 ([681398d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-1311))
 
 * Fix a V menu crash ([#84929](https://github.com/CleverRaven/Cataclysm-DDA/pull/84929))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-26-0719 ([2deeb33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-0719))
-
 * Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
 * [XE] Add three vampire hunter professions ([#84913](https://github.com/CleverRaven/Cataclysm-DDA/pull/84913))
 * Fix character rendering from complete zero when hit animation is played ([#84893](https://github.com/CleverRaven/Cataclysm-DDA/pull/84893))
@@ -206,8 +210,6 @@
 * Hulk Lift and Smash ([#84901](https://github.com/CleverRaven/Cataclysm-DDA/pull/84901))
 * Monster attacks allow to split damage evenly across all limbs ([#84883](https://github.com/CleverRaven/Cataclysm-DDA/pull/84883))
 * Add tileset support for pets wearing armor ([#84885](https://github.com/CleverRaven/Cataclysm-DDA/pull/84885))
-* Stop cooking your fruits silly ([#84861](https://github.com/CleverRaven/Cataclysm-DDA/pull/84861))
-* More reasonable approach to item rot ([#84858](https://github.com/CleverRaven/Cataclysm-DDA/pull/84858))
 * Pat will make an AR-compatible transponder if you've been friends a while ([#84882](https://github.com/CleverRaven/Cataclysm-DDA/pull/84882))
 * Remove references to being hurt by your own unarmed attacks ([#84896](https://github.com/CleverRaven/Cataclysm-DDA/pull/84896))
 * Clean up heat_activity_actor ([#84875](https://github.com/CleverRaven/Cataclysm-DDA/pull/84875))
@@ -224,6 +226,4 @@
 * Clarify typos contained in long strings ([#84873](https://github.com/CleverRaven/Cataclysm-DDA/pull/84873))
 * 10 more shipping container content nests ([#84870](https://github.com/CleverRaven/Cataclysm-DDA/pull/84870))
 * [Innawood] Add graphite deposits ([#84867](https://github.com/CleverRaven/Cataclysm-DDA/pull/84867))
-* nomad utility belt blowers make noise + 2 variants ([#84860](https://github.com/CleverRaven/Cataclysm-DDA/pull/84860))
 * Scale devourer flesh raptor generation with size ([#84863](https://github.com/CleverRaven/Cataclysm-DDA/pull/84863))
-* Fix typos related with HEW in data/json/items/generic.json and two cbms.json ([#84859](https://github.com/CleverRaven/Cataclysm-DDA/pull/84859))
