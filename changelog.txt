@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-30-2340 (1bbbecf)
 * Add missing multi_activity_locations() overrides (#85027)
 * bump osx runner version for 0.I (#85029)
 * Move MoM's alien meadow to vanilla (#85030)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2026-01-26-1632 (2efc3e4)
 
 Cataclysm-DDA experimental build 2026-01-26-1439 (ef6e887)
 * Fix update_mapgen in missions to use mission target as origin instead of player if possible (#84919)
-
-Cataclysm-DDA experimental build 2026-01-26-1311 (681398d)
 * Fix a V menu crash (#84929)
 * Light Fur and Sleek Fur cover your Long Tail (#84920)
 * [XE] Add three vampire hunter professions (#84913)
