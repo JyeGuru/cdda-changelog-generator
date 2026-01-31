@@ -1,3 +1,10 @@
+* Fix surroundings menu window position on more variations of font settings ([#85046](https://github.com/CleverRaven/Cataclysm-DDA/pull/85046))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-31-1602 ([efe092f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-1602))
+
+* Move ACT_MULTIPLE_CRAFT, ACT_MULTIPLE_DIS(assembly) to activity_actors ([#85040](https://github.com/CleverRaven/Cataclysm-DDA/pull/85040))
 
 ---
 
@@ -192,11 +199,6 @@
 * Move ACT_MULTIPLE_MOP, ACT_MULTIPLE_CHOP_PLANKS, ACT_MULTIPLE_CHOP_TREES to activity actor ([#84917](https://github.com/CleverRaven/Cataclysm-DDA/pull/84917))
 * Retune Pat's mission ([#84944](https://github.com/CleverRaven/Cataclysm-DDA/pull/84944))
 * [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs ([#84950](https://github.com/CleverRaven/Cataclysm-DDA/pull/84950))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-27-0458 ([b71c56f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-0458))
-
 * Add Graphite and Feldspar to cave spawn pool (Innawood) ([#84947](https://github.com/CleverRaven/Cataclysm-DDA/pull/84947))
 * Fix spells not targeting vehicles properly ([#84939](https://github.com/CleverRaven/Cataclysm-DDA/pull/84939))
 * Correct the record about mingw usage being a blocker for concurrency. ([#84942](https://github.com/CleverRaven/Cataclysm-DDA/pull/84942))
@@ -228,8 +230,6 @@
 * Clean up heat_activity_actor ([#84875](https://github.com/CleverRaven/Cataclysm-DDA/pull/84875))
 * Fix ci for all time xe lol ([#84878](https://github.com/CleverRaven/Cataclysm-DDA/pull/84878))
 * Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
-* Add oxygen level widgets ([#84871](https://github.com/CleverRaven/Cataclysm-DDA/pull/84871))
 * Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
 * Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
 * Clarify typos contained in long strings ([#84873](https://github.com/CleverRaven/Cataclysm-DDA/pull/84873))
-* 10 more shipping container content nests ([#84870](https://github.com/CleverRaven/Cataclysm-DDA/pull/84870))
