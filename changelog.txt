@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-31-0630 (faf22f6)
+* Implement shopkeeper whitelist (#85031)
+
 Cataclysm-DDA experimental build 2026-01-31-0437 (2dd7e40)
 * Fix typos in code and comments (#85034)
 * Fix multiple issues with limbs (#85008)
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2026-01-27-0458 (b71c56f)
 
 Cataclysm-DDA experimental build 2026-01-27-0359 (6089e09)
 * Fix spells not targeting vehicles properly (#84939)
-
-Cataclysm-DDA experimental build 2026-01-26-2344 (5eef848)
 * Correct the record about mingw usage being a blocker for concurrency. (#84942)
 * Also delete zstd.a on `make clean` (#84922)
 * Turn fluffy tail into a limb (#84935)
