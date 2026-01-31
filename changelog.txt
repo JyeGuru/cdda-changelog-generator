@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-01-31-0802 (1e1c7ca)
+* Move cata_path formatter specialization to .cpp (#85036)
+
 Cataclysm-DDA experimental build 2026-01-31-0630 (faf22f6)
 * Implement shopkeeper whitelist (#85031)
 
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2026-01-27-0559 (d354131)
 
 Cataclysm-DDA experimental build 2026-01-27-0458 (b71c56f)
 * Add Graphite and Feldspar to cave spawn pool (Innawood) (#84947)
-
-Cataclysm-DDA experimental build 2026-01-27-0359 (6089e09)
 * Fix spells not targeting vehicles properly (#84939)
 * Correct the record about mingw usage being a blocker for concurrency. (#84942)
 * Also delete zstd.a on `make clean` (#84922)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2026-01-27-0359 (6089e09)
 * Add oxygen level widgets (#84871)
 * Kitchen Knife Faults (#84876)
 * Expand snippets for spell "message" (#84881)
-* Show time to complete in hotwire option (#84869)
 * Clarify typos contained in long strings (#84873)
 * 10 more shipping container content nests (#84870)

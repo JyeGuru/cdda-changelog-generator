@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-31-0802 ([1e1c7ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0802))
+
+* Move cata_path formatter specialization to .cpp ([#85036](https://github.com/CleverRaven/Cataclysm-DDA/pull/85036))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-31-0630 ([faf22f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0630))
 
 * Implement shopkeeper whitelist ([#85031](https://github.com/CleverRaven/Cataclysm-DDA/pull/85031))
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-01-27-0458 ([b71c56f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-0458))
 
 * Add Graphite and Feldspar to cave spawn pool (Innawood) ([#84947](https://github.com/CleverRaven/Cataclysm-DDA/pull/84947))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-27-0359 ([6089e09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-0359))
-
 * Fix spells not targeting vehicles properly ([#84939](https://github.com/CleverRaven/Cataclysm-DDA/pull/84939))
 * Correct the record about mingw usage being a blocker for concurrency. ([#84942](https://github.com/CleverRaven/Cataclysm-DDA/pull/84942))
 * Also delete zstd.a on `make clean` ([#84922](https://github.com/CleverRaven/Cataclysm-DDA/pull/84922))
@@ -230,6 +231,5 @@
 * Add oxygen level widgets ([#84871](https://github.com/CleverRaven/Cataclysm-DDA/pull/84871))
 * Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
 * Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
-* Show time to complete in hotwire option ([#84869](https://github.com/CleverRaven/Cataclysm-DDA/pull/84869))
 * Clarify typos contained in long strings ([#84873](https://github.com/CleverRaven/Cataclysm-DDA/pull/84873))
 * 10 more shipping container content nests ([#84870](https://github.com/CleverRaven/Cataclysm-DDA/pull/84870))
