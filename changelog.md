@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-01-31-0437 ([2dd7e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0437))
+
+* Fix typos in code and comments ([#85034](https://github.com/CleverRaven/Cataclysm-DDA/pull/85034))
+* Fix multiple issues with limbs ([#85008](https://github.com/CleverRaven/Cataclysm-DDA/pull/85008))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-31-0346 ([98db8e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0346))
+
+* Put the military books back on their shelves ([#85020](https://github.com/CleverRaven/Cataclysm-DDA/pull/85020))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-01-31-0302 ([db993af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0302))
 
 * Add tarot reading ([#85011](https://github.com/CleverRaven/Cataclysm-DDA/pull/85011))
@@ -185,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-01-26-2344 ([5eef848](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2344))
 
 * Correct the record about mingw usage being a blocker for concurrency. ([#84942](https://github.com/CleverRaven/Cataclysm-DDA/pull/84942))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-26-2154 ([f61d9d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-26-2154))
-
 * Also delete zstd.a on `make clean` ([#84922](https://github.com/CleverRaven/Cataclysm-DDA/pull/84922))
 * Turn fluffy tail into a limb ([#84935](https://github.com/CleverRaven/Cataclysm-DDA/pull/84935))
 * Add a cooking recipe specifically to remove elderberries toxins ([#84932](https://github.com/CleverRaven/Cataclysm-DDA/pull/84932))
@@ -221,9 +229,6 @@
 * Add oxygen level widgets ([#84871](https://github.com/CleverRaven/Cataclysm-DDA/pull/84871))
 * Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
 * Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
-* Military IVAS + Hub 01 mission to get it ([#84865](https://github.com/CleverRaven/Cataclysm-DDA/pull/84865))
-* Reduce the rate of siphoning/drawing liquids from vehicles  ([#84866](https://github.com/CleverRaven/Cataclysm-DDA/pull/84866))
 * Show time to complete in hotwire option ([#84869](https://github.com/CleverRaven/Cataclysm-DDA/pull/84869))
 * Clarify typos contained in long strings ([#84873](https://github.com/CleverRaven/Cataclysm-DDA/pull/84873))
 * 10 more shipping container content nests ([#84870](https://github.com/CleverRaven/Cataclysm-DDA/pull/84870))
-* [Innawood] Add graphite deposits ([#84867](https://github.com/CleverRaven/Cataclysm-DDA/pull/84867))
