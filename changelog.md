@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-01-31-1657 ([9d63a21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-1657))
+
 * Fix surroundings menu window position on more variations of font settings ([#85046](https://github.com/CleverRaven/Cataclysm-DDA/pull/85046))
 
 ---
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-01-27-0811 ([14561db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-0811))
 
 * [MoM] Re energize targets vehicle ([#84936](https://github.com/CleverRaven/Cataclysm-DDA/pull/84936))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-27-0559 ([d354131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-0559))
-
 * [Mods] Use external options in the manipulation of mods skills and proficiencies ([#84945](https://github.com/CleverRaven/Cataclysm-DDA/pull/84945))
 * Pat dialogue expansion - other missions ([#84943](https://github.com/CleverRaven/Cataclysm-DDA/pull/84943))
 * Account for pickup capability when determining if items in a tile can be sorted ([#84930](https://github.com/CleverRaven/Cataclysm-DDA/pull/84930))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-01-31-1657 (9d63a21)
 * Fix surroundings menu window position on more variations of font settings (#85046)
 
 Cataclysm-DDA experimental build 2026-01-31-1602 (efe092f)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2026-01-27-1250 (c0d4c7b)
 
 Cataclysm-DDA experimental build 2026-01-27-0811 (14561db)
 * [MoM] Re energize targets vehicle (#84936)
-
-Cataclysm-DDA experimental build 2026-01-27-0559 (d354131)
 * [Mods] Use external options in the manipulation of mods skills and proficiencies (#84945)
 * Pat dialogue expansion - other missions (#84943)
 * Account for pickup capability when determining if items in a tile can be sorted (#84930)
