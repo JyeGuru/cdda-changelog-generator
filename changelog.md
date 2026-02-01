@@ -227,7 +227,6 @@
 * Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
 * Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
 * Promote "SWIM_UNDER" flag to docks and bridges. ([#84902](https://github.com/CleverRaven/Cataclysm-DDA/pull/84902))
-* Fix martial art menu string formatting ([#84884](https://github.com/CleverRaven/Cataclysm-DDA/pull/84884))
 * [alt-map-key] Add new overmap terrain ([#84897](https://github.com/CleverRaven/Cataclysm-DDA/pull/84897))
 * Turn Long Tail into a limb-adding mutation ([#84900](https://github.com/CleverRaven/Cataclysm-DDA/pull/84900))
 * Fix egg containers ([#84892](https://github.com/CleverRaven/Cataclysm-DDA/pull/84892))
