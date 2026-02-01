@@ -1,3 +1,5 @@
+* Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
+* [Bombastic Perks] Change the way you get playstyle perks ([#85054](https://github.com/CleverRaven/Cataclysm-DDA/pull/85054))
 
 ---
 
@@ -225,14 +227,12 @@
 * Fix a V menu crash ([#84929](https://github.com/CleverRaven/Cataclysm-DDA/pull/84929))
 * Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
 * [XE] Add three vampire hunter professions ([#84913](https://github.com/CleverRaven/Cataclysm-DDA/pull/84913))
-* Fix character rendering from complete zero when hit animation is played ([#84893](https://github.com/CleverRaven/Cataclysm-DDA/pull/84893))
 * Fix "you squeeze the last drops of X from Y" message appearing always  ([#84906](https://github.com/CleverRaven/Cataclysm-DDA/pull/84906))
 * Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
 * Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
 * Promote "SWIM_UNDER" flag to docks and bridges. ([#84902](https://github.com/CleverRaven/Cataclysm-DDA/pull/84902))
 * [alt-map-key] Add new overmap terrain ([#84897](https://github.com/CleverRaven/Cataclysm-DDA/pull/84897))
 * Turn Long Tail into a limb-adding mutation ([#84900](https://github.com/CleverRaven/Cataclysm-DDA/pull/84900))
-* Fix egg containers ([#84892](https://github.com/CleverRaven/Cataclysm-DDA/pull/84892))
 * Multi-activity overhaul part 6: activity_actor framework for multi-activities, move ACT_MULTIPLE_MINE to activity_actor ([#84894](https://github.com/CleverRaven/Cataclysm-DDA/pull/84894))
 * Brutes must grab you to throw you, add staggering blow ([#84899](https://github.com/CleverRaven/Cataclysm-DDA/pull/84899))
 * Hulk Lift and Smash ([#84901](https://github.com/CleverRaven/Cataclysm-DDA/pull/84901))
