@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-01-1609 ([01c4ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-1609))
+
+* Flying Polyps are out of phase ([#85051](https://github.com/CleverRaven/Cataclysm-DDA/pull/85051))
 * Remove science skill from "soapy water" (no longer trains it) ([#85045](https://github.com/CleverRaven/Cataclysm-DDA/pull/85045))
 
 ---
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-01-29-1417 ([076f927](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1417))
 
 * [Sky Island] Dummy EOCs so the innawood integration does not cause an error ([#84993](https://github.com/CleverRaven/Cataclysm-DDA/pull/84993))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-29-1020 ([eec267e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1020))
-
 * [Sky Island] Mod compatibility ([#84996](https://github.com/CleverRaven/Cataclysm-DDA/pull/84996))
 * Use ver 8 of @actions/github in release workflow ([#84997](https://github.com/CleverRaven/Cataclysm-DDA/pull/84997))
 * Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
@@ -226,7 +227,6 @@
 * [XE] Add three vampire hunter professions ([#84913](https://github.com/CleverRaven/Cataclysm-DDA/pull/84913))
 * Fix character rendering from complete zero when hit animation is played ([#84893](https://github.com/CleverRaven/Cataclysm-DDA/pull/84893))
 * Fix "you squeeze the last drops of X from Y" message appearing always  ([#84906](https://github.com/CleverRaven/Cataclysm-DDA/pull/84906))
-* Fix supermarket containers ([#84890](https://github.com/CleverRaven/Cataclysm-DDA/pull/84890))
 * Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
 * Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
 * Promote "SWIM_UNDER" flag to docks and bridges. ([#84902](https://github.com/CleverRaven/Cataclysm-DDA/pull/84902))
