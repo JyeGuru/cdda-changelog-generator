@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-01-1651 ([275a6e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-1651))
+
 * Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
 * [Bombastic Perks] Change the way you get playstyle perks ([#85054](https://github.com/CleverRaven/Cataclysm-DDA/pull/85054))
 
@@ -176,11 +181,6 @@
 * Chipped away at zone sorting issues ([#84974](https://github.com/CleverRaven/Cataclysm-DDA/pull/84974))
 * [No Hope] Actually use defined region settings ([#84999](https://github.com/CleverRaven/Cataclysm-DDA/pull/84999))
 * Shift surroundings menu to selected ([#84998](https://github.com/CleverRaven/Cataclysm-DDA/pull/84998))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-29-1417 ([076f927](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1417))
-
 * [Sky Island] Dummy EOCs so the innawood integration does not cause an error ([#84993](https://github.com/CleverRaven/Cataclysm-DDA/pull/84993))
 * [Sky Island] Mod compatibility ([#84996](https://github.com/CleverRaven/Cataclysm-DDA/pull/84996))
 * Use ver 8 of @actions/github in release workflow ([#84997](https://github.com/CleverRaven/Cataclysm-DDA/pull/84997))
