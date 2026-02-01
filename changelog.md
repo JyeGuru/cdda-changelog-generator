@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-01-0158 ([bb8f3d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-0158))
+
 * Make horse riding exerting, limit gaits to walk and run, fix them not doing anything ([#85021](https://github.com/CleverRaven/Cataclysm-DDA/pull/85021))
 * Fix typo in inventor effect ([#85049](https://github.com/CleverRaven/Cataclysm-DDA/pull/85049))
 
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-01-27-1430 ([c60626f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1430))
 
 * [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad ([#84951](https://github.com/CleverRaven/Cataclysm-DDA/pull/84951))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-27-1340 ([5ef48dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1340))
-
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Water frozen in winter veh and thick ice part. (4/5) ([#84931](https://github.com/CleverRaven/Cataclysm-DDA/pull/84931))
 * Show time to pick a lock in query string ([#84895](https://github.com/CleverRaven/Cataclysm-DDA/pull/84895))
