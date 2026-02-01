@@ -1,3 +1,10 @@
+* Remove science skill from "soapy water" (no longer trains it) ([#85045](https://github.com/CleverRaven/Cataclysm-DDA/pull/85045))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-01-1517 ([3fc6b42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-1517))
+
+* rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
 
 ---
 
@@ -173,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-01-29-1020 ([eec267e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1020))
 
 * [Sky Island] Mod compatibility ([#84996](https://github.com/CleverRaven/Cataclysm-DDA/pull/84996))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-29-0925 ([20a5343](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-0925))
-
 * Use ver 8 of @actions/github in release workflow ([#84997](https://github.com/CleverRaven/Cataclysm-DDA/pull/84997))
 * Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
 * Use constexpr structures in headers for units. ([#84983](https://github.com/CleverRaven/Cataclysm-DDA/pull/84983))
@@ -231,9 +233,7 @@
 * [alt-map-key] Add new overmap terrain ([#84897](https://github.com/CleverRaven/Cataclysm-DDA/pull/84897))
 * Turn Long Tail into a limb-adding mutation ([#84900](https://github.com/CleverRaven/Cataclysm-DDA/pull/84900))
 * Fix egg containers ([#84892](https://github.com/CleverRaven/Cataclysm-DDA/pull/84892))
-* Fix vehicles not being seriously impacted by flat tires ([#84888](https://github.com/CleverRaven/Cataclysm-DDA/pull/84888))
 * Multi-activity overhaul part 6: activity_actor framework for multi-activities, move ACT_MULTIPLE_MINE to activity_actor ([#84894](https://github.com/CleverRaven/Cataclysm-DDA/pull/84894))
 * Brutes must grab you to throw you, add staggering blow ([#84899](https://github.com/CleverRaven/Cataclysm-DDA/pull/84899))
 * Hulk Lift and Smash ([#84901](https://github.com/CleverRaven/Cataclysm-DDA/pull/84901))
 * Remove references to being hurt by your own unarmed attacks ([#84896](https://github.com/CleverRaven/Cataclysm-DDA/pull/84896))
-* Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
