@@ -1,3 +1,11 @@
+* Make horse riding exerting, limit gaits to walk and run, fix them not doing anything ([#85021](https://github.com/CleverRaven/Cataclysm-DDA/pull/85021))
+* Fix typo in inventor effect ([#85049](https://github.com/CleverRaven/Cataclysm-DDA/pull/85049))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-01-0111 ([761e73d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-0111))
+
+* Fix no wind in reverberation dimension ([#85048](https://github.com/CleverRaven/Cataclysm-DDA/pull/85048))
 
 ---
 
@@ -192,11 +200,6 @@
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Water frozen in winter veh and thick ice part. (4/5) ([#84931](https://github.com/CleverRaven/Cataclysm-DDA/pull/84931))
 * Show time to pick a lock in query string ([#84895](https://github.com/CleverRaven/Cataclysm-DDA/pull/84895))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-27-1250 ([c0d4c7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1250))
-
 * Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
 * Weekly Changelog 2026-01-19 to 2026-01-26 ([#84921](https://github.com/CleverRaven/Cataclysm-DDA/pull/84921))
 * [MoM] Re energize targets vehicle ([#84936](https://github.com/CleverRaven/Cataclysm-DDA/pull/84936))
@@ -234,7 +237,4 @@
 * Add tileset support for pets wearing armor ([#84885](https://github.com/CleverRaven/Cataclysm-DDA/pull/84885))
 * Pat will make an AR-compatible transponder if you've been friends a while ([#84882](https://github.com/CleverRaven/Cataclysm-DDA/pull/84882))
 * Remove references to being hurt by your own unarmed attacks ([#84896](https://github.com/CleverRaven/Cataclysm-DDA/pull/84896))
-* Fix ci for all time xe lol ([#84878](https://github.com/CleverRaven/Cataclysm-DDA/pull/84878))
 * Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
-* Kitchen Knife Faults ([#84876](https://github.com/CleverRaven/Cataclysm-DDA/pull/84876))
-* Expand snippets for spell "message" ([#84881](https://github.com/CleverRaven/Cataclysm-DDA/pull/84881))
