@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-01-0732 (94ea8d5)
 * Allow resuming hacksaw cutting metal with different tools (#85010)
 
 Cataclysm-DDA experimental build 2026-02-01-0646 (3c2d45c)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2026-01-29-0925 (20a5343)
 
 Cataclysm-DDA experimental build 2026-01-27-1930 (2d0a422)
 * Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor (#84962)
-
-Cataclysm-DDA experimental build 2026-01-27-1820 (764843d)
 * Nerf Hub 01 HEW recordings payment (#84956)
 * [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad (#84951)
 * [Old Lab Removal] Added nanofab microlab nest (#84952)
