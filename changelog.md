@@ -1,3 +1,10 @@
+* Allow resuming hacksaw cutting metal with different tools ([#85010](https://github.com/CleverRaven/Cataclysm-DDA/pull/85010))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-01-0646 ([3c2d45c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-0646))
+
+* Devourer evolution ([#84918](https://github.com/CleverRaven/Cataclysm-DDA/pull/84918))
 
 ---
 
@@ -191,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-01-27-1820 ([764843d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1820))
 
 * Nerf Hub 01 HEW recordings payment ([#84956](https://github.com/CleverRaven/Cataclysm-DDA/pull/84956))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-27-1430 ([c60626f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-27-1430))
-
 * [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad ([#84951](https://github.com/CleverRaven/Cataclysm-DDA/pull/84951))
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Water frozen in winter veh and thick ice part. (4/5) ([#84931](https://github.com/CleverRaven/Cataclysm-DDA/pull/84931))
@@ -233,8 +235,6 @@
 * Multi-activity overhaul part 6: activity_actor framework for multi-activities, move ACT_MULTIPLE_MINE to activity_actor ([#84894](https://github.com/CleverRaven/Cataclysm-DDA/pull/84894))
 * Brutes must grab you to throw you, add staggering blow ([#84899](https://github.com/CleverRaven/Cataclysm-DDA/pull/84899))
 * Hulk Lift and Smash ([#84901](https://github.com/CleverRaven/Cataclysm-DDA/pull/84901))
-* Monster attacks allow to split damage evenly across all limbs ([#84883](https://github.com/CleverRaven/Cataclysm-DDA/pull/84883))
 * Add tileset support for pets wearing armor ([#84885](https://github.com/CleverRaven/Cataclysm-DDA/pull/84885))
-* Pat will make an AR-compatible transponder if you've been friends a while ([#84882](https://github.com/CleverRaven/Cataclysm-DDA/pull/84882))
 * Remove references to being hurt by your own unarmed attacks ([#84896](https://github.com/CleverRaven/Cataclysm-DDA/pull/84896))
 * Add macos compile debug artifact "zzip.dSYM" to gitignore ([#84887](https://github.com/CleverRaven/Cataclysm-DDA/pull/84887))
