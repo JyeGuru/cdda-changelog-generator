@@ -1,3 +1,10 @@
+* [ Xedra Evolved ] Balance vampire blood storage ([#85067](https://github.com/CleverRaven/Cataclysm-DDA/pull/85067))
+* [Bombastic Perks] Kevlard perk ([#85050](https://github.com/CleverRaven/Cataclysm-DDA/pull/85050))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-02-0910 ([ef85898](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0910))
+
 * Wind Seasonal Variation Sanification ([#85065](https://github.com/CleverRaven/Cataclysm-DDA/pull/85065))
 * Support copy from in string extractor for overmap special ([#85071](https://github.com/CleverRaven/Cataclysm-DDA/pull/85071))
 
@@ -177,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-01-30-0135 ([2cb875a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-30-0135))
 
 * Move remaining queued_eocs members to .cpp to avoid list<> instantiation ([#85006](https://github.com/CleverRaven/Cataclysm-DDA/pull/85006))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-29-2316 ([e525d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-2316))
-
 * [MoM] Remove riot damage from labs ([#85007](https://github.com/CleverRaven/Cataclysm-DDA/pull/85007))
 * 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
 * Expose limb scores to math ([#84986](https://github.com/CleverRaven/Cataclysm-DDA/pull/84986))
@@ -235,5 +237,3 @@
 * Fix update_mapgen in missions to use mission target as origin instead of player if possible ([#84919](https://github.com/CleverRaven/Cataclysm-DDA/pull/84919))
 * Fix a V menu crash ([#84929](https://github.com/CleverRaven/Cataclysm-DDA/pull/84929))
 * Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
-* [XE] Add three vampire hunter professions ([#84913](https://github.com/CleverRaven/Cataclysm-DDA/pull/84913))
-* Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
