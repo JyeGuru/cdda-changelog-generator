@@ -1,3 +1,5 @@
+* Wind Seasonal Variation Sanification (#85065)
+* Support copy from in string extractor for overmap special (#85071)
 
 Cataclysm-DDA experimental build 2026-02-02-0720 (2aa63be)
 * Speed up autopickup (#85066)
@@ -147,6 +149,4 @@ Cataclysm-DDA experimental build 2026-01-29-2316 (e525d10)
 * Fix a V menu crash (#84929)
 * Light Fur and Sleek Fur cover your Long Tail (#84920)
 * [XE] Add three vampire hunter professions (#84913)
-* Fix "you squeeze the last drops of X from Y" message appearing always  (#84906)
 * Technique-ify Small Horns (#84912)
-* Read req_speed_bonus as double (#84909)

@@ -1,3 +1,5 @@
+* Wind Seasonal Variation Sanification ([#85065](https://github.com/CleverRaven/Cataclysm-DDA/pull/85065))
+* Support copy from in string extractor for overmap special ([#85071](https://github.com/CleverRaven/Cataclysm-DDA/pull/85071))
 
 ---
 
@@ -234,6 +236,4 @@
 * Fix a V menu crash ([#84929](https://github.com/CleverRaven/Cataclysm-DDA/pull/84929))
 * Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
 * [XE] Add three vampire hunter professions ([#84913](https://github.com/CleverRaven/Cataclysm-DDA/pull/84913))
-* Fix "you squeeze the last drops of X from Y" message appearing always  ([#84906](https://github.com/CleverRaven/Cataclysm-DDA/pull/84906))
 * Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
-* Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
