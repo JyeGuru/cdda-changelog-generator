@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-01-2352 ([86b90ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-2352))
+
+* [Bombastic Perks] Add more prerequisites for perks ([#85055](https://github.com/CleverRaven/Cataclysm-DDA/pull/85055))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-01-2042 ([4c39c75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-2042))
 
 * Revert monster getting hit animation ([#85061](https://github.com/CleverRaven/Cataclysm-DDA/pull/85061))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-01-29-1658 ([8943d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1658))
 
 * Fix LTO error ([#84995](https://github.com/CleverRaven/Cataclysm-DDA/pull/84995))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-29-1604 ([8a254d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1604))
-
 * Fix basic typos in code and comments ([#84978](https://github.com/CleverRaven/Cataclysm-DDA/pull/84978))
 * Fix add_mod printf specifier ([#85001](https://github.com/CleverRaven/Cataclysm-DDA/pull/85001))
 * Chipped away at zone sorting issues ([#84974](https://github.com/CleverRaven/Cataclysm-DDA/pull/84974))
@@ -208,7 +209,6 @@
 * [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad ([#84951](https://github.com/CleverRaven/Cataclysm-DDA/pull/84951))
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Water frozen in winter veh and thick ice part. (4/5) ([#84931](https://github.com/CleverRaven/Cataclysm-DDA/pull/84931))
-* Show time to pick a lock in query string ([#84895](https://github.com/CleverRaven/Cataclysm-DDA/pull/84895))
 * Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
 * Weekly Changelog 2026-01-19 to 2026-01-26 ([#84921](https://github.com/CleverRaven/Cataclysm-DDA/pull/84921))
 * [MoM] Re energize targets vehicle ([#84936](https://github.com/CleverRaven/Cataclysm-DDA/pull/84936))
