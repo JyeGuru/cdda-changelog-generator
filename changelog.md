@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-02-1012 ([332061e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-1012))
+
 * [ Xedra Evolved ] Balance vampire blood storage ([#85067](https://github.com/CleverRaven/Cataclysm-DDA/pull/85067))
 * [Bombastic Perks] Kevlard perk ([#85050](https://github.com/CleverRaven/Cataclysm-DDA/pull/85050))
 
