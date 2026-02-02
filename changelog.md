@@ -1,6 +1,27 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-02-0720 ([2aa63be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0720))
+
+* Speed up autopickup ([#85066](https://github.com/CleverRaven/Cataclysm-DDA/pull/85066))
+* Weekly Changelog 2026-01-26 to 2026-02-02 ([#85072](https://github.com/CleverRaven/Cataclysm-DDA/pull/85072))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-02-0623 ([f0d618f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0623))
+
+* Make weather be able to apply passive effects ([#85063](https://github.com/CleverRaven/Cataclysm-DDA/pull/85063))
+* [MoM] Added category tags to matrix crystals that were missing it ([#85068](https://github.com/CleverRaven/Cataclysm-DDA/pull/85068))
+* Add missing components to view priority from crafting menu ([#85069](https://github.com/CleverRaven/Cataclysm-DDA/pull/85069))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-02-0533 ([0d1fc9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0533))
+
+* [alt-map-key] Move alien meadow to base game ([#85070](https://github.com/CleverRaven/Cataclysm-DDA/pull/85070))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-01-2352 ([86b90ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-2352))
 
 * [Bombastic Perks] Add more prerequisites for perks ([#85055](https://github.com/CleverRaven/Cataclysm-DDA/pull/85055))
@@ -160,23 +181,8 @@
 #### Cataclysm-DDA experimental build 2026-01-29-2316 ([e525d10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-2316))
 
 * [MoM] Remove riot damage from labs ([#85007](https://github.com/CleverRaven/Cataclysm-DDA/pull/85007))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-29-2021 ([3ef9c93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-2021))
-
 * 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-29-1917 ([648bad3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1917))
-
 * Expose limb scores to math ([#84986](https://github.com/CleverRaven/Cataclysm-DDA/pull/84986))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-29-1658 ([8943d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-29-1658))
-
 * Fix LTO error ([#84995](https://github.com/CleverRaven/Cataclysm-DDA/pull/84995))
 * Fix basic typos in code and comments ([#84978](https://github.com/CleverRaven/Cataclysm-DDA/pull/84978))
 * Fix add_mod printf specifier ([#85001](https://github.com/CleverRaven/Cataclysm-DDA/pull/85001))
@@ -231,9 +237,3 @@
 * Fix "you squeeze the last drops of X from Y" message appearing always  ([#84906](https://github.com/CleverRaven/Cataclysm-DDA/pull/84906))
 * Technique-ify Small Horns ([#84912](https://github.com/CleverRaven/Cataclysm-DDA/pull/84912))
 * Read req_speed_bonus as double ([#84909](https://github.com/CleverRaven/Cataclysm-DDA/pull/84909))
-* Promote "SWIM_UNDER" flag to docks and bridges. ([#84902](https://github.com/CleverRaven/Cataclysm-DDA/pull/84902))
-* [alt-map-key] Add new overmap terrain ([#84897](https://github.com/CleverRaven/Cataclysm-DDA/pull/84897))
-* Turn Long Tail into a limb-adding mutation ([#84900](https://github.com/CleverRaven/Cataclysm-DDA/pull/84900))
-* Brutes must grab you to throw you, add staggering blow ([#84899](https://github.com/CleverRaven/Cataclysm-DDA/pull/84899))
-* Hulk Lift and Smash ([#84901](https://github.com/CleverRaven/Cataclysm-DDA/pull/84901))
-* Remove references to being hurt by your own unarmed attacks ([#84896](https://github.com/CleverRaven/Cataclysm-DDA/pull/84896))
