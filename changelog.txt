@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-03-2249 (68675ae)
 * [Xedra Evolved] Make Nether Sorcery learnable (#85016)
 
 Cataclysm-DDA experimental build 2026-02-03-2209 (d56fbfd)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2026-01-31-0217 (905a0c9)
 
 Cataclysm-DDA experimental build 2026-01-31-0025 (2d719de)
 * Improve vmenu sorting (#85023)
-
-Cataclysm-DDA experimental build 2026-01-30-2340 (1bbbecf)
 * Add missing multi_activity_locations() overrides (#85027)
 * bump osx runner version for 0.I (#85029)
 * Move MoM's alien meadow to vanilla (#85030)

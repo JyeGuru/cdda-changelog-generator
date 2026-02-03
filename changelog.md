@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-03-2249 ([68675ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-2249))
+
 * [Xedra Evolved] Make Nether Sorcery learnable ([#85016](https://github.com/CleverRaven/Cataclysm-DDA/pull/85016))
 
 ---
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-01-31-0025 ([2d719de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0025))
 
 * Improve vmenu sorting ([#85023](https://github.com/CleverRaven/Cataclysm-DDA/pull/85023))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-30-2340 ([1bbbecf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-30-2340))
-
 * Add missing multi_activity_locations() overrides ([#85027](https://github.com/CleverRaven/Cataclysm-DDA/pull/85027))
 * bump osx runner version for 0.I ([#85029](https://github.com/CleverRaven/Cataclysm-DDA/pull/85029))
 * Move MoM's alien meadow to vanilla ([#85030](https://github.com/CleverRaven/Cataclysm-DDA/pull/85030))
