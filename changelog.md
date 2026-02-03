@@ -1,3 +1,10 @@
+* [Xedra Evolved] Make Nether Sorcery learnable ([#85016](https://github.com/CleverRaven/Cataclysm-DDA/pull/85016))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-03-2209 ([d56fbfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-2209))
+
+* Convert Thick Tail to limb, add techniques ([#85090](https://github.com/CleverRaven/Cataclysm-DDA/pull/85090))
 
 ---
 
@@ -92,12 +99,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-02-01-0646 ([3c2d45c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-0646))
-
-* Devourer evolution ([#84918](https://github.com/CleverRaven/Cataclysm-DDA/pull/84918))
-
----
-
 #### Cataclysm-DDA experimental build 2026-02-01-0158 ([bb8f3d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-0158))
 
 * Make horse riding exerting, limit gaits to walk and run, fix them not doing anything ([#85021](https://github.com/CleverRaven/Cataclysm-DDA/pull/85021))
@@ -183,11 +184,6 @@
 * Add missing multi_activity_locations() overrides ([#85027](https://github.com/CleverRaven/Cataclysm-DDA/pull/85027))
 * bump osx runner version for 0.I ([#85029](https://github.com/CleverRaven/Cataclysm-DDA/pull/85029))
 * Move MoM's alien meadow to vanilla ([#85030](https://github.com/CleverRaven/Cataclysm-DDA/pull/85030))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-30-2244 ([4dc6c71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-30-2244))
-
 * Give krecks a bite attack ([#85017](https://github.com/CleverRaven/Cataclysm-DDA/pull/85017))
 * Move ACT_MULTIPLE_FISH/FARM/READ/STUDY to activity_actors ([#85012](https://github.com/CleverRaven/Cataclysm-DDA/pull/85012))
 * Move remaining queued_eocs members to .cpp to avoid list<> instantiation ([#85006](https://github.com/CleverRaven/Cataclysm-DDA/pull/85006))
@@ -240,6 +236,5 @@
 * Also delete zstd.a on `make clean` ([#84922](https://github.com/CleverRaven/Cataclysm-DDA/pull/84922))
 * Turn fluffy tail into a limb ([#84935](https://github.com/CleverRaven/Cataclysm-DDA/pull/84935))
 * Add a cooking recipe specifically to remove elderberries toxins ([#84932](https://github.com/CleverRaven/Cataclysm-DDA/pull/84932))
-* Fix update_mapgen in missions to use mission target as origin instead of player if possible ([#84919](https://github.com/CleverRaven/Cataclysm-DDA/pull/84919))
 * Fix a V menu crash ([#84929](https://github.com/CleverRaven/Cataclysm-DDA/pull/84929))
 * Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
