@@ -1,3 +1,4 @@
+* [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution (#85086)
 
 Cataclysm-DDA experimental build 2026-02-03-0633 (6fe1ef2)
 * Fix iwyu error in cata_variant (#85085)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2026-01-30-0514 (08d50d3)
 * [Mods] Use external options in the manipulation of mods skills and proficiencies (#84945)
 * Pat dialogue expansion - other missions (#84943)
 * Account for pickup capability when determining if items in a tile can be sorted (#84930)
-* Move ACT_MULTIPLE_MOP, ACT_MULTIPLE_CHOP_PLANKS, ACT_MULTIPLE_CHOP_TREES to activity actor (#84917)
 * Retune Pat's mission (#84944)
 * [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs (#84950)
 * Add Graphite and Feldspar to cave spawn pool (Innawood) (#84947)

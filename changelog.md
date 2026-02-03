@@ -1,3 +1,4 @@
+* [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
 
 ---
 
@@ -231,7 +232,6 @@
 * [Mods] Use external options in the manipulation of mods skills and proficiencies ([#84945](https://github.com/CleverRaven/Cataclysm-DDA/pull/84945))
 * Pat dialogue expansion - other missions ([#84943](https://github.com/CleverRaven/Cataclysm-DDA/pull/84943))
 * Account for pickup capability when determining if items in a tile can be sorted ([#84930](https://github.com/CleverRaven/Cataclysm-DDA/pull/84930))
-* Move ACT_MULTIPLE_MOP, ACT_MULTIPLE_CHOP_PLANKS, ACT_MULTIPLE_CHOP_TREES to activity actor ([#84917](https://github.com/CleverRaven/Cataclysm-DDA/pull/84917))
 * Retune Pat's mission ([#84944](https://github.com/CleverRaven/Cataclysm-DDA/pull/84944))
 * [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs ([#84950](https://github.com/CleverRaven/Cataclysm-DDA/pull/84950))
 * Add Graphite and Feldspar to cave spawn pool (Innawood) ([#84947](https://github.com/CleverRaven/Cataclysm-DDA/pull/84947))
