@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-03-0633 ([6fe1ef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-0633))
+
+* Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-02-1012 ([332061e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-1012))
 
 * [ Xedra Evolved ] Balance vampire blood storage ([#85067](https://github.com/CleverRaven/Cataclysm-DDA/pull/85067))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-01-30-0514 ([08d50d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-30-0514))
 
 * Move ACT_MULTIPLE_FISH/FARM/READ/STUDY to activity_actors ([#85012](https://github.com/CleverRaven/Cataclysm-DDA/pull/85012))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-30-0135 ([2cb875a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-30-0135))
-
 * Move remaining queued_eocs members to .cpp to avoid list<> instantiation ([#85006](https://github.com/CleverRaven/Cataclysm-DDA/pull/85006))
 * [MoM] Remove riot damage from labs ([#85007](https://github.com/CleverRaven/Cataclysm-DDA/pull/85007))
 * 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
