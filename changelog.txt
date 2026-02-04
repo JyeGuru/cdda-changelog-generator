@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-04-1628 (16af71d)
 * Adds dimension name to the debug info in the map sidebar (#85103)
 
 Cataclysm-DDA experimental build 2026-02-04-1546 (7d171c1)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2026-01-31-1602 (efe092f)
 
 Cataclysm-DDA experimental build 2026-01-31-0802 (1e1c7ca)
 * Move cata_path formatter specialization to .cpp (#85036)
-
-Cataclysm-DDA experimental build 2026-01-31-0630 (faf22f6)
 * Implement shopkeeper whitelist (#85031)
 * Fix typos in code and comments (#85034)
 * Fix multiple issues with limbs (#85008)
