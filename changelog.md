@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-04-0613 ([aec8578](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0613))
+
+* Woodland wights and antlered horrors will bite you ([#85097](https://github.com/CleverRaven/Cataclysm-DDA/pull/85097))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-04-0525 ([8712201](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0525))
+
+* Add flags to mech laser rifles ([#85095](https://github.com/CleverRaven/Cataclysm-DDA/pull/85095))
+* [MoM] Reduce cost of some artifact abilities ([#85098](https://github.com/CleverRaven/Cataclysm-DDA/pull/85098))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-04-0432 ([254b924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0432))
 
 * Fix surroundings menu freeze ([#85080](https://github.com/CleverRaven/Cataclysm-DDA/pull/85080))
@@ -169,17 +182,7 @@
 
 * Fix typos in code and comments ([#85034](https://github.com/CleverRaven/Cataclysm-DDA/pull/85034))
 * Fix multiple issues with limbs ([#85008](https://github.com/CleverRaven/Cataclysm-DDA/pull/85008))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-31-0346 ([98db8e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0346))
-
 * Put the military books back on their shelves ([#85020](https://github.com/CleverRaven/Cataclysm-DDA/pull/85020))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-31-0302 ([db993af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0302))
-
 * Add tarot reading ([#85011](https://github.com/CleverRaven/Cataclysm-DDA/pull/85011))
 * Rocky fields/scars for string dimension ([#85022](https://github.com/CleverRaven/Cataclysm-DDA/pull/85022))
 * Improve vmenu sorting ([#85023](https://github.com/CleverRaven/Cataclysm-DDA/pull/85023))
@@ -228,13 +231,10 @@
 * [MoM] Re energize targets vehicle ([#84936](https://github.com/CleverRaven/Cataclysm-DDA/pull/84936))
 * [Mods] Use external options in the manipulation of mods skills and proficiencies ([#84945](https://github.com/CleverRaven/Cataclysm-DDA/pull/84945))
 * Pat dialogue expansion - other missions ([#84943](https://github.com/CleverRaven/Cataclysm-DDA/pull/84943))
-* Account for pickup capability when determining if items in a tile can be sorted ([#84930](https://github.com/CleverRaven/Cataclysm-DDA/pull/84930))
 * Retune Pat's mission ([#84944](https://github.com/CleverRaven/Cataclysm-DDA/pull/84944))
 * [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs ([#84950](https://github.com/CleverRaven/Cataclysm-DDA/pull/84950))
 * Add Graphite and Feldspar to cave spawn pool (Innawood) ([#84947](https://github.com/CleverRaven/Cataclysm-DDA/pull/84947))
 * Fix spells not targeting vehicles properly ([#84939](https://github.com/CleverRaven/Cataclysm-DDA/pull/84939))
 * Correct the record about mingw usage being a blocker for concurrency. ([#84942](https://github.com/CleverRaven/Cataclysm-DDA/pull/84942))
-* Also delete zstd.a on `make clean` ([#84922](https://github.com/CleverRaven/Cataclysm-DDA/pull/84922))
 * Turn fluffy tail into a limb ([#84935](https://github.com/CleverRaven/Cataclysm-DDA/pull/84935))
 * Add a cooking recipe specifically to remove elderberries toxins ([#84932](https://github.com/CleverRaven/Cataclysm-DDA/pull/84932))
-* Fix a V menu crash ([#84929](https://github.com/CleverRaven/Cataclysm-DDA/pull/84929))
