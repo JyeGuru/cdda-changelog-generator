@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-04-0432 ([254b924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0432))
+
+* Fix surroundings menu freeze ([#85080](https://github.com/CleverRaven/Cataclysm-DDA/pull/85080))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-04-0344 ([7408148](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0344))
+
+* Add deprioritize components of a recipe to the crafting menu ([#85081](https://github.com/CleverRaven/Cataclysm-DDA/pull/85081))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-03-2249 ([68675ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-2249))
 
 * [Xedra Evolved] Make Nether Sorcery learnable ([#85016](https://github.com/CleverRaven/Cataclysm-DDA/pull/85016))
@@ -169,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-01-31-0302 ([db993af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0302))
 
 * Add tarot reading ([#85011](https://github.com/CleverRaven/Cataclysm-DDA/pull/85011))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-31-0217 ([905a0c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0217))
-
 * Rocky fields/scars for string dimension ([#85022](https://github.com/CleverRaven/Cataclysm-DDA/pull/85022))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-31-0025 ([2d719de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0025))
-
 * Improve vmenu sorting ([#85023](https://github.com/CleverRaven/Cataclysm-DDA/pull/85023))
 * Add missing multi_activity_locations() overrides ([#85027](https://github.com/CleverRaven/Cataclysm-DDA/pull/85027))
 * bump osx runner version for 0.I ([#85029](https://github.com/CleverRaven/Cataclysm-DDA/pull/85029))
@@ -223,7 +225,6 @@
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Water frozen in winter veh and thick ice part. (4/5) ([#84931](https://github.com/CleverRaven/Cataclysm-DDA/pull/84931))
 * Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
-* Weekly Changelog 2026-01-19 to 2026-01-26 ([#84921](https://github.com/CleverRaven/Cataclysm-DDA/pull/84921))
 * [MoM] Re energize targets vehicle ([#84936](https://github.com/CleverRaven/Cataclysm-DDA/pull/84936))
 * [Mods] Use external options in the manipulation of mods skills and proficiencies ([#84945](https://github.com/CleverRaven/Cataclysm-DDA/pull/84945))
 * Pat dialogue expansion - other missions ([#84943](https://github.com/CleverRaven/Cataclysm-DDA/pull/84943))
@@ -237,4 +238,3 @@
 * Turn fluffy tail into a limb ([#84935](https://github.com/CleverRaven/Cataclysm-DDA/pull/84935))
 * Add a cooking recipe specifically to remove elderberries toxins ([#84932](https://github.com/CleverRaven/Cataclysm-DDA/pull/84932))
 * Fix a V menu crash ([#84929](https://github.com/CleverRaven/Cataclysm-DDA/pull/84929))
-* Light Fur and Sleek Fur cover your Long Tail ([#84920](https://github.com/CleverRaven/Cataclysm-DDA/pull/84920))
