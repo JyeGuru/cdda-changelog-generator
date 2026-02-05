@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-05-0725 ([6f2ec53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0725))
+
+* Dermatik birth just plain kills you ([#85092](https://github.com/CleverRaven/Cataclysm-DDA/pull/85092))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-05-0440 ([a2180bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0440))
 
 * Slightly improve repair message ([#85091](https://github.com/CleverRaven/Cataclysm-DDA/pull/85091))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-02-01-0111 ([761e73d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-0111))
 
 * Fix no wind in reverberation dimension ([#85048](https://github.com/CleverRaven/Cataclysm-DDA/pull/85048))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-31-2108 ([f1ca942](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-2108))
-
 * Remove misfire mention from all ammo, remove NEVER_MISFIRES flag  ([#85043](https://github.com/CleverRaven/Cataclysm-DDA/pull/85043))
 * [XE] The holy-burnt suffer from wearing holy symbols. ([#85015](https://github.com/CleverRaven/Cataclysm-DDA/pull/85015))
 * Fix surroundings menu window position on more variations of font settings ([#85046](https://github.com/CleverRaven/Cataclysm-DDA/pull/85046))
@@ -234,7 +235,6 @@
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
 * [Mods] Use external options in the manipulation of mods skills and proficiencies ([#84945](https://github.com/CleverRaven/Cataclysm-DDA/pull/84945))
-* Pat dialogue expansion - other missions ([#84943](https://github.com/CleverRaven/Cataclysm-DDA/pull/84943))
 * Retune Pat's mission ([#84944](https://github.com/CleverRaven/Cataclysm-DDA/pull/84944))
 * [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs ([#84950](https://github.com/CleverRaven/Cataclysm-DDA/pull/84950))
 * Add Graphite and Feldspar to cave spawn pool (Innawood) ([#84947](https://github.com/CleverRaven/Cataclysm-DDA/pull/84947))
