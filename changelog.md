@@ -1,3 +1,5 @@
+* Make inv_search_cache operate on item_location ([#85088](https://github.com/CleverRaven/Cataclysm-DDA/pull/85088))
+* Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
 
 ---
 
@@ -237,4 +239,3 @@
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
 * [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs ([#84950](https://github.com/CleverRaven/Cataclysm-DDA/pull/84950))
-* Add Graphite and Feldspar to cave spawn pool (Innawood) ([#84947](https://github.com/CleverRaven/Cataclysm-DDA/pull/84947))
