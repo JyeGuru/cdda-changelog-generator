@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-05-2142 ([54e2486](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-2142))
+
 * Make inv_search_cache operate on item_location ([#85088](https://github.com/CleverRaven/Cataclysm-DDA/pull/85088))
 * Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
 
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-02-01-1251 ([1d0e791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-1251))
 
 * [ Xedra Evolved ] Fix typo in Thirst Trouncer ([#85056](https://github.com/CleverRaven/Cataclysm-DDA/pull/85056))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-01-0732 ([94ea8d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-0732))
-
 * Allow resuming hacksaw cutting metal with different tools ([#85010](https://github.com/CleverRaven/Cataclysm-DDA/pull/85010))
 * Make horse riding exerting, limit gaits to walk and run, fix them not doing anything ([#85021](https://github.com/CleverRaven/Cataclysm-DDA/pull/85021))
 * Fix typo in inventor effect ([#85049](https://github.com/CleverRaven/Cataclysm-DDA/pull/85049))
