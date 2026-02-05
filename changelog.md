@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-05-0124 ([d10820d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0124))
+
+* Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-05-0025 ([19890b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0025))
+
+* [XE] Tier 5 vampires don't feel cold temperatures. ([#85082](https://github.com/CleverRaven/Cataclysm-DDA/pull/85082))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-04-1628 ([16af71d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-1628))
 
 * Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
@@ -169,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-01-31-1657 ([9d63a21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-1657))
 
 * Fix surroundings menu window position on more variations of font settings ([#85046](https://github.com/CleverRaven/Cataclysm-DDA/pull/85046))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-31-1602 ([efe092f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-1602))
-
 * Move ACT_MULTIPLE_CRAFT, ACT_MULTIPLE_DIS(assembly) to activity_actors ([#85040](https://github.com/CleverRaven/Cataclysm-DDA/pull/85040))
-
----
-
-#### Cataclysm-DDA experimental build 2026-01-31-0802 ([1e1c7ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-01-31-0802))
-
 * Move cata_path formatter specialization to .cpp ([#85036](https://github.com/CleverRaven/Cataclysm-DDA/pull/85036))
 * Implement shopkeeper whitelist ([#85031](https://github.com/CleverRaven/Cataclysm-DDA/pull/85031))
 * Fix typos in code and comments ([#85034](https://github.com/CleverRaven/Cataclysm-DDA/pull/85034))
@@ -229,7 +231,6 @@
 * [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad ([#84951](https://github.com/CleverRaven/Cataclysm-DDA/pull/84951))
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
-* [MoM] Re energize targets vehicle ([#84936](https://github.com/CleverRaven/Cataclysm-DDA/pull/84936))
 * [Mods] Use external options in the manipulation of mods skills and proficiencies ([#84945](https://github.com/CleverRaven/Cataclysm-DDA/pull/84945))
 * Pat dialogue expansion - other missions ([#84943](https://github.com/CleverRaven/Cataclysm-DDA/pull/84943))
 * Retune Pat's mission ([#84944](https://github.com/CleverRaven/Cataclysm-DDA/pull/84944))
@@ -237,4 +238,3 @@
 * Add Graphite and Feldspar to cave spawn pool (Innawood) ([#84947](https://github.com/CleverRaven/Cataclysm-DDA/pull/84947))
 * Fix spells not targeting vehicles properly ([#84939](https://github.com/CleverRaven/Cataclysm-DDA/pull/84939))
 * Correct the record about mingw usage being a blocker for concurrency. ([#84942](https://github.com/CleverRaven/Cataclysm-DDA/pull/84942))
-* Turn fluffy tail into a limb ([#84935](https://github.com/CleverRaven/Cataclysm-DDA/pull/84935))
