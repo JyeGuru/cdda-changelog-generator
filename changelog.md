@@ -1,3 +1,10 @@
+* Multilevel dungeon for the string dimension ([#85104](https://github.com/CleverRaven/Cataclysm-DDA/pull/85104))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-05-1438 ([5cba244](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-1438))
+
+* remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
 
 ---
 
@@ -175,11 +182,6 @@
 
 * Make horse riding exerting, limit gaits to walk and run, fix them not doing anything ([#85021](https://github.com/CleverRaven/Cataclysm-DDA/pull/85021))
 * Fix typo in inventor effect ([#85049](https://github.com/CleverRaven/Cataclysm-DDA/pull/85049))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-01-0111 ([761e73d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-0111))
-
 * Fix no wind in reverberation dimension ([#85048](https://github.com/CleverRaven/Cataclysm-DDA/pull/85048))
 * Remove misfire mention from all ammo, remove NEVER_MISFIRES flag  ([#85043](https://github.com/CleverRaven/Cataclysm-DDA/pull/85043))
 * [XE] The holy-burnt suffer from wearing holy symbols. ([#85015](https://github.com/CleverRaven/Cataclysm-DDA/pull/85015))
@@ -234,7 +236,5 @@
 * [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad ([#84951](https://github.com/CleverRaven/Cataclysm-DDA/pull/84951))
 * [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
-* [Mods] Use external options in the manipulation of mods skills and proficiencies ([#84945](https://github.com/CleverRaven/Cataclysm-DDA/pull/84945))
-* Retune Pat's mission ([#84944](https://github.com/CleverRaven/Cataclysm-DDA/pull/84944))
 * [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs ([#84950](https://github.com/CleverRaven/Cataclysm-DDA/pull/84950))
 * Add Graphite and Feldspar to cave spawn pool (Innawood) ([#84947](https://github.com/CleverRaven/Cataclysm-DDA/pull/84947))
