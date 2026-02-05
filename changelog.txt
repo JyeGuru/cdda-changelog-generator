@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-05-0440 (a2180bc)
 * Slightly improve repair message (#85091)
 
 Cataclysm-DDA experimental build 2026-02-05-0347 (313d0dd)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2026-02-01-0111 (761e73d)
 
 Cataclysm-DDA experimental build 2026-01-31-2108 (f1ca942)
 * Remove misfire mention from all ammo, remove NEVER_MISFIRES flag  (#85043)
-
-Cataclysm-DDA experimental build 2026-01-31-1900 (607d349)
 * [XE] The holy-burnt suffer from wearing holy symbols. (#85015)
 * Fix surroundings menu window position on more variations of font settings (#85046)
 * Move ACT_MULTIPLE_CRAFT, ACT_MULTIPLE_DIS(assembly) to activity_actors (#85040)
