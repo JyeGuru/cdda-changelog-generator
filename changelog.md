@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-06-2212 ([7816be7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-2212))
+
+* Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-06-1219 ([5fdf539](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-1219))
 
 * Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-02-01-2042 ([4c39c75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-2042))
 
 * Revert monster getting hit animation ([#85061](https://github.com/CleverRaven/Cataclysm-DDA/pull/85061))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-01-1651 ([275a6e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-1651))
-
 * Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
 * [Bombastic Perks] Change the way you get playstyle perks ([#85054](https://github.com/CleverRaven/Cataclysm-DDA/pull/85054))
 * Flying Polyps are out of phase ([#85051](https://github.com/CleverRaven/Cataclysm-DDA/pull/85051))
@@ -237,4 +238,3 @@
 * Move surroundings_menu_tab_enum to enums.h ([#84957](https://github.com/CleverRaven/Cataclysm-DDA/pull/84957))
 * Limbify spiked tail ([#84964](https://github.com/CleverRaven/Cataclysm-DDA/pull/84964))
 * Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor ([#84962](https://github.com/CleverRaven/Cataclysm-DDA/pull/84962))
-* Nerf Hub 01 HEW recordings payment ([#84956](https://github.com/CleverRaven/Cataclysm-DDA/pull/84956))
