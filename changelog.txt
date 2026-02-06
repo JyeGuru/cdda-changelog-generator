@@ -1,3 +1,4 @@
+* Improve surroundings menu performance (#85139)
 
 Cataclysm-DDA experimental build 2026-02-05-2142 (54e2486)
 * Make inv_search_cache operate on item_location (#85088)
@@ -148,7 +149,5 @@ Cataclysm-DDA experimental build 2026-02-01-1251 (1d0e791)
 * Limbify spiked tail (#84964)
 * Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor (#84962)
 * Nerf Hub 01 HEW recordings payment (#84956)
-* [Xedra Evolved] Fix elemental fae joining the Butlerian Jihad (#84951)
 * [Old Lab Removal] Added nanofab microlab nest (#84952)
 * Fix m24 spawning with mods that can't be mounted (#84954)
-* [Old Lab Removal] Old guard doctor quests updated to new labs instead of old labs (#84950)
