@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-06-1219 ([5fdf539](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-1219))
+
+* Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-06-0743 ([4cf1af2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-0743))
 
 * Add spiral mine & string dimension to HEW/Hub dialogue & Pat/Pat's headsets ([#85118](https://github.com/CleverRaven/Cataclysm-DDA/pull/85118))
@@ -175,11 +181,6 @@
 
 * Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
 * [Bombastic Perks] Change the way you get playstyle perks ([#85054](https://github.com/CleverRaven/Cataclysm-DDA/pull/85054))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-01-1609 ([01c4ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-1609))
-
 * Flying Polyps are out of phase ([#85051](https://github.com/CleverRaven/Cataclysm-DDA/pull/85051))
 * Remove science skill from "soapy water" (no longer trains it) ([#85045](https://github.com/CleverRaven/Cataclysm-DDA/pull/85045))
 * rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
@@ -233,7 +234,6 @@
 * Show time to hacksaw before committing to doing it ([#84968](https://github.com/CleverRaven/Cataclysm-DDA/pull/84968))
 * Properly cache and reuse rottable materials set ([#84967](https://github.com/CleverRaven/Cataclysm-DDA/pull/84967))
 * Add `stamina_max` u_val ([#84966](https://github.com/CleverRaven/Cataclysm-DDA/pull/84966))
-* Pat can do some recon & signpost interesting areas ([#84955](https://github.com/CleverRaven/Cataclysm-DDA/pull/84955))
 * Move surroundings_menu_tab_enum to enums.h ([#84957](https://github.com/CleverRaven/Cataclysm-DDA/pull/84957))
 * Limbify spiked tail ([#84964](https://github.com/CleverRaven/Cataclysm-DDA/pull/84964))
 * Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor ([#84962](https://github.com/CleverRaven/Cataclysm-DDA/pull/84962))
