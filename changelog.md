@@ -1,3 +1,9 @@
+* Hide weight for NPCs generated in older versions ([#85137](https://github.com/CleverRaven/Cataclysm-DDA/pull/85137))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-06-0531 ([e51a764](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-0531))
+
 * Improve surroundings menu performance ([#85139](https://github.com/CleverRaven/Cataclysm-DDA/pull/85139))
 
 ---
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-02-01-1517 ([3fc6b42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-1517))
 
 * rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-01-1251 ([1d0e791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-1251))
-
 * [ Xedra Evolved ] Fix typo in Thirst Trouncer ([#85056](https://github.com/CleverRaven/Cataclysm-DDA/pull/85056))
 * Allow resuming hacksaw cutting metal with different tools ([#85010](https://github.com/CleverRaven/Cataclysm-DDA/pull/85010))
 * Make horse riding exerting, limit gaits to walk and run, fix them not doing anything ([#85021](https://github.com/CleverRaven/Cataclysm-DDA/pull/85021))
@@ -236,5 +237,4 @@
 * Limbify spiked tail ([#84964](https://github.com/CleverRaven/Cataclysm-DDA/pull/84964))
 * Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor ([#84962](https://github.com/CleverRaven/Cataclysm-DDA/pull/84962))
 * Nerf Hub 01 HEW recordings payment ([#84956](https://github.com/CleverRaven/Cataclysm-DDA/pull/84956))
-* [Old Lab Removal] Added nanofab microlab nest ([#84952](https://github.com/CleverRaven/Cataclysm-DDA/pull/84952))
 * Fix m24 spawning with mods that can't be mounted ([#84954](https://github.com/CleverRaven/Cataclysm-DDA/pull/84954))
