@@ -1,3 +1,10 @@
+* [Sky Island] Rebalance the infinity material crafts ([#85121](https://github.com/CleverRaven/Cataclysm-DDA/pull/85121))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-07-1610 ([61986ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-1610))
+
+* [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
 * tweak the ziggurat exit, string dimension ([#85116](https://github.com/CleverRaven/Cataclysm-DDA/pull/85116))
 * Implement basic filters for monsters and terrain and furniture ([#85119](https://github.com/CleverRaven/Cataclysm-DDA/pull/85119))
 * Implement checks if character is in vehicle, in furniture, and in furniture with flag ([#85115](https://github.com/CleverRaven/Cataclysm-DDA/pull/85115))
@@ -175,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-02-03-0633 ([6fe1ef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-0633))
 
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-02-1012 ([332061e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-1012))
-
 * [ Xedra Evolved ] Balance vampire blood storage ([#85067](https://github.com/CleverRaven/Cataclysm-DDA/pull/85067))
 * [Bombastic Perks] Kevlard perk ([#85050](https://github.com/CleverRaven/Cataclysm-DDA/pull/85050))
 * Wind Seasonal Variation Sanification ([#85065](https://github.com/CleverRaven/Cataclysm-DDA/pull/85065))
@@ -231,7 +233,5 @@
 * [Sky Island] Mod compatibility ([#84996](https://github.com/CleverRaven/Cataclysm-DDA/pull/84996))
 * Use ver 8 of @actions/github in release workflow ([#84997](https://github.com/CleverRaven/Cataclysm-DDA/pull/84997))
 * Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
-* Use constexpr structures in headers for units. ([#84983](https://github.com/CleverRaven/Cataclysm-DDA/pull/84983))
-* [Innawood] Add small ravines to Innawood ([#84984](https://github.com/CleverRaven/Cataclysm-DDA/pull/84984))
 * Move queued_eoc functions into .cpp for build time savings ([#84987](https://github.com/CleverRaven/Cataclysm-DDA/pull/84987))
 * Show objective directions on overmap ([#84988](https://github.com/CleverRaven/Cataclysm-DDA/pull/84988))
