@@ -1,3 +1,12 @@
+* [Sky Island] Undamage the cars ([#85089](https://github.com/CleverRaven/Cataclysm-DDA/pull/85089))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-07-0506 ([a2cef20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0506))
+
+* Add club tail as a body part ([#85120](https://github.com/CleverRaven/Cataclysm-DDA/pull/85120))
+* [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
+* Fix grammar in damage messages for abomination spawn ([#85125](https://github.com/CleverRaven/Cataclysm-DDA/pull/85125))
 * [Xedra Evolved] Sapshield ([#85130](https://github.com/CleverRaven/Cataclysm-DDA/pull/85130))
 * Hunting horrors have a poison that makes you burn in light ([#85131](https://github.com/CleverRaven/Cataclysm-DDA/pull/85131))
 * Rework No Trace Yet I Wish ([#85134](https://github.com/CleverRaven/Cataclysm-DDA/pull/85134))
@@ -176,11 +185,6 @@
 
 * Wind Seasonal Variation Sanification ([#85065](https://github.com/CleverRaven/Cataclysm-DDA/pull/85065))
 * Support copy from in string extractor for overmap special ([#85071](https://github.com/CleverRaven/Cataclysm-DDA/pull/85071))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-02-0720 ([2aa63be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0720))
-
 * Speed up autopickup ([#85066](https://github.com/CleverRaven/Cataclysm-DDA/pull/85066))
 * Weekly Changelog 2026-01-26 to 2026-02-02 ([#85072](https://github.com/CleverRaven/Cataclysm-DDA/pull/85072))
 * Make weather be able to apply passive effects ([#85063](https://github.com/CleverRaven/Cataclysm-DDA/pull/85063))
@@ -221,9 +225,7 @@
 * 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
 * Expose limb scores to math ([#84986](https://github.com/CleverRaven/Cataclysm-DDA/pull/84986))
 * Fix LTO error ([#84995](https://github.com/CleverRaven/Cataclysm-DDA/pull/84995))
-* Fix basic typos in code and comments ([#84978](https://github.com/CleverRaven/Cataclysm-DDA/pull/84978))
 * Fix add_mod printf specifier ([#85001](https://github.com/CleverRaven/Cataclysm-DDA/pull/85001))
-* Chipped away at zone sorting issues ([#84974](https://github.com/CleverRaven/Cataclysm-DDA/pull/84974))
 * [No Hope] Actually use defined region settings ([#84999](https://github.com/CleverRaven/Cataclysm-DDA/pull/84999))
 * Shift surroundings menu to selected ([#84998](https://github.com/CleverRaven/Cataclysm-DDA/pull/84998))
 * [Sky Island] Dummy EOCs so the innawood integration does not cause an error ([#84993](https://github.com/CleverRaven/Cataclysm-DDA/pull/84993))
@@ -237,5 +239,3 @@
 * Show objective directions on overmap ([#84988](https://github.com/CleverRaven/Cataclysm-DDA/pull/84988))
 * Boomer glutton has no physical attacks ([#84979](https://github.com/CleverRaven/Cataclysm-DDA/pull/84979))
 * Fix surroundings menu layout bugs ([#84981](https://github.com/CleverRaven/Cataclysm-DDA/pull/84981))
-* Remove free attack from rabbit feet ([#84975](https://github.com/CleverRaven/Cataclysm-DDA/pull/84975))
-* Can I has bug confirm permission? ([#84973](https://github.com/CleverRaven/Cataclysm-DDA/pull/84973))
