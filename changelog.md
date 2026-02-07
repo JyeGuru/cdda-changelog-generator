@@ -182,11 +182,6 @@
 
 * [ Xedra Evolved ] Balance vampire blood storage ([#85067](https://github.com/CleverRaven/Cataclysm-DDA/pull/85067))
 * [Bombastic Perks] Kevlard perk ([#85050](https://github.com/CleverRaven/Cataclysm-DDA/pull/85050))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-02-0910 ([ef85898](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0910))
-
 * Wind Seasonal Variation Sanification ([#85065](https://github.com/CleverRaven/Cataclysm-DDA/pull/85065))
 * Support copy from in string extractor for overmap special ([#85071](https://github.com/CleverRaven/Cataclysm-DDA/pull/85071))
 * Speed up autopickup ([#85066](https://github.com/CleverRaven/Cataclysm-DDA/pull/85066))
