@@ -1,3 +1,7 @@
+* tweak the ziggurat exit, string dimension ([#85116](https://github.com/CleverRaven/Cataclysm-DDA/pull/85116))
+* Implement basic filters for monsters and terrain and furniture ([#85119](https://github.com/CleverRaven/Cataclysm-DDA/pull/85119))
+* Implement checks if character is in vehicle, in furniture, and in furniture with flag ([#85115](https://github.com/CleverRaven/Cataclysm-DDA/pull/85115))
+* Add a .natvis file to improve visual studio debugging ([#85084](https://github.com/CleverRaven/Cataclysm-DDA/pull/85084))
 * [Sky Island] Undamage the cars ([#85089](https://github.com/CleverRaven/Cataclysm-DDA/pull/85089))
 
 ---
@@ -234,8 +238,5 @@
 * Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
 * Use constexpr structures in headers for units. ([#84983](https://github.com/CleverRaven/Cataclysm-DDA/pull/84983))
 * [Innawood] Add small ravines to Innawood ([#84984](https://github.com/CleverRaven/Cataclysm-DDA/pull/84984))
-* [Xedra Evolved] Karma Arms rebalance ([#84982](https://github.com/CleverRaven/Cataclysm-DDA/pull/84982))
 * Move queued_eoc functions into .cpp for build time savings ([#84987](https://github.com/CleverRaven/Cataclysm-DDA/pull/84987))
 * Show objective directions on overmap ([#84988](https://github.com/CleverRaven/Cataclysm-DDA/pull/84988))
-* Boomer glutton has no physical attacks ([#84979](https://github.com/CleverRaven/Cataclysm-DDA/pull/84979))
-* Fix surroundings menu layout bugs ([#84981](https://github.com/CleverRaven/Cataclysm-DDA/pull/84981))
