@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-07-1848 ([d014545](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-1848))
+
 * Remove carpet redundancy ([#85087](https://github.com/CleverRaven/Cataclysm-DDA/pull/85087))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-02-03-2209 ([d56fbfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-2209))
 
 * Convert Thick Tail to limb, add techniques ([#85090](https://github.com/CleverRaven/Cataclysm-DDA/pull/85090))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-03-1651 ([aff9a25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-1651))
-
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
 * [ Xedra Evolved ] Balance vampire blood storage ([#85067](https://github.com/CleverRaven/Cataclysm-DDA/pull/85067))
