@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-07-1655 ([17550dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-1655))
+
+* Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Sky Island] Rebalance the infinity material crafts ([#85121](https://github.com/CleverRaven/Cataclysm-DDA/pull/85121))
 
 ---
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-02-03-1651 ([aff9a25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-1651))
 
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-03-0633 ([6fe1ef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-0633))
-
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
 * [ Xedra Evolved ] Balance vampire blood storage ([#85067](https://github.com/CleverRaven/Cataclysm-DDA/pull/85067))
 * [Bombastic Perks] Kevlard perk ([#85050](https://github.com/CleverRaven/Cataclysm-DDA/pull/85050))
@@ -224,7 +225,6 @@
 * Move remaining queued_eocs members to .cpp to avoid list<> instantiation ([#85006](https://github.com/CleverRaven/Cataclysm-DDA/pull/85006))
 * [MoM] Remove riot damage from labs ([#85007](https://github.com/CleverRaven/Cataclysm-DDA/pull/85007))
 * 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
-* Expose limb scores to math ([#84986](https://github.com/CleverRaven/Cataclysm-DDA/pull/84986))
 * Fix LTO error ([#84995](https://github.com/CleverRaven/Cataclysm-DDA/pull/84995))
 * Fix add_mod printf specifier ([#85001](https://github.com/CleverRaven/Cataclysm-DDA/pull/85001))
 * [No Hope] Actually use defined region settings ([#84999](https://github.com/CleverRaven/Cataclysm-DDA/pull/84999))
