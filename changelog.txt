@@ -1,3 +1,4 @@
+* Make forest floor sound like dirt and not asphalt (#85168)
 
 Cataclysm-DDA experimental build 2026-02-07-1848 (d014545)
 * Remove carpet redundancy (#85087)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2026-02-03-2209 (d56fbfd)
 * [Sky Island] Mod compatibility (#84996)
 * Use ver 8 of @actions/github in release workflow (#84997)
 * Ice connects_to (#84991)
-* Show objective directions on overmap (#84988)

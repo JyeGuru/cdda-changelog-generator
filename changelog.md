@@ -1,3 +1,4 @@
+* Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
 
 ---
 
@@ -234,4 +235,3 @@
 * [Sky Island] Mod compatibility ([#84996](https://github.com/CleverRaven/Cataclysm-DDA/pull/84996))
 * Use ver 8 of @actions/github in release workflow ([#84997](https://github.com/CleverRaven/Cataclysm-DDA/pull/84997))
 * Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
-* Show objective directions on overmap ([#84988](https://github.com/CleverRaven/Cataclysm-DDA/pull/84988))
