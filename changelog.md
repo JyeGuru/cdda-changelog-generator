@@ -1,3 +1,19 @@
+* Hunting horrors have a poison that makes you burn in light ([#85131](https://github.com/CleverRaven/Cataclysm-DDA/pull/85131))
+* Rework No Trace Yet I Wish ([#85134](https://github.com/CleverRaven/Cataclysm-DDA/pull/85134))
+* Unification of need_charges_msg ([#85148](https://github.com/CleverRaven/Cataclysm-DDA/pull/85148))
+* Fix steel variants on skyisland recipes ([#85153](https://github.com/CleverRaven/Cataclysm-DDA/pull/85153))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-07-0327 ([90ecf7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0327))
+
+* [Xedra Evolved] Fix commoner changeling initial advancement ([#85155](https://github.com/CleverRaven/Cataclysm-DDA/pull/85155))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-07-0200 ([808ff4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0200))
+
+* [Magiclysm/Xedra Evolved] Homullus Backstage applies to other species ([#85152](https://github.com/CleverRaven/Cataclysm-DDA/pull/85152))
 
 ---
 
@@ -166,19 +182,9 @@
 
 * Speed up autopickup ([#85066](https://github.com/CleverRaven/Cataclysm-DDA/pull/85066))
 * Weekly Changelog 2026-01-26 to 2026-02-02 ([#85072](https://github.com/CleverRaven/Cataclysm-DDA/pull/85072))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-02-0623 ([f0d618f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0623))
-
 * Make weather be able to apply passive effects ([#85063](https://github.com/CleverRaven/Cataclysm-DDA/pull/85063))
 * [MoM] Added category tags to matrix crystals that were missing it ([#85068](https://github.com/CleverRaven/Cataclysm-DDA/pull/85068))
 * Add missing components to view priority from crafting menu ([#85069](https://github.com/CleverRaven/Cataclysm-DDA/pull/85069))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-02-0533 ([0d1fc9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0533))
-
 * [alt-map-key] Move alien meadow to base game ([#85070](https://github.com/CleverRaven/Cataclysm-DDA/pull/85070))
 * [Bombastic Perks] Add more prerequisites for perks ([#85055](https://github.com/CleverRaven/Cataclysm-DDA/pull/85055))
 * Revert monster getting hit animation ([#85061](https://github.com/CleverRaven/Cataclysm-DDA/pull/85061))
@@ -233,8 +239,3 @@
 * [Sky Island] Spawn the Island in a void ([#84972](https://github.com/CleverRaven/Cataclysm-DDA/pull/84972))
 * Remove free attack from rabbit feet ([#84975](https://github.com/CleverRaven/Cataclysm-DDA/pull/84975))
 * Can I has bug confirm permission? ([#84973](https://github.com/CleverRaven/Cataclysm-DDA/pull/84973))
-* Show time to hacksaw before committing to doing it ([#84968](https://github.com/CleverRaven/Cataclysm-DDA/pull/84968))
-* Properly cache and reuse rottable materials set ([#84967](https://github.com/CleverRaven/Cataclysm-DDA/pull/84967))
-* Add `stamina_max` u_val ([#84966](https://github.com/CleverRaven/Cataclysm-DDA/pull/84966))
-* Limbify spiked tail ([#84964](https://github.com/CleverRaven/Cataclysm-DDA/pull/84964))
-* Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor ([#84962](https://github.com/CleverRaven/Cataclysm-DDA/pull/84962))
