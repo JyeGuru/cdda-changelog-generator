@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-07-2115 (7f05908)
 * Make forest floor sound like dirt and not asphalt (#85168)
 
 Cataclysm-DDA experimental build 2026-02-07-1848 (d014545)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2026-02-04-0344 (7408148)
 
 Cataclysm-DDA experimental build 2026-02-03-2249 (68675ae)
 * [Xedra Evolved] Make Nether Sorcery learnable (#85016)
-
-Cataclysm-DDA experimental build 2026-02-03-2209 (d56fbfd)
 * Convert Thick Tail to limb, add techniques (#85090)
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution (#85086)
 * Fix iwyu error in cata_variant (#85085)

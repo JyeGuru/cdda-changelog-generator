@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-07-2115 ([7f05908](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-2115))
+
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-02-03-2249 ([68675ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-2249))
 
 * [Xedra Evolved] Make Nether Sorcery learnable ([#85016](https://github.com/CleverRaven/Cataclysm-DDA/pull/85016))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-03-2209 ([d56fbfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-2209))
-
 * Convert Thick Tail to limb, add techniques ([#85090](https://github.com/CleverRaven/Cataclysm-DDA/pull/85090))
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
