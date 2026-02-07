@@ -1,3 +1,4 @@
+* [Xedra Evolved] Sapshield ([#85130](https://github.com/CleverRaven/Cataclysm-DDA/pull/85130))
 * Hunting horrors have a poison that makes you burn in light ([#85131](https://github.com/CleverRaven/Cataclysm-DDA/pull/85131))
 * Rework No Trace Yet I Wish ([#85134](https://github.com/CleverRaven/Cataclysm-DDA/pull/85134))
 * Unification of need_charges_msg ([#85148](https://github.com/CleverRaven/Cataclysm-DDA/pull/85148))
@@ -236,6 +237,5 @@
 * Show objective directions on overmap ([#84988](https://github.com/CleverRaven/Cataclysm-DDA/pull/84988))
 * Boomer glutton has no physical attacks ([#84979](https://github.com/CleverRaven/Cataclysm-DDA/pull/84979))
 * Fix surroundings menu layout bugs ([#84981](https://github.com/CleverRaven/Cataclysm-DDA/pull/84981))
-* [Sky Island] Spawn the Island in a void ([#84972](https://github.com/CleverRaven/Cataclysm-DDA/pull/84972))
 * Remove free attack from rabbit feet ([#84975](https://github.com/CleverRaven/Cataclysm-DDA/pull/84975))
 * Can I has bug confirm permission? ([#84973](https://github.com/CleverRaven/Cataclysm-DDA/pull/84973))
