@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-07-0105 ([4f691a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0105))
+
+* [XE] Direct drinking from those wearing holy symbols burns the holy-burnt. ([#85122](https://github.com/CleverRaven/Cataclysm-DDA/pull/85122))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-07-0004 ([86855be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0004))
+
+* Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-06-2212 ([7816be7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-2212))
 
 * Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
@@ -168,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2026-02-02-0533 ([0d1fc9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-02-0533))
 
 * [alt-map-key] Move alien meadow to base game ([#85070](https://github.com/CleverRaven/Cataclysm-DDA/pull/85070))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-01-2352 ([86b90ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-2352))
-
 * [Bombastic Perks] Add more prerequisites for perks ([#85055](https://github.com/CleverRaven/Cataclysm-DDA/pull/85055))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-01-2042 ([4c39c75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-01-2042))
-
 * Revert monster getting hit animation ([#85061](https://github.com/CleverRaven/Cataclysm-DDA/pull/85061))
 * Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
 * [Bombastic Perks] Change the way you get playstyle perks ([#85054](https://github.com/CleverRaven/Cataclysm-DDA/pull/85054))
@@ -231,10 +233,8 @@
 * [Sky Island] Spawn the Island in a void ([#84972](https://github.com/CleverRaven/Cataclysm-DDA/pull/84972))
 * Remove free attack from rabbit feet ([#84975](https://github.com/CleverRaven/Cataclysm-DDA/pull/84975))
 * Can I has bug confirm permission? ([#84973](https://github.com/CleverRaven/Cataclysm-DDA/pull/84973))
-* Earthworms don't absorb oil when fried ([#84959](https://github.com/CleverRaven/Cataclysm-DDA/pull/84959))
 * Show time to hacksaw before committing to doing it ([#84968](https://github.com/CleverRaven/Cataclysm-DDA/pull/84968))
 * Properly cache and reuse rottable materials set ([#84967](https://github.com/CleverRaven/Cataclysm-DDA/pull/84967))
 * Add `stamina_max` u_val ([#84966](https://github.com/CleverRaven/Cataclysm-DDA/pull/84966))
-* Move surroundings_menu_tab_enum to enums.h ([#84957](https://github.com/CleverRaven/Cataclysm-DDA/pull/84957))
 * Limbify spiked tail ([#84964](https://github.com/CleverRaven/Cataclysm-DDA/pull/84964))
 * Move ACT_VEHICLE_REPAIR, ACT_VEHICLE_DECONSTRUCTION to activity_actor ([#84962](https://github.com/CleverRaven/Cataclysm-DDA/pull/84962))
