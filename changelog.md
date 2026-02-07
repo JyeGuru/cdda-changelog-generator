@@ -1,3 +1,4 @@
+* Remove carpet redundancy ([#85087](https://github.com/CleverRaven/Cataclysm-DDA/pull/85087))
 
 ---
 
@@ -233,5 +234,4 @@
 * [Sky Island] Mod compatibility ([#84996](https://github.com/CleverRaven/Cataclysm-DDA/pull/84996))
 * Use ver 8 of @actions/github in release workflow ([#84997](https://github.com/CleverRaven/Cataclysm-DDA/pull/84997))
 * Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
-* Move queued_eoc functions into .cpp for build time savings ([#84987](https://github.com/CleverRaven/Cataclysm-DDA/pull/84987))
 * Show objective directions on overmap ([#84988](https://github.com/CleverRaven/Cataclysm-DDA/pull/84988))

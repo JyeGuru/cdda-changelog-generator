@@ -1,3 +1,4 @@
+* Remove carpet redundancy (#85087)
 
 Cataclysm-DDA experimental build 2026-02-07-1655 (17550dc)
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors (#85135)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2026-02-03-1651 (aff9a25)
 * [Sky Island] Mod compatibility (#84996)
 * Use ver 8 of @actions/github in release workflow (#84997)
 * Ice connects_to (#84991)
-* Move queued_eoc functions into .cpp for build time savings (#84987)
 * Show objective directions on overmap (#84988)
