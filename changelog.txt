@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-08-1635 (070d2f1)
 * [Xedra Evolved] Make lilin attack conditions more stringent (#85110)
 
 Cataclysm-DDA experimental build 2026-02-08-1535 (9c8f0fa)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2026-02-05-0124 (d10820d)
 
 Cataclysm-DDA experimental build 2026-02-05-0025 (19890b4)
 * [XE] Tier 5 vampires don't feel cold temperatures. (#85082)
-
-Cataclysm-DDA experimental build 2026-02-04-1628 (16af71d)
 * Adds dimension name to the debug info in the map sidebar (#85103)
 * Force mapgen to use loaded region settings for map extra spawns (#85101)
 * Woodland wights and antlered horrors will bite you (#85097)
