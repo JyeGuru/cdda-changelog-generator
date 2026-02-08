@@ -216,7 +216,6 @@
 * Remove science skill from "soapy water" (no longer trains it) ([#85045](https://github.com/CleverRaven/Cataclysm-DDA/pull/85045))
 * rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
 * [ Xedra Evolved ] Fix typo in Thirst Trouncer ([#85056](https://github.com/CleverRaven/Cataclysm-DDA/pull/85056))
-* Allow resuming hacksaw cutting metal with different tools ([#85010](https://github.com/CleverRaven/Cataclysm-DDA/pull/85010))
 * Make horse riding exerting, limit gaits to walk and run, fix them not doing anything ([#85021](https://github.com/CleverRaven/Cataclysm-DDA/pull/85021))
 * Fix typo in inventor effect ([#85049](https://github.com/CleverRaven/Cataclysm-DDA/pull/85049))
 * Fix no wind in reverberation dimension ([#85048](https://github.com/CleverRaven/Cataclysm-DDA/pull/85048))
