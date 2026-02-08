@@ -1,3 +1,26 @@
+* Forge values dragon blood, others not so much ([#85083](https://github.com/CleverRaven/Cataclysm-DDA/pull/85083))
+* [ Xedra Evolved ] Cut stab resistant clothes for vampire hunters ([#85157](https://github.com/CleverRaven/Cataclysm-DDA/pull/85157))
+* [ Magiclysm ] Combat Wands now take 1 second to activate ([#85160](https://github.com/CleverRaven/Cataclysm-DDA/pull/85160))
+* [ Xedra Evolved ] Proficiency lucid dreaming ([#85165](https://github.com/CleverRaven/Cataclysm-DDA/pull/85165))
+* Make melatonin make sense ([#85154](https://github.com/CleverRaven/Cataclysm-DDA/pull/85154))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-08-0432 ([9ca7dd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0432))
+
+* Bodyparts and mutations can provide tool qualities ([#85167](https://github.com/CleverRaven/Cataclysm-DDA/pull/85167))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-08-0335 ([9f52821](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0335))
+
+* Update macOS dev dependency set up doc ([#85159](https://github.com/CleverRaven/Cataclysm-DDA/pull/85159))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-08-0242 ([aabfb9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0242))
+
+* Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 
 ---
 
@@ -164,23 +187,8 @@
 
 * Add flags to mech laser rifles ([#85095](https://github.com/CleverRaven/Cataclysm-DDA/pull/85095))
 * [MoM] Reduce cost of some artifact abilities ([#85098](https://github.com/CleverRaven/Cataclysm-DDA/pull/85098))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-04-0432 ([254b924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0432))
-
 * Fix surroundings menu freeze ([#85080](https://github.com/CleverRaven/Cataclysm-DDA/pull/85080))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-04-0344 ([7408148](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0344))
-
 * Add deprioritize components of a recipe to the crafting menu ([#85081](https://github.com/CleverRaven/Cataclysm-DDA/pull/85081))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-03-2249 ([68675ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-03-2249))
-
 * [Xedra Evolved] Make Nether Sorcery learnable ([#85016](https://github.com/CleverRaven/Cataclysm-DDA/pull/85016))
 * Convert Thick Tail to limb, add techniques ([#85090](https://github.com/CleverRaven/Cataclysm-DDA/pull/85090))
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
@@ -227,11 +235,4 @@
 * Move remaining queued_eocs members to .cpp to avoid list<> instantiation ([#85006](https://github.com/CleverRaven/Cataclysm-DDA/pull/85006))
 * [MoM] Remove riot damage from labs ([#85007](https://github.com/CleverRaven/Cataclysm-DDA/pull/85007))
 * 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
-* Fix LTO error ([#84995](https://github.com/CleverRaven/Cataclysm-DDA/pull/84995))
 * Fix add_mod printf specifier ([#85001](https://github.com/CleverRaven/Cataclysm-DDA/pull/85001))
-* [No Hope] Actually use defined region settings ([#84999](https://github.com/CleverRaven/Cataclysm-DDA/pull/84999))
-* Shift surroundings menu to selected ([#84998](https://github.com/CleverRaven/Cataclysm-DDA/pull/84998))
-* [Sky Island] Dummy EOCs so the innawood integration does not cause an error ([#84993](https://github.com/CleverRaven/Cataclysm-DDA/pull/84993))
-* [Sky Island] Mod compatibility ([#84996](https://github.com/CleverRaven/Cataclysm-DDA/pull/84996))
-* Use ver 8 of @actions/github in release workflow ([#84997](https://github.com/CleverRaven/Cataclysm-DDA/pull/84997))
-* Ice connects_to ([#84991](https://github.com/CleverRaven/Cataclysm-DDA/pull/84991))
