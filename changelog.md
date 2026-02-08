@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-08-0625 ([169d889](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0625))
+
 * Forge values dragon blood, others not so much ([#85083](https://github.com/CleverRaven/Cataclysm-DDA/pull/85083))
 * [ Xedra Evolved ] Cut stab resistant clothes for vampire hunters ([#85157](https://github.com/CleverRaven/Cataclysm-DDA/pull/85157))
 * [ Magiclysm ] Combat Wands now take 1 second to activate ([#85160](https://github.com/CleverRaven/Cataclysm-DDA/pull/85160))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-02-04-0613 ([aec8578](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0613))
 
 * Woodland wights and antlered horrors will bite you ([#85097](https://github.com/CleverRaven/Cataclysm-DDA/pull/85097))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-04-0525 ([8712201](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0525))
-
 * Add flags to mech laser rifles ([#85095](https://github.com/CleverRaven/Cataclysm-DDA/pull/85095))
 * [MoM] Reduce cost of some artifact abilities ([#85098](https://github.com/CleverRaven/Cataclysm-DDA/pull/85098))
 * Fix surroundings menu freeze ([#85080](https://github.com/CleverRaven/Cataclysm-DDA/pull/85080))
