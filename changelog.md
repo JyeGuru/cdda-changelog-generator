@@ -1,3 +1,10 @@
+* [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-08-1745 ([9c031e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1745))
+
+* Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-05-0124 ([d10820d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0124))
 
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-05-0025 ([19890b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0025))
-
 * [XE] Tier 5 vampires don't feel cold temperatures. ([#85082](https://github.com/CleverRaven/Cataclysm-DDA/pull/85082))
 * Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
 * Force mapgen to use loaded region settings for map extra spawns ([#85101](https://github.com/CleverRaven/Cataclysm-DDA/pull/85101))
@@ -225,7 +227,6 @@
 * Move cata_path formatter specialization to .cpp ([#85036](https://github.com/CleverRaven/Cataclysm-DDA/pull/85036))
 * Implement shopkeeper whitelist ([#85031](https://github.com/CleverRaven/Cataclysm-DDA/pull/85031))
 * Fix typos in code and comments ([#85034](https://github.com/CleverRaven/Cataclysm-DDA/pull/85034))
-* Fix multiple issues with limbs ([#85008](https://github.com/CleverRaven/Cataclysm-DDA/pull/85008))
 * Put the military books back on their shelves ([#85020](https://github.com/CleverRaven/Cataclysm-DDA/pull/85020))
 * Add tarot reading ([#85011](https://github.com/CleverRaven/Cataclysm-DDA/pull/85011))
 * Rocky fields/scars for string dimension ([#85022](https://github.com/CleverRaven/Cataclysm-DDA/pull/85022))
@@ -235,4 +236,3 @@
 * Move MoM's alien meadow to vanilla ([#85030](https://github.com/CleverRaven/Cataclysm-DDA/pull/85030))
 * Give krecks a bite attack ([#85017](https://github.com/CleverRaven/Cataclysm-DDA/pull/85017))
 * Move ACT_MULTIPLE_FISH/FARM/READ/STUDY to activity_actors ([#85012](https://github.com/CleverRaven/Cataclysm-DDA/pull/85012))
-* [MoM] Remove riot damage from labs ([#85007](https://github.com/CleverRaven/Cataclysm-DDA/pull/85007))
