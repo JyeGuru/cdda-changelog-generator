@@ -1,3 +1,10 @@
+* [Xedra Evolved] Make lilin attack conditions more stringent ([#85110](https://github.com/CleverRaven/Cataclysm-DDA/pull/85110))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-08-1535 ([9c8f0fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1535))
+
+* z-stack "towers" in string dimension ([#85163](https://github.com/CleverRaven/Cataclysm-DDA/pull/85163))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-04-1628 ([16af71d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-1628))
 
 * Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-04-1546 ([7d171c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-1546))
-
 * Force mapgen to use loaded region settings for map extra spawns ([#85101](https://github.com/CleverRaven/Cataclysm-DDA/pull/85101))
 * Woodland wights and antlered horrors will bite you ([#85097](https://github.com/CleverRaven/Cataclysm-DDA/pull/85097))
 * Add flags to mech laser rifles ([#85095](https://github.com/CleverRaven/Cataclysm-DDA/pull/85095))
@@ -233,6 +235,4 @@
 * Move MoM's alien meadow to vanilla ([#85030](https://github.com/CleverRaven/Cataclysm-DDA/pull/85030))
 * Give krecks a bite attack ([#85017](https://github.com/CleverRaven/Cataclysm-DDA/pull/85017))
 * Move ACT_MULTIPLE_FISH/FARM/READ/STUDY to activity_actors ([#85012](https://github.com/CleverRaven/Cataclysm-DDA/pull/85012))
-* Move remaining queued_eocs members to .cpp to avoid list<> instantiation ([#85006](https://github.com/CleverRaven/Cataclysm-DDA/pull/85006))
 * [MoM] Remove riot damage from labs ([#85007](https://github.com/CleverRaven/Cataclysm-DDA/pull/85007))
-* 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))

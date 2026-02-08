@@ -1,3 +1,7 @@
+* [Xedra Evolved] Make lilin attack conditions more stringent (#85110)
+
+Cataclysm-DDA experimental build 2026-02-08-1535 (9c8f0fa)
+* z-stack "towers" in string dimension (#85163)
 
 Cataclysm-DDA experimental build 2026-02-08-1251 (a894ac4)
 * Obsolete ACT_TIDY_UP (#85169)
@@ -98,8 +102,6 @@ Cataclysm-DDA experimental build 2026-02-05-0025 (19890b4)
 
 Cataclysm-DDA experimental build 2026-02-04-1628 (16af71d)
 * Adds dimension name to the debug info in the map sidebar (#85103)
-
-Cataclysm-DDA experimental build 2026-02-04-1546 (7d171c1)
 * Force mapgen to use loaded region settings for map extra spawns (#85101)
 * Woodland wights and antlered horrors will bite you (#85097)
 * Add flags to mech laser rifles (#85095)
@@ -149,6 +151,4 @@ Cataclysm-DDA experimental build 2026-02-04-1546 (7d171c1)
 * Move MoM's alien meadow to vanilla (#85030)
 * Give krecks a bite attack (#85017)
 * Move ACT_MULTIPLE_FISH/FARM/READ/STUDY to activity_actors (#85012)
-* Move remaining queued_eocs members to .cpp to avoid list<> instantiation (#85006)
 * [MoM] Remove riot damage from labs (#85007)
-* 25 more shipping containers (#85003)
