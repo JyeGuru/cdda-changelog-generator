@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-08-1827 ([543f83d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1827))
+
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-02-05-0347 ([313d0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0347))
 
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-05-0124 ([d10820d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0124))
-
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
 * [XE] Tier 5 vampires don't feel cold temperatures. ([#85082](https://github.com/CleverRaven/Cataclysm-DDA/pull/85082))
 * Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
