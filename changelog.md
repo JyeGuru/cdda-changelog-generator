@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-08-1251 ([a894ac4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1251))
+
+* Obsolete ACT_TIDY_UP ([#85169](https://github.com/CleverRaven/Cataclysm-DDA/pull/85169))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-08-0625 ([169d889](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0625))
 
 * Forge values dragon blood, others not so much ([#85083](https://github.com/CleverRaven/Cataclysm-DDA/pull/85083))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-02-04-1546 ([7d171c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-1546))
 
 * Force mapgen to use loaded region settings for map extra spawns ([#85101](https://github.com/CleverRaven/Cataclysm-DDA/pull/85101))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-04-0613 ([aec8578](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-04-0613))
-
 * Woodland wights and antlered horrors will bite you ([#85097](https://github.com/CleverRaven/Cataclysm-DDA/pull/85097))
 * Add flags to mech laser rifles ([#85095](https://github.com/CleverRaven/Cataclysm-DDA/pull/85095))
 * [MoM] Reduce cost of some artifact abilities ([#85098](https://github.com/CleverRaven/Cataclysm-DDA/pull/85098))
@@ -235,4 +236,3 @@
 * Move remaining queued_eocs members to .cpp to avoid list<> instantiation ([#85006](https://github.com/CleverRaven/Cataclysm-DDA/pull/85006))
 * [MoM] Remove riot damage from labs ([#85007](https://github.com/CleverRaven/Cataclysm-DDA/pull/85007))
 * 25 more shipping containers ([#85003](https://github.com/CleverRaven/Cataclysm-DDA/pull/85003))
-* Fix add_mod printf specifier ([#85001](https://github.com/CleverRaven/Cataclysm-DDA/pull/85001))
