@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-08-2322 ([7c30eac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-2322))
+
+* Raw flour is no longer easily edible, remove NUTRIENT_OVERRIDE From unfermented vinegar ([#85151](https://github.com/CleverRaven/Cataclysm-DDA/pull/85151))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-08-1827 ([543f83d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1827))
 
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-02-05-0440 ([a2180bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0440))
 
 * Slightly improve repair message ([#85091](https://github.com/CleverRaven/Cataclysm-DDA/pull/85091))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-05-0347 ([313d0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0347))
-
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
 * [XE] Tier 5 vampires don't feel cold temperatures. ([#85082](https://github.com/CleverRaven/Cataclysm-DDA/pull/85082))
@@ -227,7 +228,6 @@
 * Implement shopkeeper whitelist ([#85031](https://github.com/CleverRaven/Cataclysm-DDA/pull/85031))
 * Fix typos in code and comments ([#85034](https://github.com/CleverRaven/Cataclysm-DDA/pull/85034))
 * Put the military books back on their shelves ([#85020](https://github.com/CleverRaven/Cataclysm-DDA/pull/85020))
-* Add tarot reading ([#85011](https://github.com/CleverRaven/Cataclysm-DDA/pull/85011))
 * Rocky fields/scars for string dimension ([#85022](https://github.com/CleverRaven/Cataclysm-DDA/pull/85022))
 * Improve vmenu sorting ([#85023](https://github.com/CleverRaven/Cataclysm-DDA/pull/85023))
 * Add missing multi_activity_locations() overrides ([#85027](https://github.com/CleverRaven/Cataclysm-DDA/pull/85027))
