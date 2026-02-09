@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-09-1439 ([a64d62a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-1439))
+
+* Turn Cattle Tail into a body part ([#85191](https://github.com/CleverRaven/Cataclysm-DDA/pull/85191))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-09-0611 ([133dca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-0611))
 
 * [XE] Rework unholy devastation so it isn't limited by stat caps. ([#85158](https://github.com/CleverRaven/Cataclysm-DDA/pull/85158))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-02-05-1539 ([0bc43dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-1539))
 
 * Multilevel dungeon for the string dimension ([#85104](https://github.com/CleverRaven/Cataclysm-DDA/pull/85104))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-05-1438 ([5cba244](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-1438))
-
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
 * Dermatik birth just plain kills you ([#85092](https://github.com/CleverRaven/Cataclysm-DDA/pull/85092))
 * Slightly improve repair message ([#85091](https://github.com/CleverRaven/Cataclysm-DDA/pull/85091))
@@ -220,7 +221,6 @@
 * Remove science skill from "soapy water" (no longer trains it) ([#85045](https://github.com/CleverRaven/Cataclysm-DDA/pull/85045))
 * rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
 * [ Xedra Evolved ] Fix typo in Thirst Trouncer ([#85056](https://github.com/CleverRaven/Cataclysm-DDA/pull/85056))
-* Make horse riding exerting, limit gaits to walk and run, fix them not doing anything ([#85021](https://github.com/CleverRaven/Cataclysm-DDA/pull/85021))
 * Fix typo in inventor effect ([#85049](https://github.com/CleverRaven/Cataclysm-DDA/pull/85049))
 * Fix no wind in reverberation dimension ([#85048](https://github.com/CleverRaven/Cataclysm-DDA/pull/85048))
 * Remove misfire mention from all ammo, remove NEVER_MISFIRES flag  ([#85043](https://github.com/CleverRaven/Cataclysm-DDA/pull/85043))
