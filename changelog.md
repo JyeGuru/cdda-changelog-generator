@@ -1,3 +1,12 @@
+* [XE] Rework unholy devastation so it isn't limited by stat caps. ([#85158](https://github.com/CleverRaven/Cataclysm-DDA/pull/85158))
+* Crab pincer limb provides tool qualities, remove integrated armor ([#85173](https://github.com/CleverRaven/Cataclysm-DDA/pull/85173))
+* Monsters check for `BLIND` flag, not `blind` effect ([#85176](https://github.com/CleverRaven/Cataclysm-DDA/pull/85176))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-09-0241 ([bfbb248](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-0241))
+
+* Avoid unnecessary expensive map memory manipulation in tests ([#85188](https://github.com/CleverRaven/Cataclysm-DDA/pull/85188))
 
 ---
 
@@ -179,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-02-05-0725 ([6f2ec53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0725))
 
 * Dermatik birth just plain kills you ([#85092](https://github.com/CleverRaven/Cataclysm-DDA/pull/85092))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-05-0440 ([a2180bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-0440))
-
 * Slightly improve repair message ([#85091](https://github.com/CleverRaven/Cataclysm-DDA/pull/85091))
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
@@ -195,7 +199,6 @@
 * [MoM] Reduce cost of some artifact abilities ([#85098](https://github.com/CleverRaven/Cataclysm-DDA/pull/85098))
 * Fix surroundings menu freeze ([#85080](https://github.com/CleverRaven/Cataclysm-DDA/pull/85080))
 * Add deprioritize components of a recipe to the crafting menu ([#85081](https://github.com/CleverRaven/Cataclysm-DDA/pull/85081))
-* [Xedra Evolved] Make Nether Sorcery learnable ([#85016](https://github.com/CleverRaven/Cataclysm-DDA/pull/85016))
 * Convert Thick Tail to limb, add techniques ([#85090](https://github.com/CleverRaven/Cataclysm-DDA/pull/85090))
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
@@ -221,17 +224,13 @@
 * Fix typo in inventor effect ([#85049](https://github.com/CleverRaven/Cataclysm-DDA/pull/85049))
 * Fix no wind in reverberation dimension ([#85048](https://github.com/CleverRaven/Cataclysm-DDA/pull/85048))
 * Remove misfire mention from all ammo, remove NEVER_MISFIRES flag  ([#85043](https://github.com/CleverRaven/Cataclysm-DDA/pull/85043))
-* [XE] The holy-burnt suffer from wearing holy symbols. ([#85015](https://github.com/CleverRaven/Cataclysm-DDA/pull/85015))
 * Fix surroundings menu window position on more variations of font settings ([#85046](https://github.com/CleverRaven/Cataclysm-DDA/pull/85046))
 * Move ACT_MULTIPLE_CRAFT, ACT_MULTIPLE_DIS(assembly) to activity_actors ([#85040](https://github.com/CleverRaven/Cataclysm-DDA/pull/85040))
 * Move cata_path formatter specialization to .cpp ([#85036](https://github.com/CleverRaven/Cataclysm-DDA/pull/85036))
 * Implement shopkeeper whitelist ([#85031](https://github.com/CleverRaven/Cataclysm-DDA/pull/85031))
 * Fix typos in code and comments ([#85034](https://github.com/CleverRaven/Cataclysm-DDA/pull/85034))
-* Put the military books back on their shelves ([#85020](https://github.com/CleverRaven/Cataclysm-DDA/pull/85020))
 * Rocky fields/scars for string dimension ([#85022](https://github.com/CleverRaven/Cataclysm-DDA/pull/85022))
 * Improve vmenu sorting ([#85023](https://github.com/CleverRaven/Cataclysm-DDA/pull/85023))
 * Add missing multi_activity_locations() overrides ([#85027](https://github.com/CleverRaven/Cataclysm-DDA/pull/85027))
 * bump osx runner version for 0.I ([#85029](https://github.com/CleverRaven/Cataclysm-DDA/pull/85029))
 * Move MoM's alien meadow to vanilla ([#85030](https://github.com/CleverRaven/Cataclysm-DDA/pull/85030))
-* Give krecks a bite attack ([#85017](https://github.com/CleverRaven/Cataclysm-DDA/pull/85017))
-* Move ACT_MULTIPLE_FISH/FARM/READ/STUDY to activity_actors ([#85012](https://github.com/CleverRaven/Cataclysm-DDA/pull/85012))
