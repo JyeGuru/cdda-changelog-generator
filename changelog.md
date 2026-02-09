@@ -1,3 +1,13 @@
+* Fix grid charging ([#85175](https://github.com/CleverRaven/Cataclysm-DDA/pull/85175))
+* Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
+* Obsolete ACT_FERTILIZE_PLOT, replace with fertilize_plant_activity_actor ([#85193](https://github.com/CleverRaven/Cataclysm-DDA/pull/85193))
+* [Magiclysm] Slower imbue with lightning ([#85189](https://github.com/CleverRaven/Cataclysm-DDA/pull/85189))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-09-1739 ([3744071](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-1739))
+
+* [Xedra Evolved] Give Undine inherent liquid-containing qualities ([#85192](https://github.com/CleverRaven/Cataclysm-DDA/pull/85192))
 * Rewrite all tests to clear map without touching character map memory, for performance. ([#85201](https://github.com/CleverRaven/Cataclysm-DDA/pull/85201))
 
 ---
@@ -182,11 +192,6 @@
 
 * Make inv_search_cache operate on item_location ([#85088](https://github.com/CleverRaven/Cataclysm-DDA/pull/85088))
 * Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-05-1539 ([0bc43dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-1539))
-
 * Multilevel dungeon for the string dimension ([#85104](https://github.com/CleverRaven/Cataclysm-DDA/pull/85104))
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
 * Dermatik birth just plain kills you ([#85092](https://github.com/CleverRaven/Cataclysm-DDA/pull/85092))
@@ -228,9 +233,4 @@
 * Fix surroundings menu window position on more variations of font settings ([#85046](https://github.com/CleverRaven/Cataclysm-DDA/pull/85046))
 * Move ACT_MULTIPLE_CRAFT, ACT_MULTIPLE_DIS(assembly) to activity_actors ([#85040](https://github.com/CleverRaven/Cataclysm-DDA/pull/85040))
 * Move cata_path formatter specialization to .cpp ([#85036](https://github.com/CleverRaven/Cataclysm-DDA/pull/85036))
-* Implement shopkeeper whitelist ([#85031](https://github.com/CleverRaven/Cataclysm-DDA/pull/85031))
 * Fix typos in code and comments ([#85034](https://github.com/CleverRaven/Cataclysm-DDA/pull/85034))
-* Improve vmenu sorting ([#85023](https://github.com/CleverRaven/Cataclysm-DDA/pull/85023))
-* Add missing multi_activity_locations() overrides ([#85027](https://github.com/CleverRaven/Cataclysm-DDA/pull/85027))
-* bump osx runner version for 0.I ([#85029](https://github.com/CleverRaven/Cataclysm-DDA/pull/85029))
-* Move MoM's alien meadow to vanilla ([#85030](https://github.com/CleverRaven/Cataclysm-DDA/pull/85030))
