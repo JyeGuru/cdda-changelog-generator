@@ -233,4 +233,3 @@
 * Revert monster getting hit animation ([#85061](https://github.com/CleverRaven/Cataclysm-DDA/pull/85061))
 * Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
 * rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
-* [ Xedra Evolved ] Fix typo in Thirst Trouncer ([#85056](https://github.com/CleverRaven/Cataclysm-DDA/pull/85056))
