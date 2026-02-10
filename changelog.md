@@ -1,3 +1,36 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-10-0508 ([9b37b11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-0508))
+
+* String dimension connects to Exodii labyrinth ([#85178](https://github.com/CleverRaven/Cataclysm-DDA/pull/85178))
+* Fix stumbles and falls message displaying for other people ([#85190](https://github.com/CleverRaven/Cataclysm-DDA/pull/85190))
+* HEW system can detect shimmering portals ([#85210](https://github.com/CleverRaven/Cataclysm-DDA/pull/85210))
+* track the used components ([#85194](https://github.com/CleverRaven/Cataclysm-DDA/pull/85194))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-10-0244 ([54ec064](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-0244))
+
+* Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
+* Fix #85156: Replace rifle case for Deep Cold Marksman ([#85197](https://github.com/CleverRaven/Cataclysm-DDA/pull/85197))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-09-2316 ([2fb12ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-2316))
+
+* Visible hit sprite over monsters when they get hit in melee ([#85166](https://github.com/CleverRaven/Cataclysm-DDA/pull/85166))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-09-2146 ([5968742](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-2146))
+
+* Turn bear muzzle into a body part ([#85207](https://github.com/CleverRaven/Cataclysm-DDA/pull/85207))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-09-1826 ([93ccde5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-1826))
+
 * Fix grid charging ([#85175](https://github.com/CleverRaven/Cataclysm-DDA/pull/85175))
 * Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
 * Obsolete ACT_FERTILIZE_PLOT, replace with fertilize_plant_activity_actor ([#85193](https://github.com/CleverRaven/Cataclysm-DDA/pull/85193))
@@ -160,36 +193,11 @@
 #### Cataclysm-DDA experimental build 2026-02-07-0004 ([86855be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0004))
 
 * Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-06-2212 ([7816be7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-2212))
-
 * Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-06-1219 ([5fdf539](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-1219))
-
 * Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-06-0743 ([4cf1af2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-0743))
-
 * Add spiral mine & string dimension to HEW/Hub dialogue & Pat/Pat's headsets ([#85118](https://github.com/CleverRaven/Cataclysm-DDA/pull/85118))
 * Hide weight for NPCs generated in older versions ([#85137](https://github.com/CleverRaven/Cataclysm-DDA/pull/85137))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-06-0531 ([e51a764](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-06-0531))
-
 * Improve surroundings menu performance ([#85139](https://github.com/CleverRaven/Cataclysm-DDA/pull/85139))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-05-2142 ([54e2486](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-05-2142))
-
 * Make inv_search_cache operate on item_location ([#85088](https://github.com/CleverRaven/Cataclysm-DDA/pull/85088))
 * Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
 * Multilevel dungeon for the string dimension ([#85104](https://github.com/CleverRaven/Cataclysm-DDA/pull/85104))
@@ -224,13 +232,5 @@
 * Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
 * [Bombastic Perks] Change the way you get playstyle perks ([#85054](https://github.com/CleverRaven/Cataclysm-DDA/pull/85054))
 * Flying Polyps are out of phase ([#85051](https://github.com/CleverRaven/Cataclysm-DDA/pull/85051))
-* Remove science skill from "soapy water" (no longer trains it) ([#85045](https://github.com/CleverRaven/Cataclysm-DDA/pull/85045))
 * rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
 * [ Xedra Evolved ] Fix typo in Thirst Trouncer ([#85056](https://github.com/CleverRaven/Cataclysm-DDA/pull/85056))
-* Fix typo in inventor effect ([#85049](https://github.com/CleverRaven/Cataclysm-DDA/pull/85049))
-* Fix no wind in reverberation dimension ([#85048](https://github.com/CleverRaven/Cataclysm-DDA/pull/85048))
-* Remove misfire mention from all ammo, remove NEVER_MISFIRES flag  ([#85043](https://github.com/CleverRaven/Cataclysm-DDA/pull/85043))
-* Fix surroundings menu window position on more variations of font settings ([#85046](https://github.com/CleverRaven/Cataclysm-DDA/pull/85046))
-* Move ACT_MULTIPLE_CRAFT, ACT_MULTIPLE_DIS(assembly) to activity_actors ([#85040](https://github.com/CleverRaven/Cataclysm-DDA/pull/85040))
-* Move cata_path formatter specialization to .cpp ([#85036](https://github.com/CleverRaven/Cataclysm-DDA/pull/85036))
-* Fix typos in code and comments ([#85034](https://github.com/CleverRaven/Cataclysm-DDA/pull/85034))
