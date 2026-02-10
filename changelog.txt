@@ -1,3 +1,8 @@
+* Weekly Changelog 2026-02-02 to 2026-02-09 (#85199)
+* Turn finned tail into a body part (#85226)
+
+Cataclysm-DDA experimental build 2026-02-10-2003 (9167f55)
+* [Old Lab Removal] Removing old lab specials (#85198)
 
 Cataclysm-DDA experimental build 2026-02-10-0627 (b23fdfb)
 * Add a small hint to alpha primer recipe, if you're smart enough to notice it (#85171)
@@ -109,8 +114,6 @@ Cataclysm-DDA experimental build 2026-02-07-0327 (90ecf7a)
 
 Cataclysm-DDA experimental build 2026-02-07-0200 (808ff4b)
 * [Magiclysm/Xedra Evolved] Homullus Backstage applies to other species (#85152)
-
-Cataclysm-DDA experimental build 2026-02-07-0105 (4f691a0)
 * [XE] Direct drinking from those wearing holy symbols burns the holy-burnt. (#85122)
 * Replace integrated crab pincer with replacing your hand with a crab pincer (#85146)
 * Shift the Exodii Labyrinth to its own dimension (#85150)
@@ -147,5 +150,3 @@ Cataclysm-DDA experimental build 2026-02-07-0105 (4f691a0)
 * Add missing components to view priority from crafting menu (#85069)
 * [alt-map-key] Move alien meadow to base game (#85070)
 * Revert monster getting hit animation (#85061)
-* Fix zone sorting improperly aborting early when failing to move an item with no destination zone. (#85058)
-* rebalance inland container depot nest distribution (#85057)

@@ -1,3 +1,11 @@
+* Weekly Changelog 2026-02-02 to 2026-02-09 ([#85199](https://github.com/CleverRaven/Cataclysm-DDA/pull/85199))
+* Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-10-2003 ([9167f55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-2003))
+
+* [Old Lab Removal] Removing old lab specials ([#85198](https://github.com/CleverRaven/Cataclysm-DDA/pull/85198))
 
 ---
 
@@ -190,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-02-07-0200 ([808ff4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0200))
 
 * [Magiclysm/Xedra Evolved] Homullus Backstage applies to other species ([#85152](https://github.com/CleverRaven/Cataclysm-DDA/pull/85152))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-07-0105 ([4f691a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0105))
-
 * [XE] Direct drinking from those wearing holy symbols burns the holy-burnt. ([#85122](https://github.com/CleverRaven/Cataclysm-DDA/pull/85122))
 * Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
 * Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
@@ -231,5 +234,3 @@
 * Add missing components to view priority from crafting menu ([#85069](https://github.com/CleverRaven/Cataclysm-DDA/pull/85069))
 * [alt-map-key] Move alien meadow to base game ([#85070](https://github.com/CleverRaven/Cataclysm-DDA/pull/85070))
 * Revert monster getting hit animation ([#85061](https://github.com/CleverRaven/Cataclysm-DDA/pull/85061))
-* Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
-* rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
