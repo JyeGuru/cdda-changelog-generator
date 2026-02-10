@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-10-0627 ([b23fdfb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-0627))
+
+* Add a small hint to alpha primer recipe, if you're smart enough to notice it ([#85171](https://github.com/CleverRaven/Cataclysm-DDA/pull/85171))
+* [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
+* make zombies occasionally follow new sounds ([#85187](https://github.com/CleverRaven/Cataclysm-DDA/pull/85187))
+* Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-10-0508 ([9b37b11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-0508))
 
 * String dimension connects to Exodii labyrinth ([#85178](https://github.com/CleverRaven/Cataclysm-DDA/pull/85178))
@@ -187,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-02-07-0105 ([4f691a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0105))
 
 * [XE] Direct drinking from those wearing holy symbols burns the holy-burnt. ([#85122](https://github.com/CleverRaven/Cataclysm-DDA/pull/85122))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-07-0004 ([86855be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0004))
-
 * Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
 * Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
 * Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
@@ -218,7 +222,6 @@
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
 * [ Xedra Evolved ] Balance vampire blood storage ([#85067](https://github.com/CleverRaven/Cataclysm-DDA/pull/85067))
-* [Bombastic Perks] Kevlard perk ([#85050](https://github.com/CleverRaven/Cataclysm-DDA/pull/85050))
 * Wind Seasonal Variation Sanification ([#85065](https://github.com/CleverRaven/Cataclysm-DDA/pull/85065))
 * Support copy from in string extractor for overmap special ([#85071](https://github.com/CleverRaven/Cataclysm-DDA/pull/85071))
 * Speed up autopickup ([#85066](https://github.com/CleverRaven/Cataclysm-DDA/pull/85066))
@@ -227,10 +230,7 @@
 * [MoM] Added category tags to matrix crystals that were missing it ([#85068](https://github.com/CleverRaven/Cataclysm-DDA/pull/85068))
 * Add missing components to view priority from crafting menu ([#85069](https://github.com/CleverRaven/Cataclysm-DDA/pull/85069))
 * [alt-map-key] Move alien meadow to base game ([#85070](https://github.com/CleverRaven/Cataclysm-DDA/pull/85070))
-* [Bombastic Perks] Add more prerequisites for perks ([#85055](https://github.com/CleverRaven/Cataclysm-DDA/pull/85055))
 * Revert monster getting hit animation ([#85061](https://github.com/CleverRaven/Cataclysm-DDA/pull/85061))
 * Fix zone sorting improperly aborting early when failing to move an item with no destination zone. ([#85058](https://github.com/CleverRaven/Cataclysm-DDA/pull/85058))
-* [Bombastic Perks] Change the way you get playstyle perks ([#85054](https://github.com/CleverRaven/Cataclysm-DDA/pull/85054))
-* Flying Polyps are out of phase ([#85051](https://github.com/CleverRaven/Cataclysm-DDA/pull/85051))
 * rebalance inland container depot nest distribution ([#85057](https://github.com/CleverRaven/Cataclysm-DDA/pull/85057))
 * [ Xedra Evolved ] Fix typo in Thirst Trouncer ([#85056](https://github.com/CleverRaven/Cataclysm-DDA/pull/85056))
