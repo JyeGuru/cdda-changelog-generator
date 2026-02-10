@@ -1,3 +1,10 @@
+* Project Dodo: Survivor Duster and Survivor Trenchcoat ([#85223](https://github.com/CleverRaven/Cataclysm-DDA/pull/85223))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-10-2105 ([6bbc206](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-2105))
+
+* Switch `SABER_TEETH` to integrated teeth ([#85220](https://github.com/CleverRaven/Cataclysm-DDA/pull/85220))
 * Weekly Changelog 2026-02-02 to 2026-02-09 ([#85199](https://github.com/CleverRaven/Cataclysm-DDA/pull/85199))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
 
@@ -192,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2026-02-07-0327 ([90ecf7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0327))
 
 * [Xedra Evolved] Fix commoner changeling initial advancement ([#85155](https://github.com/CleverRaven/Cataclysm-DDA/pull/85155))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-07-0200 ([808ff4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0200))
-
 * [Magiclysm/Xedra Evolved] Homullus Backstage applies to other species ([#85152](https://github.com/CleverRaven/Cataclysm-DDA/pull/85152))
 * [XE] Direct drinking from those wearing holy symbols burns the holy-burnt. ([#85122](https://github.com/CleverRaven/Cataclysm-DDA/pull/85122))
 * Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
@@ -229,8 +231,6 @@
 * Support copy from in string extractor for overmap special ([#85071](https://github.com/CleverRaven/Cataclysm-DDA/pull/85071))
 * Speed up autopickup ([#85066](https://github.com/CleverRaven/Cataclysm-DDA/pull/85066))
 * Weekly Changelog 2026-01-26 to 2026-02-02 ([#85072](https://github.com/CleverRaven/Cataclysm-DDA/pull/85072))
-* Make weather be able to apply passive effects ([#85063](https://github.com/CleverRaven/Cataclysm-DDA/pull/85063))
 * [MoM] Added category tags to matrix crystals that were missing it ([#85068](https://github.com/CleverRaven/Cataclysm-DDA/pull/85068))
 * Add missing components to view priority from crafting menu ([#85069](https://github.com/CleverRaven/Cataclysm-DDA/pull/85069))
 * [alt-map-key] Move alien meadow to base game ([#85070](https://github.com/CleverRaven/Cataclysm-DDA/pull/85070))
-* Revert monster getting hit animation ([#85061](https://github.com/CleverRaven/Cataclysm-DDA/pull/85061))
