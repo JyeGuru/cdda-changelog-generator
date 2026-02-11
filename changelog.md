@@ -1,3 +1,11 @@
+* Add simple wooden rack and construction recipe ([#85239](https://github.com/CleverRaven/Cataclysm-DDA/pull/85239))
+* Remove free attack from SHARKTEETH, turn into an integrated item ([#85228](https://github.com/CleverRaven/Cataclysm-DDA/pull/85228))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-11-1746 ([2344e62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-1746))
+
+* fix copy-paste error in string dimension z-stack special ID ([#85249](https://github.com/CleverRaven/Cataclysm-DDA/pull/85249))
 
 ---
 
@@ -185,13 +193,7 @@
 #### Cataclysm-DDA experimental build 2026-02-08-0242 ([aabfb9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0242))
 
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-07-2115 ([7f05908](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-2115))
-
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
-* Remove carpet redundancy ([#85087](https://github.com/CleverRaven/Cataclysm-DDA/pull/85087))
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Sky Island] Rebalance the infinity material crafts ([#85121](https://github.com/CleverRaven/Cataclysm-DDA/pull/85121))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
@@ -230,5 +232,3 @@
 * Add flags to mech laser rifles ([#85095](https://github.com/CleverRaven/Cataclysm-DDA/pull/85095))
 * [MoM] Reduce cost of some artifact abilities ([#85098](https://github.com/CleverRaven/Cataclysm-DDA/pull/85098))
 * Convert Thick Tail to limb, add techniques ([#85090](https://github.com/CleverRaven/Cataclysm-DDA/pull/85090))
-* [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
-* Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
