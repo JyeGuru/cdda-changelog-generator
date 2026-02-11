@@ -1,3 +1,10 @@
+* Add IWYU and Clang test label ([#85147](https://github.com/CleverRaven/Cataclysm-DDA/pull/85147))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-11-2006 ([e2ab4e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-2006))
+
+* Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
 
 ---
 
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-02-08-0432 ([9ca7dd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0432))
 
 * Bodyparts and mutations can provide tool qualities ([#85167](https://github.com/CleverRaven/Cataclysm-DDA/pull/85167))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-08-0335 ([9f52821](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0335))
-
 * Update macOS dev dependency set up doc ([#85159](https://github.com/CleverRaven/Cataclysm-DDA/pull/85159))
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
@@ -200,7 +202,6 @@
 * tweak the ziggurat exit, string dimension ([#85116](https://github.com/CleverRaven/Cataclysm-DDA/pull/85116))
 * Implement basic filters for monsters and terrain and furniture ([#85119](https://github.com/CleverRaven/Cataclysm-DDA/pull/85119))
 * Implement checks if character is in vehicle, in furniture, and in furniture with flag ([#85115](https://github.com/CleverRaven/Cataclysm-DDA/pull/85115))
-* [Sky Island] Undamage the cars ([#85089](https://github.com/CleverRaven/Cataclysm-DDA/pull/85089))
 * Add club tail as a body part ([#85120](https://github.com/CleverRaven/Cataclysm-DDA/pull/85120))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
 * Fix grammar in damage messages for abomination spawn ([#85125](https://github.com/CleverRaven/Cataclysm-DDA/pull/85125))
@@ -218,7 +219,6 @@
 * Add spiral mine & string dimension to HEW/Hub dialogue & Pat/Pat's headsets ([#85118](https://github.com/CleverRaven/Cataclysm-DDA/pull/85118))
 * Hide weight for NPCs generated in older versions ([#85137](https://github.com/CleverRaven/Cataclysm-DDA/pull/85137))
 * Improve surroundings menu performance ([#85139](https://github.com/CleverRaven/Cataclysm-DDA/pull/85139))
-* Make inv_search_cache operate on item_location ([#85088](https://github.com/CleverRaven/Cataclysm-DDA/pull/85088))
 * Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
 * Multilevel dungeon for the string dimension ([#85104](https://github.com/CleverRaven/Cataclysm-DDA/pull/85104))
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
