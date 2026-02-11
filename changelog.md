@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-11-0224 ([c773725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0224))
+
+* Add the Smashing for Wimps perk. ([#85215](https://github.com/CleverRaven/Cataclysm-DDA/pull/85215))
+* Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-11-0140 ([cdb41d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0140))
+
 * Fix multi-activity backlog not clearing ([#85211](https://github.com/CleverRaven/Cataclysm-DDA/pull/85211))
 * [Bombastic Perks] Fix perk requirement message ([#85222](https://github.com/CleverRaven/Cataclysm-DDA/pull/85222))
 * [Bombastic Perks] Remove double dipping for each level towards playstyle perks ([#85224](https://github.com/CleverRaven/Cataclysm-DDA/pull/85224))
@@ -189,11 +201,6 @@
 * Implement checks if character is in vehicle, in furniture, and in furniture with flag ([#85115](https://github.com/CleverRaven/Cataclysm-DDA/pull/85115))
 * Add a .natvis file to improve visual studio debugging ([#85084](https://github.com/CleverRaven/Cataclysm-DDA/pull/85084))
 * [Sky Island] Undamage the cars ([#85089](https://github.com/CleverRaven/Cataclysm-DDA/pull/85089))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-07-0506 ([a2cef20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-0506))
-
 * Add club tail as a body part ([#85120](https://github.com/CleverRaven/Cataclysm-DDA/pull/85120))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
 * Fix grammar in damage messages for abomination spawn ([#85125](https://github.com/CleverRaven/Cataclysm-DDA/pull/85125))
@@ -232,5 +239,3 @@
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
 * Support copy from in string extractor for overmap special ([#85071](https://github.com/CleverRaven/Cataclysm-DDA/pull/85071))
 * Weekly Changelog 2026-01-26 to 2026-02-02 ([#85072](https://github.com/CleverRaven/Cataclysm-DDA/pull/85072))
-* Add missing components to view priority from crafting menu ([#85069](https://github.com/CleverRaven/Cataclysm-DDA/pull/85069))
-* [alt-map-key] Move alien meadow to base game ([#85070](https://github.com/CleverRaven/Cataclysm-DDA/pull/85070))
