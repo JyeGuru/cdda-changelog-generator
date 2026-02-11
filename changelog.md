@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-11-0550 ([ab6c069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0550))
+
+* Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-11-0224 ([c773725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0224))
 
 * Add the Smashing for Wimps perk. ([#85215](https://github.com/CleverRaven/Cataclysm-DDA/pull/85215))
@@ -190,11 +196,6 @@
 
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Sky Island] Rebalance the infinity material crafts ([#85121](https://github.com/CleverRaven/Cataclysm-DDA/pull/85121))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-07-1610 ([61986ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-1610))
-
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
 * tweak the ziggurat exit, string dimension ([#85116](https://github.com/CleverRaven/Cataclysm-DDA/pull/85116))
 * Implement basic filters for monsters and terrain and furniture ([#85119](https://github.com/CleverRaven/Cataclysm-DDA/pull/85119))
@@ -237,5 +238,4 @@
 * Convert Thick Tail to limb, add techniques ([#85090](https://github.com/CleverRaven/Cataclysm-DDA/pull/85090))
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
-* Support copy from in string extractor for overmap special ([#85071](https://github.com/CleverRaven/Cataclysm-DDA/pull/85071))
 * Weekly Changelog 2026-01-26 to 2026-02-02 ([#85072](https://github.com/CleverRaven/Cataclysm-DDA/pull/85072))
