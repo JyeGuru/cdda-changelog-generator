@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-11-1631 ([5917282](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-1631))
+
+* Fix error in Hub 01 prototype menu dialogue ([#85244](https://github.com/CleverRaven/Cataclysm-DDA/pull/85244))
+* Fix pat earpiece/helmet rigidity conflict ([#85243](https://github.com/CleverRaven/Cataclysm-DDA/pull/85243))
+* Update tests for upcoming old lab removals ([#85246](https://github.com/CleverRaven/Cataclysm-DDA/pull/85246))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-11-1540 ([6147794](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-1540))
+
+* Add `etransfer_rate` to hub 01 visual augmentation headgear ([#85242](https://github.com/CleverRaven/Cataclysm-DDA/pull/85242))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-11-0550 ([ab6c069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0550))
 
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
@@ -149,12 +163,6 @@
 #### Cataclysm-DDA experimental build 2026-02-08-1251 ([a894ac4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1251))
 
 * Obsolete ACT_TIDY_UP ([#85169](https://github.com/CleverRaven/Cataclysm-DDA/pull/85169))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-08-0625 ([169d889](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-0625))
-
-* Forge values dragon blood, others not so much ([#85083](https://github.com/CleverRaven/Cataclysm-DDA/pull/85083))
 * [ Xedra Evolved ] Cut stab resistant clothes for vampire hunters ([#85157](https://github.com/CleverRaven/Cataclysm-DDA/pull/85157))
 * [ Magiclysm ] Combat Wands now take 1 second to activate ([#85160](https://github.com/CleverRaven/Cataclysm-DDA/pull/85160))
 * [ Xedra Evolved ] Proficiency lucid dreaming ([#85165](https://github.com/CleverRaven/Cataclysm-DDA/pull/85165))
@@ -183,24 +191,13 @@
 #### Cataclysm-DDA experimental build 2026-02-07-2115 ([7f05908](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-2115))
 
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-07-1848 ([d014545](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-1848))
-
 * Remove carpet redundancy ([#85087](https://github.com/CleverRaven/Cataclysm-DDA/pull/85087))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-07-1655 ([17550dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-07-1655))
-
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Sky Island] Rebalance the infinity material crafts ([#85121](https://github.com/CleverRaven/Cataclysm-DDA/pull/85121))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
 * tweak the ziggurat exit, string dimension ([#85116](https://github.com/CleverRaven/Cataclysm-DDA/pull/85116))
 * Implement basic filters for monsters and terrain and furniture ([#85119](https://github.com/CleverRaven/Cataclysm-DDA/pull/85119))
 * Implement checks if character is in vehicle, in furniture, and in furniture with flag ([#85115](https://github.com/CleverRaven/Cataclysm-DDA/pull/85115))
-* Add a .natvis file to improve visual studio debugging ([#85084](https://github.com/CleverRaven/Cataclysm-DDA/pull/85084))
 * [Sky Island] Undamage the cars ([#85089](https://github.com/CleverRaven/Cataclysm-DDA/pull/85089))
 * Add club tail as a body part ([#85120](https://github.com/CleverRaven/Cataclysm-DDA/pull/85120))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
@@ -227,15 +224,11 @@
 * Slightly improve repair message ([#85091](https://github.com/CleverRaven/Cataclysm-DDA/pull/85091))
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
-* [XE] Tier 5 vampires don't feel cold temperatures. ([#85082](https://github.com/CleverRaven/Cataclysm-DDA/pull/85082))
 * Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
 * Force mapgen to use loaded region settings for map extra spawns ([#85101](https://github.com/CleverRaven/Cataclysm-DDA/pull/85101))
 * Woodland wights and antlered horrors will bite you ([#85097](https://github.com/CleverRaven/Cataclysm-DDA/pull/85097))
 * Add flags to mech laser rifles ([#85095](https://github.com/CleverRaven/Cataclysm-DDA/pull/85095))
 * [MoM] Reduce cost of some artifact abilities ([#85098](https://github.com/CleverRaven/Cataclysm-DDA/pull/85098))
-* Fix surroundings menu freeze ([#85080](https://github.com/CleverRaven/Cataclysm-DDA/pull/85080))
-* Add deprioritize components of a recipe to the crafting menu ([#85081](https://github.com/CleverRaven/Cataclysm-DDA/pull/85081))
 * Convert Thick Tail to limb, add techniques ([#85090](https://github.com/CleverRaven/Cataclysm-DDA/pull/85090))
 * [XEDRA Evolved] Stabilize Timeline and Destabilizing Strikes mana drain scaling and levelling requirement resolution ([#85086](https://github.com/CleverRaven/Cataclysm-DDA/pull/85086))
 * Fix iwyu error in cata_variant ([#85085](https://github.com/CleverRaven/Cataclysm-DDA/pull/85085))
-* Weekly Changelog 2026-01-26 to 2026-02-02 ([#85072](https://github.com/CleverRaven/Cataclysm-DDA/pull/85072))
