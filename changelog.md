@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-12-2210 ([d130767](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2210))
+
+* Fix perishable foods getting sorted into the same zone as nonperishables ([#85234](https://github.com/CleverRaven/Cataclysm-DDA/pull/85234))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-12-2021 ([38e5277](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2021))
 
 * [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-02-08-1827 ([543f83d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1827))
 
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-08-1745 ([9c031e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1745))
-
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
 * [Xedra Evolved] Make lilin attack conditions more stringent ([#85110](https://github.com/CleverRaven/Cataclysm-DDA/pull/85110))
 * z-stack "towers" in string dimension ([#85163](https://github.com/CleverRaven/Cataclysm-DDA/pull/85163))
@@ -236,4 +237,3 @@
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
-* Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
