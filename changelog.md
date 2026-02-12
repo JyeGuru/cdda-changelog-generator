@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-12-0550 ([a990f9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-0550))
+
+* Fix greater acid resistance ([#85184](https://github.com/CleverRaven/Cataclysm-DDA/pull/85184))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-12-0131 ([157e66e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-0131))
 
 * hooves can be worn with XL shoes ([#85202](https://github.com/CleverRaven/Cataclysm-DDA/pull/85202))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-02-08-1535 ([9c8f0fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1535))
 
 * z-stack "towers" in string dimension ([#85163](https://github.com/CleverRaven/Cataclysm-DDA/pull/85163))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-08-1251 ([a894ac4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1251))
-
 * Obsolete ACT_TIDY_UP ([#85169](https://github.com/CleverRaven/Cataclysm-DDA/pull/85169))
 * [ Xedra Evolved ] Cut stab resistant clothes for vampire hunters ([#85157](https://github.com/CleverRaven/Cataclysm-DDA/pull/85157))
 * [ Magiclysm ] Combat Wands now take 1 second to activate ([#85160](https://github.com/CleverRaven/Cataclysm-DDA/pull/85160))
@@ -229,7 +230,6 @@
 * Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
 * Multilevel dungeon for the string dimension ([#85104](https://github.com/CleverRaven/Cataclysm-DDA/pull/85104))
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
-* Dermatik birth just plain kills you ([#85092](https://github.com/CleverRaven/Cataclysm-DDA/pull/85092))
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
 * Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
