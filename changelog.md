@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-12-0131 ([157e66e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-0131))
+
+* hooves can be worn with XL shoes ([#85202](https://github.com/CleverRaven/Cataclysm-DDA/pull/85202))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-11-2152 ([ed6241b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-2152))
 
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
@@ -224,7 +230,6 @@
 * Multilevel dungeon for the string dimension ([#85104](https://github.com/CleverRaven/Cataclysm-DDA/pull/85104))
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
 * Dermatik birth just plain kills you ([#85092](https://github.com/CleverRaven/Cataclysm-DDA/pull/85092))
-* Slightly improve repair message ([#85091](https://github.com/CleverRaven/Cataclysm-DDA/pull/85091))
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
 * Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
