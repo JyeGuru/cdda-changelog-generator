@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-12-2328 ([32de678](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2328))
+
+* Require FANGS for lupine and ursine muzzles  ([#85261](https://github.com/CleverRaven/Cataclysm-DDA/pull/85261))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-12-2210 ([d130767](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2210))
 
 * Fix perishable foods getting sorted into the same zone as nonperishables ([#85234](https://github.com/CleverRaven/Cataclysm-DDA/pull/85234))
@@ -191,14 +197,8 @@
 #### Cataclysm-DDA experimental build 2026-02-08-2322 ([7c30eac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-2322))
 
 * Raw flour is no longer easily edible, remove NUTRIENT_OVERRIDE From unfermented vinegar ([#85151](https://github.com/CleverRaven/Cataclysm-DDA/pull/85151))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-08-1827 ([543f83d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1827))
-
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
-* [Xedra Evolved] Make lilin attack conditions more stringent ([#85110](https://github.com/CleverRaven/Cataclysm-DDA/pull/85110))
 * z-stack "towers" in string dimension ([#85163](https://github.com/CleverRaven/Cataclysm-DDA/pull/85163))
 * Obsolete ACT_TIDY_UP ([#85169](https://github.com/CleverRaven/Cataclysm-DDA/pull/85169))
 * [ Xedra Evolved ] Cut stab resistant clothes for vampire hunters ([#85157](https://github.com/CleverRaven/Cataclysm-DDA/pull/85157))
@@ -233,7 +233,6 @@
 * Hide weight for NPCs generated in older versions ([#85137](https://github.com/CleverRaven/Cataclysm-DDA/pull/85137))
 * Improve surroundings menu performance ([#85139](https://github.com/CleverRaven/Cataclysm-DDA/pull/85139))
 * Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
-* Multilevel dungeon for the string dimension ([#85104](https://github.com/CleverRaven/Cataclysm-DDA/pull/85104))
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-12-2328 (32de678)
+* Require FANGS for lupine and ursine muzzles  (#85261)
+
 Cataclysm-DDA experimental build 2026-02-12-2210 (d130767)
 * Fix perishable foods getting sorted into the same zone as nonperishables (#85234)
 
@@ -107,11 +110,8 @@ Cataclysm-DDA experimental build 2026-02-09-0241 (bfbb248)
 
 Cataclysm-DDA experimental build 2026-02-08-2322 (7c30eac)
 * Raw flour is no longer easily edible, remove NUTRIENT_OVERRIDE From unfermented vinegar (#85151)
-
-Cataclysm-DDA experimental build 2026-02-08-1827 (543f83d)
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions (#85182)
 * Achievement for surviving string dimension (#85179)
-* [Xedra Evolved] Make lilin attack conditions more stringent (#85110)
 * z-stack "towers" in string dimension (#85163)
 * Obsolete ACT_TIDY_UP (#85169)
 * [ Xedra Evolved ] Cut stab resistant clothes for vampire hunters (#85157)
@@ -146,7 +146,6 @@ Cataclysm-DDA experimental build 2026-02-08-1827 (543f83d)
 * Hide weight for NPCs generated in older versions (#85137)
 * Improve surroundings menu performance (#85139)
 * Hide weight for NPCs generated in older versions (#85124)
-* Multilevel dungeon for the string dimension (#85104)
 * remove ROUGH and PAINFUL from string dimension grass (#85127)
 * Fix thick tail knocking back hulks (#85117)
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping (#85111)
