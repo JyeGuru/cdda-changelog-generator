@@ -1,3 +1,12 @@
+* [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
+* Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
+* Turn Rodent Tail into a body part ([#85257](https://github.com/CleverRaven/Cataclysm-DDA/pull/85257))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-12-1720 ([5901cbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-1720))
+
+* Improve the sundial to show illumination, weather, and moon phase ([#85195](https://github.com/CleverRaven/Cataclysm-DDA/pull/85195))
 
 ---
 
@@ -189,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-02-08-1635 ([070d2f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1635))
 
 * [Xedra Evolved] Make lilin attack conditions more stringent ([#85110](https://github.com/CleverRaven/Cataclysm-DDA/pull/85110))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-08-1535 ([9c8f0fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-1535))
-
 * z-stack "towers" in string dimension ([#85163](https://github.com/CleverRaven/Cataclysm-DDA/pull/85163))
 * Obsolete ACT_TIDY_UP ([#85169](https://github.com/CleverRaven/Cataclysm-DDA/pull/85169))
 * [ Xedra Evolved ] Cut stab resistant clothes for vampire hunters ([#85157](https://github.com/CleverRaven/Cataclysm-DDA/pull/85157))
@@ -233,7 +237,3 @@
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
 * Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
 * Adds dimension name to the debug info in the map sidebar ([#85103](https://github.com/CleverRaven/Cataclysm-DDA/pull/85103))
-* Force mapgen to use loaded region settings for map extra spawns ([#85101](https://github.com/CleverRaven/Cataclysm-DDA/pull/85101))
-* Woodland wights and antlered horrors will bite you ([#85097](https://github.com/CleverRaven/Cataclysm-DDA/pull/85097))
-* Add flags to mech laser rifles ([#85095](https://github.com/CleverRaven/Cataclysm-DDA/pull/85095))
-* [MoM] Reduce cost of some artifact abilities ([#85098](https://github.com/CleverRaven/Cataclysm-DDA/pull/85098))
