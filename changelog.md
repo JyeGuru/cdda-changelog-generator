@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-13-1722 ([7d7b9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-1722))
+
+* Cache `get_default_mode_input_context()`. ([#85281](https://github.com/CleverRaven/Cataclysm-DDA/pull/85281))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-13-1604 ([33d54a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-1604))
 
 * Add `forest` artifact recharge option ([#85267](https://github.com/CleverRaven/Cataclysm-DDA/pull/85267))
@@ -189,11 +195,6 @@
 * Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
 * Obsolete ACT_FERTILIZE_PLOT, replace with fertilize_plant_activity_actor ([#85193](https://github.com/CleverRaven/Cataclysm-DDA/pull/85193))
 * [Magiclysm] Slower imbue with lightning ([#85189](https://github.com/CleverRaven/Cataclysm-DDA/pull/85189))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-09-1739 ([3744071](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-1739))
-
 * [Xedra Evolved] Give Undine inherent liquid-containing qualities ([#85192](https://github.com/CleverRaven/Cataclysm-DDA/pull/85192))
 * Rewrite all tests to clear map without touching character map memory, for performance. ([#85201](https://github.com/CleverRaven/Cataclysm-DDA/pull/85201))
 * Turn Cattle Tail into a body part ([#85191](https://github.com/CleverRaven/Cataclysm-DDA/pull/85191))
@@ -217,7 +218,6 @@
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Sky Island] Rebalance the infinity material crafts ([#85121](https://github.com/CleverRaven/Cataclysm-DDA/pull/85121))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
-* Add club tail as a body part ([#85120](https://github.com/CleverRaven/Cataclysm-DDA/pull/85120))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
 * Fix grammar in damage messages for abomination spawn ([#85125](https://github.com/CleverRaven/Cataclysm-DDA/pull/85125))
 * [Xedra Evolved] Sapshield ([#85130](https://github.com/CleverRaven/Cataclysm-DDA/pull/85130))

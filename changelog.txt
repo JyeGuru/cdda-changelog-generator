@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-13-1722 (7d7b9fc)
+* Cache `get_default_mode_input_context()`. (#85281)
+
 Cataclysm-DDA experimental build 2026-02-13-1604 (33d54a2)
 * Add `forest` artifact recharge option (#85267)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2026-02-09-1826 (93ccde5)
 * Bring back gastropod foot (#85204)
 * Obsolete ACT_FERTILIZE_PLOT, replace with fertilize_plant_activity_actor (#85193)
 * [Magiclysm] Slower imbue with lightning (#85189)
-
-Cataclysm-DDA experimental build 2026-02-09-1739 (3744071)
 * [Xedra Evolved] Give Undine inherent liquid-containing qualities (#85192)
 * Rewrite all tests to clear map without touching character map memory, for performance. (#85201)
 * Turn Cattle Tail into a body part (#85191)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2026-02-09-1739 (3744071)
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors (#85135)
 * [Sky Island] Rebalance the infinity material crafts (#85121)
 * [Xedra Evolved]  Grackens helps each other out (#85162)
-* Add club tail as a body part (#85120)
 * [Xedra Evolved] Improve vampire hunter gear (#85138)
 * Fix grammar in damage messages for abomination spawn (#85125)
 * [Xedra Evolved] Sapshield (#85130)
