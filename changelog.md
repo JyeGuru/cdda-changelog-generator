@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-13-0617 ([613c6f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-0617))
+
+* Project Dodo: Survivor Pants ([#85280](https://github.com/CleverRaven/Cataclysm-DDA/pull/85280))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-13-0452 ([f8ebba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-0452))
 
 * Make reptilian muzzle a body part ([#85271](https://github.com/CleverRaven/Cataclysm-DDA/pull/85271))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-02-09-1439 ([a64d62a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-1439))
 
 * Turn Cattle Tail into a body part ([#85191](https://github.com/CleverRaven/Cataclysm-DDA/pull/85191))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-09-0611 ([133dca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-0611))
-
 * [XE] Rework unholy devastation so it isn't limited by stat caps. ([#85158](https://github.com/CleverRaven/Cataclysm-DDA/pull/85158))
 * Crab pincer limb provides tool qualities, remove integrated armor ([#85173](https://github.com/CleverRaven/Cataclysm-DDA/pull/85173))
 * Monsters check for `BLIND` flag, not `blind` effect ([#85176](https://github.com/CleverRaven/Cataclysm-DDA/pull/85176))
@@ -230,9 +231,7 @@
 * Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
 * Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
 * Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
-* Add spiral mine & string dimension to HEW/Hub dialogue & Pat/Pat's headsets ([#85118](https://github.com/CleverRaven/Cataclysm-DDA/pull/85118))
 * Hide weight for NPCs generated in older versions ([#85137](https://github.com/CleverRaven/Cataclysm-DDA/pull/85137))
 * Improve surroundings menu performance ([#85139](https://github.com/CleverRaven/Cataclysm-DDA/pull/85139))
 * Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
-* Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))

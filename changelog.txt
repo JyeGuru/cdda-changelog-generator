@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-13-0617 (613c6f0)
+* Project Dodo: Survivor Pants (#85280)
+
 Cataclysm-DDA experimental build 2026-02-13-0452 (f8ebba1)
 * Make reptilian muzzle a body part (#85271)
 * Fix sundial crash when sleeping (#85195 regression) (#85275)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2026-02-09-1739 (3744071)
 
 Cataclysm-DDA experimental build 2026-02-09-1439 (a64d62a)
 * Turn Cattle Tail into a body part (#85191)
-
-Cataclysm-DDA experimental build 2026-02-09-0611 (133dca5)
 * [XE] Rework unholy devastation so it isn't limited by stat caps. (#85158)
 * Crab pincer limb provides tool qualities, remove integrated armor (#85173)
 * Monsters check for `BLIND` flag, not `blind` effect (#85176)
@@ -143,9 +144,7 @@ Cataclysm-DDA experimental build 2026-02-09-0611 (133dca5)
 * Replace integrated crab pincer with replacing your hand with a crab pincer (#85146)
 * Shift the Exodii Labyrinth to its own dimension (#85150)
 * Climate Change: Adjust Regional Temperatures to be Boston Appropriate (#85142)
-* Add spiral mine & string dimension to HEW/Hub dialogue & Pat/Pat's headsets (#85118)
 * Hide weight for NPCs generated in older versions (#85137)
 * Improve surroundings menu performance (#85139)
 * Hide weight for NPCs generated in older versions (#85124)
 * remove ROUGH and PAINFUL from string dimension grass (#85127)
-* Fix thick tail knocking back hulks (#85117)
