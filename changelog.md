@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-13-0452 ([f8ebba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-0452))
+
+* Make reptilian muzzle a body part ([#85271](https://github.com/CleverRaven/Cataclysm-DDA/pull/85271))
+* Fix sundial crash when sleeping (#85195 regression) ([#85275](https://github.com/CleverRaven/Cataclysm-DDA/pull/85275))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-13-0411 ([11c491c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-0411))
+
+* Make curing dermatikk infestation not kill you ([#85277](https://github.com/CleverRaven/Cataclysm-DDA/pull/85277))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-12-2328 ([32de678](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2328))
 
 * Require FANGS for lupine and ursine muzzles  ([#85261](https://github.com/CleverRaven/Cataclysm-DDA/pull/85261))
@@ -185,17 +198,7 @@
 * [XE] Rework unholy devastation so it isn't limited by stat caps. ([#85158](https://github.com/CleverRaven/Cataclysm-DDA/pull/85158))
 * Crab pincer limb provides tool qualities, remove integrated armor ([#85173](https://github.com/CleverRaven/Cataclysm-DDA/pull/85173))
 * Monsters check for `BLIND` flag, not `blind` effect ([#85176](https://github.com/CleverRaven/Cataclysm-DDA/pull/85176))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-09-0241 ([bfbb248](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-0241))
-
 * Avoid unnecessary expensive map memory manipulation in tests ([#85188](https://github.com/CleverRaven/Cataclysm-DDA/pull/85188))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-08-2322 ([7c30eac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-08-2322))
-
 * Raw flour is no longer easily edible, remove NUTRIENT_OVERRIDE From unfermented vinegar ([#85151](https://github.com/CleverRaven/Cataclysm-DDA/pull/85151))
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
@@ -212,9 +215,7 @@
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Sky Island] Rebalance the infinity material crafts ([#85121](https://github.com/CleverRaven/Cataclysm-DDA/pull/85121))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
-* tweak the ziggurat exit, string dimension ([#85116](https://github.com/CleverRaven/Cataclysm-DDA/pull/85116))
 * Implement basic filters for monsters and terrain and furniture ([#85119](https://github.com/CleverRaven/Cataclysm-DDA/pull/85119))
-* Implement checks if character is in vehicle, in furniture, and in furniture with flag ([#85115](https://github.com/CleverRaven/Cataclysm-DDA/pull/85115))
 * Add club tail as a body part ([#85120](https://github.com/CleverRaven/Cataclysm-DDA/pull/85120))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
 * Fix grammar in damage messages for abomination spawn ([#85125](https://github.com/CleverRaven/Cataclysm-DDA/pull/85125))
@@ -235,4 +236,3 @@
 * Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
 * remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
 * Fix thick tail knocking back hulks ([#85117](https://github.com/CleverRaven/Cataclysm-DDA/pull/85117))
-* Give Hounds of Tindalos a nasty bite attack, make their slobber reality-warping ([#85111](https://github.com/CleverRaven/Cataclysm-DDA/pull/85111))
