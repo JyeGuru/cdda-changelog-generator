@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-13-1823 ([45ab46f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-1823))
+
+* Revert "Chipped away at zone sorting issues" #84974 ([#85282](https://github.com/CleverRaven/Cataclysm-DDA/pull/85282))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-13-1722 ([7d7b9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-1722))
 
 * Cache `get_default_mode_input_context()`. ([#85281](https://github.com/CleverRaven/Cataclysm-DDA/pull/85281))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-02-09-2146 ([5968742](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-2146))
 
 * Turn bear muzzle into a body part ([#85207](https://github.com/CleverRaven/Cataclysm-DDA/pull/85207))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-09-1826 ([93ccde5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-1826))
-
 * Fix grid charging ([#85175](https://github.com/CleverRaven/Cataclysm-DDA/pull/85175))
 * Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
 * Obsolete ACT_FERTILIZE_PLOT, replace with fertilize_plant_activity_actor ([#85193](https://github.com/CleverRaven/Cataclysm-DDA/pull/85193))
@@ -216,7 +217,6 @@
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
-* [Sky Island] Rebalance the infinity material crafts ([#85121](https://github.com/CleverRaven/Cataclysm-DDA/pull/85121))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
 * Fix grammar in damage messages for abomination spawn ([#85125](https://github.com/CleverRaven/Cataclysm-DDA/pull/85125))
@@ -227,7 +227,6 @@
 * Fix steel variants on skyisland recipes ([#85153](https://github.com/CleverRaven/Cataclysm-DDA/pull/85153))
 * [Xedra Evolved] Fix commoner changeling initial advancement ([#85155](https://github.com/CleverRaven/Cataclysm-DDA/pull/85155))
 * [Magiclysm/Xedra Evolved] Homullus Backstage applies to other species ([#85152](https://github.com/CleverRaven/Cataclysm-DDA/pull/85152))
-* [XE] Direct drinking from those wearing holy symbols burns the holy-burnt. ([#85122](https://github.com/CleverRaven/Cataclysm-DDA/pull/85122))
 * Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
 * Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
 * Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
