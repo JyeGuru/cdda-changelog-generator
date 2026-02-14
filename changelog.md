@@ -1,3 +1,4 @@
+* Cache world compression state ([#85262](https://github.com/CleverRaven/Cataclysm-DDA/pull/85262))
 
 ---
 
@@ -223,7 +224,6 @@
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
-* Hunting horrors have a poison that makes you burn in light ([#85131](https://github.com/CleverRaven/Cataclysm-DDA/pull/85131))
 * Rework No Trace Yet I Wish ([#85134](https://github.com/CleverRaven/Cataclysm-DDA/pull/85134))
 * Unification of need_charges_msg ([#85148](https://github.com/CleverRaven/Cataclysm-DDA/pull/85148))
 * Fix steel variants on skyisland recipes ([#85153](https://github.com/CleverRaven/Cataclysm-DDA/pull/85153))

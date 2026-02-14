@@ -1,3 +1,4 @@
+* Cache world compression state (#85262)
 
 Cataclysm-DDA experimental build 2026-02-14-0435 (d8c789a)
 * CVD removal (#85285)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2026-02-10-0244 (54ec064)
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors (#85135)
 * [Xedra Evolved]  Grackens helps each other out (#85162)
 * [Xedra Evolved] Improve vampire hunter gear (#85138)
-* Hunting horrors have a poison that makes you burn in light (#85131)
 * Rework No Trace Yet I Wish (#85134)
 * Unification of need_charges_msg (#85148)
 * Fix steel variants on skyisland recipes (#85153)
