@@ -1,3 +1,5 @@
+* Fix test labeler failures, cache IWYU and clang-tidy builds ([#85297](https://github.com/CleverRaven/Cataclysm-DDA/pull/85297))
+* Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
 
 ---
 
@@ -227,7 +229,6 @@
 * Update macOS dev dependency set up doc ([#85159](https://github.com/CleverRaven/Cataclysm-DDA/pull/85159))
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
-* Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
 * Unification of need_charges_msg ([#85148](https://github.com/CleverRaven/Cataclysm-DDA/pull/85148))
@@ -237,5 +238,4 @@
 * Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
 * Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
 * Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
-* Hide weight for NPCs generated in older versions ([#85137](https://github.com/CleverRaven/Cataclysm-DDA/pull/85137))
 * Improve surroundings menu performance ([#85139](https://github.com/CleverRaven/Cataclysm-DDA/pull/85139))
