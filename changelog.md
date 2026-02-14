@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-14-1707 ([98a7bdf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1707))
+
 * Consistent multi-activity zone names/descriptions ([#85253](https://github.com/CleverRaven/Cataclysm-DDA/pull/85253))
 * Move ACT_START_FIRE to activity_actor ([#85254](https://github.com/CleverRaven/Cataclysm-DDA/pull/85254))
 * Increase simple rack capacity ([#85256](https://github.com/CleverRaven/Cataclysm-DDA/pull/85256))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-02-10-2003 ([9167f55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-2003))
 
 * [Old Lab Removal] Removing old lab specials ([#85198](https://github.com/CleverRaven/Cataclysm-DDA/pull/85198))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-10-0627 ([b23fdfb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-0627))
-
 * Add a small hint to alpha primer recipe, if you're smart enough to notice it ([#85171](https://github.com/CleverRaven/Cataclysm-DDA/pull/85171))
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
 * make zombies occasionally follow new sounds ([#85187](https://github.com/CleverRaven/Cataclysm-DDA/pull/85187))

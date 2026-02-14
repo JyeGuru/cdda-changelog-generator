@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-14-1707 (98a7bdf)
 * Consistent multi-activity zone names/descriptions (#85253)
 * Move ACT_START_FIRE to activity_actor (#85254)
 * Increase simple rack capacity (#85256)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2026-02-10-2105 (6bbc206)
 
 Cataclysm-DDA experimental build 2026-02-10-2003 (9167f55)
 * [Old Lab Removal] Removing old lab specials (#85198)
-
-Cataclysm-DDA experimental build 2026-02-10-0627 (b23fdfb)
 * Add a small hint to alpha primer recipe, if you're smart enough to notice it (#85171)
 * [ Xedra Evolved ] Slight text change to specter profession (#85213)
 * make zombies occasionally follow new sounds (#85187)
