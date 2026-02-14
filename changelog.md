@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-14-1520 ([06549c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1520))
+
+* [Xedra Evolved] Add morale types for dreams and nightmares ([#85291](https://github.com/CleverRaven/Cataclysm-DDA/pull/85291))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-14-0645 ([f41923e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-0645))
 
 * Cache world compression state ([#85262](https://github.com/CleverRaven/Cataclysm-DDA/pull/85262))
@@ -193,11 +199,6 @@
 * Fix stumbles and falls message displaying for other people ([#85190](https://github.com/CleverRaven/Cataclysm-DDA/pull/85190))
 * HEW system can detect shimmering portals ([#85210](https://github.com/CleverRaven/Cataclysm-DDA/pull/85210))
 * track the used components ([#85194](https://github.com/CleverRaven/Cataclysm-DDA/pull/85194))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-10-0244 ([54ec064](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-0244))
-
 * Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
 * Fix #85156: Replace rifle case for Deep Cold Marksman ([#85197](https://github.com/CleverRaven/Cataclysm-DDA/pull/85197))
 * Visible hit sprite over monsters when they get hit in melee ([#85166](https://github.com/CleverRaven/Cataclysm-DDA/pull/85166))
@@ -229,7 +230,6 @@
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
-* Rework No Trace Yet I Wish ([#85134](https://github.com/CleverRaven/Cataclysm-DDA/pull/85134))
 * Unification of need_charges_msg ([#85148](https://github.com/CleverRaven/Cataclysm-DDA/pull/85148))
 * Fix steel variants on skyisland recipes ([#85153](https://github.com/CleverRaven/Cataclysm-DDA/pull/85153))
 * [Xedra Evolved] Fix commoner changeling initial advancement ([#85155](https://github.com/CleverRaven/Cataclysm-DDA/pull/85155))
