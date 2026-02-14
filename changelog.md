@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-14-0435 ([d8c789a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-0435))
+
+* CVD removal ([#85285](https://github.com/CleverRaven/Cataclysm-DDA/pull/85285))
+* Pin GitHub Actions to SHAs and apply security hardening ([#85296](https://github.com/CleverRaven/Cataclysm-DDA/pull/85296))
+* Slit Nostrils cause a breathing limb score penalty, not a mouth encumbrance penalty ([#85290](https://github.com/CleverRaven/Cataclysm-DDA/pull/85290))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-14-0343 ([d1bc400](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-0343))
+
+* Rodent muzzle is now a body part ([#85289](https://github.com/CleverRaven/Cataclysm-DDA/pull/85289))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-13-1823 ([45ab46f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-1823))
 
 * Revert "Chipped away at zone sorting issues" #84974 ([#85282](https://github.com/CleverRaven/Cataclysm-DDA/pull/85282))
@@ -180,17 +194,7 @@
 
 * Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
 * Fix #85156: Replace rifle case for Deep Cold Marksman ([#85197](https://github.com/CleverRaven/Cataclysm-DDA/pull/85197))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-09-2316 ([2fb12ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-2316))
-
 * Visible hit sprite over monsters when they get hit in melee ([#85166](https://github.com/CleverRaven/Cataclysm-DDA/pull/85166))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-09-2146 ([5968742](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-09-2146))
-
 * Turn bear muzzle into a body part ([#85207](https://github.com/CleverRaven/Cataclysm-DDA/pull/85207))
 * Fix grid charging ([#85175](https://github.com/CleverRaven/Cataclysm-DDA/pull/85175))
 * Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
@@ -219,8 +223,6 @@
 * Move ACT_MULTIPLE_BUILD, ACT_FETCH_REQUIRED, ACT_MULTIPLE_CONSTRUCTION to activity_actors ([#85135](https://github.com/CleverRaven/Cataclysm-DDA/pull/85135))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
 * [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
-* Fix grammar in damage messages for abomination spawn ([#85125](https://github.com/CleverRaven/Cataclysm-DDA/pull/85125))
-* [Xedra Evolved] Sapshield ([#85130](https://github.com/CleverRaven/Cataclysm-DDA/pull/85130))
 * Hunting horrors have a poison that makes you burn in light ([#85131](https://github.com/CleverRaven/Cataclysm-DDA/pull/85131))
 * Rework No Trace Yet I Wish ([#85134](https://github.com/CleverRaven/Cataclysm-DDA/pull/85134))
 * Unification of need_charges_msg ([#85148](https://github.com/CleverRaven/Cataclysm-DDA/pull/85148))
@@ -232,5 +234,3 @@
 * Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
 * Hide weight for NPCs generated in older versions ([#85137](https://github.com/CleverRaven/Cataclysm-DDA/pull/85137))
 * Improve surroundings menu performance ([#85139](https://github.com/CleverRaven/Cataclysm-DDA/pull/85139))
-* Hide weight for NPCs generated in older versions ([#85124](https://github.com/CleverRaven/Cataclysm-DDA/pull/85124))
-* remove ROUGH and PAINFUL from string dimension grass ([#85127](https://github.com/CleverRaven/Cataclysm-DDA/pull/85127))
