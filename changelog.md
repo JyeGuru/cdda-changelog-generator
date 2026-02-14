@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-14-0645 ([f41923e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-0645))
+
 * Cache world compression state ([#85262](https://github.com/CleverRaven/Cataclysm-DDA/pull/85262))
 
 ---
