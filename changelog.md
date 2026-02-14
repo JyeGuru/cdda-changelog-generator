@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-14-1942 ([07e54d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1942))
+
 * Revert "Cache `get_default_mode_input_context()`." ([#85310](https://github.com/CleverRaven/Cataclysm-DDA/pull/85310))
 * Polymorph State Transfer ([#85302](https://github.com/CleverRaven/Cataclysm-DDA/pull/85302))
 * Prevent integer overflow in uncraft test ([#85308](https://github.com/CleverRaven/Cataclysm-DDA/pull/85308))
@@ -197,11 +202,6 @@
 
 * Fix typos ([#85225](https://github.com/CleverRaven/Cataclysm-DDA/pull/85225))
 * Project Dodo: Survivor Duster and Survivor Trenchcoat ([#85223](https://github.com/CleverRaven/Cataclysm-DDA/pull/85223))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-10-2105 ([6bbc206](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-2105))
-
 * Switch `SABER_TEETH` to integrated teeth ([#85220](https://github.com/CleverRaven/Cataclysm-DDA/pull/85220))
 * Weekly Changelog 2026-02-02 to 2026-02-09 ([#85199](https://github.com/CleverRaven/Cataclysm-DDA/pull/85199))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
