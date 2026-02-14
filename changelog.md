@@ -1,4 +1,14 @@
+* Consistent multi-activity zone names/descriptions ([#85253](https://github.com/CleverRaven/Cataclysm-DDA/pull/85253))
+* Move ACT_START_FIRE to activity_actor ([#85254](https://github.com/CleverRaven/Cataclysm-DDA/pull/85254))
+* Increase simple rack capacity ([#85256](https://github.com/CleverRaven/Cataclysm-DDA/pull/85256))
+* [Old Lab Removal] Some cleanup from lab removal ([#85286](https://github.com/CleverRaven/Cataclysm-DDA/pull/85286))
+* Make "Turn off the engine" option  pink, for consistency ([#85301](https://github.com/CleverRaven/Cataclysm-DDA/pull/85301))
 * Fix test labeler failures, cache IWYU and clang-tidy builds ([#85297](https://github.com/CleverRaven/Cataclysm-DDA/pull/85297))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-14-1605 ([da2ad40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1605))
+
 * Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
 
 ---
@@ -192,11 +202,6 @@
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
 * make zombies occasionally follow new sounds ([#85187](https://github.com/CleverRaven/Cataclysm-DDA/pull/85187))
 * Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-10-0508 ([9b37b11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-0508))
-
 * String dimension connects to Exodii labyrinth ([#85178](https://github.com/CleverRaven/Cataclysm-DDA/pull/85178))
 * Fix stumbles and falls message displaying for other people ([#85190](https://github.com/CleverRaven/Cataclysm-DDA/pull/85190))
 * HEW system can detect shimmering portals ([#85210](https://github.com/CleverRaven/Cataclysm-DDA/pull/85210))
@@ -230,12 +235,9 @@
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
-* [Xedra Evolved] Improve vampire hunter gear ([#85138](https://github.com/CleverRaven/Cataclysm-DDA/pull/85138))
 * Unification of need_charges_msg ([#85148](https://github.com/CleverRaven/Cataclysm-DDA/pull/85148))
 * Fix steel variants on skyisland recipes ([#85153](https://github.com/CleverRaven/Cataclysm-DDA/pull/85153))
 * [Xedra Evolved] Fix commoner changeling initial advancement ([#85155](https://github.com/CleverRaven/Cataclysm-DDA/pull/85155))
 * [Magiclysm/Xedra Evolved] Homullus Backstage applies to other species ([#85152](https://github.com/CleverRaven/Cataclysm-DDA/pull/85152))
 * Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
 * Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
-* Climate Change: Adjust Regional Temperatures to be Boston Appropriate ([#85142](https://github.com/CleverRaven/Cataclysm-DDA/pull/85142))
-* Improve surroundings menu performance ([#85139](https://github.com/CleverRaven/Cataclysm-DDA/pull/85139))
