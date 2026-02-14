@@ -1,3 +1,15 @@
+* Prevent integer overflow in uncraft test ([#85308](https://github.com/CleverRaven/Cataclysm-DDA/pull/85308))
+* Increase dust mask encumbrance, add XL dust mask ([#85293](https://github.com/CleverRaven/Cataclysm-DDA/pull/85293))
+* Change default test sort order to lexicographical ([#85272](https://github.com/CleverRaven/Cataclysm-DDA/pull/85272))
+* Bird legs give you bird talons (foot replacements) ([#85260](https://github.com/CleverRaven/Cataclysm-DDA/pull/85260))
+* Clothing damage from unarmed attacks considers sturdiness ([#85209](https://github.com/CleverRaven/Cataclysm-DDA/pull/85209))
+* Closetland keeps track of departed dimension + sky island ([#85248](https://github.com/CleverRaven/Cataclysm-DDA/pull/85248))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-14-1839 ([748adc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1839))
+
+* Move jumping mutations to `"stamina": true` ([#85288](https://github.com/CleverRaven/Cataclysm-DDA/pull/85288))
 
 ---
 
@@ -122,7 +134,6 @@
 #### Cataclysm-DDA experimental build 2026-02-11-2152 ([ed6241b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-2152))
 
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
-* Add IWYU and Clang test label ([#85147](https://github.com/CleverRaven/Cataclysm-DDA/pull/85147))
 
 ---
 
@@ -192,11 +203,6 @@
 * Switch `SABER_TEETH` to integrated teeth ([#85220](https://github.com/CleverRaven/Cataclysm-DDA/pull/85220))
 * Weekly Changelog 2026-02-02 to 2026-02-09 ([#85199](https://github.com/CleverRaven/Cataclysm-DDA/pull/85199))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-10-2003 ([9167f55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-10-2003))
-
 * [Old Lab Removal] Removing old lab specials ([#85198](https://github.com/CleverRaven/Cataclysm-DDA/pull/85198))
 * Add a small hint to alpha primer recipe, if you're smart enough to notice it ([#85171](https://github.com/CleverRaven/Cataclysm-DDA/pull/85171))
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
@@ -221,7 +227,6 @@
 * Crab pincer limb provides tool qualities, remove integrated armor ([#85173](https://github.com/CleverRaven/Cataclysm-DDA/pull/85173))
 * Monsters check for `BLIND` flag, not `blind` effect ([#85176](https://github.com/CleverRaven/Cataclysm-DDA/pull/85176))
 * Avoid unnecessary expensive map memory manipulation in tests ([#85188](https://github.com/CleverRaven/Cataclysm-DDA/pull/85188))
-* Raw flour is no longer easily edible, remove NUTRIENT_OVERRIDE From unfermented vinegar ([#85151](https://github.com/CleverRaven/Cataclysm-DDA/pull/85151))
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
 * z-stack "towers" in string dimension ([#85163](https://github.com/CleverRaven/Cataclysm-DDA/pull/85163))
@@ -229,15 +234,9 @@
 * [ Xedra Evolved ] Cut stab resistant clothes for vampire hunters ([#85157](https://github.com/CleverRaven/Cataclysm-DDA/pull/85157))
 * [ Magiclysm ] Combat Wands now take 1 second to activate ([#85160](https://github.com/CleverRaven/Cataclysm-DDA/pull/85160))
 * [ Xedra Evolved ] Proficiency lucid dreaming ([#85165](https://github.com/CleverRaven/Cataclysm-DDA/pull/85165))
-* Make melatonin make sense ([#85154](https://github.com/CleverRaven/Cataclysm-DDA/pull/85154))
 * Bodyparts and mutations can provide tool qualities ([#85167](https://github.com/CleverRaven/Cataclysm-DDA/pull/85167))
 * Update macOS dev dependency set up doc ([#85159](https://github.com/CleverRaven/Cataclysm-DDA/pull/85159))
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
-* Unification of need_charges_msg ([#85148](https://github.com/CleverRaven/Cataclysm-DDA/pull/85148))
-* Fix steel variants on skyisland recipes ([#85153](https://github.com/CleverRaven/Cataclysm-DDA/pull/85153))
 * [Xedra Evolved] Fix commoner changeling initial advancement ([#85155](https://github.com/CleverRaven/Cataclysm-DDA/pull/85155))
-* [Magiclysm/Xedra Evolved] Homullus Backstage applies to other species ([#85152](https://github.com/CleverRaven/Cataclysm-DDA/pull/85152))
-* Replace integrated crab pincer with replacing your hand with a crab pincer ([#85146](https://github.com/CleverRaven/Cataclysm-DDA/pull/85146))
-* Shift the Exodii Labyrinth to its own dimension ([#85150](https://github.com/CleverRaven/Cataclysm-DDA/pull/85150))
