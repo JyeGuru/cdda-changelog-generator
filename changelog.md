@@ -236,7 +236,6 @@
 * [ Magiclysm ] Combat Wands now take 1 second to activate ([#85160](https://github.com/CleverRaven/Cataclysm-DDA/pull/85160))
 * [ Xedra Evolved ] Proficiency lucid dreaming ([#85165](https://github.com/CleverRaven/Cataclysm-DDA/pull/85165))
 * Bodyparts and mutations can provide tool qualities ([#85167](https://github.com/CleverRaven/Cataclysm-DDA/pull/85167))
-* Update macOS dev dependency set up doc ([#85159](https://github.com/CleverRaven/Cataclysm-DDA/pull/85159))
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
 * [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
