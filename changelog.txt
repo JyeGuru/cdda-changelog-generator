@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-15-0927 (f407ea7)
+* fix being sent to the shadow realm by misfired void spider eoc (#85326)
+
 Cataclysm-DDA experimental build 2026-02-15-0259 (00dc9aa)
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference (#85321)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2026-02-11-1631 (5917282)
 
 Cataclysm-DDA experimental build 2026-02-11-1540 (6147794)
 * Add `etransfer_rate` to hub 01 visual augmentation headgear (#85242)
-
-Cataclysm-DDA experimental build 2026-02-11-0550 (ab6c069)
 * Expose dimension names to EOC (#85235)
 * Add the Smashing for Wimps perk. (#85215)
 * Allow mutations to be powered by Stamina, apply it to Insect Wings (#85231)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2026-02-11-0550 (ab6c069)
 * Avoid unnecessary expensive map memory manipulation in tests (#85188)
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions (#85182)
 * Achievement for surviving string dimension (#85179)
-* z-stack "towers" in string dimension (#85163)
 * Obsolete ACT_TIDY_UP (#85169)
 * [ Xedra Evolved ] Proficiency lucid dreaming (#85165)
 * Bodyparts and mutations can provide tool qualities (#85167)

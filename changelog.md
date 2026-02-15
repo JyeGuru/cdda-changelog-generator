@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-15-0927 ([f407ea7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0927))
+
+* fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-15-0259 ([00dc9aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0259))
 
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-02-11-1540 ([6147794](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-1540))
 
 * Add `etransfer_rate` to hub 01 visual augmentation headgear ([#85242](https://github.com/CleverRaven/Cataclysm-DDA/pull/85242))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-11-0550 ([ab6c069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0550))
-
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
 * Add the Smashing for Wimps perk. ([#85215](https://github.com/CleverRaven/Cataclysm-DDA/pull/85215))
 * Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))
@@ -233,7 +234,6 @@
 * Avoid unnecessary expensive map memory manipulation in tests ([#85188](https://github.com/CleverRaven/Cataclysm-DDA/pull/85188))
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
-* z-stack "towers" in string dimension ([#85163](https://github.com/CleverRaven/Cataclysm-DDA/pull/85163))
 * Obsolete ACT_TIDY_UP ([#85169](https://github.com/CleverRaven/Cataclysm-DDA/pull/85169))
 * [ Xedra Evolved ] Proficiency lucid dreaming ([#85165](https://github.com/CleverRaven/Cataclysm-DDA/pull/85165))
 * Bodyparts and mutations can provide tool qualities ([#85167](https://github.com/CleverRaven/Cataclysm-DDA/pull/85167))
