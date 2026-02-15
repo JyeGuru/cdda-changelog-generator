@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-15-2157 ([5acdc30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-2157))
+
+* fix auto-move abort on grabbed vehicle collision ([#85315](https://github.com/CleverRaven/Cataclysm-DDA/pull/85315))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-15-1616 ([acdd03e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-1616))
 
 * Add hooves as body parts, prevent headbutts except when desperate ([#85324](https://github.com/CleverRaven/Cataclysm-DDA/pull/85324))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-02-11-1746 ([2344e62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-1746))
 
 * fix copy-paste error in string dimension z-stack special ID ([#85249](https://github.com/CleverRaven/Cataclysm-DDA/pull/85249))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-11-1631 ([5917282](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-1631))
-
 * Fix error in Hub 01 prototype menu dialogue ([#85244](https://github.com/CleverRaven/Cataclysm-DDA/pull/85244))
 * Fix pat earpiece/helmet rigidity conflict ([#85243](https://github.com/CleverRaven/Cataclysm-DDA/pull/85243))
 * Update tests for upcoming old lab removals ([#85246](https://github.com/CleverRaven/Cataclysm-DDA/pull/85246))
@@ -221,7 +222,6 @@
 * track the used components ([#85194](https://github.com/CleverRaven/Cataclysm-DDA/pull/85194))
 * Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
 * Fix #85156: Replace rifle case for Deep Cold Marksman ([#85197](https://github.com/CleverRaven/Cataclysm-DDA/pull/85197))
-* Visible hit sprite over monsters when they get hit in melee ([#85166](https://github.com/CleverRaven/Cataclysm-DDA/pull/85166))
 * Turn bear muzzle into a body part ([#85207](https://github.com/CleverRaven/Cataclysm-DDA/pull/85207))
 * Fix grid charging ([#85175](https://github.com/CleverRaven/Cataclysm-DDA/pull/85175))
 * Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
