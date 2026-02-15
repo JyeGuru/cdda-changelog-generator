@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-15-0142 ([e50b01e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0142))
+
+* Move alien meadow harvests to vanilla ([#85274](https://github.com/CleverRaven/Cataclysm-DDA/pull/85274))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-14-2117 ([bd7cb48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-2117))
 
 * Multi-activity overhaul part 8: simplify multi-activity backlogging ([#85292](https://github.com/CleverRaven/Cataclysm-DDA/pull/85292))
@@ -193,11 +199,6 @@
 
 * Add the Smashing for Wimps perk. ([#85215](https://github.com/CleverRaven/Cataclysm-DDA/pull/85215))
 * Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-11-0140 ([cdb41d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0140))
-
 * Fix multi-activity backlog not clearing ([#85211](https://github.com/CleverRaven/Cataclysm-DDA/pull/85211))
 * [Bombastic Perks] Fix perk requirement message ([#85222](https://github.com/CleverRaven/Cataclysm-DDA/pull/85222))
 * [Bombastic Perks] Remove double dipping for each level towards playstyle perks ([#85224](https://github.com/CleverRaven/Cataclysm-DDA/pull/85224))
@@ -233,7 +234,6 @@
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
 * z-stack "towers" in string dimension ([#85163](https://github.com/CleverRaven/Cataclysm-DDA/pull/85163))
 * Obsolete ACT_TIDY_UP ([#85169](https://github.com/CleverRaven/Cataclysm-DDA/pull/85169))
-* [ Magiclysm ] Combat Wands now take 1 second to activate ([#85160](https://github.com/CleverRaven/Cataclysm-DDA/pull/85160))
 * [ Xedra Evolved ] Proficiency lucid dreaming ([#85165](https://github.com/CleverRaven/Cataclysm-DDA/pull/85165))
 * Bodyparts and mutations can provide tool qualities ([#85167](https://github.com/CleverRaven/Cataclysm-DDA/pull/85167))
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))

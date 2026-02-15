@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-15-0142 (e50b01e)
+* Move alien meadow harvests to vanilla (#85274)
+
 Cataclysm-DDA experimental build 2026-02-14-2117 (bd7cb48)
 * Multi-activity overhaul part 8: simplify multi-activity backlogging (#85292)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2026-02-11-0550 (ab6c069)
 Cataclysm-DDA experimental build 2026-02-11-0224 (c773725)
 * Add the Smashing for Wimps perk. (#85215)
 * Allow mutations to be powered by Stamina, apply it to Insect Wings (#85231)
-
-Cataclysm-DDA experimental build 2026-02-11-0140 (cdb41d0)
 * Fix multi-activity backlog not clearing (#85211)
 * [Bombastic Perks] Fix perk requirement message (#85222)
 * [Bombastic Perks] Remove double dipping for each level towards playstyle perks (#85224)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2026-02-11-0140 (cdb41d0)
 * Achievement for surviving string dimension (#85179)
 * z-stack "towers" in string dimension (#85163)
 * Obsolete ACT_TIDY_UP (#85169)
-* [ Magiclysm ] Combat Wands now take 1 second to activate (#85160)
 * [ Xedra Evolved ] Proficiency lucid dreaming (#85165)
 * Bodyparts and mutations can provide tool qualities (#85167)
 * Make stale data warnings optional (#85170)
