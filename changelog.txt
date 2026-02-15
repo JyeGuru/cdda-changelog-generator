@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-15-1616 (acdd03e)
+* Add hooves as body parts, prevent headbutts except when desperate (#85324)
+
 Cataclysm-DDA experimental build 2026-02-15-0927 (f407ea7)
 * fix being sent to the shadow realm by misfired void spider eoc (#85326)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2026-02-11-1631 (5917282)
 * Fix error in Hub 01 prototype menu dialogue (#85244)
 * Fix pat earpiece/helmet rigidity conflict (#85243)
 * Update tests for upcoming old lab removals (#85246)
-
-Cataclysm-DDA experimental build 2026-02-11-1540 (6147794)
 * Add `etransfer_rate` to hub 01 visual augmentation headgear (#85242)
 * Expose dimension names to EOC (#85235)
 * Add the Smashing for Wimps perk. (#85215)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2026-02-11-1540 (6147794)
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions (#85182)
 * Achievement for surviving string dimension (#85179)
 * Obsolete ACT_TIDY_UP (#85169)
-* [ Xedra Evolved ] Proficiency lucid dreaming (#85165)
 * Bodyparts and mutations can provide tool qualities (#85167)
 * Make stale data warnings optional (#85170)
 * Make forest floor sound like dirt and not asphalt (#85168)

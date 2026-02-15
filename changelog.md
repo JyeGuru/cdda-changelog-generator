@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-15-1616 ([acdd03e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-1616))
+
+* Add hooves as body parts, prevent headbutts except when desperate ([#85324](https://github.com/CleverRaven/Cataclysm-DDA/pull/85324))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-15-0927 ([f407ea7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0927))
 
 * fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
@@ -192,11 +198,6 @@
 * Fix error in Hub 01 prototype menu dialogue ([#85244](https://github.com/CleverRaven/Cataclysm-DDA/pull/85244))
 * Fix pat earpiece/helmet rigidity conflict ([#85243](https://github.com/CleverRaven/Cataclysm-DDA/pull/85243))
 * Update tests for upcoming old lab removals ([#85246](https://github.com/CleverRaven/Cataclysm-DDA/pull/85246))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-11-1540 ([6147794](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-1540))
-
 * Add `etransfer_rate` to hub 01 visual augmentation headgear ([#85242](https://github.com/CleverRaven/Cataclysm-DDA/pull/85242))
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
 * Add the Smashing for Wimps perk. ([#85215](https://github.com/CleverRaven/Cataclysm-DDA/pull/85215))
@@ -235,7 +236,6 @@
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
 * Obsolete ACT_TIDY_UP ([#85169](https://github.com/CleverRaven/Cataclysm-DDA/pull/85169))
-* [ Xedra Evolved ] Proficiency lucid dreaming ([#85165](https://github.com/CleverRaven/Cataclysm-DDA/pull/85165))
 * Bodyparts and mutations can provide tool qualities ([#85167](https://github.com/CleverRaven/Cataclysm-DDA/pull/85167))
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
