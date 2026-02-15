@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-15-0259 (00dc9aa)
+* Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference (#85321)
+
 Cataclysm-DDA experimental build 2026-02-15-0142 (e50b01e)
 * Move alien meadow harvests to vanilla (#85274)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2026-02-11-1540 (6147794)
 
 Cataclysm-DDA experimental build 2026-02-11-0550 (ab6c069)
 * Expose dimension names to EOC (#85235)
-
-Cataclysm-DDA experimental build 2026-02-11-0224 (c773725)
 * Add the Smashing for Wimps perk. (#85215)
 * Allow mutations to be powered by Stamina, apply it to Insect Wings (#85231)
 * Fix multi-activity backlog not clearing (#85211)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2026-02-11-0224 (c773725)
 * Bodyparts and mutations can provide tool qualities (#85167)
 * Make stale data warnings optional (#85170)
 * Make forest floor sound like dirt and not asphalt (#85168)
-* [Xedra Evolved]  Grackens helps each other out (#85162)

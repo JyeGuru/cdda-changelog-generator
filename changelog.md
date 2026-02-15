@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-15-0259 ([00dc9aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0259))
+
+* Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-15-0142 ([e50b01e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0142))
 
 * Move alien meadow harvests to vanilla ([#85274](https://github.com/CleverRaven/Cataclysm-DDA/pull/85274))
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-02-11-0550 ([ab6c069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0550))
 
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-11-0224 ([c773725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-0224))
-
 * Add the Smashing for Wimps perk. ([#85215](https://github.com/CleverRaven/Cataclysm-DDA/pull/85215))
 * Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))
 * Fix multi-activity backlog not clearing ([#85211](https://github.com/CleverRaven/Cataclysm-DDA/pull/85211))
@@ -238,4 +239,3 @@
 * Bodyparts and mutations can provide tool qualities ([#85167](https://github.com/CleverRaven/Cataclysm-DDA/pull/85167))
 * Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
 * Make forest floor sound like dirt and not asphalt ([#85168](https://github.com/CleverRaven/Cataclysm-DDA/pull/85168))
-* [Xedra Evolved]  Grackens helps each other out ([#85162](https://github.com/CleverRaven/Cataclysm-DDA/pull/85162))
