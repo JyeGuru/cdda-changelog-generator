@@ -1,3 +1,11 @@
+* Make Hub 01 RM13 repair dialogue match actual time it takes to repair it ([#85349](https://github.com/CleverRaven/Cataclysm-DDA/pull/85349))
+* Guard mp3_on tick against null carrier ([#85338](https://github.com/CleverRaven/Cataclysm-DDA/pull/85338))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-16-2100 ([0696b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-2100))
+
+* Give bunch of furnitures their mass ([#85344](https://github.com/CleverRaven/Cataclysm-DDA/pull/85344))
 
 ---
 
@@ -188,16 +196,10 @@
 #### Cataclysm-DDA experimental build 2026-02-12-2210 ([d130767](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2210))
 
 * Fix perishable foods getting sorted into the same zone as nonperishables ([#85234](https://github.com/CleverRaven/Cataclysm-DDA/pull/85234))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-12-2021 ([38e5277](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2021))
-
 * [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
 * Turn Rodent Tail into a body part ([#85257](https://github.com/CleverRaven/Cataclysm-DDA/pull/85257))
 * Improve the sundial to show illumination, weather, and moon phase ([#85195](https://github.com/CleverRaven/Cataclysm-DDA/pull/85195))
-* Fix greater acid resistance ([#85184](https://github.com/CleverRaven/Cataclysm-DDA/pull/85184))
 * hooves can be worn with XL shoes ([#85202](https://github.com/CleverRaven/Cataclysm-DDA/pull/85202))
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
 * Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
@@ -236,5 +238,3 @@
 * Rewrite all tests to clear map without touching character map memory, for performance. ([#85201](https://github.com/CleverRaven/Cataclysm-DDA/pull/85201))
 * Turn Cattle Tail into a body part ([#85191](https://github.com/CleverRaven/Cataclysm-DDA/pull/85191))
 * Avoid unnecessary expensive map memory manipulation in tests ([#85188](https://github.com/CleverRaven/Cataclysm-DDA/pull/85188))
-* [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
-* Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
