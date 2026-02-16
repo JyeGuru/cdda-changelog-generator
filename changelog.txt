@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-16-1731 (6152819)
 * Expose character gender to math/eoc (#85351)
 
 Cataclysm-DDA experimental build 2026-02-16-1638 (f11f7b5)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2026-02-12-1720 (5901cbd)
 
 Cataclysm-DDA experimental build 2026-02-12-0550 (a990f9a)
 * Fix greater acid resistance (#85184)
-
-Cataclysm-DDA experimental build 2026-02-12-0131 (157e66e)
 * hooves can be worn with XL shoes (#85202)
 * Multi-activity overhaul part 7: cleanup dead legacy code (#85237)
 * Even more input popup migration (#85250)

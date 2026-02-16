@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-16-1731 ([6152819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1731))
+
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-02-12-0550 ([a990f9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-0550))
 
 * Fix greater acid resistance ([#85184](https://github.com/CleverRaven/Cataclysm-DDA/pull/85184))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-12-0131 ([157e66e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-0131))
-
 * hooves can be worn with XL shoes ([#85202](https://github.com/CleverRaven/Cataclysm-DDA/pull/85202))
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
 * Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
