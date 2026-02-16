@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-16-1953 ([964c19a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1953))
+
+* Hub 01 chop shop, a special/missions pitting the Hub vs Exodii ([#85309](https://github.com/CleverRaven/Cataclysm-DDA/pull/85309))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-16-1813 ([c8be511](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1813))
+
+* Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-16-1731 ([6152819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1731))
 
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
@@ -184,17 +196,7 @@
 * [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
 * Turn Rodent Tail into a body part ([#85257](https://github.com/CleverRaven/Cataclysm-DDA/pull/85257))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-12-1720 ([5901cbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-1720))
-
 * Improve the sundial to show illumination, weather, and moon phase ([#85195](https://github.com/CleverRaven/Cataclysm-DDA/pull/85195))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-12-0550 ([a990f9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-0550))
-
 * Fix greater acid resistance ([#85184](https://github.com/CleverRaven/Cataclysm-DDA/pull/85184))
 * hooves can be worn with XL shoes ([#85202](https://github.com/CleverRaven/Cataclysm-DDA/pull/85202))
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
@@ -221,7 +223,6 @@
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
 * make zombies occasionally follow new sounds ([#85187](https://github.com/CleverRaven/Cataclysm-DDA/pull/85187))
 * Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
-* String dimension connects to Exodii labyrinth ([#85178](https://github.com/CleverRaven/Cataclysm-DDA/pull/85178))
 * Fix stumbles and falls message displaying for other people ([#85190](https://github.com/CleverRaven/Cataclysm-DDA/pull/85190))
 * HEW system can detect shimmering portals ([#85210](https://github.com/CleverRaven/Cataclysm-DDA/pull/85210))
 * track the used components ([#85194](https://github.com/CleverRaven/Cataclysm-DDA/pull/85194))
@@ -234,7 +235,6 @@
 * [Xedra Evolved] Give Undine inherent liquid-containing qualities ([#85192](https://github.com/CleverRaven/Cataclysm-DDA/pull/85192))
 * Rewrite all tests to clear map without touching character map memory, for performance. ([#85201](https://github.com/CleverRaven/Cataclysm-DDA/pull/85201))
 * Turn Cattle Tail into a body part ([#85191](https://github.com/CleverRaven/Cataclysm-DDA/pull/85191))
-* Monsters check for `BLIND` flag, not `blind` effect ([#85176](https://github.com/CleverRaven/Cataclysm-DDA/pull/85176))
 * Avoid unnecessary expensive map memory manipulation in tests ([#85188](https://github.com/CleverRaven/Cataclysm-DDA/pull/85188))
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
