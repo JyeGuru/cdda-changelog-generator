@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-16-1155 (18f3182)
+* zone sort: grab-aware pathfinding for vehicles (#85316)
+
 Cataclysm-DDA experimental build 2026-02-16-0309 (6c9cf22)
 * Add `TOUCH_REQUIRED` flag for spells (#85295)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2026-02-12-0131 (157e66e)
 
 Cataclysm-DDA experimental build 2026-02-11-2152 (ed6241b)
 * Multi-activity overhaul part 7: cleanup dead legacy code (#85237)
-
-Cataclysm-DDA experimental build 2026-02-11-2006 (e2ab4e9)
 * Even more input popup migration (#85250)
 * Add simple wooden rack and construction recipe (#85239)
 * Remove free attack from SHARKTEETH, turn into an integrated item (#85228)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2026-02-11-2006 (e2ab4e9)
 * Weekly Changelog 2026-02-02 to 2026-02-09 (#85199)
 * Turn finned tail into a body part (#85226)
 * [Old Lab Removal] Removing old lab specials (#85198)
-* Add a small hint to alpha primer recipe, if you're smart enough to notice it (#85171)
 * [ Xedra Evolved ] Slight text change to specter profession (#85213)
 * make zombies occasionally follow new sounds (#85187)
 * Turn Lupine muzzle into a body part (#85212)
@@ -148,4 +148,3 @@ Cataclysm-DDA experimental build 2026-02-11-2006 (e2ab4e9)
 * Avoid unnecessary expensive map memory manipulation in tests (#85188)
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions (#85182)
 * Achievement for surviving string dimension (#85179)
-* Make stale data warnings optional (#85170)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-16-1155 ([18f3182](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1155))
+
+* zone sort: grab-aware pathfinding for vehicles ([#85316](https://github.com/CleverRaven/Cataclysm-DDA/pull/85316))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-16-0309 ([6c9cf22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-0309))
 
 * Add `TOUCH_REQUIRED` flag for spells ([#85295](https://github.com/CleverRaven/Cataclysm-DDA/pull/85295))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-02-11-2152 ([ed6241b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-2152))
 
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-11-2006 ([e2ab4e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-2006))
-
 * Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
 * Add simple wooden rack and construction recipe ([#85239](https://github.com/CleverRaven/Cataclysm-DDA/pull/85239))
 * Remove free attack from SHARKTEETH, turn into an integrated item ([#85228](https://github.com/CleverRaven/Cataclysm-DDA/pull/85228))
@@ -215,7 +216,6 @@
 * Weekly Changelog 2026-02-02 to 2026-02-09 ([#85199](https://github.com/CleverRaven/Cataclysm-DDA/pull/85199))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
 * [Old Lab Removal] Removing old lab specials ([#85198](https://github.com/CleverRaven/Cataclysm-DDA/pull/85198))
-* Add a small hint to alpha primer recipe, if you're smart enough to notice it ([#85171](https://github.com/CleverRaven/Cataclysm-DDA/pull/85171))
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
 * make zombies occasionally follow new sounds ([#85187](https://github.com/CleverRaven/Cataclysm-DDA/pull/85187))
 * Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
@@ -238,4 +238,3 @@
 * Avoid unnecessary expensive map memory manipulation in tests ([#85188](https://github.com/CleverRaven/Cataclysm-DDA/pull/85188))
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
 * Achievement for surviving string dimension ([#85179](https://github.com/CleverRaven/Cataclysm-DDA/pull/85179))
-* Make stale data warnings optional ([#85170](https://github.com/CleverRaven/Cataclysm-DDA/pull/85170))
