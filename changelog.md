@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-16-2209 ([c936223](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-2209))
+
 * Digitigrade paws are now body parts ([#85334](https://github.com/CleverRaven/Cataclysm-DDA/pull/85334))
 * [Sky Island] Add construction fix for bunker entrance ([#85335](https://github.com/CleverRaven/Cataclysm-DDA/pull/85335))
 * Rabbit muzzle is now a body part ([#85346](https://github.com/CleverRaven/Cataclysm-DDA/pull/85346))
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2026-02-12-2328 ([32de678](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2328))
 
 * Require FANGS for lupine and ursine muzzles  ([#85261](https://github.com/CleverRaven/Cataclysm-DDA/pull/85261))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-12-2210 ([d130767](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-2210))
-
 * Fix perishable foods getting sorted into the same zone as nonperishables ([#85234](https://github.com/CleverRaven/Cataclysm-DDA/pull/85234))
 * [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
