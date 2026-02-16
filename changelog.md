@@ -1,3 +1,10 @@
+* Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-16-1638 ([f11f7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1638))
+
+* [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
 
 ---
 
@@ -190,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-02-12-0131 ([157e66e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-12-0131))
 
 * hooves can be worn with XL shoes ([#85202](https://github.com/CleverRaven/Cataclysm-DDA/pull/85202))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-11-2152 ([ed6241b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-11-2152))
-
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
 * Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
 * Add simple wooden rack and construction recipe ([#85239](https://github.com/CleverRaven/Cataclysm-DDA/pull/85239))
@@ -226,14 +228,12 @@
 * Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
 * Fix #85156: Replace rifle case for Deep Cold Marksman ([#85197](https://github.com/CleverRaven/Cataclysm-DDA/pull/85197))
 * Turn bear muzzle into a body part ([#85207](https://github.com/CleverRaven/Cataclysm-DDA/pull/85207))
-* Fix grid charging ([#85175](https://github.com/CleverRaven/Cataclysm-DDA/pull/85175))
 * Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
 * Obsolete ACT_FERTILIZE_PLOT, replace with fertilize_plant_activity_actor ([#85193](https://github.com/CleverRaven/Cataclysm-DDA/pull/85193))
 * [Magiclysm] Slower imbue with lightning ([#85189](https://github.com/CleverRaven/Cataclysm-DDA/pull/85189))
 * [Xedra Evolved] Give Undine inherent liquid-containing qualities ([#85192](https://github.com/CleverRaven/Cataclysm-DDA/pull/85192))
 * Rewrite all tests to clear map without touching character map memory, for performance. ([#85201](https://github.com/CleverRaven/Cataclysm-DDA/pull/85201))
 * Turn Cattle Tail into a body part ([#85191](https://github.com/CleverRaven/Cataclysm-DDA/pull/85191))
-* Crab pincer limb provides tool qualities, remove integrated armor ([#85173](https://github.com/CleverRaven/Cataclysm-DDA/pull/85173))
 * Monsters check for `BLIND` flag, not `blind` effect ([#85176](https://github.com/CleverRaven/Cataclysm-DDA/pull/85176))
 * Avoid unnecessary expensive map memory manipulation in tests ([#85188](https://github.com/CleverRaven/Cataclysm-DDA/pull/85188))
 * [ Xedra Evolved ] Add Dhampir to new blood sidebar conditions ([#85182](https://github.com/CleverRaven/Cataclysm-DDA/pull/85182))
