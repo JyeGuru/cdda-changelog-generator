@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-02-17-0741 (1c65805)
+* Sane-ify road roller stats (#85283)
+
+Cataclysm-DDA experimental build 2026-02-17-0653 (4b2047a)
 * Fix 100% CPU usage with ncurses (#85340)
 * Fix solar panel furniture placement on open_air terrain (#85341)
 * You can make biscuits with buttermilk (#85359)
@@ -106,11 +111,7 @@ Cataclysm-DDA experimental build 2026-02-13-1722 (7d7b9fc)
 
 Cataclysm-DDA experimental build 2026-02-13-1604 (33d54a2)
 * Add `forest` artifact recharge option (#85267)
-
-Cataclysm-DDA experimental build 2026-02-13-0617 (613c6f0)
 * Project Dodo: Survivor Pants (#85280)
-
-Cataclysm-DDA experimental build 2026-02-13-0452 (f8ebba1)
 * Make reptilian muzzle a body part (#85271)
 * Fix sundial crash when sleeping (#85195 regression) (#85275)
 * Make curing dermatikk infestation not kill you (#85277)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2026-02-13-0452 (f8ebba1)
 * Turn Lupine muzzle into a body part (#85212)
 * HEW system can detect shimmering portals (#85210)
 * Turn raptor tail into a body part (#85208)
-* Fix #85156: Replace rifle case for Deep Cold Marksman (#85197)
 * Turn bear muzzle into a body part (#85207)
 * Bring back gastropod foot (#85204)
 * Rewrite all tests to clear map without touching character map memory, for performance. (#85201)
