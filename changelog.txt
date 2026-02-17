@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-17-1054 (392613f)
+* Update docs for gender in EOCs (#85369)
+
 Cataclysm-DDA experimental build 2026-02-17-0741 (1c65805)
 * Sane-ify road roller stats (#85283)
 
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2026-02-13-1823 (45ab46f)
 
 Cataclysm-DDA experimental build 2026-02-13-1722 (7d7b9fc)
 * Cache `get_default_mode_input_context()`. (#85281)
-
-Cataclysm-DDA experimental build 2026-02-13-1604 (33d54a2)
 * Add `forest` artifact recharge option (#85267)
 * Project Dodo: Survivor Pants (#85280)
 * Make reptilian muzzle a body part (#85271)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2026-02-13-1604 (33d54a2)
 * Switch `SABER_TEETH` to integrated teeth (#85220)
 * Weekly Changelog 2026-02-02 to 2026-02-09 (#85199)
 * Turn finned tail into a body part (#85226)
-* [Old Lab Removal] Removing old lab specials (#85198)
 * [ Xedra Evolved ] Slight text change to specter profession (#85213)
 * Turn Lupine muzzle into a body part (#85212)
 * HEW system can detect shimmering portals (#85210)
