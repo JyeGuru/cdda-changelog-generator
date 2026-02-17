@@ -1,3 +1,13 @@
+* Fix 100% CPU usage with ncurses ([#85340](https://github.com/CleverRaven/Cataclysm-DDA/pull/85340))
+* Fix solar panel furniture placement on open_air terrain ([#85341](https://github.com/CleverRaven/Cataclysm-DDA/pull/85341))
+* You can make biscuits with buttermilk ([#85359](https://github.com/CleverRaven/Cataclysm-DDA/pull/85359))
+* Stat boost CBMs require power ([#85360](https://github.com/CleverRaven/Cataclysm-DDA/pull/85360))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-17-0554 ([3608de3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-0554))
+
+* Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
 
 ---
 
@@ -193,18 +203,12 @@
 
 * Make reptilian muzzle a body part ([#85271](https://github.com/CleverRaven/Cataclysm-DDA/pull/85271))
 * Fix sundial crash when sleeping (#85195 regression) ([#85275](https://github.com/CleverRaven/Cataclysm-DDA/pull/85275))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-13-0411 ([11c491c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-0411))
-
 * Make curing dermatikk infestation not kill you ([#85277](https://github.com/CleverRaven/Cataclysm-DDA/pull/85277))
 * Require FANGS for lupine and ursine muzzles  ([#85261](https://github.com/CleverRaven/Cataclysm-DDA/pull/85261))
 * Fix perishable foods getting sorted into the same zone as nonperishables ([#85234](https://github.com/CleverRaven/Cataclysm-DDA/pull/85234))
 * [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
 * Turn Rodent Tail into a body part ([#85257](https://github.com/CleverRaven/Cataclysm-DDA/pull/85257))
-* Improve the sundial to show illumination, weather, and moon phase ([#85195](https://github.com/CleverRaven/Cataclysm-DDA/pull/85195))
 * hooves can be worn with XL shoes ([#85202](https://github.com/CleverRaven/Cataclysm-DDA/pull/85202))
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
 * Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
@@ -230,11 +234,8 @@
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
 * Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
 * HEW system can detect shimmering portals ([#85210](https://github.com/CleverRaven/Cataclysm-DDA/pull/85210))
-* track the used components ([#85194](https://github.com/CleverRaven/Cataclysm-DDA/pull/85194))
 * Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
 * Fix #85156: Replace rifle case for Deep Cold Marksman ([#85197](https://github.com/CleverRaven/Cataclysm-DDA/pull/85197))
 * Turn bear muzzle into a body part ([#85207](https://github.com/CleverRaven/Cataclysm-DDA/pull/85207))
 * Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
-* Obsolete ACT_FERTILIZE_PLOT, replace with fertilize_plant_activity_actor ([#85193](https://github.com/CleverRaven/Cataclysm-DDA/pull/85193))
-* [Xedra Evolved] Give Undine inherent liquid-containing qualities ([#85192](https://github.com/CleverRaven/Cataclysm-DDA/pull/85192))
 * Rewrite all tests to clear map without touching character map memory, for performance. ([#85201](https://github.com/CleverRaven/Cataclysm-DDA/pull/85201))
