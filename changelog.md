@@ -163,7 +163,6 @@
 * Increase dust mask encumbrance, add XL dust mask ([#85293](https://github.com/CleverRaven/Cataclysm-DDA/pull/85293))
 * Change default test sort order to lexicographical ([#85272](https://github.com/CleverRaven/Cataclysm-DDA/pull/85272))
 * Bird legs give you bird talons (foot replacements) ([#85260](https://github.com/CleverRaven/Cataclysm-DDA/pull/85260))
-* Clothing damage from unarmed attacks considers sturdiness ([#85209](https://github.com/CleverRaven/Cataclysm-DDA/pull/85209))
 * Closetland keeps track of departed dimension + sky island ([#85248](https://github.com/CleverRaven/Cataclysm-DDA/pull/85248))
 
 ---
