@@ -238,4 +238,3 @@
 * HEW system can detect shimmering portals ([#85210](https://github.com/CleverRaven/Cataclysm-DDA/pull/85210))
 * Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
 * Turn bear muzzle into a body part ([#85207](https://github.com/CleverRaven/Cataclysm-DDA/pull/85207))
-* Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
