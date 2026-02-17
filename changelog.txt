@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-17-1627 (6622a89)
 * [alt-map-key] Add new overmap terrain (#85365)
 * Bump linux release compiler to clang-18 and optimization flag to -O2 (#85367)
 
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2026-02-14-0435 (d8c789a)
 
 Cataclysm-DDA experimental build 2026-02-14-0343 (d1bc400)
 * Rodent muzzle is now a body part (#85289)
-
-Cataclysm-DDA experimental build 2026-02-13-1823 (45ab46f)
 * Revert "Chipped away at zone sorting issues" #84974 (#85282)
 * Cache `get_default_mode_input_context()`. (#85281)
 * Add `forest` artifact recharge option (#85267)

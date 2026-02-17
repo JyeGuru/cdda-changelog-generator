@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-17-1627 ([6622a89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1627))
+
 * [alt-map-key] Add new overmap terrain ([#85365](https://github.com/CleverRaven/Cataclysm-DDA/pull/85365))
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
 
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2026-02-14-0343 ([d1bc400](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-0343))
 
 * Rodent muzzle is now a body part ([#85289](https://github.com/CleverRaven/Cataclysm-DDA/pull/85289))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-13-1823 ([45ab46f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-1823))
-
 * Revert "Chipped away at zone sorting issues" #84974 ([#85282](https://github.com/CleverRaven/Cataclysm-DDA/pull/85282))
 * Cache `get_default_mode_input_context()`. ([#85281](https://github.com/CleverRaven/Cataclysm-DDA/pull/85281))
 * Add `forest` artifact recharge option ([#85267](https://github.com/CleverRaven/Cataclysm-DDA/pull/85267))
