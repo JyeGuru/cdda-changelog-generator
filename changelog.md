@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-17-2332 ([066f411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-2332))
+
+* zone sort: robustness fixes for unreachable destinations ([#85318](https://github.com/CleverRaven/Cataclysm-DDA/pull/85318))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-17-1845 ([75d9a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1845))
 
 * Fix minor typo in Pat's dialogue ([#85376](https://github.com/CleverRaven/Cataclysm-DDA/pull/85376))
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2026-02-14-0645 ([f41923e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-0645))
 
 * Cache world compression state ([#85262](https://github.com/CleverRaven/Cataclysm-DDA/pull/85262))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-14-0435 ([d8c789a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-0435))
-
 * CVD removal ([#85285](https://github.com/CleverRaven/Cataclysm-DDA/pull/85285))
 * Pin GitHub Actions to SHAs and apply security hardening ([#85296](https://github.com/CleverRaven/Cataclysm-DDA/pull/85296))
 * Slit Nostrils cause a breathing limb score penalty, not a mouth encumbrance penalty ([#85290](https://github.com/CleverRaven/Cataclysm-DDA/pull/85290))
@@ -237,4 +238,3 @@
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
 * Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
 * HEW system can detect shimmering portals ([#85210](https://github.com/CleverRaven/Cataclysm-DDA/pull/85210))
-* Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
