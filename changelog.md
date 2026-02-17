@@ -1,3 +1,11 @@
+* [alt-map-key] Add new overmap terrain ([#85365](https://github.com/CleverRaven/Cataclysm-DDA/pull/85365))
+* Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-17-1543 ([5616e98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1543))
+
+* [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 
 ---
 
@@ -195,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2026-02-13-1823 ([45ab46f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-1823))
 
 * Revert "Chipped away at zone sorting issues" #84974 ([#85282](https://github.com/CleverRaven/Cataclysm-DDA/pull/85282))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-13-1722 ([7d7b9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-13-1722))
-
 * Cache `get_default_mode_input_context()`. ([#85281](https://github.com/CleverRaven/Cataclysm-DDA/pull/85281))
 * Add `forest` artifact recharge option ([#85267](https://github.com/CleverRaven/Cataclysm-DDA/pull/85267))
 * Project Dodo: Survivor Pants ([#85280](https://github.com/CleverRaven/Cataclysm-DDA/pull/85280))
@@ -211,7 +214,6 @@
 * [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
 * Turn Rodent Tail into a body part ([#85257](https://github.com/CleverRaven/Cataclysm-DDA/pull/85257))
-* hooves can be worn with XL shoes ([#85202](https://github.com/CleverRaven/Cataclysm-DDA/pull/85202))
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
 * Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
 * Add simple wooden rack and construction recipe ([#85239](https://github.com/CleverRaven/Cataclysm-DDA/pull/85239))
@@ -230,7 +232,6 @@
 * Fix typos ([#85225](https://github.com/CleverRaven/Cataclysm-DDA/pull/85225))
 * Project Dodo: Survivor Duster and Survivor Trenchcoat ([#85223](https://github.com/CleverRaven/Cataclysm-DDA/pull/85223))
 * Switch `SABER_TEETH` to integrated teeth ([#85220](https://github.com/CleverRaven/Cataclysm-DDA/pull/85220))
-* Weekly Changelog 2026-02-02 to 2026-02-09 ([#85199](https://github.com/CleverRaven/Cataclysm-DDA/pull/85199))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
 * Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
@@ -238,4 +239,3 @@
 * Turn raptor tail into a body part ([#85208](https://github.com/CleverRaven/Cataclysm-DDA/pull/85208))
 * Turn bear muzzle into a body part ([#85207](https://github.com/CleverRaven/Cataclysm-DDA/pull/85207))
 * Bring back gastropod foot ([#85204](https://github.com/CleverRaven/Cataclysm-DDA/pull/85204))
-* Rewrite all tests to clear map without touching character map memory, for performance. ([#85201](https://github.com/CleverRaven/Cataclysm-DDA/pull/85201))
