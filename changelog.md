@@ -1,3 +1,10 @@
+* Add gate jobs for IWYU and clang-tidy required checks ([#85362](https://github.com/CleverRaven/Cataclysm-DDA/pull/85362))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-18-1420 ([1d969bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-1420))
+
+* Fix smoker and kiln starting ([#85388](https://github.com/CleverRaven/Cataclysm-DDA/pull/85388))
 
 ---
 
@@ -183,11 +190,6 @@
 * Change default test sort order to lexicographical ([#85272](https://github.com/CleverRaven/Cataclysm-DDA/pull/85272))
 * Bird legs give you bird talons (foot replacements) ([#85260](https://github.com/CleverRaven/Cataclysm-DDA/pull/85260))
 * Closetland keeps track of departed dimension + sky island ([#85248](https://github.com/CleverRaven/Cataclysm-DDA/pull/85248))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-14-1839 ([748adc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1839))
-
 * Move jumping mutations to `"stamina": true` ([#85288](https://github.com/CleverRaven/Cataclysm-DDA/pull/85288))
 * Consistent multi-activity zone names/descriptions ([#85253](https://github.com/CleverRaven/Cataclysm-DDA/pull/85253))
 * Move ACT_START_FIRE to activity_actor ([#85254](https://github.com/CleverRaven/Cataclysm-DDA/pull/85254))
@@ -224,11 +226,9 @@
 * Update tests for upcoming old lab removals ([#85246](https://github.com/CleverRaven/Cataclysm-DDA/pull/85246))
 * Add `etransfer_rate` to hub 01 visual augmentation headgear ([#85242](https://github.com/CleverRaven/Cataclysm-DDA/pull/85242))
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
-* Add the Smashing for Wimps perk. ([#85215](https://github.com/CleverRaven/Cataclysm-DDA/pull/85215))
 * Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))
 * [Bombastic Perks] Fix perk requirement message ([#85222](https://github.com/CleverRaven/Cataclysm-DDA/pull/85222))
 * [Bombastic Perks] Remove double dipping for each level towards playstyle perks ([#85224](https://github.com/CleverRaven/Cataclysm-DDA/pull/85224))
 * Fix typos ([#85225](https://github.com/CleverRaven/Cataclysm-DDA/pull/85225))
 * Project Dodo: Survivor Duster and Survivor Trenchcoat ([#85223](https://github.com/CleverRaven/Cataclysm-DDA/pull/85223))
-* Switch `SABER_TEETH` to integrated teeth ([#85220](https://github.com/CleverRaven/Cataclysm-DDA/pull/85220))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
