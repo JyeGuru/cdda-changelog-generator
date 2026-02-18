@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-18-0858 (a436544)
+* Trog Purifiability (#85238)
+
 Cataclysm-DDA experimental build 2026-02-18-0643 (f9852ea)
 * Move ACT_FIND_MOUNT to activity_actor (#85322)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2026-02-14-1942 (07e54d6)
 
 Cataclysm-DDA experimental build 2026-02-14-1839 (748adc0)
 * Move jumping mutations to `"stamina": true` (#85288)
-
-Cataclysm-DDA experimental build 2026-02-14-1707 (98a7bdf)
 * Consistent multi-activity zone names/descriptions (#85253)
 * Move ACT_START_FIRE to activity_actor (#85254)
 * Increase simple rack capacity (#85256)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-02-14-1707 (98a7bdf)
 * Project Dodo: Survivor Duster and Survivor Trenchcoat (#85223)
 * Switch `SABER_TEETH` to integrated teeth (#85220)
 * Turn finned tail into a body part (#85226)
-* [ Xedra Evolved ] Slight text change to specter profession (#85213)

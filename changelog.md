@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-18-0858 ([a436544](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-0858))
+
+* Trog Purifiability ([#85238](https://github.com/CleverRaven/Cataclysm-DDA/pull/85238))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-18-0643 ([f9852ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-0643))
 
 * Move ACT_FIND_MOUNT to activity_actor ([#85322](https://github.com/CleverRaven/Cataclysm-DDA/pull/85322))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-02-14-1839 ([748adc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1839))
 
 * Move jumping mutations to `"stamina": true` ([#85288](https://github.com/CleverRaven/Cataclysm-DDA/pull/85288))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-14-1707 ([98a7bdf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1707))
-
 * Consistent multi-activity zone names/descriptions ([#85253](https://github.com/CleverRaven/Cataclysm-DDA/pull/85253))
 * Move ACT_START_FIRE to activity_actor ([#85254](https://github.com/CleverRaven/Cataclysm-DDA/pull/85254))
 * Increase simple rack capacity ([#85256](https://github.com/CleverRaven/Cataclysm-DDA/pull/85256))
@@ -231,4 +232,3 @@
 * Project Dodo: Survivor Duster and Survivor Trenchcoat ([#85223](https://github.com/CleverRaven/Cataclysm-DDA/pull/85223))
 * Switch `SABER_TEETH` to integrated teeth ([#85220](https://github.com/CleverRaven/Cataclysm-DDA/pull/85220))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
-* [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
