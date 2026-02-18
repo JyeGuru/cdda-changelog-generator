@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-18-2143 ([084116f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-2143))
+
+* [Sky Island] Hide in raid missions ([#85390](https://github.com/CleverRaven/Cataclysm-DDA/pull/85390))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-18-1540 ([b21378e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-1540))
 
 * Weekly Changelog 2026-02-09 to 2026-02-16 ([#85345](https://github.com/CleverRaven/Cataclysm-DDA/pull/85345))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-02-15-0259 ([00dc9aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0259))
 
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-15-0142 ([e50b01e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0142))
-
 * Move alien meadow harvests to vanilla ([#85274](https://github.com/CleverRaven/Cataclysm-DDA/pull/85274))
 * Multi-activity overhaul part 8: simplify multi-activity backlogging ([#85292](https://github.com/CleverRaven/Cataclysm-DDA/pull/85292))
 * Revert "Cache `get_default_mode_input_context()`." ([#85310](https://github.com/CleverRaven/Cataclysm-DDA/pull/85310))
@@ -229,5 +230,4 @@
 * Add `etransfer_rate` to hub 01 visual augmentation headgear ([#85242](https://github.com/CleverRaven/Cataclysm-DDA/pull/85242))
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
 * Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))
-* Fix typos ([#85225](https://github.com/CleverRaven/Cataclysm-DDA/pull/85225))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
