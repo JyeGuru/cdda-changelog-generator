@@ -1,3 +1,4 @@
+* Fix infinite crystalizing sugar/pulp recycling exploit ([#85379](https://github.com/CleverRaven/Cataclysm-DDA/pull/85379))
 
 ---
 
@@ -230,4 +231,3 @@
 * Add `etransfer_rate` to hub 01 visual augmentation headgear ([#85242](https://github.com/CleverRaven/Cataclysm-DDA/pull/85242))
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
 * Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))
-* Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))

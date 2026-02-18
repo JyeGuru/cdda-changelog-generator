@@ -1,3 +1,4 @@
+* Fix infinite crystalizing sugar/pulp recycling exploit (#85379)
 
 Cataclysm-DDA experimental build 2026-02-18-2143 (084116f)
 * [Sky Island] Hide in raid missions (#85390)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2026-02-15-0259 (00dc9aa)
 * Add `etransfer_rate` to hub 01 visual augmentation headgear (#85242)
 * Expose dimension names to EOC (#85235)
 * Allow mutations to be powered by Stamina, apply it to Insect Wings (#85231)
-* Turn finned tail into a body part (#85226)
