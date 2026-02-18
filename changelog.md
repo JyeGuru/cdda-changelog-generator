@@ -1,3 +1,10 @@
+* Move ACT_FIND_MOUNT to activity_actor ([#85322](https://github.com/CleverRaven/Cataclysm-DDA/pull/85322))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-18-0542 ([b1cc67e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-0542))
+
+* Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
 
 ---
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-02-14-1605 ([da2ad40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1605))
 
 * Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-14-1520 ([06549c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1520))
-
 * [Xedra Evolved] Add morale types for dreams and nightmares ([#85291](https://github.com/CleverRaven/Cataclysm-DDA/pull/85291))
 * Cache world compression state ([#85262](https://github.com/CleverRaven/Cataclysm-DDA/pull/85262))
 * CVD removal ([#85285](https://github.com/CleverRaven/Cataclysm-DDA/pull/85285))
@@ -223,7 +225,6 @@
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
 * Add the Smashing for Wimps perk. ([#85215](https://github.com/CleverRaven/Cataclysm-DDA/pull/85215))
 * Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))
-* Fix multi-activity backlog not clearing ([#85211](https://github.com/CleverRaven/Cataclysm-DDA/pull/85211))
 * [Bombastic Perks] Fix perk requirement message ([#85222](https://github.com/CleverRaven/Cataclysm-DDA/pull/85222))
 * [Bombastic Perks] Remove double dipping for each level towards playstyle perks ([#85224](https://github.com/CleverRaven/Cataclysm-DDA/pull/85224))
 * Fix typos ([#85225](https://github.com/CleverRaven/Cataclysm-DDA/pull/85225))
@@ -231,4 +232,3 @@
 * Switch `SABER_TEETH` to integrated teeth ([#85220](https://github.com/CleverRaven/Cataclysm-DDA/pull/85220))
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
-* Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
