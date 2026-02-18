@@ -1,3 +1,9 @@
+
+Cataclysm-DDA experimental build 2026-02-18-1540 (b21378e)
+* Weekly Changelog 2026-02-09 to 2026-02-16 (#85345)
+
+Cataclysm-DDA experimental build 2026-02-18-1524 (be441da)
+* Talk to Pat over radio (#85393)
 * Add gate jobs for IWYU and clang-tidy required checks (#85362)
 
 Cataclysm-DDA experimental build 2026-02-18-1420 (1d969bc)
@@ -91,11 +97,7 @@ Cataclysm-DDA experimental build 2026-02-15-0259 (00dc9aa)
 
 Cataclysm-DDA experimental build 2026-02-15-0142 (e50b01e)
 * Move alien meadow harvests to vanilla (#85274)
-
-Cataclysm-DDA experimental build 2026-02-14-2117 (bd7cb48)
 * Multi-activity overhaul part 8: simplify multi-activity backlogging (#85292)
-
-Cataclysm-DDA experimental build 2026-02-14-1942 (07e54d6)
 * Revert "Cache `get_default_mode_input_context()`." (#85310)
 * Polymorph State Transfer (#85302)
 * Prevent integer overflow in uncraft test (#85308)
@@ -140,8 +142,5 @@ Cataclysm-DDA experimental build 2026-02-14-1942 (07e54d6)
 * Add `etransfer_rate` to hub 01 visual augmentation headgear (#85242)
 * Expose dimension names to EOC (#85235)
 * Allow mutations to be powered by Stamina, apply it to Insect Wings (#85231)
-* [Bombastic Perks] Fix perk requirement message (#85222)
-* [Bombastic Perks] Remove double dipping for each level towards playstyle perks (#85224)
 * Fix typos (#85225)
-* Project Dodo: Survivor Duster and Survivor Trenchcoat (#85223)
 * Turn finned tail into a body part (#85226)
