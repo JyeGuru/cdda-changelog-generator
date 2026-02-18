@@ -1,3 +1,4 @@
+* Clean up unseal_and_spill_test.cpp (#85384)
 
 Cataclysm-DDA experimental build 2026-02-17-2332 (066f411)
 * zone sort: robustness fixes for unreachable destinations (#85318)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-02-14-1520 (06549c5)
 * Turn finned tail into a body part (#85226)
 * [ Xedra Evolved ] Slight text change to specter profession (#85213)
 * Turn Lupine muzzle into a body part (#85212)
-* HEW system can detect shimmering portals (#85210)

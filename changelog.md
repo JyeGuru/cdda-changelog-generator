@@ -1,3 +1,4 @@
+* Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
 
 ---
 
@@ -231,4 +232,3 @@
 * Turn finned tail into a body part ([#85226](https://github.com/CleverRaven/Cataclysm-DDA/pull/85226))
 * [ Xedra Evolved ] Slight text change to specter profession ([#85213](https://github.com/CleverRaven/Cataclysm-DDA/pull/85213))
 * Turn Lupine muzzle into a body part ([#85212](https://github.com/CleverRaven/Cataclysm-DDA/pull/85212))
-* HEW system can detect shimmering portals ([#85210](https://github.com/CleverRaven/Cataclysm-DDA/pull/85210))
