@@ -193,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-02-14-1520 ([06549c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1520))
 
 * [Xedra Evolved] Add morale types for dreams and nightmares ([#85291](https://github.com/CleverRaven/Cataclysm-DDA/pull/85291))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-14-0645 ([f41923e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-0645))
-
 * Cache world compression state ([#85262](https://github.com/CleverRaven/Cataclysm-DDA/pull/85262))
 * CVD removal ([#85285](https://github.com/CleverRaven/Cataclysm-DDA/pull/85285))
 * Pin GitHub Actions to SHAs and apply security hardening ([#85296](https://github.com/CleverRaven/Cataclysm-DDA/pull/85296))
