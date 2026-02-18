@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-18-0643 (f9852ea)
 * Move ACT_FIND_MOUNT to activity_actor (#85322)
 
 Cataclysm-DDA experimental build 2026-02-18-0542 (b1cc67e)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2026-02-14-1707 (98a7bdf)
 * [Old Lab Removal] Some cleanup from lab removal (#85286)
 * Make "Turn off the engine" option  pink, for consistency (#85301)
 * Fix test labeler failures, cache IWYU and clang-tidy builds (#85297)
-
-Cataclysm-DDA experimental build 2026-02-14-1605 (da2ad40)
 * Fix: Item rot calculation (#85306)
 * [Xedra Evolved] Add morale types for dreams and nightmares (#85291)
 * Cache world compression state (#85262)

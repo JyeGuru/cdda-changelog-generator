@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-18-0643 ([f9852ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-0643))
+
 * Move ACT_FIND_MOUNT to activity_actor ([#85322](https://github.com/CleverRaven/Cataclysm-DDA/pull/85322))
 
 ---
@@ -189,11 +194,6 @@
 * [Old Lab Removal] Some cleanup from lab removal ([#85286](https://github.com/CleverRaven/Cataclysm-DDA/pull/85286))
 * Make "Turn off the engine" option  pink, for consistency ([#85301](https://github.com/CleverRaven/Cataclysm-DDA/pull/85301))
 * Fix test labeler failures, cache IWYU and clang-tidy builds ([#85297](https://github.com/CleverRaven/Cataclysm-DDA/pull/85297))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-14-1605 ([da2ad40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-14-1605))
-
 * Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
 * [Xedra Evolved] Add morale types for dreams and nightmares ([#85291](https://github.com/CleverRaven/Cataclysm-DDA/pull/85291))
 * Cache world compression state ([#85262](https://github.com/CleverRaven/Cataclysm-DDA/pull/85262))
