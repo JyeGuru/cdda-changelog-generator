@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-18-2253 (0953846)
 * Fix infinite crystalizing sugar/pulp recycling exploit (#85379)
 
 Cataclysm-DDA experimental build 2026-02-18-2143 (084116f)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2026-02-15-1616 (acdd03e)
 
 Cataclysm-DDA experimental build 2026-02-15-0927 (f407ea7)
 * fix being sent to the shadow realm by misfired void spider eoc (#85326)
-
-Cataclysm-DDA experimental build 2026-02-15-0259 (00dc9aa)
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference (#85321)
 * Move alien meadow harvests to vanilla (#85274)
 * Multi-activity overhaul part 8: simplify multi-activity backlogging (#85292)

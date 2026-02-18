@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-18-2253 ([0953846](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-2253))
+
 * Fix infinite crystalizing sugar/pulp recycling exploit ([#85379](https://github.com/CleverRaven/Cataclysm-DDA/pull/85379))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-02-15-0927 ([f407ea7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0927))
 
 * fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-15-0259 ([00dc9aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0259))
-
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
 * Move alien meadow harvests to vanilla ([#85274](https://github.com/CleverRaven/Cataclysm-DDA/pull/85274))
 * Multi-activity overhaul part 8: simplify multi-activity backlogging ([#85292](https://github.com/CleverRaven/Cataclysm-DDA/pull/85292))
