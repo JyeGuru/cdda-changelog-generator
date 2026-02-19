@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-19-0537 (9d7eddf)
+* zone sort: optimize routing for grabbed vehicle sorting (#85319)
+
 Cataclysm-DDA experimental build 2026-02-18-2253 (0953846)
 * Fix infinite crystalizing sugar/pulp recycling exploit (#85379)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-02-15-2157 (5acdc30)
 
 Cataclysm-DDA experimental build 2026-02-15-1616 (acdd03e)
 * Add hooves as body parts, prevent headbutts except when desperate (#85324)
-
-Cataclysm-DDA experimental build 2026-02-15-0927 (f407ea7)
 * fix being sent to the shadow realm by misfired void spider eoc (#85326)
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference (#85321)
 * Move alien meadow harvests to vanilla (#85274)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2026-02-15-0927 (f407ea7)
 * Multi-activity overhaul part 7: cleanup dead legacy code (#85237)
 * Even more input popup migration (#85250)
 * Add simple wooden rack and construction recipe (#85239)
-* Remove free attack from SHARKTEETH, turn into an integrated item (#85228)
 * fix copy-paste error in string dimension z-stack special ID (#85249)
 * Fix error in Hub 01 prototype menu dialogue (#85244)
 * Fix pat earpiece/helmet rigidity conflict (#85243)

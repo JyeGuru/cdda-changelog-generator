@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-19-0537 ([9d7eddf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-19-0537))
+
+* zone sort: optimize routing for grabbed vehicle sorting ([#85319](https://github.com/CleverRaven/Cataclysm-DDA/pull/85319))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-18-2253 ([0953846](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-2253))
 
 * Fix infinite crystalizing sugar/pulp recycling exploit ([#85379](https://github.com/CleverRaven/Cataclysm-DDA/pull/85379))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-02-15-1616 ([acdd03e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-1616))
 
 * Add hooves as body parts, prevent headbutts except when desperate ([#85324](https://github.com/CleverRaven/Cataclysm-DDA/pull/85324))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-15-0927 ([f407ea7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-0927))
-
 * fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
 * Move alien meadow harvests to vanilla ([#85274](https://github.com/CleverRaven/Cataclysm-DDA/pull/85274))
@@ -223,7 +224,6 @@
 * Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
 * Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
 * Add simple wooden rack and construction recipe ([#85239](https://github.com/CleverRaven/Cataclysm-DDA/pull/85239))
-* Remove free attack from SHARKTEETH, turn into an integrated item ([#85228](https://github.com/CleverRaven/Cataclysm-DDA/pull/85228))
 * fix copy-paste error in string dimension z-stack special ID ([#85249](https://github.com/CleverRaven/Cataclysm-DDA/pull/85249))
 * Fix error in Hub 01 prototype menu dialogue ([#85244](https://github.com/CleverRaven/Cataclysm-DDA/pull/85244))
 * Fix pat earpiece/helmet rigidity conflict ([#85243](https://github.com/CleverRaven/Cataclysm-DDA/pull/85243))
