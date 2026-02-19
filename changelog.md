@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-19-0633 ([97ae9e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-19-0633))
+
+* Fix cbm light power draw ([#85398](https://github.com/CleverRaven/Cataclysm-DDA/pull/85398))
+* Solar panel quest for Smokes will accept advanced arrays too ([#85395](https://github.com/CleverRaven/Cataclysm-DDA/pull/85395))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-19-0537 ([9d7eddf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-19-0537))
 
 * zone sort: optimize routing for grabbed vehicle sorting ([#85319](https://github.com/CleverRaven/Cataclysm-DDA/pull/85319))
@@ -178,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-02-15-2157 ([5acdc30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-2157))
 
 * fix auto-move abort on grabbed vehicle collision ([#85315](https://github.com/CleverRaven/Cataclysm-DDA/pull/85315))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-15-1616 ([acdd03e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-1616))
-
 * Add hooves as body parts, prevent headbutts except when desperate ([#85324](https://github.com/CleverRaven/Cataclysm-DDA/pull/85324))
 * fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
@@ -230,4 +232,3 @@
 * Update tests for upcoming old lab removals ([#85246](https://github.com/CleverRaven/Cataclysm-DDA/pull/85246))
 * Add `etransfer_rate` to hub 01 visual augmentation headgear ([#85242](https://github.com/CleverRaven/Cataclysm-DDA/pull/85242))
 * Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
-* Allow mutations to be powered by Stamina, apply it to Insect Wings ([#85231](https://github.com/CleverRaven/Cataclysm-DDA/pull/85231))

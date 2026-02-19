@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2026-02-19-0633 (97ae9e6)
+* Fix cbm light power draw (#85398)
+* Solar panel quest for Smokes will accept advanced arrays too (#85395)
+
 Cataclysm-DDA experimental build 2026-02-19-0537 (9d7eddf)
 * zone sort: optimize routing for grabbed vehicle sorting (#85319)
 
@@ -94,8 +98,6 @@ Cataclysm-DDA experimental build 2026-02-16-0215 (4988eb4)
 
 Cataclysm-DDA experimental build 2026-02-15-2157 (5acdc30)
 * fix auto-move abort on grabbed vehicle collision (#85315)
-
-Cataclysm-DDA experimental build 2026-02-15-1616 (acdd03e)
 * Add hooves as body parts, prevent headbutts except when desperate (#85324)
 * fix being sent to the shadow realm by misfired void spider eoc (#85326)
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference (#85321)
@@ -143,4 +145,3 @@ Cataclysm-DDA experimental build 2026-02-15-1616 (acdd03e)
 * Update tests for upcoming old lab removals (#85246)
 * Add `etransfer_rate` to hub 01 visual augmentation headgear (#85242)
 * Expose dimension names to EOC (#85235)
-* Allow mutations to be powered by Stamina, apply it to Insect Wings (#85231)
