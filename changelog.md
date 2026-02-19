@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-19-1750 ([4b9e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-19-1750))
+
+* Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-19-0633 ([97ae9e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-19-0633))
 
 * Fix cbm light power draw ([#85398](https://github.com/CleverRaven/Cataclysm-DDA/pull/85398))
@@ -179,11 +185,6 @@
 
 * [MoM] _pāncahcallō_ protects you from _Tlapetlaniliztli_ backblast ([#85332](https://github.com/CleverRaven/Cataclysm-DDA/pull/85332))
 * Raise minimum sample count in x_in_y_distribution test ([#85339](https://github.com/CleverRaven/Cataclysm-DDA/pull/85339))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-15-2157 ([5acdc30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-15-2157))
-
 * fix auto-move abort on grabbed vehicle collision ([#85315](https://github.com/CleverRaven/Cataclysm-DDA/pull/85315))
 * Add hooves as body parts, prevent headbutts except when desperate ([#85324](https://github.com/CleverRaven/Cataclysm-DDA/pull/85324))
 * fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
@@ -219,7 +220,6 @@
 * Fix sundial crash when sleeping (#85195 regression) ([#85275](https://github.com/CleverRaven/Cataclysm-DDA/pull/85275))
 * Make curing dermatikk infestation not kill you ([#85277](https://github.com/CleverRaven/Cataclysm-DDA/pull/85277))
 * Require FANGS for lupine and ursine muzzles  ([#85261](https://github.com/CleverRaven/Cataclysm-DDA/pull/85261))
-* Fix perishable foods getting sorted into the same zone as nonperishables ([#85234](https://github.com/CleverRaven/Cataclysm-DDA/pull/85234))
 * [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
 * Turn Rodent Tail into a body part ([#85257](https://github.com/CleverRaven/Cataclysm-DDA/pull/85257))
