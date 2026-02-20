@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-20-1624 ([6d5dbd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-1624))
+
 * Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
 * Update description for spellbook_hedge_book_of_raziel ([#85428](https://github.com/CleverRaven/Cataclysm-DDA/pull/85428))
 
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-02-16-1953 ([964c19a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1953))
 
 * Hub 01 chop shop, a special/missions pitting the Hub vs Exodii ([#85309](https://github.com/CleverRaven/Cataclysm-DDA/pull/85309))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-16-1813 ([c8be511](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1813))
-
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
 * [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
