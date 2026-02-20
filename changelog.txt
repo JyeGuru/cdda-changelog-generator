@@ -1,3 +1,8 @@
+* Fix string format specifier in inventory header (#85433)
+* Update description for spellbook_hedge_book_of_raziel (#85428)
+
+Cataclysm-DDA experimental build 2026-02-20-1532 (488bd6d)
+* Rubik only offers CBM rewards if you have a CBM interface (#85432)
 
 Cataclysm-DDA experimental build 2026-02-20-0645 (5e009fc)
 * Add dimension travel to the event bus for EOCs to use (#85414)
@@ -99,8 +104,6 @@ Cataclysm-DDA experimental build 2026-02-16-1953 (964c19a)
 
 Cataclysm-DDA experimental build 2026-02-16-1813 (c8be511)
 * Overmap Specials can use copy-from (#85348)
-
-Cataclysm-DDA experimental build 2026-02-16-1731 (6152819)
 * Expose character gender to math/eoc (#85351)
 * [Bugfix] Game start fail when bicycle is set as start vehicle (#85347)
 * zone sort: grab-aware pathfinding for vehicles (#85316)
@@ -120,8 +123,6 @@ Cataclysm-DDA experimental build 2026-02-16-1731 (6152819)
 * Change default test sort order to lexicographical (#85272)
 * Bird legs give you bird talons (foot replacements) (#85260)
 * Move jumping mutations to `"stamina": true` (#85288)
-* Consistent multi-activity zone names/descriptions (#85253)
-* Move ACT_START_FIRE to activity_actor (#85254)
 * Increase simple rack capacity (#85256)
 * [Old Lab Removal] Some cleanup from lab removal (#85286)
 * Make "Turn off the engine" option  pink, for consistency (#85301)

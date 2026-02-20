@@ -1,3 +1,11 @@
+* Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
+* Update description for spellbook_hedge_book_of_raziel ([#85428](https://github.com/CleverRaven/Cataclysm-DDA/pull/85428))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-20-1532 ([488bd6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-1532))
+
+* Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
 
 ---
 
@@ -180,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-02-16-1813 ([c8be511](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1813))
 
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-16-1731 ([6152819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1731))
-
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
 * [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
 * zone sort: grab-aware pathfinding for vehicles ([#85316](https://github.com/CleverRaven/Cataclysm-DDA/pull/85316))
@@ -204,8 +207,6 @@
 * Change default test sort order to lexicographical ([#85272](https://github.com/CleverRaven/Cataclysm-DDA/pull/85272))
 * Bird legs give you bird talons (foot replacements) ([#85260](https://github.com/CleverRaven/Cataclysm-DDA/pull/85260))
 * Move jumping mutations to `"stamina": true` ([#85288](https://github.com/CleverRaven/Cataclysm-DDA/pull/85288))
-* Consistent multi-activity zone names/descriptions ([#85253](https://github.com/CleverRaven/Cataclysm-DDA/pull/85253))
-* Move ACT_START_FIRE to activity_actor ([#85254](https://github.com/CleverRaven/Cataclysm-DDA/pull/85254))
 * Increase simple rack capacity ([#85256](https://github.com/CleverRaven/Cataclysm-DDA/pull/85256))
 * [Old Lab Removal] Some cleanup from lab removal ([#85286](https://github.com/CleverRaven/Cataclysm-DDA/pull/85286))
 * Make "Turn off the engine" option  pink, for consistency ([#85301](https://github.com/CleverRaven/Cataclysm-DDA/pull/85301))
