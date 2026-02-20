@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-20-0222 ([e53029f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0222))
+
+* [MoM] Add blink as portal storm effect ([#85402](https://github.com/CleverRaven/Cataclysm-DDA/pull/85402))
 * Revert lab_subway removal ([#85404](https://github.com/CleverRaven/Cataclysm-DDA/pull/85404))
 * Fix flaky morale ranged kill visibility test ([#85410](https://github.com/CleverRaven/Cataclysm-DDA/pull/85410))
 * Pat comments on Chop Shop missions ([#85412](https://github.com/CleverRaven/Cataclysm-DDA/pull/85412))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-16-1155 ([18f3182](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1155))
 
 * zone sort: grab-aware pathfinding for vehicles ([#85316](https://github.com/CleverRaven/Cataclysm-DDA/pull/85316))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-16-0309 ([6c9cf22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-0309))
-
 * Add `TOUCH_REQUIRED` flag for spells ([#85295](https://github.com/CleverRaven/Cataclysm-DDA/pull/85295))
 * [MoM] _pāncahcallō_ protects you from _Tlapetlaniliztli_ backblast ([#85332](https://github.com/CleverRaven/Cataclysm-DDA/pull/85332))
 * Raise minimum sample count in x_in_y_distribution test ([#85339](https://github.com/CleverRaven/Cataclysm-DDA/pull/85339))
@@ -200,7 +201,6 @@
 * Increase dust mask encumbrance, add XL dust mask ([#85293](https://github.com/CleverRaven/Cataclysm-DDA/pull/85293))
 * Change default test sort order to lexicographical ([#85272](https://github.com/CleverRaven/Cataclysm-DDA/pull/85272))
 * Bird legs give you bird talons (foot replacements) ([#85260](https://github.com/CleverRaven/Cataclysm-DDA/pull/85260))
-* Closetland keeps track of departed dimension + sky island ([#85248](https://github.com/CleverRaven/Cataclysm-DDA/pull/85248))
 * Move jumping mutations to `"stamina": true` ([#85288](https://github.com/CleverRaven/Cataclysm-DDA/pull/85288))
 * Consistent multi-activity zone names/descriptions ([#85253](https://github.com/CleverRaven/Cataclysm-DDA/pull/85253))
 * Move ACT_START_FIRE to activity_actor ([#85254](https://github.com/CleverRaven/Cataclysm-DDA/pull/85254))
