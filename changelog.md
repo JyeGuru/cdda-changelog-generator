@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-20-2116 ([a4eea37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-2116))
+
+* [MoM] Fix Sense Hostility end concentration ([#85442](https://github.com/CleverRaven/Cataclysm-DDA/pull/85442))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-20-1624 ([6d5dbd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-1624))
 
 * Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-02-16-2100 ([0696b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-2100))
 
 * Give bunch of furnitures their mass ([#85344](https://github.com/CleverRaven/Cataclysm-DDA/pull/85344))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-16-1953 ([964c19a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1953))
-
 * Hub 01 chop shop, a special/missions pitting the Hub vs Exodii ([#85309](https://github.com/CleverRaven/Cataclysm-DDA/pull/85309))
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
@@ -226,4 +227,3 @@
 * Make curing dermatikk infestation not kill you ([#85277](https://github.com/CleverRaven/Cataclysm-DDA/pull/85277))
 * Require FANGS for lupine and ursine muzzles  ([#85261](https://github.com/CleverRaven/Cataclysm-DDA/pull/85261))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
-* Turn Rodent Tail into a body part ([#85257](https://github.com/CleverRaven/Cataclysm-DDA/pull/85257))

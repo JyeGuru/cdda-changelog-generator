@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-20-2116 (a4eea37)
+* [MoM] Fix Sense Hostility end concentration (#85442)
+
 Cataclysm-DDA experimental build 2026-02-20-1624 (6d5dbd2)
 * Fix string format specifier in inventory header (#85433)
 * Update description for spellbook_hedge_book_of_raziel (#85428)
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2026-02-16-2209 (c936223)
 
 Cataclysm-DDA experimental build 2026-02-16-2100 (0696b76)
 * Give bunch of furnitures their mass (#85344)
-
-Cataclysm-DDA experimental build 2026-02-16-1953 (964c19a)
 * Hub 01 chop shop, a special/missions pitting the Hub vs Exodii (#85309)
 * Overmap Specials can use copy-from (#85348)
 * Expose character gender to math/eoc (#85351)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2026-02-16-1953 (964c19a)
 * Make curing dermatikk infestation not kill you (#85277)
 * Require FANGS for lupine and ursine muzzles  (#85261)
 * Remove above-and-beyond damage bonus on mutation natural weapon crits (#85269)
-* Turn Rodent Tail into a body part (#85257)
