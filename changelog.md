@@ -1,3 +1,17 @@
+* Revert lab_subway removal ([#85404](https://github.com/CleverRaven/Cataclysm-DDA/pull/85404))
+* Fix flaky morale ranged kill visibility test ([#85410](https://github.com/CleverRaven/Cataclysm-DDA/pull/85410))
+* Pat comments on Chop Shop missions ([#85412](https://github.com/CleverRaven/Cataclysm-DDA/pull/85412))
+* Stop leaking dimension_prefix into new worlds ([#85415](https://github.com/CleverRaven/Cataclysm-DDA/pull/85415))
+* Fur covers tails ([#85416](https://github.com/CleverRaven/Cataclysm-DDA/pull/85416))
+* Just show items in holsters on "holster" iuse ([#85420](https://github.com/CleverRaven/Cataclysm-DDA/pull/85420))
+* Fix another surroundings menu freeze ([#85417](https://github.com/CleverRaven/Cataclysm-DDA/pull/85417))
+* Place player in a couple of tests so they can pass in isolation ([#85405](https://github.com/CleverRaven/Cataclysm-DDA/pull/85405))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-20-0106 ([bf10269](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0106))
+
+* [Bombastic Perks] Move Bloody Mess to a playstyle perk ([#85419](https://github.com/CleverRaven/Cataclysm-DDA/pull/85419))
 
 ---
 
@@ -48,12 +62,6 @@
 #### Cataclysm-DDA experimental build 2026-02-18-1420 ([1d969bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-1420))
 
 * Fix smoker and kiln starting ([#85388](https://github.com/CleverRaven/Cataclysm-DDA/pull/85388))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-18-0858 ([a436544](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-0858))
-
-* Trog Purifiability ([#85238](https://github.com/CleverRaven/Cataclysm-DDA/pull/85238))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-16-0309 ([6c9cf22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-0309))
 
 * Add `TOUCH_REQUIRED` flag for spells ([#85295](https://github.com/CleverRaven/Cataclysm-DDA/pull/85295))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-16-0215 ([4988eb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-0215))
-
 * [MoM] _pāncahcallō_ protects you from _Tlapetlaniliztli_ backblast ([#85332](https://github.com/CleverRaven/Cataclysm-DDA/pull/85332))
 * Raise minimum sample count in x_in_y_distribution test ([#85339](https://github.com/CleverRaven/Cataclysm-DDA/pull/85339))
 * fix auto-move abort on grabbed vehicle collision ([#85315](https://github.com/CleverRaven/Cataclysm-DDA/pull/85315))
@@ -220,15 +223,7 @@
 * Fix sundial crash when sleeping (#85195 regression) ([#85275](https://github.com/CleverRaven/Cataclysm-DDA/pull/85275))
 * Make curing dermatikk infestation not kill you ([#85277](https://github.com/CleverRaven/Cataclysm-DDA/pull/85277))
 * Require FANGS for lupine and ursine muzzles  ([#85261](https://github.com/CleverRaven/Cataclysm-DDA/pull/85261))
-* [Old Lab Removal] Complete Ripouts ([#85240](https://github.com/CleverRaven/Cataclysm-DDA/pull/85240))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
 * Turn Rodent Tail into a body part ([#85257](https://github.com/CleverRaven/Cataclysm-DDA/pull/85257))
-* Multi-activity overhaul part 7: cleanup dead legacy code ([#85237](https://github.com/CleverRaven/Cataclysm-DDA/pull/85237))
 * Even more input popup migration ([#85250](https://github.com/CleverRaven/Cataclysm-DDA/pull/85250))
-* Add simple wooden rack and construction recipe ([#85239](https://github.com/CleverRaven/Cataclysm-DDA/pull/85239))
 * fix copy-paste error in string dimension z-stack special ID ([#85249](https://github.com/CleverRaven/Cataclysm-DDA/pull/85249))
-* Fix error in Hub 01 prototype menu dialogue ([#85244](https://github.com/CleverRaven/Cataclysm-DDA/pull/85244))
-* Fix pat earpiece/helmet rigidity conflict ([#85243](https://github.com/CleverRaven/Cataclysm-DDA/pull/85243))
-* Update tests for upcoming old lab removals ([#85246](https://github.com/CleverRaven/Cataclysm-DDA/pull/85246))
-* Add `etransfer_rate` to hub 01 visual augmentation headgear ([#85242](https://github.com/CleverRaven/Cataclysm-DDA/pull/85242))
-* Expose dimension names to EOC ([#85235](https://github.com/CleverRaven/Cataclysm-DDA/pull/85235))
