@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-20-0645 (5e009fc)
 * Add dimension travel to the event bus for EOCs to use (#85414)
 
 Cataclysm-DDA experimental build 2026-02-20-0536 (aeae8a2)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2026-02-16-1813 (c8be511)
 
 Cataclysm-DDA experimental build 2026-02-16-1731 (6152819)
 * Expose character gender to math/eoc (#85351)
-
-Cataclysm-DDA experimental build 2026-02-16-1638 (f11f7b5)
 * [Bugfix] Game start fail when bicycle is set as start vehicle (#85347)
 * zone sort: grab-aware pathfinding for vehicles (#85316)
 * Add `TOUCH_REQUIRED` flag for spells (#85295)

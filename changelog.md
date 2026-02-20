@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-20-0645 ([5e009fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0645))
+
 * Add dimension travel to the event bus for EOCs to use ([#85414](https://github.com/CleverRaven/Cataclysm-DDA/pull/85414))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-16-1731 ([6152819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1731))
 
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-16-1638 ([f11f7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-1638))
-
 * [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
 * zone sort: grab-aware pathfinding for vehicles ([#85316](https://github.com/CleverRaven/Cataclysm-DDA/pull/85316))
 * Add `TOUCH_REQUIRED` flag for spells ([#85295](https://github.com/CleverRaven/Cataclysm-DDA/pull/85295))
