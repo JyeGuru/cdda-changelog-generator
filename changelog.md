@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-21-2126 ([0e0d778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-2126))
+
+* Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-21-1801 ([86a3d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-1801))
 
 * HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-02-17-1543 ([5616e98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1543))
 
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-17-1054 ([392613f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1054))
-
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
 * Sane-ify road roller stats ([#85283](https://github.com/CleverRaven/Cataclysm-DDA/pull/85283))
 * Fix 100% CPU usage with ncurses ([#85340](https://github.com/CleverRaven/Cataclysm-DDA/pull/85340))
@@ -228,4 +229,3 @@
 * Rodent muzzle is now a body part ([#85289](https://github.com/CleverRaven/Cataclysm-DDA/pull/85289))
 * Revert "Chipped away at zone sorting issues" #84974 ([#85282](https://github.com/CleverRaven/Cataclysm-DDA/pull/85282))
 * Cache `get_default_mode_input_context()`. ([#85281](https://github.com/CleverRaven/Cataclysm-DDA/pull/85281))
-* Project Dodo: Survivor Pants ([#85280](https://github.com/CleverRaven/Cataclysm-DDA/pull/85280))

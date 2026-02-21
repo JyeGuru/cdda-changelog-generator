@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-21-2126 (0e0d778)
+* Fix stacked integrated armor from cached enchantment mutations (#85455)
+
 Cataclysm-DDA experimental build 2026-02-21-1801 (86a3d3d)
 * HEW report can trigger LIXA quest (#85431)
 * Small copyedit (#85450)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-02-17-1627 (6622a89)
 
 Cataclysm-DDA experimental build 2026-02-17-1543 (5616e98)
 * [XEDRA Evolved×Bombasticperk] Gender change potion (#85374)
-
-Cataclysm-DDA experimental build 2026-02-17-1054 (392613f)
 * Update docs for gender in EOCs (#85369)
 * Sane-ify road roller stats (#85283)
 * Fix 100% CPU usage with ncurses (#85340)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-02-17-1054 (392613f)
 * Rodent muzzle is now a body part (#85289)
 * Revert "Chipped away at zone sorting issues" #84974 (#85282)
 * Cache `get_default_mode_input_context()`. (#85281)
-* Project Dodo: Survivor Pants (#85280)
