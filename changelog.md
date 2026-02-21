@@ -1,3 +1,13 @@
+* Fix spells not creating fields ([#85445](https://github.com/CleverRaven/Cataclysm-DDA/pull/85445))
+* Rebalance Cranberry Foster's mission to make it challenging with and without electrical protection, but not tedious ([#85413](https://github.com/CleverRaven/Cataclysm-DDA/pull/85413))
+* Fix incorrect move costs inside vehicles (#84043) ([#85427](https://github.com/CleverRaven/Cataclysm-DDA/pull/85427))
+* [Sky Island × Tropicata] Warped Tropical Trees by @TreeChoppingModder ([#85437](https://github.com/CleverRaven/Cataclysm-DDA/pull/85437))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-21-0058 ([5f5d557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-0058))
+
+* Armor shapeshifted into your form has a special message when trying to take it off ([#85446](https://github.com/CleverRaven/Cataclysm-DDA/pull/85446))
 
 ---
 
@@ -181,11 +191,6 @@
 * Applies mend fix for each fault cleared ([#85353](https://github.com/CleverRaven/Cataclysm-DDA/pull/85353))
 * Make Hub 01 RM13 repair dialogue match actual time it takes to repair it ([#85349](https://github.com/CleverRaven/Cataclysm-DDA/pull/85349))
 * Guard mp3_on tick against null carrier ([#85338](https://github.com/CleverRaven/Cataclysm-DDA/pull/85338))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-16-2100 ([0696b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-16-2100))
-
 * Give bunch of furnitures their mass ([#85344](https://github.com/CleverRaven/Cataclysm-DDA/pull/85344))
 * Hub 01 chop shop, a special/missions pitting the Hub vs Exodii ([#85309](https://github.com/CleverRaven/Cataclysm-DDA/pull/85309))
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
@@ -206,24 +211,20 @@
 * Prevent integer overflow in uncraft test ([#85308](https://github.com/CleverRaven/Cataclysm-DDA/pull/85308))
 * Increase dust mask encumbrance, add XL dust mask ([#85293](https://github.com/CleverRaven/Cataclysm-DDA/pull/85293))
 * Change default test sort order to lexicographical ([#85272](https://github.com/CleverRaven/Cataclysm-DDA/pull/85272))
-* Bird legs give you bird talons (foot replacements) ([#85260](https://github.com/CleverRaven/Cataclysm-DDA/pull/85260))
 * Move jumping mutations to `"stamina": true` ([#85288](https://github.com/CleverRaven/Cataclysm-DDA/pull/85288))
 * [Old Lab Removal] Some cleanup from lab removal ([#85286](https://github.com/CleverRaven/Cataclysm-DDA/pull/85286))
 * Make "Turn off the engine" option  pink, for consistency ([#85301](https://github.com/CleverRaven/Cataclysm-DDA/pull/85301))
 * Fix test labeler failures, cache IWYU and clang-tidy builds ([#85297](https://github.com/CleverRaven/Cataclysm-DDA/pull/85297))
 * Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
 * [Xedra Evolved] Add morale types for dreams and nightmares ([#85291](https://github.com/CleverRaven/Cataclysm-DDA/pull/85291))
-* Cache world compression state ([#85262](https://github.com/CleverRaven/Cataclysm-DDA/pull/85262))
 * CVD removal ([#85285](https://github.com/CleverRaven/Cataclysm-DDA/pull/85285))
 * Pin GitHub Actions to SHAs and apply security hardening ([#85296](https://github.com/CleverRaven/Cataclysm-DDA/pull/85296))
 * Slit Nostrils cause a breathing limb score penalty, not a mouth encumbrance penalty ([#85290](https://github.com/CleverRaven/Cataclysm-DDA/pull/85290))
 * Rodent muzzle is now a body part ([#85289](https://github.com/CleverRaven/Cataclysm-DDA/pull/85289))
 * Revert "Chipped away at zone sorting issues" #84974 ([#85282](https://github.com/CleverRaven/Cataclysm-DDA/pull/85282))
 * Cache `get_default_mode_input_context()`. ([#85281](https://github.com/CleverRaven/Cataclysm-DDA/pull/85281))
-* Add `forest` artifact recharge option ([#85267](https://github.com/CleverRaven/Cataclysm-DDA/pull/85267))
 * Project Dodo: Survivor Pants ([#85280](https://github.com/CleverRaven/Cataclysm-DDA/pull/85280))
 * Make reptilian muzzle a body part ([#85271](https://github.com/CleverRaven/Cataclysm-DDA/pull/85271))
 * Fix sundial crash when sleeping (#85195 regression) ([#85275](https://github.com/CleverRaven/Cataclysm-DDA/pull/85275))
 * Make curing dermatikk infestation not kill you ([#85277](https://github.com/CleverRaven/Cataclysm-DDA/pull/85277))
-* Require FANGS for lupine and ursine muzzles  ([#85261](https://github.com/CleverRaven/Cataclysm-DDA/pull/85261))
 * Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
