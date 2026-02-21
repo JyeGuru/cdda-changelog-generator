@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-21-2311 ([53b742f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-2311))
+
 * zone sort: respect terrain/vehicle zone binding ([#85403](https://github.com/CleverRaven/Cataclysm-DDA/pull/85403))
 
 ---
@@ -180,11 +185,6 @@
 
 * [alt-map-key] Add new overmap terrain ([#85365](https://github.com/CleverRaven/Cataclysm-DDA/pull/85365))
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-17-1543 ([5616e98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1543))
-
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
 * Sane-ify road roller stats ([#85283](https://github.com/CleverRaven/Cataclysm-DDA/pull/85283))
