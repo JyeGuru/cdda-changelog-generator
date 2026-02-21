@@ -1,3 +1,11 @@
+* HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
+* Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-21-1721 ([71307d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-1721))
+
+* Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-17-0741 ([1c65805](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-0741))
 
 * Sane-ify road roller stats ([#85283](https://github.com/CleverRaven/Cataclysm-DDA/pull/85283))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-17-0653 ([4b2047a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-0653))
-
 * Fix 100% CPU usage with ncurses ([#85340](https://github.com/CleverRaven/Cataclysm-DDA/pull/85340))
 * Fix solar panel furniture placement on open_air terrain ([#85341](https://github.com/CleverRaven/Cataclysm-DDA/pull/85341))
 * You can make biscuits with buttermilk ([#85359](https://github.com/CleverRaven/Cataclysm-DDA/pull/85359))
@@ -226,5 +229,3 @@
 * Revert "Chipped away at zone sorting issues" #84974 ([#85282](https://github.com/CleverRaven/Cataclysm-DDA/pull/85282))
 * Cache `get_default_mode_input_context()`. ([#85281](https://github.com/CleverRaven/Cataclysm-DDA/pull/85281))
 * Project Dodo: Survivor Pants ([#85280](https://github.com/CleverRaven/Cataclysm-DDA/pull/85280))
-* Fix sundial crash when sleeping (#85195 regression) ([#85275](https://github.com/CleverRaven/Cataclysm-DDA/pull/85275))
-* Make curing dermatikk infestation not kill you ([#85277](https://github.com/CleverRaven/Cataclysm-DDA/pull/85277))

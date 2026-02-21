@@ -1,3 +1,8 @@
+* HEW report can trigger LIXA quest (#85431)
+* Small copyedit (#85450)
+
+Cataclysm-DDA experimental build 2026-02-21-1721 (71307d8)
+* Remove riot damage from robofac chop shop (#85451)
 
 Cataclysm-DDA experimental build 2026-02-21-0758 (1fe0288)
 * chore: add keystore.properties to .gitignore (#85317)
@@ -97,8 +102,6 @@ Cataclysm-DDA experimental build 2026-02-17-1054 (392613f)
 
 Cataclysm-DDA experimental build 2026-02-17-0741 (1c65805)
 * Sane-ify road roller stats (#85283)
-
-Cataclysm-DDA experimental build 2026-02-17-0653 (4b2047a)
 * Fix 100% CPU usage with ncurses (#85340)
 * Fix solar panel furniture placement on open_air terrain (#85341)
 * You can make biscuits with buttermilk (#85359)
@@ -142,5 +145,3 @@ Cataclysm-DDA experimental build 2026-02-17-0653 (4b2047a)
 * Revert "Chipped away at zone sorting issues" #84974 (#85282)
 * Cache `get_default_mode_input_context()`. (#85281)
 * Project Dodo: Survivor Pants (#85280)
-* Fix sundial crash when sleeping (#85195 regression) (#85275)
-* Make curing dermatikk infestation not kill you (#85277)
