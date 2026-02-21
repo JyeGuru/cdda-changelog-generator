@@ -1,3 +1,4 @@
+* zone sort: respect terrain/vehicle zone binding ([#85403](https://github.com/CleverRaven/Cataclysm-DDA/pull/85403))
 
 ---
 
@@ -228,4 +229,3 @@
 * Slit Nostrils cause a breathing limb score penalty, not a mouth encumbrance penalty ([#85290](https://github.com/CleverRaven/Cataclysm-DDA/pull/85290))
 * Rodent muzzle is now a body part ([#85289](https://github.com/CleverRaven/Cataclysm-DDA/pull/85289))
 * Revert "Chipped away at zone sorting issues" #84974 ([#85282](https://github.com/CleverRaven/Cataclysm-DDA/pull/85282))
-* Cache `get_default_mode_input_context()`. ([#85281](https://github.com/CleverRaven/Cataclysm-DDA/pull/85281))
