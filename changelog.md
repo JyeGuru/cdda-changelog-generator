@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-21-0758 ([1fe0288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-0758))
+
 * chore: add keystore.properties to .gitignore ([#85317](https://github.com/CleverRaven/Cataclysm-DDA/pull/85317))
 * Fix maybe-uninitialized warning in unseal_and_spill_test ([#85406](https://github.com/CleverRaven/Cataclysm-DDA/pull/85406))
 * SkyIsland Closetland erasure fix ([#85394](https://github.com/CleverRaven/Cataclysm-DDA/pull/85394))
@@ -182,11 +187,6 @@
 * Fix solar panel furniture placement on open_air terrain ([#85341](https://github.com/CleverRaven/Cataclysm-DDA/pull/85341))
 * You can make biscuits with buttermilk ([#85359](https://github.com/CleverRaven/Cataclysm-DDA/pull/85359))
 * Stat boost CBMs require power ([#85360](https://github.com/CleverRaven/Cataclysm-DDA/pull/85360))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-17-0554 ([3608de3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-0554))
-
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
 * Character randomization sometimes produces 'crossdressing' characters ([#85352](https://github.com/CleverRaven/Cataclysm-DDA/pull/85352))
 * Digitigrade paws are now body parts ([#85334](https://github.com/CleverRaven/Cataclysm-DDA/pull/85334))
