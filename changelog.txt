@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-21-0155 (434cedc)
 * Fix spells not creating fields (#85445)
 * Rebalance Cranberry Foster's mission to make it challenging with and without electrical protection, but not tedious (#85413)
 * Fix incorrect move costs inside vehicles (#84043) (#85427)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2026-02-17-0554 (3608de3)
 
 Cataclysm-DDA experimental build 2026-02-17-0240 (50503ae)
 * Character randomization sometimes produces 'crossdressing' characters (#85352)
-
-Cataclysm-DDA experimental build 2026-02-16-2209 (c936223)
 * Digitigrade paws are now body parts (#85334)
 * [Sky Island] Add construction fix for bunker entrance (#85335)
 * Rabbit muzzle is now a body part (#85346)
