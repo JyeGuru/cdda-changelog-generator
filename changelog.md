@@ -1,3 +1,10 @@
+* SkyIsland Closetland erasure fix ([#85394](https://github.com/CleverRaven/Cataclysm-DDA/pull/85394))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-21-0716 ([5f3c4af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-0716))
+
+* [MoM] Fix Silent One health draining ([#85429](https://github.com/CleverRaven/Cataclysm-DDA/pull/85429))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-17-0554 ([3608de3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-0554))
 
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-17-0240 ([50503ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-0240))
-
 * Character randomization sometimes produces 'crossdressing' characters ([#85352](https://github.com/CleverRaven/Cataclysm-DDA/pull/85352))
 * Digitigrade paws are now body parts ([#85334](https://github.com/CleverRaven/Cataclysm-DDA/pull/85334))
 * [Sky Island] Add construction fix for bunker entrance ([#85335](https://github.com/CleverRaven/Cataclysm-DDA/pull/85335))
@@ -227,4 +229,3 @@
 * Make reptilian muzzle a body part ([#85271](https://github.com/CleverRaven/Cataclysm-DDA/pull/85271))
 * Fix sundial crash when sleeping (#85195 regression) ([#85275](https://github.com/CleverRaven/Cataclysm-DDA/pull/85275))
 * Make curing dermatikk infestation not kill you ([#85277](https://github.com/CleverRaven/Cataclysm-DDA/pull/85277))
-* Remove above-and-beyond damage bonus on mutation natural weapon crits ([#85269](https://github.com/CleverRaven/Cataclysm-DDA/pull/85269))
