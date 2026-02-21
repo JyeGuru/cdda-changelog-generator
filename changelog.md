@@ -208,7 +208,6 @@
 * Add hooves as body parts, prevent headbutts except when desperate ([#85324](https://github.com/CleverRaven/Cataclysm-DDA/pull/85324))
 * fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
-* Move alien meadow harvests to vanilla ([#85274](https://github.com/CleverRaven/Cataclysm-DDA/pull/85274))
 * Multi-activity overhaul part 8: simplify multi-activity backlogging ([#85292](https://github.com/CleverRaven/Cataclysm-DDA/pull/85292))
 * Revert "Cache `get_default_mode_input_context()`." ([#85310](https://github.com/CleverRaven/Cataclysm-DDA/pull/85310))
 * Polymorph State Transfer ([#85302](https://github.com/CleverRaven/Cataclysm-DDA/pull/85302))
