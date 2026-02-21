@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-21-1801 (86a3d3d)
 * HEW report can trigger LIXA quest (#85431)
 * Small copyedit (#85450)
 
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2026-02-17-1543 (5616e98)
 
 Cataclysm-DDA experimental build 2026-02-17-1054 (392613f)
 * Update docs for gender in EOCs (#85369)
-
-Cataclysm-DDA experimental build 2026-02-17-0741 (1c65805)
 * Sane-ify road roller stats (#85283)
 * Fix 100% CPU usage with ncurses (#85340)
 * Fix solar panel furniture placement on open_air terrain (#85341)
