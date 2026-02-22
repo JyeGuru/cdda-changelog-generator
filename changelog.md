@@ -1,3 +1,10 @@
+* Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-22-1105 ([50f5490](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-1105))
+
+* Mission from Rubik: download data from the Exodii ruin in the string dimension ([#85434](https://github.com/CleverRaven/Cataclysm-DDA/pull/85434))
 
 ---
 
@@ -181,11 +188,6 @@
 
 * Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-17-2332 ([066f411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-2332))
-
 * zone sort: robustness fixes for unreachable destinations ([#85318](https://github.com/CleverRaven/Cataclysm-DDA/pull/85318))
 * Fix minor typo in Pat's dialogue ([#85376](https://github.com/CleverRaven/Cataclysm-DDA/pull/85376))
 * [alt-map-key] Add new overmap terrain ([#85365](https://github.com/CleverRaven/Cataclysm-DDA/pull/85365))
@@ -225,6 +227,4 @@
 * Make "Turn off the engine" option  pink, for consistency ([#85301](https://github.com/CleverRaven/Cataclysm-DDA/pull/85301))
 * Fix test labeler failures, cache IWYU and clang-tidy builds ([#85297](https://github.com/CleverRaven/Cataclysm-DDA/pull/85297))
 * Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
-* [Xedra Evolved] Add morale types for dreams and nightmares ([#85291](https://github.com/CleverRaven/Cataclysm-DDA/pull/85291))
 * Pin GitHub Actions to SHAs and apply security hardening ([#85296](https://github.com/CleverRaven/Cataclysm-DDA/pull/85296))
-* Slit Nostrils cause a breathing limb score penalty, not a mouth encumbrance penalty ([#85290](https://github.com/CleverRaven/Cataclysm-DDA/pull/85290))

@@ -1,3 +1,7 @@
+* Batch zone sorting pickups from nearby sources (#85468)
+
+Cataclysm-DDA experimental build 2026-02-22-1105 (50f5490)
+* Mission from Rubik: download data from the Exodii ruin in the string dimension (#85434)
 
 Cataclysm-DDA experimental build 2026-02-22-0728 (ab892c8)
 * Megacity. (#85382)
@@ -100,8 +104,6 @@ Cataclysm-DDA experimental build 2026-02-18-0643 (f9852ea)
 Cataclysm-DDA experimental build 2026-02-18-0542 (b1cc67e)
 * Migrate washboard (#85387)
 * Clean up unseal_and_spill_test.cpp (#85384)
-
-Cataclysm-DDA experimental build 2026-02-17-2332 (066f411)
 * zone sort: robustness fixes for unreachable destinations (#85318)
 * Fix minor typo in Pat's dialogue (#85376)
 * [alt-map-key] Add new overmap terrain (#85365)
@@ -141,6 +143,4 @@ Cataclysm-DDA experimental build 2026-02-17-2332 (066f411)
 * Make "Turn off the engine" option  pink, for consistency (#85301)
 * Fix test labeler failures, cache IWYU and clang-tidy builds (#85297)
 * Fix: Item rot calculation (#85306)
-* [Xedra Evolved] Add morale types for dreams and nightmares (#85291)
 * Pin GitHub Actions to SHAs and apply security hardening (#85296)
-* Slit Nostrils cause a breathing limb score penalty, not a mouth encumbrance penalty (#85290)
