@@ -1,3 +1,10 @@
+* [ Xedra Evolved ] Update Readme.md ([#85373](https://github.com/CleverRaven/Cataclysm-DDA/pull/85373))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-22-1322 ([fcf259e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-1322))
+
+* [ Xedra Evolved ] Fix #85361 ([#85401](https://github.com/CleverRaven/Cataclysm-DDA/pull/85401))
 
 ---
 
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-02-18-0643 ([f9852ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-0643))
 
 * Move ACT_FIND_MOUNT to activity_actor ([#85322](https://github.com/CleverRaven/Cataclysm-DDA/pull/85322))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-18-0542 ([b1cc67e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-0542))
-
 * Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
 * zone sort: robustness fixes for unreachable destinations ([#85318](https://github.com/CleverRaven/Cataclysm-DDA/pull/85318))
@@ -224,11 +226,9 @@
 * Add hooves as body parts, prevent headbutts except when desperate ([#85324](https://github.com/CleverRaven/Cataclysm-DDA/pull/85324))
 * fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
-* Multi-activity overhaul part 8: simplify multi-activity backlogging ([#85292](https://github.com/CleverRaven/Cataclysm-DDA/pull/85292))
 * Revert "Cache `get_default_mode_input_context()`." ([#85310](https://github.com/CleverRaven/Cataclysm-DDA/pull/85310))
 * Polymorph State Transfer ([#85302](https://github.com/CleverRaven/Cataclysm-DDA/pull/85302))
 * Prevent integer overflow in uncraft test ([#85308](https://github.com/CleverRaven/Cataclysm-DDA/pull/85308))
-* Increase dust mask encumbrance, add XL dust mask ([#85293](https://github.com/CleverRaven/Cataclysm-DDA/pull/85293))
 * Make "Turn off the engine" option  pink, for consistency ([#85301](https://github.com/CleverRaven/Cataclysm-DDA/pull/85301))
 * Fix test labeler failures, cache IWYU and clang-tidy builds ([#85297](https://github.com/CleverRaven/Cataclysm-DDA/pull/85297))
 * Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
