@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-22-1428 (294511f)
 * [ Xedra Evolved ] Update Readme.md (#85373)
 
 Cataclysm-DDA experimental build 2026-02-22-1322 (fcf259e)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2026-02-18-1524 (be441da)
 
 Cataclysm-DDA experimental build 2026-02-18-1420 (1d969bc)
 * Fix smoker and kiln starting (#85388)
-
-Cataclysm-DDA experimental build 2026-02-18-0643 (f9852ea)
 * Move ACT_FIND_MOUNT to activity_actor (#85322)
 * Migrate washboard (#85387)
 * Clean up unseal_and_spill_test.cpp (#85384)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-22-1428 ([294511f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-1428))
+
 * [ Xedra Evolved ] Update Readme.md ([#85373](https://github.com/CleverRaven/Cataclysm-DDA/pull/85373))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-02-18-1420 ([1d969bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-1420))
 
 * Fix smoker and kiln starting ([#85388](https://github.com/CleverRaven/Cataclysm-DDA/pull/85388))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-18-0643 ([f9852ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-0643))
-
 * Move ACT_FIND_MOUNT to activity_actor ([#85322](https://github.com/CleverRaven/Cataclysm-DDA/pull/85322))
 * Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
