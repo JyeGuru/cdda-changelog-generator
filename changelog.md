@@ -1,3 +1,11 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-22-0728 ([ab892c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-0728))
+
+* Megacity. ([#85382](https://github.com/CleverRaven/Cataclysm-DDA/pull/85382))
+* Update professions.json ([#85452](https://github.com/CleverRaven/Cataclysm-DDA/pull/85452))
+* Added Power Storage and Metabolic Interchange to Razor Boy/Girl ([#85457](https://github.com/CleverRaven/Cataclysm-DDA/pull/85457))
 * Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants ([#85461](https://github.com/CleverRaven/Cataclysm-DDA/pull/85461))
 
 ---
@@ -179,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-02-17-2332 ([066f411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-2332))
 
 * zone sort: robustness fixes for unreachable destinations ([#85318](https://github.com/CleverRaven/Cataclysm-DDA/pull/85318))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-17-1845 ([75d9a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1845))
-
 * Fix minor typo in Pat's dialogue ([#85376](https://github.com/CleverRaven/Cataclysm-DDA/pull/85376))
 * [alt-map-key] Add new overmap terrain ([#85365](https://github.com/CleverRaven/Cataclysm-DDA/pull/85365))
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
@@ -219,12 +222,9 @@
 * Polymorph State Transfer ([#85302](https://github.com/CleverRaven/Cataclysm-DDA/pull/85302))
 * Prevent integer overflow in uncraft test ([#85308](https://github.com/CleverRaven/Cataclysm-DDA/pull/85308))
 * Increase dust mask encumbrance, add XL dust mask ([#85293](https://github.com/CleverRaven/Cataclysm-DDA/pull/85293))
-* Move jumping mutations to `"stamina": true` ([#85288](https://github.com/CleverRaven/Cataclysm-DDA/pull/85288))
-* [Old Lab Removal] Some cleanup from lab removal ([#85286](https://github.com/CleverRaven/Cataclysm-DDA/pull/85286))
 * Make "Turn off the engine" option  pink, for consistency ([#85301](https://github.com/CleverRaven/Cataclysm-DDA/pull/85301))
 * Fix test labeler failures, cache IWYU and clang-tidy builds ([#85297](https://github.com/CleverRaven/Cataclysm-DDA/pull/85297))
 * Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
 * [Xedra Evolved] Add morale types for dreams and nightmares ([#85291](https://github.com/CleverRaven/Cataclysm-DDA/pull/85291))
 * Pin GitHub Actions to SHAs and apply security hardening ([#85296](https://github.com/CleverRaven/Cataclysm-DDA/pull/85296))
 * Slit Nostrils cause a breathing limb score penalty, not a mouth encumbrance penalty ([#85290](https://github.com/CleverRaven/Cataclysm-DDA/pull/85290))
-* Rodent muzzle is now a body part ([#85289](https://github.com/CleverRaven/Cataclysm-DDA/pull/85289))
