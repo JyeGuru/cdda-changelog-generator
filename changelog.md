@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-22-2215 ([6b07a80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-2215))
+
 * Fix fire starting deleting firewood instead of fueling the fire ([#85479](https://github.com/CleverRaven/Cataclysm-DDA/pull/85479))
 * fix typo in terminal dialogue ([#85481](https://github.com/CleverRaven/Cataclysm-DDA/pull/85481))
 
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2026-02-18-1540 ([b21378e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-1540))
 
 * Weekly Changelog 2026-02-09 to 2026-02-16 ([#85345](https://github.com/CleverRaven/Cataclysm-DDA/pull/85345))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-18-1524 ([be441da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-1524))
-
 * Talk to Pat over radio ([#85393](https://github.com/CleverRaven/Cataclysm-DDA/pull/85393))
 * Add gate jobs for IWYU and clang-tidy required checks ([#85362](https://github.com/CleverRaven/Cataclysm-DDA/pull/85362))
 * Fix smoker and kiln starting ([#85388](https://github.com/CleverRaven/Cataclysm-DDA/pull/85388))
