@@ -1,3 +1,4 @@
+* Fix fire starting deleting firewood instead of fueling the fire ([#85479](https://github.com/CleverRaven/Cataclysm-DDA/pull/85479))
 * fix typo in terminal dialogue ([#85481](https://github.com/CleverRaven/Cataclysm-DDA/pull/85481))
 
 ---

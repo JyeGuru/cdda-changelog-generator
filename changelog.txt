@@ -1,3 +1,4 @@
+* Fix fire starting deleting firewood instead of fueling the fire (#85479)
 * fix typo in terminal dialogue (#85481)
 
 Cataclysm-DDA experimental build 2026-02-22-2023 (521f198)
