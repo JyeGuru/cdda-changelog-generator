@@ -1,3 +1,10 @@
+* Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants ([#85461](https://github.com/CleverRaven/Cataclysm-DDA/pull/85461))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-22-0646 ([51f9754](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-0646))
+
+* Fix shapeshifted gear disappearing when you become `incorporeal` ([#85460](https://github.com/CleverRaven/Cataclysm-DDA/pull/85460))
 
 ---
 
@@ -178,16 +185,10 @@
 #### Cataclysm-DDA experimental build 2026-02-17-1845 ([75d9a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1845))
 
 * Fix minor typo in Pat's dialogue ([#85376](https://github.com/CleverRaven/Cataclysm-DDA/pull/85376))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-17-1627 ([6622a89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-17-1627))
-
 * [alt-map-key] Add new overmap terrain ([#85365](https://github.com/CleverRaven/Cataclysm-DDA/pull/85365))
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
-* Sane-ify road roller stats ([#85283](https://github.com/CleverRaven/Cataclysm-DDA/pull/85283))
 * Fix 100% CPU usage with ncurses ([#85340](https://github.com/CleverRaven/Cataclysm-DDA/pull/85340))
 * Fix solar panel furniture placement on open_air terrain ([#85341](https://github.com/CleverRaven/Cataclysm-DDA/pull/85341))
 * You can make biscuits with buttermilk ([#85359](https://github.com/CleverRaven/Cataclysm-DDA/pull/85359))
@@ -224,7 +225,6 @@
 * Fix test labeler failures, cache IWYU and clang-tidy builds ([#85297](https://github.com/CleverRaven/Cataclysm-DDA/pull/85297))
 * Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
 * [Xedra Evolved] Add morale types for dreams and nightmares ([#85291](https://github.com/CleverRaven/Cataclysm-DDA/pull/85291))
-* CVD removal ([#85285](https://github.com/CleverRaven/Cataclysm-DDA/pull/85285))
 * Pin GitHub Actions to SHAs and apply security hardening ([#85296](https://github.com/CleverRaven/Cataclysm-DDA/pull/85296))
 * Slit Nostrils cause a breathing limb score penalty, not a mouth encumbrance penalty ([#85290](https://github.com/CleverRaven/Cataclysm-DDA/pull/85290))
 * Rodent muzzle is now a body part ([#85289](https://github.com/CleverRaven/Cataclysm-DDA/pull/85289))
