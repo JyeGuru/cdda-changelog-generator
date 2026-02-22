@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-22-1153 (2fde3a5)
 * Batch zone sorting pickups from nearby sources (#85468)
 
 Cataclysm-DDA experimental build 2026-02-22-1105 (50f5490)
