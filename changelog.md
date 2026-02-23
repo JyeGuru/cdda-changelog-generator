@@ -1,3 +1,5 @@
+* Add insect arms as separate limbs ([#85370](https://github.com/CleverRaven/Cataclysm-DDA/pull/85370))
+* Hub 01 mission: Circuit Safari ([#85396](https://github.com/CleverRaven/Cataclysm-DDA/pull/85396))
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
 
 ---
@@ -218,8 +220,6 @@
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
-* Fix 100% CPU usage with ncurses ([#85340](https://github.com/CleverRaven/Cataclysm-DDA/pull/85340))
-* Fix solar panel furniture placement on open_air terrain ([#85341](https://github.com/CleverRaven/Cataclysm-DDA/pull/85341))
 * You can make biscuits with buttermilk ([#85359](https://github.com/CleverRaven/Cataclysm-DDA/pull/85359))
 * Stat boost CBMs require power ([#85360](https://github.com/CleverRaven/Cataclysm-DDA/pull/85360))
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
