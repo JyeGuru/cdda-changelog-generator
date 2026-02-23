@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-23-1652 ([fabf2d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1652))
+
+* Fix zone sorting loops and premature termination ([#85504](https://github.com/CleverRaven/Cataclysm-DDA/pull/85504))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-23-1606 ([73e19b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1606))
+
 * Add insect arms as separate limbs ([#85370](https://github.com/CleverRaven/Cataclysm-DDA/pull/85370))
 * Hub 01 mission: Circuit Safari ([#85396](https://github.com/CleverRaven/Cataclysm-DDA/pull/85396))
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
@@ -184,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-02-20-0536 ([aeae8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0536))
 
 * [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-20-0222 ([e53029f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0222))
-
 * [MoM] Add blink as portal storm effect ([#85402](https://github.com/CleverRaven/Cataclysm-DDA/pull/85402))
 * Revert lab_subway removal ([#85404](https://github.com/CleverRaven/Cataclysm-DDA/pull/85404))
 * Fix flaky morale ranged kill visibility test ([#85410](https://github.com/CleverRaven/Cataclysm-DDA/pull/85410))
@@ -198,11 +204,6 @@
 * Just show items in holsters on "holster" iuse ([#85420](https://github.com/CleverRaven/Cataclysm-DDA/pull/85420))
 * Fix another surroundings menu freeze ([#85417](https://github.com/CleverRaven/Cataclysm-DDA/pull/85417))
 * Place player in a couple of tests so they can pass in isolation ([#85405](https://github.com/CleverRaven/Cataclysm-DDA/pull/85405))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-20-0106 ([bf10269](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0106))
-
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk ([#85419](https://github.com/CleverRaven/Cataclysm-DDA/pull/85419))
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
 * Fix cbm light power draw ([#85398](https://github.com/CleverRaven/Cataclysm-DDA/pull/85398))
@@ -227,7 +228,6 @@
 * Rabbit muzzle is now a body part ([#85346](https://github.com/CleverRaven/Cataclysm-DDA/pull/85346))
 * Applies mend fix for each fault cleared ([#85353](https://github.com/CleverRaven/Cataclysm-DDA/pull/85353))
 * Make Hub 01 RM13 repair dialogue match actual time it takes to repair it ([#85349](https://github.com/CleverRaven/Cataclysm-DDA/pull/85349))
-* Give bunch of furnitures their mass ([#85344](https://github.com/CleverRaven/Cataclysm-DDA/pull/85344))
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
 * [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
