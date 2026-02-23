@@ -1,3 +1,11 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-23-0705 ([4e20da7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-0705))
+
+* Implement Exodii Mission 2 Expansion: Intrigue and Betrayal  ([#85375](https://github.com/CleverRaven/Cataclysm-DDA/pull/85375))
+* Implement wound fixes and necessary infrastructure ([#85399](https://github.com/CleverRaven/Cataclysm-DDA/pull/85399))
+* Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
 * Turn Bird Beak into a body part ([#85363](https://github.com/CleverRaven/Cataclysm-DDA/pull/85363))
 * [MoM] Add Onšut §A to Exodii weaponmaster inventory ([#85422](https://github.com/CleverRaven/Cataclysm-DDA/pull/85422))
 * Improve the consistency of the period using in the description sentences in "set_string_var" ([#85483](https://github.com/CleverRaven/Cataclysm-DDA/pull/85483))
@@ -193,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2026-02-19-1750 ([4b9e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-19-1750))
 
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-19-0633 ([97ae9e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-19-0633))
-
 * Fix cbm light power draw ([#85398](https://github.com/CleverRaven/Cataclysm-DDA/pull/85398))
 * Solar panel quest for Smokes will accept advanced arrays too ([#85395](https://github.com/CleverRaven/Cataclysm-DDA/pull/85395))
 * Fix infinite crystalizing sugar/pulp recycling exploit ([#85379](https://github.com/CleverRaven/Cataclysm-DDA/pull/85379))
@@ -219,8 +222,6 @@
 * Stat boost CBMs require power ([#85360](https://github.com/CleverRaven/Cataclysm-DDA/pull/85360))
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
 * Character randomization sometimes produces 'crossdressing' characters ([#85352](https://github.com/CleverRaven/Cataclysm-DDA/pull/85352))
-* Digitigrade paws are now body parts ([#85334](https://github.com/CleverRaven/Cataclysm-DDA/pull/85334))
-* [Sky Island] Add construction fix for bunker entrance ([#85335](https://github.com/CleverRaven/Cataclysm-DDA/pull/85335))
 * Rabbit muzzle is now a body part ([#85346](https://github.com/CleverRaven/Cataclysm-DDA/pull/85346))
 * Applies mend fix for each fault cleared ([#85353](https://github.com/CleverRaven/Cataclysm-DDA/pull/85353))
 * Make Hub 01 RM13 repair dialogue match actual time it takes to repair it ([#85349](https://github.com/CleverRaven/Cataclysm-DDA/pull/85349))
@@ -229,5 +230,4 @@
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
 * [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
-* [MoM] _pāncahcallō_ protects you from _Tlapetlaniliztli_ backblast ([#85332](https://github.com/CleverRaven/Cataclysm-DDA/pull/85332))
 * Raise minimum sample count in x_in_y_distribution test ([#85339](https://github.com/CleverRaven/Cataclysm-DDA/pull/85339))
