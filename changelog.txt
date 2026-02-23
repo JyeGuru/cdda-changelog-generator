@@ -1,3 +1,7 @@
+* Weekly Changelog 2026-02-16 to 2026-02-23 (#85495)
+
+Cataclysm-DDA experimental build 2026-02-23-1522 (e3a61fe)
+* Stop NPCs teaching you unlearnable proficiencies (#85498)
 
 Cataclysm-DDA experimental build 2026-02-23-0705 (4e20da7)
 * Implement Exodii Mission 2 Expansion: Intrigue and Betrayal  (#85375)
@@ -114,8 +118,6 @@ Cataclysm-DDA experimental build 2026-02-20-0222 (e53029f)
 
 Cataclysm-DDA experimental build 2026-02-20-0106 (bf10269)
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk (#85419)
-
-Cataclysm-DDA experimental build 2026-02-19-1750 (4b9e07e)
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix (#85407)
 * Fix cbm light power draw (#85398)
 * Solar panel quest for Smokes will accept advanced arrays too (#85395)
@@ -141,9 +143,7 @@ Cataclysm-DDA experimental build 2026-02-19-1750 (4b9e07e)
 * Rabbit muzzle is now a body part (#85346)
 * Applies mend fix for each fault cleared (#85353)
 * Make Hub 01 RM13 repair dialogue match actual time it takes to repair it (#85349)
-* Guard mp3_on tick against null carrier (#85338)
 * Give bunch of furnitures their mass (#85344)
 * Overmap Specials can use copy-from (#85348)
 * Expose character gender to math/eoc (#85351)
 * [Bugfix] Game start fail when bicycle is set as start vehicle (#85347)
-* Raise minimum sample count in x_in_y_distribution test (#85339)

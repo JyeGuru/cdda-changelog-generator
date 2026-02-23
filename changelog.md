@@ -1,3 +1,10 @@
+* Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-23-1522 ([e3a61fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1522))
+
+* Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
 
 ---
 
@@ -195,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2026-02-20-0106 ([bf10269](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0106))
 
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk ([#85419](https://github.com/CleverRaven/Cataclysm-DDA/pull/85419))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-19-1750 ([4b9e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-19-1750))
-
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
 * Fix cbm light power draw ([#85398](https://github.com/CleverRaven/Cataclysm-DDA/pull/85398))
 * Solar panel quest for Smokes will accept advanced arrays too ([#85395](https://github.com/CleverRaven/Cataclysm-DDA/pull/85395))
@@ -225,9 +227,7 @@
 * Rabbit muzzle is now a body part ([#85346](https://github.com/CleverRaven/Cataclysm-DDA/pull/85346))
 * Applies mend fix for each fault cleared ([#85353](https://github.com/CleverRaven/Cataclysm-DDA/pull/85353))
 * Make Hub 01 RM13 repair dialogue match actual time it takes to repair it ([#85349](https://github.com/CleverRaven/Cataclysm-DDA/pull/85349))
-* Guard mp3_on tick against null carrier ([#85338](https://github.com/CleverRaven/Cataclysm-DDA/pull/85338))
 * Give bunch of furnitures their mass ([#85344](https://github.com/CleverRaven/Cataclysm-DDA/pull/85344))
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
 * [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
-* Raise minimum sample count in x_in_y_distribution test ([#85339](https://github.com/CleverRaven/Cataclysm-DDA/pull/85339))
