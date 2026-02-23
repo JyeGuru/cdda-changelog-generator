@@ -1,3 +1,18 @@
+* Add noop test for helping profile game load and other startup steps without the overhead of the main menu. ([#85463](https://github.com/CleverRaven/Cataclysm-DDA/pull/85463))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-23-0103 ([6a6ef21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-0103))
+
+* [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
+* Unify muzzles subparts into debug muzzle `similar_bodyparts` for easier specifically_covers usage ([#85368](https://github.com/CleverRaven/Cataclysm-DDA/pull/85368))
+* Add "Lone Start" flag to Burning Building scenario ([#85426](https://github.com/CleverRaven/Cataclysm-DDA/pull/85426))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-23-0011 ([8a57e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-0011))
+
+* Fix surroundings menu hanging on languages with non-latin scripts ([#85471](https://github.com/CleverRaven/Cataclysm-DDA/pull/85471))
 
 ---
 
@@ -189,17 +204,7 @@
 #### Cataclysm-DDA experimental build 2026-02-18-2253 ([0953846](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-2253))
 
 * Fix infinite crystalizing sugar/pulp recycling exploit ([#85379](https://github.com/CleverRaven/Cataclysm-DDA/pull/85379))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-18-2143 ([084116f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-2143))
-
 * [Sky Island] Hide in raid missions ([#85390](https://github.com/CleverRaven/Cataclysm-DDA/pull/85390))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-18-1540 ([b21378e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-18-1540))
-
 * Weekly Changelog 2026-02-09 to 2026-02-16 ([#85345](https://github.com/CleverRaven/Cataclysm-DDA/pull/85345))
 * Talk to Pat over radio ([#85393](https://github.com/CleverRaven/Cataclysm-DDA/pull/85393))
 * Add gate jobs for IWYU and clang-tidy required checks ([#85362](https://github.com/CleverRaven/Cataclysm-DDA/pull/85362))
@@ -226,17 +231,12 @@
 * Make Hub 01 RM13 repair dialogue match actual time it takes to repair it ([#85349](https://github.com/CleverRaven/Cataclysm-DDA/pull/85349))
 * Guard mp3_on tick against null carrier ([#85338](https://github.com/CleverRaven/Cataclysm-DDA/pull/85338))
 * Give bunch of furnitures their mass ([#85344](https://github.com/CleverRaven/Cataclysm-DDA/pull/85344))
-* Hub 01 chop shop, a special/missions pitting the Hub vs Exodii ([#85309](https://github.com/CleverRaven/Cataclysm-DDA/pull/85309))
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
 * [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
 * zone sort: grab-aware pathfinding for vehicles ([#85316](https://github.com/CleverRaven/Cataclysm-DDA/pull/85316))
 * [MoM] _pāncahcallō_ protects you from _Tlapetlaniliztli_ backblast ([#85332](https://github.com/CleverRaven/Cataclysm-DDA/pull/85332))
 * Raise minimum sample count in x_in_y_distribution test ([#85339](https://github.com/CleverRaven/Cataclysm-DDA/pull/85339))
-* fix auto-move abort on grabbed vehicle collision ([#85315](https://github.com/CleverRaven/Cataclysm-DDA/pull/85315))
 * Add hooves as body parts, prevent headbutts except when desperate ([#85324](https://github.com/CleverRaven/Cataclysm-DDA/pull/85324))
 * fix being sent to the shadow realm by misfired void spider eoc ([#85326](https://github.com/CleverRaven/Cataclysm-DDA/pull/85326))
 * Remove dangling TAIL_THICK_BASH_CRIT_VS_LARGE technique reference ([#85321](https://github.com/CleverRaven/Cataclysm-DDA/pull/85321))
-* Revert "Cache `get_default_mode_input_context()`." ([#85310](https://github.com/CleverRaven/Cataclysm-DDA/pull/85310))
-* Prevent integer overflow in uncraft test ([#85308](https://github.com/CleverRaven/Cataclysm-DDA/pull/85308))
-* Fix: Item rot calculation ([#85306](https://github.com/CleverRaven/Cataclysm-DDA/pull/85306))
