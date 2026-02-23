@@ -1,3 +1,4 @@
+* fix incorrect string format ([#85507](https://github.com/CleverRaven/Cataclysm-DDA/pull/85507))
 
 ---
 
@@ -210,7 +211,6 @@
 * Solar panel quest for Smokes will accept advanced arrays too ([#85395](https://github.com/CleverRaven/Cataclysm-DDA/pull/85395))
 * Fix infinite crystalizing sugar/pulp recycling exploit ([#85379](https://github.com/CleverRaven/Cataclysm-DDA/pull/85379))
 * [Sky Island] Hide in raid missions ([#85390](https://github.com/CleverRaven/Cataclysm-DDA/pull/85390))
-* Weekly Changelog 2026-02-09 to 2026-02-16 ([#85345](https://github.com/CleverRaven/Cataclysm-DDA/pull/85345))
 * Talk to Pat over radio ([#85393](https://github.com/CleverRaven/Cataclysm-DDA/pull/85393))
 * Add gate jobs for IWYU and clang-tidy required checks ([#85362](https://github.com/CleverRaven/Cataclysm-DDA/pull/85362))
 * Fix smoker and kiln starting ([#85388](https://github.com/CleverRaven/Cataclysm-DDA/pull/85388))
