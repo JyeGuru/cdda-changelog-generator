@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-24-1742 ([a00b9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-1742))
+
+* Challenge Scenario - Hunted by the Dead ([#85518](https://github.com/CleverRaven/Cataclysm-DDA/pull/85518))
 * Fix sub_body_part string extractor crash on copy-from ([#85506](https://github.com/CleverRaven/Cataclysm-DDA/pull/85506))
 
 ---
@@ -191,11 +197,6 @@
 
 * Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
 * Update description for spellbook_hedge_book_of_raziel ([#85428](https://github.com/CleverRaven/Cataclysm-DDA/pull/85428))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-20-1532 ([488bd6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-1532))
-
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
 * Add dimension travel to the event bus for EOCs to use ([#85414](https://github.com/CleverRaven/Cataclysm-DDA/pull/85414))
 * [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
@@ -229,4 +230,3 @@
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
 * Character randomization sometimes produces 'crossdressing' characters ([#85352](https://github.com/CleverRaven/Cataclysm-DDA/pull/85352))
 * Applies mend fix for each fault cleared ([#85353](https://github.com/CleverRaven/Cataclysm-DDA/pull/85353))
-* Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
