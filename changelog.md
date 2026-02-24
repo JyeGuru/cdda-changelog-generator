@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-24-2259 ([29b8a0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-2259))
+
+* Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-24-1742 ([a00b9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-1742))
 
 * Challenge Scenario - Hunted by the Dead ([#85518](https://github.com/CleverRaven/Cataclysm-DDA/pull/85518))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-02-20-2116 ([a4eea37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-2116))
 
 * [MoM] Fix Sense Hostility end concentration ([#85442](https://github.com/CleverRaven/Cataclysm-DDA/pull/85442))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-20-1624 ([6d5dbd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-1624))
-
 * Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
 * Update description for spellbook_hedge_book_of_raziel ([#85428](https://github.com/CleverRaven/Cataclysm-DDA/pull/85428))
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
@@ -228,5 +229,4 @@
 * You can make biscuits with buttermilk ([#85359](https://github.com/CleverRaven/Cataclysm-DDA/pull/85359))
 * Stat boost CBMs require power ([#85360](https://github.com/CleverRaven/Cataclysm-DDA/pull/85360))
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
-* Character randomization sometimes produces 'crossdressing' characters ([#85352](https://github.com/CleverRaven/Cataclysm-DDA/pull/85352))
 * Applies mend fix for each fault cleared ([#85353](https://github.com/CleverRaven/Cataclysm-DDA/pull/85353))
