@@ -1,3 +1,4 @@
+* Fix sub_body_part string extractor crash on copy-from (#85506)
 
 Cataclysm-DDA experimental build 2026-02-24-0103 (31f000e)
 * Fix hallula volume (#85496)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2026-02-20-1532 (488bd6d)
 * Turn Rabbit feet into a body part (#85364)
 * Character randomization sometimes produces 'crossdressing' characters (#85352)
 * Applies mend fix for each fault cleared (#85353)
-* Make Hub 01 RM13 repair dialogue match actual time it takes to repair it (#85349)
 * Expose character gender to math/eoc (#85351)
