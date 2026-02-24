@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-24-0103 ([31f000e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-0103))
+
+* Fix hallula volume ([#85496](https://github.com/CleverRaven/Cataclysm-DDA/pull/85496))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-24-0013 ([822e797](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-0013))
+
+* Miscellaneous Megacity maintenance ([#85509](https://github.com/CleverRaven/Cataclysm-DDA/pull/85509))
 * fix incorrect string format ([#85507](https://github.com/CleverRaven/Cataclysm-DDA/pull/85507))
 
 ---
@@ -184,17 +196,7 @@
 #### Cataclysm-DDA experimental build 2026-02-20-1532 ([488bd6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-1532))
 
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-20-0645 ([5e009fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0645))
-
 * Add dimension travel to the event bus for EOCs to use ([#85414](https://github.com/CleverRaven/Cataclysm-DDA/pull/85414))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-20-0536 ([aeae8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-0536))
-
 * [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
 * [MoM] Add blink as portal storm effect ([#85402](https://github.com/CleverRaven/Cataclysm-DDA/pull/85402))
 * Revert lab_subway removal ([#85404](https://github.com/CleverRaven/Cataclysm-DDA/pull/85404))
@@ -225,9 +227,7 @@
 * Stat boost CBMs require power ([#85360](https://github.com/CleverRaven/Cataclysm-DDA/pull/85360))
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
 * Character randomization sometimes produces 'crossdressing' characters ([#85352](https://github.com/CleverRaven/Cataclysm-DDA/pull/85352))
-* Rabbit muzzle is now a body part ([#85346](https://github.com/CleverRaven/Cataclysm-DDA/pull/85346))
 * Applies mend fix for each fault cleared ([#85353](https://github.com/CleverRaven/Cataclysm-DDA/pull/85353))
 * Make Hub 01 RM13 repair dialogue match actual time it takes to repair it ([#85349](https://github.com/CleverRaven/Cataclysm-DDA/pull/85349))
 * Overmap Specials can use copy-from ([#85348](https://github.com/CleverRaven/Cataclysm-DDA/pull/85348))
 * Expose character gender to math/eoc ([#85351](https://github.com/CleverRaven/Cataclysm-DDA/pull/85351))
-* [Bugfix] Game start fail when bicycle is set as start vehicle ([#85347](https://github.com/CleverRaven/Cataclysm-DDA/pull/85347))
