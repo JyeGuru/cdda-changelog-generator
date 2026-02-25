@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-25-1054 ([e8b832b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-1054))
+
+* Completely remove legacy point pools from character creation ([#85528](https://github.com/CleverRaven/Cataclysm-DDA/pull/85528))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-25-0623 ([c9f8344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0623))
 
 * update Hub 01 robot descriptions ([#85519](https://github.com/CleverRaven/Cataclysm-DDA/pull/85519))
@@ -191,11 +197,6 @@
 
 * HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
 * Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-21-1721 ([71307d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-1721))
-
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
 * Fix maybe-uninitialized warning in unseal_and_spill_test ([#85406](https://github.com/CleverRaven/Cataclysm-DDA/pull/85406))
 * SkyIsland Closetland erasure fix ([#85394](https://github.com/CleverRaven/Cataclysm-DDA/pull/85394))
@@ -231,7 +232,6 @@
 * Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
 * Fix minor typo in Pat's dialogue ([#85376](https://github.com/CleverRaven/Cataclysm-DDA/pull/85376))
-* [alt-map-key] Add new overmap terrain ([#85365](https://github.com/CleverRaven/Cataclysm-DDA/pull/85365))
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
