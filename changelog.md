@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-25-0056 ([cbff983](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0056))
+
+* Add raptor muzzle (actually reptilian muzzle) ([#85515](https://github.com/CleverRaven/Cataclysm-DDA/pull/85515))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-25-0005 ([0519a53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0005))
+
+* Add "welding_kit" to recipes that already use "welder" ([#85516](https://github.com/CleverRaven/Cataclysm-DDA/pull/85516))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-24-2259 ([29b8a0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-2259))
 
 * Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
@@ -184,17 +196,7 @@
 * Rebalance Cranberry Foster's mission to make it challenging with and without electrical protection, but not tedious ([#85413](https://github.com/CleverRaven/Cataclysm-DDA/pull/85413))
 * Fix incorrect move costs inside vehicles (#84043) ([#85427](https://github.com/CleverRaven/Cataclysm-DDA/pull/85427))
 * [Sky Island × Tropicata] Warped Tropical Trees by @TreeChoppingModder ([#85437](https://github.com/CleverRaven/Cataclysm-DDA/pull/85437))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-21-0058 ([5f5d557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-0058))
-
 * Armor shapeshifted into your form has a special message when trying to take it off ([#85446](https://github.com/CleverRaven/Cataclysm-DDA/pull/85446))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-20-2116 ([a4eea37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-20-2116))
-
 * [MoM] Fix Sense Hostility end concentration ([#85442](https://github.com/CleverRaven/Cataclysm-DDA/pull/85442))
 * Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
 * Update description for spellbook_hedge_book_of_raziel ([#85428](https://github.com/CleverRaven/Cataclysm-DDA/pull/85428))
@@ -226,7 +228,5 @@
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
-* You can make biscuits with buttermilk ([#85359](https://github.com/CleverRaven/Cataclysm-DDA/pull/85359))
 * Stat boost CBMs require power ([#85360](https://github.com/CleverRaven/Cataclysm-DDA/pull/85360))
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
-* Applies mend fix for each fault cleared ([#85353](https://github.com/CleverRaven/Cataclysm-DDA/pull/85353))
