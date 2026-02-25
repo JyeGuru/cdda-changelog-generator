@@ -1,3 +1,4 @@
+* Pat comments on and helps with Circuit Safari, and if they learn you're a cyborg, they start to tease you ([#85532](https://github.com/CleverRaven/Cataclysm-DDA/pull/85532))
 
 ---
 
@@ -138,12 +139,6 @@
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
 * Add PLANT_BLOOD monster flag, apply to defender of the wood in XE ([#85425](https://github.com/CleverRaven/Cataclysm-DDA/pull/85425))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-22-1428 ([294511f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-1428))
-
-* [ Xedra Evolved ] Update Readme.md ([#85373](https://github.com/CleverRaven/Cataclysm-DDA/pull/85373))
 
 ---
 
