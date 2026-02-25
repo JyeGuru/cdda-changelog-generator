@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-25-0309 ([8942f3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0309))
+
+* Update zed_fusion.json ([#85467](https://github.com/CleverRaven/Cataclysm-DDA/pull/85467))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-25-0056 ([cbff983](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0056))
 
 * Add raptor muzzle (actually reptilian muzzle) ([#85515](https://github.com/CleverRaven/Cataclysm-DDA/pull/85515))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-02-21-0716 ([5f3c4af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-0716))
 
 * [MoM] Fix Silent One health draining ([#85429](https://github.com/CleverRaven/Cataclysm-DDA/pull/85429))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-21-0155 ([434cedc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-0155))
-
 * Fix spells not creating fields ([#85445](https://github.com/CleverRaven/Cataclysm-DDA/pull/85445))
 * Rebalance Cranberry Foster's mission to make it challenging with and without electrical protection, but not tedious ([#85413](https://github.com/CleverRaven/Cataclysm-DDA/pull/85413))
 * Fix incorrect move costs inside vehicles (#84043) ([#85427](https://github.com/CleverRaven/Cataclysm-DDA/pull/85427))
@@ -228,5 +229,4 @@
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
-* Stat boost CBMs require power ([#85360](https://github.com/CleverRaven/Cataclysm-DDA/pull/85360))
 * Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
