@@ -1,3 +1,11 @@
+* update Hub 01 robot descriptions ([#85519](https://github.com/CleverRaven/Cataclysm-DDA/pull/85519))
+* remove lava from mines ([#85513](https://github.com/CleverRaven/Cataclysm-DDA/pull/85513))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-25-0530 ([72d1a04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0530))
+
+* Buff coiling star vampires ([#85511](https://github.com/CleverRaven/Cataclysm-DDA/pull/85511))
 
 ---
 
@@ -70,7 +78,6 @@
 * Implement Exodii Mission 2 Expansion: Intrigue and Betrayal  ([#85375](https://github.com/CleverRaven/Cataclysm-DDA/pull/85375))
 * Implement wound fixes and necessary infrastructure ([#85399](https://github.com/CleverRaven/Cataclysm-DDA/pull/85399))
 * Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
-* Turn Bird Beak into a body part ([#85363](https://github.com/CleverRaven/Cataclysm-DDA/pull/85363))
 * [MoM] Add Onšut §A to Exodii weaponmaster inventory ([#85422](https://github.com/CleverRaven/Cataclysm-DDA/pull/85422))
 * Improve the consistency of the period using in the description sentences in "set_string_var" ([#85483](https://github.com/CleverRaven/Cataclysm-DDA/pull/85483))
 * Change most military profession requirements from Military Bunker to … ([#85485](https://github.com/CleverRaven/Cataclysm-DDA/pull/85485))
@@ -187,11 +194,6 @@
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
 * Fix maybe-uninitialized warning in unseal_and_spill_test ([#85406](https://github.com/CleverRaven/Cataclysm-DDA/pull/85406))
 * SkyIsland Closetland erasure fix ([#85394](https://github.com/CleverRaven/Cataclysm-DDA/pull/85394))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-21-0716 ([5f3c4af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-0716))
-
 * [MoM] Fix Silent One health draining ([#85429](https://github.com/CleverRaven/Cataclysm-DDA/pull/85429))
 * Fix spells not creating fields ([#85445](https://github.com/CleverRaven/Cataclysm-DDA/pull/85445))
 * Rebalance Cranberry Foster's mission to make it challenging with and without electrical protection, but not tedious ([#85413](https://github.com/CleverRaven/Cataclysm-DDA/pull/85413))
@@ -220,7 +222,6 @@
 * Fix infinite crystalizing sugar/pulp recycling exploit ([#85379](https://github.com/CleverRaven/Cataclysm-DDA/pull/85379))
 * [Sky Island] Hide in raid missions ([#85390](https://github.com/CleverRaven/Cataclysm-DDA/pull/85390))
 * Talk to Pat over radio ([#85393](https://github.com/CleverRaven/Cataclysm-DDA/pull/85393))
-* Add gate jobs for IWYU and clang-tidy required checks ([#85362](https://github.com/CleverRaven/Cataclysm-DDA/pull/85362))
 * Fix smoker and kiln starting ([#85388](https://github.com/CleverRaven/Cataclysm-DDA/pull/85388))
 * Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
@@ -229,4 +230,3 @@
 * Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
-* Turn Rabbit feet into a body part ([#85364](https://github.com/CleverRaven/Cataclysm-DDA/pull/85364))
