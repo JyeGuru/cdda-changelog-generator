@@ -109,7 +109,6 @@
 #### Cataclysm-DDA experimental build 2026-02-23-0103 ([6a6ef21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-0103))
 
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
-* Unify muzzles subparts into debug muzzle `similar_bodyparts` for easier specifically_covers usage ([#85368](https://github.com/CleverRaven/Cataclysm-DDA/pull/85368))
 * Add "Lone Start" flag to Burning Building scenario ([#85426](https://github.com/CleverRaven/Cataclysm-DDA/pull/85426))
 
 ---
@@ -232,6 +231,5 @@
 * Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
 * Fix minor typo in Pat's dialogue ([#85376](https://github.com/CleverRaven/Cataclysm-DDA/pull/85376))
-* Bump linux release compiler to clang-18 and optimization flag to -O2 ([#85367](https://github.com/CleverRaven/Cataclysm-DDA/pull/85367))
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
 * Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
