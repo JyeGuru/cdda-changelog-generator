@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-25-1732 ([37ad5ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-1732))
+
+* Can't block attacks from creatures two sizes greater than you ([#85520](https://github.com/CleverRaven/Cataclysm-DDA/pull/85520))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-25-1054 ([e8b832b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-1054))
 
 * Completely remove legacy point pools from character creation ([#85528](https://github.com/CleverRaven/Cataclysm-DDA/pull/85528))
@@ -67,12 +73,6 @@
 #### Cataclysm-DDA experimental build 2026-02-23-1652 ([fabf2d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1652))
 
 * Fix zone sorting loops and premature termination ([#85504](https://github.com/CleverRaven/Cataclysm-DDA/pull/85504))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-23-1606 ([73e19b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1606))
-
-* Add insect arms as separate limbs ([#85370](https://github.com/CleverRaven/Cataclysm-DDA/pull/85370))
 * Hub 01 mission: Circuit Safari ([#85396](https://github.com/CleverRaven/Cataclysm-DDA/pull/85396))
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
 
@@ -189,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-02-21-2126 ([0e0d778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-2126))
 
 * Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-21-1801 ([86a3d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-1801))
-
 * HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
 * Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
@@ -232,4 +227,3 @@
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
 * Fix minor typo in Pat's dialogue ([#85376](https://github.com/CleverRaven/Cataclysm-DDA/pull/85376))
 * [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))
-* Update docs for gender in EOCs ([#85369](https://github.com/CleverRaven/Cataclysm-DDA/pull/85369))
