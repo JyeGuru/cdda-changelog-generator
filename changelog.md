@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-25-0623 ([c9f8344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0623))
+
 * update Hub 01 robot descriptions ([#85519](https://github.com/CleverRaven/Cataclysm-DDA/pull/85519))
 * remove lava from mines ([#85513](https://github.com/CleverRaven/Cataclysm-DDA/pull/85513))
 
