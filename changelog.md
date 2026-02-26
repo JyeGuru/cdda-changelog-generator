@@ -1,3 +1,22 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-26-0301 ([dcdf474](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-0301))
+
+* [XE] Vampires with active Vigor Mortis can block huge attacks if they have superhuman strength ([#85545](https://github.com/CleverRaven/Cataclysm-DDA/pull/85545))
+* Add IWYU suggested fixes to PRs via reviewdog ([#85529](https://github.com/CleverRaven/Cataclysm-DDA/pull/85529))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-26-0220 ([1944eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-0220))
+
+* [XE] Fixes opening keypad locked doors via deduction ([#85531](https://github.com/CleverRaven/Cataclysm-DDA/pull/85531))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-26-0109 ([dd1e430](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-0109))
+
+* Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
 * Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
 
 ---
@@ -158,26 +177,10 @@
 #### Cataclysm-DDA experimental build 2026-02-22-1105 ([50f5490](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-1105))
 
 * Mission from Rubik: download data from the Exodii ruin in the string dimension ([#85434](https://github.com/CleverRaven/Cataclysm-DDA/pull/85434))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-22-0728 ([ab892c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-0728))
-
-* Megacity. ([#85382](https://github.com/CleverRaven/Cataclysm-DDA/pull/85382))
 * Update professions.json ([#85452](https://github.com/CleverRaven/Cataclysm-DDA/pull/85452))
 * Added Power Storage and Metabolic Interchange to Razor Boy/Girl ([#85457](https://github.com/CleverRaven/Cataclysm-DDA/pull/85457))
 * Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants ([#85461](https://github.com/CleverRaven/Cataclysm-DDA/pull/85461))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-22-0646 ([51f9754](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-0646))
-
 * Fix shapeshifted gear disappearing when you become `incorporeal` ([#85460](https://github.com/CleverRaven/Cataclysm-DDA/pull/85460))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-21-2311 ([53b742f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-2311))
-
 * zone sort: respect terrain/vehicle zone binding ([#85403](https://github.com/CleverRaven/Cataclysm-DDA/pull/85403))
 * Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
 * HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
@@ -210,9 +213,7 @@
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
 * Fix cbm light power draw ([#85398](https://github.com/CleverRaven/Cataclysm-DDA/pull/85398))
 * Solar panel quest for Smokes will accept advanced arrays too ([#85395](https://github.com/CleverRaven/Cataclysm-DDA/pull/85395))
-* Fix infinite crystalizing sugar/pulp recycling exploit ([#85379](https://github.com/CleverRaven/Cataclysm-DDA/pull/85379))
 * [Sky Island] Hide in raid missions ([#85390](https://github.com/CleverRaven/Cataclysm-DDA/pull/85390))
 * Talk to Pat over radio ([#85393](https://github.com/CleverRaven/Cataclysm-DDA/pull/85393))
 * Fix smoker and kiln starting ([#85388](https://github.com/CleverRaven/Cataclysm-DDA/pull/85388))
 * Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
-* Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
