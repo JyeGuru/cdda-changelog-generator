@@ -1,3 +1,10 @@
+* Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-26-0006 ([5abacd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-0006))
+
+* Set lit_level enum class to minimal size to save bytes in level_cache ([#85464](https://github.com/CleverRaven/Cataclysm-DDA/pull/85464))
 * Pat comments on and helps with Circuit Safari, and if they learn you're a cyborg, they start to tease you ([#85532](https://github.com/CleverRaven/Cataclysm-DDA/pull/85532))
 
 ---
@@ -82,12 +89,6 @@
 #### Cataclysm-DDA experimental build 2026-02-23-1522 ([e3a61fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1522))
 
 * Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-23-0705 ([4e20da7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-0705))
-
-* Implement Exodii Mission 2 Expansion: Intrigue and Betrayal  ([#85375](https://github.com/CleverRaven/Cataclysm-DDA/pull/85375))
 * Implement wound fixes and necessary infrastructure ([#85399](https://github.com/CleverRaven/Cataclysm-DDA/pull/85399))
 * Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
 * [MoM] Add Onšut §A to Exodii weaponmaster inventory ([#85422](https://github.com/CleverRaven/Cataclysm-DDA/pull/85422))
@@ -178,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-02-21-2311 ([53b742f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-2311))
 
 * zone sort: respect terrain/vehicle zone binding ([#85403](https://github.com/CleverRaven/Cataclysm-DDA/pull/85403))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-21-2126 ([0e0d778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-21-2126))
-
 * Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
 * HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
 * Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
@@ -220,5 +216,3 @@
 * Fix smoker and kiln starting ([#85388](https://github.com/CleverRaven/Cataclysm-DDA/pull/85388))
 * Migrate washboard ([#85387](https://github.com/CleverRaven/Cataclysm-DDA/pull/85387))
 * Clean up unseal_and_spill_test.cpp ([#85384](https://github.com/CleverRaven/Cataclysm-DDA/pull/85384))
-* Fix minor typo in Pat's dialogue ([#85376](https://github.com/CleverRaven/Cataclysm-DDA/pull/85376))
-* [XEDRA Evolved×Bombasticperk] Gender change potion ([#85374](https://github.com/CleverRaven/Cataclysm-DDA/pull/85374))

@@ -1,3 +1,7 @@
+* Cache vcpkg installed packages in MSVC CI (#85533)
+
+Cataclysm-DDA experimental build 2026-02-26-0006 (5abacd8)
+* Set lit_level enum class to minimal size to save bytes in level_cache (#85464)
 * Pat comments on and helps with Circuit Safari, and if they learn you're a cyborg, they start to tease you (#85532)
 
 Cataclysm-DDA experimental build 2026-02-25-1732 (37ad5ee)
@@ -43,9 +47,6 @@ Cataclysm-DDA experimental build 2026-02-23-1652 (fabf2d1)
 
 Cataclysm-DDA experimental build 2026-02-23-1522 (e3a61fe)
 * Stop NPCs teaching you unlearnable proficiencies (#85498)
-
-Cataclysm-DDA experimental build 2026-02-23-0705 (4e20da7)
-* Implement Exodii Mission 2 Expansion: Intrigue and Betrayal  (#85375)
 * Implement wound fixes and necessary infrastructure (#85399)
 * Blocking costs Stamina (#85490)
 * [MoM] Add Onšut §A to Exodii weaponmaster inventory (#85422)
@@ -100,8 +101,6 @@ Cataclysm-DDA experimental build 2026-02-22-0646 (51f9754)
 
 Cataclysm-DDA experimental build 2026-02-21-2311 (53b742f)
 * zone sort: respect terrain/vehicle zone binding (#85403)
-
-Cataclysm-DDA experimental build 2026-02-21-2126 (0e0d778)
 * Fix stacked integrated armor from cached enchantment mutations (#85455)
 * HEW report can trigger LIXA quest (#85431)
 * Small copyedit (#85450)
@@ -139,5 +138,3 @@ Cataclysm-DDA experimental build 2026-02-21-2126 (0e0d778)
 * Fix smoker and kiln starting (#85388)
 * Migrate washboard (#85387)
 * Clean up unseal_and_spill_test.cpp (#85384)
-* Fix minor typo in Pat's dialogue (#85376)
-* [XEDRA Evolved×Bombasticperk] Gender change potion (#85374)
