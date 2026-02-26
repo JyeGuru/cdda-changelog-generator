@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-02-26-2019 (878ec98)
+* Add an infrequent, traveling CBM merchant to the Ancilla bar (#85554)
+
+Cataclysm-DDA experimental build 2026-02-26-1910 (d560125)
 * Split Pat's dialogue into multiple files (#85546)
 * Some extra tales to tell the drinking veterans at the Ancilla Bar (#85555)
 
@@ -95,11 +100,7 @@ Cataclysm-DDA experimental build 2026-02-22-1611 (c4a7e14)
 * Let players leave Smokes' conversation (#85473)
 * fix solar nest placement (#85474)
 * Add PLANT_BLOOD monster flag, apply to defender of the wood in XE (#85425)
-
-Cataclysm-DDA experimental build 2026-02-22-1322 (fcf259e)
 * [ Xedra Evolved ] Fix #85361 (#85401)
-
-Cataclysm-DDA experimental build 2026-02-22-1153 (2fde3a5)
 * Batch zone sorting pickups from nearby sources (#85468)
 * Mission from Rubik: download data from the Exodii ruin in the string dimension (#85434)
 * Update professions.json (#85452)
@@ -138,4 +139,3 @@ Cataclysm-DDA experimental build 2026-02-22-1153 (2fde3a5)
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix (#85407)
 * Fix cbm light power draw (#85398)
 * Solar panel quest for Smokes will accept advanced arrays too (#85395)
-* Talk to Pat over radio (#85393)

@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-26-2019 ([878ec98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-2019))
+
+* Add an infrequent, traveling CBM merchant to the Ancilla bar ([#85554](https://github.com/CleverRaven/Cataclysm-DDA/pull/85554))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-26-1910 ([d560125](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-1910))
+
 * Split Pat's dialogue into multiple files ([#85546](https://github.com/CleverRaven/Cataclysm-DDA/pull/85546))
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
 
@@ -167,17 +178,7 @@
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
 * Add PLANT_BLOOD monster flag, apply to defender of the wood in XE ([#85425](https://github.com/CleverRaven/Cataclysm-DDA/pull/85425))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-22-1322 ([fcf259e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-1322))
-
 * [ Xedra Evolved ] Fix #85361 ([#85401](https://github.com/CleverRaven/Cataclysm-DDA/pull/85401))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-22-1153 ([2fde3a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-1153))
-
 * Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
 * Mission from Rubik: download data from the Exodii ruin in the string dimension ([#85434](https://github.com/CleverRaven/Cataclysm-DDA/pull/85434))
 * Update professions.json ([#85452](https://github.com/CleverRaven/Cataclysm-DDA/pull/85452))
@@ -216,4 +217,3 @@
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
 * Fix cbm light power draw ([#85398](https://github.com/CleverRaven/Cataclysm-DDA/pull/85398))
 * Solar panel quest for Smokes will accept advanced arrays too ([#85395](https://github.com/CleverRaven/Cataclysm-DDA/pull/85395))
-* Talk to Pat over radio ([#85393](https://github.com/CleverRaven/Cataclysm-DDA/pull/85393))
