@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-27-1900 ([a8bc91b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1900))
+
+* Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-27-1821 ([3b0dbf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1821))
+
+* Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-27-1528 ([af9b447](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1528))
 
 * Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
@@ -195,7 +207,6 @@
 * Added Power Storage and Metabolic Interchange to Razor Boy/Girl ([#85457](https://github.com/CleverRaven/Cataclysm-DDA/pull/85457))
 * Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants ([#85461](https://github.com/CleverRaven/Cataclysm-DDA/pull/85461))
 * Fix shapeshifted gear disappearing when you become `incorporeal` ([#85460](https://github.com/CleverRaven/Cataclysm-DDA/pull/85460))
-* zone sort: respect terrain/vehicle zone binding ([#85403](https://github.com/CleverRaven/Cataclysm-DDA/pull/85403))
 * Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
 * HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
 * Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
@@ -213,7 +224,6 @@
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
 * Add dimension travel to the event bus for EOCs to use ([#85414](https://github.com/CleverRaven/Cataclysm-DDA/pull/85414))
 * [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
-* Revert lab_subway removal ([#85404](https://github.com/CleverRaven/Cataclysm-DDA/pull/85404))
 * Fix flaky morale ranged kill visibility test ([#85410](https://github.com/CleverRaven/Cataclysm-DDA/pull/85410))
 * Pat comments on Chop Shop missions ([#85412](https://github.com/CleverRaven/Cataclysm-DDA/pull/85412))
 * Stop leaking dimension_prefix into new worlds ([#85415](https://github.com/CleverRaven/Cataclysm-DDA/pull/85415))
