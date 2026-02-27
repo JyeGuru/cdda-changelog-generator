@@ -1,3 +1,11 @@
+* npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-27-0411 ([5a1f6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0411))
+
+* Add integrated rabbit fur ([#85562](https://github.com/CleverRaven/Cataclysm-DDA/pull/85562))
+* Skip test labeler for non-PR and cancelled workflow runs ([#85557](https://github.com/CleverRaven/Cataclysm-DDA/pull/85557))
 
 ---
 
@@ -131,7 +139,6 @@
 #### Cataclysm-DDA experimental build 2026-02-23-1652 ([fabf2d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1652))
 
 * Fix zone sorting loops and premature termination ([#85504](https://github.com/CleverRaven/Cataclysm-DDA/pull/85504))
-* Hub 01 mission: Circuit Safari ([#85396](https://github.com/CleverRaven/Cataclysm-DDA/pull/85396))
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
 
 ---
@@ -139,7 +146,6 @@
 #### Cataclysm-DDA experimental build 2026-02-23-1522 ([e3a61fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1522))
 
 * Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
-* Implement wound fixes and necessary infrastructure ([#85399](https://github.com/CleverRaven/Cataclysm-DDA/pull/85399))
 * Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
 * [MoM] Add Onšut §A to Exodii weaponmaster inventory ([#85422](https://github.com/CleverRaven/Cataclysm-DDA/pull/85422))
 * Improve the consistency of the period using in the description sentences in "set_string_var" ([#85483](https://github.com/CleverRaven/Cataclysm-DDA/pull/85483))
@@ -175,11 +181,6 @@
 
 * Fix fire starting deleting firewood instead of fueling the fire ([#85479](https://github.com/CleverRaven/Cataclysm-DDA/pull/85479))
 * fix typo in terminal dialogue ([#85481](https://github.com/CleverRaven/Cataclysm-DDA/pull/85481))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-22-2023 ([521f198](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-2023))
-
 * Fix one typo in src/character_attire.cpp ([#85469](https://github.com/CleverRaven/Cataclysm-DDA/pull/85469))
 * Fix auto-move through vehicle doors and sort vehicle cargo from terrain zones ([#85472](https://github.com/CleverRaven/Cataclysm-DDA/pull/85472))
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
@@ -221,4 +222,3 @@
 * Place player in a couple of tests so they can pass in isolation ([#85405](https://github.com/CleverRaven/Cataclysm-DDA/pull/85405))
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk ([#85419](https://github.com/CleverRaven/Cataclysm-DDA/pull/85419))
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
-* Fix cbm light power draw ([#85398](https://github.com/CleverRaven/Cataclysm-DDA/pull/85398))
