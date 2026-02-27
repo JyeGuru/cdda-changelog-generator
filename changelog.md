@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-27-2122 ([9c1dec4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-2122))
+
+* Fix nondeterministic mutable overmap special placement ([#85556](https://github.com/CleverRaven/Cataclysm-DDA/pull/85556))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-27-2019 ([cde42bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-2019))
 
 * HEW report for void spider dimension ([#85580](https://github.com/CleverRaven/Cataclysm-DDA/pull/85580))
@@ -212,7 +218,6 @@
 * HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
 * Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
-* Fix maybe-uninitialized warning in unseal_and_spill_test ([#85406](https://github.com/CleverRaven/Cataclysm-DDA/pull/85406))
 * [MoM] Fix Silent One health draining ([#85429](https://github.com/CleverRaven/Cataclysm-DDA/pull/85429))
 * Fix spells not creating fields ([#85445](https://github.com/CleverRaven/Cataclysm-DDA/pull/85445))
 * Rebalance Cranberry Foster's mission to make it challenging with and without electrical protection, but not tedious ([#85413](https://github.com/CleverRaven/Cataclysm-DDA/pull/85413))
