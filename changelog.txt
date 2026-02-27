@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-27-0635 (2fdcc5c)
 * Whitelist contents of Pocket (#85510)
 
 Cataclysm-DDA experimental build 2026-02-27-0551 (da1906f)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2026-02-23-1522 (e3a61fe)
 Cataclysm-DDA experimental build 2026-02-23-0405 (adcf1b6)
 * zone sort: refuse overflow and respect zone binding during drops (#85466)
 * Add noop test for helping profile game load and other startup steps without the overhead of the main menu. (#85463)
-
-Cataclysm-DDA experimental build 2026-02-23-0103 (6a6ef21)
 * [Bombastic Perks] Fix Blood of the Forge text (#85488)
 * Add "Lone Start" flag to Burning Building scenario (#85426)
 * Fix surroundings menu hanging on languages with non-latin scripts (#85471)

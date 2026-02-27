@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-27-0635 ([2fdcc5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0635))
+
 * Whitelist contents of Pocket ([#85510](https://github.com/CleverRaven/Cataclysm-DDA/pull/85510))
 
 ---
@@ -173,11 +178,6 @@
 
 * zone sort: refuse overflow and respect zone binding during drops ([#85466](https://github.com/CleverRaven/Cataclysm-DDA/pull/85466))
 * Add noop test for helping profile game load and other startup steps without the overhead of the main menu. ([#85463](https://github.com/CleverRaven/Cataclysm-DDA/pull/85463))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-23-0103 ([6a6ef21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-0103))
-
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
 * Add "Lone Start" flag to Burning Building scenario ([#85426](https://github.com/CleverRaven/Cataclysm-DDA/pull/85426))
 * Fix surroundings menu hanging on languages with non-latin scripts ([#85471](https://github.com/CleverRaven/Cataclysm-DDA/pull/85471))
