@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-27-1528 (af9b447)
+* Fix division by zero crash in vehicle bash pathfinding (#85571)
+
 Cataclysm-DDA experimental build 2026-02-27-0635 (2fdcc5c)
 * Whitelist contents of Pocket (#85510)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2026-02-23-1522 (e3a61fe)
 * Give player tips and hints about cardinal directions in relation to ocean and urbanization #85475 (#85486)
 * [MoM] Add the hopalong, a teleporting wild rabbit (#85484)
 * Fix devices action_name translation (#85441)
-
-Cataclysm-DDA experimental build 2026-02-23-0405 (adcf1b6)
 * zone sort: refuse overflow and respect zone binding during drops (#85466)
 * Add noop test for helping profile game load and other startup steps without the overhead of the main menu. (#85463)
 * [Bombastic Perks] Fix Blood of the Forge text (#85488)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2026-02-23-0405 (adcf1b6)
 * Rubik only offers CBM rewards if you have a CBM interface (#85432)
 * Add dimension travel to the event bus for EOCs to use (#85414)
 * [Sky Island] Three Bug Fixes (#85424)
-* [MoM] Add blink as portal storm effect (#85402)
 * Revert lab_subway removal (#85404)
 * Fix flaky morale ranged kill visibility test (#85410)
 * Pat comments on Chop Shop missions (#85412)

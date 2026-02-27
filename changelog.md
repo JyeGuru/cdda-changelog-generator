@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-27-1528 ([af9b447](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1528))
+
+* Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-27-0635 ([2fdcc5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0635))
 
 * Whitelist contents of Pocket ([#85510](https://github.com/CleverRaven/Cataclysm-DDA/pull/85510))
@@ -171,11 +177,6 @@
 * Give player tips and hints about cardinal directions in relation to ocean and urbanization #85475 ([#85486](https://github.com/CleverRaven/Cataclysm-DDA/pull/85486))
 * [MoM] Add the hopalong, a teleporting wild rabbit ([#85484](https://github.com/CleverRaven/Cataclysm-DDA/pull/85484))
 * Fix devices action_name translation ([#85441](https://github.com/CleverRaven/Cataclysm-DDA/pull/85441))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-23-0405 ([adcf1b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-0405))
-
 * zone sort: refuse overflow and respect zone binding during drops ([#85466](https://github.com/CleverRaven/Cataclysm-DDA/pull/85466))
 * Add noop test for helping profile game load and other startup steps without the overhead of the main menu. ([#85463](https://github.com/CleverRaven/Cataclysm-DDA/pull/85463))
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
@@ -212,7 +213,6 @@
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
 * Add dimension travel to the event bus for EOCs to use ([#85414](https://github.com/CleverRaven/Cataclysm-DDA/pull/85414))
 * [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
-* [MoM] Add blink as portal storm effect ([#85402](https://github.com/CleverRaven/Cataclysm-DDA/pull/85402))
 * Revert lab_subway removal ([#85404](https://github.com/CleverRaven/Cataclysm-DDA/pull/85404))
 * Fix flaky morale ranged kill visibility test ([#85410](https://github.com/CleverRaven/Cataclysm-DDA/pull/85410))
 * Pat comments on Chop Shop missions ([#85412](https://github.com/CleverRaven/Cataclysm-DDA/pull/85412))
