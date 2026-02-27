@@ -1,3 +1,9 @@
+* Whitelist contents of Pocket (#85510)
+
+Cataclysm-DDA experimental build 2026-02-27-0551 (da1906f)
+* [MoM] If you have biokinetically-enhanced superhuman strength you can block huge attacks (#85543)
+
+Cataclysm-DDA experimental build 2026-02-27-0508 (59de2ea)
 * npcs don't get thick or thin skin (#85565)
 
 Cataclysm-DDA experimental build 2026-02-27-0411 (5a1f6af)
@@ -93,11 +99,7 @@ Cataclysm-DDA experimental build 2026-02-23-0405 (adcf1b6)
 Cataclysm-DDA experimental build 2026-02-23-0103 (6a6ef21)
 * [Bombastic Perks] Fix Blood of the Forge text (#85488)
 * Add "Lone Start" flag to Burning Building scenario (#85426)
-
-Cataclysm-DDA experimental build 2026-02-23-0011 (8a57e56)
 * Fix surroundings menu hanging on languages with non-latin scripts (#85471)
-
-Cataclysm-DDA experimental build 2026-02-22-2215 (6b07a80)
 * Fix fire starting deleting firewood instead of fueling the fire (#85479)
 * fix typo in terminal dialogue (#85481)
 * Fix one typo in src/character_attire.cpp (#85469)
@@ -105,7 +107,6 @@ Cataclysm-DDA experimental build 2026-02-22-2215 (6b07a80)
 * Let players leave Smokes' conversation (#85473)
 * fix solar nest placement (#85474)
 * Add PLANT_BLOOD monster flag, apply to defender of the wood in XE (#85425)
-* [ Xedra Evolved ] Fix #85361 (#85401)
 * Batch zone sorting pickups from nearby sources (#85468)
 * Mission from Rubik: download data from the Exodii ruin in the string dimension (#85434)
 * Update professions.json (#85452)

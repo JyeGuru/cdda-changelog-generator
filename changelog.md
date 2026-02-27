@@ -1,3 +1,15 @@
+* Whitelist contents of Pocket ([#85510](https://github.com/CleverRaven/Cataclysm-DDA/pull/85510))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-27-0551 ([da1906f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0551))
+
+* [MoM] If you have biokinetically-enhanced superhuman strength you can block huge attacks ([#85543](https://github.com/CleverRaven/Cataclysm-DDA/pull/85543))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-27-0508 ([59de2ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0508))
+
 * npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
 
 ---
@@ -168,17 +180,7 @@
 
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
 * Add "Lone Start" flag to Burning Building scenario ([#85426](https://github.com/CleverRaven/Cataclysm-DDA/pull/85426))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-23-0011 ([8a57e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-0011))
-
 * Fix surroundings menu hanging on languages with non-latin scripts ([#85471](https://github.com/CleverRaven/Cataclysm-DDA/pull/85471))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-22-2215 ([6b07a80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-22-2215))
-
 * Fix fire starting deleting firewood instead of fueling the fire ([#85479](https://github.com/CleverRaven/Cataclysm-DDA/pull/85479))
 * fix typo in terminal dialogue ([#85481](https://github.com/CleverRaven/Cataclysm-DDA/pull/85481))
 * Fix one typo in src/character_attire.cpp ([#85469](https://github.com/CleverRaven/Cataclysm-DDA/pull/85469))
@@ -186,7 +188,6 @@
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
 * Add PLANT_BLOOD monster flag, apply to defender of the wood in XE ([#85425](https://github.com/CleverRaven/Cataclysm-DDA/pull/85425))
-* [ Xedra Evolved ] Fix #85361 ([#85401](https://github.com/CleverRaven/Cataclysm-DDA/pull/85401))
 * Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
 * Mission from Rubik: download data from the Exodii ruin in the string dimension ([#85434](https://github.com/CleverRaven/Cataclysm-DDA/pull/85434))
 * Update professions.json ([#85452](https://github.com/CleverRaven/Cataclysm-DDA/pull/85452))
