@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-02-27-2019 (cde42bf)
+* HEW report for void spider dimension (#85580)
+
 Cataclysm-DDA experimental build 2026-02-27-1900 (a8bc91b)
 * Fix TextColoredParagraph mid-word wrapping (#85575)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2026-02-24-0013 (822e797)
 Cataclysm-DDA experimental build 2026-02-23-1652 (fabf2d1)
 * Fix zone sorting loops and premature termination (#85504)
 * Weekly Changelog 2026-02-16 to 2026-02-23 (#85495)
-
-Cataclysm-DDA experimental build 2026-02-23-1522 (e3a61fe)
 * Stop NPCs teaching you unlearnable proficiencies (#85498)
 * Blocking costs Stamina (#85490)
 * [MoM] Add Onšut §A to Exodii weaponmaster inventory (#85422)
@@ -143,6 +144,5 @@ Cataclysm-DDA experimental build 2026-02-23-1522 (e3a61fe)
 * Fur covers tails (#85416)
 * Just show items in holsters on "holster" iuse (#85420)
 * Fix another surroundings menu freeze (#85417)
-* Place player in a couple of tests so they can pass in isolation (#85405)
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk (#85419)
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix (#85407)

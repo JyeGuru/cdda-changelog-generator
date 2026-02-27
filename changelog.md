@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-02-27-2019 ([cde42bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-2019))
+
+* HEW report for void spider dimension ([#85580](https://github.com/CleverRaven/Cataclysm-DDA/pull/85580))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-02-27-1900 ([a8bc91b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1900))
 
 * Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
@@ -175,11 +181,6 @@
 
 * Fix zone sorting loops and premature termination ([#85504](https://github.com/CleverRaven/Cataclysm-DDA/pull/85504))
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-23-1522 ([e3a61fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1522))
-
 * Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
 * Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
 * [MoM] Add Onšut §A to Exodii weaponmaster inventory ([#85422](https://github.com/CleverRaven/Cataclysm-DDA/pull/85422))
@@ -230,6 +231,5 @@
 * Fur covers tails ([#85416](https://github.com/CleverRaven/Cataclysm-DDA/pull/85416))
 * Just show items in holsters on "holster" iuse ([#85420](https://github.com/CleverRaven/Cataclysm-DDA/pull/85420))
 * Fix another surroundings menu freeze ([#85417](https://github.com/CleverRaven/Cataclysm-DDA/pull/85417))
-* Place player in a couple of tests so they can pass in isolation ([#85405](https://github.com/CleverRaven/Cataclysm-DDA/pull/85405))
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk ([#85419](https://github.com/CleverRaven/Cataclysm-DDA/pull/85419))
 * Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
