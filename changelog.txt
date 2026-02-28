@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-28-0822 (e63f528)
 * Fixed beans and tomatoes out of cans in evac shelters (#85584)
 
 Cataclysm-DDA experimental build 2026-02-28-0742 (7cadb07)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2026-02-25-0309 (8942f3c)
 
 Cataclysm-DDA experimental build 2026-02-25-0056 (cbff983)
 * Add raptor muzzle (actually reptilian muzzle) (#85515)
-
-Cataclysm-DDA experimental build 2026-02-25-0005 (0519a53)
 * Add "welding_kit" to recipes that already use "welder" (#85516)
 * Add bounds checks for fake_part_at before indexing into parts (#85524)
 * Challenge Scenario - Hunted by the Dead (#85518)

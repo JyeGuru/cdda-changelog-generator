@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-0822 ([e63f528](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0822))
+
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-02-25-0056 ([cbff983](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0056))
 
 * Add raptor muzzle (actually reptilian muzzle) ([#85515](https://github.com/CleverRaven/Cataclysm-DDA/pull/85515))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-25-0005 ([0519a53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0005))
-
 * Add "welding_kit" to recipes that already use "welder" ([#85516](https://github.com/CleverRaven/Cataclysm-DDA/pull/85516))
 * Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
 * Challenge Scenario - Hunted by the Dead ([#85518](https://github.com/CleverRaven/Cataclysm-DDA/pull/85518))
