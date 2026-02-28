@@ -1,3 +1,11 @@
+* Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
+* Add weight gates to zone sort batching ([#85517](https://github.com/CleverRaven/Cataclysm-DDA/pull/85517))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-1831 ([695d7ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-1831))
+
+* Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
 
 ---
 
@@ -180,11 +188,6 @@
 
 * update Hub 01 robot descriptions ([#85519](https://github.com/CleverRaven/Cataclysm-DDA/pull/85519))
 * remove lava from mines ([#85513](https://github.com/CleverRaven/Cataclysm-DDA/pull/85513))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-25-0530 ([72d1a04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0530))
-
 * Buff coiling star vampires ([#85511](https://github.com/CleverRaven/Cataclysm-DDA/pull/85511))
 * Update zed_fusion.json ([#85467](https://github.com/CleverRaven/Cataclysm-DDA/pull/85467))
 * Add raptor muzzle (actually reptilian muzzle) ([#85515](https://github.com/CleverRaven/Cataclysm-DDA/pull/85515))
@@ -199,7 +202,6 @@
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
 * Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
 * Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
-* [MoM] Add Onšut §A to Exodii weaponmaster inventory ([#85422](https://github.com/CleverRaven/Cataclysm-DDA/pull/85422))
 * Improve the consistency of the period using in the description sentences in "set_string_var" ([#85483](https://github.com/CleverRaven/Cataclysm-DDA/pull/85483))
 * Change most military profession requirements from Military Bunker to … ([#85485](https://github.com/CleverRaven/Cataclysm-DDA/pull/85485))
 * Make it clear that Anus Fetick is an optional path to the CBM interface, and let a player still complete it if they get the interface another way ([#85447](https://github.com/CleverRaven/Cataclysm-DDA/pull/85447))
@@ -237,4 +239,3 @@
 * Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
 * Update description for spellbook_hedge_book_of_raziel ([#85428](https://github.com/CleverRaven/Cataclysm-DDA/pull/85428))
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
-* [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
