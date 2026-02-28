@@ -219,7 +219,6 @@
 * Fix auto-move through vehicle doors and sort vehicle cargo from terrain zones ([#85472](https://github.com/CleverRaven/Cataclysm-DDA/pull/85472))
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
-* Add PLANT_BLOOD monster flag, apply to defender of the wood in XE ([#85425](https://github.com/CleverRaven/Cataclysm-DDA/pull/85425))
 * Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
 * Mission from Rubik: download data from the Exodii ruin in the string dimension ([#85434](https://github.com/CleverRaven/Cataclysm-DDA/pull/85434))
 * Update professions.json ([#85452](https://github.com/CleverRaven/Cataclysm-DDA/pull/85452))
