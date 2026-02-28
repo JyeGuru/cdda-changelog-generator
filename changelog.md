@@ -1,3 +1,10 @@
+* Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-0742 ([7cadb07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0742))
+
+* Hub 01 CBM interface & autodoc spawning overhaul ([#85539](https://github.com/CleverRaven/Cataclysm-DDA/pull/85539))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-25-0005 ([0519a53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0005))
 
 * Add "welding_kit" to recipes that already use "welder" ([#85516](https://github.com/CleverRaven/Cataclysm-DDA/pull/85516))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-24-2259 ([29b8a0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-2259))
-
 * Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
 * Challenge Scenario - Hunted by the Dead ([#85518](https://github.com/CleverRaven/Cataclysm-DDA/pull/85518))
 * Fix sub_body_part string extractor crash on copy-from ([#85506](https://github.com/CleverRaven/Cataclysm-DDA/pull/85506))
@@ -233,8 +235,6 @@
 * Update description for spellbook_hedge_book_of_raziel ([#85428](https://github.com/CleverRaven/Cataclysm-DDA/pull/85428))
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
 * [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
-* Stop leaking dimension_prefix into new worlds ([#85415](https://github.com/CleverRaven/Cataclysm-DDA/pull/85415))
-* Fur covers tails ([#85416](https://github.com/CleverRaven/Cataclysm-DDA/pull/85416))
 * Just show items in holsters on "holster" iuse ([#85420](https://github.com/CleverRaven/Cataclysm-DDA/pull/85420))
 * Fix another surroundings menu freeze ([#85417](https://github.com/CleverRaven/Cataclysm-DDA/pull/85417))
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk ([#85419](https://github.com/CleverRaven/Cataclysm-DDA/pull/85419))
