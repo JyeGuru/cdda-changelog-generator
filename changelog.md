@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-0414 ([361eedc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0414))
+
 * Add parabolic solar cooker (deployable, fuel-free heat source) ([#85542](https://github.com/CleverRaven/Cataclysm-DDA/pull/85542))
 * Fix CI skip-detection refs, Makefile parallel safety, and test tag syntax ([#85521](https://github.com/CleverRaven/Cataclysm-DDA/pull/85521))
 
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-02-24-2259 ([29b8a0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-2259))
 
 * Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-24-1742 ([a00b9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-1742))
-
 * Challenge Scenario - Hunted by the Dead ([#85518](https://github.com/CleverRaven/Cataclysm-DDA/pull/85518))
 * Fix sub_body_part string extractor crash on copy-from ([#85506](https://github.com/CleverRaven/Cataclysm-DDA/pull/85506))
 * Fix hallula volume ([#85496](https://github.com/CleverRaven/Cataclysm-DDA/pull/85496))
