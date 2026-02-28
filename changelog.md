@@ -1,3 +1,4 @@
+* Update crafting test to remove survival mess kit ([#85570](https://github.com/CleverRaven/Cataclysm-DDA/pull/85570))
 
 ---
 
@@ -236,5 +237,4 @@
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
 * [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
 * Just show items in holsters on "holster" iuse ([#85420](https://github.com/CleverRaven/Cataclysm-DDA/pull/85420))
-* Fix another surroundings menu freeze ([#85417](https://github.com/CleverRaven/Cataclysm-DDA/pull/85417))
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk ([#85419](https://github.com/CleverRaven/Cataclysm-DDA/pull/85419))

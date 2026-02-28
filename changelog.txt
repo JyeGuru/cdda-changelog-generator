@@ -1,3 +1,4 @@
+* Update crafting test to remove survival mess kit (#85570)
 
 Cataclysm-DDA experimental build 2026-02-28-0822 (e63f528)
 * Fixed beans and tomatoes out of cans in evac shelters (#85584)
@@ -146,5 +147,4 @@ Cataclysm-DDA experimental build 2026-02-25-0056 (cbff983)
 * Rubik only offers CBM rewards if you have a CBM interface (#85432)
 * [Sky Island] Three Bug Fixes (#85424)
 * Just show items in holsters on "holster" iuse (#85420)
-* Fix another surroundings menu freeze (#85417)
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk (#85419)
