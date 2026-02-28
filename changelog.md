@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-1945 ([8e43e9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-1945))
+
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Add weight gates to zone sort batching ([#85517](https://github.com/CleverRaven/Cataclysm-DDA/pull/85517))
 
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-25-1054 ([e8b832b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-1054))
 
 * Completely remove legacy point pools from character creation ([#85528](https://github.com/CleverRaven/Cataclysm-DDA/pull/85528))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-25-0623 ([c9f8344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0623))
-
 * update Hub 01 robot descriptions ([#85519](https://github.com/CleverRaven/Cataclysm-DDA/pull/85519))
 * remove lava from mines ([#85513](https://github.com/CleverRaven/Cataclysm-DDA/pull/85513))
 * Buff coiling star vampires ([#85511](https://github.com/CleverRaven/Cataclysm-DDA/pull/85511))

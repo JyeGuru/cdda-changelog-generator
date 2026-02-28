@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-28-1945 (8e43e9a)
 * Fix cmake pch compilation to avoid accidentally building as C (#85594)
 * Add weight gates to zone sort batching (#85517)
 
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2026-02-25-1732 (37ad5ee)
 
 Cataclysm-DDA experimental build 2026-02-25-1054 (e8b832b)
 * Completely remove legacy point pools from character creation (#85528)
-
-Cataclysm-DDA experimental build 2026-02-25-0623 (c9f8344)
 * update Hub 01 robot descriptions (#85519)
 * remove lava from mines (#85513)
 * Buff coiling star vampires (#85511)
