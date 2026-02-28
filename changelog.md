@@ -1,3 +1,4 @@
+* Update vendored Catch2 to v2.13.10 ([#85522](https://github.com/CleverRaven/Cataclysm-DDA/pull/85522))
 
 ---
 
@@ -211,7 +212,6 @@
 * zone sort: refuse overflow and respect zone binding during drops ([#85466](https://github.com/CleverRaven/Cataclysm-DDA/pull/85466))
 * Add noop test for helping profile game load and other startup steps without the overhead of the main menu. ([#85463](https://github.com/CleverRaven/Cataclysm-DDA/pull/85463))
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
-* Add "Lone Start" flag to Burning Building scenario ([#85426](https://github.com/CleverRaven/Cataclysm-DDA/pull/85426))
 * Fix surroundings menu hanging on languages with non-latin scripts ([#85471](https://github.com/CleverRaven/Cataclysm-DDA/pull/85471))
 * Fix fire starting deleting firewood instead of fueling the fire ([#85479](https://github.com/CleverRaven/Cataclysm-DDA/pull/85479))
 * fix typo in terminal dialogue ([#85481](https://github.com/CleverRaven/Cataclysm-DDA/pull/85481))

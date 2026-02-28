@@ -1,3 +1,4 @@
+* Update vendored Catch2 to v2.13.10 (#85522)
 
 Cataclysm-DDA experimental build 2026-02-28-1945 (8e43e9a)
 * Fix cmake pch compilation to avoid accidentally building as C (#85594)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2026-02-25-1054 (e8b832b)
 * zone sort: refuse overflow and respect zone binding during drops (#85466)
 * Add noop test for helping profile game load and other startup steps without the overhead of the main menu. (#85463)
 * [Bombastic Perks] Fix Blood of the Forge text (#85488)
-* Add "Lone Start" flag to Burning Building scenario (#85426)
 * Fix surroundings menu hanging on languages with non-latin scripts (#85471)
 * Fix fire starting deleting firewood instead of fueling the fire (#85479)
 * fix typo in terminal dialogue (#85481)
