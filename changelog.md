@@ -1,3 +1,23 @@
+* Add parabolic solar cooker (deployable, fuel-free heat source) ([#85542](https://github.com/CleverRaven/Cataclysm-DDA/pull/85542))
+* Fix CI skip-detection refs, Makefile parallel safety, and test tag syntax ([#85521](https://github.com/CleverRaven/Cataclysm-DDA/pull/85521))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-0324 ([c997d0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0324))
+
+* Pat notices and comments if you vanish to the void spider lair with transponder active ([#85578](https://github.com/CleverRaven/Cataclysm-DDA/pull/85578))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-0132 ([9eda2e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0132))
+
+* Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-0041 ([0ef2270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0041))
+
+* Pat can replace lost/damaged AR glasses/earpiece ([#85577](https://github.com/CleverRaven/Cataclysm-DDA/pull/85577))
 
 ---
 
@@ -167,24 +187,9 @@
 
 * Challenge Scenario - Hunted by the Dead ([#85518](https://github.com/CleverRaven/Cataclysm-DDA/pull/85518))
 * Fix sub_body_part string extractor crash on copy-from ([#85506](https://github.com/CleverRaven/Cataclysm-DDA/pull/85506))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-24-0103 ([31f000e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-0103))
-
 * Fix hallula volume ([#85496](https://github.com/CleverRaven/Cataclysm-DDA/pull/85496))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-24-0013 ([822e797](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-24-0013))
-
 * Miscellaneous Megacity maintenance ([#85509](https://github.com/CleverRaven/Cataclysm-DDA/pull/85509))
 * fix incorrect string format ([#85507](https://github.com/CleverRaven/Cataclysm-DDA/pull/85507))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-23-1652 ([fabf2d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-23-1652))
-
 * Fix zone sorting loops and premature termination ([#85504](https://github.com/CleverRaven/Cataclysm-DDA/pull/85504))
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
 * Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
@@ -220,7 +225,6 @@
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
 * [MoM] Fix Silent One health draining ([#85429](https://github.com/CleverRaven/Cataclysm-DDA/pull/85429))
 * Fix spells not creating fields ([#85445](https://github.com/CleverRaven/Cataclysm-DDA/pull/85445))
-* Rebalance Cranberry Foster's mission to make it challenging with and without electrical protection, but not tedious ([#85413](https://github.com/CleverRaven/Cataclysm-DDA/pull/85413))
 * Fix incorrect move costs inside vehicles (#84043) ([#85427](https://github.com/CleverRaven/Cataclysm-DDA/pull/85427))
 * [Sky Island × Tropicata] Warped Tropical Trees by @TreeChoppingModder ([#85437](https://github.com/CleverRaven/Cataclysm-DDA/pull/85437))
 * Armor shapeshifted into your form has a special message when trying to take it off ([#85446](https://github.com/CleverRaven/Cataclysm-DDA/pull/85446))
@@ -228,13 +232,9 @@
 * Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
 * Update description for spellbook_hedge_book_of_raziel ([#85428](https://github.com/CleverRaven/Cataclysm-DDA/pull/85428))
 * Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
-* Add dimension travel to the event bus for EOCs to use ([#85414](https://github.com/CleverRaven/Cataclysm-DDA/pull/85414))
 * [Sky Island] Three Bug Fixes ([#85424](https://github.com/CleverRaven/Cataclysm-DDA/pull/85424))
-* Fix flaky morale ranged kill visibility test ([#85410](https://github.com/CleverRaven/Cataclysm-DDA/pull/85410))
-* Pat comments on Chop Shop missions ([#85412](https://github.com/CleverRaven/Cataclysm-DDA/pull/85412))
 * Stop leaking dimension_prefix into new worlds ([#85415](https://github.com/CleverRaven/Cataclysm-DDA/pull/85415))
 * Fur covers tails ([#85416](https://github.com/CleverRaven/Cataclysm-DDA/pull/85416))
 * Just show items in holsters on "holster" iuse ([#85420](https://github.com/CleverRaven/Cataclysm-DDA/pull/85420))
 * Fix another surroundings menu freeze ([#85417](https://github.com/CleverRaven/Cataclysm-DDA/pull/85417))
 * [Bombastic Perks] Move Bloody Mess to a playstyle perk ([#85419](https://github.com/CleverRaven/Cataclysm-DDA/pull/85419))
-* Dreamsmith EOC's now use the correct skill names and from_dreamdross id suffix ([#85407](https://github.com/CleverRaven/Cataclysm-DDA/pull/85407))
