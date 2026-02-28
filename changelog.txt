@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-02-28-1618 (926cde9)
 * more apis adjustments (#85564)
 
 Cataclysm-DDA experimental build 2026-02-28-1538 (b58241a)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2026-02-25-0623 (c9f8344)
 
 Cataclysm-DDA experimental build 2026-02-25-0530 (72d1a04)
 * Buff coiling star vampires (#85511)
-
-Cataclysm-DDA experimental build 2026-02-25-0309 (8942f3c)
 * Update zed_fusion.json (#85467)
 * Add raptor muzzle (actually reptilian muzzle) (#85515)
 * Add "welding_kit" to recipes that already use "welder" (#85516)

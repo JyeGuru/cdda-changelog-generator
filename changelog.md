@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-02-28-1618 ([926cde9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-1618))
+
 * more apis adjustments ([#85564](https://github.com/CleverRaven/Cataclysm-DDA/pull/85564))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-02-25-0530 ([72d1a04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0530))
 
 * Buff coiling star vampires ([#85511](https://github.com/CleverRaven/Cataclysm-DDA/pull/85511))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-25-0309 ([8942f3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-25-0309))
-
 * Update zed_fusion.json ([#85467](https://github.com/CleverRaven/Cataclysm-DDA/pull/85467))
 * Add raptor muzzle (actually reptilian muzzle) ([#85515](https://github.com/CleverRaven/Cataclysm-DDA/pull/85515))
 * Add "welding_kit" to recipes that already use "welder" ([#85516](https://github.com/CleverRaven/Cataclysm-DDA/pull/85516))
