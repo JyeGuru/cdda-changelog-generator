@@ -231,7 +231,6 @@
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
 * [MoM] Fix Silent One health draining ([#85429](https://github.com/CleverRaven/Cataclysm-DDA/pull/85429))
 * Fix spells not creating fields ([#85445](https://github.com/CleverRaven/Cataclysm-DDA/pull/85445))
-* Fix incorrect move costs inside vehicles (#84043) ([#85427](https://github.com/CleverRaven/Cataclysm-DDA/pull/85427))
 * [Sky Island × Tropicata] Warped Tropical Trees by @TreeChoppingModder ([#85437](https://github.com/CleverRaven/Cataclysm-DDA/pull/85437))
 * Armor shapeshifted into your form has a special message when trying to take it off ([#85446](https://github.com/CleverRaven/Cataclysm-DDA/pull/85446))
 * [MoM] Fix Sense Hostility end concentration ([#85442](https://github.com/CleverRaven/Cataclysm-DDA/pull/85442))
