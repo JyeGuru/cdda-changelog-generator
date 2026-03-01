@@ -1,3 +1,4 @@
+* Remove tileset scheduled update workflow (#85601)
 * Update vendored Catch2 to v2.13.10 (#85522)
 
 Cataclysm-DDA experimental build 2026-02-28-1945 (8e43e9a)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2026-02-25-1054 (e8b832b)
 * Armor shapeshifted into your form has a special message when trying to take it off (#85446)
 * [MoM] Fix Sense Hostility end concentration (#85442)
 * Fix string format specifier in inventory header (#85433)
-* Update description for spellbook_hedge_book_of_raziel (#85428)
 * Rubik only offers CBM rewards if you have a CBM interface (#85432)
