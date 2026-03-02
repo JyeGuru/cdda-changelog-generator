@@ -1,3 +1,11 @@
+* [MoM] Telekinetic huge attack blocking ([#85583](https://github.com/CleverRaven/Cataclysm-DDA/pull/85583))
+* Weekly Changelog 2026-02-23 to 2026-03-02 ([#85615](https://github.com/CleverRaven/Cataclysm-DDA/pull/85615))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-02-2139 ([cdf3a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-2139))
+
+* Show molle capacity in item info ([#85621](https://github.com/CleverRaven/Cataclysm-DDA/pull/85621))
 
 ---
 
@@ -169,11 +177,6 @@
 
 * Split Pat's dialogue into multiple files ([#85546](https://github.com/CleverRaven/Cataclysm-DDA/pull/85546))
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-26-1821 ([a4f476c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-1821))
-
 * [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active ([#85549](https://github.com/CleverRaven/Cataclysm-DDA/pull/85549))
 * [XE] Vampires with active Vigor Mortis can block huge attacks if they have superhuman strength ([#85545](https://github.com/CleverRaven/Cataclysm-DDA/pull/85545))
 * Add IWYU suggested fixes to PRs via reviewdog ([#85529](https://github.com/CleverRaven/Cataclysm-DDA/pull/85529))
@@ -205,7 +208,6 @@
 * Make it clear that Anus Fetick is an optional path to the CBM interface, and let a player still complete it if they get the interface another way ([#85447](https://github.com/CleverRaven/Cataclysm-DDA/pull/85447))
 * Give player tips and hints about cardinal directions in relation to ocean and urbanization #85475 ([#85486](https://github.com/CleverRaven/Cataclysm-DDA/pull/85486))
 * [MoM] Add the hopalong, a teleporting wild rabbit ([#85484](https://github.com/CleverRaven/Cataclysm-DDA/pull/85484))
-* Fix devices action_name translation ([#85441](https://github.com/CleverRaven/Cataclysm-DDA/pull/85441))
 * zone sort: refuse overflow and respect zone binding during drops ([#85466](https://github.com/CleverRaven/Cataclysm-DDA/pull/85466))
 * Add noop test for helping profile game load and other startup steps without the overhead of the main menu. ([#85463](https://github.com/CleverRaven/Cataclysm-DDA/pull/85463))
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
@@ -224,6 +226,4 @@
 * Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
 * Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
-* Fix spells not creating fields ([#85445](https://github.com/CleverRaven/Cataclysm-DDA/pull/85445))
 * Armor shapeshifted into your form has a special message when trying to take it off ([#85446](https://github.com/CleverRaven/Cataclysm-DDA/pull/85446))
-* [MoM] Fix Sense Hostility end concentration ([#85442](https://github.com/CleverRaven/Cataclysm-DDA/pull/85442))
