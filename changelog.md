@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-02-0538 ([fa289d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-0538))
+
 * fix some mutation orderings ([#85560](https://github.com/CleverRaven/Cataclysm-DDA/pull/85560))
 * fix bat ears not being ears, reduce ugliness ([#85563](https://github.com/CleverRaven/Cataclysm-DDA/pull/85563))
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession ([#85611](https://github.com/CleverRaven/Cataclysm-DDA/pull/85611))
@@ -171,11 +176,6 @@
 
 * [XE] Vampires with active Vigor Mortis can block huge attacks if they have superhuman strength ([#85545](https://github.com/CleverRaven/Cataclysm-DDA/pull/85545))
 * Add IWYU suggested fixes to PRs via reviewdog ([#85529](https://github.com/CleverRaven/Cataclysm-DDA/pull/85529))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-26-0220 ([1944eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-0220))
-
 * [XE] Fixes opening keypad locked doors via deduction ([#85531](https://github.com/CleverRaven/Cataclysm-DDA/pull/85531))
 * Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
 * Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
