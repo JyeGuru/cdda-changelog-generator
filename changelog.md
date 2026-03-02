@@ -1,3 +1,12 @@
+* fix some mutation orderings ([#85560](https://github.com/CleverRaven/Cataclysm-DDA/pull/85560))
+* fix bat ears not being ears, reduce ugliness ([#85563](https://github.com/CleverRaven/Cataclysm-DDA/pull/85563))
+* [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession ([#85611](https://github.com/CleverRaven/Cataclysm-DDA/pull/85611))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-02-0400 ([71cf15b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-0400))
+
+* Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
 
 ---
 
@@ -168,18 +177,8 @@
 #### Cataclysm-DDA experimental build 2026-02-26-0220 ([1944eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-0220))
 
 * [XE] Fixes opening keypad locked doors via deduction ([#85531](https://github.com/CleverRaven/Cataclysm-DDA/pull/85531))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-26-0109 ([dd1e430](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-0109))
-
 * Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
 * Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-26-0006 ([5abacd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-0006))
-
 * Set lit_level enum class to minimal size to save bytes in level_cache ([#85464](https://github.com/CleverRaven/Cataclysm-DDA/pull/85464))
 * Pat comments on and helps with Circuit Safari, and if they learn you're a cyborg, they start to tease you ([#85532](https://github.com/CleverRaven/Cataclysm-DDA/pull/85532))
 * Can't block attacks from creatures two sizes greater than you ([#85520](https://github.com/CleverRaven/Cataclysm-DDA/pull/85520))
@@ -217,18 +216,14 @@
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
 * Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
-* Mission from Rubik: download data from the Exodii ruin in the string dimension ([#85434](https://github.com/CleverRaven/Cataclysm-DDA/pull/85434))
 * Update professions.json ([#85452](https://github.com/CleverRaven/Cataclysm-DDA/pull/85452))
 * Added Power Storage and Metabolic Interchange to Razor Boy/Girl ([#85457](https://github.com/CleverRaven/Cataclysm-DDA/pull/85457))
 * Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants ([#85461](https://github.com/CleverRaven/Cataclysm-DDA/pull/85461))
 * Fix shapeshifted gear disappearing when you become `incorporeal` ([#85460](https://github.com/CleverRaven/Cataclysm-DDA/pull/85460))
 * Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
-* HEW report can trigger LIXA quest ([#85431](https://github.com/CleverRaven/Cataclysm-DDA/pull/85431))
 * Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
 * Fix spells not creating fields ([#85445](https://github.com/CleverRaven/Cataclysm-DDA/pull/85445))
 * [Sky Island × Tropicata] Warped Tropical Trees by @TreeChoppingModder ([#85437](https://github.com/CleverRaven/Cataclysm-DDA/pull/85437))
 * Armor shapeshifted into your form has a special message when trying to take it off ([#85446](https://github.com/CleverRaven/Cataclysm-DDA/pull/85446))
 * [MoM] Fix Sense Hostility end concentration ([#85442](https://github.com/CleverRaven/Cataclysm-DDA/pull/85442))
-* Fix string format specifier in inventory header ([#85433](https://github.com/CleverRaven/Cataclysm-DDA/pull/85433))
-* Rubik only offers CBM rewards if you have a CBM interface ([#85432](https://github.com/CleverRaven/Cataclysm-DDA/pull/85432))
