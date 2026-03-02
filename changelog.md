@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-02-2237 ([cb92bfa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-2237))
+
 * [MoM] Telekinetic huge attack blocking ([#85583](https://github.com/CleverRaven/Cataclysm-DDA/pull/85583))
 * Weekly Changelog 2026-02-23 to 2026-03-02 ([#85615](https://github.com/CleverRaven/Cataclysm-DDA/pull/85615))
 
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-02-26-2019 ([878ec98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-2019))
 
 * Add an infrequent, traveling CBM merchant to the Ancilla bar ([#85554](https://github.com/CleverRaven/Cataclysm-DDA/pull/85554))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-26-1910 ([d560125](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-1910))
-
 * Split Pat's dialogue into multiple files ([#85546](https://github.com/CleverRaven/Cataclysm-DDA/pull/85546))
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
 * [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active ([#85549](https://github.com/CleverRaven/Cataclysm-DDA/pull/85549))
