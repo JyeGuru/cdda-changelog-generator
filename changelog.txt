@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-02-1834 (951e1ed)
+* Respect external settings for character stat limits (#85618)
+
 Cataclysm-DDA experimental build 2026-03-02-0538 (fa289d1)
 * fix some mutation orderings (#85560)
 * fix bat ears not being ears, reduce ugliness (#85563)
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-02-26-1910 (d560125)
 
 Cataclysm-DDA experimental build 2026-02-26-1821 (a4f476c)
 * [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active (#85549)
-
-Cataclysm-DDA experimental build 2026-02-26-0301 (dcdf474)
 * [XE] Vampires with active Vigor Mortis can block huge attacks if they have superhuman strength (#85545)
 * Add IWYU suggested fixes to PRs via reviewdog (#85529)
 * [XE] Fixes opening keypad locked doors via deduction (#85531)
@@ -140,6 +141,5 @@ Cataclysm-DDA experimental build 2026-02-26-0301 (dcdf474)
 * Small copyedit (#85450)
 * Remove riot damage from robofac chop shop (#85451)
 * Fix spells not creating fields (#85445)
-* [Sky Island × Tropicata] Warped Tropical Trees by @TreeChoppingModder (#85437)
 * Armor shapeshifted into your form has a special message when trying to take it off (#85446)
 * [MoM] Fix Sense Hostility end concentration (#85442)
