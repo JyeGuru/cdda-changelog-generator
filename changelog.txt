@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-03-03-1500 (c8f4dec)
+* Add consistency checks for dangling references (#85591)
+
+Cataclysm-DDA experimental build 2026-03-03-1417 (fe3d524)
+* Converting Strings to Arrays (#85640)
+
 Cataclysm-DDA experimental build 2026-03-03-0535 (e289ec9)
 * Update nail making(camp-specific recipes) (#85598)
 * Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs (#85624)
@@ -87,11 +93,7 @@ Cataclysm-DDA experimental build 2026-02-27-1528 (af9b447)
 
 Cataclysm-DDA experimental build 2026-02-27-0635 (2fdcc5c)
 * Whitelist contents of Pocket (#85510)
-
-Cataclysm-DDA experimental build 2026-02-27-0551 (da1906f)
 * [MoM] If you have biokinetically-enhanced superhuman strength you can block huge attacks (#85543)
-
-Cataclysm-DDA experimental build 2026-02-27-0508 (59de2ea)
 * npcs don't get thick or thin skin (#85565)
 * Add integrated rabbit fur (#85562)
 * Skip test labeler for non-PR and cancelled workflow runs (#85557)
@@ -141,7 +143,5 @@ Cataclysm-DDA experimental build 2026-02-27-0508 (59de2ea)
 * Let players leave Smokes' conversation (#85473)
 * fix solar nest placement (#85474)
 * Batch zone sorting pickups from nearby sources (#85468)
-* Added Power Storage and Metabolic Interchange to Razor Boy/Girl (#85457)
 * Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants (#85461)
 * Fix shapeshifted gear disappearing when you become `incorporeal` (#85460)
-* Fix stacked integrated armor from cached enchantment mutations (#85455)

@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-03-1500 ([c8f4dec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-1500))
+
+* Add consistency checks for dangling references ([#85591](https://github.com/CleverRaven/Cataclysm-DDA/pull/85591))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-03-1417 ([fe3d524](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-1417))
+
+* Converting Strings to Arrays ([#85640](https://github.com/CleverRaven/Cataclysm-DDA/pull/85640))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-03-0535 ([e289ec9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-0535))
 
 * Update nail making(camp-specific recipes) ([#85598](https://github.com/CleverRaven/Cataclysm-DDA/pull/85598))
@@ -165,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-02-27-0635 ([2fdcc5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0635))
 
 * Whitelist contents of Pocket ([#85510](https://github.com/CleverRaven/Cataclysm-DDA/pull/85510))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-27-0551 ([da1906f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0551))
-
 * [MoM] If you have biokinetically-enhanced superhuman strength you can block huge attacks ([#85543](https://github.com/CleverRaven/Cataclysm-DDA/pull/85543))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-27-0508 ([59de2ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0508))
-
 * npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
 * Add integrated rabbit fur ([#85562](https://github.com/CleverRaven/Cataclysm-DDA/pull/85562))
 * Skip test labeler for non-PR and cancelled workflow runs ([#85557](https://github.com/CleverRaven/Cataclysm-DDA/pull/85557))
@@ -225,7 +227,5 @@
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
 * Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
-* Added Power Storage and Metabolic Interchange to Razor Boy/Girl ([#85457](https://github.com/CleverRaven/Cataclysm-DDA/pull/85457))
 * Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants ([#85461](https://github.com/CleverRaven/Cataclysm-DDA/pull/85461))
 * Fix shapeshifted gear disappearing when you become `incorporeal` ([#85460](https://github.com/CleverRaven/Cataclysm-DDA/pull/85460))
-* Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
