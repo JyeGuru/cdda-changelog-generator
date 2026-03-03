@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-03-0535 (e289ec9)
 * Update nail making(camp-specific recipes) (#85598)
 * Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs (#85624)
 * Fix various dialogue so players with `NO_CBM_INSTALLATION` can't get CBM interfaces (#85626)
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2026-02-27-0551 (da1906f)
 
 Cataclysm-DDA experimental build 2026-02-27-0508 (59de2ea)
 * npcs don't get thick or thin skin (#85565)
-
-Cataclysm-DDA experimental build 2026-02-27-0411 (5a1f6af)
 * Add integrated rabbit fur (#85562)
 * Skip test labeler for non-PR and cancelled workflow runs (#85557)
 * make fluffy tail ugly (#85561)
