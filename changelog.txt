@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-03-03-0135 (b9bbda8)
+* Remove ability to toggle map memory from the players control (#85612)
+
+Cataclysm-DDA experimental build 2026-03-03-0015 (fdbcd55)
+* Don't strip the entire binary, only strip debug symbols and locals (#85637)
+
 Cataclysm-DDA experimental build 2026-03-02-2237 (cb92bfa)
 * [MoM] Telekinetic huge attack blocking (#85583)
 * Weekly Changelog 2026-02-23 to 2026-03-02 (#85615)
@@ -85,11 +91,7 @@ Cataclysm-DDA experimental build 2026-02-27-0411 (5a1f6af)
 
 Cataclysm-DDA experimental build 2026-02-27-0200 (c151eef)
 * make fluffy tail ugly (#85561)
-
-Cataclysm-DDA experimental build 2026-02-27-0110 (2607ad8)
 * [Xedra Evolved] Arvore in the woods can block huge attacks if they have Might of the Ancient Tree (and are post-threshold) (#85559)
-
-Cataclysm-DDA experimental build 2026-02-26-2019 (878ec98)
 * Add an infrequent, traveling CBM merchant to the Ancilla bar (#85554)
 * Split Pat's dialogue into multiple files (#85546)
 * Some extra tales to tell the drinking veterans at the Ancilla Bar (#85555)
@@ -121,7 +123,6 @@ Cataclysm-DDA experimental build 2026-02-26-2019 (878ec98)
 * Blocking costs Stamina (#85490)
 * Improve the consistency of the period using in the description sentences in "set_string_var" (#85483)
 * Change most military profession requirements from Military Bunker to … (#85485)
-* Make it clear that Anus Fetick is an optional path to the CBM interface, and let a player still complete it if they get the interface another way (#85447)
 * Give player tips and hints about cardinal directions in relation to ocean and urbanization #85475 (#85486)
 * [MoM] Add the hopalong, a teleporting wild rabbit (#85484)
 * zone sort: refuse overflow and respect zone binding during drops (#85466)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2026-02-26-2019 (878ec98)
 * Fix stacked integrated armor from cached enchantment mutations (#85455)
 * Small copyedit (#85450)
 * Remove riot damage from robofac chop shop (#85451)
-* Armor shapeshifted into your form has a special message when trying to take it off (#85446)

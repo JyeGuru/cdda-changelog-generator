@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-03-0135 ([b9bbda8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-0135))
+
+* Remove ability to toggle map memory from the players control ([#85612](https://github.com/CleverRaven/Cataclysm-DDA/pull/85612))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-03-0015 ([fdbcd55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-0015))
+
+* Don't strip the entire binary, only strip debug symbols and locals ([#85637](https://github.com/CleverRaven/Cataclysm-DDA/pull/85637))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-02-2237 ([cb92bfa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-2237))
 
 * [MoM] Telekinetic huge attack blocking ([#85583](https://github.com/CleverRaven/Cataclysm-DDA/pull/85583))
@@ -163,17 +175,7 @@
 #### Cataclysm-DDA experimental build 2026-02-27-0200 ([c151eef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0200))
 
 * make fluffy tail ugly ([#85561](https://github.com/CleverRaven/Cataclysm-DDA/pull/85561))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-27-0110 ([2607ad8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0110))
-
 * [Xedra Evolved] Arvore in the woods can block huge attacks if they have Might of the Ancient Tree (and are post-threshold) ([#85559](https://github.com/CleverRaven/Cataclysm-DDA/pull/85559))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-26-2019 ([878ec98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-26-2019))
-
 * Add an infrequent, traveling CBM merchant to the Ancilla bar ([#85554](https://github.com/CleverRaven/Cataclysm-DDA/pull/85554))
 * Split Pat's dialogue into multiple files ([#85546](https://github.com/CleverRaven/Cataclysm-DDA/pull/85546))
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
@@ -205,7 +207,6 @@
 * Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
 * Improve the consistency of the period using in the description sentences in "set_string_var" ([#85483](https://github.com/CleverRaven/Cataclysm-DDA/pull/85483))
 * Change most military profession requirements from Military Bunker to … ([#85485](https://github.com/CleverRaven/Cataclysm-DDA/pull/85485))
-* Make it clear that Anus Fetick is an optional path to the CBM interface, and let a player still complete it if they get the interface another way ([#85447](https://github.com/CleverRaven/Cataclysm-DDA/pull/85447))
 * Give player tips and hints about cardinal directions in relation to ocean and urbanization #85475 ([#85486](https://github.com/CleverRaven/Cataclysm-DDA/pull/85486))
 * [MoM] Add the hopalong, a teleporting wild rabbit ([#85484](https://github.com/CleverRaven/Cataclysm-DDA/pull/85484))
 * zone sort: refuse overflow and respect zone binding during drops ([#85466](https://github.com/CleverRaven/Cataclysm-DDA/pull/85466))
@@ -226,4 +227,3 @@
 * Fix stacked integrated armor from cached enchantment mutations ([#85455](https://github.com/CleverRaven/Cataclysm-DDA/pull/85455))
 * Small copyedit ([#85450](https://github.com/CleverRaven/Cataclysm-DDA/pull/85450))
 * Remove riot damage from robofac chop shop ([#85451](https://github.com/CleverRaven/Cataclysm-DDA/pull/85451))
-* Armor shapeshifted into your form has a special message when trying to take it off ([#85446](https://github.com/CleverRaven/Cataclysm-DDA/pull/85446))
