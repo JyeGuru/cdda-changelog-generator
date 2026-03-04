@@ -204,7 +204,6 @@
 * update Hub 01 robot descriptions ([#85519](https://github.com/CleverRaven/Cataclysm-DDA/pull/85519))
 * remove lava from mines ([#85513](https://github.com/CleverRaven/Cataclysm-DDA/pull/85513))
 * Buff coiling star vampires ([#85511](https://github.com/CleverRaven/Cataclysm-DDA/pull/85511))
-* Update zed_fusion.json ([#85467](https://github.com/CleverRaven/Cataclysm-DDA/pull/85467))
 * Add raptor muzzle (actually reptilian muzzle) ([#85515](https://github.com/CleverRaven/Cataclysm-DDA/pull/85515))
 * Add "welding_kit" to recipes that already use "welder" ([#85516](https://github.com/CleverRaven/Cataclysm-DDA/pull/85516))
 * Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
