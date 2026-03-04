@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-04-1546 ([c1c7cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-1546))
+
+* Use A* route distances for zone sort batching ([#85619](https://github.com/CleverRaven/Cataclysm-DDA/pull/85619))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-03-04-1543 ([e842542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-04-1543))
+
+* 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-04-1325 ([5880d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-1325))
 
 * Alien meadow connect groups ([#85645](https://github.com/CleverRaven/Cataclysm-DDA/pull/85645))
@@ -165,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-02-28-0041 ([0ef2270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0041))
 
 * Pat can replace lost/damaged AR glasses/earpiece ([#85577](https://github.com/CleverRaven/Cataclysm-DDA/pull/85577))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-27-2122 ([9c1dec4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-2122))
-
 * Fix nondeterministic mutable overmap special placement ([#85556](https://github.com/CleverRaven/Cataclysm-DDA/pull/85556))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-27-2019 ([cde42bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-2019))
-
 * HEW report for void spider dimension ([#85580](https://github.com/CleverRaven/Cataclysm-DDA/pull/85580))
 * Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
 * Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
@@ -196,7 +198,6 @@
 * [XE] Fixes opening keypad locked doors via deduction ([#85531](https://github.com/CleverRaven/Cataclysm-DDA/pull/85531))
 * Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
 * Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
-* Set lit_level enum class to minimal size to save bytes in level_cache ([#85464](https://github.com/CleverRaven/Cataclysm-DDA/pull/85464))
 * Pat comments on and helps with Circuit Safari, and if they learn you're a cyborg, they start to tease you ([#85532](https://github.com/CleverRaven/Cataclysm-DDA/pull/85532))
 * Can't block attacks from creatures two sizes greater than you ([#85520](https://github.com/CleverRaven/Cataclysm-DDA/pull/85520))
 * Completely remove legacy point pools from character creation ([#85528](https://github.com/CleverRaven/Cataclysm-DDA/pull/85528))
@@ -220,7 +221,6 @@
 * Change most military profession requirements from Military Bunker to … ([#85485](https://github.com/CleverRaven/Cataclysm-DDA/pull/85485))
 * Give player tips and hints about cardinal directions in relation to ocean and urbanization #85475 ([#85486](https://github.com/CleverRaven/Cataclysm-DDA/pull/85486))
 * [MoM] Add the hopalong, a teleporting wild rabbit ([#85484](https://github.com/CleverRaven/Cataclysm-DDA/pull/85484))
-* zone sort: refuse overflow and respect zone binding during drops ([#85466](https://github.com/CleverRaven/Cataclysm-DDA/pull/85466))
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
 * Fix surroundings menu hanging on languages with non-latin scripts ([#85471](https://github.com/CleverRaven/Cataclysm-DDA/pull/85471))
 * Fix fire starting deleting firewood instead of fueling the fire ([#85479](https://github.com/CleverRaven/Cataclysm-DDA/pull/85479))
