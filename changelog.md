@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-04-0130 ([ede52f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0130))
+
+* Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-04-0031 ([6a7354c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0031))
+
+* Use -fvisibility=hidden to shrink binary size further than bare `strip` ([#85638](https://github.com/CleverRaven/Cataclysm-DDA/pull/85638))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-03-1500 ([c8f4dec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-1500))
 
 * Add consistency checks for dangling references ([#85591](https://github.com/CleverRaven/Cataclysm-DDA/pull/85591))
@@ -165,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-02-27-1821 ([3b0dbf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1821))
 
 * Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-27-1528 ([af9b447](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1528))
-
 * Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-27-0635 ([2fdcc5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-0635))
-
 * Whitelist contents of Pocket ([#85510](https://github.com/CleverRaven/Cataclysm-DDA/pull/85510))
 * [MoM] If you have biokinetically-enhanced superhuman strength you can block huge attacks ([#85543](https://github.com/CleverRaven/Cataclysm-DDA/pull/85543))
 * npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
@@ -228,4 +230,3 @@
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
 * Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
 * Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants ([#85461](https://github.com/CleverRaven/Cataclysm-DDA/pull/85461))
-* Fix shapeshifted gear disappearing when you become `incorporeal` ([#85460](https://github.com/CleverRaven/Cataclysm-DDA/pull/85460))
