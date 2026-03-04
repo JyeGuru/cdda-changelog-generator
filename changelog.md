@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-04-0417 ([86edf03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0417))
+
+* Preserve horde entities on failed placement, fix flaky monster test ([#85602](https://github.com/CleverRaven/Cataclysm-DDA/pull/85602))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-04-0130 ([ede52f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0130))
 
 * Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-02-27-1900 ([a8bc91b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1900))
 
 * Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-27-1821 ([3b0dbf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-27-1821))
-
 * Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
 * Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
 * Whitelist contents of Pocket ([#85510](https://github.com/CleverRaven/Cataclysm-DDA/pull/85510))
@@ -229,4 +230,3 @@
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
 * Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
-* Add `MUTATED_ANATOMY_ONLY` flag for gear that can only be worn by mutants ([#85461](https://github.com/CleverRaven/Cataclysm-DDA/pull/85461))
