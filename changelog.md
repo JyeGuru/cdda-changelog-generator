@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-05-2103 ([dbb8970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-2103))
+
+* Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-05-1007 ([334a965](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-1007))
 
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
@@ -178,11 +184,6 @@
 
 * Yote the Goofy Surv mess kit ([#85569](https://github.com/CleverRaven/Cataclysm-DDA/pull/85569))
 * Update crafting test to remove survival mess kit ([#85570](https://github.com/CleverRaven/Cataclysm-DDA/pull/85570))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-0822 ([e63f528](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0822))
-
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
 * Hub 01 CBM interface & autodoc spawning overhaul ([#85539](https://github.com/CleverRaven/Cataclysm-DDA/pull/85539))
 * Add parabolic solar cooker (deployable, fuel-free heat source) ([#85542](https://github.com/CleverRaven/Cataclysm-DDA/pull/85542))
@@ -228,4 +229,3 @@
 * Fix zone sorting loops and premature termination ([#85504](https://github.com/CleverRaven/Cataclysm-DDA/pull/85504))
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
 * Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
-* Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
