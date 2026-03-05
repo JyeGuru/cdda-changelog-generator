@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-05-0447 ([37226da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-0447))
+
+* Fix multicooker segfault by flattening nested recipes in its UI ([#85623](https://github.com/CleverRaven/Cataclysm-DDA/pull/85623))
+* Tweak Pat's accent a bit (Pat says "Fahk") ([#85663](https://github.com/CleverRaven/Cataclysm-DDA/pull/85663))
+* make nail amounts more realistic ([#85631](https://github.com/CleverRaven/Cataclysm-DDA/pull/85631))
+* Grab-aware pathfinding: danger checks, strength gating, auto-move integration ([#85642](https://github.com/CleverRaven/Cataclysm-DDA/pull/85642))
+* calculate additional_pocket_encumbrance correctly ([#85646](https://github.com/CleverRaven/Cataclysm-DDA/pull/85646))
+* Fix flaky liquid_projectiles_applies_effect test ([#85676](https://github.com/CleverRaven/Cataclysm-DDA/pull/85676))
+* Fix flaky dormant monster materialization test ([#85678](https://github.com/CleverRaven/Cataclysm-DDA/pull/85678))
 * Update Rubik's mission dialogue to allow easier mission branching ([#85649](https://github.com/CleverRaven/Cataclysm-DDA/pull/85649))
 
 ---
@@ -172,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-02-28-0742 ([7cadb07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0742))
 
 * Hub 01 CBM interface & autodoc spawning overhaul ([#85539](https://github.com/CleverRaven/Cataclysm-DDA/pull/85539))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-0414 ([361eedc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0414))
-
 * Add parabolic solar cooker (deployable, fuel-free heat source) ([#85542](https://github.com/CleverRaven/Cataclysm-DDA/pull/85542))
 * Fix CI skip-detection refs, Makefile parallel safety, and test tag syntax ([#85521](https://github.com/CleverRaven/Cataclysm-DDA/pull/85521))
 * Pat notices and comments if you vanish to the void spider lair with transponder active ([#85578](https://github.com/CleverRaven/Cataclysm-DDA/pull/85578))
@@ -221,11 +228,4 @@
 * Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
 * Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
 * Blocking costs Stamina ([#85490](https://github.com/CleverRaven/Cataclysm-DDA/pull/85490))
-* Improve the consistency of the period using in the description sentences in "set_string_var" ([#85483](https://github.com/CleverRaven/Cataclysm-DDA/pull/85483))
-* Change most military profession requirements from Military Bunker to … ([#85485](https://github.com/CleverRaven/Cataclysm-DDA/pull/85485))
-* Give player tips and hints about cardinal directions in relation to ocean and urbanization #85475 ([#85486](https://github.com/CleverRaven/Cataclysm-DDA/pull/85486))
-* [MoM] Add the hopalong, a teleporting wild rabbit ([#85484](https://github.com/CleverRaven/Cataclysm-DDA/pull/85484))
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
-* Fix fire starting deleting firewood instead of fueling the fire ([#85479](https://github.com/CleverRaven/Cataclysm-DDA/pull/85479))
-* fix typo in terminal dialogue ([#85481](https://github.com/CleverRaven/Cataclysm-DDA/pull/85481))
-* fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
