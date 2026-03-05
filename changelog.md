@@ -1,3 +1,17 @@
+* Update Rubik's mission dialogue to allow easier mission branching ([#85649](https://github.com/CleverRaven/Cataclysm-DDA/pull/85649))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-05-0404 ([c679879](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-0404))
+
+* Pat talks to you about POIs through dialogue, not `u_message` ([#85648](https://github.com/CleverRaven/Cataclysm-DDA/pull/85648))
+* 10 more shipping containers (up to 119 varieties) ([#85664](https://github.com/CleverRaven/Cataclysm-DDA/pull/85664))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-05-0305 ([024dfdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-0305))
+
+* Traits can control skill display ([#85659](https://github.com/CleverRaven/Cataclysm-DDA/pull/85659))
 
 ---
 
@@ -165,17 +179,7 @@
 
 * Add parabolic solar cooker (deployable, fuel-free heat source) ([#85542](https://github.com/CleverRaven/Cataclysm-DDA/pull/85542))
 * Fix CI skip-detection refs, Makefile parallel safety, and test tag syntax ([#85521](https://github.com/CleverRaven/Cataclysm-DDA/pull/85521))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-0324 ([c997d0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0324))
-
 * Pat notices and comments if you vanish to the void spider lair with transponder active ([#85578](https://github.com/CleverRaven/Cataclysm-DDA/pull/85578))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-0132 ([9eda2e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0132))
-
 * Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
 * Pat can replace lost/damaged AR glasses/earpiece ([#85577](https://github.com/CleverRaven/Cataclysm-DDA/pull/85577))
 * Fix nondeterministic mutable overmap special placement ([#85556](https://github.com/CleverRaven/Cataclysm-DDA/pull/85556))
@@ -222,10 +226,6 @@
 * Give player tips and hints about cardinal directions in relation to ocean and urbanization #85475 ([#85486](https://github.com/CleverRaven/Cataclysm-DDA/pull/85486))
 * [MoM] Add the hopalong, a teleporting wild rabbit ([#85484](https://github.com/CleverRaven/Cataclysm-DDA/pull/85484))
 * [Bombastic Perks] Fix Blood of the Forge text ([#85488](https://github.com/CleverRaven/Cataclysm-DDA/pull/85488))
-* Fix surroundings menu hanging on languages with non-latin scripts ([#85471](https://github.com/CleverRaven/Cataclysm-DDA/pull/85471))
 * Fix fire starting deleting firewood instead of fueling the fire ([#85479](https://github.com/CleverRaven/Cataclysm-DDA/pull/85479))
 * fix typo in terminal dialogue ([#85481](https://github.com/CleverRaven/Cataclysm-DDA/pull/85481))
-* Fix one typo in src/character_attire.cpp ([#85469](https://github.com/CleverRaven/Cataclysm-DDA/pull/85469))
-* Fix auto-move through vehicle doors and sort vehicle cargo from terrain zones ([#85472](https://github.com/CleverRaven/Cataclysm-DDA/pull/85472))
-* Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
