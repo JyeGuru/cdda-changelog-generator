@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-03-05-0143 ([c24954b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-05-0143))
+
+* 0.I Backport #83734 and #83737 (fix MacOS releases) ([#85670](https://github.com/CleverRaven/Cataclysm-DDA/pull/85670))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-04-1546 ([c1c7cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-1546))
 
 * Use A* route distances for zone sort batching ([#85619](https://github.com/CleverRaven/Cataclysm-DDA/pull/85619))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-02-28-0132 ([9eda2e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0132))
 
 * Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-0041 ([0ef2270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-0041))
-
 * Pat can replace lost/damaged AR glasses/earpiece ([#85577](https://github.com/CleverRaven/Cataclysm-DDA/pull/85577))
 * Fix nondeterministic mutable overmap special placement ([#85556](https://github.com/CleverRaven/Cataclysm-DDA/pull/85556))
 * HEW report for void spider dimension ([#85580](https://github.com/CleverRaven/Cataclysm-DDA/pull/85580))
@@ -228,4 +229,3 @@
 * Fix auto-move through vehicle doors and sort vehicle cargo from terrain zones ([#85472](https://github.com/CleverRaven/Cataclysm-DDA/pull/85472))
 * Let players leave Smokes' conversation ([#85473](https://github.com/CleverRaven/Cataclysm-DDA/pull/85473))
 * fix solar nest placement ([#85474](https://github.com/CleverRaven/Cataclysm-DDA/pull/85474))
-* Batch zone sorting pickups from nearby sources ([#85468](https://github.com/CleverRaven/Cataclysm-DDA/pull/85468))
