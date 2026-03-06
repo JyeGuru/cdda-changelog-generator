@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-06-1737 (f04df07)
+* Fix being able to skip over the LIXA fall EOC (#85705)
+
 Cataclysm-DDA experimental build 2026-03-06-1435 (9a0028b)
 * Bombastic Perks: Yeoman perk (#85656)
 * Fix flaky vehicle_ramp_test by clearing items on non-zero z-levels (#85691)
@@ -107,15 +110,12 @@ Cataclysm-DDA experimental build 2026-03-02-2139 (cdf3a62)
 
 Cataclysm-DDA experimental build 2026-03-02-1834 (951e1ed)
 * Respect external settings for character stat limits (#85618)
-
-Cataclysm-DDA experimental build 2026-03-02-0538 (fa289d1)
 * fix some mutation orderings (#85560)
 * fix bat ears not being ears, reduce ugliness (#85563)
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession (#85611)
 * Fix overmap determinism test failure from static city init (#85607)
 * Broken nanofab in collapsed office tower (#85572)
 * Remove tileset scheduled update workflow (#85601)
-* Update vendored Catch2 to v2.13.10 (#85522)
 * Fix cmake pch compilation to avoid accidentally building as C (#85594)
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. (#85587)
 * more apis adjustments (#85564)

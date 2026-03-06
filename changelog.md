@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-06-1737 ([f04df07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1737))
+
+* Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-06-1435 ([9a0028b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1435))
 
 * Bombastic Perks: Yeoman perk ([#85656](https://github.com/CleverRaven/Cataclysm-DDA/pull/85656))
@@ -194,18 +200,12 @@
 #### Cataclysm-DDA experimental build 2026-03-02-1834 ([951e1ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-1834))
 
 * Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-02-0538 ([fa289d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-0538))
-
 * fix some mutation orderings ([#85560](https://github.com/CleverRaven/Cataclysm-DDA/pull/85560))
 * fix bat ears not being ears, reduce ugliness ([#85563](https://github.com/CleverRaven/Cataclysm-DDA/pull/85563))
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession ([#85611](https://github.com/CleverRaven/Cataclysm-DDA/pull/85611))
 * Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
 * Broken nanofab in collapsed office tower ([#85572](https://github.com/CleverRaven/Cataclysm-DDA/pull/85572))
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
-* Update vendored Catch2 to v2.13.10 ([#85522](https://github.com/CleverRaven/Cataclysm-DDA/pull/85522))
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
 * more apis adjustments ([#85564](https://github.com/CleverRaven/Cataclysm-DDA/pull/85564))
