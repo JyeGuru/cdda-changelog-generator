@@ -1,6 +1,30 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-06-0337 ([08f2755](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0337))
+
+* Being poisoned penalizes your health ([#85523](https://github.com/CleverRaven/Cataclysm-DDA/pull/85523))
+* First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-03-06-0209 ([b3fdf2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-06-0209))
+
+* Port translations and credits to 0.I ([#85634](https://github.com/CleverRaven/Cataclysm-DDA/pull/85634))
+* [Xedra Evolved] Elemental magic rework:  Arvore ([#85657](https://github.com/CleverRaven/Cataclysm-DDA/pull/85657))
+* Use suggestion blocks for IWYU review comments ([#85671](https://github.com/CleverRaven/Cataclysm-DDA/pull/85671))
+* Fix test labeler failing on nonexistent label removal ([#85674](https://github.com/CleverRaven/Cataclysm-DDA/pull/85674))
+* [Sky Island] No HUB01 chop shop in sky island ([#85681](https://github.com/CleverRaven/Cataclysm-DDA/pull/85681))
+* Fix smoker/mill finalization on save off bubble ([#85683](https://github.com/CleverRaven/Cataclysm-DDA/pull/85683))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-06-0206 ([d6a7952](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0206))
+
+* [MoM] Fix VERDANT HAND working when you can't use psi ([#85687](https://github.com/CleverRaven/Cataclysm-DDA/pull/85687))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-05-2103 ([dbb8970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-2103))
 
 * Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
@@ -165,23 +189,8 @@
 
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Add weight gates to zone sort batching ([#85517](https://github.com/CleverRaven/Cataclysm-DDA/pull/85517))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-1831 ([695d7ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-1831))
-
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-1618 ([926cde9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-1618))
-
 * more apis adjustments ([#85564](https://github.com/CleverRaven/Cataclysm-DDA/pull/85564))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-1538 ([b58241a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-1538))
-
 * Yote the Goofy Surv mess kit ([#85569](https://github.com/CleverRaven/Cataclysm-DDA/pull/85569))
 * Update crafting test to remove survival mess kit ([#85570](https://github.com/CleverRaven/Cataclysm-DDA/pull/85570))
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
@@ -196,7 +205,6 @@
 * Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
 * Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
 * Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
-* Whitelist contents of Pocket ([#85510](https://github.com/CleverRaven/Cataclysm-DDA/pull/85510))
 * [MoM] If you have biokinetically-enhanced superhuman strength you can block huge attacks ([#85543](https://github.com/CleverRaven/Cataclysm-DDA/pull/85543))
 * npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
 * Add integrated rabbit fur ([#85562](https://github.com/CleverRaven/Cataclysm-DDA/pull/85562))
@@ -222,10 +230,3 @@
 * Add "welding_kit" to recipes that already use "welder" ([#85516](https://github.com/CleverRaven/Cataclysm-DDA/pull/85516))
 * Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
 * Challenge Scenario - Hunted by the Dead ([#85518](https://github.com/CleverRaven/Cataclysm-DDA/pull/85518))
-* Fix sub_body_part string extractor crash on copy-from ([#85506](https://github.com/CleverRaven/Cataclysm-DDA/pull/85506))
-* Fix hallula volume ([#85496](https://github.com/CleverRaven/Cataclysm-DDA/pull/85496))
-* Miscellaneous Megacity maintenance ([#85509](https://github.com/CleverRaven/Cataclysm-DDA/pull/85509))
-* fix incorrect string format ([#85507](https://github.com/CleverRaven/Cataclysm-DDA/pull/85507))
-* Fix zone sorting loops and premature termination ([#85504](https://github.com/CleverRaven/Cataclysm-DDA/pull/85504))
-* Weekly Changelog 2026-02-16 to 2026-02-23 ([#85495](https://github.com/CleverRaven/Cataclysm-DDA/pull/85495))
-* Stop NPCs teaching you unlearnable proficiencies ([#85498](https://github.com/CleverRaven/Cataclysm-DDA/pull/85498))
