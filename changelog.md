@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-06-1922 ([7a705a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1922))
+
+* Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-06-1737 ([f04df07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1737))
 
 * Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
@@ -38,12 +44,6 @@
 #### Cataclysm-DDA experimental build 2026-03-06-0444 ([9acc56c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0444))
 
 * Work to address #85666 ([#85672](https://github.com/CleverRaven/Cataclysm-DDA/pull/85672))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-06-0337 ([08f2755](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0337))
-
-* Being poisoned penalizes your health ([#85523](https://github.com/CleverRaven/Cataclysm-DDA/pull/85523))
 * First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
 
 ---
@@ -194,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2026-03-02-2139 ([cdf3a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-2139))
 
 * Show molle capacity in item info ([#85621](https://github.com/CleverRaven/Cataclysm-DDA/pull/85621))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-02-1834 ([951e1ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-1834))
-
 * Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
 * fix some mutation orderings ([#85560](https://github.com/CleverRaven/Cataclysm-DDA/pull/85560))
 * fix bat ears not being ears, reduce ugliness ([#85563](https://github.com/CleverRaven/Cataclysm-DDA/pull/85563))
@@ -239,4 +234,3 @@
 * Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
 * Pat comments on and helps with Circuit Safari, and if they learn you're a cyborg, they start to tease you ([#85532](https://github.com/CleverRaven/Cataclysm-DDA/pull/85532))
 * Completely remove legacy point pools from character creation ([#85528](https://github.com/CleverRaven/Cataclysm-DDA/pull/85528))
-* Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
