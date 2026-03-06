@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-06-1051 ([93af9d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1051))
+
+* Add static check for nested mapgen furniture overlaps ([#85677](https://github.com/CleverRaven/Cataclysm-DDA/pull/85677))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-06-1001 ([4b994b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1001))
 
 * Digging up graves takes a very, very long time ([#85695](https://github.com/CleverRaven/Cataclysm-DDA/pull/85695))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-03-02-0400 ([71cf15b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-0400))
 
 * Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-02-0107 ([152f8e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-02-0107))
-
 * Broken nanofab in collapsed office tower ([#85572](https://github.com/CleverRaven/Cataclysm-DDA/pull/85572))
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
 * Update vendored Catch2 to v2.13.10 ([#85522](https://github.com/CleverRaven/Cataclysm-DDA/pull/85522))
@@ -231,7 +232,6 @@
 * Can't block attacks from creatures two sizes greater than you ([#85520](https://github.com/CleverRaven/Cataclysm-DDA/pull/85520))
 * Completely remove legacy point pools from character creation ([#85528](https://github.com/CleverRaven/Cataclysm-DDA/pull/85528))
 * update Hub 01 robot descriptions ([#85519](https://github.com/CleverRaven/Cataclysm-DDA/pull/85519))
-* Add raptor muzzle (actually reptilian muzzle) ([#85515](https://github.com/CleverRaven/Cataclysm-DDA/pull/85515))
 * Add "welding_kit" to recipes that already use "welder" ([#85516](https://github.com/CleverRaven/Cataclysm-DDA/pull/85516))
 * Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
 * Challenge Scenario - Hunted by the Dead ([#85518](https://github.com/CleverRaven/Cataclysm-DDA/pull/85518))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-06-1051 (93af9d5)
+* Add static check for nested mapgen furniture overlaps (#85677)
+
 Cataclysm-DDA experimental build 2026-03-06-1001 (4b994b3)
 * Digging up graves takes a very, very long time (#85695)
 
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2026-03-02-0538 (fa289d1)
 
 Cataclysm-DDA experimental build 2026-03-02-0400 (71cf15b)
 * Fix overmap determinism test failure from static city init (#85607)
-
-Cataclysm-DDA experimental build 2026-03-02-0107 (152f8e6)
 * Broken nanofab in collapsed office tower (#85572)
 * Remove tileset scheduled update workflow (#85601)
 * Update vendored Catch2 to v2.13.10 (#85522)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2026-03-02-0107 (152f8e6)
 * Can't block attacks from creatures two sizes greater than you (#85520)
 * Completely remove legacy point pools from character creation (#85528)
 * update Hub 01 robot descriptions (#85519)
-* Add raptor muzzle (actually reptilian muzzle) (#85515)
 * Add "welding_kit" to recipes that already use "welder" (#85516)
 * Add bounds checks for fake_part_at before indexing into parts (#85524)
 * Challenge Scenario - Hunted by the Dead (#85518)
