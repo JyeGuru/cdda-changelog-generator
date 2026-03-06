@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-06-2107 (e2beb27)
+* Add --rng-seed-fuzz to test runner (#85673)
+
 Cataclysm-DDA experimental build 2026-03-06-1922 (7a705a7)
 * Filter item info body part display by viewer anatomy (#85707)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2026-03-03-0015 (fdbcd55)
 Cataclysm-DDA experimental build 2026-03-02-2237 (cb92bfa)
 * [MoM] Telekinetic huge attack blocking (#85583)
 * Weekly Changelog 2026-02-23 to 2026-03-02 (#85615)
-
-Cataclysm-DDA experimental build 2026-03-02-2139 (cdf3a62)
 * Show molle capacity in item info (#85621)
 * Respect external settings for character stat limits (#85618)
 * fix some mutation orderings (#85560)
