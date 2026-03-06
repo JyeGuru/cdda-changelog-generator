@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-06-1435 ([9a0028b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1435))
+
 * Bombastic Perks: Yeoman perk ([#85656](https://github.com/CleverRaven/Cataclysm-DDA/pull/85656))
 * Fix flaky vehicle_ramp_test by clearing items on non-zero z-levels ([#85691](https://github.com/CleverRaven/Cataclysm-DDA/pull/85691))
 * Fix main pathfinder routing through open air on upper floors ([#85692](https://github.com/CleverRaven/Cataclysm-DDA/pull/85692))
