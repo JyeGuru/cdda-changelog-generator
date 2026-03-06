@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-06-0444 ([9acc56c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0444))
+
+* Work to address #85666 ([#85672](https://github.com/CleverRaven/Cataclysm-DDA/pull/85672))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-06-0337 ([08f2755](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0337))
 
 * Being poisoned penalizes your health ([#85523](https://github.com/CleverRaven/Cataclysm-DDA/pull/85523))
@@ -182,11 +188,6 @@
 * Broken nanofab in collapsed office tower ([#85572](https://github.com/CleverRaven/Cataclysm-DDA/pull/85572))
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
 * Update vendored Catch2 to v2.13.10 ([#85522](https://github.com/CleverRaven/Cataclysm-DDA/pull/85522))
-
----
-
-#### Cataclysm-DDA experimental build 2026-02-28-1945 ([8e43e9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-02-28-1945))
-
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Add weight gates to zone sort batching ([#85517](https://github.com/CleverRaven/Cataclysm-DDA/pull/85517))
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
@@ -225,7 +226,6 @@
 * Completely remove legacy point pools from character creation ([#85528](https://github.com/CleverRaven/Cataclysm-DDA/pull/85528))
 * update Hub 01 robot descriptions ([#85519](https://github.com/CleverRaven/Cataclysm-DDA/pull/85519))
 * remove lava from mines ([#85513](https://github.com/CleverRaven/Cataclysm-DDA/pull/85513))
-* Buff coiling star vampires ([#85511](https://github.com/CleverRaven/Cataclysm-DDA/pull/85511))
 * Add raptor muzzle (actually reptilian muzzle) ([#85515](https://github.com/CleverRaven/Cataclysm-DDA/pull/85515))
 * Add "welding_kit" to recipes that already use "welder" ([#85516](https://github.com/CleverRaven/Cataclysm-DDA/pull/85516))
 * Add bounds checks for fake_part_at before indexing into parts ([#85524](https://github.com/CleverRaven/Cataclysm-DDA/pull/85524))
