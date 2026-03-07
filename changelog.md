@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-07-1900 ([a06069a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1900))
+
 * Fix segfault after failed out-of-bounds teleport ([#85716](https://github.com/CleverRaven/Cataclysm-DDA/pull/85716))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-03-04-0417 ([86edf03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0417))
 
 * Preserve horde entities on failed placement, fix flaky monster test ([#85602](https://github.com/CleverRaven/Cataclysm-DDA/pull/85602))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-04-0130 ([ede52f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0130))
-
 * Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
 * Use -fvisibility=hidden to shrink binary size further than bare `strip` ([#85638](https://github.com/CleverRaven/Cataclysm-DDA/pull/85638))
 * Add consistency checks for dangling references ([#85591](https://github.com/CleverRaven/Cataclysm-DDA/pull/85591))
