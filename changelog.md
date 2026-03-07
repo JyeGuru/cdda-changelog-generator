@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-07-1251 ([888c70f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1251))
+
+* Move Feathered Arms to limbs ([#85613](https://github.com/CleverRaven/Cataclysm-DDA/pull/85613))
+* Furniture mass: Part 2 ([#85718](https://github.com/CleverRaven/Cataclysm-DDA/pull/85718))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-07-0615 ([35fd4f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0615))
 
 * [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
@@ -179,17 +186,7 @@
 #### Cataclysm-DDA experimental build 2026-03-04-0031 ([6a7354c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0031))
 
 * Use -fvisibility=hidden to shrink binary size further than bare `strip` ([#85638](https://github.com/CleverRaven/Cataclysm-DDA/pull/85638))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-03-1500 ([c8f4dec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-1500))
-
 * Add consistency checks for dangling references ([#85591](https://github.com/CleverRaven/Cataclysm-DDA/pull/85591))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-03-1417 ([fe3d524](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-1417))
-
 * Converting Strings to Arrays ([#85640](https://github.com/CleverRaven/Cataclysm-DDA/pull/85640))
 * Update nail making(camp-specific recipes) ([#85598](https://github.com/CleverRaven/Cataclysm-DDA/pull/85598))
 * Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs ([#85624](https://github.com/CleverRaven/Cataclysm-DDA/pull/85624))
