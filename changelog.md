@@ -1,3 +1,4 @@
+* Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
 
 ---
 
@@ -229,7 +230,5 @@
 * make fluffy tail ugly ([#85561](https://github.com/CleverRaven/Cataclysm-DDA/pull/85561))
 * [Xedra Evolved] Arvore in the woods can block huge attacks if they have Might of the Ancient Tree (and are post-threshold) ([#85559](https://github.com/CleverRaven/Cataclysm-DDA/pull/85559))
 * Add an infrequent, traveling CBM merchant to the Ancilla bar ([#85554](https://github.com/CleverRaven/Cataclysm-DDA/pull/85554))
-* Split Pat's dialogue into multiple files ([#85546](https://github.com/CleverRaven/Cataclysm-DDA/pull/85546))
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
 * [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active ([#85549](https://github.com/CleverRaven/Cataclysm-DDA/pull/85549))
-* Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
