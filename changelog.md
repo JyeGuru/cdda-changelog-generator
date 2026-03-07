@@ -1,3 +1,10 @@
+* Fix segfault after failed out-of-bounds teleport ([#85716](https://github.com/CleverRaven/Cataclysm-DDA/pull/85716))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-07-1819 ([e2a00ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1819))
+
+* string dimension ziggurats v3 ([#85717](https://github.com/CleverRaven/Cataclysm-DDA/pull/85717))
 
 ---
 
@@ -182,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-03-04-0130 ([ede52f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0130))
 
 * Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-04-0031 ([6a7354c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0031))
-
 * Use -fvisibility=hidden to shrink binary size further than bare `strip` ([#85638](https://github.com/CleverRaven/Cataclysm-DDA/pull/85638))
 * Add consistency checks for dangling references ([#85591](https://github.com/CleverRaven/Cataclysm-DDA/pull/85591))
 * Converting Strings to Arrays ([#85640](https://github.com/CleverRaven/Cataclysm-DDA/pull/85640))
@@ -213,7 +215,6 @@
 * Yote the Goofy Surv mess kit ([#85569](https://github.com/CleverRaven/Cataclysm-DDA/pull/85569))
 * Update crafting test to remove survival mess kit ([#85570](https://github.com/CleverRaven/Cataclysm-DDA/pull/85570))
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
-* Add parabolic solar cooker (deployable, fuel-free heat source) ([#85542](https://github.com/CleverRaven/Cataclysm-DDA/pull/85542))
 * Pat notices and comments if you vanish to the void spider lair with transponder active ([#85578](https://github.com/CleverRaven/Cataclysm-DDA/pull/85578))
 * Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
 * Pat can replace lost/damaged AR glasses/earpiece ([#85577](https://github.com/CleverRaven/Cataclysm-DDA/pull/85577))
@@ -222,7 +223,6 @@
 * Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
 * Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
 * Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
-* [MoM] If you have biokinetically-enhanced superhuman strength you can block huge attacks ([#85543](https://github.com/CleverRaven/Cataclysm-DDA/pull/85543))
 * npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
 * Add integrated rabbit fur ([#85562](https://github.com/CleverRaven/Cataclysm-DDA/pull/85562))
 * Skip test labeler for non-PR and cancelled workflow runs ([#85557](https://github.com/CleverRaven/Cataclysm-DDA/pull/85557))
@@ -232,5 +232,4 @@
 * Split Pat's dialogue into multiple files ([#85546](https://github.com/CleverRaven/Cataclysm-DDA/pull/85546))
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
 * [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active ([#85549](https://github.com/CleverRaven/Cataclysm-DDA/pull/85549))
-* [XE] Vampires with active Vigor Mortis can block huge attacks if they have superhuman strength ([#85545](https://github.com/CleverRaven/Cataclysm-DDA/pull/85545))
 * Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
