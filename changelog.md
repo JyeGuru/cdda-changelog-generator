@@ -176,11 +176,6 @@
 #### Cataclysm-DDA 0.I release candidate 2026-03-05-0143 ([c24954b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-05-0143))
 
 * 0.I Backport #83734 and #83737 (fix MacOS releases) ([#85670](https://github.com/CleverRaven/Cataclysm-DDA/pull/85670))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-04-1546 ([c1c7cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-1546))
-
 * Use A* route distances for zone sort batching ([#85619](https://github.com/CleverRaven/Cataclysm-DDA/pull/85619))
 * 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
 * Alien meadow connect groups ([#85645](https://github.com/CleverRaven/Cataclysm-DDA/pull/85645))
