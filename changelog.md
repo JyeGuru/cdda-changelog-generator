@@ -220,5 +220,4 @@
 * Skip test labeler for non-PR and cancelled workflow runs ([#85557](https://github.com/CleverRaven/Cataclysm-DDA/pull/85557))
 * make fluffy tail ugly ([#85561](https://github.com/CleverRaven/Cataclysm-DDA/pull/85561))
 * [Xedra Evolved] Arvore in the woods can block huge attacks if they have Might of the Ancient Tree (and are post-threshold) ([#85559](https://github.com/CleverRaven/Cataclysm-DDA/pull/85559))
-* Add an infrequent, traveling CBM merchant to the Ancilla bar ([#85554](https://github.com/CleverRaven/Cataclysm-DDA/pull/85554))
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
