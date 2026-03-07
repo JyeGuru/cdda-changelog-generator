@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-07-1942 ([5fca7ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1942))
+
 * Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-03-04-1325 ([5880d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-1325))
 
 * Alien meadow connect groups ([#85645](https://github.com/CleverRaven/Cataclysm-DDA/pull/85645))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-04-0417 ([86edf03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-0417))
-
 * Preserve horde entities on failed placement, fix flaky monster test ([#85602](https://github.com/CleverRaven/Cataclysm-DDA/pull/85602))
 * Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
 * Use -fvisibility=hidden to shrink binary size further than bare `strip` ([#85638](https://github.com/CleverRaven/Cataclysm-DDA/pull/85638))
