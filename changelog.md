@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-07-0615 ([35fd4f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0615))
+
+* [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-07-0529 ([40f703d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0529))
 
 * [Bombastic Paths] Require minimum 5 walls for Closetland/Closetland Paths ([#85652](https://github.com/CleverRaven/Cataclysm-DDA/pull/85652))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-03-03-1417 ([fe3d524](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-1417))
 
 * Converting Strings to Arrays ([#85640](https://github.com/CleverRaven/Cataclysm-DDA/pull/85640))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-03-0535 ([e289ec9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-0535))
-
 * Update nail making(camp-specific recipes) ([#85598](https://github.com/CleverRaven/Cataclysm-DDA/pull/85598))
 * Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs ([#85624](https://github.com/CleverRaven/Cataclysm-DDA/pull/85624))
 * Fix various dialogue so players with `NO_CBM_INSTALLATION` can't get CBM interfaces ([#85626](https://github.com/CleverRaven/Cataclysm-DDA/pull/85626))
@@ -235,4 +236,3 @@
 * [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active ([#85549](https://github.com/CleverRaven/Cataclysm-DDA/pull/85549))
 * [XE] Vampires with active Vigor Mortis can block huge attacks if they have superhuman strength ([#85545](https://github.com/CleverRaven/Cataclysm-DDA/pull/85545))
 * Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
-* Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
