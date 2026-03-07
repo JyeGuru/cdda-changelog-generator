@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-07-0529 ([40f703d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0529))
+
+* [Bombastic Paths] Require minimum 5 walls for Closetland/Closetland Paths ([#85652](https://github.com/CleverRaven/Cataclysm-DDA/pull/85652))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-07-0317 ([9e7af3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0317))
 
 * Retune lying to Rubik about the warehouse ([#85701](https://github.com/CleverRaven/Cataclysm-DDA/pull/85701))
@@ -187,11 +193,6 @@
 * Update nail making(camp-specific recipes) ([#85598](https://github.com/CleverRaven/Cataclysm-DDA/pull/85598))
 * Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs ([#85624](https://github.com/CleverRaven/Cataclysm-DDA/pull/85624))
 * Fix various dialogue so players with `NO_CBM_INSTALLATION` can't get CBM interfaces ([#85626](https://github.com/CleverRaven/Cataclysm-DDA/pull/85626))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-03-0446 ([b8d30c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-0446))
-
 * mutations `Hub01_CBM_Interface` and `NO_CBM_INSTALLATION` reciprocally cancel each other ([#85625](https://github.com/CleverRaven/Cataclysm-DDA/pull/85625))
 * Fix flaky hunger test: sync stored_kcal after height reset ([#85633](https://github.com/CleverRaven/Cataclysm-DDA/pull/85633))
 * Remove ability to toggle map memory from the players control ([#85612](https://github.com/CleverRaven/Cataclysm-DDA/pull/85612))
@@ -235,4 +236,3 @@
 * [XE] Vampires with active Vigor Mortis can block huge attacks if they have superhuman strength ([#85545](https://github.com/CleverRaven/Cataclysm-DDA/pull/85545))
 * Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
 * Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
-* Pat comments on and helps with Circuit Safari, and if they learn you're a cyborg, they start to tease you ([#85532](https://github.com/CleverRaven/Cataclysm-DDA/pull/85532))
