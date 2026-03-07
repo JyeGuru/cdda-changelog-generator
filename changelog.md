@@ -1,3 +1,4 @@
+* Fix flaky melee damage type effectiveness test ([#85688](https://github.com/CleverRaven/Cataclysm-DDA/pull/85688))
 
 ---
 
@@ -182,11 +183,6 @@
 
 * Use A* route distances for zone sort batching ([#85619](https://github.com/CleverRaven/Cataclysm-DDA/pull/85619))
 * 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-04-1325 ([5880d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-1325))
-
 * Alien meadow connect groups ([#85645](https://github.com/CleverRaven/Cataclysm-DDA/pull/85645))
 * Preserve horde entities on failed placement, fix flaky monster test ([#85602](https://github.com/CleverRaven/Cataclysm-DDA/pull/85602))
 * Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
@@ -231,4 +227,3 @@
 * [Xedra Evolved] Arvore in the woods can block huge attacks if they have Might of the Ancient Tree (and are post-threshold) ([#85559](https://github.com/CleverRaven/Cataclysm-DDA/pull/85559))
 * Add an infrequent, traveling CBM merchant to the Ancilla bar ([#85554](https://github.com/CleverRaven/Cataclysm-DDA/pull/85554))
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
-* [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active ([#85549](https://github.com/CleverRaven/Cataclysm-DDA/pull/85549))

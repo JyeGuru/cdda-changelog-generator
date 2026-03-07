@@ -1,3 +1,4 @@
+* Fix flaky melee damage type effectiveness test (#85688)
 
 Cataclysm-DDA experimental build 2026-03-07-1942 (5fca7ca)
 * Fix batteries in more places in the evac shellter (#85722)
@@ -101,8 +102,6 @@ Cataclysm-DDA 0.I release candidate 2026-03-05-0143 (c24954b)
 Cataclysm-DDA experimental build 2026-03-04-1546 (c1c7cf1)
 * Use A* route distances for zone sort batching (#85619)
 * 0.I Backport #84997 (fix CI) (#85658)
-
-Cataclysm-DDA experimental build 2026-03-04-1325 (5880d6d)
 * Alien meadow connect groups (#85645)
 * Preserve horde entities on failed placement, fix flaky monster test (#85602)
 * Re-cache `get_default_input_context()` (#85641)
@@ -147,4 +146,3 @@ Cataclysm-DDA experimental build 2026-03-04-1325 (5880d6d)
 * [Xedra Evolved] Arvore in the woods can block huge attacks if they have Might of the Ancient Tree (and are post-threshold) (#85559)
 * Add an infrequent, traveling CBM merchant to the Ancilla bar (#85554)
 * Some extra tales to tell the drinking veterans at the Ancilla Bar (#85555)
-* [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active (#85549)
