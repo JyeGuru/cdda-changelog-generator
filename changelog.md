@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-07-0317 ([9e7af3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0317))
+
+* Retune lying to Rubik about the warehouse ([#85701](https://github.com/CleverRaven/Cataclysm-DDA/pull/85701))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-07-0212 ([796d4e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0212))
 
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
@@ -188,11 +194,6 @@
 
 * mutations `Hub01_CBM_Interface` and `NO_CBM_INSTALLATION` reciprocally cancel each other ([#85625](https://github.com/CleverRaven/Cataclysm-DDA/pull/85625))
 * Fix flaky hunger test: sync stored_kcal after height reset ([#85633](https://github.com/CleverRaven/Cataclysm-DDA/pull/85633))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-03-0135 ([b9bbda8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-03-0135))
-
 * Remove ability to toggle map memory from the players control ([#85612](https://github.com/CleverRaven/Cataclysm-DDA/pull/85612))
 * Don't strip the entire binary, only strip debug symbols and locals ([#85637](https://github.com/CleverRaven/Cataclysm-DDA/pull/85637))
 * [MoM] Telekinetic huge attack blocking ([#85583](https://github.com/CleverRaven/Cataclysm-DDA/pull/85583))
@@ -232,7 +233,6 @@
 * Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
 * [MoM] Disable Efficient Slumber perk while Metabolic Hyperefficiency is active ([#85549](https://github.com/CleverRaven/Cataclysm-DDA/pull/85549))
 * [XE] Vampires with active Vigor Mortis can block huge attacks if they have superhuman strength ([#85545](https://github.com/CleverRaven/Cataclysm-DDA/pull/85545))
-* [XE] Fixes opening keypad locked doors via deduction ([#85531](https://github.com/CleverRaven/Cataclysm-DDA/pull/85531))
 * Don't statically override malloc on any platform. Fix library load sequence on android. ([#85547](https://github.com/CleverRaven/Cataclysm-DDA/pull/85547))
 * Cache vcpkg installed packages in MSVC CI ([#85533](https://github.com/CleverRaven/Cataclysm-DDA/pull/85533))
 * Pat comments on and helps with Circuit Safari, and if they learn you're a cyborg, they start to tease you ([#85532](https://github.com/CleverRaven/Cataclysm-DDA/pull/85532))
