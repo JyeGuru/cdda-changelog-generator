@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-07-1729 ([4946dae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1729))
+
+* Delete android sdk on macs on releases too. ([#85713](https://github.com/CleverRaven/Cataclysm-DDA/pull/85713))
 * Fix test labeler skipping PRs from fork master branches ([#85715](https://github.com/CleverRaven/Cataclysm-DDA/pull/85715))
 
 ---
@@ -157,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2026-03-04-1546 ([c1c7cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-04-1546))
 
 * Use A* route distances for zone sort batching ([#85619](https://github.com/CleverRaven/Cataclysm-DDA/pull/85619))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-03-04-1543 ([e842542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-04-1543))
-
 * 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
 
 ---

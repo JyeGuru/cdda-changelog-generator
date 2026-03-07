@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-03-07-1729 (4946dae)
+* Delete android sdk on macs on releases too. (#85713)
 * Fix test labeler skipping PRs from fork master branches (#85715)
 
 Cataclysm-DDA experimental build 2026-03-07-1251 (888c70f)
@@ -88,8 +91,6 @@ Cataclysm-DDA 0.I release candidate 2026-03-05-0143 (c24954b)
 
 Cataclysm-DDA experimental build 2026-03-04-1546 (c1c7cf1)
 * Use A* route distances for zone sort batching (#85619)
-
-Cataclysm-DDA 0.I release candidate 2026-03-04-1543 (e842542)
 * 0.I Backport #84997 (fix CI) (#85658)
 
 Cataclysm-DDA experimental build 2026-03-04-1325 (5880d6d)
