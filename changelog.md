@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-08-2345 ([d7fe6ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2345))
+
+* [Magiclysm] Rework ravenfolk attack vector ([#85740](https://github.com/CleverRaven/Cataclysm-DDA/pull/85740))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-08-2305 ([818aa91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2305))
+
+* Make vines limbs ([#85735](https://github.com/CleverRaven/Cataclysm-DDA/pull/85735))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-08-2111 ([4fd63f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2111))
 
 * [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
@@ -160,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-03-06-1001 ([4b994b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1001))
 
 * Digging up graves takes a very, very long time ([#85695](https://github.com/CleverRaven/Cataclysm-DDA/pull/85695))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-06-0444 ([9acc56c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0444))
-
 * Work to address #85666 ([#85672](https://github.com/CleverRaven/Cataclysm-DDA/pull/85672))
 * First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
 * Port translations and credits to 0.I ([#85634](https://github.com/CleverRaven/Cataclysm-DDA/pull/85634))
@@ -209,7 +216,6 @@
 * Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession ([#85611](https://github.com/CleverRaven/Cataclysm-DDA/pull/85611))
 * Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
-* Broken nanofab in collapsed office tower ([#85572](https://github.com/CleverRaven/Cataclysm-DDA/pull/85572))
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
@@ -220,4 +226,3 @@
 * HEW report for void spider dimension ([#85580](https://github.com/CleverRaven/Cataclysm-DDA/pull/85580))
 * Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
 * Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
-* Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
