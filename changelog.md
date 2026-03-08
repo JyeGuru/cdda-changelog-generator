@@ -1,3 +1,17 @@
+* Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-08-0449 ([6dd894d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-0449))
+
+* Spelling Fixes ([#85654](https://github.com/CleverRaven/Cataclysm-DDA/pull/85654))
+* Welding and half-face PAPR masks ([#85702](https://github.com/CleverRaven/Cataclysm-DDA/pull/85702))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-08-0401 ([069db91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-0401))
+
+* [Sky Island] Breakup EOC file ([#85704](https://github.com/CleverRaven/Cataclysm-DDA/pull/85704))
 * Fix flaky melee damage type effectiveness test ([#85688](https://github.com/CleverRaven/Cataclysm-DDA/pull/85688))
 
 ---
@@ -164,17 +178,7 @@
 
 * Pat talks to you about POIs through dialogue, not `u_message` ([#85648](https://github.com/CleverRaven/Cataclysm-DDA/pull/85648))
 * 10 more shipping containers (up to 119 varieties) ([#85664](https://github.com/CleverRaven/Cataclysm-DDA/pull/85664))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-05-0305 ([024dfdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-0305))
-
 * Traits can control skill display ([#85659](https://github.com/CleverRaven/Cataclysm-DDA/pull/85659))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-03-05-0143 ([c24954b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-05-0143))
-
 * 0.I Backport #83734 and #83737 (fix MacOS releases) ([#85670](https://github.com/CleverRaven/Cataclysm-DDA/pull/85670))
 * Use A* route distances for zone sort batching ([#85619](https://github.com/CleverRaven/Cataclysm-DDA/pull/85619))
 * 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
@@ -210,14 +214,10 @@
 * Pat notices and comments if you vanish to the void spider lair with transponder active ([#85578](https://github.com/CleverRaven/Cataclysm-DDA/pull/85578))
 * Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
 * Pat can replace lost/damaged AR glasses/earpiece ([#85577](https://github.com/CleverRaven/Cataclysm-DDA/pull/85577))
-* Fix nondeterministic mutable overmap special placement ([#85556](https://github.com/CleverRaven/Cataclysm-DDA/pull/85556))
 * HEW report for void spider dimension ([#85580](https://github.com/CleverRaven/Cataclysm-DDA/pull/85580))
 * Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
 * Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
 * Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
 * npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
 * Add integrated rabbit fur ([#85562](https://github.com/CleverRaven/Cataclysm-DDA/pull/85562))
-* Skip test labeler for non-PR and cancelled workflow runs ([#85557](https://github.com/CleverRaven/Cataclysm-DDA/pull/85557))
 * make fluffy tail ugly ([#85561](https://github.com/CleverRaven/Cataclysm-DDA/pull/85561))
-* [Xedra Evolved] Arvore in the woods can block huge attacks if they have Might of the Ancient Tree (and are post-threshold) ([#85559](https://github.com/CleverRaven/Cataclysm-DDA/pull/85559))
-* Some extra tales to tell the drinking veterans at the Ancilla Bar ([#85555](https://github.com/CleverRaven/Cataclysm-DDA/pull/85555))
