@@ -1,3 +1,10 @@
+* Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-08-1348 ([7266e06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1348))
+
+* Debug map editor ImGui conversion ([#85599](https://github.com/CleverRaven/Cataclysm-DDA/pull/85599))
 
 ---
 
@@ -163,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-03-05-1007 ([334a965](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-1007))
 
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-05-0447 ([37226da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-0447))
-
 * Fix multicooker segfault by flattening nested recipes in its UI ([#85623](https://github.com/CleverRaven/Cataclysm-DDA/pull/85623))
 * Tweak Pat's accent a bit (Pat says "Fahk") ([#85663](https://github.com/CleverRaven/Cataclysm-DDA/pull/85663))
 * make nail amounts more realistic ([#85631](https://github.com/CleverRaven/Cataclysm-DDA/pull/85631))
@@ -199,7 +201,6 @@
 * Weekly Changelog 2026-02-23 to 2026-03-02 ([#85615](https://github.com/CleverRaven/Cataclysm-DDA/pull/85615))
 * Show molle capacity in item info ([#85621](https://github.com/CleverRaven/Cataclysm-DDA/pull/85621))
 * Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
-* fix some mutation orderings ([#85560](https://github.com/CleverRaven/Cataclysm-DDA/pull/85560))
 * fix bat ears not being ears, reduce ugliness ([#85563](https://github.com/CleverRaven/Cataclysm-DDA/pull/85563))
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession ([#85611](https://github.com/CleverRaven/Cataclysm-DDA/pull/85611))
 * Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
@@ -220,4 +221,3 @@
 * Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
 * npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
 * Add integrated rabbit fur ([#85562](https://github.com/CleverRaven/Cataclysm-DDA/pull/85562))
-* make fluffy tail ugly ([#85561](https://github.com/CleverRaven/Cataclysm-DDA/pull/85561))
