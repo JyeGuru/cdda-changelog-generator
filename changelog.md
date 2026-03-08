@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-03-08-0515 ([9a15a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-08-0515))
+
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
 
 ---
@@ -171,11 +176,6 @@
 * Fix flaky liquid_projectiles_applies_effect test ([#85676](https://github.com/CleverRaven/Cataclysm-DDA/pull/85676))
 * Fix flaky dormant monster materialization test ([#85678](https://github.com/CleverRaven/Cataclysm-DDA/pull/85678))
 * Update Rubik's mission dialogue to allow easier mission branching ([#85649](https://github.com/CleverRaven/Cataclysm-DDA/pull/85649))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-05-0404 ([c679879](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-0404))
-
 * Pat talks to you about POIs through dialogue, not `u_message` ([#85648](https://github.com/CleverRaven/Cataclysm-DDA/pull/85648))
 * 10 more shipping containers (up to 119 varieties) ([#85664](https://github.com/CleverRaven/Cataclysm-DDA/pull/85664))
 * Traits can control skill display ([#85659](https://github.com/CleverRaven/Cataclysm-DDA/pull/85659))
