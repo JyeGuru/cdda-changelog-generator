@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-08-2111 ([4fd63f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2111))
+
+* [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-08-1931 ([66a33a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1931))
 
 * [WIP] Swiftly Salvaging or Slashing Somewhat Stupid Survivor Suits ([#85635](https://github.com/CleverRaven/Cataclysm-DDA/pull/85635))
@@ -167,11 +173,6 @@
 * Fix test labeler failing on nonexistent label removal ([#85674](https://github.com/CleverRaven/Cataclysm-DDA/pull/85674))
 * [Sky Island] No HUB01 chop shop in sky island ([#85681](https://github.com/CleverRaven/Cataclysm-DDA/pull/85681))
 * Fix smoker/mill finalization on save off bubble ([#85683](https://github.com/CleverRaven/Cataclysm-DDA/pull/85683))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-06-0206 ([d6a7952](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0206))
-
 * [MoM] Fix VERDANT HAND working when you can't use psi ([#85687](https://github.com/CleverRaven/Cataclysm-DDA/pull/85687))
 * Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
@@ -212,7 +213,6 @@
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
-* Update crafting test to remove survival mess kit ([#85570](https://github.com/CleverRaven/Cataclysm-DDA/pull/85570))
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
 * Pat notices and comments if you vanish to the void spider lair with transponder active ([#85578](https://github.com/CleverRaven/Cataclysm-DDA/pull/85578))
 * Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
