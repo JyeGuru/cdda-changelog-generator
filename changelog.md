@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-08-1931 ([66a33a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1931))
+
+* [WIP] Swiftly Salvaging or Slashing Somewhat Stupid Survivor Suits ([#85635](https://github.com/CleverRaven/Cataclysm-DDA/pull/85635))
+* Fix non-deterministic hp_max in clear_character() ([#85738](https://github.com/CleverRaven/Cataclysm-DDA/pull/85738))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-08-1553 ([0441fbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1553))
 
 * Fix display_fridge furniture weight ([#85733](https://github.com/CleverRaven/Cataclysm-DDA/pull/85733))
@@ -154,11 +161,6 @@
 
 * Work to address #85666 ([#85672](https://github.com/CleverRaven/Cataclysm-DDA/pull/85672))
 * First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-03-06-0209 ([b3fdf2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-06-0209))
-
 * Port translations and credits to 0.I ([#85634](https://github.com/CleverRaven/Cataclysm-DDA/pull/85634))
 * [Xedra Evolved] Elemental magic rework:  Arvore ([#85657](https://github.com/CleverRaven/Cataclysm-DDA/pull/85657))
 * Use suggestion blocks for IWYU review comments ([#85671](https://github.com/CleverRaven/Cataclysm-DDA/pull/85671))
@@ -210,7 +212,6 @@
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
-* Yote the Goofy Surv mess kit ([#85569](https://github.com/CleverRaven/Cataclysm-DDA/pull/85569))
 * Update crafting test to remove survival mess kit ([#85570](https://github.com/CleverRaven/Cataclysm-DDA/pull/85570))
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
 * Pat notices and comments if you vanish to the void spider lair with transponder active ([#85578](https://github.com/CleverRaven/Cataclysm-DDA/pull/85578))
@@ -220,4 +221,3 @@
 * Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
 * Fix wrapping in extended descriptions ([#85574](https://github.com/CleverRaven/Cataclysm-DDA/pull/85574))
 * Fix division by zero crash in vehicle bash pathfinding ([#85571](https://github.com/CleverRaven/Cataclysm-DDA/pull/85571))
-* npcs don't get thick or thin skin ([#85565](https://github.com/CleverRaven/Cataclysm-DDA/pull/85565))
