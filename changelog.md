@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-08-1553 ([0441fbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1553))
+
+* Fix display_fridge furniture weight ([#85733](https://github.com/CleverRaven/Cataclysm-DDA/pull/85733))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-08-1446 ([bd8b07d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1446))
 
 * [Sky Island] Portal storms only happen in the raid dimension ([#85732](https://github.com/CleverRaven/Cataclysm-DDA/pull/85732))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-03-06-0206 ([d6a7952](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-0206))
 
 * [MoM] Fix VERDANT HAND working when you can't use psi ([#85687](https://github.com/CleverRaven/Cataclysm-DDA/pull/85687))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-05-2103 ([dbb8970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-2103))
-
 * Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
 * Fix multicooker segfault by flattening nested recipes in its UI ([#85623](https://github.com/CleverRaven/Cataclysm-DDA/pull/85623))
@@ -209,7 +210,6 @@
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
-* more apis adjustments ([#85564](https://github.com/CleverRaven/Cataclysm-DDA/pull/85564))
 * Yote the Goofy Surv mess kit ([#85569](https://github.com/CleverRaven/Cataclysm-DDA/pull/85569))
 * Update crafting test to remove survival mess kit ([#85570](https://github.com/CleverRaven/Cataclysm-DDA/pull/85570))
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
