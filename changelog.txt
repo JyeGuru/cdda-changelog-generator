@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-08-1446 (bd8b07d)
 * [Sky Island] Portal storms only happen in the raid dimension (#85732)
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers (#85729)
 * Document random_start_allowed which I added in a PR last week (#85731)
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2026-03-06-0206 (d6a7952)
 
 Cataclysm-DDA experimental build 2026-03-05-2103 (dbb8970)
 * Fix format specifiers in inventory UI (#85680)
-
-Cataclysm-DDA experimental build 2026-03-05-1007 (334a965)
 * [alt-map-key] Overmap terrain update (#85682)
 * Fix multicooker segfault by flattening nested recipes in its UI (#85623)
 * Tweak Pat's accent a bit (Pat says "Fahk") (#85663)

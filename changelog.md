@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-08-1446 ([bd8b07d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1446))
+
 * [Sky Island] Portal storms only happen in the raid dimension ([#85732](https://github.com/CleverRaven/Cataclysm-DDA/pull/85732))
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-03-05-2103 ([dbb8970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-2103))
 
 * Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-05-1007 ([334a965](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-05-1007))
-
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
 * Fix multicooker segfault by flattening nested recipes in its UI ([#85623](https://github.com/CleverRaven/Cataclysm-DDA/pull/85623))
 * Tweak Pat's accent a bit (Pat says "Fahk") ([#85663](https://github.com/CleverRaven/Cataclysm-DDA/pull/85663))
