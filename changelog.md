@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-09-0634 ([6c86522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0634))
+
+* Update visual studio build instructions to baseline VS 2022. ([#85747](https://github.com/CleverRaven/Cataclysm-DDA/pull/85747))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-09-0554 ([08b3d83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0554))
+
+* Weekly Changelog 2026-03-02 to 2026-03-09 ([#85746](https://github.com/CleverRaven/Cataclysm-DDA/pull/85746))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-09-0409 ([42c660f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0409))
 
 * Vines as limbs bugfixes ([#85744](https://github.com/CleverRaven/Cataclysm-DDA/pull/85744))
@@ -160,17 +172,7 @@
 * Fix main pathfinder routing through open air on upper floors ([#85692](https://github.com/CleverRaven/Cataclysm-DDA/pull/85692))
 * Fix infinite loops in surroundings menu for good ([#85698](https://github.com/CleverRaven/Cataclysm-DDA/pull/85698))
 * If Rubik sees you with Hub 01 cybernetics, no more Exodii for you ([#85700](https://github.com/CleverRaven/Cataclysm-DDA/pull/85700))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-06-1339 ([e0214cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1339))
-
 * Ancilla doctor can repair damaged Hub 01 cybernetics ([#85699](https://github.com/CleverRaven/Cataclysm-DDA/pull/85699))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-06-1051 ([93af9d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1051))
-
 * Add static check for nested mapgen furniture overlaps ([#85677](https://github.com/CleverRaven/Cataclysm-DDA/pull/85677))
 * Digging up graves takes a very, very long time ([#85695](https://github.com/CleverRaven/Cataclysm-DDA/pull/85695))
 * Work to address #85666 ([#85672](https://github.com/CleverRaven/Cataclysm-DDA/pull/85672))
@@ -223,6 +225,4 @@
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
 * Pat notices and comments if you vanish to the void spider lair with transponder active ([#85578](https://github.com/CleverRaven/Cataclysm-DDA/pull/85578))
 * Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
-* Pat can replace lost/damaged AR glasses/earpiece ([#85577](https://github.com/CleverRaven/Cataclysm-DDA/pull/85577))
 * HEW report for void spider dimension ([#85580](https://github.com/CleverRaven/Cataclysm-DDA/pull/85580))
-* Fix TextColoredParagraph mid-word wrapping ([#85575](https://github.com/CleverRaven/Cataclysm-DDA/pull/85575))
