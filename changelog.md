@@ -1,7 +1,7 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-03-09-1452 ([78f3ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-1452))
+#### Cataclysm-DDA experimental build 2026-03-09-1533 ([78f3ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-1533))
 
 * [Xedra Evolved] Karma Arms/devil tail edits ([#85737](https://github.com/CleverRaven/Cataclysm-DDA/pull/85737))
 
@@ -162,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-03-06-2107 ([e2beb27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-2107))
 
 * Add --rng-seed-fuzz to test runner ([#85673](https://github.com/CleverRaven/Cataclysm-DDA/pull/85673))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-06-1922 ([7a705a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1922))
-
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
 * Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
 * Bombastic Perks: Yeoman perk ([#85656](https://github.com/CleverRaven/Cataclysm-DDA/pull/85656))

@@ -1,5 +1,5 @@
 
-Cataclysm-DDA experimental build 2026-03-09-1452 (78f3ce7)
+Cataclysm-DDA experimental build 2026-03-09-1533 (78f3ce7)
 * [Xedra Evolved] Karma Arms/devil tail edits (#85737)
 
 Cataclysm-DDA experimental build 2026-03-09-0828 (02979af)
@@ -84,8 +84,6 @@ Cataclysm-DDA experimental build 2026-03-07-0121 (2b6370a)
 
 Cataclysm-DDA experimental build 2026-03-06-2107 (e2beb27)
 * Add --rng-seed-fuzz to test runner (#85673)
-
-Cataclysm-DDA experimental build 2026-03-06-1922 (7a705a7)
 * Filter item info body part display by viewer anatomy (#85707)
 * Fix being able to skip over the LIXA fall EOC (#85705)
 * Bombastic Perks: Yeoman perk (#85656)
