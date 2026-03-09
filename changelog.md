@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-09-1452 ([78f3ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-1452))
+
+* [Xedra Evolved] Karma Arms/devil tail edits ([#85737](https://github.com/CleverRaven/Cataclysm-DDA/pull/85737))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-09-0828 ([02979af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0828))
 
 * [Xedra Evolved] Make Salamander On Wings of Flame actual wings ([#85739](https://github.com/CleverRaven/Cataclysm-DDA/pull/85739))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-03-06-1922 ([7a705a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1922))
 
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-06-1737 ([f04df07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-1737))
-
 * Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
 * Bombastic Perks: Yeoman perk ([#85656](https://github.com/CleverRaven/Cataclysm-DDA/pull/85656))
 * Fix flaky vehicle_ramp_test by clearing items on non-zero z-levels ([#85691](https://github.com/CleverRaven/Cataclysm-DDA/pull/85691))
@@ -225,4 +226,3 @@
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
 * Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
-* HEW report for void spider dimension ([#85580](https://github.com/CleverRaven/Cataclysm-DDA/pull/85580))
