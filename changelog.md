@@ -1,3 +1,10 @@
+* Remove redundant pull_request trigger from IWYU Suggester ([#85755](https://github.com/CleverRaven/Cataclysm-DDA/pull/85755))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-09-2333 ([d257540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-2333))
+
+* Aftershock: Fix minor vahagn errors ([#85752](https://github.com/CleverRaven/Cataclysm-DDA/pull/85752))
 
 ---
 
@@ -156,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2026-03-07-0121 ([2b6370a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0121))
 
 * [Magiclysm] Make the Longing slightly more lenient ([#85709](https://github.com/CleverRaven/Cataclysm-DDA/pull/85709))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-06-2107 ([e2beb27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-06-2107))
-
 * Add --rng-seed-fuzz to test runner ([#85673](https://github.com/CleverRaven/Cataclysm-DDA/pull/85673))
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
 * Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
@@ -210,7 +212,6 @@
 * Fix flaky hunger test: sync stored_kcal after height reset ([#85633](https://github.com/CleverRaven/Cataclysm-DDA/pull/85633))
 * Remove ability to toggle map memory from the players control ([#85612](https://github.com/CleverRaven/Cataclysm-DDA/pull/85612))
 * Don't strip the entire binary, only strip debug symbols and locals ([#85637](https://github.com/CleverRaven/Cataclysm-DDA/pull/85637))
-* [MoM] Telekinetic huge attack blocking ([#85583](https://github.com/CleverRaven/Cataclysm-DDA/pull/85583))
 * Weekly Changelog 2026-02-23 to 2026-03-02 ([#85615](https://github.com/CleverRaven/Cataclysm-DDA/pull/85615))
 * Show molle capacity in item info ([#85621](https://github.com/CleverRaven/Cataclysm-DDA/pull/85621))
 * Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
@@ -220,4 +221,3 @@
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
 * Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
 * Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
-* Pat encourages you to sell the Exodii warehouse to the Hub ([#85581](https://github.com/CleverRaven/Cataclysm-DDA/pull/85581))
