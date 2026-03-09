@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-09-0409 (42c660f)
+* Vines as limbs bugfixes (#85744)
+
 Cataclysm-DDA experimental build 2026-03-08-2345 (d7fe6ad)
 * [Magiclysm] Rework ravenfolk attack vector (#85740)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-03-06-1339 (e0214cd)
 
 Cataclysm-DDA experimental build 2026-03-06-1051 (93af9d5)
 * Add static check for nested mapgen furniture overlaps (#85677)
-
-Cataclysm-DDA experimental build 2026-03-06-1001 (4b994b3)
 * Digging up graves takes a very, very long time (#85695)
 * Work to address #85666 (#85672)
 * First batch of Hub 01 bionics (#85685)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-03-06-1001 (4b994b3)
 * Pat can replace lost/damaged AR glasses/earpiece (#85577)
 * HEW report for void spider dimension (#85580)
 * Fix TextColoredParagraph mid-word wrapping (#85575)
-* Fix wrapping in extended descriptions (#85574)
