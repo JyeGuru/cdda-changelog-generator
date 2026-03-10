@@ -1,3 +1,4 @@
+* Make iteminfo coverage/warmth test value-independent (#85756)
 
 Cataclysm-DDA experimental build 2026-03-10-0217 (ce43530)
 * If you have their attention the Yrax do things (#85751)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2026-03-07-0317 (9e7af3d)
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession (#85611)
 * Fix overmap determinism test failure from static city init (#85607)
 * Remove tileset scheduled update workflow (#85601)
-* Fix cmake pch compilation to avoid accidentally building as C (#85594)

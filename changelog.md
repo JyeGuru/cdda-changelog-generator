@@ -1,3 +1,4 @@
+* Make iteminfo coverage/warmth test value-independent ([#85756](https://github.com/CleverRaven/Cataclysm-DDA/pull/85756))
 
 ---
 
@@ -220,4 +221,3 @@
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession ([#85611](https://github.com/CleverRaven/Cataclysm-DDA/pull/85611))
 * Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
-* Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
