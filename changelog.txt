@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-10-0217 (ce43530)
+* If you have their attention the Yrax do things (#85751)
+
 Cataclysm-DDA experimental build 2026-03-10-0137 (f09ebea)
 * Add map::is_roofed() with vertical walk-up for precipitation checks (#85721)
 * Reset calendar and weather between test cases (#85754)
@@ -82,8 +85,6 @@ Cataclysm-DDA experimental build 2026-03-07-0529 (40f703d)
 
 Cataclysm-DDA experimental build 2026-03-07-0317 (9e7af3d)
 * Retune lying to Rubik about the warehouse (#85701)
-
-Cataclysm-DDA experimental build 2026-03-07-0212 (796d4e6)
 * Fix battery spawns in the evac shelter (#85711)
 * [MoM] Fix Hacking Interface (#85694)
 * [Magiclysm] Make the Longing slightly more lenient (#85709)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2026-03-07-0212 (796d4e6)
 * Preserve horde entities on failed placement, fix flaky monster test (#85602)
 * Re-cache `get_default_input_context()` (#85641)
 * Use -fvisibility=hidden to shrink binary size further than bare `strip` (#85638)
-* Add consistency checks for dangling references (#85591)
 * Converting Strings to Arrays (#85640)
 * Update nail making(camp-specific recipes) (#85598)
 * Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs (#85624)
