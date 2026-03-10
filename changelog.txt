@@ -1,3 +1,12 @@
+* Set sleek scale encumbrance to zero (#85770)
+
+Cataclysm-DDA experimental build 2026-03-10-1527 (448c548)
+* Register active items in merge_submaps (#85757)
+* Fix NPC wield_better_weapon selecting items inside wielded container (#85764)
+* Fix missing faction ownership in bulk trade/donate (#85761)
+
+Cataclysm-DDA experimental build 2026-03-10-1442 (4444d93)
+* Add event_statistic() dialogue function to math parser (#85758)
 * Make iteminfo coverage/warmth test value-independent (#85756)
 
 Cataclysm-DDA experimental build 2026-03-10-0217 (ce43530)
@@ -47,9 +56,6 @@ Cataclysm-DDA experimental build 2026-03-08-1446 (bd8b07d)
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers (#85729)
 * Document random_start_allowed which I added in a PR last week (#85731)
 
-Cataclysm-DDA experimental build 2026-03-08-1348 (7266e06)
-* Debug map editor ImGui conversion (#85599)
-
 Cataclysm-DDA 0.I release candidate 2026-03-08-0515 (9a15a56)
 * Fix mac builds on release branch. (#85726)
 
@@ -80,11 +86,7 @@ Cataclysm-DDA experimental build 2026-03-07-1251 (888c70f)
 
 Cataclysm-DDA experimental build 2026-03-07-0615 (35fd4f5)
 * [MoM] Turn teleportation crystals into artifacts (#85710)
-
-Cataclysm-DDA experimental build 2026-03-07-0529 (40f703d)
 * [Bombastic Paths] Require minimum 5 walls for Closetland/Closetland Paths (#85652)
-
-Cataclysm-DDA experimental build 2026-03-07-0317 (9e7af3d)
 * Retune lying to Rubik about the warehouse (#85701)
 * Fix battery spawns in the evac shelter (#85711)
 * [MoM] Fix Hacking Interface (#85694)
@@ -130,7 +132,6 @@ Cataclysm-DDA experimental build 2026-03-07-0317 (9e7af3d)
 * Re-cache `get_default_input_context()` (#85641)
 * Use -fvisibility=hidden to shrink binary size further than bare `strip` (#85638)
 * Converting Strings to Arrays (#85640)
-* Update nail making(camp-specific recipes) (#85598)
 * Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs (#85624)
 * Fix various dialogue so players with `NO_CBM_INSTALLATION` can't get CBM interfaces (#85626)
 * mutations `Hub01_CBM_Interface` and `NO_CBM_INSTALLATION` reciprocally cancel each other (#85625)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2026-03-07-0317 (9e7af3d)
 * Respect external settings for character stat limits (#85618)
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession (#85611)
 * Fix overmap determinism test failure from static city init (#85607)
-* Remove tileset scheduled update workflow (#85601)

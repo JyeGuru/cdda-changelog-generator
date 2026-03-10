@@ -1,3 +1,18 @@
+* Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-10-1527 ([448c548](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1527))
+
+* Register active items in merge_submaps ([#85757](https://github.com/CleverRaven/Cataclysm-DDA/pull/85757))
+* Fix NPC wield_better_weapon selecting items inside wielded container ([#85764](https://github.com/CleverRaven/Cataclysm-DDA/pull/85764))
+* Fix missing faction ownership in bulk trade/donate ([#85761](https://github.com/CleverRaven/Cataclysm-DDA/pull/85761))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-10-1442 ([4444d93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1442))
+
+* Add event_statistic() dialogue function to math parser ([#85758](https://github.com/CleverRaven/Cataclysm-DDA/pull/85758))
 * Make iteminfo coverage/warmth test value-independent ([#85756](https://github.com/CleverRaven/Cataclysm-DDA/pull/85756))
 
 ---
@@ -91,12 +106,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-03-08-1348 ([7266e06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1348))
-
-* Debug map editor ImGui conversion ([#85599](https://github.com/CleverRaven/Cataclysm-DDA/pull/85599))
-
----
-
 #### Cataclysm-DDA 0.I release candidate 2026-03-08-0515 ([9a15a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-08-0515))
 
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
@@ -152,17 +161,7 @@
 #### Cataclysm-DDA experimental build 2026-03-07-0615 ([35fd4f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0615))
 
 * [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-07-0529 ([40f703d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0529))
-
 * [Bombastic Paths] Require minimum 5 walls for Closetland/Closetland Paths ([#85652](https://github.com/CleverRaven/Cataclysm-DDA/pull/85652))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-07-0317 ([9e7af3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0317))
-
 * Retune lying to Rubik about the warehouse ([#85701](https://github.com/CleverRaven/Cataclysm-DDA/pull/85701))
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
 * [MoM] Fix Hacking Interface ([#85694](https://github.com/CleverRaven/Cataclysm-DDA/pull/85694))
@@ -208,7 +207,6 @@
 * Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
 * Use -fvisibility=hidden to shrink binary size further than bare `strip` ([#85638](https://github.com/CleverRaven/Cataclysm-DDA/pull/85638))
 * Converting Strings to Arrays ([#85640](https://github.com/CleverRaven/Cataclysm-DDA/pull/85640))
-* Update nail making(camp-specific recipes) ([#85598](https://github.com/CleverRaven/Cataclysm-DDA/pull/85598))
 * Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs ([#85624](https://github.com/CleverRaven/Cataclysm-DDA/pull/85624))
 * Fix various dialogue so players with `NO_CBM_INSTALLATION` can't get CBM interfaces ([#85626](https://github.com/CleverRaven/Cataclysm-DDA/pull/85626))
 * mutations `Hub01_CBM_Interface` and `NO_CBM_INSTALLATION` reciprocally cancel each other ([#85625](https://github.com/CleverRaven/Cataclysm-DDA/pull/85625))
@@ -220,4 +218,3 @@
 * Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
 * [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession ([#85611](https://github.com/CleverRaven/Cataclysm-DDA/pull/85611))
 * Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
-* Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
