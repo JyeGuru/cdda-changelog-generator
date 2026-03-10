@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-10-0137 ([f09ebea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-0137))
+
+* Add map::is_roofed() with vertical walk-up for precipitation checks ([#85721](https://github.com/CleverRaven/Cataclysm-DDA/pull/85721))
+* Reset calendar and weather between test cases ([#85754](https://github.com/CleverRaven/Cataclysm-DDA/pull/85754))
 * Remove redundant pull_request trigger from IWYU Suggester ([#85755](https://github.com/CleverRaven/Cataclysm-DDA/pull/85755))
 
 ---
@@ -157,11 +164,6 @@
 
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
 * [MoM] Fix Hacking Interface ([#85694](https://github.com/CleverRaven/Cataclysm-DDA/pull/85694))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-07-0121 ([2b6370a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0121))
-
 * [Magiclysm] Make the Longing slightly more lenient ([#85709](https://github.com/CleverRaven/Cataclysm-DDA/pull/85709))
 * Add --rng-seed-fuzz to test runner ([#85673](https://github.com/CleverRaven/Cataclysm-DDA/pull/85673))
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
@@ -219,5 +221,3 @@
 * Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
 * Remove tileset scheduled update workflow ([#85601](https://github.com/CleverRaven/Cataclysm-DDA/pull/85601))
 * Fix cmake pch compilation to avoid accidentally building as C ([#85594](https://github.com/CleverRaven/Cataclysm-DDA/pull/85594))
-* Don't de/serialize item components for NUTRIENT_OVERRIDE items. Add NUTRIENT_OVERRIDE to a bunch of grain items. ([#85587](https://github.com/CleverRaven/Cataclysm-DDA/pull/85587))
-* Fixed beans and tomatoes out of cans in evac shelters ([#85584](https://github.com/CleverRaven/Cataclysm-DDA/pull/85584))
