@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-10-1713 ([29b9012](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1713))
+
 * Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
 
 ---
@@ -155,11 +160,6 @@
 
 * Move Feathered Arms to limbs ([#85613](https://github.com/CleverRaven/Cataclysm-DDA/pull/85613))
 * Furniture mass: Part 2 ([#85718](https://github.com/CleverRaven/Cataclysm-DDA/pull/85718))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-07-0615 ([35fd4f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-0615))
-
 * [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
 * [Bombastic Paths] Require minimum 5 walls for Closetland/Closetland Paths ([#85652](https://github.com/CleverRaven/Cataclysm-DDA/pull/85652))
 * Retune lying to Rubik about the warehouse ([#85701](https://github.com/CleverRaven/Cataclysm-DDA/pull/85701))
