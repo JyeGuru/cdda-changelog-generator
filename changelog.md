@@ -1,3 +1,11 @@
+* Properly show materials for repair, not material type ([#85772](https://github.com/CleverRaven/Cataclysm-DDA/pull/85772))
+* magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-11-0818 ([c6565aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0818))
+
+* Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))
 
 ---
 
@@ -158,16 +166,10 @@
 #### Cataclysm-DDA experimental build 2026-03-07-1942 ([5fca7ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1942))
 
 * Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-07-1900 ([a06069a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1900))
-
 * Fix segfault after failed out-of-bounds teleport ([#85716](https://github.com/CleverRaven/Cataclysm-DDA/pull/85716))
 * string dimension ziggurats v3 ([#85717](https://github.com/CleverRaven/Cataclysm-DDA/pull/85717))
 * Delete android sdk on macs on releases too. ([#85713](https://github.com/CleverRaven/Cataclysm-DDA/pull/85713))
 * Fix test labeler skipping PRs from fork master branches ([#85715](https://github.com/CleverRaven/Cataclysm-DDA/pull/85715))
-* Move Feathered Arms to limbs ([#85613](https://github.com/CleverRaven/Cataclysm-DDA/pull/85613))
 * Furniture mass: Part 2 ([#85718](https://github.com/CleverRaven/Cataclysm-DDA/pull/85718))
 * [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
 * [Bombastic Paths] Require minimum 5 walls for Closetland/Closetland Paths ([#85652](https://github.com/CleverRaven/Cataclysm-DDA/pull/85652))
@@ -219,8 +221,6 @@
 * Fix various dialogue so players with `NO_CBM_INSTALLATION` can't get CBM interfaces ([#85626](https://github.com/CleverRaven/Cataclysm-DDA/pull/85626))
 * mutations `Hub01_CBM_Interface` and `NO_CBM_INSTALLATION` reciprocally cancel each other ([#85625](https://github.com/CleverRaven/Cataclysm-DDA/pull/85625))
 * Fix flaky hunger test: sync stored_kcal after height reset ([#85633](https://github.com/CleverRaven/Cataclysm-DDA/pull/85633))
-* Remove ability to toggle map memory from the players control ([#85612](https://github.com/CleverRaven/Cataclysm-DDA/pull/85612))
 * Don't strip the entire binary, only strip debug symbols and locals ([#85637](https://github.com/CleverRaven/Cataclysm-DDA/pull/85637))
-* Weekly Changelog 2026-02-23 to 2026-03-02 ([#85615](https://github.com/CleverRaven/Cataclysm-DDA/pull/85615))
 * Show molle capacity in item info ([#85621](https://github.com/CleverRaven/Cataclysm-DDA/pull/85621))
 * Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
