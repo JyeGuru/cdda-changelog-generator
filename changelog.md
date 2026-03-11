@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-11-0503 ([5be9a3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0503))
+
+* new special for string dimension, electronic things with odd monitors ([#85749](https://github.com/CleverRaven/Cataclysm-DDA/pull/85749))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-11-0410 ([2d8c522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0410))
+
+* Disable upgrades for pseudo-dormant monsters ([#85759](https://github.com/CleverRaven/Cataclysm-DDA/pull/85759))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-10-2102 ([f6c0aae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-2102))
 
 * Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
@@ -152,17 +164,7 @@
 #### Cataclysm-DDA experimental build 2026-03-07-1900 ([a06069a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1900))
 
 * Fix segfault after failed out-of-bounds teleport ([#85716](https://github.com/CleverRaven/Cataclysm-DDA/pull/85716))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-07-1819 ([e2a00ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1819))
-
 * string dimension ziggurats v3 ([#85717](https://github.com/CleverRaven/Cataclysm-DDA/pull/85717))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-07-1729 ([4946dae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1729))
-
 * Delete android sdk on macs on releases too. ([#85713](https://github.com/CleverRaven/Cataclysm-DDA/pull/85713))
 * Fix test labeler skipping PRs from fork master branches ([#85715](https://github.com/CleverRaven/Cataclysm-DDA/pull/85715))
 * Move Feathered Arms to limbs ([#85613](https://github.com/CleverRaven/Cataclysm-DDA/pull/85613))
@@ -222,5 +224,3 @@
 * Weekly Changelog 2026-02-23 to 2026-03-02 ([#85615](https://github.com/CleverRaven/Cataclysm-DDA/pull/85615))
 * Show molle capacity in item info ([#85621](https://github.com/CleverRaven/Cataclysm-DDA/pull/85621))
 * Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
-* [MoM] Add `Tonallichicahualizmeya` trait for the `Cuāuhpilli Special Forces` profession ([#85611](https://github.com/CleverRaven/Cataclysm-DDA/pull/85611))
-* Fix overmap determinism test failure from static city init ([#85607](https://github.com/CleverRaven/Cataclysm-DDA/pull/85607))
