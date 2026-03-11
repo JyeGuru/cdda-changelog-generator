@@ -160,11 +160,6 @@
 
 * [Sky Island] Breakup EOC file ([#85704](https://github.com/CleverRaven/Cataclysm-DDA/pull/85704))
 * Fix flaky melee damage type effectiveness test ([#85688](https://github.com/CleverRaven/Cataclysm-DDA/pull/85688))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-07-1942 ([5fca7ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-07-1942))
-
 * Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
 * Fix segfault after failed out-of-bounds teleport ([#85716](https://github.com/CleverRaven/Cataclysm-DDA/pull/85716))
 * string dimension ziggurats v3 ([#85717](https://github.com/CleverRaven/Cataclysm-DDA/pull/85717))
