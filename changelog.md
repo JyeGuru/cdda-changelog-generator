@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-11-2309 ([9b5aa9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-2309))
+
 * squash string dimension overmap terrain whitelist ([#85779](https://github.com/CleverRaven/Cataclysm-DDA/pull/85779))
 
 ---
@@ -153,11 +158,6 @@
 * [Sky Island] Portal storms only happen in the raid dimension ([#85732](https://github.com/CleverRaven/Cataclysm-DDA/pull/85732))
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-03-08-0515 ([9a15a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-08-0515))
-
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
 
 ---
