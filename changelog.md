@@ -1,3 +1,10 @@
+* squash string dimension overmap terrain whitelist ([#85779](https://github.com/CleverRaven/Cataclysm-DDA/pull/85779))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-11-2225 ([a537401](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-2225))
+
+* Turn woodpecker beak into a body part ([#85780](https://github.com/CleverRaven/Cataclysm-DDA/pull/85780))
 
 ---
 
@@ -212,7 +219,6 @@
 * 10 more shipping containers (up to 119 varieties) ([#85664](https://github.com/CleverRaven/Cataclysm-DDA/pull/85664))
 * Traits can control skill display ([#85659](https://github.com/CleverRaven/Cataclysm-DDA/pull/85659))
 * 0.I Backport #83734 and #83737 (fix MacOS releases) ([#85670](https://github.com/CleverRaven/Cataclysm-DDA/pull/85670))
-* Use A* route distances for zone sort batching ([#85619](https://github.com/CleverRaven/Cataclysm-DDA/pull/85619))
 * 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
 * Alien meadow connect groups ([#85645](https://github.com/CleverRaven/Cataclysm-DDA/pull/85645))
 * Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
@@ -223,4 +229,3 @@
 * mutations `Hub01_CBM_Interface` and `NO_CBM_INSTALLATION` reciprocally cancel each other ([#85625](https://github.com/CleverRaven/Cataclysm-DDA/pull/85625))
 * Fix flaky hunger test: sync stored_kcal after height reset ([#85633](https://github.com/CleverRaven/Cataclysm-DDA/pull/85633))
 * Don't strip the entire binary, only strip debug symbols and locals ([#85637](https://github.com/CleverRaven/Cataclysm-DDA/pull/85637))
-* Show molle capacity in item info ([#85621](https://github.com/CleverRaven/Cataclysm-DDA/pull/85621))
