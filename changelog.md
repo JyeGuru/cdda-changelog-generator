@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-11-1323 ([042e5e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-1323))
+
+* Reset Exodii labyrinth each time you visit ([#85769](https://github.com/CleverRaven/Cataclysm-DDA/pull/85769))
 * Properly show materials for repair, not material type ([#85772](https://github.com/CleverRaven/Cataclysm-DDA/pull/85772))
 * magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
 
@@ -218,4 +224,3 @@
 * Fix flaky hunger test: sync stored_kcal after height reset ([#85633](https://github.com/CleverRaven/Cataclysm-DDA/pull/85633))
 * Don't strip the entire binary, only strip debug symbols and locals ([#85637](https://github.com/CleverRaven/Cataclysm-DDA/pull/85637))
 * Show molle capacity in item info ([#85621](https://github.com/CleverRaven/Cataclysm-DDA/pull/85621))
-* Respect external settings for character stat limits ([#85618](https://github.com/CleverRaven/Cataclysm-DDA/pull/85618))
