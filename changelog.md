@@ -1,3 +1,6 @@
+* Rubik reacts to Hub 01 LENS ([#85804](https://github.com/CleverRaven/Cataclysm-DDA/pull/85804))
+* fix copy-paste error in intercom dialogue ([#85805](https://github.com/CleverRaven/Cataclysm-DDA/pull/85805))
+* [Xedra Evolved] Add `gramarye` version of the Paraclesian Birth hobby ([#85809](https://github.com/CleverRaven/Cataclysm-DDA/pull/85809))
 * [Xedra Evolved] Add Salamander magic type ([#85807](https://github.com/CleverRaven/Cataclysm-DDA/pull/85807))
 
 ---
@@ -183,7 +186,6 @@
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
-* Spelling Fixes ([#85654](https://github.com/CleverRaven/Cataclysm-DDA/pull/85654))
 * Welding and half-face PAPR masks ([#85702](https://github.com/CleverRaven/Cataclysm-DDA/pull/85702))
 * [Sky Island] Breakup EOC file ([#85704](https://github.com/CleverRaven/Cataclysm-DDA/pull/85704))
 * Fix flaky melee damage type effectiveness test ([#85688](https://github.com/CleverRaven/Cataclysm-DDA/pull/85688))
@@ -194,7 +196,6 @@
 * Fix test labeler skipping PRs from fork master branches ([#85715](https://github.com/CleverRaven/Cataclysm-DDA/pull/85715))
 * Furniture mass: Part 2 ([#85718](https://github.com/CleverRaven/Cataclysm-DDA/pull/85718))
 * [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
-* [Bombastic Paths] Require minimum 5 walls for Closetland/Closetland Paths ([#85652](https://github.com/CleverRaven/Cataclysm-DDA/pull/85652))
 * Retune lying to Rubik about the warehouse ([#85701](https://github.com/CleverRaven/Cataclysm-DDA/pull/85701))
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
 * [MoM] Fix Hacking Interface ([#85694](https://github.com/CleverRaven/Cataclysm-DDA/pull/85694))
@@ -223,8 +224,6 @@
 * Tweak Pat's accent a bit (Pat says "Fahk") ([#85663](https://github.com/CleverRaven/Cataclysm-DDA/pull/85663))
 * Fix flaky liquid_projectiles_applies_effect test ([#85676](https://github.com/CleverRaven/Cataclysm-DDA/pull/85676))
 * Fix flaky dormant monster materialization test ([#85678](https://github.com/CleverRaven/Cataclysm-DDA/pull/85678))
-* Update Rubik's mission dialogue to allow easier mission branching ([#85649](https://github.com/CleverRaven/Cataclysm-DDA/pull/85649))
-* Pat talks to you about POIs through dialogue, not `u_message` ([#85648](https://github.com/CleverRaven/Cataclysm-DDA/pull/85648))
 * 10 more shipping containers (up to 119 varieties) ([#85664](https://github.com/CleverRaven/Cataclysm-DDA/pull/85664))
 * Traits can control skill display ([#85659](https://github.com/CleverRaven/Cataclysm-DDA/pull/85659))
 * 0.I Backport #83734 and #83737 (fix MacOS releases) ([#85670](https://github.com/CleverRaven/Cataclysm-DDA/pull/85670))
