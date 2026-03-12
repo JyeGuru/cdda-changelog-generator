@@ -1,3 +1,7 @@
+* [Xedra Evolved] Add Salamander magic type (#85807)
+
+Cataclysm-DDA experimental build 2026-03-12-2219 (7527522)
+* [Xedra Evolved] Add Offworld Acquisitions specialist: The Six Million Dollar (Wo)man (#85806)
 
 Cataclysm-DDA experimental build 2026-03-12-1912 (ee583ad)
 * Make bird wings limbs (#85730)
@@ -18,7 +22,6 @@ Cataclysm-DDA experimental build 2026-03-12-0220 (6228542)
 
 Cataclysm-DDA experimental build 2026-03-12-0141 (fbc2467)
 * Add per-OMT snow depth tracking and movement penalty (#85724)
-* Fix the calorie calculation error for rehydrated corn kernels (#85647)
 * [Xedra Evolved] Add Lashing Bough style, the Arvore martial art (#85745)
 * magiclysm: buff zoom lens spell (#85774)
 * Filter get_avg_coverage() by viewer anatomy (#85777)
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2026-03-09-0409 (42c660f)
 
 Cataclysm-DDA experimental build 2026-03-08-2345 (d7fe6ad)
 * [Magiclysm] Rework ravenfolk attack vector (#85740)
-
-Cataclysm-DDA experimental build 2026-03-08-2305 (818aa91)
 * Make vines limbs (#85735)
 * [MoM] Add String dimension to "in nether" conditions (#85736)
 * Fix non-deterministic hp_max in clear_character() (#85738)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2026-03-08-2305 (818aa91)
 * Fix format specifiers in inventory UI (#85680)
 * [alt-map-key] Overmap terrain update (#85682)
 * Tweak Pat's accent a bit (Pat says "Fahk") (#85663)
-* calculate additional_pocket_encumbrance correctly (#85646)
 * Fix flaky liquid_projectiles_applies_effect test (#85676)
 * Fix flaky dormant monster materialization test (#85678)
 * Update Rubik's mission dialogue to allow easier mission branching (#85649)

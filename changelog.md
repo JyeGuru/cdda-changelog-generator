@@ -1,3 +1,10 @@
+* [Xedra Evolved] Add Salamander magic type ([#85807](https://github.com/CleverRaven/Cataclysm-DDA/pull/85807))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-12-2219 ([7527522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-2219))
+
+* [Xedra Evolved] Add Offworld Acquisitions specialist: The Six Million Dollar (Wo)man ([#85806](https://github.com/CleverRaven/Cataclysm-DDA/pull/85806))
 
 ---
 
@@ -36,7 +43,6 @@
 #### Cataclysm-DDA experimental build 2026-03-12-0141 ([fbc2467](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0141))
 
 * Add per-OMT snow depth tracking and movement penalty ([#85724](https://github.com/CleverRaven/Cataclysm-DDA/pull/85724))
-* Fix the calorie calculation error for rehydrated corn kernels ([#85647](https://github.com/CleverRaven/Cataclysm-DDA/pull/85647))
 * [Xedra Evolved] Add Lashing Bough style, the Arvore martial art ([#85745](https://github.com/CleverRaven/Cataclysm-DDA/pull/85745))
 * magiclysm: buff zoom lens spell ([#85774](https://github.com/CleverRaven/Cataclysm-DDA/pull/85774))
 * Filter get_avg_coverage() by viewer anatomy ([#85777](https://github.com/CleverRaven/Cataclysm-DDA/pull/85777))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-03-08-2345 ([d7fe6ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2345))
 
 * [Magiclysm] Rework ravenfolk attack vector ([#85740](https://github.com/CleverRaven/Cataclysm-DDA/pull/85740))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-08-2305 ([818aa91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2305))
-
 * Make vines limbs ([#85735](https://github.com/CleverRaven/Cataclysm-DDA/pull/85735))
 * [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
 * Fix non-deterministic hp_max in clear_character() ([#85738](https://github.com/CleverRaven/Cataclysm-DDA/pull/85738))
@@ -220,7 +221,6 @@
 * Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
 * Tweak Pat's accent a bit (Pat says "Fahk") ([#85663](https://github.com/CleverRaven/Cataclysm-DDA/pull/85663))
-* calculate additional_pocket_encumbrance correctly ([#85646](https://github.com/CleverRaven/Cataclysm-DDA/pull/85646))
 * Fix flaky liquid_projectiles_applies_effect test ([#85676](https://github.com/CleverRaven/Cataclysm-DDA/pull/85676))
 * Fix flaky dormant monster materialization test ([#85678](https://github.com/CleverRaven/Cataclysm-DDA/pull/85678))
 * Update Rubik's mission dialogue to allow easier mission branching ([#85649](https://github.com/CleverRaven/Cataclysm-DDA/pull/85649))
