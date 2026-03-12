@@ -1,3 +1,4 @@
+* Make bird wings limbs ([#85730](https://github.com/CleverRaven/Cataclysm-DDA/pull/85730))
 
 ---
 
@@ -228,4 +229,3 @@
 * Traits can control skill display ([#85659](https://github.com/CleverRaven/Cataclysm-DDA/pull/85659))
 * 0.I Backport #83734 and #83737 (fix MacOS releases) ([#85670](https://github.com/CleverRaven/Cataclysm-DDA/pull/85670))
 * 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
-* Alien meadow connect groups ([#85645](https://github.com/CleverRaven/Cataclysm-DDA/pull/85645))
