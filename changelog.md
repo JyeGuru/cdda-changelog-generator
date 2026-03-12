@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-12-1047 ([233703a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-1047))
+
+* Reason for default mountable_Weight_ratio ([#85792](https://github.com/CleverRaven/Cataclysm-DDA/pull/85792))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-12-0422 ([f277ead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0422))
 
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it ([#85785](https://github.com/CleverRaven/Cataclysm-DDA/pull/85785))
@@ -170,11 +176,6 @@
 
 * [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
 * Fix non-deterministic hp_max in clear_character() ([#85738](https://github.com/CleverRaven/Cataclysm-DDA/pull/85738))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-08-1553 ([0441fbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1553))
-
 * Fix display_fridge furniture weight ([#85733](https://github.com/CleverRaven/Cataclysm-DDA/pull/85733))
 * [Sky Island] Portal storms only happen in the raid dimension ([#85732](https://github.com/CleverRaven/Cataclysm-DDA/pull/85732))
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
@@ -218,7 +219,6 @@
 * Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
 * Tweak Pat's accent a bit (Pat says "Fahk") ([#85663](https://github.com/CleverRaven/Cataclysm-DDA/pull/85663))
-* Grab-aware pathfinding: danger checks, strength gating, auto-move integration ([#85642](https://github.com/CleverRaven/Cataclysm-DDA/pull/85642))
 * calculate additional_pocket_encumbrance correctly ([#85646](https://github.com/CleverRaven/Cataclysm-DDA/pull/85646))
 * Fix flaky liquid_projectiles_applies_effect test ([#85676](https://github.com/CleverRaven/Cataclysm-DDA/pull/85676))
 * Fix flaky dormant monster materialization test ([#85678](https://github.com/CleverRaven/Cataclysm-DDA/pull/85678))

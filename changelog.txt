@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-12-1047 (233703a)
+* Reason for default mountable_Weight_ratio (#85792)
+
 Cataclysm-DDA experimental build 2026-03-12-0422 (f277ead)
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it (#85785)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-03-08-2305 (818aa91)
 Cataclysm-DDA experimental build 2026-03-08-2111 (4fd63f2)
 * [MoM] Add String dimension to "in nether" conditions (#85736)
 * Fix non-deterministic hp_max in clear_character() (#85738)
-
-Cataclysm-DDA experimental build 2026-03-08-1553 (0441fbf)
 * Fix display_fridge furniture weight (#85733)
 * [Sky Island] Portal storms only happen in the raid dimension (#85732)
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers (#85729)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2026-03-08-1553 (0441fbf)
 * Fix format specifiers in inventory UI (#85680)
 * [alt-map-key] Overmap terrain update (#85682)
 * Tweak Pat's accent a bit (Pat says "Fahk") (#85663)
-* Grab-aware pathfinding: danger checks, strength gating, auto-move integration (#85642)
 * calculate additional_pocket_encumbrance correctly (#85646)
 * Fix flaky liquid_projectiles_applies_effect test (#85676)
 * Fix flaky dormant monster materialization test (#85678)
