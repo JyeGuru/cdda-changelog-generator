@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-12-0422 ([f277ead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0422))
+
+* A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it ([#85785](https://github.com/CleverRaven/Cataclysm-DDA/pull/85785))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-12-0409 ([45990d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0409))
+
+* [MoM] A shadow? is vulnerable to photokinetic damage ([#85789](https://github.com/CleverRaven/Cataclysm-DDA/pull/85789))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-12-0220 ([6228542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0220))
 
 * Show cable connections for appliances ([#85768](https://github.com/CleverRaven/Cataclysm-DDA/pull/85768))
@@ -164,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-03-08-1553 ([0441fbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1553))
 
 * Fix display_fridge furniture weight ([#85733](https://github.com/CleverRaven/Cataclysm-DDA/pull/85733))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-08-1446 ([bd8b07d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1446))
-
 * [Sky Island] Portal storms only happen in the raid dimension ([#85732](https://github.com/CleverRaven/Cataclysm-DDA/pull/85732))
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
@@ -222,5 +229,3 @@
 * 0.I Backport #83734 and #83737 (fix MacOS releases) ([#85670](https://github.com/CleverRaven/Cataclysm-DDA/pull/85670))
 * 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
 * Alien meadow connect groups ([#85645](https://github.com/CleverRaven/Cataclysm-DDA/pull/85645))
-* Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
-* Converting Strings to Arrays ([#85640](https://github.com/CleverRaven/Cataclysm-DDA/pull/85640))
