@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-12-1912 ([ee583ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-1912))
+
 * Make bird wings limbs ([#85730](https://github.com/CleverRaven/Cataclysm-DDA/pull/85730))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-03-08-2305 ([818aa91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2305))
 
 * Make vines limbs ([#85735](https://github.com/CleverRaven/Cataclysm-DDA/pull/85735))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-08-2111 ([4fd63f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2111))
-
 * [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
 * Fix non-deterministic hp_max in clear_character() ([#85738](https://github.com/CleverRaven/Cataclysm-DDA/pull/85738))
 * Fix display_fridge furniture weight ([#85733](https://github.com/CleverRaven/Cataclysm-DDA/pull/85733))
