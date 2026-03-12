@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-12-0220 ([6228542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0220))
+
+* Show cable connections for appliances ([#85768](https://github.com/CleverRaven/Cataclysm-DDA/pull/85768))
+* Hub 01 cybernetic & wearable: LENS system ([#85782](https://github.com/CleverRaven/Cataclysm-DDA/pull/85782))
+* Add bionic limbs ([#85783](https://github.com/CleverRaven/Cataclysm-DDA/pull/85783))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-12-0141 ([fbc2467](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0141))
+
+* Add per-OMT snow depth tracking and movement penalty ([#85724](https://github.com/CleverRaven/Cataclysm-DDA/pull/85724))
+* Fix the calorie calculation error for rehydrated corn kernels ([#85647](https://github.com/CleverRaven/Cataclysm-DDA/pull/85647))
+* [Xedra Evolved] Add Lashing Bough style, the Arvore martial art ([#85745](https://github.com/CleverRaven/Cataclysm-DDA/pull/85745))
+* magiclysm: buff zoom lens spell ([#85774](https://github.com/CleverRaven/Cataclysm-DDA/pull/85774))
+* Filter get_avg_coverage() by viewer anatomy ([#85777](https://github.com/CleverRaven/Cataclysm-DDA/pull/85777))
+* [Xedra Evolved] Add mouth coverage to Paraclesian skins ([#85787](https://github.com/CleverRaven/Cataclysm-DDA/pull/85787))
+* [Xedra Evolved] Switch Breathe Without Air to using flags ([#85788](https://github.com/CleverRaven/Cataclysm-DDA/pull/85788))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-11-2309 ([9b5aa9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-2309))
 
 * squash string dimension overmap terrain whitelist ([#85779](https://github.com/CleverRaven/Cataclysm-DDA/pull/85779))
@@ -137,12 +157,6 @@
 #### Cataclysm-DDA experimental build 2026-03-08-2111 ([4fd63f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2111))
 
 * [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-08-1931 ([66a33a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-1931))
-
-* [WIP] Swiftly Salvaging or Slashing Somewhat Stupid Survivor Suits ([#85635](https://github.com/CleverRaven/Cataclysm-DDA/pull/85635))
 * Fix non-deterministic hp_max in clear_character() ([#85738](https://github.com/CleverRaven/Cataclysm-DDA/pull/85738))
 
 ---
@@ -159,18 +173,8 @@
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-08-0449 ([6dd894d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-0449))
-
 * Spelling Fixes ([#85654](https://github.com/CleverRaven/Cataclysm-DDA/pull/85654))
 * Welding and half-face PAPR masks ([#85702](https://github.com/CleverRaven/Cataclysm-DDA/pull/85702))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-08-0401 ([069db91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-0401))
-
 * [Sky Island] Breakup EOC file ([#85704](https://github.com/CleverRaven/Cataclysm-DDA/pull/85704))
 * Fix flaky melee damage type effectiveness test ([#85688](https://github.com/CleverRaven/Cataclysm-DDA/pull/85688))
 * Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
@@ -198,7 +202,6 @@
 * Digging up graves takes a very, very long time ([#85695](https://github.com/CleverRaven/Cataclysm-DDA/pull/85695))
 * Work to address #85666 ([#85672](https://github.com/CleverRaven/Cataclysm-DDA/pull/85672))
 * First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
-* Port translations and credits to 0.I ([#85634](https://github.com/CleverRaven/Cataclysm-DDA/pull/85634))
 * [Xedra Evolved] Elemental magic rework:  Arvore ([#85657](https://github.com/CleverRaven/Cataclysm-DDA/pull/85657))
 * Use suggestion blocks for IWYU review comments ([#85671](https://github.com/CleverRaven/Cataclysm-DDA/pull/85671))
 * Fix test labeler failing on nonexistent label removal ([#85674](https://github.com/CleverRaven/Cataclysm-DDA/pull/85674))
@@ -207,9 +210,7 @@
 * [MoM] Fix VERDANT HAND working when you can't use psi ([#85687](https://github.com/CleverRaven/Cataclysm-DDA/pull/85687))
 * Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
-* Fix multicooker segfault by flattening nested recipes in its UI ([#85623](https://github.com/CleverRaven/Cataclysm-DDA/pull/85623))
 * Tweak Pat's accent a bit (Pat says "Fahk") ([#85663](https://github.com/CleverRaven/Cataclysm-DDA/pull/85663))
-* make nail amounts more realistic ([#85631](https://github.com/CleverRaven/Cataclysm-DDA/pull/85631))
 * Grab-aware pathfinding: danger checks, strength gating, auto-move integration ([#85642](https://github.com/CleverRaven/Cataclysm-DDA/pull/85642))
 * calculate additional_pocket_encumbrance correctly ([#85646](https://github.com/CleverRaven/Cataclysm-DDA/pull/85646))
 * Fix flaky liquid_projectiles_applies_effect test ([#85676](https://github.com/CleverRaven/Cataclysm-DDA/pull/85676))
@@ -222,10 +223,4 @@
 * 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
 * Alien meadow connect groups ([#85645](https://github.com/CleverRaven/Cataclysm-DDA/pull/85645))
 * Re-cache `get_default_input_context()` ([#85641](https://github.com/CleverRaven/Cataclysm-DDA/pull/85641))
-* Use -fvisibility=hidden to shrink binary size further than bare `strip` ([#85638](https://github.com/CleverRaven/Cataclysm-DDA/pull/85638))
 * Converting Strings to Arrays ([#85640](https://github.com/CleverRaven/Cataclysm-DDA/pull/85640))
-* Pat will set up a commlink with you, if you have a Hub 01 interface and the correct CBMs ([#85624](https://github.com/CleverRaven/Cataclysm-DDA/pull/85624))
-* Fix various dialogue so players with `NO_CBM_INSTALLATION` can't get CBM interfaces ([#85626](https://github.com/CleverRaven/Cataclysm-DDA/pull/85626))
-* mutations `Hub01_CBM_Interface` and `NO_CBM_INSTALLATION` reciprocally cancel each other ([#85625](https://github.com/CleverRaven/Cataclysm-DDA/pull/85625))
-* Fix flaky hunger test: sync stored_kcal after height reset ([#85633](https://github.com/CleverRaven/Cataclysm-DDA/pull/85633))
-* Don't strip the entire binary, only strip debug symbols and locals ([#85637](https://github.com/CleverRaven/Cataclysm-DDA/pull/85637))
