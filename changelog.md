@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-13-0217 ([9879256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0217))
+
+* Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-13-0049 ([3cd76a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0049))
 
 * certain mutations affect bodymass ([#85794](https://github.com/CleverRaven/Cataclysm-DDA/pull/85794))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-03-09-0634 ([6c86522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0634))
 
 * Update visual studio build instructions to baseline VS 2022. ([#85747](https://github.com/CleverRaven/Cataclysm-DDA/pull/85747))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-09-0554 ([08b3d83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0554))
-
 * Weekly Changelog 2026-03-02 to 2026-03-09 ([#85746](https://github.com/CleverRaven/Cataclysm-DDA/pull/85746))
 * Vines as limbs bugfixes ([#85744](https://github.com/CleverRaven/Cataclysm-DDA/pull/85744))
 * [Magiclysm] Rework ravenfolk attack vector ([#85740](https://github.com/CleverRaven/Cataclysm-DDA/pull/85740))
@@ -213,7 +214,6 @@
 * Digging up graves takes a very, very long time ([#85695](https://github.com/CleverRaven/Cataclysm-DDA/pull/85695))
 * Work to address #85666 ([#85672](https://github.com/CleverRaven/Cataclysm-DDA/pull/85672))
 * First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
-* [Xedra Evolved] Elemental magic rework:  Arvore ([#85657](https://github.com/CleverRaven/Cataclysm-DDA/pull/85657))
 * Use suggestion blocks for IWYU review comments ([#85671](https://github.com/CleverRaven/Cataclysm-DDA/pull/85671))
 * Fix test labeler failing on nonexistent label removal ([#85674](https://github.com/CleverRaven/Cataclysm-DDA/pull/85674))
 * [Sky Island] No HUB01 chop shop in sky island ([#85681](https://github.com/CleverRaven/Cataclysm-DDA/pull/85681))
