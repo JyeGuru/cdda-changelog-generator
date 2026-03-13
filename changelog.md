@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-13-0049 ([3cd76a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0049))
+
+* certain mutations affect bodymass ([#85794](https://github.com/CleverRaven/Cataclysm-DDA/pull/85794))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-13-0004 ([9af06db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0004))
+
 * Rubik reacts to Hub 01 LENS ([#85804](https://github.com/CleverRaven/Cataclysm-DDA/pull/85804))
 * fix copy-paste error in intercom dialogue ([#85805](https://github.com/CleverRaven/Cataclysm-DDA/pull/85805))
 * [Xedra Evolved] Add `gramarye` version of the Paraclesian Birth hobby ([#85809](https://github.com/CleverRaven/Cataclysm-DDA/pull/85809))
@@ -166,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-03-09-0554 ([08b3d83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0554))
 
 * Weekly Changelog 2026-03-02 to 2026-03-09 ([#85746](https://github.com/CleverRaven/Cataclysm-DDA/pull/85746))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-09-0409 ([42c660f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0409))
-
 * Vines as limbs bugfixes ([#85744](https://github.com/CleverRaven/Cataclysm-DDA/pull/85744))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-08-2345 ([d7fe6ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-08-2345))
-
 * [Magiclysm] Rework ravenfolk attack vector ([#85740](https://github.com/CleverRaven/Cataclysm-DDA/pull/85740))
 * Make vines limbs ([#85735](https://github.com/CleverRaven/Cataclysm-DDA/pull/85735))
 * [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
@@ -203,7 +204,6 @@
 * Add --rng-seed-fuzz to test runner ([#85673](https://github.com/CleverRaven/Cataclysm-DDA/pull/85673))
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
 * Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
-* Bombastic Perks: Yeoman perk ([#85656](https://github.com/CleverRaven/Cataclysm-DDA/pull/85656))
 * Fix flaky vehicle_ramp_test by clearing items on non-zero z-levels ([#85691](https://github.com/CleverRaven/Cataclysm-DDA/pull/85691))
 * Fix main pathfinder routing through open air on upper floors ([#85692](https://github.com/CleverRaven/Cataclysm-DDA/pull/85692))
 * Fix infinite loops in surroundings menu for good ([#85698](https://github.com/CleverRaven/Cataclysm-DDA/pull/85698))
