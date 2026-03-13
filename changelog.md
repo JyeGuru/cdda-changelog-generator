@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-13-1840 ([0bf02da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-1840))
+
 * Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
 
 ---
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-03-09-2333 ([d257540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-2333))
 
 * Aftershock: Fix minor vahagn errors ([#85752](https://github.com/CleverRaven/Cataclysm-DDA/pull/85752))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-09-1533 ([78f3ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-1533))
-
 * [Xedra Evolved] Karma Arms/devil tail edits ([#85737](https://github.com/CleverRaven/Cataclysm-DDA/pull/85737))
 * [Xedra Evolved] Make Salamander On Wings of Flame actual wings ([#85739](https://github.com/CleverRaven/Cataclysm-DDA/pull/85739))
 * Update visual studio build instructions to baseline VS 2022. ([#85747](https://github.com/CleverRaven/Cataclysm-DDA/pull/85747))
