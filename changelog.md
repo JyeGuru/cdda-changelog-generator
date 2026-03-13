@@ -1,6 +1,22 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-13-0525 ([ddecf23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0525))
+
+* Fix character generation with custom XP scaling ([#85776](https://github.com/CleverRaven/Cataclysm-DDA/pull/85776))
+* Pat can use the Hub 01 LENS ([#85798](https://github.com/CleverRaven/Cataclysm-DDA/pull/85798))
+* Add `menu_text` to Pat's comm items ([#85799](https://github.com/CleverRaven/Cataclysm-DDA/pull/85799))
+* Fix typo in Pat's robo nickname snippet ([#85800](https://github.com/CleverRaven/Cataclysm-DDA/pull/85800))
+* [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-13-0437 ([0fc67f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0437))
+
+* [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral ([#85813](https://github.com/CleverRaven/Cataclysm-DDA/pull/85813))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-13-0217 ([9879256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0217))
 
 * Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
@@ -165,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-03-09-1533 ([78f3ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-1533))
 
 * [Xedra Evolved] Karma Arms/devil tail edits ([#85737](https://github.com/CleverRaven/Cataclysm-DDA/pull/85737))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-09-0828 ([02979af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0828))
-
 * [Xedra Evolved] Make Salamander On Wings of Flame actual wings ([#85739](https://github.com/CleverRaven/Cataclysm-DDA/pull/85739))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-09-0634 ([6c86522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-0634))
-
 * Update visual studio build instructions to baseline VS 2022. ([#85747](https://github.com/CleverRaven/Cataclysm-DDA/pull/85747))
 * Weekly Changelog 2026-03-02 to 2026-03-09 ([#85746](https://github.com/CleverRaven/Cataclysm-DDA/pull/85746))
 * Vines as limbs bugfixes ([#85744](https://github.com/CleverRaven/Cataclysm-DDA/pull/85744))
@@ -221,10 +227,5 @@
 * [MoM] Fix VERDANT HAND working when you can't use psi ([#85687](https://github.com/CleverRaven/Cataclysm-DDA/pull/85687))
 * Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
-* Tweak Pat's accent a bit (Pat says "Fahk") ([#85663](https://github.com/CleverRaven/Cataclysm-DDA/pull/85663))
 * Fix flaky liquid_projectiles_applies_effect test ([#85676](https://github.com/CleverRaven/Cataclysm-DDA/pull/85676))
 * Fix flaky dormant monster materialization test ([#85678](https://github.com/CleverRaven/Cataclysm-DDA/pull/85678))
-* 10 more shipping containers (up to 119 varieties) ([#85664](https://github.com/CleverRaven/Cataclysm-DDA/pull/85664))
-* Traits can control skill display ([#85659](https://github.com/CleverRaven/Cataclysm-DDA/pull/85659))
-* 0.I Backport #83734 and #83737 (fix MacOS releases) ([#85670](https://github.com/CleverRaven/Cataclysm-DDA/pull/85670))
-* 0.I Backport #84997 (fix CI) ([#85658](https://github.com/CleverRaven/Cataclysm-DDA/pull/85658))
