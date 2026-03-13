@@ -1,3 +1,10 @@
+* Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-13-1801 ([676f122](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-1801))
+
+* Add leathery arms as bodypart (between webbed hands and bat wings) ([#85810](https://github.com/CleverRaven/Cataclysm-DDA/pull/85810))
 
 ---
 
@@ -218,9 +225,7 @@
 * Ancilla doctor can repair damaged Hub 01 cybernetics ([#85699](https://github.com/CleverRaven/Cataclysm-DDA/pull/85699))
 * Add static check for nested mapgen furniture overlaps ([#85677](https://github.com/CleverRaven/Cataclysm-DDA/pull/85677))
 * Digging up graves takes a very, very long time ([#85695](https://github.com/CleverRaven/Cataclysm-DDA/pull/85695))
-* Work to address #85666 ([#85672](https://github.com/CleverRaven/Cataclysm-DDA/pull/85672))
 * First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
-* Use suggestion blocks for IWYU review comments ([#85671](https://github.com/CleverRaven/Cataclysm-DDA/pull/85671))
 * Fix test labeler failing on nonexistent label removal ([#85674](https://github.com/CleverRaven/Cataclysm-DDA/pull/85674))
 * [Sky Island] No HUB01 chop shop in sky island ([#85681](https://github.com/CleverRaven/Cataclysm-DDA/pull/85681))
 * Fix smoker/mill finalization on save off bubble ([#85683](https://github.com/CleverRaven/Cataclysm-DDA/pull/85683))
