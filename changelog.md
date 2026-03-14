@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-14-1353 ([a9ef97b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-1353))
+
+* Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-14-0301 ([d979da6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-0301))
 
 * `conceal-carry six-shooter` is actually six-shooter ([#85817](https://github.com/CleverRaven/Cataclysm-DDA/pull/85817))
@@ -182,11 +188,6 @@
 * Register active items in merge_submaps ([#85757](https://github.com/CleverRaven/Cataclysm-DDA/pull/85757))
 * Fix NPC wield_better_weapon selecting items inside wielded container ([#85764](https://github.com/CleverRaven/Cataclysm-DDA/pull/85764))
 * Fix missing faction ownership in bulk trade/donate ([#85761](https://github.com/CleverRaven/Cataclysm-DDA/pull/85761))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-10-1442 ([4444d93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1442))
-
 * Add event_statistic() dialogue function to math parser ([#85758](https://github.com/CleverRaven/Cataclysm-DDA/pull/85758))
 * Make iteminfo coverage/warmth test value-independent ([#85756](https://github.com/CleverRaven/Cataclysm-DDA/pull/85756))
 * If you have their attention the Yrax do things ([#85751](https://github.com/CleverRaven/Cataclysm-DDA/pull/85751))
@@ -233,4 +234,3 @@
 * First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
 * Fix smoker/mill finalization on save off bubble ([#85683](https://github.com/CleverRaven/Cataclysm-DDA/pull/85683))
 * [MoM] Fix VERDANT HAND working when you can't use psi ([#85687](https://github.com/CleverRaven/Cataclysm-DDA/pull/85687))
-* [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
