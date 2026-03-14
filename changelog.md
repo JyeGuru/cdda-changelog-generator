@@ -1,4 +1,9 @@
 * I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-14-2152 ([a01d984](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-2152))
+
 * Allow one to complete Anus Fetick if they've already been given a CBM interface ([#85811](https://github.com/CleverRaven/Cataclysm-DDA/pull/85811))
 * Add missing `types` to several mutations ([#85820](https://github.com/CleverRaven/Cataclysm-DDA/pull/85820))
 * Fix zone sort hang with liquid containers at UNLOAD zones ([#85834](https://github.com/CleverRaven/Cataclysm-DDA/pull/85834))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-03-11-0410 ([2d8c522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0410))
 
 * Disable upgrades for pseudo-dormant monsters ([#85759](https://github.com/CleverRaven/Cataclysm-DDA/pull/85759))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-10-2102 ([f6c0aae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-2102))
-
 * Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
 * Prioritize hostile targets over neutral when firing ([#85765](https://github.com/CleverRaven/Cataclysm-DDA/pull/85765))
 * Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
