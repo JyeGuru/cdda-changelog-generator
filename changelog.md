@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-14-0301 ([d979da6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-0301))
+
 * `conceal-carry six-shooter` is actually six-shooter ([#85817](https://github.com/CleverRaven/Cataclysm-DDA/pull/85817))
 * Update FMS about points pool ([#85822](https://github.com/CleverRaven/Cataclysm-DDA/pull/85822))
 * Stop pig murderers ([#85825](https://github.com/CleverRaven/Cataclysm-DDA/pull/85825))
@@ -184,11 +189,6 @@
 
 * Add event_statistic() dialogue function to math parser ([#85758](https://github.com/CleverRaven/Cataclysm-DDA/pull/85758))
 * Make iteminfo coverage/warmth test value-independent ([#85756](https://github.com/CleverRaven/Cataclysm-DDA/pull/85756))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-10-0217 ([ce43530](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-0217))
-
 * If you have their attention the Yrax do things ([#85751](https://github.com/CleverRaven/Cataclysm-DDA/pull/85751))
 * Add map::is_roofed() with vertical walk-up for precipitation checks ([#85721](https://github.com/CleverRaven/Cataclysm-DDA/pull/85721))
 * Reset calendar and weather between test cases ([#85754](https://github.com/CleverRaven/Cataclysm-DDA/pull/85754))
