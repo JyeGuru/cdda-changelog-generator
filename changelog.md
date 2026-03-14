@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-14-1702 ([e579be9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-1702))
+
 * MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
 * Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs ([#85821](https://github.com/CleverRaven/Cataclysm-DDA/pull/85821))
 * Some interactions between bionic limbs and mutations 2 ([#85819](https://github.com/CleverRaven/Cataclysm-DDA/pull/85819))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-03-10-1915 ([d8eca2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1915))
 
 * Prioritize hostile targets over neutral when firing ([#85765](https://github.com/CleverRaven/Cataclysm-DDA/pull/85765))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-10-1713 ([29b9012](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1713))
-
 * Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
 * Register active items in merge_submaps ([#85757](https://github.com/CleverRaven/Cataclysm-DDA/pull/85757))
 * Fix NPC wield_better_weapon selecting items inside wielded container ([#85764](https://github.com/CleverRaven/Cataclysm-DDA/pull/85764))
