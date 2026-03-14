@@ -1,3 +1,17 @@
+* MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
+* Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs ([#85821](https://github.com/CleverRaven/Cataclysm-DDA/pull/85821))
+* Some interactions between bionic limbs and mutations 2 ([#85819](https://github.com/CleverRaven/Cataclysm-DDA/pull/85819))
+* Fix zone sort stalling on large zones with mostly empty tiles ([#85835](https://github.com/CleverRaven/Cataclysm-DDA/pull/85835))
+* Hub 01 will install and repair basic bionic limbs ([#85802](https://github.com/CleverRaven/Cataclysm-DDA/pull/85802))
+* Fix snow depth: uniform accumulation, z-normalization, debug overlay ([#85816](https://github.com/CleverRaven/Cataclysm-DDA/pull/85816))
+* `README.md` fix template links ([#85818](https://github.com/CleverRaven/Cataclysm-DDA/pull/85818))
+* Remove reach attacks across z-levels ([#85753](https://github.com/CleverRaven/Cataclysm-DDA/pull/85753))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-14-1621 ([2f9a6a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-1621))
+
+* Update the links to accomodate for MD to YAML transition ([#85786](https://github.com/CleverRaven/Cataclysm-DDA/pull/85786))
 
 ---
 
@@ -180,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2026-03-10-1713 ([29b9012](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1713))
 
 * Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-10-1527 ([448c548](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1527))
-
 * Register active items in merge_submaps ([#85757](https://github.com/CleverRaven/Cataclysm-DDA/pull/85757))
 * Fix NPC wield_better_weapon selecting items inside wielded container ([#85764](https://github.com/CleverRaven/Cataclysm-DDA/pull/85764))
 * Fix missing faction ownership in bulk trade/donate ([#85761](https://github.com/CleverRaven/Cataclysm-DDA/pull/85761))
@@ -211,7 +220,6 @@
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
 * Welding and half-face PAPR masks ([#85702](https://github.com/CleverRaven/Cataclysm-DDA/pull/85702))
 * [Sky Island] Breakup EOC file ([#85704](https://github.com/CleverRaven/Cataclysm-DDA/pull/85704))
-* Fix flaky melee damage type effectiveness test ([#85688](https://github.com/CleverRaven/Cataclysm-DDA/pull/85688))
 * Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
 * Fix segfault after failed out-of-bounds teleport ([#85716](https://github.com/CleverRaven/Cataclysm-DDA/pull/85716))
 * string dimension ziggurats v3 ([#85717](https://github.com/CleverRaven/Cataclysm-DDA/pull/85717))
@@ -221,16 +229,8 @@
 * [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
 * Retune lying to Rubik about the warehouse ([#85701](https://github.com/CleverRaven/Cataclysm-DDA/pull/85701))
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
-* [MoM] Fix Hacking Interface ([#85694](https://github.com/CleverRaven/Cataclysm-DDA/pull/85694))
 * [Magiclysm] Make the Longing slightly more lenient ([#85709](https://github.com/CleverRaven/Cataclysm-DDA/pull/85709))
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
 * Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
-* Fix flaky vehicle_ramp_test by clearing items on non-zero z-levels ([#85691](https://github.com/CleverRaven/Cataclysm-DDA/pull/85691))
-* Fix main pathfinder routing through open air on upper floors ([#85692](https://github.com/CleverRaven/Cataclysm-DDA/pull/85692))
-* Fix infinite loops in surroundings menu for good ([#85698](https://github.com/CleverRaven/Cataclysm-DDA/pull/85698))
 * If Rubik sees you with Hub 01 cybernetics, no more Exodii for you ([#85700](https://github.com/CleverRaven/Cataclysm-DDA/pull/85700))
 * Ancilla doctor can repair damaged Hub 01 cybernetics ([#85699](https://github.com/CleverRaven/Cataclysm-DDA/pull/85699))
-* Digging up graves takes a very, very long time ([#85695](https://github.com/CleverRaven/Cataclysm-DDA/pull/85695))
-* First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
-* Fix smoker/mill finalization on save off bubble ([#85683](https://github.com/CleverRaven/Cataclysm-DDA/pull/85683))
-* [MoM] Fix VERDANT HAND working when you can't use psi ([#85687](https://github.com/CleverRaven/Cataclysm-DDA/pull/85687))
