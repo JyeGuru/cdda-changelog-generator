@@ -1,3 +1,4 @@
+* I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
 * Allow one to complete Anus Fetick if they've already been given a CBM interface ([#85811](https://github.com/CleverRaven/Cataclysm-DDA/pull/85811))
 * Add missing `types` to several mutations ([#85820](https://github.com/CleverRaven/Cataclysm-DDA/pull/85820))
 * Fix zone sort hang with liquid containers at UNLOAD zones ([#85834](https://github.com/CleverRaven/Cataclysm-DDA/pull/85834))
@@ -222,7 +223,6 @@
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
-* [Sky Island] Breakup EOC file ([#85704](https://github.com/CleverRaven/Cataclysm-DDA/pull/85704))
 * Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
 * Fix segfault after failed out-of-bounds teleport ([#85716](https://github.com/CleverRaven/Cataclysm-DDA/pull/85716))
 * string dimension ziggurats v3 ([#85717](https://github.com/CleverRaven/Cataclysm-DDA/pull/85717))
