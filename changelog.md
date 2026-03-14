@@ -1,3 +1,11 @@
+* Add missing `types` to several mutations ([#85820](https://github.com/CleverRaven/Cataclysm-DDA/pull/85820))
+* Fix zone sort hang with liquid containers at UNLOAD zones ([#85834](https://github.com/CleverRaven/Cataclysm-DDA/pull/85834))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-14-2050 ([0955033](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-2050))
+
+* A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
 
 ---
 
@@ -187,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-03-10-2102 ([f6c0aae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-2102))
 
 * Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-10-1915 ([d8eca2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-1915))
-
 * Prioritize hostile targets over neutral when firing ([#85765](https://github.com/CleverRaven/Cataclysm-DDA/pull/85765))
 * Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
 * Register active items in merge_submaps ([#85757](https://github.com/CleverRaven/Cataclysm-DDA/pull/85757))
@@ -227,10 +230,7 @@
 * Fix test labeler skipping PRs from fork master branches ([#85715](https://github.com/CleverRaven/Cataclysm-DDA/pull/85715))
 * Furniture mass: Part 2 ([#85718](https://github.com/CleverRaven/Cataclysm-DDA/pull/85718))
 * [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
-* Retune lying to Rubik about the warehouse ([#85701](https://github.com/CleverRaven/Cataclysm-DDA/pull/85701))
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
 * [Magiclysm] Make the Longing slightly more lenient ([#85709](https://github.com/CleverRaven/Cataclysm-DDA/pull/85709))
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
 * Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
-* If Rubik sees you with Hub 01 cybernetics, no more Exodii for you ([#85700](https://github.com/CleverRaven/Cataclysm-DDA/pull/85700))
-* Ancilla doctor can repair damaged Hub 01 cybernetics ([#85699](https://github.com/CleverRaven/Cataclysm-DDA/pull/85699))
