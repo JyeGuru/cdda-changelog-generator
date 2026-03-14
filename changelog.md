@@ -1,3 +1,20 @@
+* `conceal-carry six-shooter` is actually six-shooter ([#85817](https://github.com/CleverRaven/Cataclysm-DDA/pull/85817))
+* Update FMS about points pool ([#85822](https://github.com/CleverRaven/Cataclysm-DDA/pull/85822))
+* Stop pig murderers ([#85825](https://github.com/CleverRaven/Cataclysm-DDA/pull/85825))
+* Make crab legs a body part(s) ([#85832](https://github.com/CleverRaven/Cataclysm-DDA/pull/85832))
+* Move debug helmet_scavenger recipe to test_data ([#85833](https://github.com/CleverRaven/Cataclysm-DDA/pull/85833))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-14-0148 ([bd51fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-0148))
+
+* Modification of Vehicle Spawn Weighting ([#85790](https://github.com/CleverRaven/Cataclysm-DDA/pull/85790))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-14-0002 ([a405209](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-0002))
+
+* Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
 
 ---
 
@@ -173,19 +190,9 @@
 #### Cataclysm-DDA experimental build 2026-03-10-0217 ([ce43530](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-0217))
 
 * If you have their attention the Yrax do things ([#85751](https://github.com/CleverRaven/Cataclysm-DDA/pull/85751))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-10-0137 ([f09ebea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-10-0137))
-
 * Add map::is_roofed() with vertical walk-up for precipitation checks ([#85721](https://github.com/CleverRaven/Cataclysm-DDA/pull/85721))
 * Reset calendar and weather between test cases ([#85754](https://github.com/CleverRaven/Cataclysm-DDA/pull/85754))
 * Remove redundant pull_request trigger from IWYU Suggester ([#85755](https://github.com/CleverRaven/Cataclysm-DDA/pull/85755))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-09-2333 ([d257540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-09-2333))
-
 * Aftershock: Fix minor vahagn errors ([#85752](https://github.com/CleverRaven/Cataclysm-DDA/pull/85752))
 * [Xedra Evolved] Karma Arms/devil tail edits ([#85737](https://github.com/CleverRaven/Cataclysm-DDA/pull/85737))
 * [Xedra Evolved] Make Salamander On Wings of Flame actual wings ([#85739](https://github.com/CleverRaven/Cataclysm-DDA/pull/85739))
@@ -215,7 +222,6 @@
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
 * [MoM] Fix Hacking Interface ([#85694](https://github.com/CleverRaven/Cataclysm-DDA/pull/85694))
 * [Magiclysm] Make the Longing slightly more lenient ([#85709](https://github.com/CleverRaven/Cataclysm-DDA/pull/85709))
-* Add --rng-seed-fuzz to test runner ([#85673](https://github.com/CleverRaven/Cataclysm-DDA/pull/85673))
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
 * Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
 * Fix flaky vehicle_ramp_test by clearing items on non-zero z-levels ([#85691](https://github.com/CleverRaven/Cataclysm-DDA/pull/85691))
@@ -223,14 +229,8 @@
 * Fix infinite loops in surroundings menu for good ([#85698](https://github.com/CleverRaven/Cataclysm-DDA/pull/85698))
 * If Rubik sees you with Hub 01 cybernetics, no more Exodii for you ([#85700](https://github.com/CleverRaven/Cataclysm-DDA/pull/85700))
 * Ancilla doctor can repair damaged Hub 01 cybernetics ([#85699](https://github.com/CleverRaven/Cataclysm-DDA/pull/85699))
-* Add static check for nested mapgen furniture overlaps ([#85677](https://github.com/CleverRaven/Cataclysm-DDA/pull/85677))
 * Digging up graves takes a very, very long time ([#85695](https://github.com/CleverRaven/Cataclysm-DDA/pull/85695))
 * First batch of Hub 01 bionics ([#85685](https://github.com/CleverRaven/Cataclysm-DDA/pull/85685))
-* Fix test labeler failing on nonexistent label removal ([#85674](https://github.com/CleverRaven/Cataclysm-DDA/pull/85674))
-* [Sky Island] No HUB01 chop shop in sky island ([#85681](https://github.com/CleverRaven/Cataclysm-DDA/pull/85681))
 * Fix smoker/mill finalization on save off bubble ([#85683](https://github.com/CleverRaven/Cataclysm-DDA/pull/85683))
 * [MoM] Fix VERDANT HAND working when you can't use psi ([#85687](https://github.com/CleverRaven/Cataclysm-DDA/pull/85687))
-* Fix format specifiers in inventory UI ([#85680](https://github.com/CleverRaven/Cataclysm-DDA/pull/85680))
 * [alt-map-key] Overmap terrain update ([#85682](https://github.com/CleverRaven/Cataclysm-DDA/pull/85682))
-* Fix flaky liquid_projectiles_applies_effect test ([#85676](https://github.com/CleverRaven/Cataclysm-DDA/pull/85676))
-* Fix flaky dormant monster materialization test ([#85678](https://github.com/CleverRaven/Cataclysm-DDA/pull/85678))
