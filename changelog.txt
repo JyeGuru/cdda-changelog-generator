@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-03-15-0055 (4dba902)
+* Fix zone activities ignoring player cancel (#85844)
 * I the command commenter (#85845)
 
 Cataclysm-DDA experimental build 2026-03-14-2152 (a01d984)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2026-03-11-0818 (c6565aa)
 
 Cataclysm-DDA experimental build 2026-03-11-0503 (5be9a3e)
 * new special for string dimension, electronic things with odd monitors (#85749)
-
-Cataclysm-DDA experimental build 2026-03-11-0410 (2d8c522)
 * Disable upgrades for pseudo-dormant monsters (#85759)
 * Hoof subpart max coverage adds up to 100 (#85771)
 * Prioritize hostile targets over neutral when firing (#85765)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2026-03-11-0410 (2d8c522)
 * Fix battery spawns in the evac shelter (#85711)
 * [Magiclysm] Make the Longing slightly more lenient (#85709)
 * Filter item info body part display by viewer anatomy (#85707)
-* Fix being able to skip over the LIXA fall EOC (#85705)

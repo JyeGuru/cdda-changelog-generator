@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-15-0055 ([4dba902](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0055))
+
+* Fix zone activities ignoring player cancel ([#85844](https://github.com/CleverRaven/Cataclysm-DDA/pull/85844))
 * I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
 
 ---
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-03-11-0503 ([5be9a3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0503))
 
 * new special for string dimension, electronic things with odd monitors ([#85749](https://github.com/CleverRaven/Cataclysm-DDA/pull/85749))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-11-0410 ([2d8c522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0410))
-
 * Disable upgrades for pseudo-dormant monsters ([#85759](https://github.com/CleverRaven/Cataclysm-DDA/pull/85759))
 * Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
 * Prioritize hostile targets over neutral when firing ([#85765](https://github.com/CleverRaven/Cataclysm-DDA/pull/85765))
@@ -233,4 +234,3 @@
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
 * [Magiclysm] Make the Longing slightly more lenient ([#85709](https://github.com/CleverRaven/Cataclysm-DDA/pull/85709))
 * Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
-* Fix being able to skip over the LIXA fall EOC ([#85705](https://github.com/CleverRaven/Cataclysm-DDA/pull/85705))
