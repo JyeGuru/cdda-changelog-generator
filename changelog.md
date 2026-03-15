@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-15-0540 ([88e0480](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0540))
+
+* [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-15-0500 ([aaf8649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0500))
+
+* Fix cable disconnection on reality bubble transitions ([#85846](https://github.com/CleverRaven/Cataclysm-DDA/pull/85846))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-15-0344 ([f23f732](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0344))
 
 * Remove chunk of graphite from recipe for clay crucible ([#85831](https://github.com/CleverRaven/Cataclysm-DDA/pull/85831))
@@ -190,11 +202,6 @@
 * Reset Exodii labyrinth each time you visit ([#85769](https://github.com/CleverRaven/Cataclysm-DDA/pull/85769))
 * Properly show materials for repair, not material type ([#85772](https://github.com/CleverRaven/Cataclysm-DDA/pull/85772))
 * magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-11-0818 ([c6565aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0818))
-
 * Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))
 * new special for string dimension, electronic things with odd monitors ([#85749](https://github.com/CleverRaven/Cataclysm-DDA/pull/85749))
 * Disable upgrades for pseudo-dormant monsters ([#85759](https://github.com/CleverRaven/Cataclysm-DDA/pull/85759))
@@ -231,6 +238,4 @@
 * Delete android sdk on macs on releases too. ([#85713](https://github.com/CleverRaven/Cataclysm-DDA/pull/85713))
 * Fix test labeler skipping PRs from fork master branches ([#85715](https://github.com/CleverRaven/Cataclysm-DDA/pull/85715))
 * Furniture mass: Part 2 ([#85718](https://github.com/CleverRaven/Cataclysm-DDA/pull/85718))
-* [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
-* [Magiclysm] Make the Longing slightly more lenient ([#85709](https://github.com/CleverRaven/Cataclysm-DDA/pull/85709))
