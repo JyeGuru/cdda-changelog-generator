@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-03-15-1328 (c621659)
+* Increase towels (#85852)
+
+Cataclysm-DDA experimental build 2026-03-15-1247 (73606fb)
+* Aftershock: Small bugfix round (#85847)
+
 Cataclysm-DDA experimental build 2026-03-15-0540 (88e0480)
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills (#85848)
 
@@ -107,11 +113,7 @@ Cataclysm-DDA experimental build 2026-03-12-0141 (fbc2467)
 
 Cataclysm-DDA experimental build 2026-03-11-2309 (9b5aa9d)
 * squash string dimension overmap terrain whitelist (#85779)
-
-Cataclysm-DDA experimental build 2026-03-11-2225 (a537401)
 * Turn woodpecker beak into a body part (#85780)
-
-Cataclysm-DDA experimental build 2026-03-11-1323 (042e5e1)
 * Reset Exodii labyrinth each time you visit (#85769)
 * Properly show materials for repair, not material type (#85772)
 * magiclysm: fix mana potions (#85775)
@@ -151,4 +153,3 @@ Cataclysm-DDA experimental build 2026-03-11-1323 (042e5e1)
 * Delete android sdk on macs on releases too. (#85713)
 * Fix test labeler skipping PRs from fork master branches (#85715)
 * Furniture mass: Part 2 (#85718)
-* Fix battery spawns in the evac shelter (#85711)

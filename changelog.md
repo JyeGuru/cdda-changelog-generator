@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-15-1328 ([c621659](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-1328))
+
+* Increase towels ([#85852](https://github.com/CleverRaven/Cataclysm-DDA/pull/85852))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-15-1247 ([73606fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-1247))
+
+* Aftershock: Small bugfix round ([#85847](https://github.com/CleverRaven/Cataclysm-DDA/pull/85847))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-15-0540 ([88e0480](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0540))
 
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
@@ -188,17 +200,7 @@
 #### Cataclysm-DDA experimental build 2026-03-11-2309 ([9b5aa9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-2309))
 
 * squash string dimension overmap terrain whitelist ([#85779](https://github.com/CleverRaven/Cataclysm-DDA/pull/85779))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-11-2225 ([a537401](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-2225))
-
 * Turn woodpecker beak into a body part ([#85780](https://github.com/CleverRaven/Cataclysm-DDA/pull/85780))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-11-1323 ([042e5e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-1323))
-
 * Reset Exodii labyrinth each time you visit ([#85769](https://github.com/CleverRaven/Cataclysm-DDA/pull/85769))
 * Properly show materials for repair, not material type ([#85772](https://github.com/CleverRaven/Cataclysm-DDA/pull/85772))
 * magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
@@ -238,4 +240,3 @@
 * Delete android sdk on macs on releases too. ([#85713](https://github.com/CleverRaven/Cataclysm-DDA/pull/85713))
 * Fix test labeler skipping PRs from fork master branches ([#85715](https://github.com/CleverRaven/Cataclysm-DDA/pull/85715))
 * Furniture mass: Part 2 ([#85718](https://github.com/CleverRaven/Cataclysm-DDA/pull/85718))
-* Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
