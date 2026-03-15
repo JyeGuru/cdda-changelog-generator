@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-15-0344 (f23f732)
+* Remove chunk of graphite from recipe for clay crucible (#85831)
+
 Cataclysm-DDA experimental build 2026-03-15-0055 (4dba902)
 * Fix zone activities ignoring player cancel (#85844)
 * I the command commenter (#85845)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2026-03-11-1323 (042e5e1)
 
 Cataclysm-DDA experimental build 2026-03-11-0818 (c6565aa)
 * Fix weird first person disassembly message (#85778)
-
-Cataclysm-DDA experimental build 2026-03-11-0503 (5be9a3e)
 * new special for string dimension, electronic things with odd monitors (#85749)
 * Disable upgrades for pseudo-dormant monsters (#85759)
 * Hoof subpart max coverage adds up to 100 (#85771)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2026-03-11-0503 (5be9a3e)
 * [MoM] Turn teleportation crystals into artifacts (#85710)
 * Fix battery spawns in the evac shelter (#85711)
 * [Magiclysm] Make the Longing slightly more lenient (#85709)
-* Filter item info body part display by viewer anatomy (#85707)

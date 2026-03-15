@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-15-0344 ([f23f732](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0344))
+
+* Remove chunk of graphite from recipe for clay crucible ([#85831](https://github.com/CleverRaven/Cataclysm-DDA/pull/85831))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-15-0055 ([4dba902](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0055))
 
 * Fix zone activities ignoring player cancel ([#85844](https://github.com/CleverRaven/Cataclysm-DDA/pull/85844))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-03-11-0818 ([c6565aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0818))
 
 * Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-11-0503 ([5be9a3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-11-0503))
-
 * new special for string dimension, electronic things with odd monitors ([#85749](https://github.com/CleverRaven/Cataclysm-DDA/pull/85749))
 * Disable upgrades for pseudo-dormant monsters ([#85759](https://github.com/CleverRaven/Cataclysm-DDA/pull/85759))
 * Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
@@ -233,4 +234,3 @@
 * [MoM] Turn teleportation crystals into artifacts ([#85710](https://github.com/CleverRaven/Cataclysm-DDA/pull/85710))
 * Fix battery spawns in the evac shelter ([#85711](https://github.com/CleverRaven/Cataclysm-DDA/pull/85711))
 * [Magiclysm] Make the Longing slightly more lenient ([#85709](https://github.com/CleverRaven/Cataclysm-DDA/pull/85709))
-* Filter item info body part display by viewer anatomy ([#85707](https://github.com/CleverRaven/Cataclysm-DDA/pull/85707))
