@@ -1,3 +1,10 @@
+* Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility ([#85882](https://github.com/CleverRaven/Cataclysm-DDA/pull/85882))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-16-1053 ([1cbd71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1053))
+
+* Allow melee attacks on matching stairs across z-levels ([#85880](https://github.com/CleverRaven/Cataclysm-DDA/pull/85880))
 
 ---
 
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-03-12-1047 ([233703a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-1047))
 
 * Reason for default mountable_Weight_ratio ([#85792](https://github.com/CleverRaven/Cataclysm-DDA/pull/85792))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-12-0422 ([f277ead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0422))
-
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it ([#85785](https://github.com/CleverRaven/Cataclysm-DDA/pull/85785))
 * [MoM] A shadow? is vulnerable to photokinetic damage ([#85789](https://github.com/CleverRaven/Cataclysm-DDA/pull/85789))
 * Show cable connections for appliances ([#85768](https://github.com/CleverRaven/Cataclysm-DDA/pull/85768))
@@ -221,7 +223,6 @@
 * Add event_statistic() dialogue function to math parser ([#85758](https://github.com/CleverRaven/Cataclysm-DDA/pull/85758))
 * Make iteminfo coverage/warmth test value-independent ([#85756](https://github.com/CleverRaven/Cataclysm-DDA/pull/85756))
 * If you have their attention the Yrax do things ([#85751](https://github.com/CleverRaven/Cataclysm-DDA/pull/85751))
-* Add map::is_roofed() with vertical walk-up for precipitation checks ([#85721](https://github.com/CleverRaven/Cataclysm-DDA/pull/85721))
 * Reset calendar and weather between test cases ([#85754](https://github.com/CleverRaven/Cataclysm-DDA/pull/85754))
 * Remove redundant pull_request trigger from IWYU Suggester ([#85755](https://github.com/CleverRaven/Cataclysm-DDA/pull/85755))
 * Aftershock: Fix minor vahagn errors ([#85752](https://github.com/CleverRaven/Cataclysm-DDA/pull/85752))
@@ -239,4 +240,3 @@
 * [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
-* Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
