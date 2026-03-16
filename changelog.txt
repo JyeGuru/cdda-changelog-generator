@@ -1,3 +1,6 @@
+* Turn Bat wings into limbs (#85890)
+
+Cataclysm-DDA experimental build 2026-03-16-2027 (1f881f8)
 * Fix typos in Hub items (#85850)
 * Fix flaky swim_under tests (#85888)
 * Fix multi-zone activity hang on large zones (#85872)
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2026-03-13-0437 (0fc67f7)
 
 Cataclysm-DDA experimental build 2026-03-13-0217 (9879256)
 * Some interactions between bionic limbs and mutations (#85812)
-
-Cataclysm-DDA experimental build 2026-03-13-0049 (3cd76a0)
 * certain mutations affect bodymass (#85794)
 * Rubik reacts to Hub 01 LENS (#85804)
 * fix copy-paste error in intercom dialogue (#85805)
@@ -153,6 +154,5 @@ Cataclysm-DDA experimental build 2026-03-13-0049 (3cd76a0)
 * Weekly Changelog 2026-03-02 to 2026-03-09 (#85746)
 * Vines as limbs bugfixes (#85744)
 * [Magiclysm] Rework ravenfolk attack vector (#85740)
-* Make vines limbs (#85735)
 * [MoM] Add String dimension to "in nether" conditions (#85736)
 * Fix non-deterministic hp_max in clear_character() (#85738)

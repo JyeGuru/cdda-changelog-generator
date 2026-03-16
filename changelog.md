@@ -1,3 +1,9 @@
+* Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-16-2027 ([1f881f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-2027))
+
 * Fix typos in Hub items ([#85850](https://github.com/CleverRaven/Cataclysm-DDA/pull/85850))
 * Fix flaky swim_under tests ([#85888](https://github.com/CleverRaven/Cataclysm-DDA/pull/85888))
 * Fix multi-zone activity hang on large zones ([#85872](https://github.com/CleverRaven/Cataclysm-DDA/pull/85872))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2026-03-13-0217 ([9879256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0217))
 
 * Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-13-0049 ([3cd76a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0049))
-
 * certain mutations affect bodymass ([#85794](https://github.com/CleverRaven/Cataclysm-DDA/pull/85794))
 * Rubik reacts to Hub 01 LENS ([#85804](https://github.com/CleverRaven/Cataclysm-DDA/pull/85804))
 * fix copy-paste error in intercom dialogue ([#85805](https://github.com/CleverRaven/Cataclysm-DDA/pull/85805))
@@ -243,6 +244,5 @@
 * Weekly Changelog 2026-03-02 to 2026-03-09 ([#85746](https://github.com/CleverRaven/Cataclysm-DDA/pull/85746))
 * Vines as limbs bugfixes ([#85744](https://github.com/CleverRaven/Cataclysm-DDA/pull/85744))
 * [Magiclysm] Rework ravenfolk attack vector ([#85740](https://github.com/CleverRaven/Cataclysm-DDA/pull/85740))
-* Make vines limbs ([#85735](https://github.com/CleverRaven/Cataclysm-DDA/pull/85735))
 * [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
 * Fix non-deterministic hp_max in clear_character() ([#85738](https://github.com/CleverRaven/Cataclysm-DDA/pull/85738))
