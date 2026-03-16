@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-16-0541 ([a1a3fb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-0541))
+
+* Fix monster melee special attacks being insanely inaccurate ([#85867](https://github.com/CleverRaven/Cataclysm-DDA/pull/85867))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-16-0346 ([e095c0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-0346))
 
 * You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure ([#85870](https://github.com/CleverRaven/Cataclysm-DDA/pull/85870))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2026-03-12-0422 ([f277ead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0422))
 
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it ([#85785](https://github.com/CleverRaven/Cataclysm-DDA/pull/85785))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-12-0409 ([45990d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-0409))
-
 * [MoM] A shadow? is vulnerable to photokinetic damage ([#85789](https://github.com/CleverRaven/Cataclysm-DDA/pull/85789))
 * Show cable connections for appliances ([#85768](https://github.com/CleverRaven/Cataclysm-DDA/pull/85768))
 * Hub 01 cybernetic & wearable: LENS system ([#85782](https://github.com/CleverRaven/Cataclysm-DDA/pull/85782))
@@ -239,4 +240,3 @@
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
 * Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
 * Fix batteries in more places in the evac shellter ([#85722](https://github.com/CleverRaven/Cataclysm-DDA/pull/85722))
-* Furniture mass: Part 2 ([#85718](https://github.com/CleverRaven/Cataclysm-DDA/pull/85718))

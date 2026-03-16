@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-16-0541 (a1a3fb8)
+* Fix monster melee special attacks being insanely inaccurate (#85867)
+
 Cataclysm-DDA experimental build 2026-03-16-0346 (e095c0b)
 * You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure (#85870)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2026-03-12-1047 (233703a)
 
 Cataclysm-DDA experimental build 2026-03-12-0422 (f277ead)
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it (#85785)
-
-Cataclysm-DDA experimental build 2026-03-12-0409 (45990d9)
 * [MoM] A shadow? is vulnerable to photokinetic damage (#85789)
 * Show cable connections for appliances (#85768)
 * Hub 01 cybernetic & wearable: LENS system (#85782)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2026-03-12-0409 (45990d9)
 * Document random_start_allowed which I added in a PR last week (#85731)
 * Fix mac builds on release branch. (#85726)
 * Fix batteries in more places in the evac shellter (#85722)
-* Furniture mass: Part 2 (#85718)
