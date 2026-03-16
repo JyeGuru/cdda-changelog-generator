@@ -1,3 +1,17 @@
+* Clear highway intersection grid in overmapbuffer::reset() ([#85883](https://github.com/CleverRaven/Cataclysm-DDA/pull/85883))
+* Remove Catch2 v2 internal API usage from test runner ([#85874](https://github.com/CleverRaven/Cataclysm-DDA/pull/85874))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-03-16-1406 ([3a95122](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-16-1406))
+
+* Fixes Cloud Formation and Pressure ([#85855](https://github.com/CleverRaven/Cataclysm-DDA/pull/85855))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-16-1404 ([05625e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1404))
+
+* Make mod conflict checks bidirectional ([#85881](https://github.com/CleverRaven/Cataclysm-DDA/pull/85881))
 
 ---
 
@@ -188,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2026-03-12-2219 ([7527522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-2219))
 
 * [Xedra Evolved] Add Offworld Acquisitions specialist: The Six Million Dollar (Wo)man ([#85806](https://github.com/CleverRaven/Cataclysm-DDA/pull/85806))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-12-1912 ([ee583ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-1912))
-
 * Make bird wings limbs ([#85730](https://github.com/CleverRaven/Cataclysm-DDA/pull/85730))
 * Reason for default mountable_Weight_ratio ([#85792](https://github.com/CleverRaven/Cataclysm-DDA/pull/85792))
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it ([#85785](https://github.com/CleverRaven/Cataclysm-DDA/pull/85785))
@@ -200,7 +209,6 @@
 * Show cable connections for appliances ([#85768](https://github.com/CleverRaven/Cataclysm-DDA/pull/85768))
 * Hub 01 cybernetic & wearable: LENS system ([#85782](https://github.com/CleverRaven/Cataclysm-DDA/pull/85782))
 * Add bionic limbs ([#85783](https://github.com/CleverRaven/Cataclysm-DDA/pull/85783))
-* Add per-OMT snow depth tracking and movement penalty ([#85724](https://github.com/CleverRaven/Cataclysm-DDA/pull/85724))
 * [Xedra Evolved] Add Lashing Bough style, the Arvore martial art ([#85745](https://github.com/CleverRaven/Cataclysm-DDA/pull/85745))
 * magiclysm: buff zoom lens spell ([#85774](https://github.com/CleverRaven/Cataclysm-DDA/pull/85774))
 * Filter get_avg_coverage() by viewer anatomy ([#85777](https://github.com/CleverRaven/Cataclysm-DDA/pull/85777))
@@ -237,6 +245,4 @@
 * Fix non-deterministic hp_max in clear_character() ([#85738](https://github.com/CleverRaven/Cataclysm-DDA/pull/85738))
 * Fix display_fridge furniture weight ([#85733](https://github.com/CleverRaven/Cataclysm-DDA/pull/85733))
 * [Sky Island] Portal storms only happen in the raid dimension ([#85732](https://github.com/CleverRaven/Cataclysm-DDA/pull/85732))
-* [Xedra Evolved] Move changelings to the `gramarye` skill for their powers ([#85729](https://github.com/CleverRaven/Cataclysm-DDA/pull/85729))
 * Document random_start_allowed which I added in a PR last week ([#85731](https://github.com/CleverRaven/Cataclysm-DDA/pull/85731))
-* Fix mac builds on release branch. ([#85726](https://github.com/CleverRaven/Cataclysm-DDA/pull/85726))
