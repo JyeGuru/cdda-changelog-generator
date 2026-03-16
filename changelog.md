@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-16-2112 ([10e7df3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-2112))
+
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2026-03-13-0437 ([0fc67f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0437))
 
 * [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral ([#85813](https://github.com/CleverRaven/Cataclysm-DDA/pull/85813))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-13-0217 ([9879256](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0217))
-
 * Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
 * certain mutations affect bodymass ([#85794](https://github.com/CleverRaven/Cataclysm-DDA/pull/85794))
 * Rubik reacts to Hub 01 LENS ([#85804](https://github.com/CleverRaven/Cataclysm-DDA/pull/85804))
