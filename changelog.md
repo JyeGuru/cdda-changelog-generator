@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-16-1537 ([54dafc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1537))
+
 * Clear highway intersection grid in overmapbuffer::reset() ([#85883](https://github.com/CleverRaven/Cataclysm-DDA/pull/85883))
 * Remove Catch2 v2 internal API usage from test runner ([#85874](https://github.com/CleverRaven/Cataclysm-DDA/pull/85874))
 
@@ -196,11 +201,6 @@
 * fix copy-paste error in intercom dialogue ([#85805](https://github.com/CleverRaven/Cataclysm-DDA/pull/85805))
 * [Xedra Evolved] Add `gramarye` version of the Paraclesian Birth hobby ([#85809](https://github.com/CleverRaven/Cataclysm-DDA/pull/85809))
 * [Xedra Evolved] Add Salamander magic type ([#85807](https://github.com/CleverRaven/Cataclysm-DDA/pull/85807))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-12-2219 ([7527522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-12-2219))
-
 * [Xedra Evolved] Add Offworld Acquisitions specialist: The Six Million Dollar (Wo)man ([#85806](https://github.com/CleverRaven/Cataclysm-DDA/pull/85806))
 * Make bird wings limbs ([#85730](https://github.com/CleverRaven/Cataclysm-DDA/pull/85730))
 * Reason for default mountable_Weight_ratio ([#85792](https://github.com/CleverRaven/Cataclysm-DDA/pull/85792))
