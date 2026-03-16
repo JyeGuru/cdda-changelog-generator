@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-16-2318 ([7c0aa2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-2318))
+
+* unify windage and no_power effects for limbs ([#85824](https://github.com/CleverRaven/Cataclysm-DDA/pull/85824))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-16-2112 ([10e7df3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-2112))
 
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
@@ -184,21 +190,11 @@
 #### Cataclysm-DDA experimental build 2026-03-13-1801 ([676f122](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-1801))
 
 * Add leathery arms as bodypart (between webbed hands and bat wings) ([#85810](https://github.com/CleverRaven/Cataclysm-DDA/pull/85810))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-13-0525 ([ddecf23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0525))
-
 * Fix character generation with custom XP scaling ([#85776](https://github.com/CleverRaven/Cataclysm-DDA/pull/85776))
 * Pat can use the Hub 01 LENS ([#85798](https://github.com/CleverRaven/Cataclysm-DDA/pull/85798))
 * Add `menu_text` to Pat's comm items ([#85799](https://github.com/CleverRaven/Cataclysm-DDA/pull/85799))
 * Fix typo in Pat's robo nickname snippet ([#85800](https://github.com/CleverRaven/Cataclysm-DDA/pull/85800))
 * [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-13-0437 ([0fc67f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-0437))
-
 * [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral ([#85813](https://github.com/CleverRaven/Cataclysm-DDA/pull/85813))
 * Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
 * certain mutations affect bodymass ([#85794](https://github.com/CleverRaven/Cataclysm-DDA/pull/85794))
@@ -244,5 +240,4 @@
 * Weekly Changelog 2026-03-02 to 2026-03-09 ([#85746](https://github.com/CleverRaven/Cataclysm-DDA/pull/85746))
 * Vines as limbs bugfixes ([#85744](https://github.com/CleverRaven/Cataclysm-DDA/pull/85744))
 * [Magiclysm] Rework ravenfolk attack vector ([#85740](https://github.com/CleverRaven/Cataclysm-DDA/pull/85740))
-* [MoM] Add String dimension to "in nether" conditions ([#85736](https://github.com/CleverRaven/Cataclysm-DDA/pull/85736))
 * Fix non-deterministic hp_max in clear_character() ([#85738](https://github.com/CleverRaven/Cataclysm-DDA/pull/85738))
