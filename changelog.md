@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-17-0511 ([653387b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-0511))
+
+* stop molotovs from detonating in your arms, fix it crashing the game ([#85871](https://github.com/CleverRaven/Cataclysm-DDA/pull/85871))
+* Fix butchery yield for sub-gram harvest items ([#85886](https://github.com/CleverRaven/Cataclysm-DDA/pull/85886))
+* [Xedra Evolved] Paraclesians are born ignorant of technology ([#85899](https://github.com/CleverRaven/Cataclysm-DDA/pull/85899))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-17-0402 ([a91330e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-0402))
+
 * [Magiclysm] Ravenfolk wings now have feathers ([#85893](https://github.com/CleverRaven/Cataclysm-DDA/pull/85893))
 * make dense bones hp bonus match description ([#85898](https://github.com/CleverRaven/Cataclysm-DDA/pull/85898))
 
@@ -180,17 +193,7 @@
 #### Cataclysm-DDA experimental build 2026-03-14-0148 ([bd51fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-0148))
 
 * Modification of Vehicle Spawn Weighting ([#85790](https://github.com/CleverRaven/Cataclysm-DDA/pull/85790))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-14-0002 ([a405209](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-0002))
-
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-13-1840 ([0bf02da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-13-1840))
-
 * Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
 * Add leathery arms as bodypart (between webbed hands and bat wings) ([#85810](https://github.com/CleverRaven/Cataclysm-DDA/pull/85810))
 * Fix character generation with custom XP scaling ([#85776](https://github.com/CleverRaven/Cataclysm-DDA/pull/85776))
@@ -212,7 +215,6 @@
 * Show cable connections for appliances ([#85768](https://github.com/CleverRaven/Cataclysm-DDA/pull/85768))
 * Hub 01 cybernetic & wearable: LENS system ([#85782](https://github.com/CleverRaven/Cataclysm-DDA/pull/85782))
 * Add bionic limbs ([#85783](https://github.com/CleverRaven/Cataclysm-DDA/pull/85783))
-* [Xedra Evolved] Add Lashing Bough style, the Arvore martial art ([#85745](https://github.com/CleverRaven/Cataclysm-DDA/pull/85745))
 * magiclysm: buff zoom lens spell ([#85774](https://github.com/CleverRaven/Cataclysm-DDA/pull/85774))
 * Filter get_avg_coverage() by viewer anatomy ([#85777](https://github.com/CleverRaven/Cataclysm-DDA/pull/85777))
 * [Xedra Evolved] Add mouth coverage to Paraclesian skins ([#85787](https://github.com/CleverRaven/Cataclysm-DDA/pull/85787))
@@ -239,5 +241,3 @@
 * Aftershock: Fix minor vahagn errors ([#85752](https://github.com/CleverRaven/Cataclysm-DDA/pull/85752))
 * Update visual studio build instructions to baseline VS 2022. ([#85747](https://github.com/CleverRaven/Cataclysm-DDA/pull/85747))
 * Weekly Changelog 2026-03-02 to 2026-03-09 ([#85746](https://github.com/CleverRaven/Cataclysm-DDA/pull/85746))
-* Vines as limbs bugfixes ([#85744](https://github.com/CleverRaven/Cataclysm-DDA/pull/85744))
-* [Magiclysm] Rework ravenfolk attack vector ([#85740](https://github.com/CleverRaven/Cataclysm-DDA/pull/85740))
