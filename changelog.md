@@ -1,3 +1,10 @@
+* Make morale recovery non-destructive, init mutation state on load ([#85902](https://github.com/CleverRaven/Cataclysm-DDA/pull/85902))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-17-1730 ([d05bec6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-1730))
+
+* Respect magazine_well when calculating encumbrance ([#85911](https://github.com/CleverRaven/Cataclysm-DDA/pull/85911))
 
 ---
 
@@ -170,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-03-14-2050 ([0955033](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-2050))
 
 * A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-14-1702 ([e579be9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-1702))
-
 * MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
 * Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs ([#85821](https://github.com/CleverRaven/Cataclysm-DDA/pull/85821))
 * Some interactions between bionic limbs and mutations 2 ([#85819](https://github.com/CleverRaven/Cataclysm-DDA/pull/85819))
@@ -232,7 +234,5 @@
 * Fix missing faction ownership in bulk trade/donate ([#85761](https://github.com/CleverRaven/Cataclysm-DDA/pull/85761))
 * Add event_statistic() dialogue function to math parser ([#85758](https://github.com/CleverRaven/Cataclysm-DDA/pull/85758))
 * Make iteminfo coverage/warmth test value-independent ([#85756](https://github.com/CleverRaven/Cataclysm-DDA/pull/85756))
-* If you have their attention the Yrax do things ([#85751](https://github.com/CleverRaven/Cataclysm-DDA/pull/85751))
 * Reset calendar and weather between test cases ([#85754](https://github.com/CleverRaven/Cataclysm-DDA/pull/85754))
 * Remove redundant pull_request trigger from IWYU Suggester ([#85755](https://github.com/CleverRaven/Cataclysm-DDA/pull/85755))
-* Aftershock: Fix minor vahagn errors ([#85752](https://github.com/CleverRaven/Cataclysm-DDA/pull/85752))

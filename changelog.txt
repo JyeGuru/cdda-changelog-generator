@@ -1,3 +1,7 @@
+* Make morale recovery non-destructive, init mutation state on load (#85902)
+
+Cataclysm-DDA experimental build 2026-03-17-1730 (d05bec6)
+* Respect magazine_well when calculating encumbrance (#85911)
 
 Cataclysm-DDA experimental build 2026-03-17-1553 (9d4048c)
 * Apply NPC_starting_traits to randomly generated NPCs (#85906)
@@ -89,8 +93,6 @@ Cataclysm-DDA experimental build 2026-03-14-2152 (a01d984)
 
 Cataclysm-DDA experimental build 2026-03-14-2050 (0955033)
 * A few extra ways to advance Hub 01 CBM knowledge (#85837)
-
-Cataclysm-DDA experimental build 2026-03-14-1702 (e579be9)
 * MA bonus dodge/block remove +/- symbols (#85836)
 * Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs (#85821)
 * Some interactions between bionic limbs and mutations 2 (#85819)
@@ -148,7 +150,5 @@ Cataclysm-DDA experimental build 2026-03-14-1702 (e579be9)
 * Fix missing faction ownership in bulk trade/donate (#85761)
 * Add event_statistic() dialogue function to math parser (#85758)
 * Make iteminfo coverage/warmth test value-independent (#85756)
-* If you have their attention the Yrax do things (#85751)
 * Reset calendar and weather between test cases (#85754)
 * Remove redundant pull_request trigger from IWYU Suggester (#85755)
-* Aftershock: Fix minor vahagn errors (#85752)
