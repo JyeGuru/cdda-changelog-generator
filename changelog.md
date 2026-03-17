@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-17-1553 ([9d4048c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-1553))
+
+* Apply NPC_starting_traits to randomly generated NPCs ([#85906](https://github.com/CleverRaven/Cataclysm-DDA/pull/85906))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-17-1022 ([736fd3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-1022))
 
 * Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
@@ -177,11 +183,6 @@
 * Fix snow depth: uniform accumulation, z-normalization, debug overlay ([#85816](https://github.com/CleverRaven/Cataclysm-DDA/pull/85816))
 * `README.md` fix template links ([#85818](https://github.com/CleverRaven/Cataclysm-DDA/pull/85818))
 * Remove reach attacks across z-levels ([#85753](https://github.com/CleverRaven/Cataclysm-DDA/pull/85753))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-14-1621 ([2f9a6a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-1621))
-
 * Update the links to accomodate for MD to YAML transition ([#85786](https://github.com/CleverRaven/Cataclysm-DDA/pull/85786))
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
 * `conceal-carry six-shooter` is actually six-shooter ([#85817](https://github.com/CleverRaven/Cataclysm-DDA/pull/85817))
@@ -222,7 +223,6 @@
 * Properly show materials for repair, not material type ([#85772](https://github.com/CleverRaven/Cataclysm-DDA/pull/85772))
 * magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
 * Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))
-* new special for string dimension, electronic things with odd monitors ([#85749](https://github.com/CleverRaven/Cataclysm-DDA/pull/85749))
 * Disable upgrades for pseudo-dormant monsters ([#85759](https://github.com/CleverRaven/Cataclysm-DDA/pull/85759))
 * Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
 * Prioritize hostile targets over neutral when firing ([#85765](https://github.com/CleverRaven/Cataclysm-DDA/pull/85765))
