@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-17-2111 (05eeb4f)
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only (#85894)
 
 Cataclysm-DDA experimental build 2026-03-17-2016 (aae3192)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2026-03-15-0500 (aaf8649)
 
 Cataclysm-DDA experimental build 2026-03-15-0344 (f23f732)
 * Remove chunk of graphite from recipe for clay crucible (#85831)
-
-Cataclysm-DDA experimental build 2026-03-15-0055 (4dba902)
 * Fix zone activities ignoring player cancel (#85844)
 * I the command commenter (#85845)
 * Allow one to complete Anus Fetick if they've already been given a CBM interface (#85811)
