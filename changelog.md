@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-17-1846 ([b736a07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-1846))
+
+* Small Exodii-side chop shop tweaks ([#85885](https://github.com/CleverRaven/Cataclysm-DDA/pull/85885))
 * Make morale recovery non-destructive, init mutation state on load ([#85902](https://github.com/CleverRaven/Cataclysm-DDA/pull/85902))
 
 ---
@@ -171,11 +177,6 @@
 * Allow one to complete Anus Fetick if they've already been given a CBM interface ([#85811](https://github.com/CleverRaven/Cataclysm-DDA/pull/85811))
 * Add missing `types` to several mutations ([#85820](https://github.com/CleverRaven/Cataclysm-DDA/pull/85820))
 * Fix zone sort hang with liquid containers at UNLOAD zones ([#85834](https://github.com/CleverRaven/Cataclysm-DDA/pull/85834))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-14-2050 ([0955033](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-2050))
-
 * A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
 * MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
 * Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs ([#85821](https://github.com/CleverRaven/Cataclysm-DDA/pull/85821))
@@ -184,7 +185,6 @@
 * Hub 01 will install and repair basic bionic limbs ([#85802](https://github.com/CleverRaven/Cataclysm-DDA/pull/85802))
 * Fix snow depth: uniform accumulation, z-normalization, debug overlay ([#85816](https://github.com/CleverRaven/Cataclysm-DDA/pull/85816))
 * `README.md` fix template links ([#85818](https://github.com/CleverRaven/Cataclysm-DDA/pull/85818))
-* Remove reach attacks across z-levels ([#85753](https://github.com/CleverRaven/Cataclysm-DDA/pull/85753))
 * Update the links to accomodate for MD to YAML transition ([#85786](https://github.com/CleverRaven/Cataclysm-DDA/pull/85786))
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
 * `conceal-carry six-shooter` is actually six-shooter ([#85817](https://github.com/CleverRaven/Cataclysm-DDA/pull/85817))
