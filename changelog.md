@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-17-1022 ([736fd3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-1022))
+
+* Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-17-0810 ([21ab52d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-0810))
 
 * render idle hordes on the overmap, in addition to active hordes ([#85903](https://github.com/CleverRaven/Cataclysm-DDA/pull/85903))
@@ -177,17 +183,7 @@
 #### Cataclysm-DDA experimental build 2026-03-14-1621 ([2f9a6a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-1621))
 
 * Update the links to accomodate for MD to YAML transition ([#85786](https://github.com/CleverRaven/Cataclysm-DDA/pull/85786))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-14-1353 ([a9ef97b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-1353))
-
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-14-0301 ([d979da6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-0301))
-
 * `conceal-carry six-shooter` is actually six-shooter ([#85817](https://github.com/CleverRaven/Cataclysm-DDA/pull/85817))
 * Update FMS about points pool ([#85822](https://github.com/CleverRaven/Cataclysm-DDA/pull/85822))
 * Stop pig murderers ([#85825](https://github.com/CleverRaven/Cataclysm-DDA/pull/85825))
@@ -240,4 +236,3 @@
 * Reset calendar and weather between test cases ([#85754](https://github.com/CleverRaven/Cataclysm-DDA/pull/85754))
 * Remove redundant pull_request trigger from IWYU Suggester ([#85755](https://github.com/CleverRaven/Cataclysm-DDA/pull/85755))
 * Aftershock: Fix minor vahagn errors ([#85752](https://github.com/CleverRaven/Cataclysm-DDA/pull/85752))
-* Update visual studio build instructions to baseline VS 2022. ([#85747](https://github.com/CleverRaven/Cataclysm-DDA/pull/85747))
