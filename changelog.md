@@ -1,3 +1,10 @@
+* Removes `attacks` from Acidic Secretion, make it work when unarmed only ([#85894](https://github.com/CleverRaven/Cataclysm-DDA/pull/85894))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-17-2016 ([aae3192](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-2016))
+
+* Moved `CONTRIBUTING.md` and fixed links to it ([#85766](https://github.com/CleverRaven/Cataclysm-DDA/pull/85766))
 
 ---
 
@@ -169,11 +176,6 @@
 
 * Fix zone activities ignoring player cancel ([#85844](https://github.com/CleverRaven/Cataclysm-DDA/pull/85844))
 * I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-14-2152 ([a01d984](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-14-2152))
-
 * Allow one to complete Anus Fetick if they've already been given a CBM interface ([#85811](https://github.com/CleverRaven/Cataclysm-DDA/pull/85811))
 * Add missing `types` to several mutations ([#85820](https://github.com/CleverRaven/Cataclysm-DDA/pull/85820))
 * Fix zone sort hang with liquid containers at UNLOAD zones ([#85834](https://github.com/CleverRaven/Cataclysm-DDA/pull/85834))
@@ -234,5 +236,3 @@
 * Fix missing faction ownership in bulk trade/donate ([#85761](https://github.com/CleverRaven/Cataclysm-DDA/pull/85761))
 * Add event_statistic() dialogue function to math parser ([#85758](https://github.com/CleverRaven/Cataclysm-DDA/pull/85758))
 * Make iteminfo coverage/warmth test value-independent ([#85756](https://github.com/CleverRaven/Cataclysm-DDA/pull/85756))
-* Reset calendar and weather between test cases ([#85754](https://github.com/CleverRaven/Cataclysm-DDA/pull/85754))
-* Remove redundant pull_request trigger from IWYU Suggester ([#85755](https://github.com/CleverRaven/Cataclysm-DDA/pull/85755))

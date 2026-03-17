@@ -1,3 +1,7 @@
+* Removes `attacks` from Acidic Secretion, make it work when unarmed only (#85894)
+
+Cataclysm-DDA experimental build 2026-03-17-2016 (aae3192)
+* Moved `CONTRIBUTING.md` and fixed links to it (#85766)
 
 Cataclysm-DDA experimental build 2026-03-17-1846 (b736a07)
 * Small Exodii-side chop shop tweaks (#85885)
@@ -88,8 +92,6 @@ Cataclysm-DDA experimental build 2026-03-15-0344 (f23f732)
 Cataclysm-DDA experimental build 2026-03-15-0055 (4dba902)
 * Fix zone activities ignoring player cancel (#85844)
 * I the command commenter (#85845)
-
-Cataclysm-DDA experimental build 2026-03-14-2152 (a01d984)
 * Allow one to complete Anus Fetick if they've already been given a CBM interface (#85811)
 * Add missing `types` to several mutations (#85820)
 * Fix zone sort hang with liquid containers at UNLOAD zones (#85834)
@@ -150,5 +152,3 @@ Cataclysm-DDA experimental build 2026-03-14-2152 (a01d984)
 * Fix missing faction ownership in bulk trade/donate (#85761)
 * Add event_statistic() dialogue function to math parser (#85758)
 * Make iteminfo coverage/warmth test value-independent (#85756)
-* Reset calendar and weather between test cases (#85754)
-* Remove redundant pull_request trigger from IWYU Suggester (#85755)
