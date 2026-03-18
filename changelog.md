@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-18-2002 ([b0cf2f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-2002))
+
 * Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
 * Add steps to bread recipe ([#85913](https://github.com/CleverRaven/Cataclysm-DDA/pull/85913))
 * Fix crash from uninitialized highway connections on overmap scroll ([#85925](https://github.com/CleverRaven/Cataclysm-DDA/pull/85925))
@@ -127,11 +132,6 @@
 
 * Clear highway intersection grid in overmapbuffer::reset() ([#85883](https://github.com/CleverRaven/Cataclysm-DDA/pull/85883))
 * Remove Catch2 v2 internal API usage from test runner ([#85874](https://github.com/CleverRaven/Cataclysm-DDA/pull/85874))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-03-16-1406 ([3a95122](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-16-1406))
-
 * Fixes Cloud Formation and Pressure ([#85855](https://github.com/CleverRaven/Cataclysm-DDA/pull/85855))
 
 ---
