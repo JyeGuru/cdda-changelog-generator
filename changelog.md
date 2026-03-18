@@ -1,3 +1,12 @@
+* Weekly Changelog 2026-03-09 to 2026-03-16 ([#85873](https://github.com/CleverRaven/Cataclysm-DDA/pull/85873))
+* Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-18-1304 ([19bcf7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-1304))
+
+* Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
+* Use Catch::Matchers:: namespace for all test matchers ([#85907](https://github.com/CleverRaven/Cataclysm-DDA/pull/85907))
 
 ---
 
@@ -169,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-03-15-1247 ([73606fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-1247))
 
 * Aftershock: Small bugfix round ([#85847](https://github.com/CleverRaven/Cataclysm-DDA/pull/85847))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-15-0540 ([88e0480](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0540))
-
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
 * Fix cable disconnection on reality bubble transitions ([#85846](https://github.com/CleverRaven/Cataclysm-DDA/pull/85846))
 * Remove chunk of graphite from recipe for clay crucible ([#85831](https://github.com/CleverRaven/Cataclysm-DDA/pull/85831))
@@ -230,9 +234,5 @@
 * Properly show materials for repair, not material type ([#85772](https://github.com/CleverRaven/Cataclysm-DDA/pull/85772))
 * magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
 * Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))
-* Disable upgrades for pseudo-dormant monsters ([#85759](https://github.com/CleverRaven/Cataclysm-DDA/pull/85759))
 * Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
-* Prioritize hostile targets over neutral when firing ([#85765](https://github.com/CleverRaven/Cataclysm-DDA/pull/85765))
 * Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
-* Fix NPC wield_better_weapon selecting items inside wielded container ([#85764](https://github.com/CleverRaven/Cataclysm-DDA/pull/85764))
-* Fix missing faction ownership in bulk trade/donate ([#85761](https://github.com/CleverRaven/Cataclysm-DDA/pull/85761))
