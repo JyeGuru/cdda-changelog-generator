@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-18-1404 ([0e19745](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-1404))
+
 * Weekly Changelog 2026-03-09 to 2026-03-16 ([#85873](https://github.com/CleverRaven/Cataclysm-DDA/pull/85873))
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
 
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-03-15-1328 ([c621659](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-1328))
 
 * Increase towels ([#85852](https://github.com/CleverRaven/Cataclysm-DDA/pull/85852))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-15-1247 ([73606fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-1247))
-
 * Aftershock: Small bugfix round ([#85847](https://github.com/CleverRaven/Cataclysm-DDA/pull/85847))
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
 * Fix cable disconnection on reality bubble transitions ([#85846](https://github.com/CleverRaven/Cataclysm-DDA/pull/85846))
