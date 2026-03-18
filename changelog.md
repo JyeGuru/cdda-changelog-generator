@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-18-2104 ([c0a69a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-2104))
+
+* [MoM] LIXA interactions ([#85908](https://github.com/CleverRaven/Cataclysm-DDA/pull/85908))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-18-2002 ([b0cf2f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-2002))
 
 * Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
@@ -170,11 +176,6 @@
 
 * Let cunning ferals stab through fences ([#85864](https://github.com/CleverRaven/Cataclysm-DDA/pull/85864))
 * Add missed unarmed reach range ([#85866](https://github.com/CleverRaven/Cataclysm-DDA/pull/85866))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-0215 ([f78198e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-0215))
-
 * [MoM] No more astral projecting while driving ([#85869](https://github.com/CleverRaven/Cataclysm-DDA/pull/85869))
 * Increase towels ([#85852](https://github.com/CleverRaven/Cataclysm-DDA/pull/85852))
 * Aftershock: Small bugfix round ([#85847](https://github.com/CleverRaven/Cataclysm-DDA/pull/85847))
@@ -223,7 +224,6 @@
 * [MoM] A shadow? is vulnerable to photokinetic damage ([#85789](https://github.com/CleverRaven/Cataclysm-DDA/pull/85789))
 * Hub 01 cybernetic & wearable: LENS system ([#85782](https://github.com/CleverRaven/Cataclysm-DDA/pull/85782))
 * Add bionic limbs ([#85783](https://github.com/CleverRaven/Cataclysm-DDA/pull/85783))
-* magiclysm: buff zoom lens spell ([#85774](https://github.com/CleverRaven/Cataclysm-DDA/pull/85774))
 * Filter get_avg_coverage() by viewer anatomy ([#85777](https://github.com/CleverRaven/Cataclysm-DDA/pull/85777))
 * [Xedra Evolved] Add mouth coverage to Paraclesian skins ([#85787](https://github.com/CleverRaven/Cataclysm-DDA/pull/85787))
 * [Xedra Evolved] Switch Breathe Without Air to using flags ([#85788](https://github.com/CleverRaven/Cataclysm-DDA/pull/85788))
