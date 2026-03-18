@@ -1,3 +1,6 @@
+* Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
+* Add steps to bread recipe ([#85913](https://github.com/CleverRaven/Cataclysm-DDA/pull/85913))
+* Fix crash from uninitialized highway connections on overmap scroll ([#85925](https://github.com/CleverRaven/Cataclysm-DDA/pull/85925))
 * adv nomad cowl looks like nomad cowl ([#85920](https://github.com/CleverRaven/Cataclysm-DDA/pull/85920))
 * [MoM] Allow noetic resonance detector to be used on yourself ([#85921](https://github.com/CleverRaven/Cataclysm-DDA/pull/85921))
 
@@ -226,8 +229,5 @@
 * [Xedra Evolved] Switch Breathe Without Air to using flags ([#85788](https://github.com/CleverRaven/Cataclysm-DDA/pull/85788))
 * squash string dimension overmap terrain whitelist ([#85779](https://github.com/CleverRaven/Cataclysm-DDA/pull/85779))
 * Turn woodpecker beak into a body part ([#85780](https://github.com/CleverRaven/Cataclysm-DDA/pull/85780))
-* Properly show materials for repair, not material type ([#85772](https://github.com/CleverRaven/Cataclysm-DDA/pull/85772))
 * magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
 * Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))
-* Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
-* Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
