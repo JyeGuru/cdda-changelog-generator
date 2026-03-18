@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-18-0218 ([a359cac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-0218))
+
+* Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
+* Fix unique overmap special spawn rate formula ([#85849](https://github.com/CleverRaven/Cataclysm-DDA/pull/85849))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-18-0027 ([2d9f55c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-0027))
+
+* Add item UID for stable item_location serialization ([#85905](https://github.com/CleverRaven/Cataclysm-DDA/pull/85905))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-17-2111 ([05eeb4f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-2111))
 
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only ([#85894](https://github.com/CleverRaven/Cataclysm-DDA/pull/85894))
@@ -162,17 +175,7 @@
 #### Cataclysm-DDA experimental build 2026-03-15-0540 ([88e0480](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0540))
 
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-15-0500 ([aaf8649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0500))
-
 * Fix cable disconnection on reality bubble transitions ([#85846](https://github.com/CleverRaven/Cataclysm-DDA/pull/85846))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-15-0344 ([f23f732](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-0344))
-
 * Remove chunk of graphite from recipe for clay crucible ([#85831](https://github.com/CleverRaven/Cataclysm-DDA/pull/85831))
 * Fix zone activities ignoring player cancel ([#85844](https://github.com/CleverRaven/Cataclysm-DDA/pull/85844))
 * I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
@@ -231,8 +234,5 @@
 * Hoof subpart max coverage adds up to 100 ([#85771](https://github.com/CleverRaven/Cataclysm-DDA/pull/85771))
 * Prioritize hostile targets over neutral when firing ([#85765](https://github.com/CleverRaven/Cataclysm-DDA/pull/85765))
 * Set sleek scale encumbrance to zero ([#85770](https://github.com/CleverRaven/Cataclysm-DDA/pull/85770))
-* Register active items in merge_submaps ([#85757](https://github.com/CleverRaven/Cataclysm-DDA/pull/85757))
 * Fix NPC wield_better_weapon selecting items inside wielded container ([#85764](https://github.com/CleverRaven/Cataclysm-DDA/pull/85764))
 * Fix missing faction ownership in bulk trade/donate ([#85761](https://github.com/CleverRaven/Cataclysm-DDA/pull/85761))
-* Add event_statistic() dialogue function to math parser ([#85758](https://github.com/CleverRaven/Cataclysm-DDA/pull/85758))
-* Make iteminfo coverage/warmth test value-independent ([#85756](https://github.com/CleverRaven/Cataclysm-DDA/pull/85756))
