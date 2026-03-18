@@ -1,3 +1,11 @@
+* adv nomad cowl looks like nomad cowl ([#85920](https://github.com/CleverRaven/Cataclysm-DDA/pull/85920))
+* [MoM] Allow noetic resonance detector to be used on yourself ([#85921](https://github.com/CleverRaven/Cataclysm-DDA/pull/85921))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-18-1910 ([f1327f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-1910))
+
+* [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
 
 ---
 
@@ -31,12 +39,6 @@
 #### Cataclysm-DDA experimental build 2026-03-17-2111 ([05eeb4f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-2111))
 
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only ([#85894](https://github.com/CleverRaven/Cataclysm-DDA/pull/85894))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-17-2016 ([aae3192](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-2016))
-
-* Moved `CONTRIBUTING.md` and fixed links to it ([#85766](https://github.com/CleverRaven/Cataclysm-DDA/pull/85766))
 
 ---
 
@@ -171,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-03-16-0215 ([f78198e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-0215))
 
 * [MoM] No more astral projecting while driving ([#85869](https://github.com/CleverRaven/Cataclysm-DDA/pull/85869))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-15-1328 ([c621659](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-15-1328))
-
 * Increase towels ([#85852](https://github.com/CleverRaven/Cataclysm-DDA/pull/85852))
 * Aftershock: Small bugfix round ([#85847](https://github.com/CleverRaven/Cataclysm-DDA/pull/85847))
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
@@ -221,7 +218,6 @@
 * Reason for default mountable_Weight_ratio ([#85792](https://github.com/CleverRaven/Cataclysm-DDA/pull/85792))
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it ([#85785](https://github.com/CleverRaven/Cataclysm-DDA/pull/85785))
 * [MoM] A shadow? is vulnerable to photokinetic damage ([#85789](https://github.com/CleverRaven/Cataclysm-DDA/pull/85789))
-* Show cable connections for appliances ([#85768](https://github.com/CleverRaven/Cataclysm-DDA/pull/85768))
 * Hub 01 cybernetic & wearable: LENS system ([#85782](https://github.com/CleverRaven/Cataclysm-DDA/pull/85782))
 * Add bionic limbs ([#85783](https://github.com/CleverRaven/Cataclysm-DDA/pull/85783))
 * magiclysm: buff zoom lens spell ([#85774](https://github.com/CleverRaven/Cataclysm-DDA/pull/85774))
@@ -230,7 +226,6 @@
 * [Xedra Evolved] Switch Breathe Without Air to using flags ([#85788](https://github.com/CleverRaven/Cataclysm-DDA/pull/85788))
 * squash string dimension overmap terrain whitelist ([#85779](https://github.com/CleverRaven/Cataclysm-DDA/pull/85779))
 * Turn woodpecker beak into a body part ([#85780](https://github.com/CleverRaven/Cataclysm-DDA/pull/85780))
-* Reset Exodii labyrinth each time you visit ([#85769](https://github.com/CleverRaven/Cataclysm-DDA/pull/85769))
 * Properly show materials for repair, not material type ([#85772](https://github.com/CleverRaven/Cataclysm-DDA/pull/85772))
 * magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
 * Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))
