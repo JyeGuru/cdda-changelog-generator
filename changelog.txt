@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-19-1520 (a247217)
 * Step iteration for recipe steps (#85943)
 
 Cataclysm-DDA experimental build 2026-03-19-1411 (10e2b26)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2026-03-16-1537 (54dafc4)
 * Clear highway intersection grid in overmapbuffer::reset() (#85883)
 * Remove Catch2 v2 internal API usage from test runner (#85874)
 * Fixes Cloud Formation and Pressure (#85855)
-
-Cataclysm-DDA experimental build 2026-03-16-1404 (05625e7)
 * Make mod conflict checks bidirectional (#85881)
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility (#85882)
 * Allow melee attacks on matching stairs across z-levels (#85880)

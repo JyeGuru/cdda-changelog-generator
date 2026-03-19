@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-19-1520 ([a247217](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-1520))
+
 * Step iteration for recipe steps ([#85943](https://github.com/CleverRaven/Cataclysm-DDA/pull/85943))
 
 ---
@@ -168,11 +173,6 @@
 * Clear highway intersection grid in overmapbuffer::reset() ([#85883](https://github.com/CleverRaven/Cataclysm-DDA/pull/85883))
 * Remove Catch2 v2 internal API usage from test runner ([#85874](https://github.com/CleverRaven/Cataclysm-DDA/pull/85874))
 * Fixes Cloud Formation and Pressure ([#85855](https://github.com/CleverRaven/Cataclysm-DDA/pull/85855))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-1404 ([05625e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1404))
-
 * Make mod conflict checks bidirectional ([#85881](https://github.com/CleverRaven/Cataclysm-DDA/pull/85881))
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility ([#85882](https://github.com/CleverRaven/Cataclysm-DDA/pull/85882))
 * Allow melee attacks on matching stairs across z-levels ([#85880](https://github.com/CleverRaven/Cataclysm-DDA/pull/85880))
