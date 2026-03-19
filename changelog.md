@@ -1,3 +1,11 @@
+* [ Mods ]Defenseless fungals that also spawn endlessly no longer grant xp for any xp tracking mods ([#85795](https://github.com/CleverRaven/Cataclysm-DDA/pull/85795))
+* Changed both 'looks_like' for Wooden and Steel Tankards ([#85843](https://github.com/CleverRaven/Cataclysm-DDA/pull/85843))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-19-0832 ([ccf929a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-0832))
+
+* Update Martial Arts docs with `aoe` types ([#85940](https://github.com/CleverRaven/Cataclysm-DDA/pull/85940))
 
 ---
 
@@ -170,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-03-16-1053 ([1cbd71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1053))
 
 * Allow melee attacks on matching stairs across z-levels ([#85880](https://github.com/CleverRaven/Cataclysm-DDA/pull/85880))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-0541 ([a1a3fb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-0541))
-
 * Fix monster melee special attacks being insanely inaccurate ([#85867](https://github.com/CleverRaven/Cataclysm-DDA/pull/85867))
 * You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure ([#85870](https://github.com/CleverRaven/Cataclysm-DDA/pull/85870))
 * Let cunning ferals stab through fences ([#85864](https://github.com/CleverRaven/Cataclysm-DDA/pull/85864))
@@ -228,6 +231,3 @@
 * Add bionic limbs ([#85783](https://github.com/CleverRaven/Cataclysm-DDA/pull/85783))
 * [Xedra Evolved] Add mouth coverage to Paraclesian skins ([#85787](https://github.com/CleverRaven/Cataclysm-DDA/pull/85787))
 * [Xedra Evolved] Switch Breathe Without Air to using flags ([#85788](https://github.com/CleverRaven/Cataclysm-DDA/pull/85788))
-* squash string dimension overmap terrain whitelist ([#85779](https://github.com/CleverRaven/Cataclysm-DDA/pull/85779))
-* Turn woodpecker beak into a body part ([#85780](https://github.com/CleverRaven/Cataclysm-DDA/pull/85780))
-* Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))

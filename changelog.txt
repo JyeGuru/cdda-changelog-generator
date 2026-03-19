@@ -1,3 +1,8 @@
+* [ Mods ]Defenseless fungals that also spawn endlessly no longer grant xp for any xp tracking mods (#85795)
+* Changed both 'looks_like' for Wooden and Steel Tankards (#85843)
+
+Cataclysm-DDA experimental build 2026-03-19-0832 (ccf929a)
+* Update Martial Arts docs with `aoe` types (#85940)
 
 Cataclysm-DDA experimental build 2026-03-19-0354 (817111b)
 * add missing translation (#85912)
@@ -92,8 +97,6 @@ Cataclysm-DDA experimental build 2026-03-16-1200 (3a21706)
 
 Cataclysm-DDA experimental build 2026-03-16-1053 (1cbd71e)
 * Allow melee attacks on matching stairs across z-levels (#85880)
-
-Cataclysm-DDA experimental build 2026-03-16-0541 (a1a3fb8)
 * Fix monster melee special attacks being insanely inaccurate (#85867)
 * You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure (#85870)
 * Let cunning ferals stab through fences (#85864)
@@ -147,6 +150,3 @@ Cataclysm-DDA experimental build 2026-03-16-0541 (a1a3fb8)
 * Add bionic limbs (#85783)
 * [Xedra Evolved] Add mouth coverage to Paraclesian skins (#85787)
 * [Xedra Evolved] Switch Breathe Without Air to using flags (#85788)
-* squash string dimension overmap terrain whitelist (#85779)
-* Turn woodpecker beak into a body part (#85780)
-* Fix weird first person disassembly message (#85778)
