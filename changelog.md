@@ -1,3 +1,4 @@
+* Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
 
 ---
 
@@ -199,7 +200,6 @@
 * Hub 01 will install and repair basic bionic limbs ([#85802](https://github.com/CleverRaven/Cataclysm-DDA/pull/85802))
 * Fix snow depth: uniform accumulation, z-normalization, debug overlay ([#85816](https://github.com/CleverRaven/Cataclysm-DDA/pull/85816))
 * `README.md` fix template links ([#85818](https://github.com/CleverRaven/Cataclysm-DDA/pull/85818))
-* Update the links to accomodate for MD to YAML transition ([#85786](https://github.com/CleverRaven/Cataclysm-DDA/pull/85786))
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
 * `conceal-carry six-shooter` is actually six-shooter ([#85817](https://github.com/CleverRaven/Cataclysm-DDA/pull/85817))
 * Update FMS about points pool ([#85822](https://github.com/CleverRaven/Cataclysm-DDA/pull/85822))

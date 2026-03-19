@@ -1,3 +1,4 @@
+* Fix flaky vehicle cargo item_location tests (#85953)
 
 Cataclysm-DDA experimental build 2026-03-19-1520 (a247217)
 * Step iteration for recipe steps (#85943)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2026-03-16-1537 (54dafc4)
 * Hub 01 will install and repair basic bionic limbs (#85802)
 * Fix snow depth: uniform accumulation, z-normalization, debug overlay (#85816)
 * `README.md` fix template links (#85818)
-* Update the links to accomodate for MD to YAML transition (#85786)
 * Add `looks_like` to heavy ballistic vest (#85828)
 * `conceal-carry six-shooter` is actually six-shooter (#85817)
 * Update FMS about points pool (#85822)
