@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-19-2308 ([b2c0bb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-2308))
+
+* [Xedra Evolved] Elemental magic rework: Salamander ([#85952](https://github.com/CleverRaven/Cataclysm-DDA/pull/85952))
 * Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
 
 ---
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-03-16-1829 ([e49fcdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1829))
 
 * Actually push all the commits into #85870 ([#85875](https://github.com/CleverRaven/Cataclysm-DDA/pull/85875))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-1537 ([54dafc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1537))
-
 * Clear highway intersection grid in overmapbuffer::reset() ([#85883](https://github.com/CleverRaven/Cataclysm-DDA/pull/85883))
 * Remove Catch2 v2 internal API usage from test runner ([#85874](https://github.com/CleverRaven/Cataclysm-DDA/pull/85874))
 * Fixes Cloud Formation and Pressure ([#85855](https://github.com/CleverRaven/Cataclysm-DDA/pull/85855))
@@ -224,4 +225,3 @@
 * [Xedra Evolved] Add Offworld Acquisitions specialist: The Six Million Dollar (Wo)man ([#85806](https://github.com/CleverRaven/Cataclysm-DDA/pull/85806))
 * Reason for default mountable_Weight_ratio ([#85792](https://github.com/CleverRaven/Cataclysm-DDA/pull/85792))
 * [MoM] A shadow? is vulnerable to photokinetic damage ([#85789](https://github.com/CleverRaven/Cataclysm-DDA/pull/85789))
-* [Xedra Evolved] Switch Breathe Without Air to using flags ([#85788](https://github.com/CleverRaven/Cataclysm-DDA/pull/85788))
