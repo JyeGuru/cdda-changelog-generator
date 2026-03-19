@@ -1,3 +1,4 @@
+* [Innawoods] Fix broken starting locations (#85936)
 
 Cataclysm-DDA experimental build 2026-03-19-2308 (b2c0bb8)
 * [Xedra Evolved] Elemental magic rework: Salamander (#85952)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-03-16-1829 (e49fcdc)
 * [Xedra Evolved] Add Salamander magic type (#85807)
 * [Xedra Evolved] Add Offworld Acquisitions specialist: The Six Million Dollar (Wo)man (#85806)
 * Reason for default mountable_Weight_ratio (#85792)
-* [MoM] A shadow? is vulnerable to photokinetic damage (#85789)
