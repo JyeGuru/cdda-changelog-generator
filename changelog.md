@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-19-0354 ([817111b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-0354))
+
+* add missing translation ([#85912](https://github.com/CleverRaven/Cataclysm-DDA/pull/85912))
+* Let saprophages and saprovores eat parasitic food without warning ([#85929](https://github.com/CleverRaven/Cataclysm-DDA/pull/85929))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-19-0255 ([969c523](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-0255))
+
+* Cap sleepiness_mod in calculations to prevent never gaining weariness ([#85922](https://github.com/CleverRaven/Cataclysm-DDA/pull/85922))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-18-2104 ([c0a69a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-2104))
 
 * [MoM] LIXA interactions ([#85908](https://github.com/CleverRaven/Cataclysm-DDA/pull/85908))
@@ -163,17 +176,7 @@
 #### Cataclysm-DDA experimental build 2026-03-16-0541 ([a1a3fb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-0541))
 
 * Fix monster melee special attacks being insanely inaccurate ([#85867](https://github.com/CleverRaven/Cataclysm-DDA/pull/85867))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-0346 ([e095c0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-0346))
-
 * You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure ([#85870](https://github.com/CleverRaven/Cataclysm-DDA/pull/85870))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-0306 ([6d91c92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-0306))
-
 * Let cunning ferals stab through fences ([#85864](https://github.com/CleverRaven/Cataclysm-DDA/pull/85864))
 * Add missed unarmed reach range ([#85866](https://github.com/CleverRaven/Cataclysm-DDA/pull/85866))
 * [MoM] No more astral projecting while driving ([#85869](https://github.com/CleverRaven/Cataclysm-DDA/pull/85869))
@@ -206,7 +209,6 @@
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
 * Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
 * Add leathery arms as bodypart (between webbed hands and bat wings) ([#85810](https://github.com/CleverRaven/Cataclysm-DDA/pull/85810))
-* Fix character generation with custom XP scaling ([#85776](https://github.com/CleverRaven/Cataclysm-DDA/pull/85776))
 * Pat can use the Hub 01 LENS ([#85798](https://github.com/CleverRaven/Cataclysm-DDA/pull/85798))
 * Add `menu_text` to Pat's comm items ([#85799](https://github.com/CleverRaven/Cataclysm-DDA/pull/85799))
 * Fix typo in Pat's robo nickname snippet ([#85800](https://github.com/CleverRaven/Cataclysm-DDA/pull/85800))
@@ -224,10 +226,8 @@
 * [MoM] A shadow? is vulnerable to photokinetic damage ([#85789](https://github.com/CleverRaven/Cataclysm-DDA/pull/85789))
 * Hub 01 cybernetic & wearable: LENS system ([#85782](https://github.com/CleverRaven/Cataclysm-DDA/pull/85782))
 * Add bionic limbs ([#85783](https://github.com/CleverRaven/Cataclysm-DDA/pull/85783))
-* Filter get_avg_coverage() by viewer anatomy ([#85777](https://github.com/CleverRaven/Cataclysm-DDA/pull/85777))
 * [Xedra Evolved] Add mouth coverage to Paraclesian skins ([#85787](https://github.com/CleverRaven/Cataclysm-DDA/pull/85787))
 * [Xedra Evolved] Switch Breathe Without Air to using flags ([#85788](https://github.com/CleverRaven/Cataclysm-DDA/pull/85788))
 * squash string dimension overmap terrain whitelist ([#85779](https://github.com/CleverRaven/Cataclysm-DDA/pull/85779))
 * Turn woodpecker beak into a body part ([#85780](https://github.com/CleverRaven/Cataclysm-DDA/pull/85780))
-* magiclysm: fix mana potions ([#85775](https://github.com/CleverRaven/Cataclysm-DDA/pull/85775))
 * Fix weird first person disassembly message ([#85778](https://github.com/CleverRaven/Cataclysm-DDA/pull/85778))
