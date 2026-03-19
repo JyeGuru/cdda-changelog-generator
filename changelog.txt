@@ -1,3 +1,4 @@
+* Guard reload_activity_actor::deserialize against invalid ammo_loc (#85939)
 * [ Mods ]Defenseless fungals that also spawn endlessly no longer grant xp for any xp tracking mods (#85795)
 * Changed both 'looks_like' for Wooden and Steel Tankards (#85843)
 
@@ -94,8 +95,6 @@ Cataclysm-DDA experimental build 2026-03-16-1404 (05625e7)
 
 Cataclysm-DDA experimental build 2026-03-16-1200 (3a21706)
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility (#85882)
-
-Cataclysm-DDA experimental build 2026-03-16-1053 (1cbd71e)
 * Allow melee attacks on matching stairs across z-levels (#85880)
 * Fix monster melee special attacks being insanely inaccurate (#85867)
 * You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure (#85870)
@@ -146,7 +145,6 @@ Cataclysm-DDA experimental build 2026-03-16-1053 (1cbd71e)
 * Reason for default mountable_Weight_ratio (#85792)
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it (#85785)
 * [MoM] A shadow? is vulnerable to photokinetic damage (#85789)
-* Hub 01 cybernetic & wearable: LENS system (#85782)
 * Add bionic limbs (#85783)
 * [Xedra Evolved] Add mouth coverage to Paraclesian skins (#85787)
 * [Xedra Evolved] Switch Breathe Without Air to using flags (#85788)

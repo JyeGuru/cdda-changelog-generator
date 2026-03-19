@@ -1,3 +1,4 @@
+* Guard reload_activity_actor::deserialize against invalid ammo_loc ([#85939](https://github.com/CleverRaven/Cataclysm-DDA/pull/85939))
 * [ Mods ]Defenseless fungals that also spawn endlessly no longer grant xp for any xp tracking mods ([#85795](https://github.com/CleverRaven/Cataclysm-DDA/pull/85795))
 * Changed both 'looks_like' for Wooden and Steel Tankards ([#85843](https://github.com/CleverRaven/Cataclysm-DDA/pull/85843))
 
@@ -172,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-03-16-1200 ([3a21706](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1200))
 
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility ([#85882](https://github.com/CleverRaven/Cataclysm-DDA/pull/85882))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-1053 ([1cbd71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1053))
-
 * Allow melee attacks on matching stairs across z-levels ([#85880](https://github.com/CleverRaven/Cataclysm-DDA/pull/85880))
 * Fix monster melee special attacks being insanely inaccurate ([#85867](https://github.com/CleverRaven/Cataclysm-DDA/pull/85867))
 * You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure ([#85870](https://github.com/CleverRaven/Cataclysm-DDA/pull/85870))
@@ -227,7 +223,6 @@
 * Reason for default mountable_Weight_ratio ([#85792](https://github.com/CleverRaven/Cataclysm-DDA/pull/85792))
 * A tracker for Hub 01 CBM knowledge, and an NPC to "lead" it ([#85785](https://github.com/CleverRaven/Cataclysm-DDA/pull/85785))
 * [MoM] A shadow? is vulnerable to photokinetic damage ([#85789](https://github.com/CleverRaven/Cataclysm-DDA/pull/85789))
-* Hub 01 cybernetic & wearable: LENS system ([#85782](https://github.com/CleverRaven/Cataclysm-DDA/pull/85782))
 * Add bionic limbs ([#85783](https://github.com/CleverRaven/Cataclysm-DDA/pull/85783))
 * [Xedra Evolved] Add mouth coverage to Paraclesian skins ([#85787](https://github.com/CleverRaven/Cataclysm-DDA/pull/85787))
 * [Xedra Evolved] Switch Breathe Without Air to using flags ([#85788](https://github.com/CleverRaven/Cataclysm-DDA/pull/85788))
