@@ -1,3 +1,6 @@
+* Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
+* Make Hummingbird beak a bodypart ([#85958](https://github.com/CleverRaven/Cataclysm-DDA/pull/85958))
+* Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
 * [Hunvre] Fix the game crashing when using the sundial widget ([#85948](https://github.com/CleverRaven/Cataclysm-DDA/pull/85948))
 * Extract recipe_info() to crafting_gui_helpers ([#85961](https://github.com/CleverRaven/Cataclysm-DDA/pull/85961))
 
@@ -228,6 +231,3 @@
 * [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))
 * [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral ([#85813](https://github.com/CleverRaven/Cataclysm-DDA/pull/85813))
 * Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
-* [Xedra Evolved] Add `gramarye` version of the Paraclesian Birth hobby ([#85809](https://github.com/CleverRaven/Cataclysm-DDA/pull/85809))
-* [Xedra Evolved] Add Salamander magic type ([#85807](https://github.com/CleverRaven/Cataclysm-DDA/pull/85807))
-* [Xedra Evolved] Add Offworld Acquisitions specialist: The Six Million Dollar (Wo)man ([#85806](https://github.com/CleverRaven/Cataclysm-DDA/pull/85806))
