@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-20-2155 (c660740)
+* Add `Computer Illiterate` challenge trait (#85975)
+
 Cataclysm-DDA experimental build 2026-03-20-2028 (575c6aa)
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity (#85969)
 * Make Hummingbird beak a bodypart (#85958)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2026-03-17-1846 (b736a07)
 
 Cataclysm-DDA experimental build 2026-03-17-1730 (d05bec6)
 * Respect magazine_well when calculating encumbrance (#85911)
-
-Cataclysm-DDA experimental build 2026-03-17-1553 (9d4048c)
 * Apply NPC_starting_traits to randomly generated NPCs (#85906)
 * Skip corpse placement when monster group is empty (#85910)
 * render idle hordes on the overmap, in addition to active hordes (#85903)
@@ -146,7 +147,6 @@ Cataclysm-DDA experimental build 2026-03-17-1553 (9d4048c)
 * Move debug helmet_scavenger recipe to test_data (#85833)
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring (#85829)
 * Remove mention of points pool in main menu (#85823)
-* Add leathery arms as bodypart (between webbed hands and bat wings) (#85810)
 * [MoM] Update vitakinetic debuffs to use enchants (#85815)
 * [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral (#85813)
 * Some interactions between bionic limbs and mutations (#85812)
