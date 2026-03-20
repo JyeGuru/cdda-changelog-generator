@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-20-1623 (e345a9e)
 * Brooms can broom (#85966)
 
 Cataclysm-DDA experimental build 2026-03-20-1532 (8de87ad)
@@ -87,8 +89,6 @@ Cataclysm-DDA experimental build 2026-03-17-1553 (9d4048c)
 
 Cataclysm-DDA experimental build 2026-03-17-1022 (736fd3e)
 * Skip corpse placement when monster group is empty (#85910)
-
-Cataclysm-DDA experimental build 2026-03-17-0810 (21ab52d)
 * render idle hordes on the overmap, in addition to active hordes (#85903)
 * stop molotovs from detonating in your arms, fix it crashing the game (#85871)
 * Fix butchery yield for sub-gram harvest items (#85886)
