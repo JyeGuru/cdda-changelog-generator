@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-20-1320 ([558418f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1320))
+
+* Tool speed modifiers for recipe steps ([#85949](https://github.com/CleverRaven/Cataclysm-DDA/pull/85949))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-20-0416 ([ddaf6ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0416))
 
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table ([#85950](https://github.com/CleverRaven/Cataclysm-DDA/pull/85950))
@@ -164,11 +170,6 @@
 
 * [Magiclysm] Ravenfolk wings now have feathers ([#85893](https://github.com/CleverRaven/Cataclysm-DDA/pull/85893))
 * make dense bones hp bonus match description ([#85898](https://github.com/CleverRaven/Cataclysm-DDA/pull/85898))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-17-0309 ([8251e0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-0309))
-
 * [Bombastic Perks] More closet definitions ([#85887](https://github.com/CleverRaven/Cataclysm-DDA/pull/85887))
 * unify windage and no_power effects for limbs ([#85824](https://github.com/CleverRaven/Cataclysm-DDA/pull/85824))
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
@@ -214,7 +215,6 @@
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
 * Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
 * Add leathery arms as bodypart (between webbed hands and bat wings) ([#85810](https://github.com/CleverRaven/Cataclysm-DDA/pull/85810))
-* Pat can use the Hub 01 LENS ([#85798](https://github.com/CleverRaven/Cataclysm-DDA/pull/85798))
 * Add `menu_text` to Pat's comm items ([#85799](https://github.com/CleverRaven/Cataclysm-DDA/pull/85799))
 * Fix typo in Pat's robo nickname snippet ([#85800](https://github.com/CleverRaven/Cataclysm-DDA/pull/85800))
 * [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))

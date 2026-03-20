@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-20-1320 (558418f)
+* Tool speed modifiers for recipe steps (#85949)
+
 Cataclysm-DDA experimental build 2026-03-20-0416 (ddaf6ab)
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table (#85950)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-03-17-0511 (653387b)
 Cataclysm-DDA experimental build 2026-03-17-0402 (a91330e)
 * [Magiclysm] Ravenfolk wings now have feathers (#85893)
 * make dense bones hp bonus match description (#85898)
-
-Cataclysm-DDA experimental build 2026-03-17-0309 (8251e0a)
 * [Bombastic Perks] More closet definitions (#85887)
 * unify windage and no_power effects for limbs (#85824)
 * Turn Bat wings into limbs (#85890)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2026-03-17-0309 (8251e0a)
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring (#85829)
 * Remove mention of points pool in main menu (#85823)
 * Add leathery arms as bodypart (between webbed hands and bat wings) (#85810)
-* Pat can use the Hub 01 LENS (#85798)
 * Add `menu_text` to Pat's comm items (#85799)
 * Fix typo in Pat's robo nickname snippet (#85800)
 * [MoM] Update vitakinetic debuffs to use enchants (#85815)
