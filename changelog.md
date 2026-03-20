@@ -1,3 +1,10 @@
+* Extract recipe_info() to crafting_gui_helpers ([#85961](https://github.com/CleverRaven/Cataclysm-DDA/pull/85961))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-20-1818 ([f5a9b67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1818))
+
+* Replace blanket use_methods rejection in NPC rate_food with targeted checks ([#85930](https://github.com/CleverRaven/Cataclysm-DDA/pull/85930))
 
 ---
 
@@ -206,7 +213,6 @@
 * Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs ([#85821](https://github.com/CleverRaven/Cataclysm-DDA/pull/85821))
 * Some interactions between bionic limbs and mutations 2 ([#85819](https://github.com/CleverRaven/Cataclysm-DDA/pull/85819))
 * Fix zone sort stalling on large zones with mostly empty tiles ([#85835](https://github.com/CleverRaven/Cataclysm-DDA/pull/85835))
-* Hub 01 will install and repair basic bionic limbs ([#85802](https://github.com/CleverRaven/Cataclysm-DDA/pull/85802))
 * Fix snow depth: uniform accumulation, z-normalization, debug overlay ([#85816](https://github.com/CleverRaven/Cataclysm-DDA/pull/85816))
 * `README.md` fix template links ([#85818](https://github.com/CleverRaven/Cataclysm-DDA/pull/85818))
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
@@ -221,7 +227,6 @@
 * [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))
 * [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral ([#85813](https://github.com/CleverRaven/Cataclysm-DDA/pull/85813))
 * Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
-* Rubik reacts to Hub 01 LENS ([#85804](https://github.com/CleverRaven/Cataclysm-DDA/pull/85804))
 * fix copy-paste error in intercom dialogue ([#85805](https://github.com/CleverRaven/Cataclysm-DDA/pull/85805))
 * [Xedra Evolved] Add `gramarye` version of the Paraclesian Birth hobby ([#85809](https://github.com/CleverRaven/Cataclysm-DDA/pull/85809))
 * [Xedra Evolved] Add Salamander magic type ([#85807](https://github.com/CleverRaven/Cataclysm-DDA/pull/85807))
