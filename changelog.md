@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-20-0002 ([72f9717](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0002))
+
 * [Innawoods] Fix broken starting locations ([#85936](https://github.com/CleverRaven/Cataclysm-DDA/pull/85936))
 
 ---
@@ -167,11 +172,6 @@
 * Fix typos in Hub items ([#85850](https://github.com/CleverRaven/Cataclysm-DDA/pull/85850))
 * Fix flaky swim_under tests ([#85888](https://github.com/CleverRaven/Cataclysm-DDA/pull/85888))
 * Fix multi-zone activity hang on large zones ([#85872](https://github.com/CleverRaven/Cataclysm-DDA/pull/85872))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-1829 ([e49fcdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-1829))
-
 * Actually push all the commits into #85870 ([#85875](https://github.com/CleverRaven/Cataclysm-DDA/pull/85875))
 * Clear highway intersection grid in overmapbuffer::reset() ([#85883](https://github.com/CleverRaven/Cataclysm-DDA/pull/85883))
 * Remove Catch2 v2 internal API usage from test runner ([#85874](https://github.com/CleverRaven/Cataclysm-DDA/pull/85874))
