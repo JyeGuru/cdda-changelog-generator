@@ -170,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-03-17-0309 ([8251e0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-0309))
 
 * [Bombastic Perks] More closet definitions ([#85887](https://github.com/CleverRaven/Cataclysm-DDA/pull/85887))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-2318 ([7c0aa2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-2318))
-
 * unify windage and no_power effects for limbs ([#85824](https://github.com/CleverRaven/Cataclysm-DDA/pull/85824))
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
 * Fix typos in Hub items ([#85850](https://github.com/CleverRaven/Cataclysm-DDA/pull/85850))

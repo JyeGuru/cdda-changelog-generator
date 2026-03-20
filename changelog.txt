@@ -92,8 +92,6 @@ Cataclysm-DDA experimental build 2026-03-17-0402 (a91330e)
 
 Cataclysm-DDA experimental build 2026-03-17-0309 (8251e0a)
 * [Bombastic Perks] More closet definitions (#85887)
-
-Cataclysm-DDA experimental build 2026-03-16-2318 (7c0aa2c)
 * unify windage and no_power effects for limbs (#85824)
 * Turn Bat wings into limbs (#85890)
 * Fix typos in Hub items (#85850)
