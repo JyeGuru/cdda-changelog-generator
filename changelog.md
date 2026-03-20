@@ -1,3 +1,16 @@
+* Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-20-1532 ([8de87ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1532))
+
+* Extract crafting menu helpers for testability ([#85959](https://github.com/CleverRaven/Cataclysm-DDA/pull/85959))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-20-1418 ([d6ffd77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1418))
+
+* Increase open windows movecost ([#85947](https://github.com/CleverRaven/Cataclysm-DDA/pull/85947))
 
 ---
 
@@ -155,19 +168,9 @@
 #### Cataclysm-DDA experimental build 2026-03-17-0810 ([21ab52d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-0810))
 
 * render idle hordes on the overmap, in addition to active hordes ([#85903](https://github.com/CleverRaven/Cataclysm-DDA/pull/85903))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-17-0511 ([653387b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-0511))
-
 * stop molotovs from detonating in your arms, fix it crashing the game ([#85871](https://github.com/CleverRaven/Cataclysm-DDA/pull/85871))
 * Fix butchery yield for sub-gram harvest items ([#85886](https://github.com/CleverRaven/Cataclysm-DDA/pull/85886))
 * [Xedra Evolved] Paraclesians are born ignorant of technology ([#85899](https://github.com/CleverRaven/Cataclysm-DDA/pull/85899))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-17-0402 ([a91330e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-0402))
-
 * [Magiclysm] Ravenfolk wings now have feathers ([#85893](https://github.com/CleverRaven/Cataclysm-DDA/pull/85893))
 * make dense bones hp bonus match description ([#85898](https://github.com/CleverRaven/Cataclysm-DDA/pull/85898))
 * [Bombastic Perks] More closet definitions ([#85887](https://github.com/CleverRaven/Cataclysm-DDA/pull/85887))
@@ -215,8 +218,6 @@
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
 * Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
 * Add leathery arms as bodypart (between webbed hands and bat wings) ([#85810](https://github.com/CleverRaven/Cataclysm-DDA/pull/85810))
-* Add `menu_text` to Pat's comm items ([#85799](https://github.com/CleverRaven/Cataclysm-DDA/pull/85799))
-* Fix typo in Pat's robo nickname snippet ([#85800](https://github.com/CleverRaven/Cataclysm-DDA/pull/85800))
 * [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))
 * [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral ([#85813](https://github.com/CleverRaven/Cataclysm-DDA/pull/85813))
 * Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
