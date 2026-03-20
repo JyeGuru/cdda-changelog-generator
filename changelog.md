@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-20-0416 ([ddaf6ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0416))
+
+* No_Hope: fix the DIFFICULTY_OPTIONS.md's category table ([#85950](https://github.com/CleverRaven/Cataclysm-DDA/pull/85950))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-20-0331 ([c5c483f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0331))
+
+* Rework the anomalous MP3 ([#85945](https://github.com/CleverRaven/Cataclysm-DDA/pull/85945))
+* Split battery percentage into a separate widget ([#85954](https://github.com/CleverRaven/Cataclysm-DDA/pull/85954))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-20-0244 ([369ef6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0244))
+
+* cabin reverberation tunnel systems ([#85946](https://github.com/CleverRaven/Cataclysm-DDA/pull/85946))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-20-0002 ([72f9717](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0002))
 
 * [Innawoods] Fix broken starting locations ([#85936](https://github.com/CleverRaven/Cataclysm-DDA/pull/85936))
@@ -24,7 +43,6 @@
 
 * Add `SNOWWALKING` flag, to allow you to ignore snow movement penalty ([#85938](https://github.com/CleverRaven/Cataclysm-DDA/pull/85938))
 * Guard reload_activity_actor::deserialize against invalid ammo_loc ([#85939](https://github.com/CleverRaven/Cataclysm-DDA/pull/85939))
-* [ Mods ]Defenseless fungals that also spawn endlessly no longer grant xp for any xp tracking mods ([#85795](https://github.com/CleverRaven/Cataclysm-DDA/pull/85795))
 * Changed both 'looks_like' for Wooden and Steel Tankards ([#85843](https://github.com/CleverRaven/Cataclysm-DDA/pull/85843))
 
 ---
@@ -158,17 +176,7 @@
 #### Cataclysm-DDA experimental build 2026-03-16-2318 ([7c0aa2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-2318))
 
 * unify windage and no_power effects for limbs ([#85824](https://github.com/CleverRaven/Cataclysm-DDA/pull/85824))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-2112 ([10e7df3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-2112))
-
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-16-2027 ([1f881f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-16-2027))
-
 * Fix typos in Hub items ([#85850](https://github.com/CleverRaven/Cataclysm-DDA/pull/85850))
 * Fix flaky swim_under tests ([#85888](https://github.com/CleverRaven/Cataclysm-DDA/pull/85888))
 * Fix multi-zone activity hang on large zones ([#85872](https://github.com/CleverRaven/Cataclysm-DDA/pull/85872))
@@ -208,7 +216,6 @@
 * Stop pig murderers ([#85825](https://github.com/CleverRaven/Cataclysm-DDA/pull/85825))
 * Make crab legs a body part(s) ([#85832](https://github.com/CleverRaven/Cataclysm-DDA/pull/85832))
 * Move debug helmet_scavenger recipe to test_data ([#85833](https://github.com/CleverRaven/Cataclysm-DDA/pull/85833))
-* Modification of Vehicle Spawn Weighting ([#85790](https://github.com/CleverRaven/Cataclysm-DDA/pull/85790))
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
 * Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
 * Add leathery arms as bodypart (between webbed hands and bat wings) ([#85810](https://github.com/CleverRaven/Cataclysm-DDA/pull/85810))
@@ -218,10 +225,8 @@
 * [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))
 * [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral ([#85813](https://github.com/CleverRaven/Cataclysm-DDA/pull/85813))
 * Some interactions between bionic limbs and mutations ([#85812](https://github.com/CleverRaven/Cataclysm-DDA/pull/85812))
-* certain mutations affect bodymass ([#85794](https://github.com/CleverRaven/Cataclysm-DDA/pull/85794))
 * Rubik reacts to Hub 01 LENS ([#85804](https://github.com/CleverRaven/Cataclysm-DDA/pull/85804))
 * fix copy-paste error in intercom dialogue ([#85805](https://github.com/CleverRaven/Cataclysm-DDA/pull/85805))
 * [Xedra Evolved] Add `gramarye` version of the Paraclesian Birth hobby ([#85809](https://github.com/CleverRaven/Cataclysm-DDA/pull/85809))
 * [Xedra Evolved] Add Salamander magic type ([#85807](https://github.com/CleverRaven/Cataclysm-DDA/pull/85807))
 * [Xedra Evolved] Add Offworld Acquisitions specialist: The Six Million Dollar (Wo)man ([#85806](https://github.com/CleverRaven/Cataclysm-DDA/pull/85806))
-* Reason for default mountable_Weight_ratio ([#85792](https://github.com/CleverRaven/Cataclysm-DDA/pull/85792))
