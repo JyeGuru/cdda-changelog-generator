@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-20-2028 ([575c6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-2028))
+
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
 * Make Hummingbird beak a bodypart ([#85958](https://github.com/CleverRaven/Cataclysm-DDA/pull/85958))
 * Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-03-17-1553 ([9d4048c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-1553))
 
 * Apply NPC_starting_traits to randomly generated NPCs ([#85906](https://github.com/CleverRaven/Cataclysm-DDA/pull/85906))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-17-1022 ([736fd3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-1022))
-
 * Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
 * render idle hordes on the overmap, in addition to active hordes ([#85903](https://github.com/CleverRaven/Cataclysm-DDA/pull/85903))
 * stop molotovs from detonating in your arms, fix it crashing the game ([#85871](https://github.com/CleverRaven/Cataclysm-DDA/pull/85871))
