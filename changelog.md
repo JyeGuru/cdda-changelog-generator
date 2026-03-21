@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-21-1911 ([5b1ada3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1911))
+
+* Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
+* Add myself to comment command list ([#85981](https://github.com/CleverRaven/Cataclysm-DDA/pull/85981))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-21-1527 ([67c1223](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1527))
 
 * [MoM] The pyrokinetic power Blazing Aura provides SNOWWALKING ([#85973](https://github.com/CleverRaven/Cataclysm-DDA/pull/85973))
@@ -176,11 +183,6 @@
 
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
 * Use Catch::Matchers:: namespace for all test matchers ([#85907](https://github.com/CleverRaven/Cataclysm-DDA/pull/85907))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-18-0218 ([a359cac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-0218))
-
 * Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
 * Fix unique overmap special spawn rate formula ([#85849](https://github.com/CleverRaven/Cataclysm-DDA/pull/85849))
 * Add item UID for stable item_location serialization ([#85905](https://github.com/CleverRaven/Cataclysm-DDA/pull/85905))
@@ -226,9 +228,7 @@
 * A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
 * MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
 * Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs ([#85821](https://github.com/CleverRaven/Cataclysm-DDA/pull/85821))
-* Some interactions between bionic limbs and mutations 2 ([#85819](https://github.com/CleverRaven/Cataclysm-DDA/pull/85819))
 * Fix zone sort stalling on large zones with mostly empty tiles ([#85835](https://github.com/CleverRaven/Cataclysm-DDA/pull/85835))
-* `README.md` fix template links ([#85818](https://github.com/CleverRaven/Cataclysm-DDA/pull/85818))
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
 * Update FMS about points pool ([#85822](https://github.com/CleverRaven/Cataclysm-DDA/pull/85822))
 * Stop pig murderers ([#85825](https://github.com/CleverRaven/Cataclysm-DDA/pull/85825))
