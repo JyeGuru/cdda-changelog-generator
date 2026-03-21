@@ -1,3 +1,11 @@
+* [MoM] The pyrokinetic power Blazing Aura provides SNOWWALKING ([#85973](https://github.com/CleverRaven/Cataclysm-DDA/pull/85973))
+* Give the anomalous MP3 ability to "listen" to reverberations ([#85980](https://github.com/CleverRaven/Cataclysm-DDA/pull/85980))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-21-1446 ([32aaf8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1446))
+
+* [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
 
 ---
 
@@ -176,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-03-18-0027 ([2d9f55c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-0027))
 
 * Add item UID for stable item_location serialization ([#85905](https://github.com/CleverRaven/Cataclysm-DDA/pull/85905))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-17-2111 ([05eeb4f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-2111))
-
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only ([#85894](https://github.com/CleverRaven/Cataclysm-DDA/pull/85894))
 * Small Exodii-side chop shop tweaks ([#85885](https://github.com/CleverRaven/Cataclysm-DDA/pull/85885))
 * Make morale recovery non-destructive, init mutation state on load ([#85902](https://github.com/CleverRaven/Cataclysm-DDA/pull/85902))
@@ -225,14 +228,11 @@
 * Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs ([#85821](https://github.com/CleverRaven/Cataclysm-DDA/pull/85821))
 * Some interactions between bionic limbs and mutations 2 ([#85819](https://github.com/CleverRaven/Cataclysm-DDA/pull/85819))
 * Fix zone sort stalling on large zones with mostly empty tiles ([#85835](https://github.com/CleverRaven/Cataclysm-DDA/pull/85835))
-* Fix snow depth: uniform accumulation, z-normalization, debug overlay ([#85816](https://github.com/CleverRaven/Cataclysm-DDA/pull/85816))
 * `README.md` fix template links ([#85818](https://github.com/CleverRaven/Cataclysm-DDA/pull/85818))
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
-* `conceal-carry six-shooter` is actually six-shooter ([#85817](https://github.com/CleverRaven/Cataclysm-DDA/pull/85817))
 * Update FMS about points pool ([#85822](https://github.com/CleverRaven/Cataclysm-DDA/pull/85822))
 * Stop pig murderers ([#85825](https://github.com/CleverRaven/Cataclysm-DDA/pull/85825))
 * Make crab legs a body part(s) ([#85832](https://github.com/CleverRaven/Cataclysm-DDA/pull/85832))
 * Move debug helmet_scavenger recipe to test_data ([#85833](https://github.com/CleverRaven/Cataclysm-DDA/pull/85833))
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
 * Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
-* [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))
