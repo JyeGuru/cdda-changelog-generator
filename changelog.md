@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-21-1122 ([e68a7f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1122))
+
 * NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
 
 ---
