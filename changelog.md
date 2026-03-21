@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-21-1527 ([67c1223](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1527))
+
 * [MoM] The pyrokinetic power Blazing Aura provides SNOWWALKING ([#85973](https://github.com/CleverRaven/Cataclysm-DDA/pull/85973))
 * Give the anomalous MP3 ability to "listen" to reverberations ([#85980](https://github.com/CleverRaven/Cataclysm-DDA/pull/85980))
 
@@ -178,11 +183,6 @@
 
 * Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
 * Fix unique overmap special spawn rate formula ([#85849](https://github.com/CleverRaven/Cataclysm-DDA/pull/85849))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-18-0027 ([2d9f55c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-0027))
-
 * Add item UID for stable item_location serialization ([#85905](https://github.com/CleverRaven/Cataclysm-DDA/pull/85905))
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only ([#85894](https://github.com/CleverRaven/Cataclysm-DDA/pull/85894))
 * Small Exodii-side chop shop tweaks ([#85885](https://github.com/CleverRaven/Cataclysm-DDA/pull/85885))
