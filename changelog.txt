@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-21-1037 (43a94b6)
+* Extract filter engine and deduplicate nested sort (#85963)
+
 Cataclysm-DDA experimental build 2026-03-21-0053 (5da63cb)
 * Fix `house_w_3` chunk spawns issues (#85951)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-03-18-0027 (2d9f55c)
 
 Cataclysm-DDA experimental build 2026-03-17-2111 (05eeb4f)
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only (#85894)
-
-Cataclysm-DDA experimental build 2026-03-17-1846 (b736a07)
 * Small Exodii-side chop shop tweaks (#85885)
 * Make morale recovery non-destructive, init mutation state on load (#85902)
 * Respect magazine_well when calculating encumbrance (#85911)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2026-03-17-1846 (b736a07)
 * Remove mention of points pool in main menu (#85823)
 * [MoM] Update vitakinetic debuffs to use enchants (#85815)
 * [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral (#85813)
-* Some interactions between bionic limbs and mutations (#85812)
