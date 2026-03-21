@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-21-0053 ([5da63cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-0053))
+
+* Fix `house_w_3` chunk spawns issues ([#85951](https://github.com/CleverRaven/Cataclysm-DDA/pull/85951))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-20-2155 ([c660740](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-2155))
 
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
@@ -171,11 +177,6 @@
 
 * Small Exodii-side chop shop tweaks ([#85885](https://github.com/CleverRaven/Cataclysm-DDA/pull/85885))
 * Make morale recovery non-destructive, init mutation state on load ([#85902](https://github.com/CleverRaven/Cataclysm-DDA/pull/85902))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-17-1730 ([d05bec6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-17-1730))
-
 * Respect magazine_well when calculating encumbrance ([#85911](https://github.com/CleverRaven/Cataclysm-DDA/pull/85911))
 * Apply NPC_starting_traits to randomly generated NPCs ([#85906](https://github.com/CleverRaven/Cataclysm-DDA/pull/85906))
 * Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
@@ -210,7 +211,6 @@
 * Remove chunk of graphite from recipe for clay crucible ([#85831](https://github.com/CleverRaven/Cataclysm-DDA/pull/85831))
 * Fix zone activities ignoring player cancel ([#85844](https://github.com/CleverRaven/Cataclysm-DDA/pull/85844))
 * I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
-* Allow one to complete Anus Fetick if they've already been given a CBM interface ([#85811](https://github.com/CleverRaven/Cataclysm-DDA/pull/85811))
 * Add missing `types` to several mutations ([#85820](https://github.com/CleverRaven/Cataclysm-DDA/pull/85820))
 * Fix zone sort hang with liquid containers at UNLOAD zones ([#85834](https://github.com/CleverRaven/Cataclysm-DDA/pull/85834))
 * A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
