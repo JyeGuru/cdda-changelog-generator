@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-21-2012 ([abc56ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-2012))
+
 * Extract recipe result info to crafting_gui_helpers ([#85978](https://github.com/CleverRaven/Cataclysm-DDA/pull/85978))
 
 ---
@@ -177,11 +182,6 @@
 
 * Weekly Changelog 2026-03-09 to 2026-03-16 ([#85873](https://github.com/CleverRaven/Cataclysm-DDA/pull/85873))
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-18-1304 ([19bcf7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-1304))
-
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
 * Use Catch::Matchers:: namespace for all test matchers ([#85907](https://github.com/CleverRaven/Cataclysm-DDA/pull/85907))
 * Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
