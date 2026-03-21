@@ -1,3 +1,10 @@
+* Extract recipe list pipeline to crafting_gui_helpers ([#85979](https://github.com/CleverRaven/Cataclysm-DDA/pull/85979))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-21-2254 ([9ae8dba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-2254))
+
+* Add viewport lock option for zone sorting ([#85968](https://github.com/CleverRaven/Cataclysm-DDA/pull/85968))
 
 ---
 
@@ -175,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-03-18-1910 ([f1327f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-1910))
 
 * [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-18-1404 ([0e19745](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-1404))
-
 * Weekly Changelog 2026-03-09 to 2026-03-16 ([#85873](https://github.com/CleverRaven/Cataclysm-DDA/pull/85873))
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
@@ -227,10 +229,8 @@
 * Fix zone sort hang with liquid containers at UNLOAD zones ([#85834](https://github.com/CleverRaven/Cataclysm-DDA/pull/85834))
 * A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
 * MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
-* Subcutaneous Protective Mesh & Hub 01 XM-limbs are not compatible with bionic limbs ([#85821](https://github.com/CleverRaven/Cataclysm-DDA/pull/85821))
 * Fix zone sort stalling on large zones with mostly empty tiles ([#85835](https://github.com/CleverRaven/Cataclysm-DDA/pull/85835))
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
-* Update FMS about points pool ([#85822](https://github.com/CleverRaven/Cataclysm-DDA/pull/85822))
 * Stop pig murderers ([#85825](https://github.com/CleverRaven/Cataclysm-DDA/pull/85825))
 * Make crab legs a body part(s) ([#85832](https://github.com/CleverRaven/Cataclysm-DDA/pull/85832))
 * Move debug helmet_scavenger recipe to test_data ([#85833](https://github.com/CleverRaven/Cataclysm-DDA/pull/85833))
