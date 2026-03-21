@@ -1,3 +1,4 @@
+* NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
 
 ---
 
@@ -230,4 +231,3 @@
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
 * Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
 * [MoM] Update vitakinetic debuffs to use enchants ([#85815](https://github.com/CleverRaven/Cataclysm-DDA/pull/85815))
-* [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral ([#85813](https://github.com/CleverRaven/Cataclysm-DDA/pull/85813))

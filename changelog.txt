@@ -1,3 +1,4 @@
+* NPC needs: complaint gate, sapro rotten food, BT utility strategy (#85974)
 
 Cataclysm-DDA experimental build 2026-03-21-1037 (43a94b6)
 * Extract filter engine and deduplicate nested sort (#85963)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2026-03-17-2111 (05eeb4f)
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring (#85829)
 * Remove mention of points pool in main menu (#85823)
 * [MoM] Update vitakinetic debuffs to use enchants (#85815)
-* [Xedra Evolved] Nonhumans can't take Genetic Chaos/Genetic Downward Spiral (#85813)
