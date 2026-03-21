@@ -1,3 +1,4 @@
+* Extract recipe result info to crafting_gui_helpers (#85978)
 
 Cataclysm-DDA experimental build 2026-03-21-1911 (5b1ada3)
 * Improve overmap_terrain_coverage test coverage for rare specials (#85994)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2026-03-18-1304 (19bcf7b)
 * Remove chunk of graphite from recipe for clay crucible (#85831)
 * Fix zone activities ignoring player cancel (#85844)
 * I the command commenter (#85845)
-* Add missing `types` to several mutations (#85820)
 * Fix zone sort hang with liquid containers at UNLOAD zones (#85834)
 * A few extra ways to advance Hub 01 CBM knowledge (#85837)
 * MA bonus dodge/block remove +/- symbols (#85836)

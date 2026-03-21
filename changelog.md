@@ -1,3 +1,4 @@
+* Extract recipe result info to crafting_gui_helpers ([#85978](https://github.com/CleverRaven/Cataclysm-DDA/pull/85978))
 
 ---
 
@@ -223,7 +224,6 @@
 * Remove chunk of graphite from recipe for clay crucible ([#85831](https://github.com/CleverRaven/Cataclysm-DDA/pull/85831))
 * Fix zone activities ignoring player cancel ([#85844](https://github.com/CleverRaven/Cataclysm-DDA/pull/85844))
 * I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
-* Add missing `types` to several mutations ([#85820](https://github.com/CleverRaven/Cataclysm-DDA/pull/85820))
 * Fix zone sort hang with liquid containers at UNLOAD zones ([#85834](https://github.com/CleverRaven/Cataclysm-DDA/pull/85834))
 * A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
 * MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
