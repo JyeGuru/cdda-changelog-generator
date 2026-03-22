@@ -1,3 +1,4 @@
+* Greenhouses! (#85986)
 
 Cataclysm-DDA experimental build 2026-03-22-1733 (c8ab960)
 * [Xedra Evolved] Arvore caster conditions (#86010)
@@ -153,4 +154,3 @@ Cataclysm-DDA experimental build 2026-03-19-2308 (b2c0bb8)
 * Fix cable disconnection on reality bubble transitions (#85846)
 * Fix zone activities ignoring player cancel (#85844)
 * I the command commenter (#85845)
-* A few extra ways to advance Hub 01 CBM knowledge (#85837)

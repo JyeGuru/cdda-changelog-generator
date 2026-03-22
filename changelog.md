@@ -1,3 +1,4 @@
+* Greenhouses! ([#85986](https://github.com/CleverRaven/Cataclysm-DDA/pull/85986))
 
 ---
 
@@ -240,4 +241,3 @@
 * Fix cable disconnection on reality bubble transitions ([#85846](https://github.com/CleverRaven/Cataclysm-DDA/pull/85846))
 * Fix zone activities ignoring player cancel ([#85844](https://github.com/CleverRaven/Cataclysm-DDA/pull/85844))
 * I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
-* A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
