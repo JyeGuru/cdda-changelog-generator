@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-22-2309 (bd6907a)
+* HEW reports for inner cabins (#86007)
+
 Cataclysm-DDA experimental build 2026-03-22-2034 (41418fe)
 * NPC warmth response: wear clothes, take shelter (#86004)
 * More elaborate support for guns and melee sound effects (#86002)
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-03-20-1320 (558418f)
 
 Cataclysm-DDA experimental build 2026-03-20-0416 (ddaf6ab)
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table (#85950)
-
-Cataclysm-DDA experimental build 2026-03-20-0331 (c5c483f)
 * Rework the anomalous MP3 (#85945)
 * Split battery percentage into a separate widget (#85954)
 * cabin reverberation tunnel systems (#85946)
@@ -153,4 +154,3 @@ Cataclysm-DDA experimental build 2026-03-20-0331 (c5c483f)
 * Increase towels (#85852)
 * Aftershock: Small bugfix round (#85847)
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills (#85848)
-* Fix cable disconnection on reality bubble transitions (#85846)

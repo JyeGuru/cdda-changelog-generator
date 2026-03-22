@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-22-2309 ([bd6907a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-2309))
+
+* HEW reports for inner cabins ([#86007](https://github.com/CleverRaven/Cataclysm-DDA/pull/86007))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-22-2034 ([41418fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-2034))
 
 * NPC warmth response: wear clothes, take shelter ([#86004](https://github.com/CleverRaven/Cataclysm-DDA/pull/86004))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-03-20-0416 ([ddaf6ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0416))
 
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table ([#85950](https://github.com/CleverRaven/Cataclysm-DDA/pull/85950))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-20-0331 ([c5c483f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0331))
-
 * Rework the anomalous MP3 ([#85945](https://github.com/CleverRaven/Cataclysm-DDA/pull/85945))
 * Split battery percentage into a separate widget ([#85954](https://github.com/CleverRaven/Cataclysm-DDA/pull/85954))
 * cabin reverberation tunnel systems ([#85946](https://github.com/CleverRaven/Cataclysm-DDA/pull/85946))
@@ -240,4 +241,3 @@
 * Increase towels ([#85852](https://github.com/CleverRaven/Cataclysm-DDA/pull/85852))
 * Aftershock: Small bugfix round ([#85847](https://github.com/CleverRaven/Cataclysm-DDA/pull/85847))
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
-* Fix cable disconnection on reality bubble transitions ([#85846](https://github.com/CleverRaven/Cataclysm-DDA/pull/85846))
