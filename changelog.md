@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-22-0826 ([19155bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0826))
+
+* NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-22-0510 ([efa19fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0510))
 
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-03-19-0832 ([ccf929a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-0832))
 
 * Update Martial Arts docs with `aoe` types ([#85940](https://github.com/CleverRaven/Cataclysm-DDA/pull/85940))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-19-0354 ([817111b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-0354))
-
 * add missing translation ([#85912](https://github.com/CleverRaven/Cataclysm-DDA/pull/85912))
 * Let saprophages and saprovores eat parasitic food without warning ([#85929](https://github.com/CleverRaven/Cataclysm-DDA/pull/85929))
 * Cap sleepiness_mod in calculations to prevent never gaining weariness ([#85922](https://github.com/CleverRaven/Cataclysm-DDA/pull/85922))
@@ -235,4 +236,3 @@
 * Fix zone sort stalling on large zones with mostly empty tiles ([#85835](https://github.com/CleverRaven/Cataclysm-DDA/pull/85835))
 * Make crab legs a body part(s) ([#85832](https://github.com/CleverRaven/Cataclysm-DDA/pull/85832))
 * Move debug helmet_scavenger recipe to test_data ([#85833](https://github.com/CleverRaven/Cataclysm-DDA/pull/85833))
-* Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
