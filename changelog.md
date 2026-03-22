@@ -1,3 +1,4 @@
+* [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
 
 ---
 
@@ -232,7 +233,6 @@
 * A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
 * MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
 * Fix zone sort stalling on large zones with mostly empty tiles ([#85835](https://github.com/CleverRaven/Cataclysm-DDA/pull/85835))
-* Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
 * Make crab legs a body part(s) ([#85832](https://github.com/CleverRaven/Cataclysm-DDA/pull/85832))
 * Move debug helmet_scavenger recipe to test_data ([#85833](https://github.com/CleverRaven/Cataclysm-DDA/pull/85833))
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))

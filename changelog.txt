@@ -1,3 +1,4 @@
+* [Xedra Evolved] Paraclesian eyes are a bodypart (#85998)
 
 Cataclysm-DDA experimental build 2026-03-22-0140 (0ef5191)
 * Adjusts description of Gasoline Fuel Cell CBM. (#85970)
@@ -148,7 +149,6 @@ Cataclysm-DDA experimental build 2026-03-19-0255 (969c523)
 * A few extra ways to advance Hub 01 CBM knowledge (#85837)
 * MA bonus dodge/block remove +/- symbols (#85836)
 * Fix zone sort stalling on large zones with mostly empty tiles (#85835)
-* Add `looks_like` to heavy ballistic vest (#85828)
 * Make crab legs a body part(s) (#85832)
 * Move debug helmet_scavenger recipe to test_data (#85833)
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring (#85829)
