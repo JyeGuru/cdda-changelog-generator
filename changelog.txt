@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-22-1733 (c8ab960)
+* [Xedra Evolved] Arvore caster conditions (#86010)
+
 Cataclysm-DDA experimental build 2026-03-22-1646 (8d37877)
 * [Innawood] fix lamps  (#86000)
 * Spell AOE string format specifier fix (#86005)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2026-03-20-0002 (72f9717)
 Cataclysm-DDA experimental build 2026-03-19-2308 (b2c0bb8)
 * [Xedra Evolved] Elemental magic rework: Salamander (#85952)
 * Fix flaky vehicle cargo item_location tests (#85953)
-
-Cataclysm-DDA experimental build 2026-03-19-1520 (a247217)
 * Step iteration for recipe steps (#85943)
 * Add `SNOWWALKING` flag, to allow you to ignore snow movement penalty (#85938)
 * Guard reload_activity_actor::deserialize against invalid ammo_loc (#85939)
@@ -153,4 +154,3 @@ Cataclysm-DDA experimental build 2026-03-19-1520 (a247217)
 * Fix zone activities ignoring player cancel (#85844)
 * I the command commenter (#85845)
 * A few extra ways to advance Hub 01 CBM knowledge (#85837)
-* MA bonus dodge/block remove +/- symbols (#85836)

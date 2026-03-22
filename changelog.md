@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-22-1733 ([c8ab960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1733))
+
+* [Xedra Evolved] Arvore caster conditions ([#86010](https://github.com/CleverRaven/Cataclysm-DDA/pull/86010))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-22-1646 ([8d37877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1646))
 
 * [Innawood] fix lamps  ([#86000](https://github.com/CleverRaven/Cataclysm-DDA/pull/86000))
@@ -177,11 +183,6 @@
 
 * [Xedra Evolved] Elemental magic rework: Salamander ([#85952](https://github.com/CleverRaven/Cataclysm-DDA/pull/85952))
 * Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-19-1520 ([a247217](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-1520))
-
 * Step iteration for recipe steps ([#85943](https://github.com/CleverRaven/Cataclysm-DDA/pull/85943))
 * Add `SNOWWALKING` flag, to allow you to ignore snow movement penalty ([#85938](https://github.com/CleverRaven/Cataclysm-DDA/pull/85938))
 * Guard reload_activity_actor::deserialize against invalid ammo_loc ([#85939](https://github.com/CleverRaven/Cataclysm-DDA/pull/85939))
@@ -240,4 +241,3 @@
 * Fix zone activities ignoring player cancel ([#85844](https://github.com/CleverRaven/Cataclysm-DDA/pull/85844))
 * I the command commenter ([#85845](https://github.com/CleverRaven/Cataclysm-DDA/pull/85845))
 * A few extra ways to advance Hub 01 CBM knowledge ([#85837](https://github.com/CleverRaven/Cataclysm-DDA/pull/85837))
-* MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
