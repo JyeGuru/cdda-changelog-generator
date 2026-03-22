@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-22-1646 ([8d37877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1646))
+
 * [Innawood] fix lamps  ([#86000](https://github.com/CleverRaven/Cataclysm-DDA/pull/86000))
 * Spell AOE string format specifier fix ([#86005](https://github.com/CleverRaven/Cataclysm-DDA/pull/86005))
 * give unseeen hunter "NETHER" species ([#86006](https://github.com/CleverRaven/Cataclysm-DDA/pull/86006))
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-03-19-1520 ([a247217](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-1520))
 
 * Step iteration for recipe steps ([#85943](https://github.com/CleverRaven/Cataclysm-DDA/pull/85943))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-19-1411 ([10e2b26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-1411))
-
 * Add `SNOWWALKING` flag, to allow you to ignore snow movement penalty ([#85938](https://github.com/CleverRaven/Cataclysm-DDA/pull/85938))
 * Guard reload_activity_actor::deserialize against invalid ammo_loc ([#85939](https://github.com/CleverRaven/Cataclysm-DDA/pull/85939))
 * Changed both 'looks_like' for Wooden and Steel Tankards ([#85843](https://github.com/CleverRaven/Cataclysm-DDA/pull/85843))
