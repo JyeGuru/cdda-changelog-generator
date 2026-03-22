@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-22-1837 ([fa1ea90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1837))
+
 * Greenhouses! ([#85986](https://github.com/CleverRaven/Cataclysm-DDA/pull/85986))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-03-20-0002 ([72f9717](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0002))
 
 * [Innawoods] Fix broken starting locations ([#85936](https://github.com/CleverRaven/Cataclysm-DDA/pull/85936))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-19-2308 ([b2c0bb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-2308))
-
 * [Xedra Evolved] Elemental magic rework: Salamander ([#85952](https://github.com/CleverRaven/Cataclysm-DDA/pull/85952))
 * Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
 * Step iteration for recipe steps ([#85943](https://github.com/CleverRaven/Cataclysm-DDA/pull/85943))
