@@ -1,3 +1,21 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-22-0140 ([0ef5191](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0140))
+
+* Adjusts description of Gasoline Fuel Cell CBM. ([#85970](https://github.com/CleverRaven/Cataclysm-DDA/pull/85970))
+* Fix SIGSEV fault when harvesting/clearing overgrown crops ([#85982](https://github.com/CleverRaven/Cataclysm-DDA/pull/85982))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-22-0049 ([9930a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0049))
+
+* NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-21-2357 ([7a46d1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-2357))
+
 * Extract recipe list pipeline to crafting_gui_helpers ([#85979](https://github.com/CleverRaven/Cataclysm-DDA/pull/85979))
 
 ---
@@ -160,27 +178,12 @@
 #### Cataclysm-DDA experimental build 2026-03-19-0255 ([969c523](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-19-0255))
 
 * Cap sleepiness_mod in calculations to prevent never gaining weariness ([#85922](https://github.com/CleverRaven/Cataclysm-DDA/pull/85922))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-18-2104 ([c0a69a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-2104))
-
 * [MoM] LIXA interactions ([#85908](https://github.com/CleverRaven/Cataclysm-DDA/pull/85908))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-18-2002 ([b0cf2f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-2002))
-
 * Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
 * Add steps to bread recipe ([#85913](https://github.com/CleverRaven/Cataclysm-DDA/pull/85913))
 * Fix crash from uninitialized highway connections on overmap scroll ([#85925](https://github.com/CleverRaven/Cataclysm-DDA/pull/85925))
 * adv nomad cowl looks like nomad cowl ([#85920](https://github.com/CleverRaven/Cataclysm-DDA/pull/85920))
 * [MoM] Allow noetic resonance detector to be used on yourself ([#85921](https://github.com/CleverRaven/Cataclysm-DDA/pull/85921))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-18-1910 ([f1327f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-18-1910))
-
 * [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
 * Weekly Changelog 2026-03-09 to 2026-03-16 ([#85873](https://github.com/CleverRaven/Cataclysm-DDA/pull/85873))
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
@@ -202,7 +205,6 @@
 * [Magiclysm] Ravenfolk wings now have feathers ([#85893](https://github.com/CleverRaven/Cataclysm-DDA/pull/85893))
 * make dense bones hp bonus match description ([#85898](https://github.com/CleverRaven/Cataclysm-DDA/pull/85898))
 * [Bombastic Perks] More closet definitions ([#85887](https://github.com/CleverRaven/Cataclysm-DDA/pull/85887))
-* unify windage and no_power effects for limbs ([#85824](https://github.com/CleverRaven/Cataclysm-DDA/pull/85824))
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
 * Fix typos in Hub items ([#85850](https://github.com/CleverRaven/Cataclysm-DDA/pull/85850))
 * Fix flaky swim_under tests ([#85888](https://github.com/CleverRaven/Cataclysm-DDA/pull/85888))
@@ -231,8 +233,6 @@
 * MA bonus dodge/block remove +/- symbols ([#85836](https://github.com/CleverRaven/Cataclysm-DDA/pull/85836))
 * Fix zone sort stalling on large zones with mostly empty tiles ([#85835](https://github.com/CleverRaven/Cataclysm-DDA/pull/85835))
 * Add `looks_like` to heavy ballistic vest ([#85828](https://github.com/CleverRaven/Cataclysm-DDA/pull/85828))
-* Stop pig murderers ([#85825](https://github.com/CleverRaven/Cataclysm-DDA/pull/85825))
 * Make crab legs a body part(s) ([#85832](https://github.com/CleverRaven/Cataclysm-DDA/pull/85832))
 * Move debug helmet_scavenger recipe to test_data ([#85833](https://github.com/CleverRaven/Cataclysm-DDA/pull/85833))
 * Fix zone activity hangs, route cache perf, and pathfinder z-scoring ([#85829](https://github.com/CleverRaven/Cataclysm-DDA/pull/85829))
-* Remove mention of points pool in main menu ([#85823](https://github.com/CleverRaven/Cataclysm-DDA/pull/85823))
