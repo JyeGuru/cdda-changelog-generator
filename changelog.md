@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-23-1031 ([69e6757](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1031))
+
+* NPC needs: bodytemp updates, camp water through stomach, non-ally sleep ([#86016](https://github.com/CleverRaven/Cataclysm-DDA/pull/86016))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-23-0716 ([9f670b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-0716))
 
 * Teleport crystals are blue ([#86024](https://github.com/CleverRaven/Cataclysm-DDA/pull/86024))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-03-20-1532 ([8de87ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1532))
 
 * Extract crafting menu helpers for testability ([#85959](https://github.com/CleverRaven/Cataclysm-DDA/pull/85959))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-20-1418 ([d6ffd77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1418))
-
 * Increase open windows movecost ([#85947](https://github.com/CleverRaven/Cataclysm-DDA/pull/85947))
 * Tool speed modifiers for recipe steps ([#85949](https://github.com/CleverRaven/Cataclysm-DDA/pull/85949))
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table ([#85950](https://github.com/CleverRaven/Cataclysm-DDA/pull/85950))
@@ -245,4 +246,3 @@
 * Let cunning ferals stab through fences ([#85864](https://github.com/CleverRaven/Cataclysm-DDA/pull/85864))
 * Add missed unarmed reach range ([#85866](https://github.com/CleverRaven/Cataclysm-DDA/pull/85866))
 * [MoM] No more astral projecting while driving ([#85869](https://github.com/CleverRaven/Cataclysm-DDA/pull/85869))
-* Increase towels ([#85852](https://github.com/CleverRaven/Cataclysm-DDA/pull/85852))
