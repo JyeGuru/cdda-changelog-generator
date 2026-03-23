@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-23-2050 (b7540b4)
+* implement firearm action flags (#85993)
+
 Cataclysm-DDA experimental build 2026-03-23-1928 (a6fdb61)
 * Add display names to requirement definitions (#86036)
 * NPC needs: local resource acquisition (drink, eat, wear from ground) (#86035)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-03-21-1037 (43a94b6)
 
 Cataclysm-DDA experimental build 2026-03-21-0053 (5da63cb)
 * Fix `house_w_3` chunk spawns issues (#85951)
-
-Cataclysm-DDA experimental build 2026-03-20-2155 (c660740)
 * Add `Computer Illiterate` challenge trait (#85975)
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity (#85969)
 * Make Hummingbird beak a bodypart (#85958)
@@ -156,4 +157,3 @@ Cataclysm-DDA experimental build 2026-03-20-2155 (c660740)
 * Make mod conflict checks bidirectional (#85881)
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility (#85882)
 * Allow melee attacks on matching stairs across z-levels (#85880)
-* You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure (#85870)

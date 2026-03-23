@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-23-2050 ([b7540b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-2050))
+
+* implement firearm action flags ([#85993](https://github.com/CleverRaven/Cataclysm-DDA/pull/85993))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-23-1928 ([a6fdb61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1928))
 
 * Add display names to requirement definitions ([#86036](https://github.com/CleverRaven/Cataclysm-DDA/pull/86036))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-03-21-0053 ([5da63cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-0053))
 
 * Fix `house_w_3` chunk spawns issues ([#85951](https://github.com/CleverRaven/Cataclysm-DDA/pull/85951))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-20-2155 ([c660740](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-2155))
-
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
 * Make Hummingbird beak a bodypart ([#85958](https://github.com/CleverRaven/Cataclysm-DDA/pull/85958))
@@ -246,4 +247,3 @@
 * Make mod conflict checks bidirectional ([#85881](https://github.com/CleverRaven/Cataclysm-DDA/pull/85881))
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility ([#85882](https://github.com/CleverRaven/Cataclysm-DDA/pull/85882))
 * Allow melee attacks on matching stairs across z-levels ([#85880](https://github.com/CleverRaven/Cataclysm-DDA/pull/85880))
-* You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure ([#85870](https://github.com/CleverRaven/Cataclysm-DDA/pull/85870))
