@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-23-0716 ([9f670b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-0716))
+
+* Teleport crystals are blue ([#86024](https://github.com/CleverRaven/Cataclysm-DDA/pull/86024))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2026-03-23-0402 ([9cf08ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-23-0402))
 
 * Bump up dmg size limit in macOS release build ([#86019](https://github.com/CleverRaven/Cataclysm-DDA/pull/86019))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-03-20-1418 ([d6ffd77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1418))
 
 * Increase open windows movecost ([#85947](https://github.com/CleverRaven/Cataclysm-DDA/pull/85947))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-20-1320 ([558418f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1320))
-
 * Tool speed modifiers for recipe steps ([#85949](https://github.com/CleverRaven/Cataclysm-DDA/pull/85949))
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table ([#85950](https://github.com/CleverRaven/Cataclysm-DDA/pull/85950))
 * Rework the anomalous MP3 ([#85945](https://github.com/CleverRaven/Cataclysm-DDA/pull/85945))
@@ -230,7 +231,6 @@
 * make dense bones hp bonus match description ([#85898](https://github.com/CleverRaven/Cataclysm-DDA/pull/85898))
 * [Bombastic Perks] More closet definitions ([#85887](https://github.com/CleverRaven/Cataclysm-DDA/pull/85887))
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
-* Fix typos in Hub items ([#85850](https://github.com/CleverRaven/Cataclysm-DDA/pull/85850))
 * Fix flaky swim_under tests ([#85888](https://github.com/CleverRaven/Cataclysm-DDA/pull/85888))
 * Fix multi-zone activity hang on large zones ([#85872](https://github.com/CleverRaven/Cataclysm-DDA/pull/85872))
 * Actually push all the commits into #85870 ([#85875](https://github.com/CleverRaven/Cataclysm-DDA/pull/85875))
