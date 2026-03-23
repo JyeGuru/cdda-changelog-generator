@@ -1,3 +1,4 @@
+* Add myself to comment-commands.yml (#86017)
 
 Cataclysm-DDA experimental build 2026-03-22-2309 (bd6907a)
 * HEW reports for inner cabins (#86007)
@@ -152,5 +153,4 @@ Cataclysm-DDA experimental build 2026-03-20-0416 (ddaf6ab)
 * Add missed unarmed reach range (#85866)
 * [MoM] No more astral projecting while driving (#85869)
 * Increase towels (#85852)
-* Aftershock: Small bugfix round (#85847)
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills (#85848)

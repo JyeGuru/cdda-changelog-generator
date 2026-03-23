@@ -1,3 +1,4 @@
+* Add myself to comment-commands.yml ([#86017](https://github.com/CleverRaven/Cataclysm-DDA/pull/86017))
 
 ---
 
@@ -239,5 +240,4 @@
 * Add missed unarmed reach range ([#85866](https://github.com/CleverRaven/Cataclysm-DDA/pull/85866))
 * [MoM] No more astral projecting while driving ([#85869](https://github.com/CleverRaven/Cataclysm-DDA/pull/85869))
 * Increase towels ([#85852](https://github.com/CleverRaven/Cataclysm-DDA/pull/85852))
-* Aftershock: Small bugfix round ([#85847](https://github.com/CleverRaven/Cataclysm-DDA/pull/85847))
 * [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
