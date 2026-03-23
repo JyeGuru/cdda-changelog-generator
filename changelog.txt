@@ -1,3 +1,7 @@
+* [alt-map-key] Add new overmap terrain (#86034)
+
+Cataclysm-DDA experimental build 2026-03-23-1140 (14ec586)
+* Blacklist hunvre in standard combat tests mod so it stops breaking tests (#86027)
 
 Cataclysm-DDA experimental build 2026-03-23-1031 (69e6757)
 * NPC needs: bodytemp updates, camp water through stomach, non-ally sleep (#86016)
@@ -96,8 +100,6 @@ Cataclysm-DDA experimental build 2026-03-20-1818 (f5a9b67)
 
 Cataclysm-DDA experimental build 2026-03-20-1623 (e345a9e)
 * Brooms can broom (#85966)
-
-Cataclysm-DDA experimental build 2026-03-20-1532 (8de87ad)
 * Extract crafting menu helpers for testability (#85959)
 * Increase open windows movecost (#85947)
 * Tool speed modifiers for recipe steps (#85949)
@@ -147,7 +149,6 @@ Cataclysm-DDA experimental build 2026-03-20-1532 (8de87ad)
 * Actually push all the commits into #85870 (#85875)
 * Clear highway intersection grid in overmapbuffer::reset() (#85883)
 * Remove Catch2 v2 internal API usage from test runner (#85874)
-* Fixes Cloud Formation and Pressure (#85855)
 * Make mod conflict checks bidirectional (#85881)
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility (#85882)
 * Allow melee attacks on matching stairs across z-levels (#85880)
