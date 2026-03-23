@@ -1,3 +1,9 @@
+
+Cataclysm-DDA 0.I release candidate 2026-03-23-0402 (9cf08ec)
+* Bump up dmg size limit in macOS release build (#86019)
+
+Cataclysm-DDA experimental build 2026-03-23-0401 (37783e4)
+* [Innawoods] Remove teleporting ramps in caves (#86015)
 * Add myself to comment-commands.yml (#86017)
 
 Cataclysm-DDA experimental build 2026-03-22-2309 (bd6907a)
@@ -93,8 +99,6 @@ Cataclysm-DDA experimental build 2026-03-20-1418 (d6ffd77)
 
 Cataclysm-DDA experimental build 2026-03-20-1320 (558418f)
 * Tool speed modifiers for recipe steps (#85949)
-
-Cataclysm-DDA experimental build 2026-03-20-0416 (ddaf6ab)
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table (#85950)
 * Rework the anomalous MP3 (#85945)
 * Split battery percentage into a separate widget (#85954)
@@ -121,7 +125,6 @@ Cataclysm-DDA experimental build 2026-03-20-0416 (ddaf6ab)
 * Mark legacy idx-based item_location helpers for future removal (#85924)
 * Use Catch::Matchers:: namespace for all test matchers (#85907)
 * Add a front pocket to MOLLE Assaut Pack (#85914)
-* Fix unique overmap special spawn rate formula (#85849)
 * Add item UID for stable item_location serialization (#85905)
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only (#85894)
 * Small Exodii-side chop shop tweaks (#85885)
@@ -153,4 +156,3 @@ Cataclysm-DDA experimental build 2026-03-20-0416 (ddaf6ab)
 * Add missed unarmed reach range (#85866)
 * [MoM] No more astral projecting while driving (#85869)
 * Increase towels (#85852)
-* [Xedra Evolved] Add two homullus traits, improving electronics and computer skills (#85848)

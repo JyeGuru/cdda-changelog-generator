@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-03-23-0402 ([9cf08ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-23-0402))
+
+* Bump up dmg size limit in macOS release build ([#86019](https://github.com/CleverRaven/Cataclysm-DDA/pull/86019))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-23-0401 ([37783e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-0401))
+
+* [Innawoods] Remove teleporting ramps in caves ([#86015](https://github.com/CleverRaven/Cataclysm-DDA/pull/86015))
 * Add myself to comment-commands.yml ([#86017](https://github.com/CleverRaven/Cataclysm-DDA/pull/86017))
 
 ---
@@ -177,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-03-20-1320 ([558418f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1320))
 
 * Tool speed modifiers for recipe steps ([#85949](https://github.com/CleverRaven/Cataclysm-DDA/pull/85949))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-20-0416 ([ddaf6ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-0416))
-
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table ([#85950](https://github.com/CleverRaven/Cataclysm-DDA/pull/85950))
 * Rework the anomalous MP3 ([#85945](https://github.com/CleverRaven/Cataclysm-DDA/pull/85945))
 * Split battery percentage into a separate widget ([#85954](https://github.com/CleverRaven/Cataclysm-DDA/pull/85954))
@@ -208,7 +215,6 @@
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
 * Use Catch::Matchers:: namespace for all test matchers ([#85907](https://github.com/CleverRaven/Cataclysm-DDA/pull/85907))
 * Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
-* Fix unique overmap special spawn rate formula ([#85849](https://github.com/CleverRaven/Cataclysm-DDA/pull/85849))
 * Add item UID for stable item_location serialization ([#85905](https://github.com/CleverRaven/Cataclysm-DDA/pull/85905))
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only ([#85894](https://github.com/CleverRaven/Cataclysm-DDA/pull/85894))
 * Small Exodii-side chop shop tweaks ([#85885](https://github.com/CleverRaven/Cataclysm-DDA/pull/85885))
@@ -240,4 +246,3 @@
 * Add missed unarmed reach range ([#85866](https://github.com/CleverRaven/Cataclysm-DDA/pull/85866))
 * [MoM] No more astral projecting while driving ([#85869](https://github.com/CleverRaven/Cataclysm-DDA/pull/85869))
 * Increase towels ([#85852](https://github.com/CleverRaven/Cataclysm-DDA/pull/85852))
-* [Xedra Evolved] Add two homullus traits, improving electronics and computer skills ([#85848](https://github.com/CleverRaven/Cataclysm-DDA/pull/85848))
