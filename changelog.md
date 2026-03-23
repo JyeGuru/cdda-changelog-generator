@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-23-1232 ([c95a9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1232))
+
 * [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
 
 ---
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-03-20-1818 ([f5a9b67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1818))
 
 * Replace blanket use_methods rejection in NPC rate_food with targeted checks ([#85930](https://github.com/CleverRaven/Cataclysm-DDA/pull/85930))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-20-1623 ([e345a9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1623))
-
 * Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))
 * Extract crafting menu helpers for testability ([#85959](https://github.com/CleverRaven/Cataclysm-DDA/pull/85959))
 * Increase open windows movecost ([#85947](https://github.com/CleverRaven/Cataclysm-DDA/pull/85947))
