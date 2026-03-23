@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-23-1928 ([a6fdb61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1928))
+
+* Add display names to requirement definitions ([#86036](https://github.com/CleverRaven/Cataclysm-DDA/pull/86036))
+* NPC needs: local resource acquisition (drink, eat, wear from ground) ([#86035](https://github.com/CleverRaven/Cataclysm-DDA/pull/86035))
+* [Sky Island] Breakup monolith mission files ([#86025](https://github.com/CleverRaven/Cataclysm-DDA/pull/86025))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-23-1846 ([8566bbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1846))
+
+* Add missing `SOFT` flag to inner cabins ruana ([#86030](https://github.com/CleverRaven/Cataclysm-DDA/pull/86030))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-23-1232 ([c95a9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1232))
 
 * [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
@@ -173,21 +187,11 @@
 #### Cataclysm-DDA experimental build 2026-03-20-2155 ([c660740](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-2155))
 
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-20-2028 ([575c6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-2028))
-
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
 * Make Hummingbird beak a bodypart ([#85958](https://github.com/CleverRaven/Cataclysm-DDA/pull/85958))
 * Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
 * [Hunvre] Fix the game crashing when using the sundial widget ([#85948](https://github.com/CleverRaven/Cataclysm-DDA/pull/85948))
 * Extract recipe_info() to crafting_gui_helpers ([#85961](https://github.com/CleverRaven/Cataclysm-DDA/pull/85961))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-20-1818 ([f5a9b67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-20-1818))
-
 * Replace blanket use_methods rejection in NPC rate_food with targeted checks ([#85930](https://github.com/CleverRaven/Cataclysm-DDA/pull/85930))
 * Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))
 * Extract crafting menu helpers for testability ([#85959](https://github.com/CleverRaven/Cataclysm-DDA/pull/85959))
@@ -242,8 +246,4 @@
 * Make mod conflict checks bidirectional ([#85881](https://github.com/CleverRaven/Cataclysm-DDA/pull/85881))
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility ([#85882](https://github.com/CleverRaven/Cataclysm-DDA/pull/85882))
 * Allow melee attacks on matching stairs across z-levels ([#85880](https://github.com/CleverRaven/Cataclysm-DDA/pull/85880))
-* Fix monster melee special attacks being insanely inaccurate ([#85867](https://github.com/CleverRaven/Cataclysm-DDA/pull/85867))
 * You can't use a computer while incorporeal or not having hands, add general can't use computers infrastructure ([#85870](https://github.com/CleverRaven/Cataclysm-DDA/pull/85870))
-* Let cunning ferals stab through fences ([#85864](https://github.com/CleverRaven/Cataclysm-DDA/pull/85864))
-* Add missed unarmed reach range ([#85866](https://github.com/CleverRaven/Cataclysm-DDA/pull/85866))
-* [MoM] No more astral projecting while driving ([#85869](https://github.com/CleverRaven/Cataclysm-DDA/pull/85869))
