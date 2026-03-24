@@ -1,3 +1,5 @@
+* [Sky Island] Challenge Mode ([#86033](https://github.com/CleverRaven/Cataclysm-DDA/pull/86033))
+* A timed exit from the inner cabins dimension ([#86058](https://github.com/CleverRaven/Cataclysm-DDA/pull/86058))
 
 ---
 
@@ -236,9 +238,6 @@
 * [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
-* Use Catch::Matchers:: namespace for all test matchers ([#85907](https://github.com/CleverRaven/Cataclysm-DDA/pull/85907))
 * Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
-* Add item UID for stable item_location serialization ([#85905](https://github.com/CleverRaven/Cataclysm-DDA/pull/85905))
 * Respect magazine_well when calculating encumbrance ([#85911](https://github.com/CleverRaven/Cataclysm-DDA/pull/85911))
-* Apply NPC_starting_traits to randomly generated NPCs ([#85906](https://github.com/CleverRaven/Cataclysm-DDA/pull/85906))
 * Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
