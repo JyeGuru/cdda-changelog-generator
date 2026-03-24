@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2026-03-24-1416 (2ab68c2)
+* Bicycle alternators are conform to their real counterparts (#86057)
+* NPC needs: shelter radius, vehicle cargo, quench floor, foraging (#86052)
+
 Cataclysm-DDA experimental build 2026-03-24-1325 (91a2cfe)
 * Consolidate SDL rendering calls behind wrapper functions (#86055)
 * Empty out cabins in the Cabins Reverberation (#85965)
@@ -100,8 +104,6 @@ Cataclysm-DDA experimental build 2026-03-21-2357 (7a46d1e)
 
 Cataclysm-DDA experimental build 2026-03-21-2254 (9ae8dba)
 * Add viewport lock option for zone sorting (#85968)
-
-Cataclysm-DDA experimental build 2026-03-21-2012 (abc56ce)
 * Extract recipe result info to crafting_gui_helpers (#85978)
 * Improve overmap_terrain_coverage test coverage for rare specials (#85994)
 * Add myself to comment command list (#85981)
@@ -153,5 +155,3 @@ Cataclysm-DDA experimental build 2026-03-21-2012 (abc56ce)
 * Apply NPC_starting_traits to randomly generated NPCs (#85906)
 * Skip corpse placement when monster group is empty (#85910)
 * render idle hordes on the overmap, in addition to active hordes (#85903)
-* [Xedra Evolved] Paraclesians are born ignorant of technology (#85899)
-* make dense bones hp bonus match description (#85898)
