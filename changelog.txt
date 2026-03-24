@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-24-2310 (c2983ad)
 * Move city size and spacing options to `region_settings_city` object (#86053)
 
 Cataclysm-DDA experimental build 2026-03-24-2204 (dba3b3e)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2026-03-22-0826 (19155bb)
 
 Cataclysm-DDA experimental build 2026-03-22-0510 (efa19fb)
 * [Xedra Evolved] Paraclesian eyes are a bodypart (#85998)
-
-Cataclysm-DDA experimental build 2026-03-22-0140 (0ef5191)
 * Adjusts description of Gasoline Fuel Cell CBM. (#85970)
 * Fix SIGSEV fault when harvesting/clearing overgrown crops (#85982)
 * NPC needs: urgency scoring and utility strategy (#85984)
