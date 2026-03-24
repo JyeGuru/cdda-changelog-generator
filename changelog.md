@@ -1,3 +1,5 @@
+* New Map Extra: Final Showdown ([#86012](https://github.com/CleverRaven/Cataclysm-DDA/pull/86012))
+* Fixed roasted coffee beans category.json ([#86021](https://github.com/CleverRaven/Cataclysm-DDA/pull/86021))
 * [Xedra Evolved] Salamander caster conditions ([#86018](https://github.com/CleverRaven/Cataclysm-DDA/pull/86018))
 * [MoM] Add Selective Autosomnia Vitakinetic power ([#86047](https://github.com/CleverRaven/Cataclysm-DDA/pull/86047))
 * [Hunvre] Massively increase city size and massively decrease their spacing ([#86038](https://github.com/CleverRaven/Cataclysm-DDA/pull/86038))
@@ -189,11 +191,6 @@
 
 * [MoM] The pyrokinetic power Blazing Aura provides SNOWWALKING ([#85973](https://github.com/CleverRaven/Cataclysm-DDA/pull/85973))
 * Give the anomalous MP3 ability to "listen" to reverberations ([#85980](https://github.com/CleverRaven/Cataclysm-DDA/pull/85980))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-21-1446 ([32aaf8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1446))
-
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
 * NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
 * Extract filter engine and deduplicate nested sort ([#85963](https://github.com/CleverRaven/Cataclysm-DDA/pull/85963))
@@ -244,6 +241,4 @@
 * [Xedra Evolved] Paraclesians are born ignorant of technology ([#85899](https://github.com/CleverRaven/Cataclysm-DDA/pull/85899))
 * [Magiclysm] Ravenfolk wings now have feathers ([#85893](https://github.com/CleverRaven/Cataclysm-DDA/pull/85893))
 * make dense bones hp bonus match description ([#85898](https://github.com/CleverRaven/Cataclysm-DDA/pull/85898))
-* [Bombastic Perks] More closet definitions ([#85887](https://github.com/CleverRaven/Cataclysm-DDA/pull/85887))
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
-* Fix flaky swim_under tests ([#85888](https://github.com/CleverRaven/Cataclysm-DDA/pull/85888))
