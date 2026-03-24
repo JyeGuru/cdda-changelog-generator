@@ -1,3 +1,10 @@
+* Move city size and spacing options to `region_settings_city` object ([#86053](https://github.com/CleverRaven/Cataclysm-DDA/pull/86053))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-24-2204 ([dba3b3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-2204))
+
+* Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
 * [Sky Island] Challenge Mode ([#86033](https://github.com/CleverRaven/Cataclysm-DDA/pull/86033))
 * A timed exit from the inner cabins dimension ([#86058](https://github.com/CleverRaven/Cataclysm-DDA/pull/86058))
 
@@ -187,11 +194,6 @@
 
 * Adjusts description of Gasoline Fuel Cell CBM. ([#85970](https://github.com/CleverRaven/Cataclysm-DDA/pull/85970))
 * Fix SIGSEV fault when harvesting/clearing overgrown crops ([#85982](https://github.com/CleverRaven/Cataclysm-DDA/pull/85982))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-0049 ([9930a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0049))
-
 * NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
 * Extract recipe list pipeline to crafting_gui_helpers ([#85979](https://github.com/CleverRaven/Cataclysm-DDA/pull/85979))
 * Add viewport lock option for zone sorting ([#85968](https://github.com/CleverRaven/Cataclysm-DDA/pull/85968))
@@ -229,7 +231,6 @@
 * add missing translation ([#85912](https://github.com/CleverRaven/Cataclysm-DDA/pull/85912))
 * Let saprophages and saprovores eat parasitic food without warning ([#85929](https://github.com/CleverRaven/Cataclysm-DDA/pull/85929))
 * Cap sleepiness_mod in calculations to prevent never gaining weariness ([#85922](https://github.com/CleverRaven/Cataclysm-DDA/pull/85922))
-* [MoM] LIXA interactions ([#85908](https://github.com/CleverRaven/Cataclysm-DDA/pull/85908))
 * Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
 * Add steps to bread recipe ([#85913](https://github.com/CleverRaven/Cataclysm-DDA/pull/85913))
 * Fix crash from uninitialized highway connections on overmap scroll ([#85925](https://github.com/CleverRaven/Cataclysm-DDA/pull/85925))
@@ -240,4 +241,3 @@
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
 * Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
 * Respect magazine_well when calculating encumbrance ([#85911](https://github.com/CleverRaven/Cataclysm-DDA/pull/85911))
-* Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
