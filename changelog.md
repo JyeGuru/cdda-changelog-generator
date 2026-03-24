@@ -1,3 +1,12 @@
+* [Xedra Evolved] Salamander caster conditions ([#86018](https://github.com/CleverRaven/Cataclysm-DDA/pull/86018))
+* [MoM] Add Selective Autosomnia Vitakinetic power ([#86047](https://github.com/CleverRaven/Cataclysm-DDA/pull/86047))
+* [Hunvre] Massively increase city size and massively decrease their spacing ([#86038](https://github.com/CleverRaven/Cataclysm-DDA/pull/86038))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-24-0504 ([73dfb63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-0504))
+
+* Map Extra: Abandoned Jetski ([#86042](https://github.com/CleverRaven/Cataclysm-DDA/pull/86042))
 
 ---
 
@@ -186,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-03-21-1446 ([32aaf8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1446))
 
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-21-1122 ([e68a7f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1122))
-
 * NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
 * Extract filter engine and deduplicate nested sort ([#85963](https://github.com/CleverRaven/Cataclysm-DDA/pull/85963))
 * Fix `house_w_3` chunk spawns issues ([#85951](https://github.com/CleverRaven/Cataclysm-DDA/pull/85951))
@@ -232,18 +236,14 @@
 * Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
 * Add item UID for stable item_location serialization ([#85905](https://github.com/CleverRaven/Cataclysm-DDA/pull/85905))
 * Removes `attacks` from Acidic Secretion, make it work when unarmed only ([#85894](https://github.com/CleverRaven/Cataclysm-DDA/pull/85894))
-* Small Exodii-side chop shop tweaks ([#85885](https://github.com/CleverRaven/Cataclysm-DDA/pull/85885))
 * Make morale recovery non-destructive, init mutation state on load ([#85902](https://github.com/CleverRaven/Cataclysm-DDA/pull/85902))
 * Respect magazine_well when calculating encumbrance ([#85911](https://github.com/CleverRaven/Cataclysm-DDA/pull/85911))
 * Apply NPC_starting_traits to randomly generated NPCs ([#85906](https://github.com/CleverRaven/Cataclysm-DDA/pull/85906))
 * Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
 * render idle hordes on the overmap, in addition to active hordes ([#85903](https://github.com/CleverRaven/Cataclysm-DDA/pull/85903))
-* Fix butchery yield for sub-gram harvest items ([#85886](https://github.com/CleverRaven/Cataclysm-DDA/pull/85886))
 * [Xedra Evolved] Paraclesians are born ignorant of technology ([#85899](https://github.com/CleverRaven/Cataclysm-DDA/pull/85899))
 * [Magiclysm] Ravenfolk wings now have feathers ([#85893](https://github.com/CleverRaven/Cataclysm-DDA/pull/85893))
 * make dense bones hp bonus match description ([#85898](https://github.com/CleverRaven/Cataclysm-DDA/pull/85898))
 * [Bombastic Perks] More closet definitions ([#85887](https://github.com/CleverRaven/Cataclysm-DDA/pull/85887))
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
 * Fix flaky swim_under tests ([#85888](https://github.com/CleverRaven/Cataclysm-DDA/pull/85888))
-* Clear highway intersection grid in overmapbuffer::reset() ([#85883](https://github.com/CleverRaven/Cataclysm-DDA/pull/85883))
-* Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility ([#85882](https://github.com/CleverRaven/Cataclysm-DDA/pull/85882))
