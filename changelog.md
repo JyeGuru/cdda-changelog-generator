@@ -1,6 +1,23 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-24-0054 ([d257eb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-0054))
+
+* [Sky Island] Greenhouse bunker upgrades ([#85999](https://github.com/CleverRaven/Cataclysm-DDA/pull/85999))
+* [Sky Island] Fix lab raid start selection  ([#86029](https://github.com/CleverRaven/Cataclysm-DDA/pull/86029))
+* [XE/CrazyCata] Rename all vampire variants to `dracula` ([#86039](https://github.com/CleverRaven/Cataclysm-DDA/pull/86039))
+* Add missing win32 libs to msys/mingw build post-snmalloc ([#86032](https://github.com/CleverRaven/Cataclysm-DDA/pull/86032))
+* [Xedra Evolved] Buff Ierde skin armors ([#86040](https://github.com/CleverRaven/Cataclysm-DDA/pull/86040))
+* [Xedra Evolved] Add salamander rain immunity spell ([#86046](https://github.com/CleverRaven/Cataclysm-DDA/pull/86046))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-24-0013 ([839e750](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-0013))
+
+* [MoM] Fix artifact matrix crystal learning recipes ([#86048](https://github.com/CleverRaven/Cataclysm-DDA/pull/86048))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-23-2050 ([b7540b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-2050))
 
 * implement firearm action flags ([#85993](https://github.com/CleverRaven/Cataclysm-DDA/pull/85993))
@@ -175,17 +192,7 @@
 #### Cataclysm-DDA experimental build 2026-03-21-1122 ([e68a7f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1122))
 
 * NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-21-1037 ([43a94b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-1037))
-
 * Extract filter engine and deduplicate nested sort ([#85963](https://github.com/CleverRaven/Cataclysm-DDA/pull/85963))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-21-0053 ([5da63cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-0053))
-
 * Fix `house_w_3` chunk spawns issues ([#85951](https://github.com/CleverRaven/Cataclysm-DDA/pull/85951))
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
@@ -219,7 +226,6 @@
 * adv nomad cowl looks like nomad cowl ([#85920](https://github.com/CleverRaven/Cataclysm-DDA/pull/85920))
 * [MoM] Allow noetic resonance detector to be used on yourself ([#85921](https://github.com/CleverRaven/Cataclysm-DDA/pull/85921))
 * [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
-* Weekly Changelog 2026-03-09 to 2026-03-16 ([#85873](https://github.com/CleverRaven/Cataclysm-DDA/pull/85873))
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
 * Use Catch::Matchers:: namespace for all test matchers ([#85907](https://github.com/CleverRaven/Cataclysm-DDA/pull/85907))
@@ -232,7 +238,6 @@
 * Apply NPC_starting_traits to randomly generated NPCs ([#85906](https://github.com/CleverRaven/Cataclysm-DDA/pull/85906))
 * Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
 * render idle hordes on the overmap, in addition to active hordes ([#85903](https://github.com/CleverRaven/Cataclysm-DDA/pull/85903))
-* stop molotovs from detonating in your arms, fix it crashing the game ([#85871](https://github.com/CleverRaven/Cataclysm-DDA/pull/85871))
 * Fix butchery yield for sub-gram harvest items ([#85886](https://github.com/CleverRaven/Cataclysm-DDA/pull/85886))
 * [Xedra Evolved] Paraclesians are born ignorant of technology ([#85899](https://github.com/CleverRaven/Cataclysm-DDA/pull/85899))
 * [Magiclysm] Ravenfolk wings now have feathers ([#85893](https://github.com/CleverRaven/Cataclysm-DDA/pull/85893))
@@ -240,10 +245,5 @@
 * [Bombastic Perks] More closet definitions ([#85887](https://github.com/CleverRaven/Cataclysm-DDA/pull/85887))
 * Turn Bat wings into limbs ([#85890](https://github.com/CleverRaven/Cataclysm-DDA/pull/85890))
 * Fix flaky swim_under tests ([#85888](https://github.com/CleverRaven/Cataclysm-DDA/pull/85888))
-* Fix multi-zone activity hang on large zones ([#85872](https://github.com/CleverRaven/Cataclysm-DDA/pull/85872))
-* Actually push all the commits into #85870 ([#85875](https://github.com/CleverRaven/Cataclysm-DDA/pull/85875))
 * Clear highway intersection grid in overmapbuffer::reset() ([#85883](https://github.com/CleverRaven/Cataclysm-DDA/pull/85883))
-* Remove Catch2 v2 internal API usage from test runner ([#85874](https://github.com/CleverRaven/Cataclysm-DDA/pull/85874))
-* Make mod conflict checks bidirectional ([#85881](https://github.com/CleverRaven/Cataclysm-DDA/pull/85881))
 * Fix SWIM_UNDER melee asymmetry, NPC stuck state, and visibility ([#85882](https://github.com/CleverRaven/Cataclysm-DDA/pull/85882))
-* Allow melee attacks on matching stairs across z-levels ([#85880](https://github.com/CleverRaven/Cataclysm-DDA/pull/85880))
