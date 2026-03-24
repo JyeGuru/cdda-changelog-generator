@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-24-2000 ([b46e42b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-2000))
+
+* NPC needs: top-level decision BT diagnostic ([#86056](https://github.com/CleverRaven/Cataclysm-DDA/pull/86056))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-24-1736 ([bc2d78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-1736))
 
 * Fix "bonus room" map nest spawn in `house_w_6` map ([#86037](https://github.com/CleverRaven/Cataclysm-DDA/pull/86037))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-03-22-0049 ([9930a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0049))
 
 * NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-21-2357 ([7a46d1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-21-2357))
-
 * Extract recipe list pipeline to crafting_gui_helpers ([#85979](https://github.com/CleverRaven/Cataclysm-DDA/pull/85979))
 * Add viewport lock option for zone sorting ([#85968](https://github.com/CleverRaven/Cataclysm-DDA/pull/85968))
 * Extract recipe result info to crafting_gui_helpers ([#85978](https://github.com/CleverRaven/Cataclysm-DDA/pull/85978))
@@ -241,4 +242,3 @@
 * Respect magazine_well when calculating encumbrance ([#85911](https://github.com/CleverRaven/Cataclysm-DDA/pull/85911))
 * Apply NPC_starting_traits to randomly generated NPCs ([#85906](https://github.com/CleverRaven/Cataclysm-DDA/pull/85906))
 * Skip corpse placement when monster group is empty ([#85910](https://github.com/CleverRaven/Cataclysm-DDA/pull/85910))
-* render idle hordes on the overmap, in addition to active hordes ([#85903](https://github.com/CleverRaven/Cataclysm-DDA/pull/85903))
