@@ -1,3 +1,11 @@
+* [alt-map-key] Add new overmap terrain ([#86070](https://github.com/CleverRaven/Cataclysm-DDA/pull/86070))
+* [Sky Island] Fix first two tiers of greenhouse construction ([#86069](https://github.com/CleverRaven/Cataclysm-DDA/pull/86069))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-25-1053 ([3e31969](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-1053))
+
+* [Sky Island] Add two new challenge mode modifiers ([#86068](https://github.com/CleverRaven/Cataclysm-DDA/pull/86068))
 
 ---
 
@@ -186,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2026-03-22-1259 ([a05ce2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1259))
 
 * The "inner cabins", a deep place in the cabin reverberation ([#85971](https://github.com/CleverRaven/Cataclysm-DDA/pull/85971))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-0826 ([19155bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0826))
-
 * NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
 * Adjusts description of Gasoline Fuel Cell CBM. ([#85970](https://github.com/CleverRaven/Cataclysm-DDA/pull/85970))
@@ -229,15 +232,12 @@
 * Add `SNOWWALKING` flag, to allow you to ignore snow movement penalty ([#85938](https://github.com/CleverRaven/Cataclysm-DDA/pull/85938))
 * Guard reload_activity_actor::deserialize against invalid ammo_loc ([#85939](https://github.com/CleverRaven/Cataclysm-DDA/pull/85939))
 * Update Martial Arts docs with `aoe` types ([#85940](https://github.com/CleverRaven/Cataclysm-DDA/pull/85940))
-* add missing translation ([#85912](https://github.com/CleverRaven/Cataclysm-DDA/pull/85912))
 * Let saprophages and saprovores eat parasitic food without warning ([#85929](https://github.com/CleverRaven/Cataclysm-DDA/pull/85929))
 * Cap sleepiness_mod in calculations to prevent never gaining weariness ([#85922](https://github.com/CleverRaven/Cataclysm-DDA/pull/85922))
 * Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
-* Add steps to bread recipe ([#85913](https://github.com/CleverRaven/Cataclysm-DDA/pull/85913))
 * Fix crash from uninitialized highway connections on overmap scroll ([#85925](https://github.com/CleverRaven/Cataclysm-DDA/pull/85925))
 * adv nomad cowl looks like nomad cowl ([#85920](https://github.com/CleverRaven/Cataclysm-DDA/pull/85920))
 * [MoM] Allow noetic resonance detector to be used on yourself ([#85921](https://github.com/CleverRaven/Cataclysm-DDA/pull/85921))
 * [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
-* Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
