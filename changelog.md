@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-25-1142 ([33fc75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-1142))
+
 * [alt-map-key] Add new overmap terrain ([#86070](https://github.com/CleverRaven/Cataclysm-DDA/pull/86070))
 * [Sky Island] Fix first two tiers of greenhouse construction ([#86069](https://github.com/CleverRaven/Cataclysm-DDA/pull/86069))
 
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-03-22-1541 ([8b9f56f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1541))
 
 * [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-1259 ([a05ce2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1259))
-
 * The "inner cabins", a deep place in the cabin reverberation ([#85971](https://github.com/CleverRaven/Cataclysm-DDA/pull/85971))
 * NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))

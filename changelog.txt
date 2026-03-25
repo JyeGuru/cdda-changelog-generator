@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-25-1142 (33fc75a)
 * [alt-map-key] Add new overmap terrain (#86070)
 * [Sky Island] Fix first two tiers of greenhouse construction (#86069)
 
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2026-03-22-1646 (8d37877)
 
 Cataclysm-DDA experimental build 2026-03-22-1541 (8b9f56f)
 * [MoM] Move Burst of Speed to using a caster_condition (#86009)
-
-Cataclysm-DDA experimental build 2026-03-22-1259 (a05ce2c)
 * The "inner cabins", a deep place in the cabin reverberation (#85971)
 * NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix (#85991)
 * [Xedra Evolved] Paraclesian eyes are a bodypart (#85998)
