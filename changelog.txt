@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-25-2028 (7f07193)
+* Fix double spaces typos. (#86051)
+
 Cataclysm-DDA experimental build 2026-03-25-1520 (b8c02ec)
 * Fix generic variant descriptions (#86074)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2026-03-22-1952 (2963e14)
 
 Cataclysm-DDA experimental build 2026-03-22-1837 (fa1ea90)
 * Greenhouses! (#85986)
-
-Cataclysm-DDA experimental build 2026-03-22-1733 (c8ab960)
 * [Xedra Evolved] Arvore caster conditions (#86010)
 * [Innawood] fix lamps  (#86000)
 * Spell AOE string format specifier fix (#86005)
@@ -151,7 +152,6 @@ Cataclysm-DDA experimental build 2026-03-22-1733 (c8ab960)
 * Cap sleepiness_mod in calculations to prevent never gaining weariness (#85922)
 * Wire up NPC behavior tree as debug diagnostic (#85927)
 * Fix crash from uninitialized highway connections on overmap scroll (#85925)
-* [MoM] Allow noetic resonance detector to be used on yourself (#85921)
 * [Xedra Evolved] Add changeling dream snippets (#85933)
 * Update description of stat modifer CBM items (#85923)
 * Mark legacy idx-based item_location helpers for future removal (#85924)
