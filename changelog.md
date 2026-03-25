@@ -1,3 +1,10 @@
+* Fix generic variant descriptions ([#86074](https://github.com/CleverRaven/Cataclysm-DDA/pull/86074))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-25-1420 ([2d909d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-1420))
+
+* Paint dawn, dusk, and beacons ([#86066](https://github.com/CleverRaven/Cataclysm-DDA/pull/86066))
 
 ---
 
@@ -187,11 +194,6 @@
 * [Innawood] fix lamps  ([#86000](https://github.com/CleverRaven/Cataclysm-DDA/pull/86000))
 * Spell AOE string format specifier fix ([#86005](https://github.com/CleverRaven/Cataclysm-DDA/pull/86005))
 * give unseeen hunter "NETHER" species ([#86006](https://github.com/CleverRaven/Cataclysm-DDA/pull/86006))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-1541 ([8b9f56f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1541))
-
 * [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
 * The "inner cabins", a deep place in the cabin reverberation ([#85971](https://github.com/CleverRaven/Cataclysm-DDA/pull/85971))
 * NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
@@ -236,7 +238,6 @@
 * Cap sleepiness_mod in calculations to prevent never gaining weariness ([#85922](https://github.com/CleverRaven/Cataclysm-DDA/pull/85922))
 * Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
 * Fix crash from uninitialized highway connections on overmap scroll ([#85925](https://github.com/CleverRaven/Cataclysm-DDA/pull/85925))
-* adv nomad cowl looks like nomad cowl ([#85920](https://github.com/CleverRaven/Cataclysm-DDA/pull/85920))
 * [MoM] Allow noetic resonance detector to be used on yourself ([#85921](https://github.com/CleverRaven/Cataclysm-DDA/pull/85921))
 * [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
