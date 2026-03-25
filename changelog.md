@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-25-0904 ([053e801](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-0904))
+
+* No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-24-2310 ([c2983ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-2310))
 
 * Move city size and spacing options to `region_settings_city` object ([#86053](https://github.com/CleverRaven/Cataclysm-DDA/pull/86053))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-03-22-0826 ([19155bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0826))
 
 * NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-0510 ([efa19fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-0510))
-
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
 * Adjusts description of Gasoline Fuel Cell CBM. ([#85970](https://github.com/CleverRaven/Cataclysm-DDA/pull/85970))
 * Fix SIGSEV fault when harvesting/clearing overgrown crops ([#85982](https://github.com/CleverRaven/Cataclysm-DDA/pull/85982))
@@ -240,4 +241,3 @@
 * Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
 * Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
 * Add a front pocket to MOLLE Assaut Pack ([#85914](https://github.com/CleverRaven/Cataclysm-DDA/pull/85914))
-* Respect magazine_well when calculating encumbrance ([#85911](https://github.com/CleverRaven/Cataclysm-DDA/pull/85911))
