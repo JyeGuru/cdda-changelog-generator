@@ -236,7 +236,6 @@
 * Guard reload_activity_actor::deserialize against invalid ammo_loc ([#85939](https://github.com/CleverRaven/Cataclysm-DDA/pull/85939))
 * Update Martial Arts docs with `aoe` types ([#85940](https://github.com/CleverRaven/Cataclysm-DDA/pull/85940))
 * Let saprophages and saprovores eat parasitic food without warning ([#85929](https://github.com/CleverRaven/Cataclysm-DDA/pull/85929))
-* Cap sleepiness_mod in calculations to prevent never gaining weariness ([#85922](https://github.com/CleverRaven/Cataclysm-DDA/pull/85922))
 * Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
 * Fix crash from uninitialized highway connections on overmap scroll ([#85925](https://github.com/CleverRaven/Cataclysm-DDA/pull/85925))
 * [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
