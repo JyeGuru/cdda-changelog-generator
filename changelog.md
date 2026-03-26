@@ -1,3 +1,22 @@
+* Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-26-0931 ([ca093c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-0931))
+
+* fix missing chimneys in cabin reverberation ([#86001](https://github.com/CleverRaven/Cataclysm-DDA/pull/86001))
+* [Hunvre] Migrate city generation values to the new system ([#86076](https://github.com/CleverRaven/Cataclysm-DDA/pull/86076))
+* apply color-tinting to radiosphere lights ([#86084](https://github.com/CleverRaven/Cataclysm-DDA/pull/86084))
+* Rural church of nether strings glows ([#86086](https://github.com/CleverRaven/Cataclysm-DDA/pull/86086))
+* Triffid bulbs glow green ([#86088](https://github.com/CleverRaven/Cataclysm-DDA/pull/86088))
+* Electricity fields are blue/white ([#86089](https://github.com/CleverRaven/Cataclysm-DDA/pull/86089))
+* [MoM] Moving under Ephemeral Walk costs extra stamina ([#86091](https://github.com/CleverRaven/Cataclysm-DDA/pull/86091))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-26-0836 ([71530dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-0836))
+
+* Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))
 
 ---
 
@@ -179,17 +198,7 @@
 
 * NPC warmth response: wear clothes, take shelter ([#86004](https://github.com/CleverRaven/Cataclysm-DDA/pull/86004))
 * More elaborate support for guns and melee sound effects ([#86002](https://github.com/CleverRaven/Cataclysm-DDA/pull/86002))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-1952 ([2963e14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1952))
-
 * add some items to the inner cabins recursive cabin ([#86008](https://github.com/CleverRaven/Cataclysm-DDA/pull/86008))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-1837 ([fa1ea90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-1837))
-
 * Greenhouses! ([#85986](https://github.com/CleverRaven/Cataclysm-DDA/pull/85986))
 * [Xedra Evolved] Arvore caster conditions ([#86010](https://github.com/CleverRaven/Cataclysm-DDA/pull/86010))
 * [Innawood] fix lamps  ([#86000](https://github.com/CleverRaven/Cataclysm-DDA/pull/86000))
@@ -219,7 +228,6 @@
 * Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
 * [Hunvre] Fix the game crashing when using the sundial widget ([#85948](https://github.com/CleverRaven/Cataclysm-DDA/pull/85948))
 * Extract recipe_info() to crafting_gui_helpers ([#85961](https://github.com/CleverRaven/Cataclysm-DDA/pull/85961))
-* Replace blanket use_methods rejection in NPC rate_food with targeted checks ([#85930](https://github.com/CleverRaven/Cataclysm-DDA/pull/85930))
 * Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))
 * Extract crafting menu helpers for testability ([#85959](https://github.com/CleverRaven/Cataclysm-DDA/pull/85959))
 * Increase open windows movecost ([#85947](https://github.com/CleverRaven/Cataclysm-DDA/pull/85947))
@@ -228,16 +236,8 @@
 * Rework the anomalous MP3 ([#85945](https://github.com/CleverRaven/Cataclysm-DDA/pull/85945))
 * Split battery percentage into a separate widget ([#85954](https://github.com/CleverRaven/Cataclysm-DDA/pull/85954))
 * cabin reverberation tunnel systems ([#85946](https://github.com/CleverRaven/Cataclysm-DDA/pull/85946))
-* [Innawoods] Fix broken starting locations ([#85936](https://github.com/CleverRaven/Cataclysm-DDA/pull/85936))
 * [Xedra Evolved] Elemental magic rework: Salamander ([#85952](https://github.com/CleverRaven/Cataclysm-DDA/pull/85952))
 * Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
 * Step iteration for recipe steps ([#85943](https://github.com/CleverRaven/Cataclysm-DDA/pull/85943))
-* Add `SNOWWALKING` flag, to allow you to ignore snow movement penalty ([#85938](https://github.com/CleverRaven/Cataclysm-DDA/pull/85938))
 * Guard reload_activity_actor::deserialize against invalid ammo_loc ([#85939](https://github.com/CleverRaven/Cataclysm-DDA/pull/85939))
 * Update Martial Arts docs with `aoe` types ([#85940](https://github.com/CleverRaven/Cataclysm-DDA/pull/85940))
-* Let saprophages and saprovores eat parasitic food without warning ([#85929](https://github.com/CleverRaven/Cataclysm-DDA/pull/85929))
-* Wire up NPC behavior tree as debug diagnostic ([#85927](https://github.com/CleverRaven/Cataclysm-DDA/pull/85927))
-* Fix crash from uninitialized highway connections on overmap scroll ([#85925](https://github.com/CleverRaven/Cataclysm-DDA/pull/85925))
-* [Xedra Evolved] Add changeling dream snippets ([#85933](https://github.com/CleverRaven/Cataclysm-DDA/pull/85933))
-* Update description of stat modifer CBM items ([#85923](https://github.com/CleverRaven/Cataclysm-DDA/pull/85923))
-* Mark legacy idx-based item_location helpers for future removal ([#85924](https://github.com/CleverRaven/Cataclysm-DDA/pull/85924))
