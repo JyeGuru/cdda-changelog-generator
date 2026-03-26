@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-26-1112 ([af107c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1112))
+
 * Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-03-22-2309 ([bd6907a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-2309))
 
 * HEW reports for inner cabins ([#86007](https://github.com/CleverRaven/Cataclysm-DDA/pull/86007))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-2034 ([41418fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-2034))
-
 * NPC warmth response: wear clothes, take shelter ([#86004](https://github.com/CleverRaven/Cataclysm-DDA/pull/86004))
 * More elaborate support for guns and melee sound effects ([#86002](https://github.com/CleverRaven/Cataclysm-DDA/pull/86002))
 * add some items to the inner cabins recursive cabin ([#86008](https://github.com/CleverRaven/Cataclysm-DDA/pull/86008))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-26-1112 (af107c7)
 * Give fire light emission color (#86087)
 
 Cataclysm-DDA experimental build 2026-03-26-0931 (ca093c6)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2026-03-23-0401 (37783e4)
 
 Cataclysm-DDA experimental build 2026-03-22-2309 (bd6907a)
 * HEW reports for inner cabins (#86007)
-
-Cataclysm-DDA experimental build 2026-03-22-2034 (41418fe)
 * NPC warmth response: wear clothes, take shelter (#86004)
 * More elaborate support for guns and melee sound effects (#86002)
 * add some items to the inner cabins recursive cabin (#86008)
