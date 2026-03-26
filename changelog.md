@@ -1,3 +1,11 @@
+* Fix liquid handling freeze and zone sort spillable container bypass ([#86100](https://github.com/CleverRaven/Cataclysm-DDA/pull/86100))
+* Phasing enchant moves now cost moves and stamina ([#86097](https://github.com/CleverRaven/Cataclysm-DDA/pull/86097))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-26-1416 ([d7cf892](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1416))
+
+* Tinted lights for various furniture/appliances/terrain ([#86104](https://github.com/CleverRaven/Cataclysm-DDA/pull/86104))
 
 ---
 
@@ -190,11 +198,6 @@
 
 * Teleport crystals are blue ([#86024](https://github.com/CleverRaven/Cataclysm-DDA/pull/86024))
 * Bump up dmg size limit in macOS release build ([#86019](https://github.com/CleverRaven/Cataclysm-DDA/pull/86019))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-23-0401 ([37783e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-0401))
-
 * [Innawoods] Remove teleporting ramps in caves ([#86015](https://github.com/CleverRaven/Cataclysm-DDA/pull/86015))
 * Add myself to comment-commands.yml ([#86017](https://github.com/CleverRaven/Cataclysm-DDA/pull/86017))
 * HEW reports for inner cabins ([#86007](https://github.com/CleverRaven/Cataclysm-DDA/pull/86007))
@@ -235,9 +238,6 @@
 * Increase open windows movecost ([#85947](https://github.com/CleverRaven/Cataclysm-DDA/pull/85947))
 * Tool speed modifiers for recipe steps ([#85949](https://github.com/CleverRaven/Cataclysm-DDA/pull/85949))
 * No_Hope: fix the DIFFICULTY_OPTIONS.md's category table ([#85950](https://github.com/CleverRaven/Cataclysm-DDA/pull/85950))
-* Rework the anomalous MP3 ([#85945](https://github.com/CleverRaven/Cataclysm-DDA/pull/85945))
 * Split battery percentage into a separate widget ([#85954](https://github.com/CleverRaven/Cataclysm-DDA/pull/85954))
-* cabin reverberation tunnel systems ([#85946](https://github.com/CleverRaven/Cataclysm-DDA/pull/85946))
 * [Xedra Evolved] Elemental magic rework: Salamander ([#85952](https://github.com/CleverRaven/Cataclysm-DDA/pull/85952))
 * Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
-* Step iteration for recipe steps ([#85943](https://github.com/CleverRaven/Cataclysm-DDA/pull/85943))
