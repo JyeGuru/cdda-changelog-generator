@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-03-26-1251 (bdd4800)
+* fix string_dimension "no city settings defined" error (#86102)
+
+Cataclysm-DDA experimental build 2026-03-26-1207 (a3e0f48)
+* Fix NPC footstep sfx (#86026)
+
 Cataclysm-DDA experimental build 2026-03-26-1112 (af107c7)
 * Give fire light emission color (#86087)
 
@@ -99,15 +105,11 @@ Cataclysm-DDA experimental build 2026-03-23-1031 (69e6757)
 
 Cataclysm-DDA experimental build 2026-03-23-0716 (9f670b5)
 * Teleport crystals are blue (#86024)
-
-Cataclysm-DDA 0.I release candidate 2026-03-23-0402 (9cf08ec)
 * Bump up dmg size limit in macOS release build (#86019)
 
 Cataclysm-DDA experimental build 2026-03-23-0401 (37783e4)
 * [Innawoods] Remove teleporting ramps in caves (#86015)
 * Add myself to comment-commands.yml (#86017)
-
-Cataclysm-DDA experimental build 2026-03-22-2309 (bd6907a)
 * HEW reports for inner cabins (#86007)
 * NPC warmth response: wear clothes, take shelter (#86004)
 * More elaborate support for guns and melee sound effects (#86002)
@@ -152,5 +154,3 @@ Cataclysm-DDA experimental build 2026-03-22-2309 (bd6907a)
 * [Xedra Evolved] Elemental magic rework: Salamander (#85952)
 * Fix flaky vehicle cargo item_location tests (#85953)
 * Step iteration for recipe steps (#85943)
-* Guard reload_activity_actor::deserialize against invalid ammo_loc (#85939)
-* Update Martial Arts docs with `aoe` types (#85940)

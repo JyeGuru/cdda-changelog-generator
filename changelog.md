@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-26-1251 ([bdd4800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1251))
+
+* fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-26-1207 ([a3e0f48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1207))
+
+* Fix NPC footstep sfx ([#86026](https://github.com/CleverRaven/Cataclysm-DDA/pull/86026))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-26-1112 ([af107c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1112))
 
 * Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
@@ -177,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-03-23-0716 ([9f670b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-0716))
 
 * Teleport crystals are blue ([#86024](https://github.com/CleverRaven/Cataclysm-DDA/pull/86024))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-03-23-0402 ([9cf08ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-03-23-0402))
-
 * Bump up dmg size limit in macOS release build ([#86019](https://github.com/CleverRaven/Cataclysm-DDA/pull/86019))
 
 ---
@@ -190,11 +197,6 @@
 
 * [Innawoods] Remove teleporting ramps in caves ([#86015](https://github.com/CleverRaven/Cataclysm-DDA/pull/86015))
 * Add myself to comment-commands.yml ([#86017](https://github.com/CleverRaven/Cataclysm-DDA/pull/86017))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-22-2309 ([bd6907a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-22-2309))
-
 * HEW reports for inner cabins ([#86007](https://github.com/CleverRaven/Cataclysm-DDA/pull/86007))
 * NPC warmth response: wear clothes, take shelter ([#86004](https://github.com/CleverRaven/Cataclysm-DDA/pull/86004))
 * More elaborate support for guns and melee sound effects ([#86002](https://github.com/CleverRaven/Cataclysm-DDA/pull/86002))
@@ -239,5 +241,3 @@
 * [Xedra Evolved] Elemental magic rework: Salamander ([#85952](https://github.com/CleverRaven/Cataclysm-DDA/pull/85952))
 * Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
 * Step iteration for recipe steps ([#85943](https://github.com/CleverRaven/Cataclysm-DDA/pull/85943))
-* Guard reload_activity_actor::deserialize against invalid ammo_loc ([#85939](https://github.com/CleverRaven/Cataclysm-DDA/pull/85939))
-* Update Martial Arts docs with `aoe` types ([#85940](https://github.com/CleverRaven/Cataclysm-DDA/pull/85940))
