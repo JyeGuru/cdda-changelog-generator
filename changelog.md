@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-27-1201 ([9df8bbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1201))
+
+* The string dimension GLOWS ([#86082](https://github.com/CleverRaven/Cataclysm-DDA/pull/86082))
+* Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
+* Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
+* [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-27-1110 ([af06b81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1110))
 
 * Fix find_parent debugmsg on every charged-item pickup ([#86096](https://github.com/CleverRaven/Cataclysm-DDA/pull/86096))
@@ -192,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2026-03-23-1846 ([8566bbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1846))
 
 * Add missing `SOFT` flag to inner cabins ruana ([#86030](https://github.com/CleverRaven/Cataclysm-DDA/pull/86030))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-23-1232 ([c95a9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1232))
-
 * [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
 * Blacklist hunvre in standard combat tests mod so it stops breaking tests ([#86027](https://github.com/CleverRaven/Cataclysm-DDA/pull/86027))
 * NPC needs: bodytemp updates, camp water through stomach, non-ally sleep ([#86016](https://github.com/CleverRaven/Cataclysm-DDA/pull/86016))
@@ -230,7 +234,6 @@
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
 * NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
 * Extract filter engine and deduplicate nested sort ([#85963](https://github.com/CleverRaven/Cataclysm-DDA/pull/85963))
-* Fix `house_w_3` chunk spawns issues ([#85951](https://github.com/CleverRaven/Cataclysm-DDA/pull/85951))
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
 * Make Hummingbird beak a bodypart ([#85958](https://github.com/CleverRaven/Cataclysm-DDA/pull/85958))
@@ -238,6 +241,3 @@
 * Extract recipe_info() to crafting_gui_helpers ([#85961](https://github.com/CleverRaven/Cataclysm-DDA/pull/85961))
 * Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))
 * Extract crafting menu helpers for testability ([#85959](https://github.com/CleverRaven/Cataclysm-DDA/pull/85959))
-* Split battery percentage into a separate widget ([#85954](https://github.com/CleverRaven/Cataclysm-DDA/pull/85954))
-* [Xedra Evolved] Elemental magic rework: Salamander ([#85952](https://github.com/CleverRaven/Cataclysm-DDA/pull/85952))
-* Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
