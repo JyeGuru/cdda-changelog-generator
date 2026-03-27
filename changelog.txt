@@ -1,3 +1,4 @@
+* Fix renamed terrain fixture in light_color_test (#86122)
 
 Cataclysm-DDA experimental build 2026-03-27-1410 (0ca3aa3)
 * Hub sells their advanced headgear at appropriate times (#86108)
@@ -152,5 +153,4 @@ Cataclysm-DDA experimental build 2026-03-23-2050 (b7540b4)
 * Add `Computer Illiterate` challenge trait (#85975)
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity (#85969)
 * Rabbit Feet provides `SNOWWALKING` (#85972)
-* Extract recipe_info() to crafting_gui_helpers (#85961)
 * Brooms can broom (#85966)

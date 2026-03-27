@@ -1,3 +1,4 @@
+* Fix renamed terrain fixture in light_color_test ([#86122](https://github.com/CleverRaven/Cataclysm-DDA/pull/86122))
 
 ---
 
@@ -239,5 +240,4 @@
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
 * Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
-* Extract recipe_info() to crafting_gui_helpers ([#85961](https://github.com/CleverRaven/Cataclysm-DDA/pull/85961))
 * Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))
