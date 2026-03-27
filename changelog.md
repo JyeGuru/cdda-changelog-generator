@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-27-1410 ([0ca3aa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1410))
+
+* Hub sells their advanced headgear at appropriate times ([#86108](https://github.com/CleverRaven/Cataclysm-DDA/pull/86108))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-27-1359 ([07556a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1359))
+
+* Inner cabins dimension: the cellar depths ([#86080](https://github.com/CleverRaven/Cataclysm-DDA/pull/86080))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-27-1201 ([9df8bbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1201))
 
 * The string dimension GLOWS ([#86082](https://github.com/CleverRaven/Cataclysm-DDA/pull/86082))
@@ -187,19 +199,9 @@
 #### Cataclysm-DDA experimental build 2026-03-23-2050 ([b7540b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-2050))
 
 * implement firearm action flags ([#85993](https://github.com/CleverRaven/Cataclysm-DDA/pull/85993))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-23-1928 ([a6fdb61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1928))
-
 * Add display names to requirement definitions ([#86036](https://github.com/CleverRaven/Cataclysm-DDA/pull/86036))
 * NPC needs: local resource acquisition (drink, eat, wear from ground) ([#86035](https://github.com/CleverRaven/Cataclysm-DDA/pull/86035))
 * [Sky Island] Breakup monolith mission files ([#86025](https://github.com/CleverRaven/Cataclysm-DDA/pull/86025))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-23-1846 ([8566bbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1846))
-
 * Add missing `SOFT` flag to inner cabins ruana ([#86030](https://github.com/CleverRaven/Cataclysm-DDA/pull/86030))
 * [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
 * Blacklist hunvre in standard combat tests mod so it stops breaking tests ([#86027](https://github.com/CleverRaven/Cataclysm-DDA/pull/86027))
@@ -236,8 +238,6 @@
 * Extract filter engine and deduplicate nested sort ([#85963](https://github.com/CleverRaven/Cataclysm-DDA/pull/85963))
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
-* Make Hummingbird beak a bodypart ([#85958](https://github.com/CleverRaven/Cataclysm-DDA/pull/85958))
 * Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
 * Extract recipe_info() to crafting_gui_helpers ([#85961](https://github.com/CleverRaven/Cataclysm-DDA/pull/85961))
 * Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))
-* Extract crafting menu helpers for testability ([#85959](https://github.com/CleverRaven/Cataclysm-DDA/pull/85959))
