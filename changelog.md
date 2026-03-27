@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-27-1110 ([af06b81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1110))
+
 * Fix find_parent debugmsg on every charged-item pickup ([#86096](https://github.com/CleverRaven/Cataclysm-DDA/pull/86096))
 * Wrap SDL surface operations behind abstraction layer ([#86103](https://github.com/CleverRaven/Cataclysm-DDA/pull/86103))
 * Fuse color shadowcasting, skip idle blur, LUT for castLight distances ([#86107](https://github.com/CleverRaven/Cataclysm-DDA/pull/86107))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-03-23-1232 ([c95a9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1232))
 
 * [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-23-1140 ([14ec586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1140))
-
 * Blacklist hunvre in standard combat tests mod so it stops breaking tests ([#86027](https://github.com/CleverRaven/Cataclysm-DDA/pull/86027))
 * NPC needs: bodytemp updates, camp water through stomach, non-ally sleep ([#86016](https://github.com/CleverRaven/Cataclysm-DDA/pull/86016))
 * Teleport crystals are blue ([#86024](https://github.com/CleverRaven/Cataclysm-DDA/pull/86024))
