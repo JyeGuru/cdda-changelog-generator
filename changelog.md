@@ -1,3 +1,12 @@
+* Fix find_parent debugmsg on every charged-item pickup ([#86096](https://github.com/CleverRaven/Cataclysm-DDA/pull/86096))
+* Wrap SDL surface operations behind abstraction layer ([#86103](https://github.com/CleverRaven/Cataclysm-DDA/pull/86103))
+* Fuse color shadowcasting, skip idle blur, LUT for castLight distances ([#86107](https://github.com/CleverRaven/Cataclysm-DDA/pull/86107))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-27-1006 ([2f90cda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1006))
+
+* NPC sleep: no-bash pathfinding, NPC_NO_GO zone ([#86113](https://github.com/CleverRaven/Cataclysm-DDA/pull/86113))
 
 ---
 
@@ -190,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2026-03-23-1140 ([14ec586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1140))
 
 * Blacklist hunvre in standard combat tests mod so it stops breaking tests ([#86027](https://github.com/CleverRaven/Cataclysm-DDA/pull/86027))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-23-1031 ([69e6757](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-1031))
-
 * NPC needs: bodytemp updates, camp water through stomach, non-ally sleep ([#86016](https://github.com/CleverRaven/Cataclysm-DDA/pull/86016))
 * Teleport crystals are blue ([#86024](https://github.com/CleverRaven/Cataclysm-DDA/pull/86024))
 * Bump up dmg size limit in macOS release build ([#86019](https://github.com/CleverRaven/Cataclysm-DDA/pull/86019))
@@ -231,13 +235,9 @@
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
 * Make Hummingbird beak a bodypart ([#85958](https://github.com/CleverRaven/Cataclysm-DDA/pull/85958))
 * Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
-* [Hunvre] Fix the game crashing when using the sundial widget ([#85948](https://github.com/CleverRaven/Cataclysm-DDA/pull/85948))
 * Extract recipe_info() to crafting_gui_helpers ([#85961](https://github.com/CleverRaven/Cataclysm-DDA/pull/85961))
 * Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))
 * Extract crafting menu helpers for testability ([#85959](https://github.com/CleverRaven/Cataclysm-DDA/pull/85959))
-* Increase open windows movecost ([#85947](https://github.com/CleverRaven/Cataclysm-DDA/pull/85947))
-* Tool speed modifiers for recipe steps ([#85949](https://github.com/CleverRaven/Cataclysm-DDA/pull/85949))
-* No_Hope: fix the DIFFICULTY_OPTIONS.md's category table ([#85950](https://github.com/CleverRaven/Cataclysm-DDA/pull/85950))
 * Split battery percentage into a separate widget ([#85954](https://github.com/CleverRaven/Cataclysm-DDA/pull/85954))
 * [Xedra Evolved] Elemental magic rework: Salamander ([#85952](https://github.com/CleverRaven/Cataclysm-DDA/pull/85952))
 * Fix flaky vehicle cargo item_location tests ([#85953](https://github.com/CleverRaven/Cataclysm-DDA/pull/85953))
