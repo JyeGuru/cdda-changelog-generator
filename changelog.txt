@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-03-28-0826 (f48bb2c)
+* Sealed Condiment bottles prevent spoilage (#86098)
 * Correct movement mode cycling logic for horses (#86073)
 * [XEDRA Evolved] Balefire colored light (#86090)
 * Wrap TTF font operations behind SDL abstraction layer (#86105)
@@ -152,5 +155,4 @@ Cataclysm-DDA experimental build 2026-03-24-1223 (b892874)
 * Add myself to comment command list (#85981)
 * Give the anomalous MP3 ability to "listen" to reverberations (#85980)
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island (#85983)
-* NPC needs: complaint gate, sapro rotten food, BT utility strategy (#85974)
 * Add `Computer Illiterate` challenge trait (#85975)

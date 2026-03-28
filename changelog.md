@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-28-0826 ([f48bb2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0826))
+
+* Sealed Condiment bottles prevent spoilage ([#86098](https://github.com/CleverRaven/Cataclysm-DDA/pull/86098))
 * Correct movement mode cycling logic for horses ([#86073](https://github.com/CleverRaven/Cataclysm-DDA/pull/86073))
 * [XEDRA Evolved] Balefire colored light ([#86090](https://github.com/CleverRaven/Cataclysm-DDA/pull/86090))
 * Wrap TTF font operations behind SDL abstraction layer ([#86105](https://github.com/CleverRaven/Cataclysm-DDA/pull/86105))
@@ -239,5 +245,4 @@
 * Add myself to comment command list ([#85981](https://github.com/CleverRaven/Cataclysm-DDA/pull/85981))
 * Give the anomalous MP3 ability to "listen" to reverberations ([#85980](https://github.com/CleverRaven/Cataclysm-DDA/pull/85980))
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
-* NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
