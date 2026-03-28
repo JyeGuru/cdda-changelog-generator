@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-28-0047 ([a645258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0047))
+
+* [Sky Island] Red Exit Room red glow ([#86081](https://github.com/CleverRaven/Cataclysm-DDA/pull/86081))
+* document _has_item_with_flag ([#86109](https://github.com/CleverRaven/Cataclysm-DDA/pull/86109))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-28-0006 ([a3ac30f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0006))
+
+* [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
 * Fix renamed terrain fixture in light_color_test ([#86122](https://github.com/CleverRaven/Cataclysm-DDA/pull/86122))
 
 ---
@@ -159,7 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-03-24-1325 ([91a2cfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-1325))
 
 * Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
-* Empty out cabins in the Cabins Reverberation ([#85965](https://github.com/CleverRaven/Cataclysm-DDA/pull/85965))
 
 ---
 
@@ -188,17 +200,7 @@
 * Add missing win32 libs to msys/mingw build post-snmalloc ([#86032](https://github.com/CleverRaven/Cataclysm-DDA/pull/86032))
 * [Xedra Evolved] Buff Ierde skin armors ([#86040](https://github.com/CleverRaven/Cataclysm-DDA/pull/86040))
 * [Xedra Evolved] Add salamander rain immunity spell ([#86046](https://github.com/CleverRaven/Cataclysm-DDA/pull/86046))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-24-0013 ([839e750](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-0013))
-
 * [MoM] Fix artifact matrix crystal learning recipes ([#86048](https://github.com/CleverRaven/Cataclysm-DDA/pull/86048))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-23-2050 ([b7540b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-23-2050))
-
 * implement firearm action flags ([#85993](https://github.com/CleverRaven/Cataclysm-DDA/pull/85993))
 * Add display names to requirement definitions ([#86036](https://github.com/CleverRaven/Cataclysm-DDA/pull/86036))
 * NPC needs: local resource acquisition (drink, eat, wear from ground) ([#86035](https://github.com/CleverRaven/Cataclysm-DDA/pull/86035))
@@ -236,8 +238,6 @@
 * Give the anomalous MP3 ability to "listen" to reverberations ([#85980](https://github.com/CleverRaven/Cataclysm-DDA/pull/85980))
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
 * NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
-* Extract filter engine and deduplicate nested sort ([#85963](https://github.com/CleverRaven/Cataclysm-DDA/pull/85963))
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
 * Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
-* Brooms can broom ([#85966](https://github.com/CleverRaven/Cataclysm-DDA/pull/85966))

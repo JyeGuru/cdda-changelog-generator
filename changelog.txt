@@ -1,3 +1,10 @@
+
+Cataclysm-DDA experimental build 2026-03-28-0047 (a645258)
+* [Sky Island] Red Exit Room red glow (#86081)
+* document _has_item_with_flag (#86109)
+
+Cataclysm-DDA experimental build 2026-03-28-0006 (a3ac30f)
+* [Xedra Evolved] Salamander fae ban only broken once per water application (#86125)
 * Fix renamed terrain fixture in light_color_test (#86122)
 
 Cataclysm-DDA experimental build 2026-03-27-1410 (0ca3aa3)
@@ -87,7 +94,6 @@ Cataclysm-DDA experimental build 2026-03-24-1416 (2ab68c2)
 
 Cataclysm-DDA experimental build 2026-03-24-1325 (91a2cfe)
 * Consolidate SDL rendering calls behind wrapper functions (#86055)
-* Empty out cabins in the Cabins Reverberation (#85965)
 
 Cataclysm-DDA experimental build 2026-03-24-1223 (b892874)
 * More granular horde indicators for ascii map (#86054)
@@ -107,11 +113,7 @@ Cataclysm-DDA experimental build 2026-03-24-0054 (d257eb1)
 * Add missing win32 libs to msys/mingw build post-snmalloc (#86032)
 * [Xedra Evolved] Buff Ierde skin armors (#86040)
 * [Xedra Evolved] Add salamander rain immunity spell (#86046)
-
-Cataclysm-DDA experimental build 2026-03-24-0013 (839e750)
 * [MoM] Fix artifact matrix crystal learning recipes (#86048)
-
-Cataclysm-DDA experimental build 2026-03-23-2050 (b7540b4)
 * implement firearm action flags (#85993)
 * Add display names to requirement definitions (#86036)
 * NPC needs: local resource acquisition (drink, eat, wear from ground) (#86035)
@@ -149,8 +151,6 @@ Cataclysm-DDA experimental build 2026-03-23-2050 (b7540b4)
 * Give the anomalous MP3 ability to "listen" to reverberations (#85980)
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island (#85983)
 * NPC needs: complaint gate, sapro rotten food, BT utility strategy (#85974)
-* Extract filter engine and deduplicate nested sort (#85963)
 * Add `Computer Illiterate` challenge trait (#85975)
 * Add `RAIN_IMMUNE` flag for effect-level rain immunity (#85969)
 * Rabbit Feet provides `SNOWWALKING` (#85972)
-* Brooms can broom (#85966)
