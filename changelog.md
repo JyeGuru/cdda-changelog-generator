@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-28-1542 ([948201f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-1542))
+
 * Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 
@@ -196,11 +201,6 @@
 
 * Bicycle alternators are conform to their real counterparts ([#86057](https://github.com/CleverRaven/Cataclysm-DDA/pull/86057))
 * NPC needs: shelter radius, vehicle cargo, quench floor, foraging ([#86052](https://github.com/CleverRaven/Cataclysm-DDA/pull/86052))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-24-1325 ([91a2cfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-1325))
-
 * Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
 * More granular horde indicators for ascii map ([#86054](https://github.com/CleverRaven/Cataclysm-DDA/pull/86054))
 * New Map Extra: Final Showdown ([#86012](https://github.com/CleverRaven/Cataclysm-DDA/pull/86012))
