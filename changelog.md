@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-28-1754 ([ab45434](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-1754))
+
 * Changing move mode can cost time and is deferred ([#86092](https://github.com/CleverRaven/Cataclysm-DDA/pull/86092))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2026-03-24-1736 ([bc2d78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-1736))
 
 * Fix "bonus room" map nest spawn in `house_w_6` map ([#86037](https://github.com/CleverRaven/Cataclysm-DDA/pull/86037))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-24-1416 ([2ab68c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-1416))
-
 * Bicycle alternators are conform to their real counterparts ([#86057](https://github.com/CleverRaven/Cataclysm-DDA/pull/86057))
 * NPC needs: shelter radius, vehicle cargo, quench floor, foraging ([#86052](https://github.com/CleverRaven/Cataclysm-DDA/pull/86052))
 * Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
