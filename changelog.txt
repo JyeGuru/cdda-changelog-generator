@@ -1,3 +1,4 @@
+* Changing move mode can cost time and is deferred (#86092)
 
 Cataclysm-DDA experimental build 2026-03-28-1542 (948201f)
 * Portal storm + string church = string dimension (#86131)
@@ -154,5 +155,4 @@ Cataclysm-DDA experimental build 2026-03-24-1416 (2ab68c2)
 * NPC needs: urgency scoring and utility strategy (#85984)
 * Improve overmap_terrain_coverage test coverage for rare specials (#85994)
 * Add myself to comment command list (#85981)
-* Give the anomalous MP3 ability to "listen" to reverberations (#85980)
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island (#85983)

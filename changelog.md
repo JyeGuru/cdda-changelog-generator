@@ -1,3 +1,4 @@
+* Changing move mode can cost time and is deferred ([#86092](https://github.com/CleverRaven/Cataclysm-DDA/pull/86092))
 
 ---
 
@@ -244,5 +245,4 @@
 * NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
 * Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
 * Add myself to comment command list ([#85981](https://github.com/CleverRaven/Cataclysm-DDA/pull/85981))
-* Give the anomalous MP3 ability to "listen" to reverberations ([#85980](https://github.com/CleverRaven/Cataclysm-DDA/pull/85980))
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
