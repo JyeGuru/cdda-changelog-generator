@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-28-2123 ([a4e86a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-2123))
+
+* Centralize gamepad SDL boundary inside the gamepad module ([#86106](https://github.com/CleverRaven/Cataclysm-DDA/pull/86106))
 * Weekly Changelog 2026-03-16 to 2026-03-23 ([#86028](https://github.com/CleverRaven/Cataclysm-DDA/pull/86028))
 * The inner cabins cellar depths are dimly illuminated ([#86134](https://github.com/CleverRaven/Cataclysm-DDA/pull/86134))
 
@@ -196,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2026-03-24-2000 ([b46e42b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-2000))
 
 * NPC needs: top-level decision BT diagnostic ([#86056](https://github.com/CleverRaven/Cataclysm-DDA/pull/86056))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-24-1736 ([bc2d78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-1736))
-
 * Fix "bonus room" map nest spawn in `house_w_6` map ([#86037](https://github.com/CleverRaven/Cataclysm-DDA/pull/86037))
 * Bicycle alternators are conform to their real counterparts ([#86057](https://github.com/CleverRaven/Cataclysm-DDA/pull/86057))
 * NPC needs: shelter radius, vehicle cargo, quench floor, foraging ([#86052](https://github.com/CleverRaven/Cataclysm-DDA/pull/86052))
@@ -245,4 +246,3 @@
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
 * NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
 * Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
-* [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
