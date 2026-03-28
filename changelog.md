@@ -1,3 +1,5 @@
+* Weekly Changelog 2026-03-16 to 2026-03-23 ([#86028](https://github.com/CleverRaven/Cataclysm-DDA/pull/86028))
+* The inner cabins cellar depths are dimly illuminated ([#86134](https://github.com/CleverRaven/Cataclysm-DDA/pull/86134))
 
 ---
 
@@ -241,8 +243,6 @@
 * [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
 * NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
-* Fix SIGSEV fault when harvesting/clearing overgrown crops ([#85982](https://github.com/CleverRaven/Cataclysm-DDA/pull/85982))
 * NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
 * Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
-* Add myself to comment command list ([#85981](https://github.com/CleverRaven/Cataclysm-DDA/pull/85981))
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
