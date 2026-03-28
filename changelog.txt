@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-03-28-0250 (fed5186)
+* [Sky Island] Update Teleportation EOCs  (#86123)
+
 Cataclysm-DDA experimental build 2026-03-28-0047 (a645258)
 * [Sky Island] Red Exit Room red glow (#86081)
 * document _has_item_with_flag (#86109)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2026-03-24-1223 (b892874)
 
 Cataclysm-DDA experimental build 2026-03-24-0504 (73dfb63)
 * Map Extra: Abandoned Jetski (#86042)
-
-Cataclysm-DDA experimental build 2026-03-24-0054 (d257eb1)
 * [Sky Island] Greenhouse bunker upgrades (#85999)
 * [Sky Island] Fix lab raid start selection  (#86029)
 * [XE/CrazyCata] Rename all vampire variants to `dracula` (#86039)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2026-03-24-0054 (d257eb1)
 * Fix SIGSEV fault when harvesting/clearing overgrown crops (#85982)
 * NPC needs: urgency scoring and utility strategy (#85984)
 * Extract recipe list pipeline to crafting_gui_helpers (#85979)
-* Add viewport lock option for zone sorting (#85968)
 * Extract recipe result info to crafting_gui_helpers (#85978)
 * Improve overmap_terrain_coverage test coverage for rare specials (#85994)
 * Add myself to comment command list (#85981)

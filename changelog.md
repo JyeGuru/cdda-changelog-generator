@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-28-0250 ([fed5186](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0250))
+
+* [Sky Island] Update Teleportation EOCs  ([#86123](https://github.com/CleverRaven/Cataclysm-DDA/pull/86123))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-28-0047 ([a645258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0047))
 
 * [Sky Island] Red Exit Room red glow ([#86081](https://github.com/CleverRaven/Cataclysm-DDA/pull/86081))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-03-24-0504 ([73dfb63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-0504))
 
 * Map Extra: Abandoned Jetski ([#86042](https://github.com/CleverRaven/Cataclysm-DDA/pull/86042))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-24-0054 ([d257eb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-0054))
-
 * [Sky Island] Greenhouse bunker upgrades ([#85999](https://github.com/CleverRaven/Cataclysm-DDA/pull/85999))
 * [Sky Island] Fix lab raid start selection  ([#86029](https://github.com/CleverRaven/Cataclysm-DDA/pull/86029))
 * [XE/CrazyCata] Rename all vampire variants to `dracula` ([#86039](https://github.com/CleverRaven/Cataclysm-DDA/pull/86039))
@@ -230,7 +231,6 @@
 * Fix SIGSEV fault when harvesting/clearing overgrown crops ([#85982](https://github.com/CleverRaven/Cataclysm-DDA/pull/85982))
 * NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
 * Extract recipe list pipeline to crafting_gui_helpers ([#85979](https://github.com/CleverRaven/Cataclysm-DDA/pull/85979))
-* Add viewport lock option for zone sorting ([#85968](https://github.com/CleverRaven/Cataclysm-DDA/pull/85968))
 * Extract recipe result info to crafting_gui_helpers ([#85978](https://github.com/CleverRaven/Cataclysm-DDA/pull/85978))
 * Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
 * Add myself to comment command list ([#85981](https://github.com/CleverRaven/Cataclysm-DDA/pull/85981))
