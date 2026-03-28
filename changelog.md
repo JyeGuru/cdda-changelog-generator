@@ -1,3 +1,13 @@
+* Correct movement mode cycling logic for horses ([#86073](https://github.com/CleverRaven/Cataclysm-DDA/pull/86073))
+* [XEDRA Evolved] Balefire colored light ([#86090](https://github.com/CleverRaven/Cataclysm-DDA/pull/86090))
+* Wrap TTF font operations behind SDL abstraction layer ([#86105](https://github.com/CleverRaven/Cataclysm-DDA/pull/86105))
+* Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-28-0629 ([de7650d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0629))
+
+* [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
 
 ---
 
@@ -189,11 +199,6 @@
 * [Xedra Evolved] Salamander caster conditions ([#86018](https://github.com/CleverRaven/Cataclysm-DDA/pull/86018))
 * [MoM] Add Selective Autosomnia Vitakinetic power ([#86047](https://github.com/CleverRaven/Cataclysm-DDA/pull/86047))
 * [Hunvre] Massively increase city size and massively decrease their spacing ([#86038](https://github.com/CleverRaven/Cataclysm-DDA/pull/86038))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-24-0504 ([73dfb63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-0504))
-
 * Map Extra: Abandoned Jetski ([#86042](https://github.com/CleverRaven/Cataclysm-DDA/pull/86042))
 * [Sky Island] Greenhouse bunker upgrades ([#85999](https://github.com/CleverRaven/Cataclysm-DDA/pull/85999))
 * [Sky Island] Fix lab raid start selection  ([#86029](https://github.com/CleverRaven/Cataclysm-DDA/pull/86029))
@@ -224,20 +229,15 @@
 * Spell AOE string format specifier fix ([#86005](https://github.com/CleverRaven/Cataclysm-DDA/pull/86005))
 * give unseeen hunter "NETHER" species ([#86006](https://github.com/CleverRaven/Cataclysm-DDA/pull/86006))
 * [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
-* The "inner cabins", a deep place in the cabin reverberation ([#85971](https://github.com/CleverRaven/Cataclysm-DDA/pull/85971))
 * NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
-* Adjusts description of Gasoline Fuel Cell CBM. ([#85970](https://github.com/CleverRaven/Cataclysm-DDA/pull/85970))
 * Fix SIGSEV fault when harvesting/clearing overgrown crops ([#85982](https://github.com/CleverRaven/Cataclysm-DDA/pull/85982))
 * NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
 * Extract recipe list pipeline to crafting_gui_helpers ([#85979](https://github.com/CleverRaven/Cataclysm-DDA/pull/85979))
 * Extract recipe result info to crafting_gui_helpers ([#85978](https://github.com/CleverRaven/Cataclysm-DDA/pull/85978))
 * Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
 * Add myself to comment command list ([#85981](https://github.com/CleverRaven/Cataclysm-DDA/pull/85981))
-* [MoM] The pyrokinetic power Blazing Aura provides SNOWWALKING ([#85973](https://github.com/CleverRaven/Cataclysm-DDA/pull/85973))
 * Give the anomalous MP3 ability to "listen" to reverberations ([#85980](https://github.com/CleverRaven/Cataclysm-DDA/pull/85980))
 * [Sky Island] Flag extra mutant scenarios as incompatible with sky island ([#85983](https://github.com/CleverRaven/Cataclysm-DDA/pull/85983))
 * NPC needs: complaint gate, sapro rotten food, BT utility strategy ([#85974](https://github.com/CleverRaven/Cataclysm-DDA/pull/85974))
 * Add `Computer Illiterate` challenge trait ([#85975](https://github.com/CleverRaven/Cataclysm-DDA/pull/85975))
-* Add `RAIN_IMMUNE` flag for effect-level rain immunity ([#85969](https://github.com/CleverRaven/Cataclysm-DDA/pull/85969))
-* Rabbit Feet provides `SNOWWALKING` ([#85972](https://github.com/CleverRaven/Cataclysm-DDA/pull/85972))
