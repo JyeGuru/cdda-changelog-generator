@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-29-1851 ([0dc774f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-1851))
+
+* Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-29-0343 ([f4ccc9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-0343))
 
 * Sort "Who should we assign?" menu by NPC name ([#86137](https://github.com/CleverRaven/Cataclysm-DDA/pull/86137))
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2026-03-25-0904 ([053e801](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-0904))
 
 * No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-24-2310 ([c2983ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-2310))
-
 * Move city size and spacing options to `region_settings_city` object ([#86053](https://github.com/CleverRaven/Cataclysm-DDA/pull/86053))
 * Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
 * [Sky Island] Challenge Mode ([#86033](https://github.com/CleverRaven/Cataclysm-DDA/pull/86033))
@@ -222,7 +223,6 @@
 * [Xedra Evolved] Buff Ierde skin armors ([#86040](https://github.com/CleverRaven/Cataclysm-DDA/pull/86040))
 * [Xedra Evolved] Add salamander rain immunity spell ([#86046](https://github.com/CleverRaven/Cataclysm-DDA/pull/86046))
 * [MoM] Fix artifact matrix crystal learning recipes ([#86048](https://github.com/CleverRaven/Cataclysm-DDA/pull/86048))
-* implement firearm action flags ([#85993](https://github.com/CleverRaven/Cataclysm-DDA/pull/85993))
 * Add display names to requirement definitions ([#86036](https://github.com/CleverRaven/Cataclysm-DDA/pull/86036))
 * NPC needs: local resource acquisition (drink, eat, wear from ground) ([#86035](https://github.com/CleverRaven/Cataclysm-DDA/pull/86035))
 * [Sky Island] Breakup monolith mission files ([#86025](https://github.com/CleverRaven/Cataclysm-DDA/pull/86025))
@@ -243,6 +243,5 @@
 * Spell AOE string format specifier fix ([#86005](https://github.com/CleverRaven/Cataclysm-DDA/pull/86005))
 * give unseeen hunter "NETHER" species ([#86006](https://github.com/CleverRaven/Cataclysm-DDA/pull/86006))
 * [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
-* NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
 * Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
