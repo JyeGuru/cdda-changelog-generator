@@ -1,3 +1,4 @@
+* NPC duty/sleep shift scheduling, Hub intercom shift rotation ([#86140](https://github.com/CleverRaven/Cataclysm-DDA/pull/86140))
 
 ---
 
@@ -154,12 +155,6 @@
 #### Cataclysm-DDA experimental build 2026-03-26-1112 ([af107c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1112))
 
 * Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-26-0931 ([ca093c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-0931))
-
-* fix missing chimneys in cabin reverberation ([#86001](https://github.com/CleverRaven/Cataclysm-DDA/pull/86001))
 * [Hunvre] Migrate city generation values to the new system ([#86076](https://github.com/CleverRaven/Cataclysm-DDA/pull/86076))
 * apply color-tinting to radiosphere lights ([#86084](https://github.com/CleverRaven/Cataclysm-DDA/pull/86084))
 * Rural church of nether strings glows ([#86086](https://github.com/CleverRaven/Cataclysm-DDA/pull/86086))
