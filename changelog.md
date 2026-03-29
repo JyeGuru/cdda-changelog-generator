@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-28-2353 ([8b42829](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-2353))
+
+* sub2000 10 round mag fix ([#86126](https://github.com/CleverRaven/Cataclysm-DDA/pull/86126))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-28-2123 ([a4e86a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-2123))
 
 * Centralize gamepad SDL boundary inside the gamepad module ([#86106](https://github.com/CleverRaven/Cataclysm-DDA/pull/86106))
@@ -196,11 +202,6 @@
 * Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
 * [Sky Island] Challenge Mode ([#86033](https://github.com/CleverRaven/Cataclysm-DDA/pull/86033))
 * A timed exit from the inner cabins dimension ([#86058](https://github.com/CleverRaven/Cataclysm-DDA/pull/86058))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-24-2000 ([b46e42b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-24-2000))
-
 * NPC needs: top-level decision BT diagnostic ([#86056](https://github.com/CleverRaven/Cataclysm-DDA/pull/86056))
 * Fix "bonus room" map nest spawn in `house_w_6` map ([#86037](https://github.com/CleverRaven/Cataclysm-DDA/pull/86037))
 * Bicycle alternators are conform to their real counterparts ([#86057](https://github.com/CleverRaven/Cataclysm-DDA/pull/86057))
@@ -244,5 +245,4 @@
 * [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
 * NPC needs: convergence diagnostic, sleepiness, shelter, can_make_fire fix ([#85991](https://github.com/CleverRaven/Cataclysm-DDA/pull/85991))
 * [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
-* NPC needs: urgency scoring and utility strategy ([#85984](https://github.com/CleverRaven/Cataclysm-DDA/pull/85984))
 * Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
