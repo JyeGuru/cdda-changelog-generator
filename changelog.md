@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-29-2020 ([b91a7fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-2020))
+
+* NECC Fliers ([#86148](https://github.com/CleverRaven/Cataclysm-DDA/pull/86148))
+* Move faction UI to imgui ([#86136](https://github.com/CleverRaven/Cataclysm-DDA/pull/86136))
+* add `RETURN_TO_START_POS` to various robofac-associated NPCs ([#86142](https://github.com/CleverRaven/Cataclysm-DDA/pull/86142))
+* inner cabins exit pool doesn't start with crossing-points <3 tiles ([#86143](https://github.com/CleverRaven/Cataclysm-DDA/pull/86143))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-29-1851 ([0dc774f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-1851))
 
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
@@ -194,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2026-03-25-1053 ([3e31969](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-1053))
 
 * [Sky Island] Add two new challenge mode modifiers ([#86068](https://github.com/CleverRaven/Cataclysm-DDA/pull/86068))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-25-0904 ([053e801](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-0904))
-
 * No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
 * Move city size and spacing options to `region_settings_city` object ([#86053](https://github.com/CleverRaven/Cataclysm-DDA/pull/86053))
 * Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
@@ -216,7 +220,6 @@
 * [MoM] Add Selective Autosomnia Vitakinetic power ([#86047](https://github.com/CleverRaven/Cataclysm-DDA/pull/86047))
 * [Hunvre] Massively increase city size and massively decrease their spacing ([#86038](https://github.com/CleverRaven/Cataclysm-DDA/pull/86038))
 * Map Extra: Abandoned Jetski ([#86042](https://github.com/CleverRaven/Cataclysm-DDA/pull/86042))
-* [Sky Island] Greenhouse bunker upgrades ([#85999](https://github.com/CleverRaven/Cataclysm-DDA/pull/85999))
 * [Sky Island] Fix lab raid start selection  ([#86029](https://github.com/CleverRaven/Cataclysm-DDA/pull/86029))
 * [XE/CrazyCata] Rename all vampire variants to `dracula` ([#86039](https://github.com/CleverRaven/Cataclysm-DDA/pull/86039))
 * Add missing win32 libs to msys/mingw build post-snmalloc ([#86032](https://github.com/CleverRaven/Cataclysm-DDA/pull/86032))
@@ -239,9 +242,6 @@
 * More elaborate support for guns and melee sound effects ([#86002](https://github.com/CleverRaven/Cataclysm-DDA/pull/86002))
 * add some items to the inner cabins recursive cabin ([#86008](https://github.com/CleverRaven/Cataclysm-DDA/pull/86008))
 * [Xedra Evolved] Arvore caster conditions ([#86010](https://github.com/CleverRaven/Cataclysm-DDA/pull/86010))
-* [Innawood] fix lamps  ([#86000](https://github.com/CleverRaven/Cataclysm-DDA/pull/86000))
 * Spell AOE string format specifier fix ([#86005](https://github.com/CleverRaven/Cataclysm-DDA/pull/86005))
 * give unseeen hunter "NETHER" species ([#86006](https://github.com/CleverRaven/Cataclysm-DDA/pull/86006))
 * [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
-* [Xedra Evolved] Paraclesian eyes are a bodypart ([#85998](https://github.com/CleverRaven/Cataclysm-DDA/pull/85998))
-* Improve overmap_terrain_coverage test coverage for rare specials ([#85994](https://github.com/CleverRaven/Cataclysm-DDA/pull/85994))
