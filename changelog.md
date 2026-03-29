@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-29-2336 ([546c8c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-2336))
+
+* [Sky Island] Add an NPC mode to control whether NPCs join raids ([#86141](https://github.com/CleverRaven/Cataclysm-DDA/pull/86141))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-29-2201 ([989b3ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-2201))
 
 * NPC duty/sleep shift scheduling, Hub intercom shift rotation ([#86140](https://github.com/CleverRaven/Cataclysm-DDA/pull/86140))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-03-25-1420 ([2d909d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-1420))
 
 * Paint dawn, dusk, and beacons ([#86066](https://github.com/CleverRaven/Cataclysm-DDA/pull/86066))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-25-1142 ([33fc75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-1142))
-
 * [alt-map-key] Add new overmap terrain ([#86070](https://github.com/CleverRaven/Cataclysm-DDA/pull/86070))
 * [Sky Island] Fix first two tiers of greenhouse construction ([#86069](https://github.com/CleverRaven/Cataclysm-DDA/pull/86069))
 * [Sky Island] Add two new challenge mode modifiers ([#86068](https://github.com/CleverRaven/Cataclysm-DDA/pull/86068))
@@ -234,7 +235,6 @@
 * Add myself to comment-commands.yml ([#86017](https://github.com/CleverRaven/Cataclysm-DDA/pull/86017))
 * HEW reports for inner cabins ([#86007](https://github.com/CleverRaven/Cataclysm-DDA/pull/86007))
 * NPC warmth response: wear clothes, take shelter ([#86004](https://github.com/CleverRaven/Cataclysm-DDA/pull/86004))
-* More elaborate support for guns and melee sound effects ([#86002](https://github.com/CleverRaven/Cataclysm-DDA/pull/86002))
 * add some items to the inner cabins recursive cabin ([#86008](https://github.com/CleverRaven/Cataclysm-DDA/pull/86008))
 * [Xedra Evolved] Arvore caster conditions ([#86010](https://github.com/CleverRaven/Cataclysm-DDA/pull/86010))
 * Spell AOE string format specifier fix ([#86005](https://github.com/CleverRaven/Cataclysm-DDA/pull/86005))
