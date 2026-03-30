@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-30-0821 ([4f3dc14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-30-0821))
+
 * use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-03-25-2028 ([7f07193](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-2028))
 
 * Fix double spaces typos. ([#86051](https://github.com/CleverRaven/Cataclysm-DDA/pull/86051))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-25-1520 ([b8c02ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-1520))
-
 * Fix generic variant descriptions ([#86074](https://github.com/CleverRaven/Cataclysm-DDA/pull/86074))
 * Paint dawn, dusk, and beacons ([#86066](https://github.com/CleverRaven/Cataclysm-DDA/pull/86066))
 * [alt-map-key] Add new overmap terrain ([#86070](https://github.com/CleverRaven/Cataclysm-DDA/pull/86070))

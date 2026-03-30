@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-30-0821 (4f3dc14)
 * use the correct variables for surroundings menu sort preference persistence (#86153)
 
 Cataclysm-DDA experimental build 2026-03-30-0714 (e2df944)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2026-03-26-0836 (71530dc)
 
 Cataclysm-DDA experimental build 2026-03-25-2028 (7f07193)
 * Fix double spaces typos. (#86051)
-
-Cataclysm-DDA experimental build 2026-03-25-1520 (b8c02ec)
 * Fix generic variant descriptions (#86074)
 * Paint dawn, dusk, and beacons (#86066)
 * [alt-map-key] Add new overmap terrain (#86070)
