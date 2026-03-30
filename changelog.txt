@@ -1,3 +1,4 @@
+* Add /retry and /rerun comment commands for failed CI jobs (#86168)
 
 Cataclysm-DDA experimental build 2026-03-30-0821 (4f3dc14)
 * use the correct variables for surroundings menu sort preference persistence (#86153)
@@ -151,5 +152,4 @@ Cataclysm-DDA experimental build 2026-03-25-2028 (7f07193)
 * HEW reports for inner cabins (#86007)
 * add some items to the inner cabins recursive cabin (#86008)
 * [Xedra Evolved] Arvore caster conditions (#86010)
-* give unseeen hunter "NETHER" species (#86006)
 * [MoM] Move Burst of Speed to using a caster_condition (#86009)

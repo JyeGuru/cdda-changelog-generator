@@ -1,3 +1,4 @@
+* Add /retry and /rerun comment commands for failed CI jobs ([#86168](https://github.com/CleverRaven/Cataclysm-DDA/pull/86168))
 
 ---
 
@@ -238,5 +239,4 @@
 * HEW reports for inner cabins ([#86007](https://github.com/CleverRaven/Cataclysm-DDA/pull/86007))
 * add some items to the inner cabins recursive cabin ([#86008](https://github.com/CleverRaven/Cataclysm-DDA/pull/86008))
 * [Xedra Evolved] Arvore caster conditions ([#86010](https://github.com/CleverRaven/Cataclysm-DDA/pull/86010))
-* give unseeen hunter "NETHER" species ([#86006](https://github.com/CleverRaven/Cataclysm-DDA/pull/86006))
 * [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
