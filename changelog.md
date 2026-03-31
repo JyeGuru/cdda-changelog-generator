@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-31-1632 ([459aa8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-1632))
+
+* NPC needs: BT evaluates for all NPCs, add follow and goto goals ([#86172](https://github.com/CleverRaven/Cataclysm-DDA/pull/86172))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-31-0809 ([b96d75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-0809))
 
 * Stop ref center guard EOCs from firing in alternate dimensions ([#86165](https://github.com/CleverRaven/Cataclysm-DDA/pull/86165))
@@ -217,7 +223,6 @@
 * NPC needs: shelter radius, vehicle cargo, quench floor, foraging ([#86052](https://github.com/CleverRaven/Cataclysm-DDA/pull/86052))
 * Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
 * More granular horde indicators for ascii map ([#86054](https://github.com/CleverRaven/Cataclysm-DDA/pull/86054))
-* New Map Extra: Final Showdown ([#86012](https://github.com/CleverRaven/Cataclysm-DDA/pull/86012))
 * Fixed roasted coffee beans category.json ([#86021](https://github.com/CleverRaven/Cataclysm-DDA/pull/86021))
 * [Xedra Evolved] Salamander caster conditions ([#86018](https://github.com/CleverRaven/Cataclysm-DDA/pull/86018))
 * [MoM] Add Selective Autosomnia Vitakinetic power ([#86047](https://github.com/CleverRaven/Cataclysm-DDA/pull/86047))
