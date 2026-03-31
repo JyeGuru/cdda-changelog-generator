@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-03-31-2046 ([aaa1755](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-2046))
+
+* Make map::add_spawn private, replace last hardcoded call ([#86176](https://github.com/CleverRaven/Cataclysm-DDA/pull/86176))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-03-31-1632 ([459aa8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-1632))
 
 * NPC needs: BT evaluates for all NPCs, add follow and goto goals ([#86172](https://github.com/CleverRaven/Cataclysm-DDA/pull/86172))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2026-03-26-1207 ([a3e0f48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1207))
 
 * Fix NPC footstep sfx ([#86026](https://github.com/CleverRaven/Cataclysm-DDA/pull/86026))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-26-1112 ([af107c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1112))
-
 * Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
 * [Hunvre] Migrate city generation values to the new system ([#86076](https://github.com/CleverRaven/Cataclysm-DDA/pull/86076))
 * apply color-tinting to radiosphere lights ([#86084](https://github.com/CleverRaven/Cataclysm-DDA/pull/86084))
@@ -243,5 +244,4 @@
 * NPC needs: bodytemp updates, camp water through stomach, non-ally sleep ([#86016](https://github.com/CleverRaven/Cataclysm-DDA/pull/86016))
 * Teleport crystals are blue ([#86024](https://github.com/CleverRaven/Cataclysm-DDA/pull/86024))
 * Bump up dmg size limit in macOS release build ([#86019](https://github.com/CleverRaven/Cataclysm-DDA/pull/86019))
-* [Innawoods] Remove teleporting ramps in caves ([#86015](https://github.com/CleverRaven/Cataclysm-DDA/pull/86015))
 * Add myself to comment-commands.yml ([#86017](https://github.com/CleverRaven/Cataclysm-DDA/pull/86017))
