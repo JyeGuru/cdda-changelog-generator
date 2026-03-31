@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-03-31-0809 (b96d75a)
 * Stop ref center guard EOCs from firing in alternate dimensions (#86165)
 * Stop spamming player log when NPCs are hot (#86167)
 * Proboscis is now a bodypart (#86171)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2026-03-26-1112 (af107c7)
 * Triffid bulbs glow green (#86088)
 * Electricity fields are blue/white (#86089)
 * [MoM] Moving under Ephemeral Walk costs extra stamina (#86091)
-
-Cataclysm-DDA experimental build 2026-03-26-0836 (71530dc)
 * Remove unhealthy from eggplants (#86094)
 * Fix double spaces typos. (#86051)
 * Fix generic variant descriptions (#86074)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-31-0809 ([b96d75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-0809))
+
 * Stop ref center guard EOCs from firing in alternate dimensions ([#86165](https://github.com/CleverRaven/Cataclysm-DDA/pull/86165))
 * Stop spamming player log when NPCs are hot ([#86167](https://github.com/CleverRaven/Cataclysm-DDA/pull/86167))
 * Proboscis is now a bodypart ([#86171](https://github.com/CleverRaven/Cataclysm-DDA/pull/86171))
@@ -194,11 +199,6 @@
 * Triffid bulbs glow green ([#86088](https://github.com/CleverRaven/Cataclysm-DDA/pull/86088))
 * Electricity fields are blue/white ([#86089](https://github.com/CleverRaven/Cataclysm-DDA/pull/86089))
 * [MoM] Moving under Ephemeral Walk costs extra stamina ([#86091](https://github.com/CleverRaven/Cataclysm-DDA/pull/86091))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-26-0836 ([71530dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-0836))
-
 * Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))
 * Fix double spaces typos. ([#86051](https://github.com/CleverRaven/Cataclysm-DDA/pull/86051))
 * Fix generic variant descriptions ([#86074](https://github.com/CleverRaven/Cataclysm-DDA/pull/86074))
