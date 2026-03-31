@@ -1,3 +1,12 @@
+* Stop ref center guard EOCs from firing in alternate dimensions ([#86165](https://github.com/CleverRaven/Cataclysm-DDA/pull/86165))
+* Stop spamming player log when NPCs are hot ([#86167](https://github.com/CleverRaven/Cataclysm-DDA/pull/86167))
+* Proboscis is now a bodypart ([#86171](https://github.com/CleverRaven/Cataclysm-DDA/pull/86171))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-03-31-0725 ([db74760](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-0725))
+
+* [Bombastic Perks] Playstyle perks also require a normal perk point ([#86164](https://github.com/CleverRaven/Cataclysm-DDA/pull/86164))
 * Add /retry and /rerun comment commands for failed CI jobs ([#86168](https://github.com/CleverRaven/Cataclysm-DDA/pull/86168))
 
 ---
@@ -191,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2026-03-26-0836 ([71530dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-0836))
 
 * Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-25-2028 ([7f07193](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-25-2028))
-
 * Fix double spaces typos. ([#86051](https://github.com/CleverRaven/Cataclysm-DDA/pull/86051))
 * Fix generic variant descriptions ([#86074](https://github.com/CleverRaven/Cataclysm-DDA/pull/86074))
 * Paint dawn, dusk, and beacons ([#86066](https://github.com/CleverRaven/Cataclysm-DDA/pull/86066))
@@ -236,7 +240,3 @@
 * Bump up dmg size limit in macOS release build ([#86019](https://github.com/CleverRaven/Cataclysm-DDA/pull/86019))
 * [Innawoods] Remove teleporting ramps in caves ([#86015](https://github.com/CleverRaven/Cataclysm-DDA/pull/86015))
 * Add myself to comment-commands.yml ([#86017](https://github.com/CleverRaven/Cataclysm-DDA/pull/86017))
-* HEW reports for inner cabins ([#86007](https://github.com/CleverRaven/Cataclysm-DDA/pull/86007))
-* add some items to the inner cabins recursive cabin ([#86008](https://github.com/CleverRaven/Cataclysm-DDA/pull/86008))
-* [Xedra Evolved] Arvore caster conditions ([#86010](https://github.com/CleverRaven/Cataclysm-DDA/pull/86010))
-* [MoM] Move Burst of Speed to using a caster_condition ([#86009](https://github.com/CleverRaven/Cataclysm-DDA/pull/86009))
