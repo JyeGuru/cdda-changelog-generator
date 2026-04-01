@@ -1,3 +1,14 @@
+* inner cabins ruana is `sided` ([#86169](https://github.com/CleverRaven/Cataclysm-DDA/pull/86169))
+* Dimensional travel checks for `DIMENSIONAL_ANCHOR` not `PORTAL_PROOF` ([#86174](https://github.com/CleverRaven/Cataclysm-DDA/pull/86174))
+* 6 special basements for the cellar depths dimension ([#86177](https://github.com/CleverRaven/Cataclysm-DDA/pull/86177))
+* NPC needs: split camp residents from guard state, add free_time BT goal ([#86173](https://github.com/CleverRaven/Cataclysm-DDA/pull/86173))
+* Move items across dimensions with dimensional travel ([#86156](https://github.com/CleverRaven/Cataclysm-DDA/pull/86156))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-01-0357 ([920a3fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0357))
+
+* [MoM: Psychic Scream] Limit int bonuses ([#86182](https://github.com/CleverRaven/Cataclysm-DDA/pull/86182))
 
 ---
 
@@ -193,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2026-03-26-1251 ([bdd4800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1251))
 
 * fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-26-1207 ([a3e0f48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1207))
-
 * Fix NPC footstep sfx ([#86026](https://github.com/CleverRaven/Cataclysm-DDA/pull/86026))
 * Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
 * [Hunvre] Migrate city generation values to the new system ([#86076](https://github.com/CleverRaven/Cataclysm-DDA/pull/86076))
@@ -224,8 +230,6 @@
 * NPC needs: shelter radius, vehicle cargo, quench floor, foraging ([#86052](https://github.com/CleverRaven/Cataclysm-DDA/pull/86052))
 * Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
 * More granular horde indicators for ascii map ([#86054](https://github.com/CleverRaven/Cataclysm-DDA/pull/86054))
-* Fixed roasted coffee beans category.json ([#86021](https://github.com/CleverRaven/Cataclysm-DDA/pull/86021))
-* [Xedra Evolved] Salamander caster conditions ([#86018](https://github.com/CleverRaven/Cataclysm-DDA/pull/86018))
 * [MoM] Add Selective Autosomnia Vitakinetic power ([#86047](https://github.com/CleverRaven/Cataclysm-DDA/pull/86047))
 * [Hunvre] Massively increase city size and massively decrease their spacing ([#86038](https://github.com/CleverRaven/Cataclysm-DDA/pull/86038))
 * Map Extra: Abandoned Jetski ([#86042](https://github.com/CleverRaven/Cataclysm-DDA/pull/86042))
@@ -237,11 +241,6 @@
 * [MoM] Fix artifact matrix crystal learning recipes ([#86048](https://github.com/CleverRaven/Cataclysm-DDA/pull/86048))
 * Add display names to requirement definitions ([#86036](https://github.com/CleverRaven/Cataclysm-DDA/pull/86036))
 * NPC needs: local resource acquisition (drink, eat, wear from ground) ([#86035](https://github.com/CleverRaven/Cataclysm-DDA/pull/86035))
-* [Sky Island] Breakup monolith mission files ([#86025](https://github.com/CleverRaven/Cataclysm-DDA/pull/86025))
 * Add missing `SOFT` flag to inner cabins ruana ([#86030](https://github.com/CleverRaven/Cataclysm-DDA/pull/86030))
 * [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
 * Blacklist hunvre in standard combat tests mod so it stops breaking tests ([#86027](https://github.com/CleverRaven/Cataclysm-DDA/pull/86027))
-* NPC needs: bodytemp updates, camp water through stomach, non-ally sleep ([#86016](https://github.com/CleverRaven/Cataclysm-DDA/pull/86016))
-* Teleport crystals are blue ([#86024](https://github.com/CleverRaven/Cataclysm-DDA/pull/86024))
-* Bump up dmg size limit in macOS release build ([#86019](https://github.com/CleverRaven/Cataclysm-DDA/pull/86019))
-* Add myself to comment-commands.yml ([#86017](https://github.com/CleverRaven/Cataclysm-DDA/pull/86017))
