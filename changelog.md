@@ -234,7 +234,6 @@
 * [MoM] Add Selective Autosomnia Vitakinetic power ([#86047](https://github.com/CleverRaven/Cataclysm-DDA/pull/86047))
 * [Hunvre] Massively increase city size and massively decrease their spacing ([#86038](https://github.com/CleverRaven/Cataclysm-DDA/pull/86038))
 * Map Extra: Abandoned Jetski ([#86042](https://github.com/CleverRaven/Cataclysm-DDA/pull/86042))
-* [Sky Island] Fix lab raid start selection  ([#86029](https://github.com/CleverRaven/Cataclysm-DDA/pull/86029))
 * [XE/CrazyCata] Rename all vampire variants to `dracula` ([#86039](https://github.com/CleverRaven/Cataclysm-DDA/pull/86039))
 * Add missing win32 libs to msys/mingw build post-snmalloc ([#86032](https://github.com/CleverRaven/Cataclysm-DDA/pull/86032))
 * [Xedra Evolved] Buff Ierde skin armors ([#86040](https://github.com/CleverRaven/Cataclysm-DDA/pull/86040))
