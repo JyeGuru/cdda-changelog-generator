@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-01-0902 (65452fe)
+* Fix dawn/dusk tint ignoring visibility, roofs and windows (#86139)
+
 Cataclysm-DDA experimental build 2026-04-01-0556 (685dab7)
 * Flechette fix (#86121)
 * ImGui crafting menu (#86044)
@@ -57,7 +60,6 @@ Cataclysm-DDA experimental build 2026-03-28-2353 (8b42829)
 
 Cataclysm-DDA experimental build 2026-03-28-2123 (a4e86a5)
 * Centralize gamepad SDL boundary inside the gamepad module (#86106)
-* Weekly Changelog 2026-03-16 to 2026-03-23 (#86028)
 * The inner cabins cellar depths are dimly illuminated (#86134)
 
 Cataclysm-DDA experimental build 2026-03-28-1754 (ab45434)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2026-03-27-1110 (af06b81)
 
 Cataclysm-DDA experimental build 2026-03-27-1006 (2f90cda)
 * NPC sleep: no-bash pathfinding, NPC_NO_GO zone (#86113)
-
-Cataclysm-DDA experimental build 2026-03-26-1522 (fa50e08)
 * Fix liquid handling freeze and zone sort spillable container bypass (#86100)
 * Phasing enchant moves now cost moves and stamina (#86097)
 * Tinted lights for various furniture/appliances/terrain (#86104)
