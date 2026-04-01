@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-01-1816 ([486b31c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-1816))
+
+* Show component counts and sort available first in crafting GUI ([#86191](https://github.com/CleverRaven/Cataclysm-DDA/pull/86191))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-01-0902 ([65452fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0902))
 
 * Fix dawn/dusk tint ignoring visibility, roofs and windows ([#86139](https://github.com/CleverRaven/Cataclysm-DDA/pull/86139))
@@ -196,11 +202,6 @@
 * Fix find_parent debugmsg on every charged-item pickup ([#86096](https://github.com/CleverRaven/Cataclysm-DDA/pull/86096))
 * Wrap SDL surface operations behind abstraction layer ([#86103](https://github.com/CleverRaven/Cataclysm-DDA/pull/86103))
 * Fuse color shadowcasting, skip idle blur, LUT for castLight distances ([#86107](https://github.com/CleverRaven/Cataclysm-DDA/pull/86107))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-27-1006 ([2f90cda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1006))
-
 * NPC sleep: no-bash pathfinding, NPC_NO_GO zone ([#86113](https://github.com/CleverRaven/Cataclysm-DDA/pull/86113))
 * Fix liquid handling freeze and zone sort spillable container bypass ([#86100](https://github.com/CleverRaven/Cataclysm-DDA/pull/86100))
 * Phasing enchant moves now cost moves and stamina ([#86097](https://github.com/CleverRaven/Cataclysm-DDA/pull/86097))
@@ -241,5 +242,4 @@
 * [MoM] Fix artifact matrix crystal learning recipes ([#86048](https://github.com/CleverRaven/Cataclysm-DDA/pull/86048))
 * Add display names to requirement definitions ([#86036](https://github.com/CleverRaven/Cataclysm-DDA/pull/86036))
 * NPC needs: local resource acquisition (drink, eat, wear from ground) ([#86035](https://github.com/CleverRaven/Cataclysm-DDA/pull/86035))
-* Add missing `SOFT` flag to inner cabins ruana ([#86030](https://github.com/CleverRaven/Cataclysm-DDA/pull/86030))
 * [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
