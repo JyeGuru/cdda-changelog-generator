@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-01-0556 ([685dab7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0556))
+
+* Flechette fix ([#86121](https://github.com/CleverRaven/Cataclysm-DDA/pull/86121))
+* ImGui crafting menu ([#86044](https://github.com/CleverRaven/Cataclysm-DDA/pull/86044))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-01-0512 ([ef53e38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0512))
+
 * inner cabins ruana is `sided` ([#86169](https://github.com/CleverRaven/Cataclysm-DDA/pull/86169))
 * Dimensional travel checks for `DIMENSIONAL_ANCHOR` not `PORTAL_PROOF` ([#86174](https://github.com/CleverRaven/Cataclysm-DDA/pull/86174))
 * 6 special basements for the cellar depths dimension ([#86177](https://github.com/CleverRaven/Cataclysm-DDA/pull/86177))
@@ -192,19 +204,8 @@
 
 * Fix liquid handling freeze and zone sort spillable container bypass ([#86100](https://github.com/CleverRaven/Cataclysm-DDA/pull/86100))
 * Phasing enchant moves now cost moves and stamina ([#86097](https://github.com/CleverRaven/Cataclysm-DDA/pull/86097))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-26-1416 ([d7cf892](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1416))
-
 * Tinted lights for various furniture/appliances/terrain ([#86104](https://github.com/CleverRaven/Cataclysm-DDA/pull/86104))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-26-1251 ([bdd4800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-26-1251))
-
 * fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
-* Fix NPC footstep sfx ([#86026](https://github.com/CleverRaven/Cataclysm-DDA/pull/86026))
 * Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
 * [Hunvre] Migrate city generation values to the new system ([#86076](https://github.com/CleverRaven/Cataclysm-DDA/pull/86076))
 * apply color-tinting to radiosphere lights ([#86084](https://github.com/CleverRaven/Cataclysm-DDA/pull/86084))
@@ -243,4 +244,3 @@
 * NPC needs: local resource acquisition (drink, eat, wear from ground) ([#86035](https://github.com/CleverRaven/Cataclysm-DDA/pull/86035))
 * Add missing `SOFT` flag to inner cabins ruana ([#86030](https://github.com/CleverRaven/Cataclysm-DDA/pull/86030))
 * [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
-* Blacklist hunvre in standard combat tests mod so it stops breaking tests ([#86027](https://github.com/CleverRaven/Cataclysm-DDA/pull/86027))
