@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-02-1803 ([06b7a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-1803))
+
+* Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-02-1415 ([011e3ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-1415))
 
 * Variantize buttons ([#86059](https://github.com/CleverRaven/Cataclysm-DDA/pull/86059))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-03-28-1249 ([4ceb852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-1249))
 
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-28-0826 ([f48bb2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0826))
-
 * Sealed Condiment bottles prevent spoilage ([#86098](https://github.com/CleverRaven/Cataclysm-DDA/pull/86098))
 * Correct movement mode cycling logic for horses ([#86073](https://github.com/CleverRaven/Cataclysm-DDA/pull/86073))
 * [XEDRA Evolved] Balefire colored light ([#86090](https://github.com/CleverRaven/Cataclysm-DDA/pull/86090))
@@ -230,6 +231,4 @@
 * No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
 * Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
 * A timed exit from the inner cabins dimension ([#86058](https://github.com/CleverRaven/Cataclysm-DDA/pull/86058))
-* NPC needs: top-level decision BT diagnostic ([#86056](https://github.com/CleverRaven/Cataclysm-DDA/pull/86056))
 * Bicycle alternators are conform to their real counterparts ([#86057](https://github.com/CleverRaven/Cataclysm-DDA/pull/86057))
-* Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
