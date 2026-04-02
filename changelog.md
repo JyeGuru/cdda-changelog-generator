@@ -1,3 +1,25 @@
+* Hanging around the cellar depths causes you to mutate into a new mutation category ([#86152](https://github.com/CleverRaven/Cataclysm-DDA/pull/86152))
+* Tail coverage for appropriate coats/dresses ([#86115](https://github.com/CleverRaven/Cataclysm-DDA/pull/86115))
+* utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
+* [Sky Island] Fix free vision and spawn location for expeditions ([#86154](https://github.com/CleverRaven/Cataclysm-DDA/pull/86154))
+* Skip lightmap rebuild when nothing changed ([#86183](https://github.com/CleverRaven/Cataclysm-DDA/pull/86183))
+* Weekly Changelog 2026-03-23 to 2026-03-30 ([#86158](https://github.com/CleverRaven/Cataclysm-DDA/pull/86158))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-02-0059 ([be69362](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0059))
+
+* [MoM] Add inner cabins cellar depths to "in nether" conditions ([#86170](https://github.com/CleverRaven/Cataclysm-DDA/pull/86170))
+* languorous spectre will only send you to the inner cabins once ([#86189](https://github.com/CleverRaven/Cataclysm-DDA/pull/86189))
+* [MoM: Psychic Scream] Various updates ([#86185](https://github.com/CleverRaven/Cataclysm-DDA/pull/86185))
+* [Sky Island] Override refugee center mission ([#86186](https://github.com/CleverRaven/Cataclysm-DDA/pull/86186))
+* Remove single-magazine assumptions in item_contents ([#86190](https://github.com/CleverRaven/Cataclysm-DDA/pull/86190))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-02-0006 ([c8b504e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0006))
+
+* Fix crafting GUI navigation: layered escape, space toggle, dual selection ([#86193](https://github.com/CleverRaven/Cataclysm-DDA/pull/86193))
 
 ---
 
@@ -16,7 +38,6 @@
 #### Cataclysm-DDA experimental build 2026-04-01-0556 ([685dab7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0556))
 
 * Flechette fix ([#86121](https://github.com/CleverRaven/Cataclysm-DDA/pull/86121))
-* ImGui crafting menu ([#86044](https://github.com/CleverRaven/Cataclysm-DDA/pull/86044))
 
 ---
 
@@ -185,20 +206,10 @@
 #### Cataclysm-DDA experimental build 2026-03-27-1359 ([07556a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1359))
 
 * Inner cabins dimension: the cellar depths ([#86080](https://github.com/CleverRaven/Cataclysm-DDA/pull/86080))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-27-1201 ([9df8bbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1201))
-
 * The string dimension GLOWS ([#86082](https://github.com/CleverRaven/Cataclysm-DDA/pull/86082))
 * Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
 * Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
 * [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-27-1110 ([af06b81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1110))
-
 * Fix find_parent debugmsg on every charged-item pickup ([#86096](https://github.com/CleverRaven/Cataclysm-DDA/pull/86096))
 * Wrap SDL surface operations behind abstraction layer ([#86103](https://github.com/CleverRaven/Cataclysm-DDA/pull/86103))
 * Fuse color shadowcasting, skip idle blur, LUT for castLight distances ([#86107](https://github.com/CleverRaven/Cataclysm-DDA/pull/86107))
@@ -224,22 +235,11 @@
 * No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
 * Move city size and spacing options to `region_settings_city` object ([#86053](https://github.com/CleverRaven/Cataclysm-DDA/pull/86053))
 * Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
-* [Sky Island] Challenge Mode ([#86033](https://github.com/CleverRaven/Cataclysm-DDA/pull/86033))
 * A timed exit from the inner cabins dimension ([#86058](https://github.com/CleverRaven/Cataclysm-DDA/pull/86058))
 * NPC needs: top-level decision BT diagnostic ([#86056](https://github.com/CleverRaven/Cataclysm-DDA/pull/86056))
-* Fix "bonus room" map nest spawn in `house_w_6` map ([#86037](https://github.com/CleverRaven/Cataclysm-DDA/pull/86037))
 * Bicycle alternators are conform to their real counterparts ([#86057](https://github.com/CleverRaven/Cataclysm-DDA/pull/86057))
 * NPC needs: shelter radius, vehicle cargo, quench floor, foraging ([#86052](https://github.com/CleverRaven/Cataclysm-DDA/pull/86052))
 * Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
 * More granular horde indicators for ascii map ([#86054](https://github.com/CleverRaven/Cataclysm-DDA/pull/86054))
 * [MoM] Add Selective Autosomnia Vitakinetic power ([#86047](https://github.com/CleverRaven/Cataclysm-DDA/pull/86047))
-* [Hunvre] Massively increase city size and massively decrease their spacing ([#86038](https://github.com/CleverRaven/Cataclysm-DDA/pull/86038))
-* Map Extra: Abandoned Jetski ([#86042](https://github.com/CleverRaven/Cataclysm-DDA/pull/86042))
-* [XE/CrazyCata] Rename all vampire variants to `dracula` ([#86039](https://github.com/CleverRaven/Cataclysm-DDA/pull/86039))
-* Add missing win32 libs to msys/mingw build post-snmalloc ([#86032](https://github.com/CleverRaven/Cataclysm-DDA/pull/86032))
-* [Xedra Evolved] Buff Ierde skin armors ([#86040](https://github.com/CleverRaven/Cataclysm-DDA/pull/86040))
-* [Xedra Evolved] Add salamander rain immunity spell ([#86046](https://github.com/CleverRaven/Cataclysm-DDA/pull/86046))
 * [MoM] Fix artifact matrix crystal learning recipes ([#86048](https://github.com/CleverRaven/Cataclysm-DDA/pull/86048))
-* Add display names to requirement definitions ([#86036](https://github.com/CleverRaven/Cataclysm-DDA/pull/86036))
-* NPC needs: local resource acquisition (drink, eat, wear from ground) ([#86035](https://github.com/CleverRaven/Cataclysm-DDA/pull/86035))
-* [alt-map-key] Add new overmap terrain ([#86034](https://github.com/CleverRaven/Cataclysm-DDA/pull/86034))
