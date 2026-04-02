@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-02-0615 ([9f466d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0615))
+
+* Text edits for Aftershock ([#86178](https://github.com/CleverRaven/Cataclysm-DDA/pull/86178))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-02-0451 ([072ad7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0451))
 
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-03-28-0250 ([fed5186](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0250))
 
 * [Sky Island] Update Teleportation EOCs  ([#86123](https://github.com/CleverRaven/Cataclysm-DDA/pull/86123))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-28-0047 ([a645258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0047))
-
 * [Sky Island] Red Exit Room red glow ([#86081](https://github.com/CleverRaven/Cataclysm-DDA/pull/86081))
 * document _has_item_with_flag ([#86109](https://github.com/CleverRaven/Cataclysm-DDA/pull/86109))
 * [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
@@ -237,4 +238,3 @@
 * NPC needs: shelter radius, vehicle cargo, quench floor, foraging ([#86052](https://github.com/CleverRaven/Cataclysm-DDA/pull/86052))
 * Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
 * More granular horde indicators for ascii map ([#86054](https://github.com/CleverRaven/Cataclysm-DDA/pull/86054))
-* [MoM] Fix artifact matrix crystal learning recipes ([#86048](https://github.com/CleverRaven/Cataclysm-DDA/pull/86048))
