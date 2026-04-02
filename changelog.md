@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-02-2054 ([cdba89f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-2054))
+
+* Fix crafting GUI: byproduct flicker, i18n string, warning layout ([#86207](https://github.com/CleverRaven/Cataclysm-DDA/pull/86207))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-02-1803 ([06b7a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-1803))
 
 * Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
@@ -184,11 +190,6 @@
 
 * Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-28-1249 ([4ceb852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-1249))
-
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
 * Sealed Condiment bottles prevent spoilage ([#86098](https://github.com/CleverRaven/Cataclysm-DDA/pull/86098))
 * Correct movement mode cycling logic for horses ([#86073](https://github.com/CleverRaven/Cataclysm-DDA/pull/86073))
@@ -231,4 +232,3 @@
 * No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
 * Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
 * A timed exit from the inner cabins dimension ([#86058](https://github.com/CleverRaven/Cataclysm-DDA/pull/86058))
-* Bicycle alternators are conform to their real counterparts ([#86057](https://github.com/CleverRaven/Cataclysm-DDA/pull/86057))
