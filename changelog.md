@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-02-1415 ([011e3ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-1415))
+
+* Variantize buttons ([#86059](https://github.com/CleverRaven/Cataclysm-DDA/pull/86059))
+* Starting Scenario: Evacuation Bus Driver ([#86180](https://github.com/CleverRaven/Cataclysm-DDA/pull/86180))
+* Add quick setup eoc and force it to execute during quick setup ([#86188](https://github.com/CleverRaven/Cataclysm-DDA/pull/86188))
+* Add NO_TURRET flag to test_multimag_gun ([#86196](https://github.com/CleverRaven/Cataclysm-DDA/pull/86196))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-02-0615 ([9f466d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0615))
 
 * Text edits for Aftershock ([#86178](https://github.com/CleverRaven/Cataclysm-DDA/pull/86178))
@@ -185,17 +194,7 @@
 * [XEDRA Evolved] Balefire colored light ([#86090](https://github.com/CleverRaven/Cataclysm-DDA/pull/86090))
 * Wrap TTF font operations behind SDL abstraction layer ([#86105](https://github.com/CleverRaven/Cataclysm-DDA/pull/86105))
 * Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-28-0629 ([de7650d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0629))
-
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-28-0250 ([fed5186](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-0250))
-
 * [Sky Island] Update Teleportation EOCs  ([#86123](https://github.com/CleverRaven/Cataclysm-DDA/pull/86123))
 * [Sky Island] Red Exit Room red glow ([#86081](https://github.com/CleverRaven/Cataclysm-DDA/pull/86081))
 * document _has_item_with_flag ([#86109](https://github.com/CleverRaven/Cataclysm-DDA/pull/86109))
@@ -223,18 +222,14 @@
 * Electricity fields are blue/white ([#86089](https://github.com/CleverRaven/Cataclysm-DDA/pull/86089))
 * [MoM] Moving under Ephemeral Walk costs extra stamina ([#86091](https://github.com/CleverRaven/Cataclysm-DDA/pull/86091))
 * Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))
-* Fix double spaces typos. ([#86051](https://github.com/CleverRaven/Cataclysm-DDA/pull/86051))
 * Fix generic variant descriptions ([#86074](https://github.com/CleverRaven/Cataclysm-DDA/pull/86074))
 * Paint dawn, dusk, and beacons ([#86066](https://github.com/CleverRaven/Cataclysm-DDA/pull/86066))
 * [alt-map-key] Add new overmap terrain ([#86070](https://github.com/CleverRaven/Cataclysm-DDA/pull/86070))
 * [Sky Island] Fix first two tiers of greenhouse construction ([#86069](https://github.com/CleverRaven/Cataclysm-DDA/pull/86069))
 * [Sky Island] Add two new challenge mode modifiers ([#86068](https://github.com/CleverRaven/Cataclysm-DDA/pull/86068))
 * No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
-* Move city size and spacing options to `region_settings_city` object ([#86053](https://github.com/CleverRaven/Cataclysm-DDA/pull/86053))
 * Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
 * A timed exit from the inner cabins dimension ([#86058](https://github.com/CleverRaven/Cataclysm-DDA/pull/86058))
 * NPC needs: top-level decision BT diagnostic ([#86056](https://github.com/CleverRaven/Cataclysm-DDA/pull/86056))
 * Bicycle alternators are conform to their real counterparts ([#86057](https://github.com/CleverRaven/Cataclysm-DDA/pull/86057))
-* NPC needs: shelter radius, vehicle cargo, quench floor, foraging ([#86052](https://github.com/CleverRaven/Cataclysm-DDA/pull/86052))
 * Consolidate SDL rendering calls behind wrapper functions ([#86055](https://github.com/CleverRaven/Cataclysm-DDA/pull/86055))
-* More granular horde indicators for ascii map ([#86054](https://github.com/CleverRaven/Cataclysm-DDA/pull/86054))
