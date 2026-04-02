@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-02-2348 ([91f7fa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-2348))
+
+* Correct some texts ([#86149](https://github.com/CleverRaven/Cataclysm-DDA/pull/86149))
+* Inner cabins, cellar depths: locations to get Interstice mutagen ([#86202](https://github.com/CleverRaven/Cataclysm-DDA/pull/86202))
+* [Sky island] Re-enable whole room teleportation ([#86162](https://github.com/CleverRaven/Cataclysm-DDA/pull/86162))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-02-2256 ([bd52aca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-2256))
 
 * remove healthy ticks from stomach soothers ([#86209](https://github.com/CleverRaven/Cataclysm-DDA/pull/86209))
@@ -16,12 +24,6 @@
 #### Cataclysm-DDA experimental build 2026-04-02-1803 ([06b7a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-1803))
 
 * Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-02-1415 ([011e3ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-1415))
-
-* Variantize buttons ([#86059](https://github.com/CleverRaven/Cataclysm-DDA/pull/86059))
 * Starting Scenario: Evacuation Bus Driver ([#86180](https://github.com/CleverRaven/Cataclysm-DDA/pull/86180))
 * Add quick setup eoc and force it to execute during quick setup ([#86188](https://github.com/CleverRaven/Cataclysm-DDA/pull/86188))
 * Add NO_TURRET flag to test_multimag_gun ([#86196](https://github.com/CleverRaven/Cataclysm-DDA/pull/86196))
@@ -183,11 +185,6 @@
 
 * Centralize gamepad SDL boundary inside the gamepad module ([#86106](https://github.com/CleverRaven/Cataclysm-DDA/pull/86106))
 * The inner cabins cellar depths are dimly illuminated ([#86134](https://github.com/CleverRaven/Cataclysm-DDA/pull/86134))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-28-1754 ([ab45434](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-1754))
-
 * Changing move mode can cost time and is deferred ([#86092](https://github.com/CleverRaven/Cataclysm-DDA/pull/86092))
 * Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
@@ -231,4 +228,3 @@
 * [Sky Island] Fix first two tiers of greenhouse construction ([#86069](https://github.com/CleverRaven/Cataclysm-DDA/pull/86069))
 * [Sky Island] Add two new challenge mode modifiers ([#86068](https://github.com/CleverRaven/Cataclysm-DDA/pull/86068))
 * No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
-* Cover no_faction NPCs in Refugee Center back bay zones and water access ([#86063](https://github.com/CleverRaven/Cataclysm-DDA/pull/86063))
