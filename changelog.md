@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-02-0203 ([737b662](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0203))
+
 * Hanging around the cellar depths causes you to mutate into a new mutation category ([#86152](https://github.com/CleverRaven/Cataclysm-DDA/pull/86152))
 * Tail coverage for appropriate coats/dresses ([#86115](https://github.com/CleverRaven/Cataclysm-DDA/pull/86115))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2026-03-27-1410 ([0ca3aa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1410))
 
 * Hub sells their advanced headgear at appropriate times ([#86108](https://github.com/CleverRaven/Cataclysm-DDA/pull/86108))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-27-1359 ([07556a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-27-1359))
-
 * Inner cabins dimension: the cellar depths ([#86080](https://github.com/CleverRaven/Cataclysm-DDA/pull/86080))
 * The string dimension GLOWS ([#86082](https://github.com/CleverRaven/Cataclysm-DDA/pull/86082))
 * Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
