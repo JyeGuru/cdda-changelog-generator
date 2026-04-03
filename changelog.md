@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-03-1631 ([200f2ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1631))
+
+* Make factions radio-contactable ([#86195](https://github.com/CleverRaven/Cataclysm-DDA/pull/86195))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-03-1345 ([6473a30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1345))
 
 * [Magiclysm] Everburning candle ([#86203](https://github.com/CleverRaven/Cataclysm-DDA/pull/86203))
@@ -164,11 +170,6 @@
 * Stop ref center guard EOCs from firing in alternate dimensions ([#86165](https://github.com/CleverRaven/Cataclysm-DDA/pull/86165))
 * Stop spamming player log when NPCs are hot ([#86167](https://github.com/CleverRaven/Cataclysm-DDA/pull/86167))
 * Proboscis is now a bodypart ([#86171](https://github.com/CleverRaven/Cataclysm-DDA/pull/86171))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-31-0725 ([db74760](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-0725))
-
 * [Bombastic Perks] Playstyle perks also require a normal perk point ([#86164](https://github.com/CleverRaven/Cataclysm-DDA/pull/86164))
 * Add /retry and /rerun comment commands for failed CI jobs ([#86168](https://github.com/CleverRaven/Cataclysm-DDA/pull/86168))
 * use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
@@ -194,7 +195,6 @@
 * Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
 * [Sky Island] Update Teleportation EOCs  ([#86123](https://github.com/CleverRaven/Cataclysm-DDA/pull/86123))
-* [Sky Island] Red Exit Room red glow ([#86081](https://github.com/CleverRaven/Cataclysm-DDA/pull/86081))
 * document _has_item_with_flag ([#86109](https://github.com/CleverRaven/Cataclysm-DDA/pull/86109))
 * [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
 * Fix renamed terrain fixture in light_color_test ([#86122](https://github.com/CleverRaven/Cataclysm-DDA/pull/86122))

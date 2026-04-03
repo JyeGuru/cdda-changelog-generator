@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-03-1631 (200f2ab)
+* Make factions radio-contactable (#86195)
+
 Cataclysm-DDA experimental build 2026-04-03-1345 (6473a30)
 * [Magiclysm] Everburning candle (#86203)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-03-31-0809 (b96d75a)
 * Stop ref center guard EOCs from firing in alternate dimensions (#86165)
 * Stop spamming player log when NPCs are hot (#86167)
 * Proboscis is now a bodypart (#86171)
-
-Cataclysm-DDA experimental build 2026-03-31-0725 (db74760)
 * [Bombastic Perks] Playstyle perks also require a normal perk point (#86164)
 * Add /retry and /rerun comment commands for failed CI jobs (#86168)
 * use the correct variables for surroundings menu sort preference persistence (#86153)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2026-03-31-0725 (db74760)
 * Add a `phase_move` event (#86127)
 * [alt-map-key] Add new overmap terrain (#86128)
 * [Sky Island] Update Teleportation EOCs  (#86123)
-* [Sky Island] Red Exit Room red glow (#86081)
 * document _has_item_with_flag (#86109)
 * [Xedra Evolved] Salamander fae ban only broken once per water application (#86125)
 * Fix renamed terrain fixture in light_color_test (#86122)
