@@ -1,3 +1,4 @@
+* Give access to an item's pre and post apocalypse price to EOCs (#86204)
 
 Cataclysm-DDA experimental build 2026-04-03-0823 (5dd4e01)
 * [Aftershock] Removal bio solar (#86199)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-03-29-2201 (989b3ab)
 * Electricity fields are blue/white (#86089)
 * [MoM] Moving under Ephemeral Walk costs extra stamina (#86091)
 * Remove unhealthy from eggplants (#86094)
-* Fix generic variant descriptions (#86074)

@@ -1,3 +1,4 @@
+* Give access to an item's pre and post apocalypse price to EOCs ([#86204](https://github.com/CleverRaven/Cataclysm-DDA/pull/86204))
 
 ---
 
@@ -222,4 +223,3 @@
 * Electricity fields are blue/white ([#86089](https://github.com/CleverRaven/Cataclysm-DDA/pull/86089))
 * [MoM] Moving under Ephemeral Walk costs extra stamina ([#86091](https://github.com/CleverRaven/Cataclysm-DDA/pull/86091))
 * Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))
-* Fix generic variant descriptions ([#86074](https://github.com/CleverRaven/Cataclysm-DDA/pull/86074))
