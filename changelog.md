@@ -1,3 +1,10 @@
+* Fix npc_test for Windows.h compatibility ([#86230](https://github.com/CleverRaven/Cataclysm-DDA/pull/86230))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-03-1937 ([1149f4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1937))
+
+* Added motorbike batteries to scompact_tandem_2wheel_hboard and _stow ([#86229](https://github.com/CleverRaven/Cataclysm-DDA/pull/86229))
 
 ---
 
@@ -162,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-03-31-1632 ([459aa8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-1632))
 
 * NPC needs: BT evaluates for all NPCs, add follow and goto goals ([#86172](https://github.com/CleverRaven/Cataclysm-DDA/pull/86172))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-31-0809 ([b96d75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-0809))
-
 * Stop ref center guard EOCs from firing in alternate dimensions ([#86165](https://github.com/CleverRaven/Cataclysm-DDA/pull/86165))
 * Stop spamming player log when NPCs are hot ([#86167](https://github.com/CleverRaven/Cataclysm-DDA/pull/86167))
 * Proboscis is now a bodypart ([#86171](https://github.com/CleverRaven/Cataclysm-DDA/pull/86171))
@@ -199,7 +201,6 @@
 * [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
 * Fix renamed terrain fixture in light_color_test ([#86122](https://github.com/CleverRaven/Cataclysm-DDA/pull/86122))
 * Hub sells their advanced headgear at appropriate times ([#86108](https://github.com/CleverRaven/Cataclysm-DDA/pull/86108))
-* The string dimension GLOWS ([#86082](https://github.com/CleverRaven/Cataclysm-DDA/pull/86082))
 * Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
 * Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
 * [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
@@ -212,7 +213,6 @@
 * Tinted lights for various furniture/appliances/terrain ([#86104](https://github.com/CleverRaven/Cataclysm-DDA/pull/86104))
 * fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
 * Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
-* apply color-tinting to radiosphere lights ([#86084](https://github.com/CleverRaven/Cataclysm-DDA/pull/86084))
 * Rural church of nether strings glows ([#86086](https://github.com/CleverRaven/Cataclysm-DDA/pull/86086))
 * Triffid bulbs glow green ([#86088](https://github.com/CleverRaven/Cataclysm-DDA/pull/86088))
 * Electricity fields are blue/white ([#86089](https://github.com/CleverRaven/Cataclysm-DDA/pull/86089))
