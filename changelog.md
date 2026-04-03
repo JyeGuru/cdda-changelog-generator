@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-03-1345 ([6473a30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1345))
+
+* [Magiclysm] Everburning candle ([#86203](https://github.com/CleverRaven/Cataclysm-DDA/pull/86203))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-03-1051 ([5e01f7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1051))
 
 * String Dimension: KÁ facility ([#86206](https://github.com/CleverRaven/Cataclysm-DDA/pull/86206))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-03-30-0821 ([4f3dc14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-30-0821))
 
 * use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-30-0714 ([e2df944](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-30-0714))
-
 * Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
 * [Sky Island] Add an NPC mode to control whether NPCs join raids ([#86141](https://github.com/CleverRaven/Cataclysm-DDA/pull/86141))
 * NPC duty/sleep shift scheduling, Hub intercom shift rotation ([#86140](https://github.com/CleverRaven/Cataclysm-DDA/pull/86140))
@@ -203,7 +204,6 @@
 * [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
 * Fix renamed terrain fixture in light_color_test ([#86122](https://github.com/CleverRaven/Cataclysm-DDA/pull/86122))
 * Hub sells their advanced headgear at appropriate times ([#86108](https://github.com/CleverRaven/Cataclysm-DDA/pull/86108))
-* Inner cabins dimension: the cellar depths ([#86080](https://github.com/CleverRaven/Cataclysm-DDA/pull/86080))
 * The string dimension GLOWS ([#86082](https://github.com/CleverRaven/Cataclysm-DDA/pull/86082))
 * Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
 * Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
