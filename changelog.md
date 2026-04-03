@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-03-0300 ([b2c8a91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-0300))
+
+* Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
+* Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
+* Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-03-0125 ([a62fbbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-0125))
+
+* Exodii Trade: Petrochemicals ([#86146](https://github.com/CleverRaven/Cataclysm-DDA/pull/86146))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-02-2348 ([91f7fa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-2348))
 
 * Correct some texts ([#86149](https://github.com/CleverRaven/Cataclysm-DDA/pull/86149))
@@ -166,23 +180,8 @@
 #### Cataclysm-DDA experimental build 2026-03-29-1851 ([0dc774f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-1851))
 
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-29-0343 ([f4ccc9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-0343))
-
 * Sort "Who should we assign?" menu by NPC name ([#86137](https://github.com/CleverRaven/Cataclysm-DDA/pull/86137))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-28-2353 ([8b42829](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-2353))
-
 * sub2000 10 round mag fix ([#86126](https://github.com/CleverRaven/Cataclysm-DDA/pull/86126))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-28-2123 ([a4e86a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-28-2123))
-
 * Centralize gamepad SDL boundary inside the gamepad module ([#86106](https://github.com/CleverRaven/Cataclysm-DDA/pull/86106))
 * The inner cabins cellar depths are dimly illuminated ([#86134](https://github.com/CleverRaven/Cataclysm-DDA/pull/86134))
 * Changing move mode can cost time and is deferred ([#86092](https://github.com/CleverRaven/Cataclysm-DDA/pull/86092))
@@ -223,8 +222,4 @@
 * [MoM] Moving under Ephemeral Walk costs extra stamina ([#86091](https://github.com/CleverRaven/Cataclysm-DDA/pull/86091))
 * Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))
 * Fix generic variant descriptions ([#86074](https://github.com/CleverRaven/Cataclysm-DDA/pull/86074))
-* Paint dawn, dusk, and beacons ([#86066](https://github.com/CleverRaven/Cataclysm-DDA/pull/86066))
 * [alt-map-key] Add new overmap terrain ([#86070](https://github.com/CleverRaven/Cataclysm-DDA/pull/86070))
-* [Sky Island] Fix first two tiers of greenhouse construction ([#86069](https://github.com/CleverRaven/Cataclysm-DDA/pull/86069))
-* [Sky Island] Add two new challenge mode modifiers ([#86068](https://github.com/CleverRaven/Cataclysm-DDA/pull/86068))
-* No kill xp for spawncampers ([#86067](https://github.com/CleverRaven/Cataclysm-DDA/pull/86067))
