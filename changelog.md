@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-03-1051 ([5e01f7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1051))
+
+* String Dimension: KÁ facility ([#86206](https://github.com/CleverRaven/Cataclysm-DDA/pull/86206))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-03-1007 ([150a9e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1007))
+
 * Give access to an item's pre and post apocalypse price to EOCs ([#86204](https://github.com/CleverRaven/Cataclysm-DDA/pull/86204))
 
 ---
@@ -166,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-03-30-0714 ([e2df944](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-30-0714))
 
 * Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-29-2336 ([546c8c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-2336))
-
 * [Sky Island] Add an NPC mode to control whether NPCs join raids ([#86141](https://github.com/CleverRaven/Cataclysm-DDA/pull/86141))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-29-2201 ([989b3ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-2201))
-
 * NPC duty/sleep shift scheduling, Hub intercom shift rotation ([#86140](https://github.com/CleverRaven/Cataclysm-DDA/pull/86140))
 * NECC Fliers ([#86148](https://github.com/CleverRaven/Cataclysm-DDA/pull/86148))
 * Move faction UI to imgui ([#86136](https://github.com/CleverRaven/Cataclysm-DDA/pull/86136))
@@ -216,7 +217,6 @@
 * Tinted lights for various furniture/appliances/terrain ([#86104](https://github.com/CleverRaven/Cataclysm-DDA/pull/86104))
 * fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
 * Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
-* [Hunvre] Migrate city generation values to the new system ([#86076](https://github.com/CleverRaven/Cataclysm-DDA/pull/86076))
 * apply color-tinting to radiosphere lights ([#86084](https://github.com/CleverRaven/Cataclysm-DDA/pull/86084))
 * Rural church of nether strings glows ([#86086](https://github.com/CleverRaven/Cataclysm-DDA/pull/86086))
 * Triffid bulbs glow green ([#86088](https://github.com/CleverRaven/Cataclysm-DDA/pull/86088))
