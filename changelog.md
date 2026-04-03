@@ -1,3 +1,10 @@
+* [Aftershock] Removal bio solar ([#86199](https://github.com/CleverRaven/Cataclysm-DDA/pull/86199))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-03-0731 ([c67f327](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-0731))
+
+* Hub 01 loading screen ([#86218](https://github.com/CleverRaven/Cataclysm-DDA/pull/86218))
 
 ---
 
@@ -174,11 +181,6 @@
 * Move faction UI to imgui ([#86136](https://github.com/CleverRaven/Cataclysm-DDA/pull/86136))
 * add `RETURN_TO_START_POS` to various robofac-associated NPCs ([#86142](https://github.com/CleverRaven/Cataclysm-DDA/pull/86142))
 * inner cabins exit pool doesn't start with crossing-points <3 tiles ([#86143](https://github.com/CleverRaven/Cataclysm-DDA/pull/86143))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-29-1851 ([0dc774f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-29-1851))
-
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
 * Sort "Who should we assign?" menu by NPC name ([#86137](https://github.com/CleverRaven/Cataclysm-DDA/pull/86137))
 * sub2000 10 round mag fix ([#86126](https://github.com/CleverRaven/Cataclysm-DDA/pull/86126))
@@ -189,7 +191,6 @@
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
 * Sealed Condiment bottles prevent spoilage ([#86098](https://github.com/CleverRaven/Cataclysm-DDA/pull/86098))
-* Correct movement mode cycling logic for horses ([#86073](https://github.com/CleverRaven/Cataclysm-DDA/pull/86073))
 * [XEDRA Evolved] Balefire colored light ([#86090](https://github.com/CleverRaven/Cataclysm-DDA/pull/86090))
 * Wrap TTF font operations behind SDL abstraction layer ([#86105](https://github.com/CleverRaven/Cataclysm-DDA/pull/86105))
 * Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
@@ -222,4 +223,3 @@
 * [MoM] Moving under Ephemeral Walk costs extra stamina ([#86091](https://github.com/CleverRaven/Cataclysm-DDA/pull/86091))
 * Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))
 * Fix generic variant descriptions ([#86074](https://github.com/CleverRaven/Cataclysm-DDA/pull/86074))
-* [alt-map-key] Add new overmap terrain ([#86070](https://github.com/CleverRaven/Cataclysm-DDA/pull/86070))
