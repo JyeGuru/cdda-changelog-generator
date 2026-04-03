@@ -171,11 +171,6 @@
 
 * [Bombastic Perks] Playstyle perks also require a normal perk point ([#86164](https://github.com/CleverRaven/Cataclysm-DDA/pull/86164))
 * Add /retry and /rerun comment commands for failed CI jobs ([#86168](https://github.com/CleverRaven/Cataclysm-DDA/pull/86168))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-30-0821 ([4f3dc14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-30-0821))
-
 * use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
 * Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
 * [Sky Island] Add an NPC mode to control whether NPCs join raids ([#86141](https://github.com/CleverRaven/Cataclysm-DDA/pull/86141))
