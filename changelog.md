@@ -1,3 +1,23 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-04-0319 ([d7d85bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-0319))
+
+* No more uncomfortable limbs you don't have ([#86228](https://github.com/CleverRaven/Cataclysm-DDA/pull/86228))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-04-0157 ([192b268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-0157))
+
+* Highlands: Imperial Road and ruins ([#86200](https://github.com/CleverRaven/Cataclysm-DDA/pull/86200))
+* bugfix and balance speedydex perk ([#86219](https://github.com/CleverRaven/Cataclysm-DDA/pull/86219))
+* [BPerks/MM/Sorc] XP mods can level up more than once at a time ([#86220](https://github.com/CleverRaven/Cataclysm-DDA/pull/86220))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-04-0102 ([115312b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-0102))
+
+* You remember what was your weight when you weighted the last time ([#86222](https://github.com/CleverRaven/Cataclysm-DDA/pull/86222))
 * Fix npc_test for Windows.h compatibility ([#86230](https://github.com/CleverRaven/Cataclysm-DDA/pull/86230))
 
 ---
@@ -151,23 +171,8 @@
 * 6 special basements for the cellar depths dimension ([#86177](https://github.com/CleverRaven/Cataclysm-DDA/pull/86177))
 * NPC needs: split camp residents from guard state, add free_time BT goal ([#86173](https://github.com/CleverRaven/Cataclysm-DDA/pull/86173))
 * Move items across dimensions with dimensional travel ([#86156](https://github.com/CleverRaven/Cataclysm-DDA/pull/86156))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-01-0357 ([920a3fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0357))
-
 * [MoM: Psychic Scream] Limit int bonuses ([#86182](https://github.com/CleverRaven/Cataclysm-DDA/pull/86182))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-31-2046 ([aaa1755](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-2046))
-
 * Make map::add_spawn private, replace last hardcoded call ([#86176](https://github.com/CleverRaven/Cataclysm-DDA/pull/86176))
-
----
-
-#### Cataclysm-DDA experimental build 2026-03-31-1632 ([459aa8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-03-31-1632))
-
 * NPC needs: BT evaluates for all NPCs, add follow and goto goals ([#86172](https://github.com/CleverRaven/Cataclysm-DDA/pull/86172))
 * Stop ref center guard EOCs from firing in alternate dimensions ([#86165](https://github.com/CleverRaven/Cataclysm-DDA/pull/86165))
 * Stop spamming player log when NPCs are hot ([#86167](https://github.com/CleverRaven/Cataclysm-DDA/pull/86167))
@@ -192,7 +197,6 @@
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
 * Sealed Condiment bottles prevent spoilage ([#86098](https://github.com/CleverRaven/Cataclysm-DDA/pull/86098))
-* [XEDRA Evolved] Balefire colored light ([#86090](https://github.com/CleverRaven/Cataclysm-DDA/pull/86090))
 * Wrap TTF font operations behind SDL abstraction layer ([#86105](https://github.com/CleverRaven/Cataclysm-DDA/pull/86105))
 * Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
@@ -212,9 +216,5 @@
 * Phasing enchant moves now cost moves and stamina ([#86097](https://github.com/CleverRaven/Cataclysm-DDA/pull/86097))
 * Tinted lights for various furniture/appliances/terrain ([#86104](https://github.com/CleverRaven/Cataclysm-DDA/pull/86104))
 * fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
-* Give fire light emission color ([#86087](https://github.com/CleverRaven/Cataclysm-DDA/pull/86087))
-* Rural church of nether strings glows ([#86086](https://github.com/CleverRaven/Cataclysm-DDA/pull/86086))
-* Triffid bulbs glow green ([#86088](https://github.com/CleverRaven/Cataclysm-DDA/pull/86088))
-* Electricity fields are blue/white ([#86089](https://github.com/CleverRaven/Cataclysm-DDA/pull/86089))
 * [MoM] Moving under Ephemeral Walk costs extra stamina ([#86091](https://github.com/CleverRaven/Cataclysm-DDA/pull/86091))
 * Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))
