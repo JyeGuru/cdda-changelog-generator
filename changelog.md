@@ -210,7 +210,6 @@
 * Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
 * Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
 * [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
-* Fix find_parent debugmsg on every charged-item pickup ([#86096](https://github.com/CleverRaven/Cataclysm-DDA/pull/86096))
 * Wrap SDL surface operations behind abstraction layer ([#86103](https://github.com/CleverRaven/Cataclysm-DDA/pull/86103))
 * Fuse color shadowcasting, skip idle blur, LUT for castLight distances ([#86107](https://github.com/CleverRaven/Cataclysm-DDA/pull/86107))
 * NPC sleep: no-bash pathfinding, NPC_NO_GO zone ([#86113](https://github.com/CleverRaven/Cataclysm-DDA/pull/86113))
