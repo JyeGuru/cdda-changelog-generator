@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-04-1230 ([4adef84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-1230))
+
+* Obsolete blade traps ([#86231](https://github.com/CleverRaven/Cataclysm-DDA/pull/86231))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-04-0319 ([d7d85bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-0319))
 
 * No more uncomfortable limbs you don't have ([#86228](https://github.com/CleverRaven/Cataclysm-DDA/pull/86228))
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2026-04-01-0556 ([685dab7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0556))
 
 * Flechette fix ([#86121](https://github.com/CleverRaven/Cataclysm-DDA/pull/86121))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-01-0512 ([ef53e38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0512))
-
 * inner cabins ruana is `sided` ([#86169](https://github.com/CleverRaven/Cataclysm-DDA/pull/86169))
 * Dimensional travel checks for `DIMENSIONAL_ANCHOR` not `PORTAL_PROOF` ([#86174](https://github.com/CleverRaven/Cataclysm-DDA/pull/86174))
 * 6 special basements for the cellar depths dimension ([#86177](https://github.com/CleverRaven/Cataclysm-DDA/pull/86177))
@@ -216,5 +217,4 @@
 * Phasing enchant moves now cost moves and stamina ([#86097](https://github.com/CleverRaven/Cataclysm-DDA/pull/86097))
 * Tinted lights for various furniture/appliances/terrain ([#86104](https://github.com/CleverRaven/Cataclysm-DDA/pull/86104))
 * fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
-* [MoM] Moving under Ephemeral Walk costs extra stamina ([#86091](https://github.com/CleverRaven/Cataclysm-DDA/pull/86091))
 * Remove unhealthy from eggplants ([#86094](https://github.com/CleverRaven/Cataclysm-DDA/pull/86094))

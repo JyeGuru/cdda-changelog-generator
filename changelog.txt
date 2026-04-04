@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-04-1230 (4adef84)
+* Obsolete blade traps (#86231)
+
 Cataclysm-DDA experimental build 2026-04-04-0319 (d7d85bb)
 * No more uncomfortable limbs you don't have (#86228)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-04-01-0902 (65452fe)
 
 Cataclysm-DDA experimental build 2026-04-01-0556 (685dab7)
 * Flechette fix (#86121)
-
-Cataclysm-DDA experimental build 2026-04-01-0512 (ef53e38)
 * inner cabins ruana is `sided` (#86169)
 * Dimensional travel checks for `DIMENSIONAL_ANCHOR` not `PORTAL_PROOF` (#86174)
 * 6 special basements for the cellar depths dimension (#86177)
@@ -141,5 +142,4 @@ Cataclysm-DDA experimental build 2026-04-01-0512 (ef53e38)
 * Phasing enchant moves now cost moves and stamina (#86097)
 * Tinted lights for various furniture/appliances/terrain (#86104)
 * fix string_dimension "no city settings defined" error (#86102)
-* [MoM] Moving under Ephemeral Walk costs extra stamina (#86091)
 * Remove unhealthy from eggplants (#86094)
