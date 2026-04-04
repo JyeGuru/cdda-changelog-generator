@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-04-1638 ([38f19e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-1638))
+
 * `random` → `RANDOM` ([#86233](https://github.com/CleverRaven/Cataclysm-DDA/pull/86233))
 
 ---
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2026-04-01-1816 ([486b31c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-1816))
 
 * Show component counts and sort available first in crafting GUI ([#86191](https://github.com/CleverRaven/Cataclysm-DDA/pull/86191))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-01-0902 ([65452fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-0902))
-
 * Fix dawn/dusk tint ignoring visibility, roofs and windows ([#86139](https://github.com/CleverRaven/Cataclysm-DDA/pull/86139))
 * Flechette fix ([#86121](https://github.com/CleverRaven/Cataclysm-DDA/pull/86121))
 * inner cabins ruana is `sided` ([#86169](https://github.com/CleverRaven/Cataclysm-DDA/pull/86169))
