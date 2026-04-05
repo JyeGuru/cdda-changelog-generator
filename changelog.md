@@ -1,3 +1,22 @@
+* Give rural church `"existing": true` in its overmap connections ([#86239](https://github.com/CleverRaven/Cataclysm-DDA/pull/86239))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-04-05-0517 ([9e7cb7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-05-0517))
+
+* Fix NPC footstep sfx ([#86249](https://github.com/CleverRaven/Cataclysm-DDA/pull/86249))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-05-0131 ([78563b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-0131))
+
+* [ Aftershock ] Small fixes to bionic operator  ([#86217](https://github.com/CleverRaven/Cataclysm-DDA/pull/86217))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-05-0017 ([957aba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-0017))
+
+* Fix animated tileset sprites freezing during idle ([#86244](https://github.com/CleverRaven/Cataclysm-DDA/pull/86244))
 
 ---
 
@@ -128,44 +147,19 @@
 #### Cataclysm-DDA experimental build 2026-04-02-0615 ([9f466d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0615))
 
 * Text edits for Aftershock ([#86178](https://github.com/CleverRaven/Cataclysm-DDA/pull/86178))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-02-0451 ([072ad7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0451))
-
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-02-0203 ([737b662](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0203))
-
 * Hanging around the cellar depths causes you to mutate into a new mutation category ([#86152](https://github.com/CleverRaven/Cataclysm-DDA/pull/86152))
 * Tail coverage for appropriate coats/dresses ([#86115](https://github.com/CleverRaven/Cataclysm-DDA/pull/86115))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
 * [Sky Island] Fix free vision and spawn location for expeditions ([#86154](https://github.com/CleverRaven/Cataclysm-DDA/pull/86154))
 * Skip lightmap rebuild when nothing changed ([#86183](https://github.com/CleverRaven/Cataclysm-DDA/pull/86183))
 * Weekly Changelog 2026-03-23 to 2026-03-30 ([#86158](https://github.com/CleverRaven/Cataclysm-DDA/pull/86158))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-02-0059 ([be69362](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0059))
-
 * [MoM] Add inner cabins cellar depths to "in nether" conditions ([#86170](https://github.com/CleverRaven/Cataclysm-DDA/pull/86170))
 * languorous spectre will only send you to the inner cabins once ([#86189](https://github.com/CleverRaven/Cataclysm-DDA/pull/86189))
 * [MoM: Psychic Scream] Various updates ([#86185](https://github.com/CleverRaven/Cataclysm-DDA/pull/86185))
 * [Sky Island] Override refugee center mission ([#86186](https://github.com/CleverRaven/Cataclysm-DDA/pull/86186))
 * Remove single-magazine assumptions in item_contents ([#86190](https://github.com/CleverRaven/Cataclysm-DDA/pull/86190))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-02-0006 ([c8b504e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0006))
-
 * Fix crafting GUI navigation: layered escape, space toggle, dual selection ([#86193](https://github.com/CleverRaven/Cataclysm-DDA/pull/86193))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-01-1816 ([486b31c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-01-1816))
-
 * Show component counts and sort available first in crafting GUI ([#86191](https://github.com/CleverRaven/Cataclysm-DDA/pull/86191))
 * Fix dawn/dusk tint ignoring visibility, roofs and windows ([#86139](https://github.com/CleverRaven/Cataclysm-DDA/pull/86139))
 * Flechette fix ([#86121](https://github.com/CleverRaven/Cataclysm-DDA/pull/86121))
@@ -198,7 +192,6 @@
 * Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
-* Sealed Condiment bottles prevent spoilage ([#86098](https://github.com/CleverRaven/Cataclysm-DDA/pull/86098))
 * Wrap TTF font operations behind SDL abstraction layer ([#86105](https://github.com/CleverRaven/Cataclysm-DDA/pull/86105))
 * Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
@@ -213,7 +206,5 @@
 * Wrap SDL surface operations behind abstraction layer ([#86103](https://github.com/CleverRaven/Cataclysm-DDA/pull/86103))
 * Fuse color shadowcasting, skip idle blur, LUT for castLight distances ([#86107](https://github.com/CleverRaven/Cataclysm-DDA/pull/86107))
 * NPC sleep: no-bash pathfinding, NPC_NO_GO zone ([#86113](https://github.com/CleverRaven/Cataclysm-DDA/pull/86113))
-* Fix liquid handling freeze and zone sort spillable container bypass ([#86100](https://github.com/CleverRaven/Cataclysm-DDA/pull/86100))
-* Phasing enchant moves now cost moves and stamina ([#86097](https://github.com/CleverRaven/Cataclysm-DDA/pull/86097))
 * Tinted lights for various furniture/appliances/terrain ([#86104](https://github.com/CleverRaven/Cataclysm-DDA/pull/86104))
 * fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
