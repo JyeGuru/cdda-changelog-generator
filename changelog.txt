@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-05-1519 (9681c8f)
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) (#86265)
 
 Cataclysm-DDA experimental build 2026-04-05-1434 (40a6fc2)
