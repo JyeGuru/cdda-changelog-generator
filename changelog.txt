@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-05-0551 (259117a)
 * Give rural church `"existing": true` in its overmap connections (#86239)
 
 Cataclysm-DDA 0.I release candidate 2026-04-05-0517 (9e7cb7d)
