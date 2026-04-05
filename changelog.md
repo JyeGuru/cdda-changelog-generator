@@ -1,3 +1,11 @@
+* Add pre-rasterized scaled GUI fonts (1.5x, 2x) ([#86265](https://github.com/CleverRaven/Cataclysm-DDA/pull/86265))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-05-1434 ([40a6fc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-1434))
+
+* Enable NPC mop tool fetching for zone mopping activity ([#86257](https://github.com/CleverRaven/Cataclysm-DDA/pull/86257))
+* Exclude personal zones from NPC zone sorting ([#86254](https://github.com/CleverRaven/Cataclysm-DDA/pull/86254))
 * ambient mutation in inner cabins cellar depths is slower and more obvious ([#86245](https://github.com/CleverRaven/Cataclysm-DDA/pull/86245))
 * Fix null ammo_data dereferences in NPC reload and turret code ([#86253](https://github.com/CleverRaven/Cataclysm-DDA/pull/86253))
 
@@ -195,12 +203,10 @@
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
 * Sort "Who should we assign?" menu by NPC name ([#86137](https://github.com/CleverRaven/Cataclysm-DDA/pull/86137))
 * sub2000 10 round mag fix ([#86126](https://github.com/CleverRaven/Cataclysm-DDA/pull/86126))
-* Centralize gamepad SDL boundary inside the gamepad module ([#86106](https://github.com/CleverRaven/Cataclysm-DDA/pull/86106))
 * The inner cabins cellar depths are dimly illuminated ([#86134](https://github.com/CleverRaven/Cataclysm-DDA/pull/86134))
 * Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
-* Wrap TTF font operations behind SDL abstraction layer ([#86105](https://github.com/CleverRaven/Cataclysm-DDA/pull/86105))
 * Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
 * [Sky Island] Update Teleportation EOCs  ([#86123](https://github.com/CleverRaven/Cataclysm-DDA/pull/86123))
@@ -211,5 +217,4 @@
 * Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
 * Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
 * [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
-* Fuse color shadowcasting, skip idle blur, LUT for castLight distances ([#86107](https://github.com/CleverRaven/Cataclysm-DDA/pull/86107))
 * NPC sleep: no-bash pathfinding, NPC_NO_GO zone ([#86113](https://github.com/CleverRaven/Cataclysm-DDA/pull/86113))
