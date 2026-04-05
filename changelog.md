@@ -1,3 +1,11 @@
+* ambient mutation in inner cabins cellar depths is slower and more obvious ([#86245](https://github.com/CleverRaven/Cataclysm-DDA/pull/86245))
+* Fix null ammo_data dereferences in NPC reload and turret code ([#86253](https://github.com/CleverRaven/Cataclysm-DDA/pull/86253))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-05-1337 ([a1592b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-1337))
+
+* Allow creatures to ascend regular stairs ([#86262](https://github.com/CleverRaven/Cataclysm-DDA/pull/86262))
 
 ---
 
@@ -146,11 +154,6 @@
 * Starting Scenario: Evacuation Bus Driver ([#86180](https://github.com/CleverRaven/Cataclysm-DDA/pull/86180))
 * Add quick setup eoc and force it to execute during quick setup ([#86188](https://github.com/CleverRaven/Cataclysm-DDA/pull/86188))
 * Add NO_TURRET flag to test_multimag_gun ([#86196](https://github.com/CleverRaven/Cataclysm-DDA/pull/86196))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-02-0615 ([9f466d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-0615))
-
 * Text edits for Aftershock ([#86178](https://github.com/CleverRaven/Cataclysm-DDA/pull/86178))
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
 * Hanging around the cellar depths causes you to mutate into a new mutation category ([#86152](https://github.com/CleverRaven/Cataclysm-DDA/pull/86152))
@@ -208,8 +211,5 @@
 * Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
 * Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
 * [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
-* Wrap SDL surface operations behind abstraction layer ([#86103](https://github.com/CleverRaven/Cataclysm-DDA/pull/86103))
 * Fuse color shadowcasting, skip idle blur, LUT for castLight distances ([#86107](https://github.com/CleverRaven/Cataclysm-DDA/pull/86107))
 * NPC sleep: no-bash pathfinding, NPC_NO_GO zone ([#86113](https://github.com/CleverRaven/Cataclysm-DDA/pull/86113))
-* Tinted lights for various furniture/appliances/terrain ([#86104](https://github.com/CleverRaven/Cataclysm-DDA/pull/86104))
-* fix string_dimension "no city settings defined" error ([#86102](https://github.com/CleverRaven/Cataclysm-DDA/pull/86102))
