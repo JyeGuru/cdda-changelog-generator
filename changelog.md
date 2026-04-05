@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-05-2056 ([41b36b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-2056))
+
+* Ortho tint: alpha-masked silhouette rendering with batching ([#86248](https://github.com/CleverRaven/Cataclysm-DDA/pull/86248))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-05-1519 ([9681c8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-1519))
 
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) ([#86265](https://github.com/CleverRaven/Cataclysm-DDA/pull/86265))
@@ -158,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-04-02-2054 ([cdba89f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-2054))
 
 * Fix crafting GUI: byproduct flicker, i18n string, warning layout ([#86207](https://github.com/CleverRaven/Cataclysm-DDA/pull/86207))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-02-1803 ([06b7a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-1803))
-
 * Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
 * Starting Scenario: Evacuation Bus Driver ([#86180](https://github.com/CleverRaven/Cataclysm-DDA/pull/86180))
 * Add quick setup eoc and force it to execute during quick setup ([#86188](https://github.com/CleverRaven/Cataclysm-DDA/pull/86188))
@@ -215,10 +216,8 @@
 * Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
 * [Sky Island] Update Teleportation EOCs  ([#86123](https://github.com/CleverRaven/Cataclysm-DDA/pull/86123))
-* document _has_item_with_flag ([#86109](https://github.com/CleverRaven/Cataclysm-DDA/pull/86109))
 * [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
 * Fix renamed terrain fixture in light_color_test ([#86122](https://github.com/CleverRaven/Cataclysm-DDA/pull/86122))
-* Hub sells their advanced headgear at appropriate times ([#86108](https://github.com/CleverRaven/Cataclysm-DDA/pull/86108))
 * Gastropod tongue is a body part ([#86114](https://github.com/CleverRaven/Cataclysm-DDA/pull/86114))
 * Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
 * [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
