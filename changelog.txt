@@ -86,8 +86,6 @@ Cataclysm-DDA experimental build 2026-04-03-1937 (1149f4a)
 
 Cataclysm-DDA experimental build 2026-04-03-1631 (200f2ab)
 * Make factions radio-contactable (#86195)
-
-Cataclysm-DDA experimental build 2026-04-03-1345 (6473a30)
 * [Magiclysm] Everburning candle (#86203)
 * String Dimension: KÁ facility (#86206)
 * Give access to an item's pre and post apocalypse price to EOCs (#86204)

@@ -164,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-04-03-1631 ([200f2ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1631))
 
 * Make factions radio-contactable ([#86195](https://github.com/CleverRaven/Cataclysm-DDA/pull/86195))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-03-1345 ([6473a30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1345))
-
 * [Magiclysm] Everburning candle ([#86203](https://github.com/CleverRaven/Cataclysm-DDA/pull/86203))
 * String Dimension: KÁ facility ([#86206](https://github.com/CleverRaven/Cataclysm-DDA/pull/86206))
 * Give access to an item's pre and post apocalypse price to EOCs ([#86204](https://github.com/CleverRaven/Cataclysm-DDA/pull/86204))
