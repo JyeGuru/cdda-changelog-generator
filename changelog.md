@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-06-0609 ([eeef43b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0609))
+
+* [Magiclysm] Add a way to craft everburning candle ([#86224](https://github.com/CleverRaven/Cataclysm-DDA/pull/86224))
+* Improve expanded component view in new ImGui Crafting Menu ([#86273](https://github.com/CleverRaven/Cataclysm-DDA/pull/86273))
+* Add 'GLARE' tool quality to lowered PAPR Welding Mask. ([#86223](https://github.com/CleverRaven/Cataclysm-DDA/pull/86223))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-06-0528 ([d821109](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0528))
+
+* [Sky Island] Blacklist evacuation flyer ([#86280](https://github.com/CleverRaven/Cataclysm-DDA/pull/86280))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-06-0444 ([057b874](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0444))
 
 * Remember crafting details panel state between sessions ([#86276](https://github.com/CleverRaven/Cataclysm-DDA/pull/86276))
@@ -154,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-04-03-0731 ([c67f327](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-0731))
 
 * Hub 01 loading screen ([#86218](https://github.com/CleverRaven/Cataclysm-DDA/pull/86218))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-03-0300 ([b2c8a91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-0300))
-
 * Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
 * Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
@@ -187,7 +196,6 @@
 * Fix crafting GUI navigation: layered escape, space toggle, dual selection ([#86193](https://github.com/CleverRaven/Cataclysm-DDA/pull/86193))
 * Show component counts and sort available first in crafting GUI ([#86191](https://github.com/CleverRaven/Cataclysm-DDA/pull/86191))
 * Fix dawn/dusk tint ignoring visibility, roofs and windows ([#86139](https://github.com/CleverRaven/Cataclysm-DDA/pull/86139))
-* Flechette fix ([#86121](https://github.com/CleverRaven/Cataclysm-DDA/pull/86121))
 * inner cabins ruana is `sided` ([#86169](https://github.com/CleverRaven/Cataclysm-DDA/pull/86169))
 * Dimensional travel checks for `DIMENSIONAL_ANCHOR` not `PORTAL_PROOF` ([#86174](https://github.com/CleverRaven/Cataclysm-DDA/pull/86174))
 * 6 special basements for the cellar depths dimension ([#86177](https://github.com/CleverRaven/Cataclysm-DDA/pull/86177))
@@ -218,7 +226,4 @@
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
 * Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
-* [Sky Island] Update Teleportation EOCs  ([#86123](https://github.com/CleverRaven/Cataclysm-DDA/pull/86123))
 * [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
-* Fix renamed terrain fixture in light_color_test ([#86122](https://github.com/CleverRaven/Cataclysm-DDA/pull/86122))
-* [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
