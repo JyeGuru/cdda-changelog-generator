@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-06-0444 ([057b874](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0444))
+
+* Remember crafting details panel state between sessions ([#86276](https://github.com/CleverRaven/Cataclysm-DDA/pull/86276))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-06-0403 ([594376b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0403))
+
+* [Sky Island] Require the player to examine the statue to receive warp shards ([#86282](https://github.com/CleverRaven/Cataclysm-DDA/pull/86282))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-06-0118 ([11f622b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0118))
 
 * Give `trunk` vehiclepart the `FURNITURE_TIEDOWN` flag ([#86272](https://github.com/CleverRaven/Cataclysm-DDA/pull/86272))
@@ -150,17 +162,7 @@
 * Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
 * Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-03-0125 ([a62fbbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-0125))
-
 * Exodii Trade: Petrochemicals ([#86146](https://github.com/CleverRaven/Cataclysm-DDA/pull/86146))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-02-2348 ([91f7fa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-02-2348))
-
 * Correct some texts ([#86149](https://github.com/CleverRaven/Cataclysm-DDA/pull/86149))
 * Inner cabins, cellar depths: locations to get Interstice mutagen ([#86202](https://github.com/CleverRaven/Cataclysm-DDA/pull/86202))
 * [Sky island] Re-enable whole room teleportation ([#86162](https://github.com/CleverRaven/Cataclysm-DDA/pull/86162))
@@ -173,7 +175,6 @@
 * Text edits for Aftershock ([#86178](https://github.com/CleverRaven/Cataclysm-DDA/pull/86178))
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
 * Hanging around the cellar depths causes you to mutate into a new mutation category ([#86152](https://github.com/CleverRaven/Cataclysm-DDA/pull/86152))
-* Tail coverage for appropriate coats/dresses ([#86115](https://github.com/CleverRaven/Cataclysm-DDA/pull/86115))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
 * [Sky Island] Fix free vision and spawn location for expeditions ([#86154](https://github.com/CleverRaven/Cataclysm-DDA/pull/86154))
 * Skip lightmap rebuild when nothing changed ([#86183](https://github.com/CleverRaven/Cataclysm-DDA/pull/86183))
@@ -220,5 +221,4 @@
 * [Sky Island] Update Teleportation EOCs  ([#86123](https://github.com/CleverRaven/Cataclysm-DDA/pull/86123))
 * [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
 * Fix renamed terrain fixture in light_color_test ([#86122](https://github.com/CleverRaven/Cataclysm-DDA/pull/86122))
-* Actually move NPCs to the new overmap when dimension shifting ([#86116](https://github.com/CleverRaven/Cataclysm-DDA/pull/86116))
 * [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings ([#86120](https://github.com/CleverRaven/Cataclysm-DDA/pull/86120))
