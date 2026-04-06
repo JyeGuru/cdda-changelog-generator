@@ -1,3 +1,11 @@
+* Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
+* Remove dumb gun cheese ([#86232](https://github.com/CleverRaven/Cataclysm-DDA/pull/86232))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-06-0933 ([fee2966](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0933))
+
+* NPC needs: executor system with BT integration ([#86243](https://github.com/CleverRaven/Cataclysm-DDA/pull/86243))
 
 ---
 
@@ -162,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-04-03-0823 ([5dd4e01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-0823))
 
 * [Aftershock] Removal bio solar ([#86199](https://github.com/CleverRaven/Cataclysm-DDA/pull/86199))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-03-0731 ([c67f327](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-0731))
-
 * Hub 01 loading screen ([#86218](https://github.com/CleverRaven/Cataclysm-DDA/pull/86218))
 * Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
@@ -219,11 +222,8 @@
 * inner cabins exit pool doesn't start with crossing-points <3 tiles ([#86143](https://github.com/CleverRaven/Cataclysm-DDA/pull/86143))
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
 * Sort "Who should we assign?" menu by NPC name ([#86137](https://github.com/CleverRaven/Cataclysm-DDA/pull/86137))
-* sub2000 10 round mag fix ([#86126](https://github.com/CleverRaven/Cataclysm-DDA/pull/86126))
 * The inner cabins cellar depths are dimly illuminated ([#86134](https://github.com/CleverRaven/Cataclysm-DDA/pull/86134))
 * Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
-* Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
-* [Xedra Evolved] Salamander fae ban only broken once per water application ([#86125](https://github.com/CleverRaven/Cataclysm-DDA/pull/86125))
