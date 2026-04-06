@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-06-1845 (518bc88)
+* Fix personal zone drift during item sorting (#86284)
+
 Cataclysm-DDA experimental build 2026-04-06-1119 (c5f21c9)
 * Weekly Changelog 2026-03-30 to 2026-04-06 (#86285)
 * Remove dumb gun cheese (#86232)
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-04-03-1345 (6473a30)
 
 Cataclysm-DDA experimental build 2026-04-03-1051 (5e01f7c)
 * String Dimension: KÁ facility (#86206)
-
-Cataclysm-DDA experimental build 2026-04-03-1007 (150a9e0)
 * Give access to an item's pre and post apocalypse price to EOCs (#86204)
 * [Aftershock] Removal bio solar (#86199)
 * Hub 01 loading screen (#86218)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2026-04-03-1007 (150a9e0)
 * Portal storm + string church = string dimension (#86131)
 * portaling to the string dimension doesn't instakill you (#86132)
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs (#86133)
-* [alt-map-key] Add new overmap terrain (#86128)

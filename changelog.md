@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-06-1845 ([518bc88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-1845))
+
+* Fix personal zone drift during item sorting ([#86284](https://github.com/CleverRaven/Cataclysm-DDA/pull/86284))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-06-1119 ([c5f21c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-1119))
 
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
@@ -163,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-04-03-1051 ([5e01f7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1051))
 
 * String Dimension: KÁ facility ([#86206](https://github.com/CleverRaven/Cataclysm-DDA/pull/86206))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-03-1007 ([150a9e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1007))
-
 * Give access to an item's pre and post apocalypse price to EOCs ([#86204](https://github.com/CleverRaven/Cataclysm-DDA/pull/86204))
 * [Aftershock] Removal bio solar ([#86199](https://github.com/CleverRaven/Cataclysm-DDA/pull/86199))
 * Hub 01 loading screen ([#86218](https://github.com/CleverRaven/Cataclysm-DDA/pull/86218))
@@ -226,4 +227,3 @@
 * Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
-* [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
