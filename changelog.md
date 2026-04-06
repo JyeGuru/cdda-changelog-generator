@@ -226,5 +226,4 @@
 * Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
 * portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
-* Add a `phase_move` event ([#86127](https://github.com/CleverRaven/Cataclysm-DDA/pull/86127))
 * [alt-map-key] Add new overmap terrain ([#86128](https://github.com/CleverRaven/Cataclysm-DDA/pull/86128))
