@@ -1,3 +1,10 @@
+* Inner cabins, cellar depths: enemies ([#86289](https://github.com/CleverRaven/Cataclysm-DDA/pull/86289))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-06-1933 ([c8c98ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-1933))
+
+* [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
 
 ---
 
@@ -163,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-04-03-1345 ([6473a30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1345))
 
 * [Magiclysm] Everburning candle ([#86203](https://github.com/CleverRaven/Cataclysm-DDA/pull/86203))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-03-1051 ([5e01f7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1051))
-
 * String Dimension: KÁ facility ([#86206](https://github.com/CleverRaven/Cataclysm-DDA/pull/86206))
 * Give access to an item's pre and post apocalypse price to EOCs ([#86204](https://github.com/CleverRaven/Cataclysm-DDA/pull/86204))
 * [Aftershock] Removal bio solar ([#86199](https://github.com/CleverRaven/Cataclysm-DDA/pull/86199))
@@ -224,6 +226,4 @@
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
 * Sort "Who should we assign?" menu by NPC name ([#86137](https://github.com/CleverRaven/Cataclysm-DDA/pull/86137))
 * The inner cabins cellar depths are dimly illuminated ([#86134](https://github.com/CleverRaven/Cataclysm-DDA/pull/86134))
-* Portal storm + string church = string dimension ([#86131](https://github.com/CleverRaven/Cataclysm-DDA/pull/86131))
-* portaling to the string dimension doesn't instakill you ([#86132](https://github.com/CleverRaven/Cataclysm-DDA/pull/86132))
 * add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
