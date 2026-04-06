@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-06-0118 (11f622b)
+* Give `trunk` vehiclepart the `FURNITURE_TIEDOWN` flag (#86272)
+
 Cataclysm-DDA experimental build 2026-04-05-2231 (7c28b19)
 * [MoM] Fix teleporter matrix crystal drops (#86271)
 
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2026-04-02-2348 (91f7fa3)
 * Correct some texts (#86149)
 * Inner cabins, cellar depths: locations to get Interstice mutagen (#86202)
 * [Sky island] Re-enable whole room teleportation (#86162)
-
-Cataclysm-DDA experimental build 2026-04-02-2256 (bd52aca)
 * remove healthy ticks from stomach soothers (#86209)
 * Fix crafting GUI: byproduct flicker, i18n string, warning layout (#86207)
 * Revert "Starting Scenario: Evacuation Bus Driver" (#86208)
@@ -141,6 +142,5 @@ Cataclysm-DDA experimental build 2026-04-02-2256 (bd52aca)
 * [Sky Island] Update Teleportation EOCs  (#86123)
 * [Xedra Evolved] Salamander fae ban only broken once per water application (#86125)
 * Fix renamed terrain fixture in light_color_test (#86122)
-* Gastropod tongue is a body part (#86114)
 * Actually move NPCs to the new overmap when dimension shifting (#86116)
 * [No Hope/Megacity] Megacity is incompatible with no_hope due to region settings (#86120)
