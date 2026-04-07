@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-07-2033 (bfc11e2)
+* fix typo in `INTERSTICEHEARING` (#86311)
+
 Cataclysm-DDA experimental build 2026-04-07-1902 (37b54db)
 * Fix NPC infinite loop with NO_NPC_FOOD mod (#86308)
 
@@ -142,5 +145,4 @@ Cataclysm-DDA experimental build 2026-04-05-0551 (259117a)
 * Proboscis is now a bodypart (#86171)
 * [Bombastic Perks] Playstyle perks also require a normal perk point (#86164)
 * Add /retry and /rerun comment commands for failed CI jobs (#86168)
-* use the correct variables for surroundings menu sort preference persistence (#86153)
 * Aftershock: Plasma degrades armors (#86155)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-07-2033 ([bfc11e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-2033))
+
+* fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-07-1902 ([37b54db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-1902))
 
 * Fix NPC infinite loop with NO_NPC_FOOD mod ([#86308](https://github.com/CleverRaven/Cataclysm-DDA/pull/86308))
@@ -220,5 +226,4 @@
 * Proboscis is now a bodypart ([#86171](https://github.com/CleverRaven/Cataclysm-DDA/pull/86171))
 * [Bombastic Perks] Playstyle perks also require a normal perk point ([#86164](https://github.com/CleverRaven/Cataclysm-DDA/pull/86164))
 * Add /retry and /rerun comment commands for failed CI jobs ([#86168](https://github.com/CleverRaven/Cataclysm-DDA/pull/86168))
-* use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
 * Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
