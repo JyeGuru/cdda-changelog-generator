@@ -1,3 +1,10 @@
+* update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-07-1520 ([89a8ede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-1520))
+
+* remove `emit_clairvoyant` from pallid masters ([#86309](https://github.com/CleverRaven/Cataclysm-DDA/pull/86309))
 
 ---
 
@@ -146,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2026-04-05-0551 ([259117a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-0551))
 
 * Give rural church `"existing": true` in its overmap connections ([#86239](https://github.com/CleverRaven/Cataclysm-DDA/pull/86239))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-04-05-0517 ([9e7cb7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-05-0517))
-
 * Fix NPC footstep sfx ([#86249](https://github.com/CleverRaven/Cataclysm-DDA/pull/86249))
 
 ---
@@ -183,7 +185,6 @@
 * Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
 * Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
-* Correct some texts ([#86149](https://github.com/CleverRaven/Cataclysm-DDA/pull/86149))
 * Inner cabins, cellar depths: locations to get Interstice mutagen ([#86202](https://github.com/CleverRaven/Cataclysm-DDA/pull/86202))
 * [Sky island] Re-enable whole room teleportation ([#86162](https://github.com/CleverRaven/Cataclysm-DDA/pull/86162))
 * remove healthy ticks from stomach soothers ([#86209](https://github.com/CleverRaven/Cataclysm-DDA/pull/86209))
@@ -221,4 +222,3 @@
 * Add /retry and /rerun comment commands for failed CI jobs ([#86168](https://github.com/CleverRaven/Cataclysm-DDA/pull/86168))
 * use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
 * Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
-* NECC Fliers ([#86148](https://github.com/CleverRaven/Cataclysm-DDA/pull/86148))

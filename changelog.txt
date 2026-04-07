@@ -1,3 +1,7 @@
+* update `material` field with `portion` for various items I've touched/contributed (#86310)
+
+Cataclysm-DDA experimental build 2026-04-07-1520 (89a8ede)
+* remove `emit_clairvoyant` from pallid masters (#86309)
 
 Cataclysm-DDA experimental build 2026-04-07-1308 (2418755)
 * adding NBSP into pinyin search (#86305)
@@ -77,8 +81,6 @@ Cataclysm-DDA experimental build 2026-04-05-1337 (a1592b8)
 
 Cataclysm-DDA experimental build 2026-04-05-0551 (259117a)
 * Give rural church `"existing": true` in its overmap connections (#86239)
-
-Cataclysm-DDA 0.I release candidate 2026-04-05-0517 (9e7cb7d)
 * Fix NPC footstep sfx (#86249)
 
 Cataclysm-DDA experimental build 2026-04-05-0131 (78563b2)
@@ -105,7 +107,6 @@ Cataclysm-DDA experimental build 2026-04-05-0017 (957aba1)
 * Fix starting profession maps being unreadable (#86215)
 * Fix crafting GUI starting craft after Batch then Esc (#86214)
 * Fix hit-animation overlay persisting after idle-lightmap skip (#86211)
-* Correct some texts (#86149)
 * Inner cabins, cellar depths: locations to get Interstice mutagen (#86202)
 * [Sky island] Re-enable whole room teleportation (#86162)
 * remove healthy ticks from stomach soothers (#86209)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2026-04-05-0017 (957aba1)
 * Add /retry and /rerun comment commands for failed CI jobs (#86168)
 * use the correct variables for surroundings menu sort preference persistence (#86153)
 * Aftershock: Plasma degrades armors (#86155)
-* NECC Fliers (#86148)
