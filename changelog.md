@@ -1,3 +1,11 @@
+* Snippets in loading screen + minor refactor of loading ui ([#86275](https://github.com/CleverRaven/Cataclysm-DDA/pull/86275))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-07-0020 ([64c4d87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0020))
+
+* Fix starting TCL mutants not being able to unmute themselves ([#86294](https://github.com/CleverRaven/Cataclysm-DDA/pull/86294))
+* Create parse_shopkeeper_whitelist for string extractor ([#86290](https://github.com/CleverRaven/Cataclysm-DDA/pull/86290))
 * Inner cabins, cellar depths: enemies ([#86289](https://github.com/CleverRaven/Cataclysm-DDA/pull/86289))
 
 ---
@@ -215,10 +223,7 @@
 * [Sky Island] Add an NPC mode to control whether NPCs join raids ([#86141](https://github.com/CleverRaven/Cataclysm-DDA/pull/86141))
 * NPC duty/sleep shift scheduling, Hub intercom shift rotation ([#86140](https://github.com/CleverRaven/Cataclysm-DDA/pull/86140))
 * NECC Fliers ([#86148](https://github.com/CleverRaven/Cataclysm-DDA/pull/86148))
-* Move faction UI to imgui ([#86136](https://github.com/CleverRaven/Cataclysm-DDA/pull/86136))
 * add `RETURN_TO_START_POS` to various robofac-associated NPCs ([#86142](https://github.com/CleverRaven/Cataclysm-DDA/pull/86142))
 * inner cabins exit pool doesn't start with crossing-points <3 tiles ([#86143](https://github.com/CleverRaven/Cataclysm-DDA/pull/86143))
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
 * Sort "Who should we assign?" menu by NPC name ([#86137](https://github.com/CleverRaven/Cataclysm-DDA/pull/86137))
-* The inner cabins cellar depths are dimly illuminated ([#86134](https://github.com/CleverRaven/Cataclysm-DDA/pull/86134))
-* add `RETURN_TO_START_POS` to Hub chop shop NPCs ([#86133](https://github.com/CleverRaven/Cataclysm-DDA/pull/86133))
