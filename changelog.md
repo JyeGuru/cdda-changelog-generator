@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-07-0244 ([8afc5db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0244))
+
+* Fix per-turn inventory rebuild for step recipe proficiency checks ([#86277](https://github.com/CleverRaven/Cataclysm-DDA/pull/86277))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-07-0204 ([a7a87ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0204))
+
 * Snippets in loading screen + minor refactor of loading ui ([#86275](https://github.com/CleverRaven/Cataclysm-DDA/pull/86275))
 
 ---
@@ -153,24 +164,9 @@
 * Highlands: Imperial Road and ruins ([#86200](https://github.com/CleverRaven/Cataclysm-DDA/pull/86200))
 * bugfix and balance speedydex perk ([#86219](https://github.com/CleverRaven/Cataclysm-DDA/pull/86219))
 * [BPerks/MM/Sorc] XP mods can level up more than once at a time ([#86220](https://github.com/CleverRaven/Cataclysm-DDA/pull/86220))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-04-0102 ([115312b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-0102))
-
 * You remember what was your weight when you weighted the last time ([#86222](https://github.com/CleverRaven/Cataclysm-DDA/pull/86222))
 * Fix npc_test for Windows.h compatibility ([#86230](https://github.com/CleverRaven/Cataclysm-DDA/pull/86230))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-03-1937 ([1149f4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1937))
-
 * Added motorbike batteries to scompact_tandem_2wheel_hboard and _stow ([#86229](https://github.com/CleverRaven/Cataclysm-DDA/pull/86229))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-03-1631 ([200f2ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-03-1631))
-
 * Make factions radio-contactable ([#86195](https://github.com/CleverRaven/Cataclysm-DDA/pull/86195))
 * [Magiclysm] Everburning candle ([#86203](https://github.com/CleverRaven/Cataclysm-DDA/pull/86203))
 * String Dimension: KÁ facility ([#86206](https://github.com/CleverRaven/Cataclysm-DDA/pull/86206))
@@ -226,4 +222,3 @@
 * add `RETURN_TO_START_POS` to various robofac-associated NPCs ([#86142](https://github.com/CleverRaven/Cataclysm-DDA/pull/86142))
 * inner cabins exit pool doesn't start with crossing-points <3 tiles ([#86143](https://github.com/CleverRaven/Cataclysm-DDA/pull/86143))
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
-* Sort "Who should we assign?" menu by NPC name ([#86137](https://github.com/CleverRaven/Cataclysm-DDA/pull/86137))
