@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-07-1902 (37b54db)
+* Fix NPC infinite loop with NO_NPC_FOOD mod (#86308)
+
 Cataclysm-DDA experimental build 2026-04-07-1606 (7d4caf2)
 * update `material` field with `portion` for various items I've touched/contributed (#86310)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-04-05-1337 (a1592b8)
 Cataclysm-DDA experimental build 2026-04-05-0551 (259117a)
 * Give rural church `"existing": true` in its overmap connections (#86239)
 * Fix NPC footstep sfx (#86249)
-
-Cataclysm-DDA experimental build 2026-04-05-0131 (78563b2)
 * [ Aftershock ] Small fixes to bionic operator  (#86217)
 * Fix animated tileset sprites freezing during idle (#86244)
 * `random` → `RANDOM` (#86233)
