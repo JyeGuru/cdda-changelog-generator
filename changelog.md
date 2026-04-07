@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-07-1606 ([7d4caf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-1606))
+
 * update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
 
 ---
@@ -160,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2026-04-05-0131 ([78563b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-0131))
 
 * [ Aftershock ] Small fixes to bionic operator  ([#86217](https://github.com/CleverRaven/Cataclysm-DDA/pull/86217))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-05-0017 ([957aba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-0017))
-
 * Fix animated tileset sprites freezing during idle ([#86244](https://github.com/CleverRaven/Cataclysm-DDA/pull/86244))
 * `random` → `RANDOM` ([#86233](https://github.com/CleverRaven/Cataclysm-DDA/pull/86233))
 * Fix faction ui column width in curses build ([#86238](https://github.com/CleverRaven/Cataclysm-DDA/pull/86238))
