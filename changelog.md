@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-07-0940 ([f1fe85b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0940))
+
+* Fixes for XE CI ([#86302](https://github.com/CleverRaven/Cataclysm-DDA/pull/86302))
+* Fix #85931 ([#86303](https://github.com/CleverRaven/Cataclysm-DDA/pull/86303))
+* Crafting UI: List missing required proficiencies ([#86291](https://github.com/CleverRaven/Cataclysm-DDA/pull/86291))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-07-0845 ([0c2bbed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0845))
 
 * Smart watch link_up CTD fix ([#86301](https://github.com/CleverRaven/Cataclysm-DDA/pull/86301))
@@ -156,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-04-04-1638 ([38f19e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-1638))
 
 * `random` → `RANDOM` ([#86233](https://github.com/CleverRaven/Cataclysm-DDA/pull/86233))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-04-1542 ([991fecb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-1542))
-
 * Fix faction ui column width in curses build ([#86238](https://github.com/CleverRaven/Cataclysm-DDA/pull/86238))
 * Obsolete blade traps ([#86231](https://github.com/CleverRaven/Cataclysm-DDA/pull/86231))
 * No more uncomfortable limbs you don't have ([#86228](https://github.com/CleverRaven/Cataclysm-DDA/pull/86228))
@@ -179,7 +182,6 @@
 * Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
 * Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
-* Exodii Trade: Petrochemicals ([#86146](https://github.com/CleverRaven/Cataclysm-DDA/pull/86146))
 * Correct some texts ([#86149](https://github.com/CleverRaven/Cataclysm-DDA/pull/86149))
 * Inner cabins, cellar depths: locations to get Interstice mutagen ([#86202](https://github.com/CleverRaven/Cataclysm-DDA/pull/86202))
 * [Sky island] Re-enable whole room teleportation ([#86162](https://github.com/CleverRaven/Cataclysm-DDA/pull/86162))
@@ -219,6 +221,4 @@
 * use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
 * Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
 * NECC Fliers ([#86148](https://github.com/CleverRaven/Cataclysm-DDA/pull/86148))
-* add `RETURN_TO_START_POS` to various robofac-associated NPCs ([#86142](https://github.com/CleverRaven/Cataclysm-DDA/pull/86142))
-* inner cabins exit pool doesn't start with crossing-points <3 tiles ([#86143](https://github.com/CleverRaven/Cataclysm-DDA/pull/86143))
 * Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))
