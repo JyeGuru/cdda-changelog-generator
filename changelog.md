@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-07-1308 ([2418755](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-1308))
+
+* adding NBSP into pinyin search ([#86305](https://github.com/CleverRaven/Cataclysm-DDA/pull/86305))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-07-0940 ([f1fe85b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0940))
 
 * Fixes for XE CI ([#86302](https://github.com/CleverRaven/Cataclysm-DDA/pull/86302))
@@ -158,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-04-05-0017 ([957aba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-0017))
 
 * Fix animated tileset sprites freezing during idle ([#86244](https://github.com/CleverRaven/Cataclysm-DDA/pull/86244))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-04-1638 ([38f19e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-1638))
-
 * `random` → `RANDOM` ([#86233](https://github.com/CleverRaven/Cataclysm-DDA/pull/86233))
 * Fix faction ui column width in curses build ([#86238](https://github.com/CleverRaven/Cataclysm-DDA/pull/86238))
 * Obsolete blade traps ([#86231](https://github.com/CleverRaven/Cataclysm-DDA/pull/86231))
@@ -221,4 +222,3 @@
 * use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
 * Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
 * NECC Fliers ([#86148](https://github.com/CleverRaven/Cataclysm-DDA/pull/86148))
-* Nightmare Additions ([#86147](https://github.com/CleverRaven/Cataclysm-DDA/pull/86147))

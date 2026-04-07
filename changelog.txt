@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-07-1308 (2418755)
+* adding NBSP into pinyin search (#86305)
+
 Cataclysm-DDA experimental build 2026-04-07-0940 (f1fe85b)
 * Fixes for XE CI (#86302)
 * Fix #85931 (#86303)
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2026-04-05-0131 (78563b2)
 
 Cataclysm-DDA experimental build 2026-04-05-0017 (957aba1)
 * Fix animated tileset sprites freezing during idle (#86244)
-
-Cataclysm-DDA experimental build 2026-04-04-1638 (38f19e8)
 * `random` → `RANDOM` (#86233)
 * Fix faction ui column width in curses build (#86238)
 * Obsolete blade traps (#86231)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2026-04-04-1638 (38f19e8)
 * use the correct variables for surroundings menu sort preference persistence (#86153)
 * Aftershock: Plasma degrades armors (#86155)
 * NECC Fliers (#86148)
-* Nightmare Additions (#86147)
