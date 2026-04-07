@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-07-0703 ([3ca14c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0703))
+
+* Stop Rubik from borging up the anti-borg PCs ([#86256](https://github.com/CleverRaven/Cataclysm-DDA/pull/86256))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-07-0608 ([308aef3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0608))
 
 * [MOM] Add "all" as an allowed bodypart for encumbrance_modifier enchant and apply to Enhanced Mobility effect ([#86297](https://github.com/CleverRaven/Cataclysm-DDA/pull/86297))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-04-04-1230 ([4adef84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-1230))
 
 * Obsolete blade traps ([#86231](https://github.com/CleverRaven/Cataclysm-DDA/pull/86231))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-04-0319 ([d7d85bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-04-0319))
-
 * No more uncomfortable limbs you don't have ([#86228](https://github.com/CleverRaven/Cataclysm-DDA/pull/86228))
 * Highlands: Imperial Road and ruins ([#86200](https://github.com/CleverRaven/Cataclysm-DDA/pull/86200))
 * bugfix and balance speedydex perk ([#86219](https://github.com/CleverRaven/Cataclysm-DDA/pull/86219))
@@ -217,7 +218,6 @@
 * use the correct variables for surroundings menu sort preference persistence ([#86153](https://github.com/CleverRaven/Cataclysm-DDA/pull/86153))
 * Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
 * [Sky Island] Add an NPC mode to control whether NPCs join raids ([#86141](https://github.com/CleverRaven/Cataclysm-DDA/pull/86141))
-* NPC duty/sleep shift scheduling, Hub intercom shift rotation ([#86140](https://github.com/CleverRaven/Cataclysm-DDA/pull/86140))
 * NECC Fliers ([#86148](https://github.com/CleverRaven/Cataclysm-DDA/pull/86148))
 * add `RETURN_TO_START_POS` to various robofac-associated NPCs ([#86142](https://github.com/CleverRaven/Cataclysm-DDA/pull/86142))
 * inner cabins exit pool doesn't start with crossing-points <3 tiles ([#86143](https://github.com/CleverRaven/Cataclysm-DDA/pull/86143))
