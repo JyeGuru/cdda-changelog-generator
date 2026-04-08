@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-08-1402 ([d94071c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-1402))
+
 * Tile fallback fixes ([#86335](https://github.com/CleverRaven/Cataclysm-DDA/pull/86335))
 * Fix nuts and bolts spawning when adv_panel is taken down ([#86329](https://github.com/CleverRaven/Cataclysm-DDA/pull/86329))
 * Fix speedway copy-from ([#86343](https://github.com/CleverRaven/Cataclysm-DDA/pull/86343))
@@ -176,11 +181,6 @@
 * Exclude personal zones from NPC zone sorting ([#86254](https://github.com/CleverRaven/Cataclysm-DDA/pull/86254))
 * ambient mutation in inner cabins cellar depths is slower and more obvious ([#86245](https://github.com/CleverRaven/Cataclysm-DDA/pull/86245))
 * Fix null ammo_data dereferences in NPC reload and turret code ([#86253](https://github.com/CleverRaven/Cataclysm-DDA/pull/86253))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-05-1337 ([a1592b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-1337))
-
 * Allow creatures to ascend regular stairs ([#86262](https://github.com/CleverRaven/Cataclysm-DDA/pull/86262))
 * Give rural church `"existing": true` in its overmap connections ([#86239](https://github.com/CleverRaven/Cataclysm-DDA/pull/86239))
 * Fix NPC footstep sfx ([#86249](https://github.com/CleverRaven/Cataclysm-DDA/pull/86249))
