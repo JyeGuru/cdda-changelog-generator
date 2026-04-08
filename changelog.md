@@ -1,3 +1,15 @@
+* Tile fallback fixes ([#86335](https://github.com/CleverRaven/Cataclysm-DDA/pull/86335))
+* Fix nuts and bolts spawning when adv_panel is taken down ([#86329](https://github.com/CleverRaven/Cataclysm-DDA/pull/86329))
+* Fix speedway copy-from ([#86343](https://github.com/CleverRaven/Cataclysm-DDA/pull/86343))
+* Remove unused 2x scaled ImGui font to reduce atlas size ([#86337](https://github.com/CleverRaven/Cataclysm-DDA/pull/86337))
+* Overmap zoom level persistence ([#86338](https://github.com/CleverRaven/Cataclysm-DDA/pull/86338))
+* Grammar Fix in XE spells ([#86339](https://github.com/CleverRaven/Cataclysm-DDA/pull/86339))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-08-1312 ([9f14b7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-1312))
+
+* Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
 
 ---
 
@@ -170,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-04-05-1337 ([a1592b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-1337))
 
 * Allow creatures to ascend regular stairs ([#86262](https://github.com/CleverRaven/Cataclysm-DDA/pull/86262))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-05-0551 ([259117a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-0551))
-
 * Give rural church `"existing": true` in its overmap connections ([#86239](https://github.com/CleverRaven/Cataclysm-DDA/pull/86239))
 * Fix NPC footstep sfx ([#86249](https://github.com/CleverRaven/Cataclysm-DDA/pull/86249))
 * [ Aftershock ] Small fixes to bionic operator  ([#86217](https://github.com/CleverRaven/Cataclysm-DDA/pull/86217))
@@ -199,7 +206,6 @@
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
 * Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
 * Inner cabins, cellar depths: locations to get Interstice mutagen ([#86202](https://github.com/CleverRaven/Cataclysm-DDA/pull/86202))
-* [Sky island] Re-enable whole room teleportation ([#86162](https://github.com/CleverRaven/Cataclysm-DDA/pull/86162))
 * remove healthy ticks from stomach soothers ([#86209](https://github.com/CleverRaven/Cataclysm-DDA/pull/86209))
 * Fix crafting GUI: byproduct flicker, i18n string, warning layout ([#86207](https://github.com/CleverRaven/Cataclysm-DDA/pull/86207))
 * Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
@@ -210,7 +216,6 @@
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
 * Skip lightmap rebuild when nothing changed ([#86183](https://github.com/CleverRaven/Cataclysm-DDA/pull/86183))
-* Weekly Changelog 2026-03-23 to 2026-03-30 ([#86158](https://github.com/CleverRaven/Cataclysm-DDA/pull/86158))
 * [MoM] Add inner cabins cellar depths to "in nether" conditions ([#86170](https://github.com/CleverRaven/Cataclysm-DDA/pull/86170))
 * languorous spectre will only send you to the inner cabins once ([#86189](https://github.com/CleverRaven/Cataclysm-DDA/pull/86189))
 * [MoM: Psychic Scream] Various updates ([#86185](https://github.com/CleverRaven/Cataclysm-DDA/pull/86185))
@@ -222,13 +227,8 @@
 * Dimensional travel checks for `DIMENSIONAL_ANCHOR` not `PORTAL_PROOF` ([#86174](https://github.com/CleverRaven/Cataclysm-DDA/pull/86174))
 * 6 special basements for the cellar depths dimension ([#86177](https://github.com/CleverRaven/Cataclysm-DDA/pull/86177))
 * NPC needs: split camp residents from guard state, add free_time BT goal ([#86173](https://github.com/CleverRaven/Cataclysm-DDA/pull/86173))
-* Move items across dimensions with dimensional travel ([#86156](https://github.com/CleverRaven/Cataclysm-DDA/pull/86156))
 * [MoM: Psychic Scream] Limit int bonuses ([#86182](https://github.com/CleverRaven/Cataclysm-DDA/pull/86182))
 * Make map::add_spawn private, replace last hardcoded call ([#86176](https://github.com/CleverRaven/Cataclysm-DDA/pull/86176))
 * NPC needs: BT evaluates for all NPCs, add follow and goto goals ([#86172](https://github.com/CleverRaven/Cataclysm-DDA/pull/86172))
-* Stop ref center guard EOCs from firing in alternate dimensions ([#86165](https://github.com/CleverRaven/Cataclysm-DDA/pull/86165))
-* Stop spamming player log when NPCs are hot ([#86167](https://github.com/CleverRaven/Cataclysm-DDA/pull/86167))
 * Proboscis is now a bodypart ([#86171](https://github.com/CleverRaven/Cataclysm-DDA/pull/86171))
-* [Bombastic Perks] Playstyle perks also require a normal perk point ([#86164](https://github.com/CleverRaven/Cataclysm-DDA/pull/86164))
 * Add /retry and /rerun comment commands for failed CI jobs ([#86168](https://github.com/CleverRaven/Cataclysm-DDA/pull/86168))
-* Aftershock: Plasma degrades armors ([#86155](https://github.com/CleverRaven/Cataclysm-DDA/pull/86155))
