@@ -1,3 +1,12 @@
+* Shiny farthing and other coins can coin flip ([#86321](https://github.com/CleverRaven/Cataclysm-DDA/pull/86321))
+* Fix faction-hostile NPCs sleeping instead of fighting ([#86316](https://github.com/CleverRaven/Cataclysm-DDA/pull/86316))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-08-2328 ([7ad923a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-2328))
+
+* [Sky Island] Fix Merchant Stall variable ([#86332](https://github.com/CleverRaven/Cataclysm-DDA/pull/86332))
+* add sorcerer to auto-labels for pull requests ([#86326](https://github.com/CleverRaven/Cataclysm-DDA/pull/86326))
 
 ---
 
@@ -172,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-04-05-1519 ([9681c8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-1519))
 
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) ([#86265](https://github.com/CleverRaven/Cataclysm-DDA/pull/86265))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-05-1434 ([40a6fc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-1434))
-
 * Enable NPC mop tool fetching for zone mopping activity ([#86257](https://github.com/CleverRaven/Cataclysm-DDA/pull/86257))
 * Exclude personal zones from NPC zone sorting ([#86254](https://github.com/CleverRaven/Cataclysm-DDA/pull/86254))
 * ambient mutation in inner cabins cellar depths is slower and more obvious ([#86245](https://github.com/CleverRaven/Cataclysm-DDA/pull/86245))
@@ -216,19 +220,15 @@
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
 * Skip lightmap rebuild when nothing changed ([#86183](https://github.com/CleverRaven/Cataclysm-DDA/pull/86183))
-* [MoM] Add inner cabins cellar depths to "in nether" conditions ([#86170](https://github.com/CleverRaven/Cataclysm-DDA/pull/86170))
 * languorous spectre will only send you to the inner cabins once ([#86189](https://github.com/CleverRaven/Cataclysm-DDA/pull/86189))
 * [MoM: Psychic Scream] Various updates ([#86185](https://github.com/CleverRaven/Cataclysm-DDA/pull/86185))
 * [Sky Island] Override refugee center mission ([#86186](https://github.com/CleverRaven/Cataclysm-DDA/pull/86186))
 * Remove single-magazine assumptions in item_contents ([#86190](https://github.com/CleverRaven/Cataclysm-DDA/pull/86190))
 * Fix crafting GUI navigation: layered escape, space toggle, dual selection ([#86193](https://github.com/CleverRaven/Cataclysm-DDA/pull/86193))
 * Show component counts and sort available first in crafting GUI ([#86191](https://github.com/CleverRaven/Cataclysm-DDA/pull/86191))
-* inner cabins ruana is `sided` ([#86169](https://github.com/CleverRaven/Cataclysm-DDA/pull/86169))
 * Dimensional travel checks for `DIMENSIONAL_ANCHOR` not `PORTAL_PROOF` ([#86174](https://github.com/CleverRaven/Cataclysm-DDA/pull/86174))
 * 6 special basements for the cellar depths dimension ([#86177](https://github.com/CleverRaven/Cataclysm-DDA/pull/86177))
 * NPC needs: split camp residents from guard state, add free_time BT goal ([#86173](https://github.com/CleverRaven/Cataclysm-DDA/pull/86173))
 * [MoM: Psychic Scream] Limit int bonuses ([#86182](https://github.com/CleverRaven/Cataclysm-DDA/pull/86182))
 * Make map::add_spawn private, replace last hardcoded call ([#86176](https://github.com/CleverRaven/Cataclysm-DDA/pull/86176))
 * NPC needs: BT evaluates for all NPCs, add follow and goto goals ([#86172](https://github.com/CleverRaven/Cataclysm-DDA/pull/86172))
-* Proboscis is now a bodypart ([#86171](https://github.com/CleverRaven/Cataclysm-DDA/pull/86171))
-* Add /retry and /rerun comment commands for failed CI jobs ([#86168](https://github.com/CleverRaven/Cataclysm-DDA/pull/86168))
