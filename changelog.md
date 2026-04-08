@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-08-0354 ([46e8f28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-0354))
+
+* Add `fertilize_plant` spell effect ([#86251](https://github.com/CleverRaven/Cataclysm-DDA/pull/86251))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-07-2033 ([bfc11e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-2033))
 
 * fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
@@ -203,7 +209,6 @@
 * Text edits for Aftershock ([#86178](https://github.com/CleverRaven/Cataclysm-DDA/pull/86178))
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
-* [Sky Island] Fix free vision and spawn location for expeditions ([#86154](https://github.com/CleverRaven/Cataclysm-DDA/pull/86154))
 * Skip lightmap rebuild when nothing changed ([#86183](https://github.com/CleverRaven/Cataclysm-DDA/pull/86183))
 * Weekly Changelog 2026-03-23 to 2026-03-30 ([#86158](https://github.com/CleverRaven/Cataclysm-DDA/pull/86158))
 * [MoM] Add inner cabins cellar depths to "in nether" conditions ([#86170](https://github.com/CleverRaven/Cataclysm-DDA/pull/86170))
