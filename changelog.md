@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-09-0547 ([fa4903a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0547))
+
 * Bionics UI: Don't assign hotkeys that are menu navigation keys ([#86317](https://github.com/CleverRaven/Cataclysm-DDA/pull/86317))
 * Spellcasting UI: Don't assign hotkeys that are menu navigation keys ([#86288](https://github.com/CleverRaven/Cataclysm-DDA/pull/86288))
 * [Magiclysm] Convert Seed of Growth to `fertilize_plant` effect ([#86270](https://github.com/CleverRaven/Cataclysm-DDA/pull/86270))
@@ -178,11 +183,6 @@
 * [Magiclysm] Add a way to craft everburning candle ([#86224](https://github.com/CleverRaven/Cataclysm-DDA/pull/86224))
 * Improve expanded component view in new ImGui Crafting Menu ([#86273](https://github.com/CleverRaven/Cataclysm-DDA/pull/86273))
 * Add 'GLARE' tool quality to lowered PAPR Welding Mask. ([#86223](https://github.com/CleverRaven/Cataclysm-DDA/pull/86223))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-06-0528 ([d821109](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0528))
-
 * [Sky Island] Blacklist evacuation flyer ([#86280](https://github.com/CleverRaven/Cataclysm-DDA/pull/86280))
 * Remember crafting details panel state between sessions ([#86276](https://github.com/CleverRaven/Cataclysm-DDA/pull/86276))
 * [Sky Island] Require the player to examine the statue to receive warp shards ([#86282](https://github.com/CleverRaven/Cataclysm-DDA/pull/86282))
