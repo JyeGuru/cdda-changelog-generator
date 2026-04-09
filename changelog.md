@@ -1,3 +1,4 @@
+* [Bombastic Perks] Ascetic Empowerment fix ([#86315](https://github.com/CleverRaven/Cataclysm-DDA/pull/86315))
 
 ---
 
@@ -169,11 +170,6 @@
 
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
 * Remove dumb gun cheese ([#86232](https://github.com/CleverRaven/Cataclysm-DDA/pull/86232))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-06-0933 ([fee2966](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0933))
-
 * NPC needs: executor system with BT integration ([#86243](https://github.com/CleverRaven/Cataclysm-DDA/pull/86243))
 * [Magiclysm] Add a way to craft everburning candle ([#86224](https://github.com/CleverRaven/Cataclysm-DDA/pull/86224))
 * Improve expanded component view in new ImGui Crafting Menu ([#86273](https://github.com/CleverRaven/Cataclysm-DDA/pull/86273))
@@ -222,7 +218,6 @@
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
 * languorous spectre will only send you to the inner cabins once ([#86189](https://github.com/CleverRaven/Cataclysm-DDA/pull/86189))
-* [Sky Island] Override refugee center mission ([#86186](https://github.com/CleverRaven/Cataclysm-DDA/pull/86186))
 * Remove single-magazine assumptions in item_contents ([#86190](https://github.com/CleverRaven/Cataclysm-DDA/pull/86190))
 * Fix crafting GUI navigation: layered escape, space toggle, dual selection ([#86193](https://github.com/CleverRaven/Cataclysm-DDA/pull/86193))
 * Show component counts and sort available first in crafting GUI ([#86191](https://github.com/CleverRaven/Cataclysm-DDA/pull/86191))
