@@ -227,7 +227,6 @@
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
 * languorous spectre will only send you to the inner cabins once ([#86189](https://github.com/CleverRaven/Cataclysm-DDA/pull/86189))
-* [MoM: Psychic Scream] Various updates ([#86185](https://github.com/CleverRaven/Cataclysm-DDA/pull/86185))
 * [Sky Island] Override refugee center mission ([#86186](https://github.com/CleverRaven/Cataclysm-DDA/pull/86186))
 * Remove single-magazine assumptions in item_contents ([#86190](https://github.com/CleverRaven/Cataclysm-DDA/pull/86190))
 * Fix crafting GUI navigation: layered escape, space toggle, dual selection ([#86193](https://github.com/CleverRaven/Cataclysm-DDA/pull/86193))
