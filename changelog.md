@@ -1,3 +1,17 @@
+* Bionics UI: Don't assign hotkeys that are menu navigation keys ([#86317](https://github.com/CleverRaven/Cataclysm-DDA/pull/86317))
+* Spellcasting UI: Don't assign hotkeys that are menu navigation keys ([#86288](https://github.com/CleverRaven/Cataclysm-DDA/pull/86288))
+* [Magiclysm] Convert Seed of Growth to `fertilize_plant` effect ([#86270](https://github.com/CleverRaven/Cataclysm-DDA/pull/86270))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-09-0455 ([cd9293a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0455))
+
+* Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-09-0354 ([68fc00a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0354))
+
 * [MoM] Replace Intelligence/Nether Attunement calculations with `psionic_power_modifiers()` jmath (effects only) ([#86296](https://github.com/CleverRaven/Cataclysm-DDA/pull/86296))
 
 ---
@@ -170,17 +184,7 @@
 #### Cataclysm-DDA experimental build 2026-04-06-0528 ([d821109](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0528))
 
 * [Sky Island] Blacklist evacuation flyer ([#86280](https://github.com/CleverRaven/Cataclysm-DDA/pull/86280))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-06-0444 ([057b874](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0444))
-
 * Remember crafting details panel state between sessions ([#86276](https://github.com/CleverRaven/Cataclysm-DDA/pull/86276))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-06-0403 ([594376b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0403))
-
 * [Sky Island] Require the player to examine the statue to receive warp shards ([#86282](https://github.com/CleverRaven/Cataclysm-DDA/pull/86282))
 * Give `trunk` vehiclepart the `FURNITURE_TIEDOWN` flag ([#86272](https://github.com/CleverRaven/Cataclysm-DDA/pull/86272))
 * [MoM] Fix teleporter matrix crystal drops ([#86271](https://github.com/CleverRaven/Cataclysm-DDA/pull/86271))
@@ -218,18 +222,13 @@
 * remove healthy ticks from stomach soothers ([#86209](https://github.com/CleverRaven/Cataclysm-DDA/pull/86209))
 * Fix crafting GUI: byproduct flicker, i18n string, warning layout ([#86207](https://github.com/CleverRaven/Cataclysm-DDA/pull/86207))
 * Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
-* Starting Scenario: Evacuation Bus Driver ([#86180](https://github.com/CleverRaven/Cataclysm-DDA/pull/86180))
 * Add quick setup eoc and force it to execute during quick setup ([#86188](https://github.com/CleverRaven/Cataclysm-DDA/pull/86188))
 * Add NO_TURRET flag to test_multimag_gun ([#86196](https://github.com/CleverRaven/Cataclysm-DDA/pull/86196))
-* Text edits for Aftershock ([#86178](https://github.com/CleverRaven/Cataclysm-DDA/pull/86178))
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
 * utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
-* Skip lightmap rebuild when nothing changed ([#86183](https://github.com/CleverRaven/Cataclysm-DDA/pull/86183))
 * languorous spectre will only send you to the inner cabins once ([#86189](https://github.com/CleverRaven/Cataclysm-DDA/pull/86189))
 * [MoM: Psychic Scream] Various updates ([#86185](https://github.com/CleverRaven/Cataclysm-DDA/pull/86185))
 * [Sky Island] Override refugee center mission ([#86186](https://github.com/CleverRaven/Cataclysm-DDA/pull/86186))
 * Remove single-magazine assumptions in item_contents ([#86190](https://github.com/CleverRaven/Cataclysm-DDA/pull/86190))
 * Fix crafting GUI navigation: layered escape, space toggle, dual selection ([#86193](https://github.com/CleverRaven/Cataclysm-DDA/pull/86193))
 * Show component counts and sort available first in crafting GUI ([#86191](https://github.com/CleverRaven/Cataclysm-DDA/pull/86191))
-* 6 special basements for the cellar depths dimension ([#86177](https://github.com/CleverRaven/Cataclysm-DDA/pull/86177))
-* [MoM: Psychic Scream] Limit int bonuses ([#86182](https://github.com/CleverRaven/Cataclysm-DDA/pull/86182))
