@@ -1,3 +1,14 @@
+* [MoM] Replace Intelligence/Nether Attunement calculations with `psionic_power_modifiers()` jmath (effects only) (#86296)
+
+Cataclysm-DDA experimental build 2026-04-09-0314 (461e6d8)
+* Autonotes for berry bush patches (#86330)
+
+Cataclysm-DDA experimental build 2026-04-09-0203 (80caf89)
+* [MoM] Mention Psychic Scream in MoM help files (#86324)
+* add `LEARNING_FOCUS` mallus to `INTERSTICE_MIND` (#86312)
+
+Cataclysm-DDA experimental build 2026-04-09-0122 (5919656)
+* Fix drystone and brick roof terrain (#86274)
 
 Cataclysm-DDA experimental build 2026-04-09-0009 (147be83)
 * Shiny farthing and other coins can coin flip (#86321)
@@ -87,14 +98,8 @@ Cataclysm-DDA experimental build 2026-04-06-0444 (057b874)
 
 Cataclysm-DDA experimental build 2026-04-06-0403 (594376b)
 * [Sky Island] Require the player to examine the statue to receive warp shards (#86282)
-
-Cataclysm-DDA experimental build 2026-04-06-0118 (11f622b)
 * Give `trunk` vehiclepart the `FURNITURE_TIEDOWN` flag (#86272)
-
-Cataclysm-DDA experimental build 2026-04-05-2231 (7c28b19)
 * [MoM] Fix teleporter matrix crystal drops (#86271)
-
-Cataclysm-DDA experimental build 2026-04-05-2056 (41b36b7)
 * Ortho tint: alpha-masked silhouette rendering with batching (#86248)
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) (#86265)
 * Enable NPC mop tool fetching for zone mopping activity (#86257)
@@ -142,9 +147,5 @@ Cataclysm-DDA experimental build 2026-04-05-2056 (41b36b7)
 * Remove single-magazine assumptions in item_contents (#86190)
 * Fix crafting GUI navigation: layered escape, space toggle, dual selection (#86193)
 * Show component counts and sort available first in crafting GUI (#86191)
-* Dimensional travel checks for `DIMENSIONAL_ANCHOR` not `PORTAL_PROOF` (#86174)
 * 6 special basements for the cellar depths dimension (#86177)
-* NPC needs: split camp residents from guard state, add free_time BT goal (#86173)
 * [MoM: Psychic Scream] Limit int bonuses (#86182)
-* Make map::add_spawn private, replace last hardcoded call (#86176)
-* NPC needs: BT evaluates for all NPCs, add follow and goto goals (#86172)
