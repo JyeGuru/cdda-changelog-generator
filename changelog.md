@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-09-0009 ([147be83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0009))
+
 * Shiny farthing and other coins can coin flip ([#86321](https://github.com/CleverRaven/Cataclysm-DDA/pull/86321))
 * Fix faction-hostile NPCs sleeping instead of fighting ([#86316](https://github.com/CleverRaven/Cataclysm-DDA/pull/86316))
 
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-04-05-2056 ([41b36b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-2056))
 
 * Ortho tint: alpha-masked silhouette rendering with batching ([#86248](https://github.com/CleverRaven/Cataclysm-DDA/pull/86248))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-05-1519 ([9681c8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-05-1519))
-
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) ([#86265](https://github.com/CleverRaven/Cataclysm-DDA/pull/86265))
 * Enable NPC mop tool fetching for zone mopping activity ([#86257](https://github.com/CleverRaven/Cataclysm-DDA/pull/86257))
 * Exclude personal zones from NPC zone sorting ([#86254](https://github.com/CleverRaven/Cataclysm-DDA/pull/86254))

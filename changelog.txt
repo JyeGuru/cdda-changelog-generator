@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-09-0009 (147be83)
 * Shiny farthing and other coins can coin flip (#86321)
 * Fix faction-hostile NPCs sleeping instead of fighting (#86316)
 
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2026-04-05-2231 (7c28b19)
 
 Cataclysm-DDA experimental build 2026-04-05-2056 (41b36b7)
 * Ortho tint: alpha-masked silhouette rendering with batching (#86248)
-
-Cataclysm-DDA experimental build 2026-04-05-1519 (9681c8f)
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) (#86265)
 * Enable NPC mop tool fetching for zone mopping activity (#86257)
 * Exclude personal zones from NPC zone sorting (#86254)
