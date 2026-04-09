@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-09-2003 ([dc545bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-2003))
+
 * [Bombastic Perks] Ascetic Empowerment fix ([#86315](https://github.com/CleverRaven/Cataclysm-DDA/pull/86315))
 
 ---
@@ -163,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-04-06-1845 ([518bc88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-1845))
 
 * Fix personal zone drift during item sorting ([#86284](https://github.com/CleverRaven/Cataclysm-DDA/pull/86284))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-06-1119 ([c5f21c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-1119))
-
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
 * Remove dumb gun cheese ([#86232](https://github.com/CleverRaven/Cataclysm-DDA/pull/86232))
 * NPC needs: executor system with BT integration ([#86243](https://github.com/CleverRaven/Cataclysm-DDA/pull/86243))

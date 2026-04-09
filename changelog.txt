@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-09-2003 (dc545bc)
 * [Bombastic Perks] Ascetic Empowerment fix (#86315)
 
 Cataclysm-DDA experimental build 2026-04-09-0547 (fa4903a)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2026-04-06-1933 (c8c98ba)
 
 Cataclysm-DDA experimental build 2026-04-06-1845 (518bc88)
 * Fix personal zone drift during item sorting (#86284)
-
-Cataclysm-DDA experimental build 2026-04-06-1119 (c5f21c9)
 * Weekly Changelog 2026-03-30 to 2026-04-06 (#86285)
 * Remove dumb gun cheese (#86232)
 * NPC needs: executor system with BT integration (#86243)
