@@ -175,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-04-06-0933 ([fee2966](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0933))
 
 * NPC needs: executor system with BT integration ([#86243](https://github.com/CleverRaven/Cataclysm-DDA/pull/86243))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-06-0609 ([eeef43b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-0609))
-
 * [Magiclysm] Add a way to craft everburning candle ([#86224](https://github.com/CleverRaven/Cataclysm-DDA/pull/86224))
 * Improve expanded component view in new ImGui Crafting Menu ([#86273](https://github.com/CleverRaven/Cataclysm-DDA/pull/86273))
 * Add 'GLARE' tool quality to lowered PAPR Welding Mask. ([#86223](https://github.com/CleverRaven/Cataclysm-DDA/pull/86223))
