@@ -1,3 +1,12 @@
+* Add VI key navigation to menus that are missing them ([#86366](https://github.com/CleverRaven/Cataclysm-DDA/pull/86366))
+* Add newspaper snippets: predictive policing, brain drain, zombie videos, secret facility ([#86353](https://github.com/CleverRaven/Cataclysm-DDA/pull/86353))
+* [Xedra Evolved] Homullus' Golem ([#86372](https://github.com/CleverRaven/Cataclysm-DDA/pull/86372))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-10-2332 ([2c7eda7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-2332))
+
+* Mirror monster fire nerfs on the player side ([#86393](https://github.com/CleverRaven/Cataclysm-DDA/pull/86393))
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
 
 ---
@@ -183,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-04-07-0845 ([0c2bbed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0845))
 
 * Smart watch link_up CTD fix ([#86301](https://github.com/CleverRaven/Cataclysm-DDA/pull/86301))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-0703 ([3ca14c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0703))
-
 * Stop Rubik from borging up the anti-borg PCs ([#86256](https://github.com/CleverRaven/Cataclysm-DDA/pull/86256))
 * [MOM] Add "all" as an allowed bodypart for encumbrance_modifier enchant and apply to Enhanced Mobility effect ([#86297](https://github.com/CleverRaven/Cataclysm-DDA/pull/86297))
 * Fix per-turn inventory rebuild for step recipe proficiency checks ([#86277](https://github.com/CleverRaven/Cataclysm-DDA/pull/86277))
@@ -217,7 +221,6 @@
 * Allow creatures to ascend regular stairs ([#86262](https://github.com/CleverRaven/Cataclysm-DDA/pull/86262))
 * Give rural church `"existing": true` in its overmap connections ([#86239](https://github.com/CleverRaven/Cataclysm-DDA/pull/86239))
 * Fix NPC footstep sfx ([#86249](https://github.com/CleverRaven/Cataclysm-DDA/pull/86249))
-* [ Aftershock ] Small fixes to bionic operator  ([#86217](https://github.com/CleverRaven/Cataclysm-DDA/pull/86217))
 * Fix animated tileset sprites freezing during idle ([#86244](https://github.com/CleverRaven/Cataclysm-DDA/pull/86244))
 * `random` → `RANDOM` ([#86233](https://github.com/CleverRaven/Cataclysm-DDA/pull/86233))
 * Fix faction ui column width in curses build ([#86238](https://github.com/CleverRaven/Cataclysm-DDA/pull/86238))
@@ -228,6 +231,3 @@
 * You remember what was your weight when you weighted the last time ([#86222](https://github.com/CleverRaven/Cataclysm-DDA/pull/86222))
 * Fix npc_test for Windows.h compatibility ([#86230](https://github.com/CleverRaven/Cataclysm-DDA/pull/86230))
 * Added motorbike batteries to scompact_tandem_2wheel_hboard and _stow ([#86229](https://github.com/CleverRaven/Cataclysm-DDA/pull/86229))
-* Hub 01 loading screen ([#86218](https://github.com/CleverRaven/Cataclysm-DDA/pull/86218))
-* Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
-* Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
