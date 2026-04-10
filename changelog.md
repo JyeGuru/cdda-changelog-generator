@@ -1,3 +1,20 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-10-0513 ([4efd95e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-0513))
+
+* Aftershock: Add a reactor outlet to the spaceship ([#86350](https://github.com/CleverRaven/Cataclysm-DDA/pull/86350))
+* Fix Artifact Mutation ability ([#86333](https://github.com/CleverRaven/Cataclysm-DDA/pull/86333))
+* Add pocket info to Crafting UI ([#86344](https://github.com/CleverRaven/Cataclysm-DDA/pull/86344))
+* Wrap remaining SDL2 calls behind abstraction layer for SDL3 dual support ([#86362](https://github.com/CleverRaven/Cataclysm-DDA/pull/86362))
+* Fix "Tell someone to work on" assigning wrong NPC ([#86363](https://github.com/CleverRaven/Cataclysm-DDA/pull/86363))
+* Scaling cold/flu sleepiness to character using enchants ([#86369](https://github.com/CleverRaven/Cataclysm-DDA/pull/86369))
+* Zoom persist fix on initial load ([#86373](https://github.com/CleverRaven/Cataclysm-DDA/pull/86373))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-10-0433 ([55b7089](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-0433))
+
 * Fix restock time display for Hub 01 intercom ([#86365](https://github.com/CleverRaven/Cataclysm-DDA/pull/86365))
 * [Magiclysm] Add Druid spell caster_conditions ([#86368](https://github.com/CleverRaven/Cataclysm-DDA/pull/86368))
 * Fix camp NPC oscillation on expansion tiles ([#86364](https://github.com/CleverRaven/Cataclysm-DDA/pull/86364))
@@ -164,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-04-07-0204 ([a7a87ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0204))
 
 * Snippets in loading screen + minor refactor of loading ui ([#86275](https://github.com/CleverRaven/Cataclysm-DDA/pull/86275))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-0020 ([64c4d87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0020))
-
 * Fix starting TCL mutants not being able to unmute themselves ([#86294](https://github.com/CleverRaven/Cataclysm-DDA/pull/86294))
 * Create parse_shopkeeper_whitelist for string extractor ([#86290](https://github.com/CleverRaven/Cataclysm-DDA/pull/86290))
 * Inner cabins, cellar depths: enemies ([#86289](https://github.com/CleverRaven/Cataclysm-DDA/pull/86289))
@@ -200,24 +212,16 @@
 * Fix faction ui column width in curses build ([#86238](https://github.com/CleverRaven/Cataclysm-DDA/pull/86238))
 * Obsolete blade traps ([#86231](https://github.com/CleverRaven/Cataclysm-DDA/pull/86231))
 * No more uncomfortable limbs you don't have ([#86228](https://github.com/CleverRaven/Cataclysm-DDA/pull/86228))
-* Highlands: Imperial Road and ruins ([#86200](https://github.com/CleverRaven/Cataclysm-DDA/pull/86200))
 * bugfix and balance speedydex perk ([#86219](https://github.com/CleverRaven/Cataclysm-DDA/pull/86219))
 * [BPerks/MM/Sorc] XP mods can level up more than once at a time ([#86220](https://github.com/CleverRaven/Cataclysm-DDA/pull/86220))
 * You remember what was your weight when you weighted the last time ([#86222](https://github.com/CleverRaven/Cataclysm-DDA/pull/86222))
 * Fix npc_test for Windows.h compatibility ([#86230](https://github.com/CleverRaven/Cataclysm-DDA/pull/86230))
 * Added motorbike batteries to scompact_tandem_2wheel_hboard and _stow ([#86229](https://github.com/CleverRaven/Cataclysm-DDA/pull/86229))
-* Make factions radio-contactable ([#86195](https://github.com/CleverRaven/Cataclysm-DDA/pull/86195))
-* [Magiclysm] Everburning candle ([#86203](https://github.com/CleverRaven/Cataclysm-DDA/pull/86203))
 * String Dimension: KÁ facility ([#86206](https://github.com/CleverRaven/Cataclysm-DDA/pull/86206))
-* Give access to an item's pre and post apocalypse price to EOCs ([#86204](https://github.com/CleverRaven/Cataclysm-DDA/pull/86204))
-* [Aftershock] Removal bio solar ([#86199](https://github.com/CleverRaven/Cataclysm-DDA/pull/86199))
 * Hub 01 loading screen ([#86218](https://github.com/CleverRaven/Cataclysm-DDA/pull/86218))
 * Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
 * Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
-* Inner cabins, cellar depths: locations to get Interstice mutagen ([#86202](https://github.com/CleverRaven/Cataclysm-DDA/pull/86202))
 * remove healthy ticks from stomach soothers ([#86209](https://github.com/CleverRaven/Cataclysm-DDA/pull/86209))
 * Fix crafting GUI: byproduct flicker, i18n string, warning layout ([#86207](https://github.com/CleverRaven/Cataclysm-DDA/pull/86207))
 * Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
-* Add NO_TURRET flag to test_multimag_gun ([#86196](https://github.com/CleverRaven/Cataclysm-DDA/pull/86196))
-* [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
