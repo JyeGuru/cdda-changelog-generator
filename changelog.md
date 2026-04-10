@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-10-2131 ([b6fe5bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-2131))
+
+* Turn broad paws into a limb ([#86374](https://github.com/CleverRaven/Cataclysm-DDA/pull/86374))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-10-1550 ([c194ccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1550))
 
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-04-07-0703 ([3ca14c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0703))
 
 * Stop Rubik from borging up the anti-borg PCs ([#86256](https://github.com/CleverRaven/Cataclysm-DDA/pull/86256))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-0608 ([308aef3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0608))
-
 * [MOM] Add "all" as an allowed bodypart for encumbrance_modifier enchant and apply to Enhanced Mobility effect ([#86297](https://github.com/CleverRaven/Cataclysm-DDA/pull/86297))
 * Fix per-turn inventory rebuild for step recipe proficiency checks ([#86277](https://github.com/CleverRaven/Cataclysm-DDA/pull/86277))
 * Snippets in loading screen + minor refactor of loading ui ([#86275](https://github.com/CleverRaven/Cataclysm-DDA/pull/86275))
