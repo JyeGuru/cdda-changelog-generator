@@ -1,3 +1,4 @@
+* Fix msvc solution. (#86394)
 
 Cataclysm-DDA experimental build 2026-04-10-2131 (b6fe5bd)
 * Turn broad paws into a limb (#86374)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-04-07-0703 (3ca14c3)
 * Hub 01 loading screen (#86218)
 * Fix starting profession maps being unreadable (#86215)
 * Fix crafting GUI starting craft after Batch then Esc (#86214)
-* Fix hit-animation overlay persisting after idle-lightmap skip (#86211)
