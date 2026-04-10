@@ -1,3 +1,19 @@
+* Fix restock time display for Hub 01 intercom ([#86365](https://github.com/CleverRaven/Cataclysm-DDA/pull/86365))
+* [Magiclysm] Add Druid spell caster_conditions ([#86368](https://github.com/CleverRaven/Cataclysm-DDA/pull/86368))
+* Fix camp NPC oscillation on expansion tiles ([#86364](https://github.com/CleverRaven/Cataclysm-DDA/pull/86364))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-10-0352 ([a9eb22e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-0352))
+
+* Skip pre-rasterized 1.5x font when CJK glyphs are enabled ([#86367](https://github.com/CleverRaven/Cataclysm-DDA/pull/86367))
+* More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-10-0250 ([c6bc665](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-0250))
+
+* Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
 
 ---
 
@@ -156,17 +172,7 @@
 * Fix starting TCL mutants not being able to unmute themselves ([#86294](https://github.com/CleverRaven/Cataclysm-DDA/pull/86294))
 * Create parse_shopkeeper_whitelist for string extractor ([#86290](https://github.com/CleverRaven/Cataclysm-DDA/pull/86290))
 * Inner cabins, cellar depths: enemies ([#86289](https://github.com/CleverRaven/Cataclysm-DDA/pull/86289))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-06-1933 ([c8c98ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-1933))
-
 * [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-06-1845 ([518bc88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-06-1845))
-
 * Fix personal zone drift during item sorting ([#86284](https://github.com/CleverRaven/Cataclysm-DDA/pull/86284))
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
 * Remove dumb gun cheese ([#86232](https://github.com/CleverRaven/Cataclysm-DDA/pull/86232))
@@ -213,11 +219,5 @@
 * remove healthy ticks from stomach soothers ([#86209](https://github.com/CleverRaven/Cataclysm-DDA/pull/86209))
 * Fix crafting GUI: byproduct flicker, i18n string, warning layout ([#86207](https://github.com/CleverRaven/Cataclysm-DDA/pull/86207))
 * Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
-* Add quick setup eoc and force it to execute during quick setup ([#86188](https://github.com/CleverRaven/Cataclysm-DDA/pull/86188))
 * Add NO_TURRET flag to test_multimag_gun ([#86196](https://github.com/CleverRaven/Cataclysm-DDA/pull/86196))
 * [Sky Island] Minor fixes ([#86197](https://github.com/CleverRaven/Cataclysm-DDA/pull/86197))
-* utility tunnel ruins in the string dimension ([#86187](https://github.com/CleverRaven/Cataclysm-DDA/pull/86187))
-* languorous spectre will only send you to the inner cabins once ([#86189](https://github.com/CleverRaven/Cataclysm-DDA/pull/86189))
-* Remove single-magazine assumptions in item_contents ([#86190](https://github.com/CleverRaven/Cataclysm-DDA/pull/86190))
-* Fix crafting GUI navigation: layered escape, space toggle, dual selection ([#86193](https://github.com/CleverRaven/Cataclysm-DDA/pull/86193))
-* Show component counts and sort available first in crafting GUI ([#86191](https://github.com/CleverRaven/Cataclysm-DDA/pull/86191))
