@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-10-1550 ([c194ccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1550))
+
+* Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-10-1504 ([40b4f82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1504))
+
 * Add instructions and files for building inside Visual Studio Code (Windows) ([#86347](https://github.com/CleverRaven/Cataclysm-DDA/pull/86347))
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
 
@@ -177,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-04-07-0608 ([308aef3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0608))
 
 * [MOM] Add "all" as an allowed bodypart for encumbrance_modifier enchant and apply to Enhanced Mobility effect ([#86297](https://github.com/CleverRaven/Cataclysm-DDA/pull/86297))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-0244 ([8afc5db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0244))
-
 * Fix per-turn inventory rebuild for step recipe proficiency checks ([#86277](https://github.com/CleverRaven/Cataclysm-DDA/pull/86277))
 * Snippets in loading screen + minor refactor of loading ui ([#86275](https://github.com/CleverRaven/Cataclysm-DDA/pull/86275))
 * Fix starting TCL mutants not being able to unmute themselves ([#86294](https://github.com/CleverRaven/Cataclysm-DDA/pull/86294))
@@ -224,4 +230,3 @@
 * Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
 * Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
-* remove healthy ticks from stomach soothers ([#86209](https://github.com/CleverRaven/Cataclysm-DDA/pull/86209))
