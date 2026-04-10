@@ -1,3 +1,11 @@
+* Add instructions and files for building inside Visual Studio Code (Windows) ([#86347](https://github.com/CleverRaven/Cataclysm-DDA/pull/86347))
+* Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-10-1322 ([15bdac3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1322))
+
+* [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
 
 ---
 
@@ -175,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-04-07-0244 ([8afc5db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0244))
 
 * Fix per-turn inventory rebuild for step recipe proficiency checks ([#86277](https://github.com/CleverRaven/Cataclysm-DDA/pull/86277))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-0204 ([a7a87ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0204))
-
 * Snippets in loading screen + minor refactor of loading ui ([#86275](https://github.com/CleverRaven/Cataclysm-DDA/pull/86275))
 * Fix starting TCL mutants not being able to unmute themselves ([#86294](https://github.com/CleverRaven/Cataclysm-DDA/pull/86294))
 * Create parse_shopkeeper_whitelist for string extractor ([#86290](https://github.com/CleverRaven/Cataclysm-DDA/pull/86290))
@@ -217,11 +220,8 @@
 * You remember what was your weight when you weighted the last time ([#86222](https://github.com/CleverRaven/Cataclysm-DDA/pull/86222))
 * Fix npc_test for Windows.h compatibility ([#86230](https://github.com/CleverRaven/Cataclysm-DDA/pull/86230))
 * Added motorbike batteries to scompact_tandem_2wheel_hboard and _stow ([#86229](https://github.com/CleverRaven/Cataclysm-DDA/pull/86229))
-* String Dimension: KÁ facility ([#86206](https://github.com/CleverRaven/Cataclysm-DDA/pull/86206))
 * Hub 01 loading screen ([#86218](https://github.com/CleverRaven/Cataclysm-DDA/pull/86218))
 * Fix starting profession maps being unreadable ([#86215](https://github.com/CleverRaven/Cataclysm-DDA/pull/86215))
 * Fix crafting GUI starting craft after Batch then Esc ([#86214](https://github.com/CleverRaven/Cataclysm-DDA/pull/86214))
 * Fix hit-animation overlay persisting after idle-lightmap skip ([#86211](https://github.com/CleverRaven/Cataclysm-DDA/pull/86211))
 * remove healthy ticks from stomach soothers ([#86209](https://github.com/CleverRaven/Cataclysm-DDA/pull/86209))
-* Fix crafting GUI: byproduct flicker, i18n string, warning layout ([#86207](https://github.com/CleverRaven/Cataclysm-DDA/pull/86207))
-* Revert "Starting Scenario: Evacuation Bus Driver" ([#86208](https://github.com/CleverRaven/Cataclysm-DDA/pull/86208))
