@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-11-1535 ([86e92fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1535))
+
+* [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-11-1421 ([7ee7a75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1421))
 
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-04-07-1606 ([7d4caf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-1606))
 
 * update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-1520 ([89a8ede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-1520))
-
 * remove `emit_clairvoyant` from pallid masters ([#86309](https://github.com/CleverRaven/Cataclysm-DDA/pull/86309))
 * adding NBSP into pinyin search ([#86305](https://github.com/CleverRaven/Cataclysm-DDA/pull/86305))
 * Fixes for XE CI ([#86302](https://github.com/CleverRaven/Cataclysm-DDA/pull/86302))
@@ -203,7 +204,6 @@
 * NPC needs: executor system with BT integration ([#86243](https://github.com/CleverRaven/Cataclysm-DDA/pull/86243))
 * [Magiclysm] Add a way to craft everburning candle ([#86224](https://github.com/CleverRaven/Cataclysm-DDA/pull/86224))
 * Improve expanded component view in new ImGui Crafting Menu ([#86273](https://github.com/CleverRaven/Cataclysm-DDA/pull/86273))
-* Add 'GLARE' tool quality to lowered PAPR Welding Mask. ([#86223](https://github.com/CleverRaven/Cataclysm-DDA/pull/86223))
 * [Sky Island] Blacklist evacuation flyer ([#86280](https://github.com/CleverRaven/Cataclysm-DDA/pull/86280))
 * Remember crafting details panel state between sessions ([#86276](https://github.com/CleverRaven/Cataclysm-DDA/pull/86276))
 * [Sky Island] Require the player to examine the statue to receive warp shards ([#86282](https://github.com/CleverRaven/Cataclysm-DDA/pull/86282))
