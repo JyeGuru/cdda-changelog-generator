@@ -103,8 +103,6 @@ Cataclysm-DDA experimental build 2026-04-07-1520 (89a8ede)
 
 Cataclysm-DDA experimental build 2026-04-07-1308 (2418755)
 * adding NBSP into pinyin search (#86305)
-
-Cataclysm-DDA experimental build 2026-04-07-0940 (f1fe85b)
 * Fixes for XE CI (#86302)
 * Fix #85931 (#86303)
 * Crafting UI: List missing required proficiencies (#86291)
