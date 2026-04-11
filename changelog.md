@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-11-0029 ([9e1b745](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-0029))
+
+* Remove ESP knowledge of map extras ([#86334](https://github.com/CleverRaven/Cataclysm-DDA/pull/86334))
 * Add VI key navigation to menus that are missing them ([#86366](https://github.com/CleverRaven/Cataclysm-DDA/pull/86366))
 * Add newspaper snippets: predictive policing, brain drain, zombie videos, secret facility ([#86353](https://github.com/CleverRaven/Cataclysm-DDA/pull/86353))
 * [Xedra Evolved] Homullus' Golem ([#86372](https://github.com/CleverRaven/Cataclysm-DDA/pull/86372))
@@ -186,11 +192,6 @@
 * Fixes for XE CI ([#86302](https://github.com/CleverRaven/Cataclysm-DDA/pull/86302))
 * Fix #85931 ([#86303](https://github.com/CleverRaven/Cataclysm-DDA/pull/86303))
 * Crafting UI: List missing required proficiencies ([#86291](https://github.com/CleverRaven/Cataclysm-DDA/pull/86291))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-0845 ([0c2bbed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-0845))
-
 * Smart watch link_up CTD fix ([#86301](https://github.com/CleverRaven/Cataclysm-DDA/pull/86301))
 * Stop Rubik from borging up the anti-borg PCs ([#86256](https://github.com/CleverRaven/Cataclysm-DDA/pull/86256))
 * [MOM] Add "all" as an allowed bodypart for encumbrance_modifier enchant and apply to Enhanced Mobility effect ([#86297](https://github.com/CleverRaven/Cataclysm-DDA/pull/86297))
@@ -226,7 +227,6 @@
 * Fix faction ui column width in curses build ([#86238](https://github.com/CleverRaven/Cataclysm-DDA/pull/86238))
 * Obsolete blade traps ([#86231](https://github.com/CleverRaven/Cataclysm-DDA/pull/86231))
 * No more uncomfortable limbs you don't have ([#86228](https://github.com/CleverRaven/Cataclysm-DDA/pull/86228))
-* bugfix and balance speedydex perk ([#86219](https://github.com/CleverRaven/Cataclysm-DDA/pull/86219))
 * [BPerks/MM/Sorc] XP mods can level up more than once at a time ([#86220](https://github.com/CleverRaven/Cataclysm-DDA/pull/86220))
 * You remember what was your weight when you weighted the last time ([#86222](https://github.com/CleverRaven/Cataclysm-DDA/pull/86222))
 * Fix npc_test for Windows.h compatibility ([#86230](https://github.com/CleverRaven/Cataclysm-DDA/pull/86230))
