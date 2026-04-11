@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-11-1640 (88d2011)
+* [Sky Island] Remove warp obelisk from bunker entrance upgrade (#86385)
+
 Cataclysm-DDA experimental build 2026-04-11-1535 (86e92fa)
 * [Sky Island] Add lapin to no spawn list for expeditions (#86402)
 
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2026-04-07-2033 (bfc11e2)
 
 Cataclysm-DDA experimental build 2026-04-07-1902 (37b54db)
 * Fix NPC infinite loop with NO_NPC_FOOD mod (#86308)
-
-Cataclysm-DDA experimental build 2026-04-07-1606 (7d4caf2)
 * update `material` field with `portion` for various items I've touched/contributed (#86310)
 * remove `emit_clairvoyant` from pallid masters (#86309)
 * adding NBSP into pinyin search (#86305)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2026-04-07-1606 (7d4caf2)
 * Weekly Changelog 2026-03-30 to 2026-04-06 (#86285)
 * Remove dumb gun cheese (#86232)
 * NPC needs: executor system with BT integration (#86243)
-* [Magiclysm] Add a way to craft everburning candle (#86224)
 * Improve expanded component view in new ImGui Crafting Menu (#86273)
 * [Sky Island] Blacklist evacuation flyer (#86280)
 * Remember crafting details panel state between sessions (#86276)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-11-1640 ([88d2011](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1640))
+
+* [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-11-1535 ([86e92fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1535))
 
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-04-07-1902 ([37b54db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-1902))
 
 * Fix NPC infinite loop with NO_NPC_FOOD mod ([#86308](https://github.com/CleverRaven/Cataclysm-DDA/pull/86308))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-1606 ([7d4caf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-1606))
-
 * update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
 * remove `emit_clairvoyant` from pallid masters ([#86309](https://github.com/CleverRaven/Cataclysm-DDA/pull/86309))
 * adding NBSP into pinyin search ([#86305](https://github.com/CleverRaven/Cataclysm-DDA/pull/86305))
@@ -202,7 +203,6 @@
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
 * Remove dumb gun cheese ([#86232](https://github.com/CleverRaven/Cataclysm-DDA/pull/86232))
 * NPC needs: executor system with BT integration ([#86243](https://github.com/CleverRaven/Cataclysm-DDA/pull/86243))
-* [Magiclysm] Add a way to craft everburning candle ([#86224](https://github.com/CleverRaven/Cataclysm-DDA/pull/86224))
 * Improve expanded component view in new ImGui Crafting Menu ([#86273](https://github.com/CleverRaven/Cataclysm-DDA/pull/86273))
 * [Sky Island] Blacklist evacuation flyer ([#86280](https://github.com/CleverRaven/Cataclysm-DDA/pull/86280))
 * Remember crafting details panel state between sessions ([#86276](https://github.com/CleverRaven/Cataclysm-DDA/pull/86276))
