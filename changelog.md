@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-11-2307 ([55637c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-2307))
+
+* Reduce damage from harmful_cough ([#86409](https://github.com/CleverRaven/Cataclysm-DDA/pull/86409))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-11-1939 ([7f76713](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1939))
 
 * Who am I? The CI dem sugar! ([#86381](https://github.com/CleverRaven/Cataclysm-DDA/pull/86381))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-04-08-0354 ([46e8f28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-0354))
 
 * Add `fertilize_plant` spell effect ([#86251](https://github.com/CleverRaven/Cataclysm-DDA/pull/86251))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-07-2033 ([bfc11e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-07-2033))
-
 * fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
 * Fix NPC infinite loop with NO_NPC_FOOD mod ([#86308](https://github.com/CleverRaven/Cataclysm-DDA/pull/86308))
 * update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
@@ -222,4 +223,3 @@
 * Fix animated tileset sprites freezing during idle ([#86244](https://github.com/CleverRaven/Cataclysm-DDA/pull/86244))
 * `random` → `RANDOM` ([#86233](https://github.com/CleverRaven/Cataclysm-DDA/pull/86233))
 * Fix faction ui column width in curses build ([#86238](https://github.com/CleverRaven/Cataclysm-DDA/pull/86238))
-* Obsolete blade traps ([#86231](https://github.com/CleverRaven/Cataclysm-DDA/pull/86231))

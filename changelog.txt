@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-11-2307 (55637c4)
+* Reduce damage from harmful_cough (#86409)
+
 Cataclysm-DDA experimental build 2026-04-11-1939 (7f76713)
 * Who am I? The CI dem sugar! (#86381)
 
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2026-04-08-1312 (9f14b7d)
 
 Cataclysm-DDA experimental build 2026-04-08-0354 (46e8f28)
 * Add `fertilize_plant` spell effect (#86251)
-
-Cataclysm-DDA experimental build 2026-04-07-2033 (bfc11e2)
 * fix typo in `INTERSTICEHEARING` (#86311)
 * Fix NPC infinite loop with NO_NPC_FOOD mod (#86308)
 * update `material` field with `portion` for various items I've touched/contributed (#86310)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2026-04-07-2033 (bfc11e2)
 * Fix animated tileset sprites freezing during idle (#86244)
 * `random` → `RANDOM` (#86233)
 * Fix faction ui column width in curses build (#86238)
-* Obsolete blade traps (#86231)
