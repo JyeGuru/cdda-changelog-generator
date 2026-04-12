@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-12-2117 ([ec91cf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-12-2117))
+
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
 * Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
 
@@ -180,11 +185,6 @@
 * Remove unused 2x scaled ImGui font to reduce atlas size ([#86337](https://github.com/CleverRaven/Cataclysm-DDA/pull/86337))
 * Overmap zoom level persistence ([#86338](https://github.com/CleverRaven/Cataclysm-DDA/pull/86338))
 * Grammar Fix in XE spells ([#86339](https://github.com/CleverRaven/Cataclysm-DDA/pull/86339))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-08-1312 ([9f14b7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-1312))
-
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
 * Add `fertilize_plant` spell effect ([#86251](https://github.com/CleverRaven/Cataclysm-DDA/pull/86251))
 * fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
