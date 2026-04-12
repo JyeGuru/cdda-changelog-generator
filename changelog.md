@@ -203,7 +203,6 @@
 * [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
 * Fix personal zone drift during item sorting ([#86284](https://github.com/CleverRaven/Cataclysm-DDA/pull/86284))
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
-* Remove dumb gun cheese ([#86232](https://github.com/CleverRaven/Cataclysm-DDA/pull/86232))
 * NPC needs: executor system with BT integration ([#86243](https://github.com/CleverRaven/Cataclysm-DDA/pull/86243))
 * Improve expanded component view in new ImGui Crafting Menu ([#86273](https://github.com/CleverRaven/Cataclysm-DDA/pull/86273))
 * [Sky Island] Blacklist evacuation flyer ([#86280](https://github.com/CleverRaven/Cataclysm-DDA/pull/86280))
