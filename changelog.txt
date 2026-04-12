@@ -1,3 +1,8 @@
+* [Mind over Matter] Coagulation fix (#86439)
+* Npcs dont freeze to death with NPC needs disabled (#86417)
+
+Cataclysm-DDA experimental build 2026-04-12-2014 (d122276)
+* Fix bug in gun mag/ammo inventory color (#86400)
 
 Cataclysm-DDA experimental build 2026-04-11-2307 (55637c4)
 * Reduce damage from harmful_cough (#86409)
@@ -100,8 +105,6 @@ Cataclysm-DDA experimental build 2026-04-08-1402 (d94071c)
 
 Cataclysm-DDA experimental build 2026-04-08-1312 (9f14b7d)
 * Fixed break_stick return values (#86348)
-
-Cataclysm-DDA experimental build 2026-04-08-0354 (46e8f28)
 * Add `fertilize_plant` spell effect (#86251)
 * fix typo in `INTERSTICEHEARING` (#86311)
 * Fix NPC infinite loop with NO_NPC_FOOD mod (#86308)
@@ -136,7 +139,5 @@ Cataclysm-DDA experimental build 2026-04-08-0354 (46e8f28)
 * ambient mutation in inner cabins cellar depths is slower and more obvious (#86245)
 * Fix null ammo_data dereferences in NPC reload and turret code (#86253)
 * Allow creatures to ascend regular stairs (#86262)
-* Give rural church `"existing": true` in its overmap connections (#86239)
 * Fix NPC footstep sfx (#86249)
 * Fix animated tileset sprites freezing during idle (#86244)
-* Fix faction ui column width in curses build (#86238)

@@ -1,3 +1,11 @@
+* [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
+* Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-12-2014 ([d122276](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-12-2014))
+
+* Fix bug in gun mag/ammo inventory color ([#86400](https://github.com/CleverRaven/Cataclysm-DDA/pull/86400))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-04-08-1312 ([9f14b7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-1312))
 
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-08-0354 ([46e8f28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-0354))
-
 * Add `fertilize_plant` spell effect ([#86251](https://github.com/CleverRaven/Cataclysm-DDA/pull/86251))
 * fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
 * Fix NPC infinite loop with NO_NPC_FOOD mod ([#86308](https://github.com/CleverRaven/Cataclysm-DDA/pull/86308))
@@ -217,7 +220,5 @@
 * ambient mutation in inner cabins cellar depths is slower and more obvious ([#86245](https://github.com/CleverRaven/Cataclysm-DDA/pull/86245))
 * Fix null ammo_data dereferences in NPC reload and turret code ([#86253](https://github.com/CleverRaven/Cataclysm-DDA/pull/86253))
 * Allow creatures to ascend regular stairs ([#86262](https://github.com/CleverRaven/Cataclysm-DDA/pull/86262))
-* Give rural church `"existing": true` in its overmap connections ([#86239](https://github.com/CleverRaven/Cataclysm-DDA/pull/86239))
 * Fix NPC footstep sfx ([#86249](https://github.com/CleverRaven/Cataclysm-DDA/pull/86249))
 * Fix animated tileset sprites freezing during idle ([#86244](https://github.com/CleverRaven/Cataclysm-DDA/pull/86244))
-* Fix faction ui column width in curses build ([#86238](https://github.com/CleverRaven/Cataclysm-DDA/pull/86238))
