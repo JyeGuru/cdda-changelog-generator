@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-04-13-0421 ([dbc68e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-13-0421))
+
+* [0.I] Tileset backport ([#86412](https://github.com/CleverRaven/Cataclysm-DDA/pull/86412))
+* [Aftershock] Document esper lore ([#86432](https://github.com/CleverRaven/Cataclysm-DDA/pull/86432))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-13-0417 ([201b6d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-0417))
+
+* Aftershock: Basic data salvaging system. ([#86434](https://github.com/CleverRaven/Cataclysm-DDA/pull/86434))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-13-0059 ([e03a6a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-0059))
 
 * Exodii drop pods and ponds are visible from afar ([#86423](https://github.com/CleverRaven/Cataclysm-DDA/pull/86423))
@@ -166,17 +179,7 @@
 
 * [MoM] Mention Psychic Scream in MoM help files ([#86324](https://github.com/CleverRaven/Cataclysm-DDA/pull/86324))
 * add `LEARNING_FOCUS` mallus to `INTERSTICE_MIND` ([#86312](https://github.com/CleverRaven/Cataclysm-DDA/pull/86312))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-09-0122 ([5919656](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0122))
-
 * Fix drystone and brick roof terrain ([#86274](https://github.com/CleverRaven/Cataclysm-DDA/pull/86274))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-09-0009 ([147be83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0009))
-
 * Shiny farthing and other coins can coin flip ([#86321](https://github.com/CleverRaven/Cataclysm-DDA/pull/86321))
 * Fix faction-hostile NPCs sleeping instead of fighting ([#86316](https://github.com/CleverRaven/Cataclysm-DDA/pull/86316))
 * [Sky Island] Fix Merchant Stall variable ([#86332](https://github.com/CleverRaven/Cataclysm-DDA/pull/86332))
@@ -214,11 +217,8 @@
 * [Sky Island] Require the player to examine the statue to receive warp shards ([#86282](https://github.com/CleverRaven/Cataclysm-DDA/pull/86282))
 * Give `trunk` vehiclepart the `FURNITURE_TIEDOWN` flag ([#86272](https://github.com/CleverRaven/Cataclysm-DDA/pull/86272))
 * [MoM] Fix teleporter matrix crystal drops ([#86271](https://github.com/CleverRaven/Cataclysm-DDA/pull/86271))
-* Ortho tint: alpha-masked silhouette rendering with batching ([#86248](https://github.com/CleverRaven/Cataclysm-DDA/pull/86248))
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) ([#86265](https://github.com/CleverRaven/Cataclysm-DDA/pull/86265))
 * Enable NPC mop tool fetching for zone mopping activity ([#86257](https://github.com/CleverRaven/Cataclysm-DDA/pull/86257))
 * Exclude personal zones from NPC zone sorting ([#86254](https://github.com/CleverRaven/Cataclysm-DDA/pull/86254))
-* ambient mutation in inner cabins cellar depths is slower and more obvious ([#86245](https://github.com/CleverRaven/Cataclysm-DDA/pull/86245))
 * Fix null ammo_data dereferences in NPC reload and turret code ([#86253](https://github.com/CleverRaven/Cataclysm-DDA/pull/86253))
 * Allow creatures to ascend regular stairs ([#86262](https://github.com/CleverRaven/Cataclysm-DDA/pull/86262))
-* Fix NPC footstep sfx ([#86249](https://github.com/CleverRaven/Cataclysm-DDA/pull/86249))
