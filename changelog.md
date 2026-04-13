@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.I release candidate 2026-04-13-0421 ([dbc68e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-13-0421))
 
 * [0.I] Tileset backport ([#86412](https://github.com/CleverRaven/Cataclysm-DDA/pull/86412))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-13-0531 ([14dd9cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-0531))
+
 * [Aftershock] Document esper lore ([#86432](https://github.com/CleverRaven/Cataclysm-DDA/pull/86432))
 
 ---
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-04-09-0314 ([461e6d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0314))
 
 * Autonotes for berry bush patches ([#86330](https://github.com/CleverRaven/Cataclysm-DDA/pull/86330))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-09-0203 ([80caf89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0203))
-
 * [MoM] Mention Psychic Scream in MoM help files ([#86324](https://github.com/CleverRaven/Cataclysm-DDA/pull/86324))
 * add `LEARNING_FOCUS` mallus to `INTERSTICE_MIND` ([#86312](https://github.com/CleverRaven/Cataclysm-DDA/pull/86312))
 * Fix drystone and brick roof terrain ([#86274](https://github.com/CleverRaven/Cataclysm-DDA/pull/86274))
