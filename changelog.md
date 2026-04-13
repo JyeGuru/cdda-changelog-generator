@@ -1,3 +1,12 @@
+* Weekly Changelog 2026-04-06 to 2026-04-13 ([#86445](https://github.com/CleverRaven/Cataclysm-DDA/pull/86445))
+* [MoM] Fix melee damage bonuses ([#86444](https://github.com/CleverRaven/Cataclysm-DDA/pull/86444))
+* Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-04-13-2020 ([3623ed1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-13-2020))
+
+* [0.I] Prune and prepare Changelog ([#86436](https://github.com/CleverRaven/Cataclysm-DDA/pull/86436))
 
 ---
 
@@ -172,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-04-09-0455 ([cd9293a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0455))
 
 * Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-09-0354 ([68fc00a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0354))
-
 * [MoM] Replace Intelligence/Nether Attunement calculations with `psionic_power_modifiers()` jmath (effects only) ([#86296](https://github.com/CleverRaven/Cataclysm-DDA/pull/86296))
 * Autonotes for berry bush patches ([#86330](https://github.com/CleverRaven/Cataclysm-DDA/pull/86330))
 * [MoM] Mention Psychic Scream in MoM help files ([#86324](https://github.com/CleverRaven/Cataclysm-DDA/pull/86324))
@@ -202,7 +206,6 @@
 * Fix #85931 ([#86303](https://github.com/CleverRaven/Cataclysm-DDA/pull/86303))
 * Crafting UI: List missing required proficiencies ([#86291](https://github.com/CleverRaven/Cataclysm-DDA/pull/86291))
 * Smart watch link_up CTD fix ([#86301](https://github.com/CleverRaven/Cataclysm-DDA/pull/86301))
-* Stop Rubik from borging up the anti-borg PCs ([#86256](https://github.com/CleverRaven/Cataclysm-DDA/pull/86256))
 * [MOM] Add "all" as an allowed bodypart for encumbrance_modifier enchant and apply to Enhanced Mobility effect ([#86297](https://github.com/CleverRaven/Cataclysm-DDA/pull/86297))
 * Fix per-turn inventory rebuild for step recipe proficiency checks ([#86277](https://github.com/CleverRaven/Cataclysm-DDA/pull/86277))
 * Snippets in loading screen + minor refactor of loading ui ([#86275](https://github.com/CleverRaven/Cataclysm-DDA/pull/86275))
@@ -219,6 +222,3 @@
 * Give `trunk` vehiclepart the `FURNITURE_TIEDOWN` flag ([#86272](https://github.com/CleverRaven/Cataclysm-DDA/pull/86272))
 * [MoM] Fix teleporter matrix crystal drops ([#86271](https://github.com/CleverRaven/Cataclysm-DDA/pull/86271))
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) ([#86265](https://github.com/CleverRaven/Cataclysm-DDA/pull/86265))
-* Enable NPC mop tool fetching for zone mopping activity ([#86257](https://github.com/CleverRaven/Cataclysm-DDA/pull/86257))
-* Exclude personal zones from NPC zone sorting ([#86254](https://github.com/CleverRaven/Cataclysm-DDA/pull/86254))
-* Allow creatures to ascend regular stairs ([#86262](https://github.com/CleverRaven/Cataclysm-DDA/pull/86262))
