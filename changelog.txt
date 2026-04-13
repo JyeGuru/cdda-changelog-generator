@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-04-13-1304 (a518665)
+* Highlight yield amount in crafting UI (#86416)
 * Add myself to the bug review (#86450)
 
 Cataclysm-DDA 0.I release candidate 2026-04-13-0421 (dbc68e7)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-04-09-0455 (cd9293a)
 
 Cataclysm-DDA experimental build 2026-04-09-0354 (68fc00a)
 * [MoM] Replace Intelligence/Nether Attunement calculations with `psionic_power_modifiers()` jmath (effects only) (#86296)
-
-Cataclysm-DDA experimental build 2026-04-09-0314 (461e6d8)
 * Autonotes for berry bush patches (#86330)
 * [MoM] Mention Psychic Scream in MoM help files (#86324)
 * add `LEARNING_FOCUS` mallus to `INTERSTICE_MIND` (#86312)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2026-04-09-0314 (461e6d8)
 * Add pre-rasterized scaled GUI fonts (1.5x, 2x) (#86265)
 * Enable NPC mop tool fetching for zone mopping activity (#86257)
 * Exclude personal zones from NPC zone sorting (#86254)
-* Fix null ammo_data dereferences in NPC reload and turret code (#86253)
 * Allow creatures to ascend regular stairs (#86262)
