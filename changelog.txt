@@ -1,5 +1,10 @@
+* Remove fire fields from library mapgen (#86392)
 * Weekly Changelog 2026-04-06 to 2026-04-13 (#86445)
+
+Cataclysm-DDA experimental build 2026-04-13-2045 (f96eeee)
 * [MoM] Fix melee damage bonuses (#86444)
+
+Cataclysm-DDA 0.I release candidate 2026-04-13-2055 (e0880e4)
 * Various sunken heli fixes and adjustments (#86451)
 
 Cataclysm-DDA 0.I release candidate 2026-04-13-2020 (3623ed1)
@@ -92,13 +97,9 @@ Cataclysm-DDA experimental build 2026-04-10-0250 (c6bc665)
 
 Cataclysm-DDA experimental build 2026-04-09-2003 (dc545bc)
 * [Bombastic Perks] Ascetic Empowerment fix (#86315)
-
-Cataclysm-DDA experimental build 2026-04-09-0547 (fa4903a)
 * Bionics UI: Don't assign hotkeys that are menu navigation keys (#86317)
 * Spellcasting UI: Don't assign hotkeys that are menu navigation keys (#86288)
 * [Magiclysm] Convert Seed of Growth to `fertilize_plant` effect (#86270)
-
-Cataclysm-DDA experimental build 2026-04-09-0455 (cd9293a)
 * Further tweak post-threshold interstitial mutations (#86340)
 * [MoM] Replace Intelligence/Nether Attunement calculations with `psionic_power_modifiers()` jmath (effects only) (#86296)
 * Autonotes for berry bush patches (#86330)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2026-04-09-0455 (cd9293a)
 * [Sky Island] Require the player to examine the statue to receive warp shards (#86282)
 * Give `trunk` vehiclepart the `FURNITURE_TIEDOWN` flag (#86272)
 * [MoM] Fix teleporter matrix crystal drops (#86271)
-* Add pre-rasterized scaled GUI fonts (1.5x, 2x) (#86265)

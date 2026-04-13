@@ -1,5 +1,16 @@
+* Remove fire fields from library mapgen ([#86392](https://github.com/CleverRaven/Cataclysm-DDA/pull/86392))
 * Weekly Changelog 2026-04-06 to 2026-04-13 ([#86445](https://github.com/CleverRaven/Cataclysm-DDA/pull/86445))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-13-2045 ([f96eeee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-2045))
+
 * [MoM] Fix melee damage bonuses ([#86444](https://github.com/CleverRaven/Cataclysm-DDA/pull/86444))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-04-13-2055 ([e0880e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-13-2055))
+
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
 
 ---
@@ -167,19 +178,9 @@
 #### Cataclysm-DDA experimental build 2026-04-09-2003 ([dc545bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-2003))
 
 * [Bombastic Perks] Ascetic Empowerment fix ([#86315](https://github.com/CleverRaven/Cataclysm-DDA/pull/86315))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-09-0547 ([fa4903a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0547))
-
 * Bionics UI: Don't assign hotkeys that are menu navigation keys ([#86317](https://github.com/CleverRaven/Cataclysm-DDA/pull/86317))
 * Spellcasting UI: Don't assign hotkeys that are menu navigation keys ([#86288](https://github.com/CleverRaven/Cataclysm-DDA/pull/86288))
 * [Magiclysm] Convert Seed of Growth to `fertilize_plant` effect ([#86270](https://github.com/CleverRaven/Cataclysm-DDA/pull/86270))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-09-0455 ([cd9293a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-09-0455))
-
 * Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
 * [MoM] Replace Intelligence/Nether Attunement calculations with `psionic_power_modifiers()` jmath (effects only) ([#86296](https://github.com/CleverRaven/Cataclysm-DDA/pull/86296))
 * Autonotes for berry bush patches ([#86330](https://github.com/CleverRaven/Cataclysm-DDA/pull/86330))
@@ -221,4 +222,3 @@
 * [Sky Island] Require the player to examine the statue to receive warp shards ([#86282](https://github.com/CleverRaven/Cataclysm-DDA/pull/86282))
 * Give `trunk` vehiclepart the `FURNITURE_TIEDOWN` flag ([#86272](https://github.com/CleverRaven/Cataclysm-DDA/pull/86272))
 * [MoM] Fix teleporter matrix crystal drops ([#86271](https://github.com/CleverRaven/Cataclysm-DDA/pull/86271))
-* Add pre-rasterized scaled GUI fonts (1.5x, 2x) ([#86265](https://github.com/CleverRaven/Cataclysm-DDA/pull/86265))
