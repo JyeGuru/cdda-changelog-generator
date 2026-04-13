@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-13-0059 ([e03a6a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-0059))
+
+* Exodii drop pods and ponds are visible from afar ([#86423](https://github.com/CleverRaven/Cataclysm-DDA/pull/86423))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-12-2354 ([a86a11c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-12-2354))
+
+* Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-12-2117 ([ec91cf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-12-2117))
 
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
@@ -167,18 +179,8 @@
 
 * Shiny farthing and other coins can coin flip ([#86321](https://github.com/CleverRaven/Cataclysm-DDA/pull/86321))
 * Fix faction-hostile NPCs sleeping instead of fighting ([#86316](https://github.com/CleverRaven/Cataclysm-DDA/pull/86316))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-08-2328 ([7ad923a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-2328))
-
 * [Sky Island] Fix Merchant Stall variable ([#86332](https://github.com/CleverRaven/Cataclysm-DDA/pull/86332))
 * add sorcerer to auto-labels for pull requests ([#86326](https://github.com/CleverRaven/Cataclysm-DDA/pull/86326))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-08-1402 ([d94071c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-08-1402))
-
 * Tile fallback fixes ([#86335](https://github.com/CleverRaven/Cataclysm-DDA/pull/86335))
 * Fix nuts and bolts spawning when adv_panel is taken down ([#86329](https://github.com/CleverRaven/Cataclysm-DDA/pull/86329))
 * Fix speedway copy-from ([#86343](https://github.com/CleverRaven/Cataclysm-DDA/pull/86343))
@@ -206,7 +208,6 @@
 * [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
 * Fix personal zone drift during item sorting ([#86284](https://github.com/CleverRaven/Cataclysm-DDA/pull/86284))
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
-* NPC needs: executor system with BT integration ([#86243](https://github.com/CleverRaven/Cataclysm-DDA/pull/86243))
 * Improve expanded component view in new ImGui Crafting Menu ([#86273](https://github.com/CleverRaven/Cataclysm-DDA/pull/86273))
 * [Sky Island] Blacklist evacuation flyer ([#86280](https://github.com/CleverRaven/Cataclysm-DDA/pull/86280))
 * Remember crafting details panel state between sessions ([#86276](https://github.com/CleverRaven/Cataclysm-DDA/pull/86276))
@@ -221,4 +222,3 @@
 * Fix null ammo_data dereferences in NPC reload and turret code ([#86253](https://github.com/CleverRaven/Cataclysm-DDA/pull/86253))
 * Allow creatures to ascend regular stairs ([#86262](https://github.com/CleverRaven/Cataclysm-DDA/pull/86262))
 * Fix NPC footstep sfx ([#86249](https://github.com/CleverRaven/Cataclysm-DDA/pull/86249))
-* Fix animated tileset sprites freezing during idle ([#86244](https://github.com/CleverRaven/Cataclysm-DDA/pull/86244))
