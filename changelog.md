@@ -1,3 +1,4 @@
+* Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
 
 ---
 
@@ -191,7 +192,6 @@
 * Overmap zoom level persistence ([#86338](https://github.com/CleverRaven/Cataclysm-DDA/pull/86338))
 * Grammar Fix in XE spells ([#86339](https://github.com/CleverRaven/Cataclysm-DDA/pull/86339))
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
-* Add `fertilize_plant` spell effect ([#86251](https://github.com/CleverRaven/Cataclysm-DDA/pull/86251))
 * fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
 * Fix NPC infinite loop with NO_NPC_FOOD mod ([#86308](https://github.com/CleverRaven/Cataclysm-DDA/pull/86308))
 * update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))

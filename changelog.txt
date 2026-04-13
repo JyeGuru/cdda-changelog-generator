@@ -1,3 +1,4 @@
+* Add myself to the bug review (#86450)
 
 Cataclysm-DDA 0.I release candidate 2026-04-13-0421 (dbc68e7)
 * [0.I] Tileset backport (#86412)
@@ -110,7 +111,6 @@ Cataclysm-DDA experimental build 2026-04-09-0314 (461e6d8)
 * Overmap zoom level persistence (#86338)
 * Grammar Fix in XE spells (#86339)
 * Fixed break_stick return values (#86348)
-* Add `fertilize_plant` spell effect (#86251)
 * fix typo in `INTERSTICEHEARING` (#86311)
 * Fix NPC infinite loop with NO_NPC_FOOD mod (#86308)
 * update `material` field with `portion` for various items I've touched/contributed (#86310)
