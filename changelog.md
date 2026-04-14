@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-14-2250 ([c828f5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-2250))
+
+* Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-14-1947 ([3e59826](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-1947))
 
 * Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-04-10-1550 ([c194ccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1550))
 
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-10-1504 ([40b4f82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1504))
-
 * Add instructions and files for building inside Visual Studio Code (Windows) ([#86347](https://github.com/CleverRaven/Cataclysm-DDA/pull/86347))
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
@@ -199,7 +200,6 @@
 * Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
 * [Bombastic Perks] Ascetic Empowerment fix ([#86315](https://github.com/CleverRaven/Cataclysm-DDA/pull/86315))
 * Bionics UI: Don't assign hotkeys that are menu navigation keys ([#86317](https://github.com/CleverRaven/Cataclysm-DDA/pull/86317))
-* Spellcasting UI: Don't assign hotkeys that are menu navigation keys ([#86288](https://github.com/CleverRaven/Cataclysm-DDA/pull/86288))
 * Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
 * [MoM] Replace Intelligence/Nether Attunement calculations with `psionic_power_modifiers()` jmath (effects only) ([#86296](https://github.com/CleverRaven/Cataclysm-DDA/pull/86296))
 * Autonotes for berry bush patches ([#86330](https://github.com/CleverRaven/Cataclysm-DDA/pull/86330))
