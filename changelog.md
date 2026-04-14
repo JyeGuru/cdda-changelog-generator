@@ -231,4 +231,3 @@
 * [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
 * Fix personal zone drift during item sorting ([#86284](https://github.com/CleverRaven/Cataclysm-DDA/pull/86284))
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
-* [Sky Island] Require the player to examine the statue to receive warp shards ([#86282](https://github.com/CleverRaven/Cataclysm-DDA/pull/86282))
