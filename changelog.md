@@ -1,3 +1,23 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-14-0526 ([f3e4463](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0526))
+
+* Fix monster attacking through terrain with TFLAG_SWIM_UNDER ([#86390](https://github.com/CleverRaven/Cataclysm-DDA/pull/86390))
+* Text edits for CBMs ([#86405](https://github.com/CleverRaven/Cataclysm-DDA/pull/86405))
+* Make certain map extras visible from afar by default ([#86407](https://github.com/CleverRaven/Cataclysm-DDA/pull/86407))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-14-0445 ([90dd09b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0445))
+
+* Document f_pickup_items ([#86452](https://github.com/CleverRaven/Cataclysm-DDA/pull/86452))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-14-0405 ([98128d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0405))
+
+* [Magiclysm] Add steps to crystallized mana recipe ([#86459](https://github.com/CleverRaven/Cataclysm-DDA/pull/86459))
 * Add hair dyes alongside hair dye kits in supermarkets ([#86453](https://github.com/CleverRaven/Cataclysm-DDA/pull/86453))
 
 ---
@@ -163,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-04-10-1322 ([15bdac3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1322))
 
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-10-0513 ([4efd95e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-0513))
-
 * Aftershock: Add a reactor outlet to the spaceship ([#86350](https://github.com/CleverRaven/Cataclysm-DDA/pull/86350))
 * Fix Artifact Mutation ability ([#86333](https://github.com/CleverRaven/Cataclysm-DDA/pull/86333))
 * Add pocket info to Crafting UI ([#86344](https://github.com/CleverRaven/Cataclysm-DDA/pull/86344))
@@ -175,19 +190,9 @@
 * Fix "Tell someone to work on" assigning wrong NPC ([#86363](https://github.com/CleverRaven/Cataclysm-DDA/pull/86363))
 * Scaling cold/flu sleepiness to character using enchants ([#86369](https://github.com/CleverRaven/Cataclysm-DDA/pull/86369))
 * Zoom persist fix on initial load ([#86373](https://github.com/CleverRaven/Cataclysm-DDA/pull/86373))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-10-0433 ([55b7089](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-0433))
-
 * Fix restock time display for Hub 01 intercom ([#86365](https://github.com/CleverRaven/Cataclysm-DDA/pull/86365))
 * [Magiclysm] Add Druid spell caster_conditions ([#86368](https://github.com/CleverRaven/Cataclysm-DDA/pull/86368))
 * Fix camp NPC oscillation on expansion tiles ([#86364](https://github.com/CleverRaven/Cataclysm-DDA/pull/86364))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-10-0352 ([a9eb22e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-0352))
-
 * Skip pre-rasterized 1.5x font when CJK glyphs are enabled ([#86367](https://github.com/CleverRaven/Cataclysm-DDA/pull/86367))
 * More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
 * Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
@@ -199,7 +204,6 @@
 * Autonotes for berry bush patches ([#86330](https://github.com/CleverRaven/Cataclysm-DDA/pull/86330))
 * [MoM] Mention Psychic Scream in MoM help files ([#86324](https://github.com/CleverRaven/Cataclysm-DDA/pull/86324))
 * add `LEARNING_FOCUS` mallus to `INTERSTICE_MIND` ([#86312](https://github.com/CleverRaven/Cataclysm-DDA/pull/86312))
-* Fix drystone and brick roof terrain ([#86274](https://github.com/CleverRaven/Cataclysm-DDA/pull/86274))
 * Shiny farthing and other coins can coin flip ([#86321](https://github.com/CleverRaven/Cataclysm-DDA/pull/86321))
 * Fix faction-hostile NPCs sleeping instead of fighting ([#86316](https://github.com/CleverRaven/Cataclysm-DDA/pull/86316))
 * [Sky Island] Fix Merchant Stall variable ([#86332](https://github.com/CleverRaven/Cataclysm-DDA/pull/86332))
@@ -221,14 +225,10 @@
 * Crafting UI: List missing required proficiencies ([#86291](https://github.com/CleverRaven/Cataclysm-DDA/pull/86291))
 * Smart watch link_up CTD fix ([#86301](https://github.com/CleverRaven/Cataclysm-DDA/pull/86301))
 * [MOM] Add "all" as an allowed bodypart for encumbrance_modifier enchant and apply to Enhanced Mobility effect ([#86297](https://github.com/CleverRaven/Cataclysm-DDA/pull/86297))
-* Fix per-turn inventory rebuild for step recipe proficiency checks ([#86277](https://github.com/CleverRaven/Cataclysm-DDA/pull/86277))
-* Snippets in loading screen + minor refactor of loading ui ([#86275](https://github.com/CleverRaven/Cataclysm-DDA/pull/86275))
 * Fix starting TCL mutants not being able to unmute themselves ([#86294](https://github.com/CleverRaven/Cataclysm-DDA/pull/86294))
 * Create parse_shopkeeper_whitelist for string extractor ([#86290](https://github.com/CleverRaven/Cataclysm-DDA/pull/86290))
 * Inner cabins, cellar depths: enemies ([#86289](https://github.com/CleverRaven/Cataclysm-DDA/pull/86289))
 * [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
 * Fix personal zone drift during item sorting ([#86284](https://github.com/CleverRaven/Cataclysm-DDA/pull/86284))
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
-* [Sky Island] Blacklist evacuation flyer ([#86280](https://github.com/CleverRaven/Cataclysm-DDA/pull/86280))
-* Remember crafting details panel state between sessions ([#86276](https://github.com/CleverRaven/Cataclysm-DDA/pull/86276))
 * [Sky Island] Require the player to examine the statue to receive warp shards ([#86282](https://github.com/CleverRaven/Cataclysm-DDA/pull/86282))
