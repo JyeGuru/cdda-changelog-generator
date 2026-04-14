@@ -1,3 +1,10 @@
+* [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-13-2350 ([a704f7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-2350))
+
+* [Xedra Evolved] Fix Homullus city strider ([#86352](https://github.com/CleverRaven/Cataclysm-DDA/pull/86352))
 
 ---
 
@@ -185,7 +192,6 @@
 * [Bombastic Perks] Ascetic Empowerment fix ([#86315](https://github.com/CleverRaven/Cataclysm-DDA/pull/86315))
 * Bionics UI: Don't assign hotkeys that are menu navigation keys ([#86317](https://github.com/CleverRaven/Cataclysm-DDA/pull/86317))
 * Spellcasting UI: Don't assign hotkeys that are menu navigation keys ([#86288](https://github.com/CleverRaven/Cataclysm-DDA/pull/86288))
-* [Magiclysm] Convert Seed of Growth to `fertilize_plant` effect ([#86270](https://github.com/CleverRaven/Cataclysm-DDA/pull/86270))
 * Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
 * [MoM] Replace Intelligence/Nether Attunement calculations with `psionic_power_modifiers()` jmath (effects only) ([#86296](https://github.com/CleverRaven/Cataclysm-DDA/pull/86296))
 * Autonotes for berry bush patches ([#86330](https://github.com/CleverRaven/Cataclysm-DDA/pull/86330))
