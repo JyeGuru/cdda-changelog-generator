@@ -229,5 +229,4 @@
 * Create parse_shopkeeper_whitelist for string extractor ([#86290](https://github.com/CleverRaven/Cataclysm-DDA/pull/86290))
 * Inner cabins, cellar depths: enemies ([#86289](https://github.com/CleverRaven/Cataclysm-DDA/pull/86289))
 * [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
-* Fix personal zone drift during item sorting ([#86284](https://github.com/CleverRaven/Cataclysm-DDA/pull/86284))
 * Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
