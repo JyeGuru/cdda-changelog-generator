@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-14-1947 ([3e59826](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-1947))
+
+* Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-14-0526 ([f3e4463](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0526))
 
 * Fix monster attacking through terrain with TFLAG_SWIM_UNDER ([#86390](https://github.com/CleverRaven/Cataclysm-DDA/pull/86390))
@@ -177,11 +183,6 @@
 
 * Add instructions and files for building inside Visual Studio Code (Windows) ([#86347](https://github.com/CleverRaven/Cataclysm-DDA/pull/86347))
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-10-1322 ([15bdac3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1322))
-
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
 * Aftershock: Add a reactor outlet to the spaceship ([#86350](https://github.com/CleverRaven/Cataclysm-DDA/pull/86350))
 * Fix Artifact Mutation ability ([#86333](https://github.com/CleverRaven/Cataclysm-DDA/pull/86333))
@@ -229,4 +230,3 @@
 * Create parse_shopkeeper_whitelist for string extractor ([#86290](https://github.com/CleverRaven/Cataclysm-DDA/pull/86290))
 * Inner cabins, cellar depths: enemies ([#86289](https://github.com/CleverRaven/Cataclysm-DDA/pull/86289))
 * [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
-* Weekly Changelog 2026-03-30 to 2026-04-06 ([#86285](https://github.com/CleverRaven/Cataclysm-DDA/pull/86285))
