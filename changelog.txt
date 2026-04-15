@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-04-15-2325 (e29f47f)
+* [MoM] Modify power effectiveness based on weariness (#86446)
 * Fix minimap beacon colors not cycling during idle (#86508)
 
 Cataclysm-DDA experimental build 2026-04-15-2142 (cf614c0)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2026-04-13-0531 (14dd9cf)
 
 Cataclysm-DDA experimental build 2026-04-13-0417 (201b6d6)
 * Aftershock: Basic data salvaging system. (#86434)
-
-Cataclysm-DDA experimental build 2026-04-13-0059 (e03a6a8)
 * Exodii drop pods and ponds are visible from afar (#86423)
 * Fix under-alignment of small_literal_vector (#86440)
 * [Mind over Matter] Coagulation fix (#86439)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2026-04-13-0059 (e03a6a8)
 * More older ms compiler/sdk fixes. (#86377)
 * Fix use-after-free in NPC zone sort viewport restore (#86371)
 * Further tweak post-threshold interstitial mutations (#86340)
-* Tile fallback fixes (#86335)
 * Fix speedway copy-from (#86343)
 * Remove unused 2x scaled ImGui font to reduce atlas size (#86337)
 * Overmap zoom level persistence (#86338)
