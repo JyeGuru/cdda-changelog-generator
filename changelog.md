@@ -1,3 +1,4 @@
+* Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
 
 ---
 
@@ -206,7 +207,6 @@
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
-* Remove ESP knowledge of map extras ([#86334](https://github.com/CleverRaven/Cataclysm-DDA/pull/86334))
 * Add VI key navigation to menus that are missing them ([#86366](https://github.com/CleverRaven/Cataclysm-DDA/pull/86366))
 * Add newspaper snippets: predictive policing, brain drain, zombie videos, secret facility ([#86353](https://github.com/CleverRaven/Cataclysm-DDA/pull/86353))
 * [Xedra Evolved] Homullus' Golem ([#86372](https://github.com/CleverRaven/Cataclysm-DDA/pull/86372))

@@ -1,3 +1,4 @@
+* Fix minimap beacon colors not cycling during idle (#86508)
 
 Cataclysm-DDA experimental build 2026-04-15-2142 (cf614c0)
 * [XE] Add anti-shabriri hedge magic spell (#86462)
@@ -116,7 +117,6 @@ Cataclysm-DDA experimental build 2026-04-13-0059 (e03a6a8)
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade (#86385)
 * [Sky Island] Add lapin to no spawn list for expeditions (#86402)
 * Move some in-item `passive_effects` to defined enchantments (#86403)
-* Remove ESP knowledge of map extras (#86334)
 * Add VI key navigation to menus that are missing them (#86366)
 * Add newspaper snippets: predictive policing, brain drain, zombie videos, secret facility (#86353)
 * [Xedra Evolved] Homullus' Golem (#86372)
