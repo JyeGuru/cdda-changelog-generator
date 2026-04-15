@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-15-0825 ([d78e1f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0825))
+
 * Character creator UI: first-pass improvements ([#86487](https://github.com/CleverRaven/Cataclysm-DDA/pull/86487))
 * Winter wheat, a variety of wheat that can be grown... over winter. ([#86448](https://github.com/CleverRaven/Cataclysm-DDA/pull/86448))
 
