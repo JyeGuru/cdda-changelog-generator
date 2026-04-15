@@ -1,3 +1,19 @@
+* [CR] Add first stages of bullet penetration through multiple entities ([#86465](https://github.com/CleverRaven/Cataclysm-DDA/pull/86465))
+* [Magiclysm] Enhanced Magic Circle have effect on recipe steps ([#86467](https://github.com/CleverRaven/Cataclysm-DDA/pull/86467))
+* pathway outside reverb hint cabin is dirt not wood ([#86502](https://github.com/CleverRaven/Cataclysm-DDA/pull/86502))
+* Fix chain-spawned overmaps skipping unique special deck draws ([#86510](https://github.com/CleverRaven/Cataclysm-DDA/pull/86510))
+* Full copy-from support for overmap specials ([#86488](https://github.com/CleverRaven/Cataclysm-DDA/pull/86488))
+* Migrated everything involving the deminer bot to obsoletion ([#86511](https://github.com/CleverRaven/Cataclysm-DDA/pull/86511))
+* Use weighed not weighted in medical menu ([#86480](https://github.com/CleverRaven/Cataclysm-DDA/pull/86480))
+* Limbify Bulging Eyes ([#86493](https://github.com/CleverRaven/Cataclysm-DDA/pull/86493))
+* Removes direct cooked acorn recipe ([#86494](https://github.com/CleverRaven/Cataclysm-DDA/pull/86494))
+* Fix #86479 ([#86489](https://github.com/CleverRaven/Cataclysm-DDA/pull/86489))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-15-2005 ([10aeafb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-2005))
+
+* Fix the generic expressions for limbs in medical ui ([#86504](https://github.com/CleverRaven/Cataclysm-DDA/pull/86504))
 
 ---
 
@@ -181,11 +197,6 @@
 
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
 * Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-12-2014 ([d122276](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-12-2014))
-
 * Fix bug in gun mag/ammo inventory color ([#86400](https://github.com/CleverRaven/Cataclysm-DDA/pull/86400))
 * Reduce damage from harmful_cough ([#86409](https://github.com/CleverRaven/Cataclysm-DDA/pull/86409))
 * Who am I? The CI dem sugar! ([#86381](https://github.com/CleverRaven/Cataclysm-DDA/pull/86381))
@@ -216,22 +227,12 @@
 * Skip pre-rasterized 1.5x font when CJK glyphs are enabled ([#86367](https://github.com/CleverRaven/Cataclysm-DDA/pull/86367))
 * More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
 * Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
-* [Bombastic Perks] Ascetic Empowerment fix ([#86315](https://github.com/CleverRaven/Cataclysm-DDA/pull/86315))
-* Bionics UI: Don't assign hotkeys that are menu navigation keys ([#86317](https://github.com/CleverRaven/Cataclysm-DDA/pull/86317))
 * Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
 * Autonotes for berry bush patches ([#86330](https://github.com/CleverRaven/Cataclysm-DDA/pull/86330))
-* [MoM] Mention Psychic Scream in MoM help files ([#86324](https://github.com/CleverRaven/Cataclysm-DDA/pull/86324))
-* add `LEARNING_FOCUS` mallus to `INTERSTICE_MIND` ([#86312](https://github.com/CleverRaven/Cataclysm-DDA/pull/86312))
-* Shiny farthing and other coins can coin flip ([#86321](https://github.com/CleverRaven/Cataclysm-DDA/pull/86321))
-* Fix faction-hostile NPCs sleeping instead of fighting ([#86316](https://github.com/CleverRaven/Cataclysm-DDA/pull/86316))
 * [Sky Island] Fix Merchant Stall variable ([#86332](https://github.com/CleverRaven/Cataclysm-DDA/pull/86332))
-* add sorcerer to auto-labels for pull requests ([#86326](https://github.com/CleverRaven/Cataclysm-DDA/pull/86326))
 * Tile fallback fixes ([#86335](https://github.com/CleverRaven/Cataclysm-DDA/pull/86335))
-* Fix nuts and bolts spawning when adv_panel is taken down ([#86329](https://github.com/CleverRaven/Cataclysm-DDA/pull/86329))
 * Fix speedway copy-from ([#86343](https://github.com/CleverRaven/Cataclysm-DDA/pull/86343))
 * Remove unused 2x scaled ImGui font to reduce atlas size ([#86337](https://github.com/CleverRaven/Cataclysm-DDA/pull/86337))
 * Overmap zoom level persistence ([#86338](https://github.com/CleverRaven/Cataclysm-DDA/pull/86338))
 * Grammar Fix in XE spells ([#86339](https://github.com/CleverRaven/Cataclysm-DDA/pull/86339))
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
-* fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
-* update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
