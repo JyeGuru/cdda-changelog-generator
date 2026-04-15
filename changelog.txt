@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2026-04-15-1106 (4e52469)
+* Expose character gender to math/eoc (#86497)
+
 Cataclysm-DDA experimental build 2026-04-15-0825 (d78e1f2)
 * Character creator UI: first-pass improvements (#86487)
 * Winter wheat, a variety of wheat that can be grown... over winter. (#86448)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2026-04-11-1640 (88d2011)
 
 Cataclysm-DDA experimental build 2026-04-11-1535 (86e92fa)
 * [Sky Island] Add lapin to no spawn list for expeditions (#86402)
-
-Cataclysm-DDA experimental build 2026-04-11-1421 (7ee7a75)
 * Move some in-item `passive_effects` to defined enchantments (#86403)
 * Remove ESP knowledge of map extras (#86334)
 * Add VI key navigation to menus that are missing them (#86366)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-04-11-1421 (7ee7a75)
 * adding NBSP into pinyin search (#86305)
 * Fixes for XE CI (#86302)
 * Fix #85931 (#86303)
-* Smart watch link_up CTD fix (#86301)

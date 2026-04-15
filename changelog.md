@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-04-15-1106 ([4e52469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-15-1106))
+
+* Expose character gender to math/eoc ([#86497](https://github.com/CleverRaven/Cataclysm-DDA/pull/86497))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-15-0825 ([d78e1f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0825))
 
 * Character creator UI: first-pass improvements ([#86487](https://github.com/CleverRaven/Cataclysm-DDA/pull/86487))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-04-11-1535 ([86e92fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1535))
 
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-11-1421 ([7ee7a75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1421))
-
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
 * Remove ESP knowledge of map extras ([#86334](https://github.com/CleverRaven/Cataclysm-DDA/pull/86334))
 * Add VI key navigation to menus that are missing them ([#86366](https://github.com/CleverRaven/Cataclysm-DDA/pull/86366))
@@ -234,4 +235,3 @@
 * adding NBSP into pinyin search ([#86305](https://github.com/CleverRaven/Cataclysm-DDA/pull/86305))
 * Fixes for XE CI ([#86302](https://github.com/CleverRaven/Cataclysm-DDA/pull/86302))
 * Fix #85931 ([#86303](https://github.com/CleverRaven/Cataclysm-DDA/pull/86303))
-* Smart watch link_up CTD fix ([#86301](https://github.com/CleverRaven/Cataclysm-DDA/pull/86301))
