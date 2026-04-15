@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-15-1429 ([45048a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-1429))
+
+* Update robot.json (Wraitheon Fulgent Dissassembly-fix) [Aftershock] ([#86485](https://github.com/CleverRaven/Cataclysm-DDA/pull/86485))
 * Change Mangalpreet Singh's last name to Kaur to more accurately reflect Sikh traditions ([#86466](https://github.com/CleverRaven/Cataclysm-DDA/pull/86466))
 
 ---
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-04-11-2307 ([55637c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-2307))
 
 * Reduce damage from harmful_cough ([#86409](https://github.com/CleverRaven/Cataclysm-DDA/pull/86409))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-11-1939 ([7f76713](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1939))
-
 * Who am I? The CI dem sugar! ([#86381](https://github.com/CleverRaven/Cataclysm-DDA/pull/86381))
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
@@ -232,6 +233,5 @@
 * Grammar Fix in XE spells ([#86339](https://github.com/CleverRaven/Cataclysm-DDA/pull/86339))
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
 * fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
-* Fix NPC infinite loop with NO_NPC_FOOD mod ([#86308](https://github.com/CleverRaven/Cataclysm-DDA/pull/86308))
 * update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
 * remove `emit_clairvoyant` from pallid masters ([#86309](https://github.com/CleverRaven/Cataclysm-DDA/pull/86309))
