@@ -1,3 +1,17 @@
+* Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-15-0540 ([02e6717](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0540))
+
+* Aftershock: Rocket Pack Sprint ([#86419](https://github.com/CleverRaven/Cataclysm-DDA/pull/86419))
+* [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() ([#86456](https://github.com/CleverRaven/Cataclysm-DDA/pull/86456))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-15-0459 ([dc42aff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0459))
+
+* Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
 
 ---
 
@@ -170,17 +184,7 @@
 
 * Mirror monster fire nerfs on the player side ([#86393](https://github.com/CleverRaven/Cataclysm-DDA/pull/86393))
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-10-2131 ([b6fe5bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-2131))
-
 * Turn broad paws into a limb ([#86374](https://github.com/CleverRaven/Cataclysm-DDA/pull/86374))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-10-1550 ([c194ccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-10-1550))
-
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
 * Add instructions and files for building inside Visual Studio Code (Windows) ([#86347](https://github.com/CleverRaven/Cataclysm-DDA/pull/86347))
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
@@ -223,10 +227,6 @@
 * adding NBSP into pinyin search ([#86305](https://github.com/CleverRaven/Cataclysm-DDA/pull/86305))
 * Fixes for XE CI ([#86302](https://github.com/CleverRaven/Cataclysm-DDA/pull/86302))
 * Fix #85931 ([#86303](https://github.com/CleverRaven/Cataclysm-DDA/pull/86303))
-* Crafting UI: List missing required proficiencies ([#86291](https://github.com/CleverRaven/Cataclysm-DDA/pull/86291))
 * Smart watch link_up CTD fix ([#86301](https://github.com/CleverRaven/Cataclysm-DDA/pull/86301))
 * [MOM] Add "all" as an allowed bodypart for encumbrance_modifier enchant and apply to Enhanced Mobility effect ([#86297](https://github.com/CleverRaven/Cataclysm-DDA/pull/86297))
 * Fix starting TCL mutants not being able to unmute themselves ([#86294](https://github.com/CleverRaven/Cataclysm-DDA/pull/86294))
-* Create parse_shopkeeper_whitelist for string extractor ([#86290](https://github.com/CleverRaven/Cataclysm-DDA/pull/86290))
-* Inner cabins, cellar depths: enemies ([#86289](https://github.com/CleverRaven/Cataclysm-DDA/pull/86289))
-* [MoM] Set Loci Technique volume limit ([#86292](https://github.com/CleverRaven/Cataclysm-DDA/pull/86292))
