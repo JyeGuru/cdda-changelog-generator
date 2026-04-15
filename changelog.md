@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-15-1814 ([ebe53a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-1814))
+
+* Fix control reaches end of non-void function for old gcc versions ([#86490](https://github.com/CleverRaven/Cataclysm-DDA/pull/86490))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-15-1429 ([45048a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-1429))
 
 * Update robot.json (Wraitheon Fulgent Dissassembly-fix) [Aftershock] ([#86485](https://github.com/CleverRaven/Cataclysm-DDA/pull/86485))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-04-12-2014 ([d122276](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-12-2014))
 
 * Fix bug in gun mag/ammo inventory color ([#86400](https://github.com/CleverRaven/Cataclysm-DDA/pull/86400))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-11-2307 ([55637c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-2307))
-
 * Reduce damage from harmful_cough ([#86409](https://github.com/CleverRaven/Cataclysm-DDA/pull/86409))
 * Who am I? The CI dem sugar! ([#86381](https://github.com/CleverRaven/Cataclysm-DDA/pull/86381))
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
@@ -234,4 +235,3 @@
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
 * fix typo in `INTERSTICEHEARING` ([#86311](https://github.com/CleverRaven/Cataclysm-DDA/pull/86311))
 * update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
-* remove `emit_clairvoyant` from pallid masters ([#86309](https://github.com/CleverRaven/Cataclysm-DDA/pull/86309))
