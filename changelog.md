@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-15-2142 ([cf614c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-2142))
+
 * [XE] Add anti-shabriri hedge magic spell ([#86462](https://github.com/CleverRaven/Cataclysm-DDA/pull/86462))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-04-13-0059 ([e03a6a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-0059))
 
 * Exodii drop pods and ponds are visible from afar ([#86423](https://github.com/CleverRaven/Cataclysm-DDA/pull/86423))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-12-2354 ([a86a11c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-12-2354))
-
 * Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
 * Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
