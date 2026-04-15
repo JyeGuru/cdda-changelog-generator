@@ -1,3 +1,10 @@
+* Change Mangalpreet Singh's last name to Kaur to more accurately reflect Sikh traditions (#86466)
+
+Cataclysm-DDA experimental build 2026-04-15-1311 (883d129)
+* Fix camp smithy only allowing one anvil type (#86495)
+
+Cataclysm-DDA 0.I release candidate 2026-04-15-1311 (46730b6)
+* Update docs for gender in EOCs (#86500)
 
 Cataclysm-DDA 0.I release candidate 2026-04-15-1106 (4e52469)
 * Expose character gender to math/eoc (#86497)
@@ -90,11 +97,7 @@ Cataclysm-DDA experimental build 2026-04-11-2307 (55637c4)
 
 Cataclysm-DDA experimental build 2026-04-11-1939 (7f76713)
 * Who am I? The CI dem sugar! (#86381)
-
-Cataclysm-DDA experimental build 2026-04-11-1640 (88d2011)
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade (#86385)
-
-Cataclysm-DDA experimental build 2026-04-11-1535 (86e92fa)
 * [Sky Island] Add lapin to no spawn list for expeditions (#86402)
 * Move some in-item `passive_effects` to defined enchantments (#86403)
 * Remove ESP knowledge of map extras (#86334)
@@ -142,6 +145,3 @@ Cataclysm-DDA experimental build 2026-04-11-1535 (86e92fa)
 * Fix NPC infinite loop with NO_NPC_FOOD mod (#86308)
 * update `material` field with `portion` for various items I've touched/contributed (#86310)
 * remove `emit_clairvoyant` from pallid masters (#86309)
-* adding NBSP into pinyin search (#86305)
-* Fixes for XE CI (#86302)
-* Fix #85931 (#86303)

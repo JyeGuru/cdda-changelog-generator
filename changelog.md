@@ -1,3 +1,16 @@
+* Change Mangalpreet Singh's last name to Kaur to more accurately reflect Sikh traditions ([#86466](https://github.com/CleverRaven/Cataclysm-DDA/pull/86466))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-15-1311 ([883d129](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-1311))
+
+* Fix camp smithy only allowing one anvil type ([#86495](https://github.com/CleverRaven/Cataclysm-DDA/pull/86495))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-04-15-1311 ([46730b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-15-1311))
+
+* Update docs for gender in EOCs ([#86500](https://github.com/CleverRaven/Cataclysm-DDA/pull/86500))
 
 ---
 
@@ -174,17 +187,7 @@
 #### Cataclysm-DDA experimental build 2026-04-11-1939 ([7f76713](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1939))
 
 * Who am I? The CI dem sugar! ([#86381](https://github.com/CleverRaven/Cataclysm-DDA/pull/86381))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-11-1640 ([88d2011](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1640))
-
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-11-1535 ([86e92fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-11-1535))
-
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
 * Remove ESP knowledge of map extras ([#86334](https://github.com/CleverRaven/Cataclysm-DDA/pull/86334))
@@ -232,6 +235,3 @@
 * Fix NPC infinite loop with NO_NPC_FOOD mod ([#86308](https://github.com/CleverRaven/Cataclysm-DDA/pull/86308))
 * update `material` field with `portion` for various items I've touched/contributed ([#86310](https://github.com/CleverRaven/Cataclysm-DDA/pull/86310))
 * remove `emit_clairvoyant` from pallid masters ([#86309](https://github.com/CleverRaven/Cataclysm-DDA/pull/86309))
-* adding NBSP into pinyin search ([#86305](https://github.com/CleverRaven/Cataclysm-DDA/pull/86305))
-* Fixes for XE CI ([#86302](https://github.com/CleverRaven/Cataclysm-DDA/pull/86302))
-* Fix #85931 ([#86303](https://github.com/CleverRaven/Cataclysm-DDA/pull/86303))
