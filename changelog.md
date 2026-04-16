@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-16-0015 ([56da53f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-0015))
+
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
 
 ---
@@ -181,11 +186,6 @@
 
 * Highlight yield amount in crafting UI ([#86416](https://github.com/CleverRaven/Cataclysm-DDA/pull/86416))
 * Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-04-13-0421 ([dbc68e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-13-0421))
-
 * [0.I] Tileset backport ([#86412](https://github.com/CleverRaven/Cataclysm-DDA/pull/86412))
 
 ---

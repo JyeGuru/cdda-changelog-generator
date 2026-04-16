@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-16-0015 (56da53f)
 * Segfault fix: sort companion armor (#86507)
 
 Cataclysm-DDA experimental build 2026-04-15-2325 (e29f47f)
@@ -100,8 +102,6 @@ Cataclysm-DDA 0.I release candidate 2026-04-13-2020 (3623ed1)
 Cataclysm-DDA experimental build 2026-04-13-1304 (a518665)
 * Highlight yield amount in crafting UI (#86416)
 * Add myself to the bug review (#86450)
-
-Cataclysm-DDA 0.I release candidate 2026-04-13-0421 (dbc68e7)
 * [0.I] Tileset backport (#86412)
 
 Cataclysm-DDA experimental build 2026-04-13-0531 (14dd9cf)
