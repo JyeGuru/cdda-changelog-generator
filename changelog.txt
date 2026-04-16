@@ -1,3 +1,4 @@
+* Segfault fix: sort companion armor (#86507)
 
 Cataclysm-DDA experimental build 2026-04-15-2325 (e29f47f)
 * [MoM] Modify power effectiveness based on weariness (#86446)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2026-04-13-0417 (201b6d6)
 * Fix use-after-free in NPC zone sort viewport restore (#86371)
 * Further tweak post-threshold interstitial mutations (#86340)
 * Fix speedway copy-from (#86343)
-* Remove unused 2x scaled ImGui font to reduce atlas size (#86337)
 * Overmap zoom level persistence (#86338)
 * Grammar Fix in XE spells (#86339)
 * Fixed break_stick return values (#86348)

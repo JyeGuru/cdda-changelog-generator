@@ -1,3 +1,4 @@
+* Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
 
 ---
 
@@ -232,7 +233,6 @@
 * Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
 * Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
 * Fix speedway copy-from ([#86343](https://github.com/CleverRaven/Cataclysm-DDA/pull/86343))
-* Remove unused 2x scaled ImGui font to reduce atlas size ([#86337](https://github.com/CleverRaven/Cataclysm-DDA/pull/86337))
 * Overmap zoom level persistence ([#86338](https://github.com/CleverRaven/Cataclysm-DDA/pull/86338))
 * Grammar Fix in XE spells ([#86339](https://github.com/CleverRaven/Cataclysm-DDA/pull/86339))
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
