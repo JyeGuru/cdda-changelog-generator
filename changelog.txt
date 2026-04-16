@@ -1,3 +1,8 @@
+* Expand wheel faults, no invincible cart wheels (#86498)
+* Disable __COUNTER__ in Catch2 when building with clang (#86501)
+
+Cataclysm-DDA experimental build 2026-04-16-1404 (c98fd06)
+* Limbify Elf-A eyes, remove hardcoded night vision bonuses (#86517)
 
 Cataclysm-DDA experimental build 2026-04-16-1007 (fa95be5)
 * Clean up tips (#86454)
@@ -105,8 +110,6 @@ Cataclysm-DDA experimental build 2026-04-13-1304 (a518665)
 
 Cataclysm-DDA experimental build 2026-04-13-0531 (14dd9cf)
 * [Aftershock] Document esper lore (#86432)
-
-Cataclysm-DDA experimental build 2026-04-13-0417 (201b6d6)
 * Aftershock: Basic data salvaging system. (#86434)
 * Exodii drop pods and ponds are visible from afar (#86423)
 * Fix under-alignment of small_literal_vector (#86440)
@@ -140,7 +143,4 @@ Cataclysm-DDA experimental build 2026-04-13-0417 (201b6d6)
 * Skip pre-rasterized 1.5x font when CJK glyphs are enabled (#86367)
 * More older ms compiler/sdk fixes. (#86377)
 * Fix use-after-free in NPC zone sort viewport restore (#86371)
-* Further tweak post-threshold interstitial mutations (#86340)
-* Fix speedway copy-from (#86343)
-* Grammar Fix in XE spells (#86339)
 * Fixed break_stick return values (#86348)

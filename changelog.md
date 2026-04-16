@@ -1,3 +1,11 @@
+* Expand wheel faults, no invincible cart wheels ([#86498](https://github.com/CleverRaven/Cataclysm-DDA/pull/86498))
+* Disable __COUNTER__ in Catch2 when building with clang ([#86501](https://github.com/CleverRaven/Cataclysm-DDA/pull/86501))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-16-1404 ([c98fd06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1404))
+
+* Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
 
 ---
 
@@ -189,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-04-13-0531 ([14dd9cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-0531))
 
 * [Aftershock] Document esper lore ([#86432](https://github.com/CleverRaven/Cataclysm-DDA/pull/86432))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-13-0417 ([201b6d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-0417))
-
 * Aftershock: Basic data salvaging system. ([#86434](https://github.com/CleverRaven/Cataclysm-DDA/pull/86434))
 * Exodii drop pods and ponds are visible from afar ([#86423](https://github.com/CleverRaven/Cataclysm-DDA/pull/86423))
 * Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
@@ -227,7 +230,4 @@
 * Skip pre-rasterized 1.5x font when CJK glyphs are enabled ([#86367](https://github.com/CleverRaven/Cataclysm-DDA/pull/86367))
 * More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
 * Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
-* Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
-* Fix speedway copy-from ([#86343](https://github.com/CleverRaven/Cataclysm-DDA/pull/86343))
-* Grammar Fix in XE spells ([#86339](https://github.com/CleverRaven/Cataclysm-DDA/pull/86339))
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
