@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-16-1624 ([cdd6b7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1624))
+
+* [ Dinomod ] Dinomod need DinoStrength ([#86395](https://github.com/CleverRaven/Cataclysm-DDA/pull/86395))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-16-1459 ([30586b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1459))
 
 * Mutant meat is disgusting ([#86388](https://github.com/CleverRaven/Cataclysm-DDA/pull/86388))
@@ -189,11 +195,6 @@
 * [MoM] Fix melee damage bonuses ([#86444](https://github.com/CleverRaven/Cataclysm-DDA/pull/86444))
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
 * [0.I] Prune and prepare Changelog ([#86436](https://github.com/CleverRaven/Cataclysm-DDA/pull/86436))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-13-1304 ([a518665](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-1304))
-
 * Highlight yield amount in crafting UI ([#86416](https://github.com/CleverRaven/Cataclysm-DDA/pull/86416))
 * Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
 * [0.I] Tileset backport ([#86412](https://github.com/CleverRaven/Cataclysm-DDA/pull/86412))
