@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-16-1459 ([30586b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1459))
+
+* Mutant meat is disgusting ([#86388](https://github.com/CleverRaven/Cataclysm-DDA/pull/86388))
+* Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
+* Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
+* Fix Fueling noise occurence ([#86396](https://github.com/CleverRaven/Cataclysm-DDA/pull/86396))
+* reduce performance load of noncombatant perk ([#86426](https://github.com/CleverRaven/Cataclysm-DDA/pull/86426))
+* Fixing refugee center merc conversations ([#86421](https://github.com/CleverRaven/Cataclysm-DDA/pull/86421))
+* Add Dextrous Paws mutation, remove Paws from Rat ([#86506](https://github.com/CleverRaven/Cataclysm-DDA/pull/86506))
 * Expand wheel faults, no invincible cart wheels ([#86498](https://github.com/CleverRaven/Cataclysm-DDA/pull/86498))
 * Disable __COUNTER__ in Catch2 when building with clang ([#86501](https://github.com/CleverRaven/Cataclysm-DDA/pull/86501))
 
@@ -165,12 +177,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-04-13-2350 ([a704f7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-2350))
-
-* [Xedra Evolved] Fix Homullus city strider ([#86352](https://github.com/CleverRaven/Cataclysm-DDA/pull/86352))
-
----
-
 #### Cataclysm-DDA experimental build 2026-04-13-2236 ([429ba19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-2236))
 
 * Remove fire fields from library mapgen ([#86392](https://github.com/CleverRaven/Cataclysm-DDA/pull/86392))
@@ -191,11 +197,6 @@
 * Highlight yield amount in crafting UI ([#86416](https://github.com/CleverRaven/Cataclysm-DDA/pull/86416))
 * Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
 * [0.I] Tileset backport ([#86412](https://github.com/CleverRaven/Cataclysm-DDA/pull/86412))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-13-0531 ([14dd9cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-0531))
-
 * [Aftershock] Document esper lore ([#86432](https://github.com/CleverRaven/Cataclysm-DDA/pull/86432))
 * Aftershock: Basic data salvaging system. ([#86434](https://github.com/CleverRaven/Cataclysm-DDA/pull/86434))
 * Exodii drop pods and ponds are visible from afar ([#86423](https://github.com/CleverRaven/Cataclysm-DDA/pull/86423))
@@ -209,17 +210,13 @@
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
 * Add VI key navigation to menus that are missing them ([#86366](https://github.com/CleverRaven/Cataclysm-DDA/pull/86366))
-* Add newspaper snippets: predictive policing, brain drain, zombie videos, secret facility ([#86353](https://github.com/CleverRaven/Cataclysm-DDA/pull/86353))
 * [Xedra Evolved] Homullus' Golem ([#86372](https://github.com/CleverRaven/Cataclysm-DDA/pull/86372))
 * Mirror monster fire nerfs on the player side ([#86393](https://github.com/CleverRaven/Cataclysm-DDA/pull/86393))
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
 * Turn broad paws into a limb ([#86374](https://github.com/CleverRaven/Cataclysm-DDA/pull/86374))
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
-* Add instructions and files for building inside Visual Studio Code (Windows) ([#86347](https://github.com/CleverRaven/Cataclysm-DDA/pull/86347))
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
-* Aftershock: Add a reactor outlet to the spaceship ([#86350](https://github.com/CleverRaven/Cataclysm-DDA/pull/86350))
-* Add pocket info to Crafting UI ([#86344](https://github.com/CleverRaven/Cataclysm-DDA/pull/86344))
 * Wrap remaining SDL2 calls behind abstraction layer for SDL3 dual support ([#86362](https://github.com/CleverRaven/Cataclysm-DDA/pull/86362))
 * Fix "Tell someone to work on" assigning wrong NPC ([#86363](https://github.com/CleverRaven/Cataclysm-DDA/pull/86363))
 * Scaling cold/flu sleepiness to character using enchants ([#86369](https://github.com/CleverRaven/Cataclysm-DDA/pull/86369))
@@ -230,4 +227,3 @@
 * Skip pre-rasterized 1.5x font when CJK glyphs are enabled ([#86367](https://github.com/CleverRaven/Cataclysm-DDA/pull/86367))
 * More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
 * Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
-* Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))
