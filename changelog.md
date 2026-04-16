@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-16-1007 ([fa95be5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1007))
+
+* Clean up tips ([#86454](https://github.com/CleverRaven/Cataclysm-DDA/pull/86454))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-16-0015 ([56da53f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-0015))
 
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA 0.I release candidate 2026-04-13-2055 ([e0880e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-13-2055))
 
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-04-13-2020 ([3623ed1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-13-2020))
-
 * [0.I] Prune and prepare Changelog ([#86436](https://github.com/CleverRaven/Cataclysm-DDA/pull/86436))
 
 ---
@@ -233,6 +234,5 @@
 * Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
 * Further tweak post-threshold interstitial mutations ([#86340](https://github.com/CleverRaven/Cataclysm-DDA/pull/86340))
 * Fix speedway copy-from ([#86343](https://github.com/CleverRaven/Cataclysm-DDA/pull/86343))
-* Overmap zoom level persistence ([#86338](https://github.com/CleverRaven/Cataclysm-DDA/pull/86338))
 * Grammar Fix in XE spells ([#86339](https://github.com/CleverRaven/Cataclysm-DDA/pull/86339))
 * Fixed break_stick return values ([#86348](https://github.com/CleverRaven/Cataclysm-DDA/pull/86348))

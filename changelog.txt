@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-16-1007 (fa95be5)
+* Clean up tips (#86454)
+
 Cataclysm-DDA experimental build 2026-04-16-0015 (56da53f)
 * Segfault fix: sort companion armor (#86507)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2026-04-13-2045 (f96eeee)
 
 Cataclysm-DDA 0.I release candidate 2026-04-13-2055 (e0880e4)
 * Various sunken heli fixes and adjustments (#86451)
-
-Cataclysm-DDA 0.I release candidate 2026-04-13-2020 (3623ed1)
 * [0.I] Prune and prepare Changelog (#86436)
 
 Cataclysm-DDA experimental build 2026-04-13-1304 (a518665)
@@ -143,6 +144,5 @@ Cataclysm-DDA experimental build 2026-04-13-0417 (201b6d6)
 * Fix use-after-free in NPC zone sort viewport restore (#86371)
 * Further tweak post-threshold interstitial mutations (#86340)
 * Fix speedway copy-from (#86343)
-* Overmap zoom level persistence (#86338)
 * Grammar Fix in XE spells (#86339)
 * Fixed break_stick return values (#86348)
