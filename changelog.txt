@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-16-2101 (79d0f64)
+* Remove extra semicolon in newcharacter.cpp (#86531)
+
 Cataclysm-DDA experimental build 2026-04-16-1624 (cdd6b7f)
 * [ Dinomod ] Dinomod need DinoStrength (#86395)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2026-04-14-0050 (d50898f)
 Cataclysm-DDA experimental build 2026-04-13-2236 (429ba19)
 * Remove fire fields from library mapgen (#86392)
 * Weekly Changelog 2026-04-06 to 2026-04-13 (#86445)
-
-Cataclysm-DDA experimental build 2026-04-13-2045 (f96eeee)
 * [MoM] Fix melee damage bonuses (#86444)
 * Various sunken heli fixes and adjustments (#86451)
 * [0.I] Prune and prepare Changelog (#86436)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2026-04-13-2045 (f96eeee)
 * Fix drinking water from vehicle faucet (#86387)
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms (#86370)
 * [Sky Island] Force door placements in main room upgrades (#86384)
-* Wrap remaining SDL2 calls behind abstraction layer for SDL3 dual support (#86362)
 * Fix "Tell someone to work on" assigning wrong NPC (#86363)
 * Scaling cold/flu sleepiness to character using enchants (#86369)
 * Zoom persist fix on initial load (#86373)

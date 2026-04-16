@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-16-2101 ([79d0f64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-2101))
+
+* Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-16-1624 ([cdd6b7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1624))
 
 * [ Dinomod ] Dinomod need DinoStrength ([#86395](https://github.com/CleverRaven/Cataclysm-DDA/pull/86395))
@@ -187,11 +193,6 @@
 
 * Remove fire fields from library mapgen ([#86392](https://github.com/CleverRaven/Cataclysm-DDA/pull/86392))
 * Weekly Changelog 2026-04-06 to 2026-04-13 ([#86445](https://github.com/CleverRaven/Cataclysm-DDA/pull/86445))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-13-2045 ([f96eeee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-2045))
-
 * [MoM] Fix melee damage bonuses ([#86444](https://github.com/CleverRaven/Cataclysm-DDA/pull/86444))
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
 * [0.I] Prune and prepare Changelog ([#86436](https://github.com/CleverRaven/Cataclysm-DDA/pull/86436))
@@ -218,7 +219,6 @@
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
-* Wrap remaining SDL2 calls behind abstraction layer for SDL3 dual support ([#86362](https://github.com/CleverRaven/Cataclysm-DDA/pull/86362))
 * Fix "Tell someone to work on" assigning wrong NPC ([#86363](https://github.com/CleverRaven/Cataclysm-DDA/pull/86363))
 * Scaling cold/flu sleepiness to character using enchants ([#86369](https://github.com/CleverRaven/Cataclysm-DDA/pull/86369))
 * Zoom persist fix on initial load ([#86373](https://github.com/CleverRaven/Cataclysm-DDA/pull/86373))
