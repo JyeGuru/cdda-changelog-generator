@@ -173,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-04-13-2045 ([f96eeee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-2045))
 
 * [MoM] Fix melee damage bonuses ([#86444](https://github.com/CleverRaven/Cataclysm-DDA/pull/86444))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-04-13-2055 ([e0880e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-13-2055))
-
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
 * [0.I] Prune and prepare Changelog ([#86436](https://github.com/CleverRaven/Cataclysm-DDA/pull/86436))
 

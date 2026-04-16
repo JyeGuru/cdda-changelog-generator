@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2026-04-13-2236 (429ba19)
 
 Cataclysm-DDA experimental build 2026-04-13-2045 (f96eeee)
 * [MoM] Fix melee damage bonuses (#86444)
-
-Cataclysm-DDA 0.I release candidate 2026-04-13-2055 (e0880e4)
 * Various sunken heli fixes and adjustments (#86451)
 * [0.I] Prune and prepare Changelog (#86436)
 
