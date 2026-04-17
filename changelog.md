@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-17-2054 ([633cd51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-2054))
+
+* Steel pipe/handle fault creation + implementation ([#86538](https://github.com/CleverRaven/Cataclysm-DDA/pull/86538))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-17-1857 ([3ced787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1857))
 
 * Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub ([#86535](https://github.com/CleverRaven/Cataclysm-DDA/pull/86535))
@@ -196,11 +202,6 @@
 * Fix monster attacking through terrain with TFLAG_SWIM_UNDER ([#86390](https://github.com/CleverRaven/Cataclysm-DDA/pull/86390))
 * Text edits for CBMs ([#86405](https://github.com/CleverRaven/Cataclysm-DDA/pull/86405))
 * Make certain map extras visible from afar by default ([#86407](https://github.com/CleverRaven/Cataclysm-DDA/pull/86407))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-14-0445 ([90dd09b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0445))
-
 * Document f_pickup_items ([#86452](https://github.com/CleverRaven/Cataclysm-DDA/pull/86452))
 * [Magiclysm] Add steps to crystallized mana recipe ([#86459](https://github.com/CleverRaven/Cataclysm-DDA/pull/86459))
 * Add hair dyes alongside hair dye kits in supermarkets ([#86453](https://github.com/CleverRaven/Cataclysm-DDA/pull/86453))
@@ -231,5 +232,4 @@
 * Turn broad paws into a limb ([#86374](https://github.com/CleverRaven/Cataclysm-DDA/pull/86374))
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
-* Zoom persist fix on initial load ([#86373](https://github.com/CleverRaven/Cataclysm-DDA/pull/86373))
 * More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
