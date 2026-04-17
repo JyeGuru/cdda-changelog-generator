@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-17-2147 ([95abd73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-2147))
+
+* Remove safemode menu setting and restore safe mode persistence ([#86544](https://github.com/CleverRaven/Cataclysm-DDA/pull/86544))
+* Add steps to the long underpants recipe ([#86548](https://github.com/CleverRaven/Cataclysm-DDA/pull/86548))
+* Fur coverage for rabbit fur ([#86549](https://github.com/CleverRaven/Cataclysm-DDA/pull/86549))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-17-2054 ([633cd51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-2054))
 
 * Steel pipe/handle fault creation + implementation ([#86538](https://github.com/CleverRaven/Cataclysm-DDA/pull/86538))
@@ -194,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2026-04-14-1947 ([3e59826](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-1947))
 
 * Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-14-0526 ([f3e4463](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0526))
-
 * Fix monster attacking through terrain with TFLAG_SWIM_UNDER ([#86390](https://github.com/CleverRaven/Cataclysm-DDA/pull/86390))
 * Text edits for CBMs ([#86405](https://github.com/CleverRaven/Cataclysm-DDA/pull/86405))
 * Make certain map extras visible from afar by default ([#86407](https://github.com/CleverRaven/Cataclysm-DDA/pull/86407))
@@ -223,13 +226,10 @@
 * Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
 * Fix bug in gun mag/ammo inventory color ([#86400](https://github.com/CleverRaven/Cataclysm-DDA/pull/86400))
 * Reduce damage from harmful_cough ([#86409](https://github.com/CleverRaven/Cataclysm-DDA/pull/86409))
-* Who am I? The CI dem sugar! ([#86381](https://github.com/CleverRaven/Cataclysm-DDA/pull/86381))
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
 * Mirror monster fire nerfs on the player side ([#86393](https://github.com/CleverRaven/Cataclysm-DDA/pull/86393))
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
-* Turn broad paws into a limb ([#86374](https://github.com/CleverRaven/Cataclysm-DDA/pull/86374))
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
-* More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))

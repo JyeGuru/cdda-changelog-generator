@@ -1,4 +1,9 @@
 
+Cataclysm-DDA experimental build 2026-04-17-2147 (95abd73)
+* Remove safemode menu setting and restore safe mode persistence (#86544)
+* Add steps to the long underpants recipe (#86548)
+* Fur coverage for rabbit fur (#86549)
+
 Cataclysm-DDA experimental build 2026-04-17-2054 (633cd51)
 * Steel pipe/handle fault creation + implementation (#86538)
 
@@ -110,8 +115,6 @@ Cataclysm-DDA experimental build 2026-04-14-2250 (c828f5a)
 
 Cataclysm-DDA experimental build 2026-04-14-1947 (3e59826)
 * Newspaper snippets (#86460)
-
-Cataclysm-DDA experimental build 2026-04-14-0526 (f3e4463)
 * Fix monster attacking through terrain with TFLAG_SWIM_UNDER (#86390)
 * Text edits for CBMs (#86405)
 * Make certain map extras visible from afar by default (#86407)
@@ -136,13 +139,10 @@ Cataclysm-DDA experimental build 2026-04-14-0526 (f3e4463)
 * Npcs dont freeze to death with NPC needs disabled (#86417)
 * Fix bug in gun mag/ammo inventory color (#86400)
 * Reduce damage from harmful_cough (#86409)
-* Who am I? The CI dem sugar! (#86381)
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade (#86385)
 * [Sky Island] Add lapin to no spawn list for expeditions (#86402)
 * Move some in-item `passive_effects` to defined enchantments (#86403)
 * Mirror monster fire nerfs on the player side (#86393)
 * Fix msvc solution. (#86394)
-* Turn broad paws into a limb (#86374)
 * Fix drinking water from vehicle faucet (#86387)
 * [Sky Island] Force door placements in main room upgrades (#86384)
-* More older ms compiler/sdk fixes. (#86377)
