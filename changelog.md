@@ -1,6 +1,17 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-17-0454 ([7c4f76a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-0454))
+
+* Allow copy-from, abstract, and using for recipe steps ([#86526](https://github.com/CleverRaven/Cataclysm-DDA/pull/86526))
+* Modify ring of sustenance to target BMI category ([#86437](https://github.com/CleverRaven/Cataclysm-DDA/pull/86437))
+* Prevent tindalos hounds teleporting before first establishing LoS ([#86449](https://github.com/CleverRaven/Cataclysm-DDA/pull/86449))
+* [Xedra Evolved] Add subparts for Paraclesian eyes ([#86528](https://github.com/CleverRaven/Cataclysm-DDA/pull/86528))
+* Limbify Feline Eyes ([#86529](https://github.com/CleverRaven/Cataclysm-DDA/pull/86529))
+* Add monster infrared vision ([#86532](https://github.com/CleverRaven/Cataclysm-DDA/pull/86532))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-17-0414 ([482a8ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-0414))
 
 * Extract post-process generators from mapgen.cpp ([#86533](https://github.com/CleverRaven/Cataclysm-DDA/pull/86533))
@@ -212,7 +223,6 @@
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
-* Add VI key navigation to menus that are missing them ([#86366](https://github.com/CleverRaven/Cataclysm-DDA/pull/86366))
 * [Xedra Evolved] Homullus' Golem ([#86372](https://github.com/CleverRaven/Cataclysm-DDA/pull/86372))
 * Mirror monster fire nerfs on the player side ([#86393](https://github.com/CleverRaven/Cataclysm-DDA/pull/86393))
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
@@ -220,11 +230,6 @@
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
-* Scaling cold/flu sleepiness to character using enchants ([#86369](https://github.com/CleverRaven/Cataclysm-DDA/pull/86369))
 * Zoom persist fix on initial load ([#86373](https://github.com/CleverRaven/Cataclysm-DDA/pull/86373))
-* Fix restock time display for Hub 01 intercom ([#86365](https://github.com/CleverRaven/Cataclysm-DDA/pull/86365))
-* [Magiclysm] Add Druid spell caster_conditions ([#86368](https://github.com/CleverRaven/Cataclysm-DDA/pull/86368))
-* Fix camp NPC oscillation on expansion tiles ([#86364](https://github.com/CleverRaven/Cataclysm-DDA/pull/86364))
-* Skip pre-rasterized 1.5x font when CJK glyphs are enabled ([#86367](https://github.com/CleverRaven/Cataclysm-DDA/pull/86367))
 * More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
 * Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
