@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-17-1029 ([9d0a79c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1029))
+
+* Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-17-0454 ([7c4f76a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-0454))
 
 * Allow copy-from, abstract, and using for recipe steps ([#86526](https://github.com/CleverRaven/Cataclysm-DDA/pull/86526))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2026-04-14-0322 ([66bf321](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0322))
 
 * Limbify Little Paws ([#86458](https://github.com/CleverRaven/Cataclysm-DDA/pull/86458))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-14-0050 ([d50898f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0050))
-
 * [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))
 * Remove fire fields from library mapgen ([#86392](https://github.com/CleverRaven/Cataclysm-DDA/pull/86392))
 * Weekly Changelog 2026-04-06 to 2026-04-13 ([#86445](https://github.com/CleverRaven/Cataclysm-DDA/pull/86445))
@@ -228,7 +229,6 @@
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
 * Turn broad paws into a limb ([#86374](https://github.com/CleverRaven/Cataclysm-DDA/pull/86374))
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
-* Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
 * Zoom persist fix on initial load ([#86373](https://github.com/CleverRaven/Cataclysm-DDA/pull/86373))
 * More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
