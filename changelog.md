@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-17-0414 ([482a8ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-0414))
+
+* Extract post-process generators from mapgen.cpp ([#86533](https://github.com/CleverRaven/Cataclysm-DDA/pull/86533))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-16-2101 ([79d0f64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-2101))
 
 * Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-04-14-0050 ([d50898f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0050))
 
 * [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-13-2236 ([429ba19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-13-2236))
-
 * Remove fire fields from library mapgen ([#86392](https://github.com/CleverRaven/Cataclysm-DDA/pull/86392))
 * Weekly Changelog 2026-04-06 to 2026-04-13 ([#86445](https://github.com/CleverRaven/Cataclysm-DDA/pull/86445))
 * [MoM] Fix melee damage bonuses ([#86444](https://github.com/CleverRaven/Cataclysm-DDA/pull/86444))
@@ -219,7 +220,6 @@
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
 * Add `HANDS_CANNOT_USE_FIREARMS`, prevent it and `TEMPORARY_SHAPESHIFT_NO_HANDS` from using firearms ([#86370](https://github.com/CleverRaven/Cataclysm-DDA/pull/86370))
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
-* Fix "Tell someone to work on" assigning wrong NPC ([#86363](https://github.com/CleverRaven/Cataclysm-DDA/pull/86363))
 * Scaling cold/flu sleepiness to character using enchants ([#86369](https://github.com/CleverRaven/Cataclysm-DDA/pull/86369))
 * Zoom persist fix on initial load ([#86373](https://github.com/CleverRaven/Cataclysm-DDA/pull/86373))
 * Fix restock time display for Hub 01 intercom ([#86365](https://github.com/CleverRaven/Cataclysm-DDA/pull/86365))
