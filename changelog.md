@@ -1,3 +1,10 @@
+* Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub ([#86535](https://github.com/CleverRaven/Cataclysm-DDA/pull/86535))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-17-1734 ([7002939](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1734))
+
+* Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
 
 ---
 
@@ -197,11 +204,6 @@
 
 * [Magiclysm] Add steps to crystallized mana recipe ([#86459](https://github.com/CleverRaven/Cataclysm-DDA/pull/86459))
 * Add hair dyes alongside hair dye kits in supermarkets ([#86453](https://github.com/CleverRaven/Cataclysm-DDA/pull/86453))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-14-0322 ([66bf321](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-0322))
-
 * Limbify Little Paws ([#86458](https://github.com/CleverRaven/Cataclysm-DDA/pull/86458))
 * [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))
 * Remove fire fields from library mapgen ([#86392](https://github.com/CleverRaven/Cataclysm-DDA/pull/86392))
@@ -224,7 +226,6 @@
 * [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
-* [Xedra Evolved] Homullus' Golem ([#86372](https://github.com/CleverRaven/Cataclysm-DDA/pull/86372))
 * Mirror monster fire nerfs on the player side ([#86393](https://github.com/CleverRaven/Cataclysm-DDA/pull/86393))
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
 * Turn broad paws into a limb ([#86374](https://github.com/CleverRaven/Cataclysm-DDA/pull/86374))
@@ -232,4 +233,3 @@
 * [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))
 * Zoom persist fix on initial load ([#86373](https://github.com/CleverRaven/Cataclysm-DDA/pull/86373))
 * More older ms compiler/sdk fixes. ([#86377](https://github.com/CleverRaven/Cataclysm-DDA/pull/86377))
-* Fix use-after-free in NPC zone sort viewport restore ([#86371](https://github.com/CleverRaven/Cataclysm-DDA/pull/86371))
