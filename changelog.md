@@ -1,3 +1,10 @@
+* Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-1223 ([8b3c983](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1223))
+
+* Character creator UI: second-pass improvements ([#86515](https://github.com/CleverRaven/Cataclysm-DDA/pull/86515))
 
 ---
 
@@ -10,12 +17,6 @@
 #### Cataclysm-DDA experimental build 2026-04-18-1009 ([08529e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1009))
 
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-0901 ([d9f55b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-0901))
-
-* Fix newline rendering in extended description window ([#86398](https://github.com/CleverRaven/Cataclysm-DDA/pull/86398))
 
 ---
 
@@ -187,11 +188,6 @@
 
 * Character creator UI: first-pass improvements ([#86487](https://github.com/CleverRaven/Cataclysm-DDA/pull/86487))
 * Winter wheat, a variety of wheat that can be grown... over winter. ([#86448](https://github.com/CleverRaven/Cataclysm-DDA/pull/86448))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-0730 ([547e2d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0730))
-
 * Add DocumentsProvider for Android to enable root-free backup of game data ([#86428](https://github.com/CleverRaven/Cataclysm-DDA/pull/86428))
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
 * Aftershock: Rocket Pack Sprint ([#86419](https://github.com/CleverRaven/Cataclysm-DDA/pull/86419))
