@@ -1,3 +1,10 @@
+* Two new faults for clothing ([#86530](https://github.com/CleverRaven/Cataclysm-DDA/pull/86530))
+* Fix MOLLE pockets have no degradation ([#86555](https://github.com/CleverRaven/Cataclysm-DDA/pull/86555))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-1633 ([484cae8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1633))
+
 * Update EOD hot stick prices ([#86539](https://github.com/CleverRaven/Cataclysm-DDA/pull/86539))
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-04-15-1814 ([ebe53a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-1814))
 
 * Fix control reaches end of non-void function for old gcc versions ([#86490](https://github.com/CleverRaven/Cataclysm-DDA/pull/86490))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-1429 ([45048a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-1429))
-
 * Update robot.json (Wraitheon Fulgent Dissassembly-fix) [Aftershock] ([#86485](https://github.com/CleverRaven/Cataclysm-DDA/pull/86485))
 * Change Mangalpreet Singh's last name to Kaur to more accurately reflect Sikh traditions ([#86466](https://github.com/CleverRaven/Cataclysm-DDA/pull/86466))
 * Fix camp smithy only allowing one anvil type ([#86495](https://github.com/CleverRaven/Cataclysm-DDA/pull/86495))
@@ -198,8 +200,6 @@
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
 * Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
 * Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
-* Text edits for CBMs ([#86405](https://github.com/CleverRaven/Cataclysm-DDA/pull/86405))
-* Make certain map extras visible from afar by default ([#86407](https://github.com/CleverRaven/Cataclysm-DDA/pull/86407))
 * Document f_pickup_items ([#86452](https://github.com/CleverRaven/Cataclysm-DDA/pull/86452))
 * [Magiclysm] Add steps to crystallized mana recipe ([#86459](https://github.com/CleverRaven/Cataclysm-DDA/pull/86459))
 * Add hair dyes alongside hair dye kits in supermarkets ([#86453](https://github.com/CleverRaven/Cataclysm-DDA/pull/86453))
