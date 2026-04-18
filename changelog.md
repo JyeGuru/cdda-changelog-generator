@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-18-1130 ([0853283](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1130))
+
+* (new) ASCII art for some (old) items ([#86537](https://github.com/CleverRaven/Cataclysm-DDA/pull/86537))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-18-1009 ([08529e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1009))
 
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
@@ -94,7 +100,6 @@
 * Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
-* Fix Fueling noise occurence ([#86396](https://github.com/CleverRaven/Cataclysm-DDA/pull/86396))
 * reduce performance load of noncombatant perk ([#86426](https://github.com/CleverRaven/Cataclysm-DDA/pull/86426))
 * Fixing refugee center merc conversations ([#86421](https://github.com/CleverRaven/Cataclysm-DDA/pull/86421))
 * Add Dextrous Paws mutation, remove Paws from Rat ([#86506](https://github.com/CleverRaven/Cataclysm-DDA/pull/86506))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-04-15-0730 ([547e2d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0730))
 
 * Add DocumentsProvider for Android to enable root-free backup of game data ([#86428](https://github.com/CleverRaven/Cataclysm-DDA/pull/86428))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-0619 ([be2537e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0619))
-
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
 * Aftershock: Rocket Pack Sprint ([#86419](https://github.com/CleverRaven/Cataclysm-DDA/pull/86419))
 * [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() ([#86456](https://github.com/CleverRaven/Cataclysm-DDA/pull/86456))
