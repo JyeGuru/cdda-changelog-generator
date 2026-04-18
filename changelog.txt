@@ -1,3 +1,4 @@
+* Fix newline rendering in extended description window (#86398)
 
 Cataclysm-DDA experimental build 2026-04-18-0230 (b577858)
 * Butterfly wing limbs (#86557)
@@ -143,5 +144,3 @@ Cataclysm-DDA experimental build 2026-04-15-0459 (dc42aff)
 * Reduce damage from harmful_cough (#86409)
 * [Sky Island] Add lapin to no spawn list for expeditions (#86402)
 * Move some in-item `passive_effects` to defined enchantments (#86403)
-* Mirror monster fire nerfs on the player side (#86393)
-* Fix msvc solution. (#86394)
