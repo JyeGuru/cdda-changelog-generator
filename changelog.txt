@@ -1,3 +1,14 @@
+
+Cataclysm-DDA experimental build 2026-04-18-0230 (b577858)
+* Butterfly wing limbs (#86557)
+* (XE) Minor typo/grammar fixes (#86540)
+* implement first labyrinth safehouse (#86542)
+
+Cataclysm-DDA experimental build 2026-04-18-0149 (2b877ac)
+* Tweak the sewing tool requirements and clean up the animal hoodie recipes (#86545)
+* Step the quilt recipe (#86546)
+
+Cataclysm-DDA experimental build 2026-04-18-0050 (73eec69)
 * [Sky Island] Change whole room teleport to only teleport items in the room (#86547)
 
 Cataclysm-DDA experimental build 2026-04-17-2357 (dc31858)
@@ -36,9 +47,6 @@ Cataclysm-DDA experimental build 2026-04-16-2101 (79d0f64)
 
 Cataclysm-DDA experimental build 2026-04-16-1624 (cdd6b7f)
 * [ Dinomod ] Dinomod need DinoStrength (#86395)
-
-Cataclysm-DDA experimental build 2026-04-16-1459 (30586b4)
-* Mutant meat is disgusting (#86388)
 * Fix zone sort viewport stuck when nothing to sort (#86525)
 * Added faults to pipe spears and pipe pikes (#86523)
 * Fix Fueling noise occurence (#86396)
@@ -90,11 +98,7 @@ Cataclysm-DDA experimental build 2026-04-15-1429 (45048a5)
 
 Cataclysm-DDA experimental build 2026-04-15-1311 (883d129)
 * Fix camp smithy only allowing one anvil type (#86495)
-
-Cataclysm-DDA 0.I release candidate 2026-04-15-1311 (46730b6)
 * Update docs for gender in EOCs (#86500)
-
-Cataclysm-DDA 0.I release candidate 2026-04-15-1106 (4e52469)
 * Expose character gender to math/eoc (#86497)
 
 Cataclysm-DDA experimental build 2026-04-15-0825 (d78e1f2)
@@ -113,11 +117,8 @@ Cataclysm-DDA experimental build 2026-04-15-0540 (02e6717)
 
 Cataclysm-DDA experimental build 2026-04-15-0459 (dc42aff)
 * Limbify Paws (#86486)
-
-Cataclysm-DDA experimental build 2026-04-14-2250 (c828f5a)
 * Overmap vision based map extra visibility (#86474)
 * Newspaper snippets (#86460)
-* Fix monster attacking through terrain with TFLAG_SWIM_UNDER (#86390)
 * Text edits for CBMs (#86405)
 * Make certain map extras visible from afar by default (#86407)
 * Document f_pickup_items (#86452)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2026-04-14-2250 (c828f5a)
 * Add hair dyes alongside hair dye kits in supermarkets (#86453)
 * Limbify Little Paws (#86458)
 * [MoM] Convert remaining paths over to psionic_power_modifiers() (#86457)
-* Remove fire fields from library mapgen (#86392)
 * Weekly Changelog 2026-04-06 to 2026-04-13 (#86445)
 * [MoM] Fix melee damage bonuses (#86444)
 * Various sunken heli fixes and adjustments (#86451)
@@ -145,4 +145,3 @@ Cataclysm-DDA experimental build 2026-04-14-2250 (c828f5a)
 * Move some in-item `passive_effects` to defined enchantments (#86403)
 * Mirror monster fire nerfs on the player side (#86393)
 * Fix msvc solution. (#86394)
-* Fix drinking water from vehicle faucet (#86387)

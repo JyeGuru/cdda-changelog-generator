@@ -1,3 +1,23 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-0230 ([b577858](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-0230))
+
+* Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
+* (XE) Minor typo/grammar fixes ([#86540](https://github.com/CleverRaven/Cataclysm-DDA/pull/86540))
+* implement first labyrinth safehouse ([#86542](https://github.com/CleverRaven/Cataclysm-DDA/pull/86542))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-0149 ([2b877ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-0149))
+
+* Tweak the sewing tool requirements and clean up the animal hoodie recipes ([#86545](https://github.com/CleverRaven/Cataclysm-DDA/pull/86545))
+* Step the quilt recipe ([#86546](https://github.com/CleverRaven/Cataclysm-DDA/pull/86546))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-0050 ([73eec69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-0050))
+
 * [Sky Island] Change whole room teleport to only teleport items in the room ([#86547](https://github.com/CleverRaven/Cataclysm-DDA/pull/86547))
 
 ---
@@ -66,12 +86,6 @@
 #### Cataclysm-DDA experimental build 2026-04-16-1624 ([cdd6b7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1624))
 
 * [ Dinomod ] Dinomod need DinoStrength ([#86395](https://github.com/CleverRaven/Cataclysm-DDA/pull/86395))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-16-1459 ([30586b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1459))
-
-* Mutant meat is disgusting ([#86388](https://github.com/CleverRaven/Cataclysm-DDA/pull/86388))
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
 * Fix Fueling noise occurence ([#86396](https://github.com/CleverRaven/Cataclysm-DDA/pull/86396))
@@ -153,17 +167,7 @@
 #### Cataclysm-DDA experimental build 2026-04-15-1311 ([883d129](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-1311))
 
 * Fix camp smithy only allowing one anvil type ([#86495](https://github.com/CleverRaven/Cataclysm-DDA/pull/86495))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-04-15-1311 ([46730b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-15-1311))
-
 * Update docs for gender in EOCs ([#86500](https://github.com/CleverRaven/Cataclysm-DDA/pull/86500))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-04-15-1106 ([4e52469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-15-1106))
-
 * Expose character gender to math/eoc ([#86497](https://github.com/CleverRaven/Cataclysm-DDA/pull/86497))
 
 ---
@@ -197,14 +201,8 @@
 #### Cataclysm-DDA experimental build 2026-04-15-0459 ([dc42aff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0459))
 
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-14-2250 ([c828f5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-2250))
-
 * Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
 * Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
-* Fix monster attacking through terrain with TFLAG_SWIM_UNDER ([#86390](https://github.com/CleverRaven/Cataclysm-DDA/pull/86390))
 * Text edits for CBMs ([#86405](https://github.com/CleverRaven/Cataclysm-DDA/pull/86405))
 * Make certain map extras visible from afar by default ([#86407](https://github.com/CleverRaven/Cataclysm-DDA/pull/86407))
 * Document f_pickup_items ([#86452](https://github.com/CleverRaven/Cataclysm-DDA/pull/86452))
@@ -212,7 +210,6 @@
 * Add hair dyes alongside hair dye kits in supermarkets ([#86453](https://github.com/CleverRaven/Cataclysm-DDA/pull/86453))
 * Limbify Little Paws ([#86458](https://github.com/CleverRaven/Cataclysm-DDA/pull/86458))
 * [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))
-* Remove fire fields from library mapgen ([#86392](https://github.com/CleverRaven/Cataclysm-DDA/pull/86392))
 * Weekly Changelog 2026-04-06 to 2026-04-13 ([#86445](https://github.com/CleverRaven/Cataclysm-DDA/pull/86445))
 * [MoM] Fix melee damage bonuses ([#86444](https://github.com/CleverRaven/Cataclysm-DDA/pull/86444))
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
@@ -232,4 +229,3 @@
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
 * Mirror monster fire nerfs on the player side ([#86393](https://github.com/CleverRaven/Cataclysm-DDA/pull/86393))
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
-* Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
