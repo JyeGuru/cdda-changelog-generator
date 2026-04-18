@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-1009 ([08529e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1009))
+
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2026-04-15-0619 ([be2537e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0619))
 
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-0540 ([02e6717](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0540))
-
 * Aftershock: Rocket Pack Sprint ([#86419](https://github.com/CleverRaven/Cataclysm-DDA/pull/86419))
 * [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() ([#86456](https://github.com/CleverRaven/Cataclysm-DDA/pull/86456))
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
