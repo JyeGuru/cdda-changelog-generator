@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-1949 ([19a4643](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1949))
+
 * add eoc effect to pick up a bodypart ([#86552](https://github.com/CleverRaven/Cataclysm-DDA/pull/86552))
 * Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))
 
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-04-15-2142 ([cf614c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-2142))
 
 * [XE] Add anti-shabriri hedge magic spell ([#86462](https://github.com/CleverRaven/Cataclysm-DDA/pull/86462))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-2050 ([0a574da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-2050))
-
 * Add a sewing machine and tweak the hoodie recipes to make use of it ([#86455](https://github.com/CleverRaven/Cataclysm-DDA/pull/86455))
 * [Magiclysm] Alchemic Circlets actually calmy to wear. ([#86468](https://github.com/CleverRaven/Cataclysm-DDA/pull/86468))
 * [CR] Add first stages of bullet penetration through multiple entities ([#86465](https://github.com/CleverRaven/Cataclysm-DDA/pull/86465))
