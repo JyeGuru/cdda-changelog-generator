@@ -1,3 +1,9 @@
+* Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-0901 ([d9f55b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-0901))
+
 * Fix newline rendering in extended description window ([#86398](https://github.com/CleverRaven/Cataclysm-DDA/pull/86398))
 
 ---
@@ -81,12 +87,6 @@
 #### Cataclysm-DDA experimental build 2026-04-16-2101 ([79d0f64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-2101))
 
 * Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-16-1624 ([cdd6b7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1624))
-
-* [ Dinomod ] Dinomod need DinoStrength ([#86395](https://github.com/CleverRaven/Cataclysm-DDA/pull/86395))
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
 * Fix Fueling noise occurence ([#86396](https://github.com/CleverRaven/Cataclysm-DDA/pull/86396))
@@ -196,11 +196,6 @@
 
 * Aftershock: Rocket Pack Sprint ([#86419](https://github.com/CleverRaven/Cataclysm-DDA/pull/86419))
 * [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() ([#86456](https://github.com/CleverRaven/Cataclysm-DDA/pull/86456))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-0459 ([dc42aff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-0459))
-
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
 * Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
 * Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))

@@ -1,3 +1,6 @@
+* Bugfix for vehicle falling through floor (#86559)
+
+Cataclysm-DDA experimental build 2026-04-18-0901 (d9f55b0)
 * Fix newline rendering in extended description window (#86398)
 
 Cataclysm-DDA experimental build 2026-04-18-0230 (b577858)
@@ -45,9 +48,6 @@ Cataclysm-DDA experimental build 2026-04-17-0414 (482a8ad)
 
 Cataclysm-DDA experimental build 2026-04-16-2101 (79d0f64)
 * Remove extra semicolon in newcharacter.cpp (#86531)
-
-Cataclysm-DDA experimental build 2026-04-16-1624 (cdd6b7f)
-* [ Dinomod ] Dinomod need DinoStrength (#86395)
 * Fix zone sort viewport stuck when nothing to sort (#86525)
 * Added faults to pipe spears and pipe pikes (#86523)
 * Fix Fueling noise occurence (#86396)
@@ -115,8 +115,6 @@ Cataclysm-DDA experimental build 2026-04-15-0619 (be2537e)
 Cataclysm-DDA experimental build 2026-04-15-0540 (02e6717)
 * Aftershock: Rocket Pack Sprint (#86419)
 * [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() (#86456)
-
-Cataclysm-DDA experimental build 2026-04-15-0459 (dc42aff)
 * Limbify Paws (#86486)
 * Overmap vision based map extra visibility (#86474)
 * Newspaper snippets (#86460)
