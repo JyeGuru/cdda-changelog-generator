@@ -1,3 +1,10 @@
+* Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-1520 ([838c290](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1520))
+
+* Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
 
 ---
 
@@ -178,11 +185,6 @@
 
 * Update robot.json (Wraitheon Fulgent Dissassembly-fix) [Aftershock] ([#86485](https://github.com/CleverRaven/Cataclysm-DDA/pull/86485))
 * Change Mangalpreet Singh's last name to Kaur to more accurately reflect Sikh traditions ([#86466](https://github.com/CleverRaven/Cataclysm-DDA/pull/86466))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-1311 ([883d129](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-1311))
-
 * Fix camp smithy only allowing one anvil type ([#86495](https://github.com/CleverRaven/Cataclysm-DDA/pull/86495))
 * Update docs for gender in EOCs ([#86500](https://github.com/CleverRaven/Cataclysm-DDA/pull/86500))
 * Expose character gender to math/eoc ([#86497](https://github.com/CleverRaven/Cataclysm-DDA/pull/86497))
@@ -215,7 +217,5 @@
 * Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
 * Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
-* Fix bug in gun mag/ammo inventory color ([#86400](https://github.com/CleverRaven/Cataclysm-DDA/pull/86400))
 * Reduce damage from harmful_cough ([#86409](https://github.com/CleverRaven/Cataclysm-DDA/pull/86409))
-* [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
