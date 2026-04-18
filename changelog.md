@@ -1,3 +1,12 @@
+* add eoc effect to pick up a bodypart ([#86552](https://github.com/CleverRaven/Cataclysm-DDA/pull/86552))
+* Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-18-1832 ([6c39d5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1832))
+
+*  adjusted spear and pike recipe to include drift. Added graded steel variants of the spear and pike ([#86536](https://github.com/CleverRaven/Cataclysm-DDA/pull/86536))
+* Add sibling overlap detection to mapgen static check ([#86564](https://github.com/CleverRaven/Cataclysm-DDA/pull/86564))
 
 ---
 
@@ -179,11 +188,6 @@
 * Limbify Bulging Eyes ([#86493](https://github.com/CleverRaven/Cataclysm-DDA/pull/86493))
 * Removes direct cooked acorn recipe ([#86494](https://github.com/CleverRaven/Cataclysm-DDA/pull/86494))
 * Fix #86479 ([#86489](https://github.com/CleverRaven/Cataclysm-DDA/pull/86489))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-2005 ([10aeafb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-2005))
-
 * Fix the generic expressions for limbs in medical ui ([#86504](https://github.com/CleverRaven/Cataclysm-DDA/pull/86504))
 * Fix control reaches end of non-void function for old gcc versions ([#86490](https://github.com/CleverRaven/Cataclysm-DDA/pull/86490))
 * Update robot.json (Wraitheon Fulgent Dissassembly-fix) [Aftershock] ([#86485](https://github.com/CleverRaven/Cataclysm-DDA/pull/86485))
@@ -209,13 +213,10 @@
 * [MoM] Fix melee damage bonuses ([#86444](https://github.com/CleverRaven/Cataclysm-DDA/pull/86444))
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
 * [0.I] Prune and prepare Changelog ([#86436](https://github.com/CleverRaven/Cataclysm-DDA/pull/86436))
-* Highlight yield amount in crafting UI ([#86416](https://github.com/CleverRaven/Cataclysm-DDA/pull/86416))
 * Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
-* [0.I] Tileset backport ([#86412](https://github.com/CleverRaven/Cataclysm-DDA/pull/86412))
 * [Aftershock] Document esper lore ([#86432](https://github.com/CleverRaven/Cataclysm-DDA/pull/86432))
 * Aftershock: Basic data salvaging system. ([#86434](https://github.com/CleverRaven/Cataclysm-DDA/pull/86434))
 * Exodii drop pods and ponds are visible from afar ([#86423](https://github.com/CleverRaven/Cataclysm-DDA/pull/86423))
 * Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
 * Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
-* Reduce damage from harmful_cough ([#86409](https://github.com/CleverRaven/Cataclysm-DDA/pull/86409))
