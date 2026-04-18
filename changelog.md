@@ -1,3 +1,10 @@
+* [Sky Island] Change whole room teleport to only teleport items in the room ([#86547](https://github.com/CleverRaven/Cataclysm-DDA/pull/86547))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-17-2357 ([dc31858](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-2357))
+
+* Give feral troglobites infravision ([#86554](https://github.com/CleverRaven/Cataclysm-DDA/pull/86554))
 
 ---
 
@@ -196,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2026-04-14-2250 ([c828f5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-2250))
 
 * Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-14-1947 ([3e59826](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-14-1947))
-
 * Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
 * Fix monster attacking through terrain with TFLAG_SWIM_UNDER ([#86390](https://github.com/CleverRaven/Cataclysm-DDA/pull/86390))
 * Text edits for CBMs ([#86405](https://github.com/CleverRaven/Cataclysm-DDA/pull/86405))
@@ -226,10 +228,8 @@
 * Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
 * Fix bug in gun mag/ammo inventory color ([#86400](https://github.com/CleverRaven/Cataclysm-DDA/pull/86400))
 * Reduce damage from harmful_cough ([#86409](https://github.com/CleverRaven/Cataclysm-DDA/pull/86409))
-* [Sky Island] Remove warp obelisk from bunker entrance upgrade ([#86385](https://github.com/CleverRaven/Cataclysm-DDA/pull/86385))
 * [Sky Island] Add lapin to no spawn list for expeditions ([#86402](https://github.com/CleverRaven/Cataclysm-DDA/pull/86402))
 * Move some in-item `passive_effects` to defined enchantments ([#86403](https://github.com/CleverRaven/Cataclysm-DDA/pull/86403))
 * Mirror monster fire nerfs on the player side ([#86393](https://github.com/CleverRaven/Cataclysm-DDA/pull/86393))
 * Fix msvc solution. ([#86394](https://github.com/CleverRaven/Cataclysm-DDA/pull/86394))
 * Fix drinking water from vehicle faucet ([#86387](https://github.com/CleverRaven/Cataclysm-DDA/pull/86387))
-* [Sky Island] Force door placements in main room upgrades ([#86384](https://github.com/CleverRaven/Cataclysm-DDA/pull/86384))

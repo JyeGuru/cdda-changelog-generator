@@ -1,3 +1,7 @@
+* [Sky Island] Change whole room teleport to only teleport items in the room (#86547)
+
+Cataclysm-DDA experimental build 2026-04-17-2357 (dc31858)
+* Give feral troglobites infravision (#86554)
 
 Cataclysm-DDA experimental build 2026-04-17-2147 (95abd73)
 * Remove safemode menu setting and restore safe mode persistence (#86544)
@@ -112,8 +116,6 @@ Cataclysm-DDA experimental build 2026-04-15-0459 (dc42aff)
 
 Cataclysm-DDA experimental build 2026-04-14-2250 (c828f5a)
 * Overmap vision based map extra visibility (#86474)
-
-Cataclysm-DDA experimental build 2026-04-14-1947 (3e59826)
 * Newspaper snippets (#86460)
 * Fix monster attacking through terrain with TFLAG_SWIM_UNDER (#86390)
 * Text edits for CBMs (#86405)
@@ -139,10 +141,8 @@ Cataclysm-DDA experimental build 2026-04-14-1947 (3e59826)
 * Npcs dont freeze to death with NPC needs disabled (#86417)
 * Fix bug in gun mag/ammo inventory color (#86400)
 * Reduce damage from harmful_cough (#86409)
-* [Sky Island] Remove warp obelisk from bunker entrance upgrade (#86385)
 * [Sky Island] Add lapin to no spawn list for expeditions (#86402)
 * Move some in-item `passive_effects` to defined enchantments (#86403)
 * Mirror monster fire nerfs on the player side (#86393)
 * Fix msvc solution. (#86394)
 * Fix drinking water from vehicle faucet (#86387)
-* [Sky Island] Force door placements in main room upgrades (#86384)
