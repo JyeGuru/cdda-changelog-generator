@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-19-1658 ([a7d8710](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-1658))
+
+* Add lighting conditions warning to Crafting UI ([#86571](https://github.com/CleverRaven/Cataclysm-DDA/pull/86571))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-19-0538 ([0cf1501](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-0538))
 
 * [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-04-16-1404 ([c98fd06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1404))
 
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-16-1007 ([fa95be5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1007))
-
 * Clean up tips ([#86454](https://github.com/CleverRaven/Cataclysm-DDA/pull/86454))
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
 * [MoM] Modify power effectiveness based on weariness ([#86446](https://github.com/CleverRaven/Cataclysm-DDA/pull/86446))
@@ -216,7 +217,6 @@
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
 * [0.I] Prune and prepare Changelog ([#86436](https://github.com/CleverRaven/Cataclysm-DDA/pull/86436))
 * Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
-* [Aftershock] Document esper lore ([#86432](https://github.com/CleverRaven/Cataclysm-DDA/pull/86432))
 * Aftershock: Basic data salvaging system. ([#86434](https://github.com/CleverRaven/Cataclysm-DDA/pull/86434))
 * Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))

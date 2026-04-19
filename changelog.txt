@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-19-1658 (a7d8710)
+* Add lighting conditions warning to Crafting UI (#86571)
+
 Cataclysm-DDA experimental build 2026-04-19-0538 (0cf1501)
 * [Extra Mutated Scenarios] fix mutagen glands (#86572)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2026-04-16-2101 (79d0f64)
 
 Cataclysm-DDA experimental build 2026-04-16-1404 (c98fd06)
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses (#86517)
-
-Cataclysm-DDA experimental build 2026-04-16-1007 (fa95be5)
 * Clean up tips (#86454)
 * Segfault fix: sort companion armor (#86507)
 * [MoM] Modify power effectiveness based on weariness (#86446)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2026-04-16-1007 (fa95be5)
 * Various sunken heli fixes and adjustments (#86451)
 * [0.I] Prune and prepare Changelog (#86436)
 * Add myself to the bug review (#86450)
-* [Aftershock] Document esper lore (#86432)
 * Aftershock: Basic data salvaging system. (#86434)
 * Fix under-alignment of small_literal_vector (#86440)
 * [Mind over Matter] Coagulation fix (#86439)
