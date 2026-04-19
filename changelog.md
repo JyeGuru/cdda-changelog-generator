@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-19-1740 ([f23e270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-1740))
+
+* Add Windows libraries for snmalloc ([#86577](https://github.com/CleverRaven/Cataclysm-DDA/pull/86577))
+* Persist post-process decisions per overmap_special so multi-story buildings burn consistently ([#86576](https://github.com/CleverRaven/Cataclysm-DDA/pull/86576))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-19-1658 ([a7d8710](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-1658))
 
 * Add lighting conditions warning to Crafting UI ([#86571](https://github.com/CleverRaven/Cataclysm-DDA/pull/86571))
@@ -217,6 +224,5 @@
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
 * [0.I] Prune and prepare Changelog ([#86436](https://github.com/CleverRaven/Cataclysm-DDA/pull/86436))
 * Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
-* Aftershock: Basic data salvaging system. ([#86434](https://github.com/CleverRaven/Cataclysm-DDA/pull/86434))
 * Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
