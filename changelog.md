@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-19-0538 ([0cf1501](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-0538))
+
+* [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-19-0452 ([ed7a059](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-0452))
+
+* Add post_process_generators field to oter_type_t, migrate PP_GENERATE_RIOT_DAMAGE ([#86558](https://github.com/CleverRaven/Cataclysm-DDA/pull/86558))
 * adjust batteries ASCII to match counterparts ([#86563](https://github.com/CleverRaven/Cataclysm-DDA/pull/86563))
 * Fix spawned eoc and debug menu maps ([#86565](https://github.com/CleverRaven/Cataclysm-DDA/pull/86565))
 * Spear hotfix. Fixed wrong material ([#86569](https://github.com/CleverRaven/Cataclysm-DDA/pull/86569))
@@ -149,7 +161,6 @@
 * Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
-* reduce performance load of noncombatant perk ([#86426](https://github.com/CleverRaven/Cataclysm-DDA/pull/86426))
 * Add Dextrous Paws mutation, remove Paws from Rat ([#86506](https://github.com/CleverRaven/Cataclysm-DDA/pull/86506))
 * Expand wheel faults, no invincible cart wheels ([#86498](https://github.com/CleverRaven/Cataclysm-DDA/pull/86498))
 * Disable __COUNTER__ in Catch2 when building with clang ([#86501](https://github.com/CleverRaven/Cataclysm-DDA/pull/86501))
@@ -165,17 +176,7 @@
 #### Cataclysm-DDA experimental build 2026-04-16-1007 ([fa95be5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-1007))
 
 * Clean up tips ([#86454](https://github.com/CleverRaven/Cataclysm-DDA/pull/86454))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-16-0015 ([56da53f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-16-0015))
-
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-2325 ([e29f47f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-2325))
-
 * [MoM] Modify power effectiveness based on weariness ([#86446](https://github.com/CleverRaven/Cataclysm-DDA/pull/86446))
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
 * [XE] Add anti-shabriri hedge magic spell ([#86462](https://github.com/CleverRaven/Cataclysm-DDA/pull/86462))
@@ -218,6 +219,5 @@
 * Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
 * [Aftershock] Document esper lore ([#86432](https://github.com/CleverRaven/Cataclysm-DDA/pull/86432))
 * Aftershock: Basic data salvaging system. ([#86434](https://github.com/CleverRaven/Cataclysm-DDA/pull/86434))
-* Exodii drop pods and ponds are visible from afar ([#86423](https://github.com/CleverRaven/Cataclysm-DDA/pull/86423))
 * Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
