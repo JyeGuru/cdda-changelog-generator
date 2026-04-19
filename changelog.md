@@ -201,7 +201,6 @@
 * Expose character gender to math/eoc ([#86497](https://github.com/CleverRaven/Cataclysm-DDA/pull/86497))
 * Character creator UI: first-pass improvements ([#86487](https://github.com/CleverRaven/Cataclysm-DDA/pull/86487))
 * Winter wheat, a variety of wheat that can be grown... over winter. ([#86448](https://github.com/CleverRaven/Cataclysm-DDA/pull/86448))
-* Add DocumentsProvider for Android to enable root-free backup of game data ([#86428](https://github.com/CleverRaven/Cataclysm-DDA/pull/86428))
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
 * [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() ([#86456](https://github.com/CleverRaven/Cataclysm-DDA/pull/86456))
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
