@@ -1,3 +1,12 @@
+* adjust batteries ASCII to match counterparts ([#86563](https://github.com/CleverRaven/Cataclysm-DDA/pull/86563))
+* Fix spawned eoc and debug menu maps ([#86565](https://github.com/CleverRaven/Cataclysm-DDA/pull/86565))
+* Spear hotfix. Fixed wrong material ([#86569](https://github.com/CleverRaven/Cataclysm-DDA/pull/86569))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-19-0404 ([7ab15d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-0404))
+
+* [Magiclysm] Minor fixes ([#86570](https://github.com/CleverRaven/Cataclysm-DDA/pull/86570))
 
 ---
 
@@ -141,7 +150,6 @@
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
 * reduce performance load of noncombatant perk ([#86426](https://github.com/CleverRaven/Cataclysm-DDA/pull/86426))
-* Fixing refugee center merc conversations ([#86421](https://github.com/CleverRaven/Cataclysm-DDA/pull/86421))
 * Add Dextrous Paws mutation, remove Paws from Rat ([#86506](https://github.com/CleverRaven/Cataclysm-DDA/pull/86506))
 * Expand wheel faults, no invincible cart wheels ([#86498](https://github.com/CleverRaven/Cataclysm-DDA/pull/86498))
 * Disable __COUNTER__ in Catch2 when building with clang ([#86501](https://github.com/CleverRaven/Cataclysm-DDA/pull/86501))
@@ -170,11 +178,6 @@
 
 * [MoM] Modify power effectiveness based on weariness ([#86446](https://github.com/CleverRaven/Cataclysm-DDA/pull/86446))
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-15-2142 ([cf614c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-15-2142))
-
 * [XE] Add anti-shabriri hedge magic spell ([#86462](https://github.com/CleverRaven/Cataclysm-DDA/pull/86462))
 * Add a sewing machine and tweak the hoodie recipes to make use of it ([#86455](https://github.com/CleverRaven/Cataclysm-DDA/pull/86455))
 * [Magiclysm] Alchemic Circlets actually calmy to wear. ([#86468](https://github.com/CleverRaven/Cataclysm-DDA/pull/86468))
@@ -199,7 +202,6 @@
 * Winter wheat, a variety of wheat that can be grown... over winter. ([#86448](https://github.com/CleverRaven/Cataclysm-DDA/pull/86448))
 * Add DocumentsProvider for Android to enable root-free backup of game data ([#86428](https://github.com/CleverRaven/Cataclysm-DDA/pull/86428))
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
-* Aftershock: Rocket Pack Sprint ([#86419](https://github.com/CleverRaven/Cataclysm-DDA/pull/86419))
 * [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() ([#86456](https://github.com/CleverRaven/Cataclysm-DDA/pull/86456))
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
 * Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
@@ -219,4 +221,3 @@
 * Exodii drop pods and ponds are visible from afar ([#86423](https://github.com/CleverRaven/Cataclysm-DDA/pull/86423))
 * Fix under-alignment of small_literal_vector ([#86440](https://github.com/CleverRaven/Cataclysm-DDA/pull/86440))
 * [Mind over Matter] Coagulation fix ([#86439](https://github.com/CleverRaven/Cataclysm-DDA/pull/86439))
-* Npcs dont freeze to death with NPC needs disabled ([#86417](https://github.com/CleverRaven/Cataclysm-DDA/pull/86417))
