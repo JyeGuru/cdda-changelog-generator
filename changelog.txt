@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-20-2327 (a165b9c)
+* Make Rc car accept medium batteries (#86568)
+
 Cataclysm-DDA experimental build 2026-04-20-1949 (adb13ad)
 * fix lab coat encumbrance (#86594)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2026-04-17-2147 (95abd73)
 
 Cataclysm-DDA experimental build 2026-04-17-2054 (633cd51)
 * Steel pipe/handle fault creation + implementation (#86538)
-
-Cataclysm-DDA experimental build 2026-04-17-1857 (3ced787)
 * Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub (#86535)
 * Create pp_generator JSON type for post-process generators (#86543)
 * Should be the last step for #83242 (#86541)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2026-04-17-1857 (3ced787)
 * Limbify Little Paws (#86458)
 * [MoM] Convert remaining paths over to psionic_power_modifiers() (#86457)
 * Various sunken heli fixes and adjustments (#86451)
-* Add myself to the bug review (#86450)

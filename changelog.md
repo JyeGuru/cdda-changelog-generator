@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-20-2327 ([a165b9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-2327))
+
+* Make Rc car accept medium batteries ([#86568](https://github.com/CleverRaven/Cataclysm-DDA/pull/86568))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-20-1949 ([adb13ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1949))
 
 * fix lab coat encumbrance ([#86594](https://github.com/CleverRaven/Cataclysm-DDA/pull/86594))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-04-17-2054 ([633cd51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-2054))
 
 * Steel pipe/handle fault creation + implementation ([#86538](https://github.com/CleverRaven/Cataclysm-DDA/pull/86538))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-17-1857 ([3ced787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1857))
-
 * Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub ([#86535](https://github.com/CleverRaven/Cataclysm-DDA/pull/86535))
 * Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
 * Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
@@ -235,4 +236,3 @@
 * Limbify Little Paws ([#86458](https://github.com/CleverRaven/Cataclysm-DDA/pull/86458))
 * [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))
 * Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
-* Add myself to the bug review ([#86450](https://github.com/CleverRaven/Cataclysm-DDA/pull/86450))
