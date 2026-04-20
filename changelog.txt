@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-20-1254 (f7a88a6)
+* AltarOS sends you to the labyrinth to find a power source (#86596)
+
 Cataclysm-DDA experimental build 2026-04-20-0623 (66cc38e)
 * Allow Survival Knives to fit sheaths (#86593)
 * Quickfix for crafting lighting conditions warning (#86590)
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2026-04-17-0454 (7c4f76a)
 * [Xedra Evolved] Add subparts for Paraclesian eyes (#86528)
 * Limbify Feline Eyes (#86529)
 * Add monster infrared vision (#86532)
-
-Cataclysm-DDA experimental build 2026-04-17-0414 (482a8ad)
 * Extract post-process generators from mapgen.cpp (#86533)
 * Remove extra semicolon in newcharacter.cpp (#86531)
 * Fix zone sort viewport stuck when nothing to sort (#86525)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2026-04-17-0414 (482a8ad)
 * Add hair dyes alongside hair dye kits in supermarkets (#86453)
 * Limbify Little Paws (#86458)
 * [MoM] Convert remaining paths over to psionic_power_modifiers() (#86457)
-* Weekly Changelog 2026-04-06 to 2026-04-13 (#86445)
 * Various sunken heli fixes and adjustments (#86451)
 * Add myself to the bug review (#86450)
