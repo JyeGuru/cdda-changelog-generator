@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-20-0320 ([834a33e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-0320))
+
+* Infrastructure "Wrap remaining SDL names at the CATA_* boundary" ([#86588](https://github.com/CleverRaven/Cataclysm-DDA/pull/86588))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-19-2324 ([c9b8ae9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-2324))
 
 * Update use_action messages, part 2 ([#86475](https://github.com/CleverRaven/Cataclysm-DDA/pull/86475))
@@ -161,7 +167,6 @@
 #### Cataclysm-DDA experimental build 2026-04-17-0454 ([7c4f76a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-0454))
 
 * Allow copy-from, abstract, and using for recipe steps ([#86526](https://github.com/CleverRaven/Cataclysm-DDA/pull/86526))
-* Modify ring of sustenance to target BMI category ([#86437](https://github.com/CleverRaven/Cataclysm-DDA/pull/86437))
 * Prevent tindalos hounds teleporting before first establishing LoS ([#86449](https://github.com/CleverRaven/Cataclysm-DDA/pull/86449))
 * [Xedra Evolved] Add subparts for Paraclesian eyes ([#86528](https://github.com/CleverRaven/Cataclysm-DDA/pull/86528))
 * Limbify Feline Eyes ([#86529](https://github.com/CleverRaven/Cataclysm-DDA/pull/86529))
