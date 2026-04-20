@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-20-1949 ([adb13ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1949))
+
+* fix lab coat encumbrance ([#86594](https://github.com/CleverRaven/Cataclysm-DDA/pull/86594))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-20-1903 ([d42eb67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1903))
 
 * Nobody wants to cooperate with psychopaths ([#86578](https://github.com/CleverRaven/Cataclysm-DDA/pull/86578))
@@ -180,15 +186,9 @@
 #### Cataclysm-DDA experimental build 2026-04-17-1857 ([3ced787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1857))
 
 * Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub ([#86535](https://github.com/CleverRaven/Cataclysm-DDA/pull/86535))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-17-1734 ([7002939](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1734))
-
 * Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
 * Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
 * Allow copy-from, abstract, and using for recipe steps ([#86526](https://github.com/CleverRaven/Cataclysm-DDA/pull/86526))
-* Prevent tindalos hounds teleporting before first establishing LoS ([#86449](https://github.com/CleverRaven/Cataclysm-DDA/pull/86449))
 * [Xedra Evolved] Add subparts for Paraclesian eyes ([#86528](https://github.com/CleverRaven/Cataclysm-DDA/pull/86528))
 * Limbify Feline Eyes ([#86529](https://github.com/CleverRaven/Cataclysm-DDA/pull/86529))
 * Add monster infrared vision ([#86532](https://github.com/CleverRaven/Cataclysm-DDA/pull/86532))
