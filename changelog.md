@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-20-1804 ([4215eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1804))
+
+* Separate the vanilla and XE "deck of tarot" items ([#86600](https://github.com/CleverRaven/Cataclysm-DDA/pull/86600))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-20-1254 ([f7a88a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1254))
 
 * AltarOS sends you to the labyrinth to find a power source ([#86596](https://github.com/CleverRaven/Cataclysm-DDA/pull/86596))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-04-17-1029 ([9d0a79c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1029))
 
 * Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-17-0454 ([7c4f76a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-0454))
-
 * Allow copy-from, abstract, and using for recipe steps ([#86526](https://github.com/CleverRaven/Cataclysm-DDA/pull/86526))
 * Prevent tindalos hounds teleporting before first establishing LoS ([#86449](https://github.com/CleverRaven/Cataclysm-DDA/pull/86449))
 * [Xedra Evolved] Add subparts for Paraclesian eyes ([#86528](https://github.com/CleverRaven/Cataclysm-DDA/pull/86528))
@@ -200,7 +201,6 @@
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
 * Clean up tips ([#86454](https://github.com/CleverRaven/Cataclysm-DDA/pull/86454))
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
-* [MoM] Modify power effectiveness based on weariness ([#86446](https://github.com/CleverRaven/Cataclysm-DDA/pull/86446))
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
 * [XE] Add anti-shabriri hedge magic spell ([#86462](https://github.com/CleverRaven/Cataclysm-DDA/pull/86462))
 * Add a sewing machine and tweak the hoodie recipes to make use of it ([#86455](https://github.com/CleverRaven/Cataclysm-DDA/pull/86455))
