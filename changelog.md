@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-20-1903 ([d42eb67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1903))
+
+* Nobody wants to cooperate with psychopaths ([#86578](https://github.com/CleverRaven/Cataclysm-DDA/pull/86578))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-20-1804 ([4215eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1804))
 
 * Separate the vanilla and XE "deck of tarot" items ([#86600](https://github.com/CleverRaven/Cataclysm-DDA/pull/86600))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-04-17-1734 ([7002939](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1734))
 
 * Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-17-1029 ([9d0a79c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-1029))
-
 * Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
 * Allow copy-from, abstract, and using for recipe steps ([#86526](https://github.com/CleverRaven/Cataclysm-DDA/pull/86526))
 * Prevent tindalos hounds teleporting before first establishing LoS ([#86449](https://github.com/CleverRaven/Cataclysm-DDA/pull/86449))
@@ -223,7 +224,6 @@
 * Update docs for gender in EOCs ([#86500](https://github.com/CleverRaven/Cataclysm-DDA/pull/86500))
 * Expose character gender to math/eoc ([#86497](https://github.com/CleverRaven/Cataclysm-DDA/pull/86497))
 * Character creator UI: first-pass improvements ([#86487](https://github.com/CleverRaven/Cataclysm-DDA/pull/86487))
-* Winter wheat, a variety of wheat that can be grown... over winter. ([#86448](https://github.com/CleverRaven/Cataclysm-DDA/pull/86448))
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
 * [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() ([#86456](https://github.com/CleverRaven/Cataclysm-DDA/pull/86456))
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
