@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-21-0331 ([0d8bc9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-21-0331))
+
+* fix cellar nest error ([#86605](https://github.com/CleverRaven/Cataclysm-DDA/pull/86605))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-20-2327 ([a165b9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-2327))
 
 * Make Rc car accept medium batteries ([#86568](https://github.com/CleverRaven/Cataclysm-DDA/pull/86568))
@@ -180,11 +186,6 @@
 * Remove safemode menu setting and restore safe mode persistence ([#86544](https://github.com/CleverRaven/Cataclysm-DDA/pull/86544))
 * Add steps to the long underpants recipe ([#86548](https://github.com/CleverRaven/Cataclysm-DDA/pull/86548))
 * Fur coverage for rabbit fur ([#86549](https://github.com/CleverRaven/Cataclysm-DDA/pull/86549))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-17-2054 ([633cd51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-2054))
-
 * Steel pipe/handle fault creation + implementation ([#86538](https://github.com/CleverRaven/Cataclysm-DDA/pull/86538))
 * Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub ([#86535](https://github.com/CleverRaven/Cataclysm-DDA/pull/86535))
 * Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
@@ -235,4 +236,3 @@
 * Add hair dyes alongside hair dye kits in supermarkets ([#86453](https://github.com/CleverRaven/Cataclysm-DDA/pull/86453))
 * Limbify Little Paws ([#86458](https://github.com/CleverRaven/Cataclysm-DDA/pull/86458))
 * [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))
-* Various sunken heli fixes and adjustments ([#86451](https://github.com/CleverRaven/Cataclysm-DDA/pull/86451))
