@@ -1,3 +1,4 @@
+* Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
 
 ---
 
@@ -233,6 +234,5 @@
 * Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
 * Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
 * [Magiclysm] Add steps to crystallized mana recipe ([#86459](https://github.com/CleverRaven/Cataclysm-DDA/pull/86459))
-* Add hair dyes alongside hair dye kits in supermarkets ([#86453](https://github.com/CleverRaven/Cataclysm-DDA/pull/86453))
 * Limbify Little Paws ([#86458](https://github.com/CleverRaven/Cataclysm-DDA/pull/86458))
 * [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))

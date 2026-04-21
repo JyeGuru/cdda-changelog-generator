@@ -1,3 +1,4 @@
+* Step many leg armor recipes and minor tweaks along the way (#86620)
 
 Cataclysm-DDA experimental build 2026-04-21-0646 (5aeb9c2)
 * Add `Stubby Fingers` and `Extended Fingers` traits to lead into paws, add practice recipe to use `Dextrous Paws` and `Little Paws` better (#86603)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2026-04-17-2357 (dc31858)
 * Overmap vision based map extra visibility (#86474)
 * Newspaper snippets (#86460)
 * [Magiclysm] Add steps to crystallized mana recipe (#86459)
-* Add hair dyes alongside hair dye kits in supermarkets (#86453)
 * Limbify Little Paws (#86458)
 * [MoM] Convert remaining paths over to psionic_power_modifiers() (#86457)
