@@ -1,3 +1,10 @@
+* Add a real means to go from the Exodii base to the Labyrinth ([#86631](https://github.com/CleverRaven/Cataclysm-DDA/pull/86631))
+* Setting power CBMs to use torso slots ([#86607](https://github.com/CleverRaven/Cataclysm-DDA/pull/86607))
+* remove thickskin from mentor traitgroup ([#86606](https://github.com/CleverRaven/Cataclysm-DDA/pull/86606))
+* Fix MOLLE pockets not being washed ([#86604](https://github.com/CleverRaven/Cataclysm-DDA/pull/86604))
+* Disable colored light tint overlay in isometric mode ([#86633](https://github.com/CleverRaven/Cataclysm-DDA/pull/86633))
+* "TempleOS" -> "AltarOS" ([#86634](https://github.com/CleverRaven/Cataclysm-DDA/pull/86634))
+* Zombie corpses aren't useful ([#86581](https://github.com/CleverRaven/Cataclysm-DDA/pull/86581))
 
 ---
 
@@ -209,9 +216,7 @@
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
-* [XE] Add anti-shabriri hedge magic spell ([#86462](https://github.com/CleverRaven/Cataclysm-DDA/pull/86462))
 * [Magiclysm] Alchemic Circlets actually calmy to wear. ([#86468](https://github.com/CleverRaven/Cataclysm-DDA/pull/86468))
-* [CR] Add first stages of bullet penetration through multiple entities ([#86465](https://github.com/CleverRaven/Cataclysm-DDA/pull/86465))
 * [Magiclysm] Enhanced Magic Circle have effect on recipe steps ([#86467](https://github.com/CleverRaven/Cataclysm-DDA/pull/86467))
 * pathway outside reverb hint cabin is dirt not wood ([#86502](https://github.com/CleverRaven/Cataclysm-DDA/pull/86502))
 * Fix chain-spawned overmaps skipping unique special deck draws ([#86510](https://github.com/CleverRaven/Cataclysm-DDA/pull/86510))
@@ -232,7 +237,3 @@
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
 * Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
-* Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
-* [Magiclysm] Add steps to crystallized mana recipe ([#86459](https://github.com/CleverRaven/Cataclysm-DDA/pull/86459))
-* Limbify Little Paws ([#86458](https://github.com/CleverRaven/Cataclysm-DDA/pull/86458))
-* [MoM] Convert remaining paths over to psionic_power_modifiers() ([#86457](https://github.com/CleverRaven/Cataclysm-DDA/pull/86457))
