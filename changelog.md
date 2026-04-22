@@ -1,3 +1,15 @@
+* Allow pp_generators to be set up in a way to have no riot damage ([#86611](https://github.com/CleverRaven/Cataclysm-DDA/pull/86611))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-22-0105 ([5759189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-0105))
+
+* Let wandering creatures stumble up regular stairs ([#86618](https://github.com/CleverRaven/Cataclysm-DDA/pull/86618))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-21-2352 ([a6898a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-21-2352))
+
 * Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
 
 ---
@@ -173,17 +185,7 @@
 
 * Tweak the sewing tool requirements and clean up the animal hoodie recipes ([#86545](https://github.com/CleverRaven/Cataclysm-DDA/pull/86545))
 * Step the quilt recipe ([#86546](https://github.com/CleverRaven/Cataclysm-DDA/pull/86546))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-0050 ([73eec69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-0050))
-
 * [Sky Island] Change whole room teleport to only teleport items in the room ([#86547](https://github.com/CleverRaven/Cataclysm-DDA/pull/86547))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-17-2357 ([dc31858](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-17-2357))
-
 * Give feral troglobites infravision ([#86554](https://github.com/CleverRaven/Cataclysm-DDA/pull/86554))
 * Remove safemode menu setting and restore safe mode persistence ([#86544](https://github.com/CleverRaven/Cataclysm-DDA/pull/86544))
 * Add steps to the long underpants recipe ([#86548](https://github.com/CleverRaven/Cataclysm-DDA/pull/86548))
@@ -204,11 +206,9 @@
 * Expand wheel faults, no invincible cart wheels ([#86498](https://github.com/CleverRaven/Cataclysm-DDA/pull/86498))
 * Disable __COUNTER__ in Catch2 when building with clang ([#86501](https://github.com/CleverRaven/Cataclysm-DDA/pull/86501))
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
-* Clean up tips ([#86454](https://github.com/CleverRaven/Cataclysm-DDA/pull/86454))
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
 * [XE] Add anti-shabriri hedge magic spell ([#86462](https://github.com/CleverRaven/Cataclysm-DDA/pull/86462))
-* Add a sewing machine and tweak the hoodie recipes to make use of it ([#86455](https://github.com/CleverRaven/Cataclysm-DDA/pull/86455))
 * [Magiclysm] Alchemic Circlets actually calmy to wear. ([#86468](https://github.com/CleverRaven/Cataclysm-DDA/pull/86468))
 * [CR] Add first stages of bullet penetration through multiple entities ([#86465](https://github.com/CleverRaven/Cataclysm-DDA/pull/86465))
 * [Magiclysm] Enhanced Magic Circle have effect on recipe steps ([#86467](https://github.com/CleverRaven/Cataclysm-DDA/pull/86467))
