@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-22-1850 ([949e436](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-1850))
+
 * Add a real means to go from the Exodii base to the Labyrinth ([#86631](https://github.com/CleverRaven/Cataclysm-DDA/pull/86631))
 * Setting power CBMs to use torso slots ([#86607](https://github.com/CleverRaven/Cataclysm-DDA/pull/86607))
 * remove thickskin from mentor traitgroup ([#86606](https://github.com/CleverRaven/Cataclysm-DDA/pull/86606))
