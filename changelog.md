@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-22-0147 ([ccff228](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-0147))
+
+* [Magiclysm] Add two new alcoholic drinks from potion ingredients ([#86579](https://github.com/CleverRaven/Cataclysm-DDA/pull/86579))
 * Allow pp_generators to be set up in a way to have no riot damage ([#86611](https://github.com/CleverRaven/Cataclysm-DDA/pull/86611))
 
 ---
@@ -178,11 +184,6 @@
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
 * (XE) Minor typo/grammar fixes ([#86540](https://github.com/CleverRaven/Cataclysm-DDA/pull/86540))
 * implement first labyrinth safehouse ([#86542](https://github.com/CleverRaven/Cataclysm-DDA/pull/86542))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-0149 ([2b877ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-0149))
-
 * Tweak the sewing tool requirements and clean up the animal hoodie recipes ([#86545](https://github.com/CleverRaven/Cataclysm-DDA/pull/86545))
 * Step the quilt recipe ([#86546](https://github.com/CleverRaven/Cataclysm-DDA/pull/86546))
 * [Sky Island] Change whole room teleport to only teleport items in the room ([#86547](https://github.com/CleverRaven/Cataclysm-DDA/pull/86547))
@@ -229,7 +230,6 @@
 * Expose character gender to math/eoc ([#86497](https://github.com/CleverRaven/Cataclysm-DDA/pull/86497))
 * Character creator UI: first-pass improvements ([#86487](https://github.com/CleverRaven/Cataclysm-DDA/pull/86487))
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
-* [MoM] Convert biokinesis, clairsentience, and electrokinesis over to psionic_power_modifiers() ([#86456](https://github.com/CleverRaven/Cataclysm-DDA/pull/86456))
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
 * Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
 * Newspaper snippets ([#86460](https://github.com/CleverRaven/Cataclysm-DDA/pull/86460))
