@@ -4,6 +4,11 @@
 * Fix MOLLE pockets not being washed ([#86604](https://github.com/CleverRaven/Cataclysm-DDA/pull/86604))
 * Disable colored light tint overlay in isometric mode ([#86633](https://github.com/CleverRaven/Cataclysm-DDA/pull/86633))
 * "TempleOS" -> "AltarOS" ([#86634](https://github.com/CleverRaven/Cataclysm-DDA/pull/86634))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-22-1430 ([f01831b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-1430))
+
 * Zombie corpses aren't useful ([#86581](https://github.com/CleverRaven/Cataclysm-DDA/pull/86581))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-04-18-1009 ([08529e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1009))
 
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-0230 ([b577858](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-0230))
-
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
 * (XE) Minor typo/grammar fixes ([#86540](https://github.com/CleverRaven/Cataclysm-DDA/pull/86540))
 * implement first labyrinth safehouse ([#86542](https://github.com/CleverRaven/Cataclysm-DDA/pull/86542))
