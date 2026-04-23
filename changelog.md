@@ -1,3 +1,20 @@
+* Guard snmalloc Windows libraries behind WIN32 ([#86646](https://github.com/CleverRaven/Cataclysm-DDA/pull/86646))
+* Add vehicle tanks to the consume menu ([#86632](https://github.com/CleverRaven/Cataclysm-DDA/pull/86632))
+* Make batch cooking of elderberries possible ([#86652](https://github.com/CleverRaven/Cataclysm-DDA/pull/86652))
+* Correct highway bridge support rotation on overmap ([#86650](https://github.com/CleverRaven/Cataclysm-DDA/pull/86650))
+* labyrinth safehouse location is remembered ([#86655](https://github.com/CleverRaven/Cataclysm-DDA/pull/86655))
+* [XEDRA Evolved] Change sweet dreams message log color to `good` ([#86656](https://github.com/CleverRaven/Cataclysm-DDA/pull/86656))
+* Applied the general fault for cotton clothing to torso, legs and undergarment clothing ([#86658](https://github.com/CleverRaven/Cataclysm-DDA/pull/86658))
+* Aftershock: Agricultural Habitat Expansion. ([#86584](https://github.com/CleverRaven/Cataclysm-DDA/pull/86584))
+* A 2D tunnel from labyrinths to the string dimension ([#86654](https://github.com/CleverRaven/Cataclysm-DDA/pull/86654))
+* Remove shopping bag gloves ([#86653](https://github.com/CleverRaven/Cataclysm-DDA/pull/86653))
+* Restore default name setting in custom chargen ([#86639](https://github.com/CleverRaven/Cataclysm-DDA/pull/86639))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-23-1908 ([fe35acb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-1908))
+
+* [Hunvre] Remove riot damage from Hunvre's cities ([#86601](https://github.com/CleverRaven/Cataclysm-DDA/pull/86601))
 
 ---
 
@@ -184,11 +201,6 @@
 
 * Update EOD hot stick prices ([#86539](https://github.com/CleverRaven/Cataclysm-DDA/pull/86539))
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-1520 ([838c290](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1520))
-
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
 * Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
 * Character creator UI: second-pass improvements ([#86515](https://github.com/CleverRaven/Cataclysm-DDA/pull/86515))
@@ -224,18 +236,6 @@
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
 * pathway outside reverb hint cabin is dirt not wood ([#86502](https://github.com/CleverRaven/Cataclysm-DDA/pull/86502))
 * Fix chain-spawned overmaps skipping unique special deck draws ([#86510](https://github.com/CleverRaven/Cataclysm-DDA/pull/86510))
-* Full copy-from support for overmap specials ([#86488](https://github.com/CleverRaven/Cataclysm-DDA/pull/86488))
 * Migrated everything involving the deminer bot to obsoletion ([#86511](https://github.com/CleverRaven/Cataclysm-DDA/pull/86511))
-* Use weighed not weighted in medical menu ([#86480](https://github.com/CleverRaven/Cataclysm-DDA/pull/86480))
-* Limbify Bulging Eyes ([#86493](https://github.com/CleverRaven/Cataclysm-DDA/pull/86493))
-* Removes direct cooked acorn recipe ([#86494](https://github.com/CleverRaven/Cataclysm-DDA/pull/86494))
-* Fix #86479 ([#86489](https://github.com/CleverRaven/Cataclysm-DDA/pull/86489))
 * Fix the generic expressions for limbs in medical ui ([#86504](https://github.com/CleverRaven/Cataclysm-DDA/pull/86504))
-* Fix control reaches end of non-void function for old gcc versions ([#86490](https://github.com/CleverRaven/Cataclysm-DDA/pull/86490))
-* Update robot.json (Wraitheon Fulgent Dissassembly-fix) [Aftershock] ([#86485](https://github.com/CleverRaven/Cataclysm-DDA/pull/86485))
-* Fix camp smithy only allowing one anvil type ([#86495](https://github.com/CleverRaven/Cataclysm-DDA/pull/86495))
 * Update docs for gender in EOCs ([#86500](https://github.com/CleverRaven/Cataclysm-DDA/pull/86500))
-* Expose character gender to math/eoc ([#86497](https://github.com/CleverRaven/Cataclysm-DDA/pull/86497))
-* Character creator UI: first-pass improvements ([#86487](https://github.com/CleverRaven/Cataclysm-DDA/pull/86487))
-* Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
-* Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
