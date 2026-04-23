@@ -1,3 +1,11 @@
+* Fix your weight always being shown in kg ([#86621](https://github.com/CleverRaven/Cataclysm-DDA/pull/86621))
+* guard ascii info and final info with iteminfo test ([#86643](https://github.com/CleverRaven/Cataclysm-DDA/pull/86643))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-23-2034 ([6e84a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-2034))
+
+* Bugfixes "remove nonexistent <ls_obelisk_firsttime2> snippet reference from labyrinth obelisks" ([#86638](https://github.com/CleverRaven/Cataclysm-DDA/pull/86638))
 * Guard snmalloc Windows libraries behind WIN32 ([#86646](https://github.com/CleverRaven/Cataclysm-DDA/pull/86646))
 * Add vehicle tanks to the consume menu ([#86632](https://github.com/CleverRaven/Cataclysm-DDA/pull/86632))
 * Make batch cooking of elderberries possible ([#86652](https://github.com/CleverRaven/Cataclysm-DDA/pull/86652))
@@ -194,11 +202,6 @@
 
 * Two new faults for clothing ([#86530](https://github.com/CleverRaven/Cataclysm-DDA/pull/86530))
 * Fix MOLLE pockets have no degradation ([#86555](https://github.com/CleverRaven/Cataclysm-DDA/pull/86555))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-1633 ([484cae8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1633))
-
 * Update EOD hot stick prices ([#86539](https://github.com/CleverRaven/Cataclysm-DDA/pull/86539))
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
@@ -229,8 +232,6 @@
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
 * Add Dextrous Paws mutation, remove Paws from Rat ([#86506](https://github.com/CleverRaven/Cataclysm-DDA/pull/86506))
-* Expand wheel faults, no invincible cart wheels ([#86498](https://github.com/CleverRaven/Cataclysm-DDA/pull/86498))
-* Disable __COUNTER__ in Catch2 when building with clang ([#86501](https://github.com/CleverRaven/Cataclysm-DDA/pull/86501))
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
@@ -238,4 +239,3 @@
 * Fix chain-spawned overmaps skipping unique special deck draws ([#86510](https://github.com/CleverRaven/Cataclysm-DDA/pull/86510))
 * Migrated everything involving the deminer bot to obsoletion ([#86511](https://github.com/CleverRaven/Cataclysm-DDA/pull/86511))
 * Fix the generic expressions for limbs in medical ui ([#86504](https://github.com/CleverRaven/Cataclysm-DDA/pull/86504))
-* Update docs for gender in EOCs ([#86500](https://github.com/CleverRaven/Cataclysm-DDA/pull/86500))
