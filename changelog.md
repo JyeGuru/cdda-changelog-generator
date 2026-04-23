@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-23-0453 ([d587d47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-0453))
+
+* Allow mining pits and stairs on rock without roof ([#86614](https://github.com/CleverRaven/Cataclysm-DDA/pull/86614))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-23-0302 ([1042f19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-0302))
 
 * [Sky Island] Warped harness upgrades ([#86616](https://github.com/CleverRaven/Cataclysm-DDA/pull/86616))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-04-18-1326 ([8bbebc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1326))
 
 * Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-1223 ([8b3c983](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1223))
-
 * Character creator UI: second-pass improvements ([#86515](https://github.com/CleverRaven/Cataclysm-DDA/pull/86515))
 * (new) ASCII art for some (old) items ([#86537](https://github.com/CleverRaven/Cataclysm-DDA/pull/86537))
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
@@ -243,4 +244,3 @@
 * Character creator UI: first-pass improvements ([#86487](https://github.com/CleverRaven/Cataclysm-DDA/pull/86487))
 * Hotfix: move android-only block to uilist::query ([#86477](https://github.com/CleverRaven/Cataclysm-DDA/pull/86477))
 * Limbify Paws ([#86486](https://github.com/CleverRaven/Cataclysm-DDA/pull/86486))
-* Overmap vision based map extra visibility ([#86474](https://github.com/CleverRaven/Cataclysm-DDA/pull/86474))
