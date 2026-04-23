@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-23-2201 (acc8fa1)
 * Fix your weight always being shown in kg (#86621)
 * guard ascii info and final info with iteminfo test (#86643)
 
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2026-04-18-1949 (19a4643)
 Cataclysm-DDA experimental build 2026-04-18-1832 (6c39d5c)
 *  adjusted spear and pike recipe to include drift. Added graded steel variants of the spear and pike (#86536)
 * Add sibling overlap detection to mapgen static check (#86564)
-
-Cataclysm-DDA experimental build 2026-04-18-1740 (316422d)
 * Two new faults for clothing (#86530)
 * Fix MOLLE pockets have no degradation (#86555)
 * Update EOD hot stick prices (#86539)

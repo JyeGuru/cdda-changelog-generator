@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-23-2201 ([acc8fa1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-2201))
+
 * Fix your weight always being shown in kg ([#86621](https://github.com/CleverRaven/Cataclysm-DDA/pull/86621))
 * guard ascii info and final info with iteminfo test ([#86643](https://github.com/CleverRaven/Cataclysm-DDA/pull/86643))
 
@@ -195,11 +200,6 @@
 
 *  adjusted spear and pike recipe to include drift. Added graded steel variants of the spear and pike ([#86536](https://github.com/CleverRaven/Cataclysm-DDA/pull/86536))
 * Add sibling overlap detection to mapgen static check ([#86564](https://github.com/CleverRaven/Cataclysm-DDA/pull/86564))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-1740 ([316422d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1740))
-
 * Two new faults for clothing ([#86530](https://github.com/CleverRaven/Cataclysm-DDA/pull/86530))
 * Fix MOLLE pockets have no degradation ([#86555](https://github.com/CleverRaven/Cataclysm-DDA/pull/86555))
 * Update EOD hot stick prices ([#86539](https://github.com/CleverRaven/Cataclysm-DDA/pull/86539))
