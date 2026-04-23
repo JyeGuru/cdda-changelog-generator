@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-23-1757 ([99324f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-1757))
+
+* [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks ([#86648](https://github.com/CleverRaven/Cataclysm-DDA/pull/86648))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-23-0453 ([d587d47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-0453))
 
 * Allow mining pits and stairs on rock without roof ([#86614](https://github.com/CleverRaven/Cataclysm-DDA/pull/86614))
@@ -119,12 +125,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-04-19-2324 ([c9b8ae9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-2324))
-
-* Update use_action messages, part 2 ([#86475](https://github.com/CleverRaven/Cataclysm-DDA/pull/86475))
-
----
-
 #### Cataclysm-DDA experimental build 2026-04-19-1740 ([f23e270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-1740))
 
 * Add Windows libraries for snmalloc ([#86577](https://github.com/CleverRaven/Cataclysm-DDA/pull/86577))
@@ -190,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-04-18-1520 ([838c290](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1520))
 
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-1326 ([8bbebc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1326))
-
 * Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
 * Character creator UI: second-pass improvements ([#86515](https://github.com/CleverRaven/Cataclysm-DDA/pull/86515))
 * (new) ASCII art for some (old) items ([#86537](https://github.com/CleverRaven/Cataclysm-DDA/pull/86537))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-23-1757 (99324f2)
+* [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks (#86648)
+
 Cataclysm-DDA experimental build 2026-04-23-0453 (d587d47)
 * Allow mining pits and stairs on rock without roof (#86614)
 
@@ -63,9 +66,6 @@ Cataclysm-DDA experimental build 2026-04-20-0538 (6482358)
 Cataclysm-DDA experimental build 2026-04-20-0320 (834a33e)
 * Infrastructure "Wrap remaining SDL names at the CATA_* boundary" (#86588)
 
-Cataclysm-DDA experimental build 2026-04-19-2324 (c9b8ae9)
-* Update use_action messages, part 2 (#86475)
-
 Cataclysm-DDA experimental build 2026-04-19-1740 (f23e270)
 * Add Windows libraries for snmalloc (#86577)
 * Persist post-process decisions per overmap_special so multi-story buildings burn consistently (#86576)
@@ -103,8 +103,6 @@ Cataclysm-DDA experimental build 2026-04-18-1633 (484cae8)
 
 Cataclysm-DDA experimental build 2026-04-18-1520 (838c290)
 * Fix labyrinth door flags (#86562)
-
-Cataclysm-DDA experimental build 2026-04-18-1326 (8bbebc8)
 * Make pre_burn respect terrain and furniture combustibility (#86553)
 * Character creator UI: second-pass improvements (#86515)
 * (new) ASCII art for some (old) items (#86537)
