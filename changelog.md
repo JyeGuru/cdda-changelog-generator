@@ -1,3 +1,13 @@
+* [Sky Island] Warped harness upgrades ([#86616](https://github.com/CleverRaven/Cataclysm-DDA/pull/86616))
+* Split farm fields from hay fields for overmap routing ([#86635](https://github.com/CleverRaven/Cataclysm-DDA/pull/86635))
+* Fix flaky climbing_creatures_use_ladders test ([#86636](https://github.com/CleverRaven/Cataclysm-DDA/pull/86636))
+* Fix flaky weighted_list_weights_after_remove test ([#86642](https://github.com/CleverRaven/Cataclysm-DDA/pull/86642))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-23-0028 ([ba6ab8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-0028))
+
+* Correct tile rotations ([#86574](https://github.com/CleverRaven/Cataclysm-DDA/pull/86574))
 
 ---
 
@@ -187,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-04-18-1130 ([0853283](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1130))
 
 * (new) ASCII art for some (old) items ([#86537](https://github.com/CleverRaven/Cataclysm-DDA/pull/86537))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-1009 ([08529e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1009))
-
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
 * (XE) Minor typo/grammar fixes ([#86540](https://github.com/CleverRaven/Cataclysm-DDA/pull/86540))
@@ -221,8 +226,6 @@
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
-* [Magiclysm] Alchemic Circlets actually calmy to wear. ([#86468](https://github.com/CleverRaven/Cataclysm-DDA/pull/86468))
-* [Magiclysm] Enhanced Magic Circle have effect on recipe steps ([#86467](https://github.com/CleverRaven/Cataclysm-DDA/pull/86467))
 * pathway outside reverb hint cabin is dirt not wood ([#86502](https://github.com/CleverRaven/Cataclysm-DDA/pull/86502))
 * Fix chain-spawned overmaps skipping unique special deck draws ([#86510](https://github.com/CleverRaven/Cataclysm-DDA/pull/86510))
 * Full copy-from support for overmap specials ([#86488](https://github.com/CleverRaven/Cataclysm-DDA/pull/86488))
@@ -234,7 +237,6 @@
 * Fix the generic expressions for limbs in medical ui ([#86504](https://github.com/CleverRaven/Cataclysm-DDA/pull/86504))
 * Fix control reaches end of non-void function for old gcc versions ([#86490](https://github.com/CleverRaven/Cataclysm-DDA/pull/86490))
 * Update robot.json (Wraitheon Fulgent Dissassembly-fix) [Aftershock] ([#86485](https://github.com/CleverRaven/Cataclysm-DDA/pull/86485))
-* Change Mangalpreet Singh's last name to Kaur to more accurately reflect Sikh traditions ([#86466](https://github.com/CleverRaven/Cataclysm-DDA/pull/86466))
 * Fix camp smithy only allowing one anvil type ([#86495](https://github.com/CleverRaven/Cataclysm-DDA/pull/86495))
 * Update docs for gender in EOCs ([#86500](https://github.com/CleverRaven/Cataclysm-DDA/pull/86500))
 * Expose character gender to math/eoc ([#86497](https://github.com/CleverRaven/Cataclysm-DDA/pull/86497))
