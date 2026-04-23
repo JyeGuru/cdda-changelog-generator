@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-23-0302 (1042f19)
 * [Sky Island] Warped harness upgrades (#86616)
 * Split farm fields from hay fields for overmap routing (#86635)
 * Fix flaky climbing_creatures_use_ladders test (#86636)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2026-04-18-1326 (8bbebc8)
 
 Cataclysm-DDA experimental build 2026-04-18-1223 (8b3c983)
 * Character creator UI: second-pass improvements (#86515)
-
-Cataclysm-DDA experimental build 2026-04-18-1130 (0853283)
 * (new) ASCII art for some (old) items (#86537)
 * Bugfix for vehicle falling through floor (#86559)
 * Butterfly wing limbs (#86557)
