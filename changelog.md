@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-23-2346 ([85616ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-2346))
+
+* Gate zone sort pickup on destination capacity ([#86644](https://github.com/CleverRaven/Cataclysm-DDA/pull/86644))
+* Update use_action messages, part 3 ([#86599](https://github.com/CleverRaven/Cataclysm-DDA/pull/86599))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-23-2201 ([acc8fa1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-2201))
 
 * Fix your weight always being shown in kg ([#86621](https://github.com/CleverRaven/Cataclysm-DDA/pull/86621))
@@ -193,11 +200,6 @@
 
 * add eoc effect to pick up a bodypart ([#86552](https://github.com/CleverRaven/Cataclysm-DDA/pull/86552))
 * Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-18-1832 ([6c39d5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-18-1832))
-
 *  adjusted spear and pike recipe to include drift. Added graded steel variants of the spear and pike ([#86536](https://github.com/CleverRaven/Cataclysm-DDA/pull/86536))
 * Add sibling overlap detection to mapgen static check ([#86564](https://github.com/CleverRaven/Cataclysm-DDA/pull/86564))
 * Two new faults for clothing ([#86530](https://github.com/CleverRaven/Cataclysm-DDA/pull/86530))
@@ -231,11 +233,8 @@
 * Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
-* Add Dextrous Paws mutation, remove Paws from Rat ([#86506](https://github.com/CleverRaven/Cataclysm-DDA/pull/86506))
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
 * Segfault fix: sort companion armor ([#86507](https://github.com/CleverRaven/Cataclysm-DDA/pull/86507))
 * Fix minimap beacon colors not cycling during idle ([#86508](https://github.com/CleverRaven/Cataclysm-DDA/pull/86508))
-* pathway outside reverb hint cabin is dirt not wood ([#86502](https://github.com/CleverRaven/Cataclysm-DDA/pull/86502))
 * Fix chain-spawned overmaps skipping unique special deck draws ([#86510](https://github.com/CleverRaven/Cataclysm-DDA/pull/86510))
 * Migrated everything involving the deminer bot to obsoletion ([#86511](https://github.com/CleverRaven/Cataclysm-DDA/pull/86511))
-* Fix the generic expressions for limbs in medical ui ([#86504](https://github.com/CleverRaven/Cataclysm-DDA/pull/86504))
