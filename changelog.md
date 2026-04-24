@@ -1,3 +1,4 @@
+* [MoM] Momentum alteration effectiveness cap ([#86664](https://github.com/CleverRaven/Cataclysm-DDA/pull/86664))
 * Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
 
 ---
@@ -237,4 +238,3 @@
 * Extract post-process generators from mapgen.cpp ([#86533](https://github.com/CleverRaven/Cataclysm-DDA/pull/86533))
 * Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
-* Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
