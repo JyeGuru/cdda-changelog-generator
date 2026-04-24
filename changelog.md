@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-24-0537 ([947fe64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-0537))
+
+* ASCII Art for kitchen utensils and more ([#86589](https://github.com/CleverRaven/Cataclysm-DDA/pull/86589))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-24-0351 ([1e62447](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-0351))
 
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-04-19-0538 ([0cf1501](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-0538))
 
 * [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-19-0452 ([ed7a059](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-0452))
-
 * Add post_process_generators field to oter_type_t, migrate PP_GENERATE_RIOT_DAMAGE ([#86558](https://github.com/CleverRaven/Cataclysm-DDA/pull/86558))
 * adjust batteries ASCII to match counterparts ([#86563](https://github.com/CleverRaven/Cataclysm-DDA/pull/86563))
 * Fix spawned eoc and debug menu maps ([#86565](https://github.com/CleverRaven/Cataclysm-DDA/pull/86565))
@@ -236,5 +237,3 @@
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
 * Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
-* Fix chain-spawned overmaps skipping unique special deck draws ([#86510](https://github.com/CleverRaven/Cataclysm-DDA/pull/86510))
-* Migrated everything involving the deminer bot to obsoletion ([#86511](https://github.com/CleverRaven/Cataclysm-DDA/pull/86511))
