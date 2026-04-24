@@ -198,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2026-04-20-0538 ([6482358](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-0538))
 
 * Remove debug phase movement from quick setup ([#86585](https://github.com/CleverRaven/Cataclysm-DDA/pull/86585))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-20-0320 ([834a33e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-0320))
-
 * Infrastructure "Wrap remaining SDL names at the CATA_* boundary" ([#86588](https://github.com/CleverRaven/Cataclysm-DDA/pull/86588))
 * Add Windows libraries for snmalloc ([#86577](https://github.com/CleverRaven/Cataclysm-DDA/pull/86577))
 * Persist post-process decisions per overmap_special so multi-story buildings burn consistently ([#86576](https://github.com/CleverRaven/Cataclysm-DDA/pull/86576))
