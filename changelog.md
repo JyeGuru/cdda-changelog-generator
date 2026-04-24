@@ -1,3 +1,4 @@
+* [MoM] Scale MoM power XP based on the `SKILL_TRAINING_SPEED` external option ([#86665](https://github.com/CleverRaven/Cataclysm-DDA/pull/86665))
 * Reduce prying test flake by raising difficulty ([#86680](https://github.com/CleverRaven/Cataclysm-DDA/pull/86680))
 * Going from Earth Exodii castle to labyrinth has a 5 day cooldown ([#86672](https://github.com/CleverRaven/Cataclysm-DDA/pull/86672))
 
@@ -233,7 +234,6 @@
 * Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub ([#86535](https://github.com/CleverRaven/Cataclysm-DDA/pull/86535))
 * Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
 * Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
-* [Xedra Evolved] Add subparts for Paraclesian eyes ([#86528](https://github.com/CleverRaven/Cataclysm-DDA/pull/86528))
 * Limbify Feline Eyes ([#86529](https://github.com/CleverRaven/Cataclysm-DDA/pull/86529))
 * Add monster infrared vision ([#86532](https://github.com/CleverRaven/Cataclysm-DDA/pull/86532))
 * Extract post-process generators from mapgen.cpp ([#86533](https://github.com/CleverRaven/Cataclysm-DDA/pull/86533))
