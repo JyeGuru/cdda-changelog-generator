@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-24-2023 ([20c9cc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-2023))
+
 * [MoM] Scale MoM power XP based on the `SKILL_TRAINING_SPEED` external option ([#86665](https://github.com/CleverRaven/Cataclysm-DDA/pull/86665))
 * Reduce prying test flake by raising difficulty ([#86680](https://github.com/CleverRaven/Cataclysm-DDA/pull/86680))
 * Going from Earth Exodii castle to labyrinth has a 5 day cooldown ([#86672](https://github.com/CleverRaven/Cataclysm-DDA/pull/86672))
