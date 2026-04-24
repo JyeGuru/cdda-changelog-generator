@@ -1,3 +1,10 @@
+* Entering the labyrinth requires a blood tax ([#86662](https://github.com/CleverRaven/Cataclysm-DDA/pull/86662))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-24-1100 ([8f27d2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-1100))
+
+* It's a CI Wasteland ([#86629](https://github.com/CleverRaven/Cataclysm-DDA/pull/86629))
 
 ---
 
@@ -190,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-04-19-1658 ([a7d8710](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-1658))
 
 * Add lighting conditions warning to Crafting UI ([#86571](https://github.com/CleverRaven/Cataclysm-DDA/pull/86571))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-19-0538 ([0cf1501](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-0538))
-
 * [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
 * Add post_process_generators field to oter_type_t, migrate PP_GENERATE_RIOT_DAMAGE ([#86558](https://github.com/CleverRaven/Cataclysm-DDA/pull/86558))
 * adjust batteries ASCII to match counterparts ([#86563](https://github.com/CleverRaven/Cataclysm-DDA/pull/86563))
@@ -211,7 +213,6 @@
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
 * Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
-* Character creator UI: second-pass improvements ([#86515](https://github.com/CleverRaven/Cataclysm-DDA/pull/86515))
 * (new) ASCII art for some (old) items ([#86537](https://github.com/CleverRaven/Cataclysm-DDA/pull/86537))
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
@@ -236,4 +237,3 @@
 * Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
 * Fix zone sort viewport stuck when nothing to sort ([#86525](https://github.com/CleverRaven/Cataclysm-DDA/pull/86525))
 * Added faults to pipe spears and pipe pikes ([#86523](https://github.com/CleverRaven/Cataclysm-DDA/pull/86523))
-* Limbify Elf-A eyes, remove hardcoded night vision bonuses ([#86517](https://github.com/CleverRaven/Cataclysm-DDA/pull/86517))
