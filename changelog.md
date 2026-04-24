@@ -1,3 +1,10 @@
+* Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-24-2217 ([504d86b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-2217))
+
+* Stop spamming furniture-on-open-air debugmsg from burned ground map extra ([#86685](https://github.com/CleverRaven/Cataclysm-DDA/pull/86685))
 
 ---
 
@@ -192,11 +199,6 @@
 
 * Allow Survival Knives to fit sheaths ([#86593](https://github.com/CleverRaven/Cataclysm-DDA/pull/86593))
 * Quickfix for crafting lighting conditions warning ([#86590](https://github.com/CleverRaven/Cataclysm-DDA/pull/86590))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-20-0538 ([6482358](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-0538))
-
 * Remove debug phase movement from quick setup ([#86585](https://github.com/CleverRaven/Cataclysm-DDA/pull/86585))
 * Infrastructure "Wrap remaining SDL names at the CATA_* boundary" ([#86588](https://github.com/CleverRaven/Cataclysm-DDA/pull/86588))
 * Add Windows libraries for snmalloc ([#86577](https://github.com/CleverRaven/Cataclysm-DDA/pull/86577))
@@ -212,7 +214,6 @@
 * Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))
 *  adjusted spear and pike recipe to include drift. Added graded steel variants of the spear and pike ([#86536](https://github.com/CleverRaven/Cataclysm-DDA/pull/86536))
 * Add sibling overlap detection to mapgen static check ([#86564](https://github.com/CleverRaven/Cataclysm-DDA/pull/86564))
-* Two new faults for clothing ([#86530](https://github.com/CleverRaven/Cataclysm-DDA/pull/86530))
 * Fix MOLLE pockets have no degradation ([#86555](https://github.com/CleverRaven/Cataclysm-DDA/pull/86555))
 * Update EOD hot stick prices ([#86539](https://github.com/CleverRaven/Cataclysm-DDA/pull/86539))
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
@@ -234,7 +235,6 @@
 * Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub ([#86535](https://github.com/CleverRaven/Cataclysm-DDA/pull/86535))
 * Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
 * Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
-* Limbify Feline Eyes ([#86529](https://github.com/CleverRaven/Cataclysm-DDA/pull/86529))
 * Add monster infrared vision ([#86532](https://github.com/CleverRaven/Cataclysm-DDA/pull/86532))
 * Extract post-process generators from mapgen.cpp ([#86533](https://github.com/CleverRaven/Cataclysm-DDA/pull/86533))
 * Remove extra semicolon in newcharacter.cpp ([#86531](https://github.com/CleverRaven/Cataclysm-DDA/pull/86531))
