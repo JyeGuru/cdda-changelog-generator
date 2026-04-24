@@ -1,3 +1,9 @@
+* Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-24-1252 ([8e7bb13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-1252))
+
 * Entering the labyrinth requires a blood tax ([#86662](https://github.com/CleverRaven/Cataclysm-DDA/pull/86662))
 
 ---
@@ -191,11 +197,6 @@
 
 * Add Windows libraries for snmalloc ([#86577](https://github.com/CleverRaven/Cataclysm-DDA/pull/86577))
 * Persist post-process decisions per overmap_special so multi-story buildings burn consistently ([#86576](https://github.com/CleverRaven/Cataclysm-DDA/pull/86576))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-19-1658 ([a7d8710](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-1658))
-
 * Add lighting conditions warning to Crafting UI ([#86571](https://github.com/CleverRaven/Cataclysm-DDA/pull/86571))
 * [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
 * Add post_process_generators field to oter_type_t, migrate PP_GENERATE_RIOT_DAMAGE ([#86558](https://github.com/CleverRaven/Cataclysm-DDA/pull/86558))
