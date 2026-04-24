@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-24-1716 ([cc02945](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-1716))
+
 * [MoM] Momentum alteration effectiveness cap ([#86664](https://github.com/CleverRaven/Cataclysm-DDA/pull/86664))
 * Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
 
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-04-20-0320 ([834a33e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-0320))
 
 * Infrastructure "Wrap remaining SDL names at the CATA_* boundary" ([#86588](https://github.com/CleverRaven/Cataclysm-DDA/pull/86588))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-19-1740 ([f23e270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-19-1740))
-
 * Add Windows libraries for snmalloc ([#86577](https://github.com/CleverRaven/Cataclysm-DDA/pull/86577))
 * Persist post-process decisions per overmap_special so multi-story buildings burn consistently ([#86576](https://github.com/CleverRaven/Cataclysm-DDA/pull/86576))
 * Add lighting conditions warning to Crafting UI ([#86571](https://github.com/CleverRaven/Cataclysm-DDA/pull/86571))
