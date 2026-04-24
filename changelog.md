@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-24-2319 ([128c1c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-2319))
+
 * Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-04-20-1254 ([f7a88a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1254))
 
 * AltarOS sends you to the labyrinth to find a power source ([#86596](https://github.com/CleverRaven/Cataclysm-DDA/pull/86596))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-20-0623 ([66cc38e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-0623))
-
 * Allow Survival Knives to fit sheaths ([#86593](https://github.com/CleverRaven/Cataclysm-DDA/pull/86593))
 * Quickfix for crafting lighting conditions warning ([#86590](https://github.com/CleverRaven/Cataclysm-DDA/pull/86590))
 * Remove debug phase movement from quick setup ([#86585](https://github.com/CleverRaven/Cataclysm-DDA/pull/86585))
