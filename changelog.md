@@ -197,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-04-22-1430 ([f01831b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-1430))
 
 * Zombie corpses aren't useful ([#86581](https://github.com/CleverRaven/Cataclysm-DDA/pull/86581))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-22-0147 ([ccff228](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-0147))
-
 * [Magiclysm] Add two new alcoholic drinks from potion ingredients ([#86579](https://github.com/CleverRaven/Cataclysm-DDA/pull/86579))
 * Allow pp_generators to be set up in a way to have no riot damage ([#86611](https://github.com/CleverRaven/Cataclysm-DDA/pull/86611))
 * Let wandering creatures stumble up regular stairs ([#86618](https://github.com/CleverRaven/Cataclysm-DDA/pull/86618))
