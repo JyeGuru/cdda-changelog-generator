@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-25-1717 ([bc612cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1717))
+
+* add belt grinder ([#86684](https://github.com/CleverRaven/Cataclysm-DDA/pull/86684))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-25-1228 ([c6648a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1228))
 
 * Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2026-04-22-0105 ([5759189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-0105))
 
 * Let wandering creatures stumble up regular stairs ([#86618](https://github.com/CleverRaven/Cataclysm-DDA/pull/86618))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-21-2352 ([a6898a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-21-2352))
-
 * Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
 * Add `Stubby Fingers` and `Extended Fingers` traits to lead into paws, add practice recipe to use `Dextrous Paws` and `Little Paws` better ([#86603](https://github.com/CleverRaven/Cataclysm-DDA/pull/86603))
 * fix cellar nest error ([#86605](https://github.com/CleverRaven/Cataclysm-DDA/pull/86605))
@@ -232,7 +233,6 @@
 * Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
-* Step the quilt recipe ([#86546](https://github.com/CleverRaven/Cataclysm-DDA/pull/86546))
 * [Sky Island] Change whole room teleport to only teleport items in the room ([#86547](https://github.com/CleverRaven/Cataclysm-DDA/pull/86547))
 * Give feral troglobites infravision ([#86554](https://github.com/CleverRaven/Cataclysm-DDA/pull/86554))
 * Add steps to the long underpants recipe ([#86548](https://github.com/CleverRaven/Cataclysm-DDA/pull/86548))
