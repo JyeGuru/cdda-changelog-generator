@@ -1,3 +1,14 @@
+* Change vision level of Morgantown (XEDRA field mystery II) ([#86688](https://github.com/CleverRaven/Cataclysm-DDA/pull/86688))
+* Tweak labyrinth stiltwalkers ([#86673](https://github.com/CleverRaven/Cataclysm-DDA/pull/86673))
+* Tweak labyrinth fleshborg bone darts ([#86675](https://github.com/CleverRaven/Cataclysm-DDA/pull/86675))
+* Mapgen palette for labyrinthine structures that don't intrinsically spawn monsters ([#86676](https://github.com/CleverRaven/Cataclysm-DDA/pull/86676))
+* Locked labyrinth doors look locked ([#86677](https://github.com/CleverRaven/Cataclysm-DDA/pull/86677))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-0852 ([a213966](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0852))
+
+* add power hammer. add spawn locations and tweak recipes ([#86591](https://github.com/CleverRaven/Cataclysm-DDA/pull/86591))
 
 ---
 
@@ -193,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2026-04-20-2327 ([a165b9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-2327))
 
 * Make Rc car accept medium batteries ([#86568](https://github.com/CleverRaven/Cataclysm-DDA/pull/86568))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-20-1949 ([adb13ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1949))
-
 * fix lab coat encumbrance ([#86594](https://github.com/CleverRaven/Cataclysm-DDA/pull/86594))
 * Nobody wants to cooperate with psychopaths ([#86578](https://github.com/CleverRaven/Cataclysm-DDA/pull/86578))
 * Separate the vanilla and XE "deck of tarot" items ([#86600](https://github.com/CleverRaven/Cataclysm-DDA/pull/86600))
@@ -219,14 +225,11 @@
 * Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))
 * Add sibling overlap detection to mapgen static check ([#86564](https://github.com/CleverRaven/Cataclysm-DDA/pull/86564))
 * Fix MOLLE pockets have no degradation ([#86555](https://github.com/CleverRaven/Cataclysm-DDA/pull/86555))
-* Update EOD hot stick prices ([#86539](https://github.com/CleverRaven/Cataclysm-DDA/pull/86539))
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
 * Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
-* (XE) Minor typo/grammar fixes ([#86540](https://github.com/CleverRaven/Cataclysm-DDA/pull/86540))
-* implement first labyrinth safehouse ([#86542](https://github.com/CleverRaven/Cataclysm-DDA/pull/86542))
 * Tweak the sewing tool requirements and clean up the animal hoodie recipes ([#86545](https://github.com/CleverRaven/Cataclysm-DDA/pull/86545))
 * Step the quilt recipe ([#86546](https://github.com/CleverRaven/Cataclysm-DDA/pull/86546))
 * [Sky Island] Change whole room teleport to only teleport items in the room ([#86547](https://github.com/CleverRaven/Cataclysm-DDA/pull/86547))
@@ -234,6 +237,3 @@
 * Remove safemode menu setting and restore safe mode persistence ([#86544](https://github.com/CleverRaven/Cataclysm-DDA/pull/86544))
 * Add steps to the long underpants recipe ([#86548](https://github.com/CleverRaven/Cataclysm-DDA/pull/86548))
 * Fur coverage for rabbit fur ([#86549](https://github.com/CleverRaven/Cataclysm-DDA/pull/86549))
-* Steel pipe/handle fault creation + implementation ([#86538](https://github.com/CleverRaven/Cataclysm-DDA/pull/86538))
-* Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
-* Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
