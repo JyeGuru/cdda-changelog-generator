@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-25-1228 ([c6648a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1228))
+
+* Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-25-1015 ([cbf9445](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1015))
 
 * Fix NPCs not seeing the player through gaps the player sees them through ([#86682](https://github.com/CleverRaven/Cataclysm-DDA/pull/86682))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2026-04-21-2352 ([a6898a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-21-2352))
 
 * Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-21-0646 ([5aeb9c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-21-0646))
-
 * Add `Stubby Fingers` and `Extended Fingers` traits to lead into paws, add practice recipe to use `Dextrous Paws` and `Little Paws` better ([#86603](https://github.com/CleverRaven/Cataclysm-DDA/pull/86603))
 * fix cellar nest error ([#86605](https://github.com/CleverRaven/Cataclysm-DDA/pull/86605))
 * Make Rc car accept medium batteries ([#86568](https://github.com/CleverRaven/Cataclysm-DDA/pull/86568))
@@ -231,7 +232,6 @@
 * Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
-* Tweak the sewing tool requirements and clean up the animal hoodie recipes ([#86545](https://github.com/CleverRaven/Cataclysm-DDA/pull/86545))
 * Step the quilt recipe ([#86546](https://github.com/CleverRaven/Cataclysm-DDA/pull/86546))
 * [Sky Island] Change whole room teleport to only teleport items in the room ([#86547](https://github.com/CleverRaven/Cataclysm-DDA/pull/86547))
 * Give feral troglobites infravision ([#86554](https://github.com/CleverRaven/Cataclysm-DDA/pull/86554))
