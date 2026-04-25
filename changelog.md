@@ -1,3 +1,9 @@
+* Fix NPCs not seeing the player through gaps the player sees them through ([#86682](https://github.com/CleverRaven/Cataclysm-DDA/pull/86682))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-0933 ([5767049](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0933))
+
 * Change vision level of Morgantown (XEDRA field mystery II) ([#86688](https://github.com/CleverRaven/Cataclysm-DDA/pull/86688))
 * Tweak labyrinth stiltwalkers ([#86673](https://github.com/CleverRaven/Cataclysm-DDA/pull/86673))
 * Tweak labyrinth fleshborg bone darts ([#86675](https://github.com/CleverRaven/Cataclysm-DDA/pull/86675))
@@ -198,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2026-04-21-0331 ([0d8bc9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-21-0331))
 
 * fix cellar nest error ([#86605](https://github.com/CleverRaven/Cataclysm-DDA/pull/86605))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-20-2327 ([a165b9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-2327))
-
 * Make Rc car accept medium batteries ([#86568](https://github.com/CleverRaven/Cataclysm-DDA/pull/86568))
 * fix lab coat encumbrance ([#86594](https://github.com/CleverRaven/Cataclysm-DDA/pull/86594))
 * Nobody wants to cooperate with psychopaths ([#86578](https://github.com/CleverRaven/Cataclysm-DDA/pull/86578))
@@ -234,6 +235,5 @@
 * Step the quilt recipe ([#86546](https://github.com/CleverRaven/Cataclysm-DDA/pull/86546))
 * [Sky Island] Change whole room teleport to only teleport items in the room ([#86547](https://github.com/CleverRaven/Cataclysm-DDA/pull/86547))
 * Give feral troglobites infravision ([#86554](https://github.com/CleverRaven/Cataclysm-DDA/pull/86554))
-* Remove safemode menu setting and restore safe mode persistence ([#86544](https://github.com/CleverRaven/Cataclysm-DDA/pull/86544))
 * Add steps to the long underpants recipe ([#86548](https://github.com/CleverRaven/Cataclysm-DDA/pull/86548))
 * Fur coverage for rabbit fur ([#86549](https://github.com/CleverRaven/Cataclysm-DDA/pull/86549))

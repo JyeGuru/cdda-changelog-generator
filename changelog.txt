@@ -1,3 +1,6 @@
+* Fix NPCs not seeing the player through gaps the player sees them through (#86682)
+
+Cataclysm-DDA experimental build 2026-04-25-0933 (5767049)
 * Change vision level of Morgantown (XEDRA field mystery II) (#86688)
 * Tweak labyrinth stiltwalkers (#86673)
 * Tweak labyrinth fleshborg bone darts (#86675)
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2026-04-21-0646 (5aeb9c2)
 
 Cataclysm-DDA experimental build 2026-04-21-0331 (0d8bc9b)
 * fix cellar nest error (#86605)
-
-Cataclysm-DDA experimental build 2026-04-20-2327 (a165b9c)
 * Make Rc car accept medium batteries (#86568)
 * fix lab coat encumbrance (#86594)
 * Nobody wants to cooperate with psychopaths (#86578)
@@ -147,6 +148,5 @@ Cataclysm-DDA experimental build 2026-04-20-2327 (a165b9c)
 * Step the quilt recipe (#86546)
 * [Sky Island] Change whole room teleport to only teleport items in the room (#86547)
 * Give feral troglobites infravision (#86554)
-* Remove safemode menu setting and restore safe mode persistence (#86544)
 * Add steps to the long underpants recipe (#86548)
 * Fur coverage for rabbit fur (#86549)
