@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-25-0545 ([2d08ae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0545))
+
+* Speed up mapgen near item-heavy locations ([#86668](https://github.com/CleverRaven/Cataclysm-DDA/pull/86668))
+* Add myself to the comment command list ([#86681](https://github.com/CleverRaven/Cataclysm-DDA/pull/86681))
+* [MoM] Fix heavy electronoetic battery copy-from ([#86687](https://github.com/CleverRaven/Cataclysm-DDA/pull/86687))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-0504 ([a97c11a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0504))
+
+* Fix GCC 15 build error in input_context ([#86689](https://github.com/CleverRaven/Cataclysm-DDA/pull/86689))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-25-0122 ([f38a9d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0122))
 
 * [DDotD] Remove `WARM` flag from all zombies ([#86686](https://github.com/CleverRaven/Cataclysm-DDA/pull/86686))
@@ -185,17 +199,7 @@
 #### Cataclysm-DDA experimental build 2026-04-20-1949 ([adb13ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1949))
 
 * fix lab coat encumbrance ([#86594](https://github.com/CleverRaven/Cataclysm-DDA/pull/86594))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-20-1903 ([d42eb67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1903))
-
 * Nobody wants to cooperate with psychopaths ([#86578](https://github.com/CleverRaven/Cataclysm-DDA/pull/86578))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-20-1804 ([4215eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-20-1804))
-
 * Separate the vanilla and XE "deck of tarot" items ([#86600](https://github.com/CleverRaven/Cataclysm-DDA/pull/86600))
 * AltarOS sends you to the labyrinth to find a power source ([#86596](https://github.com/CleverRaven/Cataclysm-DDA/pull/86596))
 * Allow Survival Knives to fit sheaths ([#86593](https://github.com/CleverRaven/Cataclysm-DDA/pull/86593))
@@ -213,7 +217,6 @@
 * [Magiclysm] Minor fixes ([#86570](https://github.com/CleverRaven/Cataclysm-DDA/pull/86570))
 * add eoc effect to pick up a bodypart ([#86552](https://github.com/CleverRaven/Cataclysm-DDA/pull/86552))
 * Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))
-*  adjusted spear and pike recipe to include drift. Added graded steel variants of the spear and pike ([#86536](https://github.com/CleverRaven/Cataclysm-DDA/pull/86536))
 * Add sibling overlap detection to mapgen static check ([#86564](https://github.com/CleverRaven/Cataclysm-DDA/pull/86564))
 * Fix MOLLE pockets have no degradation ([#86555](https://github.com/CleverRaven/Cataclysm-DDA/pull/86555))
 * Update EOD hot stick prices ([#86539](https://github.com/CleverRaven/Cataclysm-DDA/pull/86539))
@@ -233,8 +236,5 @@
 * Add steps to the long underpants recipe ([#86548](https://github.com/CleverRaven/Cataclysm-DDA/pull/86548))
 * Fur coverage for rabbit fur ([#86549](https://github.com/CleverRaven/Cataclysm-DDA/pull/86549))
 * Steel pipe/handle fault creation + implementation ([#86538](https://github.com/CleverRaven/Cataclysm-DDA/pull/86538))
-* Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub ([#86535](https://github.com/CleverRaven/Cataclysm-DDA/pull/86535))
 * Create pp_generator JSON type for post-process generators ([#86543](https://github.com/CleverRaven/Cataclysm-DDA/pull/86543))
 * Should be the last step for #83242 ([#86541](https://github.com/CleverRaven/Cataclysm-DDA/pull/86541))
-* Add monster infrared vision ([#86532](https://github.com/CleverRaven/Cataclysm-DDA/pull/86532))
-* Extract post-process generators from mapgen.cpp ([#86533](https://github.com/CleverRaven/Cataclysm-DDA/pull/86533))

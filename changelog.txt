@@ -1,4 +1,12 @@
 
+Cataclysm-DDA experimental build 2026-04-25-0545 (2d08ae5)
+* Speed up mapgen near item-heavy locations (#86668)
+* Add myself to the comment command list (#86681)
+* [MoM] Fix heavy electronoetic battery copy-from (#86687)
+
+Cataclysm-DDA experimental build 2026-04-25-0504 (a97c11a)
+* Fix GCC 15 build error in input_context (#86689)
+
 Cataclysm-DDA experimental build 2026-04-25-0122 (f38a9d2)
 * [DDotD] Remove `WARM` flag from all zombies (#86686)
 
@@ -104,11 +112,7 @@ Cataclysm-DDA experimental build 2026-04-20-2327 (a165b9c)
 
 Cataclysm-DDA experimental build 2026-04-20-1949 (adb13ad)
 * fix lab coat encumbrance (#86594)
-
-Cataclysm-DDA experimental build 2026-04-20-1903 (d42eb67)
 * Nobody wants to cooperate with psychopaths (#86578)
-
-Cataclysm-DDA experimental build 2026-04-20-1804 (4215eeb)
 * Separate the vanilla and XE "deck of tarot" items (#86600)
 * AltarOS sends you to the labyrinth to find a power source (#86596)
 * Allow Survival Knives to fit sheaths (#86593)
@@ -126,7 +130,6 @@ Cataclysm-DDA experimental build 2026-04-20-1804 (4215eeb)
 * [Magiclysm] Minor fixes (#86570)
 * add eoc effect to pick up a bodypart (#86552)
 * Fix duplicate mod lists in get_all_mods.py (#86567)
-*  adjusted spear and pike recipe to include drift. Added graded steel variants of the spear and pike (#86536)
 * Add sibling overlap detection to mapgen static check (#86564)
 * Fix MOLLE pockets have no degradation (#86555)
 * Update EOD hot stick prices (#86539)
@@ -146,8 +149,5 @@ Cataclysm-DDA experimental build 2026-04-20-1804 (4215eeb)
 * Add steps to the long underpants recipe (#86548)
 * Fur coverage for rabbit fur (#86549)
 * Steel pipe/handle fault creation + implementation (#86538)
-* Fix multi-zone O-tasks auto-resuming after cancelling non-resumable sub (#86535)
 * Create pp_generator JSON type for post-process generators (#86543)
 * Should be the last step for #83242 (#86541)
-* Add monster infrared vision (#86532)
-* Extract post-process generators from mapgen.cpp (#86533)
