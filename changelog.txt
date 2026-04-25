@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-25-1015 (cbf9445)
 * Fix NPCs not seeing the player through gaps the player sees them through (#86682)
 
 Cataclysm-DDA experimental build 2026-04-25-0933 (5767049)
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2026-04-21-2352 (a6898a3)
 
 Cataclysm-DDA experimental build 2026-04-21-0646 (5aeb9c2)
 * Add `Stubby Fingers` and `Extended Fingers` traits to lead into paws, add practice recipe to use `Dextrous Paws` and `Little Paws` better (#86603)
-
-Cataclysm-DDA experimental build 2026-04-21-0331 (0d8bc9b)
 * fix cellar nest error (#86605)
 * Make Rc car accept medium batteries (#86568)
 * fix lab coat encumbrance (#86594)
