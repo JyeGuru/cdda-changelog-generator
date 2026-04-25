@@ -223,7 +223,6 @@
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
 * Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
-* (new) ASCII art for some (old) items ([#86537](https://github.com/CleverRaven/Cataclysm-DDA/pull/86537))
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
 * (XE) Minor typo/grammar fixes ([#86540](https://github.com/CleverRaven/Cataclysm-DDA/pull/86540))
