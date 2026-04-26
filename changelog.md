@@ -204,7 +204,6 @@
 * Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
 * Add `Stubby Fingers` and `Extended Fingers` traits to lead into paws, add practice recipe to use `Dextrous Paws` and `Little Paws` better ([#86603](https://github.com/CleverRaven/Cataclysm-DDA/pull/86603))
 * fix cellar nest error ([#86605](https://github.com/CleverRaven/Cataclysm-DDA/pull/86605))
-* Make Rc car accept medium batteries ([#86568](https://github.com/CleverRaven/Cataclysm-DDA/pull/86568))
 * fix lab coat encumbrance ([#86594](https://github.com/CleverRaven/Cataclysm-DDA/pull/86594))
 * Nobody wants to cooperate with psychopaths ([#86578](https://github.com/CleverRaven/Cataclysm-DDA/pull/86578))
 * Separate the vanilla and XE "deck of tarot" items ([#86600](https://github.com/CleverRaven/Cataclysm-DDA/pull/86600))
