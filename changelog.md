@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0236 ([1b93c8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0236))
+
+* Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0157 ([6481bf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0157))
+
 * Oysters ([#86587](https://github.com/CleverRaven/Cataclysm-DDA/pull/86587))
 
 ---
@@ -181,17 +192,7 @@
 * Split farm fields from hay fields for overmap routing ([#86635](https://github.com/CleverRaven/Cataclysm-DDA/pull/86635))
 * Fix flaky climbing_creatures_use_ladders test ([#86636](https://github.com/CleverRaven/Cataclysm-DDA/pull/86636))
 * Fix flaky weighted_list_weights_after_remove test ([#86642](https://github.com/CleverRaven/Cataclysm-DDA/pull/86642))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-23-0028 ([ba6ab8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-0028))
-
 * Correct tile rotations ([#86574](https://github.com/CleverRaven/Cataclysm-DDA/pull/86574))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-22-1850 ([949e436](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-1850))
-
 * Add a real means to go from the Exodii base to the Labyrinth ([#86631](https://github.com/CleverRaven/Cataclysm-DDA/pull/86631))
 * Setting power CBMs to use torso slots ([#86607](https://github.com/CleverRaven/Cataclysm-DDA/pull/86607))
 * remove thickskin from mentor traitgroup ([#86606](https://github.com/CleverRaven/Cataclysm-DDA/pull/86606))
@@ -228,7 +229,6 @@
 * Fix MOLLE pockets have no degradation ([#86555](https://github.com/CleverRaven/Cataclysm-DDA/pull/86555))
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
-* Make pre_burn respect terrain and furniture combustibility ([#86553](https://github.com/CleverRaven/Cataclysm-DDA/pull/86553))
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
 * Give feral troglobites infravision ([#86554](https://github.com/CleverRaven/Cataclysm-DDA/pull/86554))
