@@ -164,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-04-24-1100 ([8f27d2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-1100))
 
 * It's a CI Wasteland ([#86629](https://github.com/CleverRaven/Cataclysm-DDA/pull/86629))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-24-0537 ([947fe64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-0537))
-
 * ASCII Art for kitchen utensils and more ([#86589](https://github.com/CleverRaven/Cataclysm-DDA/pull/86589))
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
 * Bombastic Perks / Magiclysm Extended Spell metamagic perk ([#86630](https://github.com/CleverRaven/Cataclysm-DDA/pull/86630))
@@ -224,4 +219,3 @@
 * [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
 * Spear hotfix. Fixed wrong material ([#86569](https://github.com/CleverRaven/Cataclysm-DDA/pull/86569))
 * [Magiclysm] Minor fixes ([#86570](https://github.com/CleverRaven/Cataclysm-DDA/pull/86570))
-* Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))

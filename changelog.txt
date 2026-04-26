@@ -86,8 +86,6 @@ Cataclysm-DDA experimental build 2026-04-24-1252 (8e7bb13)
 
 Cataclysm-DDA experimental build 2026-04-24-1100 (8f27d2a)
 * It's a CI Wasteland (#86629)
-
-Cataclysm-DDA experimental build 2026-04-24-0537 (947fe64)
 * ASCII Art for kitchen utensils and more (#86589)
 * Add missing is_animal flag to mammal monstergroups (#86659)
 * Bombastic Perks / Magiclysm Extended Spell metamagic perk (#86630)
@@ -143,4 +141,3 @@ Cataclysm-DDA experimental build 2026-04-24-0537 (947fe64)
 * [Extra Mutated Scenarios] fix mutagen glands (#86572)
 * Spear hotfix. Fixed wrong material (#86569)
 * [Magiclysm] Minor fixes (#86570)
-* Fix duplicate mod lists in get_all_mods.py (#86567)
