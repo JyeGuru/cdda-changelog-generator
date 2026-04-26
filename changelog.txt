@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-04-26-1116 (2106261)
+* Fix uilist hotkey column size for key code input mode (#86699)
+
+Cataclysm-DDA experimental build 2026-04-26-1031 (8c9fcce)
 * Fix SDL render artifacts when closing ImGui UIs (#86704)
 
 Cataclysm-DDA experimental build 2026-04-26-0939 (1a40cf0)
@@ -89,8 +94,6 @@ Cataclysm-DDA experimental build 2026-04-23-2346 (85616ba)
 Cataclysm-DDA experimental build 2026-04-23-2201 (acc8fa1)
 * Fix your weight always being shown in kg (#86621)
 * guard ascii info and final info with iteminfo test (#86643)
-
-Cataclysm-DDA experimental build 2026-04-23-2034 (6e84a36)
 * Bugfixes "remove nonexistent <ls_obelisk_firsttime2> snippet reference from labyrinth obelisks" (#86638)
 * Guard snmalloc Windows libraries behind WIN32 (#86646)
 * Add vehicle tanks to the consume menu (#86632)
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2026-04-23-2034 (6e84a36)
 * A 2D tunnel from labyrinths to the string dimension (#86654)
 * Remove shopping bag gloves (#86653)
 * Restore default name setting in custom chargen (#86639)
-
-Cataclysm-DDA experimental build 2026-04-23-1908 (fe35acb)
 * [Hunvre] Remove riot damage from Hunvre's cities (#86601)
 * [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks (#86648)
 * Allow mining pits and stairs on rock without roof (#86614)

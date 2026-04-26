@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-1116 ([2106261](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1116))
+
+* Fix uilist hotkey column size for key code input mode ([#86699](https://github.com/CleverRaven/Cataclysm-DDA/pull/86699))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-1031 ([8c9fcce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1031))
+
 * Fix SDL render artifacts when closing ImGui UIs ([#86704](https://github.com/CleverRaven/Cataclysm-DDA/pull/86704))
 
 ---
@@ -167,11 +178,6 @@
 
 * Fix your weight always being shown in kg ([#86621](https://github.com/CleverRaven/Cataclysm-DDA/pull/86621))
 * guard ascii info and final info with iteminfo test ([#86643](https://github.com/CleverRaven/Cataclysm-DDA/pull/86643))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-23-2034 ([6e84a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-2034))
-
 * Bugfixes "remove nonexistent <ls_obelisk_firsttime2> snippet reference from labyrinth obelisks" ([#86638](https://github.com/CleverRaven/Cataclysm-DDA/pull/86638))
 * Guard snmalloc Windows libraries behind WIN32 ([#86646](https://github.com/CleverRaven/Cataclysm-DDA/pull/86646))
 * Add vehicle tanks to the consume menu ([#86632](https://github.com/CleverRaven/Cataclysm-DDA/pull/86632))
@@ -184,11 +190,6 @@
 * A 2D tunnel from labyrinths to the string dimension ([#86654](https://github.com/CleverRaven/Cataclysm-DDA/pull/86654))
 * Remove shopping bag gloves ([#86653](https://github.com/CleverRaven/Cataclysm-DDA/pull/86653))
 * Restore default name setting in custom chargen ([#86639](https://github.com/CleverRaven/Cataclysm-DDA/pull/86639))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-23-1908 ([fe35acb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-1908))
-
 * [Hunvre] Remove riot damage from Hunvre's cities ([#86601](https://github.com/CleverRaven/Cataclysm-DDA/pull/86601))
 * [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks ([#86648](https://github.com/CleverRaven/Cataclysm-DDA/pull/86648))
 * Allow mining pits and stairs on rock without roof ([#86614](https://github.com/CleverRaven/Cataclysm-DDA/pull/86614))
