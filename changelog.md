@@ -170,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-04-24-0537 ([947fe64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-0537))
 
 * ASCII Art for kitchen utensils and more ([#86589](https://github.com/CleverRaven/Cataclysm-DDA/pull/86589))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-24-0351 ([1e62447](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-0351))
-
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
 * Bombastic Perks / Magiclysm Extended Spell metamagic perk ([#86630](https://github.com/CleverRaven/Cataclysm-DDA/pull/86630))
 * Gate zone sort pickup on destination capacity ([#86644](https://github.com/CleverRaven/Cataclysm-DDA/pull/86644))
@@ -227,7 +222,6 @@
 * Persist post-process decisions per overmap_special so multi-story buildings burn consistently ([#86576](https://github.com/CleverRaven/Cataclysm-DDA/pull/86576))
 * Add lighting conditions warning to Crafting UI ([#86571](https://github.com/CleverRaven/Cataclysm-DDA/pull/86571))
 * [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
-* Fix spawned eoc and debug menu maps ([#86565](https://github.com/CleverRaven/Cataclysm-DDA/pull/86565))
 * Spear hotfix. Fixed wrong material ([#86569](https://github.com/CleverRaven/Cataclysm-DDA/pull/86569))
 * [Magiclysm] Minor fixes ([#86570](https://github.com/CleverRaven/Cataclysm-DDA/pull/86570))
 * Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))
