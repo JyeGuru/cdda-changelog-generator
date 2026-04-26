@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-26-0939 ([1a40cf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0939))
+
+* Fix recruited follower oscillating between guard post and player ([#86698](https://github.com/CleverRaven/Cataclysm-DDA/pull/86698))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-26-0556 ([a7ec237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0556))
 
 * Text edits for Aftershock, part 2 ([#86678](https://github.com/CleverRaven/Cataclysm-DDA/pull/86678))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-04-23-1908 ([fe35acb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-1908))
 
 * [Hunvre] Remove riot damage from Hunvre's cities ([#86601](https://github.com/CleverRaven/Cataclysm-DDA/pull/86601))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-23-1757 ([99324f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-23-1757))
-
 * [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks ([#86648](https://github.com/CleverRaven/Cataclysm-DDA/pull/86648))
 * Allow mining pits and stairs on rock without roof ([#86614](https://github.com/CleverRaven/Cataclysm-DDA/pull/86614))
 * [Sky Island] Warped harness upgrades ([#86616](https://github.com/CleverRaven/Cataclysm-DDA/pull/86616))
@@ -231,4 +232,3 @@
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
-* Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))

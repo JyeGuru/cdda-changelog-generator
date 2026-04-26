@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-26-0939 (1a40cf0)
+* Fix recruited follower oscillating between guard post and player (#86698)
+
 Cataclysm-DDA experimental build 2026-04-26-0556 (a7ec237)
 * Text edits for Aftershock, part 2 (#86678)
 
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2026-04-23-2034 (6e84a36)
 
 Cataclysm-DDA experimental build 2026-04-23-1908 (fe35acb)
 * [Hunvre] Remove riot damage from Hunvre's cities (#86601)
-
-Cataclysm-DDA experimental build 2026-04-23-1757 (99324f2)
 * [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks (#86648)
 * Allow mining pits and stairs on rock without roof (#86614)
 * [Sky Island] Warped harness upgrades (#86616)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2026-04-23-1757 (99324f2)
 * Fix labyrinth throwing palette errors & crashing (#86561)
 * Fix labyrinth door flags (#86562)
 * Bugfix for vehicle falling through floor (#86559)
-* Butterfly wing limbs (#86557)
