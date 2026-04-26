@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-04-26-1318 (8f861ca)
 * Revert "Fix SDL render artifacts when closing ImGui UIs" (#86711)
 
 Cataclysm-DDA experimental build 2026-04-26-1221 (ed86487)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2026-04-24-0351 (1e62447)
 
 Cataclysm-DDA experimental build 2026-04-24-0210 (d3b895d)
 * Bombastic Perks / Magiclysm Extended Spell metamagic perk (#86630)
-
-Cataclysm-DDA experimental build 2026-04-23-2346 (85616ba)
 * Gate zone sort pickup on destination capacity (#86644)
 * Update use_action messages, part 3 (#86599)
 * Fix your weight always being shown in kg (#86621)
