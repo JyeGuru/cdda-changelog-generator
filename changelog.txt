@@ -83,8 +83,6 @@ Cataclysm-DDA experimental build 2026-04-24-1716 (cc02945)
 
 Cataclysm-DDA experimental build 2026-04-24-1252 (8e7bb13)
 * Entering the labyrinth requires a blood tax (#86662)
-
-Cataclysm-DDA experimental build 2026-04-24-1100 (8f27d2a)
 * It's a CI Wasteland (#86629)
 * ASCII Art for kitchen utensils and more (#86589)
 * Add missing is_animal flag to mammal monstergroups (#86659)

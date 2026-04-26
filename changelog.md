@@ -158,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2026-04-24-1252 ([8e7bb13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-1252))
 
 * Entering the labyrinth requires a blood tax ([#86662](https://github.com/CleverRaven/Cataclysm-DDA/pull/86662))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-24-1100 ([8f27d2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-1100))
-
 * It's a CI Wasteland ([#86629](https://github.com/CleverRaven/Cataclysm-DDA/pull/86629))
 * ASCII Art for kitchen utensils and more ([#86589](https://github.com/CleverRaven/Cataclysm-DDA/pull/86589))
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
