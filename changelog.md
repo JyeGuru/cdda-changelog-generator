@@ -1,3 +1,4 @@
+* Fix SDL render artifacts when closing ImGui UIs ([#86704](https://github.com/CleverRaven/Cataclysm-DDA/pull/86704))
 
 ---
 
@@ -222,7 +223,6 @@
 * Persist post-process decisions per overmap_special so multi-story buildings burn consistently ([#86576](https://github.com/CleverRaven/Cataclysm-DDA/pull/86576))
 * Add lighting conditions warning to Crafting UI ([#86571](https://github.com/CleverRaven/Cataclysm-DDA/pull/86571))
 * [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
-* Add post_process_generators field to oter_type_t, migrate PP_GENERATE_RIOT_DAMAGE ([#86558](https://github.com/CleverRaven/Cataclysm-DDA/pull/86558))
 * adjust batteries ASCII to match counterparts ([#86563](https://github.com/CleverRaven/Cataclysm-DDA/pull/86563))
 * Fix spawned eoc and debug menu maps ([#86565](https://github.com/CleverRaven/Cataclysm-DDA/pull/86565))
 * Spear hotfix. Fixed wrong material ([#86569](https://github.com/CleverRaven/Cataclysm-DDA/pull/86569))
@@ -231,4 +231,3 @@
 * Add sibling overlap detection to mapgen static check ([#86564](https://github.com/CleverRaven/Cataclysm-DDA/pull/86564))
 * Fix labyrinth throwing palette errors & crashing ([#86561](https://github.com/CleverRaven/Cataclysm-DDA/pull/86561))
 * Fix labyrinth door flags ([#86562](https://github.com/CleverRaven/Cataclysm-DDA/pull/86562))
-* Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
