@@ -1,3 +1,10 @@
+* Oysters ([#86587](https://github.com/CleverRaven/Cataclysm-DDA/pull/86587))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0023 ([703ceb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0023))
+
+* Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
 * Update armories at multiple military locations ([#86670](https://github.com/CleverRaven/Cataclysm-DDA/pull/86670))
 
 ---
@@ -191,11 +198,6 @@
 * Fix MOLLE pockets not being washed ([#86604](https://github.com/CleverRaven/Cataclysm-DDA/pull/86604))
 * Disable colored light tint overlay in isometric mode ([#86633](https://github.com/CleverRaven/Cataclysm-DDA/pull/86633))
 * "TempleOS" -> "AltarOS" ([#86634](https://github.com/CleverRaven/Cataclysm-DDA/pull/86634))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-22-1430 ([f01831b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-22-1430))
-
 * Zombie corpses aren't useful ([#86581](https://github.com/CleverRaven/Cataclysm-DDA/pull/86581))
 * [Magiclysm] Add two new alcoholic drinks from potion ingredients ([#86579](https://github.com/CleverRaven/Cataclysm-DDA/pull/86579))
 * Allow pp_generators to be set up in a way to have no riot damage ([#86611](https://github.com/CleverRaven/Cataclysm-DDA/pull/86611))
@@ -221,7 +223,6 @@
 * Fix spawned eoc and debug menu maps ([#86565](https://github.com/CleverRaven/Cataclysm-DDA/pull/86565))
 * Spear hotfix. Fixed wrong material ([#86569](https://github.com/CleverRaven/Cataclysm-DDA/pull/86569))
 * [Magiclysm] Minor fixes ([#86570](https://github.com/CleverRaven/Cataclysm-DDA/pull/86570))
-* add eoc effect to pick up a bodypart ([#86552](https://github.com/CleverRaven/Cataclysm-DDA/pull/86552))
 * Fix duplicate mod lists in get_all_mods.py ([#86567](https://github.com/CleverRaven/Cataclysm-DDA/pull/86567))
 * Add sibling overlap detection to mapgen static check ([#86564](https://github.com/CleverRaven/Cataclysm-DDA/pull/86564))
 * Fix MOLLE pockets have no degradation ([#86555](https://github.com/CleverRaven/Cataclysm-DDA/pull/86555))
@@ -231,4 +232,3 @@
 * Bugfix for vehicle falling through floor ([#86559](https://github.com/CleverRaven/Cataclysm-DDA/pull/86559))
 * Butterfly wing limbs ([#86557](https://github.com/CleverRaven/Cataclysm-DDA/pull/86557))
 * Give feral troglobites infravision ([#86554](https://github.com/CleverRaven/Cataclysm-DDA/pull/86554))
-* Fur coverage for rabbit fur ([#86549](https://github.com/CleverRaven/Cataclysm-DDA/pull/86549))
