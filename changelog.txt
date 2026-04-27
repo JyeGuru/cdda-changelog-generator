@@ -1,91 +1,39 @@
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in (#86734)
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors (#86733)
 * Kipple items for Nethereum Labyrinths II (#86731)
-
-Cataclysm-DDA 0.I release candidate 2026-04-27-1345 (554aca5)
 * [0.I] Changelog highlights (#86721)
-
-Cataclysm-DDA experimental build 2026-04-27-1415 (b221ceb)
 * Aftershock: Rename UICA (#86727)
 * Give glass shiv `PUNCTURE_VEHICLE_WHEELS` flag (#86718)
-
-Cataclysm-DDA experimental build 2026-04-27-1306 (d89a087)
 * fix typo in `t_nl_obelisk_mission_utility_space` (#86732)
-
-Cataclysm-DDA experimental build 2026-04-27-0612 (e0b899f)
 * No more trait gating Exodii Labyrinths (#86719)
-
-Cataclysm-DDA experimental build 2026-04-27-0513 (74c7f18)
 * Labyrinth safehouse: utility space upgrade (#86717)
-
-Cataclysm-DDA experimental build 2026-04-26-1402 (9320f0a)
 * Fix cars (#86705)
-
-Cataclysm-DDA experimental build 2026-04-26-1318 (8f861ca)
 * Revert "Fix SDL render artifacts when closing ImGui UIs" (#86711)
-
-Cataclysm-DDA experimental build 2026-04-26-1221 (ed86487)
 * Putting all Age references in constants, related bug fixes (#86700)
-
-Cataclysm-DDA experimental build 2026-04-26-1116 (2106261)
 * Fix uilist hotkey column size for key code input mode (#86699)
-
-Cataclysm-DDA experimental build 2026-04-26-1031 (8c9fcce)
 * Fix SDL render artifacts when closing ImGui UIs (#86704)
-
-Cataclysm-DDA experimental build 2026-04-26-0939 (1a40cf0)
 * Fix recruited follower oscillating between guard post and player (#86698)
-
-Cataclysm-DDA experimental build 2026-04-26-0556 (a7ec237)
 * Text edits for Aftershock, part 2 (#86678)
-
-Cataclysm-DDA experimental build 2026-04-26-0516 (17eeaf6)
 * Maintenance for Aftershock's `armor.json` (#86679)
-
-Cataclysm-DDA experimental build 2026-04-26-0236 (1b93c8d)
 * Stop billboard mapgen tripping on field furniture (#86702)
-
-Cataclysm-DDA experimental build 2026-04-26-0157 (6481bf6)
 * Oysters (#86587)
-
-Cataclysm-DDA experimental build 2026-04-26-0023 (703ceb1)
 * Speed up inventory stacking when carrying e-files in nested containers (#86695)
 * Update armories at multiple military locations (#86670)
-
-Cataclysm-DDA experimental build 2026-04-25-1910 (a56e878)
 * Fix loading screen text not clearing (#86694)
-
-Cataclysm-DDA experimental build 2026-04-25-1717 (bc612cf)
 * add belt grinder (#86684)
-
-Cataclysm-DDA experimental build 2026-04-25-1228 (c6648a6)
 * Fix spammy and unsubstituted fault application messages (#86692)
-
-Cataclysm-DDA experimental build 2026-04-25-1015 (cbf9445)
 * Fix NPCs not seeing the player through gaps the player sees them through (#86682)
-
-Cataclysm-DDA experimental build 2026-04-25-0933 (5767049)
 * Change vision level of Morgantown (XEDRA field mystery II) (#86688)
 * Tweak labyrinth stiltwalkers (#86673)
 * Tweak labyrinth fleshborg bone darts (#86675)
 * Mapgen palette for labyrinthine structures that don't intrinsically spawn monsters (#86676)
 * Locked labyrinth doors look locked (#86677)
-
-Cataclysm-DDA experimental build 2026-04-25-0852 (a213966)
 * add power hammer. add spawn locations and tweak recipes (#86591)
-
-Cataclysm-DDA experimental build 2026-04-25-0545 (2d08ae5)
 * Speed up mapgen near item-heavy locations (#86668)
 * Add myself to the comment command list (#86681)
 * [MoM] Fix heavy electronoetic battery copy-from (#86687)
-
-Cataclysm-DDA experimental build 2026-04-25-0504 (a97c11a)
 * Fix GCC 15 build error in input_context (#86689)
-
-Cataclysm-DDA experimental build 2026-04-25-0122 (f38a9d2)
 * [DDotD] Remove `WARM` flag from all zombies (#86686)
-
-Cataclysm-DDA experimental build 2026-04-24-2319 (128c1c1)
 * Fix duplication problems with Hub 01 XM bionics (#86683)
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra (#86685)
 * [MoM] Scale MoM power XP based on the `SKILL_TRAINING_SPEED` external option (#86665)
