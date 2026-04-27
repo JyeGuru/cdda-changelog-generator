@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-27-1807 ([26fa1fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-1807))
+
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
 * Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-04-25-0122 ([f38a9d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0122))
 
 * [DDotD] Remove `WARM` flag from all zombies ([#86686](https://github.com/CleverRaven/Cataclysm-DDA/pull/86686))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-24-2319 ([128c1c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-2319))
-
 * Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra ([#86685](https://github.com/CleverRaven/Cataclysm-DDA/pull/86685))
 * [MoM] Scale MoM power XP based on the `SKILL_TRAINING_SPEED` external option ([#86665](https://github.com/CleverRaven/Cataclysm-DDA/pull/86665))
