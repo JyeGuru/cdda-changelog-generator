@@ -1,39 +1,169 @@
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
 * Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-04-27-1345 ([554aca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-27-1345))
+
 * [0.I] Changelog highlights ([#86721](https://github.com/CleverRaven/Cataclysm-DDA/pull/86721))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-27-1415 ([b221ceb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-1415))
+
 * Aftershock: Rename UICA ([#86727](https://github.com/CleverRaven/Cataclysm-DDA/pull/86727))
 * Give glass shiv `PUNCTURE_VEHICLE_WHEELS` flag ([#86718](https://github.com/CleverRaven/Cataclysm-DDA/pull/86718))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-27-1306 ([d89a087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-1306))
+
 * fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-27-0612 ([e0b899f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-0612))
+
 * No more trait gating Exodii Labyrinths ([#86719](https://github.com/CleverRaven/Cataclysm-DDA/pull/86719))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-27-0513 ([74c7f18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-0513))
+
 * Labyrinth safehouse: utility space upgrade ([#86717](https://github.com/CleverRaven/Cataclysm-DDA/pull/86717))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-1402 ([9320f0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1402))
+
 * Fix cars ([#86705](https://github.com/CleverRaven/Cataclysm-DDA/pull/86705))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-1318 ([8f861ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1318))
+
 * Revert "Fix SDL render artifacts when closing ImGui UIs" ([#86711](https://github.com/CleverRaven/Cataclysm-DDA/pull/86711))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-1221 ([ed86487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1221))
+
 * Putting all Age references in constants, related bug fixes ([#86700](https://github.com/CleverRaven/Cataclysm-DDA/pull/86700))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-1116 ([2106261](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1116))
+
 * Fix uilist hotkey column size for key code input mode ([#86699](https://github.com/CleverRaven/Cataclysm-DDA/pull/86699))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-1031 ([8c9fcce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1031))
+
 * Fix SDL render artifacts when closing ImGui UIs ([#86704](https://github.com/CleverRaven/Cataclysm-DDA/pull/86704))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0939 ([1a40cf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0939))
+
 * Fix recruited follower oscillating between guard post and player ([#86698](https://github.com/CleverRaven/Cataclysm-DDA/pull/86698))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0556 ([a7ec237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0556))
+
 * Text edits for Aftershock, part 2 ([#86678](https://github.com/CleverRaven/Cataclysm-DDA/pull/86678))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0516 ([17eeaf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0516))
+
 * Maintenance for Aftershock's `armor.json` ([#86679](https://github.com/CleverRaven/Cataclysm-DDA/pull/86679))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0236 ([1b93c8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0236))
+
 * Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0157 ([6481bf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0157))
+
 * Oysters ([#86587](https://github.com/CleverRaven/Cataclysm-DDA/pull/86587))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-26-0023 ([703ceb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0023))
+
 * Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
 * Update armories at multiple military locations ([#86670](https://github.com/CleverRaven/Cataclysm-DDA/pull/86670))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-1910 ([a56e878](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1910))
+
 * Fix loading screen text not clearing ([#86694](https://github.com/CleverRaven/Cataclysm-DDA/pull/86694))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-1717 ([bc612cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1717))
+
 * add belt grinder ([#86684](https://github.com/CleverRaven/Cataclysm-DDA/pull/86684))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-1228 ([c6648a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1228))
+
 * Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-1015 ([cbf9445](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1015))
+
 * Fix NPCs not seeing the player through gaps the player sees them through ([#86682](https://github.com/CleverRaven/Cataclysm-DDA/pull/86682))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-0933 ([5767049](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0933))
+
 * Change vision level of Morgantown (XEDRA field mystery II) ([#86688](https://github.com/CleverRaven/Cataclysm-DDA/pull/86688))
 * Tweak labyrinth stiltwalkers ([#86673](https://github.com/CleverRaven/Cataclysm-DDA/pull/86673))
 * Tweak labyrinth fleshborg bone darts ([#86675](https://github.com/CleverRaven/Cataclysm-DDA/pull/86675))
 * Mapgen palette for labyrinthine structures that don't intrinsically spawn monsters ([#86676](https://github.com/CleverRaven/Cataclysm-DDA/pull/86676))
 * Locked labyrinth doors look locked ([#86677](https://github.com/CleverRaven/Cataclysm-DDA/pull/86677))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-0852 ([a213966](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0852))
+
 * add power hammer. add spawn locations and tweak recipes ([#86591](https://github.com/CleverRaven/Cataclysm-DDA/pull/86591))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-0545 ([2d08ae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0545))
+
 * Speed up mapgen near item-heavy locations ([#86668](https://github.com/CleverRaven/Cataclysm-DDA/pull/86668))
 * Add myself to the comment command list ([#86681](https://github.com/CleverRaven/Cataclysm-DDA/pull/86681))
 * [MoM] Fix heavy electronoetic battery copy-from ([#86687](https://github.com/CleverRaven/Cataclysm-DDA/pull/86687))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-0504 ([a97c11a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0504))
+
 * Fix GCC 15 build error in input_context ([#86689](https://github.com/CleverRaven/Cataclysm-DDA/pull/86689))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-25-0122 ([f38a9d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0122))
+
 * [DDotD] Remove `WARM` flag from all zombies ([#86686](https://github.com/CleverRaven/Cataclysm-DDA/pull/86686))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-24-2319 ([128c1c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-2319))
+
 * Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra ([#86685](https://github.com/CleverRaven/Cataclysm-DDA/pull/86685))
 * [MoM] Scale MoM power XP based on the `SKILL_TRAINING_SPEED` external option ([#86665](https://github.com/CleverRaven/Cataclysm-DDA/pull/86665))
