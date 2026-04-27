@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-04-27-0612 (e0b899f)
+* No more trait gating Exodii Labyrinths (#86719)
+
+Cataclysm-DDA experimental build 2026-04-27-0513 (74c7f18)
+* Labyrinth safehouse: utility space upgrade (#86717)
+
 Cataclysm-DDA experimental build 2026-04-26-1402 (9320f0a)
 * Fix cars (#86705)
 
@@ -76,12 +82,8 @@ Cataclysm-DDA experimental build 2026-04-24-2023 (20c9cc4)
 * [MoM] Scale MoM power XP based on the `SKILL_TRAINING_SPEED` external option (#86665)
 * Reduce prying test flake by raising difficulty (#86680)
 * Going from Earth Exodii castle to labyrinth has a 5 day cooldown (#86672)
-
-Cataclysm-DDA experimental build 2026-04-24-1716 (cc02945)
 * [MoM] Momentum alteration effectiveness cap (#86664)
 * Fix border showing on loading screen (#86674)
-
-Cataclysm-DDA experimental build 2026-04-24-1252 (8e7bb13)
 * Entering the labyrinth requires a blood tax (#86662)
 * It's a CI Wasteland (#86629)
 * ASCII Art for kitchen utensils and more (#86589)
@@ -136,5 +138,3 @@ Cataclysm-DDA experimental build 2026-04-24-1252 (8e7bb13)
 * Persist post-process decisions per overmap_special so multi-story buildings burn consistently (#86576)
 * Add lighting conditions warning to Crafting UI (#86571)
 * [Extra Mutated Scenarios] fix mutagen glands (#86572)
-* Spear hotfix. Fixed wrong material (#86569)
-* [Magiclysm] Minor fixes (#86570)
