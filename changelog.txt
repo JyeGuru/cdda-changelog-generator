@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-04-27-2113 (9004904)
+* Process `contents_change_handler` in contents_change_activity_actor (#86626)
+
 Cataclysm-DDA experimental build 2026-04-27-1807 (26fa1fc)
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in (#86734)
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors (#86733)
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2026-04-25-0545 (2d08ae5)
 
 Cataclysm-DDA experimental build 2026-04-25-0504 (a97c11a)
 * Fix GCC 15 build error in input_context (#86689)
-
-Cataclysm-DDA experimental build 2026-04-25-0122 (f38a9d2)
 * [DDotD] Remove `WARM` flag from all zombies (#86686)
 * Fix duplication problems with Hub 01 XM bionics (#86683)
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra (#86685)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2026-04-25-0122 (f38a9d2)
 * Disable colored light tint overlay in isometric mode (#86633)
 * "TempleOS" -> "AltarOS" (#86634)
 * Zombie corpses aren't useful (#86581)
-* [Magiclysm] Add two new alcoholic drinks from potion ingredients (#86579)
 * Allow pp_generators to be set up in a way to have no riot damage (#86611)
 * Let wandering creatures stumble up regular stairs (#86618)
 * Step many leg armor recipes and minor tweaks along the way (#86620)
