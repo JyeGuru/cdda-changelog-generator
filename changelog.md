@@ -1,3 +1,25 @@
+* Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
+* Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
+* Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-04-27-1345 ([554aca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-04-27-1345))
+
+* [0.I] Changelog highlights ([#86721](https://github.com/CleverRaven/Cataclysm-DDA/pull/86721))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-27-1415 ([b221ceb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-1415))
+
+* Aftershock: Rename UICA ([#86727](https://github.com/CleverRaven/Cataclysm-DDA/pull/86727))
+* Give glass shiv `PUNCTURE_VEHICLE_WHEELS` flag ([#86718](https://github.com/CleverRaven/Cataclysm-DDA/pull/86718))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-27-1306 ([d89a087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-1306))
+
+* fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
 
 ---
 
@@ -143,17 +165,7 @@
 #### Cataclysm-DDA experimental build 2026-04-24-2319 ([128c1c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-2319))
 
 * Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-24-2217 ([504d86b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-2217))
-
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra ([#86685](https://github.com/CleverRaven/Cataclysm-DDA/pull/86685))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-24-2023 ([20c9cc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-24-2023))
-
 * [MoM] Scale MoM power XP based on the `SKILL_TRAINING_SPEED` external option ([#86665](https://github.com/CleverRaven/Cataclysm-DDA/pull/86665))
 * Reduce prying test flake by raising difficulty ([#86680](https://github.com/CleverRaven/Cataclysm-DDA/pull/86680))
 * Going from Earth Exodii castle to labyrinth has a 5 day cooldown ([#86672](https://github.com/CleverRaven/Cataclysm-DDA/pull/86672))
@@ -187,7 +199,6 @@
 * Split farm fields from hay fields for overmap routing ([#86635](https://github.com/CleverRaven/Cataclysm-DDA/pull/86635))
 * Fix flaky climbing_creatures_use_ladders test ([#86636](https://github.com/CleverRaven/Cataclysm-DDA/pull/86636))
 * Fix flaky weighted_list_weights_after_remove test ([#86642](https://github.com/CleverRaven/Cataclysm-DDA/pull/86642))
-* Correct tile rotations ([#86574](https://github.com/CleverRaven/Cataclysm-DDA/pull/86574))
 * Add a real means to go from the Exodii base to the Labyrinth ([#86631](https://github.com/CleverRaven/Cataclysm-DDA/pull/86631))
 * Setting power CBMs to use torso slots ([#86607](https://github.com/CleverRaven/Cataclysm-DDA/pull/86607))
 * remove thickskin from mentor traitgroup ([#86606](https://github.com/CleverRaven/Cataclysm-DDA/pull/86606))
@@ -202,14 +213,9 @@
 * Add `Stubby Fingers` and `Extended Fingers` traits to lead into paws, add practice recipe to use `Dextrous Paws` and `Little Paws` better ([#86603](https://github.com/CleverRaven/Cataclysm-DDA/pull/86603))
 * fix cellar nest error ([#86605](https://github.com/CleverRaven/Cataclysm-DDA/pull/86605))
 * fix lab coat encumbrance ([#86594](https://github.com/CleverRaven/Cataclysm-DDA/pull/86594))
-* Nobody wants to cooperate with psychopaths ([#86578](https://github.com/CleverRaven/Cataclysm-DDA/pull/86578))
 * Separate the vanilla and XE "deck of tarot" items ([#86600](https://github.com/CleverRaven/Cataclysm-DDA/pull/86600))
 * AltarOS sends you to the labyrinth to find a power source ([#86596](https://github.com/CleverRaven/Cataclysm-DDA/pull/86596))
 * Allow Survival Knives to fit sheaths ([#86593](https://github.com/CleverRaven/Cataclysm-DDA/pull/86593))
 * Quickfix for crafting lighting conditions warning ([#86590](https://github.com/CleverRaven/Cataclysm-DDA/pull/86590))
 * Remove debug phase movement from quick setup ([#86585](https://github.com/CleverRaven/Cataclysm-DDA/pull/86585))
 * Infrastructure "Wrap remaining SDL names at the CATA_* boundary" ([#86588](https://github.com/CleverRaven/Cataclysm-DDA/pull/86588))
-* Add Windows libraries for snmalloc ([#86577](https://github.com/CleverRaven/Cataclysm-DDA/pull/86577))
-* Persist post-process decisions per overmap_special so multi-story buildings burn consistently ([#86576](https://github.com/CleverRaven/Cataclysm-DDA/pull/86576))
-* Add lighting conditions warning to Crafting UI ([#86571](https://github.com/CleverRaven/Cataclysm-DDA/pull/86571))
-* [Extra Mutated Scenarios] fix mutagen glands ([#86572](https://github.com/CleverRaven/Cataclysm-DDA/pull/86572))
