@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-0742 ([a692b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0742))
+
 * Aim local cache structures are not optional ([#86710](https://github.com/CleverRaven/Cataclysm-DDA/pull/86710))
 
 ---
@@ -153,11 +158,6 @@
 
 * Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
 * Update armories at multiple military locations ([#86670](https://github.com/CleverRaven/Cataclysm-DDA/pull/86670))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-25-1910 ([a56e878](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1910))
-
 * Fix loading screen text not clearing ([#86694](https://github.com/CleverRaven/Cataclysm-DDA/pull/86694))
 * add belt grinder ([#86684](https://github.com/CleverRaven/Cataclysm-DDA/pull/86684))
 * Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
