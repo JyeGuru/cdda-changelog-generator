@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-28-2025 ([5ba1b74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-2025))
+
+* Labyrinth: flooded labyrinth + water dispenser upgrade ([#86757](https://github.com/CleverRaven/Cataclysm-DDA/pull/86757))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-28-1528 ([f7549b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1528))
 
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" ([#86756](https://github.com/CleverRaven/Cataclysm-DDA/pull/86756))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-04-26-1031 ([8c9fcce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1031))
 
 * Fix SDL render artifacts when closing ImGui UIs ([#86704](https://github.com/CleverRaven/Cataclysm-DDA/pull/86704))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-26-0939 ([1a40cf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0939))
-
 * Fix recruited follower oscillating between guard post and player ([#86698](https://github.com/CleverRaven/Cataclysm-DDA/pull/86698))
 * Text edits for Aftershock, part 2 ([#86678](https://github.com/CleverRaven/Cataclysm-DDA/pull/86678))
 * Maintenance for Aftershock's `armor.json` ([#86679](https://github.com/CleverRaven/Cataclysm-DDA/pull/86679))
@@ -202,7 +203,6 @@
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
 * Bombastic Perks / Magiclysm Extended Spell metamagic perk ([#86630](https://github.com/CleverRaven/Cataclysm-DDA/pull/86630))
 * Gate zone sort pickup on destination capacity ([#86644](https://github.com/CleverRaven/Cataclysm-DDA/pull/86644))
-* Fix your weight always being shown in kg ([#86621](https://github.com/CleverRaven/Cataclysm-DDA/pull/86621))
 * guard ascii info and final info with iteminfo test ([#86643](https://github.com/CleverRaven/Cataclysm-DDA/pull/86643))
 * Bugfixes "remove nonexistent <ls_obelisk_firsttime2> snippet reference from labyrinth obelisks" ([#86638](https://github.com/CleverRaven/Cataclysm-DDA/pull/86638))
 * Guard snmalloc Windows libraries behind WIN32 ([#86646](https://github.com/CleverRaven/Cataclysm-DDA/pull/86646))
