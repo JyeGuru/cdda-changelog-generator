@@ -1,3 +1,23 @@
+* Stop shed roof mapgen tripping on z=1 items ([#86724](https://github.com/CleverRaven/Cataclysm-DDA/pull/86724))
+* More clothing faults (denim) ([#86746](https://github.com/CleverRaven/Cataclysm-DDA/pull/86746))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-0418 ([10d04b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0418))
+
+* Improve readability of firearm practice qualities ([#86736](https://github.com/CleverRaven/Cataclysm-DDA/pull/86736))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-0330 ([03a6e36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0330))
+
+* Cephalopod Eyes are a bodypart ([#86738](https://github.com/CleverRaven/Cataclysm-DDA/pull/86738))
+* Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-0124 ([4c49820](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0124))
+
 * animal weakpoints include vital organs ([#86715](https://github.com/CleverRaven/Cataclysm-DDA/pull/86715))
 * Weekly Changelog 2026-04-20 to 2026-04-27 ([#86726](https://github.com/CleverRaven/Cataclysm-DDA/pull/86726))
 * make acidblood and acidproof unpurifiable ([#86730](https://github.com/CleverRaven/Cataclysm-DDA/pull/86730))
@@ -139,27 +159,11 @@
 #### Cataclysm-DDA experimental build 2026-04-25-1015 ([cbf9445](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1015))
 
 * Fix NPCs not seeing the player through gaps the player sees them through ([#86682](https://github.com/CleverRaven/Cataclysm-DDA/pull/86682))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-25-0933 ([5767049](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0933))
-
 * Change vision level of Morgantown (XEDRA field mystery II) ([#86688](https://github.com/CleverRaven/Cataclysm-DDA/pull/86688))
 * Tweak labyrinth stiltwalkers ([#86673](https://github.com/CleverRaven/Cataclysm-DDA/pull/86673))
 * Tweak labyrinth fleshborg bone darts ([#86675](https://github.com/CleverRaven/Cataclysm-DDA/pull/86675))
 * Mapgen palette for labyrinthine structures that don't intrinsically spawn monsters ([#86676](https://github.com/CleverRaven/Cataclysm-DDA/pull/86676))
 * Locked labyrinth doors look locked ([#86677](https://github.com/CleverRaven/Cataclysm-DDA/pull/86677))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-25-0852 ([a213966](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0852))
-
-* add power hammer. add spawn locations and tweak recipes ([#86591](https://github.com/CleverRaven/Cataclysm-DDA/pull/86591))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-25-0545 ([2d08ae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0545))
-
 * Speed up mapgen near item-heavy locations ([#86668](https://github.com/CleverRaven/Cataclysm-DDA/pull/86668))
 * Add myself to the comment command list ([#86681](https://github.com/CleverRaven/Cataclysm-DDA/pull/86681))
 * [MoM] Fix heavy electronoetic battery copy-from ([#86687](https://github.com/CleverRaven/Cataclysm-DDA/pull/86687))
@@ -177,7 +181,6 @@
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
 * Bombastic Perks / Magiclysm Extended Spell metamagic perk ([#86630](https://github.com/CleverRaven/Cataclysm-DDA/pull/86630))
 * Gate zone sort pickup on destination capacity ([#86644](https://github.com/CleverRaven/Cataclysm-DDA/pull/86644))
-* Update use_action messages, part 3 ([#86599](https://github.com/CleverRaven/Cataclysm-DDA/pull/86599))
 * Fix your weight always being shown in kg ([#86621](https://github.com/CleverRaven/Cataclysm-DDA/pull/86621))
 * guard ascii info and final info with iteminfo test ([#86643](https://github.com/CleverRaven/Cataclysm-DDA/pull/86643))
 * Bugfixes "remove nonexistent <ls_obelisk_firsttime2> snippet reference from labyrinth obelisks" ([#86638](https://github.com/CleverRaven/Cataclysm-DDA/pull/86638))
@@ -209,8 +212,3 @@
 * Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
 * Add `Stubby Fingers` and `Extended Fingers` traits to lead into paws, add practice recipe to use `Dextrous Paws` and `Little Paws` better ([#86603](https://github.com/CleverRaven/Cataclysm-DDA/pull/86603))
 * fix cellar nest error ([#86605](https://github.com/CleverRaven/Cataclysm-DDA/pull/86605))
-* fix lab coat encumbrance ([#86594](https://github.com/CleverRaven/Cataclysm-DDA/pull/86594))
-* Separate the vanilla and XE "deck of tarot" items ([#86600](https://github.com/CleverRaven/Cataclysm-DDA/pull/86600))
-* AltarOS sends you to the labyrinth to find a power source ([#86596](https://github.com/CleverRaven/Cataclysm-DDA/pull/86596))
-* Allow Survival Knives to fit sheaths ([#86593](https://github.com/CleverRaven/Cataclysm-DDA/pull/86593))
-* Quickfix for crafting lighting conditions warning ([#86590](https://github.com/CleverRaven/Cataclysm-DDA/pull/86590))
