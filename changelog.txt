@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-04-28-1259 (dc51ca1)
+* Updating firearm name/desc (pt.4) (#86729)
+
+Cataclysm-DDA experimental build 2026-04-28-1210 (c2d84e1)
+* Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) (#86752)
+
 Cataclysm-DDA experimental build 2026-04-28-1100 (ebf1f64)
 * Acid Blood mutation overrides your blood type (#86744)
 
@@ -82,8 +88,6 @@ Cataclysm-DDA experimental build 2026-04-26-0556 (a7ec237)
 
 Cataclysm-DDA experimental build 2026-04-26-0516 (17eeaf6)
 * Maintenance for Aftershock's `armor.json` (#86679)
-
-Cataclysm-DDA experimental build 2026-04-26-0236 (1b93c8d)
 * Stop billboard mapgen tripping on field furniture (#86702)
 * Speed up inventory stacking when carrying e-files in nested containers (#86695)
 * Update armories at multiple military locations (#86670)
@@ -133,9 +137,7 @@ Cataclysm-DDA experimental build 2026-04-26-0236 (1b93c8d)
 * Fix flaky climbing_creatures_use_ladders test (#86636)
 * Fix flaky weighted_list_weights_after_remove test (#86642)
 * Add a real means to go from the Exodii base to the Labyrinth (#86631)
-* Setting power CBMs to use torso slots (#86607)
 * Disable colored light tint overlay in isometric mode (#86633)
 * "TempleOS" -> "AltarOS" (#86634)
-* Allow pp_generators to be set up in a way to have no riot damage (#86611)
 * Let wandering creatures stumble up regular stairs (#86618)
 * Step many leg armor recipes and minor tweaks along the way (#86620)

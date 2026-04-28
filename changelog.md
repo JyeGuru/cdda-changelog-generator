@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-28-1259 ([dc51ca1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1259))
+
+* Updating firearm name/desc (pt.4) ([#86729](https://github.com/CleverRaven/Cataclysm-DDA/pull/86729))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-1210 ([c2d84e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1210))
+
+* Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-28-1100 ([ebf1f64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1100))
 
 * Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
@@ -157,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-04-26-0516 ([17eeaf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0516))
 
 * Maintenance for Aftershock's `armor.json` ([#86679](https://github.com/CleverRaven/Cataclysm-DDA/pull/86679))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-26-0236 ([1b93c8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0236))
-
 * Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
 * Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
 * Update armories at multiple military locations ([#86670](https://github.com/CleverRaven/Cataclysm-DDA/pull/86670))
@@ -211,9 +218,7 @@
 * Fix flaky climbing_creatures_use_ladders test ([#86636](https://github.com/CleverRaven/Cataclysm-DDA/pull/86636))
 * Fix flaky weighted_list_weights_after_remove test ([#86642](https://github.com/CleverRaven/Cataclysm-DDA/pull/86642))
 * Add a real means to go from the Exodii base to the Labyrinth ([#86631](https://github.com/CleverRaven/Cataclysm-DDA/pull/86631))
-* Setting power CBMs to use torso slots ([#86607](https://github.com/CleverRaven/Cataclysm-DDA/pull/86607))
 * Disable colored light tint overlay in isometric mode ([#86633](https://github.com/CleverRaven/Cataclysm-DDA/pull/86633))
 * "TempleOS" -> "AltarOS" ([#86634](https://github.com/CleverRaven/Cataclysm-DDA/pull/86634))
-* Allow pp_generators to be set up in a way to have no riot damage ([#86611](https://github.com/CleverRaven/Cataclysm-DDA/pull/86611))
 * Let wandering creatures stumble up regular stairs ([#86618](https://github.com/CleverRaven/Cataclysm-DDA/pull/86618))
 * Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
