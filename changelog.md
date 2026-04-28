@@ -1,3 +1,14 @@
+* animal weakpoints include vital organs ([#86715](https://github.com/CleverRaven/Cataclysm-DDA/pull/86715))
+* Weekly Changelog 2026-04-20 to 2026-04-27 ([#86726](https://github.com/CleverRaven/Cataclysm-DDA/pull/86726))
+* make acidblood and acidproof unpurifiable ([#86730](https://github.com/CleverRaven/Cataclysm-DDA/pull/86730))
+* NPC followers wait while the player is in a moving vehicle ([#86713](https://github.com/CleverRaven/Cataclysm-DDA/pull/86713))
+* Cache item category pointer on inventory_entry ([#86728](https://github.com/CleverRaven/Cataclysm-DDA/pull/86728))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-0024 ([58aef25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0024))
+
+* Speed up stacks_with ([#86708](https://github.com/CleverRaven/Cataclysm-DDA/pull/86708))
 
 ---
 
@@ -100,12 +111,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-04-26-0157 ([6481bf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0157))
-
-* Oysters ([#86587](https://github.com/CleverRaven/Cataclysm-DDA/pull/86587))
-
----
-
 #### Cataclysm-DDA experimental build 2026-04-26-0023 ([703ceb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0023))
 
 * Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
@@ -158,11 +163,6 @@
 * Speed up mapgen near item-heavy locations ([#86668](https://github.com/CleverRaven/Cataclysm-DDA/pull/86668))
 * Add myself to the comment command list ([#86681](https://github.com/CleverRaven/Cataclysm-DDA/pull/86681))
 * [MoM] Fix heavy electronoetic battery copy-from ([#86687](https://github.com/CleverRaven/Cataclysm-DDA/pull/86687))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-25-0504 ([a97c11a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-0504))
-
 * Fix GCC 15 build error in input_context ([#86689](https://github.com/CleverRaven/Cataclysm-DDA/pull/86689))
 * [DDotD] Remove `WARM` flag from all zombies ([#86686](https://github.com/CleverRaven/Cataclysm-DDA/pull/86686))
 * Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
@@ -174,7 +174,6 @@
 * Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
 * Entering the labyrinth requires a blood tax ([#86662](https://github.com/CleverRaven/Cataclysm-DDA/pull/86662))
 * It's a CI Wasteland ([#86629](https://github.com/CleverRaven/Cataclysm-DDA/pull/86629))
-* ASCII Art for kitchen utensils and more ([#86589](https://github.com/CleverRaven/Cataclysm-DDA/pull/86589))
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
 * Bombastic Perks / Magiclysm Extended Spell metamagic perk ([#86630](https://github.com/CleverRaven/Cataclysm-DDA/pull/86630))
 * Gate zone sort pickup on destination capacity ([#86644](https://github.com/CleverRaven/Cataclysm-DDA/pull/86644))
@@ -189,7 +188,6 @@
 * labyrinth safehouse location is remembered ([#86655](https://github.com/CleverRaven/Cataclysm-DDA/pull/86655))
 * [XEDRA Evolved] Change sweet dreams message log color to `good` ([#86656](https://github.com/CleverRaven/Cataclysm-DDA/pull/86656))
 * Applied the general fault for cotton clothing to torso, legs and undergarment clothing ([#86658](https://github.com/CleverRaven/Cataclysm-DDA/pull/86658))
-* Aftershock: Agricultural Habitat Expansion. ([#86584](https://github.com/CleverRaven/Cataclysm-DDA/pull/86584))
 * A 2D tunnel from labyrinths to the string dimension ([#86654](https://github.com/CleverRaven/Cataclysm-DDA/pull/86654))
 * Remove shopping bag gloves ([#86653](https://github.com/CleverRaven/Cataclysm-DDA/pull/86653))
 * Restore default name setting in custom chargen ([#86639](https://github.com/CleverRaven/Cataclysm-DDA/pull/86639))
@@ -206,7 +204,6 @@
 * Fix MOLLE pockets not being washed ([#86604](https://github.com/CleverRaven/Cataclysm-DDA/pull/86604))
 * Disable colored light tint overlay in isometric mode ([#86633](https://github.com/CleverRaven/Cataclysm-DDA/pull/86633))
 * "TempleOS" -> "AltarOS" ([#86634](https://github.com/CleverRaven/Cataclysm-DDA/pull/86634))
-* Zombie corpses aren't useful ([#86581](https://github.com/CleverRaven/Cataclysm-DDA/pull/86581))
 * Allow pp_generators to be set up in a way to have no riot damage ([#86611](https://github.com/CleverRaven/Cataclysm-DDA/pull/86611))
 * Let wandering creatures stumble up regular stairs ([#86618](https://github.com/CleverRaven/Cataclysm-DDA/pull/86618))
 * Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
@@ -217,5 +214,3 @@
 * AltarOS sends you to the labyrinth to find a power source ([#86596](https://github.com/CleverRaven/Cataclysm-DDA/pull/86596))
 * Allow Survival Knives to fit sheaths ([#86593](https://github.com/CleverRaven/Cataclysm-DDA/pull/86593))
 * Quickfix for crafting lighting conditions warning ([#86590](https://github.com/CleverRaven/Cataclysm-DDA/pull/86590))
-* Remove debug phase movement from quick setup ([#86585](https://github.com/CleverRaven/Cataclysm-DDA/pull/86585))
-* Infrastructure "Wrap remaining SDL names at the CATA_* boundary" ([#86588](https://github.com/CleverRaven/Cataclysm-DDA/pull/86588))
