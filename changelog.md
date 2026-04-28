@@ -1,3 +1,21 @@
+* Aim local cache structures are not optional ([#86710](https://github.com/CleverRaven/Cataclysm-DDA/pull/86710))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-0655 ([c4bf836](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0655))
+
+* Add decaying zombie upgrades ([#86745](https://github.com/CleverRaven/Cataclysm-DDA/pull/86745))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-0604 ([f0cb983](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0604))
+
+* Reimplementation of Clear SDL artifacts when closing ImGui Menus ([#86723](https://github.com/CleverRaven/Cataclysm-DDA/pull/86723))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-0509 ([f9a8a50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0509))
+
 * Stop shed roof mapgen tripping on z=1 items ([#86724](https://github.com/CleverRaven/Cataclysm-DDA/pull/86724))
 * More clothing faults (denim) ([#86746](https://github.com/CleverRaven/Cataclysm-DDA/pull/86746))
 
@@ -141,23 +159,8 @@
 #### Cataclysm-DDA experimental build 2026-04-25-1910 ([a56e878](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1910))
 
 * Fix loading screen text not clearing ([#86694](https://github.com/CleverRaven/Cataclysm-DDA/pull/86694))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-25-1717 ([bc612cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1717))
-
 * add belt grinder ([#86684](https://github.com/CleverRaven/Cataclysm-DDA/pull/86684))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-25-1228 ([c6648a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1228))
-
 * Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-25-1015 ([cbf9445](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-25-1015))
-
 * Fix NPCs not seeing the player through gaps the player sees them through ([#86682](https://github.com/CleverRaven/Cataclysm-DDA/pull/86682))
 * Change vision level of Morgantown (XEDRA field mystery II) ([#86688](https://github.com/CleverRaven/Cataclysm-DDA/pull/86688))
 * Tweak labyrinth stiltwalkers ([#86673](https://github.com/CleverRaven/Cataclysm-DDA/pull/86673))
@@ -194,7 +197,6 @@
 * A 2D tunnel from labyrinths to the string dimension ([#86654](https://github.com/CleverRaven/Cataclysm-DDA/pull/86654))
 * Remove shopping bag gloves ([#86653](https://github.com/CleverRaven/Cataclysm-DDA/pull/86653))
 * Restore default name setting in custom chargen ([#86639](https://github.com/CleverRaven/Cataclysm-DDA/pull/86639))
-* [Hunvre] Remove riot damage from Hunvre's cities ([#86601](https://github.com/CleverRaven/Cataclysm-DDA/pull/86601))
 * [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks ([#86648](https://github.com/CleverRaven/Cataclysm-DDA/pull/86648))
 * Allow mining pits and stairs on rock without roof ([#86614](https://github.com/CleverRaven/Cataclysm-DDA/pull/86614))
 * [Sky Island] Warped harness upgrades ([#86616](https://github.com/CleverRaven/Cataclysm-DDA/pull/86616))
@@ -204,11 +206,9 @@
 * Add a real means to go from the Exodii base to the Labyrinth ([#86631](https://github.com/CleverRaven/Cataclysm-DDA/pull/86631))
 * Setting power CBMs to use torso slots ([#86607](https://github.com/CleverRaven/Cataclysm-DDA/pull/86607))
 * remove thickskin from mentor traitgroup ([#86606](https://github.com/CleverRaven/Cataclysm-DDA/pull/86606))
-* Fix MOLLE pockets not being washed ([#86604](https://github.com/CleverRaven/Cataclysm-DDA/pull/86604))
 * Disable colored light tint overlay in isometric mode ([#86633](https://github.com/CleverRaven/Cataclysm-DDA/pull/86633))
 * "TempleOS" -> "AltarOS" ([#86634](https://github.com/CleverRaven/Cataclysm-DDA/pull/86634))
 * Allow pp_generators to be set up in a way to have no riot damage ([#86611](https://github.com/CleverRaven/Cataclysm-DDA/pull/86611))
 * Let wandering creatures stumble up regular stairs ([#86618](https://github.com/CleverRaven/Cataclysm-DDA/pull/86618))
 * Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
-* Add `Stubby Fingers` and `Extended Fingers` traits to lead into paws, add practice recipe to use `Dextrous Paws` and `Little Paws` better ([#86603](https://github.com/CleverRaven/Cataclysm-DDA/pull/86603))
 * fix cellar nest error ([#86605](https://github.com/CleverRaven/Cataclysm-DDA/pull/86605))
