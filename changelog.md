@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-28-1528 ([f7549b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1528))
+
+* Revert "Process `contents_change_handler` in contents_change_activity_actor" ([#86756](https://github.com/CleverRaven/Cataclysm-DDA/pull/86756))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-28-1350 ([6f5ba8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1350))
+
+* Convert checks for the `NUMB` and `PSYCHOPATH` traits to flag checks, move `The Rime-Covered Heart` to an effect ([#86742](https://github.com/CleverRaven/Cataclysm-DDA/pull/86742))
+* [MoM] Fix Intensity Flames targeting ([#86750](https://github.com/CleverRaven/Cataclysm-DDA/pull/86750))
+* Added a few commas to the militia merchant's dialogue for easier readability ([#86753](https://github.com/CleverRaven/Cataclysm-DDA/pull/86753))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-28-1259 ([dc51ca1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1259))
 
 * Updating firearm name/desc (pt.4) ([#86729](https://github.com/CleverRaven/Cataclysm-DDA/pull/86729))
@@ -157,17 +171,7 @@
 #### Cataclysm-DDA experimental build 2026-04-26-0939 ([1a40cf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0939))
 
 * Fix recruited follower oscillating between guard post and player ([#86698](https://github.com/CleverRaven/Cataclysm-DDA/pull/86698))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-26-0556 ([a7ec237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0556))
-
 * Text edits for Aftershock, part 2 ([#86678](https://github.com/CleverRaven/Cataclysm-DDA/pull/86678))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-26-0516 ([17eeaf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-0516))
-
 * Maintenance for Aftershock's `armor.json` ([#86679](https://github.com/CleverRaven/Cataclysm-DDA/pull/86679))
 * Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
 * Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
@@ -212,13 +216,9 @@
 * Remove shopping bag gloves ([#86653](https://github.com/CleverRaven/Cataclysm-DDA/pull/86653))
 * Restore default name setting in custom chargen ([#86639](https://github.com/CleverRaven/Cataclysm-DDA/pull/86639))
 * [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks ([#86648](https://github.com/CleverRaven/Cataclysm-DDA/pull/86648))
-* Allow mining pits and stairs on rock without roof ([#86614](https://github.com/CleverRaven/Cataclysm-DDA/pull/86614))
-* [Sky Island] Warped harness upgrades ([#86616](https://github.com/CleverRaven/Cataclysm-DDA/pull/86616))
 * Split farm fields from hay fields for overmap routing ([#86635](https://github.com/CleverRaven/Cataclysm-DDA/pull/86635))
 * Fix flaky climbing_creatures_use_ladders test ([#86636](https://github.com/CleverRaven/Cataclysm-DDA/pull/86636))
 * Fix flaky weighted_list_weights_after_remove test ([#86642](https://github.com/CleverRaven/Cataclysm-DDA/pull/86642))
 * Add a real means to go from the Exodii base to the Labyrinth ([#86631](https://github.com/CleverRaven/Cataclysm-DDA/pull/86631))
 * Disable colored light tint overlay in isometric mode ([#86633](https://github.com/CleverRaven/Cataclysm-DDA/pull/86633))
 * "TempleOS" -> "AltarOS" ([#86634](https://github.com/CleverRaven/Cataclysm-DDA/pull/86634))
-* Let wandering creatures stumble up regular stairs ([#86618](https://github.com/CleverRaven/Cataclysm-DDA/pull/86618))
-* Step many leg armor recipes and minor tweaks along the way ([#86620](https://github.com/CleverRaven/Cataclysm-DDA/pull/86620))
