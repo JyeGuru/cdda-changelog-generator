@@ -160,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2026-04-26-1402 ([9320f0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1402))
 
 * Fix cars ([#86705](https://github.com/CleverRaven/Cataclysm-DDA/pull/86705))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-26-1318 ([8f861ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-26-1318))
-
 * Revert "Fix SDL render artifacts when closing ImGui UIs" ([#86711](https://github.com/CleverRaven/Cataclysm-DDA/pull/86711))
 * Putting all Age references in constants, related bug fixes ([#86700](https://github.com/CleverRaven/Cataclysm-DDA/pull/86700))
 * Fix uilist hotkey column size for key code input mode ([#86699](https://github.com/CleverRaven/Cataclysm-DDA/pull/86699))

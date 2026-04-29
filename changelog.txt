@@ -85,8 +85,6 @@ Cataclysm-DDA experimental build 2026-04-27-0513 (74c7f18)
 
 Cataclysm-DDA experimental build 2026-04-26-1402 (9320f0a)
 * Fix cars (#86705)
-
-Cataclysm-DDA experimental build 2026-04-26-1318 (8f861ca)
 * Revert "Fix SDL render artifacts when closing ImGui UIs" (#86711)
 * Putting all Age references in constants, related bug fixes (#86700)
 * Fix uilist hotkey column size for key code input mode (#86699)
