@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-29-2307 ([f7297e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-2307))
+
 * fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
 * Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
 * [Magiclysm] Diviner updates and maintenance ([#86774](https://github.com/CleverRaven/Cataclysm-DDA/pull/86774))
