@@ -1,3 +1,12 @@
+* fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
+* Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
+* [Magiclysm] Diviner updates and maintenance ([#86774](https://github.com/CleverRaven/Cataclysm-DDA/pull/86774))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-29-2220 ([755c5db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-2220))
+
+* [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
 
 ---
 
@@ -203,7 +212,6 @@
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
 * Gate zone sort pickup on destination capacity ([#86644](https://github.com/CleverRaven/Cataclysm-DDA/pull/86644))
 * guard ascii info and final info with iteminfo test ([#86643](https://github.com/CleverRaven/Cataclysm-DDA/pull/86643))
-* Bugfixes "remove nonexistent <ls_obelisk_firsttime2> snippet reference from labyrinth obelisks" ([#86638](https://github.com/CleverRaven/Cataclysm-DDA/pull/86638))
 * Guard snmalloc Windows libraries behind WIN32 ([#86646](https://github.com/CleverRaven/Cataclysm-DDA/pull/86646))
 * Make batch cooking of elderberries possible ([#86652](https://github.com/CleverRaven/Cataclysm-DDA/pull/86652))
 * Correct highway bridge support rotation on overmap ([#86650](https://github.com/CleverRaven/Cataclysm-DDA/pull/86650))
@@ -212,7 +220,4 @@
 * Applied the general fault for cotton clothing to torso, legs and undergarment clothing ([#86658](https://github.com/CleverRaven/Cataclysm-DDA/pull/86658))
 * A 2D tunnel from labyrinths to the string dimension ([#86654](https://github.com/CleverRaven/Cataclysm-DDA/pull/86654))
 * Remove shopping bag gloves ([#86653](https://github.com/CleverRaven/Cataclysm-DDA/pull/86653))
-* Restore default name setting in custom chargen ([#86639](https://github.com/CleverRaven/Cataclysm-DDA/pull/86639))
 * [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks ([#86648](https://github.com/CleverRaven/Cataclysm-DDA/pull/86648))
-* Fix flaky climbing_creatures_use_ladders test ([#86636](https://github.com/CleverRaven/Cataclysm-DDA/pull/86636))
-* Fix flaky weighted_list_weights_after_remove test ([#86642](https://github.com/CleverRaven/Cataclysm-DDA/pull/86642))
