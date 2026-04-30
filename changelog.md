@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-30-0547 ([161e3ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0547))
+
+* Add developer documentation for JSON interface ([#86775](https://github.com/CleverRaven/Cataclysm-DDA/pull/86775))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-04-30-0456 ([562a4ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0456))
+
 * Make Brigitte a complex NPC ([#86761](https://github.com/CleverRaven/Cataclysm-DDA/pull/86761))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
 
@@ -172,17 +183,7 @@
 
 * Aftershock: Rename UICA ([#86727](https://github.com/CleverRaven/Cataclysm-DDA/pull/86727))
 * Give glass shiv `PUNCTURE_VEHICLE_WHEELS` flag ([#86718](https://github.com/CleverRaven/Cataclysm-DDA/pull/86718))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-27-1306 ([d89a087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-1306))
-
 * fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-27-0612 ([e0b899f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-0612))
-
 * No more trait gating Exodii Labyrinths ([#86719](https://github.com/CleverRaven/Cataclysm-DDA/pull/86719))
 * Labyrinth safehouse: utility space upgrade ([#86717](https://github.com/CleverRaven/Cataclysm-DDA/pull/86717))
 * Fix cars ([#86705](https://github.com/CleverRaven/Cataclysm-DDA/pull/86705))
@@ -226,4 +227,3 @@
 * Applied the general fault for cotton clothing to torso, legs and undergarment clothing ([#86658](https://github.com/CleverRaven/Cataclysm-DDA/pull/86658))
 * A 2D tunnel from labyrinths to the string dimension ([#86654](https://github.com/CleverRaven/Cataclysm-DDA/pull/86654))
 * Remove shopping bag gloves ([#86653](https://github.com/CleverRaven/Cataclysm-DDA/pull/86653))
-* [MoM/Psychic Scream] Add backgrounds to start with random psychic knacks ([#86648](https://github.com/CleverRaven/Cataclysm-DDA/pull/86648))
