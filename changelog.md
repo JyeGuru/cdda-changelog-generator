@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-30-1926 ([412629c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-1926))
+
+* [DDotD] Add "brain" weakpoints that instantly kill zombies ([#86782](https://github.com/CleverRaven/Cataclysm-DDA/pull/86782))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-30-0547 ([161e3ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0547))
 
 * Add developer documentation for JSON interface ([#86775](https://github.com/CleverRaven/Cataclysm-DDA/pull/86775))
@@ -176,11 +182,6 @@
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
 * Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
 * [0.I] Changelog highlights ([#86721](https://github.com/CleverRaven/Cataclysm-DDA/pull/86721))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-27-1415 ([b221ceb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-1415))
-
 * Aftershock: Rename UICA ([#86727](https://github.com/CleverRaven/Cataclysm-DDA/pull/86727))
 * Give glass shiv `PUNCTURE_VEHICLE_WHEELS` flag ([#86718](https://github.com/CleverRaven/Cataclysm-DDA/pull/86718))
 * fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
@@ -220,8 +221,6 @@
 * Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
 * Entering the labyrinth requires a blood tax ([#86662](https://github.com/CleverRaven/Cataclysm-DDA/pull/86662))
 * Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
-* Make batch cooking of elderberries possible ([#86652](https://github.com/CleverRaven/Cataclysm-DDA/pull/86652))
-* Correct highway bridge support rotation on overmap ([#86650](https://github.com/CleverRaven/Cataclysm-DDA/pull/86650))
 * labyrinth safehouse location is remembered ([#86655](https://github.com/CleverRaven/Cataclysm-DDA/pull/86655))
 * [XEDRA Evolved] Change sweet dreams message log color to `good` ([#86656](https://github.com/CleverRaven/Cataclysm-DDA/pull/86656))
 * Applied the general fault for cotton clothing to torso, legs and undergarment clothing ([#86658](https://github.com/CleverRaven/Cataclysm-DDA/pull/86658))
