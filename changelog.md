@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-04-30-2358 ([e91fb3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-2358))
+
+* Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-30-1926 ([412629c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-1926))
 
 * [DDotD] Add "brain" weakpoints that instantly kill zombies ([#86782](https://github.com/CleverRaven/Cataclysm-DDA/pull/86782))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-04-28-0024 ([58aef25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0024))
 
 * Speed up stacks_with ([#86708](https://github.com/CleverRaven/Cataclysm-DDA/pull/86708))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-27-1807 ([26fa1fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-27-1807))
-
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
 * Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
@@ -225,4 +226,3 @@
 * [XEDRA Evolved] Change sweet dreams message log color to `good` ([#86656](https://github.com/CleverRaven/Cataclysm-DDA/pull/86656))
 * Applied the general fault for cotton clothing to torso, legs and undergarment clothing ([#86658](https://github.com/CleverRaven/Cataclysm-DDA/pull/86658))
 * A 2D tunnel from labyrinths to the string dimension ([#86654](https://github.com/CleverRaven/Cataclysm-DDA/pull/86654))
-* Remove shopping bag gloves ([#86653](https://github.com/CleverRaven/Cataclysm-DDA/pull/86653))
