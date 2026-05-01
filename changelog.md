@@ -225,4 +225,3 @@
 * labyrinth safehouse location is remembered ([#86655](https://github.com/CleverRaven/Cataclysm-DDA/pull/86655))
 * [XEDRA Evolved] Change sweet dreams message log color to `good` ([#86656](https://github.com/CleverRaven/Cataclysm-DDA/pull/86656))
 * Applied the general fault for cotton clothing to torso, legs and undergarment clothing ([#86658](https://github.com/CleverRaven/Cataclysm-DDA/pull/86658))
-* A 2D tunnel from labyrinths to the string dimension ([#86654](https://github.com/CleverRaven/Cataclysm-DDA/pull/86654))
