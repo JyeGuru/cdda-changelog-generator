@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-01-0630 ([73782ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-01-0630))
+
+* Separate translation context for material damage ([#86777](https://github.com/CleverRaven/Cataclysm-DDA/pull/86777))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-01-0520 ([58ff571](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-01-0520))
+
+* Update use_action messages, part 4 ([#86795](https://github.com/CleverRaven/Cataclysm-DDA/pull/86795))
+* Add more wells ([#86790](https://github.com/CleverRaven/Cataclysm-DDA/pull/86790))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-01-0416 ([3100237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-01-0416))
+
+* Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-04-30-2358 ([e91fb3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-2358))
 
 * Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
@@ -163,21 +182,11 @@
 
 * Cephalopod Eyes are a bodypart ([#86738](https://github.com/CleverRaven/Cataclysm-DDA/pull/86738))
 * Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-0124 ([4c49820](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0124))
-
 * animal weakpoints include vital organs ([#86715](https://github.com/CleverRaven/Cataclysm-DDA/pull/86715))
 * Weekly Changelog 2026-04-20 to 2026-04-27 ([#86726](https://github.com/CleverRaven/Cataclysm-DDA/pull/86726))
 * make acidblood and acidproof unpurifiable ([#86730](https://github.com/CleverRaven/Cataclysm-DDA/pull/86730))
 * NPC followers wait while the player is in a moving vehicle ([#86713](https://github.com/CleverRaven/Cataclysm-DDA/pull/86713))
 * Cache item category pointer on inventory_entry ([#86728](https://github.com/CleverRaven/Cataclysm-DDA/pull/86728))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-0024 ([58aef25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0024))
-
 * Speed up stacks_with ([#86708](https://github.com/CleverRaven/Cataclysm-DDA/pull/86708))
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
@@ -221,7 +230,3 @@
 * [MoM] Momentum alteration effectiveness cap ([#86664](https://github.com/CleverRaven/Cataclysm-DDA/pull/86664))
 * Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
 * Entering the labyrinth requires a blood tax ([#86662](https://github.com/CleverRaven/Cataclysm-DDA/pull/86662))
-* Add missing is_animal flag to mammal monstergroups ([#86659](https://github.com/CleverRaven/Cataclysm-DDA/pull/86659))
-* labyrinth safehouse location is remembered ([#86655](https://github.com/CleverRaven/Cataclysm-DDA/pull/86655))
-* [XEDRA Evolved] Change sweet dreams message log color to `good` ([#86656](https://github.com/CleverRaven/Cataclysm-DDA/pull/86656))
-* Applied the general fault for cotton clothing to torso, legs and undergarment clothing ([#86658](https://github.com/CleverRaven/Cataclysm-DDA/pull/86658))
