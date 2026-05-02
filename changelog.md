@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-02-1743 ([8562c20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-1743))
+
+* adding a filter to the PBA mask ([#86819](https://github.com/CleverRaven/Cataclysm-DDA/pull/86819))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-02-1625 ([22bdcd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-1625))
 
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-04-28-0943 ([e37a044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0943))
 
 * Update tips.json ([#86737](https://github.com/CleverRaven/Cataclysm-DDA/pull/86737))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-0742 ([a692b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0742))
-
 * Aim local cache structures are not optional ([#86710](https://github.com/CleverRaven/Cataclysm-DDA/pull/86710))
 * Add decaying zombie upgrades ([#86745](https://github.com/CleverRaven/Cataclysm-DDA/pull/86745))
 * Reimplementation of Clear SDL artifacts when closing ImGui Menus ([#86723](https://github.com/CleverRaven/Cataclysm-DDA/pull/86723))
@@ -219,7 +220,6 @@
 * Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
 * Fix NPCs not seeing the player through gaps the player sees them through ([#86682](https://github.com/CleverRaven/Cataclysm-DDA/pull/86682))
 * Change vision level of Morgantown (XEDRA field mystery II) ([#86688](https://github.com/CleverRaven/Cataclysm-DDA/pull/86688))
-* Tweak labyrinth stiltwalkers ([#86673](https://github.com/CleverRaven/Cataclysm-DDA/pull/86673))
 * Tweak labyrinth fleshborg bone darts ([#86675](https://github.com/CleverRaven/Cataclysm-DDA/pull/86675))
 * Mapgen palette for labyrinthine structures that don't intrinsically spawn monsters ([#86676](https://github.com/CleverRaven/Cataclysm-DDA/pull/86676))
 * Locked labyrinth doors look locked ([#86677](https://github.com/CleverRaven/Cataclysm-DDA/pull/86677))

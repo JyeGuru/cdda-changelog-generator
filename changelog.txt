@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-02-1743 (8562c20)
+* adding a filter to the PBA mask (#86819)
+
 Cataclysm-DDA experimental build 2026-05-02-1625 (22bdcd3)
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs (#86818)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-04-28-1100 (ebf1f64)
 
 Cataclysm-DDA experimental build 2026-04-28-0943 (e37a044)
 * Update tips.json (#86737)
-
-Cataclysm-DDA experimental build 2026-04-28-0742 (a692b05)
 * Aim local cache structures are not optional (#86710)
 * Add decaying zombie upgrades (#86745)
 * Reimplementation of Clear SDL artifacts when closing ImGui Menus (#86723)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2026-04-28-0742 (a692b05)
 * Fix spammy and unsubstituted fault application messages (#86692)
 * Fix NPCs not seeing the player through gaps the player sees them through (#86682)
 * Change vision level of Morgantown (XEDRA field mystery II) (#86688)
-* Tweak labyrinth stiltwalkers (#86673)
 * Tweak labyrinth fleshborg bone darts (#86675)
 * Mapgen palette for labyrinthine structures that don't intrinsically spawn monsters (#86676)
 * Locked labyrinth doors look locked (#86677)
