@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-02-1625 (22bdcd3)
+* [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs (#86818)
+
 Cataclysm-DDA experimental build 2026-05-02-0615 (98b1d08)
 * Add per faction steal preferences to thief mode (#86805)
 * Make some seed craftable from rotten vegetables and fruits (#86758)
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-04-28-0943 (e37a044)
 
 Cataclysm-DDA experimental build 2026-04-28-0742 (a692b05)
 * Aim local cache structures are not optional (#86710)
-
-Cataclysm-DDA experimental build 2026-04-28-0655 (c4bf836)
 * Add decaying zombie upgrades (#86745)
 * Reimplementation of Clear SDL artifacts when closing ImGui Menus (#86723)
 * Stop shed roof mapgen tripping on z=1 items (#86724)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2026-04-28-0655 (c4bf836)
 * Fix duplication problems with Hub 01 XM bionics (#86683)
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra (#86685)
 * Reduce prying test flake by raising difficulty (#86680)
-* Going from Earth Exodii castle to labyrinth has a 5 day cooldown (#86672)
 * Fix border showing on loading screen (#86674)

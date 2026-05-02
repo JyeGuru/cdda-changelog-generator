@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-02-1625 ([22bdcd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-1625))
+
+* [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-02-0615 ([98b1d08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0615))
 
 * Add per faction steal preferences to thief mode ([#86805](https://github.com/CleverRaven/Cataclysm-DDA/pull/86805))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-04-28-0742 ([a692b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0742))
 
 * Aim local cache structures are not optional ([#86710](https://github.com/CleverRaven/Cataclysm-DDA/pull/86710))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-0655 ([c4bf836](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0655))
-
 * Add decaying zombie upgrades ([#86745](https://github.com/CleverRaven/Cataclysm-DDA/pull/86745))
 * Reimplementation of Clear SDL artifacts when closing ImGui Menus ([#86723](https://github.com/CleverRaven/Cataclysm-DDA/pull/86723))
 * Stop shed roof mapgen tripping on z=1 items ([#86724](https://github.com/CleverRaven/Cataclysm-DDA/pull/86724))
@@ -229,5 +230,4 @@
 * Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra ([#86685](https://github.com/CleverRaven/Cataclysm-DDA/pull/86685))
 * Reduce prying test flake by raising difficulty ([#86680](https://github.com/CleverRaven/Cataclysm-DDA/pull/86680))
-* Going from Earth Exodii castle to labyrinth has a 5 day cooldown ([#86672](https://github.com/CleverRaven/Cataclysm-DDA/pull/86672))
 * Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
