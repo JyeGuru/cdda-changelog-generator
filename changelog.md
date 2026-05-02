@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-02-0143 ([3c092a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0143))
+
+* Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-01-0630 ([73782ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-01-0630))
 
 * Separate translation context for material damage ([#86777](https://github.com/CleverRaven/Cataclysm-DDA/pull/86777))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-04-28-0418 ([10d04b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0418))
 
 * Improve readability of firearm practice qualities ([#86736](https://github.com/CleverRaven/Cataclysm-DDA/pull/86736))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-0330 ([03a6e36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-0330))
-
 * Cephalopod Eyes are a bodypart ([#86738](https://github.com/CleverRaven/Cataclysm-DDA/pull/86738))
 * Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
 * animal weakpoints include vital organs ([#86715](https://github.com/CleverRaven/Cataclysm-DDA/pull/86715))
@@ -229,4 +230,3 @@
 * Going from Earth Exodii castle to labyrinth has a 5 day cooldown ([#86672](https://github.com/CleverRaven/Cataclysm-DDA/pull/86672))
 * [MoM] Momentum alteration effectiveness cap ([#86664](https://github.com/CleverRaven/Cataclysm-DDA/pull/86664))
 * Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
-* Entering the labyrinth requires a blood tax ([#86662](https://github.com/CleverRaven/Cataclysm-DDA/pull/86662))
