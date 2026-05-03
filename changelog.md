@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-03-2256 ([5b43093](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-03-2256))
+
+* second level of labyrinths ([#86827](https://github.com/CleverRaven/Cataclysm-DDA/pull/86827))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-03-2134 ([d49db97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-03-2134))
 
 * Include installed gunmod/toolmod prices in item::price ([#86799](https://github.com/CleverRaven/Cataclysm-DDA/pull/86799))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-04-28-1210 ([c2d84e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1210))
 
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-1100 ([ebf1f64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1100))
-
 * Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
 * Update tips.json ([#86737](https://github.com/CleverRaven/Cataclysm-DDA/pull/86737))
 * Aim local cache structures are not optional ([#86710](https://github.com/CleverRaven/Cataclysm-DDA/pull/86710))
@@ -222,7 +223,6 @@
 * Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
 * Fix NPCs not seeing the player through gaps the player sees them through ([#86682](https://github.com/CleverRaven/Cataclysm-DDA/pull/86682))
 * Change vision level of Morgantown (XEDRA field mystery II) ([#86688](https://github.com/CleverRaven/Cataclysm-DDA/pull/86688))
-* Locked labyrinth doors look locked ([#86677](https://github.com/CleverRaven/Cataclysm-DDA/pull/86677))
 * Add myself to the comment command list ([#86681](https://github.com/CleverRaven/Cataclysm-DDA/pull/86681))
 * [MoM] Fix heavy electronoetic battery copy-from ([#86687](https://github.com/CleverRaven/Cataclysm-DDA/pull/86687))
 * Fix GCC 15 build error in input_context ([#86689](https://github.com/CleverRaven/Cataclysm-DDA/pull/86689))
