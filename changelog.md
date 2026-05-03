@@ -230,4 +230,3 @@
 * Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra ([#86685](https://github.com/CleverRaven/Cataclysm-DDA/pull/86685))
 * Reduce prying test flake by raising difficulty ([#86680](https://github.com/CleverRaven/Cataclysm-DDA/pull/86680))
-* Fix border showing on loading screen ([#86674](https://github.com/CleverRaven/Cataclysm-DDA/pull/86674))
