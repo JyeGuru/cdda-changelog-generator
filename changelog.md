@@ -178,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-04-28-1528 ([f7549b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1528))
 
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" ([#86756](https://github.com/CleverRaven/Cataclysm-DDA/pull/86756))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-1350 ([6f5ba8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1350))
-
 * Convert checks for the `NUMB` and `PSYCHOPATH` traits to flag checks, move `The Rime-Covered Heart` to an effect ([#86742](https://github.com/CleverRaven/Cataclysm-DDA/pull/86742))
 * [MoM] Fix Intensity Flames targeting ([#86750](https://github.com/CleverRaven/Cataclysm-DDA/pull/86750))
 * Added a few commas to the militia merchant's dialogue for easier readability ([#86753](https://github.com/CleverRaven/Cataclysm-DDA/pull/86753))
