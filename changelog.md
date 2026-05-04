@@ -1,3 +1,10 @@
+* Refugee Center Mercenary Updates ([#86840](https://github.com/CleverRaven/Cataclysm-DDA/pull/86840))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-04-0348 ([4ddd9d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-04-0348))
+
+* Make practice recipe names lower case ([#86833](https://github.com/CleverRaven/Cataclysm-DDA/pull/86833))
 
 ---
 
@@ -177,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-04-28-1259 ([dc51ca1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1259))
 
 * Updating firearm name/desc (pt.4) ([#86729](https://github.com/CleverRaven/Cataclysm-DDA/pull/86729))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-1210 ([c2d84e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1210))
-
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
 * Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
 * Update tips.json ([#86737](https://github.com/CleverRaven/Cataclysm-DDA/pull/86737))
@@ -214,8 +216,6 @@
 * Fix uilist hotkey column size for key code input mode ([#86699](https://github.com/CleverRaven/Cataclysm-DDA/pull/86699))
 * Fix SDL render artifacts when closing ImGui UIs ([#86704](https://github.com/CleverRaven/Cataclysm-DDA/pull/86704))
 * Fix recruited follower oscillating between guard post and player ([#86698](https://github.com/CleverRaven/Cataclysm-DDA/pull/86698))
-* Text edits for Aftershock, part 2 ([#86678](https://github.com/CleverRaven/Cataclysm-DDA/pull/86678))
-* Maintenance for Aftershock's `armor.json` ([#86679](https://github.com/CleverRaven/Cataclysm-DDA/pull/86679))
 * Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
 * Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
 * Fix loading screen text not clearing ([#86694](https://github.com/CleverRaven/Cataclysm-DDA/pull/86694))
@@ -229,4 +229,3 @@
 * [DDotD] Remove `WARM` flag from all zombies ([#86686](https://github.com/CleverRaven/Cataclysm-DDA/pull/86686))
 * Fix duplication problems with Hub 01 XM bionics ([#86683](https://github.com/CleverRaven/Cataclysm-DDA/pull/86683))
 * Stop spamming furniture-on-open-air debugmsg from burned ground map extra ([#86685](https://github.com/CleverRaven/Cataclysm-DDA/pull/86685))
-* Reduce prying test flake by raising difficulty ([#86680](https://github.com/CleverRaven/Cataclysm-DDA/pull/86680))
