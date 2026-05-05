@@ -1,3 +1,10 @@
+* Add thief mode setting to debug menu ([#86826](https://github.com/CleverRaven/Cataclysm-DDA/pull/86826))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-05-0738 ([8f82689](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0738))
+
+* Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
 
 ---
 
@@ -176,11 +183,6 @@
 
 * Make portals seems from distance ([#86722](https://github.com/CleverRaven/Cataclysm-DDA/pull/86722))
 * [Magiclysm] Goldbrew and dragonfire fixes (+some minor changes) ([#86765](https://github.com/CleverRaven/Cataclysm-DDA/pull/86765))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-29-0010 ([02da86e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-0010))
-
 * Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
 * Labyrinth: flooded labyrinth + water dispenser upgrade ([#86757](https://github.com/CleverRaven/Cataclysm-DDA/pull/86757))
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" ([#86756](https://github.com/CleverRaven/Cataclysm-DDA/pull/86756))
@@ -222,5 +224,3 @@
 * Fix recruited follower oscillating between guard post and player ([#86698](https://github.com/CleverRaven/Cataclysm-DDA/pull/86698))
 * Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
 * Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
-* Fix loading screen text not clearing ([#86694](https://github.com/CleverRaven/Cataclysm-DDA/pull/86694))
-* Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
