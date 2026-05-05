@@ -1,3 +1,4 @@
+* Migrate popups in veh interactions to ImGui ([#86816](https://github.com/CleverRaven/Cataclysm-DDA/pull/86816))
 * Direct route autodrive pathfinding ([#86748](https://github.com/CleverRaven/Cataclysm-DDA/pull/86748))
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 
