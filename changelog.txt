@@ -1,3 +1,4 @@
+* Direct route autodrive pathfinding (#86748)
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts (#86863)
 
 Cataclysm-DDA experimental build 2026-05-05-1556 (c612525)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2026-04-29-0741 (1d9bba0)
 * Fix cars (#86705)
 * Revert "Fix SDL render artifacts when closing ImGui UIs" (#86711)
 * Fix SDL render artifacts when closing ImGui UIs (#86704)
-* Stop billboard mapgen tripping on field furniture (#86702)
