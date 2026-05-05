@@ -184,11 +184,6 @@
 
 * Redefining the processes of hardening and tempering. Renaming drift. ([#86735](https://github.com/CleverRaven/Cataclysm-DDA/pull/86735))
 * Fix screen flashing during activities ([#86768](https://github.com/CleverRaven/Cataclysm-DDA/pull/86768))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-29-0648 ([87177fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-0648))
-
 * [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
 * Labyrinth: apartment upgrade to safehouse ([#86767](https://github.com/CleverRaven/Cataclysm-DDA/pull/86767))
 * Make portals seems from distance ([#86722](https://github.com/CleverRaven/Cataclysm-DDA/pull/86722))
