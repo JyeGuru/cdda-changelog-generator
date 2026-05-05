@@ -1,3 +1,10 @@
+* Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-05-1556 ([c612525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-1556))
+
+* Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
 
 ---
 
@@ -221,6 +228,5 @@
 * Labyrinth safehouse: utility space upgrade ([#86717](https://github.com/CleverRaven/Cataclysm-DDA/pull/86717))
 * Fix cars ([#86705](https://github.com/CleverRaven/Cataclysm-DDA/pull/86705))
 * Revert "Fix SDL render artifacts when closing ImGui UIs" ([#86711](https://github.com/CleverRaven/Cataclysm-DDA/pull/86711))
-* Putting all Age references in constants, related bug fixes ([#86700](https://github.com/CleverRaven/Cataclysm-DDA/pull/86700))
 * Fix SDL render artifacts when closing ImGui UIs ([#86704](https://github.com/CleverRaven/Cataclysm-DDA/pull/86704))
 * Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
