@@ -1,6 +1,22 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-05-0216 ([7279e3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0216))
+
+* more recipes ([#86821](https://github.com/CleverRaven/Cataclysm-DDA/pull/86821))
+* Sound Dampeners bionic satisfies target practice hearing protection ([#86825](https://github.com/CleverRaven/Cataclysm-DDA/pull/86825))
+* Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
+* update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
+* falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-05-0136 ([cd4722c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0136))
+
+* soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-04-0446 ([f054bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-04-0446))
 
 * defining speed for more power tools. Adding TEMPER quality ([#86798](https://github.com/CleverRaven/Cataclysm-DDA/pull/86798))
@@ -166,17 +182,7 @@
 #### Cataclysm-DDA experimental build 2026-04-29-0010 ([02da86e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-0010))
 
 * Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-2025 ([5ba1b74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-2025))
-
 * Labyrinth: flooded labyrinth + water dispenser upgrade ([#86757](https://github.com/CleverRaven/Cataclysm-DDA/pull/86757))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-28-1528 ([f7549b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-28-1528))
-
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" ([#86756](https://github.com/CleverRaven/Cataclysm-DDA/pull/86756))
 * Convert checks for the `NUMB` and `PSYCHOPATH` traits to flag checks, move `The Rime-Covered Heart` to an effect ([#86742](https://github.com/CleverRaven/Cataclysm-DDA/pull/86742))
 * [MoM] Fix Intensity Flames targeting ([#86750](https://github.com/CleverRaven/Cataclysm-DDA/pull/86750))
@@ -217,10 +223,4 @@
 * Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
 * Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
 * Fix loading screen text not clearing ([#86694](https://github.com/CleverRaven/Cataclysm-DDA/pull/86694))
-* add belt grinder ([#86684](https://github.com/CleverRaven/Cataclysm-DDA/pull/86684))
 * Fix spammy and unsubstituted fault application messages ([#86692](https://github.com/CleverRaven/Cataclysm-DDA/pull/86692))
-* Change vision level of Morgantown (XEDRA field mystery II) ([#86688](https://github.com/CleverRaven/Cataclysm-DDA/pull/86688))
-* [MoM] Fix heavy electronoetic battery copy-from ([#86687](https://github.com/CleverRaven/Cataclysm-DDA/pull/86687))
-* Fix GCC 15 build error in input_context ([#86689](https://github.com/CleverRaven/Cataclysm-DDA/pull/86689))
-* [DDotD] Remove `WARM` flag from all zombies ([#86686](https://github.com/CleverRaven/Cataclysm-DDA/pull/86686))
-* Stop spamming furniture-on-open-air debugmsg from burned ground map extra ([#86685](https://github.com/CleverRaven/Cataclysm-DDA/pull/86685))

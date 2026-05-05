@@ -1,4 +1,14 @@
 
+Cataclysm-DDA experimental build 2026-05-05-0216 (7279e3a)
+* more recipes (#86821)
+* Sound Dampeners bionic satisfies target practice hearing protection (#86825)
+* Demote GCC 16 -Wsfinae-incomplete to warning (#86841)
+* update labyrinth itemgroups (#86843)
+* falling into sparkling void sends you to safehouse (#86848)
+
+Cataclysm-DDA experimental build 2026-05-05-0136 (cd4722c)
+* soften exodii green light (#86847)
+
 Cataclysm-DDA experimental build 2026-05-04-0446 (f054bcc)
 * defining speed for more power tools. Adding TEMPER quality (#86798)
 * Rework of Medical professions (#86823)
@@ -88,11 +98,7 @@ Cataclysm-DDA experimental build 2026-04-29-0105 (b287464)
 
 Cataclysm-DDA experimental build 2026-04-29-0010 (02da86e)
 * Added all the dog breeds to home_pictures.json (#86763)
-
-Cataclysm-DDA experimental build 2026-04-28-2025 (5ba1b74)
 * Labyrinth: flooded labyrinth + water dispenser upgrade (#86757)
-
-Cataclysm-DDA experimental build 2026-04-28-1528 (f7549b4)
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" (#86756)
 * Convert checks for the `NUMB` and `PSYCHOPATH` traits to flag checks, move `The Rime-Covered Heart` to an effect (#86742)
 * [MoM] Fix Intensity Flames targeting (#86750)
@@ -133,10 +139,4 @@ Cataclysm-DDA experimental build 2026-04-28-1528 (f7549b4)
 * Stop billboard mapgen tripping on field furniture (#86702)
 * Speed up inventory stacking when carrying e-files in nested containers (#86695)
 * Fix loading screen text not clearing (#86694)
-* add belt grinder (#86684)
 * Fix spammy and unsubstituted fault application messages (#86692)
-* Change vision level of Morgantown (XEDRA field mystery II) (#86688)
-* [MoM] Fix heavy electronoetic battery copy-from (#86687)
-* Fix GCC 15 build error in input_context (#86689)
-* [DDotD] Remove `WARM` flag from all zombies (#86686)
-* Stop spamming furniture-on-open-air debugmsg from burned ground map extra (#86685)
