@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-05-1007 ([1371b04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-1007))
+
+* Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
+* Refactor `explosives.json` ([#86829](https://github.com/CleverRaven/Cataclysm-DDA/pull/86829))
+* Allow ferals to unlock car doors. ([#86807](https://github.com/CleverRaven/Cataclysm-DDA/pull/86807))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-05-0852 ([c828195](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0852))
+
 * Add thief mode setting to debug menu ([#86826](https://github.com/CleverRaven/Cataclysm-DDA/pull/86826))
 
 ---
@@ -170,17 +183,7 @@
 #### Cataclysm-DDA experimental build 2026-04-29-0648 ([87177fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-0648))
 
 * [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-29-0236 ([24b92c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-0236))
-
 * Labyrinth: apartment upgrade to safehouse ([#86767](https://github.com/CleverRaven/Cataclysm-DDA/pull/86767))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-29-0105 ([b287464](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-0105))
-
 * Make portals seems from distance ([#86722](https://github.com/CleverRaven/Cataclysm-DDA/pull/86722))
 * [Magiclysm] Goldbrew and dragonfire fixes (+some minor changes) ([#86765](https://github.com/CleverRaven/Cataclysm-DDA/pull/86765))
 * Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
@@ -219,8 +222,5 @@
 * Fix cars ([#86705](https://github.com/CleverRaven/Cataclysm-DDA/pull/86705))
 * Revert "Fix SDL render artifacts when closing ImGui UIs" ([#86711](https://github.com/CleverRaven/Cataclysm-DDA/pull/86711))
 * Putting all Age references in constants, related bug fixes ([#86700](https://github.com/CleverRaven/Cataclysm-DDA/pull/86700))
-* Fix uilist hotkey column size for key code input mode ([#86699](https://github.com/CleverRaven/Cataclysm-DDA/pull/86699))
 * Fix SDL render artifacts when closing ImGui UIs ([#86704](https://github.com/CleverRaven/Cataclysm-DDA/pull/86704))
-* Fix recruited follower oscillating between guard post and player ([#86698](https://github.com/CleverRaven/Cataclysm-DDA/pull/86698))
 * Stop billboard mapgen tripping on field furniture ([#86702](https://github.com/CleverRaven/Cataclysm-DDA/pull/86702))
-* Speed up inventory stacking when carrying e-files in nested containers ([#86695](https://github.com/CleverRaven/Cataclysm-DDA/pull/86695))
