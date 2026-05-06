@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-06-0034 ([fb05c14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-0034))
+
 * Migrate popups in veh interactions to ImGui ([#86816](https://github.com/CleverRaven/Cataclysm-DDA/pull/86816))
 * Direct route autodrive pathfinding ([#86748](https://github.com/CleverRaven/Cataclysm-DDA/pull/86748))
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-04-29-2220 ([755c5db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-2220))
 
 * [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-29-0741 ([1d9bba0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-0741))
-
 * Redefining the processes of hardening and tempering. Renaming drift. ([#86735](https://github.com/CleverRaven/Cataclysm-DDA/pull/86735))
 * Fix screen flashing during activities ([#86768](https://github.com/CleverRaven/Cataclysm-DDA/pull/86768))
 * [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
