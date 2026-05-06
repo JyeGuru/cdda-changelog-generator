@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-06-1558 (496559d)
+* Lithium battery disassembly (#86725)
+
 Cataclysm-DDA experimental build 2026-05-06-0504 (5ca2761)
 * Update some tips (#86867)
 * Spelling fixes for bath toy and weakened inertia (#86864)
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2026-04-30-0417 (de93d5f)
 
 Cataclysm-DDA experimental build 2026-04-30-0257 (ba3dc3a)
 * Add keyboard scrolling to the keybinds menu (#86778)
-
-Cataclysm-DDA experimental build 2026-04-29-2307 (f7297e3)
 * fixes devourers not dropping cbms (#86783)
 * Labyrinth turrets shoot phase goo (#86780)
 * [Magiclysm] Diviner updates and maintenance (#86774)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2026-04-29-2307 (f7297e3)
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) (#86752)
 * Acid Blood mutation overrides your blood type (#86744)
 * Update tips.json (#86737)
-* Aim local cache structures are not optional (#86710)
 * Add decaying zombie upgrades (#86745)
 * Reimplementation of Clear SDL artifacts when closing ImGui Menus (#86723)
 * Stop shed roof mapgen tripping on z=1 items (#86724)

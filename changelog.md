@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-06-1558 ([496559d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-1558))
+
+* Lithium battery disassembly ([#86725](https://github.com/CleverRaven/Cataclysm-DDA/pull/86725))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-06-0504 ([5ca2761](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-0504))
 
 * Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-04-30-0257 ([ba3dc3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0257))
 
 * Add keyboard scrolling to the keybinds menu ([#86778](https://github.com/CleverRaven/Cataclysm-DDA/pull/86778))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-29-2307 ([f7297e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-2307))
-
 * fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
 * Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
 * [Magiclysm] Diviner updates and maintenance ([#86774](https://github.com/CleverRaven/Cataclysm-DDA/pull/86774))
@@ -203,7 +204,6 @@
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
 * Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
 * Update tips.json ([#86737](https://github.com/CleverRaven/Cataclysm-DDA/pull/86737))
-* Aim local cache structures are not optional ([#86710](https://github.com/CleverRaven/Cataclysm-DDA/pull/86710))
 * Add decaying zombie upgrades ([#86745](https://github.com/CleverRaven/Cataclysm-DDA/pull/86745))
 * Reimplementation of Clear SDL artifacts when closing ImGui Menus ([#86723](https://github.com/CleverRaven/Cataclysm-DDA/pull/86723))
 * Stop shed roof mapgen tripping on z=1 items ([#86724](https://github.com/CleverRaven/Cataclysm-DDA/pull/86724))
