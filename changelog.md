@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-06-0504 ([5ca2761](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-0504))
+
+* Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
+* Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
+* Remove excess `script:` from first time contributor workflow ([#86846](https://github.com/CleverRaven/Cataclysm-DDA/pull/86846))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-06-0034 ([fb05c14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-0034))
 
 * Migrate popups in veh interactions to ImGui ([#86816](https://github.com/CleverRaven/Cataclysm-DDA/pull/86816))
@@ -178,11 +186,6 @@
 * fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
 * Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
 * [Magiclysm] Diviner updates and maintenance ([#86774](https://github.com/CleverRaven/Cataclysm-DDA/pull/86774))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-29-2220 ([755c5db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-29-2220))
-
 * [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
 * Redefining the processes of hardening and tempering. Renaming drift. ([#86735](https://github.com/CleverRaven/Cataclysm-DDA/pull/86735))
 * Fix screen flashing during activities ([#86768](https://github.com/CleverRaven/Cataclysm-DDA/pull/86768))
@@ -213,7 +216,6 @@
 * make acidblood and acidproof unpurifiable ([#86730](https://github.com/CleverRaven/Cataclysm-DDA/pull/86730))
 * NPC followers wait while the player is in a moving vehicle ([#86713](https://github.com/CleverRaven/Cataclysm-DDA/pull/86713))
 * Cache item category pointer on inventory_entry ([#86728](https://github.com/CleverRaven/Cataclysm-DDA/pull/86728))
-* Speed up stacks_with ([#86708](https://github.com/CleverRaven/Cataclysm-DDA/pull/86708))
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
 * Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
@@ -223,6 +225,4 @@
 * fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
 * No more trait gating Exodii Labyrinths ([#86719](https://github.com/CleverRaven/Cataclysm-DDA/pull/86719))
 * Labyrinth safehouse: utility space upgrade ([#86717](https://github.com/CleverRaven/Cataclysm-DDA/pull/86717))
-* Fix cars ([#86705](https://github.com/CleverRaven/Cataclysm-DDA/pull/86705))
 * Revert "Fix SDL render artifacts when closing ImGui UIs" ([#86711](https://github.com/CleverRaven/Cataclysm-DDA/pull/86711))
-* Fix SDL render artifacts when closing ImGui UIs ([#86704](https://github.com/CleverRaven/Cataclysm-DDA/pull/86704))
