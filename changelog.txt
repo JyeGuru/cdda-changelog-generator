@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-06-1908 (0620268)
 * Restore gravity for birds (#86889)
 * revert and retune mundane light tints (#86888)
 
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2026-04-30-0547 (161e3ff)
 Cataclysm-DDA experimental build 2026-04-30-0456 (562a4ef)
 * Make Brigitte a complex NPC (#86761)
 * Extra decaying upgrade changes (#86789)
-
-Cataclysm-DDA experimental build 2026-04-30-0417 (de93d5f)
 * No portal storms in other dimensions (#86766)
 * Add keyboard scrolling to the keybinds menu (#86778)
 * fixes devourers not dropping cbms (#86783)

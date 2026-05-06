@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-06-1908 ([0620268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-1908))
+
 * Restore gravity for birds ([#86889](https://github.com/CleverRaven/Cataclysm-DDA/pull/86889))
 * revert and retune mundane light tints ([#86888](https://github.com/CleverRaven/Cataclysm-DDA/pull/86888))
 
@@ -180,11 +185,6 @@
 
 * Make Brigitte a complex NPC ([#86761](https://github.com/CleverRaven/Cataclysm-DDA/pull/86761))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-30-0417 ([de93d5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0417))
-
 * No portal storms in other dimensions ([#86766](https://github.com/CleverRaven/Cataclysm-DDA/pull/86766))
 * Add keyboard scrolling to the keybinds menu ([#86778](https://github.com/CleverRaven/Cataclysm-DDA/pull/86778))
 * fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
