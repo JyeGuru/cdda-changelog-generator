@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-06-2155 (9885417)
 * swap stab and bash damage on war hammers, fix material (#86894)
 * Don't print 'X has correct #includes/fwd-decls' in iwyu workflow (#86874)
 
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2026-04-30-2358 (e91fb3f)
 
 Cataclysm-DDA experimental build 2026-04-30-1926 (412629c)
 * [DDotD] Add "brain" weakpoints that instantly kill zombies (#86782)
-
-Cataclysm-DDA experimental build 2026-04-30-0547 (161e3ff)
 * Add developer documentation for JSON interface (#86775)
 * Make Brigitte a complex NPC (#86761)
 * Extra decaying upgrade changes (#86789)
