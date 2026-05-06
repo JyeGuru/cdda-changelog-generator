@@ -1,3 +1,11 @@
+* swap stab and bash damage on war hammers, fix material ([#86894](https://github.com/CleverRaven/Cataclysm-DDA/pull/86894))
+* Don't print 'X has correct #includes/fwd-decls' in iwyu workflow ([#86874](https://github.com/CleverRaven/Cataclysm-DDA/pull/86874))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-06-2019 ([8e2aee9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-2019))
+
+* Labyrinth Safehouse Boiler ([#86871](https://github.com/CleverRaven/Cataclysm-DDA/pull/86871))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-04-30-0547 ([161e3ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0547))
 
 * Add developer documentation for JSON interface ([#86775](https://github.com/CleverRaven/Cataclysm-DDA/pull/86775))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-30-0456 ([562a4ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0456))
-
 * Make Brigitte a complex NPC ([#86761](https://github.com/CleverRaven/Cataclysm-DDA/pull/86761))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
 * No portal storms in other dimensions ([#86766](https://github.com/CleverRaven/Cataclysm-DDA/pull/86766))
@@ -222,7 +225,5 @@
 * Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
 * [0.I] Changelog highlights ([#86721](https://github.com/CleverRaven/Cataclysm-DDA/pull/86721))
 * Aftershock: Rename UICA ([#86727](https://github.com/CleverRaven/Cataclysm-DDA/pull/86727))
-* Give glass shiv `PUNCTURE_VEHICLE_WHEELS` flag ([#86718](https://github.com/CleverRaven/Cataclysm-DDA/pull/86718))
 * fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
 * No more trait gating Exodii Labyrinths ([#86719](https://github.com/CleverRaven/Cataclysm-DDA/pull/86719))
-* Labyrinth safehouse: utility space upgrade ([#86717](https://github.com/CleverRaven/Cataclysm-DDA/pull/86717))
