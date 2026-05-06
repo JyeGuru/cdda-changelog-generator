@@ -1,3 +1,11 @@
+* Restore gravity for birds ([#86889](https://github.com/CleverRaven/Cataclysm-DDA/pull/86889))
+* revert and retune mundane light tints ([#86888](https://github.com/CleverRaven/Cataclysm-DDA/pull/86888))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-06-1751 ([0852037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-1751))
+
+* Minor weakpoint tweaks ([#86868](https://github.com/CleverRaven/Cataclysm-DDA/pull/86868))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-04-30-0417 ([de93d5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0417))
 
 * No portal storms in other dimensions ([#86766](https://github.com/CleverRaven/Cataclysm-DDA/pull/86766))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-30-0257 ([ba3dc3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-0257))
-
 * Add keyboard scrolling to the keybinds menu ([#86778](https://github.com/CleverRaven/Cataclysm-DDA/pull/86778))
 * fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
 * Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
@@ -211,10 +214,8 @@
 * Improve readability of firearm practice qualities ([#86736](https://github.com/CleverRaven/Cataclysm-DDA/pull/86736))
 * Cephalopod Eyes are a bodypart ([#86738](https://github.com/CleverRaven/Cataclysm-DDA/pull/86738))
 * Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
-* animal weakpoints include vital organs ([#86715](https://github.com/CleverRaven/Cataclysm-DDA/pull/86715))
 * Weekly Changelog 2026-04-20 to 2026-04-27 ([#86726](https://github.com/CleverRaven/Cataclysm-DDA/pull/86726))
 * make acidblood and acidproof unpurifiable ([#86730](https://github.com/CleverRaven/Cataclysm-DDA/pull/86730))
-* NPC followers wait while the player is in a moving vehicle ([#86713](https://github.com/CleverRaven/Cataclysm-DDA/pull/86713))
 * Cache item category pointer on inventory_entry ([#86728](https://github.com/CleverRaven/Cataclysm-DDA/pull/86728))
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
@@ -225,4 +226,3 @@
 * fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
 * No more trait gating Exodii Labyrinths ([#86719](https://github.com/CleverRaven/Cataclysm-DDA/pull/86719))
 * Labyrinth safehouse: utility space upgrade ([#86717](https://github.com/CleverRaven/Cataclysm-DDA/pull/86717))
-* Revert "Fix SDL render artifacts when closing ImGui UIs" ([#86711](https://github.com/CleverRaven/Cataclysm-DDA/pull/86711))
