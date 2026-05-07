@@ -1,3 +1,12 @@
+* [Magiclysm] Fantasy species bodypart edits ([#86882](https://github.com/CleverRaven/Cataclysm-DDA/pull/86882))
+* Fix bad optional access ([#86900](https://github.com/CleverRaven/Cataclysm-DDA/pull/86900))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-07-1647 ([809ff8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-1647))
+
+* [MoM] Fix the `unending conflagration` killing themselves with their own `burning aura` ([#86902](https://github.com/CleverRaven/Cataclysm-DDA/pull/86902))
+* More syntax fixes for first time contributor labeller. ([#86903](https://github.com/CleverRaven/Cataclysm-DDA/pull/86903))
 
 ---
 
@@ -179,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-05-02-0143 ([3c092a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0143))
 
 * Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-01-0630 ([73782ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-01-0630))
-
 * Separate translation context for material damage ([#86777](https://github.com/CleverRaven/Cataclysm-DDA/pull/86777))
 * Update use_action messages, part 4 ([#86795](https://github.com/CleverRaven/Cataclysm-DDA/pull/86795))
 * Add more wells ([#86790](https://github.com/CleverRaven/Cataclysm-DDA/pull/86790))
@@ -199,7 +203,6 @@
 * Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
 * [Magiclysm] Diviner updates and maintenance ([#86774](https://github.com/CleverRaven/Cataclysm-DDA/pull/86774))
 * [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
-* Redefining the processes of hardening and tempering. Renaming drift. ([#86735](https://github.com/CleverRaven/Cataclysm-DDA/pull/86735))
 * Fix screen flashing during activities ([#86768](https://github.com/CleverRaven/Cataclysm-DDA/pull/86768))
 * [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
 * Labyrinth: apartment upgrade to safehouse ([#86767](https://github.com/CleverRaven/Cataclysm-DDA/pull/86767))
@@ -218,6 +221,3 @@
 * Improve readability of firearm practice qualities ([#86736](https://github.com/CleverRaven/Cataclysm-DDA/pull/86736))
 * Cephalopod Eyes are a bodypart ([#86738](https://github.com/CleverRaven/Cataclysm-DDA/pull/86738))
 * Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
-* Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
-* Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
-* fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
