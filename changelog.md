@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-07-0929 ([85c12c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0929))
+
+* Support copy-from for limb_type ([#86880](https://github.com/CleverRaven/Cataclysm-DDA/pull/86880))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-07-0709 ([387edcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0709))
 
 *  Cache highway lake test results to avoid O(a billion) noise calculations ([#86886](https://github.com/CleverRaven/Cataclysm-DDA/pull/86886))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-05-01-0630 ([73782ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-01-0630))
 
 * Separate translation context for material damage ([#86777](https://github.com/CleverRaven/Cataclysm-DDA/pull/86777))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-01-0520 ([58ff571](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-01-0520))
-
 * Update use_action messages, part 4 ([#86795](https://github.com/CleverRaven/Cataclysm-DDA/pull/86795))
 * Add more wells ([#86790](https://github.com/CleverRaven/Cataclysm-DDA/pull/86790))
 * Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
@@ -217,8 +218,6 @@
 * Improve readability of firearm practice qualities ([#86736](https://github.com/CleverRaven/Cataclysm-DDA/pull/86736))
 * Cephalopod Eyes are a bodypart ([#86738](https://github.com/CleverRaven/Cataclysm-DDA/pull/86738))
 * Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
-* make acidblood and acidproof unpurifiable ([#86730](https://github.com/CleverRaven/Cataclysm-DDA/pull/86730))
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
-* Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
 * fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
