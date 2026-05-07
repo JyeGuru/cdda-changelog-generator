@@ -1,3 +1,15 @@
+*  Cache highway lake test results to avoid O(a billion) noise calculations ([#86886](https://github.com/CleverRaven/Cataclysm-DDA/pull/86886))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-07-0521 ([c9898a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0521))
+
+* Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-07-0258 ([fa3f7e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0258))
+
 * Realistic Profession Ages ([#86873](https://github.com/CleverRaven/Cataclysm-DDA/pull/86873))
 * Initial implementation of overgrown labyrinthine structures on labyrinth level 2 ([#86876](https://github.com/CleverRaven/Cataclysm-DDA/pull/86876))
 * Stepping recipes v3 - Piercing weapons ([#86849](https://github.com/CleverRaven/Cataclysm-DDA/pull/86849))
@@ -175,17 +187,7 @@
 #### Cataclysm-DDA experimental build 2026-05-01-0416 ([3100237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-01-0416))
 
 * Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-30-2358 ([e91fb3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-2358))
-
 * Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
-
----
-
-#### Cataclysm-DDA experimental build 2026-04-30-1926 ([412629c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-04-30-1926))
-
 * [DDotD] Add "brain" weakpoints that instantly kill zombies ([#86782](https://github.com/CleverRaven/Cataclysm-DDA/pull/86782))
 * Add developer documentation for JSON interface ([#86775](https://github.com/CleverRaven/Cataclysm-DDA/pull/86775))
 * Make Brigitte a complex NPC ([#86761](https://github.com/CleverRaven/Cataclysm-DDA/pull/86761))
@@ -207,7 +209,6 @@
 * Convert checks for the `NUMB` and `PSYCHOPATH` traits to flag checks, move `The Rime-Covered Heart` to an effect ([#86742](https://github.com/CleverRaven/Cataclysm-DDA/pull/86742))
 * [MoM] Fix Intensity Flames targeting ([#86750](https://github.com/CleverRaven/Cataclysm-DDA/pull/86750))
 * Added a few commas to the militia merchant's dialogue for easier readability ([#86753](https://github.com/CleverRaven/Cataclysm-DDA/pull/86753))
-* Updating firearm name/desc (pt.4) ([#86729](https://github.com/CleverRaven/Cataclysm-DDA/pull/86729))
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
 * Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
 * Update tips.json ([#86737](https://github.com/CleverRaven/Cataclysm-DDA/pull/86737))
@@ -217,7 +218,6 @@
 * Cephalopod Eyes are a bodypart ([#86738](https://github.com/CleverRaven/Cataclysm-DDA/pull/86738))
 * Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
 * make acidblood and acidproof unpurifiable ([#86730](https://github.com/CleverRaven/Cataclysm-DDA/pull/86730))
-* Cache item category pointer on inventory_entry ([#86728](https://github.com/CleverRaven/Cataclysm-DDA/pull/86728))
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
 * Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
