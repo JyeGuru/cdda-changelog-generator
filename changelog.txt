@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-05-07-1926 (39ca818)
+* Fix Music descriptions missing (#86885)
 * Aftershock Industrial habitat building (#86835)
 
 Cataclysm-DDA experimental build 2026-05-07-1802 (4ada7e6)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2026-05-02-0615 (98b1d08)
 
 Cataclysm-DDA experimental build 2026-05-02-0534 (5da10f0)
 * [Magiclysm] Add new NPC merchant to Forge of Wonders (#86802)
-
-Cataclysm-DDA experimental build 2026-05-02-0517 (cd5f5ca)
 * Prevent message if trait present (#86813)
 * Reduce maximum intensity of hand-staunchable bleeding (#86801)
 * Separate translation context for material damage (#86777)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2026-05-02-0517 (cd5f5ca)
 * Acid Blood mutation overrides your blood type (#86744)
 * Add decaying zombie upgrades (#86745)
 * More clothing faults (denim) (#86746)
-* Labyrinth: mini-mazes/turret room (#86739)

@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-07-1926 ([39ca818](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-1926))
+
+* Fix Music descriptions missing ([#86885](https://github.com/CleverRaven/Cataclysm-DDA/pull/86885))
 * Aftershock Industrial habitat building ([#86835](https://github.com/CleverRaven/Cataclysm-DDA/pull/86835))
 
 ---
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-05-02-0534 ([5da10f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0534))
 
 * [Magiclysm] Add new NPC merchant to Forge of Wonders ([#86802](https://github.com/CleverRaven/Cataclysm-DDA/pull/86802))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-02-0517 ([cd5f5ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0517))
-
 * Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
 * Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
 * Separate translation context for material damage ([#86777](https://github.com/CleverRaven/Cataclysm-DDA/pull/86777))
@@ -220,4 +221,3 @@
 * Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
 * Add decaying zombie upgrades ([#86745](https://github.com/CleverRaven/Cataclysm-DDA/pull/86745))
 * More clothing faults (denim) ([#86746](https://github.com/CleverRaven/Cataclysm-DDA/pull/86746))
-* Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
