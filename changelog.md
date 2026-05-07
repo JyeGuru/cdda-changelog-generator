@@ -1,3 +1,7 @@
+* Small feature room in labyrinth 2: map terminal ([#86893](https://github.com/CleverRaven/Cataclysm-DDA/pull/86893))
+* Step torso clothing recipes ([#86891](https://github.com/CleverRaven/Cataclysm-DDA/pull/86891))
+* Limbify avian eyes ([#86877](https://github.com/CleverRaven/Cataclysm-DDA/pull/86877))
+* Multimag: more engine plumbing for vehicle and crafting paths ([#86845](https://github.com/CleverRaven/Cataclysm-DDA/pull/86845))
 
 ---
 
@@ -198,7 +202,6 @@
 * Fix screen flashing during activities ([#86768](https://github.com/CleverRaven/Cataclysm-DDA/pull/86768))
 * [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
 * Labyrinth: apartment upgrade to safehouse ([#86767](https://github.com/CleverRaven/Cataclysm-DDA/pull/86767))
-* Make portals seems from distance ([#86722](https://github.com/CleverRaven/Cataclysm-DDA/pull/86722))
 * [Magiclysm] Goldbrew and dragonfire fixes (+some minor changes) ([#86765](https://github.com/CleverRaven/Cataclysm-DDA/pull/86765))
 * Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
 * Labyrinth: flooded labyrinth + water dispenser upgrade ([#86757](https://github.com/CleverRaven/Cataclysm-DDA/pull/86757))
@@ -211,7 +214,6 @@
 * Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
 * Update tips.json ([#86737](https://github.com/CleverRaven/Cataclysm-DDA/pull/86737))
 * Add decaying zombie upgrades ([#86745](https://github.com/CleverRaven/Cataclysm-DDA/pull/86745))
-* Reimplementation of Clear SDL artifacts when closing ImGui Menus ([#86723](https://github.com/CleverRaven/Cataclysm-DDA/pull/86723))
 * Stop shed roof mapgen tripping on z=1 items ([#86724](https://github.com/CleverRaven/Cataclysm-DDA/pull/86724))
 * More clothing faults (denim) ([#86746](https://github.com/CleverRaven/Cataclysm-DDA/pull/86746))
 * Improve readability of firearm practice qualities ([#86736](https://github.com/CleverRaven/Cataclysm-DDA/pull/86736))
@@ -223,7 +225,5 @@
 * Labyrinth sparkling chasms have an examine_action for looking down and jumping in ([#86734](https://github.com/CleverRaven/Cataclysm-DDA/pull/86734))
 * Update labyrinth mapgen palette so nested maps with furniture get proper floors ([#86733](https://github.com/CleverRaven/Cataclysm-DDA/pull/86733))
 * Kipple items for Nethereum Labyrinths II ([#86731](https://github.com/CleverRaven/Cataclysm-DDA/pull/86731))
-* [0.I] Changelog highlights ([#86721](https://github.com/CleverRaven/Cataclysm-DDA/pull/86721))
 * Aftershock: Rename UICA ([#86727](https://github.com/CleverRaven/Cataclysm-DDA/pull/86727))
 * fix typo in `t_nl_obelisk_mission_utility_space` ([#86732](https://github.com/CleverRaven/Cataclysm-DDA/pull/86732))
-* No more trait gating Exodii Labyrinths ([#86719](https://github.com/CleverRaven/Cataclysm-DDA/pull/86719))
