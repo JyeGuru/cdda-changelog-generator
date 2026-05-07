@@ -1,3 +1,8 @@
+* Aftershock Industrial habitat building (#86835)
+
+Cataclysm-DDA experimental build 2026-05-07-1802 (4ada7e6)
+* Move `construction` to generic_factory (#86879)
+* Pass item_location through item wakeup dispatch (#86904)
 * [Magiclysm] Fantasy species bodypart edits (#86882)
 * Fix bad optional access (#86900)
 
@@ -104,8 +109,6 @@ Cataclysm-DDA experimental build 2026-05-02-0534 (5da10f0)
 
 Cataclysm-DDA experimental build 2026-05-02-0517 (cd5f5ca)
 * Prevent message if trait present (#86813)
-
-Cataclysm-DDA experimental build 2026-05-02-0143 (3c092a3)
 * Reduce maximum intensity of hand-staunchable bleeding (#86801)
 * Separate translation context for material damage (#86777)
 * Update use_action messages, part 4 (#86795)
@@ -134,9 +137,6 @@ Cataclysm-DDA experimental build 2026-05-02-0143 (3c092a3)
 * Added a few commas to the militia merchant's dialogue for easier readability (#86753)
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) (#86752)
 * Acid Blood mutation overrides your blood type (#86744)
-* Update tips.json (#86737)
 * Add decaying zombie upgrades (#86745)
 * More clothing faults (denim) (#86746)
-* Improve readability of firearm practice qualities (#86736)
-* Cephalopod Eyes are a bodypart (#86738)
 * Labyrinth: mini-mazes/turret room (#86739)

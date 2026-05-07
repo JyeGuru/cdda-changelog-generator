@@ -1,3 +1,11 @@
+* Aftershock Industrial habitat building ([#86835](https://github.com/CleverRaven/Cataclysm-DDA/pull/86835))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-07-1802 ([4ada7e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-1802))
+
+* Move `construction` to generic_factory ([#86879](https://github.com/CleverRaven/Cataclysm-DDA/pull/86879))
+* Pass item_location through item wakeup dispatch ([#86904](https://github.com/CleverRaven/Cataclysm-DDA/pull/86904))
 * [Magiclysm] Fantasy species bodypart edits ([#86882](https://github.com/CleverRaven/Cataclysm-DDA/pull/86882))
 * Fix bad optional access ([#86900](https://github.com/CleverRaven/Cataclysm-DDA/pull/86900))
 
@@ -182,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-05-02-0517 ([cd5f5ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0517))
 
 * Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-02-0143 ([3c092a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0143))
-
 * Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
 * Separate translation context for material damage ([#86777](https://github.com/CleverRaven/Cataclysm-DDA/pull/86777))
 * Update use_action messages, part 4 ([#86795](https://github.com/CleverRaven/Cataclysm-DDA/pull/86795))
@@ -215,9 +218,6 @@
 * Added a few commas to the militia merchant's dialogue for easier readability ([#86753](https://github.com/CleverRaven/Cataclysm-DDA/pull/86753))
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
 * Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
-* Update tips.json ([#86737](https://github.com/CleverRaven/Cataclysm-DDA/pull/86737))
 * Add decaying zombie upgrades ([#86745](https://github.com/CleverRaven/Cataclysm-DDA/pull/86745))
 * More clothing faults (denim) ([#86746](https://github.com/CleverRaven/Cataclysm-DDA/pull/86746))
-* Improve readability of firearm practice qualities ([#86736](https://github.com/CleverRaven/Cataclysm-DDA/pull/86736))
-* Cephalopod Eyes are a bodypart ([#86738](https://github.com/CleverRaven/Cataclysm-DDA/pull/86738))
 * Labyrinth: mini-mazes/turret room ([#86739](https://github.com/CleverRaven/Cataclysm-DDA/pull/86739))
