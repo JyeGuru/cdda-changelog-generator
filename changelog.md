@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-08-1440 ([9478b46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-1440))
+
+* migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-08-0120 ([8dc5e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-0120))
 
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-05-02-1625 ([22bdcd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-1625))
 
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-02-0615 ([98b1d08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0615))
-
 * Add per faction steal preferences to thief mode ([#86805](https://github.com/CleverRaven/Cataclysm-DDA/pull/86805))
 * Make some seed craftable from rotten vegetables and fruits ([#86758](https://github.com/CleverRaven/Cataclysm-DDA/pull/86758))
 * Change requirements for all hardened weapons. Add steps to many, many weapon recipes. Fix punch and drift set dimensions. Make belt grinder a bit faster ([#86787](https://github.com/CleverRaven/Cataclysm-DDA/pull/86787))
@@ -215,7 +216,6 @@
 * Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
 * Labyrinth: flooded labyrinth + water dispenser upgrade ([#86757](https://github.com/CleverRaven/Cataclysm-DDA/pull/86757))
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" ([#86756](https://github.com/CleverRaven/Cataclysm-DDA/pull/86756))
-* Convert checks for the `NUMB` and `PSYCHOPATH` traits to flag checks, move `The Rime-Covered Heart` to an effect ([#86742](https://github.com/CleverRaven/Cataclysm-DDA/pull/86742))
 * [MoM] Fix Intensity Flames targeting ([#86750](https://github.com/CleverRaven/Cataclysm-DDA/pull/86750))
 * Added a few commas to the militia merchant's dialogue for easier readability ([#86753](https://github.com/CleverRaven/Cataclysm-DDA/pull/86753))
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
