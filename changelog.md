@@ -1,3 +1,10 @@
+* clang-tidy: build plugin against LLVM 19-22, parametrize scripts ([#86917](https://github.com/CleverRaven/Cataclysm-DDA/pull/86917))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-08-2014 ([a470e58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2014))
+
+* behold: the rising dough ([#86907](https://github.com/CleverRaven/Cataclysm-DDA/pull/86907))
 
 ---
 
@@ -182,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-05-02-1743 ([8562c20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-1743))
 
 * adding a filter to the PBA mask ([#86819](https://github.com/CleverRaven/Cataclysm-DDA/pull/86819))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-02-1625 ([22bdcd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-1625))
-
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
 * Add per faction steal preferences to thief mode ([#86805](https://github.com/CleverRaven/Cataclysm-DDA/pull/86805))
 * Make some seed craftable from rotten vegetables and fruits ([#86758](https://github.com/CleverRaven/Cataclysm-DDA/pull/86758))
@@ -219,6 +221,4 @@
 * [MoM] Fix Intensity Flames targeting ([#86750](https://github.com/CleverRaven/Cataclysm-DDA/pull/86750))
 * Added a few commas to the militia merchant's dialogue for easier readability ([#86753](https://github.com/CleverRaven/Cataclysm-DDA/pull/86753))
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
-* Acid Blood mutation overrides your blood type ([#86744](https://github.com/CleverRaven/Cataclysm-DDA/pull/86744))
-* Add decaying zombie upgrades ([#86745](https://github.com/CleverRaven/Cataclysm-DDA/pull/86745))
 * More clothing faults (denim) ([#86746](https://github.com/CleverRaven/Cataclysm-DDA/pull/86746))

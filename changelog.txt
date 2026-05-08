@@ -1,3 +1,7 @@
+* clang-tidy: build plugin against LLVM 19-22, parametrize scripts (#86917)
+
+Cataclysm-DDA experimental build 2026-05-08-2014 (a470e58)
+* behold: the rising dough (#86907)
 
 Cataclysm-DDA experimental build 2026-05-08-1440 (9478b46)
 * migrating old case hardening and quenching prof (#86920)
@@ -104,8 +108,6 @@ Cataclysm-DDA experimental build 2026-05-03-2134 (d49db97)
 
 Cataclysm-DDA experimental build 2026-05-02-1743 (8562c20)
 * adding a filter to the PBA mask (#86819)
-
-Cataclysm-DDA experimental build 2026-05-02-1625 (22bdcd3)
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs (#86818)
 * Add per faction steal preferences to thief mode (#86805)
 * Make some seed craftable from rotten vegetables and fruits (#86758)
@@ -138,6 +140,4 @@ Cataclysm-DDA experimental build 2026-05-02-1625 (22bdcd3)
 * [MoM] Fix Intensity Flames targeting (#86750)
 * Added a few commas to the militia merchant's dialogue for easier readability (#86753)
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) (#86752)
-* Acid Blood mutation overrides your blood type (#86744)
-* Add decaying zombie upgrades (#86745)
 * More clothing faults (denim) (#86746)
