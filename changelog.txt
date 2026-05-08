@@ -1,3 +1,9 @@
+* Gastropod Foot coverage (#86911)
+* more overgrown labyrinth mapgen (#86919)
+* [MoM] The Netherum Labyrinth is in the Nether (#86922)
+
+Cataclysm-DDA experimental build 2026-05-08-2212 (787b4f4)
+* additional variery in labyrinth2_backdrops (#86914)
 
 Cataclysm-DDA experimental build 2026-05-08-2103 (872e93f)
 * clang-tidy: build plugin against LLVM 19-22, parametrize scripts (#86917)
@@ -65,7 +71,6 @@ Cataclysm-DDA experimental build 2026-05-06-0504 (5ca2761)
 
 Cataclysm-DDA experimental build 2026-05-06-0034 (fb05c14)
 * Migrate popups in veh interactions to ImGui (#86816)
-* Direct route autodrive pathfinding (#86748)
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts (#86863)
 
 Cataclysm-DDA experimental build 2026-05-05-1556 (c612525)
@@ -103,8 +108,6 @@ Cataclysm-DDA experimental build 2026-05-04-0348 (4ddd9d5)
 
 Cataclysm-DDA experimental build 2026-05-03-2256 (5b43093)
 * second level of labyrinths (#86827)
-
-Cataclysm-DDA experimental build 2026-05-03-2134 (d49db97)
 * Include installed gunmod/toolmod prices in item::price (#86799)
 * Workflow hygiene (#86831)
 * adding a filter to the PBA mask (#86819)
@@ -137,7 +140,5 @@ Cataclysm-DDA experimental build 2026-05-03-2134 (d49db97)
 * Added all the dog breeds to home_pictures.json (#86763)
 * Labyrinth: flooded labyrinth + water dispenser upgrade (#86757)
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" (#86756)
-* [MoM] Fix Intensity Flames targeting (#86750)
 * Added a few commas to the militia merchant's dialogue for easier readability (#86753)
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) (#86752)
-* More clothing faults (denim) (#86746)

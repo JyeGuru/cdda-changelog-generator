@@ -1,3 +1,12 @@
+* Gastropod Foot coverage ([#86911](https://github.com/CleverRaven/Cataclysm-DDA/pull/86911))
+* more overgrown labyrinth mapgen ([#86919](https://github.com/CleverRaven/Cataclysm-DDA/pull/86919))
+* [MoM] The Netherum Labyrinth is in the Nether ([#86922](https://github.com/CleverRaven/Cataclysm-DDA/pull/86922))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-08-2212 ([787b4f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2212))
+
+* additional variery in labyrinth2_backdrops ([#86914](https://github.com/CleverRaven/Cataclysm-DDA/pull/86914))
 
 ---
 
@@ -116,7 +125,6 @@
 #### Cataclysm-DDA experimental build 2026-05-06-0034 ([fb05c14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-0034))
 
 * Migrate popups in veh interactions to ImGui ([#86816](https://github.com/CleverRaven/Cataclysm-DDA/pull/86816))
-* Direct route autodrive pathfinding ([#86748](https://github.com/CleverRaven/Cataclysm-DDA/pull/86748))
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 
 ---
@@ -181,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-05-03-2256 ([5b43093](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-03-2256))
 
 * second level of labyrinths ([#86827](https://github.com/CleverRaven/Cataclysm-DDA/pull/86827))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-03-2134 ([d49db97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-03-2134))
-
 * Include installed gunmod/toolmod prices in item::price ([#86799](https://github.com/CleverRaven/Cataclysm-DDA/pull/86799))
 * Workflow hygiene ([#86831](https://github.com/CleverRaven/Cataclysm-DDA/pull/86831))
 * adding a filter to the PBA mask ([#86819](https://github.com/CleverRaven/Cataclysm-DDA/pull/86819))
@@ -218,7 +221,5 @@
 * Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
 * Labyrinth: flooded labyrinth + water dispenser upgrade ([#86757](https://github.com/CleverRaven/Cataclysm-DDA/pull/86757))
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" ([#86756](https://github.com/CleverRaven/Cataclysm-DDA/pull/86756))
-* [MoM] Fix Intensity Flames targeting ([#86750](https://github.com/CleverRaven/Cataclysm-DDA/pull/86750))
 * Added a few commas to the militia merchant's dialogue for easier readability ([#86753](https://github.com/CleverRaven/Cataclysm-DDA/pull/86753))
 * Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
-* More clothing faults (denim) ([#86746](https://github.com/CleverRaven/Cataclysm-DDA/pull/86746))
