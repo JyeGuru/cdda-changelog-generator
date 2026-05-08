@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-08-2103 (872e93f)
 * clang-tidy: build plugin against LLVM 19-22, parametrize scripts (#86917)
 
 Cataclysm-DDA experimental build 2026-05-08-2014 (a470e58)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2026-05-03-2256 (5b43093)
 Cataclysm-DDA experimental build 2026-05-03-2134 (d49db97)
 * Include installed gunmod/toolmod prices in item::price (#86799)
 * Workflow hygiene (#86831)
-
-Cataclysm-DDA experimental build 2026-05-02-1743 (8562c20)
 * adding a filter to the PBA mask (#86819)
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs (#86818)
 * Add per faction steal preferences to thief mode (#86805)
