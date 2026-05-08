@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-08-2254 (72774df)
 * Gastropod Foot coverage (#86911)
 * more overgrown labyrinth mapgen (#86919)
 * [MoM] The Netherum Labyrinth is in the Nether (#86922)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2026-05-04-0446 (f054bcc)
 
 Cataclysm-DDA experimental build 2026-05-04-0348 (4ddd9d5)
 * Make practice recipe names lower case (#86833)
-
-Cataclysm-DDA experimental build 2026-05-03-2256 (5b43093)
 * second level of labyrinths (#86827)
 * Include installed gunmod/toolmod prices in item::price (#86799)
 * Workflow hygiene (#86831)
