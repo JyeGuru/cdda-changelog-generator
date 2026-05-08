@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-08-0120 ([8dc5e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-0120))
+
+* Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-07-1926 ([39ca818](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-1926))
 
 * Fix Music descriptions missing ([#86885](https://github.com/CleverRaven/Cataclysm-DDA/pull/86885))
@@ -184,11 +190,6 @@
 * Add per faction steal preferences to thief mode ([#86805](https://github.com/CleverRaven/Cataclysm-DDA/pull/86805))
 * Make some seed craftable from rotten vegetables and fruits ([#86758](https://github.com/CleverRaven/Cataclysm-DDA/pull/86758))
 * Change requirements for all hardened weapons. Add steps to many, many weapon recipes. Fix punch and drift set dimensions. Make belt grinder a bit faster ([#86787](https://github.com/CleverRaven/Cataclysm-DDA/pull/86787))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-02-0534 ([5da10f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-02-0534))
-
 * [Magiclysm] Add new NPC merchant to Forge of Wonders ([#86802](https://github.com/CleverRaven/Cataclysm-DDA/pull/86802))
 * Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
 * Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
