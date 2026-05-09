@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-09-1333 ([28c8c4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-1333))
+
+* clang-tidy: fix lint findings under LLVM 21 ([#86927](https://github.com/CleverRaven/Cataclysm-DDA/pull/86927))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-09-1027 ([5dc35d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-1027))
 
 * 6 labyrinth-specific CBMs ([#86928](https://github.com/CleverRaven/Cataclysm-DDA/pull/86928))
@@ -185,11 +191,6 @@
 * Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
 * falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-05-0136 ([cd4722c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0136))
-
 * soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
 * defining speed for more power tools. Adding TEMPER quality ([#86798](https://github.com/CleverRaven/Cataclysm-DDA/pull/86798))
 * Rework of Medical professions ([#86823](https://github.com/CleverRaven/Cataclysm-DDA/pull/86823))
@@ -227,4 +228,3 @@
 * Labyrinth: apartment upgrade to safehouse ([#86767](https://github.com/CleverRaven/Cataclysm-DDA/pull/86767))
 * [Magiclysm] Goldbrew and dragonfire fixes (+some minor changes) ([#86765](https://github.com/CleverRaven/Cataclysm-DDA/pull/86765))
 * Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
-* Labyrinth: flooded labyrinth + water dispenser upgrade ([#86757](https://github.com/CleverRaven/Cataclysm-DDA/pull/86757))
