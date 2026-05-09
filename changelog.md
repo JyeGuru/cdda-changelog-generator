@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-09-0417 ([dc3949c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-0417))
+
+* Insect wings to body part ([#86910](https://github.com/CleverRaven/Cataclysm-DDA/pull/86910))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-09-0324 ([00704ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-0324))
+
+* Update run-vcpkg action references. ([#86923](https://github.com/CleverRaven/Cataclysm-DDA/pull/86923))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-08-2254 ([72774df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2254))
 
 * Gastropod Foot coverage ([#86911](https://github.com/CleverRaven/Cataclysm-DDA/pull/86911))
@@ -173,20 +185,10 @@
 #### Cataclysm-DDA experimental build 2026-05-05-0136 ([cd4722c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0136))
 
 * soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-04-0446 ([f054bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-04-0446))
-
 * defining speed for more power tools. Adding TEMPER quality ([#86798](https://github.com/CleverRaven/Cataclysm-DDA/pull/86798))
 * Rework of Medical professions ([#86823](https://github.com/CleverRaven/Cataclysm-DDA/pull/86823))
 * Consume from more wells ([#86808](https://github.com/CleverRaven/Cataclysm-DDA/pull/86808))
 * Refugee Center Mercenary Updates ([#86840](https://github.com/CleverRaven/Cataclysm-DDA/pull/86840))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-04-0348 ([4ddd9d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-04-0348))
-
 * Make practice recipe names lower case ([#86833](https://github.com/CleverRaven/Cataclysm-DDA/pull/86833))
 * second level of labyrinths ([#86827](https://github.com/CleverRaven/Cataclysm-DDA/pull/86827))
 * Include installed gunmod/toolmod prices in item::price ([#86799](https://github.com/CleverRaven/Cataclysm-DDA/pull/86799))
@@ -221,5 +223,3 @@
 * Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
 * Labyrinth: flooded labyrinth + water dispenser upgrade ([#86757](https://github.com/CleverRaven/Cataclysm-DDA/pull/86757))
 * Revert "Process `contents_change_handler` in contents_change_activity_actor" ([#86756](https://github.com/CleverRaven/Cataclysm-DDA/pull/86756))
-* Added a few commas to the militia merchant's dialogue for easier readability ([#86753](https://github.com/CleverRaven/Cataclysm-DDA/pull/86753))
-* Labyrinth has nuts and bolts, not steel crossbow bolts (most of the time) ([#86752](https://github.com/CleverRaven/Cataclysm-DDA/pull/86752))
