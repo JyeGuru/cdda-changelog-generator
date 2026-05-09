@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-09-1027 (5dc35d5)
+* 6 labyrinth-specific CBMs (#86928)
+
 Cataclysm-DDA experimental build 2026-05-09-0417 (dc3949c)
 * Insect wings to body part (#86910)
 
@@ -141,4 +144,3 @@ Cataclysm-DDA experimental build 2026-05-05-0136 (cd4722c)
 * [Magiclysm] Goldbrew and dragonfire fixes (+some minor changes) (#86765)
 * Added all the dog breeds to home_pictures.json (#86763)
 * Labyrinth: flooded labyrinth + water dispenser upgrade (#86757)
-* Revert "Process `contents_change_handler` in contents_change_activity_actor" (#86756)
