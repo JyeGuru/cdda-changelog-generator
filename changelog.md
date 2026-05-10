@@ -1,3 +1,10 @@
+* Move appliance infobox to imgui ([#86940](https://github.com/CleverRaven/Cataclysm-DDA/pull/86940))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-10-1339 ([7f0b99a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-1339))
+
+* Remove incorrect limb references ([#86942](https://github.com/CleverRaven/Cataclysm-DDA/pull/86942))
 
 ---
 
@@ -180,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-05-05-1556 ([c612525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-1556))
 
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-05-1007 ([1371b04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-1007))
-
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
 * Refactor `explosives.json` ([#86829](https://github.com/CleverRaven/Cataclysm-DDA/pull/86829))
 * Allow ferals to unlock car doors. ([#86807](https://github.com/CleverRaven/Cataclysm-DDA/pull/86807))
@@ -219,7 +221,6 @@
 * [DDotD] Add "brain" weakpoints that instantly kill zombies ([#86782](https://github.com/CleverRaven/Cataclysm-DDA/pull/86782))
 * Add developer documentation for JSON interface ([#86775](https://github.com/CleverRaven/Cataclysm-DDA/pull/86775))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
-* No portal storms in other dimensions ([#86766](https://github.com/CleverRaven/Cataclysm-DDA/pull/86766))
 * Add keyboard scrolling to the keybinds menu ([#86778](https://github.com/CleverRaven/Cataclysm-DDA/pull/86778))
 * fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
 * Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
@@ -227,4 +228,3 @@
 * [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
 * Fix screen flashing during activities ([#86768](https://github.com/CleverRaven/Cataclysm-DDA/pull/86768))
 * [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
-* Labyrinth: apartment upgrade to safehouse ([#86767](https://github.com/CleverRaven/Cataclysm-DDA/pull/86767))
