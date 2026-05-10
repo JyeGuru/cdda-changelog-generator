@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-10-1450 (50e575e)
 * Move appliance infobox to imgui (#86940)
 
 Cataclysm-DDA experimental build 2026-05-10-1339 (7f0b99a)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2026-05-06-0504 (5ca2761)
 Cataclysm-DDA experimental build 2026-05-06-0034 (fb05c14)
 * Migrate popups in veh interactions to ImGui (#86816)
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts (#86863)
-
-Cataclysm-DDA experimental build 2026-05-05-1556 (c612525)
 * Exodii lamp & new labyrinth variant can be turned into appliances (#86862)
 * Fix SDL3 release (#86852)
 * Refactor `explosives.json` (#86829)
