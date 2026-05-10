@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-10-0830 ([c308b97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-0830))
+
+* Fix gas mask filter drain and multimag fire gate ([#86943](https://github.com/CleverRaven/Cataclysm-DDA/pull/86943))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-10-0136 ([183fb8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-0136))
 
 * Unattended crafting: correctness follow-ups ([#86935](https://github.com/CleverRaven/Cataclysm-DDA/pull/86935))
@@ -182,11 +188,6 @@
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
 * Refactor `explosives.json` ([#86829](https://github.com/CleverRaven/Cataclysm-DDA/pull/86829))
 * Allow ferals to unlock car doors. ([#86807](https://github.com/CleverRaven/Cataclysm-DDA/pull/86807))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-05-0852 ([c828195](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0852))
-
 * Add thief mode setting to debug menu ([#86826](https://github.com/CleverRaven/Cataclysm-DDA/pull/86826))
 * Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
 * more recipes ([#86821](https://github.com/CleverRaven/Cataclysm-DDA/pull/86821))
@@ -227,4 +228,3 @@
 * Fix screen flashing during activities ([#86768](https://github.com/CleverRaven/Cataclysm-DDA/pull/86768))
 * [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
 * Labyrinth: apartment upgrade to safehouse ([#86767](https://github.com/CleverRaven/Cataclysm-DDA/pull/86767))
-* [Magiclysm] Goldbrew and dragonfire fixes (+some minor changes) ([#86765](https://github.com/CleverRaven/Cataclysm-DDA/pull/86765))
