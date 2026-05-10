@@ -1,3 +1,17 @@
+* Expand the Highlands Artifact and add hint on how to use the Conquerors Road. ([#86945](https://github.com/CleverRaven/Cataclysm-DDA/pull/86945))
+* Extract tileset loader into its own translation unit ([#86948](https://github.com/CleverRaven/Cataclysm-DDA/pull/86948))
+* Re-enable cata-large-stack-object on LLVM 22 ([#86952](https://github.com/CleverRaven/Cataclysm-DDA/pull/86952))
+* Fix bullet points not being rendered in Crafting UI ([#86954](https://github.com/CleverRaven/Cataclysm-DDA/pull/86954))
+* Skip deferred move mode switch when currently disallowed ([#86955](https://github.com/CleverRaven/Cataclysm-DDA/pull/86955))
+* Add translation contexts for colors ([#86957](https://github.com/CleverRaven/Cataclysm-DDA/pull/86957))
+* Fix segfault when reloading torch with welding tank ([#86956](https://github.com/CleverRaven/Cataclysm-DDA/pull/86956))
+* Aftershock: Sol turrets and Veles robots guns dont set things on fire. ([#86960](https://github.com/CleverRaven/Cataclysm-DDA/pull/86960))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-10-2249 ([d1c497c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-2249))
+
+* [Magiclysm] Fix Mage Armor spell ([#86961](https://github.com/CleverRaven/Cataclysm-DDA/pull/86961))
 
 ---
 
@@ -213,18 +227,12 @@
 * [Magiclysm] Add new NPC merchant to Forge of Wonders ([#86802](https://github.com/CleverRaven/Cataclysm-DDA/pull/86802))
 * Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
 * Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
-* Separate translation context for material damage ([#86777](https://github.com/CleverRaven/Cataclysm-DDA/pull/86777))
 * Update use_action messages, part 4 ([#86795](https://github.com/CleverRaven/Cataclysm-DDA/pull/86795))
 * Add more wells ([#86790](https://github.com/CleverRaven/Cataclysm-DDA/pull/86790))
 * Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
 * Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
 * [DDotD] Add "brain" weakpoints that instantly kill zombies ([#86782](https://github.com/CleverRaven/Cataclysm-DDA/pull/86782))
-* Add developer documentation for JSON interface ([#86775](https://github.com/CleverRaven/Cataclysm-DDA/pull/86775))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
-* Add keyboard scrolling to the keybinds menu ([#86778](https://github.com/CleverRaven/Cataclysm-DDA/pull/86778))
 * fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
 * Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
-* [Magiclysm] Diviner updates and maintenance ([#86774](https://github.com/CleverRaven/Cataclysm-DDA/pull/86774))
 * [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
-* Fix screen flashing during activities ([#86768](https://github.com/CleverRaven/Cataclysm-DDA/pull/86768))
-* [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
