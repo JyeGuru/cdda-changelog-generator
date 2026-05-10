@@ -1,3 +1,11 @@
+* Unattended crafting: correctness follow-ups ([#86935](https://github.com/CleverRaven/Cataclysm-DDA/pull/86935))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-10-0034 ([a72d102](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-0034))
+
+* Diving boots no longer impose a speed penalty for wearing no shoes ([#86934](https://github.com/CleverRaven/Cataclysm-DDA/pull/86934))
+* Bump clang-tidy CI to LLVM 21 ([#86932](https://github.com/CleverRaven/Cataclysm-DDA/pull/86932))
 
 ---
 
@@ -181,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-05-05-0738 ([8f82689](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0738))
 
 * Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-05-0216 ([7279e3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0216))
-
 * more recipes ([#86821](https://github.com/CleverRaven/Cataclysm-DDA/pull/86821))
 * Sound Dampeners bionic satisfies target practice hearing protection ([#86825](https://github.com/CleverRaven/Cataclysm-DDA/pull/86825))
 * Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
@@ -203,7 +206,6 @@
 * adding a filter to the PBA mask ([#86819](https://github.com/CleverRaven/Cataclysm-DDA/pull/86819))
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
 * Add per faction steal preferences to thief mode ([#86805](https://github.com/CleverRaven/Cataclysm-DDA/pull/86805))
-* Make some seed craftable from rotten vegetables and fruits ([#86758](https://github.com/CleverRaven/Cataclysm-DDA/pull/86758))
 * Change requirements for all hardened weapons. Add steps to many, many weapon recipes. Fix punch and drift set dimensions. Make belt grinder a bit faster ([#86787](https://github.com/CleverRaven/Cataclysm-DDA/pull/86787))
 * [Magiclysm] Add new NPC merchant to Forge of Wonders ([#86802](https://github.com/CleverRaven/Cataclysm-DDA/pull/86802))
 * Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
@@ -215,7 +217,6 @@
 * Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
 * [DDotD] Add "brain" weakpoints that instantly kill zombies ([#86782](https://github.com/CleverRaven/Cataclysm-DDA/pull/86782))
 * Add developer documentation for JSON interface ([#86775](https://github.com/CleverRaven/Cataclysm-DDA/pull/86775))
-* Make Brigitte a complex NPC ([#86761](https://github.com/CleverRaven/Cataclysm-DDA/pull/86761))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
 * No portal storms in other dimensions ([#86766](https://github.com/CleverRaven/Cataclysm-DDA/pull/86766))
 * Add keyboard scrolling to the keybinds menu ([#86778](https://github.com/CleverRaven/Cataclysm-DDA/pull/86778))
@@ -227,4 +228,3 @@
 * [ Magiclysm ] Fix Demon Spider queen size ([#86771](https://github.com/CleverRaven/Cataclysm-DDA/pull/86771))
 * Labyrinth: apartment upgrade to safehouse ([#86767](https://github.com/CleverRaven/Cataclysm-DDA/pull/86767))
 * [Magiclysm] Goldbrew and dragonfire fixes (+some minor changes) ([#86765](https://github.com/CleverRaven/Cataclysm-DDA/pull/86765))
-* Added all the dog breeds to home_pictures.json ([#86763](https://github.com/CleverRaven/Cataclysm-DDA/pull/86763))
