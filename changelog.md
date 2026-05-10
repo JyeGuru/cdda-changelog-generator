@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-10-0136 ([183fb8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-0136))
+
 * Unattended crafting: correctness follow-ups ([#86935](https://github.com/CleverRaven/Cataclysm-DDA/pull/86935))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-05-05-0852 ([c828195](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0852))
 
 * Add thief mode setting to debug menu ([#86826](https://github.com/CleverRaven/Cataclysm-DDA/pull/86826))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-05-0738 ([8f82689](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-05-0738))
-
 * Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
 * more recipes ([#86821](https://github.com/CleverRaven/Cataclysm-DDA/pull/86821))
 * Sound Dampeners bionic satisfies target practice hearing protection ([#86825](https://github.com/CleverRaven/Cataclysm-DDA/pull/86825))
