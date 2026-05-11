@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-05-11-2205 (eb52170)
+* [MoM] Change Beastmaster message (#86975)
 * Delete file "16" (#86973)
 
 Cataclysm-DDA 0.I release candidate 2026-05-11-1531 (da165fc)
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2026-05-07-0258 (fa3f7e5)
 Cataclysm-DDA experimental build 2026-05-06-2155 (9885417)
 * swap stab and bash damage on war hammers, fix material (#86894)
 * Don't print 'X has correct #includes/fwd-decls' in iwyu workflow (#86874)
-
-Cataclysm-DDA experimental build 2026-05-06-2019 (8e2aee9)
 * Labyrinth Safehouse Boiler (#86871)
 * Restore gravity for birds (#86889)
 * revert and retune mundane light tints (#86888)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2026-05-06-2019 (8e2aee9)
 * Add more wells (#86790)
 * Trash cans can't be installed on vehicles (#86793)
 * Only allow allies to sleep in your vehicles (#86792)
-* Extra decaying upgrade changes (#86789)

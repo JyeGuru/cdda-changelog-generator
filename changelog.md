@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-11-2205 ([eb52170](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-2205))
+
+* [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
 
 ---
@@ -197,11 +203,6 @@
 
 * swap stab and bash damage on war hammers, fix material ([#86894](https://github.com/CleverRaven/Cataclysm-DDA/pull/86894))
 * Don't print 'X has correct #includes/fwd-decls' in iwyu workflow ([#86874](https://github.com/CleverRaven/Cataclysm-DDA/pull/86874))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-06-2019 ([8e2aee9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-2019))
-
 * Labyrinth Safehouse Boiler ([#86871](https://github.com/CleverRaven/Cataclysm-DDA/pull/86871))
 * Restore gravity for birds ([#86889](https://github.com/CleverRaven/Cataclysm-DDA/pull/86889))
 * revert and retune mundane light tints ([#86888](https://github.com/CleverRaven/Cataclysm-DDA/pull/86888))
@@ -241,4 +242,3 @@
 * Add more wells ([#86790](https://github.com/CleverRaven/Cataclysm-DDA/pull/86790))
 * Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
 * Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
-* Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
