@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-10-2334 ([d26f77c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-2334))
+
 * Expand the Highlands Artifact and add hint on how to use the Conquerors Road. ([#86945](https://github.com/CleverRaven/Cataclysm-DDA/pull/86945))
 * Extract tileset loader into its own translation unit ([#86948](https://github.com/CleverRaven/Cataclysm-DDA/pull/86948))
 * Re-enable cata-large-stack-object on LLVM 22 ([#86952](https://github.com/CleverRaven/Cataclysm-DDA/pull/86952))
@@ -193,11 +198,6 @@
 * Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
 * Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
 * Remove excess `script:` from first time contributor workflow ([#86846](https://github.com/CleverRaven/Cataclysm-DDA/pull/86846))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-06-0034 ([fb05c14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-0034))
-
 * Migrate popups in veh interactions to ImGui ([#86816](https://github.com/CleverRaven/Cataclysm-DDA/pull/86816))
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
