@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-05-11-1531 ([da165fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-05-11-1531))
+
+* Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
+* Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-11-1115 ([c35ba76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-1115))
 
 * Display some items by volume or weight, instead of count ([#86872](https://github.com/CleverRaven/Cataclysm-DDA/pull/86872))
@@ -195,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2026-05-06-2019 ([8e2aee9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-2019))
 
 * Labyrinth Safehouse Boiler ([#86871](https://github.com/CleverRaven/Cataclysm-DDA/pull/86871))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-06-1908 ([0620268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-1908))
-
 * Restore gravity for birds ([#86889](https://github.com/CleverRaven/Cataclysm-DDA/pull/86889))
 * revert and retune mundane light tints ([#86888](https://github.com/CleverRaven/Cataclysm-DDA/pull/86888))
 * Minor weakpoint tweaks ([#86868](https://github.com/CleverRaven/Cataclysm-DDA/pull/86868))
@@ -231,7 +233,6 @@
 * adding a filter to the PBA mask ([#86819](https://github.com/CleverRaven/Cataclysm-DDA/pull/86819))
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
 * Add per faction steal preferences to thief mode ([#86805](https://github.com/CleverRaven/Cataclysm-DDA/pull/86805))
-* Change requirements for all hardened weapons. Add steps to many, many weapon recipes. Fix punch and drift set dimensions. Make belt grinder a bit faster ([#86787](https://github.com/CleverRaven/Cataclysm-DDA/pull/86787))
 * [Magiclysm] Add new NPC merchant to Forge of Wonders ([#86802](https://github.com/CleverRaven/Cataclysm-DDA/pull/86802))
 * Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
 * Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
@@ -240,4 +241,3 @@
 * Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
 * Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
-* [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
