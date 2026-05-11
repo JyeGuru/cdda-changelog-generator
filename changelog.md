@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-11-0432 ([eb36534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-0432))
+
 * Eye stalks to limbs ([#86959](https://github.com/CleverRaven/Cataclysm-DDA/pull/86959))
 
 ---

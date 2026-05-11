@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-11-0432 (eb36534)
 * Eye stalks to limbs (#86959)
 
 Cataclysm-DDA experimental build 2026-05-11-0322 (c95e9cd)
