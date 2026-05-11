@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-11-1115 ([c35ba76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-1115))
+
+* Display some items by volume or weight, instead of count ([#86872](https://github.com/CleverRaven/Cataclysm-DDA/pull/86872))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-11-0432 ([eb36534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-0432))
 
 * Eye stalks to limbs ([#86959](https://github.com/CleverRaven/Cataclysm-DDA/pull/86959))
@@ -196,11 +202,6 @@
 
 * Restore gravity for birds ([#86889](https://github.com/CleverRaven/Cataclysm-DDA/pull/86889))
 * revert and retune mundane light tints ([#86888](https://github.com/CleverRaven/Cataclysm-DDA/pull/86888))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-06-1751 ([0852037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-1751))
-
 * Minor weakpoint tweaks ([#86868](https://github.com/CleverRaven/Cataclysm-DDA/pull/86868))
 * Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
 * Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
@@ -239,5 +240,4 @@
 * Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
 * Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
-* fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
 * [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
