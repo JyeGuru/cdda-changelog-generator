@@ -1,3 +1,4 @@
+* Delete file "16" (#86973)
 
 Cataclysm-DDA 0.I release candidate 2026-05-11-1531 (da165fc)
 * Use newer vcpkg.exe for 0.I-branch. (#86966)

@@ -1,3 +1,4 @@
+* Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
 
 ---
 
