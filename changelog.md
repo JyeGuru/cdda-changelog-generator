@@ -1,3 +1,10 @@
+* Eye stalks to limbs ([#86959](https://github.com/CleverRaven/Cataclysm-DDA/pull/86959))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-11-0322 ([c95e9cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-0322))
+
+* Step cutting weapons ([#86933](https://github.com/CleverRaven/Cataclysm-DDA/pull/86933))
 
 ---
 
@@ -190,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-05-06-1751 ([0852037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-1751))
 
 * Minor weakpoint tweaks ([#86868](https://github.com/CleverRaven/Cataclysm-DDA/pull/86868))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-06-0504 ([5ca2761](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-0504))
-
 * Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
 * Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
 * Remove excess `script:` from first time contributor workflow ([#86846](https://github.com/CleverRaven/Cataclysm-DDA/pull/86846))
@@ -231,8 +233,6 @@
 * Add more wells ([#86790](https://github.com/CleverRaven/Cataclysm-DDA/pull/86790))
 * Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
 * Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
-* [DDotD] Add "brain" weakpoints that instantly kill zombies ([#86782](https://github.com/CleverRaven/Cataclysm-DDA/pull/86782))
 * Extra decaying upgrade changes ([#86789](https://github.com/CleverRaven/Cataclysm-DDA/pull/86789))
 * fixes devourers not dropping cbms ([#86783](https://github.com/CleverRaven/Cataclysm-DDA/pull/86783))
-* Labyrinth turrets shoot phase goo ([#86780](https://github.com/CleverRaven/Cataclysm-DDA/pull/86780))
 * [XEDRA Evolved] Give the `human` butchery result omnivore stomach ([#86784](https://github.com/CleverRaven/Cataclysm-DDA/pull/86784))
