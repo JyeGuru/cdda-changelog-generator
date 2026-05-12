@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-0444 ([069d8c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-0444))
+
+* Rigid Eyestalks to limbs ([#86974](https://github.com/CleverRaven/Cataclysm-DDA/pull/86974))
 * Remember crafting steps panel state between sessions ([#86969](https://github.com/CleverRaven/Cataclysm-DDA/pull/86969))
 
 ---
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-05-07-0929 ([85c12c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0929))
 
 * Support copy-from for limb_type ([#86880](https://github.com/CleverRaven/Cataclysm-DDA/pull/86880))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-07-0709 ([387edcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0709))
-
 *  Cache highway lake test results to avoid O(a billion) noise calculations ([#86886](https://github.com/CleverRaven/Cataclysm-DDA/pull/86886))
 * Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
 * Realistic Profession Ages ([#86873](https://github.com/CleverRaven/Cataclysm-DDA/pull/86873))
@@ -229,7 +230,6 @@
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
 * falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
 * soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
-* defining speed for more power tools. Adding TEMPER quality ([#86798](https://github.com/CleverRaven/Cataclysm-DDA/pull/86798))
 * Rework of Medical professions ([#86823](https://github.com/CleverRaven/Cataclysm-DDA/pull/86823))
 * Consume from more wells ([#86808](https://github.com/CleverRaven/Cataclysm-DDA/pull/86808))
 * Refugee Center Mercenary Updates ([#86840](https://github.com/CleverRaven/Cataclysm-DDA/pull/86840))
