@@ -1,3 +1,7 @@
+
+Cataclysm-DDA experimental build 2026-05-12-1443 (163262b)
+* Sidebar headers for various game objects (#86866)
+* Fix minor typos in TCL mutant start (#86950)
 * Fix some translation issues (#86916)
 * LLVM 22 clang-tidy cleanup (#86977)
 
@@ -105,8 +109,6 @@ Cataclysm-DDA experimental build 2026-05-08-1440 (9478b46)
 
 Cataclysm-DDA experimental build 2026-05-08-0120 (8dc5e93)
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) (#86905)
-
-Cataclysm-DDA experimental build 2026-05-07-1926 (39ca818)
 * Fix Music descriptions missing (#86885)
 * Aftershock Industrial habitat building (#86835)
 * Move `construction` to generic_factory (#86879)
@@ -152,5 +154,3 @@ Cataclysm-DDA experimental build 2026-05-07-1926 (39ca818)
 * Make practice recipe names lower case (#86833)
 * second level of labyrinths (#86827)
 * Workflow hygiene (#86831)
-* adding a filter to the PBA mask (#86819)
-* [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs (#86818)

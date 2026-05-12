@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-1443 ([163262b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-1443))
+
+* Sidebar headers for various game objects ([#86866](https://github.com/CleverRaven/Cataclysm-DDA/pull/86866))
+* Fix minor typos in TCL mutant start ([#86950](https://github.com/CleverRaven/Cataclysm-DDA/pull/86950))
 * Fix some translation issues ([#86916](https://github.com/CleverRaven/Cataclysm-DDA/pull/86916))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
 
@@ -192,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2026-05-08-0120 ([8dc5e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-0120))
 
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-07-1926 ([39ca818](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-1926))
-
 * Fix Music descriptions missing ([#86885](https://github.com/CleverRaven/Cataclysm-DDA/pull/86885))
 * Aftershock Industrial habitat building ([#86835](https://github.com/CleverRaven/Cataclysm-DDA/pull/86835))
 * Move `construction` to generic_factory ([#86879](https://github.com/CleverRaven/Cataclysm-DDA/pull/86879))
@@ -242,5 +244,3 @@
 * Make practice recipe names lower case ([#86833](https://github.com/CleverRaven/Cataclysm-DDA/pull/86833))
 * second level of labyrinths ([#86827](https://github.com/CleverRaven/Cataclysm-DDA/pull/86827))
 * Workflow hygiene ([#86831](https://github.com/CleverRaven/Cataclysm-DDA/pull/86831))
-* adding a filter to the PBA mask ([#86819](https://github.com/CleverRaven/Cataclysm-DDA/pull/86819))
-* [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
