@@ -1,3 +1,11 @@
+* Fix some translation issues ([#86916](https://github.com/CleverRaven/Cataclysm-DDA/pull/86916))
+* LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-1250 ([afe3f29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-1250))
+
+* Blocking Fields ([#86820](https://github.com/CleverRaven/Cataclysm-DDA/pull/86820))
 
 ---
 
@@ -191,11 +199,6 @@
 
 * Fix Music descriptions missing ([#86885](https://github.com/CleverRaven/Cataclysm-DDA/pull/86885))
 * Aftershock Industrial habitat building ([#86835](https://github.com/CleverRaven/Cataclysm-DDA/pull/86835))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-07-1802 ([4ada7e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-1802))
-
 * Move `construction` to generic_factory ([#86879](https://github.com/CleverRaven/Cataclysm-DDA/pull/86879))
 * Pass item_location through item wakeup dispatch ([#86904](https://github.com/CleverRaven/Cataclysm-DDA/pull/86904))
 * [Magiclysm] Fantasy species bodypart edits ([#86882](https://github.com/CleverRaven/Cataclysm-DDA/pull/86882))
@@ -222,7 +225,6 @@
 * Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
 * Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
 * Remove excess `script:` from first time contributor workflow ([#86846](https://github.com/CleverRaven/Cataclysm-DDA/pull/86846))
-* Migrate popups in veh interactions to ImGui ([#86816](https://github.com/CleverRaven/Cataclysm-DDA/pull/86816))
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
@@ -242,4 +244,3 @@
 * Workflow hygiene ([#86831](https://github.com/CleverRaven/Cataclysm-DDA/pull/86831))
 * adding a filter to the PBA mask ([#86819](https://github.com/CleverRaven/Cataclysm-DDA/pull/86819))
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
-* Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
