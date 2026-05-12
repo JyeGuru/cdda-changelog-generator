@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-1039 ([fb2e1f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-1039))
+
 * Show input context to player ([#86881](https://github.com/CleverRaven/Cataclysm-DDA/pull/86881))
 * Block in-place transform when result wouldn't fit parent pocket ([#86958](https://github.com/CleverRaven/Cataclysm-DDA/pull/86958))
 * Fix "<name> helps with crafting" message not using the new name of renamed NPCs ([#86949](https://github.com/CleverRaven/Cataclysm-DDA/pull/86949))
@@ -195,11 +200,6 @@
 * Pass item_location through item wakeup dispatch ([#86904](https://github.com/CleverRaven/Cataclysm-DDA/pull/86904))
 * [Magiclysm] Fantasy species bodypart edits ([#86882](https://github.com/CleverRaven/Cataclysm-DDA/pull/86882))
 * Fix bad optional access ([#86900](https://github.com/CleverRaven/Cataclysm-DDA/pull/86900))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-07-1647 ([809ff8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-1647))
-
 * [MoM] Fix the `unending conflagration` killing themselves with their own `burning aura` ([#86902](https://github.com/CleverRaven/Cataclysm-DDA/pull/86902))
 * More syntax fixes for first time contributor labeller. ([#86903](https://github.com/CleverRaven/Cataclysm-DDA/pull/86903))
 * Support copy-from for limb_type ([#86880](https://github.com/CleverRaven/Cataclysm-DDA/pull/86880))
