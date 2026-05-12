@@ -1,3 +1,14 @@
+* Show input context to player ([#86881](https://github.com/CleverRaven/Cataclysm-DDA/pull/86881))
+* Block in-place transform when result wouldn't fit parent pocket ([#86958](https://github.com/CleverRaven/Cataclysm-DDA/pull/86958))
+* Fix "<name> helps with crafting" message not using the new name of renamed NPCs ([#86949](https://github.com/CleverRaven/Cataclysm-DDA/pull/86949))
+* Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
+* Remove "bundle" item hacks ([#86965](https://github.com/CleverRaven/Cataclysm-DDA/pull/86965))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-0737 ([87cd986](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-0737))
+
+* Weekly Changelog 2026-05-04 to 2026-05-11 ([#86967](https://github.com/CleverRaven/Cataclysm-DDA/pull/86967))
 
 ---
 
@@ -191,11 +202,6 @@
 
 * [MoM] Fix the `unending conflagration` killing themselves with their own `burning aura` ([#86902](https://github.com/CleverRaven/Cataclysm-DDA/pull/86902))
 * More syntax fixes for first time contributor labeller. ([#86903](https://github.com/CleverRaven/Cataclysm-DDA/pull/86903))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-07-0929 ([85c12c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0929))
-
 * Support copy-from for limb_type ([#86880](https://github.com/CleverRaven/Cataclysm-DDA/pull/86880))
 *  Cache highway lake test results to avoid O(a billion) noise calculations ([#86886](https://github.com/CleverRaven/Cataclysm-DDA/pull/86886))
 * Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
@@ -221,7 +227,6 @@
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
 * Refactor `explosives.json` ([#86829](https://github.com/CleverRaven/Cataclysm-DDA/pull/86829))
-* Allow ferals to unlock car doors. ([#86807](https://github.com/CleverRaven/Cataclysm-DDA/pull/86807))
 * Add thief mode setting to debug menu ([#86826](https://github.com/CleverRaven/Cataclysm-DDA/pull/86826))
 * Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
 * more recipes ([#86821](https://github.com/CleverRaven/Cataclysm-DDA/pull/86821))
@@ -231,15 +236,10 @@
 * falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
 * soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
 * Rework of Medical professions ([#86823](https://github.com/CleverRaven/Cataclysm-DDA/pull/86823))
-* Consume from more wells ([#86808](https://github.com/CleverRaven/Cataclysm-DDA/pull/86808))
 * Refugee Center Mercenary Updates ([#86840](https://github.com/CleverRaven/Cataclysm-DDA/pull/86840))
 * Make practice recipe names lower case ([#86833](https://github.com/CleverRaven/Cataclysm-DDA/pull/86833))
 * second level of labyrinths ([#86827](https://github.com/CleverRaven/Cataclysm-DDA/pull/86827))
-* Include installed gunmod/toolmod prices in item::price ([#86799](https://github.com/CleverRaven/Cataclysm-DDA/pull/86799))
 * Workflow hygiene ([#86831](https://github.com/CleverRaven/Cataclysm-DDA/pull/86831))
 * adding a filter to the PBA mask ([#86819](https://github.com/CleverRaven/Cataclysm-DDA/pull/86819))
 * [Magiclysm] Add sells_belongings: false to Forge of Wonders NPCs ([#86818](https://github.com/CleverRaven/Cataclysm-DDA/pull/86818))
-* Add per faction steal preferences to thief mode ([#86805](https://github.com/CleverRaven/Cataclysm-DDA/pull/86805))
-* [Magiclysm] Add new NPC merchant to Forge of Wonders ([#86802](https://github.com/CleverRaven/Cataclysm-DDA/pull/86802))
 * Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
-* Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
