@@ -1,3 +1,23 @@
+* Remember crafting steps panel state between sessions ([#86969](https://github.com/CleverRaven/Cataclysm-DDA/pull/86969))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-0351 ([0973660](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-0351))
+
+* Add smoked mozzarella ([#86936](https://github.com/CleverRaven/Cataclysm-DDA/pull/86936))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-0238 ([3a9a0b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-0238))
+
+* Fix multimag integral magazine display, reload, and fire bugs ([#86970](https://github.com/CleverRaven/Cataclysm-DDA/pull/86970))
+* auditing some recipes. making power hammer a bit slower ([#86972](https://github.com/CleverRaven/Cataclysm-DDA/pull/86972))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-0134 ([6e74b9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-0134))
+
+* Fix typo that caused New England Church to like Elf mutants ([#86953](https://github.com/CleverRaven/Cataclysm-DDA/pull/86953))
 
 ---
 
@@ -177,17 +197,7 @@
 #### Cataclysm-DDA experimental build 2026-05-07-0709 ([387edcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0709))
 
 *  Cache highway lake test results to avoid O(a billion) noise calculations ([#86886](https://github.com/CleverRaven/Cataclysm-DDA/pull/86886))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-07-0521 ([c9898a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0521))
-
 * Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-07-0258 ([fa3f7e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-07-0258))
-
 * Realistic Profession Ages ([#86873](https://github.com/CleverRaven/Cataclysm-DDA/pull/86873))
 * Initial implementation of overgrown labyrinthine structures on labyrinth level 2 ([#86876](https://github.com/CleverRaven/Cataclysm-DDA/pull/86876))
 * Stepping recipes v3 - Piercing weapons ([#86849](https://github.com/CleverRaven/Cataclysm-DDA/pull/86849))
@@ -196,11 +206,6 @@
 * Step torso clothing recipes ([#86891](https://github.com/CleverRaven/Cataclysm-DDA/pull/86891))
 * Limbify avian eyes ([#86877](https://github.com/CleverRaven/Cataclysm-DDA/pull/86877))
 * Multimag: more engine plumbing for vehicle and crafting paths ([#86845](https://github.com/CleverRaven/Cataclysm-DDA/pull/86845))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-06-2155 ([9885417](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-06-2155))
-
 * swap stab and bash damage on war hammers, fix material ([#86894](https://github.com/CleverRaven/Cataclysm-DDA/pull/86894))
 * Don't print 'X has correct #includes/fwd-decls' in iwyu workflow ([#86874](https://github.com/CleverRaven/Cataclysm-DDA/pull/86874))
 * Labyrinth Safehouse Boiler ([#86871](https://github.com/CleverRaven/Cataclysm-DDA/pull/86871))
@@ -238,7 +243,3 @@
 * [Magiclysm] Add new NPC merchant to Forge of Wonders ([#86802](https://github.com/CleverRaven/Cataclysm-DDA/pull/86802))
 * Prevent message if trait present ([#86813](https://github.com/CleverRaven/Cataclysm-DDA/pull/86813))
 * Reduce maximum intensity of hand-staunchable bleeding ([#86801](https://github.com/CleverRaven/Cataclysm-DDA/pull/86801))
-* Update use_action messages, part 4 ([#86795](https://github.com/CleverRaven/Cataclysm-DDA/pull/86795))
-* Add more wells ([#86790](https://github.com/CleverRaven/Cataclysm-DDA/pull/86790))
-* Trash cans can't be installed on vehicles ([#86793](https://github.com/CleverRaven/Cataclysm-DDA/pull/86793))
-* Only allow allies to sleep in your vehicles ([#86792](https://github.com/CleverRaven/Cataclysm-DDA/pull/86792))
