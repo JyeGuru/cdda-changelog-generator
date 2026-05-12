@@ -1,18 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-12-2118 ([016eb33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-2118))
+
+* Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-12-1443 ([163262b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-1443))
 
 * Sidebar headers for various game objects ([#86866](https://github.com/CleverRaven/Cataclysm-DDA/pull/86866))
 * Fix minor typos in TCL mutant start ([#86950](https://github.com/CleverRaven/Cataclysm-DDA/pull/86950))
 * Fix some translation issues ([#86916](https://github.com/CleverRaven/Cataclysm-DDA/pull/86916))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-12-1250 ([afe3f29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-1250))
-
-* Blocking Fields ([#86820](https://github.com/CleverRaven/Cataclysm-DDA/pull/86820))
 
 ---
 
@@ -193,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-05-08-1440 ([9478b46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-1440))
 
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-08-0120 ([8dc5e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-0120))
-
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
 * Fix Music descriptions missing ([#86885](https://github.com/CleverRaven/Cataclysm-DDA/pull/86885))
 * Aftershock Industrial habitat building ([#86835](https://github.com/CleverRaven/Cataclysm-DDA/pull/86835))
@@ -233,7 +228,6 @@
 * Refactor `explosives.json` ([#86829](https://github.com/CleverRaven/Cataclysm-DDA/pull/86829))
 * Add thief mode setting to debug menu ([#86826](https://github.com/CleverRaven/Cataclysm-DDA/pull/86826))
 * Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
-* more recipes ([#86821](https://github.com/CleverRaven/Cataclysm-DDA/pull/86821))
 * Sound Dampeners bionic satisfies target practice hearing protection ([#86825](https://github.com/CleverRaven/Cataclysm-DDA/pull/86825))
 * Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
