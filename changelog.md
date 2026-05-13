@@ -1,4 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-13-0232 ([6ffa2b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0232))
+
+* labyrinth CBMs spawn in level 2 labyrinth ([#86985](https://github.com/CleverRaven/Cataclysm-DDA/pull/86985))
 * Fix linter workflow detecting astyle formatting changes. ([#86992](https://github.com/CleverRaven/Cataclysm-DDA/pull/86992))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-13-0135 ([bc58362](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0135))
+
 * Fix unattended-crafting env loss and resume timer offset ([#86983](https://github.com/CleverRaven/Cataclysm-DDA/pull/86983))
 
 ---
@@ -183,17 +194,7 @@
 #### Cataclysm-DDA experimental build 2026-05-08-2212 ([787b4f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2212))
 
 * additional variery in labyrinth2_backdrops ([#86914](https://github.com/CleverRaven/Cataclysm-DDA/pull/86914))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-08-2103 ([872e93f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2103))
-
 * clang-tidy: build plugin against LLVM 19-22, parametrize scripts ([#86917](https://github.com/CleverRaven/Cataclysm-DDA/pull/86917))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-08-2014 ([a470e58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2014))
-
 * behold: the rising dough ([#86907](https://github.com/CleverRaven/Cataclysm-DDA/pull/86907))
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
@@ -229,7 +230,6 @@
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
 * Refactor `explosives.json` ([#86829](https://github.com/CleverRaven/Cataclysm-DDA/pull/86829))
-* Add thief mode setting to debug menu ([#86826](https://github.com/CleverRaven/Cataclysm-DDA/pull/86826))
 * Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
 * Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))

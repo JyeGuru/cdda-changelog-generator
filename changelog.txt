@@ -1,4 +1,9 @@
+
+Cataclysm-DDA experimental build 2026-05-13-0232 (6ffa2b6)
+* labyrinth CBMs spawn in level 2 labyrinth (#86985)
 * Fix linter workflow detecting astyle formatting changes. (#86992)
+
+Cataclysm-DDA experimental build 2026-05-13-0135 (bc58362)
 * Fix unattended-crafting env loss and resume timer offset (#86983)
 
 Cataclysm-DDA experimental build 2026-05-12-2347 (30a8c59)
@@ -102,11 +107,7 @@ Cataclysm-DDA experimental build 2026-05-08-2254 (72774df)
 
 Cataclysm-DDA experimental build 2026-05-08-2212 (787b4f4)
 * additional variery in labyrinth2_backdrops (#86914)
-
-Cataclysm-DDA experimental build 2026-05-08-2103 (872e93f)
 * clang-tidy: build plugin against LLVM 19-22, parametrize scripts (#86917)
-
-Cataclysm-DDA experimental build 2026-05-08-2014 (a470e58)
 * behold: the rising dough (#86907)
 * migrating old case hardening and quenching prof (#86920)
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) (#86905)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2026-05-08-2014 (a470e58)
 * Exodii lamp & new labyrinth variant can be turned into appliances (#86862)
 * Fix SDL3 release (#86852)
 * Refactor `explosives.json` (#86829)
-* Add thief mode setting to debug menu (#86826)
 * Limbify Ursine Eyes (#86838)
 * Demote GCC 16 -Wsfinae-incomplete to warning (#86841)
 * update labyrinth itemgroups (#86843)
