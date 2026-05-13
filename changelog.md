@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-13-0815 ([90dc0b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0815))
+
 * [Xedra Evolved] Stalker Eye spell replaces your eyes while active ([#86996](https://github.com/CleverRaven/Cataclysm-DDA/pull/86996))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-05-09-0324 ([00704ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-0324))
 
 * Update run-vcpkg action references. ([#86923](https://github.com/CleverRaven/Cataclysm-DDA/pull/86923))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-08-2254 ([72774df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2254))
-
 * Gastropod Foot coverage ([#86911](https://github.com/CleverRaven/Cataclysm-DDA/pull/86911))
 * more overgrown labyrinth mapgen ([#86919](https://github.com/CleverRaven/Cataclysm-DDA/pull/86919))
 * [MoM] The Netherum Labyrinth is in the Nether ([#86922](https://github.com/CleverRaven/Cataclysm-DDA/pull/86922))
