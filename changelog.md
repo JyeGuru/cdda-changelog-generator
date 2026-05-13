@@ -1,3 +1,10 @@
+* [Xedra Evolved] Stalker Eye spell replaces your eyes while active ([#86996](https://github.com/CleverRaven/Cataclysm-DDA/pull/86996))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-13-0709 ([b98f76f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0709))
+
+* Move `do_turn()` to `game`, documentation for `Creature::moves` ([#86982](https://github.com/CleverRaven/Cataclysm-DDA/pull/86982))
 
 ---
 
@@ -188,11 +195,6 @@
 * Gastropod Foot coverage ([#86911](https://github.com/CleverRaven/Cataclysm-DDA/pull/86911))
 * more overgrown labyrinth mapgen ([#86919](https://github.com/CleverRaven/Cataclysm-DDA/pull/86919))
 * [MoM] The Netherum Labyrinth is in the Nether ([#86922](https://github.com/CleverRaven/Cataclysm-DDA/pull/86922))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-08-2212 ([787b4f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2212))
-
 * additional variery in labyrinth2_backdrops ([#86914](https://github.com/CleverRaven/Cataclysm-DDA/pull/86914))
 * clang-tidy: build plugin against LLVM 19-22, parametrize scripts ([#86917](https://github.com/CleverRaven/Cataclysm-DDA/pull/86917))
 * behold: the rising dough ([#86907](https://github.com/CleverRaven/Cataclysm-DDA/pull/86907))
@@ -229,7 +231,6 @@
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
-* Refactor `explosives.json` ([#86829](https://github.com/CleverRaven/Cataclysm-DDA/pull/86829))
 * Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
 * Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
@@ -237,5 +238,4 @@
 * soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
 * Refugee Center Mercenary Updates ([#86840](https://github.com/CleverRaven/Cataclysm-DDA/pull/86840))
 * Make practice recipe names lower case ([#86833](https://github.com/CleverRaven/Cataclysm-DDA/pull/86833))
-* second level of labyrinths ([#86827](https://github.com/CleverRaven/Cataclysm-DDA/pull/86827))
 * Workflow hygiene ([#86831](https://github.com/CleverRaven/Cataclysm-DDA/pull/86831))
