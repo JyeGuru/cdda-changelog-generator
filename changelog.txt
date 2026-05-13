@@ -1,3 +1,7 @@
+* basic monsters for overgrown labyrinth (#86986)
+
+Cataclysm-DDA experimental build 2026-05-13-1948 (7130f6b)
+* Full body Exodii frames have proper bionic limbs (#87002)
 
 Cataclysm-DDA experimental build 2026-05-13-0815 (90dc0b1)
 * [Xedra Evolved] Stalker Eye spell replaces your eyes while active (#86996)
@@ -102,8 +106,6 @@ Cataclysm-DDA experimental build 2026-05-09-1027 (5dc35d5)
 
 Cataclysm-DDA experimental build 2026-05-09-0417 (dc3949c)
 * Insect wings to body part (#86910)
-
-Cataclysm-DDA experimental build 2026-05-09-0324 (00704ed)
 * Update run-vcpkg action references. (#86923)
 * Gastropod Foot coverage (#86911)
 * more overgrown labyrinth mapgen (#86919)
@@ -150,5 +152,3 @@ Cataclysm-DDA experimental build 2026-05-09-0324 (00704ed)
 * falling into sparkling void sends you to safehouse (#86848)
 * soften exodii green light (#86847)
 * Refugee Center Mercenary Updates (#86840)
-* Make practice recipe names lower case (#86833)
-* Workflow hygiene (#86831)
