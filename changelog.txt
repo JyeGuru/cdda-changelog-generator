@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-13-2136 (c89ead2)
 * basic monsters for overgrown labyrinth (#86986)
 
 Cataclysm-DDA experimental build 2026-05-13-1948 (7130f6b)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2026-05-09-1333 (28c8c4b)
 
 Cataclysm-DDA experimental build 2026-05-09-1027 (5dc35d5)
 * 6 labyrinth-specific CBMs (#86928)
-
-Cataclysm-DDA experimental build 2026-05-09-0417 (dc3949c)
 * Insect wings to body part (#86910)
 * Update run-vcpkg action references. (#86923)
 * Gastropod Foot coverage (#86911)

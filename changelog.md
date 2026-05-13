@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-13-2136 ([c89ead2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-2136))
+
 * basic monsters for overgrown labyrinth ([#86986](https://github.com/CleverRaven/Cataclysm-DDA/pull/86986))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-05-09-1027 ([5dc35d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-1027))
 
 * 6 labyrinth-specific CBMs ([#86928](https://github.com/CleverRaven/Cataclysm-DDA/pull/86928))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-09-0417 ([dc3949c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-0417))
-
 * Insect wings to body part ([#86910](https://github.com/CleverRaven/Cataclysm-DDA/pull/86910))
 * Update run-vcpkg action references. ([#86923](https://github.com/CleverRaven/Cataclysm-DDA/pull/86923))
 * Gastropod Foot coverage ([#86911](https://github.com/CleverRaven/Cataclysm-DDA/pull/86911))
