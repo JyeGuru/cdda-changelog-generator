@@ -1,3 +1,11 @@
+* Fix linter workflow detecting astyle formatting changes. ([#86992](https://github.com/CleverRaven/Cataclysm-DDA/pull/86992))
+* Fix unattended-crafting env loss and resume timer offset ([#86983](https://github.com/CleverRaven/Cataclysm-DDA/pull/86983))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-12-2347 ([30a8c59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-2347))
+
+* Fix lmoe bunker stairs misalignment and other minor issues ([#86971](https://github.com/CleverRaven/Cataclysm-DDA/pull/86971))
 
 ---
 
@@ -187,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-05-08-2014 ([a470e58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-2014))
 
 * behold: the rising dough ([#86907](https://github.com/CleverRaven/Cataclysm-DDA/pull/86907))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-08-1440 ([9478b46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-08-1440))
-
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
 * Fix Music descriptions missing ([#86885](https://github.com/CleverRaven/Cataclysm-DDA/pull/86885))
@@ -228,12 +231,10 @@
 * Refactor `explosives.json` ([#86829](https://github.com/CleverRaven/Cataclysm-DDA/pull/86829))
 * Add thief mode setting to debug menu ([#86826](https://github.com/CleverRaven/Cataclysm-DDA/pull/86826))
 * Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
-* Sound Dampeners bionic satisfies target practice hearing protection ([#86825](https://github.com/CleverRaven/Cataclysm-DDA/pull/86825))
 * Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
 * falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
 * soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
-* Rework of Medical professions ([#86823](https://github.com/CleverRaven/Cataclysm-DDA/pull/86823))
 * Refugee Center Mercenary Updates ([#86840](https://github.com/CleverRaven/Cataclysm-DDA/pull/86840))
 * Make practice recipe names lower case ([#86833](https://github.com/CleverRaven/Cataclysm-DDA/pull/86833))
 * second level of labyrinths ([#86827](https://github.com/CleverRaven/Cataclysm-DDA/pull/86827))
