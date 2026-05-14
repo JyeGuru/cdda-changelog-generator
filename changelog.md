@@ -1,3 +1,5 @@
+* De-charge a bunch of stuff that should never have had charges ([#87000](https://github.com/CleverRaven/Cataclysm-DDA/pull/87000))
+* Speed up `post_process` tests through a combination of optimizations ([#86901](https://github.com/CleverRaven/Cataclysm-DDA/pull/86901))
 
 ---
 
@@ -234,9 +236,6 @@
 * Minor weakpoint tweaks ([#86868](https://github.com/CleverRaven/Cataclysm-DDA/pull/86868))
 * Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
 * Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
-* Remove excess `script:` from first time contributor workflow ([#86846](https://github.com/CleverRaven/Cataclysm-DDA/pull/86846))
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
-* falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
-* soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
