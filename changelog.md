@@ -1,3 +1,9 @@
+* Fix clang-tidy CI under LLVM 22 ([#87011](https://github.com/CleverRaven/Cataclysm-DDA/pull/87011))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-14-0958 ([6f50c67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-0958))
+
 * Zombies are attracted to moving vehicles ([#87001](https://github.com/CleverRaven/Cataclysm-DDA/pull/87001))
 
 ---
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-05-10-0136 ([183fb8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-0136))
 
 * Unattended crafting: correctness follow-ups ([#86935](https://github.com/CleverRaven/Cataclysm-DDA/pull/86935))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-10-0034 ([a72d102](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-0034))
-
 * Diving boots no longer impose a speed penalty for wearing no shoes ([#86934](https://github.com/CleverRaven/Cataclysm-DDA/pull/86934))
 * Bump clang-tidy CI to LLVM 21 ([#86932](https://github.com/CleverRaven/Cataclysm-DDA/pull/86932))
 * clang-tidy: fix lint findings under LLVM 21 ([#86927](https://github.com/CleverRaven/Cataclysm-DDA/pull/86927))
@@ -236,7 +237,6 @@
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
-* Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
 * falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
 * soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
