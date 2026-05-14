@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-14-1712 (272452c)
+* Character creation UI fixes for random characters (#86997)
+
 Cataclysm-DDA experimental build 2026-05-14-1403 (8ac92d8)
 * Wrap crafting.cpp env_check_result enum in anonymous namespace (#87014)
 * Fix clang-tidy CI under LLVM 22 (#87011)
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2026-05-10-1450 (50e575e)
 
 Cataclysm-DDA experimental build 2026-05-10-1339 (7f0b99a)
 * Remove incorrect limb references (#86942)
-
-Cataclysm-DDA experimental build 2026-05-10-0830 (c308b97)
 * Fix gas mask filter drain and multimag fire gate (#86943)
 * Unattended crafting: correctness follow-ups (#86935)
 * Diving boots no longer impose a speed penalty for wearing no shoes (#86934)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2026-05-10-0830 (c308b97)
 * Small feature room in labyrinth 2: map terminal (#86893)
 * Step torso clothing recipes (#86891)
 * Limbify avian eyes (#86877)
-* Multimag: more engine plumbing for vehicle and crafting paths (#86845)
 * swap stab and bash damage on war hammers, fix material (#86894)
 * Don't print 'X has correct #includes/fwd-decls' in iwyu workflow (#86874)
 * Labyrinth Safehouse Boiler (#86871)

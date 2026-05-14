@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-14-1712 ([272452c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1712))
+
+* Character creation UI fixes for random characters ([#86997](https://github.com/CleverRaven/Cataclysm-DDA/pull/86997))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-14-1403 ([8ac92d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1403))
 
 * Wrap crafting.cpp env_check_result enum in anonymous namespace ([#87014](https://github.com/CleverRaven/Cataclysm-DDA/pull/87014))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-05-10-1339 ([7f0b99a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-1339))
 
 * Remove incorrect limb references ([#86942](https://github.com/CleverRaven/Cataclysm-DDA/pull/86942))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-10-0830 ([c308b97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-0830))
-
 * Fix gas mask filter drain and multimag fire gate ([#86943](https://github.com/CleverRaven/Cataclysm-DDA/pull/86943))
 * Unattended crafting: correctness follow-ups ([#86935](https://github.com/CleverRaven/Cataclysm-DDA/pull/86935))
 * Diving boots no longer impose a speed penalty for wearing no shoes ([#86934](https://github.com/CleverRaven/Cataclysm-DDA/pull/86934))
@@ -225,7 +226,6 @@
 * Small feature room in labyrinth 2: map terminal ([#86893](https://github.com/CleverRaven/Cataclysm-DDA/pull/86893))
 * Step torso clothing recipes ([#86891](https://github.com/CleverRaven/Cataclysm-DDA/pull/86891))
 * Limbify avian eyes ([#86877](https://github.com/CleverRaven/Cataclysm-DDA/pull/86877))
-* Multimag: more engine plumbing for vehicle and crafting paths ([#86845](https://github.com/CleverRaven/Cataclysm-DDA/pull/86845))
 * swap stab and bash damage on war hammers, fix material ([#86894](https://github.com/CleverRaven/Cataclysm-DDA/pull/86894))
 * Don't print 'X has correct #includes/fwd-decls' in iwyu workflow ([#86874](https://github.com/CleverRaven/Cataclysm-DDA/pull/86874))
 * Labyrinth Safehouse Boiler ([#86871](https://github.com/CleverRaven/Cataclysm-DDA/pull/86871))
