@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-14-2050 ([e138fd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-2050))
+
 * Allow some items to be displayed by length ([#87009](https://github.com/CleverRaven/Cataclysm-DDA/pull/87009))
 * Improve view of single-step recipes in crafting menu ([#87012](https://github.com/CleverRaven/Cataclysm-DDA/pull/87012))
 
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-05-10-2249 ([d1c497c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-2249))
 
 * [Magiclysm] Fix Mage Armor spell ([#86961](https://github.com/CleverRaven/Cataclysm-DDA/pull/86961))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-10-1450 ([50e575e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-1450))
-
 * Move appliance infobox to imgui ([#86940](https://github.com/CleverRaven/Cataclysm-DDA/pull/86940))
 * Remove incorrect limb references ([#86942](https://github.com/CleverRaven/Cataclysm-DDA/pull/86942))
 * Fix gas mask filter drain and multimag fire gate ([#86943](https://github.com/CleverRaven/Cataclysm-DDA/pull/86943))

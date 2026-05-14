@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-14-2050 (e138fd1)
 * Allow some items to be displayed by length (#87009)
 * Improve view of single-step recipes in crafting menu (#87012)
 
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2026-05-10-2334 (d26f77c)
 
 Cataclysm-DDA experimental build 2026-05-10-2249 (d1c497c)
 * [Magiclysm] Fix Mage Armor spell (#86961)
-
-Cataclysm-DDA experimental build 2026-05-10-1450 (50e575e)
 * Move appliance infobox to imgui (#86940)
 * Remove incorrect limb references (#86942)
 * Fix gas mask filter drain and multimag fire gate (#86943)
