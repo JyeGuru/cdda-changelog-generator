@@ -1,3 +1,10 @@
+* Allow some items to be displayed by length ([#87009](https://github.com/CleverRaven/Cataclysm-DDA/pull/87009))
+* Improve view of single-step recipes in crafting menu ([#87012](https://github.com/CleverRaven/Cataclysm-DDA/pull/87012))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-14-1907 ([245f503](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1907))
+
 * De-charge a bunch of stuff that should never have had charges ([#87000](https://github.com/CleverRaven/Cataclysm-DDA/pull/87000))
 * Speed up `post_process` tests through a combination of optimizations ([#86901](https://github.com/CleverRaven/Cataclysm-DDA/pull/86901))
 
@@ -189,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-05-10-1450 ([50e575e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-1450))
 
 * Move appliance infobox to imgui ([#86940](https://github.com/CleverRaven/Cataclysm-DDA/pull/86940))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-10-1339 ([7f0b99a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-1339))
-
 * Remove incorrect limb references ([#86942](https://github.com/CleverRaven/Cataclysm-DDA/pull/86942))
 * Fix gas mask filter drain and multimag fire gate ([#86943](https://github.com/CleverRaven/Cataclysm-DDA/pull/86943))
 * Unattended crafting: correctness follow-ups ([#86935](https://github.com/CleverRaven/Cataclysm-DDA/pull/86935))
@@ -223,7 +225,6 @@
 * Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
 * Realistic Profession Ages ([#86873](https://github.com/CleverRaven/Cataclysm-DDA/pull/86873))
 * Initial implementation of overgrown labyrinthine structures on labyrinth level 2 ([#86876](https://github.com/CleverRaven/Cataclysm-DDA/pull/86876))
-* Stepping recipes v3 - Piercing weapons ([#86849](https://github.com/CleverRaven/Cataclysm-DDA/pull/86849))
 * Fix gas grenade behavior ([#86884](https://github.com/CleverRaven/Cataclysm-DDA/pull/86884))
 * Small feature room in labyrinth 2: map terminal ([#86893](https://github.com/CleverRaven/Cataclysm-DDA/pull/86893))
 * Step torso clothing recipes ([#86891](https://github.com/CleverRaven/Cataclysm-DDA/pull/86891))
@@ -238,4 +239,3 @@
 * Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
-* Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
