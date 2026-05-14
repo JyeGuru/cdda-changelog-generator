@@ -1,3 +1,10 @@
+* Zombies are attracted to moving vehicles ([#87001](https://github.com/CleverRaven/Cataclysm-DDA/pull/87001))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-14-0833 ([48898fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-0833))
+
+* Fix Charm spells to give feedback ([#86968](https://github.com/CleverRaven/Cataclysm-DDA/pull/86968))
 * Bump clang-tidy CI to LLVM 22 ([#86987](https://github.com/CleverRaven/Cataclysm-DDA/pull/86987))
 
 ---
@@ -187,11 +194,6 @@
 
 * Diving boots no longer impose a speed penalty for wearing no shoes ([#86934](https://github.com/CleverRaven/Cataclysm-DDA/pull/86934))
 * Bump clang-tidy CI to LLVM 21 ([#86932](https://github.com/CleverRaven/Cataclysm-DDA/pull/86932))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-09-1333 ([28c8c4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-1333))
-
 * clang-tidy: fix lint findings under LLVM 21 ([#86927](https://github.com/CleverRaven/Cataclysm-DDA/pull/86927))
 * 6 labyrinth-specific CBMs ([#86928](https://github.com/CleverRaven/Cataclysm-DDA/pull/86928))
 * Insect wings to body part ([#86910](https://github.com/CleverRaven/Cataclysm-DDA/pull/86910))
@@ -238,4 +240,3 @@
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
 * falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
 * soften exodii green light ([#86847](https://github.com/CleverRaven/Cataclysm-DDA/pull/86847))
-* Refugee Center Mercenary Updates ([#86840](https://github.com/CleverRaven/Cataclysm-DDA/pull/86840))
