@@ -1,3 +1,10 @@
+* Bump clang-tidy CI to LLVM 22 ([#86987](https://github.com/CleverRaven/Cataclysm-DDA/pull/86987))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-14-0109 ([77c159b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-0109))
+
+* Support displaying items by volume/weight on more UI screens ([#86999](https://github.com/CleverRaven/Cataclysm-DDA/pull/86999))
 
 ---
 
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-05-09-1333 ([28c8c4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-1333))
 
 * clang-tidy: fix lint findings under LLVM 21 ([#86927](https://github.com/CleverRaven/Cataclysm-DDA/pull/86927))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-09-1027 ([5dc35d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-09-1027))
-
 * 6 labyrinth-specific CBMs ([#86928](https://github.com/CleverRaven/Cataclysm-DDA/pull/86928))
 * Insect wings to body part ([#86910](https://github.com/CleverRaven/Cataclysm-DDA/pull/86910))
 * Update run-vcpkg action references. ([#86923](https://github.com/CleverRaven/Cataclysm-DDA/pull/86923))
@@ -203,7 +205,6 @@
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
 * Fix Music descriptions missing ([#86885](https://github.com/CleverRaven/Cataclysm-DDA/pull/86885))
-* Aftershock Industrial habitat building ([#86835](https://github.com/CleverRaven/Cataclysm-DDA/pull/86835))
 * Move `construction` to generic_factory ([#86879](https://github.com/CleverRaven/Cataclysm-DDA/pull/86879))
 * Pass item_location through item wakeup dispatch ([#86904](https://github.com/CleverRaven/Cataclysm-DDA/pull/86904))
 * [Magiclysm] Fantasy species bodypart edits ([#86882](https://github.com/CleverRaven/Cataclysm-DDA/pull/86882))
@@ -233,7 +234,6 @@
 * Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
 * Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
 * Fix SDL3 release ([#86852](https://github.com/CleverRaven/Cataclysm-DDA/pull/86852))
-* Limbify Ursine Eyes ([#86838](https://github.com/CleverRaven/Cataclysm-DDA/pull/86838))
 * Demote GCC 16 -Wsfinae-incomplete to warning ([#86841](https://github.com/CleverRaven/Cataclysm-DDA/pull/86841))
 * update labyrinth itemgroups ([#86843](https://github.com/CleverRaven/Cataclysm-DDA/pull/86843))
 * falling into sparkling void sends you to safehouse ([#86848](https://github.com/CleverRaven/Cataclysm-DDA/pull/86848))
