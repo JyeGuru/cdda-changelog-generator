@@ -1,3 +1,13 @@
+* Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
+* SDL3 GPU shader infrastructure and sprite variant pass ([#87003](https://github.com/CleverRaven/Cataclysm-DDA/pull/87003))
+* Basic Exodii full body conversions, a way to get them, and a new Exodii to repair them ([#87025](https://github.com/CleverRaven/Cataclysm-DDA/pull/87025))
+* Subtract one exponent from inventory ui overhead ([#87031](https://github.com/CleverRaven/Cataclysm-DDA/pull/87031))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-15-0935 ([bb658fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-0935))
+
+* Bulk inventory load and grouped craft result placement ([#87019](https://github.com/CleverRaven/Cataclysm-DDA/pull/87019))
 
 ---
 
@@ -105,12 +115,6 @@
 #### Cataclysm-DDA experimental build 2026-05-12-2118 ([016eb33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-2118))
 
 * Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-12-1443 ([163262b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-1443))
-
-* Sidebar headers for various game objects ([#86866](https://github.com/CleverRaven/Cataclysm-DDA/pull/86866))
 * Fix minor typos in TCL mutant start ([#86950](https://github.com/CleverRaven/Cataclysm-DDA/pull/86950))
 * Fix some translation issues ([#86916](https://github.com/CleverRaven/Cataclysm-DDA/pull/86916))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
@@ -163,11 +167,6 @@
 
 * [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-05-11-1531 ([da165fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-05-11-1531))
-
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
 * Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))
 
@@ -233,9 +232,5 @@
 * Limbify avian eyes ([#86877](https://github.com/CleverRaven/Cataclysm-DDA/pull/86877))
 * swap stab and bash damage on war hammers, fix material ([#86894](https://github.com/CleverRaven/Cataclysm-DDA/pull/86894))
 * Don't print 'X has correct #includes/fwd-decls' in iwyu workflow ([#86874](https://github.com/CleverRaven/Cataclysm-DDA/pull/86874))
-* Labyrinth Safehouse Boiler ([#86871](https://github.com/CleverRaven/Cataclysm-DDA/pull/86871))
 * Restore gravity for birds ([#86889](https://github.com/CleverRaven/Cataclysm-DDA/pull/86889))
 * revert and retune mundane light tints ([#86888](https://github.com/CleverRaven/Cataclysm-DDA/pull/86888))
-* Minor weakpoint tweaks ([#86868](https://github.com/CleverRaven/Cataclysm-DDA/pull/86868))
-* Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
-* Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
