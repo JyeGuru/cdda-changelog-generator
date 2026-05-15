@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-15-1146 ([59dd8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1146))
+
+* Make character_creator_ui_impl draw_scenarios/draw_professions const ([#87024](https://github.com/CleverRaven/Cataclysm-DDA/pull/87024))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-15-1051 ([414446b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1051))
+
 * Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
 * SDL3 GPU shader infrastructure and sprite variant pass ([#87003](https://github.com/CleverRaven/Cataclysm-DDA/pull/87003))
 * Basic Exodii full body conversions, a way to get them, and a new Exodii to repair them ([#87025](https://github.com/CleverRaven/Cataclysm-DDA/pull/87025))
@@ -169,23 +180,7 @@
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
 * Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-11-1115 ([c35ba76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-1115))
-
-* Display some items by volume or weight, instead of count ([#86872](https://github.com/CleverRaven/Cataclysm-DDA/pull/86872))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-11-0432 ([eb36534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-0432))
-
 * Eye stalks to limbs ([#86959](https://github.com/CleverRaven/Cataclysm-DDA/pull/86959))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-11-0322 ([c95e9cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-0322))
-
 * Step cutting weapons ([#86933](https://github.com/CleverRaven/Cataclysm-DDA/pull/86933))
 * Expand the Highlands Artifact and add hint on how to use the Conquerors Road. ([#86945](https://github.com/CleverRaven/Cataclysm-DDA/pull/86945))
 * Extract tileset loader into its own translation unit ([#86948](https://github.com/CleverRaven/Cataclysm-DDA/pull/86948))
