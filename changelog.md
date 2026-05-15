@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-15-2123 ([f4fe00d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-2123))
+
+* De-charge a bunch of stuff that should never have had charges (2) ([#87006](https://github.com/CleverRaven/Cataclysm-DDA/pull/87006))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-15-1437 ([4bcdbcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1437))
 
 * Aftershock: Small balance pass. ([#87030](https://github.com/CleverRaven/Cataclysm-DDA/pull/87030))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-05-12-0134 ([6e74b9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-0134))
 
 * Fix typo that caused New England Church to like Elf mutants ([#86953](https://github.com/CleverRaven/Cataclysm-DDA/pull/86953))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-11-2205 ([eb52170](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-2205))
-
 * [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
@@ -231,6 +232,5 @@
 * Step torso clothing recipes ([#86891](https://github.com/CleverRaven/Cataclysm-DDA/pull/86891))
 * Limbify avian eyes ([#86877](https://github.com/CleverRaven/Cataclysm-DDA/pull/86877))
 * swap stab and bash damage on war hammers, fix material ([#86894](https://github.com/CleverRaven/Cataclysm-DDA/pull/86894))
-* Don't print 'X has correct #includes/fwd-decls' in iwyu workflow ([#86874](https://github.com/CleverRaven/Cataclysm-DDA/pull/86874))
 * Restore gravity for birds ([#86889](https://github.com/CleverRaven/Cataclysm-DDA/pull/86889))
 * revert and retune mundane light tints ([#86888](https://github.com/CleverRaven/Cataclysm-DDA/pull/86888))
