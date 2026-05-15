@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-15-0429 ([ad1b08c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-0429))
+
+* Add ethanol vitamin for the rest of alcohol drinks, add display_type for booze ([#87015](https://github.com/CleverRaven/Cataclysm-DDA/pull/87015))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-15-0246 ([f9e7536](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-0246))
+
+* Add XedraWood: Stone and Sorcery to the CDDA repository ([#87026](https://github.com/CleverRaven/Cataclysm-DDA/pull/87026))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-14-2050 ([e138fd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-2050))
 
 * Allow some items to be displayed by length ([#87009](https://github.com/CleverRaven/Cataclysm-DDA/pull/87009))
@@ -176,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-05-11-0322 ([c95e9cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-11-0322))
 
 * Step cutting weapons ([#86933](https://github.com/CleverRaven/Cataclysm-DDA/pull/86933))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-10-2334 ([d26f77c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-2334))
-
 * Expand the Highlands Artifact and add hint on how to use the Conquerors Road. ([#86945](https://github.com/CleverRaven/Cataclysm-DDA/pull/86945))
 * Extract tileset loader into its own translation unit ([#86948](https://github.com/CleverRaven/Cataclysm-DDA/pull/86948))
 * Re-enable cata-large-stack-object on LLVM 22 ([#86952](https://github.com/CleverRaven/Cataclysm-DDA/pull/86952))
@@ -189,11 +196,6 @@
 * Add translation contexts for colors ([#86957](https://github.com/CleverRaven/Cataclysm-DDA/pull/86957))
 * Fix segfault when reloading torch with welding tank ([#86956](https://github.com/CleverRaven/Cataclysm-DDA/pull/86956))
 * Aftershock: Sol turrets and Veles robots guns dont set things on fire. ([#86960](https://github.com/CleverRaven/Cataclysm-DDA/pull/86960))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-10-2249 ([d1c497c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-10-2249))
-
 * [Magiclysm] Fix Mage Armor spell ([#86961](https://github.com/CleverRaven/Cataclysm-DDA/pull/86961))
 * Move appliance infobox to imgui ([#86940](https://github.com/CleverRaven/Cataclysm-DDA/pull/86940))
 * Remove incorrect limb references ([#86942](https://github.com/CleverRaven/Cataclysm-DDA/pull/86942))
@@ -237,5 +239,3 @@
 * Minor weakpoint tweaks ([#86868](https://github.com/CleverRaven/Cataclysm-DDA/pull/86868))
 * Update some tips ([#86867](https://github.com/CleverRaven/Cataclysm-DDA/pull/86867))
 * Spelling fixes for bath toy and weakened inertia ([#86864](https://github.com/CleverRaven/Cataclysm-DDA/pull/86864))
-* Bugfixes labyrinth safehouse wall wiring/mapgen update conflicts ([#86863](https://github.com/CleverRaven/Cataclysm-DDA/pull/86863))
-* Exodii lamp & new labyrinth variant can be turned into appliances ([#86862](https://github.com/CleverRaven/Cataclysm-DDA/pull/86862))
