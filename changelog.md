@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-15-1437 ([4bcdbcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1437))
+
+* Aftershock: Small balance pass. ([#87030](https://github.com/CleverRaven/Cataclysm-DDA/pull/87030))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-15-1146 ([59dd8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1146))
 
 * Make character_creator_ui_impl draw_scenarios/draw_professions const ([#87024](https://github.com/CleverRaven/Cataclysm-DDA/pull/87024))
@@ -219,7 +225,6 @@
 * Support copy-from for limb_type ([#86880](https://github.com/CleverRaven/Cataclysm-DDA/pull/86880))
 *  Cache highway lake test results to avoid O(a billion) noise calculations ([#86886](https://github.com/CleverRaven/Cataclysm-DDA/pull/86886))
 * Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
-* Realistic Profession Ages ([#86873](https://github.com/CleverRaven/Cataclysm-DDA/pull/86873))
 * Initial implementation of overgrown labyrinthine structures on labyrinth level 2 ([#86876](https://github.com/CleverRaven/Cataclysm-DDA/pull/86876))
 * Fix gas grenade behavior ([#86884](https://github.com/CleverRaven/Cataclysm-DDA/pull/86884))
 * Small feature room in labyrinth 2: map terminal ([#86893](https://github.com/CleverRaven/Cataclysm-DDA/pull/86893))
