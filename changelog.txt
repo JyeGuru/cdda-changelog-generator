@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-05-16-0800 (571da61)
+* De-charge a bunch of stuff that should never have had charges (3) (#87008)
 * Sort itemgroups (1): Drugs (#87033)
 
 Cataclysm-DDA experimental build 2026-05-16-0425 (e0d298c)
@@ -148,4 +151,3 @@ Cataclysm-DDA experimental build 2026-05-12-2118 (016eb33)
 * Step torso clothing recipes (#86891)
 * swap stab and bash damage on war hammers, fix material (#86894)
 * Restore gravity for birds (#86889)
-* revert and retune mundane light tints (#86888)
