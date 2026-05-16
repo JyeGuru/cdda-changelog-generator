@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-16-1555 ([31cf974](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-1555))
+
+* Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-16-0800 ([571da61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0800))
 
 * De-charge a bunch of stuff that should never have had charges (3) ([#87008](https://github.com/CleverRaven/Cataclysm-DDA/pull/87008))
@@ -234,4 +240,3 @@
 * Small feature room in labyrinth 2: map terminal ([#86893](https://github.com/CleverRaven/Cataclysm-DDA/pull/86893))
 * Step torso clothing recipes ([#86891](https://github.com/CleverRaven/Cataclysm-DDA/pull/86891))
 * swap stab and bash damage on war hammers, fix material ([#86894](https://github.com/CleverRaven/Cataclysm-DDA/pull/86894))
-* Restore gravity for birds ([#86889](https://github.com/CleverRaven/Cataclysm-DDA/pull/86889))
