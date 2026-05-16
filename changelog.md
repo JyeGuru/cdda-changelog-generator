@@ -1,3 +1,10 @@
+* Sort itemgroups (1): Drugs ([#87033](https://github.com/CleverRaven/Cataclysm-DDA/pull/87033))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-16-0425 ([e0d298c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0425))
+
+* Fix conflicting keybinds in butchery menu ([#87039](https://github.com/CleverRaven/Cataclysm-DDA/pull/87039))
 
 ---
 
@@ -173,11 +180,6 @@
 * Fix "<name> helps with crafting" message not using the new name of renamed NPCs ([#86949](https://github.com/CleverRaven/Cataclysm-DDA/pull/86949))
 * Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
 * Remove "bundle" item hacks ([#86965](https://github.com/CleverRaven/Cataclysm-DDA/pull/86965))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-12-0737 ([87cd986](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-0737))
-
 * Weekly Changelog 2026-05-04 to 2026-05-11 ([#86967](https://github.com/CleverRaven/Cataclysm-DDA/pull/86967))
 * Rigid Eyestalks to limbs ([#86974](https://github.com/CleverRaven/Cataclysm-DDA/pull/86974))
 * Remember crafting steps panel state between sessions ([#86969](https://github.com/CleverRaven/Cataclysm-DDA/pull/86969))
@@ -218,12 +220,10 @@
 * behold: the rising dough ([#86907](https://github.com/CleverRaven/Cataclysm-DDA/pull/86907))
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
-* Fix Music descriptions missing ([#86885](https://github.com/CleverRaven/Cataclysm-DDA/pull/86885))
 * Pass item_location through item wakeup dispatch ([#86904](https://github.com/CleverRaven/Cataclysm-DDA/pull/86904))
 * Fix bad optional access ([#86900](https://github.com/CleverRaven/Cataclysm-DDA/pull/86900))
 * [MoM] Fix the `unending conflagration` killing themselves with their own `burning aura` ([#86902](https://github.com/CleverRaven/Cataclysm-DDA/pull/86902))
 * More syntax fixes for first time contributor labeller. ([#86903](https://github.com/CleverRaven/Cataclysm-DDA/pull/86903))
-*  Cache highway lake test results to avoid O(a billion) noise calculations ([#86886](https://github.com/CleverRaven/Cataclysm-DDA/pull/86886))
 * Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
 * Small feature room in labyrinth 2: map terminal ([#86893](https://github.com/CleverRaven/Cataclysm-DDA/pull/86893))
 * Step torso clothing recipes ([#86891](https://github.com/CleverRaven/Cataclysm-DDA/pull/86891))
