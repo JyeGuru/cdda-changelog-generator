@@ -179,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-05-12-2347 ([30a8c59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-2347))
 
 * Fix lmoe bunker stairs misalignment and other minor issues ([#86971](https://github.com/CleverRaven/Cataclysm-DDA/pull/86971))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-12-2118 ([016eb33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-2118))
-
 * Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
 * Fix minor typos in TCL mutant start ([#86950](https://github.com/CleverRaven/Cataclysm-DDA/pull/86950))
 * Fix some translation issues ([#86916](https://github.com/CleverRaven/Cataclysm-DDA/pull/86916))

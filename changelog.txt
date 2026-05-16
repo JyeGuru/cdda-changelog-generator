@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2026-05-13-0135 (bc58362)
 
 Cataclysm-DDA experimental build 2026-05-12-2347 (30a8c59)
 * Fix lmoe bunker stairs misalignment and other minor issues (#86971)
-
-Cataclysm-DDA experimental build 2026-05-12-2118 (016eb33)
 * Update tips.json (Part Two) (#86990)
 * Fix minor typos in TCL mutant start (#86950)
 * Fix some translation issues (#86916)
