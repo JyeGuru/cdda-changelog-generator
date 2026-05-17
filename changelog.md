@@ -1,3 +1,10 @@
+* allow to limit amount of specific wounds received per bodypart ([#87056](https://github.com/CleverRaven/Cataclysm-DDA/pull/87056))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-17-1826 ([80392d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-1826))
+
+* fix missing examine action from some netherum sparkling chasms ([#87065](https://github.com/CleverRaven/Cataclysm-DDA/pull/87065))
 
 ---
 
@@ -174,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-05-13-0709 ([b98f76f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0709))
 
 * Move `do_turn()` to `game`, documentation for `Creature::moves` ([#86982](https://github.com/CleverRaven/Cataclysm-DDA/pull/86982))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-13-0232 ([6ffa2b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0232))
-
 * labyrinth CBMs spawn in level 2 labyrinth ([#86985](https://github.com/CleverRaven/Cataclysm-DDA/pull/86985))
 * Fix linter workflow detecting astyle formatting changes. ([#86992](https://github.com/CleverRaven/Cataclysm-DDA/pull/86992))
 * Fix unattended-crafting env loss and resume timer offset ([#86983](https://github.com/CleverRaven/Cataclysm-DDA/pull/86983))
@@ -232,7 +234,5 @@
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
 * Pass item_location through item wakeup dispatch ([#86904](https://github.com/CleverRaven/Cataclysm-DDA/pull/86904))
-* Fix bad optional access ([#86900](https://github.com/CleverRaven/Cataclysm-DDA/pull/86900))
 * [MoM] Fix the `unending conflagration` killing themselves with their own `burning aura` ([#86902](https://github.com/CleverRaven/Cataclysm-DDA/pull/86902))
 * More syntax fixes for first time contributor labeller. ([#86903](https://github.com/CleverRaven/Cataclysm-DDA/pull/86903))
-* Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
