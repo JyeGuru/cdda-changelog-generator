@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-17-2113 ([179eb65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-2113))
+
+* Fix typo in Hard Target book description ([#87070](https://github.com/CleverRaven/Cataclysm-DDA/pull/87070))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-17-1942 ([fe414f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-1942))
 
 * allow to limit amount of specific wounds received per bodypart ([#87056](https://github.com/CleverRaven/Cataclysm-DDA/pull/87056))
@@ -129,7 +135,6 @@
 #### Cataclysm-DDA experimental build 2026-05-14-1907 ([245f503](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1907))
 
 * De-charge a bunch of stuff that should never have had charges ([#87000](https://github.com/CleverRaven/Cataclysm-DDA/pull/87000))
-* Speed up `post_process` tests through a combination of optimizations ([#86901](https://github.com/CleverRaven/Cataclysm-DDA/pull/86901))
 
 ---
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-05-13-1948 ([7130f6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-1948))
 
 * Full body Exodii frames have proper bionic limbs ([#87002](https://github.com/CleverRaven/Cataclysm-DDA/pull/87002))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-13-0815 ([90dc0b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0815))
-
 * [Xedra Evolved] Stalker Eye spell replaces your eyes while active ([#86996](https://github.com/CleverRaven/Cataclysm-DDA/pull/86996))
 * Move `do_turn()` to `game`, documentation for `Creature::moves` ([#86982](https://github.com/CleverRaven/Cataclysm-DDA/pull/86982))
 * labyrinth CBMs spawn in level 2 labyrinth ([#86985](https://github.com/CleverRaven/Cataclysm-DDA/pull/86985))
