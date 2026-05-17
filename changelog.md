@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-17-0610 ([1e91cfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-0610))
+
+* Speed up item::weight and item_vars lookups ([#87061](https://github.com/CleverRaven/Cataclysm-DDA/pull/87061))
+* Fix crash on shutdown ([#87062](https://github.com/CleverRaven/Cataclysm-DDA/pull/87062))
+* Hot-swap MEMORY_MAP_MODE via SDL3 GPU shaders ([#87037](https://github.com/CleverRaven/Cataclysm-DDA/pull/87037))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-17-0524 ([814fcf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-0524))
+
+* Update robot names in Aftershock ([#87057](https://github.com/CleverRaven/Cataclysm-DDA/pull/87057))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-16-1555 ([31cf974](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-1555))
 
 * Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
@@ -167,17 +181,7 @@
 
 * labyrinth CBMs spawn in level 2 labyrinth ([#86985](https://github.com/CleverRaven/Cataclysm-DDA/pull/86985))
 * Fix linter workflow detecting astyle formatting changes. ([#86992](https://github.com/CleverRaven/Cataclysm-DDA/pull/86992))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-13-0135 ([bc58362](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0135))
-
 * Fix unattended-crafting env loss and resume timer offset ([#86983](https://github.com/CleverRaven/Cataclysm-DDA/pull/86983))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-12-2347 ([30a8c59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-12-2347))
-
 * Fix lmoe bunker stairs misalignment and other minor issues ([#86971](https://github.com/CleverRaven/Cataclysm-DDA/pull/86971))
 * Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
 * Fix minor typos in TCL mutant start ([#86950](https://github.com/CleverRaven/Cataclysm-DDA/pull/86950))
@@ -232,6 +236,3 @@
 * [MoM] Fix the `unending conflagration` killing themselves with their own `burning aura` ([#86902](https://github.com/CleverRaven/Cataclysm-DDA/pull/86902))
 * More syntax fixes for first time contributor labeller. ([#86903](https://github.com/CleverRaven/Cataclysm-DDA/pull/86903))
 * Add item-targeted wakeup scheduler ([#86899](https://github.com/CleverRaven/Cataclysm-DDA/pull/86899))
-* Small feature room in labyrinth 2: map terminal ([#86893](https://github.com/CleverRaven/Cataclysm-DDA/pull/86893))
-* Step torso clothing recipes ([#86891](https://github.com/CleverRaven/Cataclysm-DDA/pull/86891))
-* swap stab and bash damage on war hammers, fix material ([#86894](https://github.com/CleverRaven/Cataclysm-DDA/pull/86894))
