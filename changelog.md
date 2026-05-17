@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-17-1942 ([fe414f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-1942))
+
 * allow to limit amount of specific wounds received per bodypart ([#87056](https://github.com/CleverRaven/Cataclysm-DDA/pull/87056))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-05-13-0815 ([90dc0b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0815))
 
 * [Xedra Evolved] Stalker Eye spell replaces your eyes while active ([#86996](https://github.com/CleverRaven/Cataclysm-DDA/pull/86996))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-13-0709 ([b98f76f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-0709))
-
 * Move `do_turn()` to `game`, documentation for `Creature::moves` ([#86982](https://github.com/CleverRaven/Cataclysm-DDA/pull/86982))
 * labyrinth CBMs spawn in level 2 labyrinth ([#86985](https://github.com/CleverRaven/Cataclysm-DDA/pull/86985))
 * Fix linter workflow detecting astyle formatting changes. ([#86992](https://github.com/CleverRaven/Cataclysm-DDA/pull/86992))
