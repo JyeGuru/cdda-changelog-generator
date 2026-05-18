@@ -1,3 +1,7 @@
+* Modernize engine faults with fault groups (#87051)
+
+Cataclysm-DDA experimental build 2026-05-18-0723 (8754204)
+* Tighten map_equal_ignoring_keys abstraction boundary (#87075)
 
 Cataclysm-DDA experimental build 2026-05-18-0526 (f07e184)
 * Sort itemgroups (2): Food (#87058)
@@ -92,8 +96,6 @@ Cataclysm-DDA experimental build 2026-05-14-0958 (6f50c67)
 Cataclysm-DDA experimental build 2026-05-14-0833 (48898fd)
 * Fix Charm spells to give feedback (#86968)
 * Bump clang-tidy CI to LLVM 22 (#86987)
-
-Cataclysm-DDA experimental build 2026-05-14-0109 (77c159b)
 * Support displaying items by volume/weight on more UI screens (#86999)
 * basic monsters for overgrown labyrinth (#86986)
 * Full body Exodii frames have proper bionic limbs (#87002)
@@ -150,5 +152,3 @@ Cataclysm-DDA experimental build 2026-05-14-0109 (77c159b)
 * clang-tidy: build plugin against LLVM 19-22, parametrize scripts (#86917)
 * behold: the rising dough (#86907)
 * migrating old case hardening and quenching prof (#86920)
-* Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) (#86905)
-* Pass item_location through item wakeup dispatch (#86904)

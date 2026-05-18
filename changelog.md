@@ -1,3 +1,10 @@
+* Modernize engine faults with fault groups ([#87051](https://github.com/CleverRaven/Cataclysm-DDA/pull/87051))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-18-0723 ([8754204](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-0723))
+
+* Tighten map_equal_ignoring_keys abstraction boundary ([#87075](https://github.com/CleverRaven/Cataclysm-DDA/pull/87075))
 
 ---
 
@@ -173,11 +180,6 @@
 
 * Fix Charm spells to give feedback ([#86968](https://github.com/CleverRaven/Cataclysm-DDA/pull/86968))
 * Bump clang-tidy CI to LLVM 22 ([#86987](https://github.com/CleverRaven/Cataclysm-DDA/pull/86987))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-14-0109 ([77c159b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-0109))
-
 * Support displaying items by volume/weight on more UI screens ([#86999](https://github.com/CleverRaven/Cataclysm-DDA/pull/86999))
 * basic monsters for overgrown labyrinth ([#86986](https://github.com/CleverRaven/Cataclysm-DDA/pull/86986))
 * Full body Exodii frames have proper bionic limbs ([#87002](https://github.com/CleverRaven/Cataclysm-DDA/pull/87002))
@@ -234,5 +236,3 @@
 * clang-tidy: build plugin against LLVM 19-22, parametrize scripts ([#86917](https://github.com/CleverRaven/Cataclysm-DDA/pull/86917))
 * behold: the rising dough ([#86907](https://github.com/CleverRaven/Cataclysm-DDA/pull/86907))
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
-* Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
-* Pass item_location through item wakeup dispatch ([#86904](https://github.com/CleverRaven/Cataclysm-DDA/pull/86904))
