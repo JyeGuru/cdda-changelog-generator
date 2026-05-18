@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-18-2314 ([c6a7c86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-2314))
+
 * calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
 * Micro fix to lmoe roof orientation ([#87086](https://github.com/CleverRaven/Cataclysm-DDA/pull/87086))
 * Properly migrate and obsolete the old lmoe shelters ([#87085](https://github.com/CleverRaven/Cataclysm-DDA/pull/87085))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-05-14-1907 ([245f503](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1907))
 
 * De-charge a bunch of stuff that should never have had charges ([#87000](https://github.com/CleverRaven/Cataclysm-DDA/pull/87000))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-14-1712 ([272452c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1712))
-
 * Character creation UI fixes for random characters ([#86997](https://github.com/CleverRaven/Cataclysm-DDA/pull/86997))
 * Wrap crafting.cpp env_check_result enum in anonymous namespace ([#87014](https://github.com/CleverRaven/Cataclysm-DDA/pull/87014))
 * Fix clang-tidy CI under LLVM 22 ([#87011](https://github.com/CleverRaven/Cataclysm-DDA/pull/87011))
