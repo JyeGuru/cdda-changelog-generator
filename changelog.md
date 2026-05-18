@@ -1,3 +1,4 @@
+* calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
 * Micro fix to lmoe roof orientation ([#87086](https://github.com/CleverRaven/Cataclysm-DDA/pull/87086))
 * Properly migrate and obsolete the old lmoe shelters ([#87085](https://github.com/CleverRaven/Cataclysm-DDA/pull/87085))
 * Clamp overmap sidebar to actual screen ([#87080](https://github.com/CleverRaven/Cataclysm-DDA/pull/87080))
@@ -229,4 +230,3 @@
 * clang-tidy: fix lint findings under LLVM 21 ([#86927](https://github.com/CleverRaven/Cataclysm-DDA/pull/86927))
 * 6 labyrinth-specific CBMs ([#86928](https://github.com/CleverRaven/Cataclysm-DDA/pull/86928))
 * Update run-vcpkg action references. ([#86923](https://github.com/CleverRaven/Cataclysm-DDA/pull/86923))
-* [MoM] The Netherum Labyrinth is in the Nether ([#86922](https://github.com/CleverRaven/Cataclysm-DDA/pull/86922))
