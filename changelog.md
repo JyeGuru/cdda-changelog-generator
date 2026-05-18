@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-18-0943 ([eecfa9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-0943))
+
 * Modernize engine faults with fault groups ([#87051](https://github.com/CleverRaven/Cataclysm-DDA/pull/87051))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-05-14-0958 ([6f50c67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-0958))
 
 * Zombies are attracted to moving vehicles ([#87001](https://github.com/CleverRaven/Cataclysm-DDA/pull/87001))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-14-0833 ([48898fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-0833))
-
 * Fix Charm spells to give feedback ([#86968](https://github.com/CleverRaven/Cataclysm-DDA/pull/86968))
 * Bump clang-tidy CI to LLVM 22 ([#86987](https://github.com/CleverRaven/Cataclysm-DDA/pull/86987))
 * Support displaying items by volume/weight on more UI screens ([#86999](https://github.com/CleverRaven/Cataclysm-DDA/pull/86999))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-18-0943 (eecfa9a)
 * Modernize engine faults with fault groups (#87051)
 
 Cataclysm-DDA experimental build 2026-05-18-0723 (8754204)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2026-05-14-1403 (8ac92d8)
 
 Cataclysm-DDA experimental build 2026-05-14-0958 (6f50c67)
 * Zombies are attracted to moving vehicles (#87001)
-
-Cataclysm-DDA experimental build 2026-05-14-0833 (48898fd)
 * Fix Charm spells to give feedback (#86968)
 * Bump clang-tidy CI to LLVM 22 (#86987)
 * Support displaying items by volume/weight on more UI screens (#86999)
