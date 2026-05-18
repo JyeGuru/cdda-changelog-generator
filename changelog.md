@@ -1,3 +1,5 @@
+* Clamp overmap sidebar to actual screen ([#87080](https://github.com/CleverRaven/Cataclysm-DDA/pull/87080))
+* Remove dangerous pickups option ([#87079](https://github.com/CleverRaven/Cataclysm-DDA/pull/87079))
 * Fix fling drowning people in shallow water ([#87084](https://github.com/CleverRaven/Cataclysm-DDA/pull/87084))
 * [XE] Add the vampire hunter faction and its base ([#87077](https://github.com/CleverRaven/Cataclysm-DDA/pull/87077))
 
@@ -194,7 +196,6 @@
 * Fix lmoe bunker stairs misalignment and other minor issues ([#86971](https://github.com/CleverRaven/Cataclysm-DDA/pull/86971))
 * Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
 * Fix minor typos in TCL mutant start ([#86950](https://github.com/CleverRaven/Cataclysm-DDA/pull/86950))
-* Fix some translation issues ([#86916](https://github.com/CleverRaven/Cataclysm-DDA/pull/86916))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
 * Block in-place transform when result wouldn't fit parent pocket ([#86958](https://github.com/CleverRaven/Cataclysm-DDA/pull/86958))
 * Fix "<name> helps with crafting" message not using the new name of renamed NPCs ([#86949](https://github.com/CleverRaven/Cataclysm-DDA/pull/86949))
@@ -233,5 +234,4 @@
 * Update run-vcpkg action references. ([#86923](https://github.com/CleverRaven/Cataclysm-DDA/pull/86923))
 * more overgrown labyrinth mapgen ([#86919](https://github.com/CleverRaven/Cataclysm-DDA/pull/86919))
 * [MoM] The Netherum Labyrinth is in the Nether ([#86922](https://github.com/CleverRaven/Cataclysm-DDA/pull/86922))
-* clang-tidy: build plugin against LLVM 19-22, parametrize scripts ([#86917](https://github.com/CleverRaven/Cataclysm-DDA/pull/86917))
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
