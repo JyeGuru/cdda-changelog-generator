@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-18-0526 ([f07e184](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-0526))
+
+* Sort itemgroups (2): Food ([#87058](https://github.com/CleverRaven/Cataclysm-DDA/pull/87058))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-18-0323 ([fd18a68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-0323))
+
+* Fix conflicting keybind in electronic device menu ([#87066](https://github.com/CleverRaven/Cataclysm-DDA/pull/87066))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-17-2113 ([179eb65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-2113))
 
 * Fix typo in Hard Target book description ([#87070](https://github.com/CleverRaven/Cataclysm-DDA/pull/87070))
@@ -167,17 +179,7 @@
 #### Cataclysm-DDA experimental build 2026-05-14-0109 ([77c159b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-0109))
 
 * Support displaying items by volume/weight on more UI screens ([#86999](https://github.com/CleverRaven/Cataclysm-DDA/pull/86999))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-13-2136 ([c89ead2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-2136))
-
 * basic monsters for overgrown labyrinth ([#86986](https://github.com/CleverRaven/Cataclysm-DDA/pull/86986))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-13-1948 ([7130f6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-13-1948))
-
 * Full body Exodii frames have proper bionic limbs ([#87002](https://github.com/CleverRaven/Cataclysm-DDA/pull/87002))
 * [Xedra Evolved] Stalker Eye spell replaces your eyes while active ([#86996](https://github.com/CleverRaven/Cataclysm-DDA/pull/86996))
 * Move `do_turn()` to `game`, documentation for `Creature::moves` ([#86982](https://github.com/CleverRaven/Cataclysm-DDA/pull/86982))
@@ -234,5 +236,3 @@
 * migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
 * Fix regional terrain not working when spawned from z level < 0 to > 0 (or something) ([#86905](https://github.com/CleverRaven/Cataclysm-DDA/pull/86905))
 * Pass item_location through item wakeup dispatch ([#86904](https://github.com/CleverRaven/Cataclysm-DDA/pull/86904))
-* [MoM] Fix the `unending conflagration` killing themselves with their own `burning aura` ([#86902](https://github.com/CleverRaven/Cataclysm-DDA/pull/86902))
-* More syntax fixes for first time contributor labeller. ([#86903](https://github.com/CleverRaven/Cataclysm-DDA/pull/86903))
