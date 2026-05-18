@@ -1,3 +1,5 @@
+* Micro fix to lmoe roof orientation ([#87086](https://github.com/CleverRaven/Cataclysm-DDA/pull/87086))
+* Properly migrate and obsolete the old lmoe shelters ([#87085](https://github.com/CleverRaven/Cataclysm-DDA/pull/87085))
 * Clamp overmap sidebar to actual screen ([#87080](https://github.com/CleverRaven/Cataclysm-DDA/pull/87080))
 * Remove dangerous pickups option ([#87079](https://github.com/CleverRaven/Cataclysm-DDA/pull/87079))
 * Fix fling drowning people in shallow water ([#87084](https://github.com/CleverRaven/Cataclysm-DDA/pull/87084))
@@ -175,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-05-14-1712 ([272452c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1712))
 
 * Character creation UI fixes for random characters ([#86997](https://github.com/CleverRaven/Cataclysm-DDA/pull/86997))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-14-1403 ([8ac92d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1403))
-
 * Wrap crafting.cpp env_check_result enum in anonymous namespace ([#87014](https://github.com/CleverRaven/Cataclysm-DDA/pull/87014))
 * Fix clang-tidy CI under LLVM 22 ([#87011](https://github.com/CleverRaven/Cataclysm-DDA/pull/87011))
 * Zombies are attracted to moving vehicles ([#87001](https://github.com/CleverRaven/Cataclysm-DDA/pull/87001))
@@ -232,6 +229,4 @@
 * clang-tidy: fix lint findings under LLVM 21 ([#86927](https://github.com/CleverRaven/Cataclysm-DDA/pull/86927))
 * 6 labyrinth-specific CBMs ([#86928](https://github.com/CleverRaven/Cataclysm-DDA/pull/86928))
 * Update run-vcpkg action references. ([#86923](https://github.com/CleverRaven/Cataclysm-DDA/pull/86923))
-* more overgrown labyrinth mapgen ([#86919](https://github.com/CleverRaven/Cataclysm-DDA/pull/86919))
 * [MoM] The Netherum Labyrinth is in the Nether ([#86922](https://github.com/CleverRaven/Cataclysm-DDA/pull/86922))
-* migrating old case hardening and quenching prof ([#86920](https://github.com/CleverRaven/Cataclysm-DDA/pull/86920))
