@@ -1,3 +1,16 @@
+* Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
+* wound worsening ([#87102](https://github.com/CleverRaven/Cataclysm-DDA/pull/87102))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-19-2224 ([dcdd4b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-2224))
+
+* Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-19-2111 ([a687f7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-2111))
+
 * some new small mammals ([#87099](https://github.com/CleverRaven/Cataclysm-DDA/pull/87099))
 
 ---
@@ -170,18 +183,8 @@
 
 * Fix uncraftable machete recipe ([#87042](https://github.com/CleverRaven/Cataclysm-DDA/pull/87042))
 * Cap recipes that make more than 4096 items ([#87043](https://github.com/CleverRaven/Cataclysm-DDA/pull/87043))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-16-0156 ([6918800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0156))
-
 * fix circuit safari mission desc ([#87040](https://github.com/CleverRaven/Cataclysm-DDA/pull/87040))
 * Decrease movement cost of moving through windows ([#87047](https://github.com/CleverRaven/Cataclysm-DDA/pull/87047))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-16-0102 ([8068b75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0102))
-
 * [Magiclysm] Add whitelists to Forge of Wonders merchants ([#87005](https://github.com/CleverRaven/Cataclysm-DDA/pull/87005))
 * De-charge a bunch of stuff that should never have had charges (2) ([#87006](https://github.com/CleverRaven/Cataclysm-DDA/pull/87006))
 * Aftershock: Small balance pass. ([#87030](https://github.com/CleverRaven/Cataclysm-DDA/pull/87030))
@@ -213,7 +216,6 @@
 * Fix lmoe bunker stairs misalignment and other minor issues ([#86971](https://github.com/CleverRaven/Cataclysm-DDA/pull/86971))
 * Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
-* Block in-place transform when result wouldn't fit parent pocket ([#86958](https://github.com/CleverRaven/Cataclysm-DDA/pull/86958))
 * Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
 * Remove "bundle" item hacks ([#86965](https://github.com/CleverRaven/Cataclysm-DDA/pull/86965))
 * Weekly Changelog 2026-05-04 to 2026-05-11 ([#86967](https://github.com/CleverRaven/Cataclysm-DDA/pull/86967))
@@ -225,6 +227,4 @@
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
 * Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))
-* Eye stalks to limbs ([#86959](https://github.com/CleverRaven/Cataclysm-DDA/pull/86959))
-* Aftershock: Sol turrets and Veles robots guns dont set things on fire. ([#86960](https://github.com/CleverRaven/Cataclysm-DDA/pull/86960))
 * [Magiclysm] Fix Mage Armor spell ([#86961](https://github.com/CleverRaven/Cataclysm-DDA/pull/86961))
