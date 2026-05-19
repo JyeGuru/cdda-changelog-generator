@@ -1,3 +1,10 @@
+* Optimize away redrawing clear weather ([#87088](https://github.com/CleverRaven/Cataclysm-DDA/pull/87088))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-19-0130 ([47267fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0130))
+
+* Sort itemgroups (3): Baking Ingredients ([#87087](https://github.com/CleverRaven/Cataclysm-DDA/pull/87087))
 
 ---
 
@@ -171,11 +178,6 @@
 
 * Allow some items to be displayed by length ([#87009](https://github.com/CleverRaven/Cataclysm-DDA/pull/87009))
 * Improve view of single-step recipes in crafting menu ([#87012](https://github.com/CleverRaven/Cataclysm-DDA/pull/87012))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-14-1907 ([245f503](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-14-1907))
-
 * De-charge a bunch of stuff that should never have had charges ([#87000](https://github.com/CleverRaven/Cataclysm-DDA/pull/87000))
 * Character creation UI fixes for random characters ([#86997](https://github.com/CleverRaven/Cataclysm-DDA/pull/86997))
 * Wrap crafting.cpp env_check_result enum in anonymous namespace ([#87014](https://github.com/CleverRaven/Cataclysm-DDA/pull/87014))
@@ -227,6 +229,4 @@
 * Unattended crafting: correctness follow-ups ([#86935](https://github.com/CleverRaven/Cataclysm-DDA/pull/86935))
 * Diving boots no longer impose a speed penalty for wearing no shoes ([#86934](https://github.com/CleverRaven/Cataclysm-DDA/pull/86934))
 * Bump clang-tidy CI to LLVM 21 ([#86932](https://github.com/CleverRaven/Cataclysm-DDA/pull/86932))
-* clang-tidy: fix lint findings under LLVM 21 ([#86927](https://github.com/CleverRaven/Cataclysm-DDA/pull/86927))
 * 6 labyrinth-specific CBMs ([#86928](https://github.com/CleverRaven/Cataclysm-DDA/pull/86928))
-* Update run-vcpkg action references. ([#86923](https://github.com/CleverRaven/Cataclysm-DDA/pull/86923))

@@ -1,3 +1,7 @@
+* Optimize away redrawing clear weather (#87088)
+
+Cataclysm-DDA experimental build 2026-05-19-0130 (47267fc)
+* Sort itemgroups (3): Baking Ingredients (#87087)
 
 Cataclysm-DDA experimental build 2026-05-18-2314 (c6a7c86)
 * calendar_ui: drop translated default arg from select_time_point (#87093)
@@ -93,8 +97,6 @@ Cataclysm-DDA experimental build 2026-05-15-0246 (f9e7536)
 Cataclysm-DDA experimental build 2026-05-14-2050 (e138fd1)
 * Allow some items to be displayed by length (#87009)
 * Improve view of single-step recipes in crafting menu (#87012)
-
-Cataclysm-DDA experimental build 2026-05-14-1907 (245f503)
 * De-charge a bunch of stuff that should never have had charges (#87000)
 * Character creation UI fixes for random characters (#86997)
 * Wrap crafting.cpp env_check_result enum in anonymous namespace (#87014)
@@ -146,6 +148,4 @@ Cataclysm-DDA experimental build 2026-05-14-1907 (245f503)
 * Unattended crafting: correctness follow-ups (#86935)
 * Diving boots no longer impose a speed penalty for wearing no shoes (#86934)
 * Bump clang-tidy CI to LLVM 21 (#86932)
-* clang-tidy: fix lint findings under LLVM 21 (#86927)
 * 6 labyrinth-specific CBMs (#86928)
-* Update run-vcpkg action references. (#86923)
