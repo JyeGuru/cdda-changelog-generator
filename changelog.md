@@ -1,3 +1,20 @@
+* some new small mammals ([#87099](https://github.com/CleverRaven/Cataclysm-DDA/pull/87099))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-05-19-1951 ([c865b2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-05-19-1951))
+
+* Spawn military weapons at Return to Sender convoy ambush ([#87107](https://github.com/CleverRaven/Cataclysm-DDA/pull/87107))
+* Eggplant was not flagged like the other seeds, now it is ([#87110](https://github.com/CleverRaven/Cataclysm-DDA/pull/87110))
+* Fix some minor issues with my recent PRs ([#87050](https://github.com/CleverRaven/Cataclysm-DDA/pull/87050))
+* More descending stairs in labyrinth level 1 ([#87114](https://github.com/CleverRaven/Cataclysm-DDA/pull/87114))
+* retune level 1 labyrinth monstergroup ([#87113](https://github.com/CleverRaven/Cataclysm-DDA/pull/87113))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-19-1937 ([4f0631a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1937))
+
+* Show monster difficulty rating in the look panel ([#87121](https://github.com/CleverRaven/Cataclysm-DDA/pull/87121))
 
 ---
 
@@ -166,17 +183,7 @@
 #### Cataclysm-DDA experimental build 2026-05-16-0102 ([8068b75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0102))
 
 * [Magiclysm] Add whitelists to Forge of Wonders merchants ([#87005](https://github.com/CleverRaven/Cataclysm-DDA/pull/87005))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-15-2123 ([f4fe00d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-2123))
-
 * De-charge a bunch of stuff that should never have had charges (2) ([#87006](https://github.com/CleverRaven/Cataclysm-DDA/pull/87006))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-15-1437 ([4bcdbcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1437))
-
 * Aftershock: Small balance pass. ([#87030](https://github.com/CleverRaven/Cataclysm-DDA/pull/87030))
 * Make character_creator_ui_impl draw_scenarios/draw_professions const ([#87024](https://github.com/CleverRaven/Cataclysm-DDA/pull/87024))
 * Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
@@ -205,7 +212,6 @@
 * Fix unattended-crafting env loss and resume timer offset ([#86983](https://github.com/CleverRaven/Cataclysm-DDA/pull/86983))
 * Fix lmoe bunker stairs misalignment and other minor issues ([#86971](https://github.com/CleverRaven/Cataclysm-DDA/pull/86971))
 * Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
-* Fix minor typos in TCL mutant start ([#86950](https://github.com/CleverRaven/Cataclysm-DDA/pull/86950))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
 * Block in-place transform when result wouldn't fit parent pocket ([#86958](https://github.com/CleverRaven/Cataclysm-DDA/pull/86958))
 * Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
@@ -215,16 +221,10 @@
 * Remember crafting steps panel state between sessions ([#86969](https://github.com/CleverRaven/Cataclysm-DDA/pull/86969))
 * Fix multimag integral magazine display, reload, and fire bugs ([#86970](https://github.com/CleverRaven/Cataclysm-DDA/pull/86970))
 * auditing some recipes. making power hammer a bit slower ([#86972](https://github.com/CleverRaven/Cataclysm-DDA/pull/86972))
-* Fix typo that caused New England Church to like Elf mutants ([#86953](https://github.com/CleverRaven/Cataclysm-DDA/pull/86953))
 * [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
 * Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))
 * Eye stalks to limbs ([#86959](https://github.com/CleverRaven/Cataclysm-DDA/pull/86959))
-* Re-enable cata-large-stack-object on LLVM 22 ([#86952](https://github.com/CleverRaven/Cataclysm-DDA/pull/86952))
-* Fix bullet points not being rendered in Crafting UI ([#86954](https://github.com/CleverRaven/Cataclysm-DDA/pull/86954))
-* Skip deferred move mode switch when currently disallowed ([#86955](https://github.com/CleverRaven/Cataclysm-DDA/pull/86955))
-* Add translation contexts for colors ([#86957](https://github.com/CleverRaven/Cataclysm-DDA/pull/86957))
-* Fix segfault when reloading torch with welding tank ([#86956](https://github.com/CleverRaven/Cataclysm-DDA/pull/86956))
 * Aftershock: Sol turrets and Veles robots guns dont set things on fire. ([#86960](https://github.com/CleverRaven/Cataclysm-DDA/pull/86960))
 * [Magiclysm] Fix Mage Armor spell ([#86961](https://github.com/CleverRaven/Cataclysm-DDA/pull/86961))
