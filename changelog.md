@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-19-1424 ([82e7fcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1424))
+
+* Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-19-0753 ([9c64851](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0753))
 
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-05-15-1146 ([59dd8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1146))
 
 * Make character_creator_ui_impl draw_scenarios/draw_professions const ([#87024](https://github.com/CleverRaven/Cataclysm-DDA/pull/87024))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-15-1051 ([414446b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1051))
-
 * Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
 * SDL3 GPU shader infrastructure and sprite variant pass ([#87003](https://github.com/CleverRaven/Cataclysm-DDA/pull/87003))
 * Basic Exodii full body conversions, a way to get them, and a new Exodii to repair them ([#87025](https://github.com/CleverRaven/Cataclysm-DDA/pull/87025))
@@ -220,7 +221,6 @@
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
 * Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))
 * Eye stalks to limbs ([#86959](https://github.com/CleverRaven/Cataclysm-DDA/pull/86959))
-* Expand the Highlands Artifact and add hint on how to use the Conquerors Road. ([#86945](https://github.com/CleverRaven/Cataclysm-DDA/pull/86945))
 * Extract tileset loader into its own translation unit ([#86948](https://github.com/CleverRaven/Cataclysm-DDA/pull/86948))
 * Re-enable cata-large-stack-object on LLVM 22 ([#86952](https://github.com/CleverRaven/Cataclysm-DDA/pull/86952))
 * Fix bullet points not being rendered in Crafting UI ([#86954](https://github.com/CleverRaven/Cataclysm-DDA/pull/86954))
@@ -229,4 +229,3 @@
 * Fix segfault when reloading torch with welding tank ([#86956](https://github.com/CleverRaven/Cataclysm-DDA/pull/86956))
 * Aftershock: Sol turrets and Veles robots guns dont set things on fire. ([#86960](https://github.com/CleverRaven/Cataclysm-DDA/pull/86960))
 * [Magiclysm] Fix Mage Armor spell ([#86961](https://github.com/CleverRaven/Cataclysm-DDA/pull/86961))
-* Fix gas mask filter drain and multimag fire gate ([#86943](https://github.com/CleverRaven/Cataclysm-DDA/pull/86943))
