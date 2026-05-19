@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-19-0753 ([9c64851](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0753))
+
+* Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-19-0613 ([e7d7415](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0613))
+
 * Vendor plf_colony and plf_list verbatim under src/third-party/plf/ ([#87045](https://github.com/CleverRaven/Cataclysm-DDA/pull/87045))
 * Weekly Changelog 2026-05-11 to 2026-05-18 ([#87078](https://github.com/CleverRaven/Cataclysm-DDA/pull/87078))
 * More support for BY_VOLUME/BY_WEIGHT/BY_LENGTH ([#87083](https://github.com/CleverRaven/Cataclysm-DDA/pull/87083))
@@ -170,17 +181,7 @@
 * SDL3 GPU shader infrastructure and sprite variant pass ([#87003](https://github.com/CleverRaven/Cataclysm-DDA/pull/87003))
 * Basic Exodii full body conversions, a way to get them, and a new Exodii to repair them ([#87025](https://github.com/CleverRaven/Cataclysm-DDA/pull/87025))
 * Subtract one exponent from inventory ui overhead ([#87031](https://github.com/CleverRaven/Cataclysm-DDA/pull/87031))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-15-0935 ([bb658fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-0935))
-
 * Bulk inventory load and grouped craft result placement ([#87019](https://github.com/CleverRaven/Cataclysm-DDA/pull/87019))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-15-0429 ([ad1b08c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-0429))
-
 * Add ethanol vitamin for the rest of alcohol drinks, add display_type for booze ([#87015](https://github.com/CleverRaven/Cataclysm-DDA/pull/87015))
 * Add XedraWood: Stone and Sorcery to the CDDA repository ([#87026](https://github.com/CleverRaven/Cataclysm-DDA/pull/87026))
 * Allow some items to be displayed by length ([#87009](https://github.com/CleverRaven/Cataclysm-DDA/pull/87009))
@@ -228,5 +229,4 @@
 * Fix segfault when reloading torch with welding tank ([#86956](https://github.com/CleverRaven/Cataclysm-DDA/pull/86956))
 * Aftershock: Sol turrets and Veles robots guns dont set things on fire. ([#86960](https://github.com/CleverRaven/Cataclysm-DDA/pull/86960))
 * [Magiclysm] Fix Mage Armor spell ([#86961](https://github.com/CleverRaven/Cataclysm-DDA/pull/86961))
-* Remove incorrect limb references ([#86942](https://github.com/CleverRaven/Cataclysm-DDA/pull/86942))
 * Fix gas mask filter drain and multimag fire gate ([#86943](https://github.com/CleverRaven/Cataclysm-DDA/pull/86943))
