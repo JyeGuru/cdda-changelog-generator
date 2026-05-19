@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-19-1718 ([ee45f38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1718))
+
+* ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-19-1424 ([82e7fcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1424))
 
 * Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-05-15-1437 ([4bcdbcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1437))
 
 * Aftershock: Small balance pass. ([#87030](https://github.com/CleverRaven/Cataclysm-DDA/pull/87030))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-15-1146 ([59dd8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-15-1146))
-
 * Make character_creator_ui_impl draw_scenarios/draw_professions const ([#87024](https://github.com/CleverRaven/Cataclysm-DDA/pull/87024))
 * Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
 * SDL3 GPU shader infrastructure and sprite variant pass ([#87003](https://github.com/CleverRaven/Cataclysm-DDA/pull/87003))
@@ -207,7 +208,6 @@
 * Fix minor typos in TCL mutant start ([#86950](https://github.com/CleverRaven/Cataclysm-DDA/pull/86950))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
 * Block in-place transform when result wouldn't fit parent pocket ([#86958](https://github.com/CleverRaven/Cataclysm-DDA/pull/86958))
-* Fix "<name> helps with crafting" message not using the new name of renamed NPCs ([#86949](https://github.com/CleverRaven/Cataclysm-DDA/pull/86949))
 * Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
 * Remove "bundle" item hacks ([#86965](https://github.com/CleverRaven/Cataclysm-DDA/pull/86965))
 * Weekly Changelog 2026-05-04 to 2026-05-11 ([#86967](https://github.com/CleverRaven/Cataclysm-DDA/pull/86967))
@@ -221,7 +221,6 @@
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
 * Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))
 * Eye stalks to limbs ([#86959](https://github.com/CleverRaven/Cataclysm-DDA/pull/86959))
-* Extract tileset loader into its own translation unit ([#86948](https://github.com/CleverRaven/Cataclysm-DDA/pull/86948))
 * Re-enable cata-large-stack-object on LLVM 22 ([#86952](https://github.com/CleverRaven/Cataclysm-DDA/pull/86952))
 * Fix bullet points not being rendered in Crafting UI ([#86954](https://github.com/CleverRaven/Cataclysm-DDA/pull/86954))
 * Skip deferred move mode switch when currently disallowed ([#86955](https://github.com/CleverRaven/Cataclysm-DDA/pull/86955))
