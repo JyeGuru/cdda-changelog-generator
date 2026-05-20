@@ -1,3 +1,9 @@
+* Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 ([#87109](https://github.com/CleverRaven/Cataclysm-DDA/pull/87109))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-19-2310 ([f314026](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-2310))
+
 * Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
 * wound worsening ([#87102](https://github.com/CleverRaven/Cataclysm-DDA/pull/87102))
 
@@ -176,11 +182,6 @@
 * Frog Eyes to limbs ([#87016](https://github.com/CleverRaven/Cataclysm-DDA/pull/87016))
 * Fix rabbit muzzle subpart similar parts ([#87028](https://github.com/CleverRaven/Cataclysm-DDA/pull/87028))
 * Hub 01 doesn't work with Exodii cyborgs ([#87036](https://github.com/CleverRaven/Cataclysm-DDA/pull/87036))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-16-0237 ([4480c58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0237))
-
 * Fix uncraftable machete recipe ([#87042](https://github.com/CleverRaven/Cataclysm-DDA/pull/87042))
 * Cap recipes that make more than 4096 items ([#87043](https://github.com/CleverRaven/Cataclysm-DDA/pull/87043))
 * fix circuit safari mission desc ([#87040](https://github.com/CleverRaven/Cataclysm-DDA/pull/87040))
@@ -227,4 +228,3 @@
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
 * Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))
-* [Magiclysm] Fix Mage Armor spell ([#86961](https://github.com/CleverRaven/Cataclysm-DDA/pull/86961))

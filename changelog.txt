@@ -1,3 +1,6 @@
+* Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 (#87109)
+
+Cataclysm-DDA experimental build 2026-05-19-2310 (f314026)
 * Exodii cyborgs can swap limbs (#87112)
 * wound worsening (#87102)
 
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-05-16-0333 (e41e17e)
 * Frog Eyes to limbs (#87016)
 * Fix rabbit muzzle subpart similar parts (#87028)
 * Hub 01 doesn't work with Exodii cyborgs (#87036)
-
-Cataclysm-DDA experimental build 2026-05-16-0237 (4480c58)
 * Fix uncraftable machete recipe (#87042)
 * Cap recipes that make more than 4096 items (#87043)
 * fix circuit safari mission desc (#87040)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-05-16-0237 (4480c58)
 * Delete file "16" (#86973)
 * Use newer vcpkg.exe for 0.I-branch. (#86966)
 * Fix PR labeler silently failing to parse many labels. (#86964)
-* [Magiclysm] Fix Mage Armor spell (#86961)
