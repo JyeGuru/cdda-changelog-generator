@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-20-1845 ([91ba1dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1845))
+
+* Remove old radio itemgroup ([#87126](https://github.com/CleverRaven/Cataclysm-DDA/pull/87126))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-20-1639 ([4b44e19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1639))
 
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
@@ -228,7 +234,6 @@
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
 * Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
 * Rigid Eyestalks to limbs ([#86974](https://github.com/CleverRaven/Cataclysm-DDA/pull/86974))
-* Remember crafting steps panel state between sessions ([#86969](https://github.com/CleverRaven/Cataclysm-DDA/pull/86969))
 * Fix multimag integral magazine display, reload, and fire bugs ([#86970](https://github.com/CleverRaven/Cataclysm-DDA/pull/86970))
 * auditing some recipes. making power hammer a bit slower ([#86972](https://github.com/CleverRaven/Cataclysm-DDA/pull/86972))
 * [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
