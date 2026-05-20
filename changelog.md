@@ -1,3 +1,11 @@
+* "To dehydrate it completely" -> "until complete dehydration" ([#87023](https://github.com/CleverRaven/Cataclysm-DDA/pull/87023))
+* Remove npc spawn from some scenarios ([#87125](https://github.com/CleverRaven/Cataclysm-DDA/pull/87125))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-20-1254 ([37d045a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1254))
+
+* 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
 
 ---
 
@@ -219,12 +227,9 @@
 * Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
 * Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
-* Remove "bundle" item hacks ([#86965](https://github.com/CleverRaven/Cataclysm-DDA/pull/86965))
-* Weekly Changelog 2026-05-04 to 2026-05-11 ([#86967](https://github.com/CleverRaven/Cataclysm-DDA/pull/86967))
 * Rigid Eyestalks to limbs ([#86974](https://github.com/CleverRaven/Cataclysm-DDA/pull/86974))
 * Remember crafting steps panel state between sessions ([#86969](https://github.com/CleverRaven/Cataclysm-DDA/pull/86969))
 * Fix multimag integral magazine display, reload, and fire bugs ([#86970](https://github.com/CleverRaven/Cataclysm-DDA/pull/86970))
 * auditing some recipes. making power hammer a bit slower ([#86972](https://github.com/CleverRaven/Cataclysm-DDA/pull/86972))
 * [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
-* Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
