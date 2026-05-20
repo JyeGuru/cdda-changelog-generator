@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-20-0640 ([ef78159](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-0640))
+
+* Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-20-0130 ([558919d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-0130))
 
 * Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 ([#87109](https://github.com/CleverRaven/Cataclysm-DDA/pull/87109))
@@ -173,11 +179,6 @@
 
 * De-charge a bunch of stuff that should never have had charges (3) ([#87008](https://github.com/CleverRaven/Cataclysm-DDA/pull/87008))
 * Sort itemgroups (1): Drugs ([#87033](https://github.com/CleverRaven/Cataclysm-DDA/pull/87033))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-16-0425 ([e0d298c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0425))
-
 * Fix conflicting keybinds in butchery menu ([#87039](https://github.com/CleverRaven/Cataclysm-DDA/pull/87039))
 * Frog Eyes to limbs ([#87016](https://github.com/CleverRaven/Cataclysm-DDA/pull/87016))
 * Fix rabbit muzzle subpart similar parts ([#87028](https://github.com/CleverRaven/Cataclysm-DDA/pull/87028))
@@ -227,4 +228,3 @@
 * [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
 * Use newer vcpkg.exe for 0.I-branch. ([#86966](https://github.com/CleverRaven/Cataclysm-DDA/pull/86966))
-* Fix PR labeler silently failing to parse many labels. ([#86964](https://github.com/CleverRaven/Cataclysm-DDA/pull/86964))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-20-0640 (ef78159)
+* Fix safe in house_25 (#87128)
+
 Cataclysm-DDA experimental build 2026-05-20-0130 (558919d)
 * Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 (#87109)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2026-05-16-1555 (31cf974)
 Cataclysm-DDA experimental build 2026-05-16-0800 (571da61)
 * De-charge a bunch of stuff that should never have had charges (3) (#87008)
 * Sort itemgroups (1): Drugs (#87033)
-
-Cataclysm-DDA experimental build 2026-05-16-0425 (e0d298c)
 * Fix conflicting keybinds in butchery menu (#87039)
 * Frog Eyes to limbs (#87016)
 * Fix rabbit muzzle subpart similar parts (#87028)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-05-16-0425 (e0d298c)
 * [MoM] Change Beastmaster message (#86975)
 * Delete file "16" (#86973)
 * Use newer vcpkg.exe for 0.I-branch. (#86966)
-* Fix PR labeler silently failing to parse many labels. (#86964)
