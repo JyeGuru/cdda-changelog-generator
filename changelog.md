@@ -1,3 +1,10 @@
+* Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards ([#87135](https://github.com/CleverRaven/Cataclysm-DDA/pull/87135))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-20-2329 ([2c49f69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-2329))
+
+* Fix crash when opening inventory with bare barrel-swappable gun ([#87136](https://github.com/CleverRaven/Cataclysm-DDA/pull/87136))
 
 ---
 
@@ -185,11 +192,6 @@
 * Speed up item::weight and item_vars lookups ([#87061](https://github.com/CleverRaven/Cataclysm-DDA/pull/87061))
 * Fix crash on shutdown ([#87062](https://github.com/CleverRaven/Cataclysm-DDA/pull/87062))
 * Hot-swap MEMORY_MAP_MODE via SDL3 GPU shaders ([#87037](https://github.com/CleverRaven/Cataclysm-DDA/pull/87037))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-17-0524 ([814fcf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-0524))
-
 * Update robot names in Aftershock ([#87057](https://github.com/CleverRaven/Cataclysm-DDA/pull/87057))
 * Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
 * De-charge a bunch of stuff that should never have had charges (3) ([#87008](https://github.com/CleverRaven/Cataclysm-DDA/pull/87008))
@@ -229,12 +231,10 @@
 * labyrinth CBMs spawn in level 2 labyrinth ([#86985](https://github.com/CleverRaven/Cataclysm-DDA/pull/86985))
 * Fix linter workflow detecting astyle formatting changes. ([#86992](https://github.com/CleverRaven/Cataclysm-DDA/pull/86992))
 * Fix unattended-crafting env loss and resume timer offset ([#86983](https://github.com/CleverRaven/Cataclysm-DDA/pull/86983))
-* Fix lmoe bunker stairs misalignment and other minor issues ([#86971](https://github.com/CleverRaven/Cataclysm-DDA/pull/86971))
 * Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
 * Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
 * Rigid Eyestalks to limbs ([#86974](https://github.com/CleverRaven/Cataclysm-DDA/pull/86974))
-* Fix multimag integral magazine display, reload, and fire bugs ([#86970](https://github.com/CleverRaven/Cataclysm-DDA/pull/86970))
 * auditing some recipes. making power hammer a bit slower ([#86972](https://github.com/CleverRaven/Cataclysm-DDA/pull/86972))
 * [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
 * Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
