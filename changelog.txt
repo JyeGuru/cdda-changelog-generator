@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-20-1639 (4b44e19)
+* Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder (#87132)
+
 Cataclysm-DDA experimental build 2026-05-20-1355 (51697d1)
 * "To dehydrate it completely" -> "until complete dehydration" (#87023)
 * Remove npc spawn from some scenarios (#87125)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-05-17-0610 (1e91cfd)
 
 Cataclysm-DDA experimental build 2026-05-17-0524 (814fcf5)
 * Update robot names in Aftershock (#87057)
-
-Cataclysm-DDA experimental build 2026-05-16-1555 (31cf974)
 * Artificial Hair CBM plays nice with cyborgs (#87049)
 * De-charge a bunch of stuff that should never have had charges (3) (#87008)
 * Sort itemgroups (1): Drugs (#87033)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2026-05-16-1555 (31cf974)
 * Wrap crafting.cpp env_check_result enum in anonymous namespace (#87014)
 * Fix clang-tidy CI under LLVM 22 (#87011)
 * Zombies are attracted to moving vehicles (#87001)
-* Fix Charm spells to give feedback (#86968)
 * Bump clang-tidy CI to LLVM 22 (#86987)
 * Support displaying items by volume/weight on more UI screens (#86999)
 * basic monsters for overgrown labyrinth (#86986)

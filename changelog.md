@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-20-1639 ([4b44e19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1639))
+
+* Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-20-1355 ([51697d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1355))
 
 * "To dehydrate it completely" -> "until complete dehydration" ([#87023](https://github.com/CleverRaven/Cataclysm-DDA/pull/87023))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-05-17-0524 ([814fcf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-0524))
 
 * Update robot names in Aftershock ([#87057](https://github.com/CleverRaven/Cataclysm-DDA/pull/87057))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-16-1555 ([31cf974](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-1555))
-
 * Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
 * De-charge a bunch of stuff that should never have had charges (3) ([#87008](https://github.com/CleverRaven/Cataclysm-DDA/pull/87008))
 * Sort itemgroups (1): Drugs ([#87033](https://github.com/CleverRaven/Cataclysm-DDA/pull/87033))
@@ -213,7 +214,6 @@
 * Wrap crafting.cpp env_check_result enum in anonymous namespace ([#87014](https://github.com/CleverRaven/Cataclysm-DDA/pull/87014))
 * Fix clang-tidy CI under LLVM 22 ([#87011](https://github.com/CleverRaven/Cataclysm-DDA/pull/87011))
 * Zombies are attracted to moving vehicles ([#87001](https://github.com/CleverRaven/Cataclysm-DDA/pull/87001))
-* Fix Charm spells to give feedback ([#86968](https://github.com/CleverRaven/Cataclysm-DDA/pull/86968))
 * Bump clang-tidy CI to LLVM 22 ([#86987](https://github.com/CleverRaven/Cataclysm-DDA/pull/86987))
 * Support displaying items by volume/weight on more UI screens ([#86999](https://github.com/CleverRaven/Cataclysm-DDA/pull/86999))
 * basic monsters for overgrown labyrinth ([#86986](https://github.com/CleverRaven/Cataclysm-DDA/pull/86986))
