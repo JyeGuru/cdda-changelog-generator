@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-20-0130 ([558919d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-0130))
+
 * Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 ([#87109](https://github.com/CleverRaven/Cataclysm-DDA/pull/87109))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-05-16-0425 ([e0d298c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0425))
 
 * Fix conflicting keybinds in butchery menu ([#87039](https://github.com/CleverRaven/Cataclysm-DDA/pull/87039))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-16-0333 ([e41e17e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-16-0333))
-
 * Frog Eyes to limbs ([#87016](https://github.com/CleverRaven/Cataclysm-DDA/pull/87016))
 * Fix rabbit muzzle subpart similar parts ([#87028](https://github.com/CleverRaven/Cataclysm-DDA/pull/87028))
 * Hub 01 doesn't work with Exodii cyborgs ([#87036](https://github.com/CleverRaven/Cataclysm-DDA/pull/87036))
