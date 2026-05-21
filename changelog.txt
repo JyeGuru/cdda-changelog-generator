@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-21-0557 (76ef13e)
 * Make varmint air rifle spawn (#87124)
 
 Cataclysm-DDA experimental build 2026-05-21-0512 (11093df)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2026-05-18-0943 (eecfa9a)
 
 Cataclysm-DDA experimental build 2026-05-18-0723 (8754204)
 * Tighten map_equal_ignoring_keys abstraction boundary (#87075)
-
-Cataclysm-DDA experimental build 2026-05-18-0526 (f07e184)
 * Sort itemgroups (2): Food (#87058)
 * Fix conflicting keybind in electronic device menu (#87066)
 * Fix typo in Hard Target book description (#87070)

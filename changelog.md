@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-21-0557 ([76ef13e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-0557))
+
 * Make varmint air rifle spawn ([#87124](https://github.com/CleverRaven/Cataclysm-DDA/pull/87124))
 
 ---
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-05-18-0723 ([8754204](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-0723))
 
 * Tighten map_equal_ignoring_keys abstraction boundary ([#87075](https://github.com/CleverRaven/Cataclysm-DDA/pull/87075))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-18-0526 ([f07e184](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-0526))
-
 * Sort itemgroups (2): Food ([#87058](https://github.com/CleverRaven/Cataclysm-DDA/pull/87058))
 * Fix conflicting keybind in electronic device menu ([#87066](https://github.com/CleverRaven/Cataclysm-DDA/pull/87066))
 * Fix typo in Hard Target book description ([#87070](https://github.com/CleverRaven/Cataclysm-DDA/pull/87070))
