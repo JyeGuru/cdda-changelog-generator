@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-21-1819 (1eff808)
+* Prettify weight/volume display (#87139)
+
 Cataclysm-DDA experimental build 2026-05-21-0557 (76ef13e)
 * Make varmint air rifle spawn (#87124)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2026-05-18-1747 (965e11d)
 
 Cataclysm-DDA experimental build 2026-05-18-0943 (eecfa9a)
 * Modernize engine faults with fault groups (#87051)
-
-Cataclysm-DDA experimental build 2026-05-18-0723 (8754204)
 * Tighten map_equal_ignoring_keys abstraction boundary (#87075)
 * Sort itemgroups (2): Food (#87058)
 * Fix conflicting keybind in electronic device menu (#87066)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2026-05-18-0723 (8754204)
 * Wrap crafting.cpp env_check_result enum in anonymous namespace (#87014)
 * Fix clang-tidy CI under LLVM 22 (#87011)
 * Zombies are attracted to moving vehicles (#87001)
-* Bump clang-tidy CI to LLVM 22 (#86987)
 * Support displaying items by volume/weight on more UI screens (#86999)
 * Full body Exodii frames have proper bionic limbs (#87002)
 * [Xedra Evolved] Stalker Eye spell replaces your eyes while active (#86996)
