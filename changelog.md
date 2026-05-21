@@ -1,3 +1,11 @@
+* Update vehicle shape menu ([#87151](https://github.com/CleverRaven/Cataclysm-DDA/pull/87151))
+* No perpetual motion cyborgs: nerf joint torsion ratchet CBM ([#87154](https://github.com/CleverRaven/Cataclysm-DDA/pull/87154))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-21-2159 ([276f909](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-2159))
+
+* Rename construction "Build Metal Rack" -> "Build Display Rack" ([#87156](https://github.com/CleverRaven/Cataclysm-DDA/pull/87156))
 
 ---
 
@@ -187,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2026-05-18-1747 ([965e11d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-1747))
 
 * [Xedra Evolved] Fix Verdant Scourge conditions ([#87076](https://github.com/CleverRaven/Cataclysm-DDA/pull/87076))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-18-0943 ([eecfa9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-0943))
-
 * Modernize engine faults with fault groups ([#87051](https://github.com/CleverRaven/Cataclysm-DDA/pull/87051))
 * Tighten map_equal_ignoring_keys abstraction boundary ([#87075](https://github.com/CleverRaven/Cataclysm-DDA/pull/87075))
 * Sort itemgroups (2): Food ([#87058](https://github.com/CleverRaven/Cataclysm-DDA/pull/87058))
@@ -235,5 +238,3 @@
 * Support displaying items by volume/weight on more UI screens ([#86999](https://github.com/CleverRaven/Cataclysm-DDA/pull/86999))
 * Full body Exodii frames have proper bionic limbs ([#87002](https://github.com/CleverRaven/Cataclysm-DDA/pull/87002))
 * [Xedra Evolved] Stalker Eye spell replaces your eyes while active ([#86996](https://github.com/CleverRaven/Cataclysm-DDA/pull/86996))
-* Fix linter workflow detecting astyle formatting changes. ([#86992](https://github.com/CleverRaven/Cataclysm-DDA/pull/86992))
-* Update tips.json (Part Two) ([#86990](https://github.com/CleverRaven/Cataclysm-DDA/pull/86990))
