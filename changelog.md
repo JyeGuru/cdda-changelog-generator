@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-21-0016 ([3a2c731](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-0016))
+
+* debug_menu: dispatch via action table ([#87096](https://github.com/CleverRaven/Cataclysm-DDA/pull/87096))
+* [classic_zombies] Fix portable cassette player use action error ([#87133](https://github.com/CleverRaven/Cataclysm-DDA/pull/87133))
 * Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards ([#87135](https://github.com/CleverRaven/Cataclysm-DDA/pull/87135))
 
 ---
@@ -184,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-05-17-1826 ([80392d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-1826))
 
 * fix missing examine action from some netherum sparkling chasms ([#87065](https://github.com/CleverRaven/Cataclysm-DDA/pull/87065))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-17-0610 ([1e91cfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-17-0610))
-
 * Speed up item::weight and item_vars lookups ([#87061](https://github.com/CleverRaven/Cataclysm-DDA/pull/87061))
 * Fix crash on shutdown ([#87062](https://github.com/CleverRaven/Cataclysm-DDA/pull/87062))
 * Hot-swap MEMORY_MAP_MODE via SDL3 GPU shaders ([#87037](https://github.com/CleverRaven/Cataclysm-DDA/pull/87037))
@@ -235,6 +237,4 @@
 * LLVM 22 clang-tidy cleanup ([#86977](https://github.com/CleverRaven/Cataclysm-DDA/pull/86977))
 * Fix fallback fonts not being rendered in ImGui ([#86978](https://github.com/CleverRaven/Cataclysm-DDA/pull/86978))
 * Rigid Eyestalks to limbs ([#86974](https://github.com/CleverRaven/Cataclysm-DDA/pull/86974))
-* auditing some recipes. making power hammer a bit slower ([#86972](https://github.com/CleverRaven/Cataclysm-DDA/pull/86972))
 * [MoM] Change Beastmaster message ([#86975](https://github.com/CleverRaven/Cataclysm-DDA/pull/86975))
-* Delete file "16" ([#86973](https://github.com/CleverRaven/Cataclysm-DDA/pull/86973))
