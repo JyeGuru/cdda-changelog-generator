@@ -1,3 +1,13 @@
+* [Sky Island] Keep exit room mission markers ([#87146](https://github.com/CleverRaven/Cataclysm-DDA/pull/87146))
+* [MoM: Psychic Scream] Make the Psychic trait visible ([#87158](https://github.com/CleverRaven/Cataclysm-DDA/pull/87158))
+* Added infrared vision to mutant rattlesnake variants ([#87035](https://github.com/CleverRaven/Cataclysm-DDA/pull/87035))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-21-2311 ([b664046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-2311))
+
+* broken bionic limbs cannot be mended with splints, can be repaired from 0 ([#87150](https://github.com/CleverRaven/Cataclysm-DDA/pull/87150))
+* Ignore root dotfiles by default in .gitignore ([#87153](https://github.com/CleverRaven/Cataclysm-DDA/pull/87153))
 * Update vehicle shape menu ([#87151](https://github.com/CleverRaven/Cataclysm-DDA/pull/87151))
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM ([#87154](https://github.com/CleverRaven/Cataclysm-DDA/pull/87154))
 
@@ -189,11 +199,6 @@
 * Remove dangerous pickups option ([#87079](https://github.com/CleverRaven/Cataclysm-DDA/pull/87079))
 * Fix fling drowning people in shallow water ([#87084](https://github.com/CleverRaven/Cataclysm-DDA/pull/87084))
 * [XE] Add the vampire hunter faction and its base ([#87077](https://github.com/CleverRaven/Cataclysm-DDA/pull/87077))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-18-1747 ([965e11d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-1747))
-
 * [Xedra Evolved] Fix Verdant Scourge conditions ([#87076](https://github.com/CleverRaven/Cataclysm-DDA/pull/87076))
 * Modernize engine faults with fault groups ([#87051](https://github.com/CleverRaven/Cataclysm-DDA/pull/87051))
 * Tighten map_equal_ignoring_keys abstraction boundary ([#87075](https://github.com/CleverRaven/Cataclysm-DDA/pull/87075))
@@ -230,11 +235,6 @@
 * Add XedraWood: Stone and Sorcery to the CDDA repository ([#87026](https://github.com/CleverRaven/Cataclysm-DDA/pull/87026))
 * Allow some items to be displayed by length ([#87009](https://github.com/CleverRaven/Cataclysm-DDA/pull/87009))
 * Improve view of single-step recipes in crafting menu ([#87012](https://github.com/CleverRaven/Cataclysm-DDA/pull/87012))
-* De-charge a bunch of stuff that should never have had charges ([#87000](https://github.com/CleverRaven/Cataclysm-DDA/pull/87000))
-* Character creation UI fixes for random characters ([#86997](https://github.com/CleverRaven/Cataclysm-DDA/pull/86997))
 * Wrap crafting.cpp env_check_result enum in anonymous namespace ([#87014](https://github.com/CleverRaven/Cataclysm-DDA/pull/87014))
 * Fix clang-tidy CI under LLVM 22 ([#87011](https://github.com/CleverRaven/Cataclysm-DDA/pull/87011))
-* Zombies are attracted to moving vehicles ([#87001](https://github.com/CleverRaven/Cataclysm-DDA/pull/87001))
-* Support displaying items by volume/weight on more UI screens ([#86999](https://github.com/CleverRaven/Cataclysm-DDA/pull/86999))
 * Full body Exodii frames have proper bionic limbs ([#87002](https://github.com/CleverRaven/Cataclysm-DDA/pull/87002))
-* [Xedra Evolved] Stalker Eye spell replaces your eyes while active ([#86996](https://github.com/CleverRaven/Cataclysm-DDA/pull/86996))
