@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-22-0444 (1802a81)
 * Fix Description (#87138)
 * Cash register impulse buy item group (#87148)
 * Multi-activity fetch segfault fix (#87159)
@@ -76,8 +78,6 @@ Cataclysm-DDA experimental build 2026-05-19-2224 (dcdd4b7)
 
 Cataclysm-DDA experimental build 2026-05-19-2111 (a687f7d)
 * some new small mammals (#87099)
-
-Cataclysm-DDA 0.I release candidate 2026-05-19-1951 (c865b2f)
 * Spawn military weapons at Return to Sender convoy ambush (#87107)
 * Eggplant was not flagged like the other seeds, now it is (#87110)
 * Fix some minor issues with my recent PRs (#87050)

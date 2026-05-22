@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-22-0444 ([1802a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0444))
+
 * Fix Description ([#87138](https://github.com/CleverRaven/Cataclysm-DDA/pull/87138))
 * Cash register impulse buy item group ([#87148](https://github.com/CleverRaven/Cataclysm-DDA/pull/87148))
 * Multi-activity fetch segfault fix ([#87159](https://github.com/CleverRaven/Cataclysm-DDA/pull/87159))
@@ -139,11 +144,6 @@
 #### Cataclysm-DDA experimental build 2026-05-19-2111 ([a687f7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-2111))
 
 * some new small mammals ([#87099](https://github.com/CleverRaven/Cataclysm-DDA/pull/87099))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-05-19-1951 ([c865b2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-05-19-1951))
-
 * Spawn military weapons at Return to Sender convoy ambush ([#87107](https://github.com/CleverRaven/Cataclysm-DDA/pull/87107))
 * Eggplant was not flagged like the other seeds, now it is ([#87110](https://github.com/CleverRaven/Cataclysm-DDA/pull/87110))
 * Fix some minor issues with my recent PRs ([#87050](https://github.com/CleverRaven/Cataclysm-DDA/pull/87050))
