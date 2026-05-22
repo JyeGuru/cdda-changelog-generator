@@ -1,6 +1,22 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-22-0941 ([0d73f83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0941))
+
+* mail changes. plate changes ([#87144](https://github.com/CleverRaven/Cataclysm-DDA/pull/87144))
+* Fix crash spawning items with a null default ammo or magazine slot ([#87163](https://github.com/CleverRaven/Cataclysm-DDA/pull/87163))
+* Update trash found on highways ([#87170](https://github.com/CleverRaven/Cataclysm-DDA/pull/87170))
+* Palettize strip clubs ([#87168](https://github.com/CleverRaven/Cataclysm-DDA/pull/87168))
+* Adding High Density Polyethylene (HDPE) ([#87157](https://github.com/CleverRaven/Cataclysm-DDA/pull/87157))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-22-0858 ([cbc8e53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0858))
+
+* Add makeup kit to beauty itemgroup ([#87169](https://github.com/CleverRaven/Cataclysm-DDA/pull/87169))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-22-0444 ([1802a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0444))
 
 * Fix Description ([#87138](https://github.com/CleverRaven/Cataclysm-DDA/pull/87138))
@@ -189,18 +205,8 @@
 #### Cataclysm-DDA experimental build 2026-05-19-0518 ([9040d26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0518))
 
 * `replaced_bodyparts` field for bionics and infrastructure for automatically removing dependent bionics when removing a bionic limb ([#87081](https://github.com/CleverRaven/Cataclysm-DDA/pull/87081))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-0303 ([ae760c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0303))
-
 * [XedraWood] Add the hollow villages to the mod ([#87029](https://github.com/CleverRaven/Cataclysm-DDA/pull/87029))
 * Optimize away redrawing clear weather ([#87088](https://github.com/CleverRaven/Cataclysm-DDA/pull/87088))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-0130 ([47267fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0130))
-
 * Sort itemgroups (3): Baking Ingredients ([#87087](https://github.com/CleverRaven/Cataclysm-DDA/pull/87087))
 * calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
 * Micro fix to lmoe roof orientation ([#87086](https://github.com/CleverRaven/Cataclysm-DDA/pull/87086))
@@ -224,7 +230,6 @@
 * Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
 * Sort itemgroups (1): Drugs ([#87033](https://github.com/CleverRaven/Cataclysm-DDA/pull/87033))
 * Fix conflicting keybinds in butchery menu ([#87039](https://github.com/CleverRaven/Cataclysm-DDA/pull/87039))
-* Frog Eyes to limbs ([#87016](https://github.com/CleverRaven/Cataclysm-DDA/pull/87016))
 * Fix rabbit muzzle subpart similar parts ([#87028](https://github.com/CleverRaven/Cataclysm-DDA/pull/87028))
 * Hub 01 doesn't work with Exodii cyborgs ([#87036](https://github.com/CleverRaven/Cataclysm-DDA/pull/87036))
 * Fix uncraftable machete recipe ([#87042](https://github.com/CleverRaven/Cataclysm-DDA/pull/87042))
@@ -237,9 +242,4 @@
 * Basic Exodii full body conversions, a way to get them, and a new Exodii to repair them ([#87025](https://github.com/CleverRaven/Cataclysm-DDA/pull/87025))
 * Subtract one exponent from inventory ui overhead ([#87031](https://github.com/CleverRaven/Cataclysm-DDA/pull/87031))
 * Bulk inventory load and grouped craft result placement ([#87019](https://github.com/CleverRaven/Cataclysm-DDA/pull/87019))
-* Add ethanol vitamin for the rest of alcohol drinks, add display_type for booze ([#87015](https://github.com/CleverRaven/Cataclysm-DDA/pull/87015))
 * Add XedraWood: Stone and Sorcery to the CDDA repository ([#87026](https://github.com/CleverRaven/Cataclysm-DDA/pull/87026))
-* Allow some items to be displayed by length ([#87009](https://github.com/CleverRaven/Cataclysm-DDA/pull/87009))
-* Improve view of single-step recipes in crafting menu ([#87012](https://github.com/CleverRaven/Cataclysm-DDA/pull/87012))
-* Wrap crafting.cpp env_check_result enum in anonymous namespace ([#87014](https://github.com/CleverRaven/Cataclysm-DDA/pull/87014))
-* Fix clang-tidy CI under LLVM 22 ([#87011](https://github.com/CleverRaven/Cataclysm-DDA/pull/87011))
