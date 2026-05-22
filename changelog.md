@@ -1,3 +1,18 @@
+* Fix Description ([#87138](https://github.com/CleverRaven/Cataclysm-DDA/pull/87138))
+* Cash register impulse buy item group ([#87148](https://github.com/CleverRaven/Cataclysm-DDA/pull/87148))
+* Multi-activity fetch segfault fix ([#87159](https://github.com/CleverRaven/Cataclysm-DDA/pull/87159))
+* [MoM] Using censer from the Highlands raises your Nether Attunement ([#87160](https://github.com/CleverRaven/Cataclysm-DDA/pull/87160))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-22-0342 ([c33a432](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0342))
+
+* [MoM] Dimensional Anchors will eventually cancel your concentration powers ([#87162](https://github.com/CleverRaven/Cataclysm-DDA/pull/87162))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-22-0016 ([eb47dce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0016))
+
 * [Sky Island] Keep exit room mission markers ([#87146](https://github.com/CleverRaven/Cataclysm-DDA/pull/87146))
 * [MoM: Psychic Scream] Make the Psychic trait visible ([#87158](https://github.com/CleverRaven/Cataclysm-DDA/pull/87158))
 * Added infrared vision to mutant rattlesnake variants ([#87035](https://github.com/CleverRaven/Cataclysm-DDA/pull/87035))
@@ -187,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2026-05-19-0130 ([47267fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0130))
 
 * Sort itemgroups (3): Baking Ingredients ([#87087](https://github.com/CleverRaven/Cataclysm-DDA/pull/87087))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-18-2314 ([c6a7c86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-18-2314))
-
 * calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
 * Micro fix to lmoe roof orientation ([#87086](https://github.com/CleverRaven/Cataclysm-DDA/pull/87086))
 * Properly migrate and obsolete the old lmoe shelters ([#87085](https://github.com/CleverRaven/Cataclysm-DDA/pull/87085))
@@ -212,7 +222,6 @@
 * Hot-swap MEMORY_MAP_MODE via SDL3 GPU shaders ([#87037](https://github.com/CleverRaven/Cataclysm-DDA/pull/87037))
 * Update robot names in Aftershock ([#87057](https://github.com/CleverRaven/Cataclysm-DDA/pull/87057))
 * Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
-* De-charge a bunch of stuff that should never have had charges (3) ([#87008](https://github.com/CleverRaven/Cataclysm-DDA/pull/87008))
 * Sort itemgroups (1): Drugs ([#87033](https://github.com/CleverRaven/Cataclysm-DDA/pull/87033))
 * Fix conflicting keybinds in butchery menu ([#87039](https://github.com/CleverRaven/Cataclysm-DDA/pull/87039))
 * Frog Eyes to limbs ([#87016](https://github.com/CleverRaven/Cataclysm-DDA/pull/87016))
@@ -222,12 +231,9 @@
 * Cap recipes that make more than 4096 items ([#87043](https://github.com/CleverRaven/Cataclysm-DDA/pull/87043))
 * fix circuit safari mission desc ([#87040](https://github.com/CleverRaven/Cataclysm-DDA/pull/87040))
 * Decrease movement cost of moving through windows ([#87047](https://github.com/CleverRaven/Cataclysm-DDA/pull/87047))
-* [Magiclysm] Add whitelists to Forge of Wonders merchants ([#87005](https://github.com/CleverRaven/Cataclysm-DDA/pull/87005))
-* De-charge a bunch of stuff that should never have had charges (2) ([#87006](https://github.com/CleverRaven/Cataclysm-DDA/pull/87006))
 * Aftershock: Small balance pass. ([#87030](https://github.com/CleverRaven/Cataclysm-DDA/pull/87030))
 * Make character_creator_ui_impl draw_scenarios/draw_professions const ([#87024](https://github.com/CleverRaven/Cataclysm-DDA/pull/87024))
 * Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
-* SDL3 GPU shader infrastructure and sprite variant pass ([#87003](https://github.com/CleverRaven/Cataclysm-DDA/pull/87003))
 * Basic Exodii full body conversions, a way to get them, and a new Exodii to repair them ([#87025](https://github.com/CleverRaven/Cataclysm-DDA/pull/87025))
 * Subtract one exponent from inventory ui overhead ([#87031](https://github.com/CleverRaven/Cataclysm-DDA/pull/87031))
 * Bulk inventory load and grouped craft result placement ([#87019](https://github.com/CleverRaven/Cataclysm-DDA/pull/87019))
@@ -237,4 +243,3 @@
 * Improve view of single-step recipes in crafting menu ([#87012](https://github.com/CleverRaven/Cataclysm-DDA/pull/87012))
 * Wrap crafting.cpp env_check_result enum in anonymous namespace ([#87014](https://github.com/CleverRaven/Cataclysm-DDA/pull/87014))
 * Fix clang-tidy CI under LLVM 22 ([#87011](https://github.com/CleverRaven/Cataclysm-DDA/pull/87011))
-* Full body Exodii frames have proper bionic limbs ([#87002](https://github.com/CleverRaven/Cataclysm-DDA/pull/87002))
