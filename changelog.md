@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-22-1529 ([9246b0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-1529))
+
+* Clean up gear_civilian.json ([#87164](https://github.com/CleverRaven/Cataclysm-DDA/pull/87164))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-22-0941 ([0d73f83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0941))
 
 * mail changes. plate changes ([#87144](https://github.com/CleverRaven/Cataclysm-DDA/pull/87144))
@@ -199,11 +205,6 @@
 * More support for BY_VOLUME/BY_WEIGHT/BY_LENGTH ([#87083](https://github.com/CleverRaven/Cataclysm-DDA/pull/87083))
 * Add bulk reading map caches to electronic device menu ([#87100](https://github.com/CleverRaven/Cataclysm-DDA/pull/87100))
 * Spawn military weapons at Return to Sender convoy ambush ([#87101](https://github.com/CleverRaven/Cataclysm-DDA/pull/87101))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-0518 ([9040d26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0518))
-
 * `replaced_bodyparts` field for bionics and infrastructure for automatically removing dependent bionics when removing a bionic limb ([#87081](https://github.com/CleverRaven/Cataclysm-DDA/pull/87081))
 * [XedraWood] Add the hollow villages to the mod ([#87029](https://github.com/CleverRaven/Cataclysm-DDA/pull/87029))
 * Optimize away redrawing clear weather ([#87088](https://github.com/CleverRaven/Cataclysm-DDA/pull/87088))
@@ -241,5 +242,4 @@
 * Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
 * Basic Exodii full body conversions, a way to get them, and a new Exodii to repair them ([#87025](https://github.com/CleverRaven/Cataclysm-DDA/pull/87025))
 * Subtract one exponent from inventory ui overhead ([#87031](https://github.com/CleverRaven/Cataclysm-DDA/pull/87031))
-* Bulk inventory load and grouped craft result placement ([#87019](https://github.com/CleverRaven/Cataclysm-DDA/pull/87019))
 * Add XedraWood: Stone and Sorcery to the CDDA repository ([#87026](https://github.com/CleverRaven/Cataclysm-DDA/pull/87026))
