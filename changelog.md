@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-23-0216 ([c67dcc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-0216))
+
+* Nerf Hub 01 bionic limb performance, modestly buff protection ([#87152](https://github.com/CleverRaven/Cataclysm-DDA/pull/87152))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-23-0107 ([61d0eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-0107))
 
 * Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))
@@ -128,12 +134,6 @@
 #### Cataclysm-DDA experimental build 2026-05-20-1639 ([4b44e19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1639))
 
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-20-1355 ([51697d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1355))
-
-* "To dehydrate it completely" -> "until complete dehydration" ([#87023](https://github.com/CleverRaven/Cataclysm-DDA/pull/87023))
 * Remove npc spawn from some scenarios ([#87125](https://github.com/CleverRaven/Cataclysm-DDA/pull/87125))
 
 ---
@@ -189,17 +189,7 @@
 #### Cataclysm-DDA experimental build 2026-05-19-1718 ([ee45f38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1718))
 
 * ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-1424 ([82e7fcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1424))
-
 * Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-0753 ([9c64851](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0753))
-
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
 * Vendor plf_colony and plf_list verbatim under src/third-party/plf/ ([#87045](https://github.com/CleverRaven/Cataclysm-DDA/pull/87045))
 * Weekly Changelog 2026-05-11 to 2026-05-18 ([#87078](https://github.com/CleverRaven/Cataclysm-DDA/pull/87078))
