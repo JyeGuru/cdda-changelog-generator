@@ -1,3 +1,5 @@
+* [XE] Two new blood art refinements ([#87166](https://github.com/CleverRaven/Cataclysm-DDA/pull/87166))
+* Consume crafting tools per recipe step ([#87178](https://github.com/CleverRaven/Cataclysm-DDA/pull/87178))
 
 ---
 
@@ -229,8 +231,6 @@
 * fix circuit safari mission desc ([#87040](https://github.com/CleverRaven/Cataclysm-DDA/pull/87040))
 * Decrease movement cost of moving through windows ([#87047](https://github.com/CleverRaven/Cataclysm-DDA/pull/87047))
 * Aftershock: Small balance pass. ([#87030](https://github.com/CleverRaven/Cataclysm-DDA/pull/87030))
-* Make character_creator_ui_impl draw_scenarios/draw_professions const ([#87024](https://github.com/CleverRaven/Cataclysm-DDA/pull/87024))
 * Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
-* Basic Exodii full body conversions, a way to get them, and a new Exodii to repair them ([#87025](https://github.com/CleverRaven/Cataclysm-DDA/pull/87025))
 * Subtract one exponent from inventory ui overhead ([#87031](https://github.com/CleverRaven/Cataclysm-DDA/pull/87031))
 * Add XedraWood: Stone and Sorcery to the CDDA repository ([#87026](https://github.com/CleverRaven/Cataclysm-DDA/pull/87026))
