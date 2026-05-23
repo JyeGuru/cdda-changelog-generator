@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-23-1523 ([b00b8c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-1523))
+
+* Add New Vegetables - part. 2 ([#87149](https://github.com/CleverRaven/Cataclysm-DDA/pull/87149))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-23-1013 ([a4aae6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-1013))
 
 * Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
@@ -188,11 +194,6 @@
 * Fix some minor issues with my recent PRs ([#87050](https://github.com/CleverRaven/Cataclysm-DDA/pull/87050))
 * More descending stairs in labyrinth level 1 ([#87114](https://github.com/CleverRaven/Cataclysm-DDA/pull/87114))
 * retune level 1 labyrinth monstergroup ([#87113](https://github.com/CleverRaven/Cataclysm-DDA/pull/87113))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-1937 ([4f0631a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1937))
-
 * Show monster difficulty rating in the look panel ([#87121](https://github.com/CleverRaven/Cataclysm-DDA/pull/87121))
 * ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
 * Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
@@ -232,4 +233,3 @@
 * Cap recipes that make more than 4096 items ([#87043](https://github.com/CleverRaven/Cataclysm-DDA/pull/87043))
 * fix circuit safari mission desc ([#87040](https://github.com/CleverRaven/Cataclysm-DDA/pull/87040))
 * Decrease movement cost of moving through windows ([#87047](https://github.com/CleverRaven/Cataclysm-DDA/pull/87047))
-* Refresh inventory cache when stowing into a worn container ([#87032](https://github.com/CleverRaven/Cataclysm-DDA/pull/87032))
