@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-23-1013 ([a4aae6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-1013))
+
 * Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
 * Aftershock: Add light switches to the vanishing arc. ([#87183](https://github.com/CleverRaven/Cataclysm-DDA/pull/87183))
 * More nuanced Hub 01-Exodii full cyborg aggression ([#87173](https://github.com/CleverRaven/Cataclysm-DDA/pull/87173))
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2026-05-19-1937 ([4f0631a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1937))
 
 * Show monster difficulty rating in the look panel ([#87121](https://github.com/CleverRaven/Cataclysm-DDA/pull/87121))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-1718 ([ee45f38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-1718))
-
 * ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
 * Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
