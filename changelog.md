@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-23-0107 ([61d0eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-0107))
+
+* Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-22-1529 ([9246b0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-1529))
 
 * Clean up gear_civilian.json ([#87164](https://github.com/CleverRaven/Cataclysm-DDA/pull/87164))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2026-05-19-0753 ([9c64851](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0753))
 
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-0613 ([e7d7415](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-0613))
-
 * Vendor plf_colony and plf_list verbatim under src/third-party/plf/ ([#87045](https://github.com/CleverRaven/Cataclysm-DDA/pull/87045))
 * Weekly Changelog 2026-05-11 to 2026-05-18 ([#87078](https://github.com/CleverRaven/Cataclysm-DDA/pull/87078))
 * More support for BY_VOLUME/BY_WEIGHT/BY_LENGTH ([#87083](https://github.com/CleverRaven/Cataclysm-DDA/pull/87083))
