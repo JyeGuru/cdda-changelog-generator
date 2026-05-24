@@ -1,3 +1,10 @@
+* Sort itemgroups (5): Beverage ([#87167](https://github.com/CleverRaven/Cataclysm-DDA/pull/87167))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-24-1448 ([28a12eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1448))
+
+* Revert "Adding High Density Polyethylene (HDPE)" ([#87188](https://github.com/CleverRaven/Cataclysm-DDA/pull/87188))
 
 ---
 
@@ -184,11 +191,6 @@
 
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
 * Remove npc spawn from some scenarios ([#87125](https://github.com/CleverRaven/Cataclysm-DDA/pull/87125))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-20-1254 ([37d045a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1254))
-
 * 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
 * Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 ([#87109](https://github.com/CleverRaven/Cataclysm-DDA/pull/87109))
@@ -205,7 +207,6 @@
 * ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
 * Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
-* Vendor plf_colony and plf_list verbatim under src/third-party/plf/ ([#87045](https://github.com/CleverRaven/Cataclysm-DDA/pull/87045))
 * Weekly Changelog 2026-05-11 to 2026-05-18 ([#87078](https://github.com/CleverRaven/Cataclysm-DDA/pull/87078))
 * More support for BY_VOLUME/BY_WEIGHT/BY_LENGTH ([#87083](https://github.com/CleverRaven/Cataclysm-DDA/pull/87083))
 * Add bulk reading map caches to electronic device menu ([#87100](https://github.com/CleverRaven/Cataclysm-DDA/pull/87100))
@@ -232,4 +233,3 @@
 * Fix crash on shutdown ([#87062](https://github.com/CleverRaven/Cataclysm-DDA/pull/87062))
 * Update robot names in Aftershock ([#87057](https://github.com/CleverRaven/Cataclysm-DDA/pull/87057))
 * Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
-* Decrease movement cost of moving through windows ([#87047](https://github.com/CleverRaven/Cataclysm-DDA/pull/87047))
