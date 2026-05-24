@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-24-1940 ([8510866](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1940))
+
+* Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-24-1654 ([122c5f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1654))
 
 * Add dialogue effect for adding and removing wounds ([#87196](https://github.com/CleverRaven/Cataclysm-DDA/pull/87196))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2026-05-20-2329 ([2c49f69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-2329))
 
 * Fix crash when opening inventory with bare barrel-swappable gun ([#87136](https://github.com/CleverRaven/Cataclysm-DDA/pull/87136))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-20-1845 ([91ba1dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1845))
-
 * Remove old radio itemgroup ([#87126](https://github.com/CleverRaven/Cataclysm-DDA/pull/87126))
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
 * Remove npc spawn from some scenarios ([#87125](https://github.com/CleverRaven/Cataclysm-DDA/pull/87125))
@@ -228,7 +229,6 @@
 * Fix fling drowning people in shallow water ([#87084](https://github.com/CleverRaven/Cataclysm-DDA/pull/87084))
 * [XE] Add the vampire hunter faction and its base ([#87077](https://github.com/CleverRaven/Cataclysm-DDA/pull/87077))
 * [Xedra Evolved] Fix Verdant Scourge conditions ([#87076](https://github.com/CleverRaven/Cataclysm-DDA/pull/87076))
-* Modernize engine faults with fault groups ([#87051](https://github.com/CleverRaven/Cataclysm-DDA/pull/87051))
 * Tighten map_equal_ignoring_keys abstraction boundary ([#87075](https://github.com/CleverRaven/Cataclysm-DDA/pull/87075))
 * Sort itemgroups (2): Food ([#87058](https://github.com/CleverRaven/Cataclysm-DDA/pull/87058))
 * Fix conflicting keybind in electronic device menu ([#87066](https://github.com/CleverRaven/Cataclysm-DDA/pull/87066))
