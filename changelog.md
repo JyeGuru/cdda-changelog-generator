@@ -1,3 +1,10 @@
+* 1b Exodii Cyborgs are no longer considered large ([#87186](https://github.com/CleverRaven/Cataclysm-DDA/pull/87186))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-24-0305 ([3115c47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0305))
+
+* Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
 
 ---
 
@@ -71,7 +78,6 @@
 
 * [Sky Island] Keep exit room mission markers ([#87146](https://github.com/CleverRaven/Cataclysm-DDA/pull/87146))
 * [MoM: Psychic Scream] Make the Psychic trait visible ([#87158](https://github.com/CleverRaven/Cataclysm-DDA/pull/87158))
-* Added infrared vision to mutant rattlesnake variants ([#87035](https://github.com/CleverRaven/Cataclysm-DDA/pull/87035))
 
 ---
 
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-05-19-2224 ([dcdd4b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-2224))
 
 * Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-2111 ([a687f7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-2111))
-
 * some new small mammals ([#87099](https://github.com/CleverRaven/Cataclysm-DDA/pull/87099))
 * Spawn military weapons at Return to Sender convoy ambush ([#87107](https://github.com/CleverRaven/Cataclysm-DDA/pull/87107))
 * Eggplant was not flagged like the other seeds, now it is ([#87110](https://github.com/CleverRaven/Cataclysm-DDA/pull/87110))
@@ -226,7 +227,6 @@
 * Hot-swap MEMORY_MAP_MODE via SDL3 GPU shaders ([#87037](https://github.com/CleverRaven/Cataclysm-DDA/pull/87037))
 * Update robot names in Aftershock ([#87057](https://github.com/CleverRaven/Cataclysm-DDA/pull/87057))
 * Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
-* Sort itemgroups (1): Drugs ([#87033](https://github.com/CleverRaven/Cataclysm-DDA/pull/87033))
 * Fix conflicting keybinds in butchery menu ([#87039](https://github.com/CleverRaven/Cataclysm-DDA/pull/87039))
 * Hub 01 doesn't work with Exodii cyborgs ([#87036](https://github.com/CleverRaven/Cataclysm-DDA/pull/87036))
 * Fix uncraftable machete recipe ([#87042](https://github.com/CleverRaven/Cataclysm-DDA/pull/87042))

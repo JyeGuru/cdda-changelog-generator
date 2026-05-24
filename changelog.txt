@@ -1,3 +1,7 @@
+* 1b Exodii Cyborgs are no longer considered large (#87186)
+
+Cataclysm-DDA experimental build 2026-05-24-0305 (3115c47)
+* Fix minimap drawing over the Mouse View UI (#87191)
 
 Cataclysm-DDA experimental build 2026-05-23-1523 (b00b8c3)
 * Add New Vegetables - part. 2 (#87149)
@@ -41,7 +45,6 @@ Cataclysm-DDA experimental build 2026-05-22-0342 (c33a432)
 Cataclysm-DDA experimental build 2026-05-22-0016 (eb47dce)
 * [Sky Island] Keep exit room mission markers (#87146)
 * [MoM: Psychic Scream] Make the Psychic trait visible (#87158)
-* Added infrared vision to mutant rattlesnake variants (#87035)
 
 Cataclysm-DDA experimental build 2026-05-21-2311 (b664046)
 * broken bionic limbs cannot be mended with splints, can be repaired from 0 (#87150)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2026-05-19-2310 (f314026)
 
 Cataclysm-DDA experimental build 2026-05-19-2224 (dcdd4b7)
 * Styrofoam (#87115)
-
-Cataclysm-DDA experimental build 2026-05-19-2111 (a687f7d)
 * some new small mammals (#87099)
 * Spawn military weapons at Return to Sender convoy ambush (#87107)
 * Eggplant was not flagged like the other seeds, now it is (#87110)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2026-05-19-2111 (a687f7d)
 * Hot-swap MEMORY_MAP_MODE via SDL3 GPU shaders (#87037)
 * Update robot names in Aftershock (#87057)
 * Artificial Hair CBM plays nice with cyborgs (#87049)
-* Sort itemgroups (1): Drugs (#87033)
 * Fix conflicting keybinds in butchery menu (#87039)
 * Hub 01 doesn't work with Exodii cyborgs (#87036)
 * Fix uncraftable machete recipe (#87042)
