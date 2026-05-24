@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-24-0350 ([4751d19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0350))
+
 * 1b Exodii Cyborgs are no longer considered large ([#87186](https://github.com/CleverRaven/Cataclysm-DDA/pull/87186))
 
 ---
@@ -183,11 +188,6 @@
 
 * Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
 * wound worsening ([#87102](https://github.com/CleverRaven/Cataclysm-DDA/pull/87102))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-2224 ([dcdd4b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-2224))
-
 * Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
 * some new small mammals ([#87099](https://github.com/CleverRaven/Cataclysm-DDA/pull/87099))
 * Spawn military weapons at Return to Sender convoy ambush ([#87107](https://github.com/CleverRaven/Cataclysm-DDA/pull/87107))

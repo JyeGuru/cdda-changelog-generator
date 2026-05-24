@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-24-0350 (4751d19)
 * 1b Exodii Cyborgs are no longer considered large (#87186)
 
 Cataclysm-DDA experimental build 2026-05-24-0305 (3115c47)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2026-05-20-0130 (558919d)
 Cataclysm-DDA experimental build 2026-05-19-2310 (f314026)
 * Exodii cyborgs can swap limbs (#87112)
 * wound worsening (#87102)
-
-Cataclysm-DDA experimental build 2026-05-19-2224 (dcdd4b7)
 * Styrofoam (#87115)
 * some new small mammals (#87099)
 * Spawn military weapons at Return to Sender convoy ambush (#87107)
