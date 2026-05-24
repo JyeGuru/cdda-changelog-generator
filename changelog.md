@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-24-2224 ([a7f7edd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-2224))
+
+* Park unattended liquid crafts until you collect them ([#87210](https://github.com/CleverRaven/Cataclysm-DDA/pull/87210))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-24-1940 ([8510866](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1940))
 
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
@@ -190,11 +196,6 @@
 * debug_menu: dispatch via action table ([#87096](https://github.com/CleverRaven/Cataclysm-DDA/pull/87096))
 * [classic_zombies] Fix portable cassette player use action error ([#87133](https://github.com/CleverRaven/Cataclysm-DDA/pull/87133))
 * Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards ([#87135](https://github.com/CleverRaven/Cataclysm-DDA/pull/87135))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-20-2329 ([2c49f69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-2329))
-
 * Fix crash when opening inventory with bare barrel-swappable gun ([#87136](https://github.com/CleverRaven/Cataclysm-DDA/pull/87136))
 * Remove old radio itemgroup ([#87126](https://github.com/CleverRaven/Cataclysm-DDA/pull/87126))
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
