@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-05-24-1654 (122c5f7)
+* Add dialogue effect for adding and removing wounds (#87196)
 * put decharged items in containers (#87190)
 
 Cataclysm-DDA experimental build 2026-05-24-1550 (f6e6646)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2026-05-20-2329 (2c49f69)
 
 Cataclysm-DDA experimental build 2026-05-20-1845 (91ba1dd)
 * Remove old radio itemgroup (#87126)
-
-Cataclysm-DDA experimental build 2026-05-20-1639 (4b44e19)
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder (#87132)
 * Remove npc spawn from some scenarios (#87125)
 * 10 rooms for labyrinth level 1 (#87130)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2026-05-20-1639 (4b44e19)
 * some new small mammals (#87099)
 * Spawn military weapons at Return to Sender convoy ambush (#87107)
 * Eggplant was not flagged like the other seeds, now it is (#87110)
-* Fix some minor issues with my recent PRs (#87050)
 * More descending stairs in labyrinth level 1 (#87114)
 * retune level 1 labyrinth monstergroup (#87113)
 * Show monster difficulty rating in the look panel (#87121)
