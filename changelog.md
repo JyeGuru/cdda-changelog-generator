@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-24-0950 ([8171072](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0950))
+
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
 * `Blank body` can copy your appearance ([#87155](https://github.com/CleverRaven/Cataclysm-DDA/pull/87155))
 
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-05-20-1254 ([37d045a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-1254))
 
 * 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-20-0640 ([ef78159](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-0640))
-
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
 * Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 ([#87109](https://github.com/CleverRaven/Cataclysm-DDA/pull/87109))
 * Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
