@@ -1,3 +1,6 @@
+* put decharged items in containers (#87190)
+
+Cataclysm-DDA experimental build 2026-05-24-1550 (f6e6646)
 * Sort itemgroups (5): Beverage (#87167)
 
 Cataclysm-DDA experimental build 2026-05-24-1448 (28a12eb)
@@ -148,4 +151,3 @@ Cataclysm-DDA experimental build 2026-05-20-1639 (4b44e19)
 * Speed up item::weight and item_vars lookups (#87061)
 * Fix crash on shutdown (#87062)
 * Update robot names in Aftershock (#87057)
-* Artificial Hair CBM plays nice with cyborgs (#87049)
