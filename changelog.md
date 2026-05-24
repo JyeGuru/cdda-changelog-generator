@@ -1,3 +1,19 @@
+* Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
+* `Blank body` can copy your appearance ([#87155](https://github.com/CleverRaven/Cataclysm-DDA/pull/87155))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-24-0848 ([8cf3c01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0848))
+
+* De-charge a bunch of stuff that should never have had charges (4) ([#87180](https://github.com/CleverRaven/Cataclysm-DDA/pull/87180))
+* Fix SDL3 sound freeze from mixer lock-order deadlock ([#87189](https://github.com/CleverRaven/Cataclysm-DDA/pull/87189))
+* Charged tools on unattended crafting steps ([#87179](https://github.com/CleverRaven/Cataclysm-DDA/pull/87179))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-24-0810 ([9fb196c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0810))
+
+* [ Xedra Evolved ] Fixes for evil horses ([#87147](https://github.com/CleverRaven/Cataclysm-DDA/pull/87147))
 
 ---
 
@@ -175,17 +191,7 @@
 #### Cataclysm-DDA experimental build 2026-05-20-0640 ([ef78159](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-0640))
 
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-20-0130 ([558919d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-20-0130))
-
 * Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 ([#87109](https://github.com/CleverRaven/Cataclysm-DDA/pull/87109))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-19-2310 ([f314026](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-19-2310))
-
 * Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
 * wound worsening ([#87102](https://github.com/CleverRaven/Cataclysm-DDA/pull/87102))
 * Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
@@ -224,12 +230,6 @@
 * fix missing examine action from some netherum sparkling chasms ([#87065](https://github.com/CleverRaven/Cataclysm-DDA/pull/87065))
 * Speed up item::weight and item_vars lookups ([#87061](https://github.com/CleverRaven/Cataclysm-DDA/pull/87061))
 * Fix crash on shutdown ([#87062](https://github.com/CleverRaven/Cataclysm-DDA/pull/87062))
-* Hot-swap MEMORY_MAP_MODE via SDL3 GPU shaders ([#87037](https://github.com/CleverRaven/Cataclysm-DDA/pull/87037))
 * Update robot names in Aftershock ([#87057](https://github.com/CleverRaven/Cataclysm-DDA/pull/87057))
 * Artificial Hair CBM plays nice with cyborgs ([#87049](https://github.com/CleverRaven/Cataclysm-DDA/pull/87049))
-* Fix conflicting keybinds in butchery menu ([#87039](https://github.com/CleverRaven/Cataclysm-DDA/pull/87039))
-* Hub 01 doesn't work with Exodii cyborgs ([#87036](https://github.com/CleverRaven/Cataclysm-DDA/pull/87036))
-* Fix uncraftable machete recipe ([#87042](https://github.com/CleverRaven/Cataclysm-DDA/pull/87042))
-* Cap recipes that make more than 4096 items ([#87043](https://github.com/CleverRaven/Cataclysm-DDA/pull/87043))
-* fix circuit safari mission desc ([#87040](https://github.com/CleverRaven/Cataclysm-DDA/pull/87040))
 * Decrease movement cost of moving through windows ([#87047](https://github.com/CleverRaven/Cataclysm-DDA/pull/87047))
