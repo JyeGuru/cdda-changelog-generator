@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-25-1808 ([9e0085c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1808))
+
+* make radiosphere weather rainy and some minor tweaks  ([#87219](https://github.com/CleverRaven/Cataclysm-DDA/pull/87219))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-25-1221 ([db2cc11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1221))
 
 * Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
@@ -176,11 +182,6 @@
 * Update trash found on highways ([#87170](https://github.com/CleverRaven/Cataclysm-DDA/pull/87170))
 * Palettize strip clubs ([#87168](https://github.com/CleverRaven/Cataclysm-DDA/pull/87168))
 * Adding High Density Polyethylene (HDPE) ([#87157](https://github.com/CleverRaven/Cataclysm-DDA/pull/87157))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-22-0858 ([cbc8e53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0858))
-
 * Add makeup kit to beauty itemgroup ([#87169](https://github.com/CleverRaven/Cataclysm-DDA/pull/87169))
 * Fix Description ([#87138](https://github.com/CleverRaven/Cataclysm-DDA/pull/87138))
 * Cash register impulse buy item group ([#87148](https://github.com/CleverRaven/Cataclysm-DDA/pull/87148))
@@ -227,7 +228,6 @@
 * More support for BY_VOLUME/BY_WEIGHT/BY_LENGTH ([#87083](https://github.com/CleverRaven/Cataclysm-DDA/pull/87083))
 * Add bulk reading map caches to electronic device menu ([#87100](https://github.com/CleverRaven/Cataclysm-DDA/pull/87100))
 * Spawn military weapons at Return to Sender convoy ambush ([#87101](https://github.com/CleverRaven/Cataclysm-DDA/pull/87101))
-* `replaced_bodyparts` field for bionics and infrastructure for automatically removing dependent bionics when removing a bionic limb ([#87081](https://github.com/CleverRaven/Cataclysm-DDA/pull/87081))
 * Optimize away redrawing clear weather ([#87088](https://github.com/CleverRaven/Cataclysm-DDA/pull/87088))
 * Sort itemgroups (3): Baking Ingredients ([#87087](https://github.com/CleverRaven/Cataclysm-DDA/pull/87087))
 * calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
