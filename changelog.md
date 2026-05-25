@@ -1,3 +1,11 @@
+* Fix separators bleeding color into curses menus ([#87224](https://github.com/CleverRaven/Cataclysm-DDA/pull/87224))
+* Fireproofing the fungal wall monster ([#87225](https://github.com/CleverRaven/Cataclysm-DDA/pull/87225))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-2035 ([34947c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-2035))
+
+* Move Changeling `PSYCHOPATH`-granting traits to flags ([#87228](https://github.com/CleverRaven/Cataclysm-DDA/pull/87228))
 
 ---
 
@@ -172,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-05-22-1529 ([9246b0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-1529))
 
 * Clean up gear_civilian.json ([#87164](https://github.com/CleverRaven/Cataclysm-DDA/pull/87164))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-22-0941 ([0d73f83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0941))
-
 * mail changes. plate changes ([#87144](https://github.com/CleverRaven/Cataclysm-DDA/pull/87144))
 * Fix crash spawning items with a null default ammo or magazine slot ([#87163](https://github.com/CleverRaven/Cataclysm-DDA/pull/87163))
 * Update trash found on highways ([#87170](https://github.com/CleverRaven/Cataclysm-DDA/pull/87170))
@@ -225,12 +228,9 @@
 * ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
 * Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
-* More support for BY_VOLUME/BY_WEIGHT/BY_LENGTH ([#87083](https://github.com/CleverRaven/Cataclysm-DDA/pull/87083))
 * Add bulk reading map caches to electronic device menu ([#87100](https://github.com/CleverRaven/Cataclysm-DDA/pull/87100))
 * Spawn military weapons at Return to Sender convoy ambush ([#87101](https://github.com/CleverRaven/Cataclysm-DDA/pull/87101))
 * Optimize away redrawing clear weather ([#87088](https://github.com/CleverRaven/Cataclysm-DDA/pull/87088))
 * Sort itemgroups (3): Baking Ingredients ([#87087](https://github.com/CleverRaven/Cataclysm-DDA/pull/87087))
 * calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
 * Micro fix to lmoe roof orientation ([#87086](https://github.com/CleverRaven/Cataclysm-DDA/pull/87086))
-* Properly migrate and obsolete the old lmoe shelters ([#87085](https://github.com/CleverRaven/Cataclysm-DDA/pull/87085))
-* Fix fling drowning people in shallow water ([#87084](https://github.com/CleverRaven/Cataclysm-DDA/pull/87084))
