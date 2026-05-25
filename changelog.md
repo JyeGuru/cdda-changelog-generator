@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-2139 ([6861ef7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-2139))
+
 * Fix separators bleeding color into curses menus ([#87224](https://github.com/CleverRaven/Cataclysm-DDA/pull/87224))
 * Fireproofing the fungal wall monster ([#87225](https://github.com/CleverRaven/Cataclysm-DDA/pull/87225))
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-05-23-0107 ([61d0eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-0107))
 
 * Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-22-1529 ([9246b0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-1529))
-
 * Clean up gear_civilian.json ([#87164](https://github.com/CleverRaven/Cataclysm-DDA/pull/87164))
 * mail changes. plate changes ([#87144](https://github.com/CleverRaven/Cataclysm-DDA/pull/87144))
 * Fix crash spawning items with a null default ammo or magazine slot ([#87163](https://github.com/CleverRaven/Cataclysm-DDA/pull/87163))
