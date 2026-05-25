@@ -1,3 +1,26 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-1221 ([db2cc11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1221))
+
+* Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-1136 ([7e0d024](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1136))
+
+* Fungal terrain doesn't spread fire ([#87197](https://github.com/CleverRaven/Cataclysm-DDA/pull/87197))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-1058 ([feb34c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1058))
+
+* plate armor coverages ([#87181](https://github.com/CleverRaven/Cataclysm-DDA/pull/87181))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-1003 ([61fb117](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1003))
+
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
 
 ---
@@ -159,33 +182,13 @@
 #### Cataclysm-DDA experimental build 2026-05-22-0858 ([cbc8e53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0858))
 
 * Add makeup kit to beauty itemgroup ([#87169](https://github.com/CleverRaven/Cataclysm-DDA/pull/87169))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-22-0444 ([1802a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0444))
-
 * Fix Description ([#87138](https://github.com/CleverRaven/Cataclysm-DDA/pull/87138))
 * Cash register impulse buy item group ([#87148](https://github.com/CleverRaven/Cataclysm-DDA/pull/87148))
 * Multi-activity fetch segfault fix ([#87159](https://github.com/CleverRaven/Cataclysm-DDA/pull/87159))
 * [MoM] Using censer from the Highlands raises your Nether Attunement ([#87160](https://github.com/CleverRaven/Cataclysm-DDA/pull/87160))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-22-0342 ([c33a432](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0342))
-
 * [MoM] Dimensional Anchors will eventually cancel your concentration powers ([#87162](https://github.com/CleverRaven/Cataclysm-DDA/pull/87162))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-22-0016 ([eb47dce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-22-0016))
-
 * [Sky Island] Keep exit room mission markers ([#87146](https://github.com/CleverRaven/Cataclysm-DDA/pull/87146))
 * [MoM: Psychic Scream] Make the Psychic trait visible ([#87158](https://github.com/CleverRaven/Cataclysm-DDA/pull/87158))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-2311 ([b664046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-2311))
-
 * broken bionic limbs cannot be mended with splints, can be repaired from 0 ([#87150](https://github.com/CleverRaven/Cataclysm-DDA/pull/87150))
 * Ignore root dotfiles by default in .gitignore ([#87153](https://github.com/CleverRaven/Cataclysm-DDA/pull/87153))
 * Update vehicle shape menu ([#87151](https://github.com/CleverRaven/Cataclysm-DDA/pull/87151))
@@ -221,7 +224,6 @@
 * ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
 * Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
-* Weekly Changelog 2026-05-11 to 2026-05-18 ([#87078](https://github.com/CleverRaven/Cataclysm-DDA/pull/87078))
 * More support for BY_VOLUME/BY_WEIGHT/BY_LENGTH ([#87083](https://github.com/CleverRaven/Cataclysm-DDA/pull/87083))
 * Add bulk reading map caches to electronic device menu ([#87100](https://github.com/CleverRaven/Cataclysm-DDA/pull/87100))
 * Spawn military weapons at Return to Sender convoy ambush ([#87101](https://github.com/CleverRaven/Cataclysm-DDA/pull/87101))
@@ -231,7 +233,4 @@
 * calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
 * Micro fix to lmoe roof orientation ([#87086](https://github.com/CleverRaven/Cataclysm-DDA/pull/87086))
 * Properly migrate and obsolete the old lmoe shelters ([#87085](https://github.com/CleverRaven/Cataclysm-DDA/pull/87085))
-* Clamp overmap sidebar to actual screen ([#87080](https://github.com/CleverRaven/Cataclysm-DDA/pull/87080))
-* Remove dangerous pickups option ([#87079](https://github.com/CleverRaven/Cataclysm-DDA/pull/87079))
 * Fix fling drowning people in shallow water ([#87084](https://github.com/CleverRaven/Cataclysm-DDA/pull/87084))
-* [XE] Add the vampire hunter faction and its base ([#87077](https://github.com/CleverRaven/Cataclysm-DDA/pull/87077))
