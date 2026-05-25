@@ -1,3 +1,10 @@
+* Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-0859 ([c7e22ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0859))
+
+* Upgrade vendored ImGui to 1.92.8 ([#87137](https://github.com/CleverRaven/Cataclysm-DDA/pull/87137))
 
 ---
 
@@ -183,11 +190,6 @@
 * Ignore root dotfiles by default in .gitignore ([#87153](https://github.com/CleverRaven/Cataclysm-DDA/pull/87153))
 * Update vehicle shape menu ([#87151](https://github.com/CleverRaven/Cataclysm-DDA/pull/87151))
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM ([#87154](https://github.com/CleverRaven/Cataclysm-DDA/pull/87154))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-2159 ([276f909](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-2159))
-
 * Rename construction "Build Metal Rack" -> "Build Display Rack" ([#87156](https://github.com/CleverRaven/Cataclysm-DDA/pull/87156))
 * Prettify weight/volume display ([#87139](https://github.com/CleverRaven/Cataclysm-DDA/pull/87139))
 * Make varmint air rifle spawn ([#87124](https://github.com/CleverRaven/Cataclysm-DDA/pull/87124))
@@ -233,5 +235,3 @@
 * Remove dangerous pickups option ([#87079](https://github.com/CleverRaven/Cataclysm-DDA/pull/87079))
 * Fix fling drowning people in shallow water ([#87084](https://github.com/CleverRaven/Cataclysm-DDA/pull/87084))
 * [XE] Add the vampire hunter faction and its base ([#87077](https://github.com/CleverRaven/Cataclysm-DDA/pull/87077))
-* [Xedra Evolved] Fix Verdant Scourge conditions ([#87076](https://github.com/CleverRaven/Cataclysm-DDA/pull/87076))
-* Tighten map_equal_ignoring_keys abstraction boundary ([#87075](https://github.com/CleverRaven/Cataclysm-DDA/pull/87075))
