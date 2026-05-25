@@ -1,3 +1,28 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-0540 ([d3316af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0540))
+
+* Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
+* Bone cleanup ([#87185](https://github.com/CleverRaven/Cataclysm-DDA/pull/87185))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-0504 ([265ae6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0504))
+
+* [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-0332 ([b9119be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0332))
+
+* Add debug capture pipeline ([#87097](https://github.com/CleverRaven/Cataclysm-DDA/pull/87097))
+* Fix freeze from zero-volume sounds in monster sound clustering ([#87209](https://github.com/CleverRaven/Cataclysm-DDA/pull/87209))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-0130 ([53e7c9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0130))
+
 * [XedraWood] Add chirurgeon monster encounter ([#87106](https://github.com/CleverRaven/Cataclysm-DDA/pull/87106))
 
 ---
@@ -164,35 +189,10 @@
 #### Cataclysm-DDA experimental build 2026-05-21-2159 ([276f909](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-2159))
 
 * Rename construction "Build Metal Rack" -> "Build Display Rack" ([#87156](https://github.com/CleverRaven/Cataclysm-DDA/pull/87156))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-1819 ([1eff808](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-1819))
-
 * Prettify weight/volume display ([#87139](https://github.com/CleverRaven/Cataclysm-DDA/pull/87139))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-0557 ([76ef13e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-0557))
-
 * Make varmint air rifle spawn ([#87124](https://github.com/CleverRaven/Cataclysm-DDA/pull/87124))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-0512 ([11093df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-0512))
-
 * Aftershock: Slightly nerf Veles robots. ([#87143](https://github.com/CleverRaven/Cataclysm-DDA/pull/87143))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-0406 ([cf01311](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-0406))
-
 * [XE] Edit the living-drinker vampire weakness ([#87142](https://github.com/CleverRaven/Cataclysm-DDA/pull/87142))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-0255 ([9a6d8cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-0255))
-
 * Sort itemgroups (4): Spice ([#87118](https://github.com/CleverRaven/Cataclysm-DDA/pull/87118))
 * Add New Vegetables - part. 1 ([#87117](https://github.com/CleverRaven/Cataclysm-DDA/pull/87117))
 * Exodii surgeon can sell, install, uninstall, and properly repair bionic limbs, all for a price ([#87131](https://github.com/CleverRaven/Cataclysm-DDA/pull/87131))
@@ -235,7 +235,3 @@
 * [XE] Add the vampire hunter faction and its base ([#87077](https://github.com/CleverRaven/Cataclysm-DDA/pull/87077))
 * [Xedra Evolved] Fix Verdant Scourge conditions ([#87076](https://github.com/CleverRaven/Cataclysm-DDA/pull/87076))
 * Tighten map_equal_ignoring_keys abstraction boundary ([#87075](https://github.com/CleverRaven/Cataclysm-DDA/pull/87075))
-* Fix conflicting keybind in electronic device menu ([#87066](https://github.com/CleverRaven/Cataclysm-DDA/pull/87066))
-* Fix typo in Hard Target book description ([#87070](https://github.com/CleverRaven/Cataclysm-DDA/pull/87070))
-* fix missing examine action from some netherum sparkling chasms ([#87065](https://github.com/CleverRaven/Cataclysm-DDA/pull/87065))
-* Fix crash on shutdown ([#87062](https://github.com/CleverRaven/Cataclysm-DDA/pull/87062))

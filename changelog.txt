@@ -1,3 +1,16 @@
+
+Cataclysm-DDA experimental build 2026-05-25-0540 (d3316af)
+* Sort itemgroups (6): Fastfood (#87212)
+* Bone cleanup (#87185)
+
+Cataclysm-DDA experimental build 2026-05-25-0504 (265ae6a)
+* [XE] Implement asking others for dreamdross. (#87213)
+
+Cataclysm-DDA experimental build 2026-05-25-0332 (b9119be)
+* Add debug capture pipeline (#87097)
+* Fix freeze from zero-volume sounds in monster sound clustering (#87209)
+
+Cataclysm-DDA experimental build 2026-05-25-0130 (53e7c9f)
 * [XedraWood] Add chirurgeon monster encounter (#87106)
 
 Cataclysm-DDA experimental build 2026-05-25-0047 (e030880)
@@ -92,20 +105,10 @@ Cataclysm-DDA experimental build 2026-05-21-2311 (b664046)
 
 Cataclysm-DDA experimental build 2026-05-21-2159 (276f909)
 * Rename construction "Build Metal Rack" -> "Build Display Rack" (#87156)
-
-Cataclysm-DDA experimental build 2026-05-21-1819 (1eff808)
 * Prettify weight/volume display (#87139)
-
-Cataclysm-DDA experimental build 2026-05-21-0557 (76ef13e)
 * Make varmint air rifle spawn (#87124)
-
-Cataclysm-DDA experimental build 2026-05-21-0512 (11093df)
 * Aftershock: Slightly nerf Veles robots. (#87143)
-
-Cataclysm-DDA experimental build 2026-05-21-0406 (cf01311)
 * [XE] Edit the living-drinker vampire weakness (#87142)
-
-Cataclysm-DDA experimental build 2026-05-21-0255 (9a6d8cb)
 * Sort itemgroups (4): Spice (#87118)
 * Add New Vegetables - part. 1 (#87117)
 * Exodii surgeon can sell, install, uninstall, and properly repair bionic limbs, all for a price (#87131)
@@ -148,7 +151,3 @@ Cataclysm-DDA experimental build 2026-05-21-0255 (9a6d8cb)
 * [XE] Add the vampire hunter faction and its base (#87077)
 * [Xedra Evolved] Fix Verdant Scourge conditions (#87076)
 * Tighten map_equal_ignoring_keys abstraction boundary (#87075)
-* Fix conflicting keybind in electronic device menu (#87066)
-* Fix typo in Hard Target book description (#87070)
-* fix missing examine action from some netherum sparkling chasms (#87065)
-* Fix crash on shutdown (#87062)
