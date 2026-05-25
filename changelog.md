@@ -1,3 +1,17 @@
+* [XedraWood] Add chirurgeon monster encounter ([#87106](https://github.com/CleverRaven/Cataclysm-DDA/pull/87106))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-25-0047 ([e030880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0047))
+
+* Supernatural Power menu says `Choose a Supernatural Power` ([#87202](https://github.com/CleverRaven/Cataclysm-DDA/pull/87202))
+* Scarves cover beaks and muzzles ([#87201](https://github.com/CleverRaven/Cataclysm-DDA/pull/87201))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-24-2356 ([9f170de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-2356))
+
+* Fix For Issue #87199 (Jumbo Treefrog Description Typo) ([#87207](https://github.com/CleverRaven/Cataclysm-DDA/pull/87207))
 
 ---
 
@@ -182,17 +196,7 @@
 * Sort itemgroups (4): Spice ([#87118](https://github.com/CleverRaven/Cataclysm-DDA/pull/87118))
 * Add New Vegetables - part. 1 ([#87117](https://github.com/CleverRaven/Cataclysm-DDA/pull/87117))
 * Exodii surgeon can sell, install, uninstall, and properly repair bionic limbs, all for a price ([#87131](https://github.com/CleverRaven/Cataclysm-DDA/pull/87131))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-0157 ([fbac1c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-0157))
-
 * Cakes, Pies, and Pizzas all come in slices ([#87140](https://github.com/CleverRaven/Cataclysm-DDA/pull/87140))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-21-0016 ([3a2c731](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-21-0016))
-
 * debug_menu: dispatch via action table ([#87096](https://github.com/CleverRaven/Cataclysm-DDA/pull/87096))
 * [classic_zombies] Fix portable cassette player use action error ([#87133](https://github.com/CleverRaven/Cataclysm-DDA/pull/87133))
 * Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards ([#87135](https://github.com/CleverRaven/Cataclysm-DDA/pull/87135))
@@ -231,11 +235,7 @@
 * [XE] Add the vampire hunter faction and its base ([#87077](https://github.com/CleverRaven/Cataclysm-DDA/pull/87077))
 * [Xedra Evolved] Fix Verdant Scourge conditions ([#87076](https://github.com/CleverRaven/Cataclysm-DDA/pull/87076))
 * Tighten map_equal_ignoring_keys abstraction boundary ([#87075](https://github.com/CleverRaven/Cataclysm-DDA/pull/87075))
-* Sort itemgroups (2): Food ([#87058](https://github.com/CleverRaven/Cataclysm-DDA/pull/87058))
 * Fix conflicting keybind in electronic device menu ([#87066](https://github.com/CleverRaven/Cataclysm-DDA/pull/87066))
 * Fix typo in Hard Target book description ([#87070](https://github.com/CleverRaven/Cataclysm-DDA/pull/87070))
-* allow to limit amount of specific wounds received per bodypart ([#87056](https://github.com/CleverRaven/Cataclysm-DDA/pull/87056))
 * fix missing examine action from some netherum sparkling chasms ([#87065](https://github.com/CleverRaven/Cataclysm-DDA/pull/87065))
-* Speed up item::weight and item_vars lookups ([#87061](https://github.com/CleverRaven/Cataclysm-DDA/pull/87061))
 * Fix crash on shutdown ([#87062](https://github.com/CleverRaven/Cataclysm-DDA/pull/87062))
-* Update robot names in Aftershock ([#87057](https://github.com/CleverRaven/Cataclysm-DDA/pull/87057))
