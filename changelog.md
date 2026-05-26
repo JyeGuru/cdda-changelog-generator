@@ -1,3 +1,10 @@
+* Fix fire extinguishers in evac shelters ([#87239](https://github.com/CleverRaven/Cataclysm-DDA/pull/87239))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-26-0928 ([9083db5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-26-0928))
+
+* Recipes for charged items must specify charges ([#87177](https://github.com/CleverRaven/Cataclysm-DDA/pull/87177))
 
 ---
 
@@ -174,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-05-23-1523 ([b00b8c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-1523))
 
 * Add New Vegetables - part. 2 ([#87149](https://github.com/CleverRaven/Cataclysm-DDA/pull/87149))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-23-1013 ([a4aae6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-1013))
-
 * Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
 * Aftershock: Add light switches to the vanishing arc. ([#87183](https://github.com/CleverRaven/Cataclysm-DDA/pull/87183))
 * More nuanced Hub 01-Exodii full cyborg aggression ([#87173](https://github.com/CleverRaven/Cataclysm-DDA/pull/87173))
@@ -214,7 +216,6 @@
 * Add New Vegetables - part. 1 ([#87117](https://github.com/CleverRaven/Cataclysm-DDA/pull/87117))
 * Exodii surgeon can sell, install, uninstall, and properly repair bionic limbs, all for a price ([#87131](https://github.com/CleverRaven/Cataclysm-DDA/pull/87131))
 * Cakes, Pies, and Pizzas all come in slices ([#87140](https://github.com/CleverRaven/Cataclysm-DDA/pull/87140))
-* debug_menu: dispatch via action table ([#87096](https://github.com/CleverRaven/Cataclysm-DDA/pull/87096))
 * [classic_zombies] Fix portable cassette player use action error ([#87133](https://github.com/CleverRaven/Cataclysm-DDA/pull/87133))
 * Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards ([#87135](https://github.com/CleverRaven/Cataclysm-DDA/pull/87135))
 * Fix crash when opening inventory with bare barrel-swappable gun ([#87136](https://github.com/CleverRaven/Cataclysm-DDA/pull/87136))
@@ -233,8 +234,6 @@
 * More descending stairs in labyrinth level 1 ([#87114](https://github.com/CleverRaven/Cataclysm-DDA/pull/87114))
 * retune level 1 labyrinth monstergroup ([#87113](https://github.com/CleverRaven/Cataclysm-DDA/pull/87113))
 * Show monster difficulty rating in the look panel ([#87121](https://github.com/CleverRaven/Cataclysm-DDA/pull/87121))
-* ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
 * Add bulk reading map caches to electronic device menu ([#87100](https://github.com/CleverRaven/Cataclysm-DDA/pull/87100))
 * Spawn military weapons at Return to Sender convoy ambush ([#87101](https://github.com/CleverRaven/Cataclysm-DDA/pull/87101))
-* calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
