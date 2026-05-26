@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-26-0839 ([61812b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-26-0839))
+
+* Fix #87038 ([#87238](https://github.com/CleverRaven/Cataclysm-DDA/pull/87238))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-26-0757 ([f459cbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-26-0757))
+
+* Add ImGui debug console with tabbed interface ([#87098](https://github.com/CleverRaven/Cataclysm-DDA/pull/87098))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-26-0534 ([feb761b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-26-0534))
+
+* Add default paws, set claws to link to default paws, add glove coverage for paws ([#87237](https://github.com/CleverRaven/Cataclysm-DDA/pull/87237))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-25-2139 ([6861ef7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-2139))
 
 * Fix separators bleeding color into curses menus ([#87224](https://github.com/CleverRaven/Cataclysm-DDA/pull/87224))
@@ -167,17 +185,7 @@
 * HIDDEN_SPELL Flag for spells ([#87171](https://github.com/CleverRaven/Cataclysm-DDA/pull/87171))
 * [XE] Two new blood art refinements ([#87166](https://github.com/CleverRaven/Cataclysm-DDA/pull/87166))
 * Consume crafting tools per recipe step ([#87178](https://github.com/CleverRaven/Cataclysm-DDA/pull/87178))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-23-0216 ([c67dcc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-0216))
-
 * Nerf Hub 01 bionic limb performance, modestly buff protection ([#87152](https://github.com/CleverRaven/Cataclysm-DDA/pull/87152))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-23-0107 ([61d0eeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-0107))
-
 * Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))
 * Clean up gear_civilian.json ([#87164](https://github.com/CleverRaven/Cataclysm-DDA/pull/87164))
 * mail changes. plate changes ([#87144](https://github.com/CleverRaven/Cataclysm-DDA/pull/87144))
@@ -226,11 +234,7 @@
 * retune level 1 labyrinth monstergroup ([#87113](https://github.com/CleverRaven/Cataclysm-DDA/pull/87113))
 * Show monster difficulty rating in the look panel ([#87121](https://github.com/CleverRaven/Cataclysm-DDA/pull/87121))
 * ImGui: route mouse events around game when ImGui captures pointer ([#87094](https://github.com/CleverRaven/Cataclysm-DDA/pull/87094))
-* Fix multimag gun info crash and per-pocket capacity misreads ([#87091](https://github.com/CleverRaven/Cataclysm-DDA/pull/87091))
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
 * Add bulk reading map caches to electronic device menu ([#87100](https://github.com/CleverRaven/Cataclysm-DDA/pull/87100))
 * Spawn military weapons at Return to Sender convoy ambush ([#87101](https://github.com/CleverRaven/Cataclysm-DDA/pull/87101))
-* Optimize away redrawing clear weather ([#87088](https://github.com/CleverRaven/Cataclysm-DDA/pull/87088))
-* Sort itemgroups (3): Baking Ingredients ([#87087](https://github.com/CleverRaven/Cataclysm-DDA/pull/87087))
 * calendar_ui: drop translated default arg from select_time_point ([#87093](https://github.com/CleverRaven/Cataclysm-DDA/pull/87093))
-* Micro fix to lmoe roof orientation ([#87086](https://github.com/CleverRaven/Cataclysm-DDA/pull/87086))
