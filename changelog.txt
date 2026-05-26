@@ -43,9 +43,6 @@ Cataclysm-DDA experimental build 2026-05-25-0540 (d3316af)
 
 Cataclysm-DDA experimental build 2026-05-25-0504 (265ae6a)
 * [XE] Implement asking others for dreamdross. (#87213)
-
-Cataclysm-DDA experimental build 2026-05-25-0332 (b9119be)
-* Add debug capture pipeline (#87097)
 * Fix freeze from zero-volume sounds in monster sound clustering (#87209)
 
 Cataclysm-DDA experimental build 2026-05-25-0130 (53e7c9f)

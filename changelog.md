@@ -85,12 +85,6 @@
 #### Cataclysm-DDA experimental build 2026-05-25-0504 ([265ae6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0504))
 
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-0332 ([b9119be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0332))
-
-* Add debug capture pipeline ([#87097](https://github.com/CleverRaven/Cataclysm-DDA/pull/87097))
 * Fix freeze from zero-volume sounds in monster sound clustering ([#87209](https://github.com/CleverRaven/Cataclysm-DDA/pull/87209))
 
 ---
