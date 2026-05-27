@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-27-0353 ([a740c0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-27-0353))
+
+* [Hunvre] Add elevator buildings ([#87245](https://github.com/CleverRaven/Cataclysm-DDA/pull/87245))
+* Plate hotfix ([#87252](https://github.com/CleverRaven/Cataclysm-DDA/pull/87252))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-27-0304 ([9bfe5b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-27-0304))
+
+* Sort itemgroups (7): Snacks ([#87236](https://github.com/CleverRaven/Cataclysm-DDA/pull/87236))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-27-0143 ([954ba50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-27-0143))
 
 * labyrinth level 2 slightly less tedious to explore ([#87244](https://github.com/CleverRaven/Cataclysm-DDA/pull/87244))
@@ -152,23 +165,8 @@
 * De-charge a bunch of stuff that should never have had charges (4) ([#87180](https://github.com/CleverRaven/Cataclysm-DDA/pull/87180))
 * Fix SDL3 sound freeze from mixer lock-order deadlock ([#87189](https://github.com/CleverRaven/Cataclysm-DDA/pull/87189))
 * Charged tools on unattended crafting steps ([#87179](https://github.com/CleverRaven/Cataclysm-DDA/pull/87179))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-24-0810 ([9fb196c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0810))
-
 * [ Xedra Evolved ] Fixes for evil horses ([#87147](https://github.com/CleverRaven/Cataclysm-DDA/pull/87147))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-24-0350 ([4751d19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0350))
-
 * 1b Exodii Cyborgs are no longer considered large ([#87186](https://github.com/CleverRaven/Cataclysm-DDA/pull/87186))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-24-0305 ([3115c47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0305))
-
 * Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
 * Add New Vegetables - part. 2 ([#87149](https://github.com/CleverRaven/Cataclysm-DDA/pull/87149))
 * Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
@@ -216,7 +214,6 @@
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
 * Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 ([#87109](https://github.com/CleverRaven/Cataclysm-DDA/pull/87109))
 * Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
-* wound worsening ([#87102](https://github.com/CleverRaven/Cataclysm-DDA/pull/87102))
 * Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
 * Spawn military weapons at Return to Sender convoy ambush ([#87107](https://github.com/CleverRaven/Cataclysm-DDA/pull/87107))
 * Eggplant was not flagged like the other seeds, now it is ([#87110](https://github.com/CleverRaven/Cataclysm-DDA/pull/87110))
@@ -224,5 +221,3 @@
 * retune level 1 labyrinth monstergroup ([#87113](https://github.com/CleverRaven/Cataclysm-DDA/pull/87113))
 * Show monster difficulty rating in the look panel ([#87121](https://github.com/CleverRaven/Cataclysm-DDA/pull/87121))
 * Updated Tainted Bone description to reflect it is not kilnable ([#87104](https://github.com/CleverRaven/Cataclysm-DDA/pull/87104))
-* Add bulk reading map caches to electronic device menu ([#87100](https://github.com/CleverRaven/Cataclysm-DDA/pull/87100))
-* Spawn military weapons at Return to Sender convoy ambush ([#87101](https://github.com/CleverRaven/Cataclysm-DDA/pull/87101))
