@@ -56,9 +56,6 @@ Cataclysm-DDA experimental build 2026-05-25-0504 (265ae6a)
 * [XE] Implement asking others for dreamdross. (#87213)
 * Fix freeze from zero-volume sounds in monster sound clustering (#87209)
 
-Cataclysm-DDA experimental build 2026-05-25-0130 (53e7c9f)
-* [XedraWood] Add chirurgeon monster encounter (#87106)
-
 Cataclysm-DDA experimental build 2026-05-25-0047 (e030880)
 * Supernatural Power menu says `Choose a Supernatural Power` (#87202)
 * Scarves cover beaks and muzzles (#87201)

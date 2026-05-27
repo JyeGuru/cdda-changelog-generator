@@ -109,12 +109,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-05-25-0130 ([53e7c9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0130))
-
-* [XedraWood] Add chirurgeon monster encounter ([#87106](https://github.com/CleverRaven/Cataclysm-DDA/pull/87106))
-
----
-
 #### Cataclysm-DDA experimental build 2026-05-25-0047 ([e030880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0047))
 
 * Supernatural Power menu says `Choose a Supernatural Power` ([#87202](https://github.com/CleverRaven/Cataclysm-DDA/pull/87202))
