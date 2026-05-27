@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-27-1638 (e9f8f61)
 * Fix ImGui popups off-screen when scaled or on Android (#87251)
 
 Cataclysm-DDA experimental build 2026-05-27-0353 (a740c0d)
@@ -79,8 +81,6 @@ Cataclysm-DDA experimental build 2026-05-24-1550 (f6e6646)
 
 Cataclysm-DDA experimental build 2026-05-24-1448 (28a12eb)
 * Revert "Adding High Density Polyethylene (HDPE)" (#87188)
-
-Cataclysm-DDA experimental build 2026-05-24-0950 (8171072)
 * Recalculate enchantment cache after loading bionics in Character::load() (#87195)
 * `Blank body` can copy your appearance (#87155)
 * De-charge a bunch of stuff that should never have had charges (4) (#87180)

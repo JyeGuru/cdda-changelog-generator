@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-27-1638 ([e9f8f61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-27-1638))
+
 * Fix ImGui popups off-screen when scaled or on Android ([#87251](https://github.com/CleverRaven/Cataclysm-DDA/pull/87251))
 
 ---
@@ -151,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2026-05-24-1448 ([28a12eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1448))
 
 * Revert "Adding High Density Polyethylene (HDPE)" ([#87188](https://github.com/CleverRaven/Cataclysm-DDA/pull/87188))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-24-0950 ([8171072](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0950))
-
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
 * `Blank body` can copy your appearance ([#87155](https://github.com/CleverRaven/Cataclysm-DDA/pull/87155))
 * De-charge a bunch of stuff that should never have had charges (4) ([#87180](https://github.com/CleverRaven/Cataclysm-DDA/pull/87180))
