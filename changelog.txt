@@ -1,3 +1,7 @@
+
+Cataclysm-DDA experimental build 2026-05-27-0143 (954ba50)
+* labyrinth level 2 slightly less tedious to explore (#87244)
+* Split the MSVC static library in two to fix the 4GB archive limit (#87241)
 * Fix fire extinguishers in evac shelters (#87239)
 
 Cataclysm-DDA experimental build 2026-05-26-0928 (9083db5)
@@ -5,9 +9,6 @@ Cataclysm-DDA experimental build 2026-05-26-0928 (9083db5)
 
 Cataclysm-DDA experimental build 2026-05-26-0839 (61812b4)
 * Fix #87038 (#87238)
-
-Cataclysm-DDA experimental build 2026-05-26-0757 (f459cbe)
-* Add ImGui debug console with tabbed interface (#87098)
 
 Cataclysm-DDA experimental build 2026-05-26-0534 (feb761b)
 * Add default paws, set claws to link to default paws, add glove coverage for paws (#87237)
@@ -88,8 +89,6 @@ Cataclysm-DDA experimental build 2026-05-24-0350 (4751d19)
 
 Cataclysm-DDA experimental build 2026-05-24-0305 (3115c47)
 * Fix minimap drawing over the Mouse View UI (#87191)
-
-Cataclysm-DDA experimental build 2026-05-23-1523 (b00b8c3)
 * Add New Vegetables - part. 2 (#87149)
 * Speed up spawning item groups into containers (#87184)
 * Aftershock: Add light switches to the vanishing arc. (#87183)
@@ -138,7 +137,6 @@ Cataclysm-DDA experimental build 2026-05-23-1523 (b00b8c3)
 * Exodii cyborgs can swap limbs (#87112)
 * wound worsening (#87102)
 * Styrofoam (#87115)
-* some new small mammals (#87099)
 * Spawn military weapons at Return to Sender convoy ambush (#87107)
 * Eggplant was not flagged like the other seeds, now it is (#87110)
 * More descending stairs in labyrinth level 1 (#87114)

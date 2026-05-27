@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-27-0143 ([954ba50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-27-0143))
+
+* labyrinth level 2 slightly less tedious to explore ([#87244](https://github.com/CleverRaven/Cataclysm-DDA/pull/87244))
+* Split the MSVC static library in two to fix the 4GB archive limit ([#87241](https://github.com/CleverRaven/Cataclysm-DDA/pull/87241))
 * Fix fire extinguishers in evac shelters ([#87239](https://github.com/CleverRaven/Cataclysm-DDA/pull/87239))
 
 ---
@@ -11,12 +18,6 @@
 #### Cataclysm-DDA experimental build 2026-05-26-0839 ([61812b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-26-0839))
 
 * Fix #87038 ([#87238](https://github.com/CleverRaven/Cataclysm-DDA/pull/87238))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-26-0757 ([f459cbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-26-0757))
-
-* Add ImGui debug console with tabbed interface ([#87098](https://github.com/CleverRaven/Cataclysm-DDA/pull/87098))
 
 ---
 
@@ -169,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-05-24-0305 ([3115c47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-0305))
 
 * Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-23-1523 ([b00b8c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-23-1523))
-
 * Add New Vegetables - part. 2 ([#87149](https://github.com/CleverRaven/Cataclysm-DDA/pull/87149))
 * Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
 * Aftershock: Add light switches to the vanishing arc. ([#87183](https://github.com/CleverRaven/Cataclysm-DDA/pull/87183))
@@ -222,7 +218,6 @@
 * Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
 * wound worsening ([#87102](https://github.com/CleverRaven/Cataclysm-DDA/pull/87102))
 * Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
-* some new small mammals ([#87099](https://github.com/CleverRaven/Cataclysm-DDA/pull/87099))
 * Spawn military weapons at Return to Sender convoy ambush ([#87107](https://github.com/CleverRaven/Cataclysm-DDA/pull/87107))
 * Eggplant was not flagged like the other seeds, now it is ([#87110](https://github.com/CleverRaven/Cataclysm-DDA/pull/87110))
 * More descending stairs in labyrinth level 1 ([#87114](https://github.com/CleverRaven/Cataclysm-DDA/pull/87114))
