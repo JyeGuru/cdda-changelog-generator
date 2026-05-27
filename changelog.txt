@@ -1,3 +1,4 @@
+* Fix ImGui popups off-screen when scaled or on Android (#87251)
 
 Cataclysm-DDA experimental build 2026-05-27-0353 (a740c0d)
 * [Hunvre] Add elevator buildings (#87245)
@@ -82,8 +83,6 @@ Cataclysm-DDA experimental build 2026-05-24-1448 (28a12eb)
 Cataclysm-DDA experimental build 2026-05-24-0950 (8171072)
 * Recalculate enchantment cache after loading bionics in Character::load() (#87195)
 * `Blank body` can copy your appearance (#87155)
-
-Cataclysm-DDA experimental build 2026-05-24-0848 (8cf3c01)
 * De-charge a bunch of stuff that should never have had charges (4) (#87180)
 * Fix SDL3 sound freeze from mixer lock-order deadlock (#87189)
 * Charged tools on unattended crafting steps (#87179)
@@ -142,4 +141,3 @@ Cataclysm-DDA experimental build 2026-05-24-0848 (8cf3c01)
 * More descending stairs in labyrinth level 1 (#87114)
 * retune level 1 labyrinth monstergroup (#87113)
 * Show monster difficulty rating in the look panel (#87121)
-* Updated Tainted Bone description to reflect it is not kilnable (#87104)
