@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-28-0413 ([55384da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-0413))
+
+* fix MTF evolving into other devourers ([#87255](https://github.com/CleverRaven/Cataclysm-DDA/pull/87255))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-27-1638 ([e9f8f61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-27-1638))
 
 * Fix ImGui popups off-screen when scaled or on Android ([#87251](https://github.com/CleverRaven/Cataclysm-DDA/pull/87251))
@@ -144,11 +150,6 @@
 #### Cataclysm-DDA experimental build 2026-05-24-1550 ([f6e6646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1550))
 
 * Sort itemgroups (5): Beverage ([#87167](https://github.com/CleverRaven/Cataclysm-DDA/pull/87167))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-24-1448 ([28a12eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1448))
-
 * Revert "Adding High Density Polyethylene (HDPE)" ([#87188](https://github.com/CleverRaven/Cataclysm-DDA/pull/87188))
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
 * `Blank body` can copy your appearance ([#87155](https://github.com/CleverRaven/Cataclysm-DDA/pull/87155))
@@ -202,10 +203,8 @@
 * Remove npc spawn from some scenarios ([#87125](https://github.com/CleverRaven/Cataclysm-DDA/pull/87125))
 * 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
-* Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 ([#87109](https://github.com/CleverRaven/Cataclysm-DDA/pull/87109))
 * Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
 * Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
-* Spawn military weapons at Return to Sender convoy ambush ([#87107](https://github.com/CleverRaven/Cataclysm-DDA/pull/87107))
 * Eggplant was not flagged like the other seeds, now it is ([#87110](https://github.com/CleverRaven/Cataclysm-DDA/pull/87110))
 * More descending stairs in labyrinth level 1 ([#87114](https://github.com/CleverRaven/Cataclysm-DDA/pull/87114))
 * retune level 1 labyrinth monstergroup ([#87113](https://github.com/CleverRaven/Cataclysm-DDA/pull/87113))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-28-0413 (55384da)
+* fix MTF evolving into other devourers (#87255)
+
 Cataclysm-DDA experimental build 2026-05-27-1638 (e9f8f61)
 * Fix ImGui popups off-screen when scaled or on Android (#87251)
 
@@ -75,8 +78,6 @@ Cataclysm-DDA experimental build 2026-05-24-1654 (122c5f7)
 
 Cataclysm-DDA experimental build 2026-05-24-1550 (f6e6646)
 * Sort itemgroups (5): Beverage (#87167)
-
-Cataclysm-DDA experimental build 2026-05-24-1448 (28a12eb)
 * Revert "Adding High Density Polyethylene (HDPE)" (#87188)
 * Recalculate enchantment cache after loading bionics in Character::load() (#87195)
 * `Blank body` can copy your appearance (#87155)
@@ -130,10 +131,8 @@ Cataclysm-DDA experimental build 2026-05-24-1448 (28a12eb)
 * Remove npc spawn from some scenarios (#87125)
 * 10 rooms for labyrinth level 1 (#87130)
 * Fix safe in house_25 (#87128)
-* Upgrade vendored plf_colony to v7.6.13 and plf_list to v2.8.02 (#87109)
 * Exodii cyborgs can swap limbs (#87112)
 * Styrofoam (#87115)
-* Spawn military weapons at Return to Sender convoy ambush (#87107)
 * Eggplant was not flagged like the other seeds, now it is (#87110)
 * More descending stairs in labyrinth level 1 (#87114)
 * retune level 1 labyrinth monstergroup (#87113)
