@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-28-0659 (de78646)
+* fixes smokes' inventory. fixes welding wire prices (#87263)
+
 Cataclysm-DDA experimental build 2026-05-28-0413 (55384da)
 * fix MTF evolving into other devourers (#87255)
 
@@ -75,8 +78,6 @@ Cataclysm-DDA experimental build 2026-05-24-1940 (8510866)
 Cataclysm-DDA experimental build 2026-05-24-1654 (122c5f7)
 * Add dialogue effect for adding and removing wounds (#87196)
 * put decharged items in containers (#87190)
-
-Cataclysm-DDA experimental build 2026-05-24-1550 (f6e6646)
 * Sort itemgroups (5): Beverage (#87167)
 * Revert "Adding High Density Polyethylene (HDPE)" (#87188)
 * Recalculate enchantment cache after loading bionics in Character::load() (#87195)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2026-05-24-1550 (f6e6646)
 * Fix safe in house_25 (#87128)
 * Exodii cyborgs can swap limbs (#87112)
 * Styrofoam (#87115)
-* Eggplant was not flagged like the other seeds, now it is (#87110)
 * More descending stairs in labyrinth level 1 (#87114)
 * retune level 1 labyrinth monstergroup (#87113)
 * Show monster difficulty rating in the look panel (#87121)

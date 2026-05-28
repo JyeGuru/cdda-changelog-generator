@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-28-0659 ([de78646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-0659))
+
+* fixes smokes' inventory. fixes welding wire prices ([#87263](https://github.com/CleverRaven/Cataclysm-DDA/pull/87263))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-28-0413 ([55384da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-0413))
 
 * fix MTF evolving into other devourers ([#87255](https://github.com/CleverRaven/Cataclysm-DDA/pull/87255))
@@ -144,11 +150,6 @@
 
 * Add dialogue effect for adding and removing wounds ([#87196](https://github.com/CleverRaven/Cataclysm-DDA/pull/87196))
 * put decharged items in containers ([#87190](https://github.com/CleverRaven/Cataclysm-DDA/pull/87190))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-24-1550 ([f6e6646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1550))
-
 * Sort itemgroups (5): Beverage ([#87167](https://github.com/CleverRaven/Cataclysm-DDA/pull/87167))
 * Revert "Adding High Density Polyethylene (HDPE)" ([#87188](https://github.com/CleverRaven/Cataclysm-DDA/pull/87188))
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
@@ -205,7 +206,6 @@
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
 * Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
 * Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
-* Eggplant was not flagged like the other seeds, now it is ([#87110](https://github.com/CleverRaven/Cataclysm-DDA/pull/87110))
 * More descending stairs in labyrinth level 1 ([#87114](https://github.com/CleverRaven/Cataclysm-DDA/pull/87114))
 * retune level 1 labyrinth monstergroup ([#87113](https://github.com/CleverRaven/Cataclysm-DDA/pull/87113))
 * Show monster difficulty rating in the look panel ([#87121](https://github.com/CleverRaven/Cataclysm-DDA/pull/87121))
