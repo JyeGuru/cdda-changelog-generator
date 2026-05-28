@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-28-1915 ([72fba8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-1915))
+
 * Wasps no longer have custom limb targeting weights for their bite attack ([#87278](https://github.com/CleverRaven/Cataclysm-DDA/pull/87278))
 
 ---
@@ -144,11 +149,6 @@
 
 * Supernatural Power menu says `Choose a Supernatural Power` ([#87202](https://github.com/CleverRaven/Cataclysm-DDA/pull/87202))
 * Scarves cover beaks and muzzles ([#87201](https://github.com/CleverRaven/Cataclysm-DDA/pull/87201))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-24-2356 ([9f170de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-2356))
-
 * Fix For Issue #87199 (Jumbo Treefrog Description Typo) ([#87207](https://github.com/CleverRaven/Cataclysm-DDA/pull/87207))
 * Park unattended liquid crafts until you collect them ([#87210](https://github.com/CleverRaven/Cataclysm-DDA/pull/87210))
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
