@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-28-0953 (7a8248e)
+* fix crazy turret room in labyrinth (#87274)
+
 Cataclysm-DDA experimental build 2026-05-28-0659 (de78646)
 * fixes smokes' inventory. fixes welding wire prices (#87263)
 
@@ -74,8 +77,6 @@ Cataclysm-DDA experimental build 2026-05-24-2224 (a7f7edd)
 
 Cataclysm-DDA experimental build 2026-05-24-1940 (8510866)
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables (#87208)
-
-Cataclysm-DDA experimental build 2026-05-24-1654 (122c5f7)
 * Add dialogue effect for adding and removing wounds (#87196)
 * put decharged items in containers (#87190)
 * Sort itemgroups (5): Beverage (#87167)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2026-05-24-1654 (122c5f7)
 * Remove npc spawn from some scenarios (#87125)
 * 10 rooms for labyrinth level 1 (#87130)
 * Fix safe in house_25 (#87128)
-* Exodii cyborgs can swap limbs (#87112)
 * Styrofoam (#87115)
 * More descending stairs in labyrinth level 1 (#87114)
 * retune level 1 labyrinth monstergroup (#87113)

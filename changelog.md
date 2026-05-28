@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-28-0953 ([7a8248e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-0953))
+
+* fix crazy turret room in labyrinth ([#87274](https://github.com/CleverRaven/Cataclysm-DDA/pull/87274))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-28-0659 ([de78646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-0659))
 
 * fixes smokes' inventory. fixes welding wire prices ([#87263](https://github.com/CleverRaven/Cataclysm-DDA/pull/87263))
@@ -143,11 +149,6 @@
 #### Cataclysm-DDA experimental build 2026-05-24-1940 ([8510866](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1940))
 
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-24-1654 ([122c5f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-24-1654))
-
 * Add dialogue effect for adding and removing wounds ([#87196](https://github.com/CleverRaven/Cataclysm-DDA/pull/87196))
 * put decharged items in containers ([#87190](https://github.com/CleverRaven/Cataclysm-DDA/pull/87190))
 * Sort itemgroups (5): Beverage ([#87167](https://github.com/CleverRaven/Cataclysm-DDA/pull/87167))
@@ -204,7 +205,6 @@
 * Remove npc spawn from some scenarios ([#87125](https://github.com/CleverRaven/Cataclysm-DDA/pull/87125))
 * 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
-* Exodii cyborgs can swap limbs ([#87112](https://github.com/CleverRaven/Cataclysm-DDA/pull/87112))
 * Styrofoam ([#87115](https://github.com/CleverRaven/Cataclysm-DDA/pull/87115))
 * More descending stairs in labyrinth level 1 ([#87114](https://github.com/CleverRaven/Cataclysm-DDA/pull/87114))
 * retune level 1 labyrinth monstergroup ([#87113](https://github.com/CleverRaven/Cataclysm-DDA/pull/87113))
