@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-29-0120 ([23839b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0120))
+
+* Fix vehicle shape preview not working when installing adjacent to a frame ([#87280](https://github.com/CleverRaven/Cataclysm-DDA/pull/87280))
+* Obsolete Limp_WIP mod ([#87281](https://github.com/CleverRaven/Cataclysm-DDA/pull/87281))
+* Fix Innawood Paraclesian hobbies ([#87283](https://github.com/CleverRaven/Cataclysm-DDA/pull/87283))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-29-0023 ([63a8f77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0023))
+
+* Labyrinth safehouse: Autodoc upgrade ([#87284](https://github.com/CleverRaven/Cataclysm-DDA/pull/87284))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-28-1915 ([72fba8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-1915))
 
 * Wasps no longer have custom limb targeting weights for their bite attack ([#87278](https://github.com/CleverRaven/Cataclysm-DDA/pull/87278))
@@ -142,11 +156,6 @@
 
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
 * Fix freeze from zero-volume sounds in monster sound clustering ([#87209](https://github.com/CleverRaven/Cataclysm-DDA/pull/87209))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-0047 ([e030880](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0047))
-
 * Supernatural Power menu says `Choose a Supernatural Power` ([#87202](https://github.com/CleverRaven/Cataclysm-DDA/pull/87202))
 * Scarves cover beaks and muzzles ([#87201](https://github.com/CleverRaven/Cataclysm-DDA/pull/87201))
 * Fix For Issue #87199 (Jumbo Treefrog Description Typo) ([#87207](https://github.com/CleverRaven/Cataclysm-DDA/pull/87207))
@@ -196,8 +205,6 @@
 * Make varmint air rifle spawn ([#87124](https://github.com/CleverRaven/Cataclysm-DDA/pull/87124))
 * Aftershock: Slightly nerf Veles robots. ([#87143](https://github.com/CleverRaven/Cataclysm-DDA/pull/87143))
 * [XE] Edit the living-drinker vampire weakness ([#87142](https://github.com/CleverRaven/Cataclysm-DDA/pull/87142))
-* Sort itemgroups (4): Spice ([#87118](https://github.com/CleverRaven/Cataclysm-DDA/pull/87118))
-* Add New Vegetables - part. 1 ([#87117](https://github.com/CleverRaven/Cataclysm-DDA/pull/87117))
 * Exodii surgeon can sell, install, uninstall, and properly repair bionic limbs, all for a price ([#87131](https://github.com/CleverRaven/Cataclysm-DDA/pull/87131))
 * Cakes, Pies, and Pizzas all come in slices ([#87140](https://github.com/CleverRaven/Cataclysm-DDA/pull/87140))
 * [classic_zombies] Fix portable cassette player use action error ([#87133](https://github.com/CleverRaven/Cataclysm-DDA/pull/87133))
@@ -208,4 +215,3 @@
 * Remove npc spawn from some scenarios ([#87125](https://github.com/CleverRaven/Cataclysm-DDA/pull/87125))
 * 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
-* Show monster difficulty rating in the look panel ([#87121](https://github.com/CleverRaven/Cataclysm-DDA/pull/87121))
