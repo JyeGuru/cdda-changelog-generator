@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-29-0507 ([0b56631](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0507))
+
+* Some more fixes for character creator ui ([#87243](https://github.com/CleverRaven/Cataclysm-DDA/pull/87243))
+* Adding tire fault and fixing some bugs ([#87250](https://github.com/CleverRaven/Cataclysm-DDA/pull/87250))
+* Aftershock: Carbide amor faults ([#87254](https://github.com/CleverRaven/Cataclysm-DDA/pull/87254))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-29-0413 ([c0841f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0413))
+
+* Compound Eyes is now a bodypart ([#87287](https://github.com/CleverRaven/Cataclysm-DDA/pull/87287))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-29-0120 ([23839b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0120))
 
 * Fix vehicle shape preview not working when installing adjacent to a frame ([#87280](https://github.com/CleverRaven/Cataclysm-DDA/pull/87280))
@@ -202,7 +216,6 @@
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM ([#87154](https://github.com/CleverRaven/Cataclysm-DDA/pull/87154))
 * Rename construction "Build Metal Rack" -> "Build Display Rack" ([#87156](https://github.com/CleverRaven/Cataclysm-DDA/pull/87156))
 * Prettify weight/volume display ([#87139](https://github.com/CleverRaven/Cataclysm-DDA/pull/87139))
-* Make varmint air rifle spawn ([#87124](https://github.com/CleverRaven/Cataclysm-DDA/pull/87124))
 * Aftershock: Slightly nerf Veles robots. ([#87143](https://github.com/CleverRaven/Cataclysm-DDA/pull/87143))
 * [XE] Edit the living-drinker vampire weakness ([#87142](https://github.com/CleverRaven/Cataclysm-DDA/pull/87142))
 * Exodii surgeon can sell, install, uninstall, and properly repair bionic limbs, all for a price ([#87131](https://github.com/CleverRaven/Cataclysm-DDA/pull/87131))
@@ -210,8 +223,6 @@
 * [classic_zombies] Fix portable cassette player use action error ([#87133](https://github.com/CleverRaven/Cataclysm-DDA/pull/87133))
 * Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards ([#87135](https://github.com/CleverRaven/Cataclysm-DDA/pull/87135))
 * Fix crash when opening inventory with bare barrel-swappable gun ([#87136](https://github.com/CleverRaven/Cataclysm-DDA/pull/87136))
-* Remove old radio itemgroup ([#87126](https://github.com/CleverRaven/Cataclysm-DDA/pull/87126))
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
-* Remove npc spawn from some scenarios ([#87125](https://github.com/CleverRaven/Cataclysm-DDA/pull/87125))
 * 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
 * Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))
