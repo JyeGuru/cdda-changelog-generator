@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-29-1348 ([de6af69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-1348))
+
+* typo in Weather Permitting ("a a" -> "a") ([#87294](https://github.com/CleverRaven/Cataclysm-DDA/pull/87294))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-29-0507 ([0b56631](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0507))
 
 * Some more fixes for character creator ui ([#87243](https://github.com/CleverRaven/Cataclysm-DDA/pull/87243))
@@ -163,11 +169,6 @@
 
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * Bone cleanup ([#87185](https://github.com/CleverRaven/Cataclysm-DDA/pull/87185))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-0504 ([265ae6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0504))
-
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
 * Fix freeze from zero-volume sounds in monster sound clustering ([#87209](https://github.com/CleverRaven/Cataclysm-DDA/pull/87209))
 * Supernatural Power menu says `Choose a Supernatural Power` ([#87202](https://github.com/CleverRaven/Cataclysm-DDA/pull/87202))
@@ -225,4 +226,3 @@
 * Fix crash when opening inventory with bare barrel-swappable gun ([#87136](https://github.com/CleverRaven/Cataclysm-DDA/pull/87136))
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
 * 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
-* Fix safe in house_25 ([#87128](https://github.com/CleverRaven/Cataclysm-DDA/pull/87128))

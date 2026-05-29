@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-29-1348 (de6af69)
+* typo in Weather Permitting ("a a" -> "a") (#87294)
+
 Cataclysm-DDA experimental build 2026-05-29-0507 (0b56631)
 * Some more fixes for character creator ui (#87243)
 * Adding tire fault and fixing some bugs (#87250)
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-05-25-0859 (c7e22ea)
 Cataclysm-DDA experimental build 2026-05-25-0540 (d3316af)
 * Sort itemgroups (6): Fastfood (#87212)
 * Bone cleanup (#87185)
-
-Cataclysm-DDA experimental build 2026-05-25-0504 (265ae6a)
 * [XE] Implement asking others for dreamdross. (#87213)
 * Fix freeze from zero-volume sounds in monster sound clustering (#87209)
 * Supernatural Power menu says `Choose a Supernatural Power` (#87202)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-05-25-0504 (265ae6a)
 * Fix crash when opening inventory with bare barrel-swappable gun (#87136)
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder (#87132)
 * 10 rooms for labyrinth level 1 (#87130)
-* Fix safe in house_25 (#87128)
