@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-29-2102 (cc9dbf2)
+* Use safe_reference for deferred explosion source (#87292)
+
 Cataclysm-DDA experimental build 2026-05-29-1348 (de6af69)
 * typo in Weather Permitting ("a a" -> "a") (#87294)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-05-25-1003 (61fb117)
 
 Cataclysm-DDA experimental build 2026-05-25-0859 (c7e22ea)
 * Upgrade vendored ImGui to 1.92.8 (#87137)
-
-Cataclysm-DDA experimental build 2026-05-25-0540 (d3316af)
 * Sort itemgroups (6): Fastfood (#87212)
 * Bone cleanup (#87185)
 * [XE] Implement asking others for dreamdross. (#87213)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-05-25-0540 (d3316af)
 * Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards (#87135)
 * Fix crash when opening inventory with bare barrel-swappable gun (#87136)
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder (#87132)
-* 10 rooms for labyrinth level 1 (#87130)

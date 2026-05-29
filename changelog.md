@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-29-2102 ([cc9dbf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-2102))
+
+* Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-29-1348 ([de6af69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-1348))
 
 * typo in Weather Permitting ("a a" -> "a") ([#87294](https://github.com/CleverRaven/Cataclysm-DDA/pull/87294))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-05-25-0859 ([c7e22ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0859))
 
 * Upgrade vendored ImGui to 1.92.8 ([#87137](https://github.com/CleverRaven/Cataclysm-DDA/pull/87137))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-0540 ([d3316af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0540))
-
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * Bone cleanup ([#87185](https://github.com/CleverRaven/Cataclysm-DDA/pull/87185))
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
@@ -225,4 +226,3 @@
 * Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards ([#87135](https://github.com/CleverRaven/Cataclysm-DDA/pull/87135))
 * Fix crash when opening inventory with bare barrel-swappable gun ([#87136](https://github.com/CleverRaven/Cataclysm-DDA/pull/87136))
 * Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
-* 10 rooms for labyrinth level 1 ([#87130](https://github.com/CleverRaven/Cataclysm-DDA/pull/87130))
