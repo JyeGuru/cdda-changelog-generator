@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-30-0108 ([f8a0868](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-0108))
+
+* Migrate Android to SDL3 via CMake + AAR, bump buildkit ([#87290](https://github.com/CleverRaven/Cataclysm-DDA/pull/87290))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-29-2102 ([cc9dbf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-2102))
 
 * Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
@@ -162,12 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-05-25-1003 ([61fb117](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1003))
 
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-0859 ([c7e22ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-0859))
-
-* Upgrade vendored ImGui to 1.92.8 ([#87137](https://github.com/CleverRaven/Cataclysm-DDA/pull/87137))
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * Bone cleanup ([#87185](https://github.com/CleverRaven/Cataclysm-DDA/pull/87185))
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
@@ -220,9 +220,4 @@
 * Prettify weight/volume display ([#87139](https://github.com/CleverRaven/Cataclysm-DDA/pull/87139))
 * Aftershock: Slightly nerf Veles robots. ([#87143](https://github.com/CleverRaven/Cataclysm-DDA/pull/87143))
 * [XE] Edit the living-drinker vampire weakness ([#87142](https://github.com/CleverRaven/Cataclysm-DDA/pull/87142))
-* Exodii surgeon can sell, install, uninstall, and properly repair bionic limbs, all for a price ([#87131](https://github.com/CleverRaven/Cataclysm-DDA/pull/87131))
 * Cakes, Pies, and Pizzas all come in slices ([#87140](https://github.com/CleverRaven/Cataclysm-DDA/pull/87140))
-* [classic_zombies] Fix portable cassette player use action error ([#87133](https://github.com/CleverRaven/Cataclysm-DDA/pull/87133))
-* Rubik & Venn will fully cyborgify you if you're trusted enough, outside mission rewards ([#87135](https://github.com/CleverRaven/Cataclysm-DDA/pull/87135))
-* Fix crash when opening inventory with bare barrel-swappable gun ([#87136](https://github.com/CleverRaven/Cataclysm-DDA/pull/87136))
-* Fix `ammo_parts` itemgroup spawning thousands of bottles of gunpowder ([#87132](https://github.com/CleverRaven/Cataclysm-DDA/pull/87132))
