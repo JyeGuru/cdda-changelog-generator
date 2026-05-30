@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-30-1801 ([f3561cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-1801))
+
+* Fix search field not losing focus in keybinds menu ([#87262](https://github.com/CleverRaven/Cataclysm-DDA/pull/87262))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-30-0358 ([a92fa7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-0358))
 
 * Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge ([#87309](https://github.com/CleverRaven/Cataclysm-DDA/pull/87309))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-05-25-1136 ([7e0d024](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1136))
 
 * Fungal terrain doesn't spread fire ([#87197](https://github.com/CleverRaven/Cataclysm-DDA/pull/87197))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-1058 ([feb34c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1058))
-
 * plate armor coverages ([#87181](https://github.com/CleverRaven/Cataclysm-DDA/pull/87181))
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
@@ -218,5 +219,3 @@
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM ([#87154](https://github.com/CleverRaven/Cataclysm-DDA/pull/87154))
 * Rename construction "Build Metal Rack" -> "Build Display Rack" ([#87156](https://github.com/CleverRaven/Cataclysm-DDA/pull/87156))
 * Aftershock: Slightly nerf Veles robots. ([#87143](https://github.com/CleverRaven/Cataclysm-DDA/pull/87143))
-* [XE] Edit the living-drinker vampire weakness ([#87142](https://github.com/CleverRaven/Cataclysm-DDA/pull/87142))
-* Cakes, Pies, and Pizzas all come in slices ([#87140](https://github.com/CleverRaven/Cataclysm-DDA/pull/87140))

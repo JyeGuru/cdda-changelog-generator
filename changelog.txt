@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-30-1801 (f3561cd)
+* Fix search field not losing focus in keybinds menu (#87262)
+
 Cataclysm-DDA experimental build 2026-05-30-0358 (a92fa7b)
 * Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge (#87309)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-05-25-1221 (db2cc11)
 
 Cataclysm-DDA experimental build 2026-05-25-1136 (7e0d024)
 * Fungal terrain doesn't spread fire (#87197)
-
-Cataclysm-DDA experimental build 2026-05-25-1058 (feb34c5)
 * plate armor coverages (#87181)
 * Weekly Changelog 2026-05-18 to 2026-05-25 (#87216)
 * Sort itemgroups (6): Fastfood (#87212)
@@ -137,5 +138,3 @@ Cataclysm-DDA experimental build 2026-05-25-1058 (feb34c5)
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM (#87154)
 * Rename construction "Build Metal Rack" -> "Build Display Rack" (#87156)
 * Aftershock: Slightly nerf Veles robots. (#87143)
-* [XE] Edit the living-drinker vampire weakness (#87142)
-* Cakes, Pies, and Pizzas all come in slices (#87140)
