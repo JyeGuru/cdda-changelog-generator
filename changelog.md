@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-30-0358 ([a92fa7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-0358))
+
+* Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge ([#87309](https://github.com/CleverRaven/Cataclysm-DDA/pull/87309))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-30-0108 ([f8a0868](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-0108))
 
 * Migrate Android to SDL3 via CMake + AAR, bump buildkit ([#87290](https://github.com/CleverRaven/Cataclysm-DDA/pull/87290))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-05-25-1058 ([feb34c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1058))
 
 * plate armor coverages ([#87181](https://github.com/CleverRaven/Cataclysm-DDA/pull/87181))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-1003 ([61fb117](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1003))
-
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * Bone cleanup ([#87185](https://github.com/CleverRaven/Cataclysm-DDA/pull/87185))
@@ -205,7 +206,6 @@
 * Palettize strip clubs ([#87168](https://github.com/CleverRaven/Cataclysm-DDA/pull/87168))
 * Adding High Density Polyethylene (HDPE) ([#87157](https://github.com/CleverRaven/Cataclysm-DDA/pull/87157))
 * Add makeup kit to beauty itemgroup ([#87169](https://github.com/CleverRaven/Cataclysm-DDA/pull/87169))
-* Fix Description ([#87138](https://github.com/CleverRaven/Cataclysm-DDA/pull/87138))
 * Cash register impulse buy item group ([#87148](https://github.com/CleverRaven/Cataclysm-DDA/pull/87148))
 * Multi-activity fetch segfault fix ([#87159](https://github.com/CleverRaven/Cataclysm-DDA/pull/87159))
 * [MoM] Using censer from the Highlands raises your Nether Attunement ([#87160](https://github.com/CleverRaven/Cataclysm-DDA/pull/87160))
