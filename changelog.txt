@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-05-30-2115 (30509bf)
 * Sort itemgroups (8): Misc (#87261)
 * fix: compare menu shown under crafting menu (#87259)
 * [Hunvre] Start writing documentation for Hunvre, also add a content tracker (#87246)
@@ -87,8 +89,6 @@ Cataclysm-DDA experimental build 2026-05-25-2035 (34947c8)
 
 Cataclysm-DDA experimental build 2026-05-25-1808 (9e0085c)
 * make radiosphere weather rainy and some minor tweaks  (#87219)
-
-Cataclysm-DDA experimental build 2026-05-25-1221 (db2cc11)
 * Make gray fur and its summer variant cover paws (#87214)
 * Fungal terrain doesn't spread fire (#87197)
 * plate armor coverages (#87181)

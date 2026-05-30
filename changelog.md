@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-30-2115 ([30509bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-2115))
+
 * Sort itemgroups (8): Misc ([#87261](https://github.com/CleverRaven/Cataclysm-DDA/pull/87261))
 * fix: compare menu shown under crafting menu ([#87259](https://github.com/CleverRaven/Cataclysm-DDA/pull/87259))
 * [Hunvre] Start writing documentation for Hunvre, also add a content tracker ([#87246](https://github.com/CleverRaven/Cataclysm-DDA/pull/87246))
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-05-25-1808 ([9e0085c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1808))
 
 * make radiosphere weather rainy and some minor tweaks  ([#87219](https://github.com/CleverRaven/Cataclysm-DDA/pull/87219))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-1221 ([db2cc11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1221))
-
 * Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
 * Fungal terrain doesn't spread fire ([#87197](https://github.com/CleverRaven/Cataclysm-DDA/pull/87197))
 * plate armor coverages ([#87181](https://github.com/CleverRaven/Cataclysm-DDA/pull/87181))
