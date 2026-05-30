@@ -1,3 +1,12 @@
+* Sort itemgroups (8): Misc ([#87261](https://github.com/CleverRaven/Cataclysm-DDA/pull/87261))
+* fix: compare menu shown under crafting menu ([#87259](https://github.com/CleverRaven/Cataclysm-DDA/pull/87259))
+* [Hunvre] Start writing documentation for Hunvre, also add a content tracker ([#87246](https://github.com/CleverRaven/Cataclysm-DDA/pull/87246))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-05-30-2008 ([6a7cae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-2008))
+
+* Bump android release workflow java version to 17 ([#87318](https://github.com/CleverRaven/Cataclysm-DDA/pull/87318))
 
 ---
 
@@ -162,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-05-25-1221 ([db2cc11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1221))
 
 * Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-1136 ([7e0d024](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1136))
-
 * Fungal terrain doesn't spread fire ([#87197](https://github.com/CleverRaven/Cataclysm-DDA/pull/87197))
 * plate armor coverages ([#87181](https://github.com/CleverRaven/Cataclysm-DDA/pull/87181))
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
@@ -188,7 +192,6 @@
 * De-charge a bunch of stuff that should never have had charges (4) ([#87180](https://github.com/CleverRaven/Cataclysm-DDA/pull/87180))
 * Fix SDL3 sound freeze from mixer lock-order deadlock ([#87189](https://github.com/CleverRaven/Cataclysm-DDA/pull/87189))
 * Charged tools on unattended crafting steps ([#87179](https://github.com/CleverRaven/Cataclysm-DDA/pull/87179))
-* [ Xedra Evolved ] Fixes for evil horses ([#87147](https://github.com/CleverRaven/Cataclysm-DDA/pull/87147))
 * 1b Exodii Cyborgs are no longer considered large ([#87186](https://github.com/CleverRaven/Cataclysm-DDA/pull/87186))
 * Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
 * Add New Vegetables - part. 2 ([#87149](https://github.com/CleverRaven/Cataclysm-DDA/pull/87149))
@@ -201,7 +204,6 @@
 * Nerf Hub 01 bionic limb performance, modestly buff protection ([#87152](https://github.com/CleverRaven/Cataclysm-DDA/pull/87152))
 * Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))
 * Clean up gear_civilian.json ([#87164](https://github.com/CleverRaven/Cataclysm-DDA/pull/87164))
-* mail changes. plate changes ([#87144](https://github.com/CleverRaven/Cataclysm-DDA/pull/87144))
 * Fix crash spawning items with a null default ammo or magazine slot ([#87163](https://github.com/CleverRaven/Cataclysm-DDA/pull/87163))
 * Update trash found on highways ([#87170](https://github.com/CleverRaven/Cataclysm-DDA/pull/87170))
 * Palettize strip clubs ([#87168](https://github.com/CleverRaven/Cataclysm-DDA/pull/87168))
@@ -211,11 +213,9 @@
 * Multi-activity fetch segfault fix ([#87159](https://github.com/CleverRaven/Cataclysm-DDA/pull/87159))
 * [MoM] Using censer from the Highlands raises your Nether Attunement ([#87160](https://github.com/CleverRaven/Cataclysm-DDA/pull/87160))
 * [MoM] Dimensional Anchors will eventually cancel your concentration powers ([#87162](https://github.com/CleverRaven/Cataclysm-DDA/pull/87162))
-* [Sky Island] Keep exit room mission markers ([#87146](https://github.com/CleverRaven/Cataclysm-DDA/pull/87146))
 * [MoM: Psychic Scream] Make the Psychic trait visible ([#87158](https://github.com/CleverRaven/Cataclysm-DDA/pull/87158))
 * broken bionic limbs cannot be mended with splints, can be repaired from 0 ([#87150](https://github.com/CleverRaven/Cataclysm-DDA/pull/87150))
 * Ignore root dotfiles by default in .gitignore ([#87153](https://github.com/CleverRaven/Cataclysm-DDA/pull/87153))
 * Update vehicle shape menu ([#87151](https://github.com/CleverRaven/Cataclysm-DDA/pull/87151))
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM ([#87154](https://github.com/CleverRaven/Cataclysm-DDA/pull/87154))
 * Rename construction "Build Metal Rack" -> "Build Display Rack" ([#87156](https://github.com/CleverRaven/Cataclysm-DDA/pull/87156))
-* Aftershock: Slightly nerf Veles robots. ([#87143](https://github.com/CleverRaven/Cataclysm-DDA/pull/87143))
