@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-31-0623 (bd1c2ee)
+* [XedraWood] Remove everything unnecessary to water redefinition (#87336)
+
 Cataclysm-DDA experimental build 2026-05-31-0012 (ca28ae5)
 * Scenario: Challenge - Labyrinth Bound (#87325)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-05-26-0534 (feb761b)
 Cataclysm-DDA experimental build 2026-05-25-2139 (6861ef7)
 * Fix separators bleeding color into curses menus (#87224)
 * Fireproofing the fungal wall monster (#87225)
-
-Cataclysm-DDA experimental build 2026-05-25-2035 (34947c8)
 * Move Changeling `PSYCHOPATH`-granting traits to flags (#87228)
 * make radiosphere weather rainy and some minor tweaks  (#87219)
 * Make gray fur and its summer variant cover paws (#87214)
@@ -114,7 +115,6 @@ Cataclysm-DDA experimental build 2026-05-25-2035 (34947c8)
 * Charged tools on unattended crafting steps (#87179)
 * 1b Exodii Cyborgs are no longer considered large (#87186)
 * Fix minimap drawing over the Mouse View UI (#87191)
-* Add New Vegetables - part. 2 (#87149)
 * Speed up spawning item groups into containers (#87184)
 * Aftershock: Add light switches to the vanishing arc. (#87183)
 * More nuanced Hub 01-Exodii full cyborg aggression (#87173)
