@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-31-0012 ([ca28ae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-0012))
+
+* Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-30-2115 ([30509bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-2115))
 
 * Sort itemgroups (8): Misc ([#87261](https://github.com/CleverRaven/Cataclysm-DDA/pull/87261))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-05-25-2035 ([34947c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-2035))
 
 * Move Changeling `PSYCHOPATH`-granting traits to flags ([#87228](https://github.com/CleverRaven/Cataclysm-DDA/pull/87228))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-1808 ([9e0085c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-1808))
-
 * make radiosphere weather rainy and some minor tweaks  ([#87219](https://github.com/CleverRaven/Cataclysm-DDA/pull/87219))
 * Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
 * Fungal terrain doesn't spread fire ([#87197](https://github.com/CleverRaven/Cataclysm-DDA/pull/87197))
@@ -209,7 +210,6 @@
 * Palettize strip clubs ([#87168](https://github.com/CleverRaven/Cataclysm-DDA/pull/87168))
 * Adding High Density Polyethylene (HDPE) ([#87157](https://github.com/CleverRaven/Cataclysm-DDA/pull/87157))
 * Add makeup kit to beauty itemgroup ([#87169](https://github.com/CleverRaven/Cataclysm-DDA/pull/87169))
-* Cash register impulse buy item group ([#87148](https://github.com/CleverRaven/Cataclysm-DDA/pull/87148))
 * Multi-activity fetch segfault fix ([#87159](https://github.com/CleverRaven/Cataclysm-DDA/pull/87159))
 * [MoM] Using censer from the Highlands raises your Nether Attunement ([#87160](https://github.com/CleverRaven/Cataclysm-DDA/pull/87160))
 * [MoM] Dimensional Anchors will eventually cancel your concentration powers ([#87162](https://github.com/CleverRaven/Cataclysm-DDA/pull/87162))

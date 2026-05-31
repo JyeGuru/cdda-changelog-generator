@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-31-0012 (ca28ae5)
+* Scenario: Challenge - Labyrinth Bound (#87325)
+
 Cataclysm-DDA experimental build 2026-05-30-2115 (30509bf)
 * Sort itemgroups (8): Misc (#87261)
 * fix: compare menu shown under crafting menu (#87259)
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-05-25-2139 (6861ef7)
 
 Cataclysm-DDA experimental build 2026-05-25-2035 (34947c8)
 * Move Changeling `PSYCHOPATH`-granting traits to flags (#87228)
-
-Cataclysm-DDA experimental build 2026-05-25-1808 (9e0085c)
 * make radiosphere weather rainy and some minor tweaks  (#87219)
 * Make gray fur and its summer variant cover paws (#87214)
 * Fungal terrain doesn't spread fire (#87197)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2026-05-25-1808 (9e0085c)
 * Palettize strip clubs (#87168)
 * Adding High Density Polyethylene (HDPE) (#87157)
 * Add makeup kit to beauty itemgroup (#87169)
-* Cash register impulse buy item group (#87148)
 * Multi-activity fetch segfault fix (#87159)
 * [MoM] Using censer from the Highlands raises your Nether Attunement (#87160)
 * [MoM] Dimensional Anchors will eventually cancel your concentration powers (#87162)
