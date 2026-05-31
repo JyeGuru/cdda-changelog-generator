@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-31-1918 (e93515a)
+* Conflicts for Aftershock Exoplanet and Massachussetts Mod (#87327)
+
 Cataclysm-DDA experimental build 2026-05-31-1437 (3787a03)
 * De-charge graphite, nuts and bolts (#87332)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-05-26-0928 (9083db5)
 
 Cataclysm-DDA experimental build 2026-05-26-0839 (61812b4)
 * Fix #87038 (#87238)
-
-Cataclysm-DDA experimental build 2026-05-26-0534 (feb761b)
 * Add default paws, set claws to link to default paws, add glove coverage for paws (#87237)
 * Fix separators bleeding color into curses menus (#87224)
 * Fireproofing the fungal wall monster (#87225)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2026-05-26-0534 (feb761b)
 * [MoM] Dimensional Anchors will eventually cancel your concentration powers (#87162)
 * [MoM: Psychic Scream] Make the Psychic trait visible (#87158)
 * Ignore root dotfiles by default in .gitignore (#87153)
-* Update vehicle shape menu (#87151)
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM (#87154)
 * Rename construction "Build Metal Rack" -> "Build Display Rack" (#87156)
