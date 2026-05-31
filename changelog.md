@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-31-2009 ([ad6285b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-2009))
+
+* [XEDRA Evolved] Fix XE dream snippets not appearing ([#87339](https://github.com/CleverRaven/Cataclysm-DDA/pull/87339))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-31-1918 ([e93515a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-1918))
 
 * Conflicts for Aftershock Exoplanet and Massachussetts Mod ([#87327](https://github.com/CleverRaven/Cataclysm-DDA/pull/87327))
@@ -204,7 +210,6 @@
 * HIDDEN_SPELL Flag for spells ([#87171](https://github.com/CleverRaven/Cataclysm-DDA/pull/87171))
 * [XE] Two new blood art refinements ([#87166](https://github.com/CleverRaven/Cataclysm-DDA/pull/87166))
 * Consume crafting tools per recipe step ([#87178](https://github.com/CleverRaven/Cataclysm-DDA/pull/87178))
-* Nerf Hub 01 bionic limb performance, modestly buff protection ([#87152](https://github.com/CleverRaven/Cataclysm-DDA/pull/87152))
 * Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))
 * Clean up gear_civilian.json ([#87164](https://github.com/CleverRaven/Cataclysm-DDA/pull/87164))
 * Fix crash spawning items with a null default ammo or magazine slot ([#87163](https://github.com/CleverRaven/Cataclysm-DDA/pull/87163))
