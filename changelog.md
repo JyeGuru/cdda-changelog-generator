@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-31-2339 ([dd49cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-2339))
+
+* Sort itemgroups (9): Jewelry ([#87349](https://github.com/CleverRaven/Cataclysm-DDA/pull/87349))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-31-2151 ([1de70bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-2151))
 
 * Minor itemgroup fixes ([#87348](https://github.com/CleverRaven/Cataclysm-DDA/pull/87348))
@@ -170,11 +176,6 @@
 * labyrinth level 2 slightly less tedious to explore ([#87244](https://github.com/CleverRaven/Cataclysm-DDA/pull/87244))
 * Split the MSVC static library in two to fix the 4GB archive limit ([#87241](https://github.com/CleverRaven/Cataclysm-DDA/pull/87241))
 * Fix fire extinguishers in evac shelters ([#87239](https://github.com/CleverRaven/Cataclysm-DDA/pull/87239))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-26-0928 ([9083db5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-26-0928))
-
 * Recipes for charged items must specify charges ([#87177](https://github.com/CleverRaven/Cataclysm-DDA/pull/87177))
 * Fix #87038 ([#87238](https://github.com/CleverRaven/Cataclysm-DDA/pull/87238))
 * Add default paws, set claws to link to default paws, add glove coverage for paws ([#87237](https://github.com/CleverRaven/Cataclysm-DDA/pull/87237))
@@ -200,7 +201,6 @@
 * Sort itemgroups (5): Beverage ([#87167](https://github.com/CleverRaven/Cataclysm-DDA/pull/87167))
 * Revert "Adding High Density Polyethylene (HDPE)" ([#87188](https://github.com/CleverRaven/Cataclysm-DDA/pull/87188))
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
-* `Blank body` can copy your appearance ([#87155](https://github.com/CleverRaven/Cataclysm-DDA/pull/87155))
 * De-charge a bunch of stuff that should never have had charges (4) ([#87180](https://github.com/CleverRaven/Cataclysm-DDA/pull/87180))
 * Fix SDL3 sound freeze from mixer lock-order deadlock ([#87189](https://github.com/CleverRaven/Cataclysm-DDA/pull/87189))
 * Charged tools on unattended crafting steps ([#87179](https://github.com/CleverRaven/Cataclysm-DDA/pull/87179))
