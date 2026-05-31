@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-05-31-1437 (3787a03)
+* De-charge graphite, nuts and bolts (#87332)
+
 Cataclysm-DDA experimental build 2026-05-31-0623 (bd1c2ee)
 * [XedraWood] Remove everything unnecessary to water redefinition (#87336)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-05-26-0839 (61812b4)
 
 Cataclysm-DDA experimental build 2026-05-26-0534 (feb761b)
 * Add default paws, set claws to link to default paws, add glove coverage for paws (#87237)
-
-Cataclysm-DDA experimental build 2026-05-25-2139 (6861ef7)
 * Fix separators bleeding color into curses menus (#87224)
 * Fireproofing the fungal wall monster (#87225)
 * Move Changeling `PSYCHOPATH`-granting traits to flags (#87228)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2026-05-25-2139 (6861ef7)
 * [MoM] Using censer from the Highlands raises your Nether Attunement (#87160)
 * [MoM] Dimensional Anchors will eventually cancel your concentration powers (#87162)
 * [MoM: Psychic Scream] Make the Psychic trait visible (#87158)
-* broken bionic limbs cannot be mended with splints, can be repaired from 0 (#87150)
 * Ignore root dotfiles by default in .gitignore (#87153)
 * Update vehicle shape menu (#87151)
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM (#87154)

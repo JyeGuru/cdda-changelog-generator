@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-05-31-1437 ([3787a03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-1437))
+
+* De-charge graphite, nuts and bolts ([#87332](https://github.com/CleverRaven/Cataclysm-DDA/pull/87332))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-05-31-0623 ([bd1c2ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-0623))
 
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
@@ -163,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-05-26-0534 ([feb761b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-26-0534))
 
 * Add default paws, set claws to link to default paws, add glove coverage for paws ([#87237](https://github.com/CleverRaven/Cataclysm-DDA/pull/87237))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-25-2139 ([6861ef7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-25-2139))
-
 * Fix separators bleeding color into curses menus ([#87224](https://github.com/CleverRaven/Cataclysm-DDA/pull/87224))
 * Fireproofing the fungal wall monster ([#87225](https://github.com/CleverRaven/Cataclysm-DDA/pull/87225))
 * Move Changeling `PSYCHOPATH`-granting traits to flags ([#87228](https://github.com/CleverRaven/Cataclysm-DDA/pull/87228))
@@ -214,7 +215,6 @@
 * [MoM] Using censer from the Highlands raises your Nether Attunement ([#87160](https://github.com/CleverRaven/Cataclysm-DDA/pull/87160))
 * [MoM] Dimensional Anchors will eventually cancel your concentration powers ([#87162](https://github.com/CleverRaven/Cataclysm-DDA/pull/87162))
 * [MoM: Psychic Scream] Make the Psychic trait visible ([#87158](https://github.com/CleverRaven/Cataclysm-DDA/pull/87158))
-* broken bionic limbs cannot be mended with splints, can be repaired from 0 ([#87150](https://github.com/CleverRaven/Cataclysm-DDA/pull/87150))
 * Ignore root dotfiles by default in .gitignore ([#87153](https://github.com/CleverRaven/Cataclysm-DDA/pull/87153))
 * Update vehicle shape menu ([#87151](https://github.com/CleverRaven/Cataclysm-DDA/pull/87151))
 * No perpetual motion cyborgs: nerf joint torsion ratchet CBM ([#87154](https://github.com/CleverRaven/Cataclysm-DDA/pull/87154))
