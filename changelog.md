@@ -1,3 +1,17 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-01-1421 ([221c786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-1421))
+
+* Fix SDL3 zoom crash from tint mask render target switch ([#87360](https://github.com/CleverRaven/Cataclysm-DDA/pull/87360))
+* labyrinth safehouse upgrade, change wire -> lc_wire ([#87352](https://github.com/CleverRaven/Cataclysm-DDA/pull/87352))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-01-1325 ([99b2e9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-1325))
+
+* Fix crafting performance ([#87343](https://github.com/CleverRaven/Cataclysm-DDA/pull/87343))
+* Sort ammotype declarations in multimag_matrix_test ([#87357](https://github.com/CleverRaven/Cataclysm-DDA/pull/87357))
 * Fix: AIM `examine menu > activate` overlaps item selection ([#87299](https://github.com/CleverRaven/Cataclysm-DDA/pull/87299))
 
 ---
@@ -170,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-05-28-0413 ([55384da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-0413))
 
 * fix MTF evolving into other devourers ([#87255](https://github.com/CleverRaven/Cataclysm-DDA/pull/87255))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-27-1638 ([e9f8f61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-27-1638))
-
 * Fix ImGui popups off-screen when scaled or on Android ([#87251](https://github.com/CleverRaven/Cataclysm-DDA/pull/87251))
 * [Hunvre] Add elevator buildings ([#87245](https://github.com/CleverRaven/Cataclysm-DDA/pull/87245))
 * Plate hotfix ([#87252](https://github.com/CleverRaven/Cataclysm-DDA/pull/87252))
@@ -204,7 +213,6 @@
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
 * Add dialogue effect for adding and removing wounds ([#87196](https://github.com/CleverRaven/Cataclysm-DDA/pull/87196))
 * put decharged items in containers ([#87190](https://github.com/CleverRaven/Cataclysm-DDA/pull/87190))
-* Sort itemgroups (5): Beverage ([#87167](https://github.com/CleverRaven/Cataclysm-DDA/pull/87167))
 * Revert "Adding High Density Polyethylene (HDPE)" ([#87188](https://github.com/CleverRaven/Cataclysm-DDA/pull/87188))
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
 * De-charge a bunch of stuff that should never have had charges (4) ([#87180](https://github.com/CleverRaven/Cataclysm-DDA/pull/87180))
@@ -216,11 +224,6 @@
 * Aftershock: Add light switches to the vanishing arc. ([#87183](https://github.com/CleverRaven/Cataclysm-DDA/pull/87183))
 * More nuanced Hub 01-Exodii full cyborg aggression ([#87173](https://github.com/CleverRaven/Cataclysm-DDA/pull/87173))
 * HIDDEN_SPELL Flag for spells ([#87171](https://github.com/CleverRaven/Cataclysm-DDA/pull/87171))
-* [XE] Two new blood art refinements ([#87166](https://github.com/CleverRaven/Cataclysm-DDA/pull/87166))
 * Consume crafting tools per recipe step ([#87178](https://github.com/CleverRaven/Cataclysm-DDA/pull/87178))
 * Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))
-* Clean up gear_civilian.json ([#87164](https://github.com/CleverRaven/Cataclysm-DDA/pull/87164))
-* Fix crash spawning items with a null default ammo or magazine slot ([#87163](https://github.com/CleverRaven/Cataclysm-DDA/pull/87163))
 * Update trash found on highways ([#87170](https://github.com/CleverRaven/Cataclysm-DDA/pull/87170))
-* Palettize strip clubs ([#87168](https://github.com/CleverRaven/Cataclysm-DDA/pull/87168))
-* Add makeup kit to beauty itemgroup ([#87169](https://github.com/CleverRaven/Cataclysm-DDA/pull/87169))
