@@ -1,3 +1,4 @@
+* Fix: AIM `examine menu > activate` overlaps item selection (#87299)
 
 Cataclysm-DDA experimental build 2026-06-01-0153 (afb0f42)
 * [Sky Island] Add triffid pollen to the list of effects that being healed removes (#87337)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2026-05-27-1638 (e9f8f61)
 * Update trash found on highways (#87170)
 * Palettize strip clubs (#87168)
 * Add makeup kit to beauty itemgroup (#87169)
-* [MoM] Dimensional Anchors will eventually cancel your concentration powers (#87162)

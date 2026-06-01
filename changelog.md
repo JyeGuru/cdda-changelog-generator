@@ -1,3 +1,4 @@
+* Fix: AIM `examine menu > activate` overlaps item selection ([#87299](https://github.com/CleverRaven/Cataclysm-DDA/pull/87299))
 
 ---
 
@@ -223,4 +224,3 @@
 * Update trash found on highways ([#87170](https://github.com/CleverRaven/Cataclysm-DDA/pull/87170))
 * Palettize strip clubs ([#87168](https://github.com/CleverRaven/Cataclysm-DDA/pull/87168))
 * Add makeup kit to beauty itemgroup ([#87169](https://github.com/CleverRaven/Cataclysm-DDA/pull/87169))
-* [MoM] Dimensional Anchors will eventually cancel your concentration powers ([#87162](https://github.com/CleverRaven/Cataclysm-DDA/pull/87162))
