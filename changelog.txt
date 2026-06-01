@@ -1,4 +1,15 @@
 
+Cataclysm-DDA experimental build 2026-06-01-0153 (afb0f42)
+* [Sky Island] Add triffid pollen to the list of effects that being healed removes (#87337)
+* Invalidate clang-tidy plugin cache on LLVM patch bumps (#87344)
+
+Cataclysm-DDA experimental build 2026-06-01-0100 (f518d4c)
+* [XE] Additions to the vampire hunter faction. (#87353)
+
+Cataclysm-DDA experimental build 2026-06-01-0016 (4c98ec5)
+* Fangs cover your muzzle (#87335)
+* Split fleshborgs into ranged & melee (#87341)
+
 Cataclysm-DDA experimental build 2026-05-31-2339 (dd49cc8)
 * Sort itemgroups (9): Jewelry (#87349)
 
@@ -80,15 +91,9 @@ Cataclysm-DDA experimental build 2026-05-28-0413 (55384da)
 
 Cataclysm-DDA experimental build 2026-05-27-1638 (e9f8f61)
 * Fix ImGui popups off-screen when scaled or on Android (#87251)
-
-Cataclysm-DDA experimental build 2026-05-27-0353 (a740c0d)
 * [Hunvre] Add elevator buildings (#87245)
 * Plate hotfix (#87252)
-
-Cataclysm-DDA experimental build 2026-05-27-0304 (9bfe5b3)
 * Sort itemgroups (7): Snacks (#87236)
-
-Cataclysm-DDA experimental build 2026-05-27-0143 (954ba50)
 * labyrinth level 2 slightly less tedious to explore (#87244)
 * Split the MSVC static library in two to fix the 4GB archive limit (#87241)
 * Fix fire extinguishers in evac shelters (#87239)
@@ -133,10 +138,5 @@ Cataclysm-DDA experimental build 2026-05-27-0143 (954ba50)
 * Fix crash spawning items with a null default ammo or magazine slot (#87163)
 * Update trash found on highways (#87170)
 * Palettize strip clubs (#87168)
-* Adding High Density Polyethylene (HDPE) (#87157)
 * Add makeup kit to beauty itemgroup (#87169)
-* Multi-activity fetch segfault fix (#87159)
-* [MoM] Using censer from the Highlands raises your Nether Attunement (#87160)
 * [MoM] Dimensional Anchors will eventually cancel your concentration powers (#87162)
-* [MoM: Psychic Scream] Make the Psychic trait visible (#87158)
-* Rename construction "Build Metal Rack" -> "Build Display Rack" (#87156)
