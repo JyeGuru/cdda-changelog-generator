@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-06-01-2107 (6a5eff9)
+* De-charge a bunch of stuff that should never have had charges (5) (#87323)
+
+Cataclysm-DDA experimental build 2026-06-01-2008 (4d1ee23)
+* Android: skip ccache compiler launcher when not on PATH (#87355)
+
 Cataclysm-DDA experimental build 2026-06-01-1421 (221c786)
 * Fix SDL3 zoom crash from tint mask render target switch (#87360)
 * labyrinth safehouse upgrade, change wire -> lc_wire (#87352)
@@ -91,11 +97,7 @@ Cataclysm-DDA experimental build 2026-05-28-1351 (9184883)
 
 Cataclysm-DDA experimental build 2026-05-28-0953 (7a8248e)
 * fix crazy turret room in labyrinth (#87274)
-
-Cataclysm-DDA experimental build 2026-05-28-0659 (de78646)
 * fixes smokes' inventory. fixes welding wire prices (#87263)
-
-Cataclysm-DDA experimental build 2026-05-28-0413 (55384da)
 * fix MTF evolving into other devourers (#87255)
 * Fix ImGui popups off-screen when scaled or on Android (#87251)
 * [Hunvre] Add elevator buildings (#87245)
@@ -136,7 +138,5 @@ Cataclysm-DDA experimental build 2026-05-28-0413 (55384da)
 * Speed up spawning item groups into containers (#87184)
 * Aftershock: Add light switches to the vanishing arc. (#87183)
 * More nuanced Hub 01-Exodii full cyborg aggression (#87173)
-* HIDDEN_SPELL Flag for spells (#87171)
 * Consume crafting tools per recipe step (#87178)
 * Add fire extinguishers to most locations (#87175)
-* Update trash found on highways (#87170)
