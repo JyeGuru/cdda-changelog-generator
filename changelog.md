@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-02-1450 ([59b28c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-1450))
+
+* Fix for subset of high severity density mismatches caused by decharging (Fixes #87293) ([#87334](https://github.com/CleverRaven/Cataclysm-DDA/pull/87334))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-02-1049 ([e7570fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-1049))
 
 * Weekly Changelog 2026-05-25 to 2026-06-01 ([#87359](https://github.com/CleverRaven/Cataclysm-DDA/pull/87359))
@@ -176,11 +182,6 @@
 * Some more fixes for character creator ui ([#87243](https://github.com/CleverRaven/Cataclysm-DDA/pull/87243))
 * Adding tire fault and fixing some bugs ([#87250](https://github.com/CleverRaven/Cataclysm-DDA/pull/87250))
 * Aftershock: Carbide amor faults ([#87254](https://github.com/CleverRaven/Cataclysm-DDA/pull/87254))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-29-0413 ([c0841f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0413))
-
 * Compound Eyes is now a bodypart ([#87287](https://github.com/CleverRaven/Cataclysm-DDA/pull/87287))
 * Fix vehicle shape preview not working when installing adjacent to a frame ([#87280](https://github.com/CleverRaven/Cataclysm-DDA/pull/87280))
 * Obsolete Limp_WIP mod ([#87281](https://github.com/CleverRaven/Cataclysm-DDA/pull/87281))
@@ -225,4 +226,3 @@
 * 1b Exodii Cyborgs are no longer considered large ([#87186](https://github.com/CleverRaven/Cataclysm-DDA/pull/87186))
 * Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
 * Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
-* Aftershock: Add light switches to the vanishing arc. ([#87183](https://github.com/CleverRaven/Cataclysm-DDA/pull/87183))
