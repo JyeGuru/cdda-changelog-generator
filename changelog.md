@@ -207,7 +207,6 @@
 * make radiosphere weather rainy and some minor tweaks  ([#87219](https://github.com/CleverRaven/Cataclysm-DDA/pull/87219))
 * Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
 * Fungal terrain doesn't spread fire ([#87197](https://github.com/CleverRaven/Cataclysm-DDA/pull/87197))
-* plate armor coverages ([#87181](https://github.com/CleverRaven/Cataclysm-DDA/pull/87181))
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * Bone cleanup ([#87185](https://github.com/CleverRaven/Cataclysm-DDA/pull/87185))
