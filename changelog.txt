@@ -1,3 +1,13 @@
+* implement math effect to check light level on tile (#87368)
+
+Cataclysm-DDA experimental build 2026-06-02-0549 (b8b7097)
+* [Innawood] Blacklist some recipes that you'll never make anyway (#87381)
+
+Cataclysm-DDA experimental build 2026-06-02-0321 (4089195)
+* Sort itemgroups (10): Accessories/Bags/Underwear (#87364)
+
+Cataclysm-DDA experimental build 2026-06-02-0232 (767b669)
+* [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it (#87372)
 
 Cataclysm-DDA experimental build 2026-06-01-2326 (7264e27)
 * [Magiclysm] No longer can you tame zombie aenóren (#87354)
@@ -88,14 +98,8 @@ Cataclysm-DDA experimental build 2026-05-29-0120 (23839b4)
 
 Cataclysm-DDA experimental build 2026-05-29-0023 (63a8f77)
 * Labyrinth safehouse: Autodoc upgrade (#87284)
-
-Cataclysm-DDA experimental build 2026-05-28-1915 (72fba8b)
 * Wasps no longer have custom limb targeting weights for their bite attack (#87278)
-
-Cataclysm-DDA experimental build 2026-05-28-1823 (9672765)
 * The Scarlet Sea (#87270)
-
-Cataclysm-DDA experimental build 2026-05-28-1351 (9184883)
 * Frog tongue no longer has a whip attack (#87272)
 * fix crazy turret room in labyrinth (#87274)
 * fixes smokes' inventory. fixes welding wire prices (#87263)
@@ -107,7 +111,6 @@ Cataclysm-DDA experimental build 2026-05-28-1351 (9184883)
 * labyrinth level 2 slightly less tedious to explore (#87244)
 * Split the MSVC static library in two to fix the 4GB archive limit (#87241)
 * Fix fire extinguishers in evac shelters (#87239)
-* Recipes for charged items must specify charges (#87177)
 * Fix #87038 (#87238)
 * Add default paws, set claws to link to default paws, add glove coverage for paws (#87237)
 * Fix separators bleeding color into curses menus (#87224)
@@ -133,10 +136,7 @@ Cataclysm-DDA experimental build 2026-05-28-1351 (9184883)
 * Recalculate enchantment cache after loading bionics in Character::load() (#87195)
 * De-charge a bunch of stuff that should never have had charges (4) (#87180)
 * Fix SDL3 sound freeze from mixer lock-order deadlock (#87189)
-* Charged tools on unattended crafting steps (#87179)
 * 1b Exodii Cyborgs are no longer considered large (#87186)
 * Fix minimap drawing over the Mouse View UI (#87191)
 * Speed up spawning item groups into containers (#87184)
 * Aftershock: Add light switches to the vanishing arc. (#87183)
-* Consume crafting tools per recipe step (#87178)
-* Add fire extinguishers to most locations (#87175)

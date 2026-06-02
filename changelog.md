@@ -1,3 +1,22 @@
+* implement math effect to check light level on tile ([#87368](https://github.com/CleverRaven/Cataclysm-DDA/pull/87368))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-02-0549 ([b8b7097](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0549))
+
+* [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-02-0321 ([4089195](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0321))
+
+* Sort itemgroups (10): Accessories/Bags/Underwear ([#87364](https://github.com/CleverRaven/Cataclysm-DDA/pull/87364))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-02-0232 ([767b669](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0232))
+
+* [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it ([#87372](https://github.com/CleverRaven/Cataclysm-DDA/pull/87372))
 
 ---
 
@@ -166,23 +185,8 @@
 #### Cataclysm-DDA experimental build 2026-05-29-0023 ([63a8f77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0023))
 
 * Labyrinth safehouse: Autodoc upgrade ([#87284](https://github.com/CleverRaven/Cataclysm-DDA/pull/87284))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-28-1915 ([72fba8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-1915))
-
 * Wasps no longer have custom limb targeting weights for their bite attack ([#87278](https://github.com/CleverRaven/Cataclysm-DDA/pull/87278))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-28-1823 ([9672765](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-1823))
-
 * The Scarlet Sea ([#87270](https://github.com/CleverRaven/Cataclysm-DDA/pull/87270))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-28-1351 ([9184883](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-1351))
-
 * Frog tongue no longer has a whip attack ([#87272](https://github.com/CleverRaven/Cataclysm-DDA/pull/87272))
 * fix crazy turret room in labyrinth ([#87274](https://github.com/CleverRaven/Cataclysm-DDA/pull/87274))
 * fixes smokes' inventory. fixes welding wire prices ([#87263](https://github.com/CleverRaven/Cataclysm-DDA/pull/87263))
@@ -194,7 +198,6 @@
 * labyrinth level 2 slightly less tedious to explore ([#87244](https://github.com/CleverRaven/Cataclysm-DDA/pull/87244))
 * Split the MSVC static library in two to fix the 4GB archive limit ([#87241](https://github.com/CleverRaven/Cataclysm-DDA/pull/87241))
 * Fix fire extinguishers in evac shelters ([#87239](https://github.com/CleverRaven/Cataclysm-DDA/pull/87239))
-* Recipes for charged items must specify charges ([#87177](https://github.com/CleverRaven/Cataclysm-DDA/pull/87177))
 * Fix #87038 ([#87238](https://github.com/CleverRaven/Cataclysm-DDA/pull/87238))
 * Add default paws, set claws to link to default paws, add glove coverage for paws ([#87237](https://github.com/CleverRaven/Cataclysm-DDA/pull/87237))
 * Fix separators bleeding color into curses menus ([#87224](https://github.com/CleverRaven/Cataclysm-DDA/pull/87224))
@@ -220,10 +223,7 @@
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
 * De-charge a bunch of stuff that should never have had charges (4) ([#87180](https://github.com/CleverRaven/Cataclysm-DDA/pull/87180))
 * Fix SDL3 sound freeze from mixer lock-order deadlock ([#87189](https://github.com/CleverRaven/Cataclysm-DDA/pull/87189))
-* Charged tools on unattended crafting steps ([#87179](https://github.com/CleverRaven/Cataclysm-DDA/pull/87179))
 * 1b Exodii Cyborgs are no longer considered large ([#87186](https://github.com/CleverRaven/Cataclysm-DDA/pull/87186))
 * Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
 * Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
 * Aftershock: Add light switches to the vanishing arc. ([#87183](https://github.com/CleverRaven/Cataclysm-DDA/pull/87183))
-* Consume crafting tools per recipe step ([#87178](https://github.com/CleverRaven/Cataclysm-DDA/pull/87178))
-* Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))
