@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-01-2326 ([7264e27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-2326))
+
+* [Magiclysm] No longer can you tame zombie aenóren ([#87354](https://github.com/CleverRaven/Cataclysm-DDA/pull/87354))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-01-2107 ([6a5eff9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-2107))
 
 * De-charge a bunch of stuff that should never have had charges (5) ([#87323](https://github.com/CleverRaven/Cataclysm-DDA/pull/87323))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-05-28-1351 ([9184883](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-1351))
 
 * Frog tongue no longer has a whip attack ([#87272](https://github.com/CleverRaven/Cataclysm-DDA/pull/87272))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-28-0953 ([7a8248e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-28-0953))
-
 * fix crazy turret room in labyrinth ([#87274](https://github.com/CleverRaven/Cataclysm-DDA/pull/87274))
 * fixes smokes' inventory. fixes welding wire prices ([#87263](https://github.com/CleverRaven/Cataclysm-DDA/pull/87263))
 * fix MTF evolving into other devourers ([#87255](https://github.com/CleverRaven/Cataclysm-DDA/pull/87255))
@@ -224,6 +225,5 @@
 * Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
 * Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
 * Aftershock: Add light switches to the vanishing arc. ([#87183](https://github.com/CleverRaven/Cataclysm-DDA/pull/87183))
-* More nuanced Hub 01-Exodii full cyborg aggression ([#87173](https://github.com/CleverRaven/Cataclysm-DDA/pull/87173))
 * Consume crafting tools per recipe step ([#87178](https://github.com/CleverRaven/Cataclysm-DDA/pull/87178))
 * Add fire extinguishers to most locations ([#87175](https://github.com/CleverRaven/Cataclysm-DDA/pull/87175))

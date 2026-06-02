@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-01-2326 (7264e27)
+* [Magiclysm] No longer can you tame zombie aenóren (#87354)
+
 Cataclysm-DDA experimental build 2026-06-01-2107 (6a5eff9)
 * De-charge a bunch of stuff that should never have had charges (5) (#87323)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-05-28-1823 (9672765)
 
 Cataclysm-DDA experimental build 2026-05-28-1351 (9184883)
 * Frog tongue no longer has a whip attack (#87272)
-
-Cataclysm-DDA experimental build 2026-05-28-0953 (7a8248e)
 * fix crazy turret room in labyrinth (#87274)
 * fixes smokes' inventory. fixes welding wire prices (#87263)
 * fix MTF evolving into other devourers (#87255)
@@ -137,6 +138,5 @@ Cataclysm-DDA experimental build 2026-05-28-0953 (7a8248e)
 * Fix minimap drawing over the Mouse View UI (#87191)
 * Speed up spawning item groups into containers (#87184)
 * Aftershock: Add light switches to the vanishing arc. (#87183)
-* More nuanced Hub 01-Exodii full cyborg aggression (#87173)
 * Consume crafting tools per recipe step (#87178)
 * Add fire extinguishers to most locations (#87175)
