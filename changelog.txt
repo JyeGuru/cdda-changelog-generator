@@ -1,3 +1,10 @@
+* CMake+vcpkg to select SDL3 or SDL2 (#87351)
+
+Cataclysm-DDA experimental build 2026-06-02-2106 (e33f2d8)
+* [MoM] Add Interstice/MoM interactions (#87365)
+
+Cataclysm-DDA experimental build 2026-06-02-2012 (f923b73)
+* Fix labyrinth door connections (#87386)
 
 Cataclysm-DDA experimental build 2026-06-02-1450 (59b28c2)
 * Fix for subset of high severity density mismatches caused by decharging (Fixes #87293) (#87334)
@@ -87,11 +94,7 @@ Cataclysm-DDA experimental build 2026-05-30-0108 (f8a0868)
 
 Cataclysm-DDA experimental build 2026-05-29-2102 (cc9dbf2)
 * Use safe_reference for deferred explosion source (#87292)
-
-Cataclysm-DDA experimental build 2026-05-29-1348 (de6af69)
 * typo in Weather Permitting ("a a" -> "a") (#87294)
-
-Cataclysm-DDA experimental build 2026-05-29-0507 (0b56631)
 * Some more fixes for character creator ui (#87243)
 * Adding tire fault and fixing some bugs (#87250)
 * Aftershock: Carbide amor faults (#87254)
@@ -123,7 +126,6 @@ Cataclysm-DDA experimental build 2026-05-29-0507 (0b56631)
 * Fungal terrain doesn't spread fire (#87197)
 * Weekly Changelog 2026-05-18 to 2026-05-25 (#87216)
 * Sort itemgroups (6): Fastfood (#87212)
-* Bone cleanup (#87185)
 * [XE] Implement asking others for dreamdross. (#87213)
 * Fix freeze from zero-volume sounds in monster sound clustering (#87209)
 * Supernatural Power menu says `Choose a Supernatural Power` (#87202)
@@ -136,6 +138,4 @@ Cataclysm-DDA experimental build 2026-05-29-0507 (0b56631)
 * Revert "Adding High Density Polyethylene (HDPE)" (#87188)
 * Recalculate enchantment cache after loading bionics in Character::load() (#87195)
 * Fix SDL3 sound freeze from mixer lock-order deadlock (#87189)
-* 1b Exodii Cyborgs are no longer considered large (#87186)
 * Fix minimap drawing over the Mouse View UI (#87191)
-* Speed up spawning item groups into containers (#87184)

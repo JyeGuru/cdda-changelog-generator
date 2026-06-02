@@ -1,3 +1,16 @@
+* CMake+vcpkg to select SDL3 or SDL2 ([#87351](https://github.com/CleverRaven/Cataclysm-DDA/pull/87351))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-02-2106 ([e33f2d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2106))
+
+* [MoM] Add Interstice/MoM interactions ([#87365](https://github.com/CleverRaven/Cataclysm-DDA/pull/87365))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-02-2012 ([f923b73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2012))
+
+* Fix labyrinth door connections ([#87386](https://github.com/CleverRaven/Cataclysm-DDA/pull/87386))
 
 ---
 
@@ -168,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-05-29-2102 ([cc9dbf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-2102))
 
 * Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-29-1348 ([de6af69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-1348))
-
 * typo in Weather Permitting ("a a" -> "a") ([#87294](https://github.com/CleverRaven/Cataclysm-DDA/pull/87294))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-29-0507 ([0b56631](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0507))
-
 * Some more fixes for character creator ui ([#87243](https://github.com/CleverRaven/Cataclysm-DDA/pull/87243))
 * Adding tire fault and fixing some bugs ([#87250](https://github.com/CleverRaven/Cataclysm-DDA/pull/87250))
 * Aftershock: Carbide amor faults ([#87254](https://github.com/CleverRaven/Cataclysm-DDA/pull/87254))
@@ -210,7 +213,6 @@
 * Fungal terrain doesn't spread fire ([#87197](https://github.com/CleverRaven/Cataclysm-DDA/pull/87197))
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
-* Bone cleanup ([#87185](https://github.com/CleverRaven/Cataclysm-DDA/pull/87185))
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
 * Fix freeze from zero-volume sounds in monster sound clustering ([#87209](https://github.com/CleverRaven/Cataclysm-DDA/pull/87209))
 * Supernatural Power menu says `Choose a Supernatural Power` ([#87202](https://github.com/CleverRaven/Cataclysm-DDA/pull/87202))
@@ -223,6 +225,4 @@
 * Revert "Adding High Density Polyethylene (HDPE)" ([#87188](https://github.com/CleverRaven/Cataclysm-DDA/pull/87188))
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
 * Fix SDL3 sound freeze from mixer lock-order deadlock ([#87189](https://github.com/CleverRaven/Cataclysm-DDA/pull/87189))
-* 1b Exodii Cyborgs are no longer considered large ([#87186](https://github.com/CleverRaven/Cataclysm-DDA/pull/87186))
 * Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
-* Speed up spawning item groups into containers ([#87184](https://github.com/CleverRaven/Cataclysm-DDA/pull/87184))
