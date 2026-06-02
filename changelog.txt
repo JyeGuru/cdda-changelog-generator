@@ -1,3 +1,9 @@
+
+Cataclysm-DDA experimental build 2026-06-02-2245 (be70337)
+* [Innawood] More innawood blacklisting (#87393)
+
+Cataclysm-DDA experimental build 2026-06-02-2207 (f63b8a3)
+* Lowered Synthetic Armors (and Amphibian Biology) proficiency learn to 30m (#87361)
 * CMake+vcpkg to select SDL3 or SDL2 (#87351)
 
 Cataclysm-DDA experimental build 2026-06-02-2106 (e33f2d8)
@@ -88,11 +94,7 @@ Cataclysm-DDA experimental build 2026-05-30-1801 (f3561cd)
 
 Cataclysm-DDA experimental build 2026-05-30-0358 (a92fa7b)
 * Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge (#87309)
-
-Cataclysm-DDA experimental build 2026-05-30-0108 (f8a0868)
 * Migrate Android to SDL3 via CMake + AAR, bump buildkit (#87290)
-
-Cataclysm-DDA experimental build 2026-05-29-2102 (cc9dbf2)
 * Use safe_reference for deferred explosion source (#87292)
 * typo in Weather Permitting ("a a" -> "a") (#87294)
 * Some more fixes for character creator ui (#87243)
@@ -135,7 +137,5 @@ Cataclysm-DDA experimental build 2026-05-29-2102 (cc9dbf2)
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables (#87208)
 * Add dialogue effect for adding and removing wounds (#87196)
 * put decharged items in containers (#87190)
-* Revert "Adding High Density Polyethylene (HDPE)" (#87188)
 * Recalculate enchantment cache after loading bionics in Character::load() (#87195)
-* Fix SDL3 sound freeze from mixer lock-order deadlock (#87189)
 * Fix minimap drawing over the Mouse View UI (#87191)
