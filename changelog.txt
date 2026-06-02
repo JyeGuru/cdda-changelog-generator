@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-06-02-1049 (e7570fd)
+* Weekly Changelog 2026-05-25 to 2026-06-01 (#87359)
+
+Cataclysm-DDA experimental build 2026-06-02-0635 (3a7518e)
 * implement math effect to check light level on tile (#87368)
 
 Cataclysm-DDA experimental build 2026-06-02-0549 (b8b7097)
@@ -90,13 +95,9 @@ Cataclysm-DDA experimental build 2026-05-29-0507 (0b56631)
 
 Cataclysm-DDA experimental build 2026-05-29-0413 (c0841f8)
 * Compound Eyes is now a bodypart (#87287)
-
-Cataclysm-DDA experimental build 2026-05-29-0120 (23839b4)
 * Fix vehicle shape preview not working when installing adjacent to a frame (#87280)
 * Obsolete Limp_WIP mod (#87281)
 * Fix Innawood Paraclesian hobbies (#87283)
-
-Cataclysm-DDA experimental build 2026-05-29-0023 (63a8f77)
 * Labyrinth safehouse: Autodoc upgrade (#87284)
 * Wasps no longer have custom limb targeting weights for their bite attack (#87278)
 * The Scarlet Sea (#87270)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2026-05-29-0023 (63a8f77)
 * put decharged items in containers (#87190)
 * Revert "Adding High Density Polyethylene (HDPE)" (#87188)
 * Recalculate enchantment cache after loading bionics in Character::load() (#87195)
-* De-charge a bunch of stuff that should never have had charges (4) (#87180)
 * Fix SDL3 sound freeze from mixer lock-order deadlock (#87189)
 * 1b Exodii Cyborgs are no longer considered large (#87186)
 * Fix minimap drawing over the Mouse View UI (#87191)

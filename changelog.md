@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-02-1049 ([e7570fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-1049))
+
+* Weekly Changelog 2026-05-25 to 2026-06-01 ([#87359](https://github.com/CleverRaven/Cataclysm-DDA/pull/87359))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-02-0635 ([3a7518e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0635))
+
 * implement math effect to check light level on tile ([#87368](https://github.com/CleverRaven/Cataclysm-DDA/pull/87368))
 
 ---
@@ -171,19 +182,9 @@
 #### Cataclysm-DDA experimental build 2026-05-29-0413 ([c0841f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0413))
 
 * Compound Eyes is now a bodypart ([#87287](https://github.com/CleverRaven/Cataclysm-DDA/pull/87287))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-29-0120 ([23839b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0120))
-
 * Fix vehicle shape preview not working when installing adjacent to a frame ([#87280](https://github.com/CleverRaven/Cataclysm-DDA/pull/87280))
 * Obsolete Limp_WIP mod ([#87281](https://github.com/CleverRaven/Cataclysm-DDA/pull/87281))
 * Fix Innawood Paraclesian hobbies ([#87283](https://github.com/CleverRaven/Cataclysm-DDA/pull/87283))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-29-0023 ([63a8f77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-29-0023))
-
 * Labyrinth safehouse: Autodoc upgrade ([#87284](https://github.com/CleverRaven/Cataclysm-DDA/pull/87284))
 * Wasps no longer have custom limb targeting weights for their bite attack ([#87278](https://github.com/CleverRaven/Cataclysm-DDA/pull/87278))
 * The Scarlet Sea ([#87270](https://github.com/CleverRaven/Cataclysm-DDA/pull/87270))
@@ -221,7 +222,6 @@
 * put decharged items in containers ([#87190](https://github.com/CleverRaven/Cataclysm-DDA/pull/87190))
 * Revert "Adding High Density Polyethylene (HDPE)" ([#87188](https://github.com/CleverRaven/Cataclysm-DDA/pull/87188))
 * Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
-* De-charge a bunch of stuff that should never have had charges (4) ([#87180](https://github.com/CleverRaven/Cataclysm-DDA/pull/87180))
 * Fix SDL3 sound freeze from mixer lock-order deadlock ([#87189](https://github.com/CleverRaven/Cataclysm-DDA/pull/87189))
 * 1b Exodii Cyborgs are no longer considered large ([#87186](https://github.com/CleverRaven/Cataclysm-DDA/pull/87186))
 * Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
