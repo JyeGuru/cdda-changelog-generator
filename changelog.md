@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-03-1542 ([ebc24e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1542))
+
+* Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-03-1504 ([290af68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1504))
+
+* Remove a few duplicate definitons from region_settings ([#87403](https://github.com/CleverRaven/Cataclysm-DDA/pull/87403))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-03-1132 ([066ce2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1132))
+
+* Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-02-2245 ([be70337](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2245))
 
 * [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))
@@ -163,23 +181,8 @@
 * Sort itemgroups (8): Misc ([#87261](https://github.com/CleverRaven/Cataclysm-DDA/pull/87261))
 * fix: compare menu shown under crafting menu ([#87259](https://github.com/CleverRaven/Cataclysm-DDA/pull/87259))
 * [Hunvre] Start writing documentation for Hunvre, also add a content tracker ([#87246](https://github.com/CleverRaven/Cataclysm-DDA/pull/87246))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-30-2008 ([6a7cae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-2008))
-
 * Bump android release workflow java version to 17 ([#87318](https://github.com/CleverRaven/Cataclysm-DDA/pull/87318))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-30-1801 ([f3561cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-1801))
-
 * Fix search field not losing focus in keybinds menu ([#87262](https://github.com/CleverRaven/Cataclysm-DDA/pull/87262))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-30-0358 ([a92fa7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-30-0358))
-
 * Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge ([#87309](https://github.com/CleverRaven/Cataclysm-DDA/pull/87309))
 * Migrate Android to SDL3 via CMake + AAR, bump buildkit ([#87290](https://github.com/CleverRaven/Cataclysm-DDA/pull/87290))
 * Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
@@ -223,6 +226,3 @@
 * Park unattended liquid crafts until you collect them ([#87210](https://github.com/CleverRaven/Cataclysm-DDA/pull/87210))
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
 * Add dialogue effect for adding and removing wounds ([#87196](https://github.com/CleverRaven/Cataclysm-DDA/pull/87196))
-* put decharged items in containers ([#87190](https://github.com/CleverRaven/Cataclysm-DDA/pull/87190))
-* Recalculate enchantment cache after loading bionics in Character::load() ([#87195](https://github.com/CleverRaven/Cataclysm-DDA/pull/87195))
-* Fix minimap drawing over the Mouse View UI ([#87191](https://github.com/CleverRaven/Cataclysm-DDA/pull/87191))
