@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-03-2027 ([cc4a8a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-2027))
+
+* fix math effect to check light level ([#87384](https://github.com/CleverRaven/Cataclysm-DDA/pull/87384))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-03-1654 ([ff50be8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1654))
 
 * Open Season on Typos ([#87347](https://github.com/CleverRaven/Cataclysm-DDA/pull/87347))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-05-31-0623 ([bd1c2ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-0623))
 
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-31-0012 ([ca28ae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-0012))
-
 * Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
 * Sort itemgroups (8): Misc ([#87261](https://github.com/CleverRaven/Cataclysm-DDA/pull/87261))
 * fix: compare menu shown under crafting menu ([#87259](https://github.com/CleverRaven/Cataclysm-DDA/pull/87259))
@@ -216,13 +217,11 @@
 * Move Changeling `PSYCHOPATH`-granting traits to flags ([#87228](https://github.com/CleverRaven/Cataclysm-DDA/pull/87228))
 * make radiosphere weather rainy and some minor tweaks  ([#87219](https://github.com/CleverRaven/Cataclysm-DDA/pull/87219))
 * Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
-* Fungal terrain doesn't spread fire ([#87197](https://github.com/CleverRaven/Cataclysm-DDA/pull/87197))
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
 * Fix freeze from zero-volume sounds in monster sound clustering ([#87209](https://github.com/CleverRaven/Cataclysm-DDA/pull/87209))
 * Supernatural Power menu says `Choose a Supernatural Power` ([#87202](https://github.com/CleverRaven/Cataclysm-DDA/pull/87202))
-* Scarves cover beaks and muzzles ([#87201](https://github.com/CleverRaven/Cataclysm-DDA/pull/87201))
 * Fix For Issue #87199 (Jumbo Treefrog Description Typo) ([#87207](https://github.com/CleverRaven/Cataclysm-DDA/pull/87207))
 * Park unattended liquid crafts until you collect them ([#87210](https://github.com/CleverRaven/Cataclysm-DDA/pull/87210))
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
