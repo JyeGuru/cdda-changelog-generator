@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-04-1344 (9e28b2c)
+* Gold is worthless (#87411)
+
 Cataclysm-DDA experimental build 2026-06-04-0329 (9877142)
 * Blacklist a whole bunch of recipes in Aftershock (#87329)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-05-31-2009 (ad6285b)
 
 Cataclysm-DDA experimental build 2026-05-31-1918 (e93515a)
 * Conflicts for Aftershock Exoplanet and Massachussetts Mod (#87327)
-
-Cataclysm-DDA experimental build 2026-05-31-1437 (3787a03)
 * De-charge graphite, nuts and bolts (#87332)
 * [XedraWood] Remove everything unnecessary to water redefinition (#87336)
 * Scenario: Challenge - Labyrinth Bound (#87325)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2026-05-31-1437 (3787a03)
 * Sort itemgroups (6): Fastfood (#87212)
 * [XE] Implement asking others for dreamdross. (#87213)
 * Fix freeze from zero-volume sounds in monster sound clustering (#87209)
-* Supernatural Power menu says `Choose a Supernatural Power` (#87202)
 * Fix For Issue #87199 (Jumbo Treefrog Description Typo) (#87207)
 * Park unattended liquid crafts until you collect them (#87210)
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables (#87208)

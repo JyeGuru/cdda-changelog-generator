@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-04-1344 ([9e28b2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1344))
+
+* Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-04-0329 ([9877142](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-0329))
 
 * Blacklist a whole bunch of recipes in Aftershock ([#87329](https://github.com/CleverRaven/Cataclysm-DDA/pull/87329))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-05-31-1918 ([e93515a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-1918))
 
 * Conflicts for Aftershock Exoplanet and Massachussetts Mod ([#87327](https://github.com/CleverRaven/Cataclysm-DDA/pull/87327))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-31-1437 ([3787a03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-1437))
-
 * De-charge graphite, nuts and bolts ([#87332](https://github.com/CleverRaven/Cataclysm-DDA/pull/87332))
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
 * Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
@@ -222,7 +223,6 @@
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
 * Fix freeze from zero-volume sounds in monster sound clustering ([#87209](https://github.com/CleverRaven/Cataclysm-DDA/pull/87209))
-* Supernatural Power menu says `Choose a Supernatural Power` ([#87202](https://github.com/CleverRaven/Cataclysm-DDA/pull/87202))
 * Fix For Issue #87199 (Jumbo Treefrog Description Typo) ([#87207](https://github.com/CleverRaven/Cataclysm-DDA/pull/87207))
 * Park unattended liquid crafts until you collect them ([#87210](https://github.com/CleverRaven/Cataclysm-DDA/pull/87210))
 * Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
