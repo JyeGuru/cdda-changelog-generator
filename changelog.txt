@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2026-06-04-2247 (bc41f5d)
+* 0.I Changelog Statistics (#87269)
+
 Cataclysm-DDA experimental build 2026-06-04-2105 (2cb49db)
 * Update Rubber Dissasembly results (#87377)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-06-01-0153 (afb0f42)
 
 Cataclysm-DDA experimental build 2026-06-01-0100 (f518d4c)
 * [XE] Additions to the vampire hunter faction. (#87353)
-
-Cataclysm-DDA experimental build 2026-06-01-0016 (4c98ec5)
 * Fangs cover your muzzle (#87335)
 * Split fleshborgs into ranged & melee (#87341)
 * Sort itemgroups (9): Jewelry (#87349)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2026-06-01-0016 (4c98ec5)
 * make radiosphere weather rainy and some minor tweaks  (#87219)
 * Make gray fur and its summer variant cover paws (#87214)
 * Weekly Changelog 2026-05-18 to 2026-05-25 (#87216)
-* Sort itemgroups (6): Fastfood (#87212)
 * [XE] Implement asking others for dreamdross. (#87213)

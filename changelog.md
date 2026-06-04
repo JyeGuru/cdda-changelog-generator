@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-06-04-2247 ([bc41f5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-04-2247))
+
+* 0.I Changelog Statistics ([#87269](https://github.com/CleverRaven/Cataclysm-DDA/pull/87269))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-04-2105 ([2cb49db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-2105))
 
 * Update Rubber Dissasembly results ([#87377](https://github.com/CleverRaven/Cataclysm-DDA/pull/87377))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-06-01-0100 ([f518d4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-0100))
 
 * [XE] Additions to the vampire hunter faction. ([#87353](https://github.com/CleverRaven/Cataclysm-DDA/pull/87353))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-01-0016 ([4c98ec5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-0016))
-
 * Fangs cover your muzzle ([#87335](https://github.com/CleverRaven/Cataclysm-DDA/pull/87335))
 * Split fleshborgs into ranged & melee ([#87341](https://github.com/CleverRaven/Cataclysm-DDA/pull/87341))
 * Sort itemgroups (9): Jewelry ([#87349](https://github.com/CleverRaven/Cataclysm-DDA/pull/87349))
@@ -225,5 +226,4 @@
 * make radiosphere weather rainy and some minor tweaks  ([#87219](https://github.com/CleverRaven/Cataclysm-DDA/pull/87219))
 * Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
-* Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
