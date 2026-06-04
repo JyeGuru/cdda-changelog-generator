@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-04-1722 ([d3df35f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1722))
+
 * [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
 * [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))
 
@@ -175,11 +180,6 @@
 
 * Minor itemgroup fixes ([#87348](https://github.com/CleverRaven/Cataclysm-DDA/pull/87348))
 * Clarify power failure chance in help files ([#87350](https://github.com/CleverRaven/Cataclysm-DDA/pull/87350))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-31-2009 ([ad6285b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-2009))
-
 * [XEDRA Evolved] Fix XE dream snippets not appearing ([#87339](https://github.com/CleverRaven/Cataclysm-DDA/pull/87339))
 * Conflicts for Aftershock Exoplanet and Massachussetts Mod ([#87327](https://github.com/CleverRaven/Cataclysm-DDA/pull/87327))
 * De-charge graphite, nuts and bolts ([#87332](https://github.com/CleverRaven/Cataclysm-DDA/pull/87332))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-06-04-1722 (d3df35f)
 * [Innawood] Even more blacklisting (#87397)
 * [XedraWood] Add some mod identity around evolution and zombification (#87408)
 
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2026-05-31-2339 (dd49cc8)
 Cataclysm-DDA experimental build 2026-05-31-2151 (1de70bd)
 * Minor itemgroup fixes (#87348)
 * Clarify power failure chance in help files (#87350)
-
-Cataclysm-DDA experimental build 2026-05-31-2009 (ad6285b)
 * [XEDRA Evolved] Fix XE dream snippets not appearing (#87339)
 * Conflicts for Aftershock Exoplanet and Massachussetts Mod (#87327)
 * De-charge graphite, nuts and bolts (#87332)
