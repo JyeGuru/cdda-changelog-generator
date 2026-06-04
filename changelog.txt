@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-06-04-2105 (2cb49db)
+* Update Rubber Dissasembly results (#87377)
+
+Cataclysm-DDA experimental build 2026-06-04-2007 (5aef60b)
+* [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups (#87425)
+
 Cataclysm-DDA experimental build 2026-06-04-1722 (d3df35f)
 * [Innawood] Even more blacklisting (#87397)
 * [XedraWood] Add some mod identity around evolution and zombification (#87408)
@@ -86,11 +92,7 @@ Cataclysm-DDA experimental build 2026-06-01-0100 (f518d4c)
 Cataclysm-DDA experimental build 2026-06-01-0016 (4c98ec5)
 * Fangs cover your muzzle (#87335)
 * Split fleshborgs into ranged & melee (#87341)
-
-Cataclysm-DDA experimental build 2026-05-31-2339 (dd49cc8)
 * Sort itemgroups (9): Jewelry (#87349)
-
-Cataclysm-DDA experimental build 2026-05-31-2151 (1de70bd)
 * Minor itemgroup fixes (#87348)
 * Clarify power failure chance in help files (#87350)
 * [XEDRA Evolved] Fix XE dream snippets not appearing (#87339)
@@ -138,4 +140,3 @@ Cataclysm-DDA experimental build 2026-05-31-2151 (1de70bd)
 * Weekly Changelog 2026-05-18 to 2026-05-25 (#87216)
 * Sort itemgroups (6): Fastfood (#87212)
 * [XE] Implement asking others for dreamdross. (#87213)
-* Park unattended liquid crafts until you collect them (#87210)

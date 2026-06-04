@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-04-2105 ([2cb49db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-2105))
+
+* Update Rubber Dissasembly results ([#87377](https://github.com/CleverRaven/Cataclysm-DDA/pull/87377))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-04-2007 ([5aef60b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-2007))
+
+* [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-04-1722 ([d3df35f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1722))
 
 * [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
@@ -167,17 +179,7 @@
 
 * Fangs cover your muzzle ([#87335](https://github.com/CleverRaven/Cataclysm-DDA/pull/87335))
 * Split fleshborgs into ranged & melee ([#87341](https://github.com/CleverRaven/Cataclysm-DDA/pull/87341))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-31-2339 ([dd49cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-2339))
-
 * Sort itemgroups (9): Jewelry ([#87349](https://github.com/CleverRaven/Cataclysm-DDA/pull/87349))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-31-2151 ([1de70bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-2151))
-
 * Minor itemgroup fixes ([#87348](https://github.com/CleverRaven/Cataclysm-DDA/pull/87348))
 * Clarify power failure chance in help files ([#87350](https://github.com/CleverRaven/Cataclysm-DDA/pull/87350))
 * [XEDRA Evolved] Fix XE dream snippets not appearing ([#87339](https://github.com/CleverRaven/Cataclysm-DDA/pull/87339))
@@ -225,4 +227,3 @@
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
-* Park unattended liquid crafts until you collect them ([#87210](https://github.com/CleverRaven/Cataclysm-DDA/pull/87210))
