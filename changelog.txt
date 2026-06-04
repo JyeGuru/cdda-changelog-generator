@@ -1,3 +1,8 @@
+* [Innawood] Even more blacklisting (#87397)
+* [XedraWood] Add some mod identity around evolution and zombification (#87408)
+
+Cataclysm-DDA experimental build 2026-06-04-1640 (5ed3e66)
+* Add wiring to t_wall_metal (#87412)
 
 Cataclysm-DDA experimental build 2026-06-04-1344 (9e28b2c)
 * Gold is worthless (#87411)
@@ -89,8 +94,6 @@ Cataclysm-DDA experimental build 2026-05-31-2151 (1de70bd)
 
 Cataclysm-DDA experimental build 2026-05-31-2009 (ad6285b)
 * [XEDRA Evolved] Fix XE dream snippets not appearing (#87339)
-
-Cataclysm-DDA experimental build 2026-05-31-1918 (e93515a)
 * Conflicts for Aftershock Exoplanet and Massachussetts Mod (#87327)
 * De-charge graphite, nuts and bolts (#87332)
 * [XedraWood] Remove everything unnecessary to water redefinition (#87336)
@@ -135,7 +138,4 @@ Cataclysm-DDA experimental build 2026-05-31-1918 (e93515a)
 * Weekly Changelog 2026-05-18 to 2026-05-25 (#87216)
 * Sort itemgroups (6): Fastfood (#87212)
 * [XE] Implement asking others for dreamdross. (#87213)
-* Fix freeze from zero-volume sounds in monster sound clustering (#87209)
-* Fix For Issue #87199 (Jumbo Treefrog Description Typo) (#87207)
 * Park unattended liquid crafts until you collect them (#87210)
-* Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables (#87208)

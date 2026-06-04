@@ -1,3 +1,11 @@
+* [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
+* [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-04-1640 ([5ed3e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1640))
+
+* Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
 
 ---
 
@@ -173,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-05-31-2009 ([ad6285b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-2009))
 
 * [XEDRA Evolved] Fix XE dream snippets not appearing ([#87339](https://github.com/CleverRaven/Cataclysm-DDA/pull/87339))
-
----
-
-#### Cataclysm-DDA experimental build 2026-05-31-1918 ([e93515a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-05-31-1918))
-
 * Conflicts for Aftershock Exoplanet and Massachussetts Mod ([#87327](https://github.com/CleverRaven/Cataclysm-DDA/pull/87327))
 * De-charge graphite, nuts and bolts ([#87332](https://github.com/CleverRaven/Cataclysm-DDA/pull/87332))
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
@@ -222,7 +225,4 @@
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
 * Sort itemgroups (6): Fastfood ([#87212](https://github.com/CleverRaven/Cataclysm-DDA/pull/87212))
 * [XE] Implement asking others for dreamdross. ([#87213](https://github.com/CleverRaven/Cataclysm-DDA/pull/87213))
-* Fix freeze from zero-volume sounds in monster sound clustering ([#87209](https://github.com/CleverRaven/Cataclysm-DDA/pull/87209))
-* Fix For Issue #87199 (Jumbo Treefrog Description Typo) ([#87207](https://github.com/CleverRaven/Cataclysm-DDA/pull/87207))
 * Park unattended liquid crafts until you collect them ([#87210](https://github.com/CleverRaven/Cataclysm-DDA/pull/87210))
-* Revamp Hub 01 XM-ARM, -LEG, and -BACK CBMs into wearables ([#87208](https://github.com/CleverRaven/Cataclysm-DDA/pull/87208))
