@@ -1,3 +1,15 @@
+* Fix conflicting keybinds in debug menu ([#87437](https://github.com/CleverRaven/Cataclysm-DDA/pull/87437))
+* Allow more simple drinks crafting in dark ([#87438](https://github.com/CleverRaven/Cataclysm-DDA/pull/87438))
+* Draw the Android surface edge to edge with a safe-area display option ([#87442](https://github.com/CleverRaven/Cataclysm-DDA/pull/87442))
+* Bundle the SDL3 stack into release artifacts ([#87447](https://github.com/CleverRaven/Cataclysm-DDA/pull/87447))
+* [XedraWood] Playable lizardfolk ([#87451](https://github.com/CleverRaven/Cataclysm-DDA/pull/87451))
+* [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-05-2259 ([093c61a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-2259))
+
+* update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
 
 ---
 
@@ -170,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-06-02-0232 ([767b669](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0232))
 
 * [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it ([#87372](https://github.com/CleverRaven/Cataclysm-DDA/pull/87372))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-01-2326 ([7264e27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-2326))
-
 * [Magiclysm] No longer can you tame zombie aenóren ([#87354](https://github.com/CleverRaven/Cataclysm-DDA/pull/87354))
 * De-charge a bunch of stuff that should never have had charges (5) ([#87323](https://github.com/CleverRaven/Cataclysm-DDA/pull/87323))
 * Android: skip ccache compiler launcher when not on PATH ([#87355](https://github.com/CleverRaven/Cataclysm-DDA/pull/87355))
@@ -205,7 +212,6 @@
 * Migrate Android to SDL3 via CMake + AAR, bump buildkit ([#87290](https://github.com/CleverRaven/Cataclysm-DDA/pull/87290))
 * Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
 * typo in Weather Permitting ("a a" -> "a") ([#87294](https://github.com/CleverRaven/Cataclysm-DDA/pull/87294))
-* Some more fixes for character creator ui ([#87243](https://github.com/CleverRaven/Cataclysm-DDA/pull/87243))
 * Adding tire fault and fixing some bugs ([#87250](https://github.com/CleverRaven/Cataclysm-DDA/pull/87250))
 * Aftershock: Carbide amor faults ([#87254](https://github.com/CleverRaven/Cataclysm-DDA/pull/87254))
 * Compound Eyes is now a bodypart ([#87287](https://github.com/CleverRaven/Cataclysm-DDA/pull/87287))
@@ -222,9 +228,4 @@
 * Fix ImGui popups off-screen when scaled or on Android ([#87251](https://github.com/CleverRaven/Cataclysm-DDA/pull/87251))
 * [Hunvre] Add elevator buildings ([#87245](https://github.com/CleverRaven/Cataclysm-DDA/pull/87245))
 * Plate hotfix ([#87252](https://github.com/CleverRaven/Cataclysm-DDA/pull/87252))
-* Sort itemgroups (7): Snacks ([#87236](https://github.com/CleverRaven/Cataclysm-DDA/pull/87236))
 * labyrinth level 2 slightly less tedious to explore ([#87244](https://github.com/CleverRaven/Cataclysm-DDA/pull/87244))
-* Split the MSVC static library in two to fix the 4GB archive limit ([#87241](https://github.com/CleverRaven/Cataclysm-DDA/pull/87241))
-* Fix fire extinguishers in evac shelters ([#87239](https://github.com/CleverRaven/Cataclysm-DDA/pull/87239))
-* Fix #87038 ([#87238](https://github.com/CleverRaven/Cataclysm-DDA/pull/87238))
-* Add default paws, set claws to link to default paws, add glove coverage for paws ([#87237](https://github.com/CleverRaven/Cataclysm-DDA/pull/87237))
