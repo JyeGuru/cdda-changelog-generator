@@ -1,3 +1,15 @@
+* [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-05-1638 ([3878f87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1638))
+
+* Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-05-1552 ([9937316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1552))
+
 * Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
 
 ---
@@ -170,11 +182,6 @@
 
 * Fix SDL3 zoom crash from tint mask render target switch ([#87360](https://github.com/CleverRaven/Cataclysm-DDA/pull/87360))
 * labyrinth safehouse upgrade, change wire -> lc_wire ([#87352](https://github.com/CleverRaven/Cataclysm-DDA/pull/87352))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-01-1325 ([99b2e9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-1325))
-
 * Fix crafting performance ([#87343](https://github.com/CleverRaven/Cataclysm-DDA/pull/87343))
 * Sort ammotype declarations in multimag_matrix_test ([#87357](https://github.com/CleverRaven/Cataclysm-DDA/pull/87357))
 * Fix: AIM `examine menu > activate` overlaps item selection ([#87299](https://github.com/CleverRaven/Cataclysm-DDA/pull/87299))
@@ -223,8 +230,5 @@
 * Fix fire extinguishers in evac shelters ([#87239](https://github.com/CleverRaven/Cataclysm-DDA/pull/87239))
 * Fix #87038 ([#87238](https://github.com/CleverRaven/Cataclysm-DDA/pull/87238))
 * Add default paws, set claws to link to default paws, add glove coverage for paws ([#87237](https://github.com/CleverRaven/Cataclysm-DDA/pull/87237))
-* Fix separators bleeding color into curses menus ([#87224](https://github.com/CleverRaven/Cataclysm-DDA/pull/87224))
 * Fireproofing the fungal wall monster ([#87225](https://github.com/CleverRaven/Cataclysm-DDA/pull/87225))
 * Move Changeling `PSYCHOPATH`-granting traits to flags ([#87228](https://github.com/CleverRaven/Cataclysm-DDA/pull/87228))
-* make radiosphere weather rainy and some minor tweaks  ([#87219](https://github.com/CleverRaven/Cataclysm-DDA/pull/87219))
-* Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))

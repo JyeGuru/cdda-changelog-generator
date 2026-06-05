@@ -1,3 +1,9 @@
+* [XedraWood] Mod conflicts (#87443)
+
+Cataclysm-DDA experimental build 2026-06-05-1638 (3878f87)
+* Fix SDL3 colored light tint accumulation and dimming (#87436)
+
+Cataclysm-DDA experimental build 2026-06-05-1552 (9937316)
 * Stop rebuilding crafting cost context every tick (#87433)
 
 Cataclysm-DDA experimental build 2026-06-05-1340 (5a2cfca)
@@ -86,8 +92,6 @@ Cataclysm-DDA experimental build 2026-06-01-2008 (4d1ee23)
 Cataclysm-DDA experimental build 2026-06-01-1421 (221c786)
 * Fix SDL3 zoom crash from tint mask render target switch (#87360)
 * labyrinth safehouse upgrade, change wire -> lc_wire (#87352)
-
-Cataclysm-DDA experimental build 2026-06-01-1325 (99b2e9d)
 * Fix crafting performance (#87343)
 * Sort ammotype declarations in multimag_matrix_test (#87357)
 * Fix: AIM `examine menu > activate` overlaps item selection (#87299)
@@ -136,8 +140,5 @@ Cataclysm-DDA experimental build 2026-06-01-1325 (99b2e9d)
 * Fix fire extinguishers in evac shelters (#87239)
 * Fix #87038 (#87238)
 * Add default paws, set claws to link to default paws, add glove coverage for paws (#87237)
-* Fix separators bleeding color into curses menus (#87224)
 * Fireproofing the fungal wall monster (#87225)
 * Move Changeling `PSYCHOPATH`-granting traits to flags (#87228)
-* make radiosphere weather rainy and some minor tweaks  (#87219)
-* Weekly Changelog 2026-05-18 to 2026-05-25 (#87216)
