@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-05-2027 ([b913e5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-2027))
+
+* Fix `rot_spawn_data` inheritance overriding unset values ([#87398](https://github.com/CleverRaven/Cataclysm-DDA/pull/87398))
+* Fix typo in Hub01 mission ([#87427](https://github.com/CleverRaven/Cataclysm-DDA/pull/87427))
+* [Hunvre] Add a factory ([#87247](https://github.com/CleverRaven/Cataclysm-DDA/pull/87247))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-05-1739 ([0025d45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1739))
 
 * [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
@@ -168,17 +176,7 @@
 #### Cataclysm-DDA experimental build 2026-06-01-2326 ([7264e27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-2326))
 
 * [Magiclysm] No longer can you tame zombie aenóren ([#87354](https://github.com/CleverRaven/Cataclysm-DDA/pull/87354))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-01-2107 ([6a5eff9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-2107))
-
 * De-charge a bunch of stuff that should never have had charges (5) ([#87323](https://github.com/CleverRaven/Cataclysm-DDA/pull/87323))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-01-2008 ([4d1ee23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-2008))
-
 * Android: skip ccache compiler launcher when not on PATH ([#87355](https://github.com/CleverRaven/Cataclysm-DDA/pull/87355))
 * Fix SDL3 zoom crash from tint mask render target switch ([#87360](https://github.com/CleverRaven/Cataclysm-DDA/pull/87360))
 * labyrinth safehouse upgrade, change wire -> lc_wire ([#87352](https://github.com/CleverRaven/Cataclysm-DDA/pull/87352))
@@ -230,5 +228,3 @@
 * Fix fire extinguishers in evac shelters ([#87239](https://github.com/CleverRaven/Cataclysm-DDA/pull/87239))
 * Fix #87038 ([#87238](https://github.com/CleverRaven/Cataclysm-DDA/pull/87238))
 * Add default paws, set claws to link to default paws, add glove coverage for paws ([#87237](https://github.com/CleverRaven/Cataclysm-DDA/pull/87237))
-* Fireproofing the fungal wall monster ([#87225](https://github.com/CleverRaven/Cataclysm-DDA/pull/87225))
-* Move Changeling `PSYCHOPATH`-granting traits to flags ([#87228](https://github.com/CleverRaven/Cataclysm-DDA/pull/87228))
