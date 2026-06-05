@@ -1,3 +1,10 @@
+* Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-05-1340 ([5a2cfca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1340))
+
+* Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
 
 ---
 
@@ -171,11 +178,6 @@
 * Fix crafting performance ([#87343](https://github.com/CleverRaven/Cataclysm-DDA/pull/87343))
 * Sort ammotype declarations in multimag_matrix_test ([#87357](https://github.com/CleverRaven/Cataclysm-DDA/pull/87357))
 * Fix: AIM `examine menu > activate` overlaps item selection ([#87299](https://github.com/CleverRaven/Cataclysm-DDA/pull/87299))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-01-0153 ([afb0f42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-01-0153))
-
 * [Sky Island] Add triffid pollen to the list of effects that being healed removes ([#87337](https://github.com/CleverRaven/Cataclysm-DDA/pull/87337))
 * Invalidate clang-tidy plugin cache on LLVM patch bumps ([#87344](https://github.com/CleverRaven/Cataclysm-DDA/pull/87344))
 * [XE] Additions to the vampire hunter faction. ([#87353](https://github.com/CleverRaven/Cataclysm-DDA/pull/87353))
@@ -225,5 +227,4 @@
 * Fireproofing the fungal wall monster ([#87225](https://github.com/CleverRaven/Cataclysm-DDA/pull/87225))
 * Move Changeling `PSYCHOPATH`-granting traits to flags ([#87228](https://github.com/CleverRaven/Cataclysm-DDA/pull/87228))
 * make radiosphere weather rainy and some minor tweaks  ([#87219](https://github.com/CleverRaven/Cataclysm-DDA/pull/87219))
-* Make gray fur and its summer variant cover paws ([#87214](https://github.com/CleverRaven/Cataclysm-DDA/pull/87214))
 * Weekly Changelog 2026-05-18 to 2026-05-25 ([#87216](https://github.com/CleverRaven/Cataclysm-DDA/pull/87216))
