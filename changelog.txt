@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-06-05-1739 (0025d45)
 * [XedraWood] Mod conflicts (#87443)
 
 Cataclysm-DDA experimental build 2026-06-05-1638 (3878f87)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2026-06-01-2107 (6a5eff9)
 
 Cataclysm-DDA experimental build 2026-06-01-2008 (4d1ee23)
 * Android: skip ccache compiler launcher when not on PATH (#87355)
-
-Cataclysm-DDA experimental build 2026-06-01-1421 (221c786)
 * Fix SDL3 zoom crash from tint mask render target switch (#87360)
 * labyrinth safehouse upgrade, change wire -> lc_wire (#87352)
 * Fix crafting performance (#87343)
