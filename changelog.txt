@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-05-1134 (654aa41)
+* Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT (#87428)
+
 Cataclysm-DDA 0.I release candidate 2026-06-04-2247 (bc41f5d)
 * 0.I Changelog Statistics (#87269)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-06-01-1325 (99b2e9d)
 Cataclysm-DDA experimental build 2026-06-01-0153 (afb0f42)
 * [Sky Island] Add triffid pollen to the list of effects that being healed removes (#87337)
 * Invalidate clang-tidy plugin cache on LLVM patch bumps (#87344)
-
-Cataclysm-DDA experimental build 2026-06-01-0100 (f518d4c)
 * [XE] Additions to the vampire hunter faction. (#87353)
 * Fangs cover your muzzle (#87335)
 * Split fleshborgs into ranged & melee (#87341)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2026-06-01-0100 (f518d4c)
 * make radiosphere weather rainy and some minor tweaks  (#87219)
 * Make gray fur and its summer variant cover paws (#87214)
 * Weekly Changelog 2026-05-18 to 2026-05-25 (#87216)
-* [XE] Implement asking others for dreamdross. (#87213)
