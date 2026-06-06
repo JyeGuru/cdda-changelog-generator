@@ -1,3 +1,20 @@
+* Sort itemgroups (11): Swimming/Military ([#87387](https://github.com/CleverRaven/Cataclysm-DDA/pull/87387))
+* fix: initialize Bombastic Perks on controlled NPC followers ([#87375](https://github.com/CleverRaven/Cataclysm-DDA/pull/87375))
+* New Hoarder morale calculations ([#87374](https://github.com/CleverRaven/Cataclysm-DDA/pull/87374))
+* make food in pet_food_data optional, adjust iuse slightly ([#87373](https://github.com/CleverRaven/Cataclysm-DDA/pull/87373))
+* Set feather and down feather prices to 0 cent ([#87416](https://github.com/CleverRaven/Cataclysm-DDA/pull/87416))
+* [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-06-0059 ([ccb8a6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0059))
+
+* Flip the idle render target to null and bind display_buffer per draw ([#87419](https://github.com/CleverRaven/Cataclysm-DDA/pull/87419))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-05-2336 ([23be35d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-2336))
+
 * Fix conflicting keybinds in debug menu ([#87437](https://github.com/CleverRaven/Cataclysm-DDA/pull/87437))
 * Allow more simple drinks crafting in dark ([#87438](https://github.com/CleverRaven/Cataclysm-DDA/pull/87438))
 * Draw the Android surface edge to edge with a safe-area display option ([#87442](https://github.com/CleverRaven/Cataclysm-DDA/pull/87442))
@@ -17,7 +34,6 @@
 
 * Fix `rot_spawn_data` inheritance overriding unset values ([#87398](https://github.com/CleverRaven/Cataclysm-DDA/pull/87398))
 * Fix typo in Hub01 mission ([#87427](https://github.com/CleverRaven/Cataclysm-DDA/pull/87427))
-* [Hunvre] Add a factory ([#87247](https://github.com/CleverRaven/Cataclysm-DDA/pull/87247))
 
 ---
 
@@ -170,17 +186,7 @@
 #### Cataclysm-DDA experimental build 2026-06-02-0549 ([b8b7097](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0549))
 
 * [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-0321 ([4089195](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0321))
-
 * Sort itemgroups (10): Accessories/Bags/Underwear ([#87364](https://github.com/CleverRaven/Cataclysm-DDA/pull/87364))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-0232 ([767b669](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0232))
-
 * [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it ([#87372](https://github.com/CleverRaven/Cataclysm-DDA/pull/87372))
 * [Magiclysm] No longer can you tame zombie aenóren ([#87354](https://github.com/CleverRaven/Cataclysm-DDA/pull/87354))
 * De-charge a bunch of stuff that should never have had charges (5) ([#87323](https://github.com/CleverRaven/Cataclysm-DDA/pull/87323))
@@ -205,14 +211,12 @@
 * Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
 * Sort itemgroups (8): Misc ([#87261](https://github.com/CleverRaven/Cataclysm-DDA/pull/87261))
 * fix: compare menu shown under crafting menu ([#87259](https://github.com/CleverRaven/Cataclysm-DDA/pull/87259))
-* [Hunvre] Start writing documentation for Hunvre, also add a content tracker ([#87246](https://github.com/CleverRaven/Cataclysm-DDA/pull/87246))
 * Bump android release workflow java version to 17 ([#87318](https://github.com/CleverRaven/Cataclysm-DDA/pull/87318))
 * Fix search field not losing focus in keybinds menu ([#87262](https://github.com/CleverRaven/Cataclysm-DDA/pull/87262))
 * Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge ([#87309](https://github.com/CleverRaven/Cataclysm-DDA/pull/87309))
 * Migrate Android to SDL3 via CMake + AAR, bump buildkit ([#87290](https://github.com/CleverRaven/Cataclysm-DDA/pull/87290))
 * Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
 * typo in Weather Permitting ("a a" -> "a") ([#87294](https://github.com/CleverRaven/Cataclysm-DDA/pull/87294))
-* Adding tire fault and fixing some bugs ([#87250](https://github.com/CleverRaven/Cataclysm-DDA/pull/87250))
 * Aftershock: Carbide amor faults ([#87254](https://github.com/CleverRaven/Cataclysm-DDA/pull/87254))
 * Compound Eyes is now a bodypart ([#87287](https://github.com/CleverRaven/Cataclysm-DDA/pull/87287))
 * Fix vehicle shape preview not working when installing adjacent to a frame ([#87280](https://github.com/CleverRaven/Cataclysm-DDA/pull/87280))
@@ -225,7 +229,3 @@
 * fix crazy turret room in labyrinth ([#87274](https://github.com/CleverRaven/Cataclysm-DDA/pull/87274))
 * fixes smokes' inventory. fixes welding wire prices ([#87263](https://github.com/CleverRaven/Cataclysm-DDA/pull/87263))
 * fix MTF evolving into other devourers ([#87255](https://github.com/CleverRaven/Cataclysm-DDA/pull/87255))
-* Fix ImGui popups off-screen when scaled or on Android ([#87251](https://github.com/CleverRaven/Cataclysm-DDA/pull/87251))
-* [Hunvre] Add elevator buildings ([#87245](https://github.com/CleverRaven/Cataclysm-DDA/pull/87245))
-* Plate hotfix ([#87252](https://github.com/CleverRaven/Cataclysm-DDA/pull/87252))
-* labyrinth level 2 slightly less tedious to explore ([#87244](https://github.com/CleverRaven/Cataclysm-DDA/pull/87244))
