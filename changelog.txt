@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-06-06-1517 (f2103b7)
+* Replace monattack targeting specific body part with monattack targeting specific body part type (#87330)
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge (#87465)
 
 Cataclysm-DDA experimental build 2026-06-06-1355 (1e7886f)
@@ -8,9 +11,6 @@ Cataclysm-DDA experimental build 2026-06-06-0651 (ddba0cb)
 
 Cataclysm-DDA experimental build 2026-06-06-0229 (04ce4b4)
 * make bodypart being able to modify pain applied to it (#87390)
-
-Cataclysm-DDA experimental build 2026-06-06-0150 (6789a1b)
-* [Innawood] Ravine bottom map extras (#87264)
 * Sort itemgroups (11): Swimming/Military (#87387)
 * fix: initialize Bombastic Perks on controlled NPC followers (#87375)
 * New Hoarder morale calculations (#87374)
@@ -94,11 +94,7 @@ Cataclysm-DDA experimental build 2026-06-02-2245 (be70337)
 Cataclysm-DDA experimental build 2026-06-02-2207 (f63b8a3)
 * Lowered Synthetic Armors (and Amphibian Biology) proficiency learn to 30m (#87361)
 * CMake+vcpkg to select SDL3 or SDL2 (#87351)
-
-Cataclysm-DDA experimental build 2026-06-02-2106 (e33f2d8)
 * [MoM] Add Interstice/MoM interactions (#87365)
-
-Cataclysm-DDA experimental build 2026-06-02-2012 (f923b73)
 * Fix labyrinth door connections (#87386)
 * Fix for subset of high severity density mismatches caused by decharging (Fixes #87293) (#87334)
 * Weekly Changelog 2026-05-25 to 2026-06-01 (#87359)

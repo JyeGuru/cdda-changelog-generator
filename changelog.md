@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-06-1517 ([f2103b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-1517))
+
+* Replace monattack targeting specific body part with monattack targeting specific body part type ([#87330](https://github.com/CleverRaven/Cataclysm-DDA/pull/87330))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
 
 ---
@@ -17,12 +23,6 @@
 #### Cataclysm-DDA experimental build 2026-06-06-0229 ([04ce4b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0229))
 
 * make bodypart being able to modify pain applied to it ([#87390](https://github.com/CleverRaven/Cataclysm-DDA/pull/87390))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-06-0150 ([6789a1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0150))
-
-* [Innawood] Ravine bottom map extras ([#87264](https://github.com/CleverRaven/Cataclysm-DDA/pull/87264))
 * Sort itemgroups (11): Swimming/Military ([#87387](https://github.com/CleverRaven/Cataclysm-DDA/pull/87387))
 * fix: initialize Bombastic Perks on controlled NPC followers ([#87375](https://github.com/CleverRaven/Cataclysm-DDA/pull/87375))
 * New Hoarder morale calculations ([#87374](https://github.com/CleverRaven/Cataclysm-DDA/pull/87374))
@@ -175,17 +175,7 @@
 
 * Lowered Synthetic Armors (and Amphibian Biology) proficiency learn to 30m ([#87361](https://github.com/CleverRaven/Cataclysm-DDA/pull/87361))
 * CMake+vcpkg to select SDL3 or SDL2 ([#87351](https://github.com/CleverRaven/Cataclysm-DDA/pull/87351))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-2106 ([e33f2d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2106))
-
 * [MoM] Add Interstice/MoM interactions ([#87365](https://github.com/CleverRaven/Cataclysm-DDA/pull/87365))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-2012 ([f923b73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2012))
-
 * Fix labyrinth door connections ([#87386](https://github.com/CleverRaven/Cataclysm-DDA/pull/87386))
 * Fix for subset of high severity density mismatches caused by decharging (Fixes #87293) ([#87334](https://github.com/CleverRaven/Cataclysm-DDA/pull/87334))
 * Weekly Changelog 2026-05-25 to 2026-06-01 ([#87359](https://github.com/CleverRaven/Cataclysm-DDA/pull/87359))
