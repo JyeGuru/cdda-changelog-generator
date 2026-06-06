@@ -1,3 +1,4 @@
+* Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
 * Add reset and rebind primitives for renderer-owned GPU resources ([#87421](https://github.com/CleverRaven/Cataclysm-DDA/pull/87421))
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 
@@ -158,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2026-06-03-1132 ([066ce2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1132))
 
 * Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-2245 ([be70337](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2245))
-
 * [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))
 * Lowered Synthetic Armors (and Amphibian Biology) proficiency learn to 30m ([#87361](https://github.com/CleverRaven/Cataclysm-DDA/pull/87361))
 * CMake+vcpkg to select SDL3 or SDL2 ([#87351](https://github.com/CleverRaven/Cataclysm-DDA/pull/87351))
@@ -206,6 +202,5 @@
 * Fix Innawood Paraclesian hobbies ([#87283](https://github.com/CleverRaven/Cataclysm-DDA/pull/87283))
 * Labyrinth safehouse: Autodoc upgrade ([#87284](https://github.com/CleverRaven/Cataclysm-DDA/pull/87284))
 * Wasps no longer have custom limb targeting weights for their bite attack ([#87278](https://github.com/CleverRaven/Cataclysm-DDA/pull/87278))
-* The Scarlet Sea ([#87270](https://github.com/CleverRaven/Cataclysm-DDA/pull/87270))
 * Frog tongue no longer has a whip attack ([#87272](https://github.com/CleverRaven/Cataclysm-DDA/pull/87272))
 * fix crazy turret room in labyrinth ([#87274](https://github.com/CleverRaven/Cataclysm-DDA/pull/87274))
