@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-06-0651 ([ddba0cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0651))
+
+* Wounds can apply limb score penalties ([#87392](https://github.com/CleverRaven/Cataclysm-DDA/pull/87392))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-06-0229 ([04ce4b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0229))
 
 * make bodypart being able to modify pain applied to it ([#87390](https://github.com/CleverRaven/Cataclysm-DDA/pull/87390))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-06-02-1450 ([59b28c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-1450))
 
 * Fix for subset of high severity density mismatches caused by decharging (Fixes #87293) ([#87334](https://github.com/CleverRaven/Cataclysm-DDA/pull/87334))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-1049 ([e7570fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-1049))
-
 * Weekly Changelog 2026-05-25 to 2026-06-01 ([#87359](https://github.com/CleverRaven/Cataclysm-DDA/pull/87359))
 * implement math effect to check light level on tile ([#87368](https://github.com/CleverRaven/Cataclysm-DDA/pull/87368))
 * [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
@@ -211,7 +212,6 @@
 * De-charge graphite, nuts and bolts ([#87332](https://github.com/CleverRaven/Cataclysm-DDA/pull/87332))
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
 * Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
-* Sort itemgroups (8): Misc ([#87261](https://github.com/CleverRaven/Cataclysm-DDA/pull/87261))
 * Bump android release workflow java version to 17 ([#87318](https://github.com/CleverRaven/Cataclysm-DDA/pull/87318))
 * Fix search field not losing focus in keybinds menu ([#87262](https://github.com/CleverRaven/Cataclysm-DDA/pull/87262))
 * Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge ([#87309](https://github.com/CleverRaven/Cataclysm-DDA/pull/87309))
