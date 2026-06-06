@@ -1,3 +1,5 @@
+* Add reset and rebind primitives for renderer-owned GPU resources ([#87421](https://github.com/CleverRaven/Cataclysm-DDA/pull/87421))
+* Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 
 ---
 
@@ -92,12 +94,6 @@
 
 ---
 
-#### Cataclysm-DDA 0.I release candidate 2026-06-04-2247 ([bc41f5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-04-2247))
-
-* 0.I Changelog Statistics ([#87269](https://github.com/CleverRaven/Cataclysm-DDA/pull/87269))
-
----
-
 #### Cataclysm-DDA experimental build 2026-06-04-2105 ([2cb49db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-2105))
 
 * Update Rubber Dissasembly results ([#87377](https://github.com/CleverRaven/Cataclysm-DDA/pull/87377))
@@ -168,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-06-02-2245 ([be70337](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2245))
 
 * [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-2207 ([f63b8a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2207))
-
 * Lowered Synthetic Armors (and Amphibian Biology) proficiency learn to 30m ([#87361](https://github.com/CleverRaven/Cataclysm-DDA/pull/87361))
 * CMake+vcpkg to select SDL3 or SDL2 ([#87351](https://github.com/CleverRaven/Cataclysm-DDA/pull/87351))
 * [MoM] Add Interstice/MoM interactions ([#87365](https://github.com/CleverRaven/Cataclysm-DDA/pull/87365))
