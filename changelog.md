@@ -1,3 +1,10 @@
+* vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-06-1355 ([1e7886f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-1355))
+
+* Add some random fungus to the groundcover pool ([#87432](https://github.com/CleverRaven/Cataclysm-DDA/pull/87432))
 
 ---
 
@@ -180,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2026-06-02-2012 ([f923b73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-2012))
 
 * Fix labyrinth door connections ([#87386](https://github.com/CleverRaven/Cataclysm-DDA/pull/87386))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-1450 ([59b28c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-1450))
-
 * Fix for subset of high severity density mismatches caused by decharging (Fixes #87293) ([#87334](https://github.com/CleverRaven/Cataclysm-DDA/pull/87334))
 * Weekly Changelog 2026-05-25 to 2026-06-01 ([#87359](https://github.com/CleverRaven/Cataclysm-DDA/pull/87359))
 * implement math effect to check light level on tile ([#87368](https://github.com/CleverRaven/Cataclysm-DDA/pull/87368))
@@ -213,7 +215,6 @@
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
 * Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
 * Bump android release workflow java version to 17 ([#87318](https://github.com/CleverRaven/Cataclysm-DDA/pull/87318))
-* Fix search field not losing focus in keybinds menu ([#87262](https://github.com/CleverRaven/Cataclysm-DDA/pull/87262))
 * Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge ([#87309](https://github.com/CleverRaven/Cataclysm-DDA/pull/87309))
 * Migrate Android to SDL3 via CMake + AAR, bump buildkit ([#87290](https://github.com/CleverRaven/Cataclysm-DDA/pull/87290))
 * Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
@@ -227,4 +228,3 @@
 * The Scarlet Sea ([#87270](https://github.com/CleverRaven/Cataclysm-DDA/pull/87270))
 * Frog tongue no longer has a whip attack ([#87272](https://github.com/CleverRaven/Cataclysm-DDA/pull/87272))
 * fix crazy turret room in labyrinth ([#87274](https://github.com/CleverRaven/Cataclysm-DDA/pull/87274))
-* fixes smokes' inventory. fixes welding wire prices ([#87263](https://github.com/CleverRaven/Cataclysm-DDA/pull/87263))
