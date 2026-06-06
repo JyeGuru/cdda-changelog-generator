@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-06-2003 ([6aa8bc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-2003))
+
 * set duct_tape length ([#87470](https://github.com/CleverRaven/Cataclysm-DDA/pull/87470))
 
 ---
@@ -153,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2026-06-03-1542 ([ebc24e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1542))
 
 * Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-03-1504 ([290af68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1504))
-
 * Remove a few duplicate definitons from region_settings ([#87403](https://github.com/CleverRaven/Cataclysm-DDA/pull/87403))
 * Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
 * [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))

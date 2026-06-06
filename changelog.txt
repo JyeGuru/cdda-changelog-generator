@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-06-06-2003 (6aa8bc9)
 * set duct_tape length (#87470)
 
 Cataclysm-DDA experimental build 2026-06-06-1824 (3fe0d38)
@@ -84,8 +86,6 @@ Cataclysm-DDA experimental build 2026-06-03-1654 (ff50be8)
 
 Cataclysm-DDA experimental build 2026-06-03-1542 (ebc24e5)
 * Multimag PAPRs (#87406)
-
-Cataclysm-DDA experimental build 2026-06-03-1504 (290af68)
 * Remove a few duplicate definitons from region_settings (#87403)
 * Remove pp riot damage from MVAS location (#87404)
 * [Innawood] More innawood blacklisting (#87393)
