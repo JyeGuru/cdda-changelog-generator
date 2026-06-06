@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-06-0229 ([04ce4b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0229))
+
+* make bodypart being able to modify pain applied to it ([#87390](https://github.com/CleverRaven/Cataclysm-DDA/pull/87390))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-06-0150 ([6789a1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0150))
+
+* [Innawood] Ravine bottom map extras ([#87264](https://github.com/CleverRaven/Cataclysm-DDA/pull/87264))
 * Sort itemgroups (11): Swimming/Military ([#87387](https://github.com/CleverRaven/Cataclysm-DDA/pull/87387))
 * fix: initialize Bombastic Perks on controlled NPC followers ([#87375](https://github.com/CleverRaven/Cataclysm-DDA/pull/87375))
 * New Hoarder morale calculations ([#87374](https://github.com/CleverRaven/Cataclysm-DDA/pull/87374))
@@ -174,17 +186,7 @@
 #### Cataclysm-DDA experimental build 2026-06-02-1049 ([e7570fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-1049))
 
 * Weekly Changelog 2026-05-25 to 2026-06-01 ([#87359](https://github.com/CleverRaven/Cataclysm-DDA/pull/87359))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-0635 ([3a7518e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0635))
-
 * implement math effect to check light level on tile ([#87368](https://github.com/CleverRaven/Cataclysm-DDA/pull/87368))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-02-0549 ([b8b7097](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-02-0549))
-
 * [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
 * Sort itemgroups (10): Accessories/Bags/Underwear ([#87364](https://github.com/CleverRaven/Cataclysm-DDA/pull/87364))
 * [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it ([#87372](https://github.com/CleverRaven/Cataclysm-DDA/pull/87372))
@@ -210,14 +212,12 @@
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
 * Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
 * Sort itemgroups (8): Misc ([#87261](https://github.com/CleverRaven/Cataclysm-DDA/pull/87261))
-* fix: compare menu shown under crafting menu ([#87259](https://github.com/CleverRaven/Cataclysm-DDA/pull/87259))
 * Bump android release workflow java version to 17 ([#87318](https://github.com/CleverRaven/Cataclysm-DDA/pull/87318))
 * Fix search field not losing focus in keybinds menu ([#87262](https://github.com/CleverRaven/Cataclysm-DDA/pull/87262))
 * Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge ([#87309](https://github.com/CleverRaven/Cataclysm-DDA/pull/87309))
 * Migrate Android to SDL3 via CMake + AAR, bump buildkit ([#87290](https://github.com/CleverRaven/Cataclysm-DDA/pull/87290))
 * Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
 * typo in Weather Permitting ("a a" -> "a") ([#87294](https://github.com/CleverRaven/Cataclysm-DDA/pull/87294))
-* Aftershock: Carbide amor faults ([#87254](https://github.com/CleverRaven/Cataclysm-DDA/pull/87254))
 * Compound Eyes is now a bodypart ([#87287](https://github.com/CleverRaven/Cataclysm-DDA/pull/87287))
 * Fix vehicle shape preview not working when installing adjacent to a frame ([#87280](https://github.com/CleverRaven/Cataclysm-DDA/pull/87280))
 * Obsolete Limp_WIP mod ([#87281](https://github.com/CleverRaven/Cataclysm-DDA/pull/87281))
@@ -228,4 +228,3 @@
 * Frog tongue no longer has a whip attack ([#87272](https://github.com/CleverRaven/Cataclysm-DDA/pull/87272))
 * fix crazy turret room in labyrinth ([#87274](https://github.com/CleverRaven/Cataclysm-DDA/pull/87274))
 * fixes smokes' inventory. fixes welding wire prices ([#87263](https://github.com/CleverRaven/Cataclysm-DDA/pull/87263))
-* fix MTF evolving into other devourers ([#87255](https://github.com/CleverRaven/Cataclysm-DDA/pull/87255))
