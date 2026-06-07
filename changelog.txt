@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-06-2343 (6840044)
+* Fix sewage treatment quicklime drum error (#87476)
+
 Cataclysm-DDA experimental build 2026-06-06-2003 (6aa8bc9)
 * set duct_tape length (#87470)
 
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2026-06-03-2027 (cc4a8a5)
 
 Cataclysm-DDA experimental build 2026-06-03-1654 (ff50be8)
 * Open Season on Typos (#87347)
-
-Cataclysm-DDA experimental build 2026-06-03-1542 (ebc24e5)
 * Multimag PAPRs (#87406)
 * Remove a few duplicate definitons from region_settings (#87403)
 * Remove pp riot damage from MVAS location (#87404)
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2026-06-03-1542 (ebc24e5)
 * Fix Innawood Paraclesian hobbies (#87283)
 * Labyrinth safehouse: Autodoc upgrade (#87284)
 * Wasps no longer have custom limb targeting weights for their bite attack (#87278)
-* fix crazy turret room in labyrinth (#87274)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-06-2343 ([6840044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-2343))
+
+* Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-06-2003 ([6aa8bc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-2003))
 
 * set duct_tape length ([#87470](https://github.com/CleverRaven/Cataclysm-DDA/pull/87470))
@@ -152,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2026-06-03-1654 ([ff50be8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1654))
 
 * Open Season on Typos ([#87347](https://github.com/CleverRaven/Cataclysm-DDA/pull/87347))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-03-1542 ([ebc24e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1542))
-
 * Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
 * Remove a few duplicate definitons from region_settings ([#87403](https://github.com/CleverRaven/Cataclysm-DDA/pull/87403))
 * Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
@@ -203,4 +204,3 @@
 * Fix Innawood Paraclesian hobbies ([#87283](https://github.com/CleverRaven/Cataclysm-DDA/pull/87283))
 * Labyrinth safehouse: Autodoc upgrade ([#87284](https://github.com/CleverRaven/Cataclysm-DDA/pull/87284))
 * Wasps no longer have custom limb targeting weights for their bite attack ([#87278](https://github.com/CleverRaven/Cataclysm-DDA/pull/87278))
-* fix crazy turret room in labyrinth ([#87274](https://github.com/CleverRaven/Cataclysm-DDA/pull/87274))
