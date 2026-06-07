@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-07-2309 (ab094ab)
+* [Innawood] Fix ravine cutouts (#87499)
+
 Cataclysm-DDA experimental build 2026-06-07-2117 (bcb82c4)
 * Use CMake FreeType target for ImGui (#87498)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2026-06-05-1638 (3878f87)
 
 Cataclysm-DDA experimental build 2026-06-05-1552 (9937316)
 * Stop rebuilding crafting cost context every tick (#87433)
-
-Cataclysm-DDA experimental build 2026-06-05-1340 (5a2cfca)
 * Tileset loader parse/upload split and scoped render-target helpers (#87418)
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT (#87428)
 * Update Rubber Dissasembly results (#87377)
@@ -131,5 +132,4 @@ Cataclysm-DDA experimental build 2026-06-05-1340 (5a2cfca)
 * Minor itemgroup fixes (#87348)
 * Clarify power failure chance in help files (#87350)
 * [XEDRA Evolved] Fix XE dream snippets not appearing (#87339)
-* De-charge graphite, nuts and bolts (#87332)
 * [XedraWood] Remove everything unnecessary to water redefinition (#87336)

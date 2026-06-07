@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-07-2309 ([ab094ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-2309))
+
+* [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-07-2117 ([bcb82c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-2117))
 
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
@@ -153,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2026-06-05-1552 ([9937316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1552))
 
 * Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-05-1340 ([5a2cfca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1340))
-
 * Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
 * Update Rubber Dissasembly results ([#87377](https://github.com/CleverRaven/Cataclysm-DDA/pull/87377))
@@ -197,5 +198,4 @@
 * Minor itemgroup fixes ([#87348](https://github.com/CleverRaven/Cataclysm-DDA/pull/87348))
 * Clarify power failure chance in help files ([#87350](https://github.com/CleverRaven/Cataclysm-DDA/pull/87350))
 * [XEDRA Evolved] Fix XE dream snippets not appearing ([#87339](https://github.com/CleverRaven/Cataclysm-DDA/pull/87339))
-* De-charge graphite, nuts and bolts ([#87332](https://github.com/CleverRaven/Cataclysm-DDA/pull/87332))
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
