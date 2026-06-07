@@ -1,6 +1,16 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-07-0138 ([8eda7e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-0138))
+
+* Allow loading screens to be picked from both mods and vanilla if mods are loaded ([#87395](https://github.com/CleverRaven/Cataclysm-DDA/pull/87395))
+* graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
+* [Magiclysm] Update construction recipe for Translocator Gates ([#87319](https://github.com/CleverRaven/Cataclysm-DDA/pull/87319))
+* Add the renderer-resource recovery coordinator and its drain planner ([#87422](https://github.com/CleverRaven/Cataclysm-DDA/pull/87422))
+* put solder in spool, adjust spawning accordingly ([#87468](https://github.com/CleverRaven/Cataclysm-DDA/pull/87468))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-06-2343 ([6840044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-2343))
 
 * Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))
@@ -146,17 +156,7 @@
 #### Cataclysm-DDA experimental build 2026-06-04-0329 ([9877142](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-0329))
 
 * Blacklist a whole bunch of recipes in Aftershock ([#87329](https://github.com/CleverRaven/Cataclysm-DDA/pull/87329))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-03-2027 ([cc4a8a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-2027))
-
 * fix math effect to check light level ([#87384](https://github.com/CleverRaven/Cataclysm-DDA/pull/87384))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-03-1654 ([ff50be8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-03-1654))
-
 * Open Season on Typos ([#87347](https://github.com/CleverRaven/Cataclysm-DDA/pull/87347))
 * Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
 * Remove a few duplicate definitons from region_settings ([#87403](https://github.com/CleverRaven/Cataclysm-DDA/pull/87403))
@@ -198,9 +198,3 @@
 * Migrate Android to SDL3 via CMake + AAR, bump buildkit ([#87290](https://github.com/CleverRaven/Cataclysm-DDA/pull/87290))
 * Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
 * typo in Weather Permitting ("a a" -> "a") ([#87294](https://github.com/CleverRaven/Cataclysm-DDA/pull/87294))
-* Compound Eyes is now a bodypart ([#87287](https://github.com/CleverRaven/Cataclysm-DDA/pull/87287))
-* Fix vehicle shape preview not working when installing adjacent to a frame ([#87280](https://github.com/CleverRaven/Cataclysm-DDA/pull/87280))
-* Obsolete Limp_WIP mod ([#87281](https://github.com/CleverRaven/Cataclysm-DDA/pull/87281))
-* Fix Innawood Paraclesian hobbies ([#87283](https://github.com/CleverRaven/Cataclysm-DDA/pull/87283))
-* Labyrinth safehouse: Autodoc upgrade ([#87284](https://github.com/CleverRaven/Cataclysm-DDA/pull/87284))
-* Wasps no longer have custom limb targeting weights for their bite attack ([#87278](https://github.com/CleverRaven/Cataclysm-DDA/pull/87278))
