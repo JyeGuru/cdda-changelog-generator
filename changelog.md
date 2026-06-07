@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-07-1831 ([aeb740b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1831))
+
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
 * [XedraWood] Hobby audit ([#87430](https://github.com/CleverRaven/Cataclysm-DDA/pull/87430))
 
@@ -157,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-06-04-2007 ([5aef60b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-2007))
 
 * [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-04-1722 ([d3df35f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1722))
-
 * [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
 * [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))
 * Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
