@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-07-1120 ([2de0482](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1120))
+
+* Fix hardcoded FreeType include path for Windows CMake builds  ([#87440](https://github.com/CleverRaven/Cataclysm-DDA/pull/87440))
+* Fix outgoing links from CONTRIBUTING.md ([#87480](https://github.com/CleverRaven/Cataclysm-DDA/pull/87480))
+* Look around: show memorised terrain and furniture ([#87481](https://github.com/CleverRaven/Cataclysm-DDA/pull/87481))
+* Fix SDL3 shader fallback tiles going black ([#87487](https://github.com/CleverRaven/Cataclysm-DDA/pull/87487))
+* Resin Floor can't be built where Log Floor can be built #86908 ([#87463](https://github.com/CleverRaven/Cataclysm-DDA/pull/87463))
+* Fix Rubik/exodii is way too peaceful #87450 ([#87459](https://github.com/CleverRaven/Cataclysm-DDA/pull/87459))
+* Fix Infinite potion spells (magiclysm) #87324 ([#87460](https://github.com/CleverRaven/Cataclysm-DDA/pull/87460))
+* Make Immune to field not decrease field intensity on entry ([#87462](https://github.com/CleverRaven/Cataclysm-DDA/pull/87462))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-07-0955 ([4c84387](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-0955))
 
 * Add tests for the renderer-resource recovery coordinator ([#87423](https://github.com/CleverRaven/Cataclysm-DDA/pull/87423))
@@ -156,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-06-04-1344 ([9e28b2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1344))
 
 * Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-04-0329 ([9877142](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-0329))
-
 * Blacklist a whole bunch of recipes in Aftershock ([#87329](https://github.com/CleverRaven/Cataclysm-DDA/pull/87329))
 * fix math effect to check light level ([#87384](https://github.com/CleverRaven/Cataclysm-DDA/pull/87384))
 * Open Season on Typos ([#87347](https://github.com/CleverRaven/Cataclysm-DDA/pull/87347))
@@ -185,7 +193,6 @@
 * labyrinth safehouse upgrade, change wire -> lc_wire ([#87352](https://github.com/CleverRaven/Cataclysm-DDA/pull/87352))
 * Fix crafting performance ([#87343](https://github.com/CleverRaven/Cataclysm-DDA/pull/87343))
 * Sort ammotype declarations in multimag_matrix_test ([#87357](https://github.com/CleverRaven/Cataclysm-DDA/pull/87357))
-* Fix: AIM `examine menu > activate` overlaps item selection ([#87299](https://github.com/CleverRaven/Cataclysm-DDA/pull/87299))
 * [Sky Island] Add triffid pollen to the list of effects that being healed removes ([#87337](https://github.com/CleverRaven/Cataclysm-DDA/pull/87337))
 * Invalidate clang-tidy plugin cache on LLVM patch bumps ([#87344](https://github.com/CleverRaven/Cataclysm-DDA/pull/87344))
 * [XE] Additions to the vampire hunter faction. ([#87353](https://github.com/CleverRaven/Cataclysm-DDA/pull/87353))
@@ -200,6 +207,3 @@
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
 * Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
 * Bump android release workflow java version to 17 ([#87318](https://github.com/CleverRaven/Cataclysm-DDA/pull/87318))
-* Fix multitile display for t_nl_metal_wall_edge and t_nl_sewage_pipe_edge ([#87309](https://github.com/CleverRaven/Cataclysm-DDA/pull/87309))
-* Use safe_reference for deferred explosion source ([#87292](https://github.com/CleverRaven/Cataclysm-DDA/pull/87292))
-* typo in Weather Permitting ("a a" -> "a") ([#87294](https://github.com/CleverRaven/Cataclysm-DDA/pull/87294))
