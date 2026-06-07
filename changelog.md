@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-07-2117 ([bcb82c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-2117))
+
+* Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-07-2026 ([fedd8d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-2026))
+
 * Zombies and humanoid monsters in general have vital weakpoints ([#87420](https://github.com/CleverRaven/Cataclysm-DDA/pull/87420))
 * Wire renderer recovery into the game loop and fix the Android resume black screen ([#87424](https://github.com/CleverRaven/Cataclysm-DDA/pull/87424))
 
@@ -69,12 +80,6 @@
 * Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
 * Add reset and rebind primitives for renderer-owned GPU resources ([#87421](https://github.com/CleverRaven/Cataclysm-DDA/pull/87421))
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-06-1517 ([f2103b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-1517))
-
-* Replace monattack targeting specific body part with monattack targeting specific body part type ([#87330](https://github.com/CleverRaven/Cataclysm-DDA/pull/87330))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
 
 ---
@@ -154,17 +159,7 @@
 #### Cataclysm-DDA experimental build 2026-06-05-1340 ([5a2cfca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1340))
 
 * Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-05-1134 ([654aa41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1134))
-
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-04-2105 ([2cb49db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-2105))
-
 * Update Rubber Dissasembly results ([#87377](https://github.com/CleverRaven/Cataclysm-DDA/pull/87377))
 * [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
 * [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
