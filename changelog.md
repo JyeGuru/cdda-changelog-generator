@@ -1,3 +1,5 @@
+* Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
+* [XedraWood] Hobby audit ([#87430](https://github.com/CleverRaven/Cataclysm-DDA/pull/87430))
 
 ---
 
@@ -30,7 +32,6 @@
 
 * Allow loading screens to be picked from both mods and vanilla if mods are loaded ([#87395](https://github.com/CleverRaven/Cataclysm-DDA/pull/87395))
 * graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
-* [Magiclysm] Update construction recipe for Translocator Gates ([#87319](https://github.com/CleverRaven/Cataclysm-DDA/pull/87319))
 * Add the renderer-resource recovery coordinator and its drain planner ([#87422](https://github.com/CleverRaven/Cataclysm-DDA/pull/87422))
 * put solder in spool, adjust spawning accordingly ([#87468](https://github.com/CleverRaven/Cataclysm-DDA/pull/87468))
 
@@ -163,11 +164,6 @@
 
 * [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
 * [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-04-1640 ([5ed3e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1640))
-
 * Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
 * Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
 * Blacklist a whole bunch of recipes in Aftershock ([#87329](https://github.com/CleverRaven/Cataclysm-DDA/pull/87329))

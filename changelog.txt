@@ -1,3 +1,5 @@
+* Make Android system bars configurable (#87496)
+* [XedraWood] Hobby audit (#87430)
 
 Cataclysm-DDA experimental build 2026-06-07-1305 (f2fbb56)
 * Clean up SDL3 clang-tidy findings (#87490)
@@ -18,7 +20,6 @@ Cataclysm-DDA experimental build 2026-06-07-0955 (4c84387)
 Cataclysm-DDA experimental build 2026-06-07-0138 (8eda7e4)
 * Allow loading screens to be picked from both mods and vanilla if mods are loaded (#87395)
 * graphite spawn and stats adjustments (#87479)
-* [Magiclysm] Update construction recipe for Translocator Gates (#87319)
 * Add the renderer-resource recovery coordinator and its drain planner (#87422)
 * put solder in spool, adjust spawning accordingly (#87468)
 
@@ -94,8 +95,6 @@ Cataclysm-DDA experimental build 2026-06-04-2007 (5aef60b)
 Cataclysm-DDA experimental build 2026-06-04-1722 (d3df35f)
 * [Innawood] Even more blacklisting (#87397)
 * [XedraWood] Add some mod identity around evolution and zombification (#87408)
-
-Cataclysm-DDA experimental build 2026-06-04-1640 (5ed3e66)
 * Add wiring to t_wall_metal (#87412)
 * Gold is worthless (#87411)
 * Blacklist a whole bunch of recipes in Aftershock (#87329)
