@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-07-1305 ([f2fbb56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1305))
+
+* Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-07-1120 ([2de0482](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1120))
 
 * Fix hardcoded FreeType include path for Windows CMake builds  ([#87440](https://github.com/CleverRaven/Cataclysm-DDA/pull/87440))
@@ -163,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-06-04-1640 ([5ed3e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1640))
 
 * Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-04-1344 ([9e28b2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-1344))
-
 * Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
 * Blacklist a whole bunch of recipes in Aftershock ([#87329](https://github.com/CleverRaven/Cataclysm-DDA/pull/87329))
 * fix math effect to check light level ([#87384](https://github.com/CleverRaven/Cataclysm-DDA/pull/87384))
