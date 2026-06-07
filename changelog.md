@@ -1,3 +1,13 @@
+* Zombies and humanoid monsters in general have vital weakpoints ([#87420](https://github.com/CleverRaven/Cataclysm-DDA/pull/87420))
+* Wire renderer recovery into the game loop and fix the Android resume black screen ([#87424](https://github.com/CleverRaven/Cataclysm-DDA/pull/87424))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-07-1933 ([7acf286](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1933))
+
+* Iron Safari, Circuit Safari, and the Hub 01 Bionic Garage no longer require you to physically lift massive robots to finish missions ([#87484](https://github.com/CleverRaven/Cataclysm-DDA/pull/87484))
+* Make SDL3 the default tiled build ([#87474](https://github.com/CleverRaven/Cataclysm-DDA/pull/87474))
+* Fix "Semi frequent crash when using the safehouse teleporter" ([#87488](https://github.com/CleverRaven/Cataclysm-DDA/pull/87488))
 
 ---
 
@@ -156,17 +166,11 @@
 #### Cataclysm-DDA experimental build 2026-06-04-2105 ([2cb49db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-2105))
 
 * Update Rubber Dissasembly results ([#87377](https://github.com/CleverRaven/Cataclysm-DDA/pull/87377))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-04-2007 ([5aef60b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-04-2007))
-
 * [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
 * [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
 * [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))
 * Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
 * Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
-* Blacklist a whole bunch of recipes in Aftershock ([#87329](https://github.com/CleverRaven/Cataclysm-DDA/pull/87329))
 * fix math effect to check light level ([#87384](https://github.com/CleverRaven/Cataclysm-DDA/pull/87384))
 * Open Season on Typos ([#87347](https://github.com/CleverRaven/Cataclysm-DDA/pull/87347))
 * Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
@@ -184,7 +188,6 @@
 * Sort itemgroups (10): Accessories/Bags/Underwear ([#87364](https://github.com/CleverRaven/Cataclysm-DDA/pull/87364))
 * [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it ([#87372](https://github.com/CleverRaven/Cataclysm-DDA/pull/87372))
 * [Magiclysm] No longer can you tame zombie aenóren ([#87354](https://github.com/CleverRaven/Cataclysm-DDA/pull/87354))
-* De-charge a bunch of stuff that should never have had charges (5) ([#87323](https://github.com/CleverRaven/Cataclysm-DDA/pull/87323))
 * Android: skip ccache compiler launcher when not on PATH ([#87355](https://github.com/CleverRaven/Cataclysm-DDA/pull/87355))
 * Fix SDL3 zoom crash from tint mask render target switch ([#87360](https://github.com/CleverRaven/Cataclysm-DDA/pull/87360))
 * labyrinth safehouse upgrade, change wire -> lc_wire ([#87352](https://github.com/CleverRaven/Cataclysm-DDA/pull/87352))
@@ -199,7 +202,5 @@
 * Minor itemgroup fixes ([#87348](https://github.com/CleverRaven/Cataclysm-DDA/pull/87348))
 * Clarify power failure chance in help files ([#87350](https://github.com/CleverRaven/Cataclysm-DDA/pull/87350))
 * [XEDRA Evolved] Fix XE dream snippets not appearing ([#87339](https://github.com/CleverRaven/Cataclysm-DDA/pull/87339))
-* Conflicts for Aftershock Exoplanet and Massachussetts Mod ([#87327](https://github.com/CleverRaven/Cataclysm-DDA/pull/87327))
 * De-charge graphite, nuts and bolts ([#87332](https://github.com/CleverRaven/Cataclysm-DDA/pull/87332))
 * [XedraWood] Remove everything unnecessary to water redefinition ([#87336](https://github.com/CleverRaven/Cataclysm-DDA/pull/87336))
-* Scenario: Challenge - Labyrinth Bound ([#87325](https://github.com/CleverRaven/Cataclysm-DDA/pull/87325))
