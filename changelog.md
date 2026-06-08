@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-08-1855 ([94d2312](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1855))
+
+* [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-08-1501 ([5aa2cb6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1501))
 
 * Change HWP 4.6/5.7 magazine to 5.7 only ([#87435](https://github.com/CleverRaven/Cataclysm-DDA/pull/87435))
@@ -202,5 +208,4 @@
 * Sort ammotype declarations in multimag_matrix_test ([#87357](https://github.com/CleverRaven/Cataclysm-DDA/pull/87357))
 * [XE] Additions to the vampire hunter faction. ([#87353](https://github.com/CleverRaven/Cataclysm-DDA/pull/87353))
 * Sort itemgroups (9): Jewelry ([#87349](https://github.com/CleverRaven/Cataclysm-DDA/pull/87349))
-* Minor itemgroup fixes ([#87348](https://github.com/CleverRaven/Cataclysm-DDA/pull/87348))
 * Clarify power failure chance in help files ([#87350](https://github.com/CleverRaven/Cataclysm-DDA/pull/87350))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-08-1855 (94d2312)
+* [Magiclysm] Fix Aura of Protection proficiency XP (#87520)
+
 Cataclysm-DDA experimental build 2026-06-08-1501 (5aa2cb6)
 * Change HWP 4.6/5.7 magazine to 5.7 only (#87435)
 * Fix copper stats (#87518)
@@ -133,5 +136,4 @@ Cataclysm-DDA experimental build 2026-06-06-0059 (ccb8a6f)
 * Sort ammotype declarations in multimag_matrix_test (#87357)
 * [XE] Additions to the vampire hunter faction. (#87353)
 * Sort itemgroups (9): Jewelry (#87349)
-* Minor itemgroup fixes (#87348)
 * Clarify power failure chance in help files (#87350)
