@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-08-0002 ([1993d20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-0002))
+
+* place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-07-2309 ([ab094ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-2309))
 
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
@@ -153,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2026-06-05-1638 ([3878f87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1638))
 
 * Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-05-1552 ([9937316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1552))
-
 * Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
 * Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
@@ -177,7 +178,6 @@
 * CMake+vcpkg to select SDL3 or SDL2 ([#87351](https://github.com/CleverRaven/Cataclysm-DDA/pull/87351))
 * [MoM] Add Interstice/MoM interactions ([#87365](https://github.com/CleverRaven/Cataclysm-DDA/pull/87365))
 * Fix labyrinth door connections ([#87386](https://github.com/CleverRaven/Cataclysm-DDA/pull/87386))
-* Fix for subset of high severity density mismatches caused by decharging (Fixes #87293) ([#87334](https://github.com/CleverRaven/Cataclysm-DDA/pull/87334))
 * Weekly Changelog 2026-05-25 to 2026-06-01 ([#87359](https://github.com/CleverRaven/Cataclysm-DDA/pull/87359))
 * implement math effect to check light level on tile ([#87368](https://github.com/CleverRaven/Cataclysm-DDA/pull/87368))
 * [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
