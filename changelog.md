@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-08-0210 ([dcf7e54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-0210))
+
+* Remove weaving recipes that use spinning tools ([#87482](https://github.com/CleverRaven/Cataclysm-DDA/pull/87482))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-08-0002 ([1993d20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-0002))
 
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
@@ -153,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2026-06-05-1739 ([0025d45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1739))
 
 * [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-05-1638 ([3878f87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-1638))
-
 * Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
 * Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
 * Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
@@ -192,7 +193,6 @@
 * [Sky Island] Add triffid pollen to the list of effects that being healed removes ([#87337](https://github.com/CleverRaven/Cataclysm-DDA/pull/87337))
 * Invalidate clang-tidy plugin cache on LLVM patch bumps ([#87344](https://github.com/CleverRaven/Cataclysm-DDA/pull/87344))
 * [XE] Additions to the vampire hunter faction. ([#87353](https://github.com/CleverRaven/Cataclysm-DDA/pull/87353))
-* Fangs cover your muzzle ([#87335](https://github.com/CleverRaven/Cataclysm-DDA/pull/87335))
 * Split fleshborgs into ranged & melee ([#87341](https://github.com/CleverRaven/Cataclysm-DDA/pull/87341))
 * Sort itemgroups (9): Jewelry ([#87349](https://github.com/CleverRaven/Cataclysm-DDA/pull/87349))
 * Minor itemgroup fixes ([#87348](https://github.com/CleverRaven/Cataclysm-DDA/pull/87348))

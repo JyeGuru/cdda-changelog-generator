@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-08-0210 (dcf7e54)
+* Remove weaving recipes that use spinning tools (#87482)
+
 Cataclysm-DDA experimental build 2026-06-08-0002 (1993d20)
 * place different types of batteries into junk drawer (#87504)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2026-06-05-2027 (b913e5e)
 
 Cataclysm-DDA experimental build 2026-06-05-1739 (0025d45)
 * [XedraWood] Mod conflicts (#87443)
-
-Cataclysm-DDA experimental build 2026-06-05-1638 (3878f87)
 * Fix SDL3 colored light tint accumulation and dimming (#87436)
 * Stop rebuilding crafting cost context every tick (#87433)
 * Tileset loader parse/upload split and scoped render-target helpers (#87418)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2026-06-05-1638 (3878f87)
 * [Sky Island] Add triffid pollen to the list of effects that being healed removes (#87337)
 * Invalidate clang-tidy plugin cache on LLVM patch bumps (#87344)
 * [XE] Additions to the vampire hunter faction. (#87353)
-* Fangs cover your muzzle (#87335)
 * Split fleshborgs into ranged & melee (#87341)
 * Sort itemgroups (9): Jewelry (#87349)
 * Minor itemgroup fixes (#87348)
