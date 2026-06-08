@@ -1,3 +1,24 @@
+* Change HWP 4.6/5.7 magazine to 5.7 only ([#87435](https://github.com/CleverRaven/Cataclysm-DDA/pull/87435))
+* Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
+* Abort and quarantine tileset atlas uploads interrupted by a renderer reset ([#87426](https://github.com/CleverRaven/Cataclysm-DDA/pull/87426))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-08-1419 ([a6a99ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1419))
+
+* [XedraWood] Change coordinates to around Raleigh ([#87455](https://github.com/CleverRaven/Cataclysm-DDA/pull/87455))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-08-1334 ([a1376e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1334))
+
+* [Innawood] More blacklisting for recipes ([#87500](https://github.com/CleverRaven/Cataclysm-DDA/pull/87500))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-08-1207 ([f8df666](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1207))
+
+* Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
 
 ---
 
@@ -146,17 +167,7 @@
 * Bundle the SDL3 stack into release artifacts ([#87447](https://github.com/CleverRaven/Cataclysm-DDA/pull/87447))
 * [XedraWood] Playable lizardfolk ([#87451](https://github.com/CleverRaven/Cataclysm-DDA/pull/87451))
 * [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-05-2259 ([093c61a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-2259))
-
 * update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-05-2027 ([b913e5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-2027))
-
 * Fix `rot_spawn_data` inheritance overriding unset values ([#87398](https://github.com/CleverRaven/Cataclysm-DDA/pull/87398))
 * Fix typo in Hub01 mission ([#87427](https://github.com/CleverRaven/Cataclysm-DDA/pull/87427))
 * [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
@@ -171,7 +182,6 @@
 * Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
 * Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
 * fix math effect to check light level ([#87384](https://github.com/CleverRaven/Cataclysm-DDA/pull/87384))
-* Open Season on Typos ([#87347](https://github.com/CleverRaven/Cataclysm-DDA/pull/87347))
 * Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
 * Remove a few duplicate definitons from region_settings ([#87403](https://github.com/CleverRaven/Cataclysm-DDA/pull/87403))
 * Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
@@ -189,13 +199,8 @@
 * Android: skip ccache compiler launcher when not on PATH ([#87355](https://github.com/CleverRaven/Cataclysm-DDA/pull/87355))
 * Fix SDL3 zoom crash from tint mask render target switch ([#87360](https://github.com/CleverRaven/Cataclysm-DDA/pull/87360))
 * labyrinth safehouse upgrade, change wire -> lc_wire ([#87352](https://github.com/CleverRaven/Cataclysm-DDA/pull/87352))
-* Fix crafting performance ([#87343](https://github.com/CleverRaven/Cataclysm-DDA/pull/87343))
 * Sort ammotype declarations in multimag_matrix_test ([#87357](https://github.com/CleverRaven/Cataclysm-DDA/pull/87357))
-* [Sky Island] Add triffid pollen to the list of effects that being healed removes ([#87337](https://github.com/CleverRaven/Cataclysm-DDA/pull/87337))
-* Invalidate clang-tidy plugin cache on LLVM patch bumps ([#87344](https://github.com/CleverRaven/Cataclysm-DDA/pull/87344))
 * [XE] Additions to the vampire hunter faction. ([#87353](https://github.com/CleverRaven/Cataclysm-DDA/pull/87353))
-* Split fleshborgs into ranged & melee ([#87341](https://github.com/CleverRaven/Cataclysm-DDA/pull/87341))
 * Sort itemgroups (9): Jewelry ([#87349](https://github.com/CleverRaven/Cataclysm-DDA/pull/87349))
 * Minor itemgroup fixes ([#87348](https://github.com/CleverRaven/Cataclysm-DDA/pull/87348))
 * Clarify power failure chance in help files ([#87350](https://github.com/CleverRaven/Cataclysm-DDA/pull/87350))
-* [XEDRA Evolved] Fix XE dream snippets not appearing ([#87339](https://github.com/CleverRaven/Cataclysm-DDA/pull/87339))
