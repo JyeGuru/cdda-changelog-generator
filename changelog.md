@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-08-1501 ([5aa2cb6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1501))
+
 * Change HWP 4.6/5.7 magazine to 5.7 only ([#87435](https://github.com/CleverRaven/Cataclysm-DDA/pull/87435))
 * Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
 * Abort and quarantine tileset atlas uploads interrupted by a renderer reset ([#87426](https://github.com/CleverRaven/Cataclysm-DDA/pull/87426))
@@ -156,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2026-06-06-0059 ([ccb8a6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0059))
 
 * Flip the idle render target to null and bind display_buffer per draw ([#87419](https://github.com/CleverRaven/Cataclysm-DDA/pull/87419))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-05-2336 ([23be35d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-05-2336))
-
 * Fix conflicting keybinds in debug menu ([#87437](https://github.com/CleverRaven/Cataclysm-DDA/pull/87437))
 * Allow more simple drinks crafting in dark ([#87438](https://github.com/CleverRaven/Cataclysm-DDA/pull/87438))
 * Draw the Android surface edge to edge with a safe-area display option ([#87442](https://github.com/CleverRaven/Cataclysm-DDA/pull/87442))
