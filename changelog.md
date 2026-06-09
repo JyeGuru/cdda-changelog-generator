@@ -1,6 +1,22 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-09-1259 ([bd06185](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1259))
+
+* Add firewood ([#87528](https://github.com/CleverRaven/Cataclysm-DDA/pull/87528))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-06-09-1234 ([62b1aae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-09-1234))
+
+* [0.I] Fix MSXotto+ lingering experimental bits in layering.json ([#87523](https://github.com/CleverRaven/Cataclysm-DDA/pull/87523))
+* Add dylibbundler dep to MacOS docs ([#87538](https://github.com/CleverRaven/Cataclysm-DDA/pull/87538))
+* Fix SDL3 numpad repeat on macOS ([#87519](https://github.com/CleverRaven/Cataclysm-DDA/pull/87519))
+* feat(sort armor): add toggle favorite action ([#87492](https://github.com/CleverRaven/Cataclysm-DDA/pull/87492))
+* Adds more Highland Oasis variants ([#87501](https://github.com/CleverRaven/Cataclysm-DDA/pull/87501))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-09-1107 ([bb660fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1107))
 
 * Fix exodii limb armor, nuke acid armor ([#87524](https://github.com/CleverRaven/Cataclysm-DDA/pull/87524))
@@ -157,17 +173,7 @@
 #### Cataclysm-DDA experimental build 2026-06-06-2343 ([6840044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-2343))
 
 * Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-06-2003 ([6aa8bc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-2003))
-
 * set duct_tape length ([#87470](https://github.com/CleverRaven/Cataclysm-DDA/pull/87470))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-06-1824 ([3fe0d38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-1824))
-
 * Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
 * Add reset and rebind primitives for renderer-owned GPU resources ([#87421](https://github.com/CleverRaven/Cataclysm-DDA/pull/87421))
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
@@ -207,10 +213,6 @@
 * Remove a few duplicate definitons from region_settings ([#87403](https://github.com/CleverRaven/Cataclysm-DDA/pull/87403))
 * Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
 * [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))
-* Lowered Synthetic Armors (and Amphibian Biology) proficiency learn to 30m ([#87361](https://github.com/CleverRaven/Cataclysm-DDA/pull/87361))
-* [MoM] Add Interstice/MoM interactions ([#87365](https://github.com/CleverRaven/Cataclysm-DDA/pull/87365))
 * Fix labyrinth door connections ([#87386](https://github.com/CleverRaven/Cataclysm-DDA/pull/87386))
-* implement math effect to check light level on tile ([#87368](https://github.com/CleverRaven/Cataclysm-DDA/pull/87368))
 * [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
-* Sort itemgroups (10): Accessories/Bags/Underwear ([#87364](https://github.com/CleverRaven/Cataclysm-DDA/pull/87364))
 * [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it ([#87372](https://github.com/CleverRaven/Cataclysm-DDA/pull/87372))
