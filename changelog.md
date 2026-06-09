@@ -1,3 +1,21 @@
+* [XedraWood] Add more professions ([#87506](https://github.com/CleverRaven/Cataclysm-DDA/pull/87506))
+* Enable Linux SDL3 desktop backends ([#87508](https://github.com/CleverRaven/Cataclysm-DDA/pull/87508))
+* [Xedra Evolved] Add brain tanning for glimmer fur ([#87521](https://github.com/CleverRaven/Cataclysm-DDA/pull/87521))
+* Show required proficiencies in table ([#87522](https://github.com/CleverRaven/Cataclysm-DDA/pull/87522))
+* fixes #87445 ([#87525](https://github.com/CleverRaven/Cataclysm-DDA/pull/87525))
+* [Xedra Evolved] Palettize elemental altars, overwrite them in XedraWood ([#87532](https://github.com/CleverRaven/Cataclysm-DDA/pull/87532))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-09-0535 ([6c9da24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-0535))
+
+* [Innawood] Overwrite trailhead palette to remove modern items ([#87529](https://github.com/CleverRaven/Cataclysm-DDA/pull/87529))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-09-0220 ([8ca2943](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-0220))
+
+* Skip SDL frameworks for macOS curses release ([#87503](https://github.com/CleverRaven/Cataclysm-DDA/pull/87503))
 
 ---
 
@@ -149,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2026-06-06-0651 ([ddba0cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0651))
 
 * Wounds can apply limb score penalties ([#87392](https://github.com/CleverRaven/Cataclysm-DDA/pull/87392))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-06-0229 ([04ce4b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0229))
-
 * make bodypart being able to modify pain applied to it ([#87390](https://github.com/CleverRaven/Cataclysm-DDA/pull/87390))
 * Sort itemgroups (11): Swimming/Military ([#87387](https://github.com/CleverRaven/Cataclysm-DDA/pull/87387))
 * fix: initialize Bombastic Perks on controlled NPC followers ([#87375](https://github.com/CleverRaven/Cataclysm-DDA/pull/87375))
@@ -161,11 +174,6 @@
 * make food in pet_food_data optional, adjust iuse slightly ([#87373](https://github.com/CleverRaven/Cataclysm-DDA/pull/87373))
 * Set feather and down feather prices to 0 cent ([#87416](https://github.com/CleverRaven/Cataclysm-DDA/pull/87416))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-06-0059 ([ccb8a6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-0059))
-
 * Flip the idle render target to null and bind display_buffer per draw ([#87419](https://github.com/CleverRaven/Cataclysm-DDA/pull/87419))
 * Fix conflicting keybinds in debug menu ([#87437](https://github.com/CleverRaven/Cataclysm-DDA/pull/87437))
 * Allow more simple drinks crafting in dark ([#87438](https://github.com/CleverRaven/Cataclysm-DDA/pull/87438))
@@ -193,7 +201,6 @@
 * Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
 * [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))
 * Lowered Synthetic Armors (and Amphibian Biology) proficiency learn to 30m ([#87361](https://github.com/CleverRaven/Cataclysm-DDA/pull/87361))
-* CMake+vcpkg to select SDL3 or SDL2 ([#87351](https://github.com/CleverRaven/Cataclysm-DDA/pull/87351))
 * [MoM] Add Interstice/MoM interactions ([#87365](https://github.com/CleverRaven/Cataclysm-DDA/pull/87365))
 * Fix labyrinth door connections ([#87386](https://github.com/CleverRaven/Cataclysm-DDA/pull/87386))
 * Weekly Changelog 2026-05-25 to 2026-06-01 ([#87359](https://github.com/CleverRaven/Cataclysm-DDA/pull/87359))
@@ -201,11 +208,4 @@
 * [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
 * Sort itemgroups (10): Accessories/Bags/Underwear ([#87364](https://github.com/CleverRaven/Cataclysm-DDA/pull/87364))
 * [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it ([#87372](https://github.com/CleverRaven/Cataclysm-DDA/pull/87372))
-* [Magiclysm] No longer can you tame zombie aenóren ([#87354](https://github.com/CleverRaven/Cataclysm-DDA/pull/87354))
-* Android: skip ccache compiler launcher when not on PATH ([#87355](https://github.com/CleverRaven/Cataclysm-DDA/pull/87355))
 * Fix SDL3 zoom crash from tint mask render target switch ([#87360](https://github.com/CleverRaven/Cataclysm-DDA/pull/87360))
-* labyrinth safehouse upgrade, change wire -> lc_wire ([#87352](https://github.com/CleverRaven/Cataclysm-DDA/pull/87352))
-* Sort ammotype declarations in multimag_matrix_test ([#87357](https://github.com/CleverRaven/Cataclysm-DDA/pull/87357))
-* [XE] Additions to the vampire hunter faction. ([#87353](https://github.com/CleverRaven/Cataclysm-DDA/pull/87353))
-* Sort itemgroups (9): Jewelry ([#87349](https://github.com/CleverRaven/Cataclysm-DDA/pull/87349))
-* Clarify power failure chance in help files ([#87350](https://github.com/CleverRaven/Cataclysm-DDA/pull/87350))
