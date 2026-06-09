@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-06-09-0613 (1f746fc)
 * [XedraWood] Add more professions (#87506)
 * Enable Linux SDL3 desktop backends (#87508)
 * [Xedra Evolved] Add brain tanning for glimmer fur (#87521)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2026-06-06-1824 (3fe0d38)
 
 Cataclysm-DDA experimental build 2026-06-06-1355 (1e7886f)
 * Add some random fungus to the groundcover pool (#87432)
-
-Cataclysm-DDA experimental build 2026-06-06-0651 (ddba0cb)
 * Wounds can apply limb score penalties (#87392)
 * make bodypart being able to modify pain applied to it (#87390)
 * Sort itemgroups (11): Swimming/Military (#87387)
