@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-09-1549 ([265ac2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1549))
+
+* [Xedra Evolved] Add a few more effects to Lights of Imbolc's curing ([#87533](https://github.com/CleverRaven/Cataclysm-DDA/pull/87533))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-09-1540 ([175b641](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1540))
+
+* [Innawood] Fix modern construction on desert islands ([#87534](https://github.com/CleverRaven/Cataclysm-DDA/pull/87534))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-09-1259 ([bd06185](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1259))
 
 * Add firewood ([#87528](https://github.com/CleverRaven/Cataclysm-DDA/pull/87528))
@@ -167,11 +179,6 @@
 * graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
 * Add the renderer-resource recovery coordinator and its drain planner ([#87422](https://github.com/CleverRaven/Cataclysm-DDA/pull/87422))
 * put solder in spool, adjust spawning accordingly ([#87468](https://github.com/CleverRaven/Cataclysm-DDA/pull/87468))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-06-2343 ([6840044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-06-2343))
-
 * Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))
 * set duct_tape length ([#87470](https://github.com/CleverRaven/Cataclysm-DDA/pull/87470))
 * Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
@@ -215,4 +222,3 @@
 * [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))
 * Fix labyrinth door connections ([#87386](https://github.com/CleverRaven/Cataclysm-DDA/pull/87386))
 * [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
-* [translate-dialogue] Assign myself as maintainer of Translate Complex Dialogue, and update it ([#87372](https://github.com/CleverRaven/Cataclysm-DDA/pull/87372))
