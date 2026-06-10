@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-10-1323 ([402906f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-1323))
+
+* Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names ([#87546](https://github.com/CleverRaven/Cataclysm-DDA/pull/87546))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-10-1243 ([19b3883](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-1243))
+
+* Various labyrinth blood-related changes ([#87541](https://github.com/CleverRaven/Cataclysm-DDA/pull/87541))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-10-0759 ([e7ce8c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-0759))
 
 * Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions ([#87545](https://github.com/CleverRaven/Cataclysm-DDA/pull/87545))
@@ -163,17 +175,7 @@
 
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
 * [XedraWood] Hobby audit ([#87430](https://github.com/CleverRaven/Cataclysm-DDA/pull/87430))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-07-1305 ([f2fbb56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1305))
-
 * Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-07-1120 ([2de0482](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1120))
-
 * Fix hardcoded FreeType include path for Windows CMake builds  ([#87440](https://github.com/CleverRaven/Cataclysm-DDA/pull/87440))
 * Fix outgoing links from CONTRIBUTING.md ([#87480](https://github.com/CleverRaven/Cataclysm-DDA/pull/87480))
 * Look around: show memorised terrain and furniture ([#87481](https://github.com/CleverRaven/Cataclysm-DDA/pull/87481))
@@ -214,7 +216,6 @@
 * Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
 * Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
-* Update Rubber Dissasembly results ([#87377](https://github.com/CleverRaven/Cataclysm-DDA/pull/87377))
 * [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
 * [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
 * [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))

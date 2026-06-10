@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-06-10-1323 (402906f)
+* Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names (#87546)
+
+Cataclysm-DDA experimental build 2026-06-10-1243 (19b3883)
+* Various labyrinth blood-related changes (#87541)
+
 Cataclysm-DDA experimental build 2026-06-10-0759 (e7ce8c1)
 * Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions (#87545)
 
@@ -88,11 +94,7 @@ Cataclysm-DDA experimental build 2026-06-07-1933 (7acf286)
 Cataclysm-DDA experimental build 2026-06-07-1831 (aeb740b)
 * Make Android system bars configurable (#87496)
 * [XedraWood] Hobby audit (#87430)
-
-Cataclysm-DDA experimental build 2026-06-07-1305 (f2fbb56)
 * Clean up SDL3 clang-tidy findings (#87490)
-
-Cataclysm-DDA experimental build 2026-06-07-1120 (2de0482)
 * Fix hardcoded FreeType include path for Windows CMake builds  (#87440)
 * Fix outgoing links from CONTRIBUTING.md (#87480)
 * Look around: show memorised terrain and furniture (#87481)
@@ -133,7 +135,6 @@ Cataclysm-DDA experimental build 2026-06-07-1120 (2de0482)
 * Stop rebuilding crafting cost context every tick (#87433)
 * Tileset loader parse/upload split and scoped render-target helpers (#87418)
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT (#87428)
-* Update Rubber Dissasembly results (#87377)
 * [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups (#87425)
 * [Innawood] Even more blacklisting (#87397)
 * [XedraWood] Add some mod identity around evolution and zombification (#87408)
