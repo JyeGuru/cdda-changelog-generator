@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-10-0759 ([e7ce8c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-0759))
+
+* Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions ([#87545](https://github.com/CleverRaven/Cataclysm-DDA/pull/87545))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-10-0517 ([c8754f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-0517))
 
 * Fix some translation issues part 3 ([#87434](https://github.com/CleverRaven/Cataclysm-DDA/pull/87434))
@@ -176,11 +182,6 @@
 * Fix Rubik/exodii is way too peaceful #87450 ([#87459](https://github.com/CleverRaven/Cataclysm-DDA/pull/87459))
 * Fix Infinite potion spells (magiclysm) #87324 ([#87460](https://github.com/CleverRaven/Cataclysm-DDA/pull/87460))
 * Make Immune to field not decrease field intensity on entry ([#87462](https://github.com/CleverRaven/Cataclysm-DDA/pull/87462))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-07-0955 ([4c84387](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-0955))
-
 * Add tests for the renderer-resource recovery coordinator ([#87423](https://github.com/CleverRaven/Cataclysm-DDA/pull/87423))
 * Allow loading screens to be picked from both mods and vanilla if mods are loaded ([#87395](https://github.com/CleverRaven/Cataclysm-DDA/pull/87395))
 * graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
@@ -196,7 +197,6 @@
 * Wounds can apply limb score penalties ([#87392](https://github.com/CleverRaven/Cataclysm-DDA/pull/87392))
 * make bodypart being able to modify pain applied to it ([#87390](https://github.com/CleverRaven/Cataclysm-DDA/pull/87390))
 * Sort itemgroups (11): Swimming/Military ([#87387](https://github.com/CleverRaven/Cataclysm-DDA/pull/87387))
-* fix: initialize Bombastic Perks on controlled NPC followers ([#87375](https://github.com/CleverRaven/Cataclysm-DDA/pull/87375))
 * Set feather and down feather prices to 0 cent ([#87416](https://github.com/CleverRaven/Cataclysm-DDA/pull/87416))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
 * Flip the idle render target to null and bind display_buffer per draw ([#87419](https://github.com/CleverRaven/Cataclysm-DDA/pull/87419))
