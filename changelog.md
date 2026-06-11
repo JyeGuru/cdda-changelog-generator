@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-11-2138 ([7582efc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-2138))
+
+* npc mission uses enum_to_string ([#87552](https://github.com/CleverRaven/Cataclysm-DDA/pull/87552))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-11-2058 ([e31865a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-2058))
+
+* [Innawood] Ravine edge caves ([#87562](https://github.com/CleverRaven/Cataclysm-DDA/pull/87562))
+* Add myself to comment commands for issue confirmation ([#87576](https://github.com/CleverRaven/Cataclysm-DDA/pull/87576))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-11-1902 ([df825bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1902))
 
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil ([#87579](https://github.com/CleverRaven/Cataclysm-DDA/pull/87579))
@@ -160,17 +173,7 @@
 * Change HWP 4.6/5.7 magazine to 5.7 only ([#87435](https://github.com/CleverRaven/Cataclysm-DDA/pull/87435))
 * Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
 * Abort and quarantine tileset atlas uploads interrupted by a renderer reset ([#87426](https://github.com/CleverRaven/Cataclysm-DDA/pull/87426))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-08-1419 ([a6a99ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1419))
-
 * [XedraWood] Change coordinates to around Raleigh ([#87455](https://github.com/CleverRaven/Cataclysm-DDA/pull/87455))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-08-1334 ([a1376e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1334))
-
 * [Innawood] More blacklisting for recipes ([#87500](https://github.com/CleverRaven/Cataclysm-DDA/pull/87500))
 * Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
 * Sanify stats of copper wire and raw copper wire, adjust it's item spawn ([#87489](https://github.com/CleverRaven/Cataclysm-DDA/pull/87489))
@@ -222,7 +225,4 @@
 * Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
 * [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
-* [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))
 * Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
-* Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
-* Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
