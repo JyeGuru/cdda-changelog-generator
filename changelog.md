@@ -1,3 +1,17 @@
+* Updated components quantities for ingot crafting ([#87558](https://github.com/CleverRaven/Cataclysm-DDA/pull/87558))
+* fix pumpkin muffin and hazelnut cake density ([#87560](https://github.com/CleverRaven/Cataclysm-DDA/pull/87560))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-11-0545 ([32b66ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0545))
+
+* [XedraWood] Remove random fungus ([#87549](https://github.com/CleverRaven/Cataclysm-DDA/pull/87549))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-11-0500 ([cc6bf97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0500))
+
+* [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))
 
 ---
 
@@ -160,19 +174,9 @@
 
 * Zombies and humanoid monsters in general have vital weakpoints ([#87420](https://github.com/CleverRaven/Cataclysm-DDA/pull/87420))
 * Wire renderer recovery into the game loop and fix the Android resume black screen ([#87424](https://github.com/CleverRaven/Cataclysm-DDA/pull/87424))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-07-1933 ([7acf286](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1933))
-
 * Iron Safari, Circuit Safari, and the Hub 01 Bionic Garage no longer require you to physically lift massive robots to finish missions ([#87484](https://github.com/CleverRaven/Cataclysm-DDA/pull/87484))
 * Make SDL3 the default tiled build ([#87474](https://github.com/CleverRaven/Cataclysm-DDA/pull/87474))
 * Fix "Semi frequent crash when using the safehouse teleporter" ([#87488](https://github.com/CleverRaven/Cataclysm-DDA/pull/87488))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-07-1831 ([aeb740b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-1831))
-
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
 * [XedraWood] Hobby audit ([#87430](https://github.com/CleverRaven/Cataclysm-DDA/pull/87430))
 * Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))
@@ -198,7 +202,6 @@
 * Add some random fungus to the groundcover pool ([#87432](https://github.com/CleverRaven/Cataclysm-DDA/pull/87432))
 * Wounds can apply limb score penalties ([#87392](https://github.com/CleverRaven/Cataclysm-DDA/pull/87392))
 * make bodypart being able to modify pain applied to it ([#87390](https://github.com/CleverRaven/Cataclysm-DDA/pull/87390))
-* Sort itemgroups (11): Swimming/Military ([#87387](https://github.com/CleverRaven/Cataclysm-DDA/pull/87387))
 * Set feather and down feather prices to 0 cent ([#87416](https://github.com/CleverRaven/Cataclysm-DDA/pull/87416))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
 * Flip the idle render target to null and bind display_buffer per draw ([#87419](https://github.com/CleverRaven/Cataclysm-DDA/pull/87419))
@@ -221,10 +224,7 @@
 * [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))
 * Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
 * Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
-* fix math effect to check light level ([#87384](https://github.com/CleverRaven/Cataclysm-DDA/pull/87384))
 * Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
 * Remove a few duplicate definitons from region_settings ([#87403](https://github.com/CleverRaven/Cataclysm-DDA/pull/87403))
 * Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
 * [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))
-* Fix labyrinth door connections ([#87386](https://github.com/CleverRaven/Cataclysm-DDA/pull/87386))
-* [Innawood] Blacklist some recipes that you'll never make anyway ([#87381](https://github.com/CleverRaven/Cataclysm-DDA/pull/87381))
