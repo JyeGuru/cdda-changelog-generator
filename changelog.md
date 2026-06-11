@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-11-1608 ([a137083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1608))
+
+* [XedraWood] Overwrite default forest/field/swamp terrain spawn frequency ([#87555](https://github.com/CleverRaven/Cataclysm-DDA/pull/87555))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-11-1547 ([f38a58d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1547))
+
+* Properly package the evacuation protein bars ([#87572](https://github.com/CleverRaven/Cataclysm-DDA/pull/87572))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2026-06-11-1250 ([0bf4eb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-11-1250))
 
 * Add a new toolset for deconstructing wooden structures ([#87553](https://github.com/CleverRaven/Cataclysm-DDA/pull/87553))
@@ -160,17 +172,7 @@
 #### Cataclysm-DDA experimental build 2026-06-08-1001 ([62d6c99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1001))
 
 * Sanify stats of copper wire and raw copper wire, adjust it's item spawn ([#87489](https://github.com/CleverRaven/Cataclysm-DDA/pull/87489))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-08-0210 ([dcf7e54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-0210))
-
 * Remove weaving recipes that use spinning tools ([#87482](https://github.com/CleverRaven/Cataclysm-DDA/pull/87482))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-08-0002 ([1993d20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-0002))
-
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
@@ -191,7 +193,6 @@
 * Fix Infinite potion spells (magiclysm) #87324 ([#87460](https://github.com/CleverRaven/Cataclysm-DDA/pull/87460))
 * Make Immune to field not decrease field intensity on entry ([#87462](https://github.com/CleverRaven/Cataclysm-DDA/pull/87462))
 * Add tests for the renderer-resource recovery coordinator ([#87423](https://github.com/CleverRaven/Cataclysm-DDA/pull/87423))
-* Allow loading screens to be picked from both mods and vanilla if mods are loaded ([#87395](https://github.com/CleverRaven/Cataclysm-DDA/pull/87395))
 * graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
 * Add the renderer-resource recovery coordinator and its drain planner ([#87422](https://github.com/CleverRaven/Cataclysm-DDA/pull/87422))
 * put solder in spool, adjust spawning accordingly ([#87468](https://github.com/CleverRaven/Cataclysm-DDA/pull/87468))
@@ -212,7 +213,6 @@
 * [XedraWood] Playable lizardfolk ([#87451](https://github.com/CleverRaven/Cataclysm-DDA/pull/87451))
 * [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
 * update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
-* Fix `rot_spawn_data` inheritance overriding unset values ([#87398](https://github.com/CleverRaven/Cataclysm-DDA/pull/87398))
 * Fix typo in Hub01 mission ([#87427](https://github.com/CleverRaven/Cataclysm-DDA/pull/87427))
 * [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
 * Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
@@ -220,11 +220,9 @@
 * Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
 * [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
-* [Innawood] Even more blacklisting ([#87397](https://github.com/CleverRaven/Cataclysm-DDA/pull/87397))
 * [XedraWood] Add some mod identity around evolution and zombification ([#87408](https://github.com/CleverRaven/Cataclysm-DDA/pull/87408))
 * Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
 * Gold is worthless ([#87411](https://github.com/CleverRaven/Cataclysm-DDA/pull/87411))
 * Multimag PAPRs ([#87406](https://github.com/CleverRaven/Cataclysm-DDA/pull/87406))
 * Remove a few duplicate definitons from region_settings ([#87403](https://github.com/CleverRaven/Cataclysm-DDA/pull/87403))
 * Remove pp riot damage from MVAS location ([#87404](https://github.com/CleverRaven/Cataclysm-DDA/pull/87404))
-* [Innawood] More innawood blacklisting ([#87393](https://github.com/CleverRaven/Cataclysm-DDA/pull/87393))
