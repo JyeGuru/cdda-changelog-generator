@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-06-11-1250 ([0bf4eb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-11-1250))
+
+* Add a new toolset for deconstructing wooden structures ([#87553](https://github.com/CleverRaven/Cataclysm-DDA/pull/87553))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-11-0917 ([a23b215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0917))
 
 * Fix powder/chemical spawns causing multiple containers containing 1 unit ([#87554](https://github.com/CleverRaven/Cataclysm-DDA/pull/87554))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-06-08-0002 ([1993d20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-0002))
 
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-07-2309 ([ab094ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-07-2309))
-
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
 * Zombies and humanoid monsters in general have vital weakpoints ([#87420](https://github.com/CleverRaven/Cataclysm-DDA/pull/87420))
@@ -201,7 +202,6 @@
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
 * Add some random fungus to the groundcover pool ([#87432](https://github.com/CleverRaven/Cataclysm-DDA/pull/87432))
-* Wounds can apply limb score penalties ([#87392](https://github.com/CleverRaven/Cataclysm-DDA/pull/87392))
 * Set feather and down feather prices to 0 cent ([#87416](https://github.com/CleverRaven/Cataclysm-DDA/pull/87416))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
 * Flip the idle render target to null and bind display_buffer per draw ([#87419](https://github.com/CleverRaven/Cataclysm-DDA/pull/87419))
