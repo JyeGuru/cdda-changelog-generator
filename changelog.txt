@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-06-11-1902 (df825bd)
+* Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil (#87579)
+
+Cataclysm-DDA experimental build 2026-06-11-1815 (3094a14)
+* Updated protein and cheese powder recipes with steps and made them more realistic (#87565)
+
 Cataclysm-DDA experimental build 2026-06-11-1608 (a137083)
 * [XedraWood] Overwrite default forest/field/swamp terrain spawn frequency (#87555)
 
@@ -85,11 +91,7 @@ Cataclysm-DDA experimental build 2026-06-08-1419 (a6a99ce)
 
 Cataclysm-DDA experimental build 2026-06-08-1334 (a1376e6)
 * [Innawood] More blacklisting for recipes (#87500)
-
-Cataclysm-DDA experimental build 2026-06-08-1207 (f8df666)
 * Weekly Changelog 2026-06-01 to 2026-06-08 (#87515)
-
-Cataclysm-DDA experimental build 2026-06-08-1001 (62d6c99)
 * Sanify stats of copper wire and raw copper wire, adjust it's item spawn (#87489)
 * Remove weaving recipes that use spinning tools (#87482)
 * place different types of batteries into junk drawer (#87504)
@@ -143,5 +145,3 @@ Cataclysm-DDA experimental build 2026-06-08-1001 (62d6c99)
 * Add wiring to t_wall_metal (#87412)
 * Gold is worthless (#87411)
 * Multimag PAPRs (#87406)
-* Remove a few duplicate definitons from region_settings (#87403)
-* Remove pp riot damage from MVAS location (#87404)
