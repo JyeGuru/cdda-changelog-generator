@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2026-06-12-2340 (f363a37)
+* [XedraWood] Innawood recipe blacklisting (#87594)
+* remove apparently broken stalebot clauses (#87599)
+
 Cataclysm-DDA experimental build 2026-06-12-1049 (2fc54bc)
 * [XedraWood] Tanglevine patch map extra (#87578)
 
@@ -96,13 +100,10 @@ Cataclysm-DDA experimental build 2026-06-09-0613 (1f746fc)
 
 Cataclysm-DDA experimental build 2026-06-09-0535 (6c9da24)
 * [Innawood] Overwrite trailhead palette to remove modern items (#87529)
-
-Cataclysm-DDA experimental build 2026-06-09-0220 (8ca2943)
 * Skip SDL frameworks for macOS curses release (#87503)
 * [Magiclysm] Fix Aura of Protection proficiency XP (#87520)
 * Change HWP 4.6/5.7 magazine to 5.7 only (#87435)
 * Fix copper stats (#87518)
-* Abort and quarantine tileset atlas uploads interrupted by a renderer reset (#87426)
 * [XedraWood] Change coordinates to around Raleigh (#87455)
 * [Innawood] More blacklisting for recipes (#87500)
 * Weekly Changelog 2026-06-01 to 2026-06-08 (#87515)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-06-09-0220 (8ca2943)
 * Fix SDL3 colored light tint accumulation and dimming (#87436)
 * Stop rebuilding crafting cost context every tick (#87433)
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT (#87428)
-* [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups (#87425)

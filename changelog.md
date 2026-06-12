@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-12-2340 ([f363a37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-2340))
+
+* [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
+* remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-12-1049 ([2fc54bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-1049))
 
 * [XedraWood] Tanglevine patch map extra ([#87578](https://github.com/CleverRaven/Cataclysm-DDA/pull/87578))
@@ -177,16 +184,10 @@
 #### Cataclysm-DDA experimental build 2026-06-09-0535 ([6c9da24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-0535))
 
 * [Innawood] Overwrite trailhead palette to remove modern items ([#87529](https://github.com/CleverRaven/Cataclysm-DDA/pull/87529))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-09-0220 ([8ca2943](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-0220))
-
 * Skip SDL frameworks for macOS curses release ([#87503](https://github.com/CleverRaven/Cataclysm-DDA/pull/87503))
 * [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
 * Change HWP 4.6/5.7 magazine to 5.7 only ([#87435](https://github.com/CleverRaven/Cataclysm-DDA/pull/87435))
 * Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
-* Abort and quarantine tileset atlas uploads interrupted by a renderer reset ([#87426](https://github.com/CleverRaven/Cataclysm-DDA/pull/87426))
 * [XedraWood] Change coordinates to around Raleigh ([#87455](https://github.com/CleverRaven/Cataclysm-DDA/pull/87455))
 * [Innawood] More blacklisting for recipes ([#87500](https://github.com/CleverRaven/Cataclysm-DDA/pull/87500))
 * Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
@@ -230,4 +231,3 @@
 * Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
 * Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
-* [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
