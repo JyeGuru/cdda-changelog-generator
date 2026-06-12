@@ -1,6 +1,29 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-12-0633 ([e156547](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-0633))
+
+* [XedraWood] Characters are illiterate ([#87580](https://github.com/CleverRaven/Cataclysm-DDA/pull/87580))
+* Only attempt to restack charges if the inserted item uses charges ([#87582](https://github.com/CleverRaven/Cataclysm-DDA/pull/87582))
+* [XedraWood] Add seperate GROUP_FOREST_THICK mongroup, tie it to thick forests ([#87583](https://github.com/CleverRaven/Cataclysm-DDA/pull/87583))
+* [Xedra Evolved/Innawood] Separate IDs for moroi/wights Innawood for sprite reasons ([#87584](https://github.com/CleverRaven/Cataclysm-DDA/pull/87584))
+* [MoM] Premonition warns you about the Quiet Farmhouse ([#87585](https://github.com/CleverRaven/Cataclysm-DDA/pull/87585))
+* [Sky Island] Repeated Merchant Stall mission fix  ([#87586](https://github.com/CleverRaven/Cataclysm-DDA/pull/87586))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-12-0554 ([437a0b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-0554))
+
+* [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait ([#87587](https://github.com/CleverRaven/Cataclysm-DDA/pull/87587))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-12-0510 ([14bca54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-0510))
+
+* Fix - nanomaterial canister spawning in microlabs ([#87590](https://github.com/CleverRaven/Cataclysm-DDA/pull/87590))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-11-2138 ([7582efc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-2138))
 
 * npc mission uses enum_to_string ([#87552](https://github.com/CleverRaven/Cataclysm-DDA/pull/87552))
@@ -159,17 +182,7 @@
 #### Cataclysm-DDA experimental build 2026-06-09-0220 ([8ca2943](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-0220))
 
 * Skip SDL frameworks for macOS curses release ([#87503](https://github.com/CleverRaven/Cataclysm-DDA/pull/87503))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-08-1855 ([94d2312](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1855))
-
 * [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-08-1501 ([5aa2cb6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-08-1501))
-
 * Change HWP 4.6/5.7 magazine to 5.7 only ([#87435](https://github.com/CleverRaven/Cataclysm-DDA/pull/87435))
 * Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
 * Abort and quarantine tileset atlas uploads interrupted by a renderer reset ([#87426](https://github.com/CleverRaven/Cataclysm-DDA/pull/87426))
@@ -181,7 +194,6 @@
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
-* Zombies and humanoid monsters in general have vital weakpoints ([#87420](https://github.com/CleverRaven/Cataclysm-DDA/pull/87420))
 * Wire renderer recovery into the game loop and fix the Android resume black screen ([#87424](https://github.com/CleverRaven/Cataclysm-DDA/pull/87424))
 * Iron Safari, Circuit Safari, and the Hub 01 Bionic Garage no longer require you to physically lift massive robots to finish missions ([#87484](https://github.com/CleverRaven/Cataclysm-DDA/pull/87484))
 * Make SDL3 the default tiled build ([#87474](https://github.com/CleverRaven/Cataclysm-DDA/pull/87474))
@@ -197,20 +209,15 @@
 * Fix Rubik/exodii is way too peaceful #87450 ([#87459](https://github.com/CleverRaven/Cataclysm-DDA/pull/87459))
 * Fix Infinite potion spells (magiclysm) #87324 ([#87460](https://github.com/CleverRaven/Cataclysm-DDA/pull/87460))
 * Make Immune to field not decrease field intensity on entry ([#87462](https://github.com/CleverRaven/Cataclysm-DDA/pull/87462))
-* Add tests for the renderer-resource recovery coordinator ([#87423](https://github.com/CleverRaven/Cataclysm-DDA/pull/87423))
 * graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
-* Add the renderer-resource recovery coordinator and its drain planner ([#87422](https://github.com/CleverRaven/Cataclysm-DDA/pull/87422))
 * put solder in spool, adjust spawning accordingly ([#87468](https://github.com/CleverRaven/Cataclysm-DDA/pull/87468))
 * Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))
 * set duct_tape length ([#87470](https://github.com/CleverRaven/Cataclysm-DDA/pull/87470))
 * Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
-* Add reset and rebind primitives for renderer-owned GPU resources ([#87421](https://github.com/CleverRaven/Cataclysm-DDA/pull/87421))
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
 * Add some random fungus to the groundcover pool ([#87432](https://github.com/CleverRaven/Cataclysm-DDA/pull/87432))
-* Set feather and down feather prices to 0 cent ([#87416](https://github.com/CleverRaven/Cataclysm-DDA/pull/87416))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
-* Flip the idle render target to null and bind display_buffer per draw ([#87419](https://github.com/CleverRaven/Cataclysm-DDA/pull/87419))
 * Fix conflicting keybinds in debug menu ([#87437](https://github.com/CleverRaven/Cataclysm-DDA/pull/87437))
 * Allow more simple drinks crafting in dark ([#87438](https://github.com/CleverRaven/Cataclysm-DDA/pull/87438))
 * Draw the Android surface edge to edge with a safe-area display option ([#87442](https://github.com/CleverRaven/Cataclysm-DDA/pull/87442))
@@ -222,7 +229,5 @@
 * [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
 * Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
 * Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
-* Tileset loader parse/upload split and scoped render-target helpers ([#87418](https://github.com/CleverRaven/Cataclysm-DDA/pull/87418))
 * Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
 * [XedraWood] Override insect age_grow and remove higher-growth insects from monstergroups ([#87425](https://github.com/CleverRaven/Cataclysm-DDA/pull/87425))
-* Add wiring to t_wall_metal ([#87412](https://github.com/CleverRaven/Cataclysm-DDA/pull/87412))
