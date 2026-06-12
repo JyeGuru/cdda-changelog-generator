@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-12-1049 ([2fc54bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-1049))
+
+* [XedraWood] Tanglevine patch map extra ([#87578](https://github.com/CleverRaven/Cataclysm-DDA/pull/87578))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-12-0633 ([e156547](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-0633))
 
 * [XedraWood] Characters are illiterate ([#87580](https://github.com/CleverRaven/Cataclysm-DDA/pull/87580))
@@ -137,11 +143,6 @@
 #### Cataclysm-DDA experimental build 2026-06-09-1259 ([bd06185](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1259))
 
 * Add firewood ([#87528](https://github.com/CleverRaven/Cataclysm-DDA/pull/87528))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-06-09-1234 ([62b1aae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-09-1234))
-
 * [0.I] Fix MSXotto+ lingering experimental bits in layering.json ([#87523](https://github.com/CleverRaven/Cataclysm-DDA/pull/87523))
 * Add dylibbundler dep to MacOS docs ([#87538](https://github.com/CleverRaven/Cataclysm-DDA/pull/87538))
 * Fix SDL3 numpad repeat on macOS ([#87519](https://github.com/CleverRaven/Cataclysm-DDA/pull/87519))
@@ -194,7 +195,6 @@
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
-* Wire renderer recovery into the game loop and fix the Android resume black screen ([#87424](https://github.com/CleverRaven/Cataclysm-DDA/pull/87424))
 * Iron Safari, Circuit Safari, and the Hub 01 Bionic Garage no longer require you to physically lift massive robots to finish missions ([#87484](https://github.com/CleverRaven/Cataclysm-DDA/pull/87484))
 * Make SDL3 the default tiled build ([#87474](https://github.com/CleverRaven/Cataclysm-DDA/pull/87474))
 * Fix "Semi frequent crash when using the safehouse teleporter" ([#87488](https://github.com/CleverRaven/Cataclysm-DDA/pull/87488))
