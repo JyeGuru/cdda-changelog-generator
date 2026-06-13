@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-13-1425 ([dfe16ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-1425))
+
+* fix garbage bag spawn ([#87615](https://github.com/CleverRaven/Cataclysm-DDA/pull/87615))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-13-1054 ([b54647b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-1054))
 
 * [ Magiclysm ] Improve Forge Defenses ([#87516](https://github.com/CleverRaven/Cataclysm-DDA/pull/87516))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-06-09-1540 ([175b641](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1540))
 
 * [Innawood] Fix modern construction on desert islands ([#87534](https://github.com/CleverRaven/Cataclysm-DDA/pull/87534))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-09-1259 ([bd06185](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1259))
-
 * Add firewood ([#87528](https://github.com/CleverRaven/Cataclysm-DDA/pull/87528))
 * [0.I] Fix MSXotto+ lingering experimental bits in layering.json ([#87523](https://github.com/CleverRaven/Cataclysm-DDA/pull/87523))
 * Add dylibbundler dep to MacOS docs ([#87538](https://github.com/CleverRaven/Cataclysm-DDA/pull/87538))
@@ -229,4 +230,3 @@
 * [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
 * update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
 * [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
-* Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
