@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-13-0521 ([9e83555](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0521))
+
+* [XE] Apply the supernatural exclusivity principle. ([#87591](https://github.com/CleverRaven/Cataclysm-DDA/pull/87591))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-13-0434 ([d18d702](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0434))
+
+* [XedraWood] Add more hobbies ([#87609](https://github.com/CleverRaven/Cataclysm-DDA/pull/87609))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-13-0303 ([5d36c78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0303))
+
+* Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-12-2340 ([f363a37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-2340))
 
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
@@ -167,22 +185,12 @@
 #### Cataclysm-DDA experimental build 2026-06-09-1030 ([a40083e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1030))
 
 * Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-09-0613 ([1f746fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-0613))
-
 * [XedraWood] Add more professions ([#87506](https://github.com/CleverRaven/Cataclysm-DDA/pull/87506))
 * Enable Linux SDL3 desktop backends ([#87508](https://github.com/CleverRaven/Cataclysm-DDA/pull/87508))
 * [Xedra Evolved] Add brain tanning for glimmer fur ([#87521](https://github.com/CleverRaven/Cataclysm-DDA/pull/87521))
 * Show required proficiencies in table ([#87522](https://github.com/CleverRaven/Cataclysm-DDA/pull/87522))
 * fixes #87445 ([#87525](https://github.com/CleverRaven/Cataclysm-DDA/pull/87525))
 * [Xedra Evolved] Palettize elemental altars, overwrite them in XedraWood ([#87532](https://github.com/CleverRaven/Cataclysm-DDA/pull/87532))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-09-0535 ([6c9da24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-0535))
-
 * [Innawood] Overwrite trailhead palette to remove modern items ([#87529](https://github.com/CleverRaven/Cataclysm-DDA/pull/87529))
 * Skip SDL frameworks for macOS curses release ([#87503](https://github.com/CleverRaven/Cataclysm-DDA/pull/87503))
 * [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
@@ -200,7 +208,6 @@
 * Make SDL3 the default tiled build ([#87474](https://github.com/CleverRaven/Cataclysm-DDA/pull/87474))
 * Fix "Semi frequent crash when using the safehouse teleporter" ([#87488](https://github.com/CleverRaven/Cataclysm-DDA/pull/87488))
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
-* [XedraWood] Hobby audit ([#87430](https://github.com/CleverRaven/Cataclysm-DDA/pull/87430))
 * Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))
 * Fix hardcoded FreeType include path for Windows CMake builds  ([#87440](https://github.com/CleverRaven/Cataclysm-DDA/pull/87440))
 * Fix outgoing links from CONTRIBUTING.md ([#87480](https://github.com/CleverRaven/Cataclysm-DDA/pull/87480))
@@ -217,7 +224,6 @@
 * Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
-* Add some random fungus to the groundcover pool ([#87432](https://github.com/CleverRaven/Cataclysm-DDA/pull/87432))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
 * Fix conflicting keybinds in debug menu ([#87437](https://github.com/CleverRaven/Cataclysm-DDA/pull/87437))
 * Allow more simple drinks crafting in dark ([#87438](https://github.com/CleverRaven/Cataclysm-DDA/pull/87438))
@@ -226,8 +232,6 @@
 * [XedraWood] Playable lizardfolk ([#87451](https://github.com/CleverRaven/Cataclysm-DDA/pull/87451))
 * [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
 * update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
-* Fix typo in Hub01 mission ([#87427](https://github.com/CleverRaven/Cataclysm-DDA/pull/87427))
 * [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
 * Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
 * Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))
-* Increase `EOC_ROBOFAC_HQ_UPDATE_EVENT` condition's maximum range to 180 OMT ([#87428](https://github.com/CleverRaven/Cataclysm-DDA/pull/87428))
