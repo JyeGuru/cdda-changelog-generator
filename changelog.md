@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-13-1054 ([b54647b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-1054))
+
 * [ Magiclysm ] Improve Forge Defenses ([#87516](https://github.com/CleverRaven/Cataclysm-DDA/pull/87516))
 * Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
 
@@ -175,11 +180,6 @@
 * Fix SDL3 numpad repeat on macOS ([#87519](https://github.com/CleverRaven/Cataclysm-DDA/pull/87519))
 * feat(sort armor): add toggle favorite action ([#87492](https://github.com/CleverRaven/Cataclysm-DDA/pull/87492))
 * Adds more Highland Oasis variants ([#87501](https://github.com/CleverRaven/Cataclysm-DDA/pull/87501))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-09-1107 ([bb660fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1107))
-
 * Fix exodii limb armor, nuke acid armor ([#87524](https://github.com/CleverRaven/Cataclysm-DDA/pull/87524))
 * Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))
 * [XedraWood] Add more professions ([#87506](https://github.com/CleverRaven/Cataclysm-DDA/pull/87506))
