@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-13-2332 ([390d115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-2332))
+
+* feat(ui): maintain highlight position after inventory item use ([#87601](https://github.com/CleverRaven/Cataclysm-DDA/pull/87601))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-13-2253 ([d5c47b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-2253))
+
+* Yeet the heavy/power lathe pseudo tool ([#87621](https://github.com/CleverRaven/Cataclysm-DDA/pull/87621))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-13-1601 ([088979e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-1601))
 
 * add `set_trap`, `set_terrain`, `set_furniture` dialogie effects, update _set_field ([#87598](https://github.com/CleverRaven/Cataclysm-DDA/pull/87598))
@@ -164,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-06-10-0759 ([e7ce8c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-0759))
 
 * Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions ([#87545](https://github.com/CleverRaven/Cataclysm-DDA/pull/87545))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-10-0323 ([53f5ded](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-0323))
-
 * Fix SDL3 tint rows after sprite shader draws ([#87542](https://github.com/CleverRaven/Cataclysm-DDA/pull/87542))
 * [Xedra Evolved] Add a few more effects to Lights of Imbolc's curing ([#87533](https://github.com/CleverRaven/Cataclysm-DDA/pull/87533))
 * [Innawood] Fix modern construction on desert islands ([#87534](https://github.com/CleverRaven/Cataclysm-DDA/pull/87534))
@@ -203,7 +210,6 @@
 * Fix "Semi frequent crash when using the safehouse teleporter" ([#87488](https://github.com/CleverRaven/Cataclysm-DDA/pull/87488))
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
 * Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))
-* Fix hardcoded FreeType include path for Windows CMake builds  ([#87440](https://github.com/CleverRaven/Cataclysm-DDA/pull/87440))
 * Fix outgoing links from CONTRIBUTING.md ([#87480](https://github.com/CleverRaven/Cataclysm-DDA/pull/87480))
 * Look around: show memorised terrain and furniture ([#87481](https://github.com/CleverRaven/Cataclysm-DDA/pull/87481))
 * Fix SDL3 shader fallback tiles going black ([#87487](https://github.com/CleverRaven/Cataclysm-DDA/pull/87487))
@@ -219,7 +225,6 @@
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
-* Draw the Android surface edge to edge with a safe-area display option ([#87442](https://github.com/CleverRaven/Cataclysm-DDA/pull/87442))
 * Bundle the SDL3 stack into release artifacts ([#87447](https://github.com/CleverRaven/Cataclysm-DDA/pull/87447))
 * [XedraWood] Playable lizardfolk ([#87451](https://github.com/CleverRaven/Cataclysm-DDA/pull/87451))
 * [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
