@@ -1,3 +1,11 @@
+* [ Magiclysm ] Improve Forge Defenses ([#87516](https://github.com/CleverRaven/Cataclysm-DDA/pull/87516))
+* Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-13-0912 ([7fd6756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0912))
+
+* Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
 
 ---
 
@@ -141,12 +149,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-06-10-0517 ([c8754f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-0517))
-
-* Fix some translation issues part 3 ([#87434](https://github.com/CleverRaven/Cataclysm-DDA/pull/87434))
-
----
-
 #### Cataclysm-DDA experimental build 2026-06-10-0323 ([53f5ded](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-0323))
 
 * Fix SDL3 tint rows after sprite shader draws ([#87542](https://github.com/CleverRaven/Cataclysm-DDA/pull/87542))
@@ -179,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-06-09-1107 ([bb660fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1107))
 
 * Fix exodii limb armor, nuke acid armor ([#87524](https://github.com/CleverRaven/Cataclysm-DDA/pull/87524))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-09-1030 ([a40083e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-09-1030))
-
 * Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))
 * [XedraWood] Add more professions ([#87506](https://github.com/CleverRaven/Cataclysm-DDA/pull/87506))
 * Enable Linux SDL3 desktop backends ([#87508](https://github.com/CleverRaven/Cataclysm-DDA/pull/87508))
@@ -194,7 +191,6 @@
 * [Innawood] Overwrite trailhead palette to remove modern items ([#87529](https://github.com/CleverRaven/Cataclysm-DDA/pull/87529))
 * Skip SDL frameworks for macOS curses release ([#87503](https://github.com/CleverRaven/Cataclysm-DDA/pull/87503))
 * [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
-* Change HWP 4.6/5.7 magazine to 5.7 only ([#87435](https://github.com/CleverRaven/Cataclysm-DDA/pull/87435))
 * Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
 * [XedraWood] Change coordinates to around Raleigh ([#87455](https://github.com/CleverRaven/Cataclysm-DDA/pull/87455))
 * [Innawood] More blacklisting for recipes ([#87500](https://github.com/CleverRaven/Cataclysm-DDA/pull/87500))
@@ -234,4 +230,3 @@
 * update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
 * [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
 * Fix SDL3 colored light tint accumulation and dimming ([#87436](https://github.com/CleverRaven/Cataclysm-DDA/pull/87436))
-* Stop rebuilding crafting cost context every tick ([#87433](https://github.com/CleverRaven/Cataclysm-DDA/pull/87433))

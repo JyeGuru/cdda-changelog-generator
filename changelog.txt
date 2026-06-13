@@ -1,3 +1,8 @@
+* [ Magiclysm ] Improve Forge Defenses (#87516)
+* Remove SDL2 support from the Windows Visual Studio build (#87608)
+
+Cataclysm-DDA experimental build 2026-06-13-0912 (7fd6756)
+* Update Jenny's Quest information to clarify what she wants (#87613)
 
 Cataclysm-DDA experimental build 2026-06-13-0521 (9e83555)
 * [XE] Apply the supernatural exclusivity principle. (#87591)
@@ -73,9 +78,6 @@ Cataclysm-DDA experimental build 2026-06-10-1243 (19b3883)
 Cataclysm-DDA experimental build 2026-06-10-0759 (e7ce8c1)
 * Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions (#87545)
 
-Cataclysm-DDA experimental build 2026-06-10-0517 (c8754f0)
-* Fix some translation issues part 3 (#87434)
-
 Cataclysm-DDA experimental build 2026-06-10-0323 (53f5ded)
 * Fix SDL3 tint rows after sprite shader draws (#87542)
 
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2026-06-09-1259 (bd06185)
 
 Cataclysm-DDA experimental build 2026-06-09-1107 (bb660fa)
 * Fix exodii limb armor, nuke acid armor (#87524)
-
-Cataclysm-DDA experimental build 2026-06-09-1030 (a40083e)
 * Refugee Center Teamster be able to self-defend themselves. (#87537)
 * [XedraWood] Add more professions (#87506)
 * Enable Linux SDL3 desktop backends (#87508)
@@ -107,7 +107,6 @@ Cataclysm-DDA experimental build 2026-06-09-1030 (a40083e)
 * [Innawood] Overwrite trailhead palette to remove modern items (#87529)
 * Skip SDL frameworks for macOS curses release (#87503)
 * [Magiclysm] Fix Aura of Protection proficiency XP (#87520)
-* Change HWP 4.6/5.7 magazine to 5.7 only (#87435)
 * Fix copper stats (#87518)
 * [XedraWood] Change coordinates to around Raleigh (#87455)
 * [Innawood] More blacklisting for recipes (#87500)
@@ -147,4 +146,3 @@ Cataclysm-DDA experimental build 2026-06-09-1030 (a40083e)
 * update borax item (#87456)
 * [XedraWood] Mod conflicts (#87443)
 * Fix SDL3 colored light tint accumulation and dimming (#87436)
-* Stop rebuilding crafting cost context every tick (#87433)
