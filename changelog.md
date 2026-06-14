@@ -234,6 +234,5 @@
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
-* [XedraWood] Playable lizardfolk ([#87451](https://github.com/CleverRaven/Cataclysm-DDA/pull/87451))
 * [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
 * update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
