@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-14-1541 ([7be8226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1541))
+
+* UICA vehicle merchant respects chit price ([#87629](https://github.com/CleverRaven/Cataclysm-DDA/pull/87629))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-14-1502 ([8711281](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1502))
+
+* [XedraWood] rework temperature and humidity ([#87630](https://github.com/CleverRaven/Cataclysm-DDA/pull/87630))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-14-1053 ([f08a182](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1053))
 
 * Fix potassium chloride powder spawning multiple containers ([#87635](https://github.com/CleverRaven/Cataclysm-DDA/pull/87635))
@@ -170,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-06-11-0500 ([cc6bf97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0500))
 
 * [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-10-1323 ([402906f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-1323))
-
 * Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names ([#87546](https://github.com/CleverRaven/Cataclysm-DDA/pull/87546))
 * Various labyrinth blood-related changes ([#87541](https://github.com/CleverRaven/Cataclysm-DDA/pull/87541))
 * Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions ([#87545](https://github.com/CleverRaven/Cataclysm-DDA/pull/87545))
@@ -227,7 +234,6 @@
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
 * [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
-* Bundle the SDL3 stack into release artifacts ([#87447](https://github.com/CleverRaven/Cataclysm-DDA/pull/87447))
 * [XedraWood] Playable lizardfolk ([#87451](https://github.com/CleverRaven/Cataclysm-DDA/pull/87451))
 * [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
 * update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
