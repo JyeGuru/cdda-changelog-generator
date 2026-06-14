@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-14-0843 ([7122004](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-0843))
+
+* Remove hardcoded water boiling ([#87620](https://github.com/CleverRaven/Cataclysm-DDA/pull/87620))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-13-2332 ([390d115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-2332))
 
 * feat(ui): maintain highlight position after inventory item use ([#87601](https://github.com/CleverRaven/Cataclysm-DDA/pull/87601))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-06-10-1243 ([19b3883](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-1243))
 
 * Various labyrinth blood-related changes ([#87541](https://github.com/CleverRaven/Cataclysm-DDA/pull/87541))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-10-0759 ([e7ce8c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-10-0759))
-
 * Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions ([#87545](https://github.com/CleverRaven/Cataclysm-DDA/pull/87545))
 * Fix SDL3 tint rows after sprite shader draws ([#87542](https://github.com/CleverRaven/Cataclysm-DDA/pull/87542))
 * [Xedra Evolved] Add a few more effects to Lights of Imbolc's curing ([#87533](https://github.com/CleverRaven/Cataclysm-DDA/pull/87533))
@@ -229,4 +230,3 @@
 * [XedraWood] Playable lizardfolk ([#87451](https://github.com/CleverRaven/Cataclysm-DDA/pull/87451))
 * [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
 * update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))
-* [XedraWood] Mod conflicts ([#87443](https://github.com/CleverRaven/Cataclysm-DDA/pull/87443))
