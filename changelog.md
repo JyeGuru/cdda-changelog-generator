@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-15-0158 ([28e4c9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-0158))
+
+* Craftable Luties ([#87581](https://github.com/CleverRaven/Cataclysm-DDA/pull/87581))
+* Streamline water purification application ([#87631](https://github.com/CleverRaven/Cataclysm-DDA/pull/87631))
+* Move vanity traits to cosmetic category ([#87634](https://github.com/CleverRaven/Cataclysm-DDA/pull/87634))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-15-0119 ([16ecccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-0119))
+
+* [XedraWood] Giant bugs aren't mutants ([#87642](https://github.com/CleverRaven/Cataclysm-DDA/pull/87642))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-14-1541 ([7be8226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1541))
 
 * UICA vehicle merchant respects chit price ([#87629](https://github.com/CleverRaven/Cataclysm-DDA/pull/87629))
@@ -151,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2026-06-11-1547 ([f38a58d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1547))
 
 * Properly package the evacuation protein bars ([#87572](https://github.com/CleverRaven/Cataclysm-DDA/pull/87572))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-06-11-1250 ([0bf4eb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-11-1250))
-
 * Add a new toolset for deconstructing wooden structures ([#87553](https://github.com/CleverRaven/Cataclysm-DDA/pull/87553))
 
 ---
@@ -176,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-06-11-0545 ([32b66ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0545))
 
 * [XedraWood] Remove random fungus ([#87549](https://github.com/CleverRaven/Cataclysm-DDA/pull/87549))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-0500 ([cc6bf97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0500))
-
 * [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))
 * Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names ([#87546](https://github.com/CleverRaven/Cataclysm-DDA/pull/87546))
 * Various labyrinth blood-related changes ([#87541](https://github.com/CleverRaven/Cataclysm-DDA/pull/87541))
@@ -206,7 +210,6 @@
 * Skip SDL frameworks for macOS curses release ([#87503](https://github.com/CleverRaven/Cataclysm-DDA/pull/87503))
 * [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
 * Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
-* [XedraWood] Change coordinates to around Raleigh ([#87455](https://github.com/CleverRaven/Cataclysm-DDA/pull/87455))
 * [Innawood] More blacklisting for recipes ([#87500](https://github.com/CleverRaven/Cataclysm-DDA/pull/87500))
 * Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
 * Sanify stats of copper wire and raw copper wire, adjust it's item spawn ([#87489](https://github.com/CleverRaven/Cataclysm-DDA/pull/87489))
@@ -233,6 +236,3 @@
 * Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
 * Let dmgbuild size macOS disk images ([#87464](https://github.com/CleverRaven/Cataclysm-DDA/pull/87464))
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
-* [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools ([#87454](https://github.com/CleverRaven/Cataclysm-DDA/pull/87454))
-* [XE/Innawood] Separate renfield ID ([#87453](https://github.com/CleverRaven/Cataclysm-DDA/pull/87453))
-* update borax item ([#87456](https://github.com/CleverRaven/Cataclysm-DDA/pull/87456))

@@ -1,4 +1,12 @@
 
+Cataclysm-DDA experimental build 2026-06-15-0158 (28e4c9a)
+* Craftable Luties (#87581)
+* Streamline water purification application (#87631)
+* Move vanity traits to cosmetic category (#87634)
+
+Cataclysm-DDA experimental build 2026-06-15-0119 (16ecccc)
+* [XedraWood] Giant bugs aren't mutants (#87642)
+
 Cataclysm-DDA experimental build 2026-06-14-1541 (7be8226)
 * UICA vehicle merchant respects chit price (#87629)
 
@@ -79,8 +87,6 @@ Cataclysm-DDA experimental build 2026-06-11-1608 (a137083)
 
 Cataclysm-DDA experimental build 2026-06-11-1547 (f38a58d)
 * Properly package the evacuation protein bars (#87572)
-
-Cataclysm-DDA 0.I release candidate 2026-06-11-1250 (0bf4eb0)
 * Add a new toolset for deconstructing wooden structures (#87553)
 
 Cataclysm-DDA experimental build 2026-06-11-0917 (a23b215)
@@ -92,8 +98,6 @@ Cataclysm-DDA experimental build 2026-06-11-0636 (0f140bc)
 
 Cataclysm-DDA experimental build 2026-06-11-0545 (32b66ec)
 * [XedraWood] Remove random fungus (#87549)
-
-Cataclysm-DDA experimental build 2026-06-11-0500 (cc6bf97)
 * [XE] add double tap gunmod (#87556)
 * Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names (#87546)
 * Various labyrinth blood-related changes (#87541)
@@ -119,7 +123,6 @@ Cataclysm-DDA experimental build 2026-06-11-0500 (cc6bf97)
 * Skip SDL frameworks for macOS curses release (#87503)
 * [Magiclysm] Fix Aura of Protection proficiency XP (#87520)
 * Fix copper stats (#87518)
-* [XedraWood] Change coordinates to around Raleigh (#87455)
 * [Innawood] More blacklisting for recipes (#87500)
 * Weekly Changelog 2026-06-01 to 2026-06-08 (#87515)
 * Sanify stats of copper wire and raw copper wire, adjust it's item spawn (#87489)
@@ -146,6 +149,3 @@ Cataclysm-DDA experimental build 2026-06-11-0500 (cc6bf97)
 * Remove include <algorithm> from character_morale (#87473)
 * Let dmgbuild size macOS disk images (#87464)
 * vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge (#87465)
-* [Innawood] Add alternate recipe to make a soaking spear shaft with only stone age tools (#87454)
-* [XE/Innawood] Separate renfield ID (#87453)
-* update borax item (#87456)
