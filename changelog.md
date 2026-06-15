@@ -179,11 +179,6 @@
 
 * Updated components quantities for ingot crafting ([#87558](https://github.com/CleverRaven/Cataclysm-DDA/pull/87558))
 * fix pumpkin muffin and hazelnut cake density ([#87560](https://github.com/CleverRaven/Cataclysm-DDA/pull/87560))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-0545 ([32b66ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0545))
-
 * [XedraWood] Remove random fungus ([#87549](https://github.com/CleverRaven/Cataclysm-DDA/pull/87549))
 * [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))
 * Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names ([#87546](https://github.com/CleverRaven/Cataclysm-DDA/pull/87546))
