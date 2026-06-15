@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-15-1750 ([2ff8e35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-1750))
+
+* Fix labyrinth treasure room terminals ([#87650](https://github.com/CleverRaven/Cataclysm-DDA/pull/87650))
+* Stop batch crafts vanishing on long unattended steps ([#87653](https://github.com/CleverRaven/Cataclysm-DDA/pull/87653))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-15-1647 ([3d58778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-1647))
+
+* Refactor pixel minimap drawing and guard null render targets ([#87652](https://github.com/CleverRaven/Cataclysm-DDA/pull/87652))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-15-1602 ([b3ac7e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-1602))
+
+* Multimag gun and tool mod support ([#87637](https://github.com/CleverRaven/Cataclysm-DDA/pull/87637))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-15-0158 ([28e4c9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-0158))
 
 * Craftable Luties ([#87581](https://github.com/CleverRaven/Cataclysm-DDA/pull/87581))
@@ -159,24 +178,9 @@
 #### Cataclysm-DDA experimental build 2026-06-11-1608 ([a137083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1608))
 
 * [XedraWood] Overwrite default forest/field/swamp terrain spawn frequency ([#87555](https://github.com/CleverRaven/Cataclysm-DDA/pull/87555))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-1547 ([f38a58d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1547))
-
 * Properly package the evacuation protein bars ([#87572](https://github.com/CleverRaven/Cataclysm-DDA/pull/87572))
 * Add a new toolset for deconstructing wooden structures ([#87553](https://github.com/CleverRaven/Cataclysm-DDA/pull/87553))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-0917 ([a23b215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0917))
-
 * Fix powder/chemical spawns causing multiple containers containing 1 unit ([#87554](https://github.com/CleverRaven/Cataclysm-DDA/pull/87554))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-0636 ([0f140bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-0636))
-
 * Updated components quantities for ingot crafting ([#87558](https://github.com/CleverRaven/Cataclysm-DDA/pull/87558))
 * fix pumpkin muffin and hazelnut cake density ([#87560](https://github.com/CleverRaven/Cataclysm-DDA/pull/87560))
 * [XedraWood] Remove random fungus ([#87549](https://github.com/CleverRaven/Cataclysm-DDA/pull/87549))
@@ -220,10 +224,6 @@
 * Fix outgoing links from CONTRIBUTING.md ([#87480](https://github.com/CleverRaven/Cataclysm-DDA/pull/87480))
 * Look around: show memorised terrain and furniture ([#87481](https://github.com/CleverRaven/Cataclysm-DDA/pull/87481))
 * Fix SDL3 shader fallback tiles going black ([#87487](https://github.com/CleverRaven/Cataclysm-DDA/pull/87487))
-* Resin Floor can't be built where Log Floor can be built #86908 ([#87463](https://github.com/CleverRaven/Cataclysm-DDA/pull/87463))
-* Fix Rubik/exodii is way too peaceful #87450 ([#87459](https://github.com/CleverRaven/Cataclysm-DDA/pull/87459))
-* Fix Infinite potion spells (magiclysm) #87324 ([#87460](https://github.com/CleverRaven/Cataclysm-DDA/pull/87460))
-* Make Immune to field not decrease field intensity on entry ([#87462](https://github.com/CleverRaven/Cataclysm-DDA/pull/87462))
 * graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
 * put solder in spool, adjust spawning accordingly ([#87468](https://github.com/CleverRaven/Cataclysm-DDA/pull/87468))
 * Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))
