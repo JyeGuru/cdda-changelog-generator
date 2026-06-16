@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-16-0534 ([5e4eb23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0534))
+
+* fix feather volume and weight ([#87670](https://github.com/CleverRaven/Cataclysm-DDA/pull/87670))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-16-0344 ([a85cbb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0344))
+
+* [Xedra Evolved] Fix werewolf being able to use mutagen ([#87669](https://github.com/CleverRaven/Cataclysm-DDA/pull/87669))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-16-0137 ([badea14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0137))
 
 * [XedraWood] Add bronze lamellar cuirass ([#87664](https://github.com/CleverRaven/Cataclysm-DDA/pull/87664))
@@ -166,18 +178,8 @@
 #### Cataclysm-DDA experimental build 2026-06-11-2138 ([7582efc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-2138))
 
 * npc mission uses enum_to_string ([#87552](https://github.com/CleverRaven/Cataclysm-DDA/pull/87552))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-2058 ([e31865a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-2058))
-
 * [Innawood] Ravine edge caves ([#87562](https://github.com/CleverRaven/Cataclysm-DDA/pull/87562))
 * Add myself to comment commands for issue confirmation ([#87576](https://github.com/CleverRaven/Cataclysm-DDA/pull/87576))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-1902 ([df825bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1902))
-
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil ([#87579](https://github.com/CleverRaven/Cataclysm-DDA/pull/87579))
 * Updated protein and cheese powder recipes with steps and made them more realistic ([#87565](https://github.com/CleverRaven/Cataclysm-DDA/pull/87565))
 * [XedraWood] Overwrite default forest/field/swamp terrain spawn frequency ([#87555](https://github.com/CleverRaven/Cataclysm-DDA/pull/87555))
@@ -229,5 +231,3 @@
 * Fix SDL3 shader fallback tiles going black ([#87487](https://github.com/CleverRaven/Cataclysm-DDA/pull/87487))
 * graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
 * Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))
-* set duct_tape length ([#87470](https://github.com/CleverRaven/Cataclysm-DDA/pull/87470))
-* Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
