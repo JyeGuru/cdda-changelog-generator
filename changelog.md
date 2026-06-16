@@ -1,6 +1,30 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-16-1130 ([965b136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-1130))
+
+* Weekly Changelog 2026-06-08 to 2026-06-15 ([#87648](https://github.com/CleverRaven/Cataclysm-DDA/pull/87648))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-16-1033 ([3405f75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-1033))
+
+* [XedraWood] Add magical tattoos and a profession that starts with them ([#87611](https://github.com/CleverRaven/Cataclysm-DDA/pull/87611))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-16-0948 ([3f657b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0948))
+
+* Lose mutation category eoc ([#87672](https://github.com/CleverRaven/Cataclysm-DDA/pull/87672))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-16-0855 ([3c15dc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0855))
+
+* Woodworking axe faults ([#87671](https://github.com/CleverRaven/Cataclysm-DDA/pull/87671))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-16-0534 ([5e4eb23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0534))
 
 * fix feather volume and weight ([#87670](https://github.com/CleverRaven/Cataclysm-DDA/pull/87670))
@@ -149,34 +173,14 @@
 #### Cataclysm-DDA experimental build 2026-06-12-1049 ([2fc54bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-1049))
 
 * [XedraWood] Tanglevine patch map extra ([#87578](https://github.com/CleverRaven/Cataclysm-DDA/pull/87578))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-12-0633 ([e156547](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-0633))
-
 * [XedraWood] Characters are illiterate ([#87580](https://github.com/CleverRaven/Cataclysm-DDA/pull/87580))
 * Only attempt to restack charges if the inserted item uses charges ([#87582](https://github.com/CleverRaven/Cataclysm-DDA/pull/87582))
 * [XedraWood] Add seperate GROUP_FOREST_THICK mongroup, tie it to thick forests ([#87583](https://github.com/CleverRaven/Cataclysm-DDA/pull/87583))
 * [Xedra Evolved/Innawood] Separate IDs for moroi/wights Innawood for sprite reasons ([#87584](https://github.com/CleverRaven/Cataclysm-DDA/pull/87584))
 * [MoM] Premonition warns you about the Quiet Farmhouse ([#87585](https://github.com/CleverRaven/Cataclysm-DDA/pull/87585))
 * [Sky Island] Repeated Merchant Stall mission fix  ([#87586](https://github.com/CleverRaven/Cataclysm-DDA/pull/87586))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-12-0554 ([437a0b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-0554))
-
 * [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait ([#87587](https://github.com/CleverRaven/Cataclysm-DDA/pull/87587))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-12-0510 ([14bca54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-0510))
-
 * Fix - nanomaterial canister spawning in microlabs ([#87590](https://github.com/CleverRaven/Cataclysm-DDA/pull/87590))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-2138 ([7582efc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-2138))
-
 * npc mission uses enum_to_string ([#87552](https://github.com/CleverRaven/Cataclysm-DDA/pull/87552))
 * [Innawood] Ravine edge caves ([#87562](https://github.com/CleverRaven/Cataclysm-DDA/pull/87562))
 * Add myself to comment commands for issue confirmation ([#87576](https://github.com/CleverRaven/Cataclysm-DDA/pull/87576))
@@ -222,12 +226,8 @@
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
 * Iron Safari, Circuit Safari, and the Hub 01 Bionic Garage no longer require you to physically lift massive robots to finish missions ([#87484](https://github.com/CleverRaven/Cataclysm-DDA/pull/87484))
-* Make SDL3 the default tiled build ([#87474](https://github.com/CleverRaven/Cataclysm-DDA/pull/87474))
 * Fix "Semi frequent crash when using the safehouse teleporter" ([#87488](https://github.com/CleverRaven/Cataclysm-DDA/pull/87488))
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
 * Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))
-* Fix outgoing links from CONTRIBUTING.md ([#87480](https://github.com/CleverRaven/Cataclysm-DDA/pull/87480))
 * Look around: show memorised terrain and furniture ([#87481](https://github.com/CleverRaven/Cataclysm-DDA/pull/87481))
 * Fix SDL3 shader fallback tiles going black ([#87487](https://github.com/CleverRaven/Cataclysm-DDA/pull/87487))
-* graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
-* Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))

@@ -1,4 +1,16 @@
 
+Cataclysm-DDA experimental build 2026-06-16-1130 (965b136)
+* Weekly Changelog 2026-06-08 to 2026-06-15 (#87648)
+
+Cataclysm-DDA experimental build 2026-06-16-1033 (3405f75)
+* [XedraWood] Add magical tattoos and a profession that starts with them (#87611)
+
+Cataclysm-DDA experimental build 2026-06-16-0948 (3f657b1)
+* Lose mutation category eoc (#87672)
+
+Cataclysm-DDA experimental build 2026-06-16-0855 (3c15dc9)
+* Woodworking axe faults (#87671)
+
 Cataclysm-DDA experimental build 2026-06-16-0534 (5e4eb23)
 * fix feather volume and weight (#87670)
 
@@ -77,22 +89,14 @@ Cataclysm-DDA experimental build 2026-06-12-2340 (f363a37)
 
 Cataclysm-DDA experimental build 2026-06-12-1049 (2fc54bc)
 * [XedraWood] Tanglevine patch map extra (#87578)
-
-Cataclysm-DDA experimental build 2026-06-12-0633 (e156547)
 * [XedraWood] Characters are illiterate (#87580)
 * Only attempt to restack charges if the inserted item uses charges (#87582)
 * [XedraWood] Add seperate GROUP_FOREST_THICK mongroup, tie it to thick forests (#87583)
 * [Xedra Evolved/Innawood] Separate IDs for moroi/wights Innawood for sprite reasons (#87584)
 * [MoM] Premonition warns you about the Quiet Farmhouse (#87585)
 * [Sky Island] Repeated Merchant Stall mission fix  (#87586)
-
-Cataclysm-DDA experimental build 2026-06-12-0554 (437a0b8)
 * [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait (#87587)
-
-Cataclysm-DDA experimental build 2026-06-12-0510 (14bca54)
 * Fix - nanomaterial canister spawning in microlabs (#87590)
-
-Cataclysm-DDA experimental build 2026-06-11-2138 (7582efc)
 * npc mission uses enum_to_string (#87552)
 * [Innawood] Ravine edge caves (#87562)
 * Add myself to comment commands for issue confirmation (#87576)
@@ -138,12 +142,8 @@ Cataclysm-DDA experimental build 2026-06-11-2138 (7582efc)
 * [Innawood] Fix ravine cutouts (#87499)
 * Use CMake FreeType target for ImGui (#87498)
 * Iron Safari, Circuit Safari, and the Hub 01 Bionic Garage no longer require you to physically lift massive robots to finish missions (#87484)
-* Make SDL3 the default tiled build (#87474)
 * Fix "Semi frequent crash when using the safehouse teleporter" (#87488)
 * Make Android system bars configurable (#87496)
 * Clean up SDL3 clang-tidy findings (#87490)
-* Fix outgoing links from CONTRIBUTING.md (#87480)
 * Look around: show memorised terrain and furniture (#87481)
 * Fix SDL3 shader fallback tiles going black (#87487)
-* graphite spawn and stats adjustments (#87479)
-* Fix sewage treatment quicklime drum error (#87476)
