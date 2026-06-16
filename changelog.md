@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-16-0137 ([badea14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0137))
+
+* [XedraWood] Add bronze lamellar cuirass ([#87664](https://github.com/CleverRaven/Cataclysm-DDA/pull/87664))
+* Remove shader compilation from VS project because it requires python. ([#87658](https://github.com/CleverRaven/Cataclysm-DDA/pull/87658))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-15-1858 ([8dfb2f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-1858))
 
 * reflavor and tweak labyrinth Laser-Assisted Reading Device CBM ([#87651](https://github.com/CleverRaven/Cataclysm-DDA/pull/87651))
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-06-11-1902 ([df825bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1902))
 
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil ([#87579](https://github.com/CleverRaven/Cataclysm-DDA/pull/87579))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-11-1815 ([3094a14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-11-1815))
-
 * Updated protein and cheese powder recipes with steps and made them more realistic ([#87565](https://github.com/CleverRaven/Cataclysm-DDA/pull/87565))
 * [XedraWood] Overwrite default forest/field/swamp terrain spawn frequency ([#87555](https://github.com/CleverRaven/Cataclysm-DDA/pull/87555))
 * Properly package the evacuation protein bars ([#87572](https://github.com/CleverRaven/Cataclysm-DDA/pull/87572))
@@ -226,8 +228,6 @@
 * Look around: show memorised terrain and furniture ([#87481](https://github.com/CleverRaven/Cataclysm-DDA/pull/87481))
 * Fix SDL3 shader fallback tiles going black ([#87487](https://github.com/CleverRaven/Cataclysm-DDA/pull/87487))
 * graphite spawn and stats adjustments ([#87479](https://github.com/CleverRaven/Cataclysm-DDA/pull/87479))
-* put solder in spool, adjust spawning accordingly ([#87468](https://github.com/CleverRaven/Cataclysm-DDA/pull/87468))
 * Fix sewage treatment quicklime drum error ([#87476](https://github.com/CleverRaven/Cataclysm-DDA/pull/87476))
 * set duct_tape length ([#87470](https://github.com/CleverRaven/Cataclysm-DDA/pull/87470))
 * Remove include <algorithm> from character_morale ([#87473](https://github.com/CleverRaven/Cataclysm-DDA/pull/87473))
-* vitrified farmstead, LIXA, lost levels, and portal storm dungeon are all viable exits from the Labyrinth Bound challenge ([#87465](https://github.com/CleverRaven/Cataclysm-DDA/pull/87465))
