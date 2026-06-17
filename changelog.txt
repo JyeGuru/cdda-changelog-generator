@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-17-2219 (788be45)
+* Android: virtual keyboard ownership and character creator shortcut bar (#87687)
+
 Cataclysm-DDA experimental build 2026-06-17-1609 (c17675a)
 * Labyrinth computers modify furniture `n_` vals before mapgen updates (#87689)
 
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2026-06-14-0843 (7122004)
 
 Cataclysm-DDA experimental build 2026-06-13-2332 (390d115)
 * feat(ui): maintain highlight position after inventory item use (#87601)
-
-Cataclysm-DDA experimental build 2026-06-13-2253 (d5c47b6)
 * Yeet the heavy/power lathe pseudo tool (#87621)
 * add `set_trap`, `set_terrain`, `set_furniture` dialogie effects, update _set_field (#87598)
 * [XedraWood] Increase river flood plain area (#87607)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2026-06-13-2253 (d5c47b6)
 * [Innawood] More blacklisting for recipes (#87500)
 * Weekly Changelog 2026-06-01 to 2026-06-08 (#87515)
 * place different types of batteries into junk drawer (#87504)
-* [Innawood] Fix ravine cutouts (#87499)

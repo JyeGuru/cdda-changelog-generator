@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-17-2219 ([788be45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-2219))
+
+* Android: virtual keyboard ownership and character creator shortcut bar ([#87687](https://github.com/CleverRaven/Cataclysm-DDA/pull/87687))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-17-1609 ([c17675a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1609))
 
 * Labyrinth computers modify furniture `n_` vals before mapgen updates ([#87689](https://github.com/CleverRaven/Cataclysm-DDA/pull/87689))
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2026-06-13-2332 ([390d115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-2332))
 
 * feat(ui): maintain highlight position after inventory item use ([#87601](https://github.com/CleverRaven/Cataclysm-DDA/pull/87601))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-13-2253 ([d5c47b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-2253))
-
 * Yeet the heavy/power lathe pseudo tool ([#87621](https://github.com/CleverRaven/Cataclysm-DDA/pull/87621))
 * add `set_trap`, `set_terrain`, `set_furniture` dialogie effects, update _set_field ([#87598](https://github.com/CleverRaven/Cataclysm-DDA/pull/87598))
 * [XedraWood] Increase river flood plain area ([#87607](https://github.com/CleverRaven/Cataclysm-DDA/pull/87607))
@@ -226,4 +227,3 @@
 * [Innawood] More blacklisting for recipes ([#87500](https://github.com/CleverRaven/Cataclysm-DDA/pull/87500))
 * Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
-* [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
