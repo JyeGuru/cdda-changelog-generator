@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-17-1609 ([c17675a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1609))
+
+* Labyrinth computers modify furniture `n_` vals before mapgen updates ([#87689](https://github.com/CleverRaven/Cataclysm-DDA/pull/87689))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-06-17-1645 ([79ff352](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-17-1645))
+
+* Backport #82931 to 0.I ([#87690](https://github.com/CleverRaven/Cataclysm-DDA/pull/87690))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-06-17-1601 ([e0467d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-17-1601))
+
+* Fix Zone Crashes re #82524 ([#87691](https://github.com/CleverRaven/Cataclysm-DDA/pull/87691))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-17-1213 ([c097e76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1213))
 
 * Added "taming" food information in monster extended description ([#87681](https://github.com/CleverRaven/Cataclysm-DDA/pull/87681))
@@ -149,18 +167,8 @@
 #### Cataclysm-DDA experimental build 2026-06-13-2253 ([d5c47b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-2253))
 
 * Yeet the heavy/power lathe pseudo tool ([#87621](https://github.com/CleverRaven/Cataclysm-DDA/pull/87621))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-13-1601 ([088979e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-1601))
-
 * add `set_trap`, `set_terrain`, `set_furniture` dialogie effects, update _set_field ([#87598](https://github.com/CleverRaven/Cataclysm-DDA/pull/87598))
 * [XedraWood] Increase river flood plain area ([#87607](https://github.com/CleverRaven/Cataclysm-DDA/pull/87607))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-13-1425 ([dfe16ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-1425))
-
 * fix garbage bag spawn ([#87615](https://github.com/CleverRaven/Cataclysm-DDA/pull/87615))
 * [ Magiclysm ] Improve Forge Defenses ([#87516](https://github.com/CleverRaven/Cataclysm-DDA/pull/87516))
 * Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
@@ -202,7 +210,6 @@
 * [0.I] Fix MSXotto+ lingering experimental bits in layering.json ([#87523](https://github.com/CleverRaven/Cataclysm-DDA/pull/87523))
 * Add dylibbundler dep to MacOS docs ([#87538](https://github.com/CleverRaven/Cataclysm-DDA/pull/87538))
 * Fix SDL3 numpad repeat on macOS ([#87519](https://github.com/CleverRaven/Cataclysm-DDA/pull/87519))
-* feat(sort armor): add toggle favorite action ([#87492](https://github.com/CleverRaven/Cataclysm-DDA/pull/87492))
 * Adds more Highland Oasis variants ([#87501](https://github.com/CleverRaven/Cataclysm-DDA/pull/87501))
 * Fix exodii limb armor, nuke acid armor ([#87524](https://github.com/CleverRaven/Cataclysm-DDA/pull/87524))
 * Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))
@@ -221,4 +228,3 @@
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
-* Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
