@@ -227,4 +227,3 @@
 * Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
-* Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
