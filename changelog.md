@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-17-1130 ([7b55514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1130))
+
+* yeet go bags ([#87656](https://github.com/CleverRaven/Cataclysm-DDA/pull/87656))
+* Add Vehicle Shape Variants to Food Truck Freezer and Fridge ([#87675](https://github.com/CleverRaven/Cataclysm-DDA/pull/87675))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-17-0921 ([0611453](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-0921))
+
+* Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-17-0232 ([d8e180b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-0232))
 
 * Remove the x86 only compiler flag for aarch64 ([#87639](https://github.com/CleverRaven/Cataclysm-DDA/pull/87639))
@@ -150,29 +163,9 @@
 
 * [ Magiclysm ] Improve Forge Defenses ([#87516](https://github.com/CleverRaven/Cataclysm-DDA/pull/87516))
 * Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-13-0912 ([7fd6756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0912))
-
 * Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-13-0521 ([9e83555](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0521))
-
 * [XE] Apply the supernatural exclusivity principle. ([#87591](https://github.com/CleverRaven/Cataclysm-DDA/pull/87591))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-13-0434 ([d18d702](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0434))
-
 * [XedraWood] Add more hobbies ([#87609](https://github.com/CleverRaven/Cataclysm-DDA/pull/87609))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-13-0303 ([5d36c78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0303))
-
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
 * remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
@@ -224,11 +217,8 @@
 * Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
 * [Innawood] More blacklisting for recipes ([#87500](https://github.com/CleverRaven/Cataclysm-DDA/pull/87500))
 * Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
-* Sanify stats of copper wire and raw copper wire, adjust it's item spawn ([#87489](https://github.com/CleverRaven/Cataclysm-DDA/pull/87489))
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
-* Fix "Semi frequent crash when using the safehouse teleporter" ([#87488](https://github.com/CleverRaven/Cataclysm-DDA/pull/87488))
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
 * Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))
-* Fix SDL3 shader fallback tiles going black ([#87487](https://github.com/CleverRaven/Cataclysm-DDA/pull/87487))

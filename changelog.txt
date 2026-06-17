@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-06-17-1130 (7b55514)
+* yeet go bags (#87656)
+* Add Vehicle Shape Variants to Food Truck Freezer and Fridge (#87675)
+
+Cataclysm-DDA experimental build 2026-06-17-0921 (0611453)
+* Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each (#87686)
+
 Cataclysm-DDA experimental build 2026-06-17-0232 (d8e180b)
 * Remove the x86 only compiler flag for aarch64 (#87639)
 * document that only liquid comestibles are counted by charges (#87666)
@@ -78,17 +85,9 @@ Cataclysm-DDA experimental build 2026-06-13-1425 (dfe16ca)
 Cataclysm-DDA experimental build 2026-06-13-1054 (b54647b)
 * [ Magiclysm ] Improve Forge Defenses (#87516)
 * Remove SDL2 support from the Windows Visual Studio build (#87608)
-
-Cataclysm-DDA experimental build 2026-06-13-0912 (7fd6756)
 * Update Jenny's Quest information to clarify what she wants (#87613)
-
-Cataclysm-DDA experimental build 2026-06-13-0521 (9e83555)
 * [XE] Apply the supernatural exclusivity principle. (#87591)
-
-Cataclysm-DDA experimental build 2026-06-13-0434 (d18d702)
 * [XedraWood] Add more hobbies (#87609)
-
-Cataclysm-DDA experimental build 2026-06-13-0303 (5d36c78)
 * Drinking water from the Scarlet Sea is not nice (#87610)
 * [XedraWood] Innawood recipe blacklisting (#87594)
 * remove apparently broken stalebot clauses (#87599)
@@ -140,11 +139,8 @@ Cataclysm-DDA experimental build 2026-06-13-0303 (5d36c78)
 * Fix copper stats (#87518)
 * [Innawood] More blacklisting for recipes (#87500)
 * Weekly Changelog 2026-06-01 to 2026-06-08 (#87515)
-* Sanify stats of copper wire and raw copper wire, adjust it's item spawn (#87489)
 * place different types of batteries into junk drawer (#87504)
 * [Innawood] Fix ravine cutouts (#87499)
 * Use CMake FreeType target for ImGui (#87498)
-* Fix "Semi frequent crash when using the safehouse teleporter" (#87488)
 * Make Android system bars configurable (#87496)
 * Clean up SDL3 clang-tidy findings (#87490)
-* Fix SDL3 shader fallback tiles going black (#87487)
