@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-17-1213 ([c097e76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1213))
+
+* Added "taming" food information in monster extended description ([#87681](https://github.com/CleverRaven/Cataclysm-DDA/pull/87681))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-17-1130 ([7b55514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1130))
 
 * yeet go bags ([#87656](https://github.com/CleverRaven/Cataclysm-DDA/pull/87656))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-06-13-1425 ([dfe16ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-1425))
 
 * fix garbage bag spawn ([#87615](https://github.com/CleverRaven/Cataclysm-DDA/pull/87615))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-13-1054 ([b54647b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-1054))
-
 * [ Magiclysm ] Improve Forge Defenses ([#87516](https://github.com/CleverRaven/Cataclysm-DDA/pull/87516))
 * Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
 * Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
@@ -221,4 +222,3 @@
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
-* Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))

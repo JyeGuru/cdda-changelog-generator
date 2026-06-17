@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-17-1213 (c097e76)
+* Added "taming" food information in monster extended description (#87681)
+
 Cataclysm-DDA experimental build 2026-06-17-1130 (7b55514)
 * yeet go bags (#87656)
 * Add Vehicle Shape Variants to Food Truck Freezer and Fridge (#87675)
@@ -81,8 +84,6 @@ Cataclysm-DDA experimental build 2026-06-13-1601 (088979e)
 
 Cataclysm-DDA experimental build 2026-06-13-1425 (dfe16ca)
 * fix garbage bag spawn (#87615)
-
-Cataclysm-DDA experimental build 2026-06-13-1054 (b54647b)
 * [ Magiclysm ] Improve Forge Defenses (#87516)
 * Remove SDL2 support from the Windows Visual Studio build (#87608)
 * Update Jenny's Quest information to clarify what she wants (#87613)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2026-06-13-1054 (b54647b)
 * [Innawood] Fix ravine cutouts (#87499)
 * Use CMake FreeType target for ImGui (#87498)
 * Make Android system bars configurable (#87496)
-* Clean up SDL3 clang-tidy findings (#87490)
