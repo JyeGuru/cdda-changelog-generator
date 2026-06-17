@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-17-0232 ([d8e180b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-0232))
+
+* Remove the x86 only compiler flag for aarch64 ([#87639](https://github.com/CleverRaven/Cataclysm-DDA/pull/87639))
+* document that only liquid comestibles are counted by charges ([#87666](https://github.com/CleverRaven/Cataclysm-DDA/pull/87666))
+* fix estimated time to arrival format ([#87674](https://github.com/CleverRaven/Cataclysm-DDA/pull/87674))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-17-0153 ([a5af12d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-0153))
+
+* Add missing condition to labyrinth safehouse terminal dialogue ([#87683](https://github.com/CleverRaven/Cataclysm-DDA/pull/87683))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-16-1130 ([965b136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-1130))
 
 * Weekly Changelog 2026-06-08 to 2026-06-15 ([#87648](https://github.com/CleverRaven/Cataclysm-DDA/pull/87648))
@@ -160,18 +174,8 @@
 #### Cataclysm-DDA experimental build 2026-06-13-0303 ([5d36c78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-13-0303))
 
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-12-2340 ([f363a37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-2340))
-
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
 * remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-12-1049 ([2fc54bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-12-1049))
-
 * [XedraWood] Tanglevine patch map extra ([#87578](https://github.com/CleverRaven/Cataclysm-DDA/pull/87578))
 * [XedraWood] Characters are illiterate ([#87580](https://github.com/CleverRaven/Cataclysm-DDA/pull/87580))
 * Only attempt to restack charges if the inserted item uses charges ([#87582](https://github.com/CleverRaven/Cataclysm-DDA/pull/87582))
@@ -221,13 +225,10 @@
 * [Innawood] More blacklisting for recipes ([#87500](https://github.com/CleverRaven/Cataclysm-DDA/pull/87500))
 * Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
 * Sanify stats of copper wire and raw copper wire, adjust it's item spawn ([#87489](https://github.com/CleverRaven/Cataclysm-DDA/pull/87489))
-* Remove weaving recipes that use spinning tools ([#87482](https://github.com/CleverRaven/Cataclysm-DDA/pull/87482))
 * place different types of batteries into junk drawer ([#87504](https://github.com/CleverRaven/Cataclysm-DDA/pull/87504))
 * [Innawood] Fix ravine cutouts ([#87499](https://github.com/CleverRaven/Cataclysm-DDA/pull/87499))
 * Use CMake FreeType target for ImGui ([#87498](https://github.com/CleverRaven/Cataclysm-DDA/pull/87498))
-* Iron Safari, Circuit Safari, and the Hub 01 Bionic Garage no longer require you to physically lift massive robots to finish missions ([#87484](https://github.com/CleverRaven/Cataclysm-DDA/pull/87484))
 * Fix "Semi frequent crash when using the safehouse teleporter" ([#87488](https://github.com/CleverRaven/Cataclysm-DDA/pull/87488))
 * Make Android system bars configurable ([#87496](https://github.com/CleverRaven/Cataclysm-DDA/pull/87496))
 * Clean up SDL3 clang-tidy findings ([#87490](https://github.com/CleverRaven/Cataclysm-DDA/pull/87490))
-* Look around: show memorised terrain and furniture ([#87481](https://github.com/CleverRaven/Cataclysm-DDA/pull/87481))
 * Fix SDL3 shader fallback tiles going black ([#87487](https://github.com/CleverRaven/Cataclysm-DDA/pull/87487))

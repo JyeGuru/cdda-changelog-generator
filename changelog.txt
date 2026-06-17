@@ -1,4 +1,12 @@
 
+Cataclysm-DDA experimental build 2026-06-17-0232 (d8e180b)
+* Remove the x86 only compiler flag for aarch64 (#87639)
+* document that only liquid comestibles are counted by charges (#87666)
+* fix estimated time to arrival format (#87674)
+
+Cataclysm-DDA experimental build 2026-06-17-0153 (a5af12d)
+* Add missing condition to labyrinth safehouse terminal dialogue (#87683)
+
 Cataclysm-DDA experimental build 2026-06-16-1130 (965b136)
 * Weekly Changelog 2026-06-08 to 2026-06-15 (#87648)
 
@@ -82,12 +90,8 @@ Cataclysm-DDA experimental build 2026-06-13-0434 (d18d702)
 
 Cataclysm-DDA experimental build 2026-06-13-0303 (5d36c78)
 * Drinking water from the Scarlet Sea is not nice (#87610)
-
-Cataclysm-DDA experimental build 2026-06-12-2340 (f363a37)
 * [XedraWood] Innawood recipe blacklisting (#87594)
 * remove apparently broken stalebot clauses (#87599)
-
-Cataclysm-DDA experimental build 2026-06-12-1049 (2fc54bc)
 * [XedraWood] Tanglevine patch map extra (#87578)
 * [XedraWood] Characters are illiterate (#87580)
 * Only attempt to restack charges if the inserted item uses charges (#87582)
@@ -137,13 +141,10 @@ Cataclysm-DDA experimental build 2026-06-12-1049 (2fc54bc)
 * [Innawood] More blacklisting for recipes (#87500)
 * Weekly Changelog 2026-06-01 to 2026-06-08 (#87515)
 * Sanify stats of copper wire and raw copper wire, adjust it's item spawn (#87489)
-* Remove weaving recipes that use spinning tools (#87482)
 * place different types of batteries into junk drawer (#87504)
 * [Innawood] Fix ravine cutouts (#87499)
 * Use CMake FreeType target for ImGui (#87498)
-* Iron Safari, Circuit Safari, and the Hub 01 Bionic Garage no longer require you to physically lift massive robots to finish missions (#87484)
 * Fix "Semi frequent crash when using the safehouse teleporter" (#87488)
 * Make Android system bars configurable (#87496)
 * Clean up SDL3 clang-tidy findings (#87490)
-* Look around: show memorised terrain and furniture (#87481)
 * Fix SDL3 shader fallback tiles going black (#87487)
