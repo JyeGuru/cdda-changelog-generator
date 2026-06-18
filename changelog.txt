@@ -1,4 +1,12 @@
 
+Cataclysm-DDA experimental build 2026-06-18-0431 (06c9ffd)
+* Add recipe for 'counterweight_pouch' (#87566)
+* refactor death message, corpse spawn and death drops suppresion vars (#87680)
+* String dimension connect group (#87692)
+
+Cataclysm-DDA experimental build 2026-06-18-0238 (0dc2c1a)
+* [Magiclysm] Fix last mage on earth shelter not spawning the entrance chunk (#87698)
+
 Cataclysm-DDA experimental build 2026-06-17-2219 (788be45)
 * Android: virtual keyboard ownership and character creator shortcut bar (#87687)
 
@@ -80,11 +88,7 @@ Cataclysm-DDA experimental build 2026-06-14-1502 (8711281)
 
 Cataclysm-DDA experimental build 2026-06-14-1053 (f08a182)
 * Fix potassium chloride powder spawning multiple containers (#87635)
-
-Cataclysm-DDA experimental build 2026-06-14-0843 (7122004)
 * Remove hardcoded water boiling (#87620)
-
-Cataclysm-DDA experimental build 2026-06-13-2332 (390d115)
 * feat(ui): maintain highlight position after inventory item use (#87601)
 * Yeet the heavy/power lathe pseudo tool (#87621)
 * add `set_trap`, `set_terrain`, `set_furniture` dialogie effects, update _set_field (#87598)
@@ -130,7 +134,6 @@ Cataclysm-DDA experimental build 2026-06-13-2332 (390d115)
 * [0.I] Fix MSXotto+ lingering experimental bits in layering.json (#87523)
 * Add dylibbundler dep to MacOS docs (#87538)
 * Fix SDL3 numpad repeat on macOS (#87519)
-* Adds more Highland Oasis variants (#87501)
 * Fix exodii limb armor, nuke acid armor (#87524)
 * Refugee Center Teamster be able to self-defend themselves. (#87537)
 * [XedraWood] Add more professions (#87506)
@@ -140,9 +143,6 @@ Cataclysm-DDA experimental build 2026-06-13-2332 (390d115)
 * fixes #87445 (#87525)
 * [Xedra Evolved] Palettize elemental altars, overwrite them in XedraWood (#87532)
 * [Innawood] Overwrite trailhead palette to remove modern items (#87529)
-* Skip SDL frameworks for macOS curses release (#87503)
 * [Magiclysm] Fix Aura of Protection proficiency XP (#87520)
 * Fix copper stats (#87518)
-* [Innawood] More blacklisting for recipes (#87500)
 * Weekly Changelog 2026-06-01 to 2026-06-08 (#87515)
-* place different types of batteries into junk drawer (#87504)
