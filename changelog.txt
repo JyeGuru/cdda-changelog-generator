@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-18-2300 (3b8a268)
+* [Magiclysm] No ferals in the Last Mage on Earth shelter (#87704)
+
 Cataclysm-DDA experimental build 2026-06-18-1358 (b4d29ef)
 * [XE] Fix the fruit's music lasting forever. (#87699)
 * Check for conflicting plural forms of strings (#87702)
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-06-15-0158 (28e4c9a)
 
 Cataclysm-DDA experimental build 2026-06-15-0119 (16ecccc)
 * [XedraWood] Giant bugs aren't mutants (#87642)
-
-Cataclysm-DDA experimental build 2026-06-14-1541 (7be8226)
 * UICA vehicle merchant respects chit price (#87629)
 * [XedraWood] rework temperature and humidity (#87630)
 * Fix potassium chloride powder spawning multiple containers (#87635)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2026-06-14-1541 (7be8226)
 * [Xedra Evolved] Palettize elemental altars, overwrite them in XedraWood (#87532)
 * [Innawood] Overwrite trailhead palette to remove modern items (#87529)
 * [Magiclysm] Fix Aura of Protection proficiency XP (#87520)
-* Fix copper stats (#87518)

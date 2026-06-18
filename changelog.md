@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-18-2300 ([3b8a268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-2300))
+
+* [Magiclysm] No ferals in the Last Mage on Earth shelter ([#87704](https://github.com/CleverRaven/Cataclysm-DDA/pull/87704))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-18-1358 ([b4d29ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-1358))
 
 * [XE] Fix the fruit's music lasting forever. ([#87699](https://github.com/CleverRaven/Cataclysm-DDA/pull/87699))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-06-15-0119 ([16ecccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-0119))
 
 * [XedraWood] Giant bugs aren't mutants ([#87642](https://github.com/CleverRaven/Cataclysm-DDA/pull/87642))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-14-1541 ([7be8226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1541))
-
 * UICA vehicle merchant respects chit price ([#87629](https://github.com/CleverRaven/Cataclysm-DDA/pull/87629))
 * [XedraWood] rework temperature and humidity ([#87630](https://github.com/CleverRaven/Cataclysm-DDA/pull/87630))
 * Fix potassium chloride powder spawning multiple containers ([#87635](https://github.com/CleverRaven/Cataclysm-DDA/pull/87635))
@@ -226,4 +227,3 @@
 * [Xedra Evolved] Palettize elemental altars, overwrite them in XedraWood ([#87532](https://github.com/CleverRaven/Cataclysm-DDA/pull/87532))
 * [Innawood] Overwrite trailhead palette to remove modern items ([#87529](https://github.com/CleverRaven/Cataclysm-DDA/pull/87529))
 * [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
-* Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
