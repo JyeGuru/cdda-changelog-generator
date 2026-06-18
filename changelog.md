@@ -1,3 +1,12 @@
+* [XE] Fix the fruit's music lasting forever. ([#87699](https://github.com/CleverRaven/Cataclysm-DDA/pull/87699))
+* Check for conflicting plural forms of strings ([#87702](https://github.com/CleverRaven/Cataclysm-DDA/pull/87702))
+* Spore dust warning ([#87703](https://github.com/CleverRaven/Cataclysm-DDA/pull/87703))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-18-1310 ([baf2b21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-1310))
+
+* Fix pixel minimap grid lines and GCC9 build ([#87701](https://github.com/CleverRaven/Cataclysm-DDA/pull/87701))
 
 ---
 
@@ -163,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-06-14-1502 ([8711281](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1502))
 
 * [XedraWood] rework temperature and humidity ([#87630](https://github.com/CleverRaven/Cataclysm-DDA/pull/87630))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-14-1053 ([f08a182](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1053))
-
 * Fix potassium chloride powder spawning multiple containers ([#87635](https://github.com/CleverRaven/Cataclysm-DDA/pull/87635))
 * Remove hardcoded water boiling ([#87620](https://github.com/CleverRaven/Cataclysm-DDA/pull/87620))
 * feat(ui): maintain highlight position after inventory item use ([#87601](https://github.com/CleverRaven/Cataclysm-DDA/pull/87601))
@@ -175,7 +179,6 @@
 * add `set_trap`, `set_terrain`, `set_furniture` dialogie effects, update _set_field ([#87598](https://github.com/CleverRaven/Cataclysm-DDA/pull/87598))
 * [XedraWood] Increase river flood plain area ([#87607](https://github.com/CleverRaven/Cataclysm-DDA/pull/87607))
 * fix garbage bag spawn ([#87615](https://github.com/CleverRaven/Cataclysm-DDA/pull/87615))
-* [ Magiclysm ] Improve Forge Defenses ([#87516](https://github.com/CleverRaven/Cataclysm-DDA/pull/87516))
 * Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
 * Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
 * [XE] Apply the supernatural exclusivity principle. ([#87591](https://github.com/CleverRaven/Cataclysm-DDA/pull/87591))
@@ -217,8 +220,6 @@
 * Fix SDL3 numpad repeat on macOS ([#87519](https://github.com/CleverRaven/Cataclysm-DDA/pull/87519))
 * Fix exodii limb armor, nuke acid armor ([#87524](https://github.com/CleverRaven/Cataclysm-DDA/pull/87524))
 * Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))
-* [XedraWood] Add more professions ([#87506](https://github.com/CleverRaven/Cataclysm-DDA/pull/87506))
-* Enable Linux SDL3 desktop backends ([#87508](https://github.com/CleverRaven/Cataclysm-DDA/pull/87508))
 * [Xedra Evolved] Add brain tanning for glimmer fur ([#87521](https://github.com/CleverRaven/Cataclysm-DDA/pull/87521))
 * Show required proficiencies in table ([#87522](https://github.com/CleverRaven/Cataclysm-DDA/pull/87522))
 * fixes #87445 ([#87525](https://github.com/CleverRaven/Cataclysm-DDA/pull/87525))
@@ -226,4 +227,3 @@
 * [Innawood] Overwrite trailhead palette to remove modern items ([#87529](https://github.com/CleverRaven/Cataclysm-DDA/pull/87529))
 * [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
 * Fix copper stats ([#87518](https://github.com/CleverRaven/Cataclysm-DDA/pull/87518))
-* Weekly Changelog 2026-06-01 to 2026-06-08 ([#87515](https://github.com/CleverRaven/Cataclysm-DDA/pull/87515))
