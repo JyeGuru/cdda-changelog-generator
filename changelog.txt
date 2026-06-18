@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-06-18-1358 (b4d29ef)
 * [XE] Fix the fruit's music lasting forever. (#87699)
 * Check for conflicting plural forms of strings (#87702)
 * Spore dust warning (#87703)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2026-06-15-0119 (16ecccc)
 
 Cataclysm-DDA experimental build 2026-06-14-1541 (7be8226)
 * UICA vehicle merchant respects chit price (#87629)
-
-Cataclysm-DDA experimental build 2026-06-14-1502 (8711281)
 * [XedraWood] rework temperature and humidity (#87630)
 * Fix potassium chloride powder spawning multiple containers (#87635)
 * Remove hardcoded water boiling (#87620)

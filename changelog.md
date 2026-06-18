@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-18-1358 ([b4d29ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-1358))
+
 * [XE] Fix the fruit's music lasting forever. ([#87699](https://github.com/CleverRaven/Cataclysm-DDA/pull/87699))
 * Check for conflicting plural forms of strings ([#87702](https://github.com/CleverRaven/Cataclysm-DDA/pull/87702))
 * Spore dust warning ([#87703](https://github.com/CleverRaven/Cataclysm-DDA/pull/87703))
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-06-14-1541 ([7be8226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1541))
 
 * UICA vehicle merchant respects chit price ([#87629](https://github.com/CleverRaven/Cataclysm-DDA/pull/87629))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-14-1502 ([8711281](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-14-1502))
-
 * [XedraWood] rework temperature and humidity ([#87630](https://github.com/CleverRaven/Cataclysm-DDA/pull/87630))
 * Fix potassium chloride powder spawning multiple containers ([#87635](https://github.com/CleverRaven/Cataclysm-DDA/pull/87635))
 * Remove hardcoded water boiling ([#87620](https://github.com/CleverRaven/Cataclysm-DDA/pull/87620))
