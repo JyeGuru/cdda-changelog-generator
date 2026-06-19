@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-19-0041 ([84aa651](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0041))
+
+* Zero cost spells remain zero cost even if encumbered ([#87705](https://github.com/CleverRaven/Cataclysm-DDA/pull/87705))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-18-2300 ([3b8a268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-2300))
 
 * [Magiclysm] No ferals in the Last Mage on Earth shelter ([#87704](https://github.com/CleverRaven/Cataclysm-DDA/pull/87704))
@@ -165,11 +171,6 @@
 * Craftable Luties ([#87581](https://github.com/CleverRaven/Cataclysm-DDA/pull/87581))
 * Streamline water purification application ([#87631](https://github.com/CleverRaven/Cataclysm-DDA/pull/87631))
 * Move vanity traits to cosmetic category ([#87634](https://github.com/CleverRaven/Cataclysm-DDA/pull/87634))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-15-0119 ([16ecccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-0119))
-
 * [XedraWood] Giant bugs aren't mutants ([#87642](https://github.com/CleverRaven/Cataclysm-DDA/pull/87642))
 * UICA vehicle merchant respects chit price ([#87629](https://github.com/CleverRaven/Cataclysm-DDA/pull/87629))
 * [XedraWood] rework temperature and humidity ([#87630](https://github.com/CleverRaven/Cataclysm-DDA/pull/87630))
@@ -218,7 +219,6 @@
 * Add firewood ([#87528](https://github.com/CleverRaven/Cataclysm-DDA/pull/87528))
 * [0.I] Fix MSXotto+ lingering experimental bits in layering.json ([#87523](https://github.com/CleverRaven/Cataclysm-DDA/pull/87523))
 * Add dylibbundler dep to MacOS docs ([#87538](https://github.com/CleverRaven/Cataclysm-DDA/pull/87538))
-* Fix SDL3 numpad repeat on macOS ([#87519](https://github.com/CleverRaven/Cataclysm-DDA/pull/87519))
 * Fix exodii limb armor, nuke acid armor ([#87524](https://github.com/CleverRaven/Cataclysm-DDA/pull/87524))
 * Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))
 * [Xedra Evolved] Add brain tanning for glimmer fur ([#87521](https://github.com/CleverRaven/Cataclysm-DDA/pull/87521))
