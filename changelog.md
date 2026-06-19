@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-19-1941 ([8ad0d2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-1941))
+
+* [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-19-0516 ([e44e0aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0516))
 
 * Two new aftershock achievements ([#87628](https://github.com/CleverRaven/Cataclysm-DDA/pull/87628))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-06-15-1858 ([8dfb2f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-1858))
 
 * reflavor and tweak labyrinth Laser-Assisted Reading Device CBM ([#87651](https://github.com/CleverRaven/Cataclysm-DDA/pull/87651))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-15-1750 ([2ff8e35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-1750))
-
 * Fix labyrinth treasure room terminals ([#87650](https://github.com/CleverRaven/Cataclysm-DDA/pull/87650))
 * Stop batch crafts vanishing on long unattended steps ([#87653](https://github.com/CleverRaven/Cataclysm-DDA/pull/87653))
 * Refactor pixel minimap drawing and guard null render targets ([#87652](https://github.com/CleverRaven/Cataclysm-DDA/pull/87652))
@@ -231,4 +232,3 @@
 * Add dylibbundler dep to MacOS docs ([#87538](https://github.com/CleverRaven/Cataclysm-DDA/pull/87538))
 * Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))
 * [Xedra Evolved] Palettize elemental altars, overwrite them in XedraWood ([#87532](https://github.com/CleverRaven/Cataclysm-DDA/pull/87532))
-* [Innawood] Overwrite trailhead palette to remove modern items ([#87529](https://github.com/CleverRaven/Cataclysm-DDA/pull/87529))

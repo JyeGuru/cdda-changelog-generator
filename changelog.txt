@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-19-1941 (8ad0d2c)
+* [Xedra Evolved] Fix bearskin problems (#87709)
+
 Cataclysm-DDA experimental build 2026-06-19-0516 (e44e0aa)
 * Two new aftershock achievements (#87628)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2026-06-16-0137 (badea14)
 
 Cataclysm-DDA experimental build 2026-06-15-1858 (8dfb2f3)
 * reflavor and tweak labyrinth Laser-Assisted Reading Device CBM (#87651)
-
-Cataclysm-DDA experimental build 2026-06-15-1750 (2ff8e35)
 * Fix labyrinth treasure room terminals (#87650)
 * Stop batch crafts vanishing on long unattended steps (#87653)
 * Refactor pixel minimap drawing and guard null render targets (#87652)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2026-06-15-1750 (2ff8e35)
 * Add dylibbundler dep to MacOS docs (#87538)
 * Refugee Center Teamster be able to self-defend themselves. (#87537)
 * [Xedra Evolved] Palettize elemental altars, overwrite them in XedraWood (#87532)
-* [Innawood] Overwrite trailhead palette to remove modern items (#87529)
