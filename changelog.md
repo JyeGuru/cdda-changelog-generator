@@ -1,6 +1,33 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-19-0516 ([e44e0aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0516))
+
+* Two new aftershock achievements ([#87628](https://github.com/CleverRaven/Cataclysm-DDA/pull/87628))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-19-0421 ([57164f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0421))
+
+* remove mention of bugged npc teleport from DIMENSIONS.md ([#87657](https://github.com/CleverRaven/Cataclysm-DDA/pull/87657))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-19-0301 ([4feb7f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0301))
+
+* fix detergent use in washing ([#87668](https://github.com/CleverRaven/Cataclysm-DDA/pull/87668))
+* [Xedra Evolved] Make gaining dhampir powers less deterministic ([#87684](https://github.com/CleverRaven/Cataclysm-DDA/pull/87684))
+* [MoM: Psychic Scream] Disable recurring power learning/awakening EoCs ([#87694](https://github.com/CleverRaven/Cataclysm-DDA/pull/87694))
+* [XedraWood] The Wise are literate, start with hedge magic recipes ([#87696](https://github.com/CleverRaven/Cataclysm-DDA/pull/87696))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-19-0214 ([a861cf3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0214))
+
+* Allow 1L Copper Ingots to be made with Copper ([#87697](https://github.com/CleverRaven/Cataclysm-DDA/pull/87697))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-19-0041 ([84aa651](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0041))
 
 * Zero cost spells remain zero cost even if encumbered ([#87705](https://github.com/CleverRaven/Cataclysm-DDA/pull/87705))
@@ -151,23 +178,8 @@
 
 * Fix labyrinth treasure room terminals ([#87650](https://github.com/CleverRaven/Cataclysm-DDA/pull/87650))
 * Stop batch crafts vanishing on long unattended steps ([#87653](https://github.com/CleverRaven/Cataclysm-DDA/pull/87653))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-15-1647 ([3d58778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-1647))
-
 * Refactor pixel minimap drawing and guard null render targets ([#87652](https://github.com/CleverRaven/Cataclysm-DDA/pull/87652))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-15-1602 ([b3ac7e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-1602))
-
 * Multimag gun and tool mod support ([#87637](https://github.com/CleverRaven/Cataclysm-DDA/pull/87637))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-15-0158 ([28e4c9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-15-0158))
-
 * Craftable Luties ([#87581](https://github.com/CleverRaven/Cataclysm-DDA/pull/87581))
 * Streamline water purification application ([#87631](https://github.com/CleverRaven/Cataclysm-DDA/pull/87631))
 * Move vanity traits to cosmetic category ([#87634](https://github.com/CleverRaven/Cataclysm-DDA/pull/87634))
@@ -216,14 +228,7 @@
 * Fix SDL3 tint rows after sprite shader draws ([#87542](https://github.com/CleverRaven/Cataclysm-DDA/pull/87542))
 * [Xedra Evolved] Add a few more effects to Lights of Imbolc's curing ([#87533](https://github.com/CleverRaven/Cataclysm-DDA/pull/87533))
 * [Innawood] Fix modern construction on desert islands ([#87534](https://github.com/CleverRaven/Cataclysm-DDA/pull/87534))
-* Add firewood ([#87528](https://github.com/CleverRaven/Cataclysm-DDA/pull/87528))
-* [0.I] Fix MSXotto+ lingering experimental bits in layering.json ([#87523](https://github.com/CleverRaven/Cataclysm-DDA/pull/87523))
 * Add dylibbundler dep to MacOS docs ([#87538](https://github.com/CleverRaven/Cataclysm-DDA/pull/87538))
-* Fix exodii limb armor, nuke acid armor ([#87524](https://github.com/CleverRaven/Cataclysm-DDA/pull/87524))
 * Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))
-* [Xedra Evolved] Add brain tanning for glimmer fur ([#87521](https://github.com/CleverRaven/Cataclysm-DDA/pull/87521))
-* Show required proficiencies in table ([#87522](https://github.com/CleverRaven/Cataclysm-DDA/pull/87522))
-* fixes #87445 ([#87525](https://github.com/CleverRaven/Cataclysm-DDA/pull/87525))
 * [Xedra Evolved] Palettize elemental altars, overwrite them in XedraWood ([#87532](https://github.com/CleverRaven/Cataclysm-DDA/pull/87532))
 * [Innawood] Overwrite trailhead palette to remove modern items ([#87529](https://github.com/CleverRaven/Cataclysm-DDA/pull/87529))
-* [Magiclysm] Fix Aura of Protection proficiency XP ([#87520](https://github.com/CleverRaven/Cataclysm-DDA/pull/87520))
