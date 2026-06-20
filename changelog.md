@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-20-0644 ([94d1e20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-20-0644))
+
+* Revert "fix: Crash in any ImGui window on alt + F4" ([#87720](https://github.com/CleverRaven/Cataclysm-DDA/pull/87720))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-20-0455 ([4e290eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-20-0455))
+
+* fix: Crash in any ImGui window on alt + F4 ([#87717](https://github.com/CleverRaven/Cataclysm-DDA/pull/87717))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-20-0358 ([6513003](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-20-0358))
 
 * AIM hide action menu ([#87713](https://github.com/CleverRaven/Cataclysm-DDA/pull/87713))
@@ -165,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-06-16-0855 ([3c15dc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0855))
 
 * Woodworking axe faults ([#87671](https://github.com/CleverRaven/Cataclysm-DDA/pull/87671))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-16-0534 ([5e4eb23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0534))
-
 * fix feather volume and weight ([#87670](https://github.com/CleverRaven/Cataclysm-DDA/pull/87670))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-16-0344 ([a85cbb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0344))
-
 * [Xedra Evolved] Fix werewolf being able to use mutagen ([#87669](https://github.com/CleverRaven/Cataclysm-DDA/pull/87669))
 * [XedraWood] Add bronze lamellar cuirass ([#87664](https://github.com/CleverRaven/Cataclysm-DDA/pull/87664))
 * Remove shader compilation from VS project because it requires python. ([#87658](https://github.com/CleverRaven/Cataclysm-DDA/pull/87658))
@@ -227,8 +229,5 @@
 * [XedraWood] Remove random fungus ([#87549](https://github.com/CleverRaven/Cataclysm-DDA/pull/87549))
 * [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))
 * Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names ([#87546](https://github.com/CleverRaven/Cataclysm-DDA/pull/87546))
-* Various labyrinth blood-related changes ([#87541](https://github.com/CleverRaven/Cataclysm-DDA/pull/87541))
 * Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions ([#87545](https://github.com/CleverRaven/Cataclysm-DDA/pull/87545))
 * Fix SDL3 tint rows after sprite shader draws ([#87542](https://github.com/CleverRaven/Cataclysm-DDA/pull/87542))
-* Add dylibbundler dep to MacOS docs ([#87538](https://github.com/CleverRaven/Cataclysm-DDA/pull/87538))
-* Refugee Center Teamster be able to self-defend themselves. ([#87537](https://github.com/CleverRaven/Cataclysm-DDA/pull/87537))

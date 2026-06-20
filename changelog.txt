@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-06-20-0644 (94d1e20)
+* Revert "fix: Crash in any ImGui window on alt + F4" (#87720)
+
+Cataclysm-DDA experimental build 2026-06-20-0455 (4e290eb)
+* fix: Crash in any ImGui window on alt + F4 (#87717)
+
 Cataclysm-DDA experimental build 2026-06-20-0358 (6513003)
 * AIM hide action menu (#87713)
 * [Xedra Evolved] Regularize changeling goblin fruit glamours (#87715)
@@ -87,11 +93,7 @@ Cataclysm-DDA experimental build 2026-06-16-0948 (3f657b1)
 
 Cataclysm-DDA experimental build 2026-06-16-0855 (3c15dc9)
 * Woodworking axe faults (#87671)
-
-Cataclysm-DDA experimental build 2026-06-16-0534 (5e4eb23)
 * fix feather volume and weight (#87670)
-
-Cataclysm-DDA experimental build 2026-06-16-0344 (a85cbb8)
 * [Xedra Evolved] Fix werewolf being able to use mutagen (#87669)
 * [XedraWood] Add bronze lamellar cuirass (#87664)
 * Remove shader compilation from VS project because it requires python. (#87658)
@@ -143,8 +145,5 @@ Cataclysm-DDA experimental build 2026-06-16-0344 (a85cbb8)
 * [XedraWood] Remove random fungus (#87549)
 * [XE] add double tap gunmod (#87556)
 * Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names (#87546)
-* Various labyrinth blood-related changes (#87541)
 * Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions (#87545)
 * Fix SDL3 tint rows after sprite shader draws (#87542)
-* Add dylibbundler dep to MacOS docs (#87538)
-* Refugee Center Teamster be able to self-defend themselves. (#87537)
