@@ -1,3 +1,4 @@
+* Add Flathub download link to packaging page (#87667)
 
 Cataclysm-DDA experimental build 2026-06-20-0644 (94d1e20)
 * Revert "fix: Crash in any ImGui window on alt + F4" (#87720)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2026-06-16-0855 (3c15dc9)
 * [XedraWood] Remove random fungus (#87549)
 * [XE] add double tap gunmod (#87556)
 * Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names (#87546)
-* Update chemicals_and_resources.json to have some chemicals more accurately refer to their form, and also clarify some descriptions (#87545)
