@@ -1,3 +1,10 @@
+
+Cataclysm-DDA experimental build 2026-06-21-0506 (f87b7c4)
+* fix(mods/Perk_melee): init perk menu for switched NPC (#87733)
+* Updated ingot recipes with steps and realistic power (#87723)
+
+Cataclysm-DDA experimental build 2026-06-21-0327 (8f5d41a)
+* Remove `NO_RELOAD` off small spool and wire spool (#87727)
 * Update Labeler (CR) (#87721)
 * Add Flathub download link to packaging page (#87667)
 
@@ -89,11 +96,7 @@ Cataclysm-DDA experimental build 2026-06-16-1130 (965b136)
 
 Cataclysm-DDA experimental build 2026-06-16-1033 (3405f75)
 * [XedraWood] Add magical tattoos and a profession that starts with them (#87611)
-
-Cataclysm-DDA experimental build 2026-06-16-0948 (3f657b1)
 * Lose mutation category eoc (#87672)
-
-Cataclysm-DDA experimental build 2026-06-16-0855 (3c15dc9)
 * Woodworking axe faults (#87671)
 * fix feather volume and weight (#87670)
 * [Xedra Evolved] Fix werewolf being able to use mutagen (#87669)
@@ -133,7 +136,6 @@ Cataclysm-DDA experimental build 2026-06-16-0855 (3c15dc9)
 * [Sky Island] Repeated Merchant Stall mission fix  (#87586)
 * [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait (#87587)
 * Fix - nanomaterial canister spawning in microlabs (#87590)
-* npc mission uses enum_to_string (#87552)
 * [Innawood] Ravine edge caves (#87562)
 * Add myself to comment commands for issue confirmation (#87576)
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil (#87579)
@@ -144,5 +146,4 @@ Cataclysm-DDA experimental build 2026-06-16-0855 (3c15dc9)
 * Fix powder/chemical spawns causing multiple containers containing 1 unit (#87554)
 * Updated components quantities for ingot crafting (#87558)
 * fix pumpkin muffin and hazelnut cake density (#87560)
-* [XedraWood] Remove random fungus (#87549)
 * [XE] add double tap gunmod (#87556)

@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-21-0506 ([f87b7c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-21-0506))
+
+* fix(mods/Perk_melee): init perk menu for switched NPC ([#87733](https://github.com/CleverRaven/Cataclysm-DDA/pull/87733))
+* Updated ingot recipes with steps and realistic power ([#87723](https://github.com/CleverRaven/Cataclysm-DDA/pull/87723))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-21-0327 ([8f5d41a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-21-0327))
+
+* Remove `NO_RELOAD` off small spool and wire spool ([#87727](https://github.com/CleverRaven/Cataclysm-DDA/pull/87727))
 * Update Labeler (CR) ([#87721](https://github.com/CleverRaven/Cataclysm-DDA/pull/87721))
 * Add Flathub download link to packaging page ([#87667](https://github.com/CleverRaven/Cataclysm-DDA/pull/87667))
 
@@ -167,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2026-06-16-1033 ([3405f75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-1033))
 
 * [XedraWood] Add magical tattoos and a profession that starts with them ([#87611](https://github.com/CleverRaven/Cataclysm-DDA/pull/87611))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-16-0948 ([3f657b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0948))
-
 * Lose mutation category eoc ([#87672](https://github.com/CleverRaven/Cataclysm-DDA/pull/87672))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-16-0855 ([3c15dc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-0855))
-
 * Woodworking axe faults ([#87671](https://github.com/CleverRaven/Cataclysm-DDA/pull/87671))
 * fix feather volume and weight ([#87670](https://github.com/CleverRaven/Cataclysm-DDA/pull/87670))
 * [Xedra Evolved] Fix werewolf being able to use mutagen ([#87669](https://github.com/CleverRaven/Cataclysm-DDA/pull/87669))
@@ -217,7 +220,6 @@
 * [Sky Island] Repeated Merchant Stall mission fix  ([#87586](https://github.com/CleverRaven/Cataclysm-DDA/pull/87586))
 * [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait ([#87587](https://github.com/CleverRaven/Cataclysm-DDA/pull/87587))
 * Fix - nanomaterial canister spawning in microlabs ([#87590](https://github.com/CleverRaven/Cataclysm-DDA/pull/87590))
-* npc mission uses enum_to_string ([#87552](https://github.com/CleverRaven/Cataclysm-DDA/pull/87552))
 * [Innawood] Ravine edge caves ([#87562](https://github.com/CleverRaven/Cataclysm-DDA/pull/87562))
 * Add myself to comment commands for issue confirmation ([#87576](https://github.com/CleverRaven/Cataclysm-DDA/pull/87576))
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil ([#87579](https://github.com/CleverRaven/Cataclysm-DDA/pull/87579))
@@ -228,5 +230,4 @@
 * Fix powder/chemical spawns causing multiple containers containing 1 unit ([#87554](https://github.com/CleverRaven/Cataclysm-DDA/pull/87554))
 * Updated components quantities for ingot crafting ([#87558](https://github.com/CleverRaven/Cataclysm-DDA/pull/87558))
 * fix pumpkin muffin and hazelnut cake density ([#87560](https://github.com/CleverRaven/Cataclysm-DDA/pull/87560))
-* [XedraWood] Remove random fungus ([#87549](https://github.com/CleverRaven/Cataclysm-DDA/pull/87549))
 * [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))
