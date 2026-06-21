@@ -1,3 +1,4 @@
+* Update Labeler (CR) ([#87721](https://github.com/CleverRaven/Cataclysm-DDA/pull/87721))
 * Add Flathub download link to packaging page ([#87667](https://github.com/CleverRaven/Cataclysm-DDA/pull/87667))
 
 ---
@@ -229,4 +230,3 @@
 * fix pumpkin muffin and hazelnut cake density ([#87560](https://github.com/CleverRaven/Cataclysm-DDA/pull/87560))
 * [XedraWood] Remove random fungus ([#87549](https://github.com/CleverRaven/Cataclysm-DDA/pull/87549))
 * [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))
-* Remove "Sweetened Coffee Milk"'s "Iced Coffee" conditional_names ([#87546](https://github.com/CleverRaven/Cataclysm-DDA/pull/87546))
