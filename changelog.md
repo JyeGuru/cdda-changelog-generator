@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-22-0314 ([7ea4714](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-0314))
+
+* Monster teeth traps now trigger `caltrops` trap function ([#87742](https://github.com/CleverRaven/Cataclysm-DDA/pull/87742))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-22-0229 ([d9595fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-0229))
+
+* [XedraWood] Add lizardfolk monsters ([#87605](https://github.com/CleverRaven/Cataclysm-DDA/pull/87605))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-21-0506 ([f87b7c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-21-0506))
 
 * fix(mods/Perk_melee): init perk menu for switched NPC ([#87733](https://github.com/CleverRaven/Cataclysm-DDA/pull/87733))
@@ -123,17 +135,7 @@
 #### Cataclysm-DDA experimental build 2026-06-17-1609 ([c17675a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1609))
 
 * Labyrinth computers modify furniture `n_` vals before mapgen updates ([#87689](https://github.com/CleverRaven/Cataclysm-DDA/pull/87689))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-06-17-1645 ([79ff352](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-17-1645))
-
 * Backport #82931 to 0.I ([#87690](https://github.com/CleverRaven/Cataclysm-DDA/pull/87690))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-06-17-1601 ([e0467d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-06-17-1601))
-
 * Fix Zone Crashes re #82524 ([#87691](https://github.com/CleverRaven/Cataclysm-DDA/pull/87691))
 
 ---
@@ -168,17 +170,7 @@
 #### Cataclysm-DDA experimental build 2026-06-17-0153 ([a5af12d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-0153))
 
 * Add missing condition to labyrinth safehouse terminal dialogue ([#87683](https://github.com/CleverRaven/Cataclysm-DDA/pull/87683))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-16-1130 ([965b136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-1130))
-
 * Weekly Changelog 2026-06-08 to 2026-06-15 ([#87648](https://github.com/CleverRaven/Cataclysm-DDA/pull/87648))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-16-1033 ([3405f75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-16-1033))
-
 * [XedraWood] Add magical tattoos and a profession that starts with them ([#87611](https://github.com/CleverRaven/Cataclysm-DDA/pull/87611))
 * Lose mutation category eoc ([#87672](https://github.com/CleverRaven/Cataclysm-DDA/pull/87672))
 * Woodworking axe faults ([#87671](https://github.com/CleverRaven/Cataclysm-DDA/pull/87671))
@@ -226,8 +218,6 @@
 * Updated protein and cheese powder recipes with steps and made them more realistic ([#87565](https://github.com/CleverRaven/Cataclysm-DDA/pull/87565))
 * [XedraWood] Overwrite default forest/field/swamp terrain spawn frequency ([#87555](https://github.com/CleverRaven/Cataclysm-DDA/pull/87555))
 * Properly package the evacuation protein bars ([#87572](https://github.com/CleverRaven/Cataclysm-DDA/pull/87572))
-* Add a new toolset for deconstructing wooden structures ([#87553](https://github.com/CleverRaven/Cataclysm-DDA/pull/87553))
-* Fix powder/chemical spawns causing multiple containers containing 1 unit ([#87554](https://github.com/CleverRaven/Cataclysm-DDA/pull/87554))
 * Updated components quantities for ingot crafting ([#87558](https://github.com/CleverRaven/Cataclysm-DDA/pull/87558))
 * fix pumpkin muffin and hazelnut cake density ([#87560](https://github.com/CleverRaven/Cataclysm-DDA/pull/87560))
 * [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))

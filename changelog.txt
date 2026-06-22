@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-06-22-0314 (7ea4714)
+* Monster teeth traps now trigger `caltrops` trap function (#87742)
+
+Cataclysm-DDA experimental build 2026-06-22-0229 (d9595fe)
+* [XedraWood] Add lizardfolk monsters (#87605)
+
 Cataclysm-DDA experimental build 2026-06-21-0506 (f87b7c4)
 * fix(mods/Perk_melee): init perk menu for switched NPC (#87733)
 * Updated ingot recipes with steps and realistic power (#87723)
@@ -66,11 +72,7 @@ Cataclysm-DDA experimental build 2026-06-17-2219 (788be45)
 
 Cataclysm-DDA experimental build 2026-06-17-1609 (c17675a)
 * Labyrinth computers modify furniture `n_` vals before mapgen updates (#87689)
-
-Cataclysm-DDA 0.I release candidate 2026-06-17-1645 (79ff352)
 * Backport #82931 to 0.I (#87690)
-
-Cataclysm-DDA 0.I release candidate 2026-06-17-1601 (e0467d8)
 * Fix Zone Crashes re #82524 (#87691)
 
 Cataclysm-DDA experimental build 2026-06-17-1213 (c097e76)
@@ -90,11 +92,7 @@ Cataclysm-DDA experimental build 2026-06-17-0232 (d8e180b)
 
 Cataclysm-DDA experimental build 2026-06-17-0153 (a5af12d)
 * Add missing condition to labyrinth safehouse terminal dialogue (#87683)
-
-Cataclysm-DDA experimental build 2026-06-16-1130 (965b136)
 * Weekly Changelog 2026-06-08 to 2026-06-15 (#87648)
-
-Cataclysm-DDA experimental build 2026-06-16-1033 (3405f75)
 * [XedraWood] Add magical tattoos and a profession that starts with them (#87611)
 * Lose mutation category eoc (#87672)
 * Woodworking axe faults (#87671)
@@ -142,8 +140,6 @@ Cataclysm-DDA experimental build 2026-06-16-1033 (3405f75)
 * Updated protein and cheese powder recipes with steps and made them more realistic (#87565)
 * [XedraWood] Overwrite default forest/field/swamp terrain spawn frequency (#87555)
 * Properly package the evacuation protein bars (#87572)
-* Add a new toolset for deconstructing wooden structures (#87553)
-* Fix powder/chemical spawns causing multiple containers containing 1 unit (#87554)
 * Updated components quantities for ingot crafting (#87558)
 * fix pumpkin muffin and hazelnut cake density (#87560)
 * [XE] add double tap gunmod (#87556)
