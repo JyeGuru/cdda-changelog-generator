@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-22-1538 ([dec924c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-1538))
+
+* Some More Loading Screen Tips ([#87711](https://github.com/CleverRaven/Cataclysm-DDA/pull/87711))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-22-0314 ([7ea4714](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-0314))
 
 * Monster teeth traps now trigger `caltrops` trap function ([#87742](https://github.com/CleverRaven/Cataclysm-DDA/pull/87742))
@@ -164,11 +170,6 @@
 * Remove the x86 only compiler flag for aarch64 ([#87639](https://github.com/CleverRaven/Cataclysm-DDA/pull/87639))
 * document that only liquid comestibles are counted by charges ([#87666](https://github.com/CleverRaven/Cataclysm-DDA/pull/87666))
 * fix estimated time to arrival format ([#87674](https://github.com/CleverRaven/Cataclysm-DDA/pull/87674))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-17-0153 ([a5af12d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-0153))
-
 * Add missing condition to labyrinth safehouse terminal dialogue ([#87683](https://github.com/CleverRaven/Cataclysm-DDA/pull/87683))
 * Weekly Changelog 2026-06-08 to 2026-06-15 ([#87648](https://github.com/CleverRaven/Cataclysm-DDA/pull/87648))
 * [XedraWood] Add magical tattoos and a profession that starts with them ([#87611](https://github.com/CleverRaven/Cataclysm-DDA/pull/87611))
@@ -216,7 +217,6 @@
 * Add myself to comment commands for issue confirmation ([#87576](https://github.com/CleverRaven/Cataclysm-DDA/pull/87576))
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil ([#87579](https://github.com/CleverRaven/Cataclysm-DDA/pull/87579))
 * Updated protein and cheese powder recipes with steps and made them more realistic ([#87565](https://github.com/CleverRaven/Cataclysm-DDA/pull/87565))
-* [XedraWood] Overwrite default forest/field/swamp terrain spawn frequency ([#87555](https://github.com/CleverRaven/Cataclysm-DDA/pull/87555))
 * Properly package the evacuation protein bars ([#87572](https://github.com/CleverRaven/Cataclysm-DDA/pull/87572))
 * Updated components quantities for ingot crafting ([#87558](https://github.com/CleverRaven/Cataclysm-DDA/pull/87558))
 * fix pumpkin muffin and hazelnut cake density ([#87560](https://github.com/CleverRaven/Cataclysm-DDA/pull/87560))
