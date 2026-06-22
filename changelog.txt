@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-22-1604 (c5b6144)
+* Worn flotation vest won't let you drown anymore (#87747)
+
 Cataclysm-DDA experimental build 2026-06-22-1538 (dec924c)
 * Some More Loading Screen Tips (#87711)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-06-17-1130 (7b55514)
 
 Cataclysm-DDA experimental build 2026-06-17-0921 (0611453)
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each (#87686)
-
-Cataclysm-DDA experimental build 2026-06-17-0232 (d8e180b)
 * Remove the x86 only compiler flag for aarch64 (#87639)
 * document that only liquid comestibles are counted by charges (#87666)
 * fix estimated time to arrival format (#87674)
@@ -140,6 +141,4 @@ Cataclysm-DDA experimental build 2026-06-17-0232 (d8e180b)
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil (#87579)
 * Updated protein and cheese powder recipes with steps and made them more realistic (#87565)
 * Properly package the evacuation protein bars (#87572)
-* Updated components quantities for ingot crafting (#87558)
 * fix pumpkin muffin and hazelnut cake density (#87560)
-* [XE] add double tap gunmod (#87556)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-22-1604 ([c5b6144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-1604))
+
+* Worn flotation vest won't let you drown anymore ([#87747](https://github.com/CleverRaven/Cataclysm-DDA/pull/87747))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-22-1538 ([dec924c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-1538))
 
 * Some More Loading Screen Tips ([#87711](https://github.com/CleverRaven/Cataclysm-DDA/pull/87711))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-06-17-0921 ([0611453](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-0921))
 
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-17-0232 ([d8e180b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-0232))
-
 * Remove the x86 only compiler flag for aarch64 ([#87639](https://github.com/CleverRaven/Cataclysm-DDA/pull/87639))
 * document that only liquid comestibles are counted by charges ([#87666](https://github.com/CleverRaven/Cataclysm-DDA/pull/87666))
 * fix estimated time to arrival format ([#87674](https://github.com/CleverRaven/Cataclysm-DDA/pull/87674))
@@ -218,6 +219,4 @@
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil ([#87579](https://github.com/CleverRaven/Cataclysm-DDA/pull/87579))
 * Updated protein and cheese powder recipes with steps and made them more realistic ([#87565](https://github.com/CleverRaven/Cataclysm-DDA/pull/87565))
 * Properly package the evacuation protein bars ([#87572](https://github.com/CleverRaven/Cataclysm-DDA/pull/87572))
-* Updated components quantities for ingot crafting ([#87558](https://github.com/CleverRaven/Cataclysm-DDA/pull/87558))
 * fix pumpkin muffin and hazelnut cake density ([#87560](https://github.com/CleverRaven/Cataclysm-DDA/pull/87560))
-* [XE] add double tap gunmod ([#87556](https://github.com/CleverRaven/Cataclysm-DDA/pull/87556))
