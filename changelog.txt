@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-06-23-1817 (304e856)
 * [Xedra Evolved] Fix two March Lord bugs (#87764)
 
 Cataclysm-DDA experimental build 2026-06-23-1727 (3776212)
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2026-06-18-1358 (b4d29ef)
 * [XE] Fix the fruit's music lasting forever. (#87699)
 * Check for conflicting plural forms of strings (#87702)
 * Spore dust warning (#87703)
-
-Cataclysm-DDA experimental build 2026-06-18-1310 (baf2b21)
 * Fix pixel minimap grid lines and GCC9 build (#87701)
 * refactor death message, corpse spawn and death drops suppresion vars (#87680)
 * String dimension connect group (#87692)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-23-1817 ([304e856](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-1817))
+
 * [Xedra Evolved] Fix two March Lord bugs ([#87764](https://github.com/CleverRaven/Cataclysm-DDA/pull/87764))
 
 ---
@@ -172,11 +177,6 @@
 * [XE] Fix the fruit's music lasting forever. ([#87699](https://github.com/CleverRaven/Cataclysm-DDA/pull/87699))
 * Check for conflicting plural forms of strings ([#87702](https://github.com/CleverRaven/Cataclysm-DDA/pull/87702))
 * Spore dust warning ([#87703](https://github.com/CleverRaven/Cataclysm-DDA/pull/87703))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-18-1310 ([baf2b21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-1310))
-
 * Fix pixel minimap grid lines and GCC9 build ([#87701](https://github.com/CleverRaven/Cataclysm-DDA/pull/87701))
 * refactor death message, corpse spawn and death drops suppresion vars ([#87680](https://github.com/CleverRaven/Cataclysm-DDA/pull/87680))
 * String dimension connect group ([#87692](https://github.com/CleverRaven/Cataclysm-DDA/pull/87692))
