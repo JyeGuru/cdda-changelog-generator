@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-23-0742 ([1aa4d99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0742))
+
+* Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
+* Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-23-0701 ([984ca43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0701))
+
+* Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-23-0337 ([3f9f975](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0337))
 
 * Fix some typos ([#87722](https://github.com/CleverRaven/Cataclysm-DDA/pull/87722))
@@ -160,17 +173,7 @@
 * Fix pixel minimap grid lines and GCC9 build ([#87701](https://github.com/CleverRaven/Cataclysm-DDA/pull/87701))
 * refactor death message, corpse spawn and death drops suppresion vars ([#87680](https://github.com/CleverRaven/Cataclysm-DDA/pull/87680))
 * String dimension connect group ([#87692](https://github.com/CleverRaven/Cataclysm-DDA/pull/87692))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-18-0238 ([0dc2c1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-0238))
-
 * [Magiclysm] Fix last mage on earth shelter not spawning the entrance chunk ([#87698](https://github.com/CleverRaven/Cataclysm-DDA/pull/87698))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-17-2219 ([788be45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-2219))
-
 * Android: virtual keyboard ownership and character creator shortcut bar ([#87687](https://github.com/CleverRaven/Cataclysm-DDA/pull/87687))
 * Labyrinth computers modify furniture `n_` vals before mapgen updates ([#87689](https://github.com/CleverRaven/Cataclysm-DDA/pull/87689))
 * Backport #82931 to 0.I ([#87690](https://github.com/CleverRaven/Cataclysm-DDA/pull/87690))
@@ -196,7 +199,6 @@
 * Stop batch crafts vanishing on long unattended steps ([#87653](https://github.com/CleverRaven/Cataclysm-DDA/pull/87653))
 * Refactor pixel minimap drawing and guard null render targets ([#87652](https://github.com/CleverRaven/Cataclysm-DDA/pull/87652))
 * Multimag gun and tool mod support ([#87637](https://github.com/CleverRaven/Cataclysm-DDA/pull/87637))
-* Craftable Luties ([#87581](https://github.com/CleverRaven/Cataclysm-DDA/pull/87581))
 * Streamline water purification application ([#87631](https://github.com/CleverRaven/Cataclysm-DDA/pull/87631))
 * Move vanity traits to cosmetic category ([#87634](https://github.com/CleverRaven/Cataclysm-DDA/pull/87634))
 * [XedraWood] Giant bugs aren't mutants ([#87642](https://github.com/CleverRaven/Cataclysm-DDA/pull/87642))
@@ -216,7 +218,6 @@
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
 * remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
-* [XedraWood] Characters are illiterate ([#87580](https://github.com/CleverRaven/Cataclysm-DDA/pull/87580))
 * Only attempt to restack charges if the inserted item uses charges ([#87582](https://github.com/CleverRaven/Cataclysm-DDA/pull/87582))
 * [XedraWood] Add seperate GROUP_FOREST_THICK mongroup, tie it to thick forests ([#87583](https://github.com/CleverRaven/Cataclysm-DDA/pull/87583))
 * [Xedra Evolved/Innawood] Separate IDs for moroi/wights Innawood for sprite reasons ([#87584](https://github.com/CleverRaven/Cataclysm-DDA/pull/87584))
@@ -224,4 +225,3 @@
 * [Sky Island] Repeated Merchant Stall mission fix  ([#87586](https://github.com/CleverRaven/Cataclysm-DDA/pull/87586))
 * [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait ([#87587](https://github.com/CleverRaven/Cataclysm-DDA/pull/87587))
 * Fix - nanomaterial canister spawning in microlabs ([#87590](https://github.com/CleverRaven/Cataclysm-DDA/pull/87590))
-* Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil ([#87579](https://github.com/CleverRaven/Cataclysm-DDA/pull/87579))
