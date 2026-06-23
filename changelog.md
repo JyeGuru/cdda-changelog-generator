@@ -1,3 +1,10 @@
+* [Xedra Evolved] Fix two March Lord bugs ([#87764](https://github.com/CleverRaven/Cataclysm-DDA/pull/87764))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-23-1727 ([3776212](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-1727))
+
+* Add quick setup option to clear map ([#87632](https://github.com/CleverRaven/Cataclysm-DDA/pull/87632))
 
 ---
 
@@ -218,9 +225,6 @@
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
 * remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
-* [XedraWood] Add seperate GROUP_FOREST_THICK mongroup, tie it to thick forests ([#87583](https://github.com/CleverRaven/Cataclysm-DDA/pull/87583))
-* [Xedra Evolved/Innawood] Separate IDs for moroi/wights Innawood for sprite reasons ([#87584](https://github.com/CleverRaven/Cataclysm-DDA/pull/87584))
-* [MoM] Premonition warns you about the Quiet Farmhouse ([#87585](https://github.com/CleverRaven/Cataclysm-DDA/pull/87585))
 * [Sky Island] Repeated Merchant Stall mission fix  ([#87586](https://github.com/CleverRaven/Cataclysm-DDA/pull/87586))
 * [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait ([#87587](https://github.com/CleverRaven/Cataclysm-DDA/pull/87587))
 * Fix - nanomaterial canister spawning in microlabs ([#87590](https://github.com/CleverRaven/Cataclysm-DDA/pull/87590))
