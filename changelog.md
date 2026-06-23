@@ -1,6 +1,31 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-23-0337 ([3f9f975](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0337))
+
+* Fix some typos ([#87722](https://github.com/CleverRaven/Cataclysm-DDA/pull/87722))
+* fix missing break ([#87756](https://github.com/CleverRaven/Cataclysm-DDA/pull/87756))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-23-0252 ([dbd4967](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0252))
+
+* Car/motorbike batteries are no longer an obstacle ([#87738](https://github.com/CleverRaven/Cataclysm-DDA/pull/87738))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-23-0208 ([8831646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0208))
+
+* Renamed `gas mask cartridge` to `CBRN filter canister` in flag name ([#87741](https://github.com/CleverRaven/Cataclysm-DDA/pull/87741))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-23-0116 ([050f354](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0116))
+
+* [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-22-2102 ([9b7f63f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-2102))
 
 * [Xedra Evolved] Update March Lords ([#87744](https://github.com/CleverRaven/Cataclysm-DDA/pull/87744))
@@ -133,12 +158,6 @@
 #### Cataclysm-DDA experimental build 2026-06-18-1310 ([baf2b21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-1310))
 
 * Fix pixel minimap grid lines and GCC9 build ([#87701](https://github.com/CleverRaven/Cataclysm-DDA/pull/87701))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-18-0431 ([06c9ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-0431))
-
-* Add recipe for 'counterweight_pouch' ([#87566](https://github.com/CleverRaven/Cataclysm-DDA/pull/87566))
 * refactor death message, corpse spawn and death drops suppresion vars ([#87680](https://github.com/CleverRaven/Cataclysm-DDA/pull/87680))
 * String dimension connect group ([#87692](https://github.com/CleverRaven/Cataclysm-DDA/pull/87692))
 
@@ -153,25 +172,10 @@
 #### Cataclysm-DDA experimental build 2026-06-17-2219 ([788be45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-2219))
 
 * Android: virtual keyboard ownership and character creator shortcut bar ([#87687](https://github.com/CleverRaven/Cataclysm-DDA/pull/87687))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-17-1609 ([c17675a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1609))
-
 * Labyrinth computers modify furniture `n_` vals before mapgen updates ([#87689](https://github.com/CleverRaven/Cataclysm-DDA/pull/87689))
 * Backport #82931 to 0.I ([#87690](https://github.com/CleverRaven/Cataclysm-DDA/pull/87690))
 * Fix Zone Crashes re #82524 ([#87691](https://github.com/CleverRaven/Cataclysm-DDA/pull/87691))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-17-1213 ([c097e76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1213))
-
 * Added "taming" food information in monster extended description ([#87681](https://github.com/CleverRaven/Cataclysm-DDA/pull/87681))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-17-1130 ([7b55514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-17-1130))
-
 * yeet go bags ([#87656](https://github.com/CleverRaven/Cataclysm-DDA/pull/87656))
 * Add Vehicle Shape Variants to Food Truck Freezer and Fridge ([#87675](https://github.com/CleverRaven/Cataclysm-DDA/pull/87675))
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
@@ -212,7 +216,6 @@
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
 * remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
-* [XedraWood] Tanglevine patch map extra ([#87578](https://github.com/CleverRaven/Cataclysm-DDA/pull/87578))
 * [XedraWood] Characters are illiterate ([#87580](https://github.com/CleverRaven/Cataclysm-DDA/pull/87580))
 * Only attempt to restack charges if the inserted item uses charges ([#87582](https://github.com/CleverRaven/Cataclysm-DDA/pull/87582))
 * [XedraWood] Add seperate GROUP_FOREST_THICK mongroup, tie it to thick forests ([#87583](https://github.com/CleverRaven/Cataclysm-DDA/pull/87583))
@@ -221,6 +224,4 @@
 * [Sky Island] Repeated Merchant Stall mission fix  ([#87586](https://github.com/CleverRaven/Cataclysm-DDA/pull/87586))
 * [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait ([#87587](https://github.com/CleverRaven/Cataclysm-DDA/pull/87587))
 * Fix - nanomaterial canister spawning in microlabs ([#87590](https://github.com/CleverRaven/Cataclysm-DDA/pull/87590))
-* Add myself to comment commands for issue confirmation ([#87576](https://github.com/CleverRaven/Cataclysm-DDA/pull/87576))
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil ([#87579](https://github.com/CleverRaven/Cataclysm-DDA/pull/87579))
-* Properly package the evacuation protein bars ([#87572](https://github.com/CleverRaven/Cataclysm-DDA/pull/87572))

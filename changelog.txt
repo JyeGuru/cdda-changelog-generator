@@ -1,4 +1,17 @@
 
+Cataclysm-DDA experimental build 2026-06-23-0337 (3f9f975)
+* Fix some typos (#87722)
+* fix missing break (#87756)
+
+Cataclysm-DDA experimental build 2026-06-23-0252 (dbd4967)
+* Car/motorbike batteries are no longer an obstacle (#87738)
+
+Cataclysm-DDA experimental build 2026-06-23-0208 (8831646)
+* Renamed `gas mask cartridge` to `CBRN filter canister` in flag name (#87741)
+
+Cataclysm-DDA experimental build 2026-06-23-0116 (050f354)
+* [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter (#87759)
+
 Cataclysm-DDA experimental build 2026-06-22-2102 (9b7f63f)
 * [Xedra Evolved] Update March Lords (#87744)
 
@@ -70,9 +83,6 @@ Cataclysm-DDA experimental build 2026-06-18-1358 (b4d29ef)
 
 Cataclysm-DDA experimental build 2026-06-18-1310 (baf2b21)
 * Fix pixel minimap grid lines and GCC9 build (#87701)
-
-Cataclysm-DDA experimental build 2026-06-18-0431 (06c9ffd)
-* Add recipe for 'counterweight_pouch' (#87566)
 * refactor death message, corpse spawn and death drops suppresion vars (#87680)
 * String dimension connect group (#87692)
 
@@ -81,16 +91,10 @@ Cataclysm-DDA experimental build 2026-06-18-0238 (0dc2c1a)
 
 Cataclysm-DDA experimental build 2026-06-17-2219 (788be45)
 * Android: virtual keyboard ownership and character creator shortcut bar (#87687)
-
-Cataclysm-DDA experimental build 2026-06-17-1609 (c17675a)
 * Labyrinth computers modify furniture `n_` vals before mapgen updates (#87689)
 * Backport #82931 to 0.I (#87690)
 * Fix Zone Crashes re #82524 (#87691)
-
-Cataclysm-DDA experimental build 2026-06-17-1213 (c097e76)
 * Added "taming" food information in monster extended description (#87681)
-
-Cataclysm-DDA experimental build 2026-06-17-1130 (7b55514)
 * yeet go bags (#87656)
 * Add Vehicle Shape Variants to Food Truck Freezer and Fridge (#87675)
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each (#87686)
@@ -131,7 +135,6 @@ Cataclysm-DDA experimental build 2026-06-17-1130 (7b55514)
 * Drinking water from the Scarlet Sea is not nice (#87610)
 * [XedraWood] Innawood recipe blacklisting (#87594)
 * remove apparently broken stalebot clauses (#87599)
-* [XedraWood] Tanglevine patch map extra (#87578)
 * [XedraWood] Characters are illiterate (#87580)
 * Only attempt to restack charges if the inserted item uses charges (#87582)
 * [XedraWood] Add seperate GROUP_FOREST_THICK mongroup, tie it to thick forests (#87583)
@@ -140,6 +143,4 @@ Cataclysm-DDA experimental build 2026-06-17-1130 (7b55514)
 * [Sky Island] Repeated Merchant Stall mission fix  (#87586)
 * [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait (#87587)
 * Fix - nanomaterial canister spawning in microlabs (#87590)
-* Add myself to comment commands for issue confirmation (#87576)
 * Fix farming supply store sand&soil bags spawning multiple containers, containing 1 unit of sand/soil (#87579)
-* Properly package the evacuation protein bars (#87572)
