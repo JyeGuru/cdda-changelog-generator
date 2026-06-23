@@ -218,7 +218,6 @@
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
 * remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
-* Only attempt to restack charges if the inserted item uses charges ([#87582](https://github.com/CleverRaven/Cataclysm-DDA/pull/87582))
 * [XedraWood] Add seperate GROUP_FOREST_THICK mongroup, tie it to thick forests ([#87583](https://github.com/CleverRaven/Cataclysm-DDA/pull/87583))
 * [Xedra Evolved/Innawood] Separate IDs for moroi/wights Innawood for sprite reasons ([#87584](https://github.com/CleverRaven/Cataclysm-DDA/pull/87584))
 * [MoM] Premonition warns you about the Quiet Farmhouse ([#87585](https://github.com/CleverRaven/Cataclysm-DDA/pull/87585))
