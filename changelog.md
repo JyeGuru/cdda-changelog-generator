@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-24-0412 ([655ab16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0412))
+
+* [Xedra Evolved] Fix tender animal feet ([#87777](https://github.com/CleverRaven/Cataclysm-DDA/pull/87777))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-24-0323 ([fe41c88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0323))
+
+* [XedraWood] Refactor random encounter EoCs to make it XedraWood unique ([#87758](https://github.com/CleverRaven/Cataclysm-DDA/pull/87758))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-24-0238 ([462d998](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0238))
+
+* rm dead code ([#87753](https://github.com/CleverRaven/Cataclysm-DDA/pull/87753))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-23-1817 ([304e856](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-1817))
 
 * [Xedra Evolved] Fix two March Lord bugs ([#87764](https://github.com/CleverRaven/Cataclysm-DDA/pull/87764))
@@ -157,23 +175,8 @@
 #### Cataclysm-DDA experimental build 2026-06-19-0214 ([a861cf3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0214))
 
 * Allow 1L Copper Ingots to be made with Copper ([#87697](https://github.com/CleverRaven/Cataclysm-DDA/pull/87697))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-19-0041 ([84aa651](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0041))
-
 * Zero cost spells remain zero cost even if encumbered ([#87705](https://github.com/CleverRaven/Cataclysm-DDA/pull/87705))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-18-2300 ([3b8a268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-2300))
-
 * [Magiclysm] No ferals in the Last Mage on Earth shelter ([#87704](https://github.com/CleverRaven/Cataclysm-DDA/pull/87704))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-18-1358 ([b4d29ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-18-1358))
-
 * [XE] Fix the fruit's music lasting forever. ([#87699](https://github.com/CleverRaven/Cataclysm-DDA/pull/87699))
 * Check for conflicting plural forms of strings ([#87702](https://github.com/CleverRaven/Cataclysm-DDA/pull/87702))
 * Spore dust warning ([#87703](https://github.com/CleverRaven/Cataclysm-DDA/pull/87703))
@@ -225,6 +228,3 @@
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
 * remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
-* [Sky Island] Repeated Merchant Stall mission fix  ([#87586](https://github.com/CleverRaven/Cataclysm-DDA/pull/87586))
-* [Sky Island/Magiclysm] Fix Triffid merchant receiving `Human` trait ([#87587](https://github.com/CleverRaven/Cataclysm-DDA/pull/87587))
-* Fix - nanomaterial canister spawning in microlabs ([#87590](https://github.com/CleverRaven/Cataclysm-DDA/pull/87590))
