@@ -223,7 +223,6 @@
 * fix garbage bag spawn ([#87615](https://github.com/CleverRaven/Cataclysm-DDA/pull/87615))
 * Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
 * Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
-* [XE] Apply the supernatural exclusivity principle. ([#87591](https://github.com/CleverRaven/Cataclysm-DDA/pull/87591))
 * [XedraWood] Add more hobbies ([#87609](https://github.com/CleverRaven/Cataclysm-DDA/pull/87609))
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
 * [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
