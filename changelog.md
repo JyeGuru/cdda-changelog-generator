@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-25-1628 ([15dde53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-25-1628))
+
+* [MoM] Monster psions can use Physical Enhancement ([#87790](https://github.com/CleverRaven/Cataclysm-DDA/pull/87790))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-25-0418 ([375be9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-25-0418))
 
 * instead of adding a switch in distraction manager excluded all summoning spells from checking the damage on self ([#87757](https://github.com/CleverRaven/Cataclysm-DDA/pull/87757))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-06-19-0516 ([e44e0aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0516))
 
 * Two new aftershock achievements ([#87628](https://github.com/CleverRaven/Cataclysm-DDA/pull/87628))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-19-0421 ([57164f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0421))
-
 * remove mention of bugged npc teleport from DIMENSIONS.md ([#87657](https://github.com/CleverRaven/Cataclysm-DDA/pull/87657))
 * fix detergent use in washing ([#87668](https://github.com/CleverRaven/Cataclysm-DDA/pull/87668))
 * [Xedra Evolved] Make gaining dhampir powers less deterministic ([#87684](https://github.com/CleverRaven/Cataclysm-DDA/pull/87684))
@@ -226,4 +227,3 @@
 * Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
 * [XedraWood] Add more hobbies ([#87609](https://github.com/CleverRaven/Cataclysm-DDA/pull/87609))
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
-* remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
