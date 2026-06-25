@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-25-0050 ([2f1c2dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-25-0050))
+
+* [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift ([#87773](https://github.com/CleverRaven/Cataclysm-DDA/pull/87773))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-24-0412 ([655ab16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0412))
 
 * [Xedra Evolved] Fix tender animal feet ([#87777](https://github.com/CleverRaven/Cataclysm-DDA/pull/87777))
@@ -169,11 +175,6 @@
 * [Xedra Evolved] Make gaining dhampir powers less deterministic ([#87684](https://github.com/CleverRaven/Cataclysm-DDA/pull/87684))
 * [MoM: Psychic Scream] Disable recurring power learning/awakening EoCs ([#87694](https://github.com/CleverRaven/Cataclysm-DDA/pull/87694))
 * [XedraWood] The Wise are literate, start with hedge magic recipes ([#87696](https://github.com/CleverRaven/Cataclysm-DDA/pull/87696))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-19-0214 ([a861cf3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0214))
-
 * Allow 1L Copper Ingots to be made with Copper ([#87697](https://github.com/CleverRaven/Cataclysm-DDA/pull/87697))
 * Zero cost spells remain zero cost even if encumbered ([#87705](https://github.com/CleverRaven/Cataclysm-DDA/pull/87705))
 * [Magiclysm] No ferals in the Last Mage on Earth shelter ([#87704](https://github.com/CleverRaven/Cataclysm-DDA/pull/87704))
@@ -225,5 +226,4 @@
 * Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
 * [XedraWood] Add more hobbies ([#87609](https://github.com/CleverRaven/Cataclysm-DDA/pull/87609))
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
-* [XedraWood] Innawood recipe blacklisting ([#87594](https://github.com/CleverRaven/Cataclysm-DDA/pull/87594))
 * remove apparently broken stalebot clauses ([#87599](https://github.com/CleverRaven/Cataclysm-DDA/pull/87599))
