@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-25-0418 (375be9d)
+* instead of adding a switch in distraction manager excluded all summoning spells from checking the damage on self (#87757)
+
 Cataclysm-DDA experimental build 2026-06-25-0050 (2f1c2dd)
 * [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift (#87773)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-06-19-0516 (e44e0aa)
 
 Cataclysm-DDA experimental build 2026-06-19-0421 (57164f1)
 * remove mention of bugged npc teleport from DIMENSIONS.md (#87657)
-
-Cataclysm-DDA experimental build 2026-06-19-0301 (4feb7f0)
 * fix detergent use in washing (#87668)
 * [Xedra Evolved] Make gaining dhampir powers less deterministic (#87684)
 * [MoM: Psychic Scream] Disable recurring power learning/awakening EoCs (#87694)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2026-06-19-0301 (4feb7f0)
 * Remove hardcoded water boiling (#87620)
 * feat(ui): maintain highlight position after inventory item use (#87601)
 * Yeet the heavy/power lathe pseudo tool (#87621)
-* add `set_trap`, `set_terrain`, `set_furniture` dialogie effects, update _set_field (#87598)
 * [XedraWood] Increase river flood plain area (#87607)
 * fix garbage bag spawn (#87615)
 * Remove SDL2 support from the Windows Visual Studio build (#87608)
