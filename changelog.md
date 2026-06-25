@@ -166,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2026-06-19-1941 ([8ad0d2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-1941))
 
 * [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-19-0516 ([e44e0aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-19-0516))
-
 * Two new aftershock achievements ([#87628](https://github.com/CleverRaven/Cataclysm-DDA/pull/87628))
 * remove mention of bugged npc teleport from DIMENSIONS.md ([#87657](https://github.com/CleverRaven/Cataclysm-DDA/pull/87657))
 * fix detergent use in washing ([#87668](https://github.com/CleverRaven/Cataclysm-DDA/pull/87668))
