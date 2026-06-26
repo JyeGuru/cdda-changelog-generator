@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-26-1452 ([881cafc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-1452))
+
+* The spell "Lucid Dreams" in Xedra Evolved has unexpected effects on weariness ([#87761](https://github.com/CleverRaven/Cataclysm-DDA/pull/87761))
 * Add TM 31-210 Improvised Munitions Handbook ([#87796](https://github.com/CleverRaven/Cataclysm-DDA/pull/87796))
 * [MoM] Turn telekinetic matrix crystals into artifacts ([#87799](https://github.com/CleverRaven/Cataclysm-DDA/pull/87799))
 
@@ -156,11 +162,6 @@
 
 * AIM hide action menu ([#87713](https://github.com/CleverRaven/Cataclysm-DDA/pull/87713))
 * [Xedra Evolved] Regularize changeling goblin fruit glamours ([#87715](https://github.com/CleverRaven/Cataclysm-DDA/pull/87715))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-20-0316 ([46f15d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-20-0316))
-
 * [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
 * [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
 * Two new aftershock achievements ([#87628](https://github.com/CleverRaven/Cataclysm-DDA/pull/87628))
@@ -212,7 +213,6 @@
 * Fix potassium chloride powder spawning multiple containers ([#87635](https://github.com/CleverRaven/Cataclysm-DDA/pull/87635))
 * Remove hardcoded water boiling ([#87620](https://github.com/CleverRaven/Cataclysm-DDA/pull/87620))
 * Yeet the heavy/power lathe pseudo tool ([#87621](https://github.com/CleverRaven/Cataclysm-DDA/pull/87621))
-* [XedraWood] Increase river flood plain area ([#87607](https://github.com/CleverRaven/Cataclysm-DDA/pull/87607))
 * fix garbage bag spawn ([#87615](https://github.com/CleverRaven/Cataclysm-DDA/pull/87615))
 * Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
 * Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
