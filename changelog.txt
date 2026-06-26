@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-06-26-2129 (f9b8baa)
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced (#87806)
 
 Cataclysm-DDA experimental build 2026-06-26-2035 (cd6a11f)
@@ -81,8 +83,6 @@ Cataclysm-DDA experimental build 2026-06-21-0327 (8f5d41a)
 
 Cataclysm-DDA experimental build 2026-06-20-0644 (94d1e20)
 * Revert "fix: Crash in any ImGui window on alt + F4" (#87720)
-
-Cataclysm-DDA experimental build 2026-06-20-0455 (4e290eb)
 * fix: Crash in any ImGui window on alt + F4 (#87717)
 * AIM hide action menu (#87713)
 * [Xedra Evolved] Regularize changeling goblin fruit glamours (#87715)
