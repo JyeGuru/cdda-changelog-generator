@@ -1,3 +1,10 @@
+* [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-26-2035 ([cd6a11f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-2035))
+
+* [Xedra Evolved] Add more changeling glamours ([#87735](https://github.com/CleverRaven/Cataclysm-DDA/pull/87735))
 
 ---
 
@@ -155,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-06-20-0455 ([4e290eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-20-0455))
 
 * fix: Crash in any ImGui window on alt + F4 ([#87717](https://github.com/CleverRaven/Cataclysm-DDA/pull/87717))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-20-0358 ([6513003](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-20-0358))
-
 * AIM hide action menu ([#87713](https://github.com/CleverRaven/Cataclysm-DDA/pull/87713))
 * [Xedra Evolved] Regularize changeling goblin fruit glamours ([#87715](https://github.com/CleverRaven/Cataclysm-DDA/pull/87715))
 * [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
@@ -214,7 +216,5 @@
 * Remove hardcoded water boiling ([#87620](https://github.com/CleverRaven/Cataclysm-DDA/pull/87620))
 * Yeet the heavy/power lathe pseudo tool ([#87621](https://github.com/CleverRaven/Cataclysm-DDA/pull/87621))
 * fix garbage bag spawn ([#87615](https://github.com/CleverRaven/Cataclysm-DDA/pull/87615))
-* Remove SDL2 support from the Windows Visual Studio build ([#87608](https://github.com/CleverRaven/Cataclysm-DDA/pull/87608))
 * Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
-* [XedraWood] Add more hobbies ([#87609](https://github.com/CleverRaven/Cataclysm-DDA/pull/87609))
 * Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))

@@ -1,3 +1,7 @@
+* [MoM] TELEPORT_IMMUNE monsters can't be displaced (#87806)
+
+Cataclysm-DDA experimental build 2026-06-26-2035 (cd6a11f)
+* [Xedra Evolved] Add more changeling glamours (#87735)
 
 Cataclysm-DDA experimental build 2026-06-26-1452 (881cafc)
 * The spell "Lucid Dreams" in Xedra Evolved has unexpected effects on weariness (#87761)
@@ -80,8 +84,6 @@ Cataclysm-DDA experimental build 2026-06-20-0644 (94d1e20)
 
 Cataclysm-DDA experimental build 2026-06-20-0455 (4e290eb)
 * fix: Crash in any ImGui window on alt + F4 (#87717)
-
-Cataclysm-DDA experimental build 2026-06-20-0358 (6513003)
 * AIM hide action menu (#87713)
 * [Xedra Evolved] Regularize changeling goblin fruit glamours (#87715)
 * [Xedra Evolved] Rework changeling advancement (#87710)
@@ -136,7 +138,5 @@ Cataclysm-DDA experimental build 2026-06-20-0358 (6513003)
 * Remove hardcoded water boiling (#87620)
 * Yeet the heavy/power lathe pseudo tool (#87621)
 * fix garbage bag spawn (#87615)
-* Remove SDL2 support from the Windows Visual Studio build (#87608)
 * Update Jenny's Quest information to clarify what she wants (#87613)
-* [XedraWood] Add more hobbies (#87609)
 * Drinking water from the Scarlet Sea is not nice (#87610)
