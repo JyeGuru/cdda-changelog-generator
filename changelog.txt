@@ -1,3 +1,8 @@
+* Add TM 31-210 Improvised Munitions Handbook (#87796)
+* [MoM] Turn telekinetic matrix crystals into artifacts (#87799)
+
+Cataclysm-DDA experimental build 2026-06-26-1304 (93898c6)
+* [Xedra Evolved] Some random encounter tweaking (#87800)
 
 Cataclysm-DDA experimental build 2026-06-25-1628 (15dde53)
 * [MoM] Monster psions can use Physical Enhancement (#87790)
@@ -58,9 +63,6 @@ Cataclysm-DDA experimental build 2026-06-22-1538 (dec924c)
 Cataclysm-DDA experimental build 2026-06-22-0314 (7ea4714)
 * Monster teeth traps now trigger `caltrops` trap function (#87742)
 
-Cataclysm-DDA experimental build 2026-06-22-0229 (d9595fe)
-* [XedraWood] Add lizardfolk monsters (#87605)
-
 Cataclysm-DDA experimental build 2026-06-21-0506 (f87b7c4)
 * fix(mods/Perk_melee): init perk menu for switched NPC (#87733)
 * Updated ingot recipes with steps and realistic power (#87723)
@@ -82,8 +84,6 @@ Cataclysm-DDA experimental build 2026-06-20-0358 (6513003)
 
 Cataclysm-DDA experimental build 2026-06-20-0316 (46f15d9)
 * [Xedra Evolved] Rework changeling advancement (#87710)
-
-Cataclysm-DDA experimental build 2026-06-19-1941 (8ad0d2c)
 * [Xedra Evolved] Fix bearskin problems (#87709)
 * Two new aftershock achievements (#87628)
 * remove mention of bugged npc teleport from DIMENSIONS.md (#87657)
@@ -133,7 +133,6 @@ Cataclysm-DDA experimental build 2026-06-19-1941 (8ad0d2c)
 * [XedraWood] rework temperature and humidity (#87630)
 * Fix potassium chloride powder spawning multiple containers (#87635)
 * Remove hardcoded water boiling (#87620)
-* feat(ui): maintain highlight position after inventory item use (#87601)
 * Yeet the heavy/power lathe pseudo tool (#87621)
 * [XedraWood] Increase river flood plain area (#87607)
 * fix garbage bag spawn (#87615)
