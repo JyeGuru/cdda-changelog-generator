@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-27-0139 ([0983fbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-0139))
+
+* [MoM] The Hounds can twist your Extended Stride and keep up ([#87808](https://github.com/CleverRaven/Cataclysm-DDA/pull/87808))
+* Remove several 'Hub-01' with the standardized name 'Hub 01' ([#87805](https://github.com/CleverRaven/Cataclysm-DDA/pull/87805))
+* Some `a shadow?` attacked survivor camp mapgen ([#87809](https://github.com/CleverRaven/Cataclysm-DDA/pull/87809))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-26-2353 ([d250a5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-2353))
+
+* [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage ([#87810](https://github.com/CleverRaven/Cataclysm-DDA/pull/87810))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-26-2129 ([f9b8baa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-2129))
 
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
@@ -147,19 +161,9 @@
 
 * fix(mods/Perk_melee): init perk menu for switched NPC ([#87733](https://github.com/CleverRaven/Cataclysm-DDA/pull/87733))
 * Updated ingot recipes with steps and realistic power ([#87723](https://github.com/CleverRaven/Cataclysm-DDA/pull/87723))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-21-0327 ([8f5d41a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-21-0327))
-
 * Remove `NO_RELOAD` off small spool and wire spool ([#87727](https://github.com/CleverRaven/Cataclysm-DDA/pull/87727))
 * Update Labeler (CR) ([#87721](https://github.com/CleverRaven/Cataclysm-DDA/pull/87721))
 * Add Flathub download link to packaging page ([#87667](https://github.com/CleverRaven/Cataclysm-DDA/pull/87667))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-20-0644 ([94d1e20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-20-0644))
-
 * Revert "fix: Crash in any ImGui window on alt + F4" ([#87720](https://github.com/CleverRaven/Cataclysm-DDA/pull/87720))
 * fix: Crash in any ImGui window on alt + F4 ([#87717](https://github.com/CleverRaven/Cataclysm-DDA/pull/87717))
 * AIM hide action menu ([#87713](https://github.com/CleverRaven/Cataclysm-DDA/pull/87713))
@@ -195,7 +199,6 @@
 * fix estimated time to arrival format ([#87674](https://github.com/CleverRaven/Cataclysm-DDA/pull/87674))
 * Add missing condition to labyrinth safehouse terminal dialogue ([#87683](https://github.com/CleverRaven/Cataclysm-DDA/pull/87683))
 * Weekly Changelog 2026-06-08 to 2026-06-15 ([#87648](https://github.com/CleverRaven/Cataclysm-DDA/pull/87648))
-* [XedraWood] Add magical tattoos and a profession that starts with them ([#87611](https://github.com/CleverRaven/Cataclysm-DDA/pull/87611))
 * Lose mutation category eoc ([#87672](https://github.com/CleverRaven/Cataclysm-DDA/pull/87672))
 * Woodworking axe faults ([#87671](https://github.com/CleverRaven/Cataclysm-DDA/pull/87671))
 * fix feather volume and weight ([#87670](https://github.com/CleverRaven/Cataclysm-DDA/pull/87670))
@@ -215,6 +218,3 @@
 * Fix potassium chloride powder spawning multiple containers ([#87635](https://github.com/CleverRaven/Cataclysm-DDA/pull/87635))
 * Remove hardcoded water boiling ([#87620](https://github.com/CleverRaven/Cataclysm-DDA/pull/87620))
 * Yeet the heavy/power lathe pseudo tool ([#87621](https://github.com/CleverRaven/Cataclysm-DDA/pull/87621))
-* fix garbage bag spawn ([#87615](https://github.com/CleverRaven/Cataclysm-DDA/pull/87615))
-* Update Jenny's Quest information to clarify what she wants ([#87613](https://github.com/CleverRaven/Cataclysm-DDA/pull/87613))
-* Drinking water from the Scarlet Sea is not nice ([#87610](https://github.com/CleverRaven/Cataclysm-DDA/pull/87610))
