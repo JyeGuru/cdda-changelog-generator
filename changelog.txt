@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-27-1533 (487560f)
+* docs (#87752)
+
 Cataclysm-DDA experimental build 2026-06-27-1015 (95c4e03)
 * Exodii-Free Merchants trade, and a mission to negotiate it (#87794)
 
@@ -85,11 +88,7 @@ Cataclysm-DDA experimental build 2026-06-22-2007 (148fcef)
 
 Cataclysm-DDA experimental build 2026-06-22-1604 (c5b6144)
 * Worn flotation vest won't let you drown anymore (#87747)
-
-Cataclysm-DDA experimental build 2026-06-22-1538 (dec924c)
 * Some More Loading Screen Tips (#87711)
-
-Cataclysm-DDA experimental build 2026-06-22-0314 (7ea4714)
 * Monster teeth traps now trigger `caltrops` trap function (#87742)
 * fix(mods/Perk_melee): init perk menu for switched NPC (#87733)
 * Updated ingot recipes with steps and realistic power (#87723)
@@ -144,6 +143,4 @@ Cataclysm-DDA experimental build 2026-06-22-0314 (7ea4714)
 * Streamline water purification application (#87631)
 * Move vanity traits to cosmetic category (#87634)
 * [XedraWood] Giant bugs aren't mutants (#87642)
-* UICA vehicle merchant respects chit price (#87629)
-* [XedraWood] rework temperature and humidity (#87630)
 * Fix potassium chloride powder spawning multiple containers (#87635)

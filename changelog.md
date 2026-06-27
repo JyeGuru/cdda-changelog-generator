@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-27-1533 ([487560f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-1533))
+
+* docs ([#87752](https://github.com/CleverRaven/Cataclysm-DDA/pull/87752))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-27-1015 ([95c4e03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-1015))
 
 * Exodii-Free Merchants trade, and a mission to negotiate it ([#87794](https://github.com/CleverRaven/Cataclysm-DDA/pull/87794))
@@ -166,17 +172,7 @@
 #### Cataclysm-DDA experimental build 2026-06-22-1604 ([c5b6144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-1604))
 
 * Worn flotation vest won't let you drown anymore ([#87747](https://github.com/CleverRaven/Cataclysm-DDA/pull/87747))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-22-1538 ([dec924c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-1538))
-
 * Some More Loading Screen Tips ([#87711](https://github.com/CleverRaven/Cataclysm-DDA/pull/87711))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-22-0314 ([7ea4714](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-0314))
-
 * Monster teeth traps now trigger `caltrops` trap function ([#87742](https://github.com/CleverRaven/Cataclysm-DDA/pull/87742))
 * fix(mods/Perk_melee): init perk menu for switched NPC ([#87733](https://github.com/CleverRaven/Cataclysm-DDA/pull/87733))
 * Updated ingot recipes with steps and realistic power ([#87723](https://github.com/CleverRaven/Cataclysm-DDA/pull/87723))
@@ -231,6 +227,4 @@
 * Streamline water purification application ([#87631](https://github.com/CleverRaven/Cataclysm-DDA/pull/87631))
 * Move vanity traits to cosmetic category ([#87634](https://github.com/CleverRaven/Cataclysm-DDA/pull/87634))
 * [XedraWood] Giant bugs aren't mutants ([#87642](https://github.com/CleverRaven/Cataclysm-DDA/pull/87642))
-* UICA vehicle merchant respects chit price ([#87629](https://github.com/CleverRaven/Cataclysm-DDA/pull/87629))
-* [XedraWood] rework temperature and humidity ([#87630](https://github.com/CleverRaven/Cataclysm-DDA/pull/87630))
 * Fix potassium chloride powder spawning multiple containers ([#87635](https://github.com/CleverRaven/Cataclysm-DDA/pull/87635))
