@@ -1,3 +1,9 @@
+* Yeet primary_material field (#87814)
+* Report version string for mods (#87815)
+* Tactical-Backpacks-are-made-of-nylon-not-leather (#87779)
+
+Cataclysm-DDA experimental build 2026-06-27-2236 (ef1b2a0)
+* Ash weight and volume adjustments (#87719)
 
 Cataclysm-DDA experimental build 2026-06-27-1533 (487560f)
 * docs (#87752)
@@ -57,9 +63,6 @@ Cataclysm-DDA experimental build 2026-06-24-0238 (462d998)
 Cataclysm-DDA experimental build 2026-06-23-1817 (304e856)
 * [Xedra Evolved] Fix two March Lord bugs (#87764)
 
-Cataclysm-DDA experimental build 2026-06-23-1727 (3776212)
-* Add quick setup option to clear map (#87632)
-
 Cataclysm-DDA experimental build 2026-06-23-0742 (1aa4d99)
 * Fx stacking elevators to nowhere (#87765)
 * Total Conversion not content pack XedraWood (#87763)
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-06-22-2102 (9b7f63f)
 
 Cataclysm-DDA experimental build 2026-06-22-2007 (148fcef)
 * Weekly Changelog 2026-06-15 to 2026-06-22 (#87745)
-
-Cataclysm-DDA experimental build 2026-06-22-1604 (c5b6144)
 * Worn flotation vest won't let you drown anymore (#87747)
 * Some More Loading Screen Tips (#87711)
 * Monster teeth traps now trigger `caltrops` trap function (#87742)
@@ -140,7 +141,4 @@ Cataclysm-DDA experimental build 2026-06-22-1604 (c5b6144)
 * Stop batch crafts vanishing on long unattended steps (#87653)
 * Refactor pixel minimap drawing and guard null render targets (#87652)
 * Multimag gun and tool mod support (#87637)
-* Streamline water purification application (#87631)
-* Move vanity traits to cosmetic category (#87634)
 * [XedraWood] Giant bugs aren't mutants (#87642)
-* Fix potassium chloride powder spawning multiple containers (#87635)

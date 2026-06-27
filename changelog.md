@@ -1,3 +1,12 @@
+* Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
+* Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
+* Tactical-Backpacks-are-made-of-nylon-not-leather ([#87779](https://github.com/CleverRaven/Cataclysm-DDA/pull/87779))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-27-2236 ([ef1b2a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-2236))
+
+* Ash weight and volume adjustments ([#87719](https://github.com/CleverRaven/Cataclysm-DDA/pull/87719))
 
 ---
 
@@ -113,12 +122,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-06-23-1727 ([3776212](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-1727))
-
-* Add quick setup option to clear map ([#87632](https://github.com/CleverRaven/Cataclysm-DDA/pull/87632))
-
----
-
 #### Cataclysm-DDA experimental build 2026-06-23-0742 ([1aa4d99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0742))
 
 * Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
@@ -166,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-06-22-2007 ([148fcef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-2007))
 
 * Weekly Changelog 2026-06-15 to 2026-06-22 ([#87745](https://github.com/CleverRaven/Cataclysm-DDA/pull/87745))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-22-1604 ([c5b6144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-1604))
-
 * Worn flotation vest won't let you drown anymore ([#87747](https://github.com/CleverRaven/Cataclysm-DDA/pull/87747))
 * Some More Loading Screen Tips ([#87711](https://github.com/CleverRaven/Cataclysm-DDA/pull/87711))
 * Monster teeth traps now trigger `caltrops` trap function ([#87742](https://github.com/CleverRaven/Cataclysm-DDA/pull/87742))
@@ -224,7 +222,4 @@
 * Stop batch crafts vanishing on long unattended steps ([#87653](https://github.com/CleverRaven/Cataclysm-DDA/pull/87653))
 * Refactor pixel minimap drawing and guard null render targets ([#87652](https://github.com/CleverRaven/Cataclysm-DDA/pull/87652))
 * Multimag gun and tool mod support ([#87637](https://github.com/CleverRaven/Cataclysm-DDA/pull/87637))
-* Streamline water purification application ([#87631](https://github.com/CleverRaven/Cataclysm-DDA/pull/87631))
-* Move vanity traits to cosmetic category ([#87634](https://github.com/CleverRaven/Cataclysm-DDA/pull/87634))
 * [XedraWood] Giant bugs aren't mutants ([#87642](https://github.com/CleverRaven/Cataclysm-DDA/pull/87642))
-* Fix potassium chloride powder spawning multiple containers ([#87635](https://github.com/CleverRaven/Cataclysm-DDA/pull/87635))
