@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-27-0705 (85663c8)
+* [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness (#87770)
+
 Cataclysm-DDA experimental build 2026-06-27-0520 (becc577)
 * Adjust translations of debug_console.cpp (#87797)
 
@@ -142,4 +145,3 @@ Cataclysm-DDA experimental build 2026-06-22-0314 (7ea4714)
 * UICA vehicle merchant respects chit price (#87629)
 * [XedraWood] rework temperature and humidity (#87630)
 * Fix potassium chloride powder spawning multiple containers (#87635)
-* Yeet the heavy/power lathe pseudo tool (#87621)
