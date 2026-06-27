@@ -1,3 +1,9 @@
+* Bring back shader compilation in VS but without python. ([#87682](https://github.com/CleverRaven/Cataclysm-DDA/pull/87682))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-27-2339 ([fac9a39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-2339))
+
 * Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
 * Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
 * Tactical-Backpacks-are-made-of-nylon-not-leather ([#87779](https://github.com/CleverRaven/Cataclysm-DDA/pull/87779))
@@ -163,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-06-22-2102 ([9b7f63f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-2102))
 
 * [Xedra Evolved] Update March Lords ([#87744](https://github.com/CleverRaven/Cataclysm-DDA/pull/87744))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-22-2007 ([148fcef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-2007))
-
 * Weekly Changelog 2026-06-15 to 2026-06-22 ([#87745](https://github.com/CleverRaven/Cataclysm-DDA/pull/87745))
 * Worn flotation vest won't let you drown anymore ([#87747](https://github.com/CleverRaven/Cataclysm-DDA/pull/87747))
 * Some More Loading Screen Tips ([#87711](https://github.com/CleverRaven/Cataclysm-DDA/pull/87711))

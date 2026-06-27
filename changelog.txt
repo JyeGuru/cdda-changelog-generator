@@ -1,3 +1,6 @@
+* Bring back shader compilation in VS but without python. (#87682)
+
+Cataclysm-DDA experimental build 2026-06-27-2339 (fac9a39)
 * Yeet primary_material field (#87814)
 * Report version string for mods (#87815)
 * Tactical-Backpacks-are-made-of-nylon-not-leather (#87779)
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-06-23-0116 (050f354)
 
 Cataclysm-DDA experimental build 2026-06-22-2102 (9b7f63f)
 * [Xedra Evolved] Update March Lords (#87744)
-
-Cataclysm-DDA experimental build 2026-06-22-2007 (148fcef)
 * Weekly Changelog 2026-06-15 to 2026-06-22 (#87745)
 * Worn flotation vest won't let you drown anymore (#87747)
 * Some More Loading Screen Tips (#87711)
