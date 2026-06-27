@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-27-1015 (95c4e03)
+* Exodii-Free Merchants trade, and a mission to negotiate it (#87794)
+
 Cataclysm-DDA experimental build 2026-06-27-0705 (85663c8)
 * [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness (#87770)
 
@@ -99,7 +102,6 @@ Cataclysm-DDA experimental build 2026-06-22-0314 (7ea4714)
 * [Xedra Evolved] Regularize changeling goblin fruit glamours (#87715)
 * [Xedra Evolved] Rework changeling advancement (#87710)
 * [Xedra Evolved] Fix bearskin problems (#87709)
-* Two new aftershock achievements (#87628)
 * remove mention of bugged npc teleport from DIMENSIONS.md (#87657)
 * fix detergent use in washing (#87668)
 * [Xedra Evolved] Make gaining dhampir powers less deterministic (#87684)
