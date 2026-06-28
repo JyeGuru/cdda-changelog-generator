@@ -1,3 +1,11 @@
+* Reduce the price of some items and adjust the spring data ([#87726](https://github.com/CleverRaven/Cataclysm-DDA/pull/87726))
+* Fix few issues in crafting ([#87823](https://github.com/CleverRaven/Cataclysm-DDA/pull/87823))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-28-0544 ([7cfde0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-28-0544))
+
+* [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
 * Bring back shader compilation in VS but without python. ([#87682](https://github.com/CleverRaven/Cataclysm-DDA/pull/87682))
 
 ---
@@ -163,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-06-23-0116 ([050f354](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0116))
 
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-22-2102 ([9b7f63f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-22-2102))
-
 * [Xedra Evolved] Update March Lords ([#87744](https://github.com/CleverRaven/Cataclysm-DDA/pull/87744))
 * Weekly Changelog 2026-06-15 to 2026-06-22 ([#87745](https://github.com/CleverRaven/Cataclysm-DDA/pull/87745))
 * Worn flotation vest won't let you drown anymore ([#87747](https://github.com/CleverRaven/Cataclysm-DDA/pull/87747))
@@ -207,7 +210,6 @@
 * yeet go bags ([#87656](https://github.com/CleverRaven/Cataclysm-DDA/pull/87656))
 * Add Vehicle Shape Variants to Food Truck Freezer and Fridge ([#87675](https://github.com/CleverRaven/Cataclysm-DDA/pull/87675))
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
-* Remove the x86 only compiler flag for aarch64 ([#87639](https://github.com/CleverRaven/Cataclysm-DDA/pull/87639))
 * document that only liquid comestibles are counted by charges ([#87666](https://github.com/CleverRaven/Cataclysm-DDA/pull/87666))
 * fix estimated time to arrival format ([#87674](https://github.com/CleverRaven/Cataclysm-DDA/pull/87674))
 * Add missing condition to labyrinth safehouse terminal dialogue ([#87683](https://github.com/CleverRaven/Cataclysm-DDA/pull/87683))
@@ -222,5 +224,3 @@
 * Fix labyrinth treasure room terminals ([#87650](https://github.com/CleverRaven/Cataclysm-DDA/pull/87650))
 * Stop batch crafts vanishing on long unattended steps ([#87653](https://github.com/CleverRaven/Cataclysm-DDA/pull/87653))
 * Refactor pixel minimap drawing and guard null render targets ([#87652](https://github.com/CleverRaven/Cataclysm-DDA/pull/87652))
-* Multimag gun and tool mod support ([#87637](https://github.com/CleverRaven/Cataclysm-DDA/pull/87637))
-* [XedraWood] Giant bugs aren't mutants ([#87642](https://github.com/CleverRaven/Cataclysm-DDA/pull/87642))
