@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-28-1826 ([cf3f2e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-28-1826))
+
+* [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-28-0628 ([0ed7186](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-28-0628))
 
 * Reduce the price of some items and adjust the spring data ([#87726](https://github.com/CleverRaven/Cataclysm-DDA/pull/87726))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-06-23-0252 ([dbd4967](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0252))
 
 * Car/motorbike batteries are no longer an obstacle ([#87738](https://github.com/CleverRaven/Cataclysm-DDA/pull/87738))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-23-0208 ([8831646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0208))
-
 * Renamed `gas mask cartridge` to `CBRN filter canister` in flag name ([#87741](https://github.com/CleverRaven/Cataclysm-DDA/pull/87741))
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
 * [Xedra Evolved] Update March Lords ([#87744](https://github.com/CleverRaven/Cataclysm-DDA/pull/87744))
