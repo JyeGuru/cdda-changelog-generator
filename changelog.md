@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-28-0628 ([0ed7186](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-28-0628))
+
 * Reduce the price of some items and adjust the spring data ([#87726](https://github.com/CleverRaven/Cataclysm-DDA/pull/87726))
 * Fix few issues in crafting ([#87823](https://github.com/CleverRaven/Cataclysm-DDA/pull/87823))
 
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-06-23-0208 ([8831646](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0208))
 
 * Renamed `gas mask cartridge` to `CBRN filter canister` in flag name ([#87741](https://github.com/CleverRaven/Cataclysm-DDA/pull/87741))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-23-0116 ([050f354](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0116))
-
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
 * [Xedra Evolved] Update March Lords ([#87744](https://github.com/CleverRaven/Cataclysm-DDA/pull/87744))
 * Weekly Changelog 2026-06-15 to 2026-06-22 ([#87745](https://github.com/CleverRaven/Cataclysm-DDA/pull/87745))
