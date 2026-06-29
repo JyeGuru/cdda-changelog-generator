@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-29-1324 (bc8241d)
+* Inventory organization crashes/freezes fixes (#87795)
+
 Cataclysm-DDA experimental build 2026-06-29-0729 (62287ab)
 * Update broth recipes and various soups (#87829)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-06-23-1817 (304e856)
 Cataclysm-DDA experimental build 2026-06-23-0742 (1aa4d99)
 * Fx stacking elevators to nowhere (#87765)
 * Total Conversion not content pack XedraWood (#87763)
-
-Cataclysm-DDA experimental build 2026-06-23-0701 (984ca43)
 * Unique mobs shouldn't be hallucinatable (#87766)
 * Fix some typos (#87722)
 * fix missing break (#87756)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2026-06-23-0701 (984ca43)
 * [Xedra Evolved] Fix werewolf being able to use mutagen (#87669)
 * [XedraWood] Add bronze lamellar cuirass (#87664)
 * Remove shader compilation from VS project because it requires python. (#87658)
-* Stop batch crafts vanishing on long unattended steps (#87653)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-29-1324 ([bc8241d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-29-1324))
+
+* Inventory organization crashes/freezes fixes ([#87795](https://github.com/CleverRaven/Cataclysm-DDA/pull/87795))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-29-0729 ([62287ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-29-0729))
 
 * Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
@@ -163,11 +169,6 @@
 
 * Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
 * Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-23-0701 ([984ca43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0701))
-
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
 * Fix some typos ([#87722](https://github.com/CleverRaven/Cataclysm-DDA/pull/87722))
 * fix missing break ([#87756](https://github.com/CleverRaven/Cataclysm-DDA/pull/87756))
@@ -222,4 +223,3 @@
 * [Xedra Evolved] Fix werewolf being able to use mutagen ([#87669](https://github.com/CleverRaven/Cataclysm-DDA/pull/87669))
 * [XedraWood] Add bronze lamellar cuirass ([#87664](https://github.com/CleverRaven/Cataclysm-DDA/pull/87664))
 * Remove shader compilation from VS project because it requires python. ([#87658](https://github.com/CleverRaven/Cataclysm-DDA/pull/87658))
-* Stop batch crafts vanishing on long unattended steps ([#87653](https://github.com/CleverRaven/Cataclysm-DDA/pull/87653))
