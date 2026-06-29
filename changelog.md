@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-29-0729 ([62287ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-29-0729))
+
+* Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-29-0615 ([2786763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-29-0615))
+
+* [XedraWood] Add giant serpents, add map extra giant serpent nest ([#87831](https://github.com/CleverRaven/Cataclysm-DDA/pull/87831))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-28-1826 ([cf3f2e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-28-1826))
 
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
@@ -157,18 +169,8 @@
 #### Cataclysm-DDA experimental build 2026-06-23-0701 ([984ca43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0701))
 
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-23-0337 ([3f9f975](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0337))
-
 * Fix some typos ([#87722](https://github.com/CleverRaven/Cataclysm-DDA/pull/87722))
 * fix missing break ([#87756](https://github.com/CleverRaven/Cataclysm-DDA/pull/87756))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-23-0252 ([dbd4967](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0252))
-
 * Car/motorbike batteries are no longer an obstacle ([#87738](https://github.com/CleverRaven/Cataclysm-DDA/pull/87738))
 * Renamed `gas mask cartridge` to `CBRN filter canister` in flag name ([#87741](https://github.com/CleverRaven/Cataclysm-DDA/pull/87741))
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
@@ -220,6 +222,4 @@
 * [Xedra Evolved] Fix werewolf being able to use mutagen ([#87669](https://github.com/CleverRaven/Cataclysm-DDA/pull/87669))
 * [XedraWood] Add bronze lamellar cuirass ([#87664](https://github.com/CleverRaven/Cataclysm-DDA/pull/87664))
 * Remove shader compilation from VS project because it requires python. ([#87658](https://github.com/CleverRaven/Cataclysm-DDA/pull/87658))
-* reflavor and tweak labyrinth Laser-Assisted Reading Device CBM ([#87651](https://github.com/CleverRaven/Cataclysm-DDA/pull/87651))
 * Stop batch crafts vanishing on long unattended steps ([#87653](https://github.com/CleverRaven/Cataclysm-DDA/pull/87653))
-* Refactor pixel minimap drawing and guard null render targets ([#87652](https://github.com/CleverRaven/Cataclysm-DDA/pull/87652))
