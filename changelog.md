@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-30-2119 ([4af07d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-2119))
+
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition ([#87843](https://github.com/CleverRaven/Cataclysm-DDA/pull/87843))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-06-25-0418 ([375be9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-25-0418))
 
 * instead of adding a switch in distraction manager excluded all summoning spells from checking the damage on self ([#87757](https://github.com/CleverRaven/Cataclysm-DDA/pull/87757))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-25-0050 ([2f1c2dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-25-0050))
-
 * [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift ([#87773](https://github.com/CleverRaven/Cataclysm-DDA/pull/87773))
 * [Xedra Evolved] Fix tender animal feet ([#87777](https://github.com/CleverRaven/Cataclysm-DDA/pull/87777))
 * [XedraWood] Refactor random encounter EoCs to make it XedraWood unique ([#87758](https://github.com/CleverRaven/Cataclysm-DDA/pull/87758))
