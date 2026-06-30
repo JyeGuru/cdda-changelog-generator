@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-30-0611 ([566fde9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0611))
+
 * Weekly Changelog 2026-06-22 to 2026-06-29 ([#87836](https://github.com/CleverRaven/Cataclysm-DDA/pull/87836))
 * [ Xedra Evolved ] Blood drinking and the state of being a vampire ([#87838](https://github.com/CleverRaven/Cataclysm-DDA/pull/87838))
 
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-06-24-0412 ([655ab16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0412))
 
 * [Xedra Evolved] Fix tender animal feet ([#87777](https://github.com/CleverRaven/Cataclysm-DDA/pull/87777))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-24-0323 ([fe41c88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0323))
-
 * [XedraWood] Refactor random encounter EoCs to make it XedraWood unique ([#87758](https://github.com/CleverRaven/Cataclysm-DDA/pull/87758))
 * rm dead code ([#87753](https://github.com/CleverRaven/Cataclysm-DDA/pull/87753))
 * [Xedra Evolved] Fix two March Lord bugs ([#87764](https://github.com/CleverRaven/Cataclysm-DDA/pull/87764))

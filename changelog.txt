@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-06-30-0611 (566fde9)
 * Weekly Changelog 2026-06-22 to 2026-06-29 (#87836)
 * [ Xedra Evolved ] Blood drinking and the state of being a vampire (#87838)
 
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2026-06-25-0050 (2f1c2dd)
 
 Cataclysm-DDA experimental build 2026-06-24-0412 (655ab16)
 * [Xedra Evolved] Fix tender animal feet (#87777)
-
-Cataclysm-DDA experimental build 2026-06-24-0323 (fe41c88)
 * [XedraWood] Refactor random encounter EoCs to make it XedraWood unique (#87758)
 * rm dead code (#87753)
 * [Xedra Evolved] Fix two March Lord bugs (#87764)
