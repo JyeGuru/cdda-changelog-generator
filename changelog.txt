@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-06-30-0108 (43a8b01)
+* [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell (#87841)
+
 Cataclysm-DDA experimental build 2026-06-29-1324 (bc8241d)
 * Inventory organization crashes/freezes fixes (#87795)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-06-24-0238 (462d998)
 
 Cataclysm-DDA experimental build 2026-06-23-1817 (304e856)
 * [Xedra Evolved] Fix two March Lord bugs (#87764)
-
-Cataclysm-DDA experimental build 2026-06-23-0742 (1aa4d99)
 * Fx stacking elevators to nowhere (#87765)
 * Total Conversion not content pack XedraWood (#87763)
 * Unique mobs shouldn't be hallucinatable (#87766)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2026-06-23-0742 (1aa4d99)
 * Backport #82931 to 0.I (#87690)
 * Fix Zone Crashes re #82524 (#87691)
 * Added "taming" food information in monster extended description (#87681)
-* yeet go bags (#87656)
 * Add Vehicle Shape Variants to Food Truck Freezer and Fridge (#87675)
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each (#87686)
 * document that only liquid comestibles are counted by charges (#87666)

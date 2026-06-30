@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-06-30-0108 ([43a8b01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0108))
+
+* [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-06-29-1324 ([bc8241d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-29-1324))
 
 * Inventory organization crashes/freezes fixes ([#87795](https://github.com/CleverRaven/Cataclysm-DDA/pull/87795))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-06-23-1817 ([304e856](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-1817))
 
 * [Xedra Evolved] Fix two March Lord bugs ([#87764](https://github.com/CleverRaven/Cataclysm-DDA/pull/87764))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-23-0742 ([1aa4d99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-0742))
-
 * Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
 * Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
@@ -211,7 +212,6 @@
 * Backport #82931 to 0.I ([#87690](https://github.com/CleverRaven/Cataclysm-DDA/pull/87690))
 * Fix Zone Crashes re #82524 ([#87691](https://github.com/CleverRaven/Cataclysm-DDA/pull/87691))
 * Added "taming" food information in monster extended description ([#87681](https://github.com/CleverRaven/Cataclysm-DDA/pull/87681))
-* yeet go bags ([#87656](https://github.com/CleverRaven/Cataclysm-DDA/pull/87656))
 * Add Vehicle Shape Variants to Food Truck Freezer and Fridge ([#87675](https://github.com/CleverRaven/Cataclysm-DDA/pull/87675))
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
 * document that only liquid comestibles are counted by charges ([#87666](https://github.com/CleverRaven/Cataclysm-DDA/pull/87666))
