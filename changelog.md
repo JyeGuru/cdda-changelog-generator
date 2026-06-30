@@ -1,3 +1,23 @@
+* Weekly Changelog 2026-06-22 to 2026-06-29 ([#87836](https://github.com/CleverRaven/Cataclysm-DDA/pull/87836))
+* [ Xedra Evolved ] Blood drinking and the state of being a vampire ([#87838](https://github.com/CleverRaven/Cataclysm-DDA/pull/87838))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-30-0521 ([30cfaf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0521))
+
+* Fix fractional DoT displays ([#87842](https://github.com/CleverRaven/Cataclysm-DDA/pull/87842))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-30-0301 ([756c3e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0301))
+
+* Typo fixes ([#87834](https://github.com/CleverRaven/Cataclysm-DDA/pull/87834))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-30-0209 ([1a76624](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0209))
+
+* Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings ([#87832](https://github.com/CleverRaven/Cataclysm-DDA/pull/87832))
 
 ---
 
@@ -156,17 +176,7 @@
 #### Cataclysm-DDA experimental build 2026-06-24-0323 ([fe41c88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0323))
 
 * [XedraWood] Refactor random encounter EoCs to make it XedraWood unique ([#87758](https://github.com/CleverRaven/Cataclysm-DDA/pull/87758))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-24-0238 ([462d998](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0238))
-
 * rm dead code ([#87753](https://github.com/CleverRaven/Cataclysm-DDA/pull/87753))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-23-1817 ([304e856](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-23-1817))
-
 * [Xedra Evolved] Fix two March Lord bugs ([#87764](https://github.com/CleverRaven/Cataclysm-DDA/pull/87764))
 * Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
 * Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
@@ -185,14 +195,12 @@
 * Updated ingot recipes with steps and realistic power ([#87723](https://github.com/CleverRaven/Cataclysm-DDA/pull/87723))
 * Remove `NO_RELOAD` off small spool and wire spool ([#87727](https://github.com/CleverRaven/Cataclysm-DDA/pull/87727))
 * Update Labeler (CR) ([#87721](https://github.com/CleverRaven/Cataclysm-DDA/pull/87721))
-* Add Flathub download link to packaging page ([#87667](https://github.com/CleverRaven/Cataclysm-DDA/pull/87667))
 * Revert "fix: Crash in any ImGui window on alt + F4" ([#87720](https://github.com/CleverRaven/Cataclysm-DDA/pull/87720))
 * fix: Crash in any ImGui window on alt + F4 ([#87717](https://github.com/CleverRaven/Cataclysm-DDA/pull/87717))
 * AIM hide action menu ([#87713](https://github.com/CleverRaven/Cataclysm-DDA/pull/87713))
 * [Xedra Evolved] Regularize changeling goblin fruit glamours ([#87715](https://github.com/CleverRaven/Cataclysm-DDA/pull/87715))
 * [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
 * [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
-* remove mention of bugged npc teleport from DIMENSIONS.md ([#87657](https://github.com/CleverRaven/Cataclysm-DDA/pull/87657))
 * fix detergent use in washing ([#87668](https://github.com/CleverRaven/Cataclysm-DDA/pull/87668))
 * [Xedra Evolved] Make gaining dhampir powers less deterministic ([#87684](https://github.com/CleverRaven/Cataclysm-DDA/pull/87684))
 * [MoM: Psychic Scream] Disable recurring power learning/awakening EoCs ([#87694](https://github.com/CleverRaven/Cataclysm-DDA/pull/87694))
@@ -214,12 +222,9 @@
 * Added "taming" food information in monster extended description ([#87681](https://github.com/CleverRaven/Cataclysm-DDA/pull/87681))
 * Add Vehicle Shape Variants to Food Truck Freezer and Fridge ([#87675](https://github.com/CleverRaven/Cataclysm-DDA/pull/87675))
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
-* document that only liquid comestibles are counted by charges ([#87666](https://github.com/CleverRaven/Cataclysm-DDA/pull/87666))
 * fix estimated time to arrival format ([#87674](https://github.com/CleverRaven/Cataclysm-DDA/pull/87674))
 * Add missing condition to labyrinth safehouse terminal dialogue ([#87683](https://github.com/CleverRaven/Cataclysm-DDA/pull/87683))
 * Lose mutation category eoc ([#87672](https://github.com/CleverRaven/Cataclysm-DDA/pull/87672))
 * Woodworking axe faults ([#87671](https://github.com/CleverRaven/Cataclysm-DDA/pull/87671))
 * fix feather volume and weight ([#87670](https://github.com/CleverRaven/Cataclysm-DDA/pull/87670))
 * [Xedra Evolved] Fix werewolf being able to use mutagen ([#87669](https://github.com/CleverRaven/Cataclysm-DDA/pull/87669))
-* [XedraWood] Add bronze lamellar cuirass ([#87664](https://github.com/CleverRaven/Cataclysm-DDA/pull/87664))
-* Remove shader compilation from VS project because it requires python. ([#87658](https://github.com/CleverRaven/Cataclysm-DDA/pull/87658))
