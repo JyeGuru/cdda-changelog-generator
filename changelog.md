@@ -1,3 +1,10 @@
+* [Xedra Evolved] Move `Weave Gossamer` to caster_condition ([#87843](https://github.com/CleverRaven/Cataclysm-DDA/pull/87843))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-30-2033 ([2c5f426](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-2033))
+
+* Remove radioactivity from toxic waste dump map extra ([#87852](https://github.com/CleverRaven/Cataclysm-DDA/pull/87852))
 
 ---
 
@@ -169,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-06-25-0050 ([2f1c2dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-25-0050))
 
 * [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift ([#87773](https://github.com/CleverRaven/Cataclysm-DDA/pull/87773))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-24-0412 ([655ab16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-24-0412))
-
 * [Xedra Evolved] Fix tender animal feet ([#87777](https://github.com/CleverRaven/Cataclysm-DDA/pull/87777))
 * [XedraWood] Refactor random encounter EoCs to make it XedraWood unique ([#87758](https://github.com/CleverRaven/Cataclysm-DDA/pull/87758))
 * rm dead code ([#87753](https://github.com/CleverRaven/Cataclysm-DDA/pull/87753))
@@ -201,7 +203,6 @@
 * [Xedra Evolved] Regularize changeling goblin fruit glamours ([#87715](https://github.com/CleverRaven/Cataclysm-DDA/pull/87715))
 * [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
 * [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
-* fix detergent use in washing ([#87668](https://github.com/CleverRaven/Cataclysm-DDA/pull/87668))
 * [Xedra Evolved] Make gaining dhampir powers less deterministic ([#87684](https://github.com/CleverRaven/Cataclysm-DDA/pull/87684))
 * [MoM: Psychic Scream] Disable recurring power learning/awakening EoCs ([#87694](https://github.com/CleverRaven/Cataclysm-DDA/pull/87694))
 * [XedraWood] The Wise are literate, start with hedge magic recipes ([#87696](https://github.com/CleverRaven/Cataclysm-DDA/pull/87696))
@@ -227,4 +228,3 @@
 * Lose mutation category eoc ([#87672](https://github.com/CleverRaven/Cataclysm-DDA/pull/87672))
 * Woodworking axe faults ([#87671](https://github.com/CleverRaven/Cataclysm-DDA/pull/87671))
 * fix feather volume and weight ([#87670](https://github.com/CleverRaven/Cataclysm-DDA/pull/87670))
-* [Xedra Evolved] Fix werewolf being able to use mutagen ([#87669](https://github.com/CleverRaven/Cataclysm-DDA/pull/87669))
