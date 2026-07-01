@@ -216,7 +216,6 @@
 * [Xedra Evolved] Regularize changeling goblin fruit glamours ([#87715](https://github.com/CleverRaven/Cataclysm-DDA/pull/87715))
 * [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
 * [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
-* [Xedra Evolved] Make gaining dhampir powers less deterministic ([#87684](https://github.com/CleverRaven/Cataclysm-DDA/pull/87684))
 * [MoM: Psychic Scream] Disable recurring power learning/awakening EoCs ([#87694](https://github.com/CleverRaven/Cataclysm-DDA/pull/87694))
 * [XedraWood] The Wise are literate, start with hedge magic recipes ([#87696](https://github.com/CleverRaven/Cataclysm-DDA/pull/87696))
 * Allow 1L Copper Ingots to be made with Copper ([#87697](https://github.com/CleverRaven/Cataclysm-DDA/pull/87697))
