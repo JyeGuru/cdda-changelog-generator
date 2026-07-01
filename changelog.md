@@ -1,3 +1,16 @@
+* In roll_melee_damage_internal(), fix an armor penetration bug and an inaccurate comment. ([#87819](https://github.com/CleverRaven/Cataclysm-DDA/pull/87819))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-01-0119 ([5dd18da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0119))
+
+* make Stiltwalker lowercase ([#87848](https://github.com/CleverRaven/Cataclysm-DDA/pull/87848))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-06-30-2347 ([754f4e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-2347))
+
+* Break monster grab if the monster was flung away ([#87853](https://github.com/CleverRaven/Cataclysm-DDA/pull/87853))
 
 ---
 
@@ -163,17 +176,7 @@
 #### Cataclysm-DDA experimental build 2026-06-26-1304 ([93898c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-1304))
 
 * [Xedra Evolved] Some random encounter tweaking ([#87800](https://github.com/CleverRaven/Cataclysm-DDA/pull/87800))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-25-1628 ([15dde53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-25-1628))
-
 * [MoM] Monster psions can use Physical Enhancement ([#87790](https://github.com/CleverRaven/Cataclysm-DDA/pull/87790))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-25-0418 ([375be9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-25-0418))
-
 * instead of adding a switch in distraction manager excluded all summoning spells from checking the damage on self ([#87757](https://github.com/CleverRaven/Cataclysm-DDA/pull/87757))
 * [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift ([#87773](https://github.com/CleverRaven/Cataclysm-DDA/pull/87773))
 * [Xedra Evolved] Fix tender animal feet ([#87777](https://github.com/CleverRaven/Cataclysm-DDA/pull/87777))
@@ -225,6 +228,3 @@
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
 * fix estimated time to arrival format ([#87674](https://github.com/CleverRaven/Cataclysm-DDA/pull/87674))
 * Add missing condition to labyrinth safehouse terminal dialogue ([#87683](https://github.com/CleverRaven/Cataclysm-DDA/pull/87683))
-* Lose mutation category eoc ([#87672](https://github.com/CleverRaven/Cataclysm-DDA/pull/87672))
-* Woodworking axe faults ([#87671](https://github.com/CleverRaven/Cataclysm-DDA/pull/87671))
-* fix feather volume and weight ([#87670](https://github.com/CleverRaven/Cataclysm-DDA/pull/87670))
