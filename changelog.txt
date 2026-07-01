@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-07-01-0407 (8371507)
+* Text fixes and devtool update (#87845)
+
+Cataclysm-DDA experimental build 2026-07-01-0213 (4e5879d)
 * In roll_melee_damage_internal(), fix an armor penetration bug and an inaccurate comment. (#87819)
 
 Cataclysm-DDA experimental build 2026-07-01-0119 (5dd18da)
@@ -89,8 +94,6 @@ Cataclysm-DDA experimental build 2026-06-26-1452 (881cafc)
 * The spell "Lucid Dreams" in Xedra Evolved has unexpected effects on weariness (#87761)
 * Add TM 31-210 Improvised Munitions Handbook (#87796)
 * [MoM] Turn telekinetic matrix crystals into artifacts (#87799)
-
-Cataclysm-DDA experimental build 2026-06-26-1304 (93898c6)
 * [Xedra Evolved] Some random encounter tweaking (#87800)
 * [MoM] Monster psions can use Physical Enhancement (#87790)
 * instead of adding a switch in distraction manager excluded all summoning spells from checking the damage on self (#87757)
@@ -142,5 +145,4 @@ Cataclysm-DDA experimental build 2026-06-26-1304 (93898c6)
 * Added "taming" food information in monster extended description (#87681)
 * Add Vehicle Shape Variants to Food Truck Freezer and Fridge (#87675)
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each (#87686)
-* fix estimated time to arrival format (#87674)
 * Add missing condition to labyrinth safehouse terminal dialogue (#87683)
