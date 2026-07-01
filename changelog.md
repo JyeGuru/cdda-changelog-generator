@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-01-0912 ([e76c41c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0912))
+
+* Feeling sleepy message is now colored red ([#87746](https://github.com/CleverRaven/Cataclysm-DDA/pull/87746))
+* [ Xedra Evolved ] Infected Vampire Chronomancers stop gaining Insight ([#87837](https://github.com/CleverRaven/Cataclysm-DDA/pull/87837))
+* Changed accepted battery type for hologram cloak from light to medium ([#87854](https://github.com/CleverRaven/Cataclysm-DDA/pull/87854))
+* [Xedra Evolved] Message for werewolves ready to learn a new moon gift ([#87856](https://github.com/CleverRaven/Cataclysm-DDA/pull/87856))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-01-0817 ([7d0f610](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0817))
+
+* [Xedra Evolved] Fix werewolf claw attacks ([#87857](https://github.com/CleverRaven/Cataclysm-DDA/pull/87857))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-01-0407 ([8371507](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0407))
 
 * Text fixes and devtool update ([#87845](https://github.com/CleverRaven/Cataclysm-DDA/pull/87845))
@@ -102,7 +117,6 @@
 #### Cataclysm-DDA experimental build 2026-06-28-0544 ([7cfde0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-28-0544))
 
 * [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
-* Bring back shader compilation in VS but without python. ([#87682](https://github.com/CleverRaven/Cataclysm-DDA/pull/87682))
 
 ---
 
@@ -167,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-06-26-2129 ([f9b8baa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-2129))
 
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-26-2035 ([cd6a11f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-2035))
-
 * [Xedra Evolved] Add more changeling glamours ([#87735](https://github.com/CleverRaven/Cataclysm-DDA/pull/87735))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-26-1452 ([881cafc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-1452))
-
 * The spell "Lucid Dreams" in Xedra Evolved has unexpected effects on weariness ([#87761](https://github.com/CleverRaven/Cataclysm-DDA/pull/87761))
 * Add TM 31-210 Improvised Munitions Handbook ([#87796](https://github.com/CleverRaven/Cataclysm-DDA/pull/87796))
 * [MoM] Turn telekinetic matrix crystals into artifacts ([#87799](https://github.com/CleverRaven/Cataclysm-DDA/pull/87799))
@@ -222,14 +226,10 @@
 * Check for conflicting plural forms of strings ([#87702](https://github.com/CleverRaven/Cataclysm-DDA/pull/87702))
 * Spore dust warning ([#87703](https://github.com/CleverRaven/Cataclysm-DDA/pull/87703))
 * Fix pixel minimap grid lines and GCC9 build ([#87701](https://github.com/CleverRaven/Cataclysm-DDA/pull/87701))
-* refactor death message, corpse spawn and death drops suppresion vars ([#87680](https://github.com/CleverRaven/Cataclysm-DDA/pull/87680))
 * String dimension connect group ([#87692](https://github.com/CleverRaven/Cataclysm-DDA/pull/87692))
 * [Magiclysm] Fix last mage on earth shelter not spawning the entrance chunk ([#87698](https://github.com/CleverRaven/Cataclysm-DDA/pull/87698))
 * Android: virtual keyboard ownership and character creator shortcut bar ([#87687](https://github.com/CleverRaven/Cataclysm-DDA/pull/87687))
 * Labyrinth computers modify furniture `n_` vals before mapgen updates ([#87689](https://github.com/CleverRaven/Cataclysm-DDA/pull/87689))
 * Backport #82931 to 0.I ([#87690](https://github.com/CleverRaven/Cataclysm-DDA/pull/87690))
 * Fix Zone Crashes re #82524 ([#87691](https://github.com/CleverRaven/Cataclysm-DDA/pull/87691))
-* Added "taming" food information in monster extended description ([#87681](https://github.com/CleverRaven/Cataclysm-DDA/pull/87681))
-* Add Vehicle Shape Variants to Food Truck Freezer and Fridge ([#87675](https://github.com/CleverRaven/Cataclysm-DDA/pull/87675))
 * Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
-* Add missing condition to labyrinth safehouse terminal dialogue ([#87683](https://github.com/CleverRaven/Cataclysm-DDA/pull/87683))
