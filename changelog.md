@@ -174,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-06-27-0520 ([becc577](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-0520))
 
 * Adjust translations of debug_console.cpp ([#87797](https://github.com/CleverRaven/Cataclysm-DDA/pull/87797))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-27-0445 ([cad7a33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-0445))
-
 * [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow ([#87811](https://github.com/CleverRaven/Cataclysm-DDA/pull/87811))
 * [MoM] The Hounds can twist your Extended Stride and keep up ([#87808](https://github.com/CleverRaven/Cataclysm-DDA/pull/87808))
 * Remove several 'Hub-01' with the standardized name 'Hub 01' ([#87805](https://github.com/CleverRaven/Cataclysm-DDA/pull/87805))
