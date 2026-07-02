@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-02-0440 ([c444049](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-02-0440))
+
+* Fix nanomaterial spawns in sarcophagus, and tower and terrain manufactured ([#87844](https://github.com/CleverRaven/Cataclysm-DDA/pull/87844))
+* Fix pipebomb typos ([#87855](https://github.com/CleverRaven/Cataclysm-DDA/pull/87855))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-02-0353 ([7612ba0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-02-0353))
+
+* Boxer shorts are now 0.1mm thick ([#87858](https://github.com/CleverRaven/Cataclysm-DDA/pull/87858))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-02-0157 ([0a9249d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-02-0157))
+
+* [Xedra Evolved] fix heathaze estoc damage  ([#87863](https://github.com/CleverRaven/Cataclysm-DDA/pull/87863))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-01-0912 ([e76c41c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0912))
 
 * Feeling sleepy message is now colored red ([#87746](https://github.com/CleverRaven/Cataclysm-DDA/pull/87746))
@@ -161,25 +180,10 @@
 #### Cataclysm-DDA experimental build 2026-06-27-0445 ([cad7a33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-0445))
 
 * [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow ([#87811](https://github.com/CleverRaven/Cataclysm-DDA/pull/87811))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-27-0139 ([0983fbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-0139))
-
 * [MoM] The Hounds can twist your Extended Stride and keep up ([#87808](https://github.com/CleverRaven/Cataclysm-DDA/pull/87808))
 * Remove several 'Hub-01' with the standardized name 'Hub 01' ([#87805](https://github.com/CleverRaven/Cataclysm-DDA/pull/87805))
 * Some `a shadow?` attacked survivor camp mapgen ([#87809](https://github.com/CleverRaven/Cataclysm-DDA/pull/87809))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-26-2353 ([d250a5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-2353))
-
 * [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage ([#87810](https://github.com/CleverRaven/Cataclysm-DDA/pull/87810))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-26-2129 ([f9b8baa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-26-2129))
-
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
 * [Xedra Evolved] Add more changeling glamours ([#87735](https://github.com/CleverRaven/Cataclysm-DDA/pull/87735))
 * The spell "Lucid Dreams" in Xedra Evolved has unexpected effects on weariness ([#87761](https://github.com/CleverRaven/Cataclysm-DDA/pull/87761))
@@ -227,8 +231,4 @@
 * Fix pixel minimap grid lines and GCC9 build ([#87701](https://github.com/CleverRaven/Cataclysm-DDA/pull/87701))
 * String dimension connect group ([#87692](https://github.com/CleverRaven/Cataclysm-DDA/pull/87692))
 * [Magiclysm] Fix last mage on earth shelter not spawning the entrance chunk ([#87698](https://github.com/CleverRaven/Cataclysm-DDA/pull/87698))
-* Android: virtual keyboard ownership and character creator shortcut bar ([#87687](https://github.com/CleverRaven/Cataclysm-DDA/pull/87687))
-* Labyrinth computers modify furniture `n_` vals before mapgen updates ([#87689](https://github.com/CleverRaven/Cataclysm-DDA/pull/87689))
-* Backport #82931 to 0.I ([#87690](https://github.com/CleverRaven/Cataclysm-DDA/pull/87690))
 * Fix Zone Crashes re #82524 ([#87691](https://github.com/CleverRaven/Cataclysm-DDA/pull/87691))
-* Fix - Saltpeter Powder Spawning Multiple Containers containing 1 unit each ([#87686](https://github.com/CleverRaven/Cataclysm-DDA/pull/87686))
