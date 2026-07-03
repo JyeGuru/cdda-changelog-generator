@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-03-2120 (69df2e4)
+* [Hunvre] Loading screens (#87873)
+
 Cataclysm-DDA experimental build 2026-07-03-0519 (13492eb)
 * Fix random zeds/ferals having no loot (#87826)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-06-27-2236 (ef1b2a0)
 
 Cataclysm-DDA experimental build 2026-06-27-1533 (487560f)
 * docs (#87752)
-
-Cataclysm-DDA experimental build 2026-06-27-1015 (95c4e03)
 * Exodii-Free Merchants trade, and a mission to negotiate it (#87794)
 * [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness (#87770)
 * Adjust translations of debug_console.cpp (#87797)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2026-06-27-1015 (95c4e03)
 * [Xedra Evolved] Regularize changeling goblin fruit glamours (#87715)
 * [Xedra Evolved] Rework changeling advancement (#87710)
 * [Xedra Evolved] Fix bearskin problems (#87709)
-* [MoM: Psychic Scream] Disable recurring power learning/awakening EoCs (#87694)
 * [XedraWood] The Wise are literate, start with hedge magic recipes (#87696)
 * Allow 1L Copper Ingots to be made with Copper (#87697)
 * Zero cost spells remain zero cost even if encumbered (#87705)

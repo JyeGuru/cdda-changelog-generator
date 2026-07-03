@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-03-2120 ([69df2e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-03-2120))
+
+* [Hunvre] Loading screens ([#87873](https://github.com/CleverRaven/Cataclysm-DDA/pull/87873))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-03-0519 ([13492eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-03-0519))
 
 * Fix random zeds/ferals having no loot ([#87826](https://github.com/CleverRaven/Cataclysm-DDA/pull/87826))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-06-27-1533 ([487560f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-1533))
 
 * docs ([#87752](https://github.com/CleverRaven/Cataclysm-DDA/pull/87752))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-27-1015 ([95c4e03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-1015))
-
 * Exodii-Free Merchants trade, and a mission to negotiate it ([#87794](https://github.com/CleverRaven/Cataclysm-DDA/pull/87794))
 * [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness ([#87770](https://github.com/CleverRaven/Cataclysm-DDA/pull/87770))
 * Adjust translations of debug_console.cpp ([#87797](https://github.com/CleverRaven/Cataclysm-DDA/pull/87797))
@@ -217,7 +218,6 @@
 * [Xedra Evolved] Regularize changeling goblin fruit glamours ([#87715](https://github.com/CleverRaven/Cataclysm-DDA/pull/87715))
 * [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
 * [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
-* [MoM: Psychic Scream] Disable recurring power learning/awakening EoCs ([#87694](https://github.com/CleverRaven/Cataclysm-DDA/pull/87694))
 * [XedraWood] The Wise are literate, start with hedge magic recipes ([#87696](https://github.com/CleverRaven/Cataclysm-DDA/pull/87696))
 * Allow 1L Copper Ingots to be made with Copper ([#87697](https://github.com/CleverRaven/Cataclysm-DDA/pull/87697))
 * Zero cost spells remain zero cost even if encumbered ([#87705](https://github.com/CleverRaven/Cataclysm-DDA/pull/87705))
