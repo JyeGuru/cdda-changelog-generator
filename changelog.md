@@ -1,3 +1,10 @@
+* Fix random zeds/ferals having no loot ([#87826](https://github.com/CleverRaven/Cataclysm-DDA/pull/87826))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-03-0425 ([a2ea0ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-03-0425))
+
+* Kelvar is now fireproof ([#87859](https://github.com/CleverRaven/Cataclysm-DDA/pull/87859))
 
 ---
 
@@ -168,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-06-27-0705 ([85663c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-0705))
 
 * [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness ([#87770](https://github.com/CleverRaven/Cataclysm-DDA/pull/87770))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-27-0520 ([becc577](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-0520))
-
 * Adjust translations of debug_console.cpp ([#87797](https://github.com/CleverRaven/Cataclysm-DDA/pull/87797))
 * [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow ([#87811](https://github.com/CleverRaven/Cataclysm-DDA/pull/87811))
 * [MoM] The Hounds can twist your Extended Stride and keep up ([#87808](https://github.com/CleverRaven/Cataclysm-DDA/pull/87808))
@@ -224,6 +226,4 @@
 * Check for conflicting plural forms of strings ([#87702](https://github.com/CleverRaven/Cataclysm-DDA/pull/87702))
 * Spore dust warning ([#87703](https://github.com/CleverRaven/Cataclysm-DDA/pull/87703))
 * Fix pixel minimap grid lines and GCC9 build ([#87701](https://github.com/CleverRaven/Cataclysm-DDA/pull/87701))
-* String dimension connect group ([#87692](https://github.com/CleverRaven/Cataclysm-DDA/pull/87692))
 * [Magiclysm] Fix last mage on earth shelter not spawning the entrance chunk ([#87698](https://github.com/CleverRaven/Cataclysm-DDA/pull/87698))
-* Fix Zone Crashes re #82524 ([#87691](https://github.com/CleverRaven/Cataclysm-DDA/pull/87691))

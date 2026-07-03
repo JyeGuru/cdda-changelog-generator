@@ -1,3 +1,7 @@
+* Fix random zeds/ferals having no loot (#87826)
+
+Cataclysm-DDA experimental build 2026-07-03-0425 (a2ea0ff)
+* Kelvar is now fireproof (#87859)
 
 Cataclysm-DDA experimental build 2026-07-02-0440 (c444049)
 * Fix nanomaterial spawns in sarcophagus, and tower and terrain manufactured (#87844)
@@ -87,8 +91,6 @@ Cataclysm-DDA experimental build 2026-06-27-1015 (95c4e03)
 
 Cataclysm-DDA experimental build 2026-06-27-0705 (85663c8)
 * [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness (#87770)
-
-Cataclysm-DDA experimental build 2026-06-27-0520 (becc577)
 * Adjust translations of debug_console.cpp (#87797)
 * [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow (#87811)
 * [MoM] The Hounds can twist your Extended Stride and keep up (#87808)
@@ -140,6 +142,4 @@ Cataclysm-DDA experimental build 2026-06-27-0520 (becc577)
 * Check for conflicting plural forms of strings (#87702)
 * Spore dust warning (#87703)
 * Fix pixel minimap grid lines and GCC9 build (#87701)
-* String dimension connect group (#87692)
 * [Magiclysm] Fix last mage on earth shelter not spawning the entrance chunk (#87698)
-* Fix Zone Crashes re #82524 (#87691)
