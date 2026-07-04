@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-04-1534 ([f3752a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-04-1534))
+
 * Guard NPC loading nonexistent faction ([#87875](https://github.com/CleverRaven/Cataclysm-DDA/pull/87875))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-06-27-2236 ([ef1b2a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-2236))
 
 * Ash weight and volume adjustments ([#87719](https://github.com/CleverRaven/Cataclysm-DDA/pull/87719))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-27-1533 ([487560f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-27-1533))
-
 * docs ([#87752](https://github.com/CleverRaven/Cataclysm-DDA/pull/87752))
 * Exodii-Free Merchants trade, and a mission to negotiate it ([#87794](https://github.com/CleverRaven/Cataclysm-DDA/pull/87794))
 * [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness ([#87770](https://github.com/CleverRaven/Cataclysm-DDA/pull/87770))
