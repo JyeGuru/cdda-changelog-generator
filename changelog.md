@@ -1,3 +1,10 @@
+* Guard NPC loading nonexistent faction ([#87875](https://github.com/CleverRaven/Cataclysm-DDA/pull/87875))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-04-1450 ([6891654](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-04-1450))
+
+* [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
 
 ---
 
@@ -218,8 +225,6 @@
 * [Xedra Evolved] Regularize changeling goblin fruit glamours ([#87715](https://github.com/CleverRaven/Cataclysm-DDA/pull/87715))
 * [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
 * [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
-* [XedraWood] The Wise are literate, start with hedge magic recipes ([#87696](https://github.com/CleverRaven/Cataclysm-DDA/pull/87696))
-* Allow 1L Copper Ingots to be made with Copper ([#87697](https://github.com/CleverRaven/Cataclysm-DDA/pull/87697))
 * Zero cost spells remain zero cost even if encumbered ([#87705](https://github.com/CleverRaven/Cataclysm-DDA/pull/87705))
 * [Magiclysm] No ferals in the Last Mage on Earth shelter ([#87704](https://github.com/CleverRaven/Cataclysm-DDA/pull/87704))
 * [XE] Fix the fruit's music lasting forever. ([#87699](https://github.com/CleverRaven/Cataclysm-DDA/pull/87699))

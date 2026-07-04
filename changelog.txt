@@ -1,3 +1,7 @@
+* Guard NPC loading nonexistent faction (#87875)
+
+Cataclysm-DDA experimental build 2026-07-04-1450 (6891654)
+* [DinoMod] remove healthy from eggs (#87881)
 
 Cataclysm-DDA experimental build 2026-07-03-2120 (69df2e4)
 * [Hunvre] Loading screens (#87873)
@@ -134,8 +138,6 @@ Cataclysm-DDA experimental build 2026-06-27-1533 (487560f)
 * [Xedra Evolved] Regularize changeling goblin fruit glamours (#87715)
 * [Xedra Evolved] Rework changeling advancement (#87710)
 * [Xedra Evolved] Fix bearskin problems (#87709)
-* [XedraWood] The Wise are literate, start with hedge magic recipes (#87696)
-* Allow 1L Copper Ingots to be made with Copper (#87697)
 * Zero cost spells remain zero cost even if encumbered (#87705)
 * [Magiclysm] No ferals in the Last Mage on Earth shelter (#87704)
 * [XE] Fix the fruit's music lasting forever. (#87699)
