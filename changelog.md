@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-05-1832 ([b041ed2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-1832))
+
+* [Xedra Evolved] Lilin only attack you in the main dimension ([#87902](https://github.com/CleverRaven/Cataclysm-DDA/pull/87902))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-05-1556 ([ab48618](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-1556))
 
 * Display detergent by weight ([#87900](https://github.com/CleverRaven/Cataclysm-DDA/pull/87900))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-06-29-1324 ([bc8241d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-29-1324))
 
 * Inventory organization crashes/freezes fixes ([#87795](https://github.com/CleverRaven/Cataclysm-DDA/pull/87795))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-29-0729 ([62287ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-29-0729))
-
 * Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
 * [XedraWood] Add giant serpents, add map extra giant serpent nest ([#87831](https://github.com/CleverRaven/Cataclysm-DDA/pull/87831))
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
@@ -230,4 +231,3 @@
 * fix: Crash in any ImGui window on alt + F4 ([#87717](https://github.com/CleverRaven/Cataclysm-DDA/pull/87717))
 * AIM hide action menu ([#87713](https://github.com/CleverRaven/Cataclysm-DDA/pull/87713))
 * [Xedra Evolved] Regularize changeling goblin fruit glamours ([#87715](https://github.com/CleverRaven/Cataclysm-DDA/pull/87715))
-* [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
