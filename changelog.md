@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-05-1415 ([79514d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-1415))
+
+* Can't target practice in the dark ([#87898](https://github.com/CleverRaven/Cataclysm-DDA/pull/87898))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-05-0459 ([eb2186b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-0459))
 
 * wish.cpp: fix hint, desc width; add scroll; keep ?success msg ([#87867](https://github.com/CleverRaven/Cataclysm-DDA/pull/87867))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-06-28-1826 ([cf3f2e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-28-1826))
 
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-28-0628 ([0ed7186](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-28-0628))
-
 * Reduce the price of some items and adjust the spring data ([#87726](https://github.com/CleverRaven/Cataclysm-DDA/pull/87726))
 * Fix few issues in crafting ([#87823](https://github.com/CleverRaven/Cataclysm-DDA/pull/87823))
 * [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
@@ -230,4 +231,3 @@
 * [Xedra Evolved] Rework changeling advancement ([#87710](https://github.com/CleverRaven/Cataclysm-DDA/pull/87710))
 * [Xedra Evolved] Fix bearskin problems ([#87709](https://github.com/CleverRaven/Cataclysm-DDA/pull/87709))
 * Zero cost spells remain zero cost even if encumbered ([#87705](https://github.com/CleverRaven/Cataclysm-DDA/pull/87705))
-* [Magiclysm] No ferals in the Last Mage on Earth shelter ([#87704](https://github.com/CleverRaven/Cataclysm-DDA/pull/87704))
