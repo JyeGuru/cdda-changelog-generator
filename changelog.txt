@@ -1,3 +1,7 @@
+* Display detergent by weight (#87900)
+
+Cataclysm-DDA experimental build 2026-07-05-1512 (3987ae8)
+* put bleach in bottles properly, add "display_type": "BY_VOLUME" (#87897)
 
 Cataclysm-DDA experimental build 2026-07-05-1415 (79514d4)
 * Can't target practice in the dark (#87898)
@@ -88,8 +92,6 @@ Cataclysm-DDA experimental build 2026-06-29-0729 (62287ab)
 
 Cataclysm-DDA experimental build 2026-06-29-0615 (2786763)
 * [XedraWood] Add giant serpents, add map extra giant serpent nest (#87831)
-
-Cataclysm-DDA experimental build 2026-06-28-1826 (cf3f2e9)
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold (#87827)
 * Reduce the price of some items and adjust the spring data (#87726)
 * Fix few issues in crafting (#87823)
@@ -142,5 +144,3 @@ Cataclysm-DDA experimental build 2026-06-28-1826 (cf3f2e9)
 * AIM hide action menu (#87713)
 * [Xedra Evolved] Regularize changeling goblin fruit glamours (#87715)
 * [Xedra Evolved] Rework changeling advancement (#87710)
-* [Xedra Evolved] Fix bearskin problems (#87709)
-* Zero cost spells remain zero cost even if encumbered (#87705)
