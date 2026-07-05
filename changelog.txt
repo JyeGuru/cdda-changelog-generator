@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-05-2153 (23c0e71)
 * Aftershock: Ipav patch kits and make welding goggles for sale. (#87893)
 * Add the lagomorph gland to extra_mut_scen (#87896)
 * fix mine having million billion sacks with 1 sand or 1 soil (#87899)
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2026-06-30-0301 (756c3e8)
 
 Cataclysm-DDA experimental build 2026-06-30-0209 (1a76624)
 * Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings (#87832)
-
-Cataclysm-DDA experimental build 2026-06-30-0108 (43a8b01)
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell (#87841)
 * Inventory organization crashes/freezes fixes (#87795)
 * Update broth recipes and various soups (#87829)

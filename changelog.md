@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-05-2153 ([23c0e71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-2153))
+
 * Aftershock: Ipav patch kits and make welding goggles for sale. ([#87893](https://github.com/CleverRaven/Cataclysm-DDA/pull/87893))
 * Add the lagomorph gland to extra_mut_scen ([#87896](https://github.com/CleverRaven/Cataclysm-DDA/pull/87896))
 * fix mine having million billion sacks with 1 sand or 1 soil ([#87899](https://github.com/CleverRaven/Cataclysm-DDA/pull/87899))
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-06-30-0209 ([1a76624](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0209))
 
 * Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings ([#87832](https://github.com/CleverRaven/Cataclysm-DDA/pull/87832))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-30-0108 ([43a8b01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0108))
-
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
 * Inventory organization crashes/freezes fixes ([#87795](https://github.com/CleverRaven/Cataclysm-DDA/pull/87795))
 * Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
