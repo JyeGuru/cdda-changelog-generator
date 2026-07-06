@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-06-1922 ([4f5c80d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1922))
+
 * [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-07-01-0213 ([4e5879d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0213))
 
 * In roll_melee_damage_internal(), fix an armor penetration bug and an inaccurate comment. ([#87819](https://github.com/CleverRaven/Cataclysm-DDA/pull/87819))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-01-0119 ([5dd18da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0119))
-
 * make Stiltwalker lowercase ([#87848](https://github.com/CleverRaven/Cataclysm-DDA/pull/87848))
 * Break monster grab if the monster was flung away ([#87853](https://github.com/CleverRaven/Cataclysm-DDA/pull/87853))
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition ([#87843](https://github.com/CleverRaven/Cataclysm-DDA/pull/87843))

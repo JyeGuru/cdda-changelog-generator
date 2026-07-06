@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-06-1922 (4f5c80d)
 * [MoM] Increase channeling time for extremely fast powers (#87913)
 
 Cataclysm-DDA experimental build 2026-07-06-1727 (fc42c04)
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2026-07-01-0407 (8371507)
 
 Cataclysm-DDA experimental build 2026-07-01-0213 (4e5879d)
 * In roll_melee_damage_internal(), fix an armor penetration bug and an inaccurate comment. (#87819)
-
-Cataclysm-DDA experimental build 2026-07-01-0119 (5dd18da)
 * make Stiltwalker lowercase (#87848)
 * Break monster grab if the monster was flung away (#87853)
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition (#87843)
