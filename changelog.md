@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-06-0354 ([eab68bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0354))
+
+* [MoM] Psychic Knacks also gain bonuses from wielding matrix cryrstals ([#87869](https://github.com/CleverRaven/Cataclysm-DDA/pull/87869))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-06-0305 ([feb4a85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0305))
+
+* Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-06-0218 ([e305b6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0218))
+
+* [XEDRA Evolved] Summer March Lord's bright light ([#87905](https://github.com/CleverRaven/Cataclysm-DDA/pull/87905))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-05-2153 ([23c0e71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-2153))
 
 * Aftershock: Ipav patch kits and make welding goggles for sale. ([#87893](https://github.com/CleverRaven/Cataclysm-DDA/pull/87893))
@@ -162,23 +180,8 @@
 
 * Weekly Changelog 2026-06-22 to 2026-06-29 ([#87836](https://github.com/CleverRaven/Cataclysm-DDA/pull/87836))
 * [ Xedra Evolved ] Blood drinking and the state of being a vampire ([#87838](https://github.com/CleverRaven/Cataclysm-DDA/pull/87838))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-30-0521 ([30cfaf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0521))
-
 * Fix fractional DoT displays ([#87842](https://github.com/CleverRaven/Cataclysm-DDA/pull/87842))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-30-0301 ([756c3e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0301))
-
 * Typo fixes ([#87834](https://github.com/CleverRaven/Cataclysm-DDA/pull/87834))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-30-0209 ([1a76624](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0209))
-
 * Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings ([#87832](https://github.com/CleverRaven/Cataclysm-DDA/pull/87832))
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
 * Inventory organization crashes/freezes fixes ([#87795](https://github.com/CleverRaven/Cataclysm-DDA/pull/87795))
@@ -191,7 +194,6 @@
 * Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
 * Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
 * Tactical-Backpacks-are-made-of-nylon-not-leather ([#87779](https://github.com/CleverRaven/Cataclysm-DDA/pull/87779))
-* Ash weight and volume adjustments ([#87719](https://github.com/CleverRaven/Cataclysm-DDA/pull/87719))
 * docs ([#87752](https://github.com/CleverRaven/Cataclysm-DDA/pull/87752))
 * Exodii-Free Merchants trade, and a mission to negotiate it ([#87794](https://github.com/CleverRaven/Cataclysm-DDA/pull/87794))
 * [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness ([#87770](https://github.com/CleverRaven/Cataclysm-DDA/pull/87770))
@@ -230,5 +232,3 @@
 * Updated ingot recipes with steps and realistic power ([#87723](https://github.com/CleverRaven/Cataclysm-DDA/pull/87723))
 * Remove `NO_RELOAD` off small spool and wire spool ([#87727](https://github.com/CleverRaven/Cataclysm-DDA/pull/87727))
 * Update Labeler (CR) ([#87721](https://github.com/CleverRaven/Cataclysm-DDA/pull/87721))
-* Revert "fix: Crash in any ImGui window on alt + F4" ([#87720](https://github.com/CleverRaven/Cataclysm-DDA/pull/87720))
-* fix: Crash in any ImGui window on alt + F4 ([#87717](https://github.com/CleverRaven/Cataclysm-DDA/pull/87717))
