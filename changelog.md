@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-06-0612 ([764a641](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0612))
+
+* Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-06-0354 ([eab68bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0354))
 
 * [MoM] Psychic Knacks also gain bonuses from wielding matrix cryrstals ([#87869](https://github.com/CleverRaven/Cataclysm-DDA/pull/87869))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-06-30-2033 ([2c5f426](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-2033))
 
 * Remove radioactivity from toxic waste dump map extra ([#87852](https://github.com/CleverRaven/Cataclysm-DDA/pull/87852))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-30-0611 ([566fde9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-0611))
-
 * Weekly Changelog 2026-06-22 to 2026-06-29 ([#87836](https://github.com/CleverRaven/Cataclysm-DDA/pull/87836))
 * [ Xedra Evolved ] Blood drinking and the state of being a vampire ([#87838](https://github.com/CleverRaven/Cataclysm-DDA/pull/87838))
 * Fix fractional DoT displays ([#87842](https://github.com/CleverRaven/Cataclysm-DDA/pull/87842))
@@ -231,4 +232,3 @@
 * fix(mods/Perk_melee): init perk menu for switched NPC ([#87733](https://github.com/CleverRaven/Cataclysm-DDA/pull/87733))
 * Updated ingot recipes with steps and realistic power ([#87723](https://github.com/CleverRaven/Cataclysm-DDA/pull/87723))
 * Remove `NO_RELOAD` off small spool and wire spool ([#87727](https://github.com/CleverRaven/Cataclysm-DDA/pull/87727))
-* Update Labeler (CR) ([#87721](https://github.com/CleverRaven/Cataclysm-DDA/pull/87721))
