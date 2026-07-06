@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-06-1046 ([d3c06f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1046))
+
+* Fix grammar in Advanced Game Design textbook description ([#87884](https://github.com/CleverRaven/Cataclysm-DDA/pull/87884))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-06-0612 ([764a641](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0612))
 
 * Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-06-30-2119 ([4af07d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-2119))
 
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition ([#87843](https://github.com/CleverRaven/Cataclysm-DDA/pull/87843))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-30-2033 ([2c5f426](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-2033))
-
 * Remove radioactivity from toxic waste dump map extra ([#87852](https://github.com/CleverRaven/Cataclysm-DDA/pull/87852))
 * Weekly Changelog 2026-06-22 to 2026-06-29 ([#87836](https://github.com/CleverRaven/Cataclysm-DDA/pull/87836))
 * [ Xedra Evolved ] Blood drinking and the state of being a vampire ([#87838](https://github.com/CleverRaven/Cataclysm-DDA/pull/87838))
@@ -220,7 +221,6 @@
 * Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
 * Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
-* Fix some typos ([#87722](https://github.com/CleverRaven/Cataclysm-DDA/pull/87722))
 * fix missing break ([#87756](https://github.com/CleverRaven/Cataclysm-DDA/pull/87756))
 * Car/motorbike batteries are no longer an obstacle ([#87738](https://github.com/CleverRaven/Cataclysm-DDA/pull/87738))
 * Renamed `gas mask cartridge` to `CBRN filter canister` in flag name ([#87741](https://github.com/CleverRaven/Cataclysm-DDA/pull/87741))
