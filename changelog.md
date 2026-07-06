@@ -1,3 +1,17 @@
+* [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-06-1727 ([fc42c04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1727))
+
+* Updated `looks_like` for a set of armor ([#87910](https://github.com/CleverRaven/Cataclysm-DDA/pull/87910))
+* Print fungus bristle attack message only if playes sees the attacker ([#87911](https://github.com/CleverRaven/Cataclysm-DDA/pull/87911))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-06-1634 ([5230a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1634))
+
+* Make reading_light rechargeable ([#87912](https://github.com/CleverRaven/Cataclysm-DDA/pull/87912))
 
 ---
 
@@ -167,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-07-01-0119 ([5dd18da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0119))
 
 * make Stiltwalker lowercase ([#87848](https://github.com/CleverRaven/Cataclysm-DDA/pull/87848))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-30-2347 ([754f4e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-2347))
-
 * Break monster grab if the monster was flung away ([#87853](https://github.com/CleverRaven/Cataclysm-DDA/pull/87853))
-
----
-
-#### Cataclysm-DDA experimental build 2026-06-30-2119 ([4af07d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-06-30-2119))
-
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition ([#87843](https://github.com/CleverRaven/Cataclysm-DDA/pull/87843))
 * Remove radioactivity from toxic waste dump map extra ([#87852](https://github.com/CleverRaven/Cataclysm-DDA/pull/87852))
 * Weekly Changelog 2026-06-22 to 2026-06-29 ([#87836](https://github.com/CleverRaven/Cataclysm-DDA/pull/87836))
@@ -190,7 +194,6 @@
 * Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
 * [XedraWood] Add giant serpents, add map extra giant serpent nest ([#87831](https://github.com/CleverRaven/Cataclysm-DDA/pull/87831))
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
-* Reduce the price of some items and adjust the spring data ([#87726](https://github.com/CleverRaven/Cataclysm-DDA/pull/87726))
 * Fix few issues in crafting ([#87823](https://github.com/CleverRaven/Cataclysm-DDA/pull/87823))
 * [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
 * Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
@@ -229,6 +232,3 @@
 * Weekly Changelog 2026-06-15 to 2026-06-22 ([#87745](https://github.com/CleverRaven/Cataclysm-DDA/pull/87745))
 * Worn flotation vest won't let you drown anymore ([#87747](https://github.com/CleverRaven/Cataclysm-DDA/pull/87747))
 * Monster teeth traps now trigger `caltrops` trap function ([#87742](https://github.com/CleverRaven/Cataclysm-DDA/pull/87742))
-* fix(mods/Perk_melee): init perk menu for switched NPC ([#87733](https://github.com/CleverRaven/Cataclysm-DDA/pull/87733))
-* Updated ingot recipes with steps and realistic power ([#87723](https://github.com/CleverRaven/Cataclysm-DDA/pull/87723))
-* Remove `NO_RELOAD` off small spool and wire spool ([#87727](https://github.com/CleverRaven/Cataclysm-DDA/pull/87727))
