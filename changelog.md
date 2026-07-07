@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-07-0250 ([c689a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0250))
+
+* [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-07-0206 ([b94c222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0206))
+
+* Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-06-1922 ([4f5c80d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1922))
 
 * [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
@@ -168,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2026-07-01-0817 ([7d0f610](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0817))
 
 * [Xedra Evolved] Fix werewolf claw attacks ([#87857](https://github.com/CleverRaven/Cataclysm-DDA/pull/87857))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-01-0407 ([8371507](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0407))
-
 * Text fixes and devtool update ([#87845](https://github.com/CleverRaven/Cataclysm-DDA/pull/87845))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-01-0213 ([4e5879d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0213))
-
 * In roll_melee_damage_internal(), fix an armor penetration bug and an inaccurate comment. ([#87819](https://github.com/CleverRaven/Cataclysm-DDA/pull/87819))
 * make Stiltwalker lowercase ([#87848](https://github.com/CleverRaven/Cataclysm-DDA/pull/87848))
 * Break monster grab if the monster was flung away ([#87853](https://github.com/CleverRaven/Cataclysm-DDA/pull/87853))
@@ -209,7 +211,6 @@
 * Some `a shadow?` attacked survivor camp mapgen ([#87809](https://github.com/CleverRaven/Cataclysm-DDA/pull/87809))
 * [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage ([#87810](https://github.com/CleverRaven/Cataclysm-DDA/pull/87810))
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
-* [Xedra Evolved] Add more changeling glamours ([#87735](https://github.com/CleverRaven/Cataclysm-DDA/pull/87735))
 * The spell "Lucid Dreams" in Xedra Evolved has unexpected effects on weariness ([#87761](https://github.com/CleverRaven/Cataclysm-DDA/pull/87761))
 * Add TM 31-210 Improvised Munitions Handbook ([#87796](https://github.com/CleverRaven/Cataclysm-DDA/pull/87796))
 * [MoM] Turn telekinetic matrix crystals into artifacts ([#87799](https://github.com/CleverRaven/Cataclysm-DDA/pull/87799))
@@ -225,7 +226,6 @@
 * Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
 * fix missing break ([#87756](https://github.com/CleverRaven/Cataclysm-DDA/pull/87756))
-* Car/motorbike batteries are no longer an obstacle ([#87738](https://github.com/CleverRaven/Cataclysm-DDA/pull/87738))
 * Renamed `gas mask cartridge` to `CBRN filter canister` in flag name ([#87741](https://github.com/CleverRaven/Cataclysm-DDA/pull/87741))
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
 * [Xedra Evolved] Update March Lords ([#87744](https://github.com/CleverRaven/Cataclysm-DDA/pull/87744))

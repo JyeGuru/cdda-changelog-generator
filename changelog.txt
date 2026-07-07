@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-07-07-0250 (c689a81)
+* [Xedra Evolved] Moons tears repair updates (#87914)
+
+Cataclysm-DDA experimental build 2026-07-07-0206 (b94c222)
+* Fix mod random encounter removal (#87915)
+
 Cataclysm-DDA experimental build 2026-07-06-1922 (4f5c80d)
 * [MoM] Increase channeling time for extremely fast powers (#87913)
 
@@ -87,11 +93,7 @@ Cataclysm-DDA experimental build 2026-07-01-0912 (e76c41c)
 
 Cataclysm-DDA experimental build 2026-07-01-0817 (7d0f610)
 * [Xedra Evolved] Fix werewolf claw attacks (#87857)
-
-Cataclysm-DDA experimental build 2026-07-01-0407 (8371507)
 * Text fixes and devtool update (#87845)
-
-Cataclysm-DDA experimental build 2026-07-01-0213 (4e5879d)
 * In roll_melee_damage_internal(), fix an armor penetration bug and an inaccurate comment. (#87819)
 * make Stiltwalker lowercase (#87848)
 * Break monster grab if the monster was flung away (#87853)
@@ -122,7 +124,6 @@ Cataclysm-DDA experimental build 2026-07-01-0213 (4e5879d)
 * Some `a shadow?` attacked survivor camp mapgen (#87809)
 * [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage (#87810)
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced (#87806)
-* [Xedra Evolved] Add more changeling glamours (#87735)
 * The spell "Lucid Dreams" in Xedra Evolved has unexpected effects on weariness (#87761)
 * Add TM 31-210 Improvised Munitions Handbook (#87796)
 * [MoM] Turn telekinetic matrix crystals into artifacts (#87799)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2026-07-01-0213 (4e5879d)
 * Total Conversion not content pack XedraWood (#87763)
 * Unique mobs shouldn't be hallucinatable (#87766)
 * fix missing break (#87756)
-* Car/motorbike batteries are no longer an obstacle (#87738)
 * Renamed `gas mask cartridge` to `CBRN filter canister` in flag name (#87741)
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter (#87759)
 * [Xedra Evolved] Update March Lords (#87744)
