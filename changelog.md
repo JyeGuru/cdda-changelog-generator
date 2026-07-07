@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-07-0829 ([7366c1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0829))
+
+* Add `has_wielded_with_flag` as a jmath condition, use in MoM ([#87908](https://github.com/CleverRaven/Cataclysm-DDA/pull/87908))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-07-0250 ([c689a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0250))
 
 * [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
@@ -174,11 +180,6 @@
 * [ Xedra Evolved ] Infected Vampire Chronomancers stop gaining Insight ([#87837](https://github.com/CleverRaven/Cataclysm-DDA/pull/87837))
 * Changed accepted battery type for hologram cloak from light to medium ([#87854](https://github.com/CleverRaven/Cataclysm-DDA/pull/87854))
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift ([#87856](https://github.com/CleverRaven/Cataclysm-DDA/pull/87856))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-01-0817 ([7d0f610](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0817))
-
 * [Xedra Evolved] Fix werewolf claw attacks ([#87857](https://github.com/CleverRaven/Cataclysm-DDA/pull/87857))
 * Text fixes and devtool update ([#87845](https://github.com/CleverRaven/Cataclysm-DDA/pull/87845))
 * In roll_melee_damage_internal(), fix an armor penetration bug and an inaccurate comment. ([#87819](https://github.com/CleverRaven/Cataclysm-DDA/pull/87819))
