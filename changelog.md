@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-08-0542 ([4978ef8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-0542))
+
+* Weekly Changelog 2026-06-29 to 2026-07-06 ([#87909](https://github.com/CleverRaven/Cataclysm-DDA/pull/87909))
+* Update survivor_notes.json ([#87925](https://github.com/CleverRaven/Cataclysm-DDA/pull/87925))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-08-0501 ([46dc145](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-0501))
+
+* Added immunity to burning and high heat resistance to ballistic kevlar and rigid kevlar ([#87888](https://github.com/CleverRaven/Cataclysm-DDA/pull/87888))
+* Revert death vars changes ([#87919](https://github.com/CleverRaven/Cataclysm-DDA/pull/87919))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-08-0408 ([383dc94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-0408))
+
+* Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-07-0829 ([7366c1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0829))
 
 * Add `has_wielded_with_flag` as a jmath condition, use in MoM ([#87908](https://github.com/CleverRaven/Cataclysm-DDA/pull/87908))
@@ -159,24 +179,8 @@
 
 * Fix nanomaterial spawns in sarcophagus, and tower and terrain manufactured ([#87844](https://github.com/CleverRaven/Cataclysm-DDA/pull/87844))
 * Fix pipebomb typos ([#87855](https://github.com/CleverRaven/Cataclysm-DDA/pull/87855))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-02-0353 ([7612ba0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-02-0353))
-
 * Boxer shorts are now 0.1mm thick ([#87858](https://github.com/CleverRaven/Cataclysm-DDA/pull/87858))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-02-0157 ([0a9249d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-02-0157))
-
 * [Xedra Evolved] fix heathaze estoc damage  ([#87863](https://github.com/CleverRaven/Cataclysm-DDA/pull/87863))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-01-0912 ([e76c41c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-01-0912))
-
-* Feeling sleepy message is now colored red ([#87746](https://github.com/CleverRaven/Cataclysm-DDA/pull/87746))
 * [ Xedra Evolved ] Infected Vampire Chronomancers stop gaining Insight ([#87837](https://github.com/CleverRaven/Cataclysm-DDA/pull/87837))
 * Changed accepted battery type for hologram cloak from light to medium ([#87854](https://github.com/CleverRaven/Cataclysm-DDA/pull/87854))
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift ([#87856](https://github.com/CleverRaven/Cataclysm-DDA/pull/87856))
@@ -227,9 +231,5 @@
 * Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
 * fix missing break ([#87756](https://github.com/CleverRaven/Cataclysm-DDA/pull/87756))
-* Renamed `gas mask cartridge` to `CBRN filter canister` in flag name ([#87741](https://github.com/CleverRaven/Cataclysm-DDA/pull/87741))
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
-* [Xedra Evolved] Update March Lords ([#87744](https://github.com/CleverRaven/Cataclysm-DDA/pull/87744))
-* Weekly Changelog 2026-06-15 to 2026-06-22 ([#87745](https://github.com/CleverRaven/Cataclysm-DDA/pull/87745))
 * Worn flotation vest won't let you drown anymore ([#87747](https://github.com/CleverRaven/Cataclysm-DDA/pull/87747))
-* Monster teeth traps now trigger `caltrops` trap function ([#87742](https://github.com/CleverRaven/Cataclysm-DDA/pull/87742))
