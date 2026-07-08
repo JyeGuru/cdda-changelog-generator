@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-08-1857 (eeee688)
+* Put ammonia hydroxide in bottles (#87929)
+
 Cataclysm-DDA experimental build 2026-07-08-1630 (ce13601)
 * [ Xedra Evolved ] Faewild addiction (#87895)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2026-07-04-1450 (6891654)
 
 Cataclysm-DDA experimental build 2026-07-03-2120 (69df2e4)
 * [Hunvre] Loading screens (#87873)
-
-Cataclysm-DDA experimental build 2026-07-03-0519 (13492eb)
 * Fix random zeds/ferals having no loot (#87826)
 * Kelvar is now fireproof (#87859)
 * Fix nanomaterial spawns in sarcophagus, and tower and terrain manufactured (#87844)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2026-07-03-0519 (13492eb)
 * [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift (#87773)
 * [Xedra Evolved] Fix tender animal feet (#87777)
 * [XedraWood] Refactor random encounter EoCs to make it XedraWood unique (#87758)
-* rm dead code (#87753)
 * [Xedra Evolved] Fix two March Lord bugs (#87764)
 * Fx stacking elevators to nowhere (#87765)
 * Total Conversion not content pack XedraWood (#87763)
