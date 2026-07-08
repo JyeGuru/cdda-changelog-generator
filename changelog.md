@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-08-1630 ([ce13601](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1630))
+
+* [ Xedra Evolved ] Faewild addiction ([#87895](https://github.com/CleverRaven/Cataclysm-DDA/pull/87895))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-08-1405 ([cd7fa73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1405))
 
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-07-03-0519 ([13492eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-03-0519))
 
 * Fix random zeds/ferals having no loot ([#87826](https://github.com/CleverRaven/Cataclysm-DDA/pull/87826))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-03-0425 ([a2ea0ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-03-0425))
-
 * Kelvar is now fireproof ([#87859](https://github.com/CleverRaven/Cataclysm-DDA/pull/87859))
 * Fix nanomaterial spawns in sarcophagus, and tower and terrain manufactured ([#87844](https://github.com/CleverRaven/Cataclysm-DDA/pull/87844))
 * Fix pipebomb typos ([#87855](https://github.com/CleverRaven/Cataclysm-DDA/pull/87855))
@@ -213,7 +214,6 @@
 * Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
 * Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
 * Tactical-Backpacks-are-made-of-nylon-not-leather ([#87779](https://github.com/CleverRaven/Cataclysm-DDA/pull/87779))
-* docs ([#87752](https://github.com/CleverRaven/Cataclysm-DDA/pull/87752))
 * Exodii-Free Merchants trade, and a mission to negotiate it ([#87794](https://github.com/CleverRaven/Cataclysm-DDA/pull/87794))
 * [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness ([#87770](https://github.com/CleverRaven/Cataclysm-DDA/pull/87770))
 * Adjust translations of debug_console.cpp ([#87797](https://github.com/CleverRaven/Cataclysm-DDA/pull/87797))
