@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-07-08-1405 (cd7fa73)
+* [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour (#87924)
+
+Cataclysm-DDA experimental build 2026-07-08-1313 (4cd8670)
+* [ Xedra Evolved ] Torpor ends normal sleep (#87921)
+
 Cataclysm-DDA experimental build 2026-07-08-0542 (4978ef8)
 * Weekly Changelog 2026-06-29 to 2026-07-06 (#87909)
 * Update survivor_notes.json (#87925)
@@ -88,8 +94,6 @@ Cataclysm-DDA experimental build 2026-07-03-0519 (13492eb)
 
 Cataclysm-DDA experimental build 2026-07-03-0425 (a2ea0ff)
 * Kelvar is now fireproof (#87859)
-
-Cataclysm-DDA experimental build 2026-07-02-0440 (c444049)
 * Fix nanomaterial spawns in sarcophagus, and tower and terrain manufactured (#87844)
 * Fix pipebomb typos (#87855)
 * Boxer shorts are now 0.1mm thick (#87858)
@@ -145,4 +149,3 @@ Cataclysm-DDA experimental build 2026-07-02-0440 (c444049)
 * Unique mobs shouldn't be hallucinatable (#87766)
 * fix missing break (#87756)
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter (#87759)
-* Worn flotation vest won't let you drown anymore (#87747)
