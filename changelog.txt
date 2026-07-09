@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-07-09-1721 (37d65da)
+* Rebalance `homebooks` itemgroups (#87926)
+
+Cataclysm-DDA experimental build 2026-07-09-1634 (8d407b4)
+* update shot and shot410 (#87938)
+
 Cataclysm-DDA experimental build 2026-07-09-1253 (feef2ad)
 * Add disassembly recipes for folded cardboard boxes (#87879)
 
@@ -88,11 +94,7 @@ Cataclysm-DDA experimental build 2026-07-05-0407 (6a49285)
 
 Cataclysm-DDA experimental build 2026-07-04-2217 (1952de9)
 * If we were caught in several bear traps at once, conduct a separate attempt to free for each one (#87886)
-
-Cataclysm-DDA experimental build 2026-07-04-1534 (f3752a0)
 * Guard NPC loading nonexistent faction (#87875)
-
-Cataclysm-DDA experimental build 2026-07-04-1450 (6891654)
 * [DinoMod] remove healthy from eggs (#87881)
 * [Hunvre] Loading screens (#87873)
 * Fix random zeds/ferals having no loot (#87826)
@@ -140,10 +142,8 @@ Cataclysm-DDA experimental build 2026-07-04-1450 (6891654)
 * [MoM] Turn telekinetic matrix crystals into artifacts (#87799)
 * [Xedra Evolved] Some random encounter tweaking (#87800)
 * [MoM] Monster psions can use Physical Enhancement (#87790)
-* instead of adding a switch in distraction manager excluded all summoning spells from checking the damage on self (#87757)
 * [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift (#87773)
 * [Xedra Evolved] Fix tender animal feet (#87777)
-* [XedraWood] Refactor random encounter EoCs to make it XedraWood unique (#87758)
 * [Xedra Evolved] Fix two March Lord bugs (#87764)
 * Fx stacking elevators to nowhere (#87765)
 * Total Conversion not content pack XedraWood (#87763)
