@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-09-1253 ([feef2ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-09-1253))
+
+* Add disassembly recipes for folded cardboard boxes ([#87879](https://github.com/CleverRaven/Cataclysm-DDA/pull/87879))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-08-1857 ([eeee688](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1857))
 
 * Put ammonia hydroxide in bottles ([#87929](https://github.com/CleverRaven/Cataclysm-DDA/pull/87929))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-07-04-1450 ([6891654](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-04-1450))
 
 * [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-03-2120 ([69df2e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-03-2120))
-
 * [Hunvre] Loading screens ([#87873](https://github.com/CleverRaven/Cataclysm-DDA/pull/87873))
 * Fix random zeds/ferals having no loot ([#87826](https://github.com/CleverRaven/Cataclysm-DDA/pull/87826))
 * Kelvar is now fireproof ([#87859](https://github.com/CleverRaven/Cataclysm-DDA/pull/87859))
@@ -237,5 +238,4 @@
 * Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
 * Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
-* fix missing break ([#87756](https://github.com/CleverRaven/Cataclysm-DDA/pull/87756))
 * [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
