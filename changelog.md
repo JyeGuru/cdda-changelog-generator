@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-10-0416 ([e8983f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0416))
+
+* Sewing/electronics hobby rooms have reference books ([#87941](https://github.com/CleverRaven/Cataclysm-DDA/pull/87941))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-10-0323 ([799648e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0323))
+
+* Leg tentacle coverage for armor ([#87944](https://github.com/CleverRaven/Cataclysm-DDA/pull/87944))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-10-0147 ([0344f38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0147))
+
+* [Xedra Evolved] Add Follower dialogue topic to ask them to cast spells ([#87935](https://github.com/CleverRaven/Cataclysm-DDA/pull/87935))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-09-1721 ([37d65da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-09-1721))
 
 * Rebalance `homebooks` itemgroups ([#87926](https://github.com/CleverRaven/Cataclysm-DDA/pull/87926))
@@ -165,24 +183,9 @@
 #### Cataclysm-DDA experimental build 2026-07-05-1415 ([79514d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-1415))
 
 * Can't target practice in the dark ([#87898](https://github.com/CleverRaven/Cataclysm-DDA/pull/87898))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-05-0459 ([eb2186b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-0459))
-
 * wish.cpp: fix hint, desc width; add scroll; keep ?success msg ([#87867](https://github.com/CleverRaven/Cataclysm-DDA/pull/87867))
 * fix detergent not spawning in box in some places ([#87891](https://github.com/CleverRaven/Cataclysm-DDA/pull/87891))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-05-0407 ([6a49285](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-0407))
-
 * Infested Moxie and spawns for other types. ([#87892](https://github.com/CleverRaven/Cataclysm-DDA/pull/87892))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-04-2217 ([1952de9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-04-2217))
-
 * If we were caught in several bear traps at once, conduct a separate attempt to free for each one ([#87886](https://github.com/CleverRaven/Cataclysm-DDA/pull/87886))
 * Guard NPC loading nonexistent faction ([#87875](https://github.com/CleverRaven/Cataclysm-DDA/pull/87875))
 * [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
@@ -227,7 +230,6 @@
 * Some `a shadow?` attacked survivor camp mapgen ([#87809](https://github.com/CleverRaven/Cataclysm-DDA/pull/87809))
 * [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage ([#87810](https://github.com/CleverRaven/Cataclysm-DDA/pull/87810))
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
-* The spell "Lucid Dreams" in Xedra Evolved has unexpected effects on weariness ([#87761](https://github.com/CleverRaven/Cataclysm-DDA/pull/87761))
 * Add TM 31-210 Improvised Munitions Handbook ([#87796](https://github.com/CleverRaven/Cataclysm-DDA/pull/87796))
 * [MoM] Turn telekinetic matrix crystals into artifacts ([#87799](https://github.com/CleverRaven/Cataclysm-DDA/pull/87799))
 * [Xedra Evolved] Some random encounter tweaking ([#87800](https://github.com/CleverRaven/Cataclysm-DDA/pull/87800))
@@ -238,4 +240,3 @@
 * Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
 * Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
-* [Xedra Evolved] Add unique XE random encounter EoC, point Jotunn random encounter toward it, add March Lord random encounter ([#87759](https://github.com/CleverRaven/Cataclysm-DDA/pull/87759))
