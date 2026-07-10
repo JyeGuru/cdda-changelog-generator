@@ -1,3 +1,10 @@
+* feat(UI) fix typos in book description ([#87882](https://github.com/CleverRaven/Cataclysm-DDA/pull/87882))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-10-0742 ([bfd66d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0742))
+
+* Forbid reach attacks when using force unarmed ([#87939](https://github.com/CleverRaven/Cataclysm-DDA/pull/87939))
 
 ---
 
@@ -177,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-07-05-1512 ([3987ae8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-1512))
 
 * put bleach in bottles properly, add "display_type": "BY_VOLUME" ([#87897](https://github.com/CleverRaven/Cataclysm-DDA/pull/87897))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-05-1415 ([79514d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-1415))
-
 * Can't target practice in the dark ([#87898](https://github.com/CleverRaven/Cataclysm-DDA/pull/87898))
 * wish.cpp: fix hint, desc width; add scroll; keep ?success msg ([#87867](https://github.com/CleverRaven/Cataclysm-DDA/pull/87867))
 * fix detergent not spawning in box in some places ([#87891](https://github.com/CleverRaven/Cataclysm-DDA/pull/87891))
@@ -236,7 +238,5 @@
 * [MoM] Monster psions can use Physical Enhancement ([#87790](https://github.com/CleverRaven/Cataclysm-DDA/pull/87790))
 * [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift ([#87773](https://github.com/CleverRaven/Cataclysm-DDA/pull/87773))
 * [Xedra Evolved] Fix tender animal feet ([#87777](https://github.com/CleverRaven/Cataclysm-DDA/pull/87777))
-* [Xedra Evolved] Fix two March Lord bugs ([#87764](https://github.com/CleverRaven/Cataclysm-DDA/pull/87764))
 * Fx stacking elevators to nowhere ([#87765](https://github.com/CleverRaven/Cataclysm-DDA/pull/87765))
-* Total Conversion not content pack XedraWood ([#87763](https://github.com/CleverRaven/Cataclysm-DDA/pull/87763))
 * Unique mobs shouldn't be hallucinatable ([#87766](https://github.com/CleverRaven/Cataclysm-DDA/pull/87766))
