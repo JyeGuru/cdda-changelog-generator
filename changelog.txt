@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-11-1749 (d5b3afe)
+* implement temperature modifier for weather (#87957)
+
 Cataclysm-DDA experimental build 2026-07-11-0744 (d84b90d)
 * Fix book uncrafts (#87942)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-07-06-0354 (eab68bb)
 
 Cataclysm-DDA experimental build 2026-07-06-0305 (feb4a85)
 * Hotwire if has immobilizer, not if has security (#87904)
-
-Cataclysm-DDA experimental build 2026-07-06-0218 (e305b6e)
 * [XEDRA Evolved] Summer March Lord's bright light (#87905)
 * Aftershock: Ipav patch kits and make welding goggles for sale. (#87893)
 * Add the lagomorph gland to extra_mut_scen (#87896)

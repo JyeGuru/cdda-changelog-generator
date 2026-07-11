@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-11-1749 ([d5b3afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-1749))
+
+* implement temperature modifier for weather ([#87957](https://github.com/CleverRaven/Cataclysm-DDA/pull/87957))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-11-0744 ([d84b90d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-0744))
 
 * Fix book uncrafts ([#87942](https://github.com/CleverRaven/Cataclysm-DDA/pull/87942))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-07-06-0305 ([feb4a85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0305))
 
 * Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-06-0218 ([e305b6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0218))
-
 * [XEDRA Evolved] Summer March Lord's bright light ([#87905](https://github.com/CleverRaven/Cataclysm-DDA/pull/87905))
 * Aftershock: Ipav patch kits and make welding goggles for sale. ([#87893](https://github.com/CleverRaven/Cataclysm-DDA/pull/87893))
 * Add the lagomorph gland to extra_mut_scen ([#87896](https://github.com/CleverRaven/Cataclysm-DDA/pull/87896))
