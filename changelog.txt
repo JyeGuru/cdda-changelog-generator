@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-11-0744 (d84b90d)
 * Fix book uncrafts (#87942)
 
 Cataclysm-DDA experimental build 2026-07-11-0701 (21ce7f3)
@@ -87,8 +89,6 @@ Cataclysm-DDA experimental build 2026-07-06-0305 (feb4a85)
 
 Cataclysm-DDA experimental build 2026-07-06-0218 (e305b6e)
 * [XEDRA Evolved] Summer March Lord's bright light (#87905)
-
-Cataclysm-DDA experimental build 2026-07-05-2153 (23c0e71)
 * Aftershock: Ipav patch kits and make welding goggles for sale. (#87893)
 * Add the lagomorph gland to extra_mut_scen (#87896)
 * fix mine having million billion sacks with 1 sand or 1 soil (#87899)
