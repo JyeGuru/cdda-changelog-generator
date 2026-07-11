@@ -1,3 +1,10 @@
+* Fix book uncrafts ([#87942](https://github.com/CleverRaven/Cataclysm-DDA/pull/87942))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-11-0701 ([21ce7f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-0701))
+
+* Carpentry books in hobby woodworking rooms ([#87958](https://github.com/CleverRaven/Cataclysm-DDA/pull/87958))
 
 ---
 
@@ -172,11 +179,6 @@
 * Aftershock: Ipav patch kits and make welding goggles for sale. ([#87893](https://github.com/CleverRaven/Cataclysm-DDA/pull/87893))
 * Add the lagomorph gland to extra_mut_scen ([#87896](https://github.com/CleverRaven/Cataclysm-DDA/pull/87896))
 * fix mine having million billion sacks with 1 sand or 1 soil ([#87899](https://github.com/CleverRaven/Cataclysm-DDA/pull/87899))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-05-2109 ([adf13ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-2109))
-
 * Isolation Protocol: Office levels are easier to navigate ([#87903](https://github.com/CleverRaven/Cataclysm-DDA/pull/87903))
 * [Xedra Evolved] Lilin only attack you in the main dimension ([#87902](https://github.com/CleverRaven/Cataclysm-DDA/pull/87902))
 * Display detergent by weight ([#87900](https://github.com/CleverRaven/Cataclysm-DDA/pull/87900))
@@ -221,7 +223,6 @@
 * Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
 * Tactical-Backpacks-are-made-of-nylon-not-leather ([#87779](https://github.com/CleverRaven/Cataclysm-DDA/pull/87779))
 * Exodii-Free Merchants trade, and a mission to negotiate it ([#87794](https://github.com/CleverRaven/Cataclysm-DDA/pull/87794))
-* [Xedra Evolved] Update Pooka Raven, Bat & Bear Shapeshift calorie calculation to not affect weariness ([#87770](https://github.com/CleverRaven/Cataclysm-DDA/pull/87770))
 * Adjust translations of debug_console.cpp ([#87797](https://github.com/CleverRaven/Cataclysm-DDA/pull/87797))
 * [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow ([#87811](https://github.com/CleverRaven/Cataclysm-DDA/pull/87811))
 * [MoM] The Hounds can twist your Extended Stride and keep up ([#87808](https://github.com/CleverRaven/Cataclysm-DDA/pull/87808))
