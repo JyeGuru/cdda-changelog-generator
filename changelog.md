@@ -178,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-07-05-1832 ([b041ed2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-1832))
 
 * [Xedra Evolved] Lilin only attack you in the main dimension ([#87902](https://github.com/CleverRaven/Cataclysm-DDA/pull/87902))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-05-1556 ([ab48618](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-05-1556))
-
 * Display detergent by weight ([#87900](https://github.com/CleverRaven/Cataclysm-DDA/pull/87900))
 * put bleach in bottles properly, add "display_type": "BY_VOLUME" ([#87897](https://github.com/CleverRaven/Cataclysm-DDA/pull/87897))
 * Can't target practice in the dark ([#87898](https://github.com/CleverRaven/Cataclysm-DDA/pull/87898))
