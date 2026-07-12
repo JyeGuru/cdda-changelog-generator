@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-07-12-1336 (71f9bad)
+* [Xedra Evolved] Fix March Lord swords' requirements + looks_like (#87974)
+
+Cataclysm-DDA experimental build 2026-07-12-1245 (6a82f7f)
 * check character gun range instead of item gun range in projectile creation (#87965)
 * Remove obsolete `edible` material example line from docs (#87978)
 * Fix Random NPCs not getting spells from professions or hobbies (#87967)
@@ -88,11 +93,7 @@ Cataclysm-DDA experimental build 2026-07-06-1922 (4f5c80d)
 Cataclysm-DDA experimental build 2026-07-06-1727 (fc42c04)
 * Updated `looks_like` for a set of armor (#87910)
 * Print fungus bristle attack message only if playes sees the attacker (#87911)
-
-Cataclysm-DDA experimental build 2026-07-06-1634 (5230a8c)
 * Make reading_light rechargeable (#87912)
-
-Cataclysm-DDA experimental build 2026-07-06-1046 (d3c06f6)
 * Fix grammar in Advanced Game Design textbook description (#87884)
 * Update Jorts to have the same pockets as Jeans (#87907)
 * [MoM] Psychic Knacks also gain bonuses from wielding matrix cryrstals (#87869)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2026-07-06-1046 (d3c06f6)
 * Some `a shadow?` attacked survivor camp mapgen (#87809)
 * [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage (#87810)
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced (#87806)
-* [MoM] Turn telekinetic matrix crystals into artifacts (#87799)
 * [Xedra Evolved] Some random encounter tweaking (#87800)

@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-12-1336 ([71f9bad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-1336))
+
+* [Xedra Evolved] Fix March Lord swords' requirements + looks_like ([#87974](https://github.com/CleverRaven/Cataclysm-DDA/pull/87974))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-12-1245 ([6a82f7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-1245))
+
 * check character gun range instead of item gun range in projectile creation ([#87965](https://github.com/CleverRaven/Cataclysm-DDA/pull/87965))
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
 * Fix Random NPCs not getting spells from professions or hobbies ([#87967](https://github.com/CleverRaven/Cataclysm-DDA/pull/87967))
@@ -169,17 +180,7 @@
 
 * Updated `looks_like` for a set of armor ([#87910](https://github.com/CleverRaven/Cataclysm-DDA/pull/87910))
 * Print fungus bristle attack message only if playes sees the attacker ([#87911](https://github.com/CleverRaven/Cataclysm-DDA/pull/87911))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-06-1634 ([5230a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1634))
-
 * Make reading_light rechargeable ([#87912](https://github.com/CleverRaven/Cataclysm-DDA/pull/87912))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-06-1046 ([d3c06f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1046))
-
 * Fix grammar in Advanced Game Design textbook description ([#87884](https://github.com/CleverRaven/Cataclysm-DDA/pull/87884))
 * Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
 * [MoM] Psychic Knacks also gain bonuses from wielding matrix cryrstals ([#87869](https://github.com/CleverRaven/Cataclysm-DDA/pull/87869))
@@ -235,5 +236,4 @@
 * Some `a shadow?` attacked survivor camp mapgen ([#87809](https://github.com/CleverRaven/Cataclysm-DDA/pull/87809))
 * [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage ([#87810](https://github.com/CleverRaven/Cataclysm-DDA/pull/87810))
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
-* [MoM] Turn telekinetic matrix crystals into artifacts ([#87799](https://github.com/CleverRaven/Cataclysm-DDA/pull/87799))
 * [Xedra Evolved] Some random encounter tweaking ([#87800](https://github.com/CleverRaven/Cataclysm-DDA/pull/87800))
