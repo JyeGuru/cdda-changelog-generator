@@ -1,3 +1,12 @@
+* check character gun range instead of item gun range in projectile creation ([#87965](https://github.com/CleverRaven/Cataclysm-DDA/pull/87965))
+* Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
+* Fix Random NPCs not getting spells from professions or hobbies ([#87967](https://github.com/CleverRaven/Cataclysm-DDA/pull/87967))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-12-1201 ([0d3dd4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-1201))
+
+* [ Xedra Evolved ] Make two Xedra professions common ([#87968](https://github.com/CleverRaven/Cataclysm-DDA/pull/87968))
 
 ---
 
@@ -172,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-07-06-1046 ([d3c06f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1046))
 
 * Fix grammar in Advanced Game Design textbook description ([#87884](https://github.com/CleverRaven/Cataclysm-DDA/pull/87884))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-06-0612 ([764a641](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0612))
-
 * Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
 * [MoM] Psychic Knacks also gain bonuses from wielding matrix cryrstals ([#87869](https://github.com/CleverRaven/Cataclysm-DDA/pull/87869))
 * Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
@@ -218,7 +222,6 @@
 * Typo fixes ([#87834](https://github.com/CleverRaven/Cataclysm-DDA/pull/87834))
 * Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings ([#87832](https://github.com/CleverRaven/Cataclysm-DDA/pull/87832))
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
-* Inventory organization crashes/freezes fixes ([#87795](https://github.com/CleverRaven/Cataclysm-DDA/pull/87795))
 * Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
 * [XedraWood] Add giant serpents, add map extra giant serpent nest ([#87831](https://github.com/CleverRaven/Cataclysm-DDA/pull/87831))
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
@@ -226,14 +229,11 @@
 * [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
 * Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
 * Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
-* Exodii-Free Merchants trade, and a mission to negotiate it ([#87794](https://github.com/CleverRaven/Cataclysm-DDA/pull/87794))
-* Adjust translations of debug_console.cpp ([#87797](https://github.com/CleverRaven/Cataclysm-DDA/pull/87797))
 * [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow ([#87811](https://github.com/CleverRaven/Cataclysm-DDA/pull/87811))
 * [MoM] The Hounds can twist your Extended Stride and keep up ([#87808](https://github.com/CleverRaven/Cataclysm-DDA/pull/87808))
 * Remove several 'Hub-01' with the standardized name 'Hub 01' ([#87805](https://github.com/CleverRaven/Cataclysm-DDA/pull/87805))
 * Some `a shadow?` attacked survivor camp mapgen ([#87809](https://github.com/CleverRaven/Cataclysm-DDA/pull/87809))
 * [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage ([#87810](https://github.com/CleverRaven/Cataclysm-DDA/pull/87810))
 * [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
-* Add TM 31-210 Improvised Munitions Handbook ([#87796](https://github.com/CleverRaven/Cataclysm-DDA/pull/87796))
 * [MoM] Turn telekinetic matrix crystals into artifacts ([#87799](https://github.com/CleverRaven/Cataclysm-DDA/pull/87799))
 * [Xedra Evolved] Some random encounter tweaking ([#87800](https://github.com/CleverRaven/Cataclysm-DDA/pull/87800))
