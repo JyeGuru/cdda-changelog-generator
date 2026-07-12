@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-12-0244 ([a030a5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-0244))
+
+* Fix COLDBLOOD4/Ectothermic speed bonus not applying in hot weather ([#87959](https://github.com/CleverRaven/Cataclysm-DDA/pull/87959))
+* removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
+* Aftershock: Better power armor durability. ([#87972](https://github.com/CleverRaven/Cataclysm-DDA/pull/87972))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-12-0148 ([7fa016a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-0148))
+
+* Fix 87949 ([#87966](https://github.com/CleverRaven/Cataclysm-DDA/pull/87966))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-11-1749 ([d5b3afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-1749))
 
 * implement temperature modifier for weather ([#87957](https://github.com/CleverRaven/Cataclysm-DDA/pull/87957))
@@ -164,17 +178,7 @@
 #### Cataclysm-DDA experimental build 2026-07-06-0612 ([764a641](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0612))
 
 * Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-06-0354 ([eab68bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0354))
-
 * [MoM] Psychic Knacks also gain bonuses from wielding matrix cryrstals ([#87869](https://github.com/CleverRaven/Cataclysm-DDA/pull/87869))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-06-0305 ([feb4a85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-0305))
-
 * Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
 * [XEDRA Evolved] Summer March Lord's bright light ([#87905](https://github.com/CleverRaven/Cataclysm-DDA/pull/87905))
 * Aftershock: Ipav patch kits and make welding goggles for sale. ([#87893](https://github.com/CleverRaven/Cataclysm-DDA/pull/87893))
@@ -222,7 +226,6 @@
 * [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
 * Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
 * Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
-* Tactical-Backpacks-are-made-of-nylon-not-leather ([#87779](https://github.com/CleverRaven/Cataclysm-DDA/pull/87779))
 * Exodii-Free Merchants trade, and a mission to negotiate it ([#87794](https://github.com/CleverRaven/Cataclysm-DDA/pull/87794))
 * Adjust translations of debug_console.cpp ([#87797](https://github.com/CleverRaven/Cataclysm-DDA/pull/87797))
 * [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow ([#87811](https://github.com/CleverRaven/Cataclysm-DDA/pull/87811))
@@ -234,6 +237,3 @@
 * Add TM 31-210 Improvised Munitions Handbook ([#87796](https://github.com/CleverRaven/Cataclysm-DDA/pull/87796))
 * [MoM] Turn telekinetic matrix crystals into artifacts ([#87799](https://github.com/CleverRaven/Cataclysm-DDA/pull/87799))
 * [Xedra Evolved] Some random encounter tweaking ([#87800](https://github.com/CleverRaven/Cataclysm-DDA/pull/87800))
-* [MoM] Monster psions can use Physical Enhancement ([#87790](https://github.com/CleverRaven/Cataclysm-DDA/pull/87790))
-* [Xedra Evolved] Fix small bugs with pooka skunk tail shapeshift ([#87773](https://github.com/CleverRaven/Cataclysm-DDA/pull/87773))
-* [Xedra Evolved] Fix tender animal feet ([#87777](https://github.com/CleverRaven/Cataclysm-DDA/pull/87777))
