@@ -1,3 +1,11 @@
+* Add message calling out the `fragment of reality` when you enter the portal storm dungeon ([#87981](https://github.com/CleverRaven/Cataclysm-DDA/pull/87981))
+* Aftershock: Biotechnical flats ([#87986](https://github.com/CleverRaven/Cataclysm-DDA/pull/87986))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-13-1248 ([4e94227](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-1248))
+
+* Forbid reach attacks through autoattack if using Force Unarmed style ([#87988](https://github.com/CleverRaven/Cataclysm-DDA/pull/87988))
 
 ---
 
@@ -173,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-07-07-0250 ([c689a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0250))
 
 * [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-07-0206 ([b94c222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0206))
-
 * Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
 * [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
 * Updated `looks_like` for a set of armor ([#87910](https://github.com/CleverRaven/Cataclysm-DDA/pull/87910))
@@ -233,7 +236,4 @@
 * Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
 * Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
 * [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow ([#87811](https://github.com/CleverRaven/Cataclysm-DDA/pull/87811))
-* [MoM] The Hounds can twist your Extended Stride and keep up ([#87808](https://github.com/CleverRaven/Cataclysm-DDA/pull/87808))
-* Some `a shadow?` attacked survivor camp mapgen ([#87809](https://github.com/CleverRaven/Cataclysm-DDA/pull/87809))
 * [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage ([#87810](https://github.com/CleverRaven/Cataclysm-DDA/pull/87810))
-* [MoM] TELEPORT_IMMUNE monsters can't be displaced ([#87806](https://github.com/CleverRaven/Cataclysm-DDA/pull/87806))
