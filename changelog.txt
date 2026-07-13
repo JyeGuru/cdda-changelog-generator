@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-13-2343 (e16dd34)
 * Imperial road decorative chunks (#87989)
 
 Cataclysm-DDA experimental build 2026-07-13-2249 (e67a9b8)
@@ -87,8 +89,6 @@ Cataclysm-DDA experimental build 2026-07-08-1313 (4cd8670)
 Cataclysm-DDA experimental build 2026-07-08-0542 (4978ef8)
 * Weekly Changelog 2026-06-29 to 2026-07-06 (#87909)
 * Update survivor_notes.json (#87925)
-
-Cataclysm-DDA experimental build 2026-07-08-0501 (46dc145)
 * Added immunity to burning and high heat resistance to ballistic kevlar and rigid kevlar (#87888)
 * Revert death vars changes (#87919)
 * Added plurality to Nuts! (#87920)
