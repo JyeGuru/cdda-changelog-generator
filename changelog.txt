@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-13-0441 (1a1aead)
 * Fall further if you jump off the ledge in the portal dungeon (#87984)
 
 Cataclysm-DDA experimental build 2026-07-13-0356 (1cbec34)
@@ -20,7 +22,7 @@ Cataclysm-DDA experimental build 2026-07-12-0244 (a030a5b)
 * Aftershock: Better power armor durability. (#87972)
 
 Cataclysm-DDA experimental build 2026-07-12-0148 (7fa016a)
-* Fix 87949 (#87966)
+* Fix segfault while trying to fire a bare hands (#87966)
 
 Cataclysm-DDA experimental build 2026-07-11-1749 (d5b3afe)
 * implement temperature modifier for weather (#87957)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2026-07-07-0250 (c689a81)
 
 Cataclysm-DDA experimental build 2026-07-07-0206 (b94c222)
 * Fix mod random encounter removal (#87915)
-
-Cataclysm-DDA experimental build 2026-07-06-1922 (4f5c80d)
 * [MoM] Increase channeling time for extremely fast powers (#87913)
 * Updated `looks_like` for a set of armor (#87910)
 * Print fungus bristle attack message only if playes sees the attacker (#87911)

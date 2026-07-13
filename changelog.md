@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-13-0441 ([1a1aead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-0441))
+
 * Fall further if you jump off the ledge in the portal dungeon ([#87984](https://github.com/CleverRaven/Cataclysm-DDA/pull/87984))
 
 ---
@@ -38,7 +43,7 @@
 
 #### Cataclysm-DDA experimental build 2026-07-12-0148 ([7fa016a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-0148))
 
-* Fix 87949 ([#87966](https://github.com/CleverRaven/Cataclysm-DDA/pull/87966))
+* Fix segfault while trying to fire a bare hands ([#87966](https://github.com/CleverRaven/Cataclysm-DDA/pull/87966))
 
 ---
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-07-07-0206 ([b94c222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0206))
 
 * Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-06-1922 ([4f5c80d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-06-1922))
-
 * [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
 * Updated `looks_like` for a set of armor ([#87910](https://github.com/CleverRaven/Cataclysm-DDA/pull/87910))
 * Print fungus bristle attack message only if playes sees the attacker ([#87911](https://github.com/CleverRaven/Cataclysm-DDA/pull/87911))
