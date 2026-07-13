@@ -174,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-08-0408 ([383dc94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-0408))
 
 * Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-07-0829 ([7366c1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-07-0829))
-
 * Add `has_wielded_with_flag` as a jmath condition, use in MoM ([#87908](https://github.com/CleverRaven/Cataclysm-DDA/pull/87908))
 * [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
 * Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))

@@ -90,8 +90,6 @@ Cataclysm-DDA experimental build 2026-07-08-0501 (46dc145)
 
 Cataclysm-DDA experimental build 2026-07-08-0408 (383dc94)
 * Added plurality to Nuts! (#87920)
-
-Cataclysm-DDA experimental build 2026-07-07-0829 (7366c1f)
 * Add `has_wielded_with_flag` as a jmath condition, use in MoM (#87908)
 * [Xedra Evolved] Moons tears repair updates (#87914)
 * Fix mod random encounter removal (#87915)
