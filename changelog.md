@@ -1,3 +1,10 @@
+* Imperial road decorative chunks ([#87989](https://github.com/CleverRaven/Cataclysm-DDA/pull/87989))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-13-2249 ([e67a9b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-2249))
+
+* [XE/MoM] Vampire torpor ends concentration ([#87992](https://github.com/CleverRaven/Cataclysm-DDA/pull/87992))
 
 ---
 
@@ -168,11 +175,6 @@
 
 * Added immunity to burning and high heat resistance to ballistic kevlar and rigid kevlar ([#87888](https://github.com/CleverRaven/Cataclysm-DDA/pull/87888))
 * Revert death vars changes ([#87919](https://github.com/CleverRaven/Cataclysm-DDA/pull/87919))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-08-0408 ([383dc94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-0408))
-
 * Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
 * Add `has_wielded_with_flag` as a jmath condition, use in MoM ([#87908](https://github.com/CleverRaven/Cataclysm-DDA/pull/87908))
 * [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
@@ -230,5 +232,3 @@
 * [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
 * Yeet primary_material field ([#87814](https://github.com/CleverRaven/Cataclysm-DDA/pull/87814))
 * Report version string for mods ([#87815](https://github.com/CleverRaven/Cataclysm-DDA/pull/87815))
-* [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow ([#87811](https://github.com/CleverRaven/Cataclysm-DDA/pull/87811))
-* [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage ([#87810](https://github.com/CleverRaven/Cataclysm-DDA/pull/87810))

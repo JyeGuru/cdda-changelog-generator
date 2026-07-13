@@ -1,3 +1,7 @@
+* Imperial road decorative chunks (#87989)
+
+Cataclysm-DDA experimental build 2026-07-13-2249 (e67a9b8)
+* [XE/MoM] Vampire torpor ends concentration (#87992)
 
 Cataclysm-DDA experimental build 2026-07-13-1336 (9177f36)
 * Add message calling out the `fragment of reality` when you enter the portal storm dungeon (#87981)
@@ -87,8 +91,6 @@ Cataclysm-DDA experimental build 2026-07-08-0542 (4978ef8)
 Cataclysm-DDA experimental build 2026-07-08-0501 (46dc145)
 * Added immunity to burning and high heat resistance to ballistic kevlar and rigid kevlar (#87888)
 * Revert death vars changes (#87919)
-
-Cataclysm-DDA experimental build 2026-07-08-0408 (383dc94)
 * Added plurality to Nuts! (#87920)
 * Add `has_wielded_with_flag` as a jmath condition, use in MoM (#87908)
 * [Xedra Evolved] Moons tears repair updates (#87914)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2026-07-08-0408 (383dc94)
 * [Xedra Evolved] Add wraiths random encounter (#87825)
 * Yeet primary_material field (#87814)
 * Report version string for mods (#87815)
-* [Xedra Evolved] Dancer in the Endless Dark allows you to avoid notice from the shadow (#87811)
-* [Xedra Evolved] Update changeling Banquet of Dreams to allow a massive harvest at the cost of damage (#87810)
