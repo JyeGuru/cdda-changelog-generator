@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-14-1356 ([eb9ad68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1356))
+
+* [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-14-1311 ([25755cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1311))
+
+* Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-14-1104 ([aa01c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1104))
 
 * data/json/recipes/recipe_medsandchemicals.json: fixup ethanol charges ([#87950](https://github.com/CleverRaven/Cataclysm-DDA/pull/87950))
@@ -162,17 +174,7 @@
 #### Cataclysm-DDA experimental build 2026-07-09-1634 ([8d407b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-09-1634))
 
 * update shot and shot410 ([#87938](https://github.com/CleverRaven/Cataclysm-DDA/pull/87938))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-09-1253 ([feef2ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-09-1253))
-
 * Add disassembly recipes for folded cardboard boxes ([#87879](https://github.com/CleverRaven/Cataclysm-DDA/pull/87879))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-08-1857 ([eeee688](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1857))
-
 * Put ammonia hydroxide in bottles ([#87929](https://github.com/CleverRaven/Cataclysm-DDA/pull/87929))
 * [ Xedra Evolved ] Faewild addiction ([#87895](https://github.com/CleverRaven/Cataclysm-DDA/pull/87895))
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
@@ -209,7 +211,6 @@
 * Guard NPC loading nonexistent faction ([#87875](https://github.com/CleverRaven/Cataclysm-DDA/pull/87875))
 * [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
 * [Hunvre] Loading screens ([#87873](https://github.com/CleverRaven/Cataclysm-DDA/pull/87873))
-* Fix random zeds/ferals having no loot ([#87826](https://github.com/CleverRaven/Cataclysm-DDA/pull/87826))
 * Kelvar is now fireproof ([#87859](https://github.com/CleverRaven/Cataclysm-DDA/pull/87859))
 * Fix nanomaterial spawns in sarcophagus, and tower and terrain manufactured ([#87844](https://github.com/CleverRaven/Cataclysm-DDA/pull/87844))
 * Fix pipebomb typos ([#87855](https://github.com/CleverRaven/Cataclysm-DDA/pull/87855))
@@ -232,4 +233,3 @@
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
 * Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
 * [XedraWood] Add giant serpents, add map extra giant serpent nest ([#87831](https://github.com/CleverRaven/Cataclysm-DDA/pull/87831))
-* [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
