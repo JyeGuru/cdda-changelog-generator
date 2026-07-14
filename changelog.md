@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-14-0518 ([7e8e330](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-0518))
+
 * Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
 
 ---
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-08-1630 ([ce13601](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1630))
 
 * [ Xedra Evolved ] Faewild addiction ([#87895](https://github.com/CleverRaven/Cataclysm-DDA/pull/87895))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-08-1405 ([cd7fa73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1405))
-
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
 * [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
 * Weekly Changelog 2026-06-29 to 2026-07-06 ([#87909](https://github.com/CleverRaven/Cataclysm-DDA/pull/87909))
