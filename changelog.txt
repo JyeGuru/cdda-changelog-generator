@@ -1,4 +1,9 @@
 
+Cataclysm-DDA experimental build 2026-07-14-0028 (c25c37c)
+* [MoM] Add the SHADOW URGE process to the hospital labs (#87975)
+* Fix Sky Island portal storm bug (#87983)
+* Military laser sight works like a laser sight (#87990)
+
 Cataclysm-DDA experimental build 2026-07-13-2343 (e16dd34)
 * Imperial road decorative chunks (#87989)
 
@@ -85,8 +90,6 @@ Cataclysm-DDA experimental build 2026-07-08-1405 (cd7fa73)
 
 Cataclysm-DDA experimental build 2026-07-08-1313 (4cd8670)
 * [ Xedra Evolved ] Torpor ends normal sleep (#87921)
-
-Cataclysm-DDA experimental build 2026-07-08-0542 (4978ef8)
 * Weekly Changelog 2026-06-29 to 2026-07-06 (#87909)
 * Update survivor_notes.json (#87925)
 * Added immunity to burning and high heat resistance to ballistic kevlar and rigid kevlar (#87888)
@@ -130,7 +133,6 @@ Cataclysm-DDA experimental build 2026-07-08-0542 (4978ef8)
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift (#87856)
 * [Xedra Evolved] Fix werewolf claw attacks (#87857)
 * Text fixes and devtool update (#87845)
-* In roll_melee_damage_internal(), fix an armor penetration bug and an inaccurate comment. (#87819)
 * make Stiltwalker lowercase (#87848)
 * Break monster grab if the monster was flung away (#87853)
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition (#87843)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2026-07-08-0542 (4978ef8)
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold (#87827)
 * Fix few issues in crafting (#87823)
 * [Xedra Evolved] Add wraiths random encounter (#87825)
-* Yeet primary_material field (#87814)
-* Report version string for mods (#87815)
