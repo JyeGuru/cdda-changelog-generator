@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-14-1104 ([aa01c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1104))
+
+* data/json/recipes/recipe_medsandchemicals.json: fixup ethanol charges ([#87950](https://github.com/CleverRaven/Cataclysm-DDA/pull/87950))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-14-0518 ([7e8e330](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-0518))
 
 * Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-08-1857 ([eeee688](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1857))
 
 * Put ammonia hydroxide in bottles ([#87929](https://github.com/CleverRaven/Cataclysm-DDA/pull/87929))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-08-1630 ([ce13601](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1630))
-
 * [ Xedra Evolved ] Faewild addiction ([#87895](https://github.com/CleverRaven/Cataclysm-DDA/pull/87895))
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
 * [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
@@ -232,4 +233,3 @@
 * Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
 * [XedraWood] Add giant serpents, add map extra giant serpent nest ([#87831](https://github.com/CleverRaven/Cataclysm-DDA/pull/87831))
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
-* [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
