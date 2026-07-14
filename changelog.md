@@ -1,3 +1,10 @@
+* Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-14-0425 ([ef65f9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-0425))
+
+* [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
 
 ---
 
@@ -168,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-07-08-1405 ([cd7fa73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1405))
 
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-08-1313 ([4cd8670](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-08-1313))
-
 * [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
 * Weekly Changelog 2026-06-29 to 2026-07-06 ([#87909](https://github.com/CleverRaven/Cataclysm-DDA/pull/87909))
 * Update survivor_notes.json ([#87925](https://github.com/CleverRaven/Cataclysm-DDA/pull/87925))
@@ -230,5 +232,4 @@
 * Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
 * [XedraWood] Add giant serpents, add map extra giant serpent nest ([#87831](https://github.com/CleverRaven/Cataclysm-DDA/pull/87831))
 * [XEDRA Evolved × Bombasticperk] Alchemy Gold ([#87827](https://github.com/CleverRaven/Cataclysm-DDA/pull/87827))
-* Fix few issues in crafting ([#87823](https://github.com/CleverRaven/Cataclysm-DDA/pull/87823))
 * [Xedra Evolved] Add wraiths random encounter ([#87825](https://github.com/CleverRaven/Cataclysm-DDA/pull/87825))
