@@ -1,3 +1,7 @@
+* examine_action supports array notation (#87934)
+
+Cataclysm-DDA experimental build 2026-07-14-2357 (ef23dfd)
+* Fix bronze lamellar armor (#88003)
 
 Cataclysm-DDA experimental build 2026-07-14-1356 (eb9ad68)
 * [ Xedra Evolved ] Adjust Golem weight (#87996)
@@ -87,8 +91,6 @@ Cataclysm-DDA experimental build 2026-07-10-0147 (0344f38)
 
 Cataclysm-DDA experimental build 2026-07-09-1721 (37d65da)
 * Rebalance `homebooks` itemgroups (#87926)
-
-Cataclysm-DDA experimental build 2026-07-09-1634 (8d407b4)
 * update shot and shot410 (#87938)
 * Add disassembly recipes for folded cardboard boxes (#87879)
 * Put ammonia hydroxide in bottles (#87929)
@@ -147,5 +149,4 @@ Cataclysm-DDA experimental build 2026-07-09-1634 (8d407b4)
 * Typo fixes (#87834)
 * Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings (#87832)
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell (#87841)
-* Update broth recipes and various soups (#87829)
 * [XedraWood] Add giant serpents, add map extra giant serpent nest (#87831)

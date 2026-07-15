@@ -1,3 +1,10 @@
+* examine_action supports array notation ([#87934](https://github.com/CleverRaven/Cataclysm-DDA/pull/87934))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-14-2357 ([ef23dfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-2357))
+
+* Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
 
 ---
 
@@ -168,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-07-09-1721 ([37d65da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-09-1721))
 
 * Rebalance `homebooks` itemgroups ([#87926](https://github.com/CleverRaven/Cataclysm-DDA/pull/87926))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-09-1634 ([8d407b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-09-1634))
-
 * update shot and shot410 ([#87938](https://github.com/CleverRaven/Cataclysm-DDA/pull/87938))
 * Add disassembly recipes for folded cardboard boxes ([#87879](https://github.com/CleverRaven/Cataclysm-DDA/pull/87879))
 * Put ammonia hydroxide in bottles ([#87929](https://github.com/CleverRaven/Cataclysm-DDA/pull/87929))
@@ -231,5 +233,4 @@
 * Typo fixes ([#87834](https://github.com/CleverRaven/Cataclysm-DDA/pull/87834))
 * Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings ([#87832](https://github.com/CleverRaven/Cataclysm-DDA/pull/87832))
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
-* Update broth recipes and various soups ([#87829](https://github.com/CleverRaven/Cataclysm-DDA/pull/87829))
 * [XedraWood] Add giant serpents, add map extra giant serpent nest ([#87831](https://github.com/CleverRaven/Cataclysm-DDA/pull/87831))
