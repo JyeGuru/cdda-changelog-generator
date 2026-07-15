@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-15-1943 (dda53ba)
+* [Hunvre] Add dynamic temperature (#87948)
+
 Cataclysm-DDA experimental build 2026-07-15-0649 (4c65820)
 * Use bookshelf nests to group books by theme in homes (#87951)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-07-10-0742 (bfd66d4)
 
 Cataclysm-DDA experimental build 2026-07-10-0416 (e8983f4)
 * Sewing/electronics hobby rooms have reference books (#87941)
-
-Cataclysm-DDA experimental build 2026-07-10-0323 (799648e)
 * Leg tentacle coverage for armor (#87944)
 * [Xedra Evolved] Add Follower dialogue topic to ask them to cast spells (#87935)
 * Rebalance `homebooks` itemgroups (#87926)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2026-07-10-0323 (799648e)
 * Typo fixes (#87834)
 * Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings (#87832)
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell (#87841)
-* [XedraWood] Add giant serpents, add map extra giant serpent nest (#87831)
