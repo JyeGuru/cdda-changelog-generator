@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-15-2117 ([b95def4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-2117))
+
+* Cleanup chem_ethanol ([#88001](https://github.com/CleverRaven/Cataclysm-DDA/pull/88001))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-15-1943 ([dda53ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-1943))
 
 * [Hunvre] Add dynamic temperature ([#87948](https://github.com/CleverRaven/Cataclysm-DDA/pull/87948))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-10-0742 ([bfd66d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0742))
 
 * Forbid reach attacks when using force unarmed ([#87939](https://github.com/CleverRaven/Cataclysm-DDA/pull/87939))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-10-0416 ([e8983f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0416))
-
 * Sewing/electronics hobby rooms have reference books ([#87941](https://github.com/CleverRaven/Cataclysm-DDA/pull/87941))
 * Leg tentacle coverage for armor ([#87944](https://github.com/CleverRaven/Cataclysm-DDA/pull/87944))
 * [Xedra Evolved] Add Follower dialogue topic to ask them to cast spells ([#87935](https://github.com/CleverRaven/Cataclysm-DDA/pull/87935))
@@ -233,5 +234,4 @@
 * [ Xedra Evolved ] Blood drinking and the state of being a vampire ([#87838](https://github.com/CleverRaven/Cataclysm-DDA/pull/87838))
 * Fix fractional DoT displays ([#87842](https://github.com/CleverRaven/Cataclysm-DDA/pull/87842))
 * Typo fixes ([#87834](https://github.com/CleverRaven/Cataclysm-DDA/pull/87834))
-* Add DISPLAY_TYPE to Several Comestibles/Food, Changed Plural Strings ([#87832](https://github.com/CleverRaven/Cataclysm-DDA/pull/87832))
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
