@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-15-0043 (4df5845)
 * examine_action supports array notation (#87934)
 
 Cataclysm-DDA experimental build 2026-07-14-2357 (ef23dfd)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2026-07-10-0323 (799648e)
 
 Cataclysm-DDA experimental build 2026-07-10-0147 (0344f38)
 * [Xedra Evolved] Add Follower dialogue topic to ask them to cast spells (#87935)
-
-Cataclysm-DDA experimental build 2026-07-09-1721 (37d65da)
 * Rebalance `homebooks` itemgroups (#87926)
 * update shot and shot410 (#87938)
 * Add disassembly recipes for folded cardboard boxes (#87879)
