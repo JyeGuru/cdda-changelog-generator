@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-15-0649 ([4c65820](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-0649))
+
+* Use bookshelf nests to group books by theme in homes ([#87951](https://github.com/CleverRaven/Cataclysm-DDA/pull/87951))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-15-0043 ([4df5845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-0043))
 
 * examine_action supports array notation ([#87934](https://github.com/CleverRaven/Cataclysm-DDA/pull/87934))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-10-0323 ([799648e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0323))
 
 * Leg tentacle coverage for armor ([#87944](https://github.com/CleverRaven/Cataclysm-DDA/pull/87944))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-10-0147 ([0344f38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0147))
-
 * [Xedra Evolved] Add Follower dialogue topic to ask them to cast spells ([#87935](https://github.com/CleverRaven/Cataclysm-DDA/pull/87935))
 * Rebalance `homebooks` itemgroups ([#87926](https://github.com/CleverRaven/Cataclysm-DDA/pull/87926))
 * update shot and shot410 ([#87938](https://github.com/CleverRaven/Cataclysm-DDA/pull/87938))

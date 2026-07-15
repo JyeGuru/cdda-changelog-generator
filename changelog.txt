@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-15-0649 (4c65820)
+* Use bookshelf nests to group books by theme in homes (#87951)
+
 Cataclysm-DDA experimental build 2026-07-15-0043 (4df5845)
 * examine_action supports array notation (#87934)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-07-10-0416 (e8983f4)
 
 Cataclysm-DDA experimental build 2026-07-10-0323 (799648e)
 * Leg tentacle coverage for armor (#87944)
-
-Cataclysm-DDA experimental build 2026-07-10-0147 (0344f38)
 * [Xedra Evolved] Add Follower dialogue topic to ask them to cast spells (#87935)
 * Rebalance `homebooks` itemgroups (#87926)
 * update shot and shot410 (#87938)
