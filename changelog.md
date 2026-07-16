@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-16-2029 ([4c06790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-2029))
+
 * More portal storm dungeon OMTs ([#87985](https://github.com/CleverRaven/Cataclysm-DDA/pull/87985))
 * [MoM] Teleporting in the portal storm dungeon is...ill-advised ([#88018](https://github.com/CleverRaven/Cataclysm-DDA/pull/88018))
 
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-07-11-0701 ([21ce7f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-0701))
 
 * Carpentry books in hobby woodworking rooms ([#87958](https://github.com/CleverRaven/Cataclysm-DDA/pull/87958))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-11-0419 ([119f107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-0419))
-
 * [MoM] Ferals can upgrade into feral psions ([#87956](https://github.com/CleverRaven/Cataclysm-DDA/pull/87956))
 * adjust the bag_durasack description ([#87946](https://github.com/CleverRaven/Cataclysm-DDA/pull/87946))
 * feat(UI) fix typos in book description ([#87882](https://github.com/CleverRaven/Cataclysm-DDA/pull/87882))
