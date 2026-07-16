@@ -1,3 +1,11 @@
+* Made streams not drivethrough-able by the autodrive ([#88015](https://github.com/CleverRaven/Cataclysm-DDA/pull/88015))
+* Removed Pockets from Spring suit ([#88007](https://github.com/CleverRaven/Cataclysm-DDA/pull/88007))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-16-1145 ([f1b5b5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-1145))
+
+* Generic factory dimensions, multi-region support ([#87999](https://github.com/CleverRaven/Cataclysm-DDA/pull/87999))
 
 ---
 
@@ -168,11 +176,6 @@
 
 * adjust the bag_durasack description ([#87946](https://github.com/CleverRaven/Cataclysm-DDA/pull/87946))
 * feat(UI) fix typos in book description ([#87882](https://github.com/CleverRaven/Cataclysm-DDA/pull/87882))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-10-0742 ([bfd66d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-0742))
-
 * Forbid reach attacks when using force unarmed ([#87939](https://github.com/CleverRaven/Cataclysm-DDA/pull/87939))
 * Sewing/electronics hobby rooms have reference books ([#87941](https://github.com/CleverRaven/Cataclysm-DDA/pull/87941))
 * Leg tentacle coverage for armor ([#87944](https://github.com/CleverRaven/Cataclysm-DDA/pull/87944))
@@ -221,7 +224,6 @@
 * Fix pipebomb typos ([#87855](https://github.com/CleverRaven/Cataclysm-DDA/pull/87855))
 * Boxer shorts are now 0.1mm thick ([#87858](https://github.com/CleverRaven/Cataclysm-DDA/pull/87858))
 * [Xedra Evolved] fix heathaze estoc damage  ([#87863](https://github.com/CleverRaven/Cataclysm-DDA/pull/87863))
-* [ Xedra Evolved ] Infected Vampire Chronomancers stop gaining Insight ([#87837](https://github.com/CleverRaven/Cataclysm-DDA/pull/87837))
 * Changed accepted battery type for hologram cloak from light to medium ([#87854](https://github.com/CleverRaven/Cataclysm-DDA/pull/87854))
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift ([#87856](https://github.com/CleverRaven/Cataclysm-DDA/pull/87856))
 * [Xedra Evolved] Fix werewolf claw attacks ([#87857](https://github.com/CleverRaven/Cataclysm-DDA/pull/87857))
@@ -230,8 +232,6 @@
 * Break monster grab if the monster was flung away ([#87853](https://github.com/CleverRaven/Cataclysm-DDA/pull/87853))
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition ([#87843](https://github.com/CleverRaven/Cataclysm-DDA/pull/87843))
 * Remove radioactivity from toxic waste dump map extra ([#87852](https://github.com/CleverRaven/Cataclysm-DDA/pull/87852))
-* Weekly Changelog 2026-06-22 to 2026-06-29 ([#87836](https://github.com/CleverRaven/Cataclysm-DDA/pull/87836))
 * [ Xedra Evolved ] Blood drinking and the state of being a vampire ([#87838](https://github.com/CleverRaven/Cataclysm-DDA/pull/87838))
 * Fix fractional DoT displays ([#87842](https://github.com/CleverRaven/Cataclysm-DDA/pull/87842))
-* Typo fixes ([#87834](https://github.com/CleverRaven/Cataclysm-DDA/pull/87834))
 * [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
