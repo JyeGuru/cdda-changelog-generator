@@ -1,3 +1,8 @@
+* More portal storm dungeon OMTs (#87985)
+* [MoM] Teleporting in the portal storm dungeon is...ill-advised (#88018)
+
+Cataclysm-DDA experimental build 2026-07-16-1933 (46a727b)
+* Fix zombies drowing if thrown (#88019)
 
 Cataclysm-DDA experimental build 2026-07-16-1239 (9681479)
 * Made streams not drivethrough-able by the autodrive (#88015)
@@ -148,6 +153,3 @@ Cataclysm-DDA experimental build 2026-07-11-0419 (119f107)
 * Break monster grab if the monster was flung away (#87853)
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition (#87843)
 * Remove radioactivity from toxic waste dump map extra (#87852)
-* [ Xedra Evolved ] Blood drinking and the state of being a vampire (#87838)
-* Fix fractional DoT displays (#87842)
-* [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell (#87841)

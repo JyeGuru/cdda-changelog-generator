@@ -1,3 +1,11 @@
+* More portal storm dungeon OMTs ([#87985](https://github.com/CleverRaven/Cataclysm-DDA/pull/87985))
+* [MoM] Teleporting in the portal storm dungeon is...ill-advised ([#88018](https://github.com/CleverRaven/Cataclysm-DDA/pull/88018))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-16-1933 ([46a727b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-1933))
+
+* Fix zombies drowing if thrown ([#88019](https://github.com/CleverRaven/Cataclysm-DDA/pull/88019))
 
 ---
 
@@ -232,6 +240,3 @@
 * Break monster grab if the monster was flung away ([#87853](https://github.com/CleverRaven/Cataclysm-DDA/pull/87853))
 * [Xedra Evolved] Move `Weave Gossamer` to caster_condition ([#87843](https://github.com/CleverRaven/Cataclysm-DDA/pull/87843))
 * Remove radioactivity from toxic waste dump map extra ([#87852](https://github.com/CleverRaven/Cataclysm-DDA/pull/87852))
-* [ Xedra Evolved ] Blood drinking and the state of being a vampire ([#87838](https://github.com/CleverRaven/Cataclysm-DDA/pull/87838))
-* Fix fractional DoT displays ([#87842](https://github.com/CleverRaven/Cataclysm-DDA/pull/87842))
-* [Xedra Evolved] Add `The Withering`, another Nether Sorcery spell ([#87841](https://github.com/CleverRaven/Cataclysm-DDA/pull/87841))
