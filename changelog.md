@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-16-1239 ([9681479](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-1239))
+
 * Made streams not drivethrough-able by the autodrive ([#88015](https://github.com/CleverRaven/Cataclysm-DDA/pull/88015))
 * Removed Pockets from Spring suit ([#88007](https://github.com/CleverRaven/Cataclysm-DDA/pull/88007))
 
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-11-0419 ([119f107](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-0419))
 
 * [MoM] Ferals can upgrade into feral psions ([#87956](https://github.com/CleverRaven/Cataclysm-DDA/pull/87956))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-10-2134 ([b9e103b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-10-2134))
-
 * adjust the bag_durasack description ([#87946](https://github.com/CleverRaven/Cataclysm-DDA/pull/87946))
 * feat(UI) fix typos in book description ([#87882](https://github.com/CleverRaven/Cataclysm-DDA/pull/87882))
 * Forbid reach attacks when using force unarmed ([#87939](https://github.com/CleverRaven/Cataclysm-DDA/pull/87939))
