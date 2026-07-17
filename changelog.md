@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-17-0050 ([e499c12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0050))
+
+* Add manga, make a manga-themed bookshelf for houses ([#88010](https://github.com/CleverRaven/Cataclysm-DDA/pull/88010))
+* [XEDRA Evolved] Pink alien plushie ([#88022](https://github.com/CleverRaven/Cataclysm-DDA/pull/88022))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-17-0002 ([3be83e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0002))
+
+* Add profession "Obsolete Academic" ([#88013](https://github.com/CleverRaven/Cataclysm-DDA/pull/88013))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-16-2029 ([4c06790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-2029))
 
 * More portal storm dungeon OMTs ([#87985](https://github.com/CleverRaven/Cataclysm-DDA/pull/87985))
@@ -169,17 +182,7 @@
 #### Cataclysm-DDA experimental build 2026-07-11-1749 ([d5b3afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-1749))
 
 * implement temperature modifier for weather ([#87957](https://github.com/CleverRaven/Cataclysm-DDA/pull/87957))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-11-0744 ([d84b90d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-0744))
-
 * Fix book uncrafts ([#87942](https://github.com/CleverRaven/Cataclysm-DDA/pull/87942))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-11-0701 ([21ce7f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-11-0701))
-
 * Carpentry books in hobby woodworking rooms ([#87958](https://github.com/CleverRaven/Cataclysm-DDA/pull/87958))
 * [MoM] Ferals can upgrade into feral psions ([#87956](https://github.com/CleverRaven/Cataclysm-DDA/pull/87956))
 * adjust the bag_durasack description ([#87946](https://github.com/CleverRaven/Cataclysm-DDA/pull/87946))
@@ -228,15 +231,12 @@
 * [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
 * [Hunvre] Loading screens ([#87873](https://github.com/CleverRaven/Cataclysm-DDA/pull/87873))
 * Kelvar is now fireproof ([#87859](https://github.com/CleverRaven/Cataclysm-DDA/pull/87859))
-* Fix nanomaterial spawns in sarcophagus, and tower and terrain manufactured ([#87844](https://github.com/CleverRaven/Cataclysm-DDA/pull/87844))
 * Fix pipebomb typos ([#87855](https://github.com/CleverRaven/Cataclysm-DDA/pull/87855))
 * Boxer shorts are now 0.1mm thick ([#87858](https://github.com/CleverRaven/Cataclysm-DDA/pull/87858))
 * [Xedra Evolved] fix heathaze estoc damage  ([#87863](https://github.com/CleverRaven/Cataclysm-DDA/pull/87863))
 * Changed accepted battery type for hologram cloak from light to medium ([#87854](https://github.com/CleverRaven/Cataclysm-DDA/pull/87854))
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift ([#87856](https://github.com/CleverRaven/Cataclysm-DDA/pull/87856))
 * [Xedra Evolved] Fix werewolf claw attacks ([#87857](https://github.com/CleverRaven/Cataclysm-DDA/pull/87857))
-* Text fixes and devtool update ([#87845](https://github.com/CleverRaven/Cataclysm-DDA/pull/87845))
 * make Stiltwalker lowercase ([#87848](https://github.com/CleverRaven/Cataclysm-DDA/pull/87848))
 * Break monster grab if the monster was flung away ([#87853](https://github.com/CleverRaven/Cataclysm-DDA/pull/87853))
-* [Xedra Evolved] Move `Weave Gossamer` to caster_condition ([#87843](https://github.com/CleverRaven/Cataclysm-DDA/pull/87843))
 * Remove radioactivity from toxic waste dump map extra ([#87852](https://github.com/CleverRaven/Cataclysm-DDA/pull/87852))
