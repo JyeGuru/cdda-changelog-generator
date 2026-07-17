@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-17-0851 (89c6aef)
+* Incompatible XE and Exoplanet (#88029)
+
 Cataclysm-DDA experimental build 2026-07-17-0536 (ad24056)
 * Alien plushies (#88012)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2026-07-12-1245 (6a82f7f)
 * check character gun range instead of item gun range in projectile creation (#87965)
 * Remove obsolete `edible` material example line from docs (#87978)
 * Fix Random NPCs not getting spells from professions or hobbies (#87967)
-
-Cataclysm-DDA experimental build 2026-07-12-1201 (0d3dd4d)
 * [ Xedra Evolved ] Make two Xedra professions common (#87968)
 * Fix COLDBLOOD4/Ectothermic speed bonus not applying in hot weather (#87959)
 * removed edible tag documentation from materials (#87973)
@@ -150,6 +151,5 @@ Cataclysm-DDA experimental build 2026-07-12-1201 (0d3dd4d)
 * Fix pipebomb typos (#87855)
 * Boxer shorts are now 0.1mm thick (#87858)
 * [Xedra Evolved] fix heathaze estoc damage  (#87863)
-* Changed accepted battery type for hologram cloak from light to medium (#87854)
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift (#87856)
 * [Xedra Evolved] Fix werewolf claw attacks (#87857)

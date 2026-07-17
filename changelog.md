@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-17-0851 ([89c6aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0851))
+
+* Incompatible XE and Exoplanet ([#88029](https://github.com/CleverRaven/Cataclysm-DDA/pull/88029))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-17-0536 ([ad24056](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0536))
 
 * Alien plushies ([#88012](https://github.com/CleverRaven/Cataclysm-DDA/pull/88012))
@@ -174,11 +180,6 @@
 * check character gun range instead of item gun range in projectile creation ([#87965](https://github.com/CleverRaven/Cataclysm-DDA/pull/87965))
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
 * Fix Random NPCs not getting spells from professions or hobbies ([#87967](https://github.com/CleverRaven/Cataclysm-DDA/pull/87967))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-12-1201 ([0d3dd4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-1201))
-
 * [ Xedra Evolved ] Make two Xedra professions common ([#87968](https://github.com/CleverRaven/Cataclysm-DDA/pull/87968))
 * Fix COLDBLOOD4/Ectothermic speed bonus not applying in hot weather ([#87959](https://github.com/CleverRaven/Cataclysm-DDA/pull/87959))
 * removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
@@ -237,6 +238,5 @@
 * Fix pipebomb typos ([#87855](https://github.com/CleverRaven/Cataclysm-DDA/pull/87855))
 * Boxer shorts are now 0.1mm thick ([#87858](https://github.com/CleverRaven/Cataclysm-DDA/pull/87858))
 * [Xedra Evolved] fix heathaze estoc damage  ([#87863](https://github.com/CleverRaven/Cataclysm-DDA/pull/87863))
-* Changed accepted battery type for hologram cloak from light to medium ([#87854](https://github.com/CleverRaven/Cataclysm-DDA/pull/87854))
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift ([#87856](https://github.com/CleverRaven/Cataclysm-DDA/pull/87856))
 * [Xedra Evolved] Fix werewolf claw attacks ([#87857](https://github.com/CleverRaven/Cataclysm-DDA/pull/87857))
