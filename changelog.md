@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-17-0536 ([ad24056](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0536))
+
+* Alien plushies ([#88012](https://github.com/CleverRaven/Cataclysm-DDA/pull/88012))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-17-0404 ([1d9402e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0404))
+
+* Update messy/disorganized palette accounting for book nests ([#88025](https://github.com/CleverRaven/Cataclysm-DDA/pull/88025))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-17-0251 ([c5e33e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0251))
 
 * Blankets cover your mutant limbs ([#88026](https://github.com/CleverRaven/Cataclysm-DDA/pull/88026))
@@ -168,19 +180,9 @@
 #### Cataclysm-DDA experimental build 2026-07-12-1201 ([0d3dd4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-1201))
 
 * [ Xedra Evolved ] Make two Xedra professions common ([#87968](https://github.com/CleverRaven/Cataclysm-DDA/pull/87968))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-12-0244 ([a030a5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-0244))
-
 * Fix COLDBLOOD4/Ectothermic speed bonus not applying in hot weather ([#87959](https://github.com/CleverRaven/Cataclysm-DDA/pull/87959))
 * removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
 * Aftershock: Better power armor durability. ([#87972](https://github.com/CleverRaven/Cataclysm-DDA/pull/87972))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-12-0148 ([7fa016a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-0148))
-
 * Fix segfault while trying to fire a bare hands ([#87966](https://github.com/CleverRaven/Cataclysm-DDA/pull/87966))
 * implement temperature modifier for weather ([#87957](https://github.com/CleverRaven/Cataclysm-DDA/pull/87957))
 * Fix book uncrafts ([#87942](https://github.com/CleverRaven/Cataclysm-DDA/pull/87942))
@@ -238,5 +240,3 @@
 * Changed accepted battery type for hologram cloak from light to medium ([#87854](https://github.com/CleverRaven/Cataclysm-DDA/pull/87854))
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift ([#87856](https://github.com/CleverRaven/Cataclysm-DDA/pull/87856))
 * [Xedra Evolved] Fix werewolf claw attacks ([#87857](https://github.com/CleverRaven/Cataclysm-DDA/pull/87857))
-* Break monster grab if the monster was flung away ([#87853](https://github.com/CleverRaven/Cataclysm-DDA/pull/87853))
-* Remove radioactivity from toxic waste dump map extra ([#87852](https://github.com/CleverRaven/Cataclysm-DDA/pull/87852))

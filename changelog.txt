@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-07-17-0536 (ad24056)
+* Alien plushies (#88012)
+
+Cataclysm-DDA experimental build 2026-07-17-0404 (1d9402e)
+* Update messy/disorganized palette accounting for book nests (#88025)
+
 Cataclysm-DDA experimental build 2026-07-17-0251 (c5e33e6)
 * Blankets cover your mutant limbs (#88026)
 
@@ -87,13 +93,9 @@ Cataclysm-DDA experimental build 2026-07-12-1245 (6a82f7f)
 
 Cataclysm-DDA experimental build 2026-07-12-1201 (0d3dd4d)
 * [ Xedra Evolved ] Make two Xedra professions common (#87968)
-
-Cataclysm-DDA experimental build 2026-07-12-0244 (a030a5b)
 * Fix COLDBLOOD4/Ectothermic speed bonus not applying in hot weather (#87959)
 * removed edible tag documentation from materials (#87973)
 * Aftershock: Better power armor durability. (#87972)
-
-Cataclysm-DDA experimental build 2026-07-12-0148 (7fa016a)
 * Fix segfault while trying to fire a bare hands (#87966)
 * implement temperature modifier for weather (#87957)
 * Fix book uncrafts (#87942)
@@ -151,5 +153,3 @@ Cataclysm-DDA experimental build 2026-07-12-0148 (7fa016a)
 * Changed accepted battery type for hologram cloak from light to medium (#87854)
 * [Xedra Evolved] Message for werewolves ready to learn a new moon gift (#87856)
 * [Xedra Evolved] Fix werewolf claw attacks (#87857)
-* Break monster grab if the monster was flung away (#87853)
-* Remove radioactivity from toxic waste dump map extra (#87852)
