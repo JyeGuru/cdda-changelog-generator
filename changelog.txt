@@ -1,3 +1,9 @@
+* Correct some texts again (#87930)
+* Add some more fluff nonfiction hardbacks (#88028)
+* Fix surroundings menu scrolling (#88035)
+
+Cataclysm-DDA experimental build 2026-07-17-2351 (38e97c6)
+* fix broken mod dimensions (#88037)
 
 Cataclysm-DDA experimental build 2026-07-17-0851 (89c6aef)
 * Incompatible XE and Exoplanet (#88029)
@@ -88,8 +94,6 @@ Cataclysm-DDA experimental build 2026-07-13-0356 (1cbec34)
 
 Cataclysm-DDA experimental build 2026-07-12-1336 (71f9bad)
 * [Xedra Evolved] Fix March Lord swords' requirements + looks_like (#87974)
-
-Cataclysm-DDA experimental build 2026-07-12-1245 (6a82f7f)
 * check character gun range instead of item gun range in projectile creation (#87965)
 * Remove obsolete `edible` material example line from docs (#87978)
 * Fix Random NPCs not getting spells from professions or hobbies (#87967)
@@ -148,8 +152,4 @@ Cataclysm-DDA experimental build 2026-07-12-1245 (6a82f7f)
 * [DinoMod] remove healthy from eggs (#87881)
 * [Hunvre] Loading screens (#87873)
 * Kelvar is now fireproof (#87859)
-* Fix pipebomb typos (#87855)
-* Boxer shorts are now 0.1mm thick (#87858)
 * [Xedra Evolved] fix heathaze estoc damage  (#87863)
-* [Xedra Evolved] Message for werewolves ready to learn a new moon gift (#87856)
-* [Xedra Evolved] Fix werewolf claw attacks (#87857)
