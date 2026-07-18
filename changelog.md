@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-18-0823 ([8d4959b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-0823))
+
+* replace "" with "default" in dimension checks ([#88042](https://github.com/CleverRaven/Cataclysm-DDA/pull/88042))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-18-0036 ([602bb51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-0036))
 
 * Changes to Bleach, allow cleaning of water with bleach ([#88030](https://github.com/CleverRaven/Cataclysm-DDA/pull/88030))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-07-13-0441 ([1a1aead](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-0441))
 
 * Fall further if you jump off the ledge in the portal dungeon ([#87984](https://github.com/CleverRaven/Cataclysm-DDA/pull/87984))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-13-0356 ([1cbec34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-0356))
-
 * fix pocket knife size ([#87971](https://github.com/CleverRaven/Cataclysm-DDA/pull/87971))
 * [Xedra Evolved] Fix March Lord swords' requirements + looks_like ([#87974](https://github.com/CleverRaven/Cataclysm-DDA/pull/87974))
 * check character gun range instead of item gun range in projectile creation ([#87965](https://github.com/CleverRaven/Cataclysm-DDA/pull/87965))
@@ -239,4 +240,3 @@
 * Guard NPC loading nonexistent faction ([#87875](https://github.com/CleverRaven/Cataclysm-DDA/pull/87875))
 * [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
 * [Hunvre] Loading screens ([#87873](https://github.com/CleverRaven/Cataclysm-DDA/pull/87873))
-* [Xedra Evolved] fix heathaze estoc damage  ([#87863](https://github.com/CleverRaven/Cataclysm-DDA/pull/87863))
