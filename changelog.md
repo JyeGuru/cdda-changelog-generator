@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-18-0036 ([602bb51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-0036))
+
+* Changes to Bleach, allow cleaning of water with bleach ([#88030](https://github.com/CleverRaven/Cataclysm-DDA/pull/88030))
 * Correct some texts again ([#87930](https://github.com/CleverRaven/Cataclysm-DDA/pull/87930))
 * Add some more fluff nonfiction hardbacks ([#88028](https://github.com/CleverRaven/Cataclysm-DDA/pull/88028))
 * Fix surroundings menu scrolling ([#88035](https://github.com/CleverRaven/Cataclysm-DDA/pull/88035))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-07-13-0356 ([1cbec34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-0356))
 
 * fix pocket knife size ([#87971](https://github.com/CleverRaven/Cataclysm-DDA/pull/87971))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-12-1336 ([71f9bad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-12-1336))
-
 * [Xedra Evolved] Fix March Lord swords' requirements + looks_like ([#87974](https://github.com/CleverRaven/Cataclysm-DDA/pull/87974))
 * check character gun range instead of item gun range in projectile creation ([#87965](https://github.com/CleverRaven/Cataclysm-DDA/pull/87965))
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
@@ -238,5 +239,4 @@
 * Guard NPC loading nonexistent faction ([#87875](https://github.com/CleverRaven/Cataclysm-DDA/pull/87875))
 * [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
 * [Hunvre] Loading screens ([#87873](https://github.com/CleverRaven/Cataclysm-DDA/pull/87873))
-* Kelvar is now fireproof ([#87859](https://github.com/CleverRaven/Cataclysm-DDA/pull/87859))
 * [Xedra Evolved] fix heathaze estoc damage  ([#87863](https://github.com/CleverRaven/Cataclysm-DDA/pull/87863))
