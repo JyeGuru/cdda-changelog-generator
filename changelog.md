@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-18-1617 ([2f87430](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-1617))
+
+* Fixed lucern hammer recipe ([#88041](https://github.com/CleverRaven/Cataclysm-DDA/pull/88041))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-18-1507 ([f94bd7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-1507))
 
 * Pull pipe and umbrellas off the fencing weapon category ([#88043](https://github.com/CleverRaven/Cataclysm-DDA/pull/88043))
@@ -175,11 +181,6 @@
 
 * Add message calling out the `fragment of reality` when you enter the portal storm dungeon ([#87981](https://github.com/CleverRaven/Cataclysm-DDA/pull/87981))
 * Aftershock: Biotechnical flats ([#87986](https://github.com/CleverRaven/Cataclysm-DDA/pull/87986))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-13-1248 ([4e94227](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-1248))
-
 * Forbid reach attacks through autoattack if using Force Unarmed style ([#87988](https://github.com/CleverRaven/Cataclysm-DDA/pull/87988))
 * Fall further if you jump off the ledge in the portal dungeon ([#87984](https://github.com/CleverRaven/Cataclysm-DDA/pull/87984))
 * fix pocket knife size ([#87971](https://github.com/CleverRaven/Cataclysm-DDA/pull/87971))
