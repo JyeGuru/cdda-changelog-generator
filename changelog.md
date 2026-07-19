@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-19-0338 ([b0869c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-0338))
+
+* [Xedra Evolved ] Ozma's Emerald Poppies ([#88040](https://github.com/CleverRaven/Cataclysm-DDA/pull/88040))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-18-1932 ([e42aa32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-1932))
 
 * Fix potassium hydroxide powder spawning in units of 1 ([#88031](https://github.com/CleverRaven/Cataclysm-DDA/pull/88031))

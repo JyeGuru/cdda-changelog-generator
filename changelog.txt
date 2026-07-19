@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-19-0338 (b0869c4)
+* [Xedra Evolved ] Ozma's Emerald Poppies (#88040)
+
 Cataclysm-DDA experimental build 2026-07-18-1932 (e42aa32)
 * Fix potassium hydroxide powder spawning in units of 1 (#88031)
 
