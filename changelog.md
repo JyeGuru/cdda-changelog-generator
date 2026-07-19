@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-19-1330 ([1d056db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1330))
+
+* Frozen Toaster Pastries shouldn't be in non refrigerated item groups ([#88050](https://github.com/CleverRaven/Cataclysm-DDA/pull/88050))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-19-1235 ([0f8bf6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1235))
+
+* Mod dependencies on NoNPCNeeds for major in repo mods ([#88046](https://github.com/CleverRaven/Cataclysm-DDA/pull/88046))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-19-0338 ([b0869c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-0338))
 
 * [Xedra Evolved ] Ozma's Emerald Poppies ([#88040](https://github.com/CleverRaven/Cataclysm-DDA/pull/88040))
@@ -174,17 +186,7 @@
 * [MoM] Add the SHADOW URGE process to the hospital labs ([#87975](https://github.com/CleverRaven/Cataclysm-DDA/pull/87975))
 * Fix Sky Island portal storm bug ([#87983](https://github.com/CleverRaven/Cataclysm-DDA/pull/87983))
 * Military laser sight works like a laser sight ([#87990](https://github.com/CleverRaven/Cataclysm-DDA/pull/87990))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-13-2343 ([e16dd34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-2343))
-
 * Imperial road decorative chunks ([#87989](https://github.com/CleverRaven/Cataclysm-DDA/pull/87989))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-13-2249 ([e67a9b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-13-2249))
-
 * [XE/MoM] Vampire torpor ends concentration ([#87992](https://github.com/CleverRaven/Cataclysm-DDA/pull/87992))
 * Add message calling out the `fragment of reality` when you enter the portal storm dungeon ([#87981](https://github.com/CleverRaven/Cataclysm-DDA/pull/87981))
 * Aftershock: Biotechnical flats ([#87986](https://github.com/CleverRaven/Cataclysm-DDA/pull/87986))
@@ -244,6 +246,4 @@
 * fix detergent not spawning in box in some places ([#87891](https://github.com/CleverRaven/Cataclysm-DDA/pull/87891))
 * Infested Moxie and spawns for other types. ([#87892](https://github.com/CleverRaven/Cataclysm-DDA/pull/87892))
 * If we were caught in several bear traps at once, conduct a separate attempt to free for each one ([#87886](https://github.com/CleverRaven/Cataclysm-DDA/pull/87886))
-* Guard NPC loading nonexistent faction ([#87875](https://github.com/CleverRaven/Cataclysm-DDA/pull/87875))
 * [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
-* [Hunvre] Loading screens ([#87873](https://github.com/CleverRaven/Cataclysm-DDA/pull/87873))

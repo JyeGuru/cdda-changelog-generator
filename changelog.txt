@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-07-19-1330 (1d056db)
+* Frozen Toaster Pastries shouldn't be in non refrigerated item groups (#88050)
+
+Cataclysm-DDA experimental build 2026-07-19-1235 (0f8bf6e)
+* Mod dependencies on NoNPCNeeds for major in repo mods (#88046)
+
 Cataclysm-DDA experimental build 2026-07-19-0338 (b0869c4)
 * [Xedra Evolved ] Ozma's Emerald Poppies (#88040)
 
@@ -90,11 +96,7 @@ Cataclysm-DDA experimental build 2026-07-14-0028 (c25c37c)
 * [MoM] Add the SHADOW URGE process to the hospital labs (#87975)
 * Fix Sky Island portal storm bug (#87983)
 * Military laser sight works like a laser sight (#87990)
-
-Cataclysm-DDA experimental build 2026-07-13-2343 (e16dd34)
 * Imperial road decorative chunks (#87989)
-
-Cataclysm-DDA experimental build 2026-07-13-2249 (e67a9b8)
 * [XE/MoM] Vampire torpor ends concentration (#87992)
 * Add message calling out the `fragment of reality` when you enter the portal storm dungeon (#87981)
 * Aftershock: Biotechnical flats (#87986)
@@ -154,6 +156,4 @@ Cataclysm-DDA experimental build 2026-07-13-2249 (e67a9b8)
 * fix detergent not spawning in box in some places (#87891)
 * Infested Moxie and spawns for other types. (#87892)
 * If we were caught in several bear traps at once, conduct a separate attempt to free for each one (#87886)
-* Guard NPC loading nonexistent faction (#87875)
 * [DinoMod] remove healthy from eggs (#87881)
-* [Hunvre] Loading screens (#87873)
