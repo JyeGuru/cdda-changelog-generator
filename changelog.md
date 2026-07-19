@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-19-1750 ([0a550d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1750))
+
+* Fix armor encumbrance tests ([#88055](https://github.com/CleverRaven/Cataclysm-DDA/pull/88055))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-19-1330 ([1d056db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1330))
 
 * Frozen Toaster Pastries shouldn't be in non refrigerated item groups ([#88050](https://github.com/CleverRaven/Cataclysm-DDA/pull/88050))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-07-14-0425 ([ef65f9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-0425))
 
 * [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-14-0028 ([c25c37c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-0028))
-
 * [MoM] Add the SHADOW URGE process to the hospital labs ([#87975](https://github.com/CleverRaven/Cataclysm-DDA/pull/87975))
 * Fix Sky Island portal storm bug ([#87983](https://github.com/CleverRaven/Cataclysm-DDA/pull/87983))
 * Military laser sight works like a laser sight ([#87990](https://github.com/CleverRaven/Cataclysm-DDA/pull/87990))
@@ -245,4 +246,3 @@
 * fix detergent not spawning in box in some places ([#87891](https://github.com/CleverRaven/Cataclysm-DDA/pull/87891))
 * Infested Moxie and spawns for other types. ([#87892](https://github.com/CleverRaven/Cataclysm-DDA/pull/87892))
 * If we were caught in several bear traps at once, conduct a separate attempt to free for each one ([#87886](https://github.com/CleverRaven/Cataclysm-DDA/pull/87886))
-* [DinoMod] remove healthy from eggs ([#87881](https://github.com/CleverRaven/Cataclysm-DDA/pull/87881))
