@@ -180,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-07-14-1311 ([25755cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1311))
 
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-14-1104 ([aa01c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1104))
-
 * data/json/recipes/recipe_medsandchemicals.json: fixup ethanol charges ([#87950](https://github.com/CleverRaven/Cataclysm-DDA/pull/87950))
 * Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
 * [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
@@ -244,5 +239,4 @@
 * Display detergent by weight ([#87900](https://github.com/CleverRaven/Cataclysm-DDA/pull/87900))
 * put bleach in bottles properly, add "display_type": "BY_VOLUME" ([#87897](https://github.com/CleverRaven/Cataclysm-DDA/pull/87897))
 * Can't target practice in the dark ([#87898](https://github.com/CleverRaven/Cataclysm-DDA/pull/87898))
-* fix detergent not spawning in box in some places ([#87891](https://github.com/CleverRaven/Cataclysm-DDA/pull/87891))
 * Infested Moxie and spawns for other types. ([#87892](https://github.com/CleverRaven/Cataclysm-DDA/pull/87892))
