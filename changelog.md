@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-20-1328 ([d03cf8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-1328))
+
+* more dimension related fixes ([#88044](https://github.com/CleverRaven/Cataclysm-DDA/pull/88044))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-20-1233 ([7be2e51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-1233))
+
+* Weekly Changelog 2026-07-13 to 2026-07-20 ([#88061](https://github.com/CleverRaven/Cataclysm-DDA/pull/88061))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-20-0303 ([11172c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-0303))
 
 * Add super-soldier serum, 29x-"Noonien" ([#88038](https://github.com/CleverRaven/Cataclysm-DDA/pull/88038))
@@ -168,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2026-07-14-2357 ([ef23dfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-2357))
 
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-14-1356 ([eb9ad68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1356))
-
 * [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-14-1311 ([25755cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1311))
-
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
 * data/json/recipes/recipe_medsandchemicals.json: fixup ethanol charges ([#87950](https://github.com/CleverRaven/Cataclysm-DDA/pull/87950))
 * Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
@@ -231,7 +233,6 @@
 * Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
 * Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
 * [XEDRA Evolved] Summer March Lord's bright light ([#87905](https://github.com/CleverRaven/Cataclysm-DDA/pull/87905))
-* Aftershock: Ipav patch kits and make welding goggles for sale. ([#87893](https://github.com/CleverRaven/Cataclysm-DDA/pull/87893))
 * Add the lagomorph gland to extra_mut_scen ([#87896](https://github.com/CleverRaven/Cataclysm-DDA/pull/87896))
 * fix mine having million billion sacks with 1 sand or 1 soil ([#87899](https://github.com/CleverRaven/Cataclysm-DDA/pull/87899))
 * Isolation Protocol: Office levels are easier to navigate ([#87903](https://github.com/CleverRaven/Cataclysm-DDA/pull/87903))
@@ -239,4 +240,3 @@
 * Display detergent by weight ([#87900](https://github.com/CleverRaven/Cataclysm-DDA/pull/87900))
 * put bleach in bottles properly, add "display_type": "BY_VOLUME" ([#87897](https://github.com/CleverRaven/Cataclysm-DDA/pull/87897))
 * Can't target practice in the dark ([#87898](https://github.com/CleverRaven/Cataclysm-DDA/pull/87898))
-* Infested Moxie and spawns for other types. ([#87892](https://github.com/CleverRaven/Cataclysm-DDA/pull/87892))
