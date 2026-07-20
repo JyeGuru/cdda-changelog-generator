@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-20-0303 ([11172c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-0303))
+
+* Add super-soldier serum, 29x-"Noonien" ([#88038](https://github.com/CleverRaven/Cataclysm-DDA/pull/88038))
+* [XE] Remove leftover checks for obsoleted blotted sun weather. ([#88057](https://github.com/CleverRaven/Cataclysm-DDA/pull/88057))
+* Exodii traders dont accept currencies ([#88058](https://github.com/CleverRaven/Cataclysm-DDA/pull/88058))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-20-0219 ([1a02464](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-0219))
+
+* [XE] Fix Boann's march lord killing mission ([#88059](https://github.com/CleverRaven/Cataclysm-DDA/pull/88059))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-19-1750 ([0a550d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1750))
 
 * Fix armor encumbrance tests ([#88055](https://github.com/CleverRaven/Cataclysm-DDA/pull/88055))
@@ -172,17 +186,7 @@
 #### Cataclysm-DDA experimental build 2026-07-14-1104 ([aa01c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-1104))
 
 * data/json/recipes/recipe_medsandchemicals.json: fixup ethanol charges ([#87950](https://github.com/CleverRaven/Cataclysm-DDA/pull/87950))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-14-0518 ([7e8e330](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-0518))
-
 * Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-14-0425 ([ef65f9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-0425))
-
 * [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
 * [MoM] Add the SHADOW URGE process to the hospital labs ([#87975](https://github.com/CleverRaven/Cataclysm-DDA/pull/87975))
 * Fix Sky Island portal storm bug ([#87983](https://github.com/CleverRaven/Cataclysm-DDA/pull/87983))
@@ -208,7 +212,6 @@
 * Carpentry books in hobby woodworking rooms ([#87958](https://github.com/CleverRaven/Cataclysm-DDA/pull/87958))
 * [MoM] Ferals can upgrade into feral psions ([#87956](https://github.com/CleverRaven/Cataclysm-DDA/pull/87956))
 * adjust the bag_durasack description ([#87946](https://github.com/CleverRaven/Cataclysm-DDA/pull/87946))
-* feat(UI) fix typos in book description ([#87882](https://github.com/CleverRaven/Cataclysm-DDA/pull/87882))
 * Forbid reach attacks when using force unarmed ([#87939](https://github.com/CleverRaven/Cataclysm-DDA/pull/87939))
 * Sewing/electronics hobby rooms have reference books ([#87941](https://github.com/CleverRaven/Cataclysm-DDA/pull/87941))
 * Leg tentacle coverage for armor ([#87944](https://github.com/CleverRaven/Cataclysm-DDA/pull/87944))
@@ -221,7 +224,6 @@
 * [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
 * Weekly Changelog 2026-06-29 to 2026-07-06 ([#87909](https://github.com/CleverRaven/Cataclysm-DDA/pull/87909))
 * Update survivor_notes.json ([#87925](https://github.com/CleverRaven/Cataclysm-DDA/pull/87925))
-* Added immunity to burning and high heat resistance to ballistic kevlar and rigid kevlar ([#87888](https://github.com/CleverRaven/Cataclysm-DDA/pull/87888))
 * Revert death vars changes ([#87919](https://github.com/CleverRaven/Cataclysm-DDA/pull/87919))
 * Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
 * Add `has_wielded_with_flag` as a jmath condition, use in MoM ([#87908](https://github.com/CleverRaven/Cataclysm-DDA/pull/87908))
@@ -231,7 +233,6 @@
 * Updated `looks_like` for a set of armor ([#87910](https://github.com/CleverRaven/Cataclysm-DDA/pull/87910))
 * Print fungus bristle attack message only if playes sees the attacker ([#87911](https://github.com/CleverRaven/Cataclysm-DDA/pull/87911))
 * Make reading_light rechargeable ([#87912](https://github.com/CleverRaven/Cataclysm-DDA/pull/87912))
-* Fix grammar in Advanced Game Design textbook description ([#87884](https://github.com/CleverRaven/Cataclysm-DDA/pull/87884))
 * Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
 * Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
 * [XEDRA Evolved] Summer March Lord's bright light ([#87905](https://github.com/CleverRaven/Cataclysm-DDA/pull/87905))
@@ -245,4 +246,3 @@
 * Can't target practice in the dark ([#87898](https://github.com/CleverRaven/Cataclysm-DDA/pull/87898))
 * fix detergent not spawning in box in some places ([#87891](https://github.com/CleverRaven/Cataclysm-DDA/pull/87891))
 * Infested Moxie and spawns for other types. ([#87892](https://github.com/CleverRaven/Cataclysm-DDA/pull/87892))
-* If we were caught in several bear traps at once, conduct a separate attempt to free for each one ([#87886](https://github.com/CleverRaven/Cataclysm-DDA/pull/87886))
