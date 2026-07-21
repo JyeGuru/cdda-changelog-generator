@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-07-21-1434 (496a442)
+* 590 s breacher adjustment (#88076)
+* Add enchantment to modify bleeding rate (#88068)
+
+Cataclysm-DDA experimental build 2026-07-21-1340 (8a80643)
+* Pocket options: allow interacting with a pocket with hidden contents (fixes crashes too) (#88064)
+
 Cataclysm-DDA experimental build 2026-07-21-0959 (c847628)
 * Remove ASCII art & bodygraph empty lines (#88073)
 
@@ -87,11 +94,7 @@ Cataclysm-DDA experimental build 2026-07-16-1933 (46a727b)
 Cataclysm-DDA experimental build 2026-07-16-1239 (9681479)
 * Made streams not drivethrough-able by the autodrive (#88015)
 * Removed Pockets from Spring suit (#88007)
-
-Cataclysm-DDA experimental build 2026-07-16-1145 (f1b5b5d)
 * Generic factory dimensions, multi-region support (#87999)
-
-Cataclysm-DDA experimental build 2026-07-15-2117 (b95def4)
 * Cleanup chem_ethanol (#88001)
 * [Hunvre] Add dynamic temperature (#87948)
 * Use bookshelf nests to group books by theme in homes (#87951)
@@ -149,8 +152,5 @@ Cataclysm-DDA experimental build 2026-07-15-2117 (b95def4)
 * Update Jorts to have the same pockets as Jeans (#87907)
 * Hotwire if has immobilizer, not if has security (#87904)
 * [XEDRA Evolved] Summer March Lord's bright light (#87905)
-* fix mine having million billion sacks with 1 sand or 1 soil (#87899)
 * Isolation Protocol: Office levels are easier to navigate (#87903)
 * [Xedra Evolved] Lilin only attack you in the main dimension (#87902)
-* Display detergent by weight (#87900)
-* Can't target practice in the dark (#87898)
