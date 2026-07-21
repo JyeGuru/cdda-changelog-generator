@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-21-0959 ([c847628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0959))
+
+* Remove ASCII art & bodygraph empty lines ([#88073](https://github.com/CleverRaven/Cataclysm-DDA/pull/88073))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-21-0914 ([86009be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0914))
+
+* Double map range and hint for 🌹 Alonso mission 🌹 ([#88075](https://github.com/CleverRaven/Cataclysm-DDA/pull/88075))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-21-0224 ([b5dc008](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0224))
 
 * Add cloak and blanket coverage for wings, wearing something over your wings stops you from gliding ([#88036](https://github.com/CleverRaven/Cataclysm-DDA/pull/88036))
@@ -168,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2026-07-15-2117 ([b95def4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-2117))
 
 * Cleanup chem_ethanol ([#88001](https://github.com/CleverRaven/Cataclysm-DDA/pull/88001))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-15-1943 ([dda53ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-1943))
-
 * [Hunvre] Add dynamic temperature ([#87948](https://github.com/CleverRaven/Cataclysm-DDA/pull/87948))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-15-0649 ([4c65820](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-0649))
-
 * Use bookshelf nests to group books by theme in homes ([#87951](https://github.com/CleverRaven/Cataclysm-DDA/pull/87951))
 * examine_action supports array notation ([#87934](https://github.com/CleverRaven/Cataclysm-DDA/pull/87934))
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
@@ -234,10 +236,8 @@
 * Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
 * Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
 * [XEDRA Evolved] Summer March Lord's bright light ([#87905](https://github.com/CleverRaven/Cataclysm-DDA/pull/87905))
-* Add the lagomorph gland to extra_mut_scen ([#87896](https://github.com/CleverRaven/Cataclysm-DDA/pull/87896))
 * fix mine having million billion sacks with 1 sand or 1 soil ([#87899](https://github.com/CleverRaven/Cataclysm-DDA/pull/87899))
 * Isolation Protocol: Office levels are easier to navigate ([#87903](https://github.com/CleverRaven/Cataclysm-DDA/pull/87903))
 * [Xedra Evolved] Lilin only attack you in the main dimension ([#87902](https://github.com/CleverRaven/Cataclysm-DDA/pull/87902))
 * Display detergent by weight ([#87900](https://github.com/CleverRaven/Cataclysm-DDA/pull/87900))
-* put bleach in bottles properly, add "display_type": "BY_VOLUME" ([#87897](https://github.com/CleverRaven/Cataclysm-DDA/pull/87897))
 * Can't target practice in the dark ([#87898](https://github.com/CleverRaven/Cataclysm-DDA/pull/87898))
