@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-21-0224 ([b5dc008](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0224))
+
+* Add cloak and blanket coverage for wings, wearing something over your wings stops you from gliding ([#88036](https://github.com/CleverRaven/Cataclysm-DDA/pull/88036))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-21-0129 ([b495438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0129))
+
+* Spelling fix for folding solar panel in->it ([#88071](https://github.com/CleverRaven/Cataclysm-DDA/pull/88071))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-20-1328 ([d03cf8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-1328))
 
 * more dimension related fixes ([#88044](https://github.com/CleverRaven/Cataclysm-DDA/pull/88044))
@@ -168,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2026-07-15-0649 ([4c65820](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-0649))
 
 * Use bookshelf nests to group books by theme in homes ([#87951](https://github.com/CleverRaven/Cataclysm-DDA/pull/87951))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-15-0043 ([4df5845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-15-0043))
-
 * examine_action supports array notation ([#87934](https://github.com/CleverRaven/Cataclysm-DDA/pull/87934))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-14-2357 ([ef23dfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-14-2357))
-
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
 * [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
@@ -216,7 +218,6 @@
 * Rebalance `homebooks` itemgroups ([#87926](https://github.com/CleverRaven/Cataclysm-DDA/pull/87926))
 * update shot and shot410 ([#87938](https://github.com/CleverRaven/Cataclysm-DDA/pull/87938))
 * Put ammonia hydroxide in bottles ([#87929](https://github.com/CleverRaven/Cataclysm-DDA/pull/87929))
-* [ Xedra Evolved ] Faewild addiction ([#87895](https://github.com/CleverRaven/Cataclysm-DDA/pull/87895))
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
 * [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
 * Weekly Changelog 2026-06-29 to 2026-07-06 ([#87909](https://github.com/CleverRaven/Cataclysm-DDA/pull/87909))
