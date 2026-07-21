@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-21-1627 ([b9a8c7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-1627))
+
+* Minor update to the utility exoskeleton ([#88080](https://github.com/CleverRaven/Cataclysm-DDA/pull/88080))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-21-1434 ([496a442](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-1434))
 
 * 590 s breacher adjustment ([#88076](https://github.com/CleverRaven/Cataclysm-DDA/pull/88076))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-07-16-1933 ([46a727b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-1933))
 
 * Fix zombies drowing if thrown ([#88019](https://github.com/CleverRaven/Cataclysm-DDA/pull/88019))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-16-1239 ([9681479](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-1239))
-
 * Made streams not drivethrough-able by the autodrive ([#88015](https://github.com/CleverRaven/Cataclysm-DDA/pull/88015))
 * Removed Pockets from Spring suit ([#88007](https://github.com/CleverRaven/Cataclysm-DDA/pull/88007))
 * Generic factory dimensions, multi-region support ([#87999](https://github.com/CleverRaven/Cataclysm-DDA/pull/87999))
@@ -240,4 +241,3 @@
 * Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
 * [XEDRA Evolved] Summer March Lord's bright light ([#87905](https://github.com/CleverRaven/Cataclysm-DDA/pull/87905))
 * Isolation Protocol: Office levels are easier to navigate ([#87903](https://github.com/CleverRaven/Cataclysm-DDA/pull/87903))
-* [Xedra Evolved] Lilin only attack you in the main dimension ([#87902](https://github.com/CleverRaven/Cataclysm-DDA/pull/87902))
