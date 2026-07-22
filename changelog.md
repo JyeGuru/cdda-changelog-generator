@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-22-1606 ([de77bf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-1606))
+
+* Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-22-1159 ([32de7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-1159))
 
 * thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-17-2351 ([38e97c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-2351))
 
 * fix broken mod dimensions ([#88037](https://github.com/CleverRaven/Cataclysm-DDA/pull/88037))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-17-0851 ([89c6aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0851))
-
 * Incompatible XE and Exoplanet ([#88029](https://github.com/CleverRaven/Cataclysm-DDA/pull/88029))
 * Alien plushies ([#88012](https://github.com/CleverRaven/Cataclysm-DDA/pull/88012))
 * Update messy/disorganized palette accounting for book nests ([#88025](https://github.com/CleverRaven/Cataclysm-DDA/pull/88025))
@@ -235,4 +236,3 @@
 * [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
 * Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
 * [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
-* Make reading_light rechargeable ([#87912](https://github.com/CleverRaven/Cataclysm-DDA/pull/87912))
