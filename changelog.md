@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-22-0424 ([98ca78d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0424))
+
+* [Innawood] Adds autolearn to poppy drug recipes ([#87933](https://github.com/CleverRaven/Cataclysm-DDA/pull/87933))
+* Add non-book book nests ([#88082](https://github.com/CleverRaven/Cataclysm-DDA/pull/88082))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-22-0329 ([f832627](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0329))
+
+* Document HUNGER_DISRUPTION flag, apply in appropriate places  ([#88081](https://github.com/CleverRaven/Cataclysm-DDA/pull/88081))
 * fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
 
 ---
@@ -161,17 +174,7 @@
 #### Cataclysm-DDA experimental build 2026-07-17-0404 ([1d9402e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0404))
 
 * Update messy/disorganized palette accounting for book nests ([#88025](https://github.com/CleverRaven/Cataclysm-DDA/pull/88025))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-17-0251 ([c5e33e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0251))
-
 * Blankets cover your mutant limbs ([#88026](https://github.com/CleverRaven/Cataclysm-DDA/pull/88026))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-17-0050 ([e499c12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0050))
-
 * Add manga, make a manga-themed bookshelf for houses ([#88010](https://github.com/CleverRaven/Cataclysm-DDA/pull/88010))
 * [XEDRA Evolved] Pink alien plushie ([#88022](https://github.com/CleverRaven/Cataclysm-DDA/pull/88022))
 * Add profession "Obsolete Academic" ([#88013](https://github.com/CleverRaven/Cataclysm-DDA/pull/88013))
@@ -224,15 +227,12 @@
 * Put ammonia hydroxide in bottles ([#87929](https://github.com/CleverRaven/Cataclysm-DDA/pull/87929))
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
 * [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
-* Weekly Changelog 2026-06-29 to 2026-07-06 ([#87909](https://github.com/CleverRaven/Cataclysm-DDA/pull/87909))
 * Update survivor_notes.json ([#87925](https://github.com/CleverRaven/Cataclysm-DDA/pull/87925))
 * Revert death vars changes ([#87919](https://github.com/CleverRaven/Cataclysm-DDA/pull/87919))
 * Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
-* Add `has_wielded_with_flag` as a jmath condition, use in MoM ([#87908](https://github.com/CleverRaven/Cataclysm-DDA/pull/87908))
 * [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
 * Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
 * [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
 * Updated `looks_like` for a set of armor ([#87910](https://github.com/CleverRaven/Cataclysm-DDA/pull/87910))
 * Print fungus bristle attack message only if playes sees the attacker ([#87911](https://github.com/CleverRaven/Cataclysm-DDA/pull/87911))
 * Make reading_light rechargeable ([#87912](https://github.com/CleverRaven/Cataclysm-DDA/pull/87912))
-* Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
