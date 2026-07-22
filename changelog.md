@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-22-1159 ([32de7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-1159))
+
+* thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-22-0756 ([5e54a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0756))
 
 * Fix naval gun and zombie hunting rifle valid mod locations ([#88065](https://github.com/CleverRaven/Cataclysm-DDA/pull/88065))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-17-0851 ([89c6aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0851))
 
 * Incompatible XE and Exoplanet ([#88029](https://github.com/CleverRaven/Cataclysm-DDA/pull/88029))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-17-0536 ([ad24056](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0536))
-
 * Alien plushies ([#88012](https://github.com/CleverRaven/Cataclysm-DDA/pull/88012))
 * Update messy/disorganized palette accounting for book nests ([#88025](https://github.com/CleverRaven/Cataclysm-DDA/pull/88025))
 * Blankets cover your mutant limbs ([#88026](https://github.com/CleverRaven/Cataclysm-DDA/pull/88026))
@@ -234,5 +235,4 @@
 * [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
 * Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
 * [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
-* Print fungus bristle attack message only if playes sees the attacker ([#87911](https://github.com/CleverRaven/Cataclysm-DDA/pull/87911))
 * Make reading_light rechargeable ([#87912](https://github.com/CleverRaven/Cataclysm-DDA/pull/87912))

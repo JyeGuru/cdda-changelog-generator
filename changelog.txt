@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-22-1159 (32de7b5)
+* thaumathurgy -> thaumaturgy (#88089)
+
 Cataclysm-DDA experimental build 2026-07-22-0756 (5e54a8c)
 * Fix naval gun and zombie hunting rifle valid mod locations (#88065)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-07-17-2351 (38e97c6)
 
 Cataclysm-DDA experimental build 2026-07-17-0851 (89c6aef)
 * Incompatible XE and Exoplanet (#88029)
-
-Cataclysm-DDA experimental build 2026-07-17-0536 (ad24056)
 * Alien plushies (#88012)
 * Update messy/disorganized palette accounting for book nests (#88025)
 * Blankets cover your mutant limbs (#88026)
@@ -150,5 +151,4 @@ Cataclysm-DDA experimental build 2026-07-17-0536 (ad24056)
 * [Xedra Evolved] Moons tears repair updates (#87914)
 * Fix mod random encounter removal (#87915)
 * [MoM] Increase channeling time for extremely fast powers (#87913)
-* Print fungus bristle attack message only if playes sees the attacker (#87911)
 * Make reading_light rechargeable (#87912)
