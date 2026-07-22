@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-22-2223 (10b9997)
+* Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) (#88083)
+
 Cataclysm-DDA experimental build 2026-07-22-1606 (de77bf0)
 * Add the `PAUSE_INFECTIONS` flag (#88088)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-07-18-0036 (602bb51)
 * Correct some texts again (#87930)
 * Add some more fluff nonfiction hardbacks (#88028)
 * Fix surroundings menu scrolling (#88035)
-
-Cataclysm-DDA experimental build 2026-07-17-2351 (38e97c6)
 * fix broken mod dimensions (#88037)
 * Incompatible XE and Exoplanet (#88029)
 * Alien plushies (#88012)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2026-07-17-2351 (38e97c6)
 * Added plurality to Nuts! (#87920)
 * [Xedra Evolved] Moons tears repair updates (#87914)
 * Fix mod random encounter removal (#87915)
-* [MoM] Increase channeling time for extremely fast powers (#87913)

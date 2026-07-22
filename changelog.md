@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-22-2223 ([10b9997](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-2223))
+
+* Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) ([#88083](https://github.com/CleverRaven/Cataclysm-DDA/pull/88083))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-22-1606 ([de77bf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-1606))
 
 * Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
@@ -168,11 +174,6 @@
 * Correct some texts again ([#87930](https://github.com/CleverRaven/Cataclysm-DDA/pull/87930))
 * Add some more fluff nonfiction hardbacks ([#88028](https://github.com/CleverRaven/Cataclysm-DDA/pull/88028))
 * Fix surroundings menu scrolling ([#88035](https://github.com/CleverRaven/Cataclysm-DDA/pull/88035))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-17-2351 ([38e97c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-2351))
-
 * fix broken mod dimensions ([#88037](https://github.com/CleverRaven/Cataclysm-DDA/pull/88037))
 * Incompatible XE and Exoplanet ([#88029](https://github.com/CleverRaven/Cataclysm-DDA/pull/88029))
 * Alien plushies ([#88012](https://github.com/CleverRaven/Cataclysm-DDA/pull/88012))
@@ -235,4 +236,3 @@
 * Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
 * [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
 * Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
-* [MoM] Increase channeling time for extremely fast powers ([#87913](https://github.com/CleverRaven/Cataclysm-DDA/pull/87913))
