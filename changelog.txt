@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-22-0756 (5e54a8c)
+* Fix naval gun and zombie hunting rifle valid mod locations (#88065)
+
 Cataclysm-DDA experimental build 2026-07-22-0424 (98ca78d)
 * [Innawood] Adds autolearn to poppy drug recipes (#87933)
 * Add non-book book nests (#88082)
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-07-17-0851 (89c6aef)
 
 Cataclysm-DDA experimental build 2026-07-17-0536 (ad24056)
 * Alien plushies (#88012)
-
-Cataclysm-DDA experimental build 2026-07-17-0404 (1d9402e)
 * Update messy/disorganized palette accounting for book nests (#88025)
 * Blankets cover your mutant limbs (#88026)
 * Add manga, make a manga-themed bookshelf for houses (#88010)
@@ -149,6 +150,5 @@ Cataclysm-DDA experimental build 2026-07-17-0404 (1d9402e)
 * [Xedra Evolved] Moons tears repair updates (#87914)
 * Fix mod random encounter removal (#87915)
 * [MoM] Increase channeling time for extremely fast powers (#87913)
-* Updated `looks_like` for a set of armor (#87910)
 * Print fungus bristle attack message only if playes sees the attacker (#87911)
 * Make reading_light rechargeable (#87912)
