@@ -1,3 +1,16 @@
+* fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-22-0150 ([68b992e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0150))
+
+* Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-22-0041 ([5a526e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0041))
+
+* Add european comics ([#88034](https://github.com/CleverRaven/Cataclysm-DDA/pull/88034))
 
 ---
 
@@ -161,24 +174,9 @@
 
 * Add manga, make a manga-themed bookshelf for houses ([#88010](https://github.com/CleverRaven/Cataclysm-DDA/pull/88010))
 * [XEDRA Evolved] Pink alien plushie ([#88022](https://github.com/CleverRaven/Cataclysm-DDA/pull/88022))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-17-0002 ([3be83e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-17-0002))
-
 * Add profession "Obsolete Academic" ([#88013](https://github.com/CleverRaven/Cataclysm-DDA/pull/88013))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-16-2029 ([4c06790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-2029))
-
 * More portal storm dungeon OMTs ([#87985](https://github.com/CleverRaven/Cataclysm-DDA/pull/87985))
 * [MoM] Teleporting in the portal storm dungeon is...ill-advised ([#88018](https://github.com/CleverRaven/Cataclysm-DDA/pull/88018))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-16-1933 ([46a727b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-16-1933))
-
 * Fix zombies drowing if thrown ([#88019](https://github.com/CleverRaven/Cataclysm-DDA/pull/88019))
 * Made streams not drivethrough-able by the autodrive ([#88015](https://github.com/CleverRaven/Cataclysm-DDA/pull/88015))
 * Removed Pockets from Spring suit ([#88007](https://github.com/CleverRaven/Cataclysm-DDA/pull/88007))
@@ -238,6 +236,3 @@
 * Print fungus bristle attack message only if playes sees the attacker ([#87911](https://github.com/CleverRaven/Cataclysm-DDA/pull/87911))
 * Make reading_light rechargeable ([#87912](https://github.com/CleverRaven/Cataclysm-DDA/pull/87912))
 * Update Jorts to have the same pockets as Jeans ([#87907](https://github.com/CleverRaven/Cataclysm-DDA/pull/87907))
-* Hotwire if has immobilizer, not if has security ([#87904](https://github.com/CleverRaven/Cataclysm-DDA/pull/87904))
-* [XEDRA Evolved] Summer March Lord's bright light ([#87905](https://github.com/CleverRaven/Cataclysm-DDA/pull/87905))
-* Isolation Protocol: Office levels are easier to navigate ([#87903](https://github.com/CleverRaven/Cataclysm-DDA/pull/87903))
