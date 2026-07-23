@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-23-0103 ([0a45bf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0103))
+
+* Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-22-2223 ([10b9997](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-2223))
 
 * Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) ([#88083](https://github.com/CleverRaven/Cataclysm-DDA/pull/88083))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-07-18-0823 ([8d4959b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-0823))
 
 * replace "" with "default" in dimension checks ([#88042](https://github.com/CleverRaven/Cataclysm-DDA/pull/88042))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-18-0036 ([602bb51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-0036))
-
 * Changes to Bleach, allow cleaning of water with bleach ([#88030](https://github.com/CleverRaven/Cataclysm-DDA/pull/88030))
 * Correct some texts again ([#87930](https://github.com/CleverRaven/Cataclysm-DDA/pull/87930))
 * Add some more fluff nonfiction hardbacks ([#88028](https://github.com/CleverRaven/Cataclysm-DDA/pull/88028))
@@ -234,5 +235,4 @@
 * Update survivor_notes.json ([#87925](https://github.com/CleverRaven/Cataclysm-DDA/pull/87925))
 * Revert death vars changes ([#87919](https://github.com/CleverRaven/Cataclysm-DDA/pull/87919))
 * Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
-* [Xedra Evolved] Moons tears repair updates ([#87914](https://github.com/CleverRaven/Cataclysm-DDA/pull/87914))
 * Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
