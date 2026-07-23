@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-23-0243 ([4ab9e07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0243))
+
+* More region layouts + Voronoi library ([#88020](https://github.com/CleverRaven/Cataclysm-DDA/pull/88020))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-23-0157 ([f4ea92a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0157))
+
+* Add crashed XEDRA serum transport truck map extras ([#88054](https://github.com/CleverRaven/Cataclysm-DDA/pull/88054))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-23-0103 ([0a45bf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0103))
 
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
@@ -159,17 +171,7 @@
 #### Cataclysm-DDA experimental build 2026-07-18-1617 ([2f87430](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-1617))
 
 * Fixed lucern hammer recipe ([#88041](https://github.com/CleverRaven/Cataclysm-DDA/pull/88041))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-18-1507 ([f94bd7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-1507))
-
 * Pull pipe and umbrellas off the fencing weapon category ([#88043](https://github.com/CleverRaven/Cataclysm-DDA/pull/88043))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-18-0823 ([8d4959b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-0823))
-
 * replace "" with "default" in dimension checks ([#88042](https://github.com/CleverRaven/Cataclysm-DDA/pull/88042))
 * Changes to Bleach, allow cleaning of water with bleach ([#88030](https://github.com/CleverRaven/Cataclysm-DDA/pull/88030))
 * Correct some texts again ([#87930](https://github.com/CleverRaven/Cataclysm-DDA/pull/87930))
@@ -233,6 +235,4 @@
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
 * [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
 * Update survivor_notes.json ([#87925](https://github.com/CleverRaven/Cataclysm-DDA/pull/87925))
-* Revert death vars changes ([#87919](https://github.com/CleverRaven/Cataclysm-DDA/pull/87919))
 * Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
-* Fix mod random encounter removal ([#87915](https://github.com/CleverRaven/Cataclysm-DDA/pull/87915))
