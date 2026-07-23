@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-23-1635 (3ef1dac)
+* Slightly more helpful murderbug messages (#88095)
+
 Cataclysm-DDA experimental build 2026-07-23-0243 (4ab9e07)
 * More region layouts + Voronoi library (#88020)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-07-19-0338 (b0869c4)
 
 Cataclysm-DDA experimental build 2026-07-18-1932 (e42aa32)
 * Fix potassium hydroxide powder spawning in units of 1 (#88031)
-
-Cataclysm-DDA experimental build 2026-07-18-1617 (2f87430)
 * Fixed lucern hammer recipe (#88041)
 * Pull pipe and umbrellas off the fencing weapon category (#88043)
 * replace "" with "default" in dimension checks (#88042)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2026-07-18-1617 (2f87430)
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour (#87924)
 * [ Xedra Evolved ] Torpor ends normal sleep (#87921)
 * Update survivor_notes.json (#87925)
-* Added plurality to Nuts! (#87920)

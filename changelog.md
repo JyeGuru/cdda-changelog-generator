@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-23-1635 ([3ef1dac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-1635))
+
+* Slightly more helpful murderbug messages ([#88095](https://github.com/CleverRaven/Cataclysm-DDA/pull/88095))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-23-0243 ([4ab9e07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0243))
 
 * More region layouts + Voronoi library ([#88020](https://github.com/CleverRaven/Cataclysm-DDA/pull/88020))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-07-18-1932 ([e42aa32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-1932))
 
 * Fix potassium hydroxide powder spawning in units of 1 ([#88031](https://github.com/CleverRaven/Cataclysm-DDA/pull/88031))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-18-1617 ([2f87430](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-1617))
-
 * Fixed lucern hammer recipe ([#88041](https://github.com/CleverRaven/Cataclysm-DDA/pull/88041))
 * Pull pipe and umbrellas off the fencing weapon category ([#88043](https://github.com/CleverRaven/Cataclysm-DDA/pull/88043))
 * replace "" with "default" in dimension checks ([#88042](https://github.com/CleverRaven/Cataclysm-DDA/pull/88042))
@@ -235,4 +236,3 @@
 * [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
 * [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
 * Update survivor_notes.json ([#87925](https://github.com/CleverRaven/Cataclysm-DDA/pull/87925))
-* Added plurality to Nuts! ([#87920](https://github.com/CleverRaven/Cataclysm-DDA/pull/87920))
