@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-24-1518 ([e4972a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-1518))
+
+* De-deadnaming ([#88100](https://github.com/CleverRaven/Cataclysm-DDA/pull/88100))
+* [Xedra Evolved] Disable Wild Hunt random encounter for now ([#88104](https://github.com/CleverRaven/Cataclysm-DDA/pull/88104))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-24-1430 ([f77503b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-1430))
+
+* Swap cash card with credit card in basegame itemgroup ([#88108](https://github.com/CleverRaven/Cataclysm-DDA/pull/88108))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-24-0640 ([7b6b3eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0640))
 
 * [Xedra Evolved] Faewild allows you to see invisible creatures ([#88103](https://github.com/CleverRaven/Cataclysm-DDA/pull/88103))
@@ -70,12 +83,6 @@
 #### Cataclysm-DDA experimental build 2026-07-22-0756 ([5e54a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0756))
 
 * Fix naval gun and zombie hunting rifle valid mod locations ([#88065](https://github.com/CleverRaven/Cataclysm-DDA/pull/88065))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-22-0424 ([98ca78d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0424))
-
-* [Innawood] Adds autolearn to poppy drug recipes ([#87933](https://github.com/CleverRaven/Cataclysm-DDA/pull/87933))
 * Add non-book book nests ([#88082](https://github.com/CleverRaven/Cataclysm-DDA/pull/88082))
 
 ---
@@ -159,17 +166,7 @@
 * Add super-soldier serum, 29x-"Noonien" ([#88038](https://github.com/CleverRaven/Cataclysm-DDA/pull/88038))
 * [XE] Remove leftover checks for obsoleted blotted sun weather. ([#88057](https://github.com/CleverRaven/Cataclysm-DDA/pull/88057))
 * Exodii traders dont accept currencies ([#88058](https://github.com/CleverRaven/Cataclysm-DDA/pull/88058))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-20-0219 ([1a02464](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-0219))
-
 * [XE] Fix Boann's march lord killing mission ([#88059](https://github.com/CleverRaven/Cataclysm-DDA/pull/88059))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-19-1750 ([0a550d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1750))
-
 * Fix armor encumbrance tests ([#88055](https://github.com/CleverRaven/Cataclysm-DDA/pull/88055))
 * Frozen Toaster Pastries shouldn't be in non refrigerated item groups ([#88050](https://github.com/CleverRaven/Cataclysm-DDA/pull/88050))
 * Mod dependencies on NoNPCNeeds for major in repo mods ([#88046](https://github.com/CleverRaven/Cataclysm-DDA/pull/88046))
@@ -179,7 +176,6 @@
 * Pull pipe and umbrellas off the fencing weapon category ([#88043](https://github.com/CleverRaven/Cataclysm-DDA/pull/88043))
 * replace "" with "default" in dimension checks ([#88042](https://github.com/CleverRaven/Cataclysm-DDA/pull/88042))
 * Changes to Bleach, allow cleaning of water with bleach ([#88030](https://github.com/CleverRaven/Cataclysm-DDA/pull/88030))
-* Correct some texts again ([#87930](https://github.com/CleverRaven/Cataclysm-DDA/pull/87930))
 * Add some more fluff nonfiction hardbacks ([#88028](https://github.com/CleverRaven/Cataclysm-DDA/pull/88028))
 * Fix surroundings menu scrolling ([#88035](https://github.com/CleverRaven/Cataclysm-DDA/pull/88035))
 * fix broken mod dimensions ([#88037](https://github.com/CleverRaven/Cataclysm-DDA/pull/88037))
@@ -235,4 +231,3 @@
 * Leg tentacle coverage for armor ([#87944](https://github.com/CleverRaven/Cataclysm-DDA/pull/87944))
 * [Xedra Evolved] Add Follower dialogue topic to ask them to cast spells ([#87935](https://github.com/CleverRaven/Cataclysm-DDA/pull/87935))
 * update shot and shot410 ([#87938](https://github.com/CleverRaven/Cataclysm-DDA/pull/87938))
-* Put ammonia hydroxide in bottles ([#87929](https://github.com/CleverRaven/Cataclysm-DDA/pull/87929))
