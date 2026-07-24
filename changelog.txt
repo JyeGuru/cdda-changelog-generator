@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-24-0640 (7b6b3eb)
+* [Xedra Evolved] Faewild allows you to see invisible creatures (#88103)
+
 Cataclysm-DDA experimental build 2026-07-24-0406 (fb3cdde)
 * Add serum `16x-"Armus"` (#88060)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-07-20-0219 (1a02464)
 
 Cataclysm-DDA experimental build 2026-07-19-1750 (0a550d0)
 * Fix armor encumbrance tests (#88055)
-
-Cataclysm-DDA experimental build 2026-07-19-1330 (1d056db)
 * Frozen Toaster Pastries shouldn't be in non refrigerated item groups (#88050)
 * Mod dependencies on NoNPCNeeds for major in repo mods (#88046)
 * [Xedra Evolved ] Ozma's Emerald Poppies (#88040)
@@ -149,6 +150,5 @@ Cataclysm-DDA experimental build 2026-07-19-1330 (1d056db)
 * Sewing/electronics hobby rooms have reference books (#87941)
 * Leg tentacle coverage for armor (#87944)
 * [Xedra Evolved] Add Follower dialogue topic to ask them to cast spells (#87935)
-* Rebalance `homebooks` itemgroups (#87926)
 * update shot and shot410 (#87938)
 * Put ammonia hydroxide in bottles (#87929)
