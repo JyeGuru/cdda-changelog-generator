@@ -1,3 +1,10 @@
+* Add serum `16x-"Armus"` (#88060)
+
+Cataclysm-DDA experimental build 2026-07-24-0310 (3418af9)
+* [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag (#88102)
+
+Cataclysm-DDA experimental build 2026-07-24-0142 (8fd0903)
+* [MoM] Convert telepathic matrix crystals to artifacts (#88101)
 
 Cataclysm-DDA experimental build 2026-07-23-1635 (3ef1dac)
 * Slightly more helpful murderbug messages (#88095)
@@ -81,11 +88,7 @@ Cataclysm-DDA experimental build 2026-07-19-1330 (1d056db)
 
 Cataclysm-DDA experimental build 2026-07-19-1235 (0f8bf6e)
 * Mod dependencies on NoNPCNeeds for major in repo mods (#88046)
-
-Cataclysm-DDA experimental build 2026-07-19-0338 (b0869c4)
 * [Xedra Evolved ] Ozma's Emerald Poppies (#88040)
-
-Cataclysm-DDA experimental build 2026-07-18-1932 (e42aa32)
 * Fix potassium hydroxide powder spawning in units of 1 (#88031)
 * Fixed lucern hammer recipe (#88041)
 * Pull pipe and umbrellas off the fencing weapon category (#88043)
@@ -149,6 +152,3 @@ Cataclysm-DDA experimental build 2026-07-18-1932 (e42aa32)
 * Rebalance `homebooks` itemgroups (#87926)
 * update shot and shot410 (#87938)
 * Put ammonia hydroxide in bottles (#87929)
-* [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour (#87924)
-* [ Xedra Evolved ] Torpor ends normal sleep (#87921)
-* Update survivor_notes.json (#87925)

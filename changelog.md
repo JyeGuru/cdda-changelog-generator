@@ -1,3 +1,16 @@
+* Add serum `16x-"Armus"` ([#88060](https://github.com/CleverRaven/Cataclysm-DDA/pull/88060))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-24-0310 ([3418af9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0310))
+
+* [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag ([#88102](https://github.com/CleverRaven/Cataclysm-DDA/pull/88102))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-24-0142 ([8fd0903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0142))
+
+* [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
 
 ---
 
@@ -159,17 +172,7 @@
 #### Cataclysm-DDA experimental build 2026-07-19-1235 ([0f8bf6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1235))
 
 * Mod dependencies on NoNPCNeeds for major in repo mods ([#88046](https://github.com/CleverRaven/Cataclysm-DDA/pull/88046))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-19-0338 ([b0869c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-0338))
-
 * [Xedra Evolved ] Ozma's Emerald Poppies ([#88040](https://github.com/CleverRaven/Cataclysm-DDA/pull/88040))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-18-1932 ([e42aa32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-18-1932))
-
 * Fix potassium hydroxide powder spawning in units of 1 ([#88031](https://github.com/CleverRaven/Cataclysm-DDA/pull/88031))
 * Fixed lucern hammer recipe ([#88041](https://github.com/CleverRaven/Cataclysm-DDA/pull/88041))
 * Pull pipe and umbrellas off the fencing weapon category ([#88043](https://github.com/CleverRaven/Cataclysm-DDA/pull/88043))
@@ -233,6 +236,3 @@
 * Rebalance `homebooks` itemgroups ([#87926](https://github.com/CleverRaven/Cataclysm-DDA/pull/87926))
 * update shot and shot410 ([#87938](https://github.com/CleverRaven/Cataclysm-DDA/pull/87938))
 * Put ammonia hydroxide in bottles ([#87929](https://github.com/CleverRaven/Cataclysm-DDA/pull/87929))
-* [Xedra Evolved] Add `Gremlinize` Fair Folk seasonal glamour ([#87924](https://github.com/CleverRaven/Cataclysm-DDA/pull/87924))
-* [ Xedra Evolved ] Torpor ends normal sleep ([#87921](https://github.com/CleverRaven/Cataclysm-DDA/pull/87921))
-* Update survivor_notes.json ([#87925](https://github.com/CleverRaven/Cataclysm-DDA/pull/87925))
