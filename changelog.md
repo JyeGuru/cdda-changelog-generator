@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-24-1710 ([4eb3084](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-1710))
+
+* Update MSYS compiling doc with flag change of SDL3 ([#88056](https://github.com/CleverRaven/Cataclysm-DDA/pull/88056))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-24-1518 ([e4972a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-1518))
 
 * De-deadnaming ([#88100](https://github.com/CleverRaven/Cataclysm-DDA/pull/88100))
@@ -158,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-07-20-1233 ([7be2e51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-1233))
 
 * Weekly Changelog 2026-07-13 to 2026-07-20 ([#88061](https://github.com/CleverRaven/Cataclysm-DDA/pull/88061))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-20-0303 ([11172c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-20-0303))
-
 * Add super-soldier serum, 29x-"Noonien" ([#88038](https://github.com/CleverRaven/Cataclysm-DDA/pull/88038))
 * [XE] Remove leftover checks for obsoleted blotted sun weather. ([#88057](https://github.com/CleverRaven/Cataclysm-DDA/pull/88057))
 * Exodii traders dont accept currencies ([#88058](https://github.com/CleverRaven/Cataclysm-DDA/pull/88058))
@@ -195,7 +196,6 @@
 * Cleanup chem_ethanol ([#88001](https://github.com/CleverRaven/Cataclysm-DDA/pull/88001))
 * [Hunvre] Add dynamic temperature ([#87948](https://github.com/CleverRaven/Cataclysm-DDA/pull/87948))
 * Use bookshelf nests to group books by theme in homes ([#87951](https://github.com/CleverRaven/Cataclysm-DDA/pull/87951))
-* examine_action supports array notation ([#87934](https://github.com/CleverRaven/Cataclysm-DDA/pull/87934))
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
 * [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
