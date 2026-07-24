@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-24-0406 (fb3cdde)
 * Add serum `16x-"Armus"` (#88060)
 
 Cataclysm-DDA experimental build 2026-07-24-0310 (3418af9)
@@ -85,8 +87,6 @@ Cataclysm-DDA experimental build 2026-07-19-1750 (0a550d0)
 
 Cataclysm-DDA experimental build 2026-07-19-1330 (1d056db)
 * Frozen Toaster Pastries shouldn't be in non refrigerated item groups (#88050)
-
-Cataclysm-DDA experimental build 2026-07-19-1235 (0f8bf6e)
 * Mod dependencies on NoNPCNeeds for major in repo mods (#88046)
 * [Xedra Evolved ] Ozma's Emerald Poppies (#88040)
 * Fix potassium hydroxide powder spawning in units of 1 (#88031)

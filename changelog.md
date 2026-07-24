@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-24-0406 ([fb3cdde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0406))
+
 * Add serum `16x-"Armus"` ([#88060](https://github.com/CleverRaven/Cataclysm-DDA/pull/88060))
 
 ---
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-07-19-1330 ([1d056db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1330))
 
 * Frozen Toaster Pastries shouldn't be in non refrigerated item groups ([#88050](https://github.com/CleverRaven/Cataclysm-DDA/pull/88050))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-19-1235 ([0f8bf6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-19-1235))
-
 * Mod dependencies on NoNPCNeeds for major in repo mods ([#88046](https://github.com/CleverRaven/Cataclysm-DDA/pull/88046))
 * [Xedra Evolved ] Ozma's Emerald Poppies ([#88040](https://github.com/CleverRaven/Cataclysm-DDA/pull/88040))
 * Fix potassium hydroxide powder spawning in units of 1 ([#88031](https://github.com/CleverRaven/Cataclysm-DDA/pull/88031))
