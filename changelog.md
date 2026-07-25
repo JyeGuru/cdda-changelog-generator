@@ -235,4 +235,3 @@
 * Carpentry books in hobby woodworking rooms ([#87958](https://github.com/CleverRaven/Cataclysm-DDA/pull/87958))
 * [MoM] Ferals can upgrade into feral psions ([#87956](https://github.com/CleverRaven/Cataclysm-DDA/pull/87956))
 * adjust the bag_durasack description ([#87946](https://github.com/CleverRaven/Cataclysm-DDA/pull/87946))
-* Leg tentacle coverage for armor ([#87944](https://github.com/CleverRaven/Cataclysm-DDA/pull/87944))
