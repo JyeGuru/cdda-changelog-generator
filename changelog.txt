@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-25-1849 (b4e4b34)
+* Display multiple like items in car part removal on the same line with a count (#88098)
+
 Cataclysm-DDA experimental build 2026-07-25-0236 (e422d3e)
 * Add PAUSE_BODYPART_INFECTION flag, use in MoM (#88110)
 * fix two too-small notebooks (#88109)
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-07-21-0224 (b5dc008)
 
 Cataclysm-DDA experimental build 2026-07-21-0129 (b495438)
 * Spelling fix for folding solar panel in->it (#88071)
-
-Cataclysm-DDA experimental build 2026-07-20-1328 (d03cf8a)
 * more dimension related fixes (#88044)
 * Weekly Changelog 2026-07-13 to 2026-07-20 (#88061)
 * Add super-soldier serum, 29x-"Noonien" (#88038)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2026-07-20-1328 (d03cf8a)
 * implement temperature modifier for weather (#87957)
 * Carpentry books in hobby woodworking rooms (#87958)
 * [MoM] Ferals can upgrade into feral psions (#87956)
-* adjust the bag_durasack description (#87946)
