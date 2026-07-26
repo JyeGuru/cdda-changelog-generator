@@ -1,3 +1,10 @@
+* [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-26-1756 ([b9a55c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-26-1756))
+
+* Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
 
 ---
 
@@ -167,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-07-21-0914 ([86009be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0914))
 
 * Double map range and hint for 🌹 Alonso mission 🌹 ([#88075](https://github.com/CleverRaven/Cataclysm-DDA/pull/88075))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-21-0224 ([b5dc008](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0224))
-
 * Add cloak and blanket coverage for wings, wearing something over your wings stops you from gliding ([#88036](https://github.com/CleverRaven/Cataclysm-DDA/pull/88036))
 * Spelling fix for folding solar panel in->it ([#88071](https://github.com/CleverRaven/Cataclysm-DDA/pull/88071))
 * more dimension related fixes ([#88044](https://github.com/CleverRaven/Cataclysm-DDA/pull/88044))
@@ -206,7 +208,6 @@
 * Removed Pockets from Spring suit ([#88007](https://github.com/CleverRaven/Cataclysm-DDA/pull/88007))
 * Generic factory dimensions, multi-region support ([#87999](https://github.com/CleverRaven/Cataclysm-DDA/pull/87999))
 * Cleanup chem_ethanol ([#88001](https://github.com/CleverRaven/Cataclysm-DDA/pull/88001))
-* Use bookshelf nests to group books by theme in homes ([#87951](https://github.com/CleverRaven/Cataclysm-DDA/pull/87951))
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
 * [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
@@ -233,4 +234,3 @@
 * Fix segfault while trying to fire a bare hands ([#87966](https://github.com/CleverRaven/Cataclysm-DDA/pull/87966))
 * implement temperature modifier for weather ([#87957](https://github.com/CleverRaven/Cataclysm-DDA/pull/87957))
 * Carpentry books in hobby woodworking rooms ([#87958](https://github.com/CleverRaven/Cataclysm-DDA/pull/87958))
-* [MoM] Ferals can upgrade into feral psions ([#87956](https://github.com/CleverRaven/Cataclysm-DDA/pull/87956))
