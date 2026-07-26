@@ -210,7 +210,6 @@
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
 * [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
-* data/json/recipes/recipe_medsandchemicals.json: fixup ethanol charges ([#87950](https://github.com/CleverRaven/Cataclysm-DDA/pull/87950))
 * Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
 * [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
 * [MoM] Add the SHADOW URGE process to the hospital labs ([#87975](https://github.com/CleverRaven/Cataclysm-DDA/pull/87975))
