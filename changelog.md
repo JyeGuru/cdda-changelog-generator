@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-26-0401 ([d834ca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-26-0401))
+
+* Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-25-1849 ([b4e4b34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-25-1849))
 
 * Display multiple like items in car part removal on the same line with a count ([#88098](https://github.com/CleverRaven/Cataclysm-DDA/pull/88098))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-07-21-0224 ([b5dc008](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0224))
 
 * Add cloak and blanket coverage for wings, wearing something over your wings stops you from gliding ([#88036](https://github.com/CleverRaven/Cataclysm-DDA/pull/88036))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-21-0129 ([b495438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0129))
-
 * Spelling fix for folding solar panel in->it ([#88071](https://github.com/CleverRaven/Cataclysm-DDA/pull/88071))
 * more dimension related fixes ([#88044](https://github.com/CleverRaven/Cataclysm-DDA/pull/88044))
 * Weekly Changelog 2026-07-13 to 2026-07-20 ([#88061](https://github.com/CleverRaven/Cataclysm-DDA/pull/88061))
@@ -205,7 +206,6 @@
 * Removed Pockets from Spring suit ([#88007](https://github.com/CleverRaven/Cataclysm-DDA/pull/88007))
 * Generic factory dimensions, multi-region support ([#87999](https://github.com/CleverRaven/Cataclysm-DDA/pull/87999))
 * Cleanup chem_ethanol ([#88001](https://github.com/CleverRaven/Cataclysm-DDA/pull/88001))
-* [Hunvre] Add dynamic temperature ([#87948](https://github.com/CleverRaven/Cataclysm-DDA/pull/87948))
 * Use bookshelf nests to group books by theme in homes ([#87951](https://github.com/CleverRaven/Cataclysm-DDA/pull/87951))
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
 * [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
