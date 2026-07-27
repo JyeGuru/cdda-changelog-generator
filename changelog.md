@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-27-2243 ([c532fe6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-2243))
+
+* Aftershock: Replace old painkiller effect ([#88132](https://github.com/CleverRaven/Cataclysm-DDA/pull/88132))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-27-2031 ([c447fbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-2031))
 
 * Change the prices of books in the abstract ([#88147](https://github.com/CleverRaven/Cataclysm-DDA/pull/88147))
@@ -166,11 +172,6 @@
 
 * Document HUNGER_DISRUPTION flag, apply in appropriate places  ([#88081](https://github.com/CleverRaven/Cataclysm-DDA/pull/88081))
 * fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-22-0150 ([68b992e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0150))
-
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
 * Add european comics ([#88034](https://github.com/CleverRaven/Cataclysm-DDA/pull/88034))
 * Minor update to the utility exoskeleton ([#88080](https://github.com/CleverRaven/Cataclysm-DDA/pull/88080))
@@ -227,7 +228,6 @@
 * Aftershock: Biotechnical flats ([#87986](https://github.com/CleverRaven/Cataclysm-DDA/pull/87986))
 * Forbid reach attacks through autoattack if using Force Unarmed style ([#87988](https://github.com/CleverRaven/Cataclysm-DDA/pull/87988))
 * Fall further if you jump off the ledge in the portal dungeon ([#87984](https://github.com/CleverRaven/Cataclysm-DDA/pull/87984))
-* fix pocket knife size ([#87971](https://github.com/CleverRaven/Cataclysm-DDA/pull/87971))
 * [Xedra Evolved] Fix March Lord swords' requirements + looks_like ([#87974](https://github.com/CleverRaven/Cataclysm-DDA/pull/87974))
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
 * removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
