@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-27-1322 ([99706d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-1322))
+
+* Generalize the threshold requirement for quadrupedal movement. ([#88142](https://github.com/CleverRaven/Cataclysm-DDA/pull/88142))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-27-0410 ([52a6283](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-0410))
 
 * Fix epicuticle blocking bite attacks, chitin covers dragonfly head ([#88135](https://github.com/CleverRaven/Cataclysm-DDA/pull/88135))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-07-21-1627 ([b9a8c7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-1627))
 
 * Minor update to the utility exoskeleton ([#88080](https://github.com/CleverRaven/Cataclysm-DDA/pull/88080))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-21-1434 ([496a442](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-1434))
-
 * 590 s breacher adjustment ([#88076](https://github.com/CleverRaven/Cataclysm-DDA/pull/88076))
 * Add enchantment to modify bleeding rate ([#88068](https://github.com/CleverRaven/Cataclysm-DDA/pull/88068))
 * Pocket options: allow interacting with a pocket with hidden contents (fixes crashes too) ([#88064](https://github.com/CleverRaven/Cataclysm-DDA/pull/88064))
@@ -226,7 +227,6 @@
 * Fall further if you jump off the ledge in the portal dungeon ([#87984](https://github.com/CleverRaven/Cataclysm-DDA/pull/87984))
 * fix pocket knife size ([#87971](https://github.com/CleverRaven/Cataclysm-DDA/pull/87971))
 * [Xedra Evolved] Fix March Lord swords' requirements + looks_like ([#87974](https://github.com/CleverRaven/Cataclysm-DDA/pull/87974))
-* check character gun range instead of item gun range in projectile creation ([#87965](https://github.com/CleverRaven/Cataclysm-DDA/pull/87965))
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
 * Fix Random NPCs not getting spells from professions or hobbies ([#87967](https://github.com/CleverRaven/Cataclysm-DDA/pull/87967))
 * [ Xedra Evolved ] Make two Xedra professions common ([#87968](https://github.com/CleverRaven/Cataclysm-DDA/pull/87968))
