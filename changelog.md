@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-27-0410 ([52a6283](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-0410))
+
+* Fix epicuticle blocking bite attacks, chitin covers dragonfly head ([#88135](https://github.com/CleverRaven/Cataclysm-DDA/pull/88135))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-27-0315 ([6c0b8f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-0315))
+
+* [MoM] Fix being able to throw zombie nulls ([#88138](https://github.com/CleverRaven/Cataclysm-DDA/pull/88138))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-26-1840 ([4dfd360](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-26-1840))
 
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
@@ -161,17 +173,7 @@
 
 * 590 s breacher adjustment ([#88076](https://github.com/CleverRaven/Cataclysm-DDA/pull/88076))
 * Add enchantment to modify bleeding rate ([#88068](https://github.com/CleverRaven/Cataclysm-DDA/pull/88068))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-21-1340 ([8a80643](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-1340))
-
 * Pocket options: allow interacting with a pocket with hidden contents (fixes crashes too) ([#88064](https://github.com/CleverRaven/Cataclysm-DDA/pull/88064))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-21-0959 ([c847628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-21-0959))
-
 * Remove ASCII art & bodygraph empty lines ([#88073](https://github.com/CleverRaven/Cataclysm-DDA/pull/88073))
 * Double map range and hint for 🌹 Alonso mission 🌹 ([#88075](https://github.com/CleverRaven/Cataclysm-DDA/pull/88075))
 * Add cloak and blanket coverage for wings, wearing something over your wings stops you from gliding ([#88036](https://github.com/CleverRaven/Cataclysm-DDA/pull/88036))
@@ -228,8 +230,6 @@
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
 * Fix Random NPCs not getting spells from professions or hobbies ([#87967](https://github.com/CleverRaven/Cataclysm-DDA/pull/87967))
 * [ Xedra Evolved ] Make two Xedra professions common ([#87968](https://github.com/CleverRaven/Cataclysm-DDA/pull/87968))
-* Fix COLDBLOOD4/Ectothermic speed bonus not applying in hot weather ([#87959](https://github.com/CleverRaven/Cataclysm-DDA/pull/87959))
 * removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
 * Aftershock: Better power armor durability. ([#87972](https://github.com/CleverRaven/Cataclysm-DDA/pull/87972))
 * Fix segfault while trying to fire a bare hands ([#87966](https://github.com/CleverRaven/Cataclysm-DDA/pull/87966))
-* Carpentry books in hobby woodworking rooms ([#87958](https://github.com/CleverRaven/Cataclysm-DDA/pull/87958))
