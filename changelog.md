@@ -232,4 +232,3 @@
 * [ Xedra Evolved ] Make two Xedra professions common ([#87968](https://github.com/CleverRaven/Cataclysm-DDA/pull/87968))
 * removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
 * Aftershock: Better power armor durability. ([#87972](https://github.com/CleverRaven/Cataclysm-DDA/pull/87972))
-* Fix segfault while trying to fire a bare hands ([#87966](https://github.com/CleverRaven/Cataclysm-DDA/pull/87966))
