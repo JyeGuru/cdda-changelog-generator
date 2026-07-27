@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-27-2031 ([c447fbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-2031))
+
+* Change the prices of books in the abstract ([#88147](https://github.com/CleverRaven/Cataclysm-DDA/pull/88147))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-27-1730 ([876f3b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-1730))
 
 * add period ([#88141](https://github.com/CleverRaven/Cataclysm-DDA/pull/88141))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-07-22-0150 ([68b992e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0150))
 
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-22-0041 ([5a526e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0041))
-
 * Add european comics ([#88034](https://github.com/CleverRaven/Cataclysm-DDA/pull/88034))
 * Minor update to the utility exoskeleton ([#88080](https://github.com/CleverRaven/Cataclysm-DDA/pull/88080))
 * 590 s breacher adjustment ([#88076](https://github.com/CleverRaven/Cataclysm-DDA/pull/88076))
@@ -229,6 +230,5 @@
 * fix pocket knife size ([#87971](https://github.com/CleverRaven/Cataclysm-DDA/pull/87971))
 * [Xedra Evolved] Fix March Lord swords' requirements + looks_like ([#87974](https://github.com/CleverRaven/Cataclysm-DDA/pull/87974))
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
-* [ Xedra Evolved ] Make two Xedra professions common ([#87968](https://github.com/CleverRaven/Cataclysm-DDA/pull/87968))
 * removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
 * Aftershock: Better power armor durability. ([#87972](https://github.com/CleverRaven/Cataclysm-DDA/pull/87972))
