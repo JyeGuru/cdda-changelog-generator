@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-28-0045 ([aac5516](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-28-0045))
+
+* [MoM] Make survivor palette extension actually extend ([#88137](https://github.com/CleverRaven/Cataclysm-DDA/pull/88137))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-27-2243 ([c532fe6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-2243))
 
 * Aftershock: Replace old painkiller effect ([#88132](https://github.com/CleverRaven/Cataclysm-DDA/pull/88132))
@@ -231,4 +237,3 @@
 * [Xedra Evolved] Fix March Lord swords' requirements + looks_like ([#87974](https://github.com/CleverRaven/Cataclysm-DDA/pull/87974))
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
 * removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
-* Aftershock: Better power armor durability. ([#87972](https://github.com/CleverRaven/Cataclysm-DDA/pull/87972))
