@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-29-1328 ([bb95fd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-29-1328))
+
 * Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-07-22-1606 ([de77bf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-1606))
 
 * Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-22-1159 ([32de7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-1159))
-
 * thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
 * Fix naval gun and zombie hunting rifle valid mod locations ([#88065](https://github.com/CleverRaven/Cataclysm-DDA/pull/88065))
 * Add non-book book nests ([#88082](https://github.com/CleverRaven/Cataclysm-DDA/pull/88082))
