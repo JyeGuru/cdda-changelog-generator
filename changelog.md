@@ -1,3 +1,11 @@
+* Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
+* Highland Crypts ([#88121](https://github.com/CleverRaven/Cataclysm-DDA/pull/88121))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-29-0306 ([5ab55bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-29-0306))
+
+* [Magiclysm] Make Magical Bracers into Bracers ([#88140](https://github.com/CleverRaven/Cataclysm-DDA/pull/88140))
 
 ---
 
@@ -171,11 +179,6 @@
 
 * Fix naval gun and zombie hunting rifle valid mod locations ([#88065](https://github.com/CleverRaven/Cataclysm-DDA/pull/88065))
 * Add non-book book nests ([#88082](https://github.com/CleverRaven/Cataclysm-DDA/pull/88082))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-22-0329 ([f832627](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0329))
-
 * Document HUNGER_DISRUPTION flag, apply in appropriate places  ([#88081](https://github.com/CleverRaven/Cataclysm-DDA/pull/88081))
 * fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
@@ -225,7 +228,6 @@
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
 * Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
 * [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
-* [MoM] Add the SHADOW URGE process to the hospital labs ([#87975](https://github.com/CleverRaven/Cataclysm-DDA/pull/87975))
 * Fix Sky Island portal storm bug ([#87983](https://github.com/CleverRaven/Cataclysm-DDA/pull/87983))
 * Military laser sight works like a laser sight ([#87990](https://github.com/CleverRaven/Cataclysm-DDA/pull/87990))
 * Imperial road decorative chunks ([#87989](https://github.com/CleverRaven/Cataclysm-DDA/pull/87989))
@@ -234,6 +236,4 @@
 * Aftershock: Biotechnical flats ([#87986](https://github.com/CleverRaven/Cataclysm-DDA/pull/87986))
 * Forbid reach attacks through autoattack if using Force Unarmed style ([#87988](https://github.com/CleverRaven/Cataclysm-DDA/pull/87988))
 * Fall further if you jump off the ledge in the portal dungeon ([#87984](https://github.com/CleverRaven/Cataclysm-DDA/pull/87984))
-* [Xedra Evolved] Fix March Lord swords' requirements + looks_like ([#87974](https://github.com/CleverRaven/Cataclysm-DDA/pull/87974))
 * Remove obsolete `edible` material example line from docs ([#87978](https://github.com/CleverRaven/Cataclysm-DDA/pull/87978))
-* removed edible tag documentation from materials ([#87973](https://github.com/CleverRaven/Cataclysm-DDA/pull/87973))
