@@ -1,3 +1,10 @@
+* Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-29-1243 ([4eeabf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-29-1243))
+
+* Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
 
 ---
 
@@ -178,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-07-22-1159 ([32de7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-1159))
 
 * thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-22-0756 ([5e54a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-0756))
-
 * Fix naval gun and zombie hunting rifle valid mod locations ([#88065](https://github.com/CleverRaven/Cataclysm-DDA/pull/88065))
 * Add non-book book nests ([#88082](https://github.com/CleverRaven/Cataclysm-DDA/pull/88082))
 * Document HUNGER_DISRUPTION flag, apply in appropriate places  ([#88081](https://github.com/CleverRaven/Cataclysm-DDA/pull/88081))
@@ -234,11 +236,9 @@
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
 * Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
 * [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
-* Fix Sky Island portal storm bug ([#87983](https://github.com/CleverRaven/Cataclysm-DDA/pull/87983))
 * Military laser sight works like a laser sight ([#87990](https://github.com/CleverRaven/Cataclysm-DDA/pull/87990))
 * Imperial road decorative chunks ([#87989](https://github.com/CleverRaven/Cataclysm-DDA/pull/87989))
 * [XE/MoM] Vampire torpor ends concentration ([#87992](https://github.com/CleverRaven/Cataclysm-DDA/pull/87992))
-* Add message calling out the `fragment of reality` when you enter the portal storm dungeon ([#87981](https://github.com/CleverRaven/Cataclysm-DDA/pull/87981))
 * Aftershock: Biotechnical flats ([#87986](https://github.com/CleverRaven/Cataclysm-DDA/pull/87986))
 * Forbid reach attacks through autoattack if using Force Unarmed style ([#87988](https://github.com/CleverRaven/Cataclysm-DDA/pull/87988))
 * Fall further if you jump off the ledge in the portal dungeon ([#87984](https://github.com/CleverRaven/Cataclysm-DDA/pull/87984))
