@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-30-2046 (19fb41f)
 * Aftershock: Project Sobek Genetech (#88136)
 
 Cataclysm-DDA experimental build 2026-07-30-2001 (b53cc2f)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2026-07-23-0157 (f4ea92a)
 
 Cataclysm-DDA experimental build 2026-07-23-0103 (0a45bf2)
 * Allow NPCs to sleep during downtime (#88097)
-
-Cataclysm-DDA experimental build 2026-07-22-2223 (10b9997)
 * Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) (#88083)
 * Add the `PAUSE_INFECTIONS` flag (#88088)
 * thaumathurgy -> thaumaturgy (#88089)
