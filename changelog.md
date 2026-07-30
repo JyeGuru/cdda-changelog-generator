@@ -1,3 +1,10 @@
+* Aftershock: Project Sobek Genetech ([#88136](https://github.com/CleverRaven/Cataclysm-DDA/pull/88136))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-30-2001 ([b53cc2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-30-2001))
+
+* De-deadnaming, part 2 ([#88163](https://github.com/CleverRaven/Cataclysm-DDA/pull/88163))
 
 ---
 
@@ -178,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-07-22-2223 ([10b9997](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-2223))
 
 * Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) ([#88083](https://github.com/CleverRaven/Cataclysm-DDA/pull/88083))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-22-1606 ([de77bf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-22-1606))
-
 * Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
 * thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
 * Fix naval gun and zombie hunting rifle valid mod locations ([#88065](https://github.com/CleverRaven/Cataclysm-DDA/pull/88065))
@@ -224,7 +226,6 @@
 * Add manga, make a manga-themed bookshelf for houses ([#88010](https://github.com/CleverRaven/Cataclysm-DDA/pull/88010))
 * [XEDRA Evolved] Pink alien plushie ([#88022](https://github.com/CleverRaven/Cataclysm-DDA/pull/88022))
 * Add profession "Obsolete Academic" ([#88013](https://github.com/CleverRaven/Cataclysm-DDA/pull/88013))
-* More portal storm dungeon OMTs ([#87985](https://github.com/CleverRaven/Cataclysm-DDA/pull/87985))
 * [MoM] Teleporting in the portal storm dungeon is...ill-advised ([#88018](https://github.com/CleverRaven/Cataclysm-DDA/pull/88018))
 * Fix zombies drowing if thrown ([#88019](https://github.com/CleverRaven/Cataclysm-DDA/pull/88019))
 * Made streams not drivethrough-able by the autodrive ([#88015](https://github.com/CleverRaven/Cataclysm-DDA/pull/88015))
@@ -241,4 +242,3 @@
 * [XE/MoM] Vampire torpor ends concentration ([#87992](https://github.com/CleverRaven/Cataclysm-DDA/pull/87992))
 * Aftershock: Biotechnical flats ([#87986](https://github.com/CleverRaven/Cataclysm-DDA/pull/87986))
 * Forbid reach attacks through autoattack if using Force Unarmed style ([#87988](https://github.com/CleverRaven/Cataclysm-DDA/pull/87988))
-* Fall further if you jump off the ledge in the portal dungeon ([#87984](https://github.com/CleverRaven/Cataclysm-DDA/pull/87984))
