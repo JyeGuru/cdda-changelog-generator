@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-07-30-2320 ([8781b95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-30-2320))
+
+* Weekly Changelog 2026-07-20 to 2026-07-27 ([#88143](https://github.com/CleverRaven/Cataclysm-DDA/pull/88143))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-30-2046 ([19fb41f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-30-2046))
 
 * Aftershock: Project Sobek Genetech ([#88136](https://github.com/CleverRaven/Cataclysm-DDA/pull/88136))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-07-23-0157 ([f4ea92a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0157))
 
 * Add crashed XEDRA serum transport truck map extras ([#88054](https://github.com/CleverRaven/Cataclysm-DDA/pull/88054))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-23-0103 ([0a45bf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0103))
-
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
 * Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) ([#88083](https://github.com/CleverRaven/Cataclysm-DDA/pull/88083))
 * Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
@@ -240,5 +241,4 @@
 * Military laser sight works like a laser sight ([#87990](https://github.com/CleverRaven/Cataclysm-DDA/pull/87990))
 * Imperial road decorative chunks ([#87989](https://github.com/CleverRaven/Cataclysm-DDA/pull/87989))
 * [XE/MoM] Vampire torpor ends concentration ([#87992](https://github.com/CleverRaven/Cataclysm-DDA/pull/87992))
-* Aftershock: Biotechnical flats ([#87986](https://github.com/CleverRaven/Cataclysm-DDA/pull/87986))
 * Forbid reach attacks through autoattack if using Force Unarmed style ([#87988](https://github.com/CleverRaven/Cataclysm-DDA/pull/87988))
