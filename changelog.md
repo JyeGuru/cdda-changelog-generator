@@ -1,3 +1,11 @@
+* Scared npcs are no longer guaranteed_hostile. ([#88125](https://github.com/CleverRaven/Cataclysm-DDA/pull/88125))
+* Fix double space typos ([#88161](https://github.com/CleverRaven/Cataclysm-DDA/pull/88161))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-31-0424 ([7ad7a8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-31-0424))
+
+* Update pits not to be killing machines ([#88166](https://github.com/CleverRaven/Cataclysm-DDA/pull/88166))
 
 ---
 
@@ -178,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-07-23-0243 ([4ab9e07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0243))
 
 * More region layouts + Voronoi library ([#88020](https://github.com/CleverRaven/Cataclysm-DDA/pull/88020))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-23-0157 ([f4ea92a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0157))
-
 * Add crashed XEDRA serum transport truck map extras ([#88054](https://github.com/CleverRaven/Cataclysm-DDA/pull/88054))
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
 * Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) ([#88083](https://github.com/CleverRaven/Cataclysm-DDA/pull/88083))
@@ -236,9 +239,5 @@
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
 * [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
-* Weekly Changelog 2026-07-06 to 2026-07-13 ([#87987](https://github.com/CleverRaven/Cataclysm-DDA/pull/87987))
 * [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
-* Military laser sight works like a laser sight ([#87990](https://github.com/CleverRaven/Cataclysm-DDA/pull/87990))
-* Imperial road decorative chunks ([#87989](https://github.com/CleverRaven/Cataclysm-DDA/pull/87989))
 * [XE/MoM] Vampire torpor ends concentration ([#87992](https://github.com/CleverRaven/Cataclysm-DDA/pull/87992))
-* Forbid reach attacks through autoattack if using Force Unarmed style ([#87988](https://github.com/CleverRaven/Cataclysm-DDA/pull/87988))
