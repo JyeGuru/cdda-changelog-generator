@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-07-31-2123 (3d391b0)
+* Handful of down feathers (#88175)
+
 Cataclysm-DDA experimental build 2026-07-31-0509 (93208d2)
 * Scared npcs are no longer guaranteed_hostile. (#88125)
 * Fix double space typos (#88161)
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-07-24-0310 (3418af9)
 
 Cataclysm-DDA experimental build 2026-07-24-0142 (8fd0903)
 * [MoM] Convert telepathic matrix crystals to artifacts (#88101)
-
-Cataclysm-DDA experimental build 2026-07-23-1635 (3ef1dac)
 * Slightly more helpful murderbug messages (#88095)
 * More region layouts + Voronoi library (#88020)
 * Add crashed XEDRA serum transport truck map extras (#88054)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2026-07-23-1635 (3ef1dac)
 * [ Xedra Evolved ] Adjust Golem weight (#87996)
 * Psi powers display "power radius" instead of "spell radius" in the powers UI (#87997)
 * [MoM] Exodization (the cyberframe) disables most biokinesis (#87994)
-* [XE/MoM] Vampire torpor ends concentration (#87992)
