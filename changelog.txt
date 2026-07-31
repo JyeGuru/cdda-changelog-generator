@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-07-31-0509 (93208d2)
 * Scared npcs are no longer guaranteed_hostile. (#88125)
 * Fix double space typos (#88161)
 
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2026-07-24-0142 (8fd0903)
 
 Cataclysm-DDA experimental build 2026-07-23-1635 (3ef1dac)
 * Slightly more helpful murderbug messages (#88095)
-
-Cataclysm-DDA experimental build 2026-07-23-0243 (4ab9e07)
 * More region layouts + Voronoi library (#88020)
 * Add crashed XEDRA serum transport truck map extras (#88054)
 * Allow NPCs to sleep during downtime (#88097)

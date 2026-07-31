@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-07-31-0509 ([93208d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-31-0509))
+
 * Scared npcs are no longer guaranteed_hostile. ([#88125](https://github.com/CleverRaven/Cataclysm-DDA/pull/88125))
 * Fix double space typos ([#88161](https://github.com/CleverRaven/Cataclysm-DDA/pull/88161))
 
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-07-23-1635 ([3ef1dac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-1635))
 
 * Slightly more helpful murderbug messages ([#88095](https://github.com/CleverRaven/Cataclysm-DDA/pull/88095))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-23-0243 ([4ab9e07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-23-0243))
-
 * More region layouts + Voronoi library ([#88020](https://github.com/CleverRaven/Cataclysm-DDA/pull/88020))
 * Add crashed XEDRA serum transport truck map extras ([#88054](https://github.com/CleverRaven/Cataclysm-DDA/pull/88054))
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
