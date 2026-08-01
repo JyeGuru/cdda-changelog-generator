@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-01-1831 ([bbb8876](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-1831))
+
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-07-24-1430 ([f77503b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-1430))
 
 * Swap cash card with credit card in basegame itemgroup ([#88108](https://github.com/CleverRaven/Cataclysm-DDA/pull/88108))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-24-0640 ([7b6b3eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0640))
-
 * [Xedra Evolved] Faewild allows you to see invisible creatures ([#88103](https://github.com/CleverRaven/Cataclysm-DDA/pull/88103))
 * Add serum `16x-"Armus"` ([#88060](https://github.com/CleverRaven/Cataclysm-DDA/pull/88060))
 * [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag ([#88102](https://github.com/CleverRaven/Cataclysm-DDA/pull/88102))
