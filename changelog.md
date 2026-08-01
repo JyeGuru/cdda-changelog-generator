@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-01-1430 ([7cf1d08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-1430))
+
+* fix obsolete grip mod location on various guns ([#88107](https://github.com/CleverRaven/Cataclysm-DDA/pull/88107))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-01-0447 ([90f8020](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-0447))
 
 * Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-07-24-0406 ([fb3cdde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0406))
 
 * Add serum `16x-"Armus"` ([#88060](https://github.com/CleverRaven/Cataclysm-DDA/pull/88060))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-24-0310 ([3418af9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0310))
-
 * [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag ([#88102](https://github.com/CleverRaven/Cataclysm-DDA/pull/88102))
 * [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
 * Slightly more helpful murderbug messages ([#88095](https://github.com/CleverRaven/Cataclysm-DDA/pull/88095))
@@ -239,5 +240,4 @@
 * Generic factory dimensions, multi-region support ([#87999](https://github.com/CleverRaven/Cataclysm-DDA/pull/87999))
 * Cleanup chem_ethanol ([#88001](https://github.com/CleverRaven/Cataclysm-DDA/pull/88001))
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
-* [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))

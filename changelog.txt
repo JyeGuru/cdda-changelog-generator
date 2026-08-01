@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-01-1430 (7cf1d08)
+* fix obsolete grip mod location on various guns (#88107)
+
 Cataclysm-DDA experimental build 2026-08-01-0447 (90f8020)
 * Add INFECTION_RECOVERY flag, use in XE (#88133)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-07-24-0640 (7b6b3eb)
 
 Cataclysm-DDA experimental build 2026-07-24-0406 (fb3cdde)
 * Add serum `16x-"Armus"` (#88060)
-
-Cataclysm-DDA experimental build 2026-07-24-0310 (3418af9)
 * [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag (#88102)
 * [MoM] Convert telepathic matrix crystals to artifacts (#88101)
 * Slightly more helpful murderbug messages (#88095)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2026-07-24-0310 (3418af9)
 * Generic factory dimensions, multi-region support (#87999)
 * Cleanup chem_ethanol (#88001)
 * Fix bronze lamellar armor (#88003)
-* [ Xedra Evolved ] Adjust Golem weight (#87996)
 * Psi powers display "power radius" instead of "spell radius" in the powers UI (#87997)
