@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-01-0447 ([90f8020](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-0447))
+
+* Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-07-31-2123 ([3d391b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-31-2123))
 
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-07-24-0310 ([3418af9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0310))
 
 * [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag ([#88102](https://github.com/CleverRaven/Cataclysm-DDA/pull/88102))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-24-0142 ([8fd0903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0142))
-
 * [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
 * Slightly more helpful murderbug messages ([#88095](https://github.com/CleverRaven/Cataclysm-DDA/pull/88095))
 * More region layouts + Voronoi library ([#88020](https://github.com/CleverRaven/Cataclysm-DDA/pull/88020))
@@ -240,4 +241,3 @@
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
 * [ Xedra Evolved ] Adjust Golem weight ([#87996](https://github.com/CleverRaven/Cataclysm-DDA/pull/87996))
 * Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
-* [MoM] Exodization (the cyberframe) disables most biokinesis ([#87994](https://github.com/CleverRaven/Cataclysm-DDA/pull/87994))
