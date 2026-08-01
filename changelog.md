@@ -1,3 +1,10 @@
+* Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-01-1735 ([774cac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-1735))
+
+* fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-07-24-0640 ([7b6b3eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0640))
 
 * [Xedra Evolved] Faewild allows you to see invisible creatures ([#88103](https://github.com/CleverRaven/Cataclysm-DDA/pull/88103))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-24-0406 ([fb3cdde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-0406))
-
 * Add serum `16x-"Armus"` ([#88060](https://github.com/CleverRaven/Cataclysm-DDA/pull/88060))
 * [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag ([#88102](https://github.com/CleverRaven/Cataclysm-DDA/pull/88102))
 * [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
@@ -237,7 +239,5 @@
 * Fix zombies drowing if thrown ([#88019](https://github.com/CleverRaven/Cataclysm-DDA/pull/88019))
 * Made streams not drivethrough-able by the autodrive ([#88015](https://github.com/CleverRaven/Cataclysm-DDA/pull/88015))
 * Removed Pockets from Spring suit ([#88007](https://github.com/CleverRaven/Cataclysm-DDA/pull/88007))
-* Generic factory dimensions, multi-region support ([#87999](https://github.com/CleverRaven/Cataclysm-DDA/pull/87999))
 * Cleanup chem_ethanol ([#88001](https://github.com/CleverRaven/Cataclysm-DDA/pull/88001))
 * Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
-* Psi powers display "power radius" instead of "spell radius" in the powers UI ([#87997](https://github.com/CleverRaven/Cataclysm-DDA/pull/87997))
