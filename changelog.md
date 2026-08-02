@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-02-0526 ([c017f60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-02-0526))
+
+* Fix shot glass spawns ([#88184](https://github.com/CleverRaven/Cataclysm-DDA/pull/88184))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-02-0402 ([28a168a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-02-0402))
+
 * Adjusting knife spears ([#88153](https://github.com/CleverRaven/Cataclysm-DDA/pull/88153))
 
 ---
@@ -174,17 +185,7 @@
 #### Cataclysm-DDA experimental build 2026-07-25-0151 ([745f3a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-25-0151))
 
 * NPCs default to allow_sleep ally rule ([#88116](https://github.com/CleverRaven/Cataclysm-DDA/pull/88116))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-24-1710 ([4eb3084](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-1710))
-
 * Update MSYS compiling doc with flag change of SDL3 ([#88056](https://github.com/CleverRaven/Cataclysm-DDA/pull/88056))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-24-1518 ([e4972a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-1518))
-
 * De-deadnaming ([#88100](https://github.com/CleverRaven/Cataclysm-DDA/pull/88100))
 * [Xedra Evolved] Disable Wild Hunt random encounter for now ([#88104](https://github.com/CleverRaven/Cataclysm-DDA/pull/88104))
 * Swap cash card with credit card in basegame itemgroup ([#88108](https://github.com/CleverRaven/Cataclysm-DDA/pull/88108))
@@ -235,7 +236,6 @@
 * Alien plushies ([#88012](https://github.com/CleverRaven/Cataclysm-DDA/pull/88012))
 * Update messy/disorganized palette accounting for book nests ([#88025](https://github.com/CleverRaven/Cataclysm-DDA/pull/88025))
 * Blankets cover your mutant limbs ([#88026](https://github.com/CleverRaven/Cataclysm-DDA/pull/88026))
-* Add manga, make a manga-themed bookshelf for houses ([#88010](https://github.com/CleverRaven/Cataclysm-DDA/pull/88010))
 * [XEDRA Evolved] Pink alien plushie ([#88022](https://github.com/CleverRaven/Cataclysm-DDA/pull/88022))
 * Add profession "Obsolete Academic" ([#88013](https://github.com/CleverRaven/Cataclysm-DDA/pull/88013))
 * [MoM] Teleporting in the portal storm dungeon is...ill-advised ([#88018](https://github.com/CleverRaven/Cataclysm-DDA/pull/88018))

@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-08-02-0526 (c017f60)
+* Fix shot glass spawns (#88184)
+
+Cataclysm-DDA experimental build 2026-08-02-0402 (28a168a)
 * Adjusting knife spears (#88153)
 
 Cataclysm-DDA experimental build 2026-08-02-0316 (c9f0c4b)
@@ -90,11 +95,7 @@ Cataclysm-DDA experimental build 2026-07-25-0236 (e422d3e)
 
 Cataclysm-DDA experimental build 2026-07-25-0151 (745f3a6)
 * NPCs default to allow_sleep ally rule (#88116)
-
-Cataclysm-DDA experimental build 2026-07-24-1710 (4eb3084)
 * Update MSYS compiling doc with flag change of SDL3 (#88056)
-
-Cataclysm-DDA experimental build 2026-07-24-1518 (e4972a6)
 * De-deadnaming (#88100)
 * [Xedra Evolved] Disable Wild Hunt random encounter for now (#88104)
 * Swap cash card with credit card in basegame itemgroup (#88108)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2026-07-24-1518 (e4972a6)
 * Alien plushies (#88012)
 * Update messy/disorganized palette accounting for book nests (#88025)
 * Blankets cover your mutant limbs (#88026)
-* Add manga, make a manga-themed bookshelf for houses (#88010)
 * [XEDRA Evolved] Pink alien plushie (#88022)
 * Add profession "Obsolete Academic" (#88013)
 * [MoM] Teleporting in the portal storm dungeon is...ill-advised (#88018)
