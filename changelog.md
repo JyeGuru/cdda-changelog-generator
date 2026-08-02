@@ -1,3 +1,11 @@
+* Adjusting knife spears ([#88153](https://github.com/CleverRaven/Cataclysm-DDA/pull/88153))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-02-0316 ([c9f0c4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-02-0316))
+
+* is a -> are grammar fix ([#88168](https://github.com/CleverRaven/Cataclysm-DDA/pull/88168))
+* Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
 
 ---
 
@@ -179,11 +187,6 @@
 
 * De-deadnaming ([#88100](https://github.com/CleverRaven/Cataclysm-DDA/pull/88100))
 * [Xedra Evolved] Disable Wild Hunt random encounter for now ([#88104](https://github.com/CleverRaven/Cataclysm-DDA/pull/88104))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-24-1430 ([f77503b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-24-1430))
-
 * Swap cash card with credit card in basegame itemgroup ([#88108](https://github.com/CleverRaven/Cataclysm-DDA/pull/88108))
 * [Xedra Evolved] Faewild allows you to see invisible creatures ([#88103](https://github.com/CleverRaven/Cataclysm-DDA/pull/88103))
 * Add serum `16x-"Armus"` ([#88060](https://github.com/CleverRaven/Cataclysm-DDA/pull/88060))
@@ -238,6 +241,3 @@
 * [MoM] Teleporting in the portal storm dungeon is...ill-advised ([#88018](https://github.com/CleverRaven/Cataclysm-DDA/pull/88018))
 * Fix zombies drowing if thrown ([#88019](https://github.com/CleverRaven/Cataclysm-DDA/pull/88019))
 * Made streams not drivethrough-able by the autodrive ([#88015](https://github.com/CleverRaven/Cataclysm-DDA/pull/88015))
-* Removed Pockets from Spring suit ([#88007](https://github.com/CleverRaven/Cataclysm-DDA/pull/88007))
-* Cleanup chem_ethanol ([#88001](https://github.com/CleverRaven/Cataclysm-DDA/pull/88001))
-* Fix bronze lamellar armor ([#88003](https://github.com/CleverRaven/Cataclysm-DDA/pull/88003))
