@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-03-0536 ([a2ea39d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-0536))
+
+* Obsolete multicooker ([#88195](https://github.com/CleverRaven/Cataclysm-DDA/pull/88195))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-03-0056 ([16e5996](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-0056))
 
 * Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-07-25-1849 ([b4e4b34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-25-1849))
 
 * Display multiple like items in car part removal on the same line with a count ([#88098](https://github.com/CleverRaven/Cataclysm-DDA/pull/88098))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-25-0236 ([e422d3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-25-0236))
-
 * Add PAUSE_BODYPART_INFECTION flag, use in MoM ([#88110](https://github.com/CleverRaven/Cataclysm-DDA/pull/88110))
 * fix two too-small notebooks ([#88109](https://github.com/CleverRaven/Cataclysm-DDA/pull/88109))
 * [XEDRA Evolved] Ozymandias fae statue from terrain to furniture ([#88112](https://github.com/CleverRaven/Cataclysm-DDA/pull/88112))
@@ -237,5 +238,4 @@
 * Update messy/disorganized palette accounting for book nests ([#88025](https://github.com/CleverRaven/Cataclysm-DDA/pull/88025))
 * Blankets cover your mutant limbs ([#88026](https://github.com/CleverRaven/Cataclysm-DDA/pull/88026))
 * [XEDRA Evolved] Pink alien plushie ([#88022](https://github.com/CleverRaven/Cataclysm-DDA/pull/88022))
-* [MoM] Teleporting in the portal storm dungeon is...ill-advised ([#88018](https://github.com/CleverRaven/Cataclysm-DDA/pull/88018))
 * Fix zombies drowing if thrown ([#88019](https://github.com/CleverRaven/Cataclysm-DDA/pull/88019))
