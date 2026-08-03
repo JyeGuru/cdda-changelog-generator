@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-03-1615 (e74b339)
+* Clarify the Iron Safari contract mission that you need to (R)ead (#88201)
+
 Cataclysm-DDA experimental build 2026-08-03-0536 (a2ea39d)
 * Obsolete multicooker (#88195)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-07-26-1756 (b9a55c4)
 
 Cataclysm-DDA experimental build 2026-07-26-0401 (d834ca5)
 * Fix aftershock region. (#88123)
-
-Cataclysm-DDA experimental build 2026-07-25-1849 (b4e4b34)
 * Display multiple like items in car part removal on the same line with a count (#88098)
 * Add PAUSE_BODYPART_INFECTION flag, use in MoM (#88110)
 * fix two too-small notebooks (#88109)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2026-07-25-1849 (b4e4b34)
 * Update messy/disorganized palette accounting for book nests (#88025)
 * Blankets cover your mutant limbs (#88026)
 * [XEDRA Evolved] Pink alien plushie (#88022)
-* Fix zombies drowing if thrown (#88019)

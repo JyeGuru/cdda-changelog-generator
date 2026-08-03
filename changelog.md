@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-03-1615 ([e74b339](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-1615))
+
+* Clarify the Iron Safari contract mission that you need to (R)ead ([#88201](https://github.com/CleverRaven/Cataclysm-DDA/pull/88201))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-03-0536 ([a2ea39d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-0536))
 
 * Obsolete multicooker ([#88195](https://github.com/CleverRaven/Cataclysm-DDA/pull/88195))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-07-26-0401 ([d834ca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-26-0401))
 
 * Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-25-1849 ([b4e4b34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-25-1849))
-
 * Display multiple like items in car part removal on the same line with a count ([#88098](https://github.com/CleverRaven/Cataclysm-DDA/pull/88098))
 * Add PAUSE_BODYPART_INFECTION flag, use in MoM ([#88110](https://github.com/CleverRaven/Cataclysm-DDA/pull/88110))
 * fix two too-small notebooks ([#88109](https://github.com/CleverRaven/Cataclysm-DDA/pull/88109))
@@ -238,4 +239,3 @@
 * Update messy/disorganized palette accounting for book nests ([#88025](https://github.com/CleverRaven/Cataclysm-DDA/pull/88025))
 * Blankets cover your mutant limbs ([#88026](https://github.com/CleverRaven/Cataclysm-DDA/pull/88026))
 * [XEDRA Evolved] Pink alien plushie ([#88022](https://github.com/CleverRaven/Cataclysm-DDA/pull/88022))
-* Fix zombies drowing if thrown ([#88019](https://github.com/CleverRaven/Cataclysm-DDA/pull/88019))
