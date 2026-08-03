@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-03-0056 (16e5996)
+* Fix advanced smartphone recovery with active laptop screen (#88193)
+
 Cataclysm-DDA experimental build 2026-08-02-0526 (c017f60)
 * Fix shot glass spawns (#88184)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-07-25-0236 (e422d3e)
 * fix two too-small notebooks (#88109)
 * [XEDRA Evolved] Ozymandias fae statue from terrain to furniture (#88112)
 * Update Mandibles and Folding Fangs to use technique bites (#88115)
-
-Cataclysm-DDA experimental build 2026-07-25-0151 (745f3a6)
 * NPCs default to allow_sleep ally rule (#88116)
 * Update MSYS compiling doc with flag change of SDL3 (#88056)
 * De-deadnaming (#88100)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2026-07-25-0151 (745f3a6)
 * [XEDRA Evolved] Pink alien plushie (#88022)
 * [MoM] Teleporting in the portal storm dungeon is...ill-advised (#88018)
 * Fix zombies drowing if thrown (#88019)
-* Made streams not drivethrough-able by the autodrive (#88015)
