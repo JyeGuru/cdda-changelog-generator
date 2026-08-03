@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-03-2321 (0469c22)
+* [Sky Island] Obsolete some talk topic in the island statue re: portal storm (#88199)
+
 Cataclysm-DDA 0.I release candidate 2026-08-03-2136 (bc6bc2e)
 * Innawoods bronze tongs can be made without already having tongs (#88202)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-07-27-0315 (6c0b8f3)
 
 Cataclysm-DDA experimental build 2026-07-26-1840 (4dfd360)
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy (#88126)
-
-Cataclysm-DDA experimental build 2026-07-26-1756 (b9a55c4)
 * Add `wyrmhound` mutant dogs (#88130)
 * Fix aftershock region. (#88123)
 * Display multiple like items in car part removal on the same line with a count (#88098)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2026-07-26-1756 (b9a55c4)
 * Incompatible XE and Exoplanet (#88029)
 * Update messy/disorganized palette accounting for book nests (#88025)
 * Blankets cover your mutant limbs (#88026)
-* [XEDRA Evolved] Pink alien plushie (#88022)
