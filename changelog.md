@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-08-03-2136 ([bc6bc2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-03-2136))
+
+* Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-03-1615 ([e74b339](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-1615))
 
 * Clarify the Iron Safari contract mission that you need to (R)ead ([#88201](https://github.com/CleverRaven/Cataclysm-DDA/pull/88201))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-07-26-1756 ([b9a55c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-26-1756))
 
 * Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-26-0401 ([d834ca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-26-0401))
-
 * Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
 * Display multiple like items in car part removal on the same line with a count ([#88098](https://github.com/CleverRaven/Cataclysm-DDA/pull/88098))
 * Add PAUSE_BODYPART_INFECTION flag, use in MoM ([#88110](https://github.com/CleverRaven/Cataclysm-DDA/pull/88110))
@@ -197,7 +198,6 @@
 * [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag ([#88102](https://github.com/CleverRaven/Cataclysm-DDA/pull/88102))
 * [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
 * Slightly more helpful murderbug messages ([#88095](https://github.com/CleverRaven/Cataclysm-DDA/pull/88095))
-* More region layouts + Voronoi library ([#88020](https://github.com/CleverRaven/Cataclysm-DDA/pull/88020))
 * Add crashed XEDRA serum transport truck map extras ([#88054](https://github.com/CleverRaven/Cataclysm-DDA/pull/88054))
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
 * Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) ([#88083](https://github.com/CleverRaven/Cataclysm-DDA/pull/88083))
