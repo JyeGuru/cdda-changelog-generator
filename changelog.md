@@ -1,3 +1,15 @@
+* made salt crafting recipe unattended ([#88189](https://github.com/CleverRaven/Cataclysm-DDA/pull/88189))
+* Auto drink using faucets in a vehicle bound auto drink zone ([#88200](https://github.com/CleverRaven/Cataclysm-DDA/pull/88200))
+* fix skirt env protection ([#88134](https://github.com/CleverRaven/Cataclysm-DDA/pull/88134))
+* Remove some ap ammo reloads ([#88155](https://github.com/CleverRaven/Cataclysm-DDA/pull/88155))
+* add 12.3ln ap  ([#88117](https://github.com/CleverRaven/Cataclysm-DDA/pull/88117))
+* [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-04-0323 ([e604f99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-0323))
+
+* Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
 
 ---
 
@@ -176,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-07-27-0315 ([6c0b8f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-0315))
 
 * [MoM] Fix being able to throw zombie nulls ([#88138](https://github.com/CleverRaven/Cataclysm-DDA/pull/88138))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-26-1840 ([4dfd360](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-26-1840))
-
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
 * Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
 * Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
@@ -209,7 +216,6 @@
 * Document HUNGER_DISRUPTION flag, apply in appropriate places  ([#88081](https://github.com/CleverRaven/Cataclysm-DDA/pull/88081))
 * fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
-* Add european comics ([#88034](https://github.com/CleverRaven/Cataclysm-DDA/pull/88034))
 * Minor update to the utility exoskeleton ([#88080](https://github.com/CleverRaven/Cataclysm-DDA/pull/88080))
 * 590 s breacher adjustment ([#88076](https://github.com/CleverRaven/Cataclysm-DDA/pull/88076))
 * Add enchantment to modify bleeding rate ([#88068](https://github.com/CleverRaven/Cataclysm-DDA/pull/88068))
@@ -228,14 +234,8 @@
 * Frozen Toaster Pastries shouldn't be in non refrigerated item groups ([#88050](https://github.com/CleverRaven/Cataclysm-DDA/pull/88050))
 * Mod dependencies on NoNPCNeeds for major in repo mods ([#88046](https://github.com/CleverRaven/Cataclysm-DDA/pull/88046))
 * [Xedra Evolved ] Ozma's Emerald Poppies ([#88040](https://github.com/CleverRaven/Cataclysm-DDA/pull/88040))
-* Fix potassium hydroxide powder spawning in units of 1 ([#88031](https://github.com/CleverRaven/Cataclysm-DDA/pull/88031))
 * Fixed lucern hammer recipe ([#88041](https://github.com/CleverRaven/Cataclysm-DDA/pull/88041))
 * Pull pipe and umbrellas off the fencing weapon category ([#88043](https://github.com/CleverRaven/Cataclysm-DDA/pull/88043))
 * replace "" with "default" in dimension checks ([#88042](https://github.com/CleverRaven/Cataclysm-DDA/pull/88042))
-* Changes to Bleach, allow cleaning of water with bleach ([#88030](https://github.com/CleverRaven/Cataclysm-DDA/pull/88030))
-* Add some more fluff nonfiction hardbacks ([#88028](https://github.com/CleverRaven/Cataclysm-DDA/pull/88028))
 * Fix surroundings menu scrolling ([#88035](https://github.com/CleverRaven/Cataclysm-DDA/pull/88035))
 * fix broken mod dimensions ([#88037](https://github.com/CleverRaven/Cataclysm-DDA/pull/88037))
-* Incompatible XE and Exoplanet ([#88029](https://github.com/CleverRaven/Cataclysm-DDA/pull/88029))
-* Update messy/disorganized palette accounting for book nests ([#88025](https://github.com/CleverRaven/Cataclysm-DDA/pull/88025))
-* Blankets cover your mutant limbs ([#88026](https://github.com/CleverRaven/Cataclysm-DDA/pull/88026))
