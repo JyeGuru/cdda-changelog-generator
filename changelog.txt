@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-08-04-2120 (75f2083)
+* Aftershock: Origin Hobbies (#88160)
+
+Cataclysm-DDA experimental build 2026-08-04-2028 (2475441)
+* [ Xedra Evolved ] Liam Changeling Dialogue (#88053)
+
 Cataclysm-DDA experimental build 2026-08-04-0512 (a0a4fd7)
 * made salt crafting recipe unattended (#88189)
 * Auto drink using faucets in a vehicle bound auto drink zone (#88200)
@@ -91,11 +97,7 @@ Cataclysm-DDA experimental build 2026-07-27-2031 (c447fbe)
 
 Cataclysm-DDA experimental build 2026-07-27-1730 (876f3b3)
 * add period (#88141)
-
-Cataclysm-DDA experimental build 2026-07-27-1322 (99706d4)
 * Generalize the threshold requirement for quadrupedal movement. (#88142)
-
-Cataclysm-DDA experimental build 2026-07-27-0410 (52a6283)
 * Fix epicuticle blocking bite attacks, chitin covers dragonfly head (#88135)
 * [MoM] Fix being able to throw zombie nulls (#88138)
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy (#88126)
@@ -132,7 +134,6 @@ Cataclysm-DDA experimental build 2026-07-27-0410 (52a6283)
 * Pocket options: allow interacting with a pocket with hidden contents (fixes crashes too) (#88064)
 * Remove ASCII art & bodygraph empty lines (#88073)
 * Double map range and hint for 🌹 Alonso mission 🌹 (#88075)
-* Add cloak and blanket coverage for wings, wearing something over your wings stops you from gliding (#88036)
 * Spelling fix for folding solar panel in->it (#88071)
 * more dimension related fixes (#88044)
 * Weekly Changelog 2026-07-13 to 2026-07-20 (#88061)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2026-07-27-0410 (52a6283)
 * Fixed lucern hammer recipe (#88041)
 * Pull pipe and umbrellas off the fencing weapon category (#88043)
 * replace "" with "default" in dimension checks (#88042)
-* Fix surroundings menu scrolling (#88035)
 * fix broken mod dimensions (#88037)
