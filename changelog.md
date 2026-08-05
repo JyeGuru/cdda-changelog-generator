@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-05-0610 ([18011fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0610))
+
+* [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-05-0522 ([ada05d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0522))
+
+* [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-05-0044 ([7f6b236](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0044))
 
 * Deadly bears and how to hurt them ([#88139](https://github.com/CleverRaven/Cataclysm-DDA/pull/88139))
@@ -179,17 +191,7 @@
 #### Cataclysm-DDA experimental build 2026-07-29-0306 ([5ab55bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-29-0306))
 
 * [Magiclysm] Make Magical Bracers into Bracers ([#88140](https://github.com/CleverRaven/Cataclysm-DDA/pull/88140))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-28-0045 ([aac5516](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-28-0045))
-
 * [MoM] Make survivor palette extension actually extend ([#88137](https://github.com/CleverRaven/Cataclysm-DDA/pull/88137))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-27-2243 ([c532fe6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-27-2243))
-
 * Aftershock: Replace old painkiller effect ([#88132](https://github.com/CleverRaven/Cataclysm-DDA/pull/88132))
 * Change the prices of books in the abstract ([#88147](https://github.com/CleverRaven/Cataclysm-DDA/pull/88147))
 * add period ([#88141](https://github.com/CleverRaven/Cataclysm-DDA/pull/88141))
@@ -231,7 +233,6 @@
 * Remove ASCII art & bodygraph empty lines ([#88073](https://github.com/CleverRaven/Cataclysm-DDA/pull/88073))
 * Double map range and hint for 🌹 Alonso mission 🌹 ([#88075](https://github.com/CleverRaven/Cataclysm-DDA/pull/88075))
 * Spelling fix for folding solar panel in->it ([#88071](https://github.com/CleverRaven/Cataclysm-DDA/pull/88071))
-* more dimension related fixes ([#88044](https://github.com/CleverRaven/Cataclysm-DDA/pull/88044))
 * Weekly Changelog 2026-07-13 to 2026-07-20 ([#88061](https://github.com/CleverRaven/Cataclysm-DDA/pull/88061))
 * [XE] Remove leftover checks for obsoleted blotted sun weather. ([#88057](https://github.com/CleverRaven/Cataclysm-DDA/pull/88057))
 * Exodii traders dont accept currencies ([#88058](https://github.com/CleverRaven/Cataclysm-DDA/pull/88058))
@@ -239,4 +240,3 @@
 * Fix armor encumbrance tests ([#88055](https://github.com/CleverRaven/Cataclysm-DDA/pull/88055))
 * Frozen Toaster Pastries shouldn't be in non refrigerated item groups ([#88050](https://github.com/CleverRaven/Cataclysm-DDA/pull/88050))
 * Mod dependencies on NoNPCNeeds for major in repo mods ([#88046](https://github.com/CleverRaven/Cataclysm-DDA/pull/88046))
-* Pull pipe and umbrellas off the fencing weapon category ([#88043](https://github.com/CleverRaven/Cataclysm-DDA/pull/88043))
