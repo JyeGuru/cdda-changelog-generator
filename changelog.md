@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-05-1459 ([cf27642](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-1459))
+
+* Made sugar from sweetened water recipe unattended ([#88229](https://github.com/CleverRaven/Cataclysm-DDA/pull/88229))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-05-1000 ([216762f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-1000))
 
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
@@ -38,12 +44,6 @@
 #### Cataclysm-DDA experimental build 2026-08-04-2120 ([75f2083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-2120))
 
 * Aftershock: Origin Hobbies ([#88160](https://github.com/CleverRaven/Cataclysm-DDA/pull/88160))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-04-2028 ([2475441](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-2028))
-
-* [ Xedra Evolved ] Liam Changeling Dialogue ([#88053](https://github.com/CleverRaven/Cataclysm-DDA/pull/88053))
 
 ---
 
@@ -183,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-07-29-1243 ([4eeabf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-29-1243))
 
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-29-0452 ([a3eb405](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-29-0452))
-
 * Fix Megacity mod ([#88129](https://github.com/CleverRaven/Cataclysm-DDA/pull/88129))
 * Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
 * Highland Crypts ([#88121](https://github.com/CleverRaven/Cataclysm-DDA/pull/88121))

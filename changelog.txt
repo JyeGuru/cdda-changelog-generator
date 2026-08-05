@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-05-1459 (cf27642)
+* Made sugar from sweetened water recipe unattended (#88229)
+
 Cataclysm-DDA experimental build 2026-08-05-1000 (216762f)
 * Unattended craft for wood ash (#88227)
 
@@ -20,9 +23,6 @@ Cataclysm-DDA experimental build 2026-08-04-2355 (c06b6e9)
 
 Cataclysm-DDA experimental build 2026-08-04-2120 (75f2083)
 * Aftershock: Origin Hobbies (#88160)
-
-Cataclysm-DDA experimental build 2026-08-04-2028 (2475441)
-* [ Xedra Evolved ] Liam Changeling Dialogue (#88053)
 
 Cataclysm-DDA experimental build 2026-08-04-0512 (a0a4fd7)
 * made salt crafting recipe unattended (#88189)
@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2026-07-29-1328 (bb95fd1)
 
 Cataclysm-DDA experimental build 2026-07-29-1243 (4eeabf9)
 * Adjust some of the book abstract i missed (#88157)
-
-Cataclysm-DDA experimental build 2026-07-29-0452 (a3eb405)
 * Fix Megacity mod (#88129)
 * Document options cache (#88149)
 * Highland Crypts (#88121)
