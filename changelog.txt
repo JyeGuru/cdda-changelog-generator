@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-05-1000 (216762f)
+* Unattended craft for wood ash (#88227)
+
 Cataclysm-DDA experimental build 2026-08-05-0610 (18011fc)
 * [MoM] Add Durability vitakinetic power (#88216)
 
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-07-29-0452 (a3eb405)
 * Fix Megacity mod (#88129)
 * Document options cache (#88149)
 * Highland Crypts (#88121)
-
-Cataclysm-DDA experimental build 2026-07-29-0306 (5ab55bf)
 * [Magiclysm] Make Magical Bracers into Bracers (#88140)
 * [MoM] Make survivor palette extension actually extend (#88137)
 * Aftershock: Replace old painkiller effect (#88132)
@@ -148,5 +149,3 @@ Cataclysm-DDA experimental build 2026-07-29-0306 (5ab55bf)
 * Exodii traders dont accept currencies (#88058)
 * [XE] Fix Boann's march lord killing mission (#88059)
 * Fix armor encumbrance tests (#88055)
-* Frozen Toaster Pastries shouldn't be in non refrigerated item groups (#88050)
-* Mod dependencies on NoNPCNeeds for major in repo mods (#88046)

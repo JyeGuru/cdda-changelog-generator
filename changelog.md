@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-05-1000 ([216762f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-1000))
+
+* Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-05-0610 ([18011fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0610))
 
 * [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
@@ -185,11 +191,6 @@
 * Fix Megacity mod ([#88129](https://github.com/CleverRaven/Cataclysm-DDA/pull/88129))
 * Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
 * Highland Crypts ([#88121](https://github.com/CleverRaven/Cataclysm-DDA/pull/88121))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-29-0306 ([5ab55bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-29-0306))
-
 * [Magiclysm] Make Magical Bracers into Bracers ([#88140](https://github.com/CleverRaven/Cataclysm-DDA/pull/88140))
 * [MoM] Make survivor palette extension actually extend ([#88137](https://github.com/CleverRaven/Cataclysm-DDA/pull/88137))
 * Aftershock: Replace old painkiller effect ([#88132](https://github.com/CleverRaven/Cataclysm-DDA/pull/88132))
@@ -238,5 +239,3 @@
 * Exodii traders dont accept currencies ([#88058](https://github.com/CleverRaven/Cataclysm-DDA/pull/88058))
 * [XE] Fix Boann's march lord killing mission ([#88059](https://github.com/CleverRaven/Cataclysm-DDA/pull/88059))
 * Fix armor encumbrance tests ([#88055](https://github.com/CleverRaven/Cataclysm-DDA/pull/88055))
-* Frozen Toaster Pastries shouldn't be in non refrigerated item groups ([#88050](https://github.com/CleverRaven/Cataclysm-DDA/pull/88050))
-* Mod dependencies on NoNPCNeeds for major in repo mods ([#88046](https://github.com/CleverRaven/Cataclysm-DDA/pull/88046))
