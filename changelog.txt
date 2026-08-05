@@ -1,4 +1,14 @@
 
+Cataclysm-DDA experimental build 2026-08-05-0044 (7f6b236)
+* Deadly bears and how to hurt them (#88139)
+* change bullet_forming and make it less absract (#88152)
+* Chainmail crafting volume fix (#88188)
+* Shallow pit can contain fire (#88208)
+* add sound effect calls for lockpick break, damage, and success  (#88204)
+
+Cataclysm-DDA experimental build 2026-08-04-2355 (c06b6e9)
+* Stop unattended crafts stalling when their crafter is unreachable (#88214)
+
 Cataclysm-DDA experimental build 2026-08-04-2120 (75f2083)
 * Aftershock: Origin Hobbies (#88160)
 
@@ -91,11 +101,7 @@ Cataclysm-DDA experimental build 2026-07-28-0045 (aac5516)
 
 Cataclysm-DDA experimental build 2026-07-27-2243 (c532fe6)
 * Aftershock: Replace old painkiller effect (#88132)
-
-Cataclysm-DDA experimental build 2026-07-27-2031 (c447fbe)
 * Change the prices of books in the abstract (#88147)
-
-Cataclysm-DDA experimental build 2026-07-27-1730 (876f3b3)
 * add period (#88141)
 * Generalize the threshold requirement for quadrupedal movement. (#88142)
 * Fix epicuticle blocking bite attacks, chitin covers dragonfly head (#88135)
@@ -137,15 +143,10 @@ Cataclysm-DDA experimental build 2026-07-27-1730 (876f3b3)
 * Spelling fix for folding solar panel in->it (#88071)
 * more dimension related fixes (#88044)
 * Weekly Changelog 2026-07-13 to 2026-07-20 (#88061)
-* Add super-soldier serum, 29x-"Noonien" (#88038)
 * [XE] Remove leftover checks for obsoleted blotted sun weather. (#88057)
 * Exodii traders dont accept currencies (#88058)
 * [XE] Fix Boann's march lord killing mission (#88059)
 * Fix armor encumbrance tests (#88055)
 * Frozen Toaster Pastries shouldn't be in non refrigerated item groups (#88050)
 * Mod dependencies on NoNPCNeeds for major in repo mods (#88046)
-* [Xedra Evolved ] Ozma's Emerald Poppies (#88040)
-* Fixed lucern hammer recipe (#88041)
 * Pull pipe and umbrellas off the fencing weapon category (#88043)
-* replace "" with "default" in dimension checks (#88042)
-* fix broken mod dimensions (#88037)
