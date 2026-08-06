@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-08-06-0409 (394d604)
+* change steel bar stocks size (#88228)
+
+Cataclysm-DDA experimental build 2026-08-06-0323 (39890a9)
+* [MoM] Change Durability power to Augment Durability (#88231)
+
 Cataclysm-DDA experimental build 2026-08-05-1459 (cf27642)
 * Made sugar from sweetened water recipe unattended (#88229)
 
@@ -90,11 +96,7 @@ Cataclysm-DDA experimental build 2026-07-30-2046 (19fb41f)
 
 Cataclysm-DDA experimental build 2026-07-30-2001 (b53cc2f)
 * De-deadnaming, part 2 (#88163)
-
-Cataclysm-DDA experimental build 2026-07-29-1328 (bb95fd1)
 * Fixed 'weigth' typo in zed_acid.json (#88150)
-
-Cataclysm-DDA experimental build 2026-07-29-1243 (4eeabf9)
 * Adjust some of the book abstract i missed (#88157)
 * Fix Megacity mod (#88129)
 * Document options cache (#88149)
@@ -125,7 +127,6 @@ Cataclysm-DDA experimental build 2026-07-29-1243 (4eeabf9)
 * [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag (#88102)
 * [MoM] Convert telepathic matrix crystals to artifacts (#88101)
 * Slightly more helpful murderbug messages (#88095)
-* Add crashed XEDRA serum transport truck map extras (#88054)
 * Allow NPCs to sleep during downtime (#88097)
 * Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) (#88083)
 * Add the `PAUSE_INFECTIONS` flag (#88088)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-07-29-1243 (4eeabf9)
 * [XE] Remove leftover checks for obsoleted blotted sun weather. (#88057)
 * Exodii traders dont accept currencies (#88058)
 * [XE] Fix Boann's march lord killing mission (#88059)
-* Fix armor encumbrance tests (#88055)
