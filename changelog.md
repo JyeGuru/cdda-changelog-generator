@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-06-1302 ([36d57f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-1302))
+
+* Update nested.json (remove no longer exist reload recipes) ([#88225](https://github.com/CleverRaven/Cataclysm-DDA/pull/88225))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-06-1151 ([caca71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-1151))
+
 * [MoM] Fix Mood Stabilization knack description ([#88221](https://github.com/CleverRaven/Cataclysm-DDA/pull/88221))
 * [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))
 
@@ -173,17 +184,7 @@
 #### Cataclysm-DDA experimental build 2026-07-31-0424 ([7ad7a8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-31-0424))
 
 * Update pits not to be killing machines ([#88166](https://github.com/CleverRaven/Cataclysm-DDA/pull/88166))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-30-2320 ([8781b95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-30-2320))
-
 * Weekly Changelog 2026-07-20 to 2026-07-27 ([#88143](https://github.com/CleverRaven/Cataclysm-DDA/pull/88143))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-30-2046 ([19fb41f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-30-2046))
-
 * Aftershock: Project Sobek Genetech ([#88136](https://github.com/CleverRaven/Cataclysm-DDA/pull/88136))
 * De-deadnaming, part 2 ([#88163](https://github.com/CleverRaven/Cataclysm-DDA/pull/88163))
 * Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
@@ -233,4 +234,3 @@
 * Double map range and hint for 🌹 Alonso mission 🌹 ([#88075](https://github.com/CleverRaven/Cataclysm-DDA/pull/88075))
 * Spelling fix for folding solar panel in->it ([#88071](https://github.com/CleverRaven/Cataclysm-DDA/pull/88071))
 * Weekly Changelog 2026-07-13 to 2026-07-20 ([#88061](https://github.com/CleverRaven/Cataclysm-DDA/pull/88061))
-* [XE] Fix Boann's march lord killing mission ([#88059](https://github.com/CleverRaven/Cataclysm-DDA/pull/88059))
