@@ -1,3 +1,11 @@
+* [MoM] Fix Mood Stabilization knack description ([#88221](https://github.com/CleverRaven/Cataclysm-DDA/pull/88221))
+* [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-06-1050 ([8d62ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-1050))
+
+* Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment ([#88234](https://github.com/CleverRaven/Cataclysm-DDA/pull/88234))
 
 ---
 
@@ -177,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2026-07-30-2046 ([19fb41f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-30-2046))
 
 * Aftershock: Project Sobek Genetech ([#88136](https://github.com/CleverRaven/Cataclysm-DDA/pull/88136))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-30-2001 ([b53cc2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-30-2001))
-
 * De-deadnaming, part 2 ([#88163](https://github.com/CleverRaven/Cataclysm-DDA/pull/88163))
 * Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
@@ -205,7 +208,6 @@
 * [XEDRA Evolved] Ozymandias fae statue from terrain to furniture ([#88112](https://github.com/CleverRaven/Cataclysm-DDA/pull/88112))
 * Update Mandibles and Folding Fangs to use technique bites ([#88115](https://github.com/CleverRaven/Cataclysm-DDA/pull/88115))
 * NPCs default to allow_sleep ally rule ([#88116](https://github.com/CleverRaven/Cataclysm-DDA/pull/88116))
-* Update MSYS compiling doc with flag change of SDL3 ([#88056](https://github.com/CleverRaven/Cataclysm-DDA/pull/88056))
 * De-deadnaming ([#88100](https://github.com/CleverRaven/Cataclysm-DDA/pull/88100))
 * [Xedra Evolved] Disable Wild Hunt random encounter for now ([#88104](https://github.com/CleverRaven/Cataclysm-DDA/pull/88104))
 * Swap cash card with credit card in basegame itemgroup ([#88108](https://github.com/CleverRaven/Cataclysm-DDA/pull/88108))
@@ -231,6 +233,4 @@
 * Double map range and hint for 🌹 Alonso mission 🌹 ([#88075](https://github.com/CleverRaven/Cataclysm-DDA/pull/88075))
 * Spelling fix for folding solar panel in->it ([#88071](https://github.com/CleverRaven/Cataclysm-DDA/pull/88071))
 * Weekly Changelog 2026-07-13 to 2026-07-20 ([#88061](https://github.com/CleverRaven/Cataclysm-DDA/pull/88061))
-* [XE] Remove leftover checks for obsoleted blotted sun weather. ([#88057](https://github.com/CleverRaven/Cataclysm-DDA/pull/88057))
-* Exodii traders dont accept currencies ([#88058](https://github.com/CleverRaven/Cataclysm-DDA/pull/88058))
 * [XE] Fix Boann's march lord killing mission ([#88059](https://github.com/CleverRaven/Cataclysm-DDA/pull/88059))
