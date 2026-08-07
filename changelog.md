@@ -1,3 +1,4 @@
+* Capitalize Dolio name ([#88169](https://github.com/CleverRaven/Cataclysm-DDA/pull/88169))
 * [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
 
@@ -234,4 +235,3 @@
 * Document HUNGER_DISRUPTION flag, apply in appropriate places  ([#88081](https://github.com/CleverRaven/Cataclysm-DDA/pull/88081))
 * fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
-* Minor update to the utility exoskeleton ([#88080](https://github.com/CleverRaven/Cataclysm-DDA/pull/88080))
