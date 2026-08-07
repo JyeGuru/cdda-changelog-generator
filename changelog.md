@@ -1,3 +1,10 @@
+* Feature: Support mana, stamina, and blood costs in crafting recipes ([#88192](https://github.com/CleverRaven/Cataclysm-DDA/pull/88192))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-07-1952 ([8893fb8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-1952))
+
+* [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant ([#88256](https://github.com/CleverRaven/Cataclysm-DDA/pull/88256))
 
 ---
 
@@ -184,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-08-01-1831 ([bbb8876](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-1831))
 
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-01-1735 ([774cac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-1735))
-
 * fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
 * fix obsolete grip mod location on various guns ([#88107](https://github.com/CleverRaven/Cataclysm-DDA/pull/88107))
 * Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
@@ -229,9 +231,7 @@
 * [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
 * Slightly more helpful murderbug messages ([#88095](https://github.com/CleverRaven/Cataclysm-DDA/pull/88095))
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
-* Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) ([#88083](https://github.com/CleverRaven/Cataclysm-DDA/pull/88083))
 * Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
 * thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
-* Add non-book book nests ([#88082](https://github.com/CleverRaven/Cataclysm-DDA/pull/88082))
 * fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
