@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-07-2053 ([b38b1fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-2053))
+
 * Feature: Support mana, stamina, and blood costs in crafting recipes ([#88192](https://github.com/CleverRaven/Cataclysm-DDA/pull/88192))
 
 ---
@@ -185,11 +190,6 @@
 
 * is a -> are grammar fix ([#88168](https://github.com/CleverRaven/Cataclysm-DDA/pull/88168))
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-01-1831 ([bbb8876](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-1831))
-
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
 * fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
 * fix obsolete grip mod location on various guns ([#88107](https://github.com/CleverRaven/Cataclysm-DDA/pull/88107))

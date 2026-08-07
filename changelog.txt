@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-08-07-2053 (b38b1fd)
 * Feature: Support mana, stamina, and blood costs in crafting recipes (#88192)
 
 Cataclysm-DDA experimental build 2026-08-07-1952 (8893fb8)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2026-08-02-0402 (28a168a)
 Cataclysm-DDA experimental build 2026-08-02-0316 (c9f0c4b)
 * is a -> are grammar fix (#88168)
 * Remove unnecessary VS project file. (#88186)
-
-Cataclysm-DDA experimental build 2026-08-01-1831 (bbb8876)
 * Fix personal autopickup rules not saved. (#88176)
 * fix by adding _WEAPONRY (#88182)
 * fix obsolete grip mod location on various guns (#88107)
