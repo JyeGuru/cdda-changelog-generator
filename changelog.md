@@ -1,3 +1,19 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-07-0126 ([3c4baa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-0126))
+
+* Code simplification: consolidate bash specific logic in roll_melee_damage_internal(). ([#88174](https://github.com/CleverRaven/Cataclysm-DDA/pull/88174))
+* Add faults to all melee weapons ([#88211](https://github.com/CleverRaven/Cataclysm-DDA/pull/88211))
+* Fix NEED_FULL_MAGAZINE rejecting ordinary recipe components ([#88215](https://github.com/CleverRaven/Cataclysm-DDA/pull/88215))
+* De-variant Classic Books to improve feature parity. ([#88217](https://github.com/CleverRaven/Cataclysm-DDA/pull/88217))
+* [Hunvre] Fix the Hunvre worldgen ([#88238](https://github.com/CleverRaven/Cataclysm-DDA/pull/88238))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-07-0030 ([4254200](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-0030))
+
+* [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
 
 ---
@@ -172,18 +188,8 @@
 #### Cataclysm-DDA experimental build 2026-07-31-2123 ([3d391b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-31-2123))
 
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-31-0509 ([93208d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-31-0509))
-
 * Scared npcs are no longer guaranteed_hostile. ([#88125](https://github.com/CleverRaven/Cataclysm-DDA/pull/88125))
 * Fix double space typos ([#88161](https://github.com/CleverRaven/Cataclysm-DDA/pull/88161))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-31-0424 ([7ad7a8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-31-0424))
-
 * Update pits not to be killing machines ([#88166](https://github.com/CleverRaven/Cataclysm-DDA/pull/88166))
 * Weekly Changelog 2026-07-20 to 2026-07-27 ([#88143](https://github.com/CleverRaven/Cataclysm-DDA/pull/88143))
 * Aftershock: Project Sobek Genetech ([#88136](https://github.com/CleverRaven/Cataclysm-DDA/pull/88136))
@@ -221,16 +227,11 @@
 * Fix Crafting GUI text wrapping & don't offscreen recipe detail selection (`SPACE`) ([#88083](https://github.com/CleverRaven/Cataclysm-DDA/pull/88083))
 * Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
 * thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
-* Fix naval gun and zombie hunting rifle valid mod locations ([#88065](https://github.com/CleverRaven/Cataclysm-DDA/pull/88065))
 * Add non-book book nests ([#88082](https://github.com/CleverRaven/Cataclysm-DDA/pull/88082))
 * Document HUNGER_DISRUPTION flag, apply in appropriate places  ([#88081](https://github.com/CleverRaven/Cataclysm-DDA/pull/88081))
 * fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
 * Minor update to the utility exoskeleton ([#88080](https://github.com/CleverRaven/Cataclysm-DDA/pull/88080))
 * 590 s breacher adjustment ([#88076](https://github.com/CleverRaven/Cataclysm-DDA/pull/88076))
-* Add enchantment to modify bleeding rate ([#88068](https://github.com/CleverRaven/Cataclysm-DDA/pull/88068))
-* Pocket options: allow interacting with a pocket with hidden contents (fixes crashes too) ([#88064](https://github.com/CleverRaven/Cataclysm-DDA/pull/88064))
 * Remove ASCII art & bodygraph empty lines ([#88073](https://github.com/CleverRaven/Cataclysm-DDA/pull/88073))
 * Double map range and hint for 🌹 Alonso mission 🌹 ([#88075](https://github.com/CleverRaven/Cataclysm-DDA/pull/88075))
-* Spelling fix for folding solar panel in->it ([#88071](https://github.com/CleverRaven/Cataclysm-DDA/pull/88071))
-* Weekly Changelog 2026-07-13 to 2026-07-20 ([#88061](https://github.com/CleverRaven/Cataclysm-DDA/pull/88061))
