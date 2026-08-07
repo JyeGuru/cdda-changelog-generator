@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-07-1354 ([5a5574b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-1354))
+
 * Capitalize Dolio name ([#88169](https://github.com/CleverRaven/Cataclysm-DDA/pull/88169))
 * [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-08-01-1430 ([7cf1d08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-1430))
 
 * fix obsolete grip mod location on various guns ([#88107](https://github.com/CleverRaven/Cataclysm-DDA/pull/88107))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-01-0447 ([90f8020](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-0447))
-
 * Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
 * Scared npcs are no longer guaranteed_hostile. ([#88125](https://github.com/CleverRaven/Cataclysm-DDA/pull/88125))
