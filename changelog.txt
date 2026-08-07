@@ -1,3 +1,8 @@
+* [ MoM ] E-logs for MoM (#88223)
+* Integrate 0.I changelog to experimental (#88240)
+
+Cataclysm-DDA experimental build 2026-08-07-1205 (f71db86)
+* Add AIMING_SPEED enchant (#88245)
 
 Cataclysm-DDA experimental build 2026-08-07-0126 (3c4baa0)
 * Code simplification: consolidate bash specific logic in roll_melee_damage_internal(). (#88174)
@@ -98,8 +103,6 @@ Cataclysm-DDA experimental build 2026-08-01-1430 (7cf1d08)
 
 Cataclysm-DDA experimental build 2026-08-01-0447 (90f8020)
 * Add INFECTION_RECOVERY flag, use in XE (#88133)
-
-Cataclysm-DDA experimental build 2026-07-31-2123 (3d391b0)
 * Handful of down feathers (#88175)
 * Scared npcs are no longer guaranteed_hostile. (#88125)
 * Fix double space typos (#88161)
@@ -145,6 +148,3 @@ Cataclysm-DDA experimental build 2026-07-31-2123 (3d391b0)
 * fix copy-from of examine_actions (#88084)
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood (#88086)
 * Minor update to the utility exoskeleton (#88080)
-* 590 s breacher adjustment (#88076)
-* Remove ASCII art & bodygraph empty lines (#88073)
-* Double map range and hint for 🌹 Alonso mission 🌹 (#88075)

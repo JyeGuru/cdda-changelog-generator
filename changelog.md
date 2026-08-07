@@ -1,3 +1,11 @@
+* [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
+* Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-07-1205 ([f71db86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-1205))
+
+* Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
 
 ---
 
@@ -182,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-08-01-0447 ([90f8020](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-01-0447))
 
 * Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
-
----
-
-#### Cataclysm-DDA experimental build 2026-07-31-2123 ([3d391b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-07-31-2123))
-
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
 * Scared npcs are no longer guaranteed_hostile. ([#88125](https://github.com/CleverRaven/Cataclysm-DDA/pull/88125))
 * Fix double space typos ([#88161](https://github.com/CleverRaven/Cataclysm-DDA/pull/88161))
@@ -232,6 +235,3 @@
 * fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
 * Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
 * Minor update to the utility exoskeleton ([#88080](https://github.com/CleverRaven/Cataclysm-DDA/pull/88080))
-* 590 s breacher adjustment ([#88076](https://github.com/CleverRaven/Cataclysm-DDA/pull/88076))
-* Remove ASCII art & bodygraph empty lines ([#88073](https://github.com/CleverRaven/Cataclysm-DDA/pull/88073))
-* Double map range and hint for 🌹 Alonso mission 🌹 ([#88075](https://github.com/CleverRaven/Cataclysm-DDA/pull/88075))
