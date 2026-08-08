@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-08-1158 ([c921764](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-1158))
+
+* Feature: character stat requirements in recipes ([#88203](https://github.com/CleverRaven/Cataclysm-DDA/pull/88203))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-08-0323 ([c62cb03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-0323))
 
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-08-03-0056 ([16e5996](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-0056))
 
 * Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-02-0526 ([c017f60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-02-0526))
-
 * Fix shot glass spawns ([#88184](https://github.com/CleverRaven/Cataclysm-DDA/pull/88184))
 * Adjusting knife spears ([#88153](https://github.com/CleverRaven/Cataclysm-DDA/pull/88153))
 * is a -> are grammar fix ([#88168](https://github.com/CleverRaven/Cataclysm-DDA/pull/88168))
@@ -233,5 +234,4 @@
 * [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
 * Slightly more helpful murderbug messages ([#88095](https://github.com/CleverRaven/Cataclysm-DDA/pull/88095))
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
-* Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
 * thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
