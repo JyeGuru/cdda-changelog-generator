@@ -1,3 +1,7 @@
+* [Xedra Evolved] Challenge Scenario - The Fog (#88243)
+
+Cataclysm-DDA experimental build 2026-08-08-0133 (9e29382)
+* Add CANNOT_SLEEP flag (#88251)
 
 Cataclysm-DDA experimental build 2026-08-07-2053 (b38b1fd)
 * Feature: Support mana, stamina, and blood costs in crafting recipes (#88192)
@@ -99,8 +103,6 @@ Cataclysm-DDA experimental build 2026-08-02-0526 (c017f60)
 
 Cataclysm-DDA experimental build 2026-08-02-0402 (28a168a)
 * Adjusting knife spears (#88153)
-
-Cataclysm-DDA experimental build 2026-08-02-0316 (c9f0c4b)
 * is a -> are grammar fix (#88168)
 * Remove unnecessary VS project file. (#88186)
 * Fix personal autopickup rules not saved. (#88176)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2026-08-02-0316 (c9f0c4b)
 * Allow NPCs to sleep during downtime (#88097)
 * Add the `PAUSE_INFECTIONS` flag (#88088)
 * thaumathurgy -> thaumaturgy (#88089)
-* fix copy-from of examine_actions (#88084)
-* Fix duplicate and missing dialogs for Luke/Carlos Isherwood (#88086)

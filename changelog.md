@@ -1,3 +1,10 @@
+* [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-08-0133 ([9e29382](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-0133))
+
+* Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
 
 ---
 
@@ -183,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-08-02-0402 ([28a168a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-02-0402))
 
 * Adjusting knife spears ([#88153](https://github.com/CleverRaven/Cataclysm-DDA/pull/88153))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-02-0316 ([c9f0c4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-02-0316))
-
 * is a -> are grammar fix ([#88168](https://github.com/CleverRaven/Cataclysm-DDA/pull/88168))
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
@@ -233,5 +235,3 @@
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
 * Add the `PAUSE_INFECTIONS` flag ([#88088](https://github.com/CleverRaven/Cataclysm-DDA/pull/88088))
 * thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
-* fix copy-from of examine_actions ([#88084](https://github.com/CleverRaven/Cataclysm-DDA/pull/88084))
-* Fix duplicate and missing dialogs for Luke/Carlos Isherwood ([#88086](https://github.com/CleverRaven/Cataclysm-DDA/pull/88086))
