@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-08-0323 ([c62cb03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-0323))
+
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
 
 ---
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-08-02-0526 ([c017f60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-02-0526))
 
 * Fix shot glass spawns ([#88184](https://github.com/CleverRaven/Cataclysm-DDA/pull/88184))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-02-0402 ([28a168a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-02-0402))
-
 * Adjusting knife spears ([#88153](https://github.com/CleverRaven/Cataclysm-DDA/pull/88153))
 * is a -> are grammar fix ([#88168](https://github.com/CleverRaven/Cataclysm-DDA/pull/88168))
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
