@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-09-0306 ([0241305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-09-0306))
+
+* Feature: item faults indication ([#88237](https://github.com/CleverRaven/Cataclysm-DDA/pull/88237))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-09-0211 ([b0f8dc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-09-0211))
+
+* Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-08-1158 ([c921764](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-1158))
 
 * Feature: character stat requirements in recipes ([#88203](https://github.com/CleverRaven/Cataclysm-DDA/pull/88203))
@@ -165,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-08-03-2321 ([0469c22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-2321))
 
 * [Sky Island] Obsolete some talk topic in the island statue re: portal storm ([#88199](https://github.com/CleverRaven/Cataclysm-DDA/pull/88199))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-08-03-2136 ([bc6bc2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-03-2136))
-
 * Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
 
 ---
@@ -183,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-08-03-0536 ([a2ea39d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-0536))
 
 * Obsolete multicooker ([#88195](https://github.com/CleverRaven/Cataclysm-DDA/pull/88195))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-03-0056 ([16e5996](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-0056))
-
 * Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
 * Fix shot glass spawns ([#88184](https://github.com/CleverRaven/Cataclysm-DDA/pull/88184))
 * Adjusting knife spears ([#88153](https://github.com/CleverRaven/Cataclysm-DDA/pull/88153))
@@ -232,6 +234,4 @@
 * [Xedra Evolved] Faewild allows you to see invisible creatures ([#88103](https://github.com/CleverRaven/Cataclysm-DDA/pull/88103))
 * [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag ([#88102](https://github.com/CleverRaven/Cataclysm-DDA/pull/88102))
 * [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
-* Slightly more helpful murderbug messages ([#88095](https://github.com/CleverRaven/Cataclysm-DDA/pull/88095))
 * Allow NPCs to sleep during downtime ([#88097](https://github.com/CleverRaven/Cataclysm-DDA/pull/88097))
-* thaumathurgy -> thaumaturgy ([#88089](https://github.com/CleverRaven/Cataclysm-DDA/pull/88089))
