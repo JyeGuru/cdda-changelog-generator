@@ -1,3 +1,12 @@
+* [Bombastic Perks] Add Gunslinger perk ([#88260](https://github.com/CleverRaven/Cataclysm-DDA/pull/88260))
+* Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
+* Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-09-2336 ([f891d62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-09-2336))
+
+* Food revolution: Spices and seasonings ([#88198](https://github.com/CleverRaven/Cataclysm-DDA/pull/88198))
 
 ---
 
@@ -184,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-08-03-1615 ([e74b339](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-1615))
 
 * Clarify the Iron Safari contract mission that you need to (R)ead ([#88201](https://github.com/CleverRaven/Cataclysm-DDA/pull/88201))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-03-0536 ([a2ea39d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-0536))
-
 * Obsolete multicooker ([#88195](https://github.com/CleverRaven/Cataclysm-DDA/pull/88195))
 * Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
 * Fix shot glass spawns ([#88184](https://github.com/CleverRaven/Cataclysm-DDA/pull/88184))
@@ -222,15 +226,11 @@
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
 * Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
 * Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
-* Display multiple like items in car part removal on the same line with a count ([#88098](https://github.com/CleverRaven/Cataclysm-DDA/pull/88098))
 * Add PAUSE_BODYPART_INFECTION flag, use in MoM ([#88110](https://github.com/CleverRaven/Cataclysm-DDA/pull/88110))
 * fix two too-small notebooks ([#88109](https://github.com/CleverRaven/Cataclysm-DDA/pull/88109))
 * [XEDRA Evolved] Ozymandias fae statue from terrain to furniture ([#88112](https://github.com/CleverRaven/Cataclysm-DDA/pull/88112))
 * Update Mandibles and Folding Fangs to use technique bites ([#88115](https://github.com/CleverRaven/Cataclysm-DDA/pull/88115))
 * NPCs default to allow_sleep ally rule ([#88116](https://github.com/CleverRaven/Cataclysm-DDA/pull/88116))
-* De-deadnaming ([#88100](https://github.com/CleverRaven/Cataclysm-DDA/pull/88100))
 * [Xedra Evolved] Disable Wild Hunt random encounter for now ([#88104](https://github.com/CleverRaven/Cataclysm-DDA/pull/88104))
 * Swap cash card with credit card in basegame itemgroup ([#88108](https://github.com/CleverRaven/Cataclysm-DDA/pull/88108))
 * [Xedra Evolved] Faewild allows you to see invisible creatures ([#88103](https://github.com/CleverRaven/Cataclysm-DDA/pull/88103))
-* [MoM] Switch Telekinetic Push./Pull from SPECIES to a flag ([#88102](https://github.com/CleverRaven/Cataclysm-DDA/pull/88102))
-* [MoM] Convert telepathic matrix crystals to artifacts ([#88101](https://github.com/CleverRaven/Cataclysm-DDA/pull/88101))
