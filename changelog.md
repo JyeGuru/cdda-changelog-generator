@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-10-2203 ([67af28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-2203))
+
+* Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-10-1910 ([19283e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-1910))
 
 * [Xedra Evolved] Remove duplicate dreamdross NPC topic ([#88248](https://github.com/CleverRaven/Cataclysm-DDA/pull/88248))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2026-08-04-2355 ([c06b6e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-2355))
 
 * Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-04-2120 ([75f2083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-2120))
-
 * Aftershock: Origin Hobbies ([#88160](https://github.com/CleverRaven/Cataclysm-DDA/pull/88160))
 * made salt crafting recipe unattended ([#88189](https://github.com/CleverRaven/Cataclysm-DDA/pull/88189))
 * Auto drink using faucets in a vehicle bound auto drink zone ([#88200](https://github.com/CleverRaven/Cataclysm-DDA/pull/88200))
@@ -236,6 +237,5 @@
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
 * Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
 * Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
-* [XEDRA Evolved] Ozymandias fae statue from terrain to furniture ([#88112](https://github.com/CleverRaven/Cataclysm-DDA/pull/88112))
 * Update Mandibles and Folding Fangs to use technique bites ([#88115](https://github.com/CleverRaven/Cataclysm-DDA/pull/88115))
 * NPCs default to allow_sleep ally rule ([#88116](https://github.com/CleverRaven/Cataclysm-DDA/pull/88116))

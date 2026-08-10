@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-10-2203 (67af28b)
+* Revert "De-variant Classic Books to improve feature parity." (#88283)
+
 Cataclysm-DDA experimental build 2026-08-10-1910 (19283e2)
 * [Xedra Evolved] Remove duplicate dreamdross NPC topic (#88248)
 * added new Magiclysm - Bombastic Perk interaction (#88262)
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2026-08-05-0044 (7f6b236)
 
 Cataclysm-DDA experimental build 2026-08-04-2355 (c06b6e9)
 * Stop unattended crafts stalling when their crafter is unreachable (#88214)
-
-Cataclysm-DDA experimental build 2026-08-04-2120 (75f2083)
 * Aftershock: Origin Hobbies (#88160)
 * made salt crafting recipe unattended (#88189)
 * Auto drink using faucets in a vehicle bound auto drink zone (#88200)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2026-08-04-2120 (75f2083)
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy (#88126)
 * Add `wyrmhound` mutant dogs (#88130)
 * Fix aftershock region. (#88123)
-* [XEDRA Evolved] Ozymandias fae statue from terrain to furniture (#88112)
 * Update Mandibles and Folding Fangs to use technique bites (#88115)
 * NPCs default to allow_sleep ally rule (#88116)
