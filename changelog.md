@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-10-0024 ([e29dc06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-0024))
+
 * [Bombastic Perks] Add Gunslinger perk ([#88260](https://github.com/CleverRaven/Cataclysm-DDA/pull/88260))
 * Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
 * Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
@@ -187,11 +192,6 @@
 
 * [Sky Island] Obsolete some talk topic in the island statue re: portal storm ([#88199](https://github.com/CleverRaven/Cataclysm-DDA/pull/88199))
 * Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-03-1615 ([e74b339](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-1615))
-
 * Clarify the Iron Safari contract mission that you need to (R)ead ([#88201](https://github.com/CleverRaven/Cataclysm-DDA/pull/88201))
 * Obsolete multicooker ([#88195](https://github.com/CleverRaven/Cataclysm-DDA/pull/88195))
 * Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
