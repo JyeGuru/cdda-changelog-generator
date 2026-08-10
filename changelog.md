@@ -1,3 +1,11 @@
+* [Xedra Evolved] Remove duplicate dreamdross NPC topic ([#88248](https://github.com/CleverRaven/Cataclysm-DDA/pull/88248))
+* added new Magiclysm - Bombastic Perk interaction ([#88262](https://github.com/CleverRaven/Cataclysm-DDA/pull/88262))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-10-1819 ([c213edd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-1819))
+
+* [Xedra Evolved] Add `gramarye` practice recipe ([#88272](https://github.com/CleverRaven/Cataclysm-DDA/pull/88272))
 
 ---
 
@@ -181,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-08-04-2120 ([75f2083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-2120))
 
 * Aftershock: Origin Hobbies ([#88160](https://github.com/CleverRaven/Cataclysm-DDA/pull/88160))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-04-0512 ([a0a4fd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-0512))
-
 * made salt crafting recipe unattended ([#88189](https://github.com/CleverRaven/Cataclysm-DDA/pull/88189))
 * Auto drink using faucets in a vehicle bound auto drink zone ([#88200](https://github.com/CleverRaven/Cataclysm-DDA/pull/88200))
 * fix skirt env protection ([#88134](https://github.com/CleverRaven/Cataclysm-DDA/pull/88134))
@@ -204,7 +207,6 @@
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
 * fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
-* fix obsolete grip mod location on various guns ([#88107](https://github.com/CleverRaven/Cataclysm-DDA/pull/88107))
 * Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
 * Scared npcs are no longer guaranteed_hostile. ([#88125](https://github.com/CleverRaven/Cataclysm-DDA/pull/88125))
@@ -229,9 +231,6 @@
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
 * Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
 * Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
-* Add PAUSE_BODYPART_INFECTION flag, use in MoM ([#88110](https://github.com/CleverRaven/Cataclysm-DDA/pull/88110))
-* fix two too-small notebooks ([#88109](https://github.com/CleverRaven/Cataclysm-DDA/pull/88109))
 * [XEDRA Evolved] Ozymandias fae statue from terrain to furniture ([#88112](https://github.com/CleverRaven/Cataclysm-DDA/pull/88112))
 * Update Mandibles and Folding Fangs to use technique bites ([#88115](https://github.com/CleverRaven/Cataclysm-DDA/pull/88115))
 * NPCs default to allow_sleep ally rule ([#88116](https://github.com/CleverRaven/Cataclysm-DDA/pull/88116))
-* Swap cash card with credit card in basegame itemgroup ([#88108](https://github.com/CleverRaven/Cataclysm-DDA/pull/88108))
