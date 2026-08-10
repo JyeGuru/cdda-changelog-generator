@@ -204,6 +204,7 @@
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
 * fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
+* fix obsolete grip mod location on various guns ([#88107](https://github.com/CleverRaven/Cataclysm-DDA/pull/88107))
 * Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
 * Scared npcs are no longer guaranteed_hostile. ([#88125](https://github.com/CleverRaven/Cataclysm-DDA/pull/88125))
