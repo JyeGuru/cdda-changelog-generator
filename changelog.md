@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-10-0437 ([251cf6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-0437))
+
 * Bugfix: Allow radiation recovery while protected by NO_RADIATION ([#88268](https://github.com/CleverRaven/Cataclysm-DDA/pull/88268))
 * Weekly Changelog 2026-07-27 to 2026-08-03 ([#88196](https://github.com/CleverRaven/Cataclysm-DDA/pull/88196))
 
@@ -187,11 +192,6 @@
 * Remove some ap ammo reloads ([#88155](https://github.com/CleverRaven/Cataclysm-DDA/pull/88155))
 * add 12.3ln ap  ([#88117](https://github.com/CleverRaven/Cataclysm-DDA/pull/88117))
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-04-0323 ([e604f99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-0323))
-
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
 * [Sky Island] Obsolete some talk topic in the island statue re: portal storm ([#88199](https://github.com/CleverRaven/Cataclysm-DDA/pull/88199))
 * Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
