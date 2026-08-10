@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-10-1910 ([19283e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-1910))
+
 * [Xedra Evolved] Remove duplicate dreamdross NPC topic ([#88248](https://github.com/CleverRaven/Cataclysm-DDA/pull/88248))
 * added new Magiclysm - Bombastic Perk interaction ([#88262](https://github.com/CleverRaven/Cataclysm-DDA/pull/88262))
 
