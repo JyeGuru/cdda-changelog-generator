@@ -1,3 +1,11 @@
+* Bugfix: Allow radiation recovery while protected by NO_RADIATION ([#88268](https://github.com/CleverRaven/Cataclysm-DDA/pull/88268))
+* Weekly Changelog 2026-07-27 to 2026-08-03 ([#88196](https://github.com/CleverRaven/Cataclysm-DDA/pull/88196))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-10-0350 ([b21c634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-0350))
+
+* Add 76x-"Lore" serum ([#88232](https://github.com/CleverRaven/Cataclysm-DDA/pull/88232))
 
 ---
 
@@ -185,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-08-04-0323 ([e604f99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-0323))
 
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-03-2321 ([0469c22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-03-2321))
-
 * [Sky Island] Obsolete some talk topic in the island statue re: portal storm ([#88199](https://github.com/CleverRaven/Cataclysm-DDA/pull/88199))
 * Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
 * Clarify the Iron Safari contract mission that you need to (R)ead ([#88201](https://github.com/CleverRaven/Cataclysm-DDA/pull/88201))
@@ -201,7 +204,6 @@
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
 * fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
-* fix obsolete grip mod location on various guns ([#88107](https://github.com/CleverRaven/Cataclysm-DDA/pull/88107))
 * Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
 * Scared npcs are no longer guaranteed_hostile. ([#88125](https://github.com/CleverRaven/Cataclysm-DDA/pull/88125))
@@ -231,6 +233,4 @@
 * [XEDRA Evolved] Ozymandias fae statue from terrain to furniture ([#88112](https://github.com/CleverRaven/Cataclysm-DDA/pull/88112))
 * Update Mandibles and Folding Fangs to use technique bites ([#88115](https://github.com/CleverRaven/Cataclysm-DDA/pull/88115))
 * NPCs default to allow_sleep ally rule ([#88116](https://github.com/CleverRaven/Cataclysm-DDA/pull/88116))
-* [Xedra Evolved] Disable Wild Hunt random encounter for now ([#88104](https://github.com/CleverRaven/Cataclysm-DDA/pull/88104))
 * Swap cash card with credit card in basegame itemgroup ([#88108](https://github.com/CleverRaven/Cataclysm-DDA/pull/88108))
-* [Xedra Evolved] Faewild allows you to see invisible creatures ([#88103](https://github.com/CleverRaven/Cataclysm-DDA/pull/88103))
