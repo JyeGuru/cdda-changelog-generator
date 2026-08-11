@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-11-0509 ([e5c80d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0509))
+
 * Fix clothing wind resistance calculation ([#88255](https://github.com/CleverRaven/Cataclysm-DDA/pull/88255))
 * Weekly Changelog 2026-08-03 to 2026-08-10 ([#88277](https://github.com/CleverRaven/Cataclysm-DDA/pull/88277))
 * Prevent mutation looping in the slime tree ([#88282](https://github.com/CleverRaven/Cataclysm-DDA/pull/88282))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-08-05-0610 ([18011fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0610))
 
 * [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-05-0522 ([ada05d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0522))
-
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
 * Deadly bears and how to hurt them ([#88139](https://github.com/CleverRaven/Cataclysm-DDA/pull/88139))
 * change bullet_forming and make it less absract ([#88152](https://github.com/CleverRaven/Cataclysm-DDA/pull/88152))
