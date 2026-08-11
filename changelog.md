@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-11-0050 ([10c8ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0050))
+
+* Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-10-2203 ([67af28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-2203))
 
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
@@ -188,11 +194,6 @@
 * Chainmail crafting volume fix ([#88188](https://github.com/CleverRaven/Cataclysm-DDA/pull/88188))
 * Shallow pit can contain fire ([#88208](https://github.com/CleverRaven/Cataclysm-DDA/pull/88208))
 * add sound effect calls for lockpick break, damage, and success  ([#88204](https://github.com/CleverRaven/Cataclysm-DDA/pull/88204))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-04-2355 ([c06b6e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-04-2355))
-
 * Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))
 * Aftershock: Origin Hobbies ([#88160](https://github.com/CleverRaven/Cataclysm-DDA/pull/88160))
 * made salt crafting recipe unattended ([#88189](https://github.com/CleverRaven/Cataclysm-DDA/pull/88189))
@@ -237,5 +238,4 @@
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
 * Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
 * Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
-* Update Mandibles and Folding Fangs to use technique bites ([#88115](https://github.com/CleverRaven/Cataclysm-DDA/pull/88115))
 * NPCs default to allow_sleep ally rule ([#88116](https://github.com/CleverRaven/Cataclysm-DDA/pull/88116))
