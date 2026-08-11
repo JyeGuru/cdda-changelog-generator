@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-11-1656 ([8b9c4ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-1656))
+
+* Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-11-0509 ([e5c80d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0509))
 
 * Fix clothing wind resistance calculation ([#88255](https://github.com/CleverRaven/Cataclysm-DDA/pull/88255))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-08-05-1000 ([216762f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-1000))
 
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-05-0610 ([18011fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0610))
-
 * [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
 * Deadly bears and how to hurt them ([#88139](https://github.com/CleverRaven/Cataclysm-DDA/pull/88139))
@@ -236,5 +237,4 @@
 * Generalize the threshold requirement for quadrupedal movement. ([#88142](https://github.com/CleverRaven/Cataclysm-DDA/pull/88142))
 * Fix epicuticle blocking bite attacks, chitin covers dragonfly head ([#88135](https://github.com/CleverRaven/Cataclysm-DDA/pull/88135))
 * [MoM] Fix being able to throw zombie nulls ([#88138](https://github.com/CleverRaven/Cataclysm-DDA/pull/88138))
-* [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
 * Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
