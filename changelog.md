@@ -1,3 +1,12 @@
+* Fix clothing wind resistance calculation ([#88255](https://github.com/CleverRaven/Cataclysm-DDA/pull/88255))
+* Weekly Changelog 2026-08-03 to 2026-08-10 ([#88277](https://github.com/CleverRaven/Cataclysm-DDA/pull/88277))
+* Prevent mutation looping in the slime tree ([#88282](https://github.com/CleverRaven/Cataclysm-DDA/pull/88282))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-11-0402 ([f7f749b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0402))
+
+* [Xedra Evolved] Lilit touch / other edits  ([#88285](https://github.com/CleverRaven/Cataclysm-DDA/pull/88285))
 
 ---
 
@@ -184,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2026-08-05-0522 ([ada05d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0522))
 
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-05-0044 ([7f6b236](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-0044))
-
 * Deadly bears and how to hurt them ([#88139](https://github.com/CleverRaven/Cataclysm-DDA/pull/88139))
 * change bullet_forming and make it less absract ([#88152](https://github.com/CleverRaven/Cataclysm-DDA/pull/88152))
 * Chainmail crafting volume fix ([#88188](https://github.com/CleverRaven/Cataclysm-DDA/pull/88188))
@@ -200,7 +204,6 @@
 * Auto drink using faucets in a vehicle bound auto drink zone ([#88200](https://github.com/CleverRaven/Cataclysm-DDA/pull/88200))
 * fix skirt env protection ([#88134](https://github.com/CleverRaven/Cataclysm-DDA/pull/88134))
 * Remove some ap ammo reloads ([#88155](https://github.com/CleverRaven/Cataclysm-DDA/pull/88155))
-* add 12.3ln ap  ([#88117](https://github.com/CleverRaven/Cataclysm-DDA/pull/88117))
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
 * [Sky Island] Obsolete some talk topic in the island statue re: portal storm ([#88199](https://github.com/CleverRaven/Cataclysm-DDA/pull/88199))
@@ -226,7 +229,6 @@
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
 * Fix Megacity mod ([#88129](https://github.com/CleverRaven/Cataclysm-DDA/pull/88129))
 * Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
-* Highland Crypts ([#88121](https://github.com/CleverRaven/Cataclysm-DDA/pull/88121))
 * [Magiclysm] Make Magical Bracers into Bracers ([#88140](https://github.com/CleverRaven/Cataclysm-DDA/pull/88140))
 * [MoM] Make survivor palette extension actually extend ([#88137](https://github.com/CleverRaven/Cataclysm-DDA/pull/88137))
 * Aftershock: Replace old painkiller effect ([#88132](https://github.com/CleverRaven/Cataclysm-DDA/pull/88132))
@@ -237,5 +239,3 @@
 * [MoM] Fix being able to throw zombie nulls ([#88138](https://github.com/CleverRaven/Cataclysm-DDA/pull/88138))
 * [XEDRA Evolved] Humaniform Mi-Go diplomacy ([#88126](https://github.com/CleverRaven/Cataclysm-DDA/pull/88126))
 * Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
-* Fix aftershock region. ([#88123](https://github.com/CleverRaven/Cataclysm-DDA/pull/88123))
-* NPCs default to allow_sleep ally rule ([#88116](https://github.com/CleverRaven/Cataclysm-DDA/pull/88116))
