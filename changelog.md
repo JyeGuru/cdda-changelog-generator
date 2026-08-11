@@ -1,3 +1,11 @@
+* Stop hallucinating fake zombies ([#88288](https://github.com/CleverRaven/Cataclysm-DDA/pull/88288))
+* Fix Make music ([#88291](https://github.com/CleverRaven/Cataclysm-DDA/pull/88291))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-11-2015 ([786a1af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-2015))
+
+* Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
 
 ---
 
@@ -186,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2026-08-05-1459 ([cf27642](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-1459))
 
 * Made sugar from sweetened water recipe unattended ([#88229](https://github.com/CleverRaven/Cataclysm-DDA/pull/88229))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-05-1000 ([216762f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-05-1000))
-
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
 * [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
@@ -227,7 +230,6 @@
 * De-deadnaming, part 2 ([#88163](https://github.com/CleverRaven/Cataclysm-DDA/pull/88163))
 * Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
-* Fix Megacity mod ([#88129](https://github.com/CleverRaven/Cataclysm-DDA/pull/88129))
 * Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
 * [Magiclysm] Make Magical Bracers into Bracers ([#88140](https://github.com/CleverRaven/Cataclysm-DDA/pull/88140))
 * [MoM] Make survivor palette extension actually extend ([#88137](https://github.com/CleverRaven/Cataclysm-DDA/pull/88137))
@@ -237,4 +239,3 @@
 * Generalize the threshold requirement for quadrupedal movement. ([#88142](https://github.com/CleverRaven/Cataclysm-DDA/pull/88142))
 * Fix epicuticle blocking bite attacks, chitin covers dragonfly head ([#88135](https://github.com/CleverRaven/Cataclysm-DDA/pull/88135))
 * [MoM] Fix being able to throw zombie nulls ([#88138](https://github.com/CleverRaven/Cataclysm-DDA/pull/88138))
-* Add `wyrmhound` mutant dogs ([#88130](https://github.com/CleverRaven/Cataclysm-DDA/pull/88130))
