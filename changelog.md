@@ -1,6 +1,22 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-12-0250 ([d41ca7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-12-0250))
+
+* Fix Description of xtra strength aspirin ([#88287](https://github.com/CleverRaven/Cataclysm-DDA/pull/88287))
+* [ Xedra Evolved ] Rubik and the Jotunn ([#88278](https://github.com/CleverRaven/Cataclysm-DDA/pull/88278))
+* A liberal dose of non purifiable to MEDICAL ([#88219](https://github.com/CleverRaven/Cataclysm-DDA/pull/88219))
+* Portable Power Station ([#88289](https://github.com/CleverRaven/Cataclysm-DDA/pull/88289))
+* No Holidays for Typos ([#88146](https://github.com/CleverRaven/Cataclysm-DDA/pull/88146))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-12-0204 ([685e6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-12-0204))
+
+* Fix precious metals spawn after decharge ([#88294](https://github.com/CleverRaven/Cataclysm-DDA/pull/88294))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-11-2111 ([03890c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-2111))
 
 * Stop hallucinating fake zombies ([#88288](https://github.com/CleverRaven/Cataclysm-DDA/pull/88288))
@@ -181,17 +197,7 @@
 #### Cataclysm-DDA experimental build 2026-08-06-1050 ([8d62ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-1050))
 
 * Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment ([#88234](https://github.com/CleverRaven/Cataclysm-DDA/pull/88234))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-06-0409 ([394d604](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-0409))
-
 * change steel bar stocks size ([#88228](https://github.com/CleverRaven/Cataclysm-DDA/pull/88228))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-06-0323 ([39890a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-0323))
-
 * [MoM] Change Durability power to Augment Durability ([#88231](https://github.com/CleverRaven/Cataclysm-DDA/pull/88231))
 * Made sugar from sweetened water recipe unattended ([#88229](https://github.com/CleverRaven/Cataclysm-DDA/pull/88229))
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
@@ -206,7 +212,6 @@
 * Aftershock: Origin Hobbies ([#88160](https://github.com/CleverRaven/Cataclysm-DDA/pull/88160))
 * made salt crafting recipe unattended ([#88189](https://github.com/CleverRaven/Cataclysm-DDA/pull/88189))
 * Auto drink using faucets in a vehicle bound auto drink zone ([#88200](https://github.com/CleverRaven/Cataclysm-DDA/pull/88200))
-* fix skirt env protection ([#88134](https://github.com/CleverRaven/Cataclysm-DDA/pull/88134))
 * Remove some ap ammo reloads ([#88155](https://github.com/CleverRaven/Cataclysm-DDA/pull/88155))
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
@@ -221,21 +226,15 @@
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
 * fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
-* Add INFECTION_RECOVERY flag, use in XE ([#88133](https://github.com/CleverRaven/Cataclysm-DDA/pull/88133))
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
 * Fix double space typos ([#88161](https://github.com/CleverRaven/Cataclysm-DDA/pull/88161))
 * Update pits not to be killing machines ([#88166](https://github.com/CleverRaven/Cataclysm-DDA/pull/88166))
 * Weekly Changelog 2026-07-20 to 2026-07-27 ([#88143](https://github.com/CleverRaven/Cataclysm-DDA/pull/88143))
-* Aftershock: Project Sobek Genetech ([#88136](https://github.com/CleverRaven/Cataclysm-DDA/pull/88136))
 * De-deadnaming, part 2 ([#88163](https://github.com/CleverRaven/Cataclysm-DDA/pull/88163))
 * Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
 * Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
 * [Magiclysm] Make Magical Bracers into Bracers ([#88140](https://github.com/CleverRaven/Cataclysm-DDA/pull/88140))
-* [MoM] Make survivor palette extension actually extend ([#88137](https://github.com/CleverRaven/Cataclysm-DDA/pull/88137))
-* Aftershock: Replace old painkiller effect ([#88132](https://github.com/CleverRaven/Cataclysm-DDA/pull/88132))
 * Change the prices of books in the abstract ([#88147](https://github.com/CleverRaven/Cataclysm-DDA/pull/88147))
 * add period ([#88141](https://github.com/CleverRaven/Cataclysm-DDA/pull/88141))
 * Generalize the threshold requirement for quadrupedal movement. ([#88142](https://github.com/CleverRaven/Cataclysm-DDA/pull/88142))
-* Fix epicuticle blocking bite attacks, chitin covers dragonfly head ([#88135](https://github.com/CleverRaven/Cataclysm-DDA/pull/88135))
-* [MoM] Fix being able to throw zombie nulls ([#88138](https://github.com/CleverRaven/Cataclysm-DDA/pull/88138))
