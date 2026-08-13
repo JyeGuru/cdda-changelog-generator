@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-13-1926 ([121ee8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1926))
+
+* Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-13-1617 ([824ad15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1617))
 
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-08-07-1205 ([f71db86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-1205))
 
 * Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-07-0126 ([3c4baa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-0126))
-
 * Code simplification: consolidate bash specific logic in roll_melee_damage_internal(). ([#88174](https://github.com/CleverRaven/Cataclysm-DDA/pull/88174))
 * Add faults to all melee weapons ([#88211](https://github.com/CleverRaven/Cataclysm-DDA/pull/88211))
 * Fix NEED_FULL_MAGAZINE rejecting ordinary recipe components ([#88215](https://github.com/CleverRaven/Cataclysm-DDA/pull/88215))
@@ -232,7 +233,6 @@
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
 * Fix double space typos ([#88161](https://github.com/CleverRaven/Cataclysm-DDA/pull/88161))
 * Update pits not to be killing machines ([#88166](https://github.com/CleverRaven/Cataclysm-DDA/pull/88166))
-* Weekly Changelog 2026-07-20 to 2026-07-27 ([#88143](https://github.com/CleverRaven/Cataclysm-DDA/pull/88143))
 * De-deadnaming, part 2 ([#88163](https://github.com/CleverRaven/Cataclysm-DDA/pull/88163))
 * Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
