@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-13-0213 ([a724a08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-0213))
+
+* Add map console to subway station map ([#88286](https://github.com/CleverRaven/Cataclysm-DDA/pull/88286))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-13-0108 ([4af74fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-0108))
+
+* Add serum 51x-"Landru" ([#88273](https://github.com/CleverRaven/Cataclysm-DDA/pull/88273))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-12-0250 ([d41ca7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-12-0250))
 
 * Fix Description of xtra strength aspirin ([#88287](https://github.com/CleverRaven/Cataclysm-DDA/pull/88287))
@@ -184,18 +196,8 @@
 #### Cataclysm-DDA experimental build 2026-08-06-1302 ([36d57f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-1302))
 
 * Update nested.json (remove no longer exist reload recipes) ([#88225](https://github.com/CleverRaven/Cataclysm-DDA/pull/88225))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-06-1151 ([caca71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-1151))
-
 * [MoM] Fix Mood Stabilization knack description ([#88221](https://github.com/CleverRaven/Cataclysm-DDA/pull/88221))
 * [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-06-1050 ([8d62ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-06-1050))
-
 * Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment ([#88234](https://github.com/CleverRaven/Cataclysm-DDA/pull/88234))
 * change steel bar stocks size ([#88228](https://github.com/CleverRaven/Cataclysm-DDA/pull/88228))
 * [MoM] Change Durability power to Augment Durability ([#88231](https://github.com/CleverRaven/Cataclysm-DDA/pull/88231))
@@ -203,7 +205,6 @@
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
 * [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
-* Deadly bears and how to hurt them ([#88139](https://github.com/CleverRaven/Cataclysm-DDA/pull/88139))
 * change bullet_forming and make it less absract ([#88152](https://github.com/CleverRaven/Cataclysm-DDA/pull/88152))
 * Chainmail crafting volume fix ([#88188](https://github.com/CleverRaven/Cataclysm-DDA/pull/88188))
 * Shallow pit can contain fire ([#88208](https://github.com/CleverRaven/Cataclysm-DDA/pull/88208))
@@ -234,7 +235,6 @@
 * Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
 * Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
-* [Magiclysm] Make Magical Bracers into Bracers ([#88140](https://github.com/CleverRaven/Cataclysm-DDA/pull/88140))
 * Change the prices of books in the abstract ([#88147](https://github.com/CleverRaven/Cataclysm-DDA/pull/88147))
 * add period ([#88141](https://github.com/CleverRaven/Cataclysm-DDA/pull/88141))
 * Generalize the threshold requirement for quadrupedal movement. ([#88142](https://github.com/CleverRaven/Cataclysm-DDA/pull/88142))
