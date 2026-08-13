@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-13-1345 (b725cbe)
+* Remove SDL2 support (#88301)
+
 Cataclysm-DDA experimental build 2026-08-13-0213 (a724a08)
 * Add map console to subway station map (#88286)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2026-08-07-0126 (3c4baa0)
 Cataclysm-DDA experimental build 2026-08-07-0030 (4254200)
 * [Hunvre] Remove the hacky spawning eoc (#88239)
 * Fix Windows tests not building in CI (#88241)
-
-Cataclysm-DDA experimental build 2026-08-06-1302 (36d57f9)
 * Update nested.json (remove no longer exist reload recipes) (#88225)
 * [MoM] Fix Mood Stabilization knack description (#88221)
 * [Xedra Evolved] Add Ominous Fog weather event (#88236)
@@ -146,5 +147,4 @@ Cataclysm-DDA experimental build 2026-08-06-1302 (36d57f9)
 * Adjust some of the book abstract i missed (#88157)
 * Document options cache (#88149)
 * Change the prices of books in the abstract (#88147)
-* add period (#88141)
 * Generalize the threshold requirement for quadrupedal movement. (#88142)
