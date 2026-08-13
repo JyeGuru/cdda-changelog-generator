@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-13-1617 ([824ad15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1617))
+
+* Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-13-1345 ([b725cbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1345))
 
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
@@ -189,11 +195,6 @@
 * Fix NEED_FULL_MAGAZINE rejecting ordinary recipe components ([#88215](https://github.com/CleverRaven/Cataclysm-DDA/pull/88215))
 * De-variant Classic Books to improve feature parity. ([#88217](https://github.com/CleverRaven/Cataclysm-DDA/pull/88217))
 * [Hunvre] Fix the Hunvre worldgen ([#88238](https://github.com/CleverRaven/Cataclysm-DDA/pull/88238))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-07-0030 ([4254200](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-0030))
-
 * [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
 * Update nested.json (remove no longer exist reload recipes) ([#88225](https://github.com/CleverRaven/Cataclysm-DDA/pull/88225))
@@ -237,4 +238,3 @@
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
 * Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
 * Change the prices of books in the abstract ([#88147](https://github.com/CleverRaven/Cataclysm-DDA/pull/88147))
-* Generalize the threshold requirement for quadrupedal movement. ([#88142](https://github.com/CleverRaven/Cataclysm-DDA/pull/88142))
