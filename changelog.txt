@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-14-1927 (6eb1226)
+* Added crafting fault to all steel swords (#88313)
+
 Cataclysm-DDA experimental build 2026-08-14-0329 (910a899)
 * Slime hands is now a bodypart (#88317)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2026-08-07-2053 (b38b1fd)
 
 Cataclysm-DDA experimental build 2026-08-07-1952 (8893fb8)
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant (#88256)
-
-Cataclysm-DDA experimental build 2026-08-07-1805 (08d98b7)
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms (#88249)
 * Capitalize Dolio name (#88169)
 * [ MoM ] E-logs for MoM (#88223)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2026-08-07-1805 (08d98b7)
 * De-deadnaming, part 2 (#88163)
 * Fixed 'weigth' typo in zed_acid.json (#88150)
 * Adjust some of the book abstract i missed (#88157)
-* Document options cache (#88149)
