@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-14-0329 (910a899)
+* Slime hands is now a bodypart (#88317)
+
 Cataclysm-DDA experimental build 2026-08-14-0118 (2bf1193)
 * Migrate dialogue window to imgui (#88235)
 * Keep SDL3 shader CI artifacts for a week (#88316)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2026-08-07-1952 (8893fb8)
 
 Cataclysm-DDA experimental build 2026-08-07-1805 (08d98b7)
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms (#88249)
-
-Cataclysm-DDA experimental build 2026-08-07-1354 (5a5574b)
 * Capitalize Dolio name (#88169)
 * [ MoM ] E-logs for MoM (#88223)
 * Integrate 0.I changelog to experimental (#88240)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2026-08-07-1354 (5a5574b)
 * Fixed 'weigth' typo in zed_acid.json (#88150)
 * Adjust some of the book abstract i missed (#88157)
 * Document options cache (#88149)
-* Change the prices of books in the abstract (#88147)

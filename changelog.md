@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-14-0329 ([910a899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-0329))
+
+* Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-14-0118 ([2bf1193](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-0118))
 
 * Migrate dialogue window to imgui ([#88235](https://github.com/CleverRaven/Cataclysm-DDA/pull/88235))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-08-07-1805 ([08d98b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-1805))
 
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms ([#88249](https://github.com/CleverRaven/Cataclysm-DDA/pull/88249))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-07-1354 ([5a5574b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-1354))
-
 * Capitalize Dolio name ([#88169](https://github.com/CleverRaven/Cataclysm-DDA/pull/88169))
 * [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
@@ -238,4 +239,3 @@
 * Fixed 'weigth' typo in zed_acid.json ([#88150](https://github.com/CleverRaven/Cataclysm-DDA/pull/88150))
 * Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
 * Document options cache ([#88149](https://github.com/CleverRaven/Cataclysm-DDA/pull/88149))
-* Change the prices of books in the abstract ([#88147](https://github.com/CleverRaven/Cataclysm-DDA/pull/88147))
