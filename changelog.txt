@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2026-08-14-0118 (2bf1193)
+* Migrate dialogue window to imgui (#88235)
+* Keep SDL3 shader CI artifacts for a week (#88316)
+
 Cataclysm-DDA experimental build 2026-08-13-1926 (121ee8f)
 * Remove all bandits (#88312)
 
@@ -19,7 +23,6 @@ Cataclysm-DDA experimental build 2026-08-12-0250 (d41ca7a)
 * [ Xedra Evolved ] Rubik and the Jotunn (#88278)
 * A liberal dose of non purifiable to MEDICAL (#88219)
 * Portable Power Station (#88289)
-* No Holidays for Typos (#88146)
 
 Cataclysm-DDA experimental build 2026-08-12-0204 (685e6af)
 * Fix precious metals spawn after decharge (#88294)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-08-07-1354 (5a5574b)
 * Capitalize Dolio name (#88169)
 * [ MoM ] E-logs for MoM (#88223)
 * Integrate 0.I changelog to experimental (#88240)
-
-Cataclysm-DDA experimental build 2026-08-07-1205 (f71db86)
 * Add AIMING_SPEED enchant (#88245)
 * Code simplification: consolidate bash specific logic in roll_melee_damage_internal(). (#88174)
 * Add faults to all melee weapons (#88211)

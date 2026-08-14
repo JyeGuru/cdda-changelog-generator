@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-14-0118 ([2bf1193](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-0118))
+
+* Migrate dialogue window to imgui ([#88235](https://github.com/CleverRaven/Cataclysm-DDA/pull/88235))
+* Keep SDL3 shader CI artifacts for a week ([#88316](https://github.com/CleverRaven/Cataclysm-DDA/pull/88316))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-13-1926 ([121ee8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1926))
 
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
@@ -37,7 +44,6 @@
 * [ Xedra Evolved ] Rubik and the Jotunn ([#88278](https://github.com/CleverRaven/Cataclysm-DDA/pull/88278))
 * A liberal dose of non purifiable to MEDICAL ([#88219](https://github.com/CleverRaven/Cataclysm-DDA/pull/88219))
 * Portable Power Station ([#88289](https://github.com/CleverRaven/Cataclysm-DDA/pull/88289))
-* No Holidays for Typos ([#88146](https://github.com/CleverRaven/Cataclysm-DDA/pull/88146))
 
 ---
 
@@ -185,11 +191,6 @@
 * Capitalize Dolio name ([#88169](https://github.com/CleverRaven/Cataclysm-DDA/pull/88169))
 * [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-07-1205 ([f71db86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-07-1205))
-
 * Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
 * Code simplification: consolidate bash specific logic in roll_melee_damage_internal(). ([#88174](https://github.com/CleverRaven/Cataclysm-DDA/pull/88174))
 * Add faults to all melee weapons ([#88211](https://github.com/CleverRaven/Cataclysm-DDA/pull/88211))
