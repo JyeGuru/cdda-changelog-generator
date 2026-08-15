@@ -1,3 +1,4 @@
+* [MoM] Survivor bunker variant (#88304)
 
 Cataclysm-DDA experimental build 2026-08-14-1927 (6eb1226)
 * Added crafting fault to all steel swords (#88313)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2026-08-07-1952 (8893fb8)
 * Fix double space typos (#88161)
 * Update pits not to be killing machines (#88166)
 * De-deadnaming, part 2 (#88163)
-* Fixed 'weigth' typo in zed_acid.json (#88150)
 * Adjust some of the book abstract i missed (#88157)
