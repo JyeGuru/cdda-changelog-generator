@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-15-1847 (9ec13a7)
+* Give requirement checks an explicit actor (#88292)
+
 Cataclysm-DDA experimental build 2026-08-15-0330 (13b768f)
 * [Xedra Evolved] Add Strix Skin mutation (#88323)
 * [Bombastic Perks] Small Gunslinger edit (#88322)
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2026-08-09-0306 (0241305)
 
 Cataclysm-DDA experimental build 2026-08-09-0211 (b0f8dc7)
 * Boiled egg unattend (#88263)
-
-Cataclysm-DDA experimental build 2026-08-08-1158 (c921764)
 * Feature: character stat requirements in recipes (#88203)
 * [Xedra Evolved] Challenge Scenario - The Fog (#88243)
 * Add CANNOT_SLEEP flag (#88251)

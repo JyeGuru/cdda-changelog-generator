@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-15-1847 ([9ec13a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-1847))
+
+* Give requirement checks an explicit actor ([#88292](https://github.com/CleverRaven/Cataclysm-DDA/pull/88292))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-15-0330 ([13b768f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0330))
 
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-08-09-0211 ([b0f8dc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-09-0211))
 
 * Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-08-1158 ([c921764](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-1158))
-
 * Feature: character stat requirements in recipes ([#88203](https://github.com/CleverRaven/Cataclysm-DDA/pull/88203))
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
 * Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
