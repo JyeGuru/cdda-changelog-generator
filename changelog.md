@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-15-0330 ([13b768f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0330))
+
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
 * [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
 
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2026-08-08-1158 ([c921764](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-1158))
 
 * Feature: character stat requirements in recipes ([#88203](https://github.com/CleverRaven/Cataclysm-DDA/pull/88203))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-08-0323 ([c62cb03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-0323))
-
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
 * Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
 * Feature: Support mana, stamina, and blood costs in crafting recipes ([#88192](https://github.com/CleverRaven/Cataclysm-DDA/pull/88192))
