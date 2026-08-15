@@ -184,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2026-08-09-0306 ([0241305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-09-0306))
 
 * Feature: item faults indication ([#88237](https://github.com/CleverRaven/Cataclysm-DDA/pull/88237))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-09-0211 ([b0f8dc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-09-0211))
-
 * Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
 * Feature: character stat requirements in recipes ([#88203](https://github.com/CleverRaven/Cataclysm-DDA/pull/88203))
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
