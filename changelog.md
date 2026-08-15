@@ -1,3 +1,11 @@
+* [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
+* [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-15-0240 ([a792b54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0240))
+
+* add steps to boiled noodle recipe ([#88267](https://github.com/CleverRaven/Cataclysm-DDA/pull/88267))
 
 ---
 
@@ -183,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-08-08-0323 ([c62cb03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-0323))
 
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-08-0133 ([9e29382](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-08-0133))
-
 * Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
 * Feature: Support mana, stamina, and blood costs in crafting recipes ([#88192](https://github.com/CleverRaven/Cataclysm-DDA/pull/88192))
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant ([#88256](https://github.com/CleverRaven/Cataclysm-DDA/pull/88256))
@@ -220,7 +223,6 @@
 * Aftershock: Origin Hobbies ([#88160](https://github.com/CleverRaven/Cataclysm-DDA/pull/88160))
 * made salt crafting recipe unattended ([#88189](https://github.com/CleverRaven/Cataclysm-DDA/pull/88189))
 * Auto drink using faucets in a vehicle bound auto drink zone ([#88200](https://github.com/CleverRaven/Cataclysm-DDA/pull/88200))
-* Remove some ap ammo reloads ([#88155](https://github.com/CleverRaven/Cataclysm-DDA/pull/88155))
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
 * [Sky Island] Obsolete some talk topic in the island statue re: portal storm ([#88199](https://github.com/CleverRaven/Cataclysm-DDA/pull/88199))
@@ -229,7 +231,6 @@
 * Obsolete multicooker ([#88195](https://github.com/CleverRaven/Cataclysm-DDA/pull/88195))
 * Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
 * Fix shot glass spawns ([#88184](https://github.com/CleverRaven/Cataclysm-DDA/pull/88184))
-* Adjusting knife spears ([#88153](https://github.com/CleverRaven/Cataclysm-DDA/pull/88153))
 * is a -> are grammar fix ([#88168](https://github.com/CleverRaven/Cataclysm-DDA/pull/88168))
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
@@ -238,4 +239,3 @@
 * Fix double space typos ([#88161](https://github.com/CleverRaven/Cataclysm-DDA/pull/88161))
 * Update pits not to be killing machines ([#88166](https://github.com/CleverRaven/Cataclysm-DDA/pull/88166))
 * De-deadnaming, part 2 ([#88163](https://github.com/CleverRaven/Cataclysm-DDA/pull/88163))
-* Adjust some of the book abstract i missed ([#88157](https://github.com/CleverRaven/Cataclysm-DDA/pull/88157))
