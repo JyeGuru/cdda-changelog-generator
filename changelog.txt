@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-08-15-0056 (b8182fa)
+* [Xedra Evolved] Add abyssal coffee alchemy recipe (#88330)
+
+Cataclysm-DDA experimental build 2026-08-15-0001 (68f528a)
 * [MoM] Survivor bunker variant (#88304)
 
 Cataclysm-DDA experimental build 2026-08-14-1927 (6eb1226)
@@ -94,11 +99,7 @@ Cataclysm-DDA experimental build 2026-08-08-0323 (c62cb03)
 
 Cataclysm-DDA experimental build 2026-08-08-0133 (9e29382)
 * Add CANNOT_SLEEP flag (#88251)
-
-Cataclysm-DDA experimental build 2026-08-07-2053 (b38b1fd)
 * Feature: Support mana, stamina, and blood costs in crafting recipes (#88192)
-
-Cataclysm-DDA experimental build 2026-08-07-1952 (8893fb8)
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant (#88256)
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms (#88249)
 * Capitalize Dolio name (#88169)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2026-08-07-1952 (8893fb8)
 * Unattended craft for wood ash (#88227)
 * [MoM] Add Durability vitakinetic power (#88216)
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen (#88220)
-* change bullet_forming and make it less absract (#88152)
 * Chainmail crafting volume fix (#88188)
 * Shallow pit can contain fire (#88208)
 * add sound effect calls for lockpick break, damage, and success  (#88204)
