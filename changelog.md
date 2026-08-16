@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-16-2103 ([b3dd440](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-2103))
+
+* Change appliance solar panel bolt turning requirement ([#88348](https://github.com/CleverRaven/Cataclysm-DDA/pull/88348))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-16-1750 ([c30db98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-1750))
 
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
@@ -171,11 +177,6 @@
 
 * Bugfix: Allow radiation recovery while protected by NO_RADIATION ([#88268](https://github.com/CleverRaven/Cataclysm-DDA/pull/88268))
 * Weekly Changelog 2026-07-27 to 2026-08-03 ([#88196](https://github.com/CleverRaven/Cataclysm-DDA/pull/88196))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-10-0350 ([b21c634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-0350))
-
 * Add 76x-"Lore" serum ([#88232](https://github.com/CleverRaven/Cataclysm-DDA/pull/88232))
 * [Bombastic Perks] Add Gunslinger perk ([#88260](https://github.com/CleverRaven/Cataclysm-DDA/pull/88260))
 * Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
@@ -229,4 +230,3 @@
 * Fix personal autopickup rules not saved. ([#88176](https://github.com/CleverRaven/Cataclysm-DDA/pull/88176))
 * fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
 * Handful of down feathers ([#88175](https://github.com/CleverRaven/Cataclysm-DDA/pull/88175))
-* Update pits not to be killing machines ([#88166](https://github.com/CleverRaven/Cataclysm-DDA/pull/88166))
