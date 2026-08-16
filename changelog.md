@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-16-1750 ([c30db98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-1750))
+
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
 
 ---
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-08-10-0350 ([b21c634](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-0350))
 
 * Add 76x-"Lore" serum ([#88232](https://github.com/CleverRaven/Cataclysm-DDA/pull/88232))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-10-0024 ([e29dc06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-0024))
-
 * [Bombastic Perks] Add Gunslinger perk ([#88260](https://github.com/CleverRaven/Cataclysm-DDA/pull/88260))
 * Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
 * Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
