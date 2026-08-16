@@ -1,3 +1,7 @@
+* Fix TCL trap mapgen error (#88346)
+
+Cataclysm-DDA experimental build 2026-08-16-1701 (850a217)
+* [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later (#88344)
 * Clarify extent of contributions covered by the authorship policy (#88298)
 
 Cataclysm-DDA experimental build 2026-08-15-1847 (9ec13a7)
@@ -92,8 +96,6 @@ Cataclysm-DDA experimental build 2026-08-10-0024 (e29dc06)
 * [Bombastic Perks] Add Gunslinger perk (#88260)
 * Add faults to more melee weapons (#88271)
 * Update camping itemgroup (#88264)
-
-Cataclysm-DDA experimental build 2026-08-09-2336 (f891d62)
 * Food revolution: Spices and seasonings (#88198)
 * Feature: item faults indication (#88237)
 * Boiled egg unattend (#88263)
@@ -143,6 +145,4 @@ Cataclysm-DDA experimental build 2026-08-09-2336 (f891d62)
 * Fix personal autopickup rules not saved. (#88176)
 * fix by adding _WEAPONRY (#88182)
 * Handful of down feathers (#88175)
-* Fix double space typos (#88161)
 * Update pits not to be killing machines (#88166)
-* De-deadnaming, part 2 (#88163)
