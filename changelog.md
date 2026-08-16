@@ -179,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-08-09-2336 ([f891d62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-09-2336))
 
 * Food revolution: Spices and seasonings ([#88198](https://github.com/CleverRaven/Cataclysm-DDA/pull/88198))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-09-0306 ([0241305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-09-0306))
-
 * Feature: item faults indication ([#88237](https://github.com/CleverRaven/Cataclysm-DDA/pull/88237))
 * Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
 * Feature: character stat requirements in recipes ([#88203](https://github.com/CleverRaven/Cataclysm-DDA/pull/88203))

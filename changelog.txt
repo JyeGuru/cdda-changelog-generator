@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2026-08-10-0024 (e29dc06)
 
 Cataclysm-DDA experimental build 2026-08-09-2336 (f891d62)
 * Food revolution: Spices and seasonings (#88198)
-
-Cataclysm-DDA experimental build 2026-08-09-0306 (0241305)
 * Feature: item faults indication (#88237)
 * Boiled egg unattend (#88263)
 * Feature: character stat requirements in recipes (#88203)
