@@ -1,3 +1,4 @@
+* Clarify extent of contributions covered by the authorship policy (#88298)
 
 Cataclysm-DDA experimental build 2026-08-15-1847 (9ec13a7)
 * Give requirement checks an explicit actor (#88292)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2026-08-09-0306 (0241305)
 * Shallow pit can contain fire (#88208)
 * add sound effect calls for lockpick break, damage, and success  (#88204)
 * Stop unattended crafts stalling when their crafter is unreachable (#88214)
-* Aftershock: Origin Hobbies (#88160)
 * made salt crafting recipe unattended (#88189)
 * Auto drink using faucets in a vehicle bound auto drink zone (#88200)
 * [alt-map-key] Add new overmap terrain (#88205)

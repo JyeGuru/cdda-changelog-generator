@@ -1,3 +1,4 @@
+* Clarify extent of contributions covered by the authorship policy ([#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298))
 
 ---
 
@@ -216,7 +217,6 @@
 * Shallow pit can contain fire ([#88208](https://github.com/CleverRaven/Cataclysm-DDA/pull/88208))
 * add sound effect calls for lockpick break, damage, and success  ([#88204](https://github.com/CleverRaven/Cataclysm-DDA/pull/88204))
 * Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))
-* Aftershock: Origin Hobbies ([#88160](https://github.com/CleverRaven/Cataclysm-DDA/pull/88160))
 * made salt crafting recipe unattended ([#88189](https://github.com/CleverRaven/Cataclysm-DDA/pull/88189))
 * Auto drink using faucets in a vehicle bound auto drink zone ([#88200](https://github.com/CleverRaven/Cataclysm-DDA/pull/88200))
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
