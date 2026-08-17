@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-17-0332 ([b53af11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0332))
+
+* [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC ([#88345](https://github.com/CleverRaven/Cataclysm-DDA/pull/88345))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-17-0252 ([7d9e0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0252))
 
 * Flesh-raptors are living beings ([#88352](https://github.com/CleverRaven/Cataclysm-DDA/pull/88352))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-08-10-2203 ([67af28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-2203))
 
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-10-1910 ([19283e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-1910))
-
 * [Xedra Evolved] Remove duplicate dreamdross NPC topic ([#88248](https://github.com/CleverRaven/Cataclysm-DDA/pull/88248))
 * added new Magiclysm - Bombastic Perk interaction ([#88262](https://github.com/CleverRaven/Cataclysm-DDA/pull/88262))
 * [Xedra Evolved] Add `gramarye` practice recipe ([#88272](https://github.com/CleverRaven/Cataclysm-DDA/pull/88272))
