@@ -1,39 +1,95 @@
+
+Cataclysm-DDA experimental build 2026-08-17-0332 (b53af11)
 * [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC (#88345)
+
+Cataclysm-DDA experimental build 2026-08-17-0252 (7d9e0f7)
 * Flesh-raptors are living beings (#88352)
+
+Cataclysm-DDA experimental build 2026-08-17-0215 (337fcbb)
 * Add serum 09x-"Anaximander" (#88321)
+
+Cataclysm-DDA experimental build 2026-08-16-2103 (b3dd440)
 * Change appliance solar panel bolt turning requirement (#88348)
+
+Cataclysm-DDA experimental build 2026-08-16-1750 (c30db98)
 * Fix TCL trap mapgen error (#88346)
+
+Cataclysm-DDA experimental build 2026-08-16-1701 (850a217)
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later (#88344)
 * Clarify extent of contributions covered by the authorship policy (#88298)
+
+Cataclysm-DDA experimental build 2026-08-15-1847 (9ec13a7)
 * Give requirement checks an explicit actor (#88292)
+
+Cataclysm-DDA experimental build 2026-08-15-0330 (13b768f)
 * [Xedra Evolved] Add Strix Skin mutation (#88323)
 * [Bombastic Perks] Small Gunslinger edit (#88322)
+
+Cataclysm-DDA experimental build 2026-08-15-0240 (a792b54)
 * add steps to boiled noodle recipe (#88267)
+
+Cataclysm-DDA experimental build 2026-08-15-0056 (b8182fa)
 * [Xedra Evolved] Add abyssal coffee alchemy recipe (#88330)
+
+Cataclysm-DDA experimental build 2026-08-15-0001 (68f528a)
 * [MoM] Survivor bunker variant (#88304)
+
+Cataclysm-DDA experimental build 2026-08-14-1927 (6eb1226)
 * Added crafting fault to all steel swords (#88313)
+
+Cataclysm-DDA experimental build 2026-08-14-0329 (910a899)
 * Slime hands is now a bodypart (#88317)
+
+Cataclysm-DDA experimental build 2026-08-14-0118 (2bf1193)
 * Migrate dialogue window to imgui (#88235)
 * Keep SDL3 shader CI artifacts for a week (#88316)
+
+Cataclysm-DDA experimental build 2026-08-13-1926 (121ee8f)
 * Remove all bandits (#88312)
+
+Cataclysm-DDA experimental build 2026-08-13-1617 (824ad15)
 * Swap serum crash to `character_loses_effect` (#88306)
+
+Cataclysm-DDA experimental build 2026-08-13-1345 (b725cbe)
 * Remove SDL2 support (#88301)
+
+Cataclysm-DDA experimental build 2026-08-13-0213 (a724a08)
 * Add map console to subway station map (#88286)
+
+Cataclysm-DDA experimental build 2026-08-13-0108 (4af74fd)
 * Add serum 51x-"Landru" (#88273)
+
+Cataclysm-DDA experimental build 2026-08-12-0250 (d41ca7a)
 * Fix Description of xtra strength aspirin (#88287)
 * [ Xedra Evolved ] Rubik and the Jotunn (#88278)
 * A liberal dose of non purifiable to MEDICAL (#88219)
 * Portable Power Station (#88289)
+
+Cataclysm-DDA experimental build 2026-08-12-0204 (685e6af)
 * Fix precious metals spawn after decharge (#88294)
+
+Cataclysm-DDA experimental build 2026-08-11-2111 (03890c8)
 * Stop hallucinating fake zombies (#88288)
 * Fix Make music (#88291)
+
+Cataclysm-DDA experimental build 2026-08-11-2015 (786a1af)
 * Fix cata-serialize clang-tidy failure on pick_info (#88297)
+
+Cataclysm-DDA experimental build 2026-08-11-1656 (8b9c4ec)
 * Remove a duplicate vpart_range.h include (#88293)
+
+Cataclysm-DDA experimental build 2026-08-11-0509 (e5c80d6)
 * Fix clothing wind resistance calculation (#88255)
 * Weekly Changelog 2026-08-03 to 2026-08-10 (#88277)
 * Prevent mutation looping in the slime tree (#88282)
+
+Cataclysm-DDA experimental build 2026-08-11-0402 (f7f749b)
 * [Xedra Evolved] Lilit touch / other edits  (#88285)
+
+Cataclysm-DDA experimental build 2026-08-11-0050 (10c8ffd)
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking (#88284)
+
+Cataclysm-DDA experimental build 2026-08-10-2203 (67af28b)
 * Revert "De-variant Classic Books to improve feature parity." (#88283)
 * [Xedra Evolved] Remove duplicate dreamdross NPC topic (#88248)
 * added new Magiclysm - Bombastic Perk interaction (#88262)
