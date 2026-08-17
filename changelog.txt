@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-08-17-0252 (7d9e0f7)
 * Flesh-raptors are living beings (#88352)
 
 Cataclysm-DDA experimental build 2026-08-17-0215 (337fcbb)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2026-08-10-2203 (67af28b)
 Cataclysm-DDA experimental build 2026-08-10-1910 (19283e2)
 * [Xedra Evolved] Remove duplicate dreamdross NPC topic (#88248)
 * added new Magiclysm - Bombastic Perk interaction (#88262)
-
-Cataclysm-DDA experimental build 2026-08-10-1819 (c213edd)
 * [Xedra Evolved] Add `gramarye` practice recipe (#88272)
 * Bugfix: Allow radiation recovery while protected by NO_RADIATION (#88268)
 * Weekly Changelog 2026-07-27 to 2026-08-03 (#88196)
