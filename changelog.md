@@ -1,179 +1,39 @@
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-17-0332 ([b53af11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0332))
-
 * [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC ([#88345](https://github.com/CleverRaven/Cataclysm-DDA/pull/88345))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-17-0252 ([7d9e0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0252))
-
 * Flesh-raptors are living beings ([#88352](https://github.com/CleverRaven/Cataclysm-DDA/pull/88352))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-17-0215 ([337fcbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0215))
-
 * Add serum 09x-"Anaximander" ([#88321](https://github.com/CleverRaven/Cataclysm-DDA/pull/88321))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-16-2103 ([b3dd440](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-2103))
-
 * Change appliance solar panel bolt turning requirement ([#88348](https://github.com/CleverRaven/Cataclysm-DDA/pull/88348))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-16-1750 ([c30db98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-1750))
-
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-16-1701 ([850a217](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-1701))
-
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later ([#88344](https://github.com/CleverRaven/Cataclysm-DDA/pull/88344))
 * Clarify extent of contributions covered by the authorship policy ([#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-15-1847 ([9ec13a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-1847))
-
 * Give requirement checks an explicit actor ([#88292](https://github.com/CleverRaven/Cataclysm-DDA/pull/88292))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-15-0330 ([13b768f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0330))
-
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
 * [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-15-0240 ([a792b54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0240))
-
 * add steps to boiled noodle recipe ([#88267](https://github.com/CleverRaven/Cataclysm-DDA/pull/88267))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-15-0056 ([b8182fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0056))
-
 * [Xedra Evolved] Add abyssal coffee alchemy recipe ([#88330](https://github.com/CleverRaven/Cataclysm-DDA/pull/88330))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-15-0001 ([68f528a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0001))
-
 * [MoM] Survivor bunker variant ([#88304](https://github.com/CleverRaven/Cataclysm-DDA/pull/88304))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-14-1927 ([6eb1226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-1927))
-
 * Added crafting fault to all steel swords ([#88313](https://github.com/CleverRaven/Cataclysm-DDA/pull/88313))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-14-0329 ([910a899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-0329))
-
 * Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-14-0118 ([2bf1193](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-0118))
-
 * Migrate dialogue window to imgui ([#88235](https://github.com/CleverRaven/Cataclysm-DDA/pull/88235))
 * Keep SDL3 shader CI artifacts for a week ([#88316](https://github.com/CleverRaven/Cataclysm-DDA/pull/88316))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-1926 ([121ee8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1926))
-
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-1617 ([824ad15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1617))
-
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-1345 ([b725cbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1345))
-
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-0213 ([a724a08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-0213))
-
 * Add map console to subway station map ([#88286](https://github.com/CleverRaven/Cataclysm-DDA/pull/88286))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-0108 ([4af74fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-0108))
-
 * Add serum 51x-"Landru" ([#88273](https://github.com/CleverRaven/Cataclysm-DDA/pull/88273))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-12-0250 ([d41ca7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-12-0250))
-
 * Fix Description of xtra strength aspirin ([#88287](https://github.com/CleverRaven/Cataclysm-DDA/pull/88287))
 * [ Xedra Evolved ] Rubik and the Jotunn ([#88278](https://github.com/CleverRaven/Cataclysm-DDA/pull/88278))
 * A liberal dose of non purifiable to MEDICAL ([#88219](https://github.com/CleverRaven/Cataclysm-DDA/pull/88219))
 * Portable Power Station ([#88289](https://github.com/CleverRaven/Cataclysm-DDA/pull/88289))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-12-0204 ([685e6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-12-0204))
-
 * Fix precious metals spawn after decharge ([#88294](https://github.com/CleverRaven/Cataclysm-DDA/pull/88294))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-2111 ([03890c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-2111))
-
 * Stop hallucinating fake zombies ([#88288](https://github.com/CleverRaven/Cataclysm-DDA/pull/88288))
 * Fix Make music ([#88291](https://github.com/CleverRaven/Cataclysm-DDA/pull/88291))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-2015 ([786a1af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-2015))
-
 * Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-1656 ([8b9c4ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-1656))
-
 * Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-0509 ([e5c80d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0509))
-
 * Fix clothing wind resistance calculation ([#88255](https://github.com/CleverRaven/Cataclysm-DDA/pull/88255))
 * Weekly Changelog 2026-08-03 to 2026-08-10 ([#88277](https://github.com/CleverRaven/Cataclysm-DDA/pull/88277))
 * Prevent mutation looping in the slime tree ([#88282](https://github.com/CleverRaven/Cataclysm-DDA/pull/88282))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-0402 ([f7f749b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0402))
-
 * [Xedra Evolved] Lilit touch / other edits  ([#88285](https://github.com/CleverRaven/Cataclysm-DDA/pull/88285))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-0050 ([10c8ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0050))
-
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-10-2203 ([67af28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-10-2203))
-
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
 * [Xedra Evolved] Remove duplicate dreamdross NPC topic ([#88248](https://github.com/CleverRaven/Cataclysm-DDA/pull/88248))
 * added new Magiclysm - Bombastic Perk interaction ([#88262](https://github.com/CleverRaven/Cataclysm-DDA/pull/88262))
