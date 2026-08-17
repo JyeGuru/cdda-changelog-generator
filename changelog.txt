@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-08-17-2213 (9bce83e)
+* Add dedicated six-bottle box (#88353)
 * Performance/Improve few per-turn performance bottlenecks (#88315)
 
 Cataclysm-DDA experimental build 2026-08-17-0332 (b53af11)
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-08-11-0402 (f7f749b)
 
 Cataclysm-DDA experimental build 2026-08-11-0050 (10c8ffd)
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking (#88284)
-
-Cataclysm-DDA experimental build 2026-08-10-2203 (67af28b)
 * Revert "De-variant Classic Books to improve feature parity." (#88283)
 * [Xedra Evolved] Remove duplicate dreamdross NPC topic (#88248)
 * added new Magiclysm - Bombastic Perk interaction (#88262)
@@ -113,7 +114,6 @@ Cataclysm-DDA experimental build 2026-08-10-2203 (67af28b)
 * [ MoM ] E-logs for MoM (#88223)
 * Integrate 0.I changelog to experimental (#88240)
 * Add AIMING_SPEED enchant (#88245)
-* Code simplification: consolidate bash specific logic in roll_melee_damage_internal(). (#88174)
 * Add faults to all melee weapons (#88211)
 * Fix NEED_FULL_MAGAZINE rejecting ordinary recipe components (#88215)
 * De-variant Classic Books to improve feature parity. (#88217)
