@@ -1,3 +1,4 @@
+* Performance/Improve few per-turn performance bottlenecks ([#88315](https://github.com/CleverRaven/Cataclysm-DDA/pull/88315))
 
 ---
 

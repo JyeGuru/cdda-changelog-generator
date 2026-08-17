@@ -1,3 +1,4 @@
+* Performance/Improve few per-turn performance bottlenecks (#88315)
 
 Cataclysm-DDA experimental build 2026-08-17-0332 (b53af11)
 * [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC (#88345)
