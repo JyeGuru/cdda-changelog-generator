@@ -1,3 +1,4 @@
+* Better microlab Parametrization (#88335)
 
 Cataclysm-DDA experimental build 2026-08-18-0009 (9bc07c5)
 * Weekly Changelog 2026-08-10 to 2026-08-17 (#88355)
@@ -146,5 +147,4 @@ Cataclysm-DDA experimental build 2026-08-11-0402 (f7f749b)
 * Fix advanced smartphone recovery with active laptop screen (#88193)
 * Fix shot glass spawns (#88184)
 * Remove unnecessary VS project file. (#88186)
-* Fix personal autopickup rules not saved. (#88176)
 * fix by adding _WEAPONRY (#88182)
