@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-18-0627 ([44e9d67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-0627))
+
 * Better microlab Parametrization ([#88335](https://github.com/CleverRaven/Cataclysm-DDA/pull/88335))
 
 ---
@@ -171,11 +176,6 @@
 * Fix clothing wind resistance calculation ([#88255](https://github.com/CleverRaven/Cataclysm-DDA/pull/88255))
 * Weekly Changelog 2026-08-03 to 2026-08-10 ([#88277](https://github.com/CleverRaven/Cataclysm-DDA/pull/88277))
 * Prevent mutation looping in the slime tree ([#88282](https://github.com/CleverRaven/Cataclysm-DDA/pull/88282))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-0402 ([f7f749b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0402))
-
 * [Xedra Evolved] Lilit touch / other edits  ([#88285](https://github.com/CleverRaven/Cataclysm-DDA/pull/88285))
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
