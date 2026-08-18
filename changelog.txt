@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-08-18-2125 (4ba7111)
+* Typo Barbecue (#88350)
 * Fix PR labeller workflow being confused by reruns (#88370)
 
 Cataclysm-DDA experimental build 2026-08-18-1929 (4f952fa)
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-08-12-0204 (685e6af)
 Cataclysm-DDA experimental build 2026-08-11-2111 (03890c8)
 * Stop hallucinating fake zombies (#88288)
 * Fix Make music (#88291)
-
-Cataclysm-DDA experimental build 2026-08-11-2015 (786a1af)
 * Fix cata-serialize clang-tidy failure on pick_info (#88297)
 * Remove a duplicate vpart_range.h include (#88293)
 * Fix clothing wind resistance calculation (#88255)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2026-08-11-2015 (786a1af)
 * Unattended craft for wood ash (#88227)
 * [MoM] Add Durability vitakinetic power (#88216)
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen (#88220)
-* Chainmail crafting volume fix (#88188)
 * Shallow pit can contain fire (#88208)
 * add sound effect calls for lockpick break, damage, and success  (#88204)
 * Stop unattended crafts stalling when their crafter is unreachable (#88214)
