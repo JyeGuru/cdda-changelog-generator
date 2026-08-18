@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-18-1929 ([4f952fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-1929))
+
+* Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
+* add kuutekitty to comment-commands ([#88366](https://github.com/CleverRaven/Cataclysm-DDA/pull/88366))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-18-1422 ([9f43792](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-1422))
 
 * add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
@@ -168,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-08-11-2015 ([786a1af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-2015))
 
 * Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-1656 ([8b9c4ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-1656))
-
 * Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
 * Fix clothing wind resistance calculation ([#88255](https://github.com/CleverRaven/Cataclysm-DDA/pull/88255))
 * Weekly Changelog 2026-08-03 to 2026-08-10 ([#88277](https://github.com/CleverRaven/Cataclysm-DDA/pull/88277))
@@ -230,5 +232,3 @@
 * Clarify the Iron Safari contract mission that you need to (R)ead ([#88201](https://github.com/CleverRaven/Cataclysm-DDA/pull/88201))
 * Obsolete multicooker ([#88195](https://github.com/CleverRaven/Cataclysm-DDA/pull/88195))
 * Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
-* Fix shot glass spawns ([#88184](https://github.com/CleverRaven/Cataclysm-DDA/pull/88184))
-* Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
