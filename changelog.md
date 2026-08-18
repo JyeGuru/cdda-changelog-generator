@@ -1,3 +1,4 @@
+* Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
 
 ---
 

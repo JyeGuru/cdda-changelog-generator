@@ -1,3 +1,4 @@
+* Fix PR labeller workflow being confused by reruns (#88370)
 
 Cataclysm-DDA experimental build 2026-08-18-1929 (4f952fa)
 * Novice martial artists can keep their glasses (#88368)
