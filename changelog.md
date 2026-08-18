@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-18-1422 ([9f43792](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-1422))
+
+* add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-18-0627 ([44e9d67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-0627))
 
 * Better microlab Parametrization ([#88335](https://github.com/CleverRaven/Cataclysm-DDA/pull/88335))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-08-11-1656 ([8b9c4ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-1656))
 
 * Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-11-0509 ([e5c80d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-11-0509))
-
 * Fix clothing wind resistance calculation ([#88255](https://github.com/CleverRaven/Cataclysm-DDA/pull/88255))
 * Weekly Changelog 2026-08-03 to 2026-08-10 ([#88277](https://github.com/CleverRaven/Cataclysm-DDA/pull/88277))
 * Prevent mutation looping in the slime tree ([#88282](https://github.com/CleverRaven/Cataclysm-DDA/pull/88282))
@@ -231,4 +232,3 @@
 * Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
 * Fix shot glass spawns ([#88184](https://github.com/CleverRaven/Cataclysm-DDA/pull/88184))
 * Remove unnecessary VS project file. ([#88186](https://github.com/CleverRaven/Cataclysm-DDA/pull/88186))
-* fix by adding _WEAPONRY ([#88182](https://github.com/CleverRaven/Cataclysm-DDA/pull/88182))
