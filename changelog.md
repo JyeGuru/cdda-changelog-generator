@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-19-0913 ([b823038](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-0913))
+
 * [MOM] Fixed Ascended Vitakinetic background cost ([#88305](https://github.com/CleverRaven/Cataclysm-DDA/pull/88305))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-08-13-0213 ([a724a08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-0213))
 
 * Add map console to subway station map ([#88286](https://github.com/CleverRaven/Cataclysm-DDA/pull/88286))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-0108 ([4af74fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-0108))
-
 * Add serum 51x-"Landru" ([#88273](https://github.com/CleverRaven/Cataclysm-DDA/pull/88273))
 * Fix Description of xtra strength aspirin ([#88287](https://github.com/CleverRaven/Cataclysm-DDA/pull/88287))
 * [ Xedra Evolved ] Rubik and the Jotunn ([#88278](https://github.com/CleverRaven/Cataclysm-DDA/pull/88278))

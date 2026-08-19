@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-08-19-0913 (b823038)
 * [MOM] Fixed Ascended Vitakinetic background cost (#88305)
 
 Cataclysm-DDA experimental build 2026-08-19-0312 (fd796fc)
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2026-08-13-1345 (b725cbe)
 
 Cataclysm-DDA experimental build 2026-08-13-0213 (a724a08)
 * Add map console to subway station map (#88286)
-
-Cataclysm-DDA experimental build 2026-08-13-0108 (4af74fd)
 * Add serum 51x-"Landru" (#88273)
 * Fix Description of xtra strength aspirin (#88287)
 * [ Xedra Evolved ] Rubik and the Jotunn (#88278)
