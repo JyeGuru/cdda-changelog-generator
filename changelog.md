@@ -1,3 +1,10 @@
+* [MOM] Fixed Ascended Vitakinetic background cost ([#88305](https://github.com/CleverRaven/Cataclysm-DDA/pull/88305))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-19-0312 ([fd796fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-0312))
+
+* [Xedra Evolved] serum duration adjustments ([#88331](https://github.com/CleverRaven/Cataclysm-DDA/pull/88331))
 
 ---
 
@@ -166,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-08-13-0108 ([4af74fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-0108))
 
 * Add serum 51x-"Landru" ([#88273](https://github.com/CleverRaven/Cataclysm-DDA/pull/88273))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-12-0250 ([d41ca7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-12-0250))
-
 * Fix Description of xtra strength aspirin ([#88287](https://github.com/CleverRaven/Cataclysm-DDA/pull/88287))
 * [ Xedra Evolved ] Rubik and the Jotunn ([#88278](https://github.com/CleverRaven/Cataclysm-DDA/pull/88278))
 * A liberal dose of non purifiable to MEDICAL ([#88219](https://github.com/CleverRaven/Cataclysm-DDA/pull/88219))
@@ -201,7 +203,6 @@
 * Feature: character stat requirements in recipes ([#88203](https://github.com/CleverRaven/Cataclysm-DDA/pull/88203))
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
 * Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
-* Feature: Support mana, stamina, and blood costs in crafting recipes ([#88192](https://github.com/CleverRaven/Cataclysm-DDA/pull/88192))
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant ([#88256](https://github.com/CleverRaven/Cataclysm-DDA/pull/88256))
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms ([#88249](https://github.com/CleverRaven/Cataclysm-DDA/pull/88249))
 * [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
