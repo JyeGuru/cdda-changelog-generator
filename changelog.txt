@@ -1,3 +1,4 @@
+* [DinoMod] sauropod rework 2 (#88300)
 
 Cataclysm-DDA experimental build 2026-08-19-0913 (b823038)
 * [MOM] Fixed Ascended Vitakinetic background cost (#88305)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2026-08-13-0213 (a724a08)
 * Innawoods bronze tongs can be made without already having tongs (#88202)
 * Clarify the Iron Safari contract mission that you need to (R)ead (#88201)
 * Obsolete multicooker (#88195)
-* Fix advanced smartphone recovery with active laptop screen (#88193)

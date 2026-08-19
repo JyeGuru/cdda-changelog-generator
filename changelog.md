@@ -1,3 +1,4 @@
+* [DinoMod] sauropod rework 2 ([#88300](https://github.com/CleverRaven/Cataclysm-DDA/pull/88300))
 
 ---
 
@@ -234,4 +235,3 @@
 * Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
 * Clarify the Iron Safari contract mission that you need to (R)ead ([#88201](https://github.com/CleverRaven/Cataclysm-DDA/pull/88201))
 * Obsolete multicooker ([#88195](https://github.com/CleverRaven/Cataclysm-DDA/pull/88195))
-* Fix advanced smartphone recovery with active laptop screen ([#88193](https://github.com/CleverRaven/Cataclysm-DDA/pull/88193))
