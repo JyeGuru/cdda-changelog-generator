@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-08-19-2201 (36e992e)
 * Remove Mutation Type (#88356)
 
 Cataclysm-DDA experimental build 2026-08-19-1514 (ef1a72b)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2026-08-13-1926 (121ee8f)
 
 Cataclysm-DDA experimental build 2026-08-13-1617 (824ad15)
 * Swap serum crash to `character_loses_effect` (#88306)
-
-Cataclysm-DDA experimental build 2026-08-13-1345 (b725cbe)
 * Remove SDL2 support (#88301)
 * Add map console to subway station map (#88286)
 * Add serum 51x-"Landru" (#88273)

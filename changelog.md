@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-19-2201 ([36e992e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-2201))
+
 * Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
 
 ---
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-08-13-1617 ([824ad15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1617))
 
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-1345 ([b725cbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1345))
-
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
 * Add map console to subway station map ([#88286](https://github.com/CleverRaven/Cataclysm-DDA/pull/88286))
 * Add serum 51x-"Landru" ([#88273](https://github.com/CleverRaven/Cataclysm-DDA/pull/88273))
