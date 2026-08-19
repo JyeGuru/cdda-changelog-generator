@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-19-0222 (62802ec)
+* Various dialogue window fixes/improvements (#88369)
+
 Cataclysm-DDA experimental build 2026-08-18-2324 (185f1e3)
 * [Hunvre] Adding Hunvre-specific clothing, part 2: Shoes (#88253)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-08-12-0250 (d41ca7a)
 * [ Xedra Evolved ] Rubik and the Jotunn (#88278)
 * A liberal dose of non purifiable to MEDICAL (#88219)
 * Portable Power Station (#88289)
-
-Cataclysm-DDA experimental build 2026-08-12-0204 (685e6af)
 * Fix precious metals spawn after decharge (#88294)
 * Stop hallucinating fake zombies (#88288)
 * Fix Make music (#88291)

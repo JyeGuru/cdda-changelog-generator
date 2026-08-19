@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-19-0222 ([62802ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-0222))
+
+* Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-18-2324 ([185f1e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-2324))
 
 * [Hunvre] Adding Hunvre-specific clothing, part 2: Shoes ([#88253](https://github.com/CleverRaven/Cataclysm-DDA/pull/88253))
@@ -169,11 +175,6 @@
 * [ Xedra Evolved ] Rubik and the Jotunn ([#88278](https://github.com/CleverRaven/Cataclysm-DDA/pull/88278))
 * A liberal dose of non purifiable to MEDICAL ([#88219](https://github.com/CleverRaven/Cataclysm-DDA/pull/88219))
 * Portable Power Station ([#88289](https://github.com/CleverRaven/Cataclysm-DDA/pull/88289))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-12-0204 ([685e6af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-12-0204))
-
 * Fix precious metals spawn after decharge ([#88294](https://github.com/CleverRaven/Cataclysm-DDA/pull/88294))
 * Stop hallucinating fake zombies ([#88288](https://github.com/CleverRaven/Cataclysm-DDA/pull/88288))
 * Fix Make music ([#88291](https://github.com/CleverRaven/Cataclysm-DDA/pull/88291))
