@@ -232,4 +232,3 @@
 * Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
-* Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
