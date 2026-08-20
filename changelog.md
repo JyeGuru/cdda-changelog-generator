@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-20-2039 ([c337a0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-20-2039))
+
+* [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill ([#88364](https://github.com/CleverRaven/Cataclysm-DDA/pull/88364))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-19-2201 ([36e992e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-2201))
 
 * Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-08-13-1926 ([121ee8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1926))
 
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-1617 ([824ad15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1617))
-
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
 * Add map console to subway station map ([#88286](https://github.com/CleverRaven/Cataclysm-DDA/pull/88286))
@@ -232,4 +233,3 @@
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
 * Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
-* Clarify the Iron Safari contract mission that you need to (R)ead ([#88201](https://github.com/CleverRaven/Cataclysm-DDA/pull/88201))
