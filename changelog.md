@@ -229,7 +229,6 @@
 * Shallow pit can contain fire ([#88208](https://github.com/CleverRaven/Cataclysm-DDA/pull/88208))
 * add sound effect calls for lockpick break, damage, and success  ([#88204](https://github.com/CleverRaven/Cataclysm-DDA/pull/88204))
 * Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))
-* Auto drink using faucets in a vehicle bound auto drink zone ([#88200](https://github.com/CleverRaven/Cataclysm-DDA/pull/88200))
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
 * Innawoods bronze tongs can be made without already having tongs ([#88202](https://github.com/CleverRaven/Cataclysm-DDA/pull/88202))
