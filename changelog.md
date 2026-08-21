@@ -203,7 +203,6 @@
 * Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
 * Feature: item faults indication ([#88237](https://github.com/CleverRaven/Cataclysm-DDA/pull/88237))
 * Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
-* Feature: character stat requirements in recipes ([#88203](https://github.com/CleverRaven/Cataclysm-DDA/pull/88203))
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
 * Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant ([#88256](https://github.com/CleverRaven/Cataclysm-DDA/pull/88256))
