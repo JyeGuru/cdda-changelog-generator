@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-21-1914 ([7463a38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-21-1914))
+
+* [Hunvre] Add a bunch of mod incompatibilities with Hunvre ([#88390](https://github.com/CleverRaven/Cataclysm-DDA/pull/88390))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-21-1354 ([3442f14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-21-1354))
 
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-08-14-0329 ([910a899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-0329))
 
 * Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-14-0118 ([2bf1193](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-0118))
-
 * Migrate dialogue window to imgui ([#88235](https://github.com/CleverRaven/Cataclysm-DDA/pull/88235))
 * Keep SDL3 shader CI artifacts for a week ([#88316](https://github.com/CleverRaven/Cataclysm-DDA/pull/88316))
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
@@ -229,5 +230,4 @@
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
 * Shallow pit can contain fire ([#88208](https://github.com/CleverRaven/Cataclysm-DDA/pull/88208))
 * Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))
-* [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))

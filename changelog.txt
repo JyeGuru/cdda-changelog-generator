@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-21-1914 (7463a38)
+* [Hunvre] Add a bunch of mod incompatibilities with Hunvre (#88390)
+
 Cataclysm-DDA experimental build 2026-08-21-1354 (3442f14)
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance (#88382)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-08-14-1927 (6eb1226)
 
 Cataclysm-DDA experimental build 2026-08-14-0329 (910a899)
 * Slime hands is now a bodypart (#88317)
-
-Cataclysm-DDA experimental build 2026-08-14-0118 (2bf1193)
 * Migrate dialogue window to imgui (#88235)
 * Keep SDL3 shader CI artifacts for a week (#88316)
 * Remove all bandits (#88312)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2026-08-14-0118 (2bf1193)
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen (#88220)
 * Shallow pit can contain fire (#88208)
 * Stop unattended crafts stalling when their crafter is unreachable (#88214)
-* [alt-map-key] Add new overmap terrain (#88205)
 * Slightly larger feather (#88206)
