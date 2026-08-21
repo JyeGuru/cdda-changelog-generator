@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-21-1354 (3442f14)
+* [Xedra Evolved] Challenge Scenario - Undying Vengeance (#88382)
+
 Cataclysm-DDA experimental build 2026-08-20-2039 (c337a0c)
 * [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill (#88364)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-08-14-0329 (910a899)
 Cataclysm-DDA experimental build 2026-08-14-0118 (2bf1193)
 * Migrate dialogue window to imgui (#88235)
 * Keep SDL3 shader CI artifacts for a week (#88316)
-
-Cataclysm-DDA experimental build 2026-08-13-1926 (121ee8f)
 * Remove all bandits (#88312)
 * Swap serum crash to `character_loses_effect` (#88306)
 * Remove SDL2 support (#88301)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2026-08-13-1926 (121ee8f)
 * [MoM] Add Durability vitakinetic power (#88216)
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen (#88220)
 * Shallow pit can contain fire (#88208)
-* add sound effect calls for lockpick break, damage, and success  (#88204)
 * Stop unattended crafts stalling when their crafter is unreachable (#88214)
 * [alt-map-key] Add new overmap terrain (#88205)
 * Slightly larger feather (#88206)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-21-1354 ([3442f14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-21-1354))
+
+* [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-20-2039 ([c337a0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-20-2039))
 
 * [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill ([#88364](https://github.com/CleverRaven/Cataclysm-DDA/pull/88364))
@@ -168,11 +174,6 @@
 
 * Migrate dialogue window to imgui ([#88235](https://github.com/CleverRaven/Cataclysm-DDA/pull/88235))
 * Keep SDL3 shader CI artifacts for a week ([#88316](https://github.com/CleverRaven/Cataclysm-DDA/pull/88316))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-13-1926 ([121ee8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-13-1926))
-
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
@@ -227,7 +228,6 @@
 * [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
 * Shallow pit can contain fire ([#88208](https://github.com/CleverRaven/Cataclysm-DDA/pull/88208))
-* add sound effect calls for lockpick break, damage, and success  ([#88204](https://github.com/CleverRaven/Cataclysm-DDA/pull/88204))
 * Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))
 * [alt-map-key] Add new overmap terrain ([#88205](https://github.com/CleverRaven/Cataclysm-DDA/pull/88205))
 * Slightly larger feather ([#88206](https://github.com/CleverRaven/Cataclysm-DDA/pull/88206))
