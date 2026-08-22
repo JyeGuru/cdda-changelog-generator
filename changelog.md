@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-22-1837 ([ccdfd1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-1837))
+
+* Update solar.json with solar cell dimensions ([#88380](https://github.com/CleverRaven/Cataclysm-DDA/pull/88380))
 * Add serum-specific microlabs ([#88309](https://github.com/CleverRaven/Cataclysm-DDA/pull/88309))
 
 ---
@@ -162,11 +168,6 @@
 
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
 * [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-15-0240 ([a792b54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0240))
-
 * add steps to boiled noodle recipe ([#88267](https://github.com/CleverRaven/Cataclysm-DDA/pull/88267))
 * [Xedra Evolved] Add abyssal coffee alchemy recipe ([#88330](https://github.com/CleverRaven/Cataclysm-DDA/pull/88330))
 * [MoM] Survivor bunker variant ([#88304](https://github.com/CleverRaven/Cataclysm-DDA/pull/88304))
@@ -211,7 +212,6 @@
 * [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
 * Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
-* Fix NEED_FULL_MAGAZINE rejecting ordinary recipe components ([#88215](https://github.com/CleverRaven/Cataclysm-DDA/pull/88215))
 * De-variant Classic Books to improve feature parity. ([#88217](https://github.com/CleverRaven/Cataclysm-DDA/pull/88217))
 * [Hunvre] Fix the Hunvre worldgen ([#88238](https://github.com/CleverRaven/Cataclysm-DDA/pull/88238))
 * [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))

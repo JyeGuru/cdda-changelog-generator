@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-08-22-1837 (ccdfd1e)
+* Update solar.json with solar cell dimensions (#88380)
 * Add serum-specific microlabs (#88309)
 
 Cataclysm-DDA experimental build 2026-08-22-1434 (010afaf)
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-08-15-1847 (9ec13a7)
 Cataclysm-DDA experimental build 2026-08-15-0330 (13b768f)
 * [Xedra Evolved] Add Strix Skin mutation (#88323)
 * [Bombastic Perks] Small Gunslinger edit (#88322)
-
-Cataclysm-DDA experimental build 2026-08-15-0240 (a792b54)
 * add steps to boiled noodle recipe (#88267)
 * [Xedra Evolved] Add abyssal coffee alchemy recipe (#88330)
 * [MoM] Survivor bunker variant (#88304)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2026-08-15-0240 (a792b54)
 * [ MoM ] E-logs for MoM (#88223)
 * Integrate 0.I changelog to experimental (#88240)
 * Add AIMING_SPEED enchant (#88245)
-* Fix NEED_FULL_MAGAZINE rejecting ordinary recipe components (#88215)
 * De-variant Classic Books to improve feature parity. (#88217)
 * [Hunvre] Fix the Hunvre worldgen (#88238)
 * [Hunvre] Remove the hacky spawning eoc (#88239)
