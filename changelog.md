@@ -1,3 +1,10 @@
+* Add looks_like fallback sprites for Xedra Evolved dreamdross weapons ([#88381](https://github.com/CleverRaven/Cataclysm-DDA/pull/88381))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-22-2154 ([083a15b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-2154))
+
+* You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` ([#88394](https://github.com/CleverRaven/Cataclysm-DDA/pull/88394))
 
 ---
 
@@ -161,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-08-15-1847 ([9ec13a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-1847))
 
 * Give requirement checks an explicit actor ([#88292](https://github.com/CleverRaven/Cataclysm-DDA/pull/88292))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-15-0330 ([13b768f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0330))
-
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
 * [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
 * add steps to boiled noodle recipe ([#88267](https://github.com/CleverRaven/Cataclysm-DDA/pull/88267))
@@ -212,7 +214,6 @@
 * [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
 * Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
-* De-variant Classic Books to improve feature parity. ([#88217](https://github.com/CleverRaven/Cataclysm-DDA/pull/88217))
 * [Hunvre] Fix the Hunvre worldgen ([#88238](https://github.com/CleverRaven/Cataclysm-DDA/pull/88238))
 * [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
@@ -224,5 +225,4 @@
 * [MoM] Change Durability power to Augment Durability ([#88231](https://github.com/CleverRaven/Cataclysm-DDA/pull/88231))
 * Made sugar from sweetened water recipe unattended ([#88229](https://github.com/CleverRaven/Cataclysm-DDA/pull/88229))
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
-* [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
