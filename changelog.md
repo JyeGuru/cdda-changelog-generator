@@ -1,3 +1,10 @@
+* Add serum-specific microlabs ([#88309](https://github.com/CleverRaven/Cataclysm-DDA/pull/88309))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-22-1434 ([010afaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-1434))
+
+* remove jhp reloads ([#88258](https://github.com/CleverRaven/Cataclysm-DDA/pull/88258))
 
 ---
 
@@ -167,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-08-15-0056 ([b8182fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0056))
 
 * [Xedra Evolved] Add abyssal coffee alchemy recipe ([#88330](https://github.com/CleverRaven/Cataclysm-DDA/pull/88330))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-15-0001 ([68f528a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0001))
-
 * [MoM] Survivor bunker variant ([#88304](https://github.com/CleverRaven/Cataclysm-DDA/pull/88304))
 * Added crafting fault to all steel swords ([#88313](https://github.com/CleverRaven/Cataclysm-DDA/pull/88313))
 * Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
@@ -214,7 +216,6 @@
 * [ MoM ] E-logs for MoM ([#88223](https://github.com/CleverRaven/Cataclysm-DDA/pull/88223))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
 * Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
-* Add faults to all melee weapons ([#88211](https://github.com/CleverRaven/Cataclysm-DDA/pull/88211))
 * Fix NEED_FULL_MAGAZINE rejecting ordinary recipe components ([#88215](https://github.com/CleverRaven/Cataclysm-DDA/pull/88215))
 * De-variant Classic Books to improve feature parity. ([#88217](https://github.com/CleverRaven/Cataclysm-DDA/pull/88217))
 * [Hunvre] Fix the Hunvre worldgen ([#88238](https://github.com/CleverRaven/Cataclysm-DDA/pull/88238))
@@ -230,4 +231,3 @@
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
 * [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
-* Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))
