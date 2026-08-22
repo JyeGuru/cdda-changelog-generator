@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-08-22-2239 (17ee580)
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons (#88381)
 
 Cataclysm-DDA experimental build 2026-08-22-2154 (083a15b)
@@ -84,8 +86,6 @@ Cataclysm-DDA experimental build 2026-08-16-1750 (c30db98)
 Cataclysm-DDA experimental build 2026-08-16-1701 (850a217)
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later (#88344)
 * Clarify extent of contributions covered by the authorship policy (#88298)
-
-Cataclysm-DDA experimental build 2026-08-15-1847 (9ec13a7)
 * Give requirement checks an explicit actor (#88292)
 * [Xedra Evolved] Add Strix Skin mutation (#88323)
 * [Bombastic Perks] Small Gunslinger edit (#88322)
