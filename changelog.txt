@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-22-0401 (0eb1ce8)
+* [Magiclysm] Price fix for a single ($50) lore book (#88384)
+
 Cataclysm-DDA experimental build 2026-08-21-1914 (7463a38)
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre (#88390)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-08-15-0001 (68f528a)
 
 Cataclysm-DDA experimental build 2026-08-14-1927 (6eb1226)
 * Added crafting fault to all steel swords (#88313)
-
-Cataclysm-DDA experimental build 2026-08-14-0329 (910a899)
 * Slime hands is now a bodypart (#88317)
 * Migrate dialogue window to imgui (#88235)
 * Keep SDL3 shader CI artifacts for a week (#88316)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-08-14-0329 (910a899)
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen (#88220)
 * Shallow pit can contain fire (#88208)
 * Stop unattended crafts stalling when their crafter is unreachable (#88214)
-* Slightly larger feather (#88206)
