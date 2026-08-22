@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-22-0559 ([33c7e20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-0559))
+
+* fix(npcs): clear Liam guard duty when he becomes a follower ([#88389](https://github.com/CleverRaven/Cataclysm-DDA/pull/88389))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-22-0401 ([0eb1ce8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-0401))
 
 * [Magiclysm] Price fix for a single ($50) lore book ([#88384](https://github.com/CleverRaven/Cataclysm-DDA/pull/88384))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-08-15-0001 ([68f528a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-15-0001))
 
 * [MoM] Survivor bunker variant ([#88304](https://github.com/CleverRaven/Cataclysm-DDA/pull/88304))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-14-1927 ([6eb1226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-14-1927))
-
 * Added crafting fault to all steel swords ([#88313](https://github.com/CleverRaven/Cataclysm-DDA/pull/88313))
 * Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
 * Migrate dialogue window to imgui ([#88235](https://github.com/CleverRaven/Cataclysm-DDA/pull/88235))
@@ -229,5 +230,4 @@
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
 * [MoM] Add Durability vitakinetic power ([#88216](https://github.com/CleverRaven/Cataclysm-DDA/pull/88216))
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
-* Shallow pit can contain fire ([#88208](https://github.com/CleverRaven/Cataclysm-DDA/pull/88208))
 * Stop unattended crafts stalling when their crafter is unreachable ([#88214](https://github.com/CleverRaven/Cataclysm-DDA/pull/88214))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-22-0559 (33c7e20)
+* fix(npcs): clear Liam guard duty when he becomes a follower (#88389)
+
 Cataclysm-DDA experimental build 2026-08-22-0401 (0eb1ce8)
 * [Magiclysm] Price fix for a single ($50) lore book (#88384)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-08-15-0056 (b8182fa)
 
 Cataclysm-DDA experimental build 2026-08-15-0001 (68f528a)
 * [MoM] Survivor bunker variant (#88304)
-
-Cataclysm-DDA experimental build 2026-08-14-1927 (6eb1226)
 * Added crafting fault to all steel swords (#88313)
 * Slime hands is now a bodypart (#88317)
 * Migrate dialogue window to imgui (#88235)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2026-08-14-1927 (6eb1226)
 * Unattended craft for wood ash (#88227)
 * [MoM] Add Durability vitakinetic power (#88216)
 * [Xedra Evolved] Add crashed TCL truck containing possible mutagen (#88220)
-* Shallow pit can contain fire (#88208)
 * Stop unattended crafts stalling when their crafter is unreachable (#88214)
