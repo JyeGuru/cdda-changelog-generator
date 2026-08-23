@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-23-2248 (db66c8d)
+* One letter de-deadnaming (#88405)
+
 Cataclysm-DDA experimental build 2026-08-23-1739 (f9d6fde)
 * Named the book variants to fix a bug (#88333)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-08-17-0215 (337fcbb)
 
 Cataclysm-DDA experimental build 2026-08-16-2103 (b3dd440)
 * Change appliance solar panel bolt turning requirement (#88348)
-
-Cataclysm-DDA experimental build 2026-08-16-1750 (c30db98)
 * Fix TCL trap mapgen error (#88346)
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later (#88344)
 * Clarify extent of contributions covered by the authorship policy (#88298)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2026-08-16-1750 (c30db98)
 * Add CANNOT_SLEEP flag (#88251)
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant (#88256)
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms (#88249)
-* [ MoM ] E-logs for MoM (#88223)
 * Integrate 0.I changelog to experimental (#88240)
 * Add AIMING_SPEED enchant (#88245)
 * [Hunvre] Fix the Hunvre worldgen (#88238)
