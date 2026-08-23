@@ -1,3 +1,4 @@
+* Named the book variants to fix a bug (#88333)
 
 Cataclysm-DDA experimental build 2026-08-23-0334 (f84af65)
 * Xedra Evolved CI Fixes (#88398)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2026-08-16-1701 (850a217)
 * [Hunvre] Remove the hacky spawning eoc (#88239)
 * Fix Windows tests not building in CI (#88241)
 * Update nested.json (remove no longer exist reload recipes) (#88225)
-* [MoM] Fix Mood Stabilization knack description (#88221)
 * [Xedra Evolved] Add Ominous Fog weather event (#88236)
 * Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment (#88234)
 * change steel bar stocks size (#88228)

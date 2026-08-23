@@ -1,3 +1,4 @@
+* Named the book variants to fix a bug ([#88333](https://github.com/CleverRaven/Cataclysm-DDA/pull/88333))
 
 ---
 
@@ -229,7 +230,6 @@
 * [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
 * Update nested.json (remove no longer exist reload recipes) ([#88225](https://github.com/CleverRaven/Cataclysm-DDA/pull/88225))
-* [MoM] Fix Mood Stabilization knack description ([#88221](https://github.com/CleverRaven/Cataclysm-DDA/pull/88221))
 * [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))
 * Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment ([#88234](https://github.com/CleverRaven/Cataclysm-DDA/pull/88234))
 * change steel bar stocks size ([#88228](https://github.com/CleverRaven/Cataclysm-DDA/pull/88228))
