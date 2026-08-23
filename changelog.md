@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-23-1739 ([f9d6fde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-23-1739))
+
 * Named the book variants to fix a bug ([#88333](https://github.com/CleverRaven/Cataclysm-DDA/pull/88333))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-08-16-1750 ([c30db98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-1750))
 
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-16-1701 ([850a217](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-1701))
-
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later ([#88344](https://github.com/CleverRaven/Cataclysm-DDA/pull/88344))
 * Clarify extent of contributions covered by the authorship policy ([#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298))
 * Give requirement checks an explicit actor ([#88292](https://github.com/CleverRaven/Cataclysm-DDA/pull/88292))
