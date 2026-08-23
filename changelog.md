@@ -1,3 +1,10 @@
+* Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-23-0248 ([be5d8f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-23-0248))
+
+* Remove Prereqs in Gracken Limbs ([#88349](https://github.com/CleverRaven/Cataclysm-DDA/pull/88349))
 
 ---
 
@@ -184,7 +191,6 @@
 * Add serum 51x-"Landru" ([#88273](https://github.com/CleverRaven/Cataclysm-DDA/pull/88273))
 * Fix Description of xtra strength aspirin ([#88287](https://github.com/CleverRaven/Cataclysm-DDA/pull/88287))
 * [ Xedra Evolved ] Rubik and the Jotunn ([#88278](https://github.com/CleverRaven/Cataclysm-DDA/pull/88278))
-* A liberal dose of non purifiable to MEDICAL ([#88219](https://github.com/CleverRaven/Cataclysm-DDA/pull/88219))
 * Portable Power Station ([#88289](https://github.com/CleverRaven/Cataclysm-DDA/pull/88289))
 * Fix precious metals spawn after decharge ([#88294](https://github.com/CleverRaven/Cataclysm-DDA/pull/88294))
 * Stop hallucinating fake zombies ([#88288](https://github.com/CleverRaven/Cataclysm-DDA/pull/88288))
@@ -225,4 +231,3 @@
 * [MoM] Change Durability power to Augment Durability ([#88231](https://github.com/CleverRaven/Cataclysm-DDA/pull/88231))
 * Made sugar from sweetened water recipe unattended ([#88229](https://github.com/CleverRaven/Cataclysm-DDA/pull/88229))
 * Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
-* [Xedra Evolved] Add crashed TCL truck containing possible mutagen ([#88220](https://github.com/CleverRaven/Cataclysm-DDA/pull/88220))
