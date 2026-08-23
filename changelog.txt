@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-08-23-0334 (f84af65)
 * Xedra Evolved CI Fixes (#88398)
 
 Cataclysm-DDA experimental build 2026-08-23-0248 (be5d8f3)
