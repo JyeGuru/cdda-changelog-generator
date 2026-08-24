@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.I release candidate 2026-08-24-0428 (bb0f719)
+* Fix building 0.I with VS2026 (#88406)
+
 Cataclysm-DDA experimental build 2026-08-23-2248 (db66c8d)
 * One letter de-deadnaming (#88405)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-08-17-0252 (7d9e0f7)
 
 Cataclysm-DDA experimental build 2026-08-17-0215 (337fcbb)
 * Add serum 09x-"Anaximander" (#88321)
-
-Cataclysm-DDA experimental build 2026-08-16-2103 (b3dd440)
 * Change appliance solar panel bolt turning requirement (#88348)
 * Fix TCL trap mapgen error (#88346)
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later (#88344)
@@ -142,10 +143,8 @@ Cataclysm-DDA experimental build 2026-08-16-2103 (b3dd440)
 * [Hunvre] Fix the Hunvre worldgen (#88238)
 * [Hunvre] Remove the hacky spawning eoc (#88239)
 * Fix Windows tests not building in CI (#88241)
-* Update nested.json (remove no longer exist reload recipes) (#88225)
 * [Xedra Evolved] Add Ominous Fog weather event (#88236)
 * Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment (#88234)
 * change steel bar stocks size (#88228)
 * [MoM] Change Durability power to Augment Durability (#88231)
 * Made sugar from sweetened water recipe unattended (#88229)
-* Unattended craft for wood ash (#88227)

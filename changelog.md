@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-08-24-0428 ([bb0f719](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-24-0428))
+
+* Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-23-2248 ([db66c8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-23-2248))
 
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-08-17-0215 ([337fcbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0215))
 
 * Add serum 09x-"Anaximander" ([#88321](https://github.com/CleverRaven/Cataclysm-DDA/pull/88321))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-16-2103 ([b3dd440](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-16-2103))
-
 * Change appliance solar panel bolt turning requirement ([#88348](https://github.com/CleverRaven/Cataclysm-DDA/pull/88348))
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later ([#88344](https://github.com/CleverRaven/Cataclysm-DDA/pull/88344))
@@ -229,10 +230,8 @@
 * [Hunvre] Fix the Hunvre worldgen ([#88238](https://github.com/CleverRaven/Cataclysm-DDA/pull/88238))
 * [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
-* Update nested.json (remove no longer exist reload recipes) ([#88225](https://github.com/CleverRaven/Cataclysm-DDA/pull/88225))
 * [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))
 * Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment ([#88234](https://github.com/CleverRaven/Cataclysm-DDA/pull/88234))
 * change steel bar stocks size ([#88228](https://github.com/CleverRaven/Cataclysm-DDA/pull/88228))
 * [MoM] Change Durability power to Augment Durability ([#88231](https://github.com/CleverRaven/Cataclysm-DDA/pull/88231))
 * Made sugar from sweetened water recipe unattended ([#88229](https://github.com/CleverRaven/Cataclysm-DDA/pull/88229))
-* Unattended craft for wood ash ([#88227](https://github.com/CleverRaven/Cataclysm-DDA/pull/88227))
