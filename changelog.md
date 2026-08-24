@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-24-2049 ([c99cc8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-24-2049))
+
+* Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2026-08-24-0428 ([bb0f719](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-24-0428))
 
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-08-17-0252 ([7d9e0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0252))
 
 * Flesh-raptors are living beings ([#88352](https://github.com/CleverRaven/Cataclysm-DDA/pull/88352))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-17-0215 ([337fcbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0215))
-
 * Add serum 09x-"Anaximander" ([#88321](https://github.com/CleverRaven/Cataclysm-DDA/pull/88321))
 * Change appliance solar panel bolt turning requirement ([#88348](https://github.com/CleverRaven/Cataclysm-DDA/pull/88348))
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
@@ -232,6 +233,5 @@
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
 * [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))
 * Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment ([#88234](https://github.com/CleverRaven/Cataclysm-DDA/pull/88234))
-* change steel bar stocks size ([#88228](https://github.com/CleverRaven/Cataclysm-DDA/pull/88228))
 * [MoM] Change Durability power to Augment Durability ([#88231](https://github.com/CleverRaven/Cataclysm-DDA/pull/88231))
 * Made sugar from sweetened water recipe unattended ([#88229](https://github.com/CleverRaven/Cataclysm-DDA/pull/88229))
