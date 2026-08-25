@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-25-1247 ([0effd61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-1247))
+
+* change the prices of ammo or ammo related things ([#88396](https://github.com/CleverRaven/Cataclysm-DDA/pull/88396))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-25-0410 ([03789bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0410))
 
 * Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-08-18-1422 ([9f43792](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-1422))
 
 * add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-18-0627 ([44e9d67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-0627))
-
 * Better microlab Parametrization ([#88335](https://github.com/CleverRaven/Cataclysm-DDA/pull/88335))
 * Weekly Changelog 2026-08-10 to 2026-08-17 ([#88355](https://github.com/CleverRaven/Cataclysm-DDA/pull/88355))
 * Add dedicated six-bottle box ([#88353](https://github.com/CleverRaven/Cataclysm-DDA/pull/88353))
@@ -229,4 +230,3 @@
 * [Hunvre] Fix the Hunvre worldgen ([#88238](https://github.com/CleverRaven/Cataclysm-DDA/pull/88238))
 * [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
-* [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))

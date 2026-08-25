@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-25-1247 (0effd61)
+* change the prices of ammo or ammo related things (#88396)
+
 Cataclysm-DDA experimental build 2026-08-25-0410 (03789bc)
 * Add two more special tiles to serum labs (#88413)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-08-18-1929 (4f952fa)
 
 Cataclysm-DDA experimental build 2026-08-18-1422 (9f43792)
 * add additional instructions to json_style about how to run the formatting tool (#88365)
-
-Cataclysm-DDA experimental build 2026-08-18-0627 (44e9d67)
 * Better microlab Parametrization (#88335)
 * Weekly Changelog 2026-08-10 to 2026-08-17 (#88355)
 * Add dedicated six-bottle box (#88353)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2026-08-18-0627 (44e9d67)
 * [Hunvre] Fix the Hunvre worldgen (#88238)
 * [Hunvre] Remove the hacky spawning eoc (#88239)
 * Fix Windows tests not building in CI (#88241)
-* [Xedra Evolved] Add Ominous Fog weather event (#88236)
