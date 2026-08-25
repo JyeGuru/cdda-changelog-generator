@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-25-0410 (03789bc)
+* Add two more special tiles to serum labs (#88413)
+
 Cataclysm-DDA experimental build 2026-08-25-0247 (45e6658)
 * [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance (#88399)
 * { Xedra Evolved ] Only Gracken can use gracken special trophy organs (#88388)
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-08-18-0627 (44e9d67)
 
 Cataclysm-DDA experimental build 2026-08-18-0009 (9bc07c5)
 * Weekly Changelog 2026-08-10 to 2026-08-17 (#88355)
-
-Cataclysm-DDA experimental build 2026-08-17-2213 (9bce83e)
 * Add dedicated six-bottle box (#88353)
 * Performance/Improve few per-turn performance bottlenecks (#88315)
 * [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC (#88345)
@@ -108,7 +109,6 @@ Cataclysm-DDA experimental build 2026-08-17-2213 (9bce83e)
 * [MoM] Survivor bunker variant (#88304)
 * Added crafting fault to all steel swords (#88313)
 * Slime hands is now a bodypart (#88317)
-* Migrate dialogue window to imgui (#88235)
 * Keep SDL3 shader CI artifacts for a week (#88316)
 * Remove all bandits (#88312)
 * Swap serum crash to `character_loses_effect` (#88306)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-25-0410 ([03789bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0410))
+
+* Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-25-0247 ([45e6658](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0247))
 
 * [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance ([#88399](https://github.com/CleverRaven/Cataclysm-DDA/pull/88399))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-08-18-0009 ([9bc07c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-0009))
 
 * Weekly Changelog 2026-08-10 to 2026-08-17 ([#88355](https://github.com/CleverRaven/Cataclysm-DDA/pull/88355))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-17-2213 ([9bce83e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-2213))
-
 * Add dedicated six-bottle box ([#88353](https://github.com/CleverRaven/Cataclysm-DDA/pull/88353))
 * Performance/Improve few per-turn performance bottlenecks ([#88315](https://github.com/CleverRaven/Cataclysm-DDA/pull/88315))
 * [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC ([#88345](https://github.com/CleverRaven/Cataclysm-DDA/pull/88345))
@@ -195,7 +196,6 @@
 * [MoM] Survivor bunker variant ([#88304](https://github.com/CleverRaven/Cataclysm-DDA/pull/88304))
 * Added crafting fault to all steel swords ([#88313](https://github.com/CleverRaven/Cataclysm-DDA/pull/88313))
 * Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
-* Migrate dialogue window to imgui ([#88235](https://github.com/CleverRaven/Cataclysm-DDA/pull/88235))
 * Keep SDL3 shader CI artifacts for a week ([#88316](https://github.com/CleverRaven/Cataclysm-DDA/pull/88316))
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
