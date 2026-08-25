@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-25-0153 ([6ed0c17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0153))
+
+* Add category to TALONS_STRIX ([#88411](https://github.com/CleverRaven/Cataclysm-DDA/pull/88411))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-24-2049 ([c99cc8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-24-2049))
 
 * Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-08-17-0332 ([b53af11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0332))
 
 * [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC ([#88345](https://github.com/CleverRaven/Cataclysm-DDA/pull/88345))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-17-0252 ([7d9e0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0252))
-
 * Flesh-raptors are living beings ([#88352](https://github.com/CleverRaven/Cataclysm-DDA/pull/88352))
 * Add serum 09x-"Anaximander" ([#88321](https://github.com/CleverRaven/Cataclysm-DDA/pull/88321))
 * Change appliance solar panel bolt turning requirement ([#88348](https://github.com/CleverRaven/Cataclysm-DDA/pull/88348))
@@ -234,4 +235,3 @@
 * [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))
 * Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment ([#88234](https://github.com/CleverRaven/Cataclysm-DDA/pull/88234))
 * [MoM] Change Durability power to Augment Durability ([#88231](https://github.com/CleverRaven/Cataclysm-DDA/pull/88231))
-* Made sugar from sweetened water recipe unattended ([#88229](https://github.com/CleverRaven/Cataclysm-DDA/pull/88229))
