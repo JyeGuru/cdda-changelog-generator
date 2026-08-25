@@ -173,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-08-18-0627 ([44e9d67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-0627))
 
 * Better microlab Parametrization ([#88335](https://github.com/CleverRaven/Cataclysm-DDA/pull/88335))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-18-0009 ([9bc07c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-0009))
-
 * Weekly Changelog 2026-08-10 to 2026-08-17 ([#88355](https://github.com/CleverRaven/Cataclysm-DDA/pull/88355))
 * Add dedicated six-bottle box ([#88353](https://github.com/CleverRaven/Cataclysm-DDA/pull/88353))
 * Performance/Improve few per-turn performance bottlenecks ([#88315](https://github.com/CleverRaven/Cataclysm-DDA/pull/88315))
