@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-25-2101 (ac02994)
+* Weekly Changelog 2026-08-17 to 2026-08-24 (#88407)
+
 Cataclysm-DDA experimental build 2026-08-25-1247 (0effd61)
 * change the prices of ammo or ammo related things (#88396)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-08-18-2125 (4ba7111)
 Cataclysm-DDA experimental build 2026-08-18-1929 (4f952fa)
 * Novice martial artists can keep their glasses (#88368)
 * add kuutekitty to comment-commands (#88366)
-
-Cataclysm-DDA experimental build 2026-08-18-1422 (9f43792)
 * add additional instructions to json_style about how to run the formatting tool (#88365)
 * Better microlab Parametrization (#88335)
 * Weekly Changelog 2026-08-10 to 2026-08-17 (#88355)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2026-08-18-1422 (9f43792)
 * [Bombastic Perks] Add Gunslinger perk (#88260)
 * Add faults to more melee weapons (#88271)
 * Update camping itemgroup (#88264)
-* Feature: item faults indication (#88237)
 * Boiled egg unattend (#88263)
 * [Xedra Evolved] Challenge Scenario - The Fog (#88243)
 * Add CANNOT_SLEEP flag (#88251)

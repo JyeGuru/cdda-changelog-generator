@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-25-2101 ([ac02994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-2101))
+
+* Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-25-1247 ([0effd61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-1247))
 
 * change the prices of ammo or ammo related things ([#88396](https://github.com/CleverRaven/Cataclysm-DDA/pull/88396))
@@ -167,11 +173,6 @@
 
 * Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
 * add kuutekitty to comment-commands ([#88366](https://github.com/CleverRaven/Cataclysm-DDA/pull/88366))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-18-1422 ([9f43792](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-1422))
-
 * add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
 * Better microlab Parametrization ([#88335](https://github.com/CleverRaven/Cataclysm-DDA/pull/88335))
 * Weekly Changelog 2026-08-10 to 2026-08-17 ([#88355](https://github.com/CleverRaven/Cataclysm-DDA/pull/88355))
@@ -219,7 +220,6 @@
 * [Bombastic Perks] Add Gunslinger perk ([#88260](https://github.com/CleverRaven/Cataclysm-DDA/pull/88260))
 * Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
 * Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
-* Feature: item faults indication ([#88237](https://github.com/CleverRaven/Cataclysm-DDA/pull/88237))
 * Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
 * [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
 * Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
