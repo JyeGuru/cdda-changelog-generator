@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-25-0247 ([45e6658](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0247))
+
+* [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance ([#88399](https://github.com/CleverRaven/Cataclysm-DDA/pull/88399))
+* { Xedra Evolved ] Only Gracken can use gracken special trophy organs ([#88388](https://github.com/CleverRaven/Cataclysm-DDA/pull/88388))
+* [ Xedra Evolved ] Fix Jotunn notice EOC ([#88395](https://github.com/CleverRaven/Cataclysm-DDA/pull/88395))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-25-0153 ([6ed0c17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0153))
 
 * Add category to TALONS_STRIX ([#88411](https://github.com/CleverRaven/Cataclysm-DDA/pull/88411))
@@ -172,11 +180,6 @@
 
 * Add dedicated six-bottle box ([#88353](https://github.com/CleverRaven/Cataclysm-DDA/pull/88353))
 * Performance/Improve few per-turn performance bottlenecks ([#88315](https://github.com/CleverRaven/Cataclysm-DDA/pull/88315))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-17-0332 ([b53af11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-17-0332))
-
 * [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC ([#88345](https://github.com/CleverRaven/Cataclysm-DDA/pull/88345))
 * Flesh-raptors are living beings ([#88352](https://github.com/CleverRaven/Cataclysm-DDA/pull/88352))
 * Add serum 09x-"Anaximander" ([#88321](https://github.com/CleverRaven/Cataclysm-DDA/pull/88321))
@@ -217,7 +220,6 @@
 * added new Magiclysm - Bombastic Perk interaction ([#88262](https://github.com/CleverRaven/Cataclysm-DDA/pull/88262))
 * [Xedra Evolved] Add `gramarye` practice recipe ([#88272](https://github.com/CleverRaven/Cataclysm-DDA/pull/88272))
 * Bugfix: Allow radiation recovery while protected by NO_RADIATION ([#88268](https://github.com/CleverRaven/Cataclysm-DDA/pull/88268))
-* Add 76x-"Lore" serum ([#88232](https://github.com/CleverRaven/Cataclysm-DDA/pull/88232))
 * [Bombastic Perks] Add Gunslinger perk ([#88260](https://github.com/CleverRaven/Cataclysm-DDA/pull/88260))
 * Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
 * Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
@@ -233,5 +235,3 @@
 * [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
 * [Xedra Evolved] Add Ominous Fog weather event ([#88236](https://github.com/CleverRaven/Cataclysm-DDA/pull/88236))
-* Add `THEORETICAL_SKILL_CATCHUP_BONUS` enchantment ([#88234](https://github.com/CleverRaven/Cataclysm-DDA/pull/88234))
-* [MoM] Change Durability power to Augment Durability ([#88231](https://github.com/CleverRaven/Cataclysm-DDA/pull/88231))
