@@ -227,6 +227,5 @@
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms ([#88249](https://github.com/CleverRaven/Cataclysm-DDA/pull/88249))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
 * Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
-* [Hunvre] Fix the Hunvre worldgen ([#88238](https://github.com/CleverRaven/Cataclysm-DDA/pull/88238))
 * [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
