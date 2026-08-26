@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-26-1911 (65cc590)
+* [Xedra Evolved] Fix Tempered Steel and Changelings (#88421)
+
 Cataclysm-DDA experimental build 2026-08-25-2101 (ac02994)
 * Weekly Changelog 2026-08-17 to 2026-08-24 (#88407)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2026-08-18-2324 (185f1e3)
 Cataclysm-DDA experimental build 2026-08-18-2125 (4ba7111)
 * Typo Barbecue (#88350)
 * Fix PR labeller workflow being confused by reruns (#88370)
-
-Cataclysm-DDA experimental build 2026-08-18-1929 (4f952fa)
 * Novice martial artists can keep their glasses (#88368)
 * add kuutekitty to comment-commands (#88366)
 * add additional instructions to json_style about how to run the formatting tool (#88365)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2026-08-18-1929 (4f952fa)
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms (#88249)
 * Integrate 0.I changelog to experimental (#88240)
 * Add AIMING_SPEED enchant (#88245)
-* [Hunvre] Remove the hacky spawning eoc (#88239)
 * Fix Windows tests not building in CI (#88241)

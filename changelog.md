@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-26-1911 ([65cc590](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-26-1911))
+
+* [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-25-2101 ([ac02994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-2101))
 
 * Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
@@ -166,11 +172,6 @@
 
 * Typo Barbecue ([#88350](https://github.com/CleverRaven/Cataclysm-DDA/pull/88350))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-18-1929 ([4f952fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-1929))
-
 * Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
 * add kuutekitty to comment-commands ([#88366](https://github.com/CleverRaven/Cataclysm-DDA/pull/88366))
 * add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
@@ -227,5 +228,4 @@
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms ([#88249](https://github.com/CleverRaven/Cataclysm-DDA/pull/88249))
 * Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
 * Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
-* [Hunvre] Remove the hacky spawning eoc ([#88239](https://github.com/CleverRaven/Cataclysm-DDA/pull/88239))
 * Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))
