@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-27-0619 ([5b416ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-27-0619))
+
+* Add HIDDEN_SPELL flag to some mod spells ([#88427](https://github.com/CleverRaven/Cataclysm-DDA/pull/88427))
+* [Xedra Evolved] Crossing the threshold as a changeling gives you a worse Iron Allergy ([#88428](https://github.com/CleverRaven/Cataclysm-DDA/pull/88428))
+* [Xedra Evolved] Add achievement for beating the Undying Vengeance challenge ([#88432](https://github.com/CleverRaven/Cataclysm-DDA/pull/88432))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-27-0524 ([aba9273](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-27-0524))
+
+* [Xedra Evolved] Add dreamdross scraps to XE border patrol office desks ([#88418](https://github.com/CleverRaven/Cataclysm-DDA/pull/88418))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-26-1911 ([65cc590](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-26-1911))
 
 * [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
@@ -153,17 +167,7 @@
 #### Cataclysm-DDA experimental build 2026-08-19-0312 ([fd796fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-0312))
 
 * [Xedra Evolved] serum duration adjustments ([#88331](https://github.com/CleverRaven/Cataclysm-DDA/pull/88331))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-19-0222 ([62802ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-0222))
-
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-18-2324 ([185f1e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-2324))
-
 * [Hunvre] Adding Hunvre-specific clothing, part 2: Shoes ([#88253](https://github.com/CleverRaven/Cataclysm-DDA/pull/88253))
 * Typo Barbecue ([#88350](https://github.com/CleverRaven/Cataclysm-DDA/pull/88350))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
@@ -217,10 +221,6 @@
 * Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
 * Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
 * Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
-* [Xedra Evolved] Challenge Scenario - The Fog ([#88243](https://github.com/CleverRaven/Cataclysm-DDA/pull/88243))
 * Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant ([#88256](https://github.com/CleverRaven/Cataclysm-DDA/pull/88256))
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms ([#88249](https://github.com/CleverRaven/Cataclysm-DDA/pull/88249))
-* Integrate 0.I changelog to experimental ([#88240](https://github.com/CleverRaven/Cataclysm-DDA/pull/88240))
-* Add AIMING_SPEED enchant ([#88245](https://github.com/CleverRaven/Cataclysm-DDA/pull/88245))
-* Fix Windows tests not building in CI ([#88241](https://github.com/CleverRaven/Cataclysm-DDA/pull/88241))

@@ -1,4 +1,12 @@
 
+Cataclysm-DDA experimental build 2026-08-27-0619 (5b416ea)
+* Add HIDDEN_SPELL flag to some mod spells (#88427)
+* [Xedra Evolved] Crossing the threshold as a changeling gives you a worse Iron Allergy (#88428)
+* [Xedra Evolved] Add achievement for beating the Undying Vengeance challenge (#88432)
+
+Cataclysm-DDA experimental build 2026-08-27-0524 (aba9273)
+* [Xedra Evolved] Add dreamdross scraps to XE border patrol office desks (#88418)
+
 Cataclysm-DDA experimental build 2026-08-26-1911 (65cc590)
 * [Xedra Evolved] Fix Tempered Steel and Changelings (#88421)
 
@@ -78,11 +86,7 @@ Cataclysm-DDA experimental build 2026-08-19-0913 (b823038)
 
 Cataclysm-DDA experimental build 2026-08-19-0312 (fd796fc)
 * [Xedra Evolved] serum duration adjustments (#88331)
-
-Cataclysm-DDA experimental build 2026-08-19-0222 (62802ec)
 * Various dialogue window fixes/improvements (#88369)
-
-Cataclysm-DDA experimental build 2026-08-18-2324 (185f1e3)
 * [Hunvre] Adding Hunvre-specific clothing, part 2: Shoes (#88253)
 * Typo Barbecue (#88350)
 * Fix PR labeller workflow being confused by reruns (#88370)
@@ -136,10 +140,6 @@ Cataclysm-DDA experimental build 2026-08-18-2324 (185f1e3)
 * Add faults to more melee weapons (#88271)
 * Update camping itemgroup (#88264)
 * Boiled egg unattend (#88263)
-* [Xedra Evolved] Challenge Scenario - The Fog (#88243)
 * Add CANNOT_SLEEP flag (#88251)
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant (#88256)
 * Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms (#88249)
-* Integrate 0.I changelog to experimental (#88240)
-* Add AIMING_SPEED enchant (#88245)
-* Fix Windows tests not building in CI (#88241)
