@@ -165,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2026-08-18-2324 ([185f1e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-2324))
 
 * [Hunvre] Adding Hunvre-specific clothing, part 2: Shoes ([#88253](https://github.com/CleverRaven/Cataclysm-DDA/pull/88253))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-18-2125 ([4ba7111](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-18-2125))
-
 * Typo Barbecue ([#88350](https://github.com/CleverRaven/Cataclysm-DDA/pull/88350))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
 * Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))

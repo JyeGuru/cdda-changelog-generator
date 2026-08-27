@@ -84,8 +84,6 @@ Cataclysm-DDA experimental build 2026-08-19-0222 (62802ec)
 
 Cataclysm-DDA experimental build 2026-08-18-2324 (185f1e3)
 * [Hunvre] Adding Hunvre-specific clothing, part 2: Shoes (#88253)
-
-Cataclysm-DDA experimental build 2026-08-18-2125 (4ba7111)
 * Typo Barbecue (#88350)
 * Fix PR labeller workflow being confused by reruns (#88370)
 * Novice martial artists can keep their glasses (#88368)
