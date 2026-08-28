@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-28-0006 ([e729fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-0006))
+
+* Fix noticing zomborgs somewhat ([#88367](https://github.com/CleverRaven/Cataclysm-DDA/pull/88367))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-27-2307 ([191d85a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-27-2307))
+
+* Migrate appliance rename popup to ImGui ([#88429](https://github.com/CleverRaven/Cataclysm-DDA/pull/88429))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-27-0619 ([5b416ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-27-0619))
 
 * Add HIDDEN_SPELL flag to some mod spells ([#88427](https://github.com/CleverRaven/Cataclysm-DDA/pull/88427))
@@ -155,17 +167,7 @@
 * [ Xedra Evolved ] Fix #88311 ([#88337](https://github.com/CleverRaven/Cataclysm-DDA/pull/88337))
 * [ Xedra Evolved] Changeling Threshold Achievements ([#88338](https://github.com/CleverRaven/Cataclysm-DDA/pull/88338))
 * [DinoMod] sauropod rework 2 ([#88300](https://github.com/CleverRaven/Cataclysm-DDA/pull/88300))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-19-0913 ([b823038](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-0913))
-
 * [MOM] Fixed Ascended Vitakinetic background cost ([#88305](https://github.com/CleverRaven/Cataclysm-DDA/pull/88305))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-19-0312 ([fd796fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-0312))
-
 * [Xedra Evolved] serum duration adjustments ([#88331](https://github.com/CleverRaven/Cataclysm-DDA/pull/88331))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
 * [Hunvre] Adding Hunvre-specific clothing, part 2: Shoes ([#88253](https://github.com/CleverRaven/Cataclysm-DDA/pull/88253))
@@ -213,7 +215,6 @@
 * [Xedra Evolved] Lilit touch / other edits  ([#88285](https://github.com/CleverRaven/Cataclysm-DDA/pull/88285))
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
-* [Xedra Evolved] Remove duplicate dreamdross NPC topic ([#88248](https://github.com/CleverRaven/Cataclysm-DDA/pull/88248))
 * added new Magiclysm - Bombastic Perk interaction ([#88262](https://github.com/CleverRaven/Cataclysm-DDA/pull/88262))
 * [Xedra Evolved] Add `gramarye` practice recipe ([#88272](https://github.com/CleverRaven/Cataclysm-DDA/pull/88272))
 * Bugfix: Allow radiation recovery while protected by NO_RADIATION ([#88268](https://github.com/CleverRaven/Cataclysm-DDA/pull/88268))
@@ -223,4 +224,3 @@
 * Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
 * Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant ([#88256](https://github.com/CleverRaven/Cataclysm-DDA/pull/88256))
-* Add Distributed damage flag, apply to slime and to XE's sylph and undine elemental forms ([#88249](https://github.com/CleverRaven/Cataclysm-DDA/pull/88249))
