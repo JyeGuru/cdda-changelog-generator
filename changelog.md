@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-08-28-0220 ([b0bc840](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-0220))
+
+* 0.I-1 backport #82765: LIXA elevator fixes ([#88439](https://github.com/CleverRaven/Cataclysm-DDA/pull/88439))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-08-28-0141 ([f8914de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-0141))
+
+* 0.I-1 backport: #82497 Fix cannot_cast_message logic ([#88440](https://github.com/CleverRaven/Cataclysm-DDA/pull/88440))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-28-0006 ([e729fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-0006))
 
 * Fix noticing zomborgs somewhat ([#88367](https://github.com/CleverRaven/Cataclysm-DDA/pull/88367))
@@ -147,30 +159,14 @@
 #### Cataclysm-DDA experimental build 2026-08-21-1354 ([3442f14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-21-1354))
 
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-20-2039 ([c337a0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-20-2039))
-
 * [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill ([#88364](https://github.com/CleverRaven/Cataclysm-DDA/pull/88364))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-19-2201 ([36e992e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-2201))
-
 * Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-19-1514 ([ef1a72b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-19-1514))
-
 * [ Xedra Evolved ] Fix #88311 ([#88337](https://github.com/CleverRaven/Cataclysm-DDA/pull/88337))
 * [ Xedra Evolved] Changeling Threshold Achievements ([#88338](https://github.com/CleverRaven/Cataclysm-DDA/pull/88338))
 * [DinoMod] sauropod rework 2 ([#88300](https://github.com/CleverRaven/Cataclysm-DDA/pull/88300))
 * [MOM] Fixed Ascended Vitakinetic background cost ([#88305](https://github.com/CleverRaven/Cataclysm-DDA/pull/88305))
 * [Xedra Evolved] serum duration adjustments ([#88331](https://github.com/CleverRaven/Cataclysm-DDA/pull/88331))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
-* [Hunvre] Adding Hunvre-specific clothing, part 2: Shoes ([#88253](https://github.com/CleverRaven/Cataclysm-DDA/pull/88253))
 * Typo Barbecue ([#88350](https://github.com/CleverRaven/Cataclysm-DDA/pull/88350))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
 * Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
@@ -222,5 +218,4 @@
 * Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
 * Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
 * Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
-* Add CANNOT_SLEEP flag ([#88251](https://github.com/CleverRaven/Cataclysm-DDA/pull/88251))
 * [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant ([#88256](https://github.com/CleverRaven/Cataclysm-DDA/pull/88256))
