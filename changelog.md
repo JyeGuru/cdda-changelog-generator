@@ -1,6 +1,28 @@
 
 ---
 
+#### Cataclysm-DDA 0.I release candidate 2026-08-28-2028 ([844f3b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-2028))
+
+* 0.I-1 backport #84078: Clear activity_var on pickup ([#88441](https://github.com/CleverRaven/Cataclysm-DDA/pull/88441))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-28-1955 ([6961c2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-1955))
+
+* Correctly update credits and motd from transifex ([#88447](https://github.com/CleverRaven/Cataclysm-DDA/pull/88447))
+* Retry translation downloads with increasing backoff ([#88448](https://github.com/CleverRaven/Cataclysm-DDA/pull/88448))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-08-28-1951 ([e1ebf5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-1951))
+
+* 0.I-1Backport #85902, #84048: morale inconsistency fixes ([#88449](https://github.com/CleverRaven/Cataclysm-DDA/pull/88449))
+* Fix tentacle foot crash ([#88451](https://github.com/CleverRaven/Cataclysm-DDA/pull/88451))
+* mildly change the text of the light retrieval mission to make it clear you need more gear ([#88434](https://github.com/CleverRaven/Cataclysm-DDA/pull/88434))
+* 0.I-1 Backport #83671: manually install gcc 9 on runners as needed ([#88438](https://github.com/CleverRaven/Cataclysm-DDA/pull/88438))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2026-08-28-0220 ([b0bc840](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-0220))
 
 * 0.I-1 backport #82765: LIXA elevator fixes ([#88439](https://github.com/CleverRaven/Cataclysm-DDA/pull/88439))
@@ -129,35 +151,9 @@
 
 * Update solar.json with solar cell dimensions ([#88380](https://github.com/CleverRaven/Cataclysm-DDA/pull/88380))
 * Add serum-specific microlabs ([#88309](https://github.com/CleverRaven/Cataclysm-DDA/pull/88309))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-22-1434 ([010afaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-1434))
-
-* remove jhp reloads ([#88258](https://github.com/CleverRaven/Cataclysm-DDA/pull/88258))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-22-0559 ([33c7e20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-0559))
-
 * fix(npcs): clear Liam guard duty when he becomes a follower ([#88389](https://github.com/CleverRaven/Cataclysm-DDA/pull/88389))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-22-0401 ([0eb1ce8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-0401))
-
 * [Magiclysm] Price fix for a single ($50) lore book ([#88384](https://github.com/CleverRaven/Cataclysm-DDA/pull/88384))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-21-1914 ([7463a38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-21-1914))
-
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre ([#88390](https://github.com/CleverRaven/Cataclysm-DDA/pull/88390))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-21-1354 ([3442f14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-21-1354))
-
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
 * [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill ([#88364](https://github.com/CleverRaven/Cataclysm-DDA/pull/88364))
 * Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
@@ -205,17 +201,11 @@
 * Fix Make music ([#88291](https://github.com/CleverRaven/Cataclysm-DDA/pull/88291))
 * Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
 * Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
-* Fix clothing wind resistance calculation ([#88255](https://github.com/CleverRaven/Cataclysm-DDA/pull/88255))
 * Weekly Changelog 2026-08-03 to 2026-08-10 ([#88277](https://github.com/CleverRaven/Cataclysm-DDA/pull/88277))
 * Prevent mutation looping in the slime tree ([#88282](https://github.com/CleverRaven/Cataclysm-DDA/pull/88282))
 * [Xedra Evolved] Lilit touch / other edits  ([#88285](https://github.com/CleverRaven/Cataclysm-DDA/pull/88285))
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
-* added new Magiclysm - Bombastic Perk interaction ([#88262](https://github.com/CleverRaven/Cataclysm-DDA/pull/88262))
 * [Xedra Evolved] Add `gramarye` practice recipe ([#88272](https://github.com/CleverRaven/Cataclysm-DDA/pull/88272))
 * Bugfix: Allow radiation recovery while protected by NO_RADIATION ([#88268](https://github.com/CleverRaven/Cataclysm-DDA/pull/88268))
-* [Bombastic Perks] Add Gunslinger perk ([#88260](https://github.com/CleverRaven/Cataclysm-DDA/pull/88260))
 * Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
-* Update camping itemgroup ([#88264](https://github.com/CleverRaven/Cataclysm-DDA/pull/88264))
-* Boiled egg unattend ([#88263](https://github.com/CleverRaven/Cataclysm-DDA/pull/88263))
-* [MoM] Clairsentient power Marksman's Eye uses AIMING_SPEED instead of DISPERTION enchant ([#88256](https://github.com/CleverRaven/Cataclysm-DDA/pull/88256))
