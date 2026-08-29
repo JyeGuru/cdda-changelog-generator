@@ -1,3 +1,10 @@
+* [ Bombastic Perks ] Flawless Memory is made of flesh (#88419)
+
+Cataclysm-DDA experimental build 2026-08-29-2234 (1c68da3)
+* Monster Blocking Ability (#88443)
+
+Cataclysm-DDA 0.I release candidate 2026-08-29-2214 (6c8efc0)
+* 0.I-1 backport #85340: fix 100% CPU usage with ncurses (#88460)
 
 Cataclysm-DDA experimental build 2026-08-29-0503 (c198a62)
 * Add new uncraft recipe for Balthazar's broken turret rifle (#88431)
@@ -78,11 +85,7 @@ Cataclysm-DDA experimental build 2026-08-23-1739 (f9d6fde)
 
 Cataclysm-DDA experimental build 2026-08-23-0334 (f84af65)
 * Xedra Evolved CI Fixes (#88398)
-
-Cataclysm-DDA experimental build 2026-08-23-0248 (be5d8f3)
 * Remove Prereqs in Gracken Limbs (#88349)
-
-Cataclysm-DDA experimental build 2026-08-22-2239 (17ee580)
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons (#88381)
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` (#88394)
 * Update solar.json with solar cell dimensions (#88380)
@@ -128,14 +131,12 @@ Cataclysm-DDA experimental build 2026-08-22-2239 (17ee580)
 * Remove SDL2 support (#88301)
 * Add map console to subway station map (#88286)
 * Fix Description of xtra strength aspirin (#88287)
-* [ Xedra Evolved ] Rubik and the Jotunn (#88278)
 * Portable Power Station (#88289)
 * Fix precious metals spawn after decharge (#88294)
 * Stop hallucinating fake zombies (#88288)
 * Fix Make music (#88291)
 * Fix cata-serialize clang-tidy failure on pick_info (#88297)
 * Remove a duplicate vpart_range.h include (#88293)
-* Weekly Changelog 2026-08-03 to 2026-08-10 (#88277)
 * Prevent mutation looping in the slime tree (#88282)
 * [Xedra Evolved] Lilit touch / other edits  (#88285)
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking (#88284)
