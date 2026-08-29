@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-28-2333 ([cfe6af8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-2333))
+
+* remove and migrate obsolete ammo  ([#88400](https://github.com/CleverRaven/Cataclysm-DDA/pull/88400))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-28-2249 ([5a52223](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-2249))
+
+* radiosphere: solar beetles and layout change (second attempt) ([#88426](https://github.com/CleverRaven/Cataclysm-DDA/pull/88426))
+
+---
+
 #### Cataclysm-DDA 0.I release candidate 2026-08-28-2028 ([844f3b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-2028))
 
 * 0.I-1 backport #84078: Clear activity_var on pickup ([#88441](https://github.com/CleverRaven/Cataclysm-DDA/pull/88441))
@@ -182,7 +194,6 @@
 * Give requirement checks an explicit actor ([#88292](https://github.com/CleverRaven/Cataclysm-DDA/pull/88292))
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
 * [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
-* add steps to boiled noodle recipe ([#88267](https://github.com/CleverRaven/Cataclysm-DDA/pull/88267))
 * [Xedra Evolved] Add abyssal coffee alchemy recipe ([#88330](https://github.com/CleverRaven/Cataclysm-DDA/pull/88330))
 * [MoM] Survivor bunker variant ([#88304](https://github.com/CleverRaven/Cataclysm-DDA/pull/88304))
 * Added crafting fault to all steel swords ([#88313](https://github.com/CleverRaven/Cataclysm-DDA/pull/88313))
@@ -207,5 +218,3 @@
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
 * [Xedra Evolved] Add `gramarye` practice recipe ([#88272](https://github.com/CleverRaven/Cataclysm-DDA/pull/88272))
-* Bugfix: Allow radiation recovery while protected by NO_RADIATION ([#88268](https://github.com/CleverRaven/Cataclysm-DDA/pull/88268))
-* Add faults to more melee weapons ([#88271](https://github.com/CleverRaven/Cataclysm-DDA/pull/88271))
