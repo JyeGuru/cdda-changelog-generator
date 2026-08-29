@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-29-0503 ([c198a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-0503))
+
+* Add new uncraft recipe for Balthazar's broken turret rifle ([#88431](https://github.com/CleverRaven/Cataclysm-DDA/pull/88431))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-29-0349 ([5fde968](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-0349))
+
+* Fix monsters not being slowed by snow ([#88454](https://github.com/CleverRaven/Cataclysm-DDA/pull/88454))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-28-2333 ([cfe6af8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-2333))
 
 * remove and migrate obsolete ammo  ([#88400](https://github.com/CleverRaven/Cataclysm-DDA/pull/88400))
@@ -150,17 +162,7 @@
 #### Cataclysm-DDA experimental build 2026-08-22-2239 ([17ee580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-2239))
 
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons ([#88381](https://github.com/CleverRaven/Cataclysm-DDA/pull/88381))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-22-2154 ([083a15b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-2154))
-
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` ([#88394](https://github.com/CleverRaven/Cataclysm-DDA/pull/88394))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-22-1837 ([ccdfd1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-22-1837))
-
 * Update solar.json with solar cell dimensions ([#88380](https://github.com/CleverRaven/Cataclysm-DDA/pull/88380))
 * Add serum-specific microlabs ([#88309](https://github.com/CleverRaven/Cataclysm-DDA/pull/88309))
 * fix(npcs): clear Liam guard duty when he becomes a follower ([#88389](https://github.com/CleverRaven/Cataclysm-DDA/pull/88389))
@@ -203,7 +205,6 @@
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
 * Add map console to subway station map ([#88286](https://github.com/CleverRaven/Cataclysm-DDA/pull/88286))
-* Add serum 51x-"Landru" ([#88273](https://github.com/CleverRaven/Cataclysm-DDA/pull/88273))
 * Fix Description of xtra strength aspirin ([#88287](https://github.com/CleverRaven/Cataclysm-DDA/pull/88287))
 * [ Xedra Evolved ] Rubik and the Jotunn ([#88278](https://github.com/CleverRaven/Cataclysm-DDA/pull/88278))
 * Portable Power Station ([#88289](https://github.com/CleverRaven/Cataclysm-DDA/pull/88289))
@@ -217,4 +218,3 @@
 * [Xedra Evolved] Lilit touch / other edits  ([#88285](https://github.com/CleverRaven/Cataclysm-DDA/pull/88285))
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
-* [Xedra Evolved] Add `gramarye` practice recipe ([#88272](https://github.com/CleverRaven/Cataclysm-DDA/pull/88272))

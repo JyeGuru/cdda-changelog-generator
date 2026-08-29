@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-08-29-0503 (c198a62)
+* Add new uncraft recipe for Balthazar's broken turret rifle (#88431)
+
+Cataclysm-DDA experimental build 2026-08-29-0349 (5fde968)
+* Fix monsters not being slowed by snow (#88454)
+
 Cataclysm-DDA experimental build 2026-08-28-2333 (cfe6af8)
 * remove and migrate obsolete ammo  (#88400)
 
@@ -78,11 +84,7 @@ Cataclysm-DDA experimental build 2026-08-23-0248 (be5d8f3)
 
 Cataclysm-DDA experimental build 2026-08-22-2239 (17ee580)
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons (#88381)
-
-Cataclysm-DDA experimental build 2026-08-22-2154 (083a15b)
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` (#88394)
-
-Cataclysm-DDA experimental build 2026-08-22-1837 (ccdfd1e)
 * Update solar.json with solar cell dimensions (#88380)
 * Add serum-specific microlabs (#88309)
 * fix(npcs): clear Liam guard duty when he becomes a follower (#88389)
@@ -125,7 +127,6 @@ Cataclysm-DDA experimental build 2026-08-22-1837 (ccdfd1e)
 * Swap serum crash to `character_loses_effect` (#88306)
 * Remove SDL2 support (#88301)
 * Add map console to subway station map (#88286)
-* Add serum 51x-"Landru" (#88273)
 * Fix Description of xtra strength aspirin (#88287)
 * [ Xedra Evolved ] Rubik and the Jotunn (#88278)
 * Portable Power Station (#88289)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2026-08-22-1837 (ccdfd1e)
 * [Xedra Evolved] Lilit touch / other edits  (#88285)
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking (#88284)
 * Revert "De-variant Classic Books to improve feature parity." (#88283)
-* [Xedra Evolved] Add `gramarye` practice recipe (#88272)
