@@ -1,3 +1,8 @@
+* Add new portal storm dungeon to HEW system/dialogue and Pat dialogue (#88437)
+* cattail jelly should not be flammable (#88453)
+
+Cataclysm-DDA experimental build 2026-08-30-2256 (f343792)
+* [MOM] Fixed Doomseer starting profession (#88461)
 
 Cataclysm-DDA experimental build 2026-08-30-0454 (d40ce25)
 * fix oatmeal and tofu (#88452)
@@ -81,8 +86,6 @@ Cataclysm-DDA experimental build 2026-08-24-2049 (c99cc8a)
 
 Cataclysm-DDA 0.I release candidate 2026-08-24-0428 (bb0f719)
 * Fix building 0.I with VS2026 (#88406)
-
-Cataclysm-DDA experimental build 2026-08-23-2248 (db66c8d)
 * One letter de-deadnaming (#88405)
 * Named the book variants to fix a bug (#88333)
 * Xedra Evolved CI Fixes (#88398)
@@ -138,6 +141,3 @@ Cataclysm-DDA experimental build 2026-08-23-2248 (db66c8d)
 * Fix Make music (#88291)
 * Fix cata-serialize clang-tidy failure on pick_info (#88297)
 * Remove a duplicate vpart_range.h include (#88293)
-* [Xedra Evolved] Lilit touch / other edits  (#88285)
-* Feature: Bulk liquid tank appliance and nearby vehicle tank drinking (#88284)
-* Revert "De-variant Classic Books to improve feature parity." (#88283)

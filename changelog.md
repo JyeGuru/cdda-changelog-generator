@@ -1,3 +1,11 @@
+* Add new portal storm dungeon to HEW system/dialogue and Pat dialogue ([#88437](https://github.com/CleverRaven/Cataclysm-DDA/pull/88437))
+* cattail jelly should not be flammable ([#88453](https://github.com/CleverRaven/Cataclysm-DDA/pull/88453))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-30-2256 ([f343792](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-2256))
+
+* [MOM] Fixed Doomseer starting profession ([#88461](https://github.com/CleverRaven/Cataclysm-DDA/pull/88461))
 
 ---
 
@@ -156,11 +164,6 @@
 #### Cataclysm-DDA 0.I release candidate 2026-08-24-0428 ([bb0f719](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-24-0428))
 
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-23-2248 ([db66c8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-23-2248))
-
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
 * Named the book variants to fix a bug ([#88333](https://github.com/CleverRaven/Cataclysm-DDA/pull/88333))
 * Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
@@ -216,6 +219,3 @@
 * Fix Make music ([#88291](https://github.com/CleverRaven/Cataclysm-DDA/pull/88291))
 * Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
 * Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
-* [Xedra Evolved] Lilit touch / other edits  ([#88285](https://github.com/CleverRaven/Cataclysm-DDA/pull/88285))
-* Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
-* Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
