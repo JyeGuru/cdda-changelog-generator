@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-08-29-2341 (845230c)
 * [ Bombastic Perks ] Flawless Memory is made of flesh (#88419)
 
 Cataclysm-DDA experimental build 2026-08-29-2234 (1c68da3)
@@ -82,8 +84,6 @@ Cataclysm-DDA experimental build 2026-08-23-2248 (db66c8d)
 
 Cataclysm-DDA experimental build 2026-08-23-1739 (f9d6fde)
 * Named the book variants to fix a bug (#88333)
-
-Cataclysm-DDA experimental build 2026-08-23-0334 (f84af65)
 * Xedra Evolved CI Fixes (#88398)
 * Remove Prereqs in Gracken Limbs (#88349)
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons (#88381)

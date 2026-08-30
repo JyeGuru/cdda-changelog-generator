@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-29-2341 ([845230c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-2341))
+
 * [ Bombastic Perks ] Flawless Memory is made of flesh ([#88419](https://github.com/CleverRaven/Cataclysm-DDA/pull/88419))
 
 ---
@@ -157,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-08-23-1739 ([f9d6fde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-23-1739))
 
 * Named the book variants to fix a bug ([#88333](https://github.com/CleverRaven/Cataclysm-DDA/pull/88333))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-23-0334 ([f84af65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-23-0334))
-
 * Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
 * Remove Prereqs in Gracken Limbs ([#88349](https://github.com/CleverRaven/Cataclysm-DDA/pull/88349))
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons ([#88381](https://github.com/CleverRaven/Cataclysm-DDA/pull/88381))
