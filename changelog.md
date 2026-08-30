@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-30-0454 ([d40ce25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-0454))
+
+* fix oatmeal and tofu ([#88452](https://github.com/CleverRaven/Cataclysm-DDA/pull/88452))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-29-2341 ([845230c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-2341))
 
 * [ Bombastic Perks ] Flawless Memory is made of flesh ([#88419](https://github.com/CleverRaven/Cataclysm-DDA/pull/88419))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-08-23-2248 ([db66c8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-23-2248))
 
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-23-1739 ([f9d6fde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-23-1739))
-
 * Named the book variants to fix a bug ([#88333](https://github.com/CleverRaven/Cataclysm-DDA/pull/88333))
 * Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
 * Remove Prereqs in Gracken Limbs ([#88349](https://github.com/CleverRaven/Cataclysm-DDA/pull/88349))
@@ -215,7 +216,6 @@
 * Fix Make music ([#88291](https://github.com/CleverRaven/Cataclysm-DDA/pull/88291))
 * Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
 * Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
-* Prevent mutation looping in the slime tree ([#88282](https://github.com/CleverRaven/Cataclysm-DDA/pull/88282))
 * [Xedra Evolved] Lilit touch / other edits  ([#88285](https://github.com/CleverRaven/Cataclysm-DDA/pull/88285))
 * Feature: Bulk liquid tank appliance and nearby vehicle tank drinking ([#88284](https://github.com/CleverRaven/Cataclysm-DDA/pull/88284))
 * Revert "De-variant Classic Books to improve feature parity." ([#88283](https://github.com/CleverRaven/Cataclysm-DDA/pull/88283))
