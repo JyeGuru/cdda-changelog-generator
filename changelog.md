@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-31-1513 ([3be7f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-31-1513))
+
+* Pompt user when cancelling hauling during auto travel ([#88463](https://github.com/CleverRaven/Cataclysm-DDA/pull/88463))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-31-0530 ([f4f0dbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-31-0530))
 
 * [Innawoods] Remove charges from the separation funnel recipe. ([#88327](https://github.com/CleverRaven/Cataclysm-DDA/pull/88327))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-08-25-0410 ([03789bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0410))
 
 * Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-25-0247 ([45e6658](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0247))
-
 * [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance ([#88399](https://github.com/CleverRaven/Cataclysm-DDA/pull/88399))
 * { Xedra Evolved ] Only Gracken can use gracken special trophy organs ([#88388](https://github.com/CleverRaven/Cataclysm-DDA/pull/88388))
 * [ Xedra Evolved ] Fix Jotunn notice EOC ([#88395](https://github.com/CleverRaven/Cataclysm-DDA/pull/88395))
@@ -214,7 +215,6 @@
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
-* Portable Power Station ([#88289](https://github.com/CleverRaven/Cataclysm-DDA/pull/88289))
 * Fix precious metals spawn after decharge ([#88294](https://github.com/CleverRaven/Cataclysm-DDA/pull/88294))
 * Fix Make music ([#88291](https://github.com/CleverRaven/Cataclysm-DDA/pull/88291))
 * Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-08-31-1513 (3be7f93)
+* Pompt user when cancelling hauling during auto travel (#88463)
+
 Cataclysm-DDA experimental build 2026-08-31-0530 (f4f0dbd)
 * [Innawoods] Remove charges from the separation funnel recipe. (#88327)
 * docs: fix typo depricated -> deprecated (#88458)
@@ -81,8 +84,6 @@ Cataclysm-DDA experimental build 2026-08-25-1247 (0effd61)
 
 Cataclysm-DDA experimental build 2026-08-25-0410 (03789bc)
 * Add two more special tiles to serum labs (#88413)
-
-Cataclysm-DDA experimental build 2026-08-25-0247 (45e6658)
 * [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance (#88399)
 * { Xedra Evolved ] Only Gracken can use gracken special trophy organs (#88388)
 * [ Xedra Evolved ] Fix Jotunn notice EOC (#88395)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2026-08-25-0247 (45e6658)
 * Remove all bandits (#88312)
 * Swap serum crash to `character_loses_effect` (#88306)
 * Remove SDL2 support (#88301)
-* Portable Power Station (#88289)
 * Fix precious metals spawn after decharge (#88294)
 * Fix Make music (#88291)
 * Fix cata-serialize clang-tidy failure on pick_info (#88297)
