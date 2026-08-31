@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-08-31-0530 ([f4f0dbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-31-0530))
+
+* [Innawoods] Remove charges from the separation funnel recipe. ([#88327](https://github.com/CleverRaven/Cataclysm-DDA/pull/88327))
+* docs: fix typo depricated -> deprecated ([#88458](https://github.com/CleverRaven/Cataclysm-DDA/pull/88458))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-31-0423 ([392ea1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-31-0423))
+
+* [MoM] Add chance for feral psions in serum microlabs, small adjustment to mutagen microlabs ([#88468](https://github.com/CleverRaven/Cataclysm-DDA/pull/88468))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-08-30-2341 ([b0af851](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-2341))
 
 * Add new portal storm dungeon to HEW system/dialogue and Pat dialogue ([#88437](https://github.com/CleverRaven/Cataclysm-DDA/pull/88437))
@@ -151,17 +164,7 @@
 * [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance ([#88399](https://github.com/CleverRaven/Cataclysm-DDA/pull/88399))
 * { Xedra Evolved ] Only Gracken can use gracken special trophy organs ([#88388](https://github.com/CleverRaven/Cataclysm-DDA/pull/88388))
 * [ Xedra Evolved ] Fix Jotunn notice EOC ([#88395](https://github.com/CleverRaven/Cataclysm-DDA/pull/88395))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-25-0153 ([6ed0c17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-0153))
-
 * Add category to TALONS_STRIX ([#88411](https://github.com/CleverRaven/Cataclysm-DDA/pull/88411))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-24-2049 ([c99cc8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-24-2049))
-
 * Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
@@ -211,11 +214,8 @@
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
-* Add map console to subway station map ([#88286](https://github.com/CleverRaven/Cataclysm-DDA/pull/88286))
-* Fix Description of xtra strength aspirin ([#88287](https://github.com/CleverRaven/Cataclysm-DDA/pull/88287))
 * Portable Power Station ([#88289](https://github.com/CleverRaven/Cataclysm-DDA/pull/88289))
 * Fix precious metals spawn after decharge ([#88294](https://github.com/CleverRaven/Cataclysm-DDA/pull/88294))
-* Stop hallucinating fake zombies ([#88288](https://github.com/CleverRaven/Cataclysm-DDA/pull/88288))
 * Fix Make music ([#88291](https://github.com/CleverRaven/Cataclysm-DDA/pull/88291))
 * Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
 * Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
