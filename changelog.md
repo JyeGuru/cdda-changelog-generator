@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-08-30-2341 ([b0af851](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-2341))
+
 * Add new portal storm dungeon to HEW system/dialogue and Pat dialogue ([#88437](https://github.com/CleverRaven/Cataclysm-DDA/pull/88437))
 * cattail jelly should not be flammable ([#88453](https://github.com/CleverRaven/Cataclysm-DDA/pull/88453))
 
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2026-08-24-2049 ([c99cc8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-24-2049))
 
 * Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-08-24-0428 ([bb0f719](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-24-0428))
-
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
 * Named the book variants to fix a bug ([#88333](https://github.com/CleverRaven/Cataclysm-DDA/pull/88333))
