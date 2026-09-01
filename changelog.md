@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-01-1735 ([0aa50e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-1735))
+
+* Deliver fetch quest items via truck ([#88308](https://github.com/CleverRaven/Cataclysm-DDA/pull/88308))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-01-1223 ([1ec8831](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-1223))
 
 * Itemgroup Modernizing: Tools.json ([#88471](https://github.com/CleverRaven/Cataclysm-DDA/pull/88471))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-08-25-2101 ([ac02994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-2101))
 
 * Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-25-1247 ([0effd61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-1247))
-
 * change the prices of ammo or ammo related things ([#88396](https://github.com/CleverRaven/Cataclysm-DDA/pull/88396))
 * Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
 * [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance ([#88399](https://github.com/CleverRaven/Cataclysm-DDA/pull/88399))
@@ -223,4 +224,3 @@
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
 * Fix precious metals spawn after decharge ([#88294](https://github.com/CleverRaven/Cataclysm-DDA/pull/88294))
 * Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
-* Remove a duplicate vpart_range.h include ([#88293](https://github.com/CleverRaven/Cataclysm-DDA/pull/88293))
