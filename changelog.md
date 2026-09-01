@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-01-1223 ([1ec8831](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-1223))
+
+* Itemgroup Modernizing: Tools.json ([#88471](https://github.com/CleverRaven/Cataclysm-DDA/pull/88471))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-01-0321 ([6f7c4b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-0321))
 
 * fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))
@@ -205,7 +211,6 @@
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later ([#88344](https://github.com/CleverRaven/Cataclysm-DDA/pull/88344))
 * Clarify extent of contributions covered by the authorship policy ([#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298))
-* Give requirement checks an explicit actor ([#88292](https://github.com/CleverRaven/Cataclysm-DDA/pull/88292))
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
 * [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
 * [Xedra Evolved] Add abyssal coffee alchemy recipe ([#88330](https://github.com/CleverRaven/Cataclysm-DDA/pull/88330))
