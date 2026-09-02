@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-02-1644 ([1730258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-1644))
+
+* Microwaves are treated as electronics, like induction hotplates ([#88485](https://github.com/CleverRaven/Cataclysm-DDA/pull/88485))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-02-1458 ([f70cf0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-1458))
+
+* More dialogue fixes ([#88498](https://github.com/CleverRaven/Cataclysm-DDA/pull/88498))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-02-1413 ([7ec938c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-1413))
+
+* [Xedra Evolved] Fix changeling March Lord advancement unlock ([#88492](https://github.com/CleverRaven/Cataclysm-DDA/pull/88492))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-02-0313 ([3f429b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-0313))
 
 * Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
@@ -150,25 +168,10 @@
 #### Cataclysm-DDA experimental build 2026-08-28-0006 ([e729fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-0006))
 
 * Fix noticing zomborgs somewhat ([#88367](https://github.com/CleverRaven/Cataclysm-DDA/pull/88367))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-27-2307 ([191d85a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-27-2307))
-
 * Migrate appliance rename popup to ImGui ([#88429](https://github.com/CleverRaven/Cataclysm-DDA/pull/88429))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-27-0619 ([5b416ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-27-0619))
-
 * Add HIDDEN_SPELL flag to some mod spells ([#88427](https://github.com/CleverRaven/Cataclysm-DDA/pull/88427))
 * [Xedra Evolved] Crossing the threshold as a changeling gives you a worse Iron Allergy ([#88428](https://github.com/CleverRaven/Cataclysm-DDA/pull/88428))
 * [Xedra Evolved] Add achievement for beating the Undying Vengeance challenge ([#88432](https://github.com/CleverRaven/Cataclysm-DDA/pull/88432))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-27-0524 ([aba9273](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-27-0524))
-
 * [Xedra Evolved] Add dreamdross scraps to XE border patrol office desks ([#88418](https://github.com/CleverRaven/Cataclysm-DDA/pull/88418))
 * [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
 * Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
@@ -196,7 +199,6 @@
 * Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
 * [ Xedra Evolved ] Fix #88311 ([#88337](https://github.com/CleverRaven/Cataclysm-DDA/pull/88337))
 * [ Xedra Evolved] Changeling Threshold Achievements ([#88338](https://github.com/CleverRaven/Cataclysm-DDA/pull/88338))
-* [DinoMod] sauropod rework 2 ([#88300](https://github.com/CleverRaven/Cataclysm-DDA/pull/88300))
 * [MOM] Fixed Ascended Vitakinetic background cost ([#88305](https://github.com/CleverRaven/Cataclysm-DDA/pull/88305))
 * [Xedra Evolved] serum duration adjustments ([#88331](https://github.com/CleverRaven/Cataclysm-DDA/pull/88331))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
@@ -218,10 +220,8 @@
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
 * [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
 * [Xedra Evolved] Add abyssal coffee alchemy recipe ([#88330](https://github.com/CleverRaven/Cataclysm-DDA/pull/88330))
-* [MoM] Survivor bunker variant ([#88304](https://github.com/CleverRaven/Cataclysm-DDA/pull/88304))
 * Added crafting fault to all steel swords ([#88313](https://github.com/CleverRaven/Cataclysm-DDA/pull/88313))
 * Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
 * Keep SDL3 shader CI artifacts for a week ([#88316](https://github.com/CleverRaven/Cataclysm-DDA/pull/88316))
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
-* Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
