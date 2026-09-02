@@ -1,3 +1,8 @@
+* Reduce camping thread count (#88425)
+* [Hunvre] Adding Hunvre-specific clothing, part 3: Pants (#88361)
+
+Cataclysm-DDA experimental build 2026-09-01-2347 (a289119)
+* Add emery boards, found in bathrooms (#88490)
 
 Cataclysm-DDA experimental build 2026-09-01-1735 (0aa50e5)
 * Deliver fetch quest items via truck (#88308)
@@ -84,8 +89,6 @@ Cataclysm-DDA experimental build 2026-08-27-0524 (aba9273)
 
 Cataclysm-DDA experimental build 2026-08-26-1911 (65cc590)
 * [Xedra Evolved] Fix Tempered Steel and Changelings (#88421)
-
-Cataclysm-DDA experimental build 2026-08-25-2101 (ac02994)
 * Weekly Changelog 2026-08-17 to 2026-08-24 (#88407)
 * change the prices of ammo or ammo related things (#88396)
 * Add two more special tiles to serum labs (#88413)
@@ -141,5 +144,3 @@ Cataclysm-DDA experimental build 2026-08-25-2101 (ac02994)
 * Remove all bandits (#88312)
 * Swap serum crash to `character_loses_effect` (#88306)
 * Remove SDL2 support (#88301)
-* Fix precious metals spawn after decharge (#88294)
-* Fix cata-serialize clang-tidy failure on pick_info (#88297)

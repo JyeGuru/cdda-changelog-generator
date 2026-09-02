@@ -1,3 +1,11 @@
+* Reduce camping thread count ([#88425](https://github.com/CleverRaven/Cataclysm-DDA/pull/88425))
+* [Hunvre] Adding Hunvre-specific clothing, part 3: Pants ([#88361](https://github.com/CleverRaven/Cataclysm-DDA/pull/88361))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-01-2347 ([a289119](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-2347))
+
+* Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
 
 ---
 
@@ -162,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-08-26-1911 ([65cc590](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-26-1911))
 
 * [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-25-2101 ([ac02994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-25-2101))
-
 * Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
 * change the prices of ammo or ammo related things ([#88396](https://github.com/CleverRaven/Cataclysm-DDA/pull/88396))
 * Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
@@ -222,5 +225,3 @@
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
 * Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
 * Remove SDL2 support ([#88301](https://github.com/CleverRaven/Cataclysm-DDA/pull/88301))
-* Fix precious metals spawn after decharge ([#88294](https://github.com/CleverRaven/Cataclysm-DDA/pull/88294))
-* Fix cata-serialize clang-tidy failure on pick_info ([#88297](https://github.com/CleverRaven/Cataclysm-DDA/pull/88297))
