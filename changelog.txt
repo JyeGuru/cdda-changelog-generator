@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-09-02-0313 (3f429b1)
+* Don't return early on invalid hunting results, just go to next item (#88496)
 * Reduce camping thread count (#88425)
 * [Hunvre] Adding Hunvre-specific clothing, part 3: Pants (#88361)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2026-08-27-0619 (5b416ea)
 
 Cataclysm-DDA experimental build 2026-08-27-0524 (aba9273)
 * [Xedra Evolved] Add dreamdross scraps to XE border patrol office desks (#88418)
-
-Cataclysm-DDA experimental build 2026-08-26-1911 (65cc590)
 * [Xedra Evolved] Fix Tempered Steel and Changelings (#88421)
 * Weekly Changelog 2026-08-17 to 2026-08-24 (#88407)
 * change the prices of ammo or ammo related things (#88396)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2026-08-26-1911 (65cc590)
 * Change appliance solar panel bolt turning requirement (#88348)
 * Fix TCL trap mapgen error (#88346)
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later (#88344)
-* Clarify extent of contributions covered by the authorship policy (#88298)
 * [Xedra Evolved] Add Strix Skin mutation (#88323)
 * [Bombastic Perks] Small Gunslinger edit (#88322)
 * [Xedra Evolved] Add abyssal coffee alchemy recipe (#88330)
