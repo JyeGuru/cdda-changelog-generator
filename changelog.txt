@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-02-2039 (025ce55)
+* Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters (#88503)
+
 Cataclysm-DDA experimental build 2026-09-02-1644 (1730258)
 * Microwaves are treated as electronics, like induction hotplates (#88485)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA 0.I release candidate 2026-08-28-0220 (b0bc840)
 
 Cataclysm-DDA 0.I release candidate 2026-08-28-0141 (f8914de)
 * 0.I-1 backport: #82497 Fix cannot_cast_message logic (#88440)
-
-Cataclysm-DDA experimental build 2026-08-28-0006 (e729fba)
 * Fix noticing zomborgs somewhat (#88367)
 * Migrate appliance rename popup to ImGui (#88429)
 * Add HIDDEN_SPELL flag to some mod spells (#88427)
@@ -118,7 +119,6 @@ Cataclysm-DDA experimental build 2026-08-28-0006 (e729fba)
 * Remove Mutation Type (#88356)
 * [ Xedra Evolved ] Fix #88311 (#88337)
 * [ Xedra Evolved] Changeling Threshold Achievements (#88338)
-* [MOM] Fixed Ascended Vitakinetic background cost (#88305)
 * [Xedra Evolved] serum duration adjustments (#88331)
 * Various dialogue window fixes/improvements (#88369)
 * Typo Barbecue (#88350)

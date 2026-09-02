@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-02-2039 ([025ce55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-2039))
+
+* Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters ([#88503](https://github.com/CleverRaven/Cataclysm-DDA/pull/88503))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-02-1644 ([1730258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-1644))
 
 * Microwaves are treated as electronics, like induction hotplates ([#88485](https://github.com/CleverRaven/Cataclysm-DDA/pull/88485))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA 0.I release candidate 2026-08-28-0141 ([f8914de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-0141))
 
 * 0.I-1 backport: #82497 Fix cannot_cast_message logic ([#88440](https://github.com/CleverRaven/Cataclysm-DDA/pull/88440))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-28-0006 ([e729fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-0006))
-
 * Fix noticing zomborgs somewhat ([#88367](https://github.com/CleverRaven/Cataclysm-DDA/pull/88367))
 * Migrate appliance rename popup to ImGui ([#88429](https://github.com/CleverRaven/Cataclysm-DDA/pull/88429))
 * Add HIDDEN_SPELL flag to some mod spells ([#88427](https://github.com/CleverRaven/Cataclysm-DDA/pull/88427))
@@ -199,7 +200,6 @@
 * Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
 * [ Xedra Evolved ] Fix #88311 ([#88337](https://github.com/CleverRaven/Cataclysm-DDA/pull/88337))
 * [ Xedra Evolved] Changeling Threshold Achievements ([#88338](https://github.com/CleverRaven/Cataclysm-DDA/pull/88338))
-* [MOM] Fixed Ascended Vitakinetic background cost ([#88305](https://github.com/CleverRaven/Cataclysm-DDA/pull/88305))
 * [Xedra Evolved] serum duration adjustments ([#88331](https://github.com/CleverRaven/Cataclysm-DDA/pull/88331))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
 * Typo Barbecue ([#88350](https://github.com/CleverRaven/Cataclysm-DDA/pull/88350))
