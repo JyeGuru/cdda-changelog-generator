@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-03-0112 ([7302462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-0112))
+
+* Fix clang-tidy CI failures ([#88489](https://github.com/CleverRaven/Cataclysm-DDA/pull/88489))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-02-2039 ([025ce55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-2039))
 
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters ([#88503](https://github.com/CleverRaven/Cataclysm-DDA/pull/88503))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA 0.I release candidate 2026-08-28-0220 ([b0bc840](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-0220))
 
 * 0.I-1 backport #82765: LIXA elevator fixes ([#88439](https://github.com/CleverRaven/Cataclysm-DDA/pull/88439))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-08-28-0141 ([f8914de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-0141))
-
 * 0.I-1 backport: #82497 Fix cannot_cast_message logic ([#88440](https://github.com/CleverRaven/Cataclysm-DDA/pull/88440))
 * Fix noticing zomborgs somewhat ([#88367](https://github.com/CleverRaven/Cataclysm-DDA/pull/88367))
 * Migrate appliance rename popup to ImGui ([#88429](https://github.com/CleverRaven/Cataclysm-DDA/pull/88429))
@@ -224,4 +225,3 @@
 * Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
 * Keep SDL3 shader CI artifacts for a week ([#88316](https://github.com/CleverRaven/Cataclysm-DDA/pull/88316))
 * Remove all bandits ([#88312](https://github.com/CleverRaven/Cataclysm-DDA/pull/88312))
-* Swap serum crash to `character_loses_effect` ([#88306](https://github.com/CleverRaven/Cataclysm-DDA/pull/88306))
