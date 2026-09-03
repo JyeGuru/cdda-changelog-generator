@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-03-0645 ([7e77808](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-0645))
+
 * Weekly Changelog 2026-08-24 to 2026-08-31 ([#88474](https://github.com/CleverRaven/Cataclysm-DDA/pull/88474))
 
 ---
@@ -154,11 +159,6 @@
 
 * Correctly update credits and motd from transifex ([#88447](https://github.com/CleverRaven/Cataclysm-DDA/pull/88447))
 * Retry translation downloads with increasing backoff ([#88448](https://github.com/CleverRaven/Cataclysm-DDA/pull/88448))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-08-28-1951 ([e1ebf5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-1951))
-
 * 0.I-1Backport #85902, #84048: morale inconsistency fixes ([#88449](https://github.com/CleverRaven/Cataclysm-DDA/pull/88449))
 * Fix tentacle foot crash ([#88451](https://github.com/CleverRaven/Cataclysm-DDA/pull/88451))
 * mildly change the text of the light retrieval mission to make it clear you need more gear ([#88434](https://github.com/CleverRaven/Cataclysm-DDA/pull/88434))

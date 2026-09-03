@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-09-03-0645 (7e77808)
 * Weekly Changelog 2026-08-24 to 2026-08-31 (#88474)
 
 Cataclysm-DDA experimental build 2026-09-03-0548 (6653822)
@@ -79,8 +81,6 @@ Cataclysm-DDA 0.I release candidate 2026-08-28-2028 (844f3b9)
 Cataclysm-DDA experimental build 2026-08-28-1955 (6961c2a)
 * Correctly update credits and motd from transifex (#88447)
 * Retry translation downloads with increasing backoff (#88448)
-
-Cataclysm-DDA 0.I release candidate 2026-08-28-1951 (e1ebf5d)
 * 0.I-1Backport #85902, #84048: morale inconsistency fixes (#88449)
 * Fix tentacle foot crash (#88451)
 * mildly change the text of the light retrieval mission to make it clear you need more gear (#88434)
