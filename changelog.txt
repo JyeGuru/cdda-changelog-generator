@@ -1,3 +1,7 @@
+* Weekly Changelog 2026-08-24 to 2026-08-31 (#88474)
+
+Cataclysm-DDA experimental build 2026-09-03-0548 (6653822)
+* Use "any_kale" and "any_cauliflower" in "veggy_any_fresh_uncooked" to allow loose kale and Cauliflower in many recipes (#88487)
 
 Cataclysm-DDA experimental build 2026-09-03-0112 (7302462)
 * Fix clang-tidy CI failures (#88489)
@@ -21,9 +25,6 @@ Cataclysm-DDA experimental build 2026-09-02-0313 (3f429b1)
 
 Cataclysm-DDA experimental build 2026-09-01-2347 (a289119)
 * Add emery boards, found in bathrooms (#88490)
-
-Cataclysm-DDA experimental build 2026-09-01-1735 (0aa50e5)
-* Deliver fetch quest items via truck (#88308)
 
 Cataclysm-DDA experimental build 2026-09-01-1223 (1ec8831)
 * Itemgroup Modernizing: Tools.json (#88471)
@@ -84,8 +85,6 @@ Cataclysm-DDA 0.I release candidate 2026-08-28-1951 (e1ebf5d)
 * Fix tentacle foot crash (#88451)
 * mildly change the text of the light retrieval mission to make it clear you need more gear (#88434)
 * 0.I-1 Backport #83671: manually install gcc 9 on runners as needed (#88438)
-
-Cataclysm-DDA 0.I release candidate 2026-08-28-0220 (b0bc840)
 * 0.I-1 backport #82765: LIXA elevator fixes (#88439)
 * 0.I-1 backport: #82497 Fix cannot_cast_message logic (#88440)
 * Fix noticing zomborgs somewhat (#88367)
@@ -111,7 +110,6 @@ Cataclysm-DDA 0.I release candidate 2026-08-28-0220 (b0bc840)
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons (#88381)
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` (#88394)
 * Update solar.json with solar cell dimensions (#88380)
-* Add serum-specific microlabs (#88309)
 * fix(npcs): clear Liam guard duty when he becomes a follower (#88389)
 * [Magiclysm] Price fix for a single ($50) lore book (#88384)
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre (#88390)

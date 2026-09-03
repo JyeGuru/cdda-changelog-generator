@@ -1,3 +1,10 @@
+* Weekly Changelog 2026-08-24 to 2026-08-31 ([#88474](https://github.com/CleverRaven/Cataclysm-DDA/pull/88474))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-03-0548 ([6653822](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-0548))
+
+* Use "any_kale" and "any_cauliflower" in "veggy_any_fresh_uncooked" to allow loose kale and Cauliflower in many recipes ([#88487](https://github.com/CleverRaven/Cataclysm-DDA/pull/88487))
 
 ---
 
@@ -42,12 +49,6 @@
 #### Cataclysm-DDA experimental build 2026-09-01-2347 ([a289119](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-2347))
 
 * Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-01-1735 ([0aa50e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-1735))
-
-* Deliver fetch quest items via truck ([#88308](https://github.com/CleverRaven/Cataclysm-DDA/pull/88308))
 
 ---
 
@@ -162,11 +163,6 @@
 * Fix tentacle foot crash ([#88451](https://github.com/CleverRaven/Cataclysm-DDA/pull/88451))
 * mildly change the text of the light retrieval mission to make it clear you need more gear ([#88434](https://github.com/CleverRaven/Cataclysm-DDA/pull/88434))
 * 0.I-1 Backport #83671: manually install gcc 9 on runners as needed ([#88438](https://github.com/CleverRaven/Cataclysm-DDA/pull/88438))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-08-28-0220 ([b0bc840](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-08-28-0220))
-
 * 0.I-1 backport #82765: LIXA elevator fixes ([#88439](https://github.com/CleverRaven/Cataclysm-DDA/pull/88439))
 * 0.I-1 backport: #82497 Fix cannot_cast_message logic ([#88440](https://github.com/CleverRaven/Cataclysm-DDA/pull/88440))
 * Fix noticing zomborgs somewhat ([#88367](https://github.com/CleverRaven/Cataclysm-DDA/pull/88367))
@@ -192,7 +188,6 @@
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons ([#88381](https://github.com/CleverRaven/Cataclysm-DDA/pull/88381))
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` ([#88394](https://github.com/CleverRaven/Cataclysm-DDA/pull/88394))
 * Update solar.json with solar cell dimensions ([#88380](https://github.com/CleverRaven/Cataclysm-DDA/pull/88380))
-* Add serum-specific microlabs ([#88309](https://github.com/CleverRaven/Cataclysm-DDA/pull/88309))
 * fix(npcs): clear Liam guard duty when he becomes a follower ([#88389](https://github.com/CleverRaven/Cataclysm-DDA/pull/88389))
 * [Magiclysm] Price fix for a single ($50) lore book ([#88384](https://github.com/CleverRaven/Cataclysm-DDA/pull/88384))
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre ([#88390](https://github.com/CleverRaven/Cataclysm-DDA/pull/88390))
