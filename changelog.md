@@ -1,3 +1,10 @@
+* [MoM] Feral biokinetics can block ([#88475](https://github.com/CleverRaven/Cataclysm-DDA/pull/88475))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-04-0907 ([23706c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0907))
+
+* Document mod_is_loaded ([#88499](https://github.com/CleverRaven/Cataclysm-DDA/pull/88499))
 
 ---
 
@@ -164,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-08-28-2333 ([cfe6af8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-2333))
 
 * remove and migrate obsolete ammo  ([#88400](https://github.com/CleverRaven/Cataclysm-DDA/pull/88400))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-28-2249 ([5a52223](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-2249))
-
 * radiosphere: solar beetles and layout change (second attempt) ([#88426](https://github.com/CleverRaven/Cataclysm-DDA/pull/88426))
 * 0.I-1 backport #84078: Clear activity_var on pickup ([#88441](https://github.com/CleverRaven/Cataclysm-DDA/pull/88441))
 * Correctly update credits and motd from transifex ([#88447](https://github.com/CleverRaven/Cataclysm-DDA/pull/88447))
@@ -222,10 +224,7 @@
 * Add dedicated six-bottle box ([#88353](https://github.com/CleverRaven/Cataclysm-DDA/pull/88353))
 * [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC ([#88345](https://github.com/CleverRaven/Cataclysm-DDA/pull/88345))
 * Flesh-raptors are living beings ([#88352](https://github.com/CleverRaven/Cataclysm-DDA/pull/88352))
-* Add serum 09x-"Anaximander" ([#88321](https://github.com/CleverRaven/Cataclysm-DDA/pull/88321))
 * Change appliance solar panel bolt turning requirement ([#88348](https://github.com/CleverRaven/Cataclysm-DDA/pull/88348))
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later ([#88344](https://github.com/CleverRaven/Cataclysm-DDA/pull/88344))
-* [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
-* [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
 * [Xedra Evolved] Add abyssal coffee alchemy recipe ([#88330](https://github.com/CleverRaven/Cataclysm-DDA/pull/88330))
