@@ -1,3 +1,10 @@
+* Remove graphite from boulders (#88513)
+* Massively expand the amount of food that can be seasoned (#88517)
+
+Cataclysm-DDA experimental build 2026-09-04-1310 (e25e778)
+* Remove outdated warnings from Sky Island's document. (#88518)
+
+Cataclysm-DDA experimental build 2026-09-04-0952 (4683120)
 * [MoM] Feral biokinetics can block (#88475)
 
 Cataclysm-DDA experimental build 2026-09-04-0907 (23706c0)
@@ -52,9 +59,6 @@ Cataclysm-DDA experimental build 2026-09-01-0321 (6f7c4b7)
 
 Cataclysm-DDA experimental build 2026-08-31-1513 (3be7f93)
 * Pompt user when cancelling hauling during auto travel (#88463)
-
-Cataclysm-DDA experimental build 2026-08-31-0530 (f4f0dbd)
-* [Innawoods] Remove charges from the separation funnel recipe. (#88327)
 * docs: fix typo depricated -> deprecated (#88458)
 
 Cataclysm-DDA experimental build 2026-08-31-0423 (392ea1b)
@@ -75,8 +79,6 @@ Cataclysm-DDA experimental build 2026-08-29-2341 (845230c)
 
 Cataclysm-DDA experimental build 2026-08-29-2234 (1c68da3)
 * Monster Blocking Ability (#88443)
-
-Cataclysm-DDA 0.I release candidate 2026-08-29-2214 (6c8efc0)
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses (#88460)
 
 Cataclysm-DDA experimental build 2026-08-29-0503 (c198a62)
@@ -84,8 +86,6 @@ Cataclysm-DDA experimental build 2026-08-29-0503 (c198a62)
 
 Cataclysm-DDA experimental build 2026-08-29-0349 (5fde968)
 * Fix monsters not being slowed by snow (#88454)
-
-Cataclysm-DDA experimental build 2026-08-28-2333 (cfe6af8)
 * remove and migrate obsolete ammo  (#88400)
 * radiosphere: solar beetles and layout change (second attempt) (#88426)
 * 0.I-1 backport #84078: Clear activity_var on pickup (#88441)
@@ -128,7 +128,6 @@ Cataclysm-DDA experimental build 2026-08-28-2333 (cfe6af8)
 * Remove Mutation Type (#88356)
 * [ Xedra Evolved ] Fix #88311 (#88337)
 * [ Xedra Evolved] Changeling Threshold Achievements (#88338)
-* [Xedra Evolved] serum duration adjustments (#88331)
 * Various dialogue window fixes/improvements (#88369)
 * Typo Barbecue (#88350)
 * Fix PR labeller workflow being confused by reruns (#88370)
@@ -143,4 +142,3 @@ Cataclysm-DDA experimental build 2026-08-28-2333 (cfe6af8)
 * Change appliance solar panel bolt turning requirement (#88348)
 * Fix TCL trap mapgen error (#88346)
 * [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later (#88344)
-* [Xedra Evolved] Add abyssal coffee alchemy recipe (#88330)
