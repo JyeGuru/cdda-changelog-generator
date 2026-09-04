@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-04-0423 (3774c98)
+* Stash Tweaks (#88508)
+
 Cataclysm-DDA experimental build 2026-09-04-0020 (8177cd4)
 * make it so you can only remove metal doors with angle grinder or exodii prybar (#88500)
 
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-08-28-2333 (cfe6af8)
 Cataclysm-DDA experimental build 2026-08-28-2249 (5a52223)
 * radiosphere: solar beetles and layout change (second attempt) (#88426)
 * 0.I-1 backport #84078: Clear activity_var on pickup (#88441)
-
-Cataclysm-DDA experimental build 2026-08-28-1955 (6961c2a)
 * Correctly update credits and motd from transifex (#88447)
 * Retry translation downloads with increasing backoff (#88448)
 * 0.I-1Backport #85902, #84048: morale inconsistency fixes (#88449)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-08-28-1955 (6961c2a)
 * [Xedra Evolved] Add Strix Skin mutation (#88323)
 * [Bombastic Perks] Small Gunslinger edit (#88322)
 * [Xedra Evolved] Add abyssal coffee alchemy recipe (#88330)
-* Slime hands is now a bodypart (#88317)

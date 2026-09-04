@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-04-0423 ([3774c98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0423))
+
+* Stash Tweaks ([#88508](https://github.com/CleverRaven/Cataclysm-DDA/pull/88508))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-04-0020 ([8177cd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0020))
 
 * make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
@@ -165,11 +171,6 @@
 
 * radiosphere: solar beetles and layout change (second attempt) ([#88426](https://github.com/CleverRaven/Cataclysm-DDA/pull/88426))
 * 0.I-1 backport #84078: Clear activity_var on pickup ([#88441](https://github.com/CleverRaven/Cataclysm-DDA/pull/88441))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-28-1955 ([6961c2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-28-1955))
-
 * Correctly update credits and motd from transifex ([#88447](https://github.com/CleverRaven/Cataclysm-DDA/pull/88447))
 * Retry translation downloads with increasing backoff ([#88448](https://github.com/CleverRaven/Cataclysm-DDA/pull/88448))
 * 0.I-1Backport #85902, #84048: morale inconsistency fixes ([#88449](https://github.com/CleverRaven/Cataclysm-DDA/pull/88449))
@@ -228,4 +229,3 @@
 * [Xedra Evolved] Add Strix Skin mutation ([#88323](https://github.com/CleverRaven/Cataclysm-DDA/pull/88323))
 * [Bombastic Perks] Small Gunslinger edit ([#88322](https://github.com/CleverRaven/Cataclysm-DDA/pull/88322))
 * [Xedra Evolved] Add abyssal coffee alchemy recipe ([#88330](https://github.com/CleverRaven/Cataclysm-DDA/pull/88330))
-* Slime hands is now a bodypart ([#88317](https://github.com/CleverRaven/Cataclysm-DDA/pull/88317))
