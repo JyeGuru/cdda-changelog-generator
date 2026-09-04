@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-04-1354 ([8e53210](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-1354))
+
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
 * Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
 
@@ -161,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2026-08-29-0503 ([c198a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-0503))
 
 * Add new uncraft recipe for Balthazar's broken turret rifle ([#88431](https://github.com/CleverRaven/Cataclysm-DDA/pull/88431))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-29-0349 ([5fde968](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-0349))
-
 * Fix monsters not being slowed by snow ([#88454](https://github.com/CleverRaven/Cataclysm-DDA/pull/88454))
 * remove and migrate obsolete ammo  ([#88400](https://github.com/CleverRaven/Cataclysm-DDA/pull/88400))
 * radiosphere: solar beetles and layout change (second attempt) ([#88426](https://github.com/CleverRaven/Cataclysm-DDA/pull/88426))
