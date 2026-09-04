@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-04-1715 ([98e4c61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-1715))
+
+* Dimensional anchor blocks teleporting out of the highlands ([#88515](https://github.com/CleverRaven/Cataclysm-DDA/pull/88515))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-04-1354 ([8e53210](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-1354))
 
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
@@ -160,11 +166,6 @@
 
 * Monster Blocking Ability ([#88443](https://github.com/CleverRaven/Cataclysm-DDA/pull/88443))
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-29-0503 ([c198a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-0503))
-
 * Add new uncraft recipe for Balthazar's broken turret rifle ([#88431](https://github.com/CleverRaven/Cataclysm-DDA/pull/88431))
 * Fix monsters not being slowed by snow ([#88454](https://github.com/CleverRaven/Cataclysm-DDA/pull/88454))
 * remove and migrate obsolete ammo  ([#88400](https://github.com/CleverRaven/Cataclysm-DDA/pull/88400))
@@ -195,7 +196,6 @@
 * Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
-* Named the book variants to fix a bug ([#88333](https://github.com/CleverRaven/Cataclysm-DDA/pull/88333))
 * Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
 * Remove Prereqs in Gracken Limbs ([#88349](https://github.com/CleverRaven/Cataclysm-DDA/pull/88349))
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons ([#88381](https://github.com/CleverRaven/Cataclysm-DDA/pull/88381))
