@@ -160,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2026-08-30-0454 ([d40ce25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-0454))
 
 * fix oatmeal and tofu ([#88452](https://github.com/CleverRaven/Cataclysm-DDA/pull/88452))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-29-2341 ([845230c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-2341))
-
 * [ Bombastic Perks ] Flawless Memory is made of flesh ([#88419](https://github.com/CleverRaven/Cataclysm-DDA/pull/88419))
 * Monster Blocking Ability ([#88443](https://github.com/CleverRaven/Cataclysm-DDA/pull/88443))
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
