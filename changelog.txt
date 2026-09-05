@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-09-05-1546 (e373123)
+* Fix O(N^2) performance degradation in form_from_map (#88527)
 * update spellbook view for random flags (#88444)
 
 Cataclysm-DDA experimental build 2026-09-05-0438 (d33b450)
@@ -79,8 +82,6 @@ Cataclysm-DDA experimental build 2026-08-30-2341 (b0af851)
 
 Cataclysm-DDA experimental build 2026-08-30-2256 (f343792)
 * [MOM] Fixed Doomseer starting profession (#88461)
-
-Cataclysm-DDA experimental build 2026-08-30-0454 (d40ce25)
 * fix oatmeal and tofu (#88452)
 * [ Bombastic Perks ] Flawless Memory is made of flesh (#88419)
 * Monster Blocking Ability (#88443)
@@ -134,8 +135,6 @@ Cataclysm-DDA experimental build 2026-08-30-0454 (d40ce25)
 * add additional instructions to json_style about how to run the formatting tool (#88365)
 * Weekly Changelog 2026-08-10 to 2026-08-17 (#88355)
 * Add dedicated six-bottle box (#88353)
-* [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC (#88345)
 * Flesh-raptors are living beings (#88352)
 * Change appliance solar panel bolt turning requirement (#88348)
 * Fix TCL trap mapgen error (#88346)
-* [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later (#88344)

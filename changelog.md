@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-05-1546 ([e373123](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-05-1546))
+
+* Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
 * update spellbook view for random flags ([#88444](https://github.com/CleverRaven/Cataclysm-DDA/pull/88444))
 
 ---
@@ -154,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2026-08-30-2256 ([f343792](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-2256))
 
 * [MOM] Fixed Doomseer starting profession ([#88461](https://github.com/CleverRaven/Cataclysm-DDA/pull/88461))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-30-0454 ([d40ce25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-0454))
-
 * fix oatmeal and tofu ([#88452](https://github.com/CleverRaven/Cataclysm-DDA/pull/88452))
 * [ Bombastic Perks ] Flawless Memory is made of flesh ([#88419](https://github.com/CleverRaven/Cataclysm-DDA/pull/88419))
 * Monster Blocking Ability ([#88443](https://github.com/CleverRaven/Cataclysm-DDA/pull/88443))
@@ -212,8 +213,6 @@
 * add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
 * Weekly Changelog 2026-08-10 to 2026-08-17 ([#88355](https://github.com/CleverRaven/Cataclysm-DDA/pull/88355))
 * Add dedicated six-bottle box ([#88353](https://github.com/CleverRaven/Cataclysm-DDA/pull/88353))
-* [Xedra Evolved] Add `"u_prevent_death"` to the Lilin prevent death EoC ([#88345](https://github.com/CleverRaven/Cataclysm-DDA/pull/88345))
 * Flesh-raptors are living beings ([#88352](https://github.com/CleverRaven/Cataclysm-DDA/pull/88352))
 * Change appliance solar panel bolt turning requirement ([#88348](https://github.com/CleverRaven/Cataclysm-DDA/pull/88348))
 * Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
-* [Xedra Evolved] Lilin can't get as much nourishment from mortal foods later ([#88344](https://github.com/CleverRaven/Cataclysm-DDA/pull/88344))
