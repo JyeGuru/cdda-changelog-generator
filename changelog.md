@@ -1,3 +1,10 @@
+* update spellbook view for random flags ([#88444](https://github.com/CleverRaven/Cataclysm-DDA/pull/88444))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-05-0438 ([d33b450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-05-0438))
+
+* make soymilk recipes and oats consistent ([#88482](https://github.com/CleverRaven/Cataclysm-DDA/pull/88482))
 
 ---
 
@@ -159,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2026-08-29-2341 ([845230c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-2341))
 
 * [ Bombastic Perks ] Flawless Memory is made of flesh ([#88419](https://github.com/CleverRaven/Cataclysm-DDA/pull/88419))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-29-2234 ([1c68da3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-29-2234))
-
 * Monster Blocking Ability ([#88443](https://github.com/CleverRaven/Cataclysm-DDA/pull/88443))
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
 * Add new uncraft recipe for Balthazar's broken turret rifle ([#88431](https://github.com/CleverRaven/Cataclysm-DDA/pull/88431))
@@ -207,8 +209,6 @@
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
 * [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill ([#88364](https://github.com/CleverRaven/Cataclysm-DDA/pull/88364))
 * Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
-* [ Xedra Evolved ] Fix #88311 ([#88337](https://github.com/CleverRaven/Cataclysm-DDA/pull/88337))
-* [ Xedra Evolved] Changeling Threshold Achievements ([#88338](https://github.com/CleverRaven/Cataclysm-DDA/pull/88338))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
 * Typo Barbecue ([#88350](https://github.com/CleverRaven/Cataclysm-DDA/pull/88350))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
