@@ -1,3 +1,13 @@
+* 0.I-1 backport #84364: Fix tools not charging from cars outside reality bubble ([#88543](https://github.com/CleverRaven/Cataclysm-DDA/pull/88543))
+* 0.I-1 backport #84721: [Magiclysm] Fix Giant Growth spam ([#88541](https://github.com/CleverRaven/Cataclysm-DDA/pull/88541))
+* 0.I-1 backport #84632: Fixed calculations in the heating ui and func for items counted by charge ([#88542](https://github.com/CleverRaven/Cataclysm-DDA/pull/88542))
+* 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-09-05-2231 ([89dd356](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-05-2231))
+
+* 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
 
 ---
 
@@ -154,11 +164,6 @@
 
 * Add new portal storm dungeon to HEW system/dialogue and Pat dialogue ([#88437](https://github.com/CleverRaven/Cataclysm-DDA/pull/88437))
 * cattail jelly should not be flammable ([#88453](https://github.com/CleverRaven/Cataclysm-DDA/pull/88453))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-30-2256 ([f343792](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-2256))
-
 * [MOM] Fixed Doomseer starting profession ([#88461](https://github.com/CleverRaven/Cataclysm-DDA/pull/88461))
 * fix oatmeal and tofu ([#88452](https://github.com/CleverRaven/Cataclysm-DDA/pull/88452))
 * [ Bombastic Perks ] Flawless Memory is made of flesh ([#88419](https://github.com/CleverRaven/Cataclysm-DDA/pull/88419))
@@ -195,7 +200,6 @@
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
 * Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
-* Remove Prereqs in Gracken Limbs ([#88349](https://github.com/CleverRaven/Cataclysm-DDA/pull/88349))
 * Add looks_like fallback sprites for Xedra Evolved dreamdross weapons ([#88381](https://github.com/CleverRaven/Cataclysm-DDA/pull/88381))
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` ([#88394](https://github.com/CleverRaven/Cataclysm-DDA/pull/88394))
 * Update solar.json with solar cell dimensions ([#88380](https://github.com/CleverRaven/Cataclysm-DDA/pull/88380))
@@ -206,13 +210,9 @@
 * [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill ([#88364](https://github.com/CleverRaven/Cataclysm-DDA/pull/88364))
 * Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
-* Typo Barbecue ([#88350](https://github.com/CleverRaven/Cataclysm-DDA/pull/88350))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
 * Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
 * add kuutekitty to comment-commands ([#88366](https://github.com/CleverRaven/Cataclysm-DDA/pull/88366))
 * add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
 * Weekly Changelog 2026-08-10 to 2026-08-17 ([#88355](https://github.com/CleverRaven/Cataclysm-DDA/pull/88355))
 * Add dedicated six-bottle box ([#88353](https://github.com/CleverRaven/Cataclysm-DDA/pull/88353))
-* Flesh-raptors are living beings ([#88352](https://github.com/CleverRaven/Cataclysm-DDA/pull/88352))
-* Change appliance solar panel bolt turning requirement ([#88348](https://github.com/CleverRaven/Cataclysm-DDA/pull/88348))
-* Fix TCL trap mapgen error ([#88346](https://github.com/CleverRaven/Cataclysm-DDA/pull/88346))
