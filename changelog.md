@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-06-1938 ([b9054a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1938))
+
+* Fix fang bite testing weight ([#88545](https://github.com/CleverRaven/Cataclysm-DDA/pull/88545))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-06-1715 ([9124ab8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1715))
 
 * [Bombastic Perks] Fix Closetland Paths ([#88549](https://github.com/CleverRaven/Cataclysm-DDA/pull/88549))
@@ -148,7 +154,6 @@
 
 * Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
 * Reduce camping thread count ([#88425](https://github.com/CleverRaven/Cataclysm-DDA/pull/88425))
-* [Hunvre] Adding Hunvre-specific clothing, part 3: Pants ([#88361](https://github.com/CleverRaven/Cataclysm-DDA/pull/88361))
 
 ---
 
@@ -161,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2026-09-01-1223 ([1ec8831](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-1223))
 
 * Itemgroup Modernizing: Tools.json ([#88471](https://github.com/CleverRaven/Cataclysm-DDA/pull/88471))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-01-0321 ([6f7c4b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-0321))
-
 * fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))
 * Pompt user when cancelling hauling during auto travel ([#88463](https://github.com/CleverRaven/Cataclysm-DDA/pull/88463))
 * docs: fix typo depricated -> deprecated ([#88458](https://github.com/CleverRaven/Cataclysm-DDA/pull/88458))

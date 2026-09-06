@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-06-1938 (b9054a1)
+* Fix fang bite testing weight (#88545)
+
 Cataclysm-DDA experimental build 2026-09-06-1715 (9124ab8)
 * [Bombastic Perks] Fix Closetland Paths (#88549)
 
@@ -76,15 +79,12 @@ Cataclysm-DDA experimental build 2026-09-02-1413 (7ec938c)
 Cataclysm-DDA experimental build 2026-09-02-0313 (3f429b1)
 * Don't return early on invalid hunting results, just go to next item (#88496)
 * Reduce camping thread count (#88425)
-* [Hunvre] Adding Hunvre-specific clothing, part 3: Pants (#88361)
 
 Cataclysm-DDA experimental build 2026-09-01-2347 (a289119)
 * Add emery boards, found in bathrooms (#88490)
 
 Cataclysm-DDA experimental build 2026-09-01-1223 (1ec8831)
 * Itemgroup Modernizing: Tools.json (#88471)
-
-Cataclysm-DDA experimental build 2026-09-01-0321 (6f7c4b7)
 * fix(npc): clear guard state when starting to follow (#88483)
 * Pompt user when cancelling hauling during auto travel (#88463)
 * docs: fix typo depricated -> deprecated (#88458)
