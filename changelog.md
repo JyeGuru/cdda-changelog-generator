@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-06-1529 ([96bf647](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1529))
+
+* Optimize finding the best seasoning ([#88550](https://github.com/CleverRaven/Cataclysm-DDA/pull/88550))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-05-2322 ([fd14b1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-05-2322))
 
 * give raccoons night vision like a cat's ([#88535](https://github.com/CleverRaven/Cataclysm-DDA/pull/88535))
@@ -215,4 +221,3 @@
 * Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
 * add kuutekitty to comment-commands ([#88366](https://github.com/CleverRaven/Cataclysm-DDA/pull/88366))
 * add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
-* Weekly Changelog 2026-08-10 to 2026-08-17 ([#88355](https://github.com/CleverRaven/Cataclysm-DDA/pull/88355))

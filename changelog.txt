@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-06-1529 (96bf647)
+* Optimize finding the best seasoning (#88550)
+
 Cataclysm-DDA experimental build 2026-09-05-2322 (fd14b1c)
 * give raccoons night vision like a cat's (#88535)
 
@@ -137,4 +140,3 @@ Cataclysm-DDA experimental build 2026-08-31-1513 (3be7f93)
 * Novice martial artists can keep their glasses (#88368)
 * add kuutekitty to comment-commands (#88366)
 * add additional instructions to json_style about how to run the formatting tool (#88365)
-* Weekly Changelog 2026-08-10 to 2026-08-17 (#88355)
