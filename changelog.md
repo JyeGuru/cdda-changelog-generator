@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-05-2322 ([fd14b1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-05-2322))
+
+* give raccoons night vision like a cat's ([#88535](https://github.com/CleverRaven/Cataclysm-DDA/pull/88535))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-09-05-2307 ([b6d78a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-05-2307))
+
 * 0.I-1 backport #84364: Fix tools not charging from cars outside reality bubble ([#88543](https://github.com/CleverRaven/Cataclysm-DDA/pull/88543))
 * 0.I-1 backport #84721: [Magiclysm] Fix Giant Growth spam ([#88541](https://github.com/CleverRaven/Cataclysm-DDA/pull/88541))
 * 0.I-1 backport #84632: Fixed calculations in the heating ui and func for items counted by charge ([#88542](https://github.com/CleverRaven/Cataclysm-DDA/pull/88542))
@@ -151,17 +162,7 @@
 
 * Pompt user when cancelling hauling during auto travel ([#88463](https://github.com/CleverRaven/Cataclysm-DDA/pull/88463))
 * docs: fix typo depricated -> deprecated ([#88458](https://github.com/CleverRaven/Cataclysm-DDA/pull/88458))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-31-0423 ([392ea1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-31-0423))
-
 * [MoM] Add chance for feral psions in serum microlabs, small adjustment to mutagen microlabs ([#88468](https://github.com/CleverRaven/Cataclysm-DDA/pull/88468))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-30-2341 ([b0af851](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-30-2341))
-
 * Add new portal storm dungeon to HEW system/dialogue and Pat dialogue ([#88437](https://github.com/CleverRaven/Cataclysm-DDA/pull/88437))
 * cattail jelly should not be flammable ([#88453](https://github.com/CleverRaven/Cataclysm-DDA/pull/88453))
 * [MOM] Fixed Doomseer starting profession ([#88461](https://github.com/CleverRaven/Cataclysm-DDA/pull/88461))
@@ -215,4 +216,3 @@
 * add kuutekitty to comment-commands ([#88366](https://github.com/CleverRaven/Cataclysm-DDA/pull/88366))
 * add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
 * Weekly Changelog 2026-08-10 to 2026-08-17 ([#88355](https://github.com/CleverRaven/Cataclysm-DDA/pull/88355))
-* Add dedicated six-bottle box ([#88353](https://github.com/CleverRaven/Cataclysm-DDA/pull/88353))
