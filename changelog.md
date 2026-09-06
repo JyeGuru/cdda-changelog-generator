@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-06-1715 ([9124ab8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1715))
+
+* [Bombastic Perks] Fix Closetland Paths ([#88549](https://github.com/CleverRaven/Cataclysm-DDA/pull/88549))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-06-1529 ([96bf647](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1529))
 
 * Optimize finding the best seasoning ([#88550](https://github.com/CleverRaven/Cataclysm-DDA/pull/88550))
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2026-09-01-0321 ([6f7c4b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-0321))
 
 * fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))
-
----
-
-#### Cataclysm-DDA experimental build 2026-08-31-1513 ([3be7f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-08-31-1513))
-
 * Pompt user when cancelling hauling during auto travel ([#88463](https://github.com/CleverRaven/Cataclysm-DDA/pull/88463))
 * docs: fix typo depricated -> deprecated ([#88458](https://github.com/CleverRaven/Cataclysm-DDA/pull/88458))
 * [MoM] Add chance for feral psions in serum microlabs, small adjustment to mutagen microlabs ([#88468](https://github.com/CleverRaven/Cataclysm-DDA/pull/88468))
@@ -215,7 +216,6 @@
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre ([#88390](https://github.com/CleverRaven/Cataclysm-DDA/pull/88390))
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
 * [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill ([#88364](https://github.com/CleverRaven/Cataclysm-DDA/pull/88364))
-* Remove Mutation Type ([#88356](https://github.com/CleverRaven/Cataclysm-DDA/pull/88356))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
 * Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
