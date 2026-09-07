@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-07-2019 ([dd76191](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-2019))
+
+* Register the item info scroll keybinds in the item action menu ([#88569](https://github.com/CleverRaven/Cataclysm-DDA/pull/88569))
+* fix syrup material ([#88562](https://github.com/CleverRaven/Cataclysm-DDA/pull/88562))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-07-1932 ([c30f779](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-1932))
+
+* fix the sandleather craft ([#88570](https://github.com/CleverRaven/Cataclysm-DDA/pull/88570))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-07-1339 ([5bec0c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-1339))
 
 * Aftershock: Add uplift cryosuits for sale. ([#88523](https://github.com/CleverRaven/Cataclysm-DDA/pull/88523))
@@ -168,11 +181,6 @@
 
 * Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
 * Reduce camping thread count ([#88425](https://github.com/CleverRaven/Cataclysm-DDA/pull/88425))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-01-2347 ([a289119](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-2347))
-
 * Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
 * Itemgroup Modernizing: Tools.json ([#88471](https://github.com/CleverRaven/Cataclysm-DDA/pull/88471))
 * fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))
@@ -223,5 +231,3 @@
 * [Magiclysm] Price fix for a single ($50) lore book ([#88384](https://github.com/CleverRaven/Cataclysm-DDA/pull/88384))
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre ([#88390](https://github.com/CleverRaven/Cataclysm-DDA/pull/88390))
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
-* Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
-* Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))

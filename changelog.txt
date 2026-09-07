@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-09-07-2019 (dd76191)
+* Register the item info scroll keybinds in the item action menu (#88569)
+* fix syrup material (#88562)
+
+Cataclysm-DDA experimental build 2026-09-07-1932 (c30f779)
+* fix the sandleather craft (#88570)
+
 Cataclysm-DDA experimental build 2026-09-07-1339 (5bec0c4)
 * Aftershock: Add uplift cryosuits for sale. (#88523)
 * fix known bad density for dry beans (#88556)
@@ -87,8 +94,6 @@ Cataclysm-DDA experimental build 2026-09-02-1413 (7ec938c)
 Cataclysm-DDA experimental build 2026-09-02-0313 (3f429b1)
 * Don't return early on invalid hunting results, just go to next item (#88496)
 * Reduce camping thread count (#88425)
-
-Cataclysm-DDA experimental build 2026-09-01-2347 (a289119)
 * Add emery boards, found in bathrooms (#88490)
 * Itemgroup Modernizing: Tools.json (#88471)
 * fix(npc): clear guard state when starting to follow (#88483)
@@ -139,5 +144,3 @@ Cataclysm-DDA experimental build 2026-09-01-2347 (a289119)
 * [Magiclysm] Price fix for a single ($50) lore book (#88384)
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre (#88390)
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance (#88382)
-* Various dialogue window fixes/improvements (#88369)
-* Fix PR labeller workflow being confused by reruns (#88370)
