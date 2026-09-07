@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-07-1339 ([5bec0c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-1339))
+
+* Aftershock: Add uplift cryosuits for sale. ([#88523](https://github.com/CleverRaven/Cataclysm-DDA/pull/88523))
+* fix known bad density for dry beans ([#88556](https://github.com/CleverRaven/Cataclysm-DDA/pull/88556))
+* Add material to the integrated ar fake item ([#88560](https://github.com/CleverRaven/Cataclysm-DDA/pull/88560))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-07-1253 ([d990325](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-1253))
+
+* fixes for sugar beets ([#88564](https://github.com/CleverRaven/Cataclysm-DDA/pull/88564))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-06-1938 ([b9054a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1938))
 
 * Fix fang bite testing weight ([#88545](https://github.com/CleverRaven/Cataclysm-DDA/pull/88545))
@@ -160,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-09-01-2347 ([a289119](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-2347))
 
 * Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-01-1223 ([1ec8831](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-01-1223))
-
 * Itemgroup Modernizing: Tools.json ([#88471](https://github.com/CleverRaven/Cataclysm-DDA/pull/88471))
 * fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))
 * Pompt user when cancelling hauling during auto travel ([#88463](https://github.com/CleverRaven/Cataclysm-DDA/pull/88463))
@@ -190,7 +199,6 @@
 * 0.I-1 Backport #83671: manually install gcc 9 on runners as needed ([#88438](https://github.com/CleverRaven/Cataclysm-DDA/pull/88438))
 * 0.I-1 backport #82765: LIXA elevator fixes ([#88439](https://github.com/CleverRaven/Cataclysm-DDA/pull/88439))
 * 0.I-1 backport: #82497 Fix cannot_cast_message logic ([#88440](https://github.com/CleverRaven/Cataclysm-DDA/pull/88440))
-* Fix noticing zomborgs somewhat ([#88367](https://github.com/CleverRaven/Cataclysm-DDA/pull/88367))
 * Migrate appliance rename popup to ImGui ([#88429](https://github.com/CleverRaven/Cataclysm-DDA/pull/88429))
 * Add HIDDEN_SPELL flag to some mod spells ([#88427](https://github.com/CleverRaven/Cataclysm-DDA/pull/88427))
 * [Xedra Evolved] Crossing the threshold as a changeling gives you a worse Iron Allergy ([#88428](https://github.com/CleverRaven/Cataclysm-DDA/pull/88428))
@@ -217,6 +225,3 @@
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
-* Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
-* add kuutekitty to comment-commands ([#88366](https://github.com/CleverRaven/Cataclysm-DDA/pull/88366))
-* add additional instructions to json_style about how to run the formatting tool ([#88365](https://github.com/CleverRaven/Cataclysm-DDA/pull/88365))
