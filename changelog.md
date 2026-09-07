@@ -215,7 +215,6 @@
 * [Magiclysm] Price fix for a single ($50) lore book ([#88384](https://github.com/CleverRaven/Cataclysm-DDA/pull/88384))
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre ([#88390](https://github.com/CleverRaven/Cataclysm-DDA/pull/88390))
 * [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
-* [Xedra Evolved] As you gain more lilin powers, mortals near you are increasingly likely to fall ill ([#88364](https://github.com/CleverRaven/Cataclysm-DDA/pull/88364))
 * Various dialogue window fixes/improvements ([#88369](https://github.com/CleverRaven/Cataclysm-DDA/pull/88369))
 * Fix PR labeller workflow being confused by reruns ([#88370](https://github.com/CleverRaven/Cataclysm-DDA/pull/88370))
 * Novice martial artists can keep their glasses ([#88368](https://github.com/CleverRaven/Cataclysm-DDA/pull/88368))
