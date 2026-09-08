@@ -226,7 +226,6 @@
 * [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
 * Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
 * Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
-* [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance ([#88399](https://github.com/CleverRaven/Cataclysm-DDA/pull/88399))
 * Add category to TALONS_STRIX ([#88411](https://github.com/CleverRaven/Cataclysm-DDA/pull/88411))
 * Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
