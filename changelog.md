@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-08-1515 ([44473d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1515))
+
+* Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-08-1308 ([9020833](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1308))
 
 * Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-09-03-2021 ([e319aac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-2021))
 
 * [Xedra Evolved] Ra'ab gives lilin the `PSYCHOPATH` flag ([#88494](https://github.com/CleverRaven/Cataclysm-DDA/pull/88494))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-03-1447 ([13502eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-1447))
-
 * Swap `req_flag` in martial effects tech effects to `condition` ([#88504](https://github.com/CleverRaven/Cataclysm-DDA/pull/88504))
 * Weekly Changelog 2026-08-24 to 2026-08-31 ([#88474](https://github.com/CleverRaven/Cataclysm-DDA/pull/88474))
 * Use "any_kale" and "any_cauliflower" in "veggy_any_fresh_uncooked" to allow loose kale and Cauliflower in many recipes ([#88487](https://github.com/CleverRaven/Cataclysm-DDA/pull/88487))
@@ -230,4 +231,3 @@
 * Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
-* Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
