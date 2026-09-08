@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-08-0451 (9549716)
+* bean seeds shouldn't weigh 0.224 g/ml (#88576)
+
 Cataclysm-DDA experimental build 2026-09-08-0335 (c507940)
 * add wire from mattress springs (#88572)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2026-09-03-0645 (7e77808)
 
 Cataclysm-DDA experimental build 2026-09-03-0548 (6653822)
 * Use "any_kale" and "any_cauliflower" in "veggy_any_fresh_uncooked" to allow loose kale and Cauliflower in many recipes (#88487)
-
-Cataclysm-DDA experimental build 2026-09-03-0112 (7302462)
 * Fix clang-tidy CI failures (#88489)
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters (#88503)
 * Microwaves are treated as electronics, like induction hotplates (#88485)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2026-09-03-0112 (7302462)
 * Fix building 0.I with VS2026 (#88406)
 * One letter de-deadnaming (#88405)
 * Xedra Evolved CI Fixes (#88398)
-* You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` (#88394)
