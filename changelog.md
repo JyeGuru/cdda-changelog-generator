@@ -1,3 +1,20 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-08-0335 ([c507940](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0335))
+
+* add wire from mattress springs ([#88572](https://github.com/CleverRaven/Cataclysm-DDA/pull/88572))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-08-0248 ([834114c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0248))
+
+* Avoid unnecessary crafting availability checks ([#88554](https://github.com/CleverRaven/Cataclysm-DDA/pull/88554))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-08-0024 ([dcab5d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0024))
+
 * Fixes ore yields in Innawood ([#88528](https://github.com/CleverRaven/Cataclysm-DDA/pull/88528))
 * [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana ([#88565](https://github.com/CleverRaven/Cataclysm-DDA/pull/88565))
 
@@ -165,23 +182,8 @@
 #### Cataclysm-DDA experimental build 2026-09-03-0112 ([7302462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-0112))
 
 * Fix clang-tidy CI failures ([#88489](https://github.com/CleverRaven/Cataclysm-DDA/pull/88489))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-02-2039 ([025ce55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-2039))
-
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters ([#88503](https://github.com/CleverRaven/Cataclysm-DDA/pull/88503))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-02-1644 ([1730258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-1644))
-
 * Microwaves are treated as electronics, like induction hotplates ([#88485](https://github.com/CleverRaven/Cataclysm-DDA/pull/88485))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-02-1458 ([f70cf0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-1458))
-
 * More dialogue fixes ([#88498](https://github.com/CleverRaven/Cataclysm-DDA/pull/88498))
 * [Xedra Evolved] Fix changeling March Lord advancement unlock ([#88492](https://github.com/CleverRaven/Cataclysm-DDA/pull/88492))
 * Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
@@ -222,7 +224,6 @@
 * change the prices of ammo or ammo related things ([#88396](https://github.com/CleverRaven/Cataclysm-DDA/pull/88396))
 * Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
 * [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance ([#88399](https://github.com/CleverRaven/Cataclysm-DDA/pull/88399))
-* { Xedra Evolved ] Only Gracken can use gracken special trophy organs ([#88388](https://github.com/CleverRaven/Cataclysm-DDA/pull/88388))
 * [ Xedra Evolved ] Fix Jotunn notice EOC ([#88395](https://github.com/CleverRaven/Cataclysm-DDA/pull/88395))
 * Add category to TALONS_STRIX ([#88411](https://github.com/CleverRaven/Cataclysm-DDA/pull/88411))
 * Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
@@ -230,5 +231,3 @@
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
 * Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` ([#88394](https://github.com/CleverRaven/Cataclysm-DDA/pull/88394))
-* fix(npcs): clear Liam guard duty when he becomes a follower ([#88389](https://github.com/CleverRaven/Cataclysm-DDA/pull/88389))
-* [Hunvre] Add a bunch of mod incompatibilities with Hunvre ([#88390](https://github.com/CleverRaven/Cataclysm-DDA/pull/88390))
