@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-08-1308 ([9020833](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1308))
+
+* Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-08-1217 ([556901e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1217))
+
+* build(android): generate AAR dependencies from sdl3Aars list ([#88534](https://github.com/CleverRaven/Cataclysm-DDA/pull/88534))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-08-0451 ([9549716](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0451))
 
 * bean seeds shouldn't weigh 0.224 g/ml ([#88576](https://github.com/CleverRaven/Cataclysm-DDA/pull/88576))
@@ -170,17 +182,7 @@
 #### Cataclysm-DDA experimental build 2026-09-03-1447 ([13502eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-1447))
 
 * Swap `req_flag` in martial effects tech effects to `condition` ([#88504](https://github.com/CleverRaven/Cataclysm-DDA/pull/88504))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-03-0645 ([7e77808](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-0645))
-
 * Weekly Changelog 2026-08-24 to 2026-08-31 ([#88474](https://github.com/CleverRaven/Cataclysm-DDA/pull/88474))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-03-0548 ([6653822](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-0548))
-
 * Use "any_kale" and "any_cauliflower" in "veggy_any_fresh_uncooked" to allow loose kale and Cauliflower in many recipes ([#88487](https://github.com/CleverRaven/Cataclysm-DDA/pull/88487))
 * Fix clang-tidy CI failures ([#88489](https://github.com/CleverRaven/Cataclysm-DDA/pull/88489))
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters ([#88503](https://github.com/CleverRaven/Cataclysm-DDA/pull/88503))
@@ -222,10 +224,8 @@
 * [Xedra Evolved] Add dreamdross scraps to XE border patrol office desks ([#88418](https://github.com/CleverRaven/Cataclysm-DDA/pull/88418))
 * [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
 * Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
-* change the prices of ammo or ammo related things ([#88396](https://github.com/CleverRaven/Cataclysm-DDA/pull/88396))
 * Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
 * [ Xedra Evolved ]  Begin moving spell artifact rarity towards desired balance ([#88399](https://github.com/CleverRaven/Cataclysm-DDA/pull/88399))
-* [ Xedra Evolved ] Fix Jotunn notice EOC ([#88395](https://github.com/CleverRaven/Cataclysm-DDA/pull/88395))
 * Add category to TALONS_STRIX ([#88411](https://github.com/CleverRaven/Cataclysm-DDA/pull/88411))
 * Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
