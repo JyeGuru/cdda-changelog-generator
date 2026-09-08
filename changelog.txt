@@ -1,3 +1,12 @@
+* Fixes ore yields in Innawood (#88528)
+* [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana (#88565)
+
+Cataclysm-DDA experimental build 2026-09-07-2339 (a3531da)
+* fix bad density for glowstick (#88574)
+* Will this overmap test time out (#88532)
+
+Cataclysm-DDA experimental build 2026-09-07-2239 (77e3fbf)
+* Monster block message only if player sees it happen (#88533)
 
 Cataclysm-DDA experimental build 2026-09-07-2019 (dd76191)
 * Register the item info scroll keybinds in the item action menu (#88569)
@@ -87,11 +96,7 @@ Cataclysm-DDA experimental build 2026-09-02-1644 (1730258)
 
 Cataclysm-DDA experimental build 2026-09-02-1458 (f70cf0f)
 * More dialogue fixes (#88498)
-
-Cataclysm-DDA experimental build 2026-09-02-1413 (7ec938c)
 * [Xedra Evolved] Fix changeling March Lord advancement unlock (#88492)
-
-Cataclysm-DDA experimental build 2026-09-02-0313 (3f429b1)
 * Don't return early on invalid hunting results, just go to next item (#88496)
 * Reduce camping thread count (#88425)
 * Add emery boards, found in bathrooms (#88490)
@@ -137,10 +142,6 @@ Cataclysm-DDA experimental build 2026-09-02-0313 (3f429b1)
 * Fix building 0.I with VS2026 (#88406)
 * One letter de-deadnaming (#88405)
 * Xedra Evolved CI Fixes (#88398)
-* Add looks_like fallback sprites for Xedra Evolved dreamdross weapons (#88381)
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` (#88394)
-* Update solar.json with solar cell dimensions (#88380)
 * fix(npcs): clear Liam guard duty when he becomes a follower (#88389)
-* [Magiclysm] Price fix for a single ($50) lore book (#88384)
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre (#88390)
-* [Xedra Evolved] Challenge Scenario - Undying Vengeance (#88382)

@@ -1,3 +1,18 @@
+* Fixes ore yields in Innawood ([#88528](https://github.com/CleverRaven/Cataclysm-DDA/pull/88528))
+* [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana ([#88565](https://github.com/CleverRaven/Cataclysm-DDA/pull/88565))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-07-2339 ([a3531da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-2339))
+
+* fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
+* Will this overmap test time out ([#88532](https://github.com/CleverRaven/Cataclysm-DDA/pull/88532))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-07-2239 ([77e3fbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-2239))
+
+* Monster block message only if player sees it happen ([#88533](https://github.com/CleverRaven/Cataclysm-DDA/pull/88533))
 
 ---
 
@@ -168,17 +183,7 @@
 #### Cataclysm-DDA experimental build 2026-09-02-1458 ([f70cf0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-1458))
 
 * More dialogue fixes ([#88498](https://github.com/CleverRaven/Cataclysm-DDA/pull/88498))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-02-1413 ([7ec938c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-1413))
-
 * [Xedra Evolved] Fix changeling March Lord advancement unlock ([#88492](https://github.com/CleverRaven/Cataclysm-DDA/pull/88492))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-02-0313 ([3f429b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-02-0313))
-
 * Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
 * Reduce camping thread count ([#88425](https://github.com/CleverRaven/Cataclysm-DDA/pull/88425))
 * Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
@@ -224,10 +229,6 @@
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
 * One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
 * Xedra Evolved CI Fixes ([#88398](https://github.com/CleverRaven/Cataclysm-DDA/pull/88398))
-* Add looks_like fallback sprites for Xedra Evolved dreamdross weapons ([#88381](https://github.com/CleverRaven/Cataclysm-DDA/pull/88381))
 * You cannot `consume_drugs` if you have `TEMPORARY_SHAPESHIFT_NO_HANDS` ([#88394](https://github.com/CleverRaven/Cataclysm-DDA/pull/88394))
-* Update solar.json with solar cell dimensions ([#88380](https://github.com/CleverRaven/Cataclysm-DDA/pull/88380))
 * fix(npcs): clear Liam guard duty when he becomes a follower ([#88389](https://github.com/CleverRaven/Cataclysm-DDA/pull/88389))
-* [Magiclysm] Price fix for a single ($50) lore book ([#88384](https://github.com/CleverRaven/Cataclysm-DDA/pull/88384))
 * [Hunvre] Add a bunch of mod incompatibilities with Hunvre ([#88390](https://github.com/CleverRaven/Cataclysm-DDA/pull/88390))
-* [Xedra Evolved] Challenge Scenario - Undying Vengeance ([#88382](https://github.com/CleverRaven/Cataclysm-DDA/pull/88382))
