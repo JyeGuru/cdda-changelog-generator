@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-09-1607 ([8877e89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-1607))
+
+* Document attach_molle and detach_molle use actions ([#88587](https://github.com/CleverRaven/Cataclysm-DDA/pull/88587))
+* update lye items and itemgroups ([#88595](https://github.com/CleverRaven/Cataclysm-DDA/pull/88595))
+* fix bedroom_4x4_adult_2_W error ([#88599](https://github.com/CleverRaven/Cataclysm-DDA/pull/88599))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-09-1516 ([de7ba16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-1516))
+
+* Weather can tint sunlight ([#88591](https://github.com/CleverRaven/Cataclysm-DDA/pull/88591))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-09-1426 ([e9cd5cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-1426))
+
+* Fix false supernatural ability availability warning ([#88586](https://github.com/CleverRaven/Cataclysm-DDA/pull/88586))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-09-0352 ([8ed5d0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-0352))
 
 * Decayed zombies also smell horrific ([#88493](https://github.com/CleverRaven/Cataclysm-DDA/pull/88493))
@@ -165,23 +185,8 @@
 #### Cataclysm-DDA experimental build 2026-09-04-1310 ([e25e778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-1310))
 
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-04-0952 ([4683120](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0952))
-
 * [MoM] Feral biokinetics can block ([#88475](https://github.com/CleverRaven/Cataclysm-DDA/pull/88475))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-04-0907 ([23706c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0907))
-
 * Document mod_is_loaded ([#88499](https://github.com/CleverRaven/Cataclysm-DDA/pull/88499))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-04-0423 ([3774c98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0423))
-
 * Stash Tweaks ([#88508](https://github.com/CleverRaven/Cataclysm-DDA/pull/88508))
 * make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
 * [Xedra Evolved] Ra'ab gives lilin the `PSYCHOPATH` flag ([#88494](https://github.com/CleverRaven/Cataclysm-DDA/pull/88494))
@@ -226,7 +231,3 @@
 * [Xedra Evolved] Add achievement for beating the Undying Vengeance challenge ([#88432](https://github.com/CleverRaven/Cataclysm-DDA/pull/88432))
 * [Xedra Evolved] Add dreamdross scraps to XE border patrol office desks ([#88418](https://github.com/CleverRaven/Cataclysm-DDA/pull/88418))
 * [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
-* Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
-* Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
-* Add category to TALONS_STRIX ([#88411](https://github.com/CleverRaven/Cataclysm-DDA/pull/88411))
-* Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
