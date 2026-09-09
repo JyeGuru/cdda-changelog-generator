@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-09-0352 ([8ed5d0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-0352))
+
+* Decayed zombies also smell horrific ([#88493](https://github.com/CleverRaven/Cataclysm-DDA/pull/88493))
+* Add glslang to MSYS2 build dependencies ([#88588](https://github.com/CleverRaven/Cataclysm-DDA/pull/88588))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-09-0249 ([ec4d0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-0249))
 
 * Morale deadening. ([#88488](https://github.com/CleverRaven/Cataclysm-DDA/pull/88488))
@@ -176,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-09-04-0423 ([3774c98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0423))
 
 * Stash Tweaks ([#88508](https://github.com/CleverRaven/Cataclysm-DDA/pull/88508))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-04-0020 ([8177cd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0020))
-
 * make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
 * [Xedra Evolved] Ra'ab gives lilin the `PSYCHOPATH` flag ([#88494](https://github.com/CleverRaven/Cataclysm-DDA/pull/88494))
 * Swap `req_flag` in martial effects tech effects to `condition` ([#88504](https://github.com/CleverRaven/Cataclysm-DDA/pull/88504))
@@ -227,6 +229,4 @@
 * Weekly Changelog 2026-08-17 to 2026-08-24 ([#88407](https://github.com/CleverRaven/Cataclysm-DDA/pull/88407))
 * Add two more special tiles to serum labs ([#88413](https://github.com/CleverRaven/Cataclysm-DDA/pull/88413))
 * Add category to TALONS_STRIX ([#88411](https://github.com/CleverRaven/Cataclysm-DDA/pull/88411))
-* Add "serum ferals" to serum labs ([#88402](https://github.com/CleverRaven/Cataclysm-DDA/pull/88402))
 * Fix building 0.I with VS2026 ([#88406](https://github.com/CleverRaven/Cataclysm-DDA/pull/88406))
-* One letter de-deadnaming ([#88405](https://github.com/CleverRaven/Cataclysm-DDA/pull/88405))
