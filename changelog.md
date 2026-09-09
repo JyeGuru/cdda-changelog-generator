@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-09-0249 ([ec4d0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-0249))
+
+* Morale deadening. ([#88488](https://github.com/CleverRaven/Cataclysm-DDA/pull/88488))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-08-1515 ([44473d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1515))
 
 * Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2026-09-04-0020 ([8177cd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-0020))
 
 * make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-03-2021 ([e319aac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-03-2021))
-
 * [Xedra Evolved] Ra'ab gives lilin the `PSYCHOPATH` flag ([#88494](https://github.com/CleverRaven/Cataclysm-DDA/pull/88494))
 * Swap `req_flag` in martial effects tech effects to `condition` ([#88504](https://github.com/CleverRaven/Cataclysm-DDA/pull/88504))
 * Weekly Changelog 2026-08-24 to 2026-08-31 ([#88474](https://github.com/CleverRaven/Cataclysm-DDA/pull/88474))
@@ -207,7 +208,6 @@
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
 * Add new uncraft recipe for Balthazar's broken turret rifle ([#88431](https://github.com/CleverRaven/Cataclysm-DDA/pull/88431))
 * Fix monsters not being slowed by snow ([#88454](https://github.com/CleverRaven/Cataclysm-DDA/pull/88454))
-* remove and migrate obsolete ammo  ([#88400](https://github.com/CleverRaven/Cataclysm-DDA/pull/88400))
 * radiosphere: solar beetles and layout change (second attempt) ([#88426](https://github.com/CleverRaven/Cataclysm-DDA/pull/88426))
 * 0.I-1 backport #84078: Clear activity_var on pickup ([#88441](https://github.com/CleverRaven/Cataclysm-DDA/pull/88441))
 * Correctly update credits and motd from transifex ([#88447](https://github.com/CleverRaven/Cataclysm-DDA/pull/88447))
