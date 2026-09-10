@@ -1,6 +1,33 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-10-1102 ([7b12388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-1102))
+
+* Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-09-10-0827 ([ae8b56e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-10-0827))
+
+* Fix item info panel scrolling in the item action menu ([#88568](https://github.com/CleverRaven/Cataclysm-DDA/pull/88568))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-10-0946 ([250b15a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-0946))
+
+* make first aid kits ANSI compliant ([#88557](https://github.com/CleverRaven/Cataclysm-DDA/pull/88557))
+* Weekly Changelog 2026-08-31 to 2026-09-07 ([#88566](https://github.com/CleverRaven/Cataclysm-DDA/pull/88566))
+* fix bad density for marloss seeds, berries, gel ([#88573](https://github.com/CleverRaven/Cataclysm-DDA/pull/88573))
+* delete "fruit_div" field for seeds ([#88579](https://github.com/CleverRaven/Cataclysm-DDA/pull/88579))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-10-0823 ([a38f9ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-0823))
+
+* remove skills required from sandleather and change the difficulty to two ([#88585](https://github.com/CleverRaven/Cataclysm-DDA/pull/88585))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-10-0511 ([5cf1a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-0511))
 
 * Aftershock: Vahagn updates ([#88583](https://github.com/CleverRaven/Cataclysm-DDA/pull/88583))
@@ -156,28 +183,13 @@
 #### Cataclysm-DDA experimental build 2026-09-05-2322 ([fd14b1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-05-2322))
 
 * give raccoons night vision like a cat's ([#88535](https://github.com/CleverRaven/Cataclysm-DDA/pull/88535))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-09-05-2307 ([b6d78a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-05-2307))
-
 * 0.I-1 backport #84364: Fix tools not charging from cars outside reality bubble ([#88543](https://github.com/CleverRaven/Cataclysm-DDA/pull/88543))
 * 0.I-1 backport #84721: [Magiclysm] Fix Giant Growth spam ([#88541](https://github.com/CleverRaven/Cataclysm-DDA/pull/88541))
 * 0.I-1 backport #84632: Fixed calculations in the heating ui and func for items counted by charge ([#88542](https://github.com/CleverRaven/Cataclysm-DDA/pull/88542))
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-05-1546 ([e373123](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-05-1546))
-
 * Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
 * update spellbook view for random flags ([#88444](https://github.com/CleverRaven/Cataclysm-DDA/pull/88444))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-05-0438 ([d33b450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-05-0438))
-
 * make soymilk recipes and oats consistent ([#88482](https://github.com/CleverRaven/Cataclysm-DDA/pull/88482))
 * Dimensional anchor blocks teleporting out of the highlands ([#88515](https://github.com/CleverRaven/Cataclysm-DDA/pull/88515))
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
@@ -197,7 +209,6 @@
 * More dialogue fixes ([#88498](https://github.com/CleverRaven/Cataclysm-DDA/pull/88498))
 * [Xedra Evolved] Fix changeling March Lord advancement unlock ([#88492](https://github.com/CleverRaven/Cataclysm-DDA/pull/88492))
 * Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
-* Reduce camping thread count ([#88425](https://github.com/CleverRaven/Cataclysm-DDA/pull/88425))
 * Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
 * Itemgroup Modernizing: Tools.json ([#88471](https://github.com/CleverRaven/Cataclysm-DDA/pull/88471))
 * fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))
@@ -210,9 +221,7 @@
 * fix oatmeal and tofu ([#88452](https://github.com/CleverRaven/Cataclysm-DDA/pull/88452))
 * Monster Blocking Ability ([#88443](https://github.com/CleverRaven/Cataclysm-DDA/pull/88443))
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
-* Add new uncraft recipe for Balthazar's broken turret rifle ([#88431](https://github.com/CleverRaven/Cataclysm-DDA/pull/88431))
 * Fix monsters not being slowed by snow ([#88454](https://github.com/CleverRaven/Cataclysm-DDA/pull/88454))
-* radiosphere: solar beetles and layout change (second attempt) ([#88426](https://github.com/CleverRaven/Cataclysm-DDA/pull/88426))
 * 0.I-1 backport #84078: Clear activity_var on pickup ([#88441](https://github.com/CleverRaven/Cataclysm-DDA/pull/88441))
 * Correctly update credits and motd from transifex ([#88447](https://github.com/CleverRaven/Cataclysm-DDA/pull/88447))
 * Retry translation downloads with increasing backoff ([#88448](https://github.com/CleverRaven/Cataclysm-DDA/pull/88448))
@@ -222,7 +231,3 @@
 * 0.I-1 Backport #83671: manually install gcc 9 on runners as needed ([#88438](https://github.com/CleverRaven/Cataclysm-DDA/pull/88438))
 * 0.I-1 backport #82765: LIXA elevator fixes ([#88439](https://github.com/CleverRaven/Cataclysm-DDA/pull/88439))
 * 0.I-1 backport: #82497 Fix cannot_cast_message logic ([#88440](https://github.com/CleverRaven/Cataclysm-DDA/pull/88440))
-* Migrate appliance rename popup to ImGui ([#88429](https://github.com/CleverRaven/Cataclysm-DDA/pull/88429))
-* Add HIDDEN_SPELL flag to some mod spells ([#88427](https://github.com/CleverRaven/Cataclysm-DDA/pull/88427))
-* [Xedra Evolved] Crossing the threshold as a changeling gives you a worse Iron Allergy ([#88428](https://github.com/CleverRaven/Cataclysm-DDA/pull/88428))
-* [Xedra Evolved] Add achievement for beating the Undying Vengeance challenge ([#88432](https://github.com/CleverRaven/Cataclysm-DDA/pull/88432))
