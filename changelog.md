@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-09-2351 ([19d85af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-2351))
+
+* Suppress spellbook preview learning messages ([#88602](https://github.com/CleverRaven/Cataclysm-DDA/pull/88602))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-09-1607 ([8877e89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-1607))
 
 * Document attach_molle and detach_molle use actions ([#88587](https://github.com/CleverRaven/Cataclysm-DDA/pull/88587))
@@ -179,11 +185,6 @@
 
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
 * Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-04-1310 ([e25e778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-1310))
-
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
 * [MoM] Feral biokinetics can block ([#88475](https://github.com/CleverRaven/Cataclysm-DDA/pull/88475))
 * Document mod_is_loaded ([#88499](https://github.com/CleverRaven/Cataclysm-DDA/pull/88499))
@@ -229,5 +230,4 @@
 * Add HIDDEN_SPELL flag to some mod spells ([#88427](https://github.com/CleverRaven/Cataclysm-DDA/pull/88427))
 * [Xedra Evolved] Crossing the threshold as a changeling gives you a worse Iron Allergy ([#88428](https://github.com/CleverRaven/Cataclysm-DDA/pull/88428))
 * [Xedra Evolved] Add achievement for beating the Undying Vengeance challenge ([#88432](https://github.com/CleverRaven/Cataclysm-DDA/pull/88432))
-* [Xedra Evolved] Add dreamdross scraps to XE border patrol office desks ([#88418](https://github.com/CleverRaven/Cataclysm-DDA/pull/88418))
 * [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
