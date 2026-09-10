@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-10-0511 ([5cf1a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-0511))
+
+* Aftershock: Vahagn updates ([#88583](https://github.com/CleverRaven/Cataclysm-DDA/pull/88583))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-09-10-0333 ([d69a696](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-10-0333))
+
+* 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage ([#88603](https://github.com/CleverRaven/Cataclysm-DDA/pull/88603))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-09-2351 ([19d85af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-2351))
 
 * Suppress spellbook preview learning messages ([#88602](https://github.com/CleverRaven/Cataclysm-DDA/pull/88602))
@@ -153,11 +165,6 @@
 * 0.I-1 backport #84721: [Magiclysm] Fix Giant Growth spam ([#88541](https://github.com/CleverRaven/Cataclysm-DDA/pull/88541))
 * 0.I-1 backport #84632: Fixed calculations in the heating ui and func for items counted by charge ([#88542](https://github.com/CleverRaven/Cataclysm-DDA/pull/88542))
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-09-05-2231 ([89dd356](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-05-2231))
-
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
 
 ---
@@ -172,17 +179,7 @@
 #### Cataclysm-DDA experimental build 2026-09-05-0438 ([d33b450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-05-0438))
 
 * make soymilk recipes and oats consistent ([#88482](https://github.com/CleverRaven/Cataclysm-DDA/pull/88482))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-04-1715 ([98e4c61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-1715))
-
 * Dimensional anchor blocks teleporting out of the highlands ([#88515](https://github.com/CleverRaven/Cataclysm-DDA/pull/88515))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-04-1354 ([8e53210](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-04-1354))
-
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
 * Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
@@ -211,7 +208,6 @@
 * cattail jelly should not be flammable ([#88453](https://github.com/CleverRaven/Cataclysm-DDA/pull/88453))
 * [MOM] Fixed Doomseer starting profession ([#88461](https://github.com/CleverRaven/Cataclysm-DDA/pull/88461))
 * fix oatmeal and tofu ([#88452](https://github.com/CleverRaven/Cataclysm-DDA/pull/88452))
-* [ Bombastic Perks ] Flawless Memory is made of flesh ([#88419](https://github.com/CleverRaven/Cataclysm-DDA/pull/88419))
 * Monster Blocking Ability ([#88443](https://github.com/CleverRaven/Cataclysm-DDA/pull/88443))
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
 * Add new uncraft recipe for Balthazar's broken turret rifle ([#88431](https://github.com/CleverRaven/Cataclysm-DDA/pull/88431))
@@ -230,4 +226,3 @@
 * Add HIDDEN_SPELL flag to some mod spells ([#88427](https://github.com/CleverRaven/Cataclysm-DDA/pull/88427))
 * [Xedra Evolved] Crossing the threshold as a changeling gives you a worse Iron Allergy ([#88428](https://github.com/CleverRaven/Cataclysm-DDA/pull/88428))
 * [Xedra Evolved] Add achievement for beating the Undying Vengeance challenge ([#88432](https://github.com/CleverRaven/Cataclysm-DDA/pull/88432))
-* [Xedra Evolved] Fix Tempered Steel and Changelings ([#88421](https://github.com/CleverRaven/Cataclysm-DDA/pull/88421))
