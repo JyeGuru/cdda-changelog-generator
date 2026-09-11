@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2026-09-11-1600 (443ceae)
+* Extract character creation stat prompts (#88521)
+* Extract translatable JSON strings (#88516)
+
 Cataclysm-DDA experimental build 2026-09-11-0546 (3daec25)
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying (#88619)
 * Aftershock: Replace field with glacial fields for spriting purposes. (#88472)
@@ -90,8 +94,6 @@ Cataclysm-DDA experimental build 2026-09-08-0024 (dcab5d3)
 Cataclysm-DDA experimental build 2026-09-07-2339 (a3531da)
 * fix bad density for glowstick (#88574)
 * Will this overmap test time out (#88532)
-
-Cataclysm-DDA experimental build 2026-09-07-2239 (77e3fbf)
 * Monster block message only if player sees it happen (#88533)
 * Register the item info scroll keybinds in the item action menu (#88569)
 * fix syrup material (#88562)
@@ -137,4 +139,3 @@ Cataclysm-DDA experimental build 2026-09-07-2239 (77e3fbf)
 * [MoM] Add chance for feral psions in serum microlabs, small adjustment to mutagen microlabs (#88468)
 * [MOM] Fixed Doomseer starting profession (#88461)
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses (#88460)
-* Fix monsters not being slowed by snow (#88454)

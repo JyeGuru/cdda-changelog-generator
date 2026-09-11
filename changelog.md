@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-11-1600 ([443ceae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-1600))
+
+* Extract character creation stat prompts ([#88521](https://github.com/CleverRaven/Cataclysm-DDA/pull/88521))
+* Extract translatable JSON strings ([#88516](https://github.com/CleverRaven/Cataclysm-DDA/pull/88516))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-11-0546 ([3daec25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0546))
 
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
@@ -168,11 +175,6 @@
 
 * fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
 * Will this overmap test time out ([#88532](https://github.com/CleverRaven/Cataclysm-DDA/pull/88532))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-07-2239 ([77e3fbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-2239))
-
 * Monster block message only if player sees it happen ([#88533](https://github.com/CleverRaven/Cataclysm-DDA/pull/88533))
 * Register the item info scroll keybinds in the item action menu ([#88569](https://github.com/CleverRaven/Cataclysm-DDA/pull/88569))
 * fix syrup material ([#88562](https://github.com/CleverRaven/Cataclysm-DDA/pull/88562))
@@ -218,4 +220,3 @@
 * [MoM] Add chance for feral psions in serum microlabs, small adjustment to mutagen microlabs ([#88468](https://github.com/CleverRaven/Cataclysm-DDA/pull/88468))
 * [MOM] Fixed Doomseer starting profession ([#88461](https://github.com/CleverRaven/Cataclysm-DDA/pull/88461))
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
-* Fix monsters not being slowed by snow ([#88454](https://github.com/CleverRaven/Cataclysm-DDA/pull/88454))
