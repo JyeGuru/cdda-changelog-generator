@@ -1,3 +1,20 @@
+* remove gobag from all mapgen ([#88636](https://github.com/CleverRaven/Cataclysm-DDA/pull/88636))
+* fix bad density for cracklins ([#88627](https://github.com/CleverRaven/Cataclysm-DDA/pull/88627))
+* restore personal_gobag for National Guardsman start ([#88637](https://github.com/CleverRaven/Cataclysm-DDA/pull/88637))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-11-2305 ([28f3e88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-2305))
+
+* fix bad density for bacon_uncut ([#88628](https://github.com/CleverRaven/Cataclysm-DDA/pull/88628))
+* halve hellfire stew recipe batch size ([#88631](https://github.com/CleverRaven/Cataclysm-DDA/pull/88631))
+* remove redundant offal fields ([#88629](https://github.com/CleverRaven/Cataclysm-DDA/pull/88629))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-11-2207 ([3acd573](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-2207))
+
+* doc: fix batch time typo ([#88632](https://github.com/CleverRaven/Cataclysm-DDA/pull/88632))
 
 ---
 
@@ -161,18 +178,8 @@
 #### Cataclysm-DDA experimental build 2026-09-08-0248 ([834114c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0248))
 
 * Avoid unnecessary crafting availability checks ([#88554](https://github.com/CleverRaven/Cataclysm-DDA/pull/88554))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-08-0024 ([dcab5d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0024))
-
 * Fixes ore yields in Innawood ([#88528](https://github.com/CleverRaven/Cataclysm-DDA/pull/88528))
 * [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana ([#88565](https://github.com/CleverRaven/Cataclysm-DDA/pull/88565))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-07-2339 ([a3531da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-2339))
-
 * fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
 * Will this overmap test time out ([#88532](https://github.com/CleverRaven/Cataclysm-DDA/pull/88532))
 * Monster block message only if player sees it happen ([#88533](https://github.com/CleverRaven/Cataclysm-DDA/pull/88533))
@@ -215,8 +222,3 @@
 * Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
 * Itemgroup Modernizing: Tools.json ([#88471](https://github.com/CleverRaven/Cataclysm-DDA/pull/88471))
 * fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))
-* Pompt user when cancelling hauling during auto travel ([#88463](https://github.com/CleverRaven/Cataclysm-DDA/pull/88463))
-* docs: fix typo depricated -> deprecated ([#88458](https://github.com/CleverRaven/Cataclysm-DDA/pull/88458))
-* [MoM] Add chance for feral psions in serum microlabs, small adjustment to mutagen microlabs ([#88468](https://github.com/CleverRaven/Cataclysm-DDA/pull/88468))
-* [MOM] Fixed Doomseer starting profession ([#88461](https://github.com/CleverRaven/Cataclysm-DDA/pull/88461))
-* 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
