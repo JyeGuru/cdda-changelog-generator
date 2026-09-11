@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-11-0017 ([0e2b0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0017))
+
+* fix volumes of raw meats ([#88578](https://github.com/CleverRaven/Cataclysm-DDA/pull/88578))
+* Scoot Scarlet Sea JSON into their own files ([#88617](https://github.com/CleverRaven/Cataclysm-DDA/pull/88617))
+* A storms a brewin - the scarlet storm ([#88615](https://github.com/CleverRaven/Cataclysm-DDA/pull/88615))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-10-2340 ([8972709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-2340))
+
+* [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-10-1752 ([1a986b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-1752))
 
 * add handaxes to hardware store spawns ([#88509](https://github.com/CleverRaven/Cataclysm-DDA/pull/88509))
@@ -171,17 +185,7 @@
 #### Cataclysm-DDA experimental build 2026-09-06-1938 ([b9054a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1938))
 
 * Fix fang bite testing weight ([#88545](https://github.com/CleverRaven/Cataclysm-DDA/pull/88545))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-06-1715 ([9124ab8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1715))
-
 * [Bombastic Perks] Fix Closetland Paths ([#88549](https://github.com/CleverRaven/Cataclysm-DDA/pull/88549))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-06-1529 ([96bf647](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1529))
-
 * Optimize finding the best seasoning ([#88550](https://github.com/CleverRaven/Cataclysm-DDA/pull/88550))
 * give raccoons night vision like a cat's ([#88535](https://github.com/CleverRaven/Cataclysm-DDA/pull/88535))
 * 0.I-1 backport #84364: Fix tools not charging from cars outside reality bubble ([#88543](https://github.com/CleverRaven/Cataclysm-DDA/pull/88543))
@@ -219,13 +223,9 @@
 * cattail jelly should not be flammable ([#88453](https://github.com/CleverRaven/Cataclysm-DDA/pull/88453))
 * [MOM] Fixed Doomseer starting profession ([#88461](https://github.com/CleverRaven/Cataclysm-DDA/pull/88461))
 * fix oatmeal and tofu ([#88452](https://github.com/CleverRaven/Cataclysm-DDA/pull/88452))
-* Monster Blocking Ability ([#88443](https://github.com/CleverRaven/Cataclysm-DDA/pull/88443))
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
 * Fix monsters not being slowed by snow ([#88454](https://github.com/CleverRaven/Cataclysm-DDA/pull/88454))
-* 0.I-1 backport #84078: Clear activity_var on pickup ([#88441](https://github.com/CleverRaven/Cataclysm-DDA/pull/88441))
 * Correctly update credits and motd from transifex ([#88447](https://github.com/CleverRaven/Cataclysm-DDA/pull/88447))
 * Retry translation downloads with increasing backoff ([#88448](https://github.com/CleverRaven/Cataclysm-DDA/pull/88448))
 * 0.I-1Backport #85902, #84048: morale inconsistency fixes ([#88449](https://github.com/CleverRaven/Cataclysm-DDA/pull/88449))
 * Fix tentacle foot crash ([#88451](https://github.com/CleverRaven/Cataclysm-DDA/pull/88451))
-* 0.I-1 backport #82765: LIXA elevator fixes ([#88439](https://github.com/CleverRaven/Cataclysm-DDA/pull/88439))
-* 0.I-1 backport: #82497 Fix cannot_cast_message logic ([#88440](https://github.com/CleverRaven/Cataclysm-DDA/pull/88440))
