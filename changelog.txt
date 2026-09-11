@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-09-11-0546 (3daec25)
+* [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying (#88619)
+* Aftershock: Replace field with glacial fields for spriting purposes. (#88472)
+* fix bleach ratio for water purification (#88512)
+* Filter masks block `nauseating stench` (#88620)
+
 Cataclysm-DDA experimental build 2026-09-11-0222 (05fc9e5)
 * [Hunvre] Adding Hunvre-specific clothing, part 4: Shirts and sweatshirts (#88601)
 
@@ -87,15 +93,9 @@ Cataclysm-DDA experimental build 2026-09-07-2339 (a3531da)
 
 Cataclysm-DDA experimental build 2026-09-07-2239 (77e3fbf)
 * Monster block message only if player sees it happen (#88533)
-
-Cataclysm-DDA experimental build 2026-09-07-2019 (dd76191)
 * Register the item info scroll keybinds in the item action menu (#88569)
 * fix syrup material (#88562)
-
-Cataclysm-DDA experimental build 2026-09-07-1932 (c30f779)
 * fix the sandleather craft (#88570)
-
-Cataclysm-DDA experimental build 2026-09-07-1339 (5bec0c4)
 * Aftershock: Add uplift cryosuits for sale. (#88523)
 * fix known bad density for dry beans (#88556)
 * Add material to the integrated ar fake item (#88560)
@@ -135,10 +135,6 @@ Cataclysm-DDA experimental build 2026-09-07-1339 (5bec0c4)
 * Pompt user when cancelling hauling during auto travel (#88463)
 * docs: fix typo depricated -> deprecated (#88458)
 * [MoM] Add chance for feral psions in serum microlabs, small adjustment to mutagen microlabs (#88468)
-* cattail jelly should not be flammable (#88453)
 * [MOM] Fixed Doomseer starting profession (#88461)
-* fix oatmeal and tofu (#88452)
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses (#88460)
 * Fix monsters not being slowed by snow (#88454)
-* 0.I-1Backport #85902, #84048: morale inconsistency fixes (#88449)
-* Fix tentacle foot crash (#88451)
