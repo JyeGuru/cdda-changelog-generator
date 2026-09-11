@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-11-0222 ([05fc9e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0222))
+
+* [Hunvre] Adding Hunvre-specific clothing, part 4: Shirts and sweatshirts ([#88601](https://github.com/CleverRaven/Cataclysm-DDA/pull/88601))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-11-0101 ([d88e3da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0101))
+
+* Fix GCC 16 warnings in multiple source files ([#88613](https://github.com/CleverRaven/Cataclysm-DDA/pull/88613))
+* Remove faults from red "mp3 player" ([#88618](https://github.com/CleverRaven/Cataclysm-DDA/pull/88618))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-11-0017 ([0e2b0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0017))
 
 * fix volumes of raw meats ([#88578](https://github.com/CleverRaven/Cataclysm-DDA/pull/88578))
@@ -173,17 +186,7 @@
 * Aftershock: Add uplift cryosuits for sale. ([#88523](https://github.com/CleverRaven/Cataclysm-DDA/pull/88523))
 * fix known bad density for dry beans ([#88556](https://github.com/CleverRaven/Cataclysm-DDA/pull/88556))
 * Add material to the integrated ar fake item ([#88560](https://github.com/CleverRaven/Cataclysm-DDA/pull/88560))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-07-1253 ([d990325](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-07-1253))
-
 * fixes for sugar beets ([#88564](https://github.com/CleverRaven/Cataclysm-DDA/pull/88564))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-06-1938 ([b9054a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-06-1938))
-
 * Fix fang bite testing weight ([#88545](https://github.com/CleverRaven/Cataclysm-DDA/pull/88545))
 * [Bombastic Perks] Fix Closetland Paths ([#88549](https://github.com/CleverRaven/Cataclysm-DDA/pull/88549))
 * Optimize finding the best seasoning ([#88550](https://github.com/CleverRaven/Cataclysm-DDA/pull/88550))
@@ -194,7 +197,6 @@
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
 * Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
-* update spellbook view for random flags ([#88444](https://github.com/CleverRaven/Cataclysm-DDA/pull/88444))
 * make soymilk recipes and oats consistent ([#88482](https://github.com/CleverRaven/Cataclysm-DDA/pull/88482))
 * Dimensional anchor blocks teleporting out of the highlands ([#88515](https://github.com/CleverRaven/Cataclysm-DDA/pull/88515))
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
@@ -225,7 +227,5 @@
 * fix oatmeal and tofu ([#88452](https://github.com/CleverRaven/Cataclysm-DDA/pull/88452))
 * 0.I-1 backport #85340: fix 100% CPU usage with ncurses ([#88460](https://github.com/CleverRaven/Cataclysm-DDA/pull/88460))
 * Fix monsters not being slowed by snow ([#88454](https://github.com/CleverRaven/Cataclysm-DDA/pull/88454))
-* Correctly update credits and motd from transifex ([#88447](https://github.com/CleverRaven/Cataclysm-DDA/pull/88447))
-* Retry translation downloads with increasing backoff ([#88448](https://github.com/CleverRaven/Cataclysm-DDA/pull/88448))
 * 0.I-1Backport #85902, #84048: morale inconsistency fixes ([#88449](https://github.com/CleverRaven/Cataclysm-DDA/pull/88449))
 * Fix tentacle foot crash ([#88451](https://github.com/CleverRaven/Cataclysm-DDA/pull/88451))
