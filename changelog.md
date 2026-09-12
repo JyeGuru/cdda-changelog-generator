@@ -1,3 +1,11 @@
+* Reserve the tile an unattended craft sits on ([#88559](https://github.com/CleverRaven/Cataclysm-DDA/pull/88559))
+* Move NPC spawntime to region settings ([#88551](https://github.com/CleverRaven/Cataclysm-DDA/pull/88551))
+* Dialogue portraits for realsies ([#88592](https://github.com/CleverRaven/Cataclysm-DDA/pull/88592))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-12-1428 ([1d45f41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-1428))
+
 * [XE] Dreamer checks against base morale ([#88622](https://github.com/CleverRaven/Cataclysm-DDA/pull/88622))
 * fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
 
@@ -159,19 +167,8 @@
 #### Cataclysm-DDA experimental build 2026-09-09-1426 ([e9cd5cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-1426))
 
 * Fix false supernatural ability availability warning ([#88586](https://github.com/CleverRaven/Cataclysm-DDA/pull/88586))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-09-0352 ([8ed5d0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-0352))
-
 * Decayed zombies also smell horrific ([#88493](https://github.com/CleverRaven/Cataclysm-DDA/pull/88493))
 * Add glslang to MSYS2 build dependencies ([#88588](https://github.com/CleverRaven/Cataclysm-DDA/pull/88588))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-09-0249 ([ec4d0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-0249))
-
-* Morale deadening. ([#88488](https://github.com/CleverRaven/Cataclysm-DDA/pull/88488))
 * Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
 * Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
 * build(android): generate AAR dependencies from sdl3Aars list ([#88534](https://github.com/CleverRaven/Cataclysm-DDA/pull/88534))
@@ -209,12 +206,9 @@
 * make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
 * [Xedra Evolved] Ra'ab gives lilin the `PSYCHOPATH` flag ([#88494](https://github.com/CleverRaven/Cataclysm-DDA/pull/88494))
 * Swap `req_flag` in martial effects tech effects to `condition` ([#88504](https://github.com/CleverRaven/Cataclysm-DDA/pull/88504))
-* Use "any_kale" and "any_cauliflower" in "veggy_any_fresh_uncooked" to allow loose kale and Cauliflower in many recipes ([#88487](https://github.com/CleverRaven/Cataclysm-DDA/pull/88487))
 * Fix clang-tidy CI failures ([#88489](https://github.com/CleverRaven/Cataclysm-DDA/pull/88489))
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters ([#88503](https://github.com/CleverRaven/Cataclysm-DDA/pull/88503))
-* Microwaves are treated as electronics, like induction hotplates ([#88485](https://github.com/CleverRaven/Cataclysm-DDA/pull/88485))
 * More dialogue fixes ([#88498](https://github.com/CleverRaven/Cataclysm-DDA/pull/88498))
 * [Xedra Evolved] Fix changeling March Lord advancement unlock ([#88492](https://github.com/CleverRaven/Cataclysm-DDA/pull/88492))
 * Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
 * Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
-* fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))
