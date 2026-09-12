@@ -1,3 +1,11 @@
+* [XE] Dreamer checks against base morale ([#88622](https://github.com/CleverRaven/Cataclysm-DDA/pull/88622))
+* fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-12-1321 ([3abcd45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-1321))
+
+* remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
 
 ---
 
@@ -164,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-09-09-0249 ([ec4d0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-0249))
 
 * Morale deadening. ([#88488](https://github.com/CleverRaven/Cataclysm-DDA/pull/88488))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-08-1515 ([44473d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1515))
-
 * Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
 * Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
 * build(android): generate AAR dependencies from sdl3Aars list ([#88534](https://github.com/CleverRaven/Cataclysm-DDA/pull/88534))
@@ -197,12 +200,10 @@
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
 * Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
-* make soymilk recipes and oats consistent ([#88482](https://github.com/CleverRaven/Cataclysm-DDA/pull/88482))
 * Dimensional anchor blocks teleporting out of the highlands ([#88515](https://github.com/CleverRaven/Cataclysm-DDA/pull/88515))
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
 * Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
-* [MoM] Feral biokinetics can block ([#88475](https://github.com/CleverRaven/Cataclysm-DDA/pull/88475))
 * Document mod_is_loaded ([#88499](https://github.com/CleverRaven/Cataclysm-DDA/pull/88499))
 * Stash Tweaks ([#88508](https://github.com/CleverRaven/Cataclysm-DDA/pull/88508))
 * make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
