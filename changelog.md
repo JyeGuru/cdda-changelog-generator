@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-12-1950 ([9a34cde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-1950))
+
+* Fix bp_null debugmsg on character encumbrance panel ([#88519](https://github.com/CleverRaven/Cataclysm-DDA/pull/88519))
 * Reserve the tile an unattended craft sits on ([#88559](https://github.com/CleverRaven/Cataclysm-DDA/pull/88559))
 * Move NPC spawntime to region settings ([#88551](https://github.com/CleverRaven/Cataclysm-DDA/pull/88551))
 * Dialogue portraits for realsies ([#88592](https://github.com/CleverRaven/Cataclysm-DDA/pull/88592))
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2026-09-09-1516 ([de7ba16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-1516))
 
 * Weather can tint sunlight ([#88591](https://github.com/CleverRaven/Cataclysm-DDA/pull/88591))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-09-1426 ([e9cd5cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-09-1426))
-
 * Fix false supernatural ability availability warning ([#88586](https://github.com/CleverRaven/Cataclysm-DDA/pull/88586))
 * Decayed zombies also smell horrific ([#88493](https://github.com/CleverRaven/Cataclysm-DDA/pull/88493))
 * Add glslang to MSYS2 build dependencies ([#88588](https://github.com/CleverRaven/Cataclysm-DDA/pull/88588))
@@ -206,7 +207,6 @@
 * make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
 * [Xedra Evolved] Ra'ab gives lilin the `PSYCHOPATH` flag ([#88494](https://github.com/CleverRaven/Cataclysm-DDA/pull/88494))
 * Swap `req_flag` in martial effects tech effects to `condition` ([#88504](https://github.com/CleverRaven/Cataclysm-DDA/pull/88504))
-* Fix clang-tidy CI failures ([#88489](https://github.com/CleverRaven/Cataclysm-DDA/pull/88489))
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters ([#88503](https://github.com/CleverRaven/Cataclysm-DDA/pull/88503))
 * More dialogue fixes ([#88498](https://github.com/CleverRaven/Cataclysm-DDA/pull/88498))
 * [Xedra Evolved] Fix changeling March Lord advancement unlock ([#88492](https://github.com/CleverRaven/Cataclysm-DDA/pull/88492))
