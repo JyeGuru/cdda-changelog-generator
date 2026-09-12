@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-12-0342 ([29a9f46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-0342))
+
+* delete 1st_aid references ([#88635](https://github.com/CleverRaven/Cataclysm-DDA/pull/88635))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-12-0136 ([97a0cee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-0136))
+
 * Add action flags to guns ([#88624](https://github.com/CleverRaven/Cataclysm-DDA/pull/88624))
 
 ---
@@ -159,23 +170,8 @@
 #### Cataclysm-DDA experimental build 2026-09-08-1515 ([44473d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1515))
 
 * Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-08-1308 ([9020833](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1308))
-
 * Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-08-1217 ([556901e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-1217))
-
 * build(android): generate AAR dependencies from sdl3Aars list ([#88534](https://github.com/CleverRaven/Cataclysm-DDA/pull/88534))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-08-0451 ([9549716](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0451))
-
 * bean seeds shouldn't weigh 0.224 g/ml ([#88576](https://github.com/CleverRaven/Cataclysm-DDA/pull/88576))
 * add wire from mattress springs ([#88572](https://github.com/CleverRaven/Cataclysm-DDA/pull/88572))
 * Avoid unnecessary crafting availability checks ([#88554](https://github.com/CleverRaven/Cataclysm-DDA/pull/88554))
@@ -212,7 +208,6 @@
 * make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
 * [Xedra Evolved] Ra'ab gives lilin the `PSYCHOPATH` flag ([#88494](https://github.com/CleverRaven/Cataclysm-DDA/pull/88494))
 * Swap `req_flag` in martial effects tech effects to `condition` ([#88504](https://github.com/CleverRaven/Cataclysm-DDA/pull/88504))
-* Weekly Changelog 2026-08-24 to 2026-08-31 ([#88474](https://github.com/CleverRaven/Cataclysm-DDA/pull/88474))
 * Use "any_kale" and "any_cauliflower" in "veggy_any_fresh_uncooked" to allow loose kale and Cauliflower in many recipes ([#88487](https://github.com/CleverRaven/Cataclysm-DDA/pull/88487))
 * Fix clang-tidy CI failures ([#88489](https://github.com/CleverRaven/Cataclysm-DDA/pull/88489))
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters ([#88503](https://github.com/CleverRaven/Cataclysm-DDA/pull/88503))
