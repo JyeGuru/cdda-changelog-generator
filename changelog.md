@@ -1,3 +1,15 @@
+* Add action flags to guns ([#88624](https://github.com/CleverRaven/Cataclysm-DDA/pull/88624))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-12-0051 ([87b42e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-0051))
+
+* Various updates to anomalous mp3 player ([#88626](https://github.com/CleverRaven/Cataclysm-DDA/pull/88626))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-11-2343 ([4690701](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-2343))
+
 * remove gobag from all mapgen ([#88636](https://github.com/CleverRaven/Cataclysm-DDA/pull/88636))
 * fix bad density for cracklins ([#88627](https://github.com/CleverRaven/Cataclysm-DDA/pull/88627))
 * restore personal_gobag for National Guardsman start ([#88637](https://github.com/CleverRaven/Cataclysm-DDA/pull/88637))
@@ -28,7 +40,6 @@
 #### Cataclysm-DDA experimental build 2026-09-11-0546 ([3daec25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0546))
 
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
-* Aftershock: Replace field with glacial fields for spriting purposes. ([#88472](https://github.com/CleverRaven/Cataclysm-DDA/pull/88472))
 * fix bleach ratio for water purification ([#88512](https://github.com/CleverRaven/Cataclysm-DDA/pull/88512))
 * Filter masks block `nauseating stench` ([#88620](https://github.com/CleverRaven/Cataclysm-DDA/pull/88620))
 
@@ -166,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-09-08-0451 ([9549716](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0451))
 
 * bean seeds shouldn't weigh 0.224 g/ml ([#88576](https://github.com/CleverRaven/Cataclysm-DDA/pull/88576))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-08-0335 ([c507940](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0335))
-
 * add wire from mattress springs ([#88572](https://github.com/CleverRaven/Cataclysm-DDA/pull/88572))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-08-0248 ([834114c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-08-0248))
-
 * Avoid unnecessary crafting availability checks ([#88554](https://github.com/CleverRaven/Cataclysm-DDA/pull/88554))
 * Fixes ore yields in Innawood ([#88528](https://github.com/CleverRaven/Cataclysm-DDA/pull/88528))
 * [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana ([#88565](https://github.com/CleverRaven/Cataclysm-DDA/pull/88565))
@@ -220,5 +221,4 @@
 * [Xedra Evolved] Fix changeling March Lord advancement unlock ([#88492](https://github.com/CleverRaven/Cataclysm-DDA/pull/88492))
 * Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
 * Add emery boards, found in bathrooms ([#88490](https://github.com/CleverRaven/Cataclysm-DDA/pull/88490))
-* Itemgroup Modernizing: Tools.json ([#88471](https://github.com/CleverRaven/Cataclysm-DDA/pull/88471))
 * fix(npc): clear guard state when starting to follow ([#88483](https://github.com/CleverRaven/Cataclysm-DDA/pull/88483))

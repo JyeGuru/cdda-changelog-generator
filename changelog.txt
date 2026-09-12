@@ -1,3 +1,9 @@
+* Add action flags to guns (#88624)
+
+Cataclysm-DDA experimental build 2026-09-12-0051 (87b42e6)
+* Various updates to anomalous mp3 player (#88626)
+
+Cataclysm-DDA experimental build 2026-09-11-2343 (4690701)
 * remove gobag from all mapgen (#88636)
 * fix bad density for cracklins (#88627)
 * restore personal_gobag for National Guardsman start (#88637)
@@ -16,7 +22,6 @@ Cataclysm-DDA experimental build 2026-09-11-1600 (443ceae)
 
 Cataclysm-DDA experimental build 2026-09-11-0546 (3daec25)
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying (#88619)
-* Aftershock: Replace field with glacial fields for spriting purposes. (#88472)
 * fix bleach ratio for water purification (#88512)
 * Filter masks block `nauseating stench` (#88620)
 
@@ -91,11 +96,7 @@ Cataclysm-DDA experimental build 2026-09-08-1217 (556901e)
 
 Cataclysm-DDA experimental build 2026-09-08-0451 (9549716)
 * bean seeds shouldn't weigh 0.224 g/ml (#88576)
-
-Cataclysm-DDA experimental build 2026-09-08-0335 (c507940)
 * add wire from mattress springs (#88572)
-
-Cataclysm-DDA experimental build 2026-09-08-0248 (834114c)
 * Avoid unnecessary crafting availability checks (#88554)
 * Fixes ore yields in Innawood (#88528)
 * [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana (#88565)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2026-09-08-0248 (834114c)
 * [Xedra Evolved] Fix changeling March Lord advancement unlock (#88492)
 * Don't return early on invalid hunting results, just go to next item (#88496)
 * Add emery boards, found in bathrooms (#88490)
-* Itemgroup Modernizing: Tools.json (#88471)
 * fix(npc): clear guard state when starting to follow (#88483)
