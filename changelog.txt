@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-09-13-2311 (38715ab)
+* Alternate sizes for portraits, by tileset (#88648)
+
+Cataclysm-DDA experimental build 2026-09-13-2224 (5d81567)
+* Sky Island: Override dimension travel so it takes you to the island (#88657)
+
 Cataclysm-DDA experimental build 2026-09-13-1621 (998551c)
 * Tie an unattended craft step to the tools it uses (#88647)
 * Reduce locker line in cs_open_sewer from 3 to 1 (#88639)
@@ -91,8 +97,6 @@ Cataclysm-DDA experimental build 2026-09-10-0946 (250b15a)
 
 Cataclysm-DDA experimental build 2026-09-10-0823 (a38f9ed)
 * remove skills required from sandleather and change the difficulty to two (#88585)
-
-Cataclysm-DDA experimental build 2026-09-10-0511 (5cf1a02)
 * Aftershock: Vahagn updates (#88583)
 * 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage (#88603)
 * Suppress spellbook preview learning messages (#88602)
@@ -135,5 +139,3 @@ Cataclysm-DDA experimental build 2026-09-10-0511 (5cf1a02)
 * Massively expand the amount of food that can be seasoned (#88517)
 * Remove outdated warnings from Sky Island's document. (#88518)
 * Stash Tweaks (#88508)
-* Swap `req_flag` in martial effects tech effects to `condition` (#88504)
-* Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters (#88503)
