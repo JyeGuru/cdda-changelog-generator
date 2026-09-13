@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-13-1621 ([998551c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-1621))
+
+* Tie an unattended craft step to the tools it uses ([#88647](https://github.com/CleverRaven/Cataclysm-DDA/pull/88647))
+* Reduce locker line in cs_open_sewer from 3 to 1 ([#88639](https://github.com/CleverRaven/Cataclysm-DDA/pull/88639))
+* Improve spell learning table ([#88650](https://github.com/CleverRaven/Cataclysm-DDA/pull/88650))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-13-1510 ([d924004](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-1510))
+
+* [DinoMod] nerf feather drops ([#88633](https://github.com/CleverRaven/Cataclysm-DDA/pull/88633))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-13-0241 ([5fb3e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-0241))
 
 * Move mod source to debug_mode ([#88589](https://github.com/CleverRaven/Cataclysm-DDA/pull/88589))
@@ -133,11 +147,6 @@
 #### Cataclysm-DDA experimental build 2026-09-10-1102 ([7b12388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-1102))
 
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-09-10-0827 ([ae8b56e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-10-0827))
-
 * Fix item info panel scrolling in the item action menu ([#88568](https://github.com/CleverRaven/Cataclysm-DDA/pull/88568))
 
 ---
@@ -160,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-09-10-0511 ([5cf1a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-0511))
 
 * Aftershock: Vahagn updates ([#88583](https://github.com/CleverRaven/Cataclysm-DDA/pull/88583))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-09-10-0333 ([d69a696](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-10-0333))
-
 * 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage ([#88603](https://github.com/CleverRaven/Cataclysm-DDA/pull/88603))
 * Suppress spellbook preview learning messages ([#88602](https://github.com/CleverRaven/Cataclysm-DDA/pull/88602))
 * Document attach_molle and detach_molle use actions ([#88587](https://github.com/CleverRaven/Cataclysm-DDA/pull/88587))
@@ -205,10 +209,6 @@
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
 * Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
-* Document mod_is_loaded ([#88499](https://github.com/CleverRaven/Cataclysm-DDA/pull/88499))
 * Stash Tweaks ([#88508](https://github.com/CleverRaven/Cataclysm-DDA/pull/88508))
-* make it so you can only remove metal doors with angle grinder or exodii prybar ([#88500](https://github.com/CleverRaven/Cataclysm-DDA/pull/88500))
 * Swap `req_flag` in martial effects tech effects to `condition` ([#88504](https://github.com/CleverRaven/Cataclysm-DDA/pull/88504))
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters ([#88503](https://github.com/CleverRaven/Cataclysm-DDA/pull/88503))
-* More dialogue fixes ([#88498](https://github.com/CleverRaven/Cataclysm-DDA/pull/88498))
-* Don't return early on invalid hunting results, just go to next item ([#88496](https://github.com/CleverRaven/Cataclysm-DDA/pull/88496))
