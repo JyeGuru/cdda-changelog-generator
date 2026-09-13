@@ -1,4 +1,14 @@
 
+Cataclysm-DDA experimental build 2026-09-13-0241 (5fb3e79)
+* Move mod source to debug_mode (#88589)
+
+Cataclysm-DDA experimental build 2026-09-13-0203 (49ba469)
+* Stop copying item pointers when counting (#88645)
+
+Cataclysm-DDA experimental build 2026-09-13-0108 (b0734a4)
+* Revert to debugmsg for out-of-bounds highway slant pathing (#88643)
+* Remove debug message capture from monster navigation test (#88642)
+
 Cataclysm-DDA experimental build 2026-09-12-1950 (9a34cde)
 * Fix bp_null debugmsg on character encumbrance panel (#88519)
 * Reserve the tile an unattended craft sits on (#88559)
@@ -81,19 +91,12 @@ Cataclysm-DDA experimental build 2026-09-10-0511 (5cf1a02)
 
 Cataclysm-DDA 0.I release candidate 2026-09-10-0333 (d69a696)
 * 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage (#88603)
-
-Cataclysm-DDA experimental build 2026-09-09-2351 (19d85af)
 * Suppress spellbook preview learning messages (#88602)
-
-Cataclysm-DDA experimental build 2026-09-09-1607 (8877e89)
 * Document attach_molle and detach_molle use actions (#88587)
 * update lye items and itemgroups (#88595)
 * fix bedroom_4x4_adult_2_W error (#88599)
-
-Cataclysm-DDA experimental build 2026-09-09-1516 (de7ba16)
 * Weather can tint sunlight (#88591)
 * Fix false supernatural ability availability warning (#88586)
-* Decayed zombies also smell horrific (#88493)
 * Add glslang to MSYS2 build dependencies (#88588)
 * Stabilize local Windows test runs (#88580)
 * Stabilize test state resets and highway debug logging (#88577)
@@ -130,10 +133,7 @@ Cataclysm-DDA experimental build 2026-09-09-1516 (de7ba16)
 * Document mod_is_loaded (#88499)
 * Stash Tweaks (#88508)
 * make it so you can only remove metal doors with angle grinder or exodii prybar (#88500)
-* [Xedra Evolved] Ra'ab gives lilin the `PSYCHOPATH` flag (#88494)
 * Swap `req_flag` in martial effects tech effects to `condition` (#88504)
 * Brutes cannot smash Huge characters, hulk smashes are less effective against Huge characters (#88503)
 * More dialogue fixes (#88498)
-* [Xedra Evolved] Fix changeling March Lord advancement unlock (#88492)
 * Don't return early on invalid hunting results, just go to next item (#88496)
-* Add emery boards, found in bathrooms (#88490)
