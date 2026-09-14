@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-14-1932 ([08704e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1932))
+
+* Fix large grenade bandoliers not fitting molotovs ([#88661](https://github.com/CleverRaven/Cataclysm-DDA/pull/88661))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-14-1833 ([8441fb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1833))
+
+* Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-14-1504 ([f56a711](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1504))
 
 * [Xedra Evolved] Add Dreamworker workshops to XE portal labs ([#88590](https://github.com/CleverRaven/Cataclysm-DDA/pull/88590))
@@ -136,7 +148,6 @@
 #### Cataclysm-DDA experimental build 2026-09-11-0546 ([3daec25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0546))
 
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
-* fix bleach ratio for water purification ([#88512](https://github.com/CleverRaven/Cataclysm-DDA/pull/88512))
 * Filter masks block `nauseating stench` ([#88620](https://github.com/CleverRaven/Cataclysm-DDA/pull/88620))
 
 ---
@@ -159,11 +170,6 @@
 * fix volumes of raw meats ([#88578](https://github.com/CleverRaven/Cataclysm-DDA/pull/88578))
 * Scoot Scarlet Sea JSON into their own files ([#88617](https://github.com/CleverRaven/Cataclysm-DDA/pull/88617))
 * A storms a brewin - the scarlet storm ([#88615](https://github.com/CleverRaven/Cataclysm-DDA/pull/88615))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-10-2340 ([8972709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-2340))
-
 * [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
 * Fix item info panel scrolling in the item action menu ([#88568](https://github.com/CleverRaven/Cataclysm-DDA/pull/88568))
@@ -210,6 +216,5 @@
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
 * Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
 * Dimensional anchor blocks teleporting out of the highlands ([#88515](https://github.com/CleverRaven/Cataclysm-DDA/pull/88515))
-* Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
 * Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
