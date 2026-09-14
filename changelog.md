@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-14-1504 ([f56a711](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1504))
+
+* [Xedra Evolved] Add Dreamworker workshops to XE portal labs ([#88590](https://github.com/CleverRaven/Cataclysm-DDA/pull/88590))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-14-1302 ([e03b981](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1302))
+
+* remove parasites risk from tallow ([#88630](https://github.com/CleverRaven/Cataclysm-DDA/pull/88630))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-14-0223 ([33aca46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-0223))
 
 * Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
@@ -153,24 +165,8 @@
 #### Cataclysm-DDA experimental build 2026-09-10-2340 ([8972709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-2340))
 
 * [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-10-1752 ([1a986b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-1752))
-
-* add handaxes to hardware store spawns ([#88509](https://github.com/CleverRaven/Cataclysm-DDA/pull/88509))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-10-1102 ([7b12388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-1102))
-
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
 * Fix item info panel scrolling in the item action menu ([#88568](https://github.com/CleverRaven/Cataclysm-DDA/pull/88568))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-10-0946 ([250b15a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-0946))
-
 * make first aid kits ANSI compliant ([#88557](https://github.com/CleverRaven/Cataclysm-DDA/pull/88557))
 * Weekly Changelog 2026-08-31 to 2026-09-07 ([#88566](https://github.com/CleverRaven/Cataclysm-DDA/pull/88566))
 * fix bad density for marloss seeds, berries, gel ([#88573](https://github.com/CleverRaven/Cataclysm-DDA/pull/88573))
