@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-14-2204 (69c0dc6)
+* More explicit Scarlet Storm warning (#88666)
+
 Cataclysm-DDA experimental build 2026-09-14-1932 (08704e2)
 * Fix large grenade bandoliers not fitting molotovs (#88661)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-09-11-0222 (05fc9e5)
 Cataclysm-DDA experimental build 2026-09-11-0101 (d88e3da)
 * Fix GCC 16 warnings in multiple source files (#88613)
 * Remove faults from red "mp3 player" (#88618)
-
-Cataclysm-DDA experimental build 2026-09-11-0017 (0e2b0f7)
 * fix volumes of raw meats (#88578)
 * Scoot Scarlet Sea JSON into their own files (#88617)
 * A storms a brewin - the scarlet storm (#88615)
@@ -137,6 +138,5 @@ Cataclysm-DDA experimental build 2026-09-11-0017 (0e2b0f7)
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash (#88540)
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase (#88539)
 * Fix O(N^2) performance degradation in form_from_map (#88527)
-* Dimensional anchor blocks teleporting out of the highlands (#88515)
 * Massively expand the amount of food that can be seasoned (#88517)
 * Remove outdated warnings from Sky Island's document. (#88518)

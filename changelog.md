@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-14-2204 ([69c0dc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-2204))
+
+* More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-14-1932 ([08704e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1932))
 
 * Fix large grenade bandoliers not fitting molotovs ([#88661](https://github.com/CleverRaven/Cataclysm-DDA/pull/88661))
@@ -162,11 +168,6 @@
 
 * Fix GCC 16 warnings in multiple source files ([#88613](https://github.com/CleverRaven/Cataclysm-DDA/pull/88613))
 * Remove faults from red "mp3 player" ([#88618](https://github.com/CleverRaven/Cataclysm-DDA/pull/88618))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-11-0017 ([0e2b0f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0017))
-
 * fix volumes of raw meats ([#88578](https://github.com/CleverRaven/Cataclysm-DDA/pull/88578))
 * Scoot Scarlet Sea JSON into their own files ([#88617](https://github.com/CleverRaven/Cataclysm-DDA/pull/88617))
 * A storms a brewin - the scarlet storm ([#88615](https://github.com/CleverRaven/Cataclysm-DDA/pull/88615))
@@ -215,6 +216,5 @@
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
 * Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
-* Dimensional anchor blocks teleporting out of the highlands ([#88515](https://github.com/CleverRaven/Cataclysm-DDA/pull/88515))
 * Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
