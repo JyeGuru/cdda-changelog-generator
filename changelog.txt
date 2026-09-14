@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-14-0223 (33aca46)
+* Scarlet storm improvements (#88654)
+
 Cataclysm-DDA experimental build 2026-09-13-2311 (38715ab)
 * Alternate sizes for portraits, by tileset (#88648)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-09-10-0946 (250b15a)
 * Weekly Changelog 2026-08-31 to 2026-09-07 (#88566)
 * fix bad density for marloss seeds, berries, gel (#88573)
 * delete "fruit_div" field for seeds (#88579)
-
-Cataclysm-DDA experimental build 2026-09-10-0823 (a38f9ed)
 * remove skills required from sandleather and change the difficulty to two (#88585)
 * Aftershock: Vahagn updates (#88583)
 * 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage (#88603)
@@ -138,4 +139,3 @@ Cataclysm-DDA experimental build 2026-09-10-0823 (a38f9ed)
 * Remove graphite from boulders (#88513)
 * Massively expand the amount of food that can be seasoned (#88517)
 * Remove outdated warnings from Sky Island's document. (#88518)
-* Stash Tweaks (#88508)

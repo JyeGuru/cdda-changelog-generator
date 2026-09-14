@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-14-0223 ([33aca46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-0223))
+
+* Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-13-2311 ([38715ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-2311))
 
 * Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
@@ -169,11 +175,6 @@
 * Weekly Changelog 2026-08-31 to 2026-09-07 ([#88566](https://github.com/CleverRaven/Cataclysm-DDA/pull/88566))
 * fix bad density for marloss seeds, berries, gel ([#88573](https://github.com/CleverRaven/Cataclysm-DDA/pull/88573))
 * delete "fruit_div" field for seeds ([#88579](https://github.com/CleverRaven/Cataclysm-DDA/pull/88579))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-10-0823 ([a38f9ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-10-0823))
-
 * remove skills required from sandleather and change the difficulty to two ([#88585](https://github.com/CleverRaven/Cataclysm-DDA/pull/88585))
 * Aftershock: Vahagn updates ([#88583](https://github.com/CleverRaven/Cataclysm-DDA/pull/88583))
 * 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage ([#88603](https://github.com/CleverRaven/Cataclysm-DDA/pull/88603))
@@ -216,4 +217,3 @@
 * Remove graphite from boulders ([#88513](https://github.com/CleverRaven/Cataclysm-DDA/pull/88513))
 * Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
-* Stash Tweaks ([#88508](https://github.com/CleverRaven/Cataclysm-DDA/pull/88508))
