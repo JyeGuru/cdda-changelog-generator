@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-15-0556 ([10303d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-0556))
+
+* Remove obsolete DEFAULT_REGION external option ([#88662](https://github.com/CleverRaven/Cataclysm-DDA/pull/88662))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-15-0507 ([046215e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-0507))
+
+* [MoM] Add scarlet storm to nether weather check ([#88668](https://github.com/CleverRaven/Cataclysm-DDA/pull/88668))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-14-2204 ([69c0dc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-2204))
 
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
@@ -147,7 +159,6 @@
 #### Cataclysm-DDA experimental build 2026-09-11-1600 ([443ceae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-1600))
 
 * Extract character creation stat prompts ([#88521](https://github.com/CleverRaven/Cataclysm-DDA/pull/88521))
-* Extract translatable JSON strings ([#88516](https://github.com/CleverRaven/Cataclysm-DDA/pull/88516))
 
 ---
 
@@ -155,17 +166,7 @@
 
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
 * Filter masks block `nauseating stench` ([#88620](https://github.com/CleverRaven/Cataclysm-DDA/pull/88620))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-11-0222 ([05fc9e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0222))
-
 * [Hunvre] Adding Hunvre-specific clothing, part 4: Shirts and sweatshirts ([#88601](https://github.com/CleverRaven/Cataclysm-DDA/pull/88601))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-11-0101 ([d88e3da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0101))
-
 * Fix GCC 16 warnings in multiple source files ([#88613](https://github.com/CleverRaven/Cataclysm-DDA/pull/88613))
 * Remove faults from red "mp3 player" ([#88618](https://github.com/CleverRaven/Cataclysm-DDA/pull/88618))
 * fix volumes of raw meats ([#88578](https://github.com/CleverRaven/Cataclysm-DDA/pull/88578))
@@ -216,5 +217,4 @@
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
 * Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
-* Massively expand the amount of food that can be seasoned ([#88517](https://github.com/CleverRaven/Cataclysm-DDA/pull/88517))
 * Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
