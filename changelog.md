@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-15-1037 ([0df6061](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-1037))
+
+* Give naturally spawnable veggy variants new abstract without triffid fibers. ([#88611](https://github.com/CleverRaven/Cataclysm-DDA/pull/88611))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-15-0556 ([10303d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-0556))
 
 * Remove obsolete DEFAULT_REGION external option ([#88662](https://github.com/CleverRaven/Cataclysm-DDA/pull/88662))
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2026-09-11-1600 ([443ceae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-1600))
 
 * Extract character creation stat prompts ([#88521](https://github.com/CleverRaven/Cataclysm-DDA/pull/88521))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-11-0546 ([3daec25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-0546))
-
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
 * Filter masks block `nauseating stench` ([#88620](https://github.com/CleverRaven/Cataclysm-DDA/pull/88620))
 * [Hunvre] Adding Hunvre-specific clothing, part 4: Shirts and sweatshirts ([#88601](https://github.com/CleverRaven/Cataclysm-DDA/pull/88601))
@@ -217,4 +218,3 @@
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
 * Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
-* Remove outdated warnings from Sky Island's document. ([#88518](https://github.com/CleverRaven/Cataclysm-DDA/pull/88518))
