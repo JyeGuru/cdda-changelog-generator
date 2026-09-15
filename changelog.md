@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-15-2101 ([88d70e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2101))
+
+* Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-15-2011 ([7c51f11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2011))
+
+* [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-15-1037 ([0df6061](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-1037))
 
 * Give naturally spawnable veggy variants new abstract without triffid fibers. ([#88611](https://github.com/CleverRaven/Cataclysm-DDA/pull/88611))
@@ -97,12 +109,6 @@
 
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-12-1950 ([9a34cde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-1950))
-
-* Fix bp_null debugmsg on character encumbrance panel ([#88519](https://github.com/CleverRaven/Cataclysm-DDA/pull/88519))
 * Reserve the tile an unattended craft sits on ([#88559](https://github.com/CleverRaven/Cataclysm-DDA/pull/88559))
 * Move NPC spawntime to region settings ([#88551](https://github.com/CleverRaven/Cataclysm-DDA/pull/88551))
 * Dialogue portraits for realsies ([#88592](https://github.com/CleverRaven/Cataclysm-DDA/pull/88592))
@@ -159,12 +165,6 @@
 #### Cataclysm-DDA experimental build 2026-09-11-2207 ([3acd573](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-2207))
 
 * doc: fix batch time typo ([#88632](https://github.com/CleverRaven/Cataclysm-DDA/pull/88632))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-11-1600 ([443ceae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-1600))
-
-* Extract character creation stat prompts ([#88521](https://github.com/CleverRaven/Cataclysm-DDA/pull/88521))
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
 * Filter masks block `nauseating stench` ([#88620](https://github.com/CleverRaven/Cataclysm-DDA/pull/88620))
 * [Hunvre] Adding Hunvre-specific clothing, part 4: Shirts and sweatshirts ([#88601](https://github.com/CleverRaven/Cataclysm-DDA/pull/88601))

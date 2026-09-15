@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-09-15-2101 (88d70e0)
+* Imguify Help Menu (#88665)
+
+Cataclysm-DDA experimental build 2026-09-15-2011 (7c51f11)
+* [Xedra Evolved] Update `hallu` effect (#88675)
+
 Cataclysm-DDA experimental build 2026-09-15-1037 (0df6061)
 * Give naturally spawnable veggy variants new abstract without triffid fibers. (#88611)
 
@@ -49,9 +55,6 @@ Cataclysm-DDA experimental build 2026-09-13-0203 (49ba469)
 Cataclysm-DDA experimental build 2026-09-13-0108 (b0734a4)
 * Revert to debugmsg for out-of-bounds highway slant pathing (#88643)
 * Remove debug message capture from monster navigation test (#88642)
-
-Cataclysm-DDA experimental build 2026-09-12-1950 (9a34cde)
-* Fix bp_null debugmsg on character encumbrance panel (#88519)
 * Reserve the tile an unattended craft sits on (#88559)
 * Move NPC spawntime to region settings (#88551)
 * Dialogue portraits for realsies (#88592)
@@ -84,9 +87,6 @@ Cataclysm-DDA experimental build 2026-09-11-2305 (28f3e88)
 
 Cataclysm-DDA experimental build 2026-09-11-2207 (3acd573)
 * doc: fix batch time typo (#88632)
-
-Cataclysm-DDA experimental build 2026-09-11-1600 (443ceae)
-* Extract character creation stat prompts (#88521)
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying (#88619)
 * Filter masks block `nauseating stench` (#88620)
 * [Hunvre] Adding Hunvre-specific clothing, part 4: Shirts and sweatshirts (#88601)
