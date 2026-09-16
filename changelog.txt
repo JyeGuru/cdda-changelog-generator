@@ -82,8 +82,6 @@ Cataclysm-DDA experimental build 2026-09-12-0136 (97a0cee)
 
 Cataclysm-DDA experimental build 2026-09-12-0051 (87b42e6)
 * Various updates to anomalous mp3 player (#88626)
-
-Cataclysm-DDA experimental build 2026-09-11-2343 (4690701)
 * remove gobag from all mapgen (#88636)
 * fix bad density for cracklins (#88627)
 * restore personal_gobag for National Guardsman start (#88637)

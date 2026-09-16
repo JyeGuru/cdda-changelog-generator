@@ -157,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2026-09-12-0051 ([87b42e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-0051))
 
 * Various updates to anomalous mp3 player ([#88626](https://github.com/CleverRaven/Cataclysm-DDA/pull/88626))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-11-2343 ([4690701](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-2343))
-
 * remove gobag from all mapgen ([#88636](https://github.com/CleverRaven/Cataclysm-DDA/pull/88636))
 * fix bad density for cracklins ([#88627](https://github.com/CleverRaven/Cataclysm-DDA/pull/88627))
 * restore personal_gobag for National Guardsman start ([#88637](https://github.com/CleverRaven/Cataclysm-DDA/pull/88637))
