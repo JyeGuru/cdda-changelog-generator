@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-16-0004 ([348b994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-16-0004))
+
+* Prevent NPCs from trying to get off moving vehicles to sleep ([#88663](https://github.com/CleverRaven/Cataclysm-DDA/pull/88663))
+* Pretty up the dialogue sidebar ([#88671](https://github.com/CleverRaven/Cataclysm-DDA/pull/88671))
+* Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm ([#88679](https://github.com/CleverRaven/Cataclysm-DDA/pull/88679))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-15-2320 ([f8a8f3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2320))
+
+* fix accessor_flags usage in map::all_items ([#88652](https://github.com/CleverRaven/Cataclysm-DDA/pull/88652))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-15-2101 ([88d70e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2101))
 
 * Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
@@ -151,19 +165,9 @@
 * remove gobag from all mapgen ([#88636](https://github.com/CleverRaven/Cataclysm-DDA/pull/88636))
 * fix bad density for cracklins ([#88627](https://github.com/CleverRaven/Cataclysm-DDA/pull/88627))
 * restore personal_gobag for National Guardsman start ([#88637](https://github.com/CleverRaven/Cataclysm-DDA/pull/88637))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-11-2305 ([28f3e88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-2305))
-
 * fix bad density for bacon_uncut ([#88628](https://github.com/CleverRaven/Cataclysm-DDA/pull/88628))
 * halve hellfire stew recipe batch size ([#88631](https://github.com/CleverRaven/Cataclysm-DDA/pull/88631))
 * remove redundant offal fields ([#88629](https://github.com/CleverRaven/Cataclysm-DDA/pull/88629))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-11-2207 ([3acd573](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-11-2207))
-
 * doc: fix batch time typo ([#88632](https://github.com/CleverRaven/Cataclysm-DDA/pull/88632))
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
 * Filter masks block `nauseating stench` ([#88620](https://github.com/CleverRaven/Cataclysm-DDA/pull/88620))
@@ -196,7 +200,6 @@
 * bean seeds shouldn't weigh 0.224 g/ml ([#88576](https://github.com/CleverRaven/Cataclysm-DDA/pull/88576))
 * add wire from mattress springs ([#88572](https://github.com/CleverRaven/Cataclysm-DDA/pull/88572))
 * Avoid unnecessary crafting availability checks ([#88554](https://github.com/CleverRaven/Cataclysm-DDA/pull/88554))
-* Fixes ore yields in Innawood ([#88528](https://github.com/CleverRaven/Cataclysm-DDA/pull/88528))
 * [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana ([#88565](https://github.com/CleverRaven/Cataclysm-DDA/pull/88565))
 * fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
 * Will this overmap test time out ([#88532](https://github.com/CleverRaven/Cataclysm-DDA/pull/88532))
@@ -204,7 +207,6 @@
 * Register the item info scroll keybinds in the item action menu ([#88569](https://github.com/CleverRaven/Cataclysm-DDA/pull/88569))
 * fix syrup material ([#88562](https://github.com/CleverRaven/Cataclysm-DDA/pull/88562))
 * fix the sandleather craft ([#88570](https://github.com/CleverRaven/Cataclysm-DDA/pull/88570))
-* Aftershock: Add uplift cryosuits for sale. ([#88523](https://github.com/CleverRaven/Cataclysm-DDA/pull/88523))
 * fix known bad density for dry beans ([#88556](https://github.com/CleverRaven/Cataclysm-DDA/pull/88556))
 * Add material to the integrated ar fake item ([#88560](https://github.com/CleverRaven/Cataclysm-DDA/pull/88560))
 * fixes for sugar beets ([#88564](https://github.com/CleverRaven/Cataclysm-DDA/pull/88564))
@@ -217,4 +219,3 @@
 * 0.I-1 backport #84632: Fixed calculations in the heating ui and func for items counted by charge ([#88542](https://github.com/CleverRaven/Cataclysm-DDA/pull/88542))
 * 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
 * 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
-* Fix O(N^2) performance degradation in form_from_map ([#88527](https://github.com/CleverRaven/Cataclysm-DDA/pull/88527))
