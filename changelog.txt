@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-16-0625 (b1eb07f)
+* fix condensed milk material (#88684)
+
 Cataclysm-DDA experimental build 2026-09-16-0004 (348b994)
 * Prevent NPCs from trying to get off moving vehicles to sleep (#88663)
 * Pretty up the dialogue sidebar (#88671)
@@ -76,11 +79,7 @@ Cataclysm-DDA experimental build 2026-09-12-1321 (3abcd45)
 
 Cataclysm-DDA experimental build 2026-09-12-0342 (29a9f46)
 * delete 1st_aid references (#88635)
-
-Cataclysm-DDA experimental build 2026-09-12-0136 (97a0cee)
 * Add action flags to guns (#88624)
-
-Cataclysm-DDA experimental build 2026-09-12-0051 (87b42e6)
 * Various updates to anomalous mp3 player (#88626)
 * remove gobag from all mapgen (#88636)
 * fix bad density for cracklins (#88627)

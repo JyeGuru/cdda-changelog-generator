@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-16-0625 ([b1eb07f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-16-0625))
+
+* fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-16-0004 ([348b994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-16-0004))
 
 * Prevent NPCs from trying to get off moving vehicles to sleep ([#88663](https://github.com/CleverRaven/Cataclysm-DDA/pull/88663))
@@ -145,17 +151,7 @@
 #### Cataclysm-DDA experimental build 2026-09-12-0342 ([29a9f46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-0342))
 
 * delete 1st_aid references ([#88635](https://github.com/CleverRaven/Cataclysm-DDA/pull/88635))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-12-0136 ([97a0cee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-0136))
-
 * Add action flags to guns ([#88624](https://github.com/CleverRaven/Cataclysm-DDA/pull/88624))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-12-0051 ([87b42e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-0051))
-
 * Various updates to anomalous mp3 player ([#88626](https://github.com/CleverRaven/Cataclysm-DDA/pull/88626))
 * remove gobag from all mapgen ([#88636](https://github.com/CleverRaven/Cataclysm-DDA/pull/88636))
 * fix bad density for cracklins ([#88627](https://github.com/CleverRaven/Cataclysm-DDA/pull/88627))
