@@ -1,3 +1,6 @@
+* add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
+* Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
+* [Mods] The Exodii don't buy magic items ([#88694](https://github.com/CleverRaven/Cataclysm-DDA/pull/88694))
 
 ---
 
@@ -156,17 +159,11 @@
 #### Cataclysm-DDA experimental build 2026-09-13-1510 ([d924004](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-1510))
 
 * [DinoMod] nerf feather drops ([#88633](https://github.com/CleverRaven/Cataclysm-DDA/pull/88633))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-13-0241 ([5fb3e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-0241))
-
 * Move mod source to debug_mode ([#88589](https://github.com/CleverRaven/Cataclysm-DDA/pull/88589))
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
 * Reserve the tile an unattended craft sits on ([#88559](https://github.com/CleverRaven/Cataclysm-DDA/pull/88559))
-* Move NPC spawntime to region settings ([#88551](https://github.com/CleverRaven/Cataclysm-DDA/pull/88551))
 * Dialogue portraits for realsies ([#88592](https://github.com/CleverRaven/Cataclysm-DDA/pull/88592))
 * [XE] Dreamer checks against base morale ([#88622](https://github.com/CleverRaven/Cataclysm-DDA/pull/88622))
 * fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
@@ -219,5 +216,3 @@
 * fix known bad density for dry beans ([#88556](https://github.com/CleverRaven/Cataclysm-DDA/pull/88556))
 * Add material to the integrated ar fake item ([#88560](https://github.com/CleverRaven/Cataclysm-DDA/pull/88560))
 * fixes for sugar beets ([#88564](https://github.com/CleverRaven/Cataclysm-DDA/pull/88564))
-* [Bombastic Perks] Fix Closetland Paths ([#88549](https://github.com/CleverRaven/Cataclysm-DDA/pull/88549))
-* Optimize finding the best seasoning ([#88550](https://github.com/CleverRaven/Cataclysm-DDA/pull/88550))
