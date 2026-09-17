@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-17-1631 (0d9f5e9)
+* Clarification of grace period on dropped items (#88700)
+
 Cataclysm-DDA experimental build 2026-09-17-0616 (f564973)
 * Add NOT_HALLUCINATION flag to test monsters. (#88687)
 * Fix sided one-per-layer ring wearing limits (#88689)
@@ -81,8 +84,6 @@ Cataclysm-DDA experimental build 2026-09-13-1510 (d924004)
 
 Cataclysm-DDA experimental build 2026-09-13-0241 (5fb3e79)
 * Move mod source to debug_mode (#88589)
-
-Cataclysm-DDA experimental build 2026-09-13-0203 (49ba469)
 * Stop copying item pointers when counting (#88645)
 * Revert to debugmsg for out-of-bounds highway slant pathing (#88643)
 * Remove debug message capture from monster navigation test (#88642)
@@ -140,6 +141,5 @@ Cataclysm-DDA experimental build 2026-09-13-0203 (49ba469)
 * fix known bad density for dry beans (#88556)
 * Add material to the integrated ar fake item (#88560)
 * fixes for sugar beets (#88564)
-* Fix fang bite testing weight (#88545)
 * [Bombastic Perks] Fix Closetland Paths (#88549)
 * Optimize finding the best seasoning (#88550)

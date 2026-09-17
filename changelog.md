@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-17-1631 ([0d9f5e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-1631))
+
+* Clarification of grace period on dropped items ([#88700](https://github.com/CleverRaven/Cataclysm-DDA/pull/88700))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-17-0616 ([f564973](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0616))
 
 * Add NOT_HALLUCINATION flag to test monsters. ([#88687](https://github.com/CleverRaven/Cataclysm-DDA/pull/88687))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-09-13-0241 ([5fb3e79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-0241))
 
 * Move mod source to debug_mode ([#88589](https://github.com/CleverRaven/Cataclysm-DDA/pull/88589))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-13-0203 ([49ba469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-0203))
-
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
@@ -218,6 +219,5 @@
 * fix known bad density for dry beans ([#88556](https://github.com/CleverRaven/Cataclysm-DDA/pull/88556))
 * Add material to the integrated ar fake item ([#88560](https://github.com/CleverRaven/Cataclysm-DDA/pull/88560))
 * fixes for sugar beets ([#88564](https://github.com/CleverRaven/Cataclysm-DDA/pull/88564))
-* Fix fang bite testing weight ([#88545](https://github.com/CleverRaven/Cataclysm-DDA/pull/88545))
 * [Bombastic Perks] Fix Closetland Paths ([#88549](https://github.com/CleverRaven/Cataclysm-DDA/pull/88549))
 * Optimize finding the best seasoning ([#88550](https://github.com/CleverRaven/Cataclysm-DDA/pull/88550))
