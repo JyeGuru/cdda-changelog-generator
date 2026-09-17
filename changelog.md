@@ -1,3 +1,11 @@
+* Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
+* Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-17-0030 ([97baa46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0030))
+
+* Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
 
 ---
 
@@ -145,11 +153,6 @@
 
 * [XE] Dreamer checks against base morale ([#88622](https://github.com/CleverRaven/Cataclysm-DDA/pull/88622))
 * fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-12-1321 ([3abcd45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-1321))
-
 * remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
 * delete 1st_aid references ([#88635](https://github.com/CleverRaven/Cataclysm-DDA/pull/88635))
 * Add action flags to guns ([#88624](https://github.com/CleverRaven/Cataclysm-DDA/pull/88624))
@@ -188,14 +191,11 @@
 * Add glslang to MSYS2 build dependencies ([#88588](https://github.com/CleverRaven/Cataclysm-DDA/pull/88588))
 * Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
 * Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
-* build(android): generate AAR dependencies from sdl3Aars list ([#88534](https://github.com/CleverRaven/Cataclysm-DDA/pull/88534))
 * bean seeds shouldn't weigh 0.224 g/ml ([#88576](https://github.com/CleverRaven/Cataclysm-DDA/pull/88576))
 * add wire from mattress springs ([#88572](https://github.com/CleverRaven/Cataclysm-DDA/pull/88572))
 * Avoid unnecessary crafting availability checks ([#88554](https://github.com/CleverRaven/Cataclysm-DDA/pull/88554))
 * [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana ([#88565](https://github.com/CleverRaven/Cataclysm-DDA/pull/88565))
 * fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
-* Will this overmap test time out ([#88532](https://github.com/CleverRaven/Cataclysm-DDA/pull/88532))
-* Monster block message only if player sees it happen ([#88533](https://github.com/CleverRaven/Cataclysm-DDA/pull/88533))
 * Register the item info scroll keybinds in the item action menu ([#88569](https://github.com/CleverRaven/Cataclysm-DDA/pull/88569))
 * fix syrup material ([#88562](https://github.com/CleverRaven/Cataclysm-DDA/pull/88562))
 * fix the sandleather craft ([#88570](https://github.com/CleverRaven/Cataclysm-DDA/pull/88570))
