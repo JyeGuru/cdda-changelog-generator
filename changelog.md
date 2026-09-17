@@ -1,3 +1,29 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-17-0616 ([f564973](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0616))
+
+* Add NOT_HALLUCINATION flag to test monsters. ([#88687](https://github.com/CleverRaven/Cataclysm-DDA/pull/88687))
+* Fix sided one-per-layer ring wearing limits ([#88689](https://github.com/CleverRaven/Cataclysm-DDA/pull/88689))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-17-0519 ([31f9e77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0519))
+
+* Fix solder price ([#88692](https://github.com/CleverRaven/Cataclysm-DDA/pull/88692))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-17-0309 ([a9381f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0309))
+
+* move all crafting_inventory operations to temp_crafting_inventory class ([#88606](https://github.com/CleverRaven/Cataclysm-DDA/pull/88606))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-17-0206 ([67a460f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0206))
+
+* Weekly Changelog 2026-09-07 to 2026-09-14 ([#88660](https://github.com/CleverRaven/Cataclysm-DDA/pull/88660))
+* [XE] Fix the blood level UI displaying a wrong maximal value. ([#88688](https://github.com/CleverRaven/Cataclysm-DDA/pull/88688))
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
 
@@ -136,21 +162,11 @@
 #### Cataclysm-DDA experimental build 2026-09-13-0203 ([49ba469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-0203))
 
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-13-0108 ([b0734a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-0108))
-
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
 * Reserve the tile an unattended craft sits on ([#88559](https://github.com/CleverRaven/Cataclysm-DDA/pull/88559))
 * Move NPC spawntime to region settings ([#88551](https://github.com/CleverRaven/Cataclysm-DDA/pull/88551))
 * Dialogue portraits for realsies ([#88592](https://github.com/CleverRaven/Cataclysm-DDA/pull/88592))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-12-1428 ([1d45f41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-12-1428))
-
 * [XE] Dreamer checks against base morale ([#88622](https://github.com/CleverRaven/Cataclysm-DDA/pull/88622))
 * fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
 * remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
@@ -205,9 +221,3 @@
 * Fix fang bite testing weight ([#88545](https://github.com/CleverRaven/Cataclysm-DDA/pull/88545))
 * [Bombastic Perks] Fix Closetland Paths ([#88549](https://github.com/CleverRaven/Cataclysm-DDA/pull/88549))
 * Optimize finding the best seasoning ([#88550](https://github.com/CleverRaven/Cataclysm-DDA/pull/88550))
-* give raccoons night vision like a cat's ([#88535](https://github.com/CleverRaven/Cataclysm-DDA/pull/88535))
-* 0.I-1 backport #84364: Fix tools not charging from cars outside reality bubble ([#88543](https://github.com/CleverRaven/Cataclysm-DDA/pull/88543))
-* 0.I-1 backport #84721: [Magiclysm] Fix Giant Growth spam ([#88541](https://github.com/CleverRaven/Cataclysm-DDA/pull/88541))
-* 0.I-1 backport #84632: Fixed calculations in the heating ui and func for items counted by charge ([#88542](https://github.com/CleverRaven/Cataclysm-DDA/pull/88542))
-* 0.I-1 backport #84736: [MoM] Fix Obscurity crash ([#88540](https://github.com/CleverRaven/Cataclysm-DDA/pull/88540))
-* 0.I-1 Backport #83638: [Aftershock ] Fix UICA vehicle purchase ([#88539](https://github.com/CleverRaven/Cataclysm-DDA/pull/88539))
