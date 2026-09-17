@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-17-2210 ([4963498](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-2210))
+
+* Unify pipe rifle crafting times to 1 h ([#88693](https://github.com/CleverRaven/Cataclysm-DDA/pull/88693))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-17-2025 ([31b002d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-2025))
+
+* Update vanilla effects with `INHALED_TOXIN_IMMUNE` flag ([#88682](https://github.com/CleverRaven/Cataclysm-DDA/pull/88682))
 * add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
 * Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
 * [Mods] The Exodii don't buy magic items ([#88694](https://github.com/CleverRaven/Cataclysm-DDA/pull/88694))
@@ -145,19 +157,9 @@
 #### Cataclysm-DDA experimental build 2026-09-13-2224 ([5d81567](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-2224))
 
 * Sky Island: Override dimension travel so it takes you to the island ([#88657](https://github.com/CleverRaven/Cataclysm-DDA/pull/88657))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-13-1621 ([998551c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-1621))
-
 * Tie an unattended craft step to the tools it uses ([#88647](https://github.com/CleverRaven/Cataclysm-DDA/pull/88647))
 * Reduce locker line in cs_open_sewer from 3 to 1 ([#88639](https://github.com/CleverRaven/Cataclysm-DDA/pull/88639))
 * Improve spell learning table ([#88650](https://github.com/CleverRaven/Cataclysm-DDA/pull/88650))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-13-1510 ([d924004](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-1510))
-
 * [DinoMod] nerf feather drops ([#88633](https://github.com/CleverRaven/Cataclysm-DDA/pull/88633))
 * Move mod source to debug_mode ([#88589](https://github.com/CleverRaven/Cataclysm-DDA/pull/88589))
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
@@ -207,7 +209,6 @@
 * Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
 * bean seeds shouldn't weigh 0.224 g/ml ([#88576](https://github.com/CleverRaven/Cataclysm-DDA/pull/88576))
 * add wire from mattress springs ([#88572](https://github.com/CleverRaven/Cataclysm-DDA/pull/88572))
-* Avoid unnecessary crafting availability checks ([#88554](https://github.com/CleverRaven/Cataclysm-DDA/pull/88554))
 * [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana ([#88565](https://github.com/CleverRaven/Cataclysm-DDA/pull/88565))
 * fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
 * Register the item info scroll keybinds in the item action menu ([#88569](https://github.com/CleverRaven/Cataclysm-DDA/pull/88569))
