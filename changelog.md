@@ -1,3 +1,17 @@
+* For item::get_remaining_capacity_for_liquid(), return enum of issue instead of string ([#88681](https://github.com/CleverRaven/Cataclysm-DDA/pull/88681))
+* Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-18-0006 ([2fc6b30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-18-0006))
+
+* Fix inventory selector measurements for display_type items ([#88686](https://github.com/CleverRaven/Cataclysm-DDA/pull/88686))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-17-2251 ([6606981](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-2251))
+
+* Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
 
 ---
 
@@ -145,17 +159,7 @@
 #### Cataclysm-DDA experimental build 2026-09-14-0223 ([33aca46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-0223))
 
 * Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-13-2311 ([38715ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-2311))
-
 * Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-13-2224 ([5d81567](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-13-2224))
-
 * Sky Island: Override dimension travel so it takes you to the island ([#88657](https://github.com/CleverRaven/Cataclysm-DDA/pull/88657))
 * Tie an unattended craft step to the tools it uses ([#88647](https://github.com/CleverRaven/Cataclysm-DDA/pull/88647))
 * Reduce locker line in cs_open_sewer from 3 to 1 ([#88639](https://github.com/CleverRaven/Cataclysm-DDA/pull/88639))
@@ -165,7 +169,6 @@
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
-* Reserve the tile an unattended craft sits on ([#88559](https://github.com/CleverRaven/Cataclysm-DDA/pull/88559))
 * Dialogue portraits for realsies ([#88592](https://github.com/CleverRaven/Cataclysm-DDA/pull/88592))
 * [XE] Dreamer checks against base morale ([#88622](https://github.com/CleverRaven/Cataclysm-DDA/pull/88622))
 * fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
@@ -191,7 +194,6 @@
 * [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
 * Fix item info panel scrolling in the item action menu ([#88568](https://github.com/CleverRaven/Cataclysm-DDA/pull/88568))
-* make first aid kits ANSI compliant ([#88557](https://github.com/CleverRaven/Cataclysm-DDA/pull/88557))
 * Weekly Changelog 2026-08-31 to 2026-09-07 ([#88566](https://github.com/CleverRaven/Cataclysm-DDA/pull/88566))
 * fix bad density for marloss seeds, berries, gel ([#88573](https://github.com/CleverRaven/Cataclysm-DDA/pull/88573))
 * delete "fruit_div" field for seeds ([#88579](https://github.com/CleverRaven/Cataclysm-DDA/pull/88579))
@@ -214,6 +216,4 @@
 * Register the item info scroll keybinds in the item action menu ([#88569](https://github.com/CleverRaven/Cataclysm-DDA/pull/88569))
 * fix syrup material ([#88562](https://github.com/CleverRaven/Cataclysm-DDA/pull/88562))
 * fix the sandleather craft ([#88570](https://github.com/CleverRaven/Cataclysm-DDA/pull/88570))
-* fix known bad density for dry beans ([#88556](https://github.com/CleverRaven/Cataclysm-DDA/pull/88556))
-* Add material to the integrated ar fake item ([#88560](https://github.com/CleverRaven/Cataclysm-DDA/pull/88560))
 * fixes for sugar beets ([#88564](https://github.com/CleverRaven/Cataclysm-DDA/pull/88564))
