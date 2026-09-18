@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-18-0640 ([63a3cd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-18-0640))
+
+* [ Xedra Evolved ] Fix Dream class eoc ([#88674](https://github.com/CleverRaven/Cataclysm-DDA/pull/88674))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-18-0048 ([636b7cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-18-0048))
 
 * For item::get_remaining_capacity_for_liquid(), return enum of issue instead of string ([#88681](https://github.com/CleverRaven/Cataclysm-DDA/pull/88681))
@@ -152,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2026-09-14-1504 ([f56a711](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1504))
 
 * [Xedra Evolved] Add Dreamworker workshops to XE portal labs ([#88590](https://github.com/CleverRaven/Cataclysm-DDA/pull/88590))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-14-1302 ([e03b981](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1302))
-
 * remove parasites risk from tallow ([#88630](https://github.com/CleverRaven/Cataclysm-DDA/pull/88630))
 * Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
 * Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
@@ -214,6 +215,5 @@
 * [Xedra Evolved] Changeling Advancement glamours display dreamdross cost, one costs more mana ([#88565](https://github.com/CleverRaven/Cataclysm-DDA/pull/88565))
 * fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
 * Register the item info scroll keybinds in the item action menu ([#88569](https://github.com/CleverRaven/Cataclysm-DDA/pull/88569))
-* fix syrup material ([#88562](https://github.com/CleverRaven/Cataclysm-DDA/pull/88562))
 * fix the sandleather craft ([#88570](https://github.com/CleverRaven/Cataclysm-DDA/pull/88570))
 * fixes for sugar beets ([#88564](https://github.com/CleverRaven/Cataclysm-DDA/pull/88564))
