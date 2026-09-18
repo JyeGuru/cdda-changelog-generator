@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-18-0048 ([636b7cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-18-0048))
+
 * For item::get_remaining_capacity_for_liquid(), return enum of issue instead of string ([#88681](https://github.com/CleverRaven/Cataclysm-DDA/pull/88681))
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
 
@@ -153,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2026-09-14-1302 ([e03b981](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1302))
 
 * remove parasites risk from tallow ([#88630](https://github.com/CleverRaven/Cataclysm-DDA/pull/88630))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-14-0223 ([33aca46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-0223))
-
 * Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
 * Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
 * Sky Island: Override dimension travel so it takes you to the island ([#88657](https://github.com/CleverRaven/Cataclysm-DDA/pull/88657))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-09-18-0048 (636b7cd)
 * For item::get_remaining_capacity_for_liquid(), return enum of issue instead of string (#88681)
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection (#88706)
 
@@ -81,8 +83,6 @@ Cataclysm-DDA experimental build 2026-09-14-1504 (f56a711)
 
 Cataclysm-DDA experimental build 2026-09-14-1302 (e03b981)
 * remove parasites risk from tallow (#88630)
-
-Cataclysm-DDA experimental build 2026-09-14-0223 (33aca46)
 * Scarlet storm improvements (#88654)
 * Alternate sizes for portraits, by tileset (#88648)
 * Sky Island: Override dimension travel so it takes you to the island (#88657)
