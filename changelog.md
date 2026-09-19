@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-19-1730 ([e3e319c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1730))
+
 * Skip pre-baked atlas variants the gpu shaders already cover ([#88720](https://github.com/CleverRaven/Cataclysm-DDA/pull/88720))
 
 ---
@@ -138,11 +143,6 @@
 #### Cataclysm-DDA experimental build 2026-09-15-2101 ([88d70e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2101))
 
 * Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-15-2011 ([7c51f11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2011))
-
 * [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
 * Give naturally spawnable veggy variants new abstract without triffid fibers. ([#88611](https://github.com/CleverRaven/Cataclysm-DDA/pull/88611))
 * Remove obsolete DEFAULT_REGION external option ([#88662](https://github.com/CleverRaven/Cataclysm-DDA/pull/88662))

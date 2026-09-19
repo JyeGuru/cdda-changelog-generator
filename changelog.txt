@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-09-19-1730 (e3e319c)
 * Skip pre-baked atlas variants the gpu shaders already cover (#88720)
 
 Cataclysm-DDA experimental build 2026-09-19-1645 (400f779)
@@ -75,8 +77,6 @@ Cataclysm-DDA experimental build 2026-09-15-2320 (f8a8f3a)
 
 Cataclysm-DDA experimental build 2026-09-15-2101 (88d70e0)
 * Imguify Help Menu (#88665)
-
-Cataclysm-DDA experimental build 2026-09-15-2011 (7c51f11)
 * [Xedra Evolved] Update `hallu` effect (#88675)
 * Give naturally spawnable veggy variants new abstract without triffid fibers. (#88611)
 * Remove obsolete DEFAULT_REGION external option (#88662)
