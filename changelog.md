@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-19-1233 ([6fbe540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1233))
+
+* tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
 * RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
 
 ---
@@ -137,11 +143,6 @@
 #### Cataclysm-DDA experimental build 2026-09-15-1037 ([0df6061](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-1037))
 
 * Give naturally spawnable veggy variants new abstract without triffid fibers. ([#88611](https://github.com/CleverRaven/Cataclysm-DDA/pull/88611))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-15-0556 ([10303d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-0556))
-
 * Remove obsolete DEFAULT_REGION external option ([#88662](https://github.com/CleverRaven/Cataclysm-DDA/pull/88662))
 * [MoM] Add scarlet storm to nether weather check ([#88668](https://github.com/CleverRaven/Cataclysm-DDA/pull/88668))
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
@@ -184,7 +185,6 @@
 * A storms a brewin - the scarlet storm ([#88615](https://github.com/CleverRaven/Cataclysm-DDA/pull/88615))
 * [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
-* Fix item info panel scrolling in the item action menu ([#88568](https://github.com/CleverRaven/Cataclysm-DDA/pull/88568))
 * fix bad density for marloss seeds, berries, gel ([#88573](https://github.com/CleverRaven/Cataclysm-DDA/pull/88573))
 * delete "fruit_div" field for seeds ([#88579](https://github.com/CleverRaven/Cataclysm-DDA/pull/88579))
 * remove skills required from sandleather and change the difficulty to two ([#88585](https://github.com/CleverRaven/Cataclysm-DDA/pull/88585))
