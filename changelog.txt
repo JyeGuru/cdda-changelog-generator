@@ -1,3 +1,7 @@
+* Skip pre-baked atlas variants the gpu shaders already cover (#88720)
+
+Cataclysm-DDA experimental build 2026-09-19-1645 (400f779)
+* add uncooked bacon (#88672)
 
 Cataclysm-DDA experimental build 2026-09-19-1233 (6fbe540)
 * tidy up (#88721)
@@ -74,8 +78,6 @@ Cataclysm-DDA experimental build 2026-09-15-2101 (88d70e0)
 
 Cataclysm-DDA experimental build 2026-09-15-2011 (7c51f11)
 * [Xedra Evolved] Update `hallu` effect (#88675)
-
-Cataclysm-DDA experimental build 2026-09-15-1037 (0df6061)
 * Give naturally spawnable veggy variants new abstract without triffid fibers. (#88611)
 * Remove obsolete DEFAULT_REGION external option (#88662)
 * [MoM] Add scarlet storm to nether weather check (#88668)
@@ -136,5 +138,3 @@ Cataclysm-DDA experimental build 2026-09-15-1037 (0df6061)
 * bean seeds shouldn't weigh 0.224 g/ml (#88576)
 * add wire from mattress springs (#88572)
 * fix bad density for glowstick (#88574)
-* Register the item info scroll keybinds in the item action menu (#88569)
-* fix the sandleather craft (#88570)
