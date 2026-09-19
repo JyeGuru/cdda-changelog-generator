@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-19-1937 (d684155)
+* [ Magiclysm ] khanjar for hy-brasilean guard (#88701)
+
 Cataclysm-DDA experimental build 2026-09-19-1730 (e3e319c)
 * Skip pre-baked atlas variants the gpu shaders already cover (#88720)
 
@@ -74,8 +77,6 @@ Cataclysm-DDA experimental build 2026-09-16-0004 (348b994)
 
 Cataclysm-DDA experimental build 2026-09-15-2320 (f8a8f3a)
 * fix accessor_flags usage in map::all_items (#88652)
-
-Cataclysm-DDA experimental build 2026-09-15-2101 (88d70e0)
 * Imguify Help Menu (#88665)
 * [Xedra Evolved] Update `hallu` effect (#88675)
 * Give naturally spawnable veggy variants new abstract without triffid fibers. (#88611)
@@ -136,5 +137,4 @@ Cataclysm-DDA experimental build 2026-09-15-2101 (88d70e0)
 * Stabilize local Windows test runs (#88580)
 * Stabilize test state resets and highway debug logging (#88577)
 * bean seeds shouldn't weigh 0.224 g/ml (#88576)
-* add wire from mattress springs (#88572)
 * fix bad density for glowstick (#88574)

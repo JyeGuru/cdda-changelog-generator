@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-19-1937 ([d684155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1937))
+
+* [ Magiclysm ] khanjar for hy-brasilean guard ([#88701](https://github.com/CleverRaven/Cataclysm-DDA/pull/88701))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-19-1730 ([e3e319c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1730))
 
 * Skip pre-baked atlas variants the gpu shaders already cover ([#88720](https://github.com/CleverRaven/Cataclysm-DDA/pull/88720))
@@ -137,11 +143,6 @@
 #### Cataclysm-DDA experimental build 2026-09-15-2320 ([f8a8f3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2320))
 
 * fix accessor_flags usage in map::all_items ([#88652](https://github.com/CleverRaven/Cataclysm-DDA/pull/88652))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-15-2101 ([88d70e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2101))
-
 * Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
 * [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
 * Give naturally spawnable veggy variants new abstract without triffid fibers. ([#88611](https://github.com/CleverRaven/Cataclysm-DDA/pull/88611))
@@ -202,5 +203,4 @@
 * Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
 * Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
 * bean seeds shouldn't weigh 0.224 g/ml ([#88576](https://github.com/CleverRaven/Cataclysm-DDA/pull/88576))
-* add wire from mattress springs ([#88572](https://github.com/CleverRaven/Cataclysm-DDA/pull/88572))
 * fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
