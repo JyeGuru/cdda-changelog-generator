@@ -1,3 +1,4 @@
+* RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
 
 ---
 
@@ -142,23 +143,8 @@
 #### Cataclysm-DDA experimental build 2026-09-15-0556 ([10303d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-0556))
 
 * Remove obsolete DEFAULT_REGION external option ([#88662](https://github.com/CleverRaven/Cataclysm-DDA/pull/88662))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-15-0507 ([046215e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-0507))
-
 * [MoM] Add scarlet storm to nether weather check ([#88668](https://github.com/CleverRaven/Cataclysm-DDA/pull/88668))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-14-2204 ([69c0dc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-2204))
-
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-14-1932 ([08704e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-14-1932))
-
 * Fix large grenade bandoliers not fitting molotovs ([#88661](https://github.com/CleverRaven/Cataclysm-DDA/pull/88661))
 * Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))
 * [Xedra Evolved] Add Dreamworker workshops to XE portal labs ([#88590](https://github.com/CleverRaven/Cataclysm-DDA/pull/88590))
