@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-20-1619 ([d8ebf8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-1619))
+
+* Rename "fast travel" to "overmap-only auto travel" ([#88723](https://github.com/CleverRaven/Cataclysm-DDA/pull/88723))
+* Fix MSVC C4244 ([#88747](https://github.com/CleverRaven/Cataclysm-DDA/pull/88747))
+* Fix stone tools not being craftable from a stack of rocks ([#88746](https://github.com/CleverRaven/Cataclysm-DDA/pull/88746))
+* Fix out of bounds write from inverted point ranges ([#88740](https://github.com/CleverRaven/Cataclysm-DDA/pull/88740))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-20-1535 ([0932afc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-1535))
+
+* Fix tentacle stockings not covering your tentacles ([#88737](https://github.com/CleverRaven/Cataclysm-DDA/pull/88737))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-20-0332 ([8b6d12e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0332))
 
 * Remove copper dupe ([#88719](https://github.com/CleverRaven/Cataclysm-DDA/pull/88719))
@@ -139,11 +154,6 @@
 #### Cataclysm-DDA experimental build 2026-09-17-0309 ([a9381f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0309))
 
 * move all crafting_inventory operations to temp_crafting_inventory class ([#88606](https://github.com/CleverRaven/Cataclysm-DDA/pull/88606))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-0206 ([67a460f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0206))
-
 * Weekly Changelog 2026-09-07 to 2026-09-14 ([#88660](https://github.com/CleverRaven/Cataclysm-DDA/pull/88660))
 * [XE] Fix the blood level UI displaying a wrong maximal value. ([#88688](https://github.com/CleverRaven/Cataclysm-DDA/pull/88688))
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
@@ -199,14 +209,10 @@
 * A storms a brewin - the scarlet storm ([#88615](https://github.com/CleverRaven/Cataclysm-DDA/pull/88615))
 * [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
-* remove skills required from sandleather and change the difficulty to two ([#88585](https://github.com/CleverRaven/Cataclysm-DDA/pull/88585))
-* Aftershock: Vahagn updates ([#88583](https://github.com/CleverRaven/Cataclysm-DDA/pull/88583))
 * 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage ([#88603](https://github.com/CleverRaven/Cataclysm-DDA/pull/88603))
 * Suppress spellbook preview learning messages ([#88602](https://github.com/CleverRaven/Cataclysm-DDA/pull/88602))
 * Document attach_molle and detach_molle use actions ([#88587](https://github.com/CleverRaven/Cataclysm-DDA/pull/88587))
 * update lye items and itemgroups ([#88595](https://github.com/CleverRaven/Cataclysm-DDA/pull/88595))
 * fix bedroom_4x4_adult_2_W error ([#88599](https://github.com/CleverRaven/Cataclysm-DDA/pull/88599))
 * Weather can tint sunlight ([#88591](https://github.com/CleverRaven/Cataclysm-DDA/pull/88591))
-* Fix false supernatural ability availability warning ([#88586](https://github.com/CleverRaven/Cataclysm-DDA/pull/88586))
 * Add glslang to MSYS2 build dependencies ([#88588](https://github.com/CleverRaven/Cataclysm-DDA/pull/88588))
-* Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
