@@ -148,11 +148,6 @@
 * [XE] Fix the blood level UI displaying a wrong maximal value. ([#88688](https://github.com/CleverRaven/Cataclysm-DDA/pull/88688))
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-0030 ([97baa46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0030))
-
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
 * Pat reacts to and can signpost the Scarlet Storm ([#88680](https://github.com/CleverRaven/Cataclysm-DDA/pull/88680))
 * fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))

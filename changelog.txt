@@ -79,8 +79,6 @@ Cataclysm-DDA experimental build 2026-09-17-0206 (67a460f)
 * [XE] Fix the blood level UI displaying a wrong maximal value. (#88688)
 * Made the main function more readable (#88696)
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place (#88697)
-
-Cataclysm-DDA experimental build 2026-09-17-0030 (97baa46)
 * Fix military PAPR mask coverage (#88698)
 * Pat reacts to and can signpost the Scarlet Storm (#88680)
 * fix condensed milk material (#88684)
