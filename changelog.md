@@ -1,3 +1,23 @@
+* Magiclysm: universal mojocycle controls ([#88704](https://github.com/CleverRaven/Cataclysm-DDA/pull/88704))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-20-0100 ([f9ab886](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0100))
+
+* fix ammo_recovery item_info ([#88727](https://github.com/CleverRaven/Cataclysm-DDA/pull/88727))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-20-0003 ([73e3309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0003))
+
+* give cattail stalks and plant stalks a length ([#88728](https://github.com/CleverRaven/Cataclysm-DDA/pull/88728))
+* Silence chemistry test ([#88733](https://github.com/CleverRaven/Cataclysm-DDA/pull/88733))
+
+---
+
+#### Cataclysm-DDA 0.I release candidate 2026-09-19-2324 ([7b2efa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-19-2324))
+
+* Update changelog, manifest and in-game version for 0.I-1 ([#88726](https://github.com/CleverRaven/Cataclysm-DDA/pull/88726))
 
 ---
 
@@ -129,19 +149,9 @@
 #### Cataclysm-DDA experimental build 2026-09-16-0625 ([b1eb07f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-16-0625))
 
 * fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-16-0004 ([348b994](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-16-0004))
-
 * Prevent NPCs from trying to get off moving vehicles to sleep ([#88663](https://github.com/CleverRaven/Cataclysm-DDA/pull/88663))
 * Pretty up the dialogue sidebar ([#88671](https://github.com/CleverRaven/Cataclysm-DDA/pull/88671))
 * Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm ([#88679](https://github.com/CleverRaven/Cataclysm-DDA/pull/88679))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-15-2320 ([f8a8f3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-15-2320))
-
 * fix accessor_flags usage in map::all_items ([#88652](https://github.com/CleverRaven/Cataclysm-DDA/pull/88652))
 * Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
 * [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
@@ -188,7 +198,6 @@
 * A storms a brewin - the scarlet storm ([#88615](https://github.com/CleverRaven/Cataclysm-DDA/pull/88615))
 * [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
-* fix bad density for marloss seeds, berries, gel ([#88573](https://github.com/CleverRaven/Cataclysm-DDA/pull/88573))
 * delete "fruit_div" field for seeds ([#88579](https://github.com/CleverRaven/Cataclysm-DDA/pull/88579))
 * remove skills required from sandleather and change the difficulty to two ([#88585](https://github.com/CleverRaven/Cataclysm-DDA/pull/88585))
 * Aftershock: Vahagn updates ([#88583](https://github.com/CleverRaven/Cataclysm-DDA/pull/88583))
@@ -201,6 +210,3 @@
 * Fix false supernatural ability availability warning ([#88586](https://github.com/CleverRaven/Cataclysm-DDA/pull/88586))
 * Add glslang to MSYS2 build dependencies ([#88588](https://github.com/CleverRaven/Cataclysm-DDA/pull/88588))
 * Stabilize local Windows test runs ([#88580](https://github.com/CleverRaven/Cataclysm-DDA/pull/88580))
-* Stabilize test state resets and highway debug logging ([#88577](https://github.com/CleverRaven/Cataclysm-DDA/pull/88577))
-* bean seeds shouldn't weigh 0.224 g/ml ([#88576](https://github.com/CleverRaven/Cataclysm-DDA/pull/88576))
-* fix bad density for glowstick ([#88574](https://github.com/CleverRaven/Cataclysm-DDA/pull/88574))
