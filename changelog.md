@@ -1,3 +1,20 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-20-0332 ([8b6d12e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0332))
+
+* Remove copper dupe ([#88719](https://github.com/CleverRaven/Cataclysm-DDA/pull/88719))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-20-0250 ([a1f0b06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0250))
+
+* [Xedra Evolved] The Exodii won't talk to the Fair Folk ([#88717](https://github.com/CleverRaven/Cataclysm-DDA/pull/88717))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-20-0146 ([228e734](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0146))
+
 * Magiclysm: universal mojocycle controls ([#88704](https://github.com/CleverRaven/Cataclysm-DDA/pull/88704))
 
 ---
@@ -137,17 +154,7 @@
 #### Cataclysm-DDA experimental build 2026-09-17-0030 ([97baa46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0030))
 
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-16-1502 ([4496b0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-16-1502))
-
 * Pat reacts to and can signpost the Scarlet Storm ([#88680](https://github.com/CleverRaven/Cataclysm-DDA/pull/88680))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-16-0625 ([b1eb07f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-16-0625))
-
 * fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))
 * Prevent NPCs from trying to get off moving vehicles to sleep ([#88663](https://github.com/CleverRaven/Cataclysm-DDA/pull/88663))
 * Pretty up the dialogue sidebar ([#88671](https://github.com/CleverRaven/Cataclysm-DDA/pull/88671))
@@ -193,12 +200,10 @@
 * [Hunvre] Adding Hunvre-specific clothing, part 4: Shirts and sweatshirts ([#88601](https://github.com/CleverRaven/Cataclysm-DDA/pull/88601))
 * Fix GCC 16 warnings in multiple source files ([#88613](https://github.com/CleverRaven/Cataclysm-DDA/pull/88613))
 * Remove faults from red "mp3 player" ([#88618](https://github.com/CleverRaven/Cataclysm-DDA/pull/88618))
-* fix volumes of raw meats ([#88578](https://github.com/CleverRaven/Cataclysm-DDA/pull/88578))
 * Scoot Scarlet Sea JSON into their own files ([#88617](https://github.com/CleverRaven/Cataclysm-DDA/pull/88617))
 * A storms a brewin - the scarlet storm ([#88615](https://github.com/CleverRaven/Cataclysm-DDA/pull/88615))
 * [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
-* delete "fruit_div" field for seeds ([#88579](https://github.com/CleverRaven/Cataclysm-DDA/pull/88579))
 * remove skills required from sandleather and change the difficulty to two ([#88585](https://github.com/CleverRaven/Cataclysm-DDA/pull/88585))
 * Aftershock: Vahagn updates ([#88583](https://github.com/CleverRaven/Cataclysm-DDA/pull/88583))
 * 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage ([#88603](https://github.com/CleverRaven/Cataclysm-DDA/pull/88603))
