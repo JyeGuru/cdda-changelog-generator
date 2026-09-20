@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-20-2139 ([a36b885](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-2139))
+
+* [XE] Torpor can't be used outdoors and ask for confirmation before starting ([#88750](https://github.com/CleverRaven/Cataclysm-DDA/pull/88750))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-20-2051 ([b94a8f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-2051))
+
+* SCBA systems ([#88730](https://github.com/CleverRaven/Cataclysm-DDA/pull/88730))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-20-1619 ([d8ebf8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-1619))
 
 * Rename "fast travel" to "overmap-only auto travel" ([#88723](https://github.com/CleverRaven/Cataclysm-DDA/pull/88723))
@@ -142,17 +154,7 @@
 
 * Add NOT_HALLUCINATION flag to test monsters. ([#88687](https://github.com/CleverRaven/Cataclysm-DDA/pull/88687))
 * Fix sided one-per-layer ring wearing limits ([#88689](https://github.com/CleverRaven/Cataclysm-DDA/pull/88689))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-0519 ([31f9e77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0519))
-
 * Fix solder price ([#88692](https://github.com/CleverRaven/Cataclysm-DDA/pull/88692))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-0309 ([a9381f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0309))
-
 * move all crafting_inventory operations to temp_crafting_inventory class ([#88606](https://github.com/CleverRaven/Cataclysm-DDA/pull/88606))
 * Weekly Changelog 2026-09-07 to 2026-09-14 ([#88660](https://github.com/CleverRaven/Cataclysm-DDA/pull/88660))
 * [XE] Fix the blood level UI displaying a wrong maximal value. ([#88688](https://github.com/CleverRaven/Cataclysm-DDA/pull/88688))
@@ -211,8 +213,6 @@
 * Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
 * 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage ([#88603](https://github.com/CleverRaven/Cataclysm-DDA/pull/88603))
 * Suppress spellbook preview learning messages ([#88602](https://github.com/CleverRaven/Cataclysm-DDA/pull/88602))
-* Document attach_molle and detach_molle use actions ([#88587](https://github.com/CleverRaven/Cataclysm-DDA/pull/88587))
 * update lye items and itemgroups ([#88595](https://github.com/CleverRaven/Cataclysm-DDA/pull/88595))
 * fix bedroom_4x4_adult_2_W error ([#88599](https://github.com/CleverRaven/Cataclysm-DDA/pull/88599))
 * Weather can tint sunlight ([#88591](https://github.com/CleverRaven/Cataclysm-DDA/pull/88591))
-* Add glslang to MSYS2 build dependencies ([#88588](https://github.com/CleverRaven/Cataclysm-DDA/pull/88588))
