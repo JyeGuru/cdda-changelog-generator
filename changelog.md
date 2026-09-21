@@ -215,4 +215,3 @@
 * Suppress spellbook preview learning messages ([#88602](https://github.com/CleverRaven/Cataclysm-DDA/pull/88602))
 * update lye items and itemgroups ([#88595](https://github.com/CleverRaven/Cataclysm-DDA/pull/88595))
 * fix bedroom_4x4_adult_2_W error ([#88599](https://github.com/CleverRaven/Cataclysm-DDA/pull/88599))
-* Weather can tint sunlight ([#88591](https://github.com/CleverRaven/Cataclysm-DDA/pull/88591))
