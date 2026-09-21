@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-21-2159 ([caf80c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-2159))
+
+* add dremel ([#88768](https://github.com/CleverRaven/Cataclysm-DDA/pull/88768))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-21-0103 ([bdb8554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-0103))
 
 * Add a second blob singularity: the Reclaimer ([#88738](https://github.com/CleverRaven/Cataclysm-DDA/pull/88738))
@@ -188,7 +194,6 @@
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
-* Dialogue portraits for realsies ([#88592](https://github.com/CleverRaven/Cataclysm-DDA/pull/88592))
 * [XE] Dreamer checks against base morale ([#88622](https://github.com/CleverRaven/Cataclysm-DDA/pull/88622))
 * fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
 * remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
