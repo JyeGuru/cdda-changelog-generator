@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-21-0103 ([bdb8554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-0103))
+
+* Add a second blob singularity: the Reclaimer ([#88738](https://github.com/CleverRaven/Cataclysm-DDA/pull/88738))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-21-0004 ([6a27f9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-0004))
+
+* fix beet sugar, rum recipe ([#88753](https://github.com/CleverRaven/Cataclysm-DDA/pull/88753))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-20-2139 ([a36b885](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-2139))
 
 * [XE] Torpor can't be used outdoors and ask for confirmation before starting ([#88750](https://github.com/CleverRaven/Cataclysm-DDA/pull/88750))
@@ -141,17 +153,7 @@
 * add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
 * Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
 * [Mods] The Exodii don't buy magic items ([#88694](https://github.com/CleverRaven/Cataclysm-DDA/pull/88694))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-1631 ([0d9f5e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-1631))
-
 * Clarification of grace period on dropped items ([#88700](https://github.com/CleverRaven/Cataclysm-DDA/pull/88700))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-0616 ([f564973](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-0616))
-
 * Add NOT_HALLUCINATION flag to test monsters. ([#88687](https://github.com/CleverRaven/Cataclysm-DDA/pull/88687))
 * Fix sided one-per-layer ring wearing limits ([#88689](https://github.com/CleverRaven/Cataclysm-DDA/pull/88689))
 * Fix solder price ([#88692](https://github.com/CleverRaven/Cataclysm-DDA/pull/88692))
@@ -175,7 +177,6 @@
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
 * Fix large grenade bandoliers not fitting molotovs ([#88661](https://github.com/CleverRaven/Cataclysm-DDA/pull/88661))
 * Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))
-* [Xedra Evolved] Add Dreamworker workshops to XE portal labs ([#88590](https://github.com/CleverRaven/Cataclysm-DDA/pull/88590))
 * remove parasites risk from tallow ([#88630](https://github.com/CleverRaven/Cataclysm-DDA/pull/88630))
 * Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
 * Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
@@ -184,7 +185,6 @@
 * Reduce locker line in cs_open_sewer from 3 to 1 ([#88639](https://github.com/CleverRaven/Cataclysm-DDA/pull/88639))
 * Improve spell learning table ([#88650](https://github.com/CleverRaven/Cataclysm-DDA/pull/88650))
 * [DinoMod] nerf feather drops ([#88633](https://github.com/CleverRaven/Cataclysm-DDA/pull/88633))
-* Move mod source to debug_mode ([#88589](https://github.com/CleverRaven/Cataclysm-DDA/pull/88589))
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))

@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-09-21-0103 (bdb8554)
+* Add a second blob singularity: the Reclaimer (#88738)
+
+Cataclysm-DDA experimental build 2026-09-21-0004 (6a27f9e)
+* fix beet sugar, rum recipe (#88753)
+
 Cataclysm-DDA experimental build 2026-09-20-2139 (a36b885)
 * [XE] Torpor can't be used outdoors and ask for confirmation before starting (#88750)
 
@@ -75,11 +81,7 @@ Cataclysm-DDA experimental build 2026-09-17-2025 (31b002d)
 * add new stormshaper spell and start (#88699)
 * Allow wooden and metal gangways to be deconstructed. (#88703)
 * [Mods] The Exodii don't buy magic items (#88694)
-
-Cataclysm-DDA experimental build 2026-09-17-1631 (0d9f5e9)
 * Clarification of grace period on dropped items (#88700)
-
-Cataclysm-DDA experimental build 2026-09-17-0616 (f564973)
 * Add NOT_HALLUCINATION flag to test monsters. (#88687)
 * Fix sided one-per-layer ring wearing limits (#88689)
 * Fix solder price (#88692)
@@ -103,7 +105,6 @@ Cataclysm-DDA experimental build 2026-09-17-0616 (f564973)
 * More explicit Scarlet Storm warning (#88666)
 * Fix large grenade bandoliers not fitting molotovs (#88661)
 * Bugfix: trapped in imperal road (#88667)
-* [Xedra Evolved] Add Dreamworker workshops to XE portal labs (#88590)
 * remove parasites risk from tallow (#88630)
 * Scarlet storm improvements (#88654)
 * Alternate sizes for portraits, by tileset (#88648)
@@ -112,7 +113,6 @@ Cataclysm-DDA experimental build 2026-09-17-0616 (f564973)
 * Reduce locker line in cs_open_sewer from 3 to 1 (#88639)
 * Improve spell learning table (#88650)
 * [DinoMod] nerf feather drops (#88633)
-* Move mod source to debug_mode (#88589)
 * Stop copying item pointers when counting (#88645)
 * Revert to debugmsg for out-of-bounds highway slant pathing (#88643)
 * Remove debug message capture from monster navigation test (#88642)
