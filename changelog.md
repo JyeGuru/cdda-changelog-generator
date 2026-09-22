@@ -1,6 +1,29 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-22-0431 ([2cb5782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0431))
+
+* fix vitamins content of porkbelly ([#88752](https://github.com/CleverRaven/Cataclysm-DDA/pull/88752))
+* Tint sprites with colored light inside the shader on the gpu renderer ([#88754](https://github.com/CleverRaven/Cataclysm-DDA/pull/88754))
+* Weekly Changelog 2026-09-14 to 2026-09-21 ([#88759](https://github.com/CleverRaven/Cataclysm-DDA/pull/88759))
+* Change .45 acp default ammo to be the same as other pistol cartriges ([#88762](https://github.com/CleverRaven/Cataclysm-DDA/pull/88762))
+* Make device really optional in _has_software ([#88760](https://github.com/CleverRaven/Cataclysm-DDA/pull/88760))
+* Consolidate canning recipes to use nested system part 1 ([#88766](https://github.com/CleverRaven/Cataclysm-DDA/pull/88766))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-22-0352 ([d714592](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0352))
+
+* Update and rename military & firefighter respirators w/ new SCBA system ([#88773](https://github.com/CleverRaven/Cataclysm-DDA/pull/88773))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-22-0124 ([b692e5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0124))
+
+* Fix GCC 9 build error in cataimgui::draw_texture ([#88771](https://github.com/CleverRaven/Cataclysm-DDA/pull/88771))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-21-2159 ([caf80c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-2159))
 
 * add dremel ([#88768](https://github.com/CleverRaven/Cataclysm-DDA/pull/88768))
@@ -138,23 +161,8 @@
 #### Cataclysm-DDA experimental build 2026-09-18-0006 ([2fc6b30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-18-0006))
 
 * Fix inventory selector measurements for display_type items ([#88686](https://github.com/CleverRaven/Cataclysm-DDA/pull/88686))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-2251 ([6606981](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-2251))
-
 * Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-2210 ([4963498](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-2210))
-
 * Unify pipe rifle crafting times to 1 h ([#88693](https://github.com/CleverRaven/Cataclysm-DDA/pull/88693))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-17-2025 ([31b002d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-17-2025))
-
 * Update vanilla effects with `INHALED_TOXIN_IMMUNE` flag ([#88682](https://github.com/CleverRaven/Cataclysm-DDA/pull/88682))
 * add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
 * Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
@@ -163,7 +171,6 @@
 * Add NOT_HALLUCINATION flag to test monsters. ([#88687](https://github.com/CleverRaven/Cataclysm-DDA/pull/88687))
 * Fix sided one-per-layer ring wearing limits ([#88689](https://github.com/CleverRaven/Cataclysm-DDA/pull/88689))
 * Fix solder price ([#88692](https://github.com/CleverRaven/Cataclysm-DDA/pull/88692))
-* move all crafting_inventory operations to temp_crafting_inventory class ([#88606](https://github.com/CleverRaven/Cataclysm-DDA/pull/88606))
 * Weekly Changelog 2026-09-07 to 2026-09-14 ([#88660](https://github.com/CleverRaven/Cataclysm-DDA/pull/88660))
 * [XE] Fix the blood level UI displaying a wrong maximal value. ([#88688](https://github.com/CleverRaven/Cataclysm-DDA/pull/88688))
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
@@ -177,7 +184,6 @@
 * fix accessor_flags usage in map::all_items ([#88652](https://github.com/CleverRaven/Cataclysm-DDA/pull/88652))
 * Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
 * [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
-* Give naturally spawnable veggy variants new abstract without triffid fibers. ([#88611](https://github.com/CleverRaven/Cataclysm-DDA/pull/88611))
 * Remove obsolete DEFAULT_REGION external option ([#88662](https://github.com/CleverRaven/Cataclysm-DDA/pull/88662))
 * [MoM] Add scarlet storm to nether weather check ([#88668](https://github.com/CleverRaven/Cataclysm-DDA/pull/88668))
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
@@ -209,14 +215,8 @@
 * doc: fix batch time typo ([#88632](https://github.com/CleverRaven/Cataclysm-DDA/pull/88632))
 * [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
 * Filter masks block `nauseating stench` ([#88620](https://github.com/CleverRaven/Cataclysm-DDA/pull/88620))
-* [Hunvre] Adding Hunvre-specific clothing, part 4: Shirts and sweatshirts ([#88601](https://github.com/CleverRaven/Cataclysm-DDA/pull/88601))
 * Fix GCC 16 warnings in multiple source files ([#88613](https://github.com/CleverRaven/Cataclysm-DDA/pull/88613))
 * Remove faults from red "mp3 player" ([#88618](https://github.com/CleverRaven/Cataclysm-DDA/pull/88618))
 * Scoot Scarlet Sea JSON into their own files ([#88617](https://github.com/CleverRaven/Cataclysm-DDA/pull/88617))
 * A storms a brewin - the scarlet storm ([#88615](https://github.com/CleverRaven/Cataclysm-DDA/pull/88615))
 * [Xedra Evolved] Ominous colors ([#88614](https://github.com/CleverRaven/Cataclysm-DDA/pull/88614))
-* Skip checking wind resistance of items with no coverage ([#88600](https://github.com/CleverRaven/Cataclysm-DDA/pull/88600))
-* 0.I-1 backport #84739: give AR glasses etransfer_rate and data storage ([#88603](https://github.com/CleverRaven/Cataclysm-DDA/pull/88603))
-* Suppress spellbook preview learning messages ([#88602](https://github.com/CleverRaven/Cataclysm-DDA/pull/88602))
-* update lye items and itemgroups ([#88595](https://github.com/CleverRaven/Cataclysm-DDA/pull/88595))
-* fix bedroom_4x4_adult_2_W error ([#88599](https://github.com/CleverRaven/Cataclysm-DDA/pull/88599))
