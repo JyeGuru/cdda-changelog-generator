@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-22-2303 ([9be22e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-2303))
+
+* Speed up the crafting menu near large piles of items ([#88781](https://github.com/CleverRaven/Cataclysm-DDA/pull/88781))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-22-2209 ([e8edf7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-2209))
+
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
 * 20 gauge shotguns ([#88713](https://github.com/CleverRaven/Cataclysm-DDA/pull/88713))
 
@@ -157,11 +168,6 @@
 
 * tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
 * RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-19-0033 ([07e6eb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-0033))
-
 * Hide the tools an unattended craft is using ([#88656](https://github.com/CleverRaven/Cataclysm-DDA/pull/88656))
 * Character creation fix ([#88715](https://github.com/CleverRaven/Cataclysm-DDA/pull/88715))
 * Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
@@ -212,7 +218,6 @@
 * fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
 * remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
 * delete 1st_aid references ([#88635](https://github.com/CleverRaven/Cataclysm-DDA/pull/88635))
-* Add action flags to guns ([#88624](https://github.com/CleverRaven/Cataclysm-DDA/pull/88624))
 * Various updates to anomalous mp3 player ([#88626](https://github.com/CleverRaven/Cataclysm-DDA/pull/88626))
 * remove gobag from all mapgen ([#88636](https://github.com/CleverRaven/Cataclysm-DDA/pull/88636))
 * fix bad density for cracklins ([#88627](https://github.com/CleverRaven/Cataclysm-DDA/pull/88627))

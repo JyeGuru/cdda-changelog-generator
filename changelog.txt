@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-09-22-2303 (9be22e2)
+* Speed up the crafting menu near large piles of items (#88781)
+
+Cataclysm-DDA experimental build 2026-09-22-2209 (e8edf7e)
 * remove bb recipe (#88783)
 * 20 gauge shotguns (#88713)
 
@@ -85,8 +90,6 @@ Cataclysm-DDA experimental build 2026-09-19-1645 (400f779)
 Cataclysm-DDA experimental build 2026-09-19-1233 (6fbe540)
 * tidy up (#88721)
 * RM13 combat armor overhaul, part II (#88714)
-
-Cataclysm-DDA experimental build 2026-09-19-0033 (07e6eb0)
 * Hide the tools an unattended craft is using (#88656)
 * Character creation fix (#88715)
 * Keep every live tileset bundle in renderer recovery (#88716)
@@ -137,7 +140,6 @@ Cataclysm-DDA experimental build 2026-09-19-0033 (07e6eb0)
 * fix bad density for marrow (#88625)
 * remove water weight when creating bacon (#88644)
 * delete 1st_aid references (#88635)
-* Add action flags to guns (#88624)
 * Various updates to anomalous mp3 player (#88626)
 * remove gobag from all mapgen (#88636)
 * fix bad density for cracklins (#88627)
