@@ -1,3 +1,11 @@
+* remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
+* 20 gauge shotguns ([#88713](https://github.com/CleverRaven/Cataclysm-DDA/pull/88713))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-22-2116 ([8ed604d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-2116))
+
+* make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
 
 ---
 
@@ -123,11 +131,6 @@
 
 * give cattail stalks and plant stalks a length ([#88728](https://github.com/CleverRaven/Cataclysm-DDA/pull/88728))
 * Silence chemistry test ([#88733](https://github.com/CleverRaven/Cataclysm-DDA/pull/88733))
-
----
-
-#### Cataclysm-DDA 0.I release candidate 2026-09-19-2324 ([7b2efa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.I-2026-09-19-2324))
-
 * Update changelog, manifest and in-game version for 0.I-1 ([#88726](https://github.com/CleverRaven/Cataclysm-DDA/pull/88726))
 
 ---
@@ -206,7 +209,6 @@
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
-* [XE] Dreamer checks against base morale ([#88622](https://github.com/CleverRaven/Cataclysm-DDA/pull/88622))
 * fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
 * remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
 * delete 1st_aid references ([#88635](https://github.com/CleverRaven/Cataclysm-DDA/pull/88635))
@@ -219,5 +221,3 @@
 * halve hellfire stew recipe batch size ([#88631](https://github.com/CleverRaven/Cataclysm-DDA/pull/88631))
 * remove redundant offal fields ([#88629](https://github.com/CleverRaven/Cataclysm-DDA/pull/88629))
 * doc: fix batch time typo ([#88632](https://github.com/CleverRaven/Cataclysm-DDA/pull/88632))
-* [Xedra Evolved] Ethereal Wings can fail if you're damaged while flying ([#88619](https://github.com/CleverRaven/Cataclysm-DDA/pull/88619))
-* Filter masks block `nauseating stench` ([#88620](https://github.com/CleverRaven/Cataclysm-DDA/pull/88620))
