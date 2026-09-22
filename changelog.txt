@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-09-22-0745 (555c676)
+* Fix zone sort hang while dragging a loaded cart (#88767)
+
 Cataclysm-DDA experimental build 2026-09-22-0431 (2cb5782)
 * fix vitamins content of porkbelly (#88752)
 * Tint sprites with colored light inside the shader on the gpu renderer (#88754)
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2026-09-18-0640 (63a3cd0)
 Cataclysm-DDA experimental build 2026-09-18-0048 (636b7cd)
 * For item::get_remaining_capacity_for_liquid(), return enum of issue instead of string (#88681)
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection (#88706)
-
-Cataclysm-DDA experimental build 2026-09-18-0006 (2fc6b30)
 * Fix inventory selector measurements for display_type items (#88686)
 * Fix smelting_standard (#88707)
 * Unify pipe rifle crafting times to 1 h (#88693)

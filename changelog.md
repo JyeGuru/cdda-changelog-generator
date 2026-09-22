@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-22-0745 ([555c676](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0745))
+
+* Fix zone sort hang while dragging a loaded cart ([#88767](https://github.com/CleverRaven/Cataclysm-DDA/pull/88767))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-22-0431 ([2cb5782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0431))
 
 * fix vitamins content of porkbelly ([#88752](https://github.com/CleverRaven/Cataclysm-DDA/pull/88752))
@@ -155,11 +161,6 @@
 
 * For item::get_remaining_capacity_for_liquid(), return enum of issue instead of string ([#88681](https://github.com/CleverRaven/Cataclysm-DDA/pull/88681))
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-18-0006 ([2fc6b30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-18-0006))
-
 * Fix inventory selector measurements for display_type items ([#88686](https://github.com/CleverRaven/Cataclysm-DDA/pull/88686))
 * Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
 * Unify pipe rifle crafting times to 1 h ([#88693](https://github.com/CleverRaven/Cataclysm-DDA/pull/88693))
