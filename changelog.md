@@ -1,6 +1,39 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-23-0546 ([e262adb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0546))
+
+* halve beet syrup charges ([#88751](https://github.com/CleverRaven/Cataclysm-DDA/pull/88751))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-23-0450 ([c3fef94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0450))
+
+* CMake MSVC complains cl.exe used for both C and C++ ([#88748](https://github.com/CleverRaven/Cataclysm-DDA/pull/88748))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-23-0330 ([04961bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0330))
+
+* [XE] Swap remaining uses of deduction in changeling spells. ([#88793](https://github.com/CleverRaven/Cataclysm-DDA/pull/88793))
+* fix ancient fertilizer comment ([#88776](https://github.com/CleverRaven/Cataclysm-DDA/pull/88776))
+* Publish translations archive with experimental releases ([#88791](https://github.com/CleverRaven/Cataclysm-DDA/pull/88791))
+* Prevent dimension switching from nuking placed_unique_specials ([#88784](https://github.com/CleverRaven/Cataclysm-DDA/pull/88784))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-23-0234 ([a51f71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0234))
+
+* remove some staff repairs ([#88792](https://github.com/CleverRaven/Cataclysm-DDA/pull/88792))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-23-0155 ([57303f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0155))
+
+* Bundle android apk with sounds ([#88789](https://github.com/CleverRaven/Cataclysm-DDA/pull/88789))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-22-2303 ([9be22e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-2303))
 
 * Speed up the crafting menu near large piles of items ([#88781](https://github.com/CleverRaven/Cataclysm-DDA/pull/88781))
@@ -155,17 +188,7 @@
 #### Cataclysm-DDA experimental build 2026-09-19-1730 ([e3e319c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1730))
 
 * Skip pre-baked atlas variants the gpu shaders already cover ([#88720](https://github.com/CleverRaven/Cataclysm-DDA/pull/88720))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-19-1645 ([400f779](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1645))
-
 * add uncooked bacon ([#88672](https://github.com/CleverRaven/Cataclysm-DDA/pull/88672))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-19-1233 ([6fbe540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1233))
-
 * tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
 * RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
 * Hide the tools an unattended craft is using ([#88656](https://github.com/CleverRaven/Cataclysm-DDA/pull/88656))
@@ -204,7 +227,6 @@
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
 * Fix large grenade bandoliers not fitting molotovs ([#88661](https://github.com/CleverRaven/Cataclysm-DDA/pull/88661))
 * Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))
-* remove parasites risk from tallow ([#88630](https://github.com/CleverRaven/Cataclysm-DDA/pull/88630))
 * Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
 * Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
 * Sky Island: Override dimension travel so it takes you to the island ([#88657](https://github.com/CleverRaven/Cataclysm-DDA/pull/88657))
@@ -215,14 +237,7 @@
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
-* fix bad density for marrow ([#88625](https://github.com/CleverRaven/Cataclysm-DDA/pull/88625))
 * remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
 * delete 1st_aid references ([#88635](https://github.com/CleverRaven/Cataclysm-DDA/pull/88635))
-* Various updates to anomalous mp3 player ([#88626](https://github.com/CleverRaven/Cataclysm-DDA/pull/88626))
 * remove gobag from all mapgen ([#88636](https://github.com/CleverRaven/Cataclysm-DDA/pull/88636))
-* fix bad density for cracklins ([#88627](https://github.com/CleverRaven/Cataclysm-DDA/pull/88627))
 * restore personal_gobag for National Guardsman start ([#88637](https://github.com/CleverRaven/Cataclysm-DDA/pull/88637))
-* fix bad density for bacon_uncut ([#88628](https://github.com/CleverRaven/Cataclysm-DDA/pull/88628))
-* halve hellfire stew recipe batch size ([#88631](https://github.com/CleverRaven/Cataclysm-DDA/pull/88631))
-* remove redundant offal fields ([#88629](https://github.com/CleverRaven/Cataclysm-DDA/pull/88629))
-* doc: fix batch time typo ([#88632](https://github.com/CleverRaven/Cataclysm-DDA/pull/88632))
