@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-23-2123 ([50b75f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-2123))
+
+* [Xedra Evolved] More changeling seasonal glamours ([#88670](https://github.com/CleverRaven/Cataclysm-DDA/pull/88670))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-23-1914 ([8c69f61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1914))
 
 * [ Magiclysm ] Enchanting adjustments ([#88690](https://github.com/CleverRaven/Cataclysm-DDA/pull/88690))
@@ -177,17 +183,7 @@
 #### Cataclysm-DDA experimental build 2026-09-20-0250 ([a1f0b06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0250))
 
 * [Xedra Evolved] The Exodii won't talk to the Fair Folk ([#88717](https://github.com/CleverRaven/Cataclysm-DDA/pull/88717))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-20-0146 ([228e734](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0146))
-
 * Magiclysm: universal mojocycle controls ([#88704](https://github.com/CleverRaven/Cataclysm-DDA/pull/88704))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-20-0100 ([f9ab886](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0100))
-
 * fix ammo_recovery item_info ([#88727](https://github.com/CleverRaven/Cataclysm-DDA/pull/88727))
 * give cattail stalks and plant stalks a length ([#88728](https://github.com/CleverRaven/Cataclysm-DDA/pull/88728))
 * Silence chemistry test ([#88733](https://github.com/CleverRaven/Cataclysm-DDA/pull/88733))
@@ -239,5 +235,4 @@
 * Tie an unattended craft step to the tools it uses ([#88647](https://github.com/CleverRaven/Cataclysm-DDA/pull/88647))
 * Improve spell learning table ([#88650](https://github.com/CleverRaven/Cataclysm-DDA/pull/88650))
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
-* Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
 * remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
