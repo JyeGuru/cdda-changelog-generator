@@ -1,6 +1,27 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-23-1914 ([8c69f61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1914))
+
+* [ Magiclysm ] Enchanting adjustments ([#88690](https://github.com/CleverRaven/Cataclysm-DDA/pull/88690))
+* [ Xedra Evolved ] Freeze Effects actually needs to freeze all effects ([#88794](https://github.com/CleverRaven/Cataclysm-DDA/pull/88794))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-23-1822 ([9e8e3b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1822))
+
+* General text fixes ([#88765](https://github.com/CleverRaven/Cataclysm-DDA/pull/88765))
+* Fix overmap weather newline ([#88799](https://github.com/CleverRaven/Cataclysm-DDA/pull/88799))
+* Change Marlin 39A's generic name to "high capacity small game lever-action rifle" ([#88796](https://github.com/CleverRaven/Cataclysm-DDA/pull/88796))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-23-1743 ([544299f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1743))
+
+* Farthings are currency ([#88761](https://github.com/CleverRaven/Cataclysm-DDA/pull/88761))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-23-0546 ([e262adb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0546))
 
 * halve beet syrup charges ([#88751](https://github.com/CleverRaven/Cataclysm-DDA/pull/88751))
@@ -168,25 +189,10 @@
 #### Cataclysm-DDA experimental build 2026-09-20-0100 ([f9ab886](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0100))
 
 * fix ammo_recovery item_info ([#88727](https://github.com/CleverRaven/Cataclysm-DDA/pull/88727))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-20-0003 ([73e3309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0003))
-
 * give cattail stalks and plant stalks a length ([#88728](https://github.com/CleverRaven/Cataclysm-DDA/pull/88728))
 * Silence chemistry test ([#88733](https://github.com/CleverRaven/Cataclysm-DDA/pull/88733))
 * Update changelog, manifest and in-game version for 0.I-1 ([#88726](https://github.com/CleverRaven/Cataclysm-DDA/pull/88726))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-19-1937 ([d684155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1937))
-
 * [ Magiclysm ] khanjar for hy-brasilean guard ([#88701](https://github.com/CleverRaven/Cataclysm-DDA/pull/88701))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-19-1730 ([e3e319c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-19-1730))
-
 * Skip pre-baked atlas variants the gpu shaders already cover ([#88720](https://github.com/CleverRaven/Cataclysm-DDA/pull/88720))
 * add uncooked bacon ([#88672](https://github.com/CleverRaven/Cataclysm-DDA/pull/88672))
 * tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
@@ -231,13 +237,7 @@
 * Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
 * Sky Island: Override dimension travel so it takes you to the island ([#88657](https://github.com/CleverRaven/Cataclysm-DDA/pull/88657))
 * Tie an unattended craft step to the tools it uses ([#88647](https://github.com/CleverRaven/Cataclysm-DDA/pull/88647))
-* Reduce locker line in cs_open_sewer from 3 to 1 ([#88639](https://github.com/CleverRaven/Cataclysm-DDA/pull/88639))
 * Improve spell learning table ([#88650](https://github.com/CleverRaven/Cataclysm-DDA/pull/88650))
-* [DinoMod] nerf feather drops ([#88633](https://github.com/CleverRaven/Cataclysm-DDA/pull/88633))
 * Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))
 * Revert to debugmsg for out-of-bounds highway slant pathing ([#88643](https://github.com/CleverRaven/Cataclysm-DDA/pull/88643))
-* Remove debug message capture from monster navigation test ([#88642](https://github.com/CleverRaven/Cataclysm-DDA/pull/88642))
 * remove water weight when creating bacon ([#88644](https://github.com/CleverRaven/Cataclysm-DDA/pull/88644))
-* delete 1st_aid references ([#88635](https://github.com/CleverRaven/Cataclysm-DDA/pull/88635))
-* remove gobag from all mapgen ([#88636](https://github.com/CleverRaven/Cataclysm-DDA/pull/88636))
-* restore personal_gobag for National Guardsman start ([#88637](https://github.com/CleverRaven/Cataclysm-DDA/pull/88637))
