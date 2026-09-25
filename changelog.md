@@ -1,3 +1,17 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-25-1304 ([f22c1b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-1304))
+
+* cut potatoes into 4 pieces for planting, not 1 ([#88734](https://github.com/CleverRaven/Cataclysm-DDA/pull/88734))
+* Make marloss work again ([#88735](https://github.com/CleverRaven/Cataclysm-DDA/pull/88735))
+* [ Xedra Evolved ]  adjust Boann dialogue ([#88803](https://github.com/CleverRaven/Cataclysm-DDA/pull/88803))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-25-1218 ([1cf67c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-1218))
+
+* Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
 * update CI matrix for ubuntu-26.04 ([#88756](https://github.com/CleverRaven/Cataclysm-DDA/pull/88756))
 
 ---
@@ -169,17 +183,7 @@
 #### Cataclysm-DDA experimental build 2026-09-20-2139 ([a36b885](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-2139))
 
 * [XE] Torpor can't be used outdoors and ask for confirmation before starting ([#88750](https://github.com/CleverRaven/Cataclysm-DDA/pull/88750))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-20-2051 ([b94a8f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-2051))
-
 * SCBA systems ([#88730](https://github.com/CleverRaven/Cataclysm-DDA/pull/88730))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-20-1619 ([d8ebf8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-1619))
-
 * Rename "fast travel" to "overmap-only auto travel" ([#88723](https://github.com/CleverRaven/Cataclysm-DDA/pull/88723))
 * Fix MSVC C4244 ([#88747](https://github.com/CleverRaven/Cataclysm-DDA/pull/88747))
 * Fix stone tools not being craftable from a stack of rocks ([#88746](https://github.com/CleverRaven/Cataclysm-DDA/pull/88746))
@@ -225,7 +229,6 @@
 * Prevent NPCs from trying to get off moving vehicles to sleep ([#88663](https://github.com/CleverRaven/Cataclysm-DDA/pull/88663))
 * Pretty up the dialogue sidebar ([#88671](https://github.com/CleverRaven/Cataclysm-DDA/pull/88671))
 * Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm ([#88679](https://github.com/CleverRaven/Cataclysm-DDA/pull/88679))
-* fix accessor_flags usage in map::all_items ([#88652](https://github.com/CleverRaven/Cataclysm-DDA/pull/88652))
 * Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
 * [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
 * Remove obsolete DEFAULT_REGION external option ([#88662](https://github.com/CleverRaven/Cataclysm-DDA/pull/88662))
@@ -233,7 +236,4 @@
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
 * Fix large grenade bandoliers not fitting molotovs ([#88661](https://github.com/CleverRaven/Cataclysm-DDA/pull/88661))
 * Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))
-* Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
-* Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
 * Sky Island: Override dimension travel so it takes you to the island ([#88657](https://github.com/CleverRaven/Cataclysm-DDA/pull/88657))
-* Improve spell learning table ([#88650](https://github.com/CleverRaven/Cataclysm-DDA/pull/88650))
