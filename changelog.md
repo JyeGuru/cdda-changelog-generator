@@ -1,3 +1,16 @@
+* update CI matrix for ubuntu-26.04 ([#88756](https://github.com/CleverRaven/Cataclysm-DDA/pull/88756))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-25-0112 ([be73027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-0112))
+
+* Show environmental protection in bodygraph ([#88763](https://github.com/CleverRaven/Cataclysm-DDA/pull/88763))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-25-0027 ([ab8e34a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-0027))
+
+* [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell ([#88809](https://github.com/CleverRaven/Cataclysm-DDA/pull/88809))
 
 ---
 
@@ -171,17 +184,7 @@
 * Fix MSVC C4244 ([#88747](https://github.com/CleverRaven/Cataclysm-DDA/pull/88747))
 * Fix stone tools not being craftable from a stack of rocks ([#88746](https://github.com/CleverRaven/Cataclysm-DDA/pull/88746))
 * Fix out of bounds write from inverted point ranges ([#88740](https://github.com/CleverRaven/Cataclysm-DDA/pull/88740))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-20-1535 ([0932afc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-1535))
-
 * Fix tentacle stockings not covering your tentacles ([#88737](https://github.com/CleverRaven/Cataclysm-DDA/pull/88737))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-20-0332 ([8b6d12e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-0332))
-
 * Remove copper dupe ([#88719](https://github.com/CleverRaven/Cataclysm-DDA/pull/88719))
 * [Xedra Evolved] The Exodii won't talk to the Fair Folk ([#88717](https://github.com/CleverRaven/Cataclysm-DDA/pull/88717))
 * Magiclysm: universal mojocycle controls ([#88704](https://github.com/CleverRaven/Cataclysm-DDA/pull/88704))
@@ -233,6 +236,4 @@
 * Scarlet storm improvements ([#88654](https://github.com/CleverRaven/Cataclysm-DDA/pull/88654))
 * Alternate sizes for portraits, by tileset ([#88648](https://github.com/CleverRaven/Cataclysm-DDA/pull/88648))
 * Sky Island: Override dimension travel so it takes you to the island ([#88657](https://github.com/CleverRaven/Cataclysm-DDA/pull/88657))
-* Tie an unattended craft step to the tools it uses ([#88647](https://github.com/CleverRaven/Cataclysm-DDA/pull/88647))
 * Improve spell learning table ([#88650](https://github.com/CleverRaven/Cataclysm-DDA/pull/88650))
-* Stop copying item pointers when counting ([#88645](https://github.com/CleverRaven/Cataclysm-DDA/pull/88645))

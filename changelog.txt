@@ -1,3 +1,10 @@
+* update CI matrix for ubuntu-26.04 (#88756)
+
+Cataclysm-DDA experimental build 2026-09-25-0112 (be73027)
+* Show environmental protection in bodygraph (#88763)
+
+Cataclysm-DDA experimental build 2026-09-25-0027 (ab8e34a)
+* [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell (#88809)
 
 Cataclysm-DDA experimental build 2026-09-24-1634 (536f5df)
 * Improve the MME vitamin elimination rate (#88798)
@@ -93,11 +100,7 @@ Cataclysm-DDA experimental build 2026-09-20-1619 (d8ebf8e)
 * Fix MSVC C4244 (#88747)
 * Fix stone tools not being craftable from a stack of rocks (#88746)
 * Fix out of bounds write from inverted point ranges (#88740)
-
-Cataclysm-DDA experimental build 2026-09-20-1535 (0932afc)
 * Fix tentacle stockings not covering your tentacles (#88737)
-
-Cataclysm-DDA experimental build 2026-09-20-0332 (8b6d12e)
 * Remove copper dupe (#88719)
 * [Xedra Evolved] The Exodii won't talk to the Fair Folk (#88717)
 * Magiclysm: universal mojocycle controls (#88704)
@@ -149,6 +152,4 @@ Cataclysm-DDA experimental build 2026-09-20-0332 (8b6d12e)
 * Scarlet storm improvements (#88654)
 * Alternate sizes for portraits, by tileset (#88648)
 * Sky Island: Override dimension travel so it takes you to the island (#88657)
-* Tie an unattended craft step to the tools it uses (#88647)
 * Improve spell learning table (#88650)
-* Stop copying item pointers when counting (#88645)
