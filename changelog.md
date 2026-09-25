@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-25-2133 ([603989d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-2133))
+
+* Update msys compilation docs to specifically use UCRT64 and remove MinGW64 ([#88664](https://github.com/CleverRaven/Cataclysm-DDA/pull/88664))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-25-2054 ([ccde65e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-2054))
+
+* Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-25-1304 ([f22c1b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-1304))
 
 * cut potatoes into 4 pieces for planting, not 1 ([#88734](https://github.com/CleverRaven/Cataclysm-DDA/pull/88734))
@@ -177,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-09-21-0004 ([6a27f9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-0004))
 
 * fix beet sugar, rum recipe ([#88753](https://github.com/CleverRaven/Cataclysm-DDA/pull/88753))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-20-2139 ([a36b885](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-20-2139))
-
 * [XE] Torpor can't be used outdoors and ask for confirmation before starting ([#88750](https://github.com/CleverRaven/Cataclysm-DDA/pull/88750))
 * SCBA systems ([#88730](https://github.com/CleverRaven/Cataclysm-DDA/pull/88730))
 * Rename "fast travel" to "overmap-only auto travel" ([#88723](https://github.com/CleverRaven/Cataclysm-DDA/pull/88723))
@@ -201,7 +208,6 @@
 * add uncooked bacon ([#88672](https://github.com/CleverRaven/Cataclysm-DDA/pull/88672))
 * tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
 * RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
-* Hide the tools an unattended craft is using ([#88656](https://github.com/CleverRaven/Cataclysm-DDA/pull/88656))
 * Character creation fix ([#88715](https://github.com/CleverRaven/Cataclysm-DDA/pull/88715))
 * Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
 * Aftershock Fix vanishing arc flight condition errors. ([#88695](https://github.com/CleverRaven/Cataclysm-DDA/pull/88695))
@@ -236,4 +242,3 @@
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
 * Fix large grenade bandoliers not fitting molotovs ([#88661](https://github.com/CleverRaven/Cataclysm-DDA/pull/88661))
 * Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))
-* Sky Island: Override dimension travel so it takes you to the island ([#88657](https://github.com/CleverRaven/Cataclysm-DDA/pull/88657))

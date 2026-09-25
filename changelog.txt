@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-09-25-2133 (603989d)
+* Update msys compilation docs to specifically use UCRT64 and remove MinGW64 (#88664)
+
+Cataclysm-DDA experimental build 2026-09-25-2054 (ccde65e)
+* Add more items to the Hub-01 merchant blacklist (#88813)
+
 Cataclysm-DDA experimental build 2026-09-25-1304 (f22c1b6)
 * cut potatoes into 4 pieces for planting, not 1 (#88734)
 * Make marloss work again (#88735)
@@ -96,8 +102,6 @@ Cataclysm-DDA experimental build 2026-09-21-0103 (bdb8554)
 
 Cataclysm-DDA experimental build 2026-09-21-0004 (6a27f9e)
 * fix beet sugar, rum recipe (#88753)
-
-Cataclysm-DDA experimental build 2026-09-20-2139 (a36b885)
 * [XE] Torpor can't be used outdoors and ask for confirmation before starting (#88750)
 * SCBA systems (#88730)
 * Rename "fast travel" to "overmap-only auto travel" (#88723)
@@ -117,7 +121,6 @@ Cataclysm-DDA experimental build 2026-09-20-2139 (a36b885)
 * add uncooked bacon (#88672)
 * tidy up (#88721)
 * RM13 combat armor overhaul, part II (#88714)
-* Hide the tools an unattended craft is using (#88656)
 * Character creation fix (#88715)
 * Keep every live tileset bundle in renderer recovery (#88716)
 * Aftershock Fix vanishing arc flight condition errors. (#88695)
@@ -152,4 +155,3 @@ Cataclysm-DDA experimental build 2026-09-20-2139 (a36b885)
 * More explicit Scarlet Storm warning (#88666)
 * Fix large grenade bandoliers not fitting molotovs (#88661)
 * Bugfix: trapped in imperal road (#88667)
-* Sky Island: Override dimension travel so it takes you to the island (#88657)
