@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-26-0822 ([d7ce6ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-0822))
+
+* Re-invoking (De)construct on partial construction should prompt ([#88819](https://github.com/CleverRaven/Cataclysm-DDA/pull/88819))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-26-0616 ([0495759](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-0616))
+
+* Move open/close action to open/close_tile_activity_actor ([#88801](https://github.com/CleverRaven/Cataclysm-DDA/pull/88801))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-25-2133 ([603989d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-2133))
 
 * Update msys compilation docs to specifically use UCRT64 and remove MinGW64 ([#88664](https://github.com/CleverRaven/Cataclysm-DDA/pull/88664))
@@ -177,17 +189,7 @@
 #### Cataclysm-DDA experimental build 2026-09-21-2159 ([caf80c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-2159))
 
 * add dremel ([#88768](https://github.com/CleverRaven/Cataclysm-DDA/pull/88768))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-21-0103 ([bdb8554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-0103))
-
 * Add a second blob singularity: the Reclaimer ([#88738](https://github.com/CleverRaven/Cataclysm-DDA/pull/88738))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-21-0004 ([6a27f9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-21-0004))
-
 * fix beet sugar, rum recipe ([#88753](https://github.com/CleverRaven/Cataclysm-DDA/pull/88753))
 * [XE] Torpor can't be used outdoors and ask for confirmation before starting ([#88750](https://github.com/CleverRaven/Cataclysm-DDA/pull/88750))
 * SCBA systems ([#88730](https://github.com/CleverRaven/Cataclysm-DDA/pull/88730))
@@ -225,7 +227,6 @@
 * Add NOT_HALLUCINATION flag to test monsters. ([#88687](https://github.com/CleverRaven/Cataclysm-DDA/pull/88687))
 * Fix sided one-per-layer ring wearing limits ([#88689](https://github.com/CleverRaven/Cataclysm-DDA/pull/88689))
 * Fix solder price ([#88692](https://github.com/CleverRaven/Cataclysm-DDA/pull/88692))
-* Weekly Changelog 2026-09-07 to 2026-09-14 ([#88660](https://github.com/CleverRaven/Cataclysm-DDA/pull/88660))
 * [XE] Fix the blood level UI displaying a wrong maximal value. ([#88688](https://github.com/CleverRaven/Cataclysm-DDA/pull/88688))
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
@@ -240,5 +241,4 @@
 * Remove obsolete DEFAULT_REGION external option ([#88662](https://github.com/CleverRaven/Cataclysm-DDA/pull/88662))
 * [MoM] Add scarlet storm to nether weather check ([#88668](https://github.com/CleverRaven/Cataclysm-DDA/pull/88668))
 * More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
-* Fix large grenade bandoliers not fitting molotovs ([#88661](https://github.com/CleverRaven/Cataclysm-DDA/pull/88661))
 * Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))
