@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-26-1431 ([83548cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-1431))
+
+* [Xedra Evolved] Wolf's Mask for wolves (and others) ([#88800](https://github.com/CleverRaven/Cataclysm-DDA/pull/88800))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-26-1337 ([25250b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-1337))
 
 * Consolidate canning recipes pt 2 ([#88817](https://github.com/CleverRaven/Cataclysm-DDA/pull/88817))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-09-22-0352 ([d714592](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0352))
 
 * Update and rename military & firefighter respirators w/ new SCBA system ([#88773](https://github.com/CleverRaven/Cataclysm-DDA/pull/88773))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-0124 ([b692e5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0124))
-
 * Fix GCC 9 build error in cataimgui::draw_texture ([#88771](https://github.com/CleverRaven/Cataclysm-DDA/pull/88771))
 * add dremel ([#88768](https://github.com/CleverRaven/Cataclysm-DDA/pull/88768))
 * Add a second blob singularity: the Reclaimer ([#88738](https://github.com/CleverRaven/Cataclysm-DDA/pull/88738))
@@ -234,7 +235,6 @@
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
 * Pat reacts to and can signpost the Scarlet Storm ([#88680](https://github.com/CleverRaven/Cataclysm-DDA/pull/88680))
 * fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))
-* Prevent NPCs from trying to get off moving vehicles to sleep ([#88663](https://github.com/CleverRaven/Cataclysm-DDA/pull/88663))
 * Pretty up the dialogue sidebar ([#88671](https://github.com/CleverRaven/Cataclysm-DDA/pull/88671))
 * Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm ([#88679](https://github.com/CleverRaven/Cataclysm-DDA/pull/88679))
 * Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
