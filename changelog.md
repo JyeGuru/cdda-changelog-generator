@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-27-1414 ([55108e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-27-1414))
+
+* Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-27-1253 ([6daee31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-27-1253))
+
+* adjust dremel qualities and add longest side ([#88830](https://github.com/CleverRaven/Cataclysm-DDA/pull/88830))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-27-1208 ([72b605b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-27-1208))
+
+* remove wood sawing from hoe ([#88831](https://github.com/CleverRaven/Cataclysm-DDA/pull/88831))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-26-1431 ([83548cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-1431))
 
 * [Xedra Evolved] Wolf's Mask for wolves (and others) ([#88800](https://github.com/CleverRaven/Cataclysm-DDA/pull/88800))
@@ -22,12 +40,6 @@
 #### Cataclysm-DDA experimental build 2026-09-26-0616 ([0495759](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-0616))
 
 * Move open/close action to open/close_tile_activity_actor ([#88801](https://github.com/CleverRaven/Cataclysm-DDA/pull/88801))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-25-2133 ([603989d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-2133))
-
-* Update msys compilation docs to specifically use UCRT64 and remove MinGW64 ([#88664](https://github.com/CleverRaven/Cataclysm-DDA/pull/88664))
 
 ---
 
@@ -166,28 +178,13 @@
 #### Cataclysm-DDA experimental build 2026-09-22-1201 ([3df0ecc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-1201))
 
 * railroads mod: "migrataion" ([#88758](https://github.com/CleverRaven/Cataclysm-DDA/pull/88758))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-0745 ([555c676](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0745))
-
 * Fix zone sort hang while dragging a loaded cart ([#88767](https://github.com/CleverRaven/Cataclysm-DDA/pull/88767))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-0431 ([2cb5782](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0431))
-
 * fix vitamins content of porkbelly ([#88752](https://github.com/CleverRaven/Cataclysm-DDA/pull/88752))
 * Tint sprites with colored light inside the shader on the gpu renderer ([#88754](https://github.com/CleverRaven/Cataclysm-DDA/pull/88754))
 * Weekly Changelog 2026-09-14 to 2026-09-21 ([#88759](https://github.com/CleverRaven/Cataclysm-DDA/pull/88759))
 * Change .45 acp default ammo to be the same as other pistol cartriges ([#88762](https://github.com/CleverRaven/Cataclysm-DDA/pull/88762))
 * Make device really optional in _has_software ([#88760](https://github.com/CleverRaven/Cataclysm-DDA/pull/88760))
 * Consolidate canning recipes to use nested system part 1 ([#88766](https://github.com/CleverRaven/Cataclysm-DDA/pull/88766))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-0352 ([d714592](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-0352))
-
 * Update and rename military & firefighter respirators w/ new SCBA system ([#88773](https://github.com/CleverRaven/Cataclysm-DDA/pull/88773))
 * Fix GCC 9 build error in cataimgui::draw_texture ([#88771](https://github.com/CleverRaven/Cataclysm-DDA/pull/88771))
 * add dremel ([#88768](https://github.com/CleverRaven/Cataclysm-DDA/pull/88768))
@@ -237,8 +234,6 @@
 * fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))
 * Pretty up the dialogue sidebar ([#88671](https://github.com/CleverRaven/Cataclysm-DDA/pull/88671))
 * Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm ([#88679](https://github.com/CleverRaven/Cataclysm-DDA/pull/88679))
-* Imguify Help Menu ([#88665](https://github.com/CleverRaven/Cataclysm-DDA/pull/88665))
 * [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
 * [MoM] Add scarlet storm to nether weather check ([#88668](https://github.com/CleverRaven/Cataclysm-DDA/pull/88668))
-* More explicit Scarlet Storm warning ([#88666](https://github.com/CleverRaven/Cataclysm-DDA/pull/88666))
 * Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))

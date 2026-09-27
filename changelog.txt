@@ -1,4 +1,13 @@
 
+Cataclysm-DDA experimental build 2026-09-27-1414 (55108e6)
+* Stop having the forests be empty. Stop it. (#88829)
+
+Cataclysm-DDA experimental build 2026-09-27-1253 (6daee31)
+* adjust dremel qualities and add longest side (#88830)
+
+Cataclysm-DDA experimental build 2026-09-27-1208 (72b605b)
+* remove wood sawing from hoe (#88831)
+
 Cataclysm-DDA experimental build 2026-09-26-1431 (83548cf)
 * [Xedra Evolved] Wolf's Mask for wolves (and others) (#88800)
 
@@ -10,9 +19,6 @@ Cataclysm-DDA experimental build 2026-09-26-0822 (d7ce6ab)
 
 Cataclysm-DDA experimental build 2026-09-26-0616 (0495759)
 * Move open/close action to open/close_tile_activity_actor (#88801)
-
-Cataclysm-DDA experimental build 2026-09-25-2133 (603989d)
-* Update msys compilation docs to specifically use UCRT64 and remove MinGW64 (#88664)
 
 Cataclysm-DDA experimental build 2026-09-25-2054 (ccde65e)
 * Add more items to the Hub-01 merchant blacklist (#88813)
@@ -88,19 +94,13 @@ Cataclysm-DDA experimental build 2026-09-22-1254 (05f8e29)
 
 Cataclysm-DDA experimental build 2026-09-22-1201 (3df0ecc)
 * railroads mod: "migrataion" (#88758)
-
-Cataclysm-DDA experimental build 2026-09-22-0745 (555c676)
 * Fix zone sort hang while dragging a loaded cart (#88767)
-
-Cataclysm-DDA experimental build 2026-09-22-0431 (2cb5782)
 * fix vitamins content of porkbelly (#88752)
 * Tint sprites with colored light inside the shader on the gpu renderer (#88754)
 * Weekly Changelog 2026-09-14 to 2026-09-21 (#88759)
 * Change .45 acp default ammo to be the same as other pistol cartriges (#88762)
 * Make device really optional in _has_software (#88760)
 * Consolidate canning recipes to use nested system part 1 (#88766)
-
-Cataclysm-DDA experimental build 2026-09-22-0352 (d714592)
 * Update and rename military & firefighter respirators w/ new SCBA system (#88773)
 * Fix GCC 9 build error in cataimgui::draw_texture (#88771)
 * add dremel (#88768)
@@ -150,8 +150,6 @@ Cataclysm-DDA experimental build 2026-09-22-0352 (d714592)
 * fix condensed milk material (#88684)
 * Pretty up the dialogue sidebar (#88671)
 * Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm (#88679)
-* Imguify Help Menu (#88665)
 * [Xedra Evolved] Update `hallu` effect (#88675)
 * [MoM] Add scarlet storm to nether weather check (#88668)
-* More explicit Scarlet Storm warning (#88666)
 * Bugfix: trapped in imperal road (#88667)
