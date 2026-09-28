@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-28-1737 ([04bd5cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-1737))
+
+* Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-28-1536 ([c219aaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-1536))
+
+* make gun mods and their crafts more reasonable ([#88834](https://github.com/CleverRaven/Cataclysm-DDA/pull/88834))
 * Force powershell.exe for msbuild.ps1 ([#88744](https://github.com/CleverRaven/Cataclysm-DDA/pull/88744))
 
 ---
@@ -152,24 +164,9 @@
 #### Cataclysm-DDA experimental build 2026-09-22-2303 ([9be22e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-2303))
 
 * Speed up the crafting menu near large piles of items ([#88781](https://github.com/CleverRaven/Cataclysm-DDA/pull/88781))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-2209 ([e8edf7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-2209))
-
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
 * 20 gauge shotguns ([#88713](https://github.com/CleverRaven/Cataclysm-DDA/pull/88713))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-2116 ([8ed604d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-2116))
-
 * make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-1427 ([ed37613](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-1427))
-
 * Vehicle wheels gib corpses, smash stuff, throw items around ([#88683](https://github.com/CleverRaven/Cataclysm-DDA/pull/88683))
 * Deprecate inventory class ([#88709](https://github.com/CleverRaven/Cataclysm-DDA/pull/88709))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
@@ -203,13 +200,11 @@
 * Update changelog, manifest and in-game version for 0.I-1 ([#88726](https://github.com/CleverRaven/Cataclysm-DDA/pull/88726))
 * [ Magiclysm ] khanjar for hy-brasilean guard ([#88701](https://github.com/CleverRaven/Cataclysm-DDA/pull/88701))
 * Skip pre-baked atlas variants the gpu shaders already cover ([#88720](https://github.com/CleverRaven/Cataclysm-DDA/pull/88720))
-* add uncooked bacon ([#88672](https://github.com/CleverRaven/Cataclysm-DDA/pull/88672))
 * tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
 * RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
 * Character creation fix ([#88715](https://github.com/CleverRaven/Cataclysm-DDA/pull/88715))
 * Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
 * Aftershock Fix vanishing arc flight condition errors. ([#88695](https://github.com/CleverRaven/Cataclysm-DDA/pull/88695))
-* [ Xedra Evolved ] Fix Dream class eoc ([#88674](https://github.com/CleverRaven/Cataclysm-DDA/pull/88674))
 * For item::get_remaining_capacity_for_liquid(), return enum of issue instead of string ([#88681](https://github.com/CleverRaven/Cataclysm-DDA/pull/88681))
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
 * Fix inventory selector measurements for display_type items ([#88686](https://github.com/CleverRaven/Cataclysm-DDA/pull/88686))
@@ -229,6 +224,5 @@
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
 * Pat reacts to and can signpost the Scarlet Storm ([#88680](https://github.com/CleverRaven/Cataclysm-DDA/pull/88680))
 * fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))
-* Pretty up the dialogue sidebar ([#88671](https://github.com/CleverRaven/Cataclysm-DDA/pull/88671))
 * Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm ([#88679](https://github.com/CleverRaven/Cataclysm-DDA/pull/88679))
 * [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
