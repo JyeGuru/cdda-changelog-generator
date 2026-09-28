@@ -1,3 +1,16 @@
+* Force powershell.exe for msbuild.ps1 ([#88744](https://github.com/CleverRaven/Cataclysm-DDA/pull/88744))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-28-0335 ([784c92a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-0335))
+
+* Update alarm timing when awake ([#88833](https://github.com/CleverRaven/Cataclysm-DDA/pull/88833))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-28-0239 ([8075bad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-0239))
+
+* add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
 
 ---
 
@@ -82,12 +95,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-09-23-2123 ([50b75f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-2123))
-
-* [Xedra Evolved] More changeling seasonal glamours ([#88670](https://github.com/CleverRaven/Cataclysm-DDA/pull/88670))
-
----
-
 #### Cataclysm-DDA experimental build 2026-09-23-1914 ([8c69f61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1914))
 
 * [ Magiclysm ] Enchanting adjustments ([#88690](https://github.com/CleverRaven/Cataclysm-DDA/pull/88690))
@@ -166,17 +173,7 @@
 * Vehicle wheels gib corpses, smash stuff, throw items around ([#88683](https://github.com/CleverRaven/Cataclysm-DDA/pull/88683))
 * Deprecate inventory class ([#88709](https://github.com/CleverRaven/Cataclysm-DDA/pull/88709))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-1254 ([05f8e29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-1254))
-
 * Update plural names for various grain items, adding sheaves and handfuls ([#88743](https://github.com/CleverRaven/Cataclysm-DDA/pull/88743))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-22-1201 ([3df0ecc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-22-1201))
-
 * railroads mod: "migrataion" ([#88758](https://github.com/CleverRaven/Cataclysm-DDA/pull/88758))
 * Fix zone sort hang while dragging a loaded cart ([#88767](https://github.com/CleverRaven/Cataclysm-DDA/pull/88767))
 * fix vitamins content of porkbelly ([#88752](https://github.com/CleverRaven/Cataclysm-DDA/pull/88752))
@@ -235,5 +232,3 @@
 * Pretty up the dialogue sidebar ([#88671](https://github.com/CleverRaven/Cataclysm-DDA/pull/88671))
 * Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm ([#88679](https://github.com/CleverRaven/Cataclysm-DDA/pull/88679))
 * [Xedra Evolved] Update `hallu` effect ([#88675](https://github.com/CleverRaven/Cataclysm-DDA/pull/88675))
-* [MoM] Add scarlet storm to nether weather check ([#88668](https://github.com/CleverRaven/Cataclysm-DDA/pull/88668))
-* Bugfix: trapped in imperal road ([#88667](https://github.com/CleverRaven/Cataclysm-DDA/pull/88667))
