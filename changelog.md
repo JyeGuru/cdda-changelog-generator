@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-29-1526 ([bbcff85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-1526))
+
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
 
 ---
@@ -157,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-09-23-0450 ([c3fef94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0450))
 
 * CMake MSVC complains cl.exe used for both C and C++ ([#88748](https://github.com/CleverRaven/Cataclysm-DDA/pull/88748))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-23-0330 ([04961bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0330))
-
 * [XE] Swap remaining uses of deduction in changeling spells. ([#88793](https://github.com/CleverRaven/Cataclysm-DDA/pull/88793))
 * fix ancient fertilizer comment ([#88776](https://github.com/CleverRaven/Cataclysm-DDA/pull/88776))
 * Publish translations archive with experimental releases ([#88791](https://github.com/CleverRaven/Cataclysm-DDA/pull/88791))
