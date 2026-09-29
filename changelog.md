@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-29-0331 ([fe6a10c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-0331))
+
+* increased steel contained max weight ([#88835](https://github.com/CleverRaven/Cataclysm-DDA/pull/88835))
 * Fix macOS market share script ([#88836](https://github.com/CleverRaven/Cataclysm-DDA/pull/88836))
 
 ---
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2026-09-23-0234 ([a51f71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0234))
 
 * remove some staff repairs ([#88792](https://github.com/CleverRaven/Cataclysm-DDA/pull/88792))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-23-0155 ([57303f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0155))
-
 * Bundle android apk with sounds ([#88789](https://github.com/CleverRaven/Cataclysm-DDA/pull/88789))
 * Speed up the crafting menu near large piles of items ([#88781](https://github.com/CleverRaven/Cataclysm-DDA/pull/88781))
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
@@ -224,5 +225,4 @@
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
-* Pat reacts to and can signpost the Scarlet Storm ([#88680](https://github.com/CleverRaven/Cataclysm-DDA/pull/88680))
 * fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))
