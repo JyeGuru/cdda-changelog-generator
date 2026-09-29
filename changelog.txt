@@ -1,3 +1,7 @@
+* Fix macOS market share script (#88836)
+
+Cataclysm-DDA experimental build 2026-09-28-2322 (325f682)
+* Weekly Changelog 2026-09-21 to 2026-09-28 (#88842)
 
 Cataclysm-DDA experimental build 2026-09-28-1737 (04bd5cc)
 * Extends #88829 to Innawood and xedrawood (#88838)
@@ -83,8 +87,6 @@ Cataclysm-DDA experimental build 2026-09-23-0234 (a51f71e)
 
 Cataclysm-DDA experimental build 2026-09-23-0155 (57303f1)
 * Bundle android apk with sounds (#88789)
-
-Cataclysm-DDA experimental build 2026-09-22-2303 (9be22e2)
 * Speed up the crafting menu near large piles of items (#88781)
 * remove bb recipe (#88783)
 * 20 gauge shotguns (#88713)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2026-09-22-2303 (9be22e2)
 * Fix military PAPR mask coverage (#88698)
 * Pat reacts to and can signpost the Scarlet Storm (#88680)
 * fix condensed milk material (#88684)
-* Make effects of exposure to the Scarlet Storm less punishing short term, more punishing longterm (#88679)
-* [Xedra Evolved] Update `hallu` effect (#88675)
