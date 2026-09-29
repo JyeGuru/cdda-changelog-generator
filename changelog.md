@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-29-2236 ([d3210ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-2236))
+
+* Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-29-2036 ([e95fb72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-2036))
+
+* fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-29-1526 ([bbcff85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-1526))
 
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
@@ -150,17 +162,7 @@
 #### Cataclysm-DDA experimental build 2026-09-23-1743 ([544299f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1743))
 
 * Farthings are currency ([#88761](https://github.com/CleverRaven/Cataclysm-DDA/pull/88761))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-23-0546 ([e262adb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0546))
-
 * halve beet syrup charges ([#88751](https://github.com/CleverRaven/Cataclysm-DDA/pull/88751))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-23-0450 ([c3fef94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-0450))
-
 * CMake MSVC complains cl.exe used for both C and C++ ([#88748](https://github.com/CleverRaven/Cataclysm-DDA/pull/88748))
 * [XE] Swap remaining uses of deduction in changeling spells. ([#88793](https://github.com/CleverRaven/Cataclysm-DDA/pull/88793))
 * fix ancient fertilizer comment ([#88776](https://github.com/CleverRaven/Cataclysm-DDA/pull/88776))
@@ -172,7 +174,6 @@
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
 * 20 gauge shotguns ([#88713](https://github.com/CleverRaven/Cataclysm-DDA/pull/88713))
 * make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
-* Vehicle wheels gib corpses, smash stuff, throw items around ([#88683](https://github.com/CleverRaven/Cataclysm-DDA/pull/88683))
 * Deprecate inventory class ([#88709](https://github.com/CleverRaven/Cataclysm-DDA/pull/88709))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
 * Update plural names for various grain items, adding sheaves and handfuls ([#88743](https://github.com/CleverRaven/Cataclysm-DDA/pull/88743))
@@ -225,4 +226,3 @@
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
-* fix condensed milk material ([#88684](https://github.com/CleverRaven/Cataclysm-DDA/pull/88684))
