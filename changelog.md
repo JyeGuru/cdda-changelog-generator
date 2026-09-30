@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-30-1936 ([07f6903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1936))
+
+* Portrait filename: Refugee Center ([#88864](https://github.com/CleverRaven/Cataclysm-DDA/pull/88864))
+* replace _val('hunger') with _hunger() math ([#88818](https://github.com/CleverRaven/Cataclysm-DDA/pull/88818))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-30-1844 ([0ddb278](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1844))
+
+* Beneficial supernatural mutations are positive ([#88867](https://github.com/CleverRaven/Cataclysm-DDA/pull/88867))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-30-1548 ([3d84106](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1548))
+
+* obsolete stanag with ranger plate magazines ([#88855](https://github.com/CleverRaven/Cataclysm-DDA/pull/88855))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-30-1305 ([75eaff9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1305))
 
 * [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
@@ -141,25 +160,9 @@
 
 * Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
 * update CI matrix for ubuntu-26.04 ([#88756](https://github.com/CleverRaven/Cataclysm-DDA/pull/88756))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-25-0112 ([be73027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-0112))
-
 * Show environmental protection in bodygraph ([#88763](https://github.com/CleverRaven/Cataclysm-DDA/pull/88763))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-25-0027 ([ab8e34a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-0027))
-
 * [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell ([#88809](https://github.com/CleverRaven/Cataclysm-DDA/pull/88809))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-24-1634 ([536f5df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-24-1634))
-
 * Improve the MME vitamin elimination rate ([#88798](https://github.com/CleverRaven/Cataclysm-DDA/pull/88798))
-* [ Magiclysm ] Enchanting adjustments ([#88690](https://github.com/CleverRaven/Cataclysm-DDA/pull/88690))
 * [ Xedra Evolved ] Freeze Effects actually needs to freeze all effects ([#88794](https://github.com/CleverRaven/Cataclysm-DDA/pull/88794))
 * General text fixes ([#88765](https://github.com/CleverRaven/Cataclysm-DDA/pull/88765))
 * Fix overmap weather newline ([#88799](https://github.com/CleverRaven/Cataclysm-DDA/pull/88799))
@@ -216,13 +219,10 @@
 * Aftershock Fix vanishing arc flight condition errors. ([#88695](https://github.com/CleverRaven/Cataclysm-DDA/pull/88695))
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
 * Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
-* Unify pipe rifle crafting times to 1 h ([#88693](https://github.com/CleverRaven/Cataclysm-DDA/pull/88693))
 * add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
 * Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
 * [Mods] The Exodii don't buy magic items ([#88694](https://github.com/CleverRaven/Cataclysm-DDA/pull/88694))
 * Clarification of grace period on dropped items ([#88700](https://github.com/CleverRaven/Cataclysm-DDA/pull/88700))
-* Fix sided one-per-layer ring wearing limits ([#88689](https://github.com/CleverRaven/Cataclysm-DDA/pull/88689))
-* Fix solder price ([#88692](https://github.com/CleverRaven/Cataclysm-DDA/pull/88692))
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))

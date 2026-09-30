@@ -1,4 +1,14 @@
 
+Cataclysm-DDA experimental build 2026-09-30-1936 (07f6903)
+* Portrait filename: Refugee Center (#88864)
+* replace _val('hunger') with _hunger() math (#88818)
+
+Cataclysm-DDA experimental build 2026-09-30-1844 (0ddb278)
+* Beneficial supernatural mutations are positive (#88867)
+
+Cataclysm-DDA experimental build 2026-09-30-1548 (3d84106)
+* obsolete stanag with ranger plate magazines (#88855)
+
 Cataclysm-DDA experimental build 2026-09-30-1305 (75eaff9)
 * [Bombastic Perks] Perks have their own color in the @ menu (#88863)
 
@@ -72,16 +82,9 @@ Cataclysm-DDA experimental build 2026-09-25-1304 (f22c1b6)
 Cataclysm-DDA experimental build 2026-09-25-1218 (1cf67c2)
 * Powder price fixes (#88814)
 * update CI matrix for ubuntu-26.04 (#88756)
-
-Cataclysm-DDA experimental build 2026-09-25-0112 (be73027)
 * Show environmental protection in bodygraph (#88763)
-
-Cataclysm-DDA experimental build 2026-09-25-0027 (ab8e34a)
 * [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell (#88809)
-
-Cataclysm-DDA experimental build 2026-09-24-1634 (536f5df)
 * Improve the MME vitamin elimination rate (#88798)
-* [ Magiclysm ] Enchanting adjustments (#88690)
 * [ Xedra Evolved ] Freeze Effects actually needs to freeze all effects (#88794)
 * General text fixes (#88765)
 * Fix overmap weather newline (#88799)
@@ -138,13 +141,10 @@ Cataclysm-DDA experimental build 2026-09-24-1634 (536f5df)
 * Aftershock Fix vanishing arc flight condition errors. (#88695)
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection (#88706)
 * Fix smelting_standard (#88707)
-* Unify pipe rifle crafting times to 1 h (#88693)
 * add new stormshaper spell and start (#88699)
 * Allow wooden and metal gangways to be deconstructed. (#88703)
 * [Mods] The Exodii don't buy magic items (#88694)
 * Clarification of grace period on dropped items (#88700)
-* Fix sided one-per-layer ring wearing limits (#88689)
-* Fix solder price (#88692)
 * Made the main function more readable (#88696)
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place (#88697)
 * Fix military PAPR mask coverage (#88698)
