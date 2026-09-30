@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-30-0320 ([b6c2e83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-0320))
+
+* Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-29-2236 ([d3210ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-2236))
 
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
@@ -141,26 +147,11 @@
 #### Cataclysm-DDA experimental build 2026-09-24-1634 ([536f5df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-24-1634))
 
 * Improve the MME vitamin elimination rate ([#88798](https://github.com/CleverRaven/Cataclysm-DDA/pull/88798))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-23-1914 ([8c69f61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1914))
-
 * [ Magiclysm ] Enchanting adjustments ([#88690](https://github.com/CleverRaven/Cataclysm-DDA/pull/88690))
 * [ Xedra Evolved ] Freeze Effects actually needs to freeze all effects ([#88794](https://github.com/CleverRaven/Cataclysm-DDA/pull/88794))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-23-1822 ([9e8e3b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1822))
-
 * General text fixes ([#88765](https://github.com/CleverRaven/Cataclysm-DDA/pull/88765))
 * Fix overmap weather newline ([#88799](https://github.com/CleverRaven/Cataclysm-DDA/pull/88799))
 * Change Marlin 39A's generic name to "high capacity small game lever-action rifle" ([#88796](https://github.com/CleverRaven/Cataclysm-DDA/pull/88796))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-23-1743 ([544299f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-23-1743))
-
 * Farthings are currency ([#88761](https://github.com/CleverRaven/Cataclysm-DDA/pull/88761))
 * halve beet syrup charges ([#88751](https://github.com/CleverRaven/Cataclysm-DDA/pull/88751))
 * CMake MSVC complains cl.exe used for both C and C++ ([#88748](https://github.com/CleverRaven/Cataclysm-DDA/pull/88748))
@@ -212,7 +203,6 @@
 * Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
 * Aftershock Fix vanishing arc flight condition errors. ([#88695](https://github.com/CleverRaven/Cataclysm-DDA/pull/88695))
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
-* Fix inventory selector measurements for display_type items ([#88686](https://github.com/CleverRaven/Cataclysm-DDA/pull/88686))
 * Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
 * Unify pipe rifle crafting times to 1 h ([#88693](https://github.com/CleverRaven/Cataclysm-DDA/pull/88693))
 * add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
