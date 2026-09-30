@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-09-30-2303 (ca1bfab)
+* Fix #88855 (#88871)
+
+Cataclysm-DDA experimental build 2026-09-30-2138 (9369c35)
+* Pull MSX portraits tileset for releases (#88870)
+
 Cataclysm-DDA experimental build 2026-09-30-1936 (07f6903)
 * Portrait filename: Refugee Center (#88864)
 * replace _val('hunger') with _hunger() math (#88818)
@@ -73,13 +79,9 @@ Cataclysm-DDA experimental build 2026-09-26-0616 (0495759)
 
 Cataclysm-DDA experimental build 2026-09-25-2054 (ccde65e)
 * Add more items to the Hub-01 merchant blacklist (#88813)
-
-Cataclysm-DDA experimental build 2026-09-25-1304 (f22c1b6)
 * cut potatoes into 4 pieces for planting, not 1 (#88734)
 * Make marloss work again (#88735)
 * [ Xedra Evolved ]  adjust Boann dialogue (#88803)
-
-Cataclysm-DDA experimental build 2026-09-25-1218 (1cf67c2)
 * Powder price fixes (#88814)
 * update CI matrix for ubuntu-26.04 (#88756)
 * Show environmental protection in bodygraph (#88763)
@@ -138,12 +140,10 @@ Cataclysm-DDA experimental build 2026-09-25-1218 (1cf67c2)
 * RM13 combat armor overhaul, part II (#88714)
 * Character creation fix (#88715)
 * Keep every live tileset bundle in renderer recovery (#88716)
-* Aftershock Fix vanishing arc flight condition errors. (#88695)
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection (#88706)
 * Fix smelting_standard (#88707)
 * add new stormshaper spell and start (#88699)
 * Allow wooden and metal gangways to be deconstructed. (#88703)
-* [Mods] The Exodii don't buy magic items (#88694)
 * Clarification of grace period on dropped items (#88700)
 * Made the main function more readable (#88696)
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place (#88697)

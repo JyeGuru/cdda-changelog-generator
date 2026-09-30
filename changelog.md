@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-30-2303 ([ca1bfab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-2303))
+
+* Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-30-2138 ([9369c35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-2138))
+
+* Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-30-1936 ([07f6903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1936))
 
 * Portrait filename: Refugee Center ([#88864](https://github.com/CleverRaven/Cataclysm-DDA/pull/88864))
@@ -145,19 +157,9 @@
 #### Cataclysm-DDA experimental build 2026-09-25-2054 ([ccde65e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-2054))
 
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-25-1304 ([f22c1b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-1304))
-
 * cut potatoes into 4 pieces for planting, not 1 ([#88734](https://github.com/CleverRaven/Cataclysm-DDA/pull/88734))
 * Make marloss work again ([#88735](https://github.com/CleverRaven/Cataclysm-DDA/pull/88735))
 * [ Xedra Evolved ]  adjust Boann dialogue ([#88803](https://github.com/CleverRaven/Cataclysm-DDA/pull/88803))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-25-1218 ([1cf67c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-1218))
-
 * Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
 * update CI matrix for ubuntu-26.04 ([#88756](https://github.com/CleverRaven/Cataclysm-DDA/pull/88756))
 * Show environmental protection in bodygraph ([#88763](https://github.com/CleverRaven/Cataclysm-DDA/pull/88763))
@@ -216,12 +218,10 @@
 * RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
 * Character creation fix ([#88715](https://github.com/CleverRaven/Cataclysm-DDA/pull/88715))
 * Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
-* Aftershock Fix vanishing arc flight condition errors. ([#88695](https://github.com/CleverRaven/Cataclysm-DDA/pull/88695))
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
 * Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
 * add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
 * Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
-* [Mods] The Exodii don't buy magic items ([#88694](https://github.com/CleverRaven/Cataclysm-DDA/pull/88694))
 * Clarification of grace period on dropped items ([#88700](https://github.com/CleverRaven/Cataclysm-DDA/pull/88700))
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
