@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-09-30-1305 ([75eaff9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1305))
+
+* [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-09-30-1008 ([52576b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1008))
+
+* Upgrade character creation ([#88826](https://github.com/CleverRaven/Cataclysm-DDA/pull/88826))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-30-0320 ([b6c2e83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-0320))
 
 * Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
@@ -209,10 +221,8 @@
 * Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
 * [Mods] The Exodii don't buy magic items ([#88694](https://github.com/CleverRaven/Cataclysm-DDA/pull/88694))
 * Clarification of grace period on dropped items ([#88700](https://github.com/CleverRaven/Cataclysm-DDA/pull/88700))
-* Add NOT_HALLUCINATION flag to test monsters. ([#88687](https://github.com/CleverRaven/Cataclysm-DDA/pull/88687))
 * Fix sided one-per-layer ring wearing limits ([#88689](https://github.com/CleverRaven/Cataclysm-DDA/pull/88689))
 * Fix solder price ([#88692](https://github.com/CleverRaven/Cataclysm-DDA/pull/88692))
-* [XE] Fix the blood level UI displaying a wrong maximal value. ([#88688](https://github.com/CleverRaven/Cataclysm-DDA/pull/88688))
 * Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
 * Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
