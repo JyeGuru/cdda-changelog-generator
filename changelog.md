@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-01-0644 ([0c35fe3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0644))
+
+* How much tobacco is left in a butt.  Not much in my experience ([#88827](https://github.com/CleverRaven/Cataclysm-DDA/pull/88827))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-01-0553 ([507971b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0553))
+
+* Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-01-0058 ([0de9da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0058))
 
 * improved the description of glock 10 round magazines ([#88810](https://github.com/CleverRaven/Cataclysm-DDA/pull/88810))
@@ -152,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2026-09-26-0822 ([d7ce6ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-0822))
 
 * Re-invoking (De)construct on partial construction should prompt ([#88819](https://github.com/CleverRaven/Cataclysm-DDA/pull/88819))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-26-0616 ([0495759](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-0616))
-
 * Move open/close action to open/close_tile_activity_actor ([#88801](https://github.com/CleverRaven/Cataclysm-DDA/pull/88801))
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
 * cut potatoes into 4 pieces for planting, not 1 ([#88734](https://github.com/CleverRaven/Cataclysm-DDA/pull/88734))
@@ -222,7 +229,5 @@
 * Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
 * Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
-* add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
 * Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
 * Clarification of grace period on dropped items ([#88700](https://github.com/CleverRaven/Cataclysm-DDA/pull/88700))
-* Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))

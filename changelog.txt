@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-10-01-0644 (0c35fe3)
+* How much tobacco is left in a butt.  Not much in my experience (#88827)
+
+Cataclysm-DDA experimental build 2026-10-01-0553 (507971b)
+* Fix CANNOT_CONSUME_DRUGS (#88875)
+
 Cataclysm-DDA experimental build 2026-10-01-0058 (0de9da9)
 * improved the description of glock 10 round magazines (#88810)
 * Feature #88785 (#88846)
@@ -77,8 +83,6 @@ Cataclysm-DDA experimental build 2026-09-26-1337 (25250b9)
 
 Cataclysm-DDA experimental build 2026-09-26-0822 (d7ce6ab)
 * Re-invoking (De)construct on partial construction should prompt (#88819)
-
-Cataclysm-DDA experimental build 2026-09-26-0616 (0495759)
 * Move open/close action to open/close_tile_activity_actor (#88801)
 * Add more items to the Hub-01 merchant blacklist (#88813)
 * cut potatoes into 4 pieces for planting, not 1 (#88734)
@@ -144,7 +148,5 @@ Cataclysm-DDA experimental build 2026-09-26-0616 (0495759)
 * Keep every live tileset bundle in renderer recovery (#88716)
 * Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection (#88706)
 * Fix smelting_standard (#88707)
-* add new stormshaper spell and start (#88699)
 * Allow wooden and metal gangways to be deconstructed. (#88703)
 * Clarification of grace period on dropped items (#88700)
-* Fix military PAPR mask coverage (#88698)
