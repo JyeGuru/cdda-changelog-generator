@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-01-1124 ([cb7701d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-1124))
+
+* change visitable to use item_location ([#88775](https://github.com/CleverRaven/Cataclysm-DDA/pull/88775))
+* [ Xedra Evolved ] New Brownie Trait and eoc improvement ([#88804](https://github.com/CleverRaven/Cataclysm-DDA/pull/88804))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-01-1040 ([3f7fb35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-1040))
+
+* [ XedraWood ] Fruits and their trees for XedraWood ([#88843](https://github.com/CleverRaven/Cataclysm-DDA/pull/88843))
+* Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-01-0956 ([bd1e9fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0956))
+
+* Update ITEM.md ([#88866](https://github.com/CleverRaven/Cataclysm-DDA/pull/88866))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-01-0644 ([0c35fe3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0644))
 
 * How much tobacco is left in a butt.  Not much in my experience ([#88827](https://github.com/CleverRaven/Cataclysm-DDA/pull/88827))
@@ -140,29 +160,9 @@
 #### Cataclysm-DDA experimental build 2026-09-27-1253 ([6daee31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-27-1253))
 
 * adjust dremel qualities and add longest side ([#88830](https://github.com/CleverRaven/Cataclysm-DDA/pull/88830))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-27-1208 ([72b605b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-27-1208))
-
 * remove wood sawing from hoe ([#88831](https://github.com/CleverRaven/Cataclysm-DDA/pull/88831))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-26-1431 ([83548cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-1431))
-
 * [Xedra Evolved] Wolf's Mask for wolves (and others) ([#88800](https://github.com/CleverRaven/Cataclysm-DDA/pull/88800))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-26-1337 ([25250b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-1337))
-
 * Consolidate canning recipes pt 2 ([#88817](https://github.com/CleverRaven/Cataclysm-DDA/pull/88817))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-26-0822 ([d7ce6ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-0822))
-
 * Re-invoking (De)construct on partial construction should prompt ([#88819](https://github.com/CleverRaven/Cataclysm-DDA/pull/88819))
 * Move open/close action to open/close_tile_activity_actor ([#88801](https://github.com/CleverRaven/Cataclysm-DDA/pull/88801))
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
@@ -216,18 +216,13 @@
 * Fix tentacle stockings not covering your tentacles ([#88737](https://github.com/CleverRaven/Cataclysm-DDA/pull/88737))
 * Remove copper dupe ([#88719](https://github.com/CleverRaven/Cataclysm-DDA/pull/88719))
 * [Xedra Evolved] The Exodii won't talk to the Fair Folk ([#88717](https://github.com/CleverRaven/Cataclysm-DDA/pull/88717))
-* Magiclysm: universal mojocycle controls ([#88704](https://github.com/CleverRaven/Cataclysm-DDA/pull/88704))
 * fix ammo_recovery item_info ([#88727](https://github.com/CleverRaven/Cataclysm-DDA/pull/88727))
 * give cattail stalks and plant stalks a length ([#88728](https://github.com/CleverRaven/Cataclysm-DDA/pull/88728))
 * Silence chemistry test ([#88733](https://github.com/CleverRaven/Cataclysm-DDA/pull/88733))
 * Update changelog, manifest and in-game version for 0.I-1 ([#88726](https://github.com/CleverRaven/Cataclysm-DDA/pull/88726))
-* [ Magiclysm ] khanjar for hy-brasilean guard ([#88701](https://github.com/CleverRaven/Cataclysm-DDA/pull/88701))
 * Skip pre-baked atlas variants the gpu shaders already cover ([#88720](https://github.com/CleverRaven/Cataclysm-DDA/pull/88720))
 * tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
 * RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
 * Character creation fix ([#88715](https://github.com/CleverRaven/Cataclysm-DDA/pull/88715))
 * Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
-* Overhaul Phase Immersion Suit & RM13: no more filterless CBRN protection ([#88706](https://github.com/CleverRaven/Cataclysm-DDA/pull/88706))
 * Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
-* Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
-* Clarification of grace period on dropped items ([#88700](https://github.com/CleverRaven/Cataclysm-DDA/pull/88700))
