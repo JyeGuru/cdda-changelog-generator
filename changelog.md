@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-01-0058 ([0de9da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0058))
+
+* improved the description of glock 10 round magazines ([#88810](https://github.com/CleverRaven/Cataclysm-DDA/pull/88810))
+* Feature #88785 ([#88846](https://github.com/CleverRaven/Cataclysm-DDA/pull/88846))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-09-30-2303 ([ca1bfab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-2303))
 
 * Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
@@ -151,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2026-09-26-0616 ([0495759](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-26-0616))
 
 * Move open/close action to open/close_tile_activity_actor ([#88801](https://github.com/CleverRaven/Cataclysm-DDA/pull/88801))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-25-2054 ([ccde65e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-25-2054))
-
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
 * cut potatoes into 4 pieces for planting, not 1 ([#88734](https://github.com/CleverRaven/Cataclysm-DDA/pull/88734))
 * Make marloss work again ([#88735](https://github.com/CleverRaven/Cataclysm-DDA/pull/88735))
@@ -223,6 +225,4 @@
 * add new stormshaper spell and start ([#88699](https://github.com/CleverRaven/Cataclysm-DDA/pull/88699))
 * Allow wooden and metal gangways to be deconstructed. ([#88703](https://github.com/CleverRaven/Cataclysm-DDA/pull/88703))
 * Clarification of grace period on dropped items ([#88700](https://github.com/CleverRaven/Cataclysm-DDA/pull/88700))
-* Made the main function more readable ([#88696](https://github.com/CleverRaven/Cataclysm-DDA/pull/88696))
-* Remove RM13 and Phase Immersion Suit from LIXA and overhaul S02a to take their place ([#88697](https://github.com/CleverRaven/Cataclysm-DDA/pull/88697))
 * Fix military PAPR mask coverage ([#88698](https://github.com/CleverRaven/Cataclysm-DDA/pull/88698))
