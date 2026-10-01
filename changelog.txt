@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-01-2001 (3b80127)
+* First steps for event effect intensity change (#88825)
+
 Cataclysm-DDA experimental build 2026-10-01-1124 (cb7701d)
 * change visitable to use item_location (#88775)
 * [ Xedra Evolved ] New Brownie Trait and eoc improvement (#88804)
@@ -79,8 +82,6 @@ Cataclysm-DDA experimental build 2026-09-28-0239 (8075bad)
 
 Cataclysm-DDA experimental build 2026-09-27-1414 (55108e6)
 * Stop having the forests be empty. Stop it. (#88829)
-
-Cataclysm-DDA experimental build 2026-09-27-1253 (6daee31)
 * adjust dremel qualities and add longest side (#88830)
 * remove wood sawing from hoe (#88831)
 * [Xedra Evolved] Wolf's Mask for wolves (and others) (#88800)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2026-09-27-1253 (6daee31)
 * RM13 combat armor overhaul, part II (#88714)
 * Character creation fix (#88715)
 * Keep every live tileset bundle in renderer recovery (#88716)
-* Fix smelting_standard (#88707)

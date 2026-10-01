@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-01-2001 ([3b80127](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-2001))
+
+* First steps for event effect intensity change ([#88825](https://github.com/CleverRaven/Cataclysm-DDA/pull/88825))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-01-1124 ([cb7701d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-1124))
 
 * change visitable to use item_location ([#88775](https://github.com/CleverRaven/Cataclysm-DDA/pull/88775))
@@ -154,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2026-09-27-1414 ([55108e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-27-1414))
 
 * Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-27-1253 ([6daee31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-27-1253))
-
 * adjust dremel qualities and add longest side ([#88830](https://github.com/CleverRaven/Cataclysm-DDA/pull/88830))
 * remove wood sawing from hoe ([#88831](https://github.com/CleverRaven/Cataclysm-DDA/pull/88831))
 * [Xedra Evolved] Wolf's Mask for wolves (and others) ([#88800](https://github.com/CleverRaven/Cataclysm-DDA/pull/88800))
@@ -225,4 +226,3 @@
 * RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
 * Character creation fix ([#88715](https://github.com/CleverRaven/Cataclysm-DDA/pull/88715))
 * Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
-* Fix smelting_standard ([#88707](https://github.com/CleverRaven/Cataclysm-DDA/pull/88707))
