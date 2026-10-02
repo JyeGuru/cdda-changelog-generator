@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-01-2054 ([8517a5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-2054))
+
+* fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-01-2001 ([3b80127](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-2001))
 
 * First steps for event effect intensity change ([#88825](https://github.com/CleverRaven/Cataclysm-DDA/pull/88825))
@@ -154,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2026-09-28-0239 ([8075bad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-0239))
 
 * add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-27-1414 ([55108e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-27-1414))
-
 * Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
 * adjust dremel qualities and add longest side ([#88830](https://github.com/CleverRaven/Cataclysm-DDA/pull/88830))
 * remove wood sawing from hoe ([#88831](https://github.com/CleverRaven/Cataclysm-DDA/pull/88831))
@@ -192,7 +193,6 @@
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
 * 20 gauge shotguns ([#88713](https://github.com/CleverRaven/Cataclysm-DDA/pull/88713))
 * make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
-* Deprecate inventory class ([#88709](https://github.com/CleverRaven/Cataclysm-DDA/pull/88709))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
 * Update plural names for various grain items, adding sheaves and handfuls ([#88743](https://github.com/CleverRaven/Cataclysm-DDA/pull/88743))
 * railroads mod: "migrataion" ([#88758](https://github.com/CleverRaven/Cataclysm-DDA/pull/88758))
