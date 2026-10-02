@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-02-0518 ([6f5ad57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-0518))
+
+* [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-01-2054 ([8517a5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-2054))
 
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
@@ -154,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2026-09-28-0335 ([784c92a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-0335))
 
 * Update alarm timing when awake ([#88833](https://github.com/CleverRaven/Cataclysm-DDA/pull/88833))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-28-0239 ([8075bad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-0239))
-
 * add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
 * Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
 * adjust dremel qualities and add longest side ([#88830](https://github.com/CleverRaven/Cataclysm-DDA/pull/88830))
@@ -191,7 +192,6 @@
 * Bundle android apk with sounds ([#88789](https://github.com/CleverRaven/Cataclysm-DDA/pull/88789))
 * Speed up the crafting menu near large piles of items ([#88781](https://github.com/CleverRaven/Cataclysm-DDA/pull/88781))
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
-* 20 gauge shotguns ([#88713](https://github.com/CleverRaven/Cataclysm-DDA/pull/88713))
 * make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
 * Update plural names for various grain items, adding sheaves and handfuls ([#88743](https://github.com/CleverRaven/Cataclysm-DDA/pull/88743))
