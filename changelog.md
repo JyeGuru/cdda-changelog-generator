@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-02-2007 ([935fe5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-2007))
+
+* Add strange power-boxes to overgrown labyrinths ([#88883](https://github.com/CleverRaven/Cataclysm-DDA/pull/88883))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-02-1918 ([b50c1a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-1918))
+
+* Updated prompt_partial_construction to use more beautiful uilist ([#88879](https://github.com/CleverRaven/Cataclysm-DDA/pull/88879))
+* Stop waking the main loop when nothing changed ([#88880](https://github.com/CleverRaven/Cataclysm-DDA/pull/88880))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-02-1831 ([f41a50e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-1831))
+
+* RIP Test_Portrait_Pack 2026-2026 ([#88876](https://github.com/CleverRaven/Cataclysm-DDA/pull/88876))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-02-0518 ([6f5ad57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-0518))
 
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
@@ -147,18 +166,8 @@
 #### Cataclysm-DDA experimental build 2026-09-28-1737 ([04bd5cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-1737))
 
 * Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-28-1536 ([c219aaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-1536))
-
 * make gun mods and their crafts more reasonable ([#88834](https://github.com/CleverRaven/Cataclysm-DDA/pull/88834))
 * Force powershell.exe for msbuild.ps1 ([#88744](https://github.com/CleverRaven/Cataclysm-DDA/pull/88744))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-28-0335 ([784c92a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-0335))
-
 * Update alarm timing when awake ([#88833](https://github.com/CleverRaven/Cataclysm-DDA/pull/88833))
 * add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
 * Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
@@ -215,14 +224,8 @@
 * Fix stone tools not being craftable from a stack of rocks ([#88746](https://github.com/CleverRaven/Cataclysm-DDA/pull/88746))
 * Fix out of bounds write from inverted point ranges ([#88740](https://github.com/CleverRaven/Cataclysm-DDA/pull/88740))
 * Fix tentacle stockings not covering your tentacles ([#88737](https://github.com/CleverRaven/Cataclysm-DDA/pull/88737))
-* Remove copper dupe ([#88719](https://github.com/CleverRaven/Cataclysm-DDA/pull/88719))
-* [Xedra Evolved] The Exodii won't talk to the Fair Folk ([#88717](https://github.com/CleverRaven/Cataclysm-DDA/pull/88717))
 * fix ammo_recovery item_info ([#88727](https://github.com/CleverRaven/Cataclysm-DDA/pull/88727))
 * give cattail stalks and plant stalks a length ([#88728](https://github.com/CleverRaven/Cataclysm-DDA/pull/88728))
 * Silence chemistry test ([#88733](https://github.com/CleverRaven/Cataclysm-DDA/pull/88733))
 * Update changelog, manifest and in-game version for 0.I-1 ([#88726](https://github.com/CleverRaven/Cataclysm-DDA/pull/88726))
-* Skip pre-baked atlas variants the gpu shaders already cover ([#88720](https://github.com/CleverRaven/Cataclysm-DDA/pull/88720))
 * tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
-* RM13 combat armor overhaul, part II ([#88714](https://github.com/CleverRaven/Cataclysm-DDA/pull/88714))
-* Character creation fix ([#88715](https://github.com/CleverRaven/Cataclysm-DDA/pull/88715))
-* Keep every live tileset bundle in renderer recovery ([#88716](https://github.com/CleverRaven/Cataclysm-DDA/pull/88716))
