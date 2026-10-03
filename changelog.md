@@ -1,3 +1,10 @@
+* Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-03-2019 ([63e29d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-03-2019))
+
+* Exodii labyrinth requires finding entrances; AltarOS safehouse is a reward, not a given ([#88891](https://github.com/CleverRaven/Cataclysm-DDA/pull/88891))
 
 ---
 
@@ -160,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2026-09-28-2322 ([325f682](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-2322))
 
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-28-1737 ([04bd5cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-1737))
-
 * Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
 * make gun mods and their crafts more reasonable ([#88834](https://github.com/CleverRaven/Cataclysm-DDA/pull/88834))
 * Force powershell.exe for msbuild.ps1 ([#88744](https://github.com/CleverRaven/Cataclysm-DDA/pull/88744))
@@ -219,7 +221,6 @@
 * fix beet sugar, rum recipe ([#88753](https://github.com/CleverRaven/Cataclysm-DDA/pull/88753))
 * [XE] Torpor can't be used outdoors and ask for confirmation before starting ([#88750](https://github.com/CleverRaven/Cataclysm-DDA/pull/88750))
 * SCBA systems ([#88730](https://github.com/CleverRaven/Cataclysm-DDA/pull/88730))
-* Rename "fast travel" to "overmap-only auto travel" ([#88723](https://github.com/CleverRaven/Cataclysm-DDA/pull/88723))
 * Fix MSVC C4244 ([#88747](https://github.com/CleverRaven/Cataclysm-DDA/pull/88747))
 * Fix stone tools not being craftable from a stack of rocks ([#88746](https://github.com/CleverRaven/Cataclysm-DDA/pull/88746))
 * Fix out of bounds write from inverted point ranges ([#88740](https://github.com/CleverRaven/Cataclysm-DDA/pull/88740))
@@ -228,4 +229,3 @@
 * give cattail stalks and plant stalks a length ([#88728](https://github.com/CleverRaven/Cataclysm-DDA/pull/88728))
 * Silence chemistry test ([#88733](https://github.com/CleverRaven/Cataclysm-DDA/pull/88733))
 * Update changelog, manifest and in-game version for 0.I-1 ([#88726](https://github.com/CleverRaven/Cataclysm-DDA/pull/88726))
-* tidy up ([#88721](https://github.com/CleverRaven/Cataclysm-DDA/pull/88721))
