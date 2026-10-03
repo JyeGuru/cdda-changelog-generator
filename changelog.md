@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-03-2103 ([3404685](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-03-2103))
+
 * Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
 
 ---
@@ -161,11 +166,6 @@
 
 * increased steel contained max weight ([#88835](https://github.com/CleverRaven/Cataclysm-DDA/pull/88835))
 * Fix macOS market share script ([#88836](https://github.com/CleverRaven/Cataclysm-DDA/pull/88836))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-28-2322 ([325f682](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-28-2322))
-
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
 * Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
 * make gun mods and their crafts more reasonable ([#88834](https://github.com/CleverRaven/Cataclysm-DDA/pull/88834))

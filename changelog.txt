@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-10-03-2103 (3404685)
 * Smooth lighting (#88888)
 
 Cataclysm-DDA experimental build 2026-10-03-2019 (63e29d7)
@@ -83,8 +85,6 @@ Cataclysm-DDA experimental build 2026-09-29-1437 (f439cb1)
 Cataclysm-DDA experimental build 2026-09-29-0331 (fe6a10c)
 * increased steel contained max weight (#88835)
 * Fix macOS market share script (#88836)
-
-Cataclysm-DDA experimental build 2026-09-28-2322 (325f682)
 * Weekly Changelog 2026-09-21 to 2026-09-28 (#88842)
 * Extends #88829 to Innawood and xedrawood (#88838)
 * make gun mods and their crafts more reasonable (#88834)
