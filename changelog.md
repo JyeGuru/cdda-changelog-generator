@@ -1,6 +1,31 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-04-0736 ([1b5a141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0736))
+
+* Fix Windows release build and the GCC 16 CI job ([#88899](https://github.com/CleverRaven/Cataclysm-DDA/pull/88899))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-04-0653 ([3740988](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0653))
+
+* Speed up the camp bulletin board, vehicle examine and item info near large item piles ([#88900](https://github.com/CleverRaven/Cataclysm-DDA/pull/88900))
+* [Magiclysm] Force Armor for small characters ([#88898](https://github.com/CleverRaven/Cataclysm-DDA/pull/88898))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-04-0610 ([2558603](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0610))
+
+* fix small typo: juxtaposition ([#88902](https://github.com/CleverRaven/Cataclysm-DDA/pull/88902))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-04-0313 ([819611b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0313))
+
+* Move unique portrait definitions to NPC templates ([#88895](https://github.com/CleverRaven/Cataclysm-DDA/pull/88895))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-03-2103 ([3404685](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-03-2103))
 
 * Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
@@ -141,29 +166,9 @@
 #### Cataclysm-DDA experimental build 2026-09-29-2236 ([d3210ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-2236))
 
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-29-2036 ([e95fb72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-2036))
-
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-29-1526 ([bbcff85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-1526))
-
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-29-1437 ([f439cb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-1437))
-
 * [Isolation Protocol] New Crafting System -Continuation ([#88828](https://github.com/CleverRaven/Cataclysm-DDA/pull/88828))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-29-0331 ([fe6a10c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-0331))
-
 * increased steel contained max weight ([#88835](https://github.com/CleverRaven/Cataclysm-DDA/pull/88835))
 * Fix macOS market share script ([#88836](https://github.com/CleverRaven/Cataclysm-DDA/pull/88836))
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
@@ -220,12 +225,7 @@
 * Add a second blob singularity: the Reclaimer ([#88738](https://github.com/CleverRaven/Cataclysm-DDA/pull/88738))
 * fix beet sugar, rum recipe ([#88753](https://github.com/CleverRaven/Cataclysm-DDA/pull/88753))
 * [XE] Torpor can't be used outdoors and ask for confirmation before starting ([#88750](https://github.com/CleverRaven/Cataclysm-DDA/pull/88750))
-* SCBA systems ([#88730](https://github.com/CleverRaven/Cataclysm-DDA/pull/88730))
 * Fix MSVC C4244 ([#88747](https://github.com/CleverRaven/Cataclysm-DDA/pull/88747))
 * Fix stone tools not being craftable from a stack of rocks ([#88746](https://github.com/CleverRaven/Cataclysm-DDA/pull/88746))
 * Fix out of bounds write from inverted point ranges ([#88740](https://github.com/CleverRaven/Cataclysm-DDA/pull/88740))
 * Fix tentacle stockings not covering your tentacles ([#88737](https://github.com/CleverRaven/Cataclysm-DDA/pull/88737))
-* fix ammo_recovery item_info ([#88727](https://github.com/CleverRaven/Cataclysm-DDA/pull/88727))
-* give cattail stalks and plant stalks a length ([#88728](https://github.com/CleverRaven/Cataclysm-DDA/pull/88728))
-* Silence chemistry test ([#88733](https://github.com/CleverRaven/Cataclysm-DDA/pull/88733))
-* Update changelog, manifest and in-game version for 0.I-1 ([#88726](https://github.com/CleverRaven/Cataclysm-DDA/pull/88726))
