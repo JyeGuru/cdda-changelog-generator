@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-04-1935 ([6c506a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-1935))
+
+* add structural steel sections ([#88906](https://github.com/CleverRaven/Cataclysm-DDA/pull/88906))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-04-1506 ([fe138ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-1506))
 
 * Fix 2 scarlet storm bugs ([#88901](https://github.com/CleverRaven/Cataclysm-DDA/pull/88901))
@@ -160,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2026-09-30-1008 ([52576b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1008))
 
 * Upgrade character creation ([#88826](https://github.com/CleverRaven/Cataclysm-DDA/pull/88826))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-30-0320 ([b6c2e83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-0320))
-
 * Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
@@ -227,4 +228,3 @@
 * Fix MSVC C4244 ([#88747](https://github.com/CleverRaven/Cataclysm-DDA/pull/88747))
 * Fix stone tools not being craftable from a stack of rocks ([#88746](https://github.com/CleverRaven/Cataclysm-DDA/pull/88746))
 * Fix out of bounds write from inverted point ranges ([#88740](https://github.com/CleverRaven/Cataclysm-DDA/pull/88740))
-* Fix tentacle stockings not covering your tentacles ([#88737](https://github.com/CleverRaven/Cataclysm-DDA/pull/88737))
