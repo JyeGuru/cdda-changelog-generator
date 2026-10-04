@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-04-1506 ([fe138ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-1506))
+
+* Fix 2 scarlet storm bugs ([#88901](https://github.com/CleverRaven/Cataclysm-DDA/pull/88901))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-04-0736 ([1b5a141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0736))
 
 * Fix Windows release build and the GCC 16 CI job ([#88899](https://github.com/CleverRaven/Cataclysm-DDA/pull/88899))
@@ -160,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2026-09-30-0320 ([b6c2e83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-0320))
 
 * Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-29-2236 ([d3210ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-29-2236))
-
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
@@ -185,8 +186,6 @@
 * Re-invoking (De)construct on partial construction should prompt ([#88819](https://github.com/CleverRaven/Cataclysm-DDA/pull/88819))
 * Move open/close action to open/close_tile_activity_actor ([#88801](https://github.com/CleverRaven/Cataclysm-DDA/pull/88801))
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
-* cut potatoes into 4 pieces for planting, not 1 ([#88734](https://github.com/CleverRaven/Cataclysm-DDA/pull/88734))
-* Make marloss work again ([#88735](https://github.com/CleverRaven/Cataclysm-DDA/pull/88735))
 * [ Xedra Evolved ]  adjust Boann dialogue ([#88803](https://github.com/CleverRaven/Cataclysm-DDA/pull/88803))
 * Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
 * update CI matrix for ubuntu-26.04 ([#88756](https://github.com/CleverRaven/Cataclysm-DDA/pull/88756))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-04-1506 (fe138ae)
+* Fix 2 scarlet storm bugs (#88901)
+
 Cataclysm-DDA experimental build 2026-10-04-0736 (1b5a141)
 * Fix Windows release build and the GCC 16 CI job (#88899)
 
@@ -82,8 +85,6 @@ Cataclysm-DDA experimental build 2026-09-30-1008 (52576b7)
 
 Cataclysm-DDA experimental build 2026-09-30-0320 (b6c2e83)
 * Stop NPCs rating all pills in their pack as weapons (#88861)
-
-Cataclysm-DDA experimental build 2026-09-29-2236 (d3210ab)
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) (#88841)
 * fix price of ethanol (#88856)
 * Update ITEM.md (#88852)
@@ -104,8 +105,6 @@ Cataclysm-DDA experimental build 2026-09-29-2236 (d3210ab)
 * Re-invoking (De)construct on partial construction should prompt (#88819)
 * Move open/close action to open/close_tile_activity_actor (#88801)
 * Add more items to the Hub-01 merchant blacklist (#88813)
-* cut potatoes into 4 pieces for planting, not 1 (#88734)
-* Make marloss work again (#88735)
 * [ Xedra Evolved ]  adjust Boann dialogue (#88803)
 * Powder price fixes (#88814)
 * update CI matrix for ubuntu-26.04 (#88756)
