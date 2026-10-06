@@ -1,6 +1,40 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-05-2020 ([a68ad09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-2020))
+
+* make it so survivors can only install improvised frames ([#88823](https://github.com/CleverRaven/Cataclysm-DDA/pull/88823))
+* Fix plugged-in devices coming loose when leaving the reality bubble ([#88921](https://github.com/CleverRaven/Cataclysm-DDA/pull/88921))
+* Weekly Changelog 2026-09-28 to 2026-10-05 ([#88917](https://github.com/CleverRaven/Cataclysm-DDA/pull/88917))
+* add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
+* spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
+* delete old bundle recipe references ([#88919](https://github.com/CleverRaven/Cataclysm-DDA/pull/88919))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-05-1922 ([497b1a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-1922))
+
+* Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-05-1423 ([09a75ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-1423))
+
+* Fix item duplication from spilling ([#88854](https://github.com/CleverRaven/Cataclysm-DDA/pull/88854))
+* Standardize tea crafting recipes and make them (mostly) unattended (feedback requested) ([#88892](https://github.com/CleverRaven/Cataclysm-DDA/pull/88892))
+* Add a GPU backend option to the graphics settings ([#88918](https://github.com/CleverRaven/Cataclysm-DDA/pull/88918))
+* migrate innawoods to SUS trash itemgroup ([#88915](https://github.com/CleverRaven/Cataclysm-DDA/pull/88915))
+* Scarlet Storm/Sea weather now more diverse, comes with dynamic(ish) lightning and fog, and has associated rebalances ([#88913](https://github.com/CleverRaven/Cataclysm-DDA/pull/88913))
+* update plastic shopping bag pocket data ([#88916](https://github.com/CleverRaven/Cataclysm-DDA/pull/88916))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-05-1322 ([bdd849b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-1322))
+
+* remove unused variable ([#88922](https://github.com/CleverRaven/Cataclysm-DDA/pull/88922))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-04-1935 ([6c506a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-1935))
 
 * add structural steel sections ([#88906](https://github.com/CleverRaven/Cataclysm-DDA/pull/88906))
@@ -154,17 +188,7 @@
 #### Cataclysm-DDA experimental build 2026-09-30-1548 ([3d84106](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1548))
 
 * obsolete stanag with ranger plate magazines ([#88855](https://github.com/CleverRaven/Cataclysm-DDA/pull/88855))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-30-1305 ([75eaff9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1305))
-
 * [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-30-1008 ([52576b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1008))
-
 * Upgrade character creation ([#88826](https://github.com/CleverRaven/Cataclysm-DDA/pull/88826))
 * Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
@@ -176,7 +200,6 @@
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
 * Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
 * make gun mods and their crafts more reasonable ([#88834](https://github.com/CleverRaven/Cataclysm-DDA/pull/88834))
-* Force powershell.exe for msbuild.ps1 ([#88744](https://github.com/CleverRaven/Cataclysm-DDA/pull/88744))
 * Update alarm timing when awake ([#88833](https://github.com/CleverRaven/Cataclysm-DDA/pull/88833))
 * add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
 * Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
@@ -189,7 +212,6 @@
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
 * [ Xedra Evolved ]  adjust Boann dialogue ([#88803](https://github.com/CleverRaven/Cataclysm-DDA/pull/88803))
 * Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
-* update CI matrix for ubuntu-26.04 ([#88756](https://github.com/CleverRaven/Cataclysm-DDA/pull/88756))
 * Show environmental protection in bodygraph ([#88763](https://github.com/CleverRaven/Cataclysm-DDA/pull/88763))
 * [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell ([#88809](https://github.com/CleverRaven/Cataclysm-DDA/pull/88809))
 * Improve the MME vitamin elimination rate ([#88798](https://github.com/CleverRaven/Cataclysm-DDA/pull/88798))
@@ -198,8 +220,6 @@
 * Fix overmap weather newline ([#88799](https://github.com/CleverRaven/Cataclysm-DDA/pull/88799))
 * Change Marlin 39A's generic name to "high capacity small game lever-action rifle" ([#88796](https://github.com/CleverRaven/Cataclysm-DDA/pull/88796))
 * Farthings are currency ([#88761](https://github.com/CleverRaven/Cataclysm-DDA/pull/88761))
-* halve beet syrup charges ([#88751](https://github.com/CleverRaven/Cataclysm-DDA/pull/88751))
-* CMake MSVC complains cl.exe used for both C and C++ ([#88748](https://github.com/CleverRaven/Cataclysm-DDA/pull/88748))
 * [XE] Swap remaining uses of deduction in changeling spells. ([#88793](https://github.com/CleverRaven/Cataclysm-DDA/pull/88793))
 * fix ancient fertilizer comment ([#88776](https://github.com/CleverRaven/Cataclysm-DDA/pull/88776))
 * Publish translations archive with experimental releases ([#88791](https://github.com/CleverRaven/Cataclysm-DDA/pull/88791))
@@ -210,11 +230,7 @@
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
 * make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
-* Update plural names for various grain items, adding sheaves and handfuls ([#88743](https://github.com/CleverRaven/Cataclysm-DDA/pull/88743))
-* railroads mod: "migrataion" ([#88758](https://github.com/CleverRaven/Cataclysm-DDA/pull/88758))
 * Fix zone sort hang while dragging a loaded cart ([#88767](https://github.com/CleverRaven/Cataclysm-DDA/pull/88767))
-* fix vitamins content of porkbelly ([#88752](https://github.com/CleverRaven/Cataclysm-DDA/pull/88752))
-* Tint sprites with colored light inside the shader on the gpu renderer ([#88754](https://github.com/CleverRaven/Cataclysm-DDA/pull/88754))
 * Weekly Changelog 2026-09-14 to 2026-09-21 ([#88759](https://github.com/CleverRaven/Cataclysm-DDA/pull/88759))
 * Change .45 acp default ammo to be the same as other pistol cartriges ([#88762](https://github.com/CleverRaven/Cataclysm-DDA/pull/88762))
 * Make device really optional in _has_software ([#88760](https://github.com/CleverRaven/Cataclysm-DDA/pull/88760))
@@ -222,9 +238,3 @@
 * Update and rename military & firefighter respirators w/ new SCBA system ([#88773](https://github.com/CleverRaven/Cataclysm-DDA/pull/88773))
 * Fix GCC 9 build error in cataimgui::draw_texture ([#88771](https://github.com/CleverRaven/Cataclysm-DDA/pull/88771))
 * add dremel ([#88768](https://github.com/CleverRaven/Cataclysm-DDA/pull/88768))
-* Add a second blob singularity: the Reclaimer ([#88738](https://github.com/CleverRaven/Cataclysm-DDA/pull/88738))
-* fix beet sugar, rum recipe ([#88753](https://github.com/CleverRaven/Cataclysm-DDA/pull/88753))
-* [XE] Torpor can't be used outdoors and ask for confirmation before starting ([#88750](https://github.com/CleverRaven/Cataclysm-DDA/pull/88750))
-* Fix MSVC C4244 ([#88747](https://github.com/CleverRaven/Cataclysm-DDA/pull/88747))
-* Fix stone tools not being craftable from a stack of rocks ([#88746](https://github.com/CleverRaven/Cataclysm-DDA/pull/88746))
-* Fix out of bounds write from inverted point ranges ([#88740](https://github.com/CleverRaven/Cataclysm-DDA/pull/88740))
