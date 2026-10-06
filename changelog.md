@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-06-0253 ([ba1398e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-0253))
+
+* Prefilter smooth filtered light once per light change ([#88925](https://github.com/CleverRaven/Cataclysm-DDA/pull/88925))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-05-2020 ([a68ad09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-2020))
 
 * make it so survivors can only install improvised frames ([#88823](https://github.com/CleverRaven/Cataclysm-DDA/pull/88823))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2026-09-30-1844 ([0ddb278](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1844))
 
 * Beneficial supernatural mutations are positive ([#88867](https://github.com/CleverRaven/Cataclysm-DDA/pull/88867))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-30-1548 ([3d84106](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1548))
-
 * obsolete stanag with ranger plate magazines ([#88855](https://github.com/CleverRaven/Cataclysm-DDA/pull/88855))
 * [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
 * Upgrade character creation ([#88826](https://github.com/CleverRaven/Cataclysm-DDA/pull/88826))
@@ -231,9 +232,7 @@
 * make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
 * Fix zone sort hang while dragging a loaded cart ([#88767](https://github.com/CleverRaven/Cataclysm-DDA/pull/88767))
-* Weekly Changelog 2026-09-14 to 2026-09-21 ([#88759](https://github.com/CleverRaven/Cataclysm-DDA/pull/88759))
 * Change .45 acp default ammo to be the same as other pistol cartriges ([#88762](https://github.com/CleverRaven/Cataclysm-DDA/pull/88762))
-* Make device really optional in _has_software ([#88760](https://github.com/CleverRaven/Cataclysm-DDA/pull/88760))
 * Consolidate canning recipes to use nested system part 1 ([#88766](https://github.com/CleverRaven/Cataclysm-DDA/pull/88766))
 * Update and rename military & firefighter respirators w/ new SCBA system ([#88773](https://github.com/CleverRaven/Cataclysm-DDA/pull/88773))
 * Fix GCC 9 build error in cataimgui::draw_texture ([#88771](https://github.com/CleverRaven/Cataclysm-DDA/pull/88771))
