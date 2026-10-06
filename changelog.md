@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-06-1807 ([074aa98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1807))
+
+* Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-06-1653 ([1cdfa03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1653))
+
+* remove two nonsensical frame recipes ([#88926](https://github.com/CleverRaven/Cataclysm-DDA/pull/88926))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-06-1205 ([e065bc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1205))
 
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
@@ -175,17 +187,7 @@
 #### Cataclysm-DDA experimental build 2026-09-30-2303 ([ca1bfab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-2303))
 
 * Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-30-2138 ([9369c35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-2138))
-
 * Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-30-1936 ([07f6903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-1936))
-
 * Portrait filename: Refugee Center ([#88864](https://github.com/CleverRaven/Cataclysm-DDA/pull/88864))
 * replace _val('hunger') with _hunger() math ([#88818](https://github.com/CleverRaven/Cataclysm-DDA/pull/88818))
 * Beneficial supernatural mutations are positive ([#88867](https://github.com/CleverRaven/Cataclysm-DDA/pull/88867))
@@ -214,7 +216,6 @@
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
 * [ Xedra Evolved ]  adjust Boann dialogue ([#88803](https://github.com/CleverRaven/Cataclysm-DDA/pull/88803))
 * Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
-* Show environmental protection in bodygraph ([#88763](https://github.com/CleverRaven/Cataclysm-DDA/pull/88763))
 * [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell ([#88809](https://github.com/CleverRaven/Cataclysm-DDA/pull/88809))
 * Improve the MME vitamin elimination rate ([#88798](https://github.com/CleverRaven/Cataclysm-DDA/pull/88798))
 * [ Xedra Evolved ] Freeze Effects actually needs to freeze all effects ([#88794](https://github.com/CleverRaven/Cataclysm-DDA/pull/88794))
@@ -232,7 +233,6 @@
 * make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
 * Fix zone sort hang while dragging a loaded cart ([#88767](https://github.com/CleverRaven/Cataclysm-DDA/pull/88767))
-* Change .45 acp default ammo to be the same as other pistol cartriges ([#88762](https://github.com/CleverRaven/Cataclysm-DDA/pull/88762))
 * Consolidate canning recipes to use nested system part 1 ([#88766](https://github.com/CleverRaven/Cataclysm-DDA/pull/88766))
 * Update and rename military & firefighter respirators w/ new SCBA system ([#88773](https://github.com/CleverRaven/Cataclysm-DDA/pull/88773))
 * Fix GCC 9 build error in cataimgui::draw_texture ([#88771](https://github.com/CleverRaven/Cataclysm-DDA/pull/88771))
