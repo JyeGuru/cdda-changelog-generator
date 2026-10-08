@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-08-1750 ([3defba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1750))
+
+* Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-08-1628 ([7fb176e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1628))
+
+* More updates to the FMS ([#88824](https://github.com/CleverRaven/Cataclysm-DDA/pull/88824))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-08-1037 ([1d0db7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1037))
 
 * Add more trauma ([#88950](https://github.com/CleverRaven/Cataclysm-DDA/pull/88950))
@@ -180,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-10-01-2054 ([8517a5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-2054))
 
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-01-2001 ([3b80127](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-2001))
-
 * First steps for event effect intensity change ([#88825](https://github.com/CleverRaven/Cataclysm-DDA/pull/88825))
 * [ Xedra Evolved ] New Brownie Trait and eoc improvement ([#88804](https://github.com/CleverRaven/Cataclysm-DDA/pull/88804))
 * [ XedraWood ] Fruits and their trees for XedraWood ([#88843](https://github.com/CleverRaven/Cataclysm-DDA/pull/88843))
@@ -230,11 +237,9 @@
 * Fix overmap weather newline ([#88799](https://github.com/CleverRaven/Cataclysm-DDA/pull/88799))
 * Change Marlin 39A's generic name to "high capacity small game lever-action rifle" ([#88796](https://github.com/CleverRaven/Cataclysm-DDA/pull/88796))
 * [XE] Swap remaining uses of deduction in changeling spells. ([#88793](https://github.com/CleverRaven/Cataclysm-DDA/pull/88793))
-* fix ancient fertilizer comment ([#88776](https://github.com/CleverRaven/Cataclysm-DDA/pull/88776))
 * Publish translations archive with experimental releases ([#88791](https://github.com/CleverRaven/Cataclysm-DDA/pull/88791))
 * Prevent dimension switching from nuking placed_unique_specials ([#88784](https://github.com/CleverRaven/Cataclysm-DDA/pull/88784))
 * remove some staff repairs ([#88792](https://github.com/CleverRaven/Cataclysm-DDA/pull/88792))
 * Bundle android apk with sounds ([#88789](https://github.com/CleverRaven/Cataclysm-DDA/pull/88789))
 * Speed up the crafting menu near large piles of items ([#88781](https://github.com/CleverRaven/Cataclysm-DDA/pull/88781))
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
-* Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))

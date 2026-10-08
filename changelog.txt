@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-10-08-1750 (3defba1)
+* Interdimensional teleportation has bad side effects (#88961)
+
+Cataclysm-DDA experimental build 2026-10-08-1628 (7fb176e)
+* More updates to the FMS (#88824)
+
 Cataclysm-DDA experimental build 2026-10-08-1037 (1d0db7c)
 * Add more trauma (#88950)
 
@@ -96,8 +102,6 @@ Cataclysm-DDA experimental build 2026-10-02-0518 (6f5ad57)
 
 Cataclysm-DDA experimental build 2026-10-01-2054 (8517a5f)
 * fix quicklime price (#88878)
-
-Cataclysm-DDA experimental build 2026-10-01-2001 (3b80127)
 * First steps for event effect intensity change (#88825)
 * [ Xedra Evolved ] New Brownie Trait and eoc improvement (#88804)
 * [ XedraWood ] Fruits and their trees for XedraWood (#88843)
@@ -143,11 +147,9 @@ Cataclysm-DDA experimental build 2026-10-01-2001 (3b80127)
 * Fix overmap weather newline (#88799)
 * Change Marlin 39A's generic name to "high capacity small game lever-action rifle" (#88796)
 * [XE] Swap remaining uses of deduction in changeling spells. (#88793)
-* fix ancient fertilizer comment (#88776)
 * Publish translations archive with experimental releases (#88791)
 * Prevent dimension switching from nuking placed_unique_specials (#88784)
 * remove some staff repairs (#88792)
 * Bundle android apk with sounds (#88789)
 * Speed up the crafting menu near large piles of items (#88781)
 * remove bb recipe (#88783)
-* Fix bodygraph screen bodypart temperature (#88778)
