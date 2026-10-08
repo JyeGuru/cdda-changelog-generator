@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-08-1037 (1d0db7c)
+* Add more trauma (#88950)
+
 Cataclysm-DDA experimental build 2026-10-08-0357 (43be0bb)
 * Remove lumbermill riot damage (#88957)
 
@@ -96,9 +99,6 @@ Cataclysm-DDA experimental build 2026-10-01-2054 (8517a5f)
 
 Cataclysm-DDA experimental build 2026-10-01-2001 (3b80127)
 * First steps for event effect intensity change (#88825)
-
-Cataclysm-DDA experimental build 2026-10-01-1124 (cb7701d)
-* change visitable to use item_location (#88775)
 * [ Xedra Evolved ] New Brownie Trait and eoc improvement (#88804)
 * [ XedraWood ] Fruits and their trees for XedraWood (#88843)
 * Draw curses text from a glyph atlas on hardware renderers (#88873)

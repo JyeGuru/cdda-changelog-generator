@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-08-1037 ([1d0db7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1037))
+
+* Add more trauma ([#88950](https://github.com/CleverRaven/Cataclysm-DDA/pull/88950))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-08-0357 ([43be0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0357))
 
 * Remove lumbermill riot damage ([#88957](https://github.com/CleverRaven/Cataclysm-DDA/pull/88957))
@@ -180,12 +186,6 @@
 #### Cataclysm-DDA experimental build 2026-10-01-2001 ([3b80127](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-2001))
 
 * First steps for event effect intensity change ([#88825](https://github.com/CleverRaven/Cataclysm-DDA/pull/88825))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-01-1124 ([cb7701d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-1124))
-
-* change visitable to use item_location ([#88775](https://github.com/CleverRaven/Cataclysm-DDA/pull/88775))
 * [ Xedra Evolved ] New Brownie Trait and eoc improvement ([#88804](https://github.com/CleverRaven/Cataclysm-DDA/pull/88804))
 * [ XedraWood ] Fruits and their trees for XedraWood ([#88843](https://github.com/CleverRaven/Cataclysm-DDA/pull/88843))
 * Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
