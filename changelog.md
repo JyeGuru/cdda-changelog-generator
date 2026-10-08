@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-07-2306 ([3b04a71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-07-2306))
+
+* Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-07-2153 ([f9f4fe6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-07-2153))
+
+* Fix crash with wheel<->corpse gibbing use-after-free ([#88946](https://github.com/CleverRaven/Cataclysm-DDA/pull/88946))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-06-1807 ([074aa98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1807))
 
 * Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
@@ -174,18 +186,8 @@
 #### Cataclysm-DDA experimental build 2026-10-01-0553 ([507971b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0553))
 
 * Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-01-0058 ([0de9da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0058))
-
 * improved the description of glock 10 round magazines ([#88810](https://github.com/CleverRaven/Cataclysm-DDA/pull/88810))
 * Feature #88785 ([#88846](https://github.com/CleverRaven/Cataclysm-DDA/pull/88846))
-
----
-
-#### Cataclysm-DDA experimental build 2026-09-30-2303 ([ca1bfab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-09-30-2303))
-
 * Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
 * Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
 * Portrait filename: Refugee Center ([#88864](https://github.com/CleverRaven/Cataclysm-DDA/pull/88864))
@@ -219,7 +221,6 @@
 * [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell ([#88809](https://github.com/CleverRaven/Cataclysm-DDA/pull/88809))
 * Improve the MME vitamin elimination rate ([#88798](https://github.com/CleverRaven/Cataclysm-DDA/pull/88798))
 * [ Xedra Evolved ] Freeze Effects actually needs to freeze all effects ([#88794](https://github.com/CleverRaven/Cataclysm-DDA/pull/88794))
-* General text fixes ([#88765](https://github.com/CleverRaven/Cataclysm-DDA/pull/88765))
 * Fix overmap weather newline ([#88799](https://github.com/CleverRaven/Cataclysm-DDA/pull/88799))
 * Change Marlin 39A's generic name to "high capacity small game lever-action rifle" ([#88796](https://github.com/CleverRaven/Cataclysm-DDA/pull/88796))
 * [XE] Swap remaining uses of deduction in changeling spells. ([#88793](https://github.com/CleverRaven/Cataclysm-DDA/pull/88793))
