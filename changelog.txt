@@ -1,4 +1,18 @@
 
+Cataclysm-DDA experimental build 2026-10-08-0357 (43be0bb)
+* Remove lumbermill riot damage (#88957)
+
+Cataclysm-DDA experimental build 2026-10-08-0248 (d201fb5)
+* Fix pseudo-exit of portal dungeon (#88938)
+* Refactor visibility caches (#88942)
+* Dim the wall lights (#88944)
+
+Cataclysm-DDA experimental build 2026-10-08-0158 (15683c2)
+* Fix traps with practice 2 being free to place (#88951)
+
+Cataclysm-DDA experimental build 2026-10-08-0048 (e4079f8)
+* Remove a typo in the mapgen docs (#88962)
+
 Cataclysm-DDA experimental build 2026-10-07-2306 (3b04a71)
 * Boost scarlet sea lighting (#88952)
 
@@ -86,18 +100,10 @@ Cataclysm-DDA experimental build 2026-10-01-2001 (3b80127)
 Cataclysm-DDA experimental build 2026-10-01-1124 (cb7701d)
 * change visitable to use item_location (#88775)
 * [ Xedra Evolved ] New Brownie Trait and eoc improvement (#88804)
-
-Cataclysm-DDA experimental build 2026-10-01-1040 (3f7fb35)
 * [ XedraWood ] Fruits and their trees for XedraWood (#88843)
 * Draw curses text from a glyph atlas on hardware renderers (#88873)
-
-Cataclysm-DDA experimental build 2026-10-01-0956 (bd1e9fe)
 * Update ITEM.md (#88866)
-
-Cataclysm-DDA experimental build 2026-10-01-0644 (0c35fe3)
 * How much tobacco is left in a butt.  Not much in my experience (#88827)
-
-Cataclysm-DDA experimental build 2026-10-01-0553 (507971b)
 * Fix CANNOT_CONSUME_DRUGS (#88875)
 * improved the description of glock 10 round magazines (#88810)
 * Feature #88785 (#88846)
@@ -144,10 +150,4 @@ Cataclysm-DDA experimental build 2026-10-01-0553 (507971b)
 * Bundle android apk with sounds (#88789)
 * Speed up the crafting menu near large piles of items (#88781)
 * remove bb recipe (#88783)
-* make powered quarterstaff make sense (#88769)
 * Fix bodygraph screen bodypart temperature (#88778)
-* Fix zone sort hang while dragging a loaded cart (#88767)
-* Consolidate canning recipes to use nested system part 1 (#88766)
-* Update and rename military & firefighter respirators w/ new SCBA system (#88773)
-* Fix GCC 9 build error in cataimgui::draw_texture (#88771)
-* add dremel (#88768)

@@ -1,6 +1,32 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-08-0357 ([43be0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0357))
+
+* Remove lumbermill riot damage ([#88957](https://github.com/CleverRaven/Cataclysm-DDA/pull/88957))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-08-0248 ([d201fb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0248))
+
+* Fix pseudo-exit of portal dungeon ([#88938](https://github.com/CleverRaven/Cataclysm-DDA/pull/88938))
+* Refactor visibility caches ([#88942](https://github.com/CleverRaven/Cataclysm-DDA/pull/88942))
+* Dim the wall lights ([#88944](https://github.com/CleverRaven/Cataclysm-DDA/pull/88944))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-08-0158 ([15683c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0158))
+
+* Fix traps with practice 2 being free to place ([#88951](https://github.com/CleverRaven/Cataclysm-DDA/pull/88951))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-08-0048 ([e4079f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0048))
+
+* Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-07-2306 ([3b04a71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-07-2306))
 
 * Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
@@ -161,30 +187,10 @@
 
 * change visitable to use item_location ([#88775](https://github.com/CleverRaven/Cataclysm-DDA/pull/88775))
 * [ Xedra Evolved ] New Brownie Trait and eoc improvement ([#88804](https://github.com/CleverRaven/Cataclysm-DDA/pull/88804))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-01-1040 ([3f7fb35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-1040))
-
 * [ XedraWood ] Fruits and their trees for XedraWood ([#88843](https://github.com/CleverRaven/Cataclysm-DDA/pull/88843))
 * Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-01-0956 ([bd1e9fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0956))
-
 * Update ITEM.md ([#88866](https://github.com/CleverRaven/Cataclysm-DDA/pull/88866))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-01-0644 ([0c35fe3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0644))
-
 * How much tobacco is left in a butt.  Not much in my experience ([#88827](https://github.com/CleverRaven/Cataclysm-DDA/pull/88827))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-01-0553 ([507971b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-0553))
-
 * Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
 * improved the description of glock 10 round magazines ([#88810](https://github.com/CleverRaven/Cataclysm-DDA/pull/88810))
 * Feature #88785 ([#88846](https://github.com/CleverRaven/Cataclysm-DDA/pull/88846))
@@ -231,10 +237,4 @@
 * Bundle android apk with sounds ([#88789](https://github.com/CleverRaven/Cataclysm-DDA/pull/88789))
 * Speed up the crafting menu near large piles of items ([#88781](https://github.com/CleverRaven/Cataclysm-DDA/pull/88781))
 * remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
-* make powered quarterstaff make sense ([#88769](https://github.com/CleverRaven/Cataclysm-DDA/pull/88769))
 * Fix bodygraph screen bodypart temperature ([#88778](https://github.com/CleverRaven/Cataclysm-DDA/pull/88778))
-* Fix zone sort hang while dragging a loaded cart ([#88767](https://github.com/CleverRaven/Cataclysm-DDA/pull/88767))
-* Consolidate canning recipes to use nested system part 1 ([#88766](https://github.com/CleverRaven/Cataclysm-DDA/pull/88766))
-* Update and rename military & firefighter respirators w/ new SCBA system ([#88773](https://github.com/CleverRaven/Cataclysm-DDA/pull/88773))
-* Fix GCC 9 build error in cataimgui::draw_texture ([#88771](https://github.com/CleverRaven/Cataclysm-DDA/pull/88771))
-* add dremel ([#88768](https://github.com/CleverRaven/Cataclysm-DDA/pull/88768))
