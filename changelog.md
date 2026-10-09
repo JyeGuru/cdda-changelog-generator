@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-09-0223 ([686b08b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0223))
+
+* [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-09-0143 ([26bc19c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0143))
+
+* Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-08-1750 ([3defba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1750))
 
 * Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
@@ -180,17 +192,7 @@
 #### Cataclysm-DDA experimental build 2026-10-02-1831 ([f41a50e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-1831))
 
 * RIP Test_Portrait_Pack 2026-2026 ([#88876](https://github.com/CleverRaven/Cataclysm-DDA/pull/88876))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-02-0518 ([6f5ad57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-0518))
-
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-01-2054 ([8517a5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-01-2054))
-
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
 * First steps for event effect intensity change ([#88825](https://github.com/CleverRaven/Cataclysm-DDA/pull/88825))
 * [ Xedra Evolved ] New Brownie Trait and eoc improvement ([#88804](https://github.com/CleverRaven/Cataclysm-DDA/pull/88804))
@@ -241,5 +243,3 @@
 * Prevent dimension switching from nuking placed_unique_specials ([#88784](https://github.com/CleverRaven/Cataclysm-DDA/pull/88784))
 * remove some staff repairs ([#88792](https://github.com/CleverRaven/Cataclysm-DDA/pull/88792))
 * Bundle android apk with sounds ([#88789](https://github.com/CleverRaven/Cataclysm-DDA/pull/88789))
-* Speed up the crafting menu near large piles of items ([#88781](https://github.com/CleverRaven/Cataclysm-DDA/pull/88781))
-* remove bb recipe ([#88783](https://github.com/CleverRaven/Cataclysm-DDA/pull/88783))
