@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-09-1609 ([2635854](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-1609))
+
+* Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
+* refactor some callers of all_items_loc() ([#88884](https://github.com/CleverRaven/Cataclysm-DDA/pull/88884))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-09-1524 ([f686f19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-1524))
+
+* Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-09-0440 ([2af1de7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0440))
 
 * Fix error with templated NPC portraits ([#88945](https://github.com/CleverRaven/Cataclysm-DDA/pull/88945))
@@ -184,17 +197,7 @@
 #### Cataclysm-DDA experimental build 2026-10-03-2103 ([3404685](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-03-2103))
 
 * Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-03-2019 ([63e29d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-03-2019))
-
 * Exodii labyrinth requires finding entrances; AltarOS safehouse is a reward, not a given ([#88891](https://github.com/CleverRaven/Cataclysm-DDA/pull/88891))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-02-2007 ([935fe5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-2007))
-
 * Add strange power-boxes to overgrown labyrinths ([#88883](https://github.com/CleverRaven/Cataclysm-DDA/pull/88883))
 * Updated prompt_partial_construction to use more beautiful uilist ([#88879](https://github.com/CleverRaven/Cataclysm-DDA/pull/88879))
 * Stop waking the main loop when nothing changed ([#88880](https://github.com/CleverRaven/Cataclysm-DDA/pull/88880))
@@ -233,12 +236,8 @@
 * Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
 * adjust dremel qualities and add longest side ([#88830](https://github.com/CleverRaven/Cataclysm-DDA/pull/88830))
 * remove wood sawing from hoe ([#88831](https://github.com/CleverRaven/Cataclysm-DDA/pull/88831))
-* [Xedra Evolved] Wolf's Mask for wolves (and others) ([#88800](https://github.com/CleverRaven/Cataclysm-DDA/pull/88800))
 * Consolidate canning recipes pt 2 ([#88817](https://github.com/CleverRaven/Cataclysm-DDA/pull/88817))
 * Re-invoking (De)construct on partial construction should prompt ([#88819](https://github.com/CleverRaven/Cataclysm-DDA/pull/88819))
-* Move open/close action to open/close_tile_activity_actor ([#88801](https://github.com/CleverRaven/Cataclysm-DDA/pull/88801))
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
-* [ Xedra Evolved ]  adjust Boann dialogue ([#88803](https://github.com/CleverRaven/Cataclysm-DDA/pull/88803))
 * Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
 * [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell ([#88809](https://github.com/CleverRaven/Cataclysm-DDA/pull/88809))
-* Fix overmap weather newline ([#88799](https://github.com/CleverRaven/Cataclysm-DDA/pull/88799))

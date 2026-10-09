@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-10-09-1609 (2635854)
+* Fix red mp3 player (again) (#88978)
+* refactor some callers of all_items_loc() (#88884)
+
+Cataclysm-DDA experimental build 2026-10-09-1524 (f686f19)
+* Android bells and whistles (#88977)
+
 Cataclysm-DDA experimental build 2026-10-09-0440 (2af1de7)
 * Fix error with templated NPC portraits (#88945)
 * Update megacity starts (#88975)
@@ -100,11 +107,7 @@ Cataclysm-DDA experimental build 2026-10-04-0313 (819611b)
 
 Cataclysm-DDA experimental build 2026-10-03-2103 (3404685)
 * Smooth lighting (#88888)
-
-Cataclysm-DDA experimental build 2026-10-03-2019 (63e29d7)
 * Exodii labyrinth requires finding entrances; AltarOS safehouse is a reward, not a given (#88891)
-
-Cataclysm-DDA experimental build 2026-10-02-2007 (935fe5f)
 * Add strange power-boxes to overgrown labyrinths (#88883)
 * Updated prompt_partial_construction to use more beautiful uilist (#88879)
 * Stop waking the main loop when nothing changed (#88880)
@@ -143,12 +146,8 @@ Cataclysm-DDA experimental build 2026-10-02-2007 (935fe5f)
 * Stop having the forests be empty. Stop it. (#88829)
 * adjust dremel qualities and add longest side (#88830)
 * remove wood sawing from hoe (#88831)
-* [Xedra Evolved] Wolf's Mask for wolves (and others) (#88800)
 * Consolidate canning recipes pt 2 (#88817)
 * Re-invoking (De)construct on partial construction should prompt (#88819)
-* Move open/close action to open/close_tile_activity_actor (#88801)
 * Add more items to the Hub-01 merchant blacklist (#88813)
-* [ Xedra Evolved ]  adjust Boann dialogue (#88803)
 * Powder price fixes (#88814)
 * [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell (#88809)
-* Fix overmap weather newline (#88799)
