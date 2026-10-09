@@ -1,6 +1,23 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-09-0440 ([2af1de7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0440))
+
+* Fix error with templated NPC portraits ([#88945](https://github.com/CleverRaven/Cataclysm-DDA/pull/88945))
+* Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
+* Mainline CBM slots and obsolete the mod ([#88956](https://github.com/CleverRaven/Cataclysm-DDA/pull/88956))
+* [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))
+* Fix house_w_3 bathroom ([#88955](https://github.com/CleverRaven/Cataclysm-DDA/pull/88955))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-09-0330 ([6e2bd21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0330))
+
+* allow modifying items via post_process_generator ([#88912](https://github.com/CleverRaven/Cataclysm-DDA/pull/88912))
+* Remove mil_surplus itemgroup ([#88958](https://github.com/CleverRaven/Cataclysm-DDA/pull/88958))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-09-0223 ([686b08b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0223))
 
 * [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
@@ -179,18 +196,8 @@
 #### Cataclysm-DDA experimental build 2026-10-02-2007 ([935fe5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-2007))
 
 * Add strange power-boxes to overgrown labyrinths ([#88883](https://github.com/CleverRaven/Cataclysm-DDA/pull/88883))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-02-1918 ([b50c1a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-1918))
-
 * Updated prompt_partial_construction to use more beautiful uilist ([#88879](https://github.com/CleverRaven/Cataclysm-DDA/pull/88879))
 * Stop waking the main loop when nothing changed ([#88880](https://github.com/CleverRaven/Cataclysm-DDA/pull/88880))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-02-1831 ([f41a50e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-02-1831))
-
 * RIP Test_Portrait_Pack 2026-2026 ([#88876](https://github.com/CleverRaven/Cataclysm-DDA/pull/88876))
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
@@ -234,12 +241,4 @@
 * [ Xedra Evolved ]  adjust Boann dialogue ([#88803](https://github.com/CleverRaven/Cataclysm-DDA/pull/88803))
 * Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
 * [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell ([#88809](https://github.com/CleverRaven/Cataclysm-DDA/pull/88809))
-* Improve the MME vitamin elimination rate ([#88798](https://github.com/CleverRaven/Cataclysm-DDA/pull/88798))
-* [ Xedra Evolved ] Freeze Effects actually needs to freeze all effects ([#88794](https://github.com/CleverRaven/Cataclysm-DDA/pull/88794))
 * Fix overmap weather newline ([#88799](https://github.com/CleverRaven/Cataclysm-DDA/pull/88799))
-* Change Marlin 39A's generic name to "high capacity small game lever-action rifle" ([#88796](https://github.com/CleverRaven/Cataclysm-DDA/pull/88796))
-* [XE] Swap remaining uses of deduction in changeling spells. ([#88793](https://github.com/CleverRaven/Cataclysm-DDA/pull/88793))
-* Publish translations archive with experimental releases ([#88791](https://github.com/CleverRaven/Cataclysm-DDA/pull/88791))
-* Prevent dimension switching from nuking placed_unique_specials ([#88784](https://github.com/CleverRaven/Cataclysm-DDA/pull/88784))
-* remove some staff repairs ([#88792](https://github.com/CleverRaven/Cataclysm-DDA/pull/88792))
-* Bundle android apk with sounds ([#88789](https://github.com/CleverRaven/Cataclysm-DDA/pull/88789))
