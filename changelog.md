@@ -183,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2026-10-05-1322 ([bdd849b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-1322))
 
 * remove unused variable ([#88922](https://github.com/CleverRaven/Cataclysm-DDA/pull/88922))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-04-1935 ([6c506a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-1935))
-
 * add structural steel sections ([#88906](https://github.com/CleverRaven/Cataclysm-DDA/pull/88906))
 * Fix 2 scarlet storm bugs ([#88901](https://github.com/CleverRaven/Cataclysm-DDA/pull/88901))
 * Fix Windows release build and the GCC 16 CI job ([#88899](https://github.com/CleverRaven/Cataclysm-DDA/pull/88899))
