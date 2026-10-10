@@ -1,6 +1,34 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-10-0420 ([a74468b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-0420))
+
+* Fix user fonts.json being reset on every launch ([#88996](https://github.com/CleverRaven/Cataclysm-DDA/pull/88996))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-10-0315 ([e370a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-0315))
+
+* restore old number of rations in evac shelter cabinet ([#88930](https://github.com/CleverRaven/Cataclysm-DDA/pull/88930))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-10-0226 ([0c85a4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-0226))
+
+* You kill it; they own it ([#88949](https://github.com/CleverRaven/Cataclysm-DDA/pull/88949))
+* Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
+* remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
+* wound flag checks support arrays ([#88991](https://github.com/CleverRaven/Cataclysm-DDA/pull/88991))
+* Add rebar into construction palettes ([#88960](https://github.com/CleverRaven/Cataclysm-DDA/pull/88960))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-10-0133 ([71a3085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-0133))
+
+* Build your own sandwich ([#88979](https://github.com/CleverRaven/Cataclysm-DDA/pull/88979))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-09-2301 ([85b725e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-2301))
 
 * add electric rocks to radiosphere ([#88984](https://github.com/CleverRaven/Cataclysm-DDA/pull/88984))
@@ -59,12 +87,6 @@
 #### Cataclysm-DDA experimental build 2026-10-08-1750 ([3defba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1750))
 
 * Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-08-1628 ([7fb176e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1628))
-
-* More updates to the FMS ([#88824](https://github.com/CleverRaven/Cataclysm-DDA/pull/88824))
 
 ---
 
@@ -133,12 +155,6 @@
 #### Cataclysm-DDA experimental build 2026-10-06-0253 ([ba1398e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-0253))
 
 * Prefilter smooth filtered light once per light change ([#88925](https://github.com/CleverRaven/Cataclysm-DDA/pull/88925))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-05-2020 ([a68ad09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-2020))
-
-* make it so survivors can only install improvised frames ([#88823](https://github.com/CleverRaven/Cataclysm-DDA/pull/88823))
 * Fix plugged-in devices coming loose when leaving the reality bubble ([#88921](https://github.com/CleverRaven/Cataclysm-DDA/pull/88921))
 * Weekly Changelog 2026-09-28 to 2026-10-05 ([#88917](https://github.com/CleverRaven/Cataclysm-DDA/pull/88917))
 * add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
@@ -173,30 +189,10 @@
 #### Cataclysm-DDA experimental build 2026-10-04-1935 ([6c506a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-1935))
 
 * add structural steel sections ([#88906](https://github.com/CleverRaven/Cataclysm-DDA/pull/88906))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-04-1506 ([fe138ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-1506))
-
 * Fix 2 scarlet storm bugs ([#88901](https://github.com/CleverRaven/Cataclysm-DDA/pull/88901))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-04-0736 ([1b5a141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0736))
-
 * Fix Windows release build and the GCC 16 CI job ([#88899](https://github.com/CleverRaven/Cataclysm-DDA/pull/88899))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-04-0653 ([3740988](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0653))
-
 * Speed up the camp bulletin board, vehicle examine and item info near large item piles ([#88900](https://github.com/CleverRaven/Cataclysm-DDA/pull/88900))
 * [Magiclysm] Force Armor for small characters ([#88898](https://github.com/CleverRaven/Cataclysm-DDA/pull/88898))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-04-0610 ([2558603](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0610))
-
 * fix small typo: juxtaposition ([#88902](https://github.com/CleverRaven/Cataclysm-DDA/pull/88902))
 * Move unique portrait definitions to NPC templates ([#88895](https://github.com/CleverRaven/Cataclysm-DDA/pull/88895))
 * Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
@@ -207,7 +203,6 @@
 * RIP Test_Portrait_Pack 2026-2026 ([#88876](https://github.com/CleverRaven/Cataclysm-DDA/pull/88876))
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
-* First steps for event effect intensity change ([#88825](https://github.com/CleverRaven/Cataclysm-DDA/pull/88825))
 * [ XedraWood ] Fruits and their trees for XedraWood ([#88843](https://github.com/CleverRaven/Cataclysm-DDA/pull/88843))
 * Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
 * Update ITEM.md ([#88866](https://github.com/CleverRaven/Cataclysm-DDA/pull/88866))
@@ -217,7 +212,6 @@
 * Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
 * Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
 * Portrait filename: Refugee Center ([#88864](https://github.com/CleverRaven/Cataclysm-DDA/pull/88864))
-* replace _val('hunger') with _hunger() math ([#88818](https://github.com/CleverRaven/Cataclysm-DDA/pull/88818))
 * Beneficial supernatural mutations are positive ([#88867](https://github.com/CleverRaven/Cataclysm-DDA/pull/88867))
 * obsolete stanag with ranger plate magazines ([#88855](https://github.com/CleverRaven/Cataclysm-DDA/pull/88855))
 * [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
@@ -237,7 +231,3 @@
 * Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
 * adjust dremel qualities and add longest side ([#88830](https://github.com/CleverRaven/Cataclysm-DDA/pull/88830))
 * remove wood sawing from hoe ([#88831](https://github.com/CleverRaven/Cataclysm-DDA/pull/88831))
-* Consolidate canning recipes pt 2 ([#88817](https://github.com/CleverRaven/Cataclysm-DDA/pull/88817))
-* Re-invoking (De)construct on partial construction should prompt ([#88819](https://github.com/CleverRaven/Cataclysm-DDA/pull/88819))
-* Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
-* Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
