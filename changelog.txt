@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-10-10-2051 (0947a14)
+* Bloody Footprints (#89004)
 * change variables in tests to not be shadowing #defines (#89002)
 
 Cataclysm-DDA experimental build 2026-10-10-1321 (f368a4d)
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2026-10-06-0253 (ba1398e)
 
 Cataclysm-DDA experimental build 2026-10-05-1922 (497b1a2)
 * Dim the standing lamp (#88924)
-
-Cataclysm-DDA experimental build 2026-10-05-1423 (09a75ac)
 * Fix item duplication from spilling (#88854)
 * Standardize tea crafting recipes and make them (mostly) unattended (feedback requested) (#88892)
 * Add a GPU backend option to the graphics settings (#88918)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2026-10-05-1423 (09a75ac)
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) (#88841)
 * fix price of ethanol (#88856)
 * Update ITEM.md (#88852)
-* [Isolation Protocol] New Crafting System -Continuation (#88828)
 * increased steel contained max weight (#88835)
 * Fix macOS market share script (#88836)
 * Weekly Changelog 2026-09-21 to 2026-09-28 (#88842)

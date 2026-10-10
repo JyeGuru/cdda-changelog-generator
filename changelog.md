@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-10-2051 ([0947a14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-2051))
+
+* Bloody Footprints ([#89004](https://github.com/CleverRaven/Cataclysm-DDA/pull/89004))
 * change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
 
 ---
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-10-05-1922 ([497b1a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-1922))
 
 * Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-05-1423 ([09a75ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-1423))
-
 * Fix item duplication from spilling ([#88854](https://github.com/CleverRaven/Cataclysm-DDA/pull/88854))
 * Standardize tea crafting recipes and make them (mostly) unattended (feedback requested) ([#88892](https://github.com/CleverRaven/Cataclysm-DDA/pull/88892))
 * Add a GPU backend option to the graphics settings ([#88918](https://github.com/CleverRaven/Cataclysm-DDA/pull/88918))
@@ -215,7 +216,6 @@
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
-* [Isolation Protocol] New Crafting System -Continuation ([#88828](https://github.com/CleverRaven/Cataclysm-DDA/pull/88828))
 * increased steel contained max weight ([#88835](https://github.com/CleverRaven/Cataclysm-DDA/pull/88835))
 * Fix macOS market share script ([#88836](https://github.com/CleverRaven/Cataclysm-DDA/pull/88836))
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
