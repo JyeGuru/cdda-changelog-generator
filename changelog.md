@@ -1,3 +1,10 @@
+* change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-10-1321 ([f368a4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-1321))
+
+* fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
 
 ---
 
@@ -177,11 +184,6 @@
 * migrate innawoods to SUS trash itemgroup ([#88915](https://github.com/CleverRaven/Cataclysm-DDA/pull/88915))
 * Scarlet Storm/Sea weather now more diverse, comes with dynamic(ish) lightning and fog, and has associated rebalances ([#88913](https://github.com/CleverRaven/Cataclysm-DDA/pull/88913))
 * update plastic shopping bag pocket data ([#88916](https://github.com/CleverRaven/Cataclysm-DDA/pull/88916))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-05-1322 ([bdd849b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-1322))
-
 * remove unused variable ([#88922](https://github.com/CleverRaven/Cataclysm-DDA/pull/88922))
 * add structural steel sections ([#88906](https://github.com/CleverRaven/Cataclysm-DDA/pull/88906))
 * Fix 2 scarlet storm bugs ([#88901](https://github.com/CleverRaven/Cataclysm-DDA/pull/88901))
@@ -201,7 +203,6 @@
 * [ XedraWood ] Fruits and their trees for XedraWood ([#88843](https://github.com/CleverRaven/Cataclysm-DDA/pull/88843))
 * Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
 * Update ITEM.md ([#88866](https://github.com/CleverRaven/Cataclysm-DDA/pull/88866))
-* How much tobacco is left in a butt.  Not much in my experience ([#88827](https://github.com/CleverRaven/Cataclysm-DDA/pull/88827))
 * Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
 * Feature #88785 ([#88846](https://github.com/CleverRaven/Cataclysm-DDA/pull/88846))
 * Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
@@ -210,7 +211,6 @@
 * Beneficial supernatural mutations are positive ([#88867](https://github.com/CleverRaven/Cataclysm-DDA/pull/88867))
 * obsolete stanag with ranger plate magazines ([#88855](https://github.com/CleverRaven/Cataclysm-DDA/pull/88855))
 * [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
-* Upgrade character creation ([#88826](https://github.com/CleverRaven/Cataclysm-DDA/pull/88826))
 * Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
