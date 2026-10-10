@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-09-2301 ([85b725e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-2301))
+
+* add electric rocks to radiosphere ([#88984](https://github.com/CleverRaven/Cataclysm-DDA/pull/88984))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-09-2213 ([d85240f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-2213))
+
+* First portal storm dungeon fragment of reality message is a popup ([#88989](https://github.com/CleverRaven/Cataclysm-DDA/pull/88989))
+* Add clause prohibiting LLM use and advocacy to code of conduct ([#88990](https://github.com/CleverRaven/Cataclysm-DDA/pull/88990))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-09-1609 ([2635854](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-1609))
 
 * Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
@@ -185,17 +198,7 @@
 #### Cataclysm-DDA experimental build 2026-10-04-0610 ([2558603](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0610))
 
 * fix small typo: juxtaposition ([#88902](https://github.com/CleverRaven/Cataclysm-DDA/pull/88902))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-04-0313 ([819611b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-04-0313))
-
 * Move unique portrait definitions to NPC templates ([#88895](https://github.com/CleverRaven/Cataclysm-DDA/pull/88895))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-03-2103 ([3404685](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-03-2103))
-
 * Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
 * Exodii labyrinth requires finding entrances; AltarOS safehouse is a reward, not a given ([#88891](https://github.com/CleverRaven/Cataclysm-DDA/pull/88891))
 * Add strange power-boxes to overgrown labyrinths ([#88883](https://github.com/CleverRaven/Cataclysm-DDA/pull/88883))
@@ -205,13 +208,11 @@
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
 * First steps for event effect intensity change ([#88825](https://github.com/CleverRaven/Cataclysm-DDA/pull/88825))
-* [ Xedra Evolved ] New Brownie Trait and eoc improvement ([#88804](https://github.com/CleverRaven/Cataclysm-DDA/pull/88804))
 * [ XedraWood ] Fruits and their trees for XedraWood ([#88843](https://github.com/CleverRaven/Cataclysm-DDA/pull/88843))
 * Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
 * Update ITEM.md ([#88866](https://github.com/CleverRaven/Cataclysm-DDA/pull/88866))
 * How much tobacco is left in a butt.  Not much in my experience ([#88827](https://github.com/CleverRaven/Cataclysm-DDA/pull/88827))
 * Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
-* improved the description of glock 10 round magazines ([#88810](https://github.com/CleverRaven/Cataclysm-DDA/pull/88810))
 * Feature #88785 ([#88846](https://github.com/CleverRaven/Cataclysm-DDA/pull/88846))
 * Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
 * Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
@@ -240,4 +241,3 @@
 * Re-invoking (De)construct on partial construction should prompt ([#88819](https://github.com/CleverRaven/Cataclysm-DDA/pull/88819))
 * Add more items to the Hub-01 merchant blacklist ([#88813](https://github.com/CleverRaven/Cataclysm-DDA/pull/88813))
 * Powder price fixes ([#88814](https://github.com/CleverRaven/Cataclysm-DDA/pull/88814))
-* [Xedra Evolved] Add Shell of the Four Winds nether sorcery spell ([#88809](https://github.com/CleverRaven/Cataclysm-DDA/pull/88809))
