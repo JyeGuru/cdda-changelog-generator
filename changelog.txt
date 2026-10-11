@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-11-2241 (21baebc)
+* Fix NPC self-care walks (#89017)
+
 Cataclysm-DDA experimental build 2026-10-11-1833 (6c0641c)
 * refactor callers of all_items_loc (#88998)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-10-08-0248 (d201fb5)
 
 Cataclysm-DDA experimental build 2026-10-08-0158 (15683c2)
 * Fix traps with practice 2 being free to place (#88951)
-
-Cataclysm-DDA experimental build 2026-10-08-0048 (e4079f8)
 * Remove a typo in the mapgen docs (#88962)
 * Boost scarlet sea lighting (#88952)
 * Fix crash with wheel<->corpse gibbing use-after-free (#88946)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2026-10-08-0048 (e4079f8)
 * Update ITEM.md (#88852)
 * Weekly Changelog 2026-09-21 to 2026-09-28 (#88842)
 * Extends #88829 to Innawood and xedrawood (#88838)
-* add stick_long to forest (#88837)

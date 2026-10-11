@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-11-2241 ([21baebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-2241))
+
+* Fix NPC self-care walks ([#89017](https://github.com/CleverRaven/Cataclysm-DDA/pull/89017))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-11-1833 ([6c0641c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1833))
 
 * refactor callers of all_items_loc ([#88998](https://github.com/CleverRaven/Cataclysm-DDA/pull/88998))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2026-10-08-0158 ([15683c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0158))
 
 * Fix traps with practice 2 being free to place ([#88951](https://github.com/CleverRaven/Cataclysm-DDA/pull/88951))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-08-0048 ([e4079f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0048))
-
 * Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
 * Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
 * Fix crash with wheel<->corpse gibbing use-after-free ([#88946](https://github.com/CleverRaven/Cataclysm-DDA/pull/88946))
@@ -219,4 +220,3 @@
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
 * Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
-* add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
