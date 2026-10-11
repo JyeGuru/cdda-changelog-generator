@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-11-1833 ([6c0641c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1833))
+
+* refactor callers of all_items_loc ([#88998](https://github.com/CleverRaven/Cataclysm-DDA/pull/88998))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-11-1547 ([fd160fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1547))
+
 * Add car charging stations ([#88963](https://github.com/CleverRaven/Cataclysm-DDA/pull/88963))
 
 ---
@@ -157,23 +168,8 @@
 #### Cataclysm-DDA experimental build 2026-10-08-0048 ([e4079f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0048))
 
 * Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-07-2306 ([3b04a71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-07-2306))
-
 * Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-07-2153 ([f9f4fe6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-07-2153))
-
 * Fix crash with wheel<->corpse gibbing use-after-free ([#88946](https://github.com/CleverRaven/Cataclysm-DDA/pull/88946))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-06-1807 ([074aa98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1807))
-
 * Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
 * remove two nonsensical frame recipes ([#88926](https://github.com/CleverRaven/Cataclysm-DDA/pull/88926))
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
@@ -221,7 +217,6 @@
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
-* Fix macOS market share script ([#88836](https://github.com/CleverRaven/Cataclysm-DDA/pull/88836))
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
 * Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
 * add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))

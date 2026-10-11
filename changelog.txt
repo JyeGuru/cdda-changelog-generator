@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-10-11-1833 (6c0641c)
+* refactor callers of all_items_loc (#88998)
+
+Cataclysm-DDA experimental build 2026-10-11-1547 (fd160fd)
 * Add car charging stations (#88963)
 
 Cataclysm-DDA experimental build 2026-10-11-1446 (2e0f3a5)
@@ -85,14 +90,8 @@ Cataclysm-DDA experimental build 2026-10-08-0158 (15683c2)
 
 Cataclysm-DDA experimental build 2026-10-08-0048 (e4079f8)
 * Remove a typo in the mapgen docs (#88962)
-
-Cataclysm-DDA experimental build 2026-10-07-2306 (3b04a71)
 * Boost scarlet sea lighting (#88952)
-
-Cataclysm-DDA experimental build 2026-10-07-2153 (f9f4fe6)
 * Fix crash with wheel<->corpse gibbing use-after-free (#88946)
-
-Cataclysm-DDA experimental build 2026-10-06-1807 (074aa98)
 * Entrances to labyrinth in the portal storm dungeon (#88935)
 * remove two nonsensical frame recipes (#88926)
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. (#88934)
@@ -140,7 +139,6 @@ Cataclysm-DDA experimental build 2026-10-06-1807 (074aa98)
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) (#88841)
 * fix price of ethanol (#88856)
 * Update ITEM.md (#88852)
-* Fix macOS market share script (#88836)
 * Weekly Changelog 2026-09-21 to 2026-09-28 (#88842)
 * Extends #88829 to Innawood and xedrawood (#88838)
 * add stick_long to forest (#88837)
