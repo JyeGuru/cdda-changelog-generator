@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-11-0239 ([4936af7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-0239))
+
 * Benchtop centrifuge ([#89007](https://github.com/CleverRaven/Cataclysm-DDA/pull/89007))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2026-10-06-1205 ([e065bc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1205))
 
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-06-0253 ([ba1398e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-0253))
-
 * Prefilter smooth filtered light once per light change ([#88925](https://github.com/CleverRaven/Cataclysm-DDA/pull/88925))
 * Fix plugged-in devices coming loose when leaving the reality bubble ([#88921](https://github.com/CleverRaven/Cataclysm-DDA/pull/88921))
 * Weekly Changelog 2026-09-28 to 2026-10-05 ([#88917](https://github.com/CleverRaven/Cataclysm-DDA/pull/88917))
@@ -229,5 +229,4 @@
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
 * Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
 * make gun mods and their crafts more reasonable ([#88834](https://github.com/CleverRaven/Cataclysm-DDA/pull/88834))
-* Update alarm timing when awake ([#88833](https://github.com/CleverRaven/Cataclysm-DDA/pull/88833))
 * add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
