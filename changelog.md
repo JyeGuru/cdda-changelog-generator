@@ -1,3 +1,10 @@
+* Add car charging stations ([#88963](https://github.com/CleverRaven/Cataclysm-DDA/pull/88963))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-11-1446 ([2e0f3a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1446))
+
+* Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
 
 ---
 
@@ -168,17 +175,7 @@
 #### Cataclysm-DDA experimental build 2026-10-06-1807 ([074aa98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1807))
 
 * Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-06-1653 ([1cdfa03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1653))
-
 * remove two nonsensical frame recipes ([#88926](https://github.com/CleverRaven/Cataclysm-DDA/pull/88926))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-06-1205 ([e065bc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-06-1205))
-
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
 * Prefilter smooth filtered light once per light change ([#88925](https://github.com/CleverRaven/Cataclysm-DDA/pull/88925))
 * Fix plugged-in devices coming loose when leaving the reality bubble ([#88921](https://github.com/CleverRaven/Cataclysm-DDA/pull/88921))
@@ -224,9 +221,7 @@
 * Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
-* increased steel contained max weight ([#88835](https://github.com/CleverRaven/Cataclysm-DDA/pull/88835))
 * Fix macOS market share script ([#88836](https://github.com/CleverRaven/Cataclysm-DDA/pull/88836))
 * Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
 * Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
-* make gun mods and their crafts more reasonable ([#88834](https://github.com/CleverRaven/Cataclysm-DDA/pull/88834))
 * add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
