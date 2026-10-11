@@ -1,3 +1,10 @@
+* Benchtop centrifuge (#89007)
+
+Cataclysm-DDA experimental build 2026-10-11-0144 (cbb22c5)
+* Sanitized Hydration Packs (#89011)
+
+Cataclysm-DDA experimental build 2026-10-11-0003 (9d72a81)
+* [DinoMod] attach zombie legs and create brute and skeleton legs (#88910)
 
 Cataclysm-DDA experimental build 2026-10-10-2051 (0947a14)
 * Bloody Footprints (#89004)
@@ -95,8 +102,6 @@ Cataclysm-DDA experimental build 2026-10-06-0253 (ba1398e)
 * add sticks, leaves, feldspar to forest trash (#88928)
 * spawn newspaper in floor trash (#88927)
 * delete old bundle recipe references (#88919)
-
-Cataclysm-DDA experimental build 2026-10-05-1922 (497b1a2)
 * Dim the standing lamp (#88924)
 * Fix item duplication from spilling (#88854)
 * Standardize tea crafting recipes and make them (mostly) unattended (feedback requested) (#88892)
@@ -142,6 +147,3 @@ Cataclysm-DDA experimental build 2026-10-05-1922 (497b1a2)
 * make gun mods and their crafts more reasonable (#88834)
 * Update alarm timing when awake (#88833)
 * add stick_long to forest (#88837)
-* Stop having the forests be empty. Stop it. (#88829)
-* adjust dremel qualities and add longest side (#88830)
-* remove wood sawing from hoe (#88831)

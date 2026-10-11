@@ -1,3 +1,16 @@
+* Benchtop centrifuge ([#89007](https://github.com/CleverRaven/Cataclysm-DDA/pull/89007))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-11-0144 ([cbb22c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-0144))
+
+* Sanitized Hydration Packs ([#89011](https://github.com/CleverRaven/Cataclysm-DDA/pull/89011))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-11-0003 ([9d72a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-0003))
+
+* [DinoMod] attach zombie legs and create brute and skeleton legs ([#88910](https://github.com/CleverRaven/Cataclysm-DDA/pull/88910))
 
 ---
 
@@ -173,11 +186,6 @@
 * add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
 * spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
 * delete old bundle recipe references ([#88919](https://github.com/CleverRaven/Cataclysm-DDA/pull/88919))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-05-1922 ([497b1a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-05-1922))
-
 * Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
 * Fix item duplication from spilling ([#88854](https://github.com/CleverRaven/Cataclysm-DDA/pull/88854))
 * Standardize tea crafting recipes and make them (mostly) unattended (feedback requested) ([#88892](https://github.com/CleverRaven/Cataclysm-DDA/pull/88892))
@@ -223,6 +231,3 @@
 * make gun mods and their crafts more reasonable ([#88834](https://github.com/CleverRaven/Cataclysm-DDA/pull/88834))
 * Update alarm timing when awake ([#88833](https://github.com/CleverRaven/Cataclysm-DDA/pull/88833))
 * add stick_long to forest ([#88837](https://github.com/CleverRaven/Cataclysm-DDA/pull/88837))
-* Stop having the forests be empty. Stop it. ([#88829](https://github.com/CleverRaven/Cataclysm-DDA/pull/88829))
-* adjust dremel qualities and add longest side ([#88830](https://github.com/CleverRaven/Cataclysm-DDA/pull/88830))
-* remove wood sawing from hoe ([#88831](https://github.com/CleverRaven/Cataclysm-DDA/pull/88831))
