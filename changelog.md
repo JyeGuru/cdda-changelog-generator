@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-11-2343 ([c5972f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-2343))
+
+* wounds can transform over time into another wounds ([#89010](https://github.com/CleverRaven/Cataclysm-DDA/pull/89010))
+* Pipe cleaner is not a skillful recipe ([#89018](https://github.com/CleverRaven/Cataclysm-DDA/pull/89018))
+* Fix crash in zone sort after loading a save ([#89020](https://github.com/CleverRaven/Cataclysm-DDA/pull/89020))
+* Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-11-2241 ([21baebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-2241))
 
 * Fix NPC self-care walks ([#89017](https://github.com/CleverRaven/Cataclysm-DDA/pull/89017))
@@ -162,11 +171,6 @@
 * Fix pseudo-exit of portal dungeon ([#88938](https://github.com/CleverRaven/Cataclysm-DDA/pull/88938))
 * Refactor visibility caches ([#88942](https://github.com/CleverRaven/Cataclysm-DDA/pull/88942))
 * Dim the wall lights ([#88944](https://github.com/CleverRaven/Cataclysm-DDA/pull/88944))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-08-0158 ([15683c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0158))
-
 * Fix traps with practice 2 being free to place ([#88951](https://github.com/CleverRaven/Cataclysm-DDA/pull/88951))
 * Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
 * Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
@@ -203,7 +207,6 @@
 * RIP Test_Portrait_Pack 2026-2026 ([#88876](https://github.com/CleverRaven/Cataclysm-DDA/pull/88876))
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
-* [ XedraWood ] Fruits and their trees for XedraWood ([#88843](https://github.com/CleverRaven/Cataclysm-DDA/pull/88843))
 * Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
 * Update ITEM.md ([#88866](https://github.com/CleverRaven/Cataclysm-DDA/pull/88866))
 * Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
@@ -215,8 +218,5 @@
 * obsolete stanag with ranger plate magazines ([#88855](https://github.com/CleverRaven/Cataclysm-DDA/pull/88855))
 * [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
 * Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
-* Aftershock: Give UICA a military Aerodyne (potentially very stealable?) ([#88841](https://github.com/CleverRaven/Cataclysm-DDA/pull/88841))
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
 * Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))
-* Weekly Changelog 2026-09-21 to 2026-09-28 ([#88842](https://github.com/CleverRaven/Cataclysm-DDA/pull/88842))
-* Extends #88829 to Innawood and xedrawood ([#88838](https://github.com/CleverRaven/Cataclysm-DDA/pull/88838))
