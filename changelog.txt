@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-10-12-1843 (1bdee11)
+* Fix Z level fragment of reality (#89021)
+
+Cataclysm-DDA experimental build 2026-10-12-1758 (c0f5f9f)
+* Arachnid Limbs/Arms are now limbs (#89025)
+
 Cataclysm-DDA experimental build 2026-10-11-2343 (c5972f8)
 * wounds can transform over time into another wounds (#89010)
 * Pipe cleaner is not a skillful recipe (#89018)
@@ -85,11 +91,7 @@ Cataclysm-DDA experimental build 2026-10-08-1750 (3defba1)
 
 Cataclysm-DDA experimental build 2026-10-08-1037 (1d0db7c)
 * Add more trauma (#88950)
-
-Cataclysm-DDA experimental build 2026-10-08-0357 (43be0bb)
 * Remove lumbermill riot damage (#88957)
-
-Cataclysm-DDA experimental build 2026-10-08-0248 (d201fb5)
 * Fix pseudo-exit of portal dungeon (#88938)
 * Refactor visibility caches (#88942)
 * Dim the wall lights (#88944)
@@ -132,7 +134,6 @@ Cataclysm-DDA experimental build 2026-10-08-0248 (d201fb5)
 * Draw curses text from a glyph atlas on hardware renderers (#88873)
 * Update ITEM.md (#88866)
 * Fix CANNOT_CONSUME_DRUGS (#88875)
-* Feature #88785 (#88846)
 * Fix #88855 (#88871)
 * Pull MSX portraits tileset for releases (#88870)
 * Portrait filename: Refugee Center (#88864)

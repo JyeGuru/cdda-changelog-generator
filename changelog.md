@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-12-1843 ([1bdee11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-1843))
+
+* Fix Z level fragment of reality ([#89021](https://github.com/CleverRaven/Cataclysm-DDA/pull/89021))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-12-1758 ([c0f5f9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-1758))
+
+* Arachnid Limbs/Arms are now limbs ([#89025](https://github.com/CleverRaven/Cataclysm-DDA/pull/89025))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-11-2343 ([c5972f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-2343))
 
 * wounds can transform over time into another wounds ([#89010](https://github.com/CleverRaven/Cataclysm-DDA/pull/89010))
@@ -157,17 +169,7 @@
 #### Cataclysm-DDA experimental build 2026-10-08-1037 ([1d0db7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1037))
 
 * Add more trauma ([#88950](https://github.com/CleverRaven/Cataclysm-DDA/pull/88950))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-08-0357 ([43be0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0357))
-
 * Remove lumbermill riot damage ([#88957](https://github.com/CleverRaven/Cataclysm-DDA/pull/88957))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-08-0248 ([d201fb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-0248))
-
 * Fix pseudo-exit of portal dungeon ([#88938](https://github.com/CleverRaven/Cataclysm-DDA/pull/88938))
 * Refactor visibility caches ([#88942](https://github.com/CleverRaven/Cataclysm-DDA/pull/88942))
 * Dim the wall lights ([#88944](https://github.com/CleverRaven/Cataclysm-DDA/pull/88944))
@@ -210,7 +212,6 @@
 * Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
 * Update ITEM.md ([#88866](https://github.com/CleverRaven/Cataclysm-DDA/pull/88866))
 * Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
-* Feature #88785 ([#88846](https://github.com/CleverRaven/Cataclysm-DDA/pull/88846))
 * Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
 * Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
 * Portrait filename: Refugee Center ([#88864](https://github.com/CleverRaven/Cataclysm-DDA/pull/88864))
