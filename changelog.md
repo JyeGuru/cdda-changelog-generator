@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-13-0402 ([50fd903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0402))
+
+* [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-13-0256 ([9ca5448](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0256))
+
+* NPCs weigh their needs against following and guarding ([#89028](https://github.com/CleverRaven/Cataclysm-DDA/pull/89028))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-13-0107 ([1f29ec3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0107))
+
+* [alt-map-key] Add new overmap terrain ([#89024](https://github.com/CleverRaven/Cataclysm-DDA/pull/89024))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-12-2143 ([afe69bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-2143))
 
 * forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
@@ -157,17 +175,7 @@
 #### Cataclysm-DDA experimental build 2026-10-09-0223 ([686b08b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0223))
 
 * [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-09-0143 ([26bc19c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0143))
-
 * Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-08-1750 ([3defba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1750))
-
 * Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
 * Add more trauma ([#88950](https://github.com/CleverRaven/Cataclysm-DDA/pull/88950))
 * Remove lumbermill riot damage ([#88957](https://github.com/CleverRaven/Cataclysm-DDA/pull/88957))
@@ -188,7 +196,6 @@
 * spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
 * delete old bundle recipe references ([#88919](https://github.com/CleverRaven/Cataclysm-DDA/pull/88919))
 * Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
-* Fix item duplication from spilling ([#88854](https://github.com/CleverRaven/Cataclysm-DDA/pull/88854))
 * Standardize tea crafting recipes and make them (mostly) unattended (feedback requested) ([#88892](https://github.com/CleverRaven/Cataclysm-DDA/pull/88892))
 * Add a GPU backend option to the graphics settings ([#88918](https://github.com/CleverRaven/Cataclysm-DDA/pull/88918))
 * migrate innawoods to SUS trash itemgroup ([#88915](https://github.com/CleverRaven/Cataclysm-DDA/pull/88915))
@@ -217,7 +224,5 @@
 * Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
 * Portrait filename: Refugee Center ([#88864](https://github.com/CleverRaven/Cataclysm-DDA/pull/88864))
 * Beneficial supernatural mutations are positive ([#88867](https://github.com/CleverRaven/Cataclysm-DDA/pull/88867))
-* obsolete stanag with ranger plate magazines ([#88855](https://github.com/CleverRaven/Cataclysm-DDA/pull/88855))
 * [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
 * Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
-* fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
