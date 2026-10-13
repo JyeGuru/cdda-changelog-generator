@@ -220,7 +220,6 @@
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
 * Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
-* Update ITEM.md ([#88866](https://github.com/CleverRaven/Cataclysm-DDA/pull/88866))
 * Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
 * Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
 * Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
