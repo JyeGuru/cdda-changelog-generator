@@ -1,3 +1,9 @@
+* Add a distinct groundcover for ravine edges (#89038)
+* [DinoMod] heavier zombies (#89042)
+* Spider mutants can skitter (#89047)
+
+Cataclysm-DDA experimental build 2026-10-13-2343 (1bf15de)
+* NPCs get proper sleep (#89056)
 
 Cataclysm-DDA experimental build 2026-10-13-1217 (da6e7b4)
 * wound improvements (#89033)
@@ -86,8 +92,6 @@ Cataclysm-DDA experimental build 2026-10-09-1609 (2635854)
 
 Cataclysm-DDA experimental build 2026-10-09-1524 (f686f19)
 * Android bells and whistles (#88977)
-
-Cataclysm-DDA experimental build 2026-10-09-0440 (2af1de7)
 * Fix error with templated NPC portraits (#88945)
 * Update megacity starts (#88975)
 * Mainline CBM slots and obsolete the mod (#88956)
@@ -138,8 +142,4 @@ Cataclysm-DDA experimental build 2026-10-09-0440 (2af1de7)
 * RIP Test_Portrait_Pack 2026-2026 (#88876)
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant (#88881)
 * fix quicklime price (#88878)
-* Draw curses text from a glyph atlas on hardware renderers (#88873)
 * Fix CANNOT_CONSUME_DRUGS (#88875)
-* Fix #88855 (#88871)
-* Pull MSX portraits tileset for releases (#88870)
-* Beneficial supernatural mutations are positive (#88867)

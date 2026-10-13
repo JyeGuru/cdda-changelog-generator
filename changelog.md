@@ -1,3 +1,12 @@
+* Add a distinct groundcover for ravine edges ([#89038](https://github.com/CleverRaven/Cataclysm-DDA/pull/89038))
+* [DinoMod] heavier zombies ([#89042](https://github.com/CleverRaven/Cataclysm-DDA/pull/89042))
+* Spider mutants can skitter ([#89047](https://github.com/CleverRaven/Cataclysm-DDA/pull/89047))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-13-2343 ([1bf15de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-2343))
+
+* NPCs get proper sleep ([#89056](https://github.com/CleverRaven/Cataclysm-DDA/pull/89056))
 
 ---
 
@@ -164,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-10-09-1524 ([f686f19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-1524))
 
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-09-0440 ([2af1de7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-0440))
-
 * Fix error with templated NPC portraits ([#88945](https://github.com/CleverRaven/Cataclysm-DDA/pull/88945))
 * Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
 * Mainline CBM slots and obsolete the mod ([#88956](https://github.com/CleverRaven/Cataclysm-DDA/pull/88956))
@@ -219,8 +223,4 @@
 * RIP Test_Portrait_Pack 2026-2026 ([#88876](https://github.com/CleverRaven/Cataclysm-DDA/pull/88876))
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
 * fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
-* Draw curses text from a glyph atlas on hardware renderers ([#88873](https://github.com/CleverRaven/Cataclysm-DDA/pull/88873))
 * Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
-* Fix #88855 ([#88871](https://github.com/CleverRaven/Cataclysm-DDA/pull/88871))
-* Pull MSX portraits tileset for releases ([#88870](https://github.com/CleverRaven/Cataclysm-DDA/pull/88870))
-* Beneficial supernatural mutations are positive ([#88867](https://github.com/CleverRaven/Cataclysm-DDA/pull/88867))
