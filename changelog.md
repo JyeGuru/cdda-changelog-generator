@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-12-2143 ([afe69bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-2143))
+
+* forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-12-1843 ([1bdee11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-1843))
 
 * Fix Z level fragment of reality ([#89021](https://github.com/CleverRaven/Cataclysm-DDA/pull/89021))
@@ -163,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2026-10-08-1750 ([3defba1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1750))
 
 * Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-08-1037 ([1d0db7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-08-1037))
-
 * Add more trauma ([#88950](https://github.com/CleverRaven/Cataclysm-DDA/pull/88950))
 * Remove lumbermill riot damage ([#88957](https://github.com/CleverRaven/Cataclysm-DDA/pull/88957))
 * Fix pseudo-exit of portal dungeon ([#88938](https://github.com/CleverRaven/Cataclysm-DDA/pull/88938))
@@ -220,4 +221,3 @@
 * [Bombastic Perks] Perks have their own color in the @ menu ([#88863](https://github.com/CleverRaven/Cataclysm-DDA/pull/88863))
 * Stop NPCs rating all pills in their pack as weapons ([#88861](https://github.com/CleverRaven/Cataclysm-DDA/pull/88861))
 * fix price of ethanol ([#88856](https://github.com/CleverRaven/Cataclysm-DDA/pull/88856))
-* Update ITEM.md ([#88852](https://github.com/CleverRaven/Cataclysm-DDA/pull/88852))

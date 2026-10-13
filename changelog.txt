@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-12-2143 (afe69bd)
+* forest islands in radiosphere (#89034)
+
 Cataclysm-DDA experimental build 2026-10-12-1843 (1bdee11)
 * Fix Z level fragment of reality (#89021)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-10-09-0143 (26bc19c)
 
 Cataclysm-DDA experimental build 2026-10-08-1750 (3defba1)
 * Interdimensional teleportation has bad side effects (#88961)
-
-Cataclysm-DDA experimental build 2026-10-08-1037 (1d0db7c)
 * Add more trauma (#88950)
 * Remove lumbermill riot damage (#88957)
 * Fix pseudo-exit of portal dungeon (#88938)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2026-10-08-1037 (1d0db7c)
 * [Bombastic Perks] Perks have their own color in the @ menu (#88863)
 * Stop NPCs rating all pills in their pack as weapons (#88861)
 * fix price of ethanol (#88856)
-* Update ITEM.md (#88852)
