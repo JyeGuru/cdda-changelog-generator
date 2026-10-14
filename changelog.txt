@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-10-14-0048 (09316dc)
 * Add a distinct groundcover for ravine edges (#89038)
 * [DinoMod] heavier zombies (#89042)
 * Spider mutants can skitter (#89047)
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2026-10-09-2213 (d85240f)
 Cataclysm-DDA experimental build 2026-10-09-1609 (2635854)
 * Fix red mp3 player (again) (#88978)
 * refactor some callers of all_items_loc() (#88884)
-
-Cataclysm-DDA experimental build 2026-10-09-1524 (f686f19)
 * Android bells and whistles (#88977)
 * Fix error with templated NPC portraits (#88945)
 * Update megacity starts (#88975)

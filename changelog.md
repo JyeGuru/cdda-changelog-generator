@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-14-0048 ([09316dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0048))
+
 * Add a distinct groundcover for ravine edges ([#89038](https://github.com/CleverRaven/Cataclysm-DDA/pull/89038))
 * [DinoMod] heavier zombies ([#89042](https://github.com/CleverRaven/Cataclysm-DDA/pull/89042))
 * Spider mutants can skitter ([#89047](https://github.com/CleverRaven/Cataclysm-DDA/pull/89047))
@@ -167,11 +172,6 @@
 
 * Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
 * refactor some callers of all_items_loc() ([#88884](https://github.com/CleverRaven/Cataclysm-DDA/pull/88884))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-09-1524 ([f686f19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-1524))
-
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
 * Fix error with templated NPC portraits ([#88945](https://github.com/CleverRaven/Cataclysm-DDA/pull/88945))
 * Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
