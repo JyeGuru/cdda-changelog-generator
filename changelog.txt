@@ -1,4 +1,13 @@
 
+Cataclysm-DDA experimental build 2026-10-14-1731 (ef31b1f)
+* Balthazar bunker bunker update EOC fixes (#89070)
+
+Cataclysm-DDA experimental build 2026-10-14-1530 (052ddfc)
+* Fix non-character vitamin drain for star vampire bite (#89068)
+
+Cataclysm-DDA experimental build 2026-10-14-1432 (9a82cdd)
+* Update price of instant coffee mix (#89048)
+
 Cataclysm-DDA experimental build 2026-10-14-0706 (62981aa)
 * Fix Creatures In Vehicles Leaving Blood Footprints (#89054)
 
@@ -73,14 +82,8 @@ Cataclysm-DDA experimental build 2026-10-10-2051 (0947a14)
 
 Cataclysm-DDA experimental build 2026-10-10-1321 (f368a4d)
 * fix bionic loading typo (#89001)
-
-Cataclysm-DDA experimental build 2026-10-10-0420 (a74468b)
 * Fix user fonts.json being reset on every launch (#88996)
-
-Cataclysm-DDA experimental build 2026-10-10-0315 (e370a56)
 * restore old number of rations in evac shelter cabinet (#88930)
-
-Cataclysm-DDA experimental build 2026-10-10-0226 (0c85a4e)
 * You kill it; they own it (#88949)
 * Speed up the repair and construction menus near large item piles (#88995)
 * remove dead code - set_item_defaults() (#88992)
@@ -138,6 +141,3 @@ Cataclysm-DDA experimental build 2026-10-10-0226 (0c85a4e)
 * Smooth lighting (#88888)
 * Exodii labyrinth requires finding entrances; AltarOS safehouse is a reward, not a given (#88891)
 * Add strange power-boxes to overgrown labyrinths (#88883)
-* Updated prompt_partial_construction to use more beautiful uilist (#88879)
-* Stop waking the main loop when nothing changed (#88880)
-* [Xedra Evolved] Fix Coat of the Timely Sleeper enchant (#88881)

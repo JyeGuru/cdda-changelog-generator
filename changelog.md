@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-14-1731 ([ef31b1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1731))
+
+* Balthazar bunker bunker update EOC fixes ([#89070](https://github.com/CleverRaven/Cataclysm-DDA/pull/89070))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-14-1530 ([052ddfc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1530))
+
+* Fix non-character vitamin drain for star vampire bite ([#89068](https://github.com/CleverRaven/Cataclysm-DDA/pull/89068))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-14-1432 ([9a82cdd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1432))
+
+* Update price of instant coffee mix ([#89048](https://github.com/CleverRaven/Cataclysm-DDA/pull/89048))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-14-0706 ([62981aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0706))
 
 * Fix Creatures In Vehicles Leaving Blood Footprints ([#89054](https://github.com/CleverRaven/Cataclysm-DDA/pull/89054))
@@ -142,23 +160,8 @@
 #### Cataclysm-DDA experimental build 2026-10-10-1321 ([f368a4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-1321))
 
 * fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-10-0420 ([a74468b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-0420))
-
 * Fix user fonts.json being reset on every launch ([#88996](https://github.com/CleverRaven/Cataclysm-DDA/pull/88996))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-10-0315 ([e370a56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-0315))
-
 * restore old number of rations in evac shelter cabinet ([#88930](https://github.com/CleverRaven/Cataclysm-DDA/pull/88930))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-10-0226 ([0c85a4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-0226))
-
 * You kill it; they own it ([#88949](https://github.com/CleverRaven/Cataclysm-DDA/pull/88949))
 * Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
 * remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
@@ -216,6 +219,3 @@
 * Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
 * Exodii labyrinth requires finding entrances; AltarOS safehouse is a reward, not a given ([#88891](https://github.com/CleverRaven/Cataclysm-DDA/pull/88891))
 * Add strange power-boxes to overgrown labyrinths ([#88883](https://github.com/CleverRaven/Cataclysm-DDA/pull/88883))
-* Updated prompt_partial_construction to use more beautiful uilist ([#88879](https://github.com/CleverRaven/Cataclysm-DDA/pull/88879))
-* Stop waking the main loop when nothing changed ([#88880](https://github.com/CleverRaven/Cataclysm-DDA/pull/88880))
-* [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
