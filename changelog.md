@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-14-2322 ([249d50c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-2322))
+
+* Fix misplaced window in home improvement store. ([#89076](https://github.com/CleverRaven/Cataclysm-DDA/pull/89076))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-14-1731 ([ef31b1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1731))
 
 * Balthazar bunker bunker update EOC fixes ([#89070](https://github.com/CleverRaven/Cataclysm-DDA/pull/89070))
@@ -218,4 +224,3 @@
 * Move unique portrait definitions to NPC templates ([#88895](https://github.com/CleverRaven/Cataclysm-DDA/pull/88895))
 * Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
 * Exodii labyrinth requires finding entrances; AltarOS safehouse is a reward, not a given ([#88891](https://github.com/CleverRaven/Cataclysm-DDA/pull/88891))
-* Add strange power-boxes to overgrown labyrinths ([#88883](https://github.com/CleverRaven/Cataclysm-DDA/pull/88883))
