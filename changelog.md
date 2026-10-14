@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-14-0706 ([62981aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0706))
+
+* Fix Creatures In Vehicles Leaving Blood Footprints ([#89054](https://github.com/CleverRaven/Cataclysm-DDA/pull/89054))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-14-0440 ([918f396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0440))
+
+* New relic recharges portal storm and underground ([#88920](https://github.com/CleverRaven/Cataclysm-DDA/pull/88920))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-14-0341 ([55f57e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0341))
+
+* fix overflow in scarlet storm math ([#89061](https://github.com/CleverRaven/Cataclysm-DDA/pull/89061))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-14-0048 ([09316dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0048))
 
 * Add a distinct groundcover for ravine edges ([#89038](https://github.com/CleverRaven/Cataclysm-DDA/pull/89038))
@@ -146,30 +164,10 @@
 * remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
 * wound flag checks support arrays ([#88991](https://github.com/CleverRaven/Cataclysm-DDA/pull/88991))
 * Add rebar into construction palettes ([#88960](https://github.com/CleverRaven/Cataclysm-DDA/pull/88960))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-10-0133 ([71a3085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-0133))
-
 * Build your own sandwich ([#88979](https://github.com/CleverRaven/Cataclysm-DDA/pull/88979))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-09-2301 ([85b725e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-2301))
-
 * add electric rocks to radiosphere ([#88984](https://github.com/CleverRaven/Cataclysm-DDA/pull/88984))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-09-2213 ([d85240f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-2213))
-
 * First portal storm dungeon fragment of reality message is a popup ([#88989](https://github.com/CleverRaven/Cataclysm-DDA/pull/88989))
 * Add clause prohibiting LLM use and advocacy to code of conduct ([#88990](https://github.com/CleverRaven/Cataclysm-DDA/pull/88990))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-09-1609 ([2635854](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-09-1609))
-
 * Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
 * refactor some callers of all_items_loc() ([#88884](https://github.com/CleverRaven/Cataclysm-DDA/pull/88884))
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
@@ -220,7 +218,4 @@
 * Add strange power-boxes to overgrown labyrinths ([#88883](https://github.com/CleverRaven/Cataclysm-DDA/pull/88883))
 * Updated prompt_partial_construction to use more beautiful uilist ([#88879](https://github.com/CleverRaven/Cataclysm-DDA/pull/88879))
 * Stop waking the main loop when nothing changed ([#88880](https://github.com/CleverRaven/Cataclysm-DDA/pull/88880))
-* RIP Test_Portrait_Pack 2026-2026 ([#88876](https://github.com/CleverRaven/Cataclysm-DDA/pull/88876))
 * [Xedra Evolved] Fix Coat of the Timely Sleeper enchant ([#88881](https://github.com/CleverRaven/Cataclysm-DDA/pull/88881))
-* fix quicklime price ([#88878](https://github.com/CleverRaven/Cataclysm-DDA/pull/88878))
-* Fix CANNOT_CONSUME_DRUGS ([#88875](https://github.com/CleverRaven/Cataclysm-DDA/pull/88875))
