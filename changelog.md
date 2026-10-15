@@ -1,3 +1,11 @@
+* [MoM] PLASTIC flag also applies to telekinetic damage  ([#89088](https://github.com/CleverRaven/Cataclysm-DDA/pull/89088))
+* Remove riot damage from survivor bunkers ([#89093](https://github.com/CleverRaven/Cataclysm-DDA/pull/89093))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-15-2132 ([492f58d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-2132))
+
+* Adjust Wasteland Scavengers faction area claim ([#89083](https://github.com/CleverRaven/Cataclysm-DDA/pull/89083))
 
 ---
 
@@ -166,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-10-11-1547 ([fd160fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1547))
 
 * Add car charging stations ([#88963](https://github.com/CleverRaven/Cataclysm-DDA/pull/88963))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-11-1446 ([2e0f3a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1446))
-
 * Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
 * Benchtop centrifuge ([#89007](https://github.com/CleverRaven/Cataclysm-DDA/pull/89007))
 * Sanitized Hydration Packs ([#89011](https://github.com/CleverRaven/Cataclysm-DDA/pull/89011))
@@ -225,4 +228,3 @@
 * Scarlet Storm/Sea weather now more diverse, comes with dynamic(ish) lightning and fog, and has associated rebalances ([#88913](https://github.com/CleverRaven/Cataclysm-DDA/pull/88913))
 * update plastic shopping bag pocket data ([#88916](https://github.com/CleverRaven/Cataclysm-DDA/pull/88916))
 * remove unused variable ([#88922](https://github.com/CleverRaven/Cataclysm-DDA/pull/88922))
-* add structural steel sections ([#88906](https://github.com/CleverRaven/Cataclysm-DDA/pull/88906))

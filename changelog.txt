@@ -1,3 +1,8 @@
+* [MoM] PLASTIC flag also applies to telekinetic damage  (#89088)
+* Remove riot damage from survivor bunkers (#89093)
+
+Cataclysm-DDA experimental build 2026-10-15-2132 (492f58d)
+* Adjust Wasteland Scavengers faction area claim (#89083)
 
 Cataclysm-DDA experimental Android bundle 2026-10-15-0631 (27de780)
 * make zombies able to move through guardrails (#89049)
@@ -88,8 +93,6 @@ Cataclysm-DDA experimental build 2026-10-11-1833 (6c0641c)
 
 Cataclysm-DDA experimental build 2026-10-11-1547 (fd160fd)
 * Add car charging stations (#88963)
-
-Cataclysm-DDA experimental build 2026-10-11-1446 (2e0f3a5)
 * Fix requirements for Isherwood rescue prep sidequests (#89012)
 * Benchtop centrifuge (#89007)
 * Sanitized Hydration Packs (#89011)
@@ -144,4 +147,3 @@ Cataclysm-DDA experimental build 2026-10-11-1446 (2e0f3a5)
 * Scarlet Storm/Sea weather now more diverse, comes with dynamic(ish) lightning and fog, and has associated rebalances (#88913)
 * update plastic shopping bag pocket data (#88916)
 * remove unused variable (#88922)
-* add structural steel sections (#88906)
