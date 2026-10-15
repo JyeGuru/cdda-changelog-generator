@@ -1,4 +1,16 @@
 
+Cataclysm-DDA experimental build 2026-10-15-0537 (27de780)
+* make zombies able to move through guardrails (#89049)
+
+Cataclysm-DDA experimental build 2026-10-15-0433 (7c38b59)
+* make portable portal unusable in portal storm dungeon (#89072)
+* Give Stormwrought: Manatouched same restrictions as rest of them (#89063)
+* more trash on forest trails (#88931)
+* Scenarios are now divided into separate difficulty categories (#88947)
+
+Cataclysm-DDA experimental build 2026-10-15-0346 (d454760)
+* Fix bleach not spawning (#89031)
+
 Cataclysm-DDA experimental build 2026-10-15-0110 (8eb2c40)
 * Inherit faults when crafting (#89015)
 
@@ -79,14 +91,8 @@ Cataclysm-DDA experimental build 2026-10-11-1547 (fd160fd)
 
 Cataclysm-DDA experimental build 2026-10-11-1446 (2e0f3a5)
 * Fix requirements for Isherwood rescue prep sidequests (#89012)
-
-Cataclysm-DDA experimental build 2026-10-11-0239 (4936af7)
 * Benchtop centrifuge (#89007)
-
-Cataclysm-DDA experimental build 2026-10-11-0144 (cbb22c5)
 * Sanitized Hydration Packs (#89011)
-
-Cataclysm-DDA experimental build 2026-10-11-0003 (9d72a81)
 * [DinoMod] attach zombie legs and create brute and skeleton legs (#88910)
 * Bloody Footprints (#89004)
 * change variables in tests to not be shadowing #defines (#89002)
@@ -139,9 +145,3 @@ Cataclysm-DDA experimental build 2026-10-11-0003 (9d72a81)
 * update plastic shopping bag pocket data (#88916)
 * remove unused variable (#88922)
 * add structural steel sections (#88906)
-* Fix 2 scarlet storm bugs (#88901)
-* Fix Windows release build and the GCC 16 CI job (#88899)
-* Speed up the camp bulletin board, vehicle examine and item info near large item piles (#88900)
-* [Magiclysm] Force Armor for small characters (#88898)
-* fix small typo: juxtaposition (#88902)
-* Move unique portrait definitions to NPC templates (#88895)
