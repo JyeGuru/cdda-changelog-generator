@@ -1,6 +1,22 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-15-0110 ([8eb2c40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-0110))
+
+* Inherit faults when crafting ([#89015](https://github.com/CleverRaven/Cataclysm-DDA/pull/89015))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-15-0008 ([853418e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-0008))
+
+* Plastic-Shopping-bags-are-open-containers ([#89069](https://github.com/CleverRaven/Cataclysm-DDA/pull/89069))
+* Weekly Changelog 2026-10-05 to 2026-10-12 ([#89026](https://github.com/CleverRaven/Cataclysm-DDA/pull/89026))
+* Aftershock: Pirate faction & Integrate them with  Smuggler scenario ([#89046](https://github.com/CleverRaven/Cataclysm-DDA/pull/89046))
+* [SkyIsland] Allow merchant stall to be constructed without the bunker entrance ([#89065](https://github.com/CleverRaven/Cataclysm-DDA/pull/89065))
+* fix is_underwater condition, add and expose is_swimming ([#89053](https://github.com/CleverRaven/Cataclysm-DDA/pull/89053))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-14-2322 ([249d50c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-2322))
 
 * Fix misplaced window in home improvement store. ([#89076](https://github.com/CleverRaven/Cataclysm-DDA/pull/89076))
@@ -153,18 +169,8 @@
 #### Cataclysm-DDA experimental build 2026-10-11-0003 ([9d72a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-0003))
 
 * [DinoMod] attach zombie legs and create brute and skeleton legs ([#88910](https://github.com/CleverRaven/Cataclysm-DDA/pull/88910))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-10-2051 ([0947a14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-2051))
-
 * Bloody Footprints ([#89004](https://github.com/CleverRaven/Cataclysm-DDA/pull/89004))
 * change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-10-1321 ([f368a4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-10-1321))
-
 * fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
 * Fix user fonts.json being reset on every launch ([#88996](https://github.com/CleverRaven/Cataclysm-DDA/pull/88996))
 * restore old number of rations in evac shelter cabinet ([#88930](https://github.com/CleverRaven/Cataclysm-DDA/pull/88930))
@@ -178,7 +184,6 @@
 * First portal storm dungeon fragment of reality message is a popup ([#88989](https://github.com/CleverRaven/Cataclysm-DDA/pull/88989))
 * Add clause prohibiting LLM use and advocacy to code of conduct ([#88990](https://github.com/CleverRaven/Cataclysm-DDA/pull/88990))
 * Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
-* refactor some callers of all_items_loc() ([#88884](https://github.com/CleverRaven/Cataclysm-DDA/pull/88884))
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
 * Fix error with templated NPC portraits ([#88945](https://github.com/CleverRaven/Cataclysm-DDA/pull/88945))
 * Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
@@ -209,7 +214,6 @@
 * spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
 * delete old bundle recipe references ([#88919](https://github.com/CleverRaven/Cataclysm-DDA/pull/88919))
 * Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
-* Standardize tea crafting recipes and make them (mostly) unattended (feedback requested) ([#88892](https://github.com/CleverRaven/Cataclysm-DDA/pull/88892))
 * Add a GPU backend option to the graphics settings ([#88918](https://github.com/CleverRaven/Cataclysm-DDA/pull/88918))
 * migrate innawoods to SUS trash itemgroup ([#88915](https://github.com/CleverRaven/Cataclysm-DDA/pull/88915))
 * Scarlet Storm/Sea weather now more diverse, comes with dynamic(ish) lightning and fog, and has associated rebalances ([#88913](https://github.com/CleverRaven/Cataclysm-DDA/pull/88913))
@@ -222,5 +226,3 @@
 * [Magiclysm] Force Armor for small characters ([#88898](https://github.com/CleverRaven/Cataclysm-DDA/pull/88898))
 * fix small typo: juxtaposition ([#88902](https://github.com/CleverRaven/Cataclysm-DDA/pull/88902))
 * Move unique portrait definitions to NPC templates ([#88895](https://github.com/CleverRaven/Cataclysm-DDA/pull/88895))
-* Smooth lighting ([#88888](https://github.com/CleverRaven/Cataclysm-DDA/pull/88888))
-* Exodii labyrinth requires finding entrances; AltarOS safehouse is a reward, not a given ([#88891](https://github.com/CleverRaven/Cataclysm-DDA/pull/88891))
