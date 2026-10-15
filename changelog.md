@@ -1,7 +1,7 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-10-15-0537 ([27de780](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-0537))
+#### Cataclysm-DDA experimental Android bundle 2026-10-15-0631 ([27de780](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-aab-bundle-2026-10-15-0631))
 
 * make zombies able to move through guardrails ([#89049](https://github.com/CleverRaven/Cataclysm-DDA/pull/89049))
 
