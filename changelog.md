@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-16-0642 ([820a046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0642))
+
+* charge chem_black_powder back ([#89052](https://github.com/CleverRaven/Cataclysm-DDA/pull/89052))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-16-0510 ([591f5dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0510))
+
 * put threads in spool ([#89074](https://github.com/CleverRaven/Cataclysm-DDA/pull/89074))
 * Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
 * Increase items in unlooted farm supply store ([#89090](https://github.com/CleverRaven/Cataclysm-DDA/pull/89090))
@@ -162,17 +173,7 @@
 #### Cataclysm-DDA experimental build 2026-10-13-0107 ([1f29ec3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0107))
 
 * [alt-map-key] Add new overmap terrain ([#89024](https://github.com/CleverRaven/Cataclysm-DDA/pull/89024))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-12-2143 ([afe69bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-2143))
-
 * forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-12-1843 ([1bdee11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-1843))
-
 * Fix Z level fragment of reality ([#89021](https://github.com/CleverRaven/Cataclysm-DDA/pull/89021))
 * Arachnid Limbs/Arms are now limbs ([#89025](https://github.com/CleverRaven/Cataclysm-DDA/pull/89025))
 * wounds can transform over time into another wounds ([#89010](https://github.com/CleverRaven/Cataclysm-DDA/pull/89010))
@@ -223,7 +224,6 @@
 * remove two nonsensical frame recipes ([#88926](https://github.com/CleverRaven/Cataclysm-DDA/pull/88926))
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
 * Prefilter smooth filtered light once per light change ([#88925](https://github.com/CleverRaven/Cataclysm-DDA/pull/88925))
-* Fix plugged-in devices coming loose when leaving the reality bubble ([#88921](https://github.com/CleverRaven/Cataclysm-DDA/pull/88921))
 * add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
 * spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
 * Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
