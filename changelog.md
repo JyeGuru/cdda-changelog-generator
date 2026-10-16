@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-16-1303 ([fd4399e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1303))
+
+* Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-16-1201 ([1c72420](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1201))
+
+* Add the swirling vortex, a new nether monster ([#89084](https://github.com/CleverRaven/Cataclysm-DDA/pull/89084))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-16-0642 ([820a046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0642))
 
 * charge chem_black_powder back ([#89052](https://github.com/CleverRaven/Cataclysm-DDA/pull/89052))
@@ -161,17 +173,7 @@
 #### Cataclysm-DDA experimental build 2026-10-13-0402 ([50fd903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0402))
 
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-13-0256 ([9ca5448](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0256))
-
 * NPCs weigh their needs against following and guarding ([#89028](https://github.com/CleverRaven/Cataclysm-DDA/pull/89028))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-13-0107 ([1f29ec3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0107))
-
 * [alt-map-key] Add new overmap terrain ([#89024](https://github.com/CleverRaven/Cataclysm-DDA/pull/89024))
 * forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
 * Fix Z level fragment of reality ([#89021](https://github.com/CleverRaven/Cataclysm-DDA/pull/89021))
@@ -227,4 +229,3 @@
 * add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
 * spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
 * Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
-* remove unused variable ([#88922](https://github.com/CleverRaven/Cataclysm-DDA/pull/88922))
